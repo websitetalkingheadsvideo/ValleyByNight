@@ -1,186 +1,304 @@
 <?php
 /**
- * Admin Equipment Manager
- * Assign/remove items to/from characters
+ * Admin Equipment Management
+ * CRUD operations for equipment database with character assignment
  */
 
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
+
+define('LOTN_VERSION', '0.6.3');
 session_start();
 
-// Check if user is logged in and is admin
-if (!isset($_SESSION['user_id'])) {
-    header('Location: login.php');
+if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
+    header("Location: ../login.php");
     exit();
 }
 
-// TODO: Add proper admin check
-// if (!$_SESSION['is_admin']) { header('Location: index.php'); exit(); }
+require_once __DIR__ . '/../includes/connect.php';
+include __DIR__ . '/../includes/header.php';
 
-require_once 'includes/connect.php';
-
-// Get all characters
-$characters_query = "SELECT id, character_name, clan, player_name FROM characters ORDER BY character_name";
-$characters = $conn->query($characters_query);
-
-// Get all unique item types for dropdown
+// Get all unique types and categories for filters
 $types_query = "SELECT DISTINCT type FROM items ORDER BY type";
-$types_result = $conn->query($types_query);
+$types_result = mysqli_query($conn, $types_query);
 $item_types = [];
 while ($type_row = $types_result->fetch_assoc()) {
     $item_types[] = $type_row['type'];
 }
 
-// Get all items organized by category with explicit columns
-$items_query = "SELECT id, name, type, category, damage, `range`, rarity, price, image 
-                FROM items ORDER BY category, name";
-$items_result = $conn->query($items_query);
-$all_items = [];
-while ($row = $items_result->fetch_assoc()) {
-    $row['requirements'] = json_decode($row['requirements'], true);
-    $all_items[] = $row;
+$categories_query = "SELECT DISTINCT category FROM items ORDER BY category";
+$categories_result = mysqli_query($conn, $categories_query);
+$item_categories = [];
+while ($cat_row = $categories_result->fetch_assoc()) {
+    $item_categories[] = $cat_row['category'];
 }
 
-// Group items by category
-$items_by_category = [];
-foreach ($all_items as $item) {
-    $items_by_category[$item['category']][] = $item;
+// Get all characters for equipment assignment
+$characters_query = "SELECT id, character_name, clan, player_name FROM characters ORDER BY character_name";
+$characters_result = mysqli_query($conn, $characters_query);
+$all_characters = [];
+while ($char = $characters_result->fetch_assoc()) {
+    $all_characters[] = $char;
 }
-
-define('LOTN_VERSION', '0.2.1');
-<?php
-// Page CSS consumed by header include
-$extra_css = [
-    'css/style.css',
-    'css/admin_equipment.css',
-];
-include __DIR__ . '/../includes/header.php';
 ?>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <div class="admin-equipment-container">
-        <div class="admin-header">
-            <h1><i class="fas fa-shield-alt"></i> Admin Equipment Manager</h1>
-            <p>Assign items to characters and manage their inventory</p>
-            <a href="index.php" class="btn-secondary">← Back to Dashboard</a>
+
+<div class="admin-equipment-container">
+    <h1 class="panel-title">⚔️ Equipment Management</h1>
+    <p class="panel-subtitle">Create and manage equipment, assign to characters</p>
+    
+    <?php include __DIR__ . '/../includes/admin_header.php'; ?>
+    
+    <!-- Filter Controls -->
+    <div class="filter-controls">
+        <div class="filter-buttons">
+            <button class="filter-btn btn btn-outline-danger active" data-filter="all">All Equipment</button>
+            <button class="filter-btn btn btn-outline-danger" data-filter="weapons">Weapons</button>
+            <button class="filter-btn btn btn-outline-danger" data-filter="armor">Armor</button>
+            <button class="filter-btn btn btn-outline-danger" data-filter="tools">Tools</button>
+            <button class="filter-btn btn btn-outline-danger" data-filter="consumables">Consumables</button>
+            <button class="filter-btn btn btn-outline-danger" data-filter="artifacts">Artifacts</button>
         </div>
-
-        <div class="admin-layout">
-            <!-- Character List -->
-            <div class="character-list">
-                <h3>Characters</h3>
-                <input type="text" id="character-search" placeholder="Search characters..." 
-                       style="width: 100%; padding: 8px; margin-bottom: 15px; border-radius: 4px; border: 1px solid var(--border-color);">
-                
-                <div id="character-list-items">
-                    <?php while ($char = $characters->fetch_assoc()): ?>
-                        <div class="character-item" data-character-id="<?= $char['id'] ?>">
-                            <h4><?= htmlspecialchars($char['character_name']) ?></h4>
-                            <small><?= htmlspecialchars($char['clan']) ?></small><br>
-                            <small>Player: <?= htmlspecialchars($char['player_name']) ?></small>
-                        </div>
-                    <?php endwhile; ?>
-                </div>
-            </div>
-
-            <!-- Equipment Manager -->
-            <div class="equipment-manager">
-                <div id="no-character-selected" class="empty-state">
-                    <i class="fas fa-hand-pointer"></i>
-                    <h3>Select a Character</h3>
-                    <p>Choose a character from the list to manage their equipment</p>
-                </div>
-
-                <div id="equipment-interface" style="display: none;">
-                    <h2 id="selected-character-name"></h2>
-
-                    <!-- Tabs -->
-                    <div class="equipment-tabs">
-                        <button class="equipment-tab-btn active" data-tab="current">
-                            <i class="fas fa-backpack"></i> Current Inventory
-                        </button>
-                        <button class="equipment-tab-btn" data-tab="add">
-                            <i class="fas fa-plus-circle"></i> Add Items
-                        </button>
-                    </div>
-
-                    <!-- Current Inventory Tab -->
-                    <div id="tab-current" class="equipment-tab-content active">
-                        <div class="current-inventory">
-                            <div id="current-inventory-grid" class="inventory-grid">
-                                <!-- Populated by JavaScript -->
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Add Items Tab -->
-                    <div id="tab-add" class="equipment-tab-content">
-                        <div class="add-items-section">
-                            <!-- Filters -->
-                            <div style="display: flex; gap: 15px; margin-bottom: 20px;">
-                                <div style="flex: 1;">
-                                    <label for="type-filter" style="display: block; margin-bottom: 5px; font-weight: bold;">Filter by Type:</label>
-                                    <select id="type-filter" class="form-select" style="width: 100%; padding: 10px; border-radius: 4px; border: 1px solid var(--border-color); background: var(--bg-primary); color: var(--text-primary);">
-                                        <option value="all">All Types (<?= count($all_items) ?>)</option>
-                                        <?php foreach ($item_types as $type): ?>
-                                            <?php 
-                                                // Count items of this type
-                                                $type_count = count(array_filter($all_items, function($item) use ($type) {
-                                                    return $item['type'] === $type;
-                                                }));
-                                            ?>
-                                            <option value="<?= htmlspecialchars($type) ?>">
-                                                <?= htmlspecialchars($type) ?> (<?= $type_count ?>)
-                                            </option>
-                                        <?php endforeach; ?>
-                                    </select>
-                                </div>
-                                <div style="flex: 1;">
-                                    <label for="item-search" style="display: block; margin-bottom: 5px; font-weight: bold;">Search:</label>
-                                    <input type="text" id="item-search" placeholder="Search items..." 
-                                           style="width: 100%; padding: 10px; border-radius: 4px; border: 1px solid var(--border-color);">
-                                </div>
-                            </div>
-                            
-                            <div id="items-catalog">
-                                <?php foreach ($items_by_category as $category => $items): ?>
-                                    <div class="category-section">
-                                        <div class="category-header">
-                                            <span><i class="fas fa-caret-down"></i> <?= htmlspecialchars($category) ?> (<?= count($items) ?>)</span>
-                                        </div>
-                                        <div class="category-items">
-                                            <?php foreach ($items as $item): ?>
-                                                <div class="add-item-card" data-item-id="<?= $item['id'] ?>" data-item-type="<?= htmlspecialchars($item['type']) ?>">
-                                                    <h5><?= htmlspecialchars($item['name']) ?></h5>
-                                                    <div class="item-stats">
-                                                        <span class="stat-badge"><?= htmlspecialchars($item['type']) ?></span>
-                                                        <?php if ($item['damage'] != 'N/A'): ?>
-                                                            <span class="stat-badge">⚔️ <?= htmlspecialchars($item['damage']) ?></span>
-                                                        <?php endif; ?>
-                                                        <span class="stat-badge rarity-<?= $item['rarity'] ?>">
-                                                            <?= htmlspecialchars($item['rarity']) ?>
-                                                        </span>
-                                                    </div>
-                                                    <p style="font-size: 0.9em; margin: 8px 0;"><?= htmlspecialchars(substr($item['description'], 0, 100)) ?>...</p>
-                                                    <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 8px;">
-                                                        <strong style="color: var(--accent-color);">$<?= number_format($item['price']) ?></strong>
-                                                        <button class="add-item-btn" onclick="addItemToCharacter(<?= $item['id'] ?>)">
-                                                            <i class="fas fa-plus"></i> Add
-                                                        </button>
-                                                    </div>
-                                                </div>
-                                            <?php endforeach; ?>
-                                        </div>
-                                    </div>
-                                <?php endforeach; ?>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+        <div class="type-filter">
+            <label for="typeFilter">Type:</label>
+            <select id="typeFilter" class="form-select form-select-sm bg-dark text-light border-danger">
+                <option value="all">All Types</option>
+                <?php foreach ($item_types as $type): ?>
+                    <option value="<?php echo htmlspecialchars($type); ?>"><?php echo htmlspecialchars($type); ?></option>
+                <?php endforeach; ?>
+            </select>
+        </div>
+        <div class="rarity-filter">
+            <label for="rarityFilter">Rarity:</label>
+            <select id="rarityFilter" class="form-select form-select-sm bg-dark text-light border-danger">
+                <option value="all">All Rarities</option>
+                <option value="common">Common</option>
+                <option value="uncommon">Uncommon</option>
+                <option value="rare">Rare</option>
+                <option value="epic">Epic</option>
+                <option value="legendary">Legendary</option>
+            </select>
+        </div>
+        <div class="search-box">
+            <input type="text" id="equipmentSearch" class="form-control form-control-sm bg-dark text-light border-danger" placeholder="🔍 Search by name..." />
+        </div>
+        <div class="page-size-control">
+            <label for="pageSize">Per page:</label>
+            <select id="pageSize" class="form-select form-select-sm bg-dark text-light border-danger">
+                <option value="20" selected>20</option>
+                <option value="50">50</option>
+                <option value="100">100</option>
+            </select>
         </div>
     </div>
 
-    <script>
-        // Pass PHP data to JavaScript
-        const itemsData = <?= json_encode($all_items) ?>;
-    </script>
-    <script src="../js/admin_equipment.js"></script>
+    <!-- Add Equipment Button -->
+    <div style="margin-bottom: 20px;">
+        <button class="modal-btn confirm-btn btn btn-primary" onclick="openAddEquipmentModal()">
+            <i class="fas fa-plus"></i> Add New Equipment
+        </button>
+    </div>
+
+    <!-- Equipment Table -->
+    <div class="equipment-table-wrapper table-responsive">
+        <table class="equipment-table table table-dark table-hover align-middle" id="equipmentTable">
+            <thead>
+                <tr>
+                    <th data-sort="id">ID <span class="sort-icon">⇅</span></th>
+                    <th data-sort="name">Name <span class="sort-icon">⇅</span></th>
+                    <th data-sort="type">Type <span class="sort-icon">⇅</span></th>
+                    <th data-sort="category">Category <span class="sort-icon">⇅</span></th>
+                    <th data-sort="damage">Damage <span class="sort-icon">⇅</span></th>
+                    <th data-sort="range">Range <span class="sort-icon">⇅</span></th>
+                    <th data-sort="rarity">Rarity <span class="sort-icon">⇅</span></th>
+                    <th data-sort="price">Price <span class="sort-icon">⇅</span></th>
+                    <th data-sort="created_at">Created <span class="sort-icon">⇅</span></th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Populated by JavaScript -->
+            </tbody>
+        </table>
+    </div>
+
+    <!-- Pagination Controls -->
+    <div class="pagination-controls" id="paginationControls">
+        <div class="pagination-info">
+            <span id="paginationInfo" aria-live="polite" aria-atomic="true">Loading...</span>
+        </div>
+        <div class="pagination-buttons" id="paginationButtons">
+            <!-- Buttons will be generated by JavaScript -->
+        </div>
+    </div>
+</div>
+
+<!-- Add/Edit Equipment Modal -->
+<div id="equipmentModal" class="modal" role="dialog" aria-modal="true" aria-labelledby="equipmentModalTitle" aria-describedby="equipmentForm">
+    <div class="modal-content large-modal">
+        <h2 class="modal-title">⚔️ <span id="equipmentModalTitle">Add New Equipment</span></h2>
+        <button class="modal-close" onclick="closeEquipmentModal()">×</button>
+        
+        <form id="equipmentForm" class="needs-validation" novalidate>
+            <input type="hidden" id="equipmentId" name="id">
+            
+            <div class="form-row row g-3">
+                <div class="form-group mb-3 col-12 col-md-6">
+                    <label for="equipmentName" class="form-label">Name *</label>
+                    <input type="text" id="equipmentName" name="name" class="form-control" required>
+                    <div class="invalid-feedback">Please enter an equipment name.</div>
+                </div>
+                <div class="form-group mb-3 col-12 col-md-6">
+                    <label for="equipmentType" class="form-label">Type *</label>
+                    <select id="equipmentType" name="type" class="form-select" required>
+                        <option value="">Select Type</option>
+                        <?php foreach ($item_types as $type): ?>
+                            <option value="<?php echo htmlspecialchars($type); ?>"><?php echo htmlspecialchars($type); ?></option>
+                        <?php endforeach; ?>
+                    </select>
+                    <div class="invalid-feedback">Please select a type.</div>
+                </div>
+            </div>
+            
+            <div class="form-row row g-3">
+                <div class="form-group mb-3 col-12 col-md-6">
+                    <label for="equipmentCategory" class="form-label">Category *</label>
+                    <select id="equipmentCategory" name="category" class="form-select" required>
+                        <option value="">Select Category</option>
+                        <?php foreach ($item_categories as $category): ?>
+                            <option value="<?php echo htmlspecialchars($category); ?>"><?php echo htmlspecialchars($category); ?></option>
+                        <?php endforeach; ?>
+                    </select>
+                    <div class="invalid-feedback">Please select a category.</div>
+                </div>
+                <div class="form-group mb-3 col-12 col-md-6">
+                    <label for="equipmentRarity" class="form-label">Rarity *</label>
+                    <select id="equipmentRarity" name="rarity" class="form-select" required>
+                        <option value="">Select Rarity</option>
+                        <option value="common">Common</option>
+                        <option value="uncommon">Uncommon</option>
+                        <option value="rare">Rare</option>
+                        <option value="epic">Epic</option>
+                        <option value="legendary">Legendary</option>
+                    </select>
+                </div>
+            </div>
+            
+            <div class="form-row row g-3">
+                <div class="form-group mb-3 col-12 col-md-6">
+                    <label for="equipmentDamage" class="form-label">Damage</label>
+                    <input type="text" id="equipmentDamage" name="damage" class="form-control" placeholder="e.g., 2L, 3B">
+                </div>
+                <div class="form-group mb-3 col-12 col-md-6">
+                    <label for="equipmentRange" class="form-label">Range</label>
+                    <input type="text" id="equipmentRange" name="range" class="form-control" placeholder="e.g., Close, Medium">
+                </div>
+            </div>
+            
+            <div class="form-group mb-3">
+                <label for="equipmentRequirements" class="form-label">Requirements</label>
+                <textarea id="equipmentRequirements" name="requirements" class="form-control" rows="3" placeholder='e.g., strength: 3, dexterity: 2'></textarea>
+                <small class="form-text text-muted" style="color: #d4c4b0; font-size: 0.85em;">Format: attribute: value, attribute2: value2</small>
+            </div>
+            
+            <div class="form-group mb-3">
+                <label for="equipmentPrice" class="form-label">Price *</label>
+                <input type="number" id="equipmentPrice" name="price" class="form-control" required min="0">
+                <div class="invalid-feedback">Please provide a valid price.</div>
+            </div>
+            
+            <div class="form-group mb-3">
+                <label for="equipmentDescription" class="form-label">Description *</label>
+                <textarea id="equipmentDescription" name="description" class="form-control" required></textarea>
+                <div class="invalid-feedback">Please enter a description.</div>
+            </div>
+            
+            <div class="form-group mb-3">
+                <label for="equipmentImage" class="form-label">Image URL</label>
+                <input type="url" id="equipmentImage" name="image" class="form-control" placeholder="https://example.com/image.jpg">
+            </div>
+            
+            <div class="form-group mb-3">
+                <label for="equipmentNotes" class="form-label">Notes</label>
+                <textarea id="equipmentNotes" name="notes" class="form-control"></textarea>
+            </div>
+            
+            <div class="modal-actions">
+                <button type="button" class="modal-btn cancel-btn btn btn-secondary" onclick="closeEquipmentModal()">Cancel</button>
+                <button type="button" id="assignEquipmentBtn" class="modal-btn btn btn-success" onclick="openAssignModalFromEdit()" style="display: none;">
+                    <i class="fas fa-user-plus"></i> Assign to Characters
+                </button>
+                <button type="submit" class="modal-btn confirm-btn btn btn-primary">Save Equipment</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<!-- View Equipment Modal -->
+<div id="viewModal" class="modal" role="dialog" aria-modal="true" aria-labelledby="viewEquipmentName" aria-describedby="viewEquipmentContent">
+    <div class="modal-content large-modal">
+        <h2 class="modal-title">📄 <span id="viewEquipmentName">Equipment Details</span></h2>
+        <button class="modal-close" onclick="closeViewModal()">×</button>
+        
+        <div id="viewEquipmentContent" class="view-content" aria-live="polite">
+            Loading...
+        </div>
+        <div class="modal-actions">
+            <button class="modal-btn cancel-btn btn btn-secondary" onclick="closeViewModal()">Close</button>
+        </div>
+    </div>
+</div>
+
+<!-- Character Assignment Modal -->
+<div id="assignModal" class="modal" role="dialog" aria-modal="true" aria-label="Assign Equipment to Characters" aria-describedby="assignEquipmentDesc">
+    <div class="modal-content">
+        <h2 class="modal-title">🎯 Assign Equipment to Characters</h2>
+        <button class="modal-close" onclick="closeAssignModal()">×</button>
+        
+        <div class="modal-message" id="assignEquipmentDesc">
+            Assign <strong id="assignEquipmentName"></strong> to characters:
+        </div>
+        
+        <div class="character-selection" id="characterSelection">
+            <!-- Populated by JavaScript -->
+        </div>
+        
+        <div class="modal-actions">
+            <button class="modal-btn cancel-btn btn btn-secondary" onclick="closeAssignModal()">Cancel</button>
+            <button class="modal-btn confirm-btn btn btn-primary" onclick="saveAssignments()">Save Assignments</button>
+        </div>
+    </div>
+</div>
+
+<!-- Delete Modal -->
+<div id="deleteModal" class="modal" role="dialog" aria-modal="true" aria-label="Confirm Deletion" aria-describedby="deleteEquipmentName deleteWarning">
+    <div class="modal-content">
+        <h2 class="modal-title">⚠️ Confirm Deletion</h2>
+        <p class="modal-message">Delete equipment:</p>
+        <p class="modal-character-name" id="deleteEquipmentName"></p>
+        <p class="modal-warning" id="deleteWarning" style="display:none;">
+            ⚠️ <strong>This equipment is assigned to characters</strong> - remove assignments first!
+        </p>
+        <div class="modal-actions">
+            <button class="modal-btn cancel-btn btn btn-secondary" onclick="closeDeleteModal()">Cancel</button>
+            <button class="modal-btn confirm-btn btn btn-danger" id="confirmDeleteBtn" onclick="confirmDelete()">Delete</button>
+        </div>
+    </div>
+</div>
+
+<!-- Include external CSS -->
+<link rel="stylesheet" href="../css/modal.css">
+<link rel="stylesheet" href="../css/admin_equipment.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+<!-- Pass PHP data to JavaScript -->
+<script>
+    const allCharacters = <?php echo json_encode($all_characters); ?>;
+    const itemTypes = <?php echo json_encode($item_types); ?>;
+    const itemCategories = <?php echo json_encode($item_categories); ?>;
+</script>
+
+<!-- Include the external JavaScript file -->
+<script src="../js/admin_equipment.js"></script>
+<script src="../js/form_validation.js"></script>
+
 <?php include __DIR__ . '/../includes/footer.php'; ?>

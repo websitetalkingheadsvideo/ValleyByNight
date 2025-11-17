@@ -1,6 +1,33 @@
 # Version History
 
-## Current Version: 0.6.1
+## Current Version: 0.6.3
+
+**Date:** 2025-01-XX  
+**Type:** Patch (Admin Equipment Management improvements and modal CSS consolidation)
+
+### Changes:
+- Consolidated modal CSS into shared `css/modal.css` file
+- Refactored Admin Equipment page with improved UI/UX
+- Converted Type and Category fields to dropdowns (database-populated)
+- Requirements field now displays/accepts readable format instead of JSON
+- Fixed 3-column layout in equipment view modal (Basic Info, Combat Stats, Requirements)
+- Fixed character assignment modal issues (equipment ID handling)
+- Improved modal accessibility and focus management
+- Reduced vertical spacing in view modal to eliminate scrollbar
+- Added indentation to content under section headers
+- Fixed page freezing issues with action buttons
+
+## Previous Version: 0.6.2
+
+**Date:** 2025-01-XX  
+**Type:** Patch (Admin navigation refactoring)
+
+### Changes:
+- Created reusable admin navigation component (`includes/admin_header.php`)
+- Updated admin locations page to use Bootstrap grid layout
+- Navigation items now display in responsive columns instead of stacked rows
+
+## Previous Version: 0.6.1
 
 **Date:** 2025-01-XX  
 **Type:** Patch (Bug fixes and report viewer improvements)
