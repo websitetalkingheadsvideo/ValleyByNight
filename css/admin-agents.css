@@ -1,0 +1,83 @@
+/* Admin Agents - Report View Modal Styles */
+
+.json-display {
+    background: #1a0f0f;
+    border: 1px solid #8B0000;
+    border-radius: 5px;
+    padding: 20px;
+    font-family: 'Courier New', monospace;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #f5e6d3;
+    max-height: 600px;
+    overflow-y: auto;
+}
+
+.json-key {
+    color: #8B0000;
+    font-weight: bold;
+}
+
+.json-string {
+    color: #90EE90;
+}
+
+.json-number {
+    color: #87CEEB;
+}
+
+.json-boolean {
+    color: #FFD700;
+}
+
+.json-null {
+    color: #808080;
+    font-style: italic;
+}
+
+.json-object {
+    margin-left: 20px;
+}
+
+.json-array {
+    margin-left: 20px;
+}
+
+.json-item {
+    margin: 5px 0;
+}
+
+.report-summary {
+    background: rgba(139, 0, 0, 0.1);
+    border-left: 3px solid #8B0000;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.report-summary h6 {
+    color: #8B0000;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.report-summary-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0;
+    border-bottom: 1px solid rgba(139, 0, 0, 0.2);
+}
+
+.report-summary-item:last-child {
+    border-bottom: none;
+}
+
+.report-summary-label {
+    color: #b8a090;
+}
+
+.report-summary-value {
+    color: #f5e6d3;
+    font-weight: bold;
+}
+
