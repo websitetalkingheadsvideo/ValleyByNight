@@ -1,6 +1,27 @@
 # Version History
 
-## Current Version: 0.6.4
+## Current Version: 0.6.5
+
+**Date:** 2025-01-18  
+**Type:** Patch (Additional cinematic character teasers - batch 2)
+
+### Changes:
+- Created 11 new cinematic character teasers following Valley_by_Night_Cinematic_Intro_Guide.md format:
+  - Jax 'The Ghost Dealer' (Ravnos street grifter with slipping Chimerstry)
+  - Bayside Bob (Toreador Anarch liaison and tiki bar owner)
+  - Duke Tiki (Toreador elder tiki artist and mentor)
+  - Sabine (Toreador twin talon and logistics mastermind)
+  - Sebastian (Toreador twin tactician and records keeper)
+  - Leo (Nosferatu informatics engineer and underground command center operator)
+  - Betty (Nosferatu tech savant and Shrecknet architect)
+  - Lucien Marchand (Toreador ghoul sculptor and living chisel)
+  - Sofia Alvarez (Toreador ghoul interior designer and social choreographer)
+  - Piston (Brujah Anarch biker marked by diablerie)
+  - Étienne Duvalier (Toreador Primogen and gallery master)
+- All teasers include cinematic scene cards, GM notes, hooks, and plot foreshadowing
+- Consistent neo-noir gothic style with proper formatting per style guide
+
+## Previous Version: 0.6.4
 
 **Date:** 2025-01-18  
 **Type:** Patch (Cinematic Character Intro generation system and initial character intros)
