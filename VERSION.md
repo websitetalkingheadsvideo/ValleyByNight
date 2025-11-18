@@ -1,6 +1,19 @@
 # Version History
 
-## Current Version: 0.6.5
+## Current Version: 0.6.6
+
+**Date:** 2025-01-18  
+**Type:** Patch (Additional cinematic character teaser - Andrei Radulescu)
+
+### Changes:
+- Created cinematic character teaser for Andrei Radulescu (Tremere refugee scholar)
+  - Features experimental Dehydrate Thaumaturgy path research
+  - Includes scene card, GM notes, hooks, and plot foreshadowing
+  - Follows Valley_by_Night_Cinematic_Intro_Guide.md format
+  - Neo-noir gothic style with desert ritual atmosphere
+  - Connects to Garou threat and Tremere politics
+
+## Previous Version: 0.6.5
 
 **Date:** 2025-01-18  
 **Type:** Patch (Additional cinematic character teasers - batch 2)
