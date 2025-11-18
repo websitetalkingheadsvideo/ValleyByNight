@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.6.3
+## Current Version: 0.6.4
+
+**Date:** 2025-01-18  
+**Type:** Patch (Cinematic Character Intro generation system and initial character intros)
+
+## Previous Version: 0.6.3
 
 **Date:** 2025-01-XX  
 **Type:** Patch (Admin Equipment Management improvements and modal CSS consolidation)

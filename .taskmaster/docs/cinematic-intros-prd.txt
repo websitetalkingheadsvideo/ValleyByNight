@@ -1,0 +1,77 @@
+# Product Requirements Document: Character Cinematic Intro Generation
+
+## Project Overview
+Create cinematic 30-second intro scenes for all characters in the missing-character-teasers.json file, following the Valley by Night Cinematic Intro Guide format. Each intro will be generated iteratively, one character at a time, with user selection of concept direction.
+
+## Objectives
+1. Generate cinematic intro scenes for all characters in missing-character-teasers.json
+2. Follow the established Cinematic Intro Guide format and style
+3. Incorporate character data, relationships, locations, and plot hooks from VbN project
+4. Save completed intros to reference/Scenes/Character Teasers/[CharacterName].md
+5. Create a reusable workflow that can be applied to each character
+
+## Workflow Process
+
+### General Workflow Steps (Applied to Each Character)
+1. **Research Phase**: Gather character information from JSON entry and VbN project files
+   - Extract character data (biography, appearance, notes, concept, clan, nature, demeanor)
+   - Research relationships with other characters
+   - Identify relevant locations and settings (Elysium, The Velvet Door, The Hole, havens, etc.)
+   - Find plot hooks and story connections
+   - Understand character's role in Phoenix Kindred society
+
+2. **Location & Setting Analysis**: Determine appropriate intro location
+   - Many characters should be at Elysium (Cordelia's Scottsdale estate or main Camarilla gathering)
+   - Some characters will be in other locations (havens, The Velvet Door, The Hole, desert, etc.)
+   - Consider character's typical environment and social role
+
+3. **Concept Generation**: Create 3 two-sentence concept summaries
+   - **Dark concept**: Emphasize shadows, danger, moral ambiguity, or hidden threats
+   - **Elegant concept**: Emphasize refinement, beauty, social grace, or sophisticated power
+   - **Mysterious concept**: Emphasize secrets, unanswered questions, enigmatic presence, or hidden truths
+   - Location should be the most variable element across the three concepts
+   - Each concept should hint at plot hooks if available in character notes
+
+4. **User Selection**: Present 3 concepts to user for selection
+   - User chooses which concept direction to develop
+   - User may request modifications before proceeding
+
+5. **Full Intro Creation**: Write complete 30-second cinematic intro
+   - Follow Valley_by_Night_Cinematic_Intro_Guide.md format exactly
+   - Include: Scene heading, cinematic description, character action/dialogue, transitions
+   - Target duration: 30 seconds (7-9 shots, 5-7 lines)
+   - Include both formatted screenplay version and GM narration version
+   - End with signature fade-to-black + title card
+   - Incorporate selected location, tone, and plot hook hints
+
+6. **File Output**: Save completed intro
+   - Save to: reference/Scenes/Character Teasers/[CharacterName].md
+   - Use character's full name as filename
+   - Follow existing file naming conventions
+
+## Technical Requirements
+- Use existing Cinematic Intro Guide as style reference
+- Reference Valley_by_Night_Character_Art_Guide.json for visual consistency
+- Maintain neo-noir gothic tone blending 1990s Arizona realism with vampiric decadence
+- Color palette: Deep Crimson (#7A1E1E), Muted Gold (#B89B64), Ash Gray (#2F2F2F), Desert Amber (#C87B3E)
+- Lighting themes appropriate to character clan and location
+- Sound direction: ambient texture, slow jazz/string pads, minimal SFX
+
+## Success Criteria
+- All characters from missing-character-teasers.json have completed cinematic intros
+- Each intro follows the established format and style guide
+- Intros incorporate character relationships, locations, and plot hooks
+- User is satisfied with concept selection and final output for each character
+- Files are properly saved and organized in the Character Teasers directory
+
+## Character List Source
+- File: reference/Scenes/Character Teasers/tracking/missing-character-teasers.json
+- Contains approximately 30+ characters needing cinematic intros
+- Each character entry includes: id, name, notes, biography, appearance, clan, nature, demeanor, concept, equipmentTraits, negativeTraits, morality
+
+## Iterative Learning Approach
+- Process one character at a time
+- Learn from each iteration to improve subsequent character intros
+- Refine concept generation based on user feedback
+- Build understanding of VbN setting, locations, and character relationships through research
+

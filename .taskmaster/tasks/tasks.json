@@ -1,0 +1,1059 @@
+{
+  "version": "1.0.0",
+  "tags": {
+    "master": {
+      "name": "master",
+      "description": "Main development branch",
+      "createdAt": "2025-01-04T21:57:00.000Z",
+      "tasks": [
+        {
+          "id": "1",
+          "title": "Complete Character Creation Form",
+          "description": "Complete the character creation form implementation - currently cuts off mid-code and needs all 8 tabs fully implemented with proper content and functionality",
+          "status": "pending",
+          "priority": "high",
+          "dependencies": [],
+          "details": "The lotn_char_create.php file is incomplete. Need to implement all 8 tabs: Basic Info, Traits, Abilities, Disciplines, Backgrounds, Morality, Merits & Flaws, Final Details. Currently only Basic Info and partial Traits are implemented.",
+          "testStrategy": "Test all tabs can be navigated, forms work properly, and all sections have appropriate content.",
+          "subtasks": []
+        },
+        {
+          "id": "2",
+          "title": "Implement Character Loading/Editing",
+          "description": "Add character loading/editing functionality to allow users to modify existing characters",
+          "status": "pending",
+          "priority": "high",
+          "dependencies": [
+            "1"
+          ],
+          "details": "Create functionality to load existing characters from database and allow editing. This includes form population, validation, and update operations.",
+          "testStrategy": "Test loading existing characters, editing them, and saving changes back to database.",
+          "subtasks": []
+        },
+        {
+          "id": "3",
+          "title": "Add Character List to Dashboard",
+          "description": "Create character list view in dashboard showing all user's characters with management options",
+          "status": "pending",
+          "priority": "medium",
+          "dependencies": [
+            "1",
+            "2"
+          ],
+          "details": "Update dashboard.php to show a list of user's characters with options to view, edit, or delete them.",
+          "testStrategy": "Test character list displays correctly, shows proper character information, and management actions work.",
+          "subtasks": []
+        },
+        {
+          "id": "4",
+          "title": "Complete JavaScript Functionality",
+          "description": "Complete JavaScript for trait selection, XP tracking, and form validation",
+          "status": "pending",
+          "priority": "high",
+          "dependencies": [
+            "1"
+          ],
+          "details": "Implement JavaScript functions for trait selection, real-time XP calculation, form validation, and interactive features.",
+          "testStrategy": "Test all interactive features work properly, XP calculations are accurate, and form validation prevents invalid submissions.",
+          "subtasks": []
+        },
+        {
+          "id": "5",
+          "title": "Improve CSS Styling and Responsive Design",
+          "description": "Modernize CSS styling and add responsive design for mobile/desktop compatibility",
+          "status": "pending",
+          "priority": "medium",
+          "dependencies": [
+            "1"
+          ],
+          "details": "Enhance the existing CSS in css/style.css to be more modern, responsive, and user-friendly across different screen sizes.",
+          "testStrategy": "Test on various screen sizes and devices to ensure proper responsive behavior.",
+          "subtasks": []
+        },
+        {
+          "id": "6",
+          "title": "Add Error Handling and User Feedback",
+          "description": "Implement proper error handling and user feedback throughout the application",
+          "status": "pending",
+          "priority": "medium",
+          "dependencies": [
+            "1",
+            "2"
+          ],
+          "details": "Add comprehensive error handling, user feedback messages, validation errors, and success notifications.",
+          "testStrategy": "Test error scenarios, validation failures, and success cases to ensure proper user feedback.",
+          "subtasks": []
+        }
+      ]
+    }
+  },
+  "currentTag": "master",
+  "master": {
+    "tasks": [
+      {
+        "id": 53,
+        "title": "Audit admin/agents.php layout against existing admin panel components",
+        "description": "Conduct a comprehensive visual and code audit of the new admin/agents.php layout to identify discrepancies in containers, typography, spacing, and button styles compared to existing admin UI components, then prepare a detailed change list for alignment.",
+        "details": "1. Open admin/agents.php in browser and take screenshots of all sections\n2. Compare with existing admin panel pages (dashboard, users, settings, etc.) to establish baseline UI patterns:\n   - Container widths, margins, and padding standards\n   - Typography hierarchy (h1, h2, h3, p, labels) and font sizes\n   - Button styles, colors, hover states, and sizing\n   - Form element styling and spacing\n   - Table layouts and cell padding\n   - Navigation and breadcrumb patterns\n3. Document current admin/agents.php CSS classes and inline styles\n4. Create detailed comparison matrix identifying specific discrepancies:\n   - Container: wrapper divs, content areas, sidebar alignment\n   - Typography: heading sizes, font weights, line heights, color values\n   - Spacing: margins between sections, padding within elements\n   - Buttons: primary/secondary styles, dimensions, border radius\n5. Generate prioritized change list with specific CSS modifications needed\n6. Include before/after mockups or annotated screenshots\n7. Note any custom styling that should be preserved vs. standardized\n8. Document recommended CSS class names to match existing admin conventions",
+        "testStrategy": "Review change list with UI/UX team for completeness. Cross-reference identified discrepancies by viewing admin/agents.php alongside 3-4 other admin pages in split-screen mode. Validate that all major UI components (headers, forms, tables, buttons) are covered in the audit. Confirm change list includes specific CSS selectors and property values for each required modification.",
+        "status": "done",
+        "dependencies": [],
+        "priority": "medium",
+        "subtasks": [
+          {
+            "id": 1,
+            "title": "Capture current admin panel layout patterns",
+            "description": "Review admin/admin_panel.php and note container classes, card markup, spacing utilities, typography, and button styles that define the standard admin visual language.",
+            "details": "<info added on 2025-11-09T12:18:10.697Z>\nEstablished baseline admin styling patterns from admin_panel.php analysis:\n\nContainer Structure:\n- Main wrapper: div.admin-panel-container.container-fluid.py-4.px-3.px-md-4 with max-width 1600px\n- Custom font definitions in inline style block\n\nTypography Hierarchy:\n- Primary titles: display-5, lead, text-light, fw-bold, fst-italic classes\n- Section headers: h2.h6.text-light.mb-0 or similar text-light headings\n- Supporting text: text-light/text-muted combinations\n- Emoji prefixes for section names (🔧 for Characters)\n- Font references: --font-brand/body variables\n\nNavigation Pattern:\n- Container: div.admin-nav.row.g-2.g-md-3.mb-4\n- Button wrapper: col-* responsive columns\n- Button styling: nav-btn.btn.btn-outline-danger.btn-sm.w-100.text-center\n- Active state: .active class application\n\nComponent Styling:\n- Stats widgets: .stat-mini elements with gradient backgrounds, borders, centered typography\n- Grid system: Bootstrap responsive columns (col-12 col-sm-4 col-lg-3)\n- Cards/tables: dark gradient backgrounds with #8B0000 borders\n- Consistent btn-outline-danger palette for all buttons\n- Layout spacing: Bootstrap rows with g-* spacing and mb-4 margin utilities\n\nThese patterns will serve as the reference standard for agents.php refactoring to ensure visual consistency across the admin interface.\n</info added on 2025-11-09T12:18:10.697Z>",
+            "status": "done",
+            "dependencies": [],
+            "parentTaskId": 53
+          },
+          {
+            "id": 2,
+            "title": "Document discrepancies on admin/agents.php",
+            "description": "Walk through admin/agents.php markup to log deviations from the standard admin layout (containers, card styles, typography, spacing, button classes) and flag any missing shared includes.",
+            "details": "<info added on 2025-11-09T12:18:23.720Z>\nReviewed G:\\VbN\\admin\\agents.php for mismatches:\n- Page wrapper lacks admin-panel-container class; uses body.no-scroll and container-fluid py-4 but without px-3/px-md-4 padding and custom typography.\n- Inline <style> block defines ad-hoc .agent-card, .no-scroll styles; deviates from theme and violates external CSS rule (should reuse admin styles rather than local overrides).\n- Cards rely on .card default styling without gradient background or crimson border used elsewhere; typography uses default Bootstrap rather than text-light palettes.\n- Buttons inside cards use btn-primary/btn-outline-secondary instead of btn-outline-danger scheme; inconsistent sizes (btn-sm but colors differ).\n- Data access paths rendered with <code> elements that inherit default colors (likely dark on dark background when theme applied) — need theme-consistent text-muted styling.\n- No global background wrapper providing dark theme; page likely shows white background given missing admin layout classes.\n- Header area: h1.h3 text-dark default, lacks emoji or themed fonts.\n- Planned agents list is simple ul with default bullets; may need styling to match admin typography/text-muted.\nThese require swapping to shared classes, removing inline styles, and aligning button palette with btn-outline-danger variations.\n</info added on 2025-11-09T12:18:23.720Z>",
+            "status": "done",
+            "dependencies": [],
+            "parentTaskId": 53
+          }
+        ]
+      },
+      {
+        "id": 54,
+        "title": "Implement admin/agents.php UI standardization and navigation integration",
+        "description": "Update admin/agents.php to use standard admin panel card/grid structure and typography based on approved audit findings, then add Agents navigation entry to admin_panel.php for dashboard accessibility.",
+        "details": "1. Wait for Task 53 audit approval and review the detailed change list for required UI modifications\n2. Update admin/agents.php layout structure:\n   - Replace custom containers with standard admin card/grid classes\n   - Apply consistent typography hierarchy (h1, h2, h3, p, labels) matching other admin pages\n   - Update button styles to mirror existing admin panel buttons exactly (colors, hover states, sizing)\n   - Standardize form element styling and spacing\n   - Align table layouts and cell padding with admin standards\n   - Ensure responsive grid behavior matches other admin pages\n3. Preserve all existing PHP data logic and backend functionality - only modify HTML structure and CSS classes\n4. Add navigation entry to admin/admin_panel.php:\n   - Locate existing navigation menu structure\n   - Insert new \"Agents\" menu item following established patterns\n   - Use consistent icon, styling, and URL structure\n   - Position appropriately within menu hierarchy\n5. Test navigation flow from dashboard to agents page\n6. Verify all existing functionality remains intact after UI changes",
+        "testStrategy": "Verify admin/agents.php visually matches other admin pages in terms of layout, typography, and button styles through side-by-side comparison. Test all existing functionality (CRUD operations, filtering, pagination) to ensure PHP logic remains unaffected. Confirm new Agents navigation entry appears correctly in admin dashboard and links properly to agents page. Test responsive behavior across different screen sizes. Validate HTML markup follows admin panel conventions and CSS classes are consistent with existing pages.",
+        "status": "done",
+        "dependencies": [
+          53
+        ],
+        "priority": "medium",
+        "subtasks": [
+          {
+            "id": 1,
+            "title": "Refactor agents page layout with shared admin classes",
+            "description": "Apply the audit findings to admin/agents.php: swap in the standard admin container markup, card styles, typography classes, and spacing utilities without touching PHP logic.",
+            "details": "<info added on 2025-11-09T12:19:34.546Z>\nExtend scope to include building the new Agents summary row between the stats and questionnaire sections. Requirements: integrate Bootstrap row/col cards for Agents overview, include entries for the Agents dashboard and Laws Agent, reserve space for future cards, and ensure styles mirror admin_panel.php components. Keep PHP logic intact while reusing shared admin classes and removing inline styles.\n</info added on 2025-11-09T12:19:34.546Z>",
+            "status": "done",
+            "dependencies": [],
+            "parentTaskId": 54
+          },
+          {
+            "id": 2,
+            "title": "Expose agents page via admin panel navigation",
+            "description": "Insert an Agents navigation button into admin/admin_panel.php alongside the existing section links, matching markup, classes, order, and iconography conventions.",
+            "details": "<info added on 2025-11-09T12:19:44.030Z>\nCreate Agents nav button in admin_panel.php using 👥 icon (two silhouettes) and consistent btn-outline-danger styling; position near existing section links. Remove any existing Laws Agent link from the header include so the only access points are in the new Agents row and nav button. Confirm markup mirrors surrounding buttons and maintains responsive grid sizing.\n</info added on 2025-11-09T12:19:44.030Z>",
+            "status": "done",
+            "dependencies": [],
+            "parentTaskId": 54
+          },
+          {
+            "id": 3,
+            "title": "Verify visual parity and link routing",
+            "description": "Compare the updated agents page against the admin panel for layout and styling parity, ensure no scrollbars appear unexpectedly, and test the new navigation link routes to /admin/agents.php.",
+            "details": "",
+            "status": "done",
+            "dependencies": [],
+            "parentTaskId": 54
+          }
+        ]
+      },
+      {
+        "id": 55,
+        "title": "Implement Character Agent automation pipeline that processes Valley by Night characters directly from the MySQL database via includes/connect.php and writes outputs into agents/character_agent/reports/",
+        "description": "Create an automated pipeline that connects to the MySQL database using the existing includes/connect.php connection, retrieves Valley by Night character data, processes it through the character agent system, and generates structured reports in the agents/character_agent/reports/ directory.",
+        "details": "1. Create main pipeline script at agents/character_agent/pipeline.php:\n   - Include includes/connect.php for database connectivity\n   - Query characters table to retrieve all Valley by Night character records\n   - Implement error handling for database connection failures\n   \n2. Design character data processing workflow:\n   - Extract character attributes (name, clan, generation, disciplines, etc.)\n   - Format data into standardized structure for agent processing\n   - Handle missing or null character data gracefully\n   \n3. Implement report generation system:\n   - Create agents/character_agent/reports/ directory structure\n   - Generate individual character analysis reports (JSON/HTML format)\n   - Create summary reports aggregating character statistics\n   - Implement timestamped file naming convention (YYYY-MM-DD_HH-MM-SS_character_report.json)\n   \n4. Add automation features:\n   - Command-line interface for manual execution\n   - Scheduling capability for automated runs\n   - Progress tracking and logging system\n   - Configuration file for customizable processing parameters\n   \n5. Database optimization:\n   - Use prepared statements for secure queries\n   - Implement pagination for large character datasets\n   - Add indexing recommendations for performance\n   \n6. Error handling and logging:\n   - Log all database operations and errors\n   - Implement retry logic for failed operations\n   - Create detailed error reports for troubleshooting\n<info added on 2025-11-12T09:23:14.816Z>\n7. Asset audit and schema documentation:\n   - Completed comprehensive audit of existing agents/character_agent assets including README, prompts, and dry-run script\n   - Developed formal output schema specification covering markdown briefs, missing-field JSON, continuity payloads, logging, and configuration contract\n   - Created detailed implementation planning documents:\n     * tmp/character-agent-pipeline-plan.md - defines implementation scope and approach\n     * tmp/character-agent-schema.md - specifies data structures and output formats\n   - Established baseline for pipeline development based on existing agent capabilities and requirements\n</info added on 2025-11-12T09:23:14.816Z>\n<info added on 2025-11-12T09:36:36.497Z>\n8. Core infrastructure implementation:\n   - Implemented Agents/character_agent/config/pipeline.php providing immutable runtime configuration including chronicle targeting, batch processing controls, file path definitions, and feature toggle management\n   - Created Agents/character_agent/src/character_fetcher.php with reusable database utilities for connection validation, batched chronicle record streaming, and row payload normalization while preserving input state integrity\n   - Extended agents/character_agent/reports/ directory structure with history bucket subdirectory to align with established schema requirements\n   - Established foundational components that enable pipeline orchestration and report generation workflows\n</info added on 2025-11-12T09:36:36.497Z>\n<info added on 2025-11-12T09:44:35.901Z>\n9. Pipeline execution and processing modules implementation:\n   - Implemented Agents/character_agent/src/character_processor.php with deterministic brief eligibility checks, trait/hook extraction, missing-field payload generation, slug creation, and log assembly utilities\n   - Created Agents/character_agent/src/report_writer.php for markdown brief rendering, history file compilation, and structured output persistence with strict directory management\n   - Added Agents/character_agent/src/logger.php providing JSON line logging capabilities and run summary generation\n   - Completed main Agents/character_agent/pipeline.php orchestration script integrating CLI argument parsing, configuration loading, batched database streaming, report generation, history aggregation, and log emission with comprehensive dry-run support\n   - Extended Agents/character_agent/reports/history/.gitkeep to ensure proper history target directory structure\n   - Updated implementation plan checklist to reflect completion of fetcher, processor, writer, and CLI execution components\n</info added on 2025-11-12T09:44:35.901Z>\n<info added on 2025-11-12T14:54:19.183Z>\n10. Web-based execution interface implementation:\n   - Refactored Agents/character_agent/pipeline.php to separate core runner logic from CLI execution, enabling structured summary returns and reusable function access from web contexts without automatic execution\n   - Implemented admin/character_agent_run.php as authenticated web interface gated by admin session validation, providing browser-based pipeline execution with selectable processing modes, optional record limits, and dry-run capabilities\n   - Added direct browser output for success/error details and execution summaries, eliminating shell access requirements while maintaining full pipeline functionality\n   - Updated implementation plan checklist to document completion of authenticated web entry point alongside existing CLI execution pathway\n</info added on 2025-11-12T14:54:19.183Z>",
+        "testStrategy": "Test database connectivity using includes/connect.php and verify successful character data retrieval. Create test characters in database and run pipeline to confirm proper data extraction and processing. Verify report files are generated in correct directory structure with proper naming conventions and valid JSON/HTML format. Test error handling by simulating database connection failures and invalid character data. Run pipeline with large character datasets to validate performance and memory usage. Confirm automated scheduling works correctly and generates consistent reports. Validate all generated reports contain expected character data fields and proper formatting.",
+        "status": "in-progress",
+        "dependencies": [
+          54
+        ],
+        "priority": "medium",
+        "subtasks": []
+      },
+      {
+        "id": 56,
+        "title": "Integrate Laws of the Night folder system into existing Laws Agent with file-based markdown loader",
+        "description": "Extend the existing Laws Agent to support both database queries (rulebook_pages table) and file-based markdown indexing from agents/Laws_of_the_Night/ directory, creating a hybrid knowledge system that prioritizes file-based content while maintaining database fallback functionality.",
+        "details": "1. Create file-based markdown loader system:\n   - Implement agents/laws_agent/markdown_loader.php class with recursive directory scanning\n   - Index all .md files in agents/Laws_of_the_Night/ including subdirectories (chapters/, clans/, disciplines/)\n   - Extract metadata from markdown frontmatter (title, category, tags, priority)\n   - Build searchable index with full-text content and structured metadata\n   - Implement caching mechanism using file modification timestamps for performance\n\n2. Extend existing Laws Agent architecture:\n   - Modify current database query logic to integrate with file-based system\n   - Implement priority-based search that checks file index first, then database fallback\n   - Create unified response format that combines results from both sources\n   - Add source attribution (file path vs database record) to responses\n\n3. Implement search and retrieval logic:\n   - Use fuzzy matching algorithms (Levenshtein distance) for rule name queries\n   - Implement semantic search using keyword extraction and relevance scoring\n   - Support category-based filtering (chapters, clans, disciplines)\n   - Create response ranking system that prioritizes exact matches and recent content\n\n4. Database integration and migration:\n   - Maintain backward compatibility with existing rulebook_pages queries\n   - Add configuration option to enable/disable file-based vs database-only mode\n   - Implement sync mechanism to update database with file-based content when needed\n   - Create admin interface toggle for switching between search modes\n\n5. Error handling and logging:\n   - Implement comprehensive error handling for file system access issues\n   - Add logging for indexing operations and search performance metrics\n   - Create fallback mechanisms when file system is unavailable\n   - Validate markdown parsing and handle malformed files gracefully",
+        "testStrategy": "Create test markdown files in agents/Laws_of_the_Night/ with various structures (chapters, clans, disciplines) and verify successful indexing and retrieval. Test search functionality with exact rule names, partial matches, and category filters to ensure both file-based and database results are properly integrated. Verify performance by measuring response times for file indexing vs database queries with large datasets. Test error scenarios including missing directories, corrupted markdown files, and database connectivity issues to confirm graceful fallback behavior. Validate that existing Laws Agent functionality remains intact while new file-based features work correctly through A/B testing of responses.",
+        "status": "done",
+        "dependencies": [
+          54
+        ],
+        "priority": "high",
+        "subtasks": [
+          {
+            "id": 1,
+            "title": "File discovery and structure analysis",
+            "description": "Analyze the agents/Laws_of_the_Night/ directory structure to understand the organization of markdown files and establish indexing requirements.",
+            "dependencies": [],
+            "details": "Perform comprehensive analysis of the Laws_of_the_Night directory structure including chapters/, clans/, disciplines/ subdirectories. Document file naming conventions, frontmatter patterns, and content organization. Create specification for metadata extraction requirements and establish indexing schema for different content types.\n<info added on 2025-11-15T01:28:16.891Z>\n**Analysis Results:**\n\nDirectory contains 84 markdown files across 3 subdirectories (chapters/, clans/, disciplines/) plus root-level TOC.md and metadata.json. File naming shows duplicates with numbered prefixes (e.g., Brujah.md vs 02_Clan_Brujah.md). YAML frontmatter includes title, chapter, section, and tags fields. Some files are content stubs referencing main chapters while others contain full content.\n\n**Recommended Indexing Schema:**\n- Prioritize numbered file versions over duplicates\n- Extract and index YAML frontmatter metadata\n- Full-text content indexing with category-based filtering\n- File path tracking for citation purposes\n- Metadata.json integration for structured navigation\n</info added on 2025-11-15T01:28:16.891Z>",
+            "status": "done",
+            "testStrategy": "Manually traverse directory structure and document findings. Create test cases for different file types and verify structure analysis covers all content categories."
+          },
+          {
+            "id": 2,
+            "title": "Design loader/indexer module architecture",
+            "description": "Design the overall architecture for the markdown_loader.php class including interfaces, data structures, and integration points.",
+            "dependencies": [
+              1
+            ],
+            "details": "Create detailed design for agents/laws_agent/markdown_loader.php class including public API methods, internal data structures for indexing, caching mechanisms using file modification timestamps, and integration interfaces with existing Laws Agent. Define search index schema and metadata extraction patterns.\n<info added on 2025-11-15T01:28:53.023Z>\nArchitecture designed and implemented:\n\n**Class: LawsOfTheNightLoader**\n- Location: agents/laws_agent/markdown_loader.php\n- Public API:\n  - `loadIndex()` - Load and index all markdown files\n  - `search($query, $category, $limit)` - Search indexed content\n  - `getAllEntries()` - Get all indexed entries\n  - `getStats()` - Get indexing statistics\n  - `getExcerpt($content, $maxLength)` - Format content excerpts\n\n**Data Structures:**\n- Index array: Each entry contains id, file_path, relative_path, title, chapter, section, tags, category, content, content_lower, modified_time\n- Category detection: chapter, clan, discipline, other\n- Frontmatter extraction: title, chapter, section, tags (YAML parser)\n\n**Features:**\n- Recursive directory scanning\n- YAML frontmatter parsing\n- Category-based filtering\n- Relevance scoring (title > section > content > tags)\n- File modification time tracking\n</info added on 2025-11-15T01:28:53.023Z>",
+            "status": "done",
+            "testStrategy": "Review architecture design with development team. Create mock implementations to validate interface design and ensure compatibility with existing Laws Agent structure."
+          },
+          {
+            "id": 3,
+            "title": "Implement file scanner with recursive directory traversal",
+            "description": "Build the core file scanning functionality that recursively discovers and catalogs all markdown files in the Laws_of_the_Night directory.",
+            "dependencies": [
+              2
+            ],
+            "details": "Implement recursive directory scanning logic in markdown_loader.php that discovers all .md files in agents/Laws_of_the_Night/ and subdirectories. Include file modification timestamp tracking for cache invalidation, error handling for file system access issues, and filtering logic to exclude non-markdown files.",
+            "status": "done",
+            "testStrategy": "Create test directory structure with various markdown files and verify complete discovery. Test with different file permissions and missing directories to ensure robust error handling."
+          },
+          {
+            "id": 4,
+            "title": "Implement markdown parser with frontmatter extraction",
+            "description": "Create markdown parsing functionality that extracts frontmatter metadata and processes content for indexing.",
+            "dependencies": [
+              3
+            ],
+            "details": "Build markdown parsing system that extracts YAML frontmatter (title, category, tags, priority) and processes markdown content. Implement validation for malformed files, content sanitization, and structured data extraction. Handle various frontmatter formats and provide fallback metadata when frontmatter is missing.",
+            "status": "done",
+            "testStrategy": "Test with markdown files containing various frontmatter formats, malformed YAML, and missing metadata. Verify proper content extraction and error handling for corrupted files."
+          },
+          {
+            "id": 5,
+            "title": "Implement search and indexing system with fuzzy matching",
+            "description": "Build the core search functionality including full-text indexing, fuzzy matching algorithms, and relevance scoring.",
+            "dependencies": [
+              4
+            ],
+            "details": "Implement searchable index with full-text content and structured metadata. Add fuzzy matching using Levenshtein distance for rule name queries, semantic search with keyword extraction, category-based filtering, and response ranking system that prioritizes exact matches and recent content.",
+            "status": "done",
+            "testStrategy": "Test search functionality with exact rule names, partial matches, misspellings, and category filters. Verify relevance scoring produces logical results and fuzzy matching handles common typos."
+          },
+          {
+            "id": 6,
+            "title": "Integrate with existing Laws Agent API and database fallback",
+            "description": "Modify the existing Laws Agent to incorporate file-based search with database fallback functionality.",
+            "dependencies": [
+              5
+            ],
+            "details": "Extend existing Laws Agent architecture to implement priority-based search that checks file index first, then database fallback. Create unified response format combining results from both sources, add source attribution (file path vs database record), and maintain backward compatibility with existing rulebook_pages queries.\n<info added on 2025-11-15T01:29:22.837Z>\nIntegration complete:\n\n**Changes to api.php:**\n1. Added require for markdown_loader.php\n2. Modified ask_laws_agent() to:\n   - Load and search file-based index first (Laws of the Night files)\n   - Convert file results to unified format matching database structure\n   - Merge file and database results\n   - Prioritize file results in sorting (adds +50 relevance boost)\n   - Add source_type field to all results ('file' or 'database')\n   - Include file_path, title, section in file-based sources\n\n**Integration Features:**\n- File-based search runs first, database as fallback\n- Graceful error handling (falls back to database if file system fails)\n- Unified response format maintains backward compatibility\n- Source attribution shows file paths for file-based results\n- Results sorted by relevance with file results prioritized\n</info added on 2025-11-15T01:29:22.837Z>",
+            "status": "done",
+            "testStrategy": "Test hybrid search functionality with both file-based and database content. Verify proper fallback behavior when file system is unavailable and ensure existing database queries continue to work."
+          },
+          {
+            "id": 7,
+            "title": "Add admin and debug UI with configuration options",
+            "description": "Create administrative interface for managing the hybrid knowledge system including search mode toggles and debugging tools.",
+            "dependencies": [
+              6
+            ],
+            "details": "Implement admin interface toggle for switching between file-based vs database-only mode, configuration options to enable/disable different search modes, debugging interface showing indexing status and search performance metrics, and sync mechanism to update database with file-based content when needed.\n<info added on 2025-11-15T01:29:50.556Z>\nAdmin/debug features implementation completed with two new API endpoints and enhanced frontend display. The debug_stats endpoint provides comprehensive indexing statistics including file counts by category, timestamps, and error reporting. The test_search endpoint enables query testing with category filtering and returns detailed results with relevance scores and file paths. Frontend now displays file paths for file-based sources with tooltips containing full path information. Administrators can monitor system status via api.php?action=debug_stats and test search functionality using api.php?action=test_search with query parameters.\n</info added on 2025-11-15T01:29:50.556Z>",
+            "status": "done",
+            "testStrategy": "Test admin interface functionality including mode switching, configuration persistence, and debug information accuracy. Verify sync mechanism properly updates database with file changes."
+          },
+          {
+            "id": 8,
+            "title": "Testing and documentation with comprehensive validation",
+            "description": "Create comprehensive test suite and documentation for the integrated Laws Agent system.",
+            "dependencies": [
+              7
+            ],
+            "details": "Develop comprehensive test suite covering file discovery, markdown parsing, search functionality, database integration, and error handling scenarios. Create user documentation for search features, admin documentation for configuration options, and developer documentation for extending the system. Include performance benchmarks and troubleshooting guides.\n<info added on 2025-11-15T01:30:00.788Z>\nDocumentation completed with comprehensive README.md file in agents/laws_agent/ directory. The documentation covers all essential aspects including architecture overview, component descriptions, hybrid search system explanation, file structure details, step-by-step guides for adding new markdown content, admin/debug features usage, configuration options, error handling behavior, performance considerations, API integration notes, and future enhancement ideas. Documentation provides clear examples for debug endpoint usage and emphasizes backward compatibility assurance for existing database functionality.\n</info added on 2025-11-15T01:30:00.788Z>",
+            "status": "done",
+            "testStrategy": "Execute full test suite including unit tests, integration tests, and performance tests. Validate documentation accuracy through user testing and ensure all features are properly documented with examples."
+          }
+        ]
+      },
+      {
+        "id": 57,
+        "title": "Synchronize character nature/demeanor dropdown options with database values",
+        "description": "Scan the characters table for all unique nature and demeanor values, compare them with existing dropdown options in lotn_char_create.php, and update the select elements to include any missing values for complete character data display.",
+        "details": "1. Create database scanning script:\n   - Connect to MySQL database using includes/connect.php\n   - Query characters table: SELECT DISTINCT nature FROM characters WHERE nature IS NOT NULL AND nature != ''\n   - Query characters table: SELECT DISTINCT demeanor FROM characters WHERE demeanor IS NOT NULL AND demeanor != ''\n   - Store results in arrays for comparison\n\n2. Analyze existing dropdown options in lotn_char_create.php:\n   - Locate nature and demeanor select elements in the form\n   - Extract current option values from both dropdowns\n   - Create arrays of existing options for comparison\n\n3. Identify missing values:\n   - Compare database unique values against existing dropdown options\n   - Create lists of missing nature and demeanor values\n   - Log findings for review (missing values, potential duplicates, formatting inconsistencies)\n\n4. Update dropdown elements:\n   - Add missing nature values to the nature select element in alphabetical order\n   - Add missing demeanor values to the demeanor select element in alphabetical order\n   - Maintain existing option structure and formatting\n   - Preserve any default/placeholder options\n\n5. Validation and cleanup:\n   - Review database values for potential data quality issues (typos, inconsistent formatting)\n   - Consider standardizing capitalization and formatting\n   - Document any values that seem questionable for manual review",
+        "testStrategy": "Create test characters in database with various nature/demeanor combinations including edge cases (special characters, mixed case, unusual values). Run the scanning script to verify it correctly identifies all unique values from the characters table. Load lotn_char_create.php and confirm all dropdown options are present and properly formatted. Test character editing functionality by loading existing characters like Betty to ensure their nature/demeanor values now display correctly in the dropdowns. Verify alphabetical ordering of options and that no duplicate entries were created.",
+        "status": "done",
+        "dependencies": [
+          55
+        ],
+        "priority": "high",
+        "subtasks": [
+          {
+            "id": 1,
+            "title": "Create database scanning script for nature/demeanor values",
+            "description": "Develop a PHP script to connect to MySQL database and extract unique nature and demeanor values from the characters table",
+            "dependencies": [],
+            "details": "Create a new PHP file that includes includes/connect.php for database connectivity. Write SQL queries to SELECT DISTINCT nature and demeanor values from characters table, filtering out NULL and empty values. Store results in arrays for later comparison with dropdown options.",
+            "status": "done",
+            "testStrategy": "Test database connection and verify queries return expected unique values by manually checking a sample of characters table data"
+          },
+          {
+            "id": 2,
+            "title": "Parse existing dropdown options from lotn_char_create.php",
+            "description": "Extract current nature and demeanor select element options from the character creation form file",
+            "dependencies": [
+              1
+            ],
+            "details": "Open lotn_char_create.php file and locate the nature and demeanor select elements. Parse the HTML to extract all current option values from both dropdowns. Create arrays containing existing options for comparison against database values.",
+            "status": "done",
+            "testStrategy": "Manually verify extracted options match what's visible in the actual form by loading the page in browser"
+          },
+          {
+            "id": 3,
+            "title": "Compare database values with existing dropdown options",
+            "description": "Identify missing nature and demeanor values by comparing database results against current dropdown options",
+            "dependencies": [
+              1,
+              2
+            ],
+            "details": "Use array comparison functions to identify values present in database but missing from dropdowns. Create separate arrays for missing nature and demeanor values. Log findings including any potential data quality issues like inconsistent formatting or suspicious entries.",
+            "status": "done",
+            "testStrategy": "Create test scenarios with known missing values in database and verify comparison logic correctly identifies them"
+          },
+          {
+            "id": 4,
+            "title": "Update dropdown elements with missing values",
+            "description": "Modify the nature and demeanor select elements in lotn_char_create.php to include all missing database values",
+            "dependencies": [
+              3
+            ],
+            "details": "Add missing nature and demeanor values to their respective select elements in alphabetical order. Maintain existing HTML structure and formatting. Preserve any default or placeholder options that may exist. Ensure proper HTML escaping for special characters.\n<info added on 2025-11-15T03:37:36.792Z>\nImplementation completed with two PHP scripts:\n\n1. database/scan_nature_demeanor.php - Diagnostic script that queries the database for unique nature/demeanor values, parses existing dropdown options from lotn_char_create.php, compares to identify missing values, checks for case sensitivity issues, and displays comprehensive findings report.\n\n2. database/update_nature_demeanor_dropdowns.php - Automated update script that scans database for unique values, identifies missing dropdown options, creates automatic backup of lotn_char_create.php, updates both dropdowns with missing values in alphabetical order while preserving HTML structure, and provides detailed feedback on additions made.\n\nBoth scripts are browser-ready and will ensure characters like Betty display correctly when loaded for editing by automatically synchronizing dropdown options with database values.\n</info added on 2025-11-15T03:37:36.792Z>",
+            "status": "done",
+            "testStrategy": "Load updated lotn_char_create.php in browser and verify all new options appear correctly in both dropdowns with proper formatting"
+          },
+          {
+            "id": 5,
+            "title": "Validate data quality and document findings",
+            "description": "Review database values for potential data quality issues and create documentation of changes made",
+            "dependencies": [
+              4
+            ],
+            "details": "Examine all nature and demeanor values for typos, inconsistent capitalization, or formatting issues. Create a report documenting what values were added, any questionable entries found, and recommendations for data cleanup. Consider standardizing capitalization across all values.",
+            "status": "done",
+            "testStrategy": "Create comprehensive test characters with various nature/demeanor combinations and verify dropdown synchronization works correctly for all edge cases"
+          }
+        ]
+      },
+      {
+        "id": 58,
+        "title": "Create archetypes table and migrate nature/demeanor dropdowns to use it",
+        "description": "Create a new archetypes database table with id, name, and description columns, populate it with merged unique values from existing nature/demeanor columns, and update lotn_char_create.php dropdowns to query from this table instead of using hardcoded options.",
+        "details": "1. Create archetypes table schema:\n   - Design MySQL table with columns: id (INT AUTO_INCREMENT PRIMARY KEY), name (VARCHAR(100) NOT NULL UNIQUE), description (TEXT)\n   - Add appropriate indexes for performance on name column\n   - Create migration script in database/migrations/ directory\n\n2. Data migration process:\n   - Connect to database using includes/connect.php\n   - Query characters table to extract all unique nature and demeanor values: SELECT DISTINCT nature FROM characters UNION SELECT DISTINCT demeanor FROM characters WHERE nature/demeanor IS NOT NULL AND != ''\n   - Clean and normalize data (trim whitespace, handle case sensitivity, remove duplicates)\n   - Insert merged unique values into archetypes table with placeholder descriptions\n   - Log migration results and any data quality issues\n\n3. Update lotn_char_create.php dropdown implementation:\n   - Replace hardcoded nature/demeanor select options with dynamic database queries\n   - Create reusable function to fetch archetypes: function getArchetypes($conn) { return mysqli_query($conn, \"SELECT id, name FROM archetypes ORDER BY name\"); }\n   - Update both nature and demeanor select elements to use the same archetypes source\n   - Maintain existing form field names and IDs for compatibility\n   - Add error handling for database connection failures with fallback to basic options\n\n4. Database relationship considerations:\n   - Evaluate whether to add foreign key constraints from characters table to archetypes\n   - Plan for future archetype management interface in admin panel\n   - Consider adding archetype categories (nature vs demeanor vs both) if needed",
+        "testStrategy": "Create test database with sample character records containing various nature/demeanor values and run migration script to verify all unique values are properly extracted and inserted into archetypes table. Test lotn_char_create.php form to confirm dropdowns populate correctly from database and maintain existing functionality for character creation. Verify dropdown options match the merged dataset from the migration and that form submissions work with both existing and new archetype values. Test error handling by temporarily disconnecting database and confirming graceful fallback behavior.",
+        "status": "done",
+        "dependencies": [
+          57
+        ],
+        "priority": "high",
+        "subtasks": []
+      },
+      {
+        "id": 59,
+        "title": "Clean hard line breaks in On Writing.md file",
+        "description": "Remove artificial line breaks at the end of lines in On Writing.md and replace them with spaces, while preserving structural line breaks such as numbered lines, blank lines, and short consecutive lines using a PHP script that follows project conventions.",
+        "details": "1. Create PHP script following project conventions:\n   - Place script in appropriate directory (likely scripts/ or utilities/)\n   - Use includes/connect.php pattern for any database operations if needed\n   - Follow existing project coding standards and error handling patterns\n\n2. Implement line break detection and cleaning logic:\n   - Read On Writing.md file content into memory\n   - Identify artificial line breaks: lines that end mid-sentence or mid-paragraph\n   - Preserve structural breaks: numbered lines (1., 2., etc.), blank lines, short consecutive lines (< 50 characters)\n   - Replace artificial breaks with single spaces to maintain readability\n   - Handle edge cases: multiple spaces, tabs, special characters\n\n3. File processing workflow:\n   - Create backup of original On Writing.md before processing\n   - Process file line by line with lookahead to determine break type\n   - Apply cleaning rules while maintaining document structure\n   - Write cleaned content to new file or overwrite original after confirmation\n   - Log changes made for review and verification\n\n4. Validation and safety measures:\n   - Implement dry-run mode to preview changes before applying\n   - Add word count and line count comparison before/after\n   - Preserve file permissions and timestamps\n   - Include rollback capability using backup file",
+        "testStrategy": "Create test copy of On Writing.md with known artificial line breaks and structural elements. Run PHP script in dry-run mode to verify it correctly identifies artificial vs structural breaks. Execute actual cleaning and manually review sample sections to confirm proper space insertion and structure preservation. Compare word counts before/after to ensure no content loss. Test rollback functionality using backup file. Verify final document maintains readability and proper formatting when viewed in markdown readers.",
+        "status": "pending",
+        "dependencies": [],
+        "priority": "high",
+        "subtasks": [
+          {
+            "id": 1,
+            "title": "Locate and confirm On Writing.md file path",
+            "description": "Find the exact location of the On Writing.md file in the project directory structure and verify its existence and accessibility.",
+            "dependencies": [],
+            "details": "Search project directories to locate On Writing.md file. Check file permissions and size. Document the full file path for use in subsequent processing steps.",
+            "status": "pending",
+            "testStrategy": "Use file_exists() and is_readable() PHP functions to verify file accessibility. Check file size is reasonable for processing."
+          },
+          {
+            "id": 2,
+            "title": "Inspect file structure and analyze line break patterns",
+            "description": "Examine the current content structure of On Writing.md to understand existing line break patterns and identify artificial vs structural breaks.",
+            "dependencies": [
+              1
+            ],
+            "details": "Read file content and analyze line endings, paragraph structures, numbered lists, and short lines. Create sample data showing different types of line breaks to inform cleaning logic.",
+            "status": "pending",
+            "testStrategy": "Generate statistics on line lengths, identify patterns in line endings, and create test cases representing different break types found in the file."
+          },
+          {
+            "id": 3,
+            "title": "Create PHP script in scripts/ folder following project conventions",
+            "description": "Set up the main PHP script file in the appropriate directory with proper project structure and error handling patterns.",
+            "dependencies": [
+              2
+            ],
+            "details": "Create clean_line_breaks.php in scripts/ directory. Include proper file headers, error handling, and follow existing project coding standards. Set up basic script structure with command-line argument handling.",
+            "status": "pending",
+            "testStrategy": "Verify script follows project naming conventions and includes proper error handling. Test basic script execution and argument parsing."
+          },
+          {
+            "id": 4,
+            "title": "Implement helper functions for line break detection",
+            "description": "Create utility functions to identify artificial line breaks versus structural breaks in markdown content.",
+            "dependencies": [
+              3
+            ],
+            "details": "Implement functions: isArtificialBreak(), isStructuralBreak(), isNumberedLine(), isShortLine(). Include logic to detect mid-sentence breaks, preserve numbered lists, blank lines, and short consecutive lines under 50 characters.",
+            "status": "pending",
+            "testStrategy": "Unit test each helper function with various line types including numbered lists, short lines, mid-sentence breaks, and paragraph endings."
+          },
+          {
+            "id": 5,
+            "title": "Implement file backup and processing workflow",
+            "description": "Create backup functionality and main processing logic to clean line breaks while preserving file structure.",
+            "dependencies": [
+              4
+            ],
+            "details": "Implement createBackup(), processFile(), and cleanLineBreaks() functions. Include line-by-line processing with lookahead logic, space insertion for artificial breaks, and preservation of structural elements.",
+            "status": "pending",
+            "testStrategy": "Test backup creation, verify original file preservation, and validate that processing maintains document structure while cleaning artificial breaks."
+          },
+          {
+            "id": 6,
+            "title": "Add dry-run mode and diff preview functionality",
+            "description": "Implement preview mode to show changes before applying them, including before/after comparison and statistics.",
+            "dependencies": [
+              5
+            ],
+            "details": "Add --dry-run command line option. Implement showDiff() function to display changes, word count comparison, and line count statistics. Allow user to preview all modifications before applying.",
+            "status": "pending",
+            "testStrategy": "Test dry-run mode shows accurate preview of changes without modifying original file. Verify diff output clearly shows what will be changed."
+          },
+          {
+            "id": 7,
+            "title": "Apply changes with Plan Mode and validation",
+            "description": "Execute the actual file cleaning with confirmation prompts and validation checks to ensure safe processing.",
+            "dependencies": [
+              6
+            ],
+            "details": "Implement confirmation prompts, apply cleaning transformations, validate results against original file. Include rollback capability using backup file and preserve file permissions/timestamps.",
+            "status": "pending",
+            "testStrategy": "Test actual file processing with various confirmation scenarios. Verify rollback functionality works correctly and file permissions are preserved."
+          },
+          {
+            "id": 8,
+            "title": "Document the normalization process and results",
+            "description": "Create documentation of the cleaning process, changes made, and usage instructions for the script.",
+            "dependencies": [
+              7
+            ],
+            "details": "Generate summary report of changes made, create usage documentation for the script, and document the line break normalization rules applied. Include examples and troubleshooting information.",
+            "status": "pending",
+            "testStrategy": "Review documentation for completeness and accuracy. Verify usage examples work correctly and troubleshooting section covers common issues."
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "created": "2025-10-07T00:02:45.247Z",
+      "updated": "2025-11-17T10:47:43.010Z",
+      "description": "Tasks for master context"
+    }
+  },
+  "home-page-rebuild": {
+    "tasks": [
+      {
+        "id": 1,
+        "title": "Rename index.php to character_sheet.php",
+        "description": "Rename the current index.php file to character_sheet.php to preserve the existing character sheet interface while allowing for a new landing page.",
+        "details": "1. Create a backup of the current index.php file before making any changes.\n2. Rename the file from index.php to character_sheet.php.\n3. Update any internal references within the file that might rely on the filename (e.g., form actions, includes, etc.).\n4. Update any external references to index.php in other files to point to character_sheet.php.\n5. Check for any URL rewriting rules in .htaccess or similar configuration files that might need updating.\n6. Ensure that any session handling or authentication mechanisms continue to work with the renamed file.\n7. Update any documentation or comments that reference the file name.\n8. Consider creating a temporary redirect from index.php to character_sheet.php to maintain backward compatibility for existing bookmarks or links.",
+        "testStrategy": "1. Verify that character_sheet.php loads correctly and displays the character sheet interface as it did when it was index.php.\n2. Test all functionality within the character sheet interface to ensure it works as expected after the rename.\n3. Check that all links and form submissions within the character sheet page function correctly.\n4. Test navigation to and from the character sheet page from other parts of the application.\n5. Verify that any authentication or session management related to the character sheet continues to work.\n6. Test on different browsers to ensure cross-browser compatibility is maintained.\n7. Check server logs for any 404 errors that might indicate missed references to the old filename.\n8. If a temporary redirect was implemented, verify that accessing index.php properly redirects to character_sheet.php.",
+        "status": "done",
+        "dependencies": [],
+        "priority": "high",
+        "subtasks": []
+      },
+      {
+        "id": 2,
+        "title": "Create Header Component with Valley by Night Styling",
+        "description": "Create a header component in includes/header.php that displays the Valley by Night title, logo placeholder, username, version number, and implements gothic styling.",
+        "details": "1. Create a new directory 'includes' if it doesn't already exist in the project root.\n2. Create a new file 'header.php' in the includes directory.\n3. Implement the header with the following elements:\n   - Valley by Night title as the main heading\n   - Logo placeholder with dimensions 80x80px\n   - Username display that shows the currently logged-in user\n   - Version number display that pulls from the LOTN_VERSION constant\n   - Apply gothic styling to the header elements\n4. Ensure the header is modular and can be included in multiple pages\n5. Add appropriate PHP code to handle session variables for username display\n6. Implement responsive design for the header to work on different screen sizes\n7. Create CSS for gothic styling with dark colors, serif fonts, and appropriate decorative elements\n8. Ensure the header component can be included using require_once() or include() functions\n9. Add appropriate error handling if the LOTN_VERSION constant is not defined\n\nExample code structure:\n```php\n<?php\n// Check if user is logged in and get username\nsession_start();\n$username = isset($_SESSION['username']) ? $_SESSION['username'] : 'Guest';\n\n// Check if version constant exists\n$version = defined('LOTN_VERSION') ? LOTN_VERSION : 'Unknown';\n?>\n\n<header class=\"valley-header\">\n  <div class=\"logo-container\">\n    <img src=\"path/to/placeholder.png\" alt=\"Valley by Night Logo\" width=\"80\" height=\"80\">\n  </div>\n  <h1 class=\"site-title\">Valley by Night</h1>\n  <div class=\"user-info\">\n    <span class=\"username\"><?php echo htmlspecialchars($username); ?></span>\n    <span class=\"version\">v<?php echo htmlspecialchars($version); ?></span>\n  </div>\n</header>\n```",
+        "testStrategy": "1. Verify that the header.php file is created in the includes directory.\n2. Test including the header in multiple pages to ensure it displays correctly.\n3. Check that the Valley by Night title is displayed prominently.\n4. Verify that the logo placeholder appears with the correct 80x80px dimensions.\n5. Test with a logged-in user to ensure the username displays correctly.\n6. Test with no user logged in to verify it shows 'Guest' or appropriate default.\n7. Confirm that the version number from LOTN_VERSION constant is displayed correctly.\n8. Test with LOTN_VERSION undefined to ensure error handling works.\n9. Verify the gothic styling is applied correctly to all header elements.\n10. Test the header on different screen sizes to ensure responsive design works.\n11. Validate HTML and CSS to ensure they meet standards.\n12. Check for any console errors related to the header component.\n13. Verify that the header appears consistently across different browsers.",
+        "status": "done",
+        "dependencies": [
+          1
+        ],
+        "priority": "high",
+        "subtasks": []
+      },
+      {
+        "id": 3,
+        "title": "Create Footer Component with Valley by Night Styling",
+        "description": "Create a footer component in includes/footer.php that displays the Valley by Night title with a link to index.php, a copyright notice with the current year, and implements gothic styling consistent with the header.",
+        "details": "1. Use the existing 'includes' directory created in Task #2.\n2. Create a new file 'footer.php' in the includes directory.\n3. Implement the footer with the following elements:\n   - Valley by Night title that links back to index.php\n   - Copyright notice with dynamic current year using PHP's date('Y') function\n   - Apply gothic styling consistent with the header component\n4. Ensure the footer styling matches the gothic theme established in the header:\n   - Use the same font family\n   - Maintain color scheme consistency\n   - Apply appropriate spacing and borders\n5. Make the footer responsive for different screen sizes.\n6. Add appropriate HTML5 semantic elements (e.g., <footer>).\n7. Include PHP code to dynamically generate the current year:\n   ```php\n   &copy; <?php echo date('Y'); ?> Valley by Night\n   ```\n8. Ensure the footer is properly closed with all HTML tags.\n9. Add comments to explain the purpose and usage of the footer component.",
+        "testStrategy": "1. Verify that the footer.php file is created in the includes directory.\n2. Test including the footer in multiple pages to ensure it displays correctly.\n3. Check that the Valley by Night title is displayed and properly links to index.php.\n4. Verify that the copyright notice shows the current year dynamically.\n5. Test the footer's appearance across different browsers (Chrome, Firefox, Safari).\n6. Verify that the gothic styling is consistent with the header component.\n7. Test the footer's responsiveness by resizing the browser window.\n8. Validate the HTML to ensure it meets HTML5 standards.\n9. Check that the footer appears at the bottom of the page regardless of content length.",
+        "status": "done",
+        "dependencies": [
+          2
+        ],
+        "priority": "high",
+        "subtasks": []
+      },
+      {
+        "id": 4,
+        "title": "Create Home Dashboard Index.php with Authentication and Gothic Styling",
+        "description": "Develop a new index.php file that serves as the main dashboard, implementing session authentication, user role detection, header/footer includes, chronicle information display, and gothic styling consistent with the Valley by Night theme.",
+        "details": "1. Create a new index.php file in the project root directory.\n2. Implement session initialization and authentication check:\n   ```php\n   <?php\n   session_start();\n   // Check if user is logged in\n   if (!isset($_SESSION['user_id'])) {\n       header('Location: login.php');\n       exit;\n   }\n   \n   // Detect user role\n   $userRole = $_SESSION['user_role'] ?? 'player';\n   $isAdmin = ($userRole === 'admin' || $userRole === 'storyteller');\n   ?>\n   ```\n3. Include the header and footer components:\n   ```php\n   <?php include 'includes/header.php'; ?>\n   <!-- Main content here -->\n   <?php include 'includes/footer.php'; ?>\n   ```\n4. Create the main dashboard structure with responsive design:\n   ```php\n   <div class=\"dashboard-container\">\n       <div class=\"dashboard-welcome\">\n           <h2>Welcome to Valley by Night, <?php echo htmlspecialchars($_SESSION['username']); ?></h2>\n           <p class=\"tagline\">Where darkness meets destiny in the shadowed vale</p>\n       </div>\n       \n       <div class=\"dashboard-summary\">\n           <h3>Chronicle Summary</h3>\n           <div class=\"gothic-panel\">\n               <p><?php echo htmlspecialchars($chronicleSummary); ?></p>\n           </div>\n       </div>\n       \n       <div class=\"dashboard-actions\">\n           <div class=\"action-card\">\n               <h4>Character Sheet</h4>\n               <p>View and manage your character</p>\n               <a href=\"character_sheet.php\" class=\"gothic-button\">Go to Character Sheet</a>\n           </div>\n           <?php if ($isAdmin): ?>\n           <div class=\"action-card\">\n               <h4>Storyteller Tools</h4>\n               <p>Manage the chronicle and NPCs</p>\n               <a href=\"storyteller.php\" class=\"gothic-button\">Storyteller Area</a>\n           </div>\n           <?php endif; ?>\n           <!-- Additional action cards as needed -->\n       </div>\n   </div>\n   ```\n5. Create CSS for the dashboard in a gothic style, either inline or in an external stylesheet:\n   ```php\n   <style>\n       .dashboard-container {\n           max-width: 1200px;\n           margin: 0 auto;\n           padding: 20px;\n           color: #c0c0c0;\n       }\n       \n       .dashboard-welcome {\n           text-align: center;\n           margin-bottom: 30px;\n       }\n       \n       .tagline {\n           font-style: italic;\n           color: #8a0303;\n           font-size: 1.2em;\n       }\n       \n       .dashboard-summary {\n           margin-bottom: 40px;\n       }\n       \n       .gothic-panel {\n           background-color: #1a1a1a;\n           border: 1px solid #3a3a3a;\n           padding: 15px;\n           box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);\n       }\n       \n       .dashboard-actions {\n           display: flex;\n           flex-wrap: wrap;\n           gap: 20px;\n           justify-content: center;\n       }\n       \n       .action-card {\n           background-color: #1a1a1a;\n           border: 1px solid #3a3a3a;\n           padding: 20px;\n           width: 250px;\n           text-align: center;\n           box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);\n       }\n       \n       .gothic-button {\n           display: inline-block;\n           background-color: #8a0303;\n           color: #e0e0e0;\n           padding: 8px 15px;\n           text-decoration: none;\n           margin-top: 10px;\n           border: 1px solid #c0c0c0;\n           transition: all 0.3s ease;\n       }\n       \n       .gothic-button:hover {\n           background-color: #600202;\n           box-shadow: 0 0 5px #8a0303;\n       }\n   </style>\n   ```\n6. Implement a function to retrieve the chronicle summary from the database:\n   ```php\n   <?php\n   function getChronicleInfo() {\n       // Connect to database\n       $db = new PDO('mysql:host=localhost;dbname=valleybynight', 'username', 'password');\n       \n       // Get chronicle information\n       $stmt = $db->prepare(\"SELECT summary FROM chronicle WHERE is_active = 1 LIMIT 1\");\n       $stmt->execute();\n       $result = $stmt->fetch(PDO::FETCH_ASSOC);\n       \n       return $result['summary'] ?? 'No active chronicle found.';\n   }\n   \n   $chronicleSummary = getChronicleInfo();\n   ?>\n   ```\n7. Ensure the dashboard is responsive and works on mobile devices by adding appropriate meta tags and media queries.",
+        "testStrategy": "1. Verify that the index.php file is created in the project root directory.\n2. Test the authentication functionality:\n   - Try accessing index.php without being logged in to confirm redirect to login page\n   - Log in with different user roles (player, storyteller, admin) to verify role detection works\n   - Check that the appropriate content is displayed/hidden based on user role\n3. Verify that the header and footer components are properly included:\n   - Confirm the header displays correctly with Valley by Night title and styling\n   - Ensure the footer appears with copyright information\n   - Check that both components maintain consistent styling with the dashboard\n4. Test the chronicle summary display:\n   - Verify that the chronicle summary is retrieved from the database correctly\n   - Test with different chronicle data to ensure proper display\n   - Check error handling when no chronicle data exists\n5. Validate the responsive design:\n   - Test the dashboard on multiple screen sizes (desktop, tablet, mobile)\n   - Verify that all elements remain accessible and visually appealing at different resolutions\n6. Check navigation functionality:\n   - Confirm that the link to character_sheet.php works correctly\n   - Verify that storyteller tools are only visible to users with appropriate roles\n   - Test all action buttons to ensure they navigate to the correct pages\n7. Validate the gothic styling:\n   - Ensure the dashboard maintains the gothic theme consistent with header and footer\n   - Check that all text is readable against the dark background\n   - Verify that hover effects and interactive elements work as expected",
+        "status": "done",
+        "dependencies": [
+          1,
+          2,
+          3
+        ],
+        "priority": "high",
+        "subtasks": []
+      },
+      {
+        "id": 5,
+        "title": "Build Player Dashboard View",
+        "description": "Create a player dashboard view that displays a welcome message, create character button, list of user's characters with finalized status badges, and a placeholder link to the chat room.",
+        "details": "1. Create a new file `player_dashboard.php` in the project root directory.\n2. Implement session authentication check to ensure only logged-in users can access the dashboard:\n   ```php\n   <?php\n   session_start();\n   // Check if user is logged in\n   if (!isset($_SESSION['user_id'])) {\n       header('Location: login.php');\n       exit;\n   }\n   \n   // Ensure user has player role\n   $userRole = $_SESSION['user_role'] ?? 'player';\n   if ($userRole !== 'player' && $userRole !== 'admin' && $userRole !== 'storyteller') {\n       header('Location: unauthorized.php');\n       exit;\n   }\n   ?>\n   ```\n3. Include the header and footer components:\n   ```php\n   <?php include 'includes/header.php'; ?>\n   <!-- Dashboard content will go here -->\n   <?php include 'includes/footer.php'; ?>\n   ```\n4. Create a welcome section with personalized greeting:\n   ```php\n   <div class=\"dashboard-welcome\">\n       <h2>Welcome, <?php echo htmlspecialchars($_SESSION['username']); ?></h2>\n       <p>Welcome to Valley by Night. Your journey into darkness begins here.</p>\n   </div>\n   ```\n5. Add a prominent \"Create New Character\" button:\n   ```php\n   <div class=\"create-character-section\">\n       <a href=\"character_sheet.php?action=new\" class=\"btn btn-primary gothic-btn\">Create New Character</a>\n   </div>\n   ```\n6. Implement a character list query to display the user's characters:\n   ```php\n   <div class=\"character-list-section\">\n       <h3>Your Characters</h3>\n       <?php\n       // Query to fetch user's characters\n       $userId = $_SESSION['user_id'];\n       $query = \"SELECT id, name, clan, status, last_updated FROM characters WHERE user_id = ?\";\n       $stmt = $pdo->prepare($query);\n       $stmt->execute([$userId]);\n       $characters = $stmt->fetchAll(PDO::FETCH_ASSOC);\n       \n       if (count($characters) > 0) {\n           echo '<table class=\"character-table\">';\n           echo '<thead><tr><th>Name</th><th>Clan</th><th>Status</th><th>Last Updated</th><th>Actions</th></tr></thead>';\n           echo '<tbody>';\n           foreach ($characters as $character) {\n               echo '<tr>';\n               echo '<td>' . htmlspecialchars($character['name']) . '</td>';\n               echo '<td>' . htmlspecialchars($character['clan']) . '</td>';\n               echo '<td><span class=\"status-badge status-' . strtolower($character['status']) . '\">' . htmlspecialchars($character['status']) . '</span></td>';\n               echo '<td>' . htmlspecialchars($character['last_updated']) . '</td>';\n               echo '<td><a href=\"character_sheet.php?id=' . $character['id'] . '\" class=\"btn btn-sm btn-view\">View</a></td>';\n               echo '</tr>';\n           }\n           echo '</tbody></table>';\n       } else {\n           echo '<p>You have no characters yet. Create one to begin your journey.</p>';\n       }\n       ?>\n   </div>\n   ```\n7. Add CSS for status badges in a style section or external stylesheet:\n   ```css\n   .status-badge {\n       padding: 3px 8px;\n       border-radius: 12px;\n       font-size: 0.8em;\n       font-weight: bold;\n   }\n   .status-draft {\n       background-color: #f8f9fa;\n       color: #6c757d;\n   }\n   .status-submitted {\n       background-color: #cce5ff;\n       color: #004085;\n   }\n   .status-approved {\n       background-color: #d4edda;\n       color: #155724;\n   }\n   .status-finalized {\n       background-color: #d1ecf1;\n       color: #0c5460;\n   }\n   ```\n8. Add a placeholder link to the chat room:\n   ```php\n   <div class=\"chat-room-section\">\n       <h3>Community</h3>\n       <p>Join other vampires in the shadows.</p>\n       <a href=\"#\" class=\"btn btn-secondary gothic-btn\" onclick=\"alert('Chat room coming soon!');\">Enter Chat Room</a>\n   </div>\n   ```\n9. Apply gothic styling consistent with the Valley by Night theme:\n   ```css\n   .dashboard-welcome, .character-list-section, .create-character-section, .chat-room-section {\n       margin-bottom: 30px;\n       padding: 20px;\n       background-color: #1a1a1a;\n       border: 1px solid #333;\n       box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);\n   }\n   \n   .gothic-btn {\n       font-family: 'Gothic', serif;\n       text-transform: uppercase;\n       letter-spacing: 1px;\n       background-color: #2a0a0a;\n       border-color: #4a0a0a;\n       color: #d0d0d0;\n   }\n   \n   .gothic-btn:hover {\n       background-color: #4a0a0a;\n       border-color: #6a0a0a;\n       color: #ffffff;\n   }\n   ```\n10. Update the index.php file to redirect to the player dashboard for players:\n    ```php\n    <?php\n    session_start();\n    if (isset($_SESSION['user_id'])) {\n        $userRole = $_SESSION['user_role'] ?? 'player';\n        if ($userRole === 'player') {\n            header('Location: player_dashboard.php');\n            exit;\n        } else {\n            // Admin or storyteller, redirect to their dashboard\n            header('Location: admin_dashboard.php');\n            exit;\n        }\n    } else {\n        header('Location: login.php');\n        exit;\n    }\n    ?>",
+        "testStrategy": "1. Verify that player_dashboard.php is created and accessible only to logged-in users.\n2. Test the authentication functionality:\n   - Try accessing player_dashboard.php without being logged in to confirm redirect to login page\n   - Log in as a player to verify access to the dashboard\n   - Log in with other roles to ensure proper access control\n\n3. Verify the welcome message displays correctly:\n   - Confirm the welcome message includes the user's name\n   - Check that the styling matches the gothic theme\n\n4. Test the \"Create New Character\" button:\n   - Click the button to verify it redirects to character_sheet.php with the appropriate action parameter\n   - Confirm the button styling matches the gothic theme\n\n5. Test the character list functionality:\n   - Create test characters in the database associated with the test user\n   - Verify the character list displays all characters belonging to the logged-in user\n   - Confirm that character details (name, clan, status, last updated) display correctly\n   - Verify that status badges display with the correct styling for each status type\n   - Test the \"View\" button to ensure it redirects to character_sheet.php with the correct character ID\n\n6. Test the empty state:\n   - Log in with a user that has no characters\n   - Verify the appropriate \"no characters\" message is displayed\n\n7. Check the chat room placeholder:\n   - Click the chat room link to verify the \"coming soon\" alert appears\n\n8. Verify responsive design:\n   - Test the dashboard on different screen sizes (desktop, tablet, mobile)\n   - Ensure all elements remain accessible and visually appealing at all viewport sizes\n\n9. Validate HTML and CSS:\n   - Run the page through W3C validators to ensure compliance with standards\n   - Check for any console errors in the browser developer tools\n\n10. Test integration with other components:\n    - Verify the header and footer are included correctly\n    - Ensure consistent styling between the dashboard and other pages",
+        "status": "done",
+        "dependencies": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "priority": "high",
+        "subtasks": []
+      },
+      {
+        "id": 6,
+        "title": "Build Admin Dashboard View",
+        "description": "Create an admin dashboard view that displays statistics panel (total characters, PCs, NPCs), admin action links (create character, locations, items, character list), and a future plots link (disabled).",
+        "details": "1. Create a new file `admin_dashboard.php` in the project root directory.\n2. Implement session authentication check to ensure only admin users can access the dashboard:\n   ```php\n   <?php\n   session_start();\n   // Check if user is logged in\n   if (!isset($_SESSION['user_id'])) {\n       header('Location: login.php');\n       exit;\n   }\n   \n   // Ensure user has admin role\n   $userRole = $_SESSION['user_role'] ?? 'player';\n   if ($userRole !== 'admin' && $userRole !== 'storyteller') {\n       header('Location: index.php');\n       exit;\n   }\n   ```\n3. Include the header and footer components:\n   ```php\n   include_once 'includes/header.php';\n   // Dashboard content will go here\n   include_once 'includes/footer.php';\n   ```\n4. Create a statistics panel section:\n   ```php\n   <div class=\"admin-stats-panel\">\n       <h2>Statistics</h2>\n       <div class=\"stats-grid\">\n           <div class=\"stat-box\">\n               <span class=\"stat-title\">Total Characters</span>\n               <span class=\"stat-value\"><?php echo getTotalCharacters(); ?></span>\n           </div>\n           <div class=\"stat-box\">\n               <span class=\"stat-title\">Player Characters</span>\n               <span class=\"stat-value\"><?php echo getPlayerCharacters(); ?></span>\n           </div>\n           <div class=\"stat-box\">\n               <span class=\"stat-title\">Non-Player Characters</span>\n               <span class=\"stat-value\"><?php echo getNPCCharacters(); ?></span>\n           </div>\n       </div>\n   </div>\n   ```\n5. Implement the helper functions to retrieve statistics:\n   ```php\n   function getTotalCharacters() {\n       // Database query to count all characters\n       // Placeholder return for now\n       return 0;\n   }\n   \n   function getPlayerCharacters() {\n       // Database query to count player characters\n       // Placeholder return for now\n       return 0;\n   }\n   \n   function getNPCCharacters() {\n       // Database query to count NPC characters\n       // Placeholder return for now\n       return 0;\n   }\n   ```\n6. Create admin action links section:\n   ```php\n   <div class=\"admin-actions\">\n       <h2>Admin Actions</h2>\n       <div class=\"action-links\">\n           <a href=\"create_character.php\" class=\"admin-action-btn\">Create Character</a>\n           <a href=\"manage_locations.php\" class=\"admin-action-btn\">Manage Locations</a>\n           <a href=\"manage_items.php\" class=\"admin-action-btn\">Manage Items</a>\n           <a href=\"character_list.php\" class=\"admin-action-btn\">Character List</a>\n           <a href=\"#\" class=\"admin-action-btn disabled\">Future Plots</a>\n       </div>\n   </div>\n   ```\n7. Apply gothic styling consistent with the Valley by Night theme:\n   ```css\n   <style>\n       .admin-stats-panel, .admin-actions {\n           background-color: #1a1a1a;\n           border: 1px solid #333;\n           padding: 20px;\n           margin-bottom: 20px;\n           box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);\n       }\n       \n       .stats-grid {\n           display: grid;\n           grid-template-columns: repeat(3, 1fr);\n           gap: 15px;\n       }\n       \n       .stat-box {\n           background-color: #2a2a2a;\n           padding: 15px;\n           border-radius: 5px;\n           text-align: center;\n       }\n       \n       .stat-title {\n           display: block;\n           font-size: 14px;\n           margin-bottom: 5px;\n           color: #999;\n       }\n       \n       .stat-value {\n           display: block;\n           font-size: 24px;\n           font-weight: bold;\n           color: #c00;\n       }\n       \n       .action-links {\n           display: flex;\n           flex-wrap: wrap;\n           gap: 10px;\n       }\n       \n       .admin-action-btn {\n           display: inline-block;\n           padding: 10px 15px;\n           background-color: #300;\n           color: #fff;\n           text-decoration: none;\n           border-radius: 3px;\n           transition: background-color 0.3s;\n       }\n       \n       .admin-action-btn:hover {\n           background-color: #600;\n       }\n       \n       .admin-action-btn.disabled {\n           background-color: #333;\n           color: #666;\n           cursor: not-allowed;\n       }\n   </style>\n   ```\n8. Ensure the dashboard is responsive and works on different screen sizes by adding media queries for smaller screens:\n   ```css\n   @media (max-width: 768px) {\n       .stats-grid {\n           grid-template-columns: 1fr;\n       }\n       \n       .action-links {\n           flex-direction: column;\n       }\n   }\n   ```",
+        "testStrategy": "1. Verify that admin_dashboard.php is created and accessible only to users with admin or storyteller roles.\n2. Test the authentication functionality:\n   - Try accessing admin_dashboard.php without being logged in to confirm redirect to login page\n   - Log in as a player to verify redirect to index.php\n   - Log in as an admin to verify access to the dashboard\n   - Log in as a storyteller to verify access to the dashboard\n3. Verify that the statistics panel displays correctly:\n   - Check that all three statistic boxes (Total Characters, PCs, NPCs) are visible\n   - Verify that the statistics values update correctly when characters are added or removed\n4. Test all admin action links:\n   - Verify that each link (except Future Plots) navigates to the correct page\n   - Confirm that the Future Plots link is visibly disabled and doesn't navigate when clicked\n5. Test the responsive design:\n   - Verify the dashboard displays correctly on desktop browsers\n   - Test on tablet-sized screens to ensure the layout adjusts appropriately\n   - Test on mobile-sized screens to confirm the statistics grid and action links stack vertically\n6. Verify that the gothic styling is consistent with the Valley by Night theme:\n   - Check that colors, fonts, and design elements match the header and footer components\n   - Ensure text is readable against the dark background\n7. Test cross-browser compatibility:\n   - Verify the dashboard works correctly in Chrome, Firefox, Safari, and Edge",
+        "status": "done",
+        "dependencies": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "priority": "high",
+        "subtasks": []
+      },
+      {
+        "id": 7,
+        "title": "Create Database Query Functions for Character Management",
+        "description": "Develop PHP functions to query the database for retrieving user's characters with clan information, counting total characters/PCs/NPCs, and checking character finalization status.",
+        "details": "1. Create a new file `includes/character_queries.php` to house all character-related database functions.\n\n2. Implement the following query functions:\n\n   a. Function to fetch a user's characters with clan information:\n   ```php\n   /**\n    * Retrieves all characters belonging to a specific user with clan information\n    * @param int $user_id The ID of the user whose characters to retrieve\n    * @return array An array of character data including clan information\n    */\n   function get_user_characters($user_id) {\n       global $db;\n       \n       $query = \"SELECT c.*, cl.name AS clan_name, cl.description AS clan_description \n                FROM characters c\n                LEFT JOIN clans cl ON c.clan_id = cl.id\n                WHERE c.user_id = ?\n                ORDER BY c.name ASC\";\n       \n       $stmt = $db->prepare($query);\n       $stmt->bind_param('i', $user_id);\n       $stmt->execute();\n       $result = $stmt->get_result();\n       \n       $characters = [];\n       while ($row = $result->fetch_assoc()) {\n           $characters[] = $row;\n       }\n       \n       return $characters;\n   }\n   ```\n\n   b. Function to count total characters, PCs, and NPCs:\n   ```php\n   /**\n    * Counts the total number of characters, PCs, and NPCs in the system\n    * @return array An array containing counts for total, pc, and npc\n    */\n   function count_characters() {\n       global $db;\n       \n       $counts = [\n           'total' => 0,\n           'pc' => 0,\n           'npc' => 0\n       ];\n       \n       // Total characters\n       $query = \"SELECT COUNT(*) as count FROM characters\";\n       $result = $db->query($query);\n       $row = $result->fetch_assoc();\n       $counts['total'] = $row['count'];\n       \n       // PC count\n       $query = \"SELECT COUNT(*) as count FROM characters WHERE is_npc = 0\";\n       $result = $db->query($query);\n       $row = $result->fetch_assoc();\n       $counts['pc'] = $row['count'];\n       \n       // NPC count\n       $query = \"SELECT COUNT(*) as count FROM characters WHERE is_npc = 1\";\n       $result = $db->query($query);\n       $row = $result->fetch_assoc();\n       $counts['npc'] = $row['count'];\n       \n       return $counts;\n   }\n   ```\n\n   c. Function to check character finalization status:\n   ```php\n   /**\n    * Checks if a character is finalized\n    * @param int $character_id The ID of the character to check\n    * @return bool True if character is finalized, false otherwise\n    */\n   function is_character_finalized($character_id) {\n       global $db;\n       \n       $query = \"SELECT is_finalized FROM characters WHERE id = ?\";\n       $stmt = $db->prepare($query);\n       $stmt->bind_param('i', $character_id);\n       $stmt->execute();\n       $result = $stmt->get_result();\n       \n       if ($row = $result->fetch_assoc()) {\n           return (bool)$row['is_finalized'];\n       }\n       \n       return false; // Character not found\n   }\n   ```\n\n3. Create a utility function to get character counts by clan:\n   ```php\n   /**\n    * Gets character counts grouped by clan\n    * @return array An array with clan IDs as keys and counts as values\n    */\n   function get_character_counts_by_clan() {\n       global $db;\n       \n       $query = \"SELECT clan_id, COUNT(*) as count \n                FROM characters \n                WHERE clan_id IS NOT NULL \n                GROUP BY clan_id\";\n       \n       $result = $db->query($query);\n       $counts = [];\n       \n       while ($row = $result->fetch_assoc()) {\n           $counts[$row['clan_id']] = $row['count'];\n       }\n       \n       return $counts;\n   }\n   ```\n\n4. Add proper error handling to all functions:\n   - Use try/catch blocks to handle database exceptions\n   - Return empty arrays or appropriate error values when queries fail\n   - Log errors to a system log file\n\n5. Add a function to include this file in other PHP files:\n   ```php\n   // At the top of any file that needs these functions\n   require_once 'includes/character_queries.php';\n   ```\n\n6. Ensure all queries use prepared statements to prevent SQL injection.",
+        "testStrategy": "1. Create a test script `tests/test_character_queries.php` to verify all functions:\n   ```php\n   <?php\n   require_once '../includes/character_queries.php';\n   \n   // Test user characters retrieval\n   $user_id = 1; // Use a known test user ID\n   $characters = get_user_characters($user_id);\n   echo \"User characters test: \" . (is_array($characters) ? \"PASS\" : \"FAIL\") . \"\\n\";\n   echo \"Found \" . count($characters) . \" characters for user $user_id\\n\";\n   \n   // Test character counts\n   $counts = count_characters();\n   echo \"Character counts test: \" . (isset($counts['total']) ? \"PASS\" : \"FAIL\") . \"\\n\";\n   echo \"Total: \" . $counts['total'] . \", PCs: \" . $counts['pc'] . \", NPCs: \" . $counts['npc'] . \"\\n\";\n   \n   // Test finalization check\n   $character_id = 1; // Use a known test character ID\n   $is_finalized = is_character_finalized($character_id);\n   echo \"Finalization check test: \" . (is_bool($is_finalized) ? \"PASS\" : \"FAIL\") . \"\\n\";\n   echo \"Character $character_id finalized: \" . ($is_finalized ? \"Yes\" : \"No\") . \"\\n\";\n   \n   // Test clan counts\n   $clan_counts = get_character_counts_by_clan();\n   echo \"Clan counts test: \" . (is_array($clan_counts) ? \"PASS\" : \"FAIL\") . \"\\n\";\n   echo \"Found counts for \" . count($clan_counts) . \" clans\\n\";\n   ```\n\n2. Manually test each function with known data:\n   - Insert test data into the database\n   - Call each function with valid parameters\n   - Verify the returned data matches expected results\n\n3. Test edge cases:\n   - Query for a user with no characters\n   - Query for a non-existent character ID\n   - Test with empty database tables\n\n4. Integration testing:\n   - Integrate these functions into the admin dashboard (Task #6) to display character statistics\n   - Integrate into the player dashboard (Task #5) to display user's characters\n   - Verify the data displays correctly in both dashboards\n\n5. Performance testing:\n   - Test with a large dataset (100+ characters)\n   - Measure query execution time\n   - Optimize queries if execution time exceeds 500ms\n\n6. Security testing:\n   - Attempt SQL injection attacks on function parameters\n   - Verify that prepared statements prevent injection attacks",
+        "status": "done",
+        "dependencies": [
+          4,
+          5,
+          6
+        ],
+        "priority": "medium",
+        "subtasks": []
+      },
+      {
+        "id": 8,
+        "title": "Apply Gothic Styling to Home Dashboard",
+        "description": "Implement gothic styling to the home dashboard with dark background (#1a0f0f), blood red accents (#8B0000), cream text (#f5e6d3), card-based layout, responsive design, and hover effects.",
+        "details": "1. Create a new CSS file `css/gothic-theme.css` with the following style definitions:\n   ```css\n   :root {\n     --dark-bg: #1a0f0f;\n     --blood-red: #8B0000;\n     --cream-text: #f5e6d3;\n     --shadow-color: rgba(0, 0, 0, 0.7);\n     --card-bg: #2a1a1a;\n     --hover-bg: #3a2a2a;\n   }\n\n   body {\n     background-color: var(--dark-bg);\n     color: var(--cream-text);\n     font-family: 'Crimson Text', Georgia, serif;\n   }\n\n   .dashboard-card {\n     background-color: var(--card-bg);\n     border: 1px solid var(--blood-red);\n     border-radius: 5px;\n     box-shadow: 0 4px 8px var(--shadow-color);\n     margin-bottom: 20px;\n     padding: 15px;\n     transition: all 0.3s ease;\n   }\n\n   .dashboard-card:hover {\n     transform: translateY(-5px);\n     box-shadow: 0 6px 12px var(--shadow-color);\n     background-color: var(--hover-bg);\n   }\n\n   .dashboard-title {\n     color: var(--blood-red);\n     font-weight: bold;\n     border-bottom: 1px solid var(--blood-red);\n     padding-bottom: 10px;\n     margin-bottom: 15px;\n   }\n\n   .dashboard-button {\n     background-color: var(--blood-red);\n     color: var(--cream-text);\n     border: none;\n     padding: 8px 16px;\n     border-radius: 3px;\n     cursor: pointer;\n     transition: background-color 0.3s ease;\n   }\n\n   .dashboard-button:hover {\n     background-color: #6B0000;\n   }\n\n   /* Responsive design */\n   @media (max-width: 768px) {\n     .dashboard-card {\n       width: 100%;\n     }\n   }\n   ```\n\n2. Update the index.php file to include the new CSS file:\n   ```php\n   <head>\n     <!-- Existing head content -->\n     <link href=\"https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;600;700&display=swap\" rel=\"stylesheet\">\n     <link rel=\"stylesheet\" href=\"css/gothic-theme.css\">\n   </head>\n   ```\n\n3. Modify the index.php structure to use the new card-based layout:\n   ```php\n   <div class=\"container\">\n     <div class=\"row\">\n       <div class=\"col-md-6\">\n         <div class=\"dashboard-card\">\n           <h2 class=\"dashboard-title\">Character Management</h2>\n           <p>Create and manage your characters for the Valley by Night chronicle.</p>\n           <a href=\"character_sheet.php\" class=\"dashboard-button\">Character Sheet</a>\n         </div>\n       </div>\n       \n       <div class=\"col-md-6\">\n         <div class=\"dashboard-card\">\n           <h2 class=\"dashboard-title\">Chronicle Information</h2>\n           <p>Learn about the Valley by Night setting and current storylines.</p>\n           <a href=\"#\" class=\"dashboard-button\">View Details</a>\n         </div>\n       </div>\n     </div>\n     \n     <!-- Additional card rows as needed -->\n   </div>\n   ```\n\n4. Apply the gothic styling to the header and footer components by adding appropriate classes:\n   ```php\n   // In header.php\n   <header class=\"gothic-header\">\n     <h1 class=\"site-title\">Valley by Night</h1>\n     <!-- Other header elements -->\n   </header>\n   \n   // In footer.php\n   <footer class=\"gothic-footer\">\n     <!-- Footer content -->\n   </footer>\n   ```\n\n5. Add additional CSS for header and footer styling in gothic-theme.css:\n   ```css\n   .gothic-header {\n     background-color: var(--card-bg);\n     border-bottom: 2px solid var(--blood-red);\n     padding: 15px 0;\n   }\n   \n   .site-title {\n     color: var(--blood-red);\n     font-size: 2.5rem;\n     text-shadow: 2px 2px 4px var(--shadow-color);\n   }\n   \n   .gothic-footer {\n     background-color: var(--card-bg);\n     border-top: 2px solid var(--blood-red);\n     padding: 15px 0;\n     margin-top: 30px;\n   }\n   ```\n\n6. Ensure all dashboard elements (admin and player views) use the new styling classes by updating their respective files to include the gothic-theme.css and use the dashboard-card, dashboard-title, and dashboard-button classes.",
+        "testStrategy": "1. Verify that the gothic-theme.css file is created and contains all the specified styles.\n\n2. Test the dashboard appearance in different browsers (Chrome, Firefox, Safari, Edge) to ensure cross-browser compatibility.\n\n3. Check responsive design by testing the dashboard at various screen sizes:\n   - Desktop (1920x1080)\n   - Laptop (1366x768)\n   - Tablet (768x1024)\n   - Mobile (375x667)\n\n4. Verify that all text is legible with the dark background and cream text color combination.\n\n5. Test hover effects on all interactive elements:\n   - Cards should slightly elevate and change background color\n   - Buttons should change background color\n\n6. Ensure that the gothic styling is consistently applied across:\n   - Main dashboard (index.php)\n   - Player dashboard (player_dashboard.php)\n   - Admin dashboard (admin_dashboard.php)\n\n7. Validate the CSS using the W3C CSS Validation Service.\n\n8. Check for any performance issues caused by transitions or shadows, especially on mobile devices.\n\n9. Verify that the font 'Crimson Text' is loading correctly and has appropriate fallback fonts.\n\n10. Test with different user roles (admin, storyteller, player) to ensure the styling works correctly with all dashboard variations.",
+        "status": "done",
+        "dependencies": [
+          4,
+          5,
+          6
+        ],
+        "priority": "medium",
+        "subtasks": []
+      },
+      {
+        "id": 9,
+        "title": "Update Page Links from index.php to character_sheet.php",
+        "description": "Update all internal and external links, references, and redirects that point to index.php for character viewing to now point to character_sheet.php instead.",
+        "details": "1. Identify all files that contain references to index.php for character viewing:\n   - Search through all PHP files, HTML files, and JavaScript files for references to index.php\n   - Focus on links, form actions, redirects, and AJAX calls that specifically relate to character viewing\n\n2. Update the following types of references:\n   - HTML anchor tags: `<a href=\"index.php?character_id=123\">` → `<a href=\"character_sheet.php?character_id=123\">`\n   - Form actions: `<form action=\"index.php\" method=\"post\">` → `<form action=\"character_sheet.php\" method=\"post\">`\n   - PHP redirects: `header('Location: index.php?character_id=' . $id);` → `header('Location: character_sheet.php?character_id=' . $id);`\n   - JavaScript/AJAX calls: `fetch('index.php?character_id='+id)` → `fetch('character_sheet.php?character_id='+id)`\n   - Include/require statements if relevant: `include('index.php')` → `include('character_sheet.php')`\n\n3. Pay special attention to these specific files:\n   - player_dashboard.php (character links)\n   - admin_dashboard.php (character management links)\n   - Any navigation menus or sidebar components\n   - Any JavaScript files that handle character viewing or editing\n   - Any PHP files that process character data and redirect to the character sheet\n\n4. Update any URL parameters or query strings while maintaining their functionality:\n   - Preserve all GET parameters when updating URLs\n   - Ensure any character_id, action, or other parameters remain intact\n\n5. Check for any conditional logic that might reference the filename:\n   ```php\n   if (basename($_SERVER['PHP_SELF']) == 'index.php') {\n       // Update this condition\n   }\n   ```\n\n6. Document all changes made in a changelog for reference.",
+        "testStrategy": "1. Create a comprehensive test plan that covers all updated links:\n   - Compile a list of all files modified and the specific changes made\n   - For each modified file, test the functionality that involves links to character viewing\n\n2. Test all navigation paths to character sheets:\n   - From player dashboard to character sheet\n   - From admin dashboard to character sheet\n   - From character listings to individual character sheets\n   - Any other navigation paths that should lead to character viewing\n\n3. Test form submissions:\n   - Verify that any forms that previously posted to index.php now correctly post to character_sheet.php\n   - Confirm that form processing and data handling works as expected\n\n4. Test with different user roles:\n   - Log in as a regular player and test character viewing\n   - Log in as an admin/storyteller and test character viewing\n   - Verify that appropriate permissions are maintained\n\n5. Test URL parameters:\n   - Verify that character_sheet.php properly handles all the same URL parameters and query strings that index.php did\n   - Test with various combinations of parameters\n\n6. Regression testing:\n   - Ensure that no functionality has been broken by the link updates\n   - Verify that character viewing, editing, and all related features work exactly as they did before\n\n7. Browser testing:\n   - Test in multiple browsers to ensure compatibility\n   - Check that browser bookmarks or saved links are handled appropriately (consider adding redirects if necessary)",
+        "status": "done",
+        "dependencies": [
+          1
+        ],
+        "priority": "medium",
+        "subtasks": []
+      },
+      {
+        "id": 10,
+        "title": "Implement Header and Footer Includes in Existing Pages",
+        "description": "Add header.php and footer.php includes to existing pages (dashboard.php, lotn_char_create.php, chat.php, character_sheet.php, users.php) to ensure consistent styling and navigation across the application.",
+        "details": "1. Identify all target pages that need header and footer includes:\n   - dashboard.php\n   - lotn_char_create.php\n   - chat.php\n   - character_sheet.php\n   - users.php\n\n2. For each page, add the header include at the beginning of the file, right after any initial PHP code:\n   ```php\n   <?php\n   session_start();\n   // Any existing authentication or setup code\n   \n   // Include header\n   require_once 'includes/header.php';\n   ?>\n   ```\n\n3. For each page, add the footer include at the end of the file, before the closing HTML tag:\n   ```php\n   <?php\n   // Include footer\n   require_once 'includes/footer.php';\n   ?>\n   </body>\n   </html>\n   ```\n\n4. Ensure that any existing HTML structure is modified to accommodate the header and footer:\n   - Remove any duplicate <!DOCTYPE>, <html>, <head>, or <body> tags that would now be included via header.php\n   - Remove any duplicate closing </body> or </html> tags that would now be included via footer.php\n   - Move any page-specific CSS or JavaScript to appropriate locations that work with the header/footer structure\n\n5. Update any page-specific title tags to work with the header include:\n   - If the header.php uses a dynamic title, add a variable before including the header:\n   ```php\n   <?php\n   $pageTitle = \"Dashboard\"; // Set page-specific title\n   require_once 'includes/header.php';\n   ?>\n   ```\n\n6. Test each page individually to ensure proper rendering with the new includes.\n\n7. Verify that session handling and authentication still work correctly with the modified file structure.\n\n8. Check for any CSS conflicts between page-specific styles and the gothic theme applied by the header/footer.",
+        "testStrategy": "1. Create a testing checklist for each page to verify:\n   - Header appears correctly with Valley by Night title, logo placeholder, username, and version number\n   - Footer appears correctly with Valley by Night title link and copyright notice\n   - Gothic styling is consistently applied\n   - Page-specific functionality continues to work\n\n2. Test each page individually:\n   - dashboard.php: Verify dashboard content displays correctly between header and footer\n   - lotn_char_create.php: Test character creation form functionality with new includes\n   - chat.php: Ensure chat interface works properly with header and footer\n   - character_sheet.php: Verify character sheet displays and functions correctly\n   - users.php: Test user management functionality with new includes\n\n3. Test navigation between pages to ensure links in header and footer work correctly.\n\n4. Perform cross-browser testing (Chrome, Firefox, Safari, Edge) to verify consistent appearance.\n\n5. Test responsive design by checking each page at various screen sizes:\n   - Mobile (320px-480px width)\n   - Tablet (768px-1024px width)\n   - Desktop (1200px+ width)\n\n6. Verify session persistence across pages with the new includes structure.\n\n7. Check for any JavaScript errors in browser console that might be caused by the restructuring.\n\n8. Validate HTML for each page to ensure proper structure after adding includes.",
+        "status": "done",
+        "dependencies": [
+          2,
+          3
+        ],
+        "priority": "medium",
+        "subtasks": []
+      },
+      {
+        "id": 11,
+        "title": "System Integration Testing",
+        "description": "Perform comprehensive end-to-end testing of the complete system, including login flow, player dashboard, admin dashboard, mobile responsiveness, and navigation links to ensure all components work together correctly.",
+        "details": "1. Prepare test environment:\n   - Ensure all components are deployed to a staging environment\n   - Create test accounts with different roles (player, admin, storyteller)\n   - Prepare test data including characters, NPCs, and game statistics\n\n2. Login Flow Testing:\n   - Test login with valid credentials for different user roles\n   - Test login with invalid credentials (wrong password, non-existent username)\n   - Test password reset functionality\n   - Test session persistence and timeout behavior\n   - Test logout functionality\n\n3. Player Dashboard Testing:\n   - Verify welcome message displays correctly with user's name\n   - Test character list display with proper finalization status badges\n   - Verify create character button works and redirects to character creation page\n   - Test navigation to character sheet from character list\n   - Verify chat room link functionality\n\n4. Admin Dashboard Testing:\n   - Verify statistics panel displays accurate counts (total characters, PCs, NPCs)\n   - Test all admin action links (create character, locations, items, character list)\n   - Verify that the future plots link is properly disabled\n   - Test admin-specific functions and permissions\n\n5. Mobile Responsiveness Testing:\n   - Test all pages on multiple device sizes (mobile, tablet, desktop)\n   - Verify that the gothic styling renders correctly on all devices\n   - Test navigation menu behavior on small screens\n   - Verify that all interactive elements are usable on touch devices\n   - Check for any layout issues or overflow problems\n\n6. Navigation and Link Testing:\n   - Verify all links between pages work correctly\n   - Test breadcrumb navigation if implemented\n   - Ensure no broken links exist in the application\n   - Verify that all redirects work as expected\n   - Test browser back/forward button behavior\n\n7. Cross-browser Testing:\n   - Test the application in Chrome, Firefox, Safari, and Edge\n   - Verify consistent appearance and functionality across browsers\n   - Document any browser-specific issues\n\n8. Create a comprehensive test report documenting:\n   - Test results for each component\n   - Any bugs or issues discovered\n   - Recommendations for fixes or improvements\n   - Overall system stability assessment",
+        "testStrategy": "1. Create a test matrix covering all test scenarios across different user roles and devices:\n   - Define test cases for each major function\n   - Assign pass/fail criteria for each test case\n   - Document expected behavior for each test\n\n2. Execute manual testing following these steps:\n   - Start with fresh test accounts for each user role\n   - Follow user journeys from login through all major functions\n   - Document any deviations from expected behavior with screenshots\n   - Test edge cases and error handling\n\n3. Perform device and browser testing:\n   - Use physical devices when possible (smartphones, tablets)\n   - Supplement with browser developer tools for responsive testing\n   - Use BrowserStack or similar tools for additional browser coverage\n   - Document device/browser-specific issues\n\n4. Conduct performance testing:\n   - Measure page load times for key pages\n   - Test system behavior under multiple concurrent users if applicable\n   - Identify any performance bottlenecks\n\n5. Security testing:\n   - Verify role-based access controls work correctly\n   - Test for common vulnerabilities (XSS, CSRF)\n   - Ensure sensitive data is properly protected\n\n6. Regression testing:\n   - Verify that all previously working functionality still works\n   - Focus on areas that might be affected by recent changes\n\n7. Create detailed test reports:\n   - Document all test results with evidence (screenshots, logs)\n   - Categorize issues by severity and component\n   - Provide clear reproduction steps for any bugs found\n   - Make recommendations for fixing identified issues\n\n8. Conduct a final review meeting with the development team to:\n   - Present test findings\n   - Prioritize fixes\n   - Determine if the system is ready for production",
+        "status": "done",
+        "dependencies": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "priority": "medium",
+        "subtasks": []
+      },
+      {
+        "id": 12,
+        "title": "Update Documentation with New Page Structure and Header/Footer Usage",
+        "description": "Update the START_HERE.md file to document the new page structure, provide guidelines for header/footer usage, and update the version number to v0.5.0 throughout the application.",
+        "details": "1. Update the START_HERE.md file with the following sections:\n\n   a. Application Structure:\n   ```markdown\n   ## Application Structure\n   \n   The Valley by Night application now uses a new page structure:\n   - `index.php`: Main dashboard/landing page with role-based redirection\n   - `player_dashboard.php`: Dashboard for regular players\n   - `admin_dashboard.php`: Dashboard for admins and storytellers\n   - `character_sheet.php`: Character viewing and editing (formerly index.php)\n   - `includes/`: Directory containing reusable components\n     - `header.php`: Standard header with Valley by Night styling\n     - `footer.php`: Standard footer with Valley by Night styling\n     - `character_queries.php`: Functions for character database operations\n   ```\n   \n   b. Header and Footer Usage:\n   ```markdown\n   ## Using Header and Footer Components\n   \n   All pages should include the standardized header and footer components for consistent styling:\n   \n   ```php\n   <?php\n   // At the top of your file, after session initialization\n   require_once 'includes/header.php';\n   \n   // Your page content here\n   \n   // At the bottom of your file\n   require_once 'includes/footer.php';\n   ?>\n   ```\n   \n   The header component provides:\n   - Valley by Night title and branding\n   - User authentication display\n   - Version number\n   - Consistent gothic styling\n   \n   The footer component provides:\n   - Copyright information\n   - Return to home link\n   - Consistent styling with the header\n   ```\n   \n   c. Version Information:\n   ```markdown\n   ## Version Information\n   \n   Current version: v0.5.0\n   \n   This version includes:\n   - Restructured application with separate dashboard views\n   - Consistent header and footer components\n   - Gothic styling throughout the application\n   - Improved character management functions\n   ```\n\n2. Update the version number in relevant files:\n   - Locate the `LOTN_VERSION` constant definition (likely in a config file)\n   - Update the value from the previous version to `'v0.5.0'`\n   - Ensure this constant is used in the header component to display the version\n\n3. Verify that all documentation references to the old structure are updated:\n   - References to index.php as the character sheet should now point to character_sheet.php\n   - Any setup or installation instructions should reflect the new directory structure\n   - Any screenshots or diagrams should be updated to show the new layout\n\n4. Add a section on gothic styling guidelines:\n   ```markdown\n   ## Gothic Styling Guidelines\n   \n   The Valley by Night application uses a consistent gothic theme with these color variables:\n   - Dark background: #1a0f0f\n   - Blood red accents: #8B0000\n   - Cream text: #f5e6d3\n   - Card background: #2a1a1a\n   \n   When creating new pages, refer to the gothic-theme.css file and use the provided CSS variables to maintain visual consistency.\n   ```\n\n5. Create a changelog section to document the transition from the previous version:\n   ```markdown\n   ## Changelog\n   \n   ### v0.5.0\n   - Renamed original index.php to character_sheet.php\n   - Created new index.php as main dashboard with role-based views\n   - Implemented standardized header and footer components\n   - Applied consistent gothic styling across all pages\n   - Added character query functions for improved data management\n   ```",
+        "testStrategy": "1. Documentation Verification:\n   - Review the updated START_HERE.md file to ensure all sections are present and accurate\n   - Verify that the page structure documentation matches the actual application structure\n   - Check that the header/footer usage instructions are clear and complete\n   - Confirm the version number is correctly updated to v0.5.0\n\n2. Version Number Verification:\n   - Check that the LOTN_VERSION constant has been updated to 'v0.5.0' in the appropriate configuration file\n   - Load several pages of the application to verify the version number appears correctly in the header\n   - Verify any other locations where the version number appears (about pages, documentation, etc.)\n\n3. Accuracy Testing:\n   - Have another team member follow the documentation to implement header/footer in a test page\n   - Verify they can successfully implement the components based solely on the documentation\n   - Check for any confusing or missing information based on their feedback\n\n4. Cross-Reference Testing:\n   - Cross-reference the documentation against Tasks #1-11 to ensure all relevant changes are documented\n   - Verify that the documentation accurately reflects the renamed files and new page structure\n   - Ensure the gothic styling guidelines match the implementation in Task #8\n\n5. Usability Testing:\n   - Ask a new developer to navigate the application using only the START_HERE.md file as a guide\n   - Note any points of confusion or missing information\n   - Update the documentation based on this feedback",
+        "status": "done",
+        "dependencies": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          8,
+          9,
+          10
+        ],
+        "priority": "low",
+        "subtasks": []
+      }
+    ],
+    "metadata": {
+      "created": "2025-10-12T05:51:27.992Z",
+      "updated": "2025-10-12T07:54:57.298Z",
+      "description": "Home page dashboard with header/footer components for Valley by Night chronicle"
+    }
+  },
+  "admin-character-mgmt": {
+    "tasks": [
+      {
+        "id": 1,
+        "title": "Rebuild Admin Panel with Gothic Theme",
+        "description": "Redesign and implement the admin_panel.php page with a gothic visual theme, incorporating header/footer includes and replacing the basic HTML with a styled character management interface.",
+        "details": "1. Create a new version of admin_panel.php that uses PHP includes for header and footer\n2. Design and implement a gothic-themed CSS stylesheet specifically for the admin panel\n3. Replace the current basic HTML structure with a more sophisticated layout\n4. Implement the following components in the character management interface:\n   - Character listing table with sorting and filtering options\n   - Character detail view with editable fields\n   - Character creation form with validation\n   - Character deletion with confirmation dialog\n5. Ensure responsive design works across desktop and mobile devices\n6. Use CSS variables for theme colors to allow for future theme adjustments\n7. Implement proper error handling and user feedback mechanisms\n8. Add appropriate hover effects and transitions for interactive elements\n9. Ensure all form elements maintain the gothic aesthetic while remaining functional\n10. Document any new CSS classes or JavaScript functions created",
+        "testStrategy": "1. Verify that header and footer are properly included and display correctly\n2. Test the admin panel in multiple browsers (Chrome, Firefox, Safari) to ensure cross-browser compatibility\n3. Validate that all character management functions work as expected:\n   - Creating new characters\n   - Viewing existing characters\n   - Editing character details\n   - Deleting characters\n4. Test responsive design by resizing browser window and using mobile device emulation\n5. Verify that all interactive elements (buttons, forms, dropdowns) maintain the gothic theme\n6. Check that form validation works correctly and provides appropriate user feedback\n7. Ensure that all CRUD operations correctly update the database\n8. Verify that the page loads efficiently without performance issues\n9. Test accessibility features (keyboard navigation, screen reader compatibility)\n10. Conduct a peer review of the code and visual design",
+        "status": "done",
+        "dependencies": [],
+        "priority": "high",
+        "subtasks": []
+      },
+      {
+        "id": 2,
+        "title": "Create Character List Table with Gothic Styling and Clan Icons",
+        "description": "Develop a responsive table displaying character information (ID, Name, Player, Clan, Generation, Finalized status) with gothic styling and clan icons from the SVGs folder.",
+        "details": "1. Create a new component or modify existing table in admin_panel.php to display character data\n2. Implement the following columns in the table:\n   - Character ID (sortable)\n   - Character Name (sortable)\n   - Player Name (sortable)\n   - Clan (with icon, sortable)\n   - Generation (sortable)\n   - Finalized Status (visual indicator, filterable)\n3. Integrate SVG clan icons from the images/Clan Logos/ folder:\n   - Load SVG icons dynamically based on character clan\n   - Ensure proper sizing and alignment of icons within the table\n   - Implement fallback for missing icons\n4. Apply gothic styling to the table:\n   - Use dark color palette consistent with the admin panel theme\n   - Add decorative borders and headers matching gothic aesthetic\n   - Implement hover effects for rows\n   - Style the table to be responsive for different screen sizes\n5. Implement sorting functionality for all columns\n6. Add filtering options for clan and finalized status\n7. Ensure accessibility standards are met (proper contrast, screen reader support)\n8. Optimize table for performance with large datasets (pagination if necessary)",
+        "testStrategy": "1. Verify all character data is correctly displayed in the table\n2. Test sorting functionality for each column to ensure proper ordering\n3. Confirm clan icons load correctly from the SVGs folder for all clan types\n4. Test filtering functionality for clan and finalized status\n5. Verify responsive behavior across different screen sizes (desktop, tablet, mobile)\n6. Check accessibility using screen readers and keyboard navigation\n7. Test with a large dataset to ensure performance remains acceptable\n8. Verify proper integration with the gothic theme of the admin panel\n9. Test in multiple browsers (Chrome, Firefox, Safari, Edge) to ensure cross-browser compatibility\n10. Validate that the table updates correctly when character data changes",
+        "status": "done",
+        "dependencies": [
+          1
+        ],
+        "priority": "high",
+        "subtasks": []
+      },
+      {
+        "id": 3,
+        "title": "Implement Character Filter Controls with Active State Styling",
+        "description": "Add filter controls to the character list that allow users to toggle between viewing All Characters, PCs Only, or NPCs Only, with visual styling to indicate the active filter state.",
+        "details": "1. Create a filter control bar above the character table in admin_panel.php\n2. Implement three filter buttons with the following options:\n   - All Characters (default selected)\n   - PCs Only\n   - NPCs Only\n3. Add CSS styling for the filter controls:\n   - Create a consistent button style matching the gothic theme\n   - Implement active state styling (different background/text color, border highlight, etc.)\n   - Ensure proper spacing and alignment with the character table\n4. Implement JavaScript functionality:\n   - Add click event listeners to each filter button\n   - Update the active state styling when a filter is selected\n   - Filter the character table data based on the selected option\n   - Store the current filter preference in session storage for persistence\n5. Modify the character table component to respond to filter changes:\n   - Add a \"Character Type\" field to the data model (PC/NPC)\n   - Update the table display logic to show/hide rows based on the active filter\n   - Ensure sorting and other table functionality works with filtered data\n6. Ensure the filter state is preserved when navigating between admin panel pages",
+        "testStrategy": "1. Verify that all three filter buttons (All Characters, PCs Only, NPCs Only) are displayed correctly\n2. Test clicking each filter button to confirm:\n   - Active state styling is applied to the selected filter\n   - Previously active filter loses its active styling\n   - Character table updates to show only the relevant characters\n3. Verify filtering logic works correctly:\n   - \"All Characters\" shows both PCs and NPCs\n   - \"PCs Only\" shows only player characters\n   - \"NPCs Only\" shows only non-player characters\n4. Test filter persistence by:\n   - Selecting a filter option\n   - Navigating to another admin page\n   - Returning to the character list to verify the same filter is still active\n5. Test with various screen sizes to ensure responsive design of the filter controls\n6. Verify that sorting and other table functionality continues to work when filters are applied",
+        "status": "done",
+        "dependencies": [
+          1,
+          2
+        ],
+        "priority": "high",
+        "subtasks": []
+      },
+      {
+        "id": 4,
+        "title": "Implement Real-Time Character Search Functionality",
+        "description": "Add a search box to the character list that allows users to filter characters by name in real-time using JavaScript, providing immediate feedback as users type.",
+        "details": "1. Add a search input field above the character table in admin_panel.php, positioned appropriately with the existing filter controls\n2. Style the search box to match the gothic theme:\n   - Add appropriate border, background, and text styling\n   - Include a search icon (magnifying glass) either as background or as a prefix element\n   - Ensure proper padding and focus states\n3. Implement JavaScript event listeners:\n   - Add keyup/input event listener to the search field\n   - Create a debounce function to prevent excessive filtering on rapid typing\n   - Implement case-insensitive string matching against character names\n4. Filter the character table in real-time:\n   - Hide rows that don't match the search criteria\n   - Show rows that match the search criteria\n   - Display a \"No characters found\" message when no matches exist\n5. Ensure the search functionality works in conjunction with existing filters:\n   - Search should respect the current PC/NPC filter selection\n   - Maintain proper state management between filters and search\n6. Add clear button (X) to easily reset the search field\n7. Implement proper accessibility attributes (aria-label, etc.)",
+        "testStrategy": "1. Verify the search box appears correctly styled and positioned in the admin panel\n2. Test real-time filtering by typing character names:\n   - Verify partial name matches work correctly\n   - Confirm case-insensitivity functions properly\n   - Test with special characters and edge cases\n3. Test the interaction between search and existing filters:\n   - Apply a filter (PCs Only) then search within those results\n   - Search first, then apply a filter to verify both constraints apply\n4. Verify the \"No characters found\" message appears when appropriate\n5. Test the clear button functionality\n6. Verify performance with large character lists (100+ characters)\n7. Test across different browsers to ensure consistent behavior\n8. Validate keyboard accessibility (can navigate to search box with Tab key)",
+        "status": "done",
+        "dependencies": [
+          1,
+          2,
+          3
+        ],
+        "priority": "medium",
+        "subtasks": []
+      },
+      {
+        "id": 5,
+        "title": "Implement Sortable Column Headers for Character Table",
+        "description": "Add sorting functionality to the character table allowing users to click column headers to sort by Name, Clan, Generation, or Creation Date in ascending or descending order.",
+        "details": "1. Modify the character table headers in admin_panel.php to be clickable:\n   - Add appropriate cursor styling (cursor: pointer)\n   - Include subtle visual indicators (small arrows) to show sort direction\n   - Ensure accessibility with proper aria attributes and keyboard navigation\n\n2. Implement JavaScript sorting functionality:\n   - Create event listeners for click events on sortable column headers\n   - Implement toggle between ascending and descending sort for consecutive clicks on the same header\n   - Store current sort column and direction in variables to maintain state\n   - Create sorting functions for different data types:\n     * String sorting for Name and Clan (case-insensitive)\n     * Numeric sorting for Generation\n     * Date sorting for Creation Date\n   - Apply visual indicators to show current sort column and direction\n\n3. Handle edge cases:\n   - Null or undefined values should be handled gracefully in sorting\n   - Maintain sort state when filtering or searching\n   - Ensure performance remains good with large datasets\n\n4. Update the table display:\n   - Re-render the table rows based on the sorted data\n   - Maintain any active filters or search criteria when sorting\n   - Animate row transitions for better user experience\n\n5. Implement default sort (by Name ascending) on page load",
+        "testStrategy": "1. Verify that all sortable column headers display appropriate styling and hover effects\n2. Test sorting functionality for each column:\n   - Click Name column and verify characters sort alphabetically A-Z\n   - Click Name column again and verify sort order reverses Z-A\n   - Repeat testing for Clan, Generation, and Creation Date columns\n   - Verify numeric sorting works correctly for Generation (7 before 8, not 10 before 2)\n   - Verify date sorting works correctly for Creation Date (oldest to newest and vice versa)\n\n3. Test interaction with other features:\n   - Apply a filter (PCs Only) and verify sorting maintains the filter\n   - Enter a search term and verify sorting works within filtered results\n   - Test that sort indicators (arrows) correctly show current sort direction\n\n4. Test edge cases:\n   - Verify sorting works with special characters in names\n   - Test with duplicate values (same clan, same generation)\n   - Test with empty or null values in sortable fields\n\n5. Verify performance with larger datasets (50+ characters)",
+        "status": "done",
+        "dependencies": [
+          2
+        ],
+        "priority": "medium",
+        "subtasks": []
+      },
+      {
+        "id": 6,
+        "title": "Add View/Edit/Delete Action Buttons with Gothic Styling",
+        "description": "Implement action buttons (View, Edit, Delete) for each character row in the admin panel table, styled to match the gothic theme, with appropriate functionality and confirmation dialogs.",
+        "details": "1. Add a new \"Actions\" column to the character table in admin_panel.php:\n   - Position it as the rightmost column in the table\n   - Ensure proper alignment and spacing with other columns\n\n2. Create three action buttons for each character row:\n   - View button with an eye icon\n   - Edit button with a quill/pen icon\n   - Delete button with a trash/skull icon\n\n3. Implement gothic styling for the buttons:\n   - Use dark backgrounds with ornate borders\n   - Add hover effects with color transitions (blood red for delete, amber for edit, etc.)\n   - Ensure buttons maintain the gothic aesthetic with appropriate fonts and shadows\n   - Make buttons appropriately sized for the table row height\n\n4. Implement button functionality:\n   - View: Open a modal or redirect to a character detail page\n   - Edit: Open a form with pre-populated character data\n   - Delete: Show a gothic-styled confirmation dialog before deletion\n\n5. Add JavaScript event handlers:\n   - Implement click handlers for each button type\n   - Create a confirmation dialog function for delete operations\n   - Ensure proper event propagation and prevention\n\n6. Implement responsive design considerations:\n   - On smaller screens, consider collapsing buttons into a dropdown menu\n   - Ensure touch targets are appropriately sized for mobile devices\n\n7. Add appropriate ARIA attributes for accessibility:\n   - Include aria-label attributes for each button\n   - Ensure focus states are visible and keyboard navigation works",
+        "testStrategy": "1. Verify that all three action buttons (View, Edit, Delete) appear correctly in each character row:\n   - Confirm buttons are properly aligned and styled according to the gothic theme\n   - Verify icons are visible and appropriate for each action\n\n2. Test the View functionality:\n   - Click the View button and confirm it opens the character details correctly\n   - Verify all character information is displayed accurately\n   - Test closing the view and returning to the character list\n\n3. Test the Edit functionality:\n   - Click the Edit button and confirm it opens the edit form with pre-populated data\n   - Make changes to character information and save\n   - Verify changes are reflected in the character list after saving\n\n4. Test the Delete functionality:\n   - Click the Delete button and verify the confirmation dialog appears\n   - Test canceling the deletion and confirm the character remains in the list\n   - Test confirming the deletion and verify the character is removed from the list\n\n5. Test responsive behavior:\n   - Resize browser window to various dimensions to test responsive design\n   - Verify buttons remain usable on mobile devices and smaller screens\n\n6. Test accessibility:\n   - Verify keyboard navigation works for all buttons\n   - Test with screen readers to ensure proper ARIA support\n   - Confirm focus states are clearly visible\n\n7. Test edge cases:\n   - Verify behavior when attempting to delete the last character\n   - Test performance with a large number of characters in the table",
+        "status": "done",
+        "dependencies": [
+          2
+        ],
+        "priority": "high",
+        "subtasks": []
+      },
+      {
+        "id": 7,
+        "title": "Create Delete Confirmation Modal with Warning for Finalized Characters",
+        "description": "Implement a confirmation modal dialog that appears when deleting characters, with special warnings for finalized characters, and ensure all related data is properly deleted using CASCADE operations.",
+        "details": "1. Create a reusable modal component for delete confirmations:\n   - Design a gothic-styled modal dialog with semi-transparent background overlay\n   - Include warning icon, confirmation text, and action buttons (Cancel/Delete)\n   - Ensure modal is accessible via keyboard navigation and screen readers\n\n2. Implement special warning logic for finalized characters:\n   - Add conditional text that displays a more prominent warning when deleting finalized characters\n   - Use red text or additional warning icon for finalized character deletions\n   - Include text explaining that this action cannot be undone\n\n3. Connect modal to delete buttons in character table:\n   - Modify the delete button event handler in admin_panel.php to trigger the modal\n   - Pass character information (ID, name, finalized status) to the modal\n   - Prevent direct deletion without confirmation\n\n4. Implement backend deletion logic:\n   - Create a delete_character.php endpoint that accepts character ID\n   - Add database queries with CASCADE constraints to delete all related data:\n     - Character attributes and statistics\n     - Character abilities and disciplines\n     - Character inventory items\n     - Character relationships and connections\n     - Any logs or history entries\n   - Implement proper error handling and success messages\n\n5. Add visual feedback after deletion:\n   - Show success notification when character is successfully deleted\n   - Automatically refresh the character table to reflect changes\n   - Return focus to an appropriate element after modal closes",
+        "testStrategy": "1. Test the modal appearance and functionality:\n   - Verify modal appears when delete button is clicked\n   - Confirm modal is properly styled according to gothic theme\n   - Test that clicking outside the modal or pressing ESC closes it\n   - Verify keyboard navigation works correctly within the modal\n\n2. Test finalized character warning functionality:\n   - Confirm that regular characters show standard warning text\n   - Verify finalized characters display enhanced warning text and styling\n   - Test with both character types to ensure conditional logic works\n\n3. Test deletion confirmation flow:\n   - Verify clicking \"Cancel\" closes the modal without deleting the character\n   - Confirm clicking \"Delete\" properly triggers the deletion process\n   - Test that appropriate loading indicators appear during deletion\n\n4. Test database CASCADE operations:\n   - Create test characters with various related data\n   - Delete these characters and verify all related records are removed\n   - Check database tables directly to confirm no orphaned records remain\n   - Verify integrity constraints are maintained\n\n5. Test error handling:\n   - Simulate database connection failures and verify appropriate error messages\n   - Test deleting already-deleted characters (e.g., in another browser tab)\n   - Verify the UI handles errors gracefully without crashing\n\n6. Test UI updates after deletion:\n   - Confirm character table updates correctly after deletion\n   - Verify success notification appears and is styled appropriately\n   - Test that focus returns to a logical element after modal closes",
+        "status": "done",
+        "dependencies": [
+          6
+        ],
+        "priority": "medium",
+        "subtasks": []
+      },
+      {
+        "id": 8,
+        "title": "Create External JavaScript File for Admin Panel Functionality",
+        "description": "Create a dedicated external JavaScript file (js/admin_panel.js) to implement search, filter, and sort functionality for the admin panel, following project standards for external scripts.",
+        "details": "1. Create a new JavaScript file at js/admin_panel.js with proper structure:\n   - Add file header with description, author, and version information\n   - Implement proper namespacing to avoid global scope pollution\n   - Use IIFE (Immediately Invoked Function Expression) pattern\n\n2. Implement search functionality:\n   - Create event listeners for the search input field\n   - Implement debounce function to prevent excessive filtering during typing\n   - Add logic to filter the character table based on search input\n   - Ensure case-insensitive matching for character names\n\n3. Implement filter functionality:\n   - Add event handlers for the filter buttons (All Characters, PCs Only, NPCs Only)\n   - Create functions to filter the character table based on selected filter\n   - Implement active state toggling for filter buttons\n   - Ensure filters work in combination with search functionality\n\n4. Implement sorting functionality:\n   - Add event listeners for sortable column headers\n   - Create functions to sort table data by different columns\n   - Implement toggle between ascending and descending sort order\n   - Add visual indicators (arrows) to show current sort direction\n   - Ensure sorting works with filtered results\n\n5. Implement action button functionality:\n   - Add event handlers for View, Edit, and Delete buttons\n   - Create function to show delete confirmation modal\n   - Implement special warning logic for finalized characters\n\n6. Ensure code follows best practices:\n   - Use modern JavaScript (ES6+) features where appropriate\n   - Add comprehensive comments for complex logic\n   - Implement error handling for API calls and DOM manipulations\n   - Optimize for performance with efficient DOM operations",
+        "testStrategy": "1. Verify script loading and initialization:\n   - Confirm the script loads properly in the admin panel\n   - Check browser console for any errors during initialization\n   - Verify all event listeners are properly attached\n\n2. Test search functionality:\n   - Enter partial character names and verify real-time filtering\n   - Test with uppercase, lowercase, and mixed case input\n   - Verify search works with special characters and edge cases\n   - Confirm empty search field shows all characters\n\n3. Test filter functionality:\n   - Click each filter button and verify correct characters are displayed\n   - Confirm active state styling is applied to selected filter\n   - Test combinations of filters and search to ensure they work together\n   - Verify filter state persists when performing other actions\n\n4. Test sorting functionality:\n   - Click each sortable column header and verify correct sort order\n   - Click again to verify sort direction toggles\n   - Confirm sort indicators (arrows) update correctly\n   - Test sorting with filtered results to ensure it works as expected\n\n5. Test action button functionality:\n   - Verify View, Edit, and Delete buttons trigger appropriate actions\n   - Test delete confirmation modal appears with correct messaging\n   - Confirm special warnings appear for finalized characters\n\n6. Cross-browser testing:\n   - Verify all functionality works in Chrome, Firefox, Safari, and Edge\n   - Test on different screen sizes to ensure responsive behavior",
+        "status": "done",
+        "dependencies": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "priority": "medium",
+        "subtasks": []
+      }
+    ],
+    "metadata": {
+      "created": "2025-10-12T08:55:56.675Z",
+      "updated": "2025-10-12T09:01:11.632Z",
+      "description": "Admin panel character management with gothic theme - list, search, filter, edit, delete"
+    }
+  },
+  "feature-bootstrap-migration": {
+    "tasks": [
+      {
+        "id": 1,
+        "title": "Create Bootstrap Migration Plan for VbN",
+        "description": "Develop a comprehensive Bootstrap migration strategy that preserves current visuals pixel-for-pixel while creating detailed inventories, risk assessments, and phased implementation plans.",
+        "details": "This task involves creating a complete Bootstrap migration plan without modifying any existing code. The deliverables include: (1) CSS/HTML Inventory - Conduct a thorough audit of all existing CSS files, HTML templates, and custom styles currently used in the VbN application. Document all selectors, properties, and their usage patterns. Create a comprehensive spreadsheet listing every custom CSS class, ID, and inline style with their locations and purposes. (2) Bootstrap Mapping & Risk Assessment - Map each identified custom CSS selector to equivalent Bootstrap utilities, components, or custom solutions. Assign risk levels (Low/Medium/High) based on complexity of migration, potential for visual breaking changes, and dependency on custom JavaScript. Document alternative approaches for high-risk items and identify areas requiring custom CSS extensions. (3) Phased Rollout Plan - Design a multi-phase implementation strategy starting with low-risk, isolated components and progressing to complex, interconnected elements. Define clear milestones, rollback procedures, and success criteria for each phase. Include timeline estimates and resource requirements. (4) Verification Framework - Establish pixel-perfect comparison methodologies using visual regression testing tools, cross-browser compatibility checks, and responsive design validation. Create approval checkpoints with stakeholder sign-off requirements before each implementation phase begins.",
+        "testStrategy": "Validate the migration plan through: (1) Stakeholder review sessions to ensure all requirements are captured and the phased approach aligns with business priorities. (2) Technical feasibility assessment by conducting proof-of-concept migrations on 2-3 representative components to validate mapping accuracy and risk assessments. (3) Visual comparison testing using automated screenshot tools to establish baseline pixel-perfect standards. (4) Cross-functional team approval including development, design, and product management sign-offs on the complete plan before implementation begins. (5) Documentation review to ensure all deliverables are complete, accurate, and actionable for the development team.",
+        "status": "pending",
+        "dependencies": [],
+        "priority": "high",
+        "subtasks": [
+          {
+            "id": 1,
+            "title": "Detect current Bootstrap version and injection points",
+            "description": "Identify all places Bootstrap CSS/JS are loaded; standardize on detected version unless upgrade is approved. Output list of files and tags.",
+            "details": "<info added on 2025-11-16T11:16:21.592Z>\nFindings: Bootstrap 5.3.2 via CDN.\n- CSS: includes/header.php L53 link to https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css with SRI.\n- JS: includes/footer.php L29 script to https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js with SRI (defer).\n- Overrides: css/bootstrap-overrides.css loaded after Bootstrap; global.css after overrides.\n- Additional references: login.php, register.php, agents/character_agent/reports/index.php also include Bootstrap 5.3.2.\nDecision: Standardize on 5.3.2 (user-approved). No upgrades. Injection points centralized in header/footer; no refactor needed.\nVerification: Confirmed existing includes already using Bootstrap utilities (container, d-flex, gap, align, justify) in includes markup.\n</info added on 2025-11-16T11:16:21.592Z>",
+            "status": "done",
+            "dependencies": [],
+            "parentTaskId": 1
+          },
+          {
+            "id": 2,
+            "title": "Inventory CSS and inline styles",
+            "description": "List all CSS files under G:\\VbN\\css and any inline <style> usage in templates. Categorize by layout, components, utilities.",
+            "details": "<info added on 2025-11-16T11:16:47.397Z>\nCSS inventory (header/footer focus + global):\n- css/bootstrap-overrides.css: neutralizes Bootstrap defaults, preserves fonts/colors; no global theme overrides present.\n- css/global.css: variables (fonts/colors), body bg/typography, page/main wrappers, header/footer duplicates (legacy), mobile visibility utilities (.mobile-only/.desktop-only/.tablet-only), various component snippets (questionnaire-stats, player-actions), modal focus styles.\n- css/header.css: consolidated header and footer theme with gradients, borders, shadows, spacing; responsive tweaks.\n- includes/header.php & includes/footer.php: markup uses Bootstrap utilities already (container, d-flex, gap, alignment).\nInline styles: none found in includes header/footer; other templates TBD in later phases.\nCategorization:\n- Layout: .header-container, .footer-container, .page-wrapper, .main-wrapper\n- Components: .user-info, .version-info, .footer-bottom, .questionnaire-stats\n- Utilities: visibility classes, touch-target, responsive-container, table-responsive\n</info added on 2025-11-16T11:16:47.397Z>",
+            "status": "done",
+            "dependencies": [],
+            "parentTaskId": 1
+          },
+          {
+            "id": 3,
+            "title": "Create CSS→Bootstrap mapping document",
+            "description": "For each selector/pattern, record file, selector, current behavior, proposed Bootstrap replacement, risk (Low/Med/High).",
+            "details": "<info added on 2025-11-16T11:17:05.075Z>\nIncludes mapping (Header/Footer):\n- header.php .header-container: keep `.container d-flex justify-content-between align-items-center gap-4` (already present). Risk: Low.\n- header.php .header-left: keep `d-flex align-items-center`; `gap-4` (24px) vs original ~20px. Note tolerance 1–3px; potential 4px variance—monitor or add custom `.gap-20` if needed. Risk: Medium.\n- header.php .header-right: keep `d-flex flex-column align-items-end gap-1`. Risk: Low.\n- header.php .header-top-row: keep `d-flex align-items-center gap-2 flex-wrap`. Risk: Low.\n- footer.php .footer-container: keep `container d-flex flex-column align-items-center gap-3`. Risk: Low.\n- global.css visibility: only convert `.mobile-only`/`.desktop-only`/`.tablet-only` to Bootstrap visibility utilities if breakpoints align exactly; otherwise keep custom. Risk: Medium.\nVerification: compare gaps and alignment at sm/md/lg; confirm gradients, shadows, sticky behavior unchanged.\n</info added on 2025-11-16T11:17:05.075Z>",
+            "status": "done",
+            "dependencies": [],
+            "parentTaskId": 1
+          },
+          {
+            "id": 4,
+            "title": "Define phased rollout and verification",
+            "description": "Propose phase order (low-risk/admin first), files per phase, exact class changes, and visual parity verification checklist.",
+            "details": "<info added on 2025-11-16T11:18:20.707Z>\nPhases & verification (finalized per user):\n- Phase 1 (Includes): No code changes required; document gap delta (4px) for .header-left. Visual checks: sticky, gradients, shadows, SVG hover, version badge.\n- Phase 2 (Shared layout): Consider utilities for wrappers only if exact parity—otherwise keep CSS. Visibility utilities mapped only when breakpoints match.\n- Phase 3 (Forms/Buttons): If adopting .btn/.form-control, theme locally in bootstrap-overrides.css to match brand (`--blood-red`).\n- Phase 4 (Cards/Grids): Adopt row/col and card only if identical look via overrides.\n- Phase 5 (Modals/Tabs/Alerts): Case-by-case; only if visuals/JS behavior identical.\n- Phase 6 (Clean-up): Remove redundant CSS fully replaced by utilities.\nVerification each phase: desktop/tablet/mobile shots, spacing within 1–3px, JS smoke tests, responsive breakpoints, behavior unchanged.\nUser approvals: 5.3.2 baseline, nothing out of bounds, 1–3px tolerance, includes first, doc yes, brand theming per-adoption.\n</info added on 2025-11-16T11:18:20.707Z>",
+            "status": "done",
+            "dependencies": [],
+            "parentTaskId": 1
+          },
+          {
+            "id": 5,
+            "title": "Approval checkpoint (no code changes)",
+            "description": "Present plan, mapping, and phase order for sign-off before any implementation.",
+            "details": "<info added on 2025-11-16T11:18:38.185Z>\nUser approved execution: keep Bootstrap 5.3.2, nothing out of bounds, 1–3px tolerance, prioritize includes, produce developer reference. Color theming: only map Bootstrap component variants we adopt to site brand in bootstrap-overrides.css. Proceeding to next phases per plan.\n</info added on 2025-11-16T11:18:38.185Z>",
+            "status": "done",
+            "dependencies": [],
+            "parentTaskId": 1
+          },
+          {
+            "id": 6,
+            "title": "Phase 1 includes diff preview (no code change)",
+            "description": "Prepare minimal, localized class diff previews for header/footer; flag any >3px spacing variances.",
+            "details": "<info added on 2025-11-16T11:17:36.741Z>\nIncludes (no-op) diff preview: current markup already uses Bootstrap utilities; no changes recommended for parity.\n- header.php: `.header-container container d-flex justify-content-between align-items-center gap-4` (kept). Note: gap-4 (24px) vs prior ~20px; document delta (4px). If exact match required later, add `.gap-20` utility in overrides and swap class locally.\n- footer.php: `.footer-container container d-flex flex-column align-items-center gap-3` (kept). No variance flagged.\nAction: No edits applied; phase ready to close with notes on gap variance.\nVerification checklist: Header sticky behavior, gradients, borders, SVG hover, version badge, and responsive stacks confirmed unchanged by utilities in place.\n</info added on 2025-11-16T11:17:36.741Z>",
+            "status": "done",
+            "dependencies": [],
+            "parentTaskId": 1
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "created": "2025-11-16T10:59:50.093Z",
+      "updated": "2025-11-16T11:18:48.085Z",
+      "description": "Plan and phased migration of custom CSS to Bootstrap utilities/components with pixel-parity safeguards"
+    }
+  },
+  "cinematic-intros": {
+    "tasks": [
+      {
+        "id": 1,
+        "title": "Setup Project Structure and File Access",
+        "description": "Initialize project structure and establish access to required reference files and directories",
+        "details": "Create directory structure for Character Teasers if not exists. Verify access to missing-character-teasers.json, Valley_by_Night_Cinematic_Intro_Guide.md, and Valley_by_Night_Character_Art_Guide.json. Set up file paths and ensure write permissions to reference/Scenes/Character Teasers/ directory. Create tracking system for processed characters.",
+        "testStrategy": "Verify all required files are accessible, directory structure is created, and test file write operations to target directory",
+        "priority": "high",
+        "dependencies": [],
+        "status": "done",
+        "subtasks": []
+      },
+      {
+        "id": 2,
+        "title": "Parse Character Data and Create Character Queue",
+        "description": "Load and parse the missing-character-teasers.json file to create a processable queue of characters",
+        "details": "Read missing-character-teasers.json and parse character entries. Extract key fields: id, name, notes, biography, appearance, clan, nature, demeanor, concept, equipmentTraits, negativeTraits, morality. Create data structure to track processing status. Implement character selection mechanism for iterative processing. Validate data integrity and handle missing fields gracefully.",
+        "testStrategy": "Verify JSON parsing works correctly, all character fields are extracted properly, and queue management functions operate as expected",
+        "priority": "high",
+        "dependencies": [
+          1
+        ],
+        "status": "done",
+        "subtasks": []
+      },
+      {
+        "id": 3,
+        "title": "Implement Character Research System",
+        "description": "Build system to gather comprehensive character information from VbN project files and relationships",
+        "details": "Create research module that extracts character data from JSON entry and cross-references with VbN project files. Implement relationship mapping to identify connections with other characters. Build location database (Elysium, The Velvet Door, The Hole, havens, etc.) and character-location associations. Extract plot hooks and story connections from character notes. Analyze character's role in Phoenix Kindred society based on clan, nature, and background.",
+        "testStrategy": "Test research system with sample characters, verify relationship mapping accuracy, and validate location associations",
+        "priority": "medium",
+        "dependencies": [
+          2
+        ],
+        "status": "done",
+        "subtasks": []
+      },
+      {
+        "id": 4,
+        "title": "Create Concept Generation Engine",
+        "description": "Develop system to generate three distinct concept summaries (Dark, Elegant, Mysterious) for each character",
+        "details": "Build concept generator that creates exactly 3 two-sentence summaries per character: Dark (shadows, danger, moral ambiguity), Elegant (refinement, beauty, social grace), Mysterious (secrets, enigmatic presence). Implement location variability as primary differentiator between concepts. Integrate plot hook hints from character research. Ensure concepts align with character's clan, nature, and background. Include appropriate VbN locations and maintain neo-noir gothic tone.",
+        "testStrategy": "Generate concepts for test characters, verify three distinct tones are achieved, and validate location variety and plot hook integration",
+        "priority": "medium",
+        "dependencies": [
+          3
+        ],
+        "status": "done",
+        "subtasks": []
+      },
+      {
+        "id": 5,
+        "title": "Build User Interface for Concept Selection",
+        "description": "Create interactive system for presenting concepts to user and capturing selection feedback",
+        "details": "Implement user interface to display 3 concept options clearly formatted with Dark/Elegant/Mysterious labels. Provide selection mechanism (numbered choices or interactive menu). Include option for user to request modifications before proceeding. Implement feedback loop for concept refinement. Store user selection for use in full intro generation. Handle edge cases like invalid selections or modification requests.",
+        "testStrategy": "Test UI with sample concepts, verify selection mechanism works correctly, and validate modification request handling",
+        "priority": "medium",
+        "dependencies": [
+          4
+        ],
+        "status": "done",
+        "subtasks": []
+      },
+      {
+        "id": 6,
+        "title": "Implement Cinematic Intro Writer",
+        "description": "Build system to generate complete 30-second cinematic intros following the Valley by Night format",
+        "details": "Create intro writer that follows Valley_by_Night_Cinematic_Intro_Guide.md format exactly. Generate scene heading, cinematic description, character action/dialogue, and transitions. Target 30-second duration (7-9 shots, 5-7 lines). Include both formatted screenplay version and GM narration version. Implement signature fade-to-black + title card ending. Integrate selected concept, location, tone, and plot hooks. Apply neo-noir gothic styling with specified color palette (Deep Crimson #7A1E1E, Muted Gold #B89B64, Ash Gray #2F2F2F, Desert Amber #C87B3E). Include appropriate lighting and sound direction.",
+        "testStrategy": "Generate test intros and verify format compliance, duration targeting, and style consistency with existing guide",
+        "priority": "high",
+        "dependencies": [
+          5
+        ],
+        "status": "done",
+        "subtasks": []
+      },
+      {
+        "id": 7,
+        "title": "Create File Output and Organization System",
+        "description": "Implement system to save completed intros with proper naming and organization",
+        "details": "Build file output system that saves completed intros to reference/Scenes/Character Teasers/[CharacterName].md using character's full name as filename. Implement proper markdown formatting for saved files. Ensure file naming follows existing conventions and handles special characters in names. Create backup mechanism and version control. Update tracking system to mark characters as completed. Implement file validation to ensure successful saves.",
+        "testStrategy": "Test file saving with various character names, verify proper formatting and naming conventions, and validate file integrity",
+        "priority": "medium",
+        "dependencies": [
+          6
+        ],
+        "status": "done",
+        "subtasks": []
+      },
+      {
+        "id": 8,
+        "title": "Implement Iterative Processing Workflow",
+        "description": "Create main workflow system that processes characters one at a time with learning and feedback integration",
+        "status": "in-progress",
+        "dependencies": [
+          7
+        ],
+        "priority": "high",
+        "details": "Build main processing loop that handles one character at a time through the complete workflow for each character in missing-character-teasers.json: 1) Research character from JSON + VbN project (relationships, locations, plot hooks), 2) Analyze location/setting options (many at Elysium, some elsewhere), 3) Generate 3 two-sentence concept summaries (Dark, Elegant, Mysterious - location is most variable), 4) User selects concept, 5) Write full 30-second intro following Cinematic Intro Guide, 6) Save to reference/Scenes/Character Teasers/[CharacterName].md. Implement learning system that improves subsequent iterations based on user feedback patterns. Create progress tracking and resumption capability for interrupted sessions. Add workflow state management and error recovery. Implement feedback collection system to refine concept generation and intro quality. Include completion reporting and summary statistics.",
+        "testStrategy": "Run complete workflow with test characters from missing-character-teasers.json, verify iterative processing works correctly through all 6 steps, validate file output to correct directory structure, and confirm learning improvements over multiple iterations",
+        "subtasks": [
+          {
+            "id": 1,
+            "title": "Load and Parse Missing Character Data",
+            "description": "Load missing-character-teasers.json and prepare character queue for processing",
+            "status": "pending",
+            "dependencies": [],
+            "details": "<info added on 2025-11-18T04:02:37.696Z>\nCompleted first character: Andrei Radulescu. Generated 3 concepts (Dark/Elegant/Mysterious), user selected Mysterious concept with focus on dark magic and Garou ending. Created full 30-second intro following Cinematic Intro Guide format, saved to reference/Scenes/Character Teasers/Andrei Radulescu.md. Intro focuses on experimental Dehydrate Thaumaturgy ritual in chantry, ends with Garou pack sensing the corruption. Learned: User wants emphasis on supernatural/magical elements and external threats (Garou) as consequences.\n</info added on 2025-11-18T04:02:37.696Z>\n<info added on 2025-11-18T04:09:07.762Z>\nCompleted second character: Dr. Margaret Ashford. User requested combination of Elegant (Elysium) and Mysterious (Aonbharr flashbacks) concepts. Created intro with reality-blurring flashbacks between Elysium and horse scenes (riding, brushing, kissing forehead), making viewer question which is reality. Emphasized fae enchantment theme. Saved to reference/Scenes/Character Teasers/Dr. Margaret Ashford.md. Learned: User likes combining concepts, reality-blurring techniques, and subtle supernatural elements that create mystery.\n</info added on 2025-11-18T04:09:07.762Z>\n<info added on 2025-11-18T04:19:29.289Z>\nCompleted third character: James Whitmore. User selected Elegant concept (Elysium) with specific focus on Ball of Truth artifact. Created intro showing James subtly using the artifact during a handshake - it lights up when someone lies, and he must be very subtle about its use. Saved to reference/Scenes/Character Teasers/James Whitmore.md. Learned: User wants to see artifacts/items in action, subtle power displays, and strategic character moments that reveal their methods.\n</info added on 2025-11-18T04:19:29.289Z>\n<info added on 2025-11-18T06:39:51.231Z>\nCompleted fourth character: Violet 'The Confidence Queen'. User requested combination of concepts 1 (haven) and 2 (Elysium) with specific details: haven is main Nosferatu Warren (old large military bunker), show her watching monitors and talking to rat with deformed Nosferatu features visible, then transition to Elysium basement where she uses Mask of a Thousand Faces to show human face while climbing stairs, entering main area with human mask but same clothes. Saved to reference/Scenes/Character Teasers/Violet 'The Confidence Queen'.md. Learned: User wants to show character transformations, true selves vs public masks, and specific location details (warren as bunker).\n</info added on 2025-11-18T06:39:51.231Z>",
+            "testStrategy": ""
+          },
+          {
+            "id": 2,
+            "title": "Implement Character Research Integration",
+            "description": "Integrate with Task 3's research system to gather character data from JSON + VbN project files",
+            "status": "pending",
+            "dependencies": [],
+            "details": "",
+            "testStrategy": ""
+          },
+          {
+            "id": 3,
+            "title": "Build Location Analysis System",
+            "description": "Analyze location/setting options for each character, focusing on Elysium and other VbN locations",
+            "status": "pending",
+            "dependencies": [],
+            "details": "",
+            "testStrategy": ""
+          },
+          {
+            "id": 4,
+            "title": "Integrate Concept Generation Engine",
+            "description": "Connect with Task 4's concept generator to create 3 two-sentence summaries (Dark, Elegant, Mysterious)",
+            "status": "pending",
+            "dependencies": [],
+            "details": "",
+            "testStrategy": ""
+          },
+          {
+            "id": 5,
+            "title": "Implement User Selection Interface",
+            "description": "Create interface for user to select preferred concept from the 3 generated options",
+            "status": "pending",
+            "dependencies": [],
+            "details": "",
+            "testStrategy": ""
+          },
+          {
+            "id": 6,
+            "title": "Integrate Cinematic Intro Writer",
+            "description": "Connect with Task 6's intro writer to generate full 30-second intro following Cinematic Intro Guide",
+            "status": "pending",
+            "dependencies": [],
+            "details": "",
+            "testStrategy": ""
+          },
+          {
+            "id": 7,
+            "title": "Implement File Output to Character Teasers Directory",
+            "description": "Save completed intros to reference/Scenes/Character Teasers/[CharacterName].md using proper naming conventions",
+            "status": "pending",
+            "dependencies": [],
+            "details": "",
+            "testStrategy": ""
+          },
+          {
+            "id": 8,
+            "title": "Build Progress Tracking System",
+            "description": "Track which characters have been processed and allow resumption of interrupted sessions",
+            "status": "pending",
+            "dependencies": [],
+            "details": "",
+            "testStrategy": ""
+          },
+          {
+            "id": 9,
+            "title": "Implement Learning and Feedback System",
+            "description": "Collect user feedback patterns and improve concept generation and intro quality over iterations",
+            "status": "pending",
+            "dependencies": [],
+            "details": "",
+            "testStrategy": ""
+          },
+          {
+            "id": 10,
+            "title": "Create Workflow State Management",
+            "description": "Manage workflow state transitions and implement error recovery for each processing step",
+            "status": "pending",
+            "dependencies": [],
+            "details": "",
+            "testStrategy": ""
+          },
+          {
+            "id": 11,
+            "title": "Build Completion Reporting",
+            "description": "Generate summary statistics and completion reports for processed characters",
+            "status": "pending",
+            "dependencies": [],
+            "details": "",
+            "testStrategy": ""
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "created": "2025-11-18T03:57:02.896Z",
+      "updated": "2025-11-18T03:58:16.202Z",
+      "description": "Tasks for cinematic-intros context"
+    }
+  }
+}
