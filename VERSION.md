@@ -1,6 +1,29 @@
 # Version History
 
-## Current Version: 0.6.7
+## Current Version: 0.6.8
+
+**Date:** 2025-01-18  
+**Type:** Patch (Completed all remaining cinematic character teasers - final batch)
+
+### Changes:
+- **Completed Character Teaser Collection** - All 37 characters now have cinematic teasers
+- Created final 5 character teasers following Valley_by_Night_Cinematic_Intro_Guide.md format:
+  - Mr. Harold Ashby (Malkavian serial killer obsessed with preserving grief)
+  - Tariq Ibrahim (Setite nightclub impresario curating VIP corruption experiences)
+  - Layla al-Sahr (Assamite assassin stranded in Phoenix, maintaining Malkavian cover)
+  - Tor (Ghoul of Mr. Ashby, caught between loyalty and growing realization)
+  - Marisol "Roadrunner" Vega (Gangrel tracker mapping supernatural safe trails)
+- **File Organization:**
+  - Moved supplementary scene teaser "Rembrandt and Jax.md" from Character Teasers to Scene Teasers folder
+- **Tracking System:**
+  - Updated missing-character-teasers.json with hasTeaser flags for all characters
+  - Created update_teaser_flags.py script for automated tracking updates
+  - All 37 characters now marked with hasTeaser: true
+- All teasers include cinematic scene cards, GM notes, hooks, and plot foreshadowing
+- Consistent neo-noir gothic style with proper formatting per style guide
+- Each teaser captures character essence through environment, action, and voice
+
+## Previous Version: 0.6.7
 
 **Date:** 2025-01-18  
 **Type:** Patch (Additional cinematic character teasers - batch 3)
