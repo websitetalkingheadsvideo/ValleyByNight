@@ -1,6 +1,22 @@
 # Version History
 
-## Current Version: 0.6.6
+## Current Version: 0.6.7
+
+**Date:** 2025-01-18  
+**Type:** Patch (Additional cinematic character teasers - batch 3)
+
+### Changes:
+- Created 5 new cinematic character teasers following Valley_by_Night_Cinematic_Intro_Guide.md format:
+  - Alessandro Vescari (Giovanni investment liaison targeting Setite Temple)
+  - Jennifer Kwan (Setite Security Director of The Hole)
+  - Marcus Webb (Setite General Manager who cultivates corruption)
+  - Kerry, the Gangrel (Witness to the 1973 Prince's staking)
+  - Roland Cross (Toreador Sheriff who treats killing as art)
+- All teasers include cinematic scene cards, GM notes, hooks, and plot foreshadowing
+- Consistent neo-noir gothic style with proper formatting per style guide
+- Each teaser captures character essence through environment, action, and voice
+
+## Previous Version: 0.6.6
 
 **Date:** 2025-01-18  
 **Type:** Patch (Additional cinematic character teaser - Andrei Radulescu)
