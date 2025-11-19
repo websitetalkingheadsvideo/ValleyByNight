@@ -1,6 +1,24 @@
 # Version History
 
-## Current Version: 0.6.8
+## Current Version: 0.6.9
+
+**Date:** 2025-01-18  
+**Type:** Patch (Restored accidentally purged reference folders from git)
+
+### Changes:
+- **Restored Reference Folders** - Recovered 7 folders that were accidentally purged:
+  - **Items** - Items.txt, PR Marble.html, and supporting files
+  - **Companies** - Aegis Solutions Group documentation
+  - **field-references** - LOCATIONS_FIELD_REFERENCE.md
+  - **game-lore** - Setting files, Harpy.md, IMPORT_GUIDE.md, and chronicle PDFs
+  - **mechanics** - Complete mechanics documentation including Abilities, Backgrounds, Disciplines, Ghouls, Humanity, Merits/Flaws, Willpower, and clans subfolder
+  - **Plot Hooks** - The Unsettling Favor plot hook files
+  - **Questionaire** - Character creation questionnaire files (Questions_2.md, Questions_3.md, etc.)
+  - **Locations** - Hawthorne Estate.md, Mesa Storm Drains.json, The Bunker - Computer Room.json, The Warrens.json
+- All folders restored from commit fee692c^ (before folder reorganization)
+- Files staged and ready for commit
+
+## Previous Version: 0.6.8
 
 **Date:** 2025-01-18  
 **Type:** Patch (Completed all remaining cinematic character teasers - final batch)
