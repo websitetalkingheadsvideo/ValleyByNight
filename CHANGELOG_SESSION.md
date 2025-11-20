@@ -1,3 +1,67 @@
+# Session Summary - Plot Hooks JSON Schema Standardization
+
+## Version: 0.6.9 → 0.6.10 (Patch Update)
+
+### Overview
+Analyzed existing plot hook JSON files in `reference/Plot Hooks/` and created a standardized `Plot Hooks.json` template through schema induction. The template unifies field naming conventions and structure across all plot hook files for consistent future use.
+
+### Changes Made
+
+#### 1. Schema Analysis
+- **Analyzed**: Three existing plot hook JSON files:
+  - `Barry Horowitz.json` - 10 plot hooks with varied optional fields
+  - `Layla al-Sahr.json` - 5 plot hooks with structured objectives
+  - `Marisol Roadrunner Vega.json` - 1 complex multi-act plot hook
+- **Identified**: Common structure patterns, required vs optional fields, and field naming variations
+- **Method**: Schema induction from actual data rather than arbitrary invention
+
+#### 2. Unified Template Creation
+- **Created**: `reference/Plot Hooks/Plot Hooks.json` - Standardized template
+- **Structure**:
+  - Core fields: `character_name`, `chronicle`, `plot_hooks`, `meta_hooks`, `usage_notes`
+  - Required plot hook fields: `title`, `type`, `difficulty`, `setup`, `hook`, `themes`, `potential_outcomes`
+  - Common optional fields: `objectives`, `complications`
+  - Rare optional fields: `opportunity`, `twist_options`, `structure` (for multi-act hooks), `resources`, `failure_points`, etc.
+- **Purpose**: Provides consistent format for future plot hook creation and AI-assisted generation
+
+### Technical Details
+
+#### Schema Unification
+- **Field Standardization**: Unified synonymous fields (e.g., `complication` vs `complications`)
+- **Type Consistency**: Standardized array vs string formats
+- **Optional Field Documentation**: All observed optional fields included with clear documentation
+- **Multi-Act Support**: Included `structure` object for complex multi-act plot hooks (Act I, II, III)
+
+#### Template Features
+- **Flexible Structure**: Supports both simple and complex plot hooks
+- **Meta Hooks**: Includes optional `meta_hooks` array for cross-hook narratives
+- **Usage Notes**: Standardized `usage_notes` with `scaling`, `difficulty_guide`, `combination`, and `character_growth` fields
+- **Extensibility**: Template accommodates future field additions without breaking structure
+
+### Files Changed
+
+#### Created
+- `reference/Plot Hooks/Plot Hooks.json` - Standardized plot hook template
+
+#### Modified
+- `includes/version.php` - Version bump to 0.6.10
+
+### Benefits
+
+1. **Consistency**: All future plot hooks will follow the same structure
+2. **AI-Friendly**: Template provides clear schema for AI-assisted plot hook generation
+3. **Completeness**: Includes all observed fields from existing files
+4. **Documentation**: Template serves as self-documenting schema reference
+5. **Flexibility**: Supports both simple and complex plot hook structures
+
+### Next Steps
+
+- Use template for generating new plot hooks
+- Potentially create validation script to ensure JSON files match schema
+- Consider expanding template if new field patterns emerge
+
+---
+
 # Session Summary - Cinematic Character Intro Generation System
 
 ## Version: 0.6.3 → 0.6.4 (Patch Update)

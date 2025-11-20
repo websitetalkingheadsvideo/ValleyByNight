@@ -1,0 +1,114 @@
+{
+  "character_name": "Character Name",
+  "chronicle": "Chronicle Name",
+  "plot_hooks": [
+    {
+      "title": "Plot Hook Title",
+      "type": "Hook Type (e.g., Secret/Alliance, Rescue/Investigation, Territory Defense)",
+      "difficulty": "Easy | Medium | Hard | Easy to Medium | Medium to Hard",
+      "setup": "Initial situation or context that introduces the hook",
+      "hook": "The specific moment or event that draws PCs into the plot",
+      "objectives": [
+        "Primary goal the PCs should aim for",
+        "Secondary or optional objectives"
+      ],
+      "complications": [
+        "Complication that raises the stakes or introduces tension",
+        "Additional complication or obstacle"
+      ],
+      "themes": [
+        "Theme 1",
+        "Theme 2",
+        "Theme 3"
+      ],
+      "potential_outcomes": [
+        "Possible outcome 1",
+        "Possible outcome 2",
+        "Possible outcome 3"
+      ],
+      "opportunity": "Optional: What opportunity this hook presents to PCs",
+      "value": "Optional: The value or benefit this hook provides",
+      "twist_options": [
+        "Optional: Alternative twist or reveal option 1",
+        "Optional: Alternative twist or reveal option 2"
+      ],
+      "emotional_stakes": "Optional: The emotional stakes involved",
+      "character_moment": "Optional: A key character development moment",
+      "escalation": "Optional: How the situation escalates",
+      "twist": "Optional: A twist or reveal that changes the direction",
+      "hook_options": [
+        "Optional: Alternative ways the hook can be presented"
+      ],
+      "pc_involvement": "Optional: How PCs become involved or their role",
+      "stakes": "Optional: What happens if characters succeed or fail",
+      "role_for_pcs": [
+        "Optional: Specific roles PCs can take"
+      ],
+      "deeper_layer": "Optional: Additional layer or hidden element",
+      "the_task": "Optional: A specific task that must be completed",
+      "task_examples": [
+        "Optional: Examples of tasks that fit this hook"
+      ],
+      "complication": "Optional: Single complication (alternative to complications array)",
+      "options": [
+        "Optional: Alternative approaches or choices"
+      ],
+      "investigation": "Optional: Investigation elements or clues",
+      "structure": {
+        "act_i": {
+          "name": "Act I Name",
+          "plays": [
+            "Scene or event description",
+            "Another scene description"
+          ]
+        },
+        "act_ii": {
+          "name": "Act II Name",
+          "plays": [
+            "Scene or event description",
+            "Another scene description"
+          ]
+        },
+        "act_iii": {
+          "name": "Act III Name",
+          "plays": [
+            "Scene or event description",
+            "Another scene description"
+          ]
+        }
+      },
+      "failure_points": [
+        "Optional: Specific points where things can go wrong",
+        "Another failure point"
+      ],
+      "resources": [
+        "Optional: Resources available to PCs",
+        "Another resource"
+      ]
+    }
+  ],
+  "meta_hooks": [
+    {
+      "title": "Meta Hook Title",
+      "type": "Meta Hook Type",
+      "description": "Description of how this meta hook works across multiple sessions or hooks",
+      "involves": [
+        "Optional: Characters or entities involved"
+      ],
+      "themes": [
+        "Optional: Themes for the meta hook"
+      ]
+    }
+  ],
+  "usage_notes": {
+    "scaling": "How this hook can scale from single session to multi-session arc",
+    "difficulty_guide": {
+      "Easy": "Description of easy difficulty hooks",
+      "Medium": "Description of medium difficulty hooks",
+      "Hard": "Description of hard difficulty hooks"
+    },
+    "combination": "How multiple hooks can be combined or run in parallel",
+    "character_growth": "How these hooks push character development in various directions"
+  }
+}
+

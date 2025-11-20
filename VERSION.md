@@ -1,6 +1,20 @@
 # Version History
 
-## Current Version: 0.6.9
+## Current Version: 0.6.10
+
+**Date:** 2025-01-18  
+**Type:** Patch (Plot Hooks JSON schema standardization)
+
+### Changes:
+- **Plot Hooks Template** - Created standardized `Plot Hooks.json` template through schema induction
+  - Analyzed three existing plot hook JSON files (Barry Horowitz, Layla al-Sahr, Marisol Roadrunner Vega)
+  - Unified field naming conventions and structure
+  - Documented required vs optional fields
+  - Supports both simple and complex multi-act plot hooks
+  - Includes meta_hooks and usage_notes structures
+- Template provides consistent format for future plot hook creation and AI-assisted generation
+
+## Previous Version: 0.6.9
 
 **Date:** 2025-01-18  
 **Type:** Patch (Restored accidentally purged reference folders from git)
