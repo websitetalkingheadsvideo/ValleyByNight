@@ -1,6 +1,27 @@
 # Version History
 
-## Current Version: 0.6.10
+## Current Version: 0.6.11
+
+**Date:** 2025-11-22  
+**Type:** Patch (Location and Room JSON schema standardization)
+
+### Changes:
+- **Location Template** - Created standardized `location_template.json` template through schema induction
+  - Analyzed all existing location JSON files (Mesa Storm Drains, The Bunker - Computer Room, The Warrens)
+  - Identified and unified all unique keys/variables across location files (52 total fields)
+  - Preserves naming conventions and structure from existing locations
+  - Includes comprehensive fields: basic info, status/location, ownership/access, security details, utility flags, supernatural/magical properties, relationships, and metadata
+- **Room Template** - Created comprehensive `room_template.json` template for rooms within locations
+  - Designed with 39 fields covering physical properties (dimensions, ceiling height, capacity)
+  - Includes environmental details (lighting, temperature, atmosphere)
+  - Security features (level, locks, alarms, traps)
+  - Utility flags aligned with location template
+  - Special properties for unique room features (Faraday cages, pressure plates, etc.)
+  - Connection system for linking rooms together
+  - Location relationship via location_id foreign key
+- Templates provide consistent format for future location and room creation and AI-assisted generation
+
+## Previous Version: 0.6.10
 
 **Date:** 2025-01-18  
 **Type:** Patch (Plot Hooks JSON schema standardization)
