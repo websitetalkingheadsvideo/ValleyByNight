@@ -17,6 +17,7 @@
         setupFilters();
         setupSearch();
         setupTableSorting();
+        setupActionButtons();
     }
     
     /**
@@ -181,6 +182,136 @@
         
         // Re-apply filters after sorting
         applyFilters();
+    }
+    
+    /**
+     * Setup action buttons (view, edit, delete)
+     */
+    function setupActionButtons() {
+        // View buttons
+        const viewButtons = document.querySelectorAll('.view-btn');
+        viewButtons.forEach(btn => {
+            btn.addEventListener('click', function() {
+                const positionId = this.dataset.id;
+                if (positionId && typeof viewPosition === 'function') {
+                    viewPosition(positionId, 'view');
+                }
+            });
+        });
+        
+        // Edit buttons
+        const editButtons = document.querySelectorAll('.edit-btn');
+        editButtons.forEach(btn => {
+            btn.addEventListener('click', function() {
+                const positionId = this.dataset.id;
+                if (positionId && typeof editPosition === 'function') {
+                    editPosition(positionId);
+                }
+            });
+        });
+        
+        // Delete buttons
+        const deleteButtons = document.querySelectorAll('.delete-btn');
+        deleteButtons.forEach(btn => {
+            btn.addEventListener('click', function() {
+                const positionId = this.dataset.id;
+                const positionName = this.dataset.name || 'Unknown';
+                if (positionId) {
+                    openDeletePositionModal(positionId, positionName);
+                }
+            });
+        });
+        
+        // Confirm delete button
+        const confirmDeleteBtn = document.getElementById('confirmDeletePositionBtn');
+        if (confirmDeleteBtn) {
+            confirmDeleteBtn.addEventListener('click', confirmDeletePosition);
+        }
+    }
+    
+    /**
+     * Open delete confirmation modal
+     */
+    function openDeletePositionModal(positionId, positionName) {
+        const modal = document.getElementById('deletePositionModal');
+        const nameEl = document.getElementById('deletePositionName');
+        const warningEl = document.getElementById('deleteWarning');
+        
+        if (nameEl) {
+            nameEl.textContent = positionName;
+        }
+        
+        if (warningEl) {
+            warningEl.style.display = 'block';
+        }
+        
+        if (modal) {
+            modal.classList.add('active');
+            modal.dataset.positionId = positionId;
+        }
+    }
+    
+    /**
+     * Close delete confirmation modal
+     */
+    window.closeDeletePositionModal = function() {
+        const modal = document.getElementById('deletePositionModal');
+        if (modal) {
+            modal.classList.remove('active');
+            delete modal.dataset.positionId;
+        }
+    };
+    
+    /**
+     * Confirm and execute position deletion
+     */
+    function confirmDeletePosition() {
+        const modal = document.getElementById('deletePositionModal');
+        if (!modal) return;
+        
+        const positionId = modal.dataset.positionId;
+        if (!positionId) return;
+        
+        const confirmBtn = document.getElementById('confirmDeletePositionBtn');
+        if (confirmBtn) {
+            confirmBtn.disabled = true;
+            confirmBtn.textContent = 'Deleting...';
+        }
+        
+        fetch('/admin/delete_position_api.php', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({
+                position_id: positionId
+            })
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (data.success) {
+                // Remove row from table
+                const row = document.querySelector(`tr.position-row[data-id="${positionId}"]`);
+                if (row) {
+                    row.remove();
+                }
+                closeDeletePositionModal();
+            } else {
+                alert('Error deleting position: ' + (data.message || 'Unknown error'));
+                if (confirmBtn) {
+                    confirmBtn.disabled = false;
+                    confirmBtn.textContent = 'Delete';
+                }
+            }
+        })
+        .catch(error => {
+            console.error('Delete error:', error);
+            alert('Error deleting position. Check console for details.');
+            if (confirmBtn) {
+                confirmBtn.disabled = false;
+                confirmBtn.textContent = 'Delete';
+            }
+        });
     }
     
     /**

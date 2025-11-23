@@ -43,6 +43,14 @@ $all_positions = db_fetch_all($conn, $all_positions_query);
 $characters_query = "SELECT id, character_name, clan FROM characters ORDER BY character_name";
 $all_characters = db_fetch_all($conn, $characters_query);
 
+// DEBUG: Check character names that should match
+$debug_chars = db_fetch_all($conn, "SELECT id, character_name, UPPER(REPLACE(character_name, ' ', '_')) as transformed_name FROM characters WHERE character_name LIKE '%Butch%' OR character_name LIKE '%Alistaire%' OR character_name LIKE '%Reed%' OR character_name LIKE '%Hawthorn%'");
+error_log("DEBUG character name check: " . json_encode($debug_chars));
+
+// DEBUG: Check what the assignment table expects vs what we have
+$debug_assignments = db_fetch_all($conn, "SELECT cpa.position_id, cpa.character_id as assignment_char_id, c.character_name, c.id as char_id, UPPER(REPLACE(c.character_name, ' ', '_')) as transformed FROM camarilla_position_assignments cpa LEFT JOIN characters c ON UPPER(REPLACE(c.character_name, ' ', '_')) = cpa.character_id WHERE cpa.character_id IN ('BUTCH_REED', 'ALISTAIRE_HAWTHORN')");
+error_log("DEBUG assignment vs character match: " . json_encode($debug_assignments));
+
 // Handle agent queries
 $position_lookup_result = null;
 $character_lookup_result = null;
@@ -115,7 +123,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             <select id="categoryFilter" class="form-select form-select-sm bg-dark text-light border-danger">
                 <option value="all">All Categories</option>
                 <?php foreach ($categories as $cat): ?>
-                    <option value="<?php echo htmlspecialchars($cat); ?>"><?php echo htmlspecialchars($cat); ?></option>
+                    <option value="<?php echo htmlspecialchars($cat); ?>"><?php echo htmlspecialchars(ucwords($cat)); ?></option>
                 <?php endforeach; ?>
             </select>
         </div>
@@ -138,6 +146,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         </div>
     </div>
     
+    <!-- DEBUG: Character name lookup -->
+    <script>
+        console.log('DEBUG Character Names in DB:', <?php echo json_encode($debug_chars); ?>);
+        console.log('DEBUG Assignment vs Character Match:', <?php echo json_encode($debug_assignments); ?>);
+    </script>
+    
     <!-- Positions Table -->
     <div class="positions-table-wrapper table-responsive">
         <table class="positions-table table table-dark table-hover align-middle" id="positionsTable">
@@ -148,7 +162,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     <th data-sort="holder">Current Holder <span class="sort-icon">⇅</span></th>
                     <th>Status</th>
                     <th data-sort="start">Start Night <span class="sort-icon">⇅</span></th>
-                    <th>Actions</th>
+                    <th class="text-center text-nowrap" style="width: 150px;">Actions</th>
                 </tr>
             </thead>
             <tbody>
@@ -157,16 +171,38 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     $holder = $data['current_holder'];
                 ?>
                     <tr class="position-row" 
+                        data-id="<?php echo htmlspecialchars($position['position_id'] ?? ''); ?>"
                         data-category="<?php echo htmlspecialchars($position['category'] ?? ''); ?>"
                         data-clan="<?php echo htmlspecialchars($holder['clan'] ?? ''); ?>"
                         data-name="<?php echo htmlspecialchars(strtolower($position['name'] ?? '')); ?>">
                         <td><strong><?php echo htmlspecialchars($position['name'] ?? 'Unknown'); ?></strong></td>
-                        <td><?php echo htmlspecialchars($position['category'] ?? '—'); ?></td>
+                        <td><?php echo htmlspecialchars(ucwords($position['category'] ?? '—')); ?></td>
                         <td>
                             <?php if ($holder): ?>
-                                <a href="character_sheet.php?id=<?php echo $holder['character_id']; ?>" class="character-link">
-                                    <?php echo htmlspecialchars($holder['character_name'] ?? 'Unknown'); ?>
-                                </a>
+                                <?php 
+                                // DEBUG: Log holder data
+                                $debug_info = "position_id: " . ($position['position_id'] ?? '') . 
+                                            ", assignment_character_id: " . ($holder['assignment_character_id'] ?? 'NULL') . 
+                                            ", holder character_id: " . ($holder['character_id'] ?? 'NULL') . 
+                                            ", holder character_name: " . ($holder['character_name'] ?? 'NULL') . 
+                                            ", holder keys: " . implode(', ', array_keys($holder));
+                                ?>
+                                <script>console.log('DEBUG Holder Data:', <?php echo json_encode($holder); ?>, 'Debug Info:', <?php echo json_encode($debug_info); ?>);</script>
+                                <?php 
+                                // Use character_name if available, otherwise fall back to assignment_character_id (formatted to title case)
+                                if (!empty($holder['character_name'])) {
+                                    $display_name = $holder['character_name'];
+                                } else {
+                                    $display_name = ucwords(strtolower(str_replace('_', ' ', $holder['assignment_character_id'] ?? 'Unknown')));
+                                }
+                                ?>
+                                <?php if (!empty($holder['character_id'])): ?>
+                                    <a href="../lotn_char_create.php?id=<?php echo htmlspecialchars($holder['character_id']); ?>" class="character-link">
+                                        <?php echo htmlspecialchars($display_name); ?>
+                                    </a>
+                                <?php else: ?>
+                                    <span class="character-link" title="Character not found in database"><?php echo htmlspecialchars($display_name); ?></span>
+                                <?php endif; ?>
                             <?php else: ?>
                                 <span class="text-muted">Vacant</span>
                             <?php endif; ?>
@@ -189,12 +225,19 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                 <span class="text-muted">—</span>
                             <?php endif; ?>
                         </td>
-                        <td class="actions">
-                            <?php if ($holder): ?>
-                                <button class="btn btn-sm btn-outline-info" onclick="viewPositionHistory('<?php echo htmlspecialchars($position['position_id']); ?>')">
-                                    View History
-                                </button>
-                            <?php endif; ?>
+                        <td class="actions text-center align-top" style="width: 150px;">
+                            <div class="btn-group btn-group-sm" role="group" aria-label="Position actions">
+                                <button class="action-btn view-btn btn btn-primary" 
+                                        data-id="<?php echo htmlspecialchars($position['position_id'] ?? ''); ?>"
+                                        title="View Position">👁️</button>
+                                <button class="action-btn edit-btn btn btn-warning" 
+                                        data-id="<?php echo htmlspecialchars($position['position_id'] ?? ''); ?>"
+                                        title="Edit Position">✏️</button>
+                                <button class="action-btn delete-btn btn btn-danger" 
+                                        data-id="<?php echo htmlspecialchars($position['position_id'] ?? ''); ?>" 
+                                        data-name="<?php echo htmlspecialchars($position['name'] ?? 'Unknown'); ?>"
+                                        title="Delete Position">🗑️</button>
+                            </div>
                         </td>
                     </tr>
                 <?php endforeach; ?>
@@ -220,7 +263,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                 <option value="">Select a position...</option>
                                 <?php foreach ($all_positions as $pos): ?>
                                     <option value="<?php echo htmlspecialchars($pos['position_id']); ?>">
-                                        <?php echo htmlspecialchars($pos['name']); ?> (<?php echo htmlspecialchars($pos['category']); ?>)
+                                        <?php echo htmlspecialchars($pos['name']); ?> (<?php echo htmlspecialchars(ucwords($pos['category'])); ?>)
                                     </option>
                                 <?php endforeach; ?>
                             </select>
@@ -243,9 +286,13 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                 <h5>Current Holder:</h5>
                                 <?php if ($position_lookup_result['current_holder']): ?>
                                     <p>
-                                        <a href="character_sheet.php?id=<?php echo $position_lookup_result['current_holder']['character_id']; ?>">
+                                        <?php if (!empty($position_lookup_result['current_holder']['character_id'])): ?>
+                                            <a href="../lotn_char_create.php?id=<?php echo $position_lookup_result['current_holder']['character_id']; ?>">
+                                                <?php echo htmlspecialchars($position_lookup_result['current_holder']['character_name']); ?>
+                                            </a>
+                                        <?php else: ?>
                                             <?php echo htmlspecialchars($position_lookup_result['current_holder']['character_name']); ?>
-                                        </a>
+                                        <?php endif; ?>
                                         <?php if ($position_lookup_result['current_holder']['is_acting']): ?>
                                             <span class="badge badge-acting">Acting</span>
                                         <?php else: ?>
@@ -276,9 +323,13 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                                 <tr>
                                                     <td>
                                                         <?php if ($hist['character_name']): ?>
-                                                            <a href="character_sheet.php?id=<?php echo $hist['character_id']; ?>">
+                                                            <?php if (!empty($hist['character_id'])): ?>
+                                                                <a href="../lotn_char_create.php?id=<?php echo $hist['character_id']; ?>">
+                                                                    <?php echo htmlspecialchars($hist['character_name']); ?>
+                                                                </a>
+                                                            <?php else: ?>
                                                                 <?php echo htmlspecialchars($hist['character_name']); ?>
-                                                            </a>
+                                                            <?php endif; ?>
                                                         <?php else: ?>
                                                             <span class="text-muted">Unknown</span>
                                                         <?php endif; ?>
@@ -334,7 +385,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                         <?php foreach ($character_lookup_result['current_positions'] as $pos): ?>
                                             <li>
                                                 <strong><?php echo htmlspecialchars($pos['position_name'] ?? 'Unknown'); ?></strong>
-                                                (<?php echo htmlspecialchars($pos['category'] ?? ''); ?>)
+                                                (<?php echo htmlspecialchars(ucwords($pos['category'] ?? '')); ?>)
                                                 <?php if ($pos['is_acting']): ?>
                                                     <span class="badge badge-acting">Acting</span>
                                                 <?php else: ?>
@@ -357,7 +408,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                         <?php foreach ($character_lookup_result['past_positions'] as $pos): ?>
                                             <li>
                                                 <strong><?php echo htmlspecialchars($pos['position_name'] ?? 'Unknown'); ?></strong>
-                                                (<?php echo htmlspecialchars($pos['category'] ?? ''); ?>)
+                                                (<?php echo htmlspecialchars(ucwords($pos['category'] ?? '')); ?>)
                                                 <br>
                                                 <small>
                                                     <?php echo date('Y-m-d', strtotime($pos['start_night'])); ?> - 
@@ -372,6 +423,29 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     <?php endif; ?>
                 </div>
             </div>
+        </div>
+    </div>
+</div>
+
+<?php
+// Include position view modal
+$apiEndpoint = '/admin/view_position_api.php';
+$modalId = 'viewPositionModal';
+include __DIR__ . '/../includes/position_view_modal.php';
+?>
+
+<!-- Delete Modal -->
+<div id="deletePositionModal" class="modal" role="dialog" aria-modal="true" aria-label="Confirm Deletion" aria-describedby="deletePositionName deleteWarning">
+    <div class="modal-content">
+        <h2 class="modal-title">⚠️ Confirm Deletion</h2>
+        <p class="modal-message">Delete position:</p>
+        <p class="modal-character-name" id="deletePositionName"></p>
+        <p class="modal-warning" id="deleteWarning" style="display:none;">
+            ⚠️ <strong>Warning</strong> - This position may have assignments!
+        </p>
+        <div class="modal-actions">
+            <button class="modal-btn cancel-btn btn btn-secondary" onclick="closeDeletePositionModal()">Cancel</button>
+            <button class="modal-btn confirm-btn btn btn-danger" id="confirmDeletePositionBtn">Delete</button>
         </div>
     </div>
 </div>
