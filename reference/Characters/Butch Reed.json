@@ -1,0 +1,99 @@
+{
+    "player_name": "NPC",
+    "character_name": "Butch Reed",
+    "epithet": "The Stable Hand",
+    "clan": "Brujah",
+    "generation": 10,
+    "embraced": 1989,
+    "apparent_age": "early 40s",
+    "concept": "Gentle giant mechanic / Brujah Primogen",
+    "nature": "Caregiver",
+    "demeanor": "Guardian",
+    "physical_description": {
+      "height": "6'2\"",
+      "build": "Muscular, former professional wrestler",
+      "skin": "African American",
+      "hair": "Short, usually under a headband",
+      "clothing": "Oil-stained coveralls, work shirt, boots",
+      "signature_items": [
+        "Headband",
+        "Mechanic's gloves",
+        "Grease-stained rag"
+      ]
+    },
+    "attributes": {
+      "physical": {"strength": 4, "dexterity": 3, "stamina": 4},
+      "social": {"charisma": 3, "manipulation": 2, "appearance": 2},
+      "mental": {"perception": 3, "intelligence": 2, "wits": 3}
+    },
+    "abilities": {
+      "talents": {
+        "brawl": 4,
+        "athletics": 3,
+        "alertness": 3,
+        "intimidation": 1,
+        "streetwise": 2
+      },
+      "skills": {
+        "repair": 4,
+        "drive": 3,
+        "security": 1,
+        "melee": 0,
+        "firearms": 0
+      },
+      "knowledges": {
+        "investigation": 1,
+        "politics": 1,
+        "science": 1,
+        "law": 0
+      }
+    },
+    "disciplines": {
+      "celerity": 1,
+      "potence": 2,
+      "presence": 2
+    },
+    "backgrounds": {
+      "allies": 2,
+      "contacts": 2,
+      "resources": 2,
+      "status": 2,
+      "herd": 1
+    },
+    "virtues": {
+      "conscience": 4,
+      "self_control": 3,
+      "courage": 4
+    },
+    "path": "Humanity",
+    "humanity": 8,
+    "willpower": 5,
+    "blood_pool": 13,
+    "merits_flaws": {
+      "merits": ["Calm Heart", "Early Riser"],
+      "flaws": ["Prey Exclusion (reckless types like Piston & Pistol Pete)"]
+    },
+    "equipment": [
+      "1984 Chevrolet C/K pickup (longbed, primer gray)",
+      "Heavy-duty mechanic tools",
+      "Refrigerated safe with emergency blood supply"
+    ],
+    "haven": {
+      "location": "Butch's Auto Repair, Gilbert, AZ",
+      "description": "Two-bay 1950s-style service garage, old signage, 12ft ceilings, Pepsi machine, ice machine, soft electrical hum, large Camel Wides poster, Snap-on display. Hidden refrigerated safe in back corner, known by Kindred as a quiet, reliable stop for help."
+    },
+    "role_in_chronicle": {
+      "primary": "Safe haven NPC for repairs, shelter, and emergency blood.",
+      "secondary": "Stabilizing Brujah Primogen who becomes an ally if PCs show respect.",
+      "story_hooks": [
+        "Provides safe blood for low Kindred during chaos after the Prince's death.",
+        "PCs may need car repair, gear storage, or neutral ground.",
+        "Can warn the PCs about reckless Brujah who threaten the Masquerade.",
+        "May shelter PCs if hunted by Sabbat or Camarilla politics."
+      ]
+    },
+    "notes": "Trusted, high-Humanity Brujah who quietly supports the city's stability. Dislikes unnecessary violence. Highly respected by local Kindred.",
+    "appearance": "Butch Reed stands six-foot-two with the solid build of a man who's spent years training his body as both weapon and tool. His shoulders are broad, his arms thick with muscle that speaks to decades of professional wrestling and the physical demands of mechanical work. His African American skin shows the weathered texture of someone who's spent time under harsh lights and desert sun, even before undeath—lines around his eyes from squinting at engine blocks and reading fine print on schematics. His short hair stays hidden beneath a sweat-stained headband, practical and unpretentious, the kind of thing a working man wears to keep the sweat out of his eyes.\n\nHe moves with the deliberate economy of someone who's learned that every motion should serve a purpose. There's a coiled quality to his stillness, the sense that despite his calm demeanor, he could explode into massive action at any moment if he chose—the wrestling background evident in how he carries his weight, how he positions his feet, how his hands rest ready at his sides. His coveralls bear the honest stains of honest work: engine grease, transmission fluid, the accumulated grime of fixing what others have broken. Even when clean, his hands show the calluses and scars of someone who's spent decades making broken things whole again—thick fingers that can apply precise force, palms that know the weight and balance of tools.\n\nWhat makes him imposing isn't his size alone, though that's considerable. It's the controlled power in his stillness, the way he holds himself like a man who's never had to prove anything because everyone already knows what he's capable of. His eyes, when they meet yours, hold the steady assessment of someone who's learned to read people the way he reads engines—looking for what's broken, what needs fixing, what can be trusted. In the right light, there's something almost predatory in that stillness, a reminder that despite the gentle giant exterior, he's still one of the walking dead, and the Beast that drives all Kindred waits just beneath the surface of his calm.",
+    "description": "Butch Reed moves through the fluorescent-lit bays of his Gilbert auto shop like a man who's found his purpose in the simple mechanics of keeping things running. At six-foot-two, he carries the solid build of a former professional wrestler—broad shoulders, powerful arms that know how to apply force with precision rather than rage. His coveralls bear the honest stains of honest work: engine grease, transmission fluid, the accumulated grime of fixing what others have broken. A sweat-stained headband keeps his short hair in place, and his hands, even when clean, show the calluses and scars of someone who's spent decades making broken things whole again. He moves with the deliberate economy of a man who's learned that every action should serve a purpose, that strength without control is just destruction waiting to happen.\n\nThe garage itself tells a story of careful maintenance and quiet reliability. Two service bays with twelve-foot ceilings, vintage signage that's been repainted but never replaced, a Pepsi machine that hums in the corner next to an ice machine that's older than some of the Kindred who visit. A large Camel Wides poster from the 1970s hangs on one wall, and a Snap-on tool display gleams under the fluorescent lights. The place smells of motor oil, rubber, and the faint ozone of electrical work. In the back corner, hidden behind a false wall, a refrigerated safe holds emergency blood supplies—Butch's quiet contribution to keeping the city's Kindred from making desperate mistakes. The shop is known among Phoenix's vampires as neutral ground, a place where you can get your car fixed, store gear, or find emergency sustenance without questions or politics. It's become something of an institution, and Butch has become the institution's keeper.\n\nHis Embrace came in 1989, not long after he'd left the wrestling circuit and opened the shop. The details of that night are his own, but what matters is what came after: Butch looked at the world of the Kindred and saw the same thing he'd always seen in the mortal world—people who needed protection, systems that needed maintenance, communities that needed stability. Where other Brujah saw the Camarilla as oppression, Butch saw structure. Where they saw the Traditions as chains, he saw the framework that kept everyone from tearing each other apart. He'd spent his mortal life fixing things, and undeath didn't change that fundamental drive. The Camarilla, for all its flaws, provided the stability that protected the whole community—even if it meant accepting some compromises, even if it meant working within a system that wasn't perfect. Better a flawed system that protected most than chaos that protected none.\n\nWhen the opportunity came to take the Primogen seat for the Brujah, Butch didn't hesitate. Not because he wanted power—power had never interested him—but because the position gave him the authority to maintain stability, to protect the clan from its own worst impulses, to ensure that the hotheads and firebrands didn't drag everyone into disaster. His time as Primogen has been marked by quiet competence rather than dramatic gestures. He's become the voice of reason in clan meetings, the one who asks \"What does this actually solve?\" when others are ready to charge into conflict. He's used his position to rein in the more volatile members of his clan, to broker compromises that prevent Masquerade breaches, to ensure that when the Brujah do act, they act with purpose rather than passion. He's earned respect not through intimidation but through reliability, not through threats but through results. The other Primogen know that when Butch speaks, it's worth listening—not because he's dangerous, but because he's usually right.\n\nHis view of the Anarchs is characteristically measured. He thinks most of them are well-meaning, that they want the same things he wants—freedom, justice, protection for their own. But he also thinks they're naive, that they don't understand how quickly chaos becomes predation, how fragile the Masquerade really is, how the Sabbat and other threats are always waiting for the Camarilla to fracture. He's seen what happens when structure breaks down, and he's committed to preventing that collapse. Still, he doesn't hate the Anarchs—he pities them a little, thinks they're making a mistake they'll regret when it's too late. He's even been known to help individual Anarchs who find themselves in genuine trouble, so long as they're not the reckless types who threaten everyone's safety. Butch draws a hard line at those who put the whole community at risk for personal gain or ideological posturing.\n\nThe wrestling background shows in the way he moves, in the economy of motion that speaks to years of training his body to be both weapon and tool. But it's the mechanic's patience that defines him now—the ability to work through a problem step by step, to understand how systems fit together, to fix what's broken rather than replace it. He's a Caregiver at his core, and everything he does flows from that nature: the safe haven he provides, the emergency blood he keeps, the stability he maintains, the protection he offers. He's the kind of vampire who will spend hours fixing a neonate's car not because he has to, but because they need it, and that's reason enough.\n\nIn the quiet hours before dawn, when the garage is empty and the tools are put away, Butch sometimes stands in the doorway and watches the desert sky lighten toward sunrise. He knows what he is—a predator, a monster, one of the walking dead. But he also knows what he's chosen to be: a protector, a fixer, someone who keeps the machinery of survival running so others can live another night. The Beast whispers in him like it does in all Kindred, but he's learned to channel that hunger into purpose, to use his strength to build rather than destroy. In a world of monsters, Butch Reed has chosen to be the one who keeps the lights on, who fixes what's broken, who makes sure that when the sun sets and the hunger rises, there's still a place where Kindred can find help instead of harm. The garage stands as a monument to that choice, and Butch stands as its guardian—a gentle giant in a world of predators, a mechanic in a world of destroyers, a stable hand holding the reins of chaos."
+  }
+  

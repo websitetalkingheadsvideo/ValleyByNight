@@ -1,0 +1,35 @@
+---
+alwaysApply: true
+---
+# RULE: No Fallbacks Without Explicit Instruction
+
+**ID:** no_fallbacks_without_explicit_permission  
+**Priority:** Critical  
+**Scope:** Global  
+**Applies To:** All Cursor Agents, Taskmaster Plans, and Code Generations  
+
+## Description
+Cursor must **never** create, include, or reference any type of *fallback* logic, *fallback variable*, *fallback function*, *default handler*, or *placeholder* **unless the user explicitly instructs it** to do so.
+
+## Directive
+- Do **not** write or infer fallback code or behaviors automatically.  
+- Do **not** add default values, assets, styles, or handlers.  
+- Do **not** include “if fail then …” logic, try/catch fallbacks, default CSS, or HTML placeholders.  
+- Do **not** invent or insert missing assets, media, or text automatically.  
+- Only implement fallback behavior if the user **explicitly says** something like:
+  - “Create a fallback for missing thumbnails.”
+  - “Add a default error message if the API call fails.”
+  - “Include a backup style if the font doesn’t load.”
+
+## Rationale
+The user prefers precise and intentional output.  
+Fallbacks can cause hidden errors, undesired behavior, or overwritten visual/functional elements.  
+**Never assume a fallback is wanted.**
+
+## Enforcement
+- If Cursor’s model or task planner would normally generate fallback code automatically, it must be **skipped or omitted entirely**.  
+- Violations of this rule are considered **critical errors** in compliance reviews or test plans.  
+- Agents should log a notice like:  
+  > “Skipped fallback generation (per rule: no_fallbacks_without_explicit_permission)”
+
+

@@ -1,0 +1,212 @@
+{
+  "character_name": "Alessandro Vescari",
+  "player_name": "NPC",
+  "chronicle": "Valley by Night",
+  "current_state": "active",
+  "camarilla_status": "Independent Clan (Giovanni)",
+  "nature": "Architect",
+  "demeanor": "Bon Vivant",
+  "concept": "Giovanni investment liaison and necromantic infiltrator targeting the Setite Temple in Mesa",
+  "clan": "Giovanni",
+  "generation": 10,
+  "sire": "Luca Vescari",
+  "pc": 0,
+  "appearance": "Tall, poised Giovanni in a dried-blood velvet blazer and black silk shirt, gold chain at the throat, dark hair styled with deliberate 1990s elegance. Their presence carries cold-stone sandalwood and the subtle impression that rooms grow quieter when they arrive.",
+  "description": "Alessandro Vescari presents as an urbane, old-money financial consultant who helps wealthy mortals and discreet Kindred shelter assets in Scottsdale and beyond. Beneath the velvet poise is a calculating necromancer tasked with mapping and ultimately exploiting the Setite Temple in Mesa. They are polite, indulgent, and attentive, making others feel interesting even as they silently inventory weaknesses, debts, and useful dead.",
+  "biography": "Alessandro Vescari was born into a lesser Italian branch of the Giovanni\u2014never close enough to the core to command, but close enough to be used. Embraced in the late 1970s for their talent in estate work and financial architecture, they spent their early unlife in Venice and Los Angeles, learning to launder money across continents and smooth over the legal and spiritual messes that follow Giovanni business.\n\nIn the late 1980s they were dispatched to Scottsdale, officially to support the family\u2019s presence near Camelback Mountain with property acquisitions and quiet mortuary partnerships. Unofficially, senior Giovanni wanted a closer eye on whispers coming out of Mesa: a renovated theater-turned\u2013Setite temple, a growing cult, and too many mortal revenue streams slipping out of reach. Alessandro, with their mix of charm, caution, and cold-blooded Necromancy, was chosen to infiltrate and map the threat.\n\nOperating as a high-end investment liaison, they woo affluent mortals, new-money Kindred, and anyone who needs their sins hidden in the pages of a ledger. Behind that facade, Alessandro maintains a lattice of bound ghosts threaded through Mesa\u2019s streets, alleys, and back rooms. The dead slip easily through temple walls, watch rituals mortal eyes never see, and overhear the quiet negotiations where Setites trade revelation for ruin. Alessandro\u2019s ledgers\u2014inked with both numbers and necromantic sigils\u2014chart not just money, but loyalties, addictions, and the slow tightening of Setite coils around the Valley.\n\nThey have come close to exposure more than once. A Setite priest felt a \u201ccold breath behind Alessandro\u2019s soul\u201d during a meeting, forcing them to stage an elaborate false haunting to throw off suspicion. A Camarilla Harpy recognized the archaic pattern of their sigils in an anonymous financial scandal, nearly tying Giovanni hands to Mesa crimes. Each near-miss has pushed Alessandro into deeper subtlety: planting false rumors, sacrificing expendable ghouls, and occasionally letting a mortal die badly so the family\u2019s long game can continue.\n\nWith the Prince of Phoenix dead and the Camarilla in chaos, both Setite and Giovanni ambitions have accelerated. Alessandro suspects the Temple is using the city\u2019s instability to expand its cult and experiment with stranger pacts in the desert nights. What was once a careful, decades-long infiltration has sharpened into a shadow war fought through ghosts, ledgers, and polite conversations over expensive drinks. PCs who cross their path may find in Alessandro a dangerous ally, a velvet-gloved handler, or the quiet architect of their ruin.\n\nIf the Setites, the Camarilla, or the wrong Giovanni elder fully uncover what Alessandro has done in Mesa, their unlife will not end cleanly. It will be erased\u2014body, spirit, and memory scattered like ash over the Valley.",
+  "character_image": "Alessandro_Vescari.webp",
+  "equipment": "Tailored velvet blazer (Versace-era cut), black silk shirt, gold chain and signet ring, expensive Italian shoes, discrete pager and 1990s mobile phone, leather portfolio with layered financial and necromantic notes, keys to multiple rented office suites and safe deposit boxes in Scottsdale and Mesa.",
+  "notes": "Key NPC in the Giovanni\u2013Setite shadow conflict centered on Mesa and Scottsdale. Primary role: long-term infiltrator of the Setite Temple, using Necromancy and finance to map cult structures and revenue streams. Connected to plot hooks defined in Alessandro_Vescari_Plots_with_IDs.json and to Giovanni presence near Camelback Mountain. | Agent Notes: When using Alessandro as an agent-driven NPC, emphasize their dual role as charming financial advisor and unflinching necromantic operator. They should surface in plots that touch on: Setite activities in Mesa, Giovanni interests in Scottsdale, Necromancy or ghostly disturbances, and complex financial or political leverage. They rarely appear by accident\u2014they show up when they can gain something. If PCs help them, track boons and subtle shifts in territory control. If PCs cross them, Alessandro responds indirectly at first, using ghosts, rumors, and money long before open confrontation. | Acting Notes: Play Alessandro as smooth, patient, and quietly amused, with a soft Italian or European-educated accent and a habit of treating most conversations like negotiations. They listen more than they speak, but when they do, their words are precise and flattering. Avoid overt threats; Alessandro prefers veiled warnings and the suggestion that they already know how the story ends. In horror beats, let the mask slip: the room grows colder, their gaze goes distant as if listening to someone else, and their civility becomes clinical. They are never cruel for sport\u2014only for profit or necessity. | Rituals: Basic Necromancy rites for summoning and binding wraiths; Custom ledger-anchoring ritual to tie ghosts to financial records and locations. | Artifacts: Necromantic ledger of Setite accounts and mortal cult finances, inked with hidden sigils and bound to a small network of ghosts.",
+  "agentNotes": "When using Alessandro as an agent-driven NPC, emphasize their dual role as charming financial advisor and unflinching necromantic operator. They should surface in plots that touch on: Setite activities in Mesa, Giovanni interests in Scottsdale, Necromancy or ghostly disturbances, and complex financial or political leverage. They rarely appear by accident\u2014they show up when they can gain something. If PCs help them, track boons and subtle shifts in territory control. If PCs cross them, Alessandro responds indirectly at first, using ghosts, rumors, and money long before open confrontation.",
+  "actingNotes": "Play Alessandro as smooth, patient, and quietly amused, with a soft Italian or European-educated accent and a habit of treating most conversations like negotiations. They listen more than they speak, but when they do, their words are precise and flattering. Avoid overt threats; Alessandro prefers veiled warnings and the suggestion that they already know how the story ends. In horror beats, let the mask slip: the room grows colder, their gaze goes distant as if listening to someone else, and their civility becomes clinical. They are never cruel for sport\u2014only for profit or necessity.",
+  "status": "active",
+  "total_xp": 30,
+  "spent_xp": 0,
+  "custom_data": {},
+  "status_details": {
+    "current_state": "active",
+    "camarilla_status": "Independent Clan (Giovanni)",
+    "xp_total": 30,
+    "xp_spent": 0,
+    "xp_available": 30,
+    "health_levels": 7,
+    "blood_pool_current": 10,
+    "blood_pool_maximum": 10
+  },
+  "traits": {
+    "Physical": [
+      "Graceful",
+      "Precise",
+      "Unassuming"
+    ],
+    "Social": [
+      "Charming",
+      "Composed",
+      "Predatory",
+      "Seductive",
+      "Eloquent",
+      "Persuasive",
+      "Poised",
+      "Diplomatic",
+      "Manipulative"
+    ],
+    "Mental": [
+      "Calculating",
+      "Perceptive",
+      "Methodical",
+      "Strategic",
+      "Insightful",
+      "Scheming",
+      "Analytical"
+    ]
+  },
+  "negativeTraits": {
+    "Physical": [
+      "Fragile"
+    ],
+    "Social": [
+      "Arrogant"
+    ],
+    "Mental": [
+      "Obsessive"
+    ]
+  },
+  "abilities": [
+    {
+      "name": "Finance",
+      "level": 1,
+      "specialization": "Offshore Structures"
+    },
+    {
+      "name": "Bureaucracy",
+      "level": 1,
+      "specialization": "Regulations and Loopholes"
+    },
+    {
+      "name": "Etiquette",
+      "level": 1,
+      "specialization": "High Society & Kindred Courts"
+    },
+    {
+      "name": "Subterfuge",
+      "level": 1,
+      "specialization": "Polite Lies"
+    },
+    {
+      "name": "Intimidation",
+      "level": 1,
+      "specialization": "Quiet Pressure"
+    },
+    {
+      "name": "Occult",
+      "level": 1,
+      "specialization": "Necromancy and Setite Lore"
+    },
+    {
+      "name": "Investigation",
+      "level": 1,
+      "specialization": "Forensic Accounting"
+    },
+    {
+      "name": "Politics",
+      "level": 1,
+      "specialization": "Kindred and City"
+    },
+    {
+      "name": "Streetwise",
+      "level": 1,
+      "specialization": "Mesa Nightlife"
+    },
+    {
+      "name": "Alertness",
+      "level": 1,
+      "specialization": "Watching the Room"
+    }
+  ],
+  "ability_specializations": [],
+  "disciplines": [
+    {
+      "name": "Dominate",
+      "level": 3
+    },
+    {
+      "name": "Fortitude",
+      "level": 1
+    },
+    {
+      "name": "Potence",
+      "level": 1
+    },
+    {
+      "name": "Necromancy (Giovanni)",
+      "level": 2
+    }
+  ],
+  "backgrounds": {
+    "Resources": 4,
+    "Influence: Finance": 3,
+    "Allies: Giovanni Family": 3,
+    "Contacts: Street & Cultists": 2,
+    "Retainers: Ghoul Assistants": 2,
+    "Herd": 1
+  },
+  "backgroundDetails": {
+    "Resources": "Significant legitimate and shell investments in Scottsdale real estate, mortuary partnerships, and desert development schemes.",
+    "Influence: Finance": "Ties to regional banks, investment advisors, and loan officers who owe favors or fear quiet ruin.",
+    "Allies: Giovanni Family": "Support from the local Giovanni presence near Camelback Mountain, provided Alessandro\u2019s work does not endanger their secrecy.",
+    "Contacts: Street & Cultists": "Street dealers, nightlife workers in Mesa, and a few disillusioned Setite-adjacent mortals who talk when paid or protected.",
+    "Retainers: Ghoul Assistants": "One polished ghoul driver/assistant and one quieter archivist who maintain offices, records, and alibis.",
+    "Herd": "A small circle of wealthy mortals who treat Alessandro as a trusted advisor and occasional confessor."
+  },
+  "morality": {
+    "path_name": "Humanity",
+    "path_rating": 7,
+    "conscience": 3,
+    "self_control": 3,
+    "courage": 3,
+    "willpower_permanent": 5,
+    "willpower_current": 5,
+    "humanity": 7
+  },
+  "merits_flaws": [
+    {
+      "name": "Enchanting Voice",
+      "type": "merit",
+      "category": null,
+      "cost": 0,
+      "description": null
+    },
+    {
+      "name": "Medium/Haunted Sensitivity",
+      "type": "merit",
+      "category": null,
+      "cost": 0,
+      "description": null
+    },
+    {
+      "name": "Dark Secret: Deep Infiltration of the Setite Temple",
+      "type": "flaw",
+      "category": null,
+      "cost": 0,
+      "description": null
+    },
+    {
+      "name": "Family Ties: Giovanni Obligations",
+      "type": "flaw",
+      "category": null,
+      "cost": 0,
+      "description": null
+    }
+  ],
+  "coteries": [],
+  "relationships": [],
+  "rituals": [
+    "Basic Necromancy rites for summoning and binding wraiths",
+    "Custom ledger-anchoring ritual to tie ghosts to financial records and locations"
+  ],
+  "specializations": {},
+  "research_notes": {},
+  "artifacts": [
+    "Necromantic ledger of Setite accounts and mortal cult finances, inked with hidden sigils and bound to a small network of ghosts."
+  ]
+}

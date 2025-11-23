@@ -1,0 +1,31 @@
+---
+description: styling a page or UI
+alwaysApply: false
+---
+# Rule: Integrate Bootstrap Without Changing Design
+@rule
+Cursor must integrate **Bootstrap** into the project to simplify CSS development,
+while **keeping the existing look, layout, colors, typography, and spacing exactly the same**.
+
+## ✅ Expected behavior
+- Include the latest stable Bootstrap version (via CDN or local import).  
+- Use Bootstrap utility classes (grid, spacing, flex, buttons, etc.) **where appropriate**, but do not alter the appearance of elements.  
+- Refactor or replace custom CSS **only when it duplicates a Bootstrap utility**.  
+- Preserve all responsive behavior and layout.  
+- Annotate HTML/CSS updates showing where Bootstrap utilities are used.  
+- Maintain pixel-for-pixel visual fidelity to the current design.  
+- Keep a backup of the original CSS for rollback.
+
+## 🚫 Avoid
+- Making visual changes to the layout, colors, fonts, or spacing.  
+- Removing necessary custom CSS that affects the current design.  
+- Using Bootstrap in a way that breaks existing responsiveness or scripts.
+
+## 💡 Examples
+**Bad:**
+> Replacing a custom card design with a default Bootstrap card that looks different.
+
+**Good:**
+> Adding Bootstrap classes to existing cards while keeping the original design identical.
+
+@enforcement strict

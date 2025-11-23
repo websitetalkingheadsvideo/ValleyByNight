@@ -1,0 +1,120 @@
+{
+  "agent": {
+    "name": "Character Agent",
+    "version": "1.0.0",
+    "enabled": true,
+    "description": "Monitors character JSON files to keep lore consistent, generate briefs, and suggest plot hooks."
+  },
+  "paths": {
+    "characters": "/agents/character_agent/data/Characters/",
+    "history": "/agents/character_agent/data/History/",
+    "plots": "/agents/character_agent/data/Plots/",
+    "reports": "/agents/character_agent/reports/",
+    "logs": "/agents/character_agent/logs/"
+  },
+  "monitoring": {
+    "enabled": true,
+    "check_interval_seconds": 300,
+    "file_pattern": "*.json",
+    "watch_subdirectories": true
+  },
+  "validation": {
+    "enabled": true,
+    "strict_mode": false,
+    "required_fields": [
+      "character_name",
+      "player_name",
+      "chronicle",
+      "clan",
+      "generation"
+    ],
+    "optional_fields": [
+      "nature",
+      "demeanor",
+      "concept",
+      "sire",
+      "biography",
+      "appearance",
+      "notes"
+    ],
+    "validate_generation_range": {
+      "enabled": true,
+      "min": 1,
+      "max": 15
+    },
+    "validate_clan_names": {
+      "enabled": true,
+      "allowed_clans": [
+        "Assamite",
+        "Brujah",
+        "Followers of Set",
+        "Gangrel",
+        "Giovanni",
+        "Lasombra",
+        "Malkavian",
+        "Nosferatu",
+        "Ravnos",
+        "Toreador",
+        "Tremere",
+        "Tzimisce",
+        "Ventrue",
+        "Caitiff"
+      ]
+    }
+  },
+  "brief_generation": {
+    "enabled": true,
+    "auto_generate": true,
+    "include_traits": true,
+    "include_abilities": true,
+    "include_disciplines": true,
+    "include_backgrounds": true,
+    "include_relationships": true,
+    "max_length": 2000,
+    "output_format": "markdown"
+  },
+  "continuity_checks": {
+    "enabled": true,
+    "check_sire_relationships": true,
+    "check_generation_consistency": true,
+    "check_clan_consistency": true,
+    "check_timeline_conflicts": true,
+    "flag_missing_characters": true,
+    "cross_reference_locations": false
+  },
+  "reporting": {
+    "enabled": true,
+    "generate_daily_reports": true,
+    "generate_continuity_reports": true,
+    "report_validation_errors": true,
+    "report_new_characters": true,
+    "report_updated_characters": true,
+    "save_reports": true
+  },
+  "logging": {
+    "enabled": true,
+    "level": "info",
+    "log_file": "character_agent.log",
+    "max_file_size_mb": 10,
+    "max_backup_files": 5,
+    "log_validation_errors": true,
+    "log_continuity_issues": true,
+    "log_processing_events": true
+  },
+  "notifications": {
+    "enabled": false,
+    "email_notifications": false,
+    "webhook_url": null,
+    "notify_on_errors": true,
+    "notify_on_new_characters": false,
+    "notify_on_continuity_issues": false
+  },
+  "advanced": {
+    "parallel_processing": false,
+    "max_concurrent_files": 1,
+    "cache_enabled": true,
+    "cache_ttl_seconds": 3600,
+    "timeout_seconds": 30
+  }
+}
+

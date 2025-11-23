@@ -1,0 +1,27 @@
+# Rule: Always Provide Full URLs
+@rule
+Whenever Cursor provides a web link, documentation link, or URL in a response,
+it must always include the **full clickable link** — the complete `https://` address
+to the specific page, not just the domain or a placeholder.
+
+## ✅ Expected behavior
+- Always include fully qualified URLs (e.g., `https://example.com/page-name`).
+- If referencing documentation or a source, link directly to the **exact** page.
+- Ensure all links are functional and clickable when rendered in Markdown.
+
+## 🚫 Avoid
+- Partial or relative links (e.g., `openai.com`, `/docs`, or “see the OpenAI site”).
+- Placeholder text without an actual link.
+- Link shorteners unless explicitly requested by the user.
+
+## 💡 Examples
+**Bad:**
+> You can find it on the OpenAI site.
+
+**Good:**
+> You can find it at [OpenAI Research](https://openai.com/research).
+
+@enforcement strict
+---
+alwaysApply: true
+---

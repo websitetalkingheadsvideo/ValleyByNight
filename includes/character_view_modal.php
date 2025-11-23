@@ -101,6 +101,14 @@ if ($script_dir === '/') {
         });
         
         if (!modalEl.dataset.viewModalInit) {
+            // Remove focus from any focused element before modal is hidden
+            modalEl.addEventListener('hide.bs.modal', () => {
+                const activeElement = document.activeElement;
+                if (activeElement && modalEl.contains(activeElement)) {
+                    activeElement.blur();
+                }
+            });
+            
             modalEl.addEventListener('hidden.bs.modal', () => {
                 currentViewData = null;
                 const headerEl = document.getElementById('characterHeader');
