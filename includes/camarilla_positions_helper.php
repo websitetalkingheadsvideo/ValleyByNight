@@ -22,22 +22,37 @@ function get_current_holder_for_position(string $positionId, ?string $night = nu
     }
     
     // Query to find current holder, preferring non-acting over acting
+    // JOIN on character_name - assignment table stores character_name as identifier
+    // Try multiple transformations to handle different name formats
     $query = "SELECT 
-                cpa.*,
+                cpa.position_id,
+                cpa.character_id as assignment_character_id,
+                cpa.start_night,
+                cpa.end_night,
+                cpa.is_acting,
                 c.character_name,
                 c.clan,
                 c.id as character_id
               FROM camarilla_position_assignments cpa
-              LEFT JOIN characters c ON cpa.character_id = c.id
+              LEFT JOIN characters c ON (
+                UPPER(REPLACE(c.character_name, ' ', '_')) = cpa.character_id
+                OR UPPER(REPLACE(REPLACE(c.character_name, ' ', '_'), '-', '_')) = cpa.character_id
+                OR UPPER(c.character_name) = cpa.character_id
+              )
               WHERE cpa.position_id = ?
                 AND cpa.start_night <= ?
                 AND (cpa.end_night IS NULL OR cpa.end_night >= ?)
               ORDER BY cpa.is_acting ASC, cpa.start_night DESC
               LIMIT 1";
     
-    // Use "i" for position_id if it's an integer, "s" if it's a string
-    // Using "s" for flexibility - MySQL will handle conversion
     $result = db_fetch_one($conn, $query, "sss", [$positionId, $night, $night]);
+    
+    // DEBUG: Log query result
+    if ($result) {
+        error_log("DEBUG get_current_holder_for_position - position_id: $positionId, assignment_character_id: " . ($result['assignment_character_id'] ?? 'NULL') . ", character_id (from join): " . ($result['character_id'] ?? 'NULL') . ", character_name: " . ($result['character_name'] ?? 'NULL'));
+    } else {
+        error_log("DEBUG get_current_holder_for_position - position_id: $positionId, NO RESULT");
+    }
     
     return $result ?: null;
 }
@@ -87,7 +102,7 @@ function get_position_history(string $positionId): array {
                 c.clan,
                 c.id as character_id
               FROM camarilla_position_assignments cpa
-              LEFT JOIN characters c ON cpa.character_id = c.id
+              LEFT JOIN characters c ON UPPER(REPLACE(c.character_name, ' ', '_')) = cpa.character_id
               WHERE cpa.position_id = ?
               ORDER BY cpa.start_night DESC";
     
@@ -116,4 +131,3 @@ function get_character_position_history(string $characterId): array {
     // character_id is likely an integer, but using "s" for flexibility
     return db_fetch_all($conn, $query, "s", [$characterId]);
 }
-

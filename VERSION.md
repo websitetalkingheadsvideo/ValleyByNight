@@ -1,6 +1,36 @@
 # Version History
 
-## Current Version: 0.7.0
+## Current Version: 0.7.1
+
+**Date:** 2025-11-23  
+**Type:** Patch (Camarilla Positions Action Column with Modals)
+
+### Changes:
+- **Action Column with Modals** - Added comprehensive action buttons to Camarilla Positions table
+  - 👁️ View button opens read-only modal with position details, current holder, and assignment history
+  - ✏️ Edit button opens editable modal for updating position information
+  - 🗑️ Delete button with confirmation modal for position deletion
+  - Modal system matches admin_panel.php character view pattern for consistency
+- **API Endpoints** - Created three new API endpoints for position management
+  - `view_position_api.php` - Returns complete position data with current holder and history
+  - `update_position_api.php` - Handles position updates (name, category, description, importance_rank)
+  - `delete_position_api.php` - Handles position deletion with assignment validation
+- **Position View Modal** - Created reusable modal component (`includes/position_view_modal.php`)
+  - Bootstrap modal with read-only and editable modes
+  - Displays position details, current holder information, and assignment history
+  - Form submission for editing position fields
+  - Integrated with existing helper functions for data retrieval
+- **JavaScript Enhancements** - Updated `admin_camarilla_positions.js` with modal functionality
+  - `viewPosition()` function for opening read-only modal
+  - `editPosition()` function for opening editable modal
+  - `deletePosition()` function with confirmation dialog
+  - Form submission handlers and error handling
+- **CSS Updates** - Enhanced `admin_camarilla_positions.css` with modal styling
+  - Action button group styling matching admin_panel.php
+  - Modal layout and form field styling
+  - Badge styling for position status indicators
+
+## Previous Version: 0.7.0
 
 **Date:** 2025-01-22  
 **Type:** Minor (Camarilla Positions Management System)
