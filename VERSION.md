@@ -1,6 +1,31 @@
 # Version History
 
-## Current Version: 0.6.12
+## Current Version: 0.7.0
+
+**Date:** 2025-01-22  
+**Type:** Minor (Camarilla Positions Management System)
+
+### Changes:
+- **Camarilla Positions Management Page** - Complete admin interface for viewing and querying Camarilla position holders
+  - Displays all positions with current holders in sortable, filterable table
+  - Category and clan filtering for quick navigation
+  - Search functionality for position names
+  - Shows position status (Permanent, Acting, Vacant) with visual badges
+  - Position history viewing for each office
+  - Character position history lookup
+  - Agent interface with position and character lookup forms
+  - Historical assignment tracking with start/end dates
+- **Helper Functions** - Created `camarilla_positions_helper.php` with database query functions
+  - `get_current_holder_for_position()` - Finds current holder for a position on a given night
+  - `get_all_positions_with_current_holders()` - Retrieves all positions with their current holders
+  - `get_position_history()` - Gets complete assignment history for a position
+  - `get_character_position_history()` - Gets all positions a character has held
+- **Integration** - Added Positions link to admin navigation panel
+- **Agent Registration** - Added Camarilla Positions Agent to agents dashboard
+  - Provides quick access to position queries and historical data
+  - Integrated with existing agent system architecture
+
+## Previous Version: 0.6.12
 
 **Date:** 2025-11-22  
 **Type:** Patch (Character Art Guide creation and code improvements)
