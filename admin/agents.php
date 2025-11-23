@@ -53,6 +53,25 @@ $agents = [
             ]
         ]
     ],
+    [
+        "name" => "Camarilla Positions Agent",
+        "slug" => "camarilla_positions_agent",
+        "description" => "Query current Camarilla position holders and historical assignments. Answers questions about who holds which office and when.",
+        "data_access" => [
+            "/admin/camarilla_positions.php",
+            "camarilla_positions table",
+            "camarilla_position_assignments table"
+        ],
+        "purpose" => "Provide quick access to current position holders and position history for any character or office.",
+        "status" => "Active",
+        "last_event" => "Ready to answer position queries.",
+        "actions" => [
+            [
+                "label" => "Launch Positions Agent",
+                "url" => "camarilla_positions.php"
+            ]
+        ]
+    ],
     // Future agents can be appended here.
 ];
 

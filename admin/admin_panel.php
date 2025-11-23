@@ -122,6 +122,9 @@ function render_clan_badge(string $clan): string {
             <a href="admin_npc_briefing.php" class="nav-btn btn btn-outline-danger btn-sm w-100 text-center">📋 NPC Briefing</a>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg">
+            <a href="camarilla_positions.php" class="nav-btn btn btn-outline-danger btn-sm w-100 text-center">👑 Positions</a>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg">
             <a href="boon_ledger.php" class="nav-btn btn btn-outline-danger btn-sm w-100 text-center">💎 Boons</a>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg">
