@@ -1,0 +1,90 @@
+/* Admin Sire/Childe Relationship Tracker Styles - Bootstrap First */
+/* Custom badge color for purple */
+.badge.bg-purple {
+    background-color: #4a1a6b !important;
+    color: #f5e6d3;
+}
+
+/* Table sorting icons */
+#relationshipTable th[data-sort] {
+    cursor: pointer;
+    user-select: none;
+}
+#relationshipTable .sort-icon {
+    font-size: 0.9em;
+    opacity: 0.4;
+    margin-left: 5px;
+}
+#relationshipTable th.sorted-asc .sort-icon,
+#relationshipTable th.sorted-desc .sort-icon {
+    opacity: 1;
+}
+
+/* Table Styles - Using Bootstrap table classes */
+#relationshipTable thead {
+    background: linear-gradient(135deg, #8B0000 0%, #600000 100%);
+}
+#relationshipTable tbody tr.hidden {
+    display: none;
+}
+
+/* Relationship Info */
+.sire-name { color: #8B0000; font-weight: bold; }
+.sire-name.sire-valid { color: #00cc00; }
+.no-sire { color: #000000; font-style: italic; }
+.childe-list { /* Container for childe information */ }
+.childe-count { color: #b8a090; font-size: 0.9em; }
+.childe-names { color: #d4c4b0; font-size: 0.85em; margin-top: 2px; }
+.no-childer { color: #666; font-style: italic; }
+
+.empty-state { text-align: center; padding: 40px; color: #b8a090; font-style: italic; }
+
+/* Action Buttons - Matching admin_panel.php */
+.actions { 
+    display: flex; 
+    gap: 8px; 
+    justify-content: center; 
+    align-items: center; 
+    margin: 0;
+    padding: 0;
+}
+.action-btn { 
+    display: inline-flex; 
+    align-items: center; 
+    justify-content: center; 
+    width: 32px; 
+    height: 32px; 
+    border-radius: 4px; 
+    text-decoration: none; 
+    font-size: 1.1em; 
+    cursor: pointer; 
+    background: rgba(139, 0, 0, 0.2); 
+    border: 1px solid rgba(139, 0, 0, 0.4); 
+    transition: all 0.2s; 
+    flex-shrink: 0; 
+}
+.action-btn:hover { 
+    background: rgba(139, 0, 0, 0.4); 
+    transform: scale(1.1); 
+}
+.view-btn { 
+    background: rgba(0, 100, 200, 0.2); 
+    border-color: rgba(0, 100, 200, 0.4); 
+}
+.view-btn:hover { 
+    background: rgba(0, 100, 200, 0.4); 
+}
+.edit-btn { 
+    background: rgba(139, 100, 0, 0.2); 
+    border-color: rgba(139, 100, 0, 0.4); 
+}
+.edit-btn:hover { 
+    background: rgba(139, 100, 0, 0.4); 
+}
+
+/* Bootstrap overrides for dark theme */
+.btn-outline-danger.active {
+    background-color: #8B0000;
+    border-color: #8B0000;
+    color: #f5e6d3;
+}

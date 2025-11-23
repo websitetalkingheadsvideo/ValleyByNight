@@ -1,6 +1,21 @@
 # Version History
 
-## Current Version: 0.6.11
+## Current Version: 0.6.12
+
+**Date:** 2025-11-22  
+**Type:** Patch (Character Art Guide creation and code improvements)
+
+### Changes:
+- **Character Art Guide** - Created comprehensive `Valley_by_Night_Character_Art_Guide.json` for standardized character portrait generation
+  - Defines visual style parameters (genre, mood, composition, lighting, color palette, texture)
+  - Includes aesthetic rules and elements to avoid
+  - Provides prompt template for consistent AI-generated portraits
+  - Includes clan-specific visual variants (Toreador, Gangrel, Malkavian, Setite, Giovanni)
+  - Ensures consistent tone, lighting, and atmosphere for all NPC and PC images
+- **Code Improvements** - Minor updates to character view modal, login process, and report generation
+- **File Cleanup** - Removed outdated location and character teaser files that were reorganized
+
+## Previous Version: 0.6.11
 
 **Date:** 2025-11-22  
 **Type:** Patch (Location and Room JSON schema standardization)

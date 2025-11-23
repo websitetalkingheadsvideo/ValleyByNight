@@ -189,64 +189,70 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['generate'])) {
         </div>
     <?php endif; ?>
 
-    <div class="card bg-dark border-danger mb-4">
-        <div class="card-body">
-            <h3 class="text-light mb-3">Report Generation</h3>
-            
-            <?php if (!$reporting_enabled): ?>
-                <div class="alert alert-warning mb-0">
-                    Reporting is currently disabled in the configuration. Enable it in the <a href="config/" class="alert-link">configuration settings</a>.
-                </div>
-            <?php else: ?>
-                <form method="POST" action="">
-                    <div class="mb-3">
-                        <label class="form-label text-light">Report Type</label>
-                        <div class="form-check mb-2">
-                            <input class="form-check-input" type="radio" name="report_type" id="report_daily" value="daily" checked>
-                            <label class="form-check-label text-light" for="report_daily">
-                                Daily Report
-                            </label>
-                            <small class="form-text text-muted d-block ms-4">Summary of character processing, new characters, updates, and validation errors for today.</small>
-                        </div>
-                        <div class="form-check mb-2">
-                            <input class="form-check-input" type="radio" name="report_type" id="report_continuity" value="continuity">
-                            <label class="form-check-label text-light" for="report_continuity">
-                                Continuity Report
-                            </label>
-                            <small class="form-text text-muted d-block ms-4">Checks for sire relationship issues, generation inconsistencies, clan conflicts, and timeline problems.</small>
-                        </div>
-                        <div class="form-check mb-3">
-                            <input class="form-check-input" type="radio" name="report_type" id="report_both" value="both">
-                            <label class="form-check-label text-light" for="report_both">
-                                Both Reports
-                            </label>
-                            <small class="form-text text-muted d-block ms-4">Generate both daily and continuity reports.</small>
-                        </div>
-                    </div>
+    <div class="row g-4 mb-4">
+        <div class="col-md-6">
+            <div class="card bg-dark border-danger h-100">
+                <div class="card-body">
+                    <h3 class="text-light mb-3">Report Generation</h3>
                     
-                    <div class="d-flex gap-2">
-                        <button type="submit" name="generate" class="btn btn-danger">
-                            Generate Report
-                        </button>
-                        <a href="../../admin/agents.php" class="btn btn-outline-danger">
-                            Cancel
-                        </a>
-                    </div>
-                </form>
-            <?php endif; ?>
+                    <?php if (!$reporting_enabled): ?>
+                        <div class="alert alert-warning mb-0">
+                            Reporting is currently disabled in the configuration. Enable it in the <a href="config/" class="alert-link">configuration settings</a>.
+                        </div>
+                    <?php else: ?>
+                        <form method="POST" action="">
+                            <div class="mb-3">
+                                <label class="form-label text-light">Report Type</label>
+                                <div class="form-check mb-2">
+                                    <input class="form-check-input" type="radio" name="report_type" id="report_daily" value="daily" checked>
+                                    <label class="form-check-label text-light" for="report_daily">
+                                        Daily Report
+                                    </label>
+                                    <small class="form-text text-danger d-block ms-4">Summary of character processing, new characters, updates, and validation errors for today.</small>
+                                </div>
+                                <div class="form-check mb-2">
+                                    <input class="form-check-input" type="radio" name="report_type" id="report_continuity" value="continuity">
+                                    <label class="form-check-label text-light" for="report_continuity">
+                                        Continuity Report
+                                    </label>
+                                    <small class="form-text text-danger d-block ms-4">Checks for sire relationship issues, generation inconsistencies, clan conflicts, and timeline problems.</small>
+                                </div>
+                                <div class="form-check mb-3">
+                                    <input class="form-check-input" type="radio" name="report_type" id="report_both" value="both">
+                                    <label class="form-check-label text-light" for="report_both">
+                                        Both Reports
+                                    </label>
+                                    <small class="form-text text-danger d-block ms-4">Generate both daily and continuity reports.</small>
+                                </div>
+                            </div>
+                            
+                            <div class="d-flex gap-2">
+                                <button type="submit" name="generate" class="btn btn-danger">
+                                    Generate Report
+                                </button>
+                                <a href="../../admin/agents.php" class="btn btn-outline-danger">
+                                    Cancel
+                                </a>
+                            </div>
+                        </form>
+                    <?php endif; ?>
+                </div>
+            </div>
         </div>
-    </div>
 
-    <div class="card bg-dark border-danger">
-        <div class="card-body">
-            <h3 class="text-light mb-3">Report Information</h3>
-            <ul class="text-light mb-0">
-                <li><strong>Daily Reports Location:</strong> <code>reports/daily/</code></li>
-                <li><strong>Continuity Reports Location:</strong> <code>reports/continuity/</code></li>
-                <li><strong>Reporting Enabled:</strong> <?= $reporting_enabled ? '<span class="text-success">Yes</span>' : '<span class="text-warning">No</span>'; ?></li>
-                <li><strong>Daily Reports Enabled:</strong> <?= $generate_daily ? '<span class="text-success">Yes</span>' : '<span class="text-warning">No</span>'; ?></li>
-                <li><strong>Continuity Reports Enabled:</strong> <?= $generate_continuity ? '<span class="text-success">Yes</span>' : '<span class="text-warning">No</span>'; ?></li>
-            </ul>
+        <div class="col-md-6">
+            <div class="card bg-dark border-danger h-100">
+                <div class="card-body">
+                    <h3 class="text-light mb-3">Report Information</h3>
+                    <ul class="text-light mb-0">
+                        <li><strong>Daily Reports Location:</strong> <code>reports/daily/</code></li>
+                        <li><strong>Continuity Reports Location:</strong> <code>reports/continuity/</code></li>
+                        <li><strong>Reporting Enabled:</strong> <?= $reporting_enabled ? '<span class="text-success">Yes</span>' : '<span class="text-warning">No</span>'; ?></li>
+                        <li><strong>Daily Reports Enabled:</strong> <?= $generate_daily ? '<span class="text-success">Yes</span>' : '<span class="text-warning">No</span>'; ?></li>
+                        <li><strong>Continuity Reports Enabled:</strong> <?= $generate_continuity ? '<span class="text-success">Yes</span>' : '<span class="text-warning">No</span>'; ?></li>
+                    </ul>
+                </div>
+            </div>
         </div>
     </div>
 </div>

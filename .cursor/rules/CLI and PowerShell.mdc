@@ -1,0 +1,15 @@
+---
+description: Disallow CLI or PowerShell usage for remote database work; rely on in-app PHP tooling only.
+globs: *
+alwaysApply: true
+---
+
+- **Never use CLI/PowerShell to access the VnN Database**
+  - Do not open terminals or run shell commands for database access or schema changes.
+- **No remote DB attempts via shell**
+  - All connection work must stay within existing PHP utilities or application workflow.
+- **Follow PHP configuration**
+  - Use the project’s current MySQL/PHP setup; avoid external command-based tooling entirely.
+- **Git is not a Database**
+  -Use and push git whenever asked to
+  

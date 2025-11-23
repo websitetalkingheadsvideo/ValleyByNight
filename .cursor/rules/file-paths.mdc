@@ -1,0 +1,22 @@
+---
+description: Enforce absolute file paths and forbid localhost/XAMPP references in assistant outputs
+globs: "**/*"
+alwaysApply: true
+---
+
+- Absolute Windows Paths Only
+  - Always reference files with full absolute paths beginning with G:\VbN\
+  - Do not use relative paths, bare filenames, or repo‑relative prefixes in responses.
+  - When citing code locations, include :line when useful (e.g., G:\VbN\admin\api_laws_agent.php:271).
+
+- Canonical Host Only
+  - Use https://vbn.talkingheads.video/ for any absolute URLs.
+  - Do not reference localhost, 127.0.0.1, or environment‑specific hosts.
+
+- Never Use XAMPP
+  - Do not mention or instruct use of XAMPP, its control panel, or paths (e.g., C:\xampp\php\php.exe) in code, docs, or messages.
+
+- Enforcement
+  - These constraints apply to all assistant outputs for this workspace.
+  - If conflicting guidance appears elsewhere, prefer this rule and .cursor\rules\hosting.mdc.
+

@@ -1,0 +1,132 @@
+<?php
+/**
+ * Valley by Night - Header Component
+ * Displays site title, logo, username, and version
+ */
+
+// Start session if not already started
+if (session_status() === PHP_SESSION_NONE) {
+    session_start();
+}
+
+// Get username from session
+$username = isset($_SESSION['username']) ? $_SESSION['username'] : 'Guest';
+
+// Include centralized version management
+require_once __DIR__ . '/version.php';
+$version = LOTN_VERSION;
+
+// Get current page for navigation highlighting
+$current_page = basename($_SERVER['PHP_SELF']);
+?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Valley by Night - A Vampire Tale</title>
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+    <?php
+    // Determine the base path of the application
+    $script_name = $_SERVER['SCRIPT_NAME'];
+    
+    // Calculate directory depth to determine path prefix for CSS
+    $script_dir = dirname($script_name);
+    // Count path segments (excluding root /)
+    // For /admin/ -> 1 segment, need ../ (1 level up)
+    // For /agents/laws_agent/ -> 2 segments, need ../../ (2 levels up)
+    if ($script_dir === '/') {
+        $path_prefix = '';
+    } else {
+        // Remove leading slash and count remaining segments
+        $path_segments = trim($script_dir, '/');
+        $segment_count = $path_segments === '' ? 0 : substr_count($path_segments, '/') + 1;
+        $path_prefix = str_repeat('../', $segment_count);
+    }
+    
+    // Get the application root path (always root, regardless of subdirectory)
+    // Logo and title should always link to root index.php
+    $app_root = '/';
+    ?>
+    <link rel="icon" href="<?php echo $path_prefix; ?>images/favicon.svg" type="image/svg+xml">
+    <!-- Bootstrap 5.3.2 CSS - Load before custom CSS to allow overrides -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <!-- Bootstrap Override Layer - Neutralizes Bootstrap reset while preserving existing design -->
+    <link rel="stylesheet" href="<?php echo $path_prefix; ?>css/bootstrap-overrides.css">
+    <link rel="stylesheet" href="<?php echo $path_prefix; ?>css/global.css">
+    <?php
+    if (isset($extra_css) && is_array($extra_css)) {
+        foreach ($extra_css as $cssPath) {
+            $normalizedPath = ltrim($cssPath, '/');
+            echo '<link rel="stylesheet" href="' . htmlspecialchars($path_prefix . $normalizedPath, ENT_QUOTES, 'UTF-8') . '">' . PHP_EOL;
+        }
+    }
+    ?>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=IM+Fell+English+SC&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Nosifer&family=Source+Serif+Pro:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400&display=swap" rel="stylesheet">
+    <script src="<?php echo $path_prefix; ?>js/logo-animation.js"></script>
+    <script src="<?php echo $path_prefix; ?>js/form_validation.js"></script>
+    <script src="<?php echo $path_prefix; ?>js/modal_a11y.js"></script>
+</head>
+<body>
+<a class="visually-hidden-focusable" href="#main-content">Skip to main content</a>
+<div class="page-wrapper">
+    <header class="valley-header">
+        <div class="header-container container d-flex justify-content-between align-items-center gap-4">
+            <!-- Logo and Title Section -->
+            <div class="header-left d-flex align-items-center gap-4">
+                <div class="logo-placeholder" title="Valley by Night Logo">
+                    <!-- SVG Logo with hover effects (inline for animation support) -->
+                    <a href="<?php echo $app_root; ?>index.php" class="logo-link">
+                        <svg width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg" class="logo-svg">
+                          <defs>
+                            <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                              <stop offset="0%" style="stop-color:#2a1515;stop-opacity:1" />
+                              <stop offset="100%" style="stop-color:#1a0f0f;stop-opacity:1" />
+                            </linearGradient>
+                            <filter id="shadow">
+                              <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#000000" flood-opacity="0.8"/>
+                            </filter>
+                          </defs>
+                          <!-- Background with gradient -->
+                          <rect width="80" height="80" fill="url(#bgGradient)" rx="8"/>
+                          <!-- Inner shadow effect -->
+                          <rect x="3" y="3" width="74" height="74" fill="none" stroke="rgba(0,0,0,0.3)" stroke-width="1" rx="6"/>
+                          <!-- Border -->
+                          <rect width="80" height="80" fill="none" stroke="#8B0000" stroke-width="3" rx="8" class="logo-border" style="transition: stroke 0.3s ease, filter 0.3s ease;"/>
+                          <!-- VbN Text -->
+                          <text x="40" y="52" font-family="'IM Fell English', serif" font-size="28" fill="#8B0000" text-anchor="middle" font-weight="bold" letter-spacing="2" filter="url(#shadow)" class="logo-text" style="transition: fill 0.3s ease, filter 0.3s ease;">VbN</text>
+                        </svg>
+                    </a>
+                </div>
+                <div class="title-section">
+                    <h1 class="site-title">
+                        <a href="<?php echo $app_root; ?>index.php">Valley by Night</a>
+                    </h1>
+                    <p class="site-subtitle">A Vampire Tale</p>
+                </div>
+            </div>
+            
+            <!-- User Info Section -->
+            <div class="header-right d-flex flex-column align-items-end gap-1">
+                <div class="header-top-row d-flex align-items-center gap-2 flex-wrap">
+                    <?php if (isset($_SESSION['user_id'])): ?>
+                    <div class="user-info">
+                        <span class="user-label">Kindred:</span>
+                        <span class="username"><?php echo htmlspecialchars($username); ?></span>
+                        <a href="<?php echo $app_root; ?>account.php" class="logout-btn" title="Account Settings">Account</a>
+                        <a href="<?php echo $app_root; ?>logout.php" class="logout-btn" title="Logout">Logout</a>
+                    </div>
+                    <?php endif; ?>
+                </div>
+                <div class="version-info">
+                    <span class="version">v<?php echo htmlspecialchars($version); ?></span>
+                </div>
+            </div>
+        </div>
+    </header>
+    
+    <!-- Main content starts below header -->
+    <main id="main-content" class="main-wrapper" role="main" aria-label="Main content">
+

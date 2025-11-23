@@ -3,7 +3,7 @@
  * Registration Page - Valley by Night
  * New user account creation with email verification
  */
-define('LOTN_VERSION', '0.5.0');
+require_once __DIR__ . '/includes/version.php';
 session_start();
 
 // Redirect if already logged in

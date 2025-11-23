@@ -47,7 +47,7 @@ if (file_exists($loginDisableFile)) {
 // If login is disabled, redirect back with error
 if ($loginDisabled) {
     $_SESSION['error'] = "Login is currently disabled. Please try again later.";
-    header("Location: login.php");
+    header("Location: /login.php");
     exit();
 }
 
@@ -58,7 +58,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     // Validate input
     if (empty($username) || empty($password)) {
         $_SESSION['error'] = "Username and password are required";
-        header("Location: login.php");
+        header("Location: /login.php");
         exit();
     }
     
@@ -75,7 +75,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             // Check if email is verified
             if (!$user['email_verified']) {
                 $_SESSION['error'] = "Please verify your email address before logging in. Check your inbox for the verification link.";
-                header("Location: login.php");
+                header("Location: /login.php");
                 exit();
             }
             
@@ -92,18 +92,18 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             );
             
             // Redirect to dashboard
-            header("Location: index.php");
+            header("Location: /index.php");
             exit();
         } else {
             // Invalid password
             $_SESSION['error'] = "Invalid username or password";
-            header("Location: login.php");
+            header("Location: /login.php");
             exit();
         }
     } else {
         // User not found
         $_SESSION['error'] = "Invalid username or password";
-        header("Location: login.php");
+        header("Location: /login.php");
         exit();
     }
 }
