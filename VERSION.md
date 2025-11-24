@@ -1,6 +1,22 @@
 # Version History
 
-## Current Version: 0.7.1
+## Current Version: 0.7.2
+
+**Date:** 2025-01-24  
+**Type:** Patch (Character Reference Files - Alistaire)
+
+### Changes:
+- **Character Reference Files** - Added Alistaire character reference files
+  - Created `reference/Characters/alistaire.json` with complete character data
+  - Added `reference/Characters/Images/Alistaire.png` character portrait
+  - Expanded truncated fields in character JSON:
+    - **Appearance** - Detailed description of Nosferatu features, movement, and presence
+    - **Personality** - Expanded narrative on "Stillness is a weapon" philosophy and Survivor/Judge nature
+    - **Biography** - Complete backstory from Venice through WWII survival, journey to Phoenix, and current status as Primogen
+  - Character data includes timeline, domain/haven details, current residents, and description tags
+  - All fields now contain complete, rich content consistent with character concept
+
+## Previous Version: 0.7.1
 
 **Date:** 2025-11-23  
 **Type:** Patch (Camarilla Positions Action Column with Modals)

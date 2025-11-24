@@ -1,0 +1,43 @@
+{
+  "character_name": "Alistaire",
+  "player_name": "NPC",
+  "chronicle": "Valley by Night",
+  "clan": "Nosferatu",
+  "sect": "Camarilla",
+  "title": "Nosferatu Primogen of Phoenix",
+  "epithet": "The Silent Authority of the Bunker",
+  "concept": "Silent wartime survivor and subterranean information broker",
+  "nature": "Survivor",
+  "demeanor": "Judge",
+  "description_tags": ["ancient","calculating","politically unshakable","silent-film Nosferatu","wartime survivor","information broker","cold authority"],
+  "timeline": {
+    "birthplace": "Venice, Italy",
+    "embrace_period": "Early 1900s (circa 1905–1915)",
+    "notable_mortal_past": "Lived in Venice prior to and during the rise of Fascism; survived early 20th century political upheaval.",
+    "world_war_two_experience": "Survived occult purges and Giovanni-dominated politics; fled through tunnels.",
+    "arrival_in_phoenix": "Mid-1944",
+    "bunker_acquisition": "1954",
+    "years_in_bunker": "40 years"
+  },
+  "domain_and_haven": {
+    "primary_haven_name": "The Bunker",
+    "primary_haven_type": "Abandoned subterranean Cold War facility",
+    "location_notes": "Listed as demolished; secretly maintained.",
+    "bunker_history": "Cold War observation station erased via forged paperwork.",
+    "bunker_function": ["Info hub","Shrecknet node"],
+    "false_public_assumptions": "Believed to live in Mesa storm drains."
+  },
+  "current_residents": {
+    "nosferatu": ["Alistaire","Terry","Core","Phreak","Betty"],
+    "ghouls": ["Earl","Dale"]
+  },
+  "appearance": {
+    "short_summary": "A haunting figure that embodies the classic Nosferatu curse, appearing as if stepped directly from a silent horror film.",
+    "detailed_description": "Alistaire's visage is a testament to the Nosferatu curse in its most iconic form. His features are gaunt and elongated, with a pallor that speaks of decades spent in darkness. His eyes, deep-set and shadowed, hold an ancient intelligence that seems to pierce through the gloom. His fingers are unnaturally long and spidery, often steepled in contemplation. He moves with an almost preternatural stillness, making his rare movements all the more unsettling. His clothing, though well-maintained, carries the weight of another era—dark, formal attire that seems untouched by modern fashion. The overall effect is that of a creature from another time, preserved in the darkness of his subterranean domain. When he does speak, his voice is a low, measured whisper that seems to emerge from the shadows themselves."
+  },
+  "personality": {
+    "tagline": "Stillness is a weapon.",
+    "narrative": "Alistaire embodies the principle that silence and observation are more powerful than action. As a Survivor by nature and Judge by demeanor, he has learned through over a century of unlife that patience and information are the true currencies of power. He rarely speaks, but when he does, every word is measured and carries weight. His calculating mind processes every detail, every nuance of conversation, storing it away for future use. He is politically unshakable not because he is aggressive, but because he has survived everything—war, purges, political upheavals—by knowing when to move and when to remain perfectly still. His cold authority comes not from displays of power, but from the implicit threat of what he knows and what he could reveal. He judges others not through moralistic pronouncements, but through careful observation of their actions and their consequences. In the darkness of the Bunker, surrounded by information networks, Alistaire has become a living repository of secrets, and his silence is both his shield and his weapon."
+  },
+  "biography": "Alistaire's unlife began in Venice, Italy, during the tumultuous early years of the 20th century. Born mortal in a city already steeped in ancient secrets, he witnessed the rise of Fascism and the political upheavals that would reshape Europe. His Embrace came sometime between 1905 and 1915, transforming him into one of the Nosferatu—a clan that would come to define his existence. As a fledgling vampire in Venice, he learned the harsh realities of Kindred politics, particularly under the shadow of the Giovanni family's dominance. When World War II erupted, Alistaire found himself caught in the crossfire of occult purges and the complex machinations of Giovanni-controlled territories. His survival instincts, already honed by his nature as a Survivor, were pushed to their limits as he navigated the dangerous political landscape. It was during this period that he learned the value of information, of knowing when to hide and when to emerge, and of the power that comes from understanding the movements of others. Fleeing through the ancient tunnels beneath Venice, Alistaire made his way across continents, eventually arriving in Phoenix, Arizona, in mid-1944. The American Southwest offered a different kind of challenge—wide open spaces, a different political structure, and opportunities for a vampire who understood the value of information. In 1954, he acquired what would become his primary haven: an abandoned Cold War observation station that had been officially listed as demolished through forged paperwork. This facility, which he simply calls 'The Bunker,' became more than just a haven—it became the center of his information network. Over the next 40 years, Alistaire transformed the Bunker into a crucial node in the Shrecknet, the Nosferatu information network, while maintaining the public fiction that he and his clan live in Mesa storm drains. Today, as the Nosferatu Primogen of Phoenix, Alistaire serves as both a political figure and an information broker. His Bunker houses not only himself but other Nosferatu (Terry, Core, Phreak, and Betty) and his ghouls (Earl and Dale). He has become 'The Silent Authority of the Bunker'—a figure whose power derives not from visible displays of force, but from the knowledge he possesses and the strategic silence he maintains. His ancient eyes have seen empires rise and fall, and he has learned that those who survive are those who know when to speak and when to remain perfectly still."
+}
