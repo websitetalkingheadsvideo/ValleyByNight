@@ -1,6 +1,36 @@
 # Version History
 
-## Current Version: 0.7.2
+## Current Version: 0.7.3
+
+**Date:** 2025-01-24  
+**Type:** Patch (Character Database Analysis & Lilith Nightshade Character Creation)
+
+### Changes:
+- **Character Database Analysis** - Created comprehensive database schema analysis document
+  - Documented all database fields and related tables
+  - Identified field name inconsistencies across JSON files
+  - Cataloged fields in JSON files that don't exist in database
+  - Identified missing required fields in JSON files
+  - Documented format inconsistencies (abilities, disciplines, backgrounds, traits, morality, status)
+  - Provided recommendations for standardization with priority rankings
+- **Character Template & Documentation** - Created standardized character template and field documentation
+  - `character.json` - Complete template matching database schema with all required/optional fields
+  - `character.json.documentation.md` - Comprehensive field documentation with examples and format guidelines
+  - Proper format examples for arrays, objects, and nested structures
+  - Database mapping information for all fields
+- **Lilith Nightshade Character Creation** - Complete character reference package
+  - `lilith_nightshade.json` - Full character data (Malkavian Primogen, "The Porcelain Oracle")
+  - Character portrait image following art guide specifications
+  - Cinematic introduction scene following established format
+  - Complete profile with appearance, biography, personality, traits, abilities, disciplines, timeline, domain/haven
+- **Storyteller Prompt Updates** - Enhanced character generation prompts
+  - Added appearance description guidelines (200-500 words, 340 target)
+  - Added character history guidelines
+  - World of Darkness gothic/horror atmosphere specifications
+  - Structure and specificity requirements
+- **Dreamweaver Ignore Rule** - Created rule to ignore Dreamweaver metadata files (`_notes` folders, `dwsync.xml`)
+
+## Previous Version: 0.7.2
 
 **Date:** 2025-01-24  
 **Type:** Patch (Character Reference Files - Alistaire)

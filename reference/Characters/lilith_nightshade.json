@@ -1,0 +1,245 @@
+{
+  "id": 0,
+  "user_id": 0,
+  "character_name": "Lilith Nightshade",
+  "player_name": "NPC",
+  "chronicle": "Valley by Night",
+  "nature": "Visionary",
+  "demeanor": "Gallant",
+  "concept": "Elegant and terrifying oracle of the Malkavians",
+  "clan": "Malkavian",
+  "generation": 9,
+  "sire": "Unknown (Hospital Elder\u2019s line)",
+  "pc": 0,
+  "appearance": "Lilith Nightshade appears in flawless reproductions of 1890s Parisian gowns, always lavender with black lace gloves and a parasol...",
+  "appearance_detailed": {
+    "short_summary": "Elegant, Victorian-styled Malkavian oracle...",
+    "detailed_description": "Lilith Nightshade dresses in meticulous recreations of..."
+  },
+  "biography": "At first glance, Lilith Nightshade appears to have stepped out of another century...",
+  "notes": "This intro is designed to present Lilith as both a commanding social presence and a terrifying oracle, emphasizing the stark contrast between her polite, elegant composure and the sudden, predatory intensity that overtakes her when a vision strikes. Her visions should feel intrusive and unstoppable, with the POV adaptable to foreshadow pivotal events such as the Prince’s death, a PC’s impending sin, or the approach of a Sabbat incursion. Any player character who falls under her focused gaze should experience it as if the story itself has singled them out—an omen that could serve as either a dark blessing or a whispered curse, depending on where the chronicle leads.",
+  "equipment": "Lavender gown recreations, lace parasol...",
+  "character_image": "",
+  "status": "active",
+  "camarilla_status": "Camarilla",
+  "sect": "Camarilla",
+  "title": "Malkavian Primogen of Phoenix",
+  "epithet": "The Porcelain Oracle",
+  "description_tags": [
+    "elegant",
+    "terrifying",
+    "oracle",
+    "polite",
+    "cryptic",
+    "Malkavian"
+  ],
+  "timeline": {
+    "birthplace": "West Coast, USA",
+    "embrace_period": "Late 1950s",
+    "notable_mortal_past": "Historical costumer...",
+    "world_war_two_experience": "",
+    "arrival_in_phoenix": "1970s",
+    "bunker_acquisition": "",
+    "years_in_bunker": ""
+  },
+  "domain_and_haven": {
+    "primary_haven_name": "Private Victorian-styled residence",
+    "primary_haven_type": "House / Court Haven",
+    "location_notes": "Located near central Phoenix;",
+    "bunker_history": "",
+    "bunker_function": [],
+    "false_public_assumptions": "Some Toreador assume..."
+  },
+  "current_residents": {
+    "nosferatu": [],
+    "ghouls": []
+  },
+  "personality": {
+    "tagline": "The future whispers to her in broken dreams.",
+    "narrative": "Lilith is courtly, elegant..."
+  },
+  "traits": {
+    "Physical": [
+      "Graceful",
+      "Poised"
+    ],
+    "Social": [
+      "Charismatic",
+      "Elegant",
+      "Magnetic",
+      "Authoritative"
+    ],
+    "Mental": [
+      "Insightful",
+      "Perceptive",
+      "Focused When Driven"
+    ]
+  },
+  "negativeTraits": {
+    "Social": [
+      "Unsettling"
+    ],
+    "Mental": [
+      "Haunted",
+      "Distracted by Visions"
+    ]
+  },
+  "abilities": [
+    {
+      "name": "Etiquette",
+      "category": "Social",
+      "level": 4
+    },
+    {
+      "name": "Subterfuge",
+      "category": "Social",
+      "level": 4
+    },
+    {
+      "name": "Empathy",
+      "category": "Social",
+      "level": 3
+    },
+    {
+      "name": "Intimidation",
+      "category": "Social",
+      "level": 2
+    },
+    {
+      "name": "Performance",
+      "category": "Social",
+      "level": 3
+    },
+    {
+      "name": "Occult",
+      "category": "Mental",
+      "level": 4
+    },
+    {
+      "name": "Investigation",
+      "category": "Mental",
+      "level": 2
+    },
+    {
+      "name": "Awareness",
+      "category": "Mental",
+      "level": 3
+    },
+    {
+      "name": "Stealth",
+      "category": "Physical",
+      "level": 2
+    }
+  ],
+  "specializations": {
+    "Performance": "Theatrical Presentation",
+    "Occult": "Visionary Symbolism",
+    "Empathy": "Micro-expressions"
+  },
+  "disciplines": [
+    {
+      "name": "Auspex",
+      "level": 5,
+      "powers": [
+        {
+          "level": 1,
+          "power": "Heightened Senses"
+        },
+        {
+          "level": 2,
+          "power": "The Spirit's Touch"
+        },
+        {
+          "level": 3,
+          "power": "Psychic Projection"
+        },
+        {
+          "level": 4,
+          "power": "Telepathy"
+        },
+        {
+          "level": 5,
+          "power": "Astral Projection / Deep Sight"
+        }
+      ]
+    },
+    {
+      "name": "Dementation",
+      "level": 5,
+      "powers": [
+        {
+          "level": 1,
+          "power": "Passion"
+        },
+        {
+          "level": 2,
+          "power": "The Haunting"
+        },
+        {
+          "level": 3,
+          "power": "Eyes of Chaos"
+        },
+        {
+          "level": 4,
+          "power": "Voice of Madness"
+        },
+        {
+          "level": 5,
+          "power": "Total Insanity"
+        }
+      ]
+    },
+    {
+      "name": "Obfuscate",
+      "level": 3,
+      "powers": [
+        {
+          "level": 1,
+          "power": "Cloak of Shadows"
+        },
+        {
+          "level": 2,
+          "power": "Unseen Presence"
+        },
+        {
+          "level": 3,
+          "power": "Mask of a Thousand Faces"
+        }
+      ]
+    }
+  ],
+  "backgrounds": {
+    "Herd": 2,
+    "Mentor": 4,
+    "Influence (Occult)": 3
+  },
+  "backgroundDetails": {
+    "Herd": "A quiet following of mystics...",
+    "Mentor": "The Malkavian elder...",
+    "Influence (Occult)": "Psychics, fringe researchers..."
+  },
+  "morality": {
+    "path_name": "Humanity",
+    "path_rating": 7,
+    "conscience": 3,
+    "self_control": 3,
+    "courage": 3,
+    "willpower_permanent": 5,
+    "willpower_current": 5,
+    "humanity": 7
+  },
+  "merits_flaws": [],
+  "coteries": [],
+  "relationships": [],
+  "rituals": [],
+  "research_notes": {},
+  "artifacts": [],
+  "custom_data": null,
+  "experience_total": 30,
+  "experience_spent": 30,
+  "experience_unspent": 0,
+  "clan_logo_url": "",
+  "current_state": "",
+  "created_at": "",
+  "updated_at": ""
+}

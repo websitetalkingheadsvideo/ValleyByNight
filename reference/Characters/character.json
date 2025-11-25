@@ -1,0 +1,128 @@
+{
+  "id": 0,
+  "user_id": 0,
+  "character_name": "",
+  "player_name": "",
+  "chronicle": "Valley by Night",
+  "nature": "",
+  "demeanor": "",
+  "concept": "",
+  "clan": "",
+  "generation": 13,
+  "sire": "",
+  "pc": 1,
+  "appearance": "",
+  "appearance_detailed": {
+    "short_summary": "",
+    "detailed_description": ""
+  },
+  "biography": "",
+  "notes": "",
+  "equipment": "",
+  "character_image": "",
+  "status": "active",
+  "camarilla_status": "Unknown",
+  "sect": "",
+  "title": "",
+  "epithet": "",
+  "description_tags": [],
+  "timeline": {
+    "birthplace": "",
+    "embrace_period": "",
+    "notable_mortal_past": "",
+    "world_war_two_experience": "",
+    "arrival_in_phoenix": "",
+    "bunker_acquisition": "",
+    "years_in_bunker": ""
+  },
+  "domain_and_haven": {
+    "primary_haven_name": "",
+    "primary_haven_type": "",
+    "location_notes": "",
+    "bunker_history": "",
+    "bunker_function": [],
+    "false_public_assumptions": ""
+  },
+  "current_residents": {
+    "nosferatu": [],
+    "ghouls": []
+  },
+  "personality": {
+    "tagline": "",
+    "narrative": ""
+  },
+  "traits": {
+    "Physical": [],
+    "Social": [],
+    "Mental": []
+  },
+  "negativeTraits": {
+    "Physical": [],
+    "Social": [],
+    "Mental": []
+  },
+  "abilities": [],
+  "specializations": {},
+  "disciplines": [],
+  "backgrounds": {},
+  "backgroundDetails": {},
+  "morality": {
+    "path_name": "Humanity",
+    "path_rating": 7,
+    "conscience": 3,
+    "self_control": 3,
+    "courage": 3,
+    "willpower_permanent": 5,
+    "willpower_current": 5,
+    "humanity": 7
+  },
+  "merits_flaws": [],
+  "status": {
+    "sect_status": "",
+    "clan_status": "",
+    "city_status": "",
+    "health_levels": 7,
+    "blood_pool_current": 10,
+    "blood_pool_maximum": 10,
+    "blood_per_turn": 1,
+    "xp_total": 0,
+    "xp_spent": 0,
+    "xp_available": 0,
+    "notes": ""
+  },
+  "coteries": [],
+  "relationships": [],
+  "rituals": [],
+  "research_notes": {},
+  "artifacts": [],
+  "custom_data": null,
+  "experience_total": 0,
+  "experience_spent": 0,
+  "clan_logo_url": "",
+  "current_state": "",
+  "created_at": "",
+  "updated_at": "",
+  "_field_descriptions": {
+    "status": "String: 'active', 'inactive', or 'archived'",
+    "camarilla_status": "String: 'Camarilla', 'Anarch', 'Independent', 'Sabbat', or 'Unknown'",
+    "pc": "Integer: 0 = NPC, 1 = PC",
+    "generation": "Integer: 1-15 (typically 8-13 for starting characters)",
+    "abilities": "Array format options: 1) Objects: [{\"name\": \"Occult\", \"category\": \"Mental\", \"level\": 4}] OR 2) Strings: [\"Performance (Voice) 4\", \"Subterfuge 2\"]",
+    "disciplines": "Array format options: 1) Objects with powers: [{\"name\": \"Auspex\", \"level\": 3, \"powers\": [{\"level\": 1, \"power\": \"Heightened Senses\"}]}] OR 2) Strings: [\"Melpominee 4\", \"Presence 3\"]",
+    "traits": "Object with arrays: {\"Physical\": [\"Quick\", \"Nimble\"], \"Social\": [\"Charismatic\"], \"Mental\": [\"Intelligent\"]}",
+    "negativeTraits": "Same format as traits - negative/damaging traits",
+    "backgrounds": "Object with name:level pairs: {\"Resources\": 3, \"Allies\": 2, \"Status\": 1}",
+    "merits_flaws": "Array of objects: [{\"name\": \"Natural Linguist\", \"type\": \"merit\", \"category\": \"Mental\", \"cost\": 2, \"description\": \"...\"}]",
+    "status.xp_total": "Total experience points earned (maps to DB experience_total)",
+    "status.xp_available": "Unspent experience points (xp_total - xp_spent)",
+    "status.blood_pool_current": "Current blood points (varies by generation)",
+    "status.blood_pool_maximum": "Maximum blood points (typically 10-15 for gen 8-13)",
+    "morality.path_name": "String: 'Humanity' (default) or Path of Enlightenment name",
+    "morality.path_rating": "Integer: 1-10 (current morality rating)",
+    "morality.willpower_permanent": "Integer: 1-10 (permanent willpower rating)",
+    "morality.willpower_current": "Integer: Current willpower (can be lower than permanent)",
+    "coteries": "Array of objects: [{\"coterie_name\": \"...\", \"coterie_type\": \"...\", \"role\": \"...\", \"description\": \"...\", \"notes\": \"...\"}]",
+    "relationships": "Array of objects: [{\"related_character_name\": \"...\", \"relationship_type\": \"...\", \"relationship_subtype\": \"...\", \"strength\": \"...\", \"description\": \"...\"}]"
+  }
+}
+

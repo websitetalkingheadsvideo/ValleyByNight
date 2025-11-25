@@ -1,0 +1,32 @@
+---
+description: Ignore Dreamweaver-generated files and folders (_notes directories and dwsync.xml files) in all Cursor operations
+globs: **/_notes/**, **/dwsync.xml, **/_notes/dwsync.xml
+alwaysApply: true
+---
+
+# Dreamweaver File Ignore Rules
+
+- **Purpose**: Instruct Cursor to completely ignore Adobe Dreamweaver-generated files and folders that are not part of the actual codebase.
+
+- **Ignored Patterns**:
+  - **`_notes` folders**: All `_notes` directories at any depth in the project structure
+  - **`dwsync.xml` files**: All `dwsync.xml` files regardless of their location in the project
+
+- **Implementation**:
+  - Cursor should never read, analyze, or reference files matching these patterns
+  - These files are Dreamweaver metadata and synchronization artifacts
+  - They should be excluded from code searches, file listings, and AI context gathering
+
+- **Examples of Ignored Paths**:
+  - `images/_notes/dwsync.xml`
+  - `.cursor/_notes/dwsync.xml`
+  - `reference/Characters/_notes/`
+  - `agents/character_agent/data/_notes/dwsync.xml`
+  - Any `**/_notes/**` pattern at any depth
+  - Any `**/dwsync.xml` file at any location
+
+- **Behavior**:
+  - When searching codebase, skip all `_notes` directories
+  - When listing files, exclude `dwsync.xml` files
+  - When gathering context, do not include content from these paths
+  - When suggesting file operations, never reference these paths

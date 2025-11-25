@@ -65,6 +65,193 @@ $message = null;
 $message_type = null;
 $generated_reports = [];
 
+/**
+ * Recursively scan directory for JSON files
+ */
+function scanCharacterFiles(string $dir, bool $recursive = true): array {
+    $files = [];
+    if (!is_dir($dir)) {
+        return $files;
+    }
+    
+    $items = scandir($dir);
+    foreach ($items as $item) {
+        if ($item === '.' || $item === '..' || $item === '_notes') {
+            continue;
+        }
+        
+        $path = $dir . '/' . $item;
+        
+        if (is_dir($path) && $recursive) {
+            $files = array_merge($files, scanCharacterFiles($path, $recursive));
+        } elseif (is_file($path) && pathinfo($path, PATHINFO_EXTENSION) === 'json') {
+            $files[] = $path;
+        }
+    }
+    
+    return $files;
+}
+
+/**
+ * Validate character data against config requirements
+ */
+function validateCharacter(array $character, array $config): array {
+    $errors = [];
+    $validation = $config['validation'] ?? [];
+    
+    if (empty($validation) || !($validation['enabled'] ?? true)) {
+        return $errors;
+    }
+    
+    // Check required fields
+    $required = $validation['required_fields'] ?? [];
+    foreach ($required as $field) {
+        if (!isset($character[$field]) || empty($character[$field])) {
+            $errors[] = "Missing required field: {$field}";
+        }
+    }
+    
+    // Validate generation range
+    if (($validation['validate_generation_range']['enabled'] ?? false) && isset($character['generation'])) {
+        $min = $validation['validate_generation_range']['min'] ?? 1;
+        $max = $validation['validate_generation_range']['max'] ?? 15;
+        $gen = (int)$character['generation'];
+        if ($gen < $min || $gen > $max) {
+            $errors[] = "Generation {$gen} is outside valid range ({$min}-{$max})";
+        }
+    }
+    
+    // Validate clan names
+    if (($validation['validate_clan_names']['enabled'] ?? false) && isset($character['clan'])) {
+        $allowed = $validation['validate_clan_names']['allowed_clans'] ?? [];
+        if (!empty($allowed) && !in_array($character['clan'], $allowed)) {
+            $errors[] = "Invalid clan: {$character['clan']}";
+        }
+    }
+    
+    return $errors;
+}
+
+/**
+ * Check if character is new or updated
+ */
+function checkCharacterStatus(string $filepath, string $history_dir): string {
+    $basename = basename($filepath);
+    $history_file = $history_dir . '/' . $basename;
+    
+    if (!file_exists($history_file)) {
+        return 'new';
+    }
+    
+    $file_mtime = filemtime($filepath);
+    $history_mtime = filemtime($history_file);
+    
+    if ($file_mtime > $history_mtime) {
+        return 'updated';
+    }
+    
+    return 'unchanged';
+}
+
+/**
+ * Process characters and generate report data
+ */
+function processCharacters(array $config, string $project_root): array {
+    $summary = [
+        'characters_processed' => 0,
+        'new_characters' => 0,
+        'updated_characters' => 0,
+        'validation_errors' => 0,
+        'continuity_issues' => 0
+    ];
+    
+    $details = [];
+    
+    // Determine character directory - try config path first, then fallback to reference/Characters
+    $char_path_config = $config['paths']['characters'] ?? '/agents/character_agent/data/Characters/';
+    $char_dir = $project_root . $char_path_config;
+    
+    // If configured path doesn't exist, try reference/Characters
+    if (!is_dir($char_dir)) {
+        $char_dir = $project_root . '/reference/Characters';
+    }
+    
+    // Also check for subdirectories like "Added to Database"
+    $character_files = scanCharacterFiles($char_dir, true);
+    
+    $history_dir = $project_root . ($config['paths']['history'] ?? '/agents/character_agent/data/History/');
+    if (!is_dir($history_dir)) {
+        mkdir($history_dir, 0755, true);
+    }
+    
+    foreach ($character_files as $filepath) {
+        $summary['characters_processed']++;
+        
+        $content = file_get_contents($filepath);
+        if ($content === false) {
+            $details[] = [
+                'file' => basename($filepath),
+                'status' => 'error',
+                'error' => 'Could not read file'
+            ];
+            continue;
+        }
+        
+        $character = json_decode($content, true);
+        if ($character === null || json_last_error() !== JSON_ERROR_NONE) {
+            $details[] = [
+                'file' => basename($filepath),
+                'status' => 'error',
+                'error' => 'Invalid JSON: ' . json_last_error_msg()
+            ];
+            $summary['validation_errors']++;
+            continue;
+        }
+        
+        // Validate character
+        $validation_errors = validateCharacter($character, $config);
+        if (!empty($validation_errors)) {
+            $summary['validation_errors']++;
+            $details[] = [
+                'file' => basename($filepath),
+                'character_name' => $character['character_name'] ?? 'Unknown',
+                'status' => 'validation_error',
+                'errors' => $validation_errors
+            ];
+        }
+        
+        // Check if new or updated
+        $status = checkCharacterStatus($filepath, $history_dir);
+        if ($status === 'new') {
+            $summary['new_characters']++;
+        } elseif ($status === 'updated') {
+            $summary['updated_characters']++;
+        }
+        
+        // Store character info in details
+        $details[] = [
+            'file' => basename($filepath),
+            'character_name' => $character['character_name'] ?? 'Unknown',
+            'player_name' => $character['player_name'] ?? 'Unknown',
+            'clan' => $character['clan'] ?? 'Unknown',
+            'generation' => $character['generation'] ?? null,
+            'status' => $status,
+            'validation_errors' => $validation_errors
+        ];
+        
+        // Copy to history for tracking
+        if ($status === 'new' || $status === 'updated') {
+            $history_file = $history_dir . '/' . basename($filepath);
+            copy($filepath, $history_file);
+        }
+    }
+    
+    return [
+        'summary' => $summary,
+        'details' => $details
+    ];
+}
+
 // Handle report generation
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['generate'])) {
     if (!$reporting_enabled) {
@@ -73,23 +260,21 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['generate'])) {
     } else {
         $timestamp = date('Y-m-d_H-i-s');
         $date = date('Y-m-d');
+        $project_root = dirname(__DIR__, 2); // Go up from agents/character_agent to project root
         
         try {
             if ($generate_daily && isset($_POST['report_type']) && ($_POST['report_type'] === 'daily' || $_POST['report_type'] === 'both')) {
+                // Process characters
+                $processed_data = processCharacters($config, $project_root);
+                
                 // Generate daily report
                 $daily_report_file = $daily_dir . '/daily_report_' . $date . '.json';
                 $daily_report = [
                     'generated_at' => date('Y-m-d H:i:s'),
                     'date' => $date,
                     'type' => 'daily',
-                    'summary' => [
-                        'characters_processed' => 0,
-                        'new_characters' => 0,
-                        'updated_characters' => 0,
-                        'validation_errors' => 0,
-                        'continuity_issues' => 0
-                    ],
-                    'details' => []
+                    'summary' => $processed_data['summary'],
+                    'details' => $processed_data['details']
                 ];
                 
                 file_put_contents($daily_report_file, json_encode($daily_report, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
@@ -104,19 +289,132 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['generate'])) {
             }
             
             if ($generate_continuity && isset($_POST['report_type']) && ($_POST['report_type'] === 'continuity' || $_POST['report_type'] === 'both')) {
+                // Load all characters for continuity checks
+                $char_path_config = $config['paths']['characters'] ?? '/agents/character_agent/data/Characters/';
+                $char_dir = $project_root . $char_path_config;
+                
+                if (!is_dir($char_dir)) {
+                    $char_dir = $project_root . '/reference/Characters';
+                }
+                
+                $character_files = scanCharacterFiles($char_dir, true);
+                $characters = [];
+                $character_map = []; // Map character names to their data
+                
+                foreach ($character_files as $filepath) {
+                    $content = file_get_contents($filepath);
+                    if ($content === false) {
+                        continue;
+                    }
+                    
+                    $character = json_decode($content, true);
+                    if ($character === null || json_last_error() !== JSON_ERROR_NONE) {
+                        continue;
+                    }
+                    
+                    $char_name = $character['character_name'] ?? null;
+                    if ($char_name) {
+                        $characters[] = $character;
+                        $character_map[strtolower($char_name)] = $character;
+                    }
+                }
+                
+                // Run continuity checks
+                $continuity_issues = [];
+                $summary = [
+                    'sire_relationship_issues' => 0,
+                    'generation_inconsistencies' => 0,
+                    'clan_inconsistencies' => 0,
+                    'timeline_conflicts' => 0,
+                    'missing_characters' => 0
+                ];
+                
+                $continuity_config = $config['continuity_checks'] ?? [];
+                
+                foreach ($characters as $character) {
+                    $char_name = $character['character_name'] ?? 'Unknown';
+                    
+                    // Check sire relationships
+                    if (($continuity_config['check_sire_relationships'] ?? false) && isset($character['sire'])) {
+                        $sire_name = $character['sire'];
+                        $sire_lower = strtolower($sire_name);
+                        
+                        if (!isset($character_map[$sire_lower])) {
+                            $summary['missing_characters']++;
+                            $continuity_issues[] = [
+                                'type' => 'missing_character',
+                                'character' => $char_name,
+                                'issue' => "Sire '{$sire_name}' is referenced but not found in character files"
+                            ];
+                        } else {
+                            $sire = $character_map[$sire_lower];
+                            
+                            // Check generation consistency
+                            if (($continuity_config['check_generation_consistency'] ?? false)) {
+                                $char_gen = isset($character['generation']) ? (int)$character['generation'] : null;
+                                $sire_gen = isset($sire['generation']) ? (int)$sire['generation'] : null;
+                                
+                                if ($char_gen !== null && $sire_gen !== null && $char_gen >= $sire_gen) {
+                                    $summary['generation_inconsistencies']++;
+                                    $continuity_issues[] = [
+                                        'type' => 'generation_inconsistency',
+                                        'character' => $char_name,
+                                        'issue' => "Generation {$char_gen} is not lower than sire's generation {$sire_gen}"
+                                    ];
+                                }
+                            }
+                            
+                            // Check clan consistency
+                            if (($continuity_config['check_clan_consistency'] ?? false)) {
+                                $char_clan = $character['clan'] ?? null;
+                                $sire_clan = $sire['clan'] ?? null;
+                                
+                                if ($char_clan && $sire_clan && $char_clan !== $sire_clan && $char_clan !== 'Caitiff') {
+                                    // This might be intentional (thin-blood, etc), but flag it
+                                    $summary['clan_inconsistencies']++;
+                                    $continuity_issues[] = [
+                                        'type' => 'clan_inconsistency',
+                                        'character' => $char_name,
+                                        'issue' => "Clan '{$char_clan}' differs from sire's clan '{$sire_clan}'"
+                                    ];
+                                }
+                            }
+                        }
+                    }
+                    
+                    // Check timeline conflicts
+                    if (($continuity_config['check_timeline_conflicts'] ?? false)) {
+                        $embraced = $character['embraced'] ?? null;
+                        if ($embraced && isset($character['sire'])) {
+                            $sire_name = $character['sire'];
+                            $sire_lower = strtolower($sire_name);
+                            
+                            if (isset($character_map[$sire_lower])) {
+                                $sire = $character_map[$sire_lower];
+                                $sire_embraced = $sire['embraced'] ?? null;
+                                
+                                if ($sire_embraced && $embraced < $sire_embraced) {
+                                    $summary['timeline_conflicts']++;
+                                    $continuity_issues[] = [
+                                        'type' => 'timeline_conflict',
+                                        'character' => $char_name,
+                                        'issue' => "Embraced in {$embraced}, but sire was embraced in {$sire_embraced}"
+                                    ];
+                                }
+                            }
+                        }
+                    }
+                }
+                
+                $summary['sire_relationship_issues'] = $summary['missing_characters'];
+                
                 // Generate continuity report
                 $continuity_report_file = $continuity_dir . '/continuity_report_' . $timestamp . '.json';
                 $continuity_report = [
                     'generated_at' => date('Y-m-d H:i:s'),
                     'type' => 'continuity',
-                    'summary' => [
-                        'sire_relationship_issues' => 0,
-                        'generation_inconsistencies' => 0,
-                        'clan_inconsistencies' => 0,
-                        'timeline_conflicts' => 0,
-                        'missing_characters' => 0
-                    ],
-                    'issues' => []
+                    'summary' => $summary,
+                    'issues' => $continuity_issues
                 ];
                 
                 file_put_contents($continuity_report_file, json_encode($continuity_report, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
