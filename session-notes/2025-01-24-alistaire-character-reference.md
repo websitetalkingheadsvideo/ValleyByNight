@@ -45,3 +45,4 @@
 ### Summary
 This session focused on adding and completing character reference files for Alistaire, the Nosferatu Primogen of Phoenix. The character data structure was created with all basic information, and the previously truncated appearance, personality, and biography fields were expanded with rich, detailed content that captures the character's essence as a silent wartime survivor and subterranean information broker.
 
+
