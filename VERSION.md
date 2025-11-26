@@ -1,6 +1,37 @@
 # Version History
 
-## Current Version: 0.7.4
+## Current Version: 0.7.5
+
+**Date:** 2025-11-26  
+**Type:** Patch (Boon Agent Integration, Storyteller Prompt Updates, Import Guide Improvements)
+
+### Changes:
+- **Boon Agent Integration** - Added Boon Agent to admin agents dashboard
+  - Registered Boon Agent as active agent with full configuration
+  - Added action buttons for "Launch Boon Agent" and "View Boon Ledger"
+  - Removed Boon Agent from planned agents list (now active)
+  - Agent monitors and validates boons according to Laws of the Night Revised mechanics
+  - Tracks favor-debt, detects violations, integrates with Harpy systems
+- **Storyteller Prompt Updates** - Updated character generation prompts
+  - Changed from appearance description to biography generation
+  - Adjusted word count guidelines (100-200 words, aim for 150)
+  - Updated prompt structure for biography creation
+  - Maintained World of Darkness gothic/horror atmosphere requirements
+- **Misfortune Character Storyboard** - Created full 7-shot cinematic storyboard
+  - Complete director's version with timing, framing, lighting, motion, and audio cues
+  - 30-second runtime with neo-noir gothic theatrical tone
+  - Ready for animators, editors, or video directors
+  - Follows Valley by Night Cinematic Intro Guide format
+- **Import Guide Improvements** - Enhanced character import documentation
+  - Updated file paths from `data/` to `reference/Characters/` folder
+  - Added CLI support for character imports (web and command-line options)
+  - Documented upsert behavior (updates existing, inserts new)
+  - Added supported JSON format variations section
+  - Updated examples with correct URLs and file locations
+  - Documented automatic field name variation handling
+- **Documentation Updates** - Minor updates to character database analysis and session notes
+
+## Previous Version: 0.7.4
 
 **Date:** 2025-11-25  
 **Type:** Patch (Admin Agents Page Bootstrap Card Refactor)
