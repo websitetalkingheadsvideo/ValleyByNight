@@ -72,6 +72,25 @@ $agents = [
             ]
         ]
     ],
+    [
+        "name" => "Rumor Agent",
+        "slug" => "rumor_agent",
+        "description" => "Manage and monitor rumor-related interactions. Generates ambient rumors based on recent character or location changes.",
+        "data_access" => [
+            "/agents/rumors_agent/",
+            "/reference/rumors/",
+            "data/state/rumor_history_*.json"
+        ],
+        "purpose" => "Spin ambient rumors based on recent character or location changes, and manage rumor distribution throughout the chronicle.",
+        "status" => "Active",
+        "last_event" => "Ready to generate and manage rumors.",
+        "actions" => [
+            [
+                "label" => "Launch Rumor Agent",
+                "url" => "rumor_viewer.php"
+            ]
+        ]
+    ],
     // Future agents can be appended here.
 ];
 
@@ -87,41 +106,45 @@ include __DIR__ . '/../includes/header.php';
     <div class="agents-grid row g-3 g-lg-4 mb-4">
         <?php if (empty($agents)): ?>
             <div class="col-12">
-                <div class="card agent-card shadow-sm border-0 text-center py-5">
-                    <p class="mb-0 text-light">No agents configured yet.</p>
+                <div class="card shadow-sm text-center py-5">
+                    <div class="card-body">
+                        <p class="mb-0 text-light">No agents configured yet.</p>
+                    </div>
                 </div>
             </div>
         <?php else: ?>
             <?php foreach ($agents as $agent): ?>
                 <div class="col-12 col-md-6 col-xl-4">
-                    <article class="card agent-card h-100 shadow-sm border-0">
-                        <div class="agent-card-header">
-                            <h3 class="agent-card-title"><?= htmlspecialchars($agent['name']); ?></h3>
-                            <span class="agent-status" data-status="<?= htmlspecialchars(strtolower($agent['status'])); ?>">
-                                <?= htmlspecialchars($agent['status']); ?>
-                            </span>
+                    <article class="card h-100 d-flex flex-column shadow-sm">
+                        <div class="card-body">
+                            <div class="d-flex justify-content-between align-items-start mb-3">
+                                <h3 class="card-title fw-bold mb-0"><?= htmlspecialchars($agent['name']); ?></h3>
+                                <span class="badge agent-status-badge" data-status="<?= htmlspecialchars(strtolower($agent['status'])); ?>">
+                                    <?= htmlspecialchars($agent['status']); ?>
+                                </span>
+                            </div>
+                            <p class="card-text mb-3">
+                                <?= htmlspecialchars($agent['description']); ?>
+                            </p>
+                            <div class="mb-3">
+                                <p class="small fw-bold text-white mb-2">Purpose</p>
+                                <p class="card-text small mb-0"><?= htmlspecialchars($agent['purpose']); ?></p>
+                            </div>
+                            <div class="mb-3">
+                                <p class="small fw-bold text-white mb-2">Data Access</p>
+                                <ul class="list-unstyled mb-0 small">
+                                    <?php foreach ($agent['data_access'] as $path): ?>
+                                        <li class="mb-1"><code class="text-white"><?= htmlspecialchars($path); ?></code></li>
+                                    <?php endforeach; ?>
+                                </ul>
+                            </div>
+                            <p class="small text-white mb-0">Last event: <span class="text-light"><?= htmlspecialchars($agent['last_event']); ?></span></p>
                         </div>
-                        <p class="agent-card-description mb-0">
-                            <?= htmlspecialchars($agent['description']); ?>
-                        </p>
-                        <div class="agent-card-section">
-                            <p class="agent-card-subtitle mb-2">Purpose</p>
-                            <p class="agent-card-text mb-0"><?= htmlspecialchars($agent['purpose']); ?></p>
-                        </div>
-                        <div class="agent-card-section">
-                            <p class="agent-card-subtitle mb-2">Data Access</p>
-                            <ul class="agent-path-list">
-                                <?php foreach ($agent['data_access'] as $path): ?>
-                                    <li><span class="agent-path"><?= htmlspecialchars($path); ?></span></li>
-                                <?php endforeach; ?>
-                            </ul>
-                        </div>
-                        <p class="agent-card-meta mb-0">Last event: <?= htmlspecialchars($agent['last_event']); ?></p>
                         <?php if (!empty($agent['actions'])): ?>
-                            <div class="agent-action-group mt-3 d-flex flex-column flex-sm-row gap-2">
+                            <div class="card-footer mt-auto d-flex flex-column flex-sm-row gap-2">
                                 <?php foreach ($agent['actions'] as $action): ?>
                                     <a href="<?= htmlspecialchars($action['url']); ?>"
-                                       class="btn btn-outline-danger btn-sm w-100"
+                                       class="btn btn-outline-danger btn-sm flex-fill"
                                        <?php if (!empty($action['target'])): ?>target="<?= htmlspecialchars($action['target']); ?>"<?php endif; ?>
                                        <?php if (!empty($action['rel'])): ?>rel="<?= htmlspecialchars($action['rel']); ?>"<?php endif; ?>>
                                         <?= htmlspecialchars($action['label']); ?>
@@ -141,7 +164,6 @@ include __DIR__ . '/../includes/header.php';
         <ul class="planned-agents-list mb-0">
             <li>Boon Agent — monitors boons and favors, integrating with Harpy and Talons systems.</li>
             <li>Influence Agent — surfaces mortal influence opportunities across Bureaucracy, Law, Finance, and more.</li>
-            <li>Rumor Agent — spins ambient rumors based on recent character or location changes.</li>
             <li>Lore/History Agent — answers city history questions and maintains a living timeline.</li>
         </ul>
     </section>

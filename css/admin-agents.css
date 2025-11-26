@@ -81,3 +81,64 @@
     font-weight: bold;
 }
 
+/* Admin Agents - Card Styles */
+
+/* Status badge styling */
+.agent-status-badge {
+    background-color: var(--blood-red, #8B0000);
+    color: var(--text-light, #f5e6d3);
+    font-size: 0.75rem;
+    padding: 0.25rem 0.5rem;
+}
+
+.agent-status-badge[data-status="active"] {
+    background-color: rgba(76, 175, 80, 0.8);
+}
+
+/* Card border styling */
+.agents-grid .card {
+    border: 1px solid var(--blood-red, #8B0000);
+    border-color: var(--blood-red, #8B0000) !important;
+}
+
+/* Card body spacing adjustments */
+.card-body {
+    flex: 1 1 auto;
+}
+
+/* Card footer button spacing */
+.card-footer {
+    background-color: transparent;
+    border-top: 1px solid rgba(139, 0, 0, 0.2);
+    padding: 1rem;
+}
+
+/* Planned agents section styling */
+.planned-agents-panel {
+    margin-top: 2rem;
+    padding: 1.5rem;
+    background: rgba(139, 0, 0, 0.05);
+    border-radius: 0.5rem;
+    border: 1px solid rgba(139, 0, 0, 0.2);
+}
+
+.planned-agents-panel h2 {
+    color: var(--text-light, #f5e6d3);
+    font-size: 1.5rem;
+}
+
+.planned-agents-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+.planned-agents-list li {
+    padding: 0.5rem 0;
+    color: var(--text-mid, #d4c4b0);
+    border-bottom: 1px solid rgba(139, 0, 0, 0.1);
+}
+
+.planned-agents-list li:last-child {
+    border-bottom: none;
+}
+

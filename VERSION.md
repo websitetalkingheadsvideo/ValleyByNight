@@ -1,6 +1,34 @@
 # Version History
 
-## Current Version: 0.7.3
+## Current Version: 0.7.4
+
+**Date:** 2025-11-25  
+**Type:** Patch (Admin Agents Page Bootstrap Card Refactor)
+
+### Changes:
+- **Bootstrap Card Refactor** - Refactored admin agents page to use Bootstrap card components
+  - Replaced custom card structure with Bootstrap `card-body` and `card-footer` components
+  - Added `d-flex flex-column` layout to cards for proper flexbox structure
+  - Moved action buttons to `card-footer` with `mt-auto` to pin buttons to bottom of cards
+  - Replaced custom classes with Bootstrap utilities (`card-title`, `card-text`, `badge`, `list-unstyled`, `code`)
+  - Used Bootstrap typography classes (`small`, `fw-bold`, `text-white`) for consistent styling
+  - Changed button layout from `w-100` to `flex-fill` for better responsive behavior
+- **Card Styling** - Added dark red borders to agent cards
+  - Removed `border-0` from cards
+  - Added custom CSS rule using `--blood-red` CSS variable for consistent theming
+- **Text Contrast Improvements** - Fixed text visibility on dark background
+  - Replaced all `text-muted` instances with `text-white` for better contrast
+  - Applied to Purpose labels, Data Access labels, code elements, and Last event text
+- **Rumor Agent URL Fix** - Fixed placeholder URL for Rumor Agent
+  - Changed from `"RUMOR_AGENT_URL"` placeholder to `"rumor_viewer.php"`
+  - Button now correctly links to the admin rumor viewer interface
+- **CSS Updates** - Enhanced `css/admin-agents.css` with minimal custom styling
+  - Added status badge styling with active state support
+  - Added card footer border and background adjustments
+  - Added planned agents section styling
+  - Preserved existing JSON display styles for report modals
+
+## Previous Version: 0.7.3
 
 **Date:** 2025-01-24  
 **Type:** Patch (Character Database Analysis & Lilith Nightshade Character Creation)

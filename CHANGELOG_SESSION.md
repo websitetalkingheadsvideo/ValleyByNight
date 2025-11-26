@@ -1,133 +1,106 @@
-# Session Report - Character Database Analysis & Lilith Nightshade Character Creation
+# Session Report - Admin Agents Page Bootstrap Card Refactor
 
-**Date:** 2025-01-24  
-**Version:** 0.7.2 → 0.7.3  
-**Type:** Patch (Character Reference Files, Documentation, Analysis)
+**Date:** 2025-11-25  
+**Version:** 0.7.3 → 0.7.4  
+**Type:** Patch (UI/Styling Improvements)
 
 ## Summary
 
-This session focused on character database standardization, comprehensive field analysis, and creation of a complete character reference for Lilith Nightshade (Malkavian Primogen). Work included database schema analysis, character template creation, and character content generation.
+Refactored the admin agents page (`admin/agents.php`) to use Bootstrap card components with proper structure, improved text contrast, and fixed the Rumor Agent URL placeholder. The page now uses standard Bootstrap card components with buttons pinned to the bottom of each card, maintaining responsive design and consistent styling.
 
 ## Changes Made
 
-### 1. Character Database Analysis
-- **Created**: `reference/Characters/CHARACTER_DATABASE_ANALYSIS.md` - Comprehensive database schema analysis
-  - Documented all database fields from `includes/save_character.php` and `admin/view_character_api.php`
-  - Identified field name inconsistencies across JSON files
-  - Cataloged fields in JSON files that don't exist in database
-  - Identified missing required fields in JSON files
-  - Documented format inconsistencies (abilities, disciplines, backgrounds, traits, morality, status)
-  - Provided recommendations for standardization
-  - Listed files needing updates by priority (high/medium/low)
+### 1. Bootstrap Card Structure Refactor
+- **Replaced custom card structure** with Bootstrap `card-body` and `card-footer` components
+  - Removed custom classes: `agent-card-header`, `agent-card-section`, `agent-action-group`
+  - Added Bootstrap structure: `card-body` for content, `card-footer` for actions
+  - Added `d-flex flex-column` to cards for flexbox layout
+  - Added `mt-auto` to `card-footer` to pin buttons to bottom
 
-### 2. Character Template & Documentation
-- **Created**: `reference/Characters/character.json` - Standardized character template
-  - Complete field structure matching database schema
-  - Includes all required and optional fields
-  - Proper format examples for arrays, objects, and nested structures
-  - Field descriptions and validation notes
-- **Created**: `reference/Characters/character.json.documentation.md` - Comprehensive field documentation
-  - Detailed explanations for all fields in character.json
-  - Field types, requirements, and format specifications
-  - Examples for each field type
-  - Database mapping information
-  - Format guidelines for abilities, disciplines, backgrounds, traits, etc.
+### 2. Bootstrap Utility Classes
+- **Typography**: Replaced custom classes with Bootstrap utilities
+  - `agent-card-title` → `card-title fw-bold`
+  - `agent-card-description` → `card-text`
+  - `agent-card-subtitle` → `small fw-bold text-white`
+  - `agent-card-text` → `card-text small`
+  - `agent-card-meta` → `small text-white`
+- **Components**: Used Bootstrap components
+  - Status badge: `badge agent-status-badge` (custom styling for theme)
+  - Data access paths: `list-unstyled` with `code` elements
+  - Buttons: Changed from `w-100` to `flex-fill` for responsive layout
 
-### 3. Lilith Nightshade Character Creation
-- **Created**: `reference/Characters/lilith_nightshade.json` - Complete character data
-  - Malkavian Primogen of Phoenix ("The Porcelain Oracle")
-  - Full character profile with appearance, biography, personality, traits, abilities, disciplines
-  - Timeline, domain/haven details, relationships, and status information
-  - Properly formatted to match database schema standards
-- **Created**: `reference/Characters/Images/Lilith Nightshade.png` - Character portrait
-  - AI-generated character image following Valley_by_Night_Character_Art_Guide.json
-- **Created**: `reference/Scenes/Character Teasers/Lilith_Nightshade_Cinematic_Intro.md` - Cinematic introduction
-  - Follows Valley_by_Night_Cinematic_Intro_Guide.md format
-  - Scene cards, GM notes, hooks, and plot foreshadowing
-  - Neo-noir gothic style with proper formatting
+### 3. Card Styling Enhancements
+- **Dark Red Borders**: Added project-themed borders to cards
+  - Removed `border-0` from all card instances
+  - Added CSS rule using `--blood-red` CSS variable (#8B0000)
+  - Borders match project's gothic theme
 
-### 4. Storyteller Prompt Updates
-- **Modified**: `Prompts/Storyteller` - Enhanced character generation prompts
-  - Added appearance description guidelines (200-500 words, 340 target)
-  - Added character history guidelines
-  - World of Darkness gothic/horror atmosphere specifications
-  - Structure guidelines (practical → psychological → gothic/horror)
-  - Specificity requirements (clothing, brands, sensory details, behavioral tells)
-- **Modified**: `Prompts/Character-update110825.md` - Updated character update prompt
-  - Enhanced guidelines for appearance creation
-  - Integration with VbN project context requirements
+### 4. Text Contrast Improvements
+- **Fixed text visibility** on dark background
+  - Replaced all `text-muted` instances with `text-white`
+  - Applied to:
+    - Purpose section labels
+    - Data Access section labels
+    - Code elements for file paths
+    - Last event text
+  - Improved readability on dark background (#0d0606, #1a0f0f)
 
-### 5. Admin & Agent System Updates
-- **Modified**: `admin/admin_panel.php` - Minor updates
-- **Modified**: `admin/agents.php` - Minor updates
-- **Modified**: `agents/character_agent/generate_reports.php` - Code improvements
+### 5. Rumor Agent URL Fix
+- **Fixed placeholder URL** for Rumor Agent launch button
+  - Changed from `"RUMOR_AGENT_URL"` placeholder
+  - Updated to `"rumor_viewer.php"` (admin rumor viewer interface)
+  - Button now correctly links to functional page
 
-### 6. Session Notes Updates
-- **Modified**: `session-notes/2025-01-24-alistaire-character-reference.md` - Session notes
-- **Modified**: `session-notes/2025-11-23-camarilla-positions.md` - Session notes
-
-### 7. Dreamweaver Ignore Rule
-- **Created**: `.cursor/rules/Dreamweaver.mdc` - Rule to ignore Dreamweaver metadata files
-  - Instructs Cursor to ignore `_notes` folders and `dwsync.xml` files
-  - Prevents Dreamweaver artifacts from cluttering codebase analysis
+### 6. CSS Enhancements
+- **Added minimal custom CSS** to `css/admin-agents.css`
+  - Status badge styling with active state support (green for active)
+  - Card footer border and background adjustments
+  - Planned agents section styling with theme colors
+  - Preserved existing JSON display styles for report modals
 
 ## Technical Details
 
-### Database Schema Analysis Findings
-- **Main Issues Identified:**
-  1. Field name inconsistencies (`name` vs `character_name`, `affiliation` vs `camarilla_status`)
-  2. Format inconsistencies (object vs array formats for abilities, disciplines, backgrounds)
-  3. Missing required fields in several JSON files
-  4. Non-database fields that should be moved to `custom_data` JSON column
+### Bootstrap Components Used
+- **Card Structure**: `card`, `card-body`, `card-footer`
+- **Layout**: `d-flex`, `flex-column`, `h-100`, `mt-auto`
+- **Spacing**: `mb-3`, `mb-2`, `gap-2`, `g-3`, `g-lg-4`
+- **Typography**: `fw-bold`, `text-white`, `small`, `card-title`, `card-text`
+- **Components**: `badge`, `list-unstyled`, `code`
+- **Responsive**: `flex-sm-row`, `flex-column`, `col-12`, `col-md-6`, `col-xl-4`
 
-### Character Template Features
-- **Complete Field Coverage**: All database fields represented
-- **Format Examples**: Multiple format options documented (array of objects vs array of strings)
-- **Validation Notes**: Field requirements and constraints documented
-- **Database Mapping**: Clear mapping between JSON fields and database columns
-
-### Lilith Nightshade Character Details
-- **Clan**: Malkavian
-- **Generation**: 9
-- **Title**: Malkavian Primogen of Phoenix
-- **Epithet**: "The Porcelain Oracle"
-- **Status**: Active, Camarilla
-- **Key Features**: Oracle abilities, Victorian-styled appearance, elegant but terrifying presence
+### Button Alignment Solution
+- Cards use `d-flex flex-column` for vertical flex layout
+- `card-footer` uses `mt-auto` to push buttons to bottom
+- Buttons use `flex-fill` for equal width distribution
+- No absolute positioning required - pure Bootstrap flexbox
 
 ## Files Changed
 
-### Created
-- `reference/Characters/CHARACTER_DATABASE_ANALYSIS.md` - Database schema analysis
-- `reference/Characters/character.json` - Standardized character template
-- `reference/Characters/character.json.documentation.md` - Field documentation
-- `reference/Characters/lilith_nightshade.json` - Complete Lilith Nightshade character
-- `reference/Characters/Images/Lilith Nightshade.png` - Character portrait
-- `reference/Scenes/Character Teasers/Lilith_Nightshade_Cinematic_Intro.md` - Cinematic intro
-- `.cursor/rules/Dreamweaver.mdc` - Dreamweaver ignore rule
-
 ### Modified
-- `Prompts/Storyteller` - Enhanced character generation prompts
-- `Prompts/Character-update110825.md` - Updated character update prompt
-- `admin/admin_panel.php` - Minor updates
-- `admin/agents.php` - Minor updates
-- `agents/character_agent/generate_reports.php` - Code improvements
-- `session-notes/2025-01-24-alistaire-character-reference.md` - Session notes
-- `session-notes/2025-11-23-camarilla-positions.md` - Session notes
+- `admin/agents.php` - Complete Bootstrap card refactor
+  - Refactored HTML structure to use Bootstrap components
+  - Replaced custom classes with Bootstrap utilities
+  - Fixed Rumor Agent URL placeholder
+  - Improved text contrast with `text-white`
+- `css/admin-agents.css` - Added minimal custom styling
+  - Status badge styling
+  - Card border styling
+  - Card footer adjustments
+  - Planned agents section styling
+- `includes/version.php` - Version increment (0.7.3 → 0.7.4)
+- `VERSION.md` - Added version entry with changelog
 
 ## Benefits
 
-1. **Standardization**: Character template provides consistent format for all future characters
-2. **Documentation**: Comprehensive analysis helps identify and fix inconsistencies
-3. **Quality Control**: Field documentation ensures proper data structure
-4. **Character Development**: Complete Lilith Nightshade reference with image and cinematic intro
-5. **Prompt Improvement**: Enhanced Storyteller prompts for better character generation
+1. **Bootstrap Alignment**: Page now fully uses Bootstrap components and utilities
+2. **Maintainability**: Standard Bootstrap structure is easier to maintain
+3. **Consistency**: Matches Bootstrap patterns used elsewhere in the project
+4. **Responsive Design**: Better button layout with `flex-fill` for responsive behavior
+5. **Accessibility**: Improved text contrast for better readability
+6. **Functionality**: Fixed Rumor Agent URL so button works correctly
 
 ## Next Steps
 
-- Use character.json template for all new character creation
-- Update existing JSON files to match standardized format (prioritize high-priority files)
-- Continue character creation using enhanced Storyteller prompts
-- Generate character portraits following Valley_by_Night_Character_Art_Guide.json
-- Create cinematic intros for remaining characters
-
----
+- Consider applying similar Bootstrap card refactor to other admin pages
+- Review other pages for text contrast issues on dark backgrounds
+- Continue standardizing UI components across admin interface

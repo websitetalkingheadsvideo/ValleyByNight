@@ -1,0 +1,199 @@
+{
+  "character_name": "Lilith Nightshade",
+  "chronicle": "Valley by Night",
+  "plot_hooks": [
+    {
+      "title": "Seen Through Your Eyes",
+      "type": "Vision / Personal Destiny",
+      "difficulty": "Easy to Medium",
+      "setup": "During a relatively calm night in Elysium or at the Violet Reliquary, Lilith suddenly fixes \"that\" look on a PC and falls briefly into a vision.",
+      "hook": "Lilith describes in unnerving detail a small but specific moment the PC has not yet experienced — a stranger’s voice behind them, a broken watch they haven’t found, or a betrayal they haven’t committed.",
+      "objectives": [
+        "Understand what future moment Lilith is describing and where it might occur.",
+        "Decide whether to avoid, delay, or deliberately fulfill the future she has seen."
+      ],
+      "complications": [
+        "Other NPCs overhear parts of the prophecy and try to manipulate the PC into fulfilling or preventing it.",
+        "The PC’s attempts to avoid the vision unintentionally move them closer to making it happen."
+      ],
+      "themes": [
+        "Fate vs. free will",
+        "Prophecy as burden",
+        "Self-fulfilling visions"
+      ],
+      "potential_outcomes": [
+        "The PC fulfills the vision exactly, gaining eerie trust in Lilith’s powers.",
+        "The PC alters the circumstances but cannot escape the core event.",
+        "The PC appears to avert the vision… only to realize it manifested in a different, darker way."
+      ],
+      "opportunity": "A character-defining choice about whether the PC embraces or resists a foretold future.",
+      "value": "Introduces Lilith as a personal oracle and establishes the tone of visions in the chronicle.",
+      "twist_options": [
+        "The vision was actually borrowed from another Malkavian’s perspective.",
+        "The vision was focused on a different character, but the PC misinterpreted it."
+      ],
+      "emotional_stakes": "The PC feels singled out by the universe — or by the Madness Network — and must decide what that means for their identity.",
+      "character_moment": "Lilith shows a rare, fragile concern for how much future she should share.",
+      "escalation": "Subsequent visions about the same PC become sharper, more specific, and harder to ignore.",
+      "twist": "The vision’s true subject is not the PC, but someone they will come to care about.",
+      "hook_options": [
+        "Lilith singles out a PC the first time they meet.",
+        "The vision occurs after the PC has already heard rumors about her accuracy."
+      ],
+      "pc_involvement": "The PC is the center of the vision and must decide how literally to treat Lilith’s words.",
+      "stakes": "Success gives the PC more control over the outcome; failure deepens their sense of being a pawn in someone else’s story.",
+      "role_for_pcs": [
+        "Subject of the prophecy",
+        "Interpreter of their own future"
+      ],
+      "deeper_layer": "The Madness Network may be using Lilith to place the PC into a specific role in the city’s future.",
+      "the_task": "Track the symbols, people, and locations that match Lilith’s description and choose how to act when they appear.",
+      "task_examples": [
+        "Recognize the stranger’s voice in a crowded club.",
+        "Notice a broken watch in a crime scene.",
+        "Realize the small betrayal moment before deciding whether to commit it."
+      ],
+      "complication": "Lilith herself is uncertain whether the vision is fixed or still malleable.",
+      "options": [
+        "Ignore the prophecy.",
+        "Attempt to subvert the details.",
+        "Lean into the vision to exploit it."
+      ],
+      "investigation": "Follow symbolic clues from the vision to real-world locations or NPCs.",
+      "structure": {
+        "act_i": {
+          "name": "The Vision",
+          "plays": [
+            "Lilith experiences the vision and publicly or privately addresses the PC.",
+            "Other Kindred react with unease or interest in the prophecy."
+          ]
+        },
+        "act_ii": {
+          "name": "Chasing Signs",
+          "plays": [
+            "The PC encounters fragments of the foretold moment.",
+            "Choices alter the timing or context of the coming event."
+          ]
+        },
+        "act_iii": {
+          "name": "The Moment Arrives",
+          "plays": [
+            "The vision manifests in some form.",
+            "The PC deals with the emotional and political fallout."
+          ]
+        }
+      },
+      "failure_points": [
+        "The PC ignores the prophecy and is blindsided by the event.",
+        "The PC overcorrects and causes collateral damage trying to avoid it."
+      ],
+      "resources": [
+        "Lilith’s willingness to clarify symbols (cryptically).",
+        "Other Malkavians who might have seen adjacent visions."
+      ]
+    },
+    {
+      "title": "The Glass Shatter Moment",
+      "type": "Investigation / Murder Foreshadowing",
+      "difficulty": "Medium",
+      "setup": "Lilith suffers a violent vision in Elysium or her haven: hands not her own, a crystal goblet, shattering glass, and blood.",
+      "hook": "She asks the PCs to help identify whose perspective she borrowed and where the scene takes place before it actually happens.",
+      "objectives": [
+        "Identify the location glimpsed in the vision from environmental details.",
+        "Determine whose hands were holding the glass and why blood was present.",
+        "Prevent or exploit the coming event tied to the Prince’s death or another assassination."
+      ],
+      "complications": [
+        "Multiple locations in Phoenix match the vague description.",
+        "Several NPCs use crystal goblets in Elysium, implicating high-status Kindred."
+      ],
+      "themes": [
+        "Foreknowledge of violence",
+        "Trust and suspicion in the Court",
+        "Glass as fragile power"
+      ],
+      "potential_outcomes": [
+        "The PCs arrive in time to prevent a killing, changing the political board.",
+        "The vision plays out exactly, but the PCs gain valuable evidence.",
+        "The PCs misidentify the location and someone else dies in the “wrong” place."
+      ],
+      "opportunity": "Connect Lilith’s visions directly to the Prince’s murder arc or a major assassination attempt.",
+      "value": "Gives the PCs an investigative role with real stakes in Court politics.",
+      "twist_options": [
+        "The vision is of the past, not the future, revealing a covered-up crime.",
+        "The blood in the vision belongs to a PC, not the eventual victim."
+      ],
+      "emotional_stakes": "If they fail, the PCs must live with the knowledge that they saw the warning and still couldn’t change it.",
+      "character_moment": "Lilith visibly struggles with whether to share all she saw, implying personal cost for carrying these images.",
+      "escalation": "Subsequent visions show clearer angles or new participants, pulling the PCs deeper.",
+      "twist": "The glass shattering is a signal, not an accident — part of a prearranged code between conspirators.",
+      "hook_options": [
+        "Lilith collapses mid-conversation with a PC.",
+        "Her vision interrupts a formal Court announcement."
+      ],
+      "pc_involvement": "PCs become front-line investigators who must interpret symbolic psychic evidence.",
+      "stakes": "Success prevents or redirects a killing; failure costs a major NPC or accelerates city-wide chaos.",
+      "role_for_pcs": [
+        "Investigators",
+        "Interpreters of prophecy",
+        "Potential scapegoats if things go wrong"
+      ],
+      "deeper_layer": "Certain factions may want the PCs to misinterpret the vision, feeding them false “confirmations.”",
+      "the_task": "Match vision details (furnishings, music, view from windows) to real Phoenix locations.",
+      "task_examples": [
+        "Check high-end Elysium-adjacent venues.",
+        "Compare glassware styles among Primogen.",
+        "Look for a location where the ambient sound matches the vision."
+      ],
+      "complication": "Every NPC the PCs question now knows Lilith is having specific visions about murder.",
+      "options": [
+        "Warn potential victims.",
+        "Quietly observe and gather evidence.",
+        "Leak parts of the vision to pit factions against each other."
+      ],
+      "investigation": "Standard street/Influence investigation plus Auspex-powered interviews and cross-referencing Lilith’s symbolic cues.",
+      "structure": {
+        "act_i": {
+          "name": "The Shattering Vision",
+          "plays": [
+            "Lilith experiences the vision and shares it with the PCs.",
+            "The PCs gather the initial set of symbolic details."
+          ]
+        },
+        "act_ii": {
+          "name": "Hunting the Scene",
+          "plays": [
+            "The PCs check likely locations and suspects.",
+            "False leads and faction interference slow progress."
+          ]
+        },
+        "act_iii": {
+          "name": "When the Glass Breaks",
+          "plays": [
+            "The scene from the vision unfolds.",
+            "PCs intervene or witness, reshaping the narrative."
+          ]
+        }
+      },
+      "failure_points": [
+        "Arriving too late to save the victim.",
+        "Triggering political backlash by accusing the wrong person."
+      ],
+      "resources": [
+        "Lilith’s follow-up visions.",
+        "Nosferatu or Tremere willing to quietly help verify details."
+      ]
+    }
+  ],
+  "meta_hooks": [],
+  "usage_notes": {
+    "scaling": "Start with smaller, personal hooks like 'Seen Through Your Eyes' to introduce Lilith’s tone and cost, then move into city-shaping hooks as PCs gain influence.",
+    "difficulty_guide": {
+      "Easy": "Low-risk, primarily character-building hooks.",
+      "Medium": "Hooks that impact local politics and key NPCs.",
+      "Hard": "Hooks tied to Prince’s death and Madness Network stability."
+    },
+    "combination": "Run one personal hook in parallel with one investigative hook to keep Lilith relevant without dominating every scene.",
+    "character_growth": "These hooks push PCs to decide how much they trust prophecy and whether they will protect or exploit an oracle."
+  }
+}
