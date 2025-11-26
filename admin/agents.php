@@ -91,6 +91,31 @@ $agents = [
             ]
         ]
     ],
+    [
+        "name" => "Boon Agent",
+        "slug" => "boon_agent",
+        "description" => "Monitors and validates boons according to Laws of the Night Revised mechanics. Tracks favor-debt, detects violations, integrates with Harpy systems, and analyzes the social economy of prestation.",
+        "data_access" => [
+            "/admin/boon_ledger.php",
+            "/admin/api_boons.php",
+            "boons table",
+            "/agents/boon_agent/reports/",
+            "/agents/boon_agent/logs/"
+        ],
+        "purpose" => "Validate boon mechanics, detect dead debts, flag unregistered boons, track scandal violations, and provide insights into the boon economy. Integrates with Harpy positions for registration tracking.",
+        "status" => "Active",
+        "last_event" => "Ready to monitor boons and validate mechanics.",
+        "actions" => [
+            [
+                "label" => "Launch Boon Agent",
+                "url" => "boon_agent_viewer.php"
+            ],
+            [
+                "label" => "View Boon Ledger",
+                "url" => "boon_ledger.php"
+            ]
+        ]
+    ],
     // Future agents can be appended here.
 ];
 
@@ -162,7 +187,6 @@ include __DIR__ . '/../includes/header.php';
         <h2 class="mb-2">Planned Agents</h2>
         <p class="mb-3">Coming soon — additional automated agents to deepen chronicle support:</p>
         <ul class="planned-agents-list mb-0">
-            <li>Boon Agent — monitors boons and favors, integrating with Harpy and Talons systems.</li>
             <li>Influence Agent — surfaces mortal influence opportunities across Bureaucracy, Law, Finance, and more.</li>
             <li>Lore/History Agent — answers city history questions and maintains a living timeline.</li>
         </ul>

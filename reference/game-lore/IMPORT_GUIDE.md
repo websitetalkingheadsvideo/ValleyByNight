@@ -2,14 +2,23 @@
 
 ## Quick Start
 
-**To import any character JSON file:**
+**To import character JSON files:**
 
-1. **Upload JSON file** to `data/` folder (e.g., `Character Name.json`)
-2. **Run import script** via web browser:
+1. **Place JSON file** in `reference/Characters/` folder (e.g., `Misfortune.json`)
+2. **Run import script** via web browser or CLI:
+   
+   **Web Browser:**
    ```
-   https://www.websitetalkingheads.com/vbn/data/import_character.php?file=Character%20Name.json
+   https://vbn.talkingheads.video/database/import_characters.php?file=Misfortune.json
+   https://vbn.talkingheads.video/database/import_characters.php?all=1
    ```
-3. **Check results** - Script will show success or detailed error
+   
+   **Command Line:**
+   ```bash
+   php database/import_characters.php Misfortune.json
+   php database/import_characters.php  # Imports all JSON files
+   ```
+3. **Check results** - Script will show success or detailed error summary
 
 ## JSON File Format
 
@@ -67,14 +76,31 @@ Characters must be in JSON format matching `character-example.json`:
 
 ## Examples
 
-### Import Rembrandt Jones:
+### Import Single Character (Misfortune):
+**Web:**
 ```
-https://www.websitetalkingheads.com/vbn/data/import_character.php?file=Rembrandt%20Jones.json
+https://vbn.talkingheads.video/database/import_characters.php?file=Misfortune.json
+```
+
+**CLI:**
+```bash
+php database/import_characters.php Misfortune.json
+```
+
+### Import All Characters:
+**Web:**
+```
+https://vbn.talkingheads.video/database/import_characters.php?all=1
+```
+
+**CLI:**
+```bash
+php database/import_characters.php
 ```
 
 ### Import Another Character:
-1. Create `data/Alice Tremere.json` with character data
-2. Visit: `https://www.websitetalkingheads.com/vbn/data/import_character.php?file=Alice%20Tremere.json`
+1. Place JSON file in `reference/Characters/` folder (e.g., `Alice Tremere.json`)
+2. Run import script with filename
 3. Check output for success or errors
 
 ## Troubleshooting
@@ -85,9 +111,9 @@ https://www.websitetalkingheads.com/vbn/data/import_character.php?file=Rembrandt
    - Add `?file=Filename.json` to URL
 
 2. **"JSON file not found"**
-   - Ensure file is uploaded to `data/` folder
+   - Ensure file is in `reference/Characters/` folder
    - Check filename spelling (case-sensitive)
-   - URL-encode spaces as `%20`
+   - URL-encode spaces as `%20` in web URLs
 
 3. **"Failed to parse JSON"**
    - Validate JSON at jsonlint.com
@@ -100,13 +126,11 @@ https://www.websitetalkingheads.com/vbn/data/import_character.php?file=Rembrandt
 
 ## Files
 
-- **`import_character.php`** - Generic import script (use this)
-- **`import_rembrandt.php`** - Specific example for Rembrandt Jones
-- **`character-example.json`** - Template/example format
-- **`Rembrandt Jones.json`** - Complete example character
-- **`list_characters.php`** - View all characters
-- **`view_character.php`** - View individual character sheet
-- **`delete_character.php`** - Delete character with confirmation
+- **`database/import_characters.php`** - Main import script (use this)
+- **`reference/Characters/`** - Directory containing character JSON files
+- **`reference/Characters/character.json`** - Template/example format
+- **`reference/Characters/Misfortune.json`** - Complete example character
+- **`admin/view_character_api.php`** - View character data via API
 
 ## Character Management
 
@@ -123,8 +147,23 @@ https://www.websitetalkingheads.com/vbn/data/import_character.php?file=Rembrandt
 
 - All imports use **user_id = 1** (admin/ST account)
 - Imports are **transactional** - rolls back on error
+- **Upsert behavior**: Characters are identified by `character_name`
+  - If character exists: Updates all fields and related tables
+  - If character is new: Inserts new record
 - Character IDs auto-increment
-- Deleting characters is permanent (no undo!)
+- Script handles multiple JSON format variations automatically
 - Database connection info in `includes/connect.php`
 - Remote database at `vdb5.pit.pair.com`
+
+## Supported JSON Format Variations
+
+The import script automatically handles:
+- Field name variations (`name` → `character_name`, `affiliation` → `camarilla_status`)
+- Nested status objects (`status.xp_total`, `status_details.xp_total`)
+- Multiple ability formats (array of objects, array of strings, object with categories)
+- Multiple discipline formats (array of objects, array of strings, object format)
+- Experience field variations (`xp_total`, `total_xp`, `status.xp_total`)
+- Appearance as object or string
+
+See `reference/Characters/CHARACTER_DATABASE_ANALYSIS.md` for detailed format documentation.
 
