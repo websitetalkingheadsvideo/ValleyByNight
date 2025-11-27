@@ -1,6 +1,35 @@
 # Version History
 
-## Current Version: 0.7.5
+## Current Version: 0.8.0
+
+**Date:** 2025-01-26  
+**Type:** Minor (Misfortune's Boon Generation System - New Working Feature)
+
+### Changes:
+- **Misfortune's Boon Generation System** - Complete automated boon generation system for character "Misfortune"
+  - Creates character-specific boons with every NPC in the database (34 NPCs)
+  - Deterministic tier distribution: 5% Major, 25% Minor, 70% Trivial (achieved 5.9%, 23.5%, 70.6%)
+  - Character-tailored descriptions based on NPC attributes (clan, generation, concept, biography, title, role)
+  - Clan-specific templates for all major clans (Malkavian, Tremere, Nosferatu, Toreador, Ventrue, Gangrel, Brujah, Followers of Set, Giovanni)
+  - Role-aware descriptions for Primogen, elders, and important characters
+  - Theme-based variations for researchers, merchants, information brokers
+  - Hash-based deterministic assignment ensures consistent results across runs
+  - Idempotent operation checks for existing boons and skips NPCs already having boons
+  - Full Harpy integration: auto-registers all boons with Harpy system (Cordelia Fairchild)
+  - Comprehensive error handling with detailed debugging information
+  - Transaction-based database operations for data integrity
+  - Distribution validation and reporting
+- **Database Integration Improvements**
+  - Fixed foreign key constraint handling for `created_by` field (auto-locates valid user ID)
+  - Proper NULL handling for optional fields
+  - System user ID lookup function for system-generated records
+- **Boon Description Generator** - Advanced character-specific description generation
+  - 50+ unique templates across all boon tiers
+  - Incorporates Misfortune's role as "Boon Collector" and Harpy network facilitator
+  - Authentic to Laws of the Night Revised mechanics and World of Darkness lore
+  - Tailored to Valley by Night setting
+
+## Previous Version: 0.7.5
 
 **Date:** 2025-11-26  
 **Type:** Patch (Boon Agent Integration, Storyteller Prompt Updates, Import Guide Improvements)
