@@ -27,7 +27,7 @@ if ($script_dir === '/') {
 <link rel="stylesheet" href="<?php echo htmlspecialchars($path_prefix . 'css/character_view.css', ENT_QUOTES, 'UTF-8'); ?>">
 
 <!-- Character View Modal -->
-<div class="modal fade" id="<?php echo htmlspecialchars($modalId); ?>" tabindex="-1" aria-labelledby="viewCharacterName" aria-hidden="true">
+<div class="modal fade" id="<?php echo htmlspecialchars($modalId); ?>" tabindex="-1" aria-labelledby="viewCharacterName" aria-hidden="true" data-fullscreen="true">
     <div class="modal-dialog modal-xl modal-dialog-scrollable">
         <div class="modal-content character-view-modal">
             <div class="modal-header align-items-start flex-wrap gap-2">

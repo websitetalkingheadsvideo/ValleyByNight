@@ -1,0 +1,62 @@
+/**
+ * Modal Fullscreen Styles
+ * Adds fullscreen functionality to Bootstrap modals
+ */
+
+/* Fullscreen modal state */
+.modal.fullscreen {
+    padding: 0 !important;
+}
+
+.modal.fullscreen .modal-dialog {
+    max-width: 100%;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+.modal.fullscreen .modal-content {
+    height: 100vh;
+    border-radius: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.modal.fullscreen .modal-body {
+    flex: 1;
+    overflow: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Fullscreen button styling */
+.modal-fullscreen-btn {
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    background: transparent;
+    color: inherit;
+    padding: 0.25rem 0.5rem;
+    font-size: 1rem;
+    line-height: 1;
+    transition: all 0.2s ease;
+}
+
+.modal-fullscreen-btn:hover {
+    background: rgba(255, 255, 255, 0.1);
+    border-color: rgba(255, 255, 255, 0.5);
+}
+
+.modal-fullscreen-btn:focus {
+    box-shadow: 0 0 0 0.25rem rgba(255, 255, 255, 0.25);
+}
+
+/* Ensure content expands properly in fullscreen */
+.modal.fullscreen .modal-body > *:last-child {
+    flex: 1;
+}
+
+/* Prevent overflow issues in fullscreen */
+.modal.fullscreen .modal-header,
+.modal.fullscreen .modal-footer {
+    flex-shrink: 0;
+}
+

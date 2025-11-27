@@ -467,7 +467,7 @@ if (!empty($pcId)) {
     </div>
     
     <!-- View Rumor Modal -->
-    <div class="modal fade" id="viewRumorModal" tabindex="-1" aria-labelledby="viewRumorTitle" aria-modal="true" role="dialog">
+    <div class="modal fade" id="viewRumorModal" tabindex="-1" aria-labelledby="viewRumorTitle" aria-modal="true" role="dialog" data-fullscreen="true">
         <div class="modal-dialog modal-xl modal-dialog-scrollable">
             <div class="modal-content character-view-modal">
                 <div class="modal-header align-items-start flex-wrap gap-2">

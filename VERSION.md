@@ -1,6 +1,35 @@
 # Version History
 
-## Current Version: 0.8.0
+## Current Version: 0.8.2
+
+**Date:** 2025-01-26  
+**Type:** Patch (Universal Modal Fullscreen System & Boon Relationships Graph)
+
+### Changes:
+- **Universal Modal Fullscreen System** - Reusable fullscreen functionality for all Bootstrap modals
+  - Shared CSS (`css/modal_fullscreen.css`) and JavaScript (`js/modal_fullscreen.js`) files
+  - Automatic fullscreen button injection via `data-fullscreen="true"` attribute
+  - Custom resize handler support for graphs/charts via `data-fullscreen-resize-handler`
+  - State management with automatic reset when modal closes
+  - Integrated into header.php and footer.php for global availability
+  - Added to 7 modals across the project (Character View, Position View, Boon Relationships, Report Result, View Rumor, Tree Modal, Report View)
+- **Boon Relationships Graph Visualization** - Interactive network graph for boon relationships
+  - Visual representation of creditor → debtor relationships between characters
+  - Uses vis-network library for interactive graph rendering
+  - Color-coded edges by boon type (Trivial=gray, Minor=gold, Major=dark red, Life=black)
+  - Edge width varies by boon importance (1-4px)
+  - Physics-based automatic layout with zoom, pan, and drag support
+  - Only displays active boons (excludes fulfilled/cancelled)
+  - Custom resize handler for fullscreen mode
+- **Path Prefix Fix** - Fixed path prefix calculation in footer.php to match header.php logic
+- **Modal Integration** - Added fullscreen support to key modals throughout admin interface
+
+## Previous Version: 0.8.1
+
+**Date:** 2025-01-26  
+**Type:** Patch (Version sync update)
+
+## Previous Version: 0.8.0
 
 **Date:** 2025-01-26  
 **Type:** Minor (Misfortune's Boon Generation System - New Working Feature)
