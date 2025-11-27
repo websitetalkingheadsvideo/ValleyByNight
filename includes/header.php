@@ -65,6 +65,7 @@ $current_page = basename($_SERVER['PHP_SELF']);
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=IM+Fell+English+SC&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Nosifer&family=Source+Serif+Pro:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="<?php echo $path_prefix; ?>css/modal_fullscreen.css">
     <script src="<?php echo $path_prefix; ?>js/logo-animation.js"></script>
     <script src="<?php echo $path_prefix; ?>js/form_validation.js"></script>
     <script src="<?php echo $path_prefix; ?>js/modal_a11y.js"></script>

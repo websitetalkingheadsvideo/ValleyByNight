@@ -556,7 +556,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['generate'])) {
 </div>
 
 <!-- Report View Modal -->
-<div class="modal fade" id="reportViewModal" tabindex="-1" aria-labelledby="reportViewModalLabel" aria-hidden="true">
+<div class="modal fade" id="reportViewModal" tabindex="-1" aria-labelledby="reportViewModalLabel" aria-hidden="true" data-fullscreen="true">
     <div class="modal-dialog modal-xl modal-dialog-scrollable">
         <div class="modal-content bg-dark border-danger">
             <div class="modal-header border-danger">

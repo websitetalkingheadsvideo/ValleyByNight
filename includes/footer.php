@@ -5,10 +5,16 @@
             <div class="footer-content">
                 <p class="footer-title">
                     <?php
-                    // Use path prefix determined in header.php
-                    $current_dir = dirname($_SERVER['PHP_SELF']);
-                    $in_subfolder = ($current_dir !== '/' && $current_dir !== '' && basename($current_dir) !== basename($_SERVER['DOCUMENT_ROOT']));
-                    $path_prefix = $in_subfolder ? '../' : '';
+                    // Calculate path prefix (same logic as header.php)
+                    $script_name = $_SERVER['SCRIPT_NAME'];
+                    $script_dir = dirname($script_name);
+                    if ($script_dir === '/') {
+                        $path_prefix = '';
+                    } else {
+                        $path_segments = trim($script_dir, '/');
+                        $segment_count = $path_segments === '' ? 0 : substr_count($path_segments, '/') + 1;
+                        $path_prefix = str_repeat('../', $segment_count);
+                    }
                     ?>
                     <a href="<?php echo $path_prefix; ?>index.php">Valley by Night</a>
                 </p>
@@ -26,7 +32,9 @@
     </footer>
 </div> <!-- End page-wrapper -->
 <!-- Bootstrap 5.3.2 JS Bundle - Load before closing body tag -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous" defer></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+<!-- Modal Fullscreen Functionality -->
+<script src="<?php echo $path_prefix; ?>js/modal_fullscreen.js"></script>
 </body>
 </html>
 

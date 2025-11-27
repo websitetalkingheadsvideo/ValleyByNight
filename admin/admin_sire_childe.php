@@ -291,7 +291,7 @@ include __DIR__ . '/../includes/header.php';
 </div>
 
 <!-- Family Tree Modal -->
-<div class="modal fade" id="treeModal" tabindex="-1" aria-labelledby="treeModalLabel" aria-hidden="true">
+<div class="modal fade" id="treeModal" tabindex="-1" aria-labelledby="treeModalLabel" aria-hidden="true" data-fullscreen="true">
     <div class="modal-dialog modal-lg">
         <div class="modal-content bg-dark border-danger">
             <div class="modal-header border-danger">
