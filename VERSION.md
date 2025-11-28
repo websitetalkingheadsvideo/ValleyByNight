@@ -1,6 +1,49 @@
 # Version History
 
-## Current Version: 0.8.2
+## Current Version: 0.8.4
+
+**Date:** 2025-01-26  
+**Type:** Patch (Configuration Updates & Documentation Refinements)
+
+### Changes:
+- **MCP Configuration Updates** - Enhanced MCP server configuration for better agent integration
+  - Updated MCP server settings for improved agent communication
+  - Refined configuration for Character Agent, Boon Agent, and other agent systems
+- **Character Database Analysis** - Enhanced character database documentation
+  - Updated CHARACTER_DATABASE_ANALYSIS.md with field mapping details
+  - Improved character schema documentation and field consistency notes
+- **Character Reference Updates** - Updated character reference files
+  - Updated Eddy Valiant character sheet with latest data
+  - Enhanced character.json template with improved field documentation
+- **Session Documentation** - Updated session notes with implementation details
+  - Enhanced boon agent UI improvements documentation
+  - Updated Camarilla positions session notes
+  - Added Wraith character system implementation notes
+- **Agent Configuration** - Refined agent dashboard configuration
+  - Updated agents.php with improved agent status and action configurations
+
+## Previous Version: 0.8.3
+
+**Date:** 2025-01-26  
+**Type:** Patch (Wraith Character System Foundation)
+
+### Changes:
+- **Wraith Character System Foundation** - Complete foundation for Wraith: The Oblivion character management
+  - New `wraith_characters` database table with all Wraith-specific fields (shadow name, circle, guild, arcanoi, pathos/corpus, angst)
+  - Database migration script (`database/create_wraith_characters_table.php`) with idempotent table creation
+  - Character creation form (`wraith_char_create.php`) with 5-page wizard structure
+  - Admin panel (`admin/wraith_admin_panel.php`) for viewing and managing Wraith characters
+  - Save handler (`includes/save_wraith_character.php`) for persisting character data
+  - View API (`admin/view_wraith_character_api.php`) for character data retrieval
+  - JavaScript module (`js/wraith_char_create.js`) for form handling
+  - CSS styling (`css/wraith_char_create.css`) for Wraith-specific pages
+  - Complete schema template (`reference/Characters/wraith_character.json`)
+  - Implementation plan and field mapping documentation
+  - Parallel system design - does not affect existing VtM character system
+  - Removed VtM-specific fields (clan, generation, sire, disciplines, blood pool)
+  - Added Wraith-specific mechanics (fetters, passions, arcanoi, shadow, pathos/corpus, harrowing)
+
+## Previous Version: 0.8.2
 
 **Date:** 2025-01-26  
 **Type:** Patch (Universal Modal Fullscreen System & Boon Relationships Graph)
