@@ -324,8 +324,21 @@ try {
             // Insert abilities
             // Data format: { Physical: ['Athletics', 'Athletics', 'Brawl'], Social: [...], Mental: [...] }
             // Count occurrences to get level
-            $insert_sql = "INSERT INTO character_abilities (character_id, ability_name, level, specialization) 
-                         VALUES (?, ?, ?, ?)";
+            // Check if ability_category column exists in character_abilities table
+            $check_column_sql = "SHOW COLUMNS FROM character_abilities LIKE 'ability_category'";
+            $column_check = mysqli_query($conn, $check_column_sql);
+            $has_category_column = ($column_check && mysqli_num_rows($column_check) > 0);
+            if ($column_check) {
+                mysqli_free_result($column_check);
+            }
+            
+            if ($has_category_column) {
+                $insert_sql = "INSERT INTO character_abilities (character_id, ability_name, ability_category, level, specialization) 
+                             VALUES (?, ?, ?, ?, ?)";
+            } else {
+                $insert_sql = "INSERT INTO character_abilities (character_id, ability_name, level, specialization) 
+                             VALUES (?, ?, ?, ?)";
+            }
             $ability_stmt = mysqli_prepare($conn, $insert_sql);
             
             if ($ability_stmt) {
@@ -366,12 +379,22 @@ try {
                             }
                         }
                         
-                        mysqli_stmt_bind_param($ability_stmt, 'isis', 
-                            $character_id,
-                            $abilityName,
-                            $level,
-                            $specialization
-                        );
+                        if ($has_category_column) {
+                            mysqli_stmt_bind_param($ability_stmt, 'issis', 
+                                $character_id,
+                                $abilityName,
+                                $category,
+                                $level,
+                                $specialization
+                            );
+                        } else {
+                            mysqli_stmt_bind_param($ability_stmt, 'isis', 
+                                $character_id,
+                                $abilityName,
+                                $level,
+                                $specialization
+                            );
+                        }
                         
                         if (mysqli_stmt_execute($ability_stmt)) {
                             $ability_count++;

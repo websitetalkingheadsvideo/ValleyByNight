@@ -96,10 +96,10 @@
   "research_notes": {},
   "artifacts": [],
   "custom_data": null,
-  "experience_total": 0,
-  "experience_spent": 0,
-  "clan_logo_url": "",
-  "current_state": "",
+  "actingNotes": "",
+  "agentNotes": "",
+  "health_status": "",
+  "morality_path": "Humanity",
   "created_at": "",
   "updated_at": "",
   "_field_descriptions": {
@@ -122,7 +122,13 @@
     "morality.willpower_permanent": "Integer: 1-10 (permanent willpower rating)",
     "morality.willpower_current": "Integer: Current willpower (can be lower than permanent)",
     "coteries": "Array of objects: [{\"coterie_name\": \"...\", \"coterie_type\": \"...\", \"role\": \"...\", \"description\": \"...\", \"notes\": \"...\"}]",
-    "relationships": "Array of objects: [{\"related_character_name\": \"...\", \"relationship_type\": \"...\", \"relationship_subtype\": \"...\", \"strength\": \"...\", \"description\": \"...\"}]"
+    "relationships": "Array of objects: [{\"related_character_name\": \"...\", \"relationship_type\": \"...\", \"relationship_subtype\": \"...\", \"strength\": \"...\", \"description\": \"...\"}]",
+    "actingNotes": "String: Notes for acting/directing this character",
+    "agentNotes": "String: Notes for AI agent interaction with this character",
+    "health_status": "String: Current health status description",
+    "morality_path": "String: Path of morality (e.g., 'Humanity', 'Path of Blood', etc.) - duplicate of morality.path_name at top level for DB mapping",
+    "created_at": "String/Date: ISO 8601 date-time when character was created",
+    "updated_at": "String/Date: ISO 8601 date-time when character was last updated"
   }
 }
 

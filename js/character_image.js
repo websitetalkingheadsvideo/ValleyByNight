@@ -262,7 +262,8 @@ class CharacterImageManager {
         if (imagePath) {
             // User uploaded image - construct full path from filename
             // imagePath is just a filename, need to prepend the uploads directory
-            const fullImagePath = imagePath.startsWith('/') ? imagePath : `/uploads/characters/${imagePath}`;
+            // Use relative path that works from character editor context
+            const fullImagePath = imagePath.startsWith('/') || imagePath.startsWith('http') ? imagePath : `uploads/characters/${imagePath}`;
             if (preview) {
                 preview.src = fullImagePath;
                 preview.style.display = 'block';
@@ -282,15 +283,55 @@ class CharacterImageManager {
                 uploadBtn.style.display = 'none';
             }
         } else {
-            // No user image - show clan SVG fallback if clan is set
+            // No user image - show clan logo fallback if clan is set
             if (clan) {
-                const clanSVG = `/images/svgs/${clan}.svg`;
-                if (preview) {
-                    preview.src = clanSVG;
-                    preview.style.display = 'block';
-                    preview.classList.add('clan-icon');
+                // Map clan names to logo filenames
+                const clanMap = {
+                    'assamite': 'LogoClanAssamite.webp',
+                    'brujah': 'LogoClanBrujah.webp',
+                    'followers of set': 'LogoClanFollowersofSet.webp',
+                    'setite': 'LogoClanFollowersofSet.webp',
+                    'daughter of cacophony': 'LogoBloodlineDaughtersofCacophony.webp',
+                    'daughters of cacophony': 'LogoBloodlineDaughtersofCacophony.webp',
+                    'gangrel': 'LogoClanGangrel.webp',
+                    'giovanni': 'LogoClanGiovanni.webp',
+                    'lasombra': 'LogoClanLasombra.webp',
+                    'malkavian': 'LogoClanMalkavian.webp',
+                    'nosferatu': 'LogoClanNosferatu.webp',
+                    'ravnos': 'LogoClanRavnos.webp',
+                    'toreador': 'LogoClanToreador.webp',
+                    'tremere': 'LogoClanTremere.webp',
+                    'tzimisce': 'LogoClanTzimisce.webp',
+                    'ventrue': 'LogoClanVentrue.webp',
+                    'caitiff': 'LogoBloodlineCaitiff.webp',
+                    'ghoul': 'Ghoul_Symbol.webp'
+                };
+                
+                // Clean clan name and get logo filename
+                let cleanClan = String(clan).trim().toLowerCase();
+                // Remove emoji and special characters
+                cleanClan = cleanClan.replace(/[\uD800-\uDBFF][\uDC00-\uDFFF]/g, '');
+                cleanClan = cleanClan.replace(/[^\x00-\x7F]/g, '');
+                
+                const logoFile = clanMap[cleanClan] || null;
+                
+                if (logoFile) {
+                    // Use relative path that works from character editor context
+                    const clanLogoPath = `images/Clan Logos/${logoFile}`;
+                    if (preview) {
+                        preview.src = clanLogoPath;
+                        preview.style.display = 'block';
+                        preview.classList.add('clan-icon');
+                    }
+                    if (placeholder) placeholder.style.display = 'none';
+                } else {
+                    // Clan not found in map - show default placeholder
+                    if (preview) {
+                        preview.style.display = 'none';
+                        preview.src = '';
+                    }
+                    if (placeholder) placeholder.style.display = 'flex';
                 }
-                if (placeholder) placeholder.style.display = 'none';
             } else {
                 // No clan either - show default placeholder
                 if (preview) {

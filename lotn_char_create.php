@@ -37,12 +37,79 @@ if ($conn) {
     // This prevents 500 errors if archetypes table hasn't been created yet
 }
 
+// Load abilities from database grouped by category
+$abilities_by_category = [
+    'Physical' => [],
+    'Social' => [],
+    'Mental' => [],
+    'Optional' => []
+];
+if ($conn) {
+    $abilities_query = "SELECT name, category, display_order FROM abilities ORDER BY category, display_order ASC";
+    $abilities_result = @mysqli_query($conn, $abilities_query);
+    if ($abilities_result) {
+        while ($row = mysqli_fetch_assoc($abilities_result)) {
+            $category = $row['category'];
+            if (isset($abilities_by_category[$category])) {
+                $abilities_by_category[$category][] = $row;
+            }
+        }
+        mysqli_free_result($abilities_result);
+    }
+    // If query failed or table doesn't exist, fall back to empty arrays
+    // This prevents 500 errors if abilities table hasn't been created yet
+}
+
 $extra_css = [
   'css/style.css',
   'css/character_image.css',
   'css/exit-button.css'
 ];
-include __DIR__ . '/includes/header.php';
+
+// Check if loaded in modal context
+$isModal = isset($_GET['modal']) && $_GET['modal'] == '1';
+
+if (!$isModal) {
+    include __DIR__ . '/includes/header.php';
+} else {
+    // Minimal header for modal context - just the essential HTML structure
+    ?>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Edit Character</title>
+        <?php
+        // Calculate path prefix
+        $script_name = $_SERVER['SCRIPT_NAME'];
+        $script_dir = dirname($script_name);
+        if ($script_dir === '/') {
+            $path_prefix = '';
+        } else {
+            $path_segments = trim($script_dir, '/');
+            $segment_count = $path_segments === '' ? 0 : substr_count($path_segments, '/') + 1;
+            $path_prefix = str_repeat('../', $segment_count);
+        }
+        ?>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+        <link rel="stylesheet" href="<?php echo $path_prefix; ?>css/bootstrap-overrides.css">
+        <link rel="stylesheet" href="<?php echo $path_prefix; ?>css/global.css">
+        <?php
+        foreach ($extra_css as $cssPath) {
+            $normalizedPath = ltrim($cssPath, '/');
+            echo '<link rel="stylesheet" href="' . htmlspecialchars($path_prefix . $normalizedPath, ENT_QUOTES, 'UTF-8') . '">' . PHP_EOL;
+        }
+        ?>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=IM+Fell+English+SC&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Nosifer&family=Source+Serif+Pro:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400&display=swap" rel="stylesheet">
+        <script src="<?php echo $path_prefix; ?>js/form_validation.js"></script>
+    </head>
+    <body>
+    <div class="page-wrapper">
+    <?php
+}
 ?>
     <div class="container-xxl">
       <div class="row g-4 align-items-start">
@@ -375,36 +442,6 @@ include __DIR__ . '/includes/header.php';
                 
                 <div class="form-row">
                     <div class="form-group">
-                        <label for="nature">Nature *</label>
-                        <select id="nature" name="nature" class="form-select" required>
-                            <option value="">Select Nature...</option>
-                            <?php foreach ($archetypes as $archetype): ?>
-                                <option value="<?php echo htmlspecialchars($archetype); ?>"><?php echo htmlspecialchars($archetype); ?></option>
-                            <?php endforeach; ?>
-                        </select>
-                        <div class="helper-text">True personality</div>
-                    </div>
-                    
-                    <div class="form-group">
-                        <label for="demeanor">Demeanor *</label>
-                        <select id="demeanor" name="demeanor" class="form-select" required>
-                            <option value="">Select Demeanor...</option>
-                            <?php foreach ($archetypes as $archetype): ?>
-                                <option value="<?php echo htmlspecialchars($archetype); ?>"><?php echo htmlspecialchars($archetype); ?></option>
-                            <?php endforeach; ?>
-                        </select>
-                        <div class="helper-text">Public personality</div>
-                    </div>
-                </div>
-                
-                <div class="form-group">
-                    <label for="concept">Concept *</label>
-                    <input type="text" id="concept" name="concept" class="form-control" required>
-                    <div class="helper-text">Brief description of character concept (e.g., "Street Gang Leader", "Tortured Artist")</div>
-                </div>
-                
-                <div class="form-row">
-                    <div class="form-group">
                         <div style="display: flex; align-items: center; gap: 10px;">
                             <label for="clan" style="margin: 0;">Clan *</label>
                             <button type="button" class="help-btn" data-action="show-clan-guide" title="View Clan Guide">
@@ -446,6 +483,36 @@ include __DIR__ . '/includes/header.php';
                         </select>
                         <div class="helper-text">Distance from Caine</div>
                     </div>
+                </div>
+                
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="nature">Nature *</label>
+                        <select id="nature" name="nature" class="form-select" required>
+                            <option value="">Select Nature...</option>
+                            <?php foreach ($archetypes as $archetype): ?>
+                                <option value="<?php echo htmlspecialchars($archetype); ?>"><?php echo htmlspecialchars($archetype); ?></option>
+                            <?php endforeach; ?>
+                        </select>
+                        <div class="helper-text">True personality</div>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="demeanor">Demeanor *</label>
+                        <select id="demeanor" name="demeanor" class="form-select" required>
+                            <option value="">Select Demeanor...</option>
+                            <?php foreach ($archetypes as $archetype): ?>
+                                <option value="<?php echo htmlspecialchars($archetype); ?>"><?php echo htmlspecialchars($archetype); ?></option>
+                            <?php endforeach; ?>
+                        </select>
+                        <div class="helper-text">Public personality</div>
+                    </div>
+                </div>
+                
+                <div class="form-group">
+                    <label for="concept">Concept *</label>
+                    <input type="text" id="concept" name="concept" class="form-control" required>
+                    <div class="helper-text">Brief description of character concept (e.g., "Street Gang Leader", "Tortured Artist")</div>
                 </div>
                 
                 <div class="form-group">
@@ -806,14 +873,9 @@ include __DIR__ . '/includes/header.php';
                     </div>
                     
                     <div class="ability-options" id="physicalAbilitiesOptions">
-                        <button type="button" class="ability-option-btn" data-category="Physical" data-ability="Athletics">Athletics</button>
-                        <button type="button" class="ability-option-btn" data-category="Physical" data-ability="Brawl">Brawl</button>
-                        <button type="button" class="ability-option-btn" data-category="Physical" data-ability="Dodge">Dodge</button>
-                        <button type="button" class="ability-option-btn" data-category="Physical" data-ability="Firearms">Firearms</button>
-                        <button type="button" class="ability-option-btn" data-category="Physical" data-ability="Melee">Melee</button>
-                        <button type="button" class="ability-option-btn" data-category="Physical" data-ability="Security">Security</button>
-                        <button type="button" class="ability-option-btn" data-category="Physical" data-ability="Stealth">Stealth</button>
-                        <button type="button" class="ability-option-btn" data-category="Physical" data-ability="Survival">Survival</button>
+                        <?php foreach ($abilities_by_category['Physical'] as $ability): ?>
+                            <button type="button" class="ability-option-btn" data-category="Physical" data-ability="<?php echo htmlspecialchars($ability['name']); ?>"><?php echo htmlspecialchars($ability['name']); ?></button>
+                        <?php endforeach; ?>
                     </div>
                     
                     <div class="ability-list" id="physicalAbilitiesList">
@@ -838,15 +900,9 @@ include __DIR__ . '/includes/header.php';
                     </div>
                     
                     <div class="ability-options" id="socialAbilitiesOptions">
-                        <button type="button" class="ability-option-btn" data-category="Social" data-ability="Animal Ken">Animal Ken</button>
-                        <button type="button" class="ability-option-btn" data-category="Social" data-ability="Empathy">Empathy</button>
-                        <button type="button" class="ability-option-btn" data-category="Social" data-ability="Expression">Expression</button>
-                        <button type="button" class="ability-option-btn" data-category="Social" data-ability="Intimidation">Intimidation</button>
-                        <button type="button" class="ability-option-btn" data-category="Social" data-ability="Leadership">Leadership</button>
-                        <button type="button" class="ability-option-btn" data-category="Social" data-ability="Subterfuge">Subterfuge</button>
-                        <button type="button" class="ability-option-btn" data-category="Social" data-ability="Streetwise">Streetwise</button>
-                        <button type="button" class="ability-option-btn" data-category="Social" data-ability="Etiquette">Etiquette</button>
-                        <button type="button" class="ability-option-btn" data-category="Social" data-ability="Performance">Performance</button>
+                        <?php foreach ($abilities_by_category['Social'] as $ability): ?>
+                            <button type="button" class="ability-option-btn" data-category="Social" data-ability="<?php echo htmlspecialchars($ability['name']); ?>"><?php echo htmlspecialchars($ability['name']); ?></button>
+                        <?php endforeach; ?>
                     </div>
                     
                     <div class="ability-list" id="socialAbilitiesList">
@@ -871,16 +927,9 @@ include __DIR__ . '/includes/header.php';
                     </div>
                     
                     <div class="ability-options" id="mentalAbilitiesOptions">
-                        <button type="button" class="ability-option-btn" data-category="Mental" data-ability="Academics">Academics</button>
-                        <button type="button" class="ability-option-btn" data-category="Mental" data-ability="Computer">Computer</button>
-                        <button type="button" class="ability-option-btn" data-category="Mental" data-ability="Finance">Finance</button>
-                        <button type="button" class="ability-option-btn" data-category="Mental" data-ability="Investigation">Investigation</button>
-                        <button type="button" class="ability-option-btn" data-category="Mental" data-ability="Law">Law</button>
-                        <button type="button" class="ability-option-btn" data-category="Mental" data-ability="Linguistics">Linguistics</button>
-                        <button type="button" class="ability-option-btn" data-category="Mental" data-ability="Medicine">Medicine</button>
-                        <button type="button" class="ability-option-btn" data-category="Mental" data-ability="Occult">Occult</button>
-                        <button type="button" class="ability-option-btn" data-category="Mental" data-ability="Politics">Politics</button>
-                        <button type="button" class="ability-option-btn" data-category="Mental" data-ability="Science">Science</button>
+                        <?php foreach ($abilities_by_category['Mental'] as $ability): ?>
+                            <button type="button" class="ability-option-btn" data-category="Mental" data-ability="<?php echo htmlspecialchars($ability['name']); ?>"><?php echo htmlspecialchars($ability['name']); ?></button>
+                        <?php endforeach; ?>
                     </div>
                     
                     <div class="ability-list" id="mentalAbilitiesList">
@@ -905,11 +954,9 @@ include __DIR__ . '/includes/header.php';
                     </div>
                     
                     <div class="ability-options" id="optionalAbilitiesOptions">
-                        <button type="button" class="ability-option-btn" data-category="Optional" data-ability="Alertness">Alertness</button>
-                        <button type="button" class="ability-option-btn" data-category="Optional" data-ability="Awareness">Awareness</button>
-                        <button type="button" class="ability-option-btn" data-category="Optional" data-ability="Drive">Drive</button>
-                        <button type="button" class="ability-option-btn" data-category="Optional" data-ability="Crafts">Crafts</button>
-                        <button type="button" class="ability-option-btn" data-category="Optional" data-ability="Firecraft">Firecraft</button>
+                        <?php foreach ($abilities_by_category['Optional'] as $ability): ?>
+                            <button type="button" class="ability-option-btn" data-category="Optional" data-ability="<?php echo htmlspecialchars($ability['name']); ?>"><?php echo htmlspecialchars($ability['name']); ?></button>
+                        <?php endforeach; ?>
                     </div>
                     
                     <div class="ability-list" id="optionalAbilitiesList">
@@ -2334,6 +2381,29 @@ include __DIR__ . '/includes/header.php';
                     const jsonData = JSON.parse(data);
                     if (jsonData.success) {
                         console.log('✅ Character saved successfully! Character ID:', jsonData.character_id);
+                        
+                        // Check if we're in a modal context
+                        const urlParams = new URLSearchParams(window.location.search);
+                        const isModal = urlParams.get('modal') === '1';
+                        
+                        if (isModal) {
+                            // We're in a modal - notify parent window to close modal and refresh
+                            if (window.parent && window.parent !== window) {
+                                // Send message to parent to close modal
+                                window.parent.postMessage({
+                                    type: 'characterSaved',
+                                    characterId: jsonData.character_id
+                                }, '*');
+                                
+                                // Show success message
+                                alert('✅ Character saved successfully!');
+                            } else {
+                                alert('✅ Character saved successfully!');
+                            }
+                        } else {
+                            // Not in modal - show normal success message
+                            alert('✅ Character saved successfully!');
+                        }
                     } else {
                         alert('❌ Save failed: ' + jsonData.message);
                     }
@@ -3216,4 +3286,16 @@ include __DIR__ . '/includes/header.php';
         </div><!-- /.col-12 col-lg-8 -->
       </div><!-- /.row -->
     </div><!-- /.container -->
-<?php include __DIR__ . '/includes/footer.php'; ?>
+<?php 
+if (!$isModal) {
+    include __DIR__ . '/includes/footer.php';
+} else {
+    // Close minimal structure for modal
+    ?>
+    </div><!-- /.page-wrapper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    </body>
+    </html>
+    <?php
+}
+?>

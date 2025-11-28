@@ -1040,8 +1040,62 @@ if ($script_dir === '/') {
         // Equipment
         if (char.equipment) {
             contentHtml += '<h3>Equipment</h3>';
-            const equipEscaped = char.equipment.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&#039;');
-            contentHtml += '<div class="text-content">' + equipEscaped.replace(/\n/g, '<br>') + '</div>';
+            let equipmentHtml = '';
+            
+            // Try to parse as JSON first
+            try {
+                const equipmentData = JSON.parse(char.equipment);
+                
+                // If it's an array, render as list
+                if (Array.isArray(equipmentData)) {
+                    equipmentHtml = '<ul class="equipment-list">';
+                    equipmentData.forEach(item => {
+                        if (typeof item === 'string') {
+                            equipmentHtml += '<li>' + escapeHtml(item) + '</li>';
+                        } else if (item && item.name) {
+                            equipmentHtml += '<li><strong>' + escapeHtml(item.name) + '</strong>';
+                            if (item.quantity && item.quantity > 1) {
+                                equipmentHtml += ' <span style="color: #c4a037;">(x' + item.quantity + ')</span>';
+                            }
+                            if (item.description) {
+                                equipmentHtml += '<br><span style="color: #999; font-size: 0.9em; margin-left: 20px;">' + escapeHtml(item.description) + '</span>';
+                            }
+                            equipmentHtml += '</li>';
+                        }
+                    });
+                    equipmentHtml += '</ul>';
+                } 
+                // If it's an object, render as structured data
+                else if (typeof equipmentData === 'object' && equipmentData !== null) {
+                    equipmentHtml = '<div class="equipment-content">';
+                    for (const [key, value] of Object.entries(equipmentData)) {
+                        equipmentHtml += '<p><strong>' + escapeHtml(key) + ':</strong> ';
+                        if (typeof value === 'string') {
+                            equipmentHtml += escapeHtml(value);
+                        } else {
+                            equipmentHtml += escapeHtml(JSON.stringify(value, null, 2));
+                        }
+                        equipmentHtml += '</p>';
+                    }
+                    equipmentHtml += '</div>';
+                } else {
+                    // Fallback: stringify and display
+                    equipmentHtml = '<div class="text-content">' + escapeHtml(JSON.stringify(equipmentData, null, 2)) + '</div>';
+                }
+            } catch (e) {
+                // Not JSON, treat as HTML or plain text
+                // Check if it looks like HTML (contains tags)
+                if (char.equipment.includes('<') && char.equipment.includes('>')) {
+                    // Already HTML, use as-is (but sanitize)
+                    equipmentHtml = '<div class="text-content">' + char.equipment + '</div>';
+                } else {
+                    // Plain text, convert newlines to <br>
+                    const equipEscaped = char.equipment.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&#039;');
+                    equipmentHtml = '<div class="text-content">' + equipEscaped.replace(/\n/g, '<br>') + '</div>';
+                }
+            }
+            
+            contentHtml += equipmentHtml;
         }
         
         // Metadata
