@@ -38,12 +38,17 @@ try {
         'i', [$character_id]
     );
     
-    // Get abilities
+    // Get abilities (join with abilities table to get category if not stored in character_abilities)
     $abilities = db_fetch_all($conn,
-        "SELECT ability_name, ability_category, level, specialization
-         FROM character_abilities
-         WHERE character_id = ?
-         ORDER BY ability_category, ability_name",
+        "SELECT 
+            ca.ability_name,
+            COALESCE(ca.ability_category, a.category) as ability_category,
+            ca.level,
+            ca.specialization
+         FROM character_abilities ca
+         LEFT JOIN abilities a ON ca.ability_name = a.name
+         WHERE ca.character_id = ?
+         ORDER BY COALESCE(ca.ability_category, a.category), ca.ability_name",
         'i', [$character_id]
     );
     

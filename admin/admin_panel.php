@@ -135,6 +135,16 @@ function render_clan_badge(string $clan): string {
         </div>
     </nav>
     
+    <!-- Additional Navigation Row -->
+    <nav class="admin-nav row g-2 g-md-3 mb-4" aria-label="Additional Admin Navigation">
+        <div class="col-12 col-sm-6 col-md-4 col-lg">
+            <a href="wraith_admin_panel.php" class="nav-btn btn btn-outline-danger btn-sm w-100 text-center">👻 Wraith</a>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg">
+            <button type="button" class="nav-btn btn btn-outline-danger btn-sm w-100 text-center" disabled>🐺 Garu</button>
+        </div>
+    </nav>
+    
     <!-- Character Statistics -->
     <div class="character-stats row g-3 mb-4">
     <?php
@@ -329,9 +339,10 @@ function render_clan_badge(string $clan): string {
                                 <button class="action-btn view-btn btn btn-primary" 
                                         data-id="<?php echo $char['id']; ?>"
                                         title="View Character">👁️</button>
-                                <a href="../lotn_char_create.php?id=<?php echo $char['id']; ?>&returnUrl=<?php echo $encodedReturnUrl; ?>" 
-                                   class="action-btn edit-btn btn btn-warning" 
-                                   title="Edit Character">✏️</a>
+                                <button class="action-btn edit-btn btn btn-warning" 
+                                        data-id="<?php echo $char['id']; ?>"
+                                        data-return-url="<?php echo $encodedReturnUrl; ?>"
+                                        title="Edit Character">✏️</button>
                                 <button class="action-btn delete-btn btn btn-danger" 
                                         data-id="<?php echo $char['id']; ?>" 
                                         data-name="<?php echo htmlspecialchars($char['character_name']); ?>"
@@ -367,6 +378,107 @@ $apiEndpoint = '/admin/view_character_api.php';
 $modalId = 'viewCharacterModal';
 include __DIR__ . '/../includes/character_view_modal.php';
 ?>
+
+<!-- Edit Character Modal -->
+<div class="modal fade" id="editCharacterModal" tabindex="-1" aria-labelledby="editCharacterName" aria-hidden="true" data-fullscreen="true">
+    <div class="modal-dialog modal-xl">
+        <div class="modal-content character-view-modal">
+            <div class="modal-header align-items-start flex-wrap gap-2">
+                <div class="d-flex flex-column">
+                    <h5 class="modal-title d-flex align-items-center gap-2">
+                        <span aria-hidden="true">✏️</span>
+                        <span id="editCharacterName">Edit Character</span>
+                    </h5>
+                </div>
+                <div class="d-flex align-items-center gap-2 ms-auto">
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+            </div>
+            <div class="modal-body p-0" style="overflow: hidden;">
+                <iframe id="editCharacterIframe" 
+                        src="" 
+                        style="width: 100%; height: calc(100vh - 120px); border: none;"
+                        title="Edit Character"></iframe>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+// Initialize edit buttons to open modal with iframe
+document.addEventListener('DOMContentLoaded', function() {
+    const editButtons = document.querySelectorAll('.edit-btn');
+    editButtons.forEach(function(btn) {
+        btn.addEventListener('click', function() {
+            const characterId = this.dataset.id;
+            const returnUrl = this.dataset.returnUrl || '';
+            
+            if (!characterId) {
+                console.error('Edit button missing character ID');
+                return;
+            }
+            
+            // Build iframe URL
+            const iframeUrl = '../lotn_char_create.php?id=' + encodeURIComponent(characterId) + 
+                             '&returnUrl=' + encodeURIComponent(returnUrl) + 
+                             '&modal=1';
+            
+            // Get modal and iframe elements
+            const modalEl = document.getElementById('editCharacterModal');
+            const iframeEl = document.getElementById('editCharacterIframe');
+            const titleEl = document.getElementById('editCharacterName');
+            
+            if (!modalEl || !iframeEl) {
+                console.error('Edit modal or iframe not found');
+                return;
+            }
+            
+            // Check if Bootstrap is available
+            if (typeof bootstrap === 'undefined' || !bootstrap.Modal) {
+                console.error('Bootstrap modal runtime not loaded');
+                return;
+            }
+            
+            // Set iframe source
+            iframeEl.src = iframeUrl;
+            
+            // Show modal
+            const modalInstance = bootstrap.Modal.getOrCreateInstance(modalEl, {
+                backdrop: true,
+                focus: true
+            });
+            modalInstance.show();
+            
+            // Clear iframe source when modal is hidden to prevent lingering content
+            modalEl.addEventListener('hidden.bs.modal', function clearIframe() {
+                iframeEl.src = '';
+                modalEl.removeEventListener('hidden.bs.modal', clearIframe);
+            }, { once: true });
+        });
+    });
+    
+    // Listen for messages from iframe when character is saved
+    window.addEventListener('message', function(event) {
+        // Verify message is from our iframe (basic security check)
+        if (event.data && event.data.type === 'characterSaved') {
+            const modalEl = document.getElementById('editCharacterModal');
+            if (modalEl) {
+                const modalInstance = bootstrap.Modal.getInstance(modalEl);
+                if (modalInstance) {
+                    // Close the modal
+                    modalInstance.hide();
+                    
+                    // Optionally refresh the page to show updated data
+                    // You can remove this if you don't want auto-refresh
+                    setTimeout(function() {
+                        window.location.reload();
+                    }, 300);
+                }
+            }
+        }
+    });
+});
+</script>
 
 <!-- Delete Modal -->
 <div id="deleteModal" class="modal" role="dialog" aria-modal="true" aria-label="Confirm Deletion" aria-describedby="deleteCharacterName deleteWarning">

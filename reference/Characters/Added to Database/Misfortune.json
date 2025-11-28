@@ -1,0 +1,237 @@
+{
+  "id": 0,
+  "user_id": 0,
+  "character_name": "Misfortune",
+  "player_name": "NPC",
+  "chronicle": "Valley by Night",
+  "nature": "Visionary",
+  "demeanor": "Trickster",
+  "concept": "Boon Collector",
+  "clan": "Malkavian",
+  "generation": 9,
+  "sire": "",
+  "pc": 0,
+  "appearance": "In Elysium he wears a mismatched black and burgundy suit with subtle bells and faint theatrical makeup; in his haven he dons a full jester costume surrounded by pinned IOUs and candles.",
+  "appearance_detailed": {
+    "short_summary": "Eccentric Malkavian Primogen dressed in theatrical jester-inspired attire.",
+    "detailed_description": "Mismatched jester in clothing that shifts between Elysium formality and haven theatricality. In Elysium, he wears a mismatched suit—perhaps a pinstripe jacket with plaid trousers, or a formal coat over casual slacks. In his haven, he dons full jester costume with bells, motley colors, and a cap that jingles with every movement. His eyes sparkle with mischief and madness, but there's calculation beneath the chaos. Moves with the fluid grace of a performer, every gesture part of a performance that may or may not be real. Misfortune carries himself with a whimsical theatricality, wearing a mismatched black-and-burgundy suit decorated with tiny, nearly inaudible bells during public appearances. His makeup is subtle but intentional—faint white powder, softened red accents, and darkened eyes reminiscent of stage performers. In private, within the hidden loft behind an abandoned children's theater, he embraces a full jester costume: motley patterns, dangling bells, and walls covered in pinned IOUs, scribbled promises, and flickering candlelight casting strange shadows."
+  },
+  "biography": "Born in the 1860s, the man who would become Misfortune was a successful snake oil salesman, traveling the American West with elaborate pitches and convincing performances. His talent for reading marks and spinning believable lies caught the attention of Jeremiah 'Prophet' Blackwood, a Malkavian elder who saw potential in the young charlatan's gift for manipulation.
+
+Embraced in the 1880s, Misfortune quickly adapted to unlife, applying his mortal skills to the Jyhad. He relocated to San Francisco, where the thriving Camarilla court provided ample opportunities to practice his craft. There, he began his lifelong obsession with collecting boons, treating social debts like the patent medicine receipts of his mortal days.
+
+The expansion of the railroad system triggered a new fixation. Misfortune became fascinated with trains—their schedules, their routes, the way they connected the growing nation. When Arizona's railroad boom began, he followed the tracks south, eventually settling in the Phoenix area as it transformed from frontier outpost to growing city.
+
+One fateful night outside Flagstaff, Misfortune discovered Cordelia Fairchild's sire trapped on a train as dawn approached. Using his knowledge of the rail system and quick thinking, he extracted the elder from the train and sheltered him in his haven until safe transportation could be arranged. This act created a blood debt that would prove invaluable—when Cordelia later came to Phoenix, the alliance between Misfortune and the Fairchild line was already cemented.
+
+His ascension to Primogen came not through violence but through absence. When the position opened, no other Malkavian wanted the responsibility, and the Prince of the time lacked the political capital to prevent it. Misfortune accepted with theatrical flair, transforming the role into a platform for his true ambition: controlling Phoenix's social web through the Harpy network. Behind his jester's mask and maddening riddles lies a patient manipulator who has spent over a century perfecting the art of the deal.
+
+His true name, if he ever had one beyond his charlatan's stage names, has been forgotten—or perhaps deliberately discarded. Now there is only Misfortune, the fool who knows everyone's secrets and holds everyone's debts.",
+  "notes": "",
+  "equipment": "",
+  "character_image": "",
+  "status": "active",
+  "camarilla_status": "Camarilla",
+  "sect": "Camarilla",
+  "title": "Primogen of Clan Malkavian",
+  "epithet": "",
+  "description_tags": [],
+  "timeline": {
+    "birthplace": "",
+    "embrace_period": "",
+    "notable_mortal_past": "",
+    "world_war_two_experience": "",
+    "arrival_in_phoenix": "",
+    "bunker_acquisition": "",
+    "years_in_bunker": ""
+  },
+  "domain_and_haven": {
+    "primary_haven_name": "Hidden loft behind an abandoned children's theater",
+    "primary_haven_type": "Secret loft",
+    "location_notes": "Rumored to be filled with candles, pinned IOUs, and jester memorabilia.",
+    "bunker_history": "",
+    "bunker_function": [],
+    "false_public_assumptions": ""
+  },
+  "current_residents": {
+    "nosferatu": [],
+    "ghouls": []
+  },
+  "personality": {
+    "tagline": "The joke is only funny when you owe him something.",
+    "narrative": "Misfortune presents himself as comic relief, speaking in riddles, puns, and singsong cadences. Beneath this mask lies a patient manipulator who uses the Harpy network and collections of boons to entangle the city's Kindred in his web. His goal is simple but terrifying in its persistence: acquire every possible boon, from trivial gestures to life-altering favors, and use them to control Phoenix's social ecosystem."
+  },
+  "traits": {
+    "Physical": [
+      "Graceful",
+      "Light-footed",
+      "Deceptively Agile",
+      "Quick Reflexes"
+    ],
+    "Social": [
+      "Charismatic",
+      "Manipulative",
+      "Witty",
+      "Disarming",
+      "Persuasive",
+      "Charming",
+      "Eloquent",
+      "Social Predator"
+    ],
+    "Mental": [
+      "Cunning",
+      "Perceptive",
+      "Patient",
+      "Strategic",
+      "Pattern-Oriented Thinker",
+      "Cold Rationalist"
+    ]
+  },
+  "negativeTraits": {
+    "Physical": [
+      "Frail"
+    ],
+    "Social": [
+      "Unsettling",
+      "Cryptic"
+    ],
+    "Mental": [
+      "Obsessive",
+      "Distracted by patterns"
+    ]
+  },
+  "abilities": [
+    {
+      "name": "Subterfuge",
+      "category": "Social",
+      "level": 4
+    },
+    {
+      "name": "Etiquette",
+      "category": "Social",
+      "level": 3
+    },
+    {
+      "name": "Empathy",
+      "category": "Social",
+      "level": 3
+    },
+    {
+      "name": "Politics",
+      "category": "Mental",
+      "level": 3
+    },
+    {
+      "name": "Investigation",
+      "category": "Mental",
+      "level": 2
+    },
+    {
+      "name": "Occult",
+      "category": "Mental",
+      "level": 2
+    },
+    {
+      "name": "Alertness",
+      "category": "Physical",
+      "level": 2
+    },
+    {
+      "name": "Stealth",
+      "category": "Physical",
+      "level": 2
+    },
+    {
+      "name": "Intimidation",
+      "category": "Social",
+      "level": 2
+    },
+    {
+      "name": "Leadership",
+      "category": "Social",
+      "level": 2
+    }
+  ],
+  "specializations": {
+    "Subterfuge": "Reading social tells and hidden motives",
+    "Politics": "Camarilla status and boon etiquette",
+    "Empathy": "Sensing guilt and fear around debts"
+  },
+  "disciplines": [
+    "Auspex 5",
+    "Dominate 5",
+    "Obfuscate 3"
+  ],
+  "backgrounds": {
+    "Allies": 3,
+    "Contacts": 4,
+    "Influence": 3,
+    "Status": 3,
+    "Resources": 2
+  },
+  "backgroundDetails": {},
+  "morality": {
+    "path_name": "Humanity",
+    "path_rating": 7,
+    "conscience": 3,
+    "self_control": 3,
+    "courage": 3,
+    "willpower_permanent": 5,
+    "willpower_current": 5,
+    "humanity": 7
+  },
+  "merits_flaws": [],
+  "status": {
+    "sect_status": "",
+    "clan_status": "",
+    "city_status": "",
+    "health_levels": 7,
+    "blood_pool_current": 10,
+    "blood_pool_maximum": 10,
+    "blood_per_turn": 1,
+    "xp_total": 0,
+    "xp_spent": 0,
+    "xp_available": 0,
+    "notes": ""
+  },
+  "coteries": [],
+  "relationships": [
+    {
+      "related_character_name": "Cordelia Fairchild",
+      "relationship_type": "Ally",
+      "relationship_subtype": "Harpy relationship",
+      "strength": "Strong",
+      "description": "Cordelia is both ally and confidante; together they subtly share influence over her Talons."
+    },
+    {
+      "related_character_name": "Prince",
+      "relationship_type": "Political",
+      "relationship_subtype": "Uncertain",
+      "strength": "Variable",
+      "description": "Misfortune's relationship with the Prince mixes amused tolerance with the possibility of secret conspiracies."
+    },
+    {
+      "related_character_name": "Anarchs",
+      "relationship_type": "Political",
+      "relationship_subtype": "Complicated",
+      "strength": "Weak",
+      "description": "Misfortune holds minor boons and secrets among the Anarchs, resulting in an inconsistent and unpredictable relationship."
+    }
+  ],
+  "rituals": [],
+  "research_notes": {
+    "rumors": [
+      "Holds a boon from every Primogen",
+      "Linked to the Prince's death",
+      "His real name is forgotten"
+    ]
+  },
+  "artifacts": [],
+  "custom_data": null,
+  "experience_total": 0,
+  "experience_spent": 0,
+  "clan_logo_url": "",
+  "current_state": "",
+  "created_at": "",
+  "updated_at": ""
+}

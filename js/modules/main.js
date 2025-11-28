@@ -485,6 +485,21 @@ class CharacterCreationApp {
                 state.relationships = window.collectRelationships();
             }
             
+            // Ensure character_id and id are set for updates (PHP handler expects these)
+            // Check state first, then hidden field, then URL parameter
+            const idFromState = state.characterId || state.id;
+            const idEl = document.getElementById('characterId');
+            const idFromHidden = idEl && idEl.value ? parseInt(idEl.value, 10) : null;
+            const urlParams = new URLSearchParams(window.location.search);
+            const idFromUrl = urlParams.get('id') ? parseInt(urlParams.get('id'), 10) : null;
+            const effectiveId = idFromState || idFromHidden || idFromUrl;
+            
+            if (effectiveId) {
+                state.character_id = effectiveId;
+                state.id = effectiveId;
+                state.characterId = effectiveId;
+            }
+            
             const response = await this.modules.dataManager.saveCharacter(state);
             
             if (response.success) {

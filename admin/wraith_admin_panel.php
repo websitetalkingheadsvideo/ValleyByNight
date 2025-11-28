@@ -187,9 +187,10 @@ function formatAngst($shadowJson) {
                                         <button class="action-btn view-btn btn btn-primary" 
                                                 data-id="<?php echo $char['id']; ?>"
                                                 title="View Character">👁️</button>
-                                        <a href="../wraith_char_create.php?id=<?php echo $char['id']; ?>&returnUrl=<?php echo $encodedReturnUrl; ?>" 
-                                           class="action-btn edit-btn btn btn-warning" 
-                                           title="Edit Character">✏️</a>
+                                        <button class="action-btn edit-btn btn btn-warning" 
+                                                data-id="<?php echo $char['id']; ?>"
+                                                data-return-url="<?php echo $encodedReturnUrl; ?>"
+                                                title="Edit Character">✏️</button>
                                         <button class="action-btn delete-btn btn btn-danger" 
                                                 data-id="<?php echo $char['id']; ?>" 
                                                 data-name="<?php echo htmlspecialchars($char['character_name']); ?>"
@@ -218,6 +219,24 @@ $modalId = 'viewCharacterModal';
 include __DIR__ . '/../includes/character_view_modal.php';
 ?>
 
+<!-- Edit Wraith Character Modal -->
+<div class="modal fade" id="editWraithCharacterModal" tabindex="-1" aria-labelledby="editWraithCharacterModalLabel" aria-hidden="true" data-fullscreen="true">
+    <div class="modal-dialog modal-dialog-scrollable" style="max-width: 100%; width: 100%;">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="editWraithCharacterModalLabel">Edit Wraith Character</h5>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body p-0" style="height: calc(100vh - 120px);">
+                <iframe id="editWraithCharacterIframe" 
+                        src="" 
+                        style="width: 100%; height: 100%; border: none;"
+                        title="Edit Wraith Character"></iframe>
+            </div>
+        </div>
+    </div>
+</div>
+
 <script>
 // Initialize view buttons to use shared modal
 document.addEventListener('DOMContentLoaded', function() {
@@ -227,6 +246,56 @@ document.addEventListener('DOMContentLoaded', function() {
             if (window.viewCharacter && this.dataset.id) {
                 window.viewCharacter(this.dataset.id);
             }
+        });
+    });
+    
+    // Initialize edit buttons to open modal with iframe
+    const editButtons = document.querySelectorAll('.edit-btn');
+    editButtons.forEach(function(btn) {
+        btn.addEventListener('click', function() {
+            const characterId = this.dataset.id;
+            const returnUrl = this.dataset.returnUrl || '';
+            
+            if (!characterId) {
+                console.error('Edit button missing character ID');
+                return;
+            }
+            
+            // Build iframe URL
+            const iframeUrl = '../wraith_char_create.php?id=' + encodeURIComponent(characterId) + 
+                             '&returnUrl=' + encodeURIComponent(returnUrl) + 
+                             '&modal=1';
+            
+            // Get modal and iframe elements
+            const modalEl = document.getElementById('editWraithCharacterModal');
+            const iframeEl = document.getElementById('editWraithCharacterIframe');
+            
+            if (!modalEl || !iframeEl) {
+                console.error('Edit modal or iframe not found');
+                return;
+            }
+            
+            // Check if Bootstrap is available
+            if (typeof bootstrap === 'undefined' || !bootstrap.Modal) {
+                console.error('Bootstrap modal runtime not loaded');
+                return;
+            }
+            
+            // Set iframe source
+            iframeEl.src = iframeUrl;
+            
+            // Show modal
+            const modalInstance = bootstrap.Modal.getOrCreateInstance(modalEl, {
+                backdrop: true,
+                focus: true
+            });
+            modalInstance.show();
+            
+            // Clear iframe source when modal is hidden to prevent lingering content
+            modalEl.addEventListener('hidden.bs.modal', function clearIframe() {
+                iframeEl.src = '';
+                modalEl.removeEventListener('hidden.bs.modal', clearIframe);
+            }, { once: true });
         });
     });
 });

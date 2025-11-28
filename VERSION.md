@@ -1,6 +1,39 @@
 # Version History
 
-## Current Version: 0.8.5
+## Current Version: 0.8.6
+
+**Date:** 2025-01-26  
+**Type:** Patch (Character View Modal Improvements & Character Creation Enhancements)
+
+### Changes:
+- **Character View Modal Enhancements** - Improved Wraith character support and field-aware rendering
+  - Enhanced modal to better handle Wraith character data transformation
+  - Improved rendering logic to preserve differences between VtM and Wraith character types
+  - Added more robust error handling for character data loading
+  - Better integration with admin panels for both character types
+- **Character Creation Form Improvements** - Enhanced state management and form handling
+  - Improved character loading and state persistence in character creation form
+  - Fixed issues with form field population when loading existing characters
+  - Enhanced character image upload and display handling
+  - Improved ability data handling and display
+- **JavaScript Improvements** - Fixed syntax errors and improved compatibility
+  - Fixed multiple JavaScript syntax errors in character view modal
+  - Improved browser compatibility by converting arrow functions where needed
+  - Added better error handling and logging in main.js
+  - Enhanced module communication and state synchronization
+- **Character Reference File Cleanup** - Organized character reference files
+  - Moved character JSON files to "Added to Database" folder for better organization
+  - Updated CHARACTER_DATABASE_ANALYSIS.md with latest field information
+  - Improved organization of character reference files
+- **Admin Panel Updates** - Enhanced admin panels with improved functionality
+  - Enhanced Wraith character admin panel with improved view functionality
+  - Improved character view API to handle both VtM and Wraith characters
+  - Better integration between admin panels and character view modals
+- **MCP Configuration Updates** - Updated MCP server configuration
+  - Updated MCP server configuration for better agent integration
+  - Refined MCP server settings for improved communication
+
+## Previous Version: 0.8.5
 
 **Date:** 2025-01-26  
 **Type:** Patch (Character View Modal Unification & Bug Fixes)

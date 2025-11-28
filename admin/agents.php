@@ -22,6 +22,10 @@ $agents = [
         "last_event" => "Waiting for new character JSON...",
         "actions" => [
             [
+                "label" => "Search Character Information",
+                "url" => "../agents/character_agent/characters.php"
+            ],
+            [
                 "label" => "Generate Reports",
                 "url" => "../agents/character_agent/generate_reports.php"
             ],
