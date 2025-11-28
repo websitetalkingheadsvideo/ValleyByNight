@@ -16,7 +16,7 @@
   "biography": "Once a mortal private investigator in Phoenix during the 1970s, Eddy Valiant earned a reputation for solving cases the police would not touch. In 1981 a case brought him face to face with a supernatural killer, and his Embrace followed. His sire disappeared, leaving Eddy to find his own way into the Camarilla. He now runs the Valiant Detective Agency from a cramped office above a pawn shop on 7th and Van Buren. His ghoul secretary, Marilyn Chase, maintains the daylight front while Eddy does the real work at night. Among Phoenix Kindred he is known as the 'court bloodhound' \u2014 useful, discreet, and too jaded to be easily intimidated. On the night the Prince dies at Hawthorn Estate, Eddy is already present, slipping in through a side door like he was following a lead.",
   "character_image": null,
   "equipment": "Smith & Wesson Model 10 revolver; battered leather notebook; cigarette case; Polaroid camera; trench coat; flask of A-negative.",
-  "notes": "Designed for Valley by Night. Derangement: Cinematic Delusion (hears/occasionally speaks inner narration). Keep Humanity at 6 to preserve his moral tension. Often hired by Harpy Cordelia and the Seneschal for deniable investigations. Allies with Sarah Hansen and occasionally the Gangrel tracker Kerry.",
+  "notes": "Designed for Valley by Night. Derangement: Cinematic Delusion (hears/occasionally speaks inner narration). Keep Humanity at 6 to preserve his moral tension. Often hired by Harpy Cordelia and the Sheriff for deniable investigations. Allies with Sarah Hansen and occasionally the Gangrel tracker Kerry.",
   "agentNotes": null,
   "actingNotes": "Voice: gravelly, deliberate, Bogart-adjacent. Frequently mutters lines that sound like narration. Treat pauses as if someone off-screen is talking to him.",
   "status": "active",
@@ -132,9 +132,9 @@
       "relationship": "Finds him useful; he calls her 'the velvet executioner.'"
     },
     {
-      "name": "Seneschal Roland",
-      "type": "Ventrue",
-      "relationship": "Official Camarilla contact; professional tension."
+      "name": "Roland Cross",
+      "type": "Toreador",
+      "relationship": "Official Camarilla contact; professional tension. Sheriff of Phoenix."
     },
     {
       "name": "Kerry",
