@@ -102,14 +102,14 @@ if ($script_dir === '/') {
         
         if (!modalEl.dataset.viewModalInit) {
             // Remove focus from any focused element before modal is hidden
-            modalEl.addEventListener('hide.bs.modal', () => {
+            modalEl.addEventListener('hide.bs.modal', function() {
                 const activeElement = document.activeElement;
                 if (activeElement && modalEl.contains(activeElement)) {
                     activeElement.blur();
                 }
             });
             
-            modalEl.addEventListener('hidden.bs.modal', () => {
+            modalEl.addEventListener('hidden.bs.modal', function() {
                 currentViewData = null;
                 const headerEl = document.getElementById('characterHeader');
                 const contentEl = document.getElementById('viewCharacterContent');
@@ -150,12 +150,68 @@ if ($script_dir === '/') {
         const requestUrl = API_ENDPOINT + '?id=' + encodeURIComponent(characterId) + '&_t=' + Date.now();
         
         fetch(requestUrl)
-            .then(response => response.json())
-            .then(data => {
+            .then(function(response) {
+                return response.json();
+            })
+            .then(function(data) {
                 if (data && data.success) {
-                    currentViewData = data;
+                    // Normalize Wraith API response format to match VtM format
+                    const isWraithApi = requestUrl.includes('view_wraith_character_api.php');
+                    if (isWraithApi && data.character) {
+                        // Transform Wraith API response to match expected structure
+                        const char = data.character;
+                        
+                        // Transform traits from Wraith format to VtM format
+                        let traitsArray = [];
+                        if (char.traits) {
+                            const traits = char.traits;
+                            if (traits.Physical && Array.isArray(traits.Physical)) {
+                                traits.Physical.forEach(function(t) {
+                                    let traitName = typeof t === 'string' ? t : t.trait_name || t;
+                                    traitsArray.push({
+                                        trait_name: traitName,
+                                        trait_category: 'Physical'
+                                    });
+                                });
+                            }
+                            if (traits.Social && Array.isArray(traits.Social)) {
+                                traits.Social.forEach(function(t) {
+                                    let traitName = typeof t === 'string' ? t : t.trait_name || t;
+                                    traitsArray.push({
+                                        trait_name: traitName,
+                                        trait_category: 'Social'
+                                    });
+                                });
+                            }
+                            if (traits.Mental && Array.isArray(traits.Mental)) {
+                                traits.Mental.forEach(function(t) {
+                                    let traitName = typeof t === 'string' ? t : t.trait_name || t;
+                                    traitsArray.push({
+                                        trait_name: traitName,
+                                        trait_category: 'Mental'
+                                    });
+                                });
+                            }
+                        }
+                        
+                        currentViewData = {
+                            success: true,
+                            character: char,
+                            traits: traitsArray,
+                            abilities: char.abilities || [],
+                            disciplines: char.arcanoi || [],
+                            backgrounds: char.backgrounds || [],
+                            morality: null,
+                            merits_flaws: char.merits_flaws || [],
+                            status: char.status_details || null,
+                            coteries: [],
+                            relationships: char.relationships || []
+                        };
+                    } else {
+                        currentViewData = data;
+                    }
                     if (title) {
-                        title.textContent = data.character.character_name || 'Character Details';
+                        title.textContent = currentViewData.character.character_name || 'Character Details';
                     }
                     renderCharacterView(currentViewMode);
                 } else {
@@ -173,7 +229,7 @@ if ($script_dir === '/') {
                     }
                 }
             })
-            .catch(error => {
+            .catch(function(error) {
                 console.error('view_character_api error', error);
                 if (header) {
                     header.innerHTML = '';
@@ -194,7 +250,7 @@ if ($script_dir === '/') {
         currentViewMode = mode;
         
         const modeButtons = document.querySelectorAll('.mode-btn');
-        modeButtons.forEach(btn => {
+        modeButtons.forEach(function(btn) {
             const btnMode = btn.dataset.viewMode || 'compact';
             const isActive = btnMode === mode;
             btn.classList.toggle('active', isActive);
@@ -217,8 +273,8 @@ if ($script_dir === '/') {
     
     function initializeViewModeToggle() {
         const modeButtons = document.querySelectorAll('.view-mode-toggle .mode-btn');
-        modeButtons.forEach(btn => {
-            btn.addEventListener('click', (event) => {
+        modeButtons.forEach(function(btn) {
+            btn.addEventListener('click', function(event) {
                 event.preventDefault();
                 const nextMode = btn.dataset.viewMode || 'compact';
                 setViewMode(nextMode);
@@ -235,14 +291,16 @@ if ($script_dir === '/') {
         let headerHtml = '';
         let contentHtml = '';
         
-        const escapeHtml = (input) => String(input)
-            .replace(/&/g, '&amp;')
-            .replace(/</g, '&lt;')
-            .replace(/>/g, '&gt;')
-            .replace(/"/g, '&quot;')
-            .replace(/'/g, '&#039;');
+        const escapeHtml = function(input) {
+            return String(input)
+                .replace(/&/g, '&amp;')
+                .replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;')
+                .replace(/"/g, '&quot;')
+                .replace(/'/g, '&#039;');
+        };
         
-        const normalizeValue = (value) => {
+        const normalizeValue = function(value) {
             if (value === null || value === undefined) {
                 return null;
             }
@@ -253,7 +311,10 @@ if ($script_dir === '/') {
             return value;
         };
         
-        const displayValue = (value, fallback = 'N/A') => {
+        const displayValue = function(value, fallback) {
+            if (fallback === undefined) {
+                fallback = 'N/A';
+            }
             const normalized = normalizeValue(value);
             if (normalized === null) {
                 return fallback;
@@ -264,10 +325,10 @@ if ($script_dir === '/') {
         function clanLogoUrl(clan) {
             if (!clan) return null;
             const basePath = '../images/Clan%20Logos/';
-            const clean = String(clan)
-                .replace(/[\u{1F300}-\u{1FAFF}]/gu, '')
-                .trim()
-                .toLowerCase();
+            let clean = String(clan).trim().toLowerCase();
+            // Remove emoji and special characters
+            clean = clean.replace(/[\uD800-\uDBFF][\uDC00-\uDFFF]/g, '');
+            clean = clean.replace(/[^\x00-\x7F]/g, '');
             const map = {
                 'assamite': 'LogoClanAssamite.webp',
                 'brujah': 'LogoClanBrujah.webp',
@@ -291,27 +352,54 @@ if ($script_dir === '/') {
             return url;
         }
         
+        // Detect if this is a Wraith character
+        const isWraith = !!(char.shadow_name || char.guild || char.circle);
+        
         const hasPortrait = !!char.character_image;
-        const fallbackUrl = char.clan_logo_url || clanLogoUrl(char.clan);
+        let fallbackUrl = null;
+        if (isWraith) {
+            // Wraith fallback image
+            fallbackUrl = '../images/Clan Logos/WtOlogo.webp';
+        } else {
+            // VtM fallback to clan logo
+            fallbackUrl = char.clan_logo_url || clanLogoUrl(char.clan);
+        }
         const imageUrl = hasPortrait ? ('../uploads/characters/' + char.character_image) : fallbackUrl;
         const sanitizedImageUrl = imageUrl ? escapeHtml(imageUrl) : null;
         
-        const rawState = normalizeValue(char.current_state) || 'active';
+        const rawState = normalizeValue(char.current_state || char.status) || 'active';
         const formattedState = escapeHtml(rawState.toString().charAt(0).toUpperCase() + rawState.toString().slice(1));
         const playerName = normalizeValue(char.player_name) || 'NPC';
-        const generationValue = normalizeValue(char.generation);
-        const generationDisplay = generationValue === null ? 'N/A' : escapeHtml(`${generationValue}th`);
         
-        const summaryFields = [
-            { label: 'Player', value: displayValue(playerName, 'NPC') },
-            { label: 'Chronicle', value: displayValue(char.chronicle, 'N/A') },
-            { label: 'Clan', value: displayValue(char.clan, 'Unknown') },
-            { label: 'Generation', value: generationDisplay },
-            { label: 'Nature', value: displayValue(char.nature, 'N/A') },
-            { label: 'Demeanor', value: displayValue(char.demeanor, 'N/A') },
-            { label: 'Sire', value: displayValue(char.sire, 'Unknown') },
-            { label: 'Concept', value: displayValue(char.concept, 'N/A') }
-        ];
+        let summaryFields = [];
+        if (isWraith) {
+            // Wraith character fields
+            summaryFields = [
+                { label: 'Player', value: displayValue(playerName, 'NPC') },
+                { label: 'Chronicle', value: displayValue(char.chronicle, 'N/A') },
+                { label: 'Shadow Name', value: displayValue(char.shadow_name, 'N/A') },
+                { label: 'Guild', value: displayValue(char.guild, 'Unknown') },
+                { label: 'Circle', value: displayValue(char.circle, 'N/A') },
+                { label: 'Legion at Death', value: displayValue(char.legion_at_death, 'N/A') },
+                { label: 'Nature', value: displayValue(char.nature, 'N/A') },
+                { label: 'Demeanor', value: displayValue(char.demeanor, 'N/A') },
+                { label: 'Concept', value: displayValue(char.concept, 'N/A') }
+            ];
+        } else {
+            // VtM character fields
+            const generationValue = normalizeValue(char.generation);
+            const generationDisplay = generationValue === null ? 'N/A' : escapeHtml(generationValue + 'th');
+            summaryFields = [
+                { label: 'Player', value: displayValue(playerName, 'NPC') },
+                { label: 'Chronicle', value: displayValue(char.chronicle, 'N/A') },
+                { label: 'Clan', value: displayValue(char.clan, 'Unknown') },
+                { label: 'Generation', value: generationDisplay },
+                { label: 'Nature', value: displayValue(char.nature, 'N/A') },
+                { label: 'Demeanor', value: displayValue(char.demeanor, 'N/A') },
+                { label: 'Sire', value: displayValue(char.sire, 'Unknown') },
+                { label: 'Concept', value: displayValue(char.concept, 'N/A') }
+            ];
+        }
         
         headerHtml += '<div class="row g-4 align-items-start">';
         headerHtml += '<div class="col-lg-8">';
@@ -327,9 +415,11 @@ if ($script_dir === '/') {
         headerHtml += '<div class="character-portrait-wrapper">';
         headerHtml += '<div class="character-portrait-media">';
         if (sanitizedImageUrl) {
-            headerHtml += `<img src="${sanitizedImageUrl}" class="character-portrait-image img-fluid" alt="Character portrait" onerror="this.classList.add('d-none'); this.nextElementSibling.classList.remove('d-none');" />`;
+            const imageClass = isWraith && !hasPortrait ? 'character-portrait-image character-portrait-logo img-fluid' : 'character-portrait-image img-fluid';
+            headerHtml += '<img src="' + sanitizedImageUrl + '" class="' + imageClass + '" alt="Character portrait" onerror="this.classList.add(\'d-none\'); this.nextElementSibling.classList.remove(\'d-none\');" />';
         }
-        headerHtml += `<div class="character-portrait-placeholder${sanitizedImageUrl ? ' d-none' : ''}">No Image</div>`;
+        const placeholderClass = sanitizedImageUrl ? ' d-none' : '';
+        headerHtml += '<div class="character-portrait-placeholder' + placeholderClass + '">No Image</div>';
         headerHtml += '</div>';
         headerHtml += '</div>';
         headerHtml += '</div>';
@@ -354,14 +444,76 @@ if ($script_dir === '/') {
         // XP Information
         contentHtml += '<h3>Experience Points</h3>';
         contentHtml += '<div class="row g-3 mt-2">';
-        contentHtml += '<div class="col-lg-4 col-md-4 col-sm-6"><p><strong>Total XP:</strong> ' + (char.total_xp || 0) + '</p></div>';
-        contentHtml += '<div class="col-lg-4 col-md-4 col-sm-6"><p><strong>Spent XP:</strong> ' + (char.spent_xp || 0) + '</p></div>';
-        contentHtml += '<div class="col-lg-4 col-md-4 col-sm-12"><p><strong>Available XP:</strong> ' + ((char.total_xp || 0) - (char.spent_xp || 0)) + '</p></div>';
+        if (isWraith) {
+            contentHtml += '<div class="col-lg-4 col-md-4 col-sm-6"><p><strong>Total XP:</strong> ' + (char.experience_total || 0) + '</p></div>';
+            contentHtml += '<div class="col-lg-4 col-md-4 col-sm-6"><p><strong>Spent XP:</strong> ' + (char.spent_xp || 0) + '</p></div>';
+            contentHtml += '<div class="col-lg-4 col-md-4 col-sm-12"><p><strong>Available XP:</strong> ' + (char.experience_unspent || 0) + '</p></div>';
+            if (char.shadow_xp_total > 0) {
+                contentHtml += '<div class="col-lg-4 col-md-4 col-sm-6"><p><strong>Shadow XP Total:</strong> ' + (char.shadow_xp_total || 0) + '</p></div>';
+                contentHtml += '<div class="col-lg-4 col-md-4 col-sm-6"><p><strong>Shadow XP Spent:</strong> ' + (char.shadow_xp_spent || 0) + '</p></div>';
+                contentHtml += '<div class="col-lg-4 col-md-4 col-sm-12"><p><strong>Shadow XP Available:</strong> ' + (char.shadow_xp_available || 0) + '</p></div>';
+            }
+        } else {
+            contentHtml += '<div class="col-lg-4 col-md-4 col-sm-6"><p><strong>Total XP:</strong> ' + (char.total_xp || 0) + '</p></div>';
+            contentHtml += '<div class="col-lg-4 col-md-4 col-sm-6"><p><strong>Spent XP:</strong> ' + (char.spent_xp || 0) + '</p></div>';
+            contentHtml += '<div class="col-lg-4 col-md-4 col-sm-12"><p><strong>Available XP:</strong> ' + ((char.total_xp || 0) - (char.spent_xp || 0)) + '</p></div>';
+        }
         contentHtml += '</div>';
         
         // Character Traits
         contentHtml += '<h3>Character Traits</h3>';
-        if (currentViewData.traits && currentViewData.traits.length > 0) {
+        if (isWraith && char.traits) {
+            // Wraith traits are stored as an object with Physical/Social/Mental arrays
+            const traits = char.traits;
+            const physical = Array.isArray(traits.Physical) ? traits.Physical : [];
+            const social = Array.isArray(traits.Social) ? traits.Social : [];
+            const mental = Array.isArray(traits.Mental) ? traits.Mental : [];
+            
+            if (physical.length > 0 || social.length > 0 || mental.length > 0) {
+                contentHtml += '<div class="row g-3 mt-2">';
+                
+                if (physical.length > 0) {
+                    contentHtml += '<div class="col-lg-4 col-md-4 col-sm-6">';
+                    contentHtml += '<h4>Physical</h4>';
+                    contentHtml += '<div class="trait-list">';
+                    physical.forEach(t => {
+                        const traitName = typeof t === 'string' ? t : (t.trait_name || t);
+                        contentHtml += '<span class="trait-badge">' + escapeHtml(traitName) + '</span>';
+                    });
+                    contentHtml += '</div>';
+                    contentHtml += '</div>';
+                }
+                
+                if (social.length > 0) {
+                    contentHtml += '<div class="col-lg-4 col-md-4 col-sm-6">';
+                    contentHtml += '<h4>Social</h4>';
+                    contentHtml += '<div class="trait-list">';
+                    social.forEach(t => {
+                        const traitName = typeof t === 'string' ? t : (t.trait_name || t);
+                        contentHtml += '<span class="trait-badge">' + escapeHtml(traitName) + '</span>';
+                    });
+                    contentHtml += '</div>';
+                    contentHtml += '</div>';
+                }
+                
+                if (mental.length > 0) {
+                    contentHtml += '<div class="col-lg-4 col-md-4 col-sm-12">';
+                    contentHtml += '<h4>Mental</h4>';
+                    contentHtml += '<div class="trait-list">';
+                    mental.forEach(t => {
+                        const traitName = typeof t === 'string' ? t : (t.trait_name || t);
+                        contentHtml += '<span class="trait-badge">' + escapeHtml(traitName) + '</span>';
+                    });
+                    contentHtml += '</div>';
+                    contentHtml += '</div>';
+                }
+                
+                contentHtml += '</div>';
+            } else {
+                contentHtml += '<p class="empty-state">No character traits found.</p>';
+            }
+        } else if (currentViewData.traits && currentViewData.traits.length > 0) {
+            // VtM traits from database
             const physical = currentViewData.traits.filter(t => {
                 const category = (t.trait_category || '').toString().trim();
                 return category.toLowerCase() === 'physical';
@@ -383,7 +535,7 @@ if ($script_dir === '/') {
                     contentHtml += '<h4>Physical</h4>';
                     contentHtml += '<div class="trait-list">';
                     physical.forEach(t => {
-                        contentHtml += '<span class="trait-badge">' + t.trait_name + '</span>';
+                        contentHtml += '<span class="trait-badge">' + escapeHtml(t.trait_name) + '</span>';
                     });
                     contentHtml += '</div>';
                     contentHtml += '</div>';
@@ -394,7 +546,7 @@ if ($script_dir === '/') {
                     contentHtml += '<h4>Social</h4>';
                     contentHtml += '<div class="trait-list">';
                     social.forEach(t => {
-                        contentHtml += '<span class="trait-badge">' + t.trait_name + '</span>';
+                        contentHtml += '<span class="trait-badge">' + escapeHtml(t.trait_name) + '</span>';
                     });
                     contentHtml += '</div>';
                     contentHtml += '</div>';
@@ -405,7 +557,7 @@ if ($script_dir === '/') {
                     contentHtml += '<h4>Mental</h4>';
                     contentHtml += '<div class="trait-list">';
                     mental.forEach(t => {
-                        contentHtml += '<span class="trait-badge">' + t.trait_name + '</span>';
+                        contentHtml += '<span class="trait-badge">' + escapeHtml(t.trait_name) + '</span>';
                     });
                     contentHtml += '</div>';
                     contentHtml += '</div>';
@@ -421,7 +573,68 @@ if ($script_dir === '/') {
         
         // Abilities
         contentHtml += '<h3>Abilities</h3>';
-        if (currentViewData.abilities && currentViewData.abilities.length > 0) {
+        if (isWraith && char.abilities && Array.isArray(char.abilities)) {
+            // Wraith abilities are stored as array with name, category, level, specialization
+            const categorized = {
+                physical: [],
+                social: [],
+                mental: [],
+                optional: []
+            };
+            
+            char.abilities.forEach(ability => {
+                if (!ability || !ability.name) return;
+                const category = (ability.category || '').toLowerCase();
+                const normalizedCategory = ['physical', 'social', 'mental', 'optional'].includes(category) ? category : 'optional';
+                categorized[normalizedCategory].push({
+                    ability_name: ability.name,
+                    level: ability.level || 0,
+                    specialization: ability.specialization || ''
+                });
+            });
+            
+            const presentGroups = Object.entries(categorized)
+                .filter(function(entry) {
+                    return entry[1].length > 0;
+                })
+                .map(function(entry) {
+                    return {
+                        title: entry[0].charAt(0).toUpperCase() + entry[0].slice(1),
+                        abilities: entry[1]
+                    };
+                });
+            
+            if (presentGroups.length === 0) {
+                contentHtml += '<p class="empty-state">No abilities recorded.</p>';
+            } else {
+                contentHtml += '<div class="row g-4 mb-4 ability-grid">';
+                presentGroups.forEach((group, index) => {
+                    const isStartOfRow = index % 2 === 0;
+                    if (isStartOfRow) {
+                        contentHtml += '<div class="col-12 d-flex flex-column flex-md-row gap-4">';
+                    }
+                    
+                    contentHtml += '<div class="col-md-6 ability-column">';
+                    contentHtml += '<h4>' + escapeHtml(group.title) + '</h4>';
+                    contentHtml += '<div class="trait-list">';
+                    group.abilities.forEach(a => {
+                        let badge = escapeHtml(a.ability_name);
+                        if (a.level && a.level > 0) badge += ' x' + escapeHtml(a.level);
+                        if (a.specialization && a.specialization.trim()) badge += ' (' + escapeHtml(a.specialization.trim()) + ')';
+                        contentHtml += '<span class="trait-badge">' + badge + '</span>';
+                    });
+                    contentHtml += '</div>';
+                    contentHtml += '</div>';
+                    
+                    const isEndOfRow = index % 2 === 1 || index === presentGroups.length - 1;
+                    if (isEndOfRow) {
+                        contentHtml += '</div>';
+                    }
+                });
+                contentHtml += '</div>';
+            }
+        } else if (currentViewData.abilities && currentViewData.abilities.length > 0) {
+            // VtM abilities from database
             const categorized = {
                 physical: [],
                 social: [],
@@ -437,11 +650,15 @@ if ($script_dir === '/') {
             });
             
             const presentGroups = Object.entries(categorized)
-                .filter(([, list]) => list.length > 0)
-                .map(([key, list]) => ({
-                    title: key.charAt(0).toUpperCase() + key.slice(1),
-                    abilities: list
-                }));
+                .filter(function(entry) {
+                    return entry[1].length > 0;
+                })
+                .map(function(entry) {
+                    return {
+                        title: entry[0].charAt(0).toUpperCase() + entry[0].slice(1),
+                        abilities: entry[1]
+                    };
+                });
             
             if (presentGroups.length === 0) {
                 contentHtml += '<p class="empty-state">No abilities recorded.</p>';
@@ -476,9 +693,135 @@ if ($script_dir === '/') {
             contentHtml += '<p class="empty-state">No abilities recorded.</p>';
         }
         
-        // Disciplines
-        contentHtml += '<h3>Disciplines</h3>';
-        if (currentViewData.disciplines && currentViewData.disciplines.length > 0) {
+        // Disciplines (VtM only) or Arcanoi (Wraith)
+        if (isWraith) {
+            // Arcanoi
+            contentHtml += '<h3>Arcanoi</h3>';
+            if (char.arcanoi && Array.isArray(char.arcanoi) && char.arcanoi.length > 0) {
+                contentHtml += '<div class="discipline-list">';
+                char.arcanoi.forEach(arc => {
+                    const arcName = escapeHtml(arc.name || 'Unknown');
+                    const rating = arc.rating || 0;
+                    const arts = arc.arts || [];
+                    
+                    contentHtml += '<div class="discipline-item">';
+                    contentHtml += '<div style="width: 100%;">';
+                    contentHtml += '<div style="display: flex; justify-content: space-between; align-items: center;">';
+                    contentHtml += '<strong>' + arcName + ' ' + rating + '</strong>';
+                    if (arts.length > 0) {
+                        contentHtml += '<span style="color: #c4a037;">' + arts.length + ' arts</span>';
+                    }
+                    contentHtml += '</div>';
+                    
+                    if (arts.length > 0) {
+                        contentHtml += '<div class="powers-list" style="margin-top: 8px; padding-left: 20px;">';
+                        arts.forEach(art => {
+                            const artName = escapeHtml(art.power || 'Unknown');
+                            contentHtml += '<div style="color: #c4a037; font-size: 0.9em;">• ' + artName + ' <span style="color: #999; font-size: 0.85em;">(Level ' + (art.level || 0) + ')</span></div>';
+                        });
+                        contentHtml += '</div>';
+                    }
+                    
+                    contentHtml += '</div>';
+                    contentHtml += '</div>';
+                });
+                contentHtml += '</div>';
+            } else {
+                contentHtml += '<p class="empty-state">No Arcanoi recorded.</p>';
+            }
+            
+            // Fetters
+            contentHtml += '<h3>Fetters</h3>';
+            if (char.fetters && Array.isArray(char.fetters) && char.fetters.length > 0) {
+                contentHtml += '<div class="trait-list">';
+                char.fetters.forEach(fetter => {
+                    const name = escapeHtml(fetter.name || 'Unknown');
+                    const rating = fetter.rating || 0;
+                    contentHtml += '<div class="merit-flaw-item">';
+                    contentHtml += '<span class="trait-badge">' + name + ' (Rating ' + rating + ')</span>';
+                    if (fetter.description) {
+                        const descEscaped = escapeHtml(fetter.description).replace(/\n/g, '<br>');
+                        contentHtml += '<p class="item-description">' + descEscaped + '</p>';
+                    }
+                    contentHtml += '</div>';
+                });
+                contentHtml += '</div>';
+            } else {
+                contentHtml += '<p class="empty-state">No Fetters recorded.</p>';
+            }
+            
+            // Passions
+            contentHtml += '<h3>Passions</h3>';
+            if (char.passions && Array.isArray(char.passions) && char.passions.length > 0) {
+                contentHtml += '<div class="trait-list">';
+                char.passions.forEach(passion => {
+                    const passionText = escapeHtml(passion.passion || 'Unknown');
+                    const rating = passion.rating || 0;
+                    contentHtml += '<div class="merit-flaw-item">';
+                    contentHtml += '<span class="trait-badge">' + passionText + ' (Rating ' + rating + ')</span>';
+                    contentHtml += '</div>';
+                });
+                contentHtml += '</div>';
+            } else {
+                contentHtml += '<p class="empty-state">No Passions recorded.</p>';
+            }
+            
+            // Pathos & Corpus
+            if (char.pathos_corpus) {
+                contentHtml += '<h3>Pathos & Corpus</h3>';
+                const pc = char.pathos_corpus;
+                contentHtml += '<div class="row g-3 mt-2">';
+                contentHtml += '<div class="col-lg-4 col-md-4 col-sm-6"><p><strong>Pathos:</strong> ' + (pc.pathos_current || 0) + '/' + (pc.pathos_max || 0) + '</p></div>';
+                contentHtml += '<div class="col-lg-4 col-md-4 col-sm-6"><p><strong>Corpus:</strong> ' + (pc.corpus_current || 0) + '/' + (pc.corpus_max || 0) + '</p></div>';
+                contentHtml += '<div class="col-lg-4 col-md-4 col-sm-6"><p><strong>Willpower:</strong> ' + (char.willpower_current || 0) + '/' + (char.willpower_permanent || 0) + '</p></div>';
+                contentHtml += '</div>';
+            }
+            
+            // Shadow
+            if (char.shadow) {
+                contentHtml += '<h3>Shadow</h3>';
+                const shadow = char.shadow;
+                contentHtml += '<div class="row g-3 mt-2">';
+                if (shadow.archetype) contentHtml += '<div class="col-lg-4 col-md-4 col-sm-6"><p><strong>Archetype:</strong> ' + escapeHtml(shadow.archetype) + '</p></div>';
+                contentHtml += '<div class="col-lg-4 col-md-4 col-sm-6"><p><strong>Angst:</strong> ' + (shadow.angst_current || 0) + '/' + (shadow.angst_permanent || 0) + '</p></div>';
+                if (shadow.dark_passions && Array.isArray(shadow.dark_passions) && shadow.dark_passions.length > 0) {
+                    contentHtml += '<div class="col-12"><p><strong>Dark Passions:</strong></p><div class="trait-list">';
+                    shadow.dark_passions.forEach(dp => {
+                        const dpText = escapeHtml(dp.passion || 'Unknown');
+                        const rating = dp.rating || 0;
+                        contentHtml += '<span class="trait-badge">' + dpText + ' (' + rating + ')</span>';
+                    });
+                    contentHtml += '</div></div>';
+                }
+                if (shadow.shadow_notes) {
+                    const notesEscaped = escapeHtml(shadow.shadow_notes).replace(/\n/g, '<br>');
+                    contentHtml += '<div class="col-12"><p><strong>Notes:</strong></p><div class="text-content">' + notesEscaped + '</div></div>';
+                }
+                contentHtml += '</div>';
+            }
+            
+            // Date of Death
+            if (char.date_of_death) {
+                contentHtml += '<h3>Death Information</h3>';
+                contentHtml += '<div class="row g-3 mt-2">';
+                contentHtml += '<div class="col-lg-6 col-md-6 col-sm-12"><p><strong>Date of Death:</strong> ' + escapeHtml(char.date_of_death) + '</p></div>';
+                if (char.cause_of_death) {
+                    const causeEscaped = escapeHtml(char.cause_of_death).replace(/\n/g, '<br>');
+                    contentHtml += '<div class="col-lg-6 col-md-6 col-sm-12"><p><strong>Cause of Death:</strong></p><div class="text-content">' + causeEscaped + '</div></div>';
+                }
+                contentHtml += '</div>';
+            }
+            
+            // Ghostly Appearance
+            if (char.ghostly_appearance) {
+                contentHtml += '<h3>Ghostly Appearance</h3>';
+                const ghostEscaped = escapeHtml(char.ghostly_appearance).replace(/\n/g, '<br>');
+                contentHtml += '<div class="text-content">' + ghostEscaped + '</div>';
+            }
+        } else {
+            // Disciplines (VtM)
+            contentHtml += '<h3>Disciplines</h3>';
+            if (currentViewData.disciplines && currentViewData.disciplines.length > 0) {
             contentHtml += '<div class="discipline-list">';
             currentViewData.disciplines.forEach(d => {
                 const discName = (d.discipline_name || 'Unknown').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
@@ -691,6 +1034,7 @@ if ($script_dir === '/') {
             contentHtml += '</div>';
         } else {
             contentHtml += '<p class="empty-state">No relationships recorded.</p>';
+        }
         }
         
         // Equipment

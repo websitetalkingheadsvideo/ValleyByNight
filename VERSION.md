@@ -1,6 +1,30 @@
 # Version History
 
-## Current Version: 0.8.4
+## Current Version: 0.8.5
+
+**Date:** 2025-01-26  
+**Type:** Patch (Character View Modal Unification & Bug Fixes)
+
+### Changes:
+- **Unified Character View Modal** - Integrated Wraith and VtM character views into shared modal component
+  - Replaced custom Wraith modal with shared `character_view_modal.php` component
+  - Added client-side data transformation for Wraith API responses to match VtM format
+  - Implemented field-aware rendering that preserves differences between character types
+  - Added Wraith-specific fallback image (`WtOlogo.webp`) when character portrait is missing
+  - Maintained visual and structural consistency between both character type views
+- **JavaScript Syntax Fixes** - Resolved multiple syntax errors in character view modal
+  - Converted arrow functions to regular functions for better browser compatibility
+  - Fixed template literal syntax issues causing parsing errors
+  - Fixed missing closing brace in `renderCharacterView` function (else block)
+  - Simplified ternary operators and array destructuring patterns
+  - Fixed Unicode regex pattern compatibility issues
+- **Wraith Logo Display Fix** - Improved logo rendering for non-square images
+  - Added `character-portrait-logo` CSS class for Wraith fallback images
+  - Changed `object-fit: cover` to `object-fit: contain` for logo display
+  - Added semi-transparent background for better logo visibility
+  - Ensures full logo is displayed without cropping
+
+## Previous Version: 0.8.4
 
 **Date:** 2025-01-26  
 **Type:** Patch (Configuration Updates & Documentation Refinements)

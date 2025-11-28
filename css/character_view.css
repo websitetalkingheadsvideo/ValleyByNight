@@ -115,6 +115,11 @@
     box-shadow: 0 6px 14px rgba(0, 0, 0, 0.45);
 }
 
+.character-portrait-logo {
+    object-fit: contain;
+    background: rgba(0, 0, 0, 0.3);
+}
+
 .character-portrait-placeholder {
     color: #d4c4b0;
     font-family: var(--font-body), 'Source Serif Pro', serif;
