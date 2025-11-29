@@ -1,6 +1,27 @@
 # Version History
 
-## Current Version: 0.8.6
+## Current Version: 0.8.7
+
+**Date:** 2025-01-26  
+**Type:** Patch (Character Agent Analytical Query System)
+
+### Changes:
+- **Character Agent Search Interface** - Complete character search and analytical query system
+  - Added new character search interface at `agents/character_agent/characters.php`
+  - Supports natural language queries about characters, clans, NPCs, and analytical questions
+  - Implemented analytical query processing for questions like "which clan has the most NPCs"
+  - Added clan-based range queries (e.g., "which clans have more than 0 and fewer than 3 characters")
+  - Created specialized functions for clan statistics (most NPCs, most PCs, most characters overall)
+  - Added count-by-clan functionality with PC/NPC breakdown
+  - Implemented range query parsing for numeric comparisons (more than, fewer than, between, exactly, at least, at most)
+- **Character Agent Styling** - Custom blood red alert styling
+  - Created new `alert-blood` CSS class with blood red gradient background (#8B0000 to #600000)
+  - Added lighter red border (#b30000) matching project theme
+  - Implemented drop shadow effects matching clan logo styling (glow and inset shadows)
+  - Styled results content area with blood red gradient background
+  - Applied alert-blood styling to all clan analytical query results
+
+## Previous Version: 0.8.6
 
 **Date:** 2025-01-26  
 **Type:** Patch (Character View Modal Improvements & Character Creation Enhancements)
