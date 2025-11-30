@@ -1,0 +1,81 @@
+{
+  "name": "vbn-style-agent-mcp",
+  "version": "1.0.0",
+  "description": "Valley by Night Style Agent MCP - Access to Art Bible documentation, rules, prompts, and chapters.",
+  "servers": [
+    {
+      "type": "stdio",
+      "command": "php",
+      "args": [
+        "G:\\VbN\\agents\\style_agent\\server.php"
+      ]
+    }
+  ],
+  "tools": [
+    {
+      "name": "getMCPInfo",
+      "description": "Get Style Agent MCP metadata from the database (name, version, path, etc.)",
+      "inputSchema": {
+        "type": "object",
+        "properties": {}
+      }
+    },
+    {
+      "name": "listChapters",
+      "description": "List all available Art Bible chapter files with optional metadata from database",
+      "inputSchema": {
+        "type": "object",
+        "properties": {}
+      }
+    },
+    {
+      "name": "getChapter",
+      "description": "Load a specific Art Bible chapter file by filename (e.g., 'Art_Bible_I_PORTRAIT_SYSTEM__.md')",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "chapter_file": {
+            "type": "string",
+            "description": "Filename of the chapter to load (e.g., 'Art_Bible_I_PORTRAIT_SYSTEM__.md')"
+          }
+        },
+        "required": [
+          "chapter_file"
+        ]
+      }
+    },
+    {
+      "name": "getRules",
+      "description": "Load the distilled RULES.md file containing key aesthetic constraints and do/don't guidelines",
+      "inputSchema": {
+        "type": "object",
+        "properties": {}
+      }
+    },
+    {
+      "name": "getPrompts",
+      "description": "Load the PROMPTS.md file containing prompt templates and construction guidelines",
+      "inputSchema": {
+        "type": "object",
+        "properties": {}
+      }
+    },
+    {
+      "name": "searchArtBible",
+      "description": "Search across all Art Bible chapter files for a query string, returning matching chapters and line numbers",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "query": {
+            "type": "string",
+            "description": "Search query to find in Art Bible chapters"
+          }
+        },
+        "required": [
+          "query"
+        ]
+      }
+    }
+  ]
+}
+
