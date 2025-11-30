@@ -1,0 +1,318 @@
+{
+  "_template_version": "1.0.0",
+  "_description": "Wraith: The Oblivion Character Sheet Template - All fields needed for database integration",
+  "_database_table": "wraith_characters",
+  
+  "id": 0,
+  "user_id": 0,
+  "character_name": "",
+  "shadow_name": "",
+  "player_name": "",
+  "chronicle": "Valley by Night",
+  "nature": "",
+  "demeanor": "",
+  "concept": "",
+  "circle": "",
+  "guild": "",
+  "legion_at_death": "",
+  "date_of_death": null,
+  "cause_of_death": "",
+  "pc": 1,
+  "appearance": "",
+  "ghostly_appearance": "",
+  "biography": "",
+  "notes": "",
+  "equipment": "",
+  "character_image": "",
+  "status": "active",
+  
+  "timeline": {
+    "birthplace": "",
+    "birth_date": null,
+    "death_date": null,
+    "notable_mortal_past": "",
+    "world_war_two_experience": "",
+    "significant_events": []
+  },
+  
+  "personality": {
+    "tagline": "",
+    "narrative": "",
+    "quirks": [],
+    "habits": []
+  },
+  
+  "traits": {
+    "Physical": [],
+    "Social": [],
+    "Mental": []
+  },
+  
+  "negativeTraits": {
+    "Physical": [],
+    "Social": [],
+    "Mental": []
+  },
+  
+  "abilities": [],
+  
+  "specializations": {},
+  
+  "fetters": [],
+  
+  "passions": [],
+  
+  "arcanoi": [],
+  
+  "backgrounds": {},
+  
+  "backgroundDetails": {},
+  
+  "willpower_permanent": 5,
+  "willpower_current": 5,
+  
+  "pathos_corpus": {
+    "pathos_current": 0,
+    "pathos_max": 0,
+    "corpus_current": 0,
+    "corpus_max": 0,
+    "health_levels": []
+  },
+  
+  "shadow": {
+    "archetype": "",
+    "angst_current": 0,
+    "angst_permanent": 0,
+    "dark_passions": [],
+    "thorns": [],
+    "shadow_traits": [],
+    "shadow_notes": ""
+  },
+  
+  "harrowing": {
+    "last_harrowing_date": null,
+    "harrowing_notes": "",
+    "harrowing_history": []
+  },
+  
+  "merits_flaws": [],
+  
+  "status_details": {
+    "health_levels": 7,
+    "notes": ""
+  },
+  
+  "relationships": [],
+  
+  "artifacts": [],
+  
+  "custom_data": null,
+  
+  "actingNotes": "",
+  "agentNotes": "",
+  "health_status": "",
+  
+  "experience_total": 0,
+  "spent_xp": 0,
+  "experience_unspent": 0,
+  "shadow_xp_total": 0,
+  "shadow_xp_spent": 0,
+  "shadow_xp_available": 0,
+  
+  "created_at": null,
+  "updated_at": null,
+  
+  "_field_documentation": {
+    "id": "INTEGER - Auto-increment primary key (set to 0 for new characters)",
+    "user_id": "INTEGER - ID of user who owns this character (0 = system/NPC)",
+    "character_name": "STRING - Character's name (required)",
+    "shadow_name": "STRING - Wraith's shadow name (optional)",
+    "player_name": "STRING - Player name or 'NPC'",
+    "chronicle": "STRING - Chronicle name (default: 'Valley by Night')",
+    "nature": "STRING - Character's nature archetype",
+    "demeanor": "STRING - Character's demeanor archetype",
+    "concept": "STRING - One-line character concept",
+    "circle": "STRING - Character's circle affiliation",
+    "guild": "STRING - Character's guild",
+    "legion_at_death": "STRING - Legion at time of death",
+    "date_of_death": "DATE - ISO 8601 date (YYYY-MM-DD) when character died",
+    "cause_of_death": "STRING - How character died",
+    "pc": "INTEGER - 0 = NPC, 1 = PC",
+    "appearance": "TEXT - Mortal appearance description",
+    "ghostly_appearance": "TEXT - Appearance in the Shadowlands",
+    "biography": "TEXT - Full character backstory",
+    "notes": "TEXT - General notes about character",
+    "equipment": "TEXT - Equipment and possessions",
+    "character_image": "STRING - Path/filename to character image",
+    "status": "STRING - 'active', 'inactive', 'archived', 'dead', 'missing'",
+    
+    "timeline": "OBJECT - Timeline information",
+    "timeline.birthplace": "STRING - Where character was born",
+    "timeline.birth_date": "DATE - ISO 8601 date (YYYY-MM-DD)",
+    "timeline.death_date": "DATE - ISO 8601 date (YYYY-MM-DD)",
+    "timeline.notable_mortal_past": "STRING - Notable events in mortal life",
+    "timeline.world_war_two_experience": "STRING - WWII experiences if applicable",
+    "timeline.significant_events": "ARRAY - Array of event objects",
+    
+    "personality": "OBJECT - Personality information",
+    "personality.tagline": "STRING - One-line personality summary",
+    "personality.narrative": "STRING - Detailed personality description",
+    "personality.quirks": "ARRAY - Array of personality quirks",
+    "personality.habits": "ARRAY - Array of character habits",
+    
+    "traits": "OBJECT - Positive traits by category",
+    "traits.Physical": "ARRAY - Array of physical trait strings",
+    "traits.Social": "ARRAY - Array of social trait strings",
+    "traits.Mental": "ARRAY - Array of mental trait strings",
+    
+    "negativeTraits": "OBJECT - Negative/damaging traits by category (same structure as traits)",
+    
+    "abilities": "ARRAY - Character abilities",
+    "abilities_format": "Array of objects: [{\"name\": \"Occult\", \"category\": \"Mental\", \"level\": 4, \"specialization\": \"Necromancy\"}] OR Array of strings: [\"Performance (Voice) 4\", \"Subterfuge 2\"]",
+    
+    "specializations": "OBJECT - Ability specializations",
+    "specializations_format": "Object with ability names as keys: {\"Performance\": \"Voice\", \"Occult\": \"Necromancy\"}",
+    
+    "fetters": "ARRAY - Character fetters",
+    "fetters_format": "Array of objects: [{\"name\": \"Family Home\", \"rating\": 3, \"description\": \"Childhood home in Phoenix\"}]",
+    
+    "passions": "ARRAY - Character passions",
+    "passions_format": "Array of objects: [{\"passion\": \"Protect my family\", \"rating\": 5}, {\"passion\": \"Revenge on my killer\", \"rating\": 3}]",
+    
+    "arcanoi": "ARRAY - Wraith arcanoi (arts)",
+    "arcanoi_format": "Array of objects: [{\"name\": \"Argos\", \"rating\": 3, \"arts\": [{\"level\": 1, \"power\": \"Sense the Living\"}, {\"level\": 2, \"power\": \"Clairvoyance\"}]}]",
+    
+    "backgrounds": "OBJECT - Character backgrounds",
+    "backgrounds_format": "Object with name:level pairs: {\"Memories\": 3, \"Status\": 2, \"Allies\": 1, \"Haunt\": 4}",
+    
+    "backgroundDetails": "OBJECT - Detailed background descriptions",
+    "backgroundDetails_format": "Object with name:description pairs: {\"Memories\": \"Vivid memories of family life\", \"Status\": \"Respected member of the Guild\"}",
+    
+    "willpower_permanent": "INTEGER - Permanent willpower rating (1-10)",
+    "willpower_current": "INTEGER - Current willpower (can be lower than permanent)",
+    
+    "pathos_corpus": "OBJECT - Pathos and Corpus information",
+    "pathos_corpus.pathos_current": "INTEGER - Current pathos (0-10)",
+    "pathos_corpus.pathos_max": "INTEGER - Maximum pathos (0-10)",
+    "pathos_corpus.corpus_current": "INTEGER - Current corpus (0-10)",
+    "pathos_corpus.corpus_max": "INTEGER - Maximum corpus (0-10)",
+    "pathos_corpus.health_levels": "ARRAY - Health level statuses",
+    
+    "shadow": "OBJECT - Shadow information",
+    "shadow.archetype": "STRING - Shadow archetype name",
+    "shadow.angst_current": "INTEGER - Current angst (0-10)",
+    "shadow.angst_permanent": "INTEGER - Permanent angst (0-10)",
+    "shadow.dark_passions": "ARRAY - Array of dark passion objects",
+    "shadow.thorns": "ARRAY - Array of shadow thorns",
+    "shadow.shadow_traits": "ARRAY - Array of shadow trait strings",
+    "shadow.shadow_notes": "STRING - Notes about the shadow",
+    
+    "harrowing": "OBJECT - Harrowing information",
+    "harrowing.last_harrowing_date": "DATE - ISO 8601 date (YYYY-MM-DD) of last harrowing",
+    "harrowing.harrowing_notes": "STRING - Notes about harrowings",
+    "harrowing.harrowing_history": "ARRAY - Array of harrowing event objects",
+    
+    "merits_flaws": "ARRAY - Merits and flaws",
+    "merits_flaws_format": "Array of objects: [{\"name\": \"Iron Will\", \"type\": \"merit\", \"point_value\": 3, \"description\": \"...\"}]",
+    
+    "status_details": "OBJECT - Additional status information",
+    "status_details.health_levels": "INTEGER - Number of health levels",
+    "status_details.notes": "STRING - Status-related notes",
+    
+    "relationships": "ARRAY - Character relationships",
+    "relationships_format": "Array of objects: [{\"related_character_name\": \"John Doe\", \"relationship_type\": \"friend\", \"relationship_subtype\": \"ally\", \"strength\": \"strong\", \"description\": \"...\"}]",
+    
+    "artifacts": "ARRAY - Wraith artifacts",
+    "artifacts_format": "Array of objects: [{\"name\": \"Soulforged Blade\", \"description\": \"...\", \"powers\": []}]",
+    
+    "custom_data": "OBJECT - Custom data (null if not used)",
+    
+    "actingNotes": "TEXT - Notes for acting/directing this character",
+    "agentNotes": "TEXT - Notes for AI agent interaction with this character",
+    "health_status": "STRING - Current health status description",
+    
+    "experience_total": "INTEGER - Total experience points earned",
+    "spent_xp": "INTEGER - Total experience points spent",
+    "experience_unspent": "INTEGER - Unspent experience points (should equal experience_total - spent_xp)",
+    "shadow_xp_total": "INTEGER - Total shadow experience points earned",
+    "shadow_xp_spent": "INTEGER - Total shadow experience points spent",
+    "shadow_xp_available": "INTEGER - Unspent shadow experience points (should equal shadow_xp_total - shadow_xp_spent)",
+    
+    "created_at": "TIMESTAMP - ISO 8601 date-time when character was created (auto-set by database)",
+    "updated_at": "TIMESTAMP - ISO 8601 date-time when character was last updated (auto-set by database)"
+  },
+  
+  "_example_values": {
+    "abilities": [
+      {"name": "Occult", "category": "Mental", "level": 4, "specialization": "Necromancy"},
+      {"name": "Performance", "category": "Social", "level": 3, "specialization": "Voice"},
+      {"name": "Subterfuge", "category": "Social", "level": 2}
+    ],
+    "fetters": [
+      {"name": "Family Home", "rating": 3, "description": "Childhood home in Phoenix where family still lives"},
+      {"name": "Wedding Ring", "rating": 2, "description": "Ring from marriage, kept by widow"}
+    ],
+    "passions": [
+      {"passion": "Protect my family from harm", "rating": 5},
+      {"passion": "Revenge on my killer", "rating": 3},
+      {"passion": "Find peace in the afterlife", "rating": 2}
+    ],
+    "arcanoi": [
+      {
+        "name": "Argos",
+        "rating": 3,
+        "arts": [
+          {"level": 1, "power": "Sense the Living"},
+          {"level": 2, "power": "Clairvoyance"},
+          {"level": 3, "power": "Soul Sight"}
+        ]
+      }
+    ],
+    "backgrounds": {
+      "Memories": 3,
+      "Status": 2,
+      "Allies": 1,
+      "Haunt": 4
+    },
+    "backgroundDetails": {
+      "Memories": "Vivid memories of family life and career",
+      "Status": "Respected member of the Guild of Artificers",
+      "Allies": "Small network of wraiths in Phoenix area",
+      "Haunt": "Abandoned warehouse in downtown Phoenix"
+    },
+    "shadow": {
+      "archetype": "The Tempter",
+      "angst_current": 3,
+      "angst_permanent": 5,
+      "dark_passions": [
+        {"passion": "Corrupt the living", "rating": 4},
+        {"passion": "Destroy happy families", "rating": 3}
+      ],
+      "thorns": [
+        {"name": "Envy", "description": "Feels intense jealousy of the living"}
+      ],
+      "shadow_traits": ["Manipulative", "Cruel", "Deceptive"]
+    },
+    "merits_flaws": [
+      {"name": "Iron Will", "type": "merit", "point_value": 3, "description": "Resistant to shadow influence"},
+      {"name": "Phantasm", "type": "flaw", "point_value": -2, "description": "Cannot fully materialize"}
+    ],
+    "relationships": [
+      {
+        "related_character_name": "Sarah Johnson",
+        "relationship_type": "family",
+        "relationship_subtype": "wife",
+        "strength": "strong",
+        "description": "Deceased character's widow, still living"
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Soulforged Blade",
+        "description": "A blade forged from the essence of a wraith's passion",
+        "powers": ["Can harm other wraiths", "Grants +1 to Argos rolls"]
+      }
+    ]
+  }
+}
+

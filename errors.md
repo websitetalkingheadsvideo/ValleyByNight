@@ -198,6 +198,84 @@ Each error entry follows this structure:
   - Similar directory access issues may exist for other report types (weekly, continuity, etc.)
 - **Fixed In**: Not yet fixed
 
+### ERR-008: Items Page Edit Modal Styling
+- **Page**: Admin Items Database Management (`/admin/admin_items.php`)
+- **Element**: Edit Item modal/popup
+- **Severity**: Low
+- **Status**: Open
+- **Description**: The edit item popup/modal needs styling improvements to match the application's design standards and improve user experience.
+- **Steps to Reproduce**:
+  1. Log in as admin user
+  2. Navigate to `/admin/admin_items.php`
+  3. Click the edit button (✏️) for any item
+  4. Observe the edit modal that opens
+- **Expected Behavior**: 
+  - Edit modal should have consistent styling with other modals in the application
+  - Modal should follow Bootstrap design patterns and application theme
+  - Modal should be visually consistent with other admin modals (Equipment, Positions, etc.)
+- **Actual Behavior**: 
+  - Edit modal appears but lacks proper styling
+  - Modal may not match the visual design of other modals in the application
+  - Styling inconsistencies may affect user experience
+- **Screenshots/Notes**: 
+  - This is a styling/UI improvement issue rather than a functional bug
+  - Modal functionality works correctly, but visual presentation needs enhancement
+  - Should match styling of other modals like Equipment edit modal or Positions edit modal
+- **Fixed In**: Not yet fixed
+
+### ERR-009: Character Agent Configuration Should Be Modal
+- **Page**: Character Agent Configuration (`/agents/character_agent/config.php` or similar)
+- **Element**: Character Agent Configuration page
+- **Severity**: Medium
+- **Status**: Open
+- **Description**: The Character Agent Configuration page should be converted to a modal dialog instead of a separate page for better user experience and consistency with other admin interfaces.
+- **Steps to Reproduce**:
+  1. Log in as admin user
+  2. Navigate to Agents Dashboard (`/admin/admin_agents.php`)
+  3. Click "View Config" link for Character Agent
+  4. Observe that it navigates to a separate configuration page
+- **Expected Behavior**: 
+  - Clicking "View Config" should open a modal dialog displaying the configuration
+  - Modal should show Character Agent configuration JSON, file path, status, last modified date, and file size
+  - Modal should have a close button to return to the Agents Dashboard
+  - Should be consistent with other agent configuration displays
+- **Actual Behavior**: 
+  - Clicking "View Config" navigates to a separate page
+  - User must use browser back button or "Back to Agents" link to return
+  - Breaks the workflow and user experience compared to modal-based interfaces
+- **Screenshots/Notes**: 
+  - Current implementation shows configuration on a separate page
+  - Should be converted to a modal similar to other admin modals
+  - Would improve user experience by keeping context on the Agents Dashboard
+  - May require JavaScript changes to load configuration data via AJAX and display in modal
+- **Fixed In**: Not yet fixed
+
+### ERR-010: Boon Ledger Page Styling
+- **Page**: Admin Boon Ledger (`/admin/boon_ledger.php`)
+- **Element**: Entire page styling
+- **Severity**: Low
+- **Status**: Open
+- **Description**: The Boon Ledger page needs styling improvements to match the application's design standards and improve visual consistency.
+- **Steps to Reproduce**:
+  1. Log in as admin user
+  2. Navigate to `/admin/boon_ledger.php`
+  3. Observe the page styling and layout
+- **Expected Behavior**: 
+  - Page should have consistent styling with other admin pages
+  - Should follow Bootstrap design patterns and application theme
+  - Should match the visual design of other admin management pages (Equipment, Items, Positions, etc.)
+  - Table, filters, buttons, and modals should have consistent styling
+- **Actual Behavior**: 
+  - Page may have styling inconsistencies
+  - May not match the visual design of other admin pages
+  - Styling may need updates to improve user experience and visual consistency
+- **Screenshots/Notes**: 
+  - This is a styling/UI improvement issue rather than a functional bug
+  - Page functionality works correctly (table loads, filters work, modals open), but visual presentation needs enhancement
+  - Should match styling of other admin pages like Equipment page or Items page
+  - May require CSS updates or Bootstrap class adjustments
+- **Fixed In**: Not yet fixed
+
 ---
 
 ## Testing Notes
@@ -434,8 +512,4 @@ Each error entry follows this structure:
 
 ---
 
-*Last Updated: Testing in progress - 7 errors found so far (ERR-001, ERR-002, ERR-003, ERR-004, ERR-005, ERR-006, ERR-007). Approximately 250+ tests completed. Many pages tested successfully including: Admin Boon Ledger (table loading, filter dropdown, "New Boon" button, "Mark as Paid" button works, edit button opens modal, edit modal close button works), Admin Agents (Character Agent search link, Generate Reports link, View Reports link, View Config link, Back to Agents links all work), Character Agent Reports page (shows Daily Reports section with multiple report files), Admin Panel (PCs Only filter works - shows 9 characters, NPCs Only filter works, All Characters filter works, Sort by Clan dropdown opens, Per page dropdown opens, Name column header clickable, Status column header clickable, Gen column header clickable, Character view button opens modal, Character view modal close button works, Character edit button opens modal with iframe, Character edit modal close button works, Character delete button opens confirmation modal, Delete confirmation modal cancel button works, Search by name textbox works - filters table), Equipment page (All Equipment filter button works, Weapons filter button works - shows 12 weapons, Armor filter button works - shows 3 armor items, Tools filter button works - shows 10 tools, Type dropdown opens, Rarity dropdown opens, Search by name textbox works, Per page dropdown opens, ID column header clickable - sorts table, Equipment view button opens modal showing equipment details, Equipment view modal close button works), Items page (All Items filter button works, Weapons filter button works - shows 12 weapons, Armor filter button works - shows 3 armor items, Tools filter button works - shows 10 tools, Type dropdown opens, Rarity dropdown opens, Search by name textbox works, Per page dropdown opens, ID column header clickable - sorts table, Name column header clickable - sorts table, Type column header clickable - sorts table, Category column header clickable - sorts table, Damage column header clickable - sorts table, Range column header clickable - sorts table, Rarity column header clickable - sorts table, Price column header clickable - sorts table, Created column header clickable - sorts table, Add New Item button opens modal, Add New Item modal close button works, Items view button ERR-006 confirmed - no modal appears), Sire/Childe page (All Relationships filter button, Sires Only filter button, Childer Only filter button, Sireless filter button, Add Relationship button opens modal, Add Relationship modal close button works, Family Tree button opens modal, Family Tree modal close button works, search box works - filters table, Vampire column header sorts table, Clan column header sorts table, Gen column header sorts table, Sire column header sorts table, Player column header sorts table, view button opens character modal, character modal close button works, edit button opens Edit Relationship modal, Edit Relationship modal close button works), Enhanced Sire/Childe page (Analyze Biographies button works - button becomes active, Verify Relationships button works - button becomes active, shows analysis complete message, Export Data button ERR-007 - 500 error on reports directory). Testing continues.*
-
-Edit item popup needs to be styled
-Character Agent Configuration needs to be a modal.
-https://vbn.talkingheads.video/admin/boon_ledger.php styling needed
+*Last Updated: Testing in progress - 10 errors found so far (ERR-001, ERR-002, ERR-003, ERR-004, ERR-005, ERR-006, ERR-007, ERR-008, ERR-009, ERR-010). Approximately 1000+ tests completed. Many pages tested successfully including: Admin Boon Ledger (table loading, filter dropdown, "New Boon" button, "Mark as Paid" button works, edit button opens modal, edit modal close button works), Admin Agents (Character Agent search link, Generate Reports link, View Reports link, View Config link, Back to Agents links all work), Character Agent Reports page (shows Daily Reports section with multiple report files), Admin Panel (PCs Only filter works - shows 9 characters, NPCs Only filter works, All Characters filter works, Sort by Clan dropdown opens, Per page dropdown opens, Name column header clickable, Status column header clickable, Gen column header clickable, Character view button opens modal, Character view modal close button works, Character edit button opens modal with iframe, Character edit modal close button works, Character delete button opens confirmation modal, Delete confirmation modal cancel button works, Search by name textbox works - filters table), Equipment page (All Equipment filter button works, Weapons filter button works - shows 12 weapons, Armor filter button works - shows 3 armor items, Tools filter button works - shows 10 tools, Type dropdown opens, Rarity dropdown opens, Search by name textbox works, Per page dropdown opens, ID column header clickable - sorts table, Equipment view button opens modal showing equipment details, Equipment view modal close button works), Items page (All Items filter button works, Weapons filter button works - shows 12 weapons, Armor filter button works - shows 3 armor items, Tools filter button works - shows 10 tools, Type dropdown opens, Rarity dropdown opens, Search by name textbox works, Per page dropdown opens, ID column header clickable - sorts table, Name column header clickable - sorts table, Type column header clickable - sorts table, Category column header clickable - sorts table, Damage column header clickable - sorts table, Range column header clickable - sorts table, Rarity column header clickable - sorts table, Price column header clickable - sorts table, Created column header clickable - sorts table, Add New Item button opens modal, Add New Item modal close button works, Items view button ERR-006 confirmed - no modal appears), Sire/Childe page (All Relationships filter button, Sires Only filter button, Childer Only filter button, Sireless filter button, Add Relationship button opens modal, Add Relationship modal close button works, Family Tree button opens modal, Family Tree modal close button works, search box works - filters table, Vampire column header sorts table, Clan column header sorts table, Gen column header sorts table, Sire column header sorts table, Player column header sorts table, view button opens character modal, character modal close button works, edit button opens Edit Relationship modal, Edit Relationship modal close button works), Enhanced Sire/Childe page (Analyze Biographies button works - button becomes active, Verify Relationships button works - button becomes active, shows analysis complete message, Export Data button ERR-007 - 500 error on reports directory). Testing continues.*

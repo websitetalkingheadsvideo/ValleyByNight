@@ -26,7 +26,7 @@
 .stats-panel { 
     /* Bootstrap .row and .g-4 handle layout and spacing */
 }
-.stat-card { 
+.vbn-stat-card { 
     /* Bootstrap columns handle sizing (col-md-4 col-sm-6) */
     background: linear-gradient(135deg, #2a1515 0%, #1a0f0f 100%); 
     border: 2px solid #8B0000; 
@@ -35,15 +35,15 @@
     text-align: center; 
     box-shadow: 0 4px 15px rgba(139, 0, 0, 0.3); 
 }
-.stat-number { font-family: var(--font-brand), 'IM Fell English', serif; font-size: 3em; color: #8B0000; font-weight: bold; text-shadow: 0 0 10px rgba(139, 0, 0, 0.5); }
-.stat-label { font-family: var(--font-body), 'Source Serif Pro', serif; color: #b8a090; font-size: 1em; margin-top: 10px; }
+.vbn-stat-number { font-family: var(--font-brand), 'IM Fell English', serif; font-size: 3em; color: #8B0000; font-weight: bold; text-shadow: 0 0 10px rgba(139, 0, 0, 0.5); }
+.vbn-stat-label { font-family: var(--font-body), 'Source Serif Pro', serif; color: #b8a090; font-size: 1em; margin-top: 10px; }
 
 /* Action Grid */
 /* Bootstrap grid handles: .row .col-md-4 .col-sm-6 with .g-4 .mb-5 */
 .action-grid { 
     /* Bootstrap .row and .g-4 handle layout and spacing */
 }
-.action-card { 
+.vbn-action-card { 
     background: linear-gradient(135deg, #2a1515 0%, #1a0f0f 100%); 
     border: 2px solid #8B0000; 
     border-radius: 8px; 
@@ -52,17 +52,14 @@
     box-shadow: 0 4px 15px rgba(139, 0, 0, 0.3); 
     transition: all 0.3s ease; 
 }
-.action-card:not(.disabled):hover { transform: translateY(-5px); box-shadow: 0 6px 25px rgba(139, 0, 0, 0.5); border-color: #b30000; }
-.action-card.disabled { opacity: 0.5; cursor: not-allowed; }
-.card-icon { font-size: 3em; margin-bottom: 15px; }
-.action-card h3 { font-family: var(--font-title), 'Libre Baskerville', serif; color: #f5e6d3; font-size: 1.3em; margin-bottom: 10px; }
-.action-card p { font-family: var(--font-body), 'Source Serif Pro', serif; color: #b8a090; font-size: 0.95em; margin-bottom: 20px; line-height: 1.5; }
+.vbn-action-card:not(.disabled):hover { transform: translateY(-5px); box-shadow: 0 6px 25px rgba(139, 0, 0, 0.5); border-color: #b30000; }
+.vbn-action-card.disabled { opacity: 0.5; cursor: not-allowed; }
+.vbn-card-icon { font-size: 3em; margin-bottom: 15px; }
+.vbn-action-card h3 { font-family: var(--font-title), 'Libre Baskerville', serif; color: #f5e6d3; font-size: 1.3em; margin-bottom: 10px; }
+.vbn-action-card p { font-family: var(--font-body), 'Source Serif Pro', serif; color: #b8a090; font-size: 0.95em; margin-bottom: 20px; line-height: 1.5; }
 
-/* Buttons */
-.gothic-button, .gothic-button-small { display: inline-block; background: linear-gradient(135deg, #8B0000 0%, #600000 100%); color: #f5e6d3; padding: 12px 25px; border: 1px solid #b30000; border-radius: 5px; text-decoration: none; font-family: var(--font-body), 'Source Serif Pro', serif; font-weight: 600; transition: all 0.3s ease; box-shadow: 0 2px 10px rgba(139, 0, 0, 0.3); }
-.gothic-button-small { padding: 8px 16px; font-size: 0.9em; }
-.gothic-button:hover, .gothic-button-small:hover { background: linear-gradient(135deg, #b30000 0%, #8B0000 100%); box-shadow: 0 4px 15px rgba(139, 0, 0, 0.6); transform: translateY(-2px); }
-.gothic-button-disabled { display: inline-block; background: #3a3a3a; color: #666; padding: 12px 25px; border: 1px solid #555; border-radius: 5px; font-family: var(--font-body), 'Source Serif Pro', serif; cursor: not-allowed; }
+/* Buttons - Use Bootstrap classes primarily, .vbn- prefix for custom overrides */
+.vbn-gothic-button-disabled { display: inline-block; background: #3a3a3a; color: #666; padding: 12px 25px; border: 1px solid #555; border-radius: 5px; font-family: var(--font-body), 'Source Serif Pro', serif; cursor: not-allowed; }
 
 /* Player Specific */
 .player-actions { margin-bottom: 40px; text-align: center; }
@@ -73,24 +70,24 @@
 /* Character List */
 .character-list { margin-bottom: 40px; }
 .list-heading { font-family: var(--font-title), 'Libre Baskerville', serif; color: #f5e6d3; font-size: 1.6em; margin-bottom: 20px; padding-bottom: 10px; border-bottom: 2px solid #8B0000; }
-.character-card { background: linear-gradient(135deg, #2a1515 0%, #1a0f0f 100%); border: 2px solid #8B0000; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(139, 0, 0, 0.3); transition: all 0.3s ease; }
-.character-card:hover { border-color: #b30000; box-shadow: 0 6px 20px rgba(139, 0, 0, 0.5); }
-.character-header { 
+.vbn-character-card { background: linear-gradient(135deg, #2a1515 0%, #1a0f0f 100%); border: 2px solid #8B0000; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(139, 0, 0, 0.3); transition: all 0.3s ease; }
+.vbn-character-card:hover { border-color: #b30000; box-shadow: 0 6px 20px rgba(139, 0, 0, 0.5); }
+.vbn-character-header { 
     /* Bootstrap utilities handle: display: flex, justify-content: space-between, align-items: center, flex-wrap, gap */
     margin-bottom: 15px; 
 }
-.character-name { 
+.vbn-character-name { 
     font-family: var(--font-title), 'Libre Baskerville', serif; 
     color: #f5e6d3; 
     font-size: 1.4em; 
     margin: 0; 
     /* Bootstrap utilities handle: display: flex, align-items: center, gap */
 }
-.badge-draft { display: inline-block; background: #8B6508; color: #f5e6d3; padding: 4px 12px; border-radius: 4px; font-size: 0.6em; font-weight: bold; letter-spacing: 1px; }
-.character-clan { font-family: var(--font-body), 'Source Serif Pro', serif; color: #b8a090; font-size: 1.1em; font-style: italic; }
-.character-details { margin-bottom: 15px; }
-.character-concept { font-family: var(--font-body), 'Source Serif Pro', serif; color: #d4c4b0; font-size: 1em; margin: 0; }
-.character-actions { text-align: right; }
+.vbn-badge-draft { display: inline-block; background: #8B6508; color: #f5e6d3; padding: 4px 12px; border-radius: 4px; font-size: 0.6em; font-weight: bold; letter-spacing: 1px; }
+.vbn-character-clan { font-family: var(--font-body), 'Source Serif Pro', serif; color: #b8a090; font-size: 1.1em; font-style: italic; }
+.vbn-character-details { margin-bottom: 15px; }
+.vbn-character-concept { font-family: var(--font-body), 'Source Serif Pro', serif; color: #d4c4b0; font-size: 1em; margin: 0; }
+.vbn-character-actions { text-align: right; }
 
 /* Empty State */
 .empty-state { text-align: center; padding: 60px 20px; background: rgba(26, 15, 15, 0.3); border: 2px dashed rgba(139, 0, 0, 0.3); border-radius: 8px; }
@@ -99,7 +96,7 @@
 
 /* Player Links */
 .player-links { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 25px; }
-.link-card { background: linear-gradient(135deg, #2a1515 0%, #1a0f0f 100%); border: 2px solid rgba(139, 0, 0, 0.5); border-radius: 8px; padding: 25px; text-align: center; opacity: 0.6; }
+.vbn-link-card { background: linear-gradient(135deg, #2a1515 0%, #1a0f0f 100%); border: 2px solid rgba(139, 0, 0, 0.5); border-radius: 8px; padding: 25px; text-align: center; opacity: 0.6; }
 
 /* Responsive Design */
 @media (max-width: 768px) {

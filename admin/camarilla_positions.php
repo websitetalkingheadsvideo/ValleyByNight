@@ -435,20 +435,48 @@ include __DIR__ . '/../includes/position_view_modal.php';
 ?>
 
 <!-- Delete Modal -->
-<div id="deletePositionModal" class="modal" role="dialog" aria-modal="true" aria-label="Confirm Deletion" aria-describedby="deletePositionName deleteWarning">
-    <div class="modal-content">
-        <h2 class="modal-title">⚠️ Confirm Deletion</h2>
-        <p class="modal-message">Delete position:</p>
-        <p class="modal-character-name" id="deletePositionName"></p>
-        <p class="modal-warning" id="deleteWarning" style="display:none;">
-            ⚠️ <strong>Warning</strong> - This position may have assignments!
-        </p>
-        <div class="modal-actions">
-            <button class="modal-btn cancel-btn btn btn-secondary" onclick="closeDeletePositionModal()">Cancel</button>
-            <button class="modal-btn confirm-btn btn btn-danger" id="confirmDeletePositionBtn">Delete</button>
-        </div>
-    </div>
-</div>
+<?php
+$modalId = 'deletePositionModal';
+$size = 'md';
+$fullscreen = false;
+$scrollable = false;
+include __DIR__ . '/../includes/modal_base.php';
+?>
+
+<script>
+(function() {
+    'use strict';
+    // Populate delete position modal content after modal_base.php is included
+    const modalEl = document.getElementById('deletePositionModal');
+    if (modalEl) {
+        const modalTitle = modalEl.querySelector('.vbn-modal-title');
+        const modalBody = modalEl.querySelector('.vbn-modal-body');
+        const modalFooter = modalEl.querySelector('.vbn-modal-footer');
+        
+        if (modalTitle) {
+            modalTitle.textContent = '⚠️ Confirm Deletion';
+            modalTitle.id = 'deletePositionModalLabel';
+        }
+        
+        if (modalBody) {
+            modalBody.innerHTML = `
+                <p class="vbn-modal-message">Delete position:</p>
+                <p class="vbn-modal-character-name" id="deletePositionName"></p>
+                <p class="vbn-modal-warning" id="deleteWarning" style="display:none;">
+                    ⚠️ <strong>Warning</strong> - This position may have assignments!
+                </p>
+            `;
+        }
+        
+        if (modalFooter) {
+            modalFooter.innerHTML = `
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                <button type="button" class="btn btn-danger" id="confirmDeletePositionBtn">Delete</button>
+            `;
+        }
+    }
+})();
+</script>
 
 <!-- Include external JavaScript -->
 <script src="../js/admin_camarilla_positions.js"></script>

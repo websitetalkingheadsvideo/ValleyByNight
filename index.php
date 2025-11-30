@@ -36,9 +36,6 @@ $user_role = $_SESSION['role'] ?? 'player';
 // Determine if user is admin/storyteller
 $is_admin = ($user_role === 'admin' || $user_role === 'storyteller');
 
-// Debug (remove after testing)
-echo "<!-- Debug: user_role = " . htmlspecialchars($user_role) . ", is_admin = " . ($is_admin ? 'true' : 'false') . " -->";
-
 // Chronicle information
 $tagline = "On your first night among the Kindred, the Prince dies—and the city of Phoenix bleeds intrigue";
 $chronicle_summary = "Phoenix, 1994. On the very night you're introduced to Kindred society, the Prince is murdered, plunging the Camarilla into chaos. As a neonate with everything to prove, you must navigate shifting alliances, enforce the Masquerade, and survive a city where Anarchs, Sabbat, Giovanni, and darker powers all compete for control. The Prince's death is only the beginning.";
@@ -47,7 +44,7 @@ $chronicle_summary = "Phoenix, 1994. On the very night you're introduced to Kind
 include 'includes/header.php';
 ?>
 
-<div class="dashboard-container container">
+<div class="page-content container py-4">
     <?php if ($is_admin): ?>
         <!-- ADMIN/STORYTELLER VIEW -->
         <div class="dashboard-admin">
@@ -66,69 +63,69 @@ include 'includes/header.php';
                 $stats_result = mysqli_query($conn, $stats_query);
                 $stats = mysqli_fetch_assoc($stats_result);
                 ?>
-                <div class="stat-card card col-md-4 col-sm-6">
-                    <div class="stat-number"><?php echo $stats['total'] ?? 0; ?></div>
-                    <div class="stat-label">Total Characters</div>
+                <div class="vbn-stat-card card col-md-4 col-sm-6">
+                    <div class="vbn-stat-number"><?php echo $stats['total'] ?? 0; ?></div>
+                    <div class="vbn-stat-label">Total Characters</div>
                 </div>
-                <div class="stat-card card col-md-4 col-sm-6">
-                    <div class="stat-number"><?php echo $stats['pcs'] ?? 0; ?></div>
-                    <div class="stat-label">Player Characters</div>
+                <div class="vbn-stat-card card col-md-4 col-sm-6">
+                    <div class="vbn-stat-number"><?php echo $stats['pcs'] ?? 0; ?></div>
+                    <div class="vbn-stat-label">Player Characters</div>
                 </div>
-                <div class="stat-card card col-md-4 col-sm-6">
-                    <div class="stat-number"><?php echo $stats['npcs'] ?? 0; ?></div>
-                    <div class="stat-label">NPCs</div>
+                <div class="vbn-stat-card card col-md-4 col-sm-6">
+                    <div class="vbn-stat-number"><?php echo $stats['npcs'] ?? 0; ?></div>
+                    <div class="vbn-stat-label">NPCs</div>
                 </div>
             </div>
             
             <!-- Admin Actions -->
             <nav aria-label="Admin Actions">
             <div class="action-grid row g-4 mb-5">
-                <div class="action-card card col-md-4 col-sm-6">
-                    <div class="card-icon" aria-hidden="true">🧪</div>
+                <div class="vbn-action-card card col-md-4 col-sm-6">
+                    <div class="vbn-card-icon" aria-hidden="true">🧪</div>
                     <h3>Clan Discovery Quiz</h3>
                     <p>Test the character creation questionnaire</p>
-                    <a href="questionnaire.php" class="gothic-button btn btn-primary">Take Quiz</a>
+                    <a href="questionnaire.php" class="btn btn-primary">Take Quiz</a>
                 </div>
-                <div class="action-card card col-md-4 col-sm-6">
-                    <div class="card-icon" aria-hidden="true">🤖</div>
+                <div class="vbn-action-card card col-md-4 col-sm-6">
+                    <div class="vbn-card-icon" aria-hidden="true">🤖</div>
                     <h3>Agents Dashboard</h3>
                     <p>Monitor automation helpers and review agent activity</p>
-                    <a href="admin/agents.php" class="gothic-button btn btn-primary">Open Agents</a>
+                    <a href="admin/agents.php" class="btn btn-primary">Open Agents</a>
                 </div>
-                <div class="action-card card col-md-4 col-sm-6">
-                    <div class="card-icon" aria-hidden="true">📜</div>
+                <div class="vbn-action-card card col-md-4 col-sm-6">
+                    <div class="vbn-card-icon" aria-hidden="true">📜</div>
                     <h3>Character List</h3>
                     <p>View, edit, and delete characters</p>
-                    <a href="admin/admin_panel.php" class="gothic-button btn btn-primary">View Characters</a>
+                    <a href="admin/admin_panel.php" class="btn btn-primary">View Characters</a>
                 </div>
-                <div class="action-card card col-md-4 col-sm-6">
-                    <div class="card-icon" aria-hidden="true">✨</div>
+                <div class="vbn-action-card card col-md-4 col-sm-6">
+                    <div class="vbn-card-icon" aria-hidden="true">✨</div>
                     <h3>Create Character</h3>
                     <p>Bring a new kindred into the world</p>
-                    <a href="lotn_char_create.php" class="gothic-button btn btn-primary">Create New</a>
+                    <a href="lotn_char_create.php" class="btn btn-primary">Create New</a>
                 </div>
 
-                <div class="action-card card col-md-4 col-sm-6">
-                    <div class="card-icon" aria-hidden="true">📍</div>
+                <div class="vbn-action-card card col-md-4 col-sm-6">
+                    <div class="vbn-card-icon" aria-hidden="true">📍</div>
                     <h3>Locations Database</h3>
                     <p>Manage game locations and character assignments</p>
-                    <a href="admin/admin_locations.php" class="gothic-button btn btn-primary">Manage Locations</a>
+                    <a href="admin/admin_locations.php" class="btn btn-primary">Manage Locations</a>
                 </div>
 
-                <div class="action-card card col-md-4 col-sm-6">
-                    <div class="card-icon" aria-hidden="true">🧰</div>
+                <div class="vbn-action-card card col-md-4 col-sm-6">
+                    <div class="vbn-card-icon" aria-hidden="true">🧰</div>
                     <h3>Items Database</h3>
                     <p>Manage equipment and artifacts</p>
-                    <a href="admin/admin_items.php" class="gothic-button btn btn-primary">Manage Items</a>
+                    <a href="admin/admin_items.php" class="btn btn-primary">Manage Items</a>
                 </div>
 
                 
 
-                <div class="action-card card disabled col-md-4 col-sm-6">
-                    <div class="card-icon">📖</div>
+                <div class="vbn-action-card card disabled col-md-4 col-sm-6">
+                    <div class="vbn-card-icon">📖</div>
                     <h3>AI Plots Manager</h3>
                     <p>Coming soon: Weave storylines with AI</p>
-                    <span class="gothic-button-disabled">Coming Soon</span>
+                    <span class="vbn-gothic-button-disabled">Coming Soon</span>
                 </div>
             </div>
             </nav>
@@ -188,23 +185,23 @@ include 'includes/header.php';
                 if (mysqli_num_rows($char_result) > 0):
                     while ($character = mysqli_fetch_assoc($char_result)):
                 ?>
-                    <div class="character-card card">
-                        <div class="character-header d-flex justify-content-between align-items-center gap-2 flex-wrap">
-                            <h4 class="character-name d-flex align-items-center gap-2">
+                    <div class="vbn-character-card card">
+                        <div class="vbn-character-header d-flex justify-content-between align-items-center gap-2 flex-wrap">
+                            <h4 class="vbn-character-name d-flex align-items-center gap-2">
                                 <?php echo htmlspecialchars($character['character_name']); ?>
                                 <?php if ($character['status'] == 'draft'): ?>
-                                    <span class="badge-draft">DRAFT</span>
+                                    <span class="vbn-badge-draft">DRAFT</span>
                                 <?php endif; ?>
                             </h4>
-                            <span class="character-clan"><?php echo htmlspecialchars($character['clan_name']); ?></span>
+                            <span class="vbn-character-clan"><?php echo htmlspecialchars($character['clan_name']); ?></span>
                         </div>
-                        <div class="character-details">
-                            <p class="character-concept">
+                        <div class="vbn-character-details">
+                            <p class="vbn-character-concept">
                                 <strong>Concept:</strong> <?php echo htmlspecialchars($character['concept'] ?? 'Unknown'); ?>
                             </p>
                         </div>
-                        <div class="character-actions">
-                            <a href="character_sheet.php?id=<?php echo $character['id']; ?>" class="gothic-button-small btn btn-secondary">
+                        <div class="vbn-character-actions">
+                            <a href="character_sheet.php?id=<?php echo $character['id']; ?>" class="btn btn-secondary">
                                 View/Edit
                             </a>
                         </div>
@@ -224,11 +221,11 @@ include 'includes/header.php';
             <nav aria-label="Player Links">
             <div class="player-links">
 
-                <div class="link-card">
-                    <div class="card-icon">💬</div>
+                <div class="vbn-link-card">
+                    <div class="vbn-card-icon">💬</div>
                     <h3>Chat Room</h3>
                     <p>Connect with other kindred (Coming Soon)</p>
-                    <span class="gothic-button-disabled">Unavailable</span>
+                    <span class="vbn-gothic-button-disabled">Unavailable</span>
                 </div>
             </div>
             </nav>

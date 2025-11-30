@@ -1,0 +1,245 @@
+[
+    {
+      "id": "rumor_alessandro_velvet_man_01",
+      "category": "Street",
+      "rarity": "uncommon",
+      "targets": ["Alessandro Vescari"],
+      "source_types": ["Street"],
+      "delivery_contexts": ["Street Locations", "The Hole", "Nightly Briefing"],
+      "prerequisites": {
+        "pc_traits": {
+          "abilities": { "Streetwise": 1 }
+        },
+        "influences": { "Street": 1 },
+        "locations_visited": ["Mesa_Street"],
+        "story_flags": []
+      },
+      "weight_modifiers": {
+        "pc_recent_actions": {
+          "visited_mesa": 2
+        },
+        "npc_activity": {
+          "Alessandro Vescari": 3
+        }
+      },
+      "text": "A dealer at The Hole says a tall guy in a velvet blazer has been watching the old theater-turned-temple in Mesa. Never buys. Never samples.",
+      "ghost_text": null,
+      "gm_notes": "Soft introduction. Foreshadows Alessandro’s surveillance.",
+      "connects_to_plot_ids": ["alessandro_street_rumors_of_the_velvet_man"]
+    },
+  
+    {
+      "id": "rumor_alessandro_cold_rooms_02",
+      "category": "Occult",
+      "rarity": "uncommon",
+      "targets": ["Alessandro Vescari"],
+      "source_types": ["Occult Influence"],
+      "delivery_contexts": ["Magic Shops", "Mother Hallow", "Nightly Briefing"],
+      "prerequisites": {
+        "pc_traits": {
+          "abilities": { "Occult": 1 }
+        },
+        "influences": { "Occult": 1 },
+        "locations_visited": ["Mother_Hallow_Shop"],
+        "story_flags": []
+      },
+      "weight_modifiers": {
+        "pc_recent_actions": {
+          "bought_occult_item": 2
+        },
+        "npc_activity": {
+          "Alessandro Vescari": 2
+        }
+      },
+      "text": "Mother Hallow mentions a polished man in a velvet blazer who asked about binding rites. 'He made the whole room cold,' she says.",
+      "ghost_text": null,
+      "gm_notes": "Hints at Necromancy. Encourages PC to pursue Occult routes.",
+      "connects_to_plot_ids": ["alessandro_ghost_with_a_mission"]
+    },
+  
+    {
+      "id": "rumor_alessandro_financial_whisper_03",
+      "category": "Finance",
+      "rarity": "common",
+      "targets": ["Alessandro Vescari"],
+      "source_types": ["Finance", "Politics"],
+      "delivery_contexts": ["Elysium", "Nightly Briefing"],
+      "prerequisites": {
+        "influences": { "Finance": 1 },
+        "pc_traits": {},
+        "locations_visited": [],
+        "story_flags": []
+      },
+      "weight_modifiers": {
+        "npc_activity": {
+          "Alessandro Vescari": 1
+        }
+      },
+      "text": "A Ventrue quietly mentions that a Scottsdale 'asset consultant' has been asking subtle questions about Setite revenue streams.",
+      "ghost_text": null,
+      "gm_notes": "Introduces the Giovanni–Setite tension.",
+      "connects_to_plot_ids": ["alessandro_the_ledger_drop"]
+    },
+  
+    {
+      "id": "rumor_alessandro_scottsdale_ghosthands_04",
+      "category": "Ghost",
+      "rarity": "rare",
+      "targets": ["Alessandro Vescari"],
+      "source_types": ["Ghost"],
+      "delivery_contexts": ["Nightly Briefing", "Anywhere Ghosts Appear"],
+      "prerequisites": {
+        "pc_traits": { "disciplines": { "Auspex": 1 } },
+        "story_flags": ["seen_ghost"],
+        "locations_visited": []
+      },
+      "weight_modifiers": {
+        "pc_recent_actions": {
+          "communed_with_spirit": 3
+        },
+        "npc_activity": {
+          "Alessandro Vescari": 4
+        }
+      },
+      "text": "A wispy voice near your ear whispers, 'He counts us… he counts ALL of us…'",
+      "ghost_text": "*His book tastes like ashes…*",
+      "gm_notes": "Strong supernatural hook.",
+      "connects_to_plot_ids": ["alessandro_ghost_with_a_mission"]
+    },
+  
+    {
+      "id": "rumor_alessandro_motel_cleanup_05",
+      "category": "Street",
+      "rarity": "uncommon",
+      "targets": ["Alessandro Vescari"],
+      "source_types": ["Street", "Underworld"],
+      "delivery_contexts": ["The Hole", "Nightly Briefing"],
+      "prerequisites": {
+        "influences": { "Street": 1 },
+        "pc_traits": { "abilities": { "Investigation": 1 } },
+        "locations_visited": []
+      },
+      "weight_modifiers": {
+        "pc_recent_actions": {
+          "investigated_crime_scene": 2
+        }
+      },
+      "text": "Someone says a velvet-coated stranger was spotted outside a roadside motel right after the cops hauled out a body bag.",
+      "ghost_text": null,
+      "gm_notes": "Leads toward Dead Man’s Portfolio plot.",
+      "connects_to_plot_ids": ["alessandro_dead_man_portfolio"]
+    },
+  
+    {
+      "id": "rumor_alessandro_freezing_hallway_06",
+      "category": "Occult",
+      "rarity": "rare",
+      "targets": ["Alessandro Vescari"],
+      "source_types": ["Occult Influence"],
+      "delivery_contexts": ["Magic Shops", "Nightly Briefing"],
+      "prerequisites": {
+        "influences": { "Occult": 2 },
+        "pc_traits": {}
+      },
+      "weight_modifiers": {
+        "pc_recent_actions": {
+          "visited_magic_shop": 2
+        }
+      },
+      "text": "An apprentice swears they saw frost creeping along the spine of a ledger a customer carried… and he wasn’t breathing.",
+      "ghost_text": null,
+      "gm_notes": "Hints at the Necromantic ledger.",
+      "connects_to_plot_ids": ["alessandro_frame_of_bone_and_ink"]
+    },
+  
+    {
+      "id": "rumor_alessandro_giovanni_politics_07",
+      "category": "Politics",
+      "rarity": "uncommon",
+      "targets": ["Alessandro Vescari"],
+      "source_types": ["Politics", "Elysium"],
+      "delivery_contexts": ["Elysium"],
+      "prerequisites": {
+        "locations_visited": ["Elysium_1"],
+        "pc_traits": {}
+      },
+      "weight_modifiers": {
+        "npc_activity": {
+          "Giovanni": 2
+        }
+      },
+      "text": "Someone in Elysium mentions the Giovanni are ‘shopping around’ for new partnerships in the East Valley. No one trusts their reasons.",
+      "ghost_text": null,
+      "gm_notes": "General Giovanni tension.",
+      "connects_to_plot_ids": []
+    },
+  
+    {
+      "id": "rumor_alessandro_dangerous_clients_08",
+      "category": "Underworld",
+      "rarity": "rare",
+      "targets": ["Alessandro Vescari"],
+      "source_types": ["Underworld"],
+      "delivery_contexts": ["The Hole", "Nightly Briefing"],
+      "prerequisites": {
+        "influences": { "Street": 2 },
+        "locations_visited": ["The_Hole"]
+      },
+      "weight_modifiers": {
+        "pc_recent_actions": { "worked_with_anarchs": 1 }
+      },
+      "text": "A gang runner says a slick businessman has been offering ‘cleanup services’ for anyone who can pay. No receipts. No questions.",
+      "ghost_text": null,
+      "gm_notes": "Underworld connection to Giovanni finances.",
+      "connects_to_plot_ids": []
+    },
+  
+    {
+      "id": "rumor_alessandro_ledger_moves_09",
+      "category": "Ghost",
+      "rarity": "rare",
+      "targets": ["Alessandro Vescari"],
+      "source_types": ["Ghost"],
+      "delivery_contexts": ["Nightly Briefing"],
+      "prerequisites": {
+        "story_flags": ["seen_ghost"],
+        "pc_traits": { "disciplines": { "Auspex": 2 } }
+      },
+      "weight_modifiers": {
+        "npc_activity": {
+          "Alessandro Vescari": 4
+        }
+      },
+      "text": "A faint whisper trails you: 'His book… it WRITHES when he opens it…'",
+      "ghost_text": "*Let us out… let us out…*", 
+      "gm_notes": "Increases supernatural dread.",
+      "connects_to_plot_ids": ["alessandro_the_ledger_drop"]
+    },
+  
+    {
+      "id": "rumor_alessandro_secret_blackout_10",
+      "category": "Secret",
+      "rarity": "secret",
+      "targets": ["Alessandro Vescari"],
+      "source_types": ["Ghost", "Occult"],
+      "delivery_contexts": ["Nightly Briefing"],
+      "prerequisites": {
+        "pc_traits": { "disciplines": { "Auspex": 3 } },
+        "influences": { "Occult": 2 },
+        "story_flags": ["investigated_setites"]
+      },
+      "weight_modifiers": {
+        "pc_recent_actions": {
+          "visited_mesa": 2
+        },
+        "npc_activity": {
+          "Alessandro Vescari": 5
+        }
+      },
+      "text": "A cold whisper curls behind your ear: 'The velvet man carries a book that EATS the dead… and soon, the living.'",
+      "ghost_text": "*He's coming…*", 
+      "gm_notes": "Hard escalation. Should appear late.",
+      "connects_to_plot_ids": ["alessandro_possession_event"]
+    }
+  ]
+  

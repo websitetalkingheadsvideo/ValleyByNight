@@ -18,111 +18,10 @@ let currentLocationId = null;
 // Initialize on page load
 document.addEventListener('DOMContentLoaded', function() {
     initializeEventListeners();
-    setupAccessibleModals();
     loadLocations();
 });
 
-// Accessible modal helpers (focus trap, restore focus, ESC)
-let lastActiveEl = null;
-function getFocusable(container) {
-    return Array.from(container.querySelectorAll('a[href], button:not([disabled]), textarea, input, select, [tabindex]:not([tabindex="-1"])'))
-        .filter(el => el.offsetParent !== null || el.getAttribute('aria-hidden') !== 'true');
-}
-function trapFocus(modal) {
-    function onKeyDown(e) {
-        if (e.key === 'Tab') {
-            const list = getFocusable(modal);
-            if (list.length === 0) { e.preventDefault(); return; }
-            const first = list[0];
-            const last = list[list.length - 1];
-            if (document.activeElement === modal) {
-                e.preventDefault();
-                if (e.shiftKey) { last.focus(); } else { first.focus(); }
-                return;
-            }
-            if (e.shiftKey && document.activeElement === first) { e.preventDefault(); last.focus(); }
-            else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first.focus(); }
-        } else if (e.key === 'Escape') {
-            closeAnyOpenModal();
-        }
-    }
-    modal.__trapHandler = onKeyDown;
-    document.addEventListener('keydown', onKeyDown);
-}
-function releaseFocus(modal) {
-    if (modal && modal.__trapHandler) {
-        document.removeEventListener('keydown', modal.__trapHandler);
-        delete modal.__trapHandler;
-    }
-    if (lastActiveEl) {
-        try { lastActiveEl.focus(); } catch (_) {}
-        lastActiveEl = null;
-    }
-}
-function openModalA11y(id) {
-    const modal = document.getElementById(id);
-    if (!modal) return;
-    lastActiveEl = document.activeElement;
-    // aria-hide siblings at this level
-    const parent = modal.parentElement;
-    if (parent) {
-      const siblings = Array.from(parent.children).filter(ch => ch !== modal);
-      siblings.forEach(el => {
-        if (!el.hasAttribute('data-aria-hidden-was')) {
-          el.setAttribute('data-aria-hidden-was', el.getAttribute('aria-hidden') || '');
-        }
-        el.setAttribute('aria-hidden','true');
-        el.setAttribute('inert','');
-      });
-      modal.setAttribute('aria-hidden','false');
-      modal.removeAttribute('inert');
-    }
-    modal.classList.add('active');
-    if (!modal.hasAttribute('tabindex')) modal.setAttribute('tabindex','-1');
-    try { modal.focus(); } catch (_) {}
-    trapFocus(modal);
-}
-function closeModalA11y(id) {
-    const modal = document.getElementById(id);
-    if (!modal) return;
-    modal.classList.remove('active');
-    // restore siblings
-    const parent = modal.parentElement;
-    if (parent) {
-      const siblings = Array.from(parent.children).filter(ch => ch !== modal);
-      siblings.forEach(el => {
-        const prev = el.getAttribute('data-aria-hidden-was');
-        if (prev !== null) {
-          if (prev === '' ) { el.removeAttribute('aria-hidden'); }
-          else { el.setAttribute('aria-hidden', prev); }
-          el.removeAttribute('data-aria-hidden-was');
-        } else {
-          el.removeAttribute('aria-hidden');
-        }
-        el.removeAttribute('inert');
-      });
-    }
-    releaseFocus(modal);
-}
-function closeAnyOpenModal() {
-    ['locationModal','viewModal','assignModal','deleteModal'].forEach(id => {
-        const el = document.getElementById(id);
-        if (el && el.classList.contains('active')) closeModalA11y(id);
-    });
-}
-function setupAccessibleModals() {
-    ['locationModal','viewModal','assignModal','deleteModal'].forEach(id => {
-        const el = document.getElementById(id);
-        if (!el) return;
-        el.addEventListener('mousedown', (e) => { if (e.target === el) closeModalA11y(id); });
-    });
-    // Ensure close buttons have accessible labels
-    document.querySelectorAll('.modal-close').forEach(btn => {
-        if (!btn.getAttribute('aria-label')) {
-            btn.setAttribute('aria-label', 'Close dialog');
-        }
-    });
-}
+// Bootstrap handles accessibility automatically
 
 function initializeEventListeners() {
     // Filter buttons
@@ -349,7 +248,11 @@ function openAddLocationModal() {
     document.getElementById('locationModalTitle').textContent = 'Add New Location';
     document.getElementById('locationForm').reset();
     document.getElementById('locationId').value = '';
-    openModalA11y('locationModal');
+    const modalElement = document.getElementById('locationModal');
+    if (modalElement) {
+        const modalInstance = new bootstrap.Modal(modalElement);
+        modalInstance.show();
+    }
 }
 
 function editLocation(id) {
@@ -370,7 +273,11 @@ function editLocation(id) {
     document.getElementById('locationSummary').value = location.summary || '';
     document.getElementById('locationNotes').value = location.notes || '';
     
-    openModalA11y('locationModal');
+    const modalElement = document.getElementById('locationModal');
+    if (modalElement) {
+        const modalInstance = new bootstrap.Modal(modalElement);
+        modalInstance.show();
+    }
 }
 
 async function viewLocation(id) {
@@ -381,11 +288,20 @@ async function viewLocation(id) {
     
     // Show loading state
     const viewContainer = document.getElementById('viewLocationContent');
-    if (viewContainer) {
-      viewContainer.setAttribute('aria-busy','true');
-      viewContainer.innerHTML = '<div class="loading">Loading location details...</div>';
-    }
-    openModalA11y('viewModal');
+    const modalElement = document.getElementById('viewModal');
+    const modalTitle = modalElement.querySelector('.vbn-modal-title');
+    const modalBody = modalElement.querySelector('.vbn-modal-body');
+    const modalFooter = modalElement.querySelector('.vbn-modal-footer');
+    
+    modalTitle.textContent = `📄 ${escapeHtml(location.name)}`;
+    modalBody.setAttribute('aria-busy','true');
+    modalBody.innerHTML = '<div class="loading">Loading location details...</div>';
+    modalFooter.innerHTML = '<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>';
+    
+    const modalInstance = new bootstrap.Modal(modalElement);
+    modalInstance.show();
+    
+    const viewContainer = modalBody;
     
     try {
         // Fetch character assignments
@@ -465,65 +381,147 @@ async function viewLocation(id) {
             ` : ''}
         `;
         
-        if (viewContainer) {
-          viewContainer.innerHTML = content;
-          viewContainer.setAttribute('aria-busy','false');
-        }
+        modalBody.innerHTML = content;
+        modalBody.setAttribute('aria-busy','false');
         
     } catch (error) {
         console.error('Error loading assignments:', error);
-        if (viewContainer) {
-          viewContainer.innerHTML = `
+        modalBody.innerHTML = `
             <div class="view-section">
                 <h3>Error</h3>
                 <p>Failed to load character assignments.</p>
             </div>
-          `;
-          viewContainer.setAttribute('aria-busy','false');
-        }
+        `;
+        modalBody.setAttribute('aria-busy','false');
     }
 }
 
 function assignLocation(id, name) {
     currentLocationId = id;
-    document.getElementById('assignLocationName').textContent = name;
-    openModalA11y('assignModal');
+    
+    const modalElement = document.getElementById('assignModal');
+    const modalTitle = modalElement.querySelector('.vbn-modal-title');
+    const modalBody = modalElement.querySelector('.vbn-modal-body');
+    const modalFooter = modalElement.querySelector('.vbn-modal-footer');
+    
+    modalTitle.textContent = '🎯 Assign Characters to Location';
+    modalBody.innerHTML = `
+        <p class="vbn-modal-message">Assign characters to <strong id="assignLocationName">${escapeHtml(name)}</strong>:</p>
+        <div class="character-selection" id="characterSelection">
+            ${(window.allCharactersForLocations || []).map(char => `
+                <div class="character-item" data-character-id="${char.id}">
+                    <div style="display: flex; justify-content: space-between; align-items: center;">
+                        <div>
+                            <strong>${escapeHtml(char.character_name)}</strong>
+                            <small style="display: block; color: #b8a090;">
+                                ${escapeHtml(char.clan)} - ${escapeHtml(char.player_name)}
+                            </small>
+                        </div>
+                        <select class="assignment-type-select" data-character-id="${char.id}">
+                            <option value="Resident">Resident</option>
+                            <option value="Owner">Owner</option>
+                            <option value="Visitor">Visitor</option>
+                            <option value="Staff">Staff</option>
+                            <option value="Guard">Guard</option>
+                        </select>
+                    </div>
+                </div>
+            `).join('')}
+        </div>
+    `;
+    modalFooter.innerHTML = `
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+        <button type="button" class="btn btn-primary" onclick="assignCharactersToLocation()">Assign Characters</button>
+    `;
+    
+    const modalInstance = new bootstrap.Modal(modalElement);
+    modalInstance.show();
 }
 
 function deleteLocation(id, name) {
     currentLocationId = id;
-    document.getElementById('deleteLocationName').textContent = name;
+    
+    const modalElement = document.getElementById('deleteModal');
+    const modalTitle = modalElement.querySelector('.vbn-modal-title');
+    const modalBody = modalElement.querySelector('.vbn-modal-body');
+    const modalFooter = modalElement.querySelector('.vbn-modal-footer');
+    
+    modalTitle.textContent = '⚠️ Confirm Deletion';
+    modalBody.innerHTML = `
+        <p class="vbn-modal-message">Delete location:</p>
+        <p class="vbn-modal-character-name" id="deleteLocationName">${escapeHtml(name)}</p>
+        <p class="vbn-modal-warning" id="deleteWarning" style="display:none;"></p>
+    `;
+    modalFooter.innerHTML = `
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+        <button type="button" class="btn btn-danger" id="confirmDeleteBtn" onclick="confirmDeleteLocation()">Delete</button>
+    `;
+    
+    const modalInstance = new bootstrap.Modal(modalElement);
+    modalInstance.show();
     
     // Check for assignments
     fetch(`api_admin_location_assignments.php?location_id=${id}`)
         .then(response => response.json())
         .then(data => {
             const warning = document.getElementById('deleteWarning');
+            const deleteBtn = document.getElementById('confirmDeleteBtn');
             if (data.success && data.count > 0) {
                 warning.style.display = 'block';
                 warning.innerHTML = `⚠️ <strong>This location has ${data.count} character assignment(s)</strong> - remove assignments first!`;
-                document.getElementById('confirmDeleteBtn').disabled = true;
+                if (deleteBtn) deleteBtn.disabled = true;
             } else {
                 warning.style.display = 'none';
-                document.getElementById('confirmDeleteBtn').disabled = false;
+                if (deleteBtn) deleteBtn.disabled = false;
             }
         })
         .catch(error => {
             console.error('Error checking assignments:', error);
-            document.getElementById('confirmDeleteBtn').disabled = false;
+            const deleteBtn = document.getElementById('confirmDeleteBtn');
+            if (deleteBtn) deleteBtn.disabled = false;
         });
-    
-    openModalA11y('deleteModal');
 }
 
 // Modal Functions
-function closeLocationModal() { closeModalA11y('locationModal'); }
+function closeLocationModal() {
+    const modalElement = document.getElementById('locationModal');
+    if (modalElement) {
+        const modalInstance = bootstrap.Modal.getInstance(modalElement);
+        if (modalInstance) {
+            modalInstance.hide();
+        }
+    }
+}
 
-function closeViewModal() { closeModalA11y('viewModal'); }
+function closeViewModal() {
+    const modalElement = document.getElementById('viewModal');
+    if (modalElement) {
+        const modalInstance = bootstrap.Modal.getInstance(modalElement);
+        if (modalInstance) {
+            modalInstance.hide();
+        }
+    }
+}
 
-function closeAssignModal() { closeModalA11y('assignModal'); }
+function closeAssignModal() {
+    const modalElement = document.getElementById('assignModal');
+    if (modalElement) {
+        const modalInstance = bootstrap.Modal.getInstance(modalElement);
+        if (modalInstance) {
+            modalInstance.hide();
+        }
+    }
+}
 
-function closeDeleteModal() { closeModalA11y('deleteModal'); }
+function closeDeleteModal() {
+    const modalElement = document.getElementById('deleteModal');
+    if (modalElement) {
+        const modalInstance = bootstrap.Modal.getInstance(modalElement);
+        if (modalInstance) {
+            modalInstance.hide();
+        }
+    }
+}
 
 // Form Handling
 async function handleFormSubmit(e) {
@@ -549,7 +547,13 @@ async function handleFormSubmit(e) {
         
         if (result.success) {
             showNotification(result.message, 'success');
-            closeLocationModal();
+            const modalElement = document.getElementById('locationModal');
+            if (modalElement) {
+                const modalInstance = bootstrap.Modal.getInstance(modalElement);
+                if (modalInstance) {
+                    modalInstance.hide();
+                }
+            }
             loadLocations();
         } else {
             showNotification('Error: ' + result.error, 'error');
@@ -615,7 +619,14 @@ async function confirmDeleteLocation() {
         
         if (result.success) {
             showNotification(result.message, 'success');
-            closeDeleteModal();
+            const modalElement = document.getElementById('deleteModal');
+            if (modalElement) {
+                const modalInstance = bootstrap.Modal.getInstance(modalElement);
+                if (modalInstance) {
+                    modalInstance.hide();
+                }
+            }
+            currentLocationId = null;
             loadLocations();
         } else {
             showNotification('Error: ' + result.error, 'error');
@@ -657,7 +668,4 @@ document.addEventListener('click', function(e) {
     }
 });
 
-// Close modals on escape key
-document.addEventListener('keydown', function(e) {
-    if (e.key === 'Escape') closeAnyOpenModal();
-});
+// Bootstrap handles ESC key automatically

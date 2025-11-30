@@ -1848,13 +1848,14 @@ if (!$isModal) {
     </div>
 
     <!-- Discipline Guide Modal -->
-    <div id="disciplineGuideModal" class="modal" role="dialog" aria-modal="true" aria-labelledby="disciplineGuideTitle" aria-describedby="disciplineGuideBody">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h2 id="disciplineGuideTitle">Discipline-Ability Guide</h2>
-                <button type="button" class="modal-close" data-action="close-discipline-guide" aria-label="Close dialog">&times;</button>
-            </div>
-            <div class="modal-body" id="disciplineGuideBody">
+    <div class="modal fade" id="disciplineGuideModal" tabindex="-1" aria-labelledby="disciplineGuideTitle" aria-hidden="true">
+        <div class="modal-dialog modal-xl modal-dialog-scrollable">
+            <div class="modal-content vbn-modal-content">
+                <div class="modal-header vbn-modal-header">
+                    <h5 id="disciplineGuideTitle" class="modal-title vbn-modal-title">Discipline-Ability Guide</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body vbn-modal-body" id="disciplineGuideBody">
                 <p><strong>Recommended abilities for each Discipline:</strong></p>
                 <div class="discipline-table-container">
                     <table class="discipline-table">
@@ -1892,21 +1893,23 @@ if (!$isModal) {
                         </tbody>
                     </table>
                 </div>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="modal-btn btn btn-secondary" data-action="close-discipline-guide">Close</button>
+                </div>
+                <div class="modal-footer vbn-modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
             </div>
         </div>
     </div>
 
     <!-- Finalize Character Modal -->
-    <div id="finalizeModal" class="modal">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h2>🎯 Finalize Character</h2>
-                <button type="button" class="modal-close" onclick="closeFinalizeModal()">&times;</button>
-            </div>
-            <div class="modal-body">
+    <div class="modal fade" id="finalizeModal" tabindex="-1" aria-labelledby="finalizeModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content vbn-modal-content">
+                <div class="modal-header vbn-modal-header">
+                    <h5 class="modal-title vbn-modal-title" id="finalizeModalLabel">🎯 Finalize Character</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body vbn-modal-body">
                 <div class="finalize-warning">
                     <h3>⚠️ Important Notice</h3>
                     <p>Finalizing your character will:</p>
@@ -1925,41 +1928,45 @@ if (!$isModal) {
                         <!-- Character preview will be populated by JavaScript -->
                     </div>
                 </div>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn-cancel" onclick="closeFinalizeModal()">Cancel</button>
-                <button type="button" class="btn-finalize" onclick="finalizeCharacter()">🎯 Finalize Character</button>
+                </div>
+                <div class="modal-footer vbn-modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                    <button type="button" class="btn btn-primary" onclick="finalizeCharacter()">🎯 Finalize Character</button>
+                </div>
             </div>
         </div>
     </div>
 
     <!-- Character Sheet Modal -->
-    <div id="characterSheetModal" class="modal">
-        <div class="modal-content large-modal">
-            <div class="modal-header">
-                <h2>📄 Character Sheet</h2>
-                <button type="button" class="modal-close" onclick="closeCharacterSheetModal()">&times;</button>
-            </div>
-            <div class="modal-body">
+    <div class="modal fade" id="characterSheetModal" tabindex="-1" aria-labelledby="characterSheetModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-xl">
+            <div class="modal-content vbn-modal-content">
+                <div class="modal-header vbn-modal-header">
+                    <h5 class="modal-title vbn-modal-title" id="characterSheetModalLabel">📄 Character Sheet</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body vbn-modal-body">
                 <div id="characterSheetContent" class="character-sheet">
                     <!-- Character sheet will be populated by JavaScript -->
                 </div>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn-cancel" onclick="closeCharacterSheetModal()">Close</button>
-                <button type="button" class="btn-download" onclick="downloadCharacterSheet()">📥 Download PDF</button>
+                </div>
+                <div class="modal-footer vbn-modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary" onclick="downloadCharacterSheet()">📥 Download PDF</button>
+                </div>
             </div>
         </div>
     </div>
 
     <!-- Merit/Flaw Description Modal -->
-    <div id="meritFlawDescriptionModal" class="modal" role="dialog" aria-modal="true" aria-labelledby="meritFlawModalTitle" aria-describedby="meritFlawBody">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h2 id="meritFlawModalTitle">Merit/Flaw Description</h2>
-                <button type="button" class="modal-close" onclick="closeMeritFlawDescription()" aria-label="Close dialog">&times;</button>
-            </div>
-            <div class="modal-body" id="meritFlawBody">
+    <div class="modal fade" id="meritFlawDescriptionModal" tabindex="-1" aria-labelledby="meritFlawModalTitle" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content vbn-modal-content">
+                <div class="modal-header vbn-modal-header">
+                    <h5 id="meritFlawModalTitle" class="modal-title vbn-modal-title">Merit/Flaw Description</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body vbn-modal-body" id="meritFlawBody">
                 <div class="merit-flaw-detail">
                     <div class="detail-columns">
                         <div class="detail-column">
@@ -1984,9 +1991,10 @@ if (!$isModal) {
                         <ul id="meritFlawEffectsList"></ul>
                     </div>
                 </div>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="modal-btn btn btn-secondary" onclick="closeMeritFlawDescription()">Close</button>
+                </div>
+                <div class="modal-footer vbn-modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
             </div>
         </div>
     </div>

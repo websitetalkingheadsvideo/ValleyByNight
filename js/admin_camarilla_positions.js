@@ -232,8 +232,19 @@
     /**
      * Open delete confirmation modal
      */
+    let deletePositionModalInstance = null;
+    
     function openDeletePositionModal(positionId, positionName) {
         const modal = document.getElementById('deletePositionModal');
+        if (!modal) return;
+        
+        // Initialize Bootstrap modal instance if needed
+        if (typeof bootstrap !== 'undefined' && bootstrap.Modal) {
+            if (!deletePositionModalInstance) {
+                deletePositionModalInstance = bootstrap.Modal.getOrCreateInstance(modal);
+            }
+        }
+        
         const nameEl = document.getElementById('deletePositionName');
         const warningEl = document.getElementById('deleteWarning');
         
@@ -245,9 +256,12 @@
             warningEl.style.display = 'block';
         }
         
-        if (modal) {
-            modal.classList.add('active');
-            modal.dataset.positionId = positionId;
+        // Store position ID in modal element
+        modal.dataset.positionId = positionId;
+        
+        // Show Bootstrap modal
+        if (deletePositionModalInstance) {
+            deletePositionModalInstance.show();
         }
     }
     
@@ -255,12 +269,24 @@
      * Close delete confirmation modal
      */
     window.closeDeletePositionModal = function() {
+        if (deletePositionModalInstance) {
+            deletePositionModalInstance.hide();
+        }
         const modal = document.getElementById('deletePositionModal');
         if (modal) {
-            modal.classList.remove('active');
             delete modal.dataset.positionId;
         }
     };
+    
+    // Reset on modal close
+    if (document.getElementById('deletePositionModal')) {
+        document.getElementById('deletePositionModal').addEventListener('hidden.bs.modal', function() {
+            const modal = document.getElementById('deletePositionModal');
+            if (modal) {
+                delete modal.dataset.positionId;
+            }
+        });
+    }
     
     /**
      * Confirm and execute position deletion

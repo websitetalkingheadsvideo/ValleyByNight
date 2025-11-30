@@ -1,0 +1,92 @@
+/**
+ * Wraith Character Creation Styles
+ */
+
+.attributes-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    margin-bottom: 30px;
+}
+
+.attribute-category {
+    border: 1px solid #444;
+    padding: 15px;
+    border-radius: 5px;
+    background: rgba(0, 0, 0, 0.3);
+}
+
+.attribute-category h4 {
+    margin-bottom: 15px;
+    color: #d4af37;
+    border-bottom: 1px solid #444;
+    padding-bottom: 5px;
+}
+
+.attribute-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.attribute-row label {
+    flex: 1;
+    margin-right: 10px;
+    color: #ccc;
+}
+
+.attribute-row input {
+    width: 60px;
+}
+
+.fetter-item,
+.passion-item,
+.arcanoi-item,
+.dark-passion-item,
+.relationship-item,
+.artifact-item {
+    background: rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.health-track {
+    border: 1px solid #444;
+    padding: 15px;
+    border-radius: 5px;
+    background: rgba(0, 0, 0, 0.2);
+    min-height: 100px;
+}
+
+.tab-progress {
+    height: 4px;
+    background: rgba(255, 255, 255, 0.1);
+    margin-bottom: 20px;
+    border-radius: 2px;
+    overflow: hidden;
+}
+
+.tab-progress-bar {
+    height: 100%;
+    background: linear-gradient(90deg, #8b0000, #d4af37);
+    width: 20%;
+    transition: width 0.3s ease;
+}
+
+.tab.active ~ .tab-progress .tab-progress-bar {
+    width: 40%;
+}
+
+.tab[data-tab="shadow"].active ~ .tab-progress .tab-progress-bar {
+    width: 60%;
+}
+
+.tab[data-tab="pathos"].active ~ .tab-progress .tab-progress-bar {
+    width: 80%;
+}
+
+.tab[data-tab="metadata"].active ~ .tab-progress .tab-progress-bar {
+    width: 100%;
+}
+

@@ -1,0 +1,280 @@
+[
+    {
+      "id": "rumor_mh_shop_moves_when_closed_01",
+      "category": "Occult",
+      "rarity": "common",
+      "targets": ["Mother Hallow", "Mother_Hallow_Shop"],
+      "source_types": ["Occult Influence", "MortalGossip"],
+      "delivery_contexts": ["Magic Shops", "Nightly Briefing"],
+      "prerequisites": {
+        "pc_traits": {
+          "abilities": { "Occult": 1 }
+        },
+        "influences": {},
+        "locations_visited": [],
+        "story_flags": [],
+        "relationship_requirements": []
+      },
+      "weight_modifiers": {
+        "pc_recent_actions": {
+          "visited_magic_shop": 2
+        },
+        "npc_activity": {
+          "Mother Hallow": 1
+        }
+      },
+      "text": "Other dabblers say Mother Hallow’s shop ‘feels bigger’ every time they visit. Nobody can agree how many aisles there actually are.",
+      "ghost_text": null,
+      "gm_notes": "Light flavor. Reinforces that the shop is subtly magical.",
+      "connects_to_plot_ids": []
+    },
+    {
+      "id": "rumor_mh_trinkets_work_too_well_02",
+      "category": "Occult",
+      "rarity": "uncommon",
+      "targets": ["Mother Hallow"],
+      "source_types": ["Occult Influence"],
+      "delivery_contexts": ["Magic Shops", "Nightly Briefing"],
+      "prerequisites": {
+        "pc_traits": {
+          "abilities": { "Occult": 1 }
+        },
+        "influences": { "Occult": 1 },
+        "locations_visited": [],
+        "story_flags": [],
+        "relationship_requirements": []
+      },
+      "weight_modifiers": {
+        "pc_recent_actions": {
+          "bought_occult_item": 2
+        },
+        "npc_activity": {
+          "Mother Hallow": 2
+        }
+      },
+      "text": "An occult contact warns you: ‘Her charms sometimes work better than they should. Or only work if she likes you.’",
+      "ghost_text": null,
+      "gm_notes": "Foreshadows favor-based boons from Mother Hallow.",
+      "connects_to_plot_ids": ["mother_hallow_favor_charm_quest"]
+    },
+    {
+      "id": "rumor_mh_knows_true_names_03",
+      "category": "Occult",
+      "rarity": "rare",
+      "targets": ["Mother Hallow"],
+      "source_types": ["Occult Influence"],
+      "delivery_contexts": ["Magic Shops", "Nightly Briefing"],
+      "prerequisites": {
+        "pc_traits": {
+          "abilities": { "Occult": 2 }
+        },
+        "influences": { "Occult": 1 },
+        "locations_visited": ["Mother_Hallow_Shop"],
+        "story_flags": [],
+        "relationship_requirements": []
+      },
+      "weight_modifiers": {
+        "pc_recent_actions": {
+          "researched_occult_names": 2
+        },
+        "npc_activity": {
+          "Mother Hallow": 2
+        }
+      },
+      "text": "Someone whispers that Mother Hallow writes customers’ names in a special ledger behind the counter—only she doesn’t write the names they give her.",
+      "ghost_text": null,
+      "gm_notes": "Hints she deals in true names and deeper bargains.",
+      "connects_to_plot_ids": ["mother_hallow_true_name_binding"]
+    },
+    {
+      "id": "rumor_mh_ghosts_in_the_stacks_04",
+      "category": "Ghost",
+      "rarity": "uncommon",
+      "targets": ["Mother_Hallow_Shop"],
+      "source_types": ["Ghost", "Occult Influence"],
+      "delivery_contexts": ["Nightly Briefing", "Magic Shops"],
+      "prerequisites": {
+        "pc_traits": {
+          "disciplines": { "Auspex": 1 }
+        },
+        "influences": {},
+        "locations_visited": ["Mother_Hallow_Shop"],
+        "story_flags": ["seen_ghost"],
+        "relationship_requirements": []
+      },
+      "weight_modifiers": {
+        "pc_recent_actions": {
+          "used_auspex_in_shop": 3
+        },
+        "npc_activity": {
+          "Mother Hallow": 1
+        }
+      },
+      "text": "A faint impression lingers with you: in one aisle of Mother Hallow’s shop, the dust motes don’t drift—they circle like they’re orbiting something no one else can see.",
+      "ghost_text": "*We belong to her now…*",
+      "gm_notes": "Soft supernatural creep, suggests bound spirits in the shop.",
+      "connects_to_plot_ids": ["mother_hallow_bound_spirits"]
+    },
+    {
+      "id": "rumor_mh_payment_in_memories_05",
+      "category": "Occult",
+      "rarity": "rare",
+      "targets": ["Mother Hallow"],
+      "source_types": ["Occult Influence", "Street"],
+      "delivery_contexts": ["Magic Shops", "Nightly Briefing"],
+      "prerequisites": {
+        "pc_traits": {},
+        "influences": {},
+        "locations_visited": [],
+        "story_flags": [],
+        "relationship_requirements": []
+      },
+      "weight_modifiers": {
+        "pc_recent_actions": {},
+        "npc_activity": {
+          "Mother Hallow": 3
+        }
+      },
+      "text": "Someone claims they paid Mother Hallow without using cash or blood. They can’t quite remember what they gave her instead—and that scares them.",
+      "ghost_text": null,
+      "gm_notes": "Hints at non-standard payment: memories, favors, secrets.",
+      "connects_to_plot_ids": ["mother_hallow_bargain_for_memory"]
+    },
+    {
+      "id": "rumor_mh_knows_when_prince_died_06",
+      "category": "Politics",
+      "rarity": "uncommon",
+      "targets": ["Mother Hallow", "Prince of Phoenix"],
+      "source_types": ["Politics", "Occult Influence"],
+      "delivery_contexts": ["Nightly Briefing"],
+      "prerequisites": {
+        "pc_traits": {},
+        "influences": { "Politics": 1 },
+        "locations_visited": [],
+        "story_flags": [],
+        "relationship_requirements": []
+      },
+      "weight_modifiers": {
+        "faction_activity": {
+          "Camarilla": 2
+        },
+        "npc_activity": {
+          "Mother Hallow": 1
+        }
+      },
+      "text": "A Harpy’s Talon mutters that Mother Hallow knew the Prince was dead before any messenger reached Elysium.",
+      "ghost_text": null,
+      "gm_notes": "Connects her to city-wide events and rumors of divination.",
+      "connects_to_plot_ids": ["mother_hallow_prince_omen"]
+    },
+    {
+      "id": "rumor_mh_backroom_never_locked_07",
+      "category": "Street",
+      "rarity": "common",
+      "targets": ["Mother_Hallow_Shop"],
+      "source_types": ["Street", "MortalGossip"],
+      "delivery_contexts": ["Street Locations", "Nightly Briefing"],
+      "prerequisites": {
+        "pc_traits": {},
+        "influences": { "Street": 1 },
+        "locations_visited": ["Mother_Hallow_Shop"],
+        "story_flags": [],
+        "relationship_requirements": []
+      },
+      "weight_modifiers": {
+        "pc_recent_actions": {
+          "cased_magic_shop": 2
+        },
+        "npc_activity": {}
+      },
+      "text": "A would-be shoplifter swears the door to the back room of Mother Hallow’s place was unlocked, but every time he reached for it, something in his head screamed not to.",
+      "ghost_text": null,
+      "gm_notes": "Leads toward hidden back room / inner sanctum content.",
+      "connects_to_plot_ids": ["mother_hallow_hidden_room"]
+    },
+    {
+      "id": "rumor_mh_sells_to_kindred_08",
+      "category": "Occult",
+      "rarity": "common",
+      "targets": ["Mother Hallow"],
+      "source_types": ["Street", "Occult Influence"],
+      "delivery_contexts": ["Nightly Briefing", "Magic Shops"],
+      "prerequisites": {
+        "pc_traits": {},
+        "influences": {},
+        "locations_visited": [],
+        "story_flags": [],
+        "relationship_requirements": []
+      },
+      "weight_modifiers": {
+        "pc_recent_actions": {
+          "asked_about_kindred_suppliers": 2
+        },
+        "npc_activity": {
+          "Mother Hallow": 1
+        }
+      },
+      "text": "Someone insists Mother Hallow knows exactly what you are the moment you step inside—and she has shelves she only shows to ‘night customers.’",
+      "ghost_text": null,
+      "gm_notes": "Makes clear she is aware of Kindred and caters to them selectively.",
+      "connects_to_plot_ids": ["mother_hallow_kindred_only_stock"]
+    },
+    {
+      "id": "rumor_mh_runes_on_receipts_09",
+      "category": "Occult",
+      "rarity": "uncommon",
+      "targets": ["Mother Hallow"],
+      "source_types": ["MortalGossip", "Occult Influence"],
+      "delivery_contexts": ["Magic Shops", "Nightly Briefing"],
+      "prerequisites": {
+        "pc_traits": {
+          "abilities": { "Occult": 1 }
+        },
+        "influences": {},
+        "locations_visited": [],
+        "story_flags": [],
+        "relationship_requirements": []
+      },
+      "weight_modifiers": {
+        "pc_recent_actions": {
+          "examined_magic_shop_receipt": 2
+        },
+        "npc_activity": {}
+      },
+      "text": "Customers who look closely say the ink on Mother Hallow’s receipts sometimes forms little sigils between the printed letters—sigils that weren’t there a moment ago.",
+      "ghost_text": null,
+      "gm_notes": "Tiny, creepy detail that can later matter if you want receipts to be sympathetic links.",
+      "connects_to_plot_ids": ["mother_hallow_receipt_sympathetic_link"]
+    },
+    {
+      "id": "rumor_mh_secret_patron_10",
+      "category": "Secret",
+      "rarity": "secret",
+      "targets": ["Mother Hallow"],
+      "source_types": ["Ghost", "Occult Influence"],
+      "delivery_contexts": ["Nightly Briefing"],
+      "prerequisites": {
+        "pc_traits": {
+          "disciplines": { "Auspex": 2 },
+          "abilities": { "Occult": 2 }
+        },
+        "influences": { "Occult": 2 },
+        "locations_visited": ["Mother_Hallow_Shop"],
+        "story_flags": [],
+        "relationship_requirements": []
+      },
+      "weight_modifiers": {
+        "pc_recent_actions": {
+          "pried_into_mother_hallow": 3
+        },
+        "npc_activity": {
+          "Mother Hallow": 3
+        }
+      },
+      "text": "A cold little voice at the back of your mind insists that Mother Hallow doesn’t answer to the Camarilla, the Anarchs, or the Sabbat. ‘She answers up,’ it whispers.",
+      "ghost_text": "*She is not the lowest link in her chain…*",
+      "gm_notes": "High-level tease that she may answer to something bigger (spirit, patron, pact). Use sparingly.",
+      "connects_to_plot_ids": ["mother_hallow_patron_reveal"]
+    }
+  ]
+  

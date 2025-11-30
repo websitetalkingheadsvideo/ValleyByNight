@@ -481,20 +481,48 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 
 <!-- Delete Modal -->
-<div id="deleteModal" class="modal" role="dialog" aria-modal="true" aria-label="Confirm Deletion" aria-describedby="deleteCharacterName deleteWarning">
-    <div class="modal-content">
-        <h2 class="modal-title">⚠️ Confirm Deletion</h2>
-        <p class="modal-message">Delete character:</p>
-        <p class="modal-character-name" id="deleteCharacterName"></p>
-        <p class="modal-warning" id="deleteWarning" style="display:none;">
-            ⚠️ <strong>Finalized character</strong> - all data will be lost!
-        </p>
-        <div class="modal-actions">
-            <button class="modal-btn cancel-btn btn btn-secondary" onclick="closeDeleteModal()">Cancel</button>
-            <button class="modal-btn confirm-btn btn btn-danger" id="confirmDeleteBtn">Delete</button>
-        </div>
-    </div>
-</div>
+<?php
+$modalId = 'deleteModal';
+$size = 'md';
+$fullscreen = false;
+$scrollable = false;
+include __DIR__ . '/../includes/modal_base.php';
+?>
+
+<script>
+(function() {
+    'use strict';
+    // Populate delete modal content after modal_base.php is included
+    const modalEl = document.getElementById('deleteModal');
+    if (modalEl) {
+        const modalTitle = modalEl.querySelector('.vbn-modal-title');
+        const modalBody = modalEl.querySelector('.vbn-modal-body');
+        const modalFooter = modalEl.querySelector('.vbn-modal-footer');
+        
+        if (modalTitle) {
+            modalTitle.textContent = '⚠️ Confirm Deletion';
+            modalTitle.id = 'deleteModalLabel';
+        }
+        
+        if (modalBody) {
+            modalBody.innerHTML = `
+                <p class="vbn-modal-message">Delete character:</p>
+                <p class="vbn-modal-character-name" id="deleteCharacterName"></p>
+                <p class="vbn-modal-warning" id="deleteWarning" style="display:none;">
+                    ⚠️ <strong>Finalized character</strong> - all data will be lost!
+                </p>
+            `;
+        }
+        
+        if (modalFooter) {
+            modalFooter.innerHTML = `
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                <button type="button" class="btn btn-danger" id="confirmDeleteBtn">Delete</button>
+            `;
+        }
+    }
+})();
+</script>
 
 <style>
 .admin-panel-container { 
@@ -711,25 +739,10 @@ document.addEventListener('DOMContentLoaded', function() {
 .delete-btn:hover { background: rgba(139, 0, 0, 0.4); }
 .empty-state { text-align: center; padding: 40px; color: #b8a090; font-style: italic; }
 
-#deleteModal { display: none; position: fixed; z-index: 9999; left: 0; top: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.8); align-items: center; justify-content: center; }
-#deleteModal.active { display: flex; }
-#deleteModal .modal-content { background: linear-gradient(135deg, #2a1515 0%, #1a0f0f 100%); border: 3px solid #8B0000; border-radius: 10px; padding: 30px; max-width: 500px; width: 90%; position: relative; }
-#deleteModal .modal-close { 
-    background: rgba(139, 0, 0, 0.3); 
-    border: 1px solid #8B0000; 
-    border-radius: 50%; 
-    width: 35px; 
-    height: 35px; 
-    font-size: 1.5em; 
-    color: #f5e6d3; 
-    cursor: pointer; 
-    transition: all 0.2s; 
-    display: flex; 
-    align-items: center; 
-    justify-content: center; 
-    flex-shrink: 0;
-}
-#deleteModal .modal-close:hover { background: rgba(139, 0, 0, 0.6); transform: scale(1.1); }
+/* Delete modal styles - now using Bootstrap with .vbn- prefix */
+#deleteModal .vbn-modal-message { font-family: var(--font-body), 'Source Serif Pro', serif; color: #d4c4b0; font-size: 1.1em; margin-bottom: 10px; }
+#deleteModal .vbn-modal-character-name { font-family: var(--font-title), 'Libre Baskerville', serif; color: #f5e6d3; font-size: 1.4em; text-align: center; margin: 20px 0; font-weight: bold; }
+#deleteModal .vbn-modal-warning { background: rgba(139, 0, 0, 0.3); border-left: 4px solid #8B0000; padding: 15px; margin: 20px 0; color: #f5e6d3; }
 
 .character-view-modal {
     background: linear-gradient(135deg, #2a1515 0%, #1a0f0f 100%);
@@ -1383,15 +1396,7 @@ document.addEventListener('DOMContentLoaded', function() {
         min-height: 44px;
     }
 }
-#deleteModal .modal-message { font-family: var(--font-body), 'Source Serif Pro', serif; color: #d4c4b0; font-size: 1.1em; margin-bottom: 10px; }
-#deleteModal .modal-character-name { font-family: var(--font-title), 'Libre Baskerville', serif; color: #f5e6d3; font-size: 1.4em; text-align: center; margin: 20px 0; font-weight: bold; }
-#deleteModal .modal-warning { background: rgba(139, 0, 0, 0.3); border-left: 4px solid #8B0000; padding: 15px; margin: 20px 0; color: #f5e6d3; }
-#deleteModal .modal-actions { display: flex; gap: 15px; justify-content: center; margin-top: 25px; }
-#deleteModal .modal-btn { padding: 12px 30px; border-radius: 5px; font-family: var(--font-body), 'Source Serif Pro', serif; font-weight: 600; cursor: pointer; border: 2px solid; }
-#deleteModal .cancel-btn { background: rgba(100, 100, 100, 0.2); border-color: #666; color: #d4c4b0; }
-#deleteModal .cancel-btn:hover { background: rgba(100, 100, 100, 0.4); }
-#deleteModal .confirm-btn { background: linear-gradient(135deg, #8B0000 0%, #600000 100%); border-color: #b30000; color: #f5e6d3; }
-#deleteModal .confirm-btn:hover { background: linear-gradient(135deg, #b30000 0%, #8B0000 100%); }
+/* Delete modal styles - using Bootstrap with .vbn- prefix (already defined above) */
 </style>
 
 <!-- Include the external JavaScript file for admin panel functionality -->

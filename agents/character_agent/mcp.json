@@ -1,0 +1,101 @@
+{
+  "name": "vbn-character-mcp",
+  "version": "1.1.0",
+  "description": "Valley by Night Character MCP server (PHP + MySQL) with flexible search.",
+  "servers": [
+    {
+      "type": "stdio",
+      "command": "php",
+      "args": [
+        "G:\\VbN\\agents\\character_agent\\server.php"
+      ]
+    }
+  ],
+  "tools": [
+    {
+      "name": "listCharacters",
+      "description": "List characters with optional simple filters.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "clan": {
+            "type": "string"
+          },
+          "sect": {
+            "type": "string"
+          },
+          "limit": {
+            "type": "integer",
+            "default": 50
+          }
+        }
+      }
+    },
+    {
+      "name": "searchCharacters",
+      "description": "Search characters by specific fields or a free-text query across common fields.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "q": {
+            "type": "string",
+            "description": "Free-text search across name, clan, sect, status, title, and character_json."
+          },
+          "character_name": {
+            "type": "string"
+          },
+          "clan": {
+            "type": "string"
+          },
+          "sect": {
+            "type": "string"
+          },
+          "status": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string"
+          },
+          "limit": {
+            "type": "integer",
+            "default": 100
+          }
+        }
+      }
+    },
+    {
+      "name": "getCharacter",
+      "description": "Get a character by ID and return its JSON plus basic DB fields.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer"
+          }
+        },
+        "required": [
+          "id"
+        ]
+      }
+    },
+    {
+      "name": "updateCharacterJson",
+      "description": "Update or replace the character_json field in the DB.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer"
+          },
+          "character": {
+            "type": "object"
+          }
+        },
+        "required": [
+          "id",
+          "character"
+        ]
+      }
+    }
+  ]
+}

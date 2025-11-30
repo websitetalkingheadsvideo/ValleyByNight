@@ -26,19 +26,19 @@ if ($script_dir === '/') {
 <!-- Position View Modal -->
 <div class="modal fade" id="<?php echo htmlspecialchars($modalId); ?>" tabindex="-1" aria-labelledby="viewPositionName" aria-hidden="true" data-fullscreen="true">
     <div class="modal-dialog modal-lg modal-dialog-scrollable">
-        <div class="modal-content character-view-modal">
-            <div class="modal-header align-items-start flex-wrap gap-2">
+        <div class="modal-content vbn-modal-content character-view-modal">
+            <div class="modal-header vbn-modal-header align-items-start flex-wrap gap-2">
                 <div class="d-flex flex-column">
-                    <h5 class="modal-title d-flex align-items-center gap-2">
+                    <h5 class="modal-title vbn-modal-title d-flex align-items-center gap-2" id="viewPositionName">
                         <span aria-hidden="true">👑</span>
-                        <span id="viewPositionName">Position Details</span>
+                        <span>Position Details</span>
                     </h5>
                 </div>
                 <div class="d-flex align-items-center gap-2 ms-auto">
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
             </div>
-            <div class="modal-body">
+            <div class="modal-body vbn-modal-body">
                 <form id="positionForm">
                     <input type="hidden" id="positionId" name="position_id">
                     
@@ -91,7 +91,7 @@ if ($script_dir === '/') {
                     </div>
                 </form>
             </div>
-            <div class="modal-footer" id="positionModalFooter">
+            <div class="modal-footer vbn-modal-footer" id="positionModalFooter">
                 <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
             </div>
         </div>
