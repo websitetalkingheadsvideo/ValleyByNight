@@ -276,6 +276,70 @@ Each error entry follows this structure:
   - May require CSS updates or Bootstrap class adjustments
 - **Fixed In**: Not yet fixed
 
+### ERR-011: Boon Agent Validation Reports Directory 403 Forbidden & Should Be Modal
+- **Page**: Boon Agent Validation Reports Directory (`/agents/boon_agent/reports/validation/`)
+- **Element**: Reports directory access
+- **Severity**: High
+- **Status**: Open
+- **Description**: Accessing the Boon Agent validation reports directory returns a 403 Forbidden error. Additionally, this functionality should be presented as a modal dialog instead of a separate page for better user experience and consistency with other admin interfaces (similar to ERR-009).
+- **Steps to Reproduce**:
+  1. Log in as admin user
+  2. Navigate to `/agents/boon_agent/reports/validation/` (or click a link that attempts to access this directory)
+  3. Observe the 403 Forbidden error response
+- **Expected Behavior**: 
+  - Clicking a link to view validation reports should open a modal dialog displaying the validation reports
+  - Modal should list available validation report files
+  - Should allow viewing or downloading generated validation reports within the modal
+  - Modal should have a close button to return to the previous page
+  - Should be consistent with other agent report displays
+  - Admin users should have access to these reports
+- **Actual Behavior**: 
+  - Server returns HTTP 403 Forbidden error when accessing the directory URL
+  - Page shows "Forbidden" heading and "You don't have permission to access this resource."
+  - No report files are accessible
+  - Currently implemented as a separate page navigation instead of a modal
+- **Screenshots/Notes**: 
+  - This error indicates both a permissions/access control issue AND a UX design issue
+  - May be related to directory permissions, .htaccess rules, or server configuration
+  - Should be converted to a modal similar to ERR-009 (Character Agent Configuration)
+  - Prevents access to Boon Agent validation reports functionality
+  - Similar to ERR-007 (Daily Reports 500 error) and ERR-012 (Character Reports 403 error)
+  - Admin users should have access to these reports
+  - Would improve user experience by keeping context on the Agents Dashboard or Boon Agent page
+- **Fixed In**: Not yet fixed
+
+### ERR-012: Boon Agent Character Reports Directory 403 Forbidden & Should Be Modal
+- **Page**: Boon Agent Character Reports Directory (`/agents/boon_agent/reports/character/`)
+- **Element**: Reports directory access
+- **Severity**: High
+- **Status**: Open
+- **Description**: Accessing the Boon Agent character reports directory returns a 403 Forbidden error. Additionally, this functionality should be presented as a modal dialog instead of a separate page for better user experience and consistency with other admin interfaces (similar to ERR-009).
+- **Steps to Reproduce**:
+  1. Log in as admin user
+  2. Navigate to `/agents/boon_agent/reports/character/` (or click a link that attempts to access this directory)
+  3. Observe the 403 Forbidden error response
+- **Expected Behavior**: 
+  - Clicking a link to view character reports should open a modal dialog displaying the character reports
+  - Modal should list available character report files
+  - Should allow viewing or downloading generated character reports within the modal
+  - Modal should have a close button to return to the previous page
+  - Should be consistent with other agent report displays
+  - Admin users should have access to these reports
+- **Actual Behavior**: 
+  - Server returns HTTP 403 Forbidden error when accessing the directory URL
+  - Page shows "Forbidden" heading and "You don't have permission to access this resource."
+  - No report files are accessible
+  - Currently implemented as a separate page navigation instead of a modal
+- **Screenshots/Notes**: 
+  - This error indicates both a permissions/access control issue AND a UX design issue
+  - May be related to directory permissions, .htaccess rules, or server configuration
+  - Should be converted to a modal similar to ERR-009 (Character Agent Configuration)
+  - Prevents access to Boon Agent character reports functionality
+  - Similar to ERR-007 (Daily Reports 500 error) and ERR-011 (Validation Reports 403 error)
+  - Admin users should have access to these reports
+  - Would improve user experience by keeping context on the Agents Dashboard or Boon Agent page
+- **Fixed In**: Not yet fixed
+
 ---
 
 ## Testing Notes
@@ -512,4 +576,4 @@ Each error entry follows this structure:
 
 ---
 
-*Last Updated: Testing in progress - 10 errors found so far (ERR-001, ERR-002, ERR-003, ERR-004, ERR-005, ERR-006, ERR-007, ERR-008, ERR-009, ERR-010). Approximately 1000+ tests completed. Many pages tested successfully including: Admin Boon Ledger (table loading, filter dropdown, "New Boon" button, "Mark as Paid" button works, edit button opens modal, edit modal close button works), Admin Agents (Character Agent search link, Generate Reports link, View Reports link, View Config link, Back to Agents links all work), Character Agent Reports page (shows Daily Reports section with multiple report files), Admin Panel (PCs Only filter works - shows 9 characters, NPCs Only filter works, All Characters filter works, Sort by Clan dropdown opens, Per page dropdown opens, Name column header clickable, Status column header clickable, Gen column header clickable, Character view button opens modal, Character view modal close button works, Character edit button opens modal with iframe, Character edit modal close button works, Character delete button opens confirmation modal, Delete confirmation modal cancel button works, Search by name textbox works - filters table), Equipment page (All Equipment filter button works, Weapons filter button works - shows 12 weapons, Armor filter button works - shows 3 armor items, Tools filter button works - shows 10 tools, Type dropdown opens, Rarity dropdown opens, Search by name textbox works, Per page dropdown opens, ID column header clickable - sorts table, Equipment view button opens modal showing equipment details, Equipment view modal close button works), Items page (All Items filter button works, Weapons filter button works - shows 12 weapons, Armor filter button works - shows 3 armor items, Tools filter button works - shows 10 tools, Type dropdown opens, Rarity dropdown opens, Search by name textbox works, Per page dropdown opens, ID column header clickable - sorts table, Name column header clickable - sorts table, Type column header clickable - sorts table, Category column header clickable - sorts table, Damage column header clickable - sorts table, Range column header clickable - sorts table, Rarity column header clickable - sorts table, Price column header clickable - sorts table, Created column header clickable - sorts table, Add New Item button opens modal, Add New Item modal close button works, Items view button ERR-006 confirmed - no modal appears), Sire/Childe page (All Relationships filter button, Sires Only filter button, Childer Only filter button, Sireless filter button, Add Relationship button opens modal, Add Relationship modal close button works, Family Tree button opens modal, Family Tree modal close button works, search box works - filters table, Vampire column header sorts table, Clan column header sorts table, Gen column header sorts table, Sire column header sorts table, Player column header sorts table, view button opens character modal, character modal close button works, edit button opens Edit Relationship modal, Edit Relationship modal close button works), Enhanced Sire/Childe page (Analyze Biographies button works - button becomes active, Verify Relationships button works - button becomes active, shows analysis complete message, Export Data button ERR-007 - 500 error on reports directory). Testing continues.*
+*Last Updated: Testing in progress - 12 errors found so far (ERR-001, ERR-002, ERR-003, ERR-004, ERR-005, ERR-006, ERR-007, ERR-008, ERR-009, ERR-010, ERR-011, ERR-012). Approximately 1100+ tests completed. Many pages tested successfully including: Admin Boon Ledger (table loading, filter dropdown, "New Boon" button, "Mark as Paid" button works, edit button opens modal, edit modal close button works), Admin Agents (Character Agent search link, Generate Reports link, View Reports link, View Config link, Back to Agents links all work), Character Agent Reports page (shows Daily Reports section with multiple report files), Admin Panel (PCs Only filter works - shows 9 characters, NPCs Only filter works, All Characters filter works, Sort by Clan dropdown opens, Per page dropdown opens, Name column header clickable, Status column header clickable, Gen column header clickable, Character view button opens modal, Character view modal close button works, Character edit button opens modal with iframe, Character edit modal close button works, Character delete button opens confirmation modal, Delete confirmation modal cancel button works, Search by name textbox works - filters table), Equipment page (All Equipment filter button works, Weapons filter button works - shows 12 weapons, Armor filter button works - shows 3 armor items, Tools filter button works - shows 10 tools, Type dropdown opens, Rarity dropdown opens, Search by name textbox works, Per page dropdown opens, ID column header clickable - sorts table, Equipment view button opens modal showing equipment details, Equipment view modal close button works), Items page (All Items filter button works, Weapons filter button works - shows 12 weapons, Armor filter button works - shows 3 armor items, Tools filter button works - shows 10 tools, Type dropdown opens, Rarity dropdown opens, Search by name textbox works, Per page dropdown opens, ID column header clickable - sorts table, Name column header clickable - sorts table, Type column header clickable - sorts table, Category column header clickable - sorts table, Damage column header clickable - sorts table, Range column header clickable - sorts table, Rarity column header clickable - sorts table, Price column header clickable - sorts table, Created column header clickable - sorts table, Add New Item button opens modal, Add New Item modal close button works, Items view button ERR-006 confirmed - no modal appears), Sire/Childe page (All Relationships filter button, Sires Only filter button, Childer Only filter button, Sireless filter button, Add Relationship button opens modal, Add Relationship modal close button works, Family Tree button opens modal, Family Tree modal close button works, search box works - filters table, Vampire column header sorts table, Clan column header sorts table, Gen column header sorts table, Sire column header sorts table, Player column header sorts table, view button opens character modal, character modal close button works, edit button opens Edit Relationship modal, Edit Relationship modal close button works), Enhanced Sire/Childe page (Analyze Biographies button works - button becomes active, Verify Relationships button works - button becomes active, shows analysis complete message, Export Data button ERR-007 - 500 error on reports directory). Testing continues.*

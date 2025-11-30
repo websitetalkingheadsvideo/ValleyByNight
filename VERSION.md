@@ -1,6 +1,44 @@
 # Version History
 
-## Current Version: 0.8.9
+## Current Version: 0.8.10
+
+**Date:** 2025-01-30  
+**Type:** Patch (Style Agent MCP System & Reorganization)
+
+### Changes:
+- **Style Agent MCP Reorganization** - Complete reorganization of Style Agent into MCP structure
+  - Moved all 11 Art Bible chapter files to `agents/style_agent/docs/` folder
+  - Moved index files to `agents/style_agent/indexes/` folder
+  - Removed duplicate/old Art Bible files from root (13 files, ~5000 lines removed)
+  - Created standardized MCP documentation structure (README, RULES, PROMPTS, INDEX)
+- **MCP Database Infrastructure** - Created foundational MCP system
+  - Created `mcp_style_packs` table for MCP registry (name, slug, version, filesystem_path, enabled)
+  - Created `mcp_style_chapters` table for chapter-level metadata (optional)
+  - Database migration script with idempotent table creation
+  - Path correction and update utility scripts
+- **MCP Documentation & Usage** - Comprehensive MCP system documentation
+  - Created `docs/MCP_USAGE.md` with complete usage guide (457 lines)
+  - Database schema documentation and integration examples
+  - Query patterns and best practices for agents
+  - Discovery and loading patterns
+- **MCP Configuration Files** - MCP server infrastructure
+  - `mcp.json` - MCP server configuration
+  - `server.php` - MCP server implementation
+  - `db.php` - Database connection for MCP system
+- **Verification & Testing Tools** - MCP system validation utilities
+  - Structure validation script (`verify_mcp_structure.php`)
+  - Loading test script (`test_mcp_loading.php`)
+  - Connection test (`connect_to_style_agent_mcp.php`)
+  - Directory setup utility (`create_mcp_directories.php`)
+- **Path Verification** - Created path verification documentation
+  - `agents_path_verification.md` - Documents correct agent paths and structure
+- **Code Quality** - Infrastructure improvements
+  - Clean file organization and structure
+  - Comprehensive documentation
+  - Database migration scripts with proper error handling
+  - Follows project coding standards
+
+## Previous Version: 0.8.9
 
 **Date:** 2025-01-30  
 **Type:** Patch (Admin Interface Refactoring & Code Consolidation)
