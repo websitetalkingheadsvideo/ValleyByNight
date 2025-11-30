@@ -1,6 +1,34 @@
 # Version History
 
-## Current Version: 0.8.10
+## Current Version: 0.8.11
+
+**Date:** 2025-01-30  
+**Type:** Patch (Laws Agent Restoration & File Recovery)
+
+### Changes:
+- **Laws Agent Restoration** - Restored complete Laws Agent directory structure from git history
+  - Fixed forbidden error when accessing `/agents/laws_agent/` by restoring missing files
+  - Restored 19 files from commit `5e8f308` (Nov 14, 2025) including:
+    - `index.php` - Main Laws Agent interface with email verification and query system
+    - `api.php` - API endpoint for rulebook queries (824 lines)
+    - `markdown_loader.php` - File-based markdown indexing system (410 lines)
+    - `README.md` - Comprehensive documentation (171 lines)
+    - Knowledge base files (11 markdown files covering Six Traditions, enforcement, character creation)
+    - MCP scripts (`mcp_laws_agent.js`, `mcp_laws_agent_v2.js`) and package files
+  - Total of 3,063 lines of code restored
+  - Files were previously removed or missing from HEAD, causing 403 Forbidden errors
+  - Laws Agent now fully functional with database and file-based search integration
+- **Git History Investigation** - Traced Laws Agent files through git history
+  - Identified original commit where files were added (5e8f308)
+  - Verified file structure and contents from git repository
+  - Restored complete directory structure including knowledge-base and scripts subdirectories
+- **Code Quality** - Restored complete, functional Laws Agent system
+  - All files match original implementation from Nov 14, 2025
+  - Includes integration with rulebook database and Laws of the Night markdown files
+  - Maintains email verification requirement for access
+  - Full query interface and API functionality restored
+
+## Previous Version: 0.8.10
 
 **Date:** 2025-01-30  
 **Type:** Patch (Style Agent MCP System & Reorganization)
