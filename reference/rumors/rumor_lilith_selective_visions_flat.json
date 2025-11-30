@@ -1,0 +1,30 @@
+{
+    "rumor_name": "rumor_lilith_selective_visions",
+    "title": "Lilith Knew and Said Nothing",
+    "rumor_text": "Lilith Nightshade foresaw the Prince's death through her visions but deliberately chose not to warn him, raising questions about her loyalty and motives.\n\nWhispers circulate that on the night of the Prince's murder, Lilith Nightshade experienced a vision of his death hours before it happened\u2014and did nothing. Some claim she was seen leaving a brief private audience with the Prince just after sunset, her face pale and her eyes unfocused in that way she gets when a vision strikes. Yet she attended the gathering, watched the introductions of new neonates, and never uttered a warning. Now Kindred wonder: Was she bound by some higher purpose? Did someone pay her for silence? Or worse\u2014did she see the opportunity and choose to let it unfold?",
+    "truth_rating": 3,
+    "danger_rating": 2,
+    "source_type": "Anarch",
+    "clan_tags": [
+        "Malkavian"
+    ], 
+    "location_tags": [
+        "violet_reliquary",
+        "hawthorne_estate",
+        "location_24th_street_bar"
+    ],
+    "connects_to_plot_ids": [
+        "prince_murder",
+        "camarilla_instability",
+        "anarch_manipulation"
+    ],
+    "spread_likelihood": "high",
+    "visibility": "public",
+    "nighttime_trigger_flags": [
+        "court_gossip",
+        "prince_murder_aftermath"
+    ],
+    "storyteller_notes": "This rumor is designed to create moral ambiguity and political intrigue. It should make PCs question whether Lilith is trustworthy, whether prophecy can be relied upon, and whether the ends justify the means. The truth\u2014that she tried to warn but was dismissed\u2014is more tragic than damning, but the rumor's distortion serves political purposes. This can be used to drive investigation scenes, social maneuvering, and character-defining choices about trust and loyalty.\n\nTruth status: partially_true",
+    "created_at": "1994-01-16",
+    "updated_at": "1994-01-20"
+}

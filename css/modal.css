@@ -1,10 +1,40 @@
 /**
- * Shared Modal Styles
+ * Shared Modal Styles - Valley by Night
+ * Bootstrap 5.3.2 modal overrides with .vbn- namespace prefix
  * Used across all admin pages and other pages with modals
  */
 
-/* Modal Base */
-.modal {
+/* Bootstrap Modal Overrides with .vbn- prefix */
+.vbn-modal-content {
+    background: linear-gradient(135deg, #2a1515 0%, #1a0f0f 100%);
+    border: 3px solid #8B0000;
+    border-radius: 10px;
+}
+
+.vbn-modal-header {
+    border-bottom: 2px solid rgba(139, 0, 0, 0.3);
+    background: linear-gradient(135deg, #1a0f0f 0%, #2a1515 100%);
+}
+
+.vbn-modal-title {
+    font-family: var(--font-brand), 'IM Fell English', serif;
+    color: #f5e6d3;
+    font-size: 1.8em;
+    font-weight: 600;
+}
+
+.vbn-modal-body {
+    color: #d4c4b0;
+    font-family: var(--font-body), 'Source Serif Pro', serif;
+}
+
+.vbn-modal-footer {
+    border-top: 2px solid rgba(139, 0, 0, 0.3);
+    background: linear-gradient(135deg, #1a0f0f 0%, #2a1515 100%);
+}
+
+/* Legacy custom modal support (for backward compatibility during migration) */
+.modal:not(.fade) {
     display: none;
     position: fixed;
     z-index: 9999;
@@ -17,12 +47,11 @@
     justify-content: center;
 }
 
-.modal.active {
+.modal:not(.fade).active {
     display: flex;
 }
 
-/* Modal Content */
-.modal-content {
+.modal:not(.fade) .modal-content {
     background: linear-gradient(135deg, #2a1515 0%, #1a0f0f 100%);
     border: 3px solid #8B0000;
     border-radius: 10px;
@@ -33,12 +62,11 @@
     overflow-y: auto;
 }
 
-.modal-content.large-modal {
+.modal:not(.fade) .modal-content.large-modal {
     max-width: 900px;
 }
 
-/* Modal Close Button */
-.modal-close {
+.modal:not(.fade) .modal-close {
     position: absolute;
     top: 15px;
     right: 15px;
@@ -53,13 +81,12 @@
     transition: all 0.2s;
 }
 
-.modal-close:hover {
+.modal:not(.fade) .modal-close:hover {
     background: rgba(139, 0, 0, 0.6);
     transform: scale(1.1);
 }
 
-/* Modal Title */
-.modal-title {
+.modal:not(.fade) .modal-title {
     font-family: var(--font-brand), 'IM Fell English', serif;
     color: #f5e6d3;
     font-size: 2em;
@@ -67,7 +94,49 @@
     text-align: center;
 }
 
-/* Modal Message/Text */
+/* Modal Message/Text with .vbn- prefix */
+.vbn-modal-message {
+    font-family: var(--font-body), 'Source Serif Pro', serif;
+    color: #d4c4b0;
+    font-size: 1.1em;
+    margin-bottom: 10px;
+}
+
+.vbn-modal-character-name {
+    font-family: var(--font-title), 'Libre Baskerville', serif;
+    color: #f5e6d3;
+    font-size: 1.4em;
+    text-align: center;
+    margin: 20px 0;
+    font-weight: bold;
+}
+
+.vbn-modal-warning {
+    background: rgba(139, 0, 0, 0.3);
+    border-left: 4px solid #8B0000;
+    padding: 15px;
+    margin: 20px 0;
+    color: #f5e6d3;
+}
+
+/* Modal Actions with .vbn- prefix */
+.vbn-modal-actions {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+.vbn-modal-btn {
+    padding: 12px 30px;
+    border-radius: 5px;
+    font-family: var(--font-body), 'Source Serif Pro', serif;
+    font-weight: 600;
+    cursor: pointer;
+    border: 2px solid;
+}
+
+/* Legacy support */
 .modal-message {
     font-family: var(--font-body), 'Source Serif Pro', serif;
     color: #d4c4b0;
@@ -92,7 +161,6 @@
     color: #f5e6d3;
 }
 
-/* Modal Actions */
 .modal-actions {
     display: flex;
     gap: 15px;
@@ -230,7 +298,54 @@
     font-weight: 600;
 }
 
-/* Character Selection in Modals */
+/* Character Selection in Modals with .vbn- prefix */
+.vbn-character-selection {
+    max-height: 400px;
+    overflow-y: auto;
+    border: 1px solid rgba(139, 0, 0, 0.3);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.vbn-character-item {
+    padding: 12px;
+    margin-bottom: 8px;
+    background: rgba(139, 0, 0, 0.1);
+    border: 2px solid rgba(139, 0, 0, 0.2);
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.vbn-character-item:hover {
+    background: rgba(139, 0, 0, 0.2);
+    border-color: rgba(139, 0, 0, 0.4);
+}
+
+.vbn-character-item.has-equipment {
+    background: rgba(0, 150, 0, 0.2);
+    border-color: rgba(0, 150, 0, 0.5);
+}
+
+.vbn-character-item.has-equipment:hover {
+    background: rgba(0, 150, 0, 0.3);
+    border-color: rgba(0, 150, 0, 0.7);
+}
+
+.vbn-character-item strong {
+    display: block;
+    color: #f5e6d3;
+    font-size: 1.1em;
+    margin-bottom: 4px;
+}
+
+.vbn-character-item small {
+    display: block;
+    color: #b8a090;
+    font-size: 0.9em;
+}
+
+/* Legacy support */
 .character-selection {
     max-height: 400px;
     overflow-y: auto;

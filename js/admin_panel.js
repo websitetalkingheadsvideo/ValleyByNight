@@ -305,8 +305,16 @@ function initializeViewButtons() {
 }
 
 // Delete functionality
+let deleteModalInstance = null;
+
 function initializeDeleteButtons() {
     const deleteButtons = document.querySelectorAll('.delete-btn');
+    
+    // Initialize Bootstrap modal instance
+    const modalEl = document.getElementById('deleteModal');
+    if (modalEl && typeof bootstrap !== 'undefined' && bootstrap.Modal) {
+        deleteModalInstance = bootstrap.Modal.getOrCreateInstance(modalEl);
+    }
     
     deleteButtons.forEach(btn => {
         btn.addEventListener('click', function() {
@@ -314,25 +322,42 @@ function initializeDeleteButtons() {
             const characterName = this.dataset.name;
             const isFinalized = this.dataset.status === 'finalized';
             
-            // Show modal
-            document.getElementById('deleteCharacterName').textContent = characterName;
-            
-            if (isFinalized) {
-                document.getElementById('deleteWarning').style.display = 'block';
-            } else {
-                document.getElementById('deleteWarning').style.display = 'none';
+            // Populate modal content
+            const nameEl = document.getElementById('deleteCharacterName');
+            if (nameEl) {
+                nameEl.textContent = characterName;
             }
             
-            document.getElementById('deleteModal').classList.add('active');
+            const warningEl = document.getElementById('deleteWarning');
+            if (warningEl) {
+                warningEl.style.display = isFinalized ? 'block' : 'none';
+            }
+            
+            // Show Bootstrap modal
+            if (deleteModalInstance) {
+                deleteModalInstance.show();
+            }
         });
     });
     
     // Confirm delete button
-    document.getElementById('confirmDeleteBtn').addEventListener('click', confirmDelete);
+    const confirmBtn = document.getElementById('confirmDeleteBtn');
+    if (confirmBtn) {
+        confirmBtn.addEventListener('click', confirmDelete);
+    }
+    
+    // Reset on modal close
+    if (modalEl) {
+        modalEl.addEventListener('hidden.bs.modal', function() {
+            deleteCharacterId = null;
+        });
+    }
 }
 
 function closeDeleteModal() {
-    document.getElementById('deleteModal').classList.remove('active');
+    if (deleteModalInstance) {
+        deleteModalInstance.hide();
+    }
     deleteCharacterId = null;
 }
 

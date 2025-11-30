@@ -1,0 +1,216 @@
+{
+    "id": 0,
+    "user_id": 0,
+    "character_name": "Naomi Blackbird",
+    "player_name": "NPC",
+    "chronicle": "Valley by Night",
+    "nature": "Visionary",
+    "demeanor": "Judge",
+    "concept": "Storm-touched Gangrel prophet who guards the desert boundaries of Phoenix.",
+    "clan": "Gangrel",
+    "generation": 10,
+    "sire": "Unknown Desert Walker",
+    "pc": 0,
+  
+    "appearance": "Naomi Blackbird carries the presence of a monsoon held barely in check. Tall, wiry, and sun-weathered, she wears long dust-stained coats and practical desert gear. Her hair, black and wind-tangled, often shifts subtly as if stirred by a breeze no one else feels. Her amber eyes catch stray reflections like lightning far off the horizon.",
+    
+    "appearance_detailed": {
+      "short_summary": "A storm-prophet Gangrel wrapped in desert dust and monsoon stillness.",
+      "detailed_description": "Naomi moves with the steady patience of someone who listens to things others cannot hear. Her clothing is layered against the desert night—canvas coats, worn boots, and leather bindings that carry the scent of dust and storm-soaked earth. Her hair falls in uneven strands, often shifting as though wind coils around her. Faint patterns of dried river silt cling to her coat’s hem. Under moonlight her eyes glow with sharp amber reflections, their depths hinting at visions and spirits that cluster around the Salt River bed. When she stands still, animals sometimes gather near her, sensing the quiet pull of the land that threads through her Blood."
+    },
+  
+    "biography": "Before her Embrace, Naomi Blackbird lived close to the Salt River’s forgotten edges, drawn to its dry channels and the uneasy dreams that came with approaching storms. She saw patterns in dust devils, heard whispers in river stones, and often knew when someone would die long before word reached her. When a Gangrel wanderer watched her walk straight into a monsoon without fear, following a vision no mortal should have survived, he recognized something ancient in her bloodline. He chose her, offering the Embrace not out of mercy but acknowledgment.\n\nAs a vampire, Naomi’s senses deepened past the mortal world. Through the vaila staff kept by her family, she heard Vechij Oksdagi—the old Dream-Seer wraith who had watched over her ancestors for more than a century. Together they shaped her path: protector of Phoenix’s edges, interpreter of the desert’s warnings, the elder who listens when the land speaks. Naomi has no patience for Camarilla games. She protects those who live close to the earth, and when storms rise over Phoenix, Kindred whisper that she already knows who won’t see the dawn.",
+    
+    "notes": "Gangrel Primogen of Phoenix. Functions as a pragmatic protector of the city's desert boundaries. Has an active connection to the wraith Vechij Oksdagi through a family Fetter passed down for generations.",
+    "equipment": "Desert survival gear, canvas storm coat, bone-and-turquoise talisman, family vaila staff (Fetter belongs to Vechij, not her).",
+    "character_image": "",
+    "status": "active",
+    "camarilla_status": "Camarilla",
+    "sect": "Camarilla",
+    "title": "Gangrel Primogen of Phoenix",
+    "epithet": "The Storm-Watcher",
+    "description_tags": ["desert", "storm-prophet", "spirit-touched", "protean-master", "Salt River"],
+  
+    "timeline": {
+      "birthplace": "Salt River region, Phoenix AZ",
+      "embrace_period": "Late 1980s",
+      "notable_mortal_past": "Desert wanderer, intuitive storm tracker, lived among river communities.",
+      "world_war_two_experience": "",
+      "arrival_in_phoenix": "Born locally",
+      "bunker_acquisition": "",
+      "years_in_bunker": ""
+    },
+  
+    "domain_and_haven": {
+      "primary_haven_name": "Salt River Bed Shelter",
+      "primary_haven_type": "Semi-hidden natural lair",
+      "location_notes": "A concealed space beneath old river infrastructure near the Salt River bed.",
+      "bunker_history": "",
+      "bunker_function": [],
+      "false_public_assumptions": "Most Kindred believe she sleeps outdoors; no one knows the exact spot."
+    },
+  
+    "current_residents": {
+      "nosferatu": [],
+      "ghouls": []
+    },
+  
+    "personality": {
+      "tagline": "A desert prophet whose silence carries the weight of incoming storms.",
+      "narrative": "Naomi is steady, grounded, and impossible to rattle. She values observation over speech and offers judgments only after listening to the land, the wind, and the dead. She distrusts politics but respects duty, acting as the city’s boundary-keeper rather than its social presence. Her guidance is direct, firm, and at times unsettlingly prophetic. To neonates she is intimidating but fair; to elders she is an enigma whose visions have saved Phoenix more than once."
+    },
+  
+    "traits": {
+      "Physical": ["Enduring", "Quick Reflexes"],
+      "Social": ["Intimidating", "Calm"],
+      "Mental": ["Insightful", "Perceptive", "Focused"]
+    },
+  
+    "negativeTraits": {
+      "Physical": [],
+      "Social": ["Unnerving"],
+      "Mental": ["Distracted by visions"]
+    },
+  
+    "abilities": [
+      {"name": "Survival", "category": "Physical", "level": 4},
+      {"name": "Animal Ken", "category": "Social", "level": 3},
+      {"name": "Awareness", "category": "Mental", "level": 4},
+      {"name": "Occult", "category": "Mental", "level": 3},
+      {"name": "Intimidation", "category": "Social", "level": 3},
+      {"name": "Stealth", "category": "Physical", "level": 3},
+      {"name": "Empathy", "category": "Social", "level": 2}
+    ],
+  
+    "specializations": {
+      "Survival": "Desert",
+      "Awareness": "Storm omens",
+      "Occult": "Spirits"
+    },
+  
+    "disciplines": [
+      {
+        "name": "Protean",
+        "level": 5,
+        "powers": [
+          {"level": 1, "power": "Eyes of the Beast"},
+          {"level": 2, "power": "Feral Claws"},
+          {"level": 3, "power": "Earth Meld"},
+          {"level": 4, "power": "Shape of the Beast"},
+          {"level": 5, "power": "Mist Form"}
+        ]
+      },
+      {
+        "name": "Animalism",
+        "level": 3,
+        "powers": [
+          {"level": 1, "power": "Feral Whispers"},
+          {"level": 2, "power": "Beckoning"},
+          {"level": 3, "power": "Quell the Beast"}
+        ]
+      },
+      {
+        "name": "Fortitude",
+        "level": 2,
+        "powers": []
+      },
+      {
+        "name": "Auspex",
+        "level": 2,
+        "powers": [
+          {"level": 1, "power": "Heightened Senses"},
+          {"level": 2, "power": "Aura Perception"}
+        ]
+      }
+    ],
+  
+    "backgrounds": {
+      "Status": 3,
+      "Allies": 1,
+      "Mentor": 3,
+      "Herd": 1,
+      "Contacts": 1
+    },
+  
+    "backgroundDetails": {
+      "Mentor": "Vechij Oksdagi, the Dream-Seer wraith bound to her ancestral vaila staff.",
+      "Status": "Gangrel Primogen of Phoenix."
+    },
+  
+    "morality": {
+      "path_name": "Humanity",
+      "path_rating": 6,
+      "conscience": 3,
+      "self_control": 3,
+      "courage": 4,
+      "willpower_permanent": 7,
+      "willpower_current": 7,
+      "humanity": 6
+    },
+  
+    "merits_flaws": [
+      {
+        "name": "Medium",
+        "type": "merit",
+        "category": "Mental",
+        "cost": 2,
+        "description": "Naomi can hear and speak with wraiths. Vechij Oksdagi communicates with her through omens and visions."
+      },
+      {
+        "name": "Oracular Ability",
+        "type": "merit",
+        "category": "Mental",
+        "cost": 3,
+        "description": "She experiences prophetic flashes tied to storms, dust, and the Salt River bed."
+      },
+      {
+        "name": "Unseen Sense",
+        "type": "merit",
+        "category": "Mental",
+        "cost": 2,
+        "description": "Naomi instinctively detects supernatural presences such as wraiths or disturbed spirits."
+      },
+      {
+        "name": "Spirit Mentor",
+        "type": "merit",
+        "category": "Social",
+        "cost": 3,
+        "description": "Vechij Oksdagi, the Akimel O’odham Dream-Seer, serves as her guide."
+      }
+    ],
+  
+    "status_details": {
+      "sect_status": "Respected Primogen",
+      "clan_status": "Elder",
+      "city_status": "Keeper of the Desert Boundary",
+      "health_levels": 7,
+      "blood_pool_current": 10,
+      "blood_pool_maximum": 10,
+      "blood_per_turn": 1,
+      "xp_total": 0,
+      "xp_spent": 0,
+      "xp_available": 0,
+      "notes": "Trusted by many Gangrel, feared by some Kindred."
+    },
+  
+    "coteries": [],
+    "relationships": [
+      {
+        "related_character_name": "Vechij Oksdagi",
+        "relationship_type": "Mentor",
+        "relationship_subtype": "Spirit Guide",
+        "strength": "Deep",
+        "description": "A wraith tied to Naomi’s ancestral vaila staff. Guides her through visions."
+      }
+    ],
+  
+    "rituals": [],
+    "research_notes": {},
+    "artifacts": [],
+    "custom_data": null,
+  
+    "current_state": "",
+    "created_at": null,
+    "updated_at": null
+  }
+  

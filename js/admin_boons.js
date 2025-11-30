@@ -184,18 +184,40 @@ function renderStatusBadge(status) {
     return `<span class="boon-status-badge" style="background-color:${color};">${escapeHtml(status)}</span>`;
 }
 
+let boonModalInstance = null;
+let deleteBoonModalInstance = null;
+
 function openBoonModal(boonId = null) {
     currentBoonId = boonId;
     const modal = document.getElementById('boonModal');
     const form = document.getElementById('boonForm');
     const title = document.getElementById('modalTitle');
     
-    if (modal && form && title) {
+    if (!modal) return;
+    
+    // Initialize Bootstrap modal instance if needed
+    if (typeof bootstrap !== 'undefined' && bootstrap.Modal) {
+        if (!boonModalInstance) {
+            boonModalInstance = bootstrap.Modal.getOrCreateInstance(modal);
+        }
+    }
+    
+    if (form && title) {
         if (boonId) {
-            title.textContent = 'Edit Boon';
+            const titleSpan = title.querySelector('span');
+            if (titleSpan) {
+                titleSpan.textContent = 'Edit Boon';
+            } else {
+                title.innerHTML = '💎 <span>Edit Boon</span>';
+            }
             loadBoon(boonId);
         } else {
-            title.textContent = 'New Boon';
+            const titleSpan = title.querySelector('span');
+            if (titleSpan) {
+                titleSpan.textContent = 'New Boon';
+            } else {
+                title.innerHTML = '💎 <span>New Boon</span>';
+            }
             form.reset();
             document.getElementById('boonId').value = '';
             document.getElementById('boonStatus').value = 'Owed';
@@ -207,14 +229,17 @@ function openBoonModal(boonId = null) {
             document.getElementById('giverName').value = '';
             document.getElementById('receiverName').value = '';
         }
-        modal.classList.add('active');
+    }
+    
+    // Show Bootstrap modal
+    if (boonModalInstance) {
+        boonModalInstance.show();
     }
 }
 
 function closeBoonModal() {
-    const modal = document.getElementById('boonModal');
-    if (modal) {
-        modal.classList.remove('active');
+    if (boonModalInstance) {
+        boonModalInstance.hide();
     }
     currentBoonId = null;
 }
@@ -410,16 +435,28 @@ function confirmDeleteBoon(boonId, giverName, receiverName) {
     const modal = document.getElementById('deleteBoonModal');
     const info = document.getElementById('deleteBoonInfo');
     
-    if (modal && info) {
+    if (!modal) return;
+    
+    // Initialize Bootstrap modal instance if needed
+    if (typeof bootstrap !== 'undefined' && bootstrap.Modal) {
+        if (!deleteBoonModalInstance) {
+            deleteBoonModalInstance = bootstrap.Modal.getOrCreateInstance(modal);
+        }
+    }
+    
+    if (info) {
         info.textContent = `${giverName} → ${receiverName}`;
-        modal.classList.add('active');
+    }
+    
+    // Show Bootstrap modal
+    if (deleteBoonModalInstance) {
+        deleteBoonModalInstance.show();
     }
 }
 
 function closeDeleteBoonModal() {
-    const modal = document.getElementById('deleteBoonModal');
-    if (modal) {
-        modal.classList.remove('active');
+    if (deleteBoonModalInstance) {
+        deleteBoonModalInstance.hide();
     }
     deleteBoonId = null;
 }
@@ -485,16 +522,5 @@ function escapeHtml(text) {
     return div.innerHTML;
 }
 
-// Close modals when clicking outside
-window.addEventListener('click', function(event) {
-    const boonModal = document.getElementById('boonModal');
-    const deleteModal = document.getElementById('deleteBoonModal');
-    
-    if (event.target === boonModal) {
-        closeBoonModal();
-    }
-    if (event.target === deleteModal) {
-        closeDeleteBoonModal();
-    }
-});
+// Bootstrap modals handle backdrop clicks automatically, no need for manual handling
 

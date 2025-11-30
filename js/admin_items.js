@@ -17,116 +17,10 @@ let currentItemId = null;
 // Initialize on page load
 document.addEventListener('DOMContentLoaded', function() {
     initializeEventListeners();
-    setupAccessibleModals();
     loadItems();
 });
 
-// Accessible modal helpers (focus trap, restore focus, ESC)
-let lastActiveElement = null;
-function getFocusable(container) {
-    return Array.from(container.querySelectorAll('a[href], button:not([disabled]), textarea, input, select, [tabindex]:not([tabindex="-1"])'))
-        .filter(el => el.offsetParent !== null || el.getAttribute('aria-hidden') !== 'true');
-}
-function trapFocus(modal) {
-    function onKeyDown(e) {
-        if (e.key === 'Tab') {
-            const list = getFocusable(modal);
-            if (list.length === 0) { e.preventDefault(); return; }
-            const first = list[0];
-            const last = list[list.length - 1];
-            if (document.activeElement === modal) {
-                e.preventDefault();
-                if (e.shiftKey) { last.focus(); } else { first.focus(); }
-                return;
-            }
-            if (e.shiftKey && document.activeElement === first) { e.preventDefault(); last.focus(); }
-            else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first.focus(); }
-        } else if (e.key === 'Escape') {
-            closeAnyOpenModal();
-        }
-    }
-    modal.__trapHandler = onKeyDown;
-    document.addEventListener('keydown', onKeyDown);
-}
-function releaseFocus(modal) {
-    if (modal && modal.__trapHandler) {
-        document.removeEventListener('keydown', modal.__trapHandler);
-        delete modal.__trapHandler;
-    }
-    if (lastActiveElement) {
-        try { lastActiveElement.focus(); } catch (_) {}
-        lastActiveElement = null;
-    }
-}
-function openModalA11y(modalId) {
-    const modal = document.getElementById(modalId);
-    if (!modal) return;
-    lastActiveElement = document.activeElement;
-    // aria-hide siblings at this level
-    const parent = modal.parentElement;
-    if (parent) {
-      const siblings = Array.from(parent.children).filter(ch => ch !== modal);
-      siblings.forEach(el => {
-        if (!el.hasAttribute('data-aria-hidden-was')) {
-          el.setAttribute('data-aria-hidden-was', el.getAttribute('aria-hidden') || '');
-        }
-        el.setAttribute('aria-hidden','true');
-        el.setAttribute('inert','');
-      });
-      modal.setAttribute('aria-hidden','false');
-      modal.removeAttribute('inert');
-    }
-    modal.classList.add('active');
-    if (!modal.hasAttribute('tabindex')) modal.setAttribute('tabindex','-1');
-    try { modal.focus(); } catch (_) {}
-    trapFocus(modal);
-}
-function closeModalA11y(modalId) {
-    const modal = document.getElementById(modalId);
-    if (!modal) return;
-    modal.classList.remove('active');
-    // restore siblings
-    const parent = modal.parentElement;
-    if (parent) {
-      const siblings = Array.from(parent.children).filter(ch => ch !== modal);
-      siblings.forEach(el => {
-        const prev = el.getAttribute('data-aria-hidden-was');
-        if (prev !== null) {
-          if (prev === '' ) { el.removeAttribute('aria-hidden'); }
-          else { el.setAttribute('aria-hidden', prev); }
-          el.removeAttribute('data-aria-hidden-was');
-        } else {
-          el.removeAttribute('aria-hidden');
-        }
-        el.removeAttribute('inert');
-      });
-    }
-    releaseFocus(modal);
-}
-function closeAnyOpenModal() {
-    ['itemModal','viewModal','assignModal','deleteModal'].forEach(id => {
-        const el = document.getElementById(id);
-        if (el && el.classList.contains('active')) {
-            closeModalA11y(id);
-        }
-    });
-}
-function setupAccessibleModals() {
-    // Close when clicking on background (optional, if your CSS supports it)
-    ['itemModal','viewModal','assignModal','deleteModal'].forEach(id => {
-        const el = document.getElementById(id);
-        if (!el) return;
-        el.addEventListener('mousedown', (e) => {
-            if (e.target === el) closeModalA11y(id);
-        });
-    });
-    // Ensure close buttons have accessible labels
-    document.querySelectorAll('.modal-close').forEach(btn => {
-        if (!btn.getAttribute('aria-label')) {
-            btn.setAttribute('aria-label', 'Close dialog');
-        }
-    });
-}
+// Bootstrap handles accessibility automatically
 
 function initializeEventListeners() {
     // Filter buttons
@@ -395,7 +289,13 @@ async function handleFormSubmit(e) {
 
         if (result.success) {
             showNotification(result.message, 'success');
-            closeItemModal();
+            const modalElement = document.getElementById('itemModal');
+            if (modalElement) {
+                const modalInstance = bootstrap.Modal.getInstance(modalElement);
+                if (modalInstance) {
+                    modalInstance.hide();
+                }
+            }
             loadItems(); // Reload items
         } else {
             showNotification(result.message || 'Failed to save item', 'error');
@@ -410,7 +310,11 @@ function openAddItemModal() {
     document.getElementById('itemModalTitle').textContent = 'Add New Item';
     document.getElementById('itemForm').reset();
     document.getElementById('itemId').value = '';
-    openModalA11y('itemModal');
+    const modalElement = document.getElementById('itemModal');
+    if (modalElement) {
+        const modalInstance = new bootstrap.Modal(modalElement);
+        modalInstance.show();
+    }
 }
 
 function editItem(itemId) {
@@ -431,7 +335,11 @@ function editItem(itemId) {
     document.getElementById('itemImage').value = item.image || '';
     document.getElementById('itemNotes').value = item.notes || '';
     
-    openModalA11y('itemModal');
+    const modalElement = document.getElementById('itemModal');
+    if (modalElement) {
+        const modalInstance = new bootstrap.Modal(modalElement);
+        modalInstance.show();
+    }
 }
 
 function viewItem(itemId) {
@@ -481,24 +389,62 @@ function viewItem(itemId) {
         ` : ''}
     `;
     
-    if (viewContainer) {
-      viewContainer.innerHTML = content;
-      viewContainer.setAttribute('aria-busy','false');
-    }
-    openModalA11y('viewModal');
+    const modalElement = document.getElementById('viewModal');
+    const modalTitle = modalElement.querySelector('.vbn-modal-title');
+    const modalBody = modalElement.querySelector('.vbn-modal-body');
+    const modalFooter = modalElement.querySelector('.vbn-modal-footer');
+    
+    modalTitle.textContent = `📄 ${escapeHtml(item.name)}`;
+    modalBody.innerHTML = content;
+    modalBody.setAttribute('aria-busy','false');
+    modalFooter.innerHTML = '<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>';
+    
+    const modalInstance = new bootstrap.Modal(modalElement);
+    modalInstance.show();
 }
 
 function assignItem(itemId, itemName) {
     currentItemId = itemId;
-    document.getElementById('assignItemName').textContent = itemName;
     
-    // Reset character selections
-    document.querySelectorAll('.character-item').forEach(item => {
-        item.classList.remove('selected');
-        item.querySelector('.quantity-input').value = 1;
+    const modalElement = document.getElementById('assignModal');
+    const modalTitle = modalElement.querySelector('.vbn-modal-title');
+    const modalBody = modalElement.querySelector('.vbn-modal-body');
+    const modalFooter = modalElement.querySelector('.vbn-modal-footer');
+    
+    modalTitle.textContent = '🎯 Assign Item to Characters';
+    modalBody.innerHTML = `
+        <p class="vbn-modal-message">Assign <strong id="assignItemName">${escapeHtml(itemName)}</strong> to characters:</p>
+        <div class="character-selection" id="characterSelection">
+            ${(window.allCharactersForItems || []).map(char => `
+                <div class="character-item" data-character-id="${char.id}">
+                    <div style="display: flex; justify-content: space-between; align-items: center;">
+                        <div>
+                            <strong>${escapeHtml(char.character_name)}</strong>
+                            <small style="display: block; color: #b8a090;">
+                                ${escapeHtml(char.clan)} - ${escapeHtml(char.player_name)}
+                            </small>
+                        </div>
+                        <input type="number" class="quantity-input" value="1" min="1" max="99" data-character-id="${char.id}">
+                    </div>
+                </div>
+            `).join('')}
+        </div>
+    `;
+    modalFooter.innerHTML = `
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+        <button type="button" class="btn btn-primary" onclick="assignItemsToCharacters()">Assign Items</button>
+    `;
+    
+    // Add click handlers for character selection
+    modalBody.querySelectorAll('.character-item').forEach(item => {
+        item.addEventListener('click', function(e) {
+            if (e.target.classList.contains('quantity-input')) return;
+            this.classList.toggle('selected');
+        });
     });
     
-    openModalA11y('assignModal');
+    const modalInstance = new bootstrap.Modal(modalElement);
+    modalInstance.show();
 }
 
 async function assignItemsToCharacters() {
@@ -548,26 +494,46 @@ async function assignItemsToCharacters() {
 
 function deleteItem(itemId, itemName) {
     currentItemId = itemId;
-    document.getElementById('deleteItemName').textContent = itemName;
     
-    // Check if item is assigned to characters by querying the database directly
+    const modalElement = document.getElementById('deleteModal');
+    const modalTitle = modalElement.querySelector('.vbn-modal-title');
+    const modalBody = modalElement.querySelector('.vbn-modal-body');
+    const modalFooter = modalElement.querySelector('.vbn-modal-footer');
+    
+    modalTitle.textContent = '⚠️ Confirm Deletion';
+    modalBody.innerHTML = `
+        <p class="vbn-modal-message">Delete item:</p>
+        <p class="vbn-modal-character-name" id="deleteItemName">${escapeHtml(itemName)}</p>
+        <p class="vbn-modal-warning" id="deleteWarning" style="display:none;"></p>
+    `;
+    modalFooter.innerHTML = `
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+        <button type="button" class="btn btn-danger" id="confirmDeleteBtn" onclick="confirmDelete()">Delete</button>
+    `;
+    
+    const modalInstance = new bootstrap.Modal(modalElement);
+    modalInstance.show();
+    
+    // Check if item is assigned to characters
     fetch(`api_admin_items_crud.php?check_assignments=${itemId}`)
         .then(response => response.json())
         .then(data => {
+            const warningElement = document.getElementById('deleteWarning');
             if (data.success && data.assignment_count > 0) {
-                document.getElementById('deleteWarning').style.display = 'block';
-                document.getElementById('deleteWarning').innerHTML = 
+                warningElement.style.display = 'block';
+                warningElement.innerHTML = 
                     `⚠️ <strong>This item is assigned to ${data.assignment_count} character(s)</strong> - remove assignments first!`;
             } else {
-                document.getElementById('deleteWarning').style.display = 'none';
+                warningElement.style.display = 'none';
             }
         })
         .catch(error => {
             console.error('Error checking assignments:', error);
-            document.getElementById('deleteWarning').style.display = 'none';
+            const warningElement = document.getElementById('deleteWarning');
+            if (warningElement) {
+                warningElement.style.display = 'none';
+            }
         });
-    
-    document.getElementById('deleteModal').classList.add('active');
 }
 
 async function confirmDelete() {
@@ -582,7 +548,14 @@ async function confirmDelete() {
 
         if (result.success) {
             showNotification(result.message, 'success');
-            closeDeleteModal();
+            const modalElement = document.getElementById('deleteModal');
+            if (modalElement) {
+                const modalInstance = bootstrap.Modal.getInstance(modalElement);
+                if (modalInstance) {
+                    modalInstance.hide();
+                }
+            }
+            currentItemId = null;
             loadItems(); // Reload items
         } else {
             showNotification(result.message || 'Failed to delete item', 'error');
@@ -594,17 +567,45 @@ async function confirmDelete() {
 }
 
 // Modal functions
-function closeItemModal() { closeModalA11y('itemModal'); }
+function closeItemModal() {
+    const modalElement = document.getElementById('itemModal');
+    if (modalElement) {
+        const modalInstance = bootstrap.Modal.getInstance(modalElement);
+        if (modalInstance) {
+            modalInstance.hide();
+        }
+    }
+}
 
-function closeViewModal() { closeModalA11y('viewModal'); }
+function closeViewModal() {
+    const modalElement = document.getElementById('viewModal');
+    if (modalElement) {
+        const modalInstance = bootstrap.Modal.getInstance(modalElement);
+        if (modalInstance) {
+            modalInstance.hide();
+        }
+    }
+}
 
 function closeAssignModal() {
-    closeModalA11y('assignModal');
+    const modalElement = document.getElementById('assignModal');
+    if (modalElement) {
+        const modalInstance = bootstrap.Modal.getInstance(modalElement);
+        if (modalInstance) {
+            modalInstance.hide();
+        }
+    }
     currentItemId = null;
 }
 
 function closeDeleteModal() {
-    closeModalA11y('deleteModal');
+    const modalElement = document.getElementById('deleteModal');
+    if (modalElement) {
+        const modalInstance = bootstrap.Modal.getInstance(modalElement);
+        if (modalInstance) {
+            modalInstance.hide();
+        }
+    }
     currentItemId = null;
 }
 
@@ -616,8 +617,7 @@ document.addEventListener('click', function(e) {
     }
 });
 
-// Set up delete confirmation
-document.getElementById('confirmDeleteBtn').addEventListener('click', confirmDelete);
+// Delete confirmation is handled via onclick in the modal footer
 
 // Utility functions
 function getTypeClass(type) {

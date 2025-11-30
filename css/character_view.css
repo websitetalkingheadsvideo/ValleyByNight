@@ -316,6 +316,59 @@
     padding-left: 20px;
 }
 
+/* Classes to replace inline styles with .vbn- prefix */
+.vbn-discipline-item {
+    background: rgba(26, 15, 15, 0.4);
+    border: 1px solid rgba(139, 0, 0, 0.3);
+    border-radius: 5px;
+    padding: 12px;
+    margin-bottom: 12px;
+}
+
+.vbn-discipline-item-wrapper {
+    width: 100%;
+}
+
+.vbn-discipline-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.vbn-discipline-power-count {
+    color: #c4a037;
+}
+
+.vbn-discipline-custom-label {
+    color: #999;
+    font-style: italic;
+}
+
+.vbn-power-list {
+    margin-top: 8px;
+    padding-left: 20px;
+}
+
+.vbn-power-item {
+    color: #c4a037;
+    font-size: 0.9em;
+}
+
+.vbn-power-level {
+    color: #999;
+    font-size: 0.85em;
+}
+
+.vbn-equipment-badge {
+    color: #c4a037;
+}
+
+.vbn-equipment-description {
+    color: #999;
+    font-size: 0.9em;
+    margin-left: 20px;
+}
+
 .view-content .ability-column {
     margin-bottom: 20px;
 }

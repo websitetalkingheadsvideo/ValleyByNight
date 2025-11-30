@@ -130,105 +130,135 @@ function render_status_badge($status) {
 </div>
 
 <!-- Boon Modal -->
-<div id="boonModal" class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle" aria-describedby="boonForm">
-    <div class="modal-content">
-        <div class="modal-header-section">
-            <h2 class="modal-title">💎 <span id="modalTitle">New Boon</span></h2>
-            <button class="modal-close" onclick="closeBoonModal()">×</button>
+<div class="modal fade" id="boonModal" tabindex="-1" aria-labelledby="modalTitle" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-scrollable">
+        <div class="modal-content vbn-modal-content">
+            <div class="modal-header vbn-modal-header">
+                <h5 class="modal-title vbn-modal-title" id="modalTitle">💎 <span>New Boon</span></h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body vbn-modal-body">
+                <form id="boonForm" class="needs-validation" novalidate>
+                    <input type="hidden" id="boonId" name="boon_id">
+                    
+                    <div class="form-group mb-3">
+                        <label for="giverSelect" class="form-label text-light">Giver Name *</label>
+                        <select id="giverSelect" name="giver_select" class="form-select bg-dark text-light border-danger" required>
+                            <option value="">-- Select Character --</option>
+                            <?php foreach ($characters as $char): ?>
+                                <option value="<?php echo htmlspecialchars($char['character_name']); ?>">
+                                    <?php echo htmlspecialchars($char['character_name']); ?>
+                                </option>
+                            <?php endforeach; ?>
+                            <option value="__CUSTOM__">-- Custom / Other --</option>
+                        </select>
+                        <div class="invalid-feedback">Please select a giver or provide a custom name.</div>
+                        <input type="text" id="giverNameCustom" name="giver_name_custom" 
+                               class="form-control bg-dark text-light border-danger mt-2" 
+                               placeholder="Enter custom name" 
+                               style="display: none;">
+                        <input type="hidden" id="giverName" name="giver_name">
+                    </div>
+                    
+                    <div class="form-group mb-3">
+                        <label for="receiverSelect" class="form-label text-light">Receiver Name *</label>
+                        <select id="receiverSelect" name="receiver_select" class="form-select bg-dark text-light border-danger" required>
+                            <option value="">-- Select Character --</option>
+                            <?php foreach ($characters as $char): ?>
+                                <option value="<?php echo htmlspecialchars($char['character_name']); ?>">
+                                    <?php echo htmlspecialchars($char['character_name']); ?>
+                                </option>
+                            <?php endforeach; ?>
+                            <option value="__CUSTOM__">-- Custom / Other --</option>
+                        </select>
+                        <div class="invalid-feedback">Please select a receiver or provide a custom name.</div>
+                        <input type="text" id="receiverNameCustom" name="receiver_name_custom" 
+                               class="form-control bg-dark text-light border-danger mt-2" 
+                               placeholder="Enter custom name" 
+                               style="display: none;">
+                        <input type="hidden" id="receiverName" name="receiver_name">
+                    </div>
+                    
+                    <div class="form-group mb-3">
+                        <label for="boonType" class="form-label text-light">Boon Type *</label>
+                        <select id="boonType" name="boon_type" class="form-select bg-dark text-light border-danger" required>
+                            <option value="Trivial">Trivial</option>
+                            <option value="Minor">Minor</option>
+                            <option value="Major">Major</option>
+                            <option value="Life">Life</option>
+                        </select>
+                        <div class="invalid-feedback">Please select a boon type.</div>
+                    </div>
+                    
+                    <div class="form-group mb-3">
+                        <label for="boonStatus" class="form-label text-light">Status</label>
+                        <select id="boonStatus" name="status" class="form-select bg-dark text-light border-danger">
+                            <option value="Owed">Owed</option>
+                            <option value="Called">Called</option>
+                            <option value="Paid">Paid</option>
+                            <option value="Broken">Broken</option>
+                        </select>
+                    </div>
+                    
+                    <div class="form-group mb-3">
+                        <label for="description" class="form-label text-light">Description</label>
+                        <textarea id="description" name="description" class="form-control bg-dark text-light border-danger" rows="4"></textarea>
+                    </div>
+                    
+                    <div class="form-group mb-3">
+                        <label for="relatedEvent" class="form-label text-light">Related Event</label>
+                        <input type="text" id="relatedEvent" name="related_event" class="form-control bg-dark text-light border-danger">
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer vbn-modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                <button type="submit" form="boonForm" class="btn btn-primary">Save Boon</button>
+            </div>
         </div>
-        
-        <form id="boonForm" class="needs-validation" novalidate>
-            <input type="hidden" id="boonId" name="boon_id">
-            
-            <div class="form-group mb-3">
-                <label for="giverSelect" class="form-label text-light">Giver Name *</label>
-                <select id="giverSelect" name="giver_select" class="form-select bg-dark text-light border-danger" required>
-                    <option value="">-- Select Character --</option>
-                    <?php foreach ($characters as $char): ?>
-                        <option value="<?php echo htmlspecialchars($char['character_name']); ?>">
-                            <?php echo htmlspecialchars($char['character_name']); ?>
-                        </option>
-                    <?php endforeach; ?>
-                    <option value="__CUSTOM__">-- Custom / Other --</option>
-                </select>
-                <div class="invalid-feedback">Please select a giver or provide a custom name.</div>
-                <input type="text" id="giverNameCustom" name="giver_name_custom" 
-                       class="form-control bg-dark text-light border-danger mt-2" 
-                       placeholder="Enter custom name" 
-                       style="display: none;">
-                <input type="hidden" id="giverName" name="giver_name">
-            </div>
-            
-            <div class="form-group mb-3">
-                <label for="receiverSelect" class="form-label text-light">Receiver Name *</label>
-                <select id="receiverSelect" name="receiver_select" class="form-select bg-dark text-light border-danger" required>
-                    <option value="">-- Select Character --</option>
-                    <?php foreach ($characters as $char): ?>
-                        <option value="<?php echo htmlspecialchars($char['character_name']); ?>">
-                            <?php echo htmlspecialchars($char['character_name']); ?>
-                        </option>
-                    <?php endforeach; ?>
-                    <option value="__CUSTOM__">-- Custom / Other --</option>
-                </select>
-                <div class="invalid-feedback">Please select a receiver or provide a custom name.</div>
-                <input type="text" id="receiverNameCustom" name="receiver_name_custom" 
-                       class="form-control bg-dark text-light border-danger mt-2" 
-                       placeholder="Enter custom name" 
-                       style="display: none;">
-                <input type="hidden" id="receiverName" name="receiver_name">
-            </div>
-            
-            <div class="form-group mb-3">
-                <label for="boonType" class="form-label text-light">Boon Type *</label>
-                <select id="boonType" name="boon_type" class="form-select bg-dark text-light border-danger" required>
-                    <option value="Trivial">Trivial</option>
-                    <option value="Minor">Minor</option>
-                    <option value="Major">Major</option>
-                    <option value="Life">Life</option>
-                </select>
-                <div class="invalid-feedback">Please select a boon type.</div>
-            </div>
-            
-            <div class="form-group mb-3">
-                <label for="boonStatus" class="form-label text-light">Status</label>
-                <select id="boonStatus" name="status" class="form-select bg-dark text-light border-danger">
-                    <option value="Owed">Owed</option>
-                    <option value="Called">Called</option>
-                    <option value="Paid">Paid</option>
-                    <option value="Broken">Broken</option>
-                </select>
-            </div>
-            
-            <div class="form-group mb-3">
-                <label for="description" class="form-label text-light">Description</label>
-                <textarea id="description" name="description" class="form-control bg-dark text-light border-danger" rows="4"></textarea>
-            </div>
-            
-            <div class="form-group mb-3">
-                <label for="relatedEvent" class="form-label text-light">Related Event</label>
-                <input type="text" id="relatedEvent" name="related_event" class="form-control bg-dark text-light border-danger">
-            </div>
-            
-            <div class="modal-actions">
-                <button type="button" class="modal-btn cancel-btn btn btn-secondary" onclick="closeBoonModal()">Cancel</button>
-                <button type="submit" class="modal-btn confirm-btn btn btn-primary">Save Boon</button>
-            </div>
-        </form>
     </div>
 </div>
 
 <!-- Delete Confirmation Modal -->
-<div id="deleteBoonModal" class="modal" role="dialog" aria-modal="true" aria-label="Confirm Deletion" aria-describedby="deleteBoonInfo">
-    <div class="modal-content">
-        <h2 class="modal-title">⚠️ Confirm Deletion</h2>
-        <p class="modal-message">Delete boon:</p>
-        <p class="modal-character-name" id="deleteBoonInfo"></p>
-        <div class="modal-actions">
-            <button class="modal-btn cancel-btn btn btn-secondary" onclick="closeDeleteBoonModal()">Cancel</button>
-            <button class="modal-btn confirm-btn btn btn-danger" id="confirmDeleteBoonBtn">Delete</button>
-        </div>
-    </div>
-</div>
+<?php
+$modalId = 'deleteBoonModal';
+$size = 'md';
+$fullscreen = false;
+$scrollable = false;
+include __DIR__ . '/../includes/modal_base.php';
+?>
+
+<script>
+(function() {
+    'use strict';
+    // Populate delete boon modal content after modal_base.php is included
+    const modalEl = document.getElementById('deleteBoonModal');
+    if (modalEl) {
+        const modalTitle = modalEl.querySelector('.vbn-modal-title');
+        const modalBody = modalEl.querySelector('.vbn-modal-body');
+        const modalFooter = modalEl.querySelector('.vbn-modal-footer');
+        
+        if (modalTitle) {
+            modalTitle.textContent = '⚠️ Confirm Deletion';
+            modalTitle.id = 'deleteBoonModalLabel';
+        }
+        
+        if (modalBody) {
+            modalBody.innerHTML = `
+                <p class="vbn-modal-message">Delete boon:</p>
+                <p class="vbn-modal-character-name" id="deleteBoonInfo"></p>
+            `;
+        }
+        
+        if (modalFooter) {
+            modalFooter.innerHTML = `
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                <button type="button" class="btn btn-danger" id="confirmDeleteBoonBtn">Delete</button>
+            `;
+        }
+    }
+})();
+</script>
 
 <style>
 .admin-panel-container { max-width: 1600px; margin: 0 auto; }
@@ -275,22 +305,8 @@ function render_status_badge($status) {
     color: #f5e6d3;
 }
 
-.modal { display: none; position: fixed; z-index: 9999; left: 0; top: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.8); align-items: center; justify-content: center; }
-.modal.active { display: flex; }
-.modal-content { background: linear-gradient(135deg, #2a1515 0%, #1a0f0f 100%); border: 3px solid #8B0000; border-radius: 10px; padding: 30px; max-width: 600px; width: 90%; position: relative; }
-.modal-header-section { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; padding-bottom: 15px; border-bottom: 2px solid rgba(139, 0, 0, 0.3); }
-.modal-title { font-family: var(--font-brand), 'IM Fell English', serif; color: #f5e6d3; font-size: 2em; margin: 0; }
-.modal-close { background: rgba(139, 0, 0, 0.3); border: 1px solid #8B0000; border-radius: 50%; width: 35px; height: 35px; font-size: 1.5em; color: #f5e6d3; cursor: pointer; transition: all 0.2s; display: flex; align-items: center; justify-content: center; }
-.modal-close:hover { background: rgba(139, 0, 0, 0.6); transform: scale(1.1); }
+/* Modal styles removed - now using Bootstrap modals with css/modal.css */
 .form-label { font-family: var(--font-body), 'Source Serif Pro', serif; font-weight: 600; }
-.modal-actions { display: flex; gap: 15px; justify-content: center; margin-top: 25px; }
-.modal-btn { padding: 12px 30px; border-radius: 5px; font-family: var(--font-body), 'Source Serif Pro', serif; font-weight: 600; cursor: pointer; border: 2px solid; }
-.cancel-btn { background: rgba(100, 100, 100, 0.2); border-color: #666; color: #d4c4b0; }
-.cancel-btn:hover { background: rgba(100, 100, 100, 0.4); }
-.confirm-btn { background: linear-gradient(135deg, #8B0000 0%, #600000 100%); border-color: #b30000; color: #f5e6d3; }
-.confirm-btn:hover { background: linear-gradient(135deg, #b30000 0%, #8B0000 100%); }
-.modal-message { font-family: var(--font-body), 'Source Serif Pro', serif; color: #d4c4b0; font-size: 1.1em; margin-bottom: 10px; }
-.modal-character-name { font-family: var(--font-title), 'Libre Baskerville', serif; color: #f5e6d3; font-size: 1.4em; text-align: center; margin: 20px 0; font-weight: bold; }
 
 .action-btn { display: inline-flex; align-items: center; justify-content: center; width: 32px; height: 32px; border-radius: 4px; text-decoration: none; font-size: 1.1em; cursor: pointer; background: rgba(139, 0, 0, 0.2); border: 1px solid rgba(139, 0, 0, 0.4); transition: all 0.2s; margin: 0 2px; }
 .action-btn:hover { background: rgba(139, 0, 0, 0.4); transform: scale(1.1); }

@@ -1,0 +1,17 @@
+{
+    "rumor_name": "",
+    "title": "",
+    "rumor_text": "",
+    "truth_rating": 1,
+    "danger_rating": 0,
+    "source_type": "",
+    "clan_tags": [],
+    "location_tags": [],
+    "connects_to_plot_ids": [],
+    "spread_likelihood": "medium",
+    "visibility": "public",
+    "nighttime_trigger_flags": [],
+    "storyteller_notes": "",
+    "created_at": "",
+    "updated_at": ""
+}

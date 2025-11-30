@@ -36,7 +36,6 @@ let isAdmin = false;
 
 // Initialize questionnaire
 document.addEventListener('DOMContentLoaded', function() {
-    console.log('Random Questionnaire loaded with', questionsData.length, 'questions');
     checkAdminStatus();
     setupEventListeners();
     updateProgress();
@@ -97,8 +96,6 @@ function setupEventListeners() {
 }
 
 function handleAnswerChange(event) {
-    console.log('Answer selected:', event.target.value);
-
     // Enable next button (scoring will happen when Next is clicked)
     const nextBtn = document.getElementById('next-btn');
     if (nextBtn) {
@@ -162,7 +159,6 @@ function nextQuestion() {
                     updateNavigationButtons();
                 }
             } else {
-                console.log('Questionnaire complete!');
                 // TODO: Handle completion
             }
         }, 500); // Wait for fade transition
@@ -171,7 +167,6 @@ function nextQuestion() {
 
 function submitQuestionnaire(event) {
     event.preventDefault();
-    console.log('Questionnaire submitted!');
     
     // Fade out the questionnaire form
     const questionnaireForm = document.getElementById('questionnaire-form');
@@ -229,7 +224,6 @@ function updateClanTracking(questionNumber, answerValue) {
     // Find the question data
     const questionData = questionsData[questionNumber - 1];
     if (!questionData) {
-        console.log('No question data found for question', questionNumber);
         return;
     }
     
@@ -237,12 +231,7 @@ function updateClanTracking(questionNumber, answerValue) {
     const clanWeightsField = `clanWeight${answerValue}`;
     const clanWeights = questionData[clanWeightsField];
     
-    console.log('Looking for field:', clanWeightsField);
-    console.log('Question data:', questionData);
-    console.log('Clan weights found:', clanWeights);
-    
     if (!clanWeights) {
-        console.log('No clan weights found for field:', clanWeightsField);
         return;
     }
     
@@ -258,8 +247,6 @@ function updateClanTracking(questionNumber, answerValue) {
             }
         });
         
-        console.log('Parsed weights:', weights);
-        
         // Update clan tracking
         Object.keys(weights).forEach(clan => {
             if (clanTracking.hasOwnProperty(clan)) {
@@ -267,19 +254,16 @@ function updateClanTracking(questionNumber, answerValue) {
             }
         });
         
-        console.log('Clan tracking updated:', clanTracking);
         updateTrackingDisplay();
         
     } catch (e) {
-        console.log('Error parsing clan weights:', e);
-        console.log('Raw clan weights:', clanWeights);
+        // Error parsing clan weights - silently continue
     }
 }
 
 function updateTrackingDisplay() {
     const trackingContent = document.getElementById('tracking-content');
     if (!trackingContent) {
-        console.log('tracking-content element not found');
         return;
     }
     
@@ -294,7 +278,6 @@ function updateTrackingDisplay() {
     });
     
     trackingContent.innerHTML = html;
-    console.log('Tracking display updated with:', html);
 }
 
 function initializeTrackingPopup() {
@@ -305,26 +288,18 @@ function toggleTrackingPopup() {
     const popup = document.getElementById('tracking-popup');
     const toggle = document.getElementById('tracking-toggle');
     
-    console.log('toggleTrackingPopup called');
-    console.log('popup element:', popup);
-    console.log('toggle element:', toggle);
-    
     if (!popup || !toggle) {
-        console.log('Missing popup or toggle element');
         return;
     }
     
     popupVisible = !popupVisible;
-    console.log('popupVisible is now:', popupVisible);
     
     if (popupVisible) {
         popup.style.display = 'block';
         toggle.textContent = 'Hide Clan Scores';
-        console.log('Showing popup');
     } else {
         popup.style.display = 'none';
         toggle.textContent = 'Show Clan Scores';
-        console.log('Hiding popup');
     }
 }
 
@@ -363,8 +338,6 @@ function checkAdminStatus() {
             adminDebugToggle.style.display = 'block';
         }
     }
-    
-    console.log('Admin status:', isAdmin);
 }
 
 function updateAdminDebugDisplay() {
@@ -431,7 +404,6 @@ function showResults() {
     
     // Determine winning clan
     const winningClan = determineWinningClan();
-    console.log('Winning clan:', winningClan);
     
     // Display results
     displayClanResult(winningClan);

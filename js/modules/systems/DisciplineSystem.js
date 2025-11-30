@@ -519,8 +519,11 @@ class DisciplineSystem {
      */
     closeDisciplineGuide() {
         const modal = this.uiManager.getElement('#disciplineGuideModal');
-        if (modal) {
-            modal.style.display = 'none';
+        if (modal && typeof bootstrap !== 'undefined' && bootstrap.Modal) {
+            const modalInstance = bootstrap.Modal.getInstance(modal);
+            if (modalInstance) {
+                modalInstance.hide();
+            }
         }
     }
     

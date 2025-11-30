@@ -1,0 +1,129 @@
+{
+  "agent": {
+    "name": "Boon Agent",
+    "version": "1.0.0",
+    "enabled": true,
+    "description": "Monitors and validates boons according to Laws of the Night Revised mechanics. Tracks favor-debt, detects violations, integrates with Harpy systems, and analyzes the social economy of prestation."
+  },
+  "paths": {
+    "reports": "/agents/boon_agent/reports/",
+    "logs": "/agents/boon_agent/logs/",
+    "boon_ledger": "/admin/boon_ledger.php"
+  },
+  "validation": {
+    "enabled": true,
+    "strict_mode": false,
+    "validate_boon_types": {
+      "enabled": true,
+      "allowed_types": ["Trivial", "Minor", "Major", "Life"]
+    },
+    "validate_character_existence": {
+      "enabled": true,
+      "allow_custom_names": true
+    },
+    "validate_status_transitions": {
+      "enabled": true,
+      "allowed_transitions": {
+        "Owed": ["Called", "Paid", "Broken"],
+        "Called": ["Paid", "Broken"],
+        "Paid": [],
+        "Broken": []
+      }
+    },
+    "validate_non_transferability": {
+      "enabled": true
+    },
+    "validate_combination_rules": {
+      "enabled": true,
+      "allow_combining": true
+    }
+  },
+  "monitoring": {
+    "enabled": true,
+    "check_interval_seconds": 3600,
+    "dead_debt_detection": {
+      "enabled": true,
+      "check_on_character_death": true
+    },
+    "unregistered_boon_alerts": {
+      "enabled": true,
+      "require_harpy_registration": false,
+      "alert_if_unregistered": true
+    },
+    "scandal_detection": {
+      "enabled": true,
+      "flag_broken_boons": true,
+      "alert_harpy_on_scandal": true
+    },
+    "combination_opportunities": {
+      "enabled": true,
+      "suggest_combinations": true
+    }
+  },
+  "analysis": {
+    "enabled": true,
+    "boon_economy_analysis": {
+      "enabled": true,
+      "track_patterns": true,
+      "analyze_clan_distributions": true,
+      "identify_power_players": true
+    },
+    "generate_insights": true
+  },
+  "harpy_integration": {
+    "enabled": true,
+    "registration_tracking": {
+      "enabled": true,
+      "link_to_harpy_positions": true
+    },
+    "scandal_reporting": {
+      "enabled": true,
+      "generate_harpy_reports": true
+    },
+    "status_integration": {
+      "enabled": true,
+      "connect_to_status_system": true
+    },
+    "compensation_tracking": {
+      "enabled": true,
+      "track_on_death": true
+    }
+  },
+  "reporting": {
+    "enabled": true,
+    "generate_daily_reports": true,
+    "generate_character_reports": true,
+    "generate_validation_reports": true,
+    "generate_economy_reports": true,
+    "report_new_boons": true,
+    "report_status_changes": true,
+    "report_violations": true,
+    "save_reports": true
+  },
+  "logging": {
+    "enabled": true,
+    "level": "info",
+    "log_file": "boon_agent.log",
+    "max_file_size_mb": 10,
+    "max_backup_files": 5,
+    "log_validation_errors": true,
+    "log_violations": true,
+    "log_processing_events": true
+  },
+  "notifications": {
+    "enabled": false,
+    "email_notifications": false,
+    "webhook_url": null,
+    "notify_on_errors": true,
+    "notify_on_violations": false,
+    "notify_on_scandals": false
+  },
+  "advanced": {
+    "parallel_processing": false,
+    "max_concurrent_operations": 1,
+    "cache_enabled": true,
+    "cache_ttl_seconds": 3600,
+    "timeout_seconds": 30
+  }
+}
+

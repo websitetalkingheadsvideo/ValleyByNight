@@ -15,8 +15,6 @@ class CharacterCreationApp {
      */
     async init() {
         try {
-            console.log('Initializing Character Creation App...');
-            
             // Initialize core modules
             await this.initializeCoreModules();
             
@@ -36,7 +34,6 @@ class CharacterCreationApp {
             await this.initializeApplication();
             
             this.isInitialized = true;
-            console.log('Character Creation App initialized successfully!');
             
             // Emit initialization complete event
             this.modules.eventManager.emitGlobal('appInitialized', {});
@@ -51,8 +48,6 @@ class CharacterCreationApp {
      * Initialize core modules
      */
     async initializeCoreModules() {
-        console.log('Initializing core modules...');
-        
         // StateManager
         this.modules.stateManager = new StateManager();
         
@@ -70,16 +65,12 @@ class CharacterCreationApp {
         
         // ValidationManager
         this.modules.validationManager = new ValidationManager(this.modules.notificationManager);
-        
-        console.log('Core modules initialized');
     }
     
     /**
      * Initialize UI modules
      */
     async initializeUIModules() {
-        console.log('Initializing UI modules...');
-        
         // TabManager
         this.modules.tabManager = new TabManager(
             this.modules.stateManager,
@@ -95,16 +86,12 @@ class CharacterCreationApp {
             this.modules.eventManager,
             this.modules.notificationManager
         );
-        
-        console.log('UI modules initialized');
     }
     
     /**
      * Initialize system modules
      */
     async initializeSystemModules() {
-        console.log('Initializing system modules...');
-        
         // TraitSystem
         this.modules.traitSystem = new TraitSystem(
             this.modules.stateManager,
@@ -168,16 +155,12 @@ class CharacterCreationApp {
             this.modules.eventManager,
             this.modules.notificationManager
         );
-        
-        console.log('System modules initialized');
     }
     
     /**
      * Setup module communication
      */
     setupModuleCommunication() {
-        console.log('Setting up module communication...');
-        
         // State change events
         this.modules.stateManager.subscribe('*', (newState, oldState) => {
             this.modules.eventManager.emitGlobal('stateChanged', { newState, oldState });
@@ -219,30 +202,14 @@ class CharacterCreationApp {
         this.modules.stateManager.subscribe('humanity', (newValue) => {
             this.modules.eventManager.emitGlobal('moralityChanged', { value: newValue });
         });
-        
-        console.log('Module communication setup complete');
     }
     
     /**
      * Setup global event handlers
      */
     setupGlobalEventHandlers() {
-        console.log('Setting up global event handlers...');
-
-		// Minimal UI logging (no noisy state-change spam)
+		// File chooser (Choose Image) - don't interfere with native behavior
 		document.addEventListener('click', (event) => {
-			// Buttons
-			const btn = event.target.closest('button');
-			if (btn) {
-				// Only log for Next and explicit upload buttons by id/class/text
-				const id = btn.id || '';
-				const label = (btn.textContent || '').trim().toLowerCase();
-				const cls = String(btn.className || '').toLowerCase();
-				if (btn.dataset.action === 'next' || /upload/.test(id) || /upload/.test(label) || /upload/.test(cls)) {
-					console.log('[ui] Button clicked:', { id: id || '(no-id)', label });
-				}
-			}
-			// File chooser (Choose Image) - don't interfere with native behavior
 			const fileClickEl = event.target.closest('input[type="file"], label[for]');
 			if (fileClickEl) {
 				// Don't preventDefault or stopPropagation - let native behavior work
@@ -281,22 +248,17 @@ class CharacterCreationApp {
         this.modules.eventManager.onCustomEvent('validateCharacter', async (event) => {
             await this.validateCharacter();
         });
-        
-        console.log('Global event handlers setup complete');
     }
     
     /**
      * Initialize the application
      */
     async initializeApplication() {
-        console.log('Initializing application...');
-        
         // Check for character ID in URL for editing
         const urlParams = new URLSearchParams(window.location.search);
         const characterId = urlParams.get('id');
         
         if (characterId) {
-            console.log('Loading character for editing:', characterId);
             // Clear any cached state when loading a specific character from URL
             // This prevents loading wrong character from localStorage
             this.modules.stateManager.clearState();
@@ -312,10 +274,7 @@ class CharacterCreationApp {
             // Only resume saved state if explicitly requested via ?resume=1
             const resume = urlParams.get('resume');
             if (resume === '1') {
-                const hasSavedState = this.modules.stateManager.loadState();
-                if (hasSavedState) {
-                    console.log('Resumed saved state');
-                }
+                this.modules.stateManager.loadState();
             } else {
                 // Start with a fresh state for new character creation
                 this.modules.stateManager.reset();
@@ -333,8 +292,6 @@ class CharacterCreationApp {
         
         // Setup auto-save
         this.setupAutoSave();
-        
-        console.log('Application initialization complete');
     }
     
     /**
@@ -536,8 +493,6 @@ class CharacterCreationApp {
                 throw new Error(`Invalid character ID: ${characterId}`);
             }
             
-            console.log('loadCharacter called with ID:', numericId, '(original:', characterId, ')');
-            
             const characterData = await this.modules.dataManager.loadCharacter(numericId);
             
             if (characterData && characterData.success) {
@@ -547,8 +502,6 @@ class CharacterCreationApp {
                     console.error(`Character ID mismatch! Requested: ${numericId}, Loaded: ${loadedId}`);
                     throw new Error(`Loaded character ID (${loadedId}) does not match requested ID (${numericId})`);
                 }
-                console.log('Character data loaded successfully:', characterData);
-                console.log('Disciplines in loaded data:', characterData.disciplines);
                 
 				// Prepare characterData with explicit characterId and playerName
 				const loadedCharacterId = characterData.character?.id || null;
@@ -559,7 +512,6 @@ class CharacterCreationApp {
 					playerName: characterData.character?.player_name || ''
 				};
 				
-				console.log('Setting character state with characterId:', loadedCharacterId);
 				
 				// Set state with the loaded data
 				this.modules.stateManager.setState(characterDataWithIds);
@@ -622,8 +574,6 @@ class CharacterCreationApp {
      */
     populateFormFromCharacterData(data) {
         const character = data.character;
-        
-        console.log('Populating form with character data:', character);
         
         // Populate basic info fields
         this.setFormValue('#characterName', character.character_name);
@@ -688,11 +638,7 @@ class CharacterCreationApp {
         }
         
         // Populate abilities - prefer abilities_full if available (has levels), otherwise use abilities (category-based)
-        console.log('populateFormFromCharacterData - data.abilities_full:', data.abilities_full);
-        console.log('populateFormFromCharacterData - data.abilities:', data.abilities);
-        
         if (data.abilities_full && Array.isArray(data.abilities_full) && data.abilities_full.length > 0) {
-            console.log('Using abilities_full, count:', data.abilities_full.length);
             // Store in state if not already there
             if (this.modules.stateManager) {
                 this.modules.stateManager.setStateProperty('abilities_full', data.abilities_full);
@@ -700,16 +646,11 @@ class CharacterCreationApp {
             // populateAbilitiesFromData will use abilities_full from state
             this.populateAbilitiesFromData(data.abilities_full);
         } else if (data.abilities) {
-            console.log('Using abilities (category-based), checking for content...');
             // Check if abilities object has any actual content
             const hasAbilities = Object.values(data.abilities).some(arr => Array.isArray(arr) && arr.length > 0);
             if (hasAbilities) {
                 this.populateAbilitiesFromData(data.abilities);
-            } else {
-                console.warn('Both abilities_full and abilities are empty or have no content');
             }
-        } else {
-            console.warn('No abilities data found in response');
         }
         
         // Populate disciplines - use disciplinePowers for the UI mapping
@@ -842,8 +783,6 @@ class CharacterCreationApp {
      * Populate traits from loaded data
      */
     populateTraitsFromData(traits) {
-        console.log('populateTraitsFromData called with:', traits);
-        
         if (!traits || typeof traits !== 'object') {
             console.warn('populateTraitsFromData: Invalid traits data', traits);
             return;
@@ -856,7 +795,6 @@ class CharacterCreationApp {
             Mental: Array.isArray(traits.Mental) ? traits.Mental : []
         };
         
-        console.log('Setting traits state:', traitsState);
         this.modules.stateManager.setState({ traits: traitsState });
         
         // Update trait system displays
@@ -869,8 +807,6 @@ class CharacterCreationApp {
      * Populate negative traits from loaded data
      */
     populateNegativeTraitsFromData(negativeTraits) {
-        console.log('populateNegativeTraitsFromData called with:', negativeTraits);
-        
         if (!negativeTraits || typeof negativeTraits !== 'object') {
             console.warn('populateNegativeTraitsFromData: Invalid negative traits data', negativeTraits);
             return;
@@ -883,7 +819,6 @@ class CharacterCreationApp {
             Mental: Array.isArray(negativeTraits.Mental) ? negativeTraits.Mental : []
         };
         
-        console.log('Setting negative traits state:', negativeTraitsState);
         this.modules.stateManager.setState({ negativeTraits: negativeTraitsState });
         
         // Update trait system displays
@@ -896,8 +831,6 @@ class CharacterCreationApp {
      * Populate abilities from loaded data
      */
     populateAbilitiesFromData(abilities) {
-        console.log('Populating abilities from data:', abilities);
-        console.log('abilities type:', typeof abilities, 'isArray:', Array.isArray(abilities));
 
         const emptyAbilityBuckets = () => ({
             Physical: [],
@@ -1035,8 +968,6 @@ class CharacterCreationApp {
      * Populate disciplines from loaded data
      */
     populateDisciplinesFromData(disciplines) {
-        console.log('Populating disciplines from data:', disciplines);
-        
         // Disciplines are already in state via setState()
         // Just need to trigger display update
         if (this.modules.disciplineSystem) {

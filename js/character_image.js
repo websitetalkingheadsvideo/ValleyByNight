@@ -46,8 +46,6 @@ class CharacterImageManager {
             return;
         }
         
-        console.log('[CharacterImageManager] File selected:', file.name, file.type, file.size);
-        
         // Validate file type (frontend mirror of backend)
         const allowedTypes = ['image/jpeg', 'image/jpg', 'image/png', 'image/gif', 'image/webp'];
         if (!allowedTypes.includes(file.type)) {
@@ -350,8 +348,8 @@ class CharacterImageManager {
         // Use existing notification system if available
         if (typeof showNotification === 'function') {
             showNotification('✅ ' + message, 'success');
-        } else {
-            console.log('Success:', message);
+        } else if (typeof this.modules?.notificationManager?.success === 'function') {
+            this.modules.notificationManager.success(message);
         }
     }
     
@@ -371,12 +369,10 @@ let characterImageManager = null;
 
 // Initialize when DOM is ready
 document.addEventListener('DOMContentLoaded', () => {
-    console.log('[CharacterImageManager] Initializing on DOMContentLoaded');
     try {
         characterImageManager = new CharacterImageManager();
         // Also expose on window for easier access
         window.characterImageManager = characterImageManager;
-        console.log('[CharacterImageManager] CharacterImageManager instance created');
     } catch (error) {
         console.error('[CharacterImageManager] Error creating instance:', error);
     }

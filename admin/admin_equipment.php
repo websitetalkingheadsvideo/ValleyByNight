@@ -133,12 +133,15 @@ while ($char = $characters_result->fetch_assoc()) {
 </div>
 
 <!-- Add/Edit Equipment Modal -->
-<div id="equipmentModal" class="modal" role="dialog" aria-modal="true" aria-labelledby="equipmentModalTitle" aria-describedby="equipmentForm">
-    <div class="modal-content large-modal">
-        <h2 class="modal-title">⚔️ <span id="equipmentModalTitle">Add New Equipment</span></h2>
-        <button class="modal-close" onclick="closeEquipmentModal()">×</button>
-        
-        <form id="equipmentForm" class="needs-validation" novalidate>
+<div class="modal fade" id="equipmentModal" tabindex="-1" aria-labelledby="equipmentModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content vbn-modal-content">
+            <div class="modal-header vbn-modal-header">
+                <h5 class="modal-title vbn-modal-title" id="equipmentModalLabel">⚔️ <span id="equipmentModalTitle">Add New Equipment</span></h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body vbn-modal-body">
+                <form id="equipmentForm" class="needs-validation" novalidate>
             <input type="hidden" id="equipmentId" name="id">
             
             <div class="form-row row g-3">
@@ -217,73 +220,44 @@ while ($char = $characters_result->fetch_assoc()) {
                 <input type="url" id="equipmentImage" name="image" class="form-control" placeholder="https://example.com/image.jpg">
             </div>
             
-            <div class="form-group mb-3">
-                <label for="equipmentNotes" class="form-label">Notes</label>
-                <textarea id="equipmentNotes" name="notes" class="form-control"></textarea>
+                    <div class="form-group mb-3">
+                        <label for="equipmentNotes" class="form-label">Notes</label>
+                        <textarea id="equipmentNotes" name="notes" class="form-control"></textarea>
+                    </div>
+                </form>
             </div>
-            
-            <div class="modal-actions">
-                <button type="button" class="modal-btn cancel-btn btn btn-secondary" onclick="closeEquipmentModal()">Cancel</button>
-                <button type="button" id="assignEquipmentBtn" class="modal-btn btn btn-success" onclick="openAssignModalFromEdit()" style="display: none;">
+            <div class="modal-footer vbn-modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                <button type="button" id="assignEquipmentBtn" class="btn btn-success" onclick="openAssignModalFromEdit()" style="display: none;">
                     <i class="fas fa-user-plus"></i> Assign to Characters
                 </button>
-                <button type="submit" class="modal-btn confirm-btn btn btn-primary">Save Equipment</button>
+                <button type="submit" form="equipmentForm" class="btn btn-primary">Save Equipment</button>
             </div>
-        </form>
+        </div>
     </div>
 </div>
 
 <!-- View Equipment Modal -->
-<div id="viewModal" class="modal" role="dialog" aria-modal="true" aria-labelledby="viewEquipmentName" aria-describedby="viewEquipmentContent">
-    <div class="modal-content large-modal">
-        <h2 class="modal-title">📄 <span id="viewEquipmentName">Equipment Details</span></h2>
-        <button class="modal-close" onclick="closeViewModal()">×</button>
-        
-        <div id="viewEquipmentContent" class="view-content" aria-live="polite">
-            Loading...
-        </div>
-        <div class="modal-actions">
-            <button class="modal-btn cancel-btn btn btn-secondary" onclick="closeViewModal()">Close</button>
-        </div>
-    </div>
-</div>
+<?php
+$modalId = 'viewModal';
+$labelId = 'viewModalLabel';
+$size = 'lg';
+include __DIR__ . '/../includes/modal_base.php';
+?>
 
 <!-- Character Assignment Modal -->
-<div id="assignModal" class="modal" role="dialog" aria-modal="true" aria-label="Assign Equipment to Characters" aria-describedby="assignEquipmentDesc">
-    <div class="modal-content">
-        <h2 class="modal-title">🎯 Assign Equipment to Characters</h2>
-        <button class="modal-close" onclick="closeAssignModal()">×</button>
-        
-        <div class="modal-message" id="assignEquipmentDesc">
-            Assign <strong id="assignEquipmentName"></strong> to characters:
-        </div>
-        
-        <div class="character-selection" id="characterSelection">
-            <!-- Populated by JavaScript -->
-        </div>
-        
-        <div class="modal-actions">
-            <button class="modal-btn cancel-btn btn btn-secondary" onclick="closeAssignModal()">Cancel</button>
-            <button class="modal-btn confirm-btn btn btn-primary" onclick="saveAssignments()">Save Assignments</button>
-        </div>
-    </div>
-</div>
+<?php
+$modalId = 'assignModal';
+$labelId = 'assignModalLabel';
+include __DIR__ . '/../includes/modal_base.php';
+?>
 
 <!-- Delete Modal -->
-<div id="deleteModal" class="modal" role="dialog" aria-modal="true" aria-label="Confirm Deletion" aria-describedby="deleteEquipmentName deleteWarning">
-    <div class="modal-content">
-        <h2 class="modal-title">⚠️ Confirm Deletion</h2>
-        <p class="modal-message">Delete equipment:</p>
-        <p class="modal-character-name" id="deleteEquipmentName"></p>
-        <p class="modal-warning" id="deleteWarning" style="display:none;">
-            ⚠️ <strong>This equipment is assigned to characters</strong> - remove assignments first!
-        </p>
-        <div class="modal-actions">
-            <button class="modal-btn cancel-btn btn btn-secondary" onclick="closeDeleteModal()">Cancel</button>
-            <button class="modal-btn confirm-btn btn btn-danger" id="confirmDeleteBtn" onclick="confirmDelete()">Delete</button>
-        </div>
-    </div>
-</div>
+<?php
+$modalId = 'deleteModal';
+$labelId = 'deleteModalLabel';
+include __DIR__ . '/../includes/modal_base.php';
+?>
 
 <!-- Include external CSS -->
 <link rel="stylesheet" href="../css/modal.css">

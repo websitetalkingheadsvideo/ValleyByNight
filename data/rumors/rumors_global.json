@@ -1,0 +1,348 @@
+[
+    {
+      "id": "rumor_phx_prince_gas_leak_01",
+      "category": "Media",
+      "rarity": "common",
+      "targets": ["Prince of Phoenix", "Masquerade"],
+      "source_types": ["Media"],
+      "delivery_contexts": ["Nightly Briefing", "Elysium"],
+      "prerequisites": {
+        "pc_traits": {},
+        "influences": {},
+        "locations_visited": [],
+        "story_flags": [],
+        "relationship_requirements": []
+      },
+      "weight_modifiers": {
+        "pc_recent_actions": {
+          "visited_crime_scene": 1
+        },
+        "faction_activity": {
+          "Camarilla": 1
+        },
+        "npc_activity": {}
+      },
+      "text": "Local late-night radio keeps calling the Prince’s death ‘a gas leak incident’ and telling listeners not to panic. The host sounds just a little too calm.",
+      "ghost_text": null,
+      "gm_notes": "Basic Masquerade cover rumor after the assassination.",
+      "connects_to_plot_ids": []
+    },
+  
+    {
+      "id": "rumor_phx_anarch_24th_street_02",
+      "category": "Street",
+      "rarity": "common",
+      "targets": ["Anarchs", "24th_Street_Territory"],
+      "source_types": ["Street"],
+      "delivery_contexts": ["Street Locations", "The_Hole", "Nightly Briefing"],
+      "prerequisites": {
+        "pc_traits": {
+          "abilities": { "Streetwise": 1 }
+        },
+        "influences": { "Street": 1 },
+        "locations_visited": [],
+        "story_flags": [],
+        "relationship_requirements": []
+      },
+      "weight_modifiers": {
+        "pc_recent_actions": {
+          "visited_24th_street": 2,
+          "worked_with_anarchs": 1
+        },
+        "faction_activity": {
+          "Anarchs": 2
+        },
+        "npc_activity": {}
+      },
+      "text": "People say 24th Street near the State Hospital is Anarch ground now. Cops don’t linger there and neither do most Kindred.",
+      "ghost_text": null,
+      "gm_notes": "Establishes Anarch turf near the hospital and hints at danger.",
+      "connects_to_plot_ids": []
+    },
+  
+    {
+      "id": "rumor_phx_malkavian_hospital_03",
+      "category": "Occult",
+      "rarity": "uncommon",
+      "targets": ["Malkavians", "State_Hospital_Territory"],
+      "source_types": ["Occult Influence", "Street"],
+      "delivery_contexts": ["Nightly Briefing", "Magic Shops"],
+      "prerequisites": {
+        "pc_traits": {
+          "abilities": { "Occult": 1 }
+        },
+        "influences": { "Occult": 1 },
+        "locations_visited": [],
+        "story_flags": [],
+        "relationship_requirements": []
+      },
+      "weight_modifiers": {
+        "pc_recent_actions": {
+          "visited_state_hospital_area": 2
+        },
+        "faction_activity": {
+          "Malkavians": 2
+        },
+        "npc_activity": {}
+      },
+      "text": "Someone whispers that nobody—not even Anarchs—steps onto the State Hospital grounds at night. ‘There’s an old mind there that doesn’t like visitors.’",
+      "ghost_text": null,
+      "gm_notes": "Foreshadows the Malkavian elder who controls the hospital grounds.",
+      "connects_to_plot_ids": []
+    },
+  
+    {
+      "id": "rumor_phx_sabbat_guadalupe_04",
+      "category": "Underworld",
+      "rarity": "uncommon",
+      "targets": ["Sabbat", "Guadalupe"],
+      "source_types": ["Street", "Underworld"],
+      "delivery_contexts": ["Nightly Briefing", "The_Hole"],
+      "prerequisites": {
+        "pc_traits": {
+          "abilities": { "Streetwise": 1 }
+        },
+        "influences": { "Street": 1 },
+        "locations_visited": [],
+        "story_flags": [],
+        "relationship_requirements": []
+      },
+      "weight_modifiers": {
+        "pc_recent_actions": {
+          "talked_to_gang_contact": 2
+        },
+        "faction_activity": {
+          "Sabbat": 2
+        },
+        "npc_activity": {}
+      },
+      "text": "A runner swears there’s a crew in Guadalupe that doesn’t act like Anarchs or Camarilla. ‘They don’t hide what they are,’ he mutters. ‘They enjoy it.’",
+      "ghost_text": null,
+      "gm_notes": "Plants the rumor of a Sabbat pack in Guadalupe.",
+      "connects_to_plot_ids": []
+    },
+  
+    {
+      "id": "rumor_phx_desert_monsters_05",
+      "category": "Street",
+      "rarity": "common",
+      "targets": ["Garou", "Desert"],
+      "source_types": ["MortalGossip"],
+      "delivery_contexts": ["Nightly Briefing"],
+      "prerequisites": {
+        "pc_traits": {},
+        "influences": {},
+        "locations_visited": [],
+        "story_flags": [],
+        "relationship_requirements": []
+      },
+      "weight_modifiers": {
+        "pc_recent_actions": {
+          "drove_out_of_town": 1
+        },
+        "faction_activity": {
+          "Garou": 2
+        },
+        "npc_activity": {}
+      },
+      "text": "Truckers talk about ‘something big’ running alongside the highway out past the city lights. Coyotes don’t usually keep pace with 60 miles an hour.",
+      "ghost_text": null,
+      "gm_notes": "Early Garou foreshadowing; keeps the desert scary without details.",
+      "connects_to_plot_ids": []
+    },
+  
+    {
+      "id": "rumor_phx_mesa_tower_mages_06",
+      "category": "Occult",
+      "rarity": "rare",
+      "targets": ["Mages", "Mesa_Tower"],
+      "source_types": ["Occult Influence"],
+      "delivery_contexts": ["Magic Shops", "Nightly Briefing"],
+      "prerequisites": {
+        "pc_traits": {
+          "abilities": { "Occult": 2 }
+        },
+        "influences": { "Occult": 1 },
+        "locations_visited": [],
+        "story_flags": [],
+        "relationship_requirements": []
+      },
+      "weight_modifiers": {
+        "pc_recent_actions": {
+          "researched_mesa": 2
+        },
+        "faction_activity": {},
+        "npc_activity": {}
+      },
+      "text": "An occult contact claims there’s a single skyscraper in Mesa that ‘doesn’t sit right’ in the Tapestry. Sometimes people go inside and come out… different.",
+      "ghost_text": null,
+      "gm_notes": "Hints at the mage-controlled Mesa skyscraper.",
+      "connects_to_plot_ids": []
+    },
+  
+    {
+      "id": "rumor_phx_velvet_door_whispers_07",
+      "category": "MortalGossip",
+      "rarity": "common",
+      "targets": ["Velvet_Door"],
+      "source_types": ["MortalGossip", "Street"],
+      "delivery_contexts": ["Street Locations", "Nightly Briefing"],
+      "prerequisites": {
+        "pc_traits": {},
+        "influences": {},
+        "locations_visited": ["Velvet_Door"],
+        "story_flags": [],
+        "relationship_requirements": []
+      },
+      "weight_modifiers": {
+        "pc_recent_actions": {
+          "visited_velvet_door": 2
+        },
+        "faction_activity": {},
+        "npc_activity": {}
+      },
+      "text": "Regulars at the Velvet Door say the music is always perfect for your mood. Too perfect. ‘Like they know what you want before you do.’",
+      "ghost_text": null,
+      "gm_notes": "General mood-setting for Velvet Door and its supernatural vibe.",
+      "connects_to_plot_ids": []
+    },
+  
+    {
+      "id": "rumor_phx_magic_shop_trinkets_08",
+      "category": "Occult",
+      "rarity": "common",
+      "targets": ["Mother_Hallow_Shop"],
+      "source_types": ["Occult Influence"],
+      "delivery_contexts": ["Magic Shops", "Nightly Briefing"],
+      "prerequisites": {
+        "pc_traits": {
+          "abilities": { "Occult": 1 }
+        },
+        "influences": {},
+        "locations_visited": [],
+        "story_flags": [],
+        "relationship_requirements": []
+      },
+      "weight_modifiers": {
+        "pc_recent_actions": {
+          "visited_magic_shop": 2
+        },
+        "faction_activity": {},
+        "npc_activity": {}
+      },
+      "text": "Other occult dabblers whisper that one little shop in Phoenix sells ‘props’ that sometimes work a little too well—if the owner likes you.",
+      "ghost_text": null,
+      "gm_notes": "Foreshadows Mother Hallow as more than just a flavor NPC.",
+      "connects_to_plot_ids": []
+    },
+  
+    {
+      "id": "rumor_phx_scottsdale_old_money_09",
+      "category": "Finance",
+      "rarity": "common",
+      "targets": ["Scottsdale", "Old_Money_Families"],
+      "source_types": ["Finance"],
+      "delivery_contexts": ["Nightly Briefing", "Elysium"],
+      "prerequisites": {
+        "pc_traits": {},
+        "influences": { "Finance": 1 },
+        "locations_visited": [],
+        "story_flags": [],
+        "relationship_requirements": []
+      },
+      "weight_modifiers": {
+        "pc_recent_actions": {
+          "met_with_financier": 1
+        },
+        "faction_activity": {
+          "Giovanni": 1
+        },
+        "npc_activity": {}
+      },
+      "text": "You hear that some old Scottsdale families never seem to lose money—no matter how often the market dips. Someone’s managing their fortunes very carefully.",
+      "ghost_text": null,
+      "gm_notes": "General hook that can tie into Giovanni, mortal elites, or other plots.",
+      "connects_to_plot_ids": []
+    },
+  
+    {
+      "id": "rumor_phx_tremere_audit_10",
+      "category": "Politics",
+      "rarity": "uncommon",
+      "targets": ["Tremere", "Chantry"],
+      "source_types": ["Politics"],
+      "delivery_contexts": ["Elysium", "Nightly Briefing"],
+      "prerequisites": {
+        "pc_traits": {},
+        "influences": { "Politics": 1 },
+        "locations_visited": ["Elysium_1"],
+        "story_flags": [],
+        "relationship_requirements": []
+      },
+      "weight_modifiers": {
+        "faction_activity": {
+          "Tremere": 2
+        },
+        "npc_activity": {}
+      },
+      "text": "There’s talk that the Tremere Chantry is under ‘review’ by someone from out of town. No one’s sure if that’s good news or very, very bad.",
+      "ghost_text": null,
+      "gm_notes": "Soft foreshadowing that can tie into Examiner Harris or other Tremere oversight.",
+      "connects_to_plot_ids": []
+    },
+  
+    {
+      "id": "rumor_phx_cops_looking_wrong_way_11",
+      "category": "Media",
+      "rarity": "common",
+      "targets": ["Police", "Masquerade"],
+      "source_types": ["Media", "Street"],
+      "delivery_contexts": ["Nightly Briefing"],
+      "prerequisites": {
+        "pc_traits": {},
+        "influences": { "Police": 1 },
+        "locations_visited": [],
+        "story_flags": [],
+        "relationship_requirements": []
+      },
+      "weight_modifiers": {
+        "pc_recent_actions": {
+          "manipulated_police": 1
+        },
+        "faction_activity": {},
+        "npc_activity": {}
+      },
+      "text": "Your contacts say the police are being pushed to classify a rash of strange incidents as ‘drug-related.’ Someone wants the official story very simple.",
+      "ghost_text": null,
+      "gm_notes": "Masquerade + Influence hook for future police-related plots.",
+      "connects_to_plot_ids": []
+    },
+  
+    {
+      "id": "rumor_phx_sky_streaks_12",
+      "category": "Occult",
+      "rarity": "rare",
+      "targets": ["Desert", "Supernatural_Weirdness"],
+      "source_types": ["MortalGossip", "Ghost"],
+      "delivery_contexts": ["Nightly Briefing"],
+      "prerequisites": {
+        "pc_traits": {},
+        "influences": {},
+        "locations_visited": [],
+        "story_flags": [],
+        "relationship_requirements": []
+      },
+      "weight_modifiers": {
+        "pc_recent_actions": {
+          "drove_out_of_town": 1
+        },
+        "faction_activity": {},
+        "npc_activity": {}
+      },
+      "text": "Some night drivers swear they’ve seen streaks of strange light out over the desert—too low for planes, too quiet for helicopters, and gone too fast to be anything normal.",
+      "ghost_text": null,
+      "gm_notes": "Generic supernatural color that can be tied into Garou, mages, or something else later.",
+      "connects_to_plot_ids": []
+    }
+  ]
+  

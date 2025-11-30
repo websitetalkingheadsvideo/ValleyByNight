@@ -29,12 +29,12 @@ if ($script_dir === '/') {
 <!-- Character View Modal -->
 <div class="modal fade" id="<?php echo htmlspecialchars($modalId); ?>" tabindex="-1" aria-labelledby="viewCharacterName" aria-hidden="true" data-fullscreen="true">
     <div class="modal-dialog modal-xl modal-dialog-scrollable">
-        <div class="modal-content character-view-modal">
-            <div class="modal-header align-items-start flex-wrap gap-2">
+        <div class="modal-content vbn-modal-content character-view-modal">
+            <div class="modal-header vbn-modal-header align-items-start flex-wrap gap-2">
                 <div class="d-flex flex-column">
-                    <h5 class="modal-title d-flex align-items-center gap-2">
+                    <h5 class="modal-title vbn-modal-title d-flex align-items-center gap-2" id="viewCharacterName">
                         <span aria-hidden="true">📄</span>
-                        <span id="viewCharacterName">Character Details</span>
+                        <span>Character Details</span>
                     </h5>
                 </div>
                 <div class="d-flex align-items-center gap-2 ms-auto">
@@ -45,7 +45,7 @@ if ($script_dir === '/') {
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
             </div>
-            <div class="modal-body">
+            <div class="modal-body vbn-modal-body">
                 <div id="characterHeader" class="character-header-section mb-3" aria-live="polite">
                     <!-- Populated dynamically -->
                 </div>
@@ -704,20 +704,20 @@ if ($script_dir === '/') {
                     const rating = arc.rating || 0;
                     const arts = arc.arts || [];
                     
-                    contentHtml += '<div class="discipline-item">';
-                    contentHtml += '<div style="width: 100%;">';
-                    contentHtml += '<div style="display: flex; justify-content: space-between; align-items: center;">';
+                    contentHtml += '<div class="vbn-discipline-item">';
+                    contentHtml += '<div class="vbn-discipline-item-wrapper">';
+                    contentHtml += '<div class="vbn-discipline-header">';
                     contentHtml += '<strong>' + arcName + ' ' + rating + '</strong>';
                     if (arts.length > 0) {
-                        contentHtml += '<span style="color: #c4a037;">' + arts.length + ' arts</span>';
+                        contentHtml += '<span class="vbn-discipline-power-count">' + arts.length + ' arts</span>';
                     }
                     contentHtml += '</div>';
                     
                     if (arts.length > 0) {
-                        contentHtml += '<div class="powers-list" style="margin-top: 8px; padding-left: 20px;">';
+                        contentHtml += '<div class="vbn-power-list">';
                         arts.forEach(art => {
                             const artName = escapeHtml(art.power || 'Unknown');
-                            contentHtml += '<div style="color: #c4a037; font-size: 0.9em;">• ' + artName + ' <span style="color: #999; font-size: 0.85em;">(Level ' + (art.level || 0) + ')</span></div>';
+                            contentHtml += '<div class="vbn-power-item">• ' + artName + ' <span class="vbn-power-level">(Level ' + (art.level || 0) + ')</span></div>';
                         });
                         contentHtml += '</div>';
                     }
@@ -829,22 +829,22 @@ if ($script_dir === '/') {
                 const powerCount = d.power_count || (d.powers ? d.powers.length : 0);
                 const isCustom = d.is_custom || false;
                 
-                contentHtml += '<div class="discipline-item">';
-                contentHtml += '<div style="width: 100%;">';
-                contentHtml += '<div style="display: flex; justify-content: space-between; align-items: center;">';
+                contentHtml += '<div class="vbn-discipline-item">';
+                contentHtml += '<div class="vbn-discipline-item-wrapper">';
+                contentHtml += '<div class="vbn-discipline-header">';
                 contentHtml += '<strong>' + discName + ' ' + level + '</strong>';
                 if (powerCount > 0) {
-                    contentHtml += '<span style="color: #c4a037;">' + powerCount + ' powers</span>';
+                    contentHtml += '<span class="vbn-discipline-power-count">' + powerCount + ' powers</span>';
                 } else if (isCustom) {
-                    contentHtml += '<span style="color: #999; font-style: italic;">Custom/Path</span>';
+                    contentHtml += '<span class="vbn-discipline-custom-label">Custom/Path</span>';
                 }
                 contentHtml += '</div>';
                 
                 if (d.powers && d.powers.length > 0) {
-                    contentHtml += '<div class="powers-list" style="margin-top: 8px; padding-left: 20px;">';
+                    contentHtml += '<div class="vbn-power-list">';
                     d.powers.forEach(power => {
                         const powerName = (power.power_name || 'Unknown').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-                        contentHtml += '<div style="color: #c4a037; font-size: 0.9em;">• ' + powerName + ' <span style="color: #999; font-size: 0.85em;">(Level ' + (power.level || 0) + ')</span></div>';
+                        contentHtml += '<div class="vbn-power-item">• ' + powerName + ' <span class="vbn-power-level">(Level ' + (power.level || 0) + ')</span></div>';
                     });
                     contentHtml += '</div>';
                 }
@@ -1055,10 +1055,10 @@ if ($script_dir === '/') {
                         } else if (item && item.name) {
                             equipmentHtml += '<li><strong>' + escapeHtml(item.name) + '</strong>';
                             if (item.quantity && item.quantity > 1) {
-                                equipmentHtml += ' <span style="color: #c4a037;">(x' + item.quantity + ')</span>';
+                                equipmentHtml += ' <span class="vbn-equipment-badge">(x' + item.quantity + ')</span>';
                             }
                             if (item.description) {
-                                equipmentHtml += '<br><span style="color: #999; font-size: 0.9em; margin-left: 20px;">' + escapeHtml(item.description) + '</span>';
+                                equipmentHtml += '<br><span class="vbn-equipment-description">' + escapeHtml(item.description) + '</span>';
                             }
                             equipmentHtml += '</li>';
                         }

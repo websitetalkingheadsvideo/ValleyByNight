@@ -192,12 +192,15 @@ while ($char = $characters_result->fetch_assoc()) {
 </div>
 
 <!-- Add/Edit Location Modal -->
-<div id="locationModal" class="modal" role="dialog" aria-modal="true" aria-labelledby="locationModalTitle" aria-describedby="locationForm">
-    <div class="modal-content large-modal">
-        <h2 class="modal-title">🏠 <span id="locationModalTitle">Add New Location</span></h2>
-        <button class="modal-close" onclick="closeLocationModal()">×</button>
-        
-        <form id="locationForm" class="needs-validation" novalidate>
+<div class="modal fade" id="locationModal" tabindex="-1" aria-labelledby="locationModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content vbn-modal-content">
+            <div class="modal-header vbn-modal-header">
+                <h5 class="modal-title vbn-modal-title" id="locationModalLabel">🏠 <span id="locationModalTitle">Add New Location</span></h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body vbn-modal-body">
+                <form id="locationForm" class="needs-validation" novalidate>
             <input type="hidden" id="locationId" name="id">
             
             <div class="form-row row g-3">
@@ -296,84 +299,42 @@ while ($char = $characters_result->fetch_assoc()) {
                 <textarea id="locationNotes" name="notes" class="form-control" placeholder="Additional notes, plot hooks, etc..."></textarea>
             </div>
             
-            <div class="modal-actions">
-                <button type="button" class="modal-btn cancel-btn btn btn-secondary" onclick="closeLocationModal()">Cancel</button>
-                <button type="submit" class="modal-btn confirm-btn btn btn-primary">Save Location</button>
+                </form>
             </div>
-        </form>
+            <div class="modal-footer vbn-modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                <button type="submit" form="locationForm" class="btn btn-primary">Save Location</button>
+            </div>
+        </div>
     </div>
 </div>
 
 <!-- View Location Modal -->
-<div id="viewModal" class="modal" role="dialog" aria-modal="true" aria-labelledby="viewLocationName" aria-describedby="viewLocationContent">
-    <div class="modal-content large-modal">
-        <h2 class="modal-title">📄 <span id="viewLocationName">Location Details</span></h2>
-        <button class="modal-close" onclick="closeViewModal()">×</button>
-        
-        <div id="viewLocationContent" class="view-content" aria-live="polite">
-            Loading...
-        </div>
-        <div class="modal-actions">
-            <button class="modal-btn cancel-btn btn btn-secondary" onclick="closeViewModal()">Close</button>
-        </div>
-    </div>
-</div>
+<?php
+$modalId = 'viewModal';
+$labelId = 'viewModalLabel';
+$size = 'lg';
+include __DIR__ . '/../includes/modal_base.php';
+?>
 
 <!-- Character Assignment Modal -->
-<div id="assignModal" class="modal" role="dialog" aria-modal="true" aria-label="Assign Characters to Location" aria-describedby="assignLocationDesc">
-    <div class="modal-content">
-        <h2 class="modal-title">🎯 Assign Characters to Location</h2>
-        <button class="modal-close" onclick="closeAssignModal()">×</button>
-        
-        <div class="modal-message" id="assignLocationDesc">
-            Assign characters to <strong id="assignLocationName"></strong>:
-        </div>
-        
-        <div class="character-selection">
-            <?php foreach ($all_characters as $char): ?>
-                <div class="character-item" data-character-id="<?php echo $char['id']; ?>">
-                    <div style="display: flex; justify-content: space-between; align-items: center;">
-                        <div>
-                            <strong><?php echo htmlspecialchars($char['character_name']); ?></strong>
-                            <small style="display: block; color: #b8a090;">
-                                <?php echo htmlspecialchars($char['clan']); ?> - 
-                                <?php echo htmlspecialchars($char['player_name']); ?>
-                            </small>
-                        </div>
-                        <select class="assignment-type-select" data-character-id="<?php echo $char['id']; ?>">
-                            <option value="Resident">Resident</option>
-                            <option value="Owner">Owner</option>
-                            <option value="Visitor">Visitor</option>
-                            <option value="Staff">Staff</option>
-                            <option value="Guard">Guard</option>
-                        </select>
-                    </div>
-                </div>
-            <?php endforeach; ?>
-        </div>
-        
-        <div class="modal-actions">
-            <button class="modal-btn cancel-btn btn btn-secondary" onclick="closeAssignModal()">Cancel</button>
-            <button class="modal-btn confirm-btn btn btn-primary" onclick="assignCharactersToLocation()">Assign Characters</button>
-        </div>
-    </div>
-</div>
+<?php
+$modalId = 'assignModal';
+$labelId = 'assignModalLabel';
+include __DIR__ . '/../includes/modal_base.php';
+?>
 
 <!-- Delete Modal -->
-<div id="deleteModal" class="modal" role="dialog" aria-modal="true" aria-label="Confirm Deletion" aria-describedby="deleteLocationName deleteWarning">
-    <div class="modal-content">
-        <h2 class="modal-title">⚠️ Confirm Deletion</h2>
-        <p class="modal-message">Delete location:</p>
-        <p class="modal-character-name" id="deleteLocationName"></p>
-        <p class="modal-warning" id="deleteWarning" style="display:none;">
-            ⚠️ <strong>This location has character assignments</strong> - remove assignments first!
-        </p>
-        <div class="modal-actions">
-            <button class="modal-btn cancel-btn btn btn-secondary" onclick="closeDeleteModal()">Cancel</button>
-            <button class="modal-btn confirm-btn btn btn-danger" id="confirmDeleteBtn" onclick="confirmDeleteLocation()">Delete</button>
-        </div>
-    </div>
-</div>
+<?php
+$modalId = 'deleteModal';
+$labelId = 'deleteModalLabel';
+include __DIR__ . '/../includes/modal_base.php';
+?>
+
+<script>
+// Pass character data to JavaScript for assign modal
+const allCharactersForLocations = <?php echo json_encode($all_characters); ?>;
+</script>
 
 <!-- Include external CSS -->
 <link rel="stylesheet" href="../css/admin_locations.css">
