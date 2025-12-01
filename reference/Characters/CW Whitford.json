@@ -1,0 +1,157 @@
+{
+    "id": 0,
+    "user_id": 0,
+    "character_name": "Charles \"C.W.\" Whitford",
+    "player_name": "NPC",
+    "chronicle": "Valley by Night",
+    "nature": "Architect",
+    "demeanor": "Director",
+    "concept": "Desert power broker who sees the city as a machine he alone understands",
+    "clan": "Ventrue",
+    "generation": 9,
+    "sire": "Unknown",
+    "pc": 0,
+  
+    "appearance": "Silver-haired, sharply dressed in tailored business suits; pale blue eyes that assess rather than look; oxblood leather shoes and a gold 1970s Rolex. Smells faintly of cedar and dust.",
+    
+    "appearance_detailed": {
+      "short_summary": "A controlled, sharply dressed Ventrue elder with desert-weathered confidence and cold analytical eyes.",
+      "detailed_description": "C.W. Whitford looks like the kind of man who built half the Valley and quietly owns the other half. He favors tailored 1980s-era business suits—charcoal, navy, or desert-tan—with ties that lean conservative: deep burgundy stripes, muted gold accents, nothing flashy. His hair is silvering at the temples, slicked back with a dry, executive finish rather than anything glossy. His face has the sun-burnished look of a man who spent decades walking construction sites before he learned the value of shade; faint lines around his eyes remain even in undeath, giving him a perpetual squint of appraisal.\n\nHe wears a gold Rolex from the mid-70s and polished oxblood leather shoes. His scent is faint cedar and dust—like a freshly opened model-home. Most notice his eyes first: pale blue, cool and calculating, with a habit of narrowing just a little too long when he’s evaluating someone. When he speaks, his posture is still, his hands controlled, but there’s always a sense he’s measuring the room the way architects measure load-bearing walls."
+    },
+  
+    "biography": "Arriving in Phoenix during the explosive expansion of the 1970s, Charles \"C.W.\" Whitford embedded himself in land development, zoning control, and the invisible gears that drive the Valley's real-estate empire. He became Ventrue Primogen in 1982 through quiet political maneuvering and decades of strategic boons. Viewing the city as an engine in need of proper leadership, he hired the Assamites to remove the Prince, whom he saw as an inefficient executive. Now he leverages boons, influence, and subtle pressure to position himself as the only logical successor to the throne.",
+  
+    "notes": "",
+    "equipment": "Gold 1970s Rolex; tailored business suits; extensive real-estate documents; political donor lists.",
+    "character_image": "",
+  
+    "status": "active",
+    "camarilla_status": "Camarilla",
+    "sect": "Camarilla",
+    "title": "Ventrue Primogen of Phoenix",
+    "epithet": "The Desert Power Broker",
+    "description_tags": ["calculating", "executive", "manipulative", "land developer"],
+  
+    "timeline": {
+      "birthplace": "United States",
+      "embrace_period": "Late 1940s",
+      "notable_mortal_past": "Executive in post-war construction and land development.",
+      "world_war_two_experience": "",
+      "arrival_in_phoenix": "1970s",
+      "bunker_acquisition": "",
+      "years_in_bunker": ""
+    },
+  
+    "domain_and_haven": {
+      "primary_haven_name": "Whitford Development Corporate Offices (Private Suite)",
+      "primary_haven_type": "Corporate Penthouse",
+      "location_notes": "Overlooks central Phoenix; secured with layered mortal and financial influence.",
+      "bunker_history": "",
+      "bunker_function": [],
+      "false_public_assumptions": "Assumed to be an aging but successful real-estate magnate who rarely appears in public."
+    },
+  
+    "current_residents": {
+      "nosferatu": [],
+      "ghouls": ["Two long-term corporate assistants", "Private driver/bodyguard"]
+    },
+  
+    "personality": {
+      "tagline": "Every system can be improved — or replaced.",
+      "narrative": "C.W. is the embodiment of ruthless pragmatism wrapped in polite business etiquette. He never shouts, never threatens, and rarely raises his voice; instead, he simply restructures the situation until resistance becomes unprofitable. He believes in systems—financial, political, architectural—and he applies that same logic to Kindred society. Everything has value, everything has leverage, everything can be negotiated. He plays the long game, content to let others burn themselves out while he builds quiet influence through boons and favors.\n\nHe treats people like investments: nurtured when promising, liquidated when inefficient. The assassination of the Prince, in his mind, was not murder but “necessary restructuring.” He moves through Elysium with the confidence of a CEO walking his own boardroom, praising others for their “excellent initiative” even as he positions them exactly where he needs them. When he smiles, it never reaches his eyes. When he makes you a promise, it comes with invisible fine print."
+    },
+  
+    "traits": {
+      "Physical": ["Composed"],
+      "Social": ["Authoritative", "Persuasive", "Influential"],
+      "Mental": ["Strategic", "Calculating", "Analytical"]
+    },
+  
+    "negativeTraits": {
+      "Physical": [],
+      "Social": ["Arrogant", "Manipulative"],
+      "Mental": ["Overconfident"]
+    },
+  
+    "abilities": [
+      {"name": "Finance", "category": "Mental", "level": 5},
+      {"name": "Politics", "category": "Social", "level": 4},
+      {"name": "Bureaucracy", "category": "Mental", "level": 4},
+      {"name": "Intimidation", "category": "Social", "level": 3},
+      {"name": "Leadership", "category": "Social", "level": 4},
+      {"name": "Investigation", "category": "Mental", "level": 2}
+    ],
+  
+    "specializations": {
+      "Finance": "Real estate and land development",
+      "Politics": "Back-room deals",
+      "Leadership": "Corporate hierarchy"
+    },
+  
+    "disciplines": [
+      {"name": "Dominate", "level": 4},
+      {"name": "Fortitude", "level": 3},
+      {"name": "Presence", "level": 3}
+    ],
+  
+    "backgrounds": {
+      "Resources": 5,
+      "Influence": 5,
+      "Allies": 3,
+      "Herd": 2,
+      "Retainers": 2,
+      "Status": 3
+    },
+  
+    "backgroundDetails": {
+      "Resources": "Owns major real-estate and development assets across Phoenix.",
+      "Influence": "Deep influence over zoning boards, real-estate councils, and political fundraising groups.",
+      "Retainers": "Corporate assistants and private driver/bodyguard."
+    },
+  
+    "morality": {
+      "path_name": "Humanity",
+      "path_rating": 6,
+      "conscience": 2,
+      "self_control": 4,
+      "courage": 4,
+      "willpower_permanent": 7,
+      "willpower_current": 7,
+      "humanity": 6
+    },
+  
+    "merits_flaws": [
+      {"name": "Natural Leader", "type": "merit", "category": "Social", "cost": 1, "description": "Projects authority effortlessly."},
+      {"name": "Prestigious Sire", "type": "merit", "category": "Social", "cost": 1, "description": "Comes from a lineage respected in business circles."},
+      {"name": "Deep Sleeper", "type": "flaw", "category": "Physical", "cost": -1, "description": "Hard to wake during daylight emergency."}
+    ],
+  
+    "status": {
+      "sect_status": "Respected Elder",
+      "clan_status": "Primogen",
+      "city_status": "Influential",
+      "health_levels": 7,
+      "blood_pool_current": 10,
+      "blood_pool_maximum": 10,
+      "blood_per_turn": 1,
+      "xp_total": 0,
+      "xp_spent": 0,
+      "xp_available": 0,
+      "notes": ""
+    },
+  
+    "coteries": [],
+    "relationships": [],
+    "rituals": [],
+    "research_notes": {},
+    "artifacts": [],
+    "custom_data": null,
+  
+    "experience_total": 0,
+    "experience_spent": 0,
+    "clan_logo_url": "",
+    "current_state": "",
+    "created_at": "",
+    "updated_at": ""
+  }
+  
