@@ -210,6 +210,7 @@ while ($char = $characters_result->fetch_assoc()) {
                         <option value="Artifact">Artifact</option>
                         <option value="Misc">Misc</option>
                     </select>
+                    <div class="invalid-feedback">Please select a type.</div>
                 </div>
             </div>
             
@@ -229,6 +230,7 @@ while ($char = $characters_result->fetch_assoc()) {
                         <option value="epic">Epic</option>
                         <option value="legendary">Legendary</option>
                     </select>
+                    <div class="invalid-feedback">Please select a rarity.</div>
                 </div>
             </div>
             
@@ -257,7 +259,8 @@ while ($char = $characters_result->fetch_assoc()) {
             
             <div class="form-group mb-3">
                 <label for="itemRequirements" class="form-label">Requirements (JSON)</label>
-                <textarea id="itemRequirements" name="requirements" class="form-control" placeholder='{"strength": 3, "dexterity": 2}'></textarea>
+                <textarea id="itemRequirements" name="requirements" class="form-control" rows="3" placeholder='{"strength": 3, "dexterity": 2}'></textarea>
+                <small class="form-text text-muted" style="color: #d4c4b0; font-size: 0.85em;">Format: JSON object with attribute: value pairs</small>
             </div>
             
             <div class="form-group mb-3">

@@ -79,6 +79,7 @@ include __DIR__ . '/includes/header.php';
         <form action="includes/update_account.php" method="POST" class="needs-validation" novalidate>
           <input type="hidden" name="csrf_token" value="<?php echo htmlspecialchars($csrf_token); ?>">
           <input type="hidden" name="action" value="password">
+          <input type="hidden" name="username" value="<?php echo htmlspecialchars($user['username']); ?>" autocomplete="username">
 
           <div class="mb-3">
             <label for="current_password" class="form-label">Current Password</label>

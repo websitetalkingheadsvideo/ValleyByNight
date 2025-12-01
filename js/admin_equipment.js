@@ -341,7 +341,18 @@ function editEquipment(equipmentId) {
     document.getElementById('equipmentCategory').value = item.category;
     document.getElementById('equipmentDamage').value = item.damage || '';
     document.getElementById('equipmentRange').value = item.range || '';
-    document.getElementById('equipmentRarity').value = item.rarity;
+    const equipmentRarityEl = document.getElementById('equipmentRarity');
+    if (equipmentRarityEl) {
+        // Normalize rarity to lowercase to match option values
+        const normalizedRarity = item.rarity ? item.rarity.toLowerCase() : '';
+        equipmentRarityEl.value = normalizedRarity;
+        
+        // Verify the option exists, if not log a warning
+        if (normalizedRarity && !Array.from(equipmentRarityEl.options).some(opt => opt.value === normalizedRarity)) {
+            console.warn(`Rarity option "${normalizedRarity}" not found in dropdown. Available options:`, 
+                Array.from(equipmentRarityEl.options).map(opt => opt.value));
+        }
+    }
     document.getElementById('equipmentPrice').value = item.price;
     document.getElementById('equipmentDescription').value = item.description;
     // Display requirements in readable format, not JSON

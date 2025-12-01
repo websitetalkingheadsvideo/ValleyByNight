@@ -251,14 +251,17 @@ if ($script_dir === '/') {
         
         const modeButtons = document.querySelectorAll('.mode-btn');
         modeButtons.forEach(function(btn) {
+            if (!btn) return; // Safety check
             const btnMode = btn.dataset.viewMode || 'compact';
             const isActive = btnMode === mode;
-            btn.classList.toggle('active', isActive);
+            if (btn.classList) {
+                btn.classList.toggle('active', isActive);
+            }
             btn.setAttribute('aria-pressed', isActive ? 'true' : 'false');
         });
         
         const modalContent = document.querySelector('.character-view-modal');
-        if (modalContent) {
+        if (modalContent && modalContent.classList) {
             if (mode === 'compact') {
                 modalContent.classList.add('compact-mode');
             } else {

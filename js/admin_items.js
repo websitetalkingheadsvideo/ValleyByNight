@@ -321,37 +321,61 @@ function editItem(itemId) {
     const item = allItems.find(i => i.id == itemId);
     if (!item) return;
 
-    document.getElementById('itemModalTitle').textContent = 'Edit Item';
-    document.getElementById('itemId').value = item.id;
-    document.getElementById('itemName').value = item.name;
-    document.getElementById('itemType').value = item.type;
-    document.getElementById('itemCategory').value = item.category;
-    document.getElementById('itemDamage').value = item.damage || '';
-    document.getElementById('itemRange').value = item.range || '';
-    document.getElementById('itemRarity').value = item.rarity;
-    document.getElementById('itemPrice').value = item.price;
-    document.getElementById('itemDescription').value = item.description;
-    document.getElementById('itemRequirements').value = item.requirements ? JSON.stringify(item.requirements, null, 2) : '';
-    document.getElementById('itemImage').value = item.image || '';
-    document.getElementById('itemNotes').value = item.notes || '';
+    const titleEl = document.getElementById('itemModalTitle');
+    const idEl = document.getElementById('itemId');
+    const nameEl = document.getElementById('itemName');
+    const typeEl = document.getElementById('itemType');
+    const categoryEl = document.getElementById('itemCategory');
+    const damageEl = document.getElementById('itemDamage');
+    const rangeEl = document.getElementById('itemRange');
+    const rarityEl = document.getElementById('itemRarity');
+    const priceEl = document.getElementById('itemPrice');
+    const descriptionEl = document.getElementById('itemDescription');
+    const requirementsEl = document.getElementById('itemRequirements');
+    const imageEl = document.getElementById('itemImage');
+    const notesEl = document.getElementById('itemNotes');
+    
+    if (!titleEl || !idEl || !nameEl || !typeEl || !categoryEl || !rarityEl || !priceEl || !descriptionEl) {
+        console.error('Required form elements not found for editing item');
+        return;
+    }
+    
+    if (titleEl) titleEl.textContent = 'Edit Item';
+    if (idEl) idEl.value = item.id;
+    if (nameEl) nameEl.value = item.name;
+    if (typeEl) typeEl.value = item.type;
+    if (categoryEl) categoryEl.value = item.category;
+    if (damageEl) damageEl.value = item.damage || '';
+    if (rangeEl) rangeEl.value = item.range || '';
+    if (rarityEl) {
+        // Normalize rarity to lowercase to match option values
+        const normalizedRarity = item.rarity ? item.rarity.toLowerCase() : '';
+        rarityEl.value = normalizedRarity;
+        
+        // Verify the option exists, if not log a warning
+        if (normalizedRarity && !Array.from(rarityEl.options).some(opt => opt.value === normalizedRarity)) {
+            console.warn(`Rarity option "${normalizedRarity}" not found in dropdown. Available options:`, 
+                Array.from(rarityEl.options).map(opt => opt.value));
+        }
+    }
+    if (priceEl) priceEl.value = item.price;
+    if (descriptionEl) descriptionEl.value = item.description;
+    if (requirementsEl) requirementsEl.value = item.requirements ? JSON.stringify(item.requirements, null, 2) : '';
+    if (imageEl) imageEl.value = item.image || '';
+    if (notesEl) notesEl.value = item.notes || '';
     
     const modalElement = document.getElementById('itemModal');
     if (modalElement) {
         const modalInstance = new bootstrap.Modal(modalElement);
         modalInstance.show();
+    } else {
+        console.error('itemModal element not found');
     }
 }
 
 function viewItem(itemId) {
     const item = allItems.find(i => i.id == itemId);
     if (!item) return;
-
-    document.getElementById('viewItemName').textContent = item.name;
-    const viewContainer = document.getElementById('viewItemContent');
-    if (viewContainer) {
-      viewContainer.setAttribute('aria-busy','true');
-      viewContainer.textContent = 'Loading...';
-    }
     
     const content = `
         <div class="info-grid">
@@ -390,9 +414,19 @@ function viewItem(itemId) {
     `;
     
     const modalElement = document.getElementById('viewModal');
+    if (!modalElement) {
+        console.error('viewModal element not found');
+        return;
+    }
+    
     const modalTitle = modalElement.querySelector('.vbn-modal-title');
     const modalBody = modalElement.querySelector('.vbn-modal-body');
     const modalFooter = modalElement.querySelector('.vbn-modal-footer');
+    
+    if (!modalTitle || !modalBody || !modalFooter) {
+        console.error('Modal structure incomplete. Missing required elements.');
+        return;
+    }
     
     modalTitle.textContent = `📄 ${escapeHtml(item.name)}`;
     modalBody.innerHTML = content;
@@ -407,9 +441,19 @@ function assignItem(itemId, itemName) {
     currentItemId = itemId;
     
     const modalElement = document.getElementById('assignModal');
+    if (!modalElement) {
+        console.error('assignModal element not found');
+        return;
+    }
+    
     const modalTitle = modalElement.querySelector('.vbn-modal-title');
     const modalBody = modalElement.querySelector('.vbn-modal-body');
     const modalFooter = modalElement.querySelector('.vbn-modal-footer');
+    
+    if (!modalTitle || !modalBody || !modalFooter) {
+        console.error('Modal structure incomplete. Missing required elements.');
+        return;
+    }
     
     modalTitle.textContent = '🎯 Assign Item to Characters';
     modalBody.innerHTML = `
@@ -496,9 +540,19 @@ function deleteItem(itemId, itemName) {
     currentItemId = itemId;
     
     const modalElement = document.getElementById('deleteModal');
+    if (!modalElement) {
+        console.error('deleteModal element not found');
+        return;
+    }
+    
     const modalTitle = modalElement.querySelector('.vbn-modal-title');
     const modalBody = modalElement.querySelector('.vbn-modal-body');
     const modalFooter = modalElement.querySelector('.vbn-modal-footer');
+    
+    if (!modalTitle || !modalBody || !modalFooter) {
+        console.error('Modal structure incomplete. Missing required elements.');
+        return;
+    }
     
     modalTitle.textContent = '⚠️ Confirm Deletion';
     modalBody.innerHTML = `

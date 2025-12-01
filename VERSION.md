@@ -1,6 +1,40 @@
 # Version History
 
-## Current Version: 0.8.15
+## Current Version: 0.8.16
+
+**Date:** 2025-01-30  
+**Type:** Patch (C.W. Whitford Boon Generation System & Character Content)
+
+### Changes:
+- **C.W. Whitford Boon Generation System** - Complete automated boon generation system for Charles "C.W." Whitford
+  - Created `database/generate_cw_whitford_boons.php` - Main boon generation script (842 lines)
+  - Deterministic hash-based 50% NPC selection algorithm ensures exactly one boon with exactly 50% of all NPCs
+  - Boon tier distribution: 30% Major, 50% Minor, 20% Trivial
+  - Character-tailored boon descriptions (50+ templates) based on NPC clan, role, concept, and biography
+  - Automatic Harpy registration with Cordelia Fairchild or System fallback
+  - Idempotent operation prevents duplicate boon creation
+  - Comprehensive validation system checks boon count, distribution, duplicates, and Harpy registration
+  - Transaction-based database operations with rollback on failure
+  - Real-time progress reporting and detailed validation reports
+- **Helena Crowly Character Creation** - Complete Tremere Primogen character reference
+  - Created `reference/Characters/Helena_Crowly.json` - Full character data (331 lines)
+  - Tremere Primogen of Phoenix, "The Archivist of the Desert"
+  - 9th generation Tremere with mastery of Thaumaturgy (Path of Blood, Path of Mercury, Path of Conjuring)
+  - Complete character profile with appearance, biography, personality, traits, abilities, disciplines, timeline, domain/haven, relationships, rituals, and artifacts
+  - Egyptian archaeology background and forensic thaumaturgy focus
+  - Added character portrait image (`Helena Crowly.png`)
+- **Implementation Planning Documentation** - Comprehensive implementation guides
+  - Created `tmp/cw_whitford_boons_implementation_plan.md` - Detailed step-by-step implementation plan (280 lines)
+  - Created `reference/Characters/cw_whitford_boons_cursor_prompt.md` - Requirements documentation (171 lines)
+  - 5-phase implementation approach: Discovery, Core Implementation, Validation, Main Script, Testing
+- **Admin Interface JavaScript Improvements** - Enhanced admin page functionality
+  - Enhanced `js/admin_items.js` - Improved modal handling and form validation (94 lines changed)
+  - Enhanced `js/admin_locations.js` - Improved error handling and modal functionality (40 lines changed)
+  - Enhanced `js/admin_npc_briefing.js` - Improved modal interactions (34 lines changed)
+  - Enhanced `js/admin_equipment.js` - Improved form handling (13 lines changed)
+  - Minor improvements to `includes/character_view_modal.php` and `account.php`
+
+## Previous Version: 0.8.15
 
 **Date:** 2025-01-30  
 **Type:** Patch (Error Analysis & Remediation Planning)

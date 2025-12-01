@@ -245,14 +245,27 @@ function changePage(page) {
 
 // CRUD Functions
 function openAddLocationModal() {
-    document.getElementById('locationModalTitle').textContent = 'Add New Location';
-    document.getElementById('locationForm').reset();
-    document.getElementById('locationId').value = '';
+    const titleEl = document.getElementById('locationModalTitle');
+    const formEl = document.getElementById('locationForm');
+    const idEl = document.getElementById('locationId');
     const modalElement = document.getElementById('locationModal');
-    if (modalElement) {
-        const modalInstance = new bootstrap.Modal(modalElement);
-        modalInstance.show();
+    
+    if (!titleEl || !formEl || !idEl) {
+        console.error('Required form elements not found for adding location');
+        return;
     }
+    
+    if (!modalElement) {
+        console.error('locationModal element not found');
+        return;
+    }
+    
+    titleEl.textContent = 'Add New Location';
+    formEl.reset();
+    idEl.value = '';
+    
+    const modalInstance = new bootstrap.Modal(modalElement);
+    modalInstance.show();
 }
 
 function editLocation(id) {
@@ -286,12 +299,21 @@ async function viewLocation(id) {
     
     document.getElementById('viewLocationName').textContent = location.name;
     
-    // Show loading state
-    const viewContainer = document.getElementById('viewLocationContent');
+    // Get modal elements
     const modalElement = document.getElementById('viewModal');
+    if (!modalElement) {
+        console.error('viewModal element not found');
+        return;
+    }
+    
     const modalTitle = modalElement.querySelector('.vbn-modal-title');
     const modalBody = modalElement.querySelector('.vbn-modal-body');
     const modalFooter = modalElement.querySelector('.vbn-modal-footer');
+    
+    if (!modalTitle || !modalBody || !modalFooter) {
+        console.error('Modal structure incomplete. Missing required elements.');
+        return;
+    }
     
     modalTitle.textContent = `📄 ${escapeHtml(location.name)}`;
     modalBody.setAttribute('aria-busy','true');
@@ -300,8 +322,6 @@ async function viewLocation(id) {
     
     const modalInstance = new bootstrap.Modal(modalElement);
     modalInstance.show();
-    
-    const viewContainer = modalBody;
     
     try {
         // Fetch character assignments
