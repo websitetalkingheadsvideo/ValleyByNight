@@ -1,6 +1,35 @@
 # Version History
 
-## Current Version: 0.8.12
+## Current Version: 0.8.13
+
+**Date:** 2025-11-30  
+**Type:** Patch (MCP Configuration Updates & Character Content Creation)
+
+### Changes:
+- **MCP Server Configuration** - Enhanced MCP server setup for better agent integration
+  - Added Style Agent MCP server configuration to `.cursor/mcp.json`
+  - Changed Git MCP to GitHub MCP (http-based) for better integration
+  - Style Agent server accessible at `G:/VbN/agents/style_agent/server.php`
+  - Improved MCP server architecture for multi-agent support
+- **Storyteller Prompt Enhancements** - Expanded character generation prompts
+  - Added cinematic introduction generation prompt to Storyteller file
+  - Integrated Style Agent MCP usage for cinematic content creation
+  - Enhanced prompt structure for character biography and appearance generation
+  - Improved formatting and clarity in prompt instructions
+- **C.W. Whitford Character Content** - Complete character reference package
+  - Created `CW_Whitford_Cinematic_Introduction.md` - Full 8-shot cinematic introduction (232 lines)
+  - Created `CW_Whitford_Image_Prompt.md` - Character portrait generation prompt
+  - Added character portrait image (`CW Whitford.png`)
+  - 45-second cinematic sequence following Valley by Night Art Bible format
+  - Ventrue Primogen character with construction site setting (unique among Ventrue)
+  - Includes technical notes, audio breakdown, GM notes, and discipline references
+- **FTP Upload Documentation** - Created deployment notes for case sensitivity issues
+  - Documented case sensitivity problem between local `agents/` and remote `Agent/` folders
+  - Provided three solution options for FTP upload workflow
+  - Database path updated to match remote server structure
+  - Verification script reference for post-upload validation
+
+## Previous Version: 0.8.12
 
 **Date:** 2025-01-30  
 **Type:** Patch (Database Maintenance - Primogen Character Import)

@@ -50,19 +50,20 @@
         "CONTEXT7_API_KEY": "${env:CONTEXT7_API_KEY}"
       }
     },
-    "git": {
-      "command": "python",
-      "args": [
-        "-m",
-        "mcp_server_git",
-        "--repository",
-        "G:/VbN"
-      ]
+    "github": {
+      "type": "http",
+      "url": "https://api.githubcopilot.com/mcp/"
     },
     "character-agent": {
       "command": "php",
       "args": [
         "G:/VbN/agents/character_agent/server.php"
+      ]
+    },
+    "style-agent": {
+      "command": "php",
+      "args": [
+        "G:/VbN/agents/style_agent/server.php"
       ]
     }
   }
