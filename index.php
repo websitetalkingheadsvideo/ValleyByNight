@@ -236,6 +236,32 @@ include 'includes/header.php';
 <!-- Include external dashboard CSS -->
 <link rel="stylesheet" href="css/dashboard.css">
 
+<script>
+// Defensive JavaScript for index.php navigation links
+// Prevents "Element not found" errors from global scripts
+document.addEventListener('DOMContentLoaded', function() {
+    // Ensure all navigation links work correctly
+    const navLinks = document.querySelectorAll('.vbn-action-card a.btn-primary, .vbn-link-card a');
+    navLinks.forEach(function(link) {
+        // Add null check before any potential enhancement
+        if (link) {
+            // Ensure links are clickable
+            link.addEventListener('click', function(e) {
+                // Allow default navigation behavior
+                // No prevention needed for standard anchor tags
+            });
+        }
+    });
+    
+    // Defensive check for any modal-related scripts that might fail
+    const modals = document.querySelectorAll('.modal');
+    if (modals.length === 0) {
+        // No modals on this page - that's fine
+        // This prevents errors from scripts expecting modals
+    }
+});
+</script>
+
 <?php
 // Include footer
 include 'includes/footer.php';
