@@ -387,10 +387,18 @@ function sortTable(column) {
     });
     
     const header = document.querySelector(`th[data-sort="${column}"]`);
+    if (!header) {
+        console.error(`Header for column ${column} not found`);
+        return;
+    }
     header.classList.add(`sorted-${sortDirection}`);
     
     // Sort rows
     const tbody = document.querySelector('#characterTable tbody');
+    if (!tbody) {
+        console.error('Character table tbody not found');
+        return;
+    }
     const rows = Array.from(tbody.querySelectorAll('tr'));
     
     rows.sort((a, b) => {
@@ -421,8 +429,16 @@ function getColumnIndex(column) {
 }
 
 function applyFilters() {
-    const clanFilter = document.getElementById('clanFilter').value;
-    const searchTerm = document.getElementById('characterSearch').value.toLowerCase();
+    const clanFilterEl = document.getElementById('clanFilter');
+    const searchEl = document.getElementById('characterSearch');
+    
+    if (!clanFilterEl || !searchEl) {
+        console.error('Filter elements not found');
+        return;
+    }
+    
+    const clanFilter = clanFilterEl.value;
+    const searchTerm = searchEl.value.toLowerCase();
     
     const rows = document.querySelectorAll('#characterTable tbody tr');
     
@@ -469,13 +485,19 @@ function updatePagination() {
     });
     
     // Update pagination info
-    const startNum = totalRows > 0 ? (currentPage - 1) * pageSize + 1 : 0;
-    const endNum = Math.min(currentPage * pageSize, totalRows);
-    document.getElementById('paginationInfo').textContent = 
-        `Showing ${startNum}-${endNum} of ${totalRows} NPCs`;
+    const paginationInfo = document.getElementById('paginationInfo');
+    if (paginationInfo) {
+        const startNum = totalRows > 0 ? (currentPage - 1) * pageSize + 1 : 0;
+        const endNum = Math.min(currentPage * pageSize, totalRows);
+        paginationInfo.textContent = `Showing ${startNum}-${endNum} of ${totalRows} NPCs`;
+    }
     
     // Update pagination buttons
     const buttonsContainer = document.getElementById('paginationButtons');
+    if (!buttonsContainer) {
+        console.error('paginationButtons element not found');
+        return;
+    }
     buttonsContainer.innerHTML = '';
     
     if (totalPages > 1) {
