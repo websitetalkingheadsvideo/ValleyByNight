@@ -64,7 +64,12 @@ function openBriefingModal(characterId) {
     
     // Fetch character data
     fetch(`api_npc_briefing.php?id=${characterId}`)
-        .then(response => response.json())
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+            return response.json();
+        })
         .then(data => {
             if (data.success) {
                 displayBriefing(data);
