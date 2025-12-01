@@ -1,6 +1,32 @@
 # Version History
 
-## Current Version: 0.8.13
+## Current Version: 0.8.14
+
+**Date:** 2025-01-30  
+**Type:** Patch (Character Content Creation & Error Documentation)
+
+### Changes:
+- **Helena Crowly Character Creation** - Complete Tremere Primogen character reference
+  - Created `reference/Characters/Helena_Crowly.json` - Full character data (331 lines)
+  - Tremere Primogen of Phoenix, "The Archivist of the Desert"
+  - 9th generation Tremere with mastery of Thaumaturgy (Path of Blood, Path of Mercury, Path of Conjuring)
+  - Complete character profile with appearance, biography, personality, traits, abilities, disciplines, timeline, domain/haven, relationships, rituals, and artifacts
+  - Egyptian archaeology background and forensic thaumaturgy focus
+- **CW Whitford Boon Generation Prompt** - Comprehensive boon generation system specification
+  - Created `reference/Characters/cw_whitford_boons_cursor_prompt.md` - Detailed implementation prompt (170 lines)
+  - Defines system for generating boons for Charles "C.W." Whitford with exactly 50% of NPCs
+  - Specifies boon tier distribution: 5% Major, 25% Minor, 70% Trivial
+  - Includes Taskmaster integration requirements, validation logic, and Harpy logging requirements
+- **Error Documentation Expansion** - Significantly expanded error tracking system
+  - Added 6 new error entries (ERR-013 through ERR-018) to `errors.md` (+655 lines)
+  - Documented 404 errors for multiple admin pages: Rumor Viewer, Wraith Panel, Questionnaire, Admin Agents, Enhanced Sire/Childe, Boon Agent Viewer
+  - Enhanced existing error entries (ERR-001, ERR-002) with additional details and JavaScript syntax error documentation
+  - Improved error tracking format and consistency across all documented errors
+- **Documentation Updates** - Minor updates to session notes and character database analysis
+  - Updated session notes for boon agent UI improvements, wraith character system, and camarilla positions
+  - Updated character database analysis documentation
+
+## Previous Version: 0.8.13
 
 **Date:** 2025-11-30  
 **Type:** Patch (MCP Configuration Updates & Character Content Creation)
