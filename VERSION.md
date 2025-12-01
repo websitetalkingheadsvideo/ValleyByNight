@@ -1,6 +1,27 @@
 # Version History
 
-## Current Version: 0.8.11
+## Current Version: 0.8.12
+
+**Date:** 2025-01-30  
+**Type:** Patch (Database Maintenance - Primogen Character Import)
+
+### Changes:
+- **Primogen Character Database Integration** - Created script to import and assign primogen characters
+  - Created `database/import_primogen_characters.php` - Import script for primogen characters (271 lines)
+  - Imports CW Whitford (Ventrue Primogen) - Database ID: 136, Position ID: primogen_ventrue, Assignment ID: 7
+  - Imports Naomi Blackbird (Gangrel Primogen) - Database ID: 137, Position ID: primogen_gangrel, Assignment ID: 8
+  - Automatic position creation if primogen positions don't exist
+  - Single atomic transaction for character import and position assignment
+  - Inline helper functions to avoid executing unwanted code from import_characters.php
+  - Comprehensive error handling with transaction rollback
+  - Verifies character clan matches expected primogen clan
+- **Database Consistency** - Both characters verified in database with correct assignments
+  - Characters table: Both characters inserted/updated with all fields
+  - Camarilla positions table: Both primogen positions created
+  - Position assignments table: Both assignments created with proper character ID format
+  - No duplicates detected, all data normalized and validated
+
+## Previous Version: 0.8.11
 
 **Date:** 2025-01-30  
 **Type:** Patch (Laws Agent Restoration & File Recovery)
