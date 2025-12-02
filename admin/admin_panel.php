@@ -163,21 +163,27 @@ function render_clan_badge(string $clan): string {
         }
         ?>
         <div class="col-12 col-sm-4 col-lg-3">
-            <div class="stat-mini text-center">
-            <span class="stat-number" id="statTotal"><?php echo $stats['total'] ?? 0; ?></span>
-            <span class="stat-label">Total</span>
+            <div class="card text-center">
+                <div class="card-body">
+                    <div class="vbn-stat-number" id="statTotal"><?php echo $stats['total'] ?? 0; ?></div>
+                    <div class="vbn-stat-label">Total</div>
+                </div>
             </div>
         </div>
         <div class="col-12 col-sm-4 col-lg-3">
-            <div class="stat-mini text-center">
-            <span class="stat-number" id="statPcs"><?php echo $stats['pcs'] ?? 0; ?></span>
-            <span class="stat-label">PCs</span>
+            <div class="card text-center">
+                <div class="card-body">
+                    <div class="vbn-stat-number" id="statPcs"><?php echo $stats['pcs'] ?? 0; ?></div>
+                    <div class="vbn-stat-label">PCs</div>
+                </div>
             </div>
         </div>
         <div class="col-12 col-sm-4 col-lg-3">
-            <div class="stat-mini text-center">
-            <span class="stat-number" id="statNpcs"><?php echo $stats['npcs'] ?? 0; ?></span>
-            <span class="stat-label">NPCs</span>
+            <div class="card text-center">
+                <div class="card-body">
+                    <div class="vbn-stat-number" id="statNpcs"><?php echo $stats['npcs'] ?? 0; ?></div>
+                    <div class="vbn-stat-label">NPCs</div>
+                </div>
             </div>
         </div>
     </div>
@@ -200,9 +206,11 @@ function render_clan_badge(string $clan): string {
         $questionnaire_result = mysqli_query($conn, $questionnaire_query);
         $questionnaire_count = $questionnaire_result ? mysqli_fetch_assoc($questionnaire_result)['total_questions'] : 0;
         ?>
-        <div class="stat-mini text-center">
-            <span class="stat-number"><?php echo $questionnaire_count; ?></span>
-            <span class="stat-label">Questions</span>
+        <div class="card text-center" style="min-width: 100px;">
+            <div class="card-body p-3">
+                <div class="vbn-stat-number"><?php echo $questionnaire_count; ?></div>
+                <div class="vbn-stat-label">Questions</div>
+            </div>
         </div>
         <div class="d-flex align-items-center">
             <a href="questionnaire_admin.php" class="btn btn-outline-danger btn-sm">📝 Manage</a>
@@ -544,12 +552,10 @@ include __DIR__ . '/../includes/modal_base.php';
 .page-btn { padding: 8px 12px; background: rgba(139, 0, 0, 0.2); border: 2px solid rgba(139, 0, 0, 0.4); border-radius: 4px; color: #b8a090; font-family: var(--font-body), 'Source Serif Pro', serif; cursor: pointer; transition: all 0.2s; }
 .page-btn:hover { background: rgba(139, 0, 0, 0.3); border-color: #8B0000; color: #f5e6d3; }
 .page-btn.active { background: linear-gradient(135deg, #8B0000 0%, #600000 100%); border-color: #b30000; color: #f5e6d3; }
-.stat-mini { background: linear-gradient(135deg, #2a1515 0%, #1a0f0f 100%); border: 2px solid #8B0000; border-radius: 5px; padding: 12px 20px; display: flex; flex-direction: column; align-items: center; min-width: 100px; }
-.stat-mini .stat-number { font-family: var(--font-brand), 'IM Fell English', serif; font-size: 1.8em; color: #8B0000; font-weight: bold; }
-.stat-mini .stat-label { font-family: var(--font-body), 'Source Serif Pro', serif; font-size: 0.85em; color: #b8a090; margin-top: 5px; }
+/* Stat styles now use Bootstrap .card component with .vbn-stat-number and .vbn-stat-label classes */
 
 .character-table-wrapper { 
-    background: linear-gradient(135deg, #2a1515 0%, #1a0f0f 100%); 
+    background: radial-gradient(circle at center, rgba(139, 0, 0, 0.4) 0%, rgba(139, 0, 0, 0.2) 40%, rgba(26, 15, 15, 0.6) 100%); 
     border: 2px solid #8B0000; 
     border-radius: 8px; 
     overflow-x: auto; 

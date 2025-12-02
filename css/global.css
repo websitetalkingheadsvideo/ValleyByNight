@@ -17,13 +17,59 @@
 :root {
     --font-body: 'Source Serif Pro', serif;
     --font-brand: 'IM Fell English', serif;
+    --font-brand-sc: 'IM Fell English SC', serif; /* Small Caps variant */
     --font-title: 'Libre Baskerville', serif;
     --bg-dark: #0d0606;
     --bg-darker: #1a0f0f;
     --blood-red: #8B0000;
+    --muted-gold: #d4b06d;
+    --teal-moonlight: #0B3C49;
     --text-light: #f5e6d3;
-    --text-mid: #d4c4b0;
+    --text-mid: #d4b06d; /* Changed to muted gold per Art Bible */
     --text-muted: #b8a090;
+}
+
+/* ===== TABLE STYLES - BLOOD RED RADIAL GRADIENT BACKGROUND ===== */
+/* Art Bible spec: Blood-red gradient background for tables */
+.table-dark,
+.table {
+    background: radial-gradient(circle at center, rgba(139, 0, 0, 0.4) 0%, rgba(139, 0, 0, 0.2) 40%, rgba(26, 15, 15, 0.6) 100%);
+}
+
+.table-dark thead th,
+.table thead th {
+    background: linear-gradient(135deg, #8B0000 0%, #600000 100%);
+    color: var(--text-light);
+}
+
+.table-dark tbody tr,
+.table tbody tr {
+    background: rgba(139, 0, 0, 0.1);
+}
+
+.table-dark tbody tr:hover,
+.table tbody tr:hover {
+    background: rgba(139, 0, 0, 0.2);
+}
+
+/* ===== INFO PANELS - TEAL MOONLIGHT ===== */
+/* Teal moonlight as alternate border and gradient background for info panels */
+.info-panel-teal {
+    background: linear-gradient(135deg, rgba(11, 60, 73, 0.2) 0%, rgba(26, 15, 15, 0.4) 100%);
+    border: 2px solid var(--teal-moonlight);
+    border-radius: 8px;
+    padding: 1.5rem;
+}
+
+.info-panel-teal-border {
+    border: 2px solid var(--teal-moonlight);
+    border-radius: 8px;
+}
+
+.info-panel-teal-gradient {
+    background: linear-gradient(135deg, rgba(11, 60, 73, 0.2) 0%, rgba(26, 15, 15, 0.4) 100%);
+    border-radius: 8px;
+    padding: 1.5rem;
 }
 
 /* ===== BASE RESET ===== */
@@ -52,17 +98,16 @@ body {
 }
 
 /* ===== PAGE WRAPPER & MAIN CONTENT ===== */
+/* Use Bootstrap utilities: .d-flex .flex-column .min-vh-100 */
 .page-wrapper {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
 }
 
+/* Bootstrap utilities handle flex: 1 via .flex-grow-1 if needed */
 .main-wrapper {
     flex: 1;
-    width: 100%;
-    padding: 0;
-    margin: 0;
 }
 
 /* ========================================
@@ -80,20 +125,15 @@ body {
     width: 100%;
 }
 
+/* Bootstrap .container handles max-width and margin: 0 auto */
+/* Bootstrap utilities handle: .d-flex .justify-content-between .align-items-center .gap-4 */
 .header-container {
-    max-width: 1400px;
-    margin: 0 auto;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    gap: 20px;
+    /* Bootstrap utilities now handle layout */
 }
 
 /* ===== LEFT SECTION: Logo + Title ===== */
+/* Bootstrap utilities handle: .d-flex .align-items-center .gap-4 */
 .header-left {
-    display: flex;
-    align-items: center;
-    gap: 20px;
     flex: 1;
 }
 
@@ -132,10 +172,9 @@ body {
     letter-spacing: 2px;
 }
 
+/* Bootstrap utilities handle: .d-flex .flex-column .gap-1 */
 .title-section {
-    display: flex;
-    flex-direction: column;
-    gap: 2px;
+    /* Bootstrap utilities now handle layout */
 }
 
 .site-title {
@@ -172,17 +211,13 @@ body {
 }
 
 /* ===== RIGHT SECTION: User Info + Version ===== */
+/* Bootstrap utilities handle: .d-flex .flex-column .align-items-end .gap-1 */
 .header-right {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-end;
-    gap: 5px;
+    /* Bootstrap utilities now handle layout */
 }
 
+/* Bootstrap utilities handle: .d-flex .align-items-center .gap-2 */
 .user-info {
-    display: flex;
-    align-items: center;
-    gap: 8px;
     background: rgba(139, 0, 0, 0.15);
     padding: 8px 15px;
     border-radius: 5px;
@@ -204,6 +239,7 @@ body {
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8);
 }
 
+/* Use Bootstrap .btn .btn-sm .btn-outline-primary with custom theming */
 .logout-btn {
     font-family: var(--font-body), 'Source Serif Pro', serif;
     font-size: 0.85em;
@@ -236,18 +272,20 @@ body {
 }
 
 /* ===== HEADER RESPONSIVE ===== */
+/* Use Bootstrap responsive utilities where possible */
 @media (max-width: 768px) {
     .valley-header {
         padding: 10px 15px;
     }
     
-    .header-container {
+    /* Bootstrap utilities: .flex-column .align-items-start .gap-3 */
+    .valley-header .container {
         flex-direction: column;
         align-items: flex-start;
         gap: 15px;
     }
     
-    .header-left {
+    .valley-header .container > div:first-child {
         width: 100%;
         gap: 15px;
     }
@@ -269,7 +307,8 @@ body {
         font-size: 0.8em;
     }
     
-    .header-right {
+    /* Bootstrap utilities: .flex-row .justify-content-between .align-items-center */
+    .valley-header .container > div:last-child {
         width: 100%;
         flex-direction: row;
         justify-content: space-between;
@@ -318,10 +357,10 @@ body {
     width: 100%;
 }
 
+/* Bootstrap .container handles max-width and margin: 0 auto */
+/* Bootstrap utilities handle: .d-flex .flex-column .align-items-center .gap-3 */
 .footer-container {
-    max-width: 1400px;
-    /* Bootstrap .container class now handles margin: 0 auto */
-    /* Bootstrap utilities handle: display: flex, flex-direction: column, align-items: center, gap */
+    /* Bootstrap utilities now handle layout */
 }
 
 .footer-content {
@@ -423,7 +462,7 @@ body {
 }
 
 /* ===== PLAYER ACTIONS ===== */
-/* FUTURE: Could use Bootstrap utilities: .d-flex .justify-content-center .gap-4 .mb-5 .flex-wrap */
+/* Bootstrap utilities: .d-flex .justify-content-center .gap-4 .mb-5 .flex-wrap */
 .player-actions {
     display: flex;
     gap: 20px;
@@ -432,6 +471,8 @@ body {
     flex-wrap: wrap;
 }
 
+/* Replace with Bootstrap .btn .btn-primary with custom theming */
+/* Bootstrap utilities: .d-flex .align-items-center .gap-3 .justify-content-center */
 .create-character-btn,
 .quiz-character-btn {
     display: flex;
@@ -481,6 +522,7 @@ body {
 }
 
 /* Mobile responsiveness for player actions */
+/* Bootstrap utilities: .flex-column .align-items-center */
 @media (max-width: 768px) {
     .player-actions {
         flex-direction: column;
@@ -495,6 +537,15 @@ body {
 }
 
 /* ===== MOBILE UTILITY CLASSES ===== */
+/* DEPRECATED: Use Bootstrap responsive utilities instead */
+/* 
+ * Bootstrap Equivalents:
+ * .mobile-only → .d-block .d-md-none (visible on mobile, hidden on md+)
+ * .desktop-only → .d-none .d-md-block (hidden on mobile, visible on md+)
+ * .tablet-only → .d-none .d-md-block .d-lg-none (visible only on tablet)
+ * 
+ * These classes are kept for backward compatibility but should not be used in new code.
+ */
 .mobile-only {
     display: none;
 }
@@ -516,7 +567,8 @@ body {
     justify-content: center;
 }
 
-/* Mobile-first responsive containers */
+/* DEPRECATED: Use Bootstrap .container or .container-fluid instead */
+/* This class is kept for backward compatibility but should not be used in new code. */
 .responsive-container {
     width: 100%;
     max-width: 100%;
@@ -525,6 +577,8 @@ body {
 }
 
 /* Mobile-friendly tables */
+/* Bootstrap .table-responsive handles base responsive table behavior */
+/* Custom border-radius preserved for gothic theme */
 .table-responsive {
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
@@ -560,7 +614,7 @@ body {
     border-radius: 50%;
 }
 
-/* Mobile-friendly forms */
+/* Replace with Bootstrap utilities: .d-flex .flex-column .gap-3 */
 .form-mobile {
     display: flex;
     flex-direction: column;
@@ -571,7 +625,8 @@ body {
     width: 100%;
 }
 
-/* Mobile breakpoints */
+/* DEPRECATED: Mobile breakpoints for legacy utility classes */
+/* Use Bootstrap responsive utilities instead (e.g., .d-none .d-md-block) */
 @media (max-width: 767px) {
     .mobile-only {
         display: block;

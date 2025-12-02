@@ -1,0 +1,285 @@
+/* ========================================
+   Character Creation Page Styles
+   Valley by Night - Art Bible Compliant
+   
+   This file styles the character creation page,
+   including the sidebar with progress tracking
+   and character preview.
+   ======================================== */
+
+/* ===== SIDEBAR STYLES - ART BIBLE COMPLIANT ===== */
+/* Art Bible spec: Dark panel, Gold headings, Parchment text, Soft glow on hover */
+
+.sidebar {
+    background: rgba(26, 15, 15, 0.8); /* Dark panel background */
+    border: 2px solid rgba(139, 0, 0, 0.3);
+    border-radius: 0.75rem; /* Art Bible border radius */
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+}
+
+/* Sidebar Main Heading - Gold per Art Bible */
+.sidebar h3 {
+    font-family: var(--font-brand), 'IM Fell English', serif;
+    color: var(--muted-gold); /* Gold headings (#d4b06d) */
+    font-size: 1.5em;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 2px solid rgba(212, 176, 109, 0.3);
+    text-shadow: 0 0 10px rgba(212, 176, 109, 0.3);
+}
+
+/* ===== XP SUMMARY SECTION ===== */
+.xp-summary {
+    margin-bottom: 1.5rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid rgba(139, 0, 0, 0.2);
+}
+
+/* ===== STAT GROUP SECTIONS ===== */
+.stat-group {
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+    background: rgba(13, 6, 6, 0.3);
+    border-radius: 0.5rem;
+    border: 1px solid rgba(139, 0, 0, 0.2);
+    transition: all 0.3s ease;
+}
+
+/* Soft glow on hover - Art Bible spec */
+.stat-group:hover {
+    box-shadow: 0 0 15px rgba(212, 176, 109, 0.2); /* Soft gold glow */
+    border-color: rgba(212, 176, 109, 0.3);
+}
+
+/* Stat Group Headings - Gold per Art Bible */
+.stat-group h4 {
+    font-family: var(--font-brand), 'IM Fell English', serif;
+    color: var(--muted-gold); /* Gold headings (#d4b06d) */
+    font-size: 1.1em;
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid rgba(212, 176, 109, 0.2);
+    text-shadow: 0 0 8px rgba(212, 176, 109, 0.2);
+}
+
+/* ===== STAT LINE STYLES ===== */
+.stat-line {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem 0;
+    border-bottom: 1px solid rgba(139, 0, 0, 0.1);
+    transition: all 0.2s ease;
+}
+
+.stat-line:last-child {
+    border-bottom: none;
+}
+
+/* Soft glow on hover - Art Bible spec */
+.stat-line:hover {
+    background: rgba(212, 176, 109, 0.05);
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    margin-left: -0.5rem;
+    margin-right: -0.5rem;
+    border-radius: 4px;
+    box-shadow: 0 0 8px rgba(212, 176, 109, 0.15);
+}
+
+/* ===== STAT LABEL - PARCHMENT TEXT ===== */
+.stat-label {
+    font-family: var(--font-title), 'Libre Baskerville', serif;
+    color: var(--text-light); /* Parchment text (#f5e6d3) */
+    font-size: 0.95em;
+    font-weight: 600;
+}
+
+/* ===== STAT VALUE - PARCHMENT TEXT ===== */
+.stat-value {
+    font-family: var(--font-body), 'Source Serif Pro', serif;
+    color: var(--text-light); /* Parchment text (#f5e6d3) */
+    font-size: 1em;
+    font-weight: 600;
+}
+
+/* Negative values - red tint */
+.stat-value.negative {
+    color: #ff6b6b;
+}
+
+/* Positive values - green tint */
+.stat-value.positive {
+    color: #51cf66;
+}
+
+/* Total values - emphasized */
+.stat-value.total {
+    color: var(--muted-gold); /* Gold for totals */
+    font-size: 1.1em;
+    font-weight: 700;
+    text-shadow: 0 0 8px rgba(212, 176, 109, 0.3);
+}
+
+/* ===== CHARACTER PREVIEW SECTION ===== */
+.character-preview {
+    margin-top: 2rem;
+    padding-top: 1.5rem;
+    border-top: 2px solid rgba(139, 0, 0, 0.3);
+}
+
+.preview-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid rgba(139, 0, 0, 0.2);
+}
+
+.preview-header h4 {
+    font-family: var(--font-brand), 'IM Fell English', serif;
+    color: var(--muted-gold); /* Gold headings */
+    font-size: 1.2em;
+    margin: 0;
+    text-shadow: 0 0 8px rgba(212, 176, 109, 0.2);
+}
+
+/* Sheet mode toggle */
+.sheet-mode-toggle {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.toggle-label {
+    font-family: var(--font-body), 'Source Serif Pro', serif;
+    color: var(--text-light);
+    font-size: 0.9em;
+    cursor: pointer;
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+    transition: all 0.2s ease;
+}
+
+.toggle-label:hover {
+    background: rgba(212, 176, 109, 0.1);
+    box-shadow: 0 0 8px rgba(212, 176, 109, 0.15);
+}
+
+.toggle-label input[type="radio"]:checked + .toggle-text {
+    color: var(--muted-gold);
+    font-weight: 600;
+}
+
+/* Preview Card */
+.preview-card {
+    background: linear-gradient(135deg, rgba(42, 21, 21, 0.6) 0%, rgba(26, 15, 15, 0.7) 100%);
+    border: 2px solid rgba(139, 0, 0, 0.4);
+    border-radius: 0.75rem;
+    padding: 1rem;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
+}
+
+.preview-character-header {
+    text-align: center;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+    border-bottom: 2px solid rgba(139, 0, 0, 0.3);
+}
+
+.preview-cash {
+    font-family: var(--font-body), 'Source Serif Pro', serif;
+    color: var(--muted-gold);
+    font-size: 0.9em;
+    margin-bottom: 0.5rem;
+}
+
+.preview-name {
+    font-family: var(--font-brand), 'IM Fell English', serif;
+    color: var(--text-light);
+    font-size: 1.3em;
+    font-weight: 700;
+    margin-bottom: 0.25rem;
+    text-shadow: 0 0 10px rgba(139, 0, 0, 0.3);
+}
+
+.preview-clan {
+    font-family: var(--font-title), 'Libre Baskerville', serif;
+    color: var(--text-mid);
+    font-size: 1em;
+    font-style: italic;
+}
+
+/* Preview Sections */
+.preview-section {
+    margin-bottom: 1rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid rgba(139, 0, 0, 0.15);
+}
+
+.preview-section:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+}
+
+.preview-label {
+    font-family: var(--font-title), 'Libre Baskerville', serif;
+    color: var(--muted-gold); /* Gold labels */
+    font-size: 0.9em;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.preview-traits {
+    font-family: var(--font-body), 'Source Serif Pro', serif;
+    color: var(--text-light); /* Parchment text */
+    font-size: 0.9em;
+    line-height: 1.6;
+}
+
+.preview-trait {
+    display: inline-block;
+    margin-right: 0.5rem;
+    margin-bottom: 0.25rem;
+    padding: 0.25rem 0.5rem;
+    background: rgba(139, 0, 0, 0.2);
+    border-radius: 4px;
+    border: 1px solid rgba(139, 0, 0, 0.3);
+}
+
+/* ===== RESPONSIVE DESIGN ===== */
+@media (max-width: 991px) {
+    .sidebar {
+        margin-bottom: 2rem;
+    }
+    
+    .preview-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.75rem;
+    }
+}
+
+@media (max-width: 576px) {
+    .sidebar {
+        padding: 1rem;
+    }
+    
+    .sidebar h3 {
+        font-size: 1.3em;
+    }
+    
+    .stat-group h4 {
+        font-size: 1em;
+    }
+    
+    .stat-label,
+    .stat-value {
+        font-size: 0.9em;
+    }
+}
+

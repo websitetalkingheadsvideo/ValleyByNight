@@ -567,7 +567,7 @@ if (!empty($pcId)) {
 
 /* Use same styling as character-table from admin_panel.php */
 .character-table-wrapper { 
-    background: linear-gradient(135deg, #2a1515 0%, #1a0f0f 100%); 
+    background: radial-gradient(circle at center, rgba(139, 0, 0, 0.4) 0%, rgba(139, 0, 0, 0.2) 40%, rgba(26, 15, 15, 0.6) 100%); 
     border: 2px solid #8B0000; 
     border-radius: 8px; 
     overflow-x: auto; 

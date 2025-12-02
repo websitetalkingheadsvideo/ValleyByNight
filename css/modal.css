@@ -4,10 +4,17 @@
  * Used across all admin pages and other pages with modals
  */
 
+/* Bootstrap Modal Overrides - Blood Red Radial Gradient Background with Gold Border */
+.modal-content {
+    background: radial-gradient(circle at center, #8B0000 0%, #820000 40%, #1a0f0f 100%) !important;
+    border: 3px solid var(--muted-gold);
+    border-radius: 10px;
+}
+
 /* Bootstrap Modal Overrides with .vbn- prefix */
 .vbn-modal-content {
-    background: linear-gradient(135deg, #2a1515 0%, #1a0f0f 100%);
-    border: 3px solid #8B0000;
+    background: radial-gradient(circle at center, #8B0000 0%, #820000 40%, #1a0f0f 100%);
+    border: 3px solid var(--muted-gold);
     border-radius: 10px;
 }
 
@@ -52,8 +59,8 @@
 }
 
 .modal:not(.fade) .modal-content {
-    background: linear-gradient(135deg, #2a1515 0%, #1a0f0f 100%);
-    border: 3px solid #8B0000;
+    background: radial-gradient(circle at center, #8B0000 0%, #820000 40%, #1a0f0f 100%);
+    border: 3px solid var(--muted-gold);
     border-radius: 10px;
     padding: 30px;
     max-width: 500px;
@@ -198,6 +205,11 @@
 }
 
 /* Form Styles in Modals */
+/* Bootstrap .mb-3 handles form spacing */
+/* Bootstrap .form-label handles label styling (themed in bootstrap-overrides.css) */
+/* Bootstrap .form-control and .form-select handle inputs (themed in bootstrap-overrides.css) */
+/* Bootstrap .row and .col-* handle form-row layout */
+/* Custom modal form styles preserved for backward compatibility with legacy modals */
 .modal .form-group {
     margin-bottom: 20px;
 }
@@ -252,6 +264,7 @@
     resize: vertical;
 }
 
+/* DEPRECATED: Use Bootstrap .row and .col-* instead */
 .modal .form-row {
     display: flex;
     gap: 15px;
