@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VbN Banner Example</title>
+    <link href="https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&family=Libre+Baskerville:wght@400;700&family=Source+Serif+Pro:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --gothic-black: #0d0606;
+            --dusk-brown-black: #1a0f0f;
+            --blood-red: #8B0000;
+            --muted-gold: #d4b06d;
+            --parchment-light: #f5e6d3;
+            --deep-maroon: #2a1515;
+            --teal-moonlight: #0B3C49;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: var(--gothic-black);
+            color: var(--parchment-light);
+            font-family: 'Source Serif Pro', serif;
+            padding: 2rem;
+        }
+
+        .banner-container {
+            max-width: 1920px;
+            margin: 0 auto;
+            position: relative;
+            overflow: hidden;
+            border-radius: 0.75rem;
+            box-shadow: 0 8px 30px rgba(0, 0, 0, 0.8);
+        }
+
+        /* Hero Banner - 1920×1080 aspect ratio */
+        .hero-banner {
+            width: 100%;
+            height: 0;
+            padding-bottom: 56.25%; /* 16:9 aspect ratio (1080/1920) */
+            position: relative;
+            background: linear-gradient(135deg, var(--deep-maroon) 0%, var(--dusk-brown-black) 50%, var(--gothic-black) 100%);
+            overflow: hidden;
+        }
+
+        .banner-content {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 3rem;
+            text-align: center;
+            z-index: 2;
+        }
+
+        /* Vignette overlay for noir effect */
+        .banner-vignette {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: radial-gradient(ellipse at center, transparent 0%, rgba(0, 0, 0, 0.6) 70%, rgba(0, 0, 0, 0.9) 100%);
+            z-index: 1;
+        }
+
+        /* Noise texture overlay (optional) */
+        .banner-noise {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)' opacity='0.05'/%3E%3C/svg%3E");
+            opacity: 0.3;
+            z-index: 1;
+        }
+
+        .banner-title {
+            font-family: 'IM Fell English SC', serif;
+            font-size: clamp(2.5rem, 5vw, 4.5rem);
+            color: var(--blood-red);
+            text-shadow: 
+                2px 2px 8px rgba(0, 0, 0, 0.8),
+                0 0 20px rgba(139, 0, 0, 0.5);
+            margin-bottom: 1rem;
+            letter-spacing: 0.1em;
+            z-index: 3;
+        }
+
+        .banner-subtitle {
+            font-family: 'Libre Baskerville', serif;
+            font-size: clamp(1.2rem, 2.5vw, 2rem);
+            color: var(--parchment-light);
+            text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.8);
+            margin-bottom: 2rem;
+            font-style: italic;
+            z-index: 3;
+        }
+
+        .banner-accent {
+            width: 200px;
+            height: 3px;
+            background: linear-gradient(90deg, transparent, var(--blood-red), var(--muted-gold), var(--blood-red), transparent);
+            margin: 1.5rem auto;
+            box-shadow: 0 0 10px rgba(139, 0, 0, 0.5);
+            z-index: 3;
+        }
+
+        /* Clan-specific banner variant (Toreador example) */
+        .banner-clan-toreador {
+            background: linear-gradient(135deg, 
+                rgba(220, 20, 60, 0.2) 0%, 
+                var(--deep-maroon) 30%, 
+                var(--dusk-brown-black) 70%, 
+                var(--gothic-black) 100%);
+        }
+
+        .banner-clan-toreador::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: 
+                repeating-linear-gradient(
+                    45deg,
+                    transparent,
+                    transparent 2px,
+                    rgba(220, 20, 60, 0.05) 2px,
+                    rgba(220, 20, 60, 0.05) 4px
+                );
+            z-index: 1;
+        }
+
+        /* Example section showing different banner types */
+        .example-section {
+            margin-bottom: 4rem;
+        }
+
+        .example-title {
+            font-family: 'IM Fell English SC', serif;
+            font-size: 2rem;
+            color: var(--blood-red);
+            margin-bottom: 1rem;
+            text-align: center;
+        }
+
+        .example-description {
+            font-family: 'Source Serif Pro', serif;
+            color: var(--parchment-light);
+            margin-bottom: 2rem;
+            text-align: center;
+            opacity: 0.8;
+        }
+    </style>
+</head>
+<body>
+    <div class="example-section">
+        <h2 class="example-title">Standard Hero Banner</h2>
+        <p class="example-description">1920×1080 hero banner with noir aesthetic, gold accents, and vignette overlay</p>
+        
+        <div class="banner-container">
+            <div class="hero-banner">
+                <div class="banner-vignette"></div>
+                <div class="banner-noise"></div>
+                <div class="banner-content">
+                    <h1 class="banner-title">VALLEY BY NIGHT</h1>
+                    <div class="banner-accent"></div>
+                    <p class="banner-subtitle">The Eternal Struggle in the Desert</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="example-section">
+        <h2 class="example-title">Clan-Specific Banner (Toreador)</h2>
+        <p class="example-description">Example with Toreador clan motif: crimson silk texture overlay</p>
+        
+        <div class="banner-container">
+            <div class="hero-banner banner-clan-toreador">
+                <div class="banner-vignette"></div>
+                <div class="banner-noise"></div>
+                <div class="banner-content">
+                    <h1 class="banner-title">TORREADOR PRIMOGEN</h1>
+                    <div class="banner-accent"></div>
+                    <p class="banner-subtitle">Étienne Duvalier - Gallery Master</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+

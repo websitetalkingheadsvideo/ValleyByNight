@@ -46,9 +46,12 @@ include __DIR__ . '/includes/header.php';
 
   <div class="row g-4">
     <div class="col-md-6">
-      <div class="gothic-panel card">
-        <h2 class="h5 text-light mb-3">Update Email</h2>
-        <form action="includes/update_account.php" method="POST" class="needs-validation" novalidate>
+      <div class="card">
+        <div class="card-header">
+          <h2 class="h5 mb-0">Update Email</h2>
+        </div>
+        <div class="card-body">
+          <form action="includes/update_account.php" method="POST" class="needs-validation" novalidate>
           <input type="hidden" name="csrf_token" value="<?php echo htmlspecialchars($csrf_token); ?>">
           <input type="hidden" name="action" value="email">
 
@@ -69,14 +72,18 @@ include __DIR__ . '/includes/header.php';
           </div>
 
           <button type="submit" class="btn btn-primary">Update Email</button>
-        </form>
+          </form>
+        </div>
       </div>
     </div>
 
     <div class="col-md-6">
-      <div class="gothic-panel card">
-        <h2 class="h5 text-light mb-3">Change Password</h2>
-        <form action="includes/update_account.php" method="POST" class="needs-validation" novalidate>
+      <div class="card">
+        <div class="card-header">
+          <h2 class="h5 mb-0">Change Password</h2>
+        </div>
+        <div class="card-body">
+          <form action="includes/update_account.php" method="POST" class="needs-validation" novalidate>
           <input type="hidden" name="csrf_token" value="<?php echo htmlspecialchars($csrf_token); ?>">
           <input type="hidden" name="action" value="password">
           <input type="hidden" name="username" value="<?php echo htmlspecialchars($user['username']); ?>" autocomplete="username">
@@ -100,7 +107,8 @@ include __DIR__ . '/includes/header.php';
           </div>
 
           <button type="submit" class="btn btn-primary">Change Password</button>
-        </form>
+          </form>
+        </div>
       </div>
     </div>
   </div>

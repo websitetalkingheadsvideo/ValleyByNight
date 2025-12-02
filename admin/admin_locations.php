@@ -63,47 +63,75 @@ while ($char = $characters_result->fetch_assoc()) {
 }
 ?>
 
-<div class="admin-locations-container">
-    <h1 class="panel-title">🏠 Locations Database Management</h1>
-    <p class="panel-subtitle">Manage locations database and assign characters to locations</p>
+<div class="container-fluid py-4 px-3 px-md-4">
+    <h1 class="display-5 text-light fw-bold mb-1">🏠 Locations Database Management</h1>
+    <p class="lead text-light fst-italic mb-4">Manage locations database and assign characters to locations</p>
     
     <?php include __DIR__ . '/../includes/admin_header.php'; ?>
     
     <!-- Locations Statistics -->
-    <div class="locations-stats">
-        <div class="stat-mini">
-            <span class="stat-number"><?php echo $stats['total'] ?? 0; ?></span>
-            <span class="stat-label">Total Locations</span>
+    <div class="row g-3 mb-4">
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="card text-center">
+                <div class="card-body">
+                    <div class="vbn-stat-number"><?php echo $stats['total'] ?? 0; ?></div>
+                    <div class="vbn-stat-label">Total Locations</div>
+                </div>
+            </div>
         </div>
-        <div class="stat-mini">
-            <span class="stat-number"><?php echo $stats['havens'] ?? 0; ?></span>
-            <span class="stat-label">Havens</span>
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="card text-center">
+                <div class="card-body">
+                    <div class="vbn-stat-number"><?php echo $stats['havens'] ?? 0; ?></div>
+                    <div class="vbn-stat-label">Havens</div>
+                </div>
+            </div>
         </div>
-        <div class="stat-mini">
-            <span class="stat-number"><?php echo $stats['elysiums'] ?? 0; ?></span>
-            <span class="stat-label">Elysiums</span>
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="card text-center">
+                <div class="card-body">
+                    <div class="vbn-stat-number"><?php echo $stats['elysiums'] ?? 0; ?></div>
+                    <div class="vbn-stat-label">Elysiums</div>
+                </div>
+            </div>
         </div>
-        <div class="stat-mini">
-            <span class="stat-number"><?php echo $stats['domains'] ?? 0; ?></span>
-            <span class="stat-label">Domains</span>
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="card text-center">
+                <div class="card-body">
+                    <div class="vbn-stat-number"><?php echo $stats['domains'] ?? 0; ?></div>
+                    <div class="vbn-stat-label">Domains</div>
+                </div>
+            </div>
         </div>
-        <div class="stat-mini">
-            <span class="stat-number"><?php echo $stats['hunting_grounds'] ?? 0; ?></span>
-            <span class="stat-label">Hunting Grounds</span>
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="card text-center">
+                <div class="card-body">
+                    <div class="vbn-stat-number"><?php echo $stats['hunting_grounds'] ?? 0; ?></div>
+                    <div class="vbn-stat-label">Hunting Grounds</div>
+                </div>
+            </div>
         </div>
-        <div class="stat-mini">
-            <span class="stat-number"><?php echo $stats['nightclubs'] ?? 0; ?></span>
-            <span class="stat-label">Nightclubs</span>
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="card text-center">
+                <div class="card-body">
+                    <div class="vbn-stat-number"><?php echo $stats['nightclubs'] ?? 0; ?></div>
+                    <div class="vbn-stat-label">Nightclubs</div>
+                </div>
+            </div>
         </div>
-        <div class="stat-mini">
-            <span class="stat-number"><?php echo $stats['businesses'] ?? 0; ?></span>
-            <span class="stat-label">Businesses</span>
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="card text-center">
+                <div class="card-body">
+                    <div class="vbn-stat-number"><?php echo $stats['businesses'] ?? 0; ?></div>
+                    <div class="vbn-stat-label">Businesses</div>
+                </div>
+            </div>
         </div>
     </div>
 
     <!-- Filter Controls -->
-    <div class="filter-controls">
-        <div class="filter-buttons">
+    <div class="row gy-3 align-items-center mb-4">
+        <div class="col-12 col-md-auto d-flex flex-wrap gap-2">
             <button class="filter-btn btn btn-outline-danger active" data-filter="all">All Locations</button>
             <button class="filter-btn btn btn-outline-danger" data-filter="havens">Havens</button>
             <button class="filter-btn btn btn-outline-danger" data-filter="elysiums">Elysiums</button>
@@ -112,8 +140,8 @@ while ($char = $characters_result->fetch_assoc()) {
             <button class="filter-btn btn btn-outline-danger" data-filter="nightclubs">Nightclubs</button>
             <button class="filter-btn btn btn-outline-danger" data-filter="businesses">Businesses</button>
         </div>
-        <div class="type-filter">
-            <label for="typeFilter">Type:</label>
+        <div class="col-12 col-md-auto d-flex align-items-center gap-2">
+            <label for="typeFilter" class="text-light text-uppercase small mb-0">Type:</label>
             <select id="typeFilter" class="form-select form-select-sm bg-dark text-light border-danger">
                 <option value="all">All Types</option>
                 <?php foreach ($location_types as $type): ?>
@@ -121,8 +149,8 @@ while ($char = $characters_result->fetch_assoc()) {
                 <?php endforeach; ?>
             </select>
         </div>
-        <div class="status-filter">
-            <label for="statusFilter">Status:</label>
+        <div class="col-12 col-md-auto d-flex align-items-center gap-2">
+            <label for="statusFilter" class="text-light text-uppercase small mb-0">Status:</label>
             <select id="statusFilter" class="form-select form-select-sm bg-dark text-light border-danger">
                 <option value="all">All Status</option>
                 <?php foreach ($location_statuses as $status): ?>
@@ -130,8 +158,8 @@ while ($char = $characters_result->fetch_assoc()) {
                 <?php endforeach; ?>
             </select>
         </div>
-        <div class="owner-filter">
-            <label for="ownerFilter">Owner:</label>
+        <div class="col-12 col-md-auto d-flex align-items-center gap-2">
+            <label for="ownerFilter" class="text-light text-uppercase small mb-0">Owner:</label>
             <select id="ownerFilter" class="form-select form-select-sm bg-dark text-light border-danger">
                 <option value="all">All Owners</option>
                 <?php foreach ($location_owners as $owner): ?>
@@ -139,11 +167,11 @@ while ($char = $characters_result->fetch_assoc()) {
                 <?php endforeach; ?>
             </select>
         </div>
-        <div class="search-box">
+        <div class="col-12 col-lg col-xl-4">
             <input type="text" id="locationSearch" class="form-control form-control-sm bg-dark text-light border-danger" placeholder="🔍 Search by name..." />
         </div>
-        <div class="page-size-control">
-            <label for="pageSize">Per page:</label>
+        <div class="col-12 col-md-auto d-flex align-items-center gap-2">
+            <label for="pageSize" class="text-light text-uppercase small mb-0">Per page:</label>
             <select id="pageSize" class="form-select form-select-sm bg-dark text-light border-danger">
                 <option value="20" selected>20</option>
                 <option value="50">50</option>
@@ -153,15 +181,15 @@ while ($char = $characters_result->fetch_assoc()) {
     </div>
 
     <!-- Add Location Button -->
-    <div style="margin-bottom: 20px;">
-        <button class="modal-btn confirm-btn btn btn-primary" onclick="openAddLocationModal()">
+    <div class="mb-4">
+        <button class="btn btn-primary" onclick="openAddLocationModal()">
             <i class="fas fa-plus"></i> Add New Location
         </button>
     </div>
 
     <!-- Locations Table -->
-    <div class="locations-table-wrapper table-responsive">
-        <table class="locations-table table table-dark table-hover align-middle" id="locationsTable">
+    <div class="table-responsive rounded-3">
+        <table class="table table-dark table-hover align-middle mb-0" id="locationsTable">
             <thead>
                 <tr>
                     <th data-sort="id">ID <span class="sort-icon">⇅</span></th>

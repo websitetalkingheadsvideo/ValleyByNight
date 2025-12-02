@@ -187,13 +187,15 @@ This section consolidates rules from:
 
 # 9. Clan-Specific UI Integration
 
-Clan motifs appear in:
+**Status:** ⏳ **Possible Future Implementation** - Not currently implemented. This feature would add clan-specific visual motifs throughout the UI.
+
+Clan motifs would appear in:
 - modal headers
 - portrait frames
 - banners
 - clan info cards
 
-Each clan gets:
+Each clan would get:
 - Toreador: crimson silk
 - Brujah: cracked concrete
 - Ventrue: marble gold

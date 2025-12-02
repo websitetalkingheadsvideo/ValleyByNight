@@ -28,57 +28,59 @@ if (isset($_SESSION['user_id'])) {
     <link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=IM+Fell+English+SC&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Nosifer&family=Source+Serif+Pro:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400&display=swap" rel="stylesheet">
 </head>
 <body>
-    <div class="login-container d-flex align-items-center justify-content-center min-vh-100">
-        <div class="login-box">
-            <h1 class="login-title">🦇 Join the Chronicle</h1>
-            <p class="login-subtitle">Create your account to enter the night</p>
-            
-            <?php
-            if (isset($_SESSION['error'])) {
-                echo '<div class="login-error" role="alert" aria-live="polite">⚠️ ' . htmlspecialchars($_SESSION['error']) . '</div>';
-                unset($_SESSION['error']);
-            }
-            if (isset($_SESSION['success'])) {
-                echo '<div class="login-success" role="alert" aria-live="polite">✓ ' . htmlspecialchars($_SESSION['success']) . '</div>';
-                unset($_SESSION['success']);
-            }
-            ?>
-            
-            <form action="includes/register_process.php" method="POST" class="login-form d-flex flex-column gap-4 needs-validation" novalidate>
-                <div class="form-group mb-3">
-                    <label for="username" class="form-label">Username</label>
-                    <input type="text" id="username" name="username" class="form-control" required autofocus autocomplete="username" 
-                           minlength="3" maxlength="50"
-                           pattern="[a-zA-Z0-9_]+"
-                           title="Username must be 3-50 characters, letters, numbers, and underscores only">
-                    <div class="invalid-feedback">Username must be 3-50 chars (letters, numbers, underscores).</div>
-                </div>
+    <div class="d-flex align-items-center justify-content-center min-vh-100 p-4">
+        <div class="card" style="max-width: 450px; width: 100%;">
+            <div class="card-body p-4">
+                <h1 class="card-title text-center mb-2">🦇 Join the Chronicle</h1>
+                <p class="text-center text-muted mb-4">Create your account to enter the night</p>
                 
-                <div class="form-group mb-3">
-                    <label for="email" class="form-label">Email Address</label>
-                    <input type="email" id="email" name="email" class="form-control" required autocomplete="email">
-                    <div class="invalid-feedback">Please enter a valid email address.</div>
-                </div>
+                <?php
+                if (isset($_SESSION['error'])) {
+                    echo '<div class="alert alert-danger" role="alert" aria-live="polite">⚠️ ' . htmlspecialchars($_SESSION['error']) . '</div>';
+                    unset($_SESSION['error']);
+                }
+                if (isset($_SESSION['success'])) {
+                    echo '<div class="alert alert-success" role="alert" aria-live="polite">✓ ' . htmlspecialchars($_SESSION['success']) . '</div>';
+                    unset($_SESSION['success']);
+                }
+                ?>
                 
-                <div class="form-group mb-3">
-                    <label for="password" class="form-label">Password</label>
-                    <input type="password" id="password" name="password" class="form-control" required autocomplete="new-password" 
-                           minlength="8"
-                           title="Password must be at least 8 characters">
-                    <div class="invalid-feedback">Password must be at least 8 characters.</div>
-                </div>
+                <form action="includes/register_process.php" method="POST" class="d-flex flex-column gap-3 needs-validation" novalidate>
+                    <div class="mb-3">
+                        <label for="username" class="form-label">Username</label>
+                        <input type="text" id="username" name="username" class="form-control" required autofocus autocomplete="username" 
+                               minlength="3" maxlength="50"
+                               pattern="[a-zA-Z0-9_]+"
+                               title="Username must be 3-50 characters, letters, numbers, and underscores only">
+                        <div class="invalid-feedback">Username must be 3-50 chars (letters, numbers, underscores).</div>
+                    </div>
+                    
+                    <div class="mb-3">
+                        <label for="email" class="form-label">Email Address</label>
+                        <input type="email" id="email" name="email" class="form-control" required autocomplete="email">
+                        <div class="invalid-feedback">Please enter a valid email address.</div>
+                    </div>
+                    
+                    <div class="mb-3">
+                        <label for="password" class="form-label">Password</label>
+                        <input type="password" id="password" name="password" class="form-control" required autocomplete="new-password" 
+                               minlength="8"
+                               title="Password must be at least 8 characters">
+                        <div class="invalid-feedback">Password must be at least 8 characters.</div>
+                    </div>
+                    
+                    <div class="mb-3">
+                        <label for="confirm_password" class="form-label">Confirm Password</label>
+                        <input type="password" id="confirm_password" name="confirm_password" class="form-control" required autocomplete="new-password">
+                        <div class="invalid-feedback">Please confirm your password.</div>
+                    </div>
+                    
+                    <button type="submit" class="btn btn-primary btn-lg">Create Account</button>
+                </form>
                 
-                <div class="form-group mb-3">
-                    <label for="confirm_password" class="form-label">Confirm Password</label>
-                    <input type="password" id="confirm_password" name="confirm_password" class="form-control" required autocomplete="new-password">
-                    <div class="invalid-feedback">Please confirm your password.</div>
+                <div class="mt-4 pt-3 text-center border-top">
+                    <p class="mb-0">Already have an account? <a href="login.php" class="link-primary">Sign In</a></p>
                 </div>
-                
-                <button type="submit" class="login-btn">Create Account</button>
-            </form>
-            
-            <div class="login-links">
-                <p>Already have an account? <a href="login.php" class="link-primary">Sign In</a></p>
             </div>
         </div>
     </div>

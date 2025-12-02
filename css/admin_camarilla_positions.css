@@ -4,71 +4,17 @@
  * Based on admin_locations.css styling patterns
  */
 
-.admin-camarilla-positions-container {
-    max-width: 1600px;
-    margin: 0 auto;
-    padding: 30px 20px;
-}
-
-.panel-title {
-    font-family: var(--font-brand), 'IM Fell English', serif;
-    color: #f5e6d3;
-    font-size: 2.5em;
-    margin-bottom: 10px;
-}
-
-.panel-subtitle {
-    font-family: var(--font-body), 'Source Serif Pro', serif;
-    color: #b8a090;
-    font-size: 1.1em;
-    font-style: italic;
-    margin-bottom: 30px;
-}
-
-/* Filter Controls */
-.filter-controls {
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-    margin-bottom: 25px;
-    gap: 20px;
-    flex-wrap: wrap;
-}
-
-.filter-controls > div {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-}
-
-.filter-controls label {
-    color: #b8a090;
-    font-family: var(--font-body), 'Source Serif Pro', serif;
-    font-size: 0.9em;
-    white-space: nowrap;
-}
-
-.filter-controls .form-select,
-.filter-controls .form-control {
-    min-width: 150px;
-}
-
-.search-box {
-    flex: 1;
-    min-width: 200px;
-}
-
-.search-box .form-control {
-    width: 100%;
-}
-
-/* Positions Table */
-.positions-table-wrapper {
-    margin-bottom: 40px;
-    background: rgba(26, 15, 15, 0.8);
+/* Bootstrap .container-fluid handles container layout */
+/* Bootstrap utilities handle: .display-5 .text-light .fw-bold .mb-1 .lead .fst-italic .mb-4 */
+/* Bootstrap utilities handle: .row .gy-3 .align-items-center .mb-4 .d-flex .flex-wrap .gap-2 */
+/* Filter controls now use Bootstrap utilities */
+/* Bootstrap .table-responsive handles table wrapper */
+.table-responsive.rounded-3 {
+    background: linear-gradient(135deg, #2a1515 0%, #1a0f0f 100%);
+    border: 2px solid #8B0000;
     border-radius: 8px;
     padding: 20px;
-    border: 2px solid rgba(139, 0, 0, 0.3);
+    margin-bottom: 40px;
 }
 
 .positions-table {

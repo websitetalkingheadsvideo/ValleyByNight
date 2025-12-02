@@ -1,6 +1,59 @@
 # Version History
 
-## Current Version: 0.8.19
+## Current Version: 0.8.20
+
+**Date:** 2025-01-30  
+**Type:** Patch (UI Refactoring & Bootstrap Integration)
+
+### Changes:
+- **Dashboard CSS Refactoring** - Complete Bootstrap 5.3.2 integration for dashboard layout
+  - Replaced custom layout code with Bootstrap utilities (`.container`, `.row`, `.g-4`, `.card`)
+  - Added comprehensive comments documenting Bootstrap usage throughout CSS
+  - Maintained existing visual design while leveraging Bootstrap grid system
+  - Improved responsive behavior through Bootstrap responsive utilities
+- **Clan-Specific Hover Effects** - Enhanced character card interactions
+  - Added pulse glow animations for all major clans (Toreador, Brujah, Ventrue, Nosferatu, Malkavian, Setite, Giovanni)
+  - Clan-specific border colors and gradient backgrounds on hover
+  - Individual keyframe animations for each clan's unique visual identity
+  - Enhanced visual feedback for character card interactions
+- **Login & Registration Pages** - Streamlined login and registration interfaces
+  - Integrated Bootstrap form components and utilities
+  - Removed redundant custom CSS in favor of Bootstrap classes (175+ lines removed from login.css)
+  - Improved form layout and spacing using Bootstrap grid
+  - Enhanced accessibility through Bootstrap form validation classes
+- **Admin Interface Updates** - Enhanced admin pages with Bootstrap integration
+  - Admin Equipment: Improved form handling and validation (32 lines changed)
+  - Admin Items: Major refactoring with improved modal handling (118 lines changed)
+  - Admin Locations: Enhanced error handling and modal functionality (108 lines changed)
+  - Admin NPC Briefing: Improved modal interactions (131 lines changed)
+  - Camarilla Positions: CSS cleanup and better Bootstrap integration (93 lines changed, 72 lines removed)
+- **Character Creation System** - Major refactoring for Laws of the Night character creation
+  - Enhanced Bootstrap integration (341 lines changed)
+  - Improved form handling and state management
+  - Better validation and error handling
+  - Enhanced user experience throughout creation process
+- **Global CSS Enhancements** - Added teal moonlight color variable and table styling
+  - Added `--teal-moonlight: #0B3C49` to global CSS variables
+  - Implemented blood-red radial gradient background for tables per Art Bible
+  - Added info panel styling with teal moonlight borders
+- **Banner Example** - Created hero banner example with Art Bible styling
+  - Created `examples/banner_example.html` - Hero banner implementation (206 lines)
+  - Demonstrates 1920×1080 hero banner with vignette overlay and noise texture
+  - Includes standard and clan-specific banner variants
+  - Ready for use as template for future banner implementations
+- **CSS Organization** - Improved code structure and maintainability
+  - Added detailed Bootstrap integration comments throughout CSS files
+  - Documented which Bootstrap utilities replace custom CSS
+  - Clear separation between custom styling and Bootstrap components
+  - Reduced code duplication through Bootstrap utility adoption
+- **Questionnaire & Account Pages** - Enhanced with Bootstrap integration
+  - Questionnaire: Improved form handling and validation (102 lines changed)
+  - Account: Better Bootstrap integration and improved layout (24 lines changed)
+- **Art Bible Documentation** - Minor documentation refinements
+  - Updated Art Bible documentation with current implementation details
+  - Clarified implementation status and design decisions
+
+## Previous Version: 0.8.19
 
 **Date:** 2025-01-30  
 **Type:** Patch (Art Bible Implementation & Sidebar Styling)

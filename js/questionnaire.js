@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Animate first question category
     setTimeout(() => {
-        const firstCategory = document.querySelector('.question-section.active .question-category');
+        const firstCategory = document.querySelector('.question-section.active .badge');
         if (firstCategory) {
             firstCategory.classList.add('animate-in');
         }
@@ -107,8 +107,8 @@ function handleAnswerChange(event) {
     const currentSection = selectedRadio.closest('.question-section');
     if (currentSection) {
         // Remove previous selection highlight in this section
-        currentSection.querySelectorAll('.answer-option.selected').forEach(el => el.classList.remove('selected'));
-        const optionLabel = selectedRadio.closest('.answer-option');
+        currentSection.querySelectorAll('.form-check.selected').forEach(el => el.classList.remove('selected'));
+        const optionLabel = selectedRadio.closest('.form-check');
         if (optionLabel) {
             optionLabel.classList.add('selected');
         }
@@ -138,6 +138,7 @@ function nextQuestion() {
         // Wait for fade out, then move to next question
         setTimeout(() => {
             currentSection.classList.remove('active', 'fade-out');
+            currentSection.classList.add('d-none');
             
             // Move to next question
             currentQuestion++;
@@ -146,9 +147,10 @@ function nextQuestion() {
                 const nextSection = document.querySelector(`[data-question="${currentQuestion}"]`);
                 if (nextSection) {
                     nextSection.classList.add('active');
+                    nextSection.classList.remove('d-none');
                     
                     // Animate category entry with delay
-                    const categoryElement = nextSection.querySelector('.question-category');
+                    const categoryElement = nextSection.querySelector('.badge');
                     if (categoryElement) {
                         setTimeout(() => {
                             categoryElement.classList.add('animate-in');
@@ -194,6 +196,7 @@ function updateProgress() {
     if (progressFill) {
         const progressPercent = (currentQuestion / totalQuestions) * 100;
         progressFill.style.width = `${progressPercent}%`;
+        progressFill.setAttribute('aria-valuenow', Math.round(progressPercent));
     }
     
     if (currentQuestionSpan) {
@@ -412,7 +415,7 @@ function showResults() {
     // Show results section with fade in (ensure hidden attribute is removed)
     resultsSection.hidden = false;
     resultsSection.removeAttribute('hidden');
-    resultsSection.style.display = 'block';
+    resultsSection.classList.remove('d-none');
     setTimeout(() => {
         resultsSection.classList.add('active');
     }, 100);
@@ -530,7 +533,7 @@ function showTestClanResults(clan) {
     if (resultsSection) {
         resultsSection.hidden = false;
         resultsSection.removeAttribute('hidden');
-        resultsSection.style.display = 'block';
+        resultsSection.classList.remove('d-none');
         resultsSection.classList.add('active');
         
         // Set clan data

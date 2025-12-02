@@ -18,22 +18,34 @@ require_once __DIR__ . '/../includes/connect.php';
 include __DIR__ . '/../includes/header.php';
 ?>
 
-<div class="admin-panel-container">
-    <h1 class="panel-title">📋 NPC Agent Briefing</h1>
-    <p class="panel-subtitle">Quick reference for playing NPCs in sessions</p>
+<div class="container-fluid py-4 px-3 px-md-4">
+    <h1 class="display-5 text-light fw-bold mb-1">📋 NPC Agent Briefing</h1>
+    <p class="lead text-light fst-italic mb-4">Quick reference for playing NPCs in sessions</p>
     
     <!-- Admin Navigation -->
-    <nav class="admin-nav" aria-label="Admin Navigation">
-        <a href="admin_panel.php" class="nav-btn">👥 Characters</a>
-        <a href="admin_sire_childe.php" class="nav-btn">🧛 Sire/Childe</a>
-        <a href="admin_equipment.php" class="nav-btn">⚔️ Equipment</a>
-        <a href="admin_locations.php" class="nav-btn">📍 Locations</a>
-        <a href="questionnaire_admin.php" class="nav-btn">📝 Questionnaire</a>
-        <a href="admin_npc_briefing.php" class="nav-btn active">📋 NPC Briefing</a>
+    <nav class="row g-2 g-md-3 mb-4" aria-label="Admin Navigation">
+        <div class="col-12 col-sm-6 col-md-4 col-lg">
+            <a href="admin_panel.php" class="nav-btn btn btn-outline-danger btn-sm w-100 text-center">👥 Characters</a>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg">
+            <a href="admin_sire_childe.php" class="nav-btn btn btn-outline-danger btn-sm w-100 text-center">🧛 Sire/Childe</a>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg">
+            <a href="admin_equipment.php" class="nav-btn btn btn-outline-danger btn-sm w-100 text-center">⚔️ Equipment</a>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg">
+            <a href="admin_locations.php" class="nav-btn btn btn-outline-danger btn-sm w-100 text-center">📍 Locations</a>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg">
+            <a href="questionnaire_admin.php" class="nav-btn btn btn-outline-danger btn-sm w-100 text-center">📝 Questionnaire</a>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg">
+            <a href="admin_npc_briefing.php" class="nav-btn btn btn-outline-danger btn-sm w-100 text-center active">📋 NPC Briefing</a>
+        </div>
     </nav>
     
     <!-- NPC Statistics -->
-    <div class="character-stats">
+    <div class="row g-3 mb-4">
     <?php
         $stats_query = "SELECT 
             COUNT(*) as total,
@@ -50,24 +62,36 @@ include __DIR__ . '/../includes/header.php';
             echo "<p style='color: red;'>Stats query error: " . mysqli_error($conn) . "</p>";
         }
         ?>
-        <div class="stat-mini">
-            <span class="stat-number"><?php echo $stats['total'] ?? 0; ?></span>
-            <span class="stat-label">Total NPCs</span>
+        <div class="col-12 col-sm-4 col-lg-3">
+            <div class="card text-center">
+                <div class="card-body">
+                    <div class="vbn-stat-number"><?php echo $stats['total'] ?? 0; ?></div>
+                    <div class="vbn-stat-label">Total NPCs</div>
+                </div>
+            </div>
         </div>
-        <div class="stat-mini">
-            <span class="stat-number"><?php echo $stats['active'] ?? 0; ?></span>
-            <span class="stat-label">Active</span>
+        <div class="col-12 col-sm-4 col-lg-3">
+            <div class="card text-center">
+                <div class="card-body">
+                    <div class="vbn-stat-number"><?php echo $stats['active'] ?? 0; ?></div>
+                    <div class="vbn-stat-label">Active</div>
+                </div>
+            </div>
         </div>
-        <div class="stat-mini">
-            <span class="stat-number"><?php echo $stats['retired'] ?? 0; ?></span>
-            <span class="stat-label">Retired</span>
+        <div class="col-12 col-sm-4 col-lg-3">
+            <div class="card text-center">
+                <div class="card-body">
+                    <div class="vbn-stat-number"><?php echo $stats['retired'] ?? 0; ?></div>
+                    <div class="vbn-stat-label">Retired</div>
+                </div>
+            </div>
         </div>
     </div>
 
     <!-- Filter Controls -->
-    <div class="filter-controls">
-        <div class="clan-filter">
-            <label for="clanFilter">Filter by Clan:</label>
+    <div class="row gy-3 align-items-center mb-4">
+        <div class="col-12 col-md-auto d-flex align-items-center gap-2">
+            <label for="clanFilter" class="text-light text-uppercase small mb-0">Filter by Clan:</label>
             <select id="clanFilter" class="form-select form-select-sm bg-dark text-light border-danger">
                 <option value="all">All Clans</option>
                 <option value="Assamite">Assamite</option>
@@ -88,11 +112,11 @@ include __DIR__ . '/../includes/header.php';
                 <option value="Ghoul">Ghoul</option>
             </select>
         </div>
-        <div class="search-box">
+        <div class="col-12 col-lg col-xl-4">
             <input type="text" id="characterSearch" class="form-control form-control-sm bg-dark text-light border-danger" placeholder="🔍 Search by name..." />
         </div>
-        <div class="page-size-control">
-            <label for="pageSize">Per page:</label>
+        <div class="col-12 col-md-auto d-flex align-items-center gap-2">
+            <label for="pageSize" class="text-light text-uppercase small mb-0">Per page:</label>
             <select id="pageSize" class="form-select form-select-sm bg-dark text-light border-danger">
                 <option value="20" selected>20</option>
                 <option value="50">50</option>
@@ -102,8 +126,8 @@ include __DIR__ . '/../includes/header.php';
     </div>
 
     <!-- Character Table -->
-    <div class="character-table-wrapper">
-        <table class="character-table table table-dark table-hover align-middle" id="characterTable">
+    <div class="table-responsive rounded-3">
+        <table class="table table-dark table-hover align-middle mb-0" id="characterTable">
             <thead>
                 <tr>
                     <th data-sort="id">ID <span class="sort-icon">⇅</span></th>
@@ -145,13 +169,15 @@ include __DIR__ . '/../includes/header.php';
                             <span class="<?php echo $badge_class; ?>"><?php echo $status_display; ?></span>
                         </td>
                         <td><?php echo date('M j, Y', strtotime($char['created_at'])); ?></td>
-                        <td class="actions">
-                            <button class="action-btn briefing-btn" 
-                                    data-id="<?php echo $char['id']; ?>"
-                                    title="View Agent Briefing">📋</button>
-                            <button class="action-btn edit-btn" 
-                                    data-id="<?php echo $char['id']; ?>"
-                                    title="Edit Notes">✏️</button>
+                        <td class="text-center">
+                            <div class="d-flex gap-2 justify-content-center">
+                                <button class="btn btn-sm btn-outline-primary briefing-btn" 
+                                        data-id="<?php echo $char['id']; ?>"
+                                        title="View Agent Briefing">📋</button>
+                                <button class="btn btn-sm btn-outline-warning edit-btn" 
+                                        data-id="<?php echo $char['id']; ?>"
+                                        title="Edit Notes">✏️</button>
+                            </div>
                         </td>
                     </tr>
                 <?php 
@@ -253,11 +279,13 @@ include __DIR__ . '/../includes/header.php';
 .page-btn.active { background: linear-gradient(135deg, #8B0000 0%, #600000 100%); border-color: #b30000; color: #f5e6d3; }
 
 .character-stats { display: flex; gap: 15px; margin-bottom: 25px; flex-wrap: wrap; }
-.stat-mini { background: linear-gradient(135deg, #2a1515 0%, #1a0f0f 100%); border: 2px solid #8B0000; border-radius: 5px; padding: 12px 20px; display: flex; flex-direction: column; align-items: center; min-width: 100px; }
-.stat-mini .stat-number { font-family: var(--font-brand), 'IM Fell English', serif; font-size: 1.8em; color: #8B0000; font-weight: bold; }
-.stat-mini .stat-label { font-family: var(--font-body), 'Source Serif Pro', serif; font-size: 0.85em; color: #b8a090; margin-top: 5px; }
-
-.character-table-wrapper { background: linear-gradient(135deg, #2a1515 0%, #1a0f0f 100%); border: 2px solid #8B0000; border-radius: 8px; overflow: hidden; }
+/* Bootstrap .card component handles stat cards (themed in bootstrap-overrides.css) */
+/* Bootstrap .table-responsive handles table wrapper */
+.table-responsive.rounded-3 {
+    background: linear-gradient(135deg, #2a1515 0%, #1a0f0f 100%);
+    border: 2px solid #8B0000;
+    border-radius: 8px;
+}
 .character-table { width: 100%; border-collapse: collapse; }
 .character-table thead { background: linear-gradient(135deg, #8B0000 0%, #600000 100%); }
 .character-table th { padding: 15px 12px; text-align: left; font-family: var(--font-title), 'Libre Baskerville', serif; color: #f5e6d3; font-weight: 700; cursor: pointer; user-select: none; }
@@ -279,13 +307,22 @@ include __DIR__ . '/../includes/header.php';
 .badge-dead { background: #3a3a3a; color: #999; padding: 4px 10px; border-radius: 4px; font-size: 0.85em; font-weight: bold; }
 .badge-missing { background: #5a4a2a; color: #f5e6d3; padding: 4px 10px; border-radius: 4px; font-size: 0.85em; font-weight: bold; }
 
-.actions { display: flex; gap: 8px; justify-content: center; }
-.action-btn { display: inline-flex; align-items: center; justify-content: center; width: 32px; height: 32px; border-radius: 4px; text-decoration: none; font-size: 1.1em; cursor: pointer; background: rgba(139, 0, 0, 0.2); border: 1px solid rgba(139, 0, 0, 0.4); transition: all 0.2s; }
-.action-btn:hover { background: rgba(139, 0, 0, 0.4); transform: scale(1.1); }
-.briefing-btn { background: rgba(100, 50, 200, 0.2); border-color: rgba(100, 50, 200, 0.4); }
-.briefing-btn:hover { background: rgba(100, 50, 200, 0.4); }
-.edit-btn { background: rgba(139, 100, 0, 0.2); border-color: rgba(139, 100, 0, 0.4); }
-.edit-btn:hover { background: rgba(139, 100, 0, 0.4); }
+/* Bootstrap .btn handles action buttons */
+/* Custom theming for briefing and edit buttons preserved */
+.briefing-btn { 
+    background: rgba(100, 50, 200, 0.2); 
+    border-color: rgba(100, 50, 200, 0.4); 
+}
+.briefing-btn:hover { 
+    background: rgba(100, 50, 200, 0.4); 
+}
+.edit-btn { 
+    background: rgba(139, 100, 0, 0.2); 
+    border-color: rgba(139, 100, 0, 0.4); 
+}
+.edit-btn:hover { 
+    background: rgba(139, 100, 0, 0.4); 
+}
 .empty-state { text-align: center; padding: 40px; color: #b8a090; font-style: italic; }
 
 .modal { display: none; position: fixed; z-index: 9999; left: 0; top: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.8); align-items: center; justify-content: center; }

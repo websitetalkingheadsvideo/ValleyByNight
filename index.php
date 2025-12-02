@@ -63,69 +63,89 @@ include 'includes/header.php';
                 $stats_result = mysqli_query($conn, $stats_query);
                 $stats = mysqli_fetch_assoc($stats_result);
                 ?>
-                <div class="vbn-stat-card card col-md-4 col-sm-6">
-                    <div class="vbn-stat-number"><?php echo $stats['total'] ?? 0; ?></div>
-                    <div class="vbn-stat-label">Total Characters</div>
+                <div class="card col-md-4 col-sm-6">
+                    <div class="card-body text-center">
+                        <div class="vbn-stat-number"><?php echo $stats['total'] ?? 0; ?></div>
+                        <div class="vbn-stat-label">Total Characters</div>
+                    </div>
                 </div>
-                <div class="vbn-stat-card card col-md-4 col-sm-6">
-                    <div class="vbn-stat-number"><?php echo $stats['pcs'] ?? 0; ?></div>
-                    <div class="vbn-stat-label">Player Characters</div>
+                <div class="card col-md-4 col-sm-6">
+                    <div class="card-body text-center">
+                        <div class="vbn-stat-number"><?php echo $stats['pcs'] ?? 0; ?></div>
+                        <div class="vbn-stat-label">Player Characters</div>
+                    </div>
                 </div>
-                <div class="vbn-stat-card card col-md-4 col-sm-6">
-                    <div class="vbn-stat-number"><?php echo $stats['npcs'] ?? 0; ?></div>
-                    <div class="vbn-stat-label">NPCs</div>
+                <div class="card col-md-4 col-sm-6">
+                    <div class="card-body text-center">
+                        <div class="vbn-stat-number"><?php echo $stats['npcs'] ?? 0; ?></div>
+                        <div class="vbn-stat-label">NPCs</div>
+                    </div>
                 </div>
             </div>
             
             <!-- Admin Actions -->
             <nav aria-label="Admin Actions">
-            <div class="action-grid row g-4 mb-5">
-                <div class="vbn-action-card card col-md-4 col-sm-6">
-                    <div class="vbn-card-icon" aria-hidden="true">🧪</div>
-                    <h3>Clan Discovery Quiz</h3>
-                    <p>Test the character creation questionnaire</p>
-                    <a href="questionnaire.php" class="btn btn-primary">Take Quiz</a>
+            <div class="row g-4 mb-5">
+                <div class="card col-md-4 col-sm-6">
+                    <div class="card-body text-center">
+                        <div class="vbn-card-icon" aria-hidden="true">🧪</div>
+                        <h3 class="card-title">Clan Discovery Quiz</h3>
+                        <p class="card-text">Test the character creation questionnaire</p>
+                        <a href="questionnaire.php" class="btn btn-primary">Take Quiz</a>
+                    </div>
                 </div>
-                <div class="vbn-action-card card col-md-4 col-sm-6">
-                    <div class="vbn-card-icon" aria-hidden="true">🤖</div>
-                    <h3>Agents Dashboard</h3>
-                    <p>Monitor automation helpers and review agent activity</p>
-                    <a href="admin/agents.php" class="btn btn-primary">Open Agents</a>
+                <div class="card col-md-4 col-sm-6">
+                    <div class="card-body text-center">
+                        <div class="vbn-card-icon" aria-hidden="true">🤖</div>
+                        <h3 class="card-title">Agents Dashboard</h3>
+                        <p class="card-text">Monitor automation helpers and review agent activity</p>
+                        <a href="admin/agents.php" class="btn btn-primary">Open Agents</a>
+                    </div>
                 </div>
-                <div class="vbn-action-card card col-md-4 col-sm-6">
-                    <div class="vbn-card-icon" aria-hidden="true">📜</div>
-                    <h3>Character List</h3>
-                    <p>View, edit, and delete characters</p>
-                    <a href="admin/admin_panel.php" class="btn btn-primary">View Characters</a>
+                <div class="card col-md-4 col-sm-6">
+                    <div class="card-body text-center">
+                        <div class="vbn-card-icon" aria-hidden="true">📜</div>
+                        <h3 class="card-title">Character List</h3>
+                        <p class="card-text">View, edit, and delete characters</p>
+                        <a href="admin/admin_panel.php" class="btn btn-primary">View Characters</a>
+                    </div>
                 </div>
-                <div class="vbn-action-card card col-md-4 col-sm-6">
-                    <div class="vbn-card-icon" aria-hidden="true">✨</div>
-                    <h3>Create Character</h3>
-                    <p>Bring a new kindred into the world</p>
-                    <a href="lotn_char_create.php" class="btn btn-primary">Create New</a>
+                <div class="card col-md-4 col-sm-6">
+                    <div class="card-body text-center">
+                        <div class="vbn-card-icon" aria-hidden="true">✨</div>
+                        <h3 class="card-title">Create Character</h3>
+                        <p class="card-text">Bring a new kindred into the world</p>
+                        <a href="lotn_char_create.php" class="btn btn-primary">Create New</a>
+                    </div>
                 </div>
 
-                <div class="vbn-action-card card col-md-4 col-sm-6">
-                    <div class="vbn-card-icon" aria-hidden="true">📍</div>
-                    <h3>Locations Database</h3>
-                    <p>Manage game locations and character assignments</p>
-                    <a href="admin/admin_locations.php" class="btn btn-primary">Manage Locations</a>
+                <div class="card col-md-4 col-sm-6">
+                    <div class="card-body text-center">
+                        <div class="vbn-card-icon" aria-hidden="true">📍</div>
+                        <h3 class="card-title">Locations Database</h3>
+                        <p class="card-text">Manage game locations and character assignments</p>
+                        <a href="admin/admin_locations.php" class="btn btn-primary">Manage Locations</a>
+                    </div>
                 </div>
 
-                <div class="vbn-action-card card col-md-4 col-sm-6">
-                    <div class="vbn-card-icon" aria-hidden="true">🧰</div>
-                    <h3>Items Database</h3>
-                    <p>Manage equipment and artifacts</p>
-                    <a href="admin/admin_items.php" class="btn btn-primary">Manage Items</a>
+                <div class="card col-md-4 col-sm-6">
+                    <div class="card-body text-center">
+                        <div class="vbn-card-icon" aria-hidden="true">🧰</div>
+                        <h3 class="card-title">Items Database</h3>
+                        <p class="card-text">Manage equipment and artifacts</p>
+                        <a href="admin/admin_items.php" class="btn btn-primary">Manage Items</a>
+                    </div>
                 </div>
 
                 
 
-                <div class="vbn-action-card card disabled col-md-4 col-sm-6">
-                    <div class="vbn-card-icon">📖</div>
-                    <h3>AI Plots Manager</h3>
-                    <p>Coming soon: Weave storylines with AI</p>
-                    <span class="vbn-gothic-button-disabled">Coming Soon</span>
+                <div class="card col-md-4 col-sm-6 disabled opacity-50">
+                    <div class="card-body text-center">
+                        <div class="vbn-card-icon">📖</div>
+                        <h3 class="card-title">AI Plots Manager</h3>
+                        <p class="card-text">Coming soon: Weave storylines with AI</p>
+                        <span class="vbn-gothic-button-disabled">Coming Soon</span>
+                    </div>
                 </div>
             </div>
             </nav>
@@ -142,10 +162,12 @@ include 'includes/header.php';
             </div>
             
             <!-- Chronicle Summary -->
-            <div class="chronicle-summary">
-                <div class="gothic-panel card">
-                    <h2 class="chronicle-title">The Chronicle Begins</h2>
-                    <p class="chronicle-text"><?php echo htmlspecialchars($chronicle_summary); ?></p>
+            <div class="chronicle-summary mb-5">
+                <div class="card">
+                    <div class="card-body">
+                        <h2 class="chronicle-title card-title text-center">The Chronicle Begins</h2>
+                        <p class="chronicle-text card-text"><?php echo htmlspecialchars($chronicle_summary); ?></p>
+                    </div>
                 </div>
             </div>
             
@@ -154,15 +176,15 @@ include 'includes/header.php';
             
             <!-- Player Actions -->
             <nav aria-label="Player Actions">
-            <div class="player-actions">
-                <a href="lotn_char_create.php" class="create-character-btn">
+            <div class="d-flex justify-content-center gap-4 mb-5 flex-wrap">
+                <a href="lotn_char_create.php" class="btn btn-primary btn-lg d-flex align-items-center gap-3">
                     <span class="btn-icon">✏️</span>
-                    <span class="btn-text">Create New Character</span>
+                    <span>Create New Character</span>
                 </a>
                 
-                <a href="questionnaire.php" class="quiz-character-btn">
+                <a href="questionnaire.php" class="btn btn-primary btn-lg d-flex align-items-center gap-3" style="background: linear-gradient(135deg, #4B0082 0%, #2E0854 100%); border-color: #4B0082;">
                     <span class="btn-icon">🌟</span>
-                    <span class="btn-text">Discover Your Clan</span>
+                    <span>Discover Your Clan</span>
                 </a>
             </div>
             </nav>
@@ -183,27 +205,58 @@ include 'includes/header.php';
                 $char_result = mysqli_stmt_get_result($stmt);
                 
                 if (mysqli_num_rows($char_result) > 0):
+                    // Helper function to convert clan name to CSS class
+                    function getClanClass($clan_name) {
+                        if (empty($clan_name)) return '';
+                        $normalized = strtolower(trim($clan_name));
+                        // Handle special cases
+                        $mapping = [
+                            'followers of set' => 'setite',
+                            'setite' => 'setite',
+                            'toreador' => 'toreador',
+                            'brujah' => 'brujah',
+                            'ventrue' => 'ventrue',
+                            'nosferatu' => 'nosferatu',
+                            'malkavian' => 'malkavian',
+                            'giovanni' => 'giovanni',
+                            'gangrel' => 'gangrel',
+                            'tremere' => 'tremere',
+                            'assamite' => 'assamite',
+                            'banu haqim' => 'assamite',
+                            'lasombra' => 'lasombra',
+                            'tzimisce' => 'tzimisce',
+                            'ravnos' => 'ravnos',
+                        ];
+                        if (isset($mapping[$normalized])) {
+                            return 'clan-' . $mapping[$normalized];
+                        }
+                        // Default: convert to lowercase, replace spaces with hyphens
+                        return 'clan-' . preg_replace('/[^a-z0-9]+/', '-', $normalized);
+                    }
                     while ($character = mysqli_fetch_assoc($char_result)):
+                        $clan_class = getClanClass($character['clan_name'] ?? '');
                 ?>
-                    <div class="vbn-character-card card">
-                        <div class="vbn-character-header d-flex justify-content-between align-items-center gap-2 flex-wrap">
-                            <h4 class="vbn-character-name d-flex align-items-center gap-2">
-                                <?php echo htmlspecialchars($character['character_name']); ?>
-                                <?php if ($character['status'] == 'draft'): ?>
-                                    <span class="vbn-badge-draft">DRAFT</span>
-                                <?php endif; ?>
-                            </h4>
-                            <span class="vbn-character-clan"><?php echo htmlspecialchars($character['clan_name']); ?></span>
-                        </div>
-                        <div class="vbn-character-details">
-                            <p class="vbn-character-concept">
-                                <strong>Concept:</strong> <?php echo htmlspecialchars($character['concept'] ?? 'Unknown'); ?>
-                            </p>
-                        </div>
-                        <div class="vbn-character-actions">
-                            <a href="character_sheet.php?id=<?php echo $character['id']; ?>" class="btn btn-secondary">
-                                View/Edit
-                            </a>
+                    <div class="card mb-4 <?php echo htmlspecialchars($clan_class); ?>">
+                        <div class="card-body">
+                            <div class="d-flex justify-content-between align-items-center gap-2 flex-wrap mb-3">
+                                <h4 class="card-title d-flex align-items-center gap-2 mb-0">
+                                    <?php echo htmlspecialchars($character['character_name']); ?>
+                                    <?php if ($character['status'] == 'draft'): ?>
+                                        <span class="badge bg-warning text-dark">DRAFT</span>
+                                    <?php endif; ?>
+                                </h4>
+                                <span class="vbn-character-clan"><?php echo htmlspecialchars($character['clan_name']); ?></span>
+                            </div>
+                            <div class="mb-3">
+                                <p class="card-text mb-0">
+                                    <strong>Concept:</strong> <?php echo htmlspecialchars($character['concept'] ?? 'Unknown'); ?>
+                                </p>
+                            </div>
+                            <div class="text-end">
+                                <a href="character_sheet.php?id=<?php echo $character['id']; ?>" class="btn btn-secondary">
+                                    View/Edit
+                                </a>
+                            </div>
                         </div>
                     </div>
                 <?php 

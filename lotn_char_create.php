@@ -352,65 +352,73 @@ if (!$isModal) {
             <input type="hidden" id="imagePath" name="imagePath" value="">
             <!-- Tab 1: Basic Info -->
             <div class="tab-content active" id="basicTab">
-                <div class="tab-card">
+                <div class="card">
                     <div class="card-header">
                         <div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
                             <div>
                                 <h2 class="card-title">Basic Information</h2>
                                 <p class="card-subtitle">Essential character details and background</p>
                             </div>
-                            <div class="form-group" style="margin: 0; min-width: 200px;">
-                                <div class="checkbox-group form-check">
+                            <div class="mb-0" style="min-width: 200px;">
+                                <div class="form-check">
                                     <input type="checkbox" id="pc" name="pc" class="form-check-input" checked>
-                                    <label for="pc" class="form-check-label" style="margin: 0;">Player Character (PC)</label>
+                                    <label for="pc" class="form-check-label mb-0">Player Character (PC)</label>
                                 </div>
                                 <div class="helper-text">Uncheck if this is an NPC</div>
                             </div>
                         </div>
                     </div>
-                
+                    <div class="card-body">
                 <!-- Character Info Header (2-column layout) -->
                 <div class="character-info-header">
                     <div class="character-info-left">
-                        <div class="form-row">
-                            <div class="form-group">
-                                <label for="characterName">Character Name *</label>
-                                <input type="text" id="characterName" name="characterName" class="form-control" required>
+                        <div class="row g-3">
+                            <div class="col-md-6">
+                                <div class="mb-3">
+                                    <label for="characterName" class="form-label">Character Name *</label>
+                                    <input type="text" id="characterName" name="characterName" class="form-control" required>
+                                </div>
                             </div>
                             
-                            <div class="form-group">
-                                <label for="playerName">Player Name *</label>
-                                <input type="text" id="playerName" name="playerName" class="form-control" required>
+                            <div class="col-md-6">
+                                <div class="mb-3">
+                                    <label for="playerName" class="form-label">Player Name *</label>
+                                    <input type="text" id="playerName" name="playerName" class="form-control" required>
+                                </div>
                             </div>
                         </div>
                         
-                        <div class="form-group">
-                            <label for="chronicle">Chronicle</label>
+                        <div class="mb-3">
+                            <label for="chronicle" class="form-label">Chronicle</label>
                             <input type="text" id="chronicle" name="chronicle" class="form-control" value="Valley by Night">
                             <div class="helper-text">Name of the campaign/game</div>
                         </div>
 
-                        <div class="form-row">
-                            <div class="form-group">
-                                <label for="currentState">Character Status</label>
-                                <select id="currentState" name="currentState" class="form-select">
-                                    <option value="active" selected>Active</option>
-                                    <option value="inactive">Inactive</option>
-                                    <option value="archived">Archived</option>
-                                </select>
-                                <div class="helper-text">Controls whether this character appears in active rosters.</div>
+                        <div class="row g-3">
+                            <div class="col-md-6">
+                                <div class="mb-3">
+                                    <label for="currentState" class="form-label">Character Status</label>
+                                    <select id="currentState" name="currentState" class="form-select">
+                                        <option value="active" selected>Active</option>
+                                        <option value="inactive">Inactive</option>
+                                        <option value="archived">Archived</option>
+                                    </select>
+                                    <div class="helper-text">Controls whether this character appears in active rosters.</div>
+                                </div>
                             </div>
 
-                            <div class="form-group">
-                                <label for="camarillaStatus">Sect Alignment</label>
-                                <select id="camarillaStatus" name="camarillaStatus" class="form-select">
-                                    <option value="Unknown" selected>Unknown</option>
-                                    <option value="Camarilla">Camarilla</option>
-                                    <option value="Anarch">Anarch</option>
-                                    <option value="Independent">Independent</option>
-                                    <option value="Sabbat">Sabbat</option>
-                                </select>
-                                <div class="helper-text">Tracks faction allegiance for reports and filters.</div>
+                            <div class="col-md-6">
+                                <div class="mb-3">
+                                    <label for="camarillaStatus" class="form-label">Sect Alignment</label>
+                                    <select id="camarillaStatus" name="camarillaStatus" class="form-select">
+                                        <option value="Unknown" selected>Unknown</option>
+                                        <option value="Camarilla">Camarilla</option>
+                                        <option value="Anarch">Anarch</option>
+                                        <option value="Independent">Independent</option>
+                                        <option value="Sabbat">Sabbat</option>
+                                    </select>
+                                    <div class="helper-text">Tracks faction allegiance for reports and filters.</div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -440,91 +448,99 @@ if (!$isModal) {
                     </div>
                 </div>
                 
-                <div class="form-row">
-                    <div class="form-group">
-                        <div style="display: flex; align-items: center; gap: 10px;">
-                            <label for="clan" style="margin: 0;">Clan *</label>
-                            <button type="button" class="help-btn" data-action="show-clan-guide" title="View Clan Guide">
-                                <span>?</span>
-                            </button>
+                <div class="row g-3">
+                    <div class="col-md-6">
+                        <div class="mb-3">
+                            <div class="d-flex align-items-center gap-2">
+                                <label for="clan" class="form-label mb-0">Clan *</label>
+                                <button type="button" class="help-btn" data-action="show-clan-guide" title="View Clan Guide">
+                                    <span>?</span>
+                                </button>
+                            </div>
+                            <select id="clan" name="clan" class="form-select" required>
+                                <option value="">Select Clan...</option>
+                                <option value="Assamite">⚔️ Assamite</option>
+                                <option value="Brujah">✊ Brujah</option>
+                                <option value="Followers of Set">🐍 Followers of Set</option>
+                                <option value="Daughter of Cacophony">🎶 Daughter of Cacophony</option>
+                                <option value="Gangrel">🐺 Gangrel</option>
+                                <option value="Giovanni">💀 Giovanni</option>
+                                <option value="Lasombra">🌑 Lasombra</option>
+                                <option value="Malkavian">🎭 Malkavian</option>
+                                <option value="Nosferatu">🦇 Nosferatu</option>
+                                <option value="Ravnos">🎪 Ravnos</option>
+                                <option value="Toreador">🌹 Toreador</option>
+                                <option value="Tremere">⭐ Tremere</option>
+                                <option value="Tzimisce">🧬 Tzimisce</option>
+                                <option value="Ventrue">👑 Ventrue</option>
+                                <option value="Caitiff">❓ Caitiff</option>
+                                <option value="Ghoul">🩸 Ghoul</option>
+                            </select>
                         </div>
-                        <select id="clan" name="clan" class="form-select" required>
-                            <option value="">Select Clan...</option>
-                            <option value="Assamite">⚔️ Assamite</option>
-                            <option value="Brujah">✊ Brujah</option>
-                            <option value="Followers of Set">🐍 Followers of Set</option>
-                            <option value="Daughter of Cacophony">🎶 Daughter of Cacophony</option>
-                            <option value="Gangrel">🐺 Gangrel</option>
-                            <option value="Giovanni">💀 Giovanni</option>
-                            <option value="Lasombra">🌑 Lasombra</option>
-                            <option value="Malkavian">🎭 Malkavian</option>
-                            <option value="Nosferatu">🦇 Nosferatu</option>
-                            <option value="Ravnos">🎪 Ravnos</option>
-                            <option value="Toreador">🌹 Toreador</option>
-                            <option value="Tremere">⭐ Tremere</option>
-                            <option value="Tzimisce">🧬 Tzimisce</option>
-                            <option value="Ventrue">👑 Ventrue</option>
-                            <option value="Caitiff">❓ Caitiff</option>
-                            <option value="Ghoul">🩸 Ghoul</option>
-                        </select>
                     </div>
                     
-                    <div class="form-group">
-                        <label for="generation">Generation *</label>
-                        <select id="generation" name="generation" class="form-select" required>
-                            <option value="">Select Generation...</option>
-                            <option value="13" selected>13th Generation</option>
-                            <option value="12">12th Generation</option>
-                            <option value="11">11th Generation</option>
-                            <option value="10">10th Generation</option>
-                            <option value="9">9th Generation</option>
-                            <option value="8">8th Generation</option>
-                            <option value="7">7th Generation</option>
-                        </select>
-                        <div class="helper-text">Distance from Caine</div>
+                    <div class="col-md-6">
+                        <div class="mb-3">
+                            <label for="generation" class="form-label">Generation *</label>
+                            <select id="generation" name="generation" class="form-select" required>
+                                <option value="">Select Generation...</option>
+                                <option value="13" selected>13th Generation</option>
+                                <option value="12">12th Generation</option>
+                                <option value="11">11th Generation</option>
+                                <option value="10">10th Generation</option>
+                                <option value="9">9th Generation</option>
+                                <option value="8">8th Generation</option>
+                                <option value="7">7th Generation</option>
+                            </select>
+                            <div class="helper-text">Distance from Caine</div>
+                        </div>
                     </div>
                 </div>
                 
-                <div class="form-row">
-                    <div class="form-group">
-                        <label for="nature">Nature *</label>
-                        <select id="nature" name="nature" class="form-select" required>
-                            <option value="">Select Nature...</option>
-                            <?php foreach ($archetypes as $archetype): ?>
-                                <option value="<?php echo htmlspecialchars($archetype); ?>"><?php echo htmlspecialchars($archetype); ?></option>
-                            <?php endforeach; ?>
-                        </select>
-                        <div class="helper-text">True personality</div>
+                <div class="row g-3">
+                    <div class="col-md-6">
+                        <div class="mb-3">
+                            <label for="nature" class="form-label">Nature *</label>
+                            <select id="nature" name="nature" class="form-select" required>
+                                <option value="">Select Nature...</option>
+                                <?php foreach ($archetypes as $archetype): ?>
+                                    <option value="<?php echo htmlspecialchars($archetype); ?>"><?php echo htmlspecialchars($archetype); ?></option>
+                                <?php endforeach; ?>
+                            </select>
+                            <div class="helper-text">True personality</div>
+                        </div>
                     </div>
                     
-                    <div class="form-group">
-                        <label for="demeanor">Demeanor *</label>
-                        <select id="demeanor" name="demeanor" class="form-select" required>
-                            <option value="">Select Demeanor...</option>
-                            <?php foreach ($archetypes as $archetype): ?>
-                                <option value="<?php echo htmlspecialchars($archetype); ?>"><?php echo htmlspecialchars($archetype); ?></option>
-                            <?php endforeach; ?>
-                        </select>
-                        <div class="helper-text">Public personality</div>
+                    <div class="col-md-6">
+                        <div class="mb-3">
+                            <label for="demeanor" class="form-label">Demeanor *</label>
+                            <select id="demeanor" name="demeanor" class="form-select" required>
+                                <option value="">Select Demeanor...</option>
+                                <?php foreach ($archetypes as $archetype): ?>
+                                    <option value="<?php echo htmlspecialchars($archetype); ?>"><?php echo htmlspecialchars($archetype); ?></option>
+                                <?php endforeach; ?>
+                            </select>
+                            <div class="helper-text">Public personality</div>
+                        </div>
                     </div>
                 </div>
                 
-                <div class="form-group">
-                    <label for="concept">Concept *</label>
+                <div class="mb-3">
+                    <label for="concept" class="form-label">Concept *</label>
                     <input type="text" id="concept" name="concept" class="form-control" required>
                     <div class="helper-text">Brief description of character concept (e.g., "Street Gang Leader", "Tortured Artist")</div>
                 </div>
                 
-                <div class="form-group">
-                    <label for="sire">Sire</label>
+                <div class="mb-3">
+                    <label for="sire" class="form-label">Sire</label>
                     <input type="text" id="sire" name="sire" class="form-control">
                     <div class="helper-text">Name of vampire who embraced this character</div>
                 </div>
                 
                 
                 <!-- Health Levels & Willpower Display -->
-                <div class="form-group">
-                    <label>Health Levels & Willpower</label>
+                <div class="mb-3">
+                    <label class="form-label">Health Levels & Willpower</label>
                     <div class="health-willpower-display">
                         <!-- Health Levels -->
                         <div class="virtue-section">
@@ -552,22 +568,23 @@ if (!$isModal) {
                     </div>
                 </div>
                 
-                <div class="button-group">
-                    <button type="button" disabled>← Previous</button>
-                    <button type="button" class="save-btn" data-action="save">💾 Save Character</button>
+                <div class="d-flex gap-2 justify-content-between">
+                    <button type="button" class="btn btn-secondary" disabled>← Previous</button>
+                    <button type="button" class="save-btn btn btn-primary" data-action="save">💾 Save Character</button>
                     <button type="button" class="nav-btn btn btn-secondary" data-action="next">Next →</button>
                 </div>
+                    </div>
                 </div>
             </div>
             
             <!-- Tab 2: Traits -->
             <div class="tab-content" id="traitsTab">
-                <div class="tab-card">
+                <div class="card">
                     <div class="card-header">
                         <h2 class="card-title">Traits</h2>
                         <p class="card-subtitle">Distribute points across Physical, Social, and Mental attributes</p>
                     </div>
-                
+                    <div class="card-body">
                 <div class="info-box">
                     <strong>Trait Point Distribution:</strong> You have 15 free trait points to distribute across three categories.
                     <ul>
@@ -820,22 +837,23 @@ if (!$isModal) {
                     </div>
                 </div>
                 
-                <div class="button-group">
+                <div class="d-flex gap-2 justify-content-between">
                     <button type="button" class="nav-btn btn btn-secondary" data-action="previous">← Previous</button>
-                    <button type="button" class="save-btn" data-action="save">💾 Save Character</button>
+                    <button type="button" class="save-btn btn btn-primary" data-action="save">💾 Save Character</button>
                     <button type="button" class="nav-btn btn btn-secondary" data-action="next">Next →</button>
                 </div>
+                    </div>
                 </div>
             </div>
             
             <!-- Tab 3: Abilities -->
             <div class="tab-content" id="abilitiesTab">
-                <div class="tab-card">
+                <div class="card">
                     <div class="card-header">
                         <h2 class="card-title">Abilities</h2>
                         <p class="card-subtitle">Choose your character's skills and talents</p>
                     </div>
-                
+                    <div class="card-body">
                 <div class="info-box">
                     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
                         <div style="flex: 1;">
@@ -963,22 +981,23 @@ if (!$isModal) {
                     </div>
                 </div>
                 
-                <div class="button-group">
+                <div class="d-flex gap-2 justify-content-between">
                     <button type="button" class="nav-btn btn btn-secondary" data-action="previous">← Previous</button>
-                    <button type="button" class="save-btn" data-action="save">💾 Save Character</button>
+                    <button type="button" class="save-btn btn btn-primary" data-action="save">💾 Save Character</button>
                     <button type="button" class="nav-btn btn btn-secondary" data-action="next">Next →</button>
                 </div>
+                    </div>
                 </div>
             </div>
             
             <!-- Tab 4: Disciplines -->
             <div class="tab-content" id="disciplinesTab">
-                <div class="tab-card">
+                <div class="card">
                     <div class="card-header">
                         <h2 class="card-title">Disciplines</h2>
                         <p class="card-subtitle">Supernatural powers unique to your clan</p>
                     </div>
-                
+                    <div class="card-body">
                 <div class="info-box">
                     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
                         <div style="flex: 1;">
@@ -1102,21 +1121,23 @@ if (!$isModal) {
                 <div id="popoverPowers"></div>
             </div>
                 
-                <div class="button-group">
-                    <button type="button" class="nav-btn" data-action="previous">← Previous</button>
-                    <button type="button" class="save-btn" data-action="save">💾 Save Character</button>
-                    <button type="button" class="nav-btn" data-action="next">Next →</button>
+                <div class="d-flex gap-2 justify-content-between">
+                    <button type="button" class="nav-btn btn btn-secondary" data-action="previous">← Previous</button>
+                    <button type="button" class="save-btn btn btn-primary" data-action="save">💾 Save Character</button>
+                    <button type="button" class="nav-btn btn btn-secondary" data-action="next">Next →</button>
                 </div>
+                    </div>
                 </div>
             </div>
             
             <!-- Tab 5: Backgrounds -->
             <div class="tab-content" id="backgroundsTab">
-                <div class="tab-card">
+                <div class="card">
                     <div class="card-header">
                         <h2 class="card-title">Backgrounds</h2>
                         <p class="card-subtitle">Resources, allies, and connections</p>
                     </div>
+                    <div class="card-body">
                 <p style="color: #666; margin-bottom: 20px;">Select your character's resources, connections, and social standing. Each background represents different types of influence and support available to your character.</p>
                 
                 <!-- Backgrounds Progress Summary -->
@@ -1427,22 +1448,23 @@ if (!$isModal) {
                     </div>
                 </div>
                 
-                <div class="button-group">
-                    <button type="button" class="nav-btn" data-action="previous">← Previous</button>
-                    <button type="button" class="save-btn" data-action="save">💾 Save Character</button>
-                    <button type="button" class="nav-btn" data-action="next">Next →</button>
+                <div class="d-flex gap-2 justify-content-between">
+                    <button type="button" class="nav-btn btn btn-secondary" data-action="previous">← Previous</button>
+                    <button type="button" class="save-btn btn btn-primary" data-action="save">💾 Save Character</button>
+                    <button type="button" class="nav-btn btn btn-secondary" data-action="next">Next →</button>
                 </div>
+                    </div>
                 </div>
             </div>
             
             <!-- Tab 6: Morality -->
             <div class="tab-content" id="moralityTab">
-                <div class="tab-card">
+                <div class="card">
                     <div class="card-header">
                         <h2 class="card-title">Path of Humanity</h2>
                         <p class="card-subtitle">Virtues, willpower, and moral compass</p>
                     </div>
-                    
+                    <div class="card-body">
                     <div class="morality-section">
                         <!-- Humanity Display -->
                         <div class="morality-stat">
@@ -1569,22 +1591,23 @@ if (!$isModal) {
                         </div>
                     </div>
                 
-                    <div class="button-group">
+                    <div class="d-flex gap-2 justify-content-between">
                         <button type="button" class="nav-btn btn btn-secondary" data-action="previous">← Previous</button>
-                        <button type="button" class="save-btn" data-action="save">💾 Save Character</button>
+                        <button type="button" class="save-btn btn btn-primary" data-action="save">💾 Save Character</button>
                         <button type="button" class="nav-btn btn btn-secondary" data-action="next">Next →</button>
+                    </div>
                     </div>
                 </div>
             </div>
             
             <!-- Tab 7: Merits & Flaws -->
             <div class="tab-content" id="meritsTab">
-                <div class="tab-card">
+                <div class="card">
                     <div class="card-header">
                         <h2 class="card-title">Merits & Flaws</h2>
                         <p class="card-subtitle">Special advantages and disadvantages</p>
                     </div>
-                    
+                    <div class="card-body">
                     <!-- Merits & Flaws Summary -->
                     <div class="merits-flaws-summary">
                         <div class="summary-item">
@@ -1665,9 +1688,9 @@ if (!$isModal) {
                         <span class="warning-text" id="conflictText"></span>
                     </div>
                     
-                    <div class="button-group">
+                    <div class="d-flex gap-2 justify-content-between">
                         <button type="button" class="nav-btn btn btn-secondary" data-action="previous">← Previous</button>
-                        <button type="button" class="save-btn" data-action="save">💾 Save Character</button>
+                        <button type="button" class="save-btn btn btn-primary" data-action="save">💾 Save Character</button>
                         <button type="button" class="nav-btn btn btn-secondary" data-action="next">Next →</button>
                     </div>
                 </div>
@@ -1675,66 +1698,67 @@ if (!$isModal) {
             
             <!-- Tab 7: Description -->
             <div class="tab-content" id="descriptionTab">
-                <div class="tab-card">
+                <div class="card">
                     <div class="card-header">
                         <h2 class="card-title">Character Description</h2>
                         <p class="card-subtitle">Describe your character's appearance, background, and notes</p>
                     </div>
-                
+                    <div class="card-body">
                     <!-- Appearance Field -->
-                    <div class="form-group">
-                        <label for="appearance">Appearance</label>
+                    <div class="mb-3">
+                        <label for="appearance" class="form-label">Appearance</label>
                         <textarea id="appearance" name="appearance" class="form-control" rows="6" placeholder="Describe your character's physical appearance..." aria-label="Character appearance description"></textarea>
                         <div class="helper-text">Describe your character's physical appearance, including notable features, clothing style, and distinctive characteristics.</div>
                     </div>
                     
                     <!-- Biography Field -->
-                    <div class="form-group">
-                        <label for="biography">Biography</label>
+                    <div class="mb-3">
+                        <label for="biography" class="form-label">Biography</label>
                         <textarea id="biography" name="biography" class="form-control" rows="8" placeholder="Write your character's background story and history..." aria-label="Character biography"></textarea>
                         <div class="helper-text">Tell your character's story - their background, history, and the events that led them to this point.</div>
                     </div>
                     
                     <!-- Notes Field -->
-                    <div class="form-group">
-                        <label for="notes">Notes</label>
+                    <div class="mb-3">
+                        <label for="notes" class="form-label">Notes</label>
                         <textarea id="notes" name="notes" class="form-control" rows="6" placeholder="Add any additional notes, reminders, or details about your character..." aria-label="Character notes"></textarea>
                         <div class="helper-text">Use this space for player notes, storyteller notes, or any additional information about your character.</div>
                     </div>
                     
-                    <div class="button-group">
-                        <button type="button" class="nav-btn" data-action="previous">← Previous</button>
-                        <button type="button" class="save-btn" data-action="save">💾 Save Character</button>
-                        <button type="button" class="nav-btn" data-action="next">Next →</button>
+                    <div class="d-flex gap-2 justify-content-between">
+                        <button type="button" class="nav-btn btn btn-secondary" data-action="previous">← Previous</button>
+                        <button type="button" class="save-btn btn btn-primary" data-action="save">💾 Save Character</button>
+                        <button type="button" class="nav-btn btn btn-secondary" data-action="next">Next →</button>
+                    </div>
                     </div>
                 </div>
             </div>
             
             <!-- Tab 8: Final Details -->
             <div class="tab-content" id="reviewTab">
-                <div class="tab-card">
+                <div class="card">
                     <div class="card-header">
                         <h2 class="card-title">Final Details</h2>
                         <p class="card-subtitle">Complete your character and review</p>
                     </div>
-                
-                    <div class="form-group">
-                        <label>Character Summary</label>
+                    <div class="card-body">
+                    <div class="mb-3">
+                        <label class="form-label">Character Summary</label>
                         <div id="characterSummary" class="character-summary">
                             <!-- Character summary will be generated here -->
                         </div>
                     </div>
                     
                     <!-- Custom Data -->
-                    <div class="form-group">
-                        <label for="customData">Custom Data</label>
+                    <div class="mb-3">
+                        <label for="customData" class="form-label">Custom Data</label>
                         <textarea id="customData" name="customData" class="form-control" rows="6" placeholder='Enter JSON data or plain text (e.g., {"research_notes": "...", "discipline_notes": {...}})'></textarea>
                         <div class="helper-text">Store custom character data as JSON or plain text. This can include research notes, discipline notes, artifacts, or any character-specific information.</div>
                     </div>
                     
                     <!-- Coterie -->
-                    <div class="form-group">
-                        <label>Coterie Associations</label>
+                    <div class="mb-3">
+                        <label class="form-label">Coterie Associations</label>
                         <div id="coterieContainer" class="dynamic-form-container">
                             <div class="empty-state" id="coterieEmptyState">
                                 <p>No coterie associations added. Click "Add Coterie" to add one.</p>
@@ -1745,8 +1769,8 @@ if (!$isModal) {
                     </div>
                     
                     <!-- Relationships -->
-                    <div class="form-group">
-                        <label>Relationships</label>
+                    <div class="mb-3">
+                        <label class="form-label">Relationships</label>
                         <div id="relationshipsContainer" class="dynamic-form-container">
                             <div class="empty-state" id="relationshipsEmptyState">
                                 <p>No relationships added. Click "Add Relationship" to add one.</p>
@@ -1757,22 +1781,23 @@ if (!$isModal) {
                     </div>
                     
                     
-                <div class="button-group">
-                    <button type="button" class="nav-btn" data-action="previous">← Previous</button>
-                    <button type="button" class="save-btn" data-action="save">💾 Save Draft</button>
-                    <button type="button" class="finalize-btn" data-action="finalize-character">🎯 Finalize Character</button>
+                <div class="d-flex gap-2 justify-content-between">
+                    <button type="button" class="nav-btn btn btn-secondary" data-action="previous">← Previous</button>
+                    <button type="button" class="save-btn btn btn-primary" data-action="save">💾 Save Draft</button>
+                    <button type="button" class="finalize-btn btn btn-success" data-action="finalize-character">🎯 Finalize Character</button>
                 </div>
+                    </div>
                 </div>
             </div>
         </form>
     </div>
 
     <!-- Mobile Save Button Container -->
-    <div class="mobile-save-container mobile-only d-block d-md-none">
-        <div class="button-group">
-            <button type="button" class="save-btn" data-action="save">💾 Save Character</button>
-            <button type="button" class="exit-inline" title="Exit without saving">Exit</button>
-            <button type="button" class="finalize-btn" data-action="finalize-character">🎯 Finalize</button>
+    <div class="mobile-save-container d-block d-md-none">
+        <div class="d-flex gap-2 flex-wrap">
+            <button type="button" class="save-btn btn btn-primary" data-action="save">💾 Save Character</button>
+            <button type="button" class="exit-inline btn btn-outline-secondary" title="Exit without saving">Exit</button>
+            <button type="button" class="finalize-btn btn btn-success" data-action="finalize-character">🎯 Finalize</button>
         </div>
     </div>
 
