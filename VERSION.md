@@ -1,6 +1,26 @@
 # Version History
 
-## Current Version: 0.8.22
+## Current Version: 0.8.23
+
+**Date:** 2025-01-30  
+**Type:** Patch (Character Images & Player Name Standardization)
+
+### Changes:
+- **Character Image Management** - Organized and assigned character portrait images
+  - Moved 7 character images from `reference/Characters/Images/` to `uploads/characters/`
+  - Updated database character_image field for 6 characters (Helena Crowly, CW Whitford, Naomi Blackbird, Lilith Nightshade, Butch Reed, Alistaire)
+  - Updated all character JSON files with character_image field
+  - Created verification scripts to check image status and accessibility
+  - All images verified accessible via HTTP (200 OK)
+- **Player Name Standardization** - Fixed inconsistent player_name values for NPCs
+  - Updated 9 characters from "ST/NPC" or "Player Name or ST/NPC" to "NPC"
+  - Created automated script to find and fix player_name variations
+  - Standardized all NPC character records
+- **Character Import** - Added Helena Crowly to database
+  - Imported complete character data including abilities, disciplines, traits, backgrounds, relationships
+  - Character image properly assigned
+
+## Previous Version: 0.8.22
 
 **Date:** 2025-01-30  
 **Type:** Patch (Character Portrait Display Fixes)
