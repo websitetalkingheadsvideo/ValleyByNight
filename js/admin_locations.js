@@ -65,8 +65,8 @@ function initializeEventListeners() {
         applyFilters();
     });
 
-    // Form submission
-    document.getElementById('locationForm').addEventListener('submit', handleFormSubmit);
+    // Form submission handler is attached dynamically when modals are opened
+    // (see openAddLocationModal and editLocation functions)
 }
 
 async function loadLocations() {
@@ -243,26 +243,154 @@ function changePage(page) {
     }
 }
 
+// Generate location form HTML
+function generateLocationFormHtml(location = null) {
+    const locationId = location ? location.id : '';
+    const locationName = location ? escapeHtml(location.name) : '';
+    const locationType = location ? location.type : '';
+    const locationStatus = location ? location.status : '';
+    const locationDistrict = location ? escapeHtml(location.district || '') : '';
+    const locationOwnerType = location ? location.owner_type : '';
+    const locationFaction = location ? escapeHtml(location.faction || '') : '';
+    const locationAccessControl = location ? location.access_control : '';
+    const locationSecurityLevel = location ? (location.security_level || 3) : 3;
+    const locationDescription = location ? escapeHtml(location.description || '') : '';
+    const locationSummary = location ? escapeHtml(location.summary || '') : '';
+    const locationNotes = location ? escapeHtml(location.notes || '') : '';
+    
+    return `
+        <form id="locationForm" class="needs-validation" novalidate>
+            <input type="hidden" id="locationId" name="id" value="${locationId}">
+            
+            <div class="form-row row g-3">
+                <div class="form-group mb-3 col-12 col-md-6">
+                    <label for="locationName" class="form-label">Name *</label>
+                    <input type="text" id="locationName" name="name" class="form-control" value="${locationName}" required>
+                    <div class="invalid-feedback">Please enter a location name.</div>
+                </div>
+                <div class="form-group mb-3 col-12 col-md-6">
+                    <label for="locationType" class="form-label">Type *</label>
+                    <select id="locationType" name="type" class="form-select" required>
+                        <option value="">Select Type</option>
+                        <option value="Haven" ${locationType === 'Haven' ? 'selected' : ''}>Haven</option>
+                        <option value="Elysium" ${locationType === 'Elysium' ? 'selected' : ''}>Elysium</option>
+                        <option value="Domain" ${locationType === 'Domain' ? 'selected' : ''}>Domain</option>
+                        <option value="Hunting Ground" ${locationType === 'Hunting Ground' ? 'selected' : ''}>Hunting Ground</option>
+                        <option value="Nightclub" ${locationType === 'Nightclub' ? 'selected' : ''}>Nightclub</option>
+                        <option value="Gathering Place" ${locationType === 'Gathering Place' ? 'selected' : ''}>Gathering Place</option>
+                        <option value="Business" ${locationType === 'Business' ? 'selected' : ''}>Business</option>
+                        <option value="Chantry" ${locationType === 'Chantry' ? 'selected' : ''}>Chantry</option>
+                        <option value="Temple" ${locationType === 'Temple' ? 'selected' : ''}>Temple</option>
+                        <option value="Wilderness" ${locationType === 'Wilderness' ? 'selected' : ''}>Wilderness</option>
+                        <option value="Other" ${locationType === 'Other' ? 'selected' : ''}>Other</option>
+                    </select>
+                </div>
+            </div>
+            
+            <div class="form-row row g-3">
+                <div class="form-group mb-3 col-12 col-md-6">
+                    <label for="locationStatus" class="form-label">Status *</label>
+                    <select id="locationStatus" name="status" class="form-select" required>
+                        <option value="">Select Status</option>
+                        <option value="Active" ${locationStatus === 'Active' ? 'selected' : ''}>Active</option>
+                        <option value="Abandoned" ${locationStatus === 'Abandoned' ? 'selected' : ''}>Abandoned</option>
+                        <option value="Destroyed" ${locationStatus === 'Destroyed' ? 'selected' : ''}>Destroyed</option>
+                        <option value="Contested" ${locationStatus === 'Contested' ? 'selected' : ''}>Contested</option>
+                        <option value="Hidden" ${locationStatus === 'Hidden' ? 'selected' : ''}>Hidden</option>
+                    </select>
+                </div>
+                <div class="form-group mb-3 col-12 col-md-6">
+                    <label for="locationDistrict" class="form-label">District</label>
+                    <input type="text" id="locationDistrict" name="district" class="form-control" value="${locationDistrict}" placeholder="e.g., Downtown, Warehouse District">
+                </div>
+            </div>
+            
+            <div class="form-row row g-3">
+                <div class="form-group mb-3 col-12 col-md-6">
+                    <label for="locationOwnerType" class="form-label">Owner Type *</label>
+                    <select id="locationOwnerType" name="owner_type" class="form-select" required>
+                        <option value="">Select Owner Type</option>
+                        <option value="Personal" ${locationOwnerType === 'Personal' ? 'selected' : ''}>Personal</option>
+                        <option value="Clan" ${locationOwnerType === 'Clan' ? 'selected' : ''}>Clan</option>
+                        <option value="Sect" ${locationOwnerType === 'Sect' ? 'selected' : ''}>Sect</option>
+                        <option value="Coterie" ${locationOwnerType === 'Coterie' ? 'selected' : ''}>Coterie</option>
+                        <option value="NPC" ${locationOwnerType === 'NPC' ? 'selected' : ''}>NPC</option>
+                        <option value="Contested" ${locationOwnerType === 'Contested' ? 'selected' : ''}>Contested</option>
+                        <option value="Public" ${locationOwnerType === 'Public' ? 'selected' : ''}>Public</option>
+                    </select>
+                </div>
+                <div class="form-group mb-3 col-12 col-md-6">
+                    <label for="locationFaction" class="form-label">Faction</label>
+                    <input type="text" id="locationFaction" name="faction" class="form-control" value="${locationFaction}" placeholder="e.g., Camarilla, Sabbat">
+                </div>
+            </div>
+            
+            <div class="form-row row g-3">
+                <div class="form-group mb-3 col-12 col-md-6">
+                    <label for="locationAccessControl" class="form-label">Access Control *</label>
+                    <select id="locationAccessControl" name="access_control" class="form-select" required>
+                        <option value="">Select Access Control</option>
+                        <option value="Open" ${locationAccessControl === 'Open' ? 'selected' : ''}>Open</option>
+                        <option value="Restricted" ${locationAccessControl === 'Restricted' ? 'selected' : ''}>Restricted</option>
+                        <option value="Private" ${locationAccessControl === 'Private' ? 'selected' : ''}>Private</option>
+                        <option value="Secret" ${locationAccessControl === 'Secret' ? 'selected' : ''}>Secret</option>
+                        <option value="Invitation Only" ${locationAccessControl === 'Invitation Only' ? 'selected' : ''}>Invitation Only</option>
+                    </select>
+                </div>
+                <div class="form-group mb-3 col-12 col-md-6">
+                    <label for="locationSecurityLevel" class="form-label">Security Level</label>
+                    <input type="number" id="locationSecurityLevel" name="security_level" class="form-control" min="1" max="10" value="${locationSecurityLevel}">
+                </div>
+            </div>
+            
+            <div class="form-group mb-3">
+                <label for="locationDescription" class="form-label">Description</label>
+                <textarea id="locationDescription" name="description" class="form-control" placeholder="Detailed description of the location...">${locationDescription}</textarea>
+            </div>
+            
+            <div class="form-group mb-3">
+                <label for="locationSummary" class="form-label">Summary</label>
+                <textarea id="locationSummary" name="summary" class="form-control" placeholder="Brief summary for quick reference...">${locationSummary}</textarea>
+            </div>
+            
+            <div class="form-group mb-3">
+                <label for="locationNotes" class="form-label">Notes</label>
+                <textarea id="locationNotes" name="notes" class="form-control" placeholder="Additional notes, plot hooks, etc...">${locationNotes}</textarea>
+            </div>
+        </form>
+    `;
+}
+
 // CRUD Functions
 function openAddLocationModal() {
-    const titleEl = document.getElementById('locationModalTitle');
-    const formEl = document.getElementById('locationForm');
-    const idEl = document.getElementById('locationId');
     const modalElement = document.getElementById('locationModal');
-    
-    if (!titleEl || !formEl || !idEl) {
-        console.error('Required form elements not found for adding location');
-        return;
-    }
-    
     if (!modalElement) {
         console.error('locationModal element not found');
         return;
     }
     
-    titleEl.textContent = 'Add New Location';
-    formEl.reset();
-    idEl.value = '';
+    const modalTitle = modalElement.querySelector('.vbn-modal-title');
+    const modalBody = modalElement.querySelector('.vbn-modal-body');
+    const modalFooter = modalElement.querySelector('.vbn-modal-footer');
+    
+    if (!modalTitle || !modalBody || !modalFooter) {
+        console.error('Modal structure incomplete. Missing required elements.');
+        return;
+    }
+    
+    modalTitle.textContent = '🏠 Add New Location';
+    modalBody.innerHTML = generateLocationFormHtml();
+    modalFooter.innerHTML = `
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+        <button type="submit" form="locationForm" class="btn btn-primary">Save Location</button>
+    `;
+    
+    // Re-attach form submission handler
+    const form = document.getElementById('locationForm');
+    if (form) {
+        form.removeEventListener('submit', handleFormSubmit);
+        form.addEventListener('submit', handleFormSubmit);
+    }
     
     const modalInstance = new bootstrap.Modal(modalElement);
     modalInstance.show();
@@ -272,32 +400,42 @@ function editLocation(id) {
     const location = allLocations.find(loc => loc.id == id);
     if (!location) return;
     
-    document.getElementById('locationModalTitle').textContent = 'Edit Location';
-    document.getElementById('locationId').value = location.id;
-    document.getElementById('locationName').value = location.name;
-    document.getElementById('locationType').value = location.type;
-    document.getElementById('locationStatus').value = location.status;
-    document.getElementById('locationDistrict').value = location.district || '';
-    document.getElementById('locationOwnerType').value = location.owner_type;
-    document.getElementById('locationFaction').value = location.faction || '';
-    document.getElementById('locationAccessControl').value = location.access_control || '';
-    document.getElementById('locationSecurityLevel').value = location.security_level || 3;
-    document.getElementById('locationDescription').value = location.description || '';
-    document.getElementById('locationSummary').value = location.summary || '';
-    document.getElementById('locationNotes').value = location.notes || '';
-    
     const modalElement = document.getElementById('locationModal');
-    if (modalElement) {
-        const modalInstance = new bootstrap.Modal(modalElement);
-        modalInstance.show();
+    if (!modalElement) {
+        console.error('locationModal element not found');
+        return;
     }
+    
+    const modalTitle = modalElement.querySelector('.vbn-modal-title');
+    const modalBody = modalElement.querySelector('.vbn-modal-body');
+    const modalFooter = modalElement.querySelector('.vbn-modal-footer');
+    
+    if (!modalTitle || !modalBody || !modalFooter) {
+        console.error('Modal structure incomplete. Missing required elements.');
+        return;
+    }
+    
+    modalTitle.textContent = '🏠 Edit Location';
+    modalBody.innerHTML = generateLocationFormHtml(location);
+    modalFooter.innerHTML = `
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+        <button type="submit" form="locationForm" class="btn btn-primary">Save Location</button>
+    `;
+    
+    // Re-attach form submission handler
+    const form = document.getElementById('locationForm');
+    if (form) {
+        form.removeEventListener('submit', handleFormSubmit);
+        form.addEventListener('submit', handleFormSubmit);
+    }
+    
+    const modalInstance = new bootstrap.Modal(modalElement);
+    modalInstance.show();
 }
 
 async function viewLocation(id) {
     const location = allLocations.find(loc => loc.id == id);
     if (!location) return;
-    
-    document.getElementById('viewLocationName').textContent = location.name;
     
     // Get modal elements
     const modalElement = document.getElementById('viewModal');

@@ -220,122 +220,12 @@ while ($char = $characters_result->fetch_assoc()) {
 </div>
 
 <!-- Add/Edit Location Modal -->
-<div class="modal fade" id="locationModal" tabindex="-1" aria-labelledby="locationModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-lg">
-        <div class="modal-content vbn-modal-content">
-            <div class="modal-header vbn-modal-header">
-                <h5 class="modal-title vbn-modal-title" id="locationModalLabel">🏠 <span id="locationModalTitle">Add New Location</span></h5>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-            </div>
-            <div class="modal-body vbn-modal-body">
-                <form id="locationForm" class="needs-validation" novalidate>
-            <input type="hidden" id="locationId" name="id">
-            
-            <div class="form-row row g-3">
-                <div class="form-group mb-3 col-12 col-md-6">
-                    <label for="locationName" class="form-label">Name *</label>
-                    <input type="text" id="locationName" name="name" class="form-control" required>
-                    <div class="invalid-feedback">Please enter a location name.</div>
-                </div>
-                <div class="form-group mb-3 col-12 col-md-6">
-                    <label for="locationType" class="form-label">Type *</label>
-                    <select id="locationType" name="type" class="form-select" required>
-                        <option value="">Select Type</option>
-                        <option value="Haven">Haven</option>
-                        <option value="Elysium">Elysium</option>
-                        <option value="Domain">Domain</option>
-                        <option value="Hunting Ground">Hunting Ground</option>
-                        <option value="Nightclub">Nightclub</option>
-                        <option value="Gathering Place">Gathering Place</option>
-                        <option value="Business">Business</option>
-                        <option value="Chantry">Chantry</option>
-                        <option value="Temple">Temple</option>
-                        <option value="Wilderness">Wilderness</option>
-                        <option value="Other">Other</option>
-                    </select>
-                </div>
-            </div>
-            
-            <div class="form-row row g-3">
-                <div class="form-group mb-3 col-12 col-md-6">
-                    <label for="locationStatus" class="form-label">Status *</label>
-                    <select id="locationStatus" name="status" class="form-select" required>
-                        <option value="">Select Status</option>
-                        <option value="Active">Active</option>
-                        <option value="Abandoned">Abandoned</option>
-                        <option value="Destroyed">Destroyed</option>
-                        <option value="Contested">Contested</option>
-                        <option value="Hidden">Hidden</option>
-                    </select>
-                </div>
-                <div class="form-group mb-3 col-12 col-md-6">
-                    <label for="locationDistrict" class="form-label">District</label>
-                    <input type="text" id="locationDistrict" name="district" class="form-control" placeholder="e.g., Downtown, Warehouse District">
-                </div>
-            </div>
-            
-            <div class="form-row row g-3">
-                <div class="form-group mb-3 col-12 col-md-6">
-                    <label for="locationOwnerType" class="form-label">Owner Type *</label>
-                    <select id="locationOwnerType" name="owner_type" class="form-select" required>
-                        <option value="">Select Owner Type</option>
-                        <option value="Personal">Personal</option>
-                        <option value="Clan">Clan</option>
-                        <option value="Sect">Sect</option>
-                        <option value="Coterie">Coterie</option>
-                        <option value="NPC">NPC</option>
-                        <option value="Contested">Contested</option>
-                        <option value="Public">Public</option>
-                    </select>
-                </div>
-                <div class="form-group mb-3 col-12 col-md-6">
-                    <label for="locationFaction" class="form-label">Faction</label>
-                    <input type="text" id="locationFaction" name="faction" class="form-control" placeholder="e.g., Camarilla, Sabbat">
-                </div>
-            </div>
-            
-            <div class="form-row row g-3">
-                <div class="form-group mb-3 col-12 col-md-6">
-                    <label for="locationAccessControl" class="form-label">Access Control *</label>
-                    <select id="locationAccessControl" name="access_control" class="form-select" required>
-                        <option value="">Select Access Control</option>
-                        <option value="Open">Open</option>
-                        <option value="Restricted">Restricted</option>
-                        <option value="Private">Private</option>
-                        <option value="Secret">Secret</option>
-                        <option value="Invitation Only">Invitation Only</option>
-                    </select>
-                </div>
-                <div class="form-group mb-3 col-12 col-md-6">
-                    <label for="locationSecurityLevel" class="form-label">Security Level</label>
-                    <input type="number" id="locationSecurityLevel" name="security_level" class="form-control" min="1" max="10" value="3">
-                </div>
-            </div>
-            
-            <div class="form-group mb-3">
-                <label for="locationDescription" class="form-label">Description</label>
-                <textarea id="locationDescription" name="description" class="form-control" placeholder="Detailed description of the location..."></textarea>
-            </div>
-            
-            <div class="form-group mb-3">
-                <label for="locationSummary" class="form-label">Summary</label>
-                <textarea id="locationSummary" name="summary" class="form-control" placeholder="Brief summary for quick reference..."></textarea>
-            </div>
-            
-            <div class="form-group mb-3">
-                <label for="locationNotes" class="form-label">Notes</label>
-                <textarea id="locationNotes" name="notes" class="form-control" placeholder="Additional notes, plot hooks, etc..."></textarea>
-            </div>
-            
-                </form>
-            </div>
-            <div class="modal-footer vbn-modal-footer">
-                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
-                <button type="submit" form="locationForm" class="btn btn-primary">Save Location</button>
-            </div>
-        </div>
-    </div>
-</div>
+<?php
+$modalId = 'locationModal';
+$labelId = 'locationModalLabel';
+$size = 'lg';
+include __DIR__ . '/../includes/modal_base.php';
+?>
 
 <!-- View Location Modal -->
 <?php
