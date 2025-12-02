@@ -1,6 +1,39 @@
 # Version History
 
-## Current Version: 0.8.23
+## Current Version: 0.8.24
+
+**Date:** 2025-12-02  
+**Type:** Patch (Location Extraction System from Character Biographies)
+
+### Changes:
+- **Location Extraction System** - Created automated system to extract PC-visitable locations from character biographies
+  - Created `scripts/extract_locations_from_biographies.py` - Python script with strict filtering rules (573 lines)
+  - Extracted 5 valid locations from 38 character biography files following zero false positives approach
+  - Applied comprehensive validation rules: excludes natural terrain, categories, political entities, real-world locations, events, clan names, and abstract concepts
+  - Generated `reference/Locations/locations_to_add.json` with complete evidence, reasoning, and excluded candidates list
+  - Locations found: Bunker (Haven), Hawthorn Estate (Estate), Phoenix Chantry (Chantry), Temple (Temple), Valiant Detective Agency (Business)
+  - Each location includes source character, field, context excerpts, and validation reasoning
+  - Documented 77 excluded candidates with detailed exclusion reasons for transparency
+- **Strict Filtering Rules** - Implemented comprehensive location validation system
+  - Natural terrain exclusion (forest, desert, valley, etc.)
+  - Category/generic exclusion (hospitals, estates - unless specific instance)
+  - Political entity exclusion (Camarilla, Anarch, factions)
+  - Real-world location exclusion (except Phoenix when part of compound names)
+  - Event/time period exclusion (wars, ages, eras)
+  - Clan/character name exclusion
+  - Abstract term exclusion (Jyhad, Kindred, Shrecknet)
+  - Geographic region exclusion (Southwest, etc.)
+- **Evidence Collection** - Complete traceability for all location extractions
+  - Source character name and file for each location
+  - Exact text excerpts and surrounding context
+  - Field identification (biography, timeline fields, notes)
+  - Multiple mention tracking for confidence scoring
+- **JSON Parsing Improvements** - Enhanced error handling for malformed character JSON files
+  - Automatic trailing comma removal
+  - Control character handling
+  - Specialized fixes for known problematic files (Ardvark.json, Misfortune.json)
+
+## Previous Version: 0.8.23
 
 **Date:** 2025-01-30  
 **Type:** Patch (Character Images & Player Name Standardization)
