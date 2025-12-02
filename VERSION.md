@@ -1,6 +1,36 @@
 # Version History
 
-## Current Version: 0.8.20
+## Current Version: 0.8.21
+
+**Date:** 2025-12-02  
+**Type:** Patch (Banner Animations & Clan Hover Effects)
+
+### Changes:
+- **Clan-Specific Character Card Hover Effects** - Implemented pulsing glow animations for character cards
+  - Added Option 3: Background Intensity + Pulse animation system
+  - Clan-specific hover effects for all 7 major clans (Toreador, Brujah, Ventrue, Nosferatu, Malkavian, Setite, Giovanni)
+  - Each clan has unique pulse color and background gradient intensification
+  - 2-second animation cycle with smooth transitions
+  - Implemented in `css/dashboard.css` with individual keyframe animations per clan
+  - Applied to character cards in `index.php` with clan class mapping function
+- **Dashboard Banner Refinements** - Improved banner height and text positioning
+  - Set dashboard hero banners to 25vh (25% of viewport height)
+  - Improved text vertical centering with reduced margins
+  - Title margin-bottom: 0.5rem, accent line margin: 0.75rem auto, subtitle margin: 0
+- **Movement Layers Demo & Implementation** - Created animation demo and implemented Soft Noise Drift
+  - Created `examples/movement_layers_demo.html` with 6 different animation concepts
+  - Implemented Soft Noise Drift animation for dashboard banners (10s linear infinite)
+  - 10px movement range with opacity variation (0.4-0.6) for cinematic film grain effect
+  - Performance optimized with `will-change: transform, opacity`
+- **Art Bible Documentation Updates** - Updated documentation to reflect implementations
+  - Added "Banner Height" section with 25vh specification and text positioning details
+  - Updated Movement Layers section with Soft Noise Drift implementation status
+  - Marked UI Images & Banners section as future implementation
+- **CSS Variables** - Added missing color variables for clan gradients
+  - Added `--deep-maroon: #2a1515` to `css/global.css`
+  - Added `--dusk-brown-black: #1a0f0f` to `css/global.css`
+
+## Previous Version: 0.8.20
 
 **Date:** 2025-01-30  
 **Type:** Patch (UI Refactoring & Bootstrap Integration)

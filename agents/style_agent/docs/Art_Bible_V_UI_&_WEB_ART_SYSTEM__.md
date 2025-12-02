@@ -136,19 +136,37 @@ All UI must integrate with:
 
 # 7. UI Images & Banners
 
+**Status:** ⏳ **Possible Future Implementation** - Not currently implemented. This section defines specifications for hero banners, UI tiles, and icons.
+
 ## Resolutions
 - 1920×1080: hero banners
 - 1024×1024: UI tiles
 - 512×512 or SVG: icons
+
+## Banner Height
+- **Dashboard hero banners: 25vh (25% of viewport height)** - implemented
+- Text vertically centered with reduced margins for tighter spacing
+- Title margin-bottom: 0.5rem
+- Accent line margin: 0.75rem auto
+- Subtitle margin: 0
 
 ## Tone
 - Noir, low saturation
 - Strong shadows
 - Gold and crimson accents
 
-## Movement Layers (Optional)
+## Movement Layers
+**Status:** ✅ **Partially Implemented** - Soft Noise Drift animation is implemented for dashboard banners.
+
+### Implemented
+- **Soft Noise Drift** - Film grain texture that subtly shifts position (10s linear infinite)
+  - Transform: translate with 10px movement range
+  - Opacity: 0.4-0.6 variation
+  - Creates: Cinematic quality and prevents static appearance
+  - Applied to: Dashboard hero banners
+
+### Future Implementation
 - Slow parallax
-- Soft noise drift
 - Mild vignette animation
 
 ---
