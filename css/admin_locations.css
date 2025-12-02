@@ -421,6 +421,45 @@ table.table {
     }
 }
 
+/* All Modals - Blood Red Gradient Background (Art Bible Compliant) */
+#locationModal .modal-content,
+#locationModal .vbn-modal-content,
+#viewModal .modal-content,
+#viewModal .vbn-modal-content,
+#assignModal .modal-content,
+#assignModal .vbn-modal-content,
+#deleteModal .modal-content,
+#deleteModal .vbn-modal-content {
+    background: radial-gradient(circle at center, #8B0000 0%, #820000 40%, #1a0f0f 100%) !important;
+    border: 3px solid var(--muted-gold, #C87B3E) !important;
+    border-radius: 10px;
+    color: #d4c4b0;
+}
+
+#locationModal .vbn-modal-header,
+#viewModal .vbn-modal-header,
+#assignModal .vbn-modal-header,
+#deleteModal .vbn-modal-header {
+    background: linear-gradient(135deg, #1a0f0f 0%, #2a1515 100%);
+    border-bottom: 2px solid rgba(139, 0, 0, 0.3);
+}
+
+#locationModal .vbn-modal-body,
+#viewModal .vbn-modal-body,
+#assignModal .vbn-modal-body,
+#deleteModal .vbn-modal-body {
+    background: transparent !important;
+    color: #d4c4b0;
+}
+
+#locationModal .vbn-modal-footer,
+#viewModal .vbn-modal-footer,
+#assignModal .vbn-modal-footer,
+#deleteModal .vbn-modal-footer {
+    background: linear-gradient(135deg, #1a0f0f 0%, #2a1515 100%);
+    border-top: 2px solid rgba(139, 0, 0, 0.3);
+}
+
 /* View Modal Content */
 .view-content {
     max-height: 60vh;

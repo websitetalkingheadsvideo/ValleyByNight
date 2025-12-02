@@ -1,6 +1,33 @@
 # Version History
 
-## Current Version: 0.8.24
+## Current Version: 0.8.25
+
+**Date:** 2025-01-26  
+**Type:** Patch (Admin Locations Modal Fix & Refactoring)
+
+### Changes:
+- **Fixed View Location Modal Error** - Resolved JavaScript error `Cannot set properties of null` in admin_locations.js
+  - Removed redundant code attempting to access non-existent `viewLocationName` element
+  - View location modal now works correctly without errors
+- **Modal System Refactoring** - Unified all modals to use modal_base.php include
+  - Replaced hardcoded Add/Edit Location Modal (116 lines) with modal_base.php include
+  - Created `generateLocationFormHtml()` function for dynamic form generation
+  - Updated `openAddLocationModal()` and `editLocation()` to populate modals dynamically
+  - All four modals now follow consistent structure and pattern
+- **Unified Modal Styling** - Applied Art Bible-compliant blood-red gradient backgrounds
+  - All modals use radial gradient from #8B0000 (center) to #1a0f0f (edges)
+  - 3px solid gold borders using #C87B3E (Desert Amber from Art Bible)
+  - Consistent header/footer styling with dark gradients
+  - Transparent modal bodies to show gradient backgrounds
+- **Location Reference Files Restored** - Recovered 26 deleted location reference documents
+  - Restored 5 markdown scene files, 3 JSON location files, 2 template files, 2 style guides
+  - Restored 8 Hawthorne Estate files (markdown + images)
+  - Restored 6 Violet Reliquary JSON files
+- **Tracking Documents Created** - Added character and location creation tracking
+  - Created `reference/Characters/Characters_to_Create.md` with Toreador owner entry
+  - Created `reference/Locations/Locations_to_Create.md` with 9 clan havens and 2 faction havens
+
+## Previous Version: 0.8.24
 
 **Date:** 2025-12-02  
 **Type:** Patch (Location Extraction System from Character Biographies)
