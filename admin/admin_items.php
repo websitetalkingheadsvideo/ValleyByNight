@@ -55,51 +55,87 @@ while ($char = $characters_result->fetch_assoc()) {
 }
 ?>
 
-<div class="admin-items-container">
-    <h1 class="panel-title">⚔️ Items Database Management</h1>
-    <p class="panel-subtitle">Manage items database and assign equipment to characters</p>
+<div class="container-fluid py-4 px-3 px-md-4">
+    <h1 class="display-5 text-light fw-bold mb-1">⚔️ Items Database Management</h1>
+    <p class="lead text-light fst-italic mb-4">Manage items database and assign equipment to characters</p>
     
     <!-- Admin Navigation -->
-    <nav class="admin-nav" aria-label="Admin Navigation">
-        <a href="admin_panel.php" class="nav-btn btn btn-outline-danger btn-sm w-100 text-center">👥 Characters</a>
-        <a href="admin_sire_childe.php" class="nav-btn btn btn-outline-danger btn-sm w-100 text-center">🧛 Sire/Childe</a>
-        <a href="admin_items.php" class="nav-btn btn btn-outline-danger btn-sm w-100 text-center active">⚔️ Items</a>
-        <a href="admin_locations.php" class="nav-btn btn btn-outline-danger btn-sm w-100 text-center">📍 Locations</a>
-        <a href="questionnaire_admin.php" class="nav-btn btn btn-outline-danger btn-sm w-100 text-center">📝 Questionnaire</a>
-        <a href="admin_npc_briefing.php" class="nav-btn btn btn-outline-danger btn-sm w-100 text-center">📋 NPC Briefing</a>
+    <nav class="row g-2 g-md-3 mb-4" aria-label="Admin Navigation">
+        <div class="col-12 col-sm-6 col-md-4 col-lg">
+            <a href="admin_panel.php" class="nav-btn btn btn-outline-danger btn-sm w-100 text-center">👥 Characters</a>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg">
+            <a href="admin_sire_childe.php" class="nav-btn btn btn-outline-danger btn-sm w-100 text-center">🧛 Sire/Childe</a>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg">
+            <a href="admin_items.php" class="nav-btn btn btn-outline-danger btn-sm w-100 text-center active">⚔️ Items</a>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg">
+            <a href="admin_locations.php" class="nav-btn btn btn-outline-danger btn-sm w-100 text-center">📍 Locations</a>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg">
+            <a href="questionnaire_admin.php" class="nav-btn btn btn-outline-danger btn-sm w-100 text-center">📝 Questionnaire</a>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg">
+            <a href="admin_npc_briefing.php" class="nav-btn btn btn-outline-danger btn-sm w-100 text-center">📋 NPC Briefing</a>
+        </div>
     </nav>
     
     <!-- Items Statistics -->
-    <div class="items-stats">
-        <div class="stat-mini">
-            <span class="stat-number"><?php echo $stats['total'] ?? 0; ?></span>
-            <span class="stat-label">Total Items</span>
+    <div class="row g-3 mb-4">
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="card text-center">
+                <div class="card-body">
+                    <div class="vbn-stat-number"><?php echo $stats['total'] ?? 0; ?></div>
+                    <div class="vbn-stat-label">Total Items</div>
+                </div>
+            </div>
         </div>
-        <div class="stat-mini">
-            <span class="stat-number"><?php echo $stats['weapons'] ?? 0; ?></span>
-            <span class="stat-label">Weapons</span>
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="card text-center">
+                <div class="card-body">
+                    <div class="vbn-stat-number"><?php echo $stats['weapons'] ?? 0; ?></div>
+                    <div class="vbn-stat-label">Weapons</div>
+                </div>
+            </div>
         </div>
-        <div class="stat-mini">
-            <span class="stat-number"><?php echo $stats['armor'] ?? 0; ?></span>
-            <span class="stat-label">Armor</span>
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="card text-center">
+                <div class="card-body">
+                    <div class="vbn-stat-number"><?php echo $stats['armor'] ?? 0; ?></div>
+                    <div class="vbn-stat-label">Armor</div>
+                </div>
+            </div>
         </div>
-        <div class="stat-mini">
-            <span class="stat-number"><?php echo $stats['tools'] ?? 0; ?></span>
-            <span class="stat-label">Tools</span>
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="card text-center">
+                <div class="card-body">
+                    <div class="vbn-stat-number"><?php echo $stats['tools'] ?? 0; ?></div>
+                    <div class="vbn-stat-label">Tools</div>
+                </div>
+            </div>
         </div>
-        <div class="stat-mini">
-            <span class="stat-number"><?php echo $stats['consumables'] ?? 0; ?></span>
-            <span class="stat-label">Consumables</span>
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="card text-center">
+                <div class="card-body">
+                    <div class="vbn-stat-number"><?php echo $stats['consumables'] ?? 0; ?></div>
+                    <div class="vbn-stat-label">Consumables</div>
+                </div>
+            </div>
         </div>
-        <div class="stat-mini">
-            <span class="stat-number"><?php echo $stats['artifacts'] ?? 0; ?></span>
-            <span class="stat-label">Artifacts</span>
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="card text-center">
+                <div class="card-body">
+                    <div class="vbn-stat-number"><?php echo $stats['artifacts'] ?? 0; ?></div>
+                    <div class="vbn-stat-label">Artifacts</div>
+                </div>
+            </div>
         </div>
     </div>
 
     <!-- Filter Controls -->
-    <div class="filter-controls">
-        <div class="filter-buttons">
+    <div class="row gy-3 align-items-center mb-4">
+        <div class="col-12 col-md-auto d-flex flex-wrap gap-2">
             <button class="filter-btn btn btn-outline-danger active" data-filter="all">All Items</button>
             <button class="filter-btn btn btn-outline-danger" data-filter="weapons">Weapons</button>
             <button class="filter-btn btn btn-outline-danger" data-filter="armor">Armor</button>
@@ -107,8 +143,8 @@ while ($char = $characters_result->fetch_assoc()) {
             <button class="filter-btn btn btn-outline-danger" data-filter="consumables">Consumables</button>
             <button class="filter-btn btn btn-outline-danger" data-filter="artifacts">Artifacts</button>
         </div>
-        <div class="type-filter">
-            <label for="typeFilter">Type:</label>
+        <div class="col-12 col-md-auto d-flex align-items-center gap-2">
+            <label for="typeFilter" class="text-light text-uppercase small mb-0">Type:</label>
             <select id="typeFilter" class="form-select form-select-sm bg-dark text-light border-danger">
                 <option value="all">All Types</option>
                 <?php foreach ($item_types as $type): ?>
@@ -116,8 +152,8 @@ while ($char = $characters_result->fetch_assoc()) {
                 <?php endforeach; ?>
             </select>
         </div>
-        <div class="rarity-filter">
-            <label for="rarityFilter">Rarity:</label>
+        <div class="col-12 col-md-auto d-flex align-items-center gap-2">
+            <label for="rarityFilter" class="text-light text-uppercase small mb-0">Rarity:</label>
             <select id="rarityFilter" class="form-select form-select-sm bg-dark text-light border-danger">
                 <option value="all">All Rarities</option>
                 <option value="common">Common</option>
@@ -127,11 +163,11 @@ while ($char = $characters_result->fetch_assoc()) {
                 <option value="legendary">Legendary</option>
             </select>
         </div>
-        <div class="search-box">
+        <div class="col-12 col-lg col-xl-4">
             <input type="text" id="itemSearch" class="form-control form-control-sm bg-dark text-light border-danger" placeholder="🔍 Search by name..." />
         </div>
-        <div class="page-size-control">
-            <label for="pageSize">Per page:</label>
+        <div class="col-12 col-md-auto d-flex align-items-center gap-2">
+            <label for="pageSize" class="text-light text-uppercase small mb-0">Per page:</label>
             <select id="pageSize" class="form-select form-select-sm bg-dark text-light border-danger">
                 <option value="20" selected>20</option>
                 <option value="50">50</option>
@@ -141,14 +177,14 @@ while ($char = $characters_result->fetch_assoc()) {
     </div>
 
     <!-- Add Item Button -->
-    <div style="margin-bottom: 20px;">
-        <button class="modal-btn confirm-btn btn btn-primary" onclick="openAddItemModal()">
+    <div class="mb-4">
+        <button class="btn btn-primary" onclick="openAddItemModal()">
             <i class="fas fa-plus"></i> Add New Item
         </button>
     </div>
 
     <!-- Items Table -->
-    <div class="items-table-wrapper table-responsive">
+    <div class="table-responsive rounded-3">
         <table class="items-table table table-dark table-hover align-middle" id="itemsTable">
             <thead>
                 <tr>

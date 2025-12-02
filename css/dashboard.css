@@ -1,19 +1,19 @@
 /* Dashboard Styles - Valley by Night */
 /* BOOTSTRAP INTEGRATION: Bootstrap 5.3.2 loaded, utilities in use */
+/* Bootstrap .container handles max-width and margin */
 .dashboard-container { 
-    max-width: 1400px; 
-    /* Bootstrap .container class now handles margin: 0 auto */
+    /* Bootstrap .container now handles layout */
     padding: 30px 20px; 
 }
 
 /* Hero Section */
-.dashboard-hero { text-align: center; margin-bottom: 40px; }
+.dashboard-hero { text-align: center; margin-bottom: 40px; height: 25vh; }
 .chronicle-tagline { background: linear-gradient(135deg, rgba(139, 0, 0, 0.2) 0%, rgba(26, 15, 15, 0.4) 100%); border-left: 4px solid #8B0000; border-right: 4px solid #8B0000; padding: 30px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5); }
 .tagline-text { font-family: var(--font-brand), 'IM Fell English', serif; font-size: 1.8em; color: #f5e6d3; font-style: italic; line-height: 1.4; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); margin: 0; }
 
 /* Chronicle Summary */
 .chronicle-summary { margin-bottom: 50px; }
-.gothic-panel { background: linear-gradient(135deg, #1a0f0f 0%, #2a1515 100%); border: 2px solid #8B0000; border-radius: 8px; padding: 30px; box-shadow: 0 4px 20px rgba(139, 0, 0, 0.3); }
+/* Bootstrap .card component handles panel styling (themed in bootstrap-overrides.css) */
 .chronicle-title { font-family: var(--font-brand), 'IM Fell English', serif; color: #f5e6d3; font-size: 2em; margin-bottom: 20px; text-align: center; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); }
 .chronicle-text { font-family: var(--font-body), 'Source Serif Pro', serif; color: #d4c4b0; font-size: 1.1em; line-height: 1.8; text-align: justify; }
 
@@ -22,72 +22,203 @@
 .welcome-text { font-family: var(--font-body), 'Source Serif Pro', serif; color: #b8a090; font-size: 1.1em; margin-bottom: 30px; font-style: italic; }
 
 /* Stats Panel (Admin) */
-/* Bootstrap utilities handle: display: flex, gap, margin-bottom, flex-wrap */
+/* Bootstrap .row and .g-4 handle layout and spacing */
 .stats-panel { 
-    /* Bootstrap .row and .g-4 handle layout and spacing */
+    /* Bootstrap utilities now handle layout */
 }
-.vbn-stat-card { 
-    /* Bootstrap columns handle sizing (col-md-4 col-sm-6) */
-    background: linear-gradient(135deg, #2a1515 0%, #1a0f0f 100%); 
-    border: 2px solid #8B0000; 
-    border-radius: 8px; 
-    padding: 25px; 
-    text-align: center; 
-    box-shadow: 0 4px 15px rgba(139, 0, 0, 0.3); 
+/* Bootstrap .card component with custom theming */
+.vbn-stat-number { 
+    font-family: var(--font-brand), 'IM Fell English', serif; 
+    font-size: 3em; 
+    color: #8B0000; 
+    font-weight: bold; 
+    text-shadow: 0 0 10px rgba(139, 0, 0, 0.5); 
 }
-.vbn-stat-number { font-family: var(--font-brand), 'IM Fell English', serif; font-size: 3em; color: #8B0000; font-weight: bold; text-shadow: 0 0 10px rgba(139, 0, 0, 0.5); }
-.vbn-stat-label { font-family: var(--font-body), 'Source Serif Pro', serif; color: #b8a090; font-size: 1em; margin-top: 10px; }
+.vbn-stat-label { 
+    font-family: var(--font-body), 'Source Serif Pro', serif; 
+    color: #b8a090; 
+    font-size: 1em; 
+    margin-top: 10px; 
+}
 
 /* Action Grid */
-/* Bootstrap grid handles: .row .col-md-4 .col-sm-6 with .g-4 .mb-5 */
-.action-grid { 
-    /* Bootstrap .row and .g-4 handle layout and spacing */
+/* Bootstrap .row and .g-4 handle layout and spacing */
+/* Card hover effects handled in bootstrap-overrides.css */
+.vbn-card-icon { 
+    font-size: 3em; 
+    margin-bottom: 15px; 
 }
-.vbn-action-card { 
-    background: linear-gradient(135deg, #2a1515 0%, #1a0f0f 100%); 
-    border: 2px solid #8B0000; 
-    border-radius: 8px; 
-    padding: 25px; 
-    text-align: center; 
-    box-shadow: 0 4px 15px rgba(139, 0, 0, 0.3); 
-    transition: all 0.3s ease; 
-}
-.vbn-action-card:not(.disabled):hover { transform: translateY(-5px); box-shadow: 0 6px 25px rgba(139, 0, 0, 0.5); border-color: #b30000; }
-.vbn-action-card.disabled { opacity: 0.5; cursor: not-allowed; }
-.vbn-card-icon { font-size: 3em; margin-bottom: 15px; }
-.vbn-action-card h3 { font-family: var(--font-title), 'Libre Baskerville', serif; color: #f5e6d3; font-size: 1.3em; margin-bottom: 10px; }
-.vbn-action-card p { font-family: var(--font-body), 'Source Serif Pro', serif; color: #b8a090; font-size: 0.95em; margin-bottom: 20px; line-height: 1.5; }
 
 /* Buttons - Use Bootstrap classes primarily, .vbn- prefix for custom overrides */
 .vbn-gothic-button-disabled { display: inline-block; background: #3a3a3a; color: #666; padding: 12px 25px; border: 1px solid #555; border-radius: 5px; font-family: var(--font-body), 'Source Serif Pro', serif; cursor: not-allowed; }
 
 /* Player Specific */
-.player-actions { margin-bottom: 40px; text-align: center; }
-.create-character-btn { display: inline-flex; align-items: center; gap: 12px; background: linear-gradient(135deg, #8B0000 0%, #600000 100%); color: #f5e6d3; padding: 15px 35px; border: 2px solid #b30000; border-radius: 8px; text-decoration: none; font-family: var(--font-title), 'Libre Baskerville', serif; font-size: 1.2em; font-weight: 600; transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(139, 0, 0, 0.4); }
-.create-character-btn:hover { background: linear-gradient(135deg, #b30000 0%, #8B0000 100%); box-shadow: 0 6px 25px rgba(139, 0, 0, 0.6); transform: translateY(-3px); }
-.btn-icon { font-size: 1.5em; }
+/* Bootstrap utilities handle: .d-flex .justify-content-center .gap-4 .mb-5 */
+/* Bootstrap .btn component with custom theming */
+.btn-icon { 
+    font-size: 1.5em; 
+}
 
 /* Character List */
-.character-list { margin-bottom: 40px; }
-.list-heading { font-family: var(--font-title), 'Libre Baskerville', serif; color: #f5e6d3; font-size: 1.6em; margin-bottom: 20px; padding-bottom: 10px; border-bottom: 2px solid #8B0000; }
-.vbn-character-card { background: linear-gradient(135deg, #2a1515 0%, #1a0f0f 100%); border: 2px solid #8B0000; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(139, 0, 0, 0.3); transition: all 0.3s ease; }
-.vbn-character-card:hover { border-color: #b30000; box-shadow: 0 6px 20px rgba(139, 0, 0, 0.5); }
-.vbn-character-header { 
-    /* Bootstrap utilities handle: display: flex, justify-content: space-between, align-items: center, flex-wrap, gap */
-    margin-bottom: 15px; 
+/* Bootstrap utilities handle: .mb-5 */
+.character-list { 
+    margin-bottom: 40px; 
 }
-.vbn-character-name { 
+.list-heading { 
     font-family: var(--font-title), 'Libre Baskerville', serif; 
     color: #f5e6d3; 
-    font-size: 1.4em; 
-    margin: 0; 
-    /* Bootstrap utilities handle: display: flex, align-items: center, gap */
+    font-size: 1.6em; 
+    margin-bottom: 20px; 
+    padding-bottom: 10px; 
+    border-bottom: 2px solid #8B0000; 
 }
-.vbn-badge-draft { display: inline-block; background: #8B6508; color: #f5e6d3; padding: 4px 12px; border-radius: 4px; font-size: 0.6em; font-weight: bold; letter-spacing: 1px; }
-.vbn-character-clan { font-family: var(--font-body), 'Source Serif Pro', serif; color: #b8a090; font-size: 1.1em; font-style: italic; }
-.vbn-character-details { margin-bottom: 15px; }
-.vbn-character-concept { font-family: var(--font-body), 'Source Serif Pro', serif; color: #d4c4b0; font-size: 1em; margin: 0; }
-.vbn-character-actions { text-align: right; }
+/* Character Cards with Clan-Specific Styling */
+.character-list .card {
+    background: linear-gradient(135deg, var(--deep-maroon) 0%, var(--dusk-brown-black) 100%);
+    border: 2px solid var(--blood-red);
+    border-radius: 0.75rem;
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+}
+.vbn-character-clan { 
+    font-family: var(--font-body), 'Source Serif Pro', serif; 
+    color: #b8a090; 
+    font-size: 1.1em; 
+    font-style: italic; 
+}
+
+/* OPTION 3: BACKGROUND INTENSITY + PULSE - Clan colors become more vibrant with pulse animation */
+.character-list .card:hover {
+    border-color: var(--muted-gold);
+    box-shadow: 0 8px 30px rgba(139, 0, 0, 0.6);
+    animation: pulseGlow 2s ease-in-out infinite;
+}
+@keyframes pulseGlow {
+    0%, 100% { 
+        box-shadow: 0 8px 30px rgba(139, 0, 0, 0.6);
+    }
+    50% { 
+        box-shadow: 0 8px 50px rgba(139, 0, 0, 0.9);
+    }
+}
+.character-list .card.clan-toreador:hover {
+    border-color: rgba(220, 20, 60, 1);
+    background: linear-gradient(135deg, 
+        rgba(220, 20, 60, 0.3) 0%, 
+        var(--deep-maroon) 40%, 
+        var(--dusk-brown-black) 100%);
+    animation: pulseGlowToreador 2s ease-in-out infinite;
+}
+@keyframes pulseGlowToreador {
+    0%, 100% { 
+        box-shadow: 0 8px 30px rgba(220, 20, 60, 0.7);
+    }
+    50% { 
+        box-shadow: 0 8px 50px rgba(220, 20, 60, 1);
+    }
+}
+.character-list .card.clan-brujah:hover {
+    border-color: rgba(139, 0, 0, 1);
+    background: linear-gradient(135deg, 
+        rgba(100, 100, 100, 0.4) 0%, 
+        var(--deep-maroon) 40%, 
+        var(--dusk-brown-black) 100%);
+    animation: pulseGlowBrujah 2s ease-in-out infinite;
+}
+@keyframes pulseGlowBrujah {
+    0%, 100% { 
+        box-shadow: 0 8px 30px rgba(139, 0, 0, 0.7);
+    }
+    50% { 
+        box-shadow: 0 8px 50px rgba(139, 0, 0, 1);
+    }
+}
+.character-list .card.clan-ventrue:hover {
+    border-color: var(--muted-gold);
+    background: linear-gradient(135deg, 
+        rgba(212, 176, 109, 0.2) 0%, 
+        rgba(139, 0, 0, 0.15) 30%,
+        var(--deep-maroon) 60%, 
+        var(--dusk-brown-black) 100%);
+    animation: pulseGlowVentrue 2s ease-in-out infinite;
+}
+@keyframes pulseGlowVentrue {
+    0%, 100% { 
+        box-shadow: 0 8px 30px rgba(212, 176, 109, 0.7);
+    }
+    50% { 
+        box-shadow: 0 8px 50px rgba(212, 176, 109, 1);
+    }
+}
+.character-list .card.clan-nosferatu:hover {
+    border-color: rgba(139, 0, 0, 0.9);
+    background: linear-gradient(135deg, 
+        rgba(50, 50, 50, 0.5) 0%, 
+        var(--deep-maroon) 40%, 
+        var(--dusk-brown-black) 100%);
+    animation: pulseGlowNosferatu 2s ease-in-out infinite;
+}
+@keyframes pulseGlowNosferatu {
+    0%, 100% { 
+        box-shadow: 0 8px 30px rgba(50, 50, 50, 0.7);
+    }
+    50% { 
+        box-shadow: 0 8px 50px rgba(50, 50, 50, 1);
+    }
+}
+.character-list .card.clan-malkavian:hover {
+    border-color: rgba(255, 20, 147, 1);
+    background: linear-gradient(135deg, 
+        rgba(255, 20, 147, 0.2) 0%, 
+        rgba(138, 43, 226, 0.2) 50%,
+        var(--deep-maroon) 70%, 
+        var(--dusk-brown-black) 100%);
+    animation: pulseGlowMalkavian 2s ease-in-out infinite;
+}
+@keyframes pulseGlowMalkavian {
+    0%, 100% { 
+        box-shadow: 0 8px 30px rgba(255, 20, 147, 0.7);
+    }
+    50% { 
+        box-shadow: 0 8px 50px rgba(255, 20, 147, 1), 0 0 60px rgba(138, 43, 226, 0.6);
+    }
+}
+.character-list .card.clan-setite:hover,
+.character-list .card.clan-followers-of-set:hover {
+    border-color: var(--muted-gold);
+    background: linear-gradient(135deg, 
+        rgba(139, 0, 0, 0.3) 0%, 
+        rgba(220, 20, 60, 0.25) 30%,
+        rgba(212, 176, 109, 0.2) 50%,
+        var(--deep-maroon) 70%, 
+        var(--dusk-brown-black) 100%);
+    animation: pulseGlowSetite 2s ease-in-out infinite;
+}
+@keyframes pulseGlowSetite {
+    0%, 100% { 
+        box-shadow: 0 8px 30px rgba(220, 20, 60, 0.6);
+    }
+    50% { 
+        box-shadow: 0 8px 50px rgba(220, 20, 60, 0.9), 0 0 60px rgba(212, 176, 109, 0.6);
+    }
+}
+.character-list .card.clan-giovanni:hover {
+    border-color: rgba(139, 0, 0, 0.8);
+    background: linear-gradient(135deg, 
+        rgba(128, 128, 128, 0.4) 0%, 
+        var(--deep-maroon) 50%, 
+        var(--dusk-brown-black) 100%);
+    animation: pulseGlowGiovanni 2s ease-in-out infinite;
+}
+@keyframes pulseGlowGiovanni {
+    0%, 100% { 
+        box-shadow: 0 8px 30px rgba(128, 128, 128, 0.7);
+    }
+    50% { 
+        box-shadow: 0 8px 50px rgba(128, 128, 128, 1);
+    }
+}
 
 /* Empty State */
 .empty-state { text-align: center; padding: 60px 20px; background: rgba(26, 15, 15, 0.3); border: 2px dashed rgba(139, 0, 0, 0.3); border-radius: 8px; }

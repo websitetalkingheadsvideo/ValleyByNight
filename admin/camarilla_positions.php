@@ -110,16 +110,16 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-<div class="admin-camarilla-positions-container">
-    <h1 class="panel-title">👑 Camarilla Positions</h1>
-    <p class="panel-subtitle">Current position holders and historical assignments</p>
+<div class="container-fluid py-4 px-3 px-md-4">
+    <h1 class="display-5 text-light fw-bold mb-1">👑 Camarilla Positions</h1>
+    <p class="lead text-light fst-italic mb-4">Current position holders and historical assignments</p>
     
     <?php include __DIR__ . '/../includes/admin_header.php'; ?>
     
     <!-- Filter Controls -->
-    <div class="filter-controls">
-        <div class="category-filter">
-            <label for="categoryFilter">Category:</label>
+    <div class="row gy-3 align-items-center mb-4">
+        <div class="col-12 col-md-auto d-flex align-items-center gap-2">
+            <label for="categoryFilter" class="text-light text-uppercase small mb-0">Category:</label>
             <select id="categoryFilter" class="form-select form-select-sm bg-dark text-light border-danger">
                 <option value="all">All Categories</option>
                 <?php foreach ($categories as $cat): ?>
@@ -127,8 +127,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 <?php endforeach; ?>
             </select>
         </div>
-        <div class="clan-filter">
-            <label for="clanFilter">Clan:</label>
+        <div class="col-12 col-md-auto d-flex align-items-center gap-2">
+            <label for="clanFilter" class="text-light text-uppercase small mb-0">Clan:</label>
             <select id="clanFilter" class="form-select form-select-sm bg-dark text-light border-danger">
                 <option value="all">All Clans</option>
                 <option value="Brujah">Brujah</option>
@@ -141,7 +141,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 <option value="Caitiff">Caitiff</option>
             </select>
         </div>
-        <div class="search-box">
+        <div class="col-12 col-lg col-xl-4">
             <input type="text" id="positionSearch" class="form-control form-control-sm bg-dark text-light border-danger" placeholder="🔍 Search positions..." />
         </div>
     </div>
@@ -153,8 +153,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     </script>
     
     <!-- Positions Table -->
-    <div class="positions-table-wrapper table-responsive">
-        <table class="positions-table table table-dark table-hover align-middle" id="positionsTable">
+    <div class="table-responsive rounded-3">
+        <table class="table table-dark table-hover align-middle mb-0" id="positionsTable">
             <thead>
                 <tr>
                     <th data-sort="name">Position Name <span class="sort-icon">⇅</span></th>
@@ -225,15 +225,15 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                 <span class="text-muted">—</span>
                             <?php endif; ?>
                         </td>
-                        <td class="actions text-center align-top" style="width: 150px;">
+                        <td class="text-center align-top" style="width: 150px;">
                             <div class="btn-group btn-group-sm" role="group" aria-label="Position actions">
-                                <button class="action-btn view-btn btn btn-primary" 
+                                <button class="btn btn-primary" 
                                         data-id="<?php echo htmlspecialchars($position['position_id'] ?? ''); ?>"
                                         title="View Position">👁️</button>
-                                <button class="action-btn edit-btn btn btn-warning" 
+                                <button class="btn btn-warning" 
                                         data-id="<?php echo htmlspecialchars($position['position_id'] ?? ''); ?>"
                                         title="Edit Position">✏️</button>
-                                <button class="action-btn delete-btn btn btn-danger" 
+                                <button class="btn btn-danger" 
                                         data-id="<?php echo htmlspecialchars($position['position_id'] ?? ''); ?>" 
                                         data-name="<?php echo htmlspecialchars($position['name'] ?? 'Unknown'); ?>"
                                         title="Delete Position">🗑️</button>
@@ -246,15 +246,18 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     </div>
     
     <!-- Camarilla Positions Agent Section -->
-    <div class="agent-section">
-        <h2 class="agent-section-title">🤖 Ask the Camarilla Positions Agent</h2>
-        <p class="agent-section-subtitle">Query position holders and historical assignments</p>
+    <div class="mb-5">
+        <h2 class="h4 mb-3">🤖 Ask the Camarilla Positions Agent</h2>
+        <p class="text-muted mb-4">Query position holders and historical assignments</p>
         
-        <div class="agent-forms row g-3">
+        <div class="row g-3">
             <!-- Position Lookup Form -->
             <div class="col-12 col-md-6">
-                <div class="agent-form-card">
-                    <h3 class="agent-form-title">Position Lookup</h3>
+                <div class="card">
+                    <div class="card-header">
+                        <h3 class="h5 mb-0">Position Lookup</h3>
+                    </div>
+                    <div class="card-body">
                     <form method="POST" action="" class="agent-form">
                         <input type="hidden" name="position_lookup" value="1">
                         <div class="mb-3">
@@ -276,9 +279,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                         </div>
                         <button type="submit" class="btn btn-primary w-100">Lookup Position</button>
                     </form>
-                    
+                    </div>
                     <?php if ($position_lookup_result): ?>
-                        <div class="agent-results mt-4">
+                        <div class="card-body border-top">
+                            <div class="agent-results">
                             <h4>Results for <?php echo htmlspecialchars($position_lookup_result['position_name']); ?></h4>
                             <p><strong>Night:</strong> <?php echo date('Y-m-d H:i', strtotime($position_lookup_result['night'])); ?></p>
                             
@@ -356,26 +360,30 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             
             <!-- Character Lookup Form -->
             <div class="col-12 col-md-6">
-                <div class="agent-form-card">
-                    <h3 class="agent-form-title">Character Lookup</h3>
-                    <form method="POST" action="" class="agent-form">
-                        <input type="hidden" name="character_lookup" value="1">
-                        <div class="mb-3">
-                            <label for="character_id" class="form-label">Character:</label>
-                            <select id="character_id" name="character_id" class="form-select bg-dark text-light border-danger" required>
-                                <option value="">Select a character...</option>
-                                <?php foreach ($all_characters as $char): ?>
-                                    <option value="<?php echo $char['id']; ?>">
-                                        <?php echo htmlspecialchars($char['character_name']); ?> (<?php echo htmlspecialchars($char['clan'] ?? 'Unknown'); ?>)
-                                    </option>
-                                <?php endforeach; ?>
-                            </select>
-                        </div>
-                        <button type="submit" class="btn btn-primary w-100">Lookup Character</button>
-                    </form>
-                    
+                <div class="card">
+                    <div class="card-header">
+                        <h3 class="h5 mb-0">Character Lookup</h3>
+                    </div>
+                    <div class="card-body">
+                        <form method="POST" action="" class="agent-form">
+                            <input type="hidden" name="character_lookup" value="1">
+                            <div class="mb-3">
+                                <label for="character_id" class="form-label">Character:</label>
+                                <select id="character_id" name="character_id" class="form-select bg-dark text-light border-danger" required>
+                                    <option value="">Select a character...</option>
+                                    <?php foreach ($all_characters as $char): ?>
+                                        <option value="<?php echo $char['id']; ?>">
+                                            <?php echo htmlspecialchars($char['character_name']); ?> (<?php echo htmlspecialchars($char['clan'] ?? 'Unknown'); ?>)
+                                        </option>
+                                    <?php endforeach; ?>
+                                </select>
+                            </div>
+                            <button type="submit" class="btn btn-primary w-100">Lookup Character</button>
+                        </form>
+                    </div>
                     <?php if ($character_lookup_result): ?>
-                        <div class="agent-results mt-4">
+                        <div class="card-body border-top">
+                            <div class="agent-results">
                             <h4>Results for <?php echo htmlspecialchars($character_lookup_result['character_name']); ?></h4>
                             
                             <?php if (!empty($character_lookup_result['current_positions'])): ?>
@@ -419,6 +427,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                     </ul>
                                 </div>
                             <?php endif; ?>
+                            </div>
                         </div>
                     <?php endif; ?>
                 </div>

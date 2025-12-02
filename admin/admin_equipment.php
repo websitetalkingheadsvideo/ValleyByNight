@@ -42,15 +42,15 @@ while ($char = $characters_result->fetch_assoc()) {
 }
 ?>
 
-<div class="admin-equipment-container">
-    <h1 class="panel-title">⚔️ Equipment Management</h1>
-    <p class="panel-subtitle">Create and manage equipment, assign to characters</p>
+<div class="container-fluid py-4 px-3 px-md-4">
+    <h1 class="display-5 text-light fw-bold mb-1">⚔️ Equipment Management</h1>
+    <p class="lead text-light fst-italic mb-4">Create and manage equipment, assign to characters</p>
     
     <?php include __DIR__ . '/../includes/admin_header.php'; ?>
     
     <!-- Filter Controls -->
-    <div class="filter-controls">
-        <div class="filter-buttons">
+    <div class="row gy-3 align-items-center mb-4">
+        <div class="col-12 col-md-auto d-flex flex-wrap gap-2">
             <button class="filter-btn btn btn-outline-danger active" data-filter="all">All Equipment</button>
             <button class="filter-btn btn btn-outline-danger" data-filter="weapons">Weapons</button>
             <button class="filter-btn btn btn-outline-danger" data-filter="armor">Armor</button>
@@ -58,8 +58,8 @@ while ($char = $characters_result->fetch_assoc()) {
             <button class="filter-btn btn btn-outline-danger" data-filter="consumables">Consumables</button>
             <button class="filter-btn btn btn-outline-danger" data-filter="artifacts">Artifacts</button>
         </div>
-        <div class="type-filter">
-            <label for="typeFilter">Type:</label>
+        <div class="col-12 col-md-auto d-flex align-items-center gap-2">
+            <label for="typeFilter" class="text-light text-uppercase small mb-0">Type:</label>
             <select id="typeFilter" class="form-select form-select-sm bg-dark text-light border-danger">
                 <option value="all">All Types</option>
                 <?php foreach ($item_types as $type): ?>
@@ -67,8 +67,8 @@ while ($char = $characters_result->fetch_assoc()) {
                 <?php endforeach; ?>
             </select>
         </div>
-        <div class="rarity-filter">
-            <label for="rarityFilter">Rarity:</label>
+        <div class="col-12 col-md-auto d-flex align-items-center gap-2">
+            <label for="rarityFilter" class="text-light text-uppercase small mb-0">Rarity:</label>
             <select id="rarityFilter" class="form-select form-select-sm bg-dark text-light border-danger">
                 <option value="all">All Rarities</option>
                 <option value="common">Common</option>
@@ -78,11 +78,11 @@ while ($char = $characters_result->fetch_assoc()) {
                 <option value="legendary">Legendary</option>
             </select>
         </div>
-        <div class="search-box">
+        <div class="col-12 col-lg col-xl-4">
             <input type="text" id="equipmentSearch" class="form-control form-control-sm bg-dark text-light border-danger" placeholder="🔍 Search by name..." />
         </div>
-        <div class="page-size-control">
-            <label for="pageSize">Per page:</label>
+        <div class="col-12 col-md-auto d-flex align-items-center gap-2">
+            <label for="pageSize" class="text-light text-uppercase small mb-0">Per page:</label>
             <select id="pageSize" class="form-select form-select-sm bg-dark text-light border-danger">
                 <option value="20" selected>20</option>
                 <option value="50">50</option>
@@ -92,15 +92,15 @@ while ($char = $characters_result->fetch_assoc()) {
     </div>
 
     <!-- Add Equipment Button -->
-    <div style="margin-bottom: 20px;">
-        <button class="modal-btn confirm-btn btn btn-primary" onclick="openAddEquipmentModal()">
+    <div class="mb-4">
+        <button class="btn btn-primary" onclick="openAddEquipmentModal()">
             <i class="fas fa-plus"></i> Add New Equipment
         </button>
     </div>
 
     <!-- Equipment Table -->
-    <div class="equipment-table-wrapper table-responsive">
-        <table class="equipment-table table table-dark table-hover align-middle" id="equipmentTable">
+    <div class="table-responsive rounded-3">
+        <table class="table table-dark table-hover align-middle mb-0" id="equipmentTable">
             <thead>
                 <tr>
                     <th data-sort="id">ID <span class="sort-icon">⇅</span></th>
