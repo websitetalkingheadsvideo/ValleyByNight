@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movement Layers Demo - VbN</title>
+    <link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=IM+Fell+English+SC&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Source+Serif+Pro:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --font-brand: 'IM Fell English', serif;
+            --font-brand-sc: 'IM Fell English SC', serif;
+            --font-title: 'Libre Baskerville', serif;
+            --font-body: 'Source Serif Pro', serif;
+            --bg-dark: #0d0606;
+            --bg-darker: #1a0f0f;
+            --deep-maroon: #2a1515;
+            --dusk-brown-black: #1a0f0f;
+            --blood-red: #8B0000;
+            --muted-gold: #d4b06d;
+            --parchment-light: #f5e6d3;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: var(--bg-dark);
+            color: var(--parchment-light);
+            font-family: var(--font-body), serif;
+            padding: 2rem;
+            line-height: 1.6;
+        }
+
+        .demo-container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            font-family: var(--font-brand-sc), serif;
+            color: var(--blood-red);
+            font-size: 2.5rem;
+            margin-bottom: 3rem;
+            text-align: center;
+            text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.8);
+        }
+
+        .demo-section {
+            margin-bottom: 4rem;
+        }
+
+        .demo-title {
+            font-family: var(--font-title), serif;
+            color: var(--muted-gold);
+            font-size: 1.8rem;
+            margin-bottom: 1rem;
+            border-bottom: 2px solid var(--blood-red);
+            padding-bottom: 0.5rem;
+        }
+
+        .demo-description {
+            color: var(--parchment-light);
+            margin-bottom: 2rem;
+            font-style: italic;
+        }
+
+        /* Base Banner Style */
+        .banner-base {
+            width: 100%;
+            height: 25vh;
+            min-height: 200px;
+            position: relative;
+            background: linear-gradient(135deg, var(--deep-maroon) 0%, var(--dusk-brown-black) 50%, var(--bg-dark) 100%);
+            border: 2px solid var(--blood-red);
+            border-radius: 0.75rem;
+            overflow: hidden;
+            margin-bottom: 2rem;
+        }
+
+        .banner-content {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 1rem 2rem;
+            text-align: center;
+            z-index: 10;
+        }
+
+        .banner-title {
+            font-family: var(--font-brand-sc), serif;
+            font-size: clamp(2rem, 4vw, 3.5rem);
+            color: var(--blood-red);
+            text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.8), 0 0 20px rgba(139, 0, 0, 0.5);
+            margin: 0 0 0.5rem 0;
+            letter-spacing: 0.1em;
+        }
+
+        .banner-subtitle {
+            font-family: var(--font-title), serif;
+            font-size: clamp(1rem, 2vw, 1.5rem);
+            color: var(--parchment-light);
+            text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.8);
+            font-style: italic;
+            margin: 0;
+        }
+
+        /* 1. Slow Parallax Effect */
+        .parallax-banner {
+            background: linear-gradient(135deg, var(--deep-maroon) 0%, var(--dusk-brown-black) 50%, var(--bg-dark) 100%);
+        }
+
+        .parallax-layer {
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: radial-gradient(circle at 30% 30%, rgba(139, 0, 0, 0.5) 0%, transparent 50%),
+                        radial-gradient(circle at 70% 70%, rgba(212, 176, 109, 0.3) 0%, transparent 50%);
+            animation: parallax-drift 15s ease-in-out infinite;
+            will-change: transform;
+            z-index: 1;
+        }
+
+        @keyframes parallax-drift {
+            0%, 100% {
+                transform: translate(0, 0) scale(1);
+            }
+            25% {
+                transform: translate(-15%, -15%) scale(1.15);
+            }
+            50% {
+                transform: translate(15%, 15%) scale(1.3);
+            }
+            75% {
+                transform: translate(-10%, 10%) scale(1.15);
+            }
+        }
+
+        /* 2. Soft Noise Drift */
+        .noise-banner {
+            position: relative;
+        }
+
+        .noise-layer {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)' opacity='0.05'/%3E%3C/svg%3E");
+            opacity: 0.5;
+            z-index: 2;
+            animation: noise-drift 10s linear infinite;
+            will-change: transform, opacity;
+        }
+
+        @keyframes noise-drift {
+            0% {
+                transform: translate(0, 0);
+                opacity: 0.4;
+            }
+            25% {
+                transform: translate(10px, -10px);
+                opacity: 0.6;
+            }
+            50% {
+                transform: translate(-10px, 10px);
+                opacity: 0.5;
+            }
+            75% {
+                transform: translate(8px, 8px);
+                opacity: 0.6;
+            }
+            100% {
+                transform: translate(0, 0);
+                opacity: 0.4;
+            }
+        }
+
+        /* 3. Mild Vignette Animation */
+        .vignette-banner {
+            position: relative;
+        }
+
+        .vignette-layer {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: radial-gradient(ellipse at center, transparent 0%, rgba(0, 0, 0, 0.4) 50%, rgba(0, 0, 0, 0.8) 100%);
+            z-index: 3;
+            animation: vignette-pulse 6s ease-in-out infinite;
+            will-change: opacity, background;
+        }
+
+        @keyframes vignette-pulse {
+            0% {
+                opacity: 0.8;
+                background: radial-gradient(ellipse at center, transparent 0%, rgba(0, 0, 0, 0.5) 40%, rgba(0, 0, 0, 0.9) 100%);
+            }
+            25% {
+                opacity: 0.85;
+                background: radial-gradient(ellipse at 45% 35%, transparent 0%, rgba(0, 0, 0, 0.55) 40%, rgba(0, 0, 0, 0.92) 100%);
+            }
+            50% {
+                opacity: 1;
+                background: radial-gradient(ellipse at 60% 40%, transparent 0%, rgba(0, 0, 0, 0.6) 40%, rgba(0, 0, 0, 1) 100%);
+            }
+            75% {
+                opacity: 0.85;
+                background: radial-gradient(ellipse at 45% 35%, transparent 0%, rgba(0, 0, 0, 0.55) 40%, rgba(0, 0, 0, 0.92) 100%);
+            }
+            100% {
+                opacity: 0.8;
+                background: radial-gradient(ellipse at center, transparent 0%, rgba(0, 0, 0, 0.5) 40%, rgba(0, 0, 0, 0.9) 100%);
+            }
+        }
+
+        /* 4. Combined Effect - All Three */
+        .combined-banner {
+            position: relative;
+        }
+
+        .combined-parallax {
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: radial-gradient(circle at 30% 30%, rgba(139, 0, 0, 0.2) 0%, transparent 50%),
+                        radial-gradient(circle at 70% 70%, rgba(212, 176, 109, 0.1) 0%, transparent 50%);
+            animation: parallax-drift 20s ease-in-out infinite;
+            z-index: 1;
+        }
+
+        .combined-noise {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)' opacity='0.05'/%3E%3C/svg%3E");
+            opacity: 0.3;
+            z-index: 2;
+            animation: noise-drift 15s linear infinite;
+        }
+
+        .combined-vignette {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: radial-gradient(ellipse at center, transparent 0%, rgba(0, 0, 0, 0.3) 50%, rgba(0, 0, 0, 0.7) 100%);
+            z-index: 3;
+            animation: vignette-pulse 8s ease-in-out infinite;
+        }
+
+        /* 5. Subtle Glow Pulse */
+        .glow-banner {
+            position: relative;
+            animation: glow-pulse 4s ease-in-out infinite;
+            will-change: box-shadow;
+        }
+
+        @keyframes glow-pulse {
+            0%, 100% {
+                box-shadow: 0 8px 30px rgba(0, 0, 0, 0.8), 0 0 0 rgba(139, 0, 0, 0);
+            }
+            50% {
+                box-shadow: 0 8px 30px rgba(0, 0, 0, 0.8), 0 0 60px rgba(139, 0, 0, 0.6);
+            }
+        }
+
+        /* 6. Subtle Texture Shift */
+        .texture-banner {
+            position: relative;
+        }
+
+        .texture-layer {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: 
+                repeating-linear-gradient(
+                    45deg,
+                    rgba(139, 0, 0, 0.05) 0px,
+                    rgba(139, 0, 0, 0.05) 1px,
+                    transparent 1px,
+                    transparent 20px
+                ),
+                repeating-linear-gradient(
+                    -45deg,
+                    rgba(212, 176, 109, 0.03) 0px,
+                    rgba(212, 176, 109, 0.03) 1px,
+                    transparent 1px,
+                    transparent 20px
+                );
+            z-index: 1;
+            animation: texture-shift 8s linear infinite;
+            will-change: transform;
+        }
+
+        @keyframes texture-shift {
+            0% {
+                transform: translate(0, 0);
+            }
+            100% {
+                transform: translate(40px, 40px);
+            }
+        }
+
+        .code-block {
+            background: rgba(26, 15, 15, 0.6);
+            border: 1px solid rgba(139, 0, 0, 0.3);
+            border-radius: 0.5rem;
+            padding: 1rem;
+            margin-top: 1rem;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9rem;
+            color: var(--muted-gold);
+            overflow-x: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="demo-container">
+        <h1>Movement Layers Demo</h1>
+        <p style="text-align: center; color: var(--muted-gold); margin-bottom: 3rem; font-style: italic;">
+            Optional animation effects for enhanced visual atmosphere
+        </p>
+
+        <!-- 1. Slow Parallax -->
+        <div class="demo-section">
+            <h2 class="demo-title">1. Slow Parallax Effect</h2>
+            <p class="demo-description">
+                Subtle background gradient layers that drift slowly, creating depth and movement without distraction.
+            </p>
+            <div class="banner-base parallax-banner">
+                <div class="parallax-layer"></div>
+                <div class="banner-content">
+                    <h3 class="banner-title">VALLEY BY NIGHT</h3>
+                    <p class="banner-subtitle">A Vampire Tale</p>
+                </div>
+            </div>
+            <div class="code-block">
+                Animation: 20s ease-in-out infinite<br>
+                Transform: translate + scale variations<br>
+                Creates: Gentle depth and movement
+            </div>
+        </div>
+
+        <!-- 2. Soft Noise Drift -->
+        <div class="demo-section">
+            <h2 class="demo-title">2. Soft Noise Drift</h2>
+            <p class="demo-description">
+                Film grain texture that subtly shifts position, adding cinematic quality and preventing static appearance.
+            </p>
+            <div class="banner-base noise-banner">
+                <div class="noise-layer"></div>
+                <div class="banner-content">
+                    <h3 class="banner-title">VALLEY BY NIGHT</h3>
+                    <p class="banner-subtitle">A Vampire Tale</p>
+                </div>
+            </div>
+            <div class="code-block">
+                Animation: 15s linear infinite<br>
+                Transform: translate with opacity variation<br>
+                Creates: Film grain texture movement
+            </div>
+        </div>
+
+        <!-- 3. Mild Vignette Animation -->
+        <div class="demo-section">
+            <h2 class="demo-title">3. Mild Vignette Animation</h2>
+            <p class="demo-description">
+                Darkening edges that pulse gently, drawing focus to the center while maintaining noir atmosphere.
+            </p>
+            <div class="banner-base vignette-banner">
+                <div class="vignette-layer"></div>
+                <div class="banner-content">
+                    <h3 class="banner-title">VALLEY BY NIGHT</h3>
+                    <p class="banner-subtitle">A Vampire Tale</p>
+                </div>
+            </div>
+            <div class="code-block">
+                Animation: 8s ease-in-out infinite<br>
+                Opacity + gradient position shift<br>
+                Creates: Breathing focus effect
+            </div>
+        </div>
+
+        <!-- 4. Combined Effect -->
+        <div class="demo-section">
+            <h2 class="demo-title">4. Combined Effect (All Three)</h2>
+            <p class="demo-description">
+                All movement layers working together for maximum atmospheric depth. Use sparingly for special moments.
+            </p>
+            <div class="banner-base combined-banner">
+                <div class="combined-parallax"></div>
+                <div class="combined-noise"></div>
+                <div class="combined-vignette"></div>
+                <div class="banner-content">
+                    <h3 class="banner-title">VALLEY BY NIGHT</h3>
+                    <p class="banner-subtitle">A Vampire Tale</p>
+                </div>
+            </div>
+            <div class="code-block">
+                All three animations layered together<br>
+                Parallax (20s) + Noise (15s) + Vignette (8s)<br>
+                Creates: Rich, cinematic atmosphere
+            </div>
+        </div>
+
+        <!-- 5. Subtle Glow Pulse -->
+        <div class="demo-section">
+            <h2 class="demo-title">5. Subtle Glow Pulse</h2>
+            <p class="demo-description">
+                Banner border glow that pulses gently, adding life without being distracting.
+            </p>
+            <div class="banner-base glow-banner">
+                <div class="banner-content">
+                    <h3 class="banner-title">VALLEY BY NIGHT</h3>
+                    <p class="banner-subtitle">A Vampire Tale</p>
+                </div>
+            </div>
+            <div class="code-block">
+                Animation: 6s ease-in-out infinite<br>
+                Box-shadow intensity variation<br>
+                Creates: Gentle breathing glow
+            </div>
+        </div>
+
+        <!-- 6. Subtle Texture Shift -->
+        <div class="demo-section">
+            <h2 class="demo-title">6. Subtle Texture Shift</h2>
+            <p class="demo-description">
+                Diagonal line pattern that shifts slowly, adding texture without overwhelming the design.
+            </p>
+            <div class="banner-base texture-banner">
+                <div class="texture-layer"></div>
+                <div class="banner-content">
+                    <h3 class="banner-title">VALLEY BY NIGHT</h3>
+                    <p class="banner-subtitle">A Vampire Tale</p>
+                </div>
+            </div>
+            <div class="code-block">
+                Animation: 12s linear infinite<br>
+                Transform: translate diagonal pattern<br>
+                Creates: Subtle texture movement
+            </div>
+        </div>
+
+        <div style="margin-top: 4rem; padding: 2rem; background: rgba(26, 15, 15, 0.4); border: 2px solid var(--blood-red); border-radius: 0.75rem;">
+            <h3 style="font-family: var(--font-title), serif; color: var(--muted-gold); margin-bottom: 1rem;">Implementation Notes</h3>
+            <ul style="color: var(--parchment-light); line-height: 2;">
+                <li>All animations use <code>will-change</code> for performance (add to CSS)</li>
+                <li>Animations are subtle and slow to avoid distraction</li>
+                <li>Can be combined or used individually</li>
+                <li>Consider user preference for reduced motion (prefers-reduced-motion media query)</li>
+                <li>Use sparingly - too much movement can be overwhelming</li>
+                <li>Test on various devices for performance impact</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
+
