@@ -64,6 +64,7 @@ if ($script_dir === '/') {
     // Configuration
     const API_ENDPOINT = <?php echo json_encode($apiEndpoint); ?>;
     const MODAL_ID = <?php echo json_encode($modalId); ?>;
+    const PATH_PREFIX = <?php echo json_encode($path_prefix); ?>;
     
     // State
     let currentViewMode = 'compact';
@@ -327,7 +328,7 @@ if ($script_dir === '/') {
         
         function clanLogoUrl(clan) {
             if (!clan) return null;
-            const basePath = '../images/Clan%20Logos/';
+            const basePath = PATH_PREFIX + 'images/Clan%20Logos/';
             let clean = String(clan).trim().toLowerCase();
             // Remove emoji and special characters
             clean = clean.replace(/[\uD800-\uDBFF][\uDC00-\uDFFF]/g, '');
@@ -362,12 +363,12 @@ if ($script_dir === '/') {
         let fallbackUrl = null;
         if (isWraith) {
             // Wraith fallback image
-            fallbackUrl = '../images/Clan Logos/WtOlogo.webp';
+            fallbackUrl = PATH_PREFIX + 'images/Clan Logos/WtOlogo.webp';
         } else {
             // VtM fallback to clan logo
             fallbackUrl = char.clan_logo_url || clanLogoUrl(char.clan);
         }
-        const imageUrl = hasPortrait ? ('../uploads/characters/' + char.character_image) : fallbackUrl;
+        const imageUrl = hasPortrait ? (PATH_PREFIX + 'uploads/characters/' + char.character_image) : fallbackUrl;
         const sanitizedImageUrl = imageUrl ? escapeHtml(imageUrl) : null;
         
         const rawState = normalizeValue(char.current_state || char.status) || 'active';
@@ -419,7 +420,9 @@ if ($script_dir === '/') {
         headerHtml += '<div class="character-portrait-media">';
         if (sanitizedImageUrl) {
             const imageClass = isWraith && !hasPortrait ? 'character-portrait-image character-portrait-logo img-fluid' : 'character-portrait-image img-fluid';
-            headerHtml += '<img src="' + sanitizedImageUrl + '" class="' + imageClass + '" alt="Character portrait" onerror="this.classList.add(\'d-none\'); this.nextElementSibling.classList.remove(\'d-none\');" />';
+            // Only show placeholder on error if there's no fallback (i.e., we have a character image that failed)
+            const showPlaceholderOnError = hasPortrait ? 'this.classList.add(\'d-none\'); this.nextElementSibling.classList.remove(\'d-none\');' : '';
+            headerHtml += '<img src="' + sanitizedImageUrl + '" class="' + imageClass + '" alt="Character portrait" onerror="' + showPlaceholderOnError + '" />';
         }
         const placeholderClass = sanitizedImageUrl ? ' d-none' : '';
         headerHtml += '<div class="character-portrait-placeholder' + placeholderClass + '">No Image</div>';

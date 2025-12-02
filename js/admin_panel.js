@@ -137,7 +137,6 @@ function initializeClanFilter() {
     if (clanFilter) {
         clanFilter.addEventListener('change', function() {
             currentClanFilter = this.value;
-            console.log('Clan filter changed to:', currentClanFilter);
             applyFilters();
         });
     }
@@ -180,10 +179,6 @@ function applyFilters(resetPage = true) {
             showByClan = false;
         }
         
-        // Debug logging
-        if (currentClanFilter !== 'all') {
-            console.log(`Character: ${name}, Clan: "${clan}", Filter: "${currentClanFilter}", Show: ${showByClan}`);
-        }
         
         // Check search
         let showBySearch = true;

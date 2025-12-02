@@ -1,6 +1,30 @@
 # Version History
 
-## Current Version: 0.8.21
+## Current Version: 0.8.22
+
+**Date:** 2025-01-30  
+**Type:** Patch (Character Portrait Display Fixes)
+
+### Changes:
+- **Character Portrait Square Aspect Ratio** - Fixed portrait images to always display as square
+  - Added `aspect-ratio: 1` to `.character-portrait-media` in both compact and details views
+  - Ensured portrait images are identical in both view modes
+  - Fixed image sizing to maintain square aspect ratio with proper padding (1rem)
+  - Updated both `css/character_view.css` and `admin/admin_panel.php` for consistency
+- **Character Image Path Fixes** - Fixed image path resolution for character portraits
+  - Updated `includes/character_view_modal.php` to use `PATH_PREFIX` for correct relative paths
+  - Fixed 404 errors when loading character images from different directory contexts
+  - Updated fallback clan logo paths to use `PATH_PREFIX` for consistency
+- **Character Image File Validation** - Added server-side file existence check
+  - Updated `admin/view_character_api.php` to verify image files exist before returning them
+  - Prevents 404 errors by only returning `character_image` if file actually exists
+  - Automatically falls back to clan logo when image file is missing
+- **Image Error Handling** - Improved fallback behavior for missing images
+  - Fixed placeholder display logic to only show "No Image" when no fallback exists
+  - Clan logo fallbacks no longer trigger placeholder on image load errors
+  - Improved user experience when character images are missing
+
+## Previous Version: 0.8.21
 
 **Date:** 2025-12-02  
 **Type:** Patch (Banner Animations & Clan Hover Effects)

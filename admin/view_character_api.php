@@ -123,6 +123,15 @@ try {
         'i', [$character_id]
     );
     
+    // Check if character image file actually exists
+    $character_image = null;
+    if (!empty($char['character_image'])) {
+        $image_path = dirname(__DIR__) . '/uploads/characters/' . $char['character_image'];
+        if (file_exists($image_path)) {
+            $character_image = $char['character_image'];
+        }
+    }
+    
     // Map database fields to expected format
     $response = [
         'success' => true,
@@ -141,7 +150,7 @@ try {
             'appearance' => $char['appearance'],
             'notes' => $char['notes'],
             'equipment' => $char['equipment'],
-            'character_image' => $char['character_image'],
+            'character_image' => $character_image,
             'clan_logo_url' => $char['clan_logo_url'],
             'current_state' => $char['current_state'],
             'camarilla_status' => $char['camarilla_status'],

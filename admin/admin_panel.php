@@ -850,6 +850,9 @@ include __DIR__ . '/../includes/modal_base.php';
 .character-portrait-media {
     position: relative;
     width: 100%;
+    aspect-ratio: 1;
+    padding: 1rem;
+    box-sizing: border-box;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -859,7 +862,10 @@ include __DIR__ . '/../includes/modal_base.php';
 .character-portrait-image {
     width: 100%;
     height: 100%;
-    min-height: 240px;
+    min-width: 0;
+    min-height: 0;
+    max-width: 100%;
+    max-height: 100%;
     object-fit: cover;
     border-radius: 0.85rem;
     box-shadow: 0 6px 14px rgba(0, 0, 0, 0.45);
@@ -892,7 +898,34 @@ include __DIR__ . '/../includes/modal_base.php';
 }
 
 .character-view-modal.compact-mode .character-portrait-wrapper {
-    min-height: 220px;
+    min-height: 260px;
+}
+
+.character-view-modal.compact-mode .character-portrait-media,
+.character-view-modal:not(.compact-mode) .character-portrait-media {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 1;
+    padding: 1rem;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.character-view-modal.compact-mode .character-portrait-image,
+.character-view-modal:not(.compact-mode) .character-portrait-image {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1;
+    min-width: 0;
+    min-height: 0;
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+    border-radius: 0.85rem;
+    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.45);
 }
 
 @media (max-width: 575.98px) {
