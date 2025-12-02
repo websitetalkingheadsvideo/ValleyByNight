@@ -1,6 +1,46 @@
 # Version History
 
-## Current Version: 0.8.16
+## Current Version: 0.8.19
+
+**Date:** 2025-01-30  
+**Type:** Patch (Art Bible Implementation & Sidebar Styling)
+
+### Changes:
+- **Art Bible Implementation** - Comprehensive implementation of Art Bible specifications
+  - Added muted gold (#d4b06d) and teal moonlight (#0B3C49) to CSS variables
+  - Updated card border radius to 0.75rem (12px) per Art Bible
+  - Implemented gold border option for active cards via `.active` or `.card-active` class
+  - Updated secondary buttons to transparent gold style matching Art Bible
+  - Updated danger buttons to Art Bible spec (dark red, shadowed, brighter red on hover)
+  - Implemented gold borders (3px) and radial gradient backgrounds for modals
+  - Added blood-red radial gradient background for tables
+  - Updated focus states with blood-red glow per Art Bible
+  - Added IM Fell English SC (Small Caps) font variant for headers
+  - Added Source Code Pro font for code/monospace blocks
+- **Sidebar Styling** - Complete sidebar implementation per Art Bible
+  - Created `css/style.css` with Art Bible-compliant sidebar styles
+  - Gold headings (#d4b06d) with text shadow
+  - Parchment text (#f5e6d3) for labels and values
+  - Soft gold glow on hover for stat-groups and stat-lines
+  - Dark panel background with red border
+  - Styled character preview section with gold labels
+- **Art Bible Documentation Updates** - Updated Art Bible to reflect current implementation
+  - Updated navbar/navigation section to document current implementation
+  - Updated sidebar section with detailed implementation specifications
+  - Updated focus state documentation with blood-red glow details
+  - Updated label font documentation (Libre Baskerville)
+- **Demo Page Enhancements** - Enhanced Art Bible demo page
+  - Added navbar/navigation examples (Art Bible vs Current)
+  - Added sidebar examples (Art Bible vs Current)
+  - Added third table example with blood-red gradient background
+  - Updated table styling to use radial gradient
+- **Documentation Updates** - Updated differences analysis document
+  - Marked all completed implementations with ✅ status
+  - Documented design decisions where current implementation differs intentionally
+  - Added implementation status summary section
+  - Updated file locations for all implemented features
+
+## Previous Version: 0.8.16
 
 **Date:** 2025-01-30  
 **Type:** Patch (C.W. Whitford Boon Generation System & Character Content)

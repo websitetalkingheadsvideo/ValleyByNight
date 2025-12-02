@@ -1,78 +1,72 @@
 /* ========================================
-   BOOTSTRAP OVERRIDE LAYER
-   This file neutralizes Bootstrap's default styles
-   to preserve the existing Valley by Night design
+   BOOTSTRAP 5 THEME CUSTOMIZATION
+   Valley by Night - Gothic Theme
+   
+   This file customizes Bootstrap 5 components and utilities
+   to match the gothic aesthetic while leveraging Bootstrap's
+   base functionality. Only brand-specific styling is applied here.
    ======================================== */
 
-/* Override Bootstrap's CSS reset to preserve our custom reset */
-*,
-*::before,
-*::after {
-    box-sizing: border-box; /* Keep our box-sizing */
-}
-
-/* Preserve our body styles - Bootstrap's body reset is overridden by global.css */
+/* ===== TYPOGRAPHY THEME ===== */
+/* Apply gothic fonts to Bootstrap typography */
 body {
-    /* All body styles are in global.css - Bootstrap's defaults won't apply */
+    font-family: var(--font-body), 'Times New Roman', serif;
 }
 
-/* Override Bootstrap's default font stack - preserve our custom fonts */
-body {
-    font-family: var(--font-body), 'Times New Roman', serif !important;
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: var(--font-brand), 'IM Fell English', serif;
 }
 
-/* Preserve our CSS custom properties */
-:root {
-    /* CSS variables are defined in global.css - Bootstrap doesn't override these */
+/* Code/Monospace - Source Code Pro (Art Bible spec) */
+code, kbd, pre, samp,
+.code, .monospace {
+    font-family: 'Source Code Pro', 'Courier New', monospace;
 }
 
-/* Override Bootstrap's default link colors */
-a {
-    color: inherit; /* Let our custom styles handle links */
+/* ===== FORM THEME ===== */
+/* Customize Bootstrap form controls to match gothic theme */
+.form-control,
+.form-select {
+    background-color: rgba(26, 15, 15, 0.6);
+    border: 2px solid rgba(139, 0, 0, 0.4);
+    border-radius: 5px;
+    color: var(--text-light);
+    font-family: var(--font-body), 'Source Serif Pro', serif;
 }
 
-a:hover {
-    color: inherit; /* Preserve our hover states */
+.form-control:focus,
+.form-select:focus {
+    background-color: rgba(26, 15, 15, 0.8);
+    border-color: var(--blood-red);
+    box-shadow: 0 0 10px rgba(139, 0, 0, 0.3);
+    color: var(--text-light);
 }
 
-/* Override Bootstrap's default button styles - preserve our gothic buttons */
-/* DISABLED: Avoid overriding Bootstrap button styles globally. Use custom classes instead. */
-/* button,
-.btn {
-    font-family: var(--font-body), 'Source Serif Pro', serif !important;
-} */
-
-/* Override Bootstrap's default form styles */
-input,
-select,
-textarea {
-    /* Our custom form styles take precedence */
+.form-label {
+    font-family: var(--font-title), 'Libre Baskerville', serif;
+    color: var(--text-muted);
+    font-weight: 600;
 }
 
-/* Preserve our custom spacing - Bootstrap's utility spacing won't interfere */
-/* Note: Bootstrap spacing utilities are available but won't override existing styles */
-
-/* Preserve our custom flex/grid layouts */
-/* Bootstrap's grid system is available but existing layouts remain unchanged */
-
-/* Override Bootstrap's default typography scales */
-h1, h2, h3, h4, h5, h6 {
-    /* Our custom heading styles take precedence */
-    font-family: var(--font-brand), 'IM Fell English', serif !important;
+/* ===== ALERT THEME ===== */
+/* Customize Bootstrap alerts to match gothic theme */
+.alert {
+    border-radius: 4px;
+    font-family: var(--font-body), 'Source Serif Pro', serif;
 }
 
-/* Preserve our gothic color scheme */
-/* Bootstrap's default colors won't apply to existing elements */
+.alert-danger {
+    background-color: rgba(139, 0, 0, 0.3);
+    border-left: 4px solid var(--blood-red);
+    color: var(--text-light);
+}
 
-/* Note: Bootstrap utilities are available for future use:
-   - .container, .container-fluid (for new layouts)
-   - .row, .col-* (for new grid layouts)
-   - .d-flex, .d-grid, .d-none (display utilities)
-   - .mt-*, .mb-*, .p-* (spacing utilities)
-   - .text-*, .bg-* (text/background utilities)
-   
-   However, existing styles take precedence and visual design remains unchanged.
-*/
+.alert-success {
+    background-color: rgba(0, 100, 0, 0.3);
+    border-left: 4px solid #228B22;
+    color: #d4f5d3;
+}
 
 /* ========================================
    BUTTON THEMING (Scoped to Bootstrap classes)
@@ -101,11 +95,11 @@ h1, h2, h3, h4, h5, h6 {
     transform: translateY(0);
 }
 
-/* Secondary: neutral gothic gray */
+/* Secondary: transparent with gold border (Art Bible spec) */
 .btn-secondary {
-    background: linear-gradient(135deg, #666666 0%, #4a4a4a 100%);
-    border: 2px solid #777777;
-    color: #f5e6d3;
+    background: transparent;
+    border: 2px solid var(--muted-gold);
+    color: var(--muted-gold);
     border-radius: 5px;
     font-family: var(--font-title), 'Libre Baskerville', serif;
     font-weight: 600;
@@ -114,10 +108,10 @@ h1, h2, h3, h4, h5, h6 {
 
 .btn-secondary:hover,
 .btn-secondary:focus {
-    background: linear-gradient(135deg, #777777 0%, #5a5a5a 100%);
-    border-color: #8a8a8a;
-    color: #ffffff;
-    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.35);
+    background: var(--muted-gold);
+    color: var(--bg-dark);
+    border-color: var(--muted-gold);
+    box-shadow: 0 5px 20px rgba(212, 176, 109, 0.4);
 }
 
 .btn-secondary:active {
@@ -146,23 +140,25 @@ h1, h2, h3, h4, h5, h6 {
     transform: translateY(0);
 }
 
-/* Danger: matches admin styles (#cc0000 family) */
+/* Danger: Art Bible spec - Dark red, shadowed, brighter red on hover */
 .btn-danger {
-    background: linear-gradient(135deg, #cc0000 0%, #990000 100%);
-    border: 2px solid #990000;
+    background: linear-gradient(135deg, #660000 0%, #4a0000 100%);
+    border: 2px solid #770000;
     color: #f5e6d3;
     border-radius: 5px;
     font-family: var(--font-title), 'Libre Baskerville', serif;
     font-weight: 600;
     transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5), 0 2px 8px rgba(102, 0, 0, 0.4);
 }
 
 .btn-danger:hover,
 .btn-danger:focus {
-    background: linear-gradient(135deg, #e00000 0%, #b30000 100%);
-    border-color: #b30000;
-    color: #ffffff;
-    box-shadow: 0 5px 20px rgba(179, 0, 0, 0.45);
+    background: linear-gradient(135deg, #8B0000 0%, #660000 100%);
+    border-color: #990000;
+    color: #f5e6d3;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.6), 0 3px 10px rgba(139, 0, 0, 0.5);
+    transform: translateY(-2px);
 }
 
 .btn-danger:active {
@@ -197,21 +193,32 @@ h1, h2, h3, h4, h5, h6 {
    Matches gothic panels/action/character/stat cards
    ======================================== */
 
-.d-md-only {
-    display: none;
-}
-@media (min-width: 768px) and (max-width: 991.98px) {
-    .d-md-only {
-        display: block !important;
-    }
-}
-
 .card {
     background: linear-gradient(135deg, #2a1515 0%, #1a0f0f 100%);
     border: 2px solid #8B0000;
-    border-radius: 8px;
+    border-radius: 0.75rem; /* Art Bible spec: 0.75rem - 1rem */
     box-shadow: 0 4px 15px rgba(139, 0, 0, 0.3);
     color: #d4c4b0;
+    transition: all 0.3s ease;
+}
+
+.card:hover:not(.disabled):not(.opacity-50) {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 25px rgba(139, 0, 0, 0.5);
+    border-color: #b30000;
+}
+
+/* Active card - Gold border (Art Bible spec) */
+.card.active,
+.card.card-active {
+    border: 2px solid var(--muted-gold);
+    box-shadow: 0 4px 15px rgba(212, 176, 109, 0.3);
+}
+
+.card.active:hover,
+.card.card-active:hover {
+    border-color: #e5c77d;
+    box-shadow: 0 6px 25px rgba(212, 176, 109, 0.5);
 }
 
 .card-header {
@@ -224,6 +231,16 @@ h1, h2, h3, h4, h5, h6 {
 
 .card-body {
     color: #d4c4b0;
+}
+
+.card-title {
+    font-family: var(--font-title), 'Libre Baskerville', serif;
+    color: #f5e6d3;
+}
+
+.card-text {
+    font-family: var(--font-body), 'Source Serif Pro', serif;
+    color: #b8a090;
 }
 
 .card-footer {

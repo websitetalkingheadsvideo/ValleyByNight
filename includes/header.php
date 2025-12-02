@@ -64,7 +64,7 @@ $current_page = basename($_SERVER['PHP_SELF']);
     ?>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=IM+Fell+English+SC&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Nosifer&family=Source+Serif+Pro:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=IM+Fell+English+SC&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Nosifer&family=Source+Code+Pro:ital,wght@0,400;0,600;0,700;1,400&family=Source+Serif+Pro:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="<?php echo $path_prefix; ?>css/modal_fullscreen.css">
     <script src="<?php echo $path_prefix; ?>js/logo-animation.js"></script>
     <script src="<?php echo $path_prefix; ?>js/form_validation.js"></script>
@@ -74,9 +74,9 @@ $current_page = basename($_SERVER['PHP_SELF']);
 <a class="visually-hidden-focusable" href="#main-content">Skip to main content</a>
 <div class="page-wrapper">
     <header class="valley-header">
-        <div class="header-container container d-flex justify-content-between align-items-center gap-4">
+        <div class="container d-flex justify-content-between align-items-center gap-4">
             <!-- Logo and Title Section -->
-            <div class="header-left d-flex align-items-center gap-4">
+            <div class="d-flex align-items-center gap-4 flex-grow-1">
                 <div class="logo-placeholder" title="Valley by Night Logo">
                     <!-- SVG Logo with hover effects (inline for animation support) -->
                     <a href="<?php echo $app_root; ?>index.php" class="logo-link">
@@ -110,14 +110,14 @@ $current_page = basename($_SERVER['PHP_SELF']);
             </div>
             
             <!-- User Info Section -->
-            <div class="header-right d-flex flex-column align-items-end gap-1">
-                <div class="header-top-row d-flex align-items-center gap-2 flex-wrap">
+            <div class="d-flex flex-column align-items-end gap-1">
+                <div class="d-flex align-items-center gap-2 flex-wrap">
                     <?php if (isset($_SESSION['user_id'])): ?>
-                    <div class="user-info">
+                    <div class="user-info d-flex align-items-center gap-2">
                         <span class="user-label">Kindred:</span>
                         <span class="username"><?php echo htmlspecialchars($username); ?></span>
-                        <a href="<?php echo $app_root; ?>account.php" class="logout-btn" title="Account Settings">Account</a>
-                        <a href="<?php echo $app_root; ?>logout.php" class="logout-btn" title="Logout">Logout</a>
+                        <a href="<?php echo $app_root; ?>account.php" class="logout-btn btn btn-sm btn-outline-primary" title="Account Settings">Account</a>
+                        <a href="<?php echo $app_root; ?>logout.php" class="logout-btn btn btn-sm btn-outline-primary" title="Logout">Logout</a>
                     </div>
                     <?php endif; ?>
                 </div>
