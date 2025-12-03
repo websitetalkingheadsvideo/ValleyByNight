@@ -7,7 +7,7 @@
 **Owner Type:** Clan  
 **Faction:** Camarilla/Anarch  
 **Status:** Needs creation  
-**Notes:** Clan haven for Brujah in Phoenix.
+**Notes:** Potential haven if PC is of that Clan.
 
 ---
 
@@ -16,7 +16,7 @@
 **Owner Type:** Clan  
 **Faction:** Independent/Anarch  
 **Status:** Needs creation  
-**Notes:** Clan haven for Gangrel in Phoenix.
+**Notes:** Potential haven if PC is of that Clan.
 
 ---
 
@@ -25,7 +25,7 @@
 **Owner Type:** Clan  
 **Faction:** Independent  
 **Status:** Needs creation  
-**Notes:** Clan haven for Giovanni in Phoenix.
+**Notes:** Potential haven if PC is of that Clan.
 
 ---
 
@@ -34,7 +34,7 @@
 **Owner Type:** Clan  
 **Faction:** Camarilla  
 **Status:** Needs creation  
-**Notes:** Clan haven for Malkavian in Phoenix.
+**Notes:** Potential haven if PC is of that Clan.
 
 ---
 
@@ -43,7 +43,7 @@
 **Owner Type:** Clan  
 **Faction:** Camarilla  
 **Status:** Needs creation  
-**Notes:** Clan haven for Nosferatu in Phoenix.
+**Notes:** Potential haven if PC is of that Clan.
 
 ---
 
@@ -52,7 +52,7 @@
 **Owner Type:** Clan  
 **Faction:** Independent  
 **Status:** Needs creation  
-**Notes:** Clan haven for Followers of Set (Setite) in Phoenix.
+**Notes:** Potential haven if PC is of that Clan.
 
 ---
 
@@ -61,7 +61,7 @@
 **Owner Type:** Clan  
 **Faction:** Camarilla  
 **Status:** Needs creation  
-**Notes:** Clan haven for Toreador in Phoenix.
+**Notes:** Potential haven if PC is of that Clan.
 
 ---
 
@@ -70,7 +70,7 @@
 **Owner Type:** Clan  
 **Faction:** Camarilla  
 **Status:** Needs creation  
-**Notes:** Clan haven for Tremere in Phoenix.
+**Notes:** Potential haven if PC is of that Clan.
 
 ---
 
@@ -79,7 +79,7 @@
 **Owner Type:** Clan  
 **Faction:** Camarilla  
 **Status:** Needs creation  
-**Notes:** Clan haven for Ventrue in Phoenix.
+**Notes:** Potential haven if PC is of that Clan.
 
 ---
 

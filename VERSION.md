@@ -1,6 +1,31 @@
 # Version History
 
-## Current Version: 0.8.25
+## Current Version: 0.8.26
+
+**Date:** 2025-12-03  
+**Type:** Patch (Reference File Cleanup & Tracking System)
+
+### Changes:
+- **Reference File Cleanup** - Removed duplicate and redundant reference files
+  - Deleted 5 Hawthorne Estate scene markdown files (consolidated into main location files)
+  - Removed duplicate character files (CW Whitford cinematic intro, image prompt, boon prompt)
+  - Moved character images to appropriate subfolders
+  - Total of 523 net lines removed while maintaining important information
+- **Tracking System Creation** - Established tracking systems for content creation
+  - Created `reference/Characters/Characters_to_Create.md` - Tracks characters that need to be created
+  - Updated `reference/Locations/Locations_to_Create.md` - Documents 9 clan havens and 2 faction havens
+  - Structured format with status, location, clan, and notes for each entry
+- **Storyteller Prompt Updates** - Enhanced character generation prompts
+  - Updated biography generation guidelines (100-200 words, aim for 150)
+  - Added cinematic introduction prompt using style_agent MCP
+  - Added Haven description generation prompt
+  - Improved clarity and specificity requirements
+- **Documentation Updates** - Updated session notes and character database analysis
+  - Updated session notes for boon agent UI improvements, wraith character system, and camarilla positions
+  - Updated character database analysis documentation
+  - Minor updates to database fix script
+
+## Previous Version: 0.8.25
 
 **Date:** 2025-01-26  
 **Type:** Patch (Admin Locations Modal Fix & Refactoring)
