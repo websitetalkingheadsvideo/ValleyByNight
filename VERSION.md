@@ -1,6 +1,36 @@
 # Version History
 
-## Current Version: 0.8.26
+## Current Version: 0.8.27
+
+**Date:** 2025-12-03  
+**Type:** Minor (PC Haven Identification System)
+
+### Changes:
+- **PC Haven System Implementation** - Complete system for identifying and managing PC havens
+  - Added `pc_haven` TINYINT(1) field to locations table
+  - Created 11 PC Haven JSON files (9 clan + 2 faction havens) with detailed descriptions
+  - Organized PC Havens in dedicated `reference/Locations/PC Havens/` folder
+  - Created location import script with automatic PC Haven detection
+  - Added PC Haven filter, checkbox, and visual indicator to admin interface
+  - Created CRUD API for location management
+  - Migration script automatically marked 14 existing havens as PC havens
+- **Haven Descriptions** - Created comprehensive 340-word descriptions for all 11 havens
+  - Follows Storyteller prompt structure (practical → psychological → gothic/horror)
+  - Includes detailed security, utility, and social features
+  - Properly handles sub-locations (Giovanni, Nosferatu, Setite, Camarilla havens)
+- **Admin Interface Enhancements** - Full PC Haven management support
+  - Filter dropdown: All / PC Havens Only / Non-PC Havens
+  - "PC" badge indicator in locations table
+  - Checkbox in add/edit form (only visible for Haven type)
+  - Strict filter logic excludes parent locations (Elysiums, Temples)
+- **Import Infrastructure** - Automated location import system
+  - Imports from main Locations directory and PC Havens subdirectory
+  - Auto-detects and marks files in PC Havens folder
+  - Handles template files gracefully
+  - Supports both CLI and web execution
+- **Character Tracking** - Added Mrs. Chen to Characters_to_Create.md
+
+## Previous Version: 0.8.26
 
 **Date:** 2025-12-03  
 **Type:** Patch (Reference File Cleanup & Tracking System)

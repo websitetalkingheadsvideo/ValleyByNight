@@ -167,6 +167,14 @@ while ($char = $characters_result->fetch_assoc()) {
                 <?php endforeach; ?>
             </select>
         </div>
+        <div class="col-12 col-md-auto d-flex align-items-center gap-2">
+            <label for="pcHavenFilter" class="text-light text-uppercase small mb-0">PC Haven:</label>
+            <select id="pcHavenFilter" class="form-select form-select-sm bg-dark text-light border-danger">
+                <option value="all">All</option>
+                <option value="yes">PC Havens Only</option>
+                <option value="no">Non-PC Havens</option>
+            </select>
+        </div>
         <div class="col-12 col-lg col-xl-4">
             <input type="text" id="locationSearch" class="form-control form-control-sm bg-dark text-light border-danger" placeholder="🔍 Search by name..." />
         </div>

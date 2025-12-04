@@ -16,7 +16,7 @@ if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
 require_once __DIR__ . '/../includes/connect.php';
 
 try {
-    $query = "SELECT id, name, type, status, district, owner_type, faction, access_control, security_level, description, summary, notes, created_at 
+    $query = "SELECT id, name, type, status, district, owner_type, faction, access_control, security_level, description, summary, notes, pc_haven, created_at 
               FROM locations 
               ORDER BY id DESC";
     $result = mysqli_query($conn, $query);
