@@ -48,6 +48,7 @@
   "relationship_type": "",
   "relationship_notes": "",
   "image": null,
+  "pc_haven": false,
   "created_at": "",
   "updated_at": ""
 }

@@ -12,6 +12,7 @@ let currentFilter = 'all';
 let currentTypeFilter = 'all';
 let currentStatusFilter = 'all';
 let currentOwnerFilter = 'all';
+let currentPCHavenFilter = 'all';
 let currentSearchTerm = '';
 let currentLocationId = null;
 
@@ -51,6 +52,15 @@ function initializeEventListeners() {
         currentOwnerFilter = this.value;
         applyFilters();
     });
+
+    // PC Haven filter
+    const pcHavenFilter = document.getElementById('pcHavenFilter');
+    if (pcHavenFilter) {
+        pcHavenFilter.addEventListener('change', function() {
+            currentPCHavenFilter = this.value;
+            applyFilters();
+        });
+    }
 
     // Search
     document.getElementById('locationSearch').addEventListener('input', function() {
@@ -107,6 +117,25 @@ function applyFilters() {
         // Owner filter
         if (currentOwnerFilter !== 'all' && location.owner_type !== currentOwnerFilter) return false;
 
+        // PC Haven filter - STRICT: Only locations with type='Haven' can be PC Havens
+        if (currentPCHavenFilter !== 'all') {
+            if (currentPCHavenFilter === 'yes') {
+                // "PC Havens Only" - ONLY show locations that are:
+                // 1. Type = 'Haven' (not Elysium, Temple, etc.)
+                // 2. pc_haven = 1
+                if (location.type !== 'Haven') return false;
+                const isPCHaven = location.pc_haven == 1 || location.pc_haven === true;
+                if (!isPCHaven) return false;
+            } else if (currentPCHavenFilter === 'no') {
+                // "Non-PC Havens" - show everything EXCEPT type='Haven' with pc_haven=1
+                if (location.type === 'Haven') {
+                    const isPCHaven = location.pc_haven == 1 || location.pc_haven === true;
+                    if (isPCHaven) return false; // Exclude PC Havens
+                }
+                // Include everything else (non-Havens, and Havens with pc_haven=0)
+            }
+        }
+
         // Search filter
         if (currentSearchTerm && !location.name.toLowerCase().includes(currentSearchTerm)) return false;
 
@@ -156,10 +185,13 @@ function updateTable() {
     const endIndex = startIndex + locationsPerPage;
     const pageLocations = filteredLocations.slice(startIndex, endIndex);
     
-    tbody.innerHTML = pageLocations.map(location => `
+    tbody.innerHTML = pageLocations.map(location => {
+        const isPCHaven = location.type === 'Haven' && (location.pc_haven == 1 || location.pc_haven === true);
+        const pcHavenBadge = isPCHaven ? '<span class="badge bg-info" title="Possible PC Haven">PC</span> ' : '';
+        return `
         <tr>
             <td>${location.id}</td>
-            <td><strong>${escapeHtml(location.name)}</strong></td>
+            <td><strong>${pcHavenBadge}${escapeHtml(location.name)}</strong></td>
             <td><span class="badge-${location.type.toLowerCase().replace(' ', '-')}">${escapeHtml(location.type)}</span></td>
             <td><span class="badge-${location.status.toLowerCase()}">${escapeHtml(location.status)}</span></td>
             <td>${escapeHtml(location.district || 'N/A')}</td>
@@ -172,7 +204,8 @@ function updateTable() {
                 <button class="action-btn delete-btn" onclick="deleteLocation(${location.id}, '${escapeHtml(location.name)}')" title="Delete Location">🗑️</button>
             </td>
         </tr>
-    `).join('');
+        `;
+    }).join('');
 
     // Add sorting event listeners
     document.querySelectorAll('#locationsTable th[data-sort]').forEach(th => {
@@ -257,6 +290,7 @@ function generateLocationFormHtml(location = null) {
     const locationDescription = location ? escapeHtml(location.description || '') : '';
     const locationSummary = location ? escapeHtml(location.summary || '') : '';
     const locationNotes = location ? escapeHtml(location.notes || '') : '';
+    const locationPCHaven = location && location.type === 'Haven' ? (location.pc_haven == 1 || location.pc_haven === true) : false;
     
     return `
         <form id="locationForm" class="needs-validation" novalidate>
@@ -343,6 +377,16 @@ function generateLocationFormHtml(location = null) {
                 </div>
             </div>
             
+            <div class="form-group mb-3" id="pcHavenContainer" style="${locationType === 'Haven' || !location ? '' : 'display:none;'}">
+                <div class="form-check">
+                    <input type="checkbox" class="form-check-input" id="locationPCHaven" name="pc_haven" value="1" ${locationPCHaven ? 'checked' : ''}>
+                    <label class="form-check-label" for="locationPCHaven">
+                        Possible PC Haven
+                    </label>
+                    <small class="form-text text-muted">Mark this haven as a possible player character haven (only applies to Havens)</small>
+                </div>
+            </div>
+            
             <div class="form-group mb-3">
                 <label for="locationDescription" class="form-label">Description</label>
                 <textarea id="locationDescription" name="description" class="form-control" placeholder="Detailed description of the location...">${locationDescription}</textarea>
@@ -392,6 +436,19 @@ function openAddLocationModal() {
         form.addEventListener('submit', handleFormSubmit);
     }
     
+    // Setup PC Haven checkbox visibility based on type
+    const typeSelect = document.getElementById('locationType');
+    const pcHavenContainer = document.getElementById('pcHavenContainer');
+    const pcHavenCheckbox = document.getElementById('locationPCHaven');
+    if (typeSelect && pcHavenContainer && pcHavenCheckbox) {
+        typeSelect.addEventListener('change', function() {
+            pcHavenContainer.style.display = this.value === 'Haven' ? '' : 'none';
+            if (this.value !== 'Haven') {
+                pcHavenCheckbox.checked = false;
+            }
+        });
+    }
+    
     const modalInstance = new bootstrap.Modal(modalElement);
     modalInstance.show();
 }
@@ -427,6 +484,19 @@ function editLocation(id) {
     if (form) {
         form.removeEventListener('submit', handleFormSubmit);
         form.addEventListener('submit', handleFormSubmit);
+    }
+    
+    // Setup PC Haven checkbox visibility based on type
+    const typeSelect = document.getElementById('locationType');
+    const pcHavenContainer = document.getElementById('pcHavenContainer');
+    const pcHavenCheckbox = document.getElementById('locationPCHaven');
+    if (typeSelect && pcHavenContainer && pcHavenCheckbox) {
+        typeSelect.addEventListener('change', function() {
+            pcHavenContainer.style.display = this.value === 'Haven' ? '' : 'none';
+            if (this.value !== 'Haven') {
+                pcHavenCheckbox.checked = false;
+            }
+        });
     }
     
     const modalInstance = new bootstrap.Modal(modalElement);
