@@ -1,0 +1,34 @@
+## Camarilla Status System (New Major Subsystem)
+
+- [ ] Add `camarilla_status_traits` object to `character.json`
+- [ ] Divide traits into:
+  - Permanent (e.g., Acknowledged, Respected, Honorable)
+  - Fleeting (e.g., Acclaimed, Valiant)
+  - Negative (e.g., Warned, Disgraced, Forsaken)
+- [ ] Define canonical LOTN Revised Status Traits list in a reference file
+- [ ] Implement **Acknowledged** as mandatory baseline for all Camarilla citizens
+- [ ] Script Night 1 Elysium event where the Prince grants the PC **Acknowledged**
+- [ ] Add logic: no boons, offices, or formal Camarilla rights without Acknowledged
+- [ ] Allow Harpies / Prince / Primogen Council to add or strip Status Traits
+- [ ] Integrate Status gain/loss with:
+  - Boon defaults
+  - Masquerade breaches
+  - Major quests and badges
+- [ ] Add `status_changes` block to Nightly Briefing JSON
+- [ ] Add Status display section to character sheet UI
+- [ ] Add Status-based NPC reaction rules (who can speak, accuse, demand, etc.)
+- [ ] Add storyline hooks for disputed or revoked Acknowledgement
+
+## Status Agent
+
+- [ ] Create `agents/status_agent/` folder
+- [ ] Design `status_agent` to:
+  - Read/write `camarilla_status_traits` for PC and NPCs
+  - Apply rules for gaining/losing traits (based on world events, boons, Harpy calls)
+  - Validate that all Camarilla characters have Acknowledged (or are under Accounting)
+  - Output a `status_report` section for the Nightly Briefing
+- [ ] Integrate `status_agent` with:
+  - `boon_agent` (defaulted boons → Disgraced, etc.)
+  - `harpy_agent` (formal proclamations, condemnations)
+  - `world_agent` (Masquerade, Hospitality, Progeny violations)
+- [ ] Add prompts / MCP instructions for Cursor so `status_agent` can safely modify Status data

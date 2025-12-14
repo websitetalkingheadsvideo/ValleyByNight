@@ -18,6 +18,16 @@ error_reporting(2);
 
 require_once __DIR__ . '/connect.php';
 
+// SECURITY: Validate CSRF token
+if ($_SERVER['REQUEST_METHOD'] == 'POST') {
+    if (empty($_POST['csrf_token']) || empty($_SESSION['csrf_token']) || 
+        !hash_equals($_SESSION['csrf_token'], $_POST['csrf_token'])) {
+        $_SESSION['error'] = "Invalid security token. Please try again.";
+        header("Location: /login.php");
+        exit();
+    }
+}
+
 // Check if login is disabled
 $loginDisableFile = dirname(__DIR__) . '/config/login_disable.json';
 $loginDisabled = false;

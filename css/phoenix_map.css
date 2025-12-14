@@ -1,0 +1,207 @@
+/* ========================================
+   PHOENIX MAP VIEWER STYLES
+   Interactive map display with zoom and pan
+   ======================================== */
+
+.map-container {
+    position: relative;
+    width: 100%;
+    height: 80vh;
+    min-height: 600px;
+    overflow: hidden;
+    cursor: grab;
+    background: var(--bg-darker);
+    border: 2px solid var(--blood-red);
+    border-radius: 8px;
+}
+
+.map-container.dragging {
+    cursor: grabbing;
+    user-select: none;
+}
+
+.map-container.edit-mode {
+    cursor: crosshair;
+}
+
+.map-container.edit-mode:not(.dragging) {
+    cursor: crosshair;
+}
+
+.map-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    transition: transform 0.1s ease-out;
+    transform-origin: 0 0;
+}
+
+.markers-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 10;
+}
+
+.location-marker {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+    pointer-events: all;
+    transition: transform 0.2s ease, filter 0.2s ease;
+    z-index: 11;
+}
+
+.location-marker:hover {
+    transform: translate(-50%, -50%) scale(1.3);
+    filter: brightness(1.3);
+}
+
+.marker-pin {
+    width: 100%;
+    height: 100%;
+    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.8));
+}
+
+.marker-pin.haven {
+    color: var(--muted-gold);
+}
+
+.marker-pin.elysium {
+    color: var(--blood-red);
+}
+
+.marker-pin.domain {
+    color: var(--teal-moonlight);
+}
+
+.marker-pin.business {
+    color: #8B6914;
+}
+
+.marker-pin.hunting-ground {
+    color: #4B0082;
+}
+
+.marker-pin.other {
+    color: var(--text-muted);
+}
+
+/* Marker Tooltip */
+.marker-tooltip {
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(26, 15, 15, 0.95);
+    border: 2px solid var(--blood-red);
+    border-radius: 6px;
+    padding: 8px 12px;
+    color: var(--text-light);
+    font-size: 0.875rem;
+    white-space: nowrap;
+    pointer-events: none;
+    margin-bottom: 8px;
+    opacity: 0;
+    transition: opacity 0.2s ease;
+    z-index: 20;
+}
+
+.marker-tooltip::after {
+    content: '';
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 6px solid transparent;
+    border-top-color: var(--blood-red);
+}
+
+.marker-tooltip.show {
+    opacity: 1;
+}
+
+.marker-tooltip .tooltip-name {
+    font-weight: bold;
+    color: var(--muted-gold);
+    margin-bottom: 2px;
+}
+
+.marker-tooltip .tooltip-type {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+}
+
+/* Locations List */
+#locationsList {
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.location-item {
+    padding: 0.5rem;
+    border: 1px solid rgba(139, 0, 0, 0.3);
+    border-radius: 4px;
+    background: rgba(139, 0, 0, 0.05);
+    transition: background 0.2s ease, border-color 0.2s ease;
+    cursor: pointer;
+}
+
+.location-item:hover {
+    background: rgba(139, 0, 0, 0.15);
+    border-color: var(--blood-red);
+}
+
+.location-item .location-name {
+    font-weight: bold;
+    color: var(--muted-gold);
+    margin-bottom: 0.25rem;
+}
+
+.location-item .location-meta {
+    font-size: 0.875rem;
+    color: var(--text-muted);
+}
+
+.location-item .location-meta .badge {
+    margin-right: 0.5rem;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .map-container {
+        height: 60vh;
+        min-height: 400px;
+    }
+    
+    .location-marker {
+        width: 20px;
+        height: 20px;
+    }
+    
+    .marker-tooltip {
+        font-size: 0.75rem;
+        padding: 6px 10px;
+    }
+}
+
+/* Loading state */
+.map-container.loading::after {
+    content: 'Loading map...';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: var(--text-light);
+    font-size: 1.25rem;
+    z-index: 5;
+}
+

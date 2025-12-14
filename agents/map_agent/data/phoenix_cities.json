@@ -1,0 +1,23 @@
+[
+  {
+    "id": "phoenix",
+    "name": "Phoenix",
+    "region": "central",
+    "style": {
+      "fill": "#3B2B3F",
+      "stroke": "#7A6A7D",
+      "opacity": 0.38
+    },
+    "label": {
+      "x": 0.5,
+      "y": 0.56
+    },
+    "shape": {
+      "type": "ellipse",
+      "cx": 0.5,
+      "cy": 0.56,
+      "rx": 0.26,
+      "ry": 0.22
+    }
+  }
+]

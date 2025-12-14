@@ -29,38 +29,24 @@ $stats_query = "SELECT
     SUM(CASE WHEN type = 'Business' THEN 1 ELSE 0 END) as businesses,
     SUM(CASE WHEN type = 'Other' THEN 1 ELSE 0 END) as other
     FROM locations";
-$stats_result = mysqli_query($conn, $stats_query);
-$stats = mysqli_fetch_assoc($stats_result);
+// SECURITY: Using prepared statement helper for consistency
+$stats = db_fetch_one($conn, $stats_query);
+if (!$stats) {
+    $stats = ['total' => 0, 'active' => 0, 'inactive' => 0, 'haven' => 0, 'domain' => 0, 'other' => 0];
+}
 
 // Get all unique types, statuses, and owner types for filters
-$types_query = "SELECT DISTINCT type FROM locations ORDER BY type";
-$types_result = mysqli_query($conn, $types_query);
-$location_types = [];
-while ($type_row = $types_result->fetch_assoc()) {
-    $location_types[] = $type_row['type'];
-}
+$type_rows = db_fetch_all($conn, "SELECT DISTINCT type FROM locations ORDER BY type");
+$location_types = array_column($type_rows, 'type');
 
-$statuses_query = "SELECT DISTINCT status FROM locations ORDER BY status";
-$statuses_result = mysqli_query($conn, $statuses_query);
-$location_statuses = [];
-while ($status_row = $statuses_result->fetch_assoc()) {
-    $location_statuses[] = $status_row['status'];
-}
+$status_rows = db_fetch_all($conn, "SELECT DISTINCT status FROM locations ORDER BY status");
+$location_statuses = array_column($status_rows, 'status');
 
-$owners_query = "SELECT DISTINCT owner_type FROM locations ORDER BY owner_type";
-$owners_result = mysqli_query($conn, $owners_query);
-$location_owners = [];
-while ($owner_row = $owners_result->fetch_assoc()) {
-    $location_owners[] = $owner_row['owner_type'];
-}
+$owner_rows = db_fetch_all($conn, "SELECT DISTINCT owner_type FROM locations ORDER BY owner_type");
+$location_owners = array_column($owner_rows, 'owner_type');
 
 // Get all characters for assignment
-$characters_query = "SELECT id, character_name, clan, player_name FROM characters ORDER BY character_name";
-$characters_result = mysqli_query($conn, $characters_query);
-$all_characters = [];
-while ($char = $characters_result->fetch_assoc()) {
-    $all_characters[] = $char;
-}
+$all_characters = db_fetch_all($conn, "SELECT id, character_name, clan, player_name FROM characters ORDER BY character_name");
 ?>
 
 <div class="container-fluid py-4 px-3 px-md-4">
@@ -189,10 +175,13 @@ while ($char = $characters_result->fetch_assoc()) {
     </div>
 
     <!-- Add Location Button -->
-    <div class="mb-4">
+    <div class="mb-4 d-flex gap-2 flex-wrap">
         <button class="btn btn-primary" onclick="openAddLocationModal()">
             <i class="fas fa-plus"></i> Add New Location
         </button>
+        <a href="../phoenix_map.php" class="btn btn-outline-primary">
+            <i class="fas fa-map"></i> View Phoenix Map
+        </a>
     </div>
 
     <!-- Locations Table -->

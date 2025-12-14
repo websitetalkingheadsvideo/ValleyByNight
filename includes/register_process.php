@@ -13,6 +13,14 @@ if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
     exit();
 }
 
+// SECURITY: Validate CSRF token
+if (empty($_POST['csrf_token']) || empty($_SESSION['csrf_token']) || 
+    !hash_equals($_SESSION['csrf_token'], $_POST['csrf_token'])) {
+    $_SESSION['error'] = "Invalid security token. Please try again.";
+    header("Location: register.php");
+    exit();
+}
+
 // Get and sanitize input
 $username = trim($_POST['username'] ?? '');
 $email = trim($_POST['email'] ?? '');
