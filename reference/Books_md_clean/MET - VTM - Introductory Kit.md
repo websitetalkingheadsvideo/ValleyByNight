@@ -1,0 +1,1 @@
+--- book_title: "MET - VTM - Introductory Kit" clan: "" edition: "" source_type: "clanbook" extraction_pipeline: "docling_v1 + markdown_cleanup_v1" ---

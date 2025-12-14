@@ -60,8 +60,11 @@ include 'includes/header.php';
                     SUM(CASE WHEN player_name = 'NPC' THEN 1 ELSE 0 END) as npcs,
                     SUM(CASE WHEN player_name IS NOT NULL AND player_name != '' AND player_name != 'NPC' THEN 1 ELSE 0 END) as pcs
                     FROM characters";
-                $stats_result = mysqli_query($conn, $stats_query);
-                $stats = mysqli_fetch_assoc($stats_result);
+                // SECURITY: Using prepared statement helper for consistency
+                $stats = db_fetch_one($conn, $stats_query);
+                if (!$stats) {
+                    $stats = ['total' => 0, 'npcs' => 0, 'pcs' => 0];
+                }
                 ?>
                 <div class="card col-md-4 col-sm-6">
                     <div class="card-body text-center">
@@ -125,6 +128,15 @@ include 'includes/header.php';
                         <h3 class="card-title">Locations Database</h3>
                         <p class="card-text">Manage game locations and character assignments</p>
                         <a href="admin/admin_locations.php" class="btn btn-primary">Manage Locations</a>
+                    </div>
+                </div>
+
+                <div class="card col-md-4 col-sm-6">
+                    <div class="card-body text-center">
+                        <div class="vbn-card-icon" aria-hidden="true">🗺️</div>
+                        <h3 class="card-title">Phoenix Map</h3>
+                        <p class="card-text">Explore the interactive map of Phoenix locations</p>
+                        <a href="phoenix_map.php" class="btn btn-primary">View Map</a>
                     </div>
                 </div>
 

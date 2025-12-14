@@ -12,6 +12,10 @@ node_modules/
 # Environment variables
 .env
 
+# Test files (security risk)
+test_db_connection.php
+test_db_connection_cli.php
+
 # Editor directories and files
 .idea
 .vscode

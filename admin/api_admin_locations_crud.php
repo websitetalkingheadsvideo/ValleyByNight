@@ -23,16 +23,17 @@ try {
     
     if ($method === 'POST') {
         // Create new location
-        $name = mysqli_real_escape_string($conn, $input['name'] ?? '');
-        $type = mysqli_real_escape_string($conn, $input['type'] ?? '');
-        $summary = mysqli_real_escape_string($conn, $input['summary'] ?? '');
-        $description = mysqli_real_escape_string($conn, $input['description'] ?? '');
-        $notes = mysqli_real_escape_string($conn, $input['notes'] ?? '');
-        $status = mysqli_real_escape_string($conn, $input['status'] ?? 'Active');
-        $district = mysqli_real_escape_string($conn, $input['district'] ?? '');
-        $owner_type = mysqli_real_escape_string($conn, $input['owner_type'] ?? '');
-        $faction = mysqli_real_escape_string($conn, $input['faction'] ?? '');
-        $access_control = mysqli_real_escape_string($conn, $input['access_control'] ?? '');
+        // SECURITY: Using prepared statements - no need for mysqli_real_escape_string
+        $name = trim($input['name'] ?? '');
+        $type = trim($input['type'] ?? '');
+        $summary = trim($input['summary'] ?? '');
+        $description = trim($input['description'] ?? '');
+        $notes = trim($input['notes'] ?? '');
+        $status = trim($input['status'] ?? 'Active');
+        $district = trim($input['district'] ?? '');
+        $owner_type = trim($input['owner_type'] ?? '');
+        $faction = trim($input['faction'] ?? '');
+        $access_control = trim($input['access_control'] ?? '');
         $security_level = intval($input['security_level'] ?? 3);
         $pc_haven = ($input['pc_haven'] == 1 || $input['pc_haven'] === true || $input['pc_haven'] === '1') ? 1 : 0;
         
@@ -63,16 +64,17 @@ try {
             throw new Exception('Invalid location ID');
         }
         
-        $name = mysqli_real_escape_string($conn, $input['name'] ?? '');
-        $type = mysqli_real_escape_string($conn, $input['type'] ?? '');
-        $summary = mysqli_real_escape_string($conn, $input['summary'] ?? '');
-        $description = mysqli_real_escape_string($conn, $input['description'] ?? '');
-        $notes = mysqli_real_escape_string($conn, $input['notes'] ?? '');
-        $status = mysqli_real_escape_string($conn, $input['status'] ?? 'Active');
-        $district = mysqli_real_escape_string($conn, $input['district'] ?? '');
-        $owner_type = mysqli_real_escape_string($conn, $input['owner_type'] ?? '');
-        $faction = mysqli_real_escape_string($conn, $input['faction'] ?? '');
-        $access_control = mysqli_real_escape_string($conn, $input['access_control'] ?? '');
+        // SECURITY: Using prepared statements - no need for mysqli_real_escape_string
+        $name = trim($input['name'] ?? '');
+        $type = trim($input['type'] ?? '');
+        $summary = trim($input['summary'] ?? '');
+        $description = trim($input['description'] ?? '');
+        $notes = trim($input['notes'] ?? '');
+        $status = trim($input['status'] ?? 'Active');
+        $district = trim($input['district'] ?? '');
+        $owner_type = trim($input['owner_type'] ?? '');
+        $faction = trim($input['faction'] ?? '');
+        $access_control = trim($input['access_control'] ?? '');
         $security_level = intval($input['security_level'] ?? 3);
         $pc_haven = ($input['pc_haven'] == 1 || $input['pc_haven'] === true || $input['pc_haven'] === '1') ? 1 : 0;
         

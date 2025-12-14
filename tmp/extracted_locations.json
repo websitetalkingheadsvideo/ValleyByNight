@@ -1,0 +1,4379 @@
+[
+  {
+    "name": "Adrian Leclair",
+    "normalized_name": "Adrian Leclair",
+    "type": "Unknown",
+    "description": "Mentioned in Adrian Leclair's biography",
+    "sources": [
+      "Adrian Leclair.json"
+    ],
+    "characters": [
+      "Adrian Leclair"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Kindred",
+    "normalized_name": "Kindred",
+    "type": "Unknown",
+    "description": "Mentioned in Piston's biography; Mentioned in Adrian Leclair's biography; Mentioned in Cordelia Fairchild's biography",
+    "sources": [
+      "Adrian Leclair.json",
+      "Alessandro_Vescari_character_sheet.json",
+      "Cordelia Fairchild.json",
+      "Core (Alexandra Chen).json",
+      "Helena_Crowly.json",
+      "Naomi Blackbird.json",
+      "Piston.json",
+      "Sabine.json",
+      "Sebastian.json",
+      "Violet.json",
+      "alistaire.json",
+      "character_history_lilith_nightshade.md",
+      "sheriff_roland.json"
+    ],
+    "characters": [
+      "Adrian Leclair",
+      "Alessandro Vescari",
+      "Alistaire",
+      "Cordelia Fairchild",
+      "Core (Alexandra Chen)",
+      "Helena Crowly",
+      "Lilith Nightshade",
+      "Naomi Blackbird",
+      "Piston",
+      "Roland Cross",
+      "Sabine",
+      "Sebastian",
+      "Violet 'The Confidence Queen'"
+    ],
+    "occurrence_count": 19
+  },
+  {
+    "name": "Camarilla",
+    "normalized_name": "Camarilla",
+    "type": "Unknown",
+    "description": "Mentioned in Adrian Leclair's biography; Mentioned in Roland Cross's biography; Mentioned in Naomi Blackbird's biography",
+    "sources": [
+      "Adrian Leclair.json",
+      "Alessandro_Vescari_character_sheet.json",
+      "Eddy_Valiant_character_sheet.json",
+      "Naomi Blackbird.json",
+      "Roxanne_Murphy.json",
+      "Sarah_Hansen.json",
+      "character_history_lilith_nightshade.md",
+      "sheriff_roland.json"
+    ],
+    "characters": [
+      "Adrian Leclair",
+      "Alessandro Vescari",
+      "Eddy Valiant",
+      "Lilith Nightshade",
+      "Naomi Blackbird",
+      "Roland Cross",
+      "Roxanne Murphy",
+      "Sarah Hansen"
+    ],
+    "occurrence_count": 12
+  },
+  {
+    "name": "Alessandro Vescari",
+    "normalized_name": "Alessandro Vescari",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Alessandro Vescari's biography",
+    "sources": [
+      "Alessandro_Vescari_character_sheet.json"
+    ],
+    "characters": [
+      "Alessandro Vescari"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Italian",
+    "normalized_name": "Italian",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Alessandro Vescari's biography",
+    "sources": [
+      "Alessandro_Vescari_character_sheet.json"
+    ],
+    "characters": [
+      "Alessandro Vescari"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Giovanni",
+    "normalized_name": "Giovanni",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Alistaire's biography; Mentioned in Alessandro Vescari's biography",
+    "sources": [
+      "Alessandro_Vescari_character_sheet.json",
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alessandro Vescari",
+      "Alistaire"
+    ],
+    "occurrence_count": 8
+  },
+  {
+    "name": "Embraced",
+    "normalized_name": "Embraced",
+    "type": "Unknown",
+    "description": "Mentioned in James Whitmore's biography; Mentioned in Betty's biography; Mentioned in Cordelia Fairchild's biography",
+    "sources": [
+      "Alessandro_Vescari_character_sheet.json",
+      "Andrei_Radulescu.json",
+      "Betty.json",
+      "Cordelia Fairchild.json",
+      "Dr_Margaret_Ashford.json",
+      "Helena_Crowly.json",
+      "James_Whitmore.json",
+      "Rembrandt Jones.json",
+      "Sabine.json",
+      "Sebastian.json",
+      "character_history_lilith_nightshade.md",
+      "Étienne.json"
+    ],
+    "characters": [
+      "Alessandro Vescari",
+      "Andrei Radulescu",
+      "Betty",
+      "Cordelia Fairchild",
+      "Dr. Margaret Ashford",
+      "Helena Crowly",
+      "James Whitmore",
+      "Lilith Nightshade",
+      "Rembrandt Jones",
+      "Sabine",
+      "Sebastian",
+      "Étienne Duvalier"
+    ],
+    "occurrence_count": 13
+  },
+  {
+    "name": "Venice",
+    "normalized_name": "Venice",
+    "type": "Haven",
+    "description": "Mentioned in Alistaire's biography; Mentioned in Alessandro Vescari's biography",
+    "sources": [
+      "Alessandro_Vescari_character_sheet.json",
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alessandro Vescari",
+      "Alistaire"
+    ],
+    "occurrence_count": 4
+  },
+  {
+    "name": "Los Angeles",
+    "normalized_name": "Los Angeles",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Alessandro Vescari's biography",
+    "sources": [
+      "Alessandro_Vescari_character_sheet.json"
+    ],
+    "characters": [
+      "Alessandro Vescari"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Scottsdale",
+    "normalized_name": "Scottsdale",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Alessandro Vescari's biography",
+    "sources": [
+      "Alessandro_Vescari_character_sheet.json"
+    ],
+    "characters": [
+      "Alessandro Vescari"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Camelback Mountain",
+    "normalized_name": "Camelback Mountain",
+    "type": "Landmark/Area",
+    "description": "Mentioned in Rembrandt Jones's biography; Mentioned in Alessandro Vescari's biography",
+    "sources": [
+      "Alessandro_Vescari_character_sheet.json",
+      "Rembrandt Jones.json"
+    ],
+    "characters": [
+      "Alessandro Vescari",
+      "Rembrandt Jones"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Unofficially",
+    "normalized_name": "Unofficially",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Alessandro Vescari's biography",
+    "sources": [
+      "Alessandro_Vescari_character_sheet.json"
+    ],
+    "characters": [
+      "Alessandro Vescari"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Mesa",
+    "normalized_name": "Mesa",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Alistaire's biography; Mentioned in Tor's biography; Mentioned in Roxanne Murphy's biography",
+    "sources": [
+      "Alessandro_Vescari_character_sheet.json",
+      "Roxanne_Murphy.json",
+      "Tor.json",
+      "alistaire.json",
+      "Étienne.json"
+    ],
+    "characters": [
+      "Alessandro Vescari",
+      "Alistaire",
+      "Roxanne Murphy",
+      "Tor",
+      "Étienne Duvalier"
+    ],
+    "occurrence_count": 8
+  },
+  {
+    "name": "Setite",
+    "normalized_name": "Setite",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Helena Crowly's biography; Mentioned in Tariq Ibrahim's biography; Mentioned in Alessandro Vescari's biography",
+    "sources": [
+      "Alessandro_Vescari_character_sheet.json",
+      "Helena_Crowly.json",
+      "Roxanne_Murphy.json",
+      "Tariq Ibrahim.json"
+    ],
+    "characters": [
+      "Alessandro Vescari",
+      "Helena Crowly",
+      "Roxanne Murphy",
+      "Tariq Ibrahim"
+    ],
+    "occurrence_count": 7
+  },
+  {
+    "name": "Alessandro",
+    "normalized_name": "Alessandro",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Alessandro Vescari's biography",
+    "sources": [
+      "Alessandro_Vescari_character_sheet.json"
+    ],
+    "characters": [
+      "Alessandro Vescari"
+    ],
+    "occurrence_count": 8
+  },
+  {
+    "name": "Necromancy",
+    "normalized_name": "Necromancy",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Alessandro Vescari's biography",
+    "sources": [
+      "Alessandro_Vescari_character_sheet.json"
+    ],
+    "characters": [
+      "Alessandro Vescari"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Operating",
+    "normalized_name": "Operating",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Alessandro Vescari's biography",
+    "sources": [
+      "Alessandro_Vescari_character_sheet.json"
+    ],
+    "characters": [
+      "Alessandro Vescari"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Behind",
+    "normalized_name": "Behind",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Alessandro Vescari's biography",
+    "sources": [
+      "Alessandro_Vescari_character_sheet.json"
+    ],
+    "characters": [
+      "Alessandro Vescari"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Setites",
+    "normalized_name": "Setites",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Alessandro Vescari's biography",
+    "sources": [
+      "Alessandro_Vescari_character_sheet.json"
+    ],
+    "characters": [
+      "Alessandro Vescari"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Valley",
+    "normalized_name": "Valley",
+    "type": "Unknown",
+    "description": "Mentioned in Phreak's biography; Mentioned in Charles \"C.W.\" Whitford's biography; Mentioned in Core (Alexandra Chen)'s biography",
+    "sources": [
+      "Alessandro_Vescari_character_sheet.json",
+      "CW Whitford.json",
+      "Core (Alexandra Chen).json",
+      "Helena_Crowly.json",
+      "Phreak.json",
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Alessandro Vescari",
+      "Charles \"C.W.\" Whitford",
+      "Core (Alexandra Chen)",
+      "Helena Crowly",
+      "Lilith Nightshade",
+      "Phreak"
+    ],
+    "occurrence_count": 9
+  },
+  {
+    "name": "Camarilla Harpy",
+    "normalized_name": "Camarilla Harpy",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Alessandro Vescari's biography",
+    "sources": [
+      "Alessandro_Vescari_character_sheet.json"
+    ],
+    "characters": [
+      "Alessandro Vescari"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Each",
+    "normalized_name": "Each",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Sarah Hansen's biography; Mentioned in Alessandro Vescari's biography",
+    "sources": [
+      "Alessandro_Vescari_character_sheet.json",
+      "Sarah_Hansen.json"
+    ],
+    "characters": [
+      "Alessandro Vescari",
+      "Sarah Hansen"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Prince",
+    "normalized_name": "Prince",
+    "type": "Unknown",
+    "description": "Mentioned in Charles \"C.W.\" Whitford's biography; Mentioned in Kerry, the Gangrel's biography; Mentioned in Duke Tiki's biography",
+    "sources": [
+      "Alessandro_Vescari_character_sheet.json",
+      "CW Whitford.json",
+      "Duke Tiki.json",
+      "Eddy_Valiant_character_sheet.json",
+      "Helena_Crowly.json",
+      "Kerry_Gangrel_Character_Sheet.json",
+      "Sabine.json",
+      "Sarah_Hansen.json",
+      "Sebastian.json",
+      "character_history_lilith_nightshade.md",
+      "Étienne.json"
+    ],
+    "characters": [
+      "Alessandro Vescari",
+      "Charles \"C.W.\" Whitford",
+      "Duke Tiki",
+      "Eddy Valiant",
+      "Helena Crowly",
+      "Kerry, the Gangrel",
+      "Lilith Nightshade",
+      "Sabine",
+      "Sarah Hansen",
+      "Sebastian",
+      "Étienne Duvalier"
+    ],
+    "occurrence_count": 21
+  },
+  {
+    "name": "Temple",
+    "normalized_name": "Temple",
+    "type": "Organization Base",
+    "description": "Mentioned in Alessandro Vescari's biography",
+    "sources": [
+      "Alessandro_Vescari_character_sheet.json"
+    ],
+    "characters": [
+      "Alessandro Vescari"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Alistaire",
+    "normalized_name": "Alistaire",
+    "type": "Haven",
+    "description": "Mentioned in Alistaire's biography; Mentioned in Betty's biography",
+    "sources": [
+      "Betty.json",
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alistaire",
+      "Betty"
+    ],
+    "occurrence_count": 7
+  },
+  {
+    "name": "Italy",
+    "normalized_name": "Italy",
+    "type": "City/Region",
+    "description": "Mentioned in Alistaire's biography",
+    "sources": [
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alistaire"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Born",
+    "normalized_name": "Born",
+    "type": "Unknown",
+    "description": "Mentioned in Sabine's biography; Mentioned in Sebastian's biography; Mentioned in Alistaire's biography",
+    "sources": [
+      "Dr_Margaret_Ashford.json",
+      "Naomi Blackbird.json",
+      "Sabine.json",
+      "Sebastian.json",
+      "alistaire.json",
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Alistaire",
+      "Dr. Margaret Ashford",
+      "Lilith Nightshade",
+      "Naomi Blackbird",
+      "Sabine",
+      "Sebastian"
+    ],
+    "occurrence_count": 6
+  },
+  {
+    "name": "Fascism",
+    "normalized_name": "Fascism",
+    "type": "Haven",
+    "description": "Mentioned in Alistaire's biography",
+    "sources": [
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alistaire"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Europe",
+    "normalized_name": "Europe",
+    "type": "Haven",
+    "description": "Mentioned in Alistaire's biography; Mentioned in Étienne Duvalier's biography",
+    "sources": [
+      "alistaire.json",
+      "Étienne.json"
+    ],
+    "characters": [
+      "Alistaire",
+      "Étienne Duvalier"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "His Embrace",
+    "normalized_name": "His Embrace",
+    "type": "Haven",
+    "description": "Mentioned in Alistaire's biography",
+    "sources": [
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alistaire"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Nosferatu",
+    "normalized_name": "Nosferatu",
+    "type": "Haven",
+    "description": "Mentioned in Alistaire's biography; Mentioned in Betty's biography; Mentioned in Violet 'The Confidence Queen''s biography",
+    "sources": [
+      "Betty.json",
+      "Cordelia Fairchild.json",
+      "Violet.json",
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alistaire",
+      "Betty",
+      "Cordelia Fairchild",
+      "Violet 'The Confidence Queen'"
+    ],
+    "occurrence_count": 6
+  },
+  {
+    "name": "When World War",
+    "normalized_name": "When World War",
+    "type": "Haven",
+    "description": "Mentioned in Alistaire's biography",
+    "sources": [
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alistaire"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Survivor",
+    "normalized_name": "Survivor",
+    "type": "Haven",
+    "description": "Mentioned in Alistaire's biography",
+    "sources": [
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alistaire"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Fleeing",
+    "normalized_name": "Fleeing",
+    "type": "Haven",
+    "description": "Mentioned in Alistaire's biography",
+    "sources": [
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alistaire"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "The American Southwest",
+    "normalized_name": "American Southwest",
+    "type": "Haven",
+    "description": "Mentioned in Alistaire's biography",
+    "sources": [
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alistaire"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Cold War",
+    "normalized_name": "Cold War",
+    "type": "Haven",
+    "description": "Mentioned in Alistaire's biography",
+    "sources": [
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alistaire"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "The Bunker",
+    "normalized_name": "Bunker",
+    "type": "Haven",
+    "description": "Mentioned in Alistaire's biography; Listed as demolished; secretly maintained.",
+    "sources": [
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alistaire"
+    ],
+    "occurrence_count": 4
+  },
+  {
+    "name": "Over",
+    "normalized_name": "Over",
+    "type": "Haven",
+    "description": "Mentioned in Alistaire's biography; Mentioned in character history",
+    "sources": [
+      "alistaire.json",
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Alistaire",
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Shrecknet",
+    "normalized_name": "Shrecknet",
+    "type": "Haven",
+    "description": "Mentioned in Alistaire's biography; Mentioned in Betty's biography",
+    "sources": [
+      "Betty.json",
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alistaire",
+      "Betty"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Today",
+    "normalized_name": "Today",
+    "type": "Haven",
+    "description": "Mentioned in Alistaire's biography",
+    "sources": [
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alistaire"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Nosferatu Primogen",
+    "normalized_name": "Nosferatu Primogen",
+    "type": "Haven",
+    "description": "Mentioned in Alistaire's biography",
+    "sources": [
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alistaire"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "His Bunker",
+    "normalized_name": "His Bunker",
+    "type": "Haven",
+    "description": "Mentioned in Alistaire's biography",
+    "sources": [
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alistaire"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Terry",
+    "normalized_name": "Terry",
+    "type": "Haven",
+    "description": "Mentioned in Alistaire's biography; Mentioned in Betty's biography",
+    "sources": [
+      "Betty.json",
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alistaire",
+      "Betty"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Core",
+    "normalized_name": "Core",
+    "type": "Haven",
+    "description": "Mentioned in Alistaire's biography; Mentioned in Phreak's biography; Mentioned in Core (Alexandra Chen)'s biography",
+    "sources": [
+      "Core (Alexandra Chen).json",
+      "Phreak.json",
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alistaire",
+      "Core (Alexandra Chen)",
+      "Phreak"
+    ],
+    "occurrence_count": 3
+  },
+  {
+    "name": "Phreak",
+    "normalized_name": "Phreak",
+    "type": "Haven",
+    "description": "Mentioned in Alistaire's biography; Mentioned in Phreak's biography",
+    "sources": [
+      "Phreak.json",
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alistaire",
+      "Phreak"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Betty",
+    "normalized_name": "Betty",
+    "type": "Haven",
+    "description": "Mentioned in Alistaire's biography; Mentioned in Betty's biography",
+    "sources": [
+      "Betty.json",
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alistaire",
+      "Betty"
+    ],
+    "occurrence_count": 5
+  },
+  {
+    "name": "Earl",
+    "normalized_name": "Earl",
+    "type": "Haven",
+    "description": "Mentioned in Alistaire's biography",
+    "sources": [
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alistaire"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Dale",
+    "normalized_name": "Dale",
+    "type": "Haven",
+    "description": "Mentioned in Alistaire's biography",
+    "sources": [
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alistaire"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "The Silent Authority",
+    "normalized_name": "Silent Authority",
+    "type": "Haven",
+    "description": "Mentioned in Alistaire's biography",
+    "sources": [
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alistaire"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Listed",
+    "normalized_name": "Listed",
+    "type": "Unknown",
+    "description": "From Alistaire's location notes",
+    "sources": [
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alistaire"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Venice, Italy",
+    "normalized_name": "Venice, Italy",
+    "type": "City/Region",
+    "description": "Birthplace of Alistaire",
+    "sources": [
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alistaire"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Mid",
+    "normalized_name": "Mid",
+    "type": "City/Region",
+    "description": "Mentioned in Alistaire's arrival timeline",
+    "sources": [
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alistaire"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Romanian",
+    "normalized_name": "Romanian",
+    "type": "Unknown",
+    "description": "Mentioned in Andrei Radulescu's biography",
+    "sources": [
+      "Andrei_Radulescu.json"
+    ],
+    "characters": [
+      "Andrei Radulescu"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Grew",
+    "normalized_name": "Grew",
+    "type": "Unknown",
+    "description": "Mentioned in Andrei Radulescu's biography",
+    "sources": [
+      "Andrei_Radulescu.json"
+    ],
+    "characters": [
+      "Andrei Radulescu"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Kenosha",
+    "normalized_name": "Kenosha",
+    "type": "Unknown",
+    "description": "Mentioned in Andrei Radulescu's biography",
+    "sources": [
+      "Andrei_Radulescu.json"
+    ],
+    "characters": [
+      "Andrei Radulescu"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Wisconsin",
+    "normalized_name": "Wisconsin",
+    "type": "Unknown",
+    "description": "Mentioned in Andrei Radulescu's biography",
+    "sources": [
+      "Andrei_Radulescu.json"
+    ],
+    "characters": [
+      "Andrei Radulescu"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Books",
+    "normalized_name": "Books",
+    "type": "Unknown",
+    "description": "Mentioned in Andrei Radulescu's biography",
+    "sources": [
+      "Andrei_Radulescu.json"
+    ],
+    "characters": [
+      "Andrei Radulescu"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Working",
+    "normalized_name": "Working",
+    "type": "Unknown",
+    "description": "Mentioned in Andrei Radulescu's biography",
+    "sources": [
+      "Andrei_Radulescu.json"
+    ],
+    "characters": [
+      "Andrei Radulescu"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Dehydrate Thaumaturgy",
+    "normalized_name": "Dehydrate Thaumaturgy",
+    "type": "Unknown",
+    "description": "Mentioned in Andrei Radulescu's biography",
+    "sources": [
+      "Andrei_Radulescu.json"
+    ],
+    "characters": [
+      "Andrei Radulescu"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Embrace",
+    "normalized_name": "Embrace",
+    "type": "Unknown",
+    "description": "Mentioned in Betty's biography; Mentioned in Sabine's biography; Mentioned in Sebastian's biography",
+    "sources": [
+      "Andrei_Radulescu.json",
+      "Betty.json",
+      "Eddy_Valiant_character_sheet.json",
+      "Jax.json",
+      "Naomi Blackbird.json",
+      "Rembrandt Jones.json",
+      "Sabine.json",
+      "Sarah_Hansen.json",
+      "Sebastian.json",
+      "Violet.json"
+    ],
+    "characters": [
+      "Andrei Radulescu",
+      "Betty",
+      "Eddy Valiant",
+      "Jax 'The Ghost Dealer'",
+      "Naomi Blackbird",
+      "Rembrandt Jones",
+      "Sabine",
+      "Sarah Hansen",
+      "Sebastian",
+      "Violet 'The Confidence Queen'"
+    ],
+    "occurrence_count": 13
+  },
+  {
+    "name": "Nervous",
+    "normalized_name": "Nervous",
+    "type": "Unknown",
+    "description": "Mentioned in Andrei Radulescu's biography",
+    "sources": [
+      "Andrei_Radulescu.json"
+    ],
+    "characters": [
+      "Andrei Radulescu"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Good",
+    "normalized_name": "Good",
+    "type": "Unknown",
+    "description": "Mentioned in Andrei Radulescu's biography",
+    "sources": [
+      "Andrei_Radulescu.json"
+    ],
+    "characters": [
+      "Andrei Radulescu"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "James Whitmore",
+    "normalized_name": "James Whitmore",
+    "type": "Unknown",
+    "description": "Mentioned in Andrei Radulescu's biography",
+    "sources": [
+      "Andrei_Radulescu.json"
+    ],
+    "characters": [
+      "Andrei Radulescu"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Resents Dr",
+    "normalized_name": "Resents Dr",
+    "type": "Unknown",
+    "description": "Mentioned in Andrei Radulescu's biography",
+    "sources": [
+      "Andrei_Radulescu.json"
+    ],
+    "characters": [
+      "Andrei Radulescu"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Ashford",
+    "normalized_name": "Ashford",
+    "type": "Unknown",
+    "description": "Mentioned in Andrei Radulescu's biography",
+    "sources": [
+      "Andrei_Radulescu.json"
+    ],
+    "characters": [
+      "Andrei Radulescu"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Bayside Bob",
+    "normalized_name": "Bayside Bob",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Bayside Bob's biography",
+    "sources": [
+      "Bayside Bob.json"
+    ],
+    "characters": [
+      "Bayside Bob"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Coast Guard",
+    "normalized_name": "Coast Guard",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Bayside Bob's biography",
+    "sources": [
+      "Bayside Bob.json"
+    ],
+    "characters": [
+      "Bayside Bob"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Bayside",
+    "normalized_name": "Bayside",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Bayside Bob's biography",
+    "sources": [
+      "Bayside Bob.json"
+    ],
+    "characters": [
+      "Bayside Bob"
+    ],
+    "occurrence_count": 3
+  },
+  {
+    "name": "During",
+    "normalized_name": "During",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Piston's biography; Mentioned in Bayside Bob's biography",
+    "sources": [
+      "Bayside Bob.json",
+      "Piston.json"
+    ],
+    "characters": [
+      "Bayside Bob",
+      "Piston"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "One",
+    "normalized_name": "One",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Bayside Bob's biography",
+    "sources": [
+      "Bayside Bob.json"
+    ],
+    "characters": [
+      "Bayside Bob"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Bob",
+    "normalized_name": "Bob",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Duke Tiki's biography; Mentioned in Bayside Bob's biography",
+    "sources": [
+      "Bayside Bob.json",
+      "Duke Tiki.json"
+    ],
+    "characters": [
+      "Bayside Bob",
+      "Duke Tiki"
+    ],
+    "occurrence_count": 6
+  },
+  {
+    "name": "The Bali Hai",
+    "normalized_name": "Bali Hai",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Duke Tiki's biography; Mentioned in Bayside Bob's biography",
+    "sources": [
+      "Bayside Bob.json",
+      "Duke Tiki.json"
+    ],
+    "characters": [
+      "Bayside Bob",
+      "Duke Tiki"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Tiki",
+    "normalized_name": "Tiki",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Duke Tiki's biography; Mentioned in Bayside Bob's biography",
+    "sources": [
+      "Bayside Bob.json",
+      "Duke Tiki.json"
+    ],
+    "characters": [
+      "Bayside Bob",
+      "Duke Tiki"
+    ],
+    "occurrence_count": 5
+  },
+  {
+    "name": "Polynesian",
+    "normalized_name": "Polynesian",
+    "type": "Unknown",
+    "description": "Mentioned in Duke Tiki's biography; Mentioned in Bayside Bob's biography",
+    "sources": [
+      "Bayside Bob.json",
+      "Duke Tiki.json"
+    ],
+    "characters": [
+      "Bayside Bob",
+      "Duke Tiki"
+    ],
+    "occurrence_count": 3
+  },
+  {
+    "name": "Camelback Road",
+    "normalized_name": "Camelback Road",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Bayside Bob's biography",
+    "sources": [
+      "Bayside Bob.json"
+    ],
+    "characters": [
+      "Bayside Bob"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Anarch",
+    "normalized_name": "Anarch",
+    "type": "Business/Establishment",
+    "description": "Mentioned in character history; Mentioned in Piston's biography; Mentioned in Bayside Bob's biography",
+    "sources": [
+      "Bayside Bob.json",
+      "Piston.json",
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Bayside Bob",
+      "Lilith Nightshade",
+      "Piston"
+    ],
+    "occurrence_count": 4
+  },
+  {
+    "name": "Anarchs",
+    "normalized_name": "Anarchs",
+    "type": "Unknown",
+    "description": "Mentioned in character history; Mentioned in Bayside Bob's biography",
+    "sources": [
+      "Bayside Bob.json",
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Bayside Bob",
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 3
+  },
+  {
+    "name": "Despite",
+    "normalized_name": "Despite",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Jax 'The Ghost Dealer''s biography; Mentioned in Bayside Bob's biography",
+    "sources": [
+      "Bayside Bob.json",
+      "Jax.json"
+    ],
+    "characters": [
+      "Bayside Bob",
+      "Jax 'The Ghost Dealer'"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Americana",
+    "normalized_name": "Americana",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Bayside Bob's biography",
+    "sources": [
+      "Bayside Bob.json"
+    ],
+    "characters": [
+      "Bayside Bob"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Computer Science",
+    "normalized_name": "Computer Science",
+    "type": "Haven",
+    "description": "Mentioned in Betty's biography",
+    "sources": [
+      "Betty.json"
+    ],
+    "characters": [
+      "Betty"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Phoenix Nosferatu",
+    "normalized_name": "Phoenix Nosferatu",
+    "type": "Haven",
+    "description": "Mentioned in Betty's biography",
+    "sources": [
+      "Betty.json"
+    ],
+    "characters": [
+      "Betty"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Her Nosferatu",
+    "normalized_name": "Her Nosferatu",
+    "type": "Haven",
+    "description": "Mentioned in Betty's biography",
+    "sources": [
+      "Betty.json"
+    ],
+    "characters": [
+      "Betty"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "The Living Terminal",
+    "normalized_name": "Living Terminal",
+    "type": "Haven",
+    "description": "Mentioned in Betty's biography",
+    "sources": [
+      "Betty.json"
+    ],
+    "characters": [
+      "Betty"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Microsoft",
+    "normalized_name": "Microsoft",
+    "type": "Haven",
+    "description": "Mentioned in Betty's biography",
+    "sources": [
+      "Betty.json"
+    ],
+    "characters": [
+      "Betty"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Unix",
+    "normalized_name": "Unix",
+    "type": "Haven",
+    "description": "Mentioned in Betty's biography",
+    "sources": [
+      "Betty.json"
+    ],
+    "characters": [
+      "Betty"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Any",
+    "normalized_name": "Any",
+    "type": "Haven",
+    "description": "Mentioned in Betty's biography",
+    "sources": [
+      "Betty.json"
+    ],
+    "characters": [
+      "Betty"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Cordelia Fairchild",
+    "normalized_name": "Cordelia Fairchild",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Cordelia Fairchild's biography",
+    "sources": [
+      "Cordelia Fairchild.json"
+    ],
+    "characters": [
+      "Cordelia Fairchild"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "American Gilded Age",
+    "normalized_name": "American Gilded Age",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Cordelia Fairchild's biography",
+    "sources": [
+      "Cordelia Fairchild.json"
+    ],
+    "characters": [
+      "Cordelia Fairchild"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Her Embrace",
+    "normalized_name": "Her Embrace",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Cordelia Fairchild's biography",
+    "sources": [
+      "Cordelia Fairchild.json"
+    ],
+    "characters": [
+      "Cordelia Fairchild"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Toreador",
+    "normalized_name": "Toreador",
+    "type": "Unknown",
+    "description": "Mentioned in Duke Tiki's biography; Mentioned in Sabine's biography; Mentioned in Cordelia Fairchild's biography",
+    "sources": [
+      "Cordelia Fairchild.json",
+      "Duke Tiki.json",
+      "Rembrandt Jones.json",
+      "Sabine.json",
+      "Sarah_Hansen.json",
+      "Sebastian.json",
+      "sheriff_roland.json",
+      "Étienne.json"
+    ],
+    "characters": [
+      "Cordelia Fairchild",
+      "Duke Tiki",
+      "Rembrandt Jones",
+      "Roland Cross",
+      "Sabine",
+      "Sarah Hansen",
+      "Sebastian",
+      "Étienne Duvalier"
+    ],
+    "occurrence_count": 14
+  },
+  {
+    "name": "Flagstaff",
+    "normalized_name": "Flagstaff",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Cordelia Fairchild's biography",
+    "sources": [
+      "Cordelia Fairchild.json"
+    ],
+    "characters": [
+      "Cordelia Fairchild"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Harpy",
+    "normalized_name": "Harpy",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Cordelia Fairchild's biography",
+    "sources": [
+      "Cordelia Fairchild.json"
+    ],
+    "characters": [
+      "Cordelia Fairchild"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Darrell Buyers",
+    "normalized_name": "Darrell Buyers",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Cordelia Fairchild's biography",
+    "sources": [
+      "Cordelia Fairchild.json"
+    ],
+    "characters": [
+      "Cordelia Fairchild"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Cordelia",
+    "normalized_name": "Cordelia",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Cordelia Fairchild's biography",
+    "sources": [
+      "Cordelia Fairchild.json"
+    ],
+    "characters": [
+      "Cordelia Fairchild"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Jyhad",
+    "normalized_name": "Jyhad",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Cordelia Fairchild's biography",
+    "sources": [
+      "Cordelia Fairchild.json"
+    ],
+    "characters": [
+      "Cordelia Fairchild"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Alexandra Chen",
+    "normalized_name": "Alexandra Chen",
+    "type": "Unknown",
+    "description": "Mentioned in Core (Alexandra Chen)'s biography",
+    "sources": [
+      "Core (Alexandra Chen).json"
+    ],
+    "characters": [
+      "Core (Alexandra Chen)"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Night",
+    "normalized_name": "Night",
+    "type": "Unknown",
+    "description": "Mentioned in Core (Alexandra Chen)'s biography; Mentioned in character history",
+    "sources": [
+      "Core (Alexandra Chen).json",
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Core (Alexandra Chen)",
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Though",
+    "normalized_name": "Though",
+    "type": "Unknown",
+    "description": "Mentioned in Sarah Hansen's biography; Mentioned in Core (Alexandra Chen)'s biography",
+    "sources": [
+      "Core (Alexandra Chen).json",
+      "Sarah_Hansen.json"
+    ],
+    "characters": [
+      "Core (Alexandra Chen)",
+      "Sarah Hansen"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Arriving",
+    "normalized_name": "Arriving",
+    "type": "Unknown",
+    "description": "Mentioned in Charles \"C.W.\" Whitford's biography",
+    "sources": [
+      "CW Whitford.json"
+    ],
+    "characters": [
+      "Charles \"C.W.\" Whitford"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Charles",
+    "normalized_name": "Charles",
+    "type": "Unknown",
+    "description": "Mentioned in Charles \"C.W.\" Whitford's biography",
+    "sources": [
+      "CW Whitford.json"
+    ],
+    "characters": [
+      "Charles \"C.W.\" Whitford"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Whitford",
+    "normalized_name": "Whitford",
+    "type": "Unknown",
+    "description": "Mentioned in Charles \"C.W.\" Whitford's biography",
+    "sources": [
+      "CW Whitford.json"
+    ],
+    "characters": [
+      "Charles \"C.W.\" Whitford"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Ventrue Primogen",
+    "normalized_name": "Ventrue Primogen",
+    "type": "Unknown",
+    "description": "Mentioned in Charles \"C.W.\" Whitford's biography",
+    "sources": [
+      "CW Whitford.json"
+    ],
+    "characters": [
+      "Charles \"C.W.\" Whitford"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Viewing",
+    "normalized_name": "Viewing",
+    "type": "Unknown",
+    "description": "Mentioned in Charles \"C.W.\" Whitford's biography",
+    "sources": [
+      "CW Whitford.json"
+    ],
+    "characters": [
+      "Charles \"C.W.\" Whitford"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Assamites",
+    "normalized_name": "Assamites",
+    "type": "Unknown",
+    "description": "Mentioned in Charles \"C.W.\" Whitford's biography",
+    "sources": [
+      "CW Whitford.json"
+    ],
+    "characters": [
+      "Charles \"C.W.\" Whitford"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Now",
+    "normalized_name": "Now",
+    "type": "Unknown",
+    "description": "Mentioned in Rembrandt Jones's biography; Mentioned in Jax 'The Ghost Dealer''s biography; Mentioned in Charles \"C.W.\" Whitford's biography",
+    "sources": [
+      "CW Whitford.json",
+      "Jax.json",
+      "Piston.json",
+      "Rembrandt Jones.json"
+    ],
+    "characters": [
+      "Charles \"C.W.\" Whitford",
+      "Jax 'The Ghost Dealer'",
+      "Piston",
+      "Rembrandt Jones"
+    ],
+    "occurrence_count": 4
+  },
+  {
+    "name": "Whitford Development Corporate Offices (Private Suite)",
+    "normalized_name": "Whitford Development Corporate Offices (Private Suite)",
+    "type": "Haven",
+    "description": "Overlooks central Phoenix; secured with layered mortal and financial influence.",
+    "sources": [
+      "CW Whitford.json"
+    ],
+    "characters": [
+      "Charles \"C.W.\" Whitford"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Overlooks",
+    "normalized_name": "Overlooks",
+    "type": "Unknown",
+    "description": "From Charles \"C.W.\" Whitford's location notes",
+    "sources": [
+      "CW Whitford.json"
+    ],
+    "characters": [
+      "Charles \"C.W.\" Whitford"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "United States",
+    "normalized_name": "United States",
+    "type": "City/Region",
+    "description": "Birthplace of Charles \"C.W.\" Whitford",
+    "sources": [
+      "CW Whitford.json"
+    ],
+    "characters": [
+      "Charles \"C.W.\" Whitford"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Philadelphia",
+    "normalized_name": "Philadelphia",
+    "type": "Unknown",
+    "description": "Mentioned in Dr. Margaret Ashford's biography",
+    "sources": [
+      "Dr_Margaret_Ashford.json"
+    ],
+    "characters": [
+      "Dr. Margaret Ashford"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Specialized",
+    "normalized_name": "Specialized",
+    "type": "Unknown",
+    "description": "Mentioned in Dr. Margaret Ashford's biography",
+    "sources": [
+      "Dr_Margaret_Ashford.json"
+    ],
+    "characters": [
+      "Dr. Margaret Ashford"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "European",
+    "normalized_name": "European",
+    "type": "Unknown",
+    "description": "Mentioned in Dr. Margaret Ashford's biography",
+    "sources": [
+      "Dr_Margaret_Ashford.json"
+    ],
+    "characters": [
+      "Dr. Margaret Ashford"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Relocated",
+    "normalized_name": "Relocated",
+    "type": "Unknown",
+    "description": "Mentioned in Dr. Margaret Ashford's biography",
+    "sources": [
+      "Dr_Margaret_Ashford.json"
+    ],
+    "characters": [
+      "Dr. Margaret Ashford"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Currently",
+    "normalized_name": "Currently",
+    "type": "Unknown",
+    "description": "Mentioned in Dr. Margaret Ashford's biography",
+    "sources": [
+      "Dr_Margaret_Ashford.json"
+    ],
+    "characters": [
+      "Dr. Margaret Ashford"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Aonbharr",
+    "normalized_name": "Aonbharr",
+    "type": "Unknown",
+    "description": "Mentioned in Dr. Margaret Ashford's biography",
+    "sources": [
+      "Dr_Margaret_Ashford.json"
+    ],
+    "characters": [
+      "Dr. Margaret Ashford"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Duke Tiki",
+    "normalized_name": "Duke Tiki",
+    "type": "Unknown",
+    "description": "Mentioned in Duke Tiki's biography",
+    "sources": [
+      "Duke Tiki.json"
+    ],
+    "characters": [
+      "Duke Tiki"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Hawaiian",
+    "normalized_name": "Hawaiian",
+    "type": "Unknown",
+    "description": "Mentioned in Duke Tiki's biography",
+    "sources": [
+      "Duke Tiki.json"
+    ],
+    "characters": [
+      "Duke Tiki"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Among",
+    "normalized_name": "Among",
+    "type": "Unknown",
+    "description": "Mentioned in Duke Tiki's biography",
+    "sources": [
+      "Duke Tiki.json"
+    ],
+    "characters": [
+      "Duke Tiki"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "After",
+    "normalized_name": "After",
+    "type": "Unknown",
+    "description": "Mentioned in Roxanne Murphy's biography; Mentioned in Duke Tiki's biography",
+    "sources": [
+      "Duke Tiki.json",
+      "Roxanne_Murphy.json"
+    ],
+    "characters": [
+      "Duke Tiki",
+      "Roxanne Murphy"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Embraced Bob",
+    "normalized_name": "Embraced Bob",
+    "type": "Unknown",
+    "description": "Mentioned in Duke Tiki's biography",
+    "sources": [
+      "Duke Tiki.json"
+    ],
+    "characters": [
+      "Duke Tiki"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Once",
+    "normalized_name": "Once",
+    "type": "Unknown",
+    "description": "Mentioned in Sarah Hansen's biography; Mentioned in Tor's biography; Mentioned in Eddy Valiant's biography",
+    "sources": [
+      "Eddy_Valiant_character_sheet.json",
+      "Sarah_Hansen.json",
+      "Tor.json"
+    ],
+    "characters": [
+      "Eddy Valiant",
+      "Sarah Hansen",
+      "Tor"
+    ],
+    "occurrence_count": 3
+  },
+  {
+    "name": "Eddy Valiant",
+    "normalized_name": "Eddy Valiant",
+    "type": "Unknown",
+    "description": "Mentioned in Eddy Valiant's biography",
+    "sources": [
+      "Eddy_Valiant_character_sheet.json"
+    ],
+    "characters": [
+      "Eddy Valiant"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Eddy",
+    "normalized_name": "Eddy",
+    "type": "Unknown",
+    "description": "Mentioned in Eddy Valiant's biography",
+    "sources": [
+      "Eddy_Valiant_character_sheet.json"
+    ],
+    "characters": [
+      "Eddy Valiant"
+    ],
+    "occurrence_count": 3
+  },
+  {
+    "name": "Valiant Detective Agency",
+    "normalized_name": "Valiant Detective Agency",
+    "type": "Unknown",
+    "description": "Mentioned in Eddy Valiant's biography",
+    "sources": [
+      "Eddy_Valiant_character_sheet.json"
+    ],
+    "characters": [
+      "Eddy Valiant"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Van Buren",
+    "normalized_name": "Van Buren",
+    "type": "Unknown",
+    "description": "Mentioned in Eddy Valiant's biography",
+    "sources": [
+      "Eddy_Valiant_character_sheet.json"
+    ],
+    "characters": [
+      "Eddy Valiant"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Marilyn Chase",
+    "normalized_name": "Marilyn Chase",
+    "type": "Unknown",
+    "description": "Mentioned in Eddy Valiant's biography",
+    "sources": [
+      "Eddy_Valiant_character_sheet.json"
+    ],
+    "characters": [
+      "Eddy Valiant"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Among Phoenix Kindred",
+    "normalized_name": "Among Phoenix Kindred",
+    "type": "Unknown",
+    "description": "Mentioned in Eddy Valiant's biography",
+    "sources": [
+      "Eddy_Valiant_character_sheet.json"
+    ],
+    "characters": [
+      "Eddy Valiant"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Hawthorn Estate",
+    "normalized_name": "Hawthorn Estate",
+    "type": "Haven",
+    "description": "Mentioned in Eddy Valiant's biography",
+    "sources": [
+      "Eddy_Valiant_character_sheet.json"
+    ],
+    "characters": [
+      "Eddy Valiant"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Helena Crowly",
+    "normalized_name": "Helena Crowly",
+    "type": "Organization Base",
+    "description": "Mentioned in Helena Crowly's biography",
+    "sources": [
+      "Helena_Crowly.json"
+    ],
+    "characters": [
+      "Helena Crowly"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Second World War",
+    "normalized_name": "Second World War",
+    "type": "Organization Base",
+    "description": "Mentioned in Helena Crowly's biography",
+    "sources": [
+      "Helena_Crowly.json"
+    ],
+    "characters": [
+      "Helena Crowly"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Kings",
+    "normalized_name": "Kings",
+    "type": "Organization Base",
+    "description": "Mentioned in Helena Crowly's biography",
+    "sources": [
+      "Helena_Crowly.json"
+    ],
+    "characters": [
+      "Helena Crowly"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Tremere",
+    "normalized_name": "Tremere",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Helena Crowly's arrival timeline; Mentioned in Helena Crowly's biography; Mentioned in James Whitmore's biography",
+    "sources": [
+      "Helena_Crowly.json",
+      "James_Whitmore.json"
+    ],
+    "characters": [
+      "Helena Crowly",
+      "James Whitmore"
+    ],
+    "occurrence_count": 4
+  },
+  {
+    "name": "Cairo",
+    "normalized_name": "Cairo",
+    "type": "Organization Base",
+    "description": "Mentioned in Helena Crowly's biography",
+    "sources": [
+      "Helena_Crowly.json"
+    ],
+    "characters": [
+      "Helena Crowly"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Clan",
+    "normalized_name": "Clan",
+    "type": "Organization Base",
+    "description": "Mentioned in Helena Crowly's biography",
+    "sources": [
+      "Helena_Crowly.json"
+    ],
+    "characters": [
+      "Helena Crowly"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Decades",
+    "normalized_name": "Decades",
+    "type": "Organization Base",
+    "description": "Mentioned in Helena Crowly's biography",
+    "sources": [
+      "Helena_Crowly.json"
+    ],
+    "characters": [
+      "Helena Crowly"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Egypt",
+    "normalized_name": "Egypt",
+    "type": "Organization Base",
+    "description": "Mentioned in Helena Crowly's biography",
+    "sources": [
+      "Helena_Crowly.json"
+    ],
+    "characters": [
+      "Helena Crowly"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Phoenix Chantry",
+    "normalized_name": "Phoenix Chantry",
+    "type": "Organization Base",
+    "description": "Mentioned in Helena Crowly's biography",
+    "sources": [
+      "Helena_Crowly.json"
+    ],
+    "characters": [
+      "Helena Crowly"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Two",
+    "normalized_name": "Two",
+    "type": "Organization Base",
+    "description": "Mentioned in Helena Crowly's biography",
+    "sources": [
+      "Helena_Crowly.json"
+    ],
+    "characters": [
+      "Helena Crowly"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Egyptian",
+    "normalized_name": "Egyptian",
+    "type": "Organization Base",
+    "description": "Mentioned in Helena Crowly's biography",
+    "sources": [
+      "Helena_Crowly.json"
+    ],
+    "characters": [
+      "Helena Crowly"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Instead",
+    "normalized_name": "Instead",
+    "type": "Organization Base",
+    "description": "Mentioned in Helena Crowly's biography",
+    "sources": [
+      "Helena_Crowly.json"
+    ],
+    "characters": [
+      "Helena Crowly"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Helena",
+    "normalized_name": "Helena",
+    "type": "Organization Base",
+    "description": "Mentioned in Helena Crowly's biography",
+    "sources": [
+      "Helena_Crowly.json"
+    ],
+    "characters": [
+      "Helena Crowly"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Hermetic",
+    "normalized_name": "Hermetic",
+    "type": "Organization Base",
+    "description": "Mentioned in Helena Crowly's biography",
+    "sources": [
+      "Helena_Crowly.json"
+    ],
+    "characters": [
+      "Helena Crowly"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Path",
+    "normalized_name": "Path",
+    "type": "Organization Base",
+    "description": "Mentioned in Helena Crowly's biography",
+    "sources": [
+      "Helena_Crowly.json"
+    ],
+    "characters": [
+      "Helena Crowly"
+    ],
+    "occurrence_count": 3
+  },
+  {
+    "name": "Blood",
+    "normalized_name": "Blood",
+    "type": "Organization Base",
+    "description": "Mentioned in Helena Crowly's biography; Mentioned in Sarah Hansen's biography",
+    "sources": [
+      "Helena_Crowly.json",
+      "Sarah_Hansen.json"
+    ],
+    "characters": [
+      "Helena Crowly",
+      "Sarah Hansen"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Mercury",
+    "normalized_name": "Mercury",
+    "type": "Organization Base",
+    "description": "Mentioned in Helena Crowly's biography",
+    "sources": [
+      "Helena_Crowly.json"
+    ],
+    "characters": [
+      "Helena Crowly"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Conjuring",
+    "normalized_name": "Conjuring",
+    "type": "Organization Base",
+    "description": "Mentioned in Helena Crowly's biography",
+    "sources": [
+      "Helena_Crowly.json"
+    ],
+    "characters": [
+      "Helena Crowly"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Andrei Radulescu",
+    "normalized_name": "Andrei Radulescu",
+    "type": "Organization Base",
+    "description": "Mentioned in Helena Crowly's biography",
+    "sources": [
+      "Helena_Crowly.json"
+    ],
+    "characters": [
+      "Helena Crowly"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Dehydrate Path",
+    "normalized_name": "Dehydrate Path",
+    "type": "Organization Base",
+    "description": "Mentioned in Helena Crowly's biography",
+    "sources": [
+      "Helena_Crowly.json"
+    ],
+    "characters": [
+      "Helena Crowly"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "As Tremere Primogen",
+    "normalized_name": "As Tremere Primogen",
+    "type": "Organization Base",
+    "description": "Mentioned in Helena Crowly's biography",
+    "sources": [
+      "Helena_Crowly.json"
+    ],
+    "characters": [
+      "Helena Crowly"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Court",
+    "normalized_name": "Court",
+    "type": "Organization Base",
+    "description": "Mentioned in Helena Crowly's biography; Mentioned in character history",
+    "sources": [
+      "Helena_Crowly.json",
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Helena Crowly",
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Phoenix Chantry – Archivist’s Suite",
+    "normalized_name": "Phoenix Chantry – Archivist’s Suite",
+    "type": "Haven",
+    "description": "High-rise haven with layered thaumaturgic wards and a private ritual library; windows are heavily treated and disguised.",
+    "sources": [
+      "Helena_Crowly.json"
+    ],
+    "characters": [
+      "Helena Crowly"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "High",
+    "normalized_name": "High",
+    "type": "Haven",
+    "description": "From Helena Crowly's location notes",
+    "sources": [
+      "Helena_Crowly.json"
+    ],
+    "characters": [
+      "Helena Crowly"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Boston, Massachusetts",
+    "normalized_name": "Boston, Massachusetts",
+    "type": "City/Region",
+    "description": "Birthplace of Helena Crowly",
+    "sources": [
+      "Helena_Crowly.json"
+    ],
+    "characters": [
+      "Helena Crowly"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Late",
+    "normalized_name": "Late",
+    "type": "City/Region",
+    "description": "Mentioned in Helena Crowly's arrival timeline",
+    "sources": [
+      "Helena_Crowly.json"
+    ],
+    "characters": [
+      "Helena Crowly"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Mad Men",
+    "normalized_name": "Mad Men",
+    "type": "Business/Establishment",
+    "description": "Mentioned in James Whitmore's biography",
+    "sources": [
+      "James_Whitmore.json"
+    ],
+    "characters": [
+      "James Whitmore"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "New York",
+    "normalized_name": "New York",
+    "type": "Business/Establishment",
+    "description": "Mentioned in James Whitmore's biography",
+    "sources": [
+      "James_Whitmore.json"
+    ],
+    "characters": [
+      "James Whitmore"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Discovered",
+    "normalized_name": "Discovered",
+    "type": "Business/Establishment",
+    "description": "Mentioned in James Whitmore's biography",
+    "sources": [
+      "James_Whitmore.json"
+    ],
+    "characters": [
+      "James Whitmore"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Ball",
+    "normalized_name": "Ball",
+    "type": "Business/Establishment",
+    "description": "Mentioned in James Whitmore's biography",
+    "sources": [
+      "James_Whitmore.json"
+    ],
+    "characters": [
+      "James Whitmore"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Truth",
+    "normalized_name": "Truth",
+    "type": "Business/Establishment",
+    "description": "Mentioned in James Whitmore's biography",
+    "sources": [
+      "James_Whitmore.json"
+    ],
+    "characters": [
+      "James Whitmore"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Spent",
+    "normalized_name": "Spent",
+    "type": "Business/Establishment",
+    "description": "Mentioned in James Whitmore's biography",
+    "sources": [
+      "James_Whitmore.json"
+    ],
+    "characters": [
+      "James Whitmore"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Sent",
+    "normalized_name": "Sent",
+    "type": "Business/Establishment",
+    "description": "Mentioned in James Whitmore's biography",
+    "sources": [
+      "James_Whitmore.json"
+    ],
+    "characters": [
+      "James Whitmore"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Maintains",
+    "normalized_name": "Maintains",
+    "type": "Business/Establishment",
+    "description": "Mentioned in James Whitmore's biography",
+    "sources": [
+      "James_Whitmore.json"
+    ],
+    "characters": [
+      "James Whitmore"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Upper",
+    "normalized_name": "Upper",
+    "type": "Business/Establishment",
+    "description": "Mentioned in James Whitmore's biography",
+    "sources": [
+      "James_Whitmore.json"
+    ],
+    "characters": [
+      "James Whitmore"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Jax",
+    "normalized_name": "Jax",
+    "type": "Unknown",
+    "description": "Mentioned in Jax 'The Ghost Dealer''s biography",
+    "sources": [
+      "Jax.json"
+    ],
+    "characters": [
+      "Jax 'The Ghost Dealer'"
+    ],
+    "occurrence_count": 3
+  },
+  {
+    "name": "Their Ravnos",
+    "normalized_name": "Their Ravnos",
+    "type": "Unknown",
+    "description": "Mentioned in Jax 'The Ghost Dealer''s biography",
+    "sources": [
+      "Jax.json"
+    ],
+    "characters": [
+      "Jax 'The Ghost Dealer'"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Chimerstry",
+    "normalized_name": "Chimerstry",
+    "type": "Unknown",
+    "description": "Mentioned in Jax 'The Ghost Dealer''s biography",
+    "sources": [
+      "Jax.json"
+    ],
+    "characters": [
+      "Jax 'The Ghost Dealer'"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Some",
+    "normalized_name": "Some",
+    "type": "Unknown",
+    "description": "Mentioned in Jax 'The Ghost Dealer''s biography; Mentioned in Sarah Hansen's biography; Mentioned in Roland Cross's biography",
+    "sources": [
+      "Jax.json",
+      "Sarah_Hansen.json",
+      "sheriff_roland.json"
+    ],
+    "characters": [
+      "Jax 'The Ghost Dealer'",
+      "Roland Cross",
+      "Sarah Hansen"
+    ],
+    "occurrence_count": 3
+  },
+  {
+    "name": "Gangrel",
+    "normalized_name": "Gangrel",
+    "type": "Unknown",
+    "description": "Mentioned in Kerry, the Gangrel's biography; Mentioned in Piston's biography; Mentioned in Naomi Blackbird's biography",
+    "sources": [
+      "Kerry_Gangrel_Character_Sheet.json",
+      "Naomi Blackbird.json",
+      "Piston.json"
+    ],
+    "characters": [
+      "Kerry, the Gangrel",
+      "Naomi Blackbird",
+      "Piston"
+    ],
+    "occurrence_count": 5
+  },
+  {
+    "name": "Kerry",
+    "normalized_name": "Kerry",
+    "type": "Unknown",
+    "description": "Mentioned in Kerry, the Gangrel's biography",
+    "sources": [
+      "Kerry_Gangrel_Character_Sheet.json"
+    ],
+    "characters": [
+      "Kerry, the Gangrel"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Lilith Nightshade",
+    "normalized_name": "Lilith Nightshade",
+    "type": "Unknown",
+    "description": "Mentioned in Lilith Nightshade's biography; Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md",
+      "lilith_nightshade.json"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Private Victorian-styled residence",
+    "normalized_name": "Private Victorian-styled residence",
+    "type": "Haven",
+    "description": "Located near central Phoenix;",
+    "sources": [
+      "lilith_nightshade.json"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Located",
+    "normalized_name": "Located",
+    "type": "Unknown",
+    "description": "From Lilith Nightshade's location notes",
+    "sources": [
+      "lilith_nightshade.json"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "West Coast, USA",
+    "normalized_name": "West Coast, USA",
+    "type": "City/Region",
+    "description": "Birthplace of Lilith Nightshade",
+    "sources": [
+      "lilith_nightshade.json"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Before",
+    "normalized_name": "Before",
+    "type": "Unknown",
+    "description": "Mentioned in Naomi Blackbird's biography; Mentioned in Violet 'The Confidence Queen''s biography",
+    "sources": [
+      "Naomi Blackbird.json",
+      "Violet.json"
+    ],
+    "characters": [
+      "Naomi Blackbird",
+      "Violet 'The Confidence Queen'"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Naomi Blackbird",
+    "normalized_name": "Naomi Blackbird",
+    "type": "Unknown",
+    "description": "Mentioned in Naomi Blackbird's biography",
+    "sources": [
+      "Naomi Blackbird.json"
+    ],
+    "characters": [
+      "Naomi Blackbird"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Salt River",
+    "normalized_name": "Salt River",
+    "type": "Landmark/Area",
+    "description": "Mentioned in Naomi Blackbird's biography; From Naomi Blackbird's location notes",
+    "sources": [
+      "Naomi Blackbird.json"
+    ],
+    "characters": [
+      "Naomi Blackbird"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Naomi",
+    "normalized_name": "Naomi",
+    "type": "Unknown",
+    "description": "Mentioned in Naomi Blackbird's biography",
+    "sources": [
+      "Naomi Blackbird.json"
+    ],
+    "characters": [
+      "Naomi Blackbird"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Through",
+    "normalized_name": "Through",
+    "type": "Unknown",
+    "description": "Mentioned in Naomi Blackbird's biography",
+    "sources": [
+      "Naomi Blackbird.json"
+    ],
+    "characters": [
+      "Naomi Blackbird"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Vechij Oksdagi",
+    "normalized_name": "Vechij Oksdagi",
+    "type": "Unknown",
+    "description": "Mentioned in Naomi Blackbird's biography",
+    "sources": [
+      "Naomi Blackbird.json"
+    ],
+    "characters": [
+      "Naomi Blackbird"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Dream",
+    "normalized_name": "Dream",
+    "type": "Unknown",
+    "description": "Mentioned in Naomi Blackbird's biography",
+    "sources": [
+      "Naomi Blackbird.json"
+    ],
+    "characters": [
+      "Naomi Blackbird"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Seer",
+    "normalized_name": "Seer",
+    "type": "Unknown",
+    "description": "Mentioned in Naomi Blackbird's biography",
+    "sources": [
+      "Naomi Blackbird.json"
+    ],
+    "characters": [
+      "Naomi Blackbird"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Together",
+    "normalized_name": "Together",
+    "type": "Unknown",
+    "description": "Mentioned in Naomi Blackbird's biography",
+    "sources": [
+      "Naomi Blackbird.json"
+    ],
+    "characters": [
+      "Naomi Blackbird"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Salt River Bed Shelter",
+    "normalized_name": "Salt River Bed Shelter",
+    "type": "Haven",
+    "description": "A concealed space beneath old river infrastructure near the Salt River bed.",
+    "sources": [
+      "Naomi Blackbird.json"
+    ],
+    "characters": [
+      "Naomi Blackbird"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Salt River region, Phoenix AZ",
+    "normalized_name": "Salt River region, Phoenix AZ",
+    "type": "City/Region",
+    "description": "Birthplace of Naomi Blackbird",
+    "sources": [
+      "Naomi Blackbird.json"
+    ],
+    "characters": [
+      "Naomi Blackbird"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Faraday",
+    "normalized_name": "Faraday",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Phreak's biography",
+    "sources": [
+      "Phreak.json"
+    ],
+    "characters": [
+      "Phreak"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Originally",
+    "normalized_name": "Originally",
+    "type": "Unknown",
+    "description": "Mentioned in Piston's biography; Mentioned in Sofia Alvarez's biography",
+    "sources": [
+      "Piston.json",
+      "Sofia Alvarez.json"
+    ],
+    "characters": [
+      "Piston",
+      "Sofia Alvarez"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Piston",
+    "normalized_name": "Piston",
+    "type": "Unknown",
+    "description": "Mentioned in Piston's biography",
+    "sources": [
+      "Piston.json"
+    ],
+    "characters": [
+      "Piston"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Los Angeles Anarch",
+    "normalized_name": "Los Angeles Anarch",
+    "type": "Unknown",
+    "description": "Mentioned in Piston's biography",
+    "sources": [
+      "Piston.json"
+    ],
+    "characters": [
+      "Piston"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Hell",
+    "normalized_name": "Hell",
+    "type": "Unknown",
+    "description": "Mentioned in Piston's biography",
+    "sources": [
+      "Piston.json"
+    ],
+    "characters": [
+      "Piston"
+    ],
+    "occurrence_count": 3
+  },
+  {
+    "name": "Angels",
+    "normalized_name": "Angels",
+    "type": "Unknown",
+    "description": "Mentioned in Piston's biography",
+    "sources": [
+      "Piston.json"
+    ],
+    "characters": [
+      "Piston"
+    ],
+    "occurrence_count": 3
+  },
+  {
+    "name": "Fred Osmond",
+    "normalized_name": "Fred Osmond",
+    "type": "Unknown",
+    "description": "Mentioned in Piston's biography",
+    "sources": [
+      "Piston.json"
+    ],
+    "characters": [
+      "Piston"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Anarch Free State",
+    "normalized_name": "Anarch Free State",
+    "type": "Unknown",
+    "description": "Mentioned in Piston's biography",
+    "sources": [
+      "Piston.json"
+    ],
+    "characters": [
+      "Piston"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "The Beast",
+    "normalized_name": "Beast",
+    "type": "Unknown",
+    "description": "Mentioned in Piston's biography",
+    "sources": [
+      "Piston.json"
+    ],
+    "characters": [
+      "Piston"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Fortitude",
+    "normalized_name": "Fortitude",
+    "type": "Unknown",
+    "description": "Mentioned in Piston's biography",
+    "sources": [
+      "Piston.json"
+    ],
+    "characters": [
+      "Piston"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Surprise",
+    "normalized_name": "Surprise",
+    "type": "Unknown",
+    "description": "Mentioned in Piston's biography",
+    "sources": [
+      "Piston.json"
+    ],
+    "characters": [
+      "Piston"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Butch Reed",
+    "normalized_name": "Butch Reed",
+    "type": "Unknown",
+    "description": "Mentioned in Piston's biography",
+    "sources": [
+      "Piston.json"
+    ],
+    "characters": [
+      "Piston"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Basher",
+    "normalized_name": "Basher",
+    "type": "Unknown",
+    "description": "Mentioned in Piston's biography",
+    "sources": [
+      "Piston.json"
+    ],
+    "characters": [
+      "Piston"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Dealer",
+    "normalized_name": "Dealer",
+    "type": "Unknown",
+    "description": "Mentioned in Rembrandt Jones's biography",
+    "sources": [
+      "Rembrandt Jones.json"
+    ],
+    "characters": [
+      "Rembrandt Jones"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "The Sands",
+    "normalized_name": "Sands",
+    "type": "Unknown",
+    "description": "Mentioned in Rembrandt Jones's biography",
+    "sources": [
+      "Rembrandt Jones.json"
+    ],
+    "characters": [
+      "Rembrandt Jones"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Las Vegas",
+    "normalized_name": "Las Vegas",
+    "type": "Unknown",
+    "description": "Mentioned in Rembrandt Jones's biography",
+    "sources": [
+      "Rembrandt Jones.json"
+    ],
+    "characters": [
+      "Rembrandt Jones"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Obsessively",
+    "normalized_name": "Obsessively",
+    "type": "Unknown",
+    "description": "Mentioned in Rembrandt Jones's biography",
+    "sources": [
+      "Rembrandt Jones.json"
+    ],
+    "characters": [
+      "Rembrandt Jones"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Rat Pack",
+    "normalized_name": "Rat Pack",
+    "type": "Unknown",
+    "description": "Mentioned in Rembrandt Jones's biography",
+    "sources": [
+      "Rembrandt Jones.json"
+    ],
+    "characters": [
+      "Rembrandt Jones"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Las Vegas Toreador",
+    "normalized_name": "Las Vegas Toreador",
+    "type": "Unknown",
+    "description": "Mentioned in Rembrandt Jones's biography",
+    "sources": [
+      "Rembrandt Jones.json"
+    ],
+    "characters": [
+      "Rembrandt Jones"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Rembrandt",
+    "normalized_name": "Rembrandt",
+    "type": "Unknown",
+    "description": "Mentioned in Rembrandt Jones's biography",
+    "sources": [
+      "Rembrandt Jones.json"
+    ],
+    "characters": [
+      "Rembrandt Jones"
+    ],
+    "occurrence_count": 3
+  },
+  {
+    "name": "Sire",
+    "normalized_name": "Sire",
+    "type": "Unknown",
+    "description": "Mentioned in Rembrandt Jones's biography",
+    "sources": [
+      "Rembrandt Jones.json"
+    ],
+    "characters": [
+      "Rembrandt Jones"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Vegas",
+    "normalized_name": "Vegas",
+    "type": "Unknown",
+    "description": "Mentioned in Rembrandt Jones's biography",
+    "sources": [
+      "Rembrandt Jones.json"
+    ],
+    "characters": [
+      "Rembrandt Jones"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Accidentally",
+    "normalized_name": "Accidentally",
+    "type": "Unknown",
+    "description": "Mentioned in Rembrandt Jones's biography",
+    "sources": [
+      "Rembrandt Jones.json"
+    ],
+    "characters": [
+      "Rembrandt Jones"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Roadside Americana",
+    "normalized_name": "Roadside Americana",
+    "type": "Unknown",
+    "description": "Mentioned in Rembrandt Jones's biography",
+    "sources": [
+      "Rembrandt Jones.json"
+    ],
+    "characters": [
+      "Rembrandt Jones"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Primogen",
+    "normalized_name": "Primogen",
+    "type": "Unknown",
+    "description": "Mentioned in character history; Mentioned in Rembrandt Jones's biography; Mentioned in Sabine's biography",
+    "sources": [
+      "Rembrandt Jones.json",
+      "Sabine.json",
+      "Sebastian.json",
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade",
+      "Rembrandt Jones",
+      "Sabine",
+      "Sebastian"
+    ],
+    "occurrence_count": 7
+  },
+  {
+    "name": "Roxanne",
+    "normalized_name": "Roxanne",
+    "type": "Unknown",
+    "description": "Mentioned in Roxanne Murphy's biography",
+    "sources": [
+      "Roxanne_Murphy.json"
+    ],
+    "characters": [
+      "Roxanne Murphy"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "The Hole",
+    "normalized_name": "Hole",
+    "type": "Unknown",
+    "description": "Mentioned in Roxanne Murphy's biography",
+    "sources": [
+      "Roxanne_Murphy.json"
+    ],
+    "characters": [
+      "Roxanne Murphy"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Marcus",
+    "normalized_name": "Marcus",
+    "type": "Unknown",
+    "description": "Mentioned in Roxanne Murphy's biography",
+    "sources": [
+      "Roxanne_Murphy.json"
+    ],
+    "characters": [
+      "Roxanne Murphy"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Jennifer",
+    "normalized_name": "Jennifer",
+    "type": "Unknown",
+    "description": "Mentioned in Roxanne Murphy's biography",
+    "sources": [
+      "Roxanne_Murphy.json"
+    ],
+    "characters": [
+      "Roxanne Murphy"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Akhu",
+    "normalized_name": "Akhu",
+    "type": "Unknown",
+    "description": "Mentioned in Roxanne Murphy's biography",
+    "sources": [
+      "Roxanne_Murphy.json"
+    ],
+    "characters": [
+      "Roxanne Murphy"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Ontario",
+    "normalized_name": "Ontario",
+    "type": "Unknown",
+    "description": "Mentioned in Sabine's biography; Mentioned in Sebastian's biography",
+    "sources": [
+      "Sabine.json",
+      "Sebastian.json"
+    ],
+    "characters": [
+      "Sabine",
+      "Sebastian"
+    ],
+    "occurrence_count": 4
+  },
+  {
+    "name": "Sebastian",
+    "normalized_name": "Sebastian",
+    "type": "Unknown",
+    "description": "Mentioned in Étienne Duvalier's biography; Mentioned in Sabine's biography",
+    "sources": [
+      "Sabine.json",
+      "Étienne.json"
+    ],
+    "characters": [
+      "Sabine",
+      "Étienne Duvalier"
+    ],
+    "occurrence_count": 3
+  },
+  {
+    "name": "Parents",
+    "normalized_name": "Parents",
+    "type": "Unknown",
+    "description": "Mentioned in Sabine's biography; Mentioned in Sebastian's biography",
+    "sources": [
+      "Sabine.json",
+      "Sebastian.json"
+    ],
+    "characters": [
+      "Sabine",
+      "Sebastian"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Aunt",
+    "normalized_name": "Aunt",
+    "type": "Unknown",
+    "description": "Mentioned in Sabine's biography; Mentioned in Sebastian's biography",
+    "sources": [
+      "Sabine.json",
+      "Sebastian.json"
+    ],
+    "characters": [
+      "Sabine",
+      "Sebastian"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Inseparable",
+    "normalized_name": "Inseparable",
+    "type": "Unknown",
+    "description": "Mentioned in Sabine's biography; Mentioned in Sebastian's biography",
+    "sources": [
+      "Sabine.json",
+      "Sebastian.json"
+    ],
+    "characters": [
+      "Sabine",
+      "Sebastian"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Phoenix Toreador Primogen",
+    "normalized_name": "Phoenix Toreador Primogen",
+    "type": "Unknown",
+    "description": "Mentioned in Sabine's biography; Mentioned in Sebastian's biography",
+    "sources": [
+      "Sabine.json",
+      "Sebastian.json"
+    ],
+    "characters": [
+      "Sabine",
+      "Sebastian"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Served",
+    "normalized_name": "Served",
+    "type": "Unknown",
+    "description": "Mentioned in Sabine's biography; Mentioned in Sebastian's biography",
+    "sources": [
+      "Sabine.json",
+      "Sebastian.json"
+    ],
+    "characters": [
+      "Sabine",
+      "Sebastian"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Talons",
+    "normalized_name": "Talons",
+    "type": "Unknown",
+    "description": "Mentioned in Sabine's biography; Mentioned in Sebastian's biography",
+    "sources": [
+      "Sabine.json",
+      "Sebastian.json"
+    ],
+    "characters": [
+      "Sabine",
+      "Sebastian"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Harpy Cordelia Prescott",
+    "normalized_name": "Harpy Cordelia Prescott",
+    "type": "Unknown",
+    "description": "Mentioned in Sabine's biography; Mentioned in Sebastian's biography",
+    "sources": [
+      "Sabine.json",
+      "Sebastian.json"
+    ],
+    "characters": [
+      "Sabine",
+      "Sebastian"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Part",
+    "normalized_name": "Part",
+    "type": "Unknown",
+    "description": "Mentioned in Sabine's biography; Mentioned in Sebastian's biography",
+    "sources": [
+      "Sabine.json",
+      "Sebastian.json"
+    ],
+    "characters": [
+      "Sabine",
+      "Sebastian"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "New York Kindred",
+    "normalized_name": "New York Kindred",
+    "type": "Unknown",
+    "description": "Mentioned in Étienne Duvalier's biography; Mentioned in Sabine's biography; Mentioned in Sebastian's biography",
+    "sources": [
+      "Sabine.json",
+      "Sebastian.json",
+      "Étienne.json"
+    ],
+    "characters": [
+      "Sabine",
+      "Sebastian",
+      "Étienne Duvalier"
+    ],
+    "occurrence_count": 3
+  },
+  {
+    "name": "Never",
+    "normalized_name": "Never",
+    "type": "Unknown",
+    "description": "Mentioned in Sabine's biography; Mentioned in Sebastian's biography",
+    "sources": [
+      "Sabine.json",
+      "Sebastian.json"
+    ],
+    "characters": [
+      "Sabine",
+      "Sebastian"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Tempe",
+    "normalized_name": "Tempe",
+    "type": "Unknown",
+    "description": "Mentioned in Sarah Hansen's biography",
+    "sources": [
+      "Sarah_Hansen.json"
+    ],
+    "characters": [
+      "Sarah Hansen"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Sarah Hansen",
+    "normalized_name": "Sarah Hansen",
+    "type": "Unknown",
+    "description": "Mentioned in Sarah Hansen's biography",
+    "sources": [
+      "Sarah_Hansen.json"
+    ],
+    "characters": [
+      "Sarah Hansen"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Taken",
+    "normalized_name": "Taken",
+    "type": "Unknown",
+    "description": "Mentioned in Sarah Hansen's biography",
+    "sources": [
+      "Sarah_Hansen.json"
+    ],
+    "characters": [
+      "Sarah Hansen"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Tyron Mason",
+    "normalized_name": "Tyron Mason",
+    "type": "Unknown",
+    "description": "Mentioned in Sarah Hansen's biography",
+    "sources": [
+      "Sarah_Hansen.json"
+    ],
+    "characters": [
+      "Sarah Hansen"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Daughters",
+    "normalized_name": "Daughters",
+    "type": "Unknown",
+    "description": "Mentioned in Sarah Hansen's biography",
+    "sources": [
+      "Sarah_Hansen.json"
+    ],
+    "characters": [
+      "Sarah Hansen"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Cacophony",
+    "normalized_name": "Cacophony",
+    "type": "Unknown",
+    "description": "Mentioned in Sarah Hansen's biography",
+    "sources": [
+      "Sarah_Hansen.json"
+    ],
+    "characters": [
+      "Sarah Hansen"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Mason",
+    "normalized_name": "Mason",
+    "type": "Unknown",
+    "description": "Mentioned in Sarah Hansen's biography",
+    "sources": [
+      "Sarah_Hansen.json"
+    ],
+    "characters": [
+      "Sarah Hansen"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "The Velvet Door",
+    "normalized_name": "Velvet Door",
+    "type": "Unknown",
+    "description": "Mentioned in Sarah Hansen's biography",
+    "sources": [
+      "Sarah_Hansen.json"
+    ],
+    "characters": [
+      "Sarah Hansen"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Sarah",
+    "normalized_name": "Sarah",
+    "type": "Unknown",
+    "description": "Mentioned in Sarah Hansen's biography",
+    "sources": [
+      "Sarah_Hansen.json"
+    ],
+    "characters": [
+      "Sarah Hansen"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Sabine",
+    "normalized_name": "Sabine",
+    "type": "Unknown",
+    "description": "Mentioned in Étienne Duvalier's biography; Mentioned in Sebastian's biography",
+    "sources": [
+      "Sebastian.json",
+      "Étienne.json"
+    ],
+    "characters": [
+      "Sebastian",
+      "Étienne Duvalier"
+    ],
+    "occurrence_count": 3
+  },
+  {
+    "name": "Roland Cross",
+    "normalized_name": "Roland Cross",
+    "type": "Unknown",
+    "description": "Mentioned in Roland Cross's biography",
+    "sources": [
+      "sheriff_roland.json"
+    ],
+    "characters": [
+      "Roland Cross"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Arizona Territory",
+    "normalized_name": "Arizona Territory",
+    "type": "City/Region",
+    "description": "Mentioned in Roland Cross's biography",
+    "sources": [
+      "sheriff_roland.json"
+    ],
+    "characters": [
+      "Roland Cross"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "The Apache Wars",
+    "normalized_name": "Apache Wars",
+    "type": "Unknown",
+    "description": "Mentioned in Roland Cross's biography",
+    "sources": [
+      "sheriff_roland.json"
+    ],
+    "characters": [
+      "Roland Cross"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Roland",
+    "normalized_name": "Roland",
+    "type": "Unknown",
+    "description": "Mentioned in Roland Cross's biography",
+    "sources": [
+      "sheriff_roland.json"
+    ],
+    "characters": [
+      "Roland Cross"
+    ],
+    "occurrence_count": 9
+  },
+  {
+    "name": "Every",
+    "normalized_name": "Every",
+    "type": "Unknown",
+    "description": "Mentioned in Roland Cross's biography",
+    "sources": [
+      "sheriff_roland.json"
+    ],
+    "characters": [
+      "Roland Cross"
+    ],
+    "occurrence_count": 4
+  },
+  {
+    "name": "Catherine Barlow",
+    "normalized_name": "Catherine Barlow",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Roland Cross's biography",
+    "sources": [
+      "sheriff_roland.json"
+    ],
+    "characters": [
+      "Roland Cross"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Tombstone",
+    "normalized_name": "Tombstone",
+    "type": "Unknown",
+    "description": "Mentioned in Roland Cross's biography",
+    "sources": [
+      "sheriff_roland.json"
+    ],
+    "characters": [
+      "Roland Cross"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Kate",
+    "normalized_name": "Kate",
+    "type": "Unknown",
+    "description": "Mentioned in Roland Cross's biography",
+    "sources": [
+      "sheriff_roland.json"
+    ],
+    "characters": [
+      "Roland Cross"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Kate Embraced Roland",
+    "normalized_name": "Kate Embraced Roland",
+    "type": "Unknown",
+    "description": "Mentioned in Roland Cross's biography",
+    "sources": [
+      "sheriff_roland.json"
+    ],
+    "characters": [
+      "Roland Cross"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Southwest",
+    "normalized_name": "Southwest",
+    "type": "Unknown",
+    "description": "Mentioned in Roland Cross's biography",
+    "sources": [
+      "sheriff_roland.json"
+    ],
+    "characters": [
+      "Roland Cross"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Sheriff",
+    "normalized_name": "Sheriff",
+    "type": "Unknown",
+    "description": "Mentioned in Roland Cross's biography",
+    "sources": [
+      "sheriff_roland.json"
+    ],
+    "characters": [
+      "Roland Cross"
+    ],
+    "occurrence_count": 4
+  },
+  {
+    "name": "Prince Morrison",
+    "normalized_name": "Prince Morrison",
+    "type": "Unknown",
+    "description": "Mentioned in Roland Cross's biography",
+    "sources": [
+      "sheriff_roland.json"
+    ],
+    "characters": [
+      "Roland Cross"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "But Roland",
+    "normalized_name": "But Roland",
+    "type": "Unknown",
+    "description": "Mentioned in Roland Cross's biography",
+    "sources": [
+      "sheriff_roland.json"
+    ],
+    "characters": [
+      "Roland Cross"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Sometimes",
+    "normalized_name": "Sometimes",
+    "type": "Unknown",
+    "description": "Mentioned in Roland Cross's biography",
+    "sources": [
+      "sheriff_roland.json"
+    ],
+    "characters": [
+      "Roland Cross"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Other",
+    "normalized_name": "Other",
+    "type": "Unknown",
+    "description": "Mentioned in Roland Cross's biography",
+    "sources": [
+      "sheriff_roland.json"
+    ],
+    "characters": [
+      "Roland Cross"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Current",
+    "normalized_name": "Current",
+    "type": "Unknown",
+    "description": "Mentioned in Roland Cross's biography",
+    "sources": [
+      "sheriff_roland.json"
+    ],
+    "characters": [
+      "Roland Cross"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Elysium",
+    "normalized_name": "Elysium",
+    "type": "Unknown",
+    "description": "Mentioned in Roland Cross's biography",
+    "sources": [
+      "sheriff_roland.json"
+    ],
+    "characters": [
+      "Roland Cross"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Mexico",
+    "normalized_name": "Mexico",
+    "type": "Unknown",
+    "description": "Mentioned in Roland Cross's biography",
+    "sources": [
+      "sheriff_roland.json"
+    ],
+    "characters": [
+      "Roland Cross"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Barcelona",
+    "normalized_name": "Barcelona",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Sofia Alvarez's biography",
+    "sources": [
+      "Sofia Alvarez.json"
+    ],
+    "characters": [
+      "Sofia Alvarez"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Sofia Alvarez",
+    "normalized_name": "Sofia Alvarez",
+    "type": "Unknown",
+    "description": "Mentioned in Sofia Alvarez's biography",
+    "sources": [
+      "Sofia Alvarez.json"
+    ],
+    "characters": [
+      "Sofia Alvarez"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Duvalier",
+    "normalized_name": "Duvalier",
+    "type": "Unknown",
+    "description": "Mentioned in Étienne Duvalier's biography; Mentioned in Sofia Alvarez's biography",
+    "sources": [
+      "Sofia Alvarez.json",
+      "Étienne.json"
+    ],
+    "characters": [
+      "Sofia Alvarez",
+      "Étienne Duvalier"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Other Kindred",
+    "normalized_name": "Other Kindred",
+    "type": "Unknown",
+    "description": "Mentioned in Sofia Alvarez's biography",
+    "sources": [
+      "Sofia Alvarez.json"
+    ],
+    "characters": [
+      "Sofia Alvarez"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Tariq Ibrahim",
+    "normalized_name": "Tariq Ibrahim",
+    "type": "Unknown",
+    "description": "Mentioned in Tariq Ibrahim's biography",
+    "sources": [
+      "Tariq Ibrahim.json"
+    ],
+    "characters": [
+      "Tariq Ibrahim"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Tor",
+    "normalized_name": "Tor",
+    "type": "Unknown",
+    "description": "Mentioned in Tor's biography",
+    "sources": [
+      "Tor.json"
+    ],
+    "characters": [
+      "Tor"
+    ],
+    "occurrence_count": 3
+  },
+  {
+    "name": "Ashby",
+    "normalized_name": "Ashby",
+    "type": "Unknown",
+    "description": "Mentioned in Tor's biography",
+    "sources": [
+      "Tor.json"
+    ],
+    "characters": [
+      "Tor"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "The Malkavian",
+    "normalized_name": "Malkavian",
+    "type": "Unknown",
+    "description": "Mentioned in Tor's biography; Mentioned in character history",
+    "sources": [
+      "Tor.json",
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade",
+      "Tor"
+    ],
+    "occurrence_count": 9
+  },
+  {
+    "name": "Sun City",
+    "normalized_name": "Sun City",
+    "type": "Unknown",
+    "description": "Mentioned in Tor's biography",
+    "sources": [
+      "Tor.json"
+    ],
+    "characters": [
+      "Tor"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Loyal",
+    "normalized_name": "Loyal",
+    "type": "Unknown",
+    "description": "Mentioned in Tor's biography",
+    "sources": [
+      "Tor.json"
+    ],
+    "characters": [
+      "Tor"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Violet",
+    "normalized_name": "Violet",
+    "type": "Unknown",
+    "description": "Mentioned in Violet 'The Confidence Queen''s biography",
+    "sources": [
+      "Violet.json"
+    ],
+    "characters": [
+      "Violet 'The Confidence Queen'"
+    ],
+    "occurrence_count": 3
+  },
+  {
+    "name": "Fifteen",
+    "normalized_name": "Fifteen",
+    "type": "Unknown",
+    "description": "Mentioned in Violet 'The Confidence Queen''s biography",
+    "sources": [
+      "Violet.json"
+    ],
+    "characters": [
+      "Violet 'The Confidence Queen'"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Paris",
+    "normalized_name": "Paris",
+    "type": "Unknown",
+    "description": "Mentioned in Étienne Duvalier's biography",
+    "sources": [
+      "Étienne.json"
+    ],
+    "characters": [
+      "Étienne Duvalier"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "America",
+    "normalized_name": "America",
+    "type": "Unknown",
+    "description": "Mentioned in Étienne Duvalier's biography",
+    "sources": [
+      "Étienne.json"
+    ],
+    "characters": [
+      "Étienne Duvalier"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "As Toreador Primogen",
+    "normalized_name": "As Toreador Primogen",
+    "type": "Unknown",
+    "description": "Mentioned in Étienne Duvalier's biography",
+    "sources": [
+      "Étienne.json"
+    ],
+    "characters": [
+      "Étienne Duvalier"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Prince Solomon Reaves",
+    "normalized_name": "Prince Solomon Reaves",
+    "type": "Unknown",
+    "description": "Mentioned in Étienne Duvalier's biography",
+    "sources": [
+      "Étienne.json"
+    ],
+    "characters": [
+      "Étienne Duvalier"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Cordelia Prescott",
+    "normalized_name": "Cordelia Prescott",
+    "type": "Unknown",
+    "description": "Mentioned in Étienne Duvalier's biography",
+    "sources": [
+      "Étienne.json"
+    ],
+    "characters": [
+      "Étienne Duvalier"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Character History",
+    "normalized_name": "Character History",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "The Porcelain Oracle",
+    "normalized_name": "Porcelain Oracle",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Price",
+    "normalized_name": "Price",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Prophecy",
+    "normalized_name": "Prophecy",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Early Life",
+    "normalized_name": "Early Life",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Embrace\n\nLilith Nightshade",
+    "normalized_name": "Embrace\n\nLilith Nightshade",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "West Coast",
+    "normalized_name": "West Coast",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Parisian",
+    "normalized_name": "Parisian",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "The Hospital Elder",
+    "normalized_name": "Hospital Elder",
+    "type": "Organization Base",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Arizona State Hospital",
+    "normalized_name": "Arizona State Hospital",
+    "type": "Organization Base",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Drawn",
+    "normalized_name": "Drawn",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Lilith",
+    "normalized_name": "Lilith",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 15
+  },
+  {
+    "name": "For Lilith",
+    "normalized_name": "For Lilith",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Madness Network",
+    "normalized_name": "Madness Network",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Arrival",
+    "normalized_name": "Arrival",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Victorian",
+    "normalized_name": "Victorian",
+    "type": "Haven",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Phoenix Kindred",
+    "normalized_name": "Phoenix Kindred",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Relationship",
+    "normalized_name": "Relationship",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Prince\n\nThe Prince",
+    "normalized_name": "Prince\n\nThe Prince",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Like",
+    "normalized_name": "Like",
+    "type": "Haven",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Yet",
+    "normalized_name": "Yet",
+    "type": "Haven",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Malkavian Primogen",
+    "normalized_name": "Malkavian Primogen",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Princes",
+    "normalized_name": "Princes",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "The Vision",
+    "normalized_name": "Vision",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Warning\n\nDays",
+    "normalized_name": "Warning\n\nDays",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "The Rumor",
+    "normalized_name": "Rumor",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Its Consequences\n\nIn",
+    "normalized_name": "Its Consequences\n\nIn",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Worse",
+    "normalized_name": "Worse",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Many Kindred",
+    "normalized_name": "Many Kindred",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Malkavians",
+    "normalized_name": "Malkavians",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Words",
+    "normalized_name": "Words",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Better",
+    "normalized_name": "Better",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Trust",
+    "normalized_name": "Trust",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "The Oracle",
+    "normalized_name": "Oracle",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Dilemma\n\nLilith",
+    "normalized_name": "Dilemma\n\nLilith",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "World",
+    "normalized_name": "World",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 4
+  },
+  {
+    "name": "Darkness",
+    "normalized_name": "Darkness",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 4
+  },
+  {
+    "name": "Auspex",
+    "normalized_name": "Auspex",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Role",
+    "normalized_name": "Role",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Night\n\nLilith Nightshade",
+    "normalized_name": "Night\n\nLilith Nightshade",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Most",
+    "normalized_name": "Most",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Using This Rumor",
+    "normalized_name": "Using This Rumor",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Play\n\nThe",
+    "normalized_name": "Play\n\nThe",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Lilith Knew",
+    "normalized_name": "Lilith Knew",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Said Nothing",
+    "normalized_name": "Said Nothing",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Resolving",
+    "normalized_name": "Resolving",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  }
+]

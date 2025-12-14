@@ -13,11 +13,55 @@ if (PHP_VERSION_ID >= 80000) {
     mysqli_report(MYSQLI_REPORT_OFF);
 }
 
-// Database configuration - XAMPP local setup
-$servername = "vdb5.pit.pair.com";
-$username = "working_64";
-$password = "pcf577#1";  // XAMPP default is empty password
-$dbname = "working_vbn";
+// Load .env file if it exists (for easier development)
+// .env file takes priority over system environment variables
+$envFile = dirname(__DIR__) . '/.env';
+if (file_exists($envFile)) {
+    // Clear system DB environment variables first to ensure .env takes priority
+    $dbVars = ['DB_HOST', 'DB_USER', 'DB_PASSWORD', 'DB_NAME'];
+    foreach ($dbVars as $var) {
+        if (getenv($var)) {
+            putenv("$var"); // Unset system variable
+        }
+    }
+    
+    // Now load from .env file
+    $lines = file($envFile, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+    foreach ($lines as $line) {
+        // Skip comments
+        if (strpos(trim($line), '#') === 0) {
+            continue;
+        }
+        // Parse KEY=VALUE format
+        if (strpos($line, '=') !== false) {
+            list($key, $value) = explode('=', $line, 2);
+            $key = trim($key);
+            $value = trim($value);
+            // Remove quotes if present
+            $value = trim($value, '"\'');
+            // Set from .env file (overrides any remaining system variables)
+            putenv("$key=$value");
+        }
+    }
+}
+
+// Database configuration - Load from environment variables for security
+// Set these in your .env file or server environment:
+// DB_HOST=vdb5.pit.pair.com
+// DB_USER=working_64
+// DB_PASSWORD=your_password_here
+// DB_NAME=working_vbn
+
+$servername = getenv('DB_HOST') ?: "vdb5.pit.pair.com";
+$username = getenv('DB_USER') ?: "working_64";
+$password = getenv('DB_PASSWORD');
+$dbname = getenv('DB_NAME') ?: "working_vbn";
+
+// Require password to be set via environment variable
+if ($password === false || $password === '') {
+    error_log("SECURITY ERROR: Database password not configured. Set DB_PASSWORD environment variable.");
+    die("Database configuration error. Please contact the administrator.");
+}
 
 // Create connection
 try {

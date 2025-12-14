@@ -37,6 +37,12 @@ if (file_exists($loginDisableFile)) {
         }
     }
 }
+
+// Generate CSRF token for form protection
+if (empty($_SESSION['csrf_token'])) {
+    $_SESSION['csrf_token'] = bin2hex(random_bytes(32));
+}
+$csrf_token = $_SESSION['csrf_token'];
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -77,6 +83,7 @@ if (file_exists($loginDisableFile)) {
                     ?>
                     
                     <form action="includes/login_process.php" method="POST" class="d-flex flex-column gap-3 needs-validation" novalidate>
+                        <input type="hidden" name="csrf_token" value="<?php echo htmlspecialchars($csrf_token); ?>">
                         <div class="mb-3">
                             <label for="username" class="form-label">Username</label>
                             <input type="text" id="username" name="username" class="form-control" required autofocus aria-describedby="usernameHelp" autocomplete="username">

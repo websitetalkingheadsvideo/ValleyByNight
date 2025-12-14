@@ -11,6 +11,12 @@ if (isset($_SESSION['user_id'])) {
     header("Location: index.php");
     exit();
 }
+
+// Generate CSRF token for form protection
+if (empty($_SESSION['csrf_token'])) {
+    $_SESSION['csrf_token'] = bin2hex(random_bytes(32));
+}
+$csrf_token = $_SESSION['csrf_token'];
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -46,6 +52,7 @@ if (isset($_SESSION['user_id'])) {
                 ?>
                 
                 <form action="includes/register_process.php" method="POST" class="d-flex flex-column gap-3 needs-validation" novalidate>
+                    <input type="hidden" name="csrf_token" value="<?php echo htmlspecialchars($csrf_token); ?>">
                     <div class="mb-3">
                         <label for="username" class="form-label">Username</label>
                         <input type="text" id="username" name="username" class="form-control" required autofocus autocomplete="username" 

@@ -8,7 +8,7 @@ function vbn_get_connection(): mysqli {
 
     $host = 'vdb5.pit.pair.com';
     $user = 'working_64';
-    $pass = 'pcf577#1';
+    $pass = 'KevinHenry09!';
     $db   = 'working_vbn';
 
     $conn = mysqli_connect($host, $user, $pass, $db);

@@ -1,6 +1,103 @@
 # Version History
 
-## Current Version: 0.8.27
+## Current Version: 0.8.31
+
+**Date:** 2025-01-30  
+**Type:** Patch (Security Fixes & Database Credential Management)
+
+### Changes:
+- **Critical Security Fixes** - Comprehensive security audit and remediation
+  - Moved hardcoded database credentials to environment variables (.env file)
+  - Secured authentication bypass mechanism (development-only with explicit flags)
+  - Removed hardcoded API bypass key from laws_agent API
+  - Converted mysqli_query calls to prepared statements in critical files
+  - Removed unnecessary mysqli_real_escape_string usage with prepared statements
+  - Added CSRF protection to login and registration forms
+  - Added input validation to map_agent API endpoint
+- **Database Connection Security** - Environment-based credential management
+  - Added .env file loader to includes/connect.php
+  - .env file takes priority over system environment variables
+  - Created DATABASE_PASSWORD_SETUP.md documentation
+  - Added .env to .gitignore for security
+- **SQL Injection Prevention** - Enhanced database query security
+  - Converted admin/admin_panel.php to use prepared statement helpers
+  - Converted admin/admin_locations.php to use prepared statement helpers
+  - Converted index.php to use prepared statement helpers
+  - Converted phoenix_map.php to use prepared statement helpers
+  - Converted admin/api_locations.php to use prepared statement helpers
+- **Form Security** - CSRF protection implementation
+  - Added CSRF token generation to register.php and login.php
+  - Added CSRF token validation to includes/register_process.php
+  - Added CSRF token validation to includes/login_process.php
+- **Input Validation** - Enhanced API endpoint security
+  - Added whitelist validation for map_agent API
+  - Added path traversal protection
+  - Improved error handling and validation
+- **Documentation** - Security audit and fix documentation
+  - Created SECURITY_AUDIT_REPORT.md (comprehensive security analysis)
+  - Created SECURITY_FIXES_APPLIED.md (fix summary and remaining tasks)
+
+## Previous Version: 0.8.30
+
+**Date:** 2025-01-30  
+**Type:** Patch (Version Sync & Map Page Reference)
+
+### Changes:
+- **Version Synchronization** - Updated version numbers across codebase
+  - Updated `includes/version.php` from 0.8.29 to 0.8.30
+  - Updated `phoenix_map.php` from outdated 0.6.2 to 0.8.30
+  - Synchronized version numbers for consistency
+- **Map Page Documentation** - Identified map page location
+  - Confirmed Phoenix map is located at `phoenix_map.php`
+  - Map displays interactive Phoenix locations with zoom/pan controls
+  - Includes location markers and admin edit mode functionality
+
+## Previous Version: 0.8.29
+
+**Date:** 2025-01-30  
+**Type:** Patch (Database Password Update & Rulebooks Query Tools)
+
+### Changes:
+- **Database Password Update** - Updated database password across all connection files
+  - Updated password in `includes/connect.php` from old password to new secure password
+  - Updated password in `agents/style_agent/db.php` to match new password
+  - Updated password in `agents/character_agent/db.php` to match new password
+  - All database connections now use consistent password across the application
+- **Rulebooks Database Query Tools** - Created comprehensive tools for checking rulebooks database
+  - Created `rulebooks_query.sql` - 6 separate SQL queries for database inspection
+  - Created `QUERY_INSTRUCTIONS.md` - Step-by-step guide for running queries
+  - Created `check_books_when_ready.php` - PHP script to generate database report when site is back up
+  - Created `query_rulebooks_simple.php` - Alternative query script with file output
+  - Queries include: book count, full book list, statistics, page counts, top books, missing content
+- **Environment Variable Setup Script** - Created PowerShell script for MCP server configuration
+  - Created `set_db_env_vars.ps1` - Script to set database environment variables for Laws Agent MCP
+  - Sets DB_HOST, DB_USER, DB_PASS, DB_NAME environment variables permanently
+  - Includes instructions for Windows environment variable configuration
+- **Documentation** - Created comprehensive documentation for database access
+  - Query instructions with multiple access methods (phpMyAdmin, MySQL CLI, Workbench)
+  - Clear explanations of what each query does and when to use it
+  - Troubleshooting guidance for database access issues
+
+## Previous Version: 0.8.28
+
+**Date:** 2025-01-04  
+**Type:** Patch (Merits and Flaws Database Expansion)
+
+### Changes:
+- **Merits and Flaws Database Expansion** - Added all missing entries from source text document
+  - Added 7 Physical merits (Acute Hearing, Acute Sense of Smell/Taste/Vision, Baby Face, Double-jointed, Huge Size)
+  - Added 6 Mental merits (Code of Honor, Higher Purpose, Berserker, Calm Heart, Strong Will, Jack-of-All-Trades)
+  - Added 1 Social merit (Pitiable)
+  - Added 10 Supernatural merits (Inoffensive to Animals, Special Gift, True Love, Faerie Affinity, Occult Library, Spirit Mentor, Unbondable, Blase, Guardian Angel, True Faith)
+  - Added 10 Physical flaws (Allergic, Selective Digestion, Disfigured, Deformity, Lame, One Arm, Permanent Wound, Thin-Blooded, Mute, Paraplegic)
+  - Added 8 Mental flaws (Compulsion, Overconfident, Low Self-Image, Vengeance, Hatred, Confused, Absent-Minded, Illiterate)
+  - Added 2 Social flaws (Intolerance, Speech Impediment)
+  - Added 5 Supernatural flaws (Repulsed by Garlic, Magic Susceptibility, Repelled by Crosses, Light Sensitive)
+  - All entries maintain consistent JSON structure with proper categorization
+  - Complete descriptions preserved from source document including special rules and restrictions
+  - Database now includes all 40+ traits from source text document
+
+## Previous Version: 0.8.27
 
 **Date:** 2025-12-03  
 **Type:** Minor (PC Haven Identification System)

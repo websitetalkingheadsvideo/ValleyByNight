@@ -1,10 +1,24 @@
 <?php
 /**
  * Authentication Bypass Helper
- * Allows temporary bypass of authentication checks for site analysis/testing
+ * SECURITY: This file should be removed or disabled in production environments
+ * 
+ * WARNING: This bypass mechanism is a security risk and should only be used
+ * in isolated development/testing environments. Never enable in production.
+ * 
+ * To disable: Set ENABLE_AUTH_BYPASS=false in environment or remove this file.
  */
 
 function isAuthBypassEnabled() {
+    // SECURITY: Only allow bypass in development environments
+    $isDevelopment = getenv('APP_ENV') === 'development' || getenv('APP_ENV') === 'dev';
+    $bypassEnabled = getenv('ENABLE_AUTH_BYPASS') === 'true';
+    
+    // Require both development environment AND explicit enable flag
+    if (!$isDevelopment || !$bypassEnabled) {
+        return false;
+    }
+    
     $bypassFile = __DIR__ . '/../config/auth_bypass.json';
     
     if (!file_exists($bypassFile)) {
@@ -34,6 +48,7 @@ function isAuthBypassEnabled() {
 
 function setupBypassSession() {
     // Set up mock session values for bypass mode
+    // SECURITY: Only works if bypass is explicitly enabled in development
     if (!isset($_SESSION['user_id'])) {
         $_SESSION['user_id'] = 0; // Guest user ID
         $_SESSION['username'] = 'Guest';

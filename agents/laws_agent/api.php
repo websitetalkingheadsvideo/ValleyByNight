@@ -629,12 +629,11 @@ PROMPT;
 }
 
 try {
-    $mcpApiKey = $_GET['mcp_key'] ?? $_POST['mcp_key'] ?? '';
-    $mcpBypass = $mcpApiKey === 'vbn_mcp_b4byp4ss_k3y_2025';
-
+    // SECURITY: Removed hardcoded bypass key - use proper authentication only
     $action = $_GET['action'] ?? $_POST['action'] ?? 'ask';
 
-    if (!$mcpBypass && $action !== 'health' && $action !== 'public_traditions') {
+    // Only health check and public traditions are accessible without auth
+    if ($action !== 'health' && $action !== 'public_traditions') {
         $auth = check_authentication($conn);
         if (!$auth['authenticated'] || !$auth['verified']) {
             http_response_code($auth['http_code'] ?? 401);

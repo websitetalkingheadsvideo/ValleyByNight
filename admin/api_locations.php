@@ -16,19 +16,13 @@ if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
 require_once __DIR__ . '/../includes/connect.php';
 
 try {
-    $query = "SELECT id, name, type, status, district, owner_type, faction, access_control, security_level, description, summary, notes, pc_haven, created_at 
-              FROM locations 
-              ORDER BY id DESC";
-    $result = mysqli_query($conn, $query);
-    
-    if (!$result) {
-        throw new Exception('Database query failed: ' . mysqli_error($conn));
-    }
-    
-    $locations = [];
-    while ($row = mysqli_fetch_assoc($result)) {
-        $locations[] = $row;
-    }
+    // SECURITY: Using prepared statement helper for consistency
+    // Note: This query is static (no user input), but using helpers maintains security standards
+    $locations = db_fetch_all($conn, 
+        "SELECT id, name, type, status, district, owner_type, faction, access_control, security_level, description, summary, notes, pc_haven, created_at 
+         FROM locations 
+         ORDER BY id DESC"
+    );
     
     echo json_encode([
         'success' => true,

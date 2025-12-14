@@ -1,0 +1,1563 @@
+[
+  {
+    "name": "American Gilded Age",
+    "normalized_name": "American Gilded Age",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Cordelia Fairchild's biography",
+    "sources": [
+      "Cordelia Fairchild.json"
+    ],
+    "characters": [
+      "Cordelia Fairchild"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Americana",
+    "normalized_name": "Americana",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Bayside Bob's biography",
+    "sources": [
+      "Bayside Bob.json"
+    ],
+    "characters": [
+      "Bayside Bob"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Anarch Free State",
+    "normalized_name": "Anarch Free State",
+    "type": "Unknown",
+    "description": "Mentioned in Piston's biography",
+    "sources": [
+      "Piston.json"
+    ],
+    "characters": [
+      "Piston"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Any",
+    "normalized_name": "Any",
+    "type": "Haven",
+    "description": "Mentioned in Betty's biography",
+    "sources": [
+      "Betty.json"
+    ],
+    "characters": [
+      "Betty"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Arizona State Hospital",
+    "normalized_name": "Arizona State Hospital",
+    "type": "Organization Base",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Ball",
+    "normalized_name": "Ball",
+    "type": "Business/Establishment",
+    "description": "Mentioned in James Whitmore's biography",
+    "sources": [
+      "James_Whitmore.json"
+    ],
+    "characters": [
+      "James Whitmore"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Barcelona",
+    "normalized_name": "Barcelona",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Sofia Alvarez's biography",
+    "sources": [
+      "Sofia Alvarez.json"
+    ],
+    "characters": [
+      "Sofia Alvarez"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Behind",
+    "normalized_name": "Behind",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Alessandro Vescari's biography",
+    "sources": [
+      "Alessandro_Vescari_character_sheet.json"
+    ],
+    "characters": [
+      "Alessandro Vescari"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Blood",
+    "normalized_name": "Blood",
+    "type": "Organization Base",
+    "description": "Mentioned in Helena Crowly's biography; Mentioned in Sarah Hansen's biography",
+    "sources": [
+      "Helena_Crowly.json",
+      "Sarah_Hansen.json"
+    ],
+    "characters": [
+      "Helena Crowly",
+      "Sarah Hansen"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Boston, Massachusetts",
+    "normalized_name": "Boston, Massachusetts",
+    "type": "City/Region",
+    "description": "Birthplace of Helena Crowly",
+    "sources": [
+      "Helena_Crowly.json"
+    ],
+    "characters": [
+      "Helena Crowly"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Cairo",
+    "normalized_name": "Cairo",
+    "type": "Organization Base",
+    "description": "Mentioned in Helena Crowly's biography",
+    "sources": [
+      "Helena_Crowly.json"
+    ],
+    "characters": [
+      "Helena Crowly"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Camelback Mountain",
+    "normalized_name": "Camelback Mountain",
+    "type": "Landmark/Area",
+    "description": "Mentioned in Rembrandt Jones's biography; Mentioned in Alessandro Vescari's biography",
+    "sources": [
+      "Alessandro_Vescari_character_sheet.json",
+      "Rembrandt Jones.json"
+    ],
+    "characters": [
+      "Alessandro Vescari",
+      "Rembrandt Jones"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Camelback Road",
+    "normalized_name": "Camelback Road",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Bayside Bob's biography",
+    "sources": [
+      "Bayside Bob.json"
+    ],
+    "characters": [
+      "Bayside Bob"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Catherine Barlow",
+    "normalized_name": "Catherine Barlow",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Roland Cross's biography",
+    "sources": [
+      "sheriff_roland.json"
+    ],
+    "characters": [
+      "Roland Cross"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Character History",
+    "normalized_name": "Character History",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Coast Guard",
+    "normalized_name": "Coast Guard",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Bayside Bob's biography",
+    "sources": [
+      "Bayside Bob.json"
+    ],
+    "characters": [
+      "Bayside Bob"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Computer Science",
+    "normalized_name": "Computer Science",
+    "type": "Haven",
+    "description": "Mentioned in Betty's biography",
+    "sources": [
+      "Betty.json"
+    ],
+    "characters": [
+      "Betty"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Conjuring",
+    "normalized_name": "Conjuring",
+    "type": "Organization Base",
+    "description": "Mentioned in Helena Crowly's biography",
+    "sources": [
+      "Helena_Crowly.json"
+    ],
+    "characters": [
+      "Helena Crowly"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Court",
+    "normalized_name": "Court",
+    "type": "Organization Base",
+    "description": "Mentioned in Helena Crowly's biography; Mentioned in character history",
+    "sources": [
+      "Helena_Crowly.json",
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Helena Crowly",
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Dale",
+    "normalized_name": "Dale",
+    "type": "Haven",
+    "description": "Mentioned in Alistaire's biography",
+    "sources": [
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alistaire"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Darrell Buyers",
+    "normalized_name": "Darrell Buyers",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Cordelia Fairchild's biography",
+    "sources": [
+      "Cordelia Fairchild.json"
+    ],
+    "characters": [
+      "Cordelia Fairchild"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Decades",
+    "normalized_name": "Decades",
+    "type": "Organization Base",
+    "description": "Mentioned in Helena Crowly's biography",
+    "sources": [
+      "Helena_Crowly.json"
+    ],
+    "characters": [
+      "Helena Crowly"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Dehydrate Path",
+    "normalized_name": "Dehydrate Path",
+    "type": "Organization Base",
+    "description": "Mentioned in Helena Crowly's biography",
+    "sources": [
+      "Helena_Crowly.json"
+    ],
+    "characters": [
+      "Helena Crowly"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Dehydrate Thaumaturgy",
+    "normalized_name": "Dehydrate Thaumaturgy",
+    "type": "Unknown",
+    "description": "Mentioned in Andrei Radulescu's biography",
+    "sources": [
+      "Andrei_Radulescu.json"
+    ],
+    "characters": [
+      "Andrei Radulescu"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Despite",
+    "normalized_name": "Despite",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Jax 'The Ghost Dealer''s biography; Mentioned in Bayside Bob's biography",
+    "sources": [
+      "Bayside Bob.json",
+      "Jax.json"
+    ],
+    "characters": [
+      "Bayside Bob",
+      "Jax 'The Ghost Dealer'"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Discovered",
+    "normalized_name": "Discovered",
+    "type": "Business/Establishment",
+    "description": "Mentioned in James Whitmore's biography",
+    "sources": [
+      "James_Whitmore.json"
+    ],
+    "characters": [
+      "James Whitmore"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Each",
+    "normalized_name": "Each",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Sarah Hansen's biography; Mentioned in Alessandro Vescari's biography",
+    "sources": [
+      "Alessandro_Vescari_character_sheet.json",
+      "Sarah_Hansen.json"
+    ],
+    "characters": [
+      "Alessandro Vescari",
+      "Sarah Hansen"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Earl",
+    "normalized_name": "Earl",
+    "type": "Haven",
+    "description": "Mentioned in Alistaire's biography",
+    "sources": [
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alistaire"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Egypt",
+    "normalized_name": "Egypt",
+    "type": "Organization Base",
+    "description": "Mentioned in Helena Crowly's biography",
+    "sources": [
+      "Helena_Crowly.json"
+    ],
+    "characters": [
+      "Helena Crowly"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Egyptian",
+    "normalized_name": "Egyptian",
+    "type": "Organization Base",
+    "description": "Mentioned in Helena Crowly's biography",
+    "sources": [
+      "Helena_Crowly.json"
+    ],
+    "characters": [
+      "Helena Crowly"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Europe",
+    "normalized_name": "Europe",
+    "type": "Haven",
+    "description": "Mentioned in Alistaire's biography; Mentioned in Étienne Duvalier's biography",
+    "sources": [
+      "alistaire.json",
+      "Étienne.json"
+    ],
+    "characters": [
+      "Alistaire",
+      "Étienne Duvalier"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Faraday",
+    "normalized_name": "Faraday",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Phreak's biography",
+    "sources": [
+      "Phreak.json"
+    ],
+    "characters": [
+      "Phreak"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Fascism",
+    "normalized_name": "Fascism",
+    "type": "Haven",
+    "description": "Mentioned in Alistaire's biography",
+    "sources": [
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alistaire"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Flagstaff",
+    "normalized_name": "Flagstaff",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Cordelia Fairchild's biography",
+    "sources": [
+      "Cordelia Fairchild.json"
+    ],
+    "characters": [
+      "Cordelia Fairchild"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Fleeing",
+    "normalized_name": "Fleeing",
+    "type": "Haven",
+    "description": "Mentioned in Alistaire's biography",
+    "sources": [
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alistaire"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Fred Osmond",
+    "normalized_name": "Fred Osmond",
+    "type": "Unknown",
+    "description": "Mentioned in Piston's biography",
+    "sources": [
+      "Piston.json"
+    ],
+    "characters": [
+      "Piston"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Harpy",
+    "normalized_name": "Harpy",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Cordelia Fairchild's biography",
+    "sources": [
+      "Cordelia Fairchild.json"
+    ],
+    "characters": [
+      "Cordelia Fairchild"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Hawthorn Estate",
+    "normalized_name": "Hawthorn Estate",
+    "type": "Haven",
+    "description": "Mentioned in Eddy Valiant's biography",
+    "sources": [
+      "Eddy_Valiant_character_sheet.json"
+    ],
+    "characters": [
+      "Eddy Valiant"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Hermetic",
+    "normalized_name": "Hermetic",
+    "type": "Organization Base",
+    "description": "Mentioned in Helena Crowly's biography",
+    "sources": [
+      "Helena_Crowly.json"
+    ],
+    "characters": [
+      "Helena Crowly"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "High",
+    "normalized_name": "High",
+    "type": "Haven",
+    "description": "From Helena Crowly's location notes",
+    "sources": [
+      "Helena_Crowly.json"
+    ],
+    "characters": [
+      "Helena Crowly"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "His Bunker",
+    "normalized_name": "His Bunker",
+    "type": "Haven",
+    "description": "Mentioned in Alistaire's biography",
+    "sources": [
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alistaire"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Instead",
+    "normalized_name": "Instead",
+    "type": "Organization Base",
+    "description": "Mentioned in Helena Crowly's biography",
+    "sources": [
+      "Helena_Crowly.json"
+    ],
+    "characters": [
+      "Helena Crowly"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Italian",
+    "normalized_name": "Italian",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Alessandro Vescari's biography",
+    "sources": [
+      "Alessandro_Vescari_character_sheet.json"
+    ],
+    "characters": [
+      "Alessandro Vescari"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Italy",
+    "normalized_name": "Italy",
+    "type": "City/Region",
+    "description": "Mentioned in Alistaire's biography",
+    "sources": [
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alistaire"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Its Consequences\n\nIn",
+    "normalized_name": "Its Consequences\n\nIn",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Jyhad",
+    "normalized_name": "Jyhad",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Cordelia Fairchild's biography",
+    "sources": [
+      "Cordelia Fairchild.json"
+    ],
+    "characters": [
+      "Cordelia Fairchild"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Kings",
+    "normalized_name": "Kings",
+    "type": "Organization Base",
+    "description": "Mentioned in Helena Crowly's biography",
+    "sources": [
+      "Helena_Crowly.json"
+    ],
+    "characters": [
+      "Helena Crowly"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Las Vegas",
+    "normalized_name": "Las Vegas",
+    "type": "Unknown",
+    "description": "Mentioned in Rembrandt Jones's biography",
+    "sources": [
+      "Rembrandt Jones.json"
+    ],
+    "characters": [
+      "Rembrandt Jones"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Like",
+    "normalized_name": "Like",
+    "type": "Haven",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Los Angeles",
+    "normalized_name": "Los Angeles",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Alessandro Vescari's biography",
+    "sources": [
+      "Alessandro_Vescari_character_sheet.json"
+    ],
+    "characters": [
+      "Alessandro Vescari"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Mad Men",
+    "normalized_name": "Mad Men",
+    "type": "Business/Establishment",
+    "description": "Mentioned in James Whitmore's biography",
+    "sources": [
+      "James_Whitmore.json"
+    ],
+    "characters": [
+      "James Whitmore"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Madness Network",
+    "normalized_name": "Madness Network",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Maintains",
+    "normalized_name": "Maintains",
+    "type": "Business/Establishment",
+    "description": "Mentioned in James Whitmore's biography",
+    "sources": [
+      "James_Whitmore.json"
+    ],
+    "characters": [
+      "James Whitmore"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Marilyn Chase",
+    "normalized_name": "Marilyn Chase",
+    "type": "Unknown",
+    "description": "Mentioned in Eddy Valiant's biography",
+    "sources": [
+      "Eddy_Valiant_character_sheet.json"
+    ],
+    "characters": [
+      "Eddy Valiant"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Mercury",
+    "normalized_name": "Mercury",
+    "type": "Organization Base",
+    "description": "Mentioned in Helena Crowly's biography",
+    "sources": [
+      "Helena_Crowly.json"
+    ],
+    "characters": [
+      "Helena Crowly"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Mesa",
+    "normalized_name": "Mesa",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Alistaire's biography; Mentioned in Tor's biography; Mentioned in Roxanne Murphy's biography",
+    "sources": [
+      "Alessandro_Vescari_character_sheet.json",
+      "Roxanne_Murphy.json",
+      "Tor.json",
+      "alistaire.json",
+      "Étienne.json"
+    ],
+    "characters": [
+      "Alessandro Vescari",
+      "Alistaire",
+      "Roxanne Murphy",
+      "Tor",
+      "Étienne Duvalier"
+    ],
+    "occurrence_count": 8
+  },
+  {
+    "name": "Microsoft",
+    "normalized_name": "Microsoft",
+    "type": "Haven",
+    "description": "Mentioned in Betty's biography",
+    "sources": [
+      "Betty.json"
+    ],
+    "characters": [
+      "Betty"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Necromancy",
+    "normalized_name": "Necromancy",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Alessandro Vescari's biography",
+    "sources": [
+      "Alessandro_Vescari_character_sheet.json"
+    ],
+    "characters": [
+      "Alessandro Vescari"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "New York",
+    "normalized_name": "New York",
+    "type": "Business/Establishment",
+    "description": "Mentioned in James Whitmore's biography",
+    "sources": [
+      "James_Whitmore.json"
+    ],
+    "characters": [
+      "James Whitmore"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "One",
+    "normalized_name": "One",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Bayside Bob's biography",
+    "sources": [
+      "Bayside Bob.json"
+    ],
+    "characters": [
+      "Bayside Bob"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Operating",
+    "normalized_name": "Operating",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Alessandro Vescari's biography",
+    "sources": [
+      "Alessandro_Vescari_character_sheet.json"
+    ],
+    "characters": [
+      "Alessandro Vescari"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Over",
+    "normalized_name": "Over",
+    "type": "Haven",
+    "description": "Mentioned in Alistaire's biography; Mentioned in character history",
+    "sources": [
+      "alistaire.json",
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Alistaire",
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Path",
+    "normalized_name": "Path",
+    "type": "Organization Base",
+    "description": "Mentioned in Helena Crowly's biography",
+    "sources": [
+      "Helena_Crowly.json"
+    ],
+    "characters": [
+      "Helena Crowly"
+    ],
+    "occurrence_count": 3
+  },
+  {
+    "name": "Phoenix Chantry",
+    "normalized_name": "Phoenix Chantry",
+    "type": "Organization Base",
+    "description": "Mentioned in Helena Crowly's biography",
+    "sources": [
+      "Helena_Crowly.json"
+    ],
+    "characters": [
+      "Helena Crowly"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Phoenix Chantry – Archivist’s Suite",
+    "normalized_name": "Phoenix Chantry – Archivist’s Suite",
+    "type": "Haven",
+    "description": "High-rise haven with layered thaumaturgic wards and a private ritual library; windows are heavily treated and disguised.",
+    "sources": [
+      "Helena_Crowly.json"
+    ],
+    "characters": [
+      "Helena Crowly"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Play\n\nThe",
+    "normalized_name": "Play\n\nThe",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Private Victorian-styled residence",
+    "normalized_name": "Private Victorian-styled residence",
+    "type": "Haven",
+    "description": "Located near central Phoenix;",
+    "sources": [
+      "lilith_nightshade.json"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Rat Pack",
+    "normalized_name": "Rat Pack",
+    "type": "Unknown",
+    "description": "Mentioned in Rembrandt Jones's biography",
+    "sources": [
+      "Rembrandt Jones.json"
+    ],
+    "characters": [
+      "Rembrandt Jones"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Roadside Americana",
+    "normalized_name": "Roadside Americana",
+    "type": "Unknown",
+    "description": "Mentioned in Rembrandt Jones's biography",
+    "sources": [
+      "Rembrandt Jones.json"
+    ],
+    "characters": [
+      "Rembrandt Jones"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Said Nothing",
+    "normalized_name": "Said Nothing",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Salt River",
+    "normalized_name": "Salt River",
+    "type": "Landmark/Area",
+    "description": "Mentioned in Naomi Blackbird's biography; From Naomi Blackbird's location notes",
+    "sources": [
+      "Naomi Blackbird.json"
+    ],
+    "characters": [
+      "Naomi Blackbird"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Salt River Bed Shelter",
+    "normalized_name": "Salt River Bed Shelter",
+    "type": "Haven",
+    "description": "A concealed space beneath old river infrastructure near the Salt River bed.",
+    "sources": [
+      "Naomi Blackbird.json"
+    ],
+    "characters": [
+      "Naomi Blackbird"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Salt River region, Phoenix AZ",
+    "normalized_name": "Salt River region, Phoenix AZ",
+    "type": "City/Region",
+    "description": "Birthplace of Naomi Blackbird",
+    "sources": [
+      "Naomi Blackbird.json"
+    ],
+    "characters": [
+      "Naomi Blackbird"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Scottsdale",
+    "normalized_name": "Scottsdale",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Alessandro Vescari's biography",
+    "sources": [
+      "Alessandro_Vescari_character_sheet.json"
+    ],
+    "characters": [
+      "Alessandro Vescari"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Sent",
+    "normalized_name": "Sent",
+    "type": "Business/Establishment",
+    "description": "Mentioned in James Whitmore's biography",
+    "sources": [
+      "James_Whitmore.json"
+    ],
+    "characters": [
+      "James Whitmore"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Setites",
+    "normalized_name": "Setites",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Alessandro Vescari's biography",
+    "sources": [
+      "Alessandro_Vescari_character_sheet.json"
+    ],
+    "characters": [
+      "Alessandro Vescari"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Shrecknet",
+    "normalized_name": "Shrecknet",
+    "type": "Haven",
+    "description": "Mentioned in Alistaire's biography; Mentioned in Betty's biography",
+    "sources": [
+      "Betty.json",
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alistaire",
+      "Betty"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "Spent",
+    "normalized_name": "Spent",
+    "type": "Business/Establishment",
+    "description": "Mentioned in James Whitmore's biography",
+    "sources": [
+      "James_Whitmore.json"
+    ],
+    "characters": [
+      "James Whitmore"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Sun City",
+    "normalized_name": "Sun City",
+    "type": "Unknown",
+    "description": "Mentioned in Tor's biography",
+    "sources": [
+      "Tor.json"
+    ],
+    "characters": [
+      "Tor"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Survivor",
+    "normalized_name": "Survivor",
+    "type": "Haven",
+    "description": "Mentioned in Alistaire's biography",
+    "sources": [
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alistaire"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Temple",
+    "normalized_name": "Temple",
+    "type": "Organization Base",
+    "description": "Mentioned in Alessandro Vescari's biography",
+    "sources": [
+      "Alessandro_Vescari_character_sheet.json"
+    ],
+    "characters": [
+      "Alessandro Vescari"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Terry",
+    "normalized_name": "Terry",
+    "type": "Haven",
+    "description": "Mentioned in Alistaire's biography; Mentioned in Betty's biography",
+    "sources": [
+      "Betty.json",
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alistaire",
+      "Betty"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "The American Southwest",
+    "normalized_name": "American Southwest",
+    "type": "Haven",
+    "description": "Mentioned in Alistaire's biography",
+    "sources": [
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alistaire"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "The Apache Wars",
+    "normalized_name": "Apache Wars",
+    "type": "Unknown",
+    "description": "Mentioned in Roland Cross's biography",
+    "sources": [
+      "sheriff_roland.json"
+    ],
+    "characters": [
+      "Roland Cross"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "The Bali Hai",
+    "normalized_name": "Bali Hai",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Duke Tiki's biography; Mentioned in Bayside Bob's biography",
+    "sources": [
+      "Bayside Bob.json",
+      "Duke Tiki.json"
+    ],
+    "characters": [
+      "Bayside Bob",
+      "Duke Tiki"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "The Beast",
+    "normalized_name": "Beast",
+    "type": "Unknown",
+    "description": "Mentioned in Piston's biography",
+    "sources": [
+      "Piston.json"
+    ],
+    "characters": [
+      "Piston"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "The Bunker",
+    "normalized_name": "Bunker",
+    "type": "Haven",
+    "description": "Mentioned in Alistaire's biography; Listed as demolished; secretly maintained.",
+    "sources": [
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alistaire"
+    ],
+    "occurrence_count": 4
+  },
+  {
+    "name": "The Hole",
+    "normalized_name": "Hole",
+    "type": "Unknown",
+    "description": "Mentioned in Roxanne Murphy's biography",
+    "sources": [
+      "Roxanne_Murphy.json"
+    ],
+    "characters": [
+      "Roxanne Murphy"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "The Hospital Elder",
+    "normalized_name": "Hospital Elder",
+    "type": "Organization Base",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "The Living Terminal",
+    "normalized_name": "Living Terminal",
+    "type": "Haven",
+    "description": "Mentioned in Betty's biography",
+    "sources": [
+      "Betty.json"
+    ],
+    "characters": [
+      "Betty"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "The Oracle",
+    "normalized_name": "Oracle",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "The Porcelain Oracle",
+    "normalized_name": "Porcelain Oracle",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 2
+  },
+  {
+    "name": "The Rumor",
+    "normalized_name": "Rumor",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "The Sands",
+    "normalized_name": "Sands",
+    "type": "Unknown",
+    "description": "Mentioned in Rembrandt Jones's biography",
+    "sources": [
+      "Rembrandt Jones.json"
+    ],
+    "characters": [
+      "Rembrandt Jones"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "The Silent Authority",
+    "normalized_name": "Silent Authority",
+    "type": "Haven",
+    "description": "Mentioned in Alistaire's biography",
+    "sources": [
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alistaire"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "The Velvet Door",
+    "normalized_name": "Velvet Door",
+    "type": "Unknown",
+    "description": "Mentioned in Sarah Hansen's biography",
+    "sources": [
+      "Sarah_Hansen.json"
+    ],
+    "characters": [
+      "Sarah Hansen"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "The Vision",
+    "normalized_name": "Vision",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Their Ravnos",
+    "normalized_name": "Their Ravnos",
+    "type": "Unknown",
+    "description": "Mentioned in Jax 'The Ghost Dealer''s biography",
+    "sources": [
+      "Jax.json"
+    ],
+    "characters": [
+      "Jax 'The Ghost Dealer'"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Today",
+    "normalized_name": "Today",
+    "type": "Haven",
+    "description": "Mentioned in Alistaire's biography",
+    "sources": [
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alistaire"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Truth",
+    "normalized_name": "Truth",
+    "type": "Business/Establishment",
+    "description": "Mentioned in James Whitmore's biography",
+    "sources": [
+      "James_Whitmore.json"
+    ],
+    "characters": [
+      "James Whitmore"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Two",
+    "normalized_name": "Two",
+    "type": "Organization Base",
+    "description": "Mentioned in Helena Crowly's biography",
+    "sources": [
+      "Helena_Crowly.json"
+    ],
+    "characters": [
+      "Helena Crowly"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Tyron Mason",
+    "normalized_name": "Tyron Mason",
+    "type": "Unknown",
+    "description": "Mentioned in Sarah Hansen's biography",
+    "sources": [
+      "Sarah_Hansen.json"
+    ],
+    "characters": [
+      "Sarah Hansen"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "United States",
+    "normalized_name": "United States",
+    "type": "City/Region",
+    "description": "Birthplace of Charles \"C.W.\" Whitford",
+    "sources": [
+      "CW Whitford.json"
+    ],
+    "characters": [
+      "Charles \"C.W.\" Whitford"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Unix",
+    "normalized_name": "Unix",
+    "type": "Haven",
+    "description": "Mentioned in Betty's biography",
+    "sources": [
+      "Betty.json"
+    ],
+    "characters": [
+      "Betty"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Unofficially",
+    "normalized_name": "Unofficially",
+    "type": "Business/Establishment",
+    "description": "Mentioned in Alessandro Vescari's biography",
+    "sources": [
+      "Alessandro_Vescari_character_sheet.json"
+    ],
+    "characters": [
+      "Alessandro Vescari"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Upper",
+    "normalized_name": "Upper",
+    "type": "Business/Establishment",
+    "description": "Mentioned in James Whitmore's biography",
+    "sources": [
+      "James_Whitmore.json"
+    ],
+    "characters": [
+      "James Whitmore"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Using This Rumor",
+    "normalized_name": "Using This Rumor",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Valley",
+    "normalized_name": "Valley",
+    "type": "Landmark/Area",
+    "description": "Mentioned in Phreak's biography; Mentioned in Charles \"C.W.\" Whitford's biography; Mentioned in Core (Alexandra Chen)'s biography",
+    "sources": [
+      "Alessandro_Vescari_character_sheet.json",
+      "CW Whitford.json",
+      "Core (Alexandra Chen).json",
+      "Helena_Crowly.json",
+      "Phreak.json",
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Alessandro Vescari",
+      "Charles \"C.W.\" Whitford",
+      "Core (Alexandra Chen)",
+      "Helena Crowly",
+      "Lilith Nightshade",
+      "Phreak"
+    ],
+    "occurrence_count": 9
+  },
+  {
+    "name": "Van Buren",
+    "normalized_name": "Van Buren",
+    "type": "Unknown",
+    "description": "Mentioned in Eddy Valiant's biography",
+    "sources": [
+      "Eddy_Valiant_character_sheet.json"
+    ],
+    "characters": [
+      "Eddy Valiant"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Vechij Oksdagi",
+    "normalized_name": "Vechij Oksdagi",
+    "type": "Unknown",
+    "description": "Mentioned in Naomi Blackbird's biography",
+    "sources": [
+      "Naomi Blackbird.json"
+    ],
+    "characters": [
+      "Naomi Blackbird"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Venice",
+    "normalized_name": "Venice",
+    "type": "Haven",
+    "description": "Mentioned in Alistaire's biography; Mentioned in Alessandro Vescari's biography",
+    "sources": [
+      "Alessandro_Vescari_character_sheet.json",
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alessandro Vescari",
+      "Alistaire"
+    ],
+    "occurrence_count": 4
+  },
+  {
+    "name": "Venice, Italy",
+    "normalized_name": "Venice, Italy",
+    "type": "City/Region",
+    "description": "Birthplace of Alistaire",
+    "sources": [
+      "alistaire.json"
+    ],
+    "characters": [
+      "Alistaire"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Victorian",
+    "normalized_name": "Victorian",
+    "type": "Haven",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Warning\n\nDays",
+    "normalized_name": "Warning\n\nDays",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "West Coast",
+    "normalized_name": "West Coast",
+    "type": "Unknown",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Whitford Development Corporate Offices (Private Suite)",
+    "normalized_name": "Whitford Development Corporate Offices (Private Suite)",
+    "type": "Haven",
+    "description": "Overlooks central Phoenix; secured with layered mortal and financial influence.",
+    "sources": [
+      "CW Whitford.json"
+    ],
+    "characters": [
+      "Charles \"C.W.\" Whitford"
+    ],
+    "occurrence_count": 1
+  },
+  {
+    "name": "Yet",
+    "normalized_name": "Yet",
+    "type": "Haven",
+    "description": "Mentioned in character history",
+    "sources": [
+      "character_history_lilith_nightshade.md"
+    ],
+    "characters": [
+      "Lilith Nightshade"
+    ],
+    "occurrence_count": 1
+  }
+]

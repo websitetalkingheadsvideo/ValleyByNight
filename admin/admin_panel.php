@@ -148,18 +148,17 @@ function render_clan_badge(string $clan): string {
     <!-- Character Statistics -->
     <div class="character-stats row g-3 mb-4">
     <?php
-        $stats_query = "SELECT 
-            COUNT(*) as total,
-            SUM(CASE WHEN player_name = 'NPC' THEN 1 ELSE 0 END) as npcs,
-            SUM(CASE WHEN player_name IS NOT NULL AND player_name != '' AND player_name != 'NPC' THEN 1 ELSE 0 END) as pcs
-            FROM characters";
-        $stats_result = mysqli_query($conn, $stats_query);
+        // SECURITY: Using prepared statement helper for consistency
+        $stats = db_fetch_one($conn, 
+            "SELECT 
+                COUNT(*) as total,
+                SUM(CASE WHEN player_name = 'NPC' THEN 1 ELSE 0 END) as npcs,
+                SUM(CASE WHEN player_name IS NOT NULL AND player_name != '' AND player_name != 'NPC' THEN 1 ELSE 0 END) as pcs
+                FROM characters"
+        );
         
-        if ($stats_result) {
-            $stats = mysqli_fetch_assoc($stats_result);
-        } else {
+        if (!$stats) {
             $stats = ['total' => 0, 'npcs' => 0, 'pcs' => 0];
-            echo "<p style='color: red;'>Stats query error: " . mysqli_error($conn) . "</p>";
         }
         ?>
         <div class="col-12 col-sm-4 col-lg-3">
@@ -201,10 +200,9 @@ function render_clan_badge(string $clan): string {
     <div class="questionnaire-stats d-flex flex-wrap gap-3 mb-4 align-items-center">
         <h2 class="h6 text-light mb-0">Story Questionnaire</h2>
         <?php
-        // Get questionnaire statistics
-        $questionnaire_query = "SELECT COUNT(*) as total_questions FROM questionnaire_questions";
-        $questionnaire_result = mysqli_query($conn, $questionnaire_query);
-        $questionnaire_count = $questionnaire_result ? mysqli_fetch_assoc($questionnaire_result)['total_questions'] : 0;
+        // SECURITY: Using prepared statement helper for consistency
+        $questionnaire_data = db_fetch_one($conn, "SELECT COUNT(*) as total_questions FROM questionnaire_questions");
+        $questionnaire_count = $questionnaire_data ? (int)$questionnaire_data['total_questions'] : 0;
         ?>
         <div class="card text-center" style="min-width: 100px;">
             <div class="card-body p-3">
@@ -274,18 +272,20 @@ function render_clan_badge(string $clan): string {
             </thead>
             <tbody>
                 <?php
-                $char_query = "SELECT c.*, u.username as owner_username
-                               FROM characters c 
-                               LEFT JOIN users u ON c.user_id = u.id
-                               ORDER BY c.id DESC";
-                $char_result = mysqli_query($conn, $char_query);
+                // SECURITY: Using prepared statement helper for consistency
+                $characters = db_fetch_all($conn, 
+                    "SELECT c.*, u.username as owner_username
+                     FROM characters c 
+                     LEFT JOIN users u ON c.user_id = u.id
+                     ORDER BY c.id DESC"
+                );
                 $currentAdminUrl = $_SERVER['REQUEST_URI'] ?? '/admin/admin_panel.php';
                 $encodedReturnUrl = rawurlencode($currentAdminUrl);
                 
-                if (!$char_result) {
-                    echo "<tr><td colspan='6'>Query Error: " . mysqli_error($conn) . "</td></tr>";
-                } elseif (mysqli_num_rows($char_result) > 0) {
-                    while ($char = mysqli_fetch_assoc($char_result)) {
+                if (empty($characters)) {
+                    echo "<tr><td colspan='6'>No characters found.</td></tr>";
+                } else {
+                    foreach ($characters as $char) {
                         $is_npc = ($char['player_name'] === 'NPC');
                         $playerName = trim($char['player_name'] ?? '') !== '' ? $char['player_name'] : ($is_npc ? 'NPC' : '—');
                         $clanName = $char['clan'] ?? 'Unknown';
