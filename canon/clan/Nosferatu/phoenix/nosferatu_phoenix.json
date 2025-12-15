@@ -1,0 +1,9 @@
+{
+    "clan": "Nosferatu",
+    "city": "Phoenix, Arizona",
+    "year": 1994,
+    "phoenix_specific": {
+        "notes": "Phoenix-specific information for Nosferatu will be added here"
+    }
+}
+
