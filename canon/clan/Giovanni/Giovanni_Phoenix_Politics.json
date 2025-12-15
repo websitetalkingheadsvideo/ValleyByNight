@@ -1,0 +1,69 @@
+{
+    "clan": "Giovanni",
+    "city": "Phoenix",
+    "year": 1994,
+    "primary_alignment": "Independent",
+    "secondary_alignment_notes": "Publicly neutral and diplomatically distant, the Giovanni maintain independence while quietly exploiting Camarilla instability. They avoid overt factional alignment, preferring long-term leverage over short-term dominance.",
+    "relationships": {
+      "Camarilla": {
+        "status": "Transactional tolerance",
+        "notes": "The Camarilla tolerates the Giovanni presence due to their utility in matters of death, inheritance, and discreet problem-solving. Trust is minimal, but hostility is avoided so long as the Giovanni remain outwardly compliant."
+      },
+      "Anarchs": {
+        "status": "Cautious distance",
+        "notes": "Anarchs view the Giovanni as predators in suits—dangerous, patient, and fundamentally uninterested in revolution. Limited dealings occur through intermediaries, usually involving money or disappearances."
+      },
+      "Ventrue": {
+        "status": "Mutual respect with tension",
+        "notes": "The Ventrue recognize the Giovanni as fellow long-term planners, but resent their independence and necromantic secrets. Interactions are polite, formal, and edged with rivalry."
+      },
+      "Toreador": {
+        "status": "Surface cordiality",
+        "notes": "Toreador socialize with Giovanni representatives at Elysium events, but rarely trust them. The Giovanni consider Toreador influence fleeting compared to dynastic power."
+      },
+      "Nosferatu": {
+        "status": "Information exchanges",
+        "notes": "Quiet trades of information occur, often mediated through Paulo Benedicto Giovanni. Both sides understand the value of secrets, but neither fully trusts the other."
+      },
+      "Brujah": {
+        "status": "Low-level friction",
+        "notes": "Brujah distrust the Giovanni’s wealth and detachment. The Giovanni consider Brujah anger predictable and exploitable, but not worth provoking unnecessarily."
+      },
+      "Malkavian": {
+        "status": "Uneasy curiosity",
+        "notes": "Malkavian insight is occasionally useful, occasionally dangerous. Paris Giovanni tolerates them at Elysium, but never invites them deeper into Giovanni affairs."
+      },
+      "Other_Clans": {
+        "notes": "Most clans treat the Giovanni as a necessary evil—dangerous to antagonize, costly to employ, and impossible to fully understand."
+      }
+    },
+    "political_assumptions": {
+      "external": [
+        "The Giovanni know more about the Prince’s death than they admit",
+        "Any deal with the Giovanni carries hidden costs",
+        "Giovanni neutrality is strategic, not moral"
+      ],
+      "internal": [
+        "The Camarilla will fracture further without intervention",
+        "Stability is more profitable than open chaos",
+        "Violence is a last resort; leverage is eternal"
+      ]
+    },
+    "economic_levers": [
+      "Funerary services and estates tied to mortal wealth",
+      "Shell companies controlling real estate and logistics in Scottsdale",
+      "Debt structures enforced through contracts and inheritance disputes"
+    ],
+    "death_related_assets": [
+      "Access to wraiths and the Shadowlands through Paris Giovanni",
+      "Ghostly surveillance of key locations when long-term outcomes are at stake",
+      "Occult knowledge that can confirm or deny rumors surrounding violent deaths"
+    ],
+    "flashpoints": [
+      "Attempts by Camarilla factions to force Giovanni allegiance",
+      "Unauthorized necromantic activity drawing attention to Giovanni methods",
+      "PCs seeking Giovanni aid to investigate the Prince’s murder",
+      "Threats to Scottsdale assets or Giovanni-controlled estates"
+    ]
+  }
+  

@@ -1,0 +1,56 @@
+{
+    "clan": "Giovanni",
+    "city": "Phoenix",
+    "year": 1994,
+    "hooks": [
+      {
+        "hook_title": "Whispers in the Scottsdale Hills",
+        "trigger": "A mortal real estate magnate tied to Scottsdale properties dies suddenly under suspicious circumstances.",
+        "involved_factions": ["Giovanni", "Camarilla"],
+        "initial_situation": "Paulo Benedicto Giovanni quietly secures the estate before Camarilla agents can interfere, citing prior contractual obligations.",
+        "escalation_path": "If challenged, Marianna Giovanni produces binding documents implicating several Camarilla elders in illicit financial arrangements tied to the deceased.",
+        "if_ignored": "The Giovanni gain increased leverage over Camarilla assets, tightening their grip on key Scottsdale properties."
+      },
+      {
+        "hook_title": "The Price of Speaking with the Dead",
+        "trigger": "PCs learn that Giovanni necromancy could uncover details about the Prince’s assassination.",
+        "involved_factions": ["Giovanni", "PC Coterie"],
+        "initial_situation": "Paulo agrees to arrange an audience with Paris Giovanni, but only after the PCs perform a discreet service for the family.",
+        "escalation_path": "Paris sends a wraith to investigate, leaving traces that implicate Assamite involvement and attract unwanted attention.",
+        "if_ignored": "The truth remains buried, but rumors spread that the Giovanni know more than they admit."
+      },
+      {
+        "hook_title": "A Contract Older Than the City",
+        "trigger": "A forgotten contract resurfaces during a Camarilla succession dispute.",
+        "involved_factions": ["Giovanni", "Ventrue", "Toreador"],
+        "initial_situation": "Marianna Giovanni asserts the contract grants the Giovanni specific rights during times of leadership vacuum.",
+        "escalation_path": "Opposition leads to legal challenges, social ostracism, and targeted financial pressure against dissenters.",
+        "if_ignored": "The Giovanni quietly enforce the contract, shaping succession outcomes without public involvement."
+      },
+      {
+        "hook_title": "Lorenzo’s Warning",
+        "trigger": "An Anarch cell interferes with a Giovanni-controlled operation near Camelback Mountain.",
+        "involved_factions": ["Giovanni", "Anarchs"],
+        "initial_situation": "Lorenzo Giovanni confronts the offenders with a single, brutal act meant as a warning.",
+        "escalation_path": "If retaliation follows, further violence is swift and decisive, leaving the perpetrators unmistakably punished.",
+        "if_ignored": "The Anarchs retreat, spreading stories of Giovanni ruthlessness that deter future interference."
+      },
+      {
+        "hook_title": "Ghosts in the Court",
+        "trigger": "Strange disturbances are reported during Elysium gatherings.",
+        "involved_factions": ["Giovanni", "Camarilla"],
+        "initial_situation": "Whispers suggest unseen observers linger during court, unsettling elders and neonates alike.",
+        "escalation_path": "Paris allows the rumors to grow, increasing fear and speculation without confirming Giovanni involvement.",
+        "if_ignored": "Paranoia spreads through the court, weakening Camarilla cohesion."
+      },
+      {
+        "hook_title": "The Acceptable Loss",
+        "trigger": "A Giovanni operation risks exposure that could endanger the family’s long-term interests.",
+        "involved_factions": ["Giovanni"],
+        "initial_situation": "Lorenzo is tasked with containing the threat, fully aware of the personal risk involved.",
+        "escalation_path": "His actions draw attention and scrutiny, deflecting focus from Paris and Paulo’s deeper plans.",
+        "if_ignored": "The threat escalates, forcing Paris to intervene directly with consequences felt citywide."
+      }
+    ]
+  }
+  
