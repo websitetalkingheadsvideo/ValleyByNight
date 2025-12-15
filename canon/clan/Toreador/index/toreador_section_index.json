@@ -1,0 +1,72 @@
+{
+    "clan": "Toreador",
+    "book_title": "Toreador",
+    "edition": "Revised (assumed)",
+    "approximate_source_file": "G:\\VbN\\reference\\Books_md_clean\\Toreador.md",
+    "sections": [
+      {
+        "id": "opening_fiction",
+        "title": "Opening Fiction",
+        "anchor": "## Opening Fiction",
+        "type": "fiction",
+        "notes": "Sets the emotional tone of Toreador existence through a focused story of obsession, beauty, and decay."
+      },
+      {
+        "id": "history",
+        "title": "Clan History",
+        "anchor": "## History",
+        "type": "history",
+        "notes": "Outlines Toreador myths of origin and their role in mortal cultural evolution from antiquity to the modern night."
+      },
+      {
+        "id": "culture_and_practices",
+        "title": "Culture and Practices",
+        "anchor": "## Culture and Practices",
+        "type": "culture",
+        "notes": "Describes Toreador social customs, salons, artistic fixations, and internal expectations of taste and comportment."
+      },
+      {
+        "id": "philosophy",
+        "title": "Philosophy and Worldview",
+        "anchor": "## Philosophy",
+        "type": "philosophy",
+        "notes": "Explores how Toreador justify their obsession with beauty and their role as curators of meaning in an eternal night."
+      },
+      {
+        "id": "factions_and_politics",
+        "title": "Factions and Politics",
+        "anchor": "## Factions and Politics",
+        "type": "politics",
+        "notes": "Covers subgroups within the clan and how they leverage art, reputation, and Elysium to influence Camarilla power structures."
+      },
+      {
+        "id": "relations_with_other_clans",
+        "title": "Relations With Other Clans",
+        "anchor": "## Relations With Other Clans",
+        "type": "relationships",
+        "notes": "Summarizes Toreador attitudes toward other clans and how those clans stereotype or exploit Toreador."
+      },
+      {
+        "id": "character_creation_notes",
+        "title": "Character Creation Notes",
+        "anchor": "## Character Creation Notes",
+        "type": "character_creation",
+        "notes": "Provides guidance on building Toreador characters, including concept suggestions and mechanical emphases."
+      },
+      {
+        "id": "archetypes_and_templates",
+        "title": "Archetypes and Templates",
+        "anchor": "## Archetypes and Templates",
+        "type": "templates",
+        "notes": "Lists prebuilt Toreador concepts and example characters illustrating common clan roles."
+      },
+      {
+        "id": "storyteller_advice",
+        "title": "Storyteller Advice",
+        "anchor": "## Storyteller Advice",
+        "type": "story_advice",
+        "notes": "Offers direction for using Toreador in chronicles, including how to center stories around art, reputation, and emotional stakes."
+      }
+    ]
+  }
+
