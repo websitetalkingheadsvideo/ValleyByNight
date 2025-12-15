@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.8.32
+## Current Version: 0.8.33
+
+**Date:** 2025-01-30  
+**Type:** Patch (Canon Clan File Organization & JSON Validation)
+
+## Previous Version: 0.8.32
 
 **Date:** 2025-01-30  
 **Type:** Patch (Git Repository Management & Canon Data Addition)

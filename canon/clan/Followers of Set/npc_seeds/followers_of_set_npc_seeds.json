@@ -71,7 +71,7 @@
       {
         "id": "setite_seed_06",
         "name": "The Penitent Serpent",
-        "summary": "A Setite who has begun to doubt the clan’s methods but cannot fully abandon faith in Set, creating a volatile mix of guilt, loyalty, and desperation.",
+        "summary": "A Setite who has begun to doubt the clan's methods but cannot fully abandon faith in Set, creating a volatile mix of guilt, loyalty, and desperation.",
         "role": "potential traitor, double agent, or tragic ally",
         "age_category": "neonate or ancilla",
         "temperament": "brooding, intense, oscillating between kindness and fanaticism",
@@ -80,103 +80,6 @@
           "Offers to sabotage a Setite plot in exchange for protection, drawing the coterie into a web of reprisals.",
           "Is forced by their superiors to prove loyalty by betraying the PCs, creating a fraught, high-drama confrontation."
         ]
-      }
-    ]
-  }
-  
-  
-  === followers_of_set_section_index.json ===
-  {
-    "clan": "Followers of Set",
-    "book_title": "Revised Clanbook: Followers of Set",
-    "edition": "Revised",
-    "approximate_source_file": "G:\\VbN\\reference\\Books_md_clean\\Revised - Clanbook Followers of Set.md",
-    "sections": [
-      {
-        "id": "healing_power_of_religion",
-        "title": "The Healing Power of Religion",
-        "anchor": "## The heALiNg pOwer Of reLigiON",
-        "type": "theme_essay",
-        "notes": "Introduces the clan's framing of religion as a tool of liberation and control, setting thematic tone for the book."
-      },
-      {
-        "id": "set_himself",
-        "title": "Set Himself",
-        "anchor": "## Set Himself.",
-        "type": "mythology",
-        "notes": "Outlines the Setite perspective on Set as a cosmic principle rather than a mere villainous god."
-      },
-      {
-        "id": "ancient_world",
-        "title": "The Ancient World & Pharaonic Egypt",
-        "anchor": "## The  ANCieNT  wOrLD",
-        "type": "history",
-        "notes": "Covers the clan’s mythic and historical roots in ancient Egypt and surrounding cultures."
-      },
-      {
-        "id": "enemies_and_purges",
-        "title": "Ancient Enemies, Crusades, and Purges",
-        "anchor": "## ANCieNT  eNemieS",
-        "type": "history",
-        "notes": "Describes conflicts with other factions, religious authorities, and Kindred, including attempts to eradicate Setite influence."
-      },
-      {
-        "id": "modern_problems",
-        "title": "Modern Problems",
-        "anchor": "## mODerN prOBLemS",
-        "type": "modern_history",
-        "notes": "Explores how Setites adapted to modernity, colonialism, and the rapid changes of the 19th–20th centuries."
-      },
-      {
-        "id": "global_setites",
-        "title": "Setites of Africa and Setites in America",
-        "anchor": "## SeTiTeS  Of  AfriCA",
-        "type": "global_presence",
-        "notes": "Details regional offshoots and adaptations of the clan across Africa and the Americas."
-      },
-      {
-        "id": "clan_of_faith",
-        "title": "The Clan of Faith",
-        "anchor": "## The  CLAN  Of  fAiTh",
-        "type": "identity",
-        "notes": "Defines how the Followers of Set see themselves as a religious clan, not mere criminals or cultists."
-      },
-      {
-        "id": "fundamentals_and_doctrine",
-        "title": "Fundamentals & Doctrine",
-        "anchor": "## fuNDAmeNTALS",
-        "type": "doctrine",
-        "notes": "Explains the basic tenets and structured teachings of Setite belief, including the Path of Typhon.",
-        "related_anchors": [
-          "## DOCTriNe",
-          "## The  wOrLD"
-        ]
-      },
-      {
-        "id": "history_path_of_typhon",
-        "title": "History & Current Practices of the Path of Typhon",
-        "anchor": "## hiSTOry",
-        "type": "path_of_enlightenment",
-        "notes": "Focuses on the origins, evolution, and present application of the Path of Typhon within the clan.",
-        "related_anchors": [
-          "## CurreNT  prACTiCeS",
-          "## eThiCS  Of  The  pATh  Of  SuTeKh",
-          "## virTueS"
-        ]
-      },
-      {
-        "id": "temples_and_rituals",
-        "title": "Temples and Rituals",
-        "anchor": "## TempLeS  AND  riTuALS",
-        "type": "practice",
-        "notes": "Describes Setite temple structures, worship practices, holy days, and the aesthetics of their religious art."
-      },
-      {
-        "id": "knowledge_and_libraries",
-        "title": "Knowledge & Setite Libraries",
-        "anchor": "## KNOwLeDge",
-        "type": "infrastructure",
-        "notes": "Covers how Setites curate, guard, and weaponize knowledge, including specialized lore abilities."
       }
     ]
   }

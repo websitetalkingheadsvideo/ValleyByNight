@@ -6,7 +6,7 @@
       {
         "id": "toreador_seed_01",
         "name": "Elena Marquette, Elysium Curator",
-        "summary": "An ancilla Toreador who curates the city’s main Elysium, treating it as both gallery and court stage.",
+        "summary": "An ancilla Toreador who curates the city's main Elysium, treating it as both gallery and court stage.",
         "role": "Elysium curator and social power broker",
         "age_category": "ancilla",
         "temperament": "polished, witty, quietly ruthless when her aesthetic is challenged",
@@ -24,20 +24,20 @@
         "age_category": "neonate",
         "temperament": "electric, impulsive, loyal to his scene before any sect",
         "possible_plots": [
-          "Rico’s venue becomes a hotbed of Masquerade risk as more Kindred use it to feed; he begs the PCs for help enforcing rules.",
+          "Rico's venue becomes a hotbed of Masquerade risk as more Kindred use it to feed; he begs the PCs for help enforcing rules.",
           "An elder Toreador is trying to buy out and sanitize the space; Rico wants the coterie to help him resist without getting crushed.",
           "A band playing at his club accidentally channels something supernatural in a performance, drawing interest from otherworldly forces."
         ]
       },
       {
         "id": "toreador_seed_03",
-        "name": "Lucille d’Aubigny, Fallen Star",
+        "name": "Lucille d'Aubigny, Fallen Star",
         "summary": "Once a famous ballerina, now an elder Toreador who cannot accept that her body and the world have moved on.",
         "role": "tragic elder and dangerous patron",
         "age_category": "elder",
-        "temperament": "melancholic, gracious, viciously spiteful when reminded of time’s passage",
+        "temperament": "melancholic, gracious, viciously spiteful when reminded of time's passage",
         "possible_plots": [
-          "Lucille fixates on a mortal dancer as her 'second chance' and pressures the PCs to eliminate any obstacles in the dancer’s career.",
+          "Lucille fixates on a mortal dancer as her 'second chance' and pressures the PCs to eliminate any obstacles in the dancer's career.",
           "She offers rare information or artifacts in exchange for staging an elaborate performance that re-creates her greatest triumph.",
           "Her haven is filled with eerie, frozen tableaux of past productions, some of which are more than mere props."
         ]
@@ -50,7 +50,7 @@
         "age_category": "neonate",
         "temperament": "hyper, distracted, intensely curious about other supernaturals",
         "possible_plots": [
-          "Mika’s latest AR project inadvertently reveals glimpses of real Kindred auras, drawing the attention of the Sheriff.",
+          "Mika's latest AR project inadvertently reveals glimpses of real Kindred auras, drawing the attention of the Sheriff.",
           "They blackmail the coterie with subtly edited footage unless the PCs help them secure rare tech hardware or occult data.",
           "Mika offers to create a 'myth' around the PCs in the mortal web, improving their influence but making anonymity impossible."
         ]
@@ -67,80 +67,6 @@
           "He commissions a morbid religious artwork that troubles even other Kindred; its creation requires morally questionable components.",
           "A mortal congregation around his church begins to develop fanatical devotion that may indicate outside supernatural influence."
         ]
-      }
-    ]
-  }
-  
-  
-  === toreador_section_index.json ===
-  {
-    "clan": "Toreador",
-    "book_title": "Toreador",
-    "edition": "Revised (assumed)",
-    "approximate_source_file": "G:\\VbN\\reference\\Books_md_clean\\Toreador.md",
-    "sections": [
-      {
-        "id": "opening_fiction",
-        "title": "Opening Fiction",
-        "anchor": "## Opening Fiction",
-        "type": "fiction",
-        "notes": "Sets the emotional tone of Toreador existence through a focused story of obsession, beauty, and decay."
-      },
-      {
-        "id": "history",
-        "title": "Clan History",
-        "anchor": "## History",
-        "type": "history",
-        "notes": "Outlines Toreador myths of origin and their role in mortal cultural evolution from antiquity to the modern night."
-      },
-      {
-        "id": "culture_and_practices",
-        "title": "Culture and Practices",
-        "anchor": "## Culture and Practices",
-        "type": "culture",
-        "notes": "Describes Toreador social customs, salons, artistic fixations, and internal expectations of taste and comportment."
-      },
-      {
-        "id": "philosophy",
-        "title": "Philosophy and Worldview",
-        "anchor": "## Philosophy",
-        "type": "philosophy",
-        "notes": "Explores how Toreador justify their obsession with beauty and their role as curators of meaning in an eternal night."
-      },
-      {
-        "id": "factions_and_politics",
-        "title": "Factions and Politics",
-        "anchor": "## Factions and Politics",
-        "type": "politics",
-        "notes": "Covers subgroups within the clan and how they leverage art, reputation, and Elysium to influence Camarilla power structures."
-      },
-      {
-        "id": "relations_with_other_clans",
-        "title": "Relations With Other Clans",
-        "anchor": "## Relations With Other Clans",
-        "type": "relationships",
-        "notes": "Summarizes Toreador attitudes toward other clans and how those clans stereotype or exploit Toreador."
-      },
-      {
-        "id": "character_creation_notes",
-        "title": "Character Creation Notes",
-        "anchor": "## Character Creation Notes",
-        "type": "character_creation",
-        "notes": "Provides guidance on building Toreador characters, including concept suggestions and mechanical emphases."
-      },
-      {
-        "id": "archetypes_and_templates",
-        "title": "Archetypes and Templates",
-        "anchor": "## Archetypes and Templates",
-        "type": "templates",
-        "notes": "Lists prebuilt Toreador concepts and example characters illustrating common clan roles."
-      },
-      {
-        "id": "storyteller_advice",
-        "title": "Storyteller Advice",
-        "anchor": "## Storyteller Advice",
-        "type": "story_advice",
-        "notes": "Offers direction for using Toreador in chronicles, including how to center stories around art, reputation, and emotional stakes."
       }
     ]
   }
