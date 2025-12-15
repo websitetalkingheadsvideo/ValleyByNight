@@ -1,0 +1,1669 @@
+[
+  {
+    "id": 0,
+    "user_id": 0,
+    "character_name": "Lorenzo Giovanni",
+    "player_name": "Ryan Vaughan",
+    "chronicle": "Valley by Night",
+    "nature": "Sadist",
+    "demeanor": "Bravo",
+    "concept": "Giovanni Independent",
+    "clan": "Giovanni",
+    "generation": 8,
+    "sire": "Paolo Giovanni",
+    "pc": 1,
+    "appearance": "",
+    "appearance_detailed": {
+      "short_summary": "",
+      "detailed_description": ""
+    },
+    "biography": "",
+    "notes": "Lorenzo has 2 armor levels fleshcrafted into him. Lorenzo may take 5 combat steps a round. Lorenzo's Gloves - +3 Physical Traits. Firewalker Ritual. Mentor Tzimice. 3pt Ally - Auto customization guy. 5pt Ally - Black Marketeer. All-purpose workshop. Humvee- 2 points armor, hidden compartments, sun proofed, puncture proof tires. Warded piece of rebar. Silver Nitrate Rounds. Blood Bullets",
+    "equipment": "50 Cal Lorenzo's (+4, 2 Lethal, Heavy, Loud, Slow), Ammo - Incendiary [Clip of 10], Blood Beads- Lorenzo, Finger bone - Scream of the Banshee (+0, 0 None), Finger bone- Leap into the Shadowlands (Fragile), Katana (Ward Vs. Kindred) (+4, 3 3 Lethal (+1 vs Kindred), None), Lorenzo's Car (+2, 4 Armor Levels, Clumsy, Heavy)",
+    "character_image": "",
+    "status": "active",
+    "camarilla_status": "Independent",
+    "sect": "Independent",
+    "title": "",
+    "epithet": "",
+    "description_tags": [],
+    "timeline": {
+      "birthplace": "",
+      "embrace_period": "",
+      "notable_mortal_past": "",
+      "world_war_two_experience": "",
+      "arrival_in_phoenix": "",
+      "bunker_acquisition": "",
+      "years_in_bunker": ""
+    },
+    "domain_and_haven": {
+      "primary_haven_name": "",
+      "primary_haven_type": "",
+      "location_notes": "",
+      "bunker_history": "",
+      "bunker_function": [],
+      "false_public_assumptions": ""
+    },
+    "current_residents": {
+      "nosferatu": [],
+      "ghouls": []
+    },
+    "personality": {
+      "tagline": "",
+      "narrative": ""
+    },
+    "traits": {
+      "Physical": ["Brawny", "Brawny", "Brawny", "Brutal", "Brutal", "Dexterous", "Dexterous", "Enduring", "Enduring", "Ferocious", "Quick", "Quick", "Robust", "Robust", "Wiry"],
+      "Social": ["Alluring", "Alluring", "Charismatic", "Charismatic", "Commanding", "Commanding", "Commanding", "Commanding", "Gorgeous", "Intimidating", "Intimidating", "Intimidating", "Intimidating", "Manipulative"],
+      "Mental": ["Alert", "Alert", "Attentive", "Clever", "Clever", "Cunning", "Cunning", "Determined", "Determined", "Observant", "Vigilant", "Wily", "Wily", "Wise"]
+    },
+    "negativeTraits": {
+      "Physical": ["Slow"],
+      "Social": ["Callous", "Condescending"],
+      "Mental": ["Impatient", "Violent"]
+    },
+    "abilities": [
+      {"name": "Academics", "category": "Mental", "level": 1},
+      {"name": "Assbeating", "category": "Physical", "level": 5},
+      {"name": "Athletics", "category": "Physical", "level": 5},
+      {"name": "Awareness", "category": "Mental", "level": 2},
+      {"name": "Blindfighting", "category": "Physical", "level": 5},
+      {"name": "Brawl", "category": "Physical", "level": 5},
+      {"name": "Chemistry", "category": "Mental", "level": 5},
+      {"name": "Crafts", "category": "Physical", "level": 5},
+      {"name": "Dodge", "category": "Physical", "level": 5},
+      {"name": "Drive", "category": "Physical", "level": 5},
+      {"name": "Electronics", "category": "Mental", "level": 3},
+      {"name": "Engineering", "category": "Mental", "level": 3},
+      {"name": "Firearms", "category": "Physical", "level": 5},
+      {"name": "Intimidation", "category": "Social", "level": 2},
+      {"name": "Investigation", "category": "Mental", "level": 3},
+      {"name": "Leadership", "category": "Social", "level": 2},
+      {"name": "Linguistics", "category": "Mental", "level": 5},
+      {"name": "Lore: Anarch", "category": "Mental", "level": 3},
+      {"name": "Lore: Blood", "category": "Mental", "level": 5},
+      {"name": "Lore: Camarilla", "category": "Mental", "level": 2},
+      {"name": "Lore: Clan: Giovanni", "category": "Mental", "level": 4},
+      {"name": "Lore: Garou", "category": "Mental", "level": 2},
+      {"name": "Lore: Giant", "category": "Mental", "level": 2},
+      {"name": "Lore: Kindred", "category": "Mental", "level": 3},
+      {"name": "Lore: Sabbat", "category": "Mental", "level": 3},
+      {"name": "Lore: Spirit", "category": "Mental", "level": 2},
+      {"name": "Lore: Wraith", "category": "Mental", "level": 5},
+      {"name": "Medicine", "category": "Mental", "level": 1},
+      {"name": "Meditation", "category": "Mental", "level": 2},
+      {"name": "Melee", "category": "Physical", "level": 5},
+      {"name": "Occult", "category": "Mental", "level": 5},
+      {"name": "Repair", "category": "Physical", "level": 3},
+      {"name": "Scrounge", "category": "Social", "level": 5},
+      {"name": "Security", "category": "Mental", "level": 5},
+      {"name": "Sniping", "category": "Physical", "level": 2},
+      {"name": "Streetwise", "category": "Social", "level": 3},
+      {"name": "Subterfuge", "category": "Social", "level": 2},
+      {"name": "Survival", "category": "Physical", "level": 5},
+      {"name": "Torture", "category": "Social", "level": 2}
+    ],
+    "specializations": {
+      "Assbeating": "Off hand",
+      "Brawl": "Streetfighting",
+      "Chemistry": "Compounds",
+      "Crafts": "Gunsmith",
+      "Firearms": "Two Gun Mojo",
+      "Melee": "Katana",
+      "Scrounge": "Connections"
+    },
+    "disciplines": [
+      {
+        "name": "Auspex",
+        "level": 2,
+        "powers": [
+          {"level": 1, "power": "Heightened Senses"},
+          {"level": 2, "power": "Aura Perception"}
+        ]
+      },
+      {
+        "name": "Celerity",
+        "level": 5,
+        "powers": [
+          {"level": 1, "power": "Alacrity"},
+          {"level": 2, "power": "Swiftness"},
+          {"level": 3, "power": "Rapidity"},
+          {"level": 3, "power": "Legerity"},
+          {"level": 4, "power": "Fleetness"}
+        ]
+      },
+      {
+        "name": "Dominate",
+        "level": 3,
+        "powers": [
+          {"level": 1, "power": "Command"},
+          {"level": 2, "power": "Mesmerism"},
+          {"level": 3, "power": "Forgetful Mind"}
+        ]
+      },
+      {
+        "name": "Fortitude",
+        "level": 4,
+        "powers": [
+          {"level": 1, "power": "Endurance"},
+          {"level": 2, "power": "Mettle"},
+          {"level": 3, "power": "Resilience"},
+          {"level": 3, "power": "Resistance"},
+          {"level": 4, "power": "Aegis"}
+        ]
+      },
+      {
+        "name": "Necromancy: Sepulchre Path",
+        "level": 3,
+        "powers": [
+          {"level": 1, "power": "Insight"},
+          {"level": 2, "power": "Summon Soul"},
+          {"level": 3, "power": "Compel Soul"},
+          {"level": 3, "power": "Haunting"}
+        ]
+      },
+      {
+        "name": "Obtenebration",
+        "level": 3,
+        "powers": [
+          {"level": 1, "power": "Shadow Play"},
+          {"level": 2, "power": "Shroud of Night"},
+          {"level": 3, "power": "Arms of the Abyss"},
+          {"level": 3, "power": "Black Metamorphosis"}
+        ]
+      },
+      {
+        "name": "Potence",
+        "level": 5,
+        "powers": [
+          {"level": 1, "power": "Prowess"},
+          {"level": 2, "power": "Might"},
+          {"level": 3, "power": "Vigor"},
+          {"level": 3, "power": "Intensity"},
+          {"level": 4, "power": "Puissance"},
+          {"level": 5, "power": "Force"}
+        ]
+      },
+      {
+        "name": "Presence",
+        "level": 3,
+        "powers": [
+          {"level": 1, "power": "Awe"},
+          {"level": 2, "power": "Dread Gaze"},
+          {"level": 3, "power": "Entrancement"}
+        ]
+      },
+      {
+        "name": "Thaumaturgy: Elemental Mastery",
+        "level": 2,
+        "powers": [
+          {"level": 1, "power": "Elemental Strength"},
+          {"level": 2, "power": "Wooden Tongues"}
+        ]
+      },
+      {
+        "name": "Brujah: Iron Heart",
+        "level": 4,
+        "powers": []
+      },
+      {
+        "name": "Koldunic Sorcery: Way of the Spirit",
+        "level": 1,
+        "powers": []
+      }
+    ],
+    "backgrounds": {
+      "Allies": 5,
+      "Contacts": 5,
+      "Fame": 3,
+      "Family Status": 5,
+      "Mentor": 5,
+      "Resources": 5,
+      "Retainers": 3
+    },
+    "backgroundDetails": {
+      "Mentor": "Tzimice",
+      "Allies": "3pt Ally - Auto customization guy, 5pt Ally - Black Marketeer"
+    },
+    "morality": {
+      "path_name": "Path of Power and the Inner Voice",
+      "path_rating": 3,
+      "conscience": 4,
+      "self_control": 4,
+      "courage": 5,
+      "willpower_permanent": 8,
+      "willpower_current": 8,
+      "humanity": 0
+    },
+    "merits_flaws": [
+      {
+        "name": "Acute Sense (Sight)",
+        "type": "merit",
+        "category": "Physical",
+        "cost": 1,
+        "description": "Enhanced sense of sight"
+      },
+      {
+        "name": "Acute Sense (Hearing)",
+        "type": "merit",
+        "category": "Physical",
+        "cost": 1,
+        "description": "Enhanced sense of hearing"
+      },
+      {
+        "name": "Ambidextrous",
+        "type": "merit",
+        "category": "Physical",
+        "cost": 1,
+        "description": "Can use both hands equally well"
+      },
+      {
+        "name": "Baby Face",
+        "type": "merit",
+        "category": "Social",
+        "cost": 1,
+        "description": "Appears younger and more innocent"
+      },
+      {
+        "name": "Bright Aura",
+        "type": "merit",
+        "category": "Social",
+        "cost": 1,
+        "description": "Positive aura that draws others"
+      },
+      {
+        "name": "Bruiser",
+        "type": "merit",
+        "category": "Physical",
+        "cost": 1,
+        "description": "Naturally intimidating physical presence"
+      },
+      {
+        "name": "Eat Food",
+        "type": "merit",
+        "category": "Physical",
+        "cost": 1,
+        "description": "Can consume and digest food"
+      },
+      {
+        "name": "Inoffensive to Animals",
+        "type": "merit",
+        "category": "Social",
+        "cost": 1,
+        "description": "Animals are not frightened by presence"
+      },
+      {
+        "name": "Light Sleeper",
+        "type": "merit",
+        "category": "Mental",
+        "cost": 2,
+        "description": "Easily awakened, alert even during rest"
+      },
+      {
+        "name": "Jaded",
+        "type": "flaw",
+        "category": "Mental",
+        "cost": -3,
+        "description": "Difficult to shock or impress"
+      },
+      {
+        "name": "Potent Blood",
+        "type": "flaw",
+        "category": "Physical",
+        "cost": -3,
+        "description": "Blood is more potent, harder to control"
+      }
+    ],
+    "status": {
+      "sect_status": "",
+      "clan_status": "",
+      "city_status": "",
+      "health_levels": 11,
+      "blood_pool_current": 15,
+      "blood_pool_maximum": 15,
+      "blood_per_turn": 1,
+      "xp_total": 135,
+      "xp_spent": 127,
+      "xp_available": 8,
+      "notes": ""
+    },
+    "coteries": [],
+    "relationships": [
+      {
+        "related_character_name": "Paulo Giovanni",
+        "relationship_type": "Bond",
+        "relationship_subtype": "Family",
+        "strength": "Strong",
+        "description": "Blood bond strength 3"
+      }
+    ],
+    "rituals": [
+      "Basic: Deflection of Wooden Doom",
+      "Basic: Principal Focus of Vitae Infusion",
+      "Necromancy: Eyes of the Grave",
+      "Necromancy: Hand of Glory",
+      "Necromancy: Bastone Diabolico",
+      "Necromancy: Ritual of the Unearthed Fetter"
+    ],
+    "research_notes": {},
+    "artifacts": [],
+    "custom_data": null,
+    "actingNotes": "",
+    "agentNotes": "",
+    "health_status": "",
+    "morality_path": "Path of Power and the Inner Voice",
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": 0,
+    "user_id": 0,
+    "character_name": "Marianna Giovanni",
+    "player_name": "Nicky Morris",
+    "chronicle": "Valley by Night",
+    "nature": "Architect",
+    "demeanor": "Penitent",
+    "concept": "Giovanni Independent",
+    "clan": "Giovanni",
+    "generation": 8,
+    "sire": "",
+    "pc": 1,
+    "appearance": "",
+    "appearance_detailed": {
+      "short_summary": "",
+      "detailed_description": ""
+    },
+    "biography": "",
+    "notes": "Full name Marianna Elizabeth Ravonna Giovanni. Languages: Italian, Japanese, ASL, English, Russian, Galic, Lip Reading, Egyptian. Book of Phaedo - Socrates. Master crafted pair of firearms forthcoming from Lorenzo. Marble Statue of Santa. 20 blood beads",
+    "equipment": "Ballistic Vest (+0, 2 Armor Levels, Heavy), Bastone Diablico (+2, 2 Lethal, Fragile), Blood Beads- Paris (10), Blood Beads- Paulo (10), Chalice (+0, 0 None, Fragile), Cold Iron Sword (2) (+2, 1 Lethal, Clumsy, Fragile, Heavy), Encyclopedia Magica (+0, 0 N/A, Clumsy, Heavy), Finger bone- Leap into the Shadowlands (Fragile), Giovanni 9mm (2) (+2, 2 Lethal), Katana- Kindred Warded (+3, 3 Lethal (+1 vs Kindred), None), Katana- True (+3, 3 Lethal [ward vs. ghouls]), Katana- True Crafted (+3, 3 Lethal [Demon Warded]), Laptop Computer- Master Crafted (+0, 1 N/A, Clumsy, Fragile x2)",
+    "character_image": "",
+    "status": "active",
+    "camarilla_status": "Independent",
+    "sect": "Independent",
+    "title": "",
+    "epithet": "",
+    "description_tags": [],
+    "timeline": {
+      "birthplace": "",
+      "embrace_period": "",
+      "notable_mortal_past": "",
+      "world_war_two_experience": "",
+      "arrival_in_phoenix": "",
+      "bunker_acquisition": "",
+      "years_in_bunker": ""
+    },
+    "domain_and_haven": {
+      "primary_haven_name": "Giovanni Castle",
+      "primary_haven_type": "Haven",
+      "location_notes": "",
+      "bunker_history": "",
+      "bunker_function": [],
+      "false_public_assumptions": ""
+    },
+    "current_residents": {
+      "nosferatu": [],
+      "ghouls": []
+    },
+    "personality": {
+      "tagline": "",
+      "narrative": ""
+    },
+    "traits": {
+      "Physical": ["Dexterous", "Dexterous", "Ferocious", "Ferocious", "Ferocious", "Ferocious", "Resilient", "Resilient", "Tireless", "Tireless", "Tough", "Tough", "Tough", "Tough"],
+      "Social": ["Alluring", "Alluring", "Alluring", "Charismatic", "Charismatic", "Charismatic", "Friendly", "Gorgeous", "Gorgeous", "Intimidating", "Intimidating", "Intimidating", "Intimidating", "Intimidating"],
+      "Mental": ["Alert", "Alert", "Alert", "Determined", "Determined", "Determined", "Disciplined", "Disciplined", "Disciplined", "Knowledgeable", "Knowledgeable", "Observant", "Observant", "Observant"]
+    },
+    "negativeTraits": {
+      "Physical": [],
+      "Social": ["Condescending", "Naive"],
+      "Mental": ["Submissive"]
+    },
+    "abilities": [
+      {"name": "Academics", "category": "Mental", "level": 3},
+      {"name": "Athletics", "category": "Physical", "level": 2},
+      {"name": "Awareness", "category": "Mental", "level": 2},
+      {"name": "Blindfighting", "category": "Physical", "level": 2},
+      {"name": "Brawl", "category": "Physical", "level": 3},
+      {"name": "Computer", "category": "Mental", "level": 1},
+      {"name": "Dodge", "category": "Physical", "level": 4},
+      {"name": "Drive", "category": "Physical", "level": 1},
+      {"name": "Etiquette", "category": "Social", "level": 2},
+      {"name": "Fire Dancing", "category": "Physical", "level": 1},
+      {"name": "Firearms", "category": "Physical", "level": 2},
+      {"name": "Flight", "category": "Physical", "level": 1},
+      {"name": "Herbalism", "category": "Mental", "level": 1},
+      {"name": "Intimidation", "category": "Social", "level": 2},
+      {"name": "Investigation", "category": "Mental", "level": 3},
+      {"name": "Law", "category": "Mental", "level": 5},
+      {"name": "Leadership", "category": "Social", "level": 2},
+      {"name": "Linguistics", "category": "Mental", "level": 4},
+      {"name": "Lore: Clan: Brujah", "category": "Mental", "level": 1},
+      {"name": "Lore: Clan: Followers of Set", "category": "Mental", "level": 2},
+      {"name": "Lore: Clan: Giovanni", "category": "Mental", "level": 4},
+      {"name": "Lore: Clan: Toreador", "category": "Mental", "level": 1},
+      {"name": "Lore: Clan: Ventrue", "category": "Mental", "level": 2},
+      {"name": "Lore: Demon", "category": "Mental", "level": 1},
+      {"name": "Lore: Faerie", "category": "Mental", "level": 3},
+      {"name": "Lore: Garou", "category": "Mental", "level": 1},
+      {"name": "Lore: Hunter", "category": "Mental", "level": 2},
+      {"name": "Lore: Kindred", "category": "Mental", "level": 3},
+      {"name": "Lore: Mage", "category": "Mental", "level": 1},
+      {"name": "Lore: Paths", "category": "Mental", "level": 2},
+      {"name": "Lore: Paths of Enlightenment", "category": "Mental", "level": 1},
+      {"name": "Lore: Wraith", "category": "Mental", "level": 4},
+      {"name": "Medicine", "category": "Mental", "level": 1},
+      {"name": "Meditation", "category": "Mental", "level": 2},
+      {"name": "Melee", "category": "Physical", "level": 5},
+      {"name": "Occult", "category": "Mental", "level": 5},
+      {"name": "Rituals", "category": "Mental", "level": 1},
+      {"name": "Security", "category": "Mental", "level": 2},
+      {"name": "Sniping", "category": "Physical", "level": 1},
+      {"name": "Subterfuge", "category": "Social", "level": 1},
+      {"name": "Survival", "category": "Physical", "level": 4},
+      {"name": "Thanatology", "category": "Mental", "level": 3}
+    ],
+    "specializations": {
+      "Melee": "two weapon style"
+    },
+    "disciplines": [
+      {
+        "name": "Celerity",
+        "level": 2,
+        "powers": [
+          {"level": 1, "power": "Alacrity"},
+          {"level": 2, "power": "Swiftness"}
+        ]
+      },
+      {
+        "name": "Dominate",
+        "level": 2,
+        "powers": [
+          {"level": 1, "power": "Command"},
+          {"level": 2, "power": "Mesmerism"}
+        ]
+      },
+      {
+        "name": "Fortitude",
+        "level": 2,
+        "powers": [
+          {"level": 1, "power": "Endurance"},
+          {"level": 2, "power": "Mettle"}
+        ]
+      },
+      {
+        "name": "Necromancy: Ash Path",
+        "level": 2,
+        "powers": [
+          {"level": 1, "power": "Shroudsight"},
+          {"level": 2, "power": "Lifeless Tongues"}
+        ]
+      },
+      {
+        "name": "Necromancy: Sepulchre Path",
+        "level": 3,
+        "powers": [
+          {"level": 1, "power": "Insight"},
+          {"level": 2, "power": "Summon Soul"},
+          {"level": 3, "power": "Compel Soul"}
+        ]
+      },
+      {
+        "name": "Potence",
+        "level": 3,
+        "powers": [
+          {"level": 1, "power": "Prowess"},
+          {"level": 2, "power": "Might"},
+          {"level": 3, "power": "Vigor"},
+          {"level": 3, "power": "Intensity"}
+        ]
+      }
+    ],
+    "backgrounds": {
+      "Mentor": 3,
+      "Resources": 5,
+      "Retainers": 1,
+      "Spirit Slaves": 1
+    },
+    "backgroundDetails": {},
+    "morality": {
+      "path_name": "Path of Honorable Accord",
+      "path_rating": 4,
+      "conscience": 3,
+      "self_control": 3,
+      "courage": 4,
+      "willpower_permanent": 11,
+      "willpower_current": 11,
+      "humanity": 0
+    },
+    "merits_flaws": [
+      {
+        "name": "Acute Sense (Sight)",
+        "type": "merit",
+        "category": "Physical",
+        "cost": 1,
+        "description": "Enhanced sense of sight"
+      },
+      {
+        "name": "Baby Face",
+        "type": "merit",
+        "category": "Social",
+        "cost": 1,
+        "description": "Appears younger and more innocent"
+      },
+      {
+        "name": "Deceptive Aura",
+        "type": "merit",
+        "category": "Social",
+        "cost": 1,
+        "description": "Aura appears different than actual nature"
+      },
+      {
+        "name": "Eat Food",
+        "type": "merit",
+        "category": "Physical",
+        "cost": 1,
+        "description": "Can consume and digest food"
+      },
+      {
+        "name": "Faerie Affinity",
+        "type": "merit",
+        "category": "Social",
+        "cost": 2,
+        "description": "Natural connection to faerie creatures"
+      },
+      {
+        "name": "Medium",
+        "type": "merit",
+        "category": "Mental",
+        "cost": 4,
+        "description": "Can communicate with spirits and wraiths"
+      },
+      {
+        "name": "Overconfident",
+        "type": "flaw",
+        "category": "Mental",
+        "cost": -2,
+        "description": "Tends to overestimate abilities"
+      },
+      {
+        "name": "Swept Away",
+        "type": "flaw",
+        "category": "Social",
+        "cost": -2,
+        "description": "Easily influenced by strong personalities"
+      }
+    ],
+    "status": {
+      "sect_status": "",
+      "clan_status": "",
+      "city_status": "",
+      "health_levels": 9,
+      "blood_pool_current": 15,
+      "blood_pool_maximum": 15,
+      "blood_per_turn": 1,
+      "xp_total": 151,
+      "xp_spent": 151,
+      "xp_available": 0,
+      "notes": ""
+    },
+    "coteries": [],
+    "relationships": [
+      {
+        "related_character_name": "Paris Giovanni",
+        "relationship_type": "Bond",
+        "relationship_subtype": "Family",
+        "strength": "Moderate",
+        "description": "Blood bond strength 2"
+      },
+      {
+        "related_character_name": "Paulo Benedicto Giovanni",
+        "relationship_type": "Bond",
+        "relationship_subtype": "Family",
+        "strength": "Strong",
+        "description": "Blood bond strength 3"
+      }
+    ],
+    "rituals": [
+      "Necromancy: Eyes of the Grave",
+      "Necromancy: Approaching the Shroud"
+    ],
+    "research_notes": {},
+    "artifacts": [],
+    "custom_data": null,
+    "actingNotes": "",
+    "agentNotes": "",
+    "health_status": "",
+    "morality_path": "Path of Honorable Accord",
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": 0,
+    "user_id": 0,
+    "character_name": "Paris Giovanni",
+    "player_name": "Andy Knudsen",
+    "chronicle": "Valley by Night",
+    "nature": "Defender",
+    "demeanor": "Guru",
+    "concept": "Giovanni Arch-Necromancer",
+    "clan": "Giovanni",
+    "generation": 8,
+    "sire": "Pain in Snag's Ass",
+    "pc": 1,
+    "appearance": "",
+    "appearance_detailed": {
+      "short_summary": "",
+      "detailed_description": ""
+    },
+    "biography": "",
+    "notes": "Vicissitude done by Randal and Paulo- One health level exchanged for one Resilient Physical Trait on 6/17/03. Languages - Italian, Klingon, Latin, Ancient Babylonian, Gaelic, American Sign Language, Russian, French, Japanese, Mandarin, German, Arabic, Spanish, and Hindi. Code of Honor: Paris must protect (though test) those under his care. Those considered under his care at this time include- Alexi, Adel, Roma, and the Lilith Pack. Alternate Identity- Braiden Teeling Dutiful, Spirited, Bold, Acknowledged and Feared, Victoria's Child. Prince of Loche Maire Scotland. Zaphod's Towel. Owed ward vs Wraiths from Shiva. Anarch Prestige- Connected, Fearless, Hardcore, Loaded, Tested, Veteran, Warrior",
+    "equipment": "Blood Beads- Paris, Finger bone - Scream of the Banshee (+0, 0 None), Finger bone- Leap into the Shadowlands (Fragile), Giovanni PDA (+2, Fragile x2), Giovanni Suit of Doom (+2, 2 Armor Levels), Glasses of True Sight, Necklace of Lilith (+2), Paris Talisman (+2, 2 Lethal), Paris' Great Sword (+6, 4 4 Lethal (+1 vs Kindred and Wraiths), Clumsy, Heavy, Long), Paris' Staff (+2, 2 Lethal), Potion of Beguiling, Whip of Pain (+2, 1 Aggravated)",
+    "character_image": "",
+    "status": "active",
+    "camarilla_status": "Independent",
+    "sect": "Independent",
+    "title": "Giovanni: Arch-Necromancer",
+    "epithet": "",
+    "description_tags": [],
+    "timeline": {
+      "birthplace": "",
+      "embrace_period": "",
+      "notable_mortal_past": "",
+      "world_war_two_experience": "",
+      "arrival_in_phoenix": "",
+      "bunker_acquisition": "",
+      "years_in_bunker": ""
+    },
+    "domain_and_haven": {
+      "primary_haven_name": "Giovanni Castle",
+      "primary_haven_type": "Haven",
+      "location_notes": "",
+      "bunker_history": "",
+      "bunker_function": [],
+      "false_public_assumptions": ""
+    },
+    "current_residents": {
+      "nosferatu": [],
+      "ghouls": []
+    },
+    "personality": {
+      "tagline": "",
+      "narrative": ""
+    },
+    "traits": {
+      "Physical": ["Brutal", "Brutal", "Brutal", "Enduring", "Enduring", "Enduring", "Quick", "Quick", "Quick", "Resilient", "Resilient", "Resilient", "Wiry", "Wiry", "Wiry"],
+      "Social": ["Commanding", "Commanding", "Diplomatic", "Diplomatic", "Gorgeous", "Gorgeous", "Gorgeous", "Ingratiating", "Intimidating", "Persuasive", "Persuasive", "Persuasive", "Seductive", "Seductive"],
+      "Mental": ["Alert", "Clever", "Clever", "Creative", "Cunning", "Cunning", "Determined", "Determined", "Determined", "Disciplined", "Observant", "Wise", "Wise", "Wise"]
+    },
+    "negativeTraits": {
+      "Physical": [],
+      "Social": [],
+      "Mental": []
+    },
+    "abilities": [
+      {"name": "Academics", "category": "Mental", "level": 5},
+      {"name": "Animal Ken", "category": "Social", "level": 4},
+      {"name": "Athletics", "category": "Physical", "level": 4},
+      {"name": "Awareness", "category": "Mental", "level": 5},
+      {"name": "Blind Fighting", "category": "Physical", "level": 5},
+      {"name": "Bodycrafting", "category": "Physical", "level": 3},
+      {"name": "Brawl", "category": "Physical", "level": 5},
+      {"name": "Bureaucracy", "category": "Social", "level": 1},
+      {"name": "Clan Impersonation", "category": "Social", "level": 5},
+      {"name": "Crafts", "category": "Physical", "level": 4},
+      {"name": "Disguise", "category": "Social", "level": 5},
+      {"name": "Dodge", "category": "Physical", "level": 4},
+      {"name": "Empathy", "category": "Social", "level": 3},
+      {"name": "Etiquette", "category": "Social", "level": 3},
+      {"name": "Finance", "category": "Mental", "level": 1},
+      {"name": "Firearms", "category": "Physical", "level": 1},
+      {"name": "Fortune-Telling", "category": "Mental", "level": 1},
+      {"name": "Hobby", "category": "Mental", "level": 1},
+      {"name": "Intimidation", "category": "Social", "level": 5},
+      {"name": "Investigation", "category": "Mental", "level": 5},
+      {"name": "Leadership", "category": "Social", "level": 5},
+      {"name": "Linguistics", "category": "Mental", "level": 5},
+      {"name": "Lore: Anarch", "category": "Mental", "level": 5},
+      {"name": "Lore: Blood", "category": "Mental", "level": 5},
+      {"name": "Lore: Camarilla", "category": "Mental", "level": 2},
+      {"name": "Lore: Changing Breeds", "category": "Mental", "level": 1},
+      {"name": "Lore: Clan", "category": "Mental", "level": 5},
+      {"name": "Lore: Clan: Brujah", "category": "Mental", "level": 3},
+      {"name": "Lore: Clan: Harbingers of Skulls", "category": "Mental", "level": 1},
+      {"name": "Lore: Clan: Setite", "category": "Mental", "level": 1},
+      {"name": "Lore: Clan: Tremere", "category": "Mental", "level": 1},
+      {"name": "Lore: Demon", "category": "Mental", "level": 3},
+      {"name": "Lore: Faerie", "category": "Mental", "level": 2},
+      {"name": "Lore: Garou", "category": "Mental", "level": 2},
+      {"name": "Lore: Giant", "category": "Mental", "level": 2},
+      {"name": "Lore: Hunter", "category": "Mental", "level": 3},
+      {"name": "Lore: Kindred", "category": "Mental", "level": 5},
+      {"name": "Lore: Kuei-Jin", "category": "Mental", "level": 1},
+      {"name": "Lore: Lupine", "category": "Mental", "level": 1},
+      {"name": "Lore: Mage", "category": "Mental", "level": 2},
+      {"name": "Lore: Paths of Enlightenment", "category": "Mental", "level": 3},
+      {"name": "Lore: Sabbat", "category": "Mental", "level": 2},
+      {"name": "Lore: Spirit", "category": "Mental", "level": 1},
+      {"name": "Lore: Umbra", "category": "Mental", "level": 1},
+      {"name": "Lore: Wraith", "category": "Mental", "level": 5},
+      {"name": "Medicine", "category": "Mental", "level": 5},
+      {"name": "Meditation", "category": "Mental", "level": 5},
+      {"name": "Melee", "category": "Physical", "level": 5},
+      {"name": "Occult", "category": "Mental", "level": 5},
+      {"name": "Performance", "category": "Social", "level": 2},
+      {"name": "Repair", "category": "Physical", "level": 1},
+      {"name": "Ride", "category": "Physical", "level": 1},
+      {"name": "Science: Psychology", "category": "Mental", "level": 4},
+      {"name": "Security", "category": "Mental", "level": 4},
+      {"name": "Stealth", "category": "Physical", "level": 2},
+      {"name": "Storytelling", "category": "Social", "level": 5},
+      {"name": "Subterfuge", "category": "Social", "level": 5},
+      {"name": "Survival", "category": "Physical", "level": 5},
+      {"name": "Torture", "category": "Social", "level": 5},
+      {"name": "Vamp", "category": "Social", "level": 1}
+    ],
+    "specializations": {
+      "Athletics": "Figure Skating",
+      "Brawl": "Wrestling",
+      "Clan Impersonation": "Brujah",
+      "Crafts": "Tattoo",
+      "Intimidation": "Forgetful Mind",
+      "Leadership": "Summon",
+      "Lore: Clan": "Giovanni",
+      "Lore: Kindred": "Lilith",
+      "Lore: Wraith": "Spectres",
+      "Melee": "Staff",
+      "Occult": "Necromancy",
+      "Performance": "Illusions",
+      "Storytelling": "Kindred",
+      "Subterfuge": "Truth"
+    },
+    "disciplines": [
+      {
+        "name": "Anarch: King of the Hill",
+        "level": 3,
+        "powers": []
+      },
+      {
+        "name": "Animalism",
+        "level": 3,
+        "powers": [
+          {"level": 1, "power": "Beckoning"},
+          {"level": 2, "power": "Feral Whispers"},
+          {"level": 3, "power": "Quell the Beast"}
+        ]
+      },
+      {
+        "name": "Auspex",
+        "level": 3,
+        "powers": [
+          {"level": 1, "power": "Aura Perception"},
+          {"level": 1, "power": "Heightened Senses"},
+          {"level": 2, "power": "Spirit's Touch"},
+          {"level": 2, "power": "Telepathy"}
+        ]
+      },
+      {
+        "name": "Celerity",
+        "level": 4,
+        "powers": [
+          {"level": 1, "power": "Alacrity"},
+          {"level": 2, "power": "Swiftness"},
+          {"level": 3, "power": "Rapidity"},
+          {"level": 3, "power": "Legerity"},
+          {"level": 4, "power": "Fleetness"}
+        ]
+      },
+      {
+        "name": "Chimerstry",
+        "level": 3,
+        "powers": [
+          {"level": 1, "power": "Fata Morgana"},
+          {"level": 2, "power": "Ignis Fatuus"},
+          {"level": 3, "power": "Apparition"}
+        ]
+      },
+      {
+        "name": "Combination: Give 'Em Hell",
+        "level": 3,
+        "powers": []
+      },
+      {
+        "name": "Dementation",
+        "level": 3,
+        "powers": [
+          {"level": 1, "power": "Passion"},
+          {"level": 2, "power": "The Haunting"},
+          {"level": 3, "power": "Eyes of Chaos"}
+        ]
+      },
+      {
+        "name": "Dominate",
+        "level": 5,
+        "powers": [
+          {"level": 1, "power": "Command"},
+          {"level": 2, "power": "Mesmerism"},
+          {"level": 3, "power": "Forgetful Mind"},
+          {"level": 3, "power": "Conditioning"},
+          {"level": 4, "power": "Possession"},
+          {"level": 5, "power": "Chain the Psyche"}
+        ]
+      },
+      {
+        "name": "Fortitude",
+        "level": 4,
+        "powers": [
+          {"level": 1, "power": "Endurance"},
+          {"level": 2, "power": "Mettle"},
+          {"level": 3, "power": "Resilience"},
+          {"level": 3, "power": "Resistance"},
+          {"level": 4, "power": "Aegis"}
+        ]
+      },
+      {
+        "name": "Melpominee",
+        "level": 1,
+        "powers": [
+          {"level": 1, "power": "The Missing Voice"}
+        ]
+      },
+      {
+        "name": "Necromancy: Ash Path",
+        "level": 4,
+        "powers": [
+          {"level": 1, "power": "Shroudsight"},
+          {"level": 2, "power": "Lifeless Tongues"},
+          {"level": 3, "power": "Dead Hand"},
+          {"level": 3, "power": "Ex Nihilo"},
+          {"level": 4, "power": "Shroud Mastery"}
+        ]
+      },
+      {
+        "name": "Necromancy: Bone Path",
+        "level": 4,
+        "powers": [
+          {"level": 1, "power": "Tremens"},
+          {"level": 2, "power": "Apprentice's Brooms"},
+          {"level": 3, "power": "Shambling Hordes"},
+          {"level": 3, "power": "Soul Stealing"},
+          {"level": 4, "power": "Daemonic Possession"}
+        ]
+      },
+      {
+        "name": "Necromancy: Cenotaph Path",
+        "level": 4,
+        "powers": [
+          {"level": 1, "power": "Revela the Catene"},
+          {"level": 2, "power": "A Touch of Death"},
+          {"level": 3, "power": "Death Knell"},
+          {"level": 3, "power": "Tread Upon the Grave"},
+          {"level": 4, "power": "Ephemeral Binding"}
+        ]
+      },
+      {
+        "name": "Necromancy: Mortuus Path",
+        "level": 3,
+        "powers": [
+          {"level": 1, "power": "Blight"},
+          {"level": 2, "power": "Reaper's Shroud"},
+          {"level": 3, "power": "Resume the Coil"}
+        ]
+      },
+      {
+        "name": "Necromancy: Sepulchre Path",
+        "level": 4,
+        "powers": [
+          {"level": 1, "power": "Insight"},
+          {"level": 2, "power": "Summon Soul"},
+          {"level": 3, "power": "Compel Soul"},
+          {"level": 3, "power": "Haunting"},
+          {"level": 4, "power": "Torment"}
+        ]
+      },
+      {
+        "name": "Necromancy: Vitreous Path",
+        "level": 2,
+        "powers": [
+          {"level": 1, "power": "Eyes of the Dead"},
+          {"level": 2, "power": "Hour of Death"}
+        ]
+      },
+      {
+        "name": "Obfuscate",
+        "level": 3,
+        "powers": [
+          {"level": 1, "power": "Cloak of Shadows"},
+          {"level": 2, "power": "Unseen Presence"},
+          {"level": 3, "power": "Mask of a Thousand Faces"},
+          {"level": 3, "power": "Vanish from the Mind's Eye"}
+        ]
+      },
+      {
+        "name": "Obtenebration",
+        "level": 3,
+        "powers": [
+          {"level": 1, "power": "Shadow Play"},
+          {"level": 2, "power": "Shroud of Night"},
+          {"level": 3, "power": "Arms of the Abyss"},
+          {"level": 3, "power": "Black Metamorphosis"}
+        ]
+      },
+      {
+        "name": "Potence",
+        "level": 5,
+        "powers": [
+          {"level": 1, "power": "Prowess"},
+          {"level": 2, "power": "Might"},
+          {"level": 3, "power": "Vigor"},
+          {"level": 3, "power": "Intensity"},
+          {"level": 4, "power": "Puissance"},
+          {"level": 5, "power": "Force"}
+        ]
+      },
+      {
+        "name": "Presence",
+        "level": 4,
+        "powers": [
+          {"level": 1, "power": "Awe"},
+          {"level": 2, "power": "Dread Gaze"},
+          {"level": 3, "power": "Entrancement"},
+          {"level": 3, "power": "Summon"},
+          {"level": 4, "power": "Majesty"}
+        ]
+      },
+      {
+        "name": "Protean",
+        "level": 3,
+        "powers": [
+          {"level": 1, "power": "Eyes of the Beast"},
+          {"level": 2, "power": "Feral Claws"},
+          {"level": 3, "power": "Earth Meld"}
+        ]
+      },
+      {
+        "name": "Thaumaturgy: Path of Blood",
+        "level": 3,
+        "powers": [
+          {"level": 1, "power": "Blood Rage"},
+          {"level": 2, "power": "Taste for Blood"},
+          {"level": 3, "power": "Blood of Potency"}
+        ]
+      },
+      {
+        "name": "Thaumaturgy: Path of Father's Vengeance",
+        "level": 4,
+        "powers": [
+          {"level": 1, "power": "Zillah's Litany"},
+          {"level": 2, "power": "Crone's Pride"},
+          {"level": 3, "power": "Feast of Ashes"},
+          {"level": 3, "power": "Uriel's Disfavor"},
+          {"level": 4, "power": "Valediction"}
+        ]
+      },
+      {
+        "name": "Thaumaturgy: Spirit Thaumaturgy",
+        "level": 4,
+        "powers": [
+          {"level": 1, "power": "Spirit Eyes"},
+          {"level": 2, "power": "Evil Eye"},
+          {"level": 3, "power": "Journey"},
+          {"level": 4, "power": "Fetishes"}
+        ]
+      },
+      {
+        "name": "Vicissitude",
+        "level": 2,
+        "powers": [
+          {"level": 1, "power": "Malleable Visage"},
+          {"level": 2, "power": "Fleshcraft"}
+        ]
+      }
+    ],
+    "backgrounds": {
+      "Allies": 5,
+      "Alternate Identity": 5,
+      "Contacts": 5,
+      "Fame": 1,
+      "Ghoul": 5,
+      "Haven": 5,
+      "Herd": 5,
+      "Mentor": 4,
+      "Occult Library": 5,
+      "Resources": 5,
+      "Retainers": 13
+    },
+    "backgroundDetails": {
+      "Alternate Identity": "Braiden Teeling - Dutiful, Spirited, Bold, Acknowledged and Feared, Victoria's Child. Prince of Loche Maire Scotland",
+      "Code of Honor": "Paris must protect (though test) those under his care. Those considered under his care at this time include- Alexi, Adel, Roma, and the Lilith Pack"
+    },
+    "morality": {
+      "path_name": "Path of Lilith",
+      "path_rating": 5,
+      "conscience": 5,
+      "self_control": 5,
+      "courage": 5,
+      "willpower_permanent": 12,
+      "willpower_current": 12,
+      "humanity": 0
+    },
+    "merits_flaws": [
+      {
+        "name": "Code of Honor",
+        "type": "merit",
+        "category": "Social",
+        "cost": 2,
+        "description": "Must protect those under his care"
+      },
+      {
+        "name": "Corporate Ties",
+        "type": "merit",
+        "category": "Social",
+        "cost": 3,
+        "description": "Strong corporate connections"
+      },
+      {
+        "name": "Corporation CEO",
+        "type": "merit",
+        "category": "Social",
+        "cost": 5,
+        "description": "CEO of a major corporation"
+      },
+      {
+        "name": "Mansion",
+        "type": "merit",
+        "category": "Social",
+        "cost": 1,
+        "description": "Owns a large mansion"
+      },
+      {
+        "name": "Spirit Mentor",
+        "type": "merit",
+        "category": "Mental",
+        "cost": 3,
+        "description": "Has a spirit mentor"
+      }
+    ],
+    "status": {
+      "sect_status": "",
+      "clan_status": "",
+      "city_status": "",
+      "health_levels": 14,
+      "blood_pool_current": 15,
+      "blood_pool_maximum": 15,
+      "blood_per_turn": 1,
+      "xp_total": 906,
+      "xp_spent": 886,
+      "xp_available": 20,
+      "notes": ""
+    },
+    "coteries": [],
+    "relationships": [],
+    "rituals": [
+      "Basic: Bind the Accusing Tongue",
+      "Basic: Deflection of Wooden Doom",
+      "Basic: Impressive Visage",
+      "Basic: Principal Focus of Vitae Infusion",
+      "Basic: The Scribe",
+      "Intermediate: Pavis of the Foul Presence",
+      "Intermediate: Scry",
+      "Advanced: Enchant Talisman",
+      "Necromancy: Approaching the Shroud",
+      "Necromancy: Call of the Hungry Dead",
+      "Necromancy: Call on the Shadow's Grace",
+      "Necromancy: Calling the Restless Spirit",
+      "Necromancy: Din of the Damned",
+      "Necromancy: Eyes of the Grave",
+      "Necromancy: Grasp the Ghostly",
+      "Necromancy: Hand of Glory",
+      "Necromancy: Haunted House",
+      "Necromancy: Haunting Breeze",
+      "Necromancy: Leap into the Shadowlands",
+      "Necromancy: Minestradi Morte",
+      "Necromancy: Necromantic Sight",
+      "Necromancy: Occhio d'Oumo Morto",
+      "Necromancy: Preserve Corpse",
+      "Necromancy: Puppet",
+      "Necromancy: Ritual of the Unearthed Fetter",
+      "Necromancy: Scream of the Banshee",
+      "Necromancy: Shadow Gate",
+      "Necromancy: Shadowland Passage",
+      "Necromancy: Shroud Portal",
+      "Necromancy: Spirit Beacon",
+      "Necromancy: Spirit Bringer",
+      "Necromancy: Spirit Contract",
+      "Necromancy: Summon Guardian Spirit",
+      "Necromancy: Ward vs Wraith",
+      "Necromancy: Warding the family",
+      "Necromancy: Wraith Punch",
+      "Pisanob Necromancy: Divine Sign",
+      "Sabbat: Auctoritas: Blood Feast",
+      "Sabbat: Auctoritas: Games of Instinct",
+      "Sabbat: Auctoritas: Vaulderie",
+      "Sabbat: Basic: Preserve Blood"
+    ],
+    "research_notes": {},
+    "artifacts": [
+      "Giovanni PDA",
+      "Giovanni Suit of Doom",
+      "Glasses of True Sight",
+      "Necklace of Lilith",
+      "Paris Talisman",
+      "Paris' Great Sword",
+      "Paris' Staff",
+      "Potion of Beguiling",
+      "Whip of Pain"
+    ],
+    "custom_data": null,
+    "actingNotes": "",
+    "agentNotes": "",
+    "health_status": "",
+    "morality_path": "Path of Lilith",
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": 0,
+    "user_id": 0,
+    "character_name": "Paulo Benedicto Giovanni",
+    "player_name": "Mickey",
+    "chronicle": "Valley by Night",
+    "nature": "Survivor",
+    "demeanor": "Conformist",
+    "concept": "Giovanni Director",
+    "clan": "Giovanni",
+    "generation": 8,
+    "sire": "",
+    "pc": 1,
+    "appearance": "",
+    "appearance_detailed": {
+      "short_summary": "",
+      "detailed_description": ""
+    },
+    "biography": "",
+    "notes": "Languages: Italian, Old Norse, Nahuatl, Zapotec, Klingon, Gaelic, Russian, Spanish, Latin, Cantonese, German, Yiddish, Enochian and Greek. Gangrel Secessionist as Mentor (6th Gen), Guiseppe Padovese from Concordia di Sagitaria Italy. Thaumaturgy is from a Tzimisce with Thaumaturgy in clan. Ritual: Chill of Oblivion, cast on Paulo every Wednesday unless otherwise noted. Szlachta Modifications: 4 levels of Torso Armor, Vision Mod, misplaced heart (if damaged, must be repaired with Vicissitude, not healed with blood). Beast Forms: WOLF - Quick, Lithe, Tireless, Attentive, and Alert (+Sharp): Enhanced Sense - Smell \\ Taste. BAT - Alert x2, Attentive, Observant x2 (+Sharp): Enhanced Sense - Vision. Leap into the Shadowlands ritual bones are vicissitused into each of Paulo's index fingers. Pathos: 10. Anarch Status- Well-connected, soldier, warrior",
+    "equipment": "Blood Beads- Paulo, Fetish Ring - Splice Strand, Katana- True (+4, 3 Lethal, Heavy: Potence Proof 3x Craft x5), Paulo's Argos Ring (small), Paulo's Stonehand Punch Ring, Paulo's Usury Ring, Silver Arrows [Quiver of 20]",
+    "character_image": "",
+    "status": "active",
+    "camarilla_status": "Independent",
+    "sect": "Independent",
+    "title": "Director",
+    "epithet": "",
+    "description_tags": [],
+    "timeline": {
+      "birthplace": "",
+      "embrace_period": "",
+      "notable_mortal_past": "",
+      "world_war_two_experience": "",
+      "arrival_in_phoenix": "",
+      "bunker_acquisition": "",
+      "years_in_bunker": ""
+    },
+    "domain_and_haven": {
+      "primary_haven_name": "Giovanni Castle",
+      "primary_haven_type": "Haven",
+      "location_notes": "",
+      "bunker_history": "",
+      "bunker_function": [],
+      "false_public_assumptions": ""
+    },
+    "current_residents": {
+      "nosferatu": [],
+      "ghouls": []
+    },
+    "personality": {
+      "tagline": "",
+      "narrative": ""
+    },
+    "traits": {
+      "Physical": ["Brawny", "Brawny", "Brutal", "Brutal", "Brutal", "Dexterous", "Dexterous", "Ferocious", "Ferocious", "Nimble", "Nimble", "Resilient", "Resilient", "Resilient"],
+      "Social": ["Commanding", "Commanding", "Commanding", "Dignified", "Dignified", "Diplomatic", "Intimidating", "Intimidating", "Intimidating", "Intimidating", "Persuasive", "Persuasive", "Witty", "Witty"],
+      "Mental": ["Alert", "Alert", "Attentive", "Attentive", "Dedicated", "Dedicated", "Determined", "Determined", "Insightful", "Insightful", "Rational", "Rational", "Vigilant", "Vigilant"]
+    },
+    "negativeTraits": {
+      "Physical": [],
+      "Social": [],
+      "Mental": []
+    },
+    "abilities": [
+      {"name": "Animal Ken", "category": "Social", "level": 3},
+      {"name": "Assbeating", "category": "Physical", "level": 5},
+      {"name": "Athletics", "category": "Physical", "level": 4},
+      {"name": "Awareness", "category": "Mental", "level": 5},
+      {"name": "Blindfighting", "category": "Physical", "level": 5},
+      {"name": "Brawl", "category": "Physical", "level": 5},
+      {"name": "Computer", "category": "Mental", "level": 2},
+      {"name": "Crafts", "category": "Physical", "level": 5},
+      {"name": "Dodge", "category": "Physical", "level": 5},
+      {"name": "Drive", "category": "Physical", "level": 2},
+      {"name": "Empathy", "category": "Social", "level": 1},
+      {"name": "Firearms", "category": "Physical", "level": 3},
+      {"name": "Flight", "category": "Physical", "level": 3},
+      {"name": "Hobby", "category": "Mental", "level": 5},
+      {"name": "Intimidation", "category": "Social", "level": 5},
+      {"name": "Investigation", "category": "Mental", "level": 3},
+      {"name": "Larceny", "category": "Physical", "level": 2},
+      {"name": "Leadership", "category": "Social", "level": 3},
+      {"name": "Linguistics", "category": "Mental", "level": 5},
+      {"name": "Lore: Anarch", "category": "Mental", "level": 2},
+      {"name": "Lore: Blood", "category": "Mental", "level": 2},
+      {"name": "Lore: Camarilla", "category": "Mental", "level": 2},
+      {"name": "Lore: Clan: Giovanni", "category": "Mental", "level": 5},
+      {"name": "Lore: Faerie", "category": "Mental", "level": 2},
+      {"name": "Lore: Kuei-Jin", "category": "Mental", "level": 2},
+      {"name": "Lore: Lupine", "category": "Mental", "level": 4},
+      {"name": "Lore: Mage", "category": "Mental", "level": 3},
+      {"name": "Lore: Sabbat", "category": "Mental", "level": 3},
+      {"name": "Lore: The Infernal", "category": "Mental", "level": 4},
+      {"name": "Lore: Wraith", "category": "Mental", "level": 5},
+      {"name": "Medicine", "category": "Mental", "level": 3},
+      {"name": "Meditation", "category": "Mental", "level": 3},
+      {"name": "Melee", "category": "Physical", "level": 5},
+      {"name": "Occult", "category": "Mental", "level": 5},
+      {"name": "Psychology", "category": "Mental", "level": 2},
+      {"name": "Ride", "category": "Physical", "level": 1},
+      {"name": "Security", "category": "Mental", "level": 2},
+      {"name": "Snake Charming", "category": "Social", "level": 1},
+      {"name": "Stealth", "category": "Physical", "level": 4},
+      {"name": "Subterfuge", "category": "Social", "level": 2},
+      {"name": "Survival", "category": "Physical", "level": 5},
+      {"name": "Thanatology", "category": "Mental", "level": 5}
+    ],
+    "specializations": {
+      "Assbeating": "Speciality: Off-Hand Schoolin'",
+      "Brawl": "Speciality: Claws and Fangs",
+      "Crafts": "Bodycrafts",
+      "Hobby": "Gardening"
+    },
+    "disciplines": [
+      {
+        "name": "Animalism",
+        "level": 3,
+        "powers": [
+          {"level": 1, "power": "Beckoning"},
+          {"level": 2, "power": "Feral Whispers"},
+          {"level": 3, "power": "Quell the Beast"},
+          {"level": 3, "power": "Subsume the Spirit"}
+        ]
+      },
+      {
+        "name": "Argos",
+        "level": 1,
+        "powers": [
+          {"level": 1, "power": "Enshroud"},
+          {"level": 1, "power": "Phantom Wings"},
+          {"level": 1, "power": "Flicker"}
+        ]
+      },
+      {
+        "name": "Archons and Templars: Flesh of Wind and Water",
+        "level": 1,
+        "powers": []
+      },
+      {
+        "name": "Auspex",
+        "level": 4,
+        "powers": [
+          {"level": 1, "power": "Heightened Senses"},
+          {"level": 2, "power": "Aura Perception"},
+          {"level": 3, "power": "Spirit's Touch"},
+          {"level": 3, "power": "Telepathy"},
+          {"level": 4, "power": "Psychic Projection"}
+        ]
+      },
+      {
+        "name": "Celerity",
+        "level": 4,
+        "powers": [
+          {"level": 1, "power": "Alacrity"},
+          {"level": 2, "power": "Swiftness"},
+          {"level": 3, "power": "Legerity"},
+          {"level": 3, "power": "Rapidity"},
+          {"level": 4, "power": "Fleetness"}
+        ]
+      },
+      {
+        "name": "Dominate",
+        "level": 5,
+        "powers": [
+          {"level": 1, "power": "Command"},
+          {"level": 2, "power": "Mesmerism"},
+          {"level": 3, "power": "Forgetful Mind"},
+          {"level": 3, "power": "Conditioning"},
+          {"level": 4, "power": "Possession"},
+          {"level": 5, "power": "Obedience"}
+        ]
+      },
+      {
+        "name": "Einherjar: Fenrir's Talons",
+        "level": 3,
+        "powers": []
+      },
+      {
+        "name": "Fortitude",
+        "level": 4,
+        "powers": [
+          {"level": 1, "power": "Endurance"},
+          {"level": 2, "power": "Mettle"},
+          {"level": 3, "power": "Resilience"},
+          {"level": 3, "power": "Resistance"},
+          {"level": 4, "power": "Aegis"}
+        ]
+      },
+      {
+        "name": "Inhabit: Gremlinize",
+        "level": 1,
+        "powers": []
+      },
+      {
+        "name": "Melpominee",
+        "level": 2,
+        "powers": [
+          {"level": 1, "power": "Phantom Speaker"},
+          {"level": 2, "power": "The Missing Voice"}
+        ]
+      },
+      {
+        "name": "Necromancy: Ash Path",
+        "level": 4,
+        "powers": [
+          {"level": 1, "power": "Lifeless Tongues"},
+          {"level": 1, "power": "Shroudsight"},
+          {"level": 3, "power": "Dead Hand"},
+          {"level": 3, "power": "Ex Nihilo"},
+          {"level": 4, "power": "Shroud Mastery"}
+        ]
+      },
+      {
+        "name": "Necromancy: Bone Path",
+        "level": 4,
+        "powers": [
+          {"level": 1, "power": "Tremens"},
+          {"level": 2, "power": "Apprentice's Brooms"},
+          {"level": 3, "power": "Shambling Hordes"},
+          {"level": 3, "power": "Soul Stealing"},
+          {"level": 4, "power": "Daemonic Possession"}
+        ]
+      },
+      {
+        "name": "Necromancy: Countermagic",
+        "level": 5,
+        "powers": []
+      },
+      {
+        "name": "Necromancy: Mortuus Path",
+        "level": 4,
+        "powers": [
+          {"level": 1, "power": "Blight"},
+          {"level": 2, "power": "Reaper's Shroud"},
+          {"level": 3, "power": "Resume the Coil"},
+          {"level": 3, "power": "True Death"},
+          {"level": 4, "power": "Mercy for Seth"}
+        ]
+      },
+      {
+        "name": "Necromancy: Sepulchre Path",
+        "level": 4,
+        "powers": [
+          {"level": 1, "power": "Insight"},
+          {"level": 2, "power": "Summon Soul"},
+          {"level": 3, "power": "Compel Soul"},
+          {"level": 3, "power": "Haunting"},
+          {"level": 4, "power": "Torment"}
+        ]
+      },
+      {
+        "name": "Necromancy: Vitreous Path",
+        "level": 4,
+        "powers": [
+          {"level": 1, "power": "Eyes of the Dead"},
+          {"level": 2, "power": "Hour of Death"},
+          {"level": 3, "power": "Breath of Thanatos"},
+          {"level": 3, "power": "Soul Judgment"},
+          {"level": 4, "power": "Soul Feasting"}
+        ]
+      },
+      {
+        "name": "Obfuscate",
+        "level": 3,
+        "powers": [
+          {"level": 1, "power": "Cloak of Shadows"},
+          {"level": 2, "power": "Unseen Presence"},
+          {"level": 3, "power": "Mask of a Thousand Faces"}
+        ]
+      },
+      {
+        "name": "Obtenebration",
+        "level": 3,
+        "powers": [
+          {"level": 1, "power": "Shadow Play"},
+          {"level": 2, "power": "Shroud of Night"},
+          {"level": 3, "power": "Arms of the Abyss"}
+        ]
+      },
+      {
+        "name": "Potence",
+        "level": 5,
+        "powers": [
+          {"level": 1, "power": "Prowess"},
+          {"level": 2, "power": "Might"},
+          {"level": 3, "power": "Vigor"},
+          {"level": 3, "power": "Intensity"},
+          {"level": 4, "power": "Puissance"},
+          {"level": 5, "power": "Force"},
+          {"level": 5, "power": "Imprint"}
+        ]
+      },
+      {
+        "name": "Presence",
+        "level": 3,
+        "powers": [
+          {"level": 1, "power": "Awe"},
+          {"level": 2, "power": "Dread Gaze"},
+          {"level": 3, "power": "Entrancement"},
+          {"level": 3, "power": "Summon"}
+        ]
+      },
+      {
+        "name": "Protean",
+        "level": 4,
+        "powers": [
+          {"level": 1, "power": "Eyes of the Beast"},
+          {"level": 2, "power": "Feral Claws"},
+          {"level": 3, "power": "Shape of the Beast"},
+          {"level": 3, "power": "Earth Meld"},
+          {"level": 4, "power": "Mist Form"}
+        ]
+      },
+      {
+        "name": "Quietus",
+        "level": 1,
+        "powers": [
+          {"level": 1, "power": "Silence of Death"}
+        ]
+      },
+      {
+        "name": "Thaumaturgy: Elemental Mastery",
+        "level": 4,
+        "powers": [
+          {"level": 1, "power": "Elemental Strength"},
+          {"level": 2, "power": "Wooden Tongues"},
+          {"level": 3, "power": "Animate the Unmoving"},
+          {"level": 3, "power": "Elemental Form"},
+          {"level": 4, "power": "Summon Elemental"}
+        ]
+      },
+      {
+        "name": "Thaumaturgy: Movement of the Mind",
+        "level": 3,
+        "powers": [
+          {"level": 1, "power": "Manipulate"},
+          {"level": 2, "power": "Force Bolt"},
+          {"level": 3, "power": "Flight"}
+        ]
+      },
+      {
+        "name": "Thaumaturgy: Path of Blood",
+        "level": 4,
+        "powers": [
+          {"level": 1, "power": "Blood Rage"},
+          {"level": 2, "power": "Taste for Blood"},
+          {"level": 3, "power": "Blood of Potency"},
+          {"level": 3, "power": "Theft of Vitae"},
+          {"level": 4, "power": "Cauldron of Blood"}
+        ]
+      },
+      {
+        "name": "Thaumaturgy: Spirit Thaumaturgy",
+        "level": 4,
+        "powers": [
+          {"level": 1, "power": "Spirit Eyes"},
+          {"level": 2, "power": "Evil Eye"},
+          {"level": 3, "power": "Journey"},
+          {"level": 3, "power": "Spirit Slave"},
+          {"level": 4, "power": "Fetishes"}
+        ]
+      },
+      {
+        "name": "Vicissitude",
+        "level": 3,
+        "powers": [
+          {"level": 1, "power": "Malleable Visage"},
+          {"level": 2, "power": "Fleshcraft"},
+          {"level": 3, "power": "Bonecraft"},
+          {"level": 3, "power": "Horrid Form"}
+        ]
+      }
+    ],
+    "backgrounds": {
+      "Contacts": 2,
+      "Garou Contacts": 3,
+      "Mentor": 5
+    },
+    "backgroundDetails": {
+      "Mentor": "Gangrel Secessionist (6th Gen), Guiseppe Padovese from Concordia di Sagitaria Italy",
+      "Thaumaturgy Source": "Tzimisce with Thaumaturgy in clan"
+    },
+    "morality": {
+      "path_name": "Humanity",
+      "path_rating": 3,
+      "conscience": 5,
+      "self_control": 5,
+      "courage": 5,
+      "willpower_permanent": 12,
+      "willpower_current": 12,
+      "humanity": 3
+    },
+    "merits_flaws": [
+      {
+        "name": "Baby Face",
+        "type": "merit",
+        "category": "Social",
+        "cost": 1,
+        "description": "Appears younger and more innocent"
+      },
+      {
+        "name": "Deceptive Aura",
+        "type": "merit",
+        "category": "Social",
+        "cost": 3,
+        "description": "Aura appears different than actual nature"
+      },
+      {
+        "name": "Eat Food",
+        "type": "merit",
+        "category": "Physical",
+        "cost": 1,
+        "description": "Can consume and digest food"
+      },
+      {
+        "name": "Inoffensive to Animals",
+        "type": "merit",
+        "category": "Social",
+        "cost": 1,
+        "description": "Animals are not frightened by presence"
+      },
+      {
+        "name": "Iron Will",
+        "type": "merit",
+        "category": "Mental",
+        "cost": 5,
+        "description": "Exceptional mental fortitude"
+      },
+      {
+        "name": "Light Sleeper",
+        "type": "merit",
+        "category": "Mental",
+        "cost": 3,
+        "description": "Easily awakened, alert even during rest"
+      },
+      {
+        "name": "Diabolic Sire",
+        "type": "flaw",
+        "category": "Social",
+        "cost": -2,
+        "description": "Sire was diabolist"
+      },
+      {
+        "name": "Driving Goal",
+        "type": "flaw",
+        "category": "Mental",
+        "cost": -3,
+        "description": "Obsessed with achieving a specific goal"
+      },
+      {
+        "name": "Prey Exclusion",
+        "type": "flaw",
+        "category": "Physical",
+        "cost": -1,
+        "description": "Cannot feed from certain types"
+      }
+    ],
+    "status": {
+      "sect_status": "",
+      "clan_status": "Gangrel (3)",
+      "city_status": "",
+      "health_levels": 14,
+      "blood_pool_current": 15,
+      "blood_pool_maximum": 15,
+      "blood_per_turn": 1,
+      "xp_total": 284,
+      "xp_spent": 272,
+      "xp_available": 12,
+      "notes": ""
+    },
+    "coteries": [],
+    "relationships": [],
+    "rituals": [
+      "Basic: Blood Walk",
+      "Basic: Impressive Visage",
+      "Basic: Principal Focus of Vitae Infusion",
+      "Intermediate: Incorporeal Passage",
+      "Intermediate: Scry",
+      "Intermediate: Ward versus Kindred",
+      "Advanced: Stone of the True Form",
+      "Advanced: Lionheart",
+      "Sabbat: Intermediate: Firewalker",
+      "Necromancy: Eyes of the Grave",
+      "Necromancy: Minestradi Morte",
+      "Necromancy: Ritual of the Unearthed Fetter",
+      "Necromancy: Chill of Oblivion",
+      "Necromancy: Shadowgate",
+      "Necromancy: Orpheus' Descent"
+    ],
+    "research_notes": {},
+    "artifacts": [
+      "Fetish Ring - Splice Strand",
+      "Katana- True",
+      "Paulo's Argos Ring",
+      "Paulo's Stonehand Punch Ring",
+      "Paulo's Usury Ring"
+    ],
+    "custom_data": null,
+    "actingNotes": "",
+    "agentNotes": "",
+    "health_status": "",
+    "morality_path": "Humanity",
+    "created_at": "",
+    "updated_at": ""
+  }
+]

@@ -1,0 +1,89 @@
+{
+    "clan": "Toreador",
+    "city": "Phoenix",
+    "year": 1994,
+    "npcs": [
+        {
+            "name": "Isabella 'The Harpy' Valdez",
+            "role": "Senior Harpy, Elysium arbiter",
+            "alignment": "Camarilla traditionalist",
+            "territory": "Downtown Phoenix Elysium, exclusive Scottsdale salons",
+            "reputation": "The most influential Harpy in Phoenix. Her judgments shape social standing. Respected by old money Toreador, feared by everyone who values their reputation. Known for absolute standards and unforgiving rulings. After the Prince's death, her power has grown—she effectively controls Elysium access.",
+            "story_function": "Primary point of contact for Elysium access and reputation management. PCs will need her approval to participate in high-society Kindred events. Can elevate or destroy reputations. Her judgments create immediate consequences for PC actions."
+        },
+        {
+            "name": "Marcus 'The Curator' Chen",
+            "role": "Gallery owner, cultural tastemaker",
+            "alignment": "Camarilla (new money progressive)",
+            "territory": "Scottsdale art district, Central Phoenix galleries",
+            "reputation": "Revolutionary gallery owner who challenges traditional Toreador aesthetics. Supports modern art, street art, and boundary-pushing artists. Respected by new money Toreador, viewed with suspicion by traditionalists. His gallery openings are political events where cultural statements become power moves.",
+            "story_function": "Provides access to cultural events and artistic circles. Can introduce PCs to influential artists (Kindred and mortal). His gallery serves as neutral ground where different factions meet. PCs might need to navigate his progressive politics while managing relationships with traditional Toreador."
+        },
+        {
+            "name": "Elena 'The Scandal' Moretti",
+            "role": "Salon host, information broker, social manipulator",
+            "alignment": "Camarilla (pragmatic, self-serving)",
+            "territory": "Exclusive private residences across Phoenix, mobile",
+            "reputation": "Master of scandal and reputation management. Her salons are where real politics happen, but she uses information gathered there to build personal power. Known for accumulating secrets and using them strategically. Respected for her social acumen, feared for her knowledge of everyone's vulnerabilities.",
+            "story_function": "Provides access to exclusive salons and high-society gatherings. Can broker deals between factions. Knows everyone's secrets—useful ally but dangerous enemy. PCs might need her help navigating social politics, but must be careful not to become targets of her information gathering."
+        },
+        {
+            "name": "Dante 'The Bridge' Alighieri",
+            "role": "Nightclub owner, Anarch-Camarilla mediator",
+            "alignment": "Independent (Anarch-sympathetic, Camarilla-connected)",
+            "territory": "Central Phoenix nightclub, Tempe entertainment district",
+            "reputation": "Rare Toreador who maintains connections to both Camarilla and Anarch culture. His nightclub serves as neutral ground where different factions can meet. Respected by those who value bridge-building, viewed with suspicion by purists on both sides. After the Prince's death, his role as mediator has become more important and more dangerous.",
+            "story_function": "Provides neutral ground for faction meetings. Can facilitate introductions between Camarilla and Anarch-aligned Kindred. Represents possibility of Toreador independence from strict Camarilla alignment. PCs might need his nightclub as safe space for cross-faction negotiations."
+        },
+        {
+            "name": "Vivian 'The Exile' St. James",
+            "role": "Former Harpy, social outcast, information trader",
+            "alignment": "Independent (former Camarilla, now blacklisted)",
+            "territory": "Hidden locations, various safehouses",
+            "reputation": "Cautionary tale. Formerly influential Harpy who committed unforgivable social transgression (details vary—some say she exposed Toreador secrets, others say she challenged Isabella Valdez's authority). Now blacklisted from Elysium, excluded from salons, and socially dead. Survives by trading information to anyone who'll pay. Hated by current Harpies, useful to those who need information without social strings.",
+            "story_function": "Provides information about Toreador secrets and social dynamics, but associating with her damages PC reputation. Represents consequences of social exile. Her knowledge of Toreador vulnerabilities makes her valuable but dangerous. PCs must balance her usefulness against the social cost of association."
+        },
+        {
+            "name": "Lucien 'The Patron' Dubois",
+            "role": "Art patron, financial backer, hidden power broker",
+            "alignment": "Camarilla (old money traditionalist)",
+            "territory": "Scottsdale estates, exclusive private clubs",
+            "reputation": "Old money Toreador who uses art patronage to build political influence. Funds galleries, supports artists, and creates opportunities for others—but always with strings attached. His generosity is transactional. Respected for his resources and connections, feared for his expectations. After the Prince's death, he's positioned himself as financial backer for various political factions.",
+            "story_function": "Provides financial resources and connections to wealthy mortal and Kindred circles. Can fund PC projects or operations, but requires favors in return. Represents old money Toreador power. His patronage comes with obligations that PCs must navigate carefully."
+        },
+        {
+            "name": "Seraphina 'The Flame' Torres",
+            "role": "Performance artist, Elysium entertainer, scandal magnet",
+            "alignment": "Camarilla (borderline, constantly testing boundaries)",
+            "territory": "Various performance venues, Elysium (when invited)",
+            "reputation": "Brilliant but controversial performance artist who constantly pushes boundaries. Her performances are legendary but often cause scandal. Loved by those who value artistic freedom, hated by those who value social stability. Her relationship with Harpies is constantly tense—she's talented enough to be included, controversial enough to be excluded. After the Prince's death, she's become more provocative, testing the limits of Toreador tolerance.",
+            "story_function": "Provides access to artistic circles and performance events. Can create social disruption through provocative art. Represents tension between artistic freedom and social conformity. PCs might need her talents for events or operations, but must manage the scandal she inevitably creates."
+        },
+        {
+            "name": "Theodore 'The Gatekeeper' Whitlock",
+            "role": "Elysium doorman, social enforcer, Harpy assistant",
+            "alignment": "Camarilla (absolute loyalty to Harpy authority)",
+            "territory": "Downtown Phoenix Elysium",
+            "reputation": "Formerly influential Toreador who lost standing and now serves as Isabella Valdez's assistant and Elysium gatekeeper. Enforces Harpy judgments with absolute loyalty. Respected for his dedication, pitied for his fall from grace, feared for his knowledge of social standing. He knows who's excluded, who's included, and why. His position gives him power despite his low status.",
+            "story_function": "Controls physical access to Elysium. Knows all Harpy judgments and social standings. Can provide information about who's in favor and who's not. Represents the practical enforcement of Toreador social power. PCs will interact with him regularly when accessing Elysium, and his knowledge of social dynamics makes him valuable informant."
+        },
+        {
+            "name": "Cassandra 'The Collector' Blackwood",
+            "role": "Art collector, cultural historian, information archivist",
+            "alignment": "Camarilla (scholarly, apolitical)",
+            "territory": "Private estate with extensive art collection, various research locations",
+            "reputation": "Eccentric Toreador who collects art, information, and cultural artifacts with obsessive dedication. Less interested in social games than in preservation and documentation. Respected for her knowledge, tolerated for her contributions to Toreador cultural identity, largely ignored by political players. Her collection includes artworks, documents, and secrets that others have forgotten.",
+            "story_function": "Provides historical context, cultural knowledge, and access to rare information or artifacts. Can explain Toreador traditions, social dynamics, and clan history. Her collection might contain useful information about past conflicts, hidden alliances, or forgotten scandals. Represents Toreador intellectual and cultural preservation functions."
+        },
+        {
+            "name": "Rafael 'The Diplomat' Martinez",
+            "role": "Social mediator, alliance broker, reputation repair specialist",
+            "alignment": "Camarilla (pragmatic peacemaker)",
+            "territory": "Various, travels between different social circles",
+            "reputation": "Rare Toreador who specializes in repairing damaged reputations and brokering social peace. When conflicts threaten to escalate, he's called in to mediate. Respected for his diplomatic skills, valued for his ability to find solutions that preserve everyone's face, occasionally resented for preventing necessary confrontations. After the Prince's death, his services are in high demand.",
+            "story_function": "Can help PCs repair damaged reputations, mediate conflicts, or broker alliances. Represents possibility of Toreador diplomacy and conflict resolution. His services are valuable but expensive—he requires favors, information, or social standing in return. PCs might need his help navigating complex social situations or recovering from social mistakes."
+        }
+    ],
+    "notes": "These NPCs represent the diversity of Phoenix Toreador: Harpies and exiles, traditionalists and progressives, social manipulators and cultural preservers. They can serve as allies, enemies, gatekeepers, or obstacles depending on PC choices and story needs. Each represents different aspects of Toreador identity—social power, cultural curation, reputation management, artistic expression—and creates different story possibilities. All operate within the context of post-Prince Phoenix, where Toreador influence has grown but their responsibilities and vulnerabilities have also increased."
+}
+

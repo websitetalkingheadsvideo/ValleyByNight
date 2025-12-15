@@ -1,0 +1,64 @@
+{
+  "clan": "Gangrel",
+  "city": "Phoenix",
+  "year": 1994,
+  "npcs": [
+    {
+      "name": "Dorikhan Caine",
+      "role": "Desert tracker with old Autark leanings",
+      "alignment": "Independent-aligned survivalist",
+      "territory": "Gravel service roads skirting the Salt River dry beds",
+      "reputation": "Keeps uneasy truces with Garou, leaves cairn-warnings mortals miss",
+      "story_function": "Broker for passage through Garou-shadowed stretches; tests whether PCs honor taboos"
+    },
+    {
+      "name": "Jebadiah Walker",
+      "role": "Long-haul driver and nocturnal courier",
+      "alignment": "Independent, sells routes to any who pay",
+      "territory": "I-10 fuel stops and motel lots west of Phoenix",
+      "reputation": "Drives through dust storms on instinct; never breaks a contracted delivery window",
+      "story_function": "Offers transport with tight conditions; can disappear mid-run if trust is broken"
+    },
+    {
+      "name": "Joanna",
+      "role": "Newly Embraced lookout placed on canal bridges",
+      "alignment": "Uncommitted, listening to every faction",
+      "territory": "Canal overpasses near Sky Harbor’s eastern edge",
+      "reputation": "Silent observer with a radio and a flashlight code; knows which nights the sand hums",
+      "story_function": "Early-warning asset who must choose between selling intel or proving loyalty"
+    },
+    {
+      "name": "Randall Mckab",
+      "role": "Border warden enforcing no-go zones",
+      "alignment": "Independent with grudging respect for Camarilla praxis",
+      "territory": "Black Canyon Highway frontage roads and arroyo crossings",
+      "reputation": "Laughs off threats, enforces lines with sudden violence after long patience",
+      "story_function": "Stops trespassers at posted cairns; demands reparations when lines are crossed"
+    },
+    {
+      "name": "Tony the Prince's Bodyguard",
+      "role": "Former scourge turned escort-for-hire",
+      "alignment": "Independent but honors old Prince-era markers",
+      "territory": "City-side checkpoints along the Loop where the lights thin",
+      "reputation": "Disciplined, radio-connected, still runs extraction drills after the Prince’s murder",
+      "story_function": "Offers disciplined escort or blocks pursuit; tests whether PCs respect old accords"
+    },
+    {
+      "name": "Marta \"Switchback\" Ortiz",
+      "role": "Desert scout who maps safe pull-offs and dry washes",
+      "alignment": "Leans Anarch but obeys survival rules first",
+      "territory": "Service tracks north of Mesa and isolated rest areas",
+      "reputation": "Marks safe gravel lots with oil stains; vanishes when mortals linger",
+      "story_function": "Guides or strands travelers based on payment and respect for her markers"
+    },
+    {
+      "name": "Lewis \"Canal Rat\" Merrow",
+      "role": "Canal runner who ferries messages by small boat at night",
+      "alignment": "Quiet Camarilla sympathizer for steady pay",
+      "territory": "Irrigation canals threading industrial parks",
+      "reputation": "Moves unseen where asphalt ends; hates gunfire near water",
+      "story_function": "Delivers covert packages; drags PCs into disputes when canals become contested routes"
+    }
+  ]
+}
+
