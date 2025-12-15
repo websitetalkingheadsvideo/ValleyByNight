@@ -1,7 +1,9 @@
 # Assamites – Tone Bible
 Derived from *Revised – Clanbook Assamite* (post-schism interpretation)
 
-> **Note for VbN:** In this chronicle, “Assamites” are treated as the pre-Banu Haqim name in common Camarilla/Kindred usage, but internally they recognize the distinct castes of **Warriors**, **Sorcerers**, and **Viziers**.
+> **📋 Reference Implementation:** This tone bible serves as the reference implementation and structural template for all clan tone bibles in the VbN canon. When creating or updating other clan tone bibles, use this file's structure, section organization, and formatting as the standard.
+
+> **Note for VbN:** In this chronicle, "Assamites" are treated as the pre-Banu Haqim name in common Camarilla/Kindred usage, but internally they recognize the distinct castes of **Warriors**, **Sorcerers**, and **Viziers**.
 
 ---
 
