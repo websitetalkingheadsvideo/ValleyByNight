@@ -1,0 +1,72 @@
+{
+  "clan": "Followers of Set",
+  "city": "Phoenix",
+  "year": 1994,
+  "hooks": [
+    {
+      "hook_title": "Balcony Confessional",
+      "trigger": "A Camarilla Harpy is seen slipping into a velvet-draped box during a Setite sermon.",
+      "involved_factions": ["Followers of Set", "Camarilla", "Nosferatu"],
+      "initial_situation": "Sister Nephthys offers absolution; Nosferatu hint they have audio.",
+      "escalation_path": "Setites trade the recording to sway Elysium votes; PCs must intercept or redirect the blackmail.",
+      "if_ignored": "Harpy debts reshape court politics; Setites gain unofficial veto power on scandals."
+    },
+    {
+      "hook_title": "Vice as Vigil",
+      "trigger": "Officer Delaney swaps seized drugs for invitations to the theater.",
+      "involved_factions": ["Followers of Set", "Camarilla", "Mortal Police"],
+      "initial_situation": "Evidence goes missing; Delaney begs PCs to cover her tracks in exchange for files on the Prince’s death.",
+      "escalation_path": "Setites push her deeper, demanding protection when Internal Affairs closes in.",
+      "if_ignored": "IA bust exposes Setite ties, prompting a Camarilla crackdown that drives the cult further underground."
+    },
+    {
+      "hook_title": "Anarch Hymnal",
+      "trigger": "Cassette tapes of ‘liberation homilies’ circulate among Anarch crews.",
+      "involved_factions": ["Followers of Set", "Anarchs", "Brujah"],
+      "initial_situation": "Brujah start quoting Setite doctrine; tempers cool in favor of indulgent ‘study nights’.",
+      "escalation_path": "Anarch action stalls; Setites offer ‘focus rites’ that hook key lieutenants on tailored vices.",
+      "if_ignored": "Anarch cells fracture between zeal for action and hunger for the next sermon, stalling rebellion."
+    },
+    {
+      "hook_title": "Art as Heresy",
+      "trigger": "Vesper Quinn debuts an immersive show that recasts Set as the liberator of Phoenix.",
+      "involved_factions": ["Followers of Set", "Toreador", "Camarilla"],
+      "initial_situation": "Toreador patrons protest publicly while buying out the next showing.",
+      "escalation_path": "Setites insert hidden scripture into the exhibit; PCs must edit, sabotage, or defend the piece.",
+      "if_ignored": "The show becomes a cult recruitment funnel, shifting Toreador sympathies toward Setite rhetoric."
+    },
+    {
+      "hook_title": "Pilgrim’s Collapse",
+      "trigger": "Eli Novak overdoses during a ‘liberation rite’ and is hidden in a back room.",
+      "involved_factions": ["Followers of Set", "Camarilla", "Mortal Authorities"],
+      "initial_situation": "The cult asks PCs to relocate him before mortal EMTs arrive.",
+      "escalation_path": "If saved, Eli spreads zeal; if exposed, police scrutiny threatens the theater.",
+      "if_ignored": "Body discovery links the club to mortal deaths, forcing a violent Camarilla raid."
+    },
+    {
+      "hook_title": "Giovanni Ledger",
+      "trigger": "A Giovanni broker claims Setites are poaching debtors from their mortuary side-business.",
+      "involved_factions": ["Followers of Set", "Giovanni", "Nosferatu"],
+      "initial_situation": "Setites deny it and offer to share debtor lists for a price.",
+      "escalation_path": "PCs mediate or forge ledgers; Nosferatu threaten to leak names to mortals.",
+      "if_ignored": "Giovanni retaliate with corpse-theft reprisals, sparking a shadow conflict around the theater."
+    },
+    {
+      "hook_title": "Prophecy in the Wings",
+      "trigger": "A Malkavian mutters that the Prince’s death walked through this stage first.",
+      "involved_factions": ["Followers of Set", "Malkavian", "Camarilla"],
+      "initial_situation": "Setites invite the seer backstage, fearing exposure or seeking to redirect the vision.",
+      "escalation_path": "PCs must contain or validate the prophecy; Camarilla demand to question the seer.",
+      "if_ignored": "Rumor hardens into belief that Setites engineered the murder, justifying purges."
+    },
+    {
+      "hook_title": "Silent Sabbat Rumor",
+      "trigger": "Nosferatu suggest Sabbat scouts were hosted in the theater’s sub-basement.",
+      "involved_factions": ["Followers of Set", "Nosferatu", "Camarilla", "Anarchs"],
+      "initial_situation": "Setites deny but offer a guided tour—minus certain locked doors.",
+      "escalation_path": "PCs choose to expose, ally, or exploit the rumor; doors may hide something worse than Sabbat.",
+      "if_ignored": "Camarilla deploy a hit team; Anarchs riot at the theater, giving Setites a martyr narrative."
+    }
+  ]
+}
+

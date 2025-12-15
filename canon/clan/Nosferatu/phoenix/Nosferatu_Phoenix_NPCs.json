@@ -1,0 +1,81 @@
+{
+    "clan": "Nosferatu",
+    "city": "Phoenix",
+    "year": 1994,
+    "npcs": [
+        {
+            "name": "Cipher",
+            "role": "Master information broker, surveillance network operator",
+            "alignment": "Independent (strictly neutral, sells to all factions)",
+            "territory": "Various hidden locations, mobile through infrastructure networks",
+            "reputation": "The most respected information broker in Phoenix. Known for comprehensive intelligence, reliable accuracy, and absolute neutrality. Respected by all factions because they never betray clients, never take sides, and always deliver what they promise. Their prices are high but fair, and their information is always verified. After the Prince's death, their services are in higher demand than ever.",
+            "story_function": "Primary point of contact for information trading. PCs will need Cipher's services to navigate Phoenix's political landscape. Can provide intelligence about any faction, but charges premium prices. Represents the ideal of Nosferatu neutrality—professional, reliable, and completely independent."
+        },
+        {
+            "name": "Vents",
+            "role": "Infrastructure specialist, utility corridor controller",
+            "alignment": "Independent (protects infrastructure access above all)",
+            "territory": "Utility corridors, storm drains, flood channels throughout Phoenix",
+            "reputation": "Master of Phoenix's hidden infrastructure. Knows every utility corridor, every storm drain access point, every route through the city's underground networks. Controls access to these routes strategically, charging for passage or demanding favors. Respected for expertise, feared for control over essential movement routes. Other Nosferatu defer to Vents on infrastructure matters.",
+            "story_function": "Controls access to hidden transportation routes. PCs will need Vents' knowledge to move unseen through Phoenix or access restricted areas. Can provide maps, guides, or direct access to infrastructure networks, but always at a cost. Represents Nosferatu control over urban infrastructure."
+        },
+        {
+            "name": "The Archivist",
+            "role": "Information archivist, historical records keeper",
+            "alignment": "Independent (preserves knowledge above all)",
+            "territory": "Hidden archive location in abandoned development",
+            "reputation": "Obsessive collector and preserver of Phoenix's Kindred history. Maintains comprehensive archives documenting past conflicts, forgotten alliances, buried secrets, and historical context. Rarely trades information, preferring to preserve knowledge for its own sake. Respected for dedication, viewed as eccentric by other Nosferatu. Their archives contain secrets that others have forgotten but might need to remember.",
+            "story_function": "Provides historical context for current events. PCs might need The Archivist's knowledge to understand past conflicts, forgotten alliances, or buried secrets that explain present situations. Access to archives is difficult—The Archivist doesn't trade casually, requiring compelling reasons to share preserved knowledge. Represents Nosferatu role as the city's memory."
+        },
+        {
+            "name": "Echo",
+            "role": "Camarilla-facing negotiator, professional information trader",
+            "alignment": "Independent (specializes in Camarilla clients)",
+            "territory": "Various, frequently near downtown Camarilla territories",
+            "reputation": "Specializes in dealing with Camarilla clients, maintaining professional distance while providing reliable intelligence. Understands Camarilla social games enough to navigate them without participating. Respected by Camarilla for competence and professionalism, viewed by other Nosferatu as someone who handles distasteful but necessary relationships. After the Prince's death, Echo's services are essential for Camarilla navigating the power vacuum.",
+            "story_function": "Provides professional interface between Nosferatu information networks and Camarilla needs. PCs dealing with Camarilla might work through Echo for information trading. Represents the transactional nature of Nosferatu-Camarilla relationships—functional but distant, professional but not friendly."
+        },
+        {
+            "name": "Static",
+            "role": "Telecommunications specialist, surveillance operator",
+            "alignment": "Independent (monitors all communications equally)",
+            "territory": "Various locations with access to communication infrastructure",
+            "reputation": "Master of 1994-era telecommunications surveillance. Expert at phone taps, pager monitoring, fax interception, and BBS infiltration. Maintains surveillance networks that monitor city communications comprehensively. Respected for technical skill, feared for monitoring capabilities. Other Nosferatu rely on Static for communication intelligence.",
+            "story_function": "Provides surveillance capabilities and communication intelligence. PCs might need Static's services to monitor targets, intercept communications, or gather intelligence through technical means. Represents Nosferatu mastery of pre-internet surveillance technology."
+        },
+        {
+            "name": "Scrapyard",
+            "role": "Abandoned development controller, sanctuary network manager",
+            "alignment": "Independent (protects Nosferatu safe spaces)",
+            "territory": "Abandoned developments throughout Phoenix sprawl",
+            "reputation": "Controls and maintains network of abandoned buildings that serve as Nosferatu sanctuaries, meeting points, and storage facilities. Transforms forgotten spaces into secure operating bases. Respected for providing safe spaces, viewed as territorial by other clans who might want access to abandoned properties. Other Nosferatu depend on Scrapyard for sanctuary locations.",
+            "story_function": "Provides secure locations for meetings, storage, or operations. PCs might need Scrapyard's sanctuaries for safe houses, hidden meeting points, or protected storage. Access requires Nosferatu approval or payment. Represents Nosferatu control over forgotten urban spaces."
+        },
+        {
+            "name": "Whispers",
+            "role": "Rumor broker, social information trader",
+            "alignment": "Independent (specializes in social intelligence)",
+            "territory": "Various, frequently near Toreador territories",
+            "reputation": "Specializes in social information—gossip, reputations, relationships, scandals. Maintains relationships with Toreador for access to salons and galleries where social secrets flow. Respected for social intelligence, viewed with suspicion by those who value privacy. Other Nosferatu rely on Whispers for information about social dynamics and reputation management.",
+            "story_function": "Provides social intelligence and rumor verification. PCs might need Whispers' services to understand social dynamics, navigate Toreador politics, or gather information about reputations and relationships. Represents the transactional Nosferatu-Toreador alliance—functional but uncomfortable for both sides."
+        },
+        {
+            "name": "The Watcher",
+            "role": "Physical surveillance specialist, observation network operator",
+            "alignment": "Independent (observes all factions equally)",
+            "territory": "Various hidden observation positions throughout Phoenix",
+            "reputation": "Master of physical surveillance through careful observation, hidden positions, and extended monitoring. Maintains network of observation points that allow comprehensive monitoring of city activities. Respected for patience and thoroughness, feared for comprehensive knowledge. Other Nosferatu rely on The Watcher for observational intelligence that complements technical surveillance.",
+            "story_function": "Provides observational intelligence about targets, locations, or activities. PCs might need The Watcher's services to monitor specific individuals, track movements, or gather intelligence through physical observation. Represents Nosferatu mastery of traditional surveillance methods—watching, waiting, and documenting."
+        },
+        {
+            "name": "Codex",
+            "role": "Blackmail specialist, leverage archivist",
+            "alignment": "Independent (uses information for leverage, not just trading)",
+            "territory": "Various hidden locations, mobile",
+            "reputation": "Specializes in organizing information into leverage—cataloguing secrets, vulnerabilities, and blackmail potential. Less interested in simple information trading than in using knowledge for influence. Respected for effectiveness, feared for methods. Other Nosferatu view Codex with mixed feelings—effective but potentially dangerous if blackmail operations are exposed.",
+            "story_function": "Provides leverage and blackmail potential rather than simple information. PCs might need Codex's services to gain influence over targets, but using blackmail creates enemies and risks exposure. Represents the darker side of Nosferatu information power—using knowledge not just for profit but for control."
+        }
+    ],
+    "notes": "These NPCs represent the diversity of Phoenix Nosferatu: information brokers, infrastructure specialists, archivists, negotiators, surveillance operators, and leverage specialists. They can serve as contacts, obstacles, or neutral parties depending on PC needs and story requirements. Each represents different aspects of Nosferatu identity—information control, infrastructure mastery, surveillance capabilities, and professional neutrality—and creates different story possibilities. All operate within the context of post-Prince Phoenix, where information demand is high but neutrality remains essential for Nosferatu survival and effectiveness."
+}
+

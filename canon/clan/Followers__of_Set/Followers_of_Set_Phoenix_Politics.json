@@ -1,0 +1,44 @@
+{
+  "clan": "Followers of Set",
+  "city": "Phoenix",
+  "year": 1994,
+  "primary_alignment": "Subversive liberationists who trade vice and revelation to fracture loyalties.",
+  "secondary_alignment_notes": "Operate as tolerated pariahs; cultivate converts inside rival sects instead of seeking formal domain.",
+  "relationships": {
+    "Camarilla": { "status": "denounced but utilized", "notes": "Elysium regulars privately visit the theater for solace, intel, and blackmail-ready indiscretions." },
+    "Anarchs": { "status": "useful agitators", "notes": "Setites feed anti-Prince narratives, offering haven and drugs that turn rebels into devotees." },
+    "Brujah": { "status": "targeted tempters", "notes": "Channel rage into ‘liberation rites’ that reframe fury as holy purpose; trade safehouse access for loyalty." },
+    "Toreador": { "status": "aesthetic allies under protest", "notes": "Curate decadent shows that Toreador publicly scorn and privately sponsor for inspiration and leverage." },
+    "Malkavian": { "status": "handled delicately", "notes": "Offer ‘clarity through surrender’ while fearing prophecies that expose their long game." },
+    "Nosferatu": { "status": "mutual blackmail pact", "notes": "Trade shameful recordings for underground rumors; both sides keep knives sheathed for now." },
+    "Giovanni": { "status": "cautious co-conspirators", "notes": "Swap mortal cult leads and debtors; avoid overlapping necromantic interests near the theater." },
+    "Other_Clans": { "notes": "Any clan member in Mesa can be tempted: first with comfort, then with tailored doctrine of necessary sin." }
+  },
+  "political_assumptions": {
+    "external": [
+      "The Prince’s murder leaves Camarilla faith brittle; grief and fear make converts.",
+      "Phoenix’s sprawl keeps the theater just beyond strict oversight, enabling deniable meetings.",
+      "Anarch discontent is fertile soil for Setite sermons about false chains."
+    ],
+    "internal": [
+      "Every vice is a lever; confession is currency.",
+      "Influence matters more than territory; domain is minds, not blocks.",
+      "Patience wins: offer sanctuary first, doctrine second, dependence last."
+    ]
+  },
+  "corruption_vectors": [
+    "VIP boxes in the theater where confessionals are recorded for future leverage.",
+    "Designer narcotics laced with whispered liturgy promising clarity through surrender.",
+    "‘Liberation homilies’ framed as anti-Prince, anti-eldership meditations circulated on cassette.",
+    "Private patronage of Toreador performances that subtly rewrite myths into Setite parables.",
+    "Debt webs spun around Camarilla ghouls seeking comfort after the Prince’s death."
+  },
+  "flashpoints": [
+    "A Camarilla Whip is photographed in a balcony ritual; blackmail risks open scandal.",
+    "An Anarch cell adopts Setite rhetoric, splitting their movement between action and indulgence.",
+    "Giovanni object to Setite harvesting of mortal debtors near their own influence lines.",
+    "Nosferatu threaten to dump theater confession tapes unless given exclusive intel feeds.",
+    "A Malkavian vision links the Prince’s death to Setite meddling, stirring calls for purges."
+  ]
+}
+
