@@ -1,7 +1,7 @@
-As an expert in *Laws of the Night Revised* and a master storyteller, analyze all available data and context in the **VbN project** related to the character and the game world **Valley by Night** which is set in the **World of Darkness** Universe.
+As an expert in *Laws of the Night Revised* and a master storyteller, analyze all available data and context in the **VbN project** related to the characters in Giovanni_NPC.json and the game world **Valley by Night** which is set in the **World of Darkness** Universe.
 
 Your task:
-Create a fully developed **appearance** for Alistaire that fits perfectly within the tone, lore, and structure of the Valley by Night chronicle.
+Create a fully developed **appearance** for each character that fits perfectly within the tone, lore, and structure of the Valley by Night chronicle.
 
 Guidelines:
 - Maintain adherence to *Laws of the Night Revised* tone, character archetypes, and terminology.
@@ -13,6 +13,5 @@ Guidelines:
 
 
 Deliverable:
-Output the final appearance in Butch Reed.json in the appearance field for the character. It the field doesn't exist, create it the line above description.
-Include a short tagline or epithet under the name.
-Before continuing ask me any questions to better understand my requirement and also to help me improve my prompt.
+Output the final appearance in Giovanni_NPC.json in the appearance field for the character. 
+Before starting each ask me for information for that character 

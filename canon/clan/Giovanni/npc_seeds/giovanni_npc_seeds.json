@@ -1,165 +1,40 @@
 {
     "clan": "Giovanni",
-    "book_title": "Revised - Clanbook Giovanni",
-    "edition": "Revised",
-    "npc_seeds": [
-        {
-            "id": "giovanni_business_magnate_01",
-            "name": "Francis Milliner",
-            "summary": "A Milliner family member who has achieved significant success in America but feels unappreciated by the main Giovanni family. He's been publicly dressed down by Diego Giovanni despite his accomplishments, and he's growing resentful of the 'single-blooded' Giovanni's condescension.",
-            "role": "business magnate / family leader / resentful outsider",
-            "age_category": "ancilla",
-            "temperament": "ambitious, resentful, calculating",
-            "possible_plots": [
-                "Francis approaches the coterie with an offer: help him gain recognition from Venice, and he'll provide financial resources and information. But helping him might mean crossing the main family.",
-                "Francis has discovered something about the Endless Night that the anziani don't want known. He needs the coterie's help to investigate without drawing attention.",
-                "The Milliners are planning to break away from the main family, and Francis needs allies who aren't bound by Giovanni blood to help them establish independence."
-            ]
-        },
-        {
-            "id": "giovanni_necromancer_01",
-            "name": "Cristobal Ghiberti",
-            "summary": "A 13th generation Ghiberti necromancer who sees the Endless Night as a revolution that will free the Giovanni from their isolation. He's enthusiastic, crude, and dangerously optimistic about what the ritual will accomplish.",
-            "role": "necromancer / revolutionary / information broker",
-            "age_category": "neonate",
-            "temperament": "enthusiastic, crude, revolutionary",
-            "possible_plots": [
-                "Cristobal wants to test a new necromantic ritual and needs the coterie's help acquiring materials—or test subjects. He's willing to share information about the Underworld in exchange.",
-                "He's discovered that some of the anziani are having second thoughts about the Endless Night, and he wants the coterie to help him find out why—or silence them.",
-                "Cristobal's experiments have attracted unwanted attention from wraiths who want revenge. He needs the coterie's help to deal with them before they destroy his work."
-            ]
-        },
-        {
-            "id": "giovanni_elder_01",
-            "name": "Diego Giovanni",
-            "summary": "A 6th generation elder who serves as one of the anziani. He's philosophical about the Endless Night, seeing it as a transformation that will resolve the conflicts of the Kindred condition. He's calculating, patient, and willing to make hard decisions for the family's future.",
-            "role": "elder / anziano / philosopher / decision maker",
-            "age_category": "elder",
-            "temperament": "calculating, patient, philosophical",
-            "possible_plots": [
-                "Diego approaches the coterie with a delicate task: investigate rumors that some Giovanni are having doubts about the Endless Night. He needs deniable assets who aren't bound by family loyalty.",
-                "He's discovered that the Pisanob's struggles might be more serious than reported, and he needs the coterie to travel to Mexico and assess the situation without the main family's knowledge.",
-                "Diego wants to test the coterie's loyalty and capabilities by having them eliminate a threat to the family—but the threat might be more sympathetic than he's letting on."
-            ]
-        },
-        {
-            "id": "giovanni_dunsirn_merchant_01",
-            "name": "Claudia Dunsirn, the Grail Seeker",
-            "summary": "A Dunsirn merchant who's been ordered to learn necromancy despite her family's traditional focus on trade. She's proud, resentful of Venetian control, and struggling to balance her family's independence with the main family's demands.",
-            "role": "merchant / reluctant necromancer / family representative",
-            "age_category": "ancilla",
-            "temperament": "proud, resentful, practical",
-            "possible_plots": [
-                "Claudia needs the coterie's help to acquire something valuable through trade, but the deal requires skills or resources the coterie has. In exchange, she can provide information about European Kindred politics.",
-                "She's discovered that the Dunsirn are being asked to tithe souls instead of money, and she wants the coterie's help to find a way to maintain their independence while appearing compliant.",
-                "Claudia has found evidence that the main family is planning something that will affect all the branch families, and she needs allies outside the Giovanni to help her prepare."
-            ]
-        },
-        {
-            "id": "giovanni_pisanob_ritualist_01",
-            "name": "Xochitl Pisanob",
-            "summary": "A Pisanob necromancer struggling to maintain her family's traditions after the maelstrom destroyed many of their ghostly servants. She's desperate, resourceful, and willing to make dangerous deals to restore her family's power.",
-            "role": "ritualist / family defender / desperate survivor",
-            "age_category": "ancilla",
-            "temperament": "desperate, resourceful, traditional",
-            "possible_plots": [
-                "Xochitl needs the coterie's help to acquire materials for a major ritual that could restore the Pisanob's power—but the ritual requires something dangerous or morally repugnant.",
-                "She's discovered that Pochtli's experiments might have caused the problems her family is facing, and she needs the coterie's help to investigate without alerting the main family.",
-                "Xochitl wants to defect from the Pisanob and join another branch, but she needs the coterie's help to make the transition without being hunted down as a traitor."
-            ]
-        },
-        {
-            "id": "giovanni_family_enforcer_01",
-            "name": "Emilio Rosselini",
-            "summary": "A Rosselini family member known for his cruelty and sadistic approach to necromancy. He enjoys tormenting wraiths and pushing the limits of what's possible with death magic. His methods have made him dangerous even to other Giovanni.",
-            "role": "enforcer / sadist / problem solver",
-            "age_category": "ancilla",
-            "temperament": "cruel, sadistic, methodical",
-            "possible_plots": [
-                "Emilio has been assigned to 'deal with' a problem that the coterie has created, but he's willing to negotiate if they can provide him with something more interesting than simple elimination.",
-                "His experiments have created something dangerous that's escaped his control, and he needs the coterie's help to contain it before it draws unwanted attention.",
-                "Emilio wants to test a new necromantic technique on the coterie—or someone they care about. He's willing to pay well, but the price might be too high."
-            ]
-        },
-        {
-            "id": "giovanni_premascine_01",
-            "name": "The Silent One",
-            "summary": "A Premascine—a Giovanni Embraced before Augustus diablerized the Cappadocian founder. They've been in hiding for centuries, watching the clan's evolution with horror. They know secrets about the clan's origins that could destroy the family's unity.",
-            "role": "ancient witness / secret keeper / potential destroyer",
-            "age_category": "elder",
-            "temperament": "ancient, horrified, secretive",
-            "possible_plots": [
-                "The Premascine approaches the coterie with information about the Giovanni's true origins, but sharing it will put them in danger from the anziani. They need protection.",
-                "They've discovered that Augustus's diablerie might not have been as complete as believed, and the Cappadocian founder might still exist in some form. They need the coterie's help to investigate.",
-                "The Premascine wants to destroy the Giovanni's plans for the Endless Night, and they're willing to share everything they know if the coterie helps them."
-            ]
-        },
-        {
-            "id": "giovanni_single_blood_01",
-            "name": "Isabel Giovanni",
-            "summary": "A 'single-blooded' Giovanni who embodies the family's arrogance and sense of superiority. She's elegant, cultured, and completely amoral, seeing other Kindred and mortals as tools to be used. She's been assigned to oversee a project that requires the coterie's cooperation.",
-            "role": "family representative / manipulator / cultural elite",
-            "age_category": "ancilla",
-            "temperament": "arrogant, cultured, amoral",
-            "possible_plots": [
-                "Isabel needs the coterie to help her with a delicate social situation—perhaps infiltrating a Toreador gathering or negotiating with Ventrue. She'll reward them handsomely, but working with her means dealing with her condescension.",
-                "She's discovered that someone in the coterie has information about a family secret, and she's determined to extract it through any means necessary—charm, threats, or necromancy.",
-                "Isabel wants to test whether 'double-blooded' or non-Giovanni Kindred can be trusted with family business. The coterie's performance will determine how the family treats outsiders in the future."
-            ]
-        },
-        {
-            "id": "giovanni_degenerate_01",
-            "name": "Primo Giovanni",
-            "summary": "A Giovanni who fully embraces the clan's darkest practices—incest, torture, and the most depraved forms of necromancy. He's infantile, dependent on his elders, and completely without moral boundaries. Other Giovanni find him useful but repulsive.",
-            "role": "degenerate / tool / warning",
-            "age_category": "neonate",
-            "temperament": "infantile, dependent, depraved",
-            "possible_plots": [
-                "Primo has been assigned to work with the coterie on a task, but his methods are so extreme that they must decide whether to stop him, work around him, or risk being associated with his atrocities.",
-                "He's become obsessed with a member of the coterie and won't leave them alone. Dealing with him requires navigating Giovanni family politics without causing a major incident.",
-                "Primo's latest 'experiment' has created something that threatens to breach the Masquerade, and the coterie must help contain it before it destroys everything."
-            ]
-        },
-        {
-            "id": "giovanni_fiduciary_wizard_01",
-            "name": "Marcus della Passaglia",
-            "summary": "A della Passaglia family member who specializes in financial manipulation and corporate espionage. He's been working to establish connections with the Cathayans, but those efforts have been sabotaged. He's frustrated and looking for new allies.",
-            "role": "financial advisor / corporate spy / frustrated diplomat",
-            "age_category": "ancilla",
-            "temperament": "frustrated, analytical, opportunistic",
-            "possible_plots": [
-                "Marcus needs the coterie's help to investigate why his Cathayan contacts have turned against the della Passaglia. The investigation will reveal that the Cathayans have been studying western vampires for centuries.",
-                "He's discovered a financial opportunity that requires Kindred outside the Giovanni to execute—perhaps involving other clans' resources or territories. He's willing to share profits.",
-                "Marcus wants to defect from the della Passaglia and establish his own operation, but he needs the coterie's help to do so without being hunted down by the family."
-            ]
-        },
-        {
-            "id": "giovanni_ghost_master_01",
-            "name": "Veronique Ghiberti",
-            "summary": "A Ghiberti necromancer who specializes in managing large numbers of wraiths. She's adapted well to the maelstrom by working in conflict zones where death is cheap and spirits are plentiful. She's practical, ruthless, and sees the dead as resources to be managed.",
-            "role": "necromancer / spirit manager / conflict zone operator",
-            "age_category": "ancilla",
-            "temperament": "practical, ruthless, efficient",
-            "possible_plots": [
-                "Veronique needs the coterie's help to secure a 'buffet'—a location where multiple wraiths have been blasted into the living world by the maelstrom. Controlling it would give her significant power.",
-                "She's discovered that some of the spirits she's been managing are planning to rebel, and she needs the coterie's help to either put down the rebellion or negotiate a new arrangement.",
-                "Veronique wants to test a new method of controlling wraiths that doesn't require the traditional threats and compulsion. She needs test subjects who aren't bound by Giovanni family politics."
-            ]
-        },
-        {
-            "id": "giovanni_valentinist_01",
-            "name": "The Whisperer",
-            "summary": "A Giovanni who secretly believes in Valentinism—the idea that the Endless Night will destroy the clan's power over spirits rather than complete it. They're working to sabotage the ritual while appearing loyal to the family. They're terrified of discovery.",
-            "role": "secret heretic / saboteur / potential ally",
-            "age_category": "ancilla",
-            "temperament": "terrified, determined, secretive",
-            "possible_plots": [
-                "The Whisperer approaches the coterie with a desperate request: help them sabotage the Endless Night without being discovered. They're willing to share everything they know about the ritual.",
-                "They've discovered evidence that Valentina della Passaglia might still exist as a wraith, and they want the coterie's help to find her and learn the truth about her warnings.",
-                "The Whisperer's activities have attracted the attention of the anziani, and they need the coterie's help to create a false trail that will lead the investigation away from them."
-            ]
-        }
+    "city": "Phoenix",
+    "year": 1994,
+    "npcs": [
+      {
+        "name": "Paris Giovanni",
+        "role": "Arch-Necromancer and Cult Patriarch",
+        "alignment": "Independent",
+        "territory": "Scottsdale estates and private Elysium venues",
+        "reputation": "Inhumanly calm, socially observant, and whispered to command the dead themselves",
+        "story_function": "Long-horizon power; authorizes necromancy only as part of extended plans and serves as the silent gravity well around which Giovanni strategy turns"
+      },
+      {
+        "name": "Paulo Benedicto Giovanni",
+        "role": "West Coast Regional Head and Phoenix Operations Director",
+        "alignment": "Independent",
+        "territory": "Scottsdale corporate offices and shell holdings",
+        "reputation": "Pragmatic, approachable, and dangerously competent",
+        "story_function": "Primary interface with other factions; handles logistics, money, and pressure while deferring to Paris on necromancy"
+      },
+      {
+        "name": "Marianna Giovanni",
+        "role": "Contracts, Legality, and Obligations",
+        "alignment": "Independent",
+        "territory": "Legal firms, trusts, and closed-door negotiations",
+        "reputation": "Impeccable, precise, and unfailingly polite",
+        "story_function": "Binds enemies and allies alike through contracts; the pivot point for leverage, with subtle fear of Paris’s inhumanity"
+      },
+      {
+        "name": "Lorenzo Giovanni",
+        "role": "Enforcement and Deterrence",
+        "alignment": "Independent",
+        "territory": "Mobile; appears where a warning must be delivered",
+        "reputation": "Efficient, merciless, and unmistakable when unleashed",
+        "story_function": "Last-resort violence; absorbs attention and risk to protect the family’s deeper plans and is the acceptable loss if sacrifice is required"
+      }
     ]
-}
-
-
+  }
+  
