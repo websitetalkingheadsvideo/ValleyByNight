@@ -1,5 +1,3 @@
---- book_title: "Revised - Clanbook Nosferatu" clan: "" edition: "" source_type: "clanbook" extraction_pipeline: "docling_v1 + markdown_cleanup_v1" ---
-
 <!-- image -->
 
 G
@@ -44,7 +42,7 @@ Layout,  Typesetting  and  Interior  Page  Design: Aileen  E.  Miles
 
 The mention of or reference to any company or product in these pages is not a challenge to the trademark or copyright concerned.
 
-Check out White Wolf online at http://www. white-wolf. com;  alt. games. whitewolf;  and rec. games. frp. storyteller
+Check out White Wolf online at http://www.white-wolf.com;  alt.games.whitewolf;  and rec.games.frp.storyteller
 
 PRINTED IN USA.
 
@@ -72,13 +70,13 @@ Chapter three: nOsFeratu CharaCters
 
 The music all sounds the same to me now. Sitting in the same crowded club on another pointless Saturday night, I no longer care whether it's Old Wave, New Wave, Goth, Industrial or some shitty techno dance mix - I can't even tell anymore. The same pounding rhythms shake the black frosted windows of the nightclub, the same taut young bodies writhe to the thunderous backbeat, and once again, I nurse my watery beer, regarding the sweaty mass of flesh before me as I have on too many previous nights to count.
 
-Black's still in fashion - it always is - so I sit in the corner, a black leather miniskirt constricting uncomfortably around my thighs. When I was as young as the other women - girls - on the floor tonight, my legs were my biggest asset. Now I've just got a... Well, you know. A big ass warming a barstool.
+Black's still in fashion - it always is - so I sit in the corner, a black leather miniskirt constricting uncomfortably around my thighs. When I was as young as the other women - girls - on the floor tonight, my legs were my biggest asset. Now I've just got a... well, you know. A big ass warming a barstool.
 
 I rock my feet back and forth on a pair of 'knock-me-down-and-fuck-me' heels, taking another sip of beer. When I was younger, nights like this used to seem adventurous. Now, of course, I'm pushing 30, the joke's gotten old, and so have I. My morning shift, processing checks at the bank on
 
 for-God's-sake-Sunday-motherfucking-morning, is just six hours away. I can feel a clock ticking away like a timebomb inside me. Time's running out, baby. Time's running out.
 
-Smile as another guy goes past... Hope he turns around and comes back... Maybe hope he doesn't. Where did I go wrong? Don't get me wrong, finding company for a few hours isn't the problem. Once you lower your standards enough, anything's possible. But those thousands of Saturday nights I thought I had ahead of me when I was 19 have run out. No matter what the venue is for clubbing, I'm an outcast, by age and appearance - hunting for what I can get at the bottom of the pecking order, near the bottom of the food chain. I can't compete with the impossibly thin little Barbies all around me.
+Smile as another guy goes past... hope he turns around and comes back... maybe hope he doesn't. Where did I go wrong? Don't get me wrong, finding company for a few hours isn't the problem. Once you lower your standards enough, anything's possible. But those thousands of Saturday nights I thought I had ahead of me when I was 19 have run out. No matter what the venue is for clubbing, I'm an outcast, by age and appearance - hunting for what I can get at the bottom of the pecking order, near the bottom of the food chain. I can't compete with the impossibly thin little Barbies all around me.
 
 Barbie and her friends are wearing a lot of black tonight - sporting the archaic retro style I abandoned when I was 14. Maybe it's cool again now and I don't even know - Oh, God. Am I that old? Does it really show? Not behind the façade I wear. My makeup is immaculately done - a careful blend of pale white and Death's own black lipstick. My hair is teased just like a Goth queen the kids here tonight don't even remember. I've even got my lucky panties on, although their luck ran out a long, long time ago. Just as I start to sweat from the heat and desperate energy of the club, I realize that it's that time of the week where I go out on the floor and use the only marketable skill I've got left. I dance.
 
@@ -96,7 +94,7 @@ A few other Barbies try to capture his attention, but he acts like he knows I'm 
 
 A while later, we shuffle off the dance floor. Two drinks and a whirlwind of bad retro music later, he's taking me outside, and I'm playing along. Anything to get away from here. The passions I felt with such intensity 10 years ago start to resurface again, but they no longer surprise me. I've been through this dance enough times, going through the motions once again, that I'm willing to let him lead me back to his car. Ooh - a sports car. Color me surprised.
 
-I trip and giggle with calculated timing as I lower myself into the bucket seats, wobbling on my heels. The seat belt clicks into place, and I adjust my black mini for maximum effect. He's sitting in the driver's seat in moments, and I'm letting everything happen way too fast. No need for a seatbelt... He's already got me strapped down and... A rush of adrenaline washes over me as he leans over to kiss my neck, pinning me down against the leather seats. Pinning me down way too hard.
+I trip and giggle with calculated timing as I lower myself into the bucket seats, wobbling on my heels. The seat belt clicks into place, and I adjust my black mini for maximum effect. He's sitting in the driver's seat in moments, and I'm letting everything happen way too fast. No need for a seatbelt... he's already got me strapped down and... a rush of adrenaline washes over me as he leans over to kiss my neck, pinning me down against the leather seats. Pinning me down way too hard.
 
 It's a dream. Closely followed by a nightmare. I'm bleeding.
 
@@ -106,7 +104,7 @@ Honestly, I can't remember what happened next. I thought what I felt in the next
 
 Perhaps it's my mind that's reconstructed him as hideous. Once we were outside the club, his cologne probably smelled a lot worse than it normally was - I can't stand the stuff anyway. Once it started, Demon Lover was gone, leaving me with some Demon crouched over my unconscious body. My mind remembers it as something from one of those old silent movies. Gray skin, sharp teeth, long fingernails. And the smell. He smelled like a dead thing, so cold and shivering. Or was that me?
 
-Or is that me now? My eyes are shut, and the concrete floor beneath me feels very hard. So cold. So very cold. My inside's feel like they're shriveled, my skin itches something horrible, and at the back of my throat, it's dry and... Thirsty. Bright lights flash on around me. Then I
+Or is that me now? My eyes are shut, and the concrete floor beneath me feels very hard. So cold. So very cold. My inside's feel like they're shriveled, my skin itches something horrible, and at the back of my throat, it's dry and... thirsty. Bright lights flash on around me. Then I
 
 make the worst mistake of my life, one even worse than getting into the passenger seat of that sports car. I open my eyes.
 
@@ -282,7 +280,7 @@ I  DON'T BELIEVE IN LEGENDS. They might sound attractive, and they might help pa
 
 ## the  niCtuKu  enigma
 
-According to the Loremasters of Clan Nosferatu, the Nictuku are not a bloodline - they are eldest childer of the Nosferatu Antediluvian himself. When legendary Nosferatu rose up against his sire and her relations, he did so with the aid of his own blood bound childer. Although blood bonds have been known to wear off over time, legend also has it that Nosferatu has repeatedly renewed these bonds of blood, summoning his eldest childer to his torpid body, where they may feed and renew their loyalty. This is not without its dangers, of course: If the Nictuku did not have such a command of the Obfuscate Discipline, another vampire could attempt  to  follow  them  to  their  master  and diablerize  this  Ancient.  Thankfully,  the  Nictuku are allegedly powerful enough to erase all traces of their presence... If they exist at all.
+According to the Loremasters of Clan Nosferatu, the Nictuku are not a bloodline - they are eldest childer of the Nosferatu Antediluvian himself. When legendary Nosferatu rose up against his sire and her relations, he did so with the aid of his own blood bound childer. Although blood bonds have been known to wear off over time, legend also has it that Nosferatu has repeatedly renewed these bonds of blood, summoning his eldest childer to his torpid body, where they may feed and renew their loyalty. This is not without its dangers, of course: If the Nictuku did not have such a command of the Obfuscate Discipline, another vampire could attempt  to  follow  them  to  their  master  and diablerize  this  Ancient.  Thankfully,  the  Nictuku are allegedly powerful enough to erase all traces of their presence... if they exist at all.
 
 One further aspect of  the  legend  of  the fourth-generation  Nictuku  has  resulted  in  a great deal of speculation within Nosferatu society. Some legends state that before Nosferatu's curse, he Embraced a beautiful woman out of sheer lust, one who is now the 'Matriarch' for the rest of  the  clan.  If  this  is  true,  this  mysterious 'Mother of All Nosferatu' has never revealed herself; furthermore, she is not known by any one definitive name - Matriarch is simply the most common one employed.
 
@@ -356,7 +354,7 @@ During the city's latter nights, the Romans decided that,  because  their  surfa
 
 Alexander  Ruxard,  a  Nosferatu  academic,  politely interrupts:
 
-PARDON ME! If I might just interject for one moment. Yes, you haven't noticed me standing over here in the corner, but I thought, if I may... If I may be so bold, I might point out a sort of a footnote, if you will, to your historical remarks. You see, I've heard other scholars aver that a very few ancient Nosferatu refuse to accept the fall of the Roman Empire at all! Because there are sections of Rome that have remained essentially unchanged, they've haunted the same environs for century after century, skulking beneath the city, surrounded by the corpses of the men and women they once preyed on. Other vampires have tried to  displace  them  from  this  underground  kingdom, particularly Necromancers desirous of the knowledge they guard, but such creatures would dare not abandon the catacombs of Rome. Oh, do forgive me... Pray, continue.…
+PARDON ME! If I might just interject for one moment. Yes, you haven't noticed me standing over here in the corner, but I thought, if I may... if I may be so bold, I might point out a sort of a footnote, if you will, to your historical remarks. You see, I've heard other scholars aver that a very few ancient Nosferatu refuse to accept the fall of the Roman Empire at all! Because there are sections of Rome that have remained essentially unchanged, they've haunted the same environs for century after century, skulking beneath the city, surrounded by the corpses of the men and women they once preyed on. Other vampires have tried to  displace  them  from  this  underground  kingdom, particularly Necromancers desirous of the knowledge they guard, but such creatures would dare not abandon the catacombs of Rome. Oh, do forgive me... pray, continue.…
 
 The start of the Dark Ages was a major blow to the clan,  but  by  then,  some  of  the  Cainites  who  survived  were eager to re-create versions of Rome's Cloaca Maxima in other cities. Wherever Cainites conspired to help a city grow, if only for the sake of building a large herd of kine, it is likely there was a Nosferatu there wanting to influence where the sewer lines were going to go.
 
@@ -364,7 +362,7 @@ The start of the Dark Ages was a major blow to the clan,  but  by  then,  some  
 
 As I mentioned, the next centuries were difficult times  for  us  Sewer  Rats.  However,  when  the  other Kindred stopped listening to the local Nosferatu, we eventually  figured  out  that  this  water-management system we developed wasn't just a nifty way to sneak around town. It was also a weapon.
 
-Long before the kine figured out the importance of good sanitation... Well... We were already steeped in the subject (if you'll pardon the expression). In certain cities, broods of Nosferatu made the connection between the importance of diverting waste and the outbreaks of disease where they fed. After all, many medieval Nosferatu were... Well... 'bottom feeders' in medieval cities, soaking up blood from the lowest social strata. The poor and starving were often the first to suffer epidemics, and we watched their society as thoroughly as we watched the waste water that flooded out of a city.
+Long before the kine figured out the importance of good sanitation... well... we were already steeped in the subject (if you'll pardon the expression). In certain cities, broods of Nosferatu made the connection between the importance of diverting waste and the outbreaks of disease where they fed. After all, many medieval Nosferatu were... well... 'bottom feeders' in medieval cities, soaking up blood from the lowest social strata. The poor and starving were often the first to suffer epidemics, and we watched their society as thoroughly as we watched the waste water that flooded out of a city.
 
 Throughout the Dark Ages, many of the largest cities depended on the old Roman systems of waste
 
@@ -384,7 +382,7 @@ Wealthy families knew how inefficient privy vaults were and thus preferred to li
 
 <!-- image -->
 
-waterway or river. In Britain, London Bridge was a choice piece of real estate for precisely this reason. Of course, once we Nosferatu were granted domains in such a city, it suited us just fine, giving us covert access to wealthy homes the Ventrue never had. Unfortunately, privy vaults were often drained into the wrong sewers, since most kine were unaware of one of the most important aspects of sewage management. Hold it right there... Don't lose that look on your face, because I'm going to keep you in suspense....
+waterway or river. In Britain, London Bridge was a choice piece of real estate for precisely this reason. Of course, once we Nosferatu were granted domains in such a city, it suited us just fine, giving us covert access to wealthy homes the Ventrue never had. Unfortunately, privy vaults were often drained into the wrong sewers, since most kine were unaware of one of the most important aspects of sewage management. Hold it right there... don't lose that look on your face, because I'm going to keep you in suspense....
 
 ## stagnating  in  the  renaissanCe
 
@@ -392,7 +390,7 @@ With the birth of the Camarilla in the 15th century, the concept of sewers, wate
 
 Alexander Ruxard interrupts:
 
-Um... Excuse me... Pardon me.… But I think you've gotten quite a bit ahead of our other guests. Your story is  certainly  very...  Um...  Fascinating,  but  perhaps  we should give one of the other Sewer Rats a chance? Oh, no, forgive me ….
+Um... excuse me... pardon me.… But I think you've gotten quite a bit ahead of our other guests. Your story is  certainly  very...  um...  fascinating,  but  perhaps  we should give one of the other Sewer Rats a chance? Oh, no, forgive me ….
 
 ## the  sixth  tale: the  ravenOus  manitOu
 
@@ -424,7 +422,7 @@ We wanted his power, so we took it. We all gathered around his body and showed h
 
 Alexander Ruxard, Nosferatu academician, intrudes once more:
 
-HOW THRILLING! If you don't mind, I should take this opportunity to add a codicil, if you will... An addendum to that rather exciting tale. For I would not want us to neglect the story of the actual cities of the New World, yes? As the kine continued to colonize early America, you see, they developed a series of small towns and villages along the East Coast, particularly farther north, in New England and like places. While Camarilla history seems terribly focused on places like New York and Boston, the large cities managed by elders and those sorts, few of us remember to include the story of the smaller towns, because typically, they're really more of a Nosferatu sort of thing. The other clans seem to go in for all the prestigious people and places, but we've been content to live in the cracks. At least, I have... I wouldn't dream of speaking for the rest of you....
+HOW THRILLING! If you don't mind, I should take this opportunity to add a codicil, if you will... an addendum to that rather exciting tale. For I would not want us to neglect the story of the actual cities of the New World, yes? As the kine continued to colonize early America, you see, they developed a series of small towns and villages along the East Coast, particularly farther north, in New England and like places. While Camarilla history seems terribly focused on places like New York and Boston, the large cities managed by elders and those sorts, few of us remember to include the story of the smaller towns, because typically, they're really more of a Nosferatu sort of thing. The other clans seem to go in for all the prestigious people and places, but we've been content to live in the cracks. At least, I have... I wouldn't dream of speaking for the rest of you....
 
 At any rate, the most prosperous cities drew plenty of  ambitious  neonates  wanting  to  make  a  name  for
 
@@ -432,7 +430,7 @@ At any rate, the most prosperous cities drew plenty of  ambitious  neonates  wan
 
 <!-- image -->
 
-themselves  as  princes  and  primogen  (or,  more  commonly, cardinals and ducti). The smallest towns were deemed beneath their notice. Who cared whether a town or village  with  fewer  than  a  hundred  people  lived  or  died?  Such places were tightly knit and typically religious, making it nearly impossible for Kindred or Cainites to establish a domain... Unless, of course, they were particularly good at hiding their activities from mortals.
+themselves  as  princes  and  primogen  (or,  more  commonly, cardinals and ducti). The smallest towns were deemed beneath their notice. Who cared whether a town or village  with  fewer  than  a  hundred  people  lived  or  died?  Such places were tightly knit and typically religious, making it nearly impossible for Kindred or Cainites to establish a domain... unless, of course, they were particularly good at hiding their activities from mortals.
 
 Antisocial Nosferatu found these quaint little burgs to  be  especially  well-suited  to  their  temperament.  Sewer Rats who had traveled across an ocean to escape the politics of the Old World weren't terribly eager to tolerate the burgeoning vampiric gentry of the New World. New England and the East Coast supported thousands of  tiny  villages  where  a  solitary  Nosferatu  could  lurk  and feed undisturbed. When I hear mention of Nosferatu Solitaries - as many of you young neonates no doubt will! - I think of this historical example.
 
@@ -456,9 +454,9 @@ Of course, I'm not so delusional as to think that there's no Caine, like that fe
 
 Behold  the  return  of  Alexander  Ruxard,  Nosferatu Academic:
 
-GOOD HEAVENS! I do hope nothing's wrong. Have we gotten to the 18th century yet? I can't believe that you've neglected to mention one of the most fascinating... Simply most fascinating aspects of our history. I refer to 1789, more specifically Paris. Now, mind you, I've heard rumors that the Nosferatu of Paris assumed a  part  in  the  French  Revolution,  fomenting  dissent against the aristos and such.
+GOOD HEAVENS! I do hope nothing's wrong. Have we gotten to the 18th century yet? I can't believe that you've neglected to mention one of the most fascinating... simply most fascinating aspects of our history. I refer to 1789, more specifically Paris. Now, mind you, I've heard rumors that the Nosferatu of Paris assumed a  part  in  the  French  Revolution,  fomenting  dissent against the aristos and such.
 
-Allegedly, there was a brood of Sewer Rats there who hated  the  Degenerate  vampires  of  the  Parisian Camarilla  with  such  fervor  that  they  developed  an underground conspiracy. Since that time, in a typically Victor Hugo sort  of  fashion,  many  criminals  fleeing  from the gendarmes have found themselves aided by unseen benefactors in the sewers of Paris, sympathizers who leave behind trails to facilitate their escape, food and water or even weapons to lash out at the hated Parisian Toreador  and  Ventrue.  Simply fascinating, don't  you think! Oh... Oh, my, you're all looking at me in that way again. Do forgive me for interrupting....
+Allegedly, there was a brood of Sewer Rats there who hated  the  Degenerate  vampires  of  the  Parisian Camarilla  with  such  fervor  that  they  developed  an underground conspiracy. Since that time, in a typically Victor Hugo sort  of  fashion,  many  criminals  fleeing  from the gendarmes have found themselves aided by unseen benefactors in the sewers of Paris, sympathizers who leave behind trails to facilitate their escape, food and water or even weapons to lash out at the hated Parisian Toreador  and  Ventrue.  Simply fascinating, don't  you think! Oh... oh, my, you're all looking at me in that way again. Do forgive me for interrupting....
 
 <!-- image -->
 
@@ -474,7 +472,7 @@ Street people swarmed to these places, especially since  they  were  so  easy  t
 
 Nosferatu fed freely in such slums because their stalking grounds had been forsaken by all the other clans. The humans would usually swarm into a few communal areas - typically hidden kitchens - where they could  warm  themselves  beside  trash-can  fires.  Once they ventured from these secluded elysia, they were easy prey. The kine slept in large numbers, sometimes 10 or 15 to a room, because they knew what might happen if they were left alone. I can still see the ambience of my favorite haunts: greasy windows, moldering floorboards covered with straw, walls tinged with soot and an aroma only a few shades more tolerable than the sewers themselves.
 
-While it was possible for most of us to stalk unseen, some preferred to recruit others to do their dirty work for  them.  Ghouls  are  ruthlessly  efficient,  especially when thoroughly addicted to our blood. Turning the denizens of a rookery into a blood cult is childe's play. Once you found one ghoul you could command, it was easy to have him recruit another... And another... Until you'd built an entire cult of them ready to do your bidding. The most ingenious Nosferatu developed entire blood cults of criminals and used them to spread their influence throughout the city. Dickens, of course, wrote a rather astute parody of our kind. Ever afterward, we were proud to call ourselves 'Fagins.'
+While it was possible for most of us to stalk unseen, some preferred to recruit others to do their dirty work for  them.  Ghouls  are  ruthlessly  efficient,  especially when thoroughly addicted to our blood. Turning the denizens of a rookery into a blood cult is childe's play. Once you found one ghoul you could command, it was easy to have him recruit another... and another... until you'd built an entire cult of them ready to do your bidding. The most ingenious Nosferatu developed entire blood cults of criminals and used them to spread their influence throughout the city. Dickens, of course, wrote a rather astute parody of our kind. Ever afterward, we were proud to call ourselves 'Fagins.'
 
 Of course, the luminaries of this era, such redoubtable figures as Mithras and Queen Anne, were at first horrified to hear of the crimes our dens of iniquity encouraged. They changed their opinion when we began to contribute to the cause of the Camarilla. The Nosferatu of Victorian London were a highly organized brood, and between us,  we  developed  an  underworld  whose  tentacles thoroughly infested the city. The real pulse of the city was in the streets, and we fed rapturously from its veins. Thus, we were the most informed about the 'word on the street' and traded such wealth carefully. The idea of the Nosferatu mastermind, the Victorian Fagin, soon came into vogue on the Continent as well. Throughout the civilized world, concentrations of Nosferatu soon bred concentrated criminality.
 
@@ -494,7 +492,7 @@ John Snow was an English physician who proved this need scientifically. For a st
 
 Snow was very methodical about his reports, but the  English  government  panicked.  So  did  many  of the governments on the Continent; in many cities, European kine were required by law to release their waste into the nearest drainage system. Unfortunately, most  humans,  like  most  neonate  Nosferatu,  don't know the difference between the sewer system and the drainage system used for storm run-off. Remember what I told you about the Romans keeping the Cloaca Maxima separate from the waterways they used for their bath water? Remember the outbreaks of disease that happened when those tunnels broke down? History, as it so often does, repeated itself.
 
-The results were disastrous. The Thames was already turning  into  one  big  churning  toilet,  but  because  London's sewers weren't up to snuff, a reek filled the streets. One summer, someone finally had to put soaking rags over the windows of Parliament to keep out the smell. Okay, so maybe some of us Nosferatu got into the act and flooded the  city  with  stench  as  well.  We  wanted  more  sewers,  after all!  As  a  result,  the  citizens  of  London  began  excavating  a vastly improved sewer system, and we... Well... We moved in to make sure it got built correctly. All thanks to John Snow starting a public panic.
+The results were disastrous. The Thames was already turning  into  one  big  churning  toilet,  but  because  London's sewers weren't up to snuff, a reek filled the streets. One summer, someone finally had to put soaking rags over the windows of Parliament to keep out the smell. Okay, so maybe some of us Nosferatu got into the act and flooded the  city  with  stench  as  well.  We  wanted  more  sewers,  after all!  As  a  result,  the  citizens  of  London  began  excavating  a vastly improved sewer system, and we... well... we moved in to make sure it got built correctly. All thanks to John Snow starting a public panic.
 
 As a result, our labyrinths have grown more over the last  century  than  they  had  in  the  two  thousand years before Mr. Snow. Despite all the evolution going on above ground, indoor plumbing didn't change all that much between the Roman Empire and the 19th century. But once we started flooding the cities of kine with the aroma we know so well, even the Camarilla princes started to take us seriously.
 
@@ -520,7 +518,7 @@ WELL DONE! You've brought us up to the dawn of the modern age. Now, we've given 
 
 When Bram Stoker's Dracula was released in 1897, it romanticized the legend of the vampire throughout Europe  and  America.  At  first,  many  Kindred  were horrified,  certain  that  this  novel  would  shatter  the Masquerade, but over time, it did precisely the opposite, presenting a series of lies that would allow the Kindred to hide in plain sight. Once the initial scandal passed, various Camarilla clans become envious, even jealous, of  the  Tzimisce  for  being  able  to  whitewash  their  history so swiftly. The result was a long serious of imitations, particularly after the invention of motion pictures.
 
-In  the  early  1920s,  the  German  director  F . W .  Murnau attempted to make the first film adaptation of Stoker's novel. The plot was only loosely based on the novel, but it was similar enough that Bram Stoker's estate was horrified. A lawsuit followed. By the time the film was released,  the  name  had  been  changed.  The  original portrayal of Dracula was replaced with a vampire that looked singularly familiar to many Camarilla vampires. An actor named Max Schreck captured the essence of the most infamous of the seven clans, and by the time the legal dispute was settled, the film had a new name, one that would spread the name Nosferatu almost as far as that of Dracula himself.
+In  the  early  1920s,  the  German  director  F .W .  Murnau attempted to make the first film adaptation of Stoker's novel. The plot was only loosely based on the novel, but it was similar enough that Bram Stoker's estate was horrified. A lawsuit followed. By the time the film was released,  the  name  had  been  changed.  The  original portrayal of Dracula was replaced with a vampire that looked singularly familiar to many Camarilla vampires. An actor named Max Schreck captured the essence of the most infamous of the seven clans, and by the time the legal dispute was settled, the film had a new name, one that would spread the name Nosferatu almost as far as that of Dracula himself.
 
 a pOOrly ChOsen  tale Alexander Ruxard continues:
 
@@ -538,7 +536,7 @@ Of course, when European explorers began to tame the 'dark continent,' these mon
 
 <!-- image -->
 
-into the wilderness, taking their devout followers with them. Legend has it that the eldest of these creatures lived  in  a  vast  series  of  underground  caverns,  surrounded scendants.… This Methuselah hoarded his wealth like a veritable Solomon... Leading to the legends of 'King by the wealth he had gathered from his vampiric deSolomon's Mines'.…
+into the wilderness, taking their devout followers with them. Legend has it that the eldest of these creatures lived  in  a  vast  series  of  underground  caverns,  surrounded scendants.… This Methuselah hoarded his wealth like a veritable Solomon... leading to the legends of 'King by the wealth he had gathered from his vampiric deSolomon's Mines'.…
 
 An African Nosferatu fights off frenzy:
 
@@ -586,7 +584,7 @@ This is part of the origin of Nosferatu storytelling: We didn't start the practi
 
 ## uniFiCatiOn  and  dOwnFall
 
-The mortal history is well known: The Egyptian Empire  originally  consisted  of  two  states,  one  along the Nile and the other within the Delta. Then, in 3200 B. C., one king united both empires, assuming a doublecrown that included the likenesses of the cobra of Lower Egypt and the vulture of Upper Egypt. The legacy that followed endured for a thousand years - a rather stable foundation for the development of Nosferatu tradition. In  the  history  of  the  unseen,  our  culture  developed such traditions as respect for the wisdom of elders, the importance of working in broods and the practice of hosting emissaries from other broods.
+The mortal history is well known: The Egyptian Empire  originally  consisted  of  two  states,  one  along the Nile and the other within the Delta. Then, in 3200 B.C., one king united both empires, assuming a doublecrown that included the likenesses of the cobra of Lower Egypt and the vulture of Upper Egypt. The legacy that followed endured for a thousand years - a rather stable foundation for the development of Nosferatu tradition. In  the  history  of  the  unseen,  our  culture  developed such traditions as respect for the wisdom of elders, the importance of working in broods and the practice of hosting emissaries from other broods.
 
 As Egyptian traders began to carry goods further south, the Cainites of Africa learned to take advantage of their activities. Brother Gangrel first learned how to feed from humans traveling along trade routes, since he could sleep within the earth nearly anywhere during the day, no matter how long a caravan's journey was. Nosferatu had a harder time on such journeys, but as the hunters they were, they went into the night unafraid. You may notice that many regular trade routes take advantage of rivers and other bodies of water - a rather convenient practice arising from our necessity for  hiding  places  along  such  routes.  In  more  remote regions, ghouled porters, askaris or animals would carry our slumbering bodies by day, and we would feed from them at night. In this way, we visited Nosferatu living even further from Egypt,  solitary  monsters  who  preferred to remain far from the cities of men, but still hungered for stories and news of other broods.
 
@@ -596,15 +594,15 @@ Unfortunately, even if we possessed such occult powers, we could not roam as fre
 
 vast Sahara. Covering one-fifth of the continent, it kept our  kingdoms  isolated  from  the  European  societies  of vampires, as much to our advantage as to our detriment.
 
-The Ventrue may yearn for the glories of Rome, and Brujah still mourn the conquest of Carthage, but the eldest Nosferatu of Africa repeat legends of ancient Egypt. As hidden kings, we supported the reign of the pharaohs. Some elders claim we even helped supervise the  construction  of  monuments  to  them.  I  find  this somewhat incredible, but Nosferatu did grant us the strength of our Blood so that we could help build. I am told  that  in  the  seventh  century  B. C.,  when  the  Pharaoh Cheops ordered the construction of his Great Pyramid, Nosferatu ghouls were ready to lend their aid. Again, I personally find these tales far-fetched, but they do serve as inspiration for our childer to learn the arts of subterranean construction and the Discipline of Potence. If the Ancients assisted with one of the greatest wonders of the Western World, why should we not follow their example? We had no princes or harpies to teach us shame. We were hideous, but with our curse came that hideous strength that lies within our Blood.
+The Ventrue may yearn for the glories of Rome, and Brujah still mourn the conquest of Carthage, but the eldest Nosferatu of Africa repeat legends of ancient Egypt. As hidden kings, we supported the reign of the pharaohs. Some elders claim we even helped supervise the  construction  of  monuments  to  them.  I  find  this somewhat incredible, but Nosferatu did grant us the strength of our Blood so that we could help build. I am told  that  in  the  seventh  century  B.C.,  when  the  Pharaoh Cheops ordered the construction of his Great Pyramid, Nosferatu ghouls were ready to lend their aid. Again, I personally find these tales far-fetched, but they do serve as inspiration for our childer to learn the arts of subterranean construction and the Discipline of Potence. If the Ancients assisted with one of the greatest wonders of the Western World, why should we not follow their example? We had no princes or harpies to teach us shame. We were hideous, but with our curse came that hideous strength that lies within our Blood.
 
 The empire's downfall came from the Assyrians to the east and the Kushites to the south. I would like to say that the Methuselahs who slept beneath the turgid swamps of the Sudd-land commanded this, yet it is not our way to take credit for what the kine have done. Egyptian soldiers lost battles because Assyrian iron had a distinct advantage over Egyptian bronze; the legendary 'four shadowy kings of Tanis' our Loremasters extol tore apart the secret societies of the pharaonic dynasty; the Kushites we watched over unseen exploited both of these trends. For two centuries, Kushite and Egyptian culture intermixed, and the age of the pharaohs came to an end. Of course, the influence of the Nosferatu kingdoms of Africa did not.
 
 ## Carthage
 
-North of the Sudan, beyond the Sahara, the kine of Northern Africa had their own epic accomplishments. Camarilla and Sabbat history both speak of Carthage, but only as a conquered kingdom. Above ground, the Ventrue have spoken in their sagas over and over of how Rome defeated this vast empire in the Punic Wars. I surmise that it was not the collapse of Carthage itself that infuriates the Brujah elders - why would a neonate care what happened in the middle of the second century A. D.? - it is the incessant gloating about this event millennia after it took place.
+North of the Sudan, beyond the Sahara, the kine of Northern Africa had their own epic accomplishments. Camarilla and Sabbat history both speak of Carthage, but only as a conquered kingdom. Above ground, the Ventrue have spoken in their sagas over and over of how Rome defeated this vast empire in the Punic Wars. I surmise that it was not the collapse of Carthage itself that infuriates the Brujah elders - why would a neonate care what happened in the middle of the second century A.D.? - it is the incessant gloating about this event millennia after it took place.
 
-The Phoenicians of Tyre founded Carthage in 814 B. C. On the northern shore of Africa. Nestled in the center of the Gulf of Tunis on a triangular peninsula,
+The Phoenicians of Tyre founded Carthage in 814 B.C. on the northern shore of Africa. Nestled in the center of the Gulf of Tunis on a triangular peninsula,
 
 J.&lt;0bb
 
@@ -614,9 +612,9 @@ J.&lt;0bb
 
 it  was  ideally  situated  for  maritime  commerce.  Well protected  and  easily  defensible,  especially  with  the nearby citadel of Byrsa, it harbored the greatest fleets of the Western world. For Nosferatu, however, it was somewhat less than an ideal haven. Because there were few hiding places within the city, the broods had to make their home (once again) in the ocean surrounding Carthage, rising from the wine-dark sea at night to stalk the streets unseen.
 
-The Ventrue take credit for the greatest merchant empires, but it is by no means the only clan that understands how to gather wealth. Carthaginian Brujah hid in an empire that dominated trade throughout the Mediterranean. Then in the middle of the third century B. C., Carthage began to contest with Rome for control of  seafaring  trade.  The  result  was  the  Punic  Wars,  lasting from the middle of the third century B. C. To the end of the second. In 146 B. C. The city was finally plundered and burned to  the  ground.  Afterward,  the  Roman  Empire forbade human habitation there.
+The Ventrue take credit for the greatest merchant empires, but it is by no means the only clan that understands how to gather wealth. Carthaginian Brujah hid in an empire that dominated trade throughout the Mediterranean. Then in the middle of the third century B.C., Carthage began to contest with Rome for control of  seafaring  trade.  The  result  was  the  Punic  Wars,  lasting from the middle of the third century B.C. to the end of the second. In 146 B.C. the city was finally plundered and burned to  the  ground.  Afterward,  the  Roman  Empire forbade human habitation there.
 
-The Camarilla is quick to repeat what a tragedy this was for the Brujah of Northern Africa, but it wasn't much easier for the Nosferatu watchers in the waters. Fortunately, about 25 years later, the Roman Senate decided to construct a colony on the original site of Carthage.  The  Brujah  fumed,  but  the  Nosferatu  of Northern Africa held little objection. Rising from the waters, they soon gained some of the benefits of Roman civilization your plumber has already mentioned: storm drains, public baths, even an aqueduct for clan Hostings. The original colony failed, but Julius Caesar later sent a group of landless citizens there in 29 B. C. By 26 B. C.,  the  Emperor  Augustus  centered  the  administration that watched over the province of Africa in Carthage.
+The Camarilla is quick to repeat what a tragedy this was for the Brujah of Northern Africa, but it wasn't much easier for the Nosferatu watchers in the waters. Fortunately, about 25 years later, the Roman Senate decided to construct a colony on the original site of Carthage.  The  Brujah  fumed,  but  the  Nosferatu  of Northern Africa held little objection. Rising from the waters, they soon gained some of the benefits of Roman civilization your plumber has already mentioned: storm drains, public baths, even an aqueduct for clan Hostings. The original colony failed, but Julius Caesar later sent a group of landless citizens there in 29 B.C. By 26 B.C.,  the  Emperor  Augustus  centered  the  administration that watched over the province of Africa in Carthage.
 
 Roman Cainites soon found what cunning advisors the Nosferatu of Northern Africa could be in regards to expanding their empire. We wanted more trade to support our African kingdoms, and for the next seven centuries, we had it with the help of Roman Kindred. Of course, the city passed through several different rulers over this time - the Vandals, the Byzantines and eventually the Arabs - but the maxim we repeat today was just as true then: The princes above ground may change, but the rulers of the underworld always remain.
 
@@ -640,7 +638,7 @@ Berber traders also ventured across oceans of sand, bringing goods south across 
 
 Of course, Nosferatu kings felt safest in the largest concentrations of kine, and Africa had many thriving kingdoms from which to feed. The greatest succeeded because of  their  merchant  caravans;  the  name  most  often used for the Nosferatu kings of Africa, the dyulamansa, is a term used to describe Muslim traders. We traded in merchandise; you trade in information; in this regard, we are not so different. African Gangrel felt at home along the trade routes, but in the cities of Africa, we were the strongest of the clans.
 
-While the European Nosferatu of the Middle Ages fed off the outcast and impoverished, the African Nosferatu stalked the streets of the greatest cities in the world. Tales  abound  of  their  wealth  and  grandeur.  In  East Africa, the Kingdom of Kilwa was described by Muslim scholars  as  one  of  the  most  beautiful  and  well-constructed in the world, exceeding even the glorious cities of India and China. Medieval Timbuktu was regaled as a place of great learning, where merchants made more money from the sale of books than any other merchandise. While  the  European  Cainites  considered  the  entire continent a land of chaos lacking in civility, Nosferatu emissaries spread tales of cities that remained hidden from the West. Broods bled the kine of Gao, Bilma, Axum, Dongola, Sijilmasa, Katanga, Khami, Kukwa and countless other cities inland that the Cainites of Europe never knew... And still do not know. As today, so was it then: The Nosferatu succeed wherever they remain unseen. This was our age of empires.
+While the European Nosferatu of the Middle Ages fed off the outcast and impoverished, the African Nosferatu stalked the streets of the greatest cities in the world. Tales  abound  of  their  wealth  and  grandeur.  In  East Africa, the Kingdom of Kilwa was described by Muslim scholars  as  one  of  the  most  beautiful  and  well-constructed in the world, exceeding even the glorious cities of India and China. Medieval Timbuktu was regaled as a place of great learning, where merchants made more money from the sale of books than any other merchandise. While  the  European  Cainites  considered  the  entire continent a land of chaos lacking in civility, Nosferatu emissaries spread tales of cities that remained hidden from the West. Broods bled the kine of Gao, Bilma, Axum, Dongola, Sijilmasa, Katanga, Khami, Kukwa and countless other cities inland that the Cainites of Europe never knew... and still do not know. As today, so was it then: The Nosferatu succeed wherever they remain unseen. This was our age of empires.
 
 ## aFriCan  empires
 
@@ -706,23 +704,23 @@ We didn't have the strength to resist the Camarilla or the Sabbat; we crawled de
 
 ## the  ChamBer  OF  hOrrOrs  is  ClOsing
 
-... in the end, above ground you must have the Haves, pursuing  pleasure  and  comfort  and  beauty,  and  below  ground the Have-nots; the Workers getting continually adapted to the conditions of their labour.
+...in the end, above ground you must have the Haves, pursuing  pleasure  and  comfort  and  beauty,  and  below  ground the Have-nots; the Workers getting continually adapted to the conditions of their labour.
 
 ## - H.G. Wells, The Time Machine
 
 By your standards, we were autarkis: unorganized vampires who refused  to  accede  to  the  European  invaders. Yet  I  wonder  what  would  have  happened  if  these  outcasts actually got organized? They failed to do so then, but what if they did so today? You say that the autarkis are welcome among the Nosferatu, but you do not act in this manner. The Nosferatu were powerless to oppose your two sects spreading into Africa, into Arabia, into South America, into the so-called New World. Our culture was never your culture, yet with the support of your allies above ground, you forced us to submit.
 
-My colleagues, you were astute to notice that our autarkis friend, who seemed to have such a hatred for The Book of Nod, has disappeared from the room. He is a coward. My friends, you are perhaps surprised to hear our African colleague regale us with stories of kingdoms the Nosferatu once supported... And the Camarilla destroyed. My enemies, you can tell I carry little respect for the two sects you so religiously uphold, and you are perhaps surprised to see a third autarkis in your midst. You may be wondering: Are there more here tonight?
+My colleagues, you were astute to notice that our autarkis friend, who seemed to have such a hatred for The Book of Nod, has disappeared from the room. He is a coward. My friends, you are perhaps surprised to hear our African colleague regale us with stories of kingdoms the Nosferatu once supported... and the Camarilla destroyed. My enemies, you can tell I carry little respect for the two sects you so religiously uphold, and you are perhaps surprised to see a third autarkis in your midst. You may be wondering: Are there more here tonight?
 
 Listen  very  closely  to  the  sounds  in  the  tunnels surrounding you.
 
-We have been hiding  throughout  the  world.  We  have been, and we shall be again. You fear the Nictuku, but I tell you: You should fear us more. Or perhaps... We have already begun to work with them. Listen to the groaning of the ceiling.  There!  Can  you  hear  the  supports  giving  way?
+We have been hiding  throughout  the  world.  We  have been, and we shall be again. You fear the Nictuku, but I tell you: You should fear us more. Or perhaps... we have already begun to work with them. Listen to the groaning of the ceiling.  There!  Can  you  hear  the  supports  giving  way?
 
 <!-- image -->
 
 You feel the urge to flee, perhaps, yes? Do not bother. Do not bother triggering the explosive charges you have set up along the tunnels. They have already been disarmed. Do not bother running. You are already surrounded.
 
-and remember. The legends of our clan... All the legends of our clan... Must live on, passed from sire to childe. Tell the story of this warren, and remember.…
+and remember. The legends of our clan... all the legends of our clan... must live on, passed from sire to childe. Tell the story of this warren, and remember.…
 
 Our evening of stories has come to an end. I hope that you are swift, for at least one of you must survive
 
@@ -738,7 +736,7 @@ Clanbook: nosferatu
 
 Here's a little experiment: Go out into the woods, far from any trace of human habitation, and look under a rock. Once you're far away from the sounds of traffic and the sight of telephone lines, peek under a log, or, even better, flip over a dead animal with a stick. The little wriggly things you'll find underneath will tend to go in one of two directions: up or down. Disturbing little nasties squirm up into the light, but the truly horrid things turn around and dig deeper.
 
-Uncovering the truth behind Nosferatu society is rather like picking up that rock. Other vampires have a very distorted interpretation of the clan. They've seen what oozes up to the surface, wriggling into their convocations, ritae and observances. They've witnessed what rises from the sewers to skulk in the shadows of the nearest nightclub or the prince's audience chamber. The Nosferatu, however, know that there are plenty of monstrous abominations that never rise to the surface. To  track  them  down,  we'll  have  to  turn  away  from what you've been watching with disgust so far... And dig a little deeper.
+Uncovering the truth behind Nosferatu society is rather like picking up that rock. Other vampires have a very distorted interpretation of the clan. They've seen what oozes up to the surface, wriggling into their convocations, ritae and observances. They've witnessed what rises from the sewers to skulk in the shadows of the nearest nightclub or the prince's audience chamber. The Nosferatu, however, know that there are plenty of monstrous abominations that never rise to the surface. To  track  them  down,  we'll  have  to  turn  away  from what you've been watching with disgust so far... and dig a little deeper.
 
 Let the other vampires play at being almost human. Sabbat Creeps, Camarilla Sewer Rats, those stinky guys over in the corner - no matter what you call them, the Nosferatu have distanced themselves as far as pos- sible from the human race. Other vampires can walk among mortals freely at night, pretending to remain within human society, but the Nosferatu exist further outside of it than any other clan. Although they must occasionally disguise themselves as humans to survive, Nosferatu have no need to emulate human culture. Instead,  they've  cultivated  their  own  culture,  one  uniquely alien. It's spread like a fungus through the cities of the world, and like any really hardy mold, it thrives best where it can't be seen.
 
@@ -826,7 +824,7 @@ Vain, petty humans usually snap under the strain of  the  metamorphosis,  going 
 
 ## Fetid little Creatures
 
-Not every creature corrupted with Nosferatu blood survives the transformation that results. Some victims endure such severe changes that they cannot even pretend to be vaguely human afterward. The skeleton may erode; the eyes may wither; the arms and legs may warp to such an extreme that the resultant horror cannot even stand. As one might suspect, such abortive attempts at the Embrace are rarely introduced to the local Camarilla prince. Miserable wretches who shouldn't survive the Embrace are usually destroyed by their creators... Usually, not always. Maternal instincts and fatherly love have been known  to  illicit  sympathy  for  even  the  most abominable childer.
+Not every creature corrupted with Nosferatu blood survives the transformation that results. Some victims endure such severe changes that they cannot even pretend to be vaguely human afterward. The skeleton may erode; the eyes may wither; the arms and legs may warp to such an extreme that the resultant horror cannot even stand. As one might suspect, such abortive attempts at the Embrace are rarely introduced to the local Camarilla prince. Miserable wretches who shouldn't survive the Embrace are usually destroyed by their creators... usually, not always. Maternal instincts and fatherly love have been known  to  illicit  sympathy  for  even  the  most abominable childer.
 
 Freakishly fetid little creatures are sometimes nursed on blood and kept in  a  state  of  eternal  death, if only to wallow in the filth of the local sewers. Such undead abortions are rarely given names, though they may find a home in a Canopic jar, a pool of  bloodied  water  or  a  comfortable  septic  tank. It is common for them to die within the first few weeks after the Embrace, but the unfortunate few that survive remain hidden, unnoticed by even the rest of vampiric society.
 
@@ -890,19 +888,19 @@ only to feed and watching the world above through the dark-adapted eyes of a tho
 
 ## sKins
 
-The opposite of Bestials, these Nosferatu prefer the Discipline  of  Obfuscate  and  all  the  supernatural  disguises that come with it. Their immortality is based on a joke that never gets old: Humans are ugly on the inside and attractive on the outside, but there are worse monsters stalking among them in human form, mocking them in their midst. Nosferatu who specialize in impersonating humans are known among the clan as Skins. After developing an addiction to the Obfuscate Discipline, they become consummate actors, blending thoroughly with humans and using their own appearances against them. This places them on an even footing with other humans. Human monsters walk amongst mortals all the time... Some are just better at disguising themselves than others.
+The opposite of Bestials, these Nosferatu prefer the Discipline  of  Obfuscate  and  all  the  supernatural  disguises that come with it. Their immortality is based on a joke that never gets old: Humans are ugly on the inside and attractive on the outside, but there are worse monsters stalking among them in human form, mocking them in their midst. Nosferatu who specialize in impersonating humans are known among the clan as Skins. After developing an addiction to the Obfuscate Discipline, they become consummate actors, blending thoroughly with humans and using their own appearances against them. This places them on an even footing with other humans. Human monsters walk amongst mortals all the time... some are just better at disguising themselves than others.
 
 While such creatures may appear on the surface to be the most humane, they're actually in the depths of denial, desperately trying to figure what they really are. Some cannot remember who they ever were. Many manufacture elaborate identities, impersonating elders, ducti,  primogen  or  princes.  Such  elaborate  façades are doomed to fail - it's only a matter of time before someone sees through the disguise and is horrified by the face beneath the flesh. Then again, many vampires are known for their elaborate self-destructive schemes, deliberating destroying their unhappy existences with epic, tragic failures. If a Sewer Rat tries to use his supernatural powers to overcome Nosferatu's curse, after all, he deserves what he gets.
 
 Elder  Nosferatu  who  can  'spot  the  Skins'  may recruit them as expendable allies, spies who get a little too wrapped up in the roles they play. Neonates often go through a phase where abusing Obfuscate is a common practice; they eventually learn to use it sparingly (or not at all). Those who never grow out of this phase slowly go insane, unable to differentiate their alternate personas from their true identity. In this way, no matter how pretty they make their illusory faces, Skins are some of the most hideous Nosferatu of all.
 
-One of the common variants on this theme is the neonate vampire who prefers to remain hidden as long as  possible,  fooling  himself  into  thinking  he's  'invisible.' Like the Martyr, he tries to develop an objective view of human culture; like the Leatherface, he gets off on lurking near potential victims; but more than any other similarity, like any other Skin, he's assured that staying disguised in plain sight will help him survive. It will... But only so far. Obfuscated Nosferatu neonates forget that  an  observant  vampire  has  ways  to  see  through such disguises. Childer who succumb too readily to the easy way out - depending on Obfuscate all the time - eventually get caught one time to many, sometimes with fatal results.
+One of the common variants on this theme is the neonate vampire who prefers to remain hidden as long as  possible,  fooling  himself  into  thinking  he's  'invisible.' Like the Martyr, he tries to develop an objective view of human culture; like the Leatherface, he gets off on lurking near potential victims; but more than any other similarity, like any other Skin, he's assured that staying disguised in plain sight will help him survive. It will... but only so far. Obfuscated Nosferatu neonates forget that  an  observant  vampire  has  ways  to  see  through such disguises. Childer who succumb too readily to the easy way out - depending on Obfuscate all the time - eventually get caught one time to many, sometimes with fatal results.
 
 While 'invisible Skins' are particularly adept at gathering  information  -  particularly  for  gathering whispered secrets from private conversations - they are just as expendable as fools who are too eager to don the Mask of a Thousand Faces. Neonates get a rush from being invisible, but the eldest Nosferatu learn to accept their curse, spending as much time as possible in monstrous forms. By eventually 'shedding their skin,' Nosferatu learn to be proud of the curse their founding Antediluvian granted them.
 
 ## lOremasters
 
-The occult world is filled  with  mysteries  and  secrets. Few individuals can keep track of them all... Save, perhaps, learned masters of lore. An average Nosferatu can gather a few choice tidbits about whom the prince has been bleeding lately or which junk bond appeals a little too much to the Ventrue primogen. Gathering such information on a routine basis appeals to neonates, but elders tire of wading through such muck over and over again. There's a much larger world outside the halls of the prince's meeting chamber, and Loremasters spend eternity studying as much of it as possible.
+The occult world is filled  with  mysteries  and  secrets. Few individuals can keep track of them all... save, perhaps, learned masters of lore. An average Nosferatu can gather a few choice tidbits about whom the prince has been bleeding lately or which junk bond appeals a little too much to the Ventrue primogen. Gathering such information on a routine basis appeals to neonates, but elders tire of wading through such muck over and over again. There's a much larger world outside the halls of the prince's meeting chamber, and Loremasters spend eternity studying as much of it as possible.
 
 Other supernatural societies often fascinate Loremasters far more than their own. While each clan has vampires  claiming  to  claim  this  coveted  title,  Tremere  and Nosferatu are  often  the  most  suited  to  it.  Elders  fascinated by occult lore commonly recruit neonate coteries to help them research such subjects firsthand.
 
@@ -916,7 +914,7 @@ should never take anything a learned master of lore states at face value; only a
 
 ## nOsFeratu  Culture
 
-Nosferatu culture spreads throughout a city like a disease, breeding in any place that's moist and damp. It's attracted to any dank, dark place where foul things flourish. Monstrous vampires skulk into sewers, trash heaps, abandoned buildings and hellish neighborhoods, drawn to realms that reflect their foul temperament. Since vampires don't need to breathe, Nosferatu can also hide under large bodies of water... Or other fluids. They live in  a  world  of  their  own,  abandoning  Camarilla or Sabbat society from time to time to stew and brood in their own fetid aroma.
+Nosferatu culture spreads throughout a city like a disease, breeding in any place that's moist and damp. It's attracted to any dank, dark place where foul things flourish. Monstrous vampires skulk into sewers, trash heaps, abandoned buildings and hellish neighborhoods, drawn to realms that reflect their foul temperament. Since vampires don't need to breathe, Nosferatu can also hide under large bodies of water... or other fluids. They live in  a  world  of  their  own,  abandoning  Camarilla or Sabbat society from time to time to stew and brood in their own fetid aroma.
 
 Vampires of  other  clans  may  think  that  the  Nosferatu have been forced to live in such horrific conditions because the other Cainites and Kindred have forced them out of the better parts of town. Untrue. Contempt, like respect, is a two-way street. Nosferatu are often just as disgusted with vampiric society as the local Kindred are  with  them.  Arrogant  princes,  tedious  Elysia  and treacherous  politics  -  why  bother?  The  Nosferatu have their own domains, their own politics and their own culture. While many neonates spend a great deal of time in Camarilla society, they also have access to another world hidden beneath the cities of mankind.
 
@@ -958,7 +956,7 @@ V.&lt;6bb·2000
 
 If a city is large enough to support more than one Nosferatu,  politics  creep  in  like  mold  on  week-old cheese.  In  the  Camarilla,  the  Nosferatu  don't  hold formal gatherings to discuss their political diversions. Instead, they gather in loosely knit families known as broods. Because they're shunned by many other vampires, Nosferatu prefer the company of their own kind. Survival is also difficult for them - maintaining sewer systems, abandoned buildings and other hiding places often requires the assistance and influence of several vampires. Broods tend to form around a common goal, whether that's expanding a branch of the sewers, exploiting the humans of a local slum, building a killer computer network or thoroughly scrounging the city dump. No matter how you disguise it, Nosferatu society cannot survive without the help of its broods.
 
-Interacting with other Nosferatu is never forced. Much to the delight of the other Camarilla clans, Clan Nosferatu does not hold worldwide convocations, national meetings or regional assimilations. Instead, they keep their business up close and personal... And far, far downwind from the rest of the sect. One brood's emissary may travel far to attend another brood's gathering, but he doesn't need to make a massive masquerade ball out of the whole event. Instead, information is carried from one brood to another like cancer spreading from cell to cell. Why gather all the Nosferatu in one place? The smell would be unbearable.
+Interacting with other Nosferatu is never forced. Much to the delight of the other Camarilla clans, Clan Nosferatu does not hold worldwide convocations, national meetings or regional assimilations. Instead, they keep their business up close and personal... and far, far downwind from the rest of the sect. One brood's emissary may travel far to attend another brood's gathering, but he doesn't need to make a massive masquerade ball out of the whole event. Instead, information is carried from one brood to another like cancer spreading from cell to cell. Why gather all the Nosferatu in one place? The smell would be unbearable.
 
 Of course, no Nosferatu is  ever  under  any  obligation to join a brood or even interact with the nearest one. If a Sewer Rat vastly prefers the company of his coterie to Nosferatu gatherings, he has the right to make that choice. If he wants to avoid other vampires entirely, the other skulkers must respect his wishes. As long as this lone Rat can gather all the important information he needs on his own, there's no real need for him to attend regular Camarilla functions. In addition, Nosferatu are remarkably apathetic about  gaining  'prestige'  by  making regular appearances at Camarilla events. Simply put, they have no real need to 'see and be seen.' If you are too ashamed of who you are to interact with others, the rest of Clan Nosferatu can certainly empathize.
 
@@ -966,7 +964,7 @@ A Nosferatu who does choose to ally with a brood places himself at the disposal 
 
 Pooling resources can keep all the Nosferatu in a city from being left out to dry. Thanks to advances in technology, members of a brood can also actually decide never to see one another, but instead remain in 'virtual' contact. Cell phones are a godsend to the Nosferatu; it's easier to have a ghoul hand one to a contact above ground than risk being seen by mortals. While tunnels have a bad habit of interfering with such conversations, a few resourceful Nosferatu have figured out the value of scoring influence in the communications industry.
 
-Nosferatu hackers assembling in chat rooms, sewer crews constantly patrolling and maintaining their domains, slumlords exploiting the poor - no matter what tactic unites the Nosferatu of a brood, the same social mechanisms apply. Broods endure like dysfunctional little  families,  keeping  gangs  of  Nosferatu  allied  no matter how repulsive their relations may be. While they may bicker and squabble, the vampires of a brood need each other... If only to practice disgusting one another.
+Nosferatu hackers assembling in chat rooms, sewer crews constantly patrolling and maintaining their domains, slumlords exploiting the poor - no matter what tactic unites the Nosferatu of a brood, the same social mechanisms apply. Broods endure like dysfunctional little  families,  keeping  gangs  of  Nosferatu  allied  no matter how repulsive their relations may be. While they may bicker and squabble, the vampires of a brood need each other... if only to practice disgusting one another.
 
 ## COteries and BrOOds
 
@@ -1010,9 +1008,9 @@ Unlike most of Camarilla society, Nosferatu elders don't lord over neonates just
 
 To outsiders, the vampires of Clan Nosferatu can be divided into three factions: Camarilla Sewer Rats, Sabbat Creeps and autarkis. The Sewer Rats are Nosferatu who formally introduce themselves to the prince of a Camarilla  city  and  acknowledge  his  authority.  The  Creeps are Nosferatu who have undergone Creation Rites and formally serve the Sword of Caine. Autarkis vampires, of course,  reject  any  political  affiliation  and  don't  really  refer to themselves as any sort of gang, political faction, social club or philosophical organization. This very simplified view of Nosferatu society pleases most other vampires, who often break down all sorts of supernatural creatures into nice, broad categories.
 
-It also pleases most Nosferatu, because... It is a lie . It is an utter and complete fabrication that misdirects anyone outside their  society  from  understanding  how  the Nosferatu really work. Nosferatu are first and foremost individuals; political affiliation is just another delusion of  the  surface  world.  Generally  speaking,  Nosferatu  care less about distinctions between vampiric sects than any other group of Kindred. When Nosferatu interact with other vampires, they nearly always request an exchange of information.
+It also pleases most Nosferatu, because... it is a lie . It is an utter and complete fabrication that misdirects anyone outside their  society  from  understanding  how  the Nosferatu really work. Nosferatu are first and foremost individuals; political affiliation is just another delusion of  the  surface  world.  Generally  speaking,  Nosferatu  care less about distinctions between vampiric sects than any other group of Kindred. When Nosferatu interact with other vampires, they nearly always request an exchange of information.
 
-No dictum, tradition or treaty forbids Nosferatu of different sects from talking to each other. If the princes and archbishops are offended,  then  such  exchanges  must be conducted in secret... And, in fact, they are, regularly, between emissaries from different clutches, broods and Hostings. Of course, such exchanges involve risk. While Camarilla and Sabbat Nosferatu endure a tenuous truce when exchanging information, individual  Nosferatu  may
+No dictum, tradition or treaty forbids Nosferatu of different sects from talking to each other. If the princes and archbishops are offended,  then  such  exchanges  must be conducted in secret... and, in fact, they are, regularly, between emissaries from different clutches, broods and Hostings. Of course, such exchanges involve risk. While Camarilla and Sabbat Nosferatu endure a tenuous truce when exchanging information, individual  Nosferatu  may
 
 <!-- image -->
 
@@ -1058,7 +1056,7 @@ Because  of  their  talents  for  espionage,  subterfuge and misdirection, a Nos
 
 <!-- image -->
 
-the spy is certain to be rewarded... Or pass on what's he's learned to the next group of rebels. If the rebellion fails, he may feel free to scurry off to the next domain, asking for sanctuary from another brood or at another Hosting.
+the spy is certain to be rewarded... or pass on what's he's learned to the next group of rebels. If the rebellion fails, he may feel free to scurry off to the next domain, asking for sanctuary from another brood or at another Hosting.
 
 ## the wOrld aBOve
 
@@ -1074,7 +1072,7 @@ If big cities aren't to one's liking, industrial wastelands  outside  the  city 
 
 ## nOsFeratu ghOuls
 
-Camarilla  vampires  never  tire  of  boasting  that they 'control' human society. Nosferatu have no need to indulge in such arrogance. Instead, they carefully, swiftly and silently take control of the hidden power in a city, including the unseen servants who keep it running. Nosferatu routinely create ghouls to help them infiltrate human cities further... And exploit them for their own benefit.
+Camarilla  vampires  never  tire  of  boasting  that they 'control' human society. Nosferatu have no need to indulge in such arrogance. Instead, they carefully, swiftly and silently take control of the hidden power in a city, including the unseen servants who keep it running. Nosferatu routinely create ghouls to help them infiltrate human cities further... and exploit them for their own benefit.
 
 Sewer Rats ignore human pawns in obvious places of power. Let the respected vampires muck about with mortal politics. Sometimes, 10 well-chosen bureaucrats or aldermen can achieve far more than the mayor ever could. Political celebrities come and go, but well-placed ghouls can stay involved in city politics for years and years. Corporate employees on the fast track to success may work for a company for a few years, but a janitor can gain access to the same building for a lifetime.
 
@@ -1122,7 +1120,7 @@ The local Nosferatu like to keep this area as atmospheric  and  aromatic  as  po
 
 The  Antechamber  is  designed  with  maximum paranoia, discomfort and confusion in mind. Tunnels are choked with sewage, filth and garbage, and visitors must often stoop, trudge or crawl on all fours to reach the inner sanctum. Masters of animals like to keep hordes of rats, roaches, bugs, slugs and other vermin nearby to entertain their guests. Petitioners who bitch and moan get led through a few more dead ends or are left to wait alone in the darkest, foulest areas of the labyrinth. Merciful Nosferatu steer their visitors away from the really lethal traps; vampires who are obviously trying to exploit their sewer-dwelling brethren don't get this privilege....
 
-By the time visitors reach the center of the Antechamber, where their requests will be heard, they are physically disoriented and psychologically exhausted. The rare visitor who can endure this journey without complaint earns the respect of the Nosferatu. The analogy  between  the  labyrinthine  maze  surrounding  the Antechamber and the Byzantine politics practiced in the world above is obvious... Especially to those who must suffer during their visits to either world.
+By the time visitors reach the center of the Antechamber, where their requests will be heard, they are physically disoriented and psychologically exhausted. The rare visitor who can endure this journey without complaint earns the respect of the Nosferatu. The analogy  between  the  labyrinthine  maze  surrounding  the Antechamber and the Byzantine politics practiced in the world above is obvious... especially to those who must suffer during their visits to either world.
 
 ## the ChamBer OF hOrrOrs
 
@@ -1130,7 +1128,7 @@ Any thriving warren also needs an  area  large  enough to hold all the freaks, C
 
 The decor of  the  Chamber  of  Horrors  usually  reflects the local brood's attitude to the outside world. Humane Kindred in prosperous cities maintain a chamber that makes their existence a little more pleasant. Ornate tapestries showing the histories of local Kindred line
 
-. Qa0&gt;
+. qa0&gt;
 
 <!-- image -->
 
@@ -1188,7 +1186,7 @@ Control Challenge (lose on ties). Should he lose or tie, he is immediately overc
 
 ## hOrrid diversiOns
 
-Immortality is the greatest  blessing  a  sire  can  bestow upon his childer... And the worst possible curse an elder can endure. Staying 'forever young' may be appealing to  some  vampires,  but  for  Nosferatu,  the  gift  comes with an obvious drawback. When you spent eternity listening to the dim echoes of the vibrant world above, existence can be rather bleak. Fortunately, Nosferatu have no end of horrid diversions to distract them and occupy their time on this Earth (or beneath the earth, as the case may be).
+Immortality is the greatest  blessing  a  sire  can  bestow upon his childer... and the worst possible curse an elder can endure. Staying 'forever young' may be appealing to  some  vampires,  but  for  Nosferatu,  the  gift  comes with an obvious drawback. When you spent eternity listening to the dim echoes of the vibrant world above, existence can be rather bleak. Fortunately, Nosferatu have no end of horrid diversions to distract them and occupy their time on this Earth (or beneath the earth, as the case may be).
 
 ## inFOrmatiOn netwOrKs
 
@@ -1246,7 +1244,7 @@ Nosferatu art  falls  into  two  extremes:  It  either  thrives on shock value, 
 
 <!-- image -->
 
-the artist doesn't necessarily expect his work to be seen. In fact, many of the greatest works of Nosferatu art have been hidden in chambers of absolute darkness, never to be viewed... Until the right vampire walks into a place where he shouldn't be. Make of this moral what you will.
+the artist doesn't necessarily expect his work to be seen. In fact, many of the greatest works of Nosferatu art have been hidden in chambers of absolute darkness, never to be viewed... until the right vampire walks into a place where he shouldn't be. Make of this moral what you will.
 
 One of the most common media of Nosferatu art is sculpture, particularly since Nosferatu artists have no shortage of raw materials. With the Potence Discipline, smashing, bending and chiseling out massive works of art  is  surprisingly  easy.  Some  of  the  most  isolated  tunnels of the sewers serve as an ideal 'gallery.' One popular approach is lining underground tunnels with mile after mile of spiraling tubes, electrical wires and sheet metal. Such works not only have aesthetic value but also serve as  psychological warfare: An outsider wandering too deep within a city sewer may be terrified to discover how elaborate such works really are.
 
@@ -1262,7 +1260,7 @@ It is rumored that in the Kingdom of Manhattan, Sabbat Nosferatu kidnap human vi
 
 ## interview with a vampire
 
-Cynicism and pessimism are  essential  to  a  Nosferatu's survival. Most vampires of this clan don't try to delude themselves about their clan or their place in the world. They don't explain away their atrocities  with  noble sentiments; because they have to accept themselves for what they really are, they must face reality no matter how ugly it gets. And because Nosferatu spend so much time removed from many Camarilla activities, whether by circumstance, social ostracism or preference, they also hold a rather objective view of the failings of other clans. We don't need to tell you any more. It's better to let some of the Sewer Rats tell you themselves... Or maybe even one of their victims....
+Cynicism and pessimism are  essential  to  a  Nosferatu's survival. Most vampires of this clan don't try to delude themselves about their clan or their place in the world. They don't explain away their atrocities  with  noble sentiments; because they have to accept themselves for what they really are, they must face reality no matter how ugly it gets. And because Nosferatu spend so much time removed from many Camarilla activities, whether by circumstance, social ostracism or preference, they also hold a rather objective view of the failings of other clans. We don't need to tell you any more. It's better to let some of the Sewer Rats tell you themselves... or maybe even one of their victims....
 
 ## New Orleans, 1999
 
@@ -1310,7 +1308,7 @@ follows mutates into a raspy, grating sound. As his façade is dropped, I see th
 
 ## tremere
 
-'The Tremere are known as the Warlocks, since they study  the  dark  arts.  They're  creepy  and  they're  kooky... Mysterious and spooky.... And the most doomed vampires on Earth. They're all bound together through a blood curse, spending all eternity struggling against each other for power and authority within their clan. While their sorcery makes 'em strong, it's not worth the price of being trapped in this clan
+'The Tremere are known as the Warlocks, since they study  the  dark  arts.  They're  creepy  and  they're  kooky... mysterious and spooky.... and the most doomed vampires on Earth. They're all bound together through a blood curse, spending all eternity struggling against each other for power and authority within their clan. While their sorcery makes 'em strong, it's not worth the price of being trapped in this clan
 
 <!-- image -->
 
@@ -1400,7 +1398,7 @@ Rats!: Colonies  of  scurrying  rodents  scamper throughout the  city,  feasting
 
 <!-- image -->
 
-consist of up to 60 rodents... If you see one coming your way, perhaps you should take another sewer tunnel. Rat stats are also in Vampire: the Masquerade .
+consist of up to 60 rodents... if you see one coming your way, perhaps you should take another sewer tunnel. Rat stats are also in Vampire: the Masquerade .
 
 ## a Festering  heap OF  game  meChaniCs
 
@@ -1682,11 +1680,11 @@ V.1obb ~200
 
 <!-- image -->
 
-A picture of a local politician performing unspeakable acts  with  an  unknown  prostitute,  a  pornographic  picture of a local celebrity or an incriminating snapshot of an ordinary person committing an extraordinary crime can be worth a fortune... Even if it's not real.
+A picture of a local politician performing unspeakable acts  with  an  unknown  prostitute,  a  pornographic  picture of a local celebrity or an incriminating snapshot of an ordinary person committing an extraordinary crime can be worth a fortune... even if it's not real.
 
 ## pOtenCe
 
-Prowess, might, vigor, intensity, puissance - no matter what name you describe it with, Potence is an impressive  Discipline.  Too  many  neonates  think  of it as a simple, brutal combat ability, but it is actually much more. It's actually a sophisticated, complex and unpredictable combat ability... Coupled with its uses in Nosferatu art and architecture.
+Prowess, might, vigor, intensity, puissance - no matter what name you describe it with, Potence is an impressive  Discipline.  Too  many  neonates  think  of it as a simple, brutal combat ability, but it is actually much more. It's actually a sophisticated, complex and unpredictable combat ability... coupled with its uses in Nosferatu art and architecture.
 
 Construction: Expanding a city's  sewer  system  takes more than political influence and faithful ghouls.  When making improvements to the labyrinthine underworld beneath cities, Nosferatu often use Potence to assist the ghouls with the most difficult tasks. Tunneling through solid rock, moving chunks of rock and concrete or just collapsing a tunnel with a powerful blow are also useful skills in Nosferatu construction.
 
@@ -1727,9 +1725,9 @@ not every vampire has it. Few Sewer Rats develop a talent for the Dominate or Pr
 
 Ghouled Slaves: Blood-addicted vitae slaves will do anything to sate the desires of their masters. Some ghouls show their devotion by bringing an occasional meal. By luring the hapless prey into a secretive place, they provide an easy opportunity for a vampire to feed. Why stalk up on prey unseen? The look they get in their eyes as they're about get drained by a hideous monster is as enjoyable as the act of feeding itself.
 
-Blood Dolls: The process of creating a blood doll is fairly simple. Capture a human, ghoul him, and addict him to your blood. Do whatever it takes to keep him around long enough, but nurture his blood bond with care. Once you've won his heart and soul with your precious vitae, you've produced a mortal who will allow you to feed from him regularly. Granted, Nosferatu blood dolls become physically warped and degenerate over time, but some humans will sacrifice anything for love... Even their freedom.
+Blood Dolls: The process of creating a blood doll is fairly simple. Capture a human, ghoul him, and addict him to your blood. Do whatever it takes to keep him around long enough, but nurture his blood bond with care. Once you've won his heart and soul with your precious vitae, you've produced a mortal who will allow you to feed from him regularly. Granted, Nosferatu blood dolls become physically warped and degenerate over time, but some humans will sacrifice anything for love... even their freedom.
 
-Quell the Beast: This Animalism Discipline works on any sentient creature, including humans. A bestial Nosferatu can decide to repeatedly stalk the same alleyway or street corner, lulling victims into a pacified trance. Remember the scene in a horror movie where a curious teenager wanders into a place he obviously shouldn't go? No sane person would every venture into the basement of a deserted house or investigate a sewer grate thrown suspiciously wide open... Unless they got a little psychic 'push,' perhaps. Repeated exposure to Quell the Beast can actually be addictive. Victims keep coming back to the  same  deserted  alleyway  over  and  over, returning with hazy memories of the ecstasy of the Kiss.
+Quell the Beast: This Animalism Discipline works on any sentient creature, including humans. A bestial Nosferatu can decide to repeatedly stalk the same alleyway or street corner, lulling victims into a pacified trance. Remember the scene in a horror movie where a curious teenager wanders into a place he obviously shouldn't go? No sane person would every venture into the basement of a deserted house or investigate a sewer grate thrown suspiciously wide open... unless they got a little psychic 'push,' perhaps. Repeated exposure to Quell the Beast can actually be addictive. Victims keep coming back to the  same  deserted  alleyway  over  and  over, returning with hazy memories of the ecstasy of the Kiss.
 
 Sandmen: Elders scorn the thought of feeding off sleeping prey. It's too damn simple! A stealthy vampire, however, may come to prefer the thrill of sneaking into a victim's house at night. Legends of vampires needing to be invited into someone's home are a perfect bit of misinformation. Just in case, make sure you plan your escape route carefully.  Not  every  home  has  a  convenient sewer grate nearby.
 
@@ -1745,7 +1743,7 @@ Clanbook: nosferatu
 
 he tit
 
-S+f, o"
+S+f,o"
 
 <!-- image -->
 
@@ -1991,7 +1989,7 @@ Quote: Yes,  sir...  No,  sir...  Well,  sir,  a  stake  through  the heart soun
 
 Prelude: You never amounted to much in life. While you had a talent for diplomacy and demonstrated fabulous 'people  skills,'  you  also  had  a  bad  habit  of  propping  up  other people's authority. You never had the drive to become a charismatic  leader.  You  were  content  to  be  a  toady,  a  flunky, the man behind the scenes who drew a steady paycheck and let others seize his share of fame and fortune.
 
-You must have done something right,  though,  because you were recruited  into  the  world  of  the  undead.  Thanks  to the Embrace, you're immortal, potent and supernatural... And nothing much has changed. You've started cowering behind a 'vampire prince,' giving him advice on all sorts of bizarre night-to-night events. You also act as a sort of 'manager' for other Nosferatu, implementing the prince's policies. The prince takes the credit for your ideas, but somehow, you feel safer standing behind him than in front of him. After all, the princes of the world come and go, but toadying yes-men never seem to go out of style.
+You must have done something right,  though,  because you were recruited  into  the  world  of  the  undead.  Thanks  to the Embrace, you're immortal, potent and supernatural... and nothing much has changed. You've started cowering behind a 'vampire prince,' giving him advice on all sorts of bizarre night-to-night events. You also act as a sort of 'manager' for other Nosferatu, implementing the prince's policies. The prince takes the credit for your ideas, but somehow, you feel safer standing behind him than in front of him. After all, the princes of the world come and go, but toadying yes-men never seem to go out of style.
 
 Concept: You  have  the  prince's  ear,  and  for  some  reason you  cannot  fathom,  he  actually  trusts  you.  Occasionally,  he confides in you. Maybe it's because you have ties to others
 
@@ -1999,7 +1997,7 @@ Concept: You  have  the  prince's  ear,  and  for  some  reason you  cannot  fat
 
 of your kind, skulking creatures even more hideous than you. They keep you far more informed than the egotistical prince you prop up, and in exchange, you bring them choice tidbits of news from the prince's chambers.
 
-Roleplaying  Hints: Why take risks by  being  the  man in charge? Ride on his coattails, and exploit the situation for all you can get. Hide behind a politician with power and promise, convince him that he can't get by without your skills, bow and scrape like a stooge, and stick by him to the end... At least, until he fails and you have to shop your skills  to  someone  else.  Your  survival  depends  on  your chosen victim's success. As long as you stay on the good side of people in power, no doubt you'll be safe. Just make sure your  tongue  doesn't  get  too black when you're licking the prince's boots....
+Roleplaying  Hints: Why take risks by  being  the  man in charge? Ride on his coattails, and exploit the situation for all you can get. Hide behind a politician with power and promise, convince him that he can't get by without your skills, bow and scrape like a stooge, and stick by him to the end... at least, until he fails and you have to shop your skills  to  someone  else.  Your  survival  depends  on  your chosen victim's success. As long as you stay on the good side of people in power, no doubt you'll be safe. Just make sure your  tongue  doesn't  get  too black when you're licking the prince's boots....
 
 Equipment: cell phone, Brioni business suit,  laptop  computer, three handkerchiefs (for mopping up the pus  you  ooze  from time to time), a tin of shoe polish
 
@@ -2799,7 +2797,7 @@ ooo●.
 
 ## hive master
 
-Quote: ZZZZZZzzzzz!  (pretty!  Pretty!  Pretty!) ZzzzzzZZZZZZZ!
+Quote: ZZZZZZzzzzz!  (pretty!  pretty!  pretty!) ZzzzzzZZZZZZZ!
 
 Prelude: The Embrace shattered your mind, erasing the memory of your mortal life. You skulked down into the sewers and stayed there. Now you wait at the center of a swarm, sending out your beasts to gather everything you need. Instead of learning to disguise yourself as a mortal or hide from sight, you found companionship in the other creatures of the underworld. Unfortunately, you have great trouble interacting with other societies, whether mortal, supernatural or vampiric, so when you do, you prefer to  use  your  animal  allies  as  intermediaries.
 
@@ -3009,13 +3007,13 @@ Eventually, you moved  to  another city,  hoping  to  escape from  the  tangle  
 
 <!-- image -->
 
-your life, but lying to people gave you an adrenaline rush unlike anything else.  Someone must have been watching over your shoulder  because  he  decided  to  curse  you  with  a  true  identity  that was almost impossible to escape. Now you're an unspeakably hideous monster, but because you can impersonate others with your supernatural abilities, you've finally become a consummate actor. You'll be pursuing a wide variety of roles until the end of time... Or until you get caught.
+your life, but lying to people gave you an adrenaline rush unlike anything else.  Someone must have been watching over your shoulder  because  he  decided  to  curse  you  with  a  true  identity  that was almost impossible to escape. Now you're an unspeakably hideous monster, but because you can impersonate others with your supernatural abilities, you've finally become a consummate actor. You'll be pursuing a wide variety of roles until the end of time... or until you get caught.
 
 Concept: You're  a  scam  artist  skilled  at  impersonation. Creeping around while invisible will eventually get other neonates in trouble, but you choose to hide in plain sight. You lead a double life, mingling with the vampires of one society while secretly  informing  another.  You  are  a  vital  piece  of  your  conspiracy's information network. Whatever you do, don't get caught.
 
-Roleplaying Hints: Your coterie, pack or brood will probably want you to impersonate a wide variety of mortals. Make the most of this. Use your alternate personas to spread chaos and confusion, as much as you can get away with. You can do an amazing imitation of the prince, the leader of a local gang, an up-and-coming politician - just about anything with enough preparation. As long as you don't have to be yourself, you are Everyman... Or, at least, every man's nightmare.
+Roleplaying Hints: Your coterie, pack or brood will probably want you to impersonate a wide variety of mortals. Make the most of this. Use your alternate personas to spread chaos and confusion, as much as you can get away with. You can do an amazing imitation of the prince, the leader of a local gang, an up-and-coming politician - just about anything with enough preparation. As long as you don't have to be yourself, you are Everyman... or, at least, every man's nightmare.
 
-Equipment: Your haven includes a trunk filled with various props for your favorite roles. It's also got a big album of photos from your previous life... And you've cut your face out of every one.
+Equipment: Your haven includes a trunk filled with various props for your favorite roles. It's also got a big album of photos from your previous life... and you've cut your face out of every one.
 
 Chapter three: nosferatu CharaCters
 
@@ -3189,7 +3187,7 @@ PATH/HumANITY
 
 00.
 
-. Patient
+.Patient
 
 Stealth Animal Ken
 
@@ -3235,7 +3233,7 @@ Politics
 
 Quote: Our clan must ally to ensure our survival; the needs of the brood must come first!
 
-Prelude: Before  your  Embrace,  you  were  insecure  enough  to define  your  identity  by  the  various  groups  to  which  you  belonged. You had a vicious habit of playing politics and are ruthlessly efficient at gathering dirt on anyone who would destroy your authority. After your Embrace, you naturally gravitated toward a brood of Nosferatu desperately in need of organization. Now you play clan politics with an edge... And you don't care who gets cut to pieces in your ascension to power.
+Prelude: Before  your  Embrace,  you  were  insecure  enough  to define  your  identity  by  the  various  groups  to  which  you  belonged. You had a vicious habit of playing politics and are ruthlessly efficient at gathering dirt on anyone who would destroy your authority. After your Embrace, you naturally gravitated toward a brood of Nosferatu desperately in need of organization. Now you play clan politics with an edge... and you don't care who gets cut to pieces in your ascension to power.
 
 You're well-connected with other Nosferatu and won't let anyone forget it. While you can call upon the resources of  your  local  brood,  you  also  insist  that  any  other  Nosferatu in the city should be an integral part of its activities. You speak about your 'clan' as though every Sewer Rat carries a membership card and attends regular meetings. While all Nosferatu in a brood are supposed to be equals, you're loyal enough to consider yourself more equal than others.
 
@@ -3269,7 +3267,7 @@ Clanbook: nosferatu
 
 for what they do. They're just trying to confuse you. You've got a talent for two things: finding 'evil' and destroying  it.  Once  you've  done  the  first,  you  won't hesitate to do the second. While you're eager to apply a few Size 12 boots and judicious Potence to the most horrific  problems  you  face,  you're  also  a  keen  (and overconfident) investigator.
 
-Roleplaying Hints: You see the world in black and white. You may be damned for all eternity, but that's not going to stop you from doing what you think is right... Even if  everyone  else  thinks  it's  wrong.  Obviously,  you  see yourself as a hero, but you're more of a villain to everyone else. With your propensity for violence  and  your  vigilante  methods,  you'll stop at nothing to destroy what you don't understand. You're inexorably drawn to the most horrific and despicable evils on the planet... And won't admit that you're one of them.
+Roleplaying Hints: You see the world in black and white. You may be damned for all eternity, but that's not going to stop you from doing what you think is right... even if  everyone  else  thinks  it's  wrong.  Obviously,  you  see yourself as a hero, but you're more of a villain to everyone else. With your propensity for violence  and  your  vigilante  methods,  you'll stop at nothing to destroy what you don't understand. You're inexorably drawn to the most horrific and despicable evils on the planet... and won't admit that you're one of them.
 
 Equipment: leather jacket,  black  jeans, heavy  boots,  black gloves,  black  mask (for added mystique),  length of chain, lead pipe
 
@@ -3657,11 +3655,11 @@ ExPERIENCE
 
 □□□□□□□□□□
 
-As an immortal monster, you are perpetually slumming among the weakest creatures in the  herd  of  human  kine.  Your  Streetwise  Ability reflects the essentials you need to know in order to get by without a haven or resources. It also gives you access to the word on the street, what all the denizens of the urban wilderness are currently discussing. In your years on the pavement, you've also encountered a few hardened survivors you don't want to kill just yet; although  they're  afraid  of  finding  out your darkest secrets, they'll help you get by...  Sometimes  in  return  for  a  flask  of  your powerful vitae. Through the power of the Blood, they will all bow down to you.
+As an immortal monster, you are perpetually slumming among the weakest creatures in the  herd  of  human  kine.  Your  Streetwise  Ability reflects the essentials you need to know in order to get by without a haven or resources. It also gives you access to the word on the street, what all the denizens of the urban wilderness are currently discussing. In your years on the pavement, you've also encountered a few hardened survivors you don't want to kill just yet; although  they're  afraid  of  finding  out your darkest secrets, they'll help you get by...  sometimes  in  return  for  a  flask  of  your powerful vitae. Through the power of the Blood, they will all bow down to you.
 
 Roleplaying Hints: You regard vampiric society much as you did mortal society in your breathing days. No matter how hideous, disgusting, repellent or obnoxious you are, you've got rights. Of course, your ghouled servants don't deserve rights;
 
-they fell through the cracks of society a long time ago, and you're doing them a favor by giving the rest of their lives some meaning. You don't care if they live or die for you... Well, until your conscience eventually catches up with you, but who says that's going to happen?
+they fell through the cracks of society a long time ago, and you're doing them a favor by giving the rest of their lives some meaning. You don't care if they live or die for you... well, until your conscience eventually catches up with you, but who says that's going to happen?
 
 <!-- image -->
 
@@ -3679,7 +3677,7 @@ Clanbook: nosferatu
 
 ## veneraBle  nOsFeratu
 
-Existence as a Nosferatu is difficult, but fortunately, centuries of Nosferatu history serve as an example to the latest  generation of neonates. Stories and legends are whispered in the depths of the sewers late at night, and the greatest ones involve the most powerful, legendary and infamous Creeps and Sewer Rats of vampiric society. Although a few of these monsters have met Final Death, they've done so with a style and grace that is uniquely Nosferatu... Or, at least, in a vile and disgusting manner that only another Nosferatu could truly appreciate.
+Existence as a Nosferatu is difficult, but fortunately, centuries of Nosferatu history serve as an example to the latest  generation of neonates. Stories and legends are whispered in the depths of the sewers late at night, and the greatest ones involve the most powerful, legendary and infamous Creeps and Sewer Rats of vampiric society. Although a few of these monsters have met Final Death, they've done so with a style and grace that is uniquely Nosferatu... or, at least, in a vile and disgusting manner that only another Nosferatu could truly appreciate.
 
 ## BaBa yaga
 
@@ -3703,11 +3701,11 @@ Chapter three: nosferatu CharaCters
 
 0G
 
-back to  him.  On  a  few  occasions,  coteries  and  packs  have tried  to  offer  him  false  information...  And  in  return,  have found themselves the target of calumny and scandal in every city where a Nosferatu is present.
+back to  him.  On  a  few  occasions,  coteries  and  packs  have tried  to  offer  him  false  information...  and  in  return,  have found themselves the target of calumny and scandal in every city where a Nosferatu is present.
 
-As a neonate, Emmett has also been very active in a Nosferatu computer node called SchreckNET, an elaborate data hierarchy where Sewer Rats and Creeps alike trade rumors and innuendo. Spending much of his night online, he can access vast amounts of lore from across Europe and North America, lurking in countless chat rooms and virtual domains simultaneously. Like any good Nosferatu hacker, he's also learned to construct  false  identities  in  online  conversations... And is terribly good at spotting the ones used by other cybercreeps.
+As a neonate, Emmett has also been very active in a Nosferatu computer node called SchreckNET, an elaborate data hierarchy where Sewer Rats and Creeps alike trade rumors and innuendo. Spending much of his night online, he can access vast amounts of lore from across Europe and North America, lurking in countless chat rooms and virtual domains simultaneously. Like any good Nosferatu hacker, he's also learned to construct  false  identities  in  online  conversations... and is terribly good at spotting the ones used by other cybercreeps.
 
-Recent events have put Emmett in the nacreous limelight,  mainly  because  he  claims  to  be  the  only survivor  of  an  infamous  Hosting  held  in  the  depths of Manhattan's underground. A Hosting of Nosferatu storytellers  and  historians  turned  to  tragedy  when  a series of tunnels collapsed in the kingdom's sanctum sanctorum. While no one has found the bodies - or the perpetrators - Emmett claims that the gathering was betrayed to the legendary Nictuku. Allegedly, a vengeful group of autarkis Nosferatu was responsible, but such treachery was unthinkable among the vampires of the clan... Until now.
+Recent events have put Emmett in the nacreous limelight,  mainly  because  he  claims  to  be  the  only survivor  of  an  infamous  Hosting  held  in  the  depths of Manhattan's underground. A Hosting of Nosferatu storytellers  and  historians  turned  to  tragedy  when  a series of tunnels collapsed in the kingdom's sanctum sanctorum. While no one has found the bodies - or the perpetrators - Emmett claims that the gathering was betrayed to the legendary Nictuku. Allegedly, a vengeful group of autarkis Nosferatu was responsible, but such treachery was unthinkable among the vampires of the clan... until now.
 
 <!-- image -->
 
@@ -4493,7 +4491,7 @@ Clanbook: Nosferatu complements the clan's appearance in the revised edition of 
 
 ISBN 1-56504-266-2
 
-WW2354  $14.95 U. S.
+WW2354  $14.95 U.S.
 
 PRINTED IN USA
 

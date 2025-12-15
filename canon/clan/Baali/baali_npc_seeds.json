@@ -1,0 +1,155 @@
+{
+    "clan": "Baali",
+    "internal_name": "Baali",
+    "book_title": "Clanbook: Baali",
+    "edition": "Dark Ages / Black Dog",
+    "npc_seeds": [
+      {
+        "id": "baali_corrupt_priest",
+        "summary": "A Baali who appears as a respected member of the clergy, using religious authority to mask dark practices. They have built a following of unwitting worshippers who serve their true masters without knowing it.",
+        "role": "Corrupt Priest / Cult Leader",
+        "age_category": "ancilla",
+        "temperament": "authoritative, manipulative, patient",
+        "possible_plots": [
+          "The priest's true nature is discovered when a character investigates strange occurrences at their church or temple.",
+          "The priest offers a character something they desperately want in exchange for a seemingly small favor that turns out to be the first step in corruption.",
+          "The priest's following includes someone important to the characters, creating a moral dilemma about exposure and consequences."
+        ]
+      },
+      {
+        "id": "baali_scholarly_researcher",
+        "summary": "A Baali who collects forbidden knowledge about the sleeping entities, viewing other beings as subjects for study and transformation. They maintain a library of dangerous texts and conduct experiments that blur the line between research and atrocity.",
+        "role": "Scholar / Researcher",
+        "age_category": "elder",
+        "temperament": "curious, methodical, detached",
+        "possible_plots": [
+          "The researcher's experiments threaten to awaken a sleeping entity, forcing characters to intervene before it's too late.",
+          "The researcher offers to share dangerous knowledge with a character, but the knowledge comes with a price and consequences.",
+          "The researcher's library contains information that could help or harm the characters, but accessing it requires dealing with the Baali."
+        ]
+      },
+      {
+        "id": "baali_subtle_manipulator",
+        "summary": "A Baali who works through proxies and unwitting agents, creating dependencies and turning others into servants without their knowledge. They appear as a respected advisor, merchant, or noble, using their position to corrupt institutions and individuals.",
+        "role": "Manipulator / Corrupter",
+        "age_category": "ancilla",
+        "temperament": "charming, calculating, patient",
+        "possible_plots": [
+          "The manipulator has corrupted someone important to the characters, creating a situation where they must choose between exposure and protecting their friend.",
+          "The manipulator offers the characters power, knowledge, or resources in exchange for service, but the service turns out to be more than they bargained for.",
+          "The manipulator's network of corrupted agents threatens to undermine an institution or organization the characters care about."
+        ]
+      },
+      {
+        "id": "baali_ritual_specialist",
+        "summary": "A Baali who performs elaborate ceremonies to serve their masters, mixing aesthetics with atrocity in carefully orchestrated rituals. They are obsessed with the proper form and execution of rituals, viewing them as both art and necessity.",
+        "role": "Ritual Master / High Priest",
+        "age_category": "elder",
+        "temperament": "obsessive, precise, fanatical",
+        "possible_plots": [
+          "The ritual specialist is preparing a major ritual that requires specific components or participants, creating opportunities for interference or negotiation.",
+          "The ritual specialist's rituals are causing strange phenomena in the area, drawing attention and creating a need for investigation.",
+          "The ritual specialist offers to perform a ritual for the characters, but the ritual requires a sacrifice they may not be willing to make."
+        ]
+      },
+      {
+        "id": "baali_avatar_of_swarm",
+        "summary": "A Baali who belongs to the Avatars of the Swarm, an order that worships plagues and insects. They use their connection to swarms and plagues to spread corruption and serve their masters, viewing disease and infestation as forms of transformation.",
+        "role": "Avatar of the Swarm / Plague Master",
+        "age_category": "ancilla",
+        "temperament": "fanatical, chaotic, transformative",
+        "possible_plots": [
+          "The Avatar is spreading a plague or infestation that threatens the city or region, forcing characters to find and stop them.",
+          "The Avatar offers to use their powers to help the characters, but their methods involve plagues and infestations that may be too high a price.",
+          "The Avatar's activities are tied to a larger Baali plan involving the awakening of a sleeping entity."
+        ]
+      },
+      {
+        "id": "baali_orphaned",
+        "summary": "A Baali who follows Nergal's legacy rather than Moloch's philosophy, preferring open worship and power over subtlety. They are more reckless and obvious in their methods, making them easier to identify but also more dangerous when cornered.",
+        "role": "Orphaned / Nergal Follower",
+        "age_category": "neonate",
+        "temperament": "reckless, power-hungry, obvious",
+        "possible_plots": [
+          "The Orphaned's reckless activities threaten to expose all Baali in the area, creating a conflict between different Baali factions.",
+          "The Orphaned offers the characters power in exchange for service, but their methods are too obvious and dangerous.",
+          "The Orphaned's activities draw the attention of hunters or other enemies, creating a situation where the characters must decide whether to help or hinder them."
+        ]
+      },
+      {
+        "id": "baali_shaitan_follower",
+        "summary": "A Baali who follows Shaitan, the Great Deceiver, who claimed to be the bloodline's true progenitor. They are particularly devious and manipulative, using deception and false identities to achieve their goals.",
+        "role": "Shaitan Follower / Deceiver",
+        "age_category": "elder",
+        "temperament": "devious, manipulative, secretive",
+        "possible_plots": [
+          "The Shaitan follower is using false identities to infiltrate organizations or institutions important to the characters.",
+          "The Shaitan follower offers the characters information or assistance, but their true identity and motives are hidden, creating opportunities for betrayal.",
+          "The Shaitan follower's activities are part of a larger deception that threatens to undermine the characters' understanding of their situation."
+        ]
+      },
+      {
+        "id": "baali_cult_recruiter",
+        "summary": "A Baali who specializes in recruiting new members to their order or cult, identifying potential converts and guiding them through the process of corruption. They are charming, persuasive, and patient, willing to wait years for the right moment.",
+        "role": "Cult Recruiter / Corrupter",
+        "age_category": "ancilla",
+        "temperament": "charming, patient, persuasive",
+        "possible_plots": [
+          "The recruiter is targeting someone important to the characters, creating a race to prevent their corruption.",
+          "The recruiter offers the characters membership in their order, but the offer comes with requirements and consequences they may not be willing to accept.",
+          "The recruiter's activities reveal a larger network of corrupted individuals, creating opportunities for investigation and conflict."
+        ]
+      },
+      {
+        "id": "baali_sacrifice_master",
+        "summary": "A Baali who specializes in the ritual of sacrifice, viewing it as both art and necessity. They are obsessed with finding the perfect sacrifice for each ritual, and they are willing to go to great lengths to obtain what they need.",
+        "role": "Sacrifice Master / Ritual Specialist",
+        "age_category": "elder",
+        "temperament": "obsessive, precise, fanatical",
+        "possible_plots": [
+          "The sacrifice master is seeking a specific person or object for a ritual, creating a situation where the characters must protect the target or negotiate.",
+          "The sacrifice master's rituals are causing strange phenomena or drawing attention, creating a need for investigation or intervention.",
+          "The sacrifice master offers to perform a ritual for the characters, but the ritual requires a sacrifice they may not be willing to make."
+        ]
+      },
+      {
+        "id": "baali_sleeping_entity_servant",
+        "summary": "A Baali who serves a specific sleeping entity, maintaining rituals and sacrifices to keep it asleep or preparing for its eventual awakening. They are fanatically devoted to their master and view all other concerns as secondary.",
+        "role": "Entity Servant / Keeper",
+        "age_category": "elder",
+        "temperament": "fanatical, devoted, single-minded",
+        "possible_plots": [
+          "The servant's activities threaten to awaken their master, creating a race to prevent a catastrophic event.",
+          "The servant offers the characters power or knowledge in exchange for help with their master, but the help may have unintended consequences.",
+          "The servant's devotion to their master creates conflicts with other Baali or Kindred who have different priorities."
+        ]
+      },
+      {
+        "id": "baali_hidden_infiltrator",
+        "summary": "A Baali who has successfully infiltrated a respected institution or organization, using their position to corrupt it from within. They appear as a model member of the organization, but their true purpose is to serve their masters.",
+        "role": "Infiltrator / Corrupter",
+        "age_category": "ancilla",
+        "temperament": "charming, deceptive, patient",
+        "possible_plots": [
+          "The infiltrator's true nature is discovered, creating a situation where the characters must decide how to handle the revelation.",
+          "The infiltrator's corruption of the organization threatens to undermine something the characters care about, creating a need for intervention.",
+          "The infiltrator offers the characters access to the organization's resources, but the access comes with obligations and risks."
+        ]
+      },
+      {
+        "id": "baali_name_keeper",
+        "summary": "A Baali who specializes in the knowledge and use of names of power, understanding the true names of the sleeping entities and how to use them safely. They are extremely secretive and protective of their knowledge, viewing it as both power and responsibility.",
+        "role": "Name Keeper / Scholar",
+        "age_category": "elder",
+        "temperament": "secretive, protective, knowledgeable",
+        "possible_plots": [
+          "The name keeper's knowledge is sought by others, creating a situation where the characters must protect them or obtain their knowledge.",
+          "The name keeper offers to share dangerous knowledge with the characters, but the knowledge comes with risks and consequences.",
+          "The name keeper's knowledge is threatened by enemies or rivals, creating a need for protection or negotiation."
+        ]
+      }
+    ]
+  }
+
+
+

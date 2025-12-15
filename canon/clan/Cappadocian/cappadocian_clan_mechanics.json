@@ -1,0 +1,155 @@
+{
+    "clan": "Cappadocian",
+    "internal_name": "Cappadocian",
+    "book_title": "Clanbook: Cappadocian",
+    "edition": "Dark Ages",
+    "mechanics": {
+      "clan_weakness": {
+        "name": "Deathly Pallor",
+        "type": "clan_weakness",
+        "tags": ["tabletop", "clan_weakness", "appearance"],
+        "system_text": "Cappadocians bear the mark of death upon them. Their skin is pale, almost corpse-like, and they often appear as if they have just risen from the grave. This appearance makes it difficult for them to pass as living mortals, and they may suffer social penalties when dealing with those who are not accustomed to their appearance. Additionally, their connection to death makes them more susceptible to certain forms of exorcism and banishment.",
+        "source_page": null,
+        "larp_status": "not_mapped",
+        "larp_reference": null,
+        "vbn_notes": "This weakness reflects the Cappadocian's nature as students of death. In VbN, this creates opportunities for social challenges, the need for disguises or Obfuscate, and the tension between their scholarly pursuits and the need to maintain the Masquerade. Storytellers should use this weakness to create situations where the Cappadocian's appearance becomes a problem or an advantage."
+      },
+      "disciplines": [
+        {
+          "name": "Mortis",
+          "type": "discipline",
+          "tags": ["tabletop", "clan_unique", "necromancy", "death"],
+          "notes": "The signature Discipline of the Cappadocians, Mortis allows them to manipulate death, decay, and the dead. It grants them abilities related to necromancy, communication with wraiths, and the manipulation of corpses. This Discipline is unique to the Cappadocians and their bloodlines (Giovanni, Lamia, etc.).",
+          "powers": [
+            {
+              "name": "Touch of Death",
+              "rating": 1,
+              "system_text": "Allows the Cappadocian to accelerate decay in organic matter, causing rapid aging, rot, or decomposition. This power can be used on living or dead matter, though its effects on the living are limited.",
+              "tags": ["tabletop", "discipline_power", "decay", "manipulation"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Used to study decay, dispose of evidence, or create dramatic effects. Essential for the Cappadocian's role as students of death."
+            },
+            {
+              "name": "Eyes of the Dead",
+              "rating": 2,
+              "system_text": "Allows the Cappadocian to see into the world of the dead, perceiving wraiths, spirits, and the Shroud that separates the living from the dead.",
+              "tags": ["tabletop", "discipline_power", "perception", "necromancy"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Used to study wraiths, communicate with the dead, and explore the mysteries of death. Essential for the Cappadocian's studies of the Restless Dead."
+            },
+            {
+              "name": "Vigor Mortis",
+              "rating": 3,
+              "system_text": "Allows the Cappadocian to animate corpses, creating zombies or other undead servants. The animated dead retain some of their former abilities and can be controlled by the Cappadocian.",
+              "tags": ["tabletop", "discipline_power", "animation", "necromancy"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Used to create servants, study the dead, and explore the boundaries between life and death. Essential for the Cappadocian's role as necromancers and students of death."
+            }
+          ]
+        },
+        {
+          "name": "Auspex",
+          "type": "discipline",
+          "tags": ["tabletop", "clan_favored", "perception", "scholarship"],
+          "notes": "The Cappadocians use Auspex to perceive the world around them, reading auras, sensing emotions, and gaining insights into the nature of things. This Discipline is essential for their studies and research.",
+          "powers": []
+        },
+        {
+          "name": "Fortitude",
+          "type": "discipline",
+          "tags": ["tabletop", "clan_favored", "defense", "resilience"],
+          "notes": "The Cappadocians use Fortitude for protection and resilience, allowing them to survive the dangers of their studies and the threats of their enemies.",
+          "powers": []
+        }
+      ],
+      "rituals": [
+        {
+          "name": "Ritual of Burial",
+          "type": "ritual",
+          "tags": ["tabletop", "ceremony", "tradition", "culture"],
+          "system_text": "A fundamental Cappadocian ritual in which a newly Embraced neonate is buried or enclosed for their first night of unlife. This ritual serves as both a lesson and a reminder of death, forcing the neonate to confront their fears and the reality of their condition.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "The core of Cappadocian tradition. Used to initiate new members and teach them about death and unlife. Creates opportunities for dramatic scenes, character development, and the exploration of themes of death and transformation."
+        },
+        {
+          "name": "Ritual of Communication",
+          "type": "ritual",
+          "tags": ["tabletop", "necromancy", "communication", "wraiths"],
+          "system_text": "A ritual that allows the Cappadocian to communicate with wraiths and the Restless Dead, learning from those who have passed beyond. The ritual requires specific components, timing, and often the participation of multiple Cappadocians.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Used to communicate with the dead, learn from wraiths, and explore the mysteries of death. Creates opportunities for stories about the dead, the afterlife, and the boundaries between life and death."
+        },
+        {
+          "name": "Ritual of Study",
+          "type": "ritual",
+          "tags": ["tabletop", "scholarship", "knowledge", "research"],
+          "system_text": "A ritual that enhances the Cappadocian's ability to study and understand death, decay, and the mysteries of unlife. The ritual may involve the examination of corpses, the reading of ancient texts, or the contemplation of theological questions.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Used to enhance research, gain insights, and make discoveries. Creates opportunities for stories about knowledge, discovery, and the price of understanding."
+        }
+      ],
+      "merits_and_flaws": [
+        {
+          "name": "Library",
+          "type": "merit",
+          "cost": 3,
+          "category": "supernatural",
+          "tags": ["tabletop", "merit", "knowledge", "resource"],
+          "system_text": "The Cappadocian has access to a collection of books, scrolls, and records that contain valuable knowledge. This library may be physical or spiritual, and it provides access to information that would otherwise be difficult to obtain.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Cappadocian's focus on knowledge and study. Used to provide information and resources, but also creates vulnerabilities if the library is threatened or destroyed."
+        },
+        {
+          "name": "Deathly Pallor (Flaw)",
+          "type": "flaw",
+          "cost": 2,
+          "category": "physical",
+          "tags": ["tabletop", "flaw", "appearance", "social"],
+          "system_text": "The Cappadocian's deathly appearance makes it difficult for them to pass as living mortals. They suffer social penalties when dealing with those who are not accustomed to their appearance, and they may be unable to enter certain places or interact with certain people.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Cappadocian's connection to death. Used to create limitations and complications. Should be used to create tension and story hooks."
+        }
+      ],
+      "social_structures": [
+        {
+          "name": "Erciyes",
+          "type": "social_structure",
+          "tags": ["tabletop", "gathering", "tradition", "culture"],
+          "system_text": "The annual gathering of Cappadocians at the temple of Erciyes, where the clan shares findings, discusses policies, and demonstrates new developments in Mortis. This gathering serves as the clan's primary forum for communication and organization.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Cappadocian's loose organization and focus on knowledge sharing. Used to create opportunities for story, conflict, and the exploration of clan politics and culture."
+        },
+        {
+          "name": "The Factions",
+          "type": "social_structure",
+          "tags": ["tabletop", "factions", "politics", "culture"],
+          "system_text": "The various factions within the Cappadocian clan, including the Eschatologists, the Cyclopean Covenant, the Giovanni, the Lamia, and the Transcendentals. These factions represent different approaches to the study of death and the quest for understanding.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Cappadocian's diversity of thought and approach. Used to create internal conflicts, opportunities for story, and the exploration of different philosophies and methods."
+        }
+      ]
+    }
+  }
+
+
+

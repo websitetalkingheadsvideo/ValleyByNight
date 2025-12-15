@@ -1,0 +1,139 @@
+{
+    "clan": "Gangrel",
+    "book_title": "Revised - Clanbook Gangrel",
+    "edition": "Revised",
+    "npc_seeds": [
+        {
+            "id": "gangrel_autarkis_01",
+            "name": "Marcus 'Shepherd' Blackwood",
+            "summary": "A Gangrel who left the Camarilla with Xaviar and is now struggling to survive as an independent. He's claimed a stretch of highway and the surrounding wilderness as his territory, but other Kindred keep encroaching.",
+            "role": "territorial guardian / recent defector",
+            "age_category": "ancilla",
+            "temperament": "wary, territorial, practical but not unfriendly",
+            "possible_plots": [
+                "Shepherd asks the coterie to help him defend his territory from a Ventrue who's trying to claim it, offering information about the city's hidden routes in exchange.",
+                "He's been tracking a Lupine pack that's been hunting Kindred, and needs the PCs' help to either negotiate a truce or eliminate the threat.",
+                "Shepherd's animal features have become too obvious to hide in the city. He must choose between retreating to the wilderness permanently or finding a way to cover them—and he needs the coterie's help either way."
+            ]
+        },
+        {
+            "id": "gangrel_camarilla_holdout_01",
+            "name": "Dr. Elena Vasquez",
+            "summary": "A Gangrel who chose to remain in the Camarilla despite Xaviar's departure. She's a veterinarian by trade and uses her knowledge of animals to maintain her Animalism. Other Kindred view her with suspicion.",
+            "role": "Camarilla loyalist / animal expert / healer",
+            "age_category": "ancilla",
+            "temperament": "calm, professional, quietly determined",
+            "possible_plots": [
+                "Elena discovers that someone is using her clinic to dispose of Kindred bodies, and she needs the coterie's help to find out who and why.",
+                "The Prince orders her to prove her loyalty by hunting down a Gangrel who left the Camarilla—someone she once called friend.",
+                "Elena's animal features are becoming a problem at her clinic. She must either find a way to hide them better or give up her mortal identity."
+            ]
+        },
+        {
+            "id": "gangrel_sabbat_antitribu_01",
+            "name": "Jax 'Razor' Martinez",
+            "summary": "A City Gangrel who joined the Sabbat after Xaviar's departure. He's a pack member who specializes in urban infiltration and shock attacks. His animal form is a mangy city dog.",
+            "role": "Sabbat pack member / urban scout / shock trooper",
+            "age_category": "neonate",
+            "temperament": "aggressive, loyal to his pack, street-smart",
+            "possible_plots": [
+                "Jax's pack is planning an attack on a Camarilla Elysium, and he approaches the coterie with a warning—or an offer to defect if they can protect him.",
+                "He's been tracking a Camarilla Gangrel holdout who knows something about Xaviar's departure, and the coterie must decide whether to help or hinder him.",
+                "Jax's pack priest has ordered him to Embrace a childe, but he's struggling with the decision—the Sabbat's Creation Rites are brutal, and he's not sure he wants to subject someone to that."
+            ]
+        },
+        {
+            "id": "gangrel_elder_01",
+            "name": "Karsh, the Warlord",
+            "summary": "One of the most powerful Gangrel in the world, Karsh remained in the Camarilla despite Xaviar's departure. He's a warrior of legendary reputation who serves as an Archon. His loyalty to the Camarilla is pragmatic, not ideological.",
+            "role": "Camarilla archon / warrior / clan leader",
+            "age_category": "elder",
+            "temperament": "commanding, honorable, pragmatic",
+            "possible_plots": [
+                "Karsh arrives in the city on official Camarilla business, and the coterie must navigate the political implications of his presence—especially if there are Gangrel who left the sect.",
+                "He's hunting a target on the Red List, and he needs the coterie's help to track them down. The target is dangerous, and Karsh won't take no for an answer.",
+                "Karsh is investigating rumors about what Xaviar saw that caused him to leave. He approaches the coterie for information, and they must decide whether to trust him."
+            ]
+        },
+        {
+            "id": "gangrel_mentor_01",
+            "name": "Jane 'Wildcat' Morrison",
+            "summary": "An older Gangrel who takes in worthy childer, breaking with tradition to provide guidance. She's known for her harsh but fair teaching methods. Her territory is a large state park where she trains her childer.",
+            "role": "mentor / territory guardian / clan teacher",
+            "age_category": "elder",
+            "temperament": "stern but caring, patient, wise",
+            "possible_plots": [
+                "Jane's latest childe has gone missing, and she asks the coterie to help find them. The childe may have been taken, may have fled, or may have fallen to the Beast.",
+                "She's being pressured by other Gangrel to stop breaking tradition by mentoring childer. The coterie must help her defend her methods or convince her to change.",
+                "Jane knows something about Xaviar's departure that she's willing to share—but only if the coterie helps her with a dangerous task first."
+            ]
+        },
+        {
+            "id": "gangrel_beast_touched_01",
+            "name": "The Thing in the Woods",
+            "summary": "A Gangrel who has accumulated so many animal features that they're barely recognizable as human. They've retreated to the wilderness and are now more creature than person. They're dangerous but not malicious—just too far gone to interact with society.",
+            "role": "monster / wilderness dweller / warning",
+            "age_category": "ancilla or elder",
+            "temperament": "animalistic, territorial, unpredictable",
+            "possible_plots": [
+                "The Thing has been killing mortals in the woods, and the coterie must either stop it, negotiate with it, or find a way to relocate it before it breaches the Masquerade.",
+                "A Gangrel childe is drawn to the Thing, seeing it as their future. The coterie must decide whether to intervene or let nature take its course.",
+                "The Thing knows something important—perhaps about Xaviar, or about an ancient threat—but communicating with it is nearly impossible."
+            ]
+        },
+        {
+            "id": "gangrel_explorer_01",
+            "name": "Dr. Sarah Chen",
+            "summary": "A Gangrel who was Embraced while exploring ancient ruins. She's continued her archaeological work in undeath, using her abilities to access places no mortal could reach. She's discovered things that other Kindred would kill to know.",
+            "role": "explorer / archaeologist / lorekeeper",
+            "age_category": "neonate",
+            "temperament": "curious, adventurous, methodical",
+            "possible_plots": [
+                "Sarah has discovered an ancient Kindred site that predates recorded history. She needs the coterie's help to explore it safely—but others want the knowledge for themselves.",
+                "She's found evidence of what Xaviar might have seen—something ancient and powerful. Sharing this information could be dangerous.",
+                "Sarah's latest discovery has attracted unwanted attention from the Tremere, who want to claim it for their own research."
+            ]
+        },
+        {
+            "id": "gangrel_territorial_01",
+            "name": "Rufus of Andorra",
+            "summary": "An elder Gangrel who has watched over the mountains of Andorra for centuries. He's begun stockpiling weapons and Embracing childer, preparing for something. He may have broken the Masquerade by approaching the government.",
+            "role": "territorial guardian / strategist / potential threat",
+            "age_category": "elder",
+            "temperament": "calculating, protective, potentially unstable",
+            "possible_plots": [
+                "Rufus's preparations have attracted Camarilla attention. Archons are being sent to investigate, and the coterie must decide whether to help or hinder them.",
+                "He's calling in favors from other Gangrel, building a force for an unknown purpose. The coterie must discover what he's planning.",
+                "Rufus claims to know what's coming—something that makes Xaviar's departure look minor. He's willing to share, but the price is high."
+            ]
+        },
+        {
+            "id": "gangrel_new_autarkis_01",
+            "name": "Tom 'Everett' Walker",
+            "summary": "A Gangrel who left the Camarilla with Xaviar and is now learning to survive on his own. He's struggling—he was never prepared for independence, and he's making mistakes that could get him killed. He's desperate but proud.",
+            "role": "struggling independent / recent defector / potential ally",
+            "age_category": "neonate",
+            "temperament": "desperate, proud, learning",
+            "possible_plots": [
+                "Everett has gotten in over his head with a local Anarch group and needs the coterie's help to extricate himself without losing face or his unlife.",
+                "He's discovered that his sire, who also left the Camarilla, has been killed. He wants revenge, but he needs help finding the killer.",
+                "Everett is considering joining the Sabbat out of desperation. The coterie must decide whether to help him find another way or let him make his own choices."
+            ]
+        },
+        {
+            "id": "gangrel_city_01",
+            "name": "Luna 'Shadow' Rodriguez",
+            "summary": "A City Gangrel who's made her home in the urban wilderness. She's claimed a network of abandoned buildings and underground spaces as her territory. She's practical, street-smart, and knows the city's secrets.",
+            "role": "urban Gangrel / information broker / territory guardian",
+            "age_category": "ancilla",
+            "temperament": "street-smart, practical, territorial",
+            "possible_plots": [
+                "Luna's territory is being threatened by urban development. She needs the coterie's help to either stop the development or find a new territory.",
+                "She's discovered a network of tunnels beneath the city that connect to something ancient. She's willing to share access, but only if the coterie helps her secure it.",
+                "Luna knows where several Gangrel who left the Camarilla are hiding. Someone is offering a lot of money for that information, and she must decide whether to sell it."
+            ]
+        }
+    ]
+}
+
+

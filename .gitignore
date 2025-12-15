@@ -29,3 +29,12 @@ test_db_connection_cli.php
 .DS_Store
 
 sync_config.jsonc
+
+# Large reference files (PDFs and documents)
+# These are already converted to markdown in Books_md_clean/
+*.pdf
+*.docx
+*.rtf
+reference/Books/**/*.pdf
+reference/Books/**/*.docx
+reference/Books/**/*.rtf

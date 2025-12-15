@@ -1,0 +1,156 @@
+{
+    "clan": "Brujah",
+    "book_title": "Revised - Clanbook Brujah",
+    "edition": "Revised",
+    "mechanics": {
+      "disciplines": [
+        {
+          "name": "Potence",
+          "type": "discipline",
+          "tags": ["tabletop", "brujah_core", "physical_power"],
+          "notes": "Potence, the supernatural expression of physical might, is the iconic Brujah Discipline. Brujah channel emotion—rage, passion, conviction—into raw destructive force. It shapes their identity in combat, riots, and rants, where physicality becomes philosophy made flesh.",
+          "powers": [
+            {
+              "name": "The Gentle Rebuke (Potence 6)",
+              "rating": 6,
+              "system_text": "A deceptively soft tap or minor strike delivers massive internal trauma. The Brujah can appear restrained or even merciful while inflicting devastating harm.",
+              "tags": ["tabletop", "potence_variant"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "vbn_notes": "Narratively, this explains why powerful Brujah elders break bones with flicks of their fingers—especially during political intimidation."
+            },
+            {
+              "name": "Relentless Pursuit (Potence 6)",
+              "rating": 6,
+              "system_text": "The Brujah's raw power fuels unstoppable forward momentum, preventing obstacles or opponents from halting their charge.",
+              "tags": ["tabletop", "potence_variant", "movement"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "vbn_notes": "Useful in scenes where a Brujah smashes through barriers, crowds, or attempts to physically overwhelm opponents in rants or riots."
+            }
+          ]
+        },
+        {
+          "name": "Celerity",
+          "type": "discipline",
+          "tags": ["tabletop", "speed", "brujah_core"],
+          "notes": "Celerity enhances Brujah speed, reflexes, and reaction time. For most Brujah, Celerity is an expression of emotional explosiveness: they move as fast as they feel. It pairs with Potence to create terrifying close-combat dominance.",
+          "powers": [
+            {
+              "name": "Stutter-Step (Celerity 7)",
+              "rating": 7,
+              "system_text": "A hyper-fast, unpredictable movement technique that confuses opponents and allows the Brujah to reposition or strike from unexpected angles.",
+              "tags": ["tabletop", "celerity_variant", "combat"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "vbn_notes": "Visually iconic. This can be used in cinematic cutscenes or boss encounters with elder Brujah NPCs."
+            }
+          ]
+        },
+        {
+          "name": "Presence",
+          "type": "discipline",
+          "tags": ["tabletop", "social", "brujah_core"],
+          "notes": "Brujah channel sheer force of personality into Presence. Their charisma is volatile, emotional, and often weaponized. Presence fuels rants, inspires crowds, and turns political arguments into ideological earthquakes.",
+          "powers": []
+        },
+        {
+          "name": "Auspex",
+          "type": "discipline",
+          "tags": ["tabletop", "perception"],
+          "notes": "Brujah thinkers—rare philosopher-kings—use Auspex to dissect arguments, foresee political moves, and detect emotional states during rants. It symbolizes their ancient intellectual legacy.",
+          "powers": []
+        }
+      ],
+  
+      "backgrounds": [
+        {
+          "name": "Alternate Identity",
+          "type": "background",
+          "tags": ["tabletop", "identity"],
+          "system_text": "Represents a fully developed secondary persona complete with documentation, personal history, and financial presence.",
+          "source_page": null,
+          "vbn_notes": "Useful for Brujah activists, hackers, and street-level organizers who need to evade police, Camarilla scrutiny, or rival Anarchs."
+        },
+        {
+          "name": "Military Force",
+          "type": "background",
+          "tags": ["tabletop", "group", "followers"],
+          "system_text": "The character commands a unit of trained mortals, often depicted as gang members, militants, or ideological followers.",
+          "source_page": null,
+          "vbn_notes": "Perfect for Brujah controlling biker gangs, protest crews, or riot squads in Phoenix."
+        }
+      ],
+  
+      "merits_flaws": [
+        {
+          "name": "Compassionate (4-pt Mental Merit)",
+          "type": "merit",
+          "tags": ["tabletop", "mental", "rare"],
+          "system_text": "The Brujah possesses a stronger-than-normal sense of empathy and compassion.",
+          "source_page": null,
+          "vbn_notes": "A striking contrast in a clan driven by passion and violence. Ideal for philosopher-activist characters."
+        },
+        {
+          "name": "Dynamic Personality (5-pt Social Merit)",
+          "type": "merit",
+          "tags": ["tabletop", "social", "presence"],
+          "system_text": "The character radiates an intense personal energy that naturally draws attention and followers.",
+          "source_page": null,
+          "vbn_notes": "Represents a talented ranter, natural leader, or revolutionary icon among the Brujah rabble."
+        },
+        {
+          "name": "Obvious Predator (2-pt Social Flaw)",
+          "type": "flaw",
+          "tags": ["tabletop", "social", "intimidation"],
+          "system_text": "The Brujah looks and feels dangerous, unnerving mortals and Kindred alike.",
+          "source_page": null,
+          "vbn_notes": "Common among bruisers, anarch enforcers, and street radicals."
+        },
+        {
+          "name": "Uncontrollable (5-pt Mental Flaw)",
+          "type": "flaw",
+          "tags": ["tabletop", "rage", "frenzy"],
+          "system_text": "The Brujah struggles with extreme emotional volatility, often escalating quickly into violence or loss of control.",
+          "source_page": null,
+          "vbn_notes": "One of the most archetypal Brujah flaws; perfect for neonate rabble or tragic elder warlords."
+        }
+      ],
+  
+      "other_systems": [
+        {
+          "name": "Pulse of Undeath (Auspex •, Potence •••)",
+          "type": "hybrid_power",
+          "tags": ["tabletop", "cross_discipline", "unique"],
+          "system_text": "A combination of perception and force, allowing the Brujah to sense 'beats' in undead bodies—weak points, emotional pressure, kinetic readiness.",
+          "source_page": null,
+          "vbn_notes": "Narratively represents a Brujah reading the room before a riot or anticipating a Prince’s next move in court."
+        },
+        {
+          "name": "Rant Mechanics (Thematic)",
+          "type": "social_structure",
+          "tags": ["tabletop", "social", "clan_specific"],
+          "system_text": "The Brujah use rants as structured social rituals where arguments, challenges, and leadership battles occur.",
+          "source_page": null,
+          "vbn_notes": "Vital to VbN. Rants can become mini-events where choices, alliances, and plot direction are determined by rhetoric AND fists."
+        },
+        {
+          "name": "Philosopher vs. Rabble Dynamic",
+          "type": "cultural_system",
+          "tags": ["narrative", "clan_identity"],
+          "system_text": "The clan’s dual identity is a defining mechanic—most Brujah are impulsive rebels while a rare minority are disciplined thinkers.",
+          "source_page": null,
+          "vbn_notes": "This tension should shape Brujah politics in Phoenix and influence NPC behavior. Elders may privilege thinkers; neonates follow rebels."
+        },
+        {
+          "name": "Carthage Myth",
+          "type": "historical_myth",
+          "tags": ["narrative", "ideological"],
+          "system_text": "Brujah belief in a lost utopia drives ideological conflict and shapes their rebellion.",
+          "source_page": null,
+          "vbn_notes": "This myth is a political weapon—used to inspire, manipulate, or fracture the clan in Valley by Night."
+        }
+      ]
+    }
+  }
+  

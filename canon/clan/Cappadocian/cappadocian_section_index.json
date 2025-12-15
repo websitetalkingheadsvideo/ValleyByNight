@@ -1,0 +1,265 @@
+{
+    "clan": "Cappadocian",
+    "internal_name": "Cappadocian",
+    "book_title": "Clanbook: Cappadocian",
+    "edition": "Dark Ages",
+    "sections": [
+      {
+        "id": "credits",
+        "title": "Credits",
+        "anchor": "## CREDITS",
+        "type": "meta"
+      },
+      {
+        "id": "special_thanks",
+        "title": "Special Thanks",
+        "anchor": "## SPECIAL THANKS TO:",
+        "type": "meta"
+      },
+      {
+        "id": "table_of_contents",
+        "title": "Table of Contents",
+        "anchor": "## TABLEOFC CONTENTS",
+        "type": "meta"
+      },
+      {
+        "id": "chapter_one",
+        "title": "The Revelation to the Childe",
+        "anchor": "## a ne: The Revelation tie AhilBe",
+        "type": "fiction"
+      },
+      {
+        "id": "chapter_two",
+        "title": "Death Among the Dead",
+        "anchor": "## hapter Tioo: Zentfi 2imong the Qeai",
+        "type": "history"
+      },
+      {
+        "id": "nights_of_enoch",
+        "title": "Nights of Enoch, Second City, the Wanderlust",
+        "anchor": "## NIGHTS OF ENOCH, SECOND CITY, THE WANDERLUST AND",
+        "type": "history"
+      },
+      {
+        "id": "of_the_progenitor",
+        "title": "Of the Progenitor",
+        "anchor": "## OF THEPROGENITOR",
+        "type": "history"
+      },
+      {
+        "id": "the_first_revelation",
+        "title": "The First Revelation",
+        "anchor": "## THE FIRST REVELATION",
+        "type": "history"
+      },
+      {
+        "id": "the_temple_at_erciyes",
+        "title": "The Temple at Erciyes",
+        "anchor": "## THE TEMPLE AT ERCIYES",
+        "type": "history"
+      },
+      {
+        "id": "the_rise_of_christianity",
+        "title": "The Rise of Christianity",
+        "anchor": "## THE RISE OF CHRISTIANITY",
+        "type": "history"
+      },
+      {
+        "id": "cappadocius_the_christian",
+        "title": "Cappadocius the Christian",
+        "anchor": "## CAPPADOCIUS THE CHRISTIAN",
+        "type": "history"
+      },
+      {
+        "id": "dread_egypt",
+        "title": "Dread Egypt",
+        "anchor": "## DREAD EGYPT",
+        "type": "history"
+      },
+      {
+        "id": "exodus_from_derinkuyu",
+        "title": "Exodus from Derinkuyu",
+        "anchor": "## EXODUS FROM DERINKUYU",
+        "type": "history"
+      },
+      {
+        "id": "the_feast_of_folly",
+        "title": "The Feast of Folly",
+        "anchor": "## THEFEAST OFFOLLY",
+        "type": "history"
+      },
+      {
+        "id": "lazarus_absence",
+        "title": "Lazarus' Absence",
+        "anchor": "## LAZARUS' ABSENCE",
+        "type": "history"
+      },
+      {
+        "id": "the_second_revelation",
+        "title": "The Second Revelation",
+        "anchor": "## THE SECOND REVELATION",
+        "type": "history"
+      },
+      {
+        "id": "cappadocian_influence",
+        "title": "Cappadocian Influence in Europe",
+        "anchor": "## CAPPADOCIAN INFLUENCEIN EUROPE",
+        "type": "history"
+      },
+      {
+        "id": "the_infitiores",
+        "title": "The Infitiores",
+        "anchor": "## THE INFITIORES",
+        "type": "history"
+      },
+      {
+        "id": "influence_within_church",
+        "title": "Influence Within the Church",
+        "anchor": "## INFLJENCE WITHIN THE CHURCH",
+        "type": "history"
+      },
+      {
+        "id": "the_giovanni_experiment",
+        "title": "The Giovanni Experiment",
+        "anchor": "## THE GIOVANNI EXPERIMENT",
+        "type": "history"
+      },
+      {
+        "id": "the_tragedy_of_father_eustace",
+        "title": "The Tragedy of Father Eustace",
+        "anchor": "## THE TRAGEDY OFFATHEREuSTACE",
+        "type": "history"
+      },
+      {
+        "id": "response_to_giovanni",
+        "title": "Response to the Giovanni Experiment",
+        "anchor": "## RESPONSE TO THE GIOVANNI EXPERIMENT",
+        "type": "history"
+      },
+      {
+        "id": "the_third_revelation",
+        "title": "The Third Revelation",
+        "anchor": "## THE THIRD REVELATION",
+        "type": "history"
+      },
+      {
+        "id": "cappadocians_12th_century",
+        "title": "Cappadocians in the 12th Century",
+        "anchor": "## CAPPADOCIANS IN THE 12TH CENTURY",
+        "type": "history"
+      },
+      {
+        "id": "chapter_three",
+        "title": "Observations and Conclusions",
+        "anchor": "## hapter \"Tfree: bseruntions ans suojonjuo",
+        "type": "culture"
+      },
+      {
+        "id": "the_long_night",
+        "title": "The Long Night",
+        "anchor": "## THE LONG NIGHT",
+        "type": "culture"
+      },
+      {
+        "id": "the_hearth",
+        "title": "The Hearth",
+        "anchor": "## THE HEARTH",
+        "type": "culture"
+      },
+      {
+        "id": "the_matter_of_sustenance",
+        "title": "The Matter of Sustenance",
+        "anchor": "## THE MATTER OF SUSTENANCE",
+        "type": "culture"
+      },
+      {
+        "id": "clan_hierarchy",
+        "title": "Clan Hierarchy",
+        "anchor": "## CLAN HIERARCHY",
+        "type": "culture"
+      },
+      {
+        "id": "factions",
+        "title": "Factions",
+        "anchor": "## FACTIONS",
+        "type": "politics"
+      },
+      {
+        "id": "eschatologists",
+        "title": "Eschatologists",
+        "anchor": "## ESCHATOLOGISTS",
+        "type": "politics"
+      },
+      {
+        "id": "the_cyclopean_covenant",
+        "title": "The Cyclopean Covenant",
+        "anchor": "## THE CYCLOPEAN COVENANT",
+        "type": "politics"
+      },
+      {
+        "id": "giovanni",
+        "title": "Giovanni",
+        "anchor": "## GIOVANI",
+        "type": "politics"
+      },
+      {
+        "id": "lamia",
+        "title": "Lamia",
+        "anchor": "## LAMIA",
+        "type": "politics"
+      },
+      {
+        "id": "transcendentals",
+        "title": "Transcendentals",
+        "anchor": "## TRANSCENDENTALS",
+        "type": "politics"
+      },
+      {
+        "id": "magic_and_clan",
+        "title": "Magic and the Clan of Death",
+        "anchor": "## MAGIC AND THE CLAN OF DEATH",
+        "type": "mechanics"
+      },
+      {
+        "id": "becoming_a_wraith",
+        "title": "Becoming a Wraith",
+        "anchor": "## BECOMING AWRAITH",
+        "type": "mechanics"
+      },
+      {
+        "id": "cappadocians_and_restless_dead",
+        "title": "Cappadocians and the Restless Dead",
+        "anchor": "## CAPPADOCIANS AND THE RESTLESS DEAD",
+        "type": "mechanics"
+      },
+      {
+        "id": "the_giovanni_problem",
+        "title": "The Giovanni Problem",
+        "anchor": "## THE GIOVANNI PROBLEM",
+        "type": "politics"
+      },
+      {
+        "id": "chapter_four",
+        "title": "Legio",
+        "anchor": null,
+        "type": "character_creation",
+        "children": []
+      },
+      {
+        "id": "appendix",
+        "title": "Noteworthy Seekers",
+        "anchor": null,
+        "type": "lore",
+        "children": []
+      },
+      {
+        "id": "appendix_two",
+        "title": "Of Historical Note",
+        "anchor": null,
+        "type": "meta",
+        "children": []
+      }
+    ]
+  }
+
+

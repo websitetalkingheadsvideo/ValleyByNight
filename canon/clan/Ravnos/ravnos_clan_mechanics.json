@@ -1,0 +1,202 @@
+{
+    "clan": "Ravnos",
+    "internal_name": "Ravnos",
+    "book_title": "Revised - Clanbook Ravnos",
+    "edition": "Revised",
+    "mechanics": {
+      "clan_weakness": {
+        "name": "Born Criminals",
+        "type": "clan_weakness",
+        "tags": ["tabletop", "clan_weakness", "compulsion"],
+        "system_text": "Every Ravnos is compelled to commit a specific type of crime. When presented with an opportunity to commit this crime, the player must make a Self-Control roll (difficulty 6) to resist. The specific crime is chosen during character creation and should reflect the character's personality, background, or the ironic nature of the Embrace. The compulsion grows stronger over time if not satisfied, eventually becoming overwhelming.",
+        "source_page": null,
+        "larp_status": "not_mapped",
+        "larp_reference": null,
+        "vbn_notes": "This is the core curse of the Ravnos. In VbN, the compulsion should be a constant source of tension and conflict. Each Ravnos's crime is unique to them, though some patterns are common (theft, deception, violence, etc.). The compulsion cannot be permanently cured, but it can be mastered through the Path of Paradox. Storytellers should work with players to create compelling, story-driven compulsions rather than simple mechanical penalties."
+      },
+      "disciplines": [
+        {
+          "name": "Animalism",
+          "type": "discipline",
+          "tags": ["tabletop", "clan_favored", "survival", "information_gathering"],
+          "notes": "The Ravnos use Animalism for survival, information gathering, and creating diversions. They view it as an extension of their Beast, which they see as more evolved than that of other clans.",
+          "powers": [
+            {
+              "name": "Feral Whispers",
+              "rating": 1,
+              "system_text": "Allows communication with animals, understanding their basic thoughts and emotions, and giving simple commands.",
+              "tags": ["tabletop", "discipline_power", "communication"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Used for scouting, information gathering, and creating animal spies. Essential for Ravnos survival on the road."
+            },
+            {
+              "name": "Drawing Out the Beast (Optional for Ravnos)",
+              "rating": 5,
+              "system_text": "Some Storytellers may allow Ravnos to use Drawing Out the Beast when driven to succumb to their weakness, transferring the compulsion to a vessel. This is extremely dangerous and may make it difficult or impossible to regain the Beast.",
+              "tags": ["tabletop", "discipline_power", "optional", "dangerous"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "This optional rule should be used sparingly and with great caution. It can create interesting story opportunities but also significant risks for the character."
+            }
+          ]
+        },
+        {
+          "name": "Chimerstry",
+          "type": "discipline",
+          "tags": ["tabletop", "clan_favored", "signature", "illusion"],
+          "notes": "The signature Discipline of the Ravnos, allowing them to create illusions so real they can cause physical harm. Chimerstry manipulates maya (illusion/reality) to bring thoughts and images into physical manifestation.",
+          "powers": [
+            {
+              "name": "Ignis Fatuus",
+              "rating": 1,
+              "system_text": "Creates simple visual illusions—lights, images, or objects that appear real but have no physical substance.",
+              "tags": ["tabletop", "discipline_power", "illusion", "basic"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "The foundation of all Chimerstry. Used for distractions, misdirection, and creating believable illusions."
+            },
+            {
+              "name": "Fata Morgana",
+              "rating": 2,
+              "system_text": "Creates more complex illusions that can move and interact with the environment, though they still have no physical substance.",
+              "tags": ["tabletop", "discipline_power", "illusion", "intermediate"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Allows for dynamic, moving illusions that can create convincing distractions or deceptions."
+            },
+            {
+              "name": "Apparition",
+              "rating": 3,
+              "system_text": "Creates illusions of living or unliving beings that can move, speak, and interact with others, though they have no physical substance.",
+              "tags": ["tabletop", "discipline_power", "illusion", "intermediate"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Allows Ravnos to create convincing false identities, decoys, or companions. Essential for trickster archetypes."
+            },
+            {
+              "name": "Horrid Reality",
+              "rating": 5,
+              "system_text": "Creates illusions so real they can cause actual physical harm. Victims who believe in the illusion suffer real damage that cannot be soaked, though the wounds fade when the illusion ends.",
+              "tags": ["tabletop", "discipline_power", "illusion", "advanced", "damage"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "A powerful but expensive ability. The damage is psychosomatic but real—victims who believe they're burned will show burns, though these fade when they realize the truth. Used for psychological warfare and intimidation."
+            },
+            {
+              "name": "False Resonance",
+              "rating": 6,
+              "system_text": "Allows illusions to have false auras, thoughts, and emotional resonance that can fool Auspex and other perception-based Disciplines.",
+              "tags": ["tabletop", "discipline_power", "illusion", "elder", "counter_auspex"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Makes illusions nearly undetectable by supernatural senses. Essential for creating convincing false identities or decoys."
+            },
+            {
+              "name": "Fatuus Mastery",
+              "rating": 6,
+              "system_text": "Eliminates the Willpower and Blood cost for using the first three levels of Chimerstry and allows maintaining multiple illusions with minimal concentration.",
+              "tags": ["tabletop", "discipline_power", "illusion", "elder", "efficiency"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Allows Ravnos to use Chimerstry more freely and maintain complex illusions for extended periods. Essential for masters of deception."
+            },
+            {
+              "name": "Shared Nightmare",
+              "rating": 6,
+              "system_text": "Allows Horrid Reality to affect multiple targets simultaneously, creating shared illusions of harm.",
+              "tags": ["tabletop", "discipline_power", "illusion", "elder", "area_effect"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Allows Ravnos to affect crowds with their illusions, creating mass panic or confusion. Extremely powerful but expensive."
+            },
+            {
+              "name": "Far Fatuus",
+              "rating": 7,
+              "system_text": "Allows projection of illusions to remote locations the Ravnos can see or visualize, even if they're not physically present.",
+              "tags": ["tabletop", "discipline_power", "illusion", "master", "remote"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Allows Ravnos to create illusions at a distance, making them even more dangerous and unpredictable. Used by the Phuri Dae (Brahman elders)."
+            },
+            {
+              "name": "Suspension of Disbelief",
+              "rating": 7,
+              "system_text": "Makes illusions so believable that witnesses accept them as real, no matter how implausible, or makes real things appear unbelievable.",
+              "tags": ["tabletop", "discipline_power", "illusion", "master", "belief"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Allows Ravnos to create illusions that are accepted as real even when they should be impossible, or to hide real things by making them seem like illusions."
+            },
+            {
+              "name": "Occlusion",
+              "rating": 8,
+              "system_text": "Shuffles others' senses, creating synesthesia or exchanging sensations between multiple targets, making it impossible for them to interact meaningfully with the real world.",
+              "tags": ["tabletop", "discipline_power", "illusion", "ascendant", "sensory_manipulation"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Extremely disorienting power that can incapacitate targets by scrambling their senses. Used for escape or psychological warfare."
+            },
+            {
+              "name": "Mayaparisatya",
+              "rating": 9,
+              "system_text": "The ultimate expression of Chimerstry, allowing the Ravnos to directly alter or create real objects or creatures, though such changes are of finite duration.",
+              "tags": ["tabletop", "discipline_power", "illusion", "transcendent", "reality_alteration"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "The philosopher's stone for Shilmulo (Path of Paradox followers). Allows temporary reality alteration—turning air into fire, making doors insubstantial, or forcing objects out of existence. Extremely powerful and rare."
+            }
+          ]
+        },
+        {
+          "name": "Fortitude",
+          "type": "discipline",
+          "tags": ["tabletop", "clan_favored", "survival", "defense"],
+          "notes": "Supernatural resilience and toughness, essential for survival on the road and in dangerous situations.",
+          "powers": [
+            {
+              "name": "Endurance",
+              "rating": 1,
+              "system_text": "Adds automatic successes to Stamina rolls for soaking damage and resisting environmental hazards.",
+              "tags": ["tabletop", "discipline_power", "defense", "survival"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Essential for Ravnos survival, allowing them to endure the hardships of travel and dangerous situations."
+            }
+          ]
+        }
+      ],
+      "backgrounds": [],
+      "merits": [],
+      "flaws": [],
+      "derangements": [
+        {
+          "name": "Dissociative Perceptions Syndrome",
+          "type": "derangement",
+          "tags": ["tabletop", "derangement", "chimerstry_related"],
+          "system_text": "Since the Week of Nightmares, some Ravnos who use Chimerstry frequently slowly lose the ability to distinguish between what is real and what is not. They may begin to see illusions that aren't there, or fail to recognize real things as real.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "A new derangement that has appeared since the Week of Nightmares. May be related to the Antediluvian's death or the final curse he laid upon the clan. Creates ongoing story complications and roleplaying challenges."
+        }
+      ]
+    }
+  }
+
+
+

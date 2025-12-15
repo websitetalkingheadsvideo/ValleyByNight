@@ -6,6 +6,8 @@ CLANBOOK: BAALI
 
 BY SVEN SKOOG AND LUCIEN SOULBAN
 
+<!-- image -->
+
 ## CREDITS
 
 Written by:Lucien Soulban and Sven Skoog Development by:Justin Achilli and
@@ -24,13 +26,15 @@ Layout and typesetting by:Lawrence Snelly
 
 ## 735PARK NORTH BLVD. SUITE128 CLARKSTON,GA30021 USA
 
+<!-- image -->
+
 1998 White Wolf Publishing,Inc.All rights reserved.Reproduction without thewritten permission of the publisher is expressly forbidden,except for the purposesofreviews,andforblankcharactersheetswhich may be reproducedfor personal use only.WhiteWolf, Vampire theMasquerade,Vampire theDark Ages and Mage theAscension areregistered trademarksofWhite Wolf Publishing, Inc. All rights reserved.Trinity, WerewolftheApocalypse,WraiththeOblivion,ChangelingtheDreaming,Werewolf theWildWest,Hierarchy, ClanbookLasombra,ClanbookCappadocian,Clanbook Baali,BlackDogGameFactory,DarkAgesCompanion, DarkAges Storyteller Secrets and Constantinople by Nightaretrademarks ofWhiteWolf Publishing,Inc.All rights reserved.All characters,names,places and text herein are copyrighted byWhiteWolf Publishing,Inc.
 
 The mention of or reference to any company or productinthesepagesisnotachallengetothetrademark or copyright concerned.
 
 This book uses the supernatural for settings,charactersandthemes.Allmystical andsupernaturalelements arefiction and intended forentertainmentpurposes only. Reader discretion is advised.
 
-CheckoutWhiteWolf onlineat http://w.white-wolf.com;alt.games.whitewolf and rec.games.frp.storyteller
+CheckoutWhiteWolf onlineat http://www.white-wolf.com;alt.games.whitewolf and rec.games.frp.storyteller
 
 PRINTEDINUSA
 
@@ -54,16 +58,25 @@ Clanbook:Baaliis intended forindividuals over18 only,and even then we want you t
 
 There is undoubtedly content in this book that manypeoplewillfindoffensive.Remember,itis thencharacter narrator espousing those views,not White Wolfor anyone else associatedwith thisproject.Relax, enjoy,andifyoufind thebookproblematic,PUTIT DOwN.No one'sforcingyou toread it.
 
+<!-- image -->
+
 ## CLANBOOK: BAALI
 
 ## TABLE OF CONTENTS
 
-# | CHAPTER ONE: THE OPENING                            |   7 |
-|-------------------|-|
-# | CHAPTER TWO: DISSONANTECHOES                        |  11 |
-# | CHAPTER THREE: DESCENT INTO DARKNESS                |  29 |
-# | CHAPTERFOUR:A HIDEOUS THRONG                        |  49 |
-| APPENDIX:To REIGN IN HELL                           |  65 | | APPENDIX II: OFINTEREST TO SCHOLARS AND CHIRURGEONS |  68 |
+| CHAPTER ONE: THE OPENING                            |   7 |
+|-----------------------------------------------------|-----|
+| CHAPTER TWO: DISSONANTECHOES                        |  11 |
+| CHAPTER THREE: DESCENT INTO DARKNESS                |  29 |
+| CHAPTERFOUR:A HIDEOUS THRONG                        |  49 |
+| APPENDIX:To REIGN IN HELL                           |  65 |
+| APPENDIX II: OFINTEREST TO SCHOLARS AND CHIRURGEONS |  68 |
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
 
 Not because he and I are one, but because we are opposites, I take to me the services which thou hast done to him, for I and he are of such different kinds that no service which is vile can be done to me, and none which is not vile can be done to him.
 
@@ -75,9 +88,17 @@ As do their European counterparts, they hunt the night, living on the spilt remn
 
 But what do the other Childer of Caine truly know of darkness?
 
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
 ## aug Dne: Tfje fuuadG
 
 Jonatfan, half-lost in the bliss of intercourse, smiled stupisly at the noked youfh strasoling his manhood. je Si8 not know the boy's name; they jas exchanged no words. the boy wns hjalf the nge of nbbot's eloest Saughter, but fjat meant litle to the olber man. edemption, affer all, wns but a breaff nwny, waiting in the confines of his confessot's rubicle. Srom fhe moment Jonatfan ha&amp; first Iais cyes upon the boysmootf, moon-pale skin soff, supple ruroes, long, flaxen hjair spilling &amp;own past unblemished shouloers - he hjad wantes him. The wherefores of whateuer spell ha8 so susbenly enraptured him were Iost in the throes of his passion. Jonathan wanted fje boy, an8 fhus ha8 token him. Jt wns that simple.
+
+<!-- image -->
 
 Jonathancontinued thrusting,lostinthevisionof hiscomely companion writhing in silence.Passers-by could hear as he took in urgent breath as the boy paused,shifting ever so slightlywhilestill keepinghis lover deepinside.Thechildrose up once,working his hips and driving the abbot into new throes of ecstasy.Again the pair moved together,features contortedin paroxysms of perverse delight.ThenJonathan thrustforwardathirdtime,and theboycamedownhard,face twistedintoanunrecognizableferalmask asthemonkscreamed in agony.
 
@@ -89,11 +110,15 @@ Theabbot spent the next fortnight in afitful state ofhalf wakefulness.Vaguely he
 
 Thedays,ifnightcouldbeseparatedfromdayintheperpetual darkness enshrouding him,were worse.On those occasions whenrtedim,nathan,raw,rentandrokn,wa exquisitelyawareofeverysensation historturednervesbrought him.Histonguecracked,parchedandswollenfromcountless stings,was about theonly thinghe could move.Flies landed on hiseyes and hecould notsomuch as blink todislodgethem. Theywereaconstantcompanioninhistorment,theirbuzz an excited drone against the slow beat of his heart.Misshapen creatures andvermin crawledand slitheredover hisbloated body,and an unseen thing-things -moved within his abdomenwith chilling deliberation.
 
+<!-- image -->
+
 CLANBOOK:BAALI
+
+<!-- image -->
 
 Then,onenight,he awakened tofindhiscaptorwaitingor him.The childwas seatedupon his chest, stealing his breath and staring him full in the face with black,bottomless eyes. Theboysbodywascoldonathannoted,ascoldasthecorpses hehad laidout forburial.More of theinsectsscampered across Jonathan toscuttle ontotheboy-thing'snakedform,welcominghispresence.Countlessblackforms dartedinandoutofthe boy's nose,his smiling mouth,his groin.
 
-"You have cow's eyes"the youth hissed as he idly caressed Jonathan'sface.Theboy spokeinavoicethatwas told,too evil to comefrom a child.Whatever spokein thatvoicehad known degradation beyond imagining. Jonathan moaned, terrified his tormentor would scoop out his eyeswith small, cold fingers.
+"You have cow's eyes"the youth hissed as he idly caressed Jonathan'sface.Theboy spokeinavoicethatwas tooold,too evil to comefrom a child.Whatever spokein thatvoicehad known degradation beyond imagining. Jonathan moaned, terrified his tormentor would scoop out his eyeswith small, cold fingers.
 
 "Cow'seyes,thecreaturemused,retrievingathreadedneedle attached to a skein of silkfrom besideJonathan'sprostrate form.The same wide-eyed gazeas abeast of thefield.Itmarks you as unaware,unsuspecting,notyet openedwith under standing.It betrays you as prey."
 
@@ -103,11 +128,17 @@ The creature pushed theneedleinto hisown palm,passingit through hishand and out 
 
 "Here,"the abbot's grinning assailant finally said,pausing place Jonathan's hand over his own swollen groin."Squeeze that,ifyouwillandthinkaboutwhatyouwant.Itwillhe pass the timewhileI tell you what you should know before apotheosis."
 
-## THEOPENING
+<!-- image -->
+
+CHAPTER ONE:THEOPENING
+
+<!-- image -->
 
 ## hapter Tioo: Dissonant Erfjoes
 
 The poice you jear is one and all Qinali if is ffird person and first, 1 al tral and personal.Quhy?ierause no one poice speak ffe entire fruff. The oice oftrutf
+
+<!-- image -->
 
 ## EIGHT IN ETERNITY: A FRAGMENT OF BAALI HISTORY
 
@@ -175,6 +206,8 @@ CV
 
 CHAPTERTWO:DISSONANTECHOES
 
+<!-- image -->
+
 In exchange forsponsorship from theChildren,thefirst tribe became their acolytes.The mortals accepted the burden ofremembering their masters'existence when They vanquished them frommortalmemory.Thefirst tribe accepted thebargainnbadfaithoweverbelievinghatbynowing the true names of thesemalignantcreatures they would have true power over them.Such is the ignorance of primitive people.Knowing something's true namegives it sway overyou as well.Power is never freefor the taking,or for the giving.
 
 Youmay have noticed that I am vague with the terms I use,that Ineither name the first tribe nor its patrons.Such omissionis deliberate.Certain names have the power to echo across the worlds when intoned,and there are always things listening for those names to be spoken.Even knowing these namesisakintocatchingadisease,akindof lprous affliction that atrophies the soul.Speaking those names spreads the contagion.
@@ -187,9 +220,13 @@ The true names of these creatures still carried power, however,and thefirsttribe
 
 CLANBOOK:BAALI
 
+<!-- image -->
+
+<!-- image -->
+
 masking it behind foreignmortal languages enabled a sufficiently cunning priestto draw upon a fraction of a sleeping entity's might without rousing it.The power thus gained was less thanitmighthavebeen,buttheriskwas alsoproportionally lessened,andfor these priests that was goodenough.
 
-It is ironic that the creaturesyou knownow as demons were once revered as Mesopotamian deities—whowere in tun distilled from muddledrepresentationsof the sleeping, demoniac Children.You may sleep well knowing that the names assigned to theChildren thesedayshold little powercenturies and generations of conquering languages have diluted their strengthtoalmostnothing.Occasionally,however, some fool stumbles across acorrectstringofletters and intones it well enough to capture.unwanted attention.The Chil drenslumberfitfullyyet,andtheirdreams arelesspleasing them than once they were.
+It is ironic that the creaturesyou knownow as demons were once revered as Mesopotamian deities—whowere in tun distilled from muddledrepresentationsof the sleeping, demoniac Children.You may sleep well knowing that the names assigned to theChildren thesedayshold little powercenturies and generations of conquering languages have diluted their strengthtoalmostnothing.Occasionally,however, some fool stumbles across acorrectstringofletters and intones it well enough to capture...unwanted attention.The Chil drenslumberfitfullyyet,andtheirdreams arelesspleasing them than once they were.
 
 ## WELLS OF SACRIFICE
 
@@ -200,6 +237,8 @@ The strongest cult dwelt in the city ofAshur,tendingo anow-hidden well and prote
 This ritual of murder and dismemberment,however, couldnot go unnoticed forever.Other powers of death walked the world even in those days,and knewwhen reverence was done unto them.
 
 Isit any surprise,then,thataCainiteof great owerand majesty found thewell onenight?Thepriests of thefirst tribe raised their voices against him, using even the forbidden incantations,but they were as wheat before the storm.The power of hisvoice struck thepriestsdumb and silenced their
+
+<!-- image -->
 
 cries;hisgaze struck down the weak-minded and feeble.Those whowere stronginbodybutnotinmindheripped limbfrom limb,thentossedasideaslongshredsofflesh.Thosewhowere strongof mind butnotof body，hecommanded torend their ownbodies with long knives,and they did so.Thosewhowere comely heforced to couple,then hemelted theflesh of their bodies and their bones together.Hedrewforth their ribsfrom their bodies so that each thrust was an impalement,and watchedastheydied.FortheCainitehadwitnessed theirrites, and found themwanting.Hehadseentheirrituals,andwished toshow them that their depravities and atrocities were as nothing,thattheywerechildrenplayingatevil.And lest none remain to learn his lesson,he tossed the bodies of his playthings into their own pit,and letflowhis own vitae into the well.Threemortals survived to lapup the blood thathe gave unto them; only three, from the hundreds who had worshipped at the well.
 
@@ -215,6 +254,10 @@ The first of the threewas Nergal,the terror behind the legend of the Babylonian 
 
 The second of the three was Moloch,who went by the names Andramelech and Ba'al Hammon.He was the progenitorof several orders,includingtheAvatars of theSwarm.Like theproverbial plagueof locusts,he spread theBaaliacrossthe Phoenician Empire.He mostly Embraced those descended fromthefirsttribe.
 
+<!-- image -->
+
+<!-- image -->
+
 ## ASHUR THE UNNAMED
 
 Fewmysteries of any sorthaveplaguedCainite scholarswith such persistence andurgency as thedetailsof theorigins of theBaali,not tomention theidentity of theirmysterious rogenitor.Therearemany,many tales; mutually contradictory accounts thatblame everyone from Caine toSaulot to demon-kingsof themysterious East for the plague that is theBaali.
@@ -225,13 +268,17 @@ Arabiclegendsnsteadoint totheruinsofaorgottencity,rected inthecraterofChorazin,w
 
 Still older,Easternapocrypha tellof awarrior-philosopher-Ashur,god-kingof an unconquered empire, "greatking,legitimatekingkingof theworld,kingofAssyria,kingofall thefourrimsof theearth,whorules from the Upper Sea to theLowerSea.This semi-mythicalruler's continued efforts to push the boundaries of his realm eastward,pastThebes and the cruel peaks of the Zagros,ended in failure.
 
-.Andenigma.
+...Andenigma.
 
 Chaldean lore traces theBaali progenitor to thenorthlands of Cappadocia. Other sources insist that his concealmentanddesireorseclusion,Assyrianorotherwise,stmmed fromahideousdeformityhecarriedback withhmfrmthaastahirdlingyewhichndasit,could setharsretsn darkdesires ofman.
 
 Which tales contain the truth?Were theBaali born of Ashur-called-Cappadocius?An unnamed ancient from the East?GentleSaulot himself?Or another wellspring entirely?
 
-The secret may liehidden forever.In themeantime,there isno shortage of speculation,though scholars who drawtoo close to the truth may find themselves studied in turn.
+The secret may liehidden forever.In themeantime,there isno shortage of speculation,though scholars who drawtoo close to the truth may find themselves studied in turn...
+
+<!-- image -->
+
+<!-- image -->
 
 ## THE LORDS
 
@@ -261,6 +308,8 @@ Within Mashkan-shapir,Nergal was god.According to myth,he was the Lord of the Un
 
 Nergal'sknowledgeof the Children's truenameswasby far themostcompleteofall theBaali.Fortunately,throughthe effortsof thefirsttribe,theoriginalnamesofthe Children had long since been lost.Nergal was forced to rely on secondary names and false titles with which toelicit help,and as such he
 
+<!-- image -->
+
 was farweaker than hemight have been.This knowledge of his inadequacy gnawed atNergal,who plotted ceaselesslyto addtohispower.
 
 Nergal'sdark hungersdrove himtocommit abomination uponabomination,andwhenprophecytold himhowitmight beaccomplished,hegrewwillingtosacrifice his own cityn returnforpower.Demons and lesser creatureshadwhispered toNergal that a Child slept beneath Mashkan-shapir;the mortals had supposedly sensed his presence andnamed him Namtaru,Spreader ofPlagues.Nergal knew how to contact this sleeper throughrituals of summoning,but didnotknow the sleeper's truename.Nor could he locate Namtaru'sbody despite massive excavations beneath the city,though he drove his subjects to tear up all that they had built in the search.Atlength Nergal decided that the onlywayto awaken Namtaru was to offer him a suitable sacrifice.The form that sacrifice would take was to be themortals ofMashkan-shapir.
@@ -273,9 +322,13 @@ Finally,Lasombraprieststothegoddessreshkigaluing powersnowlosttotheclan,penetrat
 
 Mashkan-shapirdied on that day.TheBaali charadewith the clanswasover,however,andmany fromthebloodlinehad alreadybeendestroyedasaresult.Ohersorewary,lpd away into thewide world towork their rituals in seclusion.
 
-## DISSONANTECHOES
+CHAPTER TWO:DISSONANTECHOES
+
+<!-- image -->
 
 ?
+
+<!-- image -->
 
 CLANBOOK:BAALI
 
@@ -307,6 +360,8 @@ Nergal told theD'habi to betray him,and conditioned them toforget theywere follo
 
 CHAPTERTWO:DISSONANTECHOES
 
+<!-- image -->
+
 waited for the repercussions.When Mashkan-shapir fell,it was oneof Nergalschilder,disguisedastheMethuselah,who vanished in the flood of darkness.The real Nergal had long since traveled toAshur.
 
 OverthecenturiesNergalsentasmall supplyofblood theD'habiso that theycould bind theirchildren to himwith theBlood-Oath.Thiskeptthefamilyblood-loyaltotheBaali Methuselah.With the D'habi as his eyes,ears and hands, Nergal infiltrated theBaali orders and learned their secrets. When the time came for hisreturn,Nergal knew his enemies and their weaknesses intimately.He then infected enemies with the blood-dust plague by poisoning the vitae of his ghouls,orassassinatedBaaliopponentsusingacorruptsectf Assamites ——who will be discussed later.TheD'habi,however,remained his perfect assassins and spies.
@@ -325,9 +380,13 @@ Afterannouncingthisrevelation,the Church belatedly realized that without Hell to
 
 Many Christian-bornBaalibelievethistheory, and commit flagrantactsof depravityinhopesthat Satan will acknowledge them.While the terrible reputation consigned to the Baali iswell-earned, this segment of the bloodline is by far the most violent and blatant in its activities.Indeed,these would-beSatanists are thereasonmost believe the Baali toworship Christian devils-they certainly proclaim that they do so loudly and often.
 
+<!-- image -->
+
 was intrrupted.Namtaru,buried again,fllbackintoful slumber.Itwas tooweaktoawakencompletely,butgrewmore aware of the world around it.It was no longer trapped in dreams.
 
 AlthoughNergal is longgone,his legacyisnot.Occasion ally, another"Shaitan"surfaces, claiming to be the original. More often than not,this newShaitan gathers a small group offollowers before whatever Cainites are in the vicinity destroy him.Invariably,aweak"Shaitan"will gather a cult of those who accept him as the returnedmessiah orcaliph,then feed on their devotion and sacrificeuntil such timeashe is annihilated,and hisfollowerswith him.MostBaalidismissthe
+
+<!-- image -->
 
 impostors as suicidal glory-hounds;a fewwonder if they are stalkinghorsesforNergaloreventhereal Shaitan,lullingthe Baali into complacency so that a real returnmight berelatively unopposed.
 
@@ -350,6 +409,8 @@ WhenCarthage finallyfell during theThirdPunicWar, theBrujah dreamwas alreadydead
 AsTroile fought the invading Cainites who accompanied theRoman army,theBaali were shocked to seeMoloch fighting alongside him.The Blood-Oath between the two forcedMoloch onto thefield ofcombat toprotecthislover. TheBaali sawboth fall-twinedineach other'sarms-and melt into theground.TheRomans,guided by theirVentrue andLasombramasters,saltedtheearthandperformedrituals to prevent either Cainite from ever rising again.The Baali couldhaventercededbutMolochhadsadlyprovenhimself weak.He allowed another to gain the advantage over him; despitehisstandingandlineage,hehadearned,andthuwas left to,his fate.
 
 Following Carthage,theBrujah despised theBaali with special vigor.They say theiruncontrollablerage comes from the loss of their ideals,and the Baali are inclined to agree.It isjustthattheBaaliknowthattheBrujahlosttheirideals,not when Carthage fell,but rather when they prostituted their ethics for power and legend.Deep down,the oldest Brujah know this.Suchknowledgeisacurse they willcarrywith them forever,and awound theBaali enjoy saltingwhen they can.
+
+<!-- image -->
 
 D
 
@@ -379,6 +440,8 @@ Following the birth of Islam,the Baali faceda battle on two fronts.The first was
 
 By thetmetheBaalireceived thenews,however,itwas toolate.Mecca had fallen toMohammed,and the Islamic Assamites had captured their rebellious brethren.Unfortunately,that was not the end of the matter.The corrupted assassins confessed under torture,revealingall theyknewof
 
+<!-- image -->
+
 theBaali.TheunitedAssamitesused this knowledge tosweep through ArabiaFelix and theFertile Crescent,destroyinga dozen nests in under a week.They also eliminated theBaali's holdoverthecitiesofaghdadYathrib,AcreandSion.ny Baali they capturedwere hungupside-down in shielded boxes and leftin the sun.Each box had onepinprick-sized hole that allowed a thinray of sunshine through.Moving slowly as the sun set,the beamwould travelacross thebody of the Baali, cutting him inhalf like a slow hot blade.
 
 After each raid,the Assamites left behind loaves of unleavened bread as their signature;a move of arrogance, perhaps,butavainand foolishmistakenonetheless.Stungby thehuntandbytheinsult,sixofthestrongestBaalinestsmet at the Ibli-al-Akbar organ pit inDamascus toperform a ritual to counter the clan of assassins.Theritual took months to prepare, during which time the Baali used two captured Assamites and sacrificed over 200 mortals.Each victim ingested a drop of assassin blood before the Baali hung them upside-down and affixedweighted hooks to their flesh.The weights pulled on the hooks,slowly flaying the mortals in agony.TheBaali collected the blood thatflowed from these victimsdistilledithroughalchemyandoferedtheresulting elixir to theDecani.Once the elixirreceived the blessing of theDemons of Disease,the ritual-master force-fed the concoction to thetwoAssamites,then sacrificed them over the organ pit.That completed thecompact between theDecani and the Baali, thus cursing the Alamut Assamites.
@@ -401,6 +464,8 @@ In the 1lth century,a Baali namedAzaneal came across texts claiming thefabled ga
 
 Shaitan had indeed hidden the gate to Chorazin's lower citywithin themurky shadows,and theangells succeededin opening that gate.What they discoveredwas a buried city beneath Chorazin,built after massive excavations uncovered thebody ofNamtarucenturiesago.Thecity,surmountedwith wards that killed many coven members,held secrets and wisdom that would have beggared the mind ofSolomon. Greatest among the mysteries was the hallowed pit where
 
+<!-- image -->
+
 Namtaru had slept for centuries.During hisfitful sleep,the Child scratchedsymbols andwords intothe stone walls of his tomb.Thescriptthuscreatedwas of such power thatit did not wait to be read,but simply leapt into the minds of those present.Thenewknowledge shattered whatremained of the souls of Azaneal and his accomplices;they became little more than husksfilledwith Chorazin's darkness incarnate.A thirst forblood,perhapstofill thevoidintheiroulsandalust besoleinheritor of Chorazin'swealth overwhelmed the self control of the intrepid explorers.They fellupon one another in bestialrage.
 
 ## AN ADVERSARY's AFFAIRS
@@ -408,6 +473,10 @@ Namtaru had slept for centuries.During hisfitful sleep,the Child scratchedsymbol
 This iswhere theBaali are now.It istoolate to stop the taintedknowledgefromreachingthefarcornersof Europe,but it is earlyenoughyet topunish theguilty.With theAssamites and Azaneal's war in the Levant,many Baali have fled to Europe.TheeldestBaali seek quiet refuge here while newcomers arecomfortable enoughwiththeChristianworld tobuild newnests across theFrankishkingdoms.Survivors of theolder ordersfind thosenests they can,eliminate the dangerous ones themselves and then betray the remainder to the local clans. Usually this tactic of sacrificingtheyoung and foolish sates the clans'bloodlust for Baalivitae;therest are left in peace when the other Cainites return home,satisfied that they arenow "safe" from the Baali menace. Even the old ones of the bloodlinemustbecareful,fortherearestillthoseCainiteswho remember the Baali fromMesopotamia,orwho have heard tales of Mashkan-shapir and Knossos from their sires.Azaneal is alsorumoredtohavesenttwogeneralsintoEuropetorecruit newBaali and infernal allies.
 
 OnlyAzaneal survived thatnight,albeithanged.Hewas stillBaali,but armedwithan inherentunderstanding of the shadows of hisown soulandthe doctrines of the angellis ater with which to guide his actions.Azaneal made Chorazin his home,andwentontoEmbraceBaali loyal tohimalone.With a core group of supporters,Azaneal announced his mastery over Chorazin,and demanded the Baali unite under his standard.Manyyoungermembers of thebloodlineflocked to him(a good thing,as all ofAzaneals childer proved sterile), but olderBaali ignored his call.Azaneal repaid their consid eration by declaringwar and attackingmany venerable nests throughout theLevant.For thefirst time since the manipula tiveheresieoffasShaitanaalipnlposedeachot —one ofmany struggles marking the end-times,according to more than oneprophetof doom.
+
+<!-- image -->
+
+<!-- image -->
 
 ## ENDGAME
 
@@ -417,15 +486,23 @@ Standingwitha lantern in his hand,theyoungmanremainedmotionless.Above him,Jonath
 
 Theyoungmanwatched impassively ashisJonathan spat,thenchoked.Afly,coated withanoilymixtureof saliva and blood, emerged frombetween his parted and cracked lips.Severalmore followed.Jonathan couldno longer even attempt tocry out as escaping fliesfilled his throat;hisneck bulged andhiseyes widened inmute panic.He twistedupon the chain likea hookedfish, wouldemerge fromthishumanchrysaliswithouthishel,and theyoungmanneeded towatchtheothermortalhostsduring this,the crucial birthing season.It was time to awaken the darkness.
 
+<!-- image -->
+
 CK
 
 CHAPTERTWO:DISSONANTECHOES
+
+<!-- image -->
+
+<!-- image -->
 
 ## hapter Three: Desrent into
 
 Jtharge thee to return and rhange thy shape; Thjou art too ugly fo aftend on me. Bo, an return an ols Srantiscan friar; That joly shape becomes a Sebil best. Christopher SHarlowe, ortor Saustus
 
 The aali are among the least understood Qainites in the ark SHedieval worlo. Though uujmate guu fgatan aj fig gabfog anu fiag ofother ainites,the aali and their goals, organisation and Sarkest serrets nre ultimately mysteries to outsioers. Qlny who pry foo rlosely are eitfer destroyed by fhe bloodline or subsumes by it.
+
+<!-- image -->
 
 ## HRMIES OF DARKNESS
 
@@ -439,6 +516,8 @@ The Baaliare abloodline divided by differentreligions and philosophies.One pract
 
 SomeBaaliclingsoclosely toderived tradition thatthey use these"organ pits"toEmbrace theirprogeny.A sire slits his ownwrists andpourhisvitaeintoasevered humanheart.This vessel is then placed in the center of the pit—or at the bottom,depending on the size.The sire drainshis thrall toa
 
+<!-- image -->
+
 CLANBOOK:BAALI
 
 point near death,upon which the weakened mortal must reach the heart by crawling or swimming through the pit. Once there he may feast upon it and Become a vampire. Should he fail,his remains fill the pit as a lesson for his successors
@@ -447,13 +526,15 @@ This ordeal is as ritual as it is selective.The Baali only Embrace thestrongor t
 
 ## EMBRACING THEDEAD
 
-The Baali still occasionally poach members of other clans, subverting them to the worship of their darkmaster.Such initiates are re-Embraced by the Baali in horrifying ritual fashion.Theinitiate isdrained completely bya Baali nest-master,whothen allows the pseudoneonate torecapture his ownbloodbydraining him in turn.While this bizarre practice does notquitenactthembrace,it oesfmly stamp theinitiate asBaali.Formore informa tiononthesecreatures,seetheMerit:Apostat on page 44.
+The Baali still occasionally poach members of other clans, subverting them to the worship of their darkmaster.Such initiates are re-Embraced by the Baali in horrifying ritual fashion.Theinitiate isdrained completely bya Baali nest-master,whothen allows the pseudoneonate torecapture his ownbloodbydraining him in turn.While this bizarre practice does notquiteeenactthembrace,it oesfmly stamp theinitiate asBaali.Formore informa tiononthesecreatures,seetheMerit:Apostat on page 44.
 
 ## BELLY OF THE BEAST
 
 Like many other immortal creatures, the Baali seem drawn to places of antiquity.They make their havens in abandonedchurches,long-disusedtemples,overgrownruins, subterranean caverns,labyrinthine catacombs, and other forgotten places.The more closely the site is tied toreligion, the better—almost as if the creaturesare irresistibly drawn to that which theymost despise.
 
 It is additionallyrumored that noBaalican linger in one placefor verylongwithoutbetraying hints of heridentity or true masters.Is thisbecause of their unforgiving pantheon's demand forflagrant acts ofworship?Indiscretion brought on by a gradual uncouplingfrom sanity?Exposure toincomprehensiblethings outside themortal world?Acurse leviedupon thebloodline?Or somethingelse entirely?No one knows for sure,though themost pessimistic among the clans think that theBaalisimplywish tospread their taint asfarand asfast as possible.
+
+<!-- image -->
 
 CHAPTERTHREE:DESCENTINTODARKNESS
 
@@ -485,6 +566,10 @@ whose name (devil") has been perverted from its original meaning,"one who sees")
 
 Beneath the shaitan,what was once an ancestral and rigidly formalized culture has since collapsed into fractious feudalism.Some few pockets of elders still exist,and they
 
+<!-- image -->
+
+<!-- image -->
+
 observe and enforce the ancient ways.However,they are an increasingly endangered minority.In these dark nights,the remainingBaali cling to one another in covens of fivetoa dozen members scattered across Europe and other,foreign shores.Occasionally a renowned member ofthe bloodline accumulatesa larger following,either through direct appointment on some special crusadeinthename of the shaitan(such lieutenants areknownasal'shaitan),intricatepoliticalnavigationsorrepeated effective demonstrations ofbruteforce,but suchuprisings arerelativelyrare.In general,traditional Baali seem content to bow before their covenmasters (and mistresses),workingassubversive threadsinasinistertapestryto further their Masters'ultimate ends.
 
 And thenontraditional ones?Forthem,there can never be enough blood in the streets.
@@ -513,6 +598,8 @@ Fervent devotion,unfortunately,often drownsinunrea soninghatredandbloodlust.Inre
 
 ## THE LABRYS
 
+<!-- image -->
+
 Wear thismedallionwhenyou come to greet your brethren.Itis theLabrys.Within Crete,it was the standard for the House of the Double-Axe, better known as theMinoan symbol for theLabyrinth.It represents the horned head of Ba'al,whose blows crack likethunderandsplit open the skullsof our enemies.It is also the weapon with which we shall smite the wall of the divine.There is power within this symbol,for those who wear it choose to become the wolf,not the sheep,the victorandnot the victim.Other Cainites have forgotten its meaning,so youmay wearitin their presence without fear ofreprisal.Anywhere your gaze comes upon theemblemof the double-axe,know that your brethren are nearby.
 
 ## THE CELESTIAL
@@ -522,6 +609,8 @@ Let me put the question toyou in anothermanner,one better suited toyourupbringin
 Many Baali insist that sages suchasSolomon,beneath theirGnostic,Qaballistandmystical trappingsall servedthe same masters—loftypowers beyond shedim and seraphim, beyond Heaven and Hell,beyond even s such meaningless distinctions as"good"and"evil."Overthese beings,ina place nonecanfollow,theircreatorrules,anameless,omnipotent entity akinto theJudaicYHWH orTetragrammaton.
 
 Following in the footsteps of their predecessors and parentcultures,angelic(anddemonic） scholarsusemillennia ofcompiledcharmsandcirclestoyokeotherworldlybeingsto their will.These Baali do not often make their presence
+
+<!-- image -->
 
 known in Cainite power struggles;suchtemporal concerns are unimportant to them.They are more concerned with the lifetime of lifetimes they have with which to acquireknowl edge—with the ultimate goal of using that knowledge to achieve godhead.Occasionally one such creature (or,more likely,her summoned minions) emerges from solitude to acquire some trinketorgrimoire hercircle doesnotalready possess,but suchoccasions arefew and farbetween.
 
@@ -536,6 +625,8 @@ SomeBaali claim to hear the sirensong of theirmasters that much more clearly tha
 Avatars of theSwarm(fortheirideology admitsnone of the familiar Cainite concepts of siring or generation) unfail ingly cling to a single unifying principle.Their sole purpose, or so they claim,isperpetuationof the swarm fromwhence theywereborn,andpromulgationofthe sweetsongs thatissue therefrom.To this end, the insect-beings employ mortal prisoners as grotesque birthing-flesh for their larvae, defy traditional conceptions ofdeath through the cultivation of gargantuan organ-pits,andgatheringreat subterranean hives ——the better toperfect their unity.
 
 lronically,these servitorsdrones in service to their progenitor,whoiking,quen,mother,father,andshelt them all atonce— areamong themosttolerantofBaal's children,for they work to unify all oppositions into their vision.Theirs are the parts made strong in a seamlesswhole. Theirs is the secret thathas slept since the birth of the world. And theirs is the great rebirth that will herald the return of darkness,under a sky blackenedbybillions of beatingwings.
+
+<!-- image -->
 
 ## THEMYSTERY
 
@@ -553,13 +644,15 @@ Drivenby motivations even they do not fully understand, these"Children of the En
 
 Someof thosefewwhohaveheardmore than oldwives talesabout theBaalibelieveinternecine squabblesrootedin individual(andoftenirreconcilable)philosophies,practices, andpoliticaldivisionstobethesolereason theBaali have not
 
+<!-- image -->
+
 ## BLOOD AND SHADOWS: THE LEGACY OF AZANEAL
 
 Producinga wickedly curved dager from his sash,the high priest brought the blade to bear against thepallid fleshof hisforearm,cutting so deepthat the light shone on bone.The bloodflowed freely down the priest's arm as thefirelight threw the crimson stream's shadow against the far wall. Two acolytesheld the captive'shead skyward to catch the shadow-dropsof blood as they plummeted down the rockface.
 
 At length thechanting stopped,and the cavern was shroudedin silence.Thefirst of the bound and blindfolded initiates was draggedbefore the assembly,past thebonfireand across to thefar side of the cave,where the shadows of the observers danced and played against the rock wall.
 
-And the initiate screamed.
+And the initiate screamed...
 
 There are those among the progeny of Lasombra whose focus on the darkness within graduallybecomes an obsession with the darkness without.Thesedevil-worshippers are calledangellis ater,or"black angels'(see Libellus Sanguinus I: Masters of the State).
 
@@ -568,6 +661,12 @@ Theparticularsof theseinfernalistsfirstmeeting with the Baali are not known.Howe
 Players and Storytellers may wish to intro duce Baali of the Azaneali strain into their Chronicles.For such creatures, Obtenebration may replace either Daimoinon or Presence. AzanealiBaalimoreoftenthannot,are soullss vessels —puppet-husks wandering the world at the whim of their diabolical masters. Some,like Azaneal himselfretain somemeasure of freewill, but their blood is weak—all of their childer are sterile,and cannot pass on Caine's curse.
 
 CLANBOOK:BAALI
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
 
 triumphed.The more energy they expend on internal strife, the less is available to use in an attempt to summon the universal demiurge.
 
@@ -579,15 +678,17 @@ TheBaali propensity for exploration andveneration of the vile and unspeakable is
 
 Thisdualitybecomes curious,however,inlightof tradi tional Baali practice and preference.The overwhelming majority of theBaalidonotpubliclyacknowledgefaithsother than theirown,much lesslend any credence to them.How is it,then,thatthesesame Cainitesfleeinterrorfortheirunlives
 
+<!-- image -->
+
 when confrontedwith acrucifix orreligious text bya true believer?Andwhat canexplain the fascination(and historical association)of theBaali with those of the cloth?
 
 The Baali themselves are at a loss to resolve thismeta physical dilemma.Many of theirnumber,typically the young and zealous,dismiss"True Faith"as untapped inner potential. Baali Sires seethose exceedinglyrare and powerfulindividuals as all themoreworthyof subversionand theEmbrace,bymerit of their exceptional qualities.But both of these approaches sidestep thereal question.
 
-The eldestandmostknowledgeable Baali takea more metaphysical tack.When pressed on thematter,they hint at the existence ofpowers beyond even their comprehension, and the ability of the"faithful"to tapinto such powers.Those of the bloodline who do believe in such heresies,however, invariably keep their beliefs to themselves.To suggest the existence of abeing even more powerful than the bloodline's patron, after all, threatens the very foundations of his worship.
+The eldestandmostknowledgeable Baali takea more metaphysical tack.When pressed on thematter,they hint at the existence ofpowers beyond even their comprehension, and the ability of the"faithful"to tapinto such powers.Those of the bloodline who do believe in such heresies,however, invariably keep their beliefs to themselves.To suggest the existence of abeing even more powerful than the bloodline's patron, after all, threatens the very foundations of his worship....
 
 ## BAALI AND THE INFERNAL
 
-TheBaali areall toofrequently dismissedasminionsof Satan by theChristian-dominated principalitiesof Europe.In such a simple assessment-theBaali's patron reduced toyet anothermanifestation ofLucifer—their ties ofblood are nothingmore thanwitches'covens,and theirpowersnothing more than the mark of the Beast. Such are the follies of culturalegocentrism.Intruth,theCainitesofEuropeandAsia Minor could notbe more self-deceived.or in greater danger from such self-deception.
+TheBaali areall toofrequently dismissedasminionsof Satan by theChristian-dominated principalitiesof Europe.In such a simple assessment-theBaali's patron reduced toyet anothermanifestation ofLucifer—their ties ofblood are nothingmore thanwitches'covens,and theirpowersnothing more than the mark of the Beast. Such are the follies of culturalegocentrism.Intruth,theCainitesofEuropeandAsia Minor could notbe more self-deceived...or in greater danger from such self-deception.
 
 Itis true that,with the turnof themillennium,many of the servitors ofBa'al have become concerned (somewould say obsessed)with the Christian faith,even going so far as to incorporate it into their ownsystem of beliefs.On the other hand,thisishardlyaunilateralpractice.Overthecourseofthe history of mankind,manymore have worked theworship of their patrons into the circles of such powers as Anu,Dagon, Hecate,Loki and a hundred others,aswell as a numberof entities tooalien andremoved for even the earliestcivilizations toremember.
 
@@ -600,6 +701,10 @@ Whileit is true that theBaali bloodline has more dealingswithinfernal powers tha
 Investments aremore common among those Baali recruited from other bloodlines and clans than they are among "true" Baalimany of the newcomers feel pressure to emphasize their commitment to the bloodline. On the other hand, olderBaali (and particularly those on the Road of the Hive)recognize the magnitude and consequencesofaninvestment,and arethusinclined to bemore cautious in their pactswith the other side.
 
 CLANBOOK:BAALI
+
+<!-- image -->
+
+<!-- image -->
 
 ## GHOULS
 
@@ -619,6 +724,8 @@ FollowingShaitanscrushingdefeatinCrete,thoseyounger Baali whoescaped tooktheD'ha
 
 Havingbeen forced to such depravity for centuries,the D'habi are degraded to an unimaginable degree.They are no longer the same family who served Nergal;they aremonsters asvile and loathed as their masters.The family accepts whatever behavioral aberrations crop up:necrophilia,canni balism,pederasty,and much,much worse.All that is kept
 
+<!-- image -->
+
 behind closed doors,however-servitude is all to theD'habi, andanythingthatendangers thatservitude or theirmasters is a threat,tobe annihilated post haste.
 
 Appearance:TheD'habiare generallyquietandreserved in public.Most bear some disfiguring marks or other,quiet evidence of harsh upbringings or sexual depravity. Common disfigurements include torture scars,missing digits(children of thefamily often havefingers ortoesbitten off asaform of punishment)and multiple lesions and warts from sexual diseases.The diaspora of theBaalihasscattered their servitors as well, and there is no longer a uniform"type"to theD'habi. The soleremaining trait they shareisanintense,penetrating gaze.
@@ -636,6 +743,10 @@ PreferredRoads:Most followViaDiabolis.ViaHyron is forgotten among theyoungerD'ha
 Family Organization:The D'habi hierarchy is based strictlyonage,ratherthangenderoranyotherconsiderations. The eldest surviving D'habi is theundisputed head of the household,with power proceeding down through thegenera tions to theyoungest.
 
 Baali Duties:D'habi are the hands of the Baali in the mortal world.Therevenants perform chores such askidnappingvictims,diggingupgraves,robbingchurchesand temples and assassinating those who come too close to the nests.In rituals,DhabiassisttheBaaliomletingrolesthatrequi mortal"touch"—inseminatingvictims,usingtheirspit,urine orexcrement to complete arite,and soon.
+
+<!-- image -->
+
+<!-- image -->
 
 ## AsSAMITES
 
@@ -657,7 +768,7 @@ In the final reckoning,the only true understanding between us can be thenakedbla
 
 ## FOLLOWERS OF SET
 
-Clearly these base defilers represent incontrovertible evidence of ourkind'scommon origins.Do theynot hail from the earliestcivilizationsof thekine?Dotheynotpray toa Lord ofDarkness?Andyetthesewayward foolsfallpreytothepetty Westernreoccupationwithmatrialleasuresassionsan perversions. Such wasted potential.
+Clearly these base defilers represent incontrovertible evidence of ourkind'scommon origins.Do theynot hail from the earliestcivilizationsof thekine?Dotheynotpray toa Lord ofDarkness?Andyetthesewayward foolsfallpreytothepetty Westernreoccupationwithmatrialleasuresassionsan perversions. Such wasted potential...
 
 ## GANGREL
 
@@ -670,6 +781,8 @@ It is an amusing andnot altogether uninspiring allegory that ties the darkness c
 ## MALKAVIANS
 
 Their madness poses a singularmystery.Have they truly glimpsed the Beyond,and in so doingbeen touchedby that which otherswould term insanity?Or are their delusions of a
+
+<!-- image -->
 
 more personal,insignificant sort?Listen to them and learn what you can—but tarry not overlong,lest lunacy prove infectious.
 
@@ -693,7 +806,7 @@ These self-blinded narcissists are obsessed with beauty, material comforts,andvi
 
 ## TREMERE
 
-Imagine!A fugitive band of wand-waving wizards who first pried immortalityfromthefingersof theirgreatestcompetitors,then subjugated thesoul ofan ancientin theirquest for power.Such determination!Such divine treachery!And tothinkit issaid thatwe arebeyond theunderstanding of our Western brethren.
+Imagine!A fugitive band of wand-waving wizards who first pried immortalityfromthefingersof theirgreatestcompetitors,then subjugated thesoul ofan ancientin theirquest for power.Such determination!Such divine treachery!And tothinkit issaid thatwe arebeyond theunderstanding of our Western brethren....
 
 We shall speakmore with theTremere anon,I suspect.
 
@@ -721,7 +834,9 @@ TheRestlessDead have escapeddamnationby thenarrowest of margins. lt is our duty 
 
 ## AN EXOTICEPIPHANY: BAALI AND THE EAST
 
-Although the vast majority of the so-called "historiesof the Baaliare apocryphalmostmakea point of tying thebloodline to themysterious East. Nergal-called-Shaitan is thought to havemarshaled hisfirstfollowers after asojourn totheFar Eastto study with inhuman masters in mountains high enough to be called "The Roof of the World." Stories of walking corpses hungry for life-essence and dripping corruption come from the lips of traders and madmen out of the Eastern deserts.And it hasbeen written thatAshur himselfdivineruler of the Assyrian Empire,returned home alone, humbled and broken,years after leading an enormous army to far shores of which there are no records in Western maps or chronicles.
+Although the vast majority of the so-called "historiesof the Baaliare apocryphalmostmakea point of tying thebloodline to themysterious East. Nergal-called-Shaitan is thought to havemarshaled hisfirstfollowers after asojourn totheFar Eastto study with inhuman masters in mountains high enough to be called "The Roof of the World." Stories of walking corpses hungry for life-essence and dripping corruption come from the lips of traders and madmen out of the Eastern deserts.And it hasbeen written thatAshur himselfdivineruler of the Assyrian Empire,returned home alone, humbled and broken,years after leading an enormous army to far shores of which there are no records in Western maps or chronicles...
+
+<!-- image -->
 
 ## NEW TRAITS
 
@@ -735,7 +850,7 @@ Youareversednthelreofangelsmons,vas,vil and otherworldly beings.You may befamili
 - Student:Although you have a hard time separating truthfromrumor,youknowa fewrelevantfacts.
 - Learned:You possess basicknowledgeof thenether realms and their inhabitants.
 - Scholar:Yourknowledge pertaining to various incarnations of the celestial and infernal is expansive and encyclopedic.Youpossess aconsiderablerepertoire of ritesand rituals—which may or may not work.
-- e Savant:The very manner inwhich you perceive reality hasbeen altered by your eldritch understanding.The breadth anddepthof yourknowledgerivalsthat of theancient masters of the hidden arts.
+- eeeee Savant:The very manner inwhich you perceive reality hasbeen altered by your eldritch understanding.The breadth anddepthof yourknowledgerivalsthat of theancient masters of the hidden arts.
 - eoeeoe Visionary:Yourcommand of thegreatsecrets is beyond theken of mere mortals.You are known tomany of the greater powerswho dwell Outside—andknow them in turn.
 
 Possessed by:Baali,Clergy,Cultists,Mystics,Scholars, Tremere,Witches
@@ -747,6 +862,8 @@ Specialties: Christian,Gnostic,Norse,Qaballah,Sufi, Wicca
 Plague is as much a part of theDarkMedieval landscape asmud and death.Without knowledge of the true causes of disease,mortals(and immortals aswell) lay theblame at the feetofblackcatswitches,spiritsandassortedminoritygroups whom everybody knows to poison the wells.
 
 Butwith thisKnowledgeyouknowbetter.Youknowhow tobrewdisease in corpses,how tofeedcorruption and taint until you have a bubbling cauldron ofplaguereadytoloose upon the world. You understand instinctively how to use verminand insects to spread disease,and caneven directthe spread of plague to a certain extent.When mounting sieges, you knowhowtousedisease as aweapon withwhich toreduce towns and fortresses,andyoucanevenpoisonsomeonewith disease-causing agents so that the death looks natural.
+
+<!-- image -->
 
 - Dabbler:You knowthat letting a corpserotbrings flies
 - Student:Youcan poisonwells ordirect siege engines to catapult corpses over city wall.
@@ -770,6 +887,8 @@ Though these legends are not without their grains of truth,that'salongwayfromsay
 But thatminority isgrowing.
 
 CLANBOOK:BAALI
+
+<!-- image -->
 
 XG
 
@@ -806,6 +925,10 @@ Someone once likened the Baali to a swarm of bees and Via Hyron as amandate form
 
 Thismaybethemost damagingaspectof Azaneal'srevolt against the elders of thebloodline.A devotee of ViaDiabolis, Azaneal teaches his followers the precepts of the angellis ater and notVia Hyron.As such,hisBaali have no loyalty to the restof thebloodline,orindeed toanyBaalibesidesthemselves and Azaneal.
 
+<!-- image -->
+
+<!-- image -->
+
 ## MERITS AND FLAWS
 
 Thefollowingis acollectionofoptional Merits andFlaws exclusively suited to theBaali.Use oradapt theseTraits to suit your needs.(Remember to consult your Storyteller before takingany Merits orFlaws;see the Appendix inVampire:the Dark Agesfor further details.)
@@ -830,6 +953,8 @@ AnybeingwithTrueFaithwhofacesaBaaliwith Unholy Auramust makeaWillpowerroll(diffi
 
 This singular affliction is seen as a sign of infernal favor; indeed,among devotees of the Swarm-God,the severityof one's affliction is treated as a badge of rank.Insects find the
 
+<!-- image -->
+
 characterirresistible(despiteorperhapsbecause ofherunliving nature),and flock to her immediate vicinity.Once attracted, the vermin never leave her presence.lnstead,they circle ina grotesquecloud,nomatterwhereshegoesorwhatprecautions she takes.As this swarm can neverbe dispelled,Baali afflicted with such devotees have certain problems in non-Baali social circles.
 
 ## CARRION COMFORT(3POINTFLAW)
@@ -847,6 +972,10 @@ Often referred to as the"Devil's marks" by mundane inhabitants of the Dark Medie
 Possibledeformities include,butarenot limited to:malformed teeth,club feet,a horrid stench,slimy excretions, toughrwartyhide,parasiticnstation,utrescence,vesti gial wings or other ineffectual(perhaps additional) limbs.The although magic orDisciplines can hide them from plain sight.
 
 Note:The disfigurements mentioned here are not a re placement for the marks of Demonic Investments.Instead, they manifestin addition to those tangibleproofs of dealings with the infernal.
+
+<!-- image -->
+
+<!-- image -->
 
 CHAPTERTHREE:DESCENTINTODARKNESS
 
@@ -900,6 +1029,10 @@ System:Open theWayis in facta power and part of the DaimoinonDiscipline.However,
 
 The preparatoryritualrequires a tremendous investment of time and sacrifice.In order toplace thecaster intheproper frame of mind,he must chant paeans to the entity he is attempting to awaken,uninterrupted,for 48 consecutive hours.Theslighteststammer orinterruptioncauses theriteto fail,and maywell attract the unwelcome attention of the entity being petitioned.At the conclusion of the chanting, the Baalimust thenmake a sacrifice consisting of ahundred free,untainted souls.Thevictims sacrificedmaybemortal or
 
+<!-- image -->
+
+<!-- image -->
+
 Cainite,butall must have a Conscienceratingofatleast four. At this point, the Baali summons and releases all of his Willpower,expending9pointsof ermanentWillpowerinan attempt to shatter the bonds holding hismaster outside the world.IfaWillpowerroll(difficulty10)issuccessful,theBaali becomes an empty vessel and the gate through which his master flows backinto reality.
 
 From that point on,thecharacter is no longer playable, as he has become an aspect of his foul master.On the other hand,theworld now has graver concerns that the disposition ofa single Cainite.
@@ -918,6 +1051,12 @@ System:The player must succeed in a Manipulation Leadershiproll (difficulty 6)to
 
 Baali hedgingtheir betswith this sort of deal canmake "concessions"to the inhabiting creature to win more cooperation.Itis up to theStoryteller to determine what sort of goodies thepossessingdemonmightwant,whatitcould give inreturn,andwhether ornot it will keep its bargains.
 
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
 ## japter Sout:21 Sjiseous Thirong
 
 Qln8 travelers now witfin that palley Through thje redlitten windows see Ynst forms that mobe fantastically Ton diorordant melody; 2Uile, like a rapi8 ghastly rioer, Thjrough tfje pale Boot, 2l hieous tfrong rusth out foreuer Qln8 Iough — but smile no more.
@@ -926,7 +1065,9 @@ Eigar Qllen poe, The jauntes palace
 
 Theali arfnoting leirselotbut n feir ieit, fhey share theabiity to rause fearUhetherfienorferalswarm ot summoner, they uniformly inspite wisesprend whispersan&amp; woe.
 
-plagersalieSeelfreeto cange temfo suit our styleswapraits alter emeanors or rearrange them altogethjer. The armies of Sarkness, aftet all, jaue n ffousand faces.
+plagersalieSeelfreeto cange temfo suit our styleswapraits alter emeanors or rearrange them altogethjer. The armies of Sarkness, aftet all, jaue n ffousand faces....
+
+<!-- image -->
 
 ## STUDENT OF FLESH
 
@@ -943,6 +1084,8 @@ CLANBOOK:BAALI
 Concept:YourSire'scruel Kissfreedyoufromthe human constraints hinderingyour work.Your studies often necessitatefiendish torture-—but are alsopioneeringmedicalresearch. The pain you cause others comes not from any perverse pleasure or cruelty (although suffering and its associated responses do sometimes work their way into your research),but,rather,genuine scientific curiosity.Your rivingmotiveisalien anddtached,erhaps,but at root it is still just curiosity.
 
 Roleplaying Hints:Although you pay lip serviceto the sporadicgatherings and rituals ofyour brethren,
+
+<!-- image -->
 
 G
 
@@ -984,7 +1127,7 @@ MENTAL
 
 Strength
 
-Charisma 00
+Charisma 00000000
 
 Perception
 
@@ -1010,15 +1153,15 @@ SKILLS
 
 Acting.
 
-AnimalKen\_oo
+AnimalKen\_oooooooo
 
 Academics
 
-Alertness 00
+Alertness 00000000
 
 Archery.
 
-HearthWisdom\_Oooo
+HearthWisdom\_Oooooooo
 
 Athletics
 
@@ -1032,7 +1175,7 @@ Etiquette
 
 Law
 
-Dodge 00
+Dodge 00000000
 
 Herbalism
 
@@ -1050,13 +1193,13 @@ Music
 
 Occult
 
-O000
+O0000000
 
 Larceny
 
 Ride
 
-o000
+o0000000
 
 Politics
 
@@ -1084,11 +1227,11 @@ Daimonion
 
 - [ ] Contacts
 
-- [ ] Conscience/ConvictionOo
+- [ ] Conscience/ConvictionOoooo
 
 Auspex
 
-0o00
+0o000000
 
 Resources
 
@@ -1096,7 +1239,7 @@ Obfuscate
 
 Generation
 
-Self-Control/InstinctoOo
+Self-Control/InstinctoooOo
 
 Courage
 
@@ -1138,7 +1281,7 @@ VulnerabliltytoFaith
 
 口
 
-10D
+10000D
 
 口口
 
@@ -1180,6 +1323,8 @@ Roleplaying Hints:Youhave heardofmany differentnames for them,but they will alwa
 
 Equipment: Authentic copy of thePicatrixandthe BookofWisdom; feather and quill; travel book; invocation candles;chalk.
 
+<!-- image -->
+
 ## CLANBOOK: BAALI
 
 FORSTORYTELLERUISE ONLY!
@@ -1220,7 +1365,7 @@ Perception
 
 Dexterity
 
-Manipulation\_oo
+Manipulation\_oooooooo
 
 Intelligence
 
@@ -1240,7 +1385,7 @@ SKILLS
 
 Acting
 
-AnimalKen\_Oooo
+AnimalKen\_Oooooooo
 
 Academics
 
@@ -1248,7 +1393,7 @@ Alertness
 
 Archery
 
-HearthWisdom\_Oooo
+HearthWisdom\_Oooooooo
 
 Athletics
 
@@ -1310,13 +1455,13 @@ Daimoinon
 
 Herd
 
-Conscience/Conviction\_o
+Conscience/Conviction\_ooooo
 
 Dominate
 
 Retainers
 
-Self-Control/Instinct\_Oo0
+Self-Control/Instinct\_Oooo0
 
 Courage
 
@@ -1342,7 +1487,7 @@ WILLPOWER
 
 - [ ] Crippled -5 口
 
-□□□□
+□□□□□□□□□□
 
 - [ ] Incapacitated 口
 
@@ -1352,7 +1497,7 @@ BLOODPOOL
 
 VulnerabliltytoFaith
 
-- [ ] □□□□ □□□□
+- [ ] □□□□□□□□□□ □□□□□□□□□□
 
 ## IuDAS GOAT
 
@@ -1420,7 +1565,7 @@ Dexterity.
 
 Manipulation
 
-0o0
+0o0000
 
 Intelligence
 
@@ -1428,7 +1573,7 @@ Stamina
 
 Appearance
 
-.o00
+.o000000
 
 Wits
 
@@ -1442,15 +1587,15 @@ SKILLS
 
 Acting.
 
-AnimalKen\_oo
+AnimalKen\_oooooooo
 
 Academics
 
 Alertness
 
-- [ ] Archery 00
+- [ ] Archery 00000000
 
-HearthWisdom\_oo
+HearthWisdom\_oooooooo
 
 Athletics
 
@@ -1512,7 +1657,7 @@ Auspex
 
 Generation
 
-Conscience/Convictiono
+Conscience/Convictionooooo
 
 Dominate
 
@@ -1520,7 +1665,7 @@ Contacts
 
 Daimoinon
 
-Self-Control/Instinct\_o
+Self-Control/Instinct\_ooooo
 
 Courage
 
@@ -1546,7 +1691,7 @@ WILLPOWER
 
 - [ ] Crippled -5 口
 
-□□□□
+□□□□□□□□□□
 
 - [ ] Incapacitated 口
 
@@ -1558,7 +1703,7 @@ VulnerabliltytoFaith
 
 口口
 
-□□□□
+□□□□□□□□□□
 
 ## DARK AVATAR
 
@@ -1571,6 +1716,10 @@ Althoughit seems centuries ago,you can vividlyrememberthetimebefore;the villager
 Concept:All that has gone before is a mystery to you.You know only that you are alone.It is yours alone to understand the nature of your solitude;you andyour brethren represent the crack between worlds, the gaping holeinallthatiswas,anwill
 
 CLANBOOK:BAALI
+
+<!-- image -->
+
+<!-- image -->
 
 everbe,theyawning chasm that hasbeen growing since the dawn of timethatthreatenstoswalloweverything.Whatthis means,you arenotsure,butyouknowitisterriblymportant. It isyours alone toremember;yours are the distant but all-too-clearvisions of theProgenitor,he whom legends nameAshur,Baal,NergalandMolochallatonce,mmrtal,integral,indivisible,and the searing symphony of shattering,each sliver weaker than its predecessors,a spiralingsequenceofdecayleadingtothedetrimentof
 
@@ -1606,23 +1755,23 @@ SOCIAL
 
 ## MENTAL
 
-Strength 00
+Strength 00000000
 
 Charisma
 
-Perception 0o00
+Perception 0o000000
 
 Dexterity
 
-o00
+o000000
 
-Manipulation\_oo
+Manipulation\_oooooooo
 
 Intelligence
 
 Stamina
 
-o00
+o000000
 
 Appearance
 
@@ -1636,45 +1785,45 @@ SKILLS
 
 ## KNOWLEDGES
 
-Acting 00
+Acting 00000000
 
-AnimalKen\_Ooo0
+AnimalKen\_Ooooooo0
 
 Academics
 
-Alertness 00
+Alertness 00000000
 
-Archery 00
+Archery 00000000
 
-HearthWisdom\_oo
+HearthWisdom\_oooooooo
 
-Athletics 00
+Athletics 00000000
 
 Crafts
 
-Investigation 000
+Investigation 0000000
 
-Brawl 00
+Brawl 00000000
 
-Etiquette 00
+Etiquette 00000000
 
 Law
 
-Dodge 00
+Dodge 00000000
 
-Herbalism 00
+Herbalism 00000000
 
-Linguistics 00
+Linguistics 00000000
 
-Empathy 00
+Empathy 00000000
 
-Melee 00
+Melee 00000000
 
 Medicine
 
-Intimidation 00
+Intimidation 00000000
 
-Music 00
+Music 00000000
 
 Occult
 
@@ -1682,11 +1831,11 @@ Larceny
 
 Ride
 
-Politics 00
+Politics 00000000
 
-Leadership. 00
+Leadership. 00000000
 
-Stealth 00o0
+Stealth 00o00000
 
 Science\_
 
@@ -1706,13 +1855,13 @@ Seneschal
 
 Daimoinon
 
-Generation oo00
+Generation oo000000
 
-Conscience/Conviction\_o
+Conscience/Conviction\_ooooo
 
 Obfuscate
 
-Self-Control/Instinct\_Oo
+Self-Control/Instinct\_Ooooo
 
 Courage
 
@@ -1740,7 +1889,7 @@ WILLPOWER
 
 - [ ] Crippled -5 口
 
-- [ ] □ □口
+- [ ] □□□□ □□□□口
 
 - [ ] Incapacitated 口
 
@@ -1750,9 +1899,11 @@ BLOODPOOL=
 
 VulnerabliltytoFaith
 
-- [ ] □0□ □□□□
+- [ ] □□□□□0□□□□ □□□□□□□□□□
 
 PLAYER:
+
+<!-- image -->
 
 DEMEANOR:CHLD
 
@@ -1818,25 +1969,25 @@ MENTAL
 
 Strength
 
-o.0o0
+o.0o0000
 
 Charisma
 
-0O00
+0O000000
 
 Perception
 
-o000
+o0000000
 
 Dexterity.
 
-- [ ] Manipulation 0Oo0
+- [ ] Manipulation 0Oo00000
 
 Intelligence
 
 Stamina
 
-- [ ] Appearance 00
+- [ ] Appearance 00000000
 
 Wits
 
@@ -1850,7 +2001,7 @@ SKILLS
 
 Acting.
 
-AnimalKen\_oo
+AnimalKen\_oooooooo
 
 Academics
 
@@ -1858,7 +2009,7 @@ Alertness
 
 Archery
 
-HearthWisdom\_Ooo0
+HearthWisdom\_Ooooooo0
 
 Athletics
 
@@ -1884,13 +2035,13 @@ Melee
 
 Medicine
 
-Intimidation 00
+Intimidation 00000000
 
 Music
 
 Occult
 
-Larceny 00
+Larceny 00000000
 
 Ride
 
@@ -1904,7 +2055,7 @@ Science
 
 Subterfuge
 
-o00
+o000000
 
 Survival
 
@@ -1922,11 +2073,11 @@ Daimoinon
 
 Mentor
 
-Conscience/Conviction\_o0
+Conscience/Conviction\_ooo0
 
 Status
 
-Self-Control/Instinct\_o
+Self-Control/Instinct\_ooooo
 
 Courage
 
@@ -1972,13 +2123,15 @@ Vulnerablilty toFaith
 
 口口
 
-□□
+□□□□□□□□
 
 口
 
 口
 
 门
+
+<!-- image -->
 
 ## CHAMPION OF CHAOS
 
@@ -2040,11 +2193,11 @@ Strength
 
 Charisma
 
-0O00
+0O000000
 
 Perception
 
-0o00
+0o000000
 
 Dexterity.
 
@@ -2052,11 +2205,11 @@ Manipulation
 
 Intelligence
 
-0o00
+0o000000
 
 Stamina
 
-o000
+o0000000
 
 Appearance
 
@@ -2072,7 +2225,7 @@ SKILLS
 
 Acting
 
-AnimalKen\_oo
+AnimalKen\_oooooooo
 
 Academics
 
@@ -2080,7 +2233,7 @@ Alertness
 
 Archery
 
-HearthWisdom\_Oooo
+HearthWisdom\_Oooooooo
 
 Athletics
 
@@ -2104,13 +2257,13 @@ Empathy
 
 Melee
 
-00oo
+000000oo
 
 Medicine
 
 Intimidation
 
-oo0
+oo00000
 
 Music
 
@@ -2146,21 +2299,21 @@ Potence
 
 Mentor
 
-Conscience/Conviction\_oO
+Conscience/Conviction\_oooO
 
 Presence
 
 Retainers
 
-0o00
+0o000000
 
 Daimoinon
 
 Herd
 
-0O00
+0O000000
 
-Self-Control/Instinct\_o
+Self-Control/Instinct\_ooooo
 
 Courage
 
@@ -2188,7 +2341,7 @@ O
 
 - [ ] Crippled 5 口
 
-□□□□
+□□□□□□□□□□
 
 - [ ] Incapacitated 口
 
@@ -2200,7 +2353,11 @@ VulnerabliltytoFaith
 
 口口
 
-□□□□
+□□□□□□□□□□
+
+<!-- image -->
+
+<!-- image -->
 
 ## VILE TEMPTRESS
 
@@ -2212,6 +2369,8 @@ Upon reaching womanhood, your hadyour destiny made clear toyou,andyour years of 
 
 CLANBOOK:BAALI
 
+<!-- image -->
+
 Concept:Devoted analyst of the fine distinctions between"right"and"wrong,"the notions of goodand evilare to you what pain and endurance are to your tormentminded contemporaries.Youcontinually testingthe bounds of morality,resolve and inclination.
 
 Youdelightinthetormentsyou inflict,and your triumphs over the souls of those so tormented.You are becomingmore like the Setites than anything else,pursuing evil deeds out of decadence and infantile hedonism; countless of your kind are sure to followyou down the samedegenerate path in the centuries to come.
@@ -2221,6 +2380,8 @@ Roleplaying Hints: Your elegant appearance and serene, standoffish manner cover 
 Equipment:Well-stocked wardrobefurnishedwith thebest fashions,quantity of readily accessiblewealth,stableofmen(all ofwhomyoumistreatmercilessly)
 
 NAME:
+
+<!-- image -->
 
 ## CLANBOOK: BAALI
 
@@ -2256,17 +2417,17 @@ Charisma
 
 Perception
 
-0o00
+0o000000
 
 Dexterity.
 
-- [ ] Manipulation 00
+- [ ] Manipulation 00000000
 
 Intelligence
 
 Stamina
 
-oO00
+oO000000
 
 Appearance
 
@@ -2282,57 +2443,57 @@ SKILLS
 
 Acting
 
-AnimalKen\_oo
+AnimalKen\_oooooooo
 
 Academics
 
-Alertness o000
+Alertness o0000000
 
-Archery 00
+Archery 00000000
 
-HearthWisdom\_Oooo
+HearthWisdom\_Oooooooo
 
-Athletics 00
+Athletics 00000000
 
 Crafts
 
 Investigation
 
-Brawl 00
+Brawl 00000000
 
 Etiquette
 
-o000
+o0000000
 
 Law
 
-Dodge 00
+Dodge 00000000
 
 Herbalism
 
 Linguistics
 
-Empathy. 00
+Empathy. 00000000
 
 Melee
 
 Medicine
 
-Intimidation 00
+Intimidation 00000000
 
 Music
 
 Occult
 
-Larceny\_ 00
+Larceny\_ 00000000
 
 Ride
 
-O000
+O0000000
 
 Politics
 
-Leadership 00
+Leadership 00000000
 
 Stealth
 
@@ -2356,13 +2517,13 @@ Daimoinon
 
 Resources
 
-Conscience/Conviction\_o
+Conscience/Conviction\_ooooo
 
 Celerity
 
-Herd 00
+Herd 00000000
 
-Self-Control/Instinct\_o
+Self-Control/Instinct\_ooooo
 
 Courage
 
@@ -2394,7 +2555,7 @@ O
 
 - [ ] Crippled -5 口
 
-□□□□
+□□□□□□□□□□
 
 - [ ] Incapacitated 口
 
@@ -2404,9 +2565,11 @@ BLOODPOOL
 
 VulnerabliltytoFaith
 
-- [ ] □□□□ □□□□
+- [ ] □□□□□□□□□□ □□□□□□□□□□
 
 GENERATION:12TH
+
+<!-- image -->
 
 G
 
@@ -2414,9 +2577,11 @@ G
 
 ## (eaeag gononguusnouuju
 
-The ali — reviled, hunted, an inebitably Sestroyed. That's what tfe members of the otfer clans fell themselbes, and some eoen believe if. espite tje stigma affarhed fo the bloline, some 2iaali jane risen to positions of considerable power. ome maintain fheir status because it suits offers to Ieave fjem there,whieothers nre skille in uplity an ran hie thjeir true natures.espite tfjis, fhe nonge nbout fje highest nail being jammeed Sown jolos true for tje Qanli; to court fame is to court Sestruction.
+The ali — reviled, hunted, an inebitably Sestroyed. That's what tfe members of the otfer clans fell themselbes, and some eoen believe if. espite tje stigma affarhed fo the bloooline, some 2iaali jane risen to positions of considerable power. ome maintain fheir status because it suits offers to Ieave fjem there,whieothers nre skille in uplity an ran hie thjeir true natures.espite tfjis, fhe nonge nbout fje highest nail being jammeed Sown jolos true for tje Qanli; to court fame is to court Sestruction.
 
-The infamous Qiaali listes below inrluse examples botf of those smart enough fo eluse capture and those who fell to their enemies. lare aali of importance, and while some may hape received True eath, all have legacies which echo Sown through the renturies.
+The infamous Qiaali listes below inrluse examples botf of those smart enough fo eluse capture and those who fell to their enemies. lllare aali of importance, and while some may hape received True eath, all have legacies which echo Sown through the renturies.
+
+<!-- image -->
 
 ## THE MANY FACES OF SHAITAN
 
@@ -2426,6 +2591,8 @@ TheBaaliwhocurrently claims themantle trulybelieves thathe is in fact Shaitan.Th
 
 It tookdecadesforotherBaalitodiscover theimpostor's whereabouts.In the meanwhile,in a frenzy of educational fervor he taught summoning rituals and truenames of power tomortals and depraved Cainites alike.Before the Black Collegewasmashditgradateshadareadyreadal teachingsfarandwide acrossEurope and intonorthernAfrica.
 
+<!-- image -->
+
 CLANBOOK:BAALI
 
 TheBaali eventually destroyed the school and all of its students,butShaitanhimselfescaped.Themostpopularstory claims that he fled westward,across the sea;other tales have him returningto theFertile Crescent.MostBaali simplyhope hewent toofarwest,fell off theedgeof theworld and dashed hishead against the rocks below.
@@ -2433,6 +2600,8 @@ TheBaali eventually destroyed the school and all of its students,butShaitanhimse
 Cybele was Shaitan's childe,though precisely which Shaitan may never be known. Embraced in themaddening corridors of theKnossosLabyrinth,shelearned hercraft from its whispers and advancedalongpathsof corruption and power far quicker than any of Shaitan's other progeny.WhenThera erupted,shewas among thefew acolyteswho escaped Crete; she bore with her the knowledge that Moloch's Baali had betrayed her sire.
 
 ## CYBELE
+
+<!-- image -->
 
 CybelewasMoloch'schief adversary following the de struction of Crete.Shegrew inpower far quickerthan any could haveanticipated,and dedicated her unlife to fighting hersire's betrayer.When Carthage sent Hannibal forth in the PunicWars,Cybele helped Rome defeat theAfrican general. Her actions to defend the city earned herpraise andpower fromRome'sotherCainites,whowereunawareof herlineage. Unfortunately,Cybele herself putanend toheradvances;she sufferedfrom a terribleblood-lust,and occasionallywenton murderous and bloody rampages through her temples.Her Cainite supporterswithintheRoman Senate tried tohush the matter up,but before long the truth of her originswas whisperedintheForum.
 
@@ -2454,6 +2623,8 @@ One key Azaneal believeshe lacks is the body of Namtaru. TheBaalimaster of shado
 
 fertile childer,and subjugating the BaaliofEurope.Perhaps with a united bloodline behind him,he can take Crete and returnNamtaru to Chorazin.
 
+<!-- image -->
+
 ## MA-RI-AH
 
 Once-concubine of theking of a long-dead Akkadian city-state,this former protege of the fiendish high priest Anaduk the Black(see Constantinopleby Night)hasrisen remarkablyquickly through theranksof her hellishbloodline.
@@ -2461,6 +2632,10 @@ Once-concubine of theking of a long-dead Akkadian city-state,this former protege
 Her extraordinarily calm,unrufflednature is legendary even among the ChilderofCaine.When sheacts,shedoesso quickly and without confusion;likemany others of herkind, she works alone,preferring solitudeto thecompanyof others. Thosefew Cainiteswho have met and spokenwith her note that she goes covered andveiled,in the tradition of Islam, though somewhisper thatsheis concealingsome disfigure ment.Additionally, she bears an especial hatred for the children f Arikel,ensnaring,seducing,and torturing any Toreador unfortunate enoughtocross her path orotherwise trespassuponherholdings.None are sure exactlywhy,though piles of ash throughout Europe testify to her efficiency.
 
 Ma-ri-ahhas ingratiated herself to several greaterpowers,includingtheorridDecaniandthieers.Moreterrifying is the fact that she serves no less an entity than the Child called Anoster,Lord ofDespairafeat trulyexceptional for one of herstanding.Withthispotentbacking,shehasturned
+
+<!-- image -->
+
+<!-- image -->
 
 her attentions to Byzantium,its tenuous relations with the WesternChurch and thegreatgames of powerthat arealltoo frequently played therein.
 
@@ -2480,6 +2655,12 @@ There are other matters,though,of greater concern to them.Through their laxity a
 
 AlltrueBaaliknowthattheendiscoming,however.And if asked,theywill tellyou that they thinkit is comingvery soon.
 
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
 There are greater powers in the world than mere vampires. These powers have secret names,names of power.
 
 TheBaali know thosenames.
@@ -2498,6 +2679,12 @@ The Baali know this,too —and work to hasten it.
 - Thehistory of themost hated bloodline in theWorld of Darkness;
 - New Merits,Flaws and Daimoinon powers.
 
+<!-- image -->
+
+<!-- image -->
+
 GAMESFOR
 
 MATUREMINDS
+
+<!-- image -->

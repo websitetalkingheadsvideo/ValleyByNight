@@ -1,0 +1,223 @@
+{
+    "clan": "Gangrel",
+    "book_title": "Revised - Clanbook Gangrel",
+    "edition": "Revised",
+    "mechanics": {
+        "disciplines": [
+            {
+                "name": "Animalism",
+                "type": "discipline",
+                "tags": ["tabletop", "clan_favored", "animal_control", "beast_within"],
+                "notes": "The Gangrel's primary link to the Beast Within. Allows communication with animals, control of animal behavior, and eventually manipulation of the Beast in mortals and Kindred. Higher levels enable mass control, frenzy induction, and merging with the natural world.",
+                "powers": [
+                    {
+                        "name": "Quell the Herd",
+                        "rating": 6,
+                        "system_text": "Subdues multiple animals or humans by cowing their Beasts through fear. Extended action requiring successes equal to each target's Willpower.",
+                        "tags": ["tabletop", "discipline_power", "mass_control"],
+                        "source_page": null,
+                        "larp_status": "not_mapped",
+                        "larp_reference": null,
+                        "vbn_notes": "Useful for controlling crowds, pacifying animal attacks, or creating narrative moments of overwhelming presence."
+                    },
+                    {
+                        "name": "Stampede",
+                        "rating": 7,
+                        "system_text": "Triggers panic flight in large groups of agitated mortals. Creates waves of terror that spread outward from the Gangrel.",
+                        "tags": ["tabletop", "discipline_power", "mass_control", "fear"],
+                        "source_page": null,
+                        "larp_status": "not_mapped",
+                        "larp_reference": null,
+                        "vbn_notes": "Narrative tool for creating chaos, clearing areas, or directing mobs. Should be used sparingly and with clear story purpose."
+                    },
+                    {
+                        "name": "Crimson Fury",
+                        "rating": 8,
+                        "system_text": "The Gangrel's blood causes frenzy in those who taste it. Diablerists face ongoing Willpower contests with the victim's Beast.",
+                        "tags": ["tabletop", "discipline_power", "defensive", "diablerie"],
+                        "source_page": null,
+                        "larp_status": "not_mapped",
+                        "larp_reference": null,
+                        "vbn_notes": "A powerful deterrent against diablerie. Creates ongoing story consequences for those who attempt to consume Gangrel elders."
+                    },
+                    {
+                        "name": "Eyes of the Forest",
+                        "rating": 9,
+                        "system_text": "The Gangrel merges with a geographic area, seeing and hearing through all animals and insects within the domain. Lasts until sunrise or voluntary termination.",
+                        "tags": ["tabletop", "discipline_power", "awareness", "territory"],
+                        "source_page": null,
+                        "larp_status": "not_mapped",
+                        "larp_reference": null,
+                        "vbn_notes": "Represents ultimate territorial control. Use to explain how Gangrel elders seem to know everything happening in their claimed areas."
+                    }
+                ]
+            },
+            {
+                "name": "Fortitude",
+                "type": "discipline",
+                "tags": ["tabletop", "clan_favored", "defense", "resilience"],
+                "notes": "Supernatural toughness and resistance to damage. Gangrel elders have developed extensions that protect senses and mind, not just body.",
+                "powers": [
+                    {
+                        "name": "Sensory Shield",
+                        "rating": 6,
+                        "system_text": "Hardens senses against overwhelming input. Protects against blindness, deafness, and reduces wound penalties. Wounds glow while active.",
+                        "tags": ["tabletop", "discipline_power", "defensive", "sensory"],
+                        "source_page": null,
+                        "larp_status": "not_mapped",
+                        "larp_reference": null,
+                        "vbn_notes": "Allows Gangrel to function in extreme conditions—bright lights, loud noises, combat. The glow is a narrative detail that makes the power visible."
+                    },
+                    {
+                        "name": "Resilient Mind",
+                        "rating": 7,
+                        "system_text": "Extends Fortitude's protection to personality and mind. Allows elimination of derangements, grants resistance to mind-altering Disciplines, and prevents new derangements from taking hold.",
+                        "tags": ["tabletop", "discipline_power", "defensive", "mental"],
+                        "source_page": null,
+                        "larp_status": "not_mapped",
+                        "larp_reference": null,
+                        "vbn_notes": "Represents mental stability gained through accepting the Beast. After learning this, Gangrel must acquire only physical animal features, not mental ones."
+                    },
+                    {
+                        "name": "King of the Mountain",
+                        "rating": 8,
+                        "system_text": "Combines personal armor with an aura that impedes attackers. Allows full dice pool against each attack, and weapons shatter on contact if Fortitude roll exceeds attack successes.",
+                        "tags": ["tabletop", "discipline_power", "defensive", "combat"],
+                        "source_page": null,
+                        "larp_status": "not_mapped",
+                        "larp_reference": null,
+                        "vbn_notes": "Ultimate defensive power. Use to show why Gangrel elders are nearly impossible to kill through direct assault."
+                    }
+                ]
+            },
+            {
+                "name": "Protean",
+                "type": "discipline",
+                "tags": ["tabletop", "clan_favored", "shapeshifting", "signature"],
+                "notes": "The Gangrel's signature Discipline. Allows transformation into animal forms, merging with earth, and eventually assuming mythic forms. Gangrel can take any predator or scavenger form, not just wolf or bat.",
+                "powers": [
+                    {
+                        "name": "Shape of the Beast (Gangrel Version)",
+                        "rating": 4,
+                        "system_text": "Gangrel assume a 'fight' form and a 'flight' form, chosen when the power is learned. Fight forms gain Physical Attribute bonuses; flight forms allow escape and scouting. Forms reflect personality, sire, and environment.",
+                        "tags": ["tabletop", "discipline_power", "shapeshifting", "signature"],
+                        "source_page": null,
+                        "larp_status": "not_mapped",
+                        "larp_reference": null,
+                        "vbn_notes": "Core Gangrel ability. The choice of forms says much about the character. Use to create distinctive visual identities and narrative moments."
+                    },
+                    {
+                        "name": "Shape Mastery",
+                        "rating": 6,
+                        "system_text": "Forces other shapechangers to resume normal form by applying Gangrel blood to the target. Effective against Protean, Obtenebration, Serpentis, Vicissitude, and Lupine shapechanging.",
+                        "tags": ["tabletop", "discipline_power", "shapeshifting", "counter"],
+                        "source_page": null,
+                        "larp_status": "not_mapped",
+                        "larp_reference": null,
+                        "vbn_notes": "Useful against Tzimisce, Setites, and other shapechangers. Creates interesting tactical situations in combat."
+                    },
+                    {
+                        "name": "Animal Swarm",
+                        "rating": 7,
+                        "system_text": "The Gangrel disperses into a swarm of small creatures (rats, crows, scorpions). Each creature carries one blood point. The vampire can reform from any or all creatures.",
+                        "tags": ["tabletop", "discipline_power", "shapeshifting", "escape"],
+                        "source_page": null,
+                        "larp_status": "not_mapped",
+                        "larp_reference": null,
+                        "vbn_notes": "Ultimate escape and infiltration power. Use sparingly—it's powerful and should feel momentous when used."
+                    },
+                    {
+                        "name": "Mythic Form",
+                        "rating": 8,
+                        "system_text": "Transform into a creature of myth (griffin, sphinx, thunderbird, etc.) with enhanced Physical Attributes, special abilities, and an Awe-like presence. Form is chosen when power is learned and cannot be changed.",
+                        "tags": ["tabletop", "discipline_power", "shapeshifting", "ultimate"],
+                        "source_page": null,
+                        "larp_status": "not_mapped",
+                        "larp_reference": null,
+                        "vbn_notes": "Reserved for the most powerful Gangrel elders. Should be a rare, awe-inspiring event when it appears in play."
+                    }
+                ]
+            }
+        ],
+        "combination_disciplines": [
+            {
+                "name": "Claw Immunity",
+                "type": "combination_discipline",
+                "tags": ["tabletop", "animalism", "fortitude", "defensive"],
+                "system_text": "Spend two blood points and specify an animal type. For the scene, gain extra soak dice equal to Animalism + Fortitude against that animal type's natural attacks.",
+                "source_page": null,
+                "larp_status": "not_mapped",
+                "larp_reference": null,
+                "vbn_notes": "Useful against animal attacks, including potentially Lupines in wolf form (at Storyteller discretion)."
+            },
+            {
+                "name": "Flesh Wound",
+                "type": "combination_discipline",
+                "tags": ["tabletop", "fortitude", "obfuscate", "defensive", "city_gangrel"],
+                "system_text": "Spend one blood point. For the scene, all damage appears not to affect the Gangrel—no visible wounds, limps, or blood. Power ends if incapacitated or staked.",
+                "source_page": null,
+                "larp_status": "not_mapped",
+                "larp_reference": null,
+                "vbn_notes": "Common among City Gangrel. Creates unnerving moments when a Gangrel seems invulnerable. Can be pierced by Auspex."
+            },
+            {
+                "name": "See the Reflected Form",
+                "type": "combination_discipline",
+                "tags": ["tabletop", "auspex", "protean", "perception"],
+                "system_text": "Perception + Occult roll reveals the beast forms, shapechanging abilities, and potential forms of the target. Can see Protean forms, Lupine forms, and Vicissitude modifications.",
+                "source_page": null,
+                        "larp_status": "not_mapped",
+                        "larp_reference": null,
+                        "vbn_notes": "Useful for identifying other shapechangers, understanding Gangrel childer's potential forms, or detecting Vicissitude modifications."
+            },
+            {
+                "name": "Beast Meld",
+                "type": "combination_discipline",
+                "tags": ["tabletop", "animalism", "protean", "travel", "hiding"],
+                "system_text": "Merge with a suitable animal host. The animal follows preset instructions, and the Gangrel is protected from sunlight while inside. The animal gains the Gangrel's Fortitude. Lasts until condition is met or animal is killed.",
+                "source_page": null,
+                "larp_status": "not_mapped",
+                "larp_reference": null,
+                "vbn_notes": "Ultimate travel and hiding power. Allows long-distance movement, protection from sun, and near-impossible detection. Animals carrying Gangrel for long periods may become legendary."
+            }
+        ],
+        "clan_weakness": {
+            "name": "The Beast Rampant",
+            "type": "clan_weakness",
+            "tags": ["tabletop", "weakness", "frenzy", "transformation"],
+            "system_text": "Every frenzy (except pure Rötschreck flight) causes the Gangrel to acquire an animal feature—physical (fur, claws, scales) or mental (animal behaviors). Every five features reduces one Social Attribute by one point. Features cannot be removed, though Social Attributes can be bought back with experience.",
+            "source_page": null,
+            "larp_status": "not_mapped",
+            "larp_reference": null,
+            "vbn_notes": "The core Gangrel horror. Each frenzy marks them visibly, making them less human over time. This should be a slow-burn element showing the price of their power. Storytellers should collaborate with players on feature choices."
+        },
+        "mixed_blessings": {
+            "name": "Drastic Animal Features",
+            "type": "flaw",
+            "tags": ["tabletop", "flaw", "animal_feature", "masquerade"],
+            "system_text": "Extreme animal features (Frog Eyes, Exoskeleton, Hide/Carapace, Maw, Sonar, Spinnerets, Tail, Talons, Venom, Wings) immediately reduce one Social Attribute and provide significant benefits but create Masquerade risks. Each provides mechanical advantages but makes the Gangrel obviously monstrous.",
+            "source_page": null,
+            "larp_status": "not_mapped",
+            "larp_reference": null,
+            "vbn_notes": "These should be rare, occurring only in extreme circumstances (botched rolls, prolonged frenzies). They make the Gangrel walking Masquerade breaches but also incredibly dangerous."
+        },
+        "bloodlines": [
+            {
+                "name": "City Gangrel",
+                "type": "bloodline",
+                "tags": ["tabletop", "sabbat", "bloodline", "urban"],
+                "notes": "Sabbat bloodline with Celerity, Obfuscate, and Protean. They favor urban environments and often take mangy, diseased-looking animal forms for camouflage. Suffer the same clan weakness.",
+                "vbn_notes": "Represent the urban evolution of the Gangrel. They're more social than Country Gangrel but no less dangerous."
+            },
+            {
+                "name": "Mariners",
+                "type": "bloodline",
+                "tags": ["tabletop", "independent", "bloodline", "aquatic"],
+                "notes": "Gangrel who've taken to the sea, assuming aquatic forms. They suffer a more potent version of the clan weakness, losing Social Attributes for every three features instead of five.",
+                "vbn_notes": "Rare and reclusive. They avoid both sects and represent the extreme of Gangrel independence."
+            }
+        ]
+    }
+}
+
+

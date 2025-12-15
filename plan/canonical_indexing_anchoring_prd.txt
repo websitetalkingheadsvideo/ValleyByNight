@@ -1,0 +1,146 @@
+# Product Requirements Document: Canonical Indexing & Anchoring for Valley by Night
+
+## Project Overview
+Create a deterministic, machine-addressable canon library with stable anchors and cross-reference indexes for the Valley by Night (VbN) Markdown corpus. This system will enable agents, RAG systems, validation tools, UI components, and database systems to reliably reference game rules and mechanics.
+
+## Context
+- Source: 45 markdown files in `G:\VbN\reference\Books_md_ready` (converted from PDFs)
+- Target: Create stable, collision-free anchors and canonical dictionaries
+- Purpose: Enable long-term reliable referencing for automated systems
+
+## Scope
+
+### Class A: Hard Anchors / Canon Authorities (Must Anchor)
+- Clans (overview + weakness sections)
+- Disciplines (overview + individual power descriptions)
+- Status systems (Acknowledged, Camarilla/Clan/City status definitions)
+- Influences (system definition, mechanics, resolution rules)
+- Boons (types, rules, enforcement expectations)
+- Camarilla roles (Prince, Sheriff, Harpy, Seneschal, Primogen, etc.)
+- Morality / Paths (Humanity, degeneration rules, Paths if present)
+
+### Class B: Enumerated Values / Dictionaries (Must Extract)
+- Merits & Flaws (with IDs, categories, source references)
+- Abilities (complete list with source references)
+- Traits (Physical/Social/Mental trait lists)
+- Backgrounds (if present in corpus)
+
+## Technical Requirements
+
+### Anchor Format
+Format: `vbn:<domain>:<entity>:<slug>:<hash8>`
+- `<domain>` ∈ `clan|discipline|status|influence|boon|role|morality`
+- `<entity>` is canonical name (normalized)
+- `<slug>` is kebab-case readable identifier
+- `<hash8>` is first 8 chars of deterministic hash: `SHA256(canonical_name + domain + "v1")`
+
+### Anchor Implementation
+- Prefer YAML front-matter blocks:
+  ```yaml
+  ---
+  vbn_anchor: "vbn:clan:brujah:brujah:c0a1b2c3"
+  vbn_domain: "clan"
+  vbn_entity: "Brujah"
+  ---
+  ```
+- Fallback: HTML anchor tag above section header: `<a id="vbn:..."></a>`
+- Do NOT rely on auto-generated Markdown header anchors
+
+### Dictionary Format
+Each dictionary entry must have:
+- `id`: Stable ID (e.g., `MERIT:acute-senses`, `ABILITY:academics`)
+- `name`: Display name
+- `category`: Where applicable
+- `source_refs`: Array of `{file, anchor_id}` references
+- `notes`: Optional conflicts or variants
+
+### Collision Handling
+- One canonical anchor per normalized entity
+- Create aliases in `aliases.json` for secondary references
+- Map: `secondary_reference → canonical_anchor`
+
+## Deliverables
+
+### Required Files (Exact Paths)
+1. `G:\VbN\plan\canonical_indexing_anchoring.md` - Execution plan and log
+2. `G:\VbN\canon\index\master_canon_index.json` - Complete book/section/anchor structure
+3. `G:\VbN\canon\index\master_canon_index.md` - Human-readable index
+4. `G:\VbN\canon\index\anchor_registry.json` - All anchors with metadata
+5. `G:\VbN\canon\index\aliases.json` - Secondary reference mappings
+6. `G:\VbN\canon\dicts\merits_flaws.json` - Merits and Flaws dictionary
+7. `G:\VbN\canon\dicts\abilities.json` - Abilities dictionary
+8. `G:\VbN\canon\dicts\traits.json` - Traits dictionary
+9. `G:\VbN\canon\dicts\backgrounds.json` - Backgrounds dictionary
+10. `G:\VbN\canon\index\cross_reference_map.json` - Entity ↔ dictionary ↔ references map
+
+## Execution Steps
+
+1. **Corpus Scan**
+   - Enumerate all 45 `.md` files in `G:\VbN\reference\Books_md_ready`
+   - Record corpus statistics (file counts, folder structure)
+   - Document in plan file
+
+2. **Header Parse**
+   - Extract `#`, `##`, `###` structure from each file
+   - Build initial `master_canon_index.json` structure (books → sections)
+   - No anchors yet, just hierarchy
+
+3. **Entity Detection**
+   - Scan for Class A entities (clans, disciplines, status, etc.)
+   - Use conservative matching + heuristics
+   - Do not invent entities; only extract what exists
+   - Record detection results
+
+4. **Anchor Assignment**
+   - Generate canonical anchors per spec for all Class A entities
+   - Insert anchors into Markdown files minimally (YAML front-matter or HTML tags)
+   - Record all anchors in `anchor_registry.json`
+   - Create `aliases.json` for collisions
+
+5. **Dictionary Extraction**
+   - Extract Class B enumerated values (merits, flaws, abilities, traits, backgrounds)
+   - Assign stable IDs per format
+   - Link each entry to `source_refs` (file + anchor where found)
+   - Output to respective dictionary JSON files
+
+6. **Cross-Reference Map**
+   - Build `cross_reference_map.json` connecting:
+     - Anchor entities ↔ dictionary entries
+     - References across corpus
+     - Bidirectional links
+
+7. **Validation**
+   - Verify no duplicate anchor IDs
+   - Verify every anchor in registry exists in Markdown
+   - Verify every dictionary entry has `source_refs` OR `unverified: true` flag
+   - Document validation results
+
+8. **Plan Update**
+   - Update `G:\VbN\plan\canonical_indexing_anchoring.md` with:
+     - What was completed
+     - Statistics (anchors created, dictionaries populated)
+     - Remaining follow-ons or issues
+
+## Constraints
+
+### Hard Constraints
+- Do NOT delete or rename any files
+- Do NOT rewrite large chunks of book content
+- Anchors must be deterministic (same name → same anchor)
+- Anchors must survive header wording edits and line number changes
+- Minimal content edits beyond inserting anchors
+
+### Quality Gates
+- Deterministic anchor generation
+- Anchor registry has 1 canonical entry per entity + optional aliases
+- All anchors exist in Markdown content
+- Dictionaries use stable IDs and contain `source_refs`
+- No file deletions; minimal content edits
+
+## Success Criteria
+- All Class A entities have stable anchors
+- All Class B entities are in dictionaries with source references
+- Cross-reference map connects all entities
+- All deliverables created at specified paths
+- Validation passes all quality gates
+- Plan document updated with execution log

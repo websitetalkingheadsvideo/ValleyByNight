@@ -1,5 +1,3 @@
---- book_title: "Revised - Clanbook Tzimisce" clan: "" edition: "" source_type: "clanbook" extraction_pipeline: "docling_v1 + markdown_cleanup_v1" ---
-
 <!-- image -->
 
 ## ™ C     L     A     N     B     O     O     K     :
@@ -48,7 +46,7 @@ This book uses the supernatural for settings, characters and themes. All mystica
 
 For a free White Wolf catalog call 1-800-454-WOLF.
 
-Check out White Wolf online at http://www. white-wolf. com;  alt. games. whitewolf  and rec. games. frp. storyteller
+Check out White Wolf online at http://www.white-wolf.com;  alt.games.whitewolf  and rec.games.frp.storyteller
 
 PRINTED IN USA.
 
@@ -1296,7 +1294,7 @@ In a way, the Tzimisce have always been Necronomists. Since their first nights, 
 
 ## FrOm  the  grOuNd  up:  StOryteLLiNg  metAmOrphOSiS
 
-Given the possibilities of Metamorphosis, Storytellers should approach this Path a bit differently than others. In game terms, Metamorphosis isn't about starting with a high Path rating and avoiding descent into the jaws of the Beast Within. It's about starting near the bottom and hunting any information or developing any technique that will allow the Cainite to progress. In one sense, be flexible with the Hierarchy of Sins, because seekers of Azhi Dahaka find different ways to implement its abstract ideals. But don't let them get away with anything - their progression along the Path should build upon what they have learned before. They can unlearn some elements but not without questioning their actions (i. e., making many Virtue rolls).
+Given the possibilities of Metamorphosis, Storytellers should approach this Path a bit differently than others. In game terms, Metamorphosis isn't about starting with a high Path rating and avoiding descent into the jaws of the Beast Within. It's about starting near the bottom and hunting any information or developing any technique that will allow the Cainite to progress. In one sense, be flexible with the Hierarchy of Sins, because seekers of Azhi Dahaka find different ways to implement its abstract ideals. But don't let them get away with anything - their progression along the Path should build upon what they have learned before. They can unlearn some elements but not without questioning their actions (i.e., making many Virtue rolls).
 
 Finally, Storytellers and players should keep in mind that a rating in the Path of Metamorphosis doesn't necessarily represent how close a Cainite has come to the Azhi Dahaka . All it represents for sure is how well their beliefs subdue the Beast.
 
@@ -2093,7 +2091,7 @@ trespassers,  and  the  streets  are  safer  for your passing.
 
 Roleplaying Hints: You are definitely  old  school.  Though you  consider  yourself  a patient and cultured ruler, you expect your authority to  be  recognized,  particularly within your own demesne.  Despite  your neofeudalist  leanings,  you realize that the children of Caine cannot rule as openly as  in  nights  past. Let your power speak for itself.
 
-E q u I  p m e n t : Antiquated  aristocratic clothing, heavy overcoat,  liberated switchblade,  flowers given  to  you  by neighborhood children
+E q u i p m e n t : Antiquated  aristocratic clothing, heavy overcoat,  liberated switchblade,  flowers given  to  you  by neighborhood children
 
 Etiquette
 
@@ -2955,7 +2953,7 @@ ed to 'embrace' one of you without 'embracing' the other.
 
 Sometimes you miss your brother. You're dead yourself, but he's really dead. At least, you're pretty sure he's dead.
 
-Concept: Her curiosity satisfied, your sire abandoned you to the night. But you had the - luck? Misfortune? - of being Embraced in a Sabbat city. A nomadic pack thought you looked 'really fucking weird,' so, of course, they invited you to join the Vaulderie. For now, you stick with your new pack - who else would believe your story? You used to take a lot of shit from your packmates, and sometimes you still do, but it seems like they admire your ability to perceive auras and read minds. Pretty soon, they say, you'll hardly need a body at all.
+Concept: Her curiosity satisfied, your sire abandoned you to the night. But you had the - luck? misfortune? - of being Embraced in a Sabbat city. A nomadic pack thought you looked 'really fucking weird,' so, of course, they invited you to join the Vaulderie. For now, you stick with your new pack - who else would believe your story? You used to take a lot of shit from your packmates, and sometimes you still do, but it seems like they admire your ability to perceive auras and read minds. Pretty soon, they say, you'll hardly need a body at all.
 
 Roleplaying Hints: Adjusting to existence without your brother has been almost as difficult as adjusting to unlife itself; to you, the two concepts are intertwined. While you had a few hard-won friends in life, the local Cainites don't respond to your simple honesty. That is, until you frankly tell them what you think of what they're thinking. Recently, you've experimented with the fleshcrafting abilities of your clan, but you're not ready to part with your brother just yet.
 
@@ -2991,7 +2989,7 @@ the  revenant  families  that  serve  your kind.  You  think  you  might  even  
 
 Roleplaying  Hints: If  only Mother  could  see  you  now! Your  superior  breeding has finally earned you more than just a prize coin, and you intend to  prove  worthy  of  the honor.  Cainites  of  other  clans  lack  the  refined Tzimisce heritage, but you've learned to stop pointing  that  out. Their  feeble  minds can't accept that you're not insulting them; it's not  their  fault  they're mongrels.
 
-E q u I  p m e n t : Collection  of  old  genealogies  and  census records, DNA lab with abutting  ghoul  kennels, portrait  of  Mother,  bronze  coin inscribed  'Yea,  I  have  a  goodly heritage' CEIF PNEC
+E q u i p m e n t : Collection  of  old  genealogies  and  census records, DNA lab with abutting  ghoul  kennels, portrait  of  Mother,  bronze  coin inscribed  'Yea,  I  have  a  goodly heritage' CEIF PNEC
 
 ❑❑❑❑❑❑❑❑❑❑
 
@@ -7803,7 +7801,7 @@ W W W . W H I T E -W O L F . C O M
 
 ISBN 1-58846-202-1
 
-WW2361  $14.95 U. S.
+WW2361  $14.95 U.S.
 
 PRINTED IN USA
 

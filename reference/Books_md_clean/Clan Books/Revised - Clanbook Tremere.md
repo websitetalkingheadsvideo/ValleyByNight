@@ -1,5 +1,3 @@
---- book_title: "Revised - Clanbook Tremere" clan: "" edition: "" source_type: "clanbook" extraction_pipeline: "docling_v1 + markdown_cleanup_v1" ---
-
 <!-- image -->
 
 G
@@ -44,7 +42,7 @@ This book uses the supernatural for settings, characters and themes. All mystica
 
 For a free White Wolf catalog call 1-800-454-WOLF.
 
-Check out White Wolf online at http://www. white-wolf. com;  alt. games. whitewolf  and rec. games. frp. storyteller
+Check out White Wolf online at http://www.white-wolf.com;  alt.games.whitewolf  and rec.games.frp.storyteller
 
 PRINTED IN USA.
 
@@ -798,7 +796,7 @@ Because the code is simply a normal oath, few Tremere follow it to the letter. I
 
 code also serves as justification should a Tremere elder feel the need to come down with harsh force upon a lesser, and thus lets the elder give the clan a publicly acceptable face to his vendetta.
 
-In  addition  to  the  code  itself,  most  ranking  Tremere (those who manage to rise to the third circle of apprenticeship  and  beyond) slowly unearth the so-called Peripheral Code - the exceptions, assumptions and loopholes. While a neonate may wither under the weight of the code, a canny regent probably knows at least one or two exceptions to usual procedure. Like lobbyists in Congress, Tremere elders add to the  Peripheral  Code  in  order  to  provide  an  authoritative  excuse for  their  actions.  Exceptions  include  obscure  and  specific  lines like 'Dealing with faeries is permissible for members of the Augsburg Chantry during the new moon in the years A. D. 1617 to 1621', or even personal exemptions from parts of the code for individuals. Ultimately the code is simply another tool, not the end-all of Tremere policy.
+In  addition  to  the  code  itself,  most  ranking  Tremere (those who manage to rise to the third circle of apprenticeship  and  beyond) slowly unearth the so-called Peripheral Code - the exceptions, assumptions and loopholes. While a neonate may wither under the weight of the code, a canny regent probably knows at least one or two exceptions to usual procedure. Like lobbyists in Congress, Tremere elders add to the  Peripheral  Code  in  order  to  provide  an  authoritative  excuse for  their  actions.  Exceptions  include  obscure  and  specific  lines like 'Dealing with faeries is permissible for members of the Augsburg Chantry during the new moon in the years A.D. 1617 to 1621', or even personal exemptions from parts of the code for individuals. Ultimately the code is simply another tool, not the end-all of Tremere policy.
 
 ## triBunALs
 
@@ -1078,7 +1076,7 @@ As a cabal of wizards, it's no surprise that Tremere have superlative awareness.
 
 Magical Research: A Tremere capable of seeing auras can tell when the forces of magic are in use, so it's possible to spot sorcerers (potential threats or recruits), some magical artifacts or rites that have been activated. This doesn't necessarily imply knowledge of what's going on, but the Tremere can easily determine whether a given event stems from magic or not. With greater aptitude, a Tremere can read psychic impressions from objects, which can sometimes clue her in to their functions or histories. A Tremere might be able to discern an enchantment on an otherwise mundane object by watching it in use or even vicariously experiencing the last time it was used, such as reading the psychic impressions left on a stone tablet with but a touch.
 
-Political Agendas: Besides the usual reading of secrets through  telepathy  or  separating  truth  from  falsehood  by perusing auras, clever Tremere can find a host of uses for Auspex in politics. Given access to personal possessions, the opportunities for blackmail are staggering - learn the details of some naughty indiscretion from a piece of clothing, and you've got a mayor in your debt. Even the acute sensitivity of very basic Auspex can be useful; a Tremere skilled in reading body language may well determine some unspoken guilt by carefully watching the twitching of a subject's features or sensing telltale smells (cordite? Perfume? Gin?). And, of course, astral projection (for the true masters) has all manner of  uses  -  holistically  spying  on  meetings,  following  suspicious characters, dropping in unexpectedly to send a telepathic missive to a minion, even penetrating heavy security.
+Political Agendas: Besides the usual reading of secrets through  telepathy  or  separating  truth  from  falsehood  by perusing auras, clever Tremere can find a host of uses for Auspex in politics. Given access to personal possessions, the opportunities for blackmail are staggering - learn the details of some naughty indiscretion from a piece of clothing, and you've got a mayor in your debt. Even the acute sensitivity of very basic Auspex can be useful; a Tremere skilled in reading body language may well determine some unspoken guilt by carefully watching the twitching of a subject's features or sensing telltale smells (cordite? perfume? gin?). And, of course, astral projection (for the true masters) has all manner of  uses  -  holistically  spying  on  meetings,  following  suspicious characters, dropping in unexpectedly to send a telepathic missive to a minion, even penetrating heavy security.
 
 Security: Heightened awareness naturally  runs  counter  to stealth and espionage. Studious Tremere can excel at picking out hidden spies and their accoutrements. A little augmented hearing may note a subtle ping that indicates a tap on a phone line, while some psychic impressions could tell if a spy has placed surveillance devices in an area or eavesdropped in a room. Sensitive Tremere can also spot other Kindred who rely too heavily on the Obfuscate Discipline; this is one reason that Nosferatu rarely have extensive information about the inner workings of Tremere clan meetings or chantries.
 
@@ -1124,7 +1122,7 @@ Many Kindred consider Dominate a blatant and crass Discipline. A skilled user ca
 
 Daylight Action: Most vampires who hope to act during the  day  must  work  through  intermediaries.  T remere  labor  under similar restrictions, but Dominate helps to make the subjects more tractable  and  predictable.  Instead  of  leaving  instructions to a fallible and uncertain ally, some choose to impart subconscious suggestion. Give detailed instructions, perhaps, with a compulsion to obey .  Or add in a little memory that surfaces during a daily routine and causes a subject to do what you want. Need him to drop off a letter for you? Just make him 'remember' that he planned to mail the letter in his pocket, once he wakes up in the morning. And, of course, Possession is king; combine with the ritual Wake with Evening's Freshness, and a Tremere can stay awake briefly during the day and move about outside, experience a little sunlight, even vicariously enjoy lost mortal passions like food and sex.
 
-Influence  Peddling: Although  using  Dominate  on the mayor is a bit much (What happens if it fails? Or if his memories come back as he's addressing the GOP convention held in the city? Or if a command is improperly executed?), the  occasional  use  of  the  Discipline  helps  in  cementing influence. A Kindred can use altered memories, implanting a memory of comradeship and cooperation that opens the door to further accommodation. She can just stress a small desire, so that the subject is more likely to do something he was inclined to do anyway - 'You can forgive this one infraction, can't you, officer?' More long-term applications of the Discipline are possible with even a modicum of skill, because once a patsy's convinced to do something once, the compromise opens the door to further action. Push the alderman into taking a bribe, and he'll rationalize accepting later ones. Convince a janitor to be helpful, and he'll remember you later as a confidant.
+Influence  Peddling: Although  using  Dominate  on the mayor is a bit much (What happens if it fails? or if his memories come back as he's addressing the GOP convention held in the city? or if a command is improperly executed?), the  occasional  use  of  the  Discipline  helps  in  cementing influence. A Kindred can use altered memories, implanting a memory of comradeship and cooperation that opens the door to further accommodation. She can just stress a small desire, so that the subject is more likely to do something he was inclined to do anyway - 'You can forgive this one infraction, can't you, officer?' More long-term applications of the Discipline are possible with even a modicum of skill, because once a patsy's convinced to do something once, the compromise opens the door to further action. Push the alderman into taking a bribe, and he'll rationalize accepting later ones. Convince a janitor to be helpful, and he'll remember you later as a confidant.
 
 The Inevitable Jyhad: The use of physical Disciplines often incites reprisal. A Kindred who raises a Potence-backed fist  against  another  of  his  kind  quickly  finds  that  other  Kindred rally to crush the offender who would so blatantly become a threat. The powers of Dominate, used subtly, can be nearly unnoticeable and not quite so threatening. Attack another Kindred with Celerity, and the harpies will whisper about bad tempers and loutish behavior; direct another Kindred through careful Dominate, and gain the grudging approval of peers for a clever ploy, even if it's discovered. Of course, other Kindred despise being the subject of such manipulation, but if they're placed into a prestation debt or humiliated to the point of losing status, there's not much that they can do about it, now is there?
 
@@ -1292,7 +1290,7 @@ MET System: You need only indicate a distant shadow and spend the usual time and
 
 ## ••• Coruscating Shadow
 
-How would shadow appear if it hovered in the air? A discoloration? A dimness in the atmosphere? A hole in space? A commanding Tremere can peel the very shade from surrounding surfaces and bend it into floating forms that whip about. These airborne shadows conceal the caster and create a  roiling  sphere  of  confusion.  The  unnatural  display  manifests as an ephemeral globe that encompasses the caster at about arm's length, though it contracts and expands rapidly while the shadows flit about its surface.
+How would shadow appear if it hovered in the air? a discoloration? a dimness in the atmosphere? a hole in space? A commanding Tremere can peel the very shade from surrounding surfaces and bend it into floating forms that whip about. These airborne shadows conceal the caster and create a  roiling  sphere  of  confusion.  The  unnatural  display  manifests as an ephemeral globe that encompasses the caster at about arm's length, though it contracts and expands rapidly while the shadows flit about its surface.
 
 System: Under the effects of Coruscating Shadow, the Tremere gains partial concealment due to the rapidly strobing  passage  of  shadowy  shapes.  The  ball  of  shadows  that surrounds the caster has no physical substance but expands and contracts, writhes and spins and generally makes matters difficult for anyone trying to observe the thaumaturge. Raise the difficulty of actions that affect the caster, including attacks, by one while this power is in effect. Furthermore, the heavier prevalence of shadow helps when blending into darkened areas, giving the player a two-die bonus to Stealth rolls for the character. The sphere lasts for one turn per success garnered on the roll.
 
@@ -4233,7 +4231,7 @@ Roleplaying  Hints: Pick  out  snippets  of  the  Tremere  Oath  and  use  them 
 
 This  can  be a  difficult  character  to  play, because  it's  a bit  of  a  stretch to  balance  the character's onedimensional nature  with,  well, a  fun  chronicle. Such a character works best in a supporting  role to another player with a strong concept.  It's  also a simple role for a new player to try.
 
-Equipment: Signet  ring,  traditional  occult robes,  simple s u I  t s and sportswear LEIE JONES 2000
+Equipment: Signet  ring,  traditional  occult robes,  simple s u i t s and sportswear LEIE JONES 2000
 
 <!-- image -->
 
@@ -4786,7 +4784,7 @@ Thaumaturgy (Path of  Blood-  A  Taste
 
 - \_\_\_\_\_\_\_\_\_\_\_\_
 
-for  Blood,  Blood  Rage, Blood  of  Potency)
+for  Blood,  Blood  Rage,Blood  of  Potency)
 
 - \_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_ Knowledgeable  x  3
 - \_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_ A T aste    for  Blood)
@@ -4991,7 +4989,7 @@ A combination of stress, academic competition and lack of a fulfilling social li
 
 Let  other  doctors  make  the  big discoveries  -  you'd  had  enough.  In one of  the downtown precincts, you secured a position as a medical examiner. Not exactly rewarding work, but not too stressful or difficult. You just tagged and bagged the bodies. Here and there you fudged a report when an overzealous cop went a little too far with a perp, or when the mayor's office  didn't  want  an  investigation  into a  suspicious  death.  (The  'clear  suicide'  ruling for 38 torso stab wounds was perhaps the most absurd, but pressure from the DA to wrap up the case quickly meant that you never made it to the stand.) LEIE JONES 2000-
 
-After a few years at your position, you started to notice trends in the city's deaths. Hot summers meant more murders, of course, and suicides shot up in April and in December. But to you, the city almost seemed a predator in itself, killing off its own inhabitants and sending them to you with morbid glee.  One  exsanguinated  body,  you  chalked up to the bizarre quotient. Two, you made some notes and asked a few questions of the investigating officers. Three, and you tumbled to the predators and murderers that your work had just uncovered. Of course, the Masquerade couldn't bear your scrutiny. If you died, another M. E. Would just replace you, so instead you wound
+After a few years at your position, you started to notice trends in the city's deaths. Hot summers meant more murders, of course, and suicides shot up in April and in December. But to you, the city almost seemed a predator in itself, killing off its own inhabitants and sending them to you with morbid glee.  One  exsanguinated  body,  you  chalked up to the bizarre quotient. Two, you made some notes and asked a few questions of the investigating officers. Three, and you tumbled to the predators and murderers that your work had just uncovered. Of course, the Masquerade couldn't bear your scrutiny. If you died, another M.E. would just replace you, so instead you wound
 
 <!-- image -->
 
@@ -5001,7 +4999,7 @@ up with nights at the morgue. Now you cover for  the  occasional  sloppy  eater,
 
 Roleplaying  Hints: Working with dead bodies - especially since you're one of them yourself - takes its toll on your personality,  and  you  have  a morbid sense of humor and a grating bluntness.  Once  people  get  past  this gruesome exterior, you're not that bad, aside from the blood-drinking and the fudging of paperwork on behalf of murderers and - oh, screw it, you're a jerk.
 
-Equipment: Portable  computer, surgical tools, M. E. License, blank death certificates
+Equipment: Portable  computer, surgical tools, M.E. license, blank death certificates
 
 \_\_\_\_\_\_\_\_\_
 
@@ -6373,7 +6371,7 @@ Willpower: 7
 
 mAsiKA st. JOHn,  tHe  CAmnet innOvAtOr
 
-Background: Increasingly  modernized  apprentices  have grown estranged from the elders, who often don't comprehend the tools that a young neonate takes for granted. Nearly every Kindred Embraced in the last decade knows about computers, uses telephones and has (or had) a driver's license or I. D. Card. For elders who simply can't keep up, this leads to frustration, suppressed fear of the power that neonates have due to these tools
+Background: Increasingly  modernized  apprentices  have grown estranged from the elders, who often don't comprehend the tools that a young neonate takes for granted. Nearly every Kindred Embraced in the last decade knows about computers, uses telephones and has (or had) a driver's license or I.D. card. For elders who simply can't keep up, this leads to frustration, suppressed fear of the power that neonates have due to these tools
 
 <!-- image -->
 
@@ -7171,7 +7169,7 @@ W W W . W H I T E -W O L F . C O M
 
 ISBN 1-56504-254-9
 
-WW2357  $14.95 U. S.
+WW2357  $14.95 U.S.
 
 PRINTED IN USA
 

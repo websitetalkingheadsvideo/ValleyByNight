@@ -1,0 +1,155 @@
+{
+    "clan": "Assamites",
+    "internal_name": "Banu Haqim",
+    "book_title": "Revised - Clanbook Assamite",
+    "edition": "Revised",
+    "mechanics": {
+      "disciplines": [
+        {
+          "name": "Quietus",
+          "type": "discipline",
+          "tags": ["tabletop", "clan_favored", "warrior_caste", "assassination"],
+          "notes": "Signature Discipline of the Assamite Warriors, focused on silent killing, blood manipulation, and precise, lethal strikes.",
+          "powers": [
+            {
+              "name": "Silence of Death",
+              "rating": 1,
+              "system_text": "Allows the Assamite to suppress sound in their immediate vicinity, making movement and combat unnaturally quiet.",
+              "tags": ["tabletop", "discipline_power", "stealth"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Ideal for stealth scenes, rooftop hunts, and quiet confrontations where discovery would be disastrous."
+            },
+            {
+              "name": "Scorpion's Touch",
+              "rating": 2,
+              "system_text": "Enables the vampire to turn their vitae into a paralytic or damaging toxin, delivered through blades or touch.",
+              "tags": ["tabletop", "discipline_power", "combat"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "A narrative excuse for poisoned attacks and terrifying 'one-cut' executions."
+            }
+          ]
+        },
+        {
+          "name": "Assamite Sorcery",
+          "type": "discipline",
+          "tags": ["tabletop", "sorcerer_caste", "thaumaturgy_like"],
+          "notes": "The blood magic tradition of the Assamite Sorcerers, built on complex hierarchical paths and rituals distinct from Tremere thaumaturgy.",
+          "powers": []
+        },
+        {
+          "name": "Celerity",
+          "type": "discipline",
+          "tags": ["tabletop", "speed"],
+          "notes": "Supernatural speed and reaction; in Assamites, it often appears as blindingly fast, precise strikes and the ability to be in the right place at the right time.",
+          "powers": []
+        },
+        {
+          "name": "Obfuscate",
+          "type": "discipline",
+          "tags": ["tabletop", "stealth"],
+          "notes": "The ability to vanish from notice or blend into surroundings, used heavily by Warriors and infiltrator Viziers.",
+          "powers": []
+        },
+        {
+          "name": "Auspex",
+          "type": "discipline",
+          "tags": ["tabletop", "perception", "vizier_caste"],
+          "notes": "Heightened perception, aura reading, and supernatural insight; often emphasized by Viziers and Sorcerers.",
+          "powers": []
+        }
+      ],
+      "rituals": [
+        {
+          "name": "Blood Oath of the True Name",
+          "type": "ritual",
+          "tags": ["tabletop", "sorcerer_caste", "contract"],
+          "system_text": "A ritual in which the Sorcerer binds a target's true name to an oath, allowing mystical repercussions if the oath is broken.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Can be used in VbN as a justification for narrative consequences and hooks when PCs or NPCs betray accords."
+        },
+        {
+          "name": "Veil of Haqim",
+          "type": "ritual",
+          "tags": ["tabletop", "sorcerer_caste", "stealth"],
+          "system_text": "Conceals an Assamite or a small group from mystical and mundane detection for a time, at the cost of rare components and careful preparation.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Explains why some operations are 'untraceable' except through story investigation, not raw Disciplines."
+        }
+      ],
+      "backgrounds": [
+        {
+          "name": "Clan Mentor",
+          "type": "background",
+          "tags": ["tabletop", "internal_hierarchy"],
+          "system_text": "Represents the guidance and protection of a more experienced member of the Warrior, Sorcerer, or Vizier castes.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "In VbN, this Background can serve as a pipeline for missions, warnings, and internal clan complications."
+        },
+        {
+          "name": "Safe Houses and Strongholds",
+          "type": "background",
+          "tags": ["tabletop", "resources", "haven"],
+          "system_text": "A network of secure locations maintained by the clan for shelter, training, and clandestine meetings.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Can be mapped to Haven-related merits or narrative access to fortified locations in the Valley by Night setting."
+        }
+      ],
+      "merits_flaws": [
+        {
+          "name": "Code of Haqim",
+          "type": "merit",
+          "tags": ["tabletop", "psychological", "ethics"],
+          "system_text": "The character strongly adheres to a codified set of rules regarding who may be killed and under what circumstances, granting mental stability but limiting opportunistic violence.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Justifies disciplined behavior and gives STs leverage to penalize or reward adherence in narrative terms."
+        },
+        {
+          "name": "Blood Addiction (Kindred Vitae)",
+          "type": "flaw",
+          "tags": ["tabletop", "addiction"],
+          "system_text": "The Assamite struggles with a strong craving for other vampires' blood, making self-control difficult when exposed to opportunities for diablerie or excessive feeding.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "A key flaw to highlight the clan’s historical reputation and internal tension over diablerie."
+        }
+      ],
+      "other_systems": [
+        {
+          "name": "Clan Weakness – Blood Hunger for the Damned",
+          "type": "clan_weakness",
+          "tags": ["tabletop", "weakness"],
+          "system_text": "Historically, Assamites develop an unhealthy attraction to the vitae of other Kindred, and their curses or rituals often interact with this hunger.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "In VbN, this should surface as story pressure rather than a purely mechanical penalty, tempting Assamites in critical scenes."
+        },
+        {
+          "name": "Caste Distinctions",
+          "type": "social_structure",
+          "tags": ["tabletop", "structure"],
+          "system_text": "Warriors, Sorcerers, and Viziers each have different expected roles, favored Disciplines, and internal obligations within the clan.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Useful as tags for NPC generation and as flags for how other Assamites and outside factions respond to the character."
+        }
+      ]
+    }
+  }
+  

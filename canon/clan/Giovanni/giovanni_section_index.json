@@ -1,0 +1,913 @@
+{
+    "clan": "Giovanni",
+    "book_title": "Revised - Clanbook Giovanni",
+    "edition": "Revised",
+    "approximate_source_file": "G:\\VbN\\reference\\Books_md_clean\\Clan Books\\Revised - Clanbook Giovanni.md",
+    "sections": [
+        {
+            "id": "credits",
+            "title": "Credits",
+            "anchor": "## CreditS",
+            "type": "meta",
+            "notes": "Publication credits; included for completeness but not relevant for RAG."
+        },
+        {
+            "id": "clanbook_title",
+            "title": "Clanbook",
+            "anchor": "## C     l     a     n     B     o     o     K     : ™",
+            "type": "meta",
+            "notes": "Title page marker; not relevant to lore."
+        },
+        {
+            "id": "contents",
+            "title": "Contents",
+            "anchor": "## ContentS",
+            "type": "meta",
+            "notes": "Table of contents; establishes chapter order but contains no prose."
+        },
+        {
+            "id": "introduction_kissing_cousins",
+            "title": "Introduction: Kissing Cousins",
+            "anchor": "## introduCtion:",
+            "type": "fiction",
+            "notes": "Opening fiction establishing the tone and themes of the clanbook, focusing on family dynamics, the Proxy Kiss, and the disturbing nature of Giovanni Embrace practices."
+        },
+        {
+            "id": "kissing_cousins",
+            "title": "Kissing Cousins",
+            "anchor": "## KiSSinG CouSinS",
+            "type": "fiction",
+            "notes": "Continuation of opening fiction, showing the disturbing family gathering and Primo's attempted assault on Kay."
+        },
+        {
+            "id": "history_before_history",
+            "title": "Before History",
+            "anchor": "## BeFore hiStory",
+            "type": "history",
+            "notes": "Introduction to Giovanni history, covering their mortal origins and early practices."
+        },
+        {
+            "id": "history_mortal_roots",
+            "title": "Mortal Roots",
+            "anchor": "## mortal rootS",
+            "type": "history",
+            "notes": "The Giovanni's origins as a mortal merchant family in ancient Rome, practicing ancestor worship and death magic (nigrimancy)."
+        },
+        {
+            "id": "history_dis_pater",
+            "title": "Dis Pater",
+            "anchor": "## diS pater",
+            "type": "history",
+            "notes": "Early Giovanni practices and their relationship with death and the underworld."
+        },
+        {
+            "id": "history_fortunes_fall",
+            "title": "Fortune's Fall",
+            "anchor": "## Fortune ' S  Fall",
+            "type": "history",
+            "notes": "Historical events leading to the Giovanni's transformation from mortals to Kindred."
+        },
+        {
+            "id": "history_no_rest_for_the_wicked",
+            "title": "No Rest For the Wicked",
+            "anchor": "## no reSt For the wiCKed",
+            "type": "history",
+            "notes": "The Giovanni's continued activities and growth after their Embrace."
+        },
+        {
+            "id": "history_the_birth_of_clan_giovanni",
+            "title": "The Birth of Clan Giovanni",
+            "anchor": "## the Birth oF Clan Giovanni",
+            "type": "history",
+            "notes": "Augustus Giovanni's Embrace by the Cappadocian Antediluvian in 1005 and the beginning of the clan's transformation."
+        },
+        {
+            "id": "history_another_theory",
+            "title": "Another Theory",
+            "anchor": "## another theory",
+            "type": "lore",
+            "notes": "Alternative accounts or interpretations of the Giovanni's origins."
+        },
+        {
+            "id": "history_the_premascines",
+            "title": "The Premascines",
+            "anchor": "## the premaSCineS",
+            "type": "history",
+            "notes": "Giovanni Embraced before Augustus diablerized the Cappadocian founder. They may still exist in hiding."
+        },
+        {
+            "id": "history_toward_the_renaissance",
+            "title": "Toward the Renaissance - In Two Forms",
+            "anchor": "## toward the renaiSSanCe -in  two FormS",
+            "type": "history",
+            "notes": "The Giovanni during the Renaissance period, covering both cultural and political developments."
+        },
+        {
+            "id": "history_things_grow_ugly",
+            "title": "Things Grow Ugly",
+            "anchor": "## thinGS Grow uGly",
+            "type": "history",
+            "notes": "The escalation of conflict between the Giovanni and Cappadocians."
+        },
+        {
+            "id": "history_the_khazars_diary",
+            "title": "The Khazar's Diary",
+            "anchor": "## the Khazar ' S  diary",
+            "type": "lore",
+            "notes": "Historical document or account relating to the Giovanni-Cappadocian conflict."
+        },
+        {
+            "id": "history_what_is_the_endless_night",
+            "title": "What Is the Endless Night?",
+            "anchor": "## what iS the endleSS niGht?",
+            "type": "lore",
+            "notes": "Explanation of the Giovanni's ultimate goal: a ritual that will tear down the barrier between the living and the dead."
+        },
+        {
+            "id": "history_eliminating_the_threat",
+            "title": "Eliminating the Threat",
+            "anchor": "## eliminatinG the threat",
+            "type": "history",
+            "notes": "The systematic elimination of the Cappadocians after Augustus's diablerie."
+        },
+        {
+            "id": "history_centuries_of_growth",
+            "title": "Centuries of Growth",
+            "anchor": "## CenturieS  oF  Growth",
+            "type": "history",
+            "notes": "The Giovanni's expansion and development from the 15th century onward."
+        },
+        {
+            "id": "history_expansion_into_other_families",
+            "title": "Expansion into Other Families",
+            "anchor": "## expanSion into other FamilieS",
+            "type": "history",
+            "notes": "The Giovanni's incorporation of other families (Dunsirn, Pisanob, Milliners, etc.) into the clan."
+        },
+        {
+            "id": "culture_the_dunsirn",
+            "title": "The Dunsirn",
+            "anchor": "## the dunSirn",
+            "type": "culture",
+            "notes": "The Scottish Dunsirn branch of the Giovanni, focused on trade and commerce. Currently being pressured to learn necromancy."
+        },
+        {
+            "id": "culture_the_pisanob",
+            "title": "The Pisanob",
+            "anchor": "## the piSanoB",
+            "type": "culture",
+            "notes": "The Mexican Pisanob branch, practicing Aztec-influenced necromancy. Struggling after the maelstrom."
+        },
+        {
+            "id": "culture_pochtli_the_premascine",
+            "title": "Pochtli the Premascine?",
+            "anchor": "## poChtli the premaSCine?",
+            "type": "lore",
+            "notes": "Speculation about whether Pochtli, leader of the Pisanob, is actually a Premascine."
+        },
+        {
+            "id": "culture_the_milliners",
+            "title": "The Milliners",
+            "anchor": "## the millinerS",
+            "type": "culture",
+            "notes": "The American Milliner branch, newer and less respected despite their successes. Resentful of the main family's lack of recognition."
+        },
+        {
+            "id": "culture_the_minor_families",
+            "title": "The Minor Families",
+            "anchor": "## the minor FamilieS",
+            "type": "culture",
+            "notes": "Overview of the smaller Giovanni family branches: della Passaglia, Putanesca, Ghiberti, and Rosselini."
+        },
+        {
+            "id": "culture_holiday_in_cambodia",
+            "title": "Holiday in Cambodia",
+            "anchor": "## holiday in CamBodia",
+            "type": "lore",
+            "notes": "Reference to Giovanni activities or presence in Cambodia."
+        },
+        {
+            "id": "culture_strange_bedfellows",
+            "title": "Strange Bedfellows",
+            "anchor": "## StranGe BedFellowS",
+            "type": "politics",
+            "notes": "Discussion of unusual alliances or relationships the Giovanni have formed."
+        },
+        {
+            "id": "culture_anziani_elders",
+            "title": "Anziani (Elders)",
+            "anchor": "## anziani (elderS)",
+            "type": "culture",
+            "notes": "The Giovanni's elder leadership structure and decision-making process."
+        },
+        {
+            "id": "culture_diego_on_prophecy",
+            "title": "Diego on Prophecy",
+            "anchor": "## dieGo on propheCy",
+            "type": "lore",
+            "notes": "Diego Giovanni's philosophical views on prophecy and the Endless Night."
+        },
+        {
+            "id": "culture_anziani_prudente",
+            "title": "Anziani Prudente (Cautious Elders)",
+            "anchor": "## anziani prudente (CautiouS elderS)",
+            "type": "politics",
+            "notes": "The faction of cautious elders who favor careful, measured approaches to the Endless Night."
+        },
+        {
+            "id": "culture_anziani_appassionati",
+            "title": "Anziani Appassionati (Eager Elders)",
+            "anchor": "## anziani appaSionati (eaGer elderS)",
+            "type": "politics",
+            "notes": "The faction of eager elders who want to push forward with the Endless Night as quickly as possible."
+        },
+        {
+            "id": "culture_the_premascines",
+            "title": "The Premascines",
+            "anchor": "## the premaSCineS",
+            "type": "lore",
+            "notes": "Detailed discussion of the Premascines and their potential existence in hiding."
+        },
+        {
+            "id": "culture_the_honored_dead",
+            "title": "The Honored Dead",
+            "anchor": "## the honored dead",
+            "type": "culture",
+            "notes": "Giovanni who have become wraiths after death, serving the clan from the Underworld."
+        },
+        {
+            "id": "culture_the_global_giovanni",
+            "title": "The Global Giovanni",
+            "anchor": "## the GloBal Giovanni",
+            "type": "culture",
+            "notes": "Overview of the Giovanni's worldwide organization and family structure."
+        },
+        {
+            "id": "culture_three_views_of_the_endless_night",
+            "title": "Three Views of the Endless Night",
+            "anchor": "## three viewS oF the endleSS niGht",
+            "type": "lore",
+            "notes": "Three different perspectives on what the Endless Night will accomplish, from different Giovanni."
+        },
+        {
+            "id": "culture_cristobal_ghiberti",
+            "title": "Cristobal Ghiberti, 13th Generation",
+            "anchor": "## - Cristobal Ghiberti, 13th Generation",
+            "type": "lore",
+            "notes": "Cristobal's view of the Endless Night as a revolution that will free the Giovanni."
+        },
+        {
+            "id": "culture_diego_giovanni",
+            "title": "Diego Giovanni, 6th Generation",
+            "anchor": "## - Diego Giovanni, 6th Generation",
+            "type": "lore",
+            "notes": "Diego's philosophical view of the Endless Night as a transformation that will resolve Kindred conflicts."
+        },
+        {
+            "id": "culture_the_ritual_of_pochtli",
+            "title": "The Ritual of Pochtli",
+            "anchor": "## the ritual oF poChtli  (level two neCromantiC ritual)",
+            "type": "mechanics",
+            "notes": "A metaritual that allows multiple Necromancers to pool their successes when casting other necromantic powers."
+        },
+        {
+            "id": "culture_unic_sangue_e_doppio_sangue",
+            "title": "Unico Sangue e Doppio Sangue (Single Blood and Double Blood)",
+            "anchor": "## uniCo SanGue e doppio SanGue (SinGle Blood and douBle Blood)",
+            "type": "culture",
+            "notes": "The Giovanni's distinction between 'single-blooded' (born and Embraced Giovanni) and 'double-blooded' (Embraced into the clan but not born into it) members."
+        },
+        {
+            "id": "culture_infantilism",
+            "title": "Infantilism",
+            "anchor": "## inFantiliSm",
+            "type": "culture",
+            "notes": "The psychological phenomenon of Giovanni who remain dependent on their elders, never achieving full independence."
+        },
+        {
+            "id": "culture_leconomia_sanguinosa",
+            "title": "L'Economia Sanguinosa (The Economy of Blood)",
+            "anchor": "## l ' eConomia SanGuinoSa (the eConomy oF Blood)",
+            "type": "culture",
+            "notes": "How the Giovanni approach feeding, viewing blood as an economic resource to be managed efficiently."
+        },
+        {
+            "id": "culture_tradizione_the_proxy_kiss",
+            "title": "Tradizione (Tradition) The Proxy Kiss",
+            "anchor": "## tradizione (tradition) the  proxy KiSS",
+            "type": "culture",
+            "notes": "The Giovanni tradition of ghouling family members before the Embrace to ensure loyalty and test worthiness."
+        },
+        {
+            "id": "culture_april_4th",
+            "title": "April 4th",
+            "anchor": "## april  4th",
+            "type": "culture",
+            "notes": "The annual celebration of the feast that led to Augustus's decision to betray his sire. Traditionally when new family members are proposed for the Proxy Kiss and Embrace."
+        },
+        {
+            "id": "culture_an_italian_primer",
+            "title": "An Italian Primer For Foul-mouthed Necromancers",
+            "anchor": "## an italian  primer  For Foul-mouthed neCromanCerS",
+            "type": "lore",
+            "notes": "Glossary of Italian terms used by the Giovanni, including slang and necromantic terminology."
+        },
+        {
+            "id": "culture_ghostbusters_it_fuckin_aint",
+            "title": "Ghostbusters It Fuckin' Ain't",
+            "anchor": "## GhoStBuSterS it  FuCKin ' ain ' t",
+            "type": "lore",
+            "notes": "Explanation of the Underworld, the Shroud (sudario), and how necromancy works, written in a crude, practical style."
+        },
+        {
+            "id": "culture_spiriti_wraiths",
+            "title": "Spiriti (Wraiths)",
+            "anchor": "## Spiriti (wraithS)",
+            "type": "lore",
+            "notes": "Explanation of wraiths (spiriti): their nature, motivations, fetters (catene), and how to deal with them."
+        },
+        {
+            "id": "culture_valentinism",
+            "title": "Valentinism",
+            "anchor": "## valentiniSm",
+            "type": "lore",
+            "notes": "The heretical belief that the Endless Night will destroy the Giovanni's power over spirits rather than complete it, based on warnings from Valentina della Passaglia's ghost."
+        },
+        {
+            "id": "culture_systems_what_spiriti_can_do",
+            "title": "Systems: What Spiriti Can Do",
+            "anchor": "## SyStemS: what Spiriti Can do",
+            "type": "mechanics",
+            "notes": "Game mechanics for wraiths' powers, using equivalent vampire Disciplines."
+        },
+        {
+            "id": "culture_spirit_slaves",
+            "title": "Spirit Slaves",
+            "anchor": "## Spirit SlaveS",
+            "type": "mechanics",
+            "notes": "Rules for the Spirit Slaves Background, allowing characters to start with bound wraiths."
+        },
+        {
+            "id": "culture_spettri_spectres",
+            "title": "Spettri (Spectres)",
+            "anchor": "## Spettri (SpeCtreS)",
+            "type": "lore",
+            "notes": "Explanation of spectres (spettri): deranged, destructive wraiths consumed by entities of oblivion. Much more dangerous than spiriti."
+        },
+        {
+            "id": "culture_which_ones_better",
+            "title": "Which One's Better?",
+            "anchor": "## whiCh one ' S  Better?",
+            "type": "lore",
+            "notes": "Comparison of spiriti vs. spettri as servants, discussing their relative advantages and dangers."
+        },
+        {
+            "id": "culture_systems_what_spettri_can_do",
+            "title": "Systems: What Spettri Can Do",
+            "anchor": "## SyStemS: what  Spettri Can do",
+            "type": "mechanics",
+            "notes": "Game mechanics for spectres' powers and how they differ from wraiths."
+        },
+        {
+            "id": "culture_the_risen",
+            "title": "The Risen",
+            "anchor": "## the riSen",
+            "type": "lore",
+            "notes": "Wraiths who have returned to their dead bodies, creating intelligent zombies. Standard necromancy doesn't work well on them."
+        },
+        {
+            "id": "culture_shambler",
+            "title": "Shambler",
+            "anchor": "## ShamBler",
+            "type": "mechanics",
+            "notes": "Statistics for brainless walking corpses, the most common type of Risen."
+        },
+        {
+            "id": "culture_true_risen",
+            "title": "True Risen",
+            "anchor": "## true riSen",
+            "type": "mechanics",
+            "notes": "Statistics for intelligent Risen with complex goals and planning abilities."
+        },
+        {
+            "id": "culture_using_necromancy_on_the_risen",
+            "title": "Using Necromancy on the Risen",
+            "anchor": "## uSinG neCromanCy on the riSen",
+            "type": "mechanics",
+            "notes": "Rules for how necromancy affects Risen, with only the Bone Path having significant effect."
+        },
+        {
+            "id": "culture_the_maelstrom",
+            "title": "The Maelstrom",
+            "anchor": "## the maelStrom",
+            "type": "lore",
+            "notes": "The catastrophic storm in the Underworld that destroyed the dead cities and weakened the Shroud. Current state of chaos in the lands of the dead."
+        },
+        {
+            "id": "culture_the_maelstrom_and_nigrimancy",
+            "title": "The Maelstrom and Nigrimancy",
+            "anchor": "## the maelStrom and  niGrimanCy",
+            "type": "lore",
+            "notes": "How the maelstrom has affected necromancy and the Giovanni's ability to control spirits."
+        },
+        {
+            "id": "mechanics_the_sepulchre_path",
+            "title": "The Sepulchre Path",
+            "anchor": "## the SepulChre path",
+            "type": "mechanics",
+            "notes": "The most common Giovanni Necromancy path, focusing on summoning and compelling wraiths."
+        },
+        {
+            "id": "mechanics_summon_soul",
+            "title": "Summon Soul",
+            "anchor": "## •• Summon Soul",
+            "type": "mechanics",
+            "notes": "Sepulchre Path level 2: Summons a known wraith to the Necromancer's location."
+        },
+        {
+            "id": "mechanics_compel_soul",
+            "title": "Compel Soul",
+            "anchor": "## ••• Compel Soul",
+            "type": "mechanics",
+            "notes": "Sepulchre Path level 3: Forces a summoned wraith to answer questions or perform tasks."
+        },
+        {
+            "id": "mechanics_the_bone_path",
+            "title": "The Bone Path",
+            "anchor": "## the Bone path",
+            "type": "mechanics",
+            "notes": "Necromancy path focusing on animating and controlling dead bodies."
+        },
+        {
+            "id": "mechanics_apprentices_brooms",
+            "title": "Apprentice's Brooms",
+            "anchor": "## •• Apprentice's Brooms",
+            "type": "mechanics",
+            "notes": "Bone Path level 2: Animate corpses to perform simple tasks."
+        },
+        {
+            "id": "mechanics_shambling_hordes",
+            "title": "Shambling Hordes",
+            "anchor": "## ••• Shambling Hordes",
+            "type": "mechanics",
+            "notes": "Bone Path level 3: Animate multiple corpses simultaneously."
+        },
+        {
+            "id": "mechanics_soul_stealing",
+            "title": "Soul Stealing",
+            "anchor": "## •••• Soul Stealing",
+            "type": "mechanics",
+            "notes": "Bone Path level 4: Rips a soul from a living body, sending it to the Underworld."
+        },
+        {
+            "id": "mechanics_the_ash_path",
+            "title": "The Ash Path",
+            "anchor": "## the aSh path",
+            "type": "mechanics",
+            "notes": "Necromancy path that manipulates the barrier between the living and dead worlds."
+        },
+        {
+            "id": "mechanics_ex_nihilo",
+            "title": "Ex Nihilo",
+            "anchor": "## •••• Ex Nihilo",
+            "type": "mechanics",
+            "notes": "Ash Path level 4: Creates objects from nothing by drawing matter from the Underworld."
+        },
+        {
+            "id": "mechanics_the_vitreous_path",
+            "title": "The Vitreous Path",
+            "anchor": "## the vitreouS path",
+            "type": "mechanics",
+            "notes": "Necromancy path allowing the Necromancer to see and interact with the Underworld without crossing over."
+        },
+        {
+            "id": "mechanics_spirit_manipulation_thaumaturgy",
+            "title": "Spirit Manipulation (Thaumaturgy)",
+            "anchor": "## Spirit manipulation (thaumaturGy)",
+            "type": "mechanics",
+            "notes": "Discussion of how Thaumaturgy's Spirit Manipulation path relates to Giovanni Necromancy."
+        },
+        {
+            "id": "relations_everyone_but_us_is_stupid",
+            "title": "Everyone But Us Is Stupid",
+            "anchor": "## everyone But uS iS Stupid",
+            "type": "relations",
+            "notes": "Overview of Giovanni relationships with other groups, reflecting their arrogance and isolation."
+        },
+        {
+            "id": "relations_the_camarilla",
+            "title": "The Camarilla",
+            "anchor": "## the Camarilla",
+            "type": "relations",
+            "notes": "Giovanni relationship with the Camarilla, bound by the Promise of 1528 to remain apolitical."
+        },
+        {
+            "id": "relations_the_sabbat",
+            "title": "The Sabbat",
+            "anchor": "## the SaBBat",
+            "type": "relations",
+            "notes": "Giovanni relationship with the Sabbat, who view them as traitors who destroyed an entire clan."
+        },
+        {
+            "id": "relations_assamites",
+            "title": "Assamites",
+            "anchor": "## aSSamiteS",
+            "type": "relations",
+            "notes": "Giovanni relationship with the Assamite clan."
+        },
+        {
+            "id": "relations_brujah",
+            "title": "Brujah",
+            "anchor": "## BruJah",
+            "type": "relations",
+            "notes": "Giovanni relationship with the Brujah clan."
+        },
+        {
+            "id": "relations_gangrel",
+            "title": "Gangrel",
+            "anchor": "## GanGrel",
+            "type": "relations",
+            "notes": "Giovanni relationship with the Gangrel clan."
+        },
+        {
+            "id": "relations_lasombra",
+            "title": "Lasombra",
+            "anchor": "## laSomBra",
+            "type": "relations",
+            "notes": "Giovanni relationship with the Lasombra clan."
+        },
+        {
+            "id": "relations_malkavian",
+            "title": "Malkavian",
+            "anchor": "## malKavian",
+            "type": "relations",
+            "notes": "Giovanni relationship with the Malkavian clan."
+        },
+        {
+            "id": "relations_nagaraja",
+            "title": "Nagaraja",
+            "anchor": "## naGaraJa",
+            "type": "relations",
+            "notes": "Giovanni relationship with the Nagaraja, a bloodline that practices necromancy and may have been destroyed."
+        },
+        {
+            "id": "relations_nosferatu",
+            "title": "Nosferatu",
+            "anchor": "## noSFeratu",
+            "type": "relations",
+            "notes": "Giovanni relationship with the Nosferatu clan."
+        },
+        {
+            "id": "relations_ravnos",
+            "title": "Ravnos",
+            "anchor": "## ravnoS",
+            "type": "relations",
+            "notes": "Giovanni relationship with the Ravnos clan."
+        },
+        {
+            "id": "relations_setites",
+            "title": "Setites",
+            "anchor": "## SetiteS",
+            "type": "relations",
+            "notes": "Giovanni relationship with the Followers of Set."
+        },
+        {
+            "id": "relations_toreador",
+            "title": "Toreador",
+            "anchor": "## toreador",
+            "type": "relations",
+            "notes": "Giovanni relationship with the Toreador clan."
+        },
+        {
+            "id": "relations_tremere",
+            "title": "Tremere",
+            "anchor": "## tremere",
+            "type": "relations",
+            "notes": "Giovanni relationship with the Tremere clan, who fear their necromantic power."
+        },
+        {
+            "id": "relations_tzimisce",
+            "title": "Tzimisce",
+            "anchor": "## tzimiSCe",
+            "type": "relations",
+            "notes": "Giovanni relationship with the Tzimisce clan."
+        },
+        {
+            "id": "relations_ventrue",
+            "title": "Ventrue",
+            "anchor": "## ventrue",
+            "type": "relations",
+            "notes": "Giovanni relationship with the Ventrue clan, competing for financial influence."
+        },
+        {
+            "id": "relations_other_troublemakers",
+            "title": "Other Troublemakers",
+            "anchor": "## other trouBlemaKerS",
+            "type": "relations",
+            "notes": "Giovanni relationships with other supernatural groups."
+        },
+        {
+            "id": "relations_mages",
+            "title": "Mages",
+            "anchor": "## maGeS",
+            "type": "relations",
+            "notes": "Giovanni relationship with mages and sorcerers."
+        },
+        {
+            "id": "relations_changelings",
+            "title": "Changelings",
+            "anchor": "## ChanGelinGS",
+            "type": "relations",
+            "notes": "Giovanni relationship with changelings (fata)."
+        },
+        {
+            "id": "relations_hunters",
+            "title": "Hunters",
+            "anchor": "## hunterS",
+            "type": "relations",
+            "notes": "Giovanni relationship with hunters and other mortal threats."
+        },
+        {
+            "id": "relations_the_orphic_circle",
+            "title": "The Orphic Circle",
+            "anchor": "## the orphiC CirCle",
+            "type": "relations",
+            "notes": "Giovanni relationship with the Orphic Circle, a group of necromancers."
+        },
+        {
+            "id": "mechanics_new_traits",
+            "title": "New Traits",
+            "anchor": "## new traitS",
+            "type": "mechanics",
+            "notes": "Introduction to new Backgrounds, Merits, and Flaws for Giovanni characters."
+        },
+        {
+            "id": "mechanics_new_background",
+            "title": "New Background",
+            "anchor": "## new  BaCKGround",
+            "type": "mechanics",
+            "notes": "New Background options for Giovanni characters, including Spirit Slaves."
+        },
+        {
+            "id": "mechanics_ghiberti_necromancy",
+            "title": "Ghiberti Necromancy",
+            "anchor": "## GhiBerti neCromanCy",
+            "type": "mechanics",
+            "notes": "The specialized Cenotaph Path developed by the Ghiberti family."
+        },
+        {
+            "id": "mechanics_the_cenotaph_path",
+            "title": "The Cenotaph Path",
+            "anchor": "## the Cenotaph path",
+            "type": "mechanics",
+            "notes": "Introduction to the Cenotaph Path, focusing on detecting and manipulating fetters."
+        },
+        {
+            "id": "mechanics_a_touch_of_death",
+            "title": "A Touch of Death",
+            "anchor": "## · a touCh oF death",
+            "type": "mechanics",
+            "notes": "Cenotaph Path level 1: Detects ghostly touch and influence on objects or people."
+        },
+        {
+            "id": "mechanics_reveal_the_catene",
+            "title": "Reveal the Catene",
+            "anchor": "## ·· reveal  the  Catene",
+            "type": "mechanics",
+            "notes": "Cenotaph Path level 2: Identifies fetters and can reveal the identity of connected wraiths."
+        },
+        {
+            "id": "mechanics_tread_upon_the_grave",
+            "title": "Tread Upon the Grave",
+            "anchor": "## ··· tread upon the Grave",
+            "type": "mechanics",
+            "notes": "Cenotaph Path level 3: Senses the strength of the Shroud in an area."
+        },
+        {
+            "id": "mechanics_death_knell",
+            "title": "Death Knell",
+            "anchor": "## ···· death Knell",
+            "type": "mechanics",
+            "notes": "Cenotaph Path level 4: Automatically senses when someone dies and becomes a wraith nearby."
+        },
+        {
+            "id": "mechanics_ephemeral_binding",
+            "title": "Ephemeral Binding",
+            "anchor": "## ····· ephemeral BindinG",
+            "type": "mechanics",
+            "notes": "Cenotaph Path level 5: Creates artificial fetters by coating objects or people with the Necromancer's blood."
+        },
+        {
+            "id": "mechanics_pisanob_necromancy",
+            "title": "Pisanob Necromancy",
+            "anchor": "## piSanoB neCromanCy",
+            "type": "mechanics",
+            "notes": "Aztec-influenced necromancy practiced by the Pisanob, requiring ritual trappings."
+        },
+        {
+            "id": "mechanics_ritual_of_the_smoking_mirror",
+            "title": "Ritual of the Smoking Mirror",
+            "anchor": "## ritual oF the SmoKinG mirror (level one ritual)",
+            "type": "mechanics",
+            "notes": "Pisanob level 1 ritual: Uses an obsidian mirror to see as ghosts do, with Lifesight or Deathsight aspects."
+        },
+        {
+            "id": "mechanics_ritual_of_teyolia",
+            "title": "Ritual of Teyolia",
+            "anchor": "## ritual oF teyolia (level Five ritual)",
+            "type": "mechanics",
+            "notes": "Pisanob level 5 ritual: Tears out a Kindred's heart and preserves the heart's blood for later diablerie. Secret ritual known only to Pochtli and his lieutenants."
+        },
+        {
+            "id": "mechanics_new_necromantic_rituals",
+            "title": "New Necromantic Rituals",
+            "anchor": "## new neCromantiC ritualS",
+            "type": "mechanics",
+            "notes": "Introduction to new necromantic rituals available to Giovanni characters."
+        },
+        {
+            "id": "mechanics_the_hand_of_glory",
+            "title": "The Hand of Glory",
+            "anchor": "## the hand oF Glory (level two ritual)",
+            "type": "mechanics",
+            "notes": "Level 2 ritual: Creates a mummified hand that puts all mortals in a household to sleep."
+        },
+        {
+            "id": "mechanics_occhio_duomo_morto",
+            "title": "Occhio d'Uomo Morto",
+            "anchor": "## oCChio d ' uomo morto (level two ritual)",
+            "type": "mechanics",
+            "notes": "Level 2 ritual: Replaces one eye with a corpse's eye, permanently granting Shroudsight but reducing Appearance."
+        },
+        {
+            "id": "mechanics_tempesta_scudo",
+            "title": "Tempesta Scudo",
+            "anchor": "## tempeSta SCudo (level three ritual)",
+            "type": "mechanics",
+            "notes": "Level 3 quick-cast ritual: Creates a circle of blood that makes spirits' actions more difficult within it."
+        },
+        {
+            "id": "mechanics_bastone_diabolico",
+            "title": "Bastone Diabolico",
+            "anchor": "## BaStone diaBoliCo (level Four ritual)",
+            "type": "mechanics",
+            "notes": "Level 4 ritual: Creates a club from a leg bone that drains Pathos/Angst from wraiths and does aggravated damage to zombies."
+        },
+        {
+            "id": "mechanics_esilio",
+            "title": "Esilio",
+            "anchor": "## eSilio (level Five ritual)",
+            "type": "mechanics",
+            "notes": "Level 5 quick-cast ritual: Opens a vortex that instantly destroys wraiths and spectres. Extremely costly, permanently reduces Humanity."
+        },
+        {
+            "id": "mechanics_new_merits_and_flaws",
+            "title": "New Merits and Flaws",
+            "anchor": "## new meritS and FlawS",
+            "type": "mechanics",
+            "notes": "Introduction to new Merits and Flaws specific to Giovanni characters."
+        },
+        {
+            "id": "mechanics_consanguineous_resistance",
+            "title": "Consanguineous Resistance",
+            "anchor": "## ConSanGuineouS reSiStanCe (1-pt.  Supernatural merit)",
+            "type": "mechanics",
+            "notes": "1-point Merit: Cannot be blood bound by anyone from the same mortal bloodline. The Giovanni are suspicious of those who manifest this."
+        },
+        {
+            "id": "mechanics_proxy_kissed",
+            "title": "Proxy Kissed",
+            "anchor": "## proxy KiSSed (4-pt. Supernatural merit)",
+            "type": "mechanics",
+            "notes": "4-point Merit (can be taken twice for 8 points): Received the Proxy Kiss before Embrace. Grants free Potence dot and indicates proper Giovanni tradition, but creates blood bond complications."
+        },
+        {
+            "id": "mechanics_sanguine_incongruity",
+            "title": "Sanguine Incongruity",
+            "anchor": "## SanGuine inConGruity (5-pt. phySiCal merit)",
+            "type": "mechanics",
+            "notes": "5-point Merit: Does not suffer from the Curse of Lamia, but acquires permanent cadaverous appearance. Extremely rare."
+        },
+        {
+            "id": "mechanics_inbred",
+            "title": "Inbred",
+            "anchor": "## inBred (1-pt.  to  5-pt.  Flaw)",
+            "type": "mechanics",
+            "notes": "1-5 point Flaw: Represents the effects of inbreeding common among the Giovanni. Variable severity from minor defects to gross disabilities."
+        },
+        {
+            "id": "mechanics_shadow_walker",
+            "title": "Shadow Walker",
+            "anchor": "## Shadow walKer (6-pt. Supernatural Flaw)",
+            "type": "mechanics",
+            "notes": "6-point Flaw: Partially trapped in the Underworld, making interaction with the living world difficult."
+        },
+        {
+            "id": "character_creation_single_blood_prodigy",
+            "title": "Single-Blood Prodigy",
+            "anchor": "## SinGle-Blood prodiGy",
+            "type": "character_creation",
+            "notes": "Character template: A 'single-blooded' Giovanni who embodies the family's sense of superiority and tradition."
+        },
+        {
+            "id": "character_creation_hurried_embrace",
+            "title": "Hurried Embrace",
+            "anchor": "## hurried emBraCe",
+            "type": "character_creation",
+            "notes": "Character template: A Giovanni Embraced quickly without proper preparation, struggling to adapt."
+        },
+        {
+            "id": "character_creation_then_the_world_went_mad",
+            "title": "Then the World Went Mad",
+            "anchor": "## Then the world went mad.",
+            "type": "character_creation",
+            "notes": "Character template: A Giovanni who was Embraced during or after a traumatic event, dealing with the psychological aftermath."
+        },
+        {
+            "id": "character_creation_bitter_matron",
+            "title": "Bitter Matron",
+            "anchor": "## Bitter matron",
+            "type": "character_creation",
+            "notes": "Character template: An older Giovanni woman who has been passed over for recognition and is resentful of the family's treatment."
+        },
+        {
+            "id": "character_creation_diplomat_provocateur",
+            "title": "Diplomat Provocateur",
+            "anchor": "## diplomat provoCateur",
+            "type": "character_creation",
+            "notes": "Character template: A Giovanni who specializes in manipulating other Kindred through social manipulation and necromantic information."
+        },
+        {
+            "id": "character_creation_dunsirn_bully",
+            "title": "Dunsirn Bully",
+            "anchor": "## dunSirn Bully",
+            "type": "character_creation",
+            "notes": "Character template: A Dunsirn enforcer who uses physical intimidation and violence to protect family interests."
+        },
+        {
+            "id": "character_creation_aide_de_camp",
+            "title": "Aide-de-Camp",
+            "anchor": "## aide-de-Camp",
+            "type": "character_creation",
+            "notes": "Character template: A Giovanni who serves as assistant to a powerful elder, handling their business and learning from them."
+        },
+        {
+            "id": "character_creation_pisanob_grave_robber",
+            "title": "Pisanob Grave Robber",
+            "anchor": "## piSanoB Grave roBBer",
+            "type": "character_creation",
+            "notes": "Character template: A Pisanob who specializes in acquiring materials for necromancy from graves and ancient sites."
+        },
+        {
+            "id": "character_creation_the_degenerate",
+            "title": "The Degenerate",
+            "anchor": "## the deGenerate",
+            "type": "character_creation",
+            "notes": "Character template: A Giovanni who fully embraces the clan's darkest practices and has no moral boundaries."
+        },
+        {
+            "id": "character_creation_fiduciary_wizard",
+            "title": "Fiduciary Wizard",
+            "anchor": "## FiduCiary wizard",
+            "type": "character_creation",
+            "notes": "Character template: A Giovanni who specializes in financial manipulation and corporate control."
+        },
+        {
+            "id": "character_creation_failure",
+            "title": "Failure",
+            "anchor": "## Failure",
+            "type": "character_creation",
+            "notes": "Character template: A Giovanni who has failed to meet family expectations and is struggling to prove their worth."
+        },
+        {
+            "id": "notable_characters_cugini_di_sangue",
+            "title": "Cugini di Sangue",
+            "anchor": "## CuGini di SanGue",
+            "type": "lore",
+            "notes": "Section on notable Giovanni characters, 'Cousins of Blood.'"
+        },
+        {
+            "id": "notable_characters_isabel_giovanni",
+            "title": "Isabel Giovanni",
+            "anchor": "## iSaBel Giovanni",
+            "type": "lore",
+            "notes": "Information about Isabel Giovanni, a notable single-blooded Giovanni character."
+        },
+        {
+            "id": "notable_characters_emilio_rosselini",
+            "title": "Emilio Rosselini",
+            "anchor": "## emilio roSSelini",
+            "type": "lore",
+            "notes": "Information about Emilio Rosselini, a Rosselini family member known for his cruelty."
+        },
+        {
+            "id": "notable_characters_claudia_dunsirn",
+            "title": "Claudia Dunsirn, the Grail Seeker",
+            "anchor": "## Claudia dunSirn, the Grail SeeKer",
+            "type": "lore",
+            "notes": "Information about Claudia Dunsirn, a Dunsirn merchant struggling with the family's demands to learn necromancy."
+        }
+    ]
+}
+
+

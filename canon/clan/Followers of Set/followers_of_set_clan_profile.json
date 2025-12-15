@@ -1,0 +1,80 @@
+{
+    "clan_name": "Followers of Set",
+    "book_title": "Revised Clanbook: Followers of Set",
+    "edition": "Revised",
+    "source_file": "G:\\VbN\\reference\\Books_md_clean\\Revised - Clanbook Followers of Set.md",
+    "summaries": {
+      "history": "The Followers of Set trace their origins to the worship of the god Set in ancient Egypt, recasting him not merely as a desert storm god but as a primordial liberator and adversary of stagnant order. Over centuries they insert themselves into pharaonic cults, rival priesthoods, Hellenistic mystery religions, and later heresies and occult societies. They survive purges, crusades, and shifts in mortal empires by abandoning collapsing power structures and reappearing wherever faith, fear, and vice can be harnessed. By the modern era, Setites have spread far beyond the Nile, with bloodlines and temples in Africa, the Middle East, Europe, and the Americas, always cloaking their presence in whatever spiritual or subcultural disguise suits the age.",
+      "culture": "Setite culture is a hybrid of religious order, criminal syndicate, and occult university. The clan organizes itself around temples, cults, and networks of mortal devotees, each built on carefully tailored temptations: drugs, sex, forbidden knowledge, political power, spiritual comfort. Internally, they speak in the language of doctrine, revelations, and paths, but are pragmatic about methods—whatever leads a target closer to Set is acceptable. Hospitality, information, and favors are the default currency. Setites expect each other to maintain fronts among mortals and Kindred alike; idleness and anonymity are seen as spiritual stagnation.",
+      "philosophy": "The central Setite belief is that existence is bondage: to fear, guilt, institutions, false gods, and comforting lies. Set, in their theology, is the principle that shatters these chains, even at terrible personal cost. The Path of Typhon and related doctrines teach that corruption and degradation can be tools of revelation: by stripping away illusions through vice, trauma, and ecstatic experiences, the initiate confronts what they truly are. Moral absolutes are suspect; hypocrisy is the greatest sin. Enlightenment is not gentle—it is venom forcing the soul to either transform or die.",
+      "factions": "Within the clan, factions arise around interpretations of Set’s will and the correct balance between faith and pragmatism. Some are devout theologians who see themselves as true priests, constructing elaborate liturgies and initiatory rites. Others are practical ‘vicemongers’ who focus on running clubs, cartels, and cults that generate leverage. There are regional currents—Nile-traditionalists, African offshoots, syncretic Latin American cults, European occult society infiltrators—each blending local culture with Setite dogma. Factional conflict tends to be subtle: maneuvering over cult resources, influence, and who speaks with authority for the clan’s greater designs.",
+      "politics": "Among the Damned, Setites officially present as independents, but in practice they infiltrate every sect. They prefer operating behind the scenes, bribing officials, supplying vices, and trading information. In Camarilla domains, they often occupy gray-market roles: supplying illegal services to respected elders, running mortal fronts that everyone uses but no one publicly acknowledges. With the Sabbat, they may offer occult lore and logistics while quietly steering packs toward chaos that benefits Set’s agenda. Setites view most political structures as temporary masks; they will serve princes, bishops, barons, or warlords as long as the relationship advances their faith and their control.",
+      "relations": "Other clans generally distrust or hate the Followers of Set, associating them with addiction, betrayal, and cultic manipulation. Ventrue and Tremere tend to treat them as dangerous but occasionally useful specialists. Brujah and Gangrel often see them as parasitic predators on the weak. Toreador may be both repulsed and fascinated by their religious art and ritual aesthetics. Setites reciprocate with a mixture of amusement and contempt: they consider most other Kindred to be hypocrites in denial about their own predatory nature. Nonetheless, they are very willing to forge alliances—short-term, conditional, and always hedged with leverage.",
+      "character_creation": "Setite characters are usually built around leverage: social skills, subterfuge, and networks of mortals whose desires they control. Strong emphasis is placed on Charisma and Manipulation, with mental resilience to resist others’ control. Backgrounds such as Resources, Contacts, Allies, and Herd are common, as are cult-like Retainers who double as worshippers. The clan’s favored Disciplines support their methods: serpentine physical transformations and mystical awe pair naturally with silver tongues and shadowy operations. Weaknesses—such as vulnerability to bright light and obsession with vice—should be reflected in concept, not just numbers.",
+      "archetypes": "Common archetypes include the cult leader who offers salvation through worship of Set; the vice merchant who runs a drug ring, fetish club, or sin-laden resort; the scholarly heretic who digs through obscure scriptures for hidden truths; the seemingly harmless fixer who quietly controls half the city’s illicit pleasures; and the ascetic serpent-monk who forgoes obvious indulgences to seek more abstract forms of power. Many archetypes center on the tension between genuine conviction and ruthless pragmatism: are they saving souls, or just feeding their own hunger?",
+      "storyteller_advice": "Storytellers are encouraged to use Setites as both tempters and mirrors. They tempt player characters with exactly what those characters secretly crave, then ask what the PCs are willing to trade. Setites work best when they are woven deep into the city’s mortal infrastructure—nightlife, religion, crime, charities, academia, and fringe spirituality—so discovering their influence feels like uncovering a hidden layer of reality. Avoid making them one-note villains; instead, emphasize that many genuinely believe they offer a harsh but necessary path to freedom. Their plots should evolve slowly, with small, seductive choices that accumulate into major compromises."
+    },
+    "tone_highlights": {
+      "emotional_temperature": "Hot but controlled; a slow burn rather than wild frenzy.",
+      "social_posture": "Outwardly deferential and helpful, inwardly absolutely convinced of their spiritual superiority.",
+      "predator_style": "They hunt for psychological weak points, then apply a customized mix of kindness, pressure, and vice to open them wider.",
+      "recurring_motifs": [
+        "Chains and liberation",
+        "Deserts, storms, and darkness",
+        "Serpents and venom as cleansing forces",
+        "Temples hidden behind mundane facades",
+        "Faith language wrapped around criminal acts"
+      ]
+    },
+    "common_archetypes": [
+      {
+        "name": "Vice Merchant",
+        "description": "A Setite who runs the businesses that supply the city’s most dangerous desires—drugs, sex, thrill experiences, or forbidden entertainment—using these as hooks to create worshippers and pawns.",
+        "typical_roles": ["club owner", "dealer", "exclusive-event promoter"]
+      },
+      {
+        "name": "Cult Prophet",
+        "description": "A charismatic preacher or spiritual guide who wraps Setite doctrine in whatever language the local flock understands, promising liberation through transgression and devotion.",
+        "typical_roles": ["televangelist-style guru", "occult group leader", "charismatic pastor"]
+      },
+      {
+        "name": "Occult Scholar",
+        "description": "A Setite obsessed with ancient texts, heresies, and secret histories, hoarding information as both sacrament and weapon.",
+        "typical_roles": ["university researcher", "rare books dealer", "museum or archive insider"]
+      },
+      {
+        "name": "Shadow Fixer",
+        "description": "A quiet operator who knows where to get anything and who to bribe, blackmail, or protect to keep the system running in their favor.",
+        "typical_roles": ["concierge to the underworld", "political bagman", "corrupt bureaucrat's handler"]
+      },
+      {
+        "name": "Desert Oracle",
+        "description": "A mystic who maintains more traditional Setite rites, performing visions and initiations in hidden, symbol-laden sanctuaries.",
+        "typical_roles": ["secluded prophet", "ritual specialist", "clan advisor older than they appear"]
+      }
+    ],
+    "political_keywords": [
+      "independent",
+      "infiltration",
+      "cult",
+      "vice trade",
+      "smuggling",
+      "occult societies",
+      "corruption",
+      "heresy",
+      "religious influence"
+    ],
+    "section_anchors": {
+      "healing_power_of_religion": "## The heALiNg pOwer Of reLigiON",
+      "ancient_world": "## The  ANCieNT  wOrLD",
+      "pharaonic_egypt": "## phArAONiC  egypT",
+      "modern_problems": "## mODerN prOBLemS",
+      "setites_in_africa": "## SeTiTeS  Of  AfriCA",
+      "setites_in_america": "## SeTiTeS  iN  AmeriCA",
+      "clan_of_faith": "## The  CLAN  Of  fAiTh",
+      "fundamentals": "## fuNDAmeNTALS",
+      "doctrine": "## DOCTriNe",
+      "history_section": "## hiSTOry",
+      "current_practices": "## CurreNT  prACTiCeS"
+    }
+  }

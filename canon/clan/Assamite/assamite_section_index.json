@@ -1,0 +1,79 @@
+{
+    "clan": "Assamites",
+    "internal_name": "Banu Haqim",
+    "book_title": "Revised - Clanbook Assamite",
+    "edition": "Revised",
+    "approximate_source_file": "G:\\VbN\\reference\\Books_md_clean\\Clan Books\\Revised - Clanbook Assamite.md",
+    "sections": [
+      {
+        "id": "credits",
+        "title": "Credits",
+        "anchor": "## Credits",
+        "type": "other",
+        "notes": "Standard publication credits; useful only for meta reference, not RAG lore."
+      },
+      {
+        "id": "special_thanks",
+        "title": "Special Thanks (DragonCon Edition)",
+        "anchor": "## speCial thanKs, dragonCon edition",
+        "type": "other",
+        "notes": "Acknowledgments and edition-specific thanks; can generally be ignored for in-game reference."
+      },
+      {
+        "id": "glitch_marker",
+        "title": "Layout Artifact",
+        "anchor": "## eeeeeew",
+        "type": "other",
+        "notes": "Likely a layout or OCR artifact; not relevant to lore and can be skipped by RAG."
+      },
+      {
+        "id": "contents",
+        "title": "Contents",
+        "anchor": "## Contents",
+        "type": "other",
+        "notes": "Table of contents; establishes the chapter order but contains no prose of its own."
+      },
+      {
+        "id": "framing_fiction_1496",
+        "title": "Framing Fiction – In the Year of Our Lord, 1496",
+        "anchor": "## In the Year of our Lord, 1496",
+        "type": "fiction",
+        "notes": "Opening fiction establishing the mood, historical context, and themes of judgment and conflict for the clan."
+      },
+      {
+        "id": "framing_fiction_first_nights",
+        "title": "Framing Fiction – The First Nights",
+        "anchor": "## the First nights",
+        "type": "fiction",
+        "notes": "Part of the opening story, likely depicting the early experiences of a key Assamite or related historical figures."
+      },
+      {
+        "id": "framing_fiction_second_city",
+        "title": "Framing Fiction – The Second City",
+        "anchor": "## the seCond City",
+        "type": "fiction",
+        "notes": "A continuation or flashback that ties the Assamites to early vampiric history and foundational betrayals."
+      },
+      {
+        "id": "framing_fiction_justice",
+        "title": "Framing Fiction – Justice",
+        "anchor": "## JustiCe",
+        "type": "fiction",
+        "notes": "A segment focused on the clan’s view of justice versus vengeance, reinforcing their self-image as judges, not mere killers."
+      },
+      {
+        "id": "framing_fiction_conflicts",
+        "title": "Framing Fiction – Conflicts with the Adversary",
+        "anchor": "## the ConFliCts with the adversary",
+        "type": "fiction",
+        "notes": "Describes early or emblematic conflicts with enemies of the clan, possibly including the Tremere, Baali, or other foes."
+      },
+      {
+        "id": "framing_fiction_peace",
+        "title": "Framing Fiction – Peace",
+        "anchor": "## peaCe",
+        "type": "fiction",
+        "notes": "A closing note to the framing story that likely presents a temporary or uneasy peace, thematically underscoring that peace is always conditional for the Assamites."
+      }
+    ]
+  }

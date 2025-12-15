@@ -1,5 +1,18 @@
 # Books Directory
 
+⚠️ **IMPORTANT: DO NOT DELETE THESE FILES** ⚠️
+
+This directory contains **source PDF files** that are intentionally excluded from git tracking due to size constraints (repository is 1.71 GiB). These files are:
+
+- **Source materials** used for reference and conversion
+- **Backup copies** of original rulebooks
+- **Required for re-extraction** if the database needs to be rebuilt
+- **Not tracked by git** (see `.gitignore`) but must remain in the working directory
+
+**Even though markdown versions exist in `Books_md_clean/`, these PDFs are essential source files and should NOT be deleted.**
+
+---
+
 This directory contains complete PDF books and reference materials for the Vampire: The Masquerade (VTM) and Mind's Eye Theatre (MET) systems.
 
 ## 🔍 Searchable Database

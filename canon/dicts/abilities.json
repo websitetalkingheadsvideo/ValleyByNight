@@ -1,0 +1,314 @@
+[
+  {
+    "id": "ABILITY:brawl",
+    "name": "Brawl",
+    "category": "Ability",
+    "source_refs": [
+      {
+        "file": "Anarch Guide.md",
+        "anchor_id": ""
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "ABILITY:awareness",
+    "name": "Awareness",
+    "category": "Ability",
+    "source_refs": [
+      {
+        "file": "Anarch Guide.md",
+        "anchor_id": ""
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "ABILITY:performance",
+    "name": "Performance",
+    "category": "Ability",
+    "source_refs": [
+      {
+        "file": "Anarch Guide.md",
+        "anchor_id": ""
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "ABILITY:leadership",
+    "name": "Leadership",
+    "category": "Ability",
+    "source_refs": [
+      {
+        "file": "Anarch Guide.md",
+        "anchor_id": ""
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "ABILITY:occult",
+    "name": "Occult",
+    "category": "Ability",
+    "source_refs": [
+      {
+        "file": "Anarch Guide.md",
+        "anchor_id": ""
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "ABILITY:athletics",
+    "name": "Athletics",
+    "category": "Ability",
+    "source_refs": [
+      {
+        "file": "Anarch Guide.md",
+        "anchor_id": ""
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "ABILITY:dodge",
+    "name": "Dodge",
+    "category": "Ability",
+    "source_refs": [
+      {
+        "file": "Anarch Guide.md",
+        "anchor_id": ""
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "ABILITY:intimidation",
+    "name": "Intimidation",
+    "category": "Ability",
+    "source_refs": [
+      {
+        "file": "Anarch Guide.md",
+        "anchor_id": ""
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "ABILITY:melee",
+    "name": "Melee",
+    "category": "Ability",
+    "source_refs": [
+      {
+        "file": "Anarch Guide.md",
+        "anchor_id": ""
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "ABILITY:politics",
+    "name": "Politics",
+    "category": "Ability",
+    "source_refs": [
+      {
+        "file": "Anarch Guide.md",
+        "anchor_id": ""
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "ABILITY:subterfuge",
+    "name": "Subterfuge",
+    "category": "Ability",
+    "source_refs": [
+      {
+        "file": "Anarch Guide.md",
+        "anchor_id": ""
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "ABILITY:empathy",
+    "name": "Empathy",
+    "category": "Ability",
+    "source_refs": [
+      {
+        "file": "Anarch Guide.md",
+        "anchor_id": ""
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "ABILITY:firearms",
+    "name": "Firearms",
+    "category": "Ability",
+    "source_refs": [
+      {
+        "file": "Apocalypse.md",
+        "anchor_id": ""
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "ABILITY:linguistics",
+    "name": "Linguistics",
+    "category": "Ability",
+    "source_refs": [
+      {
+        "file": "Apocalypse.md",
+        "anchor_id": ""
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "ABILITY:science",
+    "name": "Science",
+    "category": "Ability",
+    "source_refs": [
+      {
+        "file": "Apocalypse.md",
+        "anchor_id": ""
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "ABILITY:animal-ken",
+    "name": "Animal Ken",
+    "category": "Ability",
+    "source_refs": [
+      {
+        "file": "Apocalypse.md",
+        "anchor_id": ""
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "ABILITY:computer",
+    "name": "Computer",
+    "category": "Ability",
+    "source_refs": [
+      {
+        "file": "Apocalypse.md",
+        "anchor_id": ""
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "ABILITY:investigation",
+    "name": "Investigation",
+    "category": "Ability",
+    "source_refs": [
+      {
+        "file": "Apocalypse.md",
+        "anchor_id": ""
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "ABILITY:drive",
+    "name": "Drive",
+    "category": "Ability",
+    "source_refs": [
+      {
+        "file": "Apocalypse.md",
+        "anchor_id": ""
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "ABILITY:streetwise",
+    "name": "Streetwise",
+    "category": "Ability",
+    "source_refs": [
+      {
+        "file": "Apocalypse.md",
+        "anchor_id": ""
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "ABILITY:survival",
+    "name": "Survival",
+    "category": "Ability",
+    "source_refs": [
+      {
+        "file": "Apocalypse.md",
+        "anchor_id": ""
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "ABILITY:stealth",
+    "name": "Stealth",
+    "category": "Ability",
+    "source_refs": [
+      {
+        "file": "Apocalypse.md",
+        "anchor_id": ""
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "ABILITY:crafts",
+    "name": "Crafts",
+    "category": "Ability",
+    "source_refs": [
+      {
+        "file": "Art of V ampire - The Masquerade.md",
+        "anchor_id": ""
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "ABILITY:academics",
+    "name": "Academics",
+    "category": "Ability",
+    "source_refs": [
+      {
+        "file": "Laws of Ascension (1).md",
+        "anchor_id": ""
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "ABILITY:etiquette",
+    "name": "Etiquette",
+    "category": "Ability",
+    "source_refs": [
+      {
+        "file": "Laws of Ascension (1).md",
+        "anchor_id": ""
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "ABILITY:larceny",
+    "name": "Larceny",
+    "category": "Ability",
+    "source_refs": [
+      {
+        "file": "Laws of Ascension (1).md",
+        "anchor_id": ""
+      }
+    ],
+    "notes": null
+  }
+]

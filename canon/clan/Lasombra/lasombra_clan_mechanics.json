@@ -1,0 +1,150 @@
+{
+    "clan": "Lasombra",
+    "internal_name": "Lasombra",
+    "book_title": "Clanbook Lasombra",
+    "edition": "Revised",
+    "mechanics": {
+      "disciplines": [
+        {
+          "name": "Dominate",
+          "type": "discipline",
+          "tags": ["tabletop", "clan_favored", "mental_control", "leadership"],
+          "notes": "The Lasombra's primary tool for control and leadership. They use Dominate to enforce their will, maintain order, and eliminate resistance through mental compulsion rather than physical force.",
+          "powers": [
+            {
+              "name": "Command",
+              "rating": 1,
+              "system_text": "Allows the Lasombra to issue a single, simple command that the target must obey.",
+              "tags": ["tabletop", "discipline_power", "mental_control"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Essential for Lasombra scenes involving authority, interrogation, or establishing dominance. Use to create dramatic moments where resistance crumbles."
+            },
+            {
+              "name": "Mesmerize",
+              "rating": 3,
+              "system_text": "Enables the Lasombra to implant complex suggestions or commands that the target will follow over time.",
+              "tags": ["tabletop", "discipline_power", "long_term_control"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Perfect for long-term manipulation plots where Lasombra shape behavior over weeks or months."
+            }
+          ]
+        },
+        {
+          "name": "Obtenebration",
+          "type": "discipline",
+          "tags": ["tabletop", "clan_favored", "shadow_control", "signature"],
+          "notes": "The Lasombra's signature Discipline, allowing them to command shadows and darkness. This power reflects their connection to the Abyss and their ability to manipulate the absence of light.",
+          "powers": [
+            {
+              "name": "Shroud of Night",
+              "rating": 1,
+              "system_text": "The Lasombra can create areas of supernatural darkness that block light and vision.",
+              "tags": ["tabletop", "discipline_power", "stealth", "combat"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Creates dramatic atmosphere and tactical advantages. Use for dramatic entrances, escapes, or combat scenes where visibility becomes a weapon."
+            },
+            {
+              "name": "Arms of the Abyss",
+              "rating": 2,
+              "system_text": "The Lasombra can form tentacles or limbs from shadow that can grasp, strike, or manipulate objects.",
+              "tags": ["tabletop", "discipline_power", "combat", "utility"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Iconic Lasombra power. Use for dramatic combat scenes, intimidation, or creative problem-solving. The shadow limbs should feel alien and powerful."
+            },
+            {
+              "name": "Shadow Step",
+              "rating": 3,
+              "system_text": "Allows the Lasombra to travel through shadows, appearing from one area of darkness to another.",
+              "tags": ["tabletop", "discipline_power", "movement", "stealth"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Perfect for dramatic entrances and exits, surveillance, and creating the sense that Lasombra are always watching from the shadows."
+            }
+          ]
+        },
+        {
+          "name": "Potence",
+          "type": "discipline",
+          "tags": ["tabletop", "physical_power"],
+          "notes": "Supernatural physical strength. For Lasombra, Potence represents their ability to enforce their will through overwhelming force when subtlety fails.",
+          "powers": []
+        }
+      ],
+      "rituals": [],
+      "backgrounds": [
+        {
+          "name": "Les Amies Noir Status",
+          "type": "background",
+          "tags": ["tabletop", "clan_specific", "status", "secret_society"],
+          "notes": "Membership in Les Amies Noir, the inner circle of trusted Lasombra. This grants access to clan secrets, the Court of Blood, and long-term strategic planning.",
+          "system_text": "Represents the character's standing within Les Amies Noir and their access to clan resources and information.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Use to create plots involving clan secrets, strategic missions, and the tension between those inside and outside the inner circle."
+        }
+      ],
+      "merits_flaws": [
+        {
+          "name": "Court of Blood Warrant",
+          "type": "merit",
+          "tags": ["tabletop", "clan_specific", "diablerie"],
+          "notes": "The character has received permission from the Court of Blood to diablerize a specific target within the clan. This is a rare and serious matter.",
+          "system_text": "Grants legal (within clan law) permission to commit diablerie on a specified Lasombra target.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Creates high-stakes plots where the character must hunt a clan member while avoiding discovery. The warrant itself may be a source of conflict if others learn of it."
+        },
+        {
+          "name": "Failed Initiation",
+          "type": "flaw",
+          "tags": ["tabletop", "clan_specific", "social"],
+          "notes": "The character was deemed unworthy of full initiation into Les Amies Noir or failed to meet clan expectations, leaving them with limited status and resources.",
+          "system_text": "Reduces access to clan resources and creates social obstacles within the clan.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Use to create underdog stories or characters who must prove themselves despite past failures. Can create interesting dynamics with more successful clan members."
+        }
+      ],
+      "clan_weakness": {
+        "name": "No Reflection",
+        "type": "clan_weakness",
+        "tags": ["tabletop", "clan_weakness", "signature"],
+        "notes": "Lasombra cast no reflection in mirrors, water, or other reflective surfaces. This is their signature weakness, making them easily identifiable and creating practical problems in modern society.",
+        "system_text": "Lasombra cannot be seen in mirrors, still water, video recordings, or photographs. This makes them vulnerable to detection and creates social complications.",
+        "source_page": null,
+        "larp_status": "not_mapped",
+        "larp_reference": null,
+        "vbn_notes": "This weakness should be a constant source of tension and creative problem-solving. Lasombra must constantly work around security cameras, avoid situations where their lack of reflection would be noticed, and develop strategies to hide this telltale sign of their clan."
+      },
+      "social_structures": [
+        {
+          "name": "Les Amies Noir",
+          "type": "social_structure",
+          "tags": ["tabletop", "clan_organization", "secret_society"],
+          "notes": "The inner circle of trusted Lasombra who are privy to the clan's deepest secrets and long-term strategies. Membership is not automatic and represents the highest level of clan trust.",
+          "vbn_notes": "Use Les Amies Noir to create plots involving clan secrets, strategic missions, and the tension between those who know the true plans and those who do not."
+        },
+        {
+          "name": "Court of Blood",
+          "type": "social_structure",
+          "tags": ["tabletop", "clan_organization", "legal_system"],
+          "notes": "The secretive body that regulates diablerie within the clan. Lasombra who wish to diablerize another clan member must petition the Court and provide evidence that the target is unworthy. The Court's operations are completely secret, and targets are never informed of proceedings against them.",
+          "vbn_notes": "Creates high-stakes legal drama and paranoia. Characters may discover they are under consideration by the Court, or they may need to petition for permission to eliminate a threat."
+        }
+      ]
+    }
+  }
+
+

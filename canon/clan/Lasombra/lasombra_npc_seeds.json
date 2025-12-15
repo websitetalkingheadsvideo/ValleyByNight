@@ -1,0 +1,114 @@
+{
+    "clan": "Lasombra",
+    "internal_name": "Lasombra",
+    "book_title": "Clanbook Lasombra",
+    "edition": "Revised",
+    "npc_seeds": [
+      {
+        "id": "lasombra_strategist_seed_01",
+        "name": "Don Enrique de la Cruz, Strategic Advisor",
+        "summary": "An ancilla member of Les Amies Noir who serves as a strategic advisor to Sabbat leadership, planning operations years or decades in advance.",
+        "role": "long-term strategist and clan representative",
+        "age_category": "ancilla",
+        "temperament": "calm, analytical, with an air of absolute confidence in his plans",
+        "possible_plots": [
+          "Don Enrique approaches the coterie with a seemingly simple task that is actually part of a decades-long plan, and they must decide whether to become pawns or try to understand the larger game.",
+          "He discovers that one of his long-term strategies is being undermined by a rival, and he needs the coterie to help him identify and eliminate the threat without revealing his methods.",
+          "Don Enrique offers to mentor a PC, but his teachings involve increasingly ruthless methods that test the character's moral boundaries."
+        ]
+      },
+      {
+        "id": "lasombra_enforcer_seed_01",
+        "name": "Isadora 'The Shadow' Martinez, Clan Enforcer",
+        "summary": "A neonate Lasombra who specializes in eliminating threats to clan interests with precision and without hesitation. She views violence as a tool like any other.",
+        "role": "problem solver and threat eliminator",
+        "age_category": "neonate",
+        "temperament": "professional, detached, with a dry sense of humor about death and danger",
+        "possible_plots": [
+          "Isadora is assigned to eliminate a target that the coterie is protecting, forcing them to choose between their duty and their principles.",
+          "She discovers that a target she was ordered to eliminate is actually innocent, and she must decide whether to follow orders or risk her standing in the clan.",
+          "Isadora offers to help the coterie eliminate a mutual enemy, but her methods are so extreme that they question whether the solution is worse than the problem."
+        ]
+      },
+      {
+        "id": "lasombra_merchant_seed_01",
+        "name": "Marcus Blackwood, Merchant Prince",
+        "summary": "An ancilla Lasombra who has built significant economic power through business, trade, and financial manipulation. He sees money as another form of control.",
+        "role": "economic power broker and resource manager",
+        "age_category": "ancilla",
+        "temperament": "smooth, charming, with an underlying ruthlessness that shows when business is threatened",
+        "possible_plots": [
+          "Marcus offers the coterie a lucrative business opportunity, but they discover it involves morally questionable practices or conflicts with their other obligations.",
+          "He needs the coterie's help to eliminate a business rival who is also a Kindred, creating a conflict between economic interests and sect politics.",
+          "Marcus's financial empire is threatened by an investigation, and he needs the coterie to help him cover his tracks or eliminate the threat."
+        ]
+      },
+      {
+        "id": "lasombra_infiltrator_seed_01",
+        "name": "Victoria 'The Chameleon' Chen, Camarilla Infiltrator",
+        "summary": "A neonate Lasombra who has successfully infiltrated Camarilla society, maintaining a false identity while gathering intelligence and subtly influencing events.",
+        "role": "spy and saboteur",
+        "age_category": "neonate",
+        "temperament": "nervous, constantly watching for signs that her cover is blown, but highly skilled at maintaining her facade",
+        "possible_plots": [
+          "Victoria's cover is threatened when the coterie discovers her true identity, and they must decide whether to expose her or help her maintain her mission.",
+          "She approaches the coterie with information about a Camarilla plot, but they must determine whether she is telling the truth or manipulating them for her own purposes.",
+          "Victoria needs the coterie's help to extract herself from a dangerous situation without revealing her true loyalties to either side."
+        ]
+      },
+      {
+        "id": "lasombra_mentor_seed_01",
+        "name": "Don Rodrigo Alvarez, Clan Mentor",
+        "summary": "An elder Lasombra who takes on the role of mentor to promising young clan members, teaching them the ways of the clan and preparing them for initiation into Les Amies Noir.",
+        "role": "teacher and clan representative",
+        "age_category": "elder",
+        "temperament": "patient but demanding, with high expectations and little tolerance for failure",
+        "possible_plots": [
+          "Don Rodrigo offers to mentor a PC, but his teachings involve increasingly ruthless methods and moral compromises that test the character's limits.",
+          "He tasks the coterie with a series of challenges designed to test their worthiness, but the challenges become increasingly dangerous and morally questionable.",
+          "Don Rodrigo's past catches up with him when an old enemy seeks revenge, and the coterie must help him while questioning whether he deserves their loyalty."
+        ]
+      },
+      {
+        "id": "lasombra_court_seed_01",
+        "name": "Magistrate Elena Vasquez, Court of Blood Member",
+        "summary": "An ancilla Lasombra who serves as a magistrate on the Court of Blood, evaluating petitions for diablerie and deciding who is worthy to live or die within the clan.",
+        "role": "judge and clan law enforcer",
+        "age_category": "ancilla",
+        "temperament": "formal, serious, with a deep sense of responsibility for the weight of her decisions",
+        "possible_plots": [
+          "Elena approaches the coterie for help gathering evidence about a clan member who may be unworthy, forcing them to become investigators in a secret legal proceeding.",
+          "She discovers that a petition before the Court is based on false evidence, and she needs the coterie to help her uncover the truth before an innocent is condemned.",
+          "Elena reveals that a member of the coterie or someone they care about is under consideration by the Court, creating a race against time to prove their worthiness."
+        ]
+      },
+      {
+        "id": "lasombra_failed_seed_01",
+        "name": "Carlos 'The Disappointed' Mendez, Failed Initiate",
+        "summary": "A neonate Lasombra who was deemed unworthy of full initiation into Les Amies Noir, leaving him with limited status and resources but a burning desire to prove himself.",
+        "role": "underdog and potential wild card",
+        "age_category": "neonate",
+        "temperament": "bitter, determined, with a chip on his shoulder and something to prove",
+        "possible_plots": [
+          "Carlos approaches the coterie with an opportunity to prove his worth, but his methods are reckless and may endanger them all.",
+          "He discovers information that could restore his standing in the clan, but he needs the coterie's help to act on it, creating a mutually beneficial but risky alliance.",
+          "Carlos's bitterness leads him to work against clan interests, and the coterie must decide whether to stop him or help him achieve his goals."
+        ]
+      },
+      {
+        "id": "lasombra_sabbat_seed_01",
+        "name": "Bishop Santiago 'The Shadow' Ramirez, Sabbat Leader",
+        "summary": "An ancilla Lasombra who holds a position of leadership within the Sabbat, using his authority to advance clan interests while maintaining the appearance of serving the sect.",
+        "role": "Sabbat leader and clan agent",
+        "age_category": "ancilla",
+        "temperament": "charismatic, authoritative, with a talent for making others believe they are following their own plans",
+        "possible_plots": [
+          "Bishop Santiago assigns the coterie a mission that serves both Sabbat and Lasombra interests, but they discover hidden agendas that complicate their loyalty.",
+          "He needs the coterie's help to eliminate a rival within the Sabbat who threatens both his position and clan plans, creating a conflict between sect unity and clan ambition.",
+          "Bishop Santiago's true loyalties are exposed, and the coterie must decide whether to support him, expose him, or try to navigate the resulting chaos."
+        ]
+      }
+    ]
+  }
+
+

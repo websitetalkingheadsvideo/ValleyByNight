@@ -42,9 +42,9 @@ I am the colour of audacity, Of rhythmic tribal dance, of tropic love; I am that
 
 -- Louisa Fletcher, Mandarin Red
 
-They're here! -- Poltergeist
+They're heeeere! -- Poltergeist
 
-We bother you, don't we? All you pretty Kindred wrapped up in your pretty politics. All nice and clean and secret and perfectly hidden. Well guess what guys.the stiffs are here, and we're not going away.
+We bother you, don't we? All you pretty Kindred wrapped up in your pretty politics. All nice and clean and secret and perfectly hidden. Well guess what guys...the stiffs are here, and we're not going away.
 
 Face it, guys. Whether you were created last millennium, last century or last week, you're dead. Dead as that cat that you squashed on the highway last week. Dead as the proverbial doornail. Dead as your grandmother you buried when you were six years old. (Or maybe not. Ever wonder why it was a closed coffin? She's really a nice old lady. Hee, hee.) But you try. You still build your ivory towers. Carry on with your business, manipulations and intrigue like it really matters. Like you are still making a difference.
 
@@ -58,7 +58,7 @@ If it weren't for the Nosferatu, you know, we'd probably give up on our kind alt
 
 They're always good for a laugh and an exchange of vital info. These guys give good coin for protection and the right lead. Maybe they like us because when we're around, even they look pretty damn good.
 
-Now those European dudes, the Giovanni. Br, don't like to mess with them much. Seems way back they were playing around with the Necromantic fabric of the universe, or some such crap like that, and somebody screwed up. Wham, bam, there we were, and there ain't nothing the Italianos can do about it now. So they packaged us up, shipped us overseas and now if any of them come across one of us, they pay us really good hush money to keep moving. Suits us fine.
+Now those European dudes, the Giovanni. Brrrr, don't like to mess with them much. Seems way back they were playing around with the Necromantic fabric of the universe, or some such crap like that, and somebody screwed up. Wham, bam, there we were, and there ain't nothing the Italianos can do about it now. So they packaged us up, shipped us overseas and now if any of them come across one of us, they pay us really good hush money to keep moving. Suits us fine.
 
 You know why they do that? Because in their deepest heart of misplaced hearts, they know we really are all alike. You all know. We're all dead. We're all decaying, rotting, returning to the soil, just as the Ultimate Plan intended. And it frightens you. We frighten you. In our kind, you see that which we must all become. Sooner or later, all our times will come. Ashes to ashes, dust to dust, Kindred and Kine alike, we all rot and wither and fade away.
 
@@ -152,7 +152,7 @@ Not all of the North American Samedi can make it to the Rio Candomble every year
 
 * Candomble: Communal dance, used interchangeably as the name of the event, the revels themselves and the location of the revels.
 
-## What the Samedi Think Of.
+## What the Samedi Think Of...
 
 Brujah : They think they're the tough guys, but they're all fight and no sense. Sure, hangin' in a gang decreases the odds of somebody hitting you, but it doesn't leave much space for free thinking. But then, the toughies don't think much at all before acting, do they?
 
@@ -180,7 +180,7 @@ Their appearance offends our proceedings, but their talents afford them some mea
 
 Malkavians : These nutbars know more than they give themselves credit for. If they ever get their act together, we could all be in big trouble. But their inbred neuroses, psychoses and phobias give us more than enough fuel to add to their fire of confusion. When they go off on a tangent, leave 'em there and walk away.
 
-Everybody's beautiful, in their own way.
+Everybody's beautifuuuul, in their own waaaay....
 
 - -- Kyle Scheaffer, Chicago Malkavian
 
@@ -202,7 +202,7 @@ They're an embarrassment that we must eliminate. Every moment they exist is a th
 
 Ravnos : Great sense of humour and useful as informants. Love that ability to create weapons, items, and almost anything else out of thin air. And get this -- they can make you believe it! Treat them with the respect due any good informant. And bring lots of shiny things for trade.
 
-I'd sure like to know how they can hide so much junk on their person. They're as good at it as we are. Then again, maybe I wouldn't like to know.
+I'd sure like to know how they can hide so much junk on their person. They're as good at it as we are. Then again, maybe I wouldn't like to know...
 
 - -- Pietro, Prince of Sofia
 
@@ -218,7 +218,7 @@ They scare the bejeebers out of most Kindred they meet. I say make nice with 'em
 
 - -- Mike "the Snake" Mancuso, Sabbat bishop
 
-Inconnu : Tolerable lot. Keep to themselves for the most part, and I can respect that. Someday I might even try to talk to one, see what they are all about. Someday when I no longer want to exist, that is.
+Inconnu : Tolerable lot. Keep to themselves for the most part, and I can respect that. Someday I might even try to talk to one, see what they are all about. Someday when I no longer want to exist, that is...
 
 My research has not revealed much, but what I have learned frightens me. I fear that they are not just a subspecies of the Nosferatu or Giovanni, but an unwholesome amalgamation of all that is most despicable in the undead.
 
@@ -238,7 +238,7 @@ Abominations. The Sleepers will be safer when they are re-buried, permanently.
 
 - -- Analyst 10010011, New World Order Convention, Technocracy.
 
-Whee! They are so cool!
+Wheeeeee!!!!! They are so cool!!!
 
 - -- X-Ray, Marauder
 
@@ -258,7 +258,7 @@ Their banality rivals only the Dauntain. Their presence is painful to us. They c
 
 Garou : Puppies. Furballs. Hack, hack, choke. Their attitude is almost as ugly as their appearance. They seem to hate our kind even more that your average Kindred. We've lost several of the Bloodline to Garou attacks. Avoid at all costs.
 
-These.Wyrm things should all be destroyed. By claw, fang, Klaive and the Will of Gaia, it shall be done.
+These...Wyrm things should all be destroyed. By claw, fang, Klaive and the Will of Gaia, it shall be done.
 
 - Gunter "Seeks the Prey" Schwager, Get of Fenris Ahroun
 
@@ -296,43 +296,49 @@ Your bones behave like you have advanced Osteoporosis. Add one to your target nu
 
 ## Truly Disgusting
 
-` (1 pt. flaw)
-`
+```
+(1 pt. flaw)
+```
 
 You are so horrible that few can stand being around you at all. Others must make a Willpower roll (diff 6 for Nosferatu, 7 for all others, 9 for Toreador) to remain in your presence.
 
 ## Rotting flesh
 
-` (3 pt. flaw)
-`
+```
+(3 pt. flaw)
+```
 
 Bits and pieces of you fall off easily. This can be a great disadvantage, possibly leaving evidence after combat.
 
 ## Spirit Guide
 
-` (1 pt. merit)
-`
+```
+(1 pt. merit)
+```
 
 A benign spirit has been watching over you since your embrace. You get one extra dice to resist the casting of a curse on you.
 
 ## Wraith Affinity
 
-` (2 pt. merit)
-`
+```
+(2 pt. merit)
+```
 
 Your knowledge of death draws friendly spirits to you. A successful Perception + Occult roll (diff 8) will allow you to communicate with a Wraith for up to one scene.
 
 ## Dislocation
 
-` (1 pt. merit)
-`
+```
+(1 pt. merit)
+```
 
 Because your body is in a state of decay, you can squeeze into hard to get at places. Note: Can't take this merit with the Rotting Flesh flaw. You'd leave too many pieces behind.
 
 ## Removable limbs
 
-` (5 pt. merit)
-`
+```
+(5 pt. merit)
+```
 
 If you spend a point of blood, you can remove an appendage, animate it, and reattach it. ie. you could remove a hand, send it across the room to retrieve something and bring it back to you. The appendage must remain in your line of sight, or you lose it permanently.
 
@@ -344,9 +350,9 @@ You have a working knowledge of spy activity in your homeland And at least one o
 
 * You can find information in a civil service office.
 - ** You have the inside scoop on behind-the-scenes wranglings in the city political scene.
-- * You have an informant of significant position at the Federal level (either in your homeland or another country).
-- * You have a foreign government almost in your pocket.
-- * Bond, James Bond.
+- *** You have an informant of significant position at the Federal level (either in your homeland or another country).
+- **** You have a foreign government almost in your pocket.
+- ***** Bond, James Bond.
 
 Specialities : Wire taps, tailing suspects, making contacts, listening devices.
 
@@ -356,9 +362,9 @@ If anyone needs anything hidden in a hurry, you're the one to do the job.
 
 * You might find it if you tripped over it
 - ** You can camouflage vehicles, or make an effective duck blind
-- * You can hide a cabin from overhead surveillance
-- * You can keep a camp hidden from satellite view
-- * You could hide the New York Philharmonic in a library
+- *** You can hide a cabin from overhead surveillance
+- **** You can keep a camp hidden from satellite view
+- ***** You could hide the New York Philharmonic in a library
 
 Specialities : Jungle, Arctic, desert, ocean, vehicles, entrances
 
@@ -370,9 +376,9 @@ This is just the knowledge, not the powers.
 
 * You recognise some symbols.
 - ** Novice. You can perform a reasonable Tarot card reading.
-- * You know much of the ins and outs of Umbanda and Quimbanda.
-- * You have full understanding of the causes and effects of Voudoun.
-- * You know exactly what type of voodoo is being practised, and who to send the victim of a
+- *** You know much of the ins and outs of Umbanda and Quimbanda.
+- **** You have full understanding of the causes and effects of Voudoun.
+- ***** You know exactly what type of voodoo is being practised, and who to send the victim of a
 
 curse to for answers.
 
@@ -384,9 +390,9 @@ You never take any deal at face value. Half the fun of getting something is whee
 
 * You'll try one or two counter offers.
 - ** You'll play along as long as your customer isn't too shrewd.
-- * You rarely get the poorer part of a deal. Your information sells at good rates.
-- * You'd put an auctioneer to shame.
-- * A farmer would buy his own manure back from you at $50 a pound.
+- *** You rarely get the poorer part of a deal. Your information sells at good rates.
+- **** You'd put an auctioneer to shame.
+- ***** A farmer would buy his own manure back from you at $50 a pound.
 
 Specialities : Auctioneering, stock trading, fast talk, evaluation
 
@@ -396,9 +402,9 @@ You have a talent for knowing the value of things. This could be anything from a
 
 * You're still learning the art. You can give ballpark figures for evaluations.
 - ** You can pick out glass from real precious stones. Your margin of error on evaluations is 20%.
-- * You can tell the real thing from a fake on close examination. Your margin for error on evaluations is 15%
-- * You can pick out a fake at a glance. Your margin for error is 5-10%
-- * You can spot a DaVinci in a garage sale. You almost never err on at item's value.
+- *** You can tell the real thing from a fake on close examination. Your margin for error on evaluations is 15%
+- **** You can pick out a fake at a glance. Your margin for error is 5-10%
+- ***** You can spot a DaVinci in a garage sale. You almost never err on at item's value.
 
 Specialities : estate jewelry, antique furniture, art, comic books, stamps.
 
@@ -408,9 +414,9 @@ Any assassin is only as good as his arsenal. Yours includes all manner of fast a
 
 * You can administer arsenic in tea.
 - ** You can make curare blow darts.
-- * You understand how to make and use contact poisons.
-- * You can make and use poisons that will target certain types ie. only Garou, only women.
-- * You can make poisons that will kill a Kindred in minutes.
+- *** You understand how to make and use contact poisons.
+- **** You can make and use poisons that will target certain types ie. only Garou, only women.
+- ***** You can make poisons that will kill a Kindred in minutes.
 
 Specialities : curare, arsenic, airborne poisons, poisonous plant identification.
 
@@ -450,7 +456,7 @@ Marcus Cole, Baton Rouge Chantry
 
 ## Quote
 
-"We're back!
+"We're baaaack!
 
 -- Gremlins II, The New Batch
 
@@ -658,7 +664,7 @@ Equipment : Shotgun, axe, hunting knife, raft, camping gear, canoe, flashlight.
 
 ## Candomble Novice
 
-Quote : You have been put under a curse. I can ask Xango to reverse it and open your paths.for a price.
+Quote : You have been put under a curse. I can ask Xango to reverse it and open your paths...for a price.
 
 Prelude : You thought you had it made. A slick little fortune telling operation in the French Quarter kept you fed and clothed. Fleecing the tourists was almost criminal, but it was so much fun.
 
@@ -684,7 +690,7 @@ Equipment : New blue dress, different coloured candles, ribbons, bottle of hard 
 
 ## Crazy Cat Lady
 
-Quote : Here kitty, kitty.
+Quote : Here kitty, kitty...
 
 Prelude : Ever since you can remember, you've been around cats. The first picture ever taken of you still hangs in your living room. There you are, three years old, dressed in a pretty pink smock, smiling and holding a tiny black Persian kitten.
 
@@ -738,7 +744,7 @@ He has to live in the hospital, you thought, because you never saw him leave the
 
 Funny thing, too, he never seemed to go anywhere without his OR mask. Actually, he never seemed to go anywhere but Emergency and the OR. Wonder what he looks like?
 
-You found out about three months later. It had been a particularly hard night, with several car accidents, a house fire and even a shooting. You were burned out, tired and frustrated. Surely there had to be something better.
+You found out about three months later. It had been a particularly hard night, with several car accidents, a house fire and even a shooting. You were burned out, tired and frustrated. Surely there had to be something better...
 
 That's when your mysterious surgeon made his move. After your embrace, he taught you the specialities only a Samite can bring to the medical profession. Your life has new meaning now, and you can help people in new ways -- whether they need it or not.
 
@@ -760,7 +766,7 @@ Before too long, you outgrew your reputation. You began hearing about really wei
 
 You followed a tip and ended up deep below the subway lines in a little used series of storm drains. The smell was unbearable. Worse than the usual New York filth. Something really big must have died here. Or maybe two or three somethings. Suddenly there was a movement in the shadows. Your feet were frozen in place, as an animated horror shuffled into view. Your embrace was swift and painful.
 
-Concept : You now roam the sewers and streets in the New York night, along with the rest of the Samedi gang created by your progenitor. He looks after you much like Fagin treated the boys in Oliver Twist. Who knows, maybe he was around at that time. Now you trade information for blood, safe havens and hunting rights. You run with the three or four other kids in your gang. After about 25 or 30 years, you figure that you will be pretty damn good at what you're doing. Maybe then you can strike out on your own, embrace a few more brats and expand into other cities. The bigger the network, the better the hold you can have on the Kindred who think they run things. The Embrace has given you opportunities and abilities you could only dream about before, but has it been worth the price? Only time will tell.
+Concept : You now roam the sewers and streets in the New York night, along with the rest of the Samedi gang created by your progenitor. He looks after you much like Fagin treated the boys in Oliver Twist. Who knows, maybe he was around at that time. Now you trade information for blood, safe havens and hunting rights. You run with the three or four other kids in your gang. After about 25 or 30 years, you figure that you will be pretty damn good at what you're doing. Maybe then you can strike out on your own, embrace a few more brats and expand into other cities. The bigger the network, the better the hold you can have on the Kindred who think they run things. The Embrace has given you opportunities and abilities you could only dream about before, but has it been worth the price? Only time will tell...
 
 Roleplaying Tips : You are sharp and shrewd, and know the value of a juicy tip. You are also the consummate little boy brat. You carry worms, snakes, caterpillars and other critters (some of them ghouls) in flesh pockets all over your body. Nobody tells you what to do -- except for your mentor. He's the father-figure you never had, and all you've got, so you might as well try to get along with him and the other brats in the Samedi gang.
 
@@ -888,6 +894,6 @@ Table-rapping is a tool Isaltina loves to delight clients with. It works like th
 
 * You can make a ladyfinger
 - ** You can set off dynamite using an electric fuse
-- * You can make plastique bombs with timers
-- * You can make a bomb that very few experts can find or defuse.
-- * You chatted with the scientists at the Trinity Site about this atomic thing.
+- *** You can make plastique bombs with timers
+- **** You can make a bomb that very few experts can find or defuse.
+- ***** You chatted with the scientists at the Trinity Site about this atomic thing.

@@ -1,10 +1,12 @@
-# CLANBOOK: CAPPADOCIAN
+CLANBOOK: CAPPADOCIAN
 
 A SOURCEBOOK FOR VAMPIRE: THE DARK AGES TMI
 
 CLANBOOK: CAPPADOCIAN
 
 &lt;unknown&gt;
+
+<!-- image -->
 
 BY IUSTIN ACHILLI
 
@@ -26,13 +28,17 @@ Front&amp;BackCoverDesign:Scott Cohen
 
 ## 780 PARK NORTH BLVD. SUITE 100 CLARKSTON, GA 30021 USA
 
+<!-- image -->
+
 1997WhiteWolf Publishing,Inc.All rights reserved. Reproductionwithout thewritten permission of the publisherisexpresslyforbidden,exceptforthepurposes ofreviews,andblankcharactersheets,whichmaybe reproducedforpersonaluseonly.WhiteWolfVampire theMasquerade andMagetheAscension areregistered trademarks ofWhiteWolf Publishing,Inc.All rights reserved.Vampire theDarkAges,Wraith theblivion, Dark Ages Companion,and Clanbook Cappadocian are trademarksofWhiteWolfPublishing,Inc.All rights reserved.llcharactersnames,lacesandtexthrn are copyrighted byWhite Wolf Publishing,Inc. The mention oforreferenceto any company orproduct in thesepages isnota challengeto the trademark or copyright concerned.
 
 CheckoutWhiteWolf online at
 
 Thisbook uses the supernatural forettings,characters andthemes.All mystical and supernaturalelements are fiction and intended for entertainment purposes only. Reader discretion is advised.
 
-http://w.white-wolf.com; alt.games.whitewolf and rec.games.frp.storyteller PRINTEDINUSA.
+http://www.white-wolf.com; alt.games.whitewolf and rec.games.frp.storyteller PRINTEDINUSA.
+
+<!-- image -->
 
 R
 
@@ -44,20 +50,22 @@ Richard"OneFluid Motion"Dansky,for a bold but vain attempt atgettingsomeof thevo
 
 Greg"ClanLighters!"Fountain,fortheidea thatwould not die.I get the fashion line if you get the lighters, Greg.
 
-Joshua"Queen of the Damned"Timbrook,for trump ingmy GenConriot grl lookwith sheer sex appeal.
+Joshua"Queen of the Damned"Timbrook,for trump ingmy GenConriot grrrl lookwith sheer sex appeal.
 
 Andrew"Score"Bates,forunabashed birthdaylechery. Fred"RampantSodomiteYelk,forhis plansregarding Steve in the chess game.
 
 ## CLANBOOK: CAPPADOCIAN
 
+<!-- image -->
+
 ## TABLEOFC CONTENTS
 
-# | CHAPTERONE:THEREVELATIONTOTHE CHLDE          |   7 |
-|----------------|-|
-# | CHAPTERTWO:DEATHAMONGTHEDEAD                 |  11 |
-# | CHAPTER THREE: OBSERVATIONS AND CONCLUSIONSG |  25 |
-# | CHAPTERFOUR:LEGIO                            |  43 |
-# | APPENDIX:NOTEWORTHKSEEKERS                   |  61 |
+| CHAPTERONE:THEREVELATIONTOTHE CHLDE          |   7 |
+|----------------------------------------------|-----|
+| CHAPTERTWO:DEATHAMONGTHEDEAD                 |  11 |
+| CHAPTER THREE: OBSERVATIONS AND CONCLUSIONSG |  25 |
+| CHAPTERFOUR:LEGIO                            |  43 |
+| APPENDIX:NOTEWORTHKSEEKERS                   |  61 |
 | APPENDIXII:OFHISTORICAENOTE YSNINN IDEI      |  63 |
 
 CONTENTS
@@ -88,6 +96,8 @@ Sormething lan on topof me Jt voas light andleathery.and pery'drnGbagof sticks, 
 
 J woas buriedalive.
 
+<!-- image -->
+
 My eyes grew wide,but did me no good in the utter absenceoflight.Icurleduptoone side ofmyunforgiving tomb,shovingthebrittlebodyasfarawayaspossible.Ifeltthe oldbones and leatheryskinbreakas Ipushed andkicked.Only a shatteredheapremainedof theonce-humanbody,aheap whichI fearedmight bemy eternal companion.
 
 Ihowledinterror andacoldsweatrose onmybrow, carryingwithitapungentsmell thatunnervedmeandexcited me at the same time.It smelled of blood.Good Lord,I was bleeding!Then Inoticed a curious and horrifying fact:My heartwasnotbeating.Tears streameddownmyface,heighteningthecarnal scent.Was Ireallycryingand sweatingblood? WasI dead?
@@ -116,6 +126,8 @@ Experimentingwiththisnewfoundpower,Irealized that I could turn it off as well.Le
 
 Itwasright,thisdisembodiedvoiceoutsidemycold crypt.recalled thatIdidnotbreathe,myeartdidt pound andmy bloodwelled outwheremy other humors had before.
 
+<!-- image -->
+
 in my fear,Ifollowed thevoice's instructions.I breathed out byforceof habit,noting thatIhadnotbeenbreathingatall until then.esolving to attend to that later,I devoted all my attention to listening.
 
 Thevoicefelt likeit livedinsidemyownmind, yet it spokeasifitcamefrom someone else.Reining
@@ -128,13 +140,15 @@ I did asIwas told.Myfingers sensed every aspectof the coldstonearoundme,ickingou
 
 CLANBOOK:CAPPADOCIAN
 
-AsI thoughtofblood,I felt a hunger growfrom deep within me.In moments,I was ravenous,thankful that I was shielded fromthisperson's sight asI licked atmyownbloodied hands.I even stuck outmy tongue to catch the trickle of precious fluid that ran frommyeyes and downmy brow.I was drinkingblood!Somehow,Ihadbecomeamonster!Yet,in this hunger,my monstrousness hadno import.I desired only tofeed;thisrapacious craving for blood had overtaken all my faculties.Ienvisionedmy unknown mentorjust outside this sepulcher,practicallyfeelingthewarmredblood thatsurely coursed in his veins.
+AsI thoughtofblood,I felt a hunger growfrom deep within me.In moments,I was ravenous,thankful that I was shielded fromthisperson's sight asI licked atmyownbloodied hands.I even stuck outmy tongue to catch the trickle of precious fluid that ran frommyeyes and downmy brow.I was drinkingblood!Somehow,Ihadbecomeamonster!Yet,in this hunger,my monstrousness hadno import.I desired only tofeed;thisrapacious craving for blood had overtaken all my faculties.Ienvisionedmy unknown mentorjust outside this sepulcher,practicallyfeelingthewarmredblood thatsurely coursed in his veins...
 
 He spoke his next words as if he were smiling, or soit sounded:
 
 "Wait!" I called out, hearing him preparing to exit."At least takethiscorpseoutofhere!Andletmeopenyourthroat and gulp down your blood,I thought to myself.
 
 "No,I'll leave him with you.Maybe he can answer some of your questions."
+
+<!-- image -->
 
 THEREVELATIONTOTHECHILDE
 
@@ -161,6 +175,8 @@ CappadociusandCaiasthensiredprogenytohelpthem with their studies,includingJaphet
 Itwasat thistime that Cappadociusfirstexperienced his precognitive visions.Ourfounder sawhimself surrounded by a host ofhis childerwho mourned the loss of something unknown.Sharinghis dreamwithCaias,Cappadocius and his childeundertook this newmystery with a passion that rivaled that of their quest for the answer to death'sconundrum.
 
 None provided him with the answers he needed.
+
+<!-- image -->
 
 ## OF THEPROGENITOR
 
@@ -204,6 +220,12 @@ Rejuvenated in spirit with his newfound focus, Cappadociussentwordtoall of hisch
 
 When the Cappadocians assembled,the founder told them that thenew direction of thesearchrequired thatthey beclosertoGod.Thefirst stepinresolvingtheriddleinvolved physical proximity to the heavens.
 
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
 Cappadocians have never been known for martialry. Thus itwas strange on a night over 1200years agowhen a processionofGraverobbermonksclimbed to thetopof Mount Erciyesin the center ofCappadocia.Stories about thatnight found theirwaybackthrough the extensive channels of the Cainites. Ghouls awoke to find that their hospitable Cappadocian hostshadvanished.Easternprincesheardtellof avast army ofpallidvampiresmoving through their cities. Traveling merchants,who would have fallen beneath the fangs of less focused groups of Cainites,watched the grim processionfrom thecover of trees.Otheritinerants lookedon as the silentlegion trod ever onward.
 
 No heresies had taken place in the temple;the former occupants had no truck with demons and had led ascetic lives. The single vampire there,a Malkavian known only asAlgol, metFinal Death after accusations of existing as an Osiris, feeding from the monks under theguise of a prophet.In one night,theswayofthetemplewasforeverchangedanddevoted toanewlearning.
@@ -216,6 +238,8 @@ After establishing their new home, the assembled Cappadociansproclaimedthattheyw
 
 The temple had changed overnight.The Cappadocians hadworkedtirelessly,rebuildingthemonastery to suit them, tearing down old walls and erectingnew ones.They had excavatedgreatundergroundchambers andbuiltlibrariesand mausoleums above them.In onlya fewmonths time,the renovation ofthe temple was complete.Since then,the templehashadahundrednames,allofthem entreatiesof enlightenment and the revelation of secrets.To those who knewtheCappadocians,thetemplewasreputed tobeaplace wheredeathitselfwasthesole subjectof study.Whilethevast majority of theCappadocian clan seeks theirendeavors else where,allCappadocianscould attend thetempleatanytime toreport, study or simply rest.
 
+<!-- image -->
+
 ## THE RISE OF CHRISTIANITY
 
 Not long after the capture of the Erciyes temple,Christianity began tospreadthroughout theWesternworld.The Cappadocians openly embraced Christianity,aswe embrace anyfaithwhichmight aid our probe into thenature of the spirit.The lands of Cappadocia became realms of protection forpersecutedChristians,who,thoughthereligionwasonthe rise,stilfacedantagonismwoCappadocianities,Derinkuyu andKaymakli,cutinto the ground itself,harbored many Christians during the earliest nights of intolerance.
@@ -226,13 +250,15 @@ Himself following theteachingsof Christ,Cappadocius tookrefugewithseveral of his
 
 At thistime,Cappadociusrealized thathisprogenyneed not devote themselvesutterly to unraveling the riddle.Following a philosophy espoused by the father of history, Herodotus,theleaderinstructed thosewithwhomhespoketo "inall things,bemoderate."Cappadocians thusfollowed their founder's advice,and tempered theirquestwith studies in other realms of expertise.This period saw an increase in Cappadocianlibrarians,philosophers,theosophists,cartogra phers,linguists andscholars of numerousotherilk.Some early nonconformists even bestowed the Embrace on travelers, warriors and civil servants.Thereasoning behind this,they explained,was tokeep the clan from stagnation.Formillennia,theclan hadpursued false leads.Increasedcontactwith broader ranges of peoplehelped tobringnewviews to light. Studiesofthedeadcontinuedunabated,whiletheranksofthe Cappadocian clan admitted unprecedentedquantitiesof new members.
 
+<!-- image -->
+
 ## CAPPADOCIUS THE CHRISTIAN
 
 Though Cainites trace their origins back through Biblical histories and documents,a strikingminority of the Ancients are actually Christian themselves.Most of them acknowledge the Christian God,but place themselvesithroutsidereligionoraboveitelievingfait be a contrivance of mortal men.This creates an interestingrelationshipbetweenvampires and theworld:Dothey aspire to Heaven, or do they revel in their damnation? How does their agnosticism explain their origin from Caine,whokilled his brother Abel as an offering to God?
 
 Cappadocius does not suffer these doubts. Even duringhisortallifhefounderwasariest,andquitawar of theworkingsofGodabove,thoughhewasnotChristian at the time.(The nights when Enoch stood long pre-date the emergenceof thefaith.)Whatmattersis Cappadocius totalconversiontothefaith,theproductofamiracle sent directly from GodGQ
 
-He lay down ona cone of volcanic rock and closed his eyes. Using his mastery of the Protean Discipline, Cappadocius sank into the earth.He remained there for untoldnightssomesayforasmanyas3years.achnigh he awoke,moreble than thenightbefore,butrefused torise andreturn tohis emptypursuit.
+He lay down ona cone of volcanic rock and closed his eyes. Using his mastery of the Protean Discipline, Cappadocius sank into the earth.He remained there for untoldnightssomesayforasmanyas3years.achnigh he awoke,moreeeble than thenightbefore,butrefused torise andreturn tohis emptypursuit.
 
 While traveling through the lands he called home, Cappadocius found himselfcommitting the sin of despair. For hundredsofyears hehadsearched forsome newinsight into themysteryof death.hose searches proved fruitless, and the weight of his quest bore grearly on his shoulders. One night, he decided to give up.
 
@@ -245,6 +271,8 @@ Finally,afte unknownyearshad passed,e sawa visionofanangel.Itseemedthathewouldre
 "God wills you succeed; pray do not disappoint him." With that,the angel ascended back into Heaven.
 
 Cappadociuburstfromhroundcastingnaray ofbrokenrockinalldirections.Slaking therestof hisfiery thirst ona passingArabcaravan,Cappadociuswalkedthe Earthagain.From thatpoint onward,he embraced the Christian faith,knowing that God had chosen him for greatness.
+
+<!-- image -->
 
 ## DREAD EGYPT
 
@@ -264,6 +292,8 @@ Itcame topass that the habitsof Cappadocius began to trouble the people of Derin
 
 CLANBOOK:CAPPADOCIAN
 
+<!-- image -->
+
 Eventually,thepeoplecouldbearnomore.Theyhadseen enough of the cadaverousvampires,skulking silently inthe catacombs.They had borne too long the unpleasant and unholyrites thatthese strange yetbenevolentmonsters practiced.They hadgiven enough of theirblood to sustain the disturbingpresenceof these parasiteswho probedever deeper intomysteries thatmen of faith should not learn.
 
 Cappadocius spoke with the people,finding that the growing ranksofhisbrood sorelytaxed theresourcesprovided by these mortals;they grew anemic due tomass feedings and sicklyduetoconstantexposuretotheunpreservedcorpses underinspection.
@@ -274,13 +304,15 @@ None other than Cappadocius himself could have prepared for the assembly.A presc
 
 ## THEFEAST OFFOLLY
 
-The underground hallways and chambers ofKaymakli couldaccommodateupto15,0citizens.Onthenightofthe convocation,12o0vampiresofourclanattended.ewere aghast. How could a group known as the Clan of Death have such fertilevitae?How couldwe possess suchprodigious numbers?
+The underground hallways and chambers ofKaymakli couldaccommodateupto15,000citizens.Onthenightofthe convocation,12o0vampiresofourclanattended.ewere aghast. How could a group known as the Clan of Death have such fertilevitae?How couldwe possess suchprodigious numbers?
 
 In an absurd andmotleycongregation,theCappadocians displaced the citizens ofKaymakli,forcing them from their homes fornights on endwhile the convocation progressed. Innocuously,and with the help of Caias and Japheth, Cappadocius subtly culled the ranks of his clan.
 
 "Who among you hasnothelped build or plan achurch or temple?asked thefounder,directingthosewhoresponded to followCaias deeper into the city.
 
 followViaCaeli?Whohas not begun the searchforanswers to the great riddle? Slowly but inevitably,the ranks of the
+
+<!-- image -->
 
 CHAPTERTWO:DEATHAMONGTHEDEAD
 
@@ -330,6 +362,8 @@ Cappadocius and his closest childer devoted themselves to obtaining divinity.Ove
 
 Thesefragmentsof forgotten loreinspirednewhope in Cappadocius.Asheinterpreted themanuscripts,ifheattained Golcondaanddiablerized God,hecouldbecomeGod.Even while hewas in torpor,the founder dreamed of a world of
 
+<!-- image -->
+
 Paradiseandofhowhewould attaint.Inhismind,theriddle once againhadbeen answered,butthequestionremained elusive.TheanswerwasthatbybringingHeaventoEarth,life and deathwouldbeone,infiniteandunending.Thequestion, though, was how?
 
 ## CAPPADOCIAN INFLUENCEIN EUROPE
@@ -360,6 +394,8 @@ As our spirits cried outfor the answers toeternal questions,morethanafewofourmem
 
 Attaining the high rankswithin theChurch has always beendifficultforus,givenourpalecomplexionsandnocturnal natureRegardlessweinsinuatedourselvesintoeverybishp-
 
+<!-- image -->
+
 ricof theHolySee,from theCatholicreachesofEngland to the Orthodox holdings ofEasternHungary.In an agewhen the clergy hadonlybegun to taste theindulgence that its positionaffrdsitdayuecularitieswrenthemal scalethatweeptthem,orgiven.Hereoumemberswathd and learned from every nuance of thevicarage.As abbotswe led entire monasteries in search of truth.As bishops we fortified theworks of our allies.As humble priestsweled the midnight masses and vigils from compline to matins. Cappadocian nuns andbrothers healed the sick among mortals,ever observing the entropy and decay evident in the lowest serfand thehighest-born prince.Wedelivered the last rites tohumans and Cainites alike as they sankinto the earth when the lastlife or unlifelefttheirbodies.
 
 ## HND THEMATTERS OFSTATE
@@ -367,6 +403,8 @@ ricof theHolySee,from theCatholicreachesofEngland to the Orthodox holdings ofEas
 Thoughveryfewof us hail fromnoblefamilieswestill influence matters of state toa great degree.Ourknowledgeis sovastthatourcounselisfrequentlysoughtbyCainiteleaders, and even by mortalauthorities whoknow individuals by reputation.Many haveremarked that we are not worth the troubletokill,thoughthisinsultindicates thatprospective killerswould haveus advise them instead of their foes.
 
 We work at the fringes of the demesne of
+
+<!-- image -->
 
 politics.Many are the Cainites who,proclaimingtheir temporaltitle,have run afoulofmortal displeasure andgreetedthe
 
@@ -389,6 +427,8 @@ In thelate1lth century,a Cappadocianknown as FatherEustace assumedresponsibility
 AsEustace involved himself more andmore in the lives of his flock,they grewto love him evenmore.He radiated an aura of calmandpiery.Thosewhoattendedhis midnight massesmarkedhis pallor as a strange sort of stigmata that signified his closeness to God.Even his confessions,held in sacred privacy for those fortunate enoughtohaveEustace'sear,nducednear-raptureinthe confessors.
 
 Inthe end,Eustace'spopularity proved hisundoing. Atthebeginning of a particularlypromisingharvest,the priest's adoring flock gathered at his church.Convinced thatthebenevolenceofGodstemmedfromthismostpious servant,a crowd ofpeasantsgathered atthedoorsand demanded tosee thegood father.Unswayedby thebrotherswarnings thatthefathercouldnotbedisturbed byday, the throng surged into Eustace's quarters, taking up the sleepingpriest andmarching ina gay procession into the street,cheeringall thewhile.Ofcourse,nosoonerdidthe crowdexpose theslumbering priesttothesunthan heburst intoflame,consumedwithinmomentsbythetouchofits unforgivingrays.To thisnight,FatherEustace is rememberedin thetown andrevered as a saint,taken back to God'sbosombytheignorance of theunruly crowd.The Lord giveth and the Lord taketh away.
+
+<!-- image -->
 
 ?
 
@@ -432,6 +472,8 @@ WhilesptCappadociushadthethirdandmostvivid ofhispremonitions.Hesawhimselfconsume
 
 CappadociusdepartedimmediatelyforRome,forsaking the temple andits stalebooksforthedocuments thatwould surely reaffirm his quest for Godhead.His contacts in the
 
+<!-- image -->
+
 Church allowedhim access to thesecretvaults beneath the Pope's own chambers.There, amid the forbidden books on satanicpracticesandTantricmagicand thefoundations ofall theworld'sheresieslaythebooksthatwouldpaveCappadocius wayintoHeavenand themindof God.Helaboredwiththe passion and fever of a man whomust escape his own destiny. At thispoint,allof hispastendeavorsweremeaningless,and heknewthatifhedidnotsucceed,hisfailurewoulddamnthe entireworld.
 
 Relaying the vision to Japheth through dreams, Cappadociusknewhisfatewas sealed.Thoughhehadnoidea when,whereoratwhosehandsthisterriblefatewouldcome, Cappadocius knewthat to ascend to the Godhead,hemust workquicklyThevisionmpartedsuchadiresenseofurgency, he toldJapheth,thathe feared it was already toolate to complete his quest.Nevertheless he must try.
@@ -451,6 +493,10 @@ To thoseCappadocianswhohave notbeen ableto attend gatherings atErciyes,timeisani
 ItisunknownwhethertheInfitiores are awareof theclan's impending damnation.Certainly somefew are,but thevast majority,duetotheirdisassociationfromtherestofusave noidea.Only timewill tell if their disavowmentwill prove to be their undoing or their salvation.
 
 Asamatterofcourse,modernCappadociansrefrainfrom speaking of theclan's inevitabledoom around other Cainites. Whileitmaybepossibletorallysupportfromamiablydisposed clans,rtootut theraitornurmidst,wemainilnt. In these nights when the destruction of Saulot is so easily forgotten,wedonotwishtotipthescalesinfavorofanywho opposeusAt theendof hisvision,Cappadocius sawhis sou ascend intoHeaven.If it is God'swill,wewilljoinhim on the journey.
+
+<!-- image -->
+
+<!-- image -->
 
 ## hapter "Tfree: bseruntions ans suojonjuo
 
@@ -473,6 +519,8 @@ Some recentlyEmbracedvampires prove toofragilefor thispractice and have to be ex
 A fewCappadocian siresleavetheirchilderin this state longerthanonenight.Particularlycruel Cainitesleavetheir childerimprisoneduntil theyescapebytheirownmeans.This horribleritualmayhaveinspiredtheCreationRitesof the Sabbat,whichwill come totheforein latercenturies.Though notexpresslyprohibited,thisextendedentombmentisfrowned uponby most Cappadocians,as theybelieve it excessive.
 
 WhenaCappadocianseeks toEmbrace,she pays particu larattentiontotheletterandspiritoftheThirdTradition.She petitionsbothhersire andherlocalprinceorvampiricliegefor permission.The former is consulted in remembrance of the Feast of Folly and for a blessing.The latter she asks to demonstrate her courtesy andresponsibility.The sire of the
+
+<!-- image -->
 
 CLANBOOK:CAPPADOCIAN
 
@@ -504,9 +552,13 @@ Cappadocians have neverbeen well-organized.Instead, they are rugged individualis
 
 This is not to say that the clan lacks focus.Once a year, each Cappadocian who is able makes the journey to Erciyes, where theclandiscusses itsfindings and policies.It ishere that new developments inMortis aredemonstrated,new clues to the eternalquestion areshared andother political endeavors are resolved.Many Cappadocians take advantageofvisiting Erciyes,studyinginitsvast library (whichcontains themost completeversionoftheBookofNodcurrentlyavailable,aswell
 
+<!-- image -->
+
 M
 
 B
+
+<!-- image -->
 
 CLANBOOK:CAPPADOCIAN
 
@@ -546,6 +598,8 @@ It bearsmention that many Giovanni donot share Augustuslustforpower,wishinginste
 
 TheLamia exist outsidethetypicalsocialstructureof the clan,thoughtheyareactuallyaCappadocian-basedbloodline as opposed to a political faction.The mysteries of Lilith intrigue this strange and solitary group(they were a cult devotedtoTheWomanWhoCameBeforeEvewhenLazarus Embraced theirpriestess),thoughmembers share apenchant fordeathwith theirCappadocianforebears.TheLamiadiffer most fromtheCappadociansintheir approachtothequestion ofdeath:WhereCappadociansprefer tostudyandinterpret
 
+<!-- image -->
+
 CHAPTERTHREE:OBSERVATIONS &amp;CONCLUSIONS
 
 the eternal question,Lamia choose toview theeventfirsthand.Lamia arealsoknown fortheirphysical prowess,often appearingasgrimpaladins,resplendentin armor thatdates backto theearliest Crusades orbefore.Theirloyalty toeach other and toClanCappadocian isunfaltering.More information on the Lamia is presented in the DarkAges Companion.
@@ -566,6 +620,10 @@ There is a shadowy subset ofTrancendentals that is ascribed membership in the Ma
 
 CLANBOOK:CAPPADOCIAN
 
+<!-- image -->
+
+<!-- image -->
+
 ## MAGIC AND THE CLAN OF DEATH
 
 Cappadocianshavelongbeen interested inthemagic arts as ameans tosatisfy theirthirst forknowledge.Somemembers of theclan profess having belonged tomagical orders during theirmortal livesbutclaimtheEmbracedullsthecapacityfor wielding these forces (or so it seems).As it stands,no Cappadocians, other than the most ancient, are able to manipulatemorethanthesimplest hexesormostrudimentary forms of alchemy.
@@ -577,6 +635,8 @@ The Cappadocianshaveno unified opposition to the Tremere because of thevast pote
 Of course,this disputemay bemeaningless in the long run.TheTremerearenotoriously stingywith their newfound secrets.Rumors abound,though,ofrogueTzimiscewho coax theirbloodmagicfrom them.
 
 CHAPTERTHREE:OBSERVATIONS &amp;CONCLUSIONS
+
+<!-- image -->
 
 CLANBOOK:CAPPADOCIAN
 
@@ -604,7 +664,11 @@ Oneof thereasonsthattheCappadocianpositiononthe Tremere remains undecided(beyond
 
 Most of themore ancient Cappadocianscannotbefound, much less offer a vocal opinions,but both Japheth and Cappadociushimself speakinfavor of the necromancers.The resentment exhibitedbyyoungCappadocians,thesetwosay, ismerelyaweaknessintheirbeings,andcanonlyhampertheir studiesif left unchecked.They point torecent inroadswith the burgeoning Discipline ofNecromancy as a portentous event,thoughJapheth's enthusiasm is grudging atbest.
 
+<!-- image -->
+
 CHAPTERTHREE:OBSERVATIONS &amp;CONCLUSIONS
+
+<!-- image -->
 
 ThevastmajorityofCappadocians,however,simply notcare,believingthatoneasancientasthefounderismore thanentitledtohiseccentricities.Ifsomethingfruitful comes of thenecromancersEmbrace,the clan is all the better for it. Ifnot,theVenetiansarehardlyanylessdisposablethantheir brethrenwholie entombed beneathKaymakli.
 
@@ -622,6 +686,8 @@ Cappadocians inthemonasticclergy usuallycreateghouls onlyfromtheirimmediatepeers
 
 Those Graverobbers who oversee monasteries,however, often have numerous ghouls at their beck and call.These ghouls are much more traditional in their functions, taking careof littlethings thattheirmastercannotbebotheredwith, or simply doesnotwishtoperform.Cappadocian abbots have beenknowntoghoul theirmonasteries entirely,givingtheir
 
+<!-- image -->
+
 blood to themonks during Communion bymixingit intothe wine.Thispracticeis lookeddownuponby mostCappadocians. Not only is it highly vulgar and nigh-blasphemous,but an entiremonasteryfulloflaybrothersdrivenbyablinddevotion to their abbot is abit obvious.Practitioners of thismethod of ghoul-making are dangerously close to the Cainite heresyin the eyes of their peers.
 
 Cappadocian priestsin charge ofchurchesoften take ghouls to ensure theupkeep of the church anditsproperties and to take care of its daytime affairs.Again, some priests ghoul theirentireflocksby themethoddescribedabove,but such doings are significantly more rare.After all, erratic behavior ismuchmore easily noticed among townsfolk than among the cloistered residents of a monastery.Typically,a priestwilldrawonlytwoorthreeghoulsntoserviceprovidd thathis diocese is large enough to sustain themwithout scrutiny.
@@ -635,6 +701,8 @@ Generallyspeaking,theclaninitiatesghoulswhowillbe useful in a variety ofways.The
 Ghouls are usually assigned themost unsavory duties that arenonetheless important to the Cappadocian's comfort.In thisrespect,they arelike every otherghoul in anyvampire's employ.Where they differ,though,isinthenatureof their duties.Where aVentrueor Lasombraghoul maybe assigned towatch overhermaster's sepulcher,a Cappadocianghoul mayberequired todigupfreshlydeadbodiesforhermaster's experiments.For the truly unpleasant Cappadocianmaster,a
 
 CHAPTERTHREE:OBSERVATIONS &amp;CONCLUSIONS
+
+<!-- image -->
 
 ghoul mayhave tobringinbodiesnotyetdead.Shemayhave thehonorofpreservingpartsofthebodieforlaterstudyorf feeding the"test subjects" in their hidden cells.
 
@@ -655,6 +723,10 @@ Numerous Cappadocian ancillae,unable to attain sufficientknowledgeofMortisduetot
 Cappadocianswithoutmasteryof thesixthlevelofMortis may still create ombu,but the practice requires a bit of preparation and knowledge of other arcane arts.The ritual must alsobelearnedfrom onewhoknowsitorfromwritten texts;itisnotinherent knowledge.The product of thisritual isa thumbnail-sized translucent"gem"formed from theblood ofthevampire.Knownasabloodpearl,suchagemcanbeused toroughly emulate the animation of azombu.
 
 CLANBOOK:CAPPADOCIAN
+
+<!-- image -->
+
+<!-- image -->
 
 Creating abloodpearlrequires eighthours and three BloodPoints.It alsodemands at least eight levelsof mastery between the Disciplines of Mortis,Necromancy and Thaumaturgy,with no fewer than two levels in each. The BloodPointsmustcomefromtheCappadocianwhowishesto createthepearl,or theritualwill notwork.Theplayermust thenmake an Intelligence+Occultroll,with the difficulty equal to thenumber of hours forwhich thezombu willremain animate.Unfortunately,thepracticeandeffectofmakinga blood pearl are imprecise,and the creator cannot know whether ornot herritual has succeededuntil she attempts to use the pearl.
 
@@ -694,7 +766,7 @@ Strangely enough,themajority of these Cainitesdonot revelintheirmonstrousimmorta
 
 ## RAVNOS
 
-Tobe given the gift of timelessness and squander it by making peasants seevisions of theVirgin?Thelesaid about these jackals,the better.
+Tobe given the gift of timelessness and squander it by making peasants seevisions of theVirgin?Thelesssaid about these jackals,the better.
 
 ## TOREADOR
 
@@ -707,6 +779,8 @@ Untrustworthy,vile and reckless,theUsurpers are the mostlikelycandidatesforbring
 ## TZIMISCE
 
 A clanof atavisms,theTzimisce arenonethelessborn to rulein their hostilerealms.Certainmembers of thispeculiar bloodlinemaintainCappadocian advisors,althoughmost do not.Thisclan embodiesboth thebest andworst aspects of the Embrace.Tzimisce make marvelous cases for study,though onewouldbewise toremain at a safedistancefrom such a subject.
+
+<!-- image -->
 
 ## VENTRUE
 
@@ -723,6 +797,8 @@ A capricious ot,moreeast thanman,eventhoughhi physiology in.plieanvenvisin.Wileh
 ## MAGES AND MAGI
 
 Onewould be better offpredictingwhere individual raindropswill land than attemptingto grasptheworkings of a magusmind.Our paths crossmore often than we would like, for theyfrequentlypursuethesameendswedo.Afewof them areworthycompanions,aswehavelearnedwiththeGiovanni necromancers.Manymoreareodious andinsufferable,aswe havelearnedwiththeTremere.
+
+<!-- image -->
 
 ## NEW TRAITS
 
@@ -763,6 +839,10 @@ TheRoad of theBones,centered upon the empirical pursuitofspiritualmatters,uphold
 
 The Road of the Bones remains in use until the late 17thcentury,evenafterthedestructionoftheCappadocian clan at the hands of their Giovanni childer.At that point almostexclusively followed byTzimisce,theRoad all but disappears.A fewyears later,however,theTimiscewill bring tenets of theRoad into a more modern philosophy, which will become thePath of Death and theSoul as practiced by the Sabbat.At that point,the newly emer gentPathwill gain widersupport fromthe amtitribu of the Malkavians andToreador as well.
 
+<!-- image -->
+
+<!-- image -->
+
 ## MERITS AND FLAWS
 
 Thefollowing isacollection ofoptional MeritsandFlaws exclusively suited to Cappadocians.Use theseTraits to personalizeyour characters,or adapt themtosuityourneeds. Remembertoconsult yourStorytellerbeforetakinganyMerits or Flaws;see theAppendix inVampire:TheDarkAgesfor further details.
@@ -789,6 +869,8 @@ Thevampire cursedwithMadVisions sinks periodically into tormented trances,someti
 
 Cappadocians who suffer MadVisions or experience Presciencerarely share theirvisionswithCainites outsidethe clan.Indeed,many of thosewith thevisionsaredriven to the verge ofmadness byburgeoning Cassandra Complexesin whichtheprescientsknowthehorrid truth of thefuture and realize theirinability toprevent it.Thankfully,thiscondition is infrequent,andfewsuffertothefullestextent,thoughmore than one Graverobber has had to be alleviated of hermisery.
 
+<!-- image -->
+
 ## CAPPADOCIANDISCIPLINE POWERS
 
 CertainCappadocianshave developednewand intriguingusesfortheDisciplines they possess,resultinginmorbid abilities that augment their studies.Thesepowers arenot included in the interests of min-maxing player characters; their useis solely at the option of theStoryteller.
@@ -807,6 +889,8 @@ The Cappadocian selects one of her target's limbs and induces internalatrophy an
 
 System:Thevampiremust touch her target.The player spends a point ofWillpowerandmakesaStamina+Medicine roll(difficultyequaltothetarget'sWillpower),andmustgain more successes than the target has Stamina.The atrophy is messy andwhichever limbis affectedwill fall off inanumber of days equal to the target'sStamina.A botchindicates that the Cainite affects her ownlimbinstead.Ifthispowerisused onavampire,itseffectswill wearoffwhen thevampirerises the nextnight,althoughavampirewhose headisaffectedby thispowermaynot useDisciplines orfeed until that time.
 
+<!-- image -->
+
 ## THE ILLNESS (INVEILED (AUSPEX LEVELTWO,FORTITUDELEVEL SEVENZ
 
 This grim diagnostic power is based onSoulsight, exceptitreveals a differentaspect of the subject's condition.Bylookingathersubject,theCappadocian maydiscxactlywhichysicaldisaseifanyais theindividual,andmaycureitbylendingthesubjt a bitofherown Fortitude.This power islimited bythe knowledge that the Cappadocian has.
@@ -820,6 +904,8 @@ Thereafter, with an additional roll of Stamina + Medicine(difficulty setby theSt
 Millenniaofpassivityin theface of opposition breeds an indomitable constitution.Vampires with this power have been known torisefromFinal Death. Limbs and appendages reattach themselves if severed, and heads reknit themselves tonecksifneed be. Anyone attempting to exterminate a Cappadocian mand thispower or she may find herselfwith a powerful,very long-termenemy.
 
 System:In the unlikely event that the vampire using this ower has any Blood Points left, she must spend them allInaddition,fourWillpower oints must be spent,plus oneforeach severed limb(count-
+
+<!-- image -->
 
 ing the head) which needs to berejoined to the body. If the Cainite does not have enoughWillpower, she experiencesFinalDeath asnormal.Recoveredbody parts must be proximate to the corpse,as they will mystically"crawl²backtothe parent body (an unsettling sight);theStoryteller'sjudgment is required for this. The vampire using this power is miraculously healed up to the "Mauled" Health Level, and hopefully crawls into some holewhere she can recover further,given time.The vanpire enacting Blessed Resilience permanently loses one dot in every Attribute.These dots are crossed off and may never be recovered. This will result in lower maximum Trait ratings.This power when necessary,takes effect automaticallyandinmediately，andthewouldbe killer may freelyinterferewithit ifshe is smart enough to see the job done).Note that catastrophic damage, such as diving into a livevolcano or being deposid nnstillfaalnn theregenerativecapacityof this power Learning this power costs36expetience points.
 
@@ -835,7 +921,11 @@ Byholding the skull orbrain of a recently deceased individual,the necromancermay
 
 CLANBOOK:CAPPADOCIAN
 
+<!-- image -->
+
 KG3
+
+<!-- image -->
 
 - 1 Success A hazy sense of how the subject died.
 - 2Successes A reasonable estimate as to the cause of death andavague imageof the surroundings.
@@ -851,9 +941,11 @@ This powersummons a spirit.Thenecromancerusing this powermust fulfill many requi
 
 System:Theplayer mustmakearoll of Charisma+ Occult(difficulty equal to thespirit'sWillpower）in orderto force thespirit's attendance.Thenumber of successes on this roll indicates theclarity of thespirit'scommunication.After
 
+<!-- image -->
+
 eachquestionaskedofthespirititmaytytobreakfree.nhi case,thenecromancermustonceagainmakearolltomaintain contact.Abotch summons amalignant spiritwhopretends to be the one sought.Itwill liewithrecklessabandon,butwill have the utmost conviction in the tales it tells.
 
-## ·CORPOREALHOME
+## ···CORPOREALHOME
 
 This necromantic ability allows theuser to bind a spirit intosome sortofphysicalobject,preventingitfrombreaking contact with thenecromancer.The objectmust besome sort ofreceptacl;bowlspouches,boxes and evenlocketsmay house bound spirits.Theceremony requires that thenecromancerfirst summon thespiritwith Call Forth theHostand then bind the spirit,a process whichrequires eight hours of uninterrupted concentration.
 
@@ -869,9 +961,11 @@ Wot all Cappadocians are shroud-garbed skeletal rmonks,consigned toaneternityot 
 
 them to suit your stple swap Traits, alter e meanors or rearrange therm altogether. Gfter all. thenhavealotofworktodoif thenwoant toleave their rmark on the roorld before fate swoallowos
 
+<!-- image -->
+
 ## THE MASTER OF SECRETS
 
-Quote:Youhaven'theard talkof thehideous swamp-beastof CastleBelleme?Wel,youhavequiteabit tolearnbeforeheading for the baron's lair.
+Quote:Youhaven'theard talkof thehideous swamp-beastof CastleBelleme?Wel,youhavequiteabit tolearnbeforeheading for the baron's lair....
 
 Prelude:Youwere thesixthsonofaseventhson,and the last ofyour father's offspring.Only one more brother and destinywould haveplannedgreatthingsforyou,butsuchwas not to be.Nonetheless,your upbringing and environment arousedinyouagreatinterestinthosethingsbeyond theken of most men.
 
@@ -888,6 +982,8 @@ RoleplayingTips:All secrets should be yours. Themorehiddenatruthis,themoreyoudes
 Equipment:Filthy shift,walking stick, bag of herbal concoctions
 
 CLANBOOK:CAPPADOCIAN
+
+<!-- image -->
 
 ## CAPPADOCIAN
 
@@ -915,25 +1011,25 @@ MENTAL
 
 Strength
 
-ooCharisma
+ooooooooCharisma
 
-OoooPerception
+OoooooooPerception
 
 Dexterity.
 
 Manipulation
 
-o00
+o000000
 
 Intelligence
 
-oo.o0
+oo.o0000
 
 Stamina
 
-OoooAppearance
+OoooooooAppearance
 
-OoooWits
+OoooooooWits
 
 ## ABILITIES
 
@@ -949,13 +1045,13 @@ Animal Ken\_
 
 Academics
 
-OO00
+OO000000
 
 Alertness
 
 Archery.
 
-HearthWisdom\_oo
+HearthWisdom\_oooooooo
 
 Athletics
 
@@ -969,7 +1065,7 @@ Etiquette
 
 Law
 
-Dodge. O000
+Dodge. O0000000
 
 Herbalism
 
@@ -977,23 +1073,25 @@ Linguistics
 
 Empathy.
 
+O0000000
+
 Melee
 
 Medicine
 
-Intimidation\_ooo0
+Intimidation\_ooooooo0
 
 Music
 
-OCCUItANCCNTLORCOO
+OCCUItANCCNTLORCOOOOOOOO
 
-Larceny 00
+Larceny 00000000
 
 Ride
 
 Politics
 
-Leadership\_ 00
+Leadership\_ 00000000
 
 Stealth
 
@@ -1013,25 +1111,25 @@ BACKGROUNDS
 
 ## VIRTUES
 
-AUSPEX oo00
+AUSPEX oo000000
 
-GENERATIONOO
+GENERATIONOOOOOOOO
 
 Conviction
 
 o00
 
-FORT/TUDE\_OO
+FORT/TUDE\_OOOOOOOO
 
-RESOURCES 00
+RESOURCES 00000000
 
-RETANERS 0o00
+RETANERS 0o000000
 
 Self-Control
 
-o0
+o000
 
-0.000
+0.0000000
 
 Courage
 
@@ -1051,6 +1149,8 @@ Hurt
 
 - [ ] -1 口
 
+L00000000
+
 - [ ] Injured -1 口
 
 WILLPOWER
@@ -1059,9 +1159,11 @@ WILLPOWER
 
 - [ ] Mauled -2 口
 
+L00000000
+
 - [ ] Crippled -5 口
 
-□□□□
+□□□□□□□□□□
 
 - [ ] Incapacitated 口
 
@@ -1097,6 +1199,8 @@ Roleplaying Tips:Zeal and righteousness motivate you, andyouguideotherstowardsim
 
 Equipment:Ancestral sword, piecemealarmor,rosary,slvr ofwoodyoudevoutlybelieve tobeafragment of theTrue Cross
 
+<!-- image -->
+
 ## CAPPADOCIAN
 
 NAME:
@@ -1125,23 +1229,23 @@ SOCIAL
 
 MENTAL
 
-Strength 000
+Strength 0000000
 
-Charisma 0.00
+Charisma 0.000000
 
-Perception 00
+Perception 00000000
 
 Dexterity.
 
-Manipulation\_oo
+Manipulation\_oooooooo
 
-- [ ] Intelligence 0O00
+- [ ] Intelligence 0O000000
 
-Stamina 000
+Stamina 0000000
 
-Appearance O00
+Appearance O000000
 
-Wits 00
+Wits 00000000
 
 ## ABILITIES
 
@@ -1151,71 +1255,75 @@ SKILLS
 
 ## KNOWLEDGES
 
-Acting. 00
+Acting. 00000000
 
-AnimalKen\_oo00
+AnimalKen\_oooooo00
 
-Academics 00
+Academics 00000000
 
-Alertness oo00
+Alertness oo000000
 
-Archery 0o00
+Archery 0o000000
 
-HearthWisdom\_oo
+HearthWisdom\_oooooooo
 
-Athletics O000
+Athletics O0000000
 
-Crafts 00
+Crafts 00000000
 
-Investigation 00
+Investigation 00000000
 
-Brawl .00
+Brawl .000000
 
-Etiquette 00
+Etiquette 00000000
 
 Law
 
-Dodge 00
+Dodge 00000000
 
-Herbalism 00
+Herbalism 00000000
 
 Linguistics
 
 Empathy.
 
+O0000000
+
 Melee
 
-o.0
+o...0000
 
 Medicine
 
-.00
+.000000
 
-Intimidation 000
+Intimidation 0000000
 
 Music
 
 Occult
 
-Larceny 00
+Larceny 00000000
 
 Ride
 
-oo00
+oo000000
 
-Politics 00
+Politics 00000000
 
-Leadership. O000
+Leadership. O0000000
 
 Stealth
 
+O0000000
+
 Science
 
-Subterfuge O000
+Subterfuge O0000000
 
 Survival
 
-oo00
+oo000000
 
 Seneschal
 
@@ -1227,23 +1335,25 @@ BACKGROUNDS
 
 ## VIRTUES
 
-AuSPEX O000
+AuSPEX O0000000
 
 CONTACTS
 
+O0000000
+
 Conscience
 
-FORTITUDE 0o00
+FORTITUDE 0o000000
 
-GENERATIONOO
+GENERATIONOOOOOOOO
 
-MORTIS 00
+MORTIS 00000000
 
-MENTOR 00
+MENTOR 00000000
 
 Self-Control
 
-RESOURCES oO00
+RESOURCES oO000000
 
 Courage
 
@@ -1271,11 +1381,13 @@ WILLPOWER
 
 - [ ] Crippled -5 口
 
-□□□□
+□□□□□□□□□□
 
 - [ ] Incapacitated 口
 
 WEAKNESS
+
+L00000000
 
 BLOODPOOL
 
@@ -1285,13 +1397,13 @@ BLOODPOOL
 
 DEATHLYPALLOR
 
-□□□□
+□□□□□□□□□□
 
 ## THE PRODIGAL T NECROMANCER
 
 Prelude:You knew therewasmore to theBlackArt than the family believed.Your parents andrelatives,members of the powerful Giovanni family,grewrich on the efforts of ChristiansintheCrusades,andwiththatmoneycamedegeneracy.Inits depravity,your family turnedtonigrimancyfora cheap,forbiddenthrill.Whatfools.
 
-Quote:Haveyouneverspokenwiththerestleshades?Your loss.
+Quote:Haveyouneverspokenwiththerestlessshades?Your loss.
 
 Learning the magic of the dead gaveyou power, and power inturngarneredgreater success.Youcouldeasilysolve murders by talkingtothewraithly remnants of thevictims, andyouwerenotabove usingtheserevelationsforblackmail.
 
@@ -1310,6 +1422,8 @@ Concept:It's all aboutpower,andyours comes easily. Necromancy isyour calling,and
 Roleplaying Tips: You're not conceited; you really arebetterthan everyoneelse.Yourfriends are usefulonlyasameanstoanend,butyoulearned long ago tobecivil and tonotburn anybridges.You are utterlymercenary,lookingoutforyourbestinterests and theroute that leadsto the bestresultswith the least resistance.
 
 Equipment:Stainedrobes,necromantic scrolls,list of peoplewhoowe youfavorsforkeepingyourmouth shut
+
+<!-- image -->
 
 G
 
@@ -1341,15 +1455,15 @@ MENTAL
 
 Strength
 
-- [ ] Charisma o0o0
+- [ ] Charisma o0o00000
 
-- [ ] Perception 00
+- [ ] Perception 000000
 
 Dexterity.
 
-0o00
+0o000000
 
-Manipulation\_oo
+Manipulation\_oooooooo
 
 Intelligence\_
 
@@ -1357,7 +1471,7 @@ Stamina
 
 Appearance
 
-0o00
+0o000000
 
 Wits
 
@@ -1369,23 +1483,25 @@ SKILLS
 
 ## KNOWLEDGES
 
-Acting. 00
+Acting. 00000000
 
-AnimalKen\_oo
+AnimalKen\_oooooooo
 
 Academics
 
 Alertness
 
-\_00
+\_00000000
 
 Archery.
 
-HearthWisdom\_oo
+HearthWisdom\_oooooooo
 
-Athletics 00
+Athletics 00000000
 
 Crafts\_
+
+O0000000
 
 Investigation
 
@@ -1393,7 +1509,7 @@ Brawl
 
 Etiquette
 
-o00
+o000000
 
 Law\_
 
@@ -1403,15 +1519,15 @@ Herbalism
 
 Linguistics
 
-00.0
+00.00000
 
-Empathy. 00
+Empathy. 00000000
 
 Melee
 
 Medicine
 
-Intimidation\_ O000
+Intimidation\_ O0000000
 
 Music
 
@@ -1431,7 +1547,7 @@ Science
 
 Subterfuge
 
-.000
+.0000000
 
 Survival
 
@@ -1451,11 +1567,13 @@ ALLIES
 
 Conviction
 
-NECROMANCYOO
+NECROMANCYOOOOOOOO
 
 CONTACTS
 
 GENERATION
+
+O0000000
 
 Self-Control
 
@@ -1463,11 +1581,11 @@ Self-Control
 
 JNFLUENCE
 
-0o00
+0o000000
 
 RESOURCES
 
-oo0
+oo0000
 
 Courage
 
@@ -1477,13 +1595,15 @@ ROAD
 
 HEALTH
 
-THANATOLOGYOO
+THANATOLOGYOOOOOOOO
 
 BONES
 
 - [ ] Bruised 口
 
 - [ ] Hurt -1 口
+
+L00000000
 
 - [ ] Injured -1 口
 
@@ -1493,11 +1613,13 @@ WILLPOWER
 
 - [ ] Mauled -2 口
 
+L00000000
+
 ®
 
 - [ ] Crippled -5 口
 
-□□□□
+□□□□□□□□□□
 
 - [ ] Incapacitated 口
 
@@ -1505,11 +1627,13 @@ WEAKNESS
 
 BLOODPOOL
 
-- [ ] □□
+- [ ] □□□□□□□□
 
 ## DEATHLYPALLOR
 
-- [ ] □□□□
+- [ ] □□□□□□□□□□
+
+<!-- image -->
 
 ## THE BLACK SHEEP
 
@@ -1536,6 +1660,8 @@ Roleplaying Tips:You are quite personable,forging new acquaintances with eachpas
 Equipment: Worn traveling clothes, battered sword.
 
 thetime of the Feast of Folly.
+
+<!-- image -->
 
 G
 
@@ -1567,23 +1693,25 @@ SOCIAL
 
 MENTAL
 
-Strength oo00
+Strength oo000000
 
-Charisma 000
+Charisma 0000000
 
-Perception\_ o000
+Perception\_ o0000000
 
-Dexterity. 0o00
+Dexterity. 0o000000
 
-Manipulation\_oo
+Manipulation\_oooooooo
 
-Intelligence 00
+Intelligence 00000000
 
-- [ ] Stamina 000
+- [ ] Stamina 0000000
 
-- [ ] Appearanceoo
+- [ ] Appearanceoooooooo
 
 Wits
+
+o0000000
 
 ## ABILITIES
 
@@ -1593,39 +1721,43 @@ SKILLS
 
 ## KNOWLEDGES
 
-Acting. 00
+Acting. 00000000
 
-AnimalKen\_ooo0
+AnimalKen\_ooooooo0
 
-Academics 00
+Academics 00000000
 
 Alertness
 
-oo00
+oo000000
 
 Archery
 
-HearthWisdom\_oo
+O0000000
 
-Athletics 00
+HearthWisdom\_oooooooo
 
-Crafts O000
+Athletics 00000000
 
-Investigation O000
+Crafts O0000000
 
-Brawl o000
+Investigation O0000000
 
-Etiquette 00
+Brawl o0000000
+
+Etiquette 00000000
 
 Law
 
 Dodge
 
-o00
+o000000
 
 Herbalism
 
-Linguistics 00
+O0000000
+
+Linguistics 00000000
 
 Empathy.
 
@@ -1633,25 +1765,25 @@ Melee
 
 Medicine
 
-Intimidation\_ 00
+Intimidation\_ 00000000
 
-Music 00
+Music 00000000
 
-Occult 00
+Occult 00000000
 
-Larceny. 00
+Larceny. 00000000
 
 Ride
 
-Politics 00
+Politics 00000000
 
-Leadership. 00
+Leadership. 00000000
 
-Stealth Oo.0
+Stealth Oo.00000
 
-Science 00
+Science 00000000
 
-Subterfuge 00
+Subterfuge 00000000
 
 Survival
 
@@ -1667,19 +1799,21 @@ BACKGROUNDS
 
 AuSPEX
 
-GENERATION\_OO
+GENERATION\_OOOOOOOO
 
 Conscience
 
 ..00
 
-FORTITUDE .0.0
+FORTITUDE .0.00000
 
-HERD 00
+HERD 00000000
 
 Self-Control
 
 ?
+
+L00000000
 
 Courage.
 
@@ -1701,11 +1835,13 @@ WILLPOWER
 
 - [ ] Wounded -2 口
 
+L00000000
+
 - [ ] Mauled -2 口
 
 - [ ] Crippled -5 口
 
-- [ ] □□□□
+- [ ] □□□□□□□□□□
 
 - [ ] Incapacitated 口
 
@@ -1713,11 +1849,11 @@ WEAKNESS
 
 BLOOD POOL=
 
-□□
+□□□□□□□□
 
 DEATHLY PALLOR
 
-- [ ] □□□
+- [ ] □□□□□□□□□
 
 C
 
@@ -1746,6 +1882,8 @@ Roleplaying Tips:You are quiet, calmandcollected,whichsomepeople mistakefor soci
 the motives questionable.
 
 Equipment:Fine robes,journal,quill and inks,wax and royal seal
+
+<!-- image -->
 
 n
 
@@ -1777,25 +1915,25 @@ SOCIAL
 
 MENTAL
 
-Strength oO00
+Strength oO000000
 
 Charisma
 
-ooPerception
+ooooooooPerception
 
-Dexterity. 00
+Dexterity. 00000000
 
-Manipulation 0
+Manipulation 00000
 
 Intelligence
 
-o.0
+o...0000
 
 Stamina
 
 Appearance
 
-oooWits
+oooooooWits
 
 ## ABILITIES
 
@@ -1805,65 +1943,79 @@ SKILLS
 
 ## KNOWLEDGES
 
-Acting. 00
+Acting. 00000000
 
-AnimalKen\_oo
+AnimalKen\_oooooooo
 
-Academicuoo
+Academicuoooooooo
 
-Alertness 00
+Alertness 00000000
 
-Archery 00
+Archery 00000000
 
-HearthWisdomooo0
+HearthWisdomooooooo0
 
-Athletics 00
+Athletics 00000000
 
 Crafts
 
+O0000000
+
 Investigation
 
-Brawl 00
+Brawl 00000000
 
 Etiquette
+
+O0000000
 
 Law
 
 Dodge
 
+O0000000
+
 Herbalism
 
-LinguisticSwRTTeNOO
+O0000000
 
-Empathy. 0O00
+LinguisticSwRTTeNOOOOOOOO
+
+Empathy. 0O000000
 
 Melee
 
 Medicine
 
-Intimidation 00
+Intimidation 00000000
 
 Music
 
 Occult
 
-Larceny 00
+Larceny 00000000
 
 Ride
 
 Politics
 
+O0000000
+
 Leadership.
+
+O0000000
 
 Stealth
 
 Science
 
-.00
+.000000
 
-Subterfuge\_ 00
+Subterfuge\_ 00000000
 
 Survival
+
+O0000000
 
 Seneschal
 
@@ -1875,25 +2027,29 @@ Seneschal
 
 ## BACKGROUNDS
 
-AusPEx 00
+AusPEx 00000000
 
-GENERATION O000
+GENERATION O0000000
 
 Conscience
 
-FORTITUDE O000
+FORTITUDE O0000000
 
-INFLUENCE 00
+INFLUENCE 00000000
 
 MORTIS
 
-MENTOR O000
+MENTOR O0000000
 
 Self-Control
+
+L00000000
 
 RESOURCES
 
 STATUS
+
+O0000000
 
 Courage
 
@@ -1907,11 +2063,17 @@ HEAVEN
 
 - [ ] Bruised 口
 
+L00000000
+
 - [ ] Hurt -1
 
 - [ ] 口
 
+L00000000
+
 - [ ] Injured -1 口
+
+L00000000
 
 WILLPOWER
 
@@ -1919,7 +2081,11 @@ WILLPOWER
 
 - [ ] 口
 
+L00000000
+
 - [ ] Mauled -2 口
+
+L00000000
 
 0 0 0 00
 
@@ -1931,11 +2097,13 @@ WEAKNESS
 
 BLOODPOOL=
 
-□□□□
+□□□□□□□□□□
 
 DEATHLYPALLOR
 
-□□00□□
+□□□□□□00□□
+
+<!-- image -->
 
 ## THE PROPHET
 
@@ -1954,6 +2122,8 @@ Roleplaying Tips:You have never taken the easy path; had you done so,you would h
 Equipment:Habitandwimple,rosary,handwrittenbook ofBibleversestranscribedtocryptograms
 
 CLANBOOK:CAPPADOCIAN
+
+<!-- image -->
 
 G
 
@@ -1985,29 +2155,29 @@ SOCIAL
 
 MENTAL
 
-Strength O000
+Strength O0000000
 
 Charisma
 
-0.00
+0.000000
 
-Perception\_ o0
+Perception\_ ooo00000
 
-Dexterity. o000
+Dexterity. o0000000
 
-Manipulation\_oo
+Manipulation\_oooooooo
 
-Intelligence\_ 00
+Intelligence\_ 00000000
 
-Stamina o000
+Stamina o0000000
 
 Appearance\_
 
-o.0
+o...0000
 
 Wits
 
-0o00
+0o000000
 
 ## ABILITIES
 
@@ -2017,39 +2187,43 @@ SKILLS
 
 ## KNOWLEDGES
 
-Acting. o000
+Acting. o0000000
 
-AnimalKen\_oo
+AnimalKen\_oooooooo
 
 Academics
 
-0.0
+000.0000
 
-Alertness O000
+Alertness O0000000
 
 Archery.
 
-HearthWisdom\_oo
+HearthWisdom\_oooooooo
 
-Athletics 100
+Athletics 100000000
 
 Crafts
 
-o00
+o000000
 
 Investigation
 
-Brawl 00
+O0000000
+
+Brawl 00000000
 
 Etiquette
 
-o00
+o000000
 
 Law
 
-Dodge 00
+Dodge 00000000
 
 Herbalism
+
+O0000000
 
 Linguistics
 
@@ -2059,29 +2233,35 @@ Melee
 
 Medicine
 
-Intimidation L00
+Intimidation L00000000
 
 Music
 
+O0000000
+
 Occult
 
-Larceny. 00
+Larceny. 00000000
 
-Ride 00
+Ride 00000000
 
 Politics
 
+O0000000
+
 Leadership.
 
-Stealth 00
+Stealth 00000000
 
 Science
 
-Subterfuge 00
+Subterfuge 00000000
 
-Survival 00
+Survival 00000000
 
 Seneschal
+
+O0000000
 
 ## ADVANTAGES
 
@@ -2091,19 +2271,19 @@ BACKGROUNDS
 
 ## VIRTUES
 
-AusPEx O00
+AusPEx O000000
 
-CONTACTS 0O00
+CONTACTS 0O000000
 
 Conscience
 
 0oeo
 
-MORTIS 00
+MORTIS 00000000
 
-MENTOR O000
+MENTOR O0000000
 
-STATUS 0O00
+STATUS 0O000000
 
 Self-Control
 
@@ -2121,33 +2301,47 @@ HEAVEN
 
 - [ ] Bruised 口
 
+L00000000
+
 - [ ] Hurt -1 口
 
 - [ ] Injured -1 口
+
+L00000000
 
 WILLPOWER
 
 - [ ] Wounded -2 口
 
+L00000000
+
 - [ ] Mauled -2 口
+
+L00000000
 
 0 0
 
 - [ ] Crippled -5 口
 
-- [ ] □□□□
+- [ ] □□□□□□□□□□
 
 - [ ] Incapacitated 口
 
+L00000000
+
 - [ ] WEAKNESS
+
+L00000000
 
 BLOODPOOL
 
-- [ ] □□□□
+L00000000
+
+- [ ] □□□□□□□□□□
 
 DEATHLYPALLOR
 
-- [ ] □□□□
+- [ ] □□□□□□□□□□
 
 ## THE CHAMBERLAIN
 
@@ -2161,13 +2355,17 @@ You took this lesson to heart,even as the earl's troops overran the town below a
 
 You learned his true nature soon enough, when hemadeyou a ghoul as rewardforyour loyalty.Not toolong after,your Embrace came, thoughyoursirewas actually amember of another court.You were,ofcourse,subjected to theBlood Oath to ensure yourloyalty,though thatbondhas not been renewed in some time;the earl no longer has anydoubtsaboutyourallegiance.Forthat,hehas noonetoblamebuthimselfasyouaretrulynhe serviceof yoursire.Politicsinvolves suchstrange turns of fate.
 
-Concept:You are the consummateraconteur andamasterofpublicrelations.Ifyouwished,you couldincite yourlord'sarmies againstthePope himself, claiming thatLucifer had taken possession of the Holy Father.Efficient,ruthless and irredeemablymercenary, you support the earl because you'd ratherbekingmaker thanking.After all,they'renot going to come foryour head.
+Concept:You are the consummateraconteur andamasterofpublicrelations.Ifyouwished,you couldincite yourlord'sarmies againstthePope himself, claiming thatLucifer had taken possession of the Holy Father.Efficient,ruthless and irredeemablymercenary, you support the earl because you'd ratherbekingmaker thanking.After all,they'renot going to come foryour head...
 
 Roleplaying Tips: You are as cagey as an old lion and as slick as aneel.Turn everything brought against you to apositivelight,neatly avoiding anyresponsi bility for plans gone awry and claiming credit for victories.Theworldisyouroyster,andyoucanmake it produce asmany pearls as you wish.
 
 Equipment:Fineobesfofficeorgedcons sionsoftreason
 
 CLANBOOK:CAPPADOCIAN
+
+<!-- image -->
+
+<!-- image -->
 
 ## CAPPADOCIAN
 
@@ -2197,21 +2395,21 @@ SOCIAL
 
 MENTAL
 
-Strength 00
+Strength 00000000
 
-Charisma oo00
+Charisma oo000000
 
-Perception 00
+Perception 000000
 
-Dexterity. 00
+Dexterity. 00000000
 
-Manipulation\_oo
+Manipulation\_oooooooo
 
-Intelligence O000
+Intelligence O0000000
 
 Stamina
 
-- [ ] Appearance\_ oO00
+- [ ] Appearance\_ oO000000
 
 Wits
 
@@ -2223,49 +2421,53 @@ SKILLS
 
 ## KNOWLEDGES
 
-Acting. O000
+Acting. O0000000
 
-AnimalKen\_oo
+AnimalKen\_oooooooo
 
-Academics o000
+Academics o0000000
 
-Alertness 00
+Alertness 00000000
 
 Archery\_
 
-HearthWisdom\_oo
+HearthWisdom\_oooooooo
 
-Athletics 00
+Athletics 00000000
 
-Crafts 00
+Crafts 00000000
 
-Investigation 00
+Investigation 00000000
 
-Brawl O000
+Brawl O0000000
 
-Etiquette 00
+Etiquette 000000
 
 Law
 
-Dodge O000
+o0000000
 
-Herbalism 00
+Dodge O0000000
+
+Herbalism 00000000
 
 Linguistics
 
 Empathy\_
 
-Melee 00
+Melee 00000000
 
 Medicine
 
-Intimidation 00
+Intimidation 00000000
 
 Music
 
-Occult 00
+O0000000
 
-Larceny 00
+Occult 00000000
+
+Larceny 00000000
 
 Ride
 
@@ -2273,13 +2475,13 @@ Politics
 
 Leadership
 
-Stealth 00
+Stealth 00000000
 
 Science
 
-Subterfuge 00
+Subterfuge 00000000
 
-Survival 00
+Survival 00000000
 
 Seneschal
 
@@ -2291,7 +2493,7 @@ BACKGROUNDS
 
 ## VIRTUES
 
-AuSPEX 00
+AuSPEX 00000000
 
 ALLIES
 
@@ -2299,17 +2501,19 @@ Conscience
 
 .·00
 
-FORTTUDE L00
+FORTTUDE L00000000
 
-CONTACTS 00
+CONTACTS 00000000
 
-MORTIS O000
+MORTIS O0000000
 
 INFLUENCE
 
+o0000000
+
 Self-Control
 
-RESOURCES o0
+RESOURCES ooo00000
 
 RETAINERS
 
@@ -2329,33 +2533,41 @@ HUMANITY
 
 - [ ] Hurt -1 口
 
-? 0
+? 0000
 
 - [ ] Injured -1 口
+
+L00000000
 
 WILLPOWER
 
 - [ ] Wounded -2 口
 
+L00000000
+
 - [ ] Mauled -2 口
 
 - [ ] Crippled -5 口
 
-- [ ] □□□□
+- [ ] □□□□□□□□□□
 
 - [ ] Incapacitated 口
 
 WEAKNESS
 
+L00000000
+
 BLOODPOOL=
 
-- [ ] □□□□
+- [ ] □□□□□□□□□□
 
 DEATHLYPALLOR
 
-- [ ] □□□□
+- [ ] □□□□□□□□□□
 
 ppendirx: figoaajok Seekers
+
+<!-- image -->
 
 Abruteamong thoutwardlydocileclangnaziospentthemajorityof hismortal lifeasastrongrightarmforhe family's less ethical pursuits.None too intelligent,Ignazio wasnonethelesseffective athis line ofwork,and the incestuous Giovanni branch of the Cappadocians Embraced him as insurance.Heis one of the increasinglyrare ghouls who has beenbroughtinto theCappadocian clan asareward forexceptional service.
 
@@ -2364,6 +2576,10 @@ Abruteamong thoutwardlydocileclangnaziospentthemajorityof hismortal lifeasastron
 Ignaziohas acquiredsome distinctionbyworking closelywith theLasombra prince of Venice aswell aswith the Doge.InadditiontohisresponsibilitiestoheCainitepartofthefamilyInaziocontrolsseverallocalbandsfbrigands, lending their use to theprince and theDogeinreturn forfavors andother considerations.
 
 Ignazio's tremendousphysical power and fearsome reputation have earned him the grudgingrespect of other vampires,butheisquite unpopular among themoreinsularCappadocianmainstream.With theaidof hisgabellotti lieutenants,hehelps tokeepVeniceclearof criminalelementsthe oneswho aren't permitted,that is.Heis also instrumental inwardingoff therampantlupinepopulation outside thecity.
+
+<!-- image -->
+
+<!-- image -->
 
 ## LAZARUS
 
@@ -2376,6 +2592,10 @@ All contactwithLazarus ceased soon after.Fearing theworst,butnotwanting toriskth
 ButLazaruswasnotdead,asCaiasdiscoveredwhenJaphethsenthimtocheckontheirestrangedbrotherafter theFeast of Folly.Lazarus insteadbecamethemost powerfulof the Infitioresbydefault.He hasrefused all contactwith vampiresnotofhisbrood.Hehasbecomeasecluded hermit,maintainingahaveninaCopticmonastery awayfrom thepryingeyesof hischilderand theminionsof Set.Whetherhe still pursues theeternal riddleisunknown.Those whoknewhim fear that the ancient corruption of the land hasfinally claimed him.
 
 WhyJaphethsuddenlybecameinterested inhisbrother'swelfare aftertheFeastofFollyisamystery.Themost viciousrumor accusesJaphethofjealousyofCaiasandsuggeststhathehopedLazaruswasindeedcorruptandwould destroy Caias.A darker theory implies that JaphethisLazarus,hiding his unpleasant ambitions behind amask of feigned torporwhileheassumesthe otheridentity.This latter theory certainlylends legitimacy toclaims of Japheth's jealouy,frwhichanswasteatfthnesutwasaiasinaleathhatverthcaseazarun rare occasions that hereceivescompany,is awell-spoken source of lore and legend inthe studiesof thedead.
+
+<!-- image -->
+
+<!-- image -->
 
 LordCamdenpersonifiestherelationshipbetweentheVentrue and theCappadocians.AschamberlaintoMithras, the ancient andpowerful princeof London,LordCamdenenjoysluxuriessecond tonone.Inexchangefor hisservice toMithras,Camdensallowedawideberthwithregardtohisexperimentationandstudy.Camdenistheculpritbehind a recentseriesof nocturnal snatchings.hevictimsof thesekidnappingsbecome thesubjectsof bizarre tests,designed todetermineatpreciselywhatmomentdeathoccurs.
 
@@ -2391,11 +2611,19 @@ CamdenalsoanaccomplishedcivilengineerusuallyadressesMithraslesglorioustasksinhea
 
 TroglodytiaactsasabrokerfortheCappadociansandGiovanniinhermmediatevicinityrocuringdeadbodis for experimentation,oddherbs and alchemicalngredients,aswellasany strange artifacts thatcometoherattention. Thoughnot as unseen as theNosferatu,er sympathywiththeLepersgivesheraccessto theirvast informationnetwork. Shehasworkedforfavorsmore than once,andmanylocalvampiresowehersome sort ofminor boon oranother. Troglodytiaiscontenttoworkas shedoesforthetimebeing,gatheringwhatbenefit andpromises shecan.Whoknows whatwill come of the favors shegains?
 
+<!-- image -->
+
+<!-- image -->
+
 UponherEmbrace,Troglodytiaacquired theunfortunatecharacteristicofhideousnessthathascome to afflictmany Cappadocians of late.Sheresembles a corpse in the advanced stages of decomposition,or a particularly deteriorated zombu.Mean-spirited peersgave hertheunpleasantmonikershecarries tothis night. She bearsit likea badge ofmartyrdom,though,and is determined toriseabove such petty concerns.
 
 TROGLODYTIA
 
 She will probably never do so,however,as her appearance is so disconcerting that it renders her unapproachable.hecannotmeetothersnpublic,norcanshespeaktolargegroupswithoutoffendingthem withhevisagehoughhehastakenupcompanywithagrouofosferatuermasteryfOuscateit yetadvancedenoughthatshemayhideherappearance.Truetohermartyrselfowever,Troglodytiahasmade the best of her lot,becoming amercenary and a veritable blackmarket all by herself.
+
+<!-- image -->
+
+<!-- image -->
 
 ?
 
@@ -2403,7 +2631,7 @@ ppenoix Ja: f Sjistorical 2Remains of tfie Cnppndocians
 
 ## My Dear Emily.
 
-Uetillchoeonmee othoeihateindeh yi comedexintead eeaeeiely oeateeaeadyy or alleaiwantedalltedigeve wecanltetie wliedtteteiegendthevoeaeaa ayenginteiledSceiyt pad t： hana 40 20ay) Sameli cedtulkteni.
+Uetillchoeonmee othoeihateindeh yi comedeeexintead eeaeeiely oeateeaeadyy or alleaiwantedalltedigeve wecanltetieeeee wliedtteteiegendthevoeaeaa ayenginteiledSceiyt pad t： hana 40 20ay) Sameli cedtulkteeeni.
 
 bea tatlaeliedtouioyyt teliuee tthastnetatthoweaeegeely tohidetecitnbnd geionillcai tied ee in leEmaceo te loidoiWeerececapaeolin OL: among theKine thouh we were conspicuou, we wee ebynomeans as horiic a we are loday.O counse,acerainsenseofimagination isreqiedrecalltoedyitemareebeleved am omy o idlitng this uponyu.
 
@@ -2415,9 +2643,11 @@ TheSamediavampirebloodlineinthemodernWorldofDarkness,arethelogicaldescendantsof 
 
 If theSamedi truly did"evolve"from a lineageofCappadocian origin,fromwhomspecifically arethey descendedDid enoughCappadociansescapetheruthlessGiovanni genocide?Possibly,althoughtheGiovanniarequitecertaintheykilledevery last Graverobber.Could the Infitiores be theSamedi ancestors,given their latermigration intoMediterranean locales?It's conceivable,althoughmost Infitioresgrewdisillusionedwithvampirism andrarelyEmbracedmoreneonates.WeretheLamia whoseDisciplineofDeimos even more closely resembledThanatosis,the parentbloodline?Maybe,although the Giovanni maintained thatevery last Lamia fell indefenseof theGraverobbers(Augustushimself diablerized themotherof thebloodline). Or are theSamedi froma different,perhapsunique stock altogether?
 
-Cappadocianslookedlikecorpses,thoughcertainlynot asgrotesquelyasdotheSamediTheuniqueCappadocianDiscipline ofMortisfocusedheavilyontheexploitationandstudyofdeathwhiletheSamediDisciplineofThanatosisalsoleansheavily towarddeathanddecomposition.And,theSamedipossessNecromancy;theydon'tdeal toftenwiththehatedGiovanni,but they had to learn it somewhere.
+Cappadocianslookedlikecorpses,thoughcertainlynot asgrotesquelyasdotheSamediTheuniqueCappadocianDiscipline ofMortisfocusedheavilyontheexploitationandstudyofdeathwhiletheSamediDisciplineofThanatosisalsoleansheavily towarddeathanddecomposition.And,theSamedipossessNecromancy;theydon'tdeal toooftenwiththehatedGiovanni,but they had to learn it somewhere.
 
 NowrittenrecordexistoftheSameditransformationinrogress.Historyseemstohaveforgottenoratleastisntofering anyhints.The world may never know.
+
+<!-- image -->
 
 CLANBOOK:CAPPADOCIAN
 
@@ -2451,23 +2681,25 @@ SOCIAL
 
 MENTAL
 
-Strength o000
+Strength o0000000
 
-Charisma 00
+Charisma 00000000
 
-Perception\_ 000
+Perception\_ 0000000
 
-Dexterity. 00
+Dexterity. 00000000
 
-Manipulation O000
+Manipulation O0000000
 
-Intelligence\_ 00
+Intelligence\_ 00000000
 
-Stamina 00
+Stamina 00000000
 
 Appearance\_
 
-Wits o000
+O0000000
+
+Wits o0000000
 
 ## ABILITIES
 
@@ -2477,65 +2709,65 @@ SKILLS
 
 ## KNOWLEDGES
 
-Acting. 00
+Acting. 00000000
 
-AnimalKen\_oo
+AnimalKen\_oooooooo
 
-Academics 00
+Academics 00000000
 
-Alertness 00
+Alertness 00000000
 
-Archery. 00
+Archery. 00000000
 
-HearthWisdom\_ooo0
+HearthWisdom\_ooooooo0
 
-Athletics 00
+Athletics 00000000
 
-Crafts 00
+Crafts 00000000
 
-Investigation 00
+Investigation 00000000
 
-Brawl 00
+Brawl 00000000
 
-Etiquette 00
+Etiquette 00000000
 
-Law 00
+Law 00000000
 
-Dodge. 00
+Dodge. 00000000
 
-Herbalism 00
+Herbalism 00000000
 
-Linguistics 00
+Linguistics 00000000
 
-Empathy. 00
+Empathy. 00000000
 
-Melee 00
+Melee 00000000
 
-Medicine 00
+Medicine 00000000
 
-Intimidation\_ 00
+Intimidation\_ 00000000
 
-Music 00
+Music 00000000
 
-Occult 00
+Occult 00000000
 
-Larceny. 00
+Larceny. 00000000
 
-Ride 00
+Ride 00000000
 
-Politics 00
+Politics 00000000
 
-Leadership. 00
+Leadership. 00000000
 
-Stealth 00
+Stealth 00000000
 
-Science 00
+Science 00000000
 
-Subterfuge 00
+Subterfuge 00000000
 
-Survival 00
+Survival 00000000
 
-Seneschal 00
+Seneschal 00000000
 
 ## ADVANTAGES
 
@@ -2545,11 +2777,11 @@ Seneschal 00
 
 ## VIRTUES
 
-Conscience/Conviction\_o0
+Conscience/Conviction\_oooo0
 
-Self-Control/Instinct\_o
+Self-Control/Instinct\_ooooo
 
-Courage 0
+Courage 00000
 
 ## OTHER TRAITS
 
@@ -2569,11 +2801,11 @@ ROAD
 
 - [ ] Mauled -2 口
 
-- [ ] 0 0 0 0 0
+- [ ] 0 0 0 0 00000
 
 - [ ] Crippled -5 口
 
-- [ ] □□□□
+- [ ] □□□□□□□□□□
 
 - [ ] Incapacitated 口
 
@@ -2581,7 +2813,7 @@ ROAD
 
 - [ ] BLOODPOOL
 
-- [ ] 口口 口 口 口D □ 口 口
+- [ ] 口口 口 口 口D □□□□□ 口 口
 
 DEATHLYPALLOR
 
@@ -2589,8 +2821,8 @@ DEATHLYPALLOR
 
 VAMPIRE:THEDARKAGES
 
-# | MERIT   | TYPE   | COST   | FLAW   | TYPE   | BONUS   |
-|---|---------|
+| MERIT   | TYPE   | COST   | FLAW   | TYPE   | BONUS   |
+|---------|--------|--------|--------|--------|---------|
 
 ## MERITS &amp;FLAWS:
 
@@ -2614,16 +2846,19 @@ NAME
 
 ## COMBAT
 
-| Weapon   | DifficultyDamage   | Conceal   | Range   | Rate   | Strength   | |----|--------|-----|---|--|----|
+| Weapon   | DifficultyDamage   | Conceal   | Range   | Rate   | Strength   |
+|----------|--------------------|-----------|---------|--------|------------|
 
-# | BRAWLINGTABLE   | BRAWLINGTABLE   | BRAWLINGTABLE       |
-|------------------|
-# | Maneuver        | Accuracy        | Damage              |
-# | Bite            | 5               | Strength+1          |
-# | Punch           | 6               | Strength            |
-# | Grapple         | 667             | Strength            |
-# | Claw            |                 | Strength+2          |
-# | Kick            |                 | Strength+1          |
+<!-- image -->
+
+| BRAWLINGTABLE   | BRAWLINGTABLE   | BRAWLINGTABLE       |
+|-----------------|-----------------|---------------------|
+| Maneuver        | Accuracy        | Damage              |
+| Bite            | 5               | Strength+1          |
+| Punch           | 6               | Strength            |
+| Grapple         | 667             | Strength            |
+| Claw            |                 | Strength+2          |
+| Kick            |                 | Strength+1          |
 | Body Slam       | 7               | Special;see Options |
 
 ARMOR:
@@ -2669,6 +2904,8 @@ HAVENS
 LOCATION
 
 DESCRIPTION
+
+<!-- image -->
 
 TITLE
 
@@ -2726,8 +2963,12 @@ Clanbook:Cappadocian includes:
 
 GAMESFOR MATURE MINDS
 
+<!-- image -->
+
 MEA+EX
 
 SMABITUD
 
 EXEGI
+
+<!-- image -->

@@ -1,5 +1,3 @@
---- book_title: "Revised - Clanbook Ventrue" clan: "" edition: "" source_type: "clanbook" extraction_pipeline: "docling_v1 + markdown_cleanup_v1" ---
-
 <!-- image -->
 
 C     L     A     N     B     O     O     K     :
@@ -50,7 +48,7 @@ This book uses the supernatural for settings, characters and themes. All mystica
 
 For a free White Wolf catalog call 1-800-454-WOLF.
 
-Check out White Wolf online at http://www. white-wolf. com;  alt. games. whitewolf  and rec. games. frp. storyteller
+Check out White Wolf online at http://www.white-wolf.com;  alt.games.whitewolf  and rec.games.frp.storyteller
 
 PRINTED IN USA.
 
@@ -114,7 +112,7 @@ Ha! Casper thought, if you only knew who was sparing time for who. He doubted th
 
 Mackie frowned. 'I have to dispute your facts, sir. Unemployment in this city is at its lowest point ever.'
 
-'Oh yes, city-wide that' s true, but it' s up in the Laurel Park area. Up quite a bit if I recall correctly. It seems to me that the area needs jobs more than schools.'
+'Oh yes, city-wide that' s true,but it' s up in the Laurel Park area. Up quite a bit if I recall correctly. It seems to me that the area needs jobs more than schools.'
 
 'Yes, well…' Mackie looked confused, disoriented. 'That makes sense I guess….'
 
@@ -206,7 +204,7 @@ Almodovar stopped.
 
 'I don't know what it was you thought you were doing, Now you attack one of my possessions? Y ou interrogate it to get
 
-Joachin. I just barely tolerate you as a courtesy in the first place. To me? This behavior is unacceptable. Y ou no doubt know enough
+Joachin. I just barely tolerate you as a courtesy in the first place. to me? This behavior is unacceptable. Y ou no doubt know enough
 
 <!-- image -->
 
@@ -324,7 +322,7 @@ Like all  legendary  ages,  though,  the  epoch  of  Sparta's glory passed short
 
 ## the  LAtiN  veNtRue
 
-When  Artemis  and  Lysander  fled  west  in  the fourth century B. C., they found Ventrue among the Romans already established on the Italian Peninsula. The  Ventrue  had  settled  among  the  Etruscans,  an ingenious  and  prosperous  people  of  central  Italy, centuries before. The Ventrue had existed there in quiet peace, many claiming a small Etruscan city as her own domain. Then came Collat. Ventrue history credits Collat with leading the revolution that freed Rome from its Etruscan rulers and established the first Latin state. Whether or not Collat actually started the revolution is unknown, but he certainly took advantage of it. He set himself up as the Kindred Prince of Rome and watched his city grow.
+When  Artemis  and  Lysander  fled  west  in  the fourth century B.C., they found Ventrue among the Romans already established on the Italian Peninsula. The  Ventrue  had  settled  among  the  Etruscans,  an ingenious  and  prosperous  people  of  central  Italy, centuries before. The Ventrue had existed there in quiet peace, many claiming a small Etruscan city as her own domain. Then came Collat. Ventrue history credits Collat with leading the revolution that freed Rome from its Etruscan rulers and established the first Latin state. Whether or not Collat actually started the revolution is unknown, but he certainly took advantage of it. He set himself up as the Kindred Prince of Rome and watched his city grow.
 
 Rome's power and sovereignty spread in fits and starts over the next few centuries, expanding to include all the former Etruscan cities and eventually most of Italy. Collat and his Ventrue brood profited from the expansion, following the soldiers into new cities and claiming domains there. It was Collat, though, who set the pattern for future Ventrue in Rome and in the world at large. Unlike many Kindred at that time, he did not rule openly or claim to be a god. The Romans were a religious, superstitious and proud people. They were more likely to stake and burn a vampire than try to coexist with him. Therefore, the Ventrue of Italy maintained a low profile, collecting favors from its citizens and governors and influencing events from behind the scenes by calling on them to repay their debts.
 
@@ -372,7 +370,7 @@ The Greek Lysander, who had unknowingly fought the  Brujah  during  the  Pelopon
 
 Lysander returned to Camilla to report what he had found. He no doubt embellished the tales, tainted as his perception was by his own dislike for the Brujah because of  their  Athenian  connection.  Camilla,  though, was slow to act. He did not feel comfortable engaging the enemy on their own ground, and he was not so sure Carthage was truly an enemy. He had grown complacent in his position, fatted by bloody excess. Lysander urged his prince to take action again and again, but Camilla refused  until  the  weight  of  Malkavian  and  Toreador counsel convinced him otherwise in a round about way.
 
-In  265  B. C.,  Greek  colonies  occupied  most  of  Sicily, independent from both Roman and Macedonian rule. A scattering of autarkis dwelt on the island, with different clan-broods residing in different cities. The greatest of them all was Syracuse, where Artemis had fled and slipped into torpor and where now a Malkavian prince named Alchias  sat  enthroned.  Alchias  did  not  care about Carthage; he scarcely knew that Brujah resided there. In fact, it was the mortal leaders of the city who started the war. The Carthaginians had intervened in a dispute between Syracuse and the neighboring city of Messina. They not only settled the dispute, they occupied both cities afterward.
+In  265  B.C.,  Greek  colonies  occupied  most  of  Sicily, independent from both Roman and Macedonian rule. A scattering of autarkis dwelt on the island, with different clan-broods residing in different cities. The greatest of them all was Syracuse, where Artemis had fled and slipped into torpor and where now a Malkavian prince named Alchias  sat  enthroned.  Alchias  did  not  care about Carthage; he scarcely knew that Brujah resided there. In fact, it was the mortal leaders of the city who started the war. The Carthaginians had intervened in a dispute between Syracuse and the neighboring city of Messina. They not only settled the dispute, they occupied both cities afterward.
 
 Then  a  Brujah  of  Dominic  the  Rogue's  lineage came to Alchias, stating in no uncertain terms that both Carthage and the Brujah had plans for Sicily and Syracuse. Prince Alchias flew into a rage at the implied threat, decapitating the startled Brujah envoy. Unsure of what to do next, he fortunately had someone to turn to for advice: the recently awakened Artemis and the bull-dancer Arikel. This coalition summoned Lysander to the city, and together they concocted a plan to engage Rome in a war with Carthage. Lysander returned to Rome to once again plead his case to Camilla while Alchias  urged  the  governors  of  Syracuse  to  commit soldiers to the imminent battle.
 
@@ -394,7 +392,7 @@ Camilla and the other Kindred stayed in their havens for this last fight, still 
 
 Romans, Ventrue and the loosely  allied  Toreador  and Malkavians in Sicily alike were not so pleased with the outcome. Lysander urged for a final end to the conflict. The mortal army might have been defeated, but the immortal enemies remained as powerful as ever. Other clans came to Camilla as well, led by the Malkavian Prince Alchias. The wanted Carthage eliminated for good. Meanwhile, the Roman people were being encouraged to fight as well. The famed Roman orator Cato the Elder had an obsession with Carthage. For years he ended every speech he gave in the Senate with the same phrase: Carthago delenda est - Carthage must be destroyed. Lysander picked up the refrain and echoed it in Camilla's ear.
 
-Whether it was Cato or Lysander rallying the cause, the result was the same. Camilla agreed to ally with the other clans and eradicate the Assamite-Brujah menace in Carthage for all time. In one of the few instances in which the Ventrue actually provoked a mortal world conflict, Rome once again declared war on Carthage in 150 B. C., five full decades after the end of the last great struggle. The Roman fleets and armies attacked Carthage and lay siege to the city, surrounding it with a wall of troops and ships.
+Whether it was Cato or Lysander rallying the cause, the result was the same. Camilla agreed to ally with the other clans and eradicate the Assamite-Brujah menace in Carthage for all time. In one of the few instances in which the Ventrue actually provoked a mortal world conflict, Rome once again declared war on Carthage in 150 B.C., five full decades after the end of the last great struggle. The Roman fleets and armies attacked Carthage and lay siege to the city, surrounding it with a wall of troops and ships.
 
 The Third Punic War amounted to not much of a battle for the Romans: a quick siege and capitulation. For the Ventrue, it was the greatest, largest battle they had ever fought. While Roman legions razed the city, Ventrue, Toreador, Malkavian and a few Gangrel officers helped lead the charge and did battle in the streets with the Carthaginian Brujah for five nights. Scores of Kindred died on both sides, along with several thousand mortals. Never before or since has such a titanic battle taken place openly between Kindred. Any lucky enough to have survived those nights can testify that it was a blood-soaked horror beyond all others.
 
@@ -420,7 +418,7 @@ Camilla  liked  what  he  saw.  In  the  chaos  of  the civil wars, Ventrue auth
 
 More often than not, Ventrue simply do not get along  with  one  another.  Clans  tradition  demands that they come to one another's aid when asked and prohibits  them  from  encroaching  on  each  other's domains, but beyond that, they often work against each other more than for any arbitrary common good. Clan history has seen some truly infamous rivalries develop between members, some of which have gone on for thousands of years. One of the most famous - a tale sires tell their childer to this night - is the feud between Demetrius of Massilia and Gaius Fabricius of Ravenna.
 
-Greek colonists founded the ancient port city of Massilia (now known as Marseilles) long before Rome rose to power. When the entire south of France fell under Roman authority centuries later, Massilia held out as a free city for quite some time. Eventually, though, it fell square into the Roman Empire, which  Demetrius  never  forgave.  A  distinguished Ventrue, Demetrius sat as the Prince of Massilia for centuries, nearly since the city's founding. He had worked with his clanmates in Rome, helping them when required and assuring autonomy for his beloved city in exchange. When Roman troops stormed the city in the first century B. C., Demetrius went into a rage and blamed one of the elder Ventrue in Rome,
+Greek colonists founded the ancient port city of Massilia (now known as Marseilles) long before Rome rose to power. When the entire south of France fell under Roman authority centuries later, Massilia held out as a free city for quite some time. Eventually, though, it fell square into the Roman Empire, which  Demetrius  never  forgave.  A  distinguished Ventrue, Demetrius sat as the Prince of Massilia for centuries, nearly since the city's founding. He had worked with his clanmates in Rome, helping them when required and assuring autonomy for his beloved city in exchange. When Roman troops stormed the city in the first century B.C., Demetrius went into a rage and blamed one of the elder Ventrue in Rome,
 
 ## the  gOLdeN  Age  ANd tRANsFORmAtiON
 
@@ -440,7 +438,7 @@ If  the  Brujah  mourn  the  fall  of  Carthage,  so  do the Ventrue  grieve for
 
 <!-- image -->
 
-Rome did not truly fall in A. D. 476 or on any other specific date. It  merely evolved into something else, and the Ventrue followed reluctantly. The same can be said for Camilla, who had overseen Rome and its Ventrue for nearly a thousand years before he finally slipped into torpor.  Meanwhile, his  trusted  aide  Lysander  moved  east with the empire's seat of power, observing quietly the politics of what would become the Byzantine Empire and last until the Crusades.
+Rome did not truly fall in A.D. 476 or on any other specific date. It  merely evolved into something else, and the Ventrue followed reluctantly. The same can be said for Camilla, who had overseen Rome and its Ventrue for nearly a thousand years before he finally slipped into torpor.  Meanwhile, his  trusted  aide  Lysander  moved  east with the empire's seat of power, observing quietly the politics of what would become the Byzantine Empire and last until the Crusades.
 
 In  the  West,  the  empire  dissolved  gradually  into  discrete nations and kingdoms. The Ventrue were there all along, merely exchanging their governors and generals for kings and princes. They had also found a new venue for exploitation, a human institution that showed every sign of some day rivaling the empire itself: the Catholic Church. The Ventrue became involved in the Church, and they Embraced some of the most important Kindred the clan has ever known, such as Fabrizio Ulfila, from its influential ranks. In effect, the clan was now split into two halves: the old guard that had migrated east with the changing focus of the Roman Empire, and the newer Ventrue who remained to take advantage of the growing disorder and the Church's increasing influence on society. A noteworthy minority, disillusioned with the collapse of the Roman Empire, withdrew from the political unlife altogether, preferring instead to observe the passage of time from a cloak of shadows. It is even rumored by some that this faction formed the basis of the mysterious Inconnu.
 
@@ -540,7 +538,7 @@ Warfare has always brought out the most dangerous aspects of humanity. Masses of
 
 ## euROpe AsCeNdANt
 
-The 19th century was another golden era for the Ventrue, reminiscent of the first three centuries A. D. When Rome reigned supreme. After the all-consuming Napoleonic  wars  that  opened  the  century,  Britain emerged  as  the  largest  power  in  the  continent  and eventually the world. Even with the loss of influence in America and the problems in France, Clan Ventrue found itself  positioned  perfectly  to  cultivate  influence  in every part of the world. The British Ventrue, under the 'prince,' Queen Anne of London, made new fortunes many times over and spread their web of contacts and childer to Africa, India and Asia.
+The 19th century was another golden era for the Ventrue, reminiscent of the first three centuries A.D. when Rome reigned supreme. After the all-consuming Napoleonic  wars  that  opened  the  century,  Britain emerged  as  the  largest  power  in  the  continent  and eventually the world. Even with the loss of influence in America and the problems in France, Clan Ventrue found itself  positioned  perfectly  to  cultivate  influence  in every part of the world. The British Ventrue, under the 'prince,' Queen Anne of London, made new fortunes many times over and spread their web of contacts and childer to Africa, India and Asia.
 
 To this night, at least  one  Ventrue  still  claims domain established during this century in such Kindredhostile locales as South Africa, several major cities in India, Hong Kong, Macao and the Holy Land. Likewise, they followed the British army into the Middle East, establishing an early presence in the region that would translate into important investments in the oil industry. By the end of the century, Ventrue around the world could claim to be part of the greatest empire Kindred and kine had ever known.
 
@@ -548,7 +546,7 @@ To this night, at least  one  Ventrue  still  claims domain established during t
 
 Whatever aspect of vampire physiology it is that drives Kindred into and out of torpor, it can be decidedly disastrous, especially on the political front. From time to time, a powerful Ventrue slips into the long sleep, leaving behind a monetary and political empire that needs tending or (more often) suffers dissection by his contemporaries and rivals. When the Kindred rises once more, he naturally craves whatever it is he has missed. In most clans, Kindred accept that torpor has its price. In Clan Ventrue, however, a period in torpor  does  not  revoke  a  Kindred's  rights  or,  more importantly, his rank. Therefore, a highly respected Ventrue can often return after hundreds of years and expect his position to be waiting for him, preserved by acknowledgement of his dignitas .
 
-According to rumor, the most recent clan elder to rise again is Philippe de Margaux, a French Ventrue who last succumbed to torpor in the late 18th century. Embraced in A. D. 894, Philippe has accumulated a great deal of dignitas ,  holding the title of prince on two  separate  occasions  and  as  a  Ventrue  archon for  nearly  three  decades.  Within  the  clan,  he  has achieved  the  title  of strategos (the  second-highest accolade the clan recognizes). Before he disappeared mysteriously in 1791, he was a strong candidate for
+According to rumor, the most recent clan elder to rise again is Philippe de Margaux, a French Ventrue who last succumbed to torpor in the late 18th century. Embraced in A.D. 894, Philippe has accumulated a great deal of dignitas ,  holding the title of prince on two  separate  occasions  and  as  a  Ventrue  archon for  nearly  three  decades.  Within  the  clan,  he  has achieved  the  title  of strategos (the  second-highest accolade the clan recognizes). Before he disappeared mysteriously in 1791, he was a strong candidate for
 
 The Ventrue position in Britain also put them in a prime position to take advantage of England's other great 19th-century  triumph:  the  Industrial  Revolution.  Ventrue money played a significant role in the nation's industrialization. As far as the Ventrue were concerned, the more mortals in cities the better, especially if they could profit from  said  mortals  financially.  The  Ventrue  scarcely  needed to  do  anything  but  invest  wisely  and  watch  the  money  pour in.  They neutralized the few Sabbat and anarch forays into the  burgeoning  labor  movements  quickly,  usually  by  paying off the mortal labor leaders, cracking down on the workers and utterly destroying the offending Kindred.
 
@@ -634,7 +632,7 @@ And the Ventrue do so love their history.
 
 ## the  New  New  thiNg
 
-Long-memoried  and  tradition-bound,  the  Ventrue often have a hard time keeping up with the latest technological developments. In the last hundred 150 years, it has become almost impossible. A Ventrue who went into torpor in 2100 B. C. And woke up in A. D. 1200 would find the world different, but not shockingly so. One who went to sleep in A. D. 1600 and woke up only 400 years later can scarcely believe his eyes. Even Ventrue who rose every night during the transition have a hard time dealing with the changes
+Long-memoried  and  tradition-bound,  the  Ventrue often have a hard time keeping up with the latest technological developments. In the last hundred 150 years, it has become almost impossible. A Ventrue who went into torpor in 2100 B.C. and woke up in A.D. 1200 would find the world different, but not shockingly so. One who went to sleep in A.D. 1600 and woke up only 400 years later can scarcely believe his eyes. Even Ventrue who rose every night during the transition have a hard time dealing with the changes
 
 The clan as a whole has yet to step fully into the information  age.  As  tradition  demands,  important meetings  should  take  place  face  to  face.  Although high-speed travel  makes  arranging  such  meetings  easier than it  once  was,  scions  of  the  clan  and  the  Directorate must still come together from many disparate lands in order to make a decision that a conference call could have settled  in  five  minutes.  E-mail  and  even  overnight express remain mysterious, almost supernatural forces to most elder Ventrue.
 
@@ -1108,7 +1106,7 @@ As a clan devoted to proud detail and tradition, the Ventrue have managed to acc
 
 ## gReetiNgs  ANd  CAsuAL  CONveRsAtiON
 
-Always address another Kindred by his title, if he has one. If he has multiple titles, address him by Camarilla title rather than clan title in mixed company. A Ventrue with no title is addressed by his surname (e. g. Mr. Rubin, Ms. DeKoonieg).
+Always address another Kindred by his title, if he has one. If he has multiple titles, address him by Camarilla title rather than clan title in mixed company. A Ventrue with no title is addressed by his surname (e.g. Mr. Rubin, Ms. DeKoonieg).
 
 <!-- image -->
 
@@ -1522,7 +1520,7 @@ The Ventrue try to sink their talons into every aspect of a city's government, h
 
 At the top of the heap sits the city's mayor and or city council (depending on local laws). As elected officials, the Ventrue try to steer clear of using too much direct power against such public targets. Moreover, these high-ranking officials have so many interests pulling at them already that it can prove difficult for a single Kindred to establish reliable influence. Besides, most of a mayor's job consists of dealing  with  issues  the  Ventrue  could  not  care  less  about.  A conditioned servant needs constant direction, something no one has the time to give. Still, at least one Ventrue in the city - usually the prince or praetor - often keeps an 'open line' to the mayor. They have established contacts that can yield them direct contact with the city's leaders on short notice. Most already have established relation- ships, but those who don't may fall back on their mental and emotional powers in an emergency.
 
-The problem with working through the mayor or city council or whatever other authority exists out there is that it takes a great deal of energy, and it actually usually proves quite inefficient. The leaders themselves do very little. They order others to do those things, people who order underlings to carry out the leaders' demands, in turn. It's far more efficient, and less obvious, to go to the person who ends up performing the task in the first place.  Not  only  are  lower-level  government  officials  more accessible,  they're  almost  always  easier  to  influence.  Why have a mayor put pressure on the D. A. To drop a legal case when having the property clerk  lose  the  evidence  sees  the case thrown out of court? Why put pressure on the police chief to assign extra patrols of a certain neighborhood on a given night when you can pay off-duty cops to do it for you? The examples are endless.
+The problem with working through the mayor or city council or whatever other authority exists out there is that it takes a great deal of energy, and it actually usually proves quite inefficient. The leaders themselves do very little. They order others to do those things, people who order underlings to carry out the leaders' demands, in turn. It's far more efficient, and less obvious, to go to the person who ends up performing the task in the first place.  Not  only  are  lower-level  government  officials  more accessible,  they're  almost  always  easier  to  influence.  Why have a mayor put pressure on the D.A. to drop a legal case when having the property clerk  lose  the  evidence  sees  the case thrown out of court? Why put pressure on the police chief to assign extra patrols of a certain neighborhood on a given night when you can pay off-duty cops to do it for you? The examples are endless.
 
 Moreover, it  is  important  to  have  the  individual  parts of  the  political  machine  under  one's  sway  because,  as  often as  not,  the  city  leadership  has  very  little  authority  to  make anyone actually do anything. Elected officials come and go, but the entrenched bureaucracy remains the same. Someone is certainly going to want to have members of offices like the tax collector, the property appraiser, the code-enforcement division and the department of motor vehicles  in  his  favor.  All  of  these  positions  provide  valuable services, from fake identity documents to the necessary permits to build new havens (or evict troublesome rivals from their current abodes). Even public services like the fire department deserve the resourceful Kindred's attention. After all, a few wrong turns or missteps by a friendly firefighter can result in an enemy's haven burning to the ground while the Ventrue's receives prompt attention.
 
@@ -2101,7 +2099,7 @@ Quote : You see the microprocessors…? All right, let me try to explain it this
 
 Prelude: The magazines all say that nowhere in the history of the world has more money been made faster than in Silicon Valley during the late 1990s. Well, it may or may not be true so far as the world is concerned, but it was sure as hell true for you. At 27 years old, your net worth was just shy of $33 million. Not bad for a guy who never finished college. You thought that you were made for life. You had conquered the world and mastered your chosen field, so now it was time to enjoy it.
 
-You'd cashed in your Yahoo! Shares, paid the IRS its cut and still had more millions than you were likely to spend. Not that you didn't try - you bankrolled an entertainment portal  company  almost  solely  out-of-pocket. Then, one of the biggest venture-capital guys on Sand Hill Road asked if he could meet you for dinner one night. Sure, you said, why not?
+You'd cashed in your Yahoo! shares, paid the IRS its cut and still had more millions than you were likely to spend. Not that you didn't try - you bankrolled an entertainment portal  company  almost  solely  out-of-pocket. Then, one of the biggest venture-capital guys on Sand Hill Road asked if he could meet you for dinner one night. Sure, you said, why not?
 
 Well, it turns out that you weren't the only guest. There was another guy, a young-looking suit from back east.  Very  corporate;  very  prim  and  proper.  The  suit  started asking  questions  about  what  you  thought  the  next  big  thing was going to be, what you knew about cryptography, vulnerabilities within the company you'd just helped start and a ton of other questions you normally would never have answered. Without really thinking about it, you told this guy everything he wanted to know.
 
@@ -4090,7 +4088,7 @@ R
 
 ISBN 1-56504-255-7
 
-WW2358  $14.95 U. S.
+WW2358  $14.95 U.S.
 
 PRINTED IN USA
 

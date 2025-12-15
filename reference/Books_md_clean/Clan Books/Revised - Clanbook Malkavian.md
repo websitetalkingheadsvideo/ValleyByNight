@@ -1,5 +1,3 @@
---- book_title: "Revised - Clanbook Malkavian" clan: "" edition: "" source_type: "clanbook" extraction_pipeline: "docling_v1 + markdown_cleanup_v1" ---
-
 <!-- image -->
 
 ## ™ C     L     a     n     B     O     O     k     :
@@ -42,7 +40,7 @@ The mention of or reference to any company or product in these pages is not a ch
 
 This book uses the supernatural for settings, characters and themes. All mystical and supernatural elements are fiction and intended for entertainment purposes only. Reader discretion is advised.
 
-For a free White Wolf catalog call 1-800-454-WOLF. Check out White Wolf online at http://www. white-wolf. com;  alt. games. whitewolf  and rec. games. frp. storyteller PRINTED IN USA.
+For a free White Wolf catalog call 1-800-454-WOLF. Check out White Wolf online at http://www.white-wolf.com;  alt.games.whitewolf  and rec.games.frp.storyteller PRINTED IN USA.
 
 3G
 
@@ -70,7 +68,7 @@ Clanbook: Malkavian
 
 It was the consummation of a marriage.
 
-The vows were unspoken, of course. The courting had taken place long ago, in the language of grants and internships rather than doses of clichéd poetry. It had been patient and professional, trust given out measure by measure as he let me further and further into the great work of his... Life. First the gift of vitae, then the gift of responsibility - always rationed out with perfect reason, perfect control.
+The vows were unspoken, of course. The courting had taken place long ago, in the language of grants and internships rather than doses of clichéd poetry. It had been patient and professional, trust given out measure by measure as he let me further and further into the great work of his... life. First the gift of vitae, then the gift of responsibility - always rationed out with perfect reason, perfect control.
 
 And now...
 
@@ -112,7 +110,7 @@ So reserved. So gentlemanly. I nodded quickly, refusing to smile like an embarra
 
 It wasn't the first time I'd let someone draw blood, of course. I was glad to participate whenever the blood drives came to my college; I'd long gotten past any latent fears of doctors and needles by then. It seemed preposterous to develop any sort of personal attachment to my blood, so the issue of perceived 'violation' wasn't at all relevant, either. Very simple.
 
-This time, though, I was growing colder and sleepier than ever I'd been before. There was a brief moment when I thought of my blood, all my blood, draining into sterilized plastic, leaving me stiff and lifeless, and I wanted to panic. But the lethargy, coupled with discipline, was master here. A simple sleep, ever-so-brief, I sluggishly reminded myself. He is in control; there won't be any accidents. Relax. And above all, remember - we would never get another chance at a professional, objective observation of the transition from ghoul to... to Cainite.
+This time, though, I was growing colder and sleepier than ever I'd been before. There was a brief moment when I thought of my blood, all my blood, draining into sterilized plastic, leaving me stiff and lifeless, and I wanted to panic. But the lethargy, coupled with discipline, was master here. A simple sleep, ever-so-brief, I sluggishly reminded myself. He is in control; there won't be any accidents. Relax. And above all, remember - we would never get another chance at a professional, objective observation of the transition from ghoul to...to Cainite.
 
 And relax I did, and I set myself to remember.
 
@@ -178,7 +176,7 @@ His voice, echoing with the same unearthly clarity. 'How are you feeling?'
 
 My body is still cold, but it's a small thing. My mind blazes with heat. My tongue is thick, and my first attempt to form words fails - of course, no air in my lungs. Inhale. Then...
 
-'I... I feel... Cold.' The noises have died, but the heat remains, insistent and rhythmic. He nods, in that tiny, economical way of his. 'Mmm. Mmm-hmm. I'll admit some small worries as to whether or not you'd come through in a lucid state - so few do - but I knew that you likely had more than enough strength. If you don't mind, Doctor, I'd like to keep you restrained for just a little bit more; a formal precaution, you know.'
+'I... I feel... cold.' The noises have died, but the heat remains, insistent and rhythmic. He nods, in that tiny, economical way of his. 'Mmm. Mmm-hmm. I'll admit some small worries as to whether or not you'd come through in a lucid state - so few do - but I knew that you likely had more than enough strength. If you don't mind, Doctor, I'd like to keep you restrained for just a little bit more; a formal precaution, you know.'
 
 'I understand.' A tiny smile slides across my lips - I try to stop it, but it's no good. I feel like I'm drunk - but that's fine. Best to be drunk when you're with someone you trust, someone who'll never take advantage of you. 'I'll be glad to wait as long as you need.'
 
@@ -749,7 +747,7 @@ The agreement may have held, but it could not compel goodwill from beasts such a
 
 Our history is filled with memories of Malkavians who dared too much. The weavery is filled with shallow slashes,  wounds  remaining  from  the  Final  Deaths  of  foolish neonates. Few elders appreciate a prank that forces them to reexamine their place in the patterns of the world; none of them appreciates a prank that is done poorly. Remember that. A prince of Macedonia - I could not
 
-? G
+?G
 
 uncover his name - was targeted by a fool of our blood, a fool who went too far. In return, the prince gathered together all the Malkavians he could find in his domain, had them hurled into a well, and then poured fire down on  them.  For  centuries  afterward,  we  shunned  Macedonia.
 
@@ -2099,7 +2097,7 @@ Whether it was a condition you held in life or an odd side effect of the Embrace
 
 However, your deadened nerves also protect you from pain, allowing you to ignore your wounds until your flesh is literally blasted from your bones. All penalties for wound levels are halved, rounding down; in other words, you suffer no penalties until you reach the Wounded level, where you deduct only one die from your dice pools, and even when Crippled you can still act at a mere two-die penalty.
 
-If  the  Storyteller  is  willing,  it  might  be  particularly rewarding for the Storyteller to keep track of the character's health levels,  and  not  let  the  player  know  exactly  how  badly his character has been wounded. Even if the Malkavian stops to give herself a quick look-over, the Storyteller puts things in the most general terms (i. e., 'There's a number of holes in your chest, but you have no idea whether the bullets are lodged inside or not,' 'Your left arm refuses to move, although you're not sure why,' and so on). This is a fair amount of extra work on the Storyteller's behalf (particularly if in the interest of secrecy, the Storyteller makes all the Malkavian's soak rolls in secret), but can add a lot of tension and verisimilitude to the game.
+If  the  Storyteller  is  willing,  it  might  be  particularly rewarding for the Storyteller to keep track of the character's health levels,  and  not  let  the  player  know  exactly  how  badly his character has been wounded. Even if the Malkavian stops to give herself a quick look-over, the Storyteller puts things in the most general terms (i.e., 'There's a number of holes in your chest, but you have no idea whether the bullets are lodged inside or not,' 'Your left arm refuses to move, although you're not sure why,' and so on). This is a fair amount of extra work on the Storyteller's behalf (particularly if in the interest of secrecy, the Storyteller makes all the Malkavian's soak rolls in secret), but can add a lot of tension and verisimilitude to the game.
 
 MET System: Bruised characters with this Merit have their  full  T rait  levels  for  all  tied  challenges.  When  Wounded, they need not risk additional Traits to attempt challenges, although they still automatically lose tied challenges.
 
@@ -2525,7 +2523,7 @@ M/CRE N T A L /CR
 
 ENTAL/CR
 
-Aura  Perception),/. notdef
+Aura  Perception),/.notdef
 
 \_\_\_\_\_\_\_\_\_\_\_/CR
 
@@ -6089,7 +6087,7 @@ HAVEN:
 
 CONCEPT:
 
-Mortifier /. notdef
+Mortifier /.notdef
 
 of  the  Flesh
 
@@ -8619,7 +8617,7 @@ The projection  room  is  where  Jack  sleeps  away  his  days; it's  a  litter 
 
 movie in the theater. His collection leaves something to be desired, and is missing a few reels from several films but the brood doesn't mind much, as they're not really inclined to spend all their time watching movies anyway.
 
-Moncrief takes his repose in one of the tiny offices neatly  hidden  within  the  theater's  winding  back  passages. Almost all of the offices are crammed with mildewed crates  and  props  used  for  prior  'projects,'  but  several very real weapons - swords, axes, sharpened staves, a genuine steel scythe and even a grenade or two - are hidden amidst the debris. Moncrief's 'bedroom' is fairly cluttered as well, but has a desk clean enough for work, and a section of floor behind the desk that's clear enough to stretch out for the night. Moncrief maintains a small apartment across  the  street  where  he  can  shower,  do laundry and entertain guests (i. e., feed) as necessary, but he prefers to keep his haven nicely secure.
+Moncrief takes his repose in one of the tiny offices neatly  hidden  within  the  theater's  winding  back  passages. Almost all of the offices are crammed with mildewed crates  and  props  used  for  prior  'projects,'  but  several very real weapons - swords, axes, sharpened staves, a genuine steel scythe and even a grenade or two - are hidden amidst the debris. Moncrief's 'bedroom' is fairly cluttered as well, but has a desk clean enough for work, and a section of floor behind the desk that's clear enough to stretch out for the night. Moncrief maintains a small apartment across  the  street  where  he  can  shower,  do laundry and entertain guests (i.e., feed) as necessary, but he prefers to keep his haven nicely secure.
 
 And for his part, Garcia has yet to stake out any particular  area  of  the  Hyde  as  distinctly  his  own.  He usually throws his sleeping bag either behind the small concessions counter, or between rows of seats on the balcony. It's really all the same to him.
 
@@ -8659,7 +8657,7 @@ Background: The origins of Emmanuel Moncrief are  rather  hard  to  piece  toget
 
 Moncrief has demonstrated the skills of an expert physician,  an  erudite  scholar  and  a  gifted  poet.  He's  appar- ently able to draw on a steady source of money as needed, through either skullduggery or previous investments. He isn't particularly adept with modern technology - but then again, few elders are. And, of course, he seems to have developed an interesting taste for the short-subject film.  Curiously  enough,  Moncrief  denies  having  ever  been to Hollywood to learn his art; he even denies studying under any human film expert at all. Most presume that this is probably an ego issue, but then again.…
 
-The most interesting thing about Moncrief is that he has the acute senses of a carrion crow. Perhaps it's his Malkavian insight that leads him, but Moncrief was reportedly present for several key points in the last century and a half. He was present at several major battles of the American Civil War and both World Wars; he was in Lawrence, Kansas the night they buried their dead, and he was in Memphis the night Martin Luther King, Jr. Died. In all cases, he was apparently nothing more than an observer. Those vampires who learn this much tend to get fairly worried, for if all this is true, then what has Moncrief come to observe in their city?
+The most interesting thing about Moncrief is that he has the acute senses of a carrion crow. Perhaps it's his Malkavian insight that leads him, but Moncrief was reportedly present for several key points in the last century and a half. He was present at several major battles of the American Civil War and both World Wars; he was in Lawrence, Kansas the night they buried their dead, and he was in Memphis the night Martin Luther King, Jr. died. In all cases, he was apparently nothing more than an observer. Those vampires who learn this much tend to get fairly worried, for if all this is true, then what has Moncrief come to observe in their city?
 
 Image: Moncrief almost reminds some people of a Mephistophelean carnival barker; although his features aren't particularly pointed and his dark hair isn't particularly  slick,  he  gives  off  a  faint  aura  of  mildly sadistic showmanship. He speaks in almost completely unaccented English, although he's been known to adopt a slight casual drawl when appropriate. He distinctly avoids archaic clothing, preferring instead immaculate white suits in the latest fashionable cut, typically accented with an appropriately colorful undershirt or tie. His demeanor is faultlessly civil and insightful - and yet,  he  tends  to  leave  the  faint  impression  that  he's enjoying  a  private  joke  at somebody's expense.  Most people he deals with fervently hope it's not at theirs .
 
@@ -10063,7 +10061,7 @@ W W W . W H I T E -W O L F . C O M
 
 ISBN 1-56504-268-9
 
-WW2353  $14.95 U. S.
+WW2353  $14.95 U.S.
 
 PRINTED IN USA
 

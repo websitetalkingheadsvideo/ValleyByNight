@@ -1,0 +1,344 @@
+{
+    "clan": "Nosferatu",
+    "internal_name": "Nosferatu",
+    "book_title": "Revised - Clanbook Nosferatu",
+    "edition": "Revised",
+    "mechanics": {
+      "clan_weakness": {
+        "name": "Repulsive Appearance",
+        "type": "clan_weakness",
+        "tags": ["tabletop", "clan_weakness", "appearance"],
+        "system_text": "All Nosferatu have Appearance 0 and cannot improve it with experience points. They are hideously deformed, making it impossible to interact with mortals without causing terror or Masquerade breaches.",
+        "source_page": null,
+        "larp_status": "not_mapped",
+        "larp_reference": null,
+        "vbn_notes": "This is the core curse of the Nosferatu. In VbN, every interaction with mortals is a potential Masquerade risk. Nosferatu must rely on Obfuscate, Animalism, or intermediaries to interact with the mortal world. This shapes every aspect of their existence and forces them to build their society in hidden places."
+      },
+      "disciplines": [
+        {
+          "name": "Animalism",
+          "type": "discipline",
+          "tags": ["tabletop", "clan_favored", "survival", "information_gathering"],
+          "notes": "The primary Discipline of the Nosferatu, allowing them to communicate with and control animals. Essential for survival, information gathering, and maintaining their underground domains.",
+          "powers": [
+            {
+              "name": "Feral Whispers",
+              "rating": 1,
+              "system_text": "Allows communication with animals, understanding their basic thoughts and emotions, and giving simple commands.",
+              "tags": ["tabletop", "discipline_power", "communication"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Used for scouting, information gathering, and creating animal spies. Essential for Nosferatu who cannot interact with mortals directly."
+            },
+            {
+              "name": "Song in the Dark",
+              "rating": 6,
+              "system_text": "A legendary power that allows Nosferatu Methuselahs to command massive subterranean creatures or create vast underground disturbances. Requires burning Willpower points for extended periods.",
+              "tags": ["tabletop", "discipline_power", "methuselah", "legendary"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "This is a legendary power that may or may not exist. In VbN, it could be used to explain massive underground events, sinkholes, or the creation of vast warrens. Storytellers should use this sparingly and with great narrative weight."
+            }
+          ]
+        },
+        {
+          "name": "Obfuscate",
+          "type": "discipline",
+          "tags": ["tabletop", "clan_favored", "stealth", "survival"],
+          "notes": "The most commonly used Nosferatu Discipline, allowing them to hide from sight and impersonate others. Essential for survival given their appearance.",
+          "powers": [
+            {
+              "name": "Cloak of Shadows",
+              "rating": 1,
+              "system_text": "Allows the Nosferatu to become invisible or blend into shadows, making them undetectable to normal sight.",
+              "tags": ["tabletop", "discipline_power", "stealth"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Essential for Nosferatu survival. Used for surveillance, information gathering, and avoiding Masquerade breaches."
+            },
+            {
+              "name": "Mask of a Thousand Faces",
+              "rating": 2,
+              "system_text": "Allows the Nosferatu to appear as another person, though the illusion may be detected by Auspex or other supernatural senses.",
+              "tags": ["tabletop", "discipline_power", "disguise", "social"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Allows Nosferatu to interact with mortals and other Kindred while hiding their true appearance. Used by 'Skins' and information brokers to operate in the surface world."
+            }
+          ]
+        },
+        {
+          "name": "Potence",
+          "type": "discipline",
+          "tags": ["tabletop", "clan_favored", "combat", "construction"],
+          "notes": "Supernatural strength, used by Nosferatu for combat, construction of underground domains, and intimidation.",
+          "powers": [
+            {
+              "name": "Prowess",
+              "rating": 1,
+              "system_text": "Adds automatic successes to Strength-based rolls, including damage in combat.",
+              "tags": ["tabletop", "discipline_power", "combat", "physical"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Used for construction of warrens, combat, and hurling improvised weapons. Nosferatu often use Potence to collapse tunnels, move heavy objects, and defend their domains."
+            }
+          ]
+        }
+      ],
+      "backgrounds": [
+        {
+          "name": "Information Network",
+          "type": "background",
+          "tags": ["tabletop", "nosferatu_specific", "information"],
+          "system_text": "Represents the Nosferatu's connections to SchreckNET and other information networks. Each dot allows access to increasingly valuable and secret information, as well as the ability to spread or suppress information.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "This is the primary currency of Nosferatu power in VbN. Information Networks allow access to secrets, blackmail material, and the ability to influence events without direct confrontation. Higher levels grant access to SchreckNET and other global networks."
+        }
+      ],
+      "merits": [
+        {
+          "name": "Lizard Limbs",
+          "type": "merit",
+          "cost": 1,
+          "tags": ["tabletop", "merit", "physical", "nosferatu_specific"],
+          "system_text": "Your limbs are scaled and reptilian, allowing you to climb walls and surfaces with ease. Gain bonuses to climbing and may be able to regenerate lost digits.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Useful for navigating underground spaces and vertical surfaces. Adds to the Nosferatu's ability to move through their domain unseen."
+        },
+        {
+          "name": "Long Fingers",
+          "type": "merit",
+          "cost": 1,
+          "tags": ["tabletop", "merit", "physical", "nosferatu_specific"],
+          "system_text": "Your fingers are unnaturally long and dexterous, granting bonuses to lockpicking, pickpocketing, and fine manipulation tasks.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Nosferatu's role as information gatherers and infiltrators. Useful for breaking into secure locations and gathering evidence."
+        },
+        {
+          "name": "Sleep Unseen",
+          "type": "merit",
+          "cost": 2,
+          "tags": ["tabletop", "merit", "stealth", "survival"],
+          "system_text": "You can sleep in places that would normally be discovered, such as in plain sight or in areas others would search. Your resting form blends into the environment.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Essential for Nosferatu survival. Allows them to rest in relative safety even in dangerous or exposed locations."
+        },
+        {
+          "name": "Tough Hide",
+          "type": "merit",
+          "cost": 2,
+          "tags": ["tabletop", "merit", "physical", "defense"],
+          "system_text": "Your skin is thick and leathery, providing natural armor. Gain bonuses to soaking damage.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Nosferatu's adaptation to harsh underground environments. Useful for survival in combat and dangerous situations."
+        },
+        {
+          "name": "False Reflection",
+          "type": "merit",
+          "cost": 3,
+          "tags": ["tabletop", "merit", "obfuscate", "social"],
+          "system_text": "You can create a false reflection in mirrors, appearing as a normal human rather than your hideous true form.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Allows Nosferatu to interact with mortals who might see their reflection. Useful for maintaining the Masquerade and operating in the surface world."
+        },
+        {
+          "name": "Foul Blood",
+          "type": "merit",
+          "cost": 3,
+          "tags": ["tabletop", "merit", "combat", "intimidation"],
+          "system_text": "Your blood is particularly foul and toxic. Those who drink it may become sick or suffer other negative effects.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Can be used as a defense against diablerie or blood bonds. Also useful for intimidation and creating unique feeding challenges."
+        },
+        {
+          "name": "Reptile Buddy",
+          "type": "merit",
+          "cost": 3,
+          "tags": ["tabletop", "merit", "animalism", "companion"],
+          "system_text": "You have a ghouled reptile companion that serves as a spy, guard, or assistant. The creature is loyal and may have enhanced abilities from your vitae.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Nosferatu's connection to animals and their use of ghouled creatures as assistants. Useful for information gathering and defense."
+        },
+        {
+          "name": "Patagia",
+          "type": "merit",
+          "cost": 4,
+          "tags": ["tabletop", "merit", "physical", "mobility"],
+          "system_text": "You have wing-like membranes that allow limited gliding or flight. Gain bonuses to movement and may be able to access areas others cannot reach.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Allows Nosferatu to navigate vertical spaces and escape routes more easily. Useful for underground navigation and surprise attacks."
+        },
+        {
+          "name": "Rugged Bad Looks",
+          "type": "merit",
+          "cost": 5,
+          "tags": ["tabletop", "merit", "intimidation", "social"],
+          "system_text": "Your appearance is so hideous that it grants bonuses to intimidation and may cause fear in mortals. However, it also makes social interaction nearly impossible without Obfuscate.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Turns the Nosferatu curse into a weapon. Useful for intimidation and creating fear, but makes normal social interaction extremely difficult."
+        }
+      ],
+      "flaws": [
+        {
+          "name": "Blunt Fangs",
+          "type": "flaw",
+          "cost": 1,
+          "tags": ["tabletop", "flaw", "physical", "feeding"],
+          "system_text": "Your fangs are too blunt to pierce skin easily. Feeding takes longer and may cause more pain to the victim.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Makes feeding more difficult and time-consuming. May require alternative feeding methods or tools."
+        },
+        {
+          "name": "Infamous Autarkis",
+          "type": "flaw",
+          "cost": 1,
+          "tags": ["tabletop", "flaw", "social", "reputation"],
+          "system_text": "You are known for rejecting both Camarilla and Sabbat, making you a target for both sects. You may be hunted or ostracized by other Kindred.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the danger of being an independent Nosferatu. May limit access to resources and protection, but also grants freedom from sect obligations."
+        },
+        {
+          "name": "Stench",
+          "type": "flaw",
+          "cost": 1,
+          "tags": ["tabletop", "flaw", "physical", "social"],
+          "system_text": "You constantly emit a foul odor that cannot be masked. This makes stealth and social interaction more difficult.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Makes it harder to hide from mortals and interact socially. May require constant use of Obfuscate or isolation."
+        },
+        {
+          "name": "Anosmia",
+          "type": "flaw",
+          "cost": 2,
+          "tags": ["tabletop", "flaw", "physical", "sensory"],
+          "system_text": "You have lost your sense of smell, making it harder to detect threats, track prey, or identify substances.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Limits the Nosferatu's ability to use their enhanced senses for survival and information gathering."
+        },
+        {
+          "name": "Parasitic Infestation",
+          "type": "flaw",
+          "cost": 2,
+          "tags": ["tabletop", "flaw", "physical", "health"],
+          "system_text": "You are infested with parasites that feed on your vitae. You must spend extra blood points each night to maintain your body, and the parasites may spread to others.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Nosferatu's connection to decay and filth. Makes survival more difficult and may create social problems."
+        },
+        {
+          "name": "Enemy Brood",
+          "type": "flaw",
+          "cost": 3,
+          "tags": ["tabletop", "flaw", "social", "enemy"],
+          "system_text": "You have made enemies of another Nosferatu brood, who will actively work against you and may attempt to kill you.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Creates ongoing conflict and danger. May limit access to information networks and underground resources."
+        },
+        {
+          "name": "Necrophile",
+          "type": "flaw",
+          "cost": 3,
+          "tags": ["tabletop", "flaw", "psychological", "social"],
+          "system_text": "You are obsessed with dead bodies and may collect, mutilate, or display them. This creates social problems and may violate the Masquerade.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Nosferatu's connection to death and decay. Creates ongoing Masquerade risks and social isolation."
+        },
+        {
+          "name": "Withered Leg",
+          "type": "flaw",
+          "cost": 3,
+          "tags": ["tabletop", "flaw", "physical", "mobility"],
+          "system_text": "One of your legs is withered and non-functional. You move at half speed and suffer penalties to movement-based actions.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Makes navigation of underground spaces more difficult. May require assistance or alternative mobility methods."
+        },
+        {
+          "name": "Putrescent",
+          "type": "flaw",
+          "cost": 4,
+          "tags": ["tabletop", "flaw", "physical", "health"],
+          "system_text": "Your body continues to decay despite the Embrace. You constantly rot, suffer penalties to damage soaking, and body parts may fall off if you take damage.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Represents an extreme form of the Nosferatu curse. Makes survival extremely difficult and creates constant Masquerade risks."
+        },
+        {
+          "name": "Traitor",
+          "type": "flaw",
+          "cost": 4,
+          "tags": ["tabletop", "flaw", "social", "enemy"],
+          "system_text": "You are secretly betraying your allies, regularly leaking information about them. If discovered, other Nosferatu will kill you on sight.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Creates ongoing moral and social conflict. The character must balance their betrayal with survival, creating complex story opportunities."
+        },
+        {
+          "name": "Contagious",
+          "type": "flaw",
+          "cost": 5,
+          "tags": ["tabletop", "flaw", "physical", "masquerade"],
+          "system_text": "You carry virulent diseases that spread to any mortal you touch. This makes interaction with mortals extremely dangerous and creates constant Masquerade risks.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Makes the Nosferatu curse even more extreme. Forces the character to find alternative ways to interact with the world and creates ongoing story complications."
+        },
+        {
+          "name": "Incoherent",
+          "type": "flaw",
+          "cost": 5,
+          "tags": ["tabletop", "flaw", "physical", "communication"],
+          "system_text": "You are incapable of human speech due to physical deformity. You can only communicate through gestures, writing, or animal speech.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Makes social interaction extremely difficult. The character must rely on alternative communication methods, creating unique roleplaying challenges."
+        }
+      ]
+    }
+  }
+
+
+

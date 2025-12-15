@@ -1,0 +1,355 @@
+{
+    "clan": "Brujah",
+    "book_title": "Revised - Clanbook Brujah",
+    "edition": "Revised",
+    "approximate_source_file": "G:\\VbN\\reference\\Books_md_clean\\Clan Books\\Revised - Clanbook Brujah.md",
+    "sections": [
+      {
+        "id": "credits",
+        "title": "Credits",
+        "anchor": "## credits",
+        "type": "meta",
+        "notes": "Publication credits; included for completeness but not relevant for RAG."
+      },
+      {
+        "id": "special_thanks",
+        "title": "Special Thanks",
+        "anchor": "## speciAl thAnKs",
+        "type": "meta",
+        "notes": "Edition-specific acknowledgments; not relevant to lore."
+      },
+  
+      /* --- FICTION SEQUENCE --- */
+      {
+        "id": "fiction_a_night",
+        "title": "A Night Like Any Other",
+        "anchor": "## A night liKe Any Other",
+        "type": "fiction",
+        "notes": "Opening fiction establishing tone, rebellion themes, and personal Brujah perspective."
+      },
+      {
+        "id": "fiction_second_city",
+        "title": "The Second City",
+        "anchor": "## the secOnd city",
+        "type": "fiction",
+        "notes": "Historical-themed fiction with mythic Brujah tones."
+      },
+      {
+        "id": "fiction_troile",
+        "title": "Troile",
+        "anchor": "## trOile",
+        "type": "fiction",
+        "notes": "Foundational myth of the Brujah clan; highly important for ideological framing."
+      },
+      {
+        "id": "fiction_division_of_blood",
+        "title": "The Division of Blood",
+        "anchor": "## the divisiOn OF BlOOd",
+        "type": "fiction",
+        "notes": "Symbolic fiction representing Brujah identity fracturing over centuries."
+      },
+      {
+        "id": "fiction_carthage_fabled",
+        "title": "Fabled Carthage",
+        "anchor": "## FABled cArthAge",
+        "type": "fiction",
+        "notes": "Brujah golden age; crucial for Carthage Romanticism."
+      },
+      {
+        "id": "fiction_forgotten_idylls",
+        "title": "Forgotten Idylls",
+        "anchor": "## FOrgOtten idylls",
+        "type": "fiction",
+        "notes": "Short reflections on Brujah past cultures."
+      },
+      {
+        "id": "fiction_dark_ages",
+        "title": "The Dark Ages",
+        "anchor": "## the dArK Ages",
+        "type": "fiction",
+        "notes": "Flashback fiction tying into historical Brujah events."
+      },
+      {
+        "id": "fiction_irish_monastic",
+        "title": "The Irish Monastic Endeavor",
+        "anchor": "## the irish MOnAstic endeAvOr",
+        "type": "fiction",
+        "notes": "Reflects Brujah roles as educators and radicals in medieval Europe."
+      },
+      {
+        "id": "fiction_high_middle_ages",
+        "title": "The High Middle Ages",
+        "anchor": "## the high Middle Ages",
+        "type": "fiction",
+        "notes": "Historical anecdotes shaping Brujah modern identity."
+      },
+      {
+        "id": "fiction_clash_of_cultures",
+        "title": "The Clash of Cultures",
+        "anchor": "## the clAsh OF cultures",
+        "type": "fiction",
+        "notes": "Conflict-driven fiction about cultural tension and ideological struggle."
+      },
+      {
+        "id": "fiction_laurels_of_history",
+        "title": "Laurels of History",
+        "anchor": "## lAurels OF histOry",
+        "type": "fiction",
+        "notes": "A collection of vignettes representing Brujah historical pride and resentment."
+      },
+  
+      /* --- BIOGRAPHY FICTION CLUSTER --- */
+      {
+        "id": "fiction_bios",
+        "title": "Historical Biographies (Cluster)",
+        "anchor": null,
+        "type": "fiction",
+        "notes": "Each heading below refers to individual figures important to Brujah myth and identity.",
+        "children": [
+          "## Ibn-El-Sayyid",
+          "## The Real Robin Hood",
+          "## The Sun Never Sets…",
+          "## The American Revolutionary and Civil Wars",
+          "## strAnge BedFellOws",
+          "## Etheyra",
+          "## Iancu the Bloody",
+          "## Catherine Minot",
+          "## Ybalb",
+          "## Malchus Feith",
+          "## Salvador Garcia"
+        ]
+      },
+  
+      /* --- MODERN ERA & GEOPOLITICS --- */
+      {
+        "id": "contemporary_rabble",
+        "title": "The Contemporary Rabble",
+        "anchor": "## the  cOnteMpOrAry rABBle",
+        "type": "history",
+        "notes": "Defines modern Brujah identity; cornerstone for VbN's portrayal."
+      },
+      {
+        "id": "geography_europe",
+        "title": "Across Europe",
+        "anchor": "## AcrOss eurOpe",
+        "type": "history",
+        "notes": "Overview of Brujah presence and political struggles in Europe."
+      },
+      {
+        "id": "geography_new_world",
+        "title": "The New World",
+        "anchor": "## the new wOrld",
+        "type": "history",
+        "notes": "Covers Brujah migration to the Americas."
+      },
+      {
+        "id": "geography_frontier",
+        "title": "The Frontier",
+        "anchor": "## the FrOntier",
+        "type": "history",
+        "notes": "Brujah roles in early American frontier conflicts."
+      },
+      {
+        "id": "geography_north_america",
+        "title": "North America",
+        "anchor": "## nOrth AMericA",
+        "type": "history",
+        "notes": "Brujah spread and factionalism across the continent."
+      },
+      {
+        "id": "anarch_free_state",
+        "title": "The Anarch Free State",
+        "anchor": "## the AnArch Free stAte",
+        "type": "politics",
+        "notes": "Defines Brujah influence on Californian Anarch politics; relevant for Phoenix rebel ideology."
+      },
+      {
+        "id": "geography_russia",
+        "title": "Russia",
+        "anchor": "## russiA",
+        "type": "history",
+        "notes": "Highlights Brujah presence in revolutionary Russia."
+      },
+      {
+        "id": "brujah_council",
+        "title": "The Brujah Council and the Shadow Curtain",
+        "anchor": "## the BruJAh cOuncil And the shAdOw curtAin",
+        "type": "politics",
+        "notes": "High-level Brujah politics influencing global Anarch movements."
+      },
+  
+      /* --- IDEOLOGY --- */
+      {
+        "id": "notebook_kaplan",
+        "title": "From the Notebooks of Horace Kaplan",
+        "anchor": "## FrOM the nOteBOOKs OF hOrAce KAplAn",
+        "type": "ideology",
+        "notes": "Philosophical musings central to the clan’s ideological divide."
+      },
+      {
+        "id": "ideology_blocks",
+        "title": "Ideology Categories",
+        "anchor": null,
+        "type": "ideology",
+        "children": [
+          "## ideAlisM And icOnOclAsM",
+          "## icOnOclAsts",
+          "## ideAlists",
+          "## individuAlists"
+        ],
+        "notes": "Defines internal philosophical factions among the Brujah."
+      },
+  
+      /* --- RANTS --- */
+      {
+        "id": "rants_overview",
+        "title": "Rants and Raves",
+        "anchor": "## rAnts And rAves",
+        "type": "culture",
+        "notes": "A core Brujah ritual structure; crucial for VbN narrative events."
+      },
+      {
+        "id": "rants_subsections",
+        "title": "Rant Subsections",
+        "anchor": null,
+        "type": "culture",
+        "children": [
+          "## rAnts",
+          "## pOlicy rAnts",
+          "## deBAtes",
+          "## prestige rAnts",
+          "## rAlly rAnts",
+          "## spite rAnts",
+          "## rAves"
+        ]
+      },
+  
+      /* --- CULTURE STRUCTURE --- */
+      {
+        "id": "culture_subsections",
+        "title": "Brujah Cultural Structures",
+        "anchor": null,
+        "type": "culture",
+        "children": [
+          "## Other distinctiOns OF the BruJAh",
+          "## the AntitriBu",
+          "## the trAditiOns",
+          "## the MAsquerAde",
+          "## dOMAin",
+          "## prOgeny",
+          "## AccOunting",
+          "## hOspitAlity",
+          "## BruJAh And the  cAMArillA pOliticAl  MAchine",
+          "## the priMOgen",
+          "## the scOurge",
+          "## the hArpies",
+          "## the rABBle ' s  rucK  And run"
+        ]
+      },
+  
+      /* --- RELATIONS --- */
+      {
+        "id": "relations",
+        "title": "Clan Relations",
+        "anchor": null,
+        "type": "politics",
+        "children": [
+          "## AnArchs",
+          "## the Others",
+          "## AssAMites",
+          "## gAngrel",
+          "## giOvAnni",
+          "## lAsOMBrA",
+          "## MAlKAviAns",
+          "## nOsFerAtu",
+          "## rAvnOs",
+          "## setites",
+          "## tOreAdOr",
+          "## treMere",
+          "## tziMisce",
+          "## ventrue",
+          "## the cAMArillA",
+          "## the sABBAt",
+          "## the incOnnu",
+          "## And whAtever else yOu cAn nAMe"
+        ],
+        "notes": "Each subheading corresponds to how Brujah perceive or clash with other clans."
+      },
+  
+      /* --- MECHANICS --- */
+      {
+        "id": "mechanics",
+        "title": "Mechanical Systems",
+        "anchor": null,
+        "type": "mechanics",
+        "children": [
+          "## pulse OF undeAth (Auspex · ,  pOtence ··· )",
+          "## chArActer And trAits",
+          "## cOnsiderAtiOns FOr existing trAits",
+          "## AlternAte identity BAcKgrOund",
+          "## MilitAry FOrce BAcKgrOund",
+          "## new discipline pOwers",
+          "## the gentle reBuKe (pOtence level six)",
+          "## relentless pursuit (pOtence level six)",
+          "## stutter-step (celerity level seven)",
+          "## new Merits And FlAws",
+          "## cOMpAssiOnAte (4-pt. MentAl Merit)",
+          "## dynAMic persOnAlity (5-pt. sOciAl Merit)",
+          "## OBviOus predAtOr (2-pt. sOciAl FlAw)",
+          "## uncOntrOllABle (5-pt. MentAl FlAw)"
+        ],
+        "notes": "All mechanical details are marked as tabletop rules for RAG categorization."
+      },
+  
+      /* --- ARCHETYPES --- */
+      {
+        "id": "archetypes",
+        "title": "Archetypes",
+        "anchor": null,
+        "type": "character_creation",
+        "children": [
+          "## the cOnFederAte",
+          "## the hArpy-tO-Be",
+          "## the pAlAdin",
+          "## lA Belle dAMe sAns Merci",
+          "## the AnAchrOnisM",
+          "## net.Kindred",
+          "## the sMAll-tOwn sheriFF",
+          "## the digitAl MusiciAn",
+          "## the pugilist",
+          "## the AnArch ringleAder"
+        ]
+      },
+  
+      /* --- SAMPLE BROOD --- */
+      {
+        "id": "sample_brood",
+        "title": "Sample Brood – Hezekiah's Revival",
+        "anchor": null,
+        "type": "fiction",
+        "children": [
+          "## sAMple  BrOOd: hezeKiAh ' s  revivAl",
+          "## using hezeKiAh ' s  revivAl"
+        ]
+      },
+  
+      /* --- NOTABLE BRUJAH --- */
+      {
+        "id": "notable_brujah",
+        "title": "Notable Brujah",
+        "anchor": null,
+        "type": "lore",
+        "children": [
+          "## JAcK tArver",
+          "## BruJAh OF nOte",
+          "## sMiling JAcK",
+          "## dOMinic",
+          "## tArA, prince OF sAn diegO",
+          "## theO Bell",
+          "## cOven",
+          "## christOF rOMuAld"
+        ]
+      }
+    ]
+  }
+  

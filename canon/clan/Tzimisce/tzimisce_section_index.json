@@ -1,0 +1,356 @@
+{
+    "clan": "Tzimisce",
+    "internal_name": "Tzimisce",
+    "book_title": "Revised - Clanbook Tzimisce",
+    "edition": "Revised",
+    "approximate_source_file": "G:\\VbN\\reference\\Books_md_clean\\Clan Books\\Revised - Clanbook Tzimisce.md",
+    "sections": [
+      {
+        "id": "credits",
+        "title": "Credits",
+        "anchor": "## CreditS",
+        "type": "meta",
+        "notes": "Standard publication credits."
+      },
+      {
+        "id": "contents",
+        "title": "Contents",
+        "anchor": "## CONteNtS",
+        "type": "meta",
+        "notes": "Table of contents."
+      },
+      {
+        "id": "framing_fiction_winter_fiend",
+        "title": "Winter Fiend",
+        "anchor": "## wiNter FieNd",
+        "type": "fiction",
+        "notes": "Opening fiction about a German soldier's encounter with a Tzimisce during WWII."
+      },
+      {
+        "id": "history_progenitor_legacy",
+        "title": "The Progenitor's Legacy",
+        "anchor": "## THEPROGENIOR'S . LEGACY",
+        "type": "history",
+        "notes": "The origin of the Tzimisce as Embraced by Enoch (Ynosh)."
+      },
+      {
+        "id": "history_avatar_of_change",
+        "title": "The Avatar of Change",
+        "anchor": "## THEAVATAROFCHANGE",
+        "type": "history",
+        "notes": "The Eldest's nature as a creature of transformation and change."
+      },
+      {
+        "id": "history_leaving_enoch",
+        "title": "Leaving Enoch",
+        "anchor": "## LEAVINGENOCH",
+        "type": "history",
+        "notes": "The Eldest's departure from Enoch to explore the primordial world."
+      },
+      {
+        "id": "history_kupala",
+        "title": "Kupala",
+        "anchor": "## HupALA",
+        "type": "history",
+        "children": [
+          "## DLANTINGTHESEUD",
+          "## THELEGENDOFKUPALA"
+        ],
+        "notes": "The Eldest's pact with Kupala, the demon-spirit of the Carpathians."
+      },
+      {
+        "id": "history_flood_curse_exodus",
+        "title": "Flood, Curse and Exodus",
+        "anchor": "## FLOOD,CURSEANDEXODUS",
+        "type": "history",
+        "notes": "The Great Flood and Caine's curse that bound the Tzimisce to their native soil."
+      },
+      {
+        "id": "history_eldest_vanishes",
+        "title": "The Eldest Vanishes",
+        "anchor": "## THEELDESTVANISHES",
+        "type": "history",
+        "children": [
+          "## KOLDUNICSORCERY"
+        ],
+        "notes": "The Eldest's fall into torpor and the clan's withdrawal from the world."
+      },
+      {
+        "id": "history_driftwood_tzimisce",
+        "title": "Driftwood Tzimisce",
+        "anchor": "## DRIFTWOOD TZIMISCE",
+        "type": "history",
+        "notes": "The clan's isolation and the drift of individual Tzimisce."
+      },
+      {
+        "id": "history_eldest_fate_children_dracon",
+        "title": "The Eldest's Fate and the Children of Dracon",
+        "anchor": "## THEELDEST SFATEAND THECHILDRENOFDRACON",
+        "type": "history",
+        "notes": "The Eldest's survival through its progeny and the Dracon's role."
+      },
+      {
+        "id": "history_shaagra_new_direction",
+        "title": "Shaagra: The New Direction",
+        "anchor": "## SHAAGRA:THENEWDIRECTION",
+        "type": "history",
+        "children": [
+          "## THECATHFDRALOFFLESH",
+          "## THEZADRUGA"
+        ],
+        "notes": "Shaagra's Embrace and the Tzimisce's golden age."
+      },
+      {
+        "id": "history_rebellion",
+        "title": "The Rebellion",
+        "anchor": "## THEREBELLION",
+        "type": "history",
+        "children": [
+          "## FINALREVENGE"
+        ],
+        "notes": "The Tzimisce's internal conflicts and the rise of the Anarch Revolt."
+      },
+      {
+        "id": "history_anarch_revolt",
+        "title": "The Anarch Revolt",
+        "anchor": "## THEANARCHREVOLT",
+        "type": "history",
+        "children": [
+          "## MADRAMBLINGS?"
+        ],
+        "notes": "The Tzimisce's role in the Anarch Revolt and the breaking of blood bonds."
+      },
+      {
+        "id": "history_sabbat",
+        "title": "The Sabbat",
+        "anchor": "## THESABBAT",
+        "type": "history",
+        "children": [
+          "## LAMBACH'SPURPOSE",
+          "## THESABBAT'S STRUGGLE",
+          "## THEPUPpeTROOM",
+          "## THELANDOFDLENTY",
+          "## REMEMBERINGGUNNHILD"
+        ],
+        "notes": "The Tzimisce's role in founding the Sabbat and their spiritual contributions."
+      },
+      {
+        "id": "history_into_20th_century",
+        "title": "Into the 20th Century",
+        "anchor": "## INTOTHE 2OTHCENTURY",
+        "type": "history",
+        "children": [
+          "## FLFSHMASKS",
+          "## EARLYAMERICA",
+          "## WWII'SAFTERMATH",
+          "## TOMORROW'S TZIMISCE",
+          "## THECOMMUNISTLEOACY",
+          "## MODERNPRIMIVES"
+        ],
+        "notes": "The Tzimisce's adaptation to the modern world and their continued evolution."
+      },
+      {
+        "id": "culture_facts_of_unlife",
+        "title": "The Facts of Unlife",
+        "anchor": "## THEFACTSOFUINLIFE",
+        "type": "culture",
+        "children": [
+          "## HEADFIRSTINTOUINDEATH",
+          "## TWOHANDFULSOFDIRT",
+          "## BLOOD,OURJAILER",
+          "## OPTIONAI RULE: FLAVORINGBLOODBONDS",
+          "## NEVEREATYOUROWN"
+        ],
+        "notes": "The Tzimisce's understanding of their condition and their relationship with blood and soil."
+      },
+      {
+        "id": "culture_loyalties_of_clan",
+        "title": "Loyalties of the Clan",
+        "anchor": "## LOYALTIESOF THECLAN",
+        "type": "culture",
+        "children": [
+          "## THESOULOFTHESABBAT?",
+          "## THETZIMISCEHIERARCHY"
+        ],
+        "notes": "The Tzimisce's loyalties and their role within the Sabbat."
+      },
+      {
+        "id": "culture_factions_among_fiends",
+        "title": "Factions Among Fiends",
+        "anchor": "## FACTIONSAMONGFIENDS",
+        "type": "culture",
+        "children": [
+          "## THEOLDCLAN",
+          "## CHILDRENOFTHEDRACON",
+          "## NEOFFUDALISTS",
+          "## EHSANGUINISTS",
+          "## TZIMISCEANTITRIBU"
+        ],
+        "notes": "The major factions within the Tzimisce clan and their ideological differences."
+      },
+      {
+        "id": "culture_relations",
+        "title": "Relations with Other Clans",
+        "anchor": "## DREJUDICESOFTHETWICE-DEAD",
+        "type": "politics",
+        "children": [
+          "## ASSAMITES",
+          "## BRUIAH",
+          "## GANGREL",
+          "## HARBINGERSOFSRUILLS",
+          "## LASOMBRA",
+          "## SONAVH",
+          "## MALRAVIANS",
+          "## NOSFERATU",
+          "## PANDERS",
+          "## SALUBRI",
+          "## TREMERE",
+          "## VENTRUE",
+          "## SANIdIHL"
+        ],
+        "notes": "The Tzimisce's relationships with other Kindred clans and their views on each."
+      },
+      {
+        "id": "culture_paths_of_enlightenment",
+        "title": "Paths of Enlightenment",
+        "anchor": "## PATHSOF ENLIGHTENMENT",
+        "type": "culture",
+        "children": [
+          "## THFDATHOFMETAMORPHOSIS",
+          "## VIEWSONMETAMORPHOSIS",
+          "## THELESSERPATHS",
+          "## THEDATHOFCAINE",
+          "## THEPATHOFCATHARI",
+          "## THEDATHOFDEATHANDTHESOUL",
+          "## FROMTHEGROUNDUP:STORYTELLINGMETAMORPHOSIS",
+          "## ANINFERIORGOLCONDA",
+          "## THEPATHOFLIITH",
+          "## THEDATHOEDOWERANDTHEINNERVOICE"
+        ],
+        "notes": "The Paths of Enlightenment that guide the Tzimisce's spiritual quest for transcendence."
+      },
+      {
+        "id": "culture_revenants",
+        "title": "Revenants",
+        "anchor": "## REVENANTS",
+        "type": "culture",
+        "children": [
+          "## BRATOVTICH",
+          "## GRIMALDI",
+          "## ORERTUS",
+          "## VSOINVZ"
+        ],
+        "notes": "The revenant families that serve the Tzimisce and their unique characteristics."
+      },
+      {
+        "id": "culture_ghouls",
+        "title": "Ghouls",
+        "anchor": "## GHOULS",
+        "type": "culture",
+        "children": [
+          "## GHOULTEMPLATES",
+          "## HELLHOUND",
+          "## SZLACHTA",
+          "## Humanoid Selachta",
+          "## Animal Sedachta",
+          "## VOZHD"
+        ],
+        "notes": "The ghouls and servitors that serve the Tzimisce and their various forms."
+      },
+      {
+        "id": "mechanics_disciplines",
+        "title": "Tzimisce Disciplines",
+        "anchor": "## OTHFRDISCIPLINES",
+        "type": "mechanics",
+        "children": [
+          "## ANIMALISM",
+          "## AuspEx",
+          "## VICISSITUDE"
+        ],
+        "notes": "The Tzimisce's clan Disciplines and their unique applications."
+      },
+      {
+        "id": "mechanics_discipline_powers",
+        "title": "Discipline Powers",
+        "anchor": "## DISCIPLINEPOWERS",
+        "type": "mechanics",
+        "children": [
+          "## EYEOFTHESZLACHTA(ANIMALISMLEVELSIR)"
+        ],
+        "notes": "Advanced Discipline powers unique to the Tzimisce."
+      },
+      {
+        "id": "mechanics_merits_and_flaws",
+        "title": "Merits and Flaws",
+        "anchor": "## MERITSANDFLAWS",
+        "type": "mechanics",
+        "notes": "Tzimisce-specific Merits and Flaws that reflect their unique nature."
+      },
+      {
+        "id": "mechanics_derangements",
+        "title": "Derangements",
+        "anchor": "## DERANGEMENTS",
+        "type": "mechanics",
+        "children": [
+          "## HiSIRIONICS",
+          "## SERVANTSOFTHEBLOOD",
+          "## POST-TRAUMATICSTRESSDISORDER",
+          "## SERUALDYSFUNCTION"
+        ],
+        "notes": "Derangements common to the Tzimisce due to their unlifestyle and practices."
+      },
+      {
+        "id": "mechanics_koldunic_sorcery",
+        "title": "Koldunic Sorcery",
+        "anchor": "## ROLDUNICSORCERY",
+        "type": "mechanics",
+        "children": [
+          "## THEWAYOFSORROW",
+          "## THEFRUSTRATIONSOFNESTRECHA",
+          "## OPRICHNIRI",
+          "## THEINSULTSOFKRIVDA",
+          "## ·THEWEEPINGOFHRUCHINA",
+          "## ··THEMISFORTUNEOFCHERNOGOLOV",
+          "## THESTARVATIONOFMARENA"
+        ],
+        "notes": "Koldunic Sorcery, the Tzimisce art of elemental and spirit magic learned from Kupala."
+      },
+      {
+        "id": "characters_archetypes",
+        "title": "Character Archetypes",
+        "anchor": "## MODERNPRIMTIVE",
+        "type": "character_creation",
+        "notes": "Character archetypes for Tzimisce characters, including the Modern Primitive and other roles."
+      },
+      {
+        "id": "characters_sample_pack",
+        "title": "Sample Pack: The Chalice of Osseous Delights",
+        "anchor": "## SAMPLEPACR:THE CHALICEOFOSSEOUS DELIGHTS",
+        "type": "character_creation",
+        "children": [
+          "## MYCHILDRENAREMYBONES",
+          "## USINGTHESEDESPICABLE BASTARDS",
+          "## SHOVELHEADSUINITE!"
+        ],
+        "notes": "A sample Sabbat pack of Tzimisce and their dynamics."
+      },
+      {
+        "id": "characters_tzimisce_of_note",
+        "title": "Tzimisce of Note",
+        "anchor": "## TZIMISCEOFNOTE",
+        "type": "character_creation",
+        "children": [
+          "## RATTI-BEN,THESISTEROFBLOOD",
+          "## SASCHAVYHOS.CAINESANGEL",
+          "## BADUBISTRLITINERANT CARDINALAND FATHEROFTHEPURCHASFPACT",
+          "## MINERVASCHWALHE-WOJURIEWICZ. VOIVODEOFCLANTZIMISCE",
+          "## REGENTMFLINDAGALBRAITH",
+          "## ZACHARYSIRORSRV.REGENTOF THESABBAT Background:Long live Regent Oaibnuth"
+        ],
+        "notes": "Notable Tzimisce characters and their roles in Kindred society."
+      }
+    ]
+  }
+
+
+

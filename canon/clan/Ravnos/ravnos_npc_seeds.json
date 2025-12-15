@@ -1,0 +1,141 @@
+{
+    "clan": "Ravnos",
+    "internal_name": "Ravnos",
+    "book_title": "Revised - Clanbook Ravnos",
+    "edition": "Revised",
+    "npc_seeds": [
+      {
+        "id": "ravnos_wanderer_01",
+        "name": "Maya, the Restless Traveler",
+        "summary": "A neonate Ravnos who never stays in one place for more than a few nights. She's driven by an insatiable compulsion to steal small, seemingly worthless objects from every place she visits—a matchbook, a pen, a button. She claims she's searching for her svadharma but doesn't know what she's looking for.",
+        "role": "wanderer and seeker",
+        "age_category": "neonate",
+        "temperament": "restless, anxious, searching for meaning",
+        "possible_plots": [
+          "Maya arrives in town and immediately begins stealing small objects, drawing unwanted attention. The coterie must decide whether to help her, stop her, or ignore her.",
+          "Maya claims to have information about the Week of Nightmares, but she's clearly traumatized and her memories may be unreliable. Is she telling the truth, or is she just another lost soul?",
+          "Maya's compulsion has grown stronger, and she's started stealing more valuable items, threatening the Masquerade. The coterie must help her find her svadharma before she destroys herself."
+        ]
+      },
+      {
+        "id": "ravnos_trickster_02",
+        "name": "Raj, the Illusion Master",
+        "summary": "An ancilla Ravnos who uses Chimerstry to run elaborate confidence schemes. He's a master of deception who can create illusions so convincing that even other Kindred are fooled. His compulsion is to deceive authority figures, especially princes and primogen.",
+        "role": "con artist and manipulator",
+        "age_category": "ancilla",
+        "temperament": "charming, manipulative, always has an angle",
+        "possible_plots": [
+          "Raj approaches the coterie with an offer they can't refuse, but nothing is what it seems. Can they see through his illusions before it's too late?",
+          "Raj has been running a long con on a powerful elder, and the scheme is about to collapse. The coterie must decide whether to help him or expose him.",
+          "Raj's Chimerstry has become so powerful that he's losing touch with reality. He may create illusions that he believes are real, putting everyone around him in danger."
+        ]
+      },
+      {
+        "id": "ravnos_path_seeker_03",
+        "name": "Krishna, the Shilmulo",
+        "summary": "An ancilla Ravnos who follows the Path of Paradox and claims to have found his svadharma. He's a teacher and philosopher who seeks to guide other Ravnos to enlightenment, but his methods are often harsh and uncompromising. He views those who don't follow the path as dangerous and may seek to 'guide' them by force.",
+        "role": "philosopher and teacher",
+        "age_category": "ancilla",
+        "temperament": "zealous, uncompromising, believes he has the answers",
+        "possible_plots": [
+          "Krishna approaches the coterie with an offer to help them find their true purpose, but his methods may be more dangerous than helpful. Can they trust him?",
+          "Krishna has identified a Ravnos who refuses to follow the path and is planning to 'guide' them by force. The coterie must decide whether to intervene.",
+          "Krishna claims to have found a way to transcend the Ravnos curse, but his methods require a terrible sacrifice. Is he telling the truth, or is he just another fanatic?"
+        ]
+      },
+      {
+        "id": "ravnos_survivor_04",
+        "name": "Lakshmi, the Week of Nightmares Survivor",
+        "summary": "An elder Ravnos who survived the Week of Nightmares but was deeply traumatized by the experience. She's paranoid, jumpy, and constantly looking over her shoulder. She may have valuable information about what really happened, but she's too afraid to share it.",
+        "role": "witness and keeper of lost knowledge",
+        "age_category": "elder",
+        "temperament": "paranoid, traumatized, desperate to be believed",
+        "possible_plots": [
+          "Lakshmi approaches the coterie with information about the Week of Nightmares, but she's clearly traumatized and may not be entirely reliable. Can they trust her?",
+          "Lakshmi is being hunted by something that survived the Week of Nightmares, and she needs the coterie's help to stay alive. But what is hunting her, and why?",
+          "Lakshmi's paranoia has reached a breaking point, and she may be seeing threats that don't exist—or she may be right to be afraid. The coterie must help her distinguish between real and imagined dangers."
+        ]
+      },
+      {
+        "id": "ravnos_criminal_05",
+        "name": "Vikram, the Smuggler",
+        "summary": "A neonate Ravnos who embraces his compulsion to smuggle contraband across borders. He's built a network of contacts and resources that allows him to move goods (and sometimes people) across the country. His compulsion has made him successful, but it's also made him a target.",
+        "role": "smuggler and criminal entrepreneur",
+        "age_category": "neonate",
+        "temperament": "pragmatic, opportunistic, always looking for the next score",
+        "possible_plots": [
+          "Vikram approaches the coterie with an offer to help them move something (or someone) across the border, but the job is more dangerous than it seems.",
+          "Vikram's smuggling operation has drawn the attention of the authorities (or other Kindred), and he needs the coterie's help to cover his tracks or escape.",
+          "Vikram's compulsion has grown stronger, and he's started smuggling things he shouldn't—like other Kindred or dangerous artifacts. The coterie must stop him before he causes a disaster."
+        ]
+      },
+      {
+        "id": "ravnos_antitribu_06",
+        "name": "Sita, the Sabbat Rogue",
+        "summary": "A Ravnos antitribu who joined the Sabbat during the Anarch Revolts. She's a member of a nomad pack that specializes in psychological warfare, using Chimerstry to terrorize Camarilla cities before sieges. She's evangelical about the Sabbat's cause but may be questioning her loyalty after the Week of Nightmares.",
+        "role": "Sabbat warrior and psychological warfare specialist",
+        "age_category": "ancilla",
+        "temperament": "zealous, but questioning, torn between loyalty and doubt",
+        "possible_plots": [
+          "Sita's pack is planning a siege on a Camarilla city, and she approaches the coterie with an offer to defect—but can they trust her?",
+          "Sita has information about Sabbat plans that could help the Camarilla, but she's torn between her loyalty to the Sabbat and her growing doubts. Can the coterie convince her to share what she knows?",
+          "Sita's pack has been devastated by the Week of Nightmares, and she's the only survivor. She may be seeking revenge, redemption, or simply trying to understand what happened."
+        ]
+      },
+      {
+        "id": "ravnos_rroma_07",
+        "name": "Dimitri, the Rroma Traveler",
+        "summary": "An ancilla Ravnos who maintains connections to Rroma culture, traveling with or near Rroma groups while maintaining his Kindred identity. He's a bridge between two worlds, but he belongs to neither. His compulsion is to break Rroma taboos, which has made him an outcast among both Rroma and Kindred.",
+        "role": "cultural bridge and outcast",
+        "age_category": "ancilla",
+        "temperament": "lonely, conflicted, searching for belonging",
+        "possible_plots": [
+          "Dimitri approaches the coterie with information about Rroma culture and traditions, but his knowledge comes at a price. Can they trust him?",
+          "Dimitri's compulsion has caused him to break a major Rroma taboo, and now he's being hunted by both Rroma and Kindred. The coterie must help him escape or face the consequences.",
+          "Dimitri claims to have found a way to reconcile his Rroma heritage with his Kindred nature, but his methods may be dangerous or heretical. Is he telling the truth, or is he just another lost soul?"
+        ]
+      },
+      {
+        "id": "ravnos_treatment_organizer_08",
+        "name": "Arjun, the Treatment Coordinator",
+        "summary": "An ancilla Ravnos who coordinates 'The Treatment'—coordinated harassment campaigns against princes who expel Ravnos from their domains. He maintains a network of contacts across the country and can mobilize Ravnos for revenge when needed. He's pragmatic and ruthless, but he also understands the importance of not drawing too much attention.",
+        "role": "organizer and avenger",
+        "age_category": "ancilla",
+        "temperament": "pragmatic, ruthless, protective of the clan",
+        "possible_plots": [
+          "A prince has expelled a Ravnos from town, and Arjun is organizing The Treatment. The coterie must decide whether to help, stop it, or stay out of the way.",
+          "Arjun approaches the coterie with an offer to help them get revenge on a mutual enemy, but his methods may be more extreme than they're comfortable with.",
+          "Arjun's network has been compromised, and he needs the coterie's help to protect his contacts and maintain the Ravnos's ability to coordinate across the country."
+        ]
+      },
+      {
+        "id": "ravnos_elder_09",
+        "name": "Indira, the Last Brahman",
+        "summary": "An elder Ravnos of the Brahman jati (prophets and seers) who claims to be one of the last true followers of the Path of Paradox. She's a keeper of ancient knowledge and traditions, but she's also paranoid and may be seeing threats that don't exist. She may have information about the Week of Nightmares or the true nature of the Ravnos curse.",
+        "role": "keeper of knowledge and tradition",
+        "age_category": "elder",
+        "temperament": "wise but paranoid, protective of knowledge, may be unreliable",
+        "possible_plots": [
+          "Indira approaches the coterie with ancient knowledge about the Ravnos or the Week of Nightmares, but her information may be incomplete or distorted by her paranoia.",
+          "Indira is being hunted by something that wants to destroy the last of the Brahman knowledge, and she needs the coterie's help to protect it.",
+          "Indira claims to have found a way to prevent another Week of Nightmares, but her methods may require a terrible sacrifice. Is she telling the truth, or is she just another paranoid elder?"
+        ]
+      },
+      {
+        "id": "ravnos_chimera_victim_10",
+        "name": "Priya, the Lost in Illusion",
+        "summary": "A neonate Ravnos who has lost the ability to distinguish between reality and illusion due to overuse of Chimerstry. She may create illusions that she believes are real, or fail to recognize real things as real. She's a danger to herself and others, but she may also have valuable information hidden in her delusions.",
+        "role": "victim of Chimerstry and unreliable narrator",
+        "age_category": "neonate",
+        "temperament": "confused, frightened, may not be entirely aware of her condition",
+        "possible_plots": [
+          "Priya approaches the coterie with information that seems impossible, but it may be hidden in her delusions. Can they separate truth from illusion?",
+          "Priya's condition has worsened, and she's creating illusions that are putting others in danger. The coterie must help her regain her grip on reality before she hurts someone.",
+          "Priya claims to have seen something during the Week of Nightmares that no one else saw, but her delusions make it impossible to know if she's telling the truth. Is her information valuable, or is it just another illusion?"
+        ]
+      }
+    ]
+  }
+
+
+

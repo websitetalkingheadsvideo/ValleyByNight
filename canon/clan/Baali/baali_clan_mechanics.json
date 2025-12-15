@@ -1,0 +1,177 @@
+{
+    "clan": "Baali",
+    "internal_name": "Baali",
+    "book_title": "Clanbook: Baali",
+    "edition": "Dark Ages / Black Dog",
+    "mechanics": {
+      "clan_weakness": {
+        "name": "Infernal Taint",
+        "type": "clan_weakness",
+        "tags": ["tabletop", "clan_weakness", "infernal"],
+        "system_text": "The Baali bear the mark of their infernal service. They suffer aggravated damage from fire and sunlight like other Kindred, but they also bear a spiritual taint that makes them vulnerable to holy symbols, blessed ground, and the faith of true believers. Additionally, their connection to the sleeping entities makes them susceptible to certain forms of exorcism and banishment.",
+        "source_page": null,
+        "larp_status": "not_mapped",
+        "larp_reference": null,
+        "vbn_notes": "This weakness reflects the Baali's nature as servants of entities that are fundamentally opposed to divine or holy power. In VbN, this creates opportunities for conflict with religious institutions, holy ground, and characters with strong faith. Storytellers should use this weakness to create tension around places of worship, blessed objects, and characters who represent true faith."
+      },
+      "disciplines": [
+        {
+          "name": "Daimonion",
+          "type": "discipline",
+          "tags": ["tabletop", "clan_unique", "infernal", "bloodline"],
+          "notes": "The signature Discipline of the Baali, Daimonion allows them to channel the power of the sleeping entities they serve. It grants them abilities related to corruption, summoning, and infernal power. This Discipline is unique to the Baali and cannot be learned by other Kindred except through diablerie.",
+          "powers": [
+            {
+              "name": "Corruption",
+              "rating": 1,
+              "system_text": "Allows the Baali to sense and identify moral weaknesses, spiritual corruption, and the potential for corruption in others. They can also accelerate the process of corruption through subtle influence.",
+              "tags": ["tabletop", "discipline_power", "corruption", "perception"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Used to identify targets for corruption and to understand the moral landscape of a situation. Essential for the Baali's role as corrupters and manipulators."
+            },
+            {
+              "name": "Summoning",
+              "rating": 2,
+              "system_text": "Allows the Baali to call upon minor entities, spirits, or manifestations of the sleeping entities they serve. These summoned beings can perform tasks, provide information, or create effects as determined by the Storyteller.",
+              "tags": ["tabletop", "discipline_power", "summoning", "infernal"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Used to call upon the power of the sleeping entities, though such power comes with a price. Creates opportunities for dramatic scenes involving summoned entities, infernal manifestations, and the consequences of dealing with dark powers."
+            },
+            {
+              "name": "Infernal Power",
+              "rating": 3,
+              "system_text": "Allows the Baali to channel the raw power of the sleeping entities, manifesting as various effects: causing pain, inspiring fear, corrupting objects or places, or creating infernal phenomena.",
+              "tags": ["tabletop", "discipline_power", "infernal", "versatile"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "The Baali's primary tool for manifesting their infernal connection. Used to create dramatic effects, corrupt environments, and demonstrate their connection to dark powers. Should be used sparingly and with clear narrative purpose."
+            }
+          ]
+        },
+        {
+          "name": "Presence",
+          "type": "discipline",
+          "tags": ["tabletop", "clan_favored", "social", "influence"],
+          "notes": "The Baali use Presence to inspire devotion, fear, and corruption. They can attract followers, intimidate enemies, and create emotional responses that serve their purposes.",
+          "powers": []
+        },
+        {
+          "name": "Dominate",
+          "type": "discipline",
+          "tags": ["tabletop", "clan_favored", "mind_control", "manipulation"],
+          "notes": "The Baali use Dominate to control others, implant suggestions, and create long-term manipulation. They often combine Dominate with their corruption abilities to create lasting effects.",
+          "powers": []
+        }
+      ],
+      "rituals": [
+        {
+          "name": "Ritual of Sacrifice",
+          "type": "ritual",
+          "tags": ["tabletop", "sacrifice", "infernal", "core"],
+          "system_text": "A fundamental Baali ritual that involves the sacrifice of life, pain, or suffering to the sleeping entities. The nature and scale of the sacrifice determines the power gained or the favor earned. This ritual is central to Baali practice and varies widely in form and purpose.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "The core of Baali practice. Used to maintain their connection to the sleeping entities, gain power, and fulfill their obligations. Creates opportunities for dramatic scenes, moral challenges, and the revelation of Baali activities. Should be handled with care and respect for player comfort levels."
+        },
+        {
+          "name": "Ritual of Corruption",
+          "type": "ritual",
+          "tags": ["tabletop", "corruption", "infernal", "transformation"],
+          "system_text": "A ritual that accelerates or deepens the corruption of a target, whether mortal, Kindred, or place. The ritual involves specific components, incantations, and often the participation of the target in some form of transgression.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Used to corrupt others, turning them into unwitting agents or willing servants. Creates opportunities for stories about corruption, redemption, and the price of power. Should focus on the psychological and spiritual aspects of corruption, not just physical transformation."
+        },
+        {
+          "name": "Ritual of Summoning",
+          "type": "ritual",
+          "tags": ["tabletop", "summoning", "infernal", "dangerous"],
+          "system_text": "A complex ritual that calls upon the sleeping entities or their manifestations. The ritual requires specific components, timing, and often the participation of multiple Baali. The consequences of such summoning can be unpredictable and dangerous.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Used to call upon the power of the sleeping entities, though such power comes with great risk. Creates opportunities for dramatic scenes, infernal manifestations, and the consequences of dealing with dark powers. Should be used sparingly and with clear narrative purpose."
+        },
+        {
+          "name": "Ritual of Binding",
+          "type": "ritual",
+          "tags": ["tabletop", "binding", "infernal", "control"],
+          "system_text": "A ritual that binds a target to the Baali or to the sleeping entities they serve. The binding can be physical, spiritual, or both, and it creates a connection that can be used for control, communication, or sacrifice.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Used to create long-term connections and dependencies. Creates opportunities for stories about binding, obligation, and the price of service. Should focus on the psychological and spiritual aspects of binding, not just physical control."
+        }
+      ],
+      "merits_and_flaws": [
+        {
+          "name": "Infernal Patron",
+          "type": "merit",
+          "cost": 5,
+          "category": "supernatural",
+          "tags": ["tabletop", "merit", "infernal", "patron"],
+          "system_text": "The Baali has a direct connection to a specific sleeping entity or infernal power, granting them access to unique abilities, knowledge, or resources. This connection comes with obligations and risks, as the patron may demand service or sacrifice.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Baali's connection to the sleeping entities. Used to grant unique abilities or knowledge, but also creates obligations and risks. Should be used to create story hooks and complications."
+        },
+        {
+          "name": "Cult Following",
+          "type": "merit",
+          "cost": 3,
+          "category": "social",
+          "tags": ["tabletop", "merit", "social", "cult"],
+          "system_text": "The Baali has built a following of mortals or Kindred who serve them, either knowingly or unknowingly. This following provides resources, information, and protection, but it also creates vulnerabilities if discovered.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Baali's ability to build networks of followers. Used to provide resources and support, but also creates vulnerabilities. Should be used to create story hooks and complications."
+        },
+        {
+          "name": "Infernal Taint (Flaw)",
+          "type": "flaw",
+          "cost": 3,
+          "category": "supernatural",
+          "tags": ["tabletop", "flaw", "infernal", "vulnerability"],
+          "system_text": "The Baali's connection to infernal powers makes them particularly vulnerable to holy symbols, blessed ground, and the faith of true believers. They suffer additional penalties when exposed to such things, and they may be unable to enter certain places or interact with certain objects.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Baali's vulnerability to holy power. Used to create limitations and complications. Should be used to create tension and story hooks."
+        }
+      ],
+      "social_structures": [
+        {
+          "name": "Orders",
+          "type": "social_structure",
+          "tags": ["tabletop", "organization", "hierarchy", "culture"],
+          "system_text": "Baali organize themselves into orders, each with its own rituals, traditions, and methods. The most prominent orders include the Avatars of the Swarm, who worship plagues and insects, and various cults that serve specific entities. Each order has its own hierarchy, with priests, scholars, and corrupters each playing specific roles.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Baali's organizational structure. Used to create internal conflicts, hierarchies, and opportunities for story. Creates opportunities for intrigue, competition, and the tension between different orders and their methods."
+        },
+        {
+          "name": "The Three",
+          "type": "social_structure",
+          "tags": ["tabletop", "history", "lineage", "culture"],
+          "system_text": "The Baali trace their lineage to the first three Baali: Nergal, Moloch, and a third whose name remains unknown. Different orders and factions claim descent from different members of the Three, creating divisions and conflicts within the bloodline.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Baali's historical divisions. Used to create internal conflicts and opportunities for story. Creates opportunities for intrigue, competition, and the tension between different lineages and their methods."
+        }
+      ]
+    }
+  }
+
+
+

@@ -1,0 +1,367 @@
+{
+    "clan": "Giovanni",
+    "book_title": "Revised - Clanbook Giovanni",
+    "edition": "Revised",
+    "mechanics": {
+        "disciplines": [
+            {
+                "name": "Dominate",
+                "type": "discipline",
+                "tags": ["tabletop", "clan_favored", "mind_control"],
+                "notes": "The Giovanni's primary tool for controlling mortals and maintaining secrecy. Essential for managing herds, erasing memories, and ensuring obedience.",
+                "vbn_notes": "Useful for managing feeding, covering up Masquerade breaches, and controlling family members and ghouls. The Giovanni's excruciating Kiss makes Dominate essential for maintaining willing herds."
+            },
+            {
+                "name": "Necromancy",
+                "type": "discipline",
+                "tags": ["tabletop", "clan_favored", "signature", "death_magic"],
+                "notes": "The Giovanni's signature Discipline, allowing communication with and control over the dead. Multiple paths exist: Sepulchre, Bone, Ash, Vitreous, and specialized variants like Ghiberti and Pisanob Necromancy.",
+                "paths": [
+                    {
+                        "name": "Sepulchre Path",
+                        "type": "necromancy_path",
+                        "tags": ["tabletop", "necromancy", "spirit_control"],
+                        "notes": "The most common Giovanni Necromancy path, focusing on summoning and compelling wraiths.",
+                        "powers": [
+                            {
+                                "name": "Summon Soul",
+                                "rating": 2,
+                                "system_text": "Summons a known wraith to the Necromancer's location. Requires the wraith's name or a strong psychic impression.",
+                                "tags": ["tabletop", "necromancy_power", "summoning"],
+                                "vbn_notes": "Core Giovanni ability for gathering information from the dead. Use to create scenes where Giovanni consult with deceased ancestors or victims."
+                            },
+                            {
+                                "name": "Compel Soul",
+                                "rating": 3,
+                                "system_text": "Forces a summoned wraith to answer questions or perform tasks. The wraith can resist with Willpower.",
+                                "tags": ["tabletop", "necromancy_power", "compulsion"],
+                                "vbn_notes": "Represents the Giovanni's control over the dead. Creates moral tension when used on sympathetic wraiths."
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bone Path",
+                        "type": "necromancy_path",
+                        "tags": ["tabletop", "necromancy", "corpse_control"],
+                        "notes": "Focuses on animating and controlling dead bodies, creating zombies and other undead servants.",
+                        "powers": [
+                            {
+                                "name": "Apprentice's Brooms",
+                                "rating": 2,
+                                "system_text": "Animate corpses to perform simple tasks. The corpses follow basic commands but lack intelligence.",
+                                "tags": ["tabletop", "necromancy_power", "animation"],
+                                "vbn_notes": "Useful for creating undead servants, guards, or workers. The Giovanni often use these for manual labor or security."
+                            },
+                            {
+                                "name": "Shambling Hordes",
+                                "rating": 3,
+                                "system_text": "Animate multiple corpses simultaneously, creating a horde of zombies under the Necromancer's control.",
+                                "tags": ["tabletop", "necromancy_power", "mass_animation"],
+                                "vbn_notes": "Powerful but obvious. Use sparingly—it's a major Masquerade risk but creates dramatic moments."
+                            },
+                            {
+                                "name": "Soul Stealing",
+                                "rating": 4,
+                                "system_text": "Rips a soul from a living body, sending it to the Underworld while leaving the body alive but soulless.",
+                                "tags": ["tabletop", "necromancy_power", "soul_manipulation"],
+                                "vbn_notes": "Extremely powerful and morally reprehensible. Use to show the Giovanni's ultimate power over life and death. Victims become empty shells."
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ash Path",
+                        "type": "necromancy_path",
+                        "tags": ["tabletop", "necromancy", "shroud_manipulation"],
+                        "notes": "Manipulates the barrier between the living and dead worlds, thinning or thickening the Shroud.",
+                        "powers": [
+                            {
+                                "name": "Ex Nihilo",
+                                "rating": 4,
+                                "system_text": "Creates objects from nothing by drawing matter from the Underworld. Objects are temporary and fade after a scene.",
+                                "tags": ["tabletop", "necromancy_power", "creation"],
+                                "vbn_notes": "Useful for creating tools, weapons, or barriers on the fly. Objects have an otherworldly, unsettling quality."
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Vitreous Path",
+                        "type": "necromancy_path",
+                        "tags": ["tabletop", "necromancy", "perception"],
+                        "notes": "Allows the Necromancer to see and interact with the Underworld without crossing over.",
+                        "vbn_notes": "Essential for Giovanni who need to observe the dead without summoning them. Creates opportunities for spying and information gathering."
+                    },
+                    {
+                        "name": "Cenotaph Path (Ghiberti Necromancy)",
+                        "type": "necromancy_path",
+                        "tags": ["tabletop", "necromancy", "ghiberti", "fetter_manipulation"],
+                        "notes": "A specialized path developed by the Ghiberti family, focusing on detecting and manipulating fetters (catene) that bind wraiths to the living world.",
+                        "powers": [
+                            {
+                                "name": "A Touch of Death",
+                                "rating": 1,
+                                "system_text": "Detects whether an object or person has been touched by a ghost or affected by wraithly powers. Success determines duration of detection.",
+                                "tags": ["tabletop", "necromancy_power", "detection"],
+                                "vbn_notes": "Useful for investigating hauntings, detecting ghostly influence, or finding wraiths' fetters."
+                            },
+                            {
+                                "name": "Reveal the Catene",
+                                "rating": 2,
+                                "system_text": "Identifies fetters (objects or people important to wraiths) and can reveal the identity of connected wraiths.",
+                                "tags": ["tabletop", "necromancy_power", "fetter_detection"],
+                                "vbn_notes": "Powerful tool for controlling wraiths. Finding a wraith's fetter gives the Giovanni leverage over them."
+                            },
+                            {
+                                "name": "Tread Upon the Grave",
+                                "rating": 3,
+                                "system_text": "Senses the strength of the Shroud in an area, determining how close the Underworld is to the living world.",
+                                "tags": ["tabletop", "necromancy_power", "shroud_sensing"],
+                                "vbn_notes": "Helps Giovanni find haunted locations or areas where necromancy will be easier to perform."
+                            },
+                            {
+                                "name": "Death Knell",
+                                "rating": 4,
+                                "system_text": "Automatically senses when someone dies and becomes a wraith within half a mile. Can locate the new wraith with Willpower expenditure.",
+                                "tags": ["tabletop", "necromancy_power", "death_sensing"],
+                                "vbn_notes": "Allows Giovanni to find newly created wraiths, potentially capturing them before they become aware of their situation."
+                            },
+                            {
+                                "name": "Ephemeral Binding",
+                                "rating": 5,
+                                "system_text": "Creates artificial fetters by coating objects or people with the Necromancer's blood. The fetter functions normally for wraiths.",
+                                "tags": ["tabletop", "necromancy_power", "fetter_creation"],
+                                "vbn_notes": "Ultimate control tool. Allows Giovanni to bind wraiths to objects or people of their choosing, creating permanent servants."
+                            }
+                        ]
+                    }
+                ],
+                "vbn_notes": "The core of Giovanni power. Use necromancy to show their unique abilities, but remember that controlling the dead comes with risks—wraiths can turn on their masters, and spectres are especially dangerous."
+            },
+            {
+                "name": "Potence",
+                "type": "discipline",
+                "tags": ["tabletop", "clan_favored", "physical_power"],
+                "notes": "Supernatural strength. Many Giovanni receive Potence through the Proxy Kiss before the Embrace, giving them an advantage in physical confrontations.",
+                "vbn_notes": "Common among Giovanni enforcers and those who received the Proxy Kiss. Use to show the clan's physical power when intimidation fails."
+            }
+        ],
+        "rituals": [
+            {
+                "name": "Ritual of Pochtli",
+                "type": "ritual",
+                "level": 2,
+                "tags": ["tabletop", "ritual", "pisanob", "metaritual"],
+                "system_text": "A metaritual that must be cast in conjunction with another necromantic ritual or path power. Allows multiple Necromancers to pool their successes, creating more powerful effects. Requires all participants to know both this ritual and the power being enhanced.",
+                "source_page": null,
+                "larp_status": "not_mapped",
+                "larp_reference": null,
+                "vbn_notes": "Represents the Pisanob's collaborative approach to necromancy. Use for dramatic moments when multiple Giovanni work together on a major ritual."
+            },
+            {
+                "name": "Ritual of the Smoking Mirror",
+                "type": "ritual",
+                "level": 1,
+                "tags": ["tabletop", "ritual", "pisanob", "perception"],
+                "system_text": "Uses an obsidian mirror to see as ghosts do. Two aspects: Lifesight (read auras) or Deathsight (see wraiths and the Shadowlands, diagnose illnesses). Requires cutting the hand on the mirror's edge.",
+                "source_page": null,
+                "larp_status": "not_mapped",
+                "larp_reference": null,
+                "vbn_notes": "Pisanob specialty. Use to show their Aztec-influenced necromancy and their ability to see into both worlds."
+            },
+            {
+                "name": "Ritual of Teyolia",
+                "type": "ritual",
+                "level": 5,
+                "tags": ["tabletop", "ritual", "pisanob", "secret"],
+                "system_text": "Tears out a Kindred's heart and preserves the heart's blood (teyolia) for later diablerie or other uses. Performed at the Temple of Pochtli. No roll required unless interrupted.",
+                "source_page": null,
+                "larp_status": "not_mapped",
+                "larp_reference": null,
+                "vbn_notes": "Extremely rare and secret. Known only to Pochtli and his lieutenants. Use as a plot device for eliminating powerful enemies or preserving their power."
+            },
+            {
+                "name": "Minestra di Morte",
+                "type": "ritual",
+                "level": 1,
+                "tags": ["tabletop", "ritual", "information"],
+                "system_text": "Creates a stew from a piece of a dead body, vampiric vitae, and herbs. When consumed, reveals whether the person became a wraith or spectre after death.",
+                "source_page": null,
+                "larp_status": "not_mapped",
+                "larp_reference": null,
+                "vbn_notes": "Useful for determining if a victim became a ghost. Creates disturbing scenes of cannibalism and necromantic investigation."
+            },
+            {
+                "name": "The Hand of Glory",
+                "type": "ritual",
+                "level": 2,
+                "tags": ["tabletop", "ritual", "utility"],
+                "system_text": "Creates a mummified hand from a condemned murderer. When the fingertips are lit, all mortals in a household fall into deep sleep. Has no effect on supernatural creatures.",
+                "source_page": null,
+                "larp_status": "not_mapped",
+                "larp_reference": null,
+                "vbn_notes": "Useful for infiltrating mortal homes or havens. Classic necromantic tool that creates atmosphere."
+            },
+            {
+                "name": "Occhio d'Uomo Morto",
+                "type": "ritual",
+                "level": 2,
+                "tags": ["tabletop", "ritual", "permanent_modification"],
+                "system_text": "Replaces one of the Necromancer's eyes with an eye from a corpse whose soul became a wraith or spectre. Permanently grants Shroudsight. If from a spectre, also allows hearing spectre murmurs. Reduces Appearance by 1 and makes mundane vision worse (+1 difficulty).",
+                "source_page": null,
+                "larp_status": "not_mapped",
+                "larp_reference": null,
+                "vbn_notes": "Shows the price of power. The Giovanni who undergo this ritual are marked forever, both physically and by the ghost whose eye they stole."
+            },
+            {
+                "name": "Tempesta Scudo",
+                "type": "ritual",
+                "level": 3,
+                "tags": ["tabletop", "ritual", "defensive", "quick_cast"],
+                "system_text": "Quick-cast ritual (one combat turn). Performs a dance, bites through lip, spits blood in a circle. All spirits' actions within the circle are at +2 difficulty. Risen suffer +1 difficulty.",
+                "source_page": null,
+                "larp_status": "not_mapped",
+                "larp_reference": null,
+                "vbn_notes": "Useful defensive ritual for when things go wrong with summoned spirits. The quick casting makes it valuable in combat situations."
+            },
+            {
+                "name": "Bastone Diabolico",
+                "type": "ritual",
+                "level": 4,
+                "tags": ["tabletop", "ritual", "weapon_creation"],
+                "system_text": "Creates a club from a leg bone removed from a living person, then used to beat that person to death. The resulting weapon drains Pathos/Angst from wraiths and does aggravated damage to zombies. Wraiths can sense the weapon and avoid the wielder.",
+                "source_page": null,
+                "larp_status": "not_mapped",
+                "larp_reference": null,
+                "vbn_notes": "Powerful but repulsive. The Giovanni store many of these in Venice. Use to show the clan's willingness to commit atrocities for power."
+            },
+            {
+                "name": "Esilio",
+                "type": "ritual",
+                "level": 5,
+                "tags": ["tabletop", "ritual", "destructive", "quick_cast"],
+                "system_text": "Quick-cast ritual (one turn). Opens a vortex in the Necromancer's body that instantly destroys any wraith or spectre grabbed. Each success destroys one spirit. Costs blood, Willpower, and inflicts unsoakable lethal damage per success. Permanently reduces Humanity by 1 per use.",
+                "source_page": null,
+                "larp_status": "not_mapped",
+                "larp_reference": null,
+                "vbn_notes": "Ultimate weapon against wraiths, but at terrible cost. Use sparingly—it's a last resort that shows the Giovanni's willingness to destroy souls for power."
+            }
+        ],
+        "clan_weakness": {
+            "name": "The Curse of Lamia",
+            "type": "clan_weakness",
+            "tags": ["tabletop", "weakness", "feeding"],
+            "system_text": "The Giovanni's Kiss causes excruciating pain instead of ecstasy. Victims remember every moment of the feeding, making it harder to maintain herds and more likely to breach the Masquerade. The pain is so intense that victims often scream, requiring the Giovanni to use Dominate to erase memories or cover up the feeding.",
+            "source_page": null,
+            "larp_status": "not_mapped",
+            "larp_reference": null,
+            "vbn_notes": "The core Giovanni horror. Every feeding is an act of torture. This makes maintaining willing herds difficult and forces the Giovanni to rely on Dominate, blood bonds, or feeding from the dead. Use to create moral tension and show the price of their power."
+        },
+        "merits_and_flaws": [
+            {
+                "name": "Consanguineous Resistance",
+                "type": "merit",
+                "cost": 1,
+                "tags": ["tabletop", "merit", "supernatural", "blood_bond_resistance"],
+                "system_text": "The character cannot be blood bound by anyone who shares their mortal bloodline. A Giovanni-born Giovanni cannot be bound by other Giovanni-born Kindred, but can be bound by Dunsirn, Pisanob, etc. The Giovanni are suspicious of those who manifest this trait.",
+                "source_page": null,
+                "larp_status": "not_mapped",
+                "larp_reference": null,
+                "vbn_notes": "Useful for characters who want independence from family control, but creates suspicion and hostility from elders."
+            },
+            {
+                "name": "Proxy Kissed",
+                "type": "merit",
+                "cost": 4,
+                "tags": ["tabletop", "merit", "supernatural", "proxy_kiss"],
+                "system_text": "The character received the Proxy Kiss before the Embrace. Grants one free dot of Potence and indicates proper Giovanni Embrace. The character is partially blood bound to someone (possibly not their sire). Can be taken twice (8 points) to also gain a free dot of Fortitude, but increases blood bond complications.",
+                "source_page": null,
+                "larp_status": "not_mapped",
+                "larp_reference": null,
+                "vbn_notes": "Shows proper Giovanni tradition. The blood bond creates interesting story complications, especially if the domitor is not the sire."
+            },
+            {
+                "name": "Sanguine Incongruity",
+                "type": "merit",
+                "cost": 5,
+                "tags": ["tabletop", "merit", "physical", "rare"],
+                "system_text": "The character does not suffer from the Curse of Lamia—their Kiss causes normal damage, not excruciating pain. However, they acquire a cadaverous appearance that cannot be hidden and reduces Social challenges relying on Appearance.",
+                "source_page": null,
+                "larp_status": "not_mapped",
+                "larp_reference": null,
+                "vbn_notes": "Extremely rare (fewer than a dozen reported). The Giovanni are superstitious about this trait. Use to create unique characters who stand out even among the clan."
+            },
+            {
+                "name": "Inbred",
+                "type": "flaw",
+                "cost": 1,
+                "tags": ["tabletop", "flaw", "physical_mental", "variable"],
+                "system_text": "Variable cost (1-5 points) representing the effects of inbreeding common among the Giovanni. One point: minor physical defect (eyes too close, underbite). Three points: congenital health condition or crippling deformity. Five points: grossly disabling condition or permanent Derangement.",
+                "source_page": null,
+                "larp_status": "not_mapped",
+                "larp_reference": null,
+                "vbn_notes": "Reflects the Giovanni's practice of incestuous unions to maintain 'single blood.' Use to show the physical and mental costs of their obsession with purity."
+            },
+            {
+                "name": "Shadow Walker",
+                "type": "flaw",
+                "cost": 6,
+                "tags": ["tabletop", "flaw", "supernatural"],
+                "system_text": "The character is partially trapped in the Underworld. They can see and interact with wraiths easily, but have difficulty interacting with the living world. All Social challenges with mortals are at +1 difficulty, and the character may fade into the Underworld if not careful.",
+                "source_page": null,
+                "larp_status": "not_mapped",
+                "larp_reference": null,
+                "vbn_notes": "Represents Giovanni who have spent too much time in the Underworld or been affected by necromantic accidents. Creates isolation and otherworldly atmosphere."
+            }
+        ],
+        "backgrounds": [
+            {
+                "name": "Spirit Slaves",
+                "type": "background",
+                "tags": ["tabletop", "background", "wraiths"],
+                "system_text": "The character starts with one or more wraiths already bound to their service. Each dot represents one spirit, or can be used to enhance a spirit's power. Spirits are built as neonate vampires but with limited Disciplines. Common powers include Auspex, Movement of the Mind, Dementation, and Vicissitude (for transforming other wraiths).",
+                "source_page": null,
+                "larp_status": "not_mapped",
+                "larp_reference": null,
+                "vbn_notes": "Core Giovanni background. Use to show the character's necromantic power and their relationship with the dead. Spirits can provide information, perform tasks, or serve as guards."
+            }
+        ],
+        "family_branches": [
+            {
+                "name": "Main Giovanni Line",
+                "type": "family_branch",
+                "tags": ["tabletop", "family", "venice", "single_blood"],
+                "notes": "The original Giovanni family in Venice, led by Augustus and his direct descendants. They are 'single-blooded' (unico sangue) and consider themselves superior to other family branches.",
+                "vbn_notes": "The most powerful and traditional branch. They control the clan's ultimate goals and resources."
+            },
+            {
+                "name": "Dunsirn",
+                "type": "family_branch",
+                "tags": ["tabletop", "family", "scotland", "merchants"],
+                "notes": "Scottish branch focused on trade and commerce. Traditionally less focused on necromancy, but now being pressured to learn it for soul tithes.",
+                "vbn_notes": "Proud and independent. They resent being forced to learn necromancy and chafe under Venetian control."
+            },
+            {
+                "name": "Pisanob",
+                "type": "family_branch",
+                "tags": ["tabletop", "family", "mexico", "aztec_necromancy"],
+                "notes": "Mexican branch practicing Aztec-influenced necromancy. They require ritual trappings for their magic (+2 difficulty without them, can be overcome with Willpower). Currently struggling after the maelstrom destroyed many of their ghostly servants.",
+                "vbn_notes": "Suffering from the Underworld's chaos and conflicts with Sabbat and Harbingers of Skulls. Their unique necromancy style makes them valuable but vulnerable."
+            },
+            {
+                "name": "Milliners",
+                "type": "family_branch",
+                "tags": ["tabletop", "family", "america", "newer"],
+                "notes": "American branch, newer and less respected despite their successes. They've achieved much but receive little recognition from the main family.",
+                "vbn_notes": "Ambitious and resentful. They've proven their worth but are still treated as 'double-blooded' inferiors."
+            },
+            {
+                "name": "Ghiberti",
+                "type": "family_branch",
+                "tags": ["tabletop", "family", "africa", "necromancers"],
+                "notes": "African branch specializing in necromancy. They developed the Cenotaph Path and have adapted well to the maelstrom by working in conflict zones.",
+                "vbn_notes": "Skilled necromancers who've found opportunities in Africa's conflicts. Their unique path makes them valuable to the clan."
+            }
+        ]
+    }
+}
+
+

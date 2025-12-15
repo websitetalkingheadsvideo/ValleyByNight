@@ -1,5 +1,3 @@
---- book_title: "Revised - Clanbook Assamite" clan: "" edition: "" source_type: "clanbook" extraction_pipeline: "docling_v1 + markdown_cleanup_v1" ---
-
 <!-- image -->
 
 G
@@ -48,9 +46,9 @@ This book uses the supernatural for settings, characters and themes. All mystica
 
 For a free White Wolf catalog call 1-800-454-WOLF.
 
-Check out White Wolf online at http://www. white-wolf. com;  alt. games. whitewolf  and
+Check out White Wolf online at http://www.white-wolf.com;  alt.games.whitewolf  and
 
-rec. games. frp. storyteller PRINTED IN USA.
+rec.games.frp.storyteller PRINTED IN USA.
 
 ## speCial thanKs, dragonCon edition
 
@@ -104,15 +102,15 @@ And whereas
 
 Therefore, be it agreed between all Parties signed and witnessed hereunto that the following Articles shall stand as binding between all the Parties and their Progeny and Servitors, from this date perpetually...
 
-... The Clan Assamite shall refrain from taking the Blood of other Kindred, and as surety of this provision shall submit themselves to a ritual to be administered by the Elders of the Clan Tremere, whereby Kindred Blood shall be made poisonous to them...
+...The Clan Assamite shall refrain from taking the Blood of other Kindred, and as surety of this provision shall submit themselves to a ritual to be administered by the Elders of the Clan Tremere, whereby Kindred Blood shall be made poisonous to them...
 
-... The Clan Assamite shall remain peacefully in the territory ceded to them by the Camarilla, which they have historically claimed as their own. They shall seek no expansion of this territory, nor shall they permit any unrest of mortals within their territory to spread to other areas. They shall not travel, either singly or in groups, outside this territory, nor shall they have Retainers or Servitors of any kind travel outside this territory on their behalf. The Princes of the Camarilla have the perpetual right to call a Blood Hunt against any Assamite or Assamites within their fiefs, and need give no other reason for such a Blood
+...The Clan Assamite shall remain peacefully in the territory ceded to them by the Camarilla, which they have historically claimed as their own. They shall seek no expansion of this territory, nor shall they permit any unrest of mortals within their territory to spread to other areas. They shall not travel, either singly or in groups, outside this territory, nor shall they have Retainers or Servitors of any kind travel outside this territory on their behalf. The Princes of the Camarilla have the perpetual right to call a Blood Hunt against any Assamite or Assamites within their fiefs, and need give no other reason for such a Blood
 
 Hunt beyond membership of the Assamite bloodline...
 
-... The defenses of the castle of Alamut shall be dismantled to the point where the castle can no longer withstand a siege or other attack by the forces of the Camarilla. The Clan Assamite shall permit observers from the Camarilla to verify compliance with this provision. Further, any re-fortification of Alamut, or any attempt to establish a fortification elsewhere, shall be in breach of this treaty, and a worldwide Blood Hunt may be called against those committing the breach...
+...The defenses of the castle of Alamut shall be dismantled to the point where the castle can no longer withstand a siege or other attack by the forces of the Camarilla. The Clan Assamite shall permit observers from the Camarilla to verify compliance with this provision. Further, any re-fortification of Alamut, or any attempt to establish a fortification elsewhere, shall be in breach of this treaty, and a worldwide Blood Hunt may be called against those committing the breach...
 
-... The Camarilla undertakes to cease all action against the Clan Assamite, and not to violate the borderi2of its agreed territory without the sanction of a full Convocation of the Camarilla. The Clans of the Camarilla agree among themselves that they shall no longer seek to employ members of the Clan Assamite as hired assassins, and that those violating this provision shall forfeit the protection of their Clans and may be subject to a Blood Hunt. The Clan Assamite undertakes to cease any and all activity of its members as assassins for hire...
+...The Camarilla undertakes to cease all action against the Clan Assamite, and not to violate the borderi2of its agreed territory without the sanction of a full Convocation of the Camarilla. The Clans of the Camarilla agree among themselves that they shall no longer seek to employ members of the Clan Assamite as hired assassins, and that those violating this provision shall forfeit the protection of their Clans and may be subject to a Blood Hunt. The Clan Assamite undertakes to cease any and all activity of its members as assassins for hire...
 
 Clanbook: assamite
 
@@ -402,7 +400,7 @@ Haqim was less than pleased with this  development. He left the First City to re
 
 The final straw fell during the Peloponnesian War. Two centuries earlier, a cabal of viziers had taken up residence in Athens, entranced by that city's centers of worship and learning. A similar group of warriors had entered Sparta at the sufferance of the city's Ventrue prince at approximately the same time. When Corinth convinced Sparta's elders to enter the Peloponnesian War against Athens, both groups quickly took direct hands  in  the  conflict  in  order  to  ensure  victory  for 'their' mortals.
 
-In  413  B. C.,  when  the  Spartans  destroyed  the Athenian fleet, the Athenian Children of Haqim sent emissaries to Alamut to plead for Haqim's favor and to gather allies among the warrior caste to support their cause. Upon hearing of this, the Spartan warriors sent their own representatives. The delegations arrived at the Mountain on the same night and fighting broke out among their mortal entourages. By the time the silsila had restored order, every Greek was dead and five Children lay among the fallen.
+In  413  B.C.,  when  the  Spartans  destroyed  the Athenian fleet, the Athenian Children of Haqim sent emissaries to Alamut to plead for Haqim's favor and to gather allies among the warrior caste to support their cause. Upon hearing of this, the Spartan warriors sent their own representatives. The delegations arrived at the Mountain on the same night and fighting broke out among their mortal entourages. By the time the silsila had restored order, every Greek was dead and five Children lay among the fallen.
 
 Haqim flew into a towering fury, nearly destroying the Great Hall in his wrath. Once he had regained the power of speech, he summoned the survivors before him. In a shattering tirade, he denounced both groups, the web of European Cainite intrigue in which they had allowed themselves to become ensnared. Then he denounced all of his Children for succumbing to the lure of the Jyhad.
 
@@ -416,13 +414,13 @@ All three castes  quickly  asserted  that  Haqim's  words had not applied to the
 
 In the end, the warriors triumphed, less through diplomacy than via intimidation and a willingness to spill more vitae. The sorcerers might have been able to win the night, had they so desired, but the moderate Amr of the time counseled neutrality. In exchange for their withdrawal from the conflict, the sorcerers gained certain concessions, the greatest of which was the viziers' continued survival as a caste. The struggle left the scholars bloodied and battered, but the sorcerers forced the  warriors  to  concede  their  opponents'  continued value to the Children as a whole.
 
-Haqim appeared to the clan about once a century after  that  incident,  acting  as  occasional  guardian  or advisor but never leading. He never commented on the state of affairs within the Children - or, at least, those to  whom he spoke kept the conversations to themselves. He last visited Alamut in 68 B. C., staying in the Great Library for close to six months before departing. Those present at the time noted that the Ancestor seemed disturbed, even openly frightful, and that he spent an inordinate amount of time reviewing the clan's earliest records. He left the Mountain on the night before the first Roman troops marched into Asia Minor to begin Rome's annexation of Syria and Palestine.
+Haqim appeared to the clan about once a century after  that  incident,  acting  as  occasional  guardian  or advisor but never leading. He never commented on the state of affairs within the Children - or, at least, those to  whom he spoke kept the conversations to themselves. He last visited Alamut in 68 B.C., staying in the Great Library for close to six months before departing. Those present at the time noted that the Ancestor seemed disturbed, even openly frightful, and that he spent an inordinate amount of time reviewing the clan's earliest records. He left the Mountain on the night before the first Roman troops marched into Asia Minor to begin Rome's annexation of Syria and Palestine.
 
-I should note that, with regard to dates, I have taken a minor liberty in editing this history. Most non-Western Children of Haqim adhere to the Muslim calendar, not the Christian one. This system of dating begins its count in A. D. 622, the year in which Mohammed led his followers forth from Mecca in the journey now known as the 'Hijra.' For the sake of the intended audience, which largely reckons its dates by the Christian calendar, I have made appropriate transpositions.
+I should note that, with regard to dates, I have taken a minor liberty in editing this history. Most non-Western Children of Haqim adhere to the Muslim calendar, not the Christian one. This system of dating begins its count in A.D. 622, the year in which Mohammed led his followers forth from Mecca in the journey now known as the 'Hijra.' For the sake of the intended audience, which largely reckons its dates by the Christian calendar, I have made appropriate transpositions.
 
 The Ancestor appeared to the Children twice more after that. The first time was in Antioch a century later. Haqim entered the city with little fanfare (or as little as was possible for a being of his power) and inquired into the researches of the sorcerers who dwelt there.
 
-The second was in the period between A. D. 117 and A. D. 120, during which he made a score of stops on a journey that took him westward from the Holy Land. In early 121, a party of mercenary warriors met Haqim in the British Isles, apparently while he was involved in an extended philosophical discussion with the Ventrue  elder  known  as  Mithras.  Shortly  thereafter,  the Ancestor vanished. All subsequent attempts to locate him have failed.
+The second was in the period between A.D. 117 and A.D. 120, during which he made a score of stops on a journey that took him westward from the Holy Land. In early 121, a party of mercenary warriors met Haqim in the British Isles, apparently while he was involved in an extended philosophical discussion with the Ventrue  elder  known  as  Mithras.  Shortly  thereafter,  the Ancestor vanished. All subsequent attempts to locate him have failed.
 
 ## nightmares  oF empire
 
@@ -434,7 +432,7 @@ The Children of Haqim never had an extensive role in the Roman empire's life or 
 
 In truth, prior to the fall of Carthage, the Children as a whole paid little attention to Rome. It was no more than a distant rumbling on the horizon of history, and Iran,  Egypt,  Aram  and  other  parties  disputed  lands  closer to  home.  With  these  disputes  came  various  Cainite claimants - and other forces as well.
 
-After the Third Punic War, however, the Children could no longer ignore the power that had all but annihilated the North African branch of the clan. The elders of Alamut examined Rome, and at that empire's heart  they  saw  a  festering  web  of  Cainite  influence that spoke of greater threats yet to arise. For their part, Rome's own Cainite inhabitants remembered the swords that had aided the Brujah cause during the long wars in Carthage, and their rising strength washed away any fear they might have otherwise had of the Children. Rome needed little urging to turn its acquisitive eyes eastward. By the middle of the second century B. C.,
+After the Third Punic War, however, the Children could no longer ignore the power that had all but annihilated the North African branch of the clan. The elders of Alamut examined Rome, and at that empire's heart  they  saw  a  festering  web  of  Cainite  influence that spoke of greater threats yet to arise. For their part, Rome's own Cainite inhabitants remembered the swords that had aided the Brujah cause during the long wars in Carthage, and their rising strength washed away any fear they might have otherwise had of the Children. Rome needed little urging to turn its acquisitive eyes eastward. By the middle of the second century B.C.,
 
 G
 
@@ -444,7 +442,7 @@ Rome was never a place of particular interest for the Children, but the Parthian
 
 Some of those few Children who held to the Jewish faith post-Embrace became active against Rome at least a century earlier than their brethren of different faiths. The soil of Palestine reportedly still holds several torpid elders of our clan who fell during the revolt there - and the ashes of several more elders of other clans who fell to their fangs and blades.
 
-By the middle of the second century A. D., events surrounding Rome had forced the Children to coexist with other Cainites or perish. Egypt, Syria, Armenia and other outlying lands were now under Roman control. Ventrue, Toreador, Malkavians and others came to  the  lands  of  the  Children.  In  the  Cainite  courts of  Alexandria,  Damascus  and  other  great  cities,  the castes emulated the European political dance, trading favors and secrets in search of leverage and power. The Parthians and their superb cavalry held the Romans at bay, but the eastern coast of the Mediterranean was now home to far more undead, and the bloody flower of the Jyhad slowly blossomed again.
+By the middle of the second century A.D., events surrounding Rome had forced the Children to coexist with other Cainites or perish. Egypt, Syria, Armenia and other outlying lands were now under Roman control. Ventrue, Toreador, Malkavians and others came to  the  lands  of  the  Children.  In  the  Cainite  courts of  Alexandria,  Damascus  and  other  great  cities,  the castes emulated the European political dance, trading favors and secrets in search of leverage and power. The Parthians and their superb cavalry held the Romans at bay, but the eastern coast of the Mediterranean was now home to far more undead, and the bloody flower of the Jyhad slowly blossomed again.
 
 ## Carthage
 
@@ -462,7 +460,7 @@ And yet, when the first warriors who wished to be judges again arrived in Cartha
 
 No two accounts agree on the exact point at which the Carthaginian Children discarded their heritage and joined the Baali's rites that the most decadent of the Brujah conducted. At some point between the First and Second Punic Wars, however, a visiting warrior discovered this treachery when his childe, flushed with the excitement of the forbidden, invited him to partake of the blood of a childe sacrifice. He cut his way out of the city and fled to Alamut, his steps dogged every inch of the way by a pack of maddened traitors and their allies and debauched servants. The initial response was swift and bloody, as a cabal of sorcerers turned the revenants back upon their masters, some of whom had remained behind in Carthage.
 
-By the end of the Second Punic War, warriors and sorcerers cautiously crept into Carthage, guided by the remaining viziers who had not succumbed to the city's madness. In a city so filled with Cainites, they could easily disguise their intentions and, in some cases, conceal their presence for months or even years. When Rome landed its finishing blow in 146 B. C., the loyal Children silently  struck  at  their  decadent,  vitae-bloated  brethren, crippling their support of the Carthaginian Brujah at a time when the city's masters needed every ally.
+By the end of the Second Punic War, warriors and sorcerers cautiously crept into Carthage, guided by the remaining viziers who had not succumbed to the city's madness. In a city so filled with Cainites, they could easily disguise their intentions and, in some cases, conceal their presence for months or even years. When Rome landed its finishing blow in 146 B.C., the loyal Children silently  struck  at  their  decadent,  vitae-bloated  brethren, crippling their support of the Carthaginian Brujah at a time when the city's masters needed every ally.
 
 Unfortunately for the Children who were within the city, the Roman forces cared nothing for hidden allies (or even enemies of their enemies). Only a ragged handful of survivors escaped Carthage's fall. The Ventrue and Malkavians and their allies cut down the rest along with every other Cainite within the walls. We could not forgive the Romans, for they knew, and they did nothing to spare those of our blood who stood to assist them. Nor could we forgive them the deaths of those Children who stood with Carthage, for, misguided though they may have been, they were our brethren, and it was our place to punish them.
 
@@ -700,7 +698,7 @@ Very few Assamites use the blood bond to command loyalty from their childer. Mos
 
 ## haQim
 
-The  clan  hierarchy  begins,  of  course,  with  the Cainite from whom his descendants take their collective name: Haqim, the Assamite Antediluvian. Unlike those of many clan founders, Haqim's name - and even his appearance - are well-documented (though no one believes that Haqim is the name he bore at birth). His last recorded appearance was in A. D. 121 in the British Isles, though the clan catalogues at least one 'Haqim sighting'  a  decade.  Over  the  centuries  since,  several high-ranking clan  members  claim  to  have  received  direct communication from him, ur-Shulgi  being  only  the  latest.
+The  clan  hierarchy  begins,  of  course,  with  the Cainite from whom his descendants take their collective name: Haqim, the Assamite Antediluvian. Unlike those of many clan founders, Haqim's name - and even his appearance - are well-documented (though no one believes that Haqim is the name he bore at birth). His last recorded appearance was in A.D. 121 in the British Isles, though the clan catalogues at least one 'Haqim sighting'  a  decade.  Over  the  centuries  since,  several high-ranking clan  members  claim  to  have  received  direct communication from him, ur-Shulgi  being  only  the  latest.
 
 In  theory,  the  Children  of  Haqim  are  still  one family,  with  Haqim  as  their  patriarch.  In  practice, Haqim is far more myth than reality to most modern members of the clan. Regardless of illuminations and original copies of writings, the Ancestor just isn't real to those whose grandsires never even met him. On the other hand, many active members of his brood claim personal acquaintanceship with Haqim - al-Ashrad and ur-Shulgi among them - enough that any neonate who has both the curiosity and the courage can hear several firsthand accounts of him.
 
@@ -724,7 +722,7 @@ The last Eldest was Jamal, a warrior who held the Black  Throne  from  1494  to 
 
 ## the du ' at
 
-The du'at council is traditionally the assembly of the heads of the three Assamite castes: the Caliph of the warriors, the Vizier of the viziers, and the Amr of the sorcerers. It is the clan's observed authority on matters of policy. Alamut's records put the formation of the du'at as a formal body at approximately 2000 B. C. The du'at was the Eldest's closest circle of advisors, though council  members  often  drew  information  from  their subordinate specialists. The council also collectively arbitrated  crosscaste  disputes  that  threatened  the  stability of the Children as a whole.
+The du'at council is traditionally the assembly of the heads of the three Assamite castes: the Caliph of the warriors, the Vizier of the viziers, and the Amr of the sorcerers. It is the clan's observed authority on matters of policy. Alamut's records put the formation of the du'at as a formal body at approximately 2000 B.C. The du'at was the Eldest's closest circle of advisors, though council  members  often  drew  information  from  their subordinate specialists. The council also collectively arbitrated  crosscaste  disputes  that  threatened  the  stability of the Children as a whole.
 
 With  the  destruction  of  one  member  and  the subsequent departure of the other two, it is unlikely that a du'at will be re-formed in the foreseeable future. Al-Ashrad currently seeks to restructure his followers into an organization more palatable to the Camarilla, and secret clan councils have no place in such a body. Ur-Shulgi refuses to acknowledge a new Caliph, Amr or Vizier  among  the  loyalists,  apparently  preferring  to  allow its  followers  to  sort  themselves  out  without  its  guidance.
 
@@ -772,7 +770,7 @@ After  the  Treaty  of  Tyre,  one  of  the  last  acts  of the then-Eldest was 
 
 Traditionally,  the  Amr  is  re-selected  every  year  on  the night of  the  vernal  equinox.  Every  sorcerer  who  is  present at Alamut participates in a night-long ritual divination that reveals the identity of the sorcerer who is best suited to lead his brethren for the next cycle of the stars.
 
-Since  A. D.  120,  the  name  al-Ashrad  has  been synonymous with the title of Amr. There has been no other for close to two millennia, and many Assamites cannot conceive of the greatest magician in the world being ousted from the position that he himself defined.
+Since  A.D.  120,  the  name  al-Ashrad  has  been synonymous with the title of Amr. There has been no other for close to two millennia, and many Assamites cannot conceive of the greatest magician in the world being ousted from the position that he himself defined.
 
 ## the silsila
 
@@ -1326,7 +1324,7 @@ A few all-Assamite antitribu packs still claim membership in the Sabbat, mostly 
 
 ## the dispossessed
 
-More  a  catchall  category  than  a  rigidly  defined faction,  the  dispossessed  are  traditionally  Assamites who choose their own paths over the clan's internal hierarchy. The first recorded use of the term dates to the eighth century B. C., when the warrior caste's historian, Thucimia, wrote of her rebellious childe as 'a wanton and wild thing, heeding no authority save that of the spear, dispossessed by his own hands and lips of the safety of Alamut's hearth and the comradeship of Haqim's Children.' In the early Middle Ages, dispossessed warriors seeking mercenary employment in the Cainite courts of Europe gave birth to the first tales that cast the Assamites as hired killers. Several centuries later,  a  group  of  honor-conscious  individuals  briefly earned the label of 'dispossessed' before establishing themselves as the Assamite antitribu .  Assamites who claimed Inconnu membership were always considered dispossessed, as were those rare few who gave the Camarilla their loyalty or fled east to attempt alliance and coexistence with the Cathayans.
+More  a  catchall  category  than  a  rigidly  defined faction,  the  dispossessed  are  traditionally  Assamites who choose their own paths over the clan's internal hierarchy. The first recorded use of the term dates to the eighth century B.C., when the warrior caste's historian, Thucimia, wrote of her rebellious childe as 'a wanton and wild thing, heeding no authority save that of the spear, dispossessed by his own hands and lips of the safety of Alamut's hearth and the comradeship of Haqim's Children.' In the early Middle Ages, dispossessed warriors seeking mercenary employment in the Cainite courts of Europe gave birth to the first tales that cast the Assamites as hired killers. Several centuries later,  a  group  of  honor-conscious  individuals  briefly earned the label of 'dispossessed' before establishing themselves as the Assamite antitribu .  Assamites who claimed Inconnu membership were always considered dispossessed, as were those rare few who gave the Camarilla their loyalty or fled east to attempt alliance and coexistence with the Cathayans.
 
 The greatest numbers of dispossessed existed during the Long Night. In this era, perhaps as many as one in three Assamites was dispossessed, though the clan  has  never  kept  exact  records  of  the  number  of newly Embraced members who turned their backs on Haqim's legacy. This population boom could not last, however, and the nascent Camarilla's crusade against the Assamites fell heavily on the dispossessed. Many nonaligned Assamites met  Final  Death  prior  to  the  T reaty of Tyre for no reason other than their heritage. Dispossessed elders were favored targets of Assamite-hunting coteries by virtue of their unnaturally dark skin. By the time the treaty was signed in 1496, less than a few score dispossessed remained in existence across Europe and North Africa. The rest had either perished, renounced their iconoclasm and rejoined Alamut, entered torpor or sought sanctuary with the Inconnu.
 
@@ -1513,7 +1511,7 @@ The Sabbat doesn't know what the hell to think of us right now, and we're pretty
 
 <!-- image -->
 
-The sudden surge in recruitment from the Mountain is  another  thing  entirely.  On  one  hand,  it's  nice  to  get confirmation of the reason for the Sabbat's very existence. The Antediluvians really do exist, and they're determined to wipe out everyone who won't kneel to them. Ur-Shulgi doesn't leave much room for doubt there, judging from the reports I've heard. On the other hand... Shit. That's the kind of confirmation I could have done without for a long while. Now we need to figure out what to tell the rest of the Hand.
+The sudden surge in recruitment from the Mountain is  another  thing  entirely.  On  one  hand,  it's  nice  to  get confirmation of the reason for the Sabbat's very existence. The Antediluvians really do exist, and they're determined to wipe out everyone who won't kneel to them. Ur-Shulgi doesn't leave much room for doubt there, judging from the reports I've heard. On the other hand... shit. That's the kind of confirmation I could have done without for a long while. Now we need to figure out what to tell the rest of the Hand.
 
 - Michael diCarlo, sharpshooter, antitribu warrior
 
@@ -1985,7 +1983,7 @@ Your victim may not use any supernatural powers to absorb, negate, redirect, or 
 
 ## merits and Flaws
 
-magiCal addiCt (3-  or  5-pt.  PhysiCal  Flaw)
+magiCal addiCt (3-  or  5-pt.  physiCal  Flaw)
 
 Whether through a weak will, a lingering anomaly from your mortal days or overuse of ritual components
 
@@ -3927,7 +3925,7 @@ Law
 
 ## ContraCt lawyer
 
-Quote: What? You want me to kill someone for you? Out of the question. I  don't  do  that  sort  of  thing.  It' s  uncivilized. (pause) However, I do happen to  know  several  individuals  who  occasionally  undertake  that sort of distasteful employment, and I'd be happy to connect you to one of them... For a percentage of the commission, of course.
+Quote: What? You want me to kill someone for you? Out of the question. I  don't  do  that  sort  of  thing.  It' s  uncivilized. (pause) However, I do happen to  know  several  individuals  who  occasionally  undertake  that sort of distasteful employment, and I'd be happy to connect you to one of them... for a percentage of the commission, of course.
 
 Prelude: You were always a very proper girl (some said 'peculiar'). The elegance of an organized system appealed to you. It didn't particularly matter what the system was - mathematics, music, computers, business - if you could analyze it and see how its  component  parts  worked  together  to  create  a  whole  greater  than their sum, you were happy. You almost became an accountant, but a good scholarship offer led you into the legal profession instead. As soon as you passed your exams, you went into criminal prosecution, determined to bring order to a chaotic world.
 
@@ -4691,7 +4689,7 @@ EMEANOR\_\_\_\_\_\_\_\_\_\_\_
 
 ## arChaeologist
 
-Quote: Well, it's not Second City vintage... But it just may be from Carthage. See the symbol etched into the tablet here? It's a derivative of a certain Brujah elder's personal sigil. Now hand me that trowel. And watch where you put your hands - sometimes they wake up.
+Quote: Well, it's not Second City vintage... but it just may be from Carthage. See the symbol etched into the tablet here? It's a derivative of a certain Brujah elder's personal sigil. Now hand me that trowel. And watch where you put your hands - sometimes they wake up.
 
 Prelude: There's  something about holding a piece of history in your hands, watching it come alive again, gradually cleaning it and reassembling it and finally letting it go out into the world on display. It's almost like raising a child, and you have lots of children out there, scattered from New York to London to Cairo to Bombay to Bangkok.
 
@@ -4729,13 +4727,13 @@ You weren't  good  enough  to  save  them  from  the  monsters, though. During t
 
 Two nights later, your own luck ran out when you walked into the middle of a fight between the monsters. One of them grabbed you and tore your throat open - so you bit it right back. You were going to die anyway, right? Except you didn't. Well, almost didn't.
 
-Concept: You're a street kid through and through. Your Embrace was an accident, the result of a sloppy and desperate feeding by a Child of Haqim fighting for his life against... Something else. You've only met one other vampire since, and the conversation lasted just long enough for you to get the most basic information on what you are. She told you that India is no longer hospitable to your kind, and you're thinking about moving west. After all, one dirty street is as good as another.
+Concept: You're a street kid through and through. Your Embrace was an accident, the result of a sloppy and desperate feeding by a Child of Haqim fighting for his life against... something else. You've only met one other vampire since, and the conversation lasted just long enough for you to get the most basic information on what you are. She told you that India is no longer hospitable to your kind, and you're thinking about moving west. After all, one dirty street is as good as another.
 
 Roleplaying Hints: You're uneducated, illiterate, unwashed and half-feral, but you're not stupid. You're just used to surviving in conditions that would turn most American street people pale. 'Future' is a difficult concept for you because you're so accustomed to focusing on 'tonight.' Were you left to your own devices, you'd
 
 be quite content to eke out a night-to-night existence on the streets, assaulting lowcaste  mortals  for  blood  and money. You're obsessed with your own safety, but you're also a curious sort, which may lead  you  into  running with a coterie to  learn  more  about what you are.
 
-E q u I  p ment: rusty knife,  two stakes, three ghoul  pariah  dogs, b u r l a p sack  full of stolen odds and ends
+E q u i p ment: rusty knife,  two stakes, three ghoul  pariah  dogs, b u r l a p sack  full of stolen odds and ends
 
 <!-- image -->
 
@@ -5523,7 +5521,7 @@ Melee
 
 Quote: We can do this the easy way or the hard way. It doesn't matter much to me. Just choose how much pain you want to die with. I know exactly how much you can endure.
 
-Prelude: You first became aware of vampires in college. Actually, they tried to recruit you. The instructor for the evening section of Anatomy &amp; Physiology you were taking was a pallid, sickly-looking old fellow who had a reputation for being rather eccentric. When he asked you to meet him in  his  office  for  a  'conference,'  you  were  expecting  some sort of homosexual proposition. Instead, you were treated to a display of something he called 'thaumaturgy.' Then he offered you an apprenticeship. When you refused, he tried to do... Something... To you. It didn't take, and you ran.
+Prelude: You first became aware of vampires in college. Actually, they tried to recruit you. The instructor for the evening section of Anatomy &amp; Physiology you were taking was a pallid, sickly-looking old fellow who had a reputation for being rather eccentric. When he asked you to meet him in  his  office  for  a  'conference,'  you  were  expecting  some sort of homosexual proposition. Instead, you were treated to a display of something he called 'thaumaturgy.' Then he offered you an apprenticeship. When you refused, he tried to do... something... to you. It didn't take, and you ran.
 
 You  spent  the  rest  of  the  semester  a  nervous  wreck, sleeping during the days and spending the nights barricaded in your room. Your grades plummeted due to nonattendance, and you really weren't surprised when the school expelled you. With nowhere to go, you drifted downward, taking a series of dead-end night jobs that kept you around enough people to lend the illusion of safety.
 
@@ -5971,7 +5969,7 @@ And Allah will forgive you for your  studies  of  Caine's  power.  Does  he not 
 
 Concept: You are a dual anomaly within the Sabbat: an Assamite sorcerer  and  a  Muslim.  Most  Noddists approach  the  Path  of  Caine  with European  or  Christian  assumptions;  your  interpretation of many of its tenets and early historical facts from an  Islamic  perspective brings  you  into  frequent debate with more traditional  scholars. Your  packmates question  some  of your  beliefs,  but they recognize you as the spiritual heart of the pack.
 
-Rolepl a y I  n g Hints: You've  seized upon the Path of Caine as  a  complement  to,  not a replacement for, your faith. The Sabbat is the
+Rolepl a y i n g Hints: You've  seized upon the Path of Caine as  a  complement  to,  not a replacement for, your faith. The Sabbat is the
 
 0G
 
@@ -5979,7 +5977,7 @@ Rolepl a y I  n g Hints: You've  seized upon the Path of Caine as  a  complement
 
 family that the Children of Haqim never were, and you are fully devoted to the fight against  the  Antediluvians.  You  prefer  to concentrate on the Assamite loyalists, as you have more personal experience  with  the  threat that Haqim's pawns pose - the Camarilla is  purely  a  secondary  consideration, though one you're willing to take into account if it's suggested.
 
-Equipment: dog-eared copy of the  Qur'an,  photocopied sheaf of Noddist research  material, heavy  shipping  case full  of  materials  for auctoritas and ignoblis  ritae ,  prayer rug,  paperback Arabic-English d I  c t I  o n a r y , AK-74  with folding stock, t wo f r a g mentation grenades
+Equipment: dog-eared copy of the  Qur'an,  photocopied sheaf of Noddist research  material, heavy  shipping  case full  of  materials  for auctoritas and ignoblis  ritae ,  prayer rug,  paperback Arabic-English d i c t i o n a r y , AK-74  with folding stock, t wo f r a g mentation grenades
 
 Clanbook: assamite
 
@@ -6821,7 +6819,7 @@ After that, you were in business. People came to you when they had shit to hide.
 
 <!-- image -->
 
-girls... Once you made an 88-foot yacht vanish, and you're never telling how you pulled that one off. When a dead guy walked into your office with a new job offer, you laughed at him. Then he showed you a few tricks that made you sit up and take notice. Disappearing from plain sight? Gimme some of that.
+girls... once you made an 88-foot yacht vanish, and you're never telling how you pulled that one off. When a dead guy walked into your office with a new job offer, you laughed at him. Then he showed you a few tricks that made you sit up and take notice. Disappearing from plain sight? Gimme some of that.
 
 Concept: When you were Embraced, your first priority was covering up the evidence of the warrior caste's violent episodes. Now you're working for an archon, covering up Masquerade breaches - which makes for a lot more work, but a lot more variety. Nothing but ashes and bloodstains was getting tiring. You still keep in touch with the organization, because they're family, and the occasional exchange of favors isn't out of the question.
 
@@ -6915,7 +6913,7 @@ Generation:
 
 Embrace:
 
-25 B. C.
+25 B.C.
 
 Apparent Age:
 
@@ -7077,7 +7075,7 @@ Generation:
 
 Embrace:
 
-330 B. C.
+330 B.C.
 
 Apparent Age:
 
@@ -7881,7 +7879,7 @@ W W W . W H I T E -W O L F . C O M
 
 ISBN 1-56504-256-5
 
-WW2359  $14.95 U. S.
+WW2359  $14.95 U.S.
 
 PRINTED IN USA
 

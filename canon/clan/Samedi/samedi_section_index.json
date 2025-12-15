@@ -1,0 +1,251 @@
+{
+    "clan": "Samedi",
+    "internal_name": "Samedi",
+    "book_title": "Bloodline Book: Samedi",
+    "edition": "Bloodline Book",
+    "sections": [
+      {
+        "id": "credits",
+        "title": "Credits",
+        "anchor": "## Credits",
+        "type": "meta"
+      },
+      {
+        "id": "special_credit",
+        "title": "Special Credit to",
+        "anchor": "## Special Credit to",
+        "type": "meta"
+      },
+      {
+        "id": "introduction",
+        "title": "Introduction",
+        "anchor": "## Introduction",
+        "type": "meta"
+      },
+      {
+        "id": "chapter_one",
+        "title": "The Real Scoop",
+        "anchor": "## Chapter One: The Real Scoop",
+        "type": "history"
+      },
+      {
+        "id": "the_creation",
+        "title": "The Creation",
+        "anchor": "## The Creation",
+        "type": "history"
+      },
+      {
+        "id": "choosing_a_childe",
+        "title": "Choosing a Childe",
+        "anchor": "## Choosing a Childe",
+        "type": "culture"
+      },
+      {
+        "id": "the_becoming",
+        "title": "The Becoming",
+        "anchor": "## The Becoming",
+        "type": "culture"
+      },
+      {
+        "id": "modes_of_dress",
+        "title": "Modes of Dress",
+        "anchor": "## Modes of Dress",
+        "type": "culture"
+      },
+      {
+        "id": "making_a_living",
+        "title": "Making a Living",
+        "anchor": "## Making a Living",
+        "type": "culture"
+      },
+      {
+        "id": "in_the_company_of_others",
+        "title": "In The Company of Others",
+        "anchor": "## In The Company of Others",
+        "type": "culture"
+      },
+      {
+        "id": "chapter_two",
+        "title": "Getting Social -- Samedi Culture",
+        "anchor": "## Chapter Two: Getting Social -- Samedi Culture",
+        "type": "culture"
+      },
+      {
+        "id": "what_the_samedi_think",
+        "title": "What the Samedi Think Of.",
+        "anchor": "## What the Samedi Think Of.",
+        "type": "politics"
+      },
+      {
+        "id": "chapter_three",
+        "title": "Unique to the Bloodline",
+        "anchor": "## Chapter Three: Unique to the Bloodline",
+        "type": "mechanics"
+      },
+      {
+        "id": "new_bloodline_merits_flaws",
+        "title": "New Bloodline Merits and Flaws",
+        "anchor": "## New Bloodline Merits and Flaws",
+        "type": "mechanics"
+      },
+      {
+        "id": "brittle_bones",
+        "title": "Brittle bones",
+        "anchor": "## Brittle bones",
+        "type": "mechanics"
+      },
+      {
+        "id": "truly_disgusting",
+        "title": "Truly Disgusting",
+        "anchor": "## Truly Disgusting",
+        "type": "mechanics"
+      },
+      {
+        "id": "rotting_flesh",
+        "title": "Rotting flesh",
+        "anchor": "## Rotting flesh",
+        "type": "mechanics"
+      },
+      {
+        "id": "spirit_guide",
+        "title": "Spirit Guide",
+        "anchor": "## Spirit Guide",
+        "type": "mechanics"
+      },
+      {
+        "id": "wraith_affinity",
+        "title": "Wraith Affinity",
+        "anchor": "## Wraith Affinity",
+        "type": "mechanics"
+      },
+      {
+        "id": "dislocation",
+        "title": "Dislocation",
+        "anchor": "## Dislocation",
+        "type": "mechanics"
+      },
+      {
+        "id": "removable_limbs",
+        "title": "Removable limbs",
+        "anchor": "## Removable limbs",
+        "type": "mechanics"
+      },
+      {
+        "id": "new_bloodline_secondary_traits",
+        "title": "New Bloodline secondary traits for Samedi",
+        "anchor": "## New Bloodline secondary traits for Samedi",
+        "type": "mechanics"
+      },
+      {
+        "id": "new_discipline",
+        "title": "New Discipline",
+        "anchor": "## New Discipline",
+        "type": "mechanics"
+      },
+      {
+        "id": "samedi_sub_group",
+        "title": "Samedi Sub-Group: The Sons of Samuel",
+        "anchor": "## Samedi Sub-Group: The Sons of Samuel",
+        "type": "culture"
+      },
+      {
+        "id": "chapter_four",
+        "title": "Archetypes",
+        "anchor": "## Chapter Four: Archetypes",
+        "type": "character_creation"
+      },
+      {
+        "id": "back_woodsman",
+        "title": "Back-Woodsman",
+        "anchor": "## Back-Woodsman",
+        "type": "character_creation"
+      },
+      {
+        "id": "candomble_novice",
+        "title": "Candomble Novice",
+        "anchor": "## Candomble Novice",
+        "type": "character_creation"
+      },
+      {
+        "id": "crazy_cat_lady",
+        "title": "Crazy Cat Lady",
+        "anchor": "## Crazy Cat Lady",
+        "type": "character_creation"
+      },
+      {
+        "id": "samite_general_practitioner",
+        "title": "Samite General Practitioner",
+        "anchor": "## Samite General Practitioner",
+        "type": "character_creation"
+      },
+      {
+        "id": "samite_surgical_nurse",
+        "title": "Samite Surgical Nurse",
+        "anchor": "## Samite Surgical Nurse",
+        "type": "character_creation"
+      },
+      {
+        "id": "street_child",
+        "title": "Street Child",
+        "anchor": "## Street Child",
+        "type": "character_creation"
+      },
+      {
+        "id": "camarilla_agent",
+        "title": "Camarilla Agent",
+        "anchor": "## Camarilla Agent",
+        "type": "character_creation"
+      },
+      {
+        "id": "healer",
+        "title": "Healer",
+        "anchor": "## Healer",
+        "type": "character_creation"
+      },
+      {
+        "id": "demolitions_expert",
+        "title": "Demolitions Expert",
+        "anchor": "## Demolitions Expert",
+        "type": "character_creation"
+      },
+      {
+        "id": "appendix",
+        "title": "Samedi Who's Who",
+        "anchor": "## Appendix: Samedi Who's Who",
+        "type": "lore"
+      },
+      {
+        "id": "jose_santiago",
+        "title": "Jose Santiago",
+        "anchor": "## Jose Santiago",
+        "type": "lore"
+      },
+      {
+        "id": "victoria_lebeau",
+        "title": "Victoria Lebeau",
+        "anchor": "## Victoria Lebeau",
+        "type": "lore"
+      },
+      {
+        "id": "baron_samedi",
+        "title": "Baron Samedi",
+        "anchor": "## Baron Samedi",
+        "type": "lore"
+      },
+      {
+        "id": "genina",
+        "title": "Genina",
+        "anchor": "## Genina",
+        "type": "lore"
+      },
+      {
+        "id": "isaltina",
+        "title": "Isaltina",
+        "anchor": "## Isaltina",
+        "type": "lore"
+      }
+    ]
+  }
+
+
+

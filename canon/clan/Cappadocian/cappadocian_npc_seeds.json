@@ -1,0 +1,154 @@
+{
+    "clan": "Cappadocian",
+    "internal_name": "Cappadocian",
+    "book_title": "Clanbook: Cappadocian",
+    "edition": "Dark Ages",
+    "npc_seeds": [
+      {
+        "id": "cappadocian_scholarly_researcher",
+        "summary": "A Cappadocian who studies death through examination, experimentation, and analysis, viewing corpses and decay as subjects of study. They maintain a laboratory or morgue where they conduct their research, and they are always seeking new samples or subjects.",
+        "role": "Scholar / Researcher",
+        "age_category": "ancilla",
+        "temperament": "curious, methodical, detached",
+        "possible_plots": [
+          "The researcher's studies lead to a discovery that has dangerous implications, forcing characters to decide whether to help, hinder, or simply observe.",
+          "The researcher needs a specific corpse or sample for their studies, creating a situation where the characters must obtain it or negotiate.",
+          "The researcher's laboratory contains something the characters need—information, an artifact, or a sample—but accessing it requires dealing with the Cappadocian."
+        ]
+      },
+      {
+        "id": "cappadocian_theological_philosopher",
+        "summary": "A Cappadocian who contemplates the nature of death and unlife through theological and philosophical inquiry. They maintain a library of religious and philosophical texts, and they are always seeking new insights or answers.",
+        "role": "Philosopher / Theologian",
+        "age_category": "elder",
+        "temperament": "contemplative, patient, wise",
+        "possible_plots": [
+          "The philosopher poses a question that challenges the characters' understanding of death, unlife, or their own nature, requiring investigation or contemplation.",
+          "The philosopher's library contains information that could help or harm the characters, but accessing it requires dealing with the Cappadocian.",
+          "The philosopher's studies reveal something about the characters' past, present, or future, creating opportunities for story and character development."
+        ]
+      },
+      {
+        "id": "cappadocian_necromancer",
+        "summary": "A Cappadocian who communicates with wraiths and the dead, learning from those who have passed beyond. They maintain connections to the world of the dead, and they are always seeking new spirits or wraiths to study.",
+        "role": "Necromancer / Medium",
+        "age_category": "ancilla",
+        "temperament": "focused, patient, otherworldly",
+        "possible_plots": [
+          "The necromancer's communication with the dead reveals information that the characters need, but the information comes with a price or consequences.",
+          "The necromancer's activities attract unwanted attention from wraiths, hunters, or other enemies, creating a need for protection or negotiation.",
+          "The necromancer offers to help the characters communicate with someone who has died, but the communication requires a sacrifice or risk."
+        ]
+      },
+      {
+        "id": "cappadocian_collector",
+        "summary": "A Cappadocian who gathers books, artifacts, and samples, building a collection that serves their studies. They are obsessed with acquiring new items, and they are always seeking rare or valuable pieces for their collection.",
+        "role": "Collector / Curator",
+        "age_category": "ancilla",
+        "temperament": "obsessive, acquisitive, protective",
+        "possible_plots": [
+          "The collector's collection contains something the characters need, but obtaining it requires negotiation, theft, or cooperation.",
+          "The collector is seeking a specific item that the characters possess, creating a situation where they must decide whether to trade, sell, or protect it.",
+          "The collector's collection is threatened by enemies or rivals, creating a need for protection or assistance."
+        ]
+      },
+      {
+        "id": "cappadocian_eschatologist",
+        "summary": "A Cappadocian who believes in Cainite divinity and the Road of Heaven, viewing themselves as agents of God on Earth. They maintain a following of mortals who serve them, and they are always seeking to spread their beliefs.",
+        "role": "Eschatologist / Cult Leader",
+        "age_category": "elder",
+        "temperament": "fanatical, devoted, charismatic",
+        "possible_plots": [
+          "The eschatologist's following includes someone important to the characters, creating a situation where they must decide whether to help, hinder, or simply observe.",
+          "The eschatologist's beliefs conflict with the characters' own, creating opportunities for debate, conflict, or cooperation.",
+          "The eschatologist offers the characters membership in their following, but the offer comes with requirements and consequences they may not be willing to accept."
+        ]
+      },
+      {
+        "id": "cappadocian_cyclopean_covenant",
+        "summary": "A Cappadocian who seeks to extend studies into magic and allies with the Tremere. They are interested in Thaumaturgy and other forms of magic, and they are always seeking new knowledge or power.",
+        "role": "Cyclopean Covenant Member / Magic Researcher",
+        "age_category": "ancilla",
+        "temperament": "ambitious, curious, risky",
+        "possible_plots": [
+          "The covenant member's studies lead to a discovery that has dangerous implications, forcing characters to decide whether to help, hinder, or simply observe.",
+          "The covenant member offers to share magical knowledge with the characters, but the knowledge comes with risks and consequences.",
+          "The covenant member's alliance with the Tremere creates conflicts with other Cappadocians or other Kindred, creating opportunities for story and conflict."
+        ]
+      },
+      {
+        "id": "cappadocian_transcendental",
+        "summary": "A Cappadocian who studies wraiths and the Restless Dead, recording accounts of ghosts and exploring the fate of the soul. They maintain connections to the world of the dead, and they are always seeking new spirits or wraiths to study.",
+        "role": "Transcendental / Wraith Researcher",
+        "age_category": "ancilla",
+        "temperament": "focused, patient, otherworldly",
+        "possible_plots": [
+          "The transcendental's studies reveal information about the afterlife or the fate of the soul, creating opportunities for story and character development.",
+          "The transcendental's communication with wraiths attracts unwanted attention, creating a need for protection or negotiation.",
+          "The transcendental offers to help the characters understand death or the afterlife, but the understanding comes with a price or consequences."
+        ]
+      },
+      {
+        "id": "cappadocian_lamia",
+        "summary": "A Lamia warrior who serves the Cappadocians, providing protection and assistance in their studies. They are loyal to the Cappadocians and view their role as both guardian and student.",
+        "role": "Lamia Warrior / Guardian",
+        "age_category": "ancilla",
+        "temperament": "loyal, protective, disciplined",
+        "possible_plots": [
+          "The Lamia's loyalty to the Cappadocians creates conflicts with other Kindred or factions, creating opportunities for story and conflict.",
+          "The Lamia offers to protect the characters or assist them in their goals, but the protection comes with obligations or risks.",
+          "The Lamia's role as guardian creates situations where they must choose between loyalty and other concerns, creating opportunities for character development and story."
+        ]
+      },
+      {
+        "id": "cappadocian_infitiores",
+        "summary": "A Cappadocian who has disavowed the clan's prophecy of doom, choosing to ignore or reject the Third Revelation. They continue their studies independently, avoiding contact with other Cappadocians.",
+        "role": "Infitiores / Independent Scholar",
+        "age_category": "ancilla",
+        "temperament": "independent, skeptical, determined",
+        "possible_plots": [
+          "The Infitiores' rejection of the prophecy creates conflicts with other Cappadocians, creating opportunities for story and conflict.",
+          "The Infitiores' independent studies lead to discoveries that challenge the clan's beliefs, creating opportunities for story and character development.",
+          "The Infitiores offers to share their knowledge or findings with the characters, but the knowledge comes with risks and consequences."
+        ]
+      },
+      {
+        "id": "cappadocian_erciyes_attendant",
+        "summary": "A Cappadocian who regularly attends the annual gathering at Erciyes, serving as a link between the clan's members and its traditions. They are knowledgeable about the clan's history, politics, and culture.",
+        "role": "Erciyes Attendant / Clan Historian",
+        "age_category": "elder",
+        "temperament": "knowledgeable, traditional, patient",
+        "possible_plots": [
+          "The attendant's knowledge of the clan's history and traditions provides information that the characters need, but the information comes with context and consequences.",
+          "The attendant's role as a link between clan members creates opportunities for networking, conflict resolution, or political maneuvering.",
+          "The attendant's attendance at Erciyes creates opportunities for the characters to attend the gathering, participate in clan politics, or make discoveries."
+        ]
+      },
+      {
+        "id": "cappadocian_giovanni_ally",
+        "summary": "A Cappadocian who maintains friendly relations with the Giovanni, either out of ignorance of the coming betrayal or out of a belief that cooperation is still possible. They may be studying necromancy or working on joint projects.",
+        "role": "Giovanni Ally / Collaborator",
+        "age_category": "neonate",
+        "temperament": "naive, trusting, curious",
+        "possible_plots": [
+          "The ally's relationship with the Giovanni creates conflicts with other Cappadocians, creating opportunities for story and conflict.",
+          "The ally's collaboration with the Giovanni leads to discoveries or projects that have dangerous implications, creating opportunities for story and character development.",
+          "The ally's trust in the Giovanni is betrayed, creating a situation where the characters must help them or deal with the fallout."
+        ]
+      },
+      {
+        "id": "cappadocian_seeker",
+        "summary": "A Cappadocian who travels the world in search of answers, visiting sites of death, studying different cultures' views on death, and seeking knowledge wherever it may be found.",
+        "role": "Seeker / Traveler",
+        "age_category": "ancilla",
+        "temperament": "curious, adventurous, determined",
+        "possible_plots": [
+          "The seeker's travels bring them to the characters' location, creating opportunities for interaction, cooperation, or conflict.",
+          "The seeker's discoveries from their travels provide information that the characters need, but the information comes with context and consequences.",
+          "The seeker offers to share their knowledge or findings with the characters, but the knowledge comes with risks and obligations."
+        ]
+      }
+    ]
+  }
+
+

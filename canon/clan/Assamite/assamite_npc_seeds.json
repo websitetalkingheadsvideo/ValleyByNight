@@ -1,0 +1,86 @@
+{
+    "clan": "Assamites",
+    "internal_name": "Banu Haqim",
+    "book_title": "Revised - Clanbook Assamite",
+    "edition": "Revised",
+    "npc_seeds": [
+      {
+        "id": "assamite_warrior_seed_01",
+        "name": "Khalid ibn Rashid, Contract Judge",
+        "summary": "A mid-ranking Warrior tasked with evaluating and approving assassination contracts, rather than carrying them out personally.",
+        "role": "arbiter of who deserves to die",
+        "age_category": "ancilla",
+        "temperament": "calm, analytical, quietly burdened by the weight of his decisions",
+        "possible_plots": [
+          "Khalid is asked by an outside patron to approve a contract on a Phoenix elder; he seeks the coterie’s perspective before deciding if the target is truly worthy of death.",
+          "Evidence surfaces that some of the contracts he approved were based on falsified information; he needs the PCs to uncover the truth before the clan turns on him.",
+          "Khalid refuses a contract that a Camarilla patron desperately wants carried out, and the patron tries to bypass him by hiring a rogue assassin—creating a three-way conflict."
+        ]
+      },
+      {
+        "id": "assamite_warrior_seed_02",
+        "name": "Layla al-Saffar, Desert Hunter",
+        "summary": "A Warrior who prefers tracking targets across open terrain, rooftops, and liminal spaces rather than operating inside structured courts.",
+        "role": "field executioner and scout",
+        "age_category": "neonate",
+        "temperament": "laconic, practical, with a dry sense of humor about danger and death",
+        "possible_plots": [
+          "Layla offers to help the coterie track down a Sabbat pack or rogue Anarch cell in exchange for a say in what happens to survivors.",
+          "She begins hunting an enemy of the PCs, but her timing and methods threaten a delicate political balance the coterie needs.",
+          "Layla witnesses something in the desert—an ancient site, a ritual, or a supernatural incursion—and seeks the PCs’ assistance in understanding or containing it."
+        ]
+      },
+      {
+        "id": "assamite_sorcerer_seed_01",
+        "name": "Qadir al-Hakim, Blood Jurist",
+        "summary": "An Assamite Sorcerer who treats every ritual as a legal proceeding, specializing in curses and bindings tied to oaths and contracts.",
+        "role": "ritualist and enforcer of mystical law",
+        "age_category": "ancilla",
+        "temperament": "formal, intense, surprisingly patient with honest confusion and merciless with deliberate deceit",
+        "possible_plots": [
+          "Qadir offers to nullify a dangerous blood bond afflicting a coterie member—but in exchange demands they submit to a binding oath in his own framework.",
+          "He discovers that an influential Phoenix Kindred has escaped an ancient sentence and begins maneuvering to see that sentence carried out, with or without the PCs.",
+          "One of his curses misfires and begins hurting an unintended victim; he pressures the PCs to help fix it before the mistake is revealed to his superiors."
+        ]
+      },
+      {
+        "id": "assamite_sorcerer_seed_02",
+        "name": "Samira the Archivist",
+        "summary": "A Sorcerer who maintains a hidden archive of case histories, contracts, and transgressions, viewing herself as both historian and conscience of the clan.",
+        "role": "lorekeeper, blackmailer, reluctant confessor",
+        "age_category": "ancilla or young elder",
+        "temperament": "reserved, cuttingly honest, with flashes of compassion she tries to suppress",
+        "possible_plots": [
+          "Samira possesses records that tie a Phoenix elder to past atrocities; she offers to trade these for the coterie’s help in protecting her archive from internal rivals.",
+          "The PCs stumble onto a rumor that their own lineage appears in Samira’s records in an alarming way, forcing a confrontation.",
+          "A portion of her archive is stolen or copied, and she enlists the coterie to track down whoever now holds damning information about multiple factions."
+        ]
+      },
+      {
+        "id": "assamite_vizier_seed_01",
+        "name": "Nabih al-Karim, Court Architect",
+        "summary": "A Vizier who consults on the design of havens, Elysia, and mortal institutions, using architecture as a means of subtle control.",
+        "role": "strategic planner and political advisor through infrastructure",
+        "age_category": "ancilla",
+        "temperament": "polite, meticulously attentive, mildly disdainful of poor planning",
+        "possible_plots": [
+          "Nabih offers to redesign or secure the PCs’ haven, embedding secret escape routes—or hidden weaknesses that only he controls.",
+          "He reveals that a prominent city building was designed with occult geometry that now attracts dangerous phenomena, and the PCs must help reconfigure or sanctify it.",
+          "Nabih is quietly serving as advisor to both the Prince and an Anarch leader, and the coterie must decide whether to expose or exploit this double role."
+        ]
+      },
+      {
+        "id": "assamite_vizier_seed_02",
+        "name": "Rahim al-Faruq, Diplomatic Vizier",
+        "summary": "A Vizier who specializes in negotiating truces, treaties, and hostage exchanges between Kindred factions.",
+        "role": "mediator and subtle manipulator of sect relations",
+        "age_category": "ancilla",
+        "temperament": "composed, eloquent, willing to absorb insults without visibly reacting",
+        "possible_plots": [
+          "Rahim is brought in to mediate a dispute involving the PCs; his terms are fair but include a quiet advantage for the Assamites.",
+          "He asks the coterie to escort him to a delicate negotiation with Sabbat or Anarch forces, during which everything goes sideways.",
+          "The Prince suspects Rahim of using his role to gather blackmail material on everyone; the PCs are tasked with proving or disproving this."
+        ]
+      }
+    ]
+  }
