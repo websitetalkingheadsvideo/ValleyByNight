@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.8.33
+## Current Version: 0.8.34
+
+**Date:** 2025-01-30  
+**Type:** Patch (Canon Clan Mechanics File Naming Standardization)
+
+## Previous Version: 0.8.33
 
 **Date:** 2025-01-30  
 **Type:** Patch (Canon Clan File Organization & JSON Validation)
