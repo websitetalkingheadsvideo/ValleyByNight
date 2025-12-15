@@ -1,0 +1,15 @@
+{
+  "type": "phoenix_overlay_manifest",
+  "clan": "Brujah",
+  "city": "Phoenix",
+  "state": "Arizona",
+  "year": 1994,
+  "version": "1.0",
+  "files": {
+    "profile_md": "Brujah_Phoenix_Profile.md",
+    "politics_json": "Brujah_Phoenix_Politics.json",
+    "npcs_json": "Brujah_Phoenix_NPCs.json",
+    "hooks_json": "Brujah_Phoenix_Hooks.json"
+  },
+  "notes": ""
+}

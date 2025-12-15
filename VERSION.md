@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.8.35
+## Current Version: 0.8.36
+
+**Date:** 2025-01-30  
+**Type:** Patch (Phoenix Overlay Files for Brujah and Ventrue Clans)
+
+## Previous Version: 0.8.35
 
 **Date:** 2025-01-30  
 **Type:** Patch (Canon Clan Profile File Naming Standardization)

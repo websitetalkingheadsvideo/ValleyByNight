@@ -1,0 +1,98 @@
+{
+    "clan": "Brujah",
+    "city": "Phoenix",
+    "year": 1994,
+    "primary_alignment": "Split",
+    "secondary_alignment_notes": "Approximately 70% Anarch-aligned, 20% Camarilla (pragmatic or traditionalist), 10% independent/unaffiliated. The Prince's murder has accelerated Anarch recruitment, but some Brujah remain in Camarilla positions out of necessity, principle, or strategic calculation. The power vacuum has made alignment choices more urgent and more dangerous.",
+    "relationships": {
+        "Camarilla": {
+            "status": "Fragile and deteriorating",
+            "notes": "Camarilla elders view Brujah as necessary but dangerous—useful for muscle and street-level operations, but their volatility makes them unreliable allies. The current power vacuum has made this relationship more tense. Brujah are seen as both potential usurpers and potential scapegoats for the Prince's murder. Any Camarilla attempt to reassert authority is met with immediate Brujah resistance, particularly around 24th Street where Anarch territory is strongest. Camarilla Brujah face constant pressure from both sides: their sect demands loyalty, while their clan demands rebellion."
+        },
+        "Anarchs": {
+            "status": "Core ideological and tactical leadership",
+            "notes": "Brujah form the ideological and tactical core of Phoenix's Anarch movement. Their rants serve as recruitment drives, their brawls as demonstrations of commitment. However, internal fractures exist: the Rabble (80%) vs. Romantics (20%) split creates conflict over strategy. Some Anarch Brujah want to seize power immediately after the Prince's death; others want to wait for better opportunity. Some are willing to work with sympathetic Camarilla; others reject all compromise. Territorial disputes between different Anarch cells, each claiming Brujah leadership, threaten to fragment the movement. Brujah passion can destabilize careful Anarch strategies, turning planned uprisings into chaotic riots that expose the Masquerade."
+        },
+        "Ventrue": {
+            "status": "Hostile",
+            "notes": "Natural enemies. Ventrue represent everything Brujah despise: hierarchy, privilege, unearned authority. In Phoenix, this is exacerbated by Ventrue attempts to stabilize Camarilla after the Prince's death—Brujah see this as a power grab and resist accordingly. Any Ventrue political move triggers automatic Brujah opposition, often violent. Ventrue attempts to control territory, influence policy, or assert dominance are met with immediate Brujah pushback. This relationship is one of the most volatile in the city, and any interaction between Ventrue and Brujah is a potential flashpoint."
+        },
+        "Other_Clans": {
+            "notes": "Gangrel: Strong alliance—Gangrel independence and anti-authoritarian streak align with Brujah values. Many Gangrel participate in Brujah rants, and Brujah often defend Gangrel territory from Camarilla encroachment. This is one of the most stable inter-clan relationships in Phoenix. Nosferatu: Pragmatic alliance—mutual respect for competence and mutual distrust of authority. Nosferatu provide information; Brujah provide action. Transactional but stable. Toreador: Complex—ranges from wary respect to open conflict. Brujah respect Toreador passion and artistry but resent their political games. Some Toreador are sympathetic to Anarch causes; others are pure Camarilla loyalists. Tremere: Deeply hostile—Brujah view Tremere as tyrants who use magic to enforce hierarchy. The Prince's murder investigation has made this worse, as Tremere investigate and Brujah are primary suspects. Malkavian: Unpredictable—some Malkavians are drawn to Brujah passion and participate in rants; others see Brujah as dangerous fools. Relationship varies wildly by individual. Assamite: Distant but respectful—Brujah respect Assamite competence and honor codes. In Phoenix, this relationship is minimal due to Assamite rarity."
+        }
+    },
+    "political_assumptions": {
+        "external": [
+            "Camarilla assumes all Brujah are potential traitors who will side with Anarchs when pressured",
+            "Anarchs assume Brujah will always support their cause, regardless of strategy or consequences",
+            "Other clans assume Brujah will start riots, frenzy when insulted, and prioritize ideology over survival",
+            "Ventrue assume Brujah opposition is inevitable and plan accordingly, often preemptively",
+            "Tremere assume Brujah are involved in the Prince's murder and investigate accordingly",
+            "Everyone assumes Brujah are unreliable allies who change sides based on principle rather than loyalty",
+            "The city assumes Brujah presence in any area means imminent violence or political upheaval"
+        ],
+        "internal": [
+            "Rabble (80%) assume Romantics (20%) are elitist traitors who've lost touch with street reality",
+            "Romantics assume Rabble are wasting their fury on meaningless brawls instead of building movements",
+            "Anarch Brujah assume Camarilla Brujah are traitors who've sold out for safety or status",
+            "Camarilla Brujah assume Anarch Brujah are suicidal fools who'll destroy everything in pursuit of impossible ideals",
+            "All Brujah assume they understand what's best for the clan, creating constant internal conflict",
+            "Brujah assume their passion and ideology justify any action, regardless of consequences",
+            "The clan assumes external pressure will unite them, but internal divisions often prevent this"
+        ]
+    },
+    "flashpoints": [
+        {
+            "location": "24th Street corridor / Arizona State Hospital area",
+            "description": "Primary Anarch/Brujah territory. Any Camarilla presence here is seen as provocation. Rants are held regularly in abandoned warehouses and parking lots. Violence can erupt quickly if authority figures enter this area. This is where the most volatile Brujah gather, and where the most dangerous confrontations occur."
+        },
+        {
+            "location": "Downtown Phoenix Elysium",
+            "description": "Brujah see Elysium as symbol of Camarilla hypocrisy. Any Brujah presence here is tense—they're either there to cause trouble, to negotiate under duress, or to prove they can operate in Camarilla spaces. Insults, political slights, or challenges to Brujah honor can trigger immediate conflict that violates Elysium's supposed neutrality."
+        },
+        {
+            "location": "ASU campus and surrounding areas",
+            "description": "Romantic Brujah operate here, recruiting from mortal student radicals and using academic spaces for philosophical discussions. Camarilla attempts to control this area create friction. Mortal student movements influenced by Brujah ideology threaten to expose the Masquerade, making this a dangerous intersection of Kindred politics and mortal activism."
+        },
+        {
+            "location": "Industrial districts and abandoned warehouses",
+            "description": "Rabble Brujah use these for rants, organizing, and storing weapons. Any authority figure entering these areas risks confrontation. These spaces are where the most volatile Brujah gather, where the most dangerous plans are made, and where the most explosive conflicts begin."
+        },
+        {
+            "trigger": "Camarilla attempts to reassert authority after Prince's death",
+            "response": "Immediate Brujah resistance, possible organized Anarch uprising. Brujah see any attempt to restore order as an attempt to restore tyranny. This can escalate from individual confrontations to city-wide conflict."
+        },
+        {
+            "trigger": "Masquerade violations or close calls",
+            "response": "Internal Brujah conflict—some want to protect Masquerade to prevent hunter attention, others see violations as opportunity to expose Camarilla hypocrisy. This creates schisms within the clan and between Anarch and Camarilla Brujah."
+        },
+        {
+            "trigger": "Ventrue or Tremere political moves",
+            "response": "Automatic Brujah opposition, often violent. These clans represent everything Brujah despise, and any action by them is seen as provocation. This can turn minor political maneuvering into major confrontations."
+        },
+        {
+            "trigger": "Anarch victories or defeats elsewhere",
+            "response": "Brujah mood shifts dramatically—victories inspire action and embolden them to push harder in Phoenix, defeats trigger nihilistic rage that makes them more dangerous and unpredictable. External events directly influence Phoenix Brujah behavior."
+        },
+        {
+            "trigger": "Discovery of Brujah involvement in Prince's murder (if true)",
+            "response": "Potential clan-wide schism between those who support the act as justified rebellion and those who condemn it as reckless destruction. This could fracture the clan permanently and trigger city-wide war."
+        },
+        {
+            "trigger": "Any restriction on Anarch activities",
+            "response": "Immediate Brujah violation and escalation. They see restrictions as tyranny and respond with defiance. This creates cycles of restriction and resistance that spiral into violence."
+        },
+        {
+            "trigger": "Attempts to regulate or ban rants",
+            "response": "Rants become more frequent and more violent. Brujah see rants as sacred cultural rituals and any attempt to control them as existential threat. This guarantees conflict."
+        },
+        {
+            "trigger": "Camarilla demands for Brujah to 'choose sides'",
+            "response": "Most Brujah choose Anarchs; those who don't face internal pressure, accusations of betrayal, and potential violence from their own clan. This forces schisms and creates permanent enemies."
+        },
+        {
+            "trigger": "Punishment of Brujah for political speech",
+            "response": "Collective Brujah retaliation, possible organized resistance. They see speech restrictions as fundamental violation of their identity. This can escalate from individual punishment to clan-wide uprising."
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "clan": "Brujah",
+    "city": "Phoenix",
+    "year": 1994,
+    "npc_seeds": [
+        {
+            "name": "Dante 'Razor' Martinez",
+            "role": "Anarch cell leader, 24th Street organizer",
+            "alignment": "Anarch",
+            "territory": "24th Street corridor, specifically the area around Arizona State Hospital",
+            "reputation": "Known as the most effective Anarch recruiter in Phoenix. Respected by Rabble, tolerated by Romantics. Camarilla sees him as public enemy number one.",
+            "story_function": "Primary point of contact for Anarch-aligned PCs; can provide access to rants, Anarch networks, and street-level intelligence."
+        },
+        {
+            "name": "Dr. Elena Vasquez",
+            "role": "Carthage Romantic, university professor (former ASU)",
+            "alignment": "Anarch (ideological, not tactical)",
+            "territory": "ASU campus, nearby coffee shops and bookstores",
+            "reputation": "One of the rare 20%—a philosopher who can turn a rant into a movement. Respected by Romantics, viewed with suspicion by Rabble who think she's too academic.",
+            "story_function": "Provides ideological depth to Anarch movement; can explain Brujah history and philosophy to PCs; potential mentor for intellectual characters."
+        },
+        {
+            "name": "Marcus 'Brick' Thompson",
+            "role": "Rabble enforcer, rant brawler",
+            "alignment": "Anarch",
+            "territory": "Industrial districts, abandoned warehouses",
+            "reputation": "The muscle of the Phoenix Brujah. Not a thinker, but fiercely loyal and impossible to intimidate. Known for starting fights that others finish.",
+            "story_function": "Provides muscle for dangerous operations; can escalate situations when PCs need violence; represents the 80% Rabble perspective."
+        },
+        {
+            "name": "Selena Cross",
+            "role": "Camarilla Brujah, Primogen candidate (reluctant)",
+            "alignment": "Camarilla (pragmatic, not ideological)",
+            "territory": "Downtown Phoenix, near Elysium",
+            "reputation": "Viewed as traitor by Anarchs, as necessary evil by Camarilla. One of the few Brujah who maintains Camarilla position after Prince's death. Deeply conflicted.",
+            "story_function": "Represents Brujah who remain in Camarilla; can provide insider information; creates moral complexity for PCs who must choose between loyalty and principle."
+        },
+        {
+            "name": "Jax 'The Voice' Morrison",
+            "role": "Rant champion, movement orator",
+            "alignment": "Anarch",
+            "territory": "Mobile—organizes rants throughout Phoenix",
+            "reputation": "Legendary ranter who can turn a parking lot into a revolution. Hybrid between Rabble and Romantic—charismatic street fighter with surprising philosophical depth.",
+            "story_function": "Can mobilize crowds and shift political momentum; PCs might need to protect him from Camarilla retaliation or recruit him for their own causes."
+        },
+        {
+            "name": "Karina 'Silence' Petrov",
+            "role": "Independent Brujah, information broker",
+            "alignment": "Independent (sells to both sides)",
+            "territory": "Central Phoenix, various safehouses",
+            "reputation": "Former Anarch who became disillusioned. Now operates as neutral party, selling information to both Camarilla and Anarchs. Trusted by neither, useful to both.",
+            "story_function": "Provides information and contacts; represents Brujah who reject both major factions; can serve as neutral ground for negotiations."
+        },
+        {
+            "name": "Tyrone 'Flash' Washington",
+            "role": "Street revolutionary, riot instigator",
+            "alignment": "Anarch (nihilist wing)",
+            "territory": "South Phoenix, various gathering spots",
+            "reputation": "Dangerous and unpredictable. Believes in burning everything down. Respected for commitment, feared for lack of restraint. Represents the most volatile Brujah element.",
+            "story_function": "Creates chaos and forces PCs to respond; can be manipulated by enemies or used as weapon; represents the destructive potential of unchecked Brujah rage."
+        },
+        {
+            "name": "Professor James Chen",
+            "role": "Carthage Romantic, strategist",
+            "alignment": "Anarch (Romantic faction leader)",
+            "territory": "Tempe, near ASU",
+            "reputation": "One of the most dangerous Brujah in Phoenix precisely because he's not violent. A strategist who plans revolutions. Respected by Romantics, viewed as threat by Camarilla.",
+            "story_function": "Provides long-term strategy and planning; can explain how to build movements rather than just start riots; potential ally for PCs who want to change the city systematically."
+        },
+        {
+            "name": "Rosa 'Chainbreaker' Mendez",
+            "role": "Anarch diplomat, negotiator",
+            "alignment": "Anarch",
+            "territory": "Various—travels between Anarch cells",
+            "reputation": "Rare Brujah who can actually negotiate without starting fights. Respected for ability to bridge Rabble and Romantic factions. Trusted by Gangrel and Nosferatu.",
+            "story_function": "Can facilitate negotiations between hostile factions; represents possibility of Brujah diplomacy; useful for PCs who want to prevent violence rather than cause it."
+        },
+        {
+            "name": "Viktor 'The Ghost' Novak",
+            "role": "Camarilla enforcer, Scourge candidate",
+            "alignment": "Camarilla (traditionalist)",
+            "territory": "Downtown, Elysium area",
+            "reputation": "Old-school Brujah who believes in Camarilla structure despite its flaws. Views Anarchs as traitors. Hated by Anarchs, valued by Camarilla elders who need muscle.",
+            "story_function": "Represents Brujah who fully embrace Camarilla; creates internal conflict within clan; can be antagonist for Anarch-aligned PCs or ally for Camarilla-aligned ones."
+        }
+    ],
+    "notes": "These NPCs represent the diversity of Phoenix Brujah: Rabble and Romantics, Anarchs and Camarilla, activists and nihilists. They can serve as allies, enemies, mentors, or obstacles depending on PC choices and story needs. Each represents a different aspect of Brujah identity and creates different story possibilities."
+}
+
