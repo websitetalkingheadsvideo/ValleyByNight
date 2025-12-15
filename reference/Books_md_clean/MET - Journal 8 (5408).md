@@ -1,5 +1,3 @@
---- book_title: "MET - Journal 8 (5408)" clan: "" edition: "" source_type: "clanbook" extraction_pipeline: "docling_v1 + markdown_cleanup_v1" ---
-
 ## Mind's Theatre Eye S JOURNAL
 
 BECAUSETHEMINDSEYENEVERBLINKS
@@ -22,13 +20,13 @@ THIS ISSUE PRESENTS:
 - WORLD OFDARKNESSFICTION
 - TOPICALISSUESONLIVE-ACTIONROLEPLAYING AND MORE
 
-THEJOURNALPROVIDES EVERYTHINGYOUNEEDTO MAKEYOURMIND'SEYE THEATRE CHRONICLES MOREDIVERSE, COMPLEX ANDCOMPLETE!
+THEJOURNALPROVIDES EVERYTHINGYOUNEEDTO MAKEYOURMIND'SEYE THEATRE CHRONICLES MOREDIVERSE,COMPLEX ANDCOMPLETE!
 
 WHAT DO YOU WANT TO SEE?
 
 <!-- image -->
 
-I
+i
 
 <!-- image -->
 
@@ -95,7 +93,7 @@ Layout and Typesetting: Pauline Benney
 
 C A M [ S T U D I O
 
-0 2001 White Wolf  Publishing, Inc. All rights re 'lVD' served.  Reproduction  without  the written permission of the  pubkher is scprrssly  forbidden, except of   reviews, and for blank charact e r sheets, which may be reproduced for personal use only White Wolf, Vampk, V a m p I  ~ the Masquerade,  V a m w   the  Dark Ages,  M a g   the Asenfor the sion,  World o f  Darkness  and  Ahrant are r e g I  s t e r e d   trademarks  o f   White  W o l f   Pub lishing, I n c All rights  m e d . W~olftheApocalypse, WraiththeOblivioQlange ling  the Dreaming, Hunter the  Reckoning,  Werewolf the  Wild West,  Mage the  Sorcerers Crusade, wraith the  Great  War, T r I  n I  t y Mind's Eye Theatre  Journal.  Issue  8  and Changing B&amp; Book 1, Vampire Storytellem Guide and Masquerade are trade marksof White  WolfPublis~g, Inc. Allnghtsreserved. Au~~em,~es, places and text herein are copyrighted  by White W o l f  Publishing,  Inc.
+0 2001 White Wolf  Publishing, Inc. All rights re 'lVD' served.  Reproduction  without  the written permission of the  pubkher is scprrssly  forbidden, except of   reviews, and for blank charact e r sheets, which may be reproduced for personal use only White Wolf, Vampk, V a m p i ~ the Masquerade,  V a m w   the  Dark Ages,  M a g   the Asenfor the sion,  World o f  Darkness  and  Ahrant are r e g i s t e r e d   trademarks  o f   White  W o l f   Pub lishing, I n c All rights  m e d . W~olftheApocalypse,WraiththeOblivioQlange ling  the Dreaming, Hunter the  Reckoning,  Werewolf the  Wild West,  Mage the  Sorcerers Crusade, wraith the  Great  War, T r i n i t y Mind's Eye Theatre  Journal.  Issue  8  and Changing B&amp; Book 1, Vampire Storytellem Guide and Masquerade are trade marksof White  WolfPublis~g,Inc.Allnghtsreserved.Au~~em,~es,places and text herein are copyrighted  by White W o l f  Publishing,  Inc.
 
 The mention of  or reference to any company  or product in these pages is not a challenge to the trademark or copyright  concerned.
 
@@ -105,7 +103,7 @@ For a free White Wolf catalog call 1-800-451-WOLF.
 
 Check out White Wolf online at
 
-PRINTED IN THE  UNITED STATES http: / /www. whitewolf. com; alt. games. whitewolf  and rec. games. frp. storyteller
+PRINTED IN THE  UNITED STATES http: / /www.whitewolf.com; alt.games.whitewolf  and rec.games.frp.storyteller
 
 <!-- image -->
 
@@ -133,9 +131,9 @@ PRINTED IN THE  UNITED STATES http: / /www. whitewolf. com; alt. games. whitewol
 
 Hello again, everybody,  and welcome to the eighth issue of the  Mind's Eye Theatre Journal! For those of you who are new to the publication, let me take a second to acquaint you with just what you've got here.
 
-The Journal is a  quarterly  publication  dedicated  to  filling  in  the  g a p  I  n  y o u r  White WoIfLARPenvironmen~ Weofferdesfornewcharactertypes, origmlstorylinestowork into  your chronicles, guides  for keeping  your games under control and running smoothly and rules updates you won't  find I  n  any  other Mind's Eye release. Plus,  you'll find an s w m tothequestionsthathaveplaguedyou, origmalWorldofDarknessfictionandcolumnsf people  who've  been W I  n g o r workmg here at White Wolf (or  both) for years.
+The Journal is a  quarterly  publication  dedicated  to  filling  in  the  g a p  i n  y o u r  White WoIfLARPenvironmen~ Weofferdesfornewcharactertypes,origmlstorylinestowork into  your chronicles, guides  for keeping  your games under control and running smoothly and rules updates you won't  find i n  any  other Mind's Eye release. Plus,  you'll find an s w m tothequestionsthathaveplaguedyou,origmalWorldofDarknessfictionandcolumnsf people  who've  been W i n g o r workmg here at White Wolf (or  both) for years.
 
-At least, that's  been the  pattern thus far. Now, however, I'm sad to  say that this very issue is the last one that will be available for the foreseeable  future. As w e  ramp up and fine-tune  our fronthe Mind's Eye Theatre releases, the  Journal  has simply become less and less  necessary.  Every resource  that  goes into  making  the  Journal  what itis isaresourcethatcouldjustaseasilygointoaLawsof . . . Booktomakeit thatmuch better. That being the case, it ftankly just doesn't make much sense to continue to divideourresourcesaswehavebeen. Althoughmanyofuswillbesadtoseethe Journal go, the Mind's Eye Theatre line  will  emerge  stronger  for the  change. Its books will get bigger, its rules will get sharper,  and it will become more inclusive in the long r u n .
+At least, that's  been the  pattern thus far. Now, however, I'm sad to  say that this very issue is the last one that will be available for the foreseeable  future. As w e  ramp up and fine-tune  our fronthe Mind's Eye Theatre releases, the  Journal  has simply become less and less  necessary.  Every resource  that  goes into  making  the  Journal  what itis isaresourcethatcouldjustaseasilygointoaLawsof . . . booktomakeit thatmuch better. That being the case, it ftankly just doesn't make much sense to continue to divideourresourcesaswehavebeen.Althoughmanyofuswillbesadtoseethe Journal go, the Mind's Eye Theatre line  will  emerge  stronger  for the  change. Its books will get bigger, its rules will get sharper,  and it will become more inclusive in the long r u n .
 
 But let's  forget about that for a moment and take a look at what's  actually  in this issue. There's no sense drawing the curtain before the end of the first page.. ..
 
@@ -145,7 +143,7 @@ And even though the Journal is going away,  you can still contribute to the futu
 
 After all, where would we be without you?
 
-Carl Bowen carlawhite-wolf. com White Wolf Publishing, Inc. 735 Park North Blvd, Suite 128 Clarkston, GA 30021 USA
+Carl Bowen carlawhite-wolf.com White Wolf Publishing, Inc. 735 Park North Blvd, Suite 128 Clarkston, GA 30021 USA
 
 ## THF CURRFNT THINKINCj
 
@@ -159,7 +157,7 @@ I would like to see something  giving  definitive  information  on Ghouls. Liber
 
 Overall,  the  Journal  is a  great  idea  that has had mediocre  follow-through.  It  would be a  terrific  forum  to  have  official FAQs published  and  release MET information  that doesn'tfit  into  thestandardbooks.  It  needs  lessfictionandfldandmore solidmaterial.
 
--Tanuki (tanuki  st@hotmail. com)
+-Tanuki (tanuki  st@hotmail.com)
 
 I  must say that,  over all,  the  entire  concept  and run  o f  the  Mind's  Eye Theatre Journal  has  been  a  good  one.  There  have  only  beena  few  small  problems  that  I  have personally had with the Journals. Well, one really. One very big problem that continually pisses me off everytime I see that copy of  the Journal. It's about the Lores . . . Now, many of you out  there might  be happy that  White  Wolffinally came out and downright said what each level of each of the most predominant  Lores does. But let me tell you something  about those levels.  They  suck. If I spend more than fourteen  seconds in an actual LARP  game with one of those creature types, chances  are  I will  be able  to  learn  more about said  creature  type than  someone  with a Kindred Lore of 40. How do I know it's 14 seconds?  I timed it.
 
@@ -167,19 +165,19 @@ In short, the  system  screws anyone  who wants to come  into  agame  knowing mo
 
 Yeah.. .
 
--Unagodd (frederick@csus. edu)
+-Unagodd (frederick@csus.edu)
 
 <!-- image -->
 
-I'm very fond of  the concept of  a magazine as support for a game. Games Workshop does the same, TSR does (did ?? I  don't fallow them anymore) the same. When issue 1  and 2 came out, I  was very enthousiastic, but I''m somewhat dissapointed by the amount of useful1  info I  find in them. Half of the time, there is not a single item of use in them to me.
+I'm very fond of  the concept of  a magazine as support for a game. Games Workshop does the same, TSR does (did ?? i don't fallow them anymore) the same. when issue 1  and 2 came out, i was very enthousiastic, but i'm somewhat dissapointed by the amount of useful1  info i find in them. half of the time, there is not a single item of use in them to me.
 
-the things I''m  after  is metaplot  and  rules(  clarification). A  magazine  gives  the possibility to influence the WOD, a bit like the updates  on the WOD in books like  TOTB &amp; NOP. A magazine is a  perfect tool to  bring the  changes  on  a  regular timed base. Example : issue  10 talks about the changes in California, issue  11 about the takeover by the cama from ny, issue  12  about .. . You get the picture.
+the things i'm  after  is metaplot  and  rules(  clarification). a  magazine  gives  the possibility to influence the WOD, a bit like the updates  on the WOD in books like  TOTB &amp; NOP. a magazine is a  perfect tool to  bring the  changes  on  a  regular timed base. example : issue  10 talks about the changes in California, issue  11 about the takeover by the cama from ny, issue  12  about .. . you get the picture.
 
-also, things like (much  more) FAQ's are something  that I  would like to see in the magazine.
+also, things like (much  more) FAQ's are something  that i would like to see in the magazine.
 
-I suppose all in all these are good publications, but they don't offer what I''m looking for.
+I suppose all in all these are good publications, but they don't offer what i'm looking for.
 
--Xavier Muylaert (Muvlaert@mail. com)
+-Xavier Muylaert (Muvlaert@mail.com)
 
 For me, I enjoy the MET  Journal.  The  additional  rules  for  minor  bloodlines  and updates  to  the  METgameworld (like  Hunters,  recent events  in  Wraith  matters,  etc.) are a welcome bonus. Articles detailing  history and/or exposing metaplot information are wonderful as well, because not all LARPers follow the tabletop game.
 
@@ -203,17 +201,17 @@ Additionally, the MET  Journal  could be the  best place to  publish errata that
 
 Page XX should have said' errata. No one likes admitting mistakes but we all make them: customer,  author and publisher alike. Unfortunately  for the authors and  publishers,  the  customer is traditionally right. Make us happy  and  give  us the clarifications  and updates  we seek in a timely fashion.
 
--James A. Hussiere (drjamez@maine. rr. com)
+-James A. Hussiere (drjamez@maine.rr.com)
 
 I like the MET  Journal  for a number of reasons, some of which I'll  describe below. However, I must clarify a point before I list my  pros/cons.
 
 I am a  mature  role-player  who  prefers the  richness of the World  of Darkness setting and the Mind's Eye Theater rule system.
 
-I do  not  consider  myself a  'Mindless  Fanboy'. I do not  purchase a periodical 'just  because it's  cool!'  I do  not purchase every single White Wolf product that comes along, 'A  Vampire  cigerette lighter? No  thanks, I don't  smoke.'  I do not preach about my characters,  past and present, to unsuspecting game developers.
+I do  not  consider  myself a  'Mindless  Fanboy'. I do not  purchase a periodical 'just  because it's  cool!'  I do  not purchase every single White Wolf product that comes along, 'A  Vampire  cigerette lighter?No  thanks, I don't  smoke.'  I do not preach about my characters,  past and present, to unsuspecting game developers.
 
 I do consider myself an 'MET Evangelist' and I try to set a good example of  our hobby. I do purchase a product when its content is good and the MET Journal gives me the content that I want by providing MET setting and rules clarifications that enrich my chronicle.
 
-WhatdoIlikeabuttheMETJournal? HerearemytopthreeDesertIslandanswers.
+WhatdoIlikeabuttheMETJournal?HerearemytopthreeDesertIslandanswers.
 
 1.  The MET Journal  has a sense of humor. Unlike other trade publications that shall go nameless, the MET Journal is grounded enough to poke fun at themselves and  the product they  create.  When was  the last time a certain company of upper-west coast of magic-users actually  warned their players about the risks of overindulgence  in their product. Bye Rich, 1' 1 1 miss the wit!
 2.  The MET Journal is not a sales engine, but is an advertisement free publication  focused  on  the Mind's  Eye rule system. I don't  have to wade through articles, ads or reviews of  other systems that I'm  not interested in. I  like my content to be direct and I get that with the Journal.
@@ -225,41 +223,41 @@ What would I like to see improved in the MET Journal?
 2. I would like to see the most current MET rules clarifications (especially the increasing cross-over  questions) addressed and  published in  a  timely  fashion. Instead  of having  to wait and then  buy a new MET  Rules book to see the current FAQ, I would like to  find it,  indexed  and accurate, in the  MET  Journal.  It would save me and my  players from having to search through the various MET rules books to find the approprate  data, and time saved means more time to play!
 3. I would like to see more articles focused on improving our Live Action hobby. While you already have a number of articles formatted  for the Journal, I would like to see a few more columns on such topics as, chronicle creation, storytelling  techniques  and pitfalls, legal aspects such as waivers and insurance, and how to handle the press without digging your own roasting pit.
 
-Xybertec (Cybertec@cyberdude. com)
+Xybertec (Cybertec@cyberdude.com)
 
 <!-- image -->
 
 <!-- image -->
 
-Thebiggest problemsIseeinthe Journalarethefiction. Ithasbeen said that thefictioninthebookisthebasisofWhiteWolfethestorylineandflavorof the game. Withall of thebooks out there, be theynovelsor sourcebooks, thereis plentyoffictionforthebackdropof thegame, andtoaddflavor. Mosteoplelook to theMET Journal asa guide to thequestions that are overlooked inthe other METsoucebooksthingsthattheFAQsjustdoncoversatisfactorily. That, and rulesforcharactersoutofthenorm, likethenihilistsandotherbloodlines/kiths/ tribes/etc. Are the selling points of this publication. The tips on"newbie's first nightcostuming, andlocation acquisitionare alsoverygoodsectionstohavein thebooks, alongwiththehumorovergamertypes. Theonlythingthatitismissing atthispointisasubscriptionoption, whichanydiehardWWgamerwouldutilize.
+Thebiggest problemsIseeinthe Journalarethefiction.Ithasbeen said that thefictioninthebookisthebasisofWhiteWolfethestorylineandflavorof the game.Withall of thebooks out there,be theynovelsor sourcebooks,thereis plentyoffictionforthebackdropof thegame,andtoaddflavor.Mosteoplelook to theMET Journal asa guide to thequestions that are overlooked inthe other METsoucebooksthingsthattheFAQsjustdoncoversatisfactorily.That,and rulesforcharactersoutofthenorm,likethenihilistsandotherbloodlines/kiths/ tribes/etc. are the selling points of this publication.The tips on"newbie's first nightcostuming,andlocation acquisitionare alsoverygoodsectionstohavein thebooks,alongwiththehumorovergamertypes.Theonlythingthatitismissing atthispointisasubscriptionoption,whichanydiehardWWgamerwouldutilize.
 
-——Jeff Szappan(radallyn@hotmail. com)
+——Jeff Szappan(radallyn@hotmail.com)
 
-Ienjoy the fiction a great deal. Keep it.
+Ienjoy the fiction a great deal.Keep it.
 
-Theinfoon more esoteric/rare splats(clans/tribes/bloodlines/kiths/guilds/ traditions/crafts/whatevers)isGREAT, andoneofthemainreasonsIpickupthemag.
+Theinfoon more esoteric/rare splats(clans/tribes/bloodlines/kiths/guilds/ traditions/crafts/whatevers)isGREAT,andoneofthemainreasonsIpickupthemag.
 
-The sense of humor is necessary, and utterly appropriate.
+The sense of humor is necessary,and utterly appropriate.
 
-IalsoREALLY like theletterscolumns, and thegame listingsaregreat as well. AlthoughIwish themagazine includedmorewebsite listingsforgames, Ialsounderstandthatmanygamesdonhaveasitesothatmayotbexable on your end of things in either case,
+IalsoREALLY like theletterscolumns,and thegame listingsaregreat as well.AlthoughIwish themagazine includedmorewebsite listingsforgames, Ialsounderstandthatmanygamesdonhaveasitesothatmayotbexable on your end of things in either case,
 
-More FAQ's, though. Definitely.
+More FAQ's,though.Definitely.
 
 That's all I can come up with right now..
 
 ChimpPimpout.
 
-—MonkeyLove(TheChimpPimp@monkeyman. com)
+—MonkeyLove(TheChimpPimp@monkeyman.com)
 
-Myfavoriteissue, byfar, was#3. believethatwasthenethatwas0%roleay, 10%kewpower. Whilekewlpowerzareinterestingtoseelpersonally, dontfeelhat mycharacterisanyless completebecauseIdon'thavethatbrandspankingnewritual.
+Myfavoriteissue,byfar,was#3.believethatwasthenethatwas0%roleay, 10%kewpower.Whilekewlpowerzareinterestingtoseelpersonally,dontfeelhat mycharacterisanyless completebecauseIdon'thavethatbrandspankingnewritual.
 
-Iwouldliketoseemorearticlesonhowtobringthe'personal'backintothe storytelling system. How to efficiently identify aspects of a character thatwill mosteffectively develop theirownpersonal tieto thechronicle. Witha game averaging8OplayersIfindmyselfdelvingintometa-plotmoreoftenthanI would like andsometimes havetorefocusonindividual-specificevents. I'msureother chronicleshave the sameproblem.
+Iwouldliketoseemorearticlesonhowtobringthe'personal'backintothe storytelling system.How to efficiently identify aspects of a character thatwill mosteffectively develop theirownpersonal tieto thechronicle.Witha game averaging8OplayersIfindmyselfdelvingintometa-plotmoreoftenthanI would like andsometimes havetorefocusonindividual-specificevents.I'msureother chronicleshave the sameproblem.
 
-Howabout an article on differentmanagement techniques? Howdogames divide up the storytellingresponsibilities andwhat have theylearned as good/ bad techniques? Wehaveourownway of doing thingsbutI bet someoneelse heremay havefiguredout a betterway tohandlegame duties andviceversa.
+Howabout an article on differentmanagement techniques?Howdogames divide up the storytellingresponsibilities andwhat have theylearned as good/ bad techniques?Wehaveourownway of doing thingsbutI bet someoneelse heremay havefiguredout a betterway tohandlegame duties andviceversa.
 
-—D. Scott Stewart(storyteller@eotr. org)
+—D.Scott Stewart(storyteller@eotr.org)
 
-OK. Things in the jourmal that I like:
+OK.Things in the jourmal that I like:
 
 - 1.)All theconversionsforstuff thatfallsbetween thecracks isgreat.Even theWraith/WyldWeststuffisprettygood.
 - 2.)the"howtodeal with problemplayers"articleswere excellent.Let'ssee more detailed troubleshootingstuffin thefuture.
@@ -284,7 +282,7 @@ ThingsI'd liketo seein theJournal:
 - 3.)Eventhought I don'tuseitinmygame,Iwould liketoseemore detail givenontheWWmetaplot.Therehavebeen acouplecases inthejournalwhere anevent hasbeenreferred to(suchas thefallof theTrueBlackHand),butnot explained at all.Thiswould come inreally handy for thosewho arereally into LARP,butdon'treallyplayTT.Maybeeven a timelineof some sort,with pertinent eventslisted?
 - 4.)I'd also like to see articles submitted fromSTs about any"experiments" they mayhaverun in their games and how theyworked.For example,STshave alwaysbeenencouraged tomakeuptheirownsettingsforgames.I'dliketosee how successful (or not) other STs have been with"going outside the lines."
 
-Overall, thejournalhasbeenagreathelptoLARP, andIdliketocommend Carl and all those who have worked on the Journal for doing a great job.
+Overall,thejournalhasbeenagreathelptoLARP,andIdliketocommend Carl and all those who have worked on the Journal for doing a great job.
 
 - —Avatar\_X(AvatarX@nospam.angelfire.com)
 
@@ -302,7 +300,7 @@ Well, for starters,  Mind's Eye Theatre isn't going anywhere,  although the Jour
 
 Mind's Eye Theatre still has places to go, things to do and people to meet. The upcoming Changing Breeds Book 1 and Vampire Storytellers  Guide will continue to blaze new trails for LARPers of all stripes. Looking to the future, I definitely  want the game line's  focus to be on telling stories and giving  folks the best tools with which to do so.
 
-Typically, last issues are considered  a place to air prophecies, predictions and similar vaporware. Based on what I've been seeing in the course of my job, I'll venture to put  on  my foresight  cap  and  play at  prophet.  I think the  live-action genre is in for some interesting times ahead.  This hobby has been around for at least a  decade,  I  f  not a  little  longer.  The  LARPing  world of today is not the same as it was when Masquerade  first came out. Some of the conventions of modern LARPing will change, and all of them will have to face up to the times. Exactly how audiences'  tastes will change as days go by is up to social  scientists (and  our marketing  department) to figure out, but you can be sure that MET books will adapt to fit them.
+Typically, last issues are considered  a place to air prophecies, predictions and similar vaporware. Based on what I've been seeing in the course of my job, I'll venture to put  on  my foresight  cap  and  play at  prophet.  I think the  live-action genre is in for some interesting times ahead.  This hobby has been around for at least a  decade,  i f  not a  little  longer.  The  LARPing  world of today is not the same as it was when Masquerade  first came out. Some of the conventions of modern LARPing will change, and all of them will have to face up to the times. Exactly how audiences'  tastes will change as days go by is up to social  scientists (and  our marketing  department) to figure out, but you can be sure that MET books will adapt to fit them.
 
 The  folks  who've been engaging in live-action roleplaying for several years now, like myself, are admittedly  getting a bit long in the tooth. The folks who saw Masquerade come into being are getting married, having kids and experiencing  various  other  grown-up  rites of passage. But now that we're doing  all this growing up, will we need to give up 'playing  pretend'?  Will new games  give rise to 'e1ders'mourningfor  the  good old days  and  wondering  what's  the matter  with kids today, while the 'kids'  wonder when those  'fogies0  are  going  to retire to the old LARPers'  home?  Those OG's (original  garners)  who  have continued to  press on often have more collective roleplaying experience under their belts than their new (and younger) Storytellers do.
 
@@ -312,7 +310,7 @@ Prediction:  They're  not quite the Geritolset, but olderplayers  are becomingaf
 
 ## MIND'S EYE THEATRE JOURNAL
 
-Those  coming in fresh to  the games  are entering  with less knowledge of the material under their belts. They're less likely to have encountered the World of Darkness  in  a  tabletop  format  than  to  have  been  recruited  via  a  friend's recommendation, word of mouth or just happening upon a Laws of . . . Book in a local store. This concern has already been addressed tentatively  with the changes to the books that give new Mind's Eye readers a glimpse of the setting. New rulebooks  now start with ambient fiction and setting material that puts  the rules material in some kind of context.
+Those  coming in fresh to  the games  are entering  with less knowledge of the material under their belts. They're less likely to have encountered the World of Darkness  in  a  tabletop  format  than  to  have  been  recruited  via  a  friend's recommendation, word of mouth or just happening upon a Laws of . . . book in a local store. This concern has already been addressed tentatively  with the changes to the books that give new Mind's Eye readers a glimpse of the setting. New rulebooks  now start with ambient fiction and setting material that puts  the rules material in some kind of context.
 
 The newer generations of gamers are also coming in with wildly different background materials. We came to the games with impressions of The Crow and Interview with a Vampire, and we  wanted to play what we  saw. Our younger siblings,  however,  are more familiar with Buffy and The Matrix. This difference isn't necessarily destructive to the hobby, but it will become a factor as groups try to create stories that pander to both sets of creative expectation.
 
@@ -364,7 +362,7 @@ I
 
 .\_-I -come more personal moments when aiki'g  'What  now?'  is entirely appropriate. Take, for  example, the  horrifying, soul-shattering  moment when you suddenly realize  that.. .
 
-. .. you're bored to freakin'  death with your game as it now stands. So,  to borrow a line from Dennis Hopper, whaddaya do, whaddaya do?
+. ..you're bored to freakin'  death with your game as it now stands. So,  to borrow a line from Dennis Hopper, whaddaya do, whaddaya do?
 
 The  easy step to take is the  boldest: Quit. Write a snide or angry or regretful email -your choice -to the Storyteller, the Narrators, your fellow players and random passersby announcing your departure and enumerating  your reasons for jumping ship. Doing so provides no small measure of catharsis,  but it also  pretty much eliminates the possibility  of ever  returning  to  the  game. Phrases like  'bloated,  flaccid  storytelling  style' and 'emotionally  dishonest bouts of Rock-Paper-Scissors' may seem fun to write, but they do a wonderful job of ensuring that you're never going to be welcomed back.
 
@@ -374,7 +372,7 @@ A more sensible approach is to sit down and dope out what exactly bothers you ab
 
 Once you've got  those  concerns  mapped  out,  you  can  look  at them  with  a sufficiently  jaundiced eye and decide what's called for next. Maybe quitting -or just taking some time off -is the appropriate solution. The trick is remembering that it's a solution,  not a grandiose gesture of defiance. In the grand scheme of things, quitting a LARP is not quite on  the same level as,  say,  standing  in  front of a tank in  Tiananmen Square. Maybe a little time off is all you need to  get your batteries recharged,  or maybe you're done with that game for good, but it's still just a game you're talking about.
 
-What that means is, if you're  going to go,  go. Do it.  Don't  make speeches  about  how it pains you to leave, don't wait for your adoring ghouls to beg you to come back and save the  game, don't  expect the world to  end  just because you're walking away. Just  go, and move on. Nothing is more annoying (including the brain surgeons who throw something that looks like an obscene hand gesture from a deranged gibbon during RP-S and claim that it's alternately a scrawny rock, curved scissors or really thin sheets of paper) than an ex-player who tries to imitate Banquo's  ghost by sticking around for the feast. Who knows?  Maybe once you're away for a bit, you'll decide that you want to come back. Maybe you'll want to start your own game after all. And maybe you'll decide vou've iust had enoueh. And vou'11 close the book on that Darticular amect of your life. Who knows? Not I. My psychicpowers don'twork on days thatend in"y."Just makeyourchoice andfollowthrough, whatever thatchoicemaybe.
+What that means is, if you're  going to go,  go. Do it.  Don't  make speeches  about  how it pains you to leave, don't wait for your adoring ghouls to beg you to come back and save the  game, don't  expect the world to  end  just because you're walking away. Just  go, and move on. Nothing is more annoying (including the brain surgeons who throw something that looks like an obscene hand gesture from a deranged gibbon during RP-S and claim that it's alternately a scrawny rock, curved scissors or really thin sheets of paper) than an ex-player who tries to imitate Banquo's  ghost by sticking around for the feast. Who knows?  Maybe once you're away for a bit, you'll decide that you want to come back. Maybe you'll want to start your own game after all. And maybe you'll decide vou've iust had enoueh. and vou'11 close the book on that Darticular amect of your life.Who knows?Not I.My psychicpowers don'twork on days thatend in"y."Just makeyourchoice andfollowthrough,whatever thatchoicemaybe.
 
 Then again, there are times when the big shakeup isn't your doing. Games have been known, for any number of reasons, to fall down and go boom. Maybe the main Storyteller moves, quits  or (Deoprohibe!  -again with the Latin! It  means'God  forbid, in  case  you're  wondering,  but let's  face it, Gladiator made this stuff cool  again.) acquires another commitment that requires a sizable  time investment. (Kids,  for example. Kids are a big one.) Sometimes the game just winds down of its own accord,  as the  story line wraps  up and  nothing  arises  to  take its  place. Player attrition is another killer, especially if   the game is one that relies on  existing community to the extent that it rarely draws new blood. (In  case you're wondering, that's a nice way of saying 'Someone kills off all the newbies'  characters until the players stop coming back.') And sometimes you just show up and the only people there are the Storyteller's SO and the janitor, swapping war stories and comparing their favorite vintages of chardonnay. Hey, it happens.
 
@@ -392,7 +390,7 @@ persistence.  There's no great  Pilgrim's Progress-style reward  for  enduring t
 
 That's  because the second responsibility is to be something  other  than a  pain in the ass to  everyone  you're  playing with. You've  got  no  right to  keep  others from  having  fun, even if you in your superior wisdom know that they're playing the game wrong or by inferior  rules  or  whatever. (And  of course I'm  not talking to you. I'm  talking to that guy you know who'd act that way. Yeah, you know the one I'm talking about. He's a jerk, isn't he?  What a bastard.) If other folks are having  fun, let them. What exactly do you gain from deflating  the tire of their happiness,  other  than more angry, sweaty company by  the side of the road?  Back off and respect their enjoyment, even if you can't share it. If, however,  you're  only  happy when other people are embedded in the same morass of misery wherein  you pass  your darkened  existence,  you need to  find the local Oblivion game and volunteer as a Shadowguide. To every thing there is a season, and all that. Make yourself useful.
 
-That's what it all comes down to, then. Find a way  to have fun with the game, regardless of its incarnation  or rules set or setting or whatever, and don't step on anyone else's enjoyment. In the end -and Steve  Wieck is going to kill me for daring to put this in print -you don't have to buy every new book that comes along. You just have to be willing to have fun and to allow for the possibility that a new title or a new edition or a new game (or even a new way of playing that game) might actually be enjoyable. Mind you, I certainly hope you don't give up on the old stuff. Those of us who worked on the old books will salute  you for  your loyalty,  and  then  surreptitiously  check  the  amazon. com sales  rank of each  o f  our  titles  when we think  no  one's  looking.  You just can't  let  your love of  the old stuff preclude you from the possibility of having fun with the new.
+That's what it all comes down to, then. Find a way  to have fun with the game, regardless of its incarnation  or rules set or setting or whatever, and don't step on anyone else's enjoyment. In the end -and Steve  Wieck is going to kill me for daring to put this in print -you don't have to buy every new book that comes along. You just have to be willing to have fun and to allow for the possibility that a new title or a new edition or a new game (or even a new way of playing that game) might actually be enjoyable. Mind you, I certainly hope you don't give up on the old stuff. Those of us who worked on the old books will salute  you for  your loyalty,  and  then  surreptitiously  check  the  amazon.com sales  rank of each  o f  our  titles  when we think  no  one's  looking.  You just can't  let  your love of  the old stuff preclude you from the possibility of having fun with the new.
 
 Come to thinkof it,  that'sactually apretty  good way to approach  life. Give  it  ashot. Start small, say, with LARPing. After all, this cockamamie hobby just might be good for something after all.
 
@@ -412,7 +410,7 @@ Most of us are not into Mind's Eye Theatre live-action roleplaying for oneshot g
 
 Big games and long chronicles are not just different and desirable for the players, they're a real challenge for the Storytellers and organizers. Game sites must be found, plots must be interwoven,  characters must be directed, teams of Storytellers  need coordinating, and all of the rest of the stuff we all help with to get these huge albatrosses  to soar and swoop like eagles must be done. They are outrageous fun when everything goes well. They are mind-splitting headaches when they do not.
 
-So, do you want to play in or host a huge game?  Have you ever wanted to storytell  or  play in a  sprawling  multi-city  chronicle? How  about  just adding  a  few more ideas and possible solutions for that big game you already enjoy or run?
+So, do you want to play in or host a huge game?  Have you ever wanted to storytell  or  play in a  sprawling  multi-city  chronicle?How  about  just adding  a  few more ideas and possible solutions for that big game you already enjoy or run?
 
 Well, that's why I'm writing.
 
@@ -468,7 +466,7 @@ While  this divergence makes larger games  more  interesting,  it poses a signif
 
 slightly different style of working with character-driven plots and you can see why games with more and more Storytellers,  such as multi-city chronicles, face many different challenges for moderating  character-driven plots and writing their own plots.
 
-Plot lines have to be satisfying to the players, something that a Storyteller can build into a plot he writes, but that  character-drivenplots  do  not necessarily include. However, each degree of  uncertainty introduced  by  increasing  the number of players or Storytellers makes writing plots more challenging.  In a game governed principally by character-driven  plots, Storytellers need a set of stock plot lines that can be  implemented  quickly when the character-driven plots dry up. A set of  stock plots may sound less interesting or challenging  to write than tailored plots,  but such I  s not the case. A set ofstock plots must cover the range ofplayers that may be attending  agame.  The  plots must be interesting, satisfying and linked into the chronicle in an understandable way, rather than randomly throwing a treasure-laden Judas goat out for the characters to fight over. Shrewd storytelling teams in multi-city  chronicles weave lots of plot line hooks  into the chronicle so that  they  can put  a plot  into play  at the most opportune time .
+Plot lines have to be satisfying to the players, something that a Storyteller can build into a plot he writes, but that  character-drivenplots  do  not necessarily include. However, each degree of  uncertainty introduced  by  increasing  the number of players or Storytellers makes writing plots more challenging.  In a game governed principally by character-driven  plots, Storytellers need a set of stock plot lines that can be  implemented  quickly when the character-driven plots dry up. A set of  stock plots may sound less interesting or challenging  to write than tailored plots,  but such i s not the case. A set ofstock plots must cover the range ofplayers that may be attending  agame.  The  plots must be interesting, satisfying and linked into the chronicle in an understandable way, rather than randomly throwing a treasure-laden Judas goat out for the characters to fight over. Shrewd storytelling teams in multi-city  chronicles weave lots of plot line hooks  into the chronicle so that  they  can put  a plot  into play  at the most opportune time .
 
 In large LARPs, players do not always create their characters'  agenda with a concern for entertaining the assembled group. Moderating character-driven plots can seem as difficult  as negotiating  trade rights between hostile countries. Players, you  can help  by  keeping the group in mind  as you decide what your character will do each night. Storytellers, you have to balance the enjoyment that the group is drawing from all the combined plots in play and the desire for players to have their characters  in  the spotlight just enough  to  make their roleplaying experience.
 
@@ -570,7 +568,7 @@ Long-running Storyteller characters that are either mentors or foils  (or even b
 
 ## I  N V O   LVI N cj EVERY o  N  E
 
-... Is  very hard. Sometimes,  players are at  the  game to  watch it like  television or  just to  socialize  with  friends. Having  an  out-of-character  room at  larger  events is  a  godsend.  Character  creation  can  take  place there,  as  can  plenty o f  socializing. Players  (and  their  characters)  who  are  there  to  watch  the  game  can  be entertained by keeping a high level of interesting roleplaying going on among your resident hams. Make sure that you are initiating sweeper plots every once in  a  while to see I  f  the  wallflowers  will  nibble,  but if not,  do  what  you can  to  keep the center stage lively.
+... is  very hard. Sometimes,  players are at  the  game to  watch it like  television or  just to  socialize  with  friends. Having  an  out-of-character  room at  larger  events is  a  godsend.  Character  creation  can  take  place there,  as  can  plenty o f  socializing. Players  (and  their  characters)  who  are  there  to  watch  the  game  can  be entertained by keeping a high level of interesting roleplaying going on among your resident hams. Make sure that you are initiating sweeper plots every once in  a  while to see i f  the  wallflowers  will  nibble,  but if not,  do  what  you can  to  keep the center stage lively.
 
 Players  who are  interested  in  involving  others  should take the initiative  and approach the  quiet ones. Sometimes  these players are new, and sometimes they are just playing quiet characters. Take one  of your character's goals and present it  as  a  joint  venture.  Let  the quiet  ones get  involved  at whatever  level  is comfortable  for  both of  you.  Have your  character  introduce  them  to  your associates. You can make a player's night by bringing the game to him for just a little while.
 
@@ -635,7 +633,7 @@ The  Hunger is not the unpleasant ache  of skipping  lunch  or  dinner. A  human
 
 ## E RENZY
 
-The world shifts to black and white, with just a few brilliant points of color. Threats-color. Prey -color. Everything  else  simply  fades  into  thescenery.  Speech I  s  a n   aimless,  unintelligible  mess, and other noises sound like they're distorted  and far away. That is, unless they indicate a threat of some  kind, in  which case even the softest noise is as loud as a pistol fired next to the vampire's ear. To make matters worse, this black and white film changes speed constantly,  without warning, going fiompainfullyslowmotion  t o a h t I  c   fluny  ofimagesat  theedgeofcomprehension.
+The world shifts to black and white, with just a few brilliant points of color. Threats-color. Prey -color. Everything  else  simply  fades  into  thescenery.  Speech i s  a n   aimless,  unintelligible  mess, and other noises sound like they're distorted  and far away. That is, unless they indicate a threat of some  kind, in  which case even the softest noise is as loud as a pistol fired next to the vampire's ear. To make matters worse, this black and white film changes speed constantly,  without warning, going fiompainfullyslowmotion  t o a h t i c   fluny  ofimagesat  theedgeofcomprehension.
 
 ## PAIN
 
@@ -651,7 +649,7 @@ Once he is able to overcome his revulsion and disgust at what he is doing, a vam
 
 ## MIND'S EYE THEATRE JOURNAL
 
-there's  warmth in the arm  or  leg  or wherever it  was you willed blood to  go,  but it's  not a  comforting  heat. It's  more  like  the  warmth  you get when  you throw the last  log  onto the  fire.  Itmaykeepyoufora time, butyouknowit'sgonejustthesame. Youknowthat before  long,  the  cold  will  drive  you  out  to  search  for  more.  And  our  winter  never  ends.'
+there's  warmth in the arm  or  leg  or wherever it  was you willed blood to  go,  but it's  not a  comforting  heat. It's  more  like  the  warmth  you get when  you throw the last  log  onto the  fire.  Itmaykeepyoufora time,butyouknowit'sgonejustthesame.Youknowthat before  long,  the  cold  will  drive  you  out  to  search  for  more.  And  our  winter  never  ends.'
 
 - -Favian, Elder Setite
 
@@ -661,7 +659,7 @@ Certain wise Cainites can force their bodies to flow like blood, allowing them t
 
 ## THE  MOMENTOE BEING  STAKED
 
-Some  say that  the  heart  only  finally  stops  when  the  weight of years  becomes  too much for it  to  bear.  Now t r y to  imagine  what  the  weight of immortality  must  feel  like. Pierced through a  heart  unceasing, staked  vampires  feel  first as I  f  the  world  has  fallen upon them, a  dull,  immense,  unyielding  pressure  that smothers  ever  part  o f  the  body until the  slightest  movement becomes  impossible. Sensation vanishes  next,  as if the normal world has suddenly  fallen  away around them,  dropping them down into an endless well of silence,  where at last they sink into the cold waters of torpor.
+Some  say that  the  heart  only  finally  stops  when  the  weight of years  becomes  too much for it  to  bear.  Now t r y to  imagine  what  the  weight of immortality  must  feel  like. Pierced through a  heart  unceasing, staked  vampires  feel  first as i f  the  world  has  fallen upon them, a  dull,  immense,  unyielding  pressure  that smothers  ever  part  o f  the  body until the  slightest  movement becomes  impossible. Sensation vanishes  next,  as if the normal world has suddenly  fallen  away around them,  dropping them down into an endless well of silence,  where at last they sink into the cold waters of torpor.
 
 ## WEREWOLE: THE APOCALYPSE
 
@@ -719,9 +717,9 @@ Those who actually manage a creative act feel absurd and self-conscious, as if b
 
 ## GAIN IN^ GLAMOUR
 
-Like the blood vintages  of the  Cainites,  Glamour's  'feel'  largely depends  on  how a changeling gains it. Some fae gather the dark essence found in fnghts, chills and nightmares, and  they come  to  crave the icy bum of such  twisted  Glamour  as  it suffuses their  frames. At  once  forbidding  and as enticing  as adead  lover's  whisper, it  flows  over theirfleshinchillnightbreezes. Otherfaedrinkdeepofthe heady,  intoxicatingpassion to  be  found  in  physical e c s t a s y , musical abandon  or  other  headlong  flights  o f  Glamour. They savorthesurgingtingleofprimal joy andhappinessthataccompaniesit. Glamour fiomchildren'sartisoftenstickyandsweet, likesummercandy, while  the  worksofolder artists make up in subtlety  and nuance what they often  lack in immediate  energy  and vibrancy. Mortal creativity is a boundless rainbow o f   sensation, and no faerie ever experiences  quite the same sensation  twice.
+Like the blood vintages  of the  Cainites,  Glamour's  'feel'  largely depends  on  how a changeling gains it. Some fae gather the dark essence found in fnghts, chills and nightmares, and  they come  to  crave the icy bum of such  twisted  Glamour  as  it suffuses their  frames. At  once  forbidding  and as enticing  as adead  lover's  whisper, it  flows  over theirfleshinchillnightbreezes. Otherfaedrinkdeepofthe heady,  intoxicatingpassion to  be  found  in  physical e c s t a s y , musical abandon  or  other  headlong  flights  o f  Glamour. They savorthesurgingtingleofprimal joy andhappinessthataccompaniesit.Glamour fiomchildren'sartisoftenstickyandsweet,likesummercandy, while  the  worksofolder artists make up in subtlety  and nuance what they often  lack in immediate  energy  and vibrancy. Mortal creativity is a boundless rainbow o f   sensation, and no faerie ever experiences  quite the same sensation  twice.
 
-Whenrewarding  Glamour,  Storytellers  should  takecare  toremember  where it's coming  from,  and  describe  it  accordingly,  even I  f  only  briefly.  Players  will think  a  lot more about spending the dreams of a good friend or an innocent class o f   amateur poets than they will I  f   they're simply told, 'You gain three Glamour Traits.'
+Whenrewarding  Glamour,  Storytellers  should  takecare  toremember  where it's coming  from,  and  describe  it  accordingly,  even i f  only  briefly.  Players  will think  a  lot more about spending the dreams of a good friend or an innocent class o f   amateur poets than they will i f   they're simply told, 'You gain three Glamour Traits.'
 
 ## BEDLAM
 
@@ -755,7 +753,7 @@ Losing Pathos is just the opposite. It's the empty,  spent feeling that comes wh
 
 ## ~ A I N I N $   L OSING ANGST
 
-Angst gained whispers, 'You have come all this way and suffered and felt so much, but  it's all for nothing, nothing, NOTHING.' Different from  the energizing if  wicked  rush  that  is  gained  from  negative  Pathos,  Angst  is  a crippling, burning poison of the soul. It rockets through the character like a bullet train of sickening  despair  until it reaches the  deepest  recesses  o f  the  heart. There it crashes in an explosion of defeat and shame,  leaving  a festering,  oozing wound on the psyche. No matter how much Pathos you lose or gain, Angst remains the mocking voice of nothingness beneath it all. It laughs and reminds you always that come rise or fall, the void is ever watching.. . And ever hungry.
+Angst gained whispers, 'You have come all this way and suffered and felt so much, but  it's all for nothing, nothing, NOTHING.' Different from  the energizing if  wicked  rush  that  is  gained  from  negative  Pathos,  Angst  is  a crippling, burning poison of the soul. It rockets through the character like a bullet train of sickening  despair  until it reaches the  deepest  recesses  o f  the  heart. There it crashes in an explosion of defeat and shame,  leaving  a festering,  oozing wound on the psyche. No matter how much Pathos you lose or gain, Angst remains the mocking voice of nothingness beneath it all. It laughs and reminds you always that come rise or fall, the void is ever watching.. . and ever hungry.
 
 Angst lost surpasses  in intensity only  a dozen  or so  things: an  eleventh-hour pardon for the condemned, a joyous reconciliation for the broken-hearted, a Christmas  armistice  for the weary soldier,  a child born to the previously barren. Regardless, the underlying truth is the same. The  void can be defeated, the soul can triumph, and existence can be everlasting and glorious.
 
@@ -771,7 +769,7 @@ itchy-crawlies,  like little spiders are walking all over you. Then poof! You're
 
 ## LOSING CONTROLTO YOUR  OTHER SIDE
 
-One  moment,  thoughts  are  flitting  by normally;  the  next,  it's  like  you're pulling each  one  fromquick-dry  cement.  They're  still  coming,  but  slower  and  with  more  and more effort. That feeling keeps getting worse until you realize that your thoughts aren't getting stuck,  something  else is puulng from the other side. As thoughts slide away faster  andfaster,  fearpounces,  asliding,  lunging,  gripping  terror  ofquite  literally losing  your  mind to  this  dung. You dig  in a s hard as  you can, ripping  your  nails,  tearing your mind, but at last -in agonyyou black out.. . And wake up to a nightmare.
+One  moment,  thoughts  are  flitting  by normally;  the  next,  it's  like  you're pulling each  one  fromquick-dry  cement.  They're  still  coming,  but  slower  and  with  more  and more effort. That feeling keeps getting worse until you realize that your thoughts aren't getting stuck,  something  else is puulng from the other side. As thoughts slide away faster  andfaster,  fearpounces,  asliding,  lunging,  gripping  terror  ofquite  literally losing  your  mind to  this  dung. You dig  in a s hard as  you can, ripping  your  nails,  tearing your mind, but at last -in agonyyou black out.. . and wake up to a nightmare.
 
 ## MOVINC~THROUGH THE TEMPEST
 
@@ -809,7 +807,7 @@ floating right in front of you. You could reach out and actually touch your soul
 
 ## BEINC~ BNCHANTED
 
-'''I~s magical!' 'It's glorious!' 'It's  every dream I've ever  had!' Bulkhit! Like it or not -and believe me, most o f  the time they don't  care either  way -you're in their  world,  and  you can't  get out  until they say so. Sure, it's  not too  bad at  first; your heart races, there's  a fluttering in your stomach,  and this bright, refreshing feeling,  like you're  finally  using your senses  for the first time in your life. And it is pretty damn amazing, especially  the first time, like a storybook  painting come to life, I  f  you'll  pardon a cliche. Trouble is, deep  down  you know that this story won't  go away when you want it to, and trust me, it doesn't take much of creepy little feeling  of unreality  before  you  start  sliding  to  the  edge  of the  big cliff  marked 'CRAZY.'  Especially when you remember how nasty the endings  of most fairy tales are.'
+'''I~s magical!' 'It's glorious!' 'It's  every dream I've ever  had!' Bulkhit! Like it or not -and believe me, most o f  the time they don't  care either  way -you're in their  world,  and  you can't  get out  until they say so. Sure, it's  not too  bad at  first; your heart races, there's  a fluttering in your stomach,  and this bright, refreshing feeling,  like you're  finally  using your senses  for the first time in your life. And it is pretty damn amazing, especially  the first time, like a storybook  painting come to life, i f  you'll  pardon a cliche. Trouble is, deep  down  you know that this story won't  go away when you want it to, and trust me, it doesn't take much of creepy little feeling  of unreality  before  you  start  sliding  to  the  edge  of the  big cliff  marked 'CRAZY.'  Especially when you remember how nasty the endings  of most fairy tales are.'
 
 - S t e v e   Rhodes, embittered Kinain
 
@@ -833,11 +831,11 @@ by Peter Woodworth
 
 Jessica  sailed  into  his arms in  what  seemed to be cinematic  slow  motion,  her long red hair and bright green sundress with its starburst pattern of sunflowers fanning  out around  her  as  she  drifted  through  space.  Laughing  carelessly,  Martin caught her and spun around in dizzy circles.
 
-'OK, that's enough of  that,' he rumbled as his own stomach started to protest, using his deepest  Daddy voice. 'I don't  want us to be all woogly before smile across  his  face. He  was not as  young as  he  used to  be -not by a long stretch -and the effort and the sun had given him a nice sheen of sweat. Wehave thenicelunchMommymadeforus, OK? Shegiggled somemore, then dashed away. Hewatchedhergo, hisprideandhishappinessspreadingaslow
+'OK, that's enough of  that,' he rumbled as his own stomach started to protest, using his deepest  Daddy voice. 'I don't  want us to be all woogly before smile across  his  face. He  was not as  young as  he  used to  be -not by a long stretch -and the effort and the sun had given him a nice sheen of sweat. wehave thenicelunchMommymadeforus,OK?Shegiggled somemore,then dashed away.Hewatchedhergo,hisprideandhishappinessspreadingaslow
 
-'Martin!'  He  didn't  need  to  feel  his  wife's  hand  on  his a n n to  know she  was there. On magical days like  this,  he  thought,  no  one  would.  'Honestly,  honey, I thought you were going  to  make  her  sick,  you  spun  her s o hard!'There was no  reproach  I  n   the  words, thoughjustlitlumorandmrelovetilltakingositinfhReonl Onewas as natural to her ashe guessed it became for all mothers.
+'Martin!'  He  didn't  need  to  feel  his  wife's  hand  on  his a n n to  know she  was there. On magical days like  this,  he  thought,  no  one  would.  'Honestly,  honey, I thought you were going  to  make  her  sick,  you  spun  her s o hard!'There was no  reproach  i n   the  words, thoughjustlitlumorandmrelovetilltakingositinfhReonl Onewas as natural to her ashe guessed it became for all mothers.
 
-"Bah!"Martin exclaimed, catching Carol by the waist and spinning her around aswell. She laughed, stammering something about not messing up her hair."I can still do this as hard as I want!"
+"Bah!"Martin exclaimed,catching Carol by the waist and spinning her around aswell.She laughed,stammering something about not messing up her hair."I can still do this as hard as I want!"
 
 Carol batted at his shoulders playfully. 'OK,  strong guy, put me down!'
 
@@ -849,7 +847,7 @@ Carol'svoice was hot and  scandalized  in  his ear.  He  just grunted  in  respo
 
 'You were saying?'  He whispered, not letting  up. Her only response was to plant her hands on his chest and roll him over, their bodies slipping exquisitely across the silk sheets they saved for occasions like this. His promotion, the one they'd  been waiting for, the one  that  would move them  from the tiny apartment to  the  house by the  park they'd  been  talking about  since  before  Jessica  even  came along. Two champagne  flutes -both emptied about half an hour ago -stood on the dresser by the bed, looking almost elegant in the candlelight. 'DO  you want me to stop?'  he teased, leaning up to kiss her.
 
-'Don't  you dare!' she hissed, pushing him back down with a wicked smile. She moved, and he moved with her to keep the rhythm. She glanced over her shoulder  at  the  trim  white  bassinet in  the comer  where  Jessica  was (hopefully)  still deep in  the  blessedly  peaceful  sleep  she  had  slipped into at  the  start  of the  evening. A smile rounded her lips, the kind of smile  he'd only seen since  Jessica  was born, and when she kissed him next, he could almost taste the love flowing between them at the infinite bridge their lips made. I? Just don't know if we should be
+'Don't  you dare!' she hissed, pushing him back down with a wicked smile. She moved, and he moved with her to keep the rhythm. She glanced over her shoulder  at  the  trim  white  bassinet in  the comer  where  Jessica  was (hopefully)  still deep in  the  blessedly  peaceful  sleep  she  had  slipped into at  the  start  of the  evening. A smile rounded her lips, the kind of smile  he'd only seen since  Jessica  was born, and when she kissed him next, he could almost taste the love flowing between them at the infinite bridge their lips made. I? just don't know if we should be
 
 I
 
@@ -893,7 +891,7 @@ I
 
 I
 
-'So tomorrow Denise  and I will  do  some recon, learn  the layout of  the neighborhood, exit routes, anything else that we  might need  to know about,' Chambers  began once everyone  had eaten  and given their reports. 'Martin,  I'd like you to go to city hall and see I  f   you can get the plans for the  building interior. Most places in that area are rowhouses, though, so if you can't  find that specific  one, see ifyoucangetaplanforthattypeofhouse. We'llstructureourstrategy  to  workaround any alterations  it might've  made if needs  be. Valentine,  escort  him, same  as  before.'
+'So tomorrow Denise  and I will  do  some recon, learn  the layout of  the neighborhood, exit routes, anything else that we  might need  to know about,' Chambers  began once everyone  had eaten  and given their reports. 'Martin,  I'd like you to go to city hall and see i f   you can get the plans for the  building interior. Most places in that area are rowhouses, though, so if you can't  find that specific  one, see ifyoucangetaplanforthattypeofhouse. We'llstructureourstrategy  to  workaround any alterations  it might've  made if needs  be. Valentine,  escort  him, same  as  before.'
 
 Chambers  was making his usual rounds, the casual authority they'd granted him full in  his  voice.  He'd been  a Marine for  10 years before  starting  this ludicrous crusade, and everyone  deferred to him when it came to planning an you and  Kevin mind holding  down the fort while we're away?'  Sounds of  agreement all around. Chambers grinned, reaching  for the last of the lo mein.  'Alright  then, I'd  say we're  ready to  go. Nine
 
@@ -907,17 +905,17 @@ The  others  winced a  little, but Martin  and  sleep  were old enemies  now. 'F
 
 ITHERE AREMONSTERS EVERYWHERE
 
-Except Martin.  Pleading  eyestrain  from a  day  of paging through old records,  he wanderedoff  to  bed,  shrugging  o f f  their  familiar  pitying  looks.  Pour  oldguy,  he  figured they were thinking. He's  crippled,  and  he still does m e than his share.  He didn't want or need their  pity.  The  only  thing  he wanted from them -a  reliable  way out  of this insane life they led -was something they couldn't give him, no matter  how they momised to be trying to find it. No matter how much they'd done for him since he joined them, he Auidn. t help but hate them all a little when they pitied him. He wanted to go home, but they kept telling  him that it wasn't safe. They  kept relying on him to help them while they protected him, and they tried only occasionally  to find out what he had done to attract the ill attention of one of the undead. They convinced him not to leave, yet they pitied him for still wanting to.
+Except Martin.  Pleading  eyestrain  from a  day  of paging through old records,  he wanderedoff  to  bed,  shrugging  o f f  their  familiar  pitying  looks.  Pour  oldguy,  he  figured they were thinking. He's  crippled,  and  he still does m e than his share.  He didn't want or need their  pity.  The  only  thing  he wanted from them -a  reliable  way out  of this insane life they led -was something they couldn't give him, no matter  how they momised to be trying to find it. No matter how much they'd done for him since he joined them, he Auidn.t help but hate them all a little when they pitied him. He wanted to go home, but they kept telling  him that it wasn't safe. They  kept relying on him to help them while they protected him, and they tried only occasionally  to find out what he had done to attract the ill attention of one of the undead. They convinced him not to leave, yet they pitied him for still wanting to.
 
 After lying in bed thinking along those lines  for nearly an  hour, Martin still felt nowhere near sleepy. Instead, he found himself groping through his knapsack  until  he  found  the notebook  he'd been using earlier that day. He flicked on the bedside light so he could make out his looping  handwriting.
 
 Frank Clark, the notes read. Hmmm. Nice anonymous name for a monster to hide under, totally unaware that it had been discovered. Thanks to Martin's dogged research, his people knew where Mister Clark lived. In 48 hours, they were going to  make their  move,  and the  monster  didn't  even  suspect.  They  knew its defenses and its disguises,  and they  were going to  kill it. They were informed, armed and ready. They had been tracking this particular creature since before the Allentown fiasco, and they were finally in a position to strike.
 
-after  they  had left  Greg  behind with  half his face  blown off. Instead  of a  sleeping, undead monster, they had found no less than 10  armed men waiting for them, and Greg  had been  the  first through  the  thing's  haven  door.  The  rest of them  had fled instantly, spattered with their comrade's blood, bone and hair, but their escape  was a  narrow one. After everyone  regrouped at  the  temporary safe  house, they nearly disbanded their  crusade, even over Chambers'  enraged protests. They would have gone their separate ways entirely if not for the fear that they would be hunted down individually. Itwas a hollow thought, though, as it had been ever since Allentown. Martinstill remembered thesicksmellofblood and thelookontheothers'faces
+after  they  had left  Greg  behind with  half his face  blown off. Instead  of a  sleeping, undead monster, they had found no less than 10  armed men waiting for them, and Greg  had been  the  first through  the  thing's  haven  door.  The  rest of them  had fled instantly, spattered with their comrade's blood, bone and hair, but their escape  was a  narrow one. After everyone  regrouped at  the  temporary safe  house, they nearly disbanded their  crusade, even over Chambers'  enraged protests. They would have gone their separate ways entirely if not for the fear that they would be hunted down individually. Itwas a hollow thought,though,as it had been ever since Allentown. Martinstill remembered thesicksmellofblood and thelookontheothers'faces
 
 And there was truth to the fears; after Allentown, they had been unable to deny that at least one of the monsters was aware of who they were and was tracking them.  Martin's hindsight wondered at how they could've been so foolish as to be believe that word of  their efforts wouldn't travel eventually. Allentown had been a trap, pure and simple, and although they'd managed to get everyone  except Greg out alive, there was no need for anyone to point out that they couldn't  possibly be so  lucky next time. They didn't  even know what they'd done  to  give  themselves away  the  last  time,  and  the  one  who'd uncovered them was still out there.
 
-What if  this  is your time? The  nagging  voice in Martin's  mind  demanded.  How sure  are  you that the information  you found isn't  exactly  what the monster  wanted  you to find?  If you don't kill this thing that calls itself Clark, you'll  all b e dead. No use in denying  it. Even if you do destroy it, though, how long  until  another one picks up your trail? You don't even know how many  are on to you.  What, you think the other creaturesaregoingtocorneout, shakehands, say 'Wellplayed  andlet youoffthefield? That's crazy and you know it.
+What if  this  is your time? the  nagging  voice in Martin's  mind  demanded.  How sure  are  you that the information  you found isn't  exactly  what the monster  wanted  you to find?  If you don't kill this thing that calls itself Clark, you'll  all b e dead. No use in denying  it. Even if you do destroy it, though, how long  until  another one picks up your trail? You don't even know how many  are on to you.  What, you think the other creaturesaregoingtocorneout, shakehands, say 'Wellplayed  andlet youoffthefield? That's crazy and you know it.
 
 Martin did know it. He had said the same to the other hunters since the beginning, and they just turned it around in his face as another reason that he couldn't go back to his family yet.
 
@@ -935,13 +933,13 @@ Don't  b e  an  idiot. You'll  wind up dead somewhere -you and probably everyone
 
 'But  the others-' Martin rolled over, hearing the laughter  and low tones of conversation in the room beyond. 'I owe them for saving my life.'
 
-You'we repaid any debts 10 times over. Besides, they're  as good as dead now too Gregwasn'tstupidorunpreparedorevenafraid, but he's  stilldead.  It'sgoingtohappen to all o f   you. You're not going to save the world, Martin. I anyway，andoukoit. uethyeugerthanoubutsnerrlatet all wind up like Greg. They don't have forever toplan and wait like the enemy does.
+You'we repaid any debts 10 times over. Besides, they're  as good as dead now too Gregwasn'tstupidorunpreparedorevenafraid, but he's  stilldead.  It'sgoingtohappen to all o f   you. You're not going to save the world, Martin. I anyway，andoukoit.uethyeugerthanoubutsnerrlatet all wind up like Greg.They don't have forever toplan and wait like the enemy does.
 
 I
 
 Martin began weeping softly, as he had so many nights before this.
 
-I And knock  that  ojf.  It's distracting. Martin's tears obediently hitched into shallow breaths as he listened. So you're  a U   doomed,  so what?  It's  just time you faced it, that's all.  I  don't  l I  k e  it  any more than you do, b u t while you  just lie there and pine for Carol andJesse all the time, I've been thinking. I've been doing  a lot o f   thinking, and I think1  might havefounda way out  after all.  Now listenclosely Martin,  andmaybe some day soon you won't need afnend li k e me anyme. You've still got th e thing's phone number, and your little attack isn't  going  to happen  for two m e whole days.. . L I
+I And knock  that  ojf.  It's distracting. Martin's tears obediently hitched into shallow breaths as he listened. So you're  a U   doomed,  so what?  It's  just time you faced it, that's all.  I  don't  l i k e  it  any more than you do, b u t while you  just lie there and pine for Carol andJesse all the time, I've been thinking. I've been doing  a lot o f   thinking, and I think1  might havefounda way out  after all.  Now listenclosely Martin,  andmaybe some day soon you won't need afnend li k e me anyme. You've still got th e thing's phone number, and your little attack isn't  going  to happen  for two m e whole days.. . L I
 
 I
 
@@ -967,11 +965,11 @@ Half an hour more passed, and Martin sat alone in a van two blocks from the mons
 
 "Good, Chambers said back."On the count of three. We'll meet in the middle thenhead in thebasementwhere it's probably hidden."
 
-the basement  door  creak  open, and he saw the dark stairwell leading  downward Chambers counted down slowly——agonizingly slowly——and the five huntersmade theirway into thebeast's lair. Theymovedquickly, callingout, "Clear,"as they walked from room toroom. Martin listened to them deciding curtly to go downstairs, andhe held his breath. He heardwhatmust havebeen in his mind's eye.
+the basement  door  creak  open, and he saw the dark stairwell leading  downward Chambers counted down slowly——agonizingly slowly——and the five huntersmade theirway into thebeast's lair.Theymovedquickly,callingout, "Clear,"as they walked from room toroom.Martin listened to them deciding curtly to go downstairs,andhe held his breath.He heardwhatmust havebeen in his mind's eye.
 
-"God bewith you, Martin saidcalmly into his headsetmic. Hesaiditevery time, butthewordscaughtinhisthroat. Onewordofwarningwouldbringthem all back to thevan. Onewordwould stop the attack andreel them all in so they would be safe. Martin folded the hingedmicrophone away from his mouth and clenched his jaw shut tight.
+"God bewith you,Martin saidcalmly into his headsetmic.Hesaiditevery time,butthewordscaughtinhisthroat.Onewordofwarningwouldbringthem all back to thevan.Onewordwould stop the attack andreel them all in so they would be safe.Martin folded the hingedmicrophone away from his mouth and clenched his jaw shut tight.
 
-No turning  back now, Martin, his voice of reason told him. Start the car. Get going before you find out I  f   that thing in there changed its mind since yesterday.
+No turning  back now, Martin, his voice of reason told him. Start the car. Get going before you find out i f   that thing in there changed its mind since yesterday.
 
 Martin started the car,  but he didn't drive away right then. Before he could convince himself otherwise, he folded down his radio mic and said, 'I'm sorry everyone. There wasn't any other way.'
 
@@ -979,13 +977,13 @@ The sound of heavy-caliber  gunfire cut off his comrades'  sounds of confusion a
 
 Martin could've made it home in under six hours if he'd been driving fulltilt, and indeed every time he ducked off the highway to take a detour down a back road,  his  heart cursed him  for  delaying  his  reunion  with  Carol  and  Jesse  that much longer. Reason won out, though, and his paranoid habits were just too strong. He hadn't come this far just to let some two-bit  flunky of 'Mister  Clark' follow him home and renege on the deal, after all. So he kept to back roads as often as he could,  checked  his rearview mirror often and otherwise  turned a six-
 
-hour trip into a full 22-hour trek.  By  the  end, coffee was  all that  kept him awake.. . That and the voice in the back of his head. He wondered blearily if  it would stay with him forever, growing louder even as his current nightmares faded in the renewed light of family life.
+hour trip into a full 22-hour trek.  By  the  end, coffee was  all that  kept him awake.. . that and the voice in the back of his head. He wondered blearily if  it would stay with him forever, growing louder even as his current nightmares faded in the renewed light of family life.
 
 But the thoughts faded away as Martin turned off the highway for the last time. All he had to do was ditch the van somewhere and call a cab to take him home. Not a safehouse or a dingy hotel that accepted only cash. Home. His home. He'd need a convincing  lie to explain  where he'd been for so long,  but he could think of that later. All he could think about now were two smiling faces he hadn't seen in a lifetime of fear.
 
-smelled like?  Martin  couldn't  imagine, but there it  was again,  full  force,  the  scent of his very own house and family. Hiskeytiwkdeaunufsta in thefoyerofhishouse, overwhelmedbythesheerfamiliarityofit, thesense of belonging, the smell of thehouse itself. Howhad he everforgottenwhatit
+smelled like?  Martin  couldn't  imagine, but there it  was again,  full  force,  the  scent of his very own house and family. Hiskeytiwkdeaunufsta in thefoyerofhishouse,overwhelmedbythesheerfamiliarityofit,thesense of belonging,the smell of thehouse itself.Howhad he everforgottenwhatit
 
-He took a  step  toward the  staircase,  but  froze  in sudden indecision. As  happy as he was, should he really go upstairs right then?  He'd surely scare the life out of his  wife and  daughter  if he did.  He  looked like a  monster  that was falling apart, and that was nothing to wake up to in the dead of night. Plus, what if Carol and Jesse  didn't  even  want to  see  him?  What if they thought he  had run out  on  them, and seeing  him only  made them angry?  The waiting was intolerable now that he him back. Surely they'd be glad to see him again, but maybe.. . Was actually home, but he wanted to do this right so his family would welcome
+He took a  step  toward the  staircase,  but  froze  in sudden indecision. As  happy as he was, should he really go upstairs right then?  He'd surely scare the life out of his  wife and  daughter  if he did.  He  looked like a  monster  that was falling apart, and that was nothing to wake up to in the dead of night. Plus, what if Carol and Jesse  didn't  even  want to  see  him?  What if they thought he  had run out  on  them, and seeing  him only  made them angry?  The waiting was intolerable now that he him back. Surely they'd be glad to see him again, but maybe.. . was actually home, but he wanted to do this right so his family would welcome
 
 'Tough call, isn't it?'  a scratchy voice said from the shadows through the doorway into his kitchen. At  once  Martin's  heart became a block of ice. He could actually  feel  the  muscle clench  like  a  stalled  pendulum;  pregnant with motion  and yet unmoving. The voice was as hot as his blood was cold, and hate sparked from it like  fire  seeds  drifting  from a  lava  flow.  The  presence  of such  strong  emotion  was alien to the sound, but Martin recognized the voice immediately.
 
@@ -1051,7 +1049,7 @@ the house's back door. Martin stood mute in shock then took a tentative step tow
 
 Valentine shook  free,  nearly dropping  Chambers  as he did so. 'Ws  the best chance you're going to get,' he said. 'And it's better  than you deserve. We thought  Clark  was lying  about  you,  but  we looked through  his  stuff  before we left. He had your name and address and everything  else  he might  want to  know about you printed out in his records. When the rest of the bloodsuckers  come looking for him, they're going to find out about you, and they're going to come looking for some answers. They're  going to come here first, you can be sure.'
 
-'But.. . My family,' Martin said helplessly. 'I've got to-'
+'But.. . my family,' Martin said helplessly. 'I've got to-'
 
 'They're  not here,'  Chambers  mumbled, seeming to fight  for every second of consciousness. 'Dumb  shit.'
 
@@ -1107,13 +1105,13 @@ stereotypes  in  each sect about  the other. Since the Anarch Revolt  centuries 
 
 Sabbat vampires believe that they are monsters, but it is important not to treat them as that alone. Sabbat packs are more than tools to incite combat. Only physically oriented  characters get  involved  in  senseless fighting, and encouraging too much of that kind of conflict alienates the players who prefer less overt pursuits. As an antagonist force, the Sabbat is a much more complex and organized sect than would seem apparent from the behavior of the average War Party. With proper preparation, Sabbat vampires can creep subtly into a Camarilla city, and then  overrun it  when the time is right. While their methods and perspective  are different,  canny Sabbat  elders  understand the value of using Influence and manipulation against their mortal herds. They also know how to attack the holdings and resources of their enemy in such a way that leaves him powerless before an assault. Carefully staged attacks of Sabbat rabble-rousers draw attention away from more subtle and insidious maneuvers. Those players that  decide  to  refrain  from  combat still have an  opportunity to  interact with the story by discovering  the real motivation for an attack. Those Camarillists who have been treated poorly by the Camarilla hierarchy must also test their faith against cunning Sabbat recruiters who would rather make allies than enemies.
 
-Camarilla vampires  make equally compelling antagonists as well. They do not bide  their  time  in  their  lavish  havens,  sitting  in repose  and  drinking bloodewyne. Nor do they sit idly by while Sabbat vampires assault their cities. They fortify their  havens,  manipulate  mortal  forces within  cities  for  their defense  and  even  engage  in  counter-strikes  against  invading  vampires.  In securing resources  and  expanding  their  power  base,  ambitious  (or  ballsy) Camarilla  Kindred  are  not averse  to  invading Sabbat territory themselves.  They do so differently (i. e., far more subtly) than Sabbat invaders do, but the threat is  still  very  real.  Defeating  a  Camarilla  antagonist  takes  perception,  wit, determination and ferocious cunning.
+Camarilla vampires  make equally compelling antagonists as well. They do not bide  their  time  in  their  lavish  havens,  sitting  in repose  and  drinking bloodewyne. Nor do they sit idly by while Sabbat vampires assault their cities. They fortify their  havens,  manipulate  mortal  forces within  cities  for  their defense  and  even  engage  in  counter-strikes  against  invading  vampires.  In securing resources  and  expanding  their  power  base,  ambitious  (or  ballsy) Camarilla  Kindred  are  not averse  to  invading Sabbat territory themselves.  They do so differently (i.e., far more subtly) than Sabbat invaders do, but the threat is  still  very  real.  Defeating  a  Camarilla  antagonist  takes  perception,  wit, determination and ferocious cunning.
 
 ## KINDREDOETHE EAST
 
 A new enemy marches against the children of  Caine in the World  of Darkness.  The  Kuei-jin  from the  opposite  side  o f  the world  have existed  for ages behind aveil of secrecy,  but now they  have begun to  make  their move  on  western vampiric territory. When compared to Kindred and  Sabbat,  these  Eastern vampires have a radically  different  philosophy  on  their place in the world.  They feed differently, they  relate  to one  another  differently, and  they  exist for a purpose that few western vampires can understand. Kuei-jin consider western vampires  barbaric  and self-absorbed  heathens without a proper respect for their place in the world.  Kin-jin who are aware of the existence of the Kindred of the
 
-appropriately, of course, in order to do it justice beyond the stereotype. East find them inscrutable, stuck up andviolently opposed to even peaceful culturalexchange. UsingKuei-jin as antagonists ina western vampire chronicle (orvice-versa)canadd an exoticflavor toanotherwisestaidor stalesetting. Care must be taken to represent the alien culture (whichever one it is)
+appropriately, of course, in order to do it justice beyond the stereotype. East find them inscrutable,stuck up andviolently opposed to even peaceful culturalexchange.UsingKuei-jin as antagonists ina western vampire chronicle (orvice-versa)canadd an exoticflavor toanotherwisestaidor stalesetting. Care must be taken to represent the alien culture (whichever one it is)
 
 ## INEBRNALISTS
 
@@ -1141,7 +1139,7 @@ Agents  and supporters  of the  Wyrm-ridden  Pentex corporation  are  enemies th
 
 But how does one fight tooth and claw against paper and marketing?  Even connected Glass Walkers  have difficulty dealing  with this corporate  monstrosity.  Eager  young  recruits  flock  to  Pentex  every  year  in  hopes  of  a  good, high-paying  job. Even if werewolves  manage to take out a Pentex lackey, scores more are waiting to fill the void of his passing. Even if werewolves put a stop to one villainous  goal on  a  Pentex  agenda,  numerous  contingencies  and  other  goals exist to see that the Wyrm's work is done. As long as the corporation exists, werewolves'  work to keep the Wyrm in check will never be finished.
 
-The most compelling reason to use Pentex antagonists, however, is for the moral dilemma they represent. Pentex and its subsidiaries have touched every modern convenience in the World of  Darkness, many of which homid-born Garou have relied upon all their lives. From the power that runs the lights at night to the plastic  bristles on the tip  of a  toothbrush, Pentex products  make life easier. So what if a few trees are cut  down or the carbon ratio rises  in the atmosphere?  And what  does it  benefit apackor sept  of Garou  to  remove Pentex's influence  entirely from an area, only to have the bereft citizens of that area riot andrevolt  over its  absence? Astory  involvinga  Pentex  antagonist  forces  a troupe to examine  how far werewolf characters are  willing  to go in their holy  war against the designs of the Wyrm.
+The most compelling reason to use Pentex antagonists, however, is for the moral dilemma they represent. Pentex and its subsidiaries have touched every modern convenience in the World of  Darkness, many of which homid-born Garou have relied upon all their lives. From the power that runs the lights at night to the plastic  bristles on the tip  of a  toothbrush, Pentex products  make life easier. So what if a few trees are cut  down or the carbon ratio rises  in the atmosphere?  And what  does it  benefit apackor sept  of Garou  to  remove Pentex's influence  entirely from an area, only to have the bereft citizens of that area riot andrevolt  over its  absence?Astory  involvinga  Pentex  antagonist  forces  a troupe to examine  how far werewolf characters are  willing  to go in their holy  war against the designs of the Wyrm.
 
 ## EOMORI
 
@@ -1165,7 +1163,7 @@ Creating  rivals  from  within  the  ranks  of  a  sept  gives  Storytellers t o
 
 ## 9 E N E  R I c WE RE  w o L E ANTAC~ o N I ST s
 
-Werewolves are terrifying opponents in any chronicle. They live in I  woods, practice  bizarre  rites,  eat flesh and  fly  into berserk rages  of  bloc destruction  with little  provocation.  They're  supernaturally  strong  and resilie but even still  they travel in packs. Fury bubbles inside them,  waiting for the  fi opportunity to explode.  As  story  ingredients, werewolves represent all 1 unreasoning violence 'out there' in nature that has frightened city-dwell. Men and women for so long. Furthermore,  they  seem bent on  destroying  so  m L of what makes human life bearable  for what it is. When you don't  understand or find yourself on the wrong side of -the holy mission that drives World Darkness werewolves, these beasts are horrifying to behold.
+Werewolves are terrifying opponents in any chronicle. They live in i woods, practice  bizarre  rites,  eat flesh and  fly  into berserk rages  of  bloc destruction  with little  provocation.  They're  supernaturally  strong  and resilie but even still  they travel in packs. Fury bubbles inside them,  waiting for the  fi opportunity to explode.  As  story  ingredients, werewolves represent all 1 unreasoning violence 'out there' in nature that has frightened city-dwell. men and women for so long. Furthermore,  they  seem bent on  destroying  so  m L of what makes human life bearable  for what it is. When you don't  understand or find yourself on the wrong side of -the holy mission that drives World Darkness werewolves, these beasts are horrifying to behold.
 
 ## MAC~ES
 
@@ -1237,7 +1235,7 @@ The only caveat about using antagonists in game to pursue out-of-game motivation
 
 ## BACKGROUND
 
-After determining the character's motivation, it's  time to begin laying out the particulars. Antagonists are people too, and they deserve to have as much attention lavished on them as any player's character. What's tricky about this stage of creating an  antagonist  is that it seems  to  fall out  of sequence.  You should determine the antagonist's goal (i. e., his motivation)  first so you'll  know where to put him in the story. Then,  you have to go buck and create a background that logically leads up to the character's  present state of mind.
+After determining the character's motivation, it's  time to begin laying out the particulars. Antagonists are people too, and they deserve to have as much attention lavished on them as any player's character. What's tricky about this stage of creating an  antagonist  is that it seems  to  fall out  of sequence.  You should determine the antagonist's goal (i.e., his motivation)  first so you'll  know where to put him in the story. Then,  you have to go buck and create a background that logically leads up to the character's  present state of mind.
 
 A detailed background is key to making the character appear realistic. It's the  foundation  on  which  everything about  the  antagonist  is  based.  The background shapes the motivations, tactics, attitudes and appearance of  the antagonist.  Without  a  background to  tie  all  of these  sections  together, the  villain won't  be muchof acharacter  at  all.  Players  won't  be able  to  understand  how their foe has developed if he's just sprung  half-formed from your mind into the game. If players can't understand their opponents, they certainly will not relate to them or be able to interact with them in the meaningful, memorable ways you intend. What's more, the person playing the antagonist will be lost without a good sense of what made the character what he is.
 
@@ -1269,7 +1267,7 @@ If you're  not  portraying  the  antagonist  you've  created,  make sure  to  si
 
 ## S  TATI STI c s
 
-Once you've  gone to all the preceding trouble, declaring the statistics  fo antagonist  should  now be  relatively  easy.  All  of the  previous  steps  in  creation1 built  up to this point.  The general power  level, techniques, experiences motivations of  the character outline the stats. All that is left is to have t explicitly written down on a character sheet. As far as this aspect of antagc creationgoes,  you can  check  inanyhws  of...  Book's Character  Creationcha
+Once you've  gone to all the preceding trouble, declaring the statistics  fo antagonist  should  now be  relatively  easy.  All  of the  previous  steps  in  creation1 built  up to this point.  The general power  level, techniques, experiences motivations of  the character outline the stats. All that is left is to have t explicitly written down on a character sheet. As far as this aspect of antagc creationgoes,  you can  check  inanyhws  of...  book's Character  Creationcha
 
 With so many steps in the creation process, it may seem if  buildin antagonist  takes a lot of work. Antagonists  aren't  characters that can  be wri in a couple  minutes. They're a precious resource requiring a large investme time and ingenuity. An antagonist is a long-term  character that can hope appear  in several stories or many game sessions within  a single story. Y preparation and effort, some truly insidious fiends can be concocted, as lasting characters that will carve a niche in their troupe and electrify a g 2
 
@@ -1279,57 +1277,57 @@ With so many steps in the creation process, it may seem if  buildin antagonist  
 
 ## ALABAMA
 
-Kindred of the Shadows;Auburn, AL boudrej@mail. auburn. edu Shadows of Vulcan;Birmingham, AL
+Kindred of the Shadows;Auburn,AL boudrej@mail.auburn.edu Shadows of Vulcan;Birmingham,AL
 
-Sarah Riggs, coordinator@shadowsofvulcan. com
+Sarah Riggs,coordinator@shadowsofvulcan.com
 
 ## ALASKA
 
-Ivory Masque;Anchorage, AK glitter\_boy@hotmail. com Nox ad Infinitum;Fairbanks, AK
+Ivory Masque;Anchorage,AK glitter\_boy@hotmail.com Nox ad Infinitum;Fairbanks,AK
 
-fsdck@aurora. alaska. edu
+fsdck@aurora.alaska.edu
 
 ## ARIZONA
 
-Paraiso de Espinas (Paradise of Thorns);Phoenix/Tucson, AZ
+Paraiso de Espinas (Paradise of Thorns);Phoenix/Tucson,AZ
 
-Jonni Crowell-Griffith, Salvjedora@aol. com (520)722-2688
+Jonni Crowell-Griffith,Salvjedora@aol.com (520)722-2688
 
-Phoenix By Night;Phoenix, AZ Wm. R. SzaboIl, wrszabo@asu. edu http://www. public. asu. edu/-jamesb/pbn/
+Phoenix By Night;Phoenix,AZ Wm.R.SzaboIl,wrszabo@asu.edu http://www.public.asu.edu/-jamesb/pbn/
 
 ## ARKANSAS
 
-Crimson Tear Society;Jonesboro, AR
+Crimson Tear Society;Jonesboro,AR
 
-Tom McFarland, thomasmc@fastdata. net (870)931-0959
+Tom McFarland,thomasmc@fastdata.net (870)931-0959
 
 ## CALIFORNIA
 
-Moonlight Masquerade;Marysville, CA Jennifer Young, kaidin@syix. com
+Moonlight Masquerade;Marysville, CA Jennifer Young,kaidin@syix.com
 
 ## LARP EVENTS
 
 ## EVENT HORIZON: UPCOMING
 
-I bet you can think of what stateyou live inmuch more quickly than you can think of whatregion of thecountry you live in. Hence the new format for this section. Why is it that the best ideas always come to you on the way out?
+I bet you can think of what stateyou live inmuch more quickly than you can think of whatregion of thecountry you live in.Hence the new format for this section.Why is it that the best ideas always come to you on the way out?
 
 ## UNITED STATES
 
 ## VAMPIRE EVENTS
 
-Labyrinth of Crying Shadows(Sabbat Game);Sacramento, CA AdamAbramson, vallombrosa@hotmail. com Baptism of Fire;San Diego, CA MaggieMacDonald, maggie5@home. com (619)425-1587 http://www. larp. com/vespasian
+Labyrinth of Crying Shadows(Sabbat Game);Sacramento,CA AdamAbramson,vallombrosa@hotmail.com Baptism of Fire;San Diego, CA MaggieMacDonald,maggie5@home.com (619)425-1587 http://www.larp.com/vespasian
 
 ## COLORADO
 
-Ground Zero;Colorado Springs, CO Travis Page, Darkholme@kktv. com (719)328-0605
+Ground Zero;Colorado Springs, CO Travis Page,Darkholme@kktv.com (719)328-0605
 
-Dread Noctune;Denver, CO
+Dread Noctune;Denver,CO
 
-Mark Phillips/David Sutton, gm@dreadnocturne. dwarf. org
+Mark Phillips/David Sutton,gm@dreadnocturne.dwarf.org
 
 ## fLORIDA
 
-Ft. Lauderdale;Ft. Lauderdale, FL PrintError@mindless. com House of the Sanguine Moon; Tampa, FL Hope Summerall, zandria@hotmail. com
+Ft.Lauderdale;Ft.Lauderdale,FL PrintError@mindless.com House of the Sanguine Moon; Tampa, FL Hope Summerall,zandria@hotmail.com
 
 ## VI5H035
 
@@ -1337,21 +1335,21 @@ Night's Children;Atlanta, GA Jason Norred,hemlock@mindspring.com http://larp.dig
 
 ## ILLINOIS
 
-The Redemption Chronicles;Edwardsville, IL
+The Redemption Chronicles;Edwardsville,IL
 
-floodrk@earthlink. net
+floodrk@earthlink.net
 
 ## INDIANA
 
-Crimson Facade;Indianapolis, IN Paul M. Starr, tophat@indy. net
+Crimson Facade;Indianapolis,IN Paul M.Starr,tophat@indy.net
 
 (317)466-9064
 
 ## KANSAS
 
-Dominion of Solitude;Topeka, KS
+Dominion of Solitude;Topeka,KS
 
-Jeffery P. Harrington, harri999@geocities. com
+Jeffery P.Harrington,harri999@geocities.com
 
 ## Lo
 
@@ -1361,11 +1359,11 @@ New Orleans Nightfall; Mark Leberecht, FrostC - , , , . , , , . . . . . . , , (5
 
 Ray o f   Blood; Baltimore, MD Ed Adelsbergermailto:edla@erols.com , edla@erols.com 1 i 1/ 1 1 :t 1 . I kitae Neternus; Hyattsville, MU The Most Deadly Game;Baltimore,MD JosephPalser,palserj@columbia.aim-smart.com TowsonLARP;Baltimore,MD
 
-MASSACHUSETTS House of the Crescent Moon; Boston, MA giovanni@c  ybercom. net Severed Sun; Boston, MA Sean Donnelly (617) 576-1097 (617) 656-2891
+MASSACHUSETTS House of the Crescent Moon; Boston, MA giovanni@c  ybercom.net Severed Sun; Boston, MA Sean Donnelly (617) 576-1097 (617) 656-2891
 
 ## MISSOURI
 
-Coterie of  the Crimson Night; St. Louis, M O Jamie Schneider, jaclon@juno. com (314) 837-3640
+Coterie of  the Crimson Night; St. Louis, M O Jamie Schneider, jaclon@juno.com (314) 837-3640
 
 Impiorum Pecatta ('Sins  of the Damned'); Warrensburg,  MO
 
@@ -1373,7 +1371,7 @@ Storyteller:  Jason Hibdon, eugee@cyberjunkie.com http://www.cyberjunkie.com/eug
 
 ## NEBRASKA
 
-Ebon Seraph; Omaha, NE davosburgh@aol. com
+Ebon Seraph; Omaha, NE davosburgh@aol.com
 
 ## NEVADA
 
@@ -1381,47 +1379,47 @@ Blood Moon Social Club; Las Vegas, NV
 
 (702) 877-1813
 
-http://www.  Bloodmoonsocialclub. com
+http://www.  bloodmoonsocialclub.com
 
 ## N o a T H  CAROLINA
 
 Libertas Aetema; Charlotte, NC
 
-Tim Harris, harrist@cs. winthrop. edu
+Tim Harris, harrist@cs.winthrop.edu
 
 ## O H I O
 
-Blood Masks: Cincinnatus By Night; Cincinnati, OH Brian-Joseph  Baker, Elomae@aol. com 513-777-7778
+Blood Masks: Cincinnatus By Night; Cincinnati, OH Brian-Joseph  Baker, Elomae@aol.com 513-777-7778
 
 Dayton: Valley of the Shadow; Dayton, OH
 
-Lee Highfield, schlgrmstr@aol. com 937-222-2330
+Lee Highfield, schlgrmstr@aol.com 937-222-2330
 
 Stake in the Heartland 11; Northeast OH
 
-A Ryan S. Cope, cedric@neo. rr. com (330) 923-4483
+A Ryan S. Cope, cedric@neo.rr.com (330) 923-4483
 
 ## O R E ~ O N
 
-Of No Concern; Eugene, OR Jr . edu T Zity, OR Theatre &lt; Kewi-Cec r. edu Dark Salem; aaiem, UK om TheChylde@aol. com
+Of No Concern; Eugene, OR Jr .edu T Zity, OR Theatre &lt; Kewi-Cec r.edu Dark Salem; aaiem, UK om TheChylde@aol.com
 
 House of the Unknown; Pittsburgh, PA
 
-y B N N SYLVAN IA cam@andrew. cmu. edu Mudge Lounge; Pittsburgh, PA cam@andrew. cmu. edu
+y B N N SYLVAN IA cam@andrew.cmu.edu Mudge Lounge; Pittsburgh, PA cam@andrew.cmu.edu
 
-SOUTH  CAROLINA Blood Moon; Charleston, SC Ian Betts, alisterlegare@hotmaiI. com Charlestonus Ab Noctum; Charleston, SC Ian Retts, alisterlegare@hotmail. com Eclipsed Moon; Charleston, SC Ian Betts, alisterlegare@hotmaiI. com
+SOUTH  CAROLINA Blood Moon; Charleston, SC Ian Betts, alisterlegare@hotmaiI.com Charlestonus Ab Noctum; Charleston, SC Ian Retts, alisterlegare@hotmail.com Eclipsed Moon; Charleston, SC Ian Betts, alisterlegare@hotmaiI.com
 
-Shades of Pale Society;Chattanooga, TN
+Shades of Pale Society;Chattanooga,TN
 
-Laura Middleton, shades@larp. com (423)876-4561
+Laura Middleton,shades@larp.com (423)876-4561
 
 ## TEXAS
 
-Bryan/College Station;Bryan/College Station, TX Ken Reinertson, khr7057@unix. tamu. edu Garden of Thorns; Clear Lake, TX wesley\_ooc@juno. com Midnight Rose;Clear Lake, TX prefect@texas. net House of the Eternal Rose; Clear Lake, TX prefect@texas. net DFWVLARP;Dallas/FortWorth, TX ex\_mutants@hotmail. com Legio Noctem;Dallas, TX Billy Lucas, williamlucas@juno. com (972)788-1895 Eighth Legion;Dallas, TX James Potter, kingsnight@hotmail. com (972)788-1895 Central TexasLARP;Killeen/Temple, TX D. R. Hood, Pangea@vvm. com (254)947-1339
+Bryan/College Station;Bryan/College Station,TX Ken Reinertson,khr7057@unix.tamu.edu Garden of Thorns; Clear Lake,TX wesley\_ooc@juno.com Midnight Rose;Clear Lake,TX prefect@texas.net House of the Eternal Rose; Clear Lake,TX prefect@texas.net DFWVLARP;Dallas/FortWorth,TX ex\_mutants@hotmail.com Legio Noctem;Dallas,TX Billy Lucas,williamlucas@juno.com (972)788-1895 Eighth Legion;Dallas,TX James Potter,kingsnight@hotmail.com (972)788-1895 Central TexasLARP;Killeen/Temple,TX D.R.Hood,Pangea@vvm.com (254)947-1339
 
 ## UTAH
 
-Domain of Mountain Shadows; Provo, UT Nikki McCoriston, N. Burton@m. cc. utah. edu (801)363-3959
+Domain of Mountain Shadows; Provo,UT Nikki McCoriston,N.Burton@m.cc.utah.edu (801)363-3959
 
 ## VIRGINIA
 
@@ -1429,75 +1427,75 @@ Club Seraphim;Norfolk,VA club\_seraphim@hotmail.com http://www.angelfire.com/va/
 
 ## WASHINGTON
 
-Dark Necropolis;Kitsap, WA mrdeath@u. washington. edu Ruby Rain Society;Mountlake, WA TracySoldan, tarot01@juno. com All Seattle Camarilla-run games seattledc@hotmail. com http://www. lovelys. com/seattlecam The Outlands; South King County, WA ChristopherBuser, Buserc@mindspring. com 425-687-8093 Tacoma;Tacoma, WA sheperd@darkdestiny. com (253)581-8728 Dark Tears;Walla Walla, WA annapuma@hotmail. com
+Dark Necropolis;Kitsap, WA mrdeath@u.washington.edu Ruby Rain Society;Mountlake,WA TracySoldan,tarot01@juno.com All Seattle Camarilla-run games seattledc@hotmail.com http://www.lovelys.com/seattlecam The Outlands; South King County,WA ChristopherBuser,Buserc@mindspring.com 425-687-8093 Tacoma;Tacoma,WA sheperd@darkdestiny.com (253)581-8728 Dark Tears;Walla Walla,WA annapuma@hotmail.com
 
-WASHINGTON DC The Dark Capital Domain Chris Herr, mephis@juno. com (703)273-5530 Abigail Moore Shoemaker, ams@gwis2. circ. gwu. edu
+WASHINGTON DC The Dark Capital Domain Chris Herr,mephis@juno.com (703)273-5530 Abigail Moore Shoemaker,ams@gwis2.circ.gwu.edu
 
-Shadows on the Mall;Washington, DC http://members. aol. com/dellacruz/SotM/Index. html
+Shadows on the Mall;Washington,DC http://members.aol.com/dellacruz/SotM/Index.html
 
 ## WEST VIRGINIA
 
-Das DaeMar;State Capitol Complex, WV WachuDancR@aol. com
+Das DaeMar;State Capitol Complex,WV WachuDancR@aol.com
 
 GAROU
 
 ALASRA
 
-Olde Guard;Anchorage, AK Tom Alexander, nightstalker@customcpu. com
+Olde Guard;Anchorage,AK Tom Alexander,nightstalker@customcpu.com
 
 ## ARIZONA
 
-Rage Against the Darkness;Tempe, AZ Collin Toohey, Cybertec@cyberdude. com
+Rage Against the Darkness;Tempe,AZ Collin Toohey,Cybertec@cyberdude.com
 
 (602)942-4994
 
-Song of Sonora;Tucson, AZ Kevin LynchII, KWLynch@aol. com (520)722-2688
+Song of Sonora;Tucson,AZ Kevin LynchII,KWLynch@aol.com (520)722-2688
 
 ## ARKANSAS
 
-Crimson Tear Society; Jonesboro, AR TomMcFarland, thomasmc@fastdata. net (870)931-0959
+Crimson Tear Society; Jonesboro,AR TomMcFarland,thomasmc@fastdata.net (870)931-0959
 
 ## COLORADO
 
 Knights of Rage; Colorado Springs, CO
 
-Dan Page, AllmityBob@aol. com (719)447-0399
+Dan Page,AllmityBob@aol.com (719)447-0399
 
 ## FLORIDA
 
-House of the Sanguine Moon;Tampa, FL
+House of the Sanguine Moon;Tampa,FL
 
-Hope Summerall, zandria@hotmail. com
+Hope Summerall,zandria@hotmail.com
 
 ## NEW YoRR
 
 Apocalypse Rochester;Rochester NY
 
-Chris Manos, cmanos@worldnet. att. net
+Chris Manos,cmanos@worldnet.att.net
 
 ## NO53HO
 
-Of No Concern;Eugene, OR Jmcloud@gladstone. uoregon. edu
+Of No Concern;Eugene,OR Jmcloud@gladstone.uoregon.edu
 
 SOUTH CAROLINA
 
-Onyx Illuminatus; Charleston, SC lan Betts, alisterlegare@hotmail. com
+Onyx Illuminatus; Charleston, SC lan Betts,alisterlegare@hotmail.com
 
 ## TERAS
 
-Bryan/College Station;Bryan/College Station, TX Ken Reinertson, khr7057@unix. tamu. edu Fourth Tower Falling;Dallas, TX Matt Ragan, matt \_ragan@hotmail. com
+Bryan/College Station;Bryan/College Station,TX Ken Reinertson,khr7057@unix.tamu.edu Fourth Tower Falling;Dallas,TX Matt Ragan,matt \_ragan@hotmail.com
 
 (972)788-1895
 
 ## WASHINGTON
 
-Theatre of Roses;Battleground, WA Kwei-Cee Chu, kc@csua. berkeley. edu
+Theatre of Roses;Battleground,WA Kwei-Cee Chu,kc@csua.berkeley.edu
 
-Ruby Rain Society;Edmonds, WA Tracy Soldan, tarot01@juno. com Tacoma;Tacoma, WA sheperd@darkdestiny. com (253)581-8728
+Ruby Rain Society;Edmonds,WA Tracy Soldan,tarot01@juno.com Tacoma;Tacoma,WA sheperd@darkdestiny.com (253)581-8728
 
 ## WASHINGTON DC
 
-The Sept of theAwakening;Washington DC Mindy Williams, terhunepayson@juno. com
+The Sept of theAwakening;Washington DC Mindy Williams,terhunepayson@juno.com
 
 ## OTHERS
 
@@ -1509,51 +1507,51 @@ Sacramento by Night;Sacramento,CA www.Justicar.net Sena Wakeland,Celeste.d@mailc
 
 ## CONNECTICUT
 
-East of theRiver, Venon, CT D. Scott Stewart, storyteller@eotr. org
+East of theRiver,Venon,CT D.Scott Stewart,storyteller@eotr.org
 
 Macon Twilight Theatre:Londinium;Macon,GA http://www.chaos-enterprises.com/mrt/mtt.html mtt@chaos-enterprises.com
 
 ## INDIANA
 
-Tales of the Nomad Storyteller;Elkhart, Indiana P. O. Box1841,MishawakaIN,46546
+Tales of the Nomad Storyteller;Elkhart,Indiana P.O.Box1841,MishawakaIN,46546
 
-Jedediah Walls:dej\_llaws@yahoo. com
+Jedediah Walls:dej\_llaws@yahoo.com
 
 ## UNSPECIFIEDAND MIXED GAMES)
 
 ## KANSAS
 
-Twilight Masquerade;Wichita, KS twilightmask@yahoo. com
+Twilight Masquerade;Wichita,KS twilightmask@yahoo.com
 
 ## MAINE
 
-Dark Carpathia;Portland, ME http://home. maine. rr. com/darkcarpathia/darkcarp. html
+Dark Carpathia;Portland,ME http://home.maine.rr.com/darkcarpathia/darkcarp.html
 
 ## MICHIGAN
 
-Fortress of the Mind''s Eye;Lansing, MI Aaron Ledger, ledgeraa@pilot. msu. edu (517)372-1452
+Fortress of the Mind''s Eye;Lansing,MI Aaron Ledger,ledgeraa@pilot.msu.edu (517)372-1452
 
 ## OHIO
 
-Of Shadow&amp;Light;Cincinnati, OH Brian-Joseph Baker, bakebjb@email. uc. edu (513)777-7778
+Of Shadow&amp;Light;Cincinnati,OH Brian-Joseph Baker,bakebjb@email.uc.edu (513)777-7778
 
 ## OREGON
 
-More Than Night;Portland, OR (Independent game that sometimes playtests upcoming supplements) Bruce Baugh, bruce-baugh@sff. net Trails End Troupe; Salem, OR
+More Than Night;Portland,OR (Independent game that sometimes playtests upcoming supplements) Bruce Baugh,bruce-baugh@sff.net Trails End Troupe; Salem, OR
 
-Coordinatrix@hotmail. com
+Coordinatrix@hotmail.com
 
 ## TERAS
 
-Crimson Dawn;Amarillo, TX Crimson\_Dawn\_LARP@excite. com (806)358-8530
+Crimson Dawn;Amarillo,TX Crimson\_Dawn\_LARP@excite.com (806)358-8530
 
 ## VIRGINIA
 
-Night Falls;Falls Church, VA www. nightfalls. com Ian James, ian@nightfalls. com
+Night Falls;Falls Church,VA www.nightfalls.com Ian James,ian@nightfalls.com
 
 ## WASHINGTON
 
-Nox Imperium;Longview, WA katzmeow@kalama. com
+Nox Imperium;Longview,WA katzmeow@kalama.com
 
 ## GAMES AROUND THE WORLD
 
@@ -1592,7 +1590,7 @@ Nox Imperium;Longview, WA katzmeow@kalama. com
 - Vampire LARP;Edinburgh,Scotland Kevin Drugan,kevin@gehenna.prestel.co.uk
 - ·Vampire LARP;Glasgow,Scotland David Evans,misty@mudhole.spodnet.uk.com
 
-An up-to-date Calendar of all Dutch games and European Camarilla games canbefound athrtp://www. troy. demon. nl/vampire
+An up-to-date Calendar of all Dutch games and European Camarilla games canbefound athrtp://www.troy.demon.nl/vampire
 
 ## WHAT I  HAVF LFARNFD
 
@@ -1602,15 +1600,15 @@ by Yours Truly
 
 ## TRENDSAND OBSERVATIONS
 
-ThefirstthingInoticedwas thatcertain behaviorswere endemictothe world of LARPing. Iverealizedover thepasttwoyearsthat thewayweplay storytelling chronicles and the commonality that arises says a lot about us.
+ThefirstthingInoticedwas thatcertain behaviorswere endemictothe world of LARPing.Iverealizedover thepasttwoyearsthat thewayweplay storytelling chronicles and the commonality that arises says a lot about us.
 
 ## Crossover Lunacy:
 
-Lunacy abounds whencrossover isatissue inalive-actionchronicle. Ageoldenemiesmeet, forgetallabouttheirdifferences(forsomereason)andwork together to a.) defeat the ancient evil plaguing both their peoples or b.) maintain apaper-thin treaty between theirkind. Sometimes the former leads tothelatter in the post-storywrap-up. YouknowthoseGarouinyourvampire chronicle? The ones everyone call "Garou"instead of werewolves or even lupines? The oneswho aren't allowed tokill anyvampires lest they be hunted downbythevampireswhovastlyoutnumberthem? They'reevidence of this crossover lunacy.
+Lunacy abounds whencrossover isatissue inalive-actionchronicle.Ageoldenemiesmeet,forgetallabouttheirdifferences(forsomereason)andwork together to a.) defeat the ancient evil plaguing both their peoples or b.) maintain apaper-thin treaty between theirkind.Sometimes the former leads tothelatter in the post-storywrap-up.YouknowthoseGarouinyourvampire chronicle?The ones everyone call "Garou"instead of werewolves or even lupines?The oneswho aren't allowed tokill anyvampires lest they be hunted downbythevampireswhovastlyoutnumberthem?They'reevidence of this crossover lunacy.
 
-Anotherbrand ofcrossover lunacyinLARPchroniclesis the emissary syndrome. This syndrome accounts for the tissue-thin rationalefor why a characterin aspecifictypeofgame hasknowledgeof some or all of theother supernatural denizens of theWorld ofDarkness. Thinkof a character saying this:"I lived among the Garou for years after my embrace into Clan Gangrel. NowIworkwiththe lupinestoridtheworldof theWyrm's influence. Let me talk to that Get of Fenris foryou, my prince. That character is an emissary. SoistherogueTzimiscewho'spackedupthewagonsandjoined theCamarilla inanewcity. SoistheGangrel who'sleft theCamarilla andwhonowrunswith your werewolf pack.
+Anotherbrand ofcrossover lunacyinLARPchroniclesis the emissary syndrome.This syndrome accounts for the tissue-thin rationalefor why a characterin aspecifictypeofgame hasknowledgeof some or all of theother supernatural denizens of theWorld ofDarkness.Thinkof a character saying this:"I lived among the Garou for years after my embrace into Clan Gangrel. NowIworkwiththe lupinestoridtheworldof theWyrm's influence.Let me talk to that Get of Fenris foryou,my prince.That character is an emissary. SoistherogueTzimiscewho'spackedupthewagonsandjoined theCamarilla inanewcity.SoistheGangrel who'sleft theCamarilla andwhonowrunswith your werewolf pack.
 
-Crossoveralsoleads totheinevitablesceneof explanationwhen two supernatural creaturesof different types meet and begin discussing the whys andwherefores of whatit means to bewhat they are. Basically, you
+Crossoveralsoleads totheinevitablesceneof explanationwhen two supernatural creaturesof different types meet and begin discussing the whys andwherefores of whatit means to bewhat they are.Basically,you
 
 <!-- image -->
 
@@ -1620,7 +1618,7 @@ see one character trying to nutshell the essence of  his kind for another charac
 
 ## The Squad:
 
-This phenomenon has many names -the whoop squad, the beat squad, the gack squad, the hit squad -but it has one real meaning. What happens when one uses a squad  in LARPing is  that one character has a beef  with another character, so he rallies a group of  like-minded thugs to his cause. Having so rallied, the beefer then leads his thugs to wherever the beefee I  s (preferably  under the power of Cloak the Gathering, or through a convenient Umbral shortcut),  and he [and  they] proceed to whip the ever-loving  crap out of  the beefee. The resulting nightmarish mass-combat scene takes about two hours to  play out (depending  on  who jumps in  on  whose side),  but the  in-game time the scene takes is about 15-45 seconds.
+This phenomenon has many names -the whoop squad, the beat squad, the gack squad, the hit squad -but it has one real meaning. What happens when one uses a squad  in LARPing is  that one character has a beef  with another character, so he rallies a group of  like-minded thugs to his cause. Having so rallied, the beefer then leads his thugs to wherever the beefee i s (preferably  under the power of Cloak the Gathering, or through a convenient Umbral shortcut),  and he [and  they] proceed to whip the ever-loving  crap out of  the beefee. The resulting nightmarish mass-combat scene takes about two hours to  play out (depending  on  who jumps in  on  whose side),  but the  in-game time the scene takes is about 15-45 seconds.
 
 ## The Ratio:
 
@@ -1642,31 +1640,31 @@ The  use of these  villains  often  has  no  relation to the LARP  venue in whic
 
 ## MIND'S EYE THEATRE JOURNAL
 
-chronicle that aSabbatvampire can't accomplish10 timesbetter. All of the supernaturaldnizensof theWoDaremonstersbutsomemonstersaremore monstrousthan others.
+chronicle that aSabbatvampire can't accomplish10 timesbetter.All of the supernaturaldnizensof theWoDaremonstersbutsomemonstersaremore monstrousthan others.
 
 ## The Time Cycle:
 
-Conveniently, allof theimportanteventsintheWorldofDarknessoccur onaweekly, biweekly, monthlyoryearly scale. Nothingmuchhappensinthe "downtime" in between.
+Conveniently,allof theimportanteventsintheWorldofDarknessoccur onaweekly,biweekly,monthlyoryearly scale.Nothingmuchhappensinthe "downtime" in between.
 
 ## Common Equipment:
 
 No self-respecting LARPcharacter leaves the house for a night of social interactionwithout someorall of thefollowingequipment:
 
-Sword-cane. Chain-mail vest. Cellular(or PCS)phone. Trench coat. Mirrorshades. Desert Eagle.50pistol. Katana. Slug of silverforbullets orbladecoating. VesselofTransference item(and everyone knowswhat"you feelacold chillmeans). A d10 on which PrincipleFocus ofVitae Infusion has been cast. "Occult tome."Sawed-off shotgun. Armor. Stake (or bandoleer thereof).
+Sword-cane.Chain-mail vest.Cellular(or PCS)phone.Trench coat. Mirrorshades.Desert Eagle.50pistol.Katana.Slug of silverforbullets orbladecoating.VesselofTransference item(and everyone knowswhat"you feelacold chillmeans).A d10 on which PrincipleFocus ofVitae Infusion has been cast. "Occult tome."Sawed-off shotgun.Armor. Stake (or bandoleer thereof).
 
 ## Dialogue:
 
-"We must put aside our respective people's age-old differences and join our forces againstthisadversaryfrom thespiritworld—whichyourpeoplecall the Umbra, ifIremembercorrectly. Ifwedonotdothis, wearedestinedtofail, for we cannotstandagainstourfoeseparately. For, asBenjaminFranklin said, We must standtgethrstwalang sparatly
+"We must put aside our respective people's age-old differences and join our forces againstthisadversaryfrom thespiritworld—whichyourpeoplecall the Umbra,ifIremembercorrectly.Ifwedonotdothis,wearedestinedtofail,for we cannotstandagainstourfoeseparately.For,asBenjaminFranklin said,We must standtgethrstwalang sparatly
 
-Think of every self-important politician trying to soundwell-educated. Thinkofeveryhigh-schoolplayyoudidn'tactuallyenjoy. Unfortunately, many LARPers with powerful or very old characters talk this way:
+Think of every self-important politician trying to soundwell-educated. Thinkofeveryhigh-schoolplayyoudidn'tactuallyenjoy.Unfortunately,many LARPers with powerful or very old characters talk this way:
 
-That is tosay, theyoverdoit. Youknowyou'veheardpeopleorate thus. You may even be guilty of it yourself.
+That is tosay,theyoverdoit.Youknowyou'veheardpeopleorate thus.You may even be guilty of it yourself.
 
 ## Turnover:
 
-Princes/elders/nobles/Hierarchswhorise topower inthe courseof a live-action chronicle are in noway capableofmaintaining a power base. Theirreign usually lasts a fewmonths/weeks/years before they're castdownby some disgruntledfaction growingright under theirnoses. Peopleparticipatingin squads are oftenresponsiblefor thisrapid turnover ofthe noble elect. Power blocs ofvoting second-tier authority figures are equally guilty.
+Princes/elders/nobles/Hierarchswhorise topower inthe courseof a live-action chronicle are in noway capableofmaintaining a power base.Theirreign usually lasts a fewmonths/weeks/years before they're castdownby some disgruntledfaction growingright under theirnoses. Peopleparticipatingin squads are oftenresponsiblefor thisrapid turnover ofthe noble elect.Power blocs ofvoting second-tier authority figures are equally guilty.
 
-Whentheeventsofan out-of-control LARPinevitablybecomeridiculous—say theBrujahhave blown up theregistrar'sbuilding on the local college campus one too many times—some form of Storyteller justice occurs. Often deliverance of said justiceinvolves a justicardescendingfrom on high to"clean up the rampant breeches [sic] of the Masquerade." Incarnae can appearandscoldwayward Garouwho shouldbeBSDsbutfor the leniency of the Storytellers. Other measures involve"unkillable"Inquisitors(or hunters or imbued hunters),the involvement of the National Guard or crashingan asteroid into theLARP'scity setting in order to bring about a"reset."Some LARPs even survive such heavy-handed treatment andgrowintomuchmorereasonablechronicles.
+Whentheeventsofan out-of-control LARPinevitablybecomeridiculous—say theBrujahhave blown up theregistrar'sbuilding on the local college campus one too many times—some form of Storyteller justice occurs.Often deliverance of said justiceinvolves a justicardescendingfrom on high to"clean up the rampant breeches [sic] of the Masquerade." Incarnae can appearandscoldwayward Garouwho shouldbeBSDsbutfor the leniency of the Storytellers. Other measures involve"unkillable"Inquisitors(or hunters or imbued hunters),the involvement of the National Guard or crashingan asteroid into theLARP'scity setting in order to bring about a"reset."Some LARPs even survive such heavy-handed treatment andgrowintomuchmorereasonablechronicles.
 
 ## Justice:
 
@@ -1678,7 +1676,7 @@ And what have I learned from these observations?  Actually, I've learned quite a
 
 The  first is to  never be too critical, especially in this 'industry.'  I first  came at the Journal with the perspective  that White Wolf is right, and other people are wrong. If somebody played the game differently than the way  we recommended in a book, that person was wrong. If somebody ran a game that may as well have been a dungeon-crawl of undead superheroes with fangs, that person was  wrong too.  Basically, anyone who deviated in their  gameplay from the 'canonical' decrees of  the home  office  (all  in  the  name  of  villainous  and illiterate 'fun') was a loser and a goob who deserved to be ostracized from the hut m o d   that is the gaming community.
 
-Fortunately, I finally  came around  to  realize that that attitude  was the  worst sort  of undeserved snobbery.  The  people who are  playing with  our  materials thus are still the people who are buying those materials. To say that they're wrong implies  that  they're  dumb. And  it  doesn't take  a  team  of  rocket-scientist philosopher  kings to figure out that calling your customers dumb is a bad idea. If they (or you, or I frankly) diverge from the printed text in a way that makes a White Wolf game more fun, who are we behind the desks at this office to say that that's  wrong? That's  the  worst  kind  of corporate  jack-assery,  and it's  no  basis for developing  a quarterly magazine.
+Fortunately, I finally  came around  to  realize that that attitude  was the  worst sort  of undeserved snobbery.  The  people who are  playing with  our  materials thus are still the people who are buying those materials. To say that they're wrong implies  that  they're  dumb. And  it  doesn't take  a  team  of  rocket-scientist philosopher  kings to figure out that calling your customers dumb is a bad idea. If they (or you, or I frankly) diverge from the printed text in a way that makes a White Wolf game more fun, who are we behind the desks at this office to say that that's  wrong?That's  the  worst  kind  of corporate  jack-assery,  and it's  no  basis for developing  a quarterly magazine.
 
 Without that built-in condescension  working against me, it's easier to see the  good  that's hiding behind  the  otherwise  judgmental observations that opened this essay. It's easy to see that people approach LARPs with basically good intentions and reasonably good ideas.
 

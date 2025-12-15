@@ -1,0 +1,379 @@
+{
+    "clan": "Tremere",
+    "internal_name": "Tremere",
+    "book_title": "Revised - Clanbook Tremere",
+    "edition": "Revised",
+    "approximate_source_file": "G:\\VbN\\reference\\Books_md_clean\\Clan Books\\Revised - Clanbook Tremere.md",
+    "sections": [
+      {
+        "id": "credits",
+        "title": "Credits",
+        "anchor": "## Credits",
+        "type": "meta",
+        "notes": "Standard publication credits."
+      },
+      {
+        "id": "contents",
+        "title": "Contents",
+        "anchor": "## COntents",
+        "type": "meta",
+        "notes": "Table of contents."
+      },
+      {
+        "id": "framing_fiction_enlightened",
+        "title": "Framing Fiction – Enlightened by the Darkness",
+        "anchor": "## enLigHtened By tHe dArKness",
+        "type": "fiction",
+        "notes": "Opening fiction about a stage magician's Embrace."
+      },
+      {
+        "id": "history_dying_magic",
+        "title": "Dying Magic",
+        "anchor": "## dying  mAgiC",
+        "type": "history",
+        "notes": "The origin of the Tremere as mortal wizards who foresaw the death of magic."
+      },
+      {
+        "id": "history_fateful_potion",
+        "title": "The Fateful Potion",
+        "anchor": "## tHe  fAtefuL  pOtiOn",
+        "type": "history",
+        "notes": "Goratrix's development of the potion that transformed wizards into Kindred."
+      },
+      {
+        "id": "history_medieval_warfare",
+        "title": "Medieval Warfare",
+        "anchor": "## medievAL  wArfAre",
+        "type": "history",
+        "notes": "The early struggles of the Tremere as they learned to survive as Kindred."
+      },
+      {
+        "id": "history_new_order",
+        "title": "A New Order",
+        "anchor": "## A new Order",
+        "type": "history",
+        "notes": "Tremere's diablerie of Saulot and the clan's acceptance by other Kindred."
+      },
+      {
+        "id": "history_burning_times",
+        "title": "The Burning Times",
+        "anchor": "## tHe  Burning times",
+        "type": "history",
+        "notes": "The Inquisition and its impact on Kindred society."
+      },
+      {
+        "id": "history_saulot_and_kin",
+        "title": "Saulot and Kin",
+        "anchor": "## sAuLOt  And  Kin",
+        "type": "history",
+        "notes": "The diablerie of Saulot and the eradication of the Salubri."
+      },
+      {
+        "id": "history_camarilla",
+        "title": "The Camarilla",
+        "anchor": "## tHe  CAmAriLLA",
+        "type": "history",
+        "notes": "The Tremere's role in founding the Camarilla."
+      },
+      {
+        "id": "history_anarchy_and_sabbat",
+        "title": "Anarchy and the Sabbat",
+        "anchor": "## AnArCHy And  tHe  sABBAt",
+        "type": "history",
+        "children": [
+          "## BOnds  Of  tHAumAturgy"
+        ]
+      },
+      {
+        "id": "history_new_world",
+        "title": "The New World",
+        "anchor": "## tHe  new  wOrLd",
+        "type": "history",
+        "children": [
+          "## CHeAp prOpAgAndA",
+          "## CiviL  wAr",
+          "## wOrLd wAr",
+          "## trAding  in  Lies"
+        ]
+      },
+      {
+        "id": "history_modern_nights",
+        "title": "The Modern Nights",
+        "anchor": "## tHe  mOdern  nigHts",
+        "type": "history",
+        "children": [
+          "## And geHennA?"
+        ]
+      },
+      {
+        "id": "culture_pyramid_pieces",
+        "title": "The Pyramid's Pieces",
+        "anchor": "## tHe  pyrAmid ' s pieCes",
+        "type": "culture",
+        "children": [
+          "## rAnKs"
+        ]
+      },
+      {
+        "id": "culture_fledglings",
+        "title": "Fledglings",
+        "anchor": "## fLedgLings",
+        "type": "culture",
+        "notes": "Newly Embraced Tremere and their integration into the clan."
+      },
+      {
+        "id": "culture_apprentices",
+        "title": "Apprentices",
+        "anchor": "## ApprentiCes",
+        "type": "culture",
+        "children": [
+          "## wHAt exACtLy is  A  LOyAL  tremere?"
+        ]
+      },
+      {
+        "id": "culture_lords",
+        "title": "Lords",
+        "anchor": "## LOrds",
+        "type": "culture",
+        "notes": "Regional leaders who oversee multiple chantries."
+      },
+      {
+        "id": "culture_pontifices",
+        "title": "Pontifices",
+        "anchor": "## pOntifiCes",
+        "type": "culture",
+        "children": [
+          "## AdJustments, prOmOtiOns And demOtiOns"
+        ],
+        "notes": "Continental leaders who oversee large territories."
+      },
+      {
+        "id": "culture_houses",
+        "title": "Houses",
+        "anchor": "## HOuses",
+        "type": "culture",
+        "children": [
+          "## AstOrs",
+          "## HOuses Of  tHe  tremere"
+        ],
+        "notes": "Geographical and political divisions within the clan."
+      },
+      {
+        "id": "culture_secret_societies",
+        "title": "Secret Societies",
+        "anchor": "## seCret sOCieties",
+        "type": "culture",
+        "children": [
+          "## CHiLdren  Of  tHe  pyrAmid",
+          "## tHe eLite",
+          "## pArtisAn nOmenCLAture",
+          "## trAditiOnALists",
+          "## trAnsitiOnALists",
+          "## guArdiAns Of trAditiOn",
+          "## defunCt Orders",
+          "## The Order of Naturists",
+          "## The Humanus League",
+          "## The Golden Path of Harmony"
+        ]
+      },
+      {
+        "id": "culture_policies_and_practices",
+        "title": "Policies and Practices",
+        "anchor": "## pOLiCies  And prACtiCes",
+        "type": "culture",
+        "children": [
+          "## respOnsiBiLities",
+          "## generAting resuLts",
+          "## tHe sCrew JOB",
+          "## tHe tremere COde",
+          "## LAw And internAL pOLiCing",
+          "## triBunALs",
+          "## AnArCHs, AutArKis  And  rOgues",
+          "## wHAt yOu CAn get AwAy witH",
+          "## What You Can…",
+          "## What You Can't…"
+        ]
+      },
+      {
+        "id": "culture_servants_and_minions",
+        "title": "Servants and Minions",
+        "anchor": "## servAnts  And  miniOns",
+        "type": "culture",
+        "children": [
+          "## gHOuLs",
+          "## revenAnts",
+          "## HOmunCuLi",
+          "## gArgOyLes",
+          "## emBrACees"
+        ]
+      },
+      {
+        "id": "culture_sabbat",
+        "title": "The Sabbat",
+        "anchor": "## tHe sABBAt",
+        "type": "politics",
+        "children": [
+          "## tHe rite  Of  BetrAyers",
+          "## LAst  Of  tHe  AntitriBu",
+          "## mOdern sABBAt tremere",
+          "## sOme CHOiCe wOrds"
+        ]
+      },
+      {
+        "id": "culture_relations",
+        "title": "Relations with Other Clans",
+        "anchor": "## tHe CAmAriLLA",
+        "type": "politics",
+        "children": [
+          "## tHe sABBAt",
+          "## BruJAH",
+          "## mALKAviAns",
+          "## nOsferAtu",
+          "## tOreAdOr",
+          "## ventrue",
+          "## CAitiff",
+          "## AssAmites",
+          "## gAngreL",
+          "## rAvnOs",
+          "## giOvAnni",
+          "## setites",
+          "## OtHer tHings  in  tHe dArKness",
+          "## Lupines",
+          "## mAges",
+          "## nO pAtHs Of enLigHtenment? nO BLOOdLines?",
+          "## gHOsts",
+          "## fAeries",
+          "## Hunters"
+        ]
+      },
+      {
+        "id": "mechanics_disciplines",
+        "title": "Tremere Disciplines",
+        "anchor": "## tremere disCipLines",
+        "type": "mechanics",
+        "children": [
+          "## Auspex",
+          "## OptiOnAL system: tHAumAturgiCAL sigHt (Auspex ·· ,  tHAumAturgy · )",
+          "## dOminAte",
+          "## OBerOn ' s  grAiL  (dOminAte  LeveL  six)",
+          "## tHAumAturgy"
+        ]
+      },
+      {
+        "id": "mechanics_thaumaturgy",
+        "title": "Thaumaturgy",
+        "anchor": "## tHAumAturgy",
+        "type": "mechanics",
+        "children": [
+          "## teACHing  And  LeArning  tHAumAturgy",
+          "## tHAumAturgy pAtHs",
+          "## fAiLed  And  LOst  pAtHs",
+          "## pAtH Of  tHe  LevinBOLt",
+          "## •Spark",
+          "## •• Illuminate",
+          "## •••Power Array",
+          "## •••• Zeus' Fury",
+          "## ••••• Eye of the Storm",
+          "## tHe pAtH  Of  sHAdOwCrAfting",
+          "## • Out Light",
+          "## •• Shadow Taunt",
+          "## ••• Coruscating Shadow",
+          "## ••••Night's Veil",
+          "## ••••• Abyssal Pact",
+          "## tHAumAturgy rituALs",
+          "## BLOOd mAstery (LeveL One rituAL)",
+          "## dediCAte  tHe  CHAntry (LeveL  One  rituAL)",
+          "## purify BLOOd (LeveL One rituAL)",
+          "## sCent  Of  tHe  Lupine ' s  pAssing (LeveL  One  rituAL)",
+          "## deny tHe  intruder  (LeveL  twO  rituAL)",
+          "## insCriptiOn  (LeveL  twO  rituAL)",
+          "## tHe Open pAssAge (LeveL twO rituAL)",
+          "## rituAL ' s  reCOgnitiOn (LeveL  twO  rituAL)",
+          "## inHereted Affinity  (LeveL  tHree  rituAL)",
+          "## pOwer Of  tHe  pyrAmid (LeveL  tHree  rituAL)",
+          "## rutOr ' s  HAnds  (LeveL  tHree  rituAL)",
+          "## trAnsuBstAntiAtiOn  Of  seven (LeveL  tHree  rituAL)",
+          "## BLOOd Cert á men (LeveL  fOur  rituAL)",
+          "## mArK Of AmArAntH (LeveL fOur rituAL)",
+          "## sOuL Of  tHe  HOmunCuLus (LeveL  fOur  rituAL)",
+          "## unweAve rituAL (LeveL fOur rituAL)",
+          "## ABAndOn tHe fetters (LeveL five  rituAL)",
+          "## nigHt  Of  tHe  red  HeArt (LeveL  five  rituAL)",
+          "## BOne Of  COntentiOn  (LeveL  six  rituAL)"
+        ]
+      },
+      {
+        "id": "mechanics_merits_and_flaws",
+        "title": "Tremere Merits and Flaws",
+        "anchor": "## tremere merits  And  fLAws",
+        "type": "mechanics",
+        "children": [
+          "## Attuned tAste (2-pt.  supernAturAL  merit)",
+          "## emBrACed witHOut tHe Cup (3-pt.  sOCiAL  merit)",
+          "## BOund tO  tHe  COunCiL  (3-pt.  sOCiAL fLAw)",
+          "## dOuBLe BetrAyer (4-pt.  sOCiAL  fLAw)",
+          "## tHAumAturgiCALLy inept (5-pt. supernAturAL fLAw)"
+        ]
+      },
+      {
+        "id": "mechanics_derangements",
+        "title": "Tremere Derangements",
+        "anchor": "## tremere derAngements",
+        "type": "mechanics",
+        "children": [
+          "## HierArCHiCAL sOCiOLOgy disOrder",
+          "## sAnguinAry CryptOpHAgy",
+          "## tHAumAturgiCAL gLOssOLALiA"
+        ]
+      },
+      {
+        "id": "characters_archetypes",
+        "title": "Character Archetypes",
+        "anchor": "## seCurity COnsuLtAnt",
+        "type": "character_creation",
+        "children": [
+          "## dipLOmAt",
+          "## LABOr uniOn LeAder",
+          "## CrOwLey",
+          "## AnArCH tHAumAturge",
+          "## pyrAmid fAnAtiC",
+          "## CLOistered reseArCHer",
+          "## nigHtCLuB Owner",
+          "## mediCAL exAminer",
+          "## refugee-turned-sCOurge"
+        ]
+      },
+      {
+        "id": "characters_sample_coterie",
+        "title": "Sample Coterie: Secondary Sources",
+        "anchor": "## sAmpLe  COterie: seCOndAry  sOurCes",
+        "type": "character_creation",
+        "children": [
+          "## using seCOndAry sOurCes",
+          "## tHe ALL-tremere CHrOniCLe",
+          "## infLuenCe",
+          "## reseArCH And deveLOpment",
+          "## tHe Kindred And COHOrts",
+          "## regent KArL JOHAnsen",
+          "## ALmirO suArez"
+        ]
+      },
+      {
+        "id": "characters_tremere_of_note",
+        "title": "Tremere of Note",
+        "anchor": "## tremere Of nOte",
+        "type": "character_creation",
+        "children": [
+          "## tHe COunCiL Of seven",
+          "## etrius: first AmOng eQuALs",
+          "## gOrAtrix tHe BetrAyer",
+          "## AisLing sturBridge, HigH regent Of tHe five BOrOugHs",
+          "## JOsepH rAvenfeAtHer, tHe AnArCH regent",
+          "## tHe rest Of tHe COunCiL"
+        ]
+      }
+    ]
+  }
+
+
+

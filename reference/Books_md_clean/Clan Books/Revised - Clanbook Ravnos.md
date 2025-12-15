@@ -1,5 +1,3 @@
---- book_title: "Revised - Clanbook Ravnos" clan: "" edition: "" source_type: "clanbook" extraction_pipeline: "docling_v1 + markdown_cleanup_v1" ---
-
 <!-- image -->
 
 3G
@@ -32,7 +30,7 @@ Interior  Art:
 
 Mike  Danza,  Leif  Jones,  Andrew
 
-Trabbold, Drew Tucker, Christopher Shy
+Trabbold,Drew Tucker, Christopher Shy
 
 Front Cover Art: John Van Fleet
 
@@ -52,7 +50,7 @@ This book uses the supernatural for settings, characters and themes. All mystica
 
 For a free White Wolf catalog call 1-800-454-WOLF.
 
-Check out White Wolf online at http://www. white-wolf. com;  alt. games. whitewolf  and rec. games. frp. storyteller
+Check out White Wolf online at http://www.white-wolf.com;  alt.games.whitewolf  and rec.games.frp.storyteller
 
 PRINTED IN USA.
 
@@ -612,7 +610,7 @@ Most  Ravnos  traveled  to  the  Americas  in search of domains where the prince
 
 During this age of exploration, Europe experienced what some later called a 'rebirth of the life of the mind.' The Renaissance arrived - a time  of  artistic  and  literary  revolution,  a  time when science and reason began to triumph over base superstition. Of course, that era also saw the birth of the 'divine right of rule' concept. Can't get them all right, I suppose.
 
-To  the  Ravnos,  the  Renaissance  meant  increased commerce. We feed on it - not like the Ventrue, who desire to own it, or the Giovanni, who treat it like a big game (and whoever dies with the most toys... Probably still fucks his sister). Where  there's  commerce,  there's  vice.  Where there's vice, there are Ravnos. No matter how sick and twisted the hobby you can name, I guarantee some Ravnos somewhere is trying to improve on it. It's what we do. Most of the clan settled for more pedestrian variations, engaging in acts of piracy and highway robbery.
+To  the  Ravnos,  the  Renaissance  meant  increased commerce. We feed on it - not like the Ventrue, who desire to own it, or the Giovanni, who treat it like a big game (and whoever dies with the most toys... probably still fucks his sister). Where  there's  commerce,  there's  vice.  Where there's vice, there are Ravnos. No matter how sick and twisted the hobby you can name, I guarantee some Ravnos somewhere is trying to improve on it. It's what we do. Most of the clan settled for more pedestrian variations, engaging in acts of piracy and highway robbery.
 
 The Sybarites of the Renaissance had a particularly good time. Much of that jati were in the process  of  joining  up  with  the  newborn  Sabbat, but  more  than  a  few  continued  playing  in  the same arenas they'd occupied since Phoenicia was a nation. Slaving was one favorite hobby among the Sybarites. Europe and the colonies had made enslaving the less 'civilized' members of other racial groups a booming business. Of course, the Sybarites weren't the only Ravnos involved in the slave trade. Several Ravnos had the bright idea of selling their mortal relatives into bondage - just goes to show you how well Ravnos shilmulo got along with the mortal Rroma. This practice wasn't widespreadl; it primarily happened in Eastern Europe, but it lasted for centuries.
 
@@ -4650,7 +4648,7 @@ EMEANOR\_\_\_\_\_\_\_\_\_\_\_
 
 ## iNsiDe trADer
 
-Quote: Yes, Charles? I have some investment advice for you. Sell Cost-Less. com stocks now. Yes, I'm sure. Apparently, out of work, overweight, singing bald actors can't save them.
+Quote: Yes, Charles? I have some investment advice for you. Sell Cost-Less.com stocks now. Yes, I'm sure. Apparently, out of work, overweight, singing bald actors can't save them.
 
 Prelude: Your family never had much, a state of affairs that left you very unhappy. While all your friends had new clothes, you wore hand-me-downs and castoffs from thrift stores. Through a string of lucky breaks and honest work, you managed to earn a scholarship to a prestigious university and a degree in business.
 
@@ -5711,7 +5709,7 @@ You like to distort perceptions, beliefs and attitudes, not through Chimerstry, 
 
 Roleplaying Hints: Be observant, watch your surroundings and don't let your guard down. The last time you didn't pay attention, the Sabbat set up a shovel party for you. The Vaulderie makes you loyal to your pack, but you don't really care a lot for the Sabbat. You hate the Camarilla for what the 'Kindred' of that organization have done to the United States and the world throughout history and you realize that the Sabbat offers you your only chance to  strike  against  them. You're still patriotic and you haven't fully  bought into the Sabbat's ideal of  vampiric  superiority over mortals.
 
-E q u I  p m e n t : Wooden  stakes,  lighter, butane, black van,  .45  ACP  pistol
+E q u i p m e n t : Wooden  stakes,  lighter, butane, black van,  .45  ACP  pistol
 
 ChapteR thRee: oRphans in gehenna's wake
 
@@ -5745,7 +5743,7 @@ can see it as plain as anything. You know that preaching too loudly will bring t
 
 Roleplaying  Hints: Watch everyone around you for signs of possible sympathy to your cause or  dissatisfaction  with  the Sabbat as it currently exists. Be slow to recruit, but once you bring in converts to your cause, vehemently express your  beliefs  until  they're swayed. You know you're right,  and  they  should  see the truth in your words and  the  conviction that drives them.
 
-Equipment: Tattered, f I  l t h y clothing  that  probably  hasn't  been changed  in  two years.
+Equipment: Tattered, f i l t h y clothing  that  probably  hasn't  been changed  in  two years.
 
 \_\_\_\_\_\_\_\_\_
 
@@ -6577,7 +6575,7 @@ Quote: I  am  a  Thug.  My  father  was  a  Thug.  My  grandfather was a Thug. B
 
 Prelude: You were raised in the Thuggee cult, a group of men who worship the goddess Kali through the act of sacred strangulation. You once had a life beyond murder. You had a family, a respectable job and sufficient wealth for happiness, but none of that filled you with the joy that service to Kali could.
 
-You had to make sure your murders did not attract the attention of the authorities. Most people think the Thuggee were broken nearly two centuries ago. You were taught that the Thuggee allowed them to believe this. Now that you know the true nature of the highest ranks among the Thuggee, you suspect that many more forces are at work than you can understand . . . Yet.
+You had to make sure your murders did not attract the attention of the authorities. Most people think the Thuggee were broken nearly two centuries ago. You were taught that the Thuggee allowed them to believe this. Now that you know the true nature of the highest ranks among the Thuggee, you suspect that many more forces are at work than you can understand . . . yet.
 
 One  night,  three  Thuggee  came  to  you  and took you to a ritual, where you were stripped and they drank your blood. They returned it to you after transforming it into the blood of  Kali,  thereby  making  you  into  a  true Thuggee - a Ravnos.
 
@@ -8167,7 +8165,7 @@ W W W . W H I T E -W O L F . C O M
 
 ISBN 1-58846-209-9
 
-WW2364  $14.95 U. S.
+WW2364  $14.95 U.S.
 
 PRINTED IN USA
 

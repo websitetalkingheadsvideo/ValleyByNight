@@ -1,5 +1,3 @@
---- book_title: "WOD - Dark Epics" clan: "" edition: "" source_type: "clanbook" extraction_pipeline: "docling_v1 + markdown_cleanup_v1" ---
-
 <!-- image -->
 
 <!-- image -->
@@ -258,7 +256,7 @@ LARPs become large around the 75-player mark. That figure is fairly arbitrary, b
 
 <!-- image -->
 
-Of course, every game has its share of casual players - those who only turn up occasionally, maybe only once - and those people skew the population count somewhat. Players bring along their significant others to show them what they've been involved in on Saturday nights, but the SO might play only a  couple  of  times  and  then  drop  out.  People  also  drag  friends  along  for something to do for the evening, but those friends sometimes find that liveaction roleplaying is not for them. Some casual gamers may or may not turn up, depending on what's on TV that night. As far as the population figures for a single ongoing chronicle go, we're referring to regular players (i. e., those who attend the game 75% of the time).
+Of course, every game has its share of casual players - those who only turn up occasionally, maybe only once - and those people skew the population count somewhat. Players bring along their significant others to show them what they've been involved in on Saturday nights, but the SO might play only a  couple  of  times  and  then  drop  out.  People  also  drag  friends  along  for something to do for the evening, but those friends sometimes find that liveaction roleplaying is not for them. Some casual gamers may or may not turn up, depending on what's on TV that night. As far as the population figures for a single ongoing chronicle go, we're referring to regular players (i.e., those who attend the game 75% of the time).
 
 Games will grow to the aforementioned size if your local area has the gamer population  to  support  it  and  if  the  quality  of  the  game  is  such  that  others recommend it to their friends. Some games prefer to vet potential players in order  to  ensure  compatibility  with  their  game  styles.  Others  advertise  for interested individuals, and still others allow anyone to turn up to try the game. In any case, players will stay if they have fun and if they see that the chronicle is run fairly and well. They also need to know that the staff is capable of handling the necessary paperwork. In the end, remember, it's not the size of the game that matters; it's the quality that counts.
 
@@ -1430,7 +1428,7 @@ Descriptive Example: When Donny made his character, he decided to have his Finan
 
 ## Trace
 
-You can use this endeavor to establish the identity of a character whose Influence you have come into contact with. You cannot simply guess that a character has an Influence in a particular category and then attempt to Trace it. You must first have come into contact with it in one of the several ways. This can be accomplished by suffering an Attack from the target's Influence, by noticing one of the target's endeavors with the use of Watch, by stopping one of the target's endeavors with a Block, or by having one your own endeavors stopped by the target's use of Block. Additionally, if someone ever loans you Influence Traits with Combine, you can Trace them. Finally, if the target ever tells you in great detail about his Influence (i. e., agrees to let you Trace it), you can perform the Trace. The total actions spent on the Trace define its level. If the level of this Trace exceeds the highest  level  of  Conceal  or  Stealth  put  up  to  guard  the  Influence  that  month, the  Trace  is  successful.  Success  tells  you  the  Influence  owner's  identity,  and  whether  their Influence level is higher than your own or not. It also gives you a general description of the Influence and the ability to spend Traits to Attack it.
+You can use this endeavor to establish the identity of a character whose Influence you have come into contact with. You cannot simply guess that a character has an Influence in a particular category and then attempt to Trace it. You must first have come into contact with it in one of the several ways. This can be accomplished by suffering an Attack from the target's Influence, by noticing one of the target's endeavors with the use of Watch, by stopping one of the target's endeavors with a Block, or by having one your own endeavors stopped by the target's use of Block. Additionally, if someone ever loans you Influence Traits with Combine, you can Trace them. Finally, if the target ever tells you in great detail about his Influence (i.e., agrees to let you Trace it), you can perform the Trace. The total actions spent on the Trace define its level. If the level of this Trace exceeds the highest  level  of  Conceal  or  Stealth  put  up  to  guard  the  Influence  that  month, the  Trace  is  successful.  Success  tells  you  the  Influence  owner's  identity,  and  whether  their Influence level is higher than your own or not. It also gives you a general description of the Influence and the ability to spend Traits to Attack it.
 
 Using Trace is specific to one city. Therefore, if a character has Influence of the same type in more than one city, your Trace only tells you about the Influence in the city you are searching. If you have succeeded in a Trace on an Influence, you may not simply relay that information to someone else for his or her Influence to make an Attack on. The information is too complex for them to relay to their own Influence contacts without them actually performing a Trace themselves. If you have performed a successful Trace, you can relay  enough  information  for  someone  else  to  perform  a  Trace  with  his  or  her  own  Influence.
 
@@ -1498,7 +1496,7 @@ Anyone in or just entering combat is subject to the three-step rule. You may tak
 
 ## T TWO- W - WEAPON C COMBAT
 
-Characters may use an additional weapon in their off hand, but they must have special training in order to achieve the benefits of doing so. If the character has four or more levels of the Ability appropriate to the weapon being used (i. e., Firearms , Melee , etc.), he may add one to the number of Bonus Traits given by the weapon he is using. Characters using a weapon and a shield are required to have only one level of Melee to make use of the shield's additional Trait(s).
+Characters may use an additional weapon in their off hand, but they must have special training in order to achieve the benefits of doing so. If the character has four or more levels of the Ability appropriate to the weapon being used (i.e., Firearms , Melee , etc.), he may add one to the number of Bonus Traits given by the weapon he is using. Characters using a weapon and a shield are required to have only one level of Melee to make use of the shield's additional Trait(s).
 
 During the challenge,  only  one  weapon  is  considered  to  have  a  damaging  effect,  while the other simply aids with parrying or spraying. Therefore, a character with Incendiary ammunition in one pistol and Armor-piercing rounds in the other may not take advantage of both types of ammunition in the same attack (although rounds from both guns would be  expended).  For  another  example,  a  character  with Baal's  Caress on  his  sword,  and  a Ward versus Kindred on his dagger could not apply both effects to the same attack.
 
@@ -1524,7 +1522,7 @@ A character  in  a Mind's  Eye  Theatre game  has  different  health  levels  th
 
 If a character is at the Mortally Wounded/ Torpor health level and is left in a position that would logically lead to his demise, such as in a flaming building or a trash  compactor,  the  Narrator  will  declare  the  character  to  be  dead  after  the appropriate amount of time.
 
-Narrators should never allow an 'instant kill' without the consent of the target (i. e., he agrees to die for story purposes). An instant kill is any single challenge or effect that takes a character from his first Healthy health level to Mortally Wounded or Torpor. The Mind's Eye Theatre rules are designed to be theatrical, not strictly realistic, so emphasize story over combat.
+Narrators should never allow an 'instant kill' without the consent of the target (i.e., he agrees to die for story purposes). An instant kill is any single challenge or effect that takes a character from his first Healthy health level to Mortally Wounded or Torpor. The Mind's Eye Theatre rules are designed to be theatrical, not strictly realistic, so emphasize story over combat.
 
 ## N NOTICING P POWERS   I N E EFFECT
 
@@ -1604,7 +1602,7 @@ To teach Advanced Necromancy or Thaumaturgy , the teacher must be a sixth- or se
 
 ## W W W WEREWOLF EREWOLF S S S SETTING ETTING S S S SYSTEMS YSTEMS R RAGE
 
-A Rage Trait allows a character to make a follow up attack after a successful Physical Challenge, thus creating a new challenge immediately. To make this extra attack, the player declares his intention to do so and risks a Rage Trait in the followup challenge instead of a Physical Trait. This follow-up challenge may not be followed by additional extra attacks. If an opponent is using follow-up attacks (i. e., Celerity , Rage or  similar  powers),  Rage  may  be  spent  to  participate  in  these  challenges  as  normal.
+A Rage Trait allows a character to make a follow up attack after a successful Physical Challenge, thus creating a new challenge immediately. To make this extra attack, the player declares his intention to do so and risks a Rage Trait in the followup challenge instead of a Physical Trait. This follow-up challenge may not be followed by additional extra attacks. If an opponent is using follow-up attacks (i.e., Celerity , Rage or  similar  powers),  Rage  may  be  spent  to  participate  in  these  challenges  as  normal.
 
 ## R RISKING T TRAITS:  R :  RA G E   A N D G GNOSIS
 
@@ -2292,7 +2290,7 @@ Player-driven change results when players make adjustments to their style or the
 
 Is the change due to dissatisfaction with the theme?
 
-If  your  theme  is  changing  due  to  player  dissatisfaction  with  the  current  theme,  there is usually very little that you can do directly or forcibly to prevent that change. If it happens, talk  with  your  players.  Are  they  generally  dissatisfied  (i. e.,  totally  sick  of  the  way things are going)? If so, work with them to develop a theme and/ or mood that they will enjoy playing and that you will enjoy supporting. You shouldn't force your players to suffer  through  a  game  that  they  don't  like,  but  you  shouldn't  sacrifice  the  artistic sensibility with which you create your stories just because they aren't immediate hits.
+If  your  theme  is  changing  due  to  player  dissatisfaction  with  the  current  theme,  there is usually very little that you can do directly or forcibly to prevent that change. If it happens, talk  with  your  players.  Are  they  generally  dissatisfied  (i.e.,  totally  sick  of  the  way things are going)? If so, work with them to develop a theme and/ or mood that they will enjoy playing and that you will enjoy supporting. You shouldn't force your players to suffer  through  a  game  that  they  don't  like,  but  you  shouldn't  sacrifice  the  artistic sensibility with which you create your stories just because they aren't immediate hits.
 
 Remember, any MET chronicle is founded on a guiding principle: People are coming together to tell great stories and have a great time doing it. Getting upset with each other defeats the purpose. When players and Storytellers are contentious with each other out of game, the chronicle involved is in a great deal of trouble.
 
@@ -2310,7 +2308,7 @@ If you have had previous experience in constructing or running a small-scale liv
 
 ## T THE A AUTHORITY
 
-This character will either be the total authority of the setting (e. g., a city's prince or the leader of the Garou sept), or he can be the point man and liaison for the authority group (such as a representative for the Council of Nine or a visiting Anacreon).  Regardless  of  his  actual  title  or  his  personal  power,  this  character represents the accepted laws and customs of the group around which your chronicle is centered. This is not to imply, however, that this character's power must be great and terrible. Weak authority characters are perfect for a chronicle centered on a theme of chaos, war or millennial disruptions.
+This character will either be the total authority of the setting (e.g., a city's prince or the leader of the Garou sept), or he can be the point man and liaison for the authority group (such as a representative for the Council of Nine or a visiting Anacreon).  Regardless  of  his  actual  title  or  his  personal  power,  this  character represents the accepted laws and customs of the group around which your chronicle is centered. This is not to imply, however, that this character's power must be great and terrible. Weak authority characters are perfect for a chronicle centered on a theme of chaos, war or millennial disruptions.
 
 Many chronicles will begin with a Storyteller character in this role, but the role will usually pass on to a player's character over time, either through Storyteller design or through player action. You will likely find that your players will prefer to have a one of their own in this role after a few games, since they will enjoy being able to support or defend a fellow player.
 
@@ -2376,7 +2374,7 @@ When the antagonist is running around with a gun in one hand and a torch in the 
 
 ## K KNOWING W WHEN   T O S SAY W WHEN: S :  STOPPING A ARCHETYPE T TRENDS
 
-All of the role types presented here have the potential for going over the line. The desire for a character to seek total success in a role (i. e., to look for a way to 'win') is a threat that you should watch out for constantly. If unchecked, that desire can create chronicles in which only one or two types of characters are really viable. Don't be afraid to encourage the rise of other archetypal characters through the use of Storyteller and Narrator characters as well as direct (though evenhanded) plot intervention.
+All of the role types presented here have the potential for going over the line. The desire for a character to seek total success in a role (i.e., to look for a way to 'win') is a threat that you should watch out for constantly. If unchecked, that desire can create chronicles in which only one or two types of characters are really viable. Don't be afraid to encourage the rise of other archetypal characters through the use of Storyteller and Narrator characters as well as direct (though evenhanded) plot intervention.
 
 <!-- image -->
 

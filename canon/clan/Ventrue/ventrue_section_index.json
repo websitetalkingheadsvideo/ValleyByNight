@@ -1,0 +1,335 @@
+{
+    "clan": "Ventrue",
+    "internal_name": "Ventrue",
+    "book_title": "Revised - Clanbook Ventrue",
+    "edition": "Revised",
+    "sections": [
+      {
+        "id": "credits",
+        "title": "Credits",
+        "anchor": "## CRedits",
+        "type": "meta"
+      },
+      {
+        "id": "introduction",
+        "title": "To Fail and Succeed",
+        "anchor": "## tO FAiL ANd suCCeed",
+        "type": "fiction"
+      },
+      {
+        "id": "history_caine_chosen",
+        "title": "Caine's Chosen",
+        "anchor": "## CAiNe ' s  ChOseN",
+        "type": "history"
+      },
+      {
+        "id": "history_war_of_ages",
+        "title": "The War of Ages",
+        "anchor": "## the  wAR  OF  Ages",
+        "type": "history"
+      },
+      {
+        "id": "history_ventrue_fate",
+        "title": "Ventrue's Fate",
+        "anchor": "## veNtRue ' s  FAte",
+        "type": "history"
+      },
+      {
+        "id": "history_diaspora",
+        "title": "Diaspora",
+        "anchor": "## diAspORA",
+        "type": "history"
+      },
+      {
+        "id": "history_sparta",
+        "title": "Sparta",
+        "anchor": "## spARtA",
+        "type": "history"
+      },
+      {
+        "id": "history_first_brujah_war",
+        "title": "The First Brujah War",
+        "anchor": "## the  FiRst  BRujAh  wAR",
+        "type": "history"
+      },
+      {
+        "id": "history_latin_ventrue",
+        "title": "The Latin Ventrue",
+        "anchor": "## the  LAtiN  veNtRue",
+        "type": "history"
+      },
+      {
+        "id": "history_camilla_reign",
+        "title": "Camilla's Reign",
+        "anchor": "## CAmiLLA ' s  ReigN",
+        "type": "history"
+      },
+      {
+        "id": "history_second_brujah_war",
+        "title": "The Second Brujah War",
+        "anchor": "## the  seCONd  BRujAh  wAR",
+        "type": "history"
+      },
+      {
+        "id": "history_carthago_delenda",
+        "title": "Carthago Delenda Est",
+        "anchor": "## CARthAgO deLeNdA est",
+        "type": "history"
+      },
+      {
+        "id": "history_senate_failure",
+        "title": "The Senate's Failure",
+        "anchor": "## the  seNAte ' s  FAiLuRe",
+        "type": "history"
+      },
+      {
+        "id": "history_ancient_grudge",
+        "title": "An Ancient Grudge",
+        "anchor": "## AN ANCieNt  gRudge",
+        "type": "history"
+      },
+      {
+        "id": "history_golden_age",
+        "title": "The Golden Age and Transformation",
+        "anchor": "## the  gOLdeN  Age  ANd tRANsFORmAtiON",
+        "type": "history"
+      },
+      {
+        "id": "history_dark_ages",
+        "title": "The Dark Ages",
+        "anchor": "## the  dARK  Ages",
+        "type": "history"
+      },
+      {
+        "id": "history_nights_of_fire",
+        "title": "The Nights of Fire",
+        "anchor": "## the  Nights  OF  FiRe",
+        "type": "history"
+      },
+      {
+        "id": "history_camarilla_rebirth",
+        "title": "The Camarilla and the Rebirth of Clan Ventrue",
+        "anchor": "## the CAmARiLLA ANd  the  ReBiRth  OF CLAN veNtRue",
+        "type": "history"
+      },
+      {
+        "id": "history_renaissance",
+        "title": "Renaissance and Reformation",
+        "anchor": "## ReNAissANCe  ANd  ReFORmAtiON",
+        "type": "history"
+      },
+      {
+        "id": "culture_overview",
+        "title": "Clan Culture",
+        "anchor": null,
+        "type": "culture",
+        "children": []
+      },
+      {
+        "id": "culture_agoge",
+        "title": "The Agoge",
+        "anchor": null,
+        "type": "culture"
+      },
+      {
+        "id": "culture_hierarchy",
+        "title": "The Hierarchy",
+        "anchor": null,
+        "type": "culture"
+      },
+      {
+        "id": "culture_courts",
+        "title": "The Courts",
+        "anchor": null,
+        "type": "culture"
+      },
+      {
+        "id": "culture_cliques",
+        "title": "The Cliques",
+        "anchor": null,
+        "type": "culture"
+      },
+      {
+        "id": "culture_dignitas",
+        "title": "Dignitas",
+        "anchor": null,
+        "type": "culture"
+      },
+      {
+        "id": "culture_feeding",
+        "title": "Feeding and the Restriction",
+        "anchor": null,
+        "type": "culture"
+      },
+      {
+        "id": "politics_overview",
+        "title": "Clan Politics",
+        "anchor": null,
+        "type": "politics",
+        "children": []
+      },
+      {
+        "id": "politics_camarilla",
+        "title": "The Camarilla",
+        "anchor": null,
+        "type": "politics"
+      },
+      {
+        "id": "politics_anarchs",
+        "title": "The Anarchs",
+        "anchor": null,
+        "type": "politics"
+      },
+      {
+        "id": "politics_sabbat",
+        "title": "The Sabbat",
+        "anchor": null,
+        "type": "politics"
+      },
+      {
+        "id": "politics_independents",
+        "title": "Independents",
+        "anchor": null,
+        "type": "politics"
+      },
+      {
+        "id": "relations_overview",
+        "title": "Clan Relations",
+        "anchor": null,
+        "type": "politics",
+        "children": []
+      },
+      {
+        "id": "relations_assamites",
+        "title": "Assamites",
+        "anchor": null,
+        "type": "politics"
+      },
+      {
+        "id": "relations_brujah",
+        "title": "Brujah",
+        "anchor": null,
+        "type": "politics"
+      },
+      {
+        "id": "relations_followers_of_set",
+        "title": "Followers of Set",
+        "anchor": null,
+        "type": "politics"
+      },
+      {
+        "id": "relations_gangrel",
+        "title": "Gangrel",
+        "anchor": null,
+        "type": "politics"
+      },
+      {
+        "id": "relations_giovanni",
+        "title": "Giovanni",
+        "anchor": null,
+        "type": "politics"
+      },
+      {
+        "id": "relations_lasombra",
+        "title": "Lasombra",
+        "anchor": null,
+        "type": "politics"
+      },
+      {
+        "id": "relations_malkavian",
+        "title": "Malkavian",
+        "anchor": null,
+        "type": "politics"
+      },
+      {
+        "id": "relations_nosferatu",
+        "title": "Nosferatu",
+        "anchor": null,
+        "type": "politics"
+      },
+      {
+        "id": "relations_ravnos",
+        "title": "Ravnos",
+        "anchor": null,
+        "type": "politics"
+      },
+      {
+        "id": "relations_toreador",
+        "title": "Toreador",
+        "anchor": null,
+        "type": "politics"
+      },
+      {
+        "id": "relations_tremere",
+        "title": "Tremere",
+        "anchor": null,
+        "type": "politics"
+      },
+      {
+        "id": "relations_tzimisce",
+        "title": "Tzimisce",
+        "anchor": null,
+        "type": "politics"
+      },
+      {
+        "id": "mechanics_overview",
+        "title": "Clan Mechanics",
+        "anchor": null,
+        "type": "mechanics",
+        "children": []
+      },
+      {
+        "id": "mechanics_disciplines",
+        "title": "Disciplines",
+        "anchor": null,
+        "type": "mechanics"
+      },
+      {
+        "id": "mechanics_weakness",
+        "title": "Clan Weakness",
+        "anchor": null,
+        "type": "mechanics"
+      },
+      {
+        "id": "mechanics_merits_flaws",
+        "title": "Merits and Flaws",
+        "anchor": null,
+        "type": "mechanics"
+      },
+      {
+        "id": "character_creation",
+        "title": "Character Creation",
+        "anchor": null,
+        "type": "character_creation",
+        "children": []
+      },
+      {
+        "id": "character_archetypes",
+        "title": "Archetypes",
+        "anchor": null,
+        "type": "character_creation"
+      },
+      {
+        "id": "character_concepts",
+        "title": "Character Concepts",
+        "anchor": null,
+        "type": "character_creation"
+      },
+      {
+        "id": "storyteller_advice",
+        "title": "Storyteller Advice",
+        "anchor": null,
+        "type": "meta"
+      },
+      {
+        "id": "notable_ventrue",
+        "title": "Notable Ventrue",
+        "anchor": null,
+        "type": "lore",
+        "children": []
+      }
+    ]
+  }
+
+
+

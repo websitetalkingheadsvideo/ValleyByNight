@@ -1,0 +1,155 @@
+{
+    "clan": "Samedi",
+    "internal_name": "Samedi",
+    "book_title": "Bloodline Book: Samedi",
+    "edition": "Bloodline Book",
+    "npc_seeds": [
+      {
+        "id": "samedi_information_broker",
+        "summary": "A Samedi who specializes in collecting and selling information, using secrets as both currency and protection. They maintain extensive networks of contacts and sources, and they are always looking for new leads or valuable information.",
+        "role": "Information Broker / Spy",
+        "age_category": "ancilla",
+        "temperament": "shrewd, patient, practical",
+        "possible_plots": [
+          "The broker offers to sell information that the characters desperately need, but the price is high and the information comes with dangerous implications.",
+          "The broker's networks are threatened by enemies or rivals, creating a need for protection or assistance.",
+          "The broker's information reveals something about the characters' past, present, or future, creating opportunities for story and character development."
+        ]
+      },
+      {
+        "id": "samedi_assassin",
+        "summary": "A Samedi who uses their appearance and skills to eliminate targets, using explosives, curses, or direct violence as needed. They are practical and efficient, understanding that their utility ensures their survival.",
+        "role": "Assassin / Killer",
+        "age_category": "ancilla",
+        "temperament": "practical, efficient, detached",
+        "possible_plots": [
+          "The assassin is hired to eliminate someone important to the characters, creating a race to protect the target or negotiate.",
+          "The assassin's methods attract unwanted attention, creating a need for cleanup or damage control.",
+          "The assassin offers to help the characters eliminate a target, but the help comes with a price and consequences."
+        ]
+      },
+      {
+        "id": "samedi_bodyguard",
+        "summary": "A Samedi who uses voodoo, curses, and their appearance to protect their employers, understanding that their utility ensures their survival. They are loyal to their employers, as long as the pay is good and the job is clear.",
+        "role": "Bodyguard / Protector",
+        "age_category": "ancilla",
+        "temperament": "loyal, protective, practical",
+        "possible_plots": [
+          "The bodyguard is hired to protect someone important to the characters, but their methods are disturbing and their appearance creates problems.",
+          "The bodyguard's protection is tested by enemies or threats, creating opportunities for conflict and story.",
+          "The bodyguard offers to protect the characters, but the protection comes with obligations and risks."
+        ]
+      },
+      {
+        "id": "samedi_voodoo_practitioner",
+        "summary": "A Samedi who maintains deep connections to voodoo, spirit guides, and the world of the dead, using this knowledge for power and protection. They perform rituals, call upon spirits, and use voodoo magic to achieve their goals.",
+        "role": "Voodoo Priest / Spirit Worker",
+        "age_category": "elder",
+        "temperament": "mystical, connected, powerful",
+        "possible_plots": [
+          "The practitioner performs a voodoo ritual that has unexpected consequences, drawing unwanted attention or creating new problems.",
+          "The practitioner's connection to the spirit world provides information or power that the characters need, but the connection comes with obligations and risks.",
+          "The practitioner offers to help the characters with a voodoo ritual, but the ritual requires a sacrifice or risk they may not be willing to make."
+        ]
+      },
+      {
+        "id": "samedi_candomble_host",
+        "summary": "A Samedi who is chosen to host the annual Candomble gathering, responsible for preparing the site, coordinating security, and presiding over the ceremonies. They are experienced, respected, and deeply connected to Samedi culture.",
+        "role": "Candomble Host / Cultural Leader",
+        "age_category": "elder",
+        "temperament": "organized, respected, traditional",
+        "possible_plots": [
+          "The host's preparations for the Candomble are threatened by enemies or rivals, creating a need for protection or assistance.",
+          "The host invites the characters to attend the Candomble, creating opportunities for interaction, conflict, or discovery.",
+          "The host's role as cultural leader creates conflicts with other Samedi or factions, creating opportunities for story and character development."
+        ]
+      },
+      {
+        "id": "samedi_giovanni_contact",
+        "summary": "A Samedi who maintains contact with the Giovanni, either out of necessity (receiving hush money) or out of a desire to understand their origins. They may be studying necromancy, working on joint projects, or simply trying to survive.",
+        "role": "Giovanni Contact / Survivor",
+        "age_category": "ancilla",
+        "temperament": "practical, cautious, resourceful",
+        "possible_plots": [
+          "The contact's relationship with the Giovanni creates conflicts with other Samedi or factions, creating opportunities for story and conflict.",
+          "The contact's knowledge of Giovanni activities or secrets provides information that the characters need, but the information comes with risks and consequences.",
+          "The contact's survival depends on maintaining the relationship with the Giovanni, creating a situation where they must choose between loyalty and other concerns."
+        ]
+      },
+      {
+        "id": "samedi_nosferatu_ally",
+        "summary": "A Samedi who maintains a close relationship with the Nosferatu, sharing information, providing protection, and working together on mutual goals. They understand that their outcast status creates a natural alliance.",
+        "role": "Nosferatu Ally / Information Partner",
+        "age_category": "ancilla",
+        "temperament": "cooperative, practical, loyal",
+        "possible_plots": [
+          "The ally's relationship with the Nosferatu creates opportunities for the characters to access Nosferatu networks or resources.",
+          "The ally's cooperation with the Nosferatu leads to discoveries or projects that have implications for both bloodlines.",
+          "The ally's loyalty to the Nosferatu creates conflicts with other Samedi or factions, creating opportunities for story and character development."
+        ]
+      },
+      {
+        "id": "samedi_son_of_samuel",
+        "summary": "A Tremere who has been Embraced by a Samedi or who has learned Samedi Disciplines, creating a unique hybrid of Tremere and Samedi abilities. They are caught between two worlds, belonging to neither fully.",
+        "role": "Son of Samuel / Hybrid",
+        "age_category": "neonate",
+        "temperament": "conflicted, powerful, isolated",
+        "possible_plots": [
+          "The Son of Samuel's hybrid nature creates conflicts with both Tremere and Samedi, creating opportunities for story and character development.",
+          "The Son of Samuel's unique abilities provide power or knowledge that the characters need, but the power comes with risks and consequences.",
+          "The Son of Samuel's isolation creates opportunities for the characters to provide support, guidance, or conflict."
+        ]
+      },
+      {
+        "id": "samedi_street_child",
+        "summary": "A Samedi who was Embraced as a child, using their small stature and appearance to operate as a spy or information gatherer. They are street-smart, resourceful, and deeply connected to the urban underworld.",
+        "role": "Street Child / Spy",
+        "age_category": "neonate",
+        "temperament": "street-smart, resourceful, isolated",
+        "possible_plots": [
+          "The street child's small stature and appearance make them an effective spy, creating opportunities for infiltration, information gathering, or sabotage.",
+          "The street child's connection to the urban underworld provides information or resources that the characters need, but the connection comes with risks and obligations.",
+          "The street child's isolation and vulnerability create opportunities for the characters to provide protection, guidance, or conflict."
+        ]
+      },
+      {
+        "id": "samedi_elder_grandaddy",
+        "summary": "The first Samedi, known as 'Gran'daddy' or Paulo, who was created by Antonio Giovanni's failed experiment. They are ancient, powerful, and deeply connected to the bloodline's origins and culture.",
+        "role": "Elder / Founder",
+        "age_category": "elder",
+        "temperament": "ancient, powerful, mysterious",
+        "possible_plots": [
+          "Gran'daddy's knowledge of the bloodline's origins provides information that the characters need, but the information comes with dangerous implications.",
+          "Gran'daddy's power and influence create conflicts with other Samedi or factions, creating opportunities for story and character development.",
+          "Gran'daddy's connection to the Giovanni creates opportunities for stories about the bloodline's origins, the Giovanni experiment, and the consequences of necromantic mistakes."
+        ]
+      },
+      {
+        "id": "samedi_technology_specialist",
+        "summary": "A Samedi who has a great affinity for technology, maintaining havens with advanced surveillance equipment, wiretaps, disguise kits, and computer systems. They use technology to compensate for their appearance and to enhance their utility.",
+        "role": "Technology Specialist / Hacker",
+        "age_category": "ancilla",
+        "temperament": "technical, resourceful, isolated",
+        "possible_plots": [
+          "The specialist's technology provides information or capabilities that the characters need, but accessing them requires dealing with the Samedi.",
+          "The specialist's technology is threatened by enemies or rivals, creating a need for protection or assistance.",
+          "The specialist offers to help the characters with technology, but the help comes with obligations and risks."
+        ]
+      },
+      {
+        "id": "samedi_healer",
+        "summary": "A Samedi who uses their knowledge of death and decay to understand healing and medicine, working as a healer or medical specialist despite their appearance. They understand that their utility ensures their survival.",
+        "role": "Healer / Medical Specialist",
+        "age_category": "ancilla",
+        "temperament": "compassionate, knowledgeable, practical",
+        "possible_plots": [
+          "The healer's medical knowledge provides treatment or information that the characters need, but accessing it requires dealing with the Samedi.",
+          "The healer's work attracts unwanted attention from mortals or other Kindred, creating a need for protection or negotiation.",
+          "The healer offers to help the characters with medical treatment, but the treatment comes with risks and consequences."
+        ]
+      }
+    ]
+  }
+
+
+

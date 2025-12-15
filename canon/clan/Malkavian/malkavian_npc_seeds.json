@@ -1,0 +1,140 @@
+{
+  "clan": "Malkavians",
+  "internal_name": "Lunatics",
+  "book_title": "Revised - Clanbook Malkavian",
+  "edition": "Revised",
+  "npc_seeds": [
+    {
+      "id": "malkavian_prophet_seed_01",
+      "name": "Cassandra 'Echo' Vasquez, Court Seer",
+      "summary": "A neonate Malkavian who serves as the Prince's unofficial prophet, speaking in cryptic riddles that often prove disturbingly accurate.",
+      "role": "court seer and advisor",
+      "age_category": "neonate",
+      "temperament": "intense, distracted, speaks in fragments and metaphors that hint at deeper truths",
+      "possible_plots": [
+        "Echo delivers a prophecy that directly involves the coterie, but her words are so cryptic that the PCs must interpret them before disaster strikes.",
+        "She begins having visions of an Antediluvian's awakening and seeks the coterie's help to verify or prevent the coming horror.",
+        "The Prince orders Echo to read the auras of the coterie, and she reveals secrets they've been hiding—but also warns of a threat they didn't know existed."
+      ]
+    },
+    {
+      "id": "malkavian_prankster_seed_01",
+      "name": "Marcus 'Trick' O'Malley, Chaos Agent",
+      "summary": "An ancilla prankster who uses elaborate schemes to expose hypocrisy and reveal uncomfortable truths in Kindred society.",
+      "role": "agent of revelation and court jester",
+      "age_category": "ancilla",
+      "temperament": "manic, clever, finds humor in the darkest truths and uses pranks as a form of communication",
+      "possible_plots": [
+        "Trick orchestrates a prank that reveals a prominent elder's secret betrayal, forcing the coterie to decide whether to expose the truth or cover it up.",
+        "He targets the coterie with a series of escalating pranks that force them to question their own assumptions about reality and morality.",
+        "Trick's latest prank goes too far and accidentally triggers a blood hunt; the coterie must help him escape or face the consequences themselves."
+      ]
+    },
+    {
+      "id": "malkavian_collector_seed_01",
+      "name": "Dr. Eleanor 'Pattern' Chen, Information Broker",
+      "summary": "A Malkavian obsessed with collecting patterns—connections between seemingly unrelated events, people, and places. She maintains a vast network of contacts and information.",
+      "role": "information broker and pattern seeker",
+      "age_category": "ancilla",
+      "temperament": "methodical, obsessive, sees connections others miss but struggles with social interaction",
+      "possible_plots": [
+        "Pattern approaches the coterie with information about a conspiracy, but her obsession with patterns leads her to see connections that may or may not be real.",
+        "She becomes fixated on collecting information about the coterie, following them and documenting their actions in her ever-expanding database.",
+        "Pattern's collection reveals a hidden pattern that threatens the entire city, but she needs the coterie's help to understand and act on it."
+      ]
+    },
+    {
+      "id": "malkavian_composer_seed_01",
+      "name": "Julian 'Harmony' Blackwood, Mad Composer",
+      "summary": "A Malkavian composer haunted by music from the Cobweb, creating works that carry hidden meanings and affect listeners in profound, sometimes dangerous ways.",
+      "role": "court musician and prophet through art",
+      "age_category": "neonate",
+      "temperament": "distracted, half-listening to conversations while the music in his head demands attention, polite but distant",
+      "possible_plots": [
+        "Harmony's latest composition contains a prophecy encoded in the music, and the coterie must decipher it before a disaster occurs.",
+        "He performs at Elysium, and his music triggers unexpected reactions in the audience—some fall into torpor, others frenzy, and a few gain sudden insights.",
+        "Harmony asks the coterie to help him track down the source of a melody he's hearing in the Cobweb, which leads them to a dangerous discovery."
+      ]
+    },
+    {
+      "id": "malkavian_asylum_seed_01",
+      "name": "Sister Mary 'Sanctuary' O'Brien, Asylum Inmate",
+      "summary": "An elder Malkavian who has made a mental institution her haven, finding sanctuary and purpose among the mentally ill while using the asylum as a source of insight and feeding.",
+      "role": "hidden advisor and institutional contact",
+      "age_category": "elder",
+      "temperament": "calm, maternal, sees the asylum as a place of truth where madness is accepted rather than hidden",
+      "possible_plots": [
+        "Sanctuary offers the coterie refuge in the asylum when they're being hunted, but her presence there creates complications with mortal authorities.",
+        "She reveals that several of the asylum's patients are actually ghouls or Kindred who have been driven mad, and asks the coterie to help them.",
+        "Sanctuary's connection to the Cobweb allows her to sense when other Malkavians are in danger, and she sends warnings through the coterie."
+      ]
+    },
+    {
+      "id": "malkavian_network_seed_01",
+      "name": "Alex 'Whisper' Kim, Network Node",
+      "summary": "A neonate with an unusually strong connection to the Cobweb, serving as a communication hub for other Malkavians in the city.",
+      "role": "communication hub and message relay",
+      "age_category": "neonate",
+      "temperament": "overwhelmed, constantly hearing voices from the Network, struggles to filter signal from noise",
+      "possible_plots": [
+        "Whisper receives a message through the Cobweb that warns of an imminent attack, but the message is fragmented and needs the coterie's help to interpret.",
+        "The voices in Whisper's head become too much, and she asks the coterie to help her find a way to dampen the connection without losing it entirely.",
+        "Whisper accidentally broadcasts the coterie's secrets through the Network, and now every Malkavian in the city knows information they shouldn't."
+      ]
+    },
+    {
+      "id": "malkavian_elder_seed_01",
+      "name": "Dr. Douglas Netchurch, Methuselah's Pawn",
+      "summary": "An ancilla Malkavian who serves as a pawn for an ancient Methuselah, conducting experiments and gathering information while maintaining a facade of scientific objectivity.",
+      "role": "researcher and pawn of ancient powers",
+      "age_category": "ancilla",
+      "temperament": "cold, methodical, maintains emotional distance while being deeply connected to the Cobweb and his master's will",
+      "possible_plots": [
+        "Netchurch approaches the coterie with a research proposal that would require them to submit to dangerous experiments, offering valuable information in return.",
+        "He reveals that a Methuselah is manipulating events in the city, and the coterie must decide whether to work with or against these ancient powers.",
+        "Netchurch's experiments begin to affect the Cobweb itself, causing all Malkavians in the city to experience shared visions and derangements."
+      ]
+    },
+    {
+      "id": "malkavian_antitribu_seed_01",
+      "name": "Raven 'Fever' Cross, Sabbat Lunatic",
+      "summary": "A Sabbat 'antitribu' Malkavian whose madness has been amplified by the sect's practices, making her a dangerous weapon of infectious insanity.",
+      "role": "Sabbat weapon and chaos agent",
+      "age_category": "neonate",
+      "temperament": "unpredictable, violent, her madness is contagious and spreads to those around her",
+      "possible_plots": [
+        "Fever infiltrates Camarilla territory and begins spreading her infectious madness, forcing the coterie to track her down before the entire city goes mad.",
+        "She approaches the coterie with an offer to defect from the Sabbat, but her condition makes her a liability that could expose them all.",
+        "Fever's presence in the city triggers a response from Camarilla Malkavians who remember the split at Domazlice and fear what she represents."
+      ]
+    },
+    {
+      "id": "malkavian_sensei_seed_01",
+      "name": "Master 'Zen' Tanaka, Madness Teacher",
+      "summary": "An elder Malkavian who teaches other Kindred (and sometimes mortals) to see reality's true angles, using madness as a form of enlightenment.",
+      "role": "teacher and guide to enlightenment through madness",
+      "age_category": "elder",
+      "temperament": "serene, cryptic, speaks in koans and paradoxes that force listeners to question their assumptions",
+      "possible_plots": [
+        "Zen offers to teach a member of the coterie to see through illusions, but the training involves embracing a form of madness that may be permanent.",
+        "He reveals that the coterie is trapped in an illusion created by a powerful enemy, and only by accepting madness can they break free.",
+        "Zen's teachings attract dangerous attention from those who fear what he represents, and the coterie must protect him or face the consequences."
+      ]
+    },
+    {
+      "id": "malkavian_radio_seed_01",
+      "name": "DJ 'Static' Rodriguez, Talk Radio Host",
+      "summary": "A Malkavian who hosts a late-night talk radio show, broadcasting insights and prophecies to mortals who don't realize they're listening to a vampire.",
+      "role": "broadcaster of truth and prophet to mortals",
+      "age_category": "neonate",
+      "temperament": "charismatic, manic, uses the radio as a way to communicate truths that would be dangerous to speak directly",
+      "possible_plots": [
+        "Static's radio show begins predicting events that come true, attracting dangerous attention from both mortals and Kindred who want to control or silence him.",
+        "He broadcasts information about the coterie's activities, forcing them to confront him or find a way to use his show to their advantage.",
+        "Static receives a message through the Cobweb that he feels compelled to broadcast, but doing so would violate the Masquerade and expose the Kindred."
+      ]
+    }
+  ]
+}
+
+

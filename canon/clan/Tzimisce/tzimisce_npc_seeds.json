@@ -1,0 +1,141 @@
+{
+    "clan": "Tzimisce",
+    "internal_name": "Tzimisce",
+    "book_title": "Revised - Clanbook Tzimisce",
+    "edition": "Revised",
+    "npc_seeds": [
+      {
+        "id": "tzimisce_voivode_01",
+        "name": "Voivode Dimitri Volkov",
+        "summary": "An elder Tzimisce who rules a domain in the Carpathians with absolute authority. He maintains feudal structures and commands revenant families, but he's also isolated and may be losing touch with the modern world.",
+        "role": "territorial lord and feudal ruler",
+        "age_category": "elder",
+        "temperament": "authoritative, territorial, traditional but isolated",
+        "possible_plots": [
+          "Dimitri approaches the coterie with a territorial dispute that threatens his domain, but his traditional methods may be outdated and ineffective against modern threats.",
+          "Dimitri's isolation has made him vulnerable to enemies who understand modern tactics, and the coterie must help him adapt or face destruction.",
+          "Dimitri's revenant families are rebelling against his authority, and the coterie must help him maintain control or face the consequences of his failure."
+        ]
+      },
+      {
+        "id": "tzimisce_metamorphosist_02",
+        "name": "Katarina 'The Sculptor' Petrov",
+        "summary": "An ancilla Tzimisce who pursues transformation through Vicissitude, reshaping her body into works of art and terror. She's a master flesh-shaper who creates beautiful and monstrous forms, but she's also losing her humanity in the process.",
+        "role": "flesh-shaper and transformation seeker",
+        "age_category": "ancilla",
+        "temperament": "artistic, transformative, brilliant but inhuman",
+        "possible_plots": [
+          "Katarina approaches the coterie with an offer to help them with Vicissitude, but her methods are extreme and may lead them down a path of transformation they cannot return from.",
+          "Katarina's transformations have attracted unwanted attention from hunters or other Kindred, and the coterie must help her hide her work or face exposure.",
+          "Katarina's pursuit of transformation has led her to experiment on unwilling subjects, and the coterie must decide whether to stop her or help her complete her work."
+        ]
+      },
+      {
+        "id": "tzimisce_koldun_03",
+        "name": "Ivan 'The Stormcaller' Dragomir",
+        "summary": "An ancilla Tzimisce who practices koldunic sorcery, communing with spirits and wielding elemental magic. He's a master of the Way of Sorrow and the Insults of Krivda, but he's also bound to Kupala and may be losing his soul to the demon.",
+        "role": "sorcerer and spirit-worker",
+        "age_category": "ancilla",
+        "temperament": "spiritual, powerful, connected to the land but corrupted",
+        "possible_plots": [
+          "Ivan approaches the coterie with information about a spiritual threat or elemental disturbance, but his connection to Kupala may be influencing his judgment.",
+          "Ivan's koldunic sorcery has attracted the attention of spirits or other supernatural entities, and the coterie must help him deal with the consequences.",
+          "Ivan's connection to Kupala is growing stronger, and he may be becoming a vessel for the demon's will, forcing the coterie to decide whether to help him or stop him."
+        ]
+      },
+      {
+        "id": "tzimisce_pack_priest_04",
+        "name": "Sister Maria 'The Guide' Santos",
+        "summary": "A neonate Tzimisce who serves as a pack priest for a Sabbat pack, teaching the Paths of Enlightenment and maintaining the sect's spiritual core. She's a dedicated teacher who guides others on the path to transcendence, but she's also fanatical and may be leading her pack into danger.",
+        "role": "spiritual guide and pack leader",
+        "age_category": "neonate",
+        "temperament": "devoted, fanatical, spiritual but dangerous",
+        "possible_plots": [
+          "Maria approaches the coterie with an offer to teach them the Paths of Enlightenment, but her methods are extreme and may lead them down a path they cannot return from.",
+          "Maria's pack is being hunted by the Camarilla or other enemies, and the coterie must help them survive or face the consequences of their failure.",
+          "Maria's fanaticism has led her to make dangerous decisions that threaten her pack or the Masquerade, and the coterie must help her see reason or stop her before it's too late."
+        ]
+      },
+      {
+        "id": "tzimisce_modern_primitive_05",
+        "name": "Jake 'The Canvas' Morrison",
+        "summary": "A neonate Tzimisce who seeks enlightenment through body modification and pain tolerance, embracing the modern primitive movement. He's a skilled flesh-shaper who creates works of art from his own body, but he's also reckless and may be pushing the limits of what is safe.",
+        "role": "body artist and transformation seeker",
+        "age_category": "neonate",
+        "temperament": "experimental, reckless, artistic but dangerous",
+        "possible_plots": [
+          "Jake approaches the coterie with an offer to help them with body modification or transformation, but his methods are experimental and may have unforeseen consequences.",
+          "Jake's experiments have attracted unwanted attention from mortals or other Kindred, and the coterie must help him hide his work or face exposure.",
+          "Jake's pursuit of transformation has led him to experiment on himself in ways that may be irreversible, and the coterie must decide whether to help him or stop him before it's too late."
+        ]
+      },
+      {
+        "id": "tzimisce_revenant_master_06",
+        "name": "Countess Elena 'The Keeper' Basarab",
+        "summary": "An elder Tzimisce who commands revenant families, using her ghoul servants to maintain control over her domain. She's a master of manipulation who uses her revenants as tools and weapons, but she's also cruel and may be pushing her servants to the breaking point.",
+        "role": "master and commander",
+        "age_category": "elder",
+        "temperament": "cruel, manipulative, powerful but vulnerable",
+        "possible_plots": [
+          "Elena approaches the coterie with an offer to help them with revenant services or information, but her help comes with strings attached and may lead them into dangerous situations.",
+          "Elena's revenant families are rebelling against her authority, and the coterie must help her maintain control or face the consequences of her failure.",
+          "Elena's cruelty has created enemies among her revenants or other Kindred, and the coterie must help her deal with the threats or face the consequences of her actions."
+        ]
+      },
+      {
+        "id": "tzimisce_old_clan_07",
+        "name": "Baron Vladimir 'The Purist' Rostov",
+        "summary": "An elder Tzimisce who rejects Vicissitude and koldunic sorcery, fearing the Eldest's awakening. He's a traditionalist who maintains the old ways, but he's also isolated and may be losing power to those who embrace transformation.",
+        "role": "traditionalist and purist",
+        "age_category": "elder",
+        "temperament": "traditional, fearful, isolated but powerful",
+        "possible_plots": [
+          "Vladimir approaches the coterie with warnings about the dangers of Vicissitude and koldunic sorcery, but his fear may be preventing him from seeing the full picture.",
+          "Vladimir's isolation has made him vulnerable to enemies who use modern methods, and the coterie must help him adapt or face destruction.",
+          "Vladimir's fear of the Eldest has led him to take extreme measures to prevent its awakening, and the coterie must decide whether to help him or stop him before he causes more harm."
+        ]
+      },
+      {
+        "id": "tzimisce_exsanguinist_08",
+        "name": "Father Marcus 'The Thirst' Blackwood",
+        "summary": "An ancilla Tzimisce who seeks enlightenment through the consumption of blood, following the Path of Exsanguination. He's a spiritual seeker who believes that blood holds the key to transcendence, but he's also dangerous and may be losing his humanity in the process.",
+        "role": "spiritual seeker and blood cultist",
+        "age_category": "ancilla",
+        "temperament": "spiritual, dangerous, seeking but corrupted",
+        "possible_plots": [
+          "Marcus approaches the coterie with an offer to teach them the Path of Exsanguination, but his methods are extreme and may lead them down a path they cannot return from.",
+          "Marcus's pursuit of enlightenment has led him to commit atrocities in the name of transcendence, and the coterie must decide whether to stop him or help him complete his quest.",
+          "Marcus's blood cult has attracted unwanted attention from hunters or other Kindred, and the coterie must help him hide his work or face exposure."
+        ]
+      },
+      {
+        "id": "tzimisce_neo_feudalist_09",
+        "name": "Lady Anastasia 'The Landlord' Volkov",
+        "summary": "A neonate Tzimisce who maintains traditional domains and feudal structures in the modern world. She's a skilled politician who uses her domain to build power and influence, but she's also struggling to adapt to modern methods and may be losing ground to more adaptable rivals.",
+        "role": "feudal ruler and politician",
+        "age_category": "neonate",
+        "temperament": "traditional, ambitious, struggling but determined",
+        "possible_plots": [
+          "Anastasia approaches the coterie with an offer to help them with domain services or political connections, but her traditional methods may be ineffective against modern threats.",
+          "Anastasia's domain is being threatened by enemies who use modern tactics, and the coterie must help her adapt or face destruction.",
+          "Anastasia's struggle to maintain traditional structures has put her in conflict with more adaptable rivals, and the coterie must help her navigate the political tensions or face the consequences of her failure."
+        ]
+      },
+      {
+        "id": "tzimisce_children_dracon_10",
+        "name": "Brother Alexios 'The Seeker' Constantinos",
+        "summary": "An ancilla Tzimisce who follows the Dracon's teachings, rejecting Kupala's influence and pursuing transformation through other means. He's a spiritual seeker who believes that the Dracon's path is the true way to enlightenment, but he's also isolated and may be losing touch with reality.",
+        "role": "spiritual seeker and follower of the Dracon",
+        "age_category": "ancilla",
+        "temperament": "spiritual, isolated, seeking but disconnected",
+        "possible_plots": [
+          "Alexios approaches the coterie with an offer to teach them the Dracon's path, but his methods are unorthodox and may be viewed as heretical by other Tzimisce.",
+          "Alexios's isolation has made him vulnerable to enemies who use his beliefs against him, and the coterie must help him see the truth or face destruction.",
+          "Alexios's pursuit of the Dracon's path has led him to make dangerous decisions that threaten himself or others, and the coterie must help him see reason or stop him before it's too late."
+        ]
+      }
+    ]
+  }
+
+
+

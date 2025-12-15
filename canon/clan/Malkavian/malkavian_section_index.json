@@ -1,0 +1,837 @@
+{
+  "clan": "Malkavians",
+  "internal_name": "Lunatics",
+  "book_title": "Revised - Clanbook Malkavian",
+  "edition": "Revised",
+  "approximate_source_file": "G:\\VbN\\reference\\Books_md_clean\\Clan Books\\Revised - Clanbook Malkavian.md",
+  "sections": [
+    {
+      "id": "credits",
+      "title": "Credits",
+      "anchor": "## CrEditS",
+      "type": "meta",
+      "notes": "Standard publication credits."
+    },
+    {
+      "id": "contents",
+      "title": "Contents",
+      "anchor": "## COntEntS",
+      "type": "meta",
+      "notes": "Table of contents."
+    },
+    {
+      "id": "framing_fiction_listen",
+      "title": "Framing Fiction – Listen",
+      "anchor": "## Listen.",
+      "type": "fiction",
+      "notes": "Opening framing fiction establishing the narrative voice and the transmission of clan history through the Cobweb."
+    },
+    {
+      "id": "history_birth_of_madness",
+      "title": "The Birth of Madness",
+      "anchor": "## thE Birth  Of madnESS",
+      "type": "history",
+      "notes": "Introduction to the clan's origin and the nature of Malkav's curse."
+    },
+    {
+      "id": "history_malkav",
+      "title": "Malkav",
+      "anchor": "## maLkav",
+      "type": "history",
+      "notes": "The story of Malkav, his relationship to Caine and the Third Generation, and the conflicting accounts of his origin."
+    },
+    {
+      "id": "history_the_curse",
+      "title": "The Curse",
+      "anchor": "## thE CurSE",
+      "type": "history",
+      "notes": "Various accounts of how Malkav was cursed with the Sight and how this curse spread to all his childer."
+    },
+    {
+      "id": "history_madness_old_times",
+      "title": "Madness in the Old Times",
+      "anchor": "## madnESS in thE OLd timES",
+      "type": "history",
+      "notes": "How the mad were treated in ancient times and the clan's early struggles for survival."
+    },
+    {
+      "id": "history_brother_saulot_set",
+      "title": "Brother Saulot and Brother Set: A Parable",
+      "anchor": "## BrOthEr SauLOt and BrOthEr SEt A parable:",
+      "type": "lore",
+      "notes": "A parable about Malkav's relationship with Saulot and Set, exploring different paths to wisdom."
+    },
+    {
+      "id": "history_methuselahs",
+      "title": "The Methuselahs",
+      "anchor": "## thE mEthuSELahS",
+      "type": "history",
+      "notes": "Malkav's childer of the Fourth Generation and the sacred number that governs them."
+    },
+    {
+      "id": "history_plague_bride",
+      "title": "The Plague-Bride",
+      "anchor": "## thE pLaguE-BridE",
+      "type": "lore",
+      "notes": "The story of Malkav's first childe, who began the creed of infection and appears as a willing Typhoid Mary."
+    },
+    {
+      "id": "history_nissiku",
+      "title": "Nissiku, the Clever Prince",
+      "anchor": "## niSSiku, thE CLEvEr prinCE",
+      "type": "lore",
+      "notes": "The story of Nissiku, one of Malkav's first childer, who could reach through reality's skin and is known by many names."
+    },
+    {
+      "id": "history_the_eater",
+      "title": "The Eater",
+      "anchor": "## thE EatEr",
+      "type": "lore",
+      "notes": "The story of a Methuselah who learned to eat names, devouring them entirely and feeding on their power."
+    },
+    {
+      "id": "history_severing_malkav",
+      "title": "The Severing of Malkav",
+      "anchor": "## thE SEvEring Of maLkav",
+      "type": "history",
+      "notes": "The story of how Malkav was torn apart near Petra and how his consciousness fragmented into the Cobweb."
+    },
+    {
+      "id": "history_growth_clan",
+      "title": "The Growth of the Clan",
+      "anchor": "## thE grOwth Of  thE  CLan",
+      "type": "history",
+      "notes": "How the clan expanded after Malkav's severing, with the Methuselahs rising as demigods in their own right."
+    },
+    {
+      "id": "history_old_cities",
+      "title": "The Old Cities",
+      "anchor": "## thE OLd CitiES",
+      "type": "history",
+      "notes": "The clan's presence in ancient Mesopotamia, Greece, and other early civilizations."
+    },
+    {
+      "id": "history_rome",
+      "title": "Rome",
+      "anchor": "## rOmE",
+      "type": "history",
+      "notes": "The clan's experiences in Rome, including their relationship with Prince Camilla and the city's eventual fall."
+    },
+    {
+      "id": "history_carthage",
+      "title": "Carthage",
+      "anchor": "## CarthagE",
+      "type": "history",
+      "notes": "The clan's role in the destruction of Carthage, including Tryphosa's prophecy and the Dionysian's influence."
+    },
+    {
+      "id": "history_death_empire",
+      "title": "Death of an Empire",
+      "anchor": "## dEath Of an EmpirE",
+      "type": "history",
+      "notes": "The fall of the Roman Empire and the clan's relationship with the mad emperors and the chaos of the time."
+    },
+    {
+      "id": "history_long_night",
+      "title": "The Long Night",
+      "anchor": "## thE LOng night",
+      "type": "history",
+      "notes": "The medieval period when vampires ruled openly, and the clan's role as advisors and observers rather than rulers."
+    },
+    {
+      "id": "history_death_saulot",
+      "title": "The Death of Brother Saulot",
+      "anchor": "## thE dEath  Of  BrOthEr  SauLOt",
+      "type": "history",
+      "notes": "The clan's perspective on Saulot's death at the hands of the Tremere and why they didn't join the war against the Usurpers."
+    },
+    {
+      "id": "history_first_crusade",
+      "title": "The First Crusade",
+      "anchor": "## thE firSt CruSadE",
+      "type": "history",
+      "notes": "The fall of Jerusalem in 1099 and how the bloodshed and madness drew Malkavians to the Holy Land."
+    },
+    {
+      "id": "history_plague",
+      "title": "Plague",
+      "anchor": "## pLaguE",
+      "type": "history",
+      "notes": "The Black Death and how it affected both mortals and Kindred, with warnings about future plagues."
+    },
+    {
+      "id": "history_anarchs",
+      "title": "The Anarchs",
+      "anchor": "## thE anarChS",
+      "type": "history",
+      "notes": "The clan's relationship with the Anarch Revolt and their attempts to show the rebels the emptiness of their cause."
+    },
+    {
+      "id": "history_burning",
+      "title": "The Burning",
+      "anchor": "## thE Burning",
+      "type": "history",
+      "notes": "The Inquisition and how the clan suffered during the fires, with the Cobweb saving many through warnings."
+    },
+    {
+      "id": "history_birth_camarilla",
+      "title": "Birth of the Camarilla",
+      "anchor": "## Birth  Of  thE  CamariLLa",
+      "type": "history",
+      "notes": "The formation of the Camarilla and the clan's near-exclusion, saved by their insight and the efforts of Unmada and Vasantasena."
+    },
+    {
+      "id": "history_unmada_vasantasena",
+      "title": "Unmada and Vasantasena",
+      "anchor": "## unmada and vaSantaSEna",
+      "type": "history",
+      "notes": "The two Malkavians from the Orient who brought the clan together and helped form the Camarilla."
+    },
+    {
+      "id": "history_convention_thorns",
+      "title": "The Convention of Thorns",
+      "anchor": "## thE COnvEntiOn Of thOrnS",
+      "type": "history",
+      "notes": "The gathering at Thorns where the anarchs were brought to heel, and Vasantasena's speech condemning the Convention."
+    },
+    {
+      "id": "history_clan_heraldry",
+      "title": "Clan Heraldry",
+      "anchor": "## CLan hEraLdry",
+      "type": "lore",
+      "notes": "The story of how Malkavians created the heraldic symbols for all the clans through the work of Pelinka, an autistic child."
+    },
+    {
+      "id": "history_split",
+      "title": "The Split",
+      "anchor": "## thE SpLit",
+      "type": "history",
+      "notes": "The gathering at Domazlice where six Methuselahs placed mental blocks on Camarilla Malkavians, dampening their infectious madness."
+    },
+    {
+      "id": "history_great_prank",
+      "title": "The Great Prank",
+      "anchor": "## thE grEat prank",
+      "type": "history",
+      "notes": "The feat of replacing Dementation with Dominate clan-wide, and theories about how it was accomplished."
+    },
+    {
+      "id": "history_after_inquisition",
+      "title": "After the Inquisition",
+      "anchor": "## aftEr thE inquiSitiOn",
+      "type": "history",
+      "notes": "The Renaissance and how the clan fared during the age of asylums and institutionalization."
+    },
+    {
+      "id": "history_degeneration_antitribu",
+      "title": "The Degeneration of the 'Antitribu'",
+      "anchor": "## thE dEgEnEratiOn Of thE ' antitriBu '",
+      "type": "history",
+      "notes": "Why Sabbat Malkavians are so psychotic and how the sect's practices have amplified their madness."
+    },
+    {
+      "id": "history_new_world",
+      "title": "The New World",
+      "anchor": "## thE nEw wOrLd",
+      "type": "history",
+      "notes": "The clan's initial experiences in the Americas and their decision to wait for cities rather than follow early colonists."
+    },
+    {
+      "id": "history_mob_rule",
+      "title": "Mob Rule",
+      "anchor": "## mOB ruLE",
+      "type": "history",
+      "notes": "The French Revolution and how the madness and bloodshed drew Malkavians to Paris."
+    },
+    {
+      "id": "history_19th_century",
+      "title": "The 19th Century",
+      "anchor": "## thE 19th CEntury",
+      "type": "history",
+      "notes": "The Industrial Revolution, the growth of cities, and the expansion of asylums."
+    },
+    {
+      "id": "history_age_victoria",
+      "title": "The Age of Victoria",
+      "anchor": "## thE agE Of viCtOria",
+      "type": "history",
+      "notes": "The Victorian era and how the repression of emotion created cracks that Malkavians found fascinating."
+    },
+    {
+      "id": "history_modern_nights",
+      "title": "Modern Nights",
+      "anchor": "## mOdErn nightS",
+      "type": "history",
+      "notes": "The 20th century, including the World Wars, the Depression, and the atomic age."
+    },
+    {
+      "id": "history_reawakening",
+      "title": "Reawakening",
+      "anchor": "## rEawakEning",
+      "type": "history",
+      "notes": "The Reawakening of 1997 when the blocks placed at Domazlice loosened and Dementation returned to Camarilla Malkavians."
+    },
+    {
+      "id": "history_week_nightmares",
+      "title": "The Week of Nightmares",
+      "anchor": "## thE wEEk Of nightmarES",
+      "type": "history",
+      "notes": "Ravnos' awakening and death, and how his fever burned across the Cobweb, affecting all Malkavians."
+    },
+    {
+      "id": "history_gehenna",
+      "title": "Gehenna",
+      "anchor": "## gEhEnna",
+      "type": "lore",
+      "notes": "Warnings about the coming end times and the Antediluvians' awakening."
+    },
+    {
+      "id": "culture_family_malkavian",
+      "title": "The Family Malkavian",
+      "anchor": "## thE famiLy maLkavian",
+      "type": "culture",
+      "notes": "Overview of the clan's structure, or lack thereof, and how they relate to one another."
+    },
+    {
+      "id": "culture_embrace",
+      "title": "The Embrace",
+      "anchor": "## thE EmBraCE",
+      "type": "culture",
+      "notes": "How Malkavians choose childer and what happens during the Embrace."
+    },
+    {
+      "id": "culture_before_after",
+      "title": "Before and After",
+      "anchor": "## BEfOrE and aftEr",
+      "type": "culture",
+      "notes": "How the Embrace changes mortals and what they gain and lose."
+    },
+    {
+      "id": "culture_gnawed",
+      "title": "The Gnawed",
+      "anchor": "## thE gnawEd",
+      "type": "culture",
+      "notes": "Malkavians who have been partially consumed or damaged by the Cobweb or their own madness."
+    },
+    {
+      "id": "culture_gatherings",
+      "title": "Gatherings",
+      "anchor": "## gathEringS",
+      "type": "culture",
+      "notes": "How Malkavians gather, the Call, and what happens at clan meetings."
+    },
+    {
+      "id": "culture_camarilla",
+      "title": "The Camarilla",
+      "anchor": "## thE CamariLLa",
+      "type": "politics",
+      "notes": "The clan's relationship with the Camarilla, their role as advisors and seers, and their barely tolerated status."
+    },
+    {
+      "id": "culture_sabbat",
+      "title": "The Sabbat",
+      "anchor": "## thE SaBBat",
+      "type": "politics",
+      "notes": "The Sabbat 'antitribu' and how their madness has been amplified by sect practices."
+    },
+    {
+      "id": "culture_autarkis",
+      "title": "Autarkis",
+      "anchor": "## autarkiS",
+      "type": "politics",
+      "notes": "Malkavians who stand outside all sects and follow their own visions."
+    },
+    {
+      "id": "culture_cobweb",
+      "title": "The Cobweb",
+      "anchor": "## thE COBwEB",
+      "type": "culture",
+      "notes": "The Madness Network that connects all Malkavians, its nature, and how it functions."
+    },
+    {
+      "id": "culture_practices",
+      "title": "Malkavian Practices",
+      "anchor": "## maLkavian praCtiCES",
+      "type": "culture",
+      "notes": "Common practices and behaviors among the clan."
+    },
+    {
+      "id": "culture_pranking",
+      "title": "Pranking",
+      "anchor": "## pranking",
+      "type": "culture",
+      "notes": "The art of pranking as both communication and revelation."
+    },
+    {
+      "id": "culture_prophecy",
+      "title": "Prophecy",
+      "anchor": "## prOphECy",
+      "type": "culture",
+      "notes": "The clan's role as prophets and seers, and how they deliver their visions."
+    },
+    {
+      "id": "culture_pranks_prestige",
+      "title": "Pranks and Prestige",
+      "anchor": "## prankS and prEStigE",
+      "type": "culture",
+      "notes": "How pranks can build or destroy reputation within the clan."
+    },
+    {
+      "id": "culture_antitribu_perspective",
+      "title": "The 'Antitribu' Perspective",
+      "anchor": "## thE ' antitriBu ' pErSpECtivE",
+      "type": "politics",
+      "notes": "How Sabbat Malkavians view themselves and their Camarilla cousins."
+    },
+    {
+      "id": "culture_reality_busting",
+      "title": "Reality Busting",
+      "anchor": "## rEaLity  BuSting",
+      "type": "culture",
+      "notes": "How Malkavians break through illusions and reveal hidden truths."
+    },
+    {
+      "id": "culture_elders_children",
+      "title": "Elders and Children",
+      "anchor": "## ELdErS  and  ChiLdEr",
+      "type": "culture",
+      "notes": "The relationship between elder and neonate Malkavians."
+    },
+    {
+      "id": "culture_pockets_madness",
+      "title": "Pockets of Madness",
+      "anchor": "## pOCkEtS Of madnESS",
+      "type": "culture",
+      "notes": "Places where madness pools and Malkavians gather, such as asylums and institutions."
+    },
+    {
+      "id": "culture_traditions",
+      "title": "Clan Traditions",
+      "anchor": "## CLan traditiOnS",
+      "type": "culture",
+      "notes": "Formal and informal traditions within the clan."
+    },
+    {
+      "id": "culture_real_clan_tradition",
+      "title": "The Real Clan Tradition",
+      "anchor": "## thE rEaL CLan traditiOn",
+      "type": "culture",
+      "notes": "The true tradition that unites all Malkavians despite their apparent chaos."
+    },
+    {
+      "id": "culture_salvation",
+      "title": "Salvation",
+      "anchor": "## SaLvatiOn",
+      "type": "philosophy",
+      "notes": "The clan's views on redemption, Golconda, and spiritual matters."
+    },
+    {
+      "id": "culture_world_outside",
+      "title": "The World Outside",
+      "anchor": "## thE  wOrLd  OutSidE",
+      "type": "culture",
+      "notes": "How Malkavians interact with mortals and the mortal world."
+    },
+    {
+      "id": "relations_assamites",
+      "title": "Assamites",
+      "anchor": "## aSSamitES",
+      "type": "relations",
+      "notes": "The clan's relationship with the Assamites."
+    },
+    {
+      "id": "relations_brujah",
+      "title": "Brujah",
+      "anchor": "## Brujah",
+      "type": "relations",
+      "notes": "The clan's relationship with the Brujah."
+    },
+    {
+      "id": "relations_caitiff",
+      "title": "Caitiff",
+      "anchor": "## Caitiff",
+      "type": "relations",
+      "notes": "The clan's relationship with Caitiff and Malkavian-sired Caitiff."
+    },
+    {
+      "id": "relations_followers_set",
+      "title": "Followers of Set",
+      "anchor": "## fOLLOwErS Of SEt",
+      "type": "relations",
+      "notes": "The clan's relationship with the Followers of Set."
+    },
+    {
+      "id": "relations_gangrel",
+      "title": "Gangrel",
+      "anchor": "## gangrEL",
+      "type": "relations",
+      "notes": "The clan's relationship with the Gangrel."
+    },
+    {
+      "id": "relations_giovanni",
+      "title": "Giovanni",
+      "anchor": "## giOvanni",
+      "type": "relations",
+      "notes": "The clan's relationship with the Giovanni."
+    },
+    {
+      "id": "relations_lasombra",
+      "title": "Lasombra",
+      "anchor": "## LaSOmBra",
+      "type": "relations",
+      "notes": "The clan's relationship with the Lasombra."
+    },
+    {
+      "id": "relations_nosferatu",
+      "title": "Nosferatu",
+      "anchor": "## nOSfEratu",
+      "type": "relations",
+      "notes": "The clan's relationship with the Nosferatu."
+    },
+    {
+      "id": "relations_ravnos",
+      "title": "Ravnos",
+      "anchor": "## ravnOS",
+      "type": "relations",
+      "notes": "The clan's relationship with the Ravnos."
+    },
+    {
+      "id": "relations_toreador",
+      "title": "Toreador",
+      "anchor": "## tOrEadOr",
+      "type": "relations",
+      "notes": "The clan's relationship with the Toreador."
+    },
+    {
+      "id": "relations_tremere",
+      "title": "Tremere",
+      "anchor": "## trEmErE",
+      "type": "relations",
+      "notes": "The clan's relationship with the Tremere."
+    },
+    {
+      "id": "relations_tzimisce",
+      "title": "Tzimisce",
+      "anchor": "## tzimiSCE",
+      "type": "relations",
+      "notes": "The clan's relationship with the Tzimisce."
+    },
+    {
+      "id": "relations_ventrue",
+      "title": "Ventrue",
+      "anchor": "## vEntruE",
+      "type": "relations",
+      "notes": "The clan's relationship with the Ventrue."
+    },
+    {
+      "id": "relations_lupines",
+      "title": "Lupines",
+      "anchor": "## LupinES",
+      "type": "relations",
+      "notes": "The clan's relationship with werewolves."
+    },
+    {
+      "id": "relations_mages",
+      "title": "Mages",
+      "anchor": "## magES",
+      "type": "relations",
+      "notes": "The clan's relationship with mages."
+    },
+    {
+      "id": "relations_ghosts",
+      "title": "Ghosts",
+      "anchor": "## ghOStS",
+      "type": "relations",
+      "notes": "The clan's relationship with wraiths and the dead."
+    },
+    {
+      "id": "relations_human_element",
+      "title": "The Human Element",
+      "anchor": "## thE  human  ELEmEnt",
+      "type": "relations",
+      "notes": "The clan's relationship with mortals and humanity."
+    },
+    {
+      "id": "where_malkavians_are",
+      "title": "Where the Malkavians Are",
+      "anchor": "## whErE thE maLkavianS arE",
+      "type": "culture",
+      "notes": "Geographic distribution and common havens of the clan."
+    },
+    {
+      "id": "mechanics_anatomy_madness",
+      "title": "The Anatomy of Madness",
+      "anchor": "## thE  anatOmy  Of madnESS",
+      "type": "mechanics",
+      "notes": "Introduction to derangements and how they work for Malkavians."
+    },
+    {
+      "id": "mechanics_real_thing",
+      "title": "The Real Thing",
+      "anchor": "## thE rEaL thing",
+      "type": "mechanics",
+      "notes": "Advice on playing derangements seriously and realistically."
+    },
+    {
+      "id": "mechanics_roleplaying_lunatic",
+      "title": "Roleplaying a Lunatic",
+      "anchor": "## rOLEpLaying a LunatiC",
+      "type": "mechanics",
+      "notes": "Guidelines for roleplaying Malkavian characters and their derangements."
+    },
+    {
+      "id": "mechanics_derangements",
+      "title": "Derangements",
+      "anchor": "## dErangEmEntS",
+      "type": "mechanics",
+      "notes": "General information about derangements and how they affect Malkavians."
+    },
+    {
+      "id": "mechanics_new_derangements",
+      "title": "New Derangements",
+      "anchor": "## nEw dErangEmEntS",
+      "type": "mechanics",
+      "notes": "Clan-specific derangements unique to Malkavians."
+    },
+    {
+      "id": "mechanics_desensitization",
+      "title": "Desensitization",
+      "anchor": "## dESEnSitizatiOn",
+      "type": "mechanics",
+      "notes": "A derangement that makes the vampire an emotional amputee."
+    },
+    {
+      "id": "mechanics_dissociative_blood_spending",
+      "title": "Dissociative Blood-Spending",
+      "anchor": "## diSaSSOCiativE BLOOd-SpEnding",
+      "type": "mechanics",
+      "notes": "A derangement that causes unconscious spending of vitae."
+    },
+    {
+      "id": "mechanics_masochism",
+      "title": "Masochism",
+      "anchor": "## maSOChiSm",
+      "type": "mechanics",
+      "notes": "A derangement that associates pain with pleasure."
+    },
+    {
+      "id": "mechanics_memory_lapses",
+      "title": "Memory Lapses",
+      "anchor": "## mEmOry LapSES",
+      "type": "mechanics",
+      "notes": "A derangement that causes random memory loss."
+    },
+    {
+      "id": "mechanics_power_object_fixation",
+      "title": "Power-Object Fixation",
+      "anchor": "## pOwEr-OBjECt fixatiOn",
+      "type": "mechanics",
+      "notes": "A derangement that causes obsession with a specific object."
+    },
+    {
+      "id": "mechanics_regression",
+      "title": "Regression",
+      "anchor": "## rEgrESSiOn",
+      "type": "mechanics",
+      "notes": "A derangement that causes reversion to childlike state under stress."
+    },
+    {
+      "id": "mechanics_synesthesia",
+      "title": "Synesthesia",
+      "anchor": "## SynESthESia",
+      "type": "mechanics",
+      "notes": "A derangement that scrambles sensory input."
+    },
+    {
+      "id": "mechanics_caitiff_questions",
+      "title": "The Caitiff Questions",
+      "anchor": "## thE Caitiff quEStiOnS",
+      "type": "mechanics",
+      "notes": "FAQ about Malkavian-sired Caitiff and their relationship to the clan."
+    },
+    {
+      "id": "mechanics_madness_network",
+      "title": "The Madness Network",
+      "anchor": "## thE  madnESS nEtwOrk",
+      "type": "mechanics",
+      "notes": "Detailed explanation of the Cobweb and how it functions."
+    },
+    {
+      "id": "mechanics_particulars_insight",
+      "title": "The Particulars of Insight",
+      "anchor": "## thE partiCuLarS Of inSight",
+      "type": "mechanics",
+      "notes": "Alternative to the Network using the Insight Background from Time of Thin Blood."
+    },
+    {
+      "id": "mechanics_new_talent",
+      "title": "New Talent",
+      "anchor": "## nEw taLEnt",
+      "type": "mechanics",
+      "notes": "Malkavian Time—the Background/Talent that represents connection to the Cobweb."
+    },
+    {
+      "id": "mechanics_disciplines",
+      "title": "Disciplines",
+      "anchor": "## diSCipLinES",
+      "type": "mechanics",
+      "notes": "Introduction to Malkavian Disciplines and elder powers."
+    },
+    {
+      "id": "mechanics_merits_flaws",
+      "title": "Merits and Flaws",
+      "anchor": "## mEritS and fLawS",
+      "type": "mechanics",
+      "notes": "Clan-specific Merits and Flaws for Malkavians."
+    },
+    {
+      "id": "character_creation_collector",
+      "title": "Collector",
+      "anchor": "## COLLECtOr",
+      "type": "character_creation",
+      "notes": "Sample character archetype: a Malkavian obsessed with collecting objects to make sense of the world."
+    },
+    {
+      "id": "character_creation_composer",
+      "title": "Composer",
+      "anchor": "## COmpOSEr",
+      "type": "character_creation",
+      "notes": "Sample character archetype: a Malkavian composer haunted by music from the Cobweb."
+    },
+    {
+      "id": "character_creation_emt",
+      "title": "EMT",
+      "anchor": "## Emt",
+      "type": "character_creation",
+      "notes": "Sample character archetype: a Malkavian emergency medical technician."
+    },
+    {
+      "id": "character_creation_methuselahs_pawn",
+      "title": "Methuselah's Pawn",
+      "anchor": "## mEthuSELah ' S  pawn",
+      "type": "character_creation",
+      "notes": "Sample character archetype: a Malkavian who serves an ancient Methuselah."
+    },
+    {
+      "id": "character_creation_mortifier_flesh",
+      "title": "Mortifier of the Flesh",
+      "anchor": "## mOrtifiEr Of thE fLESh",
+      "type": "character_creation",
+      "notes": "Sample character archetype: a Malkavian who seeks enlightenment through pain."
+    },
+    {
+      "id": "character_creation_occult_savant",
+      "title": "Occult Savant",
+      "anchor": "## OCCuLt Savant",
+      "type": "character_creation",
+      "notes": "Sample character archetype: a Malkavian who studies the boundaries of reality."
+    },
+    {
+      "id": "character_creation_sensei",
+      "title": "Sensei",
+      "anchor": "## SEnSEi",
+      "type": "character_creation",
+      "notes": "Sample character archetype: a Malkavian who teaches through madness."
+    },
+    {
+      "id": "character_creation_talk_radio_host",
+      "title": "Talk Radio Host",
+      "anchor": "## taLk radiO hOSt",
+      "type": "character_creation",
+      "notes": "Sample character archetype: a Malkavian who broadcasts insights to mortals."
+    },
+    {
+      "id": "character_creation_third_shift_prison_guard",
+      "title": "Third-Shift Prison Guard",
+      "anchor": "## third-Shift priSOn guard",
+      "type": "character_creation",
+      "notes": "Sample character archetype: a Malkavian who works in a prison."
+    },
+    {
+      "id": "sample_brood_moirai",
+      "title": "Sample Brood: The Moirai",
+      "anchor": "## SampLE BrOOd: thE mOirai",
+      "type": "character_creation",
+      "notes": "A sample brood of Malkavians who work together as a unit."
+    },
+    {
+      "id": "sample_brood_history",
+      "title": "History",
+      "anchor": "## hiStOry",
+      "type": "character_creation",
+      "notes": "The history of the Moirai brood."
+    },
+    {
+      "id": "sample_brood_haven",
+      "title": "Haven: The Hyde",
+      "anchor": "## havEn: thE hydE",
+      "type": "character_creation",
+      "notes": "The Moirai's shared haven."
+    },
+    {
+      "id": "sample_brood_influence",
+      "title": "Influence",
+      "anchor": "## infLuEnCE",
+      "type": "character_creation",
+      "notes": "The Moirai's influence and resources."
+    },
+    {
+      "id": "sample_brood_vampires",
+      "title": "The Vampires",
+      "anchor": "## thE vampirES",
+      "type": "character_creation",
+      "notes": "The individual members of the Moirai brood."
+    },
+    {
+      "id": "sample_brood_shared_visions",
+      "title": "Shared Visions",
+      "anchor": "## SharEd viSiOnS",
+      "type": "character_creation",
+      "notes": "How the Moirai share visions through the Cobweb."
+    },
+    {
+      "id": "sample_brood_using_moirai",
+      "title": "Using the Moirai",
+      "anchor": "## uSing thE mOirai",
+      "type": "character_creation",
+      "notes": "Advice for Storytellers on using the Moirai in chronicles."
+    },
+    {
+      "id": "sample_brood_power_players",
+      "title": "Power Players",
+      "anchor": "## pOwEr pLayErS",
+      "type": "character_creation",
+      "notes": "Important NPCs connected to the Moirai."
+    },
+    {
+      "id": "sample_brood_dawn_nakada",
+      "title": "Dawn Nakada, Archon",
+      "anchor": "## dawn nakada, arChOn",
+      "type": "character_creation",
+      "notes": "An Archon who works with the Moirai."
+    },
+    {
+      "id": "sample_brood_alessio_rinaldi",
+      "title": "Alessio Rinaldi, the Peacock Prince",
+      "anchor": "## aLESSiO rinaLdi, thE pEaCOCk prinCE",
+      "type": "character_creation",
+      "notes": "A Toreador Prince who employs the Moirai."
+    },
+    {
+      "id": "sample_brood_dr_douglas_netchurch",
+      "title": "Dr. Douglas Netchurch",
+      "anchor": "## dr. dOugLaS nEtChurCh",
+      "type": "character_creation",
+      "notes": "A Malkavian researcher who serves a Methuselah."
+    },
+    {
+      "id": "sample_brood_ankou",
+      "title": "The Ankou",
+      "anchor": "## thE ankOu",
+      "type": "character_creation",
+      "notes": "A mysterious figure connected to the Moirai."
+    }
+  ]
+}
+
+

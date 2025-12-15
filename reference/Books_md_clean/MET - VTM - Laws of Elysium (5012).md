@@ -1,5 +1,3 @@
---- book_title: "MET - VTM - Laws of Elysium (5012)" clan: "" edition: "" source_type: "clanbook" extraction_pipeline: "docling_v1 + markdown_cleanup_v1" ---
-
 ## Mind's Eye
 
 RULES FOR PLAYING ELDERS
@@ -22,7 +20,7 @@ BECAUSE I F   YOU'RE NOT  READY, SOMEONE ELSE  W I L L  BE.
 
 ## . . . MAKE FOR ONE HELL OF A CHARACTER
 
-LAWS OF ELYSIUM GIVES YOU EVERYTHING YOU NEED TO PLAY A N ELDER  CHARACTER  IN MIND'S EYE  THEATRE. FROM  TIPS  ON ROLEPLAYING TO N E W  POWERS BELONGING ONLY TO THE ANCIENTS TO HELP FOR STORYTELLERS W H O   W A N T   TO  INTEGRATE  OLD AND POWERFUL CHARACTERS INTO THEIR GAMES, UWSOP ELYSIUM HAS EVERYTHING YOU  NEED  TO  MAKE  YOUR  CHRONICLE... ONE FOR  T H E   AGES.
+LAWS OF ELYSIUM GIVES YOU EVERYTHING YOU NEED TO PLAY A N ELDER  CHARACTER  IN MIND'S EYE  THEATRE. FROM  TIPS  ON ROLEPLAYING TO N E W  POWERS BELONGING ONLY TO THE ANCIENTS TO HELP FOR STORYTELLERS W H O   W A N T   TO  INTEGRATE  OLD AND POWERFUL CHARACTERS INTO THEIR GAMES, UWSOP ELYSIUM HAS EVERYTHING YOU  NEED  TO  MAKE  YOUR  CHRONICLE...ONE FOR  T H E   AGES.
 
 NOT RECOMMENDED FOR MERE CHILDREN OF THE NIGHT.
 
@@ -94,7 +92,7 @@ Mike Schatz  and Stephe Herman for  rules consultation, Issac  Aden, Peter Bossi
 
 I
 
-0 1998  White Wolf Publishing, Inc. All rights reserved. Expressly  forbidden,  except  for the purposes of reviews, and for blank character sheets, which may be reproduced for personal use only. White Wolf, Vampire the Masquerade,  Vampire the Reproduction  without  the written  permission  of the  publisher is
+0 1998  White Wolf Publishing, Inc. All rights reserved. expressly  forbidden,  except  for the purposes of reviews, and for blank character sheets, which may be reproduced for personal use only. White Wolf, Vampire the Masquerade,  Vampire the Reproduction  without  the written  permission  of the  publisher is
 
 <!-- image -->
 
@@ -104,7 +102,7 @@ The mention of or reference to any company or product in these pages is not a ch
 
 This  book  uses the  supernatural for  settings,  characters  and  themes.  All  mystical  and supernatural  elements  are  fiction and intended for entertainment purposes only.  Reader discretion  is advised.
 
-Check out White Wolf online at http://www. white-wolf. com;  alt. games. whitewolf and rec. games. frp. storyteller PRINTED IN USA.
+Check out White Wolf online at http://www.white-wolf.com;  alt.games.whitewolf and rec.games.frp.storyteller PRINTED IN USA.
 
 Sean Carter(order #19521)
 
@@ -112,7 +110,7 @@ I
 
 ## Laws of Elystum
 
-I
+i
 
 A
 
@@ -141,7 +139,7 @@ Sean Carter (order #19521)
 
 A
 
-I
+i
 
 A
 
@@ -149,9 +147,9 @@ d
 
 A
 
-I
+i
 
-I
+i
 
 J
 
@@ -165,7 +163,7 @@ u
 
 I have been in Elysium for two hours, and no fewer than four illmannered  Toreador  brats  have  introduced  themselves  to  me -without benefit of formal introduction. Each came up, smiled his or her most puppetlike smile, and then announced who he or she was -as if I knew or cared. Then each in turn got miffed when I refused to reciprocate or (more importantly) preen and wiggle to be introduced to an artist of  such devastating  beauty and importance.
 
-They fail to understand that I have no interest in who they are, what they do, or what favors they want from me in return for the  grace of their  presence. When  you have watched over Rembrandt's shoulder as  he  painted  'The Night Watch,' the childish  scribblings these moderns try to perpetrate as art upon an unsuspecting populace.. . let me simply say that they  leave something  to  be  desired.  Such  is the  curse of America -there's not a city  on  this continent older than  I am,  and these  home-grown  Kindred  have  no sense  of  style  or  of  history. They've seen a century and think that makes them 'elders.'  Any one of them who's outlived his mortal family  feels  entitled to whine about the agony of his endless existence.
+They fail to understand that I have no interest in who they are, what they do, or what favors they want from me in return for the  grace of their  presence. When  you have watched over Rembrandt's shoulder as  he  painted  'The Night Watch,' the childish  scribblings these moderns try to perpetrate as art upon an unsuspecting populace.. .let me simply say that they  leave something  to  be  desired.  Such  is the  curse of America -there's not a city  on  this continent older than  I am,  and these  home-grown  Kindred  have  no sense  of  style  or  of  history. They've seen a century and think that makes them 'elders.'  Any one of them who's outlived his mortal family  feels  entitled to whine about the agony of his endless existence.
 
 u
 
@@ -203,7 +201,7 @@ I
 
 ## Elgsium nwso
 
-I've buried empires in my day. These children are pathetic.
+I've buried empires in my day.These children are pathetic.
 
 I turn and wander through the museum. The collection is fairly impressive -the Pre-Raphaelite collection is displayed well, if  a bit unimaginatively, and the more modern pieces are banished to side galleries. I must grant the Americans that. They may not have any class of their own, but they know enough to buy it when they can.
 
@@ -227,7 +225,7 @@ The  prince leans  forward and  scrunches  up  his  face  in  that  way that see
 
 'Of course you do, Your Majesty. Your sire must have told you stories  about learning the odd bit of statecraft from my humble self, in addition to his sire. Your grandsire and I spent several years together at MontsCgur, watching the Cathar experiment play itself out.' He's not listening. I smile. He, and one by one his court after him, have realized exactly what stands in front of them.
 
-'Of course,'' he finally  stammers  after a  few  seconds of silence.  The woman, who was swifter on the uptake than the others, turns and hurries  out of  the room, her footfalls clattering  in  the emptiness. 'I.. . we welcome you to our domain, trust that you will abide by the Traditions, and hope to  have your company at  future Elysiums. Until then.. . .' He lets the sentence  trail off. I nod, and smile, and bow from the neck as I turn and walk out.
+'Of course,'' he finally  stammers  after a  few  seconds of silence.  The woman, who was swifter on the uptake than the others, turns and hurries  out of  the room, her footfalls clattering  in  the emptiness. 'I.. .we welcome you to our domain, trust that you will abide by the Traditions, and hope to  have your company at  future Elysiums. Until then.. . .' He lets the sentence  trail off. I nod, and smile, and bow from the neck as I turn and walk out.
 
 It's simple, really. My words were inconsequential -a reference to my  age  and history, and His Majesty's place  (inconsequential) relative to  all  that.  What  I  really  told  him  was, 'I  can  take  this  city  away from you any time I  wish, and both you  and I  know it. I have no intention  of doing  so,  mind  youi f  I  wanted a  city,  it  wouldn't be this huddled  collection of  pollution-stained  towers on the  shores of  a stinking and frozen lake. This is merely a visit, a brief stop as I head westward toward a city more worthy of my effort.'
 
@@ -357,7 +355,7 @@ Introuuetion
 
 ## #6=BeMindful  of  Others
 
-Remember, not everyone you see,  or who sees you, will be playing the  game. A game can  be unnerving,  even  frightening, to  passersby. Be considerate of nonplayers in your vicinity, and make sure that if you are in a public area, your gameplay actions are not going to alarm anyone.  Stay  alert  to  your surroundings,  and  be ready to  drop  character I  f  nonplayersstart  to  take  notice.  Trying  to  explain  to  the  local  security that  you're  not really  hunting  an unfortunate  mortal  as part  o f   a midnight salon is an exercise in futility. In fact, if you can warn your local police force and merchants about what you're  doing before you start playing, they may be a bit more sympathetic to your presence.
+Remember, not everyone you see,  or who sees you, will be playing the  game. A game can  be unnerving,  even  frightening, to  passersby. Be considerate of nonplayers in your vicinity, and make sure that if you are in a public area, your gameplay actions are not going to alarm anyone.  Stay  alert  to  your surroundings,  and  be ready to  drop  character i f  nonplayersstart  to  take  notice.  Trying  to  explain  to  the  local  security that  you're  not really  hunting  an unfortunate  mortal  as part  o f   a midnight salon is an exercise in futility. In fact, if you can warn your local police force and merchants about what you're  doing before you start playing, they may be a bit more sympathetic to your presence.
 
 ## #7-The  RulesAre FIexible
 
@@ -423,7 +421,7 @@ Step Five:  Spark of  Life -Narrative descriptions and Extra Traits at Storytell
 
 There's a lot to consider when playing an elder, not the least of which is what makes your character something more than a walking, blood-drinking  relic. Don't  think just yet about all the historic events she's  witnessed. Think about who she was before she was Embraced, how long she's been a vampire, and how unlife has changed her over the years. Find something that you, the player, can identify with in your character. What's so exciting about her that you would want to be her for the evening, much less a thousand years?
 
-Remember  that  many  of your character's  attitudes  may  have  crystallized when she  was Embraced.  No  doubt  she has changed  little  over  the  years,  and she'll  be  glad  to  tell  you that  such  adherence  to  her  beliefs  has  served  her  well over the centuries. Th I  n k about when your character was Embraced, how she felt about certain ideas, and how time has battered at those ideals.
+Remember  that  many  of your character's  attitudes  may  have  crystallized when she  was Embraced.  No  doubt  she has changed  little  over  the  years,  and she'll  be  glad  to  tell  you that  such  adherence  to  her  beliefs  has  served  her  well over the centuries. Th i n k about when your character was Embraced, how she felt about certain ideas, and how time has battered at those ideals.
 
 Lastly, think a  little about what she was  before  her change and afterward. Let questions like these fuel the creative process and spark something  new and different  for you. Was  she apeasant  or  a  noble?  How educated was  she?  Was the Embrace an unwelcome change, or did it
 
@@ -831,7 +829,7 @@ Your childe's  loyalty  goes  beyond the  Blood Bond, borne of genuine admiratio
 
 ## Paramour (3-5 Trait Merit)
 
-You  have  had  a  long-term  relationship (75-year minimum)  with another Kindred. While you may have had disagreements over the years, you are  generally  loyal  to  each  other.  You b o t h know agreat  deal  about  each other,  and  keep  few  secrets  from  one  another.  You have  come  to  each  other's aid  several  times,  and  the  thought of losing  h I  d e r   is  something  you would rather  not  consider.  The  cost  of this  Merit  determines your lover's  power  and position in vampire society (three for an ancilla,  four for an elder of equal stature,  and five for a more powerful elder).
+You  have  had  a  long-term  relationship (75-year minimum)  with another Kindred. While you may have had disagreements over the years, you are  generally  loyal  to  each  other.  You b o t h know agreat  deal  about  each other,  and  keep  few  secrets  from  one  another.  You have  come  to  each  other's aid  several  times,  and  the  thought of losing  h i d e r   is  something  you would rather  not  consider.  The  cost  of this  Merit  determines your lover's  power  and position in vampire society (three for an ancilla,  four for an elder of equal stature,  and five for a more powerful elder).
 
 ## Poverty ( 1 Trait Flaw)
 
@@ -1093,7 +1091,7 @@ SeanCarter(order#19521)
 
 Lawso
 
-Llysium even  those  who  receive  favorable  attention  are  never  wholly comfortable  in the  presence  of  the elder  until much  time  and experience has shown them otherwise. It was, after all, the elders and their loathsome deeds that started the Anarch Revolt. Sabbat elders are viewed with trepidation and awe by their younger brethren. No one wants an elder's eye turned on her, and
+Llysium even  those  who  receive  favorable  attention  are  never  wholly comfortable  in the  presence  of  the elder  until much  time  and experience has shown them otherwise. It was, after all, the elders and their loathsome deeds that started the Anarch Revolt. Sabbat elders are viewed with trepidation and awe by their younger brethren.No one wants an elder's eye turned on her,and
 
 ## Lasombra
 
@@ -1101,7 +1099,7 @@ Admission to the prestigious ranks of Les Amies Noir is considered the hallmark 
 
 ## Tzimisce
 
-Many Tzimisce of advanced age no  longer look remotely human, having practiced Vicissitude on themselves to reflect their increasingly  alien  state  of  mind.  Scorning  humans  as  juicebags  and annoyances, they see no reason to look like them either. They often lord over what land they still own as their own, dreaming of days in the Carpathians and mixing old-fashioned ideals of manners, king. Ship  and  custom  with utterly  inhuman  desires  and  whims.  The cruelty o f  elder Tzimisce is legendary among the youth, who quickly learn to keep a civil tongue in their heads before it is removed for them. Many are highly superstitious beyond their clan weakness of sleeping in native soil.
+Many Tzimisce of advanced age no  longer look remotely human, having practiced Vicissitude on themselves to reflect their increasingly  alien  state  of  mind.  Scorning  humans  as  juicebags  and annoyances, they see no reason to look like them either. They often lord over what land they still own as their own, dreaming of days in the Carpathians and mixing old-fashioned ideals of manners, king. ship  and  custom  with utterly  inhuman  desires  and  whims.  The cruelty o f  elder Tzimisce is legendary among the youth, who quickly learn to keep a civil tongue in their heads before it is removed for them. Many are highly superstitious beyond their clan weakness of sleeping in native soil.
 
 ## Caitiff
 
@@ -1143,7 +1141,7 @@ Advantage: Gargoyles  of the  Dark Ages  gain an  additional  Health Level, just
 
 Disadvantage: Gargoyles in the Dark Ages suffer from the same hindrances as their successors.
 
-Note:  The Discipline of  Viscerutika actually  consists of  several powers  that  were  bestowed  upon  Gargoyles  through  the  use  of Thaumaturgical rituals; by the modern age, the typical Gargoyle has internalized  those powers. In  the  Dark  Ages,  the  Discipline  ofViscerutika is not available to Gargoyles, but the individual powers of the Discipline may be studied as  Thaumaturgy rituals of the  same  difficulty (i. e. A  Basic  Viscerutika  power can  be learned  as  a Basic  ritual).  These  rituals, which only function on a Gargoyle, typically require the expenditure of a Mental Trait by the caster and last for the duration of  the session.
+Note:  The Discipline of  Viscerutika actually  consists of  several powers  that  were  bestowed  upon  Gargoyles  through  the  use  of Thaumaturgical rituals; by the modern age, the typical Gargoyle has internalized  those powers. In  the  Dark  Ages,  the  Discipline  ofViscerutika is not available to Gargoyles, but the individual powers of the Discipline may be studied as  Thaumaturgy rituals of the  same  difficulty (i.e. a  Basic  Viscerutika  power can  be learned  as  a Basic  ritual).  These  rituals, which only function on a Gargoyle, typically require the expenditure of a Mental Trait by the caster and last for the duration of  the session.
 
 Dark Ages Gargoyles gain the ability to fly instead of  studying Visceratika; they spend experience points as if buying the Viscerutika Discipline, but each level purchased allows the Gargoyle to fly at a speed of 5 mph. Thus, a Gargoyle with four levels of Flight can  fly at a speed of  20 mph. Flight should be represented with a special card or hand signal, prearranged with a Narrator or Storyteller.
 
@@ -1285,7 +1283,7 @@ Failing to show hospitality to other Sabbat.
 
 Failing to observe an lgnoblis Ritus of your pack.
 
-Failing to observe an Auctoritus R I  m   o f   the Sabbat.
+Failing to observe an Auctoritus R i m   o f   the Sabbat.
 
 Acting against your leader; failing to protect fellow Sabbat.
 
@@ -1317,7 +1315,7 @@ SeanCarter(order #19521)
 
 ## Laws of Elysium
 
-Betraying your sect, clan, etc. To the enemy.
+Betraying your sect, clan, etc. to the enemy.
 
 Bringing about the unlawful destruction of a Kindred in the same sect, clan, etc.
 
@@ -1502,7 +1500,7 @@ Not wallowing in absolute luxury.
 
 Allowing someone ugly to survive.
 
-Allowing an infector of impurity (i. e., priest, nun, etc.) to live without good reason.
+Allowing an infector of impurity (i.e., priest, nun, etc.) to live without good reason.
 
 Rejecting wealth unnecessarily.
 
@@ -1588,7 +1586,7 @@ SeanCarter(order#19521)
 
 level Disciplines. As with any Discipline  the lower  levels must be learned  before  moving  on  to  the  more  advanced  powers;  before learning Soul  Scan,  for instance,  a  character must possess Clairvoyance, Psychic Projection and all the lower-level Auspex powers.
 
-Master-level powers cost 12  experience  points per clan  Discipline and 13  points per out-of-clan.  Characters that possess these frightening  powers  are uncommon  at best.  Storytellers  should feel free to disallow  powers that are too  easily  abused  or that unbalance the  game. In addition to the Master-level powers, the following Disciplines -Melpominee, Mytherceria, Necromancy, Obeah, Quietus,  Spiritus and Thanatosis -have been given an additional Basic power for game balance.  These powers are to be learned in order with those Basic powers listed in Laws of the Night (e. g., the Quietus power Weakness would be learned after Silence of Death and before Poison Blade). The Thaumaturgy Paths and Rituals listed in this supplement are available to characters o f   any generation.
+Master-level powers cost 12  experience  points per clan  Discipline and 13  points per out-of-clan.  Characters that possess these frightening  powers  are uncommon  at best.  Storytellers  should feel free to disallow  powers that are too  easily  abused  or that unbalance the  game. In addition to the Master-level powers, the following Disciplines -Melpominee, Mytherceria, Necromancy, Obeah, Quietus,  Spiritus and Thanatosis -have been given an additional Basic power for game balance.  These powers are to be learned in order with those Basic powers listed in Laws of the Night (e.g., the Quietus power Weakness would be learned after Silence of Death and before Poison Blade). The Thaumaturgy Paths and Rituals listed in this supplement are available to characters o f   any generation.
 
 ## Animalism
 
@@ -1622,7 +1620,7 @@ Sean Carter (order #19521)
 
 ## Clairvoyance
 
-You can see  and  hear  events  without the  need  for  Psychic  Projection. To use this Discipline,  you must win a Static  Mental Challenge  against a variable difficulty  (see  chart). The  difficulty  of the challenge is based on your familiarity with the place you seek to view (e. g., Clairvoyantly viewing  your own  haven  would  be a  Static  Challenge  against  a  difficulty of four Traits, while viewing your sire's castle in Transylvania that you have only seen in a painting is a nearly impossible task). You may also use all other Auspex Disciplines  while using Clairoloyunce.
+You can see  and  hear  events  without the  need  for  Psychic  Projection. To use this Discipline,  you must win a Static  Mental Challenge  against a variable difficulty  (see  chart). The  difficulty  of the challenge is based on your familiarity with the place you seek to view (e.g., Clairvoyantly viewing  your own  haven  would  be a  Static  Challenge  against  a  difficulty of four Traits, while viewing your sire's castle in Transylvania that you have only seen in a painting is a nearly impossible task). You may also use all other Auspex Disciplines  while using Clairoloyunce.
 
 | Place as familiar as one'shaven             | 4   |
 |---------------------------------------------|-----|
@@ -1632,7 +1630,7 @@ You can see  and  hear  events  without the  need  for  Psychic  Projection. To 
 | Never been there but have seen a photograph | 25  |
 | Soul Scan                                   |     |
 
-You can discover the 'location'  of anyone you know, wherever the target maybe. ThispowerrequirestheassistanceofaNarrator. Youmust  win a Static  Mental Challenge against the target's Mental  Traits  to enact this Discipline. The Narrator simply notes the time of the Soul  Scan and then finds the target, asking her where she  was at that time and informing you. Other  Disciplines (as appropriate) can be  used after  locating  the  target. T h I  s power locates the mind o f  the individual  sought. If the individual  sought  is currently  using powers such as Psychic Projection  or Possession, the result of Soul Scan will be to find where her conscious mind currently  is.
+You can discover the 'location'  of anyone you know, wherever the target maybe.ThispowerrequirestheassistanceofaNarrator. Youmust  win a Static  Mental Challenge against the target's Mental  Traits  to enact this Discipline. The Narrator simply notes the time of the Soul  Scan and then finds the target, asking her where she  was at that time and informing you. Other  Disciplines (as appropriate) can be  used after  locating  the  target. T h i s power locates the mind o f  the individual  sought. If the individual  sought  is currently  using powers such as Psychic Projection  or Possession, the result of Soul Scan will be to find where her conscious mind currently  is.
 
 ## Bardo
 
@@ -1780,7 +1778,7 @@ By expending a Willpower Trait and winning a Simple Test, you may initiate Physi
 
 ## Spirit Possession
 
-You now possess the power to place wraiths within the bodies o f  the dead. After summoning  a wraith, you may expend a Willpower  Trait to place it,  I  f  willing,  into  adead  body.  The  wraith  may  then  inhabit  the  body for up to one week. (Note: A wraith placed in a body this way does not become a Risen -see Oblivion.) You may attempt to place a wraith in a  Kindred  body; however,  you must spend  two Willpower  Traits and  win a  Mental  Challenge against  the  owner  of the  body.  The  spirit  of the  ousted vampire may initiate one  Mental Challenge per day against the  wraith to
+You now possess the power to place wraiths within the bodies o f  the dead. After summoning  a wraith, you may expend a Willpower  Trait to place it,  i f  willing,  into  adead  body.  The  wraith  may  then  inhabit  the  body for up to one week. (Note: A wraith placed in a body this way does not become a Risen -see Oblivion.) You may attempt to place a wraith in a  Kindred  body; however,  you must spend  two Willpower  Traits and  win a  Mental  Challenge against  the  owner  of the  body.  The  spirit  of the  ousted vampire may initiate one  Mental Challenge per day against the  wraith to
 
 Sean Carter(order #19521)
 
@@ -1796,7 +1794,7 @@ regaincontrol  ofhis  body.  A  vampire  exiled  from  his  bod wraith and his f
 
 ## Anesthetic Touch
 
-By using this power, you may lay your hands on someone  and stop her body from feeling any pain, or bring a vampire out of frenzy. This power also  paralyzes the  target  for  one  turn  per Mental  Trait  expended. You must defeat  an  unwilling  target in a Physical  Challenge. Improper use of this  Discipline (e. g., using  this  power simply  to  paralyze a target) may demand a Beast Trait check.
+By using this power, you may lay your hands on someone  and stop her body from feeling any pain, or bring a vampire out of frenzy. This power also  paralyzes the  target  for  one  turn  per Mental  Trait  expended. You must defeat  an  unwilling  target in a Physical  Challenge. Improper use of this  Discipline (e.g., using  this  power simply  to  paralyze a target) may demand a Beast Trait check.
 
 ## Master
 
@@ -1908,7 +1906,7 @@ By expending a  Willpower  Trait,  you permanently make  the  blood of a vessel 
 
 Temptation
 
-You can attempt to  tempt the target into  evil actions (e. g., murder, slander,  thievery,  etc.) by simply  speaking  with  her  and  telling  her  about her  weakness. If the target is visibly upset at another character,  you may initiate a Social  Challenge to implant a suggestion  in the target's mind regarding that character that the target will attempt to carry out at all costs. You may not spend Willpower Traits in the normal fashion to negate the effects o f   Temptation. Willpower Traits may be spent over time to stave off  its effects. It takes a total of eight Willpower Traits to negate the effects o f  Temptation.  The  target may be induced to perform actions that cause her to receive Beast or Path Traits.
+You can attempt to  tempt the target into  evil actions (e.g., murder, slander,  thievery,  etc.) by simply  speaking  with  her  and  telling  her  about her  weakness. If the target is visibly upset at another character,  you may initiate a Social  Challenge to implant a suggestion  in the target's mind regarding that character that the target will attempt to carry out at all costs. You may not spend Willpower Traits in the normal fashion to negate the effects o f   Temptation. Willpower Traits may be spent over time to stave off  its effects. It takes a total of eight Willpower Traits to negate the effects o f  Temptation.  The  target may be induced to perform actions that cause her to receive Beast or Path Traits.
 
 ## Obsession
 
@@ -1928,7 +1926,7 @@ SeanCarter(order#19521)
 
 ## Elgsium awso
 
-mands. The spirits can take any action of which they were capable in normal life (e. g., a bird spirit  can fly, a dog spirit has keen hearing, etc.). Generally  it  takes  one  Mental  Trait  to  summon  aspirit,  but  aNarrator  may issue a higher cost for a larger,  more powerful spirit. The spirit arrives in 10-30  minutes. No one can see the spirit companion except those who have powers that enable them to  see into the spirit world. The  spirit will aid you for one night, and then return to the land of the dead.
+mands. The spirits can take any action of which they were capable in normal life (e.g., a bird spirit  can fly, a dog spirit has keen hearing, etc.). Generally  it  takes  one  Mental  Trait  to  summon  aspirit,  but  aNarrator  may issue a higher cost for a larger,  more powerful spirit. The spirit arrives in 10-30  minutes. No one can see the spirit companion except those who have powers that enable them to  see into the spirit world. The  spirit will aid you for one night, and then return to the land of the dead.
 
 ## Master
 
@@ -1938,7 +1936,7 @@ You may now feed off an animal spirit to replenish all your lost Willpower Trait
 
 ## Spirit Form
 
-With this power you can  transform yourself into the  spiritual  form of  any natural animal not larger than a bear and no smaller than a hummingbird.  In  many  respects this power works similarly to the Protean Discipline Shadow of   the  Beat. In this form you appear as a ghostly version of the animal in question; however, you are actually a solid  creature which  can  attack  and  be  wounded  normally. The  change only alters your body and normal clothes; other equipment, including weapons, are unchanged. To activate this power you must expend a Blood Trait. This power takes one action to activate. You gain extra Physical Traits while in this spirit form, depending on its size. As a small creature (e. g., a bird or a bat), you gain the Physical  Traits Quick and Lithe. As a medium creature (e. g., a wolf or a dog), you gain the Physical Traits Ferocious x 2 and Vigorous. If you assume the form of a large creature  (e. g., a bear or a tiger), you gain the Physical Traits Ferocious, Rugged, Stalwart and Tough.
+With this power you can  transform yourself into the  spiritual  form of  any natural animal not larger than a bear and no smaller than a hummingbird.  In  many  respects this power works similarly to the Protean Discipline Shadow of   the  Beat. In this form you appear as a ghostly version of the animal in question; however, you are actually a solid  creature which  can  attack  and  be  wounded  normally. The  change only alters your body and normal clothes; other equipment, including weapons, are unchanged. To activate this power you must expend a Blood Trait. This power takes one action to activate. You gain extra Physical Traits while in this spirit form, depending on its size. As a small creature (e.g., a bird or a bat), you gain the Physical  Traits Quick and Lithe. As a medium creature (e.g., a wolf or a dog), you gain the Physical Traits Ferocious x 2 and Vigorous. If you assume the form of a large creature  (e.g., a bear or a tiger), you gain the Physical Traits Ferocious, Rugged, Stalwart and Tough.
 
 ## Thanatosis
 
@@ -1984,7 +1982,7 @@ By expending three Blood  Traits  and  defeating  the  target  in  a  Physical C
 
 ## Dust to Dust
 
-This  power is similar  in  appearance to  the  Intermediate  Discipline Ashes to Ashes, but is much more potent. Once you opt to transform into a pile o f  heavy ashes,  you retain complete  control  over all mental Disciplines except Do m I  n a t e and Thaumaturgy. The dust cannot be forced apart or moved by the wind unless you so desire. You can also use  winds  to  aid  movement  while  in  this  form.  Like  characters employing  the  Form ofMist, you retain cohesion  without difficulty.  To enter this form requires the expenditure of two Physical Traits.
+This  power is similar  in  appearance to  the  Intermediate  Discipline Ashes to Ashes, but is much more potent. Once you opt to transform into a pile o f  heavy ashes,  you retain complete  control  over all mental Disciplines except Do m i n a t e and Thaumaturgy. The dust cannot be forced apart or moved by the wind unless you so desire. You can also use  winds  to  aid  movement  while  in  this  form.  Like  characters employing  the  Form ofMist, you retain cohesion  without difficulty.  To enter this form requires the expenditure of two Physical Traits.
 
 ## Thaumaturgy
 
@@ -1996,7 +1994,7 @@ Nothing larger or heavier than the conjurer may be summoned (no LAW rockets and 
 
 ## Summoning the Spirit
 
-You can summon a simple inanimate object with the expenditure of one Willpower Trait. The object cannot be more complex than a hand-held object with no  moving parts (dagger,  pencil) and  weighing no more than 10  pounds. The  object remains solid for 10  minutes for every  Willpower Trait expended  (e. g.,  three  Willpower equals 30 minutes), then returns to the place from which it was summoned.
+You can summon a simple inanimate object with the expenditure of one Willpower Trait. The object cannot be more complex than a hand-held object with no  moving parts (dagger,  pencil) and  weighing no more than 10  pounds. The  object remains solid for 10  minutes for every  Willpower Trait expended  (e.g.,  three  Willpower equals 30 minutes), then returns to the place from which it was summoned.
 
 ## Permanency
 
@@ -2010,7 +2008,7 @@ Sean Carter(order #19521)
 
 ## Magic of  the Smith
 
-You  can summon forth complex objects with moveable parts (handguns, CD players, anything within the limits of  size) with the expenditure  of  two  Willpower  Traits.  You  must  have  a  working knowledge (Storyteller's discretion)  of the  object.  The  object  remains for  10 minutes per  every Willpower Trait you  expend  (e. g.,  three Willpower points  equals  30  minutes).  Permanency  will  not  affect objects conjured with this power.
+You  can summon forth complex objects with moveable parts (handguns, CD players, anything within the limits of  size) with the expenditure  of  two  Willpower  Traits.  You  must  have  a  working knowledge (Storyteller's discretion)  of the  object.  The  object  remains for  10 minutes per  every Willpower Trait you  expend  (e.g.,  three Willpower points  equals  30  minutes).  Permanency  will  not  affect objects conjured with this power.
 
 ## Advanced
 
@@ -2076,7 +2074,7 @@ This power allows you to animate objects that are within line of sight. With the
 
 ## Elemental Form
 
-With  the  expenditure of one  BloodTrait, you can assume  the  form of  an inanimate object of  equal size and weight to your own (e. g., a chair, desk, pillar, etc.). You may opt also to spend one Willpower Trait at the time o f   change, which allows you to have access to your senses  and Disciplines.  There is no  cost to  return to  your original  form.
+With  the  expenditure of one  BloodTrait, you can assume  the  form of  an inanimate object of  equal size and weight to your own (e.g., a chair, desk, pillar, etc.). You may opt also to spend one Willpower Trait at the time o f   change, which allows you to have access to your senses  and Disciplines.  There is no  cost to  return to  your original  form.
 
 ## Advanced
 
@@ -2128,7 +2126,7 @@ After  the  expenditure of  a  Willpower  Trait  in  addition to a successful  M
 
 Body Arsenal
 
-You  can  use  your  own  body  to  create  weapons.  You  can manifest claws similar to the Protean power Wolfs Claws, but this power  goes  far  beyond  that.  By  expending  a  Blood  Trait  and investing one  Mental Trait per Physical Trait of the  weapon (up  to but  not exceeding three Traits) you  may  can create  any  melee weapon you can imagine (i. e., sword, club, dagger,  whip, etc.) from your flesh. No projectile weapons can be created by the use of this power.  Weapons thus  created  inflict  aggravated wounds.  Note: This power never allows more than a three-Trait bonus at any one time, nor does it add to the Traits one acquires by switching to Horrid Form.
+You  can  use  your  own  body  to  create  weapons.  You  can manifest claws similar to the Protean power Wolfs Claws, but this power  goes  far  beyond  that.  By  expending  a  Blood  Trait  and investing one  Mental Trait per Physical Trait of the  weapon (up  to but  not exceeding three Traits) you  may  can create  any  melee weapon you can imagine (i.e., sword, club, dagger,  whip, etc.) from your flesh. No projectile weapons can be created by the use of this power.  Weapons thus  created  inflict  aggravated wounds.  Note: This power never allows more than a three-Trait bonus at any one time, nor does it add to the Traits one acquires by switching to Horrid Form.
 
 ## Plasmic Form
 
@@ -2668,7 +2666,7 @@ Do swarm upon him.
 
 Elder vampires do  not spring into  being overnight. Any character who is older than most countries usually sports a rich and colorful personal history. Consider your character's place in the history of the world and its vampire denizens -where has she been?  What has she done? Where is  she going? Thinking as a character who enjoys a potentially  limitless lifespan is an exercise in advanced roleplaying, and one that you shouldn't skimp on.
 
-Begin by thinking about your own life in  comparison to the world events which have occurred during your lifetime. Do you remember the outbreak of World War 11, the Cuban  Missile  Crisis, the assassinationofpresident Kennedy, the  Vietnam  War,  Watergate,  U. S.  Hostages in Iran, the  fall o f  the Berlin Wall or the Gulf War?  Do you remember how you reacted to these events when you first read or learned about them?  Did you understand then as well as  you do now the effects  these situations would have upon the world as you know it?
+Begin by thinking about your own life in  comparison to the world events which have occurred during your lifetime. Do you remember the outbreak of World War 11, the Cuban  Missile  Crisis, the assassinationofpresident Kennedy, the  Vietnam  War,  Watergate,  U.S.  hostages in Iran, the  fall o f  the Berlin Wall or the Gulf War?  Do you remember how you reacted to these events when you first read or learned about them?  Did you understand then as well as  you do now the effects  these situations would have upon the world as you know it?
 
 Next, try to think about some of the major events of this century that you do not remember as circumstances in your life. Take  World War I, or the  Jazz Era. What about the American stock market crash and the Great Depression?  The more distant we become from events the less likely we are to recall their details. T o   gain a sense of  their impact and place in history, we turn to books, films, plays and essays rather than to our own memories.
 
@@ -2747,11 +2745,11 @@ Sean Carter (order #19521)
 
 Silk  or leather?  Etruscan  or  Mod?  Having seen (and  occasionally played) the fashion game, most elders are jaded to the notion of clothes and  fashion. As long as it  covers  the  body,  many  couldn't care less what they're  actually  wearing. In the  case  o f  some (such as the Lasombra),  the matter o f  appearance is immensely  important, particularly when one requires assistance in dressing.
 
-always uppermost in many the part. Everyone  wants players) are no different. Ittle help. When the Brujah a  regular basis, or the to look his best, an step out in style. Others ot be an exercise in be the belles of th Somerelish the opportunity to wear their favoritevintage and Tremere elder's player arrives in a nylon cape fresh from the package and announces that he's in costume, it''s time to take a frustration. Withalittlepreparation and thought, the elderscan
+always uppermost in many the part. Everyone  wants players) are no different. ittle help. When the Brujah a  regular basis, or the to look his best, an step out in style. Others ot be an exercise in be the belles of th Somerelish the opportunity to wear their favoritevintage and Tremere elder's player arrives in a nylon cape fresh from the package and announces that he's in costume,it''s time to take a frustration.Withalittlepreparation and thought,the elderscan
 
-When was she Emtime periods did she If she  was in  torpor  for owever, some  of  her m star during the OS, r slinky evening gowns are r elder, then she may most of  the  18th ce Watteau  gowns for then  perhaps droppe an avenue worth exploring. Likewise, if she spentmost of the associate wearing such clothes with her hated nemisis.
+When was she Emtime periods did she If she  was in  torpor  for owever, some  of  her m star during the OS, r slinky evening gowns are r elder, then she may most of  the  18th ce Watteau  gowns for then  perhaps droppe an avenue worth exploring.Likewise,if she spentmost of the associate wearing such clothes with her hated nemisis.
 
-all  the  terms;  just look  at  the  styles and  see  what appeals  to  you.  You might  have  consideredVictorian  for  your  elder,  but  you're not  ready to start corseting. On the other hand, the soft lines  of the  gowns of the 1930s,  complete  with gloves  and a little hat, are appealing  and more comfortable-looking.  Your Ventrue elder  was active in London, then, a society maven -and like that, you have a potential idea for something much different from the usual ruck and run of Victorian and 18th  centurv fashions. If you wantideas about the sortsof thingsyourcharactermight haveworn, head to the library and checkoutbooksof fashion and periodportraits, orwatchhistoricalmovies. Youdon't needtoknow
+all  the  terms;  just look  at  the  styles and  see  what appeals  to  you.  You might  have  consideredVictorian  for  your  elder,  but  you're not  ready to start corseting. On the other hand, the soft lines  of the  gowns of the 1930s,  complete  with gloves  and a little hat, are appealing  and more comfortable-looking.  Your Ventrue elder  was active in London, then, a society maven -and like that, you have a potential idea for something much different from the usual ruck and run of Victorian and 18th  centurv fashions. If you wantideas about the sortsof thingsyourcharactermight haveworn,head to the library and checkoutbooksof fashion and periodportraits,orwatchhistoricalmovies.Youdon't needtoknow
 
 Sean Carter(order #19521)
 
@@ -2759,9 +2757,9 @@ I
 
 I
 
-Obviously,  the Masquerade  should be a consideration. Let's say  your  Brujah  elder  was Embraced  during  the  era  of Socrates  and Plato, and  finds  Greekrobes  to  be the  most  comfortable  thing  he's ever wom in the past 2000-plus years. A man wandering down the streets at night wearing a chiton and sandals is bound  to attract attention, some of which will certainly be undesirable. And how many times wouldyozt want to be asked if you're in a play?  You might want t for wearing around the elder's person,  consider so all,  like  a  ring  with  a Grecian key design or a tie orations from an urn. Haven. Ifyou'redetermined tohavesomething Greek onyour
+Obviously,  the Masquerade  should be a consideration. Let's say  your  Brujah  elder  was Embraced  during  the  era  of Socrates  and Plato, and  finds  Greekrobes  to  be the  most  comfortable  thing  he's ever wom in the past 2000-plus years. A man wandering down the streets at night wearing a chiton and sandals is bound  to attract attention, some of which will certainly be undesirable. And how many times wouldyozt want to be asked if you're in a play?  You might want t for wearing around the elder's person,  consider so all,  like  a  ring  with  a Grecian key design or a tie orations from an urn. haven.Ifyou'redetermined tohavesomething Greek onyour
 
-They say that clothes , and certainly clothes carry connotations  abou er,  however  unintenfind himself viewed a dering one at that, expect elders to look unlikely to  gamer re on dressing like an I who tries too  hard be above that sort dvise them on the pining for the"good old days." In fact, most younger Kindred age. A Ventrue elder never seen in a modern suit will be to outshine otherswill be dismissed as a fool, since she should responsetothisperception, however, someeldershavetrusted changes in clothing and help them look a little less outdated.
+They say that clothes , and certainly clothes carry connotations  abou er,  however  unintenfind himself viewed a dering one at that, expect elders to look unlikely to  gamer re on dressing like an I who tries too  hard be above that sort dvise them on the pining for the"good old days." In fact, most younger Kindred age.A Ventrue elder never seen in a modern suit will be to outshine otherswill be dismissed as a fool,since she should responsetothisperception,however,someeldershavetrusted changes in clothing and help them look a little less outdated.
 
 e first stop of anyone , cared for well, will Even small accescases and the like Vintage clothing sto searching for an elder' last you through man sories,  like  gloves,  ha -can bring an outfit (and character) to life. For snappy modem dressing, check out resale shops in vour area, particularly those that advertise 'gently used'  garments. Many times, these places carry outfits barely out of season, and certainly not out of style.
 
@@ -2869,7 +2867,7 @@ I I
 
 ## Elgsium DIWS D
 
-need to determine  the  correct balance between reward and punishment to keep the ancillae in line and on your side. If you reward them with too much too often, they  will  come  to expect  your gratitude even when they haven't  earned it.  If you reward them with too  little or  too  seldom,  they  will  grow  resentful  at your ingratitude and be easy targets for rivals. Plansmaywell be plotting tobetrayyou and assume yourplace. You
+need to determine  the  correct balance between reward and punishment to keep the ancillae in line and on your side. If you reward them with too much too often, they  will  come  to expect  your gratitude even when they haven't  earned it.  If you reward them with too  little or  too  seldom,  they  will  grow  resentful  at your ingratitude and be easy targets for rivals. plansmaywell be plotting tobetrayyou and assume yourplace.You
 
 ## Establishing  Alliances
 
@@ -2912,7 +2910,7 @@ u
 
 ## Playing an
 
-you ask is within your target's ability to give. You cannot obtain a vast fortune from an impoverished childe, after all. The next target of your"victim."Moreover, make certain that what
+you ask is within your target's ability to give. You cannot obtain a vast fortune from an impoverished childe, after all. the next target of your"victim."Moreover,make certain that what
 
 - Threats -Elders who are skilled in making threats find that implied consequences are better than those stated explicitly. Blatant warnings of imminent harm seldom do more than earn your target's temporary cooperation, followed by her long-term  enmity. Most threats are more effective in the short term, and often the same threat does not work  twice.  There are some excellent examples  of  long-term  threats,  however,  such  as  blackmail  (see above) or warnings of serious injury to  those beloved by your target. Neonates may  respond  more readily than ancillae to threats of physical violence, although sometimes just the hint of  inconvenience can be sufficient  to  forge a brief alliance. Beware whom you threaten, however, as you will not be the only elder practicing such techniques. Threatening ancillae or neonates whom you know to be strongly supported by other elders is an invitation to disaster. Choose both your threat and threatened with care.
 - Blood Bond -Be  wary of using the Blood Bond indiscriminately, particularly on those Kindred who are not your own progeny. If you try to create an army o f   Blood Bound servitors, other elders in the vicinity will almost certainly try to  prevent it, before it upsets the balance of power. They may even decide to unite against you, which could prove disastrous. If you choose to employ the Bond as a means of influencing a younger Kindred, consider keeping the attachment a secret. Your enemies may trust your Thrall more readily if  they are unaware that you are her Regnant.
@@ -2932,7 +2930,7 @@ Other elders  can be  your  closest  allies  or  your  most  dreaded enemies. Th
 
 ## Avoiding Unnecessary Violence
 
-Consider a typical night at the prince's court. You prepare hours in advance, dressing in  your most expensive  finery,  choosing  just the right tie to win approving  glances from the Harpies, and taking the time to make certain your appearance is as perfect as money can buy. You are confident that your plan to  cement an  alliance with the Toreador elder will reach fruition  this evening. You arrive in your new luxury car, your driver smart and efficient, and make your grand entrance through the wide mahogany  doors into  the  vast reception hall.. . only to  collide  with
+Consider a typical night at the prince's court. You prepare hours in advance, dressing in  your most expensive  finery,  choosing  just the right tie to win approving  glances from the Harpies, and taking the time to make certain your appearance is as perfect as money can buy. You are confident that your plan to  cement an  alliance with the Toreador elder will reach fruition  this evening. You arrive in your new luxury car, your driver smart and efficient, and make your grand entrance through the wide mahogany  doors into  the  vast reception hall.. .only to  collide  with
 
 Sean Carter (order #19521)
 
@@ -2958,7 +2956,7 @@ SeanCarter(order#19521)
 
 ## Laws of Elgstum
 
-undoing. B—Your sense of drama does you credit, but if you react to all inconveniences inthismatter, your passionswill eventually beyour
+undoing. B—Your sense of drama does you credit, but if you react to all inconveniences inthismatter,your passionswill eventually beyour
 
 C -Congratulations! You are among the superior elders! You have  realized  that violence  should  be  applied  in  the game  like  a surgical  instrument -with  precision  and  skillful  direction,  and certainly not as a first resort.
 
@@ -3068,7 +3066,7 @@ Sean Carter (order #19521)
 
 ## Playing an Elder
 
-Boon, though -some Kindred may attempt to force the issue by arranging circumstances so that you will have little choice but to allow them to repay the debt. Others may  even go so far as to attempt to remove the inconvenience the Boon represents by trying to place you in their debt, or even trying to eliminate the Boon by eliminating the one  who holds it. Be certain to alert the Harpies, prince or other  authority figures if a vampire in your debt reneges on or ignores a Boon rightfully owed to you. This  kind of pressure can be nearly as effective in embarrassing or controlling your rivals as possession of the Boon itself. Repaid is no longer of value. Not all Kindred will stand idly by
+Boon, though -some Kindred may attempt to force the issue by arranging circumstances so that you will have little choice but to allow them to repay the debt. Others may  even go so far as to attempt to remove the inconvenience the Boon represents by trying to place you in their debt, or even trying to eliminate the Boon by eliminating the one  who holds it. Be certain to alert the Harpies, prince or other  authority figures if a vampire in your debt reneges on or ignores a Boon rightfully owed to you. This  kind of pressure can be nearly as effective in embarrassing or controlling your rivals as possession of the Boon itself. repaid is no longer of value. Not all Kindred will stand idly by
 
 <!-- image -->
 
@@ -3170,7 +3168,7 @@ SeanCarter(order #19521)
 
 ## Elysium Lawsof
 
-are each capable o f   leveling  entire city blocks single-handedly,  you have no one to blame but yourself if your chronicle concludes with the characters'  untimely deaths or the extinction of all life on the planet. Unless the plot of  your chronicle involves Gehenna, you probably are not planning for this kind of outcome for your story. It'sbest tobegin an all-elder chroniclewith characters at the lowest power levelpossible. If youallowtheplayers characters who
+are each capable o f   leveling  entire city blocks single-handedly,  you have no one to blame but yourself if your chronicle concludes with the characters'  untimely deaths or the extinction of all life on the planet. Unless the plot of  your chronicle involves Gehenna, you probably are not planning for this kind of outcome for your story. It'sbest tobegin an all-elder chroniclewith characters at the lowest power levelpossible.If youallowtheplayers characters who
 
 Encourage  players  to give  their  elders  distinct  personalities, interesting histories and several  weaknesses. After all, for all the  age and power these beings possess,  they are hardly perfect. Give players enough information about the scope, setting and basic structure of the chronicle so that they can make appropriate choices in these matters. One who decides that her Nosferatu elder witnessed firsthand the formation of the Soviet Union, starting with the Russian Revolution, will be irked if she unexpectedly discovers during the first  session  that  you  have  rewritten  history  and  removed  that particular event in the process.
 
@@ -3200,7 +3198,7 @@ SeanCarter(order#19521)
 
 ## LawsofElystum
 
-chronicle, and he may well feel dissatisfied by the result. Motivation as a character remains unfulfilled for the duration of the
+chronicle, and he may well feel dissatisfied by the result. motivation as a character remains unfulfilled for the duration of the
 
 Plot  creation  for  the  all-elder  chronicle  need  not  be  the  sole responsibility  o f  the Storyteller.  Players  should  be invited  to  share in  the establishment of the micro-level of the story as well. The Storyteller must create the main plot as the framework for the tale, but the players should feel encouraged to add support and strength to the framework through the creation of some o f   their own subplots. Once again, this stage of preparation should be a joint venture between Storyteller and players. A player may choose to play a Ventrue elder in your chronicle, and  will  be eager  to  play out  her own  subplot  concerning  her character's flight  from her  former comrades, a  notorious  Sabbat  pack.  This  is without a doubt a  juicy and interesting subplot,  but the  Storyteller must know about it in order to make effective  use of the information!
 
@@ -3232,7 +3230,7 @@ Sean Carter (order #19521)
 
 ## Integrating  Elders  into  a Regular Chronicle
 
-Many Storytellers who read this book will already be engaged in running a chronicle, but will wish to incorporate some of the ideas and concepts they read here into the story. Does this mean that you must scrap the current chronicle and start an entirely new story, or that you must rewrite  your  entire  plot  and  subplots  in  order  to  accommodate  elder characters? Not  at  all.  Withsome  conscientious  effort,  youcansmoothly integrate  elders  into  an  established  chronicle.  Add new elders into  your regular chronicle sparingly. Dropping one or two elders into a game in progress  can  increase  dramatic  tension and  give  the  plot a  richer texture. Introducing too many new elders can create chaos.
+Many Storytellers who read this book will already be engaged in running a chronicle, but will wish to incorporate some of the ideas and concepts they read here into the story. Does this mean that you must scrap the current chronicle and start an entirely new story, or that you must rewrite  your  entire  plot  and  subplots  in  order  to  accommodate  elder characters?Not  at  all.  Withsome  conscientious  effort,  youcansmoothly integrate  elders  into  an  established  chronicle.  Add new elders into  your regular chronicle sparingly. Dropping one or two elders into a game in progress  can  increase  dramatic  tension and  give  the  plot a  richer texture. Introducing too many new elders can create chaos.
 
 Before  adding an  elder  to  your  chronicle,  examine  the  current plot and consider  the effect a new elder will have  on it. How will the incoming elder alter the existing story elements (for they are almost certain to change once she is introduced). How will you go about casting the new role?  Will you give the player a pregenerated elder to ensure that the  new character meshes with your chronicle, or will you allow  her  to  create  her  own  character  within the  guidelines  you  supply? If you've already spent a great deal o f  time in crafting the chronicle, you should be able to identify the types of problems you are likely to encounter, and what kind of preventive medicine is in order.
 
@@ -3364,7 +3362,7 @@ SeanCarter(order#19521)
 
 ## Lawso Ehysium
 
-player to  help you guide the plot in a more useful direction. Some Storytellers refrain from ever interfering in the chronicle's direction once it is set in motion, preferring to adopt a more laissezfaire relationship to the plot once it is underway and to let the  tale grow I  n   the  telling.  This  strategy  sometimes  works  for  chronicles  wherein the  characters  collectively  do  not  have  the  power  to  disrupt significantly the flow of   the plot. Even when your players roleplay responsibly, their actions can still send the plot off  course. You must keep track of where the plot is going, otherwise you may find the  chronicle ends abruptly and in a manner far less satisfying than you originally intended. It's  not about whether or not to let the  bus run driverless, but rather about applying sufficient guidance and direction to ensure that everyone on the bus reaches the destination with the maximum amount of fun and enjoyment.
+player to  help you guide the plot in a more useful direction. Some Storytellers refrain from ever interfering in the chronicle's direction once it is set in motion, preferring to adopt a more laissezfaire relationship to the plot once it is underway and to let the  tale grow i n   the  telling.  This  strategy  sometimes  works  for  chronicles  wherein the  characters  collectively  do  not  have  the  power  to  disrupt significantly the flow of   the plot. Even when your players roleplay responsibly, their actions can still send the plot off  course. You must keep track of where the plot is going, otherwise you may find the  chronicle ends abruptly and in a manner far less satisfying than you originally intended. It's  not about whether or not to let the  bus run driverless, but rather about applying sufficient guidance and direction to ensure that everyone on the bus reaches the destination with the maximum amount of fun and enjoyment.
 
 If  you  determine that a player is using  the power of his elder character to ride roughshod over your plot and lord it over the other players because he enjoys doing so, you must deal with him immediately before things go too far. Talk privately and candidly with the problem  player.  If  you  believe  he has  the  potential  to learn  to roleplay responsibly  and to  respect the  other players,  by all  means try to  allow  him  to  continue to  play an  elder character,  perhaps with  the assistance  of a trustedNarrator, or you may consider  challenging him with a significantly less powerful, but no less interesting, character. If he  chooses  not  to  mend  his  ways, ask  him  not to  return  to  the  game. This can be uncomfortable, but in these circumstances it is to the long-term benefit of yourself and your players.
 
@@ -3465,7 +3463,7 @@ In other words, a vampire with Form of the Beast may spend the three Traits of b
 
 To store mortal blood successfully  (as  opposed  to  coming home to a refrigerator  full of clotted gunk), a character must have a minimum Medical Ability  rating  o f   two  or  at  least  one  level  of  the  Health Influence. Human blood, under proper conditions, can be stored for one month. Then, even under the best of circumstances, it goes bad. Drinking bad blood renders no nourishment, and  may  induce the vampire to vomit up good blood already in his system.
 
-Kindred  vitae has radically  different  properties than  does  mortal  blood. Carefully  stored,  it  can  provide  nourishment  and  pleasure (or  bonding)  for quite some time. Neonate blood rarely lasts more than one year, while a Methuselah's blood does not lose potency for a century,  I  f  not longer.
+Kindred  vitae has radically  different  properties than  does  mortal  blood. Carefully  stored,  it  can  provide  nourishment  and  pleasure (or  bonding)  for quite some time. Neonate blood rarely lasts more than one year, while a Methuselah's blood does not lose potency for a century,  i f  not longer.
 
 Note: Questions of  blood potency  also apply to drinks left for Kindred in torpor.
 
@@ -3680,7 +3678,7 @@ What is the maximum number of experience points I can gain?
 
 This up to your individual troupe, but we recommend no more than  six experience points per month of fairly active gameplay. You shouldn't be going from warm snack to elder too quickly, after all.
 
-What I  s the maximum amount of experience  I  can receive  at  one time? Players  can  receive  up  to three  experience points  per  game session.
+What i s the maximum amount of experience  I  can receive  at  one time? Players  can  receive  up  to three  experience points  per  game session.
 
 How does damage work in regard to causing Final Death?
 

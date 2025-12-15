@@ -1,0 +1,119 @@
+{
+    "clan": "Followers of Set",
+    "book_title": "Revised Clanbook: Followers of Set",
+    "edition": "Revised",
+    "mechanics": {
+      "disciplines": [
+        {
+          "name": "Serpentis",
+          "type": "discipline",
+          "tags": ["tabletop", "clan_favored", "unique"],
+          "notes": "Signature Discipline of the Followers of Set, focusing on serpentine transformations, hypnotic gazes, and corruptive or transfigurative powers.",
+          "powers": [
+            {
+              "name": "Eyes of the Serpent",
+              "rating": 2,
+              "system_text": "Allows a Setite to paralyze or entrance victims through direct eye contact, making them easier to manipulate or feed upon.",
+              "tags": ["tabletop", "discipline_power", "control"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Core power for social predators; ideal for Elysium scenes and one-on-one temptations."
+            },
+            {
+              "name": "Skin of the Adder",
+              "rating": 3,
+              "system_text": "Transforms the Setite's body into a more serpentine form, providing protection and a more threatening presence in close combat.",
+              "tags": ["tabletop", "discipline_power", "combat", "transformation"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Useful when quiet manipulation fails and violence becomes necessary."
+            }
+          ]
+        },
+        {
+          "name": "Presence",
+          "type": "discipline",
+          "tags": ["tabletop", "social"],
+          "notes": "The Discipline of supernatural allure, fear, and magnetism; Setites use it to become irresistible spiritual authorities or beloved corrupters.",
+          "powers": []
+        },
+        {
+          "name": "Obfuscate",
+          "type": "discipline",
+          "tags": ["tabletop", "stealth"],
+          "notes": "The Discipline of concealment and unnoticed movement; many Setites use it to move through domains and temples without drawing attention.",
+          "powers": []
+        }
+      ],
+      "rituals": [
+        {
+          "name": "Typhonic Rite of Revelation",
+          "type": "ritual",
+          "tags": ["tabletop", "occult", "setite_cult"],
+          "system_text": "A lengthy ceremony designed to break down an initiate's psychological defenses and bind them more tightly to the cult through carefully staged visions and ordeals.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Useful as a story device for indoctrination scenes or to justify major shifts in NPC loyalties."
+        }
+      ],
+      "backgrounds": [
+        {
+          "name": "Cult Herd",
+          "type": "background",
+          "tags": ["tabletop", "social", "retainers"],
+          "system_text": "Represents a group of mortals who not only provide blood but also worship the Setite as a spiritual authority.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Can be translated into VbN as a combination of Herd, Retainers, and Influence in religious or subculture communities."
+        },
+        {
+          "name": "Temple Resources",
+          "type": "background",
+          "tags": ["tabletop", "resources", "lair"],
+          "system_text": "A mix of wealth, real estate, and hidden infrastructure dedicated to Setite worship and operations.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Maps naturally to Haven merits, Resources, and influence in city-level logistics."
+        }
+      ],
+      "merits_flaws": [
+        {
+          "name": "Devoted Flock",
+          "type": "merit",
+          "tags": ["tabletop", "social"],
+          "system_text": "The character enjoys unusually loyal mortal worshippers who resist outside manipulation and cling to the cult even under pressure.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "In VbN this can grant narrative protection to Setite mortal assets and provide resilient rumor/information networks."
+        },
+        {
+          "name": "Haunted by Doubt",
+          "type": "flaw",
+          "tags": ["tabletop", "psychological"],
+          "system_text": "The Setite struggles with dissonance between doctrine and their own lingering conscience, creating exploitable hesitation.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "An excellent flaw for PCs or important NPCs who might betray the clan or become secret allies of the coterie."
+        }
+      ],
+      "other_systems": [
+        {
+          "name": "Path of Typhon (Theophidian Path)",
+          "type": "morality_path",
+          "tags": ["tabletop", "path_of_enlightenment"],
+          "system_text": "A Path of Enlightenment focused on liberation from false morality through revelation, transgression, and devotion to Set as principle of necessary destruction and rebirth.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Key philosophical backbone for many serious Setites; VbN can use it primarily as a roleplay and story flag rather than a strict mechanical track."
+        }
+      ]
+    }
+  }

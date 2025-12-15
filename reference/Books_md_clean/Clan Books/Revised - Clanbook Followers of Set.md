@@ -1,5 +1,3 @@
---- book_title: "Revised - Clanbook Followers of Set" clan: "" edition: "" source_type: "clanbook" extraction_pipeline: "docling_v1 + markdown_cleanup_v1" ---
-
 <!-- image -->
 
 ## ™ C     L     A     N     B     O     O     K     :
@@ -52,7 +50,7 @@ The mention of or reference to any company or product in these pages is not a ch
 
 This book uses the supernatural for settings, characters and  themes.  All  mystical  and  supernatural  elements  are fiction and intended for entertainment purposes only. This book contains mature content. Reader discretion is advised.
 
-For a free White Wolf catalog call 1-800-454-WOLF. Check out White Wolf online at http://www. white-wolf. com;  alt. games. whitewolf  and rec. games. frp. storyteller
+For a free White Wolf catalog call 1-800-454-WOLF. Check out White Wolf online at http://www.white-wolf.com;  alt.games.whitewolf  and rec.games.frp.storyteller
 
 PRINTED IN USA.
 
@@ -154,7 +152,7 @@ Marla found herself lying on a bed - no, a plastic-padded table - as the chauffe
 
 and flipped through the papers inside,
 
-'Marla  Kenyon,  age  32;  B. A  cum  laude  in business administration from Columbia in 1991. Last employed at Searles International - middle management, excellent prospects, hard worker. Very hard worker. Began using cocaine in 1994. You wanted an edge, I assume, something to help keep you going through those 18-hour workdays. Work becomes erratic in 1995… I presume that's when you switched to methedrine… vial of crystal meth found in desk in September of that year, fired to avoid scandal… and a year later you're working for Mr. Hayes, which position you held for the last five years. Actually, many positions, I expect,' she said, smiling again. 'Some fairly acrobatic. And yet you have not lost your memory or your ability to concentrate.' Ren flipped the folder shut. 'You may have potential.'
+'Marla  Kenyon,  age  32;  B.A  cum  laude  in business administration from Columbia in 1991. Last employed at Searles International - middle management, excellent prospects, hard worker. Very hard worker. Began using cocaine in 1994. You wanted an edge, I assume, something to help keep you going through those 18-hour workdays. Work becomes erratic in 1995… I presume that's when you switched to methedrine… vial of crystal meth found in desk in September of that year, fired to avoid scandal… and a year later you're working for Mr. Hayes, which position you held for the last five years. Actually, many positions, I expect,' she said, smiling again. 'Some fairly acrobatic. And yet you have not lost your memory or your ability to concentrate.' Ren flipped the folder shut. 'You may have potential.'
 
 'Please,' Marla whispered, shaking now in fear. 'I don't have potential. I gotta have meth.
 
@@ -984,7 +982,7 @@ They say he will return at Ombos, rebuilt at last after Baybars destroyed it.
 
 I  go  to  Ombos. Call it a pilgrimage of doubt. If the temple remains long-buried and abandoned, I know that the rumor is merely a rumor. The Cainites are certainly full of wild tales. The latest concerns an alleged mass suicide among the Ravnos clan. Why should we be more immune to hysteria than they? If I find other Setites working to rebuild the temple, perhaps I can learn something more definite. Perhaps I can even resolve some of my doubts, one way or another, and decide what to do with my heritage of forbidden wisdom and layered superstition.
 
-I  hope  I  will  return  to  find  you  well,  and  your  anger  cooled. Josué Pagnol a. k. a. Manetho the Younger
+I  hope  I  will  return  to  find  you  well,  and  your  anger  cooled. Josué Pagnol a.k.a. Manetho the Younger
 
 ## The  CALL  TO  OmBOS
 
@@ -2057,7 +2055,7 @@ MET System: The player must win a Mental Challenge against the target character 
 
 This terrible power enables a Setite to break down the mental barriers between the target's Beast and libido. As a result, the victim becomes addicted to sadism as he takes pleasure in rage and aggression. The Setite can also reverse the connection, so that pleasure might rouse the Beast to frenzy.  These  two  effects  produce  a  spiral  of  desire  and  violence dragging the victim to madness.
 
-System: To corrupt a victim, the player must pit the Setite's Manipulation + Empathy vs. The victim's Humanity (or Path of Enlightenment). If the Setite can accumulate net successes equal to the victim's Humanity or Path rating, the victim suffers the Corruption effect. A character with a Humanity greater than 3 will automatically lose a point of Humanity for using this power (generally not a problem for the few elder Setites who know this power).
+System: To corrupt a victim, the player must pit the Setite's Manipulation + Empathy vs. the victim's Humanity (or Path of Enlightenment). If the Setite can accumulate net successes equal to the victim's Humanity or Path rating, the victim suffers the Corruption effect. A character with a Humanity greater than 3 will automatically lose a point of Humanity for using this power (generally not a problem for the few elder Setites who know this power).
 
 A corrupted  victim  must  receive  a  frenzy  check  for  anything that gives her pleasure, from sex to her favorite food. Like a frenzying vampire seeking blood, the victim will try to indulge her lust in the most brutal and immediate way. Note that Corruption works on mortals as well as vampires (although the human Beast is weaker, resulting in lower difficulties to resist frenzy). Conversely, a frenzying vampire might seek out more than blood in her rage. This may result in bizarre situations such as a maddened vampire smashing into a record store to hear  his  favorite  music  and  killing  anyone  who  tries  to  stop  him.
 
@@ -3115,7 +3113,7 @@ Roleplaying Tips: Like any proper superspy you're cool, confident and use lots o
 
 You  dispatch  'enemy  agents' with  cruel  efficiency  when you must, but would rather make an ironic quip. Never forget that you must keep your mortal bosses happy enough that they  excuse new  'eccentricities' such  as  only  working at night.
 
-E q u I  p m e n t : Glock  17L  automatic pistol  (with  screw-on silencer  and  shoulder holster),  electronic  surveillance gear, lockpick set  in  a  fountain  pen, nondescript car, fake ID, kevlar vest under tailored suit.
+E q u i p m e n t : Glock  17L  automatic pistol  (with  screw-on silencer  and  shoulder holster),  electronic  surveillance gear, lockpick set  in  a  fountain  pen, nondescript car, fake ID, kevlar vest under tailored suit.
 
 <!-- image -->
 
@@ -4608,7 +4606,7 @@ you learned what your bosses really were. That freaked you at first, but vampire
 
 You  didn't  live  to your  thirtieth  birthday. The  Followers  of  Set gave you a better deal. You've  said  good-bye to the arena. Now your bosses want you to fight their  enemies  -  and that suits you just fine.
 
-Concept: You  are the  Legbreaker  of  the Gods. Not only do you inflict  pain  or  death  on your  coterie's  enemies, they loan you out  to  other Setite  groups.  You've  won some small reputation in the clan for your skill,  enthusiasm  and  brutality. ANO 2000
+Concept: You  are the  Legbreaker  of  the Gods. Not only do you inflict  pain  or  death  on your  coterie's  enemies, they loan you out  to  other Setite  groups.  You've  won some small reputation in the clan for your skill,  enthusiasm  and  brutality. aNO 2000
 
 <!-- image -->
 
@@ -5390,7 +5388,7 @@ CHARACTER
 
 \_\_\_\_\_\_\_\_\_\_\_
 
-Nativ  e  Ri g h t s   A c t I  v I  s t
+Nativ  e  Ri g h t s   A c t i v i s t
 
 HARACTER\_\_\_\_\_\_\_\_\_\_\_
 
@@ -7469,7 +7467,7 @@ W W W . W H I T E -W O L F . C O M
 
 ISBN 1-58846-204-8
 
-WW2360  $14.95 U. S.
+WW2360  $14.95 U.S.
 
 PRINTED IN USA
 

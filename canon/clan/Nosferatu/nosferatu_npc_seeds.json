@@ -1,0 +1,167 @@
+{
+    "clan": "Nosferatu",
+    "internal_name": "Nosferatu",
+    "book_title": "Revised - Clanbook Nosferatu",
+    "edition": "Revised",
+    "npc_seeds": [
+      {
+        "id": "nosferatu_information_broker_01",
+        "name": "Emmett, Autarkis Traitor",
+        "summary": "A neonate Nosferatu who claims to be the sole survivor of a Hosting that was betrayed to the Nictuku. He trades information across sect lines but is distrusted by most Nosferatu due to his outspoken accusations.",
+        "role": "information broker and conspiracy theorist",
+        "age_category": "neonate",
+        "temperament": "paranoid, desperate to be believed, willing to trade any secret for validation",
+        "possible_plots": [
+          "Emmett approaches the coterie with information about a supposed Nictuku sighting, but his credibility is questionable. Is he telling the truth, or is he using the legend to cover up something else?",
+          "Emmett offers to trade vital information about a coterie member's past, but the price is helping him prove his claims about the Hosting massacre. The investigation leads to dangerous revelations.",
+          "Emmett's information network is compromised, and he needs the coterie's help to escape both Camarilla and Sabbat hunters who want him silenced."
+        ]
+      },
+      {
+        "id": "nosferatu_sewer_king_01",
+        "name": "Zelios, Master Architect",
+        "summary": "An elder Nosferatu who has spent centuries designing and building underground domains. He has influenced the architecture of major cities across Europe and North America, creating hidden spaces for Nosferatu broods.",
+        "role": "underground architect and domain builder",
+        "age_category": "elder",
+        "temperament": "patient, meticulous, proud of his work, disdainful of poor planning",
+        "possible_plots": [
+          "Zelios offers to help the coterie secure or expand their haven, but his designs include hidden passages and observation points that only he knows about. What are his true intentions?",
+          "Zelios reveals that a prominent city building was designed with occult geometry that now attracts dangerous phenomena. The coterie must help him reconfigure or sanctify it before disaster strikes.",
+          "Zelios's architectural plans for a new development threaten to expose an ancient Nosferatu warren. The coterie must help him sabotage the project or find a way to preserve the underground domain."
+        ]
+      },
+      {
+        "id": "nosferatu_loremaster_01",
+        "name": "Tusk, The Talebearer",
+        "summary": "A Nosferatu elder who serves as a living archive of clan history and legends. He memorizes and passes down oral traditions, serving as a bridge between generations of Nosferatu.",
+        "role": "historian, storyteller, and keeper of secrets",
+        "age_category": "elder",
+        "temperament": "patient, wise, concerned about the loss of oral tradition, protective of clan knowledge",
+        "possible_plots": [
+          "Tusk approaches the coterie with a legend that directly relates to their current situation, but the story has multiple versions. They must determine which is true and why it matters now.",
+          "Tusk's knowledge of ancient history reveals a connection between a coterie member's lineage and a forgotten conflict. This knowledge could be dangerous if revealed to the wrong people.",
+          "Tusk is dying (or going into torpor) and needs the coterie to help preserve his knowledge by finding a worthy successor or recording his stories in a secure location."
+        ]
+      },
+      {
+        "id": "nosferatu_cleopatra_01",
+        "name": "A Former Beauty, Now Cursed",
+        "summary": "A Nosferatu who was beautiful in life but is now trapped in a hideous form. She struggles between using Obfuscate to maintain her old identity and accepting her new reality.",
+        "role": "social manipulator and tragic figure",
+        "age_category": "neonate or ancilla",
+        "temperament": "bitter, vain, struggling with identity, sometimes compassionate despite her curse",
+        "possible_plots": [
+          "The Cleopatra offers to use her social connections (gained through Obfuscate) to help the coterie, but she demands they help her maintain her false identity in return. What happens when the deception is threatened?",
+          "The Cleopatra's struggle with her appearance leads her to seek dangerous solutions, such as Vicissitude or other body-altering powers. The coterie must decide whether to help or stop her.",
+          "The Cleopatra's false identity is discovered, and she needs the coterie's help to escape before her true nature is revealed to those who trusted her."
+        ]
+      },
+      {
+        "id": "nosferatu_dark_crusader_01",
+        "name": "A Vigilante Monster",
+        "summary": "A Nosferatu who uses their hideous appearance and knowledge to fight against injustice, often targeting predators who prey on the weak. They see the world in black and white, viewing themselves as a hero despite being a monster.",
+        "role": "vigilante and protector of the weak",
+        "age_category": "neonate or ancilla",
+        "temperament": "righteous, violent, self-righteous, potentially self-destructive",
+        "possible_plots": [
+          "The Dark Crusader begins hunting targets that the coterie needs alive or protected. They must find a way to stop the vigilante without becoming their next target.",
+          "The Dark Crusader's methods threaten to expose the Masquerade, and the coterie must either stop them or help them refine their approach to avoid detection.",
+          "The Dark Crusader asks the coterie to help them investigate a case of supernatural predation, but their methods are too extreme. The coterie must find a way to achieve justice without the Crusader's violence."
+        ]
+      },
+      {
+        "id": "nosferatu_brood_hen_01",
+        "name": "A Brood Organizer",
+        "summary": "A Nosferatu who believes the brood must always come first. They organize local Nosferatu, maintain information networks, and ensure the survival of their clan through unity and mutual support.",
+        "role": "brood leader and clan organizer",
+        "age_category": "ancilla",
+        "temperament": "organizing, political, clan-focused, sometimes manipulative for the 'greater good'",
+        "possible_plots": [
+          "The Brood Hen approaches the coterie with a request: help the local Nosferatu brood in exchange for information. But the favor becomes increasingly dangerous, and the coterie must decide how far they're willing to go.",
+          "The Brood Hen's organizing efforts conflict with sect politics, and the coterie gets caught in the middle. They must navigate between helping the Nosferatu and maintaining their own sect loyalties.",
+          "The Brood Hen's information network is threatened by an outside force, and they need the coterie's help to protect it. Failure could mean the loss of vital intelligence for the entire city."
+        ]
+      },
+      {
+        "id": "nosferatu_hive_master_01",
+        "name": "A Feral Nosferatu",
+        "summary": "A Nosferatu who has lost most of their humanity and now lives primarily through animal companions. They communicate through ghouled animals and rarely interact directly with other Kindred.",
+        "role": "animal controller and feral survivor",
+        "age_category": "neonate",
+        "temperament": "feral, animalistic, barely sentient, focused on survival and animal needs",
+        "possible_plots": [
+          "The Hive Master's animal spies discover something important, but communicating the information to the coterie is extremely difficult. They must find a way to understand the animal's message.",
+          "The Hive Master's ghouled animals begin attacking mortals, threatening the Masquerade. The coterie must find a way to stop the attacks without killing the Hive Master or their animals.",
+          "The Hive Master's spawning pool is discovered by mortals or other Kindred, and the coterie must help relocate or protect it before it's destroyed."
+        ]
+      },
+      {
+        "id": "nosferatu_research_specialist_01",
+        "name": "An Investigator of the Occult",
+        "summary": "A Nosferatu who specializes in investigating supernatural phenomena beyond vampiric society. They spend their nights researching strange events, tracking down clues, and uncovering hidden truths about the World of Darkness.",
+        "role": "occult investigator and researcher",
+        "age_category": "neonate or ancilla",
+        "temperament": "curious, methodical, tenacious, sometimes obsessive",
+        "possible_plots": [
+          "The Research Specialist discovers evidence of a supernatural threat that the coterie must help investigate. But the investigation leads to something far more dangerous than expected.",
+          "The Research Specialist's investigations attract unwanted attention from other supernatural beings (werewolves, mages, etc.), and the coterie must help them escape or negotiate peace.",
+          "The Research Specialist uncovers information about a coterie member's past or lineage that they'd rather keep hidden. The coterie must decide how to handle this revelation."
+        ]
+      },
+      {
+        "id": "nosferatu_sabbat_creep_01",
+        "name": "Caliban, Sabbat Crusader",
+        "summary": "A Sabbat Nosferatu who specializes in subterranean raids on Camarilla domains. She leads War Parties through underground tunnels, using her knowledge of sewers and hidden spaces to strike at the heart of enemy territory.",
+        "role": "Sabbat raider and underground warrior",
+        "age_category": "ancilla",
+        "temperament": "aggressive, fanatical, battle-hardened, loyal to the Sword of Caine",
+        "possible_plots": [
+          "Caliban's pack plans a raid on a Camarilla domain that the coterie needs to protect. They must find a way to stop the raid or negotiate a truce before blood is spilled.",
+          "Caliban approaches the coterie with an offer: help her raid a rival Sabbat pack's underground domain in exchange for information or resources. But the raid is more dangerous than expected.",
+          "Caliban's raids have been too successful, and she's attracted the attention of something ancient and dangerous in the underground. The coterie must help her survive or escape."
+        ]
+      },
+      {
+        "id": "nosferatu_elder_01",
+        "name": "Khalid, Nosferatu Primogen",
+        "summary": "An elder Nosferatu who serves as primogen of Chicago, having spent centuries searching for Golconda. He's a master of Kindred politics but is now ready to leave again in pursuit of deeper mysteries.",
+        "role": "political elder and seeker of Golconda",
+        "age_category": "elder",
+        "temperament": "wise, patient, politically savvy, spiritually focused, ready to move on",
+        "possible_plots": [
+          "Khalid approaches the coterie with information about Golconda or other deep mysteries, but helping him requires them to take on responsibilities he's leaving behind.",
+          "Khalid's departure from city politics creates a power vacuum that the coterie must navigate. Other Nosferatu and Kindred factions compete for his position and resources.",
+          "Khalid's search for Golconda leads him into danger, and the coterie must help him survive or complete his quest. But the quest may require sacrifices they're not willing to make."
+        ]
+      },
+      {
+        "id": "nosferatu_skin_01",
+        "name": "An Impersonator and Spy",
+        "summary": "A Nosferatu who uses Obfuscate to impersonate others, living a life of deception and false identities. They may serve as a spy, double agent, or information gatherer, constantly shifting between personas.",
+        "role": "spy, infiltrator, and master of deception",
+        "age_category": "neonate or ancilla",
+        "temperament": "deceptive, adaptable, paranoid about discovery, struggling with identity",
+        "possible_plots": [
+          "The Skin is discovered while impersonating someone important, and the coterie must help them escape or cover up the deception before it causes a major incident.",
+          "The Skin offers to help the coterie by impersonating an enemy, but the deception becomes more complex than expected, and they must maintain the charade under increasing scrutiny.",
+          "The Skin's multiple identities begin to conflict, and they're losing track of who they really are. The coterie must help them find their true identity or risk them going completely insane."
+        ]
+      },
+      {
+        "id": "nosferatu_leper_messiah_01",
+        "name": "A Street Prophet",
+        "summary": "A Nosferatu who lives among the homeless and outcasts, creating a blood cult of ghouled followers. They see themselves as a messiah figure, offering meaning to those who have been cast aside by society.",
+        "role": "cult leader and street operator",
+        "age_category": "neonate",
+        "temperament": "charismatic, manipulative, self-righteous, potentially delusional",
+        "possible_plots": [
+          "The Leper Messiah's cult begins attracting unwanted attention from mortals or other Kindred, threatening the Masquerade. The coterie must help them go underground or disband the cult.",
+          "The Leper Messiah's followers begin committing crimes in their name, and the coterie must find a way to stop the violence without destroying the cult leader or their followers.",
+          "The Leper Messiah claims to have received a vision or prophecy that directly involves the coterie. They must determine whether the vision is real or just manipulation, and what it means for their future."
+        ]
+      }
+    ]
+  }
+
+
+

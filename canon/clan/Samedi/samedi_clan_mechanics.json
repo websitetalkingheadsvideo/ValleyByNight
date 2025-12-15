@@ -1,0 +1,181 @@
+{
+    "clan": "Samedi",
+    "internal_name": "Samedi",
+    "book_title": "Bloodline Book: Samedi",
+    "edition": "Bloodline Book",
+    "mechanics": {
+      "clan_weakness": {
+        "name": "Horrific Appearance",
+        "type": "clan_weakness",
+        "tags": ["tabletop", "clan_weakness", "appearance", "social"],
+        "system_text": "Samedi are trapped in a state of rapid decomposition. Their bodies are rotting, their flesh is soft and leaks infectious-looking ooze, their hair is brittle and may fall out, their lips recede from their gums, their noses drop off, and their eyes sink deep in their sockets and may roll independently. They also emit a constant stench of decay. This appearance makes it nearly impossible for them to pass as living mortals, and they suffer severe social penalties. Elder Samedi (6th generation or older) have dried out, becoming leathery and emaciated, which reduces but does not eliminate the smell.",
+        "source_page": null,
+        "larp_status": "not_mapped",
+        "larp_reference": null,
+        "vbn_notes": "This weakness reflects the Samedi's nature as a failed experiment. In VbN, this creates opportunities for social challenges, the need for Obfuscate or disguises, and the tension between their utility and their appearance. Storytellers should use this weakness to create situations where the Samedi's appearance becomes a problem or an advantage."
+      },
+      "disciplines": [
+        {
+          "name": "Thanatosis",
+          "type": "discipline",
+          "tags": ["tabletop", "bloodline_unique", "death", "decay"],
+          "notes": "The signature Discipline of the Samedi, Thanatosis allows them to manipulate death, decay, and disease. It grants them abilities related to causing decay, spreading disease, and controlling the process of death and decomposition.",
+          "powers": [
+            {
+              "name": "Touch of Decay",
+              "rating": 1,
+              "system_text": "Allows the Samedi to accelerate decay in organic matter, causing rapid aging, rot, or decomposition. This power can be used on living or dead matter, and it can spread disease or cause illness.",
+              "tags": ["tabletop", "discipline_power", "decay", "disease"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Used to cause decay, spread disease, or create dramatic effects. Essential for the Samedi's role as embodiments of death and decay."
+            },
+            {
+              "name": "Stench of Death",
+              "rating": 2,
+              "system_text": "Allows the Samedi to intensify their natural stench, causing nausea, weakness, or even unconsciousness in those who are exposed to it. This power can be used to clear areas, intimidate enemies, or create distractions.",
+              "tags": ["tabletop", "discipline_power", "social", "intimidation"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Used to intimidate, clear areas, or create distractions. Essential for the Samedi's survival and their role as outcasts."
+            },
+            {
+              "name": "Disease",
+              "rating": 3,
+              "system_text": "Allows the Samedi to cause or spread disease, creating illnesses that can weaken, disable, or kill their targets. This power can be used to create plagues, spread infections, or cause specific diseases.",
+              "tags": ["tabletop", "discipline_power", "disease", "dangerous"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Used to cause disease, create plagues, or eliminate targets. Essential for the Samedi's role as embodiments of death and decay. Should be used with care and clear narrative purpose."
+            }
+          ]
+        },
+        {
+          "name": "Necromancy",
+          "type": "discipline",
+          "tags": ["tabletop", "giovanni_heritage", "death", "spirits"],
+          "notes": "The Samedi retain the Necromancy Discipline from their Giovanni origins, allowing them to communicate with the dead, manipulate wraiths, and work with the spirit world. This Discipline is essential for their connection to voodoo and the world of the dead.",
+          "powers": []
+        },
+        {
+          "name": "Obfuscate",
+          "type": "discipline",
+          "tags": ["tabletop", "stealth", "survival"],
+          "notes": "The Samedi use Obfuscate to hide their appearance and move unseen, essential for their survival. This Discipline may have been taught to them by empathetic Nosferatu, or it may have developed naturally as a survival mechanism.",
+          "powers": []
+        }
+      ],
+      "rituals": [
+        {
+          "name": "Voodoo Rituals",
+          "type": "ritual",
+          "tags": ["tabletop", "voodoo", "spirit_work", "cultural"],
+          "system_text": "Samedi practice various voodoo rituals, including ceremonies to call upon spirit guides, curses to harm enemies, geases to protect allies, and scryings to gain information. These rituals require specific components, timing, and often the participation of multiple Samedi or mortal practitioners.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Used to connect with the spirit world, gain power, and protect themselves and their employers. Creates opportunities for stories about voodoo, spirit guides, and the world of the dead."
+        },
+        {
+          "name": "Candomble",
+          "type": "ritual",
+          "tags": ["tabletop", "gathering", "cultural", "annual"],
+          "system_text": "The annual gathering of Samedi in Brazil or Louisiana, where they perform voodoo ceremonies, share information, and celebrate their bloodline. This gathering is held in secret locations, with elaborate security measures to protect the participants.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "The core of Samedi culture and tradition. Used to bring the bloodline together, share knowledge, and perform important rituals. Creates opportunities for stories about gathering, conflict, and discovery."
+        }
+      ],
+      "merits_and_flaws": [
+        {
+          "name": "Brittle Bones",
+          "type": "flaw",
+          "cost": 2,
+          "category": "physical",
+          "tags": ["tabletop", "flaw", "physical", "vulnerability"],
+          "system_text": "The Samedi's bones are brittle and fragile, making them more susceptible to breaking. They suffer additional damage from physical attacks and may have difficulty with certain physical activities.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Samedi's state of decomposition. Used to create limitations and vulnerabilities. Should be used to create tension and story hooks."
+        },
+        {
+          "name": "Truly Disgusting",
+          "type": "flaw",
+          "cost": 3,
+          "category": "social",
+          "tags": ["tabletop", "flaw", "social", "appearance"],
+          "system_text": "The Samedi's appearance is so horrific that it causes severe social penalties and may make it impossible to interact with mortals or other Kindred without causing panic or revulsion.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Samedi's horrific appearance. Used to create social challenges and limitations. Should be used to create tension and story hooks."
+        },
+        {
+          "name": "Rotting Flesh",
+          "type": "flaw",
+          "cost": 2,
+          "category": "physical",
+          "tags": ["tabletop", "flaw", "physical", "appearance"],
+          "system_text": "The Samedi's flesh is soft and leaks infectious-looking ooze whenever under stress. This makes it difficult to maintain disguises, interact with others, or perform certain physical activities.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Samedi's state of decomposition. Used to create limitations and complications. Should be used to create tension and story hooks."
+        },
+        {
+          "name": "Spirit Guide",
+          "type": "merit",
+          "cost": 3,
+          "category": "supernatural",
+          "tags": ["tabletop", "merit", "voodoo", "spirit"],
+          "system_text": "The Samedi has a connection to a specific spirit guide or voodoo loa, who provides guidance, protection, and power. This connection comes with obligations and risks, as the spirit may demand service or sacrifice.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Samedi's connection to voodoo and the spirit world. Used to provide power and knowledge, but also creates obligations and risks. Should be used to create story hooks and complications."
+        },
+        {
+          "name": "Wraith Affinity",
+          "type": "merit",
+          "cost": 2,
+          "category": "supernatural",
+          "tags": ["tabletop", "merit", "necromancy", "wraiths"],
+          "system_text": "The Samedi has a natural affinity for wraiths and the Restless Dead, making it easier to communicate with them and gain their cooperation.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Samedi's connection to death and the spirit world. Used to provide advantages in dealing with wraiths and the dead. Should be used to create story hooks and opportunities."
+        }
+      ],
+      "social_structures": [
+        {
+          "name": "The Candomble",
+          "type": "social_structure",
+          "tags": ["tabletop", "gathering", "tradition", "culture"],
+          "system_text": "The annual gathering of Samedi in Brazil or Louisiana, where they perform voodoo ceremonies, share information, and celebrate their bloodline. This gathering is held in secret locations, with elaborate security measures to protect the participants.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Samedi's culture and tradition. Used to bring the bloodline together and create opportunities for story. Creates opportunities for gathering, conflict, and discovery."
+        },
+        {
+          "name": "Information Networks",
+          "type": "social_structure",
+          "tags": ["tabletop", "networks", "survival", "utility"],
+          "system_text": "Samedi maintain networks of contacts and sources, using information as both currency and protection. These networks are essential for their survival, as they allow them to collect and trade secrets that keep them valuable and protected.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Samedi's focus on survival through utility. Used to provide information and resources, but also creates vulnerabilities if the networks are threatened or destroyed. Should be used to create story hooks and opportunities."
+        }
+      ]
+    }
+  }
+
+
+

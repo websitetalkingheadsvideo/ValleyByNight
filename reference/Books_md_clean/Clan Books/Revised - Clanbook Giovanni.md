@@ -1,5 +1,3 @@
---- book_title: "Revised - Clanbook Giovanni" clan: "" edition: "" source_type: "clanbook" extraction_pipeline: "docling_v1 + markdown_cleanup_v1" ---
-
 <!-- image -->
 
 C     l     a     n     B     o     o     K     :
@@ -52,7 +50,7 @@ This book uses the supernatural for settings, characters and  themes.  All  myst
 
 For a free White Wolf catalog call 1-800-454-WOLF.
 
-Check out White Wolf online at http://www. white-wolf. com;  alt. games. whitewolf  and rec. games. frp. storyteller
+Check out White Wolf online at http://www.white-wolf.com;  alt.games.whitewolf  and rec.games.frp.storyteller
 
 PRINTED IN USA.
 
@@ -788,7 +786,7 @@ Giovanni in Venice, the Pisanob in Tenochtitlan. And both used the dark arts of 
 
 These guys are great. I've never met a Giovanni… hell, I never met a damn Putanesca who could hold a grudge like Francis Milliner.
 
-It  all  started  in  Boston,  Massachusetts,  at  the Columbia Trust Company in the early 20th century. It  seems  Francis  was  up  for  the  presidency  of  the company when the current one, P. J. Kennedy (yes, of those Kennedys), retired. But lo and behold, nepotism
+It  all  started  in  Boston,  Massachusetts,  at  the Columbia Trust Company in the early 20th century. It  seems  Francis  was  up  for  the  presidency  of  the company when the current one, P.J. Kennedy (yes, of those Kennedys), retired. But lo and behold, nepotism
 
 <!-- image -->
 
@@ -950,7 +948,7 @@ Furthermore, the wreckage on the other side of the Shroud means no one's minding
 
 The  Necromancers  aren't  the  only  ones  taking advantage of anarchy in the realms of the dead. The Underworld organization that forbade wraiths from taking action in the world of the living (such as possessing mortals, becoming visible, throwing dishes around and pulling  similar  'Amityville  Horror'  stunts)  seems  to have been blown to smithereens. That means the ghost society's equivalent of the Masquerade just went right down the toilet. So, not only are wraith Giovanni able to act with far less discretion or fear of reprisal on their side of the sudario , many other spiriti are being much more obvious as well. That makes it particularly easy to find them - especially if you're a well-connected expert with centuries of experience.
 
-Consequently, most of the Giovanni elders see the glass as half full. They bought, bribed and blackmailed their way into a number of businesses that previously weren't worth the effort. Specifically, they initiated a hostile takeover of Kopagni Ergonomika in Europe and  they've  founded  Dunsirn  Ergonic  Consultants in the U. S. They've also bought controlling interest in a number of small surveying firms throughout the Western world.
+Consequently, most of the Giovanni elders see the glass as half full. They bought, bribed and blackmailed their way into a number of businesses that previously weren't worth the effort. Specifically, they initiated a hostile takeover of Kopagni Ergonomika in Europe and  they've  founded  Dunsirn  Ergonic  Consultants in the U.S. They've also bought controlling interest in a number of small surveying firms throughout the Western world.
 
 These businesses provide two critical elements in the Giovanni quest to find these new 'hot zones' of spettro and spirito infestation:  Contacts and pretexts. Have people in your office building suddenly started complaining of weird noises, strange smells, unusual problems with the office equipment? ('Hey, the water cooler didn't use to sound like it was screaming. ') Must be air trapped in the water pipes, or a fungus problem on the flip side of the drop ceiling, or mildly toxic reactant in the synthetic carpet. Better call in Kompagni Ergonomika. After all, they did a great job when the Grodschmidt Building had that weird stuff that looked like blood running down the walls.
 
@@ -998,7 +996,7 @@ To this end, the anziani appasionati seek areas of violence,  tension  and  unre
 
 Similarly, China is a tough nut to crack. It would be an ideal tool for starting a massive war: It's got a gigantic standing army, and (thanks to abortion, infanticide and a culture that exalts male offspring) far more unmarried men in their twenties and late teens than women for them to wed. Historically, that's the recipe for a war of conquest. But again the Cathayans stand between the Giovanni and a ripe situation. Agents keep going into China, and sometimes they're successful - after all, it's a big country and the Kindred of the East can't be everywhere - but they're nowhere near amassing the influence they'd need to provoke a war.
 
-As for the more hospitable Western world, the U. S. Is too fat, happy and TV-sedated to involve itself in anything of the scale the anxious elders desire. South America and Africa are both very promising, but  only  in  the  sense  of  having  many  small-scale actions  -  and  no  one  there  is  going  nuclear.  The Giovanni are working harder than ever to do their part in the flow of cheap weapons into these regions, and the collapse of the Soviet Union has made that a lot simpler. But when it comes to actually moving fissionable material from the former USSR into the hands of someone extremist enough to use it… well,
+As for the more hospitable Western world, the U.S. is too fat, happy and TV-sedated to involve itself in anything of the scale the anxious elders desire. South America and Africa are both very promising, but  only  in  the  sense  of  having  many  small-scale actions  -  and  no  one  there  is  going  nuclear.  The Giovanni are working harder than ever to do their part in the flow of cheap weapons into these regions, and the collapse of the Soviet Union has made that a lot simpler. But when it comes to actually moving fissionable material from the former USSR into the hands of someone extremist enough to use it… well,
 
 <!-- image -->
 
@@ -2852,7 +2850,7 @@ Dexterous
 
 \_\_\_\_\_\_\_\_\_
 
-,  Mentor  x  1/. notdef
+,  Mentor  x  1/.notdef
 
 Resources  x  2
 
@@ -8067,7 +8065,7 @@ W W W . W H I T E -W O L F . C O M
 
 ISBN 1-58846-207-2
 
-WW2363  $14.95 U. S.
+WW2363  $14.95 U.S.
 
 PRINTED IN USA
 

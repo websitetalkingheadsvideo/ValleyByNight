@@ -1,0 +1,281 @@
+{
+  "anchors_to_entities": {
+    "vbn:clan:brujah:brujah:1f68e056": {
+      "domain": "clan",
+      "entity": "Brujah",
+      "file": "Anarch Guide.md"
+    },
+    "vbn:clan:thin-blooded:thin-blooded:eb414e45": {
+      "domain": "clan",
+      "entity": "Thin-Blooded",
+      "file": "Anarch Guide.md"
+    },
+    "vbn:discipline:animalism:animalism:22c07233": {
+      "domain": "discipline",
+      "entity": "Animalism",
+      "file": "Anarch Guide.md"
+    },
+    "vbn:discipline:auspex:auspex:4cd83167": {
+      "domain": "discipline",
+      "entity": "Auspex",
+      "file": "Anarch Guide.md"
+    },
+    "vbn:discipline:celerity:celerity:b6089344": {
+      "domain": "discipline",
+      "entity": "Celerity",
+      "file": "Anarch Guide.md"
+    },
+    "vbn:discipline:chimerstry:chimerstry:5429339c": {
+      "domain": "discipline",
+      "entity": "Chimerstry",
+      "file": "Anarch Guide.md"
+    },
+    "vbn:discipline:dementation:dementation:d6969244": {
+      "domain": "discipline",
+      "entity": "Dementation",
+      "file": "Anarch Guide.md"
+    },
+    "vbn:discipline:dominate:dominate:349a78ad": {
+      "domain": "discipline",
+      "entity": "Dominate",
+      "file": "Anarch Guide.md"
+    },
+    "vbn:discipline:fortitude:fortitude:ec0a2e78": {
+      "domain": "discipline",
+      "entity": "Fortitude",
+      "file": "Anarch Guide.md"
+    },
+    "vbn:discipline:obfuscate:obfuscate:d68d1078": {
+      "domain": "discipline",
+      "entity": "Obfuscate",
+      "file": "Anarch Guide.md"
+    },
+    "vbn:discipline:potence:potence:9f78fcc8": {
+      "domain": "discipline",
+      "entity": "Potence",
+      "file": "Anarch Guide.md"
+    },
+    "vbn:discipline:presence:presence:89b2caf2": {
+      "domain": "discipline",
+      "entity": "Presence",
+      "file": "Anarch Guide.md"
+    },
+    "vbn:discipline:protean:protean:2ea8c07c": {
+      "domain": "discipline",
+      "entity": "Protean",
+      "file": "Anarch Guide.md"
+    },
+    "vbn:discipline:quietus:quietus:376ca5cf": {
+      "domain": "discipline",
+      "entity": "Quietus",
+      "file": "Anarch Guide.md"
+    },
+    "vbn:discipline:thaumaturgy:thaumaturgy:0000cf89": {
+      "domain": "discipline",
+      "entity": "Thaumaturgy",
+      "file": "Anarch Guide.md"
+    },
+    "vbn:boon:boon system:boon-system:254c14ef": {
+      "domain": "boon",
+      "entity": "Boon System",
+      "file": "Anarch Guide.md"
+    },
+    "vbn:morality:morality:morality:b07f3c2d": {
+      "domain": "morality",
+      "entity": "Morality",
+      "file": "Anarch Guide.md"
+    },
+    "vbn:morality:humanity:humanity:e2d57f7b": {
+      "domain": "morality",
+      "entity": "Humanity",
+      "file": "Anarch Guide.md"
+    },
+    "vbn:status:influence:influence:7a856d96": {
+      "domain": "status",
+      "entity": "Influence",
+      "file": "Apocalypse.md"
+    },
+    "vbn:influence:influence system:influence-system:a0267299": {
+      "domain": "influence",
+      "entity": "Influence System",
+      "file": "Apocalypse.md"
+    },
+    "vbn:clan:toreador:toreador:a2e31350": {
+      "domain": "clan",
+      "entity": "Toreador",
+      "file": "Art of V ampire - The Masquerade.md"
+    },
+    "vbn:morality:path:path:07f0940a": {
+      "domain": "morality",
+      "entity": "Path",
+      "file": "Art of V ampire - The Masquerade.md"
+    },
+    "vbn:clan:gangrel:gangrel:c260df0a": {
+      "domain": "clan",
+      "entity": "Gangrel",
+      "file": "Blood Magic - Secrets of Thaumaturgy.md"
+    },
+    "vbn:clan:tremere:tremere:77462964": {
+      "domain": "clan",
+      "entity": "Tremere",
+      "file": "Blood Magic - Secrets of Thaumaturgy.md"
+    },
+    "vbn:clan:samedi:samedi:a9c5f152": {
+      "domain": "clan",
+      "entity": "Samedi",
+      "file": "Blood Magic - Secrets of Thaumaturgy.md"
+    },
+    "vbn:clan:assamite:assamite:37514ae6": {
+      "domain": "clan",
+      "entity": "Assamite",
+      "file": "Blood Magic - Secrets of Thaumaturgy.md"
+    },
+    "vbn:discipline:necromancy:necromancy:b04635dc": {
+      "domain": "discipline",
+      "entity": "Necromancy",
+      "file": "Blood Magic - Secrets of Thaumaturgy.md"
+    },
+    "vbn:clan:malkavian:malkavian:27bd819c": {
+      "domain": "clan",
+      "entity": "Malkavian",
+      "file": "Book of the Damned.md"
+    },
+    "vbn:clan:nosferatu:nosferatu:d7f2273f": {
+      "domain": "clan",
+      "entity": "Nosferatu",
+      "file": "Book of the Damned.md"
+    },
+    "vbn:clan:ventrue:ventrue:68f97429": {
+      "domain": "clan",
+      "entity": "Ventrue",
+      "file": "Book of the Damned.md"
+    },
+    "vbn:clan:caitiff:caitiff:75cc1ef9": {
+      "domain": "clan",
+      "entity": "Caitiff",
+      "file": "Book of the Damned.md"
+    },
+    "vbn:role:prince:prince:96722768": {
+      "domain": "role",
+      "entity": "Prince",
+      "file": "Book of the Damned.md"
+    },
+    "vbn:role:primogen:primogen:b732fcb3": {
+      "domain": "role",
+      "entity": "Primogen",
+      "file": "Book of the Damned.md"
+    },
+    "vbn:role:justicar:justicar:922e2fc8": {
+      "domain": "role",
+      "entity": "Justicar",
+      "file": "Book of the Damned.md"
+    },
+    "vbn:clan:lasombra:lasombra:d5b1f712": {
+      "domain": "clan",
+      "entity": "Lasombra",
+      "file": "Counsel of Primogen.md"
+    },
+    "vbn:clan:giovanni:giovanni:65bca33a": {
+      "domain": "clan",
+      "entity": "Giovanni",
+      "file": "Counsel of Primogen.md"
+    },
+    "vbn:clan:ravnos:ravnos:08ff1115": {
+      "domain": "clan",
+      "entity": "Ravnos",
+      "file": "Counsel of Primogen.md"
+    },
+    "vbn:role:whip:whip:6ed56fed": {
+      "domain": "role",
+      "entity": "Whip",
+      "file": "Counsel of Primogen.md"
+    },
+    "vbn:role:harpy:harpy:a4be6809": {
+      "domain": "role",
+      "entity": "Harpy",
+      "file": "Counsel of Primogen.md"
+    },
+    "vbn:role:sheriff:sheriff:dde89700": {
+      "domain": "role",
+      "entity": "Sheriff",
+      "file": "Counsel of Primogen.md"
+    },
+    "vbn:role:archon:archon:03756b1c": {
+      "domain": "role",
+      "entity": "Archon",
+      "file": "Counsel of Primogen.md"
+    },
+    "vbn:clan:followers of set:followers-of-set:3308ac0b": {
+      "domain": "clan",
+      "entity": "Followers Of Set",
+      "file": "Journal 8.md"
+    },
+    "vbn:clan:salubri:salubri:3bd008c2": {
+      "domain": "clan",
+      "entity": "Salubri",
+      "file": "Laws of Ascension.md"
+    },
+    "vbn:clan:tzimisce:tzimisce:2becf346": {
+      "domain": "clan",
+      "entity": "Tzimisce",
+      "file": "Laws of Ascension.md"
+    },
+    "vbn:clan:cappadocian:cappadocian:8dd72319": {
+      "domain": "clan",
+      "entity": "Cappadocian",
+      "file": "Laws of Ascension.md"
+    },
+    "vbn:discipline:obeah:obeah:9ecacbdf": {
+      "domain": "discipline",
+      "entity": "Obeah",
+      "file": "Laws of Ascension.md"
+    },
+    "vbn:discipline:serpentis:serpentis:862e3279": {
+      "domain": "discipline",
+      "entity": "Serpentis",
+      "file": "Laws of Ascension.md"
+    },
+    "vbn:discipline:vicissitude:vicissitude:bf1dbef8": {
+      "domain": "discipline",
+      "entity": "Vicissitude",
+      "file": "Laws of Ascension.md"
+    },
+    "vbn:discipline:valeren:valeren:648ef2e8": {
+      "domain": "discipline",
+      "entity": "Valeren",
+      "file": "Laws of Ascension.md"
+    },
+    "vbn:status:status:status:c90a84b0": {
+      "domain": "status",
+      "entity": "Status",
+      "file": "Laws of Ascension.md"
+    },
+    "vbn:role:seneschal:seneschal:f9818d03": {
+      "domain": "role",
+      "entity": "Seneschal",
+      "file": "Laws of the Night (1st Edition).md"
+    },
+    "vbn:role:keeper of elysium:keeper-of-elysium:2272e6bf": {
+      "domain": "role",
+      "entity": "Keeper Of Elysium",
+      "file": "Laws of the Night (1st Edition).md"
+    },
+    "vbn:role:scourge:scourge:1a26ba57": {
+      "domain": "role",
+      "entity": "Scourge",
+      "file": "Laws of the Night (1st Edition).md"
+    },
+    "vbn:clan:baali:baali:d9e29121": {
+      "domain": "clan",
+      "entity": "Baali",
+      "file": "Laws of the Resurrection.md"
+    },
+    "vbn:morality:degeneration:degeneration:2d28ddab": {
+      "domain": "morality",
+      "entity": "Degeneration",
+      "file": "Long Night.md"
+    }
+  },
+  "entities_to_dictionaries": {},
+  "file_references": {}
+}

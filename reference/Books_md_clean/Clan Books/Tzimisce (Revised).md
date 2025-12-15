@@ -1,10 +1,30 @@
-# INTRODUCTION:WINTERFIEND
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+INTRODUCTION:WINTERFIEND
 
 CHADTERONE:ARABBLEOFFIENDS
 
 CHAPTERTWO:EGOANDEVOLUTION
 
 CHAPTERTHREE:AMONGFIENDS
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
 
 pwer oreritrial hldingsoften use thistile,though young clanmembers shy away from suchepitaphs gadrgajoint family,whereby all the relativesof therulerlivetetherunder strictfamilialbondsAlso, the ancient name forrevennt familis still used tonight byelderTeimisce
 
@@ -26,7 +46,7 @@ Throughffor and force of will,Ynosh focused the most proteanandprmordial seeds o
 
 Conversely,he Edestsensed the charge initselfadin otherCainiteneofinutemetamophss goaded by the Beast.Ar first the Ekest's rhirt allewed i o sup fom the necks of mortal and beast alikeThen, its thirst demued more.No longer satisfied with one vessel or  score cf herds the Eldest longedforthickerandricherblood itkrewonly its progeny would evenmlly sarisfy itTheEldest realced the burden ofdrinking bloodwould only worsen withcach decade.Eventually,the thirst woud preclude the bld of arimalvesses an that of mrtlsOnly the itanicideof progeny couldsustainheEldest,nd whenthatme ende the Eldest itlf would perish.
 
-The Eldest counted itself among the first Antediluvians,thoughitremainedapartfrom them.In its eyes.the otherCainites stagnatd indevelopment.They whentheir siresEmbraced them.The Eldest,on the othet handanracleinitsmoal days,xpressed thegmut f cvolution's whims with wontous lourish.It became the yesterday,wand tmorrow ofhumanitysprogre becoming insteadof foretelling.ltsaw where destiny intended them to go. Caineschilder and gandchilder. however,osednosuchproiseMoralsgrewston get,whileweremainedstagnantcrgrewweaker.Eventually, mortals would rule,foncing the Damned to hide in their shadows.Thar was inevitable.
+The Eldest counted itself among the first Antediluvians,thoughitremainedapartfrom them.In its eyes.the otherCainites stagnatd indevelopment.They whentheir siresEmbraced them.The Eldest,on the othet handanracleinitsmoal days,xpressed thegmut f cvolution's whims with wontous lourish.It became the yesterday,wand tmorrow ofhumanitysprogre becoming insteadof foretelling.ltsaw where destiny intended them to go. Caineschilder and gandchilder. however,ossssednosuchproiseMoralsgrewston get,whileweremainedstagnantcrgrewweaker.Eventually, mortals would rule,foncing the Damned to hide in their shadows.Thar was inevitable.
 
 Distraught over its tethered existence,the Eldest spentamortal'sageinsclusinandmeditatinshifting
 
@@ -38,7 +58,7 @@ and flying through shapes ofmortaland legend alike, sekingoutaform freeoftheaccu
 
 ## LEAVINGENOCH
 
-Unlike itsgrowingflock ofcousins,the Eldesthadno intcrest in guidingthe mortal massesor glorifyingCaines ame.More st didotapire t ptect the kinenot when they were both food and canvas to it.The others frowned when the Eldest demonstrated how easily it plyedwoveand laced thetr flesh and sinewlike yarnon alcom.Theybemoaneditsgiftsafterittwisted [Nosferaru's] flesh nto the hideousmockery of beautynowshared by the cnitire clanThey secretly consorted withitasTorea dor]had done to earn her uncanny elegance The Eldest existedamongtheunimaginative,whileirssiblingsBrujah nd Mekhet played shadowgames with mortals.delight ing in their own cung and agendas.
+Unlike itsgrowingflock ofcousins,the Eldesthadno intcrest in guidingthe mortal massesor glorifyingCaines ame.More st didotapire t ptect the kinenot when they were both food and canvas to it.The others frowned when the Eldest demonstrated how easily it plyedwoveand laced thetr flesh and sinewlike yarnon alcom.Theybemoaneditsgiftsafterittwisted [Nosferaru's] flesh nto the hideousmockery of beautynowshared by the cnitire clanThey secretly consorted withitasTorea dor]had done to earn her uncanny elegance The Eldest existedamongtheunimaginative,whileirssiblingsBrujah nd Mekhet played shadowgames with mortals.delight ing in their own cunnng and agendas.
 
 The Eldst journeyed the land befre humunity named temfollowing whereitsatrophyinggiftsasseer nudged it.It first ventured east,to the birthplace of the sun,where tcursedKartarirya with unlife.I Emhraced not fom loneliness(in itself,it hadall the companyit wished）,bur hecause it needed vessels through which t explore the infinite possibilities and forms of adaptation. WithKartariryaheEldestsveresability toshre itprgnys seses.Thus,in each of its ffspringthe Eldest bestowed a multtudeofcurses beyond damning them with unlife. lt divested in therm a portion of its mutablespitiintheformofasacrament,itsownflesh.lts
 
@@ -62,7 +82,7 @@ Having learneditslesson from Gallod,the Eldest gatheredribesof mortalsduringitst
 
 ## DLANTINGTHESEUD
 
-Awarning toyou Sabhar Tirmsce: Within in uis allishe Bloodofthegreat sireitslf.ltan amost mutble essence coupled withrhe greatest responsibility.WeareTrojan Horsesforour mastet, and ifyou ever attina newunderstandingofour existence,the Antediluvian may rise within you and take form.Ths isnota loss,buta blessing,or you ate rcuning o the gestait existence of One Fleshthatcxited before.heEldestmadeyouory fs.Youare blessed to retum into the whole.The other chans breed like a disease.but we all come from Teimiscel.That swhywe.claumnoreal fealty toCainewhodid nomorethandoom mortalswith nKiss.That isGod'scutse and not Caine'sgift The Ellest willingly crearedns of its own flesh and endows each of us with its essenceWhete do you think the feshcrafting art comes from?ltis [T=imisce| sharing irs wisdom with you.Perhaps thatswhy some ofcurmcreancientmemhershave nhandoned the mutableway.They know the art but areferfulofit,lest they stir the slumbering Antediluvianwithin their breast.
+Awarning toyou Sabhar Tirmsce: Within in uis allishe Bloodofthegreat sireitslf.ltan amost mutble essence coupled withrhe greatest responsibility.WeareTrojan Horsesforour mastet, and ifyou ever attina newunderstandingofour existence,the Antediluvian may rise within you and take form.Ths isnota loss,buta blessing,or you ate rcuning o the gestait existence of One Fleshthatcxited before.heEldestmadeyouorrry fs.Youare blessed to retum into the whole.The other chans breed like a disease.but we all come from Teimiscel.That swhywe.claumnoreal fealty toCainewhodid nomorethandoom mortalswith nKiss.That isGod'scutse and not Caine'sgift The Ellest willingly crearedns of its own flesh and endows each of us with its essenceWhete do you think the feshcrafting art comes from?ltis [T=imisce| sharing irs wisdom with you.Perhaps thatswhy some ofcurmcreancientmemhershave nhandoned the mutableway.They know the art but areferfulofit,lest they stir the slumbering Antediluvianwithin their breast.
 
 theeastEnoch still flourishedand its hos childer re maned close chough to touch Caine's shadow.Europe wakatena to the Trimisce lone. Hence,the clan knew these domainsas its own before cthers did. Icspread across the Great Eurpean Plain thiat stretched from Eastern Siberin.acrosstheUral and he Volga Basin to finally touch the virgin shores of the Atlantic.The Tsimisce chose their land wellfor the rbes spreading west ed thie European Plain and Danune Basin to disperse across the continen.In particular,the plains south of the Invielable Pripet Marshes and those tthof the Pindus Range became the twin ateries for kine tribes moving trough theregionThe fistofthe Carpathins provided achokehold onthetraffic with thePindus Mountains in Greece and the tcy shoresof the Baltic
 
@@ -116,6 +136,8 @@ Lmhach Rhen is fairly righeos,bt partof me thinks he'sheen smokmgcrackout ofbabi
 
 G
 
+<!-- image -->
+
 ## THEELDEST SFATEAND THECHILDRENOFDRACON
 
 Rise,ChildofDracoforIspeak ofourProgenitor TheElestddindeedprisdrngSaisatackt what isdesnction toa creatre oirspwerThe Progeritor survived through cachseed tharit implanted within its pogeny upm the Emhrace and within the progenyofitsprageny.ltnolongereeded itsownfcm foritcouldtakeshapewithineachofusfitsowishe On Cyprus,theDraconfelt heElst awaken and gow within his belly.The Dtacon took care to nurture the newly risen ProgenitotAfter birthing itthe Dracon suggledthefetalAnredllrvianbacktotheCarpuhians md placedrunder the MerhuselahYorakscaredeep within the bowelscf the tountains.
@@ -126,7 +148,7 @@ ward Volga Basin remaincd Fiend territory,butthe clari still putsued isolationis
 
 While the torpid embryo leptand gewin the befouled soil like a sced,the demon Kupalawhispeted Inro the Eldest'sears.ms it had done with Yorik.To whar avail,I know not, but few can withstandcenturiesof discourse with demons and come away untouched. Suffice it to say that our understanding ofloldontcwaysbecame far greater. Asthesoil and flo otted further,our familarity with the demonspathsgrew cffortless.Thar iswhy the Children of Dracon donot tap the fetid magics of Kupala.That wasnot a giftof [Timisce]itself and cane only through amaligrunt demon whose touch never left the Romanian soil.
 
-looktspecisjoalhenhewsntdnd there's sumeeild shit  there.Heclams he sauLugoj Blood-beaker commitAmaranthontheEldestitself before the Antediian ent ahead and pulled a fast ne n him. That meas that Lugo,whos  torpor someuhere in the Carpathians.is acnally Tzimisce now.All right,cool, whatever.Later.Lnbachellsme theEldest'samutated fckingpatchofcut-of-control cannabis leingbeneathNew Yrlndspreading throghthesewerslikeaweedIkw, tohisosliemostnd hitbyogot tespect the factthatwecan do some scary-ass stuff. Labuch'aleeasneofwtngsmeeookabig hitoffthababybutortuo,thlgendssireoldsere mue. WhatYou knowwhich one.I'mtalking about uhere Timiscecam manifestm any of us and tu s mto it.lf hat's tue,then there's at leost tuoo Timisce Antediwisunngarodvightnuandweredoubly sCreued.WhatWhar d'yamenBeagood lad"What the fiuckare you talkng.Holysh 一
+looktspecisjoalhenhewsntdnd there's sumeeild shit  there.Heclams he sauLugoj Blood-beaker commitAmaranthontheEldestitself before the Antediian ent ahead and pulled a fast ne n him. That meas that Lugo,whos  torpor someuhere in the Carpathians.is acnally Tzimisce now.All right,cool, whatever.Later.Lnbachellsme theEldest'samutated fckingpatchofcut-of-control cannabis leingbeneathNew Yrlndspreading throghthesewerslikeaweedIkw, tohisosliemostnd hitbyogot tespect the factthatwecan do some scary-ass stuff. Labuch'aleeasneofwtngsmeeookabig hitoffthababybutortuo,thlgendssireoldsere mue..... WhatYou knowwhich one.I'mtalking about uhere Timiscecam manifestm any of us and tu s mto it.lf hat's tue,then there's at leost tuoo Timisce Antediwisunngarodvightnuandweredoubly sCreued.WhatWhar d'yamenBeagood lad"What the fiuckare you talkng...Holysh 一
 
 —Klee| BratovitchTimiscekerinel master,decensed WithheEldest underthesleep ofagesitschie withdrew ftom the worddThe Capathians and the east
 
@@ -148,6 +170,8 @@ Yorak'sdeeision to strengthenhis brood'sdomains in theregioncame at a forruitou 
 
 Such womders.lt'sa pity the modern nighrs could not support ach benuty openly.Fruthfully nobody knows where the Carhedral of Flesh is anymore:it's apparenrly vanished Where once it stood,Imtold,resrsnaught buta gapinghole
 
+<!-- image -->
+
 OG
 
 Meanwhile,any hope that the Roman Empire could rise from its ashes died with Constaritine'sillchosen heirs.Rome w on the decline,nd itsresident Ventrue,Toreador and Malkavians hadlostcontrol to asquabbling host of Cainite detractors and to the unlikely sttengthofaHebraiccult.The cityseldestfled in droves,sending Europe into a decaying spiral.The periphery of theRoman Empire crumbled andregional Damned panicked.They knew the Germanic tribes prepared for massacre and pillage,andmany sought diplomacy with the previcusly isolated Tzimisce.For once, the other clans treated the Fiends as potential allies and not an Eastern frontier threat:
@@ -156,7 +180,7 @@ Headed-who eamed mythological reverence among theregional tribesand Lambach Ruth
 
 TheTimiscentum,noticedthe floodof human ity streaming through their northernmostborders.The tribesand federations of Hlur-displaced nomads fought and intermingledaswas expectedbuttheangrelf the steppes and disenfranchised Brujah accompanied them.Yorak met with several Gangrel chieftains anid promised them unmolested passage through the CarpathiansTihuta Pass:in return,they promised to ncite warfare against the Roman settlements along their routes.Yorak sought to regain the territory thc clalostwiththearrivaloftheVentrueandMalkavians. The spreadof the tribes turmed intoa wave that tainted everything ahead ofit.Inthe wakeof that chaos,Yorak snt in Taimisce to reclam their fonmcr estates.
 
-The Slav Shaagra came from the Vroi tribe and ruled as their goddess,leader and ystic.Her people fledwestward aftet het tribe had sufered undet the harshmstraticnsofalargeriheWhen they reached the Carpathians, Yorak took notice of Shaagra. She held concourse with potent spirits and possessed a beacon soul.Yorak sensed Shaagras potentmagic and the supernatural crearures she entertained as counsel. Shaagra commanded strong respect from her pcople, and posscssed the vision as shaman to appeal to he Tzimisce'ssense of Azhi Dahaka.Yorak accepted her for the Embrace,but he did not take her:
+The Slav Shaagra came from the Vroi tribe and ruled as their goddess,leader and ystic.Her people fledwestward aftet het tribe had sufered undet the harshmstraticnsofalargerrriheWhen they reached the Carpathians, Yorak took notice of Shaagra. She held concourse with potent spirits and possessed a beacon soul.Yorak sensed Shaagras potentmagic and the supernatural crearures she entertained as counsel. Shaagra commanded strong respect from her pcople, and posscssed the vision as shaman to appeal to he Tzimisce'ssense of Azhi Dahaka.Yorak accepted her for the Embrace,but he did not take her:
 
 Shaagra's Embraceheralded theTzimisce'sgolden age andcenturiesof the Fiends'dominion over Eastem Europe,Yorak understood thar the wandering Hun, Slavic and Goth tribes would eventually become the new landholders ofwhatever territory they settled.It hnd happened hefore with the Scythians and Hallstarr in.the cenruriesprecedingthe White Christ''sbirth,and it wouild happen again,given Europe's virginexpanses. Theoretically,by influencing the tribes now,the Tzimisce could establish themselves as the preeminent clan of the region.
 
@@ -171,6 +195,8 @@ Sory if I not poeticbu Ima schlr,not  wet Youll also note that Imagairst the con
 Eli DragskyPriscusofMoscou
 
 BOGATYRE
+
+<!-- image -->
 
 the skin pouch crawled over their facesan gave them the cuntenanceofthe Eldest.Thetr forearm bones extended into blades,while their tongues darted out like daggers.When the Eldest fell to Samiel,the bogaryri scartered to the four winds to find it.They never returned,evenfterYorak sent them messnges that the Dracon had carried the Eldest to term.
 
@@ -278,7 +304,7 @@ solidariry somuch san acknowledgement thiatwe had tostop bushwhacking each other
 
 Meanwhile,the Sabbat-aligned koldun and Metamorphosistsunderstoodthe Timisce'simportance m thisnewrehelliorIf theLasombraoffered structure and cohesion to anarchs. then the Taimisce had to strengthen the alliance in some capaciry. While this never mnifested as an open statement of purpcse, various Fiends did direct the Sabbar (through theur packs）toward the spirirualnatureof Cainite existence andtwisted thelnqusition's pieryinto the sect'snew standard.Whenpacks mer,they exchanged ideas and ritesand soon,themore opularpractices proliferated throughout the Sabbat.The Befouler pack ofWorms helped foster mass Emhracesaprecept where no one vampire claimed patronage over anothet.The Cnrpathinn War Dogs introduced a nascent form of Creation Rites (what they called "blood baptisms), whete,like the old axiom thatanentire villagersesn child,each neonate is childer to the Sabbat as a whole. Other Timisce packs introduced varcus Trnls by Ordeal and Wathe two methods by which Fiends setled their disputes incenturies pastThey borowed from the norion of survival of the fittest.and this idea played heavily in Creation Rites as well the Embrace did not guarantee subsistence. Soon afterwardwe re fined theVaulderieand ensureditspracticethroughout the Sabbar Even later.we fostered the new Patbs of Enlightenment,thosecontemporaryand mutable guide posts ina-quickly evoiving world
 
-FollowingtheConventionof Thoms,theCamarilla foolishlybelieved they'd settled theanarchissue.In the following50yeashowever,wenlongwiththeLsmbra and the newlychristened antimbulamcheda series of raids aganstKindredholdings.Itwasmothingshortof war,andwhile the Camarilla reeled from blow after blesw against theMasquerade itselfwestilost territory tooutsiders,especially he barbaricAssamites.Finally the Camarilla gtasped thenarure of the conflict nd tumed the tables onusUsing their extensive mortal Influcnces,the Camarilla besieged Tranylvania with diplomatic censure,trade embargoes md rortal peli tics:Tziiscelordssuddenly found themselvesbereft kine allies or the support of neighboring villoges that once feared themWe prided urselves as being ahove mortal concerns,so wecertainly didn'texpeetthe blow to wound us so grievously.
+FollowingtheConventionof Thoms,theCamarilla foolishlybelieved they'd settled theanarchissue.In the following50yeashowever,wenlongwiththeLsmbra and the newlychristened antimbulamcheda series of raids aganstKindredholdings.Itwasmothingshortof war,andwhile the Camarilla reeled from blow after blesw against theMasquerade itselfwestilllost territory tooutsiders,especially he barbaricAssamites.Finally the Camarilla gtasped thenarure of the conflict nd tumed the tables onusUsing their extensive mortal Influcnces,the Camarilla besieged Tranylvania with diplomatic censure,trade embargoes md rortal peli tics:Tziiscelordssuddenly found themselvesbereft kine allies or the support of neighboring villoges that once feared themWe prided urselves as being ahove mortal concerns,so wecertainly didn'texpeetthe blow to wound us so grievously.
 
 Domains that had belonged tous for millennia in the counting now went to others.Several ofusfled the Carpathians tothenorthemwastesof ScandinaviaWe were notalone either.The Camarilla had routed the Sabbat across Europe. By the beguning of the 17th cenrury,Europe was a ncw place, and if we hdny doubtsnstoour loyalties,they evaporated when we hid out havensfarewell.
 
@@ -294,6 +320,8 @@ Gnnhild,theMother f Kingsand Fiend-witch and herbroodhad foundacceptance amongth
 
 The Sabbat,stillyoung by themeasureof Cainites found an unusualally in Gunnhild and her progeny who'd survived in theBalte lands forcentures.Aecus tomed tothelapofCarpathianluxury,wedidnottealise that in other places,we did not master all we surveyed This provided us with the catalyst to stop seeing the liberation ofTtansylvanin as our sole end within the Sabhat.Until now,we,as Cpathan Timisce, he lieved ourselves the sole contributors to the-sect,but with our exile nto Scandinavia,weencountered our forgotten-kinsmen.
 
+<!-- image -->
+
 ## THEPUPpeTROOM
 
 It'sirr some mansion justoutside the city. l invited my pack over fora private mmus one night, but I'm telling youlm never going back-Grating covered the entire ceilingand rhey nevershowedus the second floor. In fact,it stayed upstarsas well and spoke tous through the grate.Lstillremember that foul selling shit that dribbled throughthe meallarrice.The servants wholeadusaround were allconnected toumbilical cords likeanimated pupper strings that snaked up through the ceiling. Whenitcame timetofeedwewere supposed totp our heads hack and accept whatever dripped down. Fuck thar: we bolted.
@@ -303,6 +331,8 @@ past he fall of Uppsalahe sacred royal ls of Frey herselfBecause of Gunnhild'sst
 Despite Gunnhild'shospitality,weknewthe Sabbat could not remain in Scandinavia.While the Turks prepared to sate their gluttonous appetites on the Tremere stronghold of Vienna,the Sabbat knew this provided the brief distraction it needed to escape ts frozen home.We looked elscwhere and cast aneye to theNew World.
 
 During our internment in the fozen lands,the Seandinavian Tzimisce introduced the Sabbar to the notion of the Jomsuikings.These warriors once ranked among theFiend-witch'sentourage,but Gunnhild lost them in the war against Christianity.Still,the notions of Jomsborg,the training camp erected by the Dansh KingHarald Bluetooth.ptoved sound.The Josvikings awore a bloxd oath (as the Sabhat had done）and followed strictcodes,rigorous training regimens and variousritestostrengthensolicrity.While the notion of a"Sabbat training camp"did not work well with the nomadic existence of our sect.newride could effectively incorporate the training of fledglings: In fact, each pack became a training ground for recruits; so lonig asone member survived,the Sabbatsurvived.Thus far, we'd done well to introducevarious uctoritas ritae for the benefitofthesect asa whole.Wefailedto make the packs cohesive beyond theVaulderie,however.With the helpofkoldnicandhlautritualsand the prcceptsof the Jomsuikings, the ignoblis ritae evolved. These rites later compartmentalized theentireSabbat moverment, allowing thesect to function like the mythical Hydra
+
+<!-- image -->
 
 ## THELANDOFDLENTY
 
@@ -321,6 +351,8 @@ Whte the Purchase Pact setied the nternecine fightingthedamagehadalreadybeendone
 Unfortutely,while Cardinal Raduand fewother elders crossed the-Alantic.the younger Sabbt whd made he effort to colomize it considered it lome nd protected their domains fiercely didn't blue then either.Afterclimingwereallequal,Raduandtheothes stepped in to take advantage of our hard work The older SabbaFindlueduelisvedsct bersno longer welcomed them in this sc-called "Land of Opportunity.Tofurtheraggravate therarter,ostcities were less than a cenrury old and not large enough to host acovenof Cainiteslookingtwsmikeout ontheirown.The Sabbat-Camarilla conflict swiftly degenerated into the sect's first civil wur,with youngTimisce leading the chargeThe Aericasshould bhave been curhatd-arned prize for the work we put into settling her.Instead,we foughtoverspaceandesurcesinstugglereminiscentf Contemporury garng warfare.Mortals hecame precious commodiriewhen feeding thinned the herds.Ohthe historybookssaythatchcleraandsmalpoxdecimntedthe servingnsplague carriers.While we fought one anither the Camarilla steppedn andcntrenched itself in the UnitedStates ven further.Sucha slap in the fice!The Camarilla pushed s out of he cities,forcing to ake refuge amng the Narive American tribes or in the precarious wilderness.
 
 This arrangement served ts well fot deciades ani influcnced how we treated packmembersand conducted Our rituals. Later, we stengthened cur hold in theregion
+
+<!-- image -->
 
 uringthemortalCivil War.TheDinehmorecommonly known as Navajo,eamed the attention of the United States when growing conflicts between settlers ard the natives tutnedviolent.After the Union dtoweConfederateforcesoutofNewMexico,they launched a campaign of repression against the Apaches and Dineh. For rhe latter tribe,it culminated when Urion fotces blocked them upin Canyonde Chefiy anlstarved out thousandsof Dineh natives.The arny then relocated them inaforced march to the Pecos River Valley, leaving the canyons pebio homes abanloned. SeverlFiends moved into Camyon de Chelly with their revenants,uming it intoa Tzimisce enclave.It's remained such since then,even after theDineh returned to theirancestral homes
 
@@ -376,6 +408,8 @@ Hiter'srise topower broughtawofold invasion acrss Eastem Europe's.soil-the Germa
 
 The havensof many elder Tzimisce also fell under Communist rule.OldWorld Tzimiscehad lostmuch during the war, and Stalin's madness threatenedto take away evenmore.Realizing theirprecarious positions,the elder Fiends sent envoys to their cousins trapped behind the USSR's bordersTheir efforts roward solidarity cre ated the OradenLeague, amutual defense agreenent and statementofpurpose(antonomyfromtheSabbatmong Old World Timsce lronically, the league flourished because of Communism; Sralin's xenophohia prorecred
 
+<!-- image -->
+
 ther vitme shortage because of the underfed and winnowed populace, many Fiends mainraimed private hexds forfeedngorvassalageshoukd anotherwareverdevastate Europe again.Ironically.many mortak entered these arrangernents willingly,because we fed them well and even ersured themsomemeasure of comfortcompared to Ruwia'sabjectpoverty.
 
 the world, we would have suffered apocalyptic repercus sions for drawing such artention to ourselves.
@@ -384,9 +418,11 @@ Notall Tzimiscetook interest inthe gulagshowever. SomeyoungTimisce found interes
 
 Additoallyome cleverTimisce als arranged fot hndful cf sallgulag concentration camps andKGB prsonsoutof he20oo fcilities crossAreticRussatofall into the hands of their Bratovitch majordomos.By estiatesthe early Russinn regie incarcerared clese to I0 percent of its population in the gulagsVorkuta Camp alone killed more prisoners than Auschwit,thoughad mitteilly over a longer period of time.These facilites bccame unrestricted havens fot the Tzimisce to exist openlywithout fear of dscovery.Unfortunatcly,asweve oftendisoveredwhertherere fewresitios,smef ourbrethren can take their proclivities to extremes. Conversely,Russia possessed no state agencies to ensure he wel-betng of gulag prsoners.Thus, theTsce still speak cxcitedlly ofTmuTaakan,the Kirgdom of Cock roacheswhere prsonersatedietof theifellow its slept on beds ofdecayingcorpsesand drowned in  soup of their own entrails- If this had happened anywhere else in
 
+<!-- image -->
+
 0G
 
-Unforunarely,whileourghoulsmadesomeadvance ments, particularly in the feld of recombinanr DNA and so-called chimerical viruses,the Soviet Union collapsed Suddenly scienrists,vural material storedin theMoscow Instirute of Health.ex-KGB agents and weapons-grade plutoniumall appeared on the inrermarional black marketSeveral keyghouls alsovanishedwith theirresearch sending us scrambling to find themTo date,weve had lite succes.
+Unforunarely,whileourghoulsmadesomeadvance ments, particularly in the feld of recombinanr DNA and so-called chimerical viruses,the Soviet Union collapsed Suddenly scienrists,vural material storedin theMoscow Instirute of Health.ex-KGB agents and weapons-grade plutoniumall appeared on the inrermarional black marketSeveral keyghouls alsovanishedwith theirresearch sending us scrambling to find themTo date,weve had lite succes...
 
 ## TOMORROW'S TZIMISCE
 
@@ -396,7 +432,7 @@ ByIaclbidxtemplr
 
 Bartholomew Diggs,member of the Road Kilr Tumadic pack
 
-Among the new breed of Tzimisce glarzen is WeisrarechWhiteVengeance-a leaderof a Europem neo-Naipack.She took therime explain tome this new trend emetging aong some of our younger clanmates. She is alo childe to Doktor Totentana WWl hloverofNazivaluead,frankly,aneasment to our clan.Although she's barely existed for a decade,Weissrarech's seen Europe burdened beneath 750.0 refugeesescaping ethnic cleansing and poverty. The Soviet collapse prved agodsend for elder Tzimisce,
+Among the new breed of Tzimisce glarzen is WeisrarechWhiteVengeance-a leaderof a Europem neo-Naipack.She took therime explain tome this new trend emetging aong some of our younger clanmates. She is alo childe to Doktor Totentana WWl hloverofNazivaluead,frankly,aneasment to our clan.Although she's barely existed for a decade,Weissrarech's seen Europe burdened beneath 750.000 refugeesescaping ethnic cleansing and poverty. The Soviet collapse prved agodsend for elder Tzimisce,
 
 Hitler still lives,or at least his maligrant message does.Oniyahaniful ofelderTzimisce participatedin the rseofpre-Wwmysticism,butsomeFiendsEmbracedin the posr-wr eracame to see this as he Sabbatsacceptanceofthe Holocaust Certainly,theseindividualsdidnt help the siruation when they Embracedglaten ("baldies" rGerman skinheads)tocontinue the struggle." Unfortunately.these same fucking Teimisce have superviseda tiseinracist Brothers andSisters in the decade following the collapse of the USSRThe wave of Eastern European refugeesinstilledvenominto theyouthofWesternEurope who,tothisnight,remain bitteroverunemployment and degrsding social conditions.That anger exploded into racialviolence,bringingtheTaimisce newgenerations of followers who couldfinallyreclaimtheirformeraristocraticmantles and titles within the Carpathians'keepsToWessrarech however, Communisn's fall brought about Egypt's Elev enth Plague: the refugee flooxd.
 
@@ -418,11 +454,11 @@ nd Englishcountrysideorassut Bosnian RefugeeCaps in CroatiWeisstarech brngs with
 
 scrviceto theircountry，whycouldnthisminorityenjoy equal rights? Of coutse,this proved a watershed issue for the nationwith extremist camps forming on oll sidesof the color barrier. Croups such as the White Aryan Resistanceand theNational Associationforthe Advancement ofWhitePeoplecalledforstctsegregation whlebehind the scenesmore insidious cells formed like blsters.The morepseudoscience justifiedracisthemoreoutlancish respective clais became Some groups adhered to the Nazi principles thar the Aryan race originated from the mythicislandof Thule.Othersadoptedastrange fusionof Hindu-Aryan philosophy. claiming civilzations cradle was Aryavarta in India On the otherside of the argument came blackmilitants calling Caucasians analbinoid mu taton of the African people or "Yaccub's children.A smallersegmentclaimed thatsince melanin was a superior absorberof energies,then white peoplewere furtherfrom God（the source of allenergy）because they were lacking inskin pigment.
 
-Advocates of scientific racism later increased their numbers byEmbracinga groupof rioters ftom theDetroit Ruce Riotsof1943. President Roosevelt had issued an executivecirderprohibitingracialdiscrimination infacto ries with military conacts.The influx of 60.0blacks fro the southerm states looking for workinthe more ptogressive North sparked riots incities such asDetroit where35peopledied，500were injuredand amother500 arrested for themunders ofAfrican-Americans.Excuse melcksFuckessacksnotforhisskcolor,b for his politics.But Im geting carried away.
+Advocates of scientific racism later increased their numbers byEmbracinga groupof rioters ftom theDetroit Ruce Riotsof1943. President Roosevelt had issued an executivecirderprohibitingracialdiscrimination infacto ries with military conacts.The influx of 60.000blacks fro the southerm states looking for workinthe more ptogressive North sparked riots incities such asDetroit where35peopledied，500were injuredand amother500 arrested for themunders ofAfrican-Americans.Excuse melcksFuckessacksnotforhisskcolor,b for his politics.But Im geting carried away.
 
 Militant Timisce involved with thesemovements stayed away fnom the puhlic marches and press staged eventsinstead,they frequented thepackedunderground concertsofStommdDrngandAfricaX,plyingtheircraft amongthethickandangry young crowds.SomeTimisce even allowed events to take place on their private property,tmmersing themscives in hatred and reaping the guests at the end of the evening-Fiends, Abraham included,dominate thesmallcults and cellsthatsearch for the purity of their ancestors:These kine wilingly undergo any body augmentationsuggested by the Tzimisce in the mortalquest to emuiate Tzimisce Idealleaving he Fiends tore thanhappy to ipose theirvisionsof perfec tion.The Blood Brothers formed thanks to such physical tamperingandmixingofideclogies.It'swhythey'veallgot those fucking bald heads
 
-## MODERNPRIMIVES
+## MODERNPRIMIIIVES
 
 The varioushate groups arenot theonlymovements enjoyingTzimise attenrion.While one group plays on racist ignoranceanother isfarmore interested in ap proaching thoseafgenuineMetanorphosistinclination. Wefindthatinone mortal subcultureafparticularinterest:the moden primitive.
 
@@ -456,6 +492,8 @@ Africa of his epoch is not the plice theworld lnows tmightThegreatTiconis Seacov
 
 The Progenitor would later recall to Yorak and Lambach that he rurned Demdemeh inside out, with.his rgans and bones on theoutside andhiseyes facingnto hishead.When the Eldest asked him what hc thought of the viewDedehcalmlyreplied tht sucha fetwas nothing given thnt ail wise men had the ability to sce withinthemselves.lmpressed withsuchistrongmindthe EldestEmbracedDemdemehandpartedways.Demdemeh retured to the land that would one day be the Sahara which,in those mights,was still heavy with swamp and jungleandwt yetreadyto surrender to the encroaching desert.The tales say he traveled among the immortaltribesofthe Sao.Tibesti.those whofollowedtheKagnund thesun-eyed BachweiKnowasa fair and wise shna, Demdemeh gathered his herds of followes till his too numbered among the larger tribes
 
+<!-- image -->
+
 ## TOTEM
 
 Aboriginal Tzmisce?Yeah. they're are rouind New Mexico,but I did meet one once.He looked nomal till he opened his shirt up.A lineof faces ran down the length ofhis body.and jabbered on imces sanly.We callel hm Totem,for obvious reasons.
@@ -488,11 +526,13 @@ Laika,Tzimisce koldm
 
 Kartarirya's existence extends the length of the In dian subcontinentshistory,making it among the eldest andmostpowerfulofourclan.Itspentitsearliestcenturies with the Harappaculture and later withthe Vedicswho
 
+<!-- image -->
+
 broughtSanskrit into the region.Ir did not coexist with thempeacefully,however,for the bloodthirsty Kartarirya drewthe hostilities of the growing Rroma people anda Nosferaru Methuselah whc'd settled into-the region.
 
 Kartarirya fashioned the yakshi,demors by kine perception but horribly altered siachta in teality.ln the millennia following its arrival into the Indus Valley, Kartarirya'schilderaniyakshischemecd andfought against
 
-Despitesome conjecture,theregion'sTimiscenever inspired or enulated the multi-limbed avatars of the Hindu godthoughnot fora lack of trying.Kararirya triedpersnatingKattikeya,he god ofwar,only discoverthe Brahmanswielded thelr faithasweapons and sawthoughsuchartificeSurprisingly,ntssearchtofind worshipersanongthegrowingVedipantheon,Kartarirya came to understand and appreciate their religionThe multi-limbed divinitiestepresented multiple states of heingsntpeatinsandpesonalteWhilthvits werecertainly terifyingto hehold,heIndians accepted rhe complex andoften conflicting gods and ptecepts as natural Everything and everyone had their place and momenttie.Enamredwiththeconceptofltifc ctedexistence and perception,Kartarirya geared is transcendence toward that effort.Instead ofseekingworship,Kartariryasoughroemoldielfintoacreaturethat could exist inmultiplestatesofawarenesmultaneously.
+Despitesome conjecture,theregion'sTimiscenever inspired or enulated the multi-limbed avatars of the Hindu godthoughnot fora lack of trying.Kararirya triedpersnatingKattikeya,he god ofwar,only discoverthe Brahmanswielded thelr faithasweapons and sawthoughsuchartificeSurprisingly,ntssearchtofind worshipersanongthegrowingVedipantheon,Kartarirya came to understand and appreciate their religionThe multi-limbed divinitiestepresented multiple states of heingsntpeatinsandpesonalteWhilthvits werecertainly terifyingto hehold,heIndians accepted rhe complex andoften conflicting gods and ptecepts as natural Everything and everyone had their place and momenttie.Enamredwiththeconceptofltifc ctedexistence and perception,Kartarirya geared is transcendence toward that effort.Instead ofseekingworship,Kartariryasoughroemoldielfintoacreaturethat could exist inmultiplestatesofawarenesssmultaneously.
 
 the growing Canite presence.TheBrah,al iar to theregionthrough theirinfluence inMespata first arrived en masse when Alexander the Cnat's ms swept through Hindu Kush and the Afghun Pltean When Alexader died hisretu joumey，theGreek garrisons found themselvescut offrom their homeand temained behindAfew Brjahstayedaswelleventully Embracing fromthe indigenous peopleThe Gangrelwbo rodewith the Mongol hordes proved troublesome with their continued raids against the tegicnalvillnges nd towns.buteventually,heIian cultueabsred hem aswell.TheToteador came withtheFrenchcolonization oflndiainthe17thcentury,thoughler,nFench-Inian Tmisce by the nameGrandmere Kaleousted theToren dur fromthe islandofReumoitmatsandcametolivedeep in the heart of its dormant volcano.Her domain becme ty lasnoaMadagascar phrase foralace from which youneverreturn."
 
@@ -510,11 +550,17 @@ Ratti-Ben represcnts a changing consciousness in Indn,oneMahatma Gandhrwould hav
 
 THEFATEOFDEMDFMEH ANDAFRICA'STZIMISCE
 
-Overhe yearsthe CDCUSAMRID and Bioprepxmat are runningaround hot one whenever Ebola suddenlyappearWihthe fall ot theSoviet Union,Ifinallyget a chance totalktoPiotr and find cut what he knows about these hemorthagic vituses croppingup.Longand short ef itis Bioprematafter mapping out local hot zones and doing extensive grounworkntheteginhnksthevrusgated In MountElgonsKitumCaveontheUganda-Kenyan border One case netually involvedn British expatriategettingsickanddyingfromEbolaaftervisitingthe cave.Kitumistheremnantsofaperrified fotest-Ive been there-with hardened reesmaking up partof therock wallsElephans fickinggothere to der the creepiest placcIve seen,and Im pretty sure didnteeitall.Soethingwahdinginthseaves. Something hidder,bu.tangibly stange.Anyway. gerting back to Piotr,his specialists think that the Ehola theyve found invarious outbreaksisa poisonous by-product of something larger.Piotr called ghoul bacterabut hecouldn be sureWhat they foundinKirumCavehowever,sfldandwontsty locked dowTheyrenotsurewhat it isxactly,u thiey have a fait idea.
+Overhe yearsthe CDCUSAMRID and Bioprepxmat are runningaround hot one whenever Ebola suddenlyappearWihthe fall ot theSoviet Union,Ifinallyget a chance totalktoPiotr and find cut what he knows about these hemorthagic vituses croppingup.Longand short ef itis Bioprematafter mapping out local hot zones and doing extensive grounworkntheteginhnksthevrusgated In MountElgonsKitumCaveontheUganda-Kenyan border One case netually involvedn British expatriategettingsickanddyingfromEbolaaftervisitingthe cave.Kitumistheremnantsofaperrified fotest-Ive been there-with hardened reesmaking up partof therock wallsElephans fickinggothere to der the creepiest placcIve seen,and Im pretty sure didnteeitall.Soethingwahdinginthseaves. Something hidder,bu...tangibly stange.Anyway. gerting back to Piotr,his specialists think that the Ehola theyve found invarious outbreaksisa poisonous by-product of something larger.Piotr called ghoul bacterabut hecouldn be sureWhat they foundinKirumCavehowever,sfldandwontsty locked dowTheyrenotsurewhat it isxactly,u thiey have a fait idea.
 
 Ithinkwerealiedsomethingwasstrangehack in 1967whensevenpeopleinMrburgemany ofa new and mysteriousinfection.Asit tuned out, vaccine manufactuer called Behring Works uscd contaminated Aficangreemonkeystaken from the bordernearUganda andKenya tarresearch In 1970 the University of Marburg Fublihed a paper on the buger and theworld gets ies firsttaste offiloviruss and this litle bastard called Ehola.Russia Matn Directorateof the CouncilofSovictMinisters,better knowscurBppeeyj inwith bothfeeLThey sendvialogists to Mount ElgonandtheRiftVlleyogkingtorheostsecies that originallyvectored thisdiseaseNotonlydothey find nothing,butthe teovnishesThat'swhen some of Piot'sboys put wo and rwotogetheran rememberthelegendsof the MethuselahDemdemehy andhow he vanished with a few followersinyou got it -the Great Rift Valley.
 
 Heres what our Rusiam friends think,nnd te member,Im just the messenger.They think Demdemeh transcendedall nghr,burnot in the way we'dexpectPiorrhelievesheobliterated himselfint vial form,then used his ownchilder as pei dishes. They fourd that proteanviral sample inKitum on a dyingelephant.PiotrrhinkstheMethuselahinfect. ing the local wildlife(ridngelephantse clled it) and occasionally vectoring Ebola into thepopulace Thiselephantgravcyard shitisDemdemchreuniting himself withpartof thewhole.He'sbecomingpartof the Eldest,mark my word
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
 
 ## THENIGHTSOF THEYOUNG
 
@@ -562,7 +608,7 @@ ExceptionsTmisce who coine into undeath throughmass Embracesusully lea the facts
 
 But they do not call this addiction a weakness-i symbolizestheFiend'sconnectiontotheirso-calledhomeland. At least,that's how some Tzimisce regard theif dependence on their native soil. Does one as olds you recognize this curseWithout ar least two handfulsof dirr. frma place iportanro the asamortalTimiscerow weaker until they spend a full nighr surrounded by their precioussoil once more.WiseTimiscekeepmuchmore thantwohandfulsaround.Somedontfeelsafeunlessthey have a dozen crates of the stuff hidden all over town.
 
-havefelthesiloftheOldWorldinmy handsold one.Atfirst,itseecold andviscous.Thenyouqueeze it between your fingers,and you realize that itiswerNot wetlikemuotsomeweakoebutliknyclodsf red dir that hveconsumed 10,0yenrs ofrain.Asi rumbles,you realize hatyour loves are wetand lter they willsmellabitrotten.Thesoilresemblesourclan,old ne.Itsfallw.Wermntched oithuhthee modem Tzimisce rest most ensily in the soilaf whntever homecland they claimedasamorta oraplaceimportant to theirego-the soilat their childhood homeor the dirtof their intended grave,
+havefelthesiloftheOldWorldinmy handsold one.Atfirst,itseecold andviscous.Thenyouqueeze it between your fingers,and you realize that itiswerNot wetlikemuotsomeweakoebutliknyclodsf red dir that hveconsumed 10,000yenrs ofrain.Asi rumbles,you realize hatyour loves are wetand lter they willsmellabitrotten.Thesoilresemblesourclan,old ne.Itsfallw.Wermntched oithuhthee modem Tzimisce rest most ensily in the soilaf whntever homecland they claimedasamorta oraplaceimportant to theirego-the soilat their childhood homeor the dirtof their intended grave,
 
 Perhaps you could answer a question fot me. Methuselah:Are the Trimisce territorial because their weakness complicatesmigrationor is it a punishment for their possessivenessNiddistscitemyths in which Caine cutses thentire line for the feudal outlook ofits fonunder. Koln believe theweakressisa debttothe land-spiritsof their native domains, whose power affects all thar fll under the shadow of the Carpthians.Fewtruths rise where mythsand spirits are concerned.
 
@@ -602,7 +648,7 @@ Although-most Flends who possess this sbility consider itapower nique toTimisce 
 
 usedSomeMetamorphosists fear that suchan arrange ment might lead them ustray from Ahi Dahaka.Timusce whoeschewVicissitude almst never diablerizeCainites withthedisaseforfearofcontamunation.OtherTzimisce protective of their egos,recoil at the thoughtofanother entiy dwelling inside them,influencing their thoughts. Fetishes aside,mostTimisce prefer remaiming a wenker but self-made Cainite to becoming someone's mighty puppet.Thefactthatmass-EmbracedFiendswholackthe knowledge of urclmsvaluesand diableriestruerture don't share their brotherscompunctionslends credence to this theory.
 
-ThisisnotosaythutTzimisce never practicediablerie Some accept the teachings of their sires but attenpt to avoidcomplications by destroying all sources of their intended victinsself-worth:when theyfinally diablerize the victim,his soul is broken and longs forobliterating quiet.Othesactially telishtheideofbecomingeteml prisons for the souls of their enemies.Some acpt the risks, hoping the power is worth the prtce. Few of the youngest Tzimisce,whichistosay muchof the Sabbat, see any danget int dablere.
+ThisisnotosaythutTzimisce never practicediablerie Some accept the teachings of their sires but attenpt to avoidcomplications by destroying all sources of their intended victinsself-worth:when theyfinally diablerize the victim,his soul is broken and longs forobliterating quiet.Othesactially telishtheideofbecomingeteml prisons for the souls of their enemies.Some acccpt the risks, hoping the power is worth the prtce. Few of the youngest Tzimisce,whichistosay muchof the Sabbat, see any danget int dablere.
 
 ## LOYALTIESOF THECLAN
 
@@ -622,6 +668,8 @@ The Pathsof Enlightenment:It'seasy tothink of the Pathsasabstract moraliticsbuth
 
 The Packs:The Sabbat organizes itself into small packsunitedby theVaulderie,a blood-sharingriual thar bonds packmates to one another.When they rebelled ngainst theireldersTimisce formed the firstcrudepacks dinvented theprocessthat laterbecame theVaulderie The pack stnicture Isresponsible for whatever unity the sect enjoysdespitc theirlack oflawsorcommon heritage. And Cainitesare noctual predators unnaturally suited tsolatonThat we havecobbledasemblance of society ng such creatures ranks among the grearest accomplishments of the children of Tzimisce,
 
+<!-- image -->
+
 OG
 
 genemtiondidn'tobjecttotheclder'spoweronprincple as some vainglorious Brujah do.We objccted because we didntholdpowerourselvesAssuchheclanresrrecte onKupala's Night(ifnotallof its members） stillacknowledges the hierarchy of theSabbat andretainsu semblance f its forner organization as well.
@@ -630,7 +678,7 @@ The RitaeManyof the Sabatmaeavether orginsin Trimsce pccesAceremonyhatwasusediny
 
 Beasts.Back when even Cainites looked to Heaven or Hellt preserve their ouls （towhichdid you look,ol ne).a fewTimisce sought Metamophosis.Individuals whomade apoint f transcending theirformer humanity hud to develop ways to stifle their Beasts while still beconing inhuman.Those who didn't turn toMetamorphosisborrowedphilosophiesdevelopedbyotherCainites and tumed them intofull-blownPathsofEnlightenment. Whilemoat Sabhat wallowin the wotst oftheir fotmer humanitas,we havedeveloped re seful approaches to undeath for the enlightened few.Witbout the oral instructlon af theTimisce,the entireSabhat would bea slnvering,monstrous horde.More so,anyway.
 
-The Vode of the clan is traditionally the most powerfulactiveTzimisce intheworldThiswastheroleof the Ancient itselfin the first nights,its authority was unquestionable.When Tzimisce fellinto torpor,Yok assumed the positon ofVorwode.Heset thestandard that all succeedingVovodes must meet. In the modem nights this standard is interpreted asanadvaced undestanding of bothKoldunicSorcery anda PathofEnlighterment. and the unreserved endorsement cf the clan elders.
+The Vode of the clan is traditionally the most powerfulactiveTzimisce intheworldThiswastheroleof the Ancient itselfin the first nights,its authority was unquestionable.When Tzimisce fellinto torpor,Yok assumed the positon ofVorwode.Heset thestandard that all succeedingVovodes must meet. In the modem nights this standard is interpreted asanadvaced undestanding of bothKoldunicSorcery anda PathofEnlighterment... and the unreserved endorsement cf the clan elders.
 
 After all of hs subjectsmade their contribution,the newuoiwodleheldupthebowlancdissuedawarningtothose who would question his power. Mirroring an even older paganritual,when the new tovodereached the violent peak of hesceremonal threat,hethrewthe bowl into the airdrenching his assembled servants in the collected blooda demonstration of what would happen if they defied hisrule.
 
@@ -646,11 +694,11 @@ Iftheyareote ngering dictateofthe Eldest,hen anclined to hlame hisry.have heard 
 
 Why wouldourclan'sfigureheadrelyonsuchesoteric principlesPerhapsyou can answer this better than l,ol one.FewCainitesfollow thePathsofEnlightenent,an loltis isalos unheardofoutsideour lineage-why then dowe demand such unconventional prerequisites?
 
-Asfortherequirementthata candidatefolowaPath. my own theory is that it was aided after a technical disagrcement among the Timisce clders who must support any aspirantYou may have heard the riame Sascha Vykos-lidnewsoftheTremere-Tzimisconflictreach the mountains underwhich you hidEver beforeyour 700-yearleaveSaschaworkedaginsttheAntediluvians thesiegeofAlanta wasitslatescontbutionor wasit WashinnCanyvenitldmehatadvad understandingofaPathhecameaprecedentafteradispute among some elders aboutwhetherthe peviousVode was fullyn controlof hisBeastManyTisce fromthe OldWrldreardedfrnzyasbasencouhanmal-l Elders fron the Old Warld saw the NewWorld"elders" support of thisravenousVoluode as proof that the New WorldcouldnotpickaworthyVoiodeAlthoughperhaps only five Cainites were involved mthe dispute,those few were the cldest of Mexico City, cabal that canstil blackallanyptentialVeveniftheycannolonger seat one on their own.The preference for a Vote to follownPathof Enlightenmentwasproposed bytheNew Worldcontingentmn effort to corect their carlier mistakeandcomplicatetheOld World'sargumentagainst
+Asfortherequirementthata candidatefolowaPath. my own theory is that it was aided after a technical disagrcement among the Timisce clders who must support any aspirantYou may have heard the riame Sascha Vykos-lidnewsoftheTremere-Tzimisccconflictreach the mountains underwhich you hidEver beforeyour 700-yearleaveSaschaworkedaginsttheAntediluvians thesiegeofAlanta wasitslatescontbutionor wasit WashinnCanyvenitldmehatadvad understandingofaPathhecameaprecedentafteradispute among some elders aboutwhetherthe peviousVode was fullyn controlof hisBeastManyTisce fromthe OldWrldreardedfrnzyasbasencouhanmal-l Elders fron the Old Warld saw the NewWorld"elders" support of thisravenousVoluode as proof that the New WorldcouldnotpickaworthyVoiodeAlthoughperhaps only five Cainites were involved mthe dispute,those few were the cldest of Mexico City, cabal that canstil blackallanyptentialVeveniftheycannolonger seat one on their own.The preference for a Vote to follownPathof Enlightenmentwasproposed bytheNew Worldcontingentmn effort to corect their carlier mistakeandcomplicatetheOld World'sargumentagainst
 
 them. As Sascha says,it wasa way toprove that a fuure candidatewasmsterofhisBeastproofagainsttheOld World Tzimisce's accusation that-the New World elders were appointing arother bid dog to the post nd ohcre.In the Final Nights,mstTimisce repardtheirVoaelikelapsedCatholiesmightregardthe Popetheygetfurousifthcyhearhimisultedbuhy don'texactlyagrce thathe'sinfallibleThecurrent Vovode may bethe last.Hernameislirtle known within the clan, almost unheardofwithin thelarger sectHer voice does not carry beyond Mexico City.And she is ignorant of kolftheAnienstillxststssrelyissaifi
 
-Adopringa Pathrequtes the willandrigor tooppose your baser urges.Itis,therefore,ure act for a Cainite Then,as now,most Timisce want a Voode who is disciplined.
+Adopringa Pathrequtes the willandrigor tooppose your baser urges.Itis,therefore,ure act for a Cainite Then,as now,most Timisce want a Voode who is disciplined...
 
 Nodoubtthisnewsdistressesyou.Atleastthe zhupans stillexistthey benr the duties once cxpected of our titular leader,maybe because thelr status isearnedrather than ordained. These re the wisest (not necessarily oldest） membersof the clanin the Final Nights,they remain the most conversant in the lore of the Tzimisce, Their knowledge,aswellastheir prowessin barrleproves theydeservetheirtitle-beforeaFiendcanbeconsidered hemust firstmaster theo formAleastne of the ancientways stillendures,Methuselnh.
 
@@ -678,6 +726,8 @@ The Children of theDeacon trace their rootsto Constantinople,though Noddist scho
 
 The rather arhitrary opposition to any policy endorsed by the clan troubles many Teimisce because the Chikdrensmotivations are not entirely clear.One rather
 
+<!-- image -->
+
 ancient Metamorphosist suggests thut evolution is a re ponse toa threat-perhaps theChildrenspur-theentire clan'sadvancement by providing the requisite resisrance. Ancther popular theory is thiat this perpetual opposition IsapumishentfortheclnsgreatmistakeSaschaVykos formerresidentofConstantinople,will tell me only that Dracon is dead to me. His sO-called Children make mxkery of their purloined heritage.
 
 ## 0G
@@ -692,7 +742,7 @@ Thesenamesrepresent the fourremaining revenam familiesof any sizeDuringyour slum
 
 BeftheEhctheChilrenleveteonstery studythe12legaciespreceptsofthearer-withvarious cloves crsstheobeThntheyetu tothir mo teryoforigin tobe EmceIfthe nitiateisan Akometai, hescrtusewth one vlume from the Libcryofthe Forgotten f a kgt,he is chare to cany a letter in an envelp hes foden tpenealed wih themrkof Confired nthecder,thenewChildoftheDracondepars
 
-In the odennights,the havenaf the scior is the monasteryforany given cellane bu thescion and perhaps n menber of theAkoimerat makes thei peranen haven thete.The Children prefer thut thcir rankremau volvedwiththe sect rather thancloisteringthemselvesSomeDraconsaspire tofollow thePathof MetanorphossorthePathofHonorableAccordthough elder memhersandafewyoungprodigiesclam tofollow Akoimet observevariety f ioblisrite,but mst
+In the odennights,the havenaf the scior is the monasteryforany given cellannne bu thescion and perhaps n menber of theAkoimerat makes thei peranen haven thete.The Children prefer thut thcir rankremau volvedwiththe sect rather thancloisteringthemselvesSomeDraconsaspire tofollow thePathof MetanorphossorthePathofHonorableAccordthough elder memhersandafewyoungprodigiesclam tofollow Akoimet observevariety f ioblisrite,but mst
 
 DracselfotherFenelsewhereinheworl totablish himself withn Sabbat society.
 
@@ -716,7 +766,7 @@ Why doesthisfamilyaffarrequire suchmtsleading nameThefoundationrequiresadegreeof
 
 Sewhere,a child bearing an Anglicized ae grows with cur bloed coursing through her veins.Her blood may be too watery for her to be considered a revenant,or maybe not.Regardless.the Timisce blood within her no doubt makes her an exceptiomal mortalIf she i likemost.of the cousins located by the foundation, she isemotionally disturbed in someway.given to fits of depression r indulging in the torture of cats,perhaps. Despite her hauted life,shecould gowup to be a bold leader,a fiery priest or anngeniuscholar lkeay f ourdistantrelaivesIfthefoundationlocatesherntime, shemay befit rotecerve the Emhracerather than die asan exceedingly old and talentedmortal.
 
-The majority ofrevenants brought into undeath aren'tasociated with the Romanian Legacy Foundation. Stillsome of our clnmtes see the organiationnsaway tomaintainourold aitinsventhououeve aristoctacy s spreadso thly ross the wcld.Even revenants who weren't inducted into the foundation at theircreationcanjoin.providedthey survivetheremedil initiatnriteaoutwich he lesaidthebeer.
+The majority ofrevenants brought into undeath aren'tasociated with the Romanian Legacy Foundation. Stillsome of our clnmtes see the organiationnsaway tomaintainourold aitinsventhououeve aristoctacy s spreadso thly ross the wcld.Even revenants who weren't inducted into the foundation at theircreationcanjoin.providedthey survivetheremedil initiatnriteaoutwich he lesssaidthebeer.
 
 ## NEOFFUDALISTS
 
@@ -725,6 +775,8 @@ Moreasenshiltythanamovet,theneofeudatae theseTzmisce whoseek a renun to the nigh
 ## EHSANGUINISTS
 
 A blood cult exists within Clan TimisceUnlike mcstauchcul,awashinoccanofvitae,thcExsguini
+
+<!-- image -->
 
 have tnvented adoen or so igaoblis ritae to avoid drinking bloodforaslongaspossible.Theyconsder feeding theac of an animal, not a deathless being on rhe threshold of something greater.
 
@@ -836,7 +888,9 @@ Suchthingschange slowly,bur Metamorphosisisnot theonly Path walked by curkindOth
 
 Soe blieve oyway,Mehsisisa loney puritMayFendontePathrefuseshatheirwism orevenmisleadhosewhoseckit Canyouimagineaparanoid site teachinghischilersecretsthatinvite thcirowFinal DeathsMyownsreoncerokme,Angeristhejurgeamong the unead IfherCanitragesyouheffendse
 
-HowbesttoexplanthemodemPathtosomeonewhos never read Dawin.Thoe who follow thePath of Meta mphuss seckto clmb closer to Heavenand farther from humaty,thghfewofthembelieveinsuchaplace.Ualike theEastBistsitngSidharhaMetamris lvefewolemodelsinsearchofAzhiDahaka,thenamegiven to thishiher stac by he eldesofFensAzhiDahaka isnot sone Nirvana where the Metarnophosst achieves oneruess with theuiveise,but mther the oppositc—to ndcgo Methosisstocopletelysepaate oneselfromCe ation, toe a selfsufficient will n a universe that holds o repowerover the.cgo
+HowbesttoexplanthemodemPathtosomeonewhos never read Dawin...Thoe who follow thePath of Meta mphuss seckto clmb closer to Heavenand farther from humaty,thghfewofthembelieveinsuchaplace.Ualike theEastBistsitngSidharhaMetamris lvefewolemodelsinsearchofAzhiDahaka,thenamegiven to thishiher stac by he eldesofFensAzhiDahaka isnot sone Nirvana where the Metarnophosst achieves oneruess with theuiveise,but mther the oppositc—to ndcgo Methosisstocopletelysepaate oneselfromCe ation, toe a selfsufficient will n a universe that holds o repowerover the.cgo
+
+<!-- image -->
 
 0G
 
@@ -859,6 +913,8 @@ When yoresafem yoer un hawensrunded by furire youve bualyourel-thats Metamorphos
 No one cashouyou MeamorphosisTheconitin is,by definition,lofty.And nce ouachiee it Icanonly maginethatdesibinguwd belikeexplaiing prliamentaryprocedeto arerofros. Ihesitate to call suchdstatenscendertsce themd hears somany limited mortalnoions.Bu asireyouMetemorphosis is rrerly mhmam.
 
 After disccrdngall vesiges ofhmanity.one becmesTzmisce self—AzhuDahaka Laika,Tstmisce koldun
+
+<!-- image -->
 
 0G
 
@@ -910,11 +966,13 @@ ThePathof Catharihasmuch torecommend itselfto childerraise by traditionalTrimisc
 
 Inaway,theTimiscehavealwaysbeenNecronomists. Since theifistnightheFendshavehad thoseong them who ade  study of eath and limits of painThe
 
+<!-- image -->
+
 ## FROMTHEGROUNDUP:STORYTELLINGMETAMORPHOSIS
 
 Finnlly,Storytellers and pbayers shauld keep n mind that ting in thPathof Metuorphosis dosnt necessarily represent hbwcloseaCinite hascome totheAzhDahaa.Alltrpresents forsurehowweller beliefssubdue the Beast.
 
-Giventhepossibiitiesof MetanrphosisStorytellersshoulapproachthisPathabitdifferentlythanothers. Ingame termsMetamorphosis isn'tabout startingwithahighPathrating and avoiding descent into the jwsf theBeastWithin.It'sabour saringnearthebottomand ntinganyintormationor developingany technique thatwllallwheCanitetopgress.IneensebflexiblewithheHiechyofSinsbecansekersofAh Dahaka find different ways tomplementitsabsct idealsBut dontle hem getaway withanythingtheir prugression along thePathshould build upon whar rhey havelearnedbeforeTheycarurleamsome elements butnot withcur questioning their actions (ie.making many Virtue rolls)
+Giventhepossibiitiesof MetanrphosisStorytellersshoulapproachthisPathabitdifferentlythanothers. Ingame termsMetamorphosis isn'tabout startingwithahighPathrating and avoiding descent into the jwsf theBeastWithin.It'sabour saringnearthebottomand ntinganyintormationor developingany technique thatwllallwheCanitetopgress.IneensebflexiblewithheHiechyofSinsbecanseeekersofAh Dahaka find different ways tomplementitsabsct idealsBut dontle hem getaway withanythingtheir prugression along thePathshould build upon whar rhey havelearnedbeforeTheycarurleamsome elements butnot withcur questioning their actions (ie.making many Virtue rolls)
 
 ## ANINFERIORGOLCONDA
 
@@ -926,7 +984,7 @@ However theStoryteller decides tohandle hisquestionchievingMetaorphosts should b
 
 Keepid hatthatheathrediaesielfnbenguttrlyinhanndlimarlyuiietheCu of Cainedoesthe character stillneed todrink bloodor fear sunlight and fteruyA final note:Snce the state s alient almosr certainlycusesseveral derangements and may well make the.characterursuitable for play WouldaCatnitewhojustachieveda higherstate ofexistence haveanything incommon withher former pack? Ifyou're playingacharacterwhomight chieveMetumorphosstall toyourStorytellerand discues whether it would ennich the sturyor just snatchyour character away at the momeat of his ascension.
 
-modernformofthisstudy,codifiedintothePathofDeath antheSoul.benrsthemark of these ancientexperiments. MostCainiteshavelittle doubtthatFiendsconceivedths Pathirs design isunmistakablyTzimiscealthough every Cainite ponders death in his own way,the Necronomists regard it so. scientificnlly.
+modernformofthisstudy,codifiedintothePathofDeath antheSoul.benrsthemark of these ancientexperiments. MostCainiteshavelittle doubtthatFiendsconceivedths Pathirs design isunmistakablyTzimiscealthough every Cainite ponders death in his own way,the Necronomists regard it so... scientificnlly.
 
 Though small in nurnber,the Necronomists,the majority ofwhom are Fiends,have enjoyed increasing power inrecent nighrs because of ther assoctation with the Harhingers of Skulls.Few Cainites had anything of
 
@@ -935,6 +993,10 @@ Necnonomiststend todisregardconventionalmoralities in their study of death. In t
 worth to give these skull-faced warlockswhen they e capedtheir imprisonmentSuch old Cainiteshadmore to offer the Sahbar rhan the Sabbat had to offer them CertainNecronomists had an understanding of the soul hat impresed even this clan of death.Muy Laarenes, versed intheoldestphilosophiesoftheundead,converted to the Path of Deathand the Soul.
 
 The exchange of knowledge between the two groups hasytelded more thanacademc benefits.With the threat of such venerable Cainites behind them,some Necronomists fornerly regardedasdistracted intelle als,haverisen tobecome ducti or bishops.ne waseven confired through the Blood Bathasa priscuswhonw s ties all over the WesternFlemisphere He's dug through collapsed buildings in earthquakeshartered Mexico and picked smoldering skuls from forest fires in Colorado spoke to him at the last Palla Gvanie; he now seems bent onpersuadingtheregenttoformclosertiestothe Giovanni clan—hisinvestigationshaveleadhimtobelieve thatthe
+
+<!-- image -->
+
+<!-- image -->
 
 CastcutofEdenyousayPainisthe reatest teachet, you sayUltmate frecdom and self-discovery,tooIf not for the faet that the Path is considered hereticaleven within the Sabbatund that the Path rejects temporal wealth and power,ClanTzimisce might have become ClanBaaribowStillstanysuprisethatdivils froma clan characterized as a bunch of mad scientists, Meramohosstspervertsand scholars of eldritch lore might be attracted to the Fath of Lilith?
 
@@ -1000,7 +1062,7 @@ Lupines And when it comes to a rural manhurt,the Bratovitches and their bloodhou
 
 ## GRIMALDI
 
-Even m the Final Nghts.the Grimld continue T involve themselves in themortslworld where we would find t distnsteful.Within the cities:that house their compcunds, the Grimaldi have acss to the highest mortalpowerspositionsingovemment,nstryorthe mediaThoughsome Grinmakdi clai this authority direcrly,more often they adviseit.Grimaldi advisemayors, cditors in chief and board members of corporations.
+Even m the Final Nghts.the Grimld continue T involve themselves in themortslworld where we would find t distnsteful.Within the cities:that house their compcunds, the Grimaldi have acccss to the highest mortalpowerspositionsingovemment,nstryorthe mediaThoughsome Grinmakdi clai this authority direcrly,more often they adviseit.Grimaldi advisemayors, cditors in chief and board members of corporations.
 
 Stillsome of the moral uprighmess for which the family was Blooded has withered under curcare.Though their children are often sent to the best private schools they are cxpelled far too often for aggravated ncidents ranging from ear hiting to hcstage taking.And a few upstartchildrenrejecttheirfamilyspurposedencuncing rhcir family'sfortume and thcir Tzimisce masters.They try to live as true mortals and make a grear show of just how human they are by helming charitable foumdations or becoming doctorsor cut-rate attommeys that speak for the poorThcir parents are sometimestoosentimental to deal with them properly,though,thankfully,even the most rebellious Grimaldi understands circumspection.
 
@@ -1014,7 +1076,7 @@ The Caarilla upholdsa Tradition krwn sthe Masqueradea pact among Cainites to kee
 
 They bury the most obvious evidence of Cainites in the most mundane ways. A few years agoa mortal in Boston witnessed oneof ourclnmates assume the bloodform and wash over n car.drowning t those insideA respected reporterwho doesnot go by the name Grimaldi but isof theBlood nonetheless received the police tcport within n hour of isfiling from her lover inthe police department,She called her contact at a national rabloid (a disreputable town-criet old one). The rabloid ran the story two days ater,nd the world viewed it sa sens tional fairyuale.Her police contactmisfiled the report When it resurfaced several weeks later,the story was plready old and,because it appeared ina tabloid first. nlready dead.
 
-Depite a few errant children,Ihaveno doubtthat e Grimaldiare themost loyalof the revenant housesand that they will serve us until Gehenna arives.Although they work intheteressoftbeTmiscefsthefailyisatthediposal of the Sabbatat lareEvery Grinaldiblod bou n meberof he Sabbat,not necessrily a Fiendatanage Convenient to the CamiteThese Snbbaruaunlly hold some authority bishop, archbishop,priscusortheoductusor pack priest ofa famous pack.Theregent even keepsn edicated Grimaldiretinue inMexico City toapprise her cf poings-on in the nnortal workl
+Depite a few errant children,Ihaveno doubtthat e Grimaldiare themost loyalof the revenant housesand that they will serve us until Gehenna arives.Although they work intheteressoftbeTmiscefsthefailyisatthediposal of the Sabbatat lareEvery Grinaldiblod bou n meberof he Sabbat,not necessrily a Fiendatanage Convenient to the CamiteThese Snbbaruaunlly hold some authority bishop, archbishop,priscusortheoddductusor pack priest ofa famous pack.Theregent even keepsn edicated Grimaldiretinue inMexico City toapprise her cf poings-on in the nnortal workl
 
 If anyrhing will challenge the Grimaldis loyalty in the next few yearsit will be the regent. One of the patriarchsfthefamilyhoudome00yearsagorors thnt theregent nolonger bonds the chiledren of the estate and refuss to feed her blood tothe oler retinuethoug shehasbeenfartooegertdosfrhepastseveralyear. Myrevenant suspectththerblood hasumed towater, perhaps,orthat she hascontracted our clan's particlar disense and wishes to keep it a secret.
 
@@ -1034,7 +1096,7 @@ Most membersof the Obertus family develop an obsession to whichhey dedicate the 
 
 For the conceits abour beinga well-Blooded family. it's doubtfl that their ancestrswere related arallThe "Obertus.or the hidden.have served the Tzmisce since the nights of Constantinople as monstic clergy. keeping thefaith that the Byantine Cainte hadbuilt around themselves.Only the family itself knows howit came to Eastem Europe.Aithough they wearhered the earlyTremere-Tzmisce srugglesisolated scholars were of lite use in the nightsof the Anurch Revolt.Theeldest revenants of the Obertuserudite historians of geneta ticnal conflicramongtheundendmusthoveknowm tht history favored the childer.They sided with the ruascent Sabbat against their elders and,a bloody century laer, abandoned theirmanses andmonasteries in favor of the NewWorld.When theSabbat begnitsmignationto the Americas,their leamed servants were at the docks to welcome them.
 
-Throughout New England andboth Southmnd Cet tralAmericaestates of Obertus prsperquet fshin villages and out-af-the-way heumlet、home schooling their children in the names ofour hoary cian lnd its history.The oler geherationsweary of child rearing continue the familys studies.The younger Obertus,the doting parents,await thenightwhen their childfinally ses hermind n somethingAnd if  few wayward progeny carinot find a study worthycf obsessiot.well, someone's got to do the wash
+Throughout New England andboth Southmnd Cet tralAmericaestates of Obertus prsperquet fshin villages and out-af-the-way heumlet、home schooling their children in the names ofour hoary cian lnd its history.The oler geherationsweary of child rearing continue the familys studies.The younger Obertus,the doting parents,await thenightwhen their childfinally ses hermind n somethingAnd if  few wayward progeny carinot find a study worthycf obsessiot...well, someone's got to do the wash
 
 ## VSOINVZ
 
@@ -1144,6 +1206,8 @@ To cteate a whdhe Fnd flehrafts the ghus gether into somethinglike a cohesive en
 
 Once the constuction iscomplere,heTmisce feeds teghoulsaconcoctionofblooddmwnfromeachofthem,n eltecr crcating a hloodbond aong all themmds thatwill evenally become the ochd Building upon this bond.he Fendm calesceheBeastsWithininto snglealbet madanmperfect,BeastTaitonlly.a kolhic ritual teatesthisffecthoughthentualislost unknewnnthe mode nights.A fewTimisce have gained sucha sophisti caedunderstanding of the AnimalisnDiscipline that they canbringabut the ameresult.
 
+<!-- image -->
+
 Even at the heightof the cln's dominace nthe O WodwTsewthrlfwrll rorted to thecreation of such uncontlable wrecking machinesln the odem nights.even the most leamed Tzimiscelerscncount thenumberofhd they knw exst on one hand.
 
 Displines:Fori 4,Potcc 6(Note：i to all powers of DominatePresencc an Anialis below five dots)
@@ -1186,7 +1250,7 @@ Disciplines:Celerity.Domnate.Fortitude Weakness: Grimaldi serve not just the Fie
 
 ## Obertus
 
-Disciplines:Auspex,Obfuscate,Vicissitude Weakness:Afamily of unbalanced intel. lectuals,most Obertushave obsessive/ compulsive disorder (Vampire:The Masquerade.p.2) or a simflar intelleetual derangement.
+Disciplines:Auspex,Obfuscate,Vicissitude Weakness:Afamily of unbalanced intel. lectuals,most Obertushave obsessive/ compulsive disorder (Vampire:The Masquerade.p.222) or a simflar intelleetual derangement.
 
 Disciplines:Auspex,Presence,Vicissitude Weakness:Zantosa mnke easy marks for temptation.Membersofthefamilycannotspend Willpower toresist supernatural enticements to pleasure.Regardles of-the source of the temptation,a Zantosu must succeed ona Will power roll (difficulty determined by the Storyteller)whenever heparticularly cnjoysan experience. Falure indicates that the Zantosa becomes acddicted to the experience.and obses. sively sccks torelive tt as often asposshle
 
@@ -1232,7 +1296,7 @@ OG
 
 sal4+helevlf the pwe lnadnavictimmay spendapotofWlpowertoovercomeaparticulareffectf this way but s still vulnerable to subsequent uses of the Discipline.
 
-MET Systems: When you invoke any level of the Wzy ofSnnoyot spend oeWillpowerTraitandmake aSocial Challenpe against yo oppent (amd se the Kolhnsm Aityforretests）fyur enemysucsstullyverbidsagainst youthough,yousuffertheffctsforfivefullums.Generally. if ffec s forberf sitkeseffectssons yseitnlsbasenyourtuar isfyincke powernmnemyforonerumitkeseffectassoonasou finish the challenge and lastsuntil the beginning of yournext tuCoutbasedonfullturrnotonactions,justincaseyou have maltiple actions in a tum (such s from Celerity). The pponent may expend one Willpower Trait to resist an crmotion-influencingcffectoftheWayofSowrou,butthisdoes not grunt immtnity to the Discipline; thatisthe tager may shnigoffiveneffet,butcoubeattackewithitagan thenext tum.
+MET Systems: When you invoke any level of the Wzy ofSnnoyot spend oeWillpowerTraitandmake aSocial Challenpe against yo oppent (amd se the Kolhnsm Aityforretests）fyur enemysucccsstullyverbidsagainst youthough,yousuffertheffctsforfivefullums.Generally. if ffec s forberf sitkeseffectssons yseitnlsbasenyourtuar isfyincke powernmnemyforonerumitkeseffectassoonasou finish the challenge and lastsuntil the beginning of yournext tuCoutbasedonfullturrnotonactions,justincaseyou have maltiple actions in a tum (such s from Celerity). The pponent may expend one Willpower Trait to resist an crmotion-influencingcffectoftheWayofSowrou,butthisdoes not grunt immtnity to the Discipline; thatisthe tager may shnigoffiveneffet,butcoubeattackewithitagan thenext tum.
 
 A final note:Dealingwith forgottengoxisrequitespropr ety,especially thoe who gvem such bleak concerns.f invokedncorrectly,theWayofSorrwturns onthekolm OnabotchtheFiend sufferstheeffects f his own poweras ifshe had sconed five successes.
 
@@ -1244,7 +1308,11 @@ Naned for the goddess of grief and failure, this power allows the ko torobaroppo
 
 METSystem:Maleeyecontactwityoursubjectand perform the usualpenditues fcrtheWayofSomou(if vou haveproblemswathpeoplegoingtoridiculouslengthstoavoid ecotactyousholdlookntowatevertnouve cpted for Dnate）.Ifyou best the taget inaSocial Challeethen hevictmnte ny Wllpwer Tts activateanyDsciplinesumtilyext tumWhenyourext tumcomes.youmay（as a reflexive action}expenda Socal Trit and testagan tosustainthepoweragainst theopponent （ssmingit scceeded the fist time）;yu dontnee eye ontact tomaintin the power in this fashion.Once you fail a successive Social Challenge or decidenot to maintain the power,itend imediately.
 
+<!-- image -->
+
 ## OPRICHNIRI
+
+<!-- image -->
 
 The Oprichniki,the vassalsof RussiasTmisce. can trace theirarigins down to the year.It was 1565 when Ivan Grony-lvan theTerrible as history would later lament—divided his Russtan kingdoms andnamed his secret militin after his principality Oprichnina. Durtng those years,these mortalmercenariesserved as cutthroats to n mortal devi;only Vlad Tepes could match Ivan'sreign of hlood. The Oprichnikiin tutncarried our Ivan's orders,perforning ucts of terror against the populce,flaying anyonewho complained tooloullyandboilingthe czar's enemies.
 
@@ -1262,13 +1330,15 @@ Since the collapse of the Soviet Union,the Timisce are finally free ofboth Brujn
 
 Weakness:The Oprichniki drawback manifests more as a curse rhan a weakness.Allrevenants from this family.regardless rheir ethrie background.suffer at rhe handaaf at least one ghost asper the 3-pt Supernarural Flnw Hnunted (see Vampire:The Masquerade.p.30Z).Russian koidan believe thc ghosts are the vicrims of Novgorod,a Russian city thatthe Optichnikidecimated intheir mortal years Ivan's nssauit against Novgorod resulted in the mrder and torture of thousands of innocent civilinns, u crime the revenants carry with them Even ifan Oprichniki fincs away throughDisciplinesornagic to rid himself of his ghost,another nlways takes its place.Thus,the curse forever follows the revenants.
 
+<!-- image -->
+
 AnyFiendworthycftheamecanspitcutatellinginsult. But with hi power,Krivda 一 agoddess fhatred and bittees-ensues that the emarkoffends,enraging the tecipient.In theTseTemere conflicts ofnights long past,rd Krivda n heir ngsincg r Uper opponens to fenyThey prefeed to deal with gy fas instcad of calculated Thauagy.This is a dangepwerte,tcanmbalnceaphysicallwak opponent whhnsaccess topowerful Disciplnesorcouk be used toeborrsaCninitebycausinghim tofreeyinpublic
 
 ## THEINSULTSOFKRIVDA
 
 System:AfererplyerpendsaWilpowerointhe llninsulsthetagetnhemostoffenstveandhumilatng way shecncnceveTheklsplyerrollsManipulation +Kolduns(diffety q to thevictim'sWllpower）. I therollssuccehlthetagetfliestoanuncontollablemge and assul thekolm. lf the target isa vampire,hest immedatelyroll tresst frey（difficuly5+theumberof sucesseson the actvationroll)
 
-MET System: Address your victim with some sott of offensive curse asyouexpend pourWillpower andmakeyour SocialChallengeYoumstroleplysomefomofinsuland cffense—ifyoudonot,thepowerfalsautomatcally.Oler Tiisce migh lay oit positivelyBiblicalsuningcurses whule yomgTimisce could flay the earswith a gangbanger's linlfyprtelyandwintheSocal Chal lenge,yourargeimmediately fliesimto arageandartemptsto atackyounsnextmyouvtsmakeoesrt of phycal amck aunstyou ifat allpossblef the foe isa vampire.hemy resist withaSelf-ContoVirueTest(dff cultyof4Tits）burifthsfalsentersfreny（whichtypially Lastk at least: five minutes).
+MET System: Address your victim with some sott of offensive curse asyouexpend pourWillpower andmakeyour SocialChallengeYoumstroleplysomefomofinsuland cffense—ifyoudonot,thepowerfalsautomatcally.Oler Tiisce migh lay oit positivelyBiblicalsuningcurses whule yomgTimisce could flay the earswith a gangbanger's linlfypppprtelyandwintheSocal Chal lenge,yourargeimmediately fliesimto arageandartemptsto atackyounsnextmyouvtsmakeoesrt of phycal amck aunstyou ifat allpossblef the foe isa vampire.hemy resist withaSelf-ContoVirueTest(dff cultyof4Tits）burifthsfalsentersfreny（whichtypially Lastk at least: five minutes).
 
 ## ·THEWEEPINGOFHRUCHINA
 
@@ -1342,6 +1412,8 @@ Oloisa shtleAfrg lerMulh hpyHeidedcleedpim eHsfe
 
 Tros Cressida:
 
+<!-- image -->
+
 Descendant:
 
 -Exa
@@ -1406,7 +1478,7 @@ System:Afterthe playerspends twoWllpowerponts. the characterbecomesevenmure powe
 
 ForaTimisce whocanexpetienceEcstatcAgny,pan becomespowerThemorewoudedheishemorepotenthe becomesTheiend delghts inevery slash.punchbullet burrandcharnclshispainintophysicalprowessorincredible displays of Caine's Gits.
 
-MET System:Youmust spend aWillpwer Trait activatEtaticgy.Forthedatnfereyan twobonusPhysicalTraitsforenchhealthlevelofdamageyou sufferncomayoucanraeyourhysicalTrairpoolabove yournlgeneticnlmiHealyouselfandyouwilosc any andall bousTraits eamed thnopgh thispowet lf you pssesanyabiliytirethewoundpenliesyoureccive incomhatyugainnadded benefit nEcstatiAgny.
+MET System:Youmust spend aWillpwer Trait activatEtaticgy.Forthedatnfereyan twobonusPhysicalTraitsforenchhealthlevelofdamageyou sufferncomayoucanraeyourhysicalTrairpoolabove yournlgeneticnlmiHealyouselfandyouwilllosc any andall bousTraits eamed thnopgh thispowet lf you pssesanyabiliytirethewoundpenliesyoureccive incomhatyugainnadded benefit nEcstatiAgny.
 
 ## EYEOFTHESZLACHTA(ANIMALISMLEVELSIR)
 
@@ -1470,7 +1542,7 @@ fimilyinsted of thoseoftheTzmisceAny Diciplinenotof yureveantflyvnneasonhoughthe
 
 The will f thesiritsfromtheancestl Tzimiscehome land weighs henvy  your blood soil from a place iprnt toyouasmortal ntdoYouactullyeed w handfulsofthetinted EastemEurcpeasoilof theTzimisce hcta.AnclSolDependencemostconlyminifestsnthechilderotlulihaundthebranchoftheclanthaght tbedescendedfromYorakCharactersEmbracedinEastem Europecanrakethis Faw (theyrealready depenantonthe local sal).
 
-DependenceontheirnativesoilhamperedtheTzimisce's flightfomEastmFumopeEvenafewchildersredelsewhere tepedthesilefaomclandtheyhadnevervised,making them particularlyvulnerable to enemis who knewof this wekness.Inthemodem nights,rapid transpottation makes scha hatchleseverebutevenchilerredgenem tsfterthcirancestsrelocatedoccasonailymanifeshis Flaw.
+DependenceontheirnativesoilhamperedtheTzimisce's flightfomEastmFumopeEvenafewchildersredelsewhere tepedthesilefaomclandtheyhadnevervised,making them particularlyvulnerable to enemis who knewof this wekness.Inthemodem nights,rapid transpottation makes scha hatchlessseverebutevenchilerredgenem tsfterthcirancestsrelocatedoccasonailymanifeshis Flaw.
 
 MET System: You dependenceon the magically rich d diseasedsoil of Easte Europe isso severe that, until you gre m pseson of wohanfls,you will suffer a woTrait peralty to all challenges
 
@@ -1496,15 +1568,17 @@ Portonsof theAntedluvan are notonly wichinyou, theyre activeanatlkeacaner thatde
 
 ## SICRINTHEHEAD
 
-Theumlifestyleof theTimisce puts them athighrisk f developing various derangemens. Botched experiments,epeated mulence of their perversions and the intensity f theirEmhracesconspirero nwisttheirpersooalities Whente Storyteller detetmines that a Tzimisce should gn a new derangementconsider theiss inVampireTheMasquerade(pp.2-224)GuidetotheSabbat(pp.161-163）unthe list included below.If theStoryteller allows,any derange nerts from Clanbook:Malkavian or cven Clanbook: Tremere might also be appropriate.
+Theumlifestyleof theTimisce puts them athighrisk f developing various derangemens. Botched experiments,epeated mulence of their perversions and the intensity f theirEmhracesconspirero nwisttheirpersooalities Whente Storyteller detetmines that a Tzimisce should gn a new derangementconsider theiss inVampireTheMasquerade(pp.222-224)GuidetotheSabbat(pp.161-163）unthe list included below.If theStoryteller allows,any derange nerts from Clanbook:Malkavian or cven Clanbook: Tremere might also be appropriate.
 
 Agoaphbialiterallymeansfearofopenpaces,bute trnslonismisleading.CalleMad ScientisrsDiseasehy yerTmiscgrphobanifssanexeeaver sion to places the sufferer feashe will punic.Sonetimes the
+
+<!-- image -->
 
 derangeentisatached ofwlocaionsbutgene agraphobicsavotd stutionsiwhichescapesdifficult（an ai t 300feet）ormbrassing （mkingaspch）
 
 The territorial narureofmany Timisce makes thi derangement relatively cmmon within theclan.Nodoubt thewotld is scatteredwithatleast a hurfilofagoraphobic Cainitesdriveninto torper from lckcfblood
 
-Agomphobicsdon'tvolumrerforsituationsthattheyfear mightcause anxiety.nlessupematomallycompelledo phobcvapiestsucceedonWlpowerolificuty 8)toleave theirhuvenscacheveringandmustspendapoint ofWillpower toentet a situatin fro whichescape will be dificultorembarrasnglfthechaacterfsanyWillpower roll dring see hattke ceh a siuton,th charactermust spend apoinr fWillpower ot fleeVanpines can ignore these corwtmnts while in ftenzy.
+Agomphobicsdon'tvolumrerforsituationsthattheyfear mightcause anxiety.nlessupematomallycompelledo phobcvapiestsucceedonWlpowerolllificuty 8)toleave theirhuvenscacheveringandmustspendapoint ofWillpower toentet a situatin fro whichescape will be dificultorembarrasnglfthechaacterfsanyWillpower roll dring see hattke ceh a siuton,th charactermust spend apoinr fWillpower ot fleeVanpines can ignore these corwtmnts while in ftenzy.
 
 ## ACUTESANGUINARYAVERSION
 
@@ -1542,9 +1616,23 @@ sassaoonsg
 
 Can concealor falsifynntitmleon- dition(vampire,shapeshiftr,ghost, etc.)
 
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
 THUSIAMESETWIN
 
 Prelude: Your-parents balked when the man from he circus wanted to take you on the roadi. You and your children,not sideshow freaks."People are curious,the brother.inextricable since birth,were their beloved circus man-said.Your sons can reach them about the biarreodditiesof nature,Your father tejected the deal by teaching for hisshotgum.
+
+<!-- image -->
 
 Quote:Forivemewold sustuinmyself some other ayfcold.Byes,hisll pobabty killyom feedimg forro she'd never stop askingquestionsWhnt does it feel like? wascertainlycuriousthenight shemetyouYou thought Didyou ever have any privacy?Does it mnke sex awk Maybe he man from the circus was right.Your sire wardYoud beenasked thesequestonsallyourlifeand you erjoyed theattentionof someone who seemed sincetely curious.Then she started asking questions you didn't quite understand. She threw around the word "embrace"alot
 
@@ -1558,6 +1646,24 @@ RoleplayingHints:Adjusting toexistencewithout your brother has been almost as di
 
 Equipment: Specially tailored clothing, tandom bric--brac from yourmortal days to which you've developed a sentimental attachment
 
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
 ## MODERNPRIMTIVE
 
 Prelude:You hated the modem world nd felt lost initsharsh ambivalence.Youfoundroritestomarkyor Even nimnls could do thar,however.Looking for or Journey through life except fo losing your virginity. dealsto testify that you survived adversity,you came acrossFakirMsafar'sDamces SaredamdProfanewhich Sun Dance. Your world suddenly opened up.for he talked about the very thingsyou felt lackingin your life. showed how he hung himself from hooks in the Indin Pain wasn'tabout enduring,butaboutcelehrating exist ence and marking your way.
@@ -1568,6 +1674,8 @@ Quote: Pad sfferng ar porratf srviland youve a ankcnas hatnzeds pg
 
 Dnttocsandpsercings,but Youstartedslowly.with swiftlymovedchrough thegautcof morific ton ritak. You went toSmoafor auhenticbal atoosnd nealy died fromthe expenence.After encuring hor andcold branding.
 
+<!-- image -->
+
 youevenllymovedtocuringandscarificationYouimered yomfn the modern primitive-mowemenr because it sang to youYou worked fora tprnnllydfthteristoklpl toyourfleshfortheentertanmenroftheotherguesrs Notoncedidyousctean. That'swhat atacted you to theSabbat.Tharswhy yousurvivedyoursires Embraceinamasspectacleandorcof yourmstgloriousexperienceNow, youvenglikemided otheandStstetsnCaeadoctingw tests of mettle to celebnate existence: Youre an-up-and-coming vicar of pan.
 
 ConeptTheworslackinfradvenue,butheSabtchmgedthn Thebodyisavehicleforcxpreneandyoufirlybelieveharwhichdoet illyoukesyoutrUounately.kineaeottudywhenitcome yurstanddsof punishnt d painthreshldSuretheyll comefor he tribal rmband tattoo that'sbecesodamn chicnow.butyoureoing thea serviceby inking their onans.Youvealsocteated smenice bneetchings.oo itsapitynlythcoronerwillseyourworWihheSaatweeruve foundcreaurecpabeandeven proudfundegoingyour rgoYou gow moreinvolvedwiththesectbecaseofCainiteslikeyourselfwhocanendure pan ritesfrben the lmiofrtalfleshandboneYorroleechoesthatf the ancient trbal shamans:you are thcnew priest and perfomer of the modem nightrs.
@@ -1575,6 +1683,14 @@ ConeptTheworslackinfradvenue,butheSabtchmgedthn Thebodyisavehicleforcxpreneandyo
 RoleplayingHints：lfitinvolvespain,you'ethere.Despiteyurne sttellilkchngyuhl youwithathousanddangersthardemanltesting.Conversely,youdespisc people who den'tpushtheirlimitstseewhattheytetuly capableof ongWhatarethyafdfethLkawherethtoughy When youe nt puhng the liits f nge,youe the danger pushingthe limits
 
 Equipment Tartoo rool case with inks,sculpting drill with numerous dill bit types, ptercing needles,straps. skimpy clothing to show off your accoutrements
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
 
 S
 
@@ -1590,7 +1706,7 @@ Hfe come omin.
 
 "MndifIraea look"
 
-OffceBgtpllbe dr,Shhlkeastvigdog.Shstestofhece dehgoubyTFeieIgsshe slryenftllheHoee lile boy holoomchSlood peBet sggeyhff Noedhere.Freahobtyh chfslbsFneed heBloodFet.t.the CimrfielNouyAshsdonge ths e pgft ewyAsNoteyc thfle
+OffceBgtpllbe dr,Shhlkeastvigdog.Shstestofhece dehhhgoubyTFeieIgsshe slryenftllheHoee lile boy holoomchSlood peBet sggeyhff Noedhere.Freahobtyh chfslbsFneed heBloodFet.t.the CimrfielNouyAshsdonge ths e pgft ewyAsNoteyc thfle
 
 Dnhmey.Zsykhe stlploo'erereoitybe I'm a liute thsy self.
 
@@ -1620,7 +1736,7 @@ WhentheSabatsprangfromthisevoltnurymireh Chaliceof OseousDelightswasone of the f
 
 IrtheendittookWoridWarltoexpelthepckfomthr l hnTheyle oFe hechel and their ghouls smggledhe toNewYorkinboesof dirt
 
-Inhelate1990s,thepack lftNewYorktespewht t memberssawascertaindestructionat thchanisoftheCamarilla, onlytoonthecruetkcAt IntheendonlyZalo ind a few nenares, only.months dead, pmained.
+Inhelate1990s,thepack lftNewYorktespewht t memberssawascertaindestructionat thchanisoftheCamarilla, onlytoonthecruetkcAt IntheendonlyZalo ind a few nenares, only.months dead, pmained...
 
 Thcirxploits inAmericn prvedn lesmucousThey destoyed Lasmbcsrips"by the doen in the Secnd SahbarCivil Warandtherevied CodeofMinin 1933 In theThd Sabbar Civil War,Bnhnand thcirCtiff lapdogsdestroyedthefinalembeoftheorigimalpock.Only chilergcandgeat-hidermadbut. omRomanaedZlPees,dnge
 
@@ -1634,15 +1750,17 @@ The Guide of the Sabbat debesme of the Nature DemeAbiliesBackgroumsandPathsfEnli
 
 AMERICAJOHNSON,THERICH GIRL
 
-Background:Foetthesteeotypeofthepolledlittleich gilwhonursaway，hencomescryingbacktodadywhehe e how bad lifentheteerrealy sAmercaraaway and stuyedonthesrrectbecauethat'swhereshebelongedAt17,she Ieft herHighlandPak homenDallsandtokabustoAthers Goriatopusuthe shabhy-chic lifestylewithherfriendToo mch time at he 40Watt Club,a paranoid nwillingnes to pend the$10 shedsln herparentady of adkdicriors corspired ro make her homeless.
+Background:Foetthesteeotypeofthepolledlittleich gilwhonursaway，hencomescryingbacktodadywhehe e how bad lifentheteerrealy sAmercaraaway and stuyedonthesrrectbecauethat'swhereshebelongedAt17,she Ieft herHighlandPak homenDallsandtokabustoAthers Goriatopusuthe shabhy-chic lifestylewithherfriendToo mch time at he 40Watt Club,a paranoid nwillingnes to pend the$10000 shedsln herparentady of adkdicriors corspired ro make her homeless.
 
 Over thenext fewyeasAmericasleptwherevershecould wearing out her welcome with a doeen fnendscrashing with cquinances nd ne-ight sunds, sometimes sleeping on the steetOrthecoldestnightof1997.shewithdrew40bucks for a ma theRWheneverherrowingheroindictin gvehertheelbow,sheprefenedsuckingdicktoatriptothebanl
 
-In the mg of 19,she hitchedaride into Atlnta fer a hook-up.HerchautteurrumedintoagroperwhentheEkicked in,soshetold him to fuck offand spenr thenexr few months sleepingindootways.Meawile,theSablatcrusaeforAtanta wshatgupAmrcahadnodeathar heJyhad wasplying cut aroundher,but she got scaredasmoreandmore junkies diappesoffthe srer.Onherway otheATMZalkoand hispackrove by and pulled her ntoavan.Her las mortal ecry: n nude circle of leeing fces nd cheap shag carpet.
+In the mg of 1999,she hitchedaride into Atlnta fer a hook-up.HerchautteurrumedintoagroperwhentheEkicked in,soshetold him to fuck offand spenr thenexr few months sleepingindootways.Meawile,theSablatcrusaeforAtanta wshatgupAmrcahadnodeathar heJyhad wasplying cut aroundher,but she got scaredasmoreandmore junkies diappesoffthe srer.Onherway otheATMZalkoand hispackrove by and pulled her ntoavan.Her las mortal ecry: n nude circle of leeing fces nd cheap shag carpet.
 
 Image: America,like her namesake, banks on her atta hlebeary.Unliketheresfherpck,sherefesallVicsie mcdifieationsand looksmuch like shedidinlife:thincncughto lookunheaithy,nverageencxughtofit in,coolenoughnottocare.
 
 Roleplaying Hlints Youre rescurveful —you survived for years without a stable hone and only had to touch your mad money cnce.Although you usually go along with the pack
+
+<!-- image -->
 
 consensus, you throw a fit if sonene wants to do something really stupidThatsheproblewiththis wrdasyou sci moronswhocantrakecareoftheirshitYouenjoymesngwith the beads of such people and affect whatever demeanor you believe willexchxle you fromtheir nanks
 
@@ -1654,7 +1772,7 @@ Demcanor: Chameleon
 
 Generation:11th
 
-Embrace:19
+Embrace:1999
 
 Apparent Age:mil-20s
 
@@ -1708,6 +1826,8 @@ Zalkouddenlythedctuspirforpackofncotes conductedseveralmassEmbracesandmace token
 
 lmageZalko looksgy and tird.Heraely maky contact when he speaks und usully eerme to be staringf
 
+<!-- image -->
+
 herheadwhenshecriesarTyronewhopacksthecartharund her just before the sucomes up.
 
 lmge:Alitteanewiththeblnkxpresionofagine sciopah.Sbepouts butstsillwhileAmericndAshani do her hair each night—they like to experment She weas whatevershundyoftenstealing shirtsfromTyrone.Zaljkohas maipuatedthebonesfheforearms,shouldetbladesandins to create row of sharp spikes for pinning food and ripping throughrival packs.
@@ -1724,13 +1844,15 @@ Demeanor Child
 
 Generation:12th
 
-Embraoe:19
+Embraoe:1999
 
 Apparent Age:9
 
 Physical:Stengh4,Dextenty 5,Smn3
 
 OG
+
+<!-- image -->
 
 sethingnthedisance.Hliswholebcdy ooksoversuffed bullky since his bones are hree times thicker than amortals
 
@@ -1776,15 +1898,17 @@ Note:Zalkosthick bnesgive hmtheequivalenofFtie Zagaint any dagenot caused by fir
 
 TYRONE,THEZULOLOCO
 
-Background:Tyrones lef stculder beansa tattof skelton depictednnxgtedpepective,hise bonyhnd ilippingoff theworlTyrunecall itSkullySome nighhethnksSlullystheonlyreantheClcefOsous Delights chose him for the Embrace.
+Background:Tyrones lef stculder beansa tattooof skelton depictednnxgtedpepective,hise bonyhnd ilippingoff theworlTyrunecall itSkullySome nighhethnksSlullystheonlyreantheClllcefOsous Delights chose him for the Embrace.
 
 InitselfpackcxistencewasntnuchofuchangeforTyre Growing up nthe gangsof AlannsTechuxneighborhood hedidn'tseemuchofadifferenceberweenaknifeinthebackand fangsintheneck.Ofcousesormeofthesurfhedidwithhspack jupingcenrues-oldvmpirescrinkingbloodperoming wcirdritualkidnaringpeopleandwhackng them with shovels-were a hit outse hisexperience Hewhisperad the lwof thejuglellehehathefistieheshotsen and ried toaccept whathewas.
 
-Andhellngefo wasetafat cone andaforyofBull.WhenZalkwasshcked thntsucwhep hsmastredthesedfmofourkindTyronefeltforhefi tinc-undeadcrotherwise-lkeamncallinghisawshos tfemnsterwhodlhislifescrewedupby bit monsters.
+Andhellngefo wasetttafat cone andaforyofBull.WhenZalkwasshcked thntsucwhep hsmastredthesedfmofourkindTyronefeltforhefi tinc-undeadcrotherwise-lkeamncallinghisawshos tfemnsterwhodlhislifescrewedupby bit monsters.
 
 TynealwaystheonetpacifyAericafrershethous afit.Hestalked Zalkdow fmseveral bridoeHewatches out for Sunshine excepr t fight,when she waches cut fo hin）.Bar despite their heahy Vncum,Ttecpetes withAshant whenever he cammybe hecase they were both graduesefthesamemassEnbracemayebecseshesclely Zaljkostavorite.Fegardessthetemal contest esponsiblefor his greatest ailures it nlife histched attempt to lem Kolduic Sorceryandhisfmilureto curdo her mtheFire Dance
 
 ImageTyronescovereditattous.adsotnecfthemmwe Jetsofblck mk shoot thoughhisbody,makingparemsasthey pass. Every few rninues, they trvel rough the veins of his
+
+<!-- image -->
 
 Nature: Caregiver
 
@@ -1792,7 +1916,7 @@ Demeanor:Rebel
 
 Generation:13th
 
-Embrace:19
+Embrace:1999
 
 Apparent Age:early 20s
 
@@ -1816,7 +1940,7 @@ Demeanor:Survivor
 
 Generation:1lth
 
-Enbrace:19
+Enbrace:1999
 
 Apparent Age: mid-30s
 
@@ -1825,6 +1949,8 @@ Physical:Stng3,Dexterity4,Stmi4
 Socil:Charism3,Mnipuanon 2,Appeanance2
 
 Mental:Perceptn4,lntellgence5,Wis3 Talents:Alees2,Ahleics 2,Braw3,DoIFortue Teling2.ltimidatin3,Leadeshp1.Fmhanlme4.Srerrw 2,Suhrerfuge?
+
+<!-- image -->
 
 OG
 
@@ -1836,7 +1962,7 @@ Skill:Bdy Crft3FeDacng4.Feams3.Mlee2 Perfonmance 3 （acting).Security 1,Surviva
 
 Aansfsheh.Wetheseamamst gg smg btMoay.Zakosgehwrs
 
-Ie'stddffcerhshaas todghisuot.Theyvebemfoahw. Thglg Wf khpckeanybgnthesMe rexu teSy f li.meah,fuc
+Ie'stddffcerhshaas todghisuot.Theyvebemfoahw. Thglg Wf khpckeanybgnthesMe rexu teSy f li...meah,fuc
 
 Ashthrueerlpoweegie yeesTheLgmefhFe thBlooFestasucknpngthefe,hatlshirb t toaeeth hrAtitesno gooRih ol ts to go CalifgstghNek Zansebngps headedTheChliceofCsseosDeighscongsoontoaum fin
 
@@ -1866,9 +1992,9 @@ FollowngThmMyca becameSchacuptedand androgous（ifaen）beuty.theetyghtftheste S
 
 Afer ConsatiopleellMy and Symen becae gsfthBallnTineTheyvle Mycafowever insighr he could offer abour Constantinople's,nd thus Alexaras.knowledeAshyneadyllthiswnotto lastMyadriven byMichldeamtohepbuildsoehing geater thahselfoned thescent andposingrch RevoltHe pved hisloyalry to the Sabbat by devourngand reugittinghissieSyeonepetellyfrefillydinblering himThis eamed hu eny into.heanals of Sabhar infmy, alngwithhistnsttheConvetnfThomswre e shered awy his mculiniry and huried it atthe Ventrue Hardescadtindigust.
 
-Sschared fom seclusin dring he first Sabbar Civil Wr.lskilwith thewitcheraft ofthebeinousTremcre were siromger thun ever, and allied Teimisce suspected Sascha hndgrowinkwledge umdertheturelageofKupalaWiththe signing of the Purchase Pact Sascha scemed drven in new directionswiththirt forarcane kwledgendcheolgy Thhrhe late19ndearly20hcenusitpon （fnncily） dfxpedisinEgprcan the MillEsOnheveryrreocsinvenjedhedg intheHolyLand LenorSytaThisdidtistractitrom its uty,howevet,for during the Senl Sabhat CivilWar, Saschaservad Regent Gorchistbycliminating thesect'smore troublesome dissenters For Saschaole in th smugle,the sigingof therevised CodeofMialsosawitsappointmentto thepoatinofpriscus.Assuch,irowuvelstheworldoabehalf of-che Sabbut, dealing with rouble asit sces fit.
+Sschareeed fom seclusin dring he first Sabbar Civil Wr.lskilwith thewitcheraft ofthebeinousTremcre were siromger thun ever, and allied Teimisce suspected Sascha hndgrowinkwledge umdertheturelageofKupalaWiththe signing of the Purchase Pact Sascha scemed drven in new directionswiththirt forarcane kwledgendcheolgy Thhrhe late19ndearly20hcenusitpon （fnncily） dfxpedisinEgprcan the MillEsOnheveryrreocsinvenjedhedg intheHolyLand LenorSytaThisdidtistractitrom its uty,howevet,for during the Senl Sabhat CivilWar, Saschaservad Regent Gorchistbycliminating thesect'smore troublesome dissenters For Saschaole in th smugle,the sigingof therevised CodeofMialsosawitsappointmentto thepoatinofpriscus.Assuch,irowuvelstheworldoabehalf of-che Sabbut, dealing with rouble asit sces fit.
 
-Whletsactnse blvn evelyviolent Baschnmoveswithcoldrensning,itisbuildingMichelsDaeam m.1.0teways.Everythmgitdfradesn.omthc wayitocksibeadwhilepenkingtthewayitlohhetleh frmyictim like pullingasock fromn fxor.nfnately,he complete mtricaciesof Michael Deam cluesSechasunder standing mi drives him to the brnk of cxceSasch preoccupation witharcheologyand the occult is rot m undi rectetistfursuchvaskowledeandpowSchn setoeeMichlillnneswhich funherrmishhchpngyeWhenConstinpe fellisChtstianand laterMuslim）invassceredmuchof itswealthandwiomthrughouttheWesemHersphereand the NearEasr.Saschsiss thar the fullscopefMch vision ress somewhere with Gonstantinople's stolen legcy. Recently，hwever,Sachahcome  heeve Mich legacy lieshidleninoherssuh s itself Now Suchaeeks to recapure kwbyleringthe fwng survivu of Corstatinople.This nchdes the Ciangrel Baron ThosFerthe Nose Mchite and.mt impor ntly,theDaconhilfWhetherthpvesSaschasgreatst cporthe beringf itsllremastbe
+Whletsactnse blvn evelyviolent Baschnmoveswithcoldrensning,itisbuildingMichelsDaeam m.1.000teways.Everythmgitdfradesn.omthc wayitocksibeadwhilepenkingtthewayitlohhetleh frmyictim like pullingasock fromn fxor.nfnately,he complete mtricaciesof Michael Deam cluesSechasunder standing mi drives him to the brnk of cxceSasch preoccupation witharcheologyand the occult is rot m undi rectetistfursuchvaskowledeandpowSchn setoeeMichlillnneswhich funherrmishhchpngyeWhenConstinpe fellisChtstianand laterMuslim）invassceredmuchof itswealthandwiomthrughouttheWesemHersphereand the NearEasr.Saschsiss thar the fullscopefMch vision ress somewhere with Gonstantinople's stolen legcy. Recently，hwever,Sachahcome  heeve Mich legacy lieshidleninoherssuh s itself Now Suchaeeks to recapure kwbyleringthe fwng survivu of Corstatinople.This nchdes the Ciangrel Baron ThosFerthe Nose Mchite and.mt impor ntly,theDaconhilfWhetherthpvesSaschasgreatst cporthe beringf itsllremastbe
 
 ## BADUBISTRLITINERANT CARDINALAND FATHEROFTHEPURCHASFPACT
 
@@ -1910,9 +2036,11 @@ Minera brings the sae fevenshindecision to her own f as she des ro her fgileVowe
 
 The annl Palla Gdhed on All HalwEve cah yea, draws packs and coves fo acrcsNohAnerc n MexicoCiry. Itisthe Sabbat'sChristmasDay and Halloweenall tolled into one; itisabloody celebation of Cainite pertinacity. The regent nd the highest caralspscibshopand h bhphsttmrvenlingalodFet BloodEathandvariousimmortalityplayspertrmedbythescct's artanhemillennl Pallarmeceerationwas suppsed tbehlatmtnatthabhsvi int the2ls Centry.It wasarm fesival ofilan nda waming thattheSwordofCnine must beviglantagainst their greatest threat,the Antedilivans With New York lost and mknwn umult in doans to the East,theSabat needed rcasonfor these fetivitiesFew realtahowevertat the set wasabouttosuffernotherblow,themndertToreacorntii Regent Galbraithherself
 
-Regent Oalbraiths dend.
+Regent Oalbraiths dend.....
 
 The festivitiesbegant stset sxectdwith Reet GalbrathgatingcesoselecCainiebforthePl Gmde wasunderway.ZacharySikorsky,aTmsce drgqueen with ancanny skill formpesomtionwaso metwith GalbrithtohelpherconstucthergreatestcostumeyetHewas ppg achngeatypletewifineowiponrger
+
+<!-- image -->
 
 Willti p tPllGeer ceentSkoskyasetegetfcen shet.IwaadnmadenseerpanSikyew he-sthelastpernweeherndaammeroaNewYok pucknowotedafer he Carilsreclamtionof sciy would be blaed an tried fo the regenr's munder.A firt, Sdorsky assued theregent'srole forthe evening,allowing the Sabbat o moment of colehtionfollowing NewYorks fall Whentheeveningended.however,Sikokyrealedhecoult confidein anyoneif hedidntknowwho hd destroyed the rege To hs night he hs remaied Melinda Calbth Regenf thSahhtnd scaedall ohell teyenlly snebody will cut.him.
 
@@ -1972,15 +2100,17 @@ Note: All enes with the astensk (）arc for Gnlbath
 
 Background:ThefatherafthisyungFiend-to-bewasawitchhunter whowsmore thnn hre upsttolcam thar hswfe was wichEveryighfrugRoweh motheetthehshfendedhf withhercpy of LiSpriVindting FreudRighteus EndeavCLygrewuptobeconcthemstnotoraswitch-humter wirchof hisdry.
 
-Lobtesshewa cne of Bebubs fvorits but he h practce hs cnft n pve after confesng hsetre coven. H siteoSttrtpakif BakMa nhc,therbringingthemilitiaaround the witcheshcmes thenext momingEventull, fe prevented such nfleao. New Englndknewhimasapetentwitch-hunterwhosestatuedefied thchoribleaccuatonsthrownathimbythewitcheshedeaptired. Wirches behaved rhenslves whenever he came b townand quictlyspecuatedaoutwheallywedhssul
+Lobtesshewa cne of Beeebubs fvorits but he h practce hs cnft n pve after confesng hsetre coven. H siteoSttrtpakif BakMa nhc,therbringingthemilitiaaround the witcheshcmes thenext momingEventull, fe prevented such nfleao. New Englndknewhimasapetentwitch-hunterwhosestatuedefied thchoribleaccuatonsthrownathimbythewitcheshedeaptired. Wirches behaved rhenslves whenever he came b townand quictlyspecuatedaoutwheallywedhssul
 
-Thnouh he centiesRighteus Endeur having ropd liuplmmennfter his Emce）rogh ueroussuccehiliwestigaons tobeconepscswithinhe SabluHecrrenrlywelsallalongtheEastCoos,leadmgriat tiousCainite gatheringamdinspiring the packswith speech about rhe rightees ofthcircause:Hcsill conuctshiswitc humtsnhisstatre allowshimtodoswyfo thempices tSbt citin.Ooc.heeied on theinfilate and victpt htwalssve him awieberthIn themodem mghtshis fcrite tcticis o eptiepaclly hoe htrng aumd.Blod Feasts wrkinig to nodpuposc.Asing Righteous Endeavor s simululynducnnvtiihlitybutits ncnviablecredehtialforanySablattoclain: HisTellowcnusadets dothe k fhekinganoeendup capuring hewichcs themselvesThe confesom,however, Rightcous Endeavor irvari ably climn for hielf
+Thnouh he centiesRighteus Endeur having ropd liuplmmennfter his Emce）rogh ueroussuccehiliwestigaons tobeconepscswithinhe SabluHecrrenrlywelsallalongtheEastCoos,leadmgriat tiousCainite gatheringamdinspiring the packswith speech about rhe rightees ofthcircause:Hcsill conuctshiswitc humtsnhisstatre allowshimtodoswyfo thempices tSbt citin.Ooc.heeied on theinfilate and victpt htwalssve him awieberthIn themodem mghtshis fcrite tcticis o eptiepaclly hoe htrng aumd.Blod Feasts wrkinig to nooodpuposc.Asssing Righteous Endeavor s simululynducnnvtiihlitybutits ncnviablecredehtialforanySablattoclain: HisTellowcnusadets dothe k fhekinganoeendup capuring hewichcs themselvesThe confesom,however, Rightcous Endeavor irvari ably climn for hielf
 
 WhilevetngmcleneOuenssnwstemMas heRgeC fecety witheey thesftheclony.Mknghtyinto "lndnlandheqclylocedtcovenbedilledandal hisgdeor hree hours he riphu gventhe ef witchesonfin,he dicoveedtnonethess）.He dcend n holytsbutrelytherfedcerk themHelsw. Thohwaso theonehewkxkinfor,RihteouEnr had found the Sabbat.
 
 Image Shxmler-length bnun kair, conserate eyes and a benkfr anesck hese onahelhym frame and youll haveRighteusEndevor. Among the deadhe wearsa blckwolckkwhewyrerahc fcktbl wshheciWhingong mdI hento warig hisrllblk felt hat
 
 RoleplavingHintAsyveoneseyurbhgday yotinalcwy t illyoufeelwheclictincon
+
+<!-- image -->
 
 sion.Bearingasinner witha whip （the wre hersisthe better） sendstileshughyourlegsbr inyomindyoubelievee Just pood at what wou do. No such ntkonaleation gowems your relationship with the Beast—youhopethottheironybringsLncifer three smiles,
 
@@ -2064,7 +2194,7 @@ Appearance
 
 Wics
 
-## ABILIES
+## ABILIIIES
 
 ## TALENTS
 
@@ -2128,7 +2258,7 @@ Politics
 
 Subterfuge
 
-0.
+00000.
 
 Survival
 
@@ -2140,11 +2270,11 @@ DISCIDLINES
 
 VIRTUES
 
-0.
+00000.
 
 Conscience/ConvictionOoo0
 
-Self-Control/Instinct\_o
+Self-Control/Instinct\_oooo
 
 Courage
 
@@ -2162,7 +2292,7 @@ WILLPOWER-
 
 - [ ] papunox 2 口
 
-0000 □□□□
+0000000000 □□□□□□□□□□
 
 - [ ] Mauled -2 口
 
@@ -2176,7 +2306,11 @@ WEARNFSS
 
 Must sleepinat leasttwo handfuls of native soil
 
-□□□口
+□□□□□□□□□口
+
+<!-- image -->
+
+<!-- image -->
 
 ## Tzimisce
 
@@ -2213,3 +2347,9 @@ VEHICLES
 SNAAVH
 
 NOLVOOT
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->

@@ -1,0 +1,442 @@
+{
+  "vbn:clan:brujah:brujah:1f68e056": {
+    "anchor_id": "vbn:clan:brujah:brujah:1f68e056",
+    "domain": "clan",
+    "entity": "Brujah",
+    "file_path": "Anarch Guide.md",
+    "section_header": "CONVENTIONOFTHORNSCHEATSHEET By Angus MacLeod,Scottish Brujah anarch",
+    "line_number": 383
+  },
+  "vbn:clan:thin-blooded:thin-blooded:eb414e45": {
+    "anchor_id": "vbn:clan:thin-blooded:thin-blooded:eb414e45",
+    "domain": "clan",
+    "entity": "Thin-Blooded",
+    "file_path": "Anarch Guide.md",
+    "section_header": "ADDITIONAL THIN-BLOODED RULF'~ Anomalous Biological Activity and Aging",
+    "line_number": 2014
+  },
+  "vbn:discipline:animalism:animalism:22c07233": {
+    "anchor_id": "vbn:discipline:animalism:animalism:22c07233",
+    "domain": "discipline",
+    "entity": "Animalism",
+    "file_path": "Anarch Guide.md",
+    "section_header": "DISCIPLINES Animalism",
+    "line_number": 840
+  },
+  "vbn:discipline:auspex:auspex:4cd83167": {
+    "anchor_id": "vbn:discipline:auspex:auspex:4cd83167",
+    "domain": "discipline",
+    "entity": "Auspex",
+    "file_path": "Anarch Guide.md",
+    "section_header": "Auspex",
+    "line_number": 844
+  },
+  "vbn:discipline:celerity:celerity:b6089344": {
+    "anchor_id": "vbn:discipline:celerity:celerity:b6089344",
+    "domain": "discipline",
+    "entity": "Celerity",
+    "file_path": "Anarch Guide.md",
+    "section_header": "Celerity",
+    "line_number": 854
+  },
+  "vbn:discipline:chimerstry:chimerstry:5429339c": {
+    "anchor_id": "vbn:discipline:chimerstry:chimerstry:5429339c",
+    "domain": "discipline",
+    "entity": "Chimerstry",
+    "file_path": "Anarch Guide.md",
+    "section_header": "Chimerstry",
+    "line_number": 858
+  },
+  "vbn:discipline:dementation:dementation:d6969244": {
+    "anchor_id": "vbn:discipline:dementation:dementation:d6969244",
+    "domain": "discipline",
+    "entity": "Dementation",
+    "file_path": "Anarch Guide.md",
+    "section_header": "Dementation",
+    "line_number": 862
+  },
+  "vbn:discipline:dominate:dominate:349a78ad": {
+    "anchor_id": "vbn:discipline:dominate:dominate:349a78ad",
+    "domain": "discipline",
+    "entity": "Dominate",
+    "file_path": "Anarch Guide.md",
+    "section_header": "Dominate",
+    "line_number": 870
+  },
+  "vbn:discipline:fortitude:fortitude:ec0a2e78": {
+    "anchor_id": "vbn:discipline:fortitude:fortitude:ec0a2e78",
+    "domain": "discipline",
+    "entity": "Fortitude",
+    "file_path": "Anarch Guide.md",
+    "section_header": "Fortitude",
+    "line_number": 874
+  },
+  "vbn:discipline:obfuscate:obfuscate:d68d1078": {
+    "anchor_id": "vbn:discipline:obfuscate:obfuscate:d68d1078",
+    "domain": "discipline",
+    "entity": "Obfuscate",
+    "file_path": "Anarch Guide.md",
+    "section_header": "Obfuscate",
+    "line_number": 880
+  },
+  "vbn:discipline:potence:potence:9f78fcc8": {
+    "anchor_id": "vbn:discipline:potence:potence:9f78fcc8",
+    "domain": "discipline",
+    "entity": "Potence",
+    "file_path": "Anarch Guide.md",
+    "section_header": "Potence",
+    "line_number": 888
+  },
+  "vbn:discipline:presence:presence:89b2caf2": {
+    "anchor_id": "vbn:discipline:presence:presence:89b2caf2",
+    "domain": "discipline",
+    "entity": "Presence",
+    "file_path": "Anarch Guide.md",
+    "section_header": "Presence",
+    "line_number": 896
+  },
+  "vbn:discipline:protean:protean:2ea8c07c": {
+    "anchor_id": "vbn:discipline:protean:protean:2ea8c07c",
+    "domain": "discipline",
+    "entity": "Protean",
+    "file_path": "Anarch Guide.md",
+    "section_header": "Protean",
+    "line_number": 900
+  },
+  "vbn:discipline:quietus:quietus:376ca5cf": {
+    "anchor_id": "vbn:discipline:quietus:quietus:376ca5cf",
+    "domain": "discipline",
+    "entity": "Quietus",
+    "file_path": "Anarch Guide.md",
+    "section_header": "Quietus",
+    "line_number": 904
+  },
+  "vbn:discipline:thaumaturgy:thaumaturgy:0000cf89": {
+    "anchor_id": "vbn:discipline:thaumaturgy:thaumaturgy:0000cf89",
+    "domain": "discipline",
+    "entity": "Thaumaturgy",
+    "file_path": "Anarch Guide.md",
+    "section_header": "Thaumaturgy",
+    "line_number": 912
+  },
+  "vbn:boon:boon system:boon-system:254c14ef": {
+    "anchor_id": "vbn:boon:boon system:boon-system:254c14ef",
+    "domain": "boon",
+    "entity": "Boon System",
+    "file_path": "Anarch Guide.md",
+    "section_header": "Boons and Prestation",
+    "line_number": 3288
+  },
+  "vbn:morality:morality:morality:b07f3c2d": {
+    "anchor_id": "vbn:morality:morality:morality:b07f3c2d",
+    "domain": "morality",
+    "entity": "Morality",
+    "file_path": "Anarch Guide.md",
+    "section_header": "MORALITY AND VIRTUE TRAITS",
+    "line_number": 750
+  },
+  "vbn:morality:humanity:humanity:e2d57f7b": {
+    "anchor_id": "vbn:morality:humanity:humanity:e2d57f7b",
+    "domain": "morality",
+    "entity": "Humanity",
+    "file_path": "Anarch Guide.md",
+    "section_header": "RFJFCTING  HUMANITY",
+    "line_number": 1528
+  },
+  "vbn:status:influence:influence:7a856d96": {
+    "anchor_id": "vbn:status:influence:influence:7a856d96",
+    "domain": "status",
+    "entity": "Influence",
+    "file_path": "Apocalypse.md",
+    "section_header": "Influence",
+    "line_number": 4136
+  },
+  "vbn:influence:influence system:influence-system:a0267299": {
+    "anchor_id": "vbn:influence:influence system:influence-system:a0267299",
+    "domain": "influence",
+    "entity": "Influence System",
+    "file_path": "Apocalypse.md",
+    "section_header": "Influence",
+    "line_number": 4136
+  },
+  "vbn:clan:toreador:toreador:a2e31350": {
+    "anchor_id": "vbn:clan:toreador:toreador:a2e31350",
+    "domain": "clan",
+    "entity": "Toreador",
+    "file_path": "Art of V ampire - The Masquerade.md",
+    "section_header": "D",
+    "line_number": 3055
+  },
+  "vbn:morality:path:path:07f0940a": {
+    "anchor_id": "vbn:morality:path:path:07f0940a",
+    "domain": "morality",
+    "entity": "Path",
+    "file_path": "Art of V ampire - The Masquerade.md",
+    "section_header": "Empathetic",
+    "line_number": 1196
+  },
+  "vbn:clan:gangrel:gangrel:c260df0a": {
+    "anchor_id": "vbn:clan:gangrel:gangrel:c260df0a",
+    "domain": "clan",
+    "entity": "Gangrel",
+    "file_path": "Blood Magic - Secrets of Thaumaturgy.md",
+    "section_header": "AN",
+    "line_number": 822
+  },
+  "vbn:clan:tremere:tremere:77462964": {
+    "anchor_id": "vbn:clan:tremere:tremere:77462964",
+    "domain": "clan",
+    "entity": "Tremere",
+    "file_path": "Blood Magic - Secrets of Thaumaturgy.md",
+    "section_header": "NON-TREMERE APPRENTICES",
+    "line_number": 1370
+  },
+  "vbn:clan:samedi:samedi:a9c5f152": {
+    "anchor_id": "vbn:clan:samedi:samedi:a9c5f152",
+    "domain": "clan",
+    "entity": "Samedi",
+    "file_path": "Blood Magic - Secrets of Thaumaturgy.md",
+    "section_header": "THE SAMEDI",
+    "line_number": 2728
+  },
+  "vbn:clan:assamite:assamite:37514ae6": {
+    "anchor_id": "vbn:clan:assamite:assamite:37514ae6",
+    "domain": "clan",
+    "entity": "Assamite",
+    "file_path": "Blood Magic - Secrets of Thaumaturgy.md",
+    "section_header": "ASSAMITE E SORCERY",
+    "line_number": 3109
+  },
+  "vbn:discipline:necromancy:necromancy:b04635dc": {
+    "anchor_id": "vbn:discipline:necromancy:necromancy:b04635dc",
+    "domain": "discipline",
+    "entity": "Necromancy",
+    "file_path": "Blood Magic - Secrets of Thaumaturgy.md",
+    "section_header": "WeSTERN NECROMANCY",
+    "line_number": 2542
+  },
+  "vbn:clan:malkavian:malkavian:27bd819c": {
+    "anchor_id": "vbn:clan:malkavian:malkavian:27bd819c",
+    "domain": "clan",
+    "entity": "Malkavian",
+    "file_path": "Book of the Damned.md",
+    "section_header": "Malkavian",
+    "line_number": 1358
+  },
+  "vbn:clan:nosferatu:nosferatu:d7f2273f": {
+    "anchor_id": "vbn:clan:nosferatu:nosferatu:d7f2273f",
+    "domain": "clan",
+    "entity": "Nosferatu",
+    "file_path": "Book of the Damned.md",
+    "section_header": "Nosferatu",
+    "line_number": 1370
+  },
+  "vbn:clan:ventrue:ventrue:68f97429": {
+    "anchor_id": "vbn:clan:ventrue:ventrue:68f97429",
+    "domain": "clan",
+    "entity": "Ventrue",
+    "file_path": "Book of the Damned.md",
+    "section_header": "Ventrue",
+    "line_number": 1422
+  },
+  "vbn:clan:caitiff:caitiff:75cc1ef9": {
+    "anchor_id": "vbn:clan:caitiff:caitiff:75cc1ef9",
+    "domain": "clan",
+    "entity": "Caitiff",
+    "file_path": "Book of the Damned.md",
+    "section_header": "Caitiff",
+    "line_number": 1436
+  },
+  "vbn:role:prince:prince:96722768": {
+    "anchor_id": "vbn:role:prince:prince:96722768",
+    "domain": "role",
+    "entity": "Prince",
+    "file_path": "Book of the Damned.md",
+    "section_header": "The Prince",
+    "line_number": 938
+  },
+  "vbn:role:primogen:primogen:b732fcb3": {
+    "anchor_id": "vbn:role:primogen:primogen:b732fcb3",
+    "domain": "role",
+    "entity": "Primogen",
+    "file_path": "Book of the Damned.md",
+    "section_header": "Primogen",
+    "line_number": 1014
+  },
+  "vbn:role:justicar:justicar:922e2fc8": {
+    "anchor_id": "vbn:role:justicar:justicar:922e2fc8",
+    "domain": "role",
+    "entity": "Justicar",
+    "file_path": "Book of the Damned.md",
+    "section_header": "Justicars",
+    "line_number": 1254
+  },
+  "vbn:clan:lasombra:lasombra:d5b1f712": {
+    "anchor_id": "vbn:clan:lasombra:lasombra:d5b1f712",
+    "domain": "clan",
+    "entity": "Lasombra",
+    "file_path": "Counsel of Primogen.md",
+    "section_header": "LASOMBRAANTITRIBU",
+    "line_number": 2045
+  },
+  "vbn:clan:giovanni:giovanni:65bca33a": {
+    "anchor_id": "vbn:clan:giovanni:giovanni:65bca33a",
+    "domain": "clan",
+    "entity": "Giovanni",
+    "file_path": "Counsel of Primogen.md",
+    "section_header": "THEGIOVANNI",
+    "line_number": 2127
+  },
+  "vbn:clan:ravnos:ravnos:08ff1115": {
+    "anchor_id": "vbn:clan:ravnos:ravnos:08ff1115",
+    "domain": "clan",
+    "entity": "Ravnos",
+    "file_path": "Counsel of Primogen.md",
+    "section_header": "RAVNOS",
+    "line_number": 2137
+  },
+  "vbn:role:whip:whip:6ed56fed": {
+    "anchor_id": "vbn:role:whip:whip:6ed56fed",
+    "domain": "role",
+    "entity": "Whip",
+    "file_path": "Counsel of Primogen.md",
+    "section_header": "WHIP",
+    "line_number": 391
+  },
+  "vbn:role:harpy:harpy:a4be6809": {
+    "anchor_id": "vbn:role:harpy:harpy:a4be6809",
+    "domain": "role",
+    "entity": "Harpy",
+    "file_path": "Counsel of Primogen.md",
+    "section_header": "THEHARPY",
+    "line_number": 1205
+  },
+  "vbn:role:sheriff:sheriff:dde89700": {
+    "anchor_id": "vbn:role:sheriff:sheriff:dde89700",
+    "domain": "role",
+    "entity": "Sheriff",
+    "file_path": "Counsel of Primogen.md",
+    "section_header": "THE SHERIFF",
+    "line_number": 1233
+  },
+  "vbn:role:archon:archon:03756b1c": {
+    "anchor_id": "vbn:role:archon:archon:03756b1c",
+    "domain": "role",
+    "entity": "Archon",
+    "file_path": "Counsel of Primogen.md",
+    "section_header": "ARCHONS",
+    "line_number": 1283
+  },
+  "vbn:clan:followers of set:followers-of-set:3308ac0b": {
+    "anchor_id": "vbn:clan:followers of set:followers-of-set:3308ac0b",
+    "domain": "clan",
+    "entity": "Followers Of Set",
+    "file_path": "Journal 8.md",
+    "section_header": "Lo",
+    "line_number": 1354
+  },
+  "vbn:clan:salubri:salubri:3bd008c2": {
+    "anchor_id": "vbn:clan:salubri:salubri:3bd008c2",
+    "domain": "clan",
+    "entity": "Salubri",
+    "file_path": "Laws of Ascension.md",
+    "section_header": "Salubri",
+    "line_number": 1076
+  },
+  "vbn:clan:tzimisce:tzimisce:2becf346": {
+    "anchor_id": "vbn:clan:tzimisce:tzimisce:2becf346",
+    "domain": "clan",
+    "entity": "Tzimisce",
+    "file_path": "Laws of Ascension.md",
+    "section_header": "Tzimisce",
+    "line_number": 1100
+  },
+  "vbn:clan:cappadocian:cappadocian:8dd72319": {
+    "anchor_id": "vbn:clan:cappadocian:cappadocian:8dd72319",
+    "domain": "clan",
+    "entity": "Cappadocian",
+    "file_path": "Laws of Ascension.md",
+    "section_header": "P",
+    "line_number": 4335
+  },
+  "vbn:discipline:obeah:obeah:9ecacbdf": {
+    "anchor_id": "vbn:discipline:obeah:obeah:9ecacbdf",
+    "domain": "discipline",
+    "entity": "Obeah",
+    "file_path": "Laws of Ascension.md",
+    "section_header": "Obeah",
+    "line_number": 1791
+  },
+  "vbn:discipline:serpentis:serpentis:862e3279": {
+    "anchor_id": "vbn:discipline:serpentis:serpentis:862e3279",
+    "domain": "discipline",
+    "entity": "Serpentis",
+    "file_path": "Laws of Ascension.md",
+    "section_header": "Serpentis",
+    "line_number": 1903
+  },
+  "vbn:discipline:vicissitude:vicissitude:bf1dbef8": {
+    "anchor_id": "vbn:discipline:vicissitude:vicissitude:bf1dbef8",
+    "domain": "discipline",
+    "entity": "Vicissitude",
+    "file_path": "Laws of Ascension.md",
+    "section_header": "Vicissitude",
+    "line_number": 2123
+  },
+  "vbn:discipline:valeren:valeren:648ef2e8": {
+    "anchor_id": "vbn:discipline:valeren:valeren:648ef2e8",
+    "domain": "discipline",
+    "entity": "Valeren",
+    "file_path": "Laws of Ascension.md",
+    "section_header": "Valeren",
+    "line_number": 3631
+  },
+  "vbn:status:status:status:c90a84b0": {
+    "anchor_id": "vbn:status:status:status:c90a84b0",
+    "domain": "status",
+    "entity": "Status",
+    "file_path": "Laws of Ascension.md",
+    "section_header": "Status",
+    "line_number": 490
+  },
+  "vbn:role:seneschal:seneschal:f9818d03": {
+    "anchor_id": "vbn:role:seneschal:seneschal:f9818d03",
+    "domain": "role",
+    "entity": "Seneschal",
+    "file_path": "Laws of the Night (1st Edition).md",
+    "section_header": "Seneschal",
+    "line_number": 6185
+  },
+  "vbn:role:keeper of elysium:keeper-of-elysium:2272e6bf": {
+    "anchor_id": "vbn:role:keeper of elysium:keeper-of-elysium:2272e6bf",
+    "domain": "role",
+    "entity": "Keeper Of Elysium",
+    "file_path": "Laws of the Night (1st Edition).md",
+    "section_header": "Keeper of Elysium",
+    "line_number": 6214
+  },
+  "vbn:role:scourge:scourge:1a26ba57": {
+    "anchor_id": "vbn:role:scourge:scourge:1a26ba57",
+    "domain": "role",
+    "entity": "Scourge",
+    "file_path": "Laws of the Night (1st Edition).md",
+    "section_header": "Scourge",
+    "line_number": 6224
+  },
+  "vbn:clan:baali:baali:d9e29121": {
+    "anchor_id": "vbn:clan:baali:baali:d9e29121",
+    "domain": "clan",
+    "entity": "Baali",
+    "file_path": "Laws of the Resurrection.md",
+    "section_header": "BA",
+    "line_number": 2174
+  },
+  "vbn:morality:degeneration:degeneration:2d28ddab": {
+    "anchor_id": "vbn:morality:degeneration:degeneration:2d28ddab",
+    "domain": "morality",
+    "entity": "Degeneration",
+    "file_path": "Long Night.md",
+    "section_header": "Degeneration and Dreams of Salvation",
+    "line_number": 291
+  }
+}

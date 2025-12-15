@@ -1,0 +1,141 @@
+{
+    "clan": "Baali",
+    "internal_name": "Baali",
+    "book_title": "Clanbook: Baali",
+    "edition": "Dark Ages / Black Dog",
+    "sections": [
+      {
+        "id": "credits",
+        "title": "Credits",
+        "anchor": "## CREDITS",
+        "type": "meta"
+      },
+      {
+        "id": "special_thanks",
+        "title": "Special Thanks",
+        "anchor": "## SPECIALTHANKS TO:",
+        "type": "meta"
+      },
+      {
+        "id": "note",
+        "title": "Note",
+        "anchor": "## NoTE",
+        "type": "meta"
+      },
+      {
+        "id": "table_of_contents",
+        "title": "Table of Contents",
+        "anchor": "## TABLE OF CONTENTS",
+        "type": "meta"
+      },
+      {
+        "id": "opening_fiction",
+        "title": "The Opening",
+        "anchor": "## aug Dne: Tfje fuuadG",
+        "type": "fiction"
+      },
+      {
+        "id": "chapter_one",
+        "title": "The Opening",
+        "anchor": "## THEOPENING",
+        "type": "fiction"
+      },
+      {
+        "id": "chapter_two",
+        "title": "Dissonant Echoes",
+        "anchor": "## hapter Tioo: Dissonant Erfjoes",
+        "type": "history"
+      },
+      {
+        "id": "eight_in_eternity",
+        "title": "Eight in Eternity: A Fragment of Baali History",
+        "anchor": "## EIGHT IN ETERNITY: A FRAGMENT OF BAALI HISTORY",
+        "type": "history"
+      },
+      {
+        "id": "the_first_tribe",
+        "title": "The First Tribe",
+        "anchor": "## THEFIRST TRIBE",
+        "type": "history"
+      },
+      {
+        "id": "wells_of_sacrifice",
+        "title": "Wells of Sacrifice",
+        "anchor": "## WELLS OF SACRIFICE",
+        "type": "history"
+      },
+      {
+        "id": "the_three",
+        "title": "The Three",
+        "anchor": "## THE THREE",
+        "type": "history"
+      },
+      {
+        "id": "ashur_the_unnamed",
+        "title": "Ashur the Unnamed",
+        "anchor": "## ASHUR THE UNNAMED",
+        "type": "history"
+      },
+      {
+        "id": "the_lords",
+        "title": "The Lords",
+        "anchor": "## THE LORDS",
+        "type": "culture"
+      },
+      {
+        "id": "nergal_legacy",
+        "title": "Nergal's Legacy",
+        "anchor": "## NERGAL's LEGACY",
+        "type": "history"
+      },
+      {
+        "id": "dissonant_echoes",
+        "title": "Dissonant Echoes",
+        "anchor": "## DISSONANTECHOES",
+        "type": "history"
+      },
+      {
+        "id": "moloch_and_orphaned",
+        "title": "Moloch and the Orphaned",
+        "anchor": "## MOLOCH AND THE ORPHANED",
+        "type": "history"
+      },
+      {
+        "id": "shaitan_deceiver",
+        "title": "Shaitan, the Great Deceiver",
+        "anchor": "## SHAITAN, THE GREAT DECEIVER",
+        "type": "history"
+      },
+      {
+        "id": "chapter_three",
+        "title": "Descent into Darkness",
+        "anchor": null,
+        "type": "mechanics",
+        "children": []
+      },
+      {
+        "id": "chapter_four",
+        "title": "A Hideous Throng",
+        "anchor": null,
+        "type": "character_creation",
+        "children": []
+      },
+      {
+        "id": "appendix",
+        "title": "To Reign in Hell",
+        "anchor": null,
+        "type": "meta",
+        "children": []
+      },
+      {
+        "id": "appendix_two",
+        "title": "Of Interest to Scholars and Chirurgeons",
+        "anchor": null,
+        "type": "meta",
+        "children": []
+      }
+    ]
+  }
+
+
+

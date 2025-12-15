@@ -1,0 +1,564 @@
+{
+    "clan": "Tremere",
+    "internal_name": "Tremere",
+    "book_title": "Revised - Clanbook Tremere",
+    "edition": "Revised",
+    "mechanics": {
+      "clan_weakness": {
+        "name": "Blood Bond Susceptibility",
+        "type": "clan_weakness",
+        "tags": ["tabletop", "clan_weakness", "blood_bond"],
+        "system_text": "Tremere are more susceptible to blood bonds than other Kindred. When a Tremere drinks another Kindred's blood, they form a blood bond more easily and the bond is stronger. Additionally, the Tremere Oath and Transubstantiation of Seven ritual create a permanent blood bond to the clan hierarchy.",
+        "source_page": null,
+        "larp_status": "not_mapped",
+        "larp_reference": null,
+        "vbn_notes": "This weakness reflects the Tremere's use of blood bonds to maintain loyalty and control within the Pyramid. In VbN, this creates complex webs of obligation and dependency that can be both protective and imprisoning. Storytellers should use blood bonds to create moral dilemmas and political complications."
+      },
+      "disciplines": [
+        {
+          "name": "Auspex",
+          "type": "discipline",
+          "tags": ["tabletop", "clan_favored", "perception", "information_gathering"],
+          "notes": "The Tremere use Auspex for research, investigation, and security. They have developed unique applications, including Thaumaturgical Sight (combining Auspex with Thaumaturgy).",
+          "powers": [
+            {
+              "name": "Heightened Senses",
+              "rating": 1,
+              "system_text": "Enhances all five senses, allowing the Tremere to perceive details that would normally be missed.",
+              "tags": ["tabletop", "discipline_power", "perception"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Essential for research, investigation, and security. Used to detect threats, gather information, and analyze evidence."
+            },
+            {
+              "name": "Aura Perception",
+              "rating": 2,
+              "system_text": "Allows the Tremere to see the emotional and spiritual aura of others, revealing their emotional state, generation, and other supernatural qualities.",
+              "tags": ["tabletop", "discipline_power", "perception", "social"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Used to assess threats, identify other Kindred, and understand emotional states. Essential for political maneuvering and security."
+            },
+            {
+              "name": "Thaumaturgical Sight (Optional)",
+              "rating": 2,
+              "system_text": "Combines Auspex •• with Thaumaturgy • to allow the Tremere to see thaumaturgical effects, active rituals, and magical auras. Requires both Disciplines at the specified levels.",
+              "tags": ["tabletop", "discipline_power", "optional", "thaumaturgy_related"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Allows Tremere to detect and analyze thaumaturgical effects, making them invaluable for security and research. Used to identify active rituals, detect magical traps, and study thaumaturgical phenomena."
+            }
+          ]
+        },
+        {
+          "name": "Dominate",
+          "type": "discipline",
+          "tags": ["tabletop", "clan_favored", "mind_control", "social"],
+          "notes": "The Tremere use Dominate for control, manipulation, and security. They have developed unique applications, including Oberon's Grail (level 6).",
+          "powers": [
+            {
+              "name": "Command",
+              "rating": 1,
+              "system_text": "Allows the Tremere to issue simple, direct commands that the target must obey.",
+              "tags": ["tabletop", "discipline_power", "mind_control"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Used for security, interrogation, and control. Essential for maintaining order within the Pyramid and dealing with threats."
+            },
+            {
+              "name": "Mesmerism",
+              "rating": 3,
+              "system_text": "Allows the Tremere to implant suggestions and commands that the target will follow even after the power ends.",
+              "tags": ["tabletop", "discipline_power", "mind_control", "long_term"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Used for long-term manipulation and control. Essential for creating sleeper agents, maintaining security, and influencing others without their knowledge."
+            },
+            {
+              "name": "Oberon's Grail",
+              "rating": 6,
+              "system_text": "Allows the Tremere to create a permanent blood bond through Dominate alone, without the need for the target to drink the Tremere's blood. The target must be under the influence of Mesmerism or Forgetful Mind.",
+              "tags": ["tabletop", "discipline_power", "elder", "blood_bond", "dangerous"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "An extremely powerful and dangerous ability that allows Tremere to create blood bonds without the target's knowledge or consent. Used sparingly and only by the most powerful Tremere. Creates significant moral and political complications."
+            }
+          ]
+        },
+        {
+          "name": "Thaumaturgy",
+          "type": "discipline",
+          "tags": ["tabletop", "clan_favored", "signature", "blood_magic"],
+          "notes": "The signature Discipline of the Tremere, allowing them to manipulate blood, reality, and the Curse itself through ritual magic. Thaumaturgy is divided into Paths (focused areas of study) and Rituals (prepared magical effects).",
+          "paths": [
+            {
+              "name": "Path of Blood",
+              "type": "thaumaturgy_path",
+              "tags": ["tabletop", "thaumaturgy_path", "blood_manipulation"],
+              "notes": "The most common Thaumaturgy path, focusing on the manipulation of blood and vitae. Powers include A Taste for Blood, Blood Rage, Blood of Potency, and others.",
+              "powers": [
+                {
+                  "name": "A Taste for Blood",
+                  "rating": 1,
+                  "system_text": "Allows the Tremere to identify the generation, clan, and other qualities of blood by tasting it.",
+                  "tags": ["tabletop", "thaumaturgy_power", "identification"],
+                  "source_page": null,
+                  "larp_status": "not_mapped",
+                  "larp_reference": null,
+                  "vbn_notes": "Essential for security, investigation, and research. Used to identify threats, verify identities, and analyze blood samples."
+                },
+                {
+                  "name": "Blood Rage",
+                  "rating": 2,
+                  "system_text": "Allows the Tremere to cause a target's blood to boil, inflicting damage and potentially causing frenzy.",
+                  "tags": ["tabletop", "thaumaturgy_power", "damage", "combat"],
+                  "source_page": null,
+                  "larp_status": "not_mapped",
+                  "larp_reference": null,
+                  "vbn_notes": "A powerful combat ability that can incapacitate or destroy enemies. Used for defense and offense, but can be dangerous if misused."
+                },
+                {
+                  "name": "Blood of Potency",
+                  "rating": 3,
+                  "system_text": "Allows the Tremere to temporarily increase their generation, making their blood more potent and their Disciplines more powerful.",
+                  "tags": ["tabletop", "thaumaturgy_power", "generation", "power_boost"],
+                  "source_page": null,
+                  "larp_status": "not_mapped",
+                  "larp_reference": null,
+                  "vbn_notes": "A powerful ability that allows Tremere to temporarily match or exceed the power of their elders. Used for critical situations, but comes with risks."
+                }
+              ]
+            },
+            {
+              "name": "Path of the Levinbolt",
+              "type": "thaumaturgy_path",
+              "tags": ["tabletop", "thaumaturgy_path", "lightning", "combat"],
+              "notes": "A path focusing on the manipulation of electricity and lightning. Powers include Spark, Illuminate, Power Array, Zeus' Fury, and Eye of the Storm.",
+              "powers": [
+                {
+                  "name": "Spark",
+                  "rating": 1,
+                  "system_text": "Allows the Tremere to create small electrical sparks, useful for starting fires, shocking targets, or creating distractions.",
+                  "tags": ["tabletop", "thaumaturgy_power", "utility", "combat"],
+                  "source_page": null,
+                  "larp_status": "not_mapped",
+                  "larp_reference": null,
+                  "vbn_notes": "A versatile ability useful for utility, combat, and misdirection. Used to start fires, shock enemies, or create distractions."
+                },
+                {
+                  "name": "Illuminate",
+                  "rating": 2,
+                  "system_text": "Allows the Tremere to create bright flashes of light, useful for blinding enemies or illuminating areas.",
+                  "tags": ["tabletop", "thaumaturgy_power", "utility", "combat"],
+                  "source_page": null,
+                  "larp_status": "not_mapped",
+                  "larp_reference": null,
+                  "vbn_notes": "Used for combat, security, and utility. Can blind enemies, illuminate dark areas, or create dramatic effects."
+                },
+                {
+                  "name": "Power Array",
+                  "rating": 3,
+                  "system_text": "Allows the Tremere to create a field of electrical energy that can damage or incapacitate multiple targets.",
+                  "tags": ["tabletop", "thaumaturgy_power", "area_effect", "combat"],
+                  "source_page": null,
+                  "larp_status": "not_mapped",
+                  "larp_reference": null,
+                  "vbn_notes": "A powerful area-effect ability useful for defense and crowd control. Used to protect chantries, defend against groups, or create barriers."
+                },
+                {
+                  "name": "Zeus' Fury",
+                  "rating": 4,
+                  "system_text": "Allows the Tremere to call down bolts of lightning from the sky, inflicting massive damage on targets.",
+                  "tags": ["tabletop", "thaumaturgy_power", "damage", "combat", "dramatic"],
+                  "source_page": null,
+                  "larp_status": "not_mapped",
+                  "larp_reference": null,
+                  "vbn_notes": "An extremely powerful and dramatic ability that can destroy enemies or structures. Used sparingly due to its destructive potential and Masquerade risks."
+                },
+                {
+                  "name": "Eye of the Storm",
+                  "rating": 5,
+                  "system_text": "Allows the Tremere to create a massive electrical storm that can affect large areas and multiple targets.",
+                  "tags": ["tabletop", "thaumaturgy_power", "area_effect", "combat", "master"],
+                  "source_page": null,
+                  "larp_status": "not_mapped",
+                  "larp_reference": null,
+                  "vbn_notes": "The ultimate expression of the Path of the Levinbolt, capable of devastating large areas. Used only in the most extreme circumstances due to its destructive potential and Masquerade risks."
+                }
+              ]
+            },
+            {
+              "name": "Path of Shadowcrafting",
+              "type": "thaumaturgy_path",
+              "tags": ["tabletop", "thaumaturgy_path", "shadow", "stealth"],
+              "notes": "A path focusing on the manipulation of shadows and darkness. Powers include Out Light, Shadow Taunt, Coruscating Shadow, Night's Veil, and Abyssal Pact.",
+              "powers": [
+                {
+                  "name": "Out Light",
+                  "rating": 1,
+                  "system_text": "Allows the Tremere to extinguish light sources, creating darkness and shadows.",
+                  "tags": ["tabletop", "thaumaturgy_power", "utility", "stealth"],
+                  "source_page": null,
+                  "larp_status": "not_mapped",
+                  "larp_reference": null,
+                  "vbn_notes": "Used for stealth, security, and misdirection. Can create darkness to hide activities, blind enemies, or create dramatic effects."
+                },
+                {
+                  "name": "Shadow Taunt",
+                  "rating": 2,
+                  "system_text": "Allows the Tremere to manipulate shadows to create distractions, illusions, or threats.",
+                  "tags": ["tabletop", "thaumaturgy_power", "illusion", "misdirection"],
+                  "source_page": null,
+                  "larp_status": "not_mapped",
+                  "larp_reference": null,
+                  "vbn_notes": "Used for misdirection, intimidation, and psychological warfare. Can create false threats, distract enemies, or create illusions."
+                },
+                {
+                  "name": "Coruscating Shadow",
+                  "rating": 3,
+                  "system_text": "Allows the Tremere to create solid shadows that can interact with the physical world, potentially causing damage or creating barriers.",
+                  "tags": ["tabletop", "thaumaturgy_power", "physical", "combat"],
+                  "source_page": null,
+                  "larp_status": "not_mapped",
+                  "larp_reference": null,
+                  "vbn_notes": "A powerful ability that blurs the line between illusion and reality. Used for defense, offense, and utility."
+                },
+                {
+                  "name": "Night's Veil",
+                  "rating": 4,
+                  "system_text": "Allows the Tremere to create areas of absolute darkness that can hide activities, blind enemies, or create barriers.",
+                  "tags": ["tabletop", "thaumaturgy_power", "area_effect", "stealth", "defense"],
+                  "source_page": null,
+                  "larp_status": "not_mapped",
+                  "larp_reference": null,
+                  "vbn_notes": "A powerful defensive and stealth ability. Used to protect chantries, hide activities, or create barriers."
+                },
+                {
+                  "name": "Abyssal Pact",
+                  "rating": 5,
+                  "system_text": "Allows the Tremere to create a connection to the Abyss, potentially summoning dark entities or accessing forbidden knowledge.",
+                  "tags": ["tabletop", "thaumaturgy_power", "master", "dangerous", "forbidden"],
+                  "source_page": null,
+                  "larp_status": "not_mapped",
+                  "larp_reference": null,
+                  "vbn_notes": "An extremely dangerous and forbidden ability that risks corruption and destruction. Used only by the most powerful and desperate Tremere, and even then with great caution."
+                }
+              ]
+            }
+          ],
+          "rituals": [
+            {
+              "name": "Blood Mastery",
+              "level": 1,
+              "type": "ritual",
+              "tags": ["tabletop", "thaumaturgy_ritual", "blood_manipulation"],
+              "system_text": "Allows the Tremere to guarantee success on a single action by spending blood points. The ritual must be prepared in advance and can only be used once per subject per night.",
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "A versatile ritual that can guarantee success on critical actions. Used for important research, dangerous operations, or critical moments. Essential for Tremere survival and advancement."
+            },
+            {
+              "name": "Dedicate the Chantry",
+              "level": 1,
+              "type": "ritual",
+              "tags": ["tabletop", "thaumaturgy_ritual", "chantry", "security"],
+              "system_text": "Allows the Tremere to consecrate a location as a chantry, providing protection and enhancing thaumaturgical effects within the area.",
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Essential for establishing and protecting Tremere chantries. Used to create secure havens, enhance research capabilities, and defend against threats."
+            },
+            {
+              "name": "Purify Blood",
+              "level": 1,
+              "type": "ritual",
+              "tags": ["tabletop", "thaumaturgy_ritual", "blood_manipulation", "utility"],
+              "system_text": "Allows the Tremere to cleanse blood of poisons, diseases, and other contaminants. Can only purify one blood point at a time.",
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "A utility ritual useful for security, research, and survival. Used to cleanse contaminated blood, analyze samples, or prepare blood for rituals."
+            },
+            {
+              "name": "Scent of the Lupine's Passing",
+              "level": 1,
+              "type": "ritual",
+              "tags": ["tabletop", "thaumaturgy_ritual", "detection", "survival"],
+              "system_text": "Allows the Tremere to detect the presence of werewolves or other shape-shifters by scent.",
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Essential for survival in areas where werewolves are active. Used to detect threats, avoid danger, or track enemies."
+            },
+            {
+              "name": "Deny the Intruder",
+              "level": 2,
+              "type": "ritual",
+              "tags": ["tabletop", "thaumaturgy_ritual", "security", "defense"],
+              "system_text": "Allows the Tremere to create a barrier that prevents unauthorized entry into a protected area.",
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Essential for protecting chantries and havens. Used to create secure areas, prevent unauthorized access, or defend against intruders."
+            },
+            {
+              "name": "Inscription",
+              "level": 2,
+              "type": "ritual",
+              "tags": ["tabletop", "thaumaturgy_ritual", "communication", "information"],
+              "system_text": "Allows the Tremere to inscribe messages that can only be read by specific individuals or under specific conditions.",
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Used for secure communication, information storage, and secret messages. Essential for maintaining secrecy and security within the Pyramid."
+            },
+            {
+              "name": "The Open Passage",
+              "level": 2,
+              "type": "ritual",
+              "tags": ["tabletop", "thaumaturgy_ritual", "utility", "transportation"],
+              "system_text": "Allows the Tremere to create temporary passages through solid barriers, such as walls or doors.",
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Used for security, infiltration, and escape. Can create secret passages, bypass barriers, or provide emergency exits."
+            },
+            {
+              "name": "Ritual's Recognition",
+              "level": 2,
+              "type": "ritual",
+              "tags": ["tabletop", "thaumaturgy_ritual", "detection", "security"],
+              "system_text": "Allows the Tremere to detect active thaumaturgical rituals and identify their nature and purpose.",
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Essential for security and research. Used to detect threats, identify active rituals, or analyze thaumaturgical phenomena."
+            },
+            {
+              "name": "Inherited Affinity",
+              "level": 3,
+              "type": "ritual",
+              "tags": ["tabletop", "thaumaturgy_ritual", "blood_bond", "hierarchy"],
+              "system_text": "Allows the Tremere to create a blood bond that is passed down through the bloodline, binding childer to the clan hierarchy.",
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Essential for maintaining the Pyramid's structure and loyalty. Used during the Embrace to bind new Tremere to the clan hierarchy. Creates permanent obligations and dependencies."
+            },
+            {
+              "name": "Power of the Pyramid",
+              "level": 3,
+              "type": "ritual",
+              "tags": ["tabletop", "thaumaturgy_ritual", "hierarchy", "power"],
+              "system_text": "Allows the Tremere to draw power from the Pyramid's hierarchy, enhancing their abilities based on their rank and the support of their superiors.",
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Reflects the Pyramid's structure and the power of hierarchy. Used to enhance abilities, demonstrate rank, or call upon the clan's collective power."
+            },
+            {
+              "name": "Rutor's Hands",
+              "level": 3,
+              "type": "ritual",
+              "tags": ["tabletop", "thaumaturgy_ritual", "utility", "dangerous"],
+              "system_text": "Allows the Tremere to animate their own severed hand, creating a homunculus that can act independently. Requires the permanent loss of the hand and eye.",
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "A dangerous and extreme ritual that requires permanent sacrifice. Used for espionage, research, or desperate situations. The homunculus can act independently but requires blood to survive."
+            },
+            {
+              "name": "Transubstantiation of Seven",
+              "level": 3,
+              "type": "ritual",
+              "tags": ["tabletop", "thaumaturgy_ritual", "blood_bond", "hierarchy", "essential"],
+              "system_text": "The essential ritual of the Tremere Embrace, creating a permanent blood bond to the clan hierarchy. Performed during the Embrace ceremony with the Tremere Oath.",
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "The most important Tremere ritual, performed during every Embrace. Creates a permanent blood bond to the Pyramid, ensuring loyalty and control. Essential for maintaining the clan's structure and security."
+            },
+            {
+              "name": "Blood Certamen",
+              "level": 4,
+              "type": "ritual",
+              "tags": ["tabletop", "thaumaturgy_ritual", "combat", "duel"],
+              "system_text": "Allows the Tremere to engage in a formal thaumaturgical duel, testing skill and power without physical combat.",
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Used for resolving disputes, testing skill, or determining rank. A formal and ritualized form of combat that tests thaumaturgical ability rather than physical strength."
+            },
+            {
+              "name": "Mark of Amaranth",
+              "level": 4,
+              "type": "ritual",
+              "tags": ["tabletop", "thaumaturgy_ritual", "diablerie", "dangerous"],
+              "system_text": "Allows the Tremere to mark a target for diablerie, making it easier to consume their soul and gain their power.",
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "An extremely dangerous and forbidden ritual. Used only in the most extreme circumstances, such as hunting traitors or gaining power from enemies. Creates significant moral and political complications."
+            },
+            {
+              "name": "Soul of the Homunculus",
+              "level": 4,
+              "type": "ritual",
+              "tags": ["tabletop", "thaumaturgy_ritual", "creation", "dangerous"],
+              "system_text": "Allows the Tremere to create a more advanced homunculus with greater intelligence and independence, potentially at the cost of the creator's own soul.",
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "A dangerous ritual that risks the creator's own soul. Used to create powerful servants or research assistants, but comes with significant risks and moral complications."
+            },
+            {
+              "name": "Unweave Ritual",
+              "level": 4,
+              "type": "ritual",
+              "tags": ["tabletop", "thaumaturgy_ritual", "counter_magic", "security"],
+              "system_text": "Allows the Tremere to dispel or counter other thaumaturgical rituals, breaking their effects and potentially causing backlash.",
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Essential for security and defense. Used to counter enemy rituals, break magical effects, or protect against thaumaturgical attacks."
+            },
+            {
+              "name": "Abandon the Fetters",
+              "level": 5,
+              "type": "ritual",
+              "tags": ["tabletop", "thaumaturgy_ritual", "blood_bond", "freedom", "dangerous"],
+              "system_text": "Allows the Tremere to break a blood bond, freeing themselves or others from its effects. Extremely dangerous and forbidden.",
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "An extremely dangerous and forbidden ritual. Breaking blood bonds is considered treason by the Pyramid, and the ritual itself is risky. Used only in the most desperate circumstances."
+            },
+            {
+              "name": "Night of the Red Heart",
+              "level": 5,
+              "type": "ritual",
+              "tags": ["tabletop", "thaumaturgy_ritual", "curse", "punishment"],
+              "system_text": "Allows the Tremere to curse a target with a sense of dread and impending doom, making it difficult for them to rest or find peace. Has a limited range (approximately 30-35 miles).",
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "A powerful curse used for punishment, intimidation, or psychological warfare. Can drive targets to desperation or madness. Used sparingly due to its cruel nature."
+            },
+            {
+              "name": "Bone of Contention",
+              "level": 6,
+              "type": "ritual",
+              "tags": ["tabletop", "thaumaturgy_ritual", "master", "dangerous"],
+              "system_text": "Allows the Tremere to create a powerful artifact from a bone, potentially granting great power or creating a terrible curse.",
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "A master-level ritual that can create powerful artifacts or terrible curses. Used only by the most powerful Tremere, and even then with great caution."
+            }
+          ]
+        }
+      ],
+      "backgrounds": [],
+      "merits": [
+        {
+          "name": "Attuned Taste",
+          "type": "merit",
+          "cost": 2,
+          "tags": ["tabletop", "supernatural_merit", "thaumaturgy_related"],
+          "system_text": "The Tremere has an enhanced ability to identify blood by taste, gaining additional information about its source, generation, and qualities.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Useful for security, investigation, and research. Allows Tremere to identify threats, verify identities, or analyze blood samples more effectively."
+        },
+        {
+          "name": "Embraced Without the Cup",
+          "type": "merit",
+          "cost": 3,
+          "tags": ["tabletop", "social_merit", "hierarchy"],
+          "system_text": "The Tremere was Embraced without going through the standard Tremere Oath and Transubstantiation of Seven ritual, giving them greater freedom but less support from the Pyramid.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Creates interesting roleplaying opportunities and political complications. The Tremere has more freedom but less support, and may be viewed with suspicion by other clan members."
+        }
+      ],
+      "flaws": [
+        {
+          "name": "Bound to the Council",
+          "type": "flaw",
+          "cost": 3,
+          "tags": ["tabletop", "social_flaw", "hierarchy"],
+          "system_text": "The Tremere is permanently bound to the Council of Seven through an especially strong blood bond, making it impossible for them to act against the Council's interests.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Creates significant roleplaying challenges and political complications. The Tremere cannot act against the Council, even if they disagree with its decisions."
+        },
+        {
+          "name": "Double Betrayer",
+          "type": "flaw",
+          "cost": 4,
+          "tags": ["tabletop", "social_flaw", "dangerous"],
+          "system_text": "The Tremere has betrayed both the Pyramid and another group (such as the Sabbat or another clan), making them a target for multiple enemies.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Creates significant danger and political complications. The Tremere is hunted by multiple enemies and must constantly watch their back."
+        },
+        {
+          "name": "Thaumaturgically Inept",
+          "type": "flaw",
+          "cost": 5,
+          "tags": ["tabletop", "supernatural_flaw", "thaumaturgy_related"],
+          "system_text": "The Tremere has difficulty learning or using Thaumaturgy, making it harder for them to advance in the Pyramid or contribute to the clan's goals.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Creates significant challenges for advancement and survival. The Tremere must find other ways to contribute to the clan, such as through politics, research, or other skills."
+        }
+      ],
+      "derangements": [
+        {
+          "name": "Hierarchical Sociology Disorder",
+          "type": "derangement",
+          "tags": ["tabletop", "derangement", "hierarchy_related"],
+          "system_text": "The Tremere becomes obsessed with rank and hierarchy, viewing everything through the lens of the Pyramid's structure. They may become unable to function outside of hierarchical relationships.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Creates roleplaying challenges and social complications. The Tremere may struggle to interact with others outside of hierarchical structures, or may become obsessed with rank and status."
+        },
+        {
+          "name": "Sanguinary Cryptophagy",
+          "type": "derangement",
+          "tags": ["tabletop", "derangement", "blood_related"],
+          "system_text": "The Tremere develops an obsession with consuming blood, particularly the blood of other Kindred. They may become unable to resist the urge to diablerize or consume blood inappropriately.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "A dangerous derangement that can lead to diablerie, Masquerade breaches, or destruction. Creates significant moral and political complications."
+        },
+        {
+          "name": "Thaumaturgical Glossolalia",
+          "type": "derangement",
+          "tags": ["tabletop", "derangement", "thaumaturgy_related"],
+          "system_text": "The Tremere develops an inability to speak normally, instead speaking in thaumaturgical formulas, Latin phrases, or mystical language. They may be unable to communicate effectively with others.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Creates roleplaying challenges and social complications. The Tremere may struggle to communicate with others, or may be viewed as mad or dangerous."
+        }
+      ]
+    }
+  }
+
+
+

@@ -1,0 +1,331 @@
+{
+  "clan": "Malkavians",
+  "internal_name": "Lunatics",
+  "book_title": "Revised - Clanbook Malkavian",
+  "edition": "Revised",
+  "mechanics": {
+    "disciplines": [
+      {
+        "name": "Auspex",
+        "type": "discipline",
+        "tags": ["tabletop", "clan_favored", "perception", "prophecy"],
+        "notes": "The Sight—heightened perception and supernatural insight. Malkavians use Auspex to pierce reality's illusions, read auras, and access the Cobweb. Essential for prophecy and understanding hidden patterns.",
+        "powers": [
+          {
+            "name": "Sibyl's Tongue",
+            "rating": 6,
+            "system_text": "The Malkavian can deliberately quest into the Legion-mind (Cobweb) for answers. Roll Wits + Investigation, difficulty 8. Success grants information known by any Malkavian. Failure inflicts temporary derangements as the collective madness invades the user's mind.",
+            "tags": ["tabletop", "discipline_power", "cobweb", "prophecy", "elder"],
+            "source_page": null,
+            "larp_status": "not_mapped",
+            "larp_reference": null,
+            "vbn_notes": "Use for cryptic revelations, plot hooks, and moments when a Malkavian needs to know something that should be impossible to discover. The risk of derangements adds dramatic tension."
+          },
+          {
+            "name": "The Call",
+            "rating": 8,
+            "system_text": "Send a deliberate Call to gather Malkavians. Roll Perception + Empathy, difficulty 6. Successes determine range: 1 success reaches 3 city blocks, 7 reaches entire city, 15 reaches continent, 20 reaches all Malkavians worldwide. The Call conveys only an impression of place and time, not purpose or details.",
+            "tags": ["tabletop", "discipline_power", "cobweb", "gathering", "elder"],
+            "source_page": null,
+            "larp_status": "not_mapped",
+            "larp_reference": null,
+            "vbn_notes": "Use for clan gatherings, emergencies, or when a Malkavian needs to summon the family. The Call is instinctive and transcends language barriers."
+          }
+        ]
+      },
+      {
+        "name": "Obfuscate",
+        "type": "discipline",
+        "tags": ["tabletop", "clan_favored", "stealth", "illusion"],
+        "notes": "The ability to hide from notice and blend into surroundings. Malkavians use Obfuscate to move unseen through society, often hiding their madness behind normal appearances.",
+        "powers": [
+          {
+            "name": "Scrawl",
+            "rating": 6,
+            "system_text": "Encode irrational thoughts in written form (graffiti, notes) that only other Malkavians can read. The madness of Malkav's blood acts as a medium for communication. No roll needed to write; non-Malkavians with Auspex 6+ can attempt Perception + Occult, difficulty 9, but failure inflicts a temporary derangement.",
+            "tags": ["tabletop", "discipline_power", "cobweb", "communication", "elder"],
+            "source_page": null,
+            "larp_status": "not_mapped",
+            "larp_reference": null,
+            "vbn_notes": "Use for hidden messages, warnings, or cryptic communications between Malkavians. Can leave plot hooks in the form of graffiti or notes that only the clan can understand."
+          },
+          {
+            "name": "Phantom Haunter",
+            "rating": 8,
+            "system_text": "Tap into victim's self-image and become the person who most shaped (or traumatized) them. Roll Manipulation + Empathy, difficulty of target's Willpower. Each success allows one turn of the phantom persona. Dementation, Presence, or Dominate attempts against the victim are at -3 difficulty. Must make Willpower rolls to retain control or risk being overwhelmed by the phantom's personality.",
+            "tags": ["tabletop", "discipline_power", "psychological", "elder"],
+            "source_page": null,
+            "larp_status": "not_mapped",
+            "larp_reference": null,
+            "vbn_notes": "Use for psychological warfare, revealing hidden traumas, or forcing characters to confront their past. The risk of personality contamination adds horror."
+          }
+        ]
+      },
+      {
+        "name": "Dementation",
+        "type": "discipline",
+        "tags": ["tabletop", "clan_favored", "madness", "infectious", "sabbat"],
+        "notes": "The power of infectious madness. After the Reawakening in 1997, many Camarilla Malkavians regained access to Dementation. Sabbat 'antitribu' have always had it. This Discipline allows Malkavians to spread their curse, inflict derangements, and manipulate reality through denial.",
+        "powers": [
+          {
+            "name": "Babble",
+            "rating": 6,
+            "system_text": "Communicate at great distances using the Cobweb. Link up to Willpower points worth of people; can add more (up to Empathy rating) if they have derangements. Everyone must speak aloud, and each hears others as if standing nearby. To link unwilling targets, roll Charisma + Empathy, difficulty of target's Willpower.",
+            "tags": ["tabletop", "discipline_power", "cobweb", "communication"],
+            "source_page": null,
+            "larp_status": "not_mapped",
+            "larp_reference": null,
+            "vbn_notes": "Use for long-distance coordination, shared visions, or moments when Malkavians need to communicate across the city. The requirement to speak aloud adds interesting complications."
+          },
+          {
+            "name": "The Call",
+            "rating": 6,
+            "system_text": "Same as Auspex 8 version, but easier to perform through Dementation. Roll Perception + Empathy, difficulty 6. Successes determine range as with Auspex version.",
+            "tags": ["tabletop", "discipline_power", "cobweb", "gathering"],
+            "source_page": null,
+            "larp_status": "not_mapped",
+            "larp_reference": null,
+            "vbn_notes": "Easier access to the Call for those with Dementation reflects the deeper connection to Malkav's curse."
+          },
+          {
+            "name": "Childmind",
+            "rating": 7,
+            "system_text": "Psychic lobotomy—strip away victim's reasoning, reducing them to childlike state. Must make eye contact. Roll Intelligence + Empathy, difficulty of victim's Self-Control or Instinct. Can reduce Mental Attributes by up to 7 points (minimum 1 in each). Victim gains Regression derangement. Duration based on successes: 1 success = one turn, 5 successes = one year, 6+ = one year per success past 5.",
+            "tags": ["tabletop", "discipline_power", "psychological", "elder"],
+            "source_page": null,
+            "larp_status": "not_mapped",
+            "larp_reference": null,
+            "vbn_notes": "Use for devastating psychological attacks, removing threats through mental degradation, or forcing characters to confront their own vulnerability. The permanent possibility adds horror."
+          },
+          {
+            "name": "Sleep of Reason",
+            "rating": 7,
+            "system_text": "Reach into victim's mind and pull forth hobgoblins—manifestations of their insecurities and bad memories. Roll Wits + Intimidation, difficulty 6. Spend one blood point per hobgoblin, up to maximum determined by successes. Hobgoblins have stats based on victim's Willpower and attack with Strength + 1 lethal damage (psychic, disappears at end of scene).",
+            "tags": ["tabletop", "discipline_power", "psychological", "combat", "elder"],
+            "source_page": null,
+            "larp_status": "not_mapped",
+            "larp_reference": null,
+            "vbn_notes": "Use for psychological combat, forcing characters to face their inner demons made manifest. The hobgoblins are immune to the victim's mental powers, making this a terrifying attack."
+          },
+          {
+            "name": "Deny",
+            "rating": 8,
+            "system_text": "Focus away from an inanimate object so completely that it ceases to exist in the Malkavian's perception—and for all intents and purposes, the Malkavian is right. Spend one blood point and roll Willpower, difficulty 8. For the scene, the object cannot affect the Malkavian (locked doors become archways, swords pass through, etc.). Cannot deny living creatures. The power only benefits the Malkavian and personal effects.",
+            "tags": ["tabletop", "discipline_power", "reality_manipulation", "elder"],
+            "source_page": null,
+            "larp_status": "not_mapped",
+            "larp_reference": null,
+            "vbn_notes": "Use for dramatic escapes, impossible feats, or moments that prove Malkavians see reality differently. The limitation to inanimate objects keeps it from being overpowered."
+          }
+        ]
+      },
+      {
+        "name": "Dominate",
+        "type": "discipline",
+        "tags": ["tabletop", "alternative", "camarilla"],
+        "notes": "Some Malkavians who weren't affected by the Reawakening retain Dominate instead of Dementation. These 'offshoots' and their childer may have Dominate, Auspex, and Obfuscate as their clan Disciplines. This represents the blocks placed at Domazlice that dampened the clan's infectious madness.",
+        "powers": []
+      }
+    ],
+    "rituals": [],
+    "backgrounds": [
+      {
+        "name": "Malkavian Time",
+        "type": "background",
+        "tags": ["tabletop", "clan_specific", "cobweb"],
+        "system_text": "A Malkavian-specific Trait representing connection to the shared subconscious (Cobweb). Allows filtering messages, impulses, shared visions, and knowledge of clan gatherings from the Madness Network. Storyteller rolls Wits + Malkavian Time in secret for gatherings. Can also attempt to send deliberate messages: roll Wits + Malkavian Time, difficulty 9, to transmit up to two words per success to one person within city limits.",
+        "source_page": null,
+        "larp_status": "not_mapped",
+        "larp_reference": null,
+        "vbn_notes": "Use for plot hooks, warnings, and moments when the clan needs to communicate. The Storyteller controls when messages are received, making it a narrative tool rather than a player-controlled ability."
+      }
+    ],
+    "merits": [
+      {
+        "name": "Immaculate Aura",
+        "type": "merit",
+        "cost": 1,
+        "tags": ["tabletop", "social", "stealth"],
+        "system_text": "Your aura does not give away your insanity. The aura doesn't shift or swirl at all, even when confused, frenzied, or in a psychotic fit.",
+        "source_page": null,
+        "larp_status": "not_mapped",
+        "larp_reference": null,
+        "vbn_notes": "Allows Malkavians to hide their madness from aura readers, making them more dangerous and unpredictable."
+      },
+      {
+        "name": "Benevolent Blood",
+        "type": "merit",
+        "cost": 1,
+        "tags": ["tabletop", "ghouls"],
+        "system_text": "Your blood still carries the Curse of Malkav, but its effects are lessened. Any ghouls you create suffer none of the usual deranging side effects of drinking Malkavian blood—they can be loaded with your blood without gaining derangements. Childer still gain derangements as usual.",
+        "source_page": null,
+        "larp_status": "not_mapped",
+        "larp_reference": null,
+        "vbn_notes": "Useful for Malkavians who want functional ghouls without driving them insane. Makes the character more practical while still maintaining the clan's curse."
+      },
+      {
+        "name": "Deadened Nerves",
+        "type": "merit",
+        "cost": 4,
+        "tags": ["tabletop", "combat", "flawed"],
+        "system_text": "Your nervous system is missing connections. You have very little tactile sense. Suffer +3 difficulty to tactile Perception rolls. However, all penalties for wound levels are halved (rounding down)—no penalties until Wounded (then -1 die), even when Crippled only -2 dice.",
+        "source_page": null,
+        "larp_status": "not_mapped",
+        "larp_reference": null,
+        "vbn_notes": "Useful for combat-focused Malkavians who can ignore pain but may miss important tactile warnings. The Storyteller can track health levels secretly for added tension."
+      },
+      {
+        "name": "Disembodied Mentor",
+        "type": "merit",
+        "cost": 5,
+        "tags": ["tabletop", "cobweb", "mentor"],
+        "system_text": "You have a personal guide and advisor who exists largely in your own skull. May be a Malkavian who uploaded to the Network or an imaginary construct with access to shared clan memories. Hard for enemies to cut you off from counsel, but mentor can find you whenever he chooses and can be distracting. You're not freed from obligations of the relationship.",
+        "source_page": null,
+        "larp_status": "not_mapped",
+        "larp_reference": null,
+        "vbn_notes": "Use for plot hooks, guidance, and moments when a Malkavian needs advice from the Cobweb. The mentor's intrusiveness adds complications."
+      },
+      {
+        "name": "Sympathetic Bond",
+        "type": "merit",
+        "cost": 5,
+        "tags": ["tabletop", "blood_bond", "twisted"],
+        "system_text": "You cause supernatural feedback through blood bond links. If you become blood bound to someone, your regnant also becomes blood bound to you to an equal extent. Even if she was already bound to another, she now has the unenviable position of being regnant to two vampires at once. Leads to twisted codependent relationships.",
+        "source_page": null,
+        "larp_status": "not_mapped",
+        "larp_reference": null,
+        "vbn_notes": "Use for complex relationships, power struggles, and moments when blood bonds become weapons. The mutual binding creates interesting narrative complications."
+      }
+    ],
+    "flaws": [
+      {
+        "name": "Stigmata",
+        "type": "flaw",
+        "cost": 2,
+        "tags": ["tabletop", "social", "visible"],
+        "system_text": "You constantly seep blood from phantom wounds. Bleeding is slight but incessant, costing an extra blood point each evening. If bleeding from visible locations (like palms), +1 difficulty to all Social rolls. The 4-point version bleeds from eyesockets: +2 difficulty to Social rolls, +1 difficulty to visual Perception rolls, and almost impossible to travel in human society unveiled.",
+        "source_page": null,
+        "larp_status": "not_mapped",
+        "larp_reference": null,
+        "vbn_notes": "Use for Malkavians who bear visible signs of their curse. The 4-point version is particularly dramatic and forces the character to hide or face Masquerade violations."
+      },
+      {
+        "name": "Infectious",
+        "type": "flaw",
+        "cost": 3,
+        "tags": ["tabletop", "feeding", "masquerade"],
+        "system_text": "Your bite transmits the madness of your clan. Whenever you feed from a mortal, the prey gains a temporary derangement for every three blood points you take. The madness lasts for a week or so. Malkavians with this Flaw often infest asylums—the most low-key place for them to feed.",
+        "source_page": null,
+        "larp_status": "not_mapped",
+        "larp_reference": null,
+        "vbn_notes": "Use for Malkavians who spread madness through feeding. Forces careful feeding practices and creates potential Masquerade problems if mortals start acting erratically."
+      }
+    ],
+    "derangements": [
+      {
+        "name": "Desensitization",
+        "type": "derangement",
+        "tags": ["tabletop", "emotional", "new"],
+        "system_text": "Virtual emotional amputee—cannot feel strong emotions. Power of Dominate or blood bond can still hold in check but has less effect on psyche. Goes through motions of love and devotion like distracted actor. Frenzies in chillingly silent paroxysm. +2 difficulty to all Humanity, Path, Conscience, or Conviction rolls. One-die penalty to Social dice pools requiring emotion or warmth. Cannot purchase Performance Ability.",
+        "source_page": null,
+        "larp_status": "not_mapped",
+        "larp_reference": null,
+        "vbn_notes": "Use for Malkavians who have lost their emotional connection to the world. Creates characters who are functional but hollow, terrifying in their lack of feeling."
+      },
+      {
+        "name": "Dissociative Blood-Spending",
+        "type": "derangement",
+        "tags": ["tabletop", "vitae", "new"],
+        "system_text": "Unconscious control over vitae is impaired. Tendency to unconsciously spend blood points to raise Attributes at unusual and inappropriate times—increasing strength during drinks, upping reaction speed while writing, spending blood during day sleep. Once per session, Storyteller can rule that vampire has spent a blood point without player knowledge.",
+        "source_page": null,
+        "larp_status": "not_mapped",
+        "larp_reference": null,
+        "vbn_notes": "Use for Malkavians who have lost control over their vitae. Creates resource management complications and moments of unexpected hunger."
+      },
+      {
+        "name": "Masochism",
+        "type": "derangement",
+        "tags": ["tabletop", "pain", "new"],
+        "system_text": "Closely associates pain with pleasure. In vampires, linked to pleasure of drinking blood or receiving the Kiss. Usually linked to deep shame. Only fulfilled when suffering, presumably as penance for pleasure of feeding. Once below Bruised health level, must make Willpower roll (difficulty 6) or take no action next turn, delighting in pain. Must make Self-Control roll (difficulty 8) to use blood points to heal.",
+        "source_page": null,
+        "larp_status": "not_mapped",
+        "larp_reference": null,
+        "vbn_notes": "Use for Malkavians who are tormented by their nature. Creates characters who seek suffering and may refuse healing, adding danger and pathos."
+      },
+      {
+        "name": "Memory Lapses",
+        "type": "derangement",
+        "tags": ["tabletop", "memory", "new"],
+        "system_text": "Tendency to lose random portions of memory at inopportune times. Memories fade in and out, can return within minutes or not for decades. At least once per scene, vampire will forget something relevant—from simple (where keys are) to complicated (entire Ability and knowledge of having that skill).",
+        "source_page": null,
+        "larp_status": "not_mapped",
+        "larp_reference": null,
+        "vbn_notes": "Use for Malkavians who are unreliable due to memory loss. Creates dramatic complications when crucial knowledge is forgotten at the worst moment."
+      },
+      {
+        "name": "Power-Object Fixation",
+        "type": "derangement",
+        "tags": ["tabletop", "obsession", "new"],
+        "system_text": "Invested much self-confidence in external object, believes cannot function properly without it. Often linked to past trauma. Lose two dice from all dice pools if separated from object. Hard to hide fixation—in times of stress, must make Willpower roll to avoid cradling object obsessively. May spawn other related derangements over time.",
+        "source_page": null,
+        "larp_status": "not_mapped",
+        "larp_reference": null,
+        "vbn_notes": "Use for Malkavians with specific obsessions. Creates vulnerability (object can be stolen) and visible tells (obsessive behavior)."
+      },
+      {
+        "name": "Regression",
+        "type": "derangement",
+        "tags": ["tabletop", "childlike", "new"],
+        "system_text": "When confronted with stressful situations, mentally reverts to childlike state. Poor sense of cause and effect, flawed interpretations of morality, tendency to avoid confrontation. Does not believe self to be actual child but is self-centered, fearful of unknown, reliant on 'parent' figures. Permanent +2 difficulty on all Self-Control and Instinct rolls.",
+        "source_page": null,
+        "larp_status": "not_mapped",
+        "larp_reference": null,
+        "vbn_notes": "Use for Malkavians who are terrifying in their childlike vulnerability and lack of moral understanding. Should be played for horror, not comedy."
+      },
+      {
+        "name": "Synesthesia",
+        "type": "derangement",
+        "tags": ["tabletop", "sensory", "new"],
+        "system_text": "Sensory input is scrambled—information from each sense is processed in terms of a different sense. Synesthetic 'hears' colors, 'smells' textures, 'tastes' sounds. Difficulty expressing concepts to others ('cut the red wire' becomes 'cut the sandpapery wire'). +2 difficulty to Expression and Performance rolls that don't involve surreal art. May spend Willpower to correlate sensory input normally for one turn.",
+        "source_page": null,
+        "larp_status": "not_mapped",
+        "larp_reference": null,
+        "vbn_notes": "Use for Malkavians who experience reality in fundamentally different ways. Creates communication challenges and unique perspectives."
+      }
+    ],
+    "clan_weakness": {
+      "name": "The Curse of Malkav",
+      "type": "clan_weakness",
+      "tags": ["tabletop", "derangement", "mandatory"],
+      "system_text": "All Malkavians gain a derangement at character creation. This derangement cannot be bought off and represents the clan's connection to Malkav's fragmented consciousness. The derangement is part of the character's nature and cannot be resisted with Willpower except in rare circumstances. Malkavians rarely see their madness as a problem—it's simply how they perceive reality.",
+      "source_page": null,
+      "larp_status": "mapped",
+      "larp_reference": "Laws of the Night",
+      "vbn_notes": "The derangement is not a flaw but a feature—it grants the Sight and connection to the Cobweb. Malkavians who try to 'cure' their madness lose their connection to the clan's power. The weakness should be played seriously, not as comic relief."
+    },
+    "special_systems": [
+      {
+        "name": "The Cobweb (Madness Network)",
+        "type": "special_system",
+        "tags": ["tabletop", "cobweb", "communication", "prophecy"],
+        "system_text": "All Malkavians are connected to the supernatural neural network that links the clan. This doesn't mean constant telepathic communication—most Malkavians hear only faint fluttering two or three times a year. The Network allows sharing of visions, knowledge, and the Call (instinct to gather). The precise nature is unknown, but Malkavians believe Malkav's consciousness exists within it. The Network is fully under Storyteller control and can provide plot hooks, revelations, or warnings as needed.",
+        "source_page": null,
+        "larp_status": "not_mapped",
+        "larp_reference": null,
+        "vbn_notes": "Use the Cobweb for prophecy, warnings, clan gatherings, and moments when Malkavians need to share information. It's a narrative tool that should feel mysterious and unpredictable."
+      },
+      {
+        "name": "Abandoning the Flesh",
+        "type": "special_system",
+        "tags": ["tabletop", "immortality", "cobweb", "secret"],
+        "system_text": "It is possible for a Malkavian to 'download' her consciousness onto the Cobweb, escaping Final Death. What remains on the Network possesses rudimentary sentience—an echo of personality, a collection of ideas and memories that fire when appropriate stimuli present themselves. This is not common knowledge and is preserved as one of the clan's greatest secrets. A Malkavian can only shunt onto the Tapestry when the Storyteller deems it appropriate—treat with the same respect and caution as Golconda.",
+        "source_page": null,
+        "larp_status": "not_mapped",
+        "larp_reference": null,
+        "vbn_notes": "Use sparingly for dramatic moments when a Malkavian faces Final Death. The consciousness on the Network is incomplete and broken, not true immortality. This should be a rare, story-driven event."
+      }
+    ]
+  }
+}
+
+

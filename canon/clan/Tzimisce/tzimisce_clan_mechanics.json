@@ -1,0 +1,325 @@
+{
+    "clan": "Tzimisce",
+    "internal_name": "Tzimisce",
+    "book_title": "Revised - Clanbook Tzimisce",
+    "edition": "Revised",
+    "mechanics": {
+      "clan_weakness": {
+        "name": "Soil Dependency",
+        "type": "clan_weakness",
+        "tags": ["tabletop", "clan_weakness", "territorial"],
+        "system_text": "Tzimisce must rest in their native soil (or soil from their homeland) to enter torpor. Without this soil, they cannot rest properly and suffer penalties. This weakness reflects their connection to the land and their territorial nature.",
+        "source_page": null,
+        "larp_status": "not_mapped",
+        "larp_reference": null,
+        "vbn_notes": "This weakness reflects the Tzimisce's deep connection to the land and their territorial nature. In VbN, this creates opportunities for domain disputes, territorial control, and the importance of maintaining ancestral havens. Storytellers should use this weakness to create tension around territory and the need to protect one's domain."
+      },
+      "disciplines": [
+        {
+          "name": "Animalism",
+          "type": "discipline",
+          "tags": ["tabletop", "clan_favored", "beast_control", "territorial"],
+          "notes": "The Tzimisce use Animalism to control beasts, commune with the land, and maintain their territorial dominance. They have developed unique applications, including Eye of the Szlachta (level 6).",
+          "powers": [
+            {
+              "name": "Feral Whispers",
+              "rating": 1,
+              "system_text": "Allows the Tzimisce to communicate with animals and understand their basic needs and emotions.",
+              "tags": ["tabletop", "discipline_power", "communication"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Used for territorial control, gathering information, and maintaining connections with the natural world. Essential for Tzimisce who maintain rural domains."
+            },
+            {
+              "name": "Eye of the Szlachta",
+              "rating": 6,
+              "system_text": "Allows the Tzimisce to possess their ghouls or revenants, transferring their soul into the creature while their body falls into a state resembling torpor. The Tzimisce can use their Disciplines through the possessed body.",
+              "tags": ["tabletop", "discipline_power", "elder", "possession", "dangerous"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "An extremely powerful ability that allows Tzimisce to control their servants directly. Used for espionage, control, and maintaining power over revenant families. Creates significant moral and political complications."
+            }
+          ]
+        },
+        {
+          "name": "Auspex",
+          "type": "discipline",
+          "tags": ["tabletop", "clan_favored", "perception", "spiritual"],
+          "notes": "The Tzimisce use Auspex for perception, spiritual awareness, and understanding the world around them. They have developed unique applications, including Soul Decoration (combining Auspex with Obfuscate and Vicissitude).",
+          "powers": [
+            {
+              "name": "Heightened Senses",
+              "rating": 1,
+              "system_text": "Enhances all five senses, allowing the Tzimisce to perceive details that would normally be missed.",
+              "tags": ["tabletop", "discipline_power", "perception"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Essential for territorial control, security, and understanding the world around them. Used to detect threats, gather information, and maintain awareness of their domain."
+            },
+            {
+              "name": "Aura Perception",
+              "rating": 2,
+              "system_text": "Allows the Tzimisce to see the emotional and spiritual aura of others, revealing their emotional state, generation, and other supernatural qualities.",
+              "tags": ["tabletop", "discipline_power", "perception", "spiritual"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Used to assess threats, identify other Kindred, and understand emotional states. Essential for spiritual awareness and understanding the Paths of Enlightenment."
+            },
+            {
+              "name": "Soul Decoration",
+              "rating": 2,
+              "system_text": "Combines Auspex •• with Obfuscate •• and Vicissitude ••• to allow the Tzimisce to alter the aura of themselves or others, painting whatever aura they choose. The deception lasts one night per success.",
+              "tags": ["tabletop", "discipline_power", "combination", "deception"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Allows Tzimisce to conceal their true nature, diablerie, or magical use. Used for deception, espionage, and maintaining secrecy. Creates opportunities for intrigue and political manipulation."
+            }
+          ]
+        },
+        {
+          "name": "Vicissitude",
+          "type": "discipline",
+          "tags": ["tabletop", "clan_favored", "signature", "flesh_shaping"],
+          "notes": "The signature Discipline of the Tzimisce, allowing them to reshape flesh, bone, and form according to their will. Vicissitude is the art of fleshcrafting, enabling Tzimisce to transform themselves and others into works of art and terror.",
+          "powers": [
+            {
+              "name": "Malleable Visage",
+              "rating": 1,
+              "system_text": "Allows the Tzimisce to alter their facial features, changing their appearance to look like someone else or create a new visage.",
+              "tags": ["tabletop", "discipline_power", "transformation", "disguise"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Used for disguise, transformation, and artistic expression. Essential for Tzimisce who seek to change their appearance or create new forms."
+            },
+            {
+              "name": "Fleshcraft",
+              "rating": 2,
+              "system_text": "Allows the Tzimisce to reshape flesh and bone, creating modifications, enhancements, or works of art from living tissue.",
+              "tags": ["tabletop", "discipline_power", "transformation", "artistic"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Used for transformation, artistic expression, and creating works of art from flesh and bone. Essential for Metamorphosists and flesh-shapers."
+            },
+            {
+              "name": "Ecstatic Agony",
+              "rating": 6,
+              "system_text": "For a Tzimisce who can experience Ecstatic Agony, pain becomes power. The more wounded they are, the more potent they become. The Fiend channels their pain into physical prowess or incredible displays of Caine's Gifts.",
+              "tags": ["tabletop", "discipline_power", "elder", "transformation", "dangerous"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "An extremely powerful ability that allows Tzimisce to transform pain into power. Used by those who seek enlightenment through suffering. Creates opportunities for dramatic combat and spiritual transformation."
+            },
+            {
+              "name": "Pater Szlachta",
+              "rating": 4,
+              "system_text": "Combines Protean •••• with Vicissitude ••• to allow the Tzimisce to transform into a bogatyri form, rearranging their Physical Attributes and gaining physical modifications such as bone spikes or spine-saws.",
+              "tags": ["tabletop", "discipline_power", "combination", "transformation", "combat"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Allows Tzimisce to transform into a combat form optimized for battle. Used for warfare, intimidation, and survival. Creates opportunities for dramatic transformations and combat encounters."
+            },
+            {
+              "name": "Birth the Vozhd",
+              "rating": 7,
+              "system_text": "Combines Vicissitude •••••• with Animalism •••••• to allow the Tzimisce to create a vozhd, a massive amalgamation of at least 15 ghouls fused together into a single entity driven by a coalesced Beast.",
+              "tags": ["tabletop", "discipline_power", "combination", "elder", "creation", "dangerous"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "An extremely powerful and dangerous ability that allows Tzimisce to create massive war machines from their ghouls. Used for warfare, intimidation, and maintaining power. Creates significant moral and political complications."
+            }
+          ]
+        },
+        {
+          "name": "Koldunic Sorcery",
+          "type": "discipline",
+          "tags": ["tabletop", "clan_favored", "blood_magic", "elemental", "spiritual"],
+          "notes": "Koldunic Sorcery is the Tzimisce art of elemental and spirit magic, learned from Kupala, the demon-spirit of the Carpathians. It allows Tzimisce to commune with spirits, manipulate the elements, and wield the power of the land.",
+          "paths": [
+            {
+              "name": "The Way of Sorrow",
+              "rating": 1,
+              "system_text": "The path of elemental sorrow, allowing the Tzimisce to manipulate water, ice, and tears.",
+              "tags": ["tabletop", "koldunic_path", "elemental", "water"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Used for elemental manipulation, spiritual communion, and wielding the power of the land. Essential for koldun who maintain connections with the spirits of the Carpathians."
+            },
+            {
+              "name": "The Insults of Krivda",
+              "rating": 2,
+              "system_text": "The path of elemental insult, allowing the Tzimisce to manipulate fire, rage, and destruction.",
+              "tags": ["tabletop", "koldunic_path", "elemental", "fire"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Used for destruction, warfare, and wielding the power of fire and rage. Essential for koldun who seek to destroy their enemies."
+            },
+            {
+              "name": "The Weeping of Hruchina",
+              "rating": 3,
+              "system_text": "The path of elemental weeping, allowing the Tzimisce to manipulate earth, stone, and the land itself.",
+              "tags": ["tabletop", "koldunic_path", "elemental", "earth"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Used for territorial control, manipulation of the land, and wielding the power of earth and stone. Essential for koldun who maintain domains."
+            },
+            {
+              "name": "The Misfortune of Chernogolov",
+              "rating": 4,
+              "system_text": "The path of elemental misfortune, allowing the Tzimisce to manipulate air, wind, and storms.",
+              "tags": ["tabletop", "koldunic_path", "elemental", "air"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Used for weather control, manipulation of air and wind, and wielding the power of storms. Essential for koldun who seek to control the elements."
+            },
+            {
+              "name": "The Starvation of Marena",
+              "rating": 5,
+              "system_text": "The path of elemental starvation, allowing the Tzimisce to manipulate death, decay, and the void.",
+              "tags": ["tabletop", "koldunic_path", "elemental", "death"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Used for manipulation of death and decay, spiritual communion with the dead, and wielding the power of the void. Essential for koldun who seek to transcend mortality."
+            }
+          ]
+        }
+      ],
+      "merits_and_flaws": [
+        {
+          "name": "Pain Tolerance",
+          "type": "merit",
+          "cost": 2,
+          "category": "physical",
+          "tags": ["tabletop", "merit", "physical", "combat"],
+          "system_text": "You ignore one-dice wound penalties. That is, at Hurt or Injured, you suffer no wound penalties. You must have a Conviction or Courage rating of 3 or more to take this Merit.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Tzimisce's ability to endure pain and suffering. Used by those who seek enlightenment through transformation and those who have deadened their nerves through Vicissitude."
+        },
+        {
+          "name": "Dracon's Temperament",
+          "type": "merit",
+          "cost": 3,
+          "category": "mental",
+          "tags": ["tabletop", "merit", "mental", "transformation"],
+          "system_text": "You've emulated the permutable nature of change and evolution into your very psyche. Like the protean Dracon, you are a whirlwind of temperaments. At the beginning of each story, you may choose one Personality Archetype to function as your Nature.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Tzimisce's mutable nature and their ability to transform not just their bodies but their very personalities. Used by those who seek enlightenment through transformation."
+        },
+        {
+          "name": "Haven Affinity",
+          "type": "merit",
+          "cost": 3,
+          "category": "supernatural",
+          "tags": ["tabletop", "merit", "supernatural", "territorial"],
+          "system_text": "You are connected to the soil of your prime haven, granting you an extra die to all dice pools when you operate there. It also acts as a mystic beacon to you, allowing you to home in on its location.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Tzimisce's deep connection to their domain and their territorial nature. Used by those who maintain ancestral havens and those who have bound themselves to the land."
+        },
+        {
+          "name": "Revenant Disciplines",
+          "type": "merit",
+          "cost": 3,
+          "category": "supernatural",
+          "tags": ["tabletop", "merit", "supernatural", "revenant"],
+          "system_text": "The ties to your revenant family stayed with you well past the Embrace. Instead of the Tzimisce's standard complement of Animalism, Auspex and Vicissitude, you instead draw from your three family Disciplines for your starting allocation.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Tzimisce's connection to their revenant families and their ability to pass on Disciplines through the blood. Used by those who were Embraced from revenant families."
+        },
+        {
+          "name": "Ancestral Soil Dependence",
+          "type": "flaw",
+          "cost": 2,
+          "category": "supernatural",
+          "tags": ["tabletop", "flaw", "supernatural", "territorial"],
+          "system_text": "The will of the spirits from the ancestral Tzimisce homeland weighs heavy on your blood. You actually need two handfuls of the tainted Eastern European soil of the Tzimisce homeland to rest properly.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Tzimisce's deep connection to their homeland and their dependence on the magically rich soil of Eastern Europe. Used by those who were Embraced far from the Carpathians."
+        },
+        {
+          "name": "Scarface",
+          "type": "flaw",
+          "cost": 2,
+          "category": "physical",
+          "tags": ["tabletop", "flaw", "physical", "appearance"],
+          "system_text": "You're a walking mess of scars. Although you heal damage with Cainite efficiency, the manner in which you do so is all too human. For some reason, the regenerating flesh returns as scar tissue. Vicissitude doesn't help; in fact, it aggravates your condition.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Tzimisce's relationship with their flesh and their ability to heal. Used by those who have been heavily wounded or those who have experimented extensively with Vicissitude."
+        },
+        {
+          "name": "Revenant Weakness",
+          "type": "flaw",
+          "cost": 3,
+          "category": "physical",
+          "tags": ["tabletop", "flaw", "physical", "revenant"],
+          "system_text": "You were once part of a revenant family. Following the Embrace, you suffered the double-whammy of your clan's weakness and your revenant family's limitation.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Tzimisce's connection to their revenant families and the limitations that come with that connection. Used by those who were Embraced from revenant families."
+        },
+        {
+          "name": "Consumption",
+          "type": "flaw",
+          "cost": 5,
+          "category": "physical",
+          "tags": ["tabletop", "flaw", "physical", "dangerous"],
+          "system_text": "Portions of the Antediluvian are not only within you, they're active and act like a cancer that devours you from the inside out. At the beginning of each evening, you suffer one health level of bashing damage that cannot be soaked nor healed with blood. The only way to counteract the effect is by ingesting one-tenth of your body-weight in flesh.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Tzimisce's connection to their Antediluvian and the danger that comes with that connection. Used by those who have been touched by the Eldest's essence."
+        }
+      ],
+      "derangements": [
+        {
+          "name": "Agoraphobia",
+          "type": "derangement",
+          "tags": ["tabletop", "derangement", "mental", "territorial"],
+          "system_text": "Agoraphobia manifests as an extreme aversion to places the sufferer fears they will panic. Agoraphobic vampires must succeed on a Willpower roll (difficulty 8) to leave their havens each evening and must spend a point of Willpower to enter a situation from which escape will be difficult or embarrassing.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Tzimisce's territorial nature and their fear of leaving their domains. Used by those who have become too attached to their havens or those who have been traumatized by leaving their domains."
+        },
+        {
+          "name": "Acute Sanguinary Aversion",
+          "type": "derangement",
+          "tags": ["tabletop", "derangement", "mental", "feeding"],
+          "system_text": "This derangement involves a persistent fear that any source of vitae is dangerous. Unless the vampire is frenzied, the player must succeed on a Willpower roll (difficulty 8) each time they feed.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Tzimisce's relationship with blood and their fear of contamination or the Eldest's awakening. Used by those who have been traumatized by feeding or those who fear the Antediluvian's influence."
+        }
+      ]
+    }
+  }
+
+
+

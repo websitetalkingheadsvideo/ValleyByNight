@@ -1,0 +1,98 @@
+{
+    "clan": "Toreador",
+    "book_title": "Toreador",
+    "edition": "Revised (assumed)",
+    "mechanics": {
+      "disciplines": [
+        {
+          "name": "Auspex",
+          "type": "discipline",
+          "tags": ["tabletop", "clan_favored", "perception"],
+          "notes": "Heightened senses, extrasensory perception, and the ability to read auras and thoughts, fitting the Toreador focus on nuance and detail.",
+          "powers": []
+        },
+        {
+          "name": "Celerity",
+          "type": "discipline",
+          "tags": ["tabletop", "clan_favored", "speed"],
+          "notes": "Supernatural speed and grace, often expressed as balletic combat, flawless stage presence, or inhumanly precise performance.",
+          "powers": []
+        },
+        {
+          "name": "Presence",
+          "type": "discipline",
+          "tags": ["tabletop", "clan_favored", "social"],
+          "notes": "Supernatural magnetism, awe, and fear; Toreador use Presence to dominate social spaces, control crowds, and enthrall admirers.",
+          "powers": []
+        }
+      ],
+      "rituals": [],
+      "backgrounds": [
+        {
+          "name": "Fame (Artistic)",
+          "type": "background",
+          "tags": ["tabletop", "status", "mortal_world"],
+          "system_text": "Represents recognition in mortal artistic or entertainment circles, granting access, invitations, and a constant stream of admirers.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "In VbN, can govern access to certain venues, fans, and media attention; may complicate the Masquerade."
+        },
+        {
+          "name": "Patronage Network",
+          "type": "background",
+          "tags": ["tabletop", "resources", "social"],
+          "system_text": "A web of artists, critics, and wealthy supporters who owe the Toreador favors or depend on their support.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Maps well to a mix of Allies, Contacts, Retainers, and Resources tied specifically to cultural institutions."
+        }
+      ],
+      "merits_flaws": [
+        {
+          "name": "Natural Charisma",
+          "type": "merit",
+          "tags": ["tabletop", "social"],
+          "system_text": "The character’s presence is captivating even without overt use of Disciplines, making it easier to win crowds and individuals alike.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "In VbN, justifies narrative bonuses in social scenes, especially in artistic or high-society contexts."
+        },
+        {
+          "name": "Obsessed with Beauty",
+          "type": "flaw",
+          "tags": ["tabletop", "psychological"],
+          "system_text": "The character can become distracted, fixated, or even incapacitated by art or beauty that matches their particular obsession.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Classic Toreador flaw; useful for STs who want to complicate tense moments with sensory overload or elegant traps."
+        },
+        {
+          "name": "Dark Muse",
+          "type": "flaw",
+          "tags": ["tabletop", "story_hook"],
+          "system_text": "The character’s greatest work or inspiration is tied to something shameful, dangerous, or Masquerade-threatening.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Ideal for tying a Toreador PC or NPC to key city secrets and recurring antagonists."
+        }
+      ],
+      "other_systems": [
+        {
+          "name": "Clan Weakness – Aesthetic Fascination",
+          "type": "clan_weakness",
+          "tags": ["tabletop", "weakness"],
+          "system_text": "Toreador can become entranced or distracted by works of art or beauty that particularly move them, sometimes losing track of time or danger.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "In VbN, used selectively to heighten drama; should be triggered by truly meaningful stimuli, not every painting on a wall."
+        }
+      ]
+    }
+  }
+  

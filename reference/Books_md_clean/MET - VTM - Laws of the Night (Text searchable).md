@@ -1,5 +1,3 @@
---- book_title: "MET - VTM - Laws of the Night (Text searchable)" clan: "" edition: "" source_type: "clanbook" extraction_pipeline: "docling_v1 + markdown_cleanup_v1" ---
-
 ## AWS Xight fthe 6
 
 Revised Rules for Playing ampires
@@ -160,7 +158,7 @@ Previously published material from: Vampire The Masquerade Revised, Laws of the 
 
 Art direction by: Rich Thomas
 
-Art by: Pauline Benney, Louis Cahill
+Art by: Pauline Benney,Louis Cahill
 
 Front and back cover design: Craig S Grant
 
@@ -180,13 +178,13 @@ SUITE G STONE MOUNTAIN, GA 30087
 
 PUBLISHING
 
-Ages, Mage the Ascension and World of Darkness are registered trademarks of CCP hf. All rights reserved. Werewolf the Apocalypse, Wraith the Oblivion, Changeling the Dreaming, Werewolf the Wild West, Trinity, Laws of the Night, The Long Night, Liber des Goules, The Shining Host, Laws of the Wild, Laws of the Hunt, Laws of the Hunt Players Guide, Oblivion, and Storytelling System are trademarks of CCP hf. All rights reserved. All characters, names, places and text herein are copyrighted by CCP hf. CCP North America Inc. Is a wholly owned subsidiary of CCP hf.
+Ages, Mage the Ascension and World of Darkness are registered trademarks of CCP hf. All rights reserved. Werewolf the Apocalypse, Wraith the Oblivion, Changeling the Dreaming, Werewolf the Wild West, Trinity, Laws of the Night, The Long Night, Liber des Goules, The Shining Host, Laws of the Wild, Laws of the Hunt, Laws of the Hunt Players Guide, Oblivion, and Storytelling System are trademarks of CCP hf. All rights reserved. All characters, names, places and text herein are copyrighted by CCP hf. CCP North America Inc. is a wholly owned subsidiary of CCP hf.
 
 The mention of or reference to any company or product in these pages is not a challenge to the trademark or copyright concerned.
 
 This book  uses  the supernatural  for settings, characters  and themes.  All  mystical  and  supernatural  elements  are  fiction  and  intended for  entertainment  purposes  only.  This  book  contains  mature  content. Reader discretion is advised.
 
-Check out White Wolf online at http://www. white-wolf. com PRINTED ON DEMAND
+Check out White Wolf online at http://www.white-wolf.com PRINTED ON DEMAND
 
 ## Mind's Eye Theatre ™ W OS iqht
 
@@ -256,7 +254,7 @@ The Storyteller  is  the  one  who  creates  the  world  that  the  players  mov
 
 Storytelling is a demanding (and occasionally exhausting) task. A Storyteller must oversee the events to be certain that people have a good time, that the rules are being followed and that the story is running smoothly. Sometimes she must create plot elements on the spur of the moment or adjudicate between several quarreling players.  In  spite  of  all  this  responsibility,  there  is  something  immensely satisfying about watching the players create something remarkable with the plot elements given them. It really makes the headache all worthwhile.
 
-More on the Storyteller's role can be found in Chapter Six. Elegantly simple
+More on the Storyteller's role can be found in Chapter Six. elegantly simple
 
 This game was designed to be easy to play and easier to start. Character creation takes only a few minutes. The basic rules are simple, and they cover most of the encounters a new player will enter. Even very new players who have never played Masquerade or LARP before will find that this game takes little effort to pick up.
 
@@ -878,11 +876,11 @@ Bloodlines: A small number of Lasombra - about a hundred - claim allegiance with
 
 ## Tzimisce
 
-Potent sorceries, crumbling castles, forbidding mountains, villages of huddled and fearful peasants these images play  through  the  history  of  the    Tzimisce. The scholarly Fiends trace their roots to the demesnes of Eastern Europe, where  they  ruled  as  feudal  lords over a superstitious populace (and, in some places, they still do, it is whispered). Even in the modern day,  anachronistic behavior and uncommon  occult  insight  are hallmarks of the Tzimisce. Once the  pre-eminent  sorcerers  of Cainite society, they now serve the Sabbat as terrifying, alien creatures  that  epitomize the traditional characteristics of vampires. The great  Vlad Dracul himself  is  said to  be  one  of the  Tzimisce, though in the Sabbat, he  is  counted  a  traitor  to the clan. Forbidding mountains, villages of hudPotent sorceries, crumbling castles, forbidding mountains, villages of hudistics of vampires. The
+Potent sorceries, crumbling castles, forbidding mountains, villages of huddled and fearful peasants these images play  through  the  history  of  the    Tzimisce. The scholarly Fiends trace their roots to the demesnes of Eastern Europe, where  they  ruled  as  feudal  lords over a superstitious populace (and, in some places, they still do, it is whispered). Even in the modern day,  anachronistic behavior and uncommon  occult  insight  are hallmarks of the Tzimisce. Once the  pre-eminent  sorcerers  of Cainite society, they now serve the Sabbat as terrifying, alien creatures  that  epitomize the traditional characteristics of vampires. The great  Vlad Dracul himself  is  said to  be  one  of the  Tzimisce, though in the Sabbat, he  is  counted  a  traitor  to the clan. forbidding mountains, villages of hudPotent sorceries, crumbling castles, forbidding mountains, villages of hudistics of vampires. The
 
 At  last,  the  anarchs  destroyed the  Tzimisce  Antediluvian, and together with the Lasombra,  the  remaining  Fiends formed  the  core  of  the Sabbat. The few surviving voivodes and koldun shut themselves  away  in  their castles, avoiding the strife and  closeting  themselves in  an  earlier  age.  Now, the  Fiends'  influence  in the Sabbat is second only to  the  Lasombra  clan's, and many believe that  the Tzimisce manipulate the Lasombra as well.
 
-Few  can  understand  the  motives  of the  Tzimisce.  Many are insane or simply  alien  to human  or vampiric m I  n d s .
+Few  can  understand  the  motives  of the  Tzimisce.  Many are insane or simply  alien  to human  or vampiric m i n d s .
 
 <!-- image -->
 
@@ -1911,7 +1909,7 @@ Uses: Subterfuge, seduction.
 
 Witty: Cleverly humorous. Jokes and jests come easily to you, and you are perceived as a funny person when you want to be.
 
-Uses: At parties. Entertaining someone. Goading or insulting someone. Negative soCial  traits
+Uses: At parties. Entertaining someone. Goading or insulting someone. negative soCial  traits
 
 Bestial: You have started to resemble the Beast of your vampiric nature. Maybe you have clawlike fingernails, heavy body hair or a feral glint in your eyes; however your Beast manifests, you definitely seem inhuman.
 
@@ -4041,7 +4039,7 @@ No longer limited to sending your voice to a place you can see, you can project 
 
 The words and music of Phantom Speaker are audible only to your target, unless an eavesdropper with at least the Intermediate level of Auspex manages to listen in by defeating you in a Mental Challenge.
 
-You must expend one Blood Trait to project your voice for a single turn. Intermediate melpominee
+You must expend one Blood Trait to project your voice for a single turn. intermediate melpominee
 
 ## Madrigal
 
@@ -4535,7 +4533,7 @@ Whenever you enter a challenge of strength, you may use Potence as your bid Trai
 
 <!-- image -->
 
-If you run out of Physical Traits, you cannot use this Discipline. Once you have been completely exhausted, you can no longer enter challenges. AdvanCed potenCe
+If you run out of Physical Traits, you cannot use this Discipline. Once you have been completely exhausted, you can no longer enter challenges. advanCed potenCe
 
 ## Puissance
 
@@ -6101,7 +6099,7 @@ Note : You cannot diablerize anything but another vampire. A mortal soul, with n
 
 ## Rewards of Diablerie
 
-On successful completion of diablerie, the diablerist is overcome by euphoria, and he must check to avoid frenzy immediately; the diablerist has literally taken the victim's soul into her own. The true benefit of diablerie becomes apparent, however, if the victim was of a lower generation than the diablerist (e. g., a ninth-generation vampire diablerizing a seventh-generation vampire): By stealing the other Kindred's soul, the diablerist effectively raises her own generation by one, bringing her closer to Caine and otherwise conferring all the benefits of the new generation on the vampire. The character also gains two extra Experience Traits at the end of the session.
+On successful completion of diablerie, the diablerist is overcome by euphoria, and he must check to avoid frenzy immediately; the diablerist has literally taken the victim's soul into her own. The true benefit of diablerie becomes apparent, however, if the victim was of a lower generation than the diablerist (e.g., a ninth-generation vampire diablerizing a seventh-generation vampire): By stealing the other Kindred's soul, the diablerist effectively raises her own generation by one, bringing her closer to Caine and otherwise conferring all the benefits of the new generation on the vampire. The character also gains two extra Experience Traits at the end of the session.
 
 If the victim was of much greater power (five or more generation levels), the diablerist may gain more than one generation; ultimately, however, the decision is up to the Storyteller.
 
@@ -6429,7 +6427,7 @@ Ricco, one of the hellhounds, growled for a moment, sniffing at the air. Then, h
 
 His hand coming down in a strident chord, Kevin's thoughts turned inward, and the puppeteering strings woven about him by Donata's ancient prowess suddenly changed hands.
 
-Relieved of the burden of an unnatural love for Donata, Kevin clashed out a harsh and discordant sound on the guitar. He had some new respect for the woman - she was a consummate manipulator and a powerful elder - but he knew now that she'd turned his own will against him. He'd be more careful in the future - and she wouldn't suspect, if he played his hand properly. A bit of her blood had perhaps turned his mood (and She's turning you into a slave! Screamed in part of his mind) but he was still his own man. He'd go along with her plans for now, but they'd serve his ends.
+Relieved of the burden of an unnatural love for Donata, Kevin clashed out a harsh and discordant sound on the guitar. He had some new respect for the woman - she was a consummate manipulator and a powerful elder - but he knew now that she'd turned his own will against him. He'd be more careful in the future - and she wouldn't suspect, if he played his hand properly. A bit of her blood had perhaps turned his mood (and She's turning you into a slave! screamed in part of his mind) but he was still his own man. He'd go along with her plans for now, but they'd serve his ends.
 
 ## CHAPTER SIX: STORYTELLING
 
@@ -7125,7 +7123,7 @@ weavers on  the  loom  oF  reality
 
 Few things are as frightening as the unknown, which explains why most elders are terrified of wizards. Even the Tremere cannot comprehend the ways of the mortal mystics, and Kindred who know of their existence give willworkers a wide berth. No physical match for Kindred or Lupines, most wizards instead hide in plain sight, couching their magic in bizarre coincidences and subtle shifts of fortune. When roused to battle, however, willworkers can call up results that astound the most jaded elders. A powerful mage on the warpath can warp time, alter gravity, shred minds like confetti or burn vampires to a crisp with little more than a disapproving glare. Wizards seem to come in as many stripes as there are views on magic: from faith healers to techno-wizards to Hermetic scholars to demonic priests and native shamans, the actual method a wizard uses to practice magic seems to mean less than his belief in that method. Fortunately for the Kindred, many of these diverse factions seem to be locked in a shadow war very similar to the Jyhad, which means most willworkers pay little attention to any vampires that cross their path.
 
-Most Kindred have no dealings with wizards, and they like to keep it that way. However, the Tremere have an uneasy truce with the sect of wizards they used to belong to, the Order of Hermes. While open feuding is a thing of the past, the two sides spy on each other constantly, and subtle traps are not uncommon between the two sides. Demon wizards called the Nephandi sometimes forge dark alliances with Setites or Sabbat on the Path of Evil Revelations, while their opposite number, the Celestial Chorus, has spent centuries battling the Lasombra and others who would pervert the church to their own ends. Shapeshifting witches known as the Verbena have been known to consort to with the Gangrel from time to time, and their form of pagan blood-magic has been whispered in the halls of Elysium for centuries. Finally, some Kindred with influence in cutting-edge technology and at the highest levels of government have long heard rumors about a gigantic wizard 'Technocracy' that supposedly has its hooks deep into the world power structure. Naturally, the elders scoff at such rumors, claiming such a takeover would have required hundreds of years of highly secret manipulations that somehow also managed to escape their notice, and surely not even the most powerful wizards could accomplish such a monumental feat of magical treachery... Could they?
+Most Kindred have no dealings with wizards, and they like to keep it that way. However, the Tremere have an uneasy truce with the sect of wizards they used to belong to, the Order of Hermes. While open feuding is a thing of the past, the two sides spy on each other constantly, and subtle traps are not uncommon between the two sides. Demon wizards called the Nephandi sometimes forge dark alliances with Setites or Sabbat on the Path of Evil Revelations, while their opposite number, the Celestial Chorus, has spent centuries battling the Lasombra and others who would pervert the church to their own ends. Shapeshifting witches known as the Verbena have been known to consort to with the Gangrel from time to time, and their form of pagan blood-magic has been whispered in the halls of Elysium for centuries. Finally, some Kindred with influence in cutting-edge technology and at the highest levels of government have long heard rumors about a gigantic wizard 'Technocracy' that supposedly has its hooks deep into the world power structure. Naturally, the elders scoff at such rumors, claiming such a takeover would have required hundreds of years of highly secret manipulations that somehow also managed to escape their notice, and surely not even the most powerful wizards could accomplish such a monumental feat of magical treachery... could they?
 
 While vampires are seldom aware of the difference, wizards are actually divided into two types: mages, who know True Magic and thus bend reality at will, and hedge wizards, mortals who are only partially Awakened to the truth of reality and thus can only work magic in static, defined ways. Complete rules for hedge magic and playing hedge wizards can be found in Laws of the Hunt and the Laws of the Hunt Player's Guide . Hedge wizards are the most commonly encountered type of wizard, and while they can grow to be very powerful indeed, they are small fry next to the freestyle realitywarping talents of their mage brethren. Mages are extremely powerful beings, and they should be used only as  Narrator characters. However, if used appropriately, mage allies can be excellent sources for mystic artifacts and contacts for arcane lore, as well as the start of any number of interesting story-lines. Mage enemies, on the other hand, are a challenge to even a hardened group of elders, and they can present a refreshing change of antagonists in a long-running game. Storytellers who add mages and hedge wizards to their chronicles should remember the following basic guidelines:
 
@@ -7135,7 +7133,7 @@ While vampires are seldom aware of the difference, wizards are actually divided 
 
 ## ForBidden neCtar: vitae  From  supernatural  sourCes
 
-Sooner or later, Kindred in contact with other supernatural forces will try drinking their blood, whether due to urgent need, simple curiosity or any number of other reasons. Likewise, sometimes vampires put the bite on what they believe to be a normal mortal, only to discover - too late - that they are supping on something else entirely. Some twisted Kindred may even become addicted to a specific 'vintage' of supernatural vitae (e. g., Malkavians to faerie blood, thrill-seeking Licks to Lupine vitae), and he will go to great lengths to get his fix. Most of these Kindred are hunted down by the very prey they enjoy. Whatever the case, Narrators should consult the following guidelines as to what befalls the poor fool who drinks the vitae of a supernatural creature.
+Sooner or later, Kindred in contact with other supernatural forces will try drinking their blood, whether due to urgent need, simple curiosity or any number of other reasons. Likewise, sometimes vampires put the bite on what they believe to be a normal mortal, only to discover - too late - that they are supping on something else entirely. Some twisted Kindred may even become addicted to a specific 'vintage' of supernatural vitae (e.g., Malkavians to faerie blood, thrill-seeking Licks to Lupine vitae), and he will go to great lengths to get his fix. Most of these Kindred are hunted down by the very prey they enjoy. Whatever the case, Narrators should consult the following guidelines as to what befalls the poor fool who drinks the vitae of a supernatural creature.
 
 Note: Unless the Storyteller says otherwise, the rule of vitae usage is 'last in, last out;' a Kindred who ingests a Trait of fae blood, for example, must cycle through all the Blood Traits currently in his system before he can spend the fae blood that is plaguing him.
 
@@ -7227,7 +7225,7 @@ More on faeries can be found in The Shining Host ; a brief summary of pertinent 
 
 ## united under  the  Final  nights:  Crossover  powers
 
-In  many  games,  Kindred  will  encounter  at  least  a  few  of  the  different  supernatural creatures described previously, and in some games, players may even be allowed to play characters from these other denizens of the shadows. While such games can be a wonderful chance to roleplay the interaction between the different hidden cultures in the Gothic-Punk world, it is likewise inevitable that clashes will occur between character types as players use different supernatural powers against each other. Therefore, Storytellers and Narrators alike should be prepared to adjudicate what happens when the Gifts/ Spheres/ Arcanoi/ Arts/ Numina/ etc. Of other supernaturals come in conflict with vampiric Disciplines. Before the nitty-gritty rules of such adjudication are put forth, however, there are a few basic points to remember:
+In  many  games,  Kindred  will  encounter  at  least  a  few  of  the  different  supernatural creatures described previously, and in some games, players may even be allowed to play characters from these other denizens of the shadows. While such games can be a wonderful chance to roleplay the interaction between the different hidden cultures in the Gothic-Punk world, it is likewise inevitable that clashes will occur between character types as players use different supernatural powers against each other. Therefore, Storytellers and Narrators alike should be prepared to adjudicate what happens when the Gifts/ Spheres/ Arcanoi/ Arts/ Numina/ etc. of other supernaturals come in conflict with vampiric Disciplines. Before the nitty-gritty rules of such adjudication are put forth, however, there are a few basic points to remember:
 
 Check the FAQs - Mind's Eye Theatre has evolved considerably since its creation, and many common crossover questions are answered in various FAQ sections of the main rulebooks. Furthermore, the Mind's Eye Theatre Journal
 
@@ -7261,7 +7259,7 @@ Using this method, supernatural abilities are judged by power level alone; if tw
 
 This method is a very clear and efficient way of settling most supernatural disputes, and it can save Narrators a lot of time in larger games especially. However, it  can  also  make some players feel helpless to battle characters who possess superior powers, and it tends to limit player creativity a bit when it comes to the application of their supernatural abilities. Based as it is strictly on powers earned, it can also invite abuse from unscrupulous players seeking to min-max their characters into war machines or unstoppable manipulators, so Narrators need to keep an ear to the ground and step in if players are taking advantage of this system's elegant simplicity. Players who take advantage of their out-of-character knowledge of another character's overall power level are cheating, plain and simple.
 
-Remember, don't use this for clashes within the same character type! The Disciplines of the Kindred are written to be balanced in respect to each other, as are the powers of the other supernatural groups; only when a Kindred fights a Garou, a faerie battles a wraith, etc. Should you implement the relative power levels method of comparison. Such are the perils of battling the unknown….
+Remember, don't use this for clashes within the same character type! The Disciplines of the Kindred are written to be balanced in respect to each other, as are the powers of the other supernatural groups; only when a Kindred fights a Garou, a faerie battles a wraith, etc. should you implement the relative power levels method of comparison. Such are the perils of battling the unknown….
 
 Example of Play: Dice, pooka trickster, is using the Basic Chicanery Art of Veiled Eyes (invisibility) to escape an unruly crowd, while Amber the Toreador is using Basic Auspex, Heightened Senses , to catch him. Overall, Dice has Advanced Chicanery , while Amber has only Basic Auspex . Using this method, Dice cannot be detected at all by Amber (no test is involved), since his overall Chicanery rating is higher than her overall Auspex score. However, if they were reversed and Dice had only Basic Chicanery and Amber had Advanced Auspex , then she would automatically detect him (again, no test involved). If both of them had the same overall power level (both had Intermediate levels overall in their respective powers, for example), a test of some kind would determine which power wins - in this case a Mental Challenge.
 
@@ -7326,4 +7324,4 @@ Let the Midnight Dance begin....
 
 <!-- image -->
 
-WWW. WHITE-WOLF. COM ISBN 978-1-56504-5890
+WWW.WHITE-WOLF.COM ISBN 978-1-56504-5890

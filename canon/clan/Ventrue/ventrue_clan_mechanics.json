@@ -1,0 +1,203 @@
+{
+    "clan": "Ventrue",
+    "internal_name": "Ventrue",
+    "book_title": "Revised - Clanbook Ventrue",
+    "edition": "Revised",
+    "mechanics": {
+      "clan_weakness": {
+        "name": "Feeding Restriction",
+        "type": "clan_weakness",
+        "tags": ["tabletop", "clan_weakness", "feeding"],
+        "system_text": "Ventrue can only feed from a specific type of kine, determined by their first taste of exquisite vitae after the Embrace. This restriction is both physical and mental—a Ventrue will vomit up blood that doesn't match their preferences, even in torpor or at the brink of Final Death. The restriction can only change if the preferred blood type becomes completely unavailable, and even then, the change is rare and difficult.",
+        "source_page": null,
+        "larp_status": "not_mapped",
+        "larp_reference": null,
+        "vbn_notes": "This weakness reflects the Ventrue's aristocratic nature and their refined tastes. In VbN, this creates opportunities for political maneuvering (knowing a Ventrue's feeding restriction can be used against them), domain disputes (competing for the same feeding sources), and the importance of maintaining herds. Storytellers should use this weakness to create tension around feeding, territory, and the need to protect one's blood sources."
+      },
+      "disciplines": [
+        {
+          "name": "Dominate",
+          "type": "discipline",
+          "tags": ["tabletop", "clan_favored", "mind_control", "authority"],
+          "notes": "The Ventrue use Dominate for control, manipulation, and maintaining authority. They have developed unique applications, including the ability to weave commands into normal speech patterns and Denial of Aphrodite's Favor (level 3 combination).",
+          "powers": [
+            {
+              "name": "Command",
+              "rating": 1,
+              "system_text": "Allows the Ventrue to issue simple, direct commands that the target must obey.",
+              "tags": ["tabletop", "discipline_power", "mind_control"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Used for control, manipulation, and maintaining authority. Essential for maintaining order and enforcing the Traditions."
+            },
+            {
+              "name": "Mesmerism",
+              "rating": 3,
+              "system_text": "Allows the Ventrue to implant suggestions and commands that the target will follow even after the power ends.",
+              "tags": ["tabletop", "discipline_power", "mind_control", "long_term"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Used for long-term manipulation and control. Essential for creating sleeper agents, maintaining influence, and building networks of obligation."
+            },
+            {
+              "name": "Lifesong",
+              "rating": 1,
+              "system_text": "Combines Dominate • with Presence • to allow the Ventrue to assess any single statement and determine the subject's Demeanor from it, finding profound meaning in common utterances. Works only on living creatures.",
+              "tags": ["tabletop", "discipline_power", "combination", "perception", "social"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Allows Ventrue to understand mortals better, reading their true nature from their words. Used for social manipulation and understanding human psychology."
+            },
+            {
+              "name": "Denial of Aphrodite's Favor",
+              "rating": 3,
+              "system_text": "Combines Dominate ••• with Fortitude ••• to allow the Ventrue to protect themselves from Presence Levels One through Three used by any Kindred of higher generation.",
+              "tags": ["tabletop", "discipline_power", "combination", "defense", "social"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Allows Ventrue to resist emotional manipulation, protecting them from the powers at which they and the Toreador excel. Used for political protection and maintaining mental independence."
+            }
+          ]
+        },
+        {
+          "name": "Fortitude",
+          "type": "discipline",
+          "tags": ["tabletop", "clan_favored", "defense", "resilience"],
+          "notes": "The Ventrue use Fortitude for protection, resilience, and survival. They have developed unique applications, including Curse the Laurel (level 7).",
+          "powers": [
+            {
+              "name": "Resist Damage",
+              "rating": 1,
+              "system_text": "Allows the Ventrue to reduce damage from physical attacks, making them more resilient in combat.",
+              "tags": ["tabletop", "discipline_power", "defense", "combat"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Used for protection and survival. Essential for surviving combat, assassination attempts, and other physical threats."
+            },
+            {
+              "name": "Curse the Laurel",
+              "rating": 7,
+              "system_text": "Allows the Ventrue to overcome the traditional bane of the stake. The Ventrue may subsume a stake that pierces their heart, reshaping the dead organ slowly and insulating it from the offending wood. The stake remains in the body but can be removed later.",
+              "tags": ["tabletop", "discipline_power", "elder", "defense", "dangerous"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "An extremely powerful ability that allows Ventrue to survive one of the most feared weapons of the undead. Used by elders who have mastered the art of survival. Creates opportunities for dramatic escapes and survival stories."
+            }
+          ]
+        },
+        {
+          "name": "Presence",
+          "type": "discipline",
+          "tags": ["tabletop", "clan_favored", "social", "influence"],
+          "notes": "The Ventrue use Presence for social influence, intimidation, and attraction. They have developed subtle applications, allowing them to control the intensity of their Presence effects.",
+          "powers": [
+            {
+              "name": "Awe",
+              "rating": 1,
+              "system_text": "Allows the Ventrue to inspire awe and respect in others, making them more impressive and commanding.",
+              "tags": ["tabletop", "discipline_power", "social", "influence"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Used for social influence and maintaining authority. Essential for commanding respect and inspiring loyalty."
+            },
+            {
+              "name": "Dread Gaze",
+              "rating": 2,
+              "system_text": "Allows the Ventrue to inspire terror in others, making them flee or submit.",
+              "tags": ["tabletop", "discipline_power", "social", "intimidation"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Used for intimidation and control. Essential for maintaining authority and dealing with threats."
+            },
+            {
+              "name": "Entrancement",
+              "rating": 3,
+              "system_text": "Allows the Ventrue to inspire a love-like attachment in others, making them devoted followers.",
+              "tags": ["tabletop", "discipline_power", "social", "influence", "long_term"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Used for creating devoted followers and building networks of loyalty. Essential for maintaining influence and protecting one's interests."
+            },
+            {
+              "name": "Subtle Presence",
+              "rating": 1,
+              "system_text": "Optional system: At the Storyteller's discretion, the player may spend a Willpower point after making a too-successful Presence roll and negate the extra successes, leaving exactly enough to generate the intended result. May be done only once per scene.",
+              "tags": ["tabletop", "discipline_power", "optional", "social", "control"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Allows Ventrue to use Presence more subtly, avoiding overwhelming effects when they want to be more controlled. Used for delicate social situations and maintaining appearances."
+            }
+          ]
+        }
+      ],
+      "merits_and_flaws": [
+        {
+          "name": "Paragon",
+          "type": "merit",
+          "cost": 6,
+          "category": "social",
+          "tags": ["tabletop", "merit", "social", "background"],
+          "system_text": "The Embrace has awakened within you an aspect of personality that others find particularly compelling. You may select one Background (Allies, Contacts, Fame, Herd, Influence, Mentor, Resources, Retainers, Status, etc.) and your maximum Trait score in that Background may exceed your normal generation limit by one.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Ventrue's natural ability to excel in certain areas. Used by those who have a particular talent or focus that sets them apart from other Kindred."
+        }
+      ],
+      "social_structures": [
+        {
+          "name": "The Agoge",
+          "type": "social_structure",
+          "tags": ["tabletop", "training", "education", "tradition"],
+          "system_text": "The Ventrue training period for neonates, modeled after the ancient Spartan education system. The agoge includes indoctrination, the choice of feeding restriction, training in Ventrue traditions and history, presentation to the prince, continued training with other clan members, a final test to establish a domain, and coming out before the clan. The process usually takes several months to years.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Ventrue's emphasis on tradition, education, and proper training. Used to ensure that all Ventrue understand their responsibilities and the clan's expectations. Creates opportunities for mentorship, conflict, and the tension between tradition and innovation."
+        },
+        {
+          "name": "The Hierarchy",
+          "type": "social_structure",
+          "tags": ["tabletop", "hierarchy", "organization", "authority"],
+          "system_text": "The Ventrue clan hierarchy: Peers (neonates), Aediles (assistants), Praetors (city leaders), Strategoi (regional leaders), and Ephors (the secretive Directorate). Each rank has specific responsibilities and authority, and advancement is difficult due to the eternal nature of Kindred unlife.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Ventrue's need for structure and order. Used to organize the clan, settle disputes, and maintain authority. Creates opportunities for political maneuvering, conflict, and the tension between individual ambition and loyalty to the clan."
+        },
+        {
+          "name": "The Courts",
+          "type": "social_structure",
+          "tags": ["tabletop", "dispute_resolution", "arbitration", "tradition"],
+          "system_text": "The Ventrue court system is an ad hoc dispute-resolution forum that combines debate, arbitration, and showmanship. Anyone recognized as a peer or greater can petition to convene a court. The two disputants agree upon an arbiter, who presides over a structured debate. The arbiter's decision is not binding unless both disputants agree, but disagreeing is considered a grave challenge to the arbiter's dignitas.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Ventrue's emphasis on tradition, precedent, and maintaining dignitas. Used to settle disputes without violence, preserving the honor of both sides. Creates opportunities for political maneuvering, debate, and the tension between individual rights and clan unity."
+        },
+        {
+          "name": "The Cliques",
+          "type": "social_structure",
+          "tags": ["tabletop", "social_groups", "networking", "culture"],
+          "system_text": "Ventrue organize themselves into social groups based on shared interests: Vintage Clubs (those with similar feeding preferences), Chess Societies (those who play chess), Olympians (those who manipulate mortals for amusement), and Philosophes (those who discuss philosophy). These groups provide opportunities for networking, socializing, and building alliances.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Ventrue's need for social connection and shared interests. Used to build networks, maintain relationships, and create opportunities for alliance and cooperation. Creates opportunities for intrigue, competition, and the tension between individual interests and clan unity."
+        }
+      ]
+    }
+  }
+
+
+

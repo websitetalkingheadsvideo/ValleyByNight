@@ -1,0 +1,46 @@
+{
+    "clan": "Daughters of Cacophony",
+    "internal_name": "Daughters of Cacophony",
+    "book_title": "Bloodline Book: Daughters of Cacophony",
+    "edition": "Bloodline Book",
+    "sections": [
+      {
+        "id": "foreword",
+        "title": "Foreword",
+        "anchor": "Foreword",
+        "type": "meta"
+      },
+      {
+        "id": "chapter_one",
+        "title": "The Score of the Bloodline",
+        "anchor": "Chapter One The score of the Bloodline",
+        "type": "history"
+      },
+      {
+        "id": "chapter_two",
+        "title": "The Music of the Night",
+        "anchor": "Chapter Two The Music of the Night",
+        "type": "culture"
+      },
+      {
+        "id": "chapter_three",
+        "title": "Playing a Daughter",
+        "anchor": "Chapter Three Playing a Daughter",
+        "type": "character_creation"
+      },
+      {
+        "id": "appendix",
+        "title": "Appendix",
+        "anchor": "Appendix",
+        "type": "meta"
+      },
+      {
+        "id": "recommended_listening",
+        "title": "Recommended Listening",
+        "anchor": "Recommended Listening",
+        "type": "meta"
+      }
+    ]
+  }
+
+

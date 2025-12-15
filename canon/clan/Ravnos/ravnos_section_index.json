@@ -1,0 +1,351 @@
+{
+    "clan": "Ravnos",
+    "internal_name": "Ravnos",
+    "book_title": "Revised - Clanbook Ravnos",
+    "edition": "Revised",
+    "approximate_source_file": "G:\\VbN\\reference\\Books_md_clean\\Clan Books\\Revised - Clanbook Ravnos.md",
+    "sections": [
+      {
+        "id": "credits",
+        "title": "Credits",
+        "anchor": "## CreDits",
+        "type": "meta",
+        "notes": "Standard publication credits."
+      },
+      {
+        "id": "contents",
+        "title": "Table of Contents",
+        "anchor": "## tABLe Of CONteNts",
+        "type": "meta",
+        "notes": "Table of contents."
+      },
+      {
+        "id": "framing_fiction_devils_due",
+        "title": "Framing Fiction – The Devil's Due",
+        "anchor": "## the DeViL ' s  Due",
+        "type": "fiction",
+        "notes": "Opening fiction."
+      },
+      {
+        "id": "history_indian_records",
+        "title": "Indian Records",
+        "anchor": "## iNDiAN reCOrDs",
+        "type": "history",
+        "notes": "Historical records from India."
+      },
+      {
+        "id": "history_lexicon",
+        "title": "Lexicon",
+        "anchor": "## LexiCON",
+        "type": "lore",
+        "notes": "Glossary of terms."
+      },
+      {
+        "id": "history_demons_and_dead",
+        "title": "Demons and the Dead",
+        "anchor": "## DeMONs AND the DeAD",
+        "type": "history",
+        "notes": "Origin story involving asuratizayya."
+      },
+      {
+        "id": "history_first_brood",
+        "title": "The First Brood",
+        "anchor": "## the first BrOOD",
+        "type": "history",
+        "notes": "The five childer of Zapathasura: Black Mother, Rakshasa, Chandraputra, Ravana, Ramessu."
+      },
+      {
+        "id": "history_ancient_world",
+        "title": "The Ancient World",
+        "anchor": "## the  ANCieNt  wOrLD",
+        "type": "history",
+        "children": [
+          "## the rOMAN eMpire",
+          "## the pAth Of pArADOx",
+          "## the BAshirites"
+        ]
+      },
+      {
+        "id": "history_medieval_period",
+        "title": "The Medieval Period",
+        "anchor": "## the MeDieVAL periOD",
+        "type": "history",
+        "children": [
+          "## rrOMA rAVNOs",
+          "## the treAtMeNt",
+          "## the Others",
+          "## the iNquisitiON"
+        ]
+      },
+      {
+        "id": "history_camarilla",
+        "title": "The Camarilla",
+        "anchor": "## the CAMAriLLA",
+        "type": "history",
+        "notes": "Ravnos relationship with the Camarilla."
+      },
+      {
+        "id": "history_new_world",
+        "title": "The New World",
+        "anchor": "## the  New  wOrLD",
+        "type": "history",
+        "notes": "Ravnos in the Americas."
+      },
+      {
+        "id": "history_sabbat",
+        "title": "The Sabbat",
+        "anchor": "## the sABBAt",
+        "type": "history",
+        "children": [
+          "## the ANtitriBu"
+        ]
+      },
+      {
+        "id": "history_modern_era",
+        "title": "The Modern Era",
+        "anchor": "## the MODerN erA",
+        "type": "history",
+        "children": [
+          "## the ' 60s",
+          "## the ' 80s",
+          "## the ' 90s"
+        ]
+      },
+      {
+        "id": "history_week_of_nightmares",
+        "title": "The Week of Nightmares",
+        "anchor": "## the weeK Of NightMAres",
+        "type": "history",
+        "children": [
+          "## fALLOut",
+          "## prOpheCy"
+        ],
+        "notes": "The destruction of most Ravnos elders in 1999."
+      },
+      {
+        "id": "culture_the_embrace",
+        "title": "The Ravnos Embrace",
+        "anchor": "## the rAVNOs eMBrACe",
+        "type": "culture",
+        "children": [
+          "## iNDiAN MAss eMBrACes"
+        ]
+      },
+      {
+        "id": "culture_jati_and_bloodlines",
+        "title": "Jati and Bloodlines",
+        "anchor": "## jAti  AND BLOODLiNes",
+        "type": "culture",
+        "children": [
+          "## hOw MANy?",
+          "## whAt ABOut the eLDers?",
+          "## whO CAres ABOut the weeK Of NightMAres?"
+        ]
+      },
+      {
+        "id": "culture_elder_lines",
+        "title": "The Elder Lines",
+        "anchor": "## the eLDer LiNes",
+        "type": "culture",
+        "children": [
+          "## BrAhMAN",
+          "## KshAtriyAs",
+          "## VAisyAs",
+          "## ChANDALAs",
+          "## the westerN shiLMuLO",
+          "## the rrOMA shiLMuLO"
+        ]
+      },
+      {
+        "id": "culture_current_situation",
+        "title": "Current Situation",
+        "anchor": "## CurreNt situAtiON",
+        "type": "culture",
+        "children": [
+          "## rAVNOs ArOuND the wOrLD",
+          "## iNDiA",
+          "## AfriCA",
+          "## AsiA",
+          "## AustrALiA",
+          "## eurOpe",
+          "## MiDDLe eAst",
+          "## NOrth AMeriCA",
+          "## sOuth AMeriCA"
+        ]
+      },
+      {
+        "id": "weakness_born_criminals",
+        "title": "Born Criminals: The Ravnos Weakness",
+        "anchor": "## BOrN CriMiNALs: the rAVNOs weAKNess",
+        "type": "mechanics",
+        "children": [
+          "## the Curse",
+          "## the shApe Of ViCe",
+          "## ChOOse yOur CriMe",
+          "## stOryteLLiNg the weAKNess",
+          "## rrOMA rAVNOs AND the weAKNess"
+        ]
+      },
+      {
+        "id": "culture_kris_and_gatherings",
+        "title": "Kris and Other Gatherings",
+        "anchor": "## Kris  AND  Other gAtheriNgs",
+        "type": "culture",
+        "notes": "Ravnos councils and gatherings."
+      },
+      {
+        "id": "culture_sects_and_society",
+        "title": "Sects and Society",
+        "anchor": "## seCts AND sOCiety",
+        "type": "politics",
+        "children": [
+          "## the CAMAriLLA",
+          "## the sABBAt",
+          "## the ANtitriBu",
+          "## ANArChs"
+        ]
+      },
+      {
+        "id": "culture_the_treatment",
+        "title": "The Treatment",
+        "anchor": "## the treAtMeNt",
+        "type": "politics",
+        "children": [
+          "## the MethODs",
+          "## this MeANs wAr!",
+          "## Part One: Plan",
+          "## Part Two: Leave Town"
+        ],
+        "notes": "Coordinated harassment campaigns against princes who expel Ravnos."
+      },
+      {
+        "id": "culture_relations",
+        "title": "The Others",
+        "anchor": "## the Others",
+        "type": "politics",
+        "children": [
+          "## AssAMites",
+          "## BrujAh",
+          "## fOLLOwers Of set",
+          "## gANgreL",
+          "## giOVANNi",
+          "## LAsOMBrA",
+          "## MALKAViAN",
+          "## NOsferAtu",
+          "## tOreADOr",
+          "## treMere",
+          "## tziMisCe",
+          "## VeNtrue",
+          "## the rrOMA",
+          "## fAeries"
+        ]
+      },
+      {
+        "id": "survival_lupine_guide",
+        "title": "The Lupine Survival Guide, Y2K Edition",
+        "anchor": "## the LupiNe surViVAL guiDe, y2K eDitiON",
+        "type": "lore",
+        "notes": "Practical advice for surviving encounters with werewolves."
+      },
+      {
+        "id": "philosophy_mayaparisatya",
+        "title": "Mayaparisatya: The Path of Paradox",
+        "anchor": "## MAyApArisAtyA: the  pAth  Of pArADOx",
+        "type": "philosophy",
+        "children": [
+          "## the true pAth returNs",
+          "## the sVADhArMA",
+          "## pAths Of eNLighteNMeNt",
+          "## stArtiNg ON the pAth"
+        ]
+      },
+      {
+        "id": "mechanics_disciplines",
+        "title": "Disciplines",
+        "anchor": "## DisCipLiNes",
+        "type": "mechanics",
+        "children": [
+          "## ANiMALisM",
+          "## OptiON fOr DrAwiNg Out the BeAst",
+          "## fOrtituDe",
+          "## ChiMerstry"
+        ]
+      },
+      {
+        "id": "mechanics_chimerstry",
+        "title": "Chimerstry",
+        "anchor": "## ChiMerstry",
+        "type": "mechanics",
+        "children": [
+          "## whAt is ChiMerstry?",
+          "## ChiMerstry is NOt OBfusCAte",
+          "## DisBeLief",
+          "## hOw MuCh AreA CAN ChiMerstry COVer?",
+          "## hOrriD reALity Vs. high Auspex",
+          "## ChiMerstry isN ' t  VAMpiriC",
+          "## whAt is ChiMerstry?",
+          "## fALse resONANCe (ChiMerstry LeVeL six)",
+          "## fAtuus MAstery (ChiMerstry LeVeL six)",
+          "## fAr fAtuus (ChiMerstry LeVeL seVeN)",
+          "## NOtes ON hOrriD reALity",
+          "## suspeNsiON Of DisBeLief (ChiMerstry LeVeL seVeN)",
+          "## OCCLusiON (ChiMerstry LeVeL eight)",
+          "## MAyApArisAtyA (ChiMerstry LeVeL NiNe)"
+        ]
+      },
+      {
+        "id": "characters_archetypes",
+        "title": "Character Archetypes",
+        "anchor": "## the rAVNOs eMBrACe",
+        "type": "character_creation",
+        "children": [
+          "## CLeANer",
+          "## COurier",
+          "## DeViL sLAyer",
+          "## guN ruNNer",
+          "## iMMigrANt sMuggLer",
+          "## iNsiDe trADer",
+          "## priNCe ' s  ADVisOr",
+          "## psyChOLOgiCAL wArfAre speCiAList",
+          "## sABBAt heretiC",
+          "## thuggee"
+        ]
+      },
+      {
+        "id": "characters_sample_coterie",
+        "title": "Sample Coterie: The Grave Robbers",
+        "anchor": "## sAMpLe  COterie: the  grAVe  rOBBers",
+        "type": "character_creation",
+        "children": [
+          "## histOry",
+          "## hAVeN",
+          "## the VAMpires",
+          "## LAwreNCe MAyhew, the LeADer",
+          "## gweNDOLyN BrAND, the VisiONAry",
+          "## MAriON freNCh, DACOit",
+          "## jOhANN MAthesON, fAithfuL stuDeNt",
+          "## ANjALiKA uNDerwOOD",
+          "## usiNg the grAVe rOBBers"
+        ]
+      },
+      {
+        "id": "characters_survivors",
+        "title": "Survivors",
+        "anchor": "## surViVOrs",
+        "type": "character_creation",
+        "children": [
+          "## tAtiANA  stepANOVA,  ALAstOr",
+          "## sANjAy ChAKrABArti, reNegADe KshAtriyAs",
+          "## BriAN thOMpsON",
+          "## KhALiL rAVANA",
+          "## DurgA syN",
+          "## MAtA hAri",
+          "## MArCiA LiCiNiA",
+          "## spirit CreeK"
+        ]
+      }
+    ]
+  }
+
+
+

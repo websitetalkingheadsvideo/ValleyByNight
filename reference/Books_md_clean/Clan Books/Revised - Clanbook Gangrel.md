@@ -1,5 +1,3 @@
---- book_title: "Revised - Clanbook Gangrel" clan: "" edition: "" source_type: "clanbook" extraction_pipeline: "docling_v1 + markdown_cleanup_v1" ---
-
 <!-- image -->
 
 C     l     a     n     B     O     O     K     :
@@ -46,7 +44,7 @@ This book uses the supernatural for settings, characters and themes. All mystica
 
 For a free White Wolf catalog call 1-800-454-WOLF.
 
-Check out White Wolf online at http://www. white-wolf. com;  alt. games. whitewolf  and  rec. Games. frp. storyteller PRINTED IN USA.
+Check out White Wolf online at http://www.white-wolf.com;  alt.games.whitewolf  and  rec. games.frp.storyteller PRINTED IN USA.
 
 ## speCial thanKs
 
@@ -366,7 +364,7 @@ The Cathayans forced the Gangrel out of Asia in prehistoric times. But some Gang
 
 The Inquisition was a horrifically dark time for us, as anyone with half a brain might suspect. Kindred elders had swaggered around as undying lords of the night since the fall of Rome. Even the normally not-bothered-withthat-sort-of-bullshit  Gangrel  got  too  big  for  their  britches, terrorizing entire towns and marauding off with cattle, children, virgins, etc. In the 14th century the kine finally started  to  wake  up  and  realize  that  vampires  weren't indestructible or omniscient. The Church waged war on heretics, Satanists, witches, Lupines, Cainites, anything it could get its hands on. The Inquisition hit the Gangrel no more or less than any other clan. You might think we'd end up on the pyre less often than other clans, since we don't burrow into cities or lords' manors like the Ventrue or Nosferatu do. But Gangrel have a hard time concealing their bestial natures; when Father Jean confronts a woman with clawed paws or spider eyes, he barely takes the time to shout 'Demon!' before she's on the fire. The Ventrue don't stick out like we do, and the Nosferatu, who do stick out like we do, know how to hide their real faces. The Inquisition undoubtedly destroyed at least one bloodline of distant relatives of ours, a group known as the Lhiannan. This collection of Celts, Gauls and Slavs found itself unable to withstand the faith of the Holy Inquisitors; stories have come down to us that the Lhiannan were blood-witches, infernalists or worse…. I don't know what to believe. I just know that they're gone now.
 
-Leif: I f ear tha t you were righ t . These Caini tes of the south lack honor, and they hate us f or the truth we speak. Two weeks ago , trapped in unf amiliar lands near dawn, I petitioned the Ventrue Lord Piter Arpad f or shel ter , and he nobly granted I  t . When I awoke the f ollowing evening, Lord Arpad and I sat f or an hour, discussing mortal and Cainite politics. I daresay I did no t f ollow mos t of what he had to say, but I endeavored to keep up. When talk turned to the rebellion spurred by the blind General Hus, it seemed to me that Arpad spoke of supporting bo th sides in the rebellion. I told Arpad as much. He flushed with anger, as though I had accused hi m of a grave sin; he called me a liar and asked me to leave his manor. I was no liar, Leif , and I told him so and drew my sword. It took this Lord Arpad and six of his men-at -arms to drive me f rom his hall, and I slew two of them in the doing. For a f ew nigh ts after this I watched Lord Arpad ' s manor as a raven in a nearby tree. Within a f ew nigh ts a messenger ran f rom Lord Arpad ' s manor to the local church . Now I hear that the Inquisition is in search of a demon with my very f ea t ures , I  n this area. A nd they know my name, Leif . They know my name.
+Leif: I f ear tha t you were righ t . These Caini tes of the south lack honor, and they hate us f or the truth we speak. Two weeks ago , trapped in unf amiliar lands near dawn, I petitioned the Ventrue Lord Piter Arpad f or shel ter , and he nobly granted i t . When I awoke the f ollowing evening, Lord Arpad and I sat f or an hour, discussing mortal and Cainite politics. I daresay I did no t f ollow mos t of what he had to say, but I endeavored to keep up. When talk turned to the rebellion spurred by the blind General Hus, it seemed to me that Arpad spoke of supporting bo th sides in the rebellion. I told Arpad as much. He flushed with anger, as though I had accused hi m of a grave sin; he called me a liar and asked me to leave his manor. I was no liar, Leif , and I told him so and drew my sword. It took this Lord Arpad and six of his men-at -arms to drive me f rom his hall, and I slew two of them in the doing. For a f ew nigh ts after this I watched Lord Arpad ' s manor as a raven in a nearby tree. Within a f ew nigh ts a messenger ran f rom Lord Arpad ' s manor to the local church . Now I hear that the Inquisition is in search of a demon with my very f ea t ures , i n this area. A nd they know my name, Leif . They know my name.
 
 ## the anarCh revOlt and the COnventiOn Of thOrns
 
@@ -568,7 +566,7 @@ In 1914 the British Parliament passed an act giving limited home rule to Ireland
 
 To Irish Gangrel, especially those of Celtic heritage,  the  Celtic  Revival  and  the  Revolution were like a lightning strike. Neonates and ancillae  who  had  known  nothing  but  British dominance throughout their lives and unlives were thrilled for the chance to lash out at their royal oppressors. A few younger Gangrel even styled themselves neo-pagan 'Lhiannan,' after a long-extinct bloodline. They surely were not members of that group, but appearances were as important as consanguinity back in those nights.
 
-friend Alicia M. Says, 'They all taste the same.' Back in the '20s, people didn't care about race either, because it  was self-evident that blacks, Indians, Italians, Irish and the rest of those people were inferior to the white Anglo-Saxon Protestant American. Oh, sure, we didn't keep the black man in chains anymore, but that didn't mean you even wanted him looking at your daughter.
+friend Alicia M. says, 'They all taste the same.' Back in the '20s, people didn't care about race either, because it  was self-evident that blacks, Indians, Italians, Irish and the rest of those people were inferior to the white Anglo-Saxon Protestant American. Oh, sure, we didn't keep the black man in chains anymore, but that didn't mean you even wanted him looking at your daughter.
 
 Many Gangrel on the fringes of Cainite society found it easier to feed from the disenfranchised or the foreigner than from the city-dwelling Cracker businessman and his family. After all, some Ventrue or Tremere might have claimed that businessman's apartment building as domain. On the wrong side of the tracks the Gangrel had only to compete with  the  Brujah  and  Nosferatu  and  the  odd  Caitiff. This state of affairs began long before the '20s, of course, so I'm sure the modern reader won't be surprised that Clan Gangrel's membership hails from a pretty diverse group.
 
@@ -734,7 +732,7 @@ It  was  a  pain  in  the  ass  to  clean  up.  I  worked  for Luchenko as an ar
 
 ## the mOthman
 
-My conspiracy-nut friend Zeke J. Loves stories about the Mothman. 1968, in the Ohio River Valley in West Virginia, authorities list dozens of sightings of a being who the locals called 'the Mothman' (complete with mothlike wings and bright red eyes), along with many other strange events such as cattle mutilations, men in black and UFOs. He spouted  off  a  few  major  prophecies  (including  one  about the Pope's  stabbing  and  another  about  RFK's  assassination) and then, after a few months, vanished, never to return. The general public assumes that if the Mothman existed at all, he must have been an extraterrestrial.
+My conspiracy-nut friend Zeke J. loves stories about the Mothman. 1968, in the Ohio River Valley in West Virginia, authorities list dozens of sightings of a being who the locals called 'the Mothman' (complete with mothlike wings and bright red eyes), along with many other strange events such as cattle mutilations, men in black and UFOs. He spouted  off  a  few  major  prophecies  (including  one  about the Pope's  stabbing  and  another  about  RFK's  assassination) and then, after a few months, vanished, never to return. The general public assumes that if the Mothman existed at all, he must have been an extraterrestrial.
 
 Mothman was an insane, heavily disfigured Gangrel; no one is quite sure which sect he belonged to. It didn't
 
@@ -794,7 +792,7 @@ TOM: Does anyone know what happened last summer with the Ravnos? One of my guys 
 
 BETH: My sire plays cat-and-mouse games with a Ravnos of his distant acquaintance, and he hasn't heard anything from his old enemy since July. My sire's kind of paranoid, though, and he just assumes that the guy's putting together a them died; at whose hands, I have no idea.
 
-serious attack. ZEKE: I hear that the Tremere put together some kind of blood-serum that drove them all crazy. Kowalski says he saw two of them fight to the death, out in L. A. In July, and it was right after the two of them had fucked with a Tremere chantry outside of town.
+serious attack. ZEKE: I hear that the Tremere put together some kind of blood-serum that drove them all crazy. Kowalski says he saw two of them fight to the death, out in L.A. in July, and it was right after the two of them had fucked with a Tremere chantry outside of town.
 
 TOM: I suppose you're right. CHUCK: While we're discussing current events, have you guys seen the Top Ten List of what Xaviar's sentence to the Inner Circle was, back in '98?
 
@@ -1198,7 +1196,7 @@ Most of the features caused by the Beast are visible and clearly animal or even 
 
 Bruce,
 
-I am intrigued by your theory concerning  the  antisocial  tendencies expressed  by  so  many  Gangrel;  I.. e.  That the Gangrel remove themselves from the company of other Kindred in order to avoid frenzy. The idea has some merit; it is certainly true that entering the state  of  heightened  aggression  commonly termed 'frenzy' invariably has consequences for members of our clan that are not experienced by other clans. I would  personally  hesitate  to  credit  the majority of frenzies to Kindred influence. You should be able to test your theory, however, simply by observing Cainites  in  their  natural  habitat,  so  to speak. If you have Camarilla contacts, it may be possible to arrange a selfreporting survey on frenzy frequency and probable cause from a sizable number of participants. Such results will not be particularly reliable, but they may point you toward certain areas of consideration. And, if you will excuse my saying so, the soft sciences have never required rigorous mathematics.
+I am intrigued by your theory concerning  the  antisocial  tendencies expressed  by  so  many  Gangrel;  i.e.  that the Gangrel remove themselves from the company of other Kindred in order to avoid frenzy. The idea has some merit; it is certainly true that entering the state  of  heightened  aggression  commonly termed 'frenzy' invariably has consequences for members of our clan that are not experienced by other clans. I would  personally  hesitate  to  credit  the majority of frenzies to Kindred influence. You should be able to test your theory, however, simply by observing Cainites  in  their  natural  habitat,  so  to speak. If you have Camarilla contacts, it may be possible to arrange a selfreporting survey on frenzy frequency and probable cause from a sizable number of participants. Such results will not be particularly reliable, but they may point you toward certain areas of consideration. And, if you will excuse my saying so, the soft sciences have never required rigorous mathematics.
 
 In any case, I look forward to your results. If you wish me to comment on a proposed methodology for your study, I would be more than happy to do so. Yours,
 
@@ -1236,7 +1234,7 @@ Frog Eyes: The Gangrel's eyes migrate painfully to the sides of his head, in the
 
 <!-- image -->
 
-than the  standard  multiple-opponent  difficulty  penalties in close combat (no penalty for two attackers, +1 for three, etc. To the normal maximum of +4).
+than the  standard  multiple-opponent  difficulty  penalties in close combat (no penalty for two attackers, +1 for three, etc. to the normal maximum of +4).
 
 Exoskeleton: This particularly vile feature wracks the vampire with pain as her skeleton excretes itself as a chitinous shell. The vampire gains greater use of her natural strength in the form of an additional two dice to Strength-related Athletics rolls, and a reduced difficulty of 8 instead of 9 on Willpower rolls to perform feats of Strength. The hard shell also provides one additional  soak  die  against  bashing  and  lethal  damage.  This physical power comes at a terrifying cost, however, one which many Gangrel do not discover until it is too late. Because the vampire's skeleton is all but gone, her rib cage and sternum provide no protection for her heart. An opponent with a stake need only inflict one health level of damage (after soak) with a hit difficulty of 9 to effectively stake the vampire instead of the usual three.
 
@@ -1636,7 +1634,7 @@ MET System: The vampire disperses herself into one small creature per current Bl
 
 ## mythiC fOrm (prOtean level eiGht)
 
-Using this power, the Gangrel transforms himself into a creature of myth, complete with the terrifying abilities that such creatures must have possessed. The mythical beast form usually has roots in the Gangrel's cultural tradition: e. g. Ancient Scythian vampires often chose the form of the griffin, Egyptian Gangrel may choose the sphinx, and Native American vampires may opt for the form of the thunderbird. In addition to the great size  and terrifying mien of these creatures, the Gangrel also acquires any special abilities  commonly attributed  to  the  mythic  beast;  a  griffin,  for  example,  would have the ability to fly and a devastating claw attack.
+Using this power, the Gangrel transforms himself into a creature of myth, complete with the terrifying abilities that such creatures must have possessed. The mythical beast form usually has roots in the Gangrel's cultural tradition: e.g. ancient Scythian vampires often chose the form of the griffin, Egyptian Gangrel may choose the sphinx, and Native American vampires may opt for the form of the thunderbird. In addition to the great size  and terrifying mien of these creatures, the Gangrel also acquires any special abilities  commonly attributed  to  the  mythic  beast;  a  griffin,  for  example,  would have the ability to fly and a devastating claw attack.
 
 System: The  player  spends  three  blood  points  to  trigger the change. The transformation requires three turns (additional  blood  points  may  not  be  spent  to  speed  the  change, but  the  Gangrel  may  continue  to  act  without  penalty  as  the transformation occurs). The transformation lasts until the next  sunrise,  or  until  the  vampire  voluntarily  returns  to  her natural form. Note that characters hailing from cultures that have no mythic tradition, such as modern American cultures, cannot assume any mythic form.
 
@@ -1764,7 +1762,7 @@ and  near- starvation
 
 when you set  eyes
 
-on  the v I  n e -
+on  the v i n e -
 
 covered
 
@@ -5714,7 +5712,7 @@ Friendly
 
 \_\_\_\_\_\_\_\_\_\_   \_\_\_\_\_\_\_\_\_\_\_\_
 
-Charismatic/. notdef
+Charismatic/.notdef
 
 \_\_\_\_\_\_\_\_\_
 
@@ -6490,7 +6488,7 @@ One evening, on a long ride home from a shopping trip  to  Bannack,  Sutton  not
 
 It took Sutton Gassaway a month to grow accustomed to his unliving state; at the end of this period, his sire, a Gangrel named Aaron, explained that he'd been  watching  the  Gassaway  ranch  for  months  and had decided to pass the 'gift of immortality' to Sutton. Sutton was only mildly discomfited as Aaron told him of his new true nature; pragmatic, he accepted vampirism as the cost he would have to pay for eternal 'life.'
 
-Gassaway had a few run-ins  with  anarchs  and  Sabbat vampires through the Pacific Northwest, but Aaron had warned him to keep his distance from Lupines, and he did that quite well. Still voraciously literate, he spent his long, empty nights reading everything he could get his hands on. H. G. Wells was a particular favorite, and when pulp science fiction magazines became popular after the Great War, Sutton spent night after night on distant  planets  or  at  the  bottom  of  the  ocean,  entranced.
+Gassaway had a few run-ins  with  anarchs  and  Sabbat vampires through the Pacific Northwest, but Aaron had warned him to keep his distance from Lupines, and he did that quite well. Still voraciously literate, he spent his long, empty nights reading everything he could get his hands on. H.G. Wells was a particular favorite, and when pulp science fiction magazines became popular after the Great War, Sutton spent night after night on distant  planets  or  at  the  bottom  of  the  ocean,  entranced.
 
 In the late 1930s, Sutton's luck ran out. After too many nights alone in the wilderness, he came to the attention of a pack of anarchs that had fled the Free State to the northern Rockies. The battle, which ran through the streets of Helena, was rather one-sided. Gassaway didn't have a chance against the anarchs' nnumbers. Finally, he broke into the new Hammond Building, dove into the basement, and found a patch of bare earth large enough for him to sink into to recover from his  wounds.  By  the  time  he  emerged  from  his  torpor, he found himself trapped - the Hammond Building's basement had been cemented over and he could not break out. Resigned to a long entombment, Gassaway slipped into a deep unconsciousness.
 
@@ -6558,7 +6556,7 @@ Humanity 6
 
 Willpower:
 
-dr. Allan t. WOOdstOCK
+dr. allan t. wOOdstOCK
 
 <!-- image -->
 
@@ -7428,7 +7426,7 @@ W W W . W H I T E -W O L F . C O M
 
 ISBN 1-56504-265-4
 
-WW2352  $14.95 U. S.
+WW2352  $14.95 U.S.
 
 PRINTED IN USA
 

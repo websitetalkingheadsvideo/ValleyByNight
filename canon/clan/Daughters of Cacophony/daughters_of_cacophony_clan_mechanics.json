@@ -1,0 +1,166 @@
+{
+    "clan": "Daughters of Cacophony",
+    "internal_name": "Daughters of Cacophony",
+    "book_title": "Bloodline Book: Daughters of Cacophony",
+    "edition": "Bloodline Book",
+    "mechanics": {
+      "clan_weakness": {
+        "name": "Musical Obsession",
+        "type": "clan_weakness",
+        "tags": ["tabletop", "clan_weakness", "psychological"],
+        "system_text": "Daughters of Cacophony are obsessed with music. Without it, they become depressed, listless, and may even fall into torpor. They must have access to music in some form—listening, performing, creating, or even just thinking about it. Prolonged exposure to silence or the inability to create or experience music can cause psychological distress and may lead to frenzy or torpor.",
+        "source_page": null,
+        "larp_status": "not_mapped",
+        "larp_reference": null,
+        "vbn_notes": "This weakness reflects the Daughters' nature as beings of music. In VbN, this creates opportunities for manipulation (depriving them of music), protection (ensuring they have access to music), and story hooks (what happens when they can't create or experience music?). Storytellers should use this weakness to create tension and opportunities for story."
+      },
+      "disciplines": [
+        {
+          "name": "Melpominee",
+          "type": "discipline",
+          "tags": ["tabletop", "bloodline_unique", "music", "voice"],
+          "notes": "The signature Discipline of the Daughters of Cacophony, Melpominee allows them to use their voices and music to influence, inspire, and control. It grants them abilities related to singing, performance, and the power of sound and song.",
+          "powers": [
+            {
+              "name": "Siren's Song",
+              "rating": 1,
+              "system_text": "Allows the Daughter to use her voice to attract and influence others, making them more receptive to her words and suggestions. This power can be used to lure prey, create emotional responses, or influence behavior.",
+              "tags": ["tabletop", "discipline_power", "social", "influence"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Used to attract prey, influence others, and create emotional responses. Essential for the Daughters' role as performers and influencers."
+            },
+            {
+              "name": "Voice of Command",
+              "rating": 2,
+              "system_text": "Allows the Daughter to use her voice to command others, implanting suggestions or orders that the target will follow. This power can be used to control behavior, create obedience, or implant ideas.",
+              "tags": ["tabletop", "discipline_power", "mind_control", "command"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Used to control others, create obedience, and implant suggestions. Essential for the Daughters' role as influencers and controllers."
+            },
+            {
+              "name": "Song of Rage",
+              "rating": 3,
+              "system_text": "Allows the Daughter to use her voice or music to inspire frenzy, rage, or other extreme emotional states. This power can be used to cause violence, create chaos, or drive others to extreme behavior.",
+              "tags": ["tabletop", "discipline_power", "emotion", "dangerous"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Used to inspire extreme emotions, cause violence, or create chaos. Essential for the Daughters' role as influencers and controllers. Should be used with care and clear narrative purpose."
+            },
+            {
+              "name": "Lullaby",
+              "rating": 2,
+              "system_text": "Allows the Daughter to use her voice or music to soothe, calm, or put others to sleep. This power can be used to end conflicts, create peace, or render targets unconscious.",
+              "tags": ["tabletop", "discipline_power", "emotion", "control"],
+              "source_page": null,
+              "larp_status": "not_mapped",
+              "larp_reference": null,
+              "vbn_notes": "Used to soothe, calm, or control others. Essential for the Daughters' role as performers and influencers."
+            }
+          ]
+        },
+        {
+          "name": "Presence",
+          "type": "discipline",
+          "tags": ["tabletop", "clan_favored", "social", "influence"],
+          "notes": "The Daughters use Presence to inspire devotion, attraction, and emotional responses. They combine Presence with Melpominee to create powerful effects through performance and song.",
+          "powers": []
+        },
+        {
+          "name": "Fortitude",
+          "type": "discipline",
+          "tags": ["tabletop", "clan_favored", "defense", "resilience"],
+          "notes": "The Daughters use Fortitude for protection and resilience, allowing them to survive the dangers of performance, the threats of their enemies, and the psychological stress of their musical obsession.",
+          "powers": []
+        }
+      ],
+      "rituals": [
+        {
+          "name": "Ritual of Performance",
+          "type": "ritual",
+          "tags": ["tabletop", "performance", "cultural", "ceremony"],
+          "system_text": "A ritual in which a Daughter prepares for a performance, using music, meditation, and preparation to enhance her abilities and connect with her audience. This ritual is essential for major performances and can be used to influence large groups.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Used to prepare for performances and enhance the Daughter's abilities. Creates opportunities for dramatic scenes, emotional moments, and the exploration of the power of music."
+        },
+        {
+          "name": "Ritual of Creation",
+          "type": "ritual",
+          "tags": ["tabletop", "creation", "cultural", "artistic"],
+          "system_text": "A ritual in which a Daughter creates new music, using inspiration, emotion, and her connection to the power of song to bring new works into existence. This ritual is deeply personal and can be used to channel emotions, experiences, or desires into music.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Used to create new music and channel emotions into art. Creates opportunities for stories about creation, inspiration, and the power of music."
+        }
+      ],
+      "merits_and_flaws": [
+        {
+          "name": "Musical Talent",
+          "type": "merit",
+          "cost": 2,
+          "category": "talent",
+          "tags": ["tabletop", "merit", "music", "performance"],
+          "system_text": "The Daughter has exceptional musical talent, allowing her to perform, create, or understand music at a level beyond normal ability. This talent enhances her use of Melpominee and her ability to influence others through music.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Daughter's natural musical ability. Used to enhance performance and influence. Should be used to create story hooks and opportunities."
+        },
+        {
+          "name": "Musical Obsession (Flaw)",
+          "type": "flaw",
+          "cost": 3,
+          "category": "psychological",
+          "tags": ["tabletop", "flaw", "psychological", "obsession"],
+          "system_text": "The Daughter is so obsessed with music that she cannot function without it. Prolonged exposure to silence or the inability to create or experience music causes severe psychological distress and may lead to frenzy or torpor.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Daughter's nature as a being of music. Used to create limitations and vulnerabilities. Should be used to create tension and story hooks."
+        },
+        {
+          "name": "Voice of an Angel",
+          "type": "merit",
+          "cost": 3,
+          "category": "supernatural",
+          "tags": ["tabletop", "merit", "voice", "performance"],
+          "system_text": "The Daughter has an exceptionally beautiful or powerful voice, enhancing her use of Melpominee and her ability to influence others through song.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Daughter's exceptional voice. Used to enhance performance and influence. Should be used to create story hooks and opportunities."
+        }
+      ],
+      "social_structures": [
+        {
+          "name": "The Mothers",
+          "type": "social_structure",
+          "tags": ["tabletop", "hierarchy", "mentorship", "culture"],
+          "system_text": "The Mothers are the bloodline's elders, serving as guides and mentors rather than rulers. They prefer to let their childer find their own paths, seeing how they react to confusion and chaos. They share knowledge gradually, rewarding those who handle uncertainty well with more information about the bloodline's origins and secrets.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Daughters' loose organization and focus on individual growth. Used to create mentorship opportunities, story hooks, and the exploration of the bloodline's mysteries."
+        },
+        {
+          "name": "Musical Subcultures",
+          "type": "social_structure",
+          "tags": ["tabletop", "subcultures", "culture", "music"],
+          "system_text": "Daughters form subcultures based on musical taste—opera lovers, goths, punks, ravers, jazz aficionados, folkies, metalheads, and more. These groups can be tight-knit and can squabble, but they are united by their love of music.",
+          "source_page": null,
+          "larp_status": "not_mapped",
+          "larp_reference": null,
+          "vbn_notes": "Reflects the Daughters' diversity and individualistic nature. Used to create internal conflicts, opportunities for story, and the exploration of different musical tastes and approaches."
+        }
+      ]
+    }
+  }
+
+

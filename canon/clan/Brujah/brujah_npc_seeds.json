@@ -1,0 +1,138 @@
+{
+    "clan": "Brujah",
+    "book_title": "Revised - Clanbook Brujah",
+    "edition": "Revised",
+    "npc_seeds": [
+      {
+        "id": "brujah_rabble_01",
+        "name": "Tina 'Redline' Vasquez",
+        "summary": "A street-racing Brujah who runs her own crew of neonate anarchs. Acts first, thinks later, but her instinct for injustice is genuine.",
+        "role": "Rabble firestarter / Anarch courier / street revolutionary",
+        "age_category": "neonate",
+        "temperament": "explosive, loyal, adrenaline-driven",
+        "possible_plots": [
+          "Redline accidentally stirs up a turf conflict with Gangrel nomads, and the PCs must de-escalate before a riot breaks out.",
+          "She discovers Ventrue funding a private security sweep in her territory and asks the PCs for backup to expose it.",
+          "A rival Brujah accuses her of sabotaging a rant; violence is brewing, and the PCs are the only neutral parties."
+        ]
+      },
+      {
+        "id": "brujah_rabble_02",
+        "name": "Marcus 'Rust' Halberd",
+        "summary": "An ex-metalworker whose frenzy destroyed his mortal life. Now he channels anger into Anarch muscle jobs and rooftop brawls.",
+        "role": "street enforcer / rant brawler",
+        "age_category": "ancilla",
+        "temperament": "brooding, volcanic, quick to defend underdogs",
+        "possible_plots": [
+          "Rust begins targeting corrupt mortal cops, threatening the Masquerade unless someone stops him—or helps him do it quietly.",
+          "Someone frames Rust for a killing at a rant; he demands the PCs clear his name.",
+          "Rust is secretly protecting a mortal activist group whose protests may destabilize Phoenix politics."
+        ]
+      },
+      {
+        "id": "brujah_rabble_03",
+        "name": "Kassandra 'Scorch' Reid",
+        "summary": "A pyromaniac Brujah activist who believes fire is the purest symbol of revolution. Dangerous but not malicious—just ideological.",
+        "role": "riot instigator / anarch propagandist",
+        "age_category": "neonate",
+        "temperament": "intense, artistic, erratic",
+        "possible_plots": [
+          "Scorch tags a Camarilla Elysium with flaming Brujah graffiti, provoking a political crackdown.",
+          "Her latest ‘symbolic fire’ gets out of hand; she needs rescue or scapegoats.",
+          "A Setite manipulator exploits her passion; the PCs must break the influence before she burns down something important."
+        ]
+      },
+      {
+        "id": "brujah_scholar_01",
+        "name": "Dr. Aurelio Montfort",
+        "summary": "One of the rare Brujah philosopher-elites. A historian of Carthage who speaks softly but can turn entire rooms with rhetoric.",
+        "role": "intellectual revolutionary / Carthage Romantic / Anarch strategist",
+        "age_category": "elder",
+        "temperament": "measured, haunted, inspirational",
+        "possible_plots": [
+          "Aurelio believes Phoenix could become a new Carthage and recruits the PCs to secure political footholds in key clans.",
+          "A rival Brujah rabble faction accuses him of elitism and betrayal; the coterie must prevent a clan civil war.",
+          "He uncovers evidence that a Camarilla elder played a role in sabotaging the original Carthage. Powerful factions want the truth buried."
+        ]
+      },
+      {
+        "id": "brujah_scholar_02",
+        "name": "Professor Helen Zarovich",
+        "summary": "A former ASU political theorist who blends academic radicalism with ancient Brujah ideals. Her lectures are as dangerous as riots.",
+        "role": "bridge figure between academia and street activism",
+        "age_category": "ancilla",
+        "temperament": "sharp-witted, confrontational, articulate",
+        "possible_plots": [
+          "Helen’s mortal students start a protest movement influenced by her vampiric ideology—forcing the PCs to contain the fallout.",
+          "She’s preparing a manifesto that could unite Anarchs; enemies try to steal or destroy it.",
+          "Helen is hunted by a Brujah elder who considers her ideas heretical; the coterie is pulled into the ideological feud."
+        ]
+      },
+      {
+        "id": "brujah_hybrid_01",
+        "name": "Jax Calder",
+        "summary": "A charismatic ranter who blends brutal street instinct with flashes of startling philosophical insight.",
+        "role": "movement organizer / rant champion",
+        "age_category": "neonate",
+        "temperament": "dynamic, unpredictable, inspirational",
+        "possible_plots": [
+          "Jax’s rants begin attracting too much attention—Camarilla watchers target him, and he begs the PCs for protection.",
+          "He decides to challenge a local Anarch lieutenant, igniting factional chaos.",
+          "A Toreador claims Jax is being manipulated by a supernatural muse; investigation reveals something stranger."
+        ]
+      },
+      {
+        "id": "brujah_hybrid_02",
+        "name": "Selene Moretti",
+        "summary": "A Brujah diplomat who negotiates rebel demands with Camarilla elders. She believes rebellion must be engineered, not improvised.",
+        "role": "political intermediary / strategist",
+        "age_category": "ancilla",
+        "temperament": "controlled, persuasive, quietly intense",
+        "possible_plots": [
+          "Selene hires the PCs to ensure a peace negotiation doesn’t collapse into violence.",
+          "Tremere attempt to blackmail her using a secret from her mortal past; she turns to the coterie for help.",
+          "She is secretly grooming a mortal political candidate whose platform aligns with Brujah ideology—others want to sabotage the project."
+        ]
+      },
+      {
+        "id": "brujah_iconic_01",
+        "name": "Aamon 'The Cainite Punk' Reyes",
+        "summary": "A legendary rant performer who blends philosophy with performance art and acts as an underground icon for Brujah youth.",
+        "role": "ideological influencer / radical myth-maker",
+        "age_category": "ancilla",
+        "temperament": "charismatic, theatrical, dangerous",
+        "possible_plots": [
+          "Aamon plans a city-wide rant event that risks drawing too much mortal attention; the PCs must manage or redirect it.",
+          "His philosophies start causing schisms in the clan—elders demand he be silenced.",
+          "Sabbat infiltrators mimic his rhetoric to recruit neonates; he asks PCs to help expose them."
+        ]
+      },
+      {
+        "id": "brujah_iconic_02",
+        "name": "Karina 'Brickhouse' Bell",
+        "summary": "An urban warrior who treats every confrontation as political expression. She provides muscle at rants and enforces Brujah honor code.",
+        "role": "muscle / agitator / tradition keeper (Brujah-style)",
+        "age_category": "ancilla",
+        "temperament": "unyielding, loyal, blunt",
+        "possible_plots": [
+          "Karina challenges a Camarilla Scourge to a duel; the PCs must navigate the fallout.",
+          "She believes a Kindred elder insulted Brujah honor and plans retaliation; the coterie must calm or redirect her.",
+          "Her mortal family gets caught up in Anarch politics—forcing her into a vulnerable negotiation with PCs."
+        ]
+      },
+      {
+        "id": "brujah_notable_01",
+        "name": "Ronin Pierce",
+        "summary": "A wandering Brujah duelist who participates in rants around the Southwest. Seen as part philosopher, part executioner.",
+        "role": "outsider philosopher-warrior",
+        "age_category": "elder",
+        "temperament": "quiet, intense, fatalistic",
+        "possible_plots": [
+          "Ronin seeks the PCs to help him track an ancient enemy rumored to be hiding in Phoenix.",
+          "He takes an interest in a PC’s ideology, mentoring them—or manipulating them.",
+          "Brujah elders want Ronin expelled from the city before he inspires unrest."
+        ]
+      }
+    ]
+  }
+  

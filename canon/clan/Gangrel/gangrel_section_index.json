@@ -1,0 +1,1158 @@
+{
+    "clan": "Gangrel",
+    "book_title": "Revised - Clanbook Gangrel",
+    "edition": "Revised",
+    "approximate_source_file": "G:\\VbN\\reference\\Books_md_clean\\Clan Books\\Revised - Clanbook Gangrel.md",
+    "sections": [
+        {
+            "id": "credits",
+            "title": "Credits",
+            "anchor": "## Credits",
+            "type": "meta",
+            "notes": "Publication credits; included for completeness but not relevant for RAG."
+        },
+        {
+            "id": "special_thanks",
+            "title": "Special Thanks",
+            "anchor": "## speCial thanKs",
+            "type": "meta",
+            "notes": "Edition-specific acknowledgments; not relevant to lore."
+        },
+        {
+            "id": "get_bent",
+            "title": "Get Bent",
+            "anchor": "## Get Bent",
+            "type": "meta",
+            "notes": "Editorial comment; not relevant to lore."
+        },
+        {
+            "id": "gangrel_title",
+            "title": "Gangrel",
+            "anchor": "## Gangrel",
+            "type": "meta",
+            "notes": "Title page marker; not relevant to lore."
+        },
+        {
+            "id": "contents",
+            "title": "Contents",
+            "anchor": "## COntents",
+            "type": "meta",
+            "notes": "Table of contents; establishes chapter order but contains no prose."
+        },
+        {
+            "id": "aftermath_of_independence",
+            "title": "Aftermath of Independence",
+            "anchor": "## aftermath Of",
+            "type": "fiction",
+            "notes": "Opening fiction establishing the tone and themes of the clanbook, focusing on a Gangrel's experience after leaving the Camarilla."
+        },
+        {
+            "id": "independence",
+            "title": "Independence",
+            "anchor": "## independenCe",
+            "type": "fiction",
+            "notes": "Continuation of opening fiction, exploring the consequences of Xaviar's departure."
+        },
+        {
+            "id": "history_axe_and_javelin",
+            "title": "Axe and Javelin",
+            "anchor": "## axe and Javelin",
+            "type": "history",
+            "notes": "Introduction to Gangrel history, covering the earliest nights and mythological origins."
+        },
+        {
+            "id": "history_enoch",
+            "title": "Enoch",
+            "anchor": "## enOCh",
+            "type": "history",
+            "notes": "Historical section covering the First City and early Gangrel presence."
+        },
+        {
+            "id": "history_diaspora",
+            "title": "Diaspora",
+            "anchor": "## diaspOra",
+            "type": "history",
+            "notes": "The spread of Gangrel across the world in ancient times."
+        },
+        {
+            "id": "history_cainite_legend",
+            "title": "Cainite Legend",
+            "anchor": "## Cainite leGend",
+            "type": "lore",
+            "notes": "Mythological accounts of Caine and early Kindred history from Gangrel perspective."
+        },
+        {
+            "id": "history_an_inscription",
+            "title": "An Inscription",
+            "anchor": "## an insCriptiOn",
+            "type": "lore",
+            "notes": "Historical artifact or text relating to early Gangrel."
+        },
+        {
+            "id": "history_other_mythology",
+            "title": "Other Mythology",
+            "anchor": "## Other mythOlOGy",
+            "type": "lore",
+            "notes": "Alternative mythological accounts and interpretations."
+        },
+        {
+            "id": "history_prehistory",
+            "title": "Prehistory",
+            "anchor": "## prehistOry",
+            "type": "history",
+            "notes": "Gangrel in prehistoric times, before recorded history."
+        },
+        {
+            "id": "history_mesopotamia",
+            "title": "Mesopotamia",
+            "anchor": "## mesOpOtamia",
+            "type": "history",
+            "notes": "Gangrel presence in ancient Mesopotamia."
+        },
+        {
+            "id": "history_greek_civilizations",
+            "title": "Greek Civilizations",
+            "anchor": "## GreeK CivilizatiOns",
+            "type": "history",
+            "notes": "Gangrel in ancient Greece."
+        },
+        {
+            "id": "history_eagle_and_elephant",
+            "title": "Eagle and Elephant",
+            "anchor": "## eaGle  and  elephant",
+            "type": "history",
+            "notes": "Historical section covering specific periods or conflicts."
+        },
+        {
+            "id": "history_carthage_and_rome",
+            "title": "Carthage and Rome",
+            "anchor": "## CarthaGe and rOme",
+            "type": "history",
+            "notes": "Gangrel during the Punic Wars and Roman Empire."
+        },
+        {
+            "id": "history_the_invicti",
+            "title": "The Invicti",
+            "anchor": "## the inviCti",
+            "type": "history",
+            "notes": "Historical Gangrel group or period."
+        },
+        {
+            "id": "history_the_fall_of_rome",
+            "title": "The Fall of Rome",
+            "anchor": "## the fall Of rOme",
+            "type": "history",
+            "notes": "Gangrel during the fall of the Roman Empire."
+        },
+        {
+            "id": "history_marcus_sextus",
+            "title": "Marcus Sextus",
+            "anchor": "## marCus sextus",
+            "type": "history",
+            "notes": "Historical Gangrel figure or period."
+        },
+        {
+            "id": "history_sword_and_shield",
+            "title": "Sword and Shield",
+            "anchor": "## swOrd and shield",
+            "type": "history",
+            "notes": "Historical section covering medieval periods."
+        },
+        {
+            "id": "history_europe_after_rome",
+            "title": "Europe After Rome",
+            "anchor": "## eurOpe after rOme",
+            "type": "history",
+            "notes": "Gangrel in post-Roman Europe."
+        },
+        {
+            "id": "history_laibon",
+            "title": "Laibon",
+            "anchor": "## laiBOn",
+            "type": "history",
+            "notes": "Historical section or reference to the Laibon bloodline."
+        },
+        {
+            "id": "history_charlemagne",
+            "title": "Charlemagne",
+            "anchor": "## CharlemaGne",
+            "type": "history",
+            "notes": "Gangrel during the reign of Charlemagne."
+        },
+        {
+            "id": "history_gargoyles",
+            "title": "Gargoyles",
+            "anchor": "## GarGOyles",
+            "type": "history",
+            "notes": "The creation of Gargoyles by the Tremere and its impact on Gangrel."
+        },
+        {
+            "id": "history_the_mongol_invasions",
+            "title": "The Mongol Invasions",
+            "anchor": "## the mOnGOl invasiOns",
+            "type": "history",
+            "notes": "Gangrel during the Mongol conquests, including the Anda bloodline."
+        },
+        {
+            "id": "history_rroma",
+            "title": "Rroma",
+            "anchor": "## rrOma",
+            "type": "history",
+            "notes": "Gangrel relationship with the Rroma (Gypsies)."
+        },
+        {
+            "id": "history_storytellers_secret_anda",
+            "title": "Storytellers' Secret: The Anda",
+            "anchor": "## stOrytellers ' seCret: the anda",
+            "type": "lore",
+            "notes": "Information about the extinct Anda bloodline, for Storyteller use."
+        },
+        {
+            "id": "history_stake_and_pyre",
+            "title": "Stake and Pyre",
+            "anchor": "## staKe and pyre",
+            "type": "history",
+            "notes": "Historical section covering periods of persecution."
+        },
+        {
+            "id": "history_the_anarch_revolt_and_convention_of_thorns",
+            "title": "The Anarch Revolt and Convention of Thorns",
+            "anchor": "## the anarCh revOlt and the COnventiOn Of thOrns",
+            "type": "history",
+            "notes": "Gangrel involvement in the Anarch Revolt and the founding of the Camarilla."
+        },
+        {
+            "id": "history_gun_and_ship",
+            "title": "Gun and Ship",
+            "anchor": "## Gun and ship",
+            "type": "history",
+            "notes": "Historical section covering the Age of Exploration."
+        },
+        {
+            "id": "history_the_16th_century",
+            "title": "The 16th Century",
+            "anchor": "## the 16th Century",
+            "type": "history",
+            "notes": "Gangrel during the 16th century."
+        },
+        {
+            "id": "history_the_sabbat",
+            "title": "The Sabbat",
+            "anchor": "## the saBBat",
+            "type": "history",
+            "notes": "The founding of the Sabbat and Gangrel involvement."
+        },
+        {
+            "id": "history_the_17th_century",
+            "title": "The 17th Century",
+            "anchor": "## the 17th Century",
+            "type": "history",
+            "notes": "Gangrel during the 17th century."
+        },
+        {
+            "id": "history_the_18th_century",
+            "title": "The 18th Century",
+            "anchor": "## the 18th Century",
+            "type": "history",
+            "notes": "Gangrel during the 18th century."
+        },
+        {
+            "id": "history_the_19th_century",
+            "title": "The 19th Century",
+            "anchor": "## the 19th Century",
+            "type": "history",
+            "notes": "Gangrel during the 19th century."
+        },
+        {
+            "id": "history_city_gangrel_and_country_gangrel",
+            "title": "City Gangrel and Country Gangrel",
+            "anchor": "## City GanGrel and COuntry GanGrel",
+            "type": "history",
+            "notes": "The divergence between urban and rural Gangrel, leading to the City Gangrel bloodline."
+        },
+        {
+            "id": "history_engine_and_wire",
+            "title": "Engine and Wire",
+            "anchor": "## enGine and wire",
+            "type": "history",
+            "notes": "Historical section covering the Industrial Revolution."
+        },
+        {
+            "id": "history_the_industrial_revolution",
+            "title": "The Industrial Revolution",
+            "anchor": "## the industrial revOlutiOn",
+            "type": "history",
+            "notes": "Gangrel during the Industrial Revolution."
+        },
+        {
+            "id": "history_the_closing_of_the_frontier",
+            "title": "The Closing of the Frontier",
+            "anchor": "## the ClOsinG Of the frOntier",
+            "type": "history",
+            "notes": "Gangrel in America as the frontier closed."
+        },
+        {
+            "id": "history_the_panama_canal",
+            "title": "The Panama Canal",
+            "anchor": "## the panama Canal",
+            "type": "history",
+            "notes": "Gangrel involvement in or around the Panama Canal construction."
+        },
+        {
+            "id": "history_exploring",
+            "title": "Exploring",
+            "anchor": "## explOrinG",
+            "type": "history",
+            "notes": "Gangrel explorers and exploration."
+        },
+        {
+            "id": "history_turncoat",
+            "title": "Turncoat",
+            "anchor": "## turnCOat",
+            "type": "history",
+            "notes": "Historical section about Gangrel who changed allegiances."
+        },
+        {
+            "id": "history_eugenics",
+            "title": "Eugenics",
+            "anchor": "## euGeniCs",
+            "type": "history",
+            "notes": "Gangrel during the eugenics movement."
+        },
+        {
+            "id": "history_immigration_and_the_new_city",
+            "title": "Immigration and the New City",
+            "anchor": "## immiGratiOn and the new City",
+            "type": "history",
+            "notes": "Gangrel during periods of mass immigration and urbanization."
+        },
+        {
+            "id": "history_those_other_countries",
+            "title": "Those Other Countries",
+            "anchor": "## thOse Other COuntries",
+            "type": "history",
+            "notes": "Gangrel in countries not covered in detail."
+        },
+        {
+            "id": "history_the_great_war",
+            "title": "The Great War",
+            "anchor": "## the Great war",
+            "type": "history",
+            "notes": "Gangrel during World War I."
+        },
+        {
+            "id": "history_a_comment_from_zeke_j",
+            "title": "A Comment from Zeke J.",
+            "anchor": "## A comment from Zeke J.",
+            "type": "lore",
+            "notes": "Commentary or note from a Gangrel named Zeke J."
+        },
+        {
+            "id": "history_andersons_folly",
+            "title": "Anderson's Folly",
+            "anchor": "## andersOn ' s  fOlly",
+            "type": "history",
+            "notes": "Historical event or reference."
+        },
+        {
+            "id": "history_the_russian_revolution",
+            "title": "The Russian Revolution",
+            "anchor": "## the russian revOlutiOn",
+            "type": "history",
+            "notes": "Gangrel during the Russian Revolution."
+        },
+        {
+            "id": "history_the_twenties",
+            "title": "The Twenties",
+            "anchor": "## the twenties",
+            "type": "history",
+            "notes": "Gangrel during the 1920s."
+        },
+        {
+            "id": "history_the_celtic_revival_and_irish_revolution",
+            "title": "The Celtic Revival and Irish Revolution",
+            "anchor": "## the CeltiC revival and irish revOlutiOn",
+            "type": "history",
+            "notes": "Gangrel during the Irish Revolution and Celtic cultural revival."
+        },
+        {
+            "id": "history_prohibition",
+            "title": "Prohibition",
+            "anchor": "## prOhiBitiOn",
+            "type": "history",
+            "notes": "Gangrel during Prohibition in America."
+        },
+        {
+            "id": "history_the_automobile",
+            "title": "The Automobile",
+            "anchor": "## the autOmOBile",
+            "type": "history",
+            "notes": "Impact of automobiles on Gangrel mobility and territory."
+        },
+        {
+            "id": "history_the_great_depression",
+            "title": "The Great Depression",
+            "anchor": "## the Great depressiOn",
+            "type": "history",
+            "notes": "Gangrel during the Great Depression."
+        },
+        {
+            "id": "history_the_nazi_party",
+            "title": "The Nazi Party",
+            "anchor": "## the nazi party",
+            "type": "history",
+            "notes": "Gangrel during the rise of the Nazi Party."
+        },
+        {
+            "id": "history_stalins_revolution",
+            "title": "Stalin's Revolution",
+            "anchor": "## stalin ' s  revOlutiOn",
+            "type": "history",
+            "notes": "Gangrel during Stalin's regime."
+        },
+        {
+            "id": "history_the_second_world_war",
+            "title": "The Second World War",
+            "anchor": "## the seCOnd wOrld war",
+            "type": "history",
+            "notes": "Gangrel during World War II."
+        },
+        {
+            "id": "history_bletchley_park",
+            "title": "Bletchley Park",
+            "anchor": "## BletChley parK",
+            "type": "history",
+            "notes": "Gangrel involvement in or around Bletchley Park during WWII."
+        },
+        {
+            "id": "history_the_siege_of_leningrad",
+            "title": "The Siege of Leningrad",
+            "anchor": "## the sieGe Of leninGrad",
+            "type": "history",
+            "notes": "Gangrel during the Siege of Leningrad."
+        },
+        {
+            "id": "history_two_travelers_tales",
+            "title": "Two Travelers' Tales",
+            "anchor": "## twO travelers ' tales",
+            "type": "fiction",
+            "notes": "Fictional accounts from Gangrel travelers."
+        },
+        {
+            "id": "history_the_anarch_free_state",
+            "title": "The Anarch Free State",
+            "anchor": "## the anarCh free state",
+            "type": "history",
+            "notes": "Gangrel in the Anarch Free State (California)."
+        },
+        {
+            "id": "history_the_fifties",
+            "title": "The Fifties",
+            "anchor": "## the fifties",
+            "type": "history",
+            "notes": "Gangrel during the 1950s."
+        },
+        {
+            "id": "history_the_mccarthy_era",
+            "title": "The McCarthy Era",
+            "anchor": "## the mCCarthy era",
+            "type": "history",
+            "notes": "Gangrel during the McCarthy era and Red Scare."
+        },
+        {
+            "id": "history_suburbia",
+            "title": "Suburbia",
+            "anchor": "## suBurBia",
+            "type": "history",
+            "notes": "Gangrel during the rise of suburbia."
+        },
+        {
+            "id": "history_civil_rights",
+            "title": "Civil Rights",
+            "anchor": "## Civil riGhts",
+            "type": "history",
+            "notes": "Gangrel during the Civil Rights movement."
+        },
+        {
+            "id": "history_the_60s",
+            "title": "The '60s",
+            "anchor": "## the ' 60s",
+            "type": "history",
+            "notes": "Gangrel during the 1960s."
+        },
+        {
+            "id": "history_the_kennedy_assassination",
+            "title": "The Kennedy Assassination",
+            "anchor": "## the Kennedy assassinatiOn",
+            "type": "history",
+            "notes": "Gangrel during or around the Kennedy assassination."
+        },
+        {
+            "id": "history_the_mothman",
+            "title": "The Mothman",
+            "anchor": "## the mOthman",
+            "type": "lore",
+            "notes": "Reference to the Mothman legend, possibly Gangrel-related."
+        },
+        {
+            "id": "history_a_surprise",
+            "title": "A Surprise",
+            "anchor": "## a surprise",
+            "type": "history",
+            "notes": "Historical event or reference."
+        },
+        {
+            "id": "history_the_80s",
+            "title": "The '80s",
+            "anchor": "## the ' 80s",
+            "type": "history",
+            "notes": "Gangrel during the 1980s."
+        },
+        {
+            "id": "history_the_90s",
+            "title": "The '90s",
+            "anchor": "## the ' 90s",
+            "type": "history",
+            "notes": "Gangrel during the 1990s, including Xaviar's departure."
+        },
+        {
+            "id": "history_the_end_times",
+            "title": "The End Times",
+            "anchor": "## the end times",
+            "type": "lore",
+            "notes": "Gangrel perspective on Gehenna and the Final Nights."
+        },
+        {
+            "id": "culture_the_gangrel_embrace",
+            "title": "The Gangrel Embrace",
+            "anchor": "## the GanGrel emBraCe",
+            "type": "culture",
+            "notes": "The harsh tradition of abandoning childer after the Embrace, allowing only the strong to survive."
+        },
+        {
+            "id": "culture_pride_loyalty_and_honor",
+            "title": "Pride, Loyalty and Honor: Gangrel Allegiances",
+            "anchor": "## pride,  lOyalty and  hOnOr: GanGrelalleGianCes",
+            "type": "culture",
+            "notes": "Overview of Gangrel relationships with different sects and factions."
+        },
+        {
+            "id": "culture_the_camarilla",
+            "title": "The Camarilla",
+            "anchor": "## the Camarilla",
+            "type": "politics",
+            "notes": "Gangrel who remained in the Camarilla after Xaviar's departure, their reasons, and their treatment by other Kindred."
+        },
+        {
+            "id": "culture_the_sabbat",
+            "title": "The Sabbat",
+            "anchor": "## the saBBat",
+            "type": "politics",
+            "notes": "Gangrel antitribu in the Sabbat, their roles, and the impact of new defectors from the Camarilla."
+        },
+        {
+            "id": "culture_anarchs",
+            "title": "Anarchs",
+            "anchor": "## anarChs",
+            "type": "politics",
+            "notes": "Gangrel among the Anarchs, including the Valkyries in Europe."
+        },
+        {
+            "id": "culture_paths_of_enlightenment",
+            "title": "Paths of Enlightenment",
+            "anchor": "## paths Of enliGhtenment",
+            "type": "culture",
+            "notes": "Paths commonly followed by Gangrel, especially the Path of the Feral Heart."
+        },
+        {
+            "id": "culture_independents",
+            "title": "Independents",
+            "anchor": "## independents",
+            "type": "politics",
+            "notes": "Gangrel Autarkis, their organization, and the new breed created by Xaviar's departure."
+        },
+        {
+            "id": "culture_bloodlines",
+            "title": "Bloodlines",
+            "anchor": "## BlOOdlines",
+            "type": "lore",
+            "notes": "Overview of Gangrel bloodlines and their divergent nature."
+        },
+        {
+            "id": "culture_the_laibon_and_the_lhiannan",
+            "title": "The Laibon and the Lhiannan",
+            "anchor": "## the laiBOn and the lhiannan",
+            "type": "lore",
+            "notes": "Discussion of the Laibon and Lhiannan bloodlines, their connection to Gangrel, and their current status."
+        },
+        {
+            "id": "culture_ahrimanes",
+            "title": "Ahrimanes",
+            "anchor": "## ahrimanes",
+            "type": "lore",
+            "notes": "The Ahrimanes bloodline, their creation, and their mysterious disappearance."
+        },
+        {
+            "id": "culture_and_then_there_were_none",
+            "title": "And Then There Were None",
+            "anchor": "## and then there were nOne",
+            "type": "lore",
+            "notes": "Rules and details for using Ahrimanes in chronicles, despite their disappearance."
+        },
+        {
+            "id": "culture_anda",
+            "title": "Anda",
+            "anchor": "## anda",
+            "type": "lore",
+            "notes": "The extinct Anda bloodline of the Central Asian steppes."
+        },
+        {
+            "id": "culture_city_gangrel",
+            "title": "City Gangrel",
+            "anchor": "## City GanGrel",
+            "type": "lore",
+            "notes": "The Sabbat City Gangrel bloodline, their Disciplines, and their urban focus."
+        },
+        {
+            "id": "culture_obfuscate_for_the_incredibly_ugly",
+            "title": "Obfuscate for the Incredibly Ugly",
+            "anchor": "## OBfusCate fOr the inCrediBly uGly",
+            "type": "mechanics",
+            "notes": "Rules for using Obfuscate's Mask of a Thousand Faces to hide animal features."
+        },
+        {
+            "id": "culture_laibon",
+            "title": "Laibon",
+            "anchor": "## laiBOn",
+            "type": "lore",
+            "notes": "Detailed information about the Laibon bloodline and their connection to Gangrel."
+        },
+        {
+            "id": "culture_lhiannan",
+            "title": "Lhiannan",
+            "anchor": "## lhiannan",
+            "type": "lore",
+            "notes": "The extinct Lhiannan bloodline and modern attempts to revive their traditions."
+        },
+        {
+            "id": "culture_mariners",
+            "title": "Mariners",
+            "anchor": "## mariners",
+            "type": "lore",
+            "notes": "The Mariners bloodline, aquatic Gangrel who've taken to the sea."
+        },
+        {
+            "id": "culture_are_fish_that_ugly",
+            "title": "Are Fish That Ugly?",
+            "anchor": "## are fish that uGly?",
+            "type": "lore",
+            "notes": "Discussion of Mariners' animal features and potential changes to their weakness."
+        },
+        {
+            "id": "culture_gangrel_around_the_world",
+            "title": "Gangrel Around the World",
+            "anchor": "## GanGrel arOund the wOrld",
+            "type": "lore",
+            "notes": "Overview of Gangrel presence globally, organized by region."
+        },
+        {
+            "id": "culture_antarctica",
+            "title": "Antarctica",
+            "anchor": "## antarCtiCa",
+            "type": "lore",
+            "notes": "Gangrel in Antarctica (or lack thereof)."
+        },
+        {
+            "id": "culture_africa",
+            "title": "Africa",
+            "anchor": "## afriCa",
+            "type": "lore",
+            "notes": "Gangrel in Africa, including the Nyayo and Red Menace groups."
+        },
+        {
+            "id": "culture_asia",
+            "title": "Asia",
+            "anchor": "## asia",
+            "type": "lore",
+            "notes": "Gangrel in Asia, including the fall of the Shadow Curtain and conflicts with Cathayans."
+        },
+        {
+            "id": "culture_australia",
+            "title": "Australia",
+            "anchor": "## australia",
+            "type": "lore",
+            "notes": "Gangrel in Australia and New Zealand, including the Maori Gangrel Nyrie Waaka."
+        },
+        {
+            "id": "culture_europe",
+            "title": "Europe",
+            "anchor": "## eurOpe",
+            "type": "lore",
+            "notes": "Gangrel in Europe, including Brunhilde and the Valkyries, and Rufus of Andorra."
+        },
+        {
+            "id": "culture_middle_east",
+            "title": "Middle East",
+            "anchor": "## middle east",
+            "type": "lore",
+            "notes": "Gangrel in the Middle East, including the Islamic scholar Ebi Raboud."
+        },
+        {
+            "id": "culture_north_america",
+            "title": "North America",
+            "anchor": "## nOrth ameriCa",
+            "type": "lore",
+            "notes": "Gangrel in North America, including the Free Minutemen and Muskuuchii."
+        },
+        {
+            "id": "culture_south_america",
+            "title": "South America",
+            "anchor": "## sOuth ameriCa",
+            "type": "lore",
+            "notes": "Gangrel in South America, including Xotli the Toad."
+        },
+        {
+            "id": "mechanics_the_beast_rampant",
+            "title": "The Beast Rampant: The Gangrel Flaw",
+            "anchor": "## the Beast rampant: the GanGrel flaw",
+            "type": "mechanics",
+            "notes": "The clan weakness: acquiring animal features with each frenzy, and the social penalties that accumulate."
+        },
+        {
+            "id": "mechanics_mixed_blessings",
+            "title": "Mixed Blessings",
+            "anchor": "## mixed BlessinGs",
+            "type": "mechanics",
+            "notes": "Drastic animal features (Frog Eyes, Exoskeleton, Hide/Carapace, Maw, Sonar, Spinnerets, Tail, Talons, Venom, Wings) that provide benefits but create Masquerade risks."
+        },
+        {
+            "id": "mechanics_met_systems_for_animal_traits",
+            "title": "MET Systems for Animal Traits",
+            "anchor": "## met systems fOr animal traits",
+            "type": "mechanics",
+            "notes": "Mind's Eye Theater conversion rules for animal features."
+        },
+        {
+            "id": "relations_the_others",
+            "title": "The Others",
+            "anchor": "## the Others",
+            "type": "relations",
+            "notes": "Overview of Gangrel relationships with other groups."
+        },
+        {
+            "id": "relations_kindred",
+            "title": "Kindred",
+            "anchor": "## Kindred",
+            "type": "relations",
+            "notes": "Gangrel relationships with other vampire clans."
+        },
+        {
+            "id": "relations_brujah",
+            "title": "Brujah",
+            "anchor": "## BruJah",
+            "type": "relations",
+            "notes": "Gangrel relationship with the Brujah clan."
+        },
+        {
+            "id": "relations_followers_of_set",
+            "title": "Followers of Set",
+            "anchor": "## fOllOwers Of set",
+            "type": "relations",
+            "notes": "Gangrel relationship with the Followers of Set."
+        },
+        {
+            "id": "relations_giovanni",
+            "title": "Giovanni",
+            "anchor": "## GiOvanni",
+            "type": "relations",
+            "notes": "Gangrel relationship with the Giovanni clan."
+        },
+        {
+            "id": "relations_lasombra",
+            "title": "Lasombra",
+            "anchor": "## lasOmBra",
+            "type": "relations",
+            "notes": "Gangrel relationship with the Lasombra clan."
+        },
+        {
+            "id": "relations_malkavian",
+            "title": "Malkavian",
+            "anchor": "## malKavian",
+            "type": "relations",
+            "notes": "Gangrel relationship with the Malkavian clan."
+        },
+        {
+            "id": "relations_nosferatu",
+            "title": "Nosferatu",
+            "anchor": "## nOsferatu",
+            "type": "relations",
+            "notes": "Gangrel relationship with the Nosferatu clan, marked by mutual understanding."
+        },
+        {
+            "id": "relations_ravnos",
+            "title": "Ravnos",
+            "anchor": "## ravnOs",
+            "type": "relations",
+            "notes": "Gangrel relationship with the Ravnos clan, historically turbulent."
+        },
+        {
+            "id": "relations_toreador",
+            "title": "Toreador",
+            "anchor": "## tOreadOr",
+            "type": "relations",
+            "notes": "Gangrel relationship with the Toreador clan."
+        },
+        {
+            "id": "relations_tremere",
+            "title": "Tremere",
+            "anchor": "## tremere",
+            "type": "relations",
+            "notes": "Gangrel relationship with the Tremere clan, marked by ancient grudges over Gargoyles."
+        },
+        {
+            "id": "relations_tzimisce",
+            "title": "Tzimisce",
+            "anchor": "## tzimisCe",
+            "type": "relations",
+            "notes": "Gangrel relationship with the Tzimisce clan, philosophical differences over shapechanging."
+        },
+        {
+            "id": "relations_ventrue",
+            "title": "Ventrue",
+            "anchor": "## ventrue",
+            "type": "relations",
+            "notes": "Gangrel relationship with the Ventrue clan, strained after Xaviar's departure."
+        },
+        {
+            "id": "relations_the_gypsies",
+            "title": "The Gypsies",
+            "anchor": "## the Gypsies",
+            "type": "relations",
+            "notes": "Gangrel relationship with the Rroma (Gypsies), including historical favors and letters of safe passage."
+        },
+        {
+            "id": "relations_the_lupines",
+            "title": "The Lupines: Or, How to Keep Werewolves From Killing You",
+            "anchor": "## the  lupines: Or,  hOw  tO  Keep  werewOlves frOm  KillinG  yOu",
+            "type": "relations",
+            "notes": "Practical advice on dealing with werewolves, written by Early Knox."
+        },
+        {
+            "id": "mechanics_discplines",
+            "title": "Disciplines",
+            "anchor": "## disCiplines",
+            "type": "mechanics",
+            "notes": "Overview of Gangrel Disciplines: Animalism, Fortitude, and Protean."
+        },
+        {
+            "id": "mechanics_animalism",
+            "title": "Animalism",
+            "anchor": "## animalism",
+            "type": "mechanics",
+            "notes": "The Animalism Discipline, its uses, and Gangrel-specific applications."
+        },
+        {
+            "id": "mechanics_quell_the_herd",
+            "title": "Quell the Herd",
+            "anchor": "## Quell the herd (animalism level six)",
+            "type": "mechanics",
+            "notes": "Animalism level 6 power: subduing multiple animals or humans through fear."
+        },
+        {
+            "id": "mechanics_optional_systems_for_animalism",
+            "title": "Optional Systems for Animalism",
+            "anchor": "## OptiOnal systems fOr animalism",
+            "type": "mechanics",
+            "notes": "Optional modifications to Animalism powers for Storyteller use."
+        },
+        {
+            "id": "mechanics_the_upright_animal",
+            "title": "The Upright Animal",
+            "anchor": "## the upriGht animal",
+            "type": "mechanics",
+            "notes": "Optional rule allowing Animalism to work on humans."
+        },
+        {
+            "id": "mechanics_quell_the_beast",
+            "title": "Quell the Beast",
+            "anchor": "## Quell the Beast (Animalism Level Three)",
+            "type": "mechanics",
+            "notes": "Optional modification to Quell the Beast for use on supernatural creatures."
+        },
+        {
+            "id": "mechanics_subsume_the_spirit",
+            "title": "Subsume the Spirit",
+            "anchor": "## Subsume the Spirit (Animalism Level Four)",
+            "type": "mechanics",
+            "notes": "Optional modifications to Subsume the Spirit."
+        },
+        {
+            "id": "mechanics_drawing_out_the_beast",
+            "title": "Drawing Out the Beast",
+            "anchor": "## Drawing Out the Beast (Animalism Level Five)",
+            "type": "mechanics",
+            "notes": "Optional modification to Drawing Out the Beast."
+        },
+        {
+            "id": "mechanics_stampede",
+            "title": "Stampede",
+            "anchor": "## stampede (animalism level seven)",
+            "type": "mechanics",
+            "notes": "Animalism level 7 power: triggering panic flight in large groups."
+        },
+        {
+            "id": "mechanics_crimson_fury",
+            "title": "Crimson Fury",
+            "anchor": "## CrimsOn fury (animalism level eiGht)",
+            "type": "mechanics",
+            "notes": "Animalism level 8 power: blood causes frenzy in those who taste it, with ongoing consequences for diablerists."
+        },
+        {
+            "id": "mechanics_eyes_of_the_forest",
+            "title": "Eyes of the Forest",
+            "anchor": "## eyes Of the fOrest (animalism level nine)",
+            "type": "mechanics",
+            "notes": "Animalism level 9 power: merging with a geographic area to see and hear through all animals within."
+        },
+        {
+            "id": "mechanics_fortitude",
+            "title": "Fortitude",
+            "anchor": "## fOrtitude",
+            "type": "mechanics",
+            "notes": "The Fortitude Discipline and its importance to Gangrel survival."
+        },
+        {
+            "id": "mechanics_sensory_shield",
+            "title": "Sensory Shield",
+            "anchor": "## sensOry shield (fOrtitude level six)",
+            "type": "mechanics",
+            "notes": "Fortitude level 6 power: protecting senses from overwhelming input."
+        },
+        {
+            "id": "mechanics_resilient_mind",
+            "title": "Resilient Mind",
+            "anchor": "## resilient mind (fOrtitude level seven)",
+            "type": "mechanics",
+            "notes": "Fortitude level 7 power: extending protection to mind and personality, allowing elimination of derangements."
+        },
+        {
+            "id": "mechanics_protean",
+            "title": "Protean",
+            "anchor": "## prOtean",
+            "type": "mechanics",
+            "notes": "The Protean Discipline, the Gangrel's signature ability, and its history."
+        },
+        {
+            "id": "mechanics_animal_forms",
+            "title": "Animal Forms",
+            "anchor": "## animal fOrms",
+            "type": "mechanics",
+            "notes": "Discussion of animal forms available to Gangrel, including fight and flight forms."
+        },
+        {
+            "id": "mechanics_adopt_a_pet",
+            "title": "Adopt a Pet",
+            "anchor": "## adOpt a pet",
+            "type": "lore",
+            "notes": "Sabbat Gangrel game of assuming animal form and being taken in by mortals, then killing them."
+        },
+        {
+            "id": "mechanics_shape_of_the_beast_revisited",
+            "title": "Shape of the Beast Revisited",
+            "anchor": "## shape Of the Beast revisited (prOtean level fOur)",
+            "type": "mechanics",
+            "notes": "Gangrel-specific version of Shape of the Beast, allowing any predator or scavenger form."
+        },
+        {
+            "id": "mechanics_shape_mastery",
+            "title": "Shape Mastery",
+            "anchor": "## shape mastery (prOtean level six)",
+            "type": "mechanics",
+            "notes": "Protean level 6 power: forcing other shapechangers to resume normal form."
+        },
+        {
+            "id": "mechanics_animal_swarm",
+            "title": "Animal Swarm",
+            "anchor": "## animal swarm (prOtean level seven)",
+            "type": "mechanics",
+            "notes": "Protean level 7 power: dispersing into a swarm of small creatures."
+        },
+        {
+            "id": "mechanics_mythic_form",
+            "title": "Mythic Form",
+            "anchor": "## mythiC fOrm (prOtean level eiGht)",
+            "type": "mechanics",
+            "notes": "Protean level 8 power: transforming into a creature of myth with enhanced abilities."
+        },
+        {
+            "id": "mechanics_sample_mythic_form_dragon",
+            "title": "Sample Mythic Form: Dragon",
+            "anchor": "## Sample Mythic Form: Dragon",
+            "type": "mechanics",
+            "notes": "Example mythic form with specific traits and abilities."
+        },
+        {
+            "id": "mechanics_sample_mythical_form_dragon",
+            "title": "Sample Mythical Form: Dragon",
+            "anchor": "## Sample Mythical Form: Dragon",
+            "type": "mechanics",
+            "notes": "MET version of the dragon mythic form example."
+        },
+        {
+            "id": "mechanics_combination_disciplines",
+            "title": "Combination Disciplines",
+            "anchor": "## COmBinatiOn disCiplines",
+            "type": "mechanics",
+            "notes": "Overview of combination Disciplines developed by Gangrel elders."
+        },
+        {
+            "id": "mechanics_claw_immunity",
+            "title": "Claw Immunity",
+            "anchor": "## Claw immunity (animalism ··, fOrtitude ···· )",
+            "type": "mechanics",
+            "notes": "Combination Discipline: Animalism + Fortitude, providing protection against specific animal types."
+        },
+        {
+            "id": "mechanics_flesh_wound",
+            "title": "Flesh Wound",
+            "anchor": "## flesh wOund (fOrtitude ·· ,  OBfusCate ··· )",
+            "type": "mechanics",
+            "notes": "Combination Discipline: Fortitude + Obfuscate, hiding the visible effects of damage."
+        },
+        {
+            "id": "mechanics_see_the_reflected_form",
+            "title": "See the Reflected Form",
+            "anchor": "## see the refleCted fOrm (auspex ···· ,  prOtean ···· )",
+            "type": "mechanics",
+            "notes": "Combination Discipline: Auspex + Protean, seeing the shapechanging abilities and forms of others."
+        },
+        {
+            "id": "mechanics_beast_meld",
+            "title": "Beast Meld",
+            "anchor": "## Beast meld (animalism ··· , prOtean ····· · )",
+            "type": "mechanics",
+            "notes": "Combination Discipline: Animalism + Protean, merging with an animal host for travel and hiding."
+        },
+        {
+            "id": "character_creation_beasts_among_men",
+            "title": "Beasts Among Men",
+            "anchor": "## Beasts amOnG men",
+            "type": "character_creation",
+            "notes": "Character templates and archetypes for Gangrel characters."
+        },
+        {
+            "id": "character_creation_intrepid_explorer",
+            "title": "Intrepid Explorer",
+            "anchor": "## intrepid explOrer",
+            "type": "character_creation",
+            "notes": "Character template: a Gangrel explorer and adventurer."
+        },
+        {
+            "id": "character_creation_country_musician",
+            "title": "Country Musician",
+            "anchor": "## COuntry musiCian",
+            "type": "character_creation",
+            "notes": "Character template: a Gangrel musician with rural roots."
+        },
+        {
+            "id": "character_creation_hacker",
+            "title": "Hacker",
+            "anchor": "## haCKer",
+            "type": "character_creation",
+            "notes": "Character template: a Gangrel hacker and technophile."
+        },
+        {
+            "id": "character_creation_field_biologist",
+            "title": "Field Biologist",
+            "anchor": "## field BiOlOGist",
+            "type": "character_creation",
+            "notes": "Character template: a Gangrel field biologist and researcher."
+        },
+        {
+            "id": "character_creation_drilling_rig_technician",
+            "title": "Drilling Rig Technician",
+            "anchor": "## drillinG riG teChniCian",
+            "type": "character_creation",
+            "notes": "Character template: a Gangrel working in the oil industry."
+        },
+        {
+            "id": "character_creation_eco_terrorist",
+            "title": "Eco-Terrorist",
+            "anchor": "## eCO-terrOrist",
+            "type": "character_creation",
+            "notes": "Character template: a Gangrel environmental activist turned violent."
+        },
+        {
+            "id": "character_creation_industry_lobbyist",
+            "title": "Industry Lobbyist",
+            "anchor": "## industry lOBByist",
+            "type": "character_creation",
+            "notes": "Character template: a Gangrel working as a corporate lobbyist."
+        },
+        {
+            "id": "character_creation_new_age_viking",
+            "title": "New Age Viking",
+            "anchor": "## new aGe viKinG",
+            "type": "character_creation",
+            "notes": "Character template: a Gangrel inspired by Viking culture and traditions."
+        },
+        {
+            "id": "character_creation_provincial_scourge",
+            "title": "Provincial Scourge",
+            "anchor": "## prOvinCial sCOurGe",
+            "type": "character_creation",
+            "notes": "Character template: a Gangrel who acts as a local enforcer or protector."
+        },
+        {
+            "id": "character_creation_chupacabra",
+            "title": "Chupacabra",
+            "anchor": "## ChupaCaBra",
+            "type": "character_creation",
+            "notes": "Character template: a Gangrel with extreme animal features, mistaken for the legendary chupacabra."
+        },
+        {
+            "id": "notable_characters_outlanders_of_note",
+            "title": "Outlanders of Note",
+            "anchor": "## Outlanders Of nOte",
+            "type": "lore",
+            "notes": "Notable Gangrel characters from the clanbook."
+        },
+        {
+            "id": "notable_characters_beckett",
+            "title": "Beckett",
+            "anchor": "## BeCKett",
+            "type": "lore",
+            "notes": "Information about Beckett, the famous Gangrel scholar and explorer."
+        },
+        {
+            "id": "notable_characters_brunhilde",
+            "title": "Brunhilde",
+            "anchor": "## Brunhilde",
+            "type": "lore",
+            "notes": "Information about Brunhilde, leader of the Scandinavian Valkyries."
+        },
+        {
+            "id": "notable_characters_jalan_aajav",
+            "title": "Jalan-Aajav",
+            "anchor": "## Jalan-aaJav",
+            "type": "lore",
+            "notes": "Information about Jalan-Aajav, Seraph of the Black Hand."
+        },
+        {
+            "id": "notable_characters_karsh",
+            "title": "Karsh",
+            "anchor": "## Karsh",
+            "type": "lore",
+            "notes": "Information about Karsh, the Warlord, who remained in the Camarilla."
+        },
+        {
+            "id": "notable_characters_xaviar",
+            "title": "Xaviar",
+            "anchor": "## xaviar",
+            "type": "lore",
+            "notes": "Information about Xaviar, the Gangrel Justicar who led the clan out of the Camarilla."
+        }
+    ]
+}
+
+

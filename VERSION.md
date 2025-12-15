@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.8.31
+## Current Version: 0.8.32
+
+**Date:** 2025-01-30  
+**Type:** Patch (Git Repository Management & Canon Data Addition)
+
+## Previous Version: 0.8.31
 
 **Date:** 2025-01-30  
 **Type:** Patch (Security Fixes & Database Credential Management)
