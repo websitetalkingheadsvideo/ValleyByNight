@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.8.39
+## Current Version: 0.8.40
+
+**Date:** 2025-01-30  
+**Type:** Patch (Phoenix Overlay Files & Clan Structure Reorganization)
+
+## Previous Version: 0.8.39
 
 **Date:** 2025-01-30  
 **Type:** Patch (Clan Directory Structure Documentation)

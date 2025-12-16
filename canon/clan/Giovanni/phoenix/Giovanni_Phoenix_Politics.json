@@ -27,7 +27,7 @@
       },
       "Brujah": {
         "status": "Low-level friction",
-        "notes": "Brujah distrust the Giovanni’s wealth and detachment. The Giovanni consider Brujah anger predictable and exploitable, but not worth provoking unnecessarily."
+        "notes": "Brujah distrust the Giovanni's wealth and detachment. The Giovanni consider Brujah anger predictable and exploitable, but not worth provoking unnecessarily."
       },
       "Malkavian": {
         "status": "Uneasy curiosity",
@@ -39,7 +39,7 @@
     },
     "political_assumptions": {
       "external": [
-        "The Giovanni know more about the Prince’s death than they admit",
+        "The Giovanni know more about the Prince's death than they admit",
         "Any deal with the Giovanni carries hidden costs",
         "Giovanni neutrality is strategic, not moral"
       ],
@@ -62,8 +62,8 @@
     "flashpoints": [
       "Attempts by Camarilla factions to force Giovanni allegiance",
       "Unauthorized necromantic activity drawing attention to Giovanni methods",
-      "PCs seeking Giovanni aid to investigate the Prince’s murder",
+      "PCs seeking Giovanni aid to investigate the Prince's murder",
       "Threats to Scottsdale assets or Giovanni-controlled estates"
     ]
   }
-  
+
