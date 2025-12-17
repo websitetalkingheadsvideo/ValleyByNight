@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.8.41
+## Current Version: 0.8.42
+
+**Date:** 2025-01-30  
+**Type:** Patch (Local development server setup & configuration)
+
+## Previous Version: 0.8.41
 
 **Date:** 2025-01-30  
 **Type:** Patch (Character Content Updates & Documentation)
