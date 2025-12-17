@@ -1,9 +1,9 @@
 # Version History
 
-## Current Version: 0.8.40
+## Current Version: 0.8.41
 
 **Date:** 2025-01-30  
-**Type:** Patch (Phoenix Overlay Files & Clan Structure Reorganization)
+**Type:** Patch (Character Content Updates & Documentation)
 
 ## Previous Version: 0.8.39
 
