@@ -1,11 +1,11 @@
 # Version History
 
-## Current Version: 0.8.43
+## Current Version: 0.8.44
 
 **Date:** 2025-01-30  
-**Type:** Patch (Music Registry Admin System)
+**Type:** Patch (Music Registry - Dark Ambient Gotham asset added)
 
-## Previous Version: 0.8.42
+## Previous Version: 0.8.43
 
 **Date:** 2025-01-30  
 **Type:** Patch (Character Content Updates & Documentation)
