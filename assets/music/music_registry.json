@@ -1,244 +1,248 @@
 {
     "schema": {
-      "name": "vbn_music_registry",
-      "version": "1.0.0",
-      "chronicle": "Valley by Night",
-      "timezone": "America/Denver",
-      "notes": [
-        "This is JSON only. If you store settings in a DB table, serialize that row into mix_profiles[] (or mirror it).",
-        "Gains/mix rules are editable via mix_profiles; cues may override fades (and optionally gains) when needed.",
-        "Supports: focus-driven foreground bed, persistent location underbed, stingers, and exclusive overrides for combat/event moments."
-      ]
+        "name": "vbn_music_registry",
+        "version": "1.0.0",
+        "chronicle": "Valley by Night",
+        "timezone": "America/Denver",
+        "notes": [
+            "This is JSON only. If you store settings in a DB table, serialize that row into mix_profiles[] (or mirror it).",
+            "Gains/mix rules are editable via mix_profiles; cues may override fades (and optionally gains) when needed.",
+            "Supports: focus-driven foreground bed, persistent location underbed, stingers, and exclusive overrides for combat/event moments."
+        ]
     },
-  
     "enums": {
-      "asset_source_type": ["local_file", "envato_elements", "envato_generative", "other"],
-      "cue_role": [
-        "location_underbed",
-        "focus_bed",
-        "stinger",
-        "override_combat_start",
-        "override_ui_event",
-        "override_story_event"
-      ],
-      "binding_type": ["on_location_enter", "on_focus_acquired", "on_presence_enter", "on_event"],
-      "override_mode": ["none", "exclusive"],
-      "exclusive_stop_mode": ["hard_stop", "fade_out", "duck"],
-      "exclusive_resume_mode": ["restore_previous_state", "combat_state", "ambient_only"]
+        "asset_source_type": [
+            "local_file",
+            "envato_elements",
+            "envato_generative",
+            "other"
+        ],
+        "cue_role": [
+            "location_underbed",
+            "focus_bed",
+            "stinger",
+            "override_combat_start",
+            "override_ui_event",
+            "override_story_event"
+        ],
+        "binding_type": [
+            "on_location_enter",
+            "on_focus_acquired",
+            "on_presence_enter",
+            "on_event"
+        ],
+        "override_mode": [
+            "none",
+            "exclusive"
+        ],
+        "exclusive_stop_mode": [
+            "hard_stop",
+            "fade_out",
+            "duck"
+        ],
+        "exclusive_resume_mode": [
+            "restore_previous_state",
+            "combat_state",
+            "ambient_only"
+        ]
     },
-  
     "mix_profiles": [
-      {
-        "mix_profile_id": "mix_default",
-        "profile_name": "Default Mix",
-  
-        "gains": {
-          "location_underbed": 0.12,
-          "focus_bed": 0.78,
-          "stinger": 1.0
-        },
-  
-        "ducking": {
-          "duck_beds_on_stinger": 0.35,
-          "duck_attack_ms": 40,
-          "duck_release_ms": 900
-        },
-  
-        "default_fades_ms": {
-          "fade_in_ms": 1400,
-          "fade_out_ms": 1400,
-          "crossfade_ms": 1400
-        },
-  
-        "underbed_behavior": {
-          "enter_fade_ms": 9000,
-          "exit_fade_ms": 9000,
-          "raise_when_no_focus_gain": 0.18,
-          "raise_fade_ms": 1200
-        },
-  
-        "exclusive_defaults": {
-          "stop_mode": "fade_out",
-          "stop_fade_ms": 250,
-          "resume_mode": "restore_previous_state"
-        },
-  
-        "notes": "Your global editable mixing rules live here. Admin UI can edit this JSON or mirror it into a DB row."
-      }
+        {
+            "mix_profile_id": "mix_default",
+            "profile_name": "Default Mix",
+            "gains": {
+                "location_underbed": 0.12,
+                "focus_bed": 0.78,
+                "stinger": 1
+            },
+            "ducking": {
+                "duck_beds_on_stinger": 0.35,
+                "duck_attack_ms": 40,
+                "duck_release_ms": 900
+            },
+            "default_fades_ms": {
+                "fade_in_ms": 1400,
+                "fade_out_ms": 1400,
+                "crossfade_ms": 1400
+            },
+            "underbed_behavior": {
+                "enter_fade_ms": 9000,
+                "exit_fade_ms": 9000,
+                "raise_when_no_focus_gain": 0.18,
+                "raise_fade_ms": 1200
+            },
+            "exclusive_defaults": {
+                "stop_mode": "fade_out",
+                "stop_fade_ms": 250,
+                "resume_mode": "restore_previous_state"
+            },
+            "notes": "Your global editable mixing rules live here. Admin UI can edit this JSON or mirror it into a DB row."
+        }
     ],
-  
     "assets": [
-      {
-        "asset_id": "asset_loc_hawthorn_underbed_01",
-        "title": "Hawthorn Estate — Velvet Candle Hush (Loop)",
-        "source": {
-          "type": "envato_elements",
-          "envato_item_id": "ENVATO-ITEM-ID-HERE",
-          "license_ref": "ENVATO-LICENSE-REF-OPTIONAL"
+        {
+            "asset_id": "asset_loc_hawthorn_underbed_01",
+            "title": "Hawthorn Estate — Velvet Candle Hush (Loop)",
+            "source": {
+                "type": "envato_elements",
+                "envato_item_id": "ENVATO-ITEM-ID-HERE",
+                "license_ref": "ENVATO-LICENSE-REF-OPTIONAL"
+            },
+            "files": [
+                {
+                    "path": "assets/audio/music/locations/hawthorn_estate/velvet_candle_hush_loop.ogg",
+                    "format": "ogg",
+                    "loopable": true
+                }
+            ],
+            "tags": [
+                "camarilla",
+                "candlelight",
+                "elegant",
+                "noir"
+            ],
+            "notes": ""
         },
-        "files": [
-          {
-            "path": "assets/audio/music/locations/hawthorn_estate/velvet_candle_hush_loop.ogg",
-            "format": "ogg",
-            "loopable": true
-          }
-        ],
-        "tags": ["camarilla", "candlelight", "elegant", "noir"],
-        "notes": ""
-      },
-      {
-        "asset_id": "asset_override_combat_start_01",
-        "title": "Combat Start — Neon Knife (Stinger)",
-        "source": {
-          "type": "envato_generative",
-          "generator": "Envato Generative Music",
-          "prompt": "Short combat ignition stinger: tense noir percussion, desert neon, 1990s gothic vibe, 3–8 seconds, sharp transient hit, no long melody carryover.",
-          "generation_version": "v3",
-          "seed_or_job_id": "ENVATO-GEN-JOB-ID-HERE"
+        {
+            "asset_id": "asset_override_combat_start_01",
+            "title": "Combat Start — Neon Knife (Stinger)",
+            "source": {
+                "type": "envato_generative",
+                "generator": "Envato Generative Music",
+                "prompt": "Short combat ignition stinger: tense noir percussion, desert neon, 1990s gothic vibe, 3–8 seconds, sharp transient hit, no long melody carryover.",
+                "generation_version": "v3",
+                "seed_or_job_id": "ENVATO-GEN-JOB-ID-HERE"
+            },
+            "files": [
+                {
+                    "path": "assets/audio/music/_overrides/combat_start/neon_knife_stinger_v3.wav",
+                    "format": "wav",
+                    "loopable": false
+                }
+            ],
+            "tags": [
+                "combat",
+                "stinger",
+                "override"
+            ],
+            "notes": ""
         },
-        "files": [
-          {
-            "path": "assets/audio/music/_overrides/combat_start/neon_knife_stinger_v3.wav",
-            "format": "wav",
-            "loopable": false
-          }
-        ],
-        "tags": ["combat", "stinger", "override"],
-        "notes": ""
-      }
+        {
+            "asset_id": "asset_dark_ambient_gotham",
+            "title": "Dark Ambient Gotham",
+            "source": {
+                "type": "local_file"
+            },
+            "files": [
+                {
+                    "path": "assets/music/locations/_shared/Dark Ambient Gotham.mp3",
+                    "format": "mp3",
+                    "loopable": true
+                }
+            ],
+            "tags": [
+                "dark",
+                "ambient",
+                "city",
+                "noir",
+                "investigation",
+                "night"
+            ],
+            "notes": ""
+        }
     ],
-  
     "cues": [
-      {
-        "cue_id": "cue_loc_hawthorn_underbed",
-        "asset_ref": "asset_loc_hawthorn_underbed_01",
-        "role": "location_underbed",
-        "loop": true,
-  
-        "fade_in_ms": 9000,
-        "fade_out_ms": 9000,
-  
-        "mix_overrides": {
-          "gain": null,
-          "duck_beds": null
+        {
+            "cue_id": "cue_loc_hawthorn_underbed",
+            "asset_ref": "asset_loc_hawthorn_underbed_01",
+            "role": "location_underbed",
+            "loop": true,
+            "fade_in_ms": 9000,
+            "fade_out_ms": 9000,
+            "mix_overrides": {
+                "gain": null,
+                "duck_beds": null
+            },
+            "override": {
+                "mode": "none"
+            },
+            "notes": "Persistent underbed; should be present but mostly subliminal."
         },
-  
-        "override": {
-          "mode": "none"
-        },
-  
-        "notes": "Persistent underbed; should be present but mostly subliminal."
-      },
-      {
-        "cue_id": "cue_override_combat_start_neon_knife",
-        "asset_ref": "asset_override_combat_start_01",
-        "role": "override_combat_start",
-        "loop": false,
-  
-        "fade_in_ms": 30,
-        "fade_out_ms": 120,
-  
-        "mix_overrides": {
-          "gain": null,
-          "duck_beds": null
-        },
-  
-        "override": {
-          "mode": "exclusive",
-          "exclusive_stop_mode": "fade_out",
-          "exclusive_stop_fade_ms": 180,
-          "exclusive_resume_mode": "combat_state"
-        },
-  
-        "handoff": {
-          "after_play": "enter_combat_state",
-          "combat_bed_ref": "cue_combat_bed_default_PLACEHOLDER"
-        },
-  
-        "notes": "Exclusive fight ignition cue; everything else stops/fades, then combat music state begins."
-      },
-      {
-        "cue_id": "cue_override_ui_reward_PLACEHOLDER",
-        "asset_ref": "asset_ui_reward_PLACEHOLDER",
-        "role": "override_ui_event",
-        "loop": false,
-  
-        "fade_in_ms": 20,
-        "fade_out_ms": 250,
-  
-        "override": {
-          "mode": "exclusive",
-          "exclusive_stop_mode": "duck",
-          "exclusive_stop_fade_ms": 0,
-          "exclusive_resume_mode": "restore_previous_state"
-        },
-  
-        "notes": "Puzzle solved / reward UI moment: exclusive feel, then restore exact previous music state."
-      }
+        {
+            "cue_id": "cue_override_combat_start_neon_knife",
+            "asset_ref": "asset_override_combat_start_01",
+            "role": "override_combat_start",
+            "loop": false,
+            "fade_in_ms": 30,
+            "fade_out_ms": 120,
+            "mix_overrides": {
+                "gain": null,
+                "duck_beds": null
+            },
+            "override": {
+                "mode": "exclusive",
+                "exclusive_stop_mode": "fade_out",
+                "exclusive_stop_fade_ms": 180,
+                "exclusive_resume_mode": "combat_state"
+            },
+            "handoff": {
+                "after_play": "enter_combat_state",
+                "combat_bed_ref": "cue_combat_bed_default_PLACEHOLDER"
+            },
+            "notes": "Exclusive fight ignition cue; everything else stops/fades, then combat music state begins."
+        }
     ],
-  
     "bindings": [
-      {
-        "binding_id": "bind_hawthorn_enter_underbed",
-        "binding_type": "on_location_enter",
-        "target_ref": { "type": "location", "id": "hawthorn_estate" },
-        "play_cue_ref": "cue_loc_hawthorn_underbed",
-        "priority": 10,
-        "conditions": {
-          "combat_state_required": false
+        {
+            "binding_id": "bind_hawthorn_enter_underbed",
+            "binding_type": "on_location_enter",
+            "target_ref": {
+                "type": "location",
+                "id": "hawthorn_estate"
+            },
+            "play_cue_ref": "cue_loc_hawthorn_underbed",
+            "priority": 10,
+            "conditions": {
+                "combat_state_required": false
+            },
+            "notes": ""
         },
-        "notes": ""
-      },
-      {
-        "binding_id": "bind_event_combat_start",
-        "binding_type": "on_event",
-        "event": {
-          "event_key": "combat_start",
-          "payload_filters": {
-            "zone": null,
-            "encounter_type": null
-          }
-        },
-        "play_cue_ref": "cue_override_combat_start_neon_knife",
-        "priority": 100,
-        "conditions": {},
-        "notes": ""
-      },
-      {
-        "binding_id": "bind_event_puzzle_solved_reward_ui",
-        "binding_type": "on_event",
-        "event": {
-          "event_key": "puzzle_solved_reward_ui",
-          "payload_filters": {
-            "puzzle_id": null
-          }
-        },
-        "play_cue_ref": "cue_override_ui_reward_PLACEHOLDER",
-        "priority": 90,
-        "conditions": {},
-        "notes": ""
-      }
+        {
+            "binding_id": "bind_event_combat_start",
+            "binding_type": "on_event",
+            "event": {
+                "event_key": "combat_start",
+                "payload_filters": {
+                    "zone": null,
+                    "encounter_type": null
+                }
+            },
+            "play_cue_ref": "cue_override_combat_start_neon_knife",
+            "priority": 100,
+            "conditions": [],
+            "notes": ""
+        }
     ],
-  
     "runtime_contract": {
-      "mix_profile_active_ref": "mix_default",
-      "focus_drives_foreground": true,
-      "location_underbed_persists": true,
-      "presence_does_not_steal_focus": true,
-  
-      "state_inputs": {
-        "location_ref": "location:<id>",
-        "focus_ref": "character|creature|object|location:<id>",
-        "presence_refs": ["optional array"],
-        "events": ["fire-and-forget event keys (e.g., combat_start, puzzle_solved_reward_ui)"]
-      },
-  
-      "resolution_rules": [
-        "Always ensure location_underbed for current location is playing at underbed gain.",
-        "If focus_ref changes and has a matching focus_bed cue, crossfade foreground bed to that cue.",
-        "Presence can trigger stingers but does not replace foreground bed unless focus changes.",
-        "Exclusive override cues stop/duck other music per override settings, then resume per resume_mode."
-      ]
+        "mix_profile_active_ref": "mix_default",
+        "focus_drives_foreground": true,
+        "location_underbed_persists": true,
+        "presence_does_not_steal_focus": true,
+        "state_inputs": {
+            "location_ref": "location:<id>",
+            "focus_ref": "character|creature|object|location:<id>",
+            "presence_refs": [
+                "optional array"
+            ],
+            "events": [
+                "fire-and-forget event keys (e.g., combat_start, puzzle_solved_reward_ui)"
+            ]
+        },
+        "resolution_rules": [
+            "Always ensure location_underbed for current location is playing at underbed gain.",
+            "If focus_ref changes and has a matching focus_bed cue, crossfade foreground bed to that cue.",
+            "Presence can trigger stingers but does not replace foreground bed unless focus changes.",
+            "Exclusive override cues stop/duck other music per override settings, then resume per resume_mode."
+        ]
     }
-  }
-  
+}
