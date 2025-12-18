@@ -504,9 +504,9 @@ function createCharacter() {
         scores: clanTracking
     }));
     
-    // For now, just redirect to character sheet
+    // For now, just redirect to character creation
     // In the future, this could pass the clan data
-    window.location.href = 'character_sheet.php';
+    window.location.href = 'lotn_char_create.php';
 }
 
 function capitalizeFirst(str) {

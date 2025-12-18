@@ -265,7 +265,7 @@ include 'includes/header.php';
                                 </p>
                             </div>
                             <div class="text-end">
-                                <a href="character_sheet.php?id=<?php echo $character['id']; ?>" class="btn btn-secondary">
+                                <a href="lotn_char_create.php?id=<?php echo $character['id']; ?>" class="btn btn-secondary">
                                     View/Edit
                                 </a>
                             </div>

@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.8.44
+## Current Version: 0.8.45
+
+**Date:** 2025-01-30  
+**Type:** Patch (Fixed all broken links - created 12 missing API endpoints)
+
+## Previous Version: 0.8.44
 
 **Date:** 2025-01-30  
 **Type:** Patch (Music Registry - Dark Ambient Gotham asset added)
