@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.8.49
+## Current Version: 0.8.50
+
+**Date:** 2025-01-30  
+**Type:** Patch (Code formatting and documentation updates)
+
+## Previous Version: 0.8.49
 
 **Date:** 2025-01-30  
 **Type:** Patch (Ritual import system and random rituals viewer)
