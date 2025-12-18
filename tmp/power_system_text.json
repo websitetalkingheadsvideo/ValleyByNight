@@ -1,0 +1,788 @@
+{
+    "power_mechanics": [
+        {
+            "power_id": 16,
+            "power_name": "A Touch of Death",
+            "path_id": 4,
+            "path_name": "Cenotaph Path",
+            "level": 1,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 17,
+            "power_name": "Reveal the Catene",
+            "path_id": 4,
+            "path_name": "Cenotaph Path",
+            "level": 2,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 18,
+            "power_name": "Tread Upon the Grave",
+            "path_id": 4,
+            "path_name": "Cenotaph Path",
+            "level": 3,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 19,
+            "power_name": "Death Knell",
+            "path_id": 4,
+            "path_name": "Cenotaph Path",
+            "level": 4,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 20,
+            "power_name": "Ephemeral Binding",
+            "path_id": 4,
+            "path_name": "Cenotaph Path",
+            "level": 5,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 1,
+            "power_name": "Witness of Death (Insight)",
+            "path_id": 1,
+            "path_name": "Sepulchre Path",
+            "level": 1,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 2,
+            "power_name": "Summon Soul",
+            "path_id": 1,
+            "path_name": "Sepulchre Path",
+            "path_type": "Necromancy",
+            "level": 2,
+            "book_title": "Blood Magic - Secrets of Thaumaturgy",
+            "page_number": 120,
+            "excerpt": "ancers perform the ritual together, they may freely trade Willpower points be­ tween one another for the rest of the night. During this time, one participant may experience the tactile sensa­ tions of another by concentrating for a few seconds and spending a point of Willpower, regardless of the dis­ tance separating them. No more than seven necromancers can perform the ritual together.\nLEVEL TwoRITUAL\nJUDGMENT OF RHAOAMANTHUS\nThe necromancer chooses a wraith she will later summon, using the Summon Soul power of the Sepul­ chre Path. In a cleansed bronze brazier, she bums several pages of a law book anda religious text matching the faith the wraith held in life. She mixes the ashes of the books with silver powder and uses the mixture to make her Circle of Cerberus (see above). When the wraith appears, the necromancer tells him that she has the power to send him to the real afterlife, the one he believed in when he was alive. If the ritual works, the wraith believes her. If the wraith fears judgment and hellfire, she can induce him to do what she wants by threatening to use her power. lfhe yearns for Heaven",
+            "system_text": null
+        },
+        {
+            "power_id": 3,
+            "power_name": "Compel Soul",
+            "path_id": 1,
+            "path_name": "Sepulchre Path",
+            "level": 3,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 4,
+            "power_name": "Haunting",
+            "path_id": 1,
+            "path_name": "Sepulchre Path",
+            "path_type": "Necromancy",
+            "level": 4,
+            "book_title": "Blood Magic - Secrets of Thaumaturgy",
+            "page_number": 17,
+            "excerpt": "THE Hl510RY OF llwoo MAGIC\nexchange for payments of various sorts, and found their work with spirits becoming ever more complex. I've seen Ugaritic records left by blood magicians who decided to try changing mortal society so as to return things to a simpler condition. Their efforts at building new barriers to human movement failed, sometimes very dramatically. The plethora of demons haunting the Palestinian landscape for Jewish (and, later, Chris­ tian) holy men to banish surrounded the unmarked graves of Middle Eastern blood magicians. The fools sought to back their efforts at \"social engineering\" with supernatural force, only to find that the bindings of millennia past didn't always still apply.\nThe same sort of calamity happened all around the edges of what Mediterranean rulers liked to think of as the civilized world. Blood magicians acting asshamans, prophets or gods - as well as those independent of humanity - tried to put barriers against Greek and Roman incursion. Sometimes it even worked, with the invaders rationalizing their inability to approach as \"bad terrain,\" or \"insufficient reward for the effort,\" or some other plausible folly. More often something went wrong. Whatever the secrets of command through blood on the large scale may have been, they did not survive the Second City and the ancient Asian war. In the chronicles of those ages you can find plenty of popular madness, sudden religious fervor, overnight transformations of conscience, all fingerprints of",
+            "system_text": null
+        },
+        {
+            "power_id": 5,
+            "power_name": "Torment",
+            "path_id": 1,
+            "path_name": "Sepulchre Path",
+            "path_type": "Necromancy",
+            "level": 5,
+            "book_title": "Blood Magic - Secrets of Thaumaturgy",
+            "page_number": 79,
+            "excerpt": "lso be used on others in this \"beneficial\" manner.\n•••\t5EIZURE\nLike a nervous disorder, this power causes the body to \"lock up\" in a fi.t of convulsions. All the muscles throughout the body tighten uncontrollably, the victim foams at the mouth and spasms rack him with agony. A mortal may even choke to death as her tongue cuts off her air supply.\nSystem: A light touch visits upon any target the very unpleasant effects of this power. For the duration of the seizure, a target's body writhes, tormenting him to the point of incapacitation. Victims suffer a four dice penalty to all actions. The victim also suffers one level of bashing damage every tum, though this damage is soakable, as her bodyhelplessly twists itself unnaturally.\n••••BODY FAILURE\nThaumaturges wielding this frightful power gain devastating insights into the workings of the body, allowing a complete shutdown of its systems. This sudden biological overload often proves fatal to mortals and damaging to other supernatural beings. Body Fail ure has been used throughout the ages to afflict victims in \"natural\" and inconspicuous ways. Many cases of \"fatal palsy\" and natural death may indeed be the result of a skilled thaumaturge.\nSystem: This power can affect any target the thaumaturge can see. A successful activation of this power grants effects similar to Seizure, except that damage is lethal (and thus not soakable by mortals) due to complete otgan failure. Additionally, the victim suffers a five dice pen",
+            "system_text": null
+        },
+        {
+            "power_id": 11,
+            "power_name": "Shroudsight",
+            "path_id": 3,
+            "path_name": "The Ash Path",
+            "level": 1,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 12,
+            "power_name": "Lifeless Tongues",
+            "path_id": 3,
+            "path_name": "The Ash Path",
+            "level": 2,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 13,
+            "power_name": "Dead Hand",
+            "path_id": 3,
+            "path_name": "The Ash Path",
+            "level": 3,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 14,
+            "power_name": "Ex Nihilo",
+            "path_id": 3,
+            "path_name": "The Ash Path",
+            "path_type": "Necromancy",
+            "level": 4,
+            "book_title": "Blood Magic - Secrets of Thaumaturgy",
+            "page_number": 11,
+            "excerpt": "ee claims Caine as the first whatever-it-is, and you can believe them or not as much as you want. The claim's not quite so ludicrous in this case, though.\nThe theory of Caine the Magician starts with the obviously true fact that no other Discipline approaches Thaumaturgy's scope and flexibility. It's more like the primal power of Discipline creation legend attributes to Caine than any other power in Kindred blood tonight. The theory goes on to say that Caine sought God's power to make the world ex nihilo, by will alone. Some force - take your pick of Satan, the True God or something else - showed Caine that the route to this power lay in the transformationof himself.Caine killed Abel willingly, wanting God to curse him in response.\nTHE HISTORY OF lli.ooo MAGIC\nOnce gifted with unlife, he took the first step toward stripping away all barriers between his will and power. There may be some truth to the account, or none.\nI myself, however, consider it absurd as a matter of\npersonal faith. For instance, for all the rumors of awak­ ening Antediluvians, Ican find no real proof that Caine ever existed. The story could be an elaborate allegory about the potential ofThaumaturgy and its costs. Per­ haps Caine was real, but this story doesn't get anywhere near his thoughts and motives. I report it here because it provides insight into how my fellow magicians think about their place in the scheme of things. We dream big dreams, bigger than the petty delusions that fill most half-blinded",
+            "system_text": null
+        },
+        {
+            "power_id": 15,
+            "power_name": "Shroud Mastery",
+            "path_id": 3,
+            "path_name": "The Ash Path",
+            "level": 5,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 6,
+            "power_name": "Tremens",
+            "path_id": 2,
+            "path_name": "The Bone Path",
+            "level": 1,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 7,
+            "power_name": "Apprentice's Brooms",
+            "path_id": 2,
+            "path_name": "The Bone Path",
+            "level": 2,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 8,
+            "power_name": "Shambling Hordes",
+            "path_id": 2,
+            "path_name": "The Bone Path",
+            "level": 3,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 9,
+            "power_name": "Soul Stealing",
+            "path_id": 2,
+            "path_name": "The Bone Path",
+            "level": 4,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 10,
+            "power_name": "Daemonic Possession",
+            "path_id": 2,
+            "path_name": "The Bone Path",
+            "level": 5,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 21,
+            "power_name": "Masque of Death",
+            "path_id": 5,
+            "path_name": "The Corpse in the Monster",
+            "level": 1,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 22,
+            "power_name": "Cold of the Grave",
+            "path_id": 5,
+            "path_name": "The Corpse in the Monster",
+            "level": 2,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 23,
+            "power_name": "Curse of Life",
+            "path_id": 5,
+            "path_name": "The Corpse in the Monster",
+            "level": 3,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 24,
+            "power_name": "Gift of the Corpse",
+            "path_id": 5,
+            "path_name": "The Corpse in the Monster",
+            "level": 4,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 25,
+            "power_name": "Gift of Life",
+            "path_id": 5,
+            "path_name": "The Corpse in the Monster",
+            "level": 5,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 26,
+            "power_name": "Eyes of the Dead",
+            "path_id": 6,
+            "path_name": "Vitreous Path",
+            "level": 1,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 27,
+            "power_name": "Hour of Death",
+            "path_id": 6,
+            "path_name": "Vitreous Path",
+            "level": 2,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 28,
+            "power_name": "Judgment of Rhadamanthus",
+            "path_id": 6,
+            "path_name": "Vitreous Path",
+            "path_type": "Necromancy",
+            "level": 3,
+            "book_title": "Blood Magic - Secrets of Thaumaturgy",
+            "page_number": 121,
+            "excerpt": "and escape from the bizarre existence of the under­ world, she can secure his cooperation by promising to use it. Since she can't make good on this promise, Judgment of Rhadamanthus won't work twice on the same Heaven-seeking wraith.\nWraiths who were atheists while alive, or didn't believe in life after death, automatically resist this ritual.\nLEVEL THREE RITUAL\nDRINHOF5TYH 'SWATERS\nThenecromancer robs agrave andsteals the corpse's skull. He sawsoff the top of the skull; the sawn-off piece, flipped over, forms a cup-shaped piece of bone. He covers this piece with clay, making a bowl, which he proceeds to fire in a kiln. If any blood descendant of the corpse eats from the bowl during a meal with the\nnecromancer, any promises the subject makes to the necromancer gains otherworldly enforcement. If the subject fails to live up to them, he is visited byaSpectre,\nllDi<H SOl<DJIS\nwhich torments him relentlessly until he makes good on them or offers the necromancer acceptable comperu;ation.\nIn addition to the time it takes to rob the grave, the modeling and firing of the bowl takes at least four hours, depending on how fancy the necromancer wants it to look. It may be reused until destroyed.\nLEVEL FOUR RITUAL\n0RINH OFLETHE' SW ATERS\nThe necromancer acquires an object once owned by, or symbolic of, a particular wraith. The object must be able to be damaged by water; the necromancer destroys it by leaving it to soak in water. During the soaking, he periodically spits into the water. A",
+            "system_text": null
+        },
+        {
+            "power_id": 29,
+            "power_name": "Breath of Thanatos",
+            "path_id": 6,
+            "path_name": "Vitreous Path",
+            "level": 4,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 30,
+            "power_name": "Soul Night",
+            "path_id": 6,
+            "path_name": "Vitreous Path",
+            "level": 5,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 56,
+            "power_name": "Vertigo",
+            "path_id": 12,
+            "path_name": "Mastery of the Mortal Shell",
+            "path_type": "Thaumaturgy",
+            "level": 1,
+            "book_title": "Blood Magic - Secrets of Thaumaturgy",
+            "page_number": 79,
+            "excerpt": "Unless otherwise stated, the powers of Mastery of the Mortal Shell last a number of turns equal to the number of successes a thaumaturge scores on his activation roll.\nTHE WAY£ OF MAGIC\n•VeRTIGO\nThethaumaturge induces minor disorientationand dizziness through subtle manipulations in the subject's body. Although the physical discomfort is temporary and minor, Tremere have beenknown to use it on social rivals at the most inopportune times, causing them to lose their aplomb.\nSystem: A touch from the thaumaturge (possibly requiring a Brawl attack, with Storyteller discretion) invokes disorientationin her victim. All of the subject's physical actions are at +I difficulty for the duration of Vertigo. Further uses of this path may extend the duration, though the difficulty will not increase beyond\n+I. The Storyteller may impose any other desirable effects, such as acrophobia or agoraphobia.\n•\tCONTORTION\nWith but a touch, the thaumaturge causes her opponent's muscles to contract involuntarily, reducing her to twitchingfits.This effect isextremely disconcert ing to the subject, rendering the affected limb unusable.\nSystem: By making physical contact with one of the limbs of the target, the thaumaturge renders it useless for the duration of Contortion. Targeting rules (see Vampire: The Masquerade, page 209) apply for selecting a specific extremity, should contact not be guaranteed. A leg rendered useless may make it difficult to remain standing. A contorted arm hangs lifeless at t",
+            "system_text": null
+        },
+        {
+            "power_id": 57,
+            "power_name": "Contortion",
+            "path_id": 12,
+            "path_name": "Mastery of the Mortal Shell",
+            "path_type": "Thaumaturgy",
+            "level": 2,
+            "book_title": "Blood Magic - Secrets of Thaumaturgy",
+            "page_number": 79,
+            "excerpt": "al rivals at the most inopportune times, causing them to lose their aplomb.\nSystem: A touch from the thaumaturge (possibly requiring a Brawl attack, with Storyteller discretion) invokes disorientationin her victim. All of the subject's physical actions are at +I difficulty for the duration of Vertigo. Further uses of this path may extend the duration, though the difficulty will not increase beyond\n+I. The Storyteller may impose any other desirable effects, such as acrophobia or agoraphobia.\n•\tCONTORTION\nWith but a touch, the thaumaturge causes her opponent's muscles to contract involuntarily, reducing her to twitchingfits.This effect isextremely disconcert ing to the subject, rendering the affected limb unusable.\nSystem: By making physical contact with one of the limbs of the target, the thaumaturge renders it useless for the duration of Contortion. Targeting rules (see Vampire: The Masquerade, page 209) apply for selecting a specific extremity, should contact not be guaranteed. A leg rendered useless may make it difficult to remain standing. A contorted arm hangs lifeless at the subject's side. A useless head causes loss of speech and increases the difficulty of all Social rolls by three as the facial muscles spasm out of control.\nThe thaumaturge can affect himself, causing his muscles tighten like a vise. Each success increases the difficulty by one to break his grasp or hold. This is very useful during a bite or choke attack, making futile any attempt to flee, and may al",
+            "system_text": null
+        },
+        {
+            "power_id": 58,
+            "power_name": "Seizure",
+            "path_id": 12,
+            "path_name": "Mastery of the Mortal Shell",
+            "path_type": "Thaumaturgy",
+            "level": 3,
+            "book_title": "Blood Magic - Secrets of Thaumaturgy",
+            "page_number": 21,
+            "excerpt": "Keep in mind chat these are the traces left by the wars' losers. The victors' traces cake very different forms, if outsiders can see them at all. My sire located one intact haven by comparing diagrams of historical population growth to maps of the local geology and identifying a minor tributary of one of Poland's great rivers that should have had more settlement than it did. He surrounded himself with the best wards he could muster and walked toward the center of the anomaly. A sudden fit of seizures forced him to stop, or so goes his recounting. His head spasmed wildly for several min­ utes, vitae spewing from hisnose, which dislocated itself from the force of the fit. When he recovered, he discovered that the vitae drops, which he'd thought randomly spattered, spelled out a message in one of the rougher Cyrillic languages of our kind: \"Go. My home will never be home to another.\" Later, in the British Museum, I found in the letters of one of Peter the Great'sgenerals adescription of the same thing happen­ ing to a whole company of Russian soldiers. While he provided an excellent illustration of the blood-soaked\nThaumaturgy as a Discipline does not unite all forms of blood magic, of course. It is not given to usurpers to achieve the final consummation; great varia­ tions remain in the forms of blood magic practice. Thaumaturgy, as we Tremere define it, does gather in many of what had been scattered paths. It brings order to what had been chaotic, with knowable patterns of",
+            "system_text": null
+        },
+        {
+            "power_id": 59,
+            "power_name": "Body Failure",
+            "path_id": 12,
+            "path_name": "Mastery of the Mortal Shell",
+            "path_type": "Thaumaturgy",
+            "level": 4,
+            "book_title": "Blood Magic - Secrets of Thaumaturgy",
+            "page_number": 79,
+            "excerpt": "spasms rack him with agony. A mortal may even choke to death as her tongue cuts off her air supply.\nSystem: A light touch visits upon any target the very unpleasant effects of this power. For the duration of the seizure, a target's body writhes, tormenting him to the point of incapacitation. Victims suffer a four dice penalty to all actions. The victim also suffers one level of bashing damage every tum, though this damage is soakable, as her bodyhelplessly twists itself unnaturally.\n••••BODY FAILURE\nThaumaturges wielding this frightful power gain devastating insights into the workings of the body, allowing a complete shutdown of its systems. This sudden biological overload often proves fatal to mortals and damaging to other supernatural beings. Body Fail ure has been used throughout the ages to afflict victims in \"natural\" and inconspicuous ways. Many cases of \"fatal palsy\" and natural death may indeed be the result of a skilled thaumaturge.\nSystem: This power can affect any target the thaumaturge can see. A successful activation of this power grants effects similar to Seizure, except that damage is lethal (and thus not soakable by mortals) due to complete otgan failure. Additionally, the victim suffers a five dice penalty to all actions. Kindred are likewise affected by Body Failure, as their muscles spasm and brain activity becomes erratic. As Kindred, they may soak the damage this power inflicts on them.",
+            "system_text": null
+        },
+        {
+            "power_id": 60,
+            "power_name": "Marionette",
+            "path_id": 12,
+            "path_name": "Mastery of the Mortal Shell",
+            "path_type": "Thaumaturgy",
+            "level": 5,
+            "book_title": "Blood Magic - Secrets of Thaumaturgy",
+            "page_number": 80,
+            "excerpt": "• • • •\tMARIONETTE\nThe thaumaturge invoking Marionette gains such mastery over the body that he can magically seize control of another being and manipulate her actions to suit his own whims. Although this control is not as fine as the direct and personal command of the Dominate power of Possession, the thaumaturge's true body is not as vulnerable during the manipulation. Once estab lished, the Marionette victim is under the complete sway of the thaumaturge, forced to perform as the thaumaturge's macabre pawn. As Gepetto once moved Pinocchio's strings, so the thaumaturge bends his target to his will.\nSystem: The thaumaturge may affect any target within his line of sight and he must keep visual contact with the victim at all times to maintain this effect. A subject may resist the effectsof Marionette on a Stamina\n+ Fortitude roll (difficulty equal to the thaumaturge's Willpower) when the thaumaturge attempts to take control. Each success he gains on this roll reduces the duration of Marionette by one tum. Victims lacking Fortitude do not have the physical resistance to defy this effect.\nFor the duration of this power, the thaumaturge can cause the victim to perform any physical action. How, ever, due to the nature of this control, the difficulties of all the actions of the victim increase by two. The concentration this power requires also increases the thaumaturge's own difficulties by two for all actions undertaken while manipulating the victim. Another application of",
+            "system_text": null
+        },
+        {
+            "power_id": 36,
+            "power_name": "Force Bolt",
+            "path_id": 8,
+            "path_name": "Movement of the Mind",
+            "level": 1,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 37,
+            "power_name": "Manipulate",
+            "path_id": 8,
+            "path_name": "Movement of the Mind",
+            "path_type": "Thaumaturgy",
+            "level": 2,
+            "book_title": "Blood Magic - Secrets of Thaumaturgy",
+            "page_number": 18,
+            "excerpt": "Animals, plants and people no longer responded sosubmissively to commands, and even the magicians' havens became gradually unfamiliar places, thanks to their connection to the changed land.\nSomething unknown caused the premature death of many blood magicians in those years of folk-wander­ ing, which numerous secondary sources identify vaguely as \"the Ashrad\" and alternately, \"the Galli'.l.\". The only old-timers to survive were those who adapted as the circumstances required, or who managed to manipulate the changes so as to create a minimum of dislocation. Their less successful rivals also tried to make the migra­ tions intotools,stirring up battle frenzies and tampering with the landscape so as to shove migrating groups in the desired directions. It seldom worked. Yes, theslaugh­ ter spilled much blood, but a magician in suchdesperate circumstances makes more mistakes. At least some myths about the lands of the dead gained fresh power in the era of migrations, when the ground opened to swallow magicians who called on the wrong forces. Rivers and rains of blood marked their passing. Younger, more mentally agile competitors moved into now­ vacant havens and began laying the foundations for the age of magics to come.\nBLOOD MACK: SECRITS OFTHAllMATllliGY\nMAGICIAN<, WITH BREATH\nI have little to say about those who practice magic while still alive. I wasn't one such in life myself {for the Church condemns such), nor was mysire.What they do bears very little relevance to what",
+            "system_text": null
+        },
+        {
+            "power_id": 38,
+            "power_name": "Flight",
+            "path_id": 8,
+            "path_name": "Movement of the Mind",
+            "path_type": "Thaumaturgy",
+            "level": 3,
+            "book_title": "Blood Magic - Secrets of Thaumaturgy",
+            "page_number": 91,
+            "excerpt": "f intoxica­ tion, as a character's Nature may dictate actions. Some might stand very still and glassy-eyed, while others might choose to engage in conjugal relations with the people around them (gender notwithstanding). This power lasts for one scene.\n• • •\tENTHOUSlASM6S\nA thyrsus may exude a pheromone into the air all about her person. Those affected fall into a druglike stupor as the empathogenic toxin induces visions of all sorts of ephemeral creatures: fauns chasing nymphs, angels in flight, sprites dancing in the comers of one's eyes, and the like. The pheromone induces a happiness within the affected targets, who are likely to dance around in glee to fictitious music with make­ believe creatures.\nSystem: A thaumaturge successfully invoking this affects any target within a 10-foot radius of herself. Victims suffer a two-dice penalty to all Dexterity and Intelligence dice pools for one scene. Furthermore, victims under the effects of Enthousiasm6s are passive, content to while away their time in the euphoric haze. Anyone wishing to take any action must spend a point of Willpower to shrug off its effects for a tum.\n• • • • OrnosAIMATOS\nMany thaumaturges suspect that this power is not the original apex of this path, but rather a variation suited to a Dionysian cult headed by a vampire passing himself off as an incarnation of the god. When the thyrsus invokes this power, her blood cakes on the properties of potentoinos. Whether this was intended as a deterren",
+            "system_text": null
+        },
+        {
+            "power_id": 39,
+            "power_name": "Snare",
+            "path_id": 8,
+            "path_name": "Movement of the Mind",
+            "level": 4,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 40,
+            "power_name": "Major Manipulation",
+            "path_id": 8,
+            "path_name": "Movement of the Mind",
+            "level": 5,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 61,
+            "power_name": "Eyes of the Sea",
+            "path_id": 13,
+            "path_name": "Neptune’s Might",
+            "level": 1,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 62,
+            "power_name": "Prison of Water",
+            "path_id": 13,
+            "path_name": "Neptune’s Might",
+            "level": 2,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 63,
+            "power_name": "Blood to Water",
+            "path_id": 13,
+            "path_name": "Neptune’s Might",
+            "path_type": "Thaumaturgy",
+            "level": 3,
+            "book_title": "Blood Magic - Secrets of Thaumaturgy",
+            "page_number": 94,
+            "excerpt": "THI WAYS Of MAGIC\nOpTIONAL Ruu : BLOOD L0'55\nThaumaturges have ways of draining the pre­ cious vitae from their victims, causing extreme debility. Whether the blood is taken with Theft of Vitae or destroyed by Blood to Water, the effect is the same -\tblood loss. In addition to any normal effectsfrom the power causing by the blood loss, the following may apply at the Storyteller's discretion. Mortals suffer one health level of unsoakable bashing damage for each blood point lost. Blood\nloss merely causes Kindred to lose blood points from their blood pool. Kindred do not suffer any other effects, though blood loss may indirectly lead to frenzy, should a Kindred lose enough to make her ravenously hungry....\nRITUALSOF THAUMATURGY\nThe most awesome aspect of Thaumaturgy is its\nversatility. Given enough time co research a new ritual, a thaumaturge can surmount almost any obstacle - or create nearlyanyeffect. Indeed, should the thaumaturge sowish, she would theoretically be able to duplicate the effects of any other Discipline, or devise some ritual manner of countering chem. And that's just a start, as Thaumaturgy can generate an infinite number of other effects as well....\nAlthough such versatility gives the Tremere a great advantage over the other clans, these powers are lim• ited. The main differences between the powers of a chaumacurgical path (or any ocher Discipline power) and ritual magic are the times of preparation and execution between the powers. While Discipline pow•",
+            "system_text": null
+        },
+        {
+            "power_id": 64,
+            "power_name": "Flowing Wall",
+            "path_id": 13,
+            "path_name": "Neptune’s Might",
+            "level": 4,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 65,
+            "power_name": "Dehydrate",
+            "path_id": 13,
+            "path_name": "Neptune’s Might",
+            "path_type": "Thaumaturgy",
+            "level": 5,
+            "book_title": "Blood Magic - Secrets of Thaumaturgy",
+            "page_number": 156,
+            "excerpt": "physically touching the Gates of Magma suffers three health levels (not dice) of aggravated damage.\n••••HEATWAVE\nThekoldun acts as a conduit for steam geysers and evokes a blast of dehydrating air, withering and desic­ cating an opponent.\nSystem: The player spends a Willpower point and rolls Manipulation + Koldunism (difficulty 8). The vampire calls up hydrogen sulfide from the Earth's mantle and blasts a target. Mortal victims suffer five health levels oflethal damage as their bodies dehydrate. Vampires react similarly and also suffer five health levels of lethal damage, which they may soak. Kindred also lose five blood points that evaporate from the body (regardless of their soak roll), resulting from the ex­ treme heat of this gas. Note that this may send some Kindred into frenzy or torpor.",
+            "system_text": null
+        },
+        {
+            "power_id": 76,
+            "power_name": "Summon the Simplest Form",
+            "path_id": 16,
+            "path_name": "Path of Conjuring",
+            "level": 1,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 77,
+            "power_name": "Permanency",
+            "path_id": 16,
+            "path_name": "Path of Conjuring",
+            "level": 2,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 78,
+            "power_name": "Magic of the Smith",
+            "path_id": 16,
+            "path_name": "Path of Conjuring",
+            "level": 3,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 79,
+            "power_name": "Reverse Conjuration",
+            "path_id": 16,
+            "path_name": "Path of Conjuring",
+            "level": 4,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 80,
+            "power_name": "Power Over Life",
+            "path_id": 16,
+            "path_name": "Path of Conjuring",
+            "level": 5,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 66,
+            "power_name": "Equipment Fault",
+            "path_id": 14,
+            "path_name": "Path of Technomancy",
+            "level": 1,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 67,
+            "power_name": "Remote Control",
+            "path_id": 14,
+            "path_name": "Path of Technomancy",
+            "level": 2,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 68,
+            "power_name": "Encrypt\/Decrypt",
+            "path_id": 14,
+            "path_name": "Path of Technomancy",
+            "level": 3,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 69,
+            "power_name": "Remote Access",
+            "path_id": 14,
+            "path_name": "Path of Technomancy",
+            "level": 4,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 70,
+            "power_name": "Telecommute",
+            "path_id": 14,
+            "path_name": "Path of Technomancy",
+            "level": 5,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 46,
+            "power_name": "Readiness",
+            "path_id": 10,
+            "path_name": "Path of the Focused Mind",
+            "path_type": "Thaumaturgy",
+            "level": 1,
+            "book_title": "Blood Magic - Secrets of Thaumaturgy",
+            "page_number": 48,
+            "excerpt": "s and other complicated mathematical methods to great effect. Furthermore, Kabbalistic research benefits greatly from advances in computer technology, allowing numerologists to derive permutations and factorials of a given word's value almost instantly. The formulae still must be inscribed to be effective, but no longer are weeks or even years of calculations necessary to determine a value's potential. Scary. If there really was a world­ wide Jewish conspiracy, everyone would be introuble. The readiness with which Kabbalists employ computers in their research has raised eyebrows among conservative elders and regents, who view such as a dangerously small step from the blasphemy\nof the path of Technomancy.\nV 00D00 ANDSANTERIA\nVoodoo and Santeria are both relatively young traditions; neither current form is more than 500 years old. Both developed among slaves in the Car­ ibbean from an eclectic mix of African religions, folk magic and a smattering of Catholicism thrown in to pacify the then dominant European cultures. Al­ though the two traditions differ in terminology, in practice they share the same form and methods. In spite of the potential represented by these recent additions to the practice of magic, neither has re­ ceived much attention from the mainstream chantries.\nA few thaumaturges in the southeastern U.S. and Caribbean follow the tradition of Voodoo, and a smattering of Warlocks in New York, Florida, Cuba and Mexico dabble in Santeria. Other than those, almost n",
+            "system_text": null
+        },
+        {
+            "power_id": 47,
+            "power_name": "Centering",
+            "path_id": 10,
+            "path_name": "Path of the Focused Mind",
+            "path_type": "Thaumaturgy",
+            "level": 2,
+            "book_title": "Blood Magic - Secrets of Thaumaturgy",
+            "page_number": 76,
+            "excerpt": "••CeNTERING\nBy invoking this power, the thaumaturge causes a sudden, intense calmness in the subject by whispering\n'  ·...\t•'\nTHEWAYSorMACK\nsoothing words to her. While under this serenity, the target is able to better focus on casks at hand, ignoring distractions andannoyances, including grave bodilyharm.\nMagi in fear of frenzy often use this power on themselves to achieve a state of tranquility, asemotions are stifled.\nSystem: This power is usable on any subject within earshot of the thaumaturge and lasts for one tum per success on the activation roll. During this period the target is unaffected by any effect that reduces his dice pools.This includes wound penalties, situational modi­ fiersand Disciplines. Modifications to difficulty numbers still apply during this time, however.\nIn addition, due to the unnatural serenity that this power bestows, the target receives two additional dice in all attempts to avoid or break frenzy. Lupines may even be calmed from their murderous rampages iffive or more successes are scored on the activation roll.\n•••  ONe-TRAcHeoMINo\nBy extending his powers to other individuals, the thaumaturge is able to fixate the subject on one action. This single-mindedness of the target is such that they ignore everything else that occurs around them.Guards are easily distracted with this power, as their attention becomes fixated elsewhere, and research becomes a dedicated, focused cask. Use of this power is sometimes colloquially referred to",
+            "system_text": null
+        },
+        {
+            "power_id": 48,
+            "power_name": "One-Track Mind",
+            "path_id": 10,
+            "path_name": "Path of the Focused Mind",
+            "level": 3,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 49,
+            "power_name": "Dual Thought",
+            "path_id": 10,
+            "path_name": "Path of the Focused Mind",
+            "path_type": "Thaumaturgy",
+            "level": 4,
+            "book_title": "Blood Magic - Secrets of Thaumaturgy",
+            "page_number": 76,
+            "excerpt": "dice poolsfor extraactions and unable to change tactics after actions have been de­ clared. As a side benefit, reduce the difficulty of the action by one. Additional actions that the victim takes (from Celerity, for example) during the duration of this\npowet muse follow their initial action, as they concen­ trate wholly upon chis one idea. The duration of One-Tracked Mind is one scene if used outside of combat, otherwise it is reduced to one tum per success on the activation roll.\n••••DUAL THOUGHT\nWith the rigors of concentration required to learn Thaumaturgy, many Tremere are able to take quickand complete control of a situation. With this power, the thaumaturge is able to divide his attention to two completely separate tasks without problems. As One­ Tracked Mind forces the subject's attention into a single objective, Dual Thought expands the thaumaturge's concentration to the point that focus upon two goals is possible.\nSystem: Successful use of Dual Thought allows the caster to cake an extra action during his tum. Thi.s is\nrestricted to mental actions, be it the use of Disciplines such as the use of Auspex or Thaumaturgy, or the contemplation of some problem. If the character is using both actions to solve a problem, he has two separate dice pools to draw from. These two actions happen at the same time, asdetermined by the initiative rating of the character.\n••••• PERFECT CLARITY\nPerfect Clarity brings about a Zenlike moment of unimpeded insight for t",
+            "system_text": null
+        },
+        {
+            "power_id": 50,
+            "power_name": "Perfect Clarity",
+            "path_id": 10,
+            "path_name": "Path of the Focused Mind",
+            "path_type": "Thaumaturgy",
+            "level": 5,
+            "book_title": "Blood Magic - Secrets of Thaumaturgy",
+            "page_number": 76,
+            "excerpt": "t focus upon two goals is possible.\nSystem: Successful use of Dual Thought allows the caster to cake an extra action during his tum. Thi.s is\nrestricted to mental actions, be it the use of Disciplines such as the use of Auspex or Thaumaturgy, or the contemplation of some problem. If the character is using both actions to solve a problem, he has two separate dice pools to draw from. These two actions happen at the same time, asdetermined by the initiative rating of the character.\n••••• PERFECT CLARITY\nPerfect Clarity brings about a Zenlike moment of unimpeded insight for the thaumaturge. Pure focus is achieved, thought and action become one, and com­ plete serenity of mind descends upon the Kindred magus. This lucidity protects the thaumaturge from influences both internal and external; even the Beast within i.s unable to rage forth.",
+            "system_text": null
+        },
+        {
+            "power_id": 71,
+            "power_name": "Hermetic Sight",
+            "path_id": 15,
+            "path_name": "Spirit Manipulation",
+            "level": 1,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 72,
+            "power_name": "Astral Cant",
+            "path_id": 15,
+            "path_name": "Spirit Manipulation",
+            "level": 2,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 73,
+            "power_name": "Voice of Command",
+            "path_id": 15,
+            "path_name": "Spirit Manipulation",
+            "level": 3,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 74,
+            "power_name": "Entrap Ephemera",
+            "path_id": 15,
+            "path_name": "Spirit Manipulation",
+            "level": 4,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 75,
+            "power_name": "Duality",
+            "path_id": 15,
+            "path_name": "Spirit Manipulation",
+            "level": 5,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 41,
+            "power_name": "Hand of Flame",
+            "path_id": 9,
+            "path_name": "The Lure of Flames",
+            "level": 1,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 42,
+            "power_name": "Flamebolt",
+            "path_id": 9,
+            "path_name": "The Lure of Flames",
+            "level": 2,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 43,
+            "power_name": "Engulf",
+            "path_id": 9,
+            "path_name": "The Lure of Flames",
+            "level": 3,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 44,
+            "power_name": "Wall of Flame",
+            "path_id": 9,
+            "path_name": "The Lure of Flames",
+            "level": 4,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 45,
+            "power_name": "Firestorm",
+            "path_id": 9,
+            "path_name": "The Lure of Flames",
+            "level": 5,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 31,
+            "power_name": "A Taste for Blood",
+            "path_id": 7,
+            "path_name": "The Path of Blood",
+            "level": 1,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 32,
+            "power_name": "Blood Rage",
+            "path_id": 7,
+            "path_name": "The Path of Blood",
+            "level": 2,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 33,
+            "power_name": "Blood of Potency",
+            "path_id": 7,
+            "path_name": "The Path of Blood",
+            "level": 3,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 34,
+            "power_name": "Theft of Vitae",
+            "path_id": 7,
+            "path_name": "The Path of Blood",
+            "path_type": "Thaumaturgy",
+            "level": 4,
+            "book_title": "Blood Magic - Secrets of Thaumaturgy",
+            "page_number": 94,
+            "excerpt": "THI WAYS Of MAGIC\nOpTIONAL Ruu : BLOOD L0'55\nThaumaturges have ways of draining the pre­ cious vitae from their victims, causing extreme debility. Whether the blood is taken with Theft of Vitae or destroyed by Blood to Water, the effect is the same -\tblood loss. In addition to any normal effectsfrom the power causing by the blood loss, the following may apply at the Storyteller's discretion. Mortals suffer one health level of unsoakable bashing damage for each blood point lost. Blood\nloss merely causes Kindred to lose blood points from their blood pool. Kindred do not suffer any other effects, though blood loss may indirectly lead to frenzy, should a Kindred lose enough to make her ravenously hungry....\nRITUALSOF THAUMATURGY\nThe most awesome aspect of Thaumaturgy is its\nversatility. Given enough time co research a new ritual, a thaumaturge can surmount almost any obstacle - or create nearlyanyeffect. Indeed, should the thaumaturge sowish, she would theoretically be able to duplicate the effects of any other Discipline, or devise some ritual manner of countering chem. And that's just a start, as Thaumaturgy can generate an infinite number of other effects as well....\nAlthough such versatility gives the Tremere a great advantage over the other clans, these powers are lim• ited. The main differences between the powers of a chaumacurgical path (or any ocher Discipline power) and ritual magic are the times of preparation and execution between the powers. While Discipline pow•",
+            "system_text": null
+        },
+        {
+            "power_id": 35,
+            "power_name": "Cauldron of Blood",
+            "path_id": 7,
+            "path_name": "The Path of Blood",
+            "level": 5,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 51,
+            "power_name": "Cloak of Fog",
+            "path_id": 11,
+            "path_name": "Weather Control",
+            "level": 1,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 52,
+            "power_name": "Downpour",
+            "path_id": 11,
+            "path_name": "Weather Control",
+            "level": 2,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        },
+        {
+            "power_id": 53,
+            "power_name": "Gale",
+            "path_id": 11,
+            "path_name": "Weather Control",
+            "path_type": "Thaumaturgy",
+            "level": 3,
+            "book_title": "Blood Magic - Secrets of Thaumaturgy",
+            "page_number": 125,
+            "excerpt": ". He pro­ ceeded from there to poke holes in her plan co protect herself from the assassin, planting fresh doubts about allies she'd until then trusted completely. Before de­ parting, he Informed her that she was doomed, that her plans if completed would bring her more misery than sorrow itself, and that he would possess her completely one night -even though he had no particular desire to doso.\nIf an annoyed victim of a visitation tries to attack\nthe Baron, he vanishes, leaving behind echoing gales of victorious laughter. If he thinks his target hasn't been unsettled enough yet, he immediately rematerializes,\nlaughing, elsewhere in the room.\nWhen appearing uninvited, Baron Samedi does not possess the houngan. It's too hard to hold a conver­ sation that way. He manifests himself as an apparition, altering his appearance at whim. He always appears as an impressive-lookingblack man. He usually chooses to look about six feet tall, but may on occasion show up as\na dwarf. The Baron may be bald or elaborately coiffed; his face may be shaven, bearded or decorated with a gigantic handlebar moustache. He always appears in\ngrand clothing. He may deck himself out as a 16th­ century pirate, sporting a black velvet topcoat, frilly cuffs, an array of looted medals and other military decorations, and a wide-brimmed hat with a 10-inch crown; an insinuatingly friendly, painted skull and crossbones appears on the front of the crown. As whim strikes him, he may adopt the face paint and loinc",
+            "system_text": null
+        },
+        {
+            "power_id": 54,
+            "power_name": "Tempest",
+            "path_id": 11,
+            "path_name": "Weather Control",
+            "path_type": "Thaumaturgy",
+            "level": 4,
+            "book_title": "Blood Magic - Secrets of Thaumaturgy",
+            "page_number": 128,
+            "excerpt": "TheBaron's initiates use the same paths as Western necromancers, but perceive the underlying cosmology differently. The houngan doesn't meet spirits from the underworld of Western tradition. He finds loas in the temporary underwater resting place of the freshly dead, the mortal world, where restless spirits lurk or from the funereal jars where dwell the benign ancestral spirits called loa-racines. The spirits themselves believe they are in a storm or sea, sometimes calling their watery limbo a tempest. In some instances, houngans face different limitations or risks when using the paths. If a power goes unmentioned here, the houngan use it with­ out significant modification.\n5EpULCHRE PATH\n5uMMON50uL\nVoudoun believers whose souls go to the under­ world, or are destroyed or lost, cannot be summoned. Loa-racines more easily resist summoning; add two to the difficulty of attempts against them.\nHAUNTING\nAgain, increase the difficulty of using this power when a loa-racine is its subject.\nBONE PATH\n5ouL 5H'ALING\nHounganssometimes call this\"Make Living Zombie.\"\nDAEMONIC pos\",ESSION\nHoungans refer to this effect as \"Make Zombie.\"\nAsHPATH\nEHNIHILO\nKnown by the houngans as \"Visit the Dead,\" this power allows the necromancer to travel to the underwa­ ter holding area where the freshly dead wait to be called back to land as loa-racines. To reach this place, the practitioner must physically travel across a body of water and slip beneath the surface. The journey takes about six hours. C",
+            "system_text": null
+        },
+        {
+            "power_id": 55,
+            "power_name": "Call Lightning",
+            "path_id": 11,
+            "path_name": "Weather Control",
+            "level": 5,
+            "status": "not_found",
+            "note": "Needs manual research or extraction from reference files"
+        }
+    ],
+    "timestamp": "2025-12-18 22:54:47"
+}

@@ -1,0 +1,17 @@
+{
+  "enabled": true,
+  "rules": {
+    "enabled": true,
+    "default_limit": 10,
+    "cache_enabled": false
+  },
+  "rituals": {
+    "default_limit": 100,
+    "default_offset": 0
+  },
+  "logging": {
+    "enabled": true,
+    "level": "info"
+  }
+}
+
