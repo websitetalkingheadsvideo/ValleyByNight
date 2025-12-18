@@ -900,8 +900,18 @@ if ($script_dir === '/') {
                 merits.forEach(m => {
                     let badge = m.name + ' (' + m.point_value + ')';
                     if (m.xp_bonus) badge += ' [XP Bonus: ' + m.xp_bonus + ']';
+                    const category = (m.category || '').toLowerCase().trim();
+                    let categoryClass = '';
+                    if (category && category.includes('physical')) {
+                        categoryClass = ' trait-badge-physical';
+                    } else if (category && category.includes('social')) {
+                        categoryClass = ' trait-badge-social';
+                    } else if (category && category.includes('mental')) {
+                        categoryClass = ' trait-badge-mental';
+                    }
+                    const badgeHtml = '<span class="trait-badge' + categoryClass + '">' + badge.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;') + '</span>';
                     contentHtml += '<div class="merit-flaw-item">';
-                    contentHtml += '<span class="trait-badge">' + badge.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;') + '</span>';
+                    contentHtml += badgeHtml;
                     if (m.category) contentHtml += '<span class="item-category">' + m.category.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;') + '</span>';
                     if (m.description) {
                         const descEscaped = m.description.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&#039;');
@@ -918,8 +928,18 @@ if ($script_dir === '/') {
                 flaws.forEach(f => {
                     let badge = f.name + ' (' + f.point_value + ')';
                     if (f.xp_bonus) badge += ' [XP Bonus: ' + f.xp_bonus + ']';
+                    const category = (f.category || '').toLowerCase().trim();
+                    let categoryClass = '';
+                    if (category && category.includes('physical')) {
+                        categoryClass = ' trait-badge-physical';
+                    } else if (category && category.includes('social')) {
+                        categoryClass = ' trait-badge-social';
+                    } else if (category && category.includes('mental')) {
+                        categoryClass = ' trait-badge-mental';
+                    }
+                    const badgeHtml = '<span class="trait-badge' + categoryClass + '">' + badge.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;') + '</span>';
                     contentHtml += '<div class="merit-flaw-item">';
-                    contentHtml += '<span class="trait-badge">' + badge.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;') + '</span>';
+                    contentHtml += badgeHtml;
                     if (f.category) contentHtml += '<span class="item-category">' + f.category.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;') + '</span>';
                     if (f.description) {
                         const descEscaped = f.description.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&#039;');
@@ -1121,6 +1141,19 @@ if ($script_dir === '/') {
         if (contentEl) {
             contentEl.innerHTML = contentHtml;
             contentEl.setAttribute('aria-busy', 'false');
+            
+            // Add category classes to item-category spans
+            const itemCategories = contentEl.querySelectorAll('.item-category');
+            itemCategories.forEach(catSpan => {
+                const category = (catSpan.textContent || '').toLowerCase().trim();
+                if (category.includes('physical')) {
+                    catSpan.classList.add('trait-badge-physical');
+                } else if (category.includes('social')) {
+                    catSpan.classList.add('trait-badge-social');
+                } else if (category.includes('mental')) {
+                    catSpan.classList.add('trait-badge-mental');
+                }
+            });
         }
     }
 })();

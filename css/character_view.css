@@ -254,11 +254,6 @@
 .view-content .merit-flaw-item {
     margin-bottom: 15px;
     padding-bottom: 15px;
-    border-bottom: 1px solid rgba(139, 0, 0, 0.2);
-}
-
-.view-content .merit-flaw-item:last-child {
-    border-bottom: none;
 }
 
 .view-content .item-category {
@@ -275,8 +270,7 @@
     font-size: 0.9em;
     color: #b8a090;
     line-height: 1.5;
-    padding-left: 10px;
-    border-left: 2px solid rgba(139, 0, 0, 0.3);
+    padding-left: 0;
 }
 
 .view-content .empty-state {
@@ -330,6 +324,49 @@
     background: rgba(139, 0, 0, 0.4);
     border-color: rgba(139, 0, 0, 0.7);
     transform: translateY(-1px);
+}
+
+/* Category-based colors for item-category spans - oval with border */
+.view-content .item-category.trait-badge-physical {
+    background: rgba(139, 69, 19, 0.3) !important; /* Brown/rust for Physical */
+    border: 1px solid rgba(139, 69, 19, 0.6) !important;
+    border-radius: 50px !important;
+    padding: 4px 12px !important;
+    display: inline-block !important;
+    float: right !important;
+}
+
+.view-content .item-category.trait-badge-physical:hover {
+    background: rgba(139, 69, 19, 0.5) !important;
+    border-color: rgba(139, 69, 19, 0.8) !important;
+}
+
+.view-content .item-category.trait-badge-social {
+    background: rgba(139, 0, 139, 0.25) !important; /* Purple/magenta for Social */
+    border: 1px solid rgba(139, 0, 139, 0.5) !important;
+    border-radius: 50px !important;
+    padding: 4px 12px !important;
+    display: inline-block !important;
+    float: right !important;
+}
+
+.view-content .item-category.trait-badge-social:hover {
+    background: rgba(139, 0, 139, 0.4) !important;
+    border-color: rgba(139, 0, 139, 0.7) !important;
+}
+
+.view-content .item-category.trait-badge-mental {
+    background: rgba(0, 100, 139, 0.25) !important; /* Blue/cyan for Mental */
+    border: 1px solid rgba(0, 100, 139, 0.5) !important;
+    border-radius: 50px !important;
+    padding: 4px 12px !important;
+    display: inline-block !important;
+    float: right !important;
+}
+
+.view-content .item-category.trait-badge-mental:hover {
+    background: rgba(0, 100, 139, 0.4) !important;
+    border-color: rgba(0, 100, 139, 0.7) !important;
 }
 
 .view-content .discipline-item {

@@ -1,9 +1,9 @@
 # Version History
 
-## Current Version: 0.8.45
+## Current Version: 0.8.46
 
 **Date:** 2025-01-30  
-**Type:** Patch (Fixed all broken links - created 12 missing API endpoints)
+**Type:** Patch (Moved embedded CSS to external files, removed borders from merit/flaw items)
 
 ## Previous Version: 0.8.44
 

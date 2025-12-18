@@ -930,6 +930,8 @@ function getJsonFiles(string $directory): array {
     return $files;
 }
 
+// Main execution - only run if not being included as a library
+if (!defined('IMPORT_CHARACTERS_AS_LIBRARY')) {
 // Main execution
 $characters_dir = __DIR__ . '/../reference/Characters';
 $files_to_import = [];
@@ -1024,5 +1026,6 @@ if (!$is_cli) {
 }
 
 mysqli_close($conn);
+} // End of main execution check
 ?>
 
