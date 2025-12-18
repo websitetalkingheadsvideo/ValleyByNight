@@ -1,0 +1,241 @@
+{
+    "agent_name": "rituals_agent",
+    "purpose": "Answer questions about rituals by combining (a) ritual definitions from rituals_master, (b) character-known rituals from character_rituals, and (c) general ritual rules/constraints from the Rules database.",
+    "data_sources": {
+      "primary": [
+        {
+          "name": "rituals_master",
+          "role": "Canonical ritual definitions (what a ritual is).",
+          "required_fields": [
+            "id",
+            "name",
+            "type",
+            "level",
+            "description",
+            "system_text",
+            "requirements",
+            "ingredients",
+            "source"
+          ],
+          "notes": "Unique key is (type, level, name). If you later add a slug column, use slug as the stable lookup key."
+        },
+        {
+          "name": "character_rituals",
+          "role": "Character state (what a character knows).",
+          "required_fields": [
+            "character_id"
+          ],
+          "recommended_fields": [
+            "ritual_id",
+            "ritual_name",
+            "ritual_type",
+            "level",
+            "notes",
+            "is_custom"
+          ],
+          "notes": "Prefer ritual_id FK to rituals_master.id. If ritual_id is missing, fall back to (ritual_name, ritual_type, level) matching."
+        }
+      ],
+      "secondary": [
+        {
+          "name": "rules_db",
+          "role": "General rules about rituals (learning, casting constraints, costs, limits, clarifications).",
+          "required_capability": [
+            "search_rule_text",
+            "fetch_rule_by_id"
+          ],
+          "query_tags": [
+            "ritual",
+            "rituals",
+            "thaumaturgy",
+            "necromancy",
+            "blood magic",
+            "casting",
+            "components",
+            "ingredients",
+            "teaching",
+            "learning"
+          ],
+          "notes": "Do not duplicate global rules into rituals_master rows; attach relevant rule snippets at response time."
+        }
+      ]
+    },
+    "contract": {
+      "functions": [
+        {
+          "name": "get_ritual",
+          "description": "Fetch a single ritual by stable key and return canonical definition plus relevant global rules.",
+          "inputs": {
+            "lookup": {
+              "type": "object",
+              "required": [],
+              "properties": {
+                "ritual_id": { "type": "integer", "description": "Preferred lookup." },
+                "type": { "type": "string", "description": "Tradition, e.g., Thaumaturgy/Necromancy/Assamite." },
+                "level": { "type": "integer", "description": "Rank/level." },
+                "name": { "type": "string", "description": "Ritual name." }
+              }
+            },
+            "include_rules": { "type": "boolean", "default": true },
+            "rules_scope": {
+              "type": "string",
+              "enum": ["global", "type", "both", "none"],
+              "default": "both"
+            }
+          },
+          "outputs": {
+            "type": "object",
+            "properties": {
+              "ritual": { "type": "object" },
+              "attached_rules": { "type": "array" },
+              "resolution_notes": { "type": "array" }
+            }
+          },
+          "sql_examples": [
+            "SELECT * FROM rituals_master WHERE id = ?;",
+            "SELECT * FROM rituals_master WHERE type = ? AND level = ? AND name = ?;"
+          ],
+          "rules_query_examples": [
+            "search rules_db for: \"ritual casting\" + type",
+            "search rules_db for: \"learning rituals\" + type",
+            "search rules_db for: ritual name + \"ritual\" (only if needed)"
+          ]
+        },
+        {
+          "name": "list_rituals",
+          "description": "List rituals with filters, used for browsing and UI lists.",
+          "inputs": {
+            "filters": {
+              "type": "object",
+              "properties": {
+                "type": { "type": "string" },
+                "level_min": { "type": "integer" },
+                "level_max": { "type": "integer" },
+                "name_contains": { "type": "string" },
+                "ingredient_contains": { "type": "string" },
+                "requirement_contains": { "type": "string" },
+                "source_contains": { "type": "string" }
+              }
+            },
+            "limit": { "type": "integer", "default": 100 },
+            "offset": { "type": "integer", "default": 0 }
+          },
+          "outputs": {
+            "type": "object",
+            "properties": {
+              "count": { "type": "integer" },
+              "rituals": { "type": "array" }
+            }
+          },
+          "sql_examples": [
+            "SELECT id, name, type, level, description, source FROM rituals_master WHERE type = ? AND level BETWEEN ? AND ? ORDER BY level, name LIMIT ? OFFSET ?;",
+            "SELECT id, name, type, level, description FROM rituals_master WHERE ingredients LIKE CONCAT('%', ?, '%') ORDER BY type, level, name LIMIT ? OFFSET ?;"
+          ]
+        },
+        {
+          "name": "get_character_rituals",
+          "description": "Return what a character knows, joined to the canonical ritual definitions.",
+          "inputs": {
+            "character_id": { "type": "integer" },
+            "include_rules": { "type": "boolean", "default": false },
+            "rules_scope": {
+              "type": "string",
+              "enum": ["global", "type", "both", "none"],
+              "default": "type"
+            }
+          },
+          "outputs": {
+            "type": "object",
+            "properties": {
+              "character_id": { "type": "integer" },
+              "rituals": { "type": "array" },
+              "attached_rules": { "type": "array" }
+            }
+          },
+          "sql_examples": [
+            "SELECT cr.character_id, rm.* FROM character_rituals cr JOIN rituals_master rm ON rm.id = cr.ritual_id WHERE cr.character_id = ? ORDER BY rm.type, rm.level, rm.name;",
+            "SELECT cr.character_id, rm.* FROM character_rituals cr JOIN rituals_master rm ON rm.type = cr.ritual_type AND rm.level = cr.level AND rm.name = cr.ritual_name WHERE cr.character_id = ? ORDER BY rm.type, rm.level, rm.name;"
+          ],
+          "rules_query_examples": [
+            "If include_rules=true, attach rules for each involved ritual type (unique types) plus any global ritual rules."
+          ]
+        },
+        {
+          "name": "get_ritual_rules",
+          "description": "Retrieve general rules about rituals from the Rules database, optionally scoped to a tradition.",
+          "inputs": {
+            "scope": {
+              "type": "string",
+              "enum": ["global", "type", "both"],
+              "default": "both"
+            },
+            "type": {
+              "type": "string",
+              "description": "Tradition; required if scope includes 'type'."
+            }
+          },
+          "outputs": {
+            "type": "object",
+            "properties": {
+              "scope": { "type": "string" },
+              "rules": { "type": "array" }
+            }
+          },
+          "rules_query_examples": [
+            "global: search rules_db for \"ritual\" AND (\"learning\" OR \"casting\" OR \"components\" OR \"ingredients\")",
+            "type: search rules_db for type + (\"ritual\" OR \"rituals\" OR \"casting\" OR \"learning\")"
+          ]
+        },
+        {
+          "name": "can_character_cast_ritual",
+          "description": "Decision helper: check if character plausibly meets requirements to cast the ritual, using known character state + rules DB guidance. Returns 'unknown' if the system can't fully validate due to missing data.",
+          "inputs": {
+            "character_id": { "type": "integer" },
+            "ritual_lookup": {
+              "type": "object",
+              "properties": {
+                "ritual_id": { "type": "integer" },
+                "type": { "type": "string" },
+                "level": { "type": "integer" },
+                "name": { "type": "string" }
+              }
+            }
+          },
+          "outputs": {
+            "type": "object",
+            "properties": {
+              "result": { "type": "string", "enum": ["yes", "no", "unknown"] },
+              "reasons": { "type": "array" },
+              "missing_data": { "type": "array" },
+              "rules_citations": { "type": "array" }
+            }
+          },
+          "behavior_notes": [
+            "If character does not know the ritual (not in character_rituals), result=no.",
+            "If ritual requirements mention prerequisites not stored in DB (e.g., specific Path rating, mentors, special components), result=unknown with missing_data listed.",
+            "Attach relevant rules_db items explaining how prerequisites work."
+          ]
+        }
+      ]
+    },
+    "implementation_notes": {
+      "key_principles": [
+        "rituals_master is canonical definition; never store global casting rules in each ritual row.",
+        "character_rituals is character state; keep it minimal.",
+        "Rules DB is authoritative for general constraints and edge cases; attach rule snippets at runtime.",
+        "Prefer ritual_id foreign key joins; keep name/type/level fallback only for migration/backward compatibility."
+      ],
+      "ui_mapping": {
+        "browse": "list_rituals(filters)",
+        "detail": "get_ritual(lookup, include_rules=true)",
+        "character_sheet": "get_character_rituals(character_id, include_rules=false)",
+        "casting_help": "can_character_cast_ritual(character_id, ritual_lookup)"
+      },
+      "suggested_future_migrations": [
+        "Add rituals_master.slug VARCHAR(96) UNIQUE for stable lookups.",
+        "Add character_rituals.ritual_id FK and backfill; later deprecate ritual_name/ritual_type/level fields.",
+        "Optionally add FULLTEXT index on rituals_master (name, description, system_text, requirements, ingredients, source) for fast search."
+      ]
+    }
+  }
+  
