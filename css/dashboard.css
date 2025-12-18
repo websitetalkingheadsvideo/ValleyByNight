@@ -6,6 +6,12 @@
     padding: 30px 20px; 
 }
 
+/* Button Styles */
+.btn-questionnaire {
+    background: linear-gradient(135deg, #4B0082 0%, #2E0854 100%);
+    border-color: #4B0082;
+}
+
 /* Hero Section */
 .dashboard-hero { text-align: center; margin-bottom: 40px; height: 25vh; }
 .chronicle-tagline { background: linear-gradient(135deg, rgba(139, 0, 0, 0.2) 0%, rgba(26, 15, 15, 0.4) 100%); border-left: 4px solid #8B0000; border-right: 4px solid #8B0000; padding: 30px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5); }

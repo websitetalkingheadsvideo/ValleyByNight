@@ -90,7 +90,7 @@ function render_clan_badge(string $clan): string {
 
     $color = $palette[$key];
     return sprintf(
-        '<span class="clan-badge" style="background-color:%s;">%s</span>',
+        '<span class="clan-badge" style="--clan-badge-color:%s;background-color:var(--clan-badge-color);">%s</span>',
         $color,
         htmlspecialchars($name, ENT_QUOTES, 'UTF-8')
     );
@@ -204,7 +204,7 @@ function render_clan_badge(string $clan): string {
         $questionnaire_data = db_fetch_one($conn, "SELECT COUNT(*) as total_questions FROM questionnaire_questions");
         $questionnaire_count = $questionnaire_data ? (int)$questionnaire_data['total_questions'] : 0;
         ?>
-        <div class="card text-center" style="min-width: 100px;">
+        <div class="card text-center min-w-100px">
             <div class="card-body p-3">
                 <div class="vbn-stat-number"><?php echo $questionnaire_count; ?></div>
                 <div class="vbn-stat-label">Questions</div>
@@ -267,7 +267,7 @@ function render_clan_badge(string $clan): string {
                     <th data-sort="clan" class="text-center text-nowrap">Clan <span class="sort-icon">⇅</span></th>
                     <th data-sort="generation" class="text-center text-nowrap">Gen <span class="sort-icon">⇅</span></th>
                     <th data-sort="status" class="text-center text-nowrap">Status <span class="sort-icon">⇅</span></th>
-                    <th class="text-center text-nowrap" style="width: 150px;">Actions</th>
+                    <th class="text-center text-nowrap w-150px">Actions</th>
                 </tr>
             </thead>
             <tbody>
@@ -342,7 +342,7 @@ function render_clan_badge(string $clan): string {
                                 }
                             ?>
                         </td>
-                        <td class="actions text-center align-top" style="width: 150px;">
+                        <td class="actions text-center align-top w-150px">
                             <div class="btn-group btn-group-sm" role="group" aria-label="Character actions">
                                 <button class="action-btn view-btn btn btn-primary" 
                                         data-id="<?php echo $char['id']; ?>"
@@ -400,10 +400,10 @@ include __DIR__ . '/../includes/character_view_modal.php';
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
             </div>
-            <div class="modal-body p-0" style="overflow: hidden;">
+            <div class="modal-body p-0 modal-body-overflow-hidden">
                 <iframe id="editCharacterIframe" 
                         src="" 
-                        style="width: 100%; height: calc(100vh - 120px); border: none;"
+                        class="iframe-fullscreen"
                         title="Edit Character"></iframe>
             </div>
         </div>
@@ -514,7 +514,7 @@ include __DIR__ . '/../includes/modal_base.php';
             modalBody.innerHTML = `
                 <p class="vbn-modal-message">Delete character:</p>
                 <p class="vbn-modal-character-name" id="deleteCharacterName"></p>
-                <p class="vbn-modal-warning" id="deleteWarning" style="display:none;">
+                <p class="vbn-modal-warning hidden" id="deleteWarning">
                     ⚠️ <strong>Finalized character</strong> - all data will be lost!
                 </p>
             `;

@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.8.46
+## Current Version: 0.8.47
+
+**Date:** 2025-01-30  
+**Type:** Patch (CSS organization refactor and character trait badge styling)
+
+## Previous Version: 0.8.46
 
 **Date:** 2025-01-30  
 **Type:** Patch (Moved embedded CSS to external files, removed borders from merit/flaw items)

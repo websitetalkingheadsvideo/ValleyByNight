@@ -11,141 +11,10 @@ if (!isset($_SESSION['user_id'])) {
     exit();
 }
 
-// Include header
+// Include header with chat CSS
+$extra_css = ['css/chat.css'];
 include 'includes/header.php';
 ?>
-
-<style>
-        .chat-container {
-            max-width: 1400px;
-            margin: 0 auto;
-            padding: 30px 20px;
-        }
-        .chat-content {
-            padding: 20px;
-            min-height: 400px;
-        }
-        .chat-placeholder {
-            text-align: center;
-            color: #b8a090;
-            font-size: 18px;
-            margin-top: 100px;
-            padding: 40px;
-            background: rgba(26, 15, 15, 0.3);
-            border: 2px dashed rgba(139, 0, 0, 0.3);
-            border-radius: 8px;
-        }
-        .chat-placeholder h2 {
-            color: #f5e6d3;
-            font-family: var(--font-title), 'Libre Baskerville', serif;
-        }
-        .chat-placeholder ul {
-            color: #d4c4b0;
-        }
-        .character-selection {
-            margin-bottom: 30px;
-        }
-        .character-selection h3 {
-            font-family: var(--font-title), 'Libre Baskerville', serif;
-            color: #f5e6d3;
-            font-size: 1.6em;
-            margin-bottom: 20px;
-            padding-bottom: 10px;
-            border-bottom: 2px solid #8B0000;
-        }
-        .character-list {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-            gap: 20px;
-            margin: 20px 0;
-        }
-        .character-card {
-            background: linear-gradient(135deg, #2a1515 0%, #1a0f0f 100%);
-            border: 2px solid #8B0000;
-            border-radius: 8px;
-            padding: 20px;
-            cursor: pointer;
-            transition: all 0.3s;
-            box-shadow: 0 4px 15px rgba(139, 0, 0, 0.3);
-        }
-        .character-card:hover {
-            border-color: #b30000;
-            box-shadow: 0 6px 25px rgba(139, 0, 0, 0.5);
-            transform: translateY(-2px);
-        }
-        .character-card.selected {
-            border-color: #27ae60;
-            background: linear-gradient(135deg, #1a3a1a 0%, #0f1a0f 100%);
-            box-shadow: 0 6px 25px rgba(39, 174, 96, 0.5);
-        }
-        .character-name {
-            font-family: var(--font-title), 'Libre Baskerville', serif;
-            font-weight: bold;
-            font-size: 1.3em;
-            color: #f5e6d3;
-            margin-bottom: 10px;
-        }
-        .character-details {
-            font-family: var(--font-body), 'Source Serif Pro', serif;
-            font-size: 0.95em;
-            color: #d4c4b0;
-        }
-        .character-details span {
-            display: block;
-            margin: 5px 0;
-        }
-        .character-details strong {
-            color: #b8a090;
-        }
-        .selected-character {
-            background: linear-gradient(135deg, #1a3a1a 0%, #0f1a0f 100%);
-            border: 2px solid #27ae60;
-            border-radius: 8px;
-            padding: 20px;
-            margin: 20px 0;
-            box-shadow: 0 4px 15px rgba(39, 174, 96, 0.3);
-        }
-        .selected-character h4 {
-            font-family: var(--font-title), 'Libre Baskerville', serif;
-            color: #f5e6d3;
-            margin-bottom: 15px;
-        }
-        .character-info {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 15px;
-            margin-top: 10px;
-        }
-        .info-item {
-            background: rgba(26, 15, 15, 0.5);
-            padding: 12px;
-            border-radius: 5px;
-            font-size: 14px;
-            border: 1px solid rgba(139, 0, 0, 0.3);
-        }
-        .info-label {
-            font-family: var(--font-body), 'Source Serif Pro', serif;
-            font-weight: bold;
-            color: #b8a090;
-        }
-        .info-item div:not(.info-label) {
-            color: #d4c4b0;
-            margin-top: 5px;
-        }
-        .no-characters {
-            text-align: center;
-            color: #b8a090;
-            font-style: italic;
-            padding: 40px;
-            background: rgba(26, 15, 15, 0.3);
-            border: 2px dashed rgba(139, 0, 0, 0.3);
-            border-radius: 8px;
-        }
-        .no-characters a {
-            color: #8B0000;
-            text-decoration: underline;
-        }
-</style>
 
 <div class="chat-container">
     <h2 class="section-heading">💬 Chat Room</h2>
@@ -157,19 +26,19 @@ include 'includes/header.php';
                 <div class="character-list" id="characterList" role="status" aria-live="polite" aria-busy="true">
                     <p>Loading your characters...</p>
                 </div>
-                <div class="selected-character" id="selectedCharacter" role="status" aria-live="polite" style="display: none;">
+                <div class="selected-character hidden" id="selectedCharacter" role="status" aria-live="polite">
                     <h4>Selected Character:</h4>
                     <div class="character-info" id="characterInfo"></div>
                 </div>
             </div>
             
-            <div class="chat-interface" id="chatInterface" style="display: none;">
+            <div class="chat-interface hidden" id="chatInterface">
                 <div class="chat-placeholder">
                     <h2>Chat System</h2>
                     <p>Chat as: <span id="chatCharacterName"></span></p>
                     <p>This is a placeholder for the chat functionality.</p>
                     <p>Future features may include:</p>
-                    <ul style="text-align: left; display: inline-block;">
+                    <ul class="inline-list">
                         <li>Real-time messaging</li>
                         <li>Character roleplay channels</li>
                         <li>Game master communications</li>
@@ -263,7 +132,8 @@ include 'includes/header.php';
             
             if (selectedCharacter) {
                 // Show selected character info
-                document.getElementById('selectedCharacter').style.display = 'block';
+                const selectedEl = document.getElementById('selectedCharacter');
+                if (selectedEl) selectedEl.classList.remove('hidden');
                 document.getElementById('characterInfo').innerHTML = `
                     <div class="info-item">
                         <div class="info-label">Name:</div>
@@ -292,7 +162,8 @@ include 'includes/header.php';
                 `;
 
                 // Show chat interface
-                document.getElementById('chatInterface').style.display = 'block';
+                const chatInterface = document.getElementById('chatInterface');
+                if (chatInterface) chatInterface.classList.remove('hidden');
                 document.getElementById('chatCharacterName').textContent = selectedCharacter.character_name;
 
                 // Scroll to chat interface

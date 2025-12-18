@@ -327,44 +327,48 @@
 }
 
 /* Category-based colors for item-category spans - oval with border */
-.view-content .item-category.trait-badge-physical {
+/* Trait badge category styles - support both item-category and trait-badge classes */
+.view-content .item-category.trait-badge-physical,
+.view-content .trait-badge.trait-badge-physical {
     background: rgba(139, 69, 19, 0.3) !important; /* Brown/rust for Physical */
     border: 1px solid rgba(139, 69, 19, 0.6) !important;
     border-radius: 50px !important;
     padding: 4px 12px !important;
     display: inline-block !important;
-    float: right !important;
 }
 
-.view-content .item-category.trait-badge-physical:hover {
+.view-content .item-category.trait-badge-physical:hover,
+.view-content .trait-badge.trait-badge-physical:hover {
     background: rgba(139, 69, 19, 0.5) !important;
     border-color: rgba(139, 69, 19, 0.8) !important;
 }
 
-.view-content .item-category.trait-badge-social {
+.view-content .item-category.trait-badge-social,
+.view-content .trait-badge.trait-badge-social {
     background: rgba(139, 0, 139, 0.25) !important; /* Purple/magenta for Social */
     border: 1px solid rgba(139, 0, 139, 0.5) !important;
     border-radius: 50px !important;
     padding: 4px 12px !important;
     display: inline-block !important;
-    float: right !important;
 }
 
-.view-content .item-category.trait-badge-social:hover {
+.view-content .item-category.trait-badge-social:hover,
+.view-content .trait-badge.trait-badge-social:hover {
     background: rgba(139, 0, 139, 0.4) !important;
     border-color: rgba(139, 0, 139, 0.7) !important;
 }
 
-.view-content .item-category.trait-badge-mental {
+.view-content .item-category.trait-badge-mental,
+.view-content .trait-badge.trait-badge-mental {
     background: rgba(0, 100, 139, 0.25) !important; /* Blue/cyan for Mental */
     border: 1px solid rgba(0, 100, 139, 0.5) !important;
     border-radius: 50px !important;
     padding: 4px 12px !important;
     display: inline-block !important;
-    float: right !important;
 }
 
-.view-content .item-category.trait-badge-mental:hover {
+.view-content .item-category.trait-badge-mental:hover,
+.view-content .trait-badge.trait-badge-mental:hover {
     background: rgba(0, 100, 139, 0.4) !important;
     border-color: rgba(0, 100, 139, 0.7) !important;
 }

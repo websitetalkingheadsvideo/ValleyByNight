@@ -484,7 +484,7 @@ if ($script_dir === '/') {
                     contentHtml += '<div class="trait-list">';
                     physical.forEach(t => {
                         const traitName = typeof t === 'string' ? t : (t.trait_name || t);
-                        contentHtml += '<span class="trait-badge">' + escapeHtml(traitName) + '</span>';
+                        contentHtml += '<span class="trait-badge trait-badge-physical">' + escapeHtml(traitName) + '</span>';
                     });
                     contentHtml += '</div>';
                     contentHtml += '</div>';
@@ -496,7 +496,7 @@ if ($script_dir === '/') {
                     contentHtml += '<div class="trait-list">';
                     social.forEach(t => {
                         const traitName = typeof t === 'string' ? t : (t.trait_name || t);
-                        contentHtml += '<span class="trait-badge">' + escapeHtml(traitName) + '</span>';
+                        contentHtml += '<span class="trait-badge trait-badge-social">' + escapeHtml(traitName) + '</span>';
                     });
                     contentHtml += '</div>';
                     contentHtml += '</div>';
@@ -508,7 +508,7 @@ if ($script_dir === '/') {
                     contentHtml += '<div class="trait-list">';
                     mental.forEach(t => {
                         const traitName = typeof t === 'string' ? t : (t.trait_name || t);
-                        contentHtml += '<span class="trait-badge">' + escapeHtml(traitName) + '</span>';
+                        contentHtml += '<span class="trait-badge trait-badge-mental">' + escapeHtml(traitName) + '</span>';
                     });
                     contentHtml += '</div>';
                     contentHtml += '</div>';
@@ -541,7 +541,7 @@ if ($script_dir === '/') {
                     contentHtml += '<h4>Physical</h4>';
                     contentHtml += '<div class="trait-list">';
                     physical.forEach(t => {
-                        contentHtml += '<span class="trait-badge">' + escapeHtml(t.trait_name) + '</span>';
+                        contentHtml += '<span class="trait-badge trait-badge-physical">' + escapeHtml(t.trait_name) + '</span>';
                     });
                     contentHtml += '</div>';
                     contentHtml += '</div>';
@@ -552,7 +552,7 @@ if ($script_dir === '/') {
                     contentHtml += '<h4>Social</h4>';
                     contentHtml += '<div class="trait-list">';
                     social.forEach(t => {
-                        contentHtml += '<span class="trait-badge">' + escapeHtml(t.trait_name) + '</span>';
+                        contentHtml += '<span class="trait-badge trait-badge-social">' + escapeHtml(t.trait_name) + '</span>';
                     });
                     contentHtml += '</div>';
                     contentHtml += '</div>';
@@ -563,7 +563,7 @@ if ($script_dir === '/') {
                     contentHtml += '<h4>Mental</h4>';
                     contentHtml += '<div class="trait-list">';
                     mental.forEach(t => {
-                        contentHtml += '<span class="trait-badge">' + escapeHtml(t.trait_name) + '</span>';
+                        contentHtml += '<span class="trait-badge trait-badge-mental">' + escapeHtml(t.trait_name) + '</span>';
                     });
                     contentHtml += '</div>';
                     contentHtml += '</div>';

@@ -49,9 +49,17 @@ $current_page = basename($_SERVER['PHP_SELF']);
     $app_root = '/';
     ?>
     <link rel="icon" href="<?php echo $path_prefix; ?>images/favicon.svg" type="image/svg+xml">
-    <!-- Bootstrap 5.3.2 CSS - Load before custom CSS to allow overrides -->
+    <!-- 
+    CSS Loading Order (enforced for consistency):
+    1. Bootstrap CDN - Base framework styles
+    2. bootstrap-overrides.css - Neutralizes Bootstrap reset while preserving existing design
+    3. global.css - Global/base styles, CSS variables, shared components
+    4. Page-specific CSS (via $extra_css array) - Page-specific styles
+    5. modal_fullscreen.css - Component styles (modals)
+    
+    Note: SVG inline styles in logo (lines 86-100) are acceptable per HTML spec for SVG-specific attributes.
+    -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-    <!-- Bootstrap Override Layer - Neutralizes Bootstrap reset while preserving existing design -->
     <link rel="stylesheet" href="<?php echo $path_prefix; ?>css/bootstrap-overrides.css">
     <link rel="stylesheet" href="<?php echo $path_prefix; ?>css/global.css">
     <?php
