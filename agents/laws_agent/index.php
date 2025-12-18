@@ -40,7 +40,6 @@ require_once __DIR__ . '/../../includes/header.php';
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Laws Agent - VbN</title>
     <link rel="stylesheet" href="/css/global.css">
-    <link rel="stylesheet" href="/css/header.css">
     <style>
         .laws-container {
             max-width: 1000px;
