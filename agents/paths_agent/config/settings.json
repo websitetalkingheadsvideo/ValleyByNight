@@ -1,0 +1,16 @@
+{
+  "enabled": true,
+  "paths": {
+    "default_limit": 100,
+    "default_offset": 0
+  },
+  "powers": {
+    "default_limit": 100,
+    "default_offset": 0
+  },
+  "logging": {
+    "enabled": true,
+    "level": "info"
+  }
+}
+

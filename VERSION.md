@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.8.52
+## Current Version: 0.8.53
+
+**Date:** 2025-01-30  
+**Type:** Patch (Paths Agent Core Implementation - TM-03)
+
+## Previous Version: 0.8.52
 
 **Date:** 2025-12-18  
 **Type:** Patch (Paths database completion audit - TM-02)
