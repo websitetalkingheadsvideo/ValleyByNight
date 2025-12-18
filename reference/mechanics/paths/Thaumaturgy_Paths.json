@@ -1,0 +1,106 @@
+{
+    "system": "Laws of the Night Revised (Mind's Eye Theatre)",
+    "category": "Thaumaturgy Paths",
+    "paths": [
+      {
+        "name": "The Path of Blood",
+        "powers": {
+          "level_1": "A Taste for Blood",
+          "level_2": "Blood Rage",
+          "level_3": "Blood of Potency",
+          "level_4": "Theft of Vitae",
+          "level_5": "Cauldron of Blood"
+        }
+      },
+      {
+        "name": "Movement of the Mind",
+        "powers": {
+          "level_1": "Force Bolt",
+          "level_2": "Manipulate",
+          "level_3": "Flight",
+          "level_4": "Snare",
+          "level_5": "Major Manipulation"
+        }
+      },
+      {
+        "name": "The Lure of Flames",
+        "powers": {
+          "level_1": "Hand of Flame",
+          "level_2": "Flamebolt",
+          "level_3": "Engulf",
+          "level_4": "Wall of Flame",
+          "level_5": "Firestorm"
+        }
+      },
+      {
+        "name": "Path of the Focused Mind",
+        "powers": {
+          "level_1": "Readiness",
+          "level_2": "Centering",
+          "level_3": "One-Track Mind",
+          "level_4": "Dual Thought",
+          "level_5": "Perfect Clarity"
+        }
+      },
+      {
+        "name": "Weather Control",
+        "powers": {
+          "level_1": "Cloak of Fog",
+          "level_2": "Downpour",
+          "level_3": "Gale",
+          "level_4": "Tempest",
+          "level_5": "Call Lightning"
+        }
+      },
+      {
+        "name": "Mastery of the Mortal Shell",
+        "powers": {
+          "level_1": "Vertigo",
+          "level_2": "Contortion",
+          "level_3": "Seizure",
+          "level_4": "Body Failure",
+          "level_5": "Marionette"
+        }
+      },
+      {
+        "name": "Neptune’s Might",
+        "powers": {
+          "level_1": "Eyes of the Sea",
+          "level_2": "Prison of Water",
+          "level_3": "Blood to Water",
+          "level_4": "Flowing Wall",
+          "level_5": "Dehydrate"
+        }
+      },
+      {
+        "name": "Path of Technomancy",
+        "powers": {
+          "level_1": "Equipment Fault",
+          "level_2": "Remote Control",
+          "level_3": "Encrypt/Decrypt",
+          "level_4": "Remote Access",
+          "level_5": "Telecommute"
+        }
+      },
+      {
+        "name": "Spirit Manipulation",
+        "powers": {
+          "level_1": "Hermetic Sight",
+          "level_2": "Astral Cant",
+          "level_3": "Voice of Command",
+          "level_4": "Entrap Ephemera",
+          "level_5": "Duality"
+        }
+      },
+      {
+        "name": "Path of Conjuring",
+        "powers": {
+          "level_1": "Summon the Simplest Form",
+          "level_2": "Permanency",
+          "level_3": "Magic of the Smith",
+          "level_4": "Reverse Conjuration",
+          "level_5": "Power Over Life"
+        }
+      }
+    ]
+  }
