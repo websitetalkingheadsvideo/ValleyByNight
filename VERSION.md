@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.8.50
+## Current Version: 0.8.51
+
+**Date:** 2025-01-30  
+**Type:** Patch (To-do list formatting and paths agent updates)
+
+## Previous Version: 0.8.50
 
 **Date:** 2025-01-30  
 **Type:** Patch (Code formatting and documentation updates)

@@ -1,0 +1,72 @@
+{
+    "system": "Laws of the Night Revised (Mind's Eye Theatre)",
+    "category": "Necromancy Paths",
+    "paths": [
+      {
+        "name": "Sepulchre Path",
+        "description": "The primary path of Necromancy focused on interacting with and commanding ghosts (wraiths).",
+        "powers": {
+          "level_1": "Witness of Death (Insight)",
+          "level_2": "Summon Soul",
+          "level_3": "Compel Soul",
+          "level_4": "Haunting",
+          "level_5": "Torment"
+        }
+      },
+      {
+        "name": "The Bone Path",
+        "description": "Focused on the physical manipulation of corpses and the creation of shambling servants.",
+        "powers": {
+          "level_1": "Tremens",
+          "level_2": "Apprentice's Brooms",
+          "level_3": "Shambling Hordes",
+          "level_4": "Soul Stealing",
+          "level_5": "Daemonic Possession"
+        }
+      },
+      {
+        "name": "The Ash Path",
+        "description": "Allows the necromancer to pierce the Shroud and enter the Shadowlands (the realm of the dead).",
+        "powers": {
+          "level_1": "Shroudsight",
+          "level_2": "Lifeless Tongues",
+          "level_3": "Dead Hand",
+          "level_4": "Ex Nihilo",
+          "level_5": "Shroud Mastery"
+        }
+      },
+      {
+        "name": "Cenotaph Path",
+        "description": "Specializes in finding and tracking souls across the distance and through the Shroud.",
+        "powers": {
+          "level_1": "A Touch of Death",
+          "level_2": "Reveal the Catene",
+          "level_3": "Tread Upon the Grave",
+          "level_4": "Death Knell",
+          "level_5": "Ephemeral Binding"
+        }
+      },
+      {
+        "name": "The Corpse in the Monster",
+        "description": "A path that utilizes the 'corpse-like' nature of the vampire body itself for defense and utility.",
+        "powers": {
+          "level_1": "Masque of Death",
+          "level_2": "Cold of the Grave",
+          "level_3": "Curse of Life",
+          "level_4": "Gift of the Corpse",
+          "level_5": "Gift of Life"
+        }
+      },
+      {
+        "name": "Vitreous Path",
+        "description": "Common among the Harbingers of Skulls; focuses on manipulating the energy of death (Oblivion).",
+        "powers": {
+          "level_1": "Eyes of the Dead",
+          "level_2": "Hour of Death",
+          "level_3": "Judgment of Rhadamanthus",
+          "level_4": "Breath of Thanatos",
+          "level_5": "Soul Night"
+        }
+      }
+    ]
+  }
