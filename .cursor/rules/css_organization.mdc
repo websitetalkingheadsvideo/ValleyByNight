@@ -48,16 +48,49 @@ alwaysApply: true
   - Match page names: `login.php` → `login.css`
   - Component prefix: `header.css`, `footer.css`, `modal.css`
 
-- **Loading Order:**
-  1. Base/reset styles
-  2. Component styles (header, footer)
-  3. Page-specific styles
-  4. Override/utility styles (if needed)
+- **Loading Order (Enforced in `includes/header.php`):**
+  1. Bootstrap CDN - Base framework styles
+  2. `bootstrap-overrides.css` - Neutralizes Bootstrap reset while preserving existing design
+  3. `global.css` - Global/base styles, CSS variables, shared components
+  4. Page-specific CSS (via `$extra_css` array) - Page-specific styles
+  5. `modal_fullscreen.css` - Component styles (modals)
+  
+  **Example:**
+  ```php
+  $extra_css = ['css/dashboard.css', 'css/character_view.css'];
+  include 'includes/header.php';
+  ```
 
 - **Integration with PHP:**
   - Use path variables for subdirectories: `<?php echo $path_prefix; ?>css/style.css`
+  - Always load CSS through `$extra_css` array in header, never in body
   - Keep PHP for dynamic content, CSS for static presentation
-  - Pass dynamic values via CSS variables if needed
+  - Pass dynamic values via CSS custom properties (CSS variables) when needed
+
+- **Inline Style Policy:**
+  - **Static inline styles**: ❌ NOT ALLOWED - Extract to external CSS files
+  - **Dynamic inline styles**: ✅ ACCEPTABLE with CSS custom properties
+    - Use CSS variables for PHP-generated values: `style="--clan-badge-color:#8B0000;background-color:var(--clan-badge-color);"`
+    - Example: Clan badge colors generated from database
+  - **SVG inline styles**: ✅ ACCEPTABLE - SVG-specific attributes (stop-color, transitions) are per HTML spec
+  - **JavaScript-managed styles**: Prefer CSS classes over inline style manipulation
+    - Use `.hidden` class instead of `style.display = 'none'`
+    - Use `.classList.add/remove()` instead of direct style property changes
+
+- **Dynamic Style Patterns:**
+  ```php
+  // ✅ GOOD: CSS custom property for dynamic value
+  echo '<span class="clan-badge" style="--clan-color:' . $color . ';background-color:var(--clan-color);">';
+  
+  // ❌ BAD: Direct inline style
+  echo '<span style="background-color:' . $color . ';">';
+  ```
+
+- **File Naming Conventions:**
+  - Use lowercase with hyphens: `admin-panel.css` not `adminPanel.css`
+  - Match page names: `login.php` → `login.css`
+  - Component prefix: `header.css`, `footer.css`, `modal.css`
+  - Utility classes: Add to page-specific CSS or create `utilities.css` if widely used
 
 - **Performance Considerations:**
   - Combine related styles into single files when appropriate

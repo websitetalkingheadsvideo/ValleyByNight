@@ -40,7 +40,8 @@ $is_admin = ($user_role === 'admin' || $user_role === 'storyteller');
 $tagline = "On your first night among the Kindred, the Prince dies—and the city of Phoenix bleeds intrigue";
 $chronicle_summary = "Phoenix, 1994. On the very night you're introduced to Kindred society, the Prince is murdered, plunging the Camarilla into chaos. As a neonate with everything to prove, you must navigate shifting alliances, enforce the Masquerade, and survive a city where Anarchs, Sabbat, Giovanni, and darker powers all compete for control. The Prince's death is only the beginning.";
 
-// Include header
+// Include header with dashboard CSS
+$extra_css = ['css/dashboard.css'];
 include 'includes/header.php';
 ?>
 
@@ -194,7 +195,7 @@ include 'includes/header.php';
                     <span>Create New Character</span>
                 </a>
                 
-                <a href="questionnaire.php" class="btn btn-primary btn-lg d-flex align-items-center gap-3" style="background: linear-gradient(135deg, #4B0082 0%, #2E0854 100%); border-color: #4B0082;">
+                <a href="questionnaire.php" class="btn btn-primary btn-lg d-flex align-items-center gap-3 btn-questionnaire">
                     <span class="btn-icon">🌟</span>
                     <span>Discover Your Clan</span>
                 </a>
@@ -297,9 +298,6 @@ include 'includes/header.php';
         </div>
     <?php endif; ?>
 </div>
-
-<!-- Include external dashboard CSS -->
-<link rel="stylesheet" href="css/dashboard.css">
 
 <script>
 // Defensive JavaScript for index.php navigation links

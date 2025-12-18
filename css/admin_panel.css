@@ -98,6 +98,35 @@
     .mobile-meta .meta-item { background: none; border-radius: 0; padding: 4px 0; font-size: 0.9em; }
 }
 
+/* Utility Classes for Admin Panel */
+/* Extracted from inline styles to comply with CSS organization rules */
+
+/* Width utilities */
+.w-150px {
+    width: 150px;
+}
+
+/* Min-width utilities */
+.min-w-100px {
+    min-width: 100px;
+}
+
+/* Modal utilities */
+.modal-body-overflow-hidden {
+    overflow: hidden;
+}
+
+.iframe-fullscreen {
+    width: 100%;
+    height: calc(100vh - 120px);
+    border: none;
+}
+
+/* Display utilities */
+.hidden {
+    display: none;
+}
+
 @media (min-width: 573px) and (max-width: 991.98px) {
     .character-heading { flex-direction: row; align-items: center; gap: 12px; }
     .character-heading strong { white-space: nowrap; }
