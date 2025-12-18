@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.8.47
+## Current Version: 0.8.48
+
+**Date:** 2025-01-30  
+**Type:** Patch (Thaumaturgy Rituals documentation)
+
+## Previous Version: 0.8.47
 
 **Date:** 2025-01-30  
 **Type:** Patch (CSS organization refactor and character trait badge styling)
