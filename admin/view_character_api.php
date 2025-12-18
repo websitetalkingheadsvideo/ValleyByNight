@@ -32,9 +32,9 @@ try {
     
     // Get traits
     $traits = db_fetch_all($conn, 
-        "SELECT trait_name, trait_category, trait_level 
+        "SELECT trait_name, trait_category, trait_type 
          FROM character_traits 
-         WHERE character_id = ?", 
+         WHERE character_id = ? AND (trait_type IS NULL OR trait_type = 'positive')", 
         'i', [$character_id]
     );
     
@@ -54,12 +54,18 @@ try {
     
     // Get disciplines with powers
     $disciplines = db_fetch_all($conn,
-        "SELECT discipline_name, level, is_custom
+        "SELECT discipline_name, level
          FROM character_disciplines
          WHERE character_id = ?
          ORDER BY discipline_name",
         'i', [$character_id]
     );
+    
+    // Add is_custom flag (default to false if column doesn't exist)
+    foreach ($disciplines as &$disc) {
+        $disc['is_custom'] = false;
+    }
+    unset($disc);
     
     // Get powers for each discipline
     foreach ($disciplines as &$disc) {
@@ -92,18 +98,38 @@ try {
     
     // Get merits & flaws
     $merits_flaws = db_fetch_all($conn,
-        "SELECT name, type, category, point_value, xp_bonus, description
+        "SELECT name, type, category, point_value, point_cost, description
          FROM character_merits_flaws
          WHERE character_id = ?
          ORDER BY type, name",
         'i', [$character_id]
     );
     
-    // Get status
-    $status = db_fetch_one($conn,
+    // Add xp_bonus field (default to null if column doesn't exist)
+    foreach ($merits_flaws as &$mf) {
+        $mf['xp_bonus'] = null;
+    }
+    unset($mf);
+    
+    // Get status (if character_status table exists, otherwise use data from characters table)
+    $status = null;
+    $status_result = @db_fetch_one($conn,
         "SELECT * FROM character_status WHERE character_id = ?",
         'i', [$character_id]
     );
+    if ($status_result) {
+        $status = $status_result;
+    } else {
+        // Table might not exist or no status record, create empty status object
+        $status = [
+            'health_levels' => null,
+            'blood_pool_current' => null,
+            'blood_pool_maximum' => null,
+            'sect_status' => null,
+            'clan_status' => null,
+            'city_status' => null
+        ];
+    }
     
     // Get coteries
     $coteries = db_fetch_all($conn,
@@ -151,8 +177,8 @@ try {
             'notes' => $char['notes'],
             'equipment' => $char['equipment'],
             'character_image' => $character_image,
-            'clan_logo_url' => $char['clan_logo_url'],
-            'current_state' => $char['current_state'],
+            'clan_logo_url' => $char['clan_logo_url'] ?? null,
+            'current_state' => $char['status'] ?? $char['current_state'] ?? 'active',
             'camarilla_status' => $char['camarilla_status'],
             'total_xp' => $char['experience_total'] ?? 0,
             'spent_xp' => $char['experience_spent'] ?? 0,
