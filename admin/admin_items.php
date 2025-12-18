@@ -178,7 +178,7 @@ while ($char = $characters_result->fetch_assoc()) {
 
     <!-- Add Item Button -->
     <div class="mb-4">
-        <button class="btn btn-primary" onclick="openAddItemModal()">
+        <button class="btn btn-primary" id="addItemBtn">
             <i class="fas fa-plus"></i> Add New Item
         </button>
     </div>

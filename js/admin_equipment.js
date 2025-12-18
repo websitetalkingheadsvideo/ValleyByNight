@@ -24,6 +24,18 @@ document.addEventListener('DOMContentLoaded', function() {
 // Bootstrap handles accessibility automatically
 
 function initializeEventListeners() {
+    // Add Equipment button
+    const addEquipmentBtn = document.getElementById('addEquipmentBtn');
+    if (addEquipmentBtn) {
+        addEquipmentBtn.addEventListener('click', openAddEquipmentModal);
+    }
+    
+    // Assign Equipment button
+    const assignEquipmentBtn = document.getElementById('assignEquipmentBtn');
+    if (assignEquipmentBtn) {
+        assignEquipmentBtn.addEventListener('click', openAssignModalFromEdit);
+    }
+    
     // Filter buttons
     document.querySelectorAll('.filter-btn').forEach(btn => {
         btn.addEventListener('click', function() {

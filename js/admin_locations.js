@@ -16,8 +16,54 @@ let currentPCHavenFilter = 'all';
 let currentSearchTerm = '';
 let currentLocationId = null;
 
+// Global data variables (loaded from JSON script tags)
+let allCharacters = [];
+let allCharactersForLocations = [];
+let locationTypes = [];
+let locationStatuses = [];
+let locationOwners = [];
+
 // Initialize on page load
 document.addEventListener('DOMContentLoaded', function() {
+    // Load data from JSON script tags
+    const allCharactersElement = document.getElementById('allCharactersData');
+    const locationTypesElement = document.getElementById('locationTypesData');
+    const locationStatusesElement = document.getElementById('locationStatusesData');
+    const locationOwnersElement = document.getElementById('locationOwnersData');
+    
+    if (allCharactersElement) {
+        try {
+            allCharacters = JSON.parse(allCharactersElement.textContent);
+            allCharactersForLocations = allCharacters; // Use same data for both
+        } catch (e) {
+            console.error('Failed to parse allCharacters data:', e);
+        }
+    }
+    
+    if (locationTypesElement) {
+        try {
+            locationTypes = JSON.parse(locationTypesElement.textContent);
+        } catch (e) {
+            console.error('Failed to parse locationTypes data:', e);
+        }
+    }
+    
+    if (locationStatusesElement) {
+        try {
+            locationStatuses = JSON.parse(locationStatusesElement.textContent);
+        } catch (e) {
+            console.error('Failed to parse locationStatuses data:', e);
+        }
+    }
+    
+    if (locationOwnersElement) {
+        try {
+            locationOwners = JSON.parse(locationOwnersElement.textContent);
+        } catch (e) {
+            console.error('Failed to parse locationOwners data:', e);
+        }
+    }
+    
     initializeEventListeners();
     loadLocations();
 });
@@ -25,6 +71,12 @@ document.addEventListener('DOMContentLoaded', function() {
 // Bootstrap handles accessibility automatically
 
 function initializeEventListeners() {
+    // Add Location button
+    const addLocationBtn = document.getElementById('addLocationBtn');
+    if (addLocationBtn) {
+        addLocationBtn.addEventListener('click', openAddLocationModal);
+    }
+    
     // Filter buttons
     document.querySelectorAll('.filter-btn').forEach(btn => {
         btn.addEventListener('click', function() {

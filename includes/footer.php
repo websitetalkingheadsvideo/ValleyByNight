@@ -35,6 +35,22 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
 <!-- Modal Fullscreen Functionality -->
 <script src="<?php echo $path_prefix; ?>js/modal_fullscreen.js"></script>
+<?php
+// Centralized JavaScript loading (similar to $extra_css in header.php)
+// Pages can define $extra_js array to include page-specific JavaScript files
+if (isset($extra_js) && is_array($extra_js)) {
+    foreach ($extra_js as $jsPath) {
+        $normalizedPath = ltrim($jsPath, '/');
+        // Support defer attribute by checking if path ends with :defer
+        $defer = '';
+        if (strpos($normalizedPath, ':defer') !== false) {
+            $normalizedPath = str_replace(':defer', '', $normalizedPath);
+            $defer = ' defer';
+        }
+        echo '<script src="' . htmlspecialchars($path_prefix . $normalizedPath, ENT_QUOTES, 'UTF-8') . '"' . $defer . '></script>' . PHP_EOL;
+    }
+}
+?>
 </body>
 </html>
 

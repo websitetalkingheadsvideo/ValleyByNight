@@ -93,7 +93,7 @@ while ($char = $characters_result->fetch_assoc()) {
 
     <!-- Add Equipment Button -->
     <div class="mb-4">
-        <button class="btn btn-primary" onclick="openAddEquipmentModal()">
+        <button class="btn btn-primary" id="addEquipmentBtn">
             <i class="fas fa-plus"></i> Add New Equipment
         </button>
     </div>
@@ -228,7 +228,7 @@ while ($char = $characters_result->fetch_assoc()) {
             </div>
             <div class="modal-footer vbn-modal-footer">
                 <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
-                <button type="button" id="assignEquipmentBtn" class="btn btn-success" onclick="openAssignModalFromEdit()" style="display: none;">
+                <button type="button" id="assignEquipmentBtn" class="btn btn-success" style="display: none;">
                     <i class="fas fa-user-plus"></i> Assign to Characters
                 </button>
                 <button type="submit" form="equipmentForm" class="btn btn-primary">Save Equipment</button>

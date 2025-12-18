@@ -1498,7 +1498,7 @@ if (!$isModal) {
                                     <div class="virtue-display">
                                         <span class="virtue-label">Resists degeneration</span>
                                         <div class="virtue-controls">
-                                            <button type="button" class="virtue-btn" onclick="adjustVirtue('conscience', -1)" id="conscienceMinus">-</button>
+                                            <button type="button" class="virtue-btn" id="conscienceMinus">-</button>
                                             <div class="virtue-bars">
                                                 <div class="virtue-progress-container">
                                                     <div class="virtue-progress-fill" id="conscienceProgress"></div>
@@ -1506,7 +1506,7 @@ if (!$isModal) {
                                                 </div>
                                                 <span class="virtue-value" id="conscienceValue">1</span>/5
                                             </div>
-                                            <button type="button" class="virtue-btn" onclick="adjustVirtue('conscience', 1)" id="consciencePlus">+</button>
+                                            <button type="button" class="virtue-btn" id="consciencePlus">+</button>
                                         </div>
                                     </div>
                                 </div>
@@ -1516,7 +1516,7 @@ if (!$isModal) {
                                     <div class="virtue-display">
                                         <span class="virtue-label">Resists frenzy</span>
                                         <div class="virtue-controls">
-                                            <button type="button" class="virtue-btn" onclick="adjustVirtue('selfControl', -1)" id="selfControlMinus">-</button>
+                                            <button type="button" class="virtue-btn" id="selfControlMinus">-</button>
                                             <div class="virtue-bars">
                                                 <div class="virtue-progress-container">
                                                     <div class="virtue-progress-fill" id="selfControlProgress"></div>
@@ -1524,7 +1524,7 @@ if (!$isModal) {
                                                 </div>
                                                 <span class="virtue-value" id="selfControlValue">1</span>/5
                                             </div>
-                                            <button type="button" class="virtue-btn" onclick="adjustVirtue('selfControl', 1)" id="selfControlPlus">+</button>
+                                            <button type="button" class="virtue-btn" id="selfControlPlus">+</button>
                                         </div>
                                     </div>
                                 </div>
@@ -1764,7 +1764,7 @@ if (!$isModal) {
                                 <p>No coterie associations added. Click "Add Coterie" to add one.</p>
                             </div>
                         </div>
-                        <button type="button" class="add-entry-btn" id="addCoterieBtn" onclick="addCoterieEntry()">+ Add Coterie</button>
+                        <button type="button" class="add-entry-btn" id="addCoterieBtn">+ Add Coterie</button>
                         <div class="helper-text">Record coterie memberships, factions, or groups your character belongs to.</div>
                     </div>
                     
@@ -1776,7 +1776,7 @@ if (!$isModal) {
                                 <p>No relationships added. Click "Add Relationship" to add one.</p>
                             </div>
                         </div>
-                        <button type="button" class="add-entry-btn" id="addRelationshipBtn" onclick="addRelationshipEntry()">+ Add Relationship</button>
+                        <button type="button" class="add-entry-btn" id="addRelationshipBtn">+ Add Relationship</button>
                         <div class="helper-text">Track important relationships with other characters (sire, mentor, ally, contact, etc.).</div>
                     </div>
                     
@@ -1956,7 +1956,7 @@ if (!$isModal) {
                 </div>
                 <div class="modal-footer vbn-modal-footer">
                     <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
-                    <button type="button" class="btn btn-primary" onclick="finalizeCharacter()">🎯 Finalize Character</button>
+                    <button type="button" class="btn btn-primary" id="finalizeCharacterBtn">🎯 Finalize Character</button>
                 </div>
             </div>
         </div>
@@ -1977,7 +1977,7 @@ if (!$isModal) {
                 </div>
                 <div class="modal-footer vbn-modal-footer">
                     <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                    <button type="button" class="btn btn-primary" onclick="downloadCharacterSheet()">📥 Download PDF</button>
+                    <button type="button" class="btn btn-primary" id="downloadCharacterSheetBtn">📥 Download PDF</button>
                 </div>
             </div>
         </div>
@@ -2051,19 +2051,14 @@ if (!$isModal) {
     <script src="js/modules/main.js"></script>
     <script src="js/exit-editor.js"></script>
     
-    <!-- Simple Save Button Handler -->
-    <script>
-        const MAX_VIRTUE_POINTS = 7;
-        const VIRTUE_KEY_MAP = {
-            conscience: 'Conscience',
-            selfcontrol: 'SelfControl',
-            'self-control': 'SelfControl'
-        };
-
-        const MORALITY_STATE_LABELS = {
-            10: 'Saintlike',
-            9: 'Serene',
-            8: 'Compassionate',
+    <!-- Main Character Creation JavaScript -->
+    <script src="js/lotn_char_create.js" defer></script>
+    
+    <!-- Legacy script blocks removed - code moved to js/lotn_char_create.js -->
+    
+    <!-- Working Discipline System from Yesterday - removed, code moved to js/lotn_char_create.js -->
+    
+    <!-- Final Details Functions (Coterie & Relationships) - removed, code moved to js/lotn_char_create.js -->
             7: 'Balanced',
             6: 'Conflicted',
             5: 'Turbulent',
@@ -3280,41 +3275,6 @@ if (!$isModal) {
             
             entry.querySelector('.remove-relationship-btn').addEventListener('click', function() {
                 entry.remove();
-                if (container.querySelectorAll('.relationship-entry').length === 0 && emptyState) {
-                    emptyState.style.display = 'block';
-                }
-            });
-        };
-
-        // Make collect functions available to DataManager if needed
-        window.collectCoteries = collectCoteries;
-        window.collectRelationships = collectRelationships;
-        
-        // Load character names for relationship dropdowns
-        async function loadCharacterNames() {
-            try {
-                const response = await fetch('includes/api_get_character_names.php');
-                const data = await response.json();
-                if (data.success && Array.isArray(data.characters)) {
-                    window.allCharacters = data.characters;
-                    console.log('Loaded', data.characters.length, 'characters for relationship dropdowns');
-                } else {
-                    console.error('Failed to load character names:', data.error);
-                    window.allCharacters = [];
-                }
-            } catch (error) {
-                console.error('Error loading character names:', error);
-                window.allCharacters = [];
-            }
-        }
-        
-        // Load characters when page loads
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', loadCharacterNames);
-        } else {
-            loadCharacterNames();
-        }
-    </script>
     <script src="js/character_image.js"></script>
         </div><!-- /.col-12 col-lg-8 -->
       </div><!-- /.row -->

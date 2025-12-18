@@ -32,6 +32,29 @@ function initializeEventListeners() {
             openEditNotesModal(characterId);
         });
     });
+    
+    // Modal close buttons
+    const closeBriefingModalBtn = document.getElementById('closeBriefingModalBtn');
+    const closeBriefingModalBtn2 = document.getElementById('closeBriefingModalBtn2');
+    const closeEditNotesModalBtn = document.getElementById('closeEditNotesModalBtn');
+    const closeEditNotesModalBtn2 = document.getElementById('closeEditNotesModalBtn2');
+    const saveEditNotesBtn = document.getElementById('saveEditNotesBtn');
+    
+    if (closeBriefingModalBtn) {
+        closeBriefingModalBtn.addEventListener('click', closeBriefingModal);
+    }
+    if (closeBriefingModalBtn2) {
+        closeBriefingModalBtn2.addEventListener('click', closeBriefingModal);
+    }
+    if (closeEditNotesModalBtn) {
+        closeEditNotesModalBtn.addEventListener('click', closeEditNotesModal);
+    }
+    if (closeEditNotesModalBtn2) {
+        closeEditNotesModalBtn2.addEventListener('click', closeEditNotesModal);
+    }
+    if (saveEditNotesBtn) {
+        saveEditNotesBtn.addEventListener('click', saveNotesFromEdit);
+    }
 
     // Table sorting
     document.querySelectorAll('th[data-sort]').forEach(th => {

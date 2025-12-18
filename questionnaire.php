@@ -195,9 +195,6 @@ include __DIR__ . '/includes/header.php';
             </section>
         </div>
 
-        <script>
-            // Expose questions to JS for scoring via clanWeight1..4 when present
-            const questionsData = <?php echo json_encode($questions); ?>;
-        </script>
+        <script type="application/json" id="questionsData"><?php echo json_encode($questions); ?></script>
         <script src="js/questionnaire.js"></script>
 <?php include __DIR__ . '/includes/footer.php'; ?>

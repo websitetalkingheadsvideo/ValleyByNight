@@ -205,14 +205,14 @@ include __DIR__ . '/../includes/header.php';
 <div id="briefingModal" class="modal" role="dialog" aria-modal="true" aria-label="Agent Briefing" aria-describedby="briefingContent">
     <div class="modal-content large-modal">
         <h2 class="modal-title">📋 Agent Briefing: <span id="briefingCharacterName"></span></h2>
-        <button class="modal-close" onclick="closeBriefingModal()">×</button>
+        <button class="modal-close" id="closeBriefingModalBtn">×</button>
         
         <div id="briefingContent" class="briefing-content" aria-live="polite">
             Loading...
         </div>
         
         <div class="modal-actions">
-            <button class="modal-btn cancel-btn btn btn-secondary" onclick="closeBriefingModal()">Close</button>
+            <button class="modal-btn cancel-btn btn btn-secondary" id="closeBriefingModalBtn2">Close</button>
         </div>
     </div>
 </div>
@@ -221,7 +221,7 @@ include __DIR__ . '/../includes/header.php';
 <div id="editNotesModal" class="modal" role="dialog" aria-modal="true" aria-label="Edit Notes" aria-describedby="editNotesContent">
     <div class="modal-content large-modal">
         <h2 class="modal-title">✏️ Edit Notes: <span id="editCharacterName"></span></h2>
-        <button class="modal-close" onclick="closeEditNotesModal()">×</button>
+        <button class="modal-close" id="closeEditNotesModalBtn">×</button>
         
         <div class="briefing-content">
             <h3>AGENT NOTES</h3>
@@ -238,8 +238,8 @@ include __DIR__ . '/../includes/header.php';
         </div>
         
         <div class="modal-actions">
-            <button class="modal-btn cancel-btn btn btn-secondary" onclick="closeEditNotesModal()">Cancel</button>
-            <button class="modal-btn confirm-btn btn btn-primary" id="saveEditNotesBtn" onclick="saveNotesFromEdit()">Save Notes</button>
+            <button class="modal-btn cancel-btn btn btn-secondary" id="closeEditNotesModalBtn2">Cancel</button>
+            <button class="modal-btn confirm-btn btn btn-primary" id="saveEditNotesBtn">Save Notes</button>
         </div>
     </div>
 </div>

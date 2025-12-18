@@ -23,6 +23,12 @@ document.addEventListener('DOMContentLoaded', function() {
 // Bootstrap handles accessibility automatically
 
 function initializeEventListeners() {
+    // Add Item button
+    const addItemBtn = document.getElementById('addItemBtn');
+    if (addItemBtn) {
+        addItemBtn.addEventListener('click', openAddItemModal);
+    }
+    
     // Filter buttons
     document.querySelectorAll('.filter-btn').forEach(btn => {
         btn.addEventListener('click', function() {
