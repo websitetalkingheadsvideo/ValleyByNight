@@ -1,0 +1,201 @@
+{
+    "timestamp": "2025-12-18 23:03:58",
+    "paths_master": {
+        "total": 16,
+        "necromancy": {
+            "total": 6,
+            "missing_description": 0,
+            "paths": []
+        },
+        "thaumaturgy": {
+            "total": 10,
+            "missing_description": 0,
+            "paths": []
+        }
+    },
+    "path_powers": {
+        "total": 80,
+        "missing_system_text": 0,
+        "unknown_challenge_type": 0,
+        "missing_challenge_notes": 0,
+        "powers_by_path": {
+            "4": {
+                "path_id": 4,
+                "path_name": "Cenotaph Path",
+                "path_type": "Necromancy",
+                "total_powers": 5,
+                "missing_system_text": 0,
+                "unknown_challenge_type": 0,
+                "missing_challenge_notes": 0,
+                "powers": []
+            },
+            "1": {
+                "path_id": 1,
+                "path_name": "Sepulchre Path",
+                "path_type": "Necromancy",
+                "total_powers": 5,
+                "missing_system_text": 0,
+                "unknown_challenge_type": 0,
+                "missing_challenge_notes": 0,
+                "powers": []
+            },
+            "3": {
+                "path_id": 3,
+                "path_name": "The Ash Path",
+                "path_type": "Necromancy",
+                "total_powers": 5,
+                "missing_system_text": 0,
+                "unknown_challenge_type": 0,
+                "missing_challenge_notes": 0,
+                "powers": []
+            },
+            "2": {
+                "path_id": 2,
+                "path_name": "The Bone Path",
+                "path_type": "Necromancy",
+                "total_powers": 5,
+                "missing_system_text": 0,
+                "unknown_challenge_type": 0,
+                "missing_challenge_notes": 0,
+                "powers": []
+            },
+            "5": {
+                "path_id": 5,
+                "path_name": "The Corpse in the Monster",
+                "path_type": "Necromancy",
+                "total_powers": 5,
+                "missing_system_text": 0,
+                "unknown_challenge_type": 0,
+                "missing_challenge_notes": 0,
+                "powers": []
+            },
+            "6": {
+                "path_id": 6,
+                "path_name": "Vitreous Path",
+                "path_type": "Necromancy",
+                "total_powers": 5,
+                "missing_system_text": 0,
+                "unknown_challenge_type": 0,
+                "missing_challenge_notes": 0,
+                "powers": []
+            },
+            "12": {
+                "path_id": 12,
+                "path_name": "Mastery of the Mortal Shell",
+                "path_type": "Thaumaturgy",
+                "total_powers": 5,
+                "missing_system_text": 0,
+                "unknown_challenge_type": 0,
+                "missing_challenge_notes": 0,
+                "powers": []
+            },
+            "8": {
+                "path_id": 8,
+                "path_name": "Movement of the Mind",
+                "path_type": "Thaumaturgy",
+                "total_powers": 5,
+                "missing_system_text": 0,
+                "unknown_challenge_type": 0,
+                "missing_challenge_notes": 0,
+                "powers": []
+            },
+            "13": {
+                "path_id": 13,
+                "path_name": "Neptune’s Might",
+                "path_type": "Thaumaturgy",
+                "total_powers": 5,
+                "missing_system_text": 0,
+                "unknown_challenge_type": 0,
+                "missing_challenge_notes": 0,
+                "powers": []
+            },
+            "16": {
+                "path_id": 16,
+                "path_name": "Path of Conjuring",
+                "path_type": "Thaumaturgy",
+                "total_powers": 5,
+                "missing_system_text": 0,
+                "unknown_challenge_type": 0,
+                "missing_challenge_notes": 0,
+                "powers": []
+            },
+            "14": {
+                "path_id": 14,
+                "path_name": "Path of Technomancy",
+                "path_type": "Thaumaturgy",
+                "total_powers": 5,
+                "missing_system_text": 0,
+                "unknown_challenge_type": 0,
+                "missing_challenge_notes": 0,
+                "powers": []
+            },
+            "10": {
+                "path_id": 10,
+                "path_name": "Path of the Focused Mind",
+                "path_type": "Thaumaturgy",
+                "total_powers": 5,
+                "missing_system_text": 0,
+                "unknown_challenge_type": 0,
+                "missing_challenge_notes": 0,
+                "powers": []
+            },
+            "15": {
+                "path_id": 15,
+                "path_name": "Spirit Manipulation",
+                "path_type": "Thaumaturgy",
+                "total_powers": 5,
+                "missing_system_text": 0,
+                "unknown_challenge_type": 0,
+                "missing_challenge_notes": 0,
+                "powers": []
+            },
+            "9": {
+                "path_id": 9,
+                "path_name": "The Lure of Flames",
+                "path_type": "Thaumaturgy",
+                "total_powers": 5,
+                "missing_system_text": 0,
+                "unknown_challenge_type": 0,
+                "missing_challenge_notes": 0,
+                "powers": []
+            },
+            "7": {
+                "path_id": 7,
+                "path_name": "The Path of Blood",
+                "path_type": "Thaumaturgy",
+                "total_powers": 5,
+                "missing_system_text": 0,
+                "unknown_challenge_type": 0,
+                "missing_challenge_notes": 0,
+                "powers": []
+            },
+            "11": {
+                "path_id": 11,
+                "path_name": "Weather Control",
+                "path_type": "Thaumaturgy",
+                "total_powers": 5,
+                "missing_system_text": 0,
+                "unknown_challenge_type": 0,
+                "missing_challenge_notes": 0,
+                "powers": []
+            }
+        }
+    },
+    "summary": {
+        "paths_needing_description": [],
+        "powers_needing_system_text": [],
+        "powers_needing_challenge_type": [],
+        "powers_needing_challenge_notes": []
+    },
+    "completion": {
+        "paths_master": {
+            "necromancy": 100,
+            "thaumaturgy": 100
+        },
+        "path_powers": {
+            "system_text": 100,
+            "challenge_type": 100,
+            "challenge_notes": 100
+        }
+    }
+}

@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.8.51
+## Current Version: 0.8.52
+
+**Date:** 2025-12-18  
+**Type:** Patch (Paths database completion audit - TM-02)
+
+## Previous Version: 0.8.51
 
 **Date:** 2025-01-30  
 **Type:** Patch (To-do list formatting and paths agent updates)
