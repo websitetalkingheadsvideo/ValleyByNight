@@ -7,6 +7,7 @@
 let currentQuestion = 1;
 const totalQuestions = 20;
 
+
 // Clan tracking system
 const clanTracking = {
     ventrue: 0,
@@ -36,6 +37,17 @@ let isAdmin = false;
 
 // Initialize questionnaire
 document.addEventListener('DOMContentLoaded', function() {
+    // Load questions data if not already loaded
+    const questionsDataElement = document.getElementById('questionsData');
+    if (questionsDataElement && questionsData.length === 0) {
+        try {
+            questionsData = JSON.parse(questionsDataElement.textContent);
+        } catch (e) {
+            console.error('Failed to parse questions data:', e);
+            questionsData = [];
+        }
+    }
+    
     checkAdminStatus();
     setupEventListeners();
     updateProgress();

@@ -8,6 +8,12 @@ let deleteBoonId = null;
 
 // Load boons on page load
 document.addEventListener('DOMContentLoaded', function() {
+    // Open Boon Modal button
+    const openBoonModalBtn = document.getElementById('openBoonModalBtn');
+    if (openBoonModalBtn) {
+        openBoonModalBtn.addEventListener('click', () => openBoonModal());
+    }
+    
     loadBoons();
     
     // Status filter

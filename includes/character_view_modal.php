@@ -422,7 +422,7 @@ if ($script_dir === '/') {
             const imageClass = isWraith && !hasPortrait ? 'character-portrait-image character-portrait-logo img-fluid' : 'character-portrait-image img-fluid';
             // Only show placeholder on error if there's no fallback (i.e., we have a character image that failed)
             const showPlaceholderOnError = hasPortrait ? 'this.classList.add(\'d-none\'); this.nextElementSibling.classList.remove(\'d-none\');' : '';
-            headerHtml += '<img src="' + sanitizedImageUrl + '" class="' + imageClass + '" alt="Character portrait" onerror="' + showPlaceholderOnError + '" />';
+            headerHtml += '<img src="' + sanitizedImageUrl + '" class="' + imageClass + '" alt="Character portrait" data-has-portrait="' + (hasPortrait ? 'true' : 'false') + '" />';
         }
         const placeholderClass = sanitizedImageUrl ? ' d-none' : '';
         headerHtml += '<div class="character-portrait-placeholder' + placeholderClass + '">No Image</div>';
@@ -908,6 +908,8 @@ if ($script_dir === '/') {
                         categoryClass = ' trait-badge-social';
                     } else if (category && category.includes('mental')) {
                         categoryClass = ' trait-badge-mental';
+                    } else if (category && category.includes('supernatural')) {
+                        categoryClass = ' trait-badge-supernatural';
                     }
                     const badgeHtml = '<span class="trait-badge' + categoryClass + '">' + badge.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;') + '</span>';
                     contentHtml += '<div class="merit-flaw-item">';
@@ -936,6 +938,8 @@ if ($script_dir === '/') {
                         categoryClass = ' trait-badge-social';
                     } else if (category && category.includes('mental')) {
                         categoryClass = ' trait-badge-mental';
+                    } else if (category && category.includes('supernatural')) {
+                        categoryClass = ' trait-badge-supernatural';
                     }
                     const badgeHtml = '<span class="trait-badge' + categoryClass + '">' + badge.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;') + '</span>';
                     contentHtml += '<div class="merit-flaw-item">';
@@ -1152,10 +1156,13 @@ if ($script_dir === '/') {
                     catSpan.classList.add('trait-badge-social');
                 } else if (category.includes('mental')) {
                     catSpan.classList.add('trait-badge-mental');
+                } else if (category.includes('supernatural')) {
+                    catSpan.classList.add('trait-badge-supernatural');
                 }
             });
         }
     }
 })();
 </script>
+<script src="<?php echo htmlspecialchars($path_prefix . 'js/character_view_modal.js', ENT_QUOTES, 'UTF-8'); ?>" defer></script>
 

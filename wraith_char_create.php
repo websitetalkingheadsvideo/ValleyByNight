@@ -207,13 +207,13 @@ include __DIR__ . '/includes/header.php';
                         <div class="form-group">
                             <label>Fetters</label>
                             <div id="fettersList"></div>
-                            <button type="button" class="btn btn-sm btn-secondary" onclick="addFetter()">Add Fetter</button>
+                            <button type="button" class="btn btn-sm btn-secondary" id="addFetterBtn">Add Fetter</button>
                         </div>
                         
                         <div class="form-group">
                             <label>Passions</label>
                             <div id="passionsList"></div>
-                            <button type="button" class="btn btn-sm btn-secondary" onclick="addPassion()">Add Passion</button>
+                            <button type="button" class="btn btn-sm btn-secondary" id="addPassionBtn">Add Passion</button>
                         </div>
                     </div>
                 </div>
@@ -578,7 +578,7 @@ include __DIR__ . '/includes/header.php';
                         <!-- Arcanoi Section -->
                         <h3>Arcanoi</h3>
                         <div id="arcanoiList"></div>
-                        <button type="button" class="btn btn-sm btn-secondary" onclick="addArcanoi()">Add Arcanoi</button>
+                        <button type="button" class="btn btn-sm btn-secondary" id="addArcanoiBtn">Add Arcanoi</button>
                     </div>
                 </div>
                 
@@ -616,7 +616,7 @@ include __DIR__ . '/includes/header.php';
                         <div class="form-group">
                             <label>Dark Passions</label>
                             <div id="darkPassionsList"></div>
-                            <button type="button" class="btn btn-sm btn-secondary" onclick="addDarkPassion()">Add Dark Passion</button>
+                            <button type="button" class="btn btn-sm btn-secondary" id="addDarkPassionBtn">Add Dark Passion</button>
                         </div>
                         
                         <div class="form-group">
@@ -747,13 +747,13 @@ include __DIR__ . '/includes/header.php';
                         <div class="form-group">
                             <label>Relationships</label>
                             <div id="relationshipsList"></div>
-                            <button type="button" class="btn btn-sm btn-secondary" onclick="addRelationship()">Add Relationship</button>
+                            <button type="button" class="btn btn-sm btn-secondary" id="addRelationshipBtn">Add Relationship</button>
                         </div>
                         
                         <div class="form-group">
                             <label>Artifacts</label>
                             <div id="artifactsList"></div>
-                            <button type="button" class="btn btn-sm btn-secondary" onclick="addArtifact()">Add Artifact</button>
+                            <button type="button" class="btn btn-sm btn-secondary" id="addArtifactBtn">Add Artifact</button>
                         </div>
                     </div>
                 </div>

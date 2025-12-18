@@ -89,7 +89,7 @@ function render_status_badge($status) {
     <!-- Action Bar -->
     <div class="action-bar d-flex justify-content-between align-items-center mb-4">
         <div>
-            <button class="btn btn-primary" onclick="openBoonModal()">
+            <button class="btn btn-primary" id="openBoonModalBtn">
                 ➕ New Boon
             </button>
         </div>

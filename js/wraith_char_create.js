@@ -46,6 +46,37 @@ document.addEventListener('DOMContentLoaded', function() {
         setupAttributeHandlers();
         updateBackgroundButtons();
     }, 100);
+    
+    // Add button event listeners (replacing inline onclick handlers)
+    const addFetterBtn = document.getElementById('addFetterBtn');
+    if (addFetterBtn) {
+        addFetterBtn.addEventListener('click', addFetter);
+    }
+    
+    const addPassionBtn = document.getElementById('addPassionBtn');
+    if (addPassionBtn) {
+        addPassionBtn.addEventListener('click', addPassion);
+    }
+    
+    const addArcanoiBtn = document.getElementById('addArcanoiBtn');
+    if (addArcanoiBtn) {
+        addArcanoiBtn.addEventListener('click', addArcanoi);
+    }
+    
+    const addDarkPassionBtn = document.getElementById('addDarkPassionBtn');
+    if (addDarkPassionBtn) {
+        addDarkPassionBtn.addEventListener('click', addDarkPassion);
+    }
+    
+    const addRelationshipBtn = document.getElementById('addRelationshipBtn');
+    if (addRelationshipBtn) {
+        addRelationshipBtn.addEventListener('click', addRelationship);
+    }
+    
+    const addArtifactBtn = document.getElementById('addArtifactBtn');
+    if (addArtifactBtn) {
+        addArtifactBtn.addEventListener('click', addArtifact);
+    }
 });
 
 // Initialize dynamic lists and state

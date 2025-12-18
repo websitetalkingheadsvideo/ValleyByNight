@@ -38,3 +38,7 @@ sync_config.jsonc
 reference/Books/**/*.pdf
 reference/Books/**/*.docx
 reference/Books/**/*.rtf
+
+# Task files
+tasks.json
+tasks/ 

@@ -176,7 +176,7 @@ $all_characters = db_fetch_all($conn, "SELECT id, character_name, clan, player_n
 
     <!-- Add Location Button -->
     <div class="mb-4 d-flex gap-2 flex-wrap">
-        <button class="btn btn-primary" onclick="openAddLocationModal()">
+        <button class="btn btn-primary" id="addLocationBtn">
             <i class="fas fa-plus"></i> Add New Location
         </button>
         <a href="../phoenix_map.php" class="btn btn-outline-primary">
@@ -246,22 +246,15 @@ $labelId = 'deleteModalLabel';
 include __DIR__ . '/../includes/modal_base.php';
 ?>
 
-<script>
-// Pass character data to JavaScript for assign modal
-const allCharactersForLocations = <?php echo json_encode($all_characters); ?>;
-</script>
-
 <!-- Include external CSS -->
 <link rel="stylesheet" href="../css/admin_locations.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
-<!-- Pass PHP data to JavaScript -->
-<script>
-    const allCharacters = <?php echo json_encode($all_characters); ?>;
-    const locationTypes = <?php echo json_encode($location_types); ?>;
-    const locationStatuses = <?php echo json_encode($location_statuses); ?>;
-    const locationOwners = <?php echo json_encode($location_owners); ?>;
-</script>
+<!-- Pass PHP data to JavaScript via JSON script tags -->
+<script type="application/json" id="allCharactersData"><?php echo json_encode($all_characters); ?></script>
+<script type="application/json" id="locationTypesData"><?php echo json_encode($location_types); ?></script>
+<script type="application/json" id="locationStatusesData"><?php echo json_encode($location_statuses); ?></script>
+<script type="application/json" id="locationOwnersData"><?php echo json_encode($location_owners); ?></script>
 
 <!-- Include the external JavaScript file -->
 <script src="../js/admin_locations.js"></script>

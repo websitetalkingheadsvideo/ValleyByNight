@@ -373,6 +373,21 @@
     border-color: rgba(0, 100, 139, 0.7) !important;
 }
 
+.view-content .item-category.trait-badge-supernatural,
+.view-content .trait-badge.trait-badge-supernatural {
+    background: rgba(75, 0, 130, 0.3) !important; /* Indigo/purple for Supernatural */
+    border: 1px solid rgba(75, 0, 130, 0.6) !important;
+    border-radius: 50px !important;
+    padding: 4px 12px !important;
+    display: inline-block !important;
+}
+
+.view-content .item-category.trait-badge-supernatural:hover,
+.view-content .trait-badge.trait-badge-supernatural:hover {
+    background: rgba(75, 0, 130, 0.5) !important;
+    border-color: rgba(75, 0, 130, 0.8) !important;
+}
+
 .view-content .discipline-item {
     background: rgba(26, 15, 15, 0.4);
     border: 1px solid rgba(139, 0, 0, 0.3);

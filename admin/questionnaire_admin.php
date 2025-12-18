@@ -201,8 +201,8 @@ include __DIR__ . '/../includes/header.php';
                             ?>
                         </td>
                         <td>
-                            <button onclick="toggleEdit(<?php echo $question["ID"]; ?>)" class="btn btn-secondary">Edit</button>
-                            <form method="POST" style="display: inline;" onsubmit="return confirm(\"Are you sure you want to delete this question?\");">
+                            <button class="btn btn-secondary toggle-edit-btn" data-question-id="<?php echo $question["ID"]; ?>">Edit</button>
+                            <form method="POST" style="display: inline;" class="delete-question-form">
                                 <input type="hidden" name="action" value="delete">
                                 <input type="hidden" name="id" value="<?php echo $question["ID"]; ?>">
                                 <button type="submit" class="btn btn-danger">Delete</button>
@@ -286,7 +286,7 @@ include __DIR__ . '/../includes/header.php';
                                 </div>
                                 
                                 <button type="submit" class="btn btn-primary">Update Question</button>
-                                <button type="button" onclick="toggleEdit(<?php echo $question["ID"]; ?>)" class="btn btn-secondary">Cancel</button>
+                                <button type="button" class="btn btn-secondary toggle-edit-btn" data-question-id="<?php echo $question["ID"]; ?>">Cancel</button>
                             </form>
                         </td>
                     </tr>
