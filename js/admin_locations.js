@@ -559,6 +559,16 @@ async function viewLocation(id) {
     const location = allLocations.find(loc => loc.id == id);
     if (!location) return;
     
+    // Trigger music event for location enter
+    if (window.musicManager) {
+        window.musicManager.handleLocationEnter(location.id);
+    } else {
+        // Fallback: dispatch custom event for music system
+        document.dispatchEvent(new CustomEvent('locationEntered', {
+            detail: { locationId: location.id, id: location.id }
+        }));
+    }
+    
     // Get modal elements
     const modalElement = document.getElementById('viewModal');
     if (!modalElement) {

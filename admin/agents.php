@@ -120,6 +120,24 @@ $agents = [
             ]
         ]
     ],
+    [
+        "name" => "Ability Agent",
+        "slug" => "ability_agent",
+        "description" => "Validates and maps ability data from external/source formats into the project's canonical ability schema. Provides validation, alias resolution, and integration with character import workflow.",
+        "data_access" => [
+            "/agents/ability_agent/",
+            "abilities table"
+        ],
+        "purpose" => "Validate ability data, resolve aliases, handle deprecations, and ensure consistent ability naming across the system.",
+        "status" => "Active",
+        "last_event" => "Ready to validate and map abilities.",
+        "actions" => [
+            [
+                "label" => "View Abilities",
+                "url" => "../agents/ability_agent/abilities_display.php"
+            ]
+        ]
+    ],
     // Future agents can be appended here.
 ];
 

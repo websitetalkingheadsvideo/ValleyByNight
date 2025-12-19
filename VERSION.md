@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.8.57
+## Current Version: 0.8.58
+
+**Date:** 2025-01-30  
+**Type:** Patch (Ability Agent interface page with sorting and search - TM-05)
+
+## Previous Version: 0.8.57
 
 **Date:** 2025-01-30  
 **Type:** Patch (Phoenix-localized clanbooks and viewer - TM-08)

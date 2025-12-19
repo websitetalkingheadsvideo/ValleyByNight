@@ -356,6 +356,10 @@ include __DIR__ . '/../includes/header.php';
 .confirm-btn:hover { background: linear-gradient(135deg, #b30000 0%, #8B0000 100%); }
 </style>
 
+<!-- Music System -->
+<script src="../js/modules/systems/MusicManager.js"></script>
+<script src="../js/music_init.js"></script>
+<!-- Admin NPC Briefing -->
 <script src="../js/admin_npc_briefing.js"></script>
 
 <?php include __DIR__ . '/../includes/footer.php'; ?>
