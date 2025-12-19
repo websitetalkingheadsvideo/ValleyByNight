@@ -1,0 +1,35 @@
+{
+  "enabled": true,
+  "validation": {
+    "min_dots": 0,
+    "max_dots": 5,
+    "strict_mode": false,
+    "allow_out_of_clan": true
+  },
+  "clan_disciplines": {
+    "Assamite": ["Celerity", "Obfuscate", "Quietus"],
+    "Brujah": ["Celerity", "Potence", "Presence"],
+    "Caitiff": [],
+    "Followers of Set": ["Animalism", "Obfuscate", "Presence", "Serpentis"],
+    "Daughter of Cacophony": ["Melpominee", "Presence", "Auspex"],
+    "Gangrel": ["Animalism", "Fortitude", "Protean"],
+    "Giovanni": ["Dominate", "Fortitude", "Necromancy", "Mortis"],
+    "Lasombra": ["Dominate", "Obfuscate", "Obtenebration"],
+    "Malkavian": ["Auspex", "Dementation", "Obfuscate"],
+    "Nosferatu": ["Animalism", "Obfuscate", "Potence"],
+    "Ravnos": ["Animalism", "Chimerstry", "Fortitude"],
+    "Toreador": ["Auspex", "Celerity", "Presence"],
+    "Tremere": ["Auspex", "Dominate", "Thaumaturgy"],
+    "Tzimisce": ["Animalism", "Auspex", "Dominate", "Vicissitude"],
+    "Ventrue": ["Dominate", "Fortitude", "Presence"]
+  },
+  "exclusion_patterns": {
+    "path_prefixes": ["Path of"],
+    "exclude_tables": ["character_paths", "character_rituals"]
+  },
+  "logging": {
+    "enabled": true,
+    "level": "info"
+  }
+}
+

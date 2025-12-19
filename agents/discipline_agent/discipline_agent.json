@@ -1,0 +1,209 @@
+{
+  "agent_name": "discipline_agent",
+  "purpose": "Validates and lists character disciplines (innate disciplines only). This agent does NOT handle paths or rituals - use PathsAgent and RitualsAgent for those systems.",
+  "data_sources": {
+    "primary": [
+      {
+        "name": "character_disciplines",
+        "role": "Character discipline dots (innate disciplines only).",
+        "required_fields": [
+          "character_id",
+          "discipline_name",
+          "level"
+        ],
+        "notes": "Only contains innate disciplines. Paths and rituals are stored in separate tables (character_paths, character_rituals) and are handled by other agents."
+      },
+      {
+        "name": "character_discipline_powers",
+        "role": "Character discipline powers.",
+        "required_fields": [
+          "character_id",
+          "discipline_name",
+          "power_name",
+          "level"
+        ],
+        "notes": "Stores individual powers for each discipline. Power level must not exceed discipline level."
+      }
+    ],
+    "secondary": [
+      {
+        "name": "characters",
+        "role": "Character data for clan lookup.",
+        "required_fields": [
+          "id",
+          "clan"
+        ],
+        "notes": "Used to determine character's clan for access rule validation."
+      }
+    ]
+  },
+  "contract": {
+    "functions": [
+      {
+        "name": "listCharacterDisciplines",
+        "description": "List a character's innate disciplines (excludes paths/rituals).",
+        "inputs": {
+          "character_id": {
+            "type": "integer",
+            "description": "Character ID"
+          }
+        },
+        "outputs": {
+          "type": "object",
+          "properties": {
+            "disciplines": {
+              "type": "array",
+              "description": "Array of discipline data with powers"
+            },
+            "summary": {
+              "type": "object",
+              "description": "Summary statistics"
+            }
+          }
+        },
+        "sql_examples": [
+          "SELECT discipline_name, level FROM character_disciplines WHERE character_id = ?;"
+        ],
+        "exclusion_notes": [
+          "Filters out any discipline names starting with 'Path of'",
+          "Excludes disciplines found in character_paths table",
+          "Excludes disciplines found in character_rituals table"
+        ]
+      },
+      {
+        "name": "validateDisciplineDots",
+        "description": "Validate discipline dot ranges (0-5).",
+        "inputs": {
+          "character_id": {
+            "type": "integer",
+            "description": "Character ID"
+          },
+          "updates": {
+            "type": "object",
+            "description": "Object mapping discipline names to levels"
+          }
+        },
+        "outputs": {
+          "type": "object",
+          "properties": {
+            "isValid": {
+              "type": "boolean",
+              "description": "Whether all dots are valid"
+            },
+            "errors": {
+              "type": "array",
+              "description": "Array of validation errors"
+            },
+            "warnings": {
+              "type": "array",
+              "description": "Array of validation warnings"
+            }
+          }
+        },
+        "validation_rules": [
+          "Dots must be integers",
+          "Dots must be between 0 and 5 (configurable)",
+          "Rejects paths/rituals with INVALID_DISCIPLINE_TYPE error"
+        ]
+      },
+      {
+        "name": "validateClanDisciplineAccess",
+        "description": "Validate clan access rules for a discipline.",
+        "inputs": {
+          "character_id": {
+            "type": "integer",
+            "description": "Character ID"
+          },
+          "discipline_name": {
+            "type": "string",
+            "description": "Discipline name"
+          }
+        },
+        "outputs": {
+          "type": "object",
+          "properties": {
+            "hasAccess": {
+              "type": "boolean",
+              "description": "Whether character has access to discipline"
+            },
+            "isInClan": {
+              "type": "boolean",
+              "description": "Whether discipline is in-clan"
+            },
+            "restrictions": {
+              "type": "array",
+              "description": "Array of access restrictions"
+            }
+          }
+        },
+        "validation_rules": [
+          "Checks character's clan from characters table",
+          "Compares discipline against clan's in-clan disciplines",
+          "Rejects paths/rituals with INVALID_DISCIPLINE_TYPE error"
+        ]
+      },
+      {
+        "name": "validateDisciplinePowers",
+        "description": "Validate discipline power eligibility.",
+        "inputs": {
+          "character_id": {
+            "type": "integer",
+            "description": "Character ID"
+          },
+          "requested_powers": {
+            "type": "object",
+            "description": "Object mapping discipline names to arrays of power names"
+          }
+        },
+        "outputs": {
+          "type": "object",
+          "properties": {
+            "isValid": {
+              "type": "boolean",
+              "description": "Whether all powers are eligible"
+            },
+            "errors": {
+              "type": "array",
+              "description": "Array of validation errors"
+            },
+            "eligiblePowers": {
+              "type": "array",
+              "description": "Array of eligible powers"
+            }
+          }
+        },
+        "validation_rules": [
+          "Character must have dots in discipline",
+          "Power must exist for discipline",
+          "Power level must not exceed discipline level",
+          "Rejects paths/rituals with INVALID_DISCIPLINE_TYPE error"
+        ]
+      }
+    ]
+  },
+  "implementation_notes": {
+    "key_principles": [
+      "character_disciplines contains only innate disciplines; paths/rituals are in separate tables.",
+      "All methods explicitly filter out paths and rituals.",
+      "Paths are identified by 'Path of' prefix or presence in character_paths table.",
+      "Rituals are identified by presence in character_rituals table.",
+      "Clan access rules are defined in config/settings.json."
+    ],
+    "exclusion_strategy": [
+      "Repository level: DisciplineRepository filters out path/ritual patterns",
+      "Validation level: DisciplineValidator rejects paths/rituals",
+      "Agent level: All public methods explicitly exclude paths/rituals"
+    ],
+    "ui_mapping": {
+      "character_sheet": "listCharacterDisciplines(character_id)",
+      "discipline_validation": "validateDisciplineDots(character_id, updates)",
+      "clan_access_check": "validateClanDisciplineAccess(character_id, discipline_name)",
+      "power_validation": "validateDisciplinePowers(character_id, requested_powers)"
+    },
+    "related_agents": [
+      "PathsAgent - Handles Thaumaturgy paths and other paths",
+      "RitualsAgent - Handles rituals (Thaumaturgy, Necromancy, etc.)"
+    ]
+  }
+}
+

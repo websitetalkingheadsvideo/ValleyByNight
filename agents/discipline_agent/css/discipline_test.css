@@ -1,0 +1,86 @@
+/* Discipline Agent Test Page Styles */
+/* Enhances Bootstrap defaults without overriding them */
+
+body {
+    background-color: #1a0f0f;
+    color: #fff;
+    padding: 20px;
+}
+
+.discipline-card {
+    background-color: #2d1b1b;
+    border: 1px solid #8B0000;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+.discipline-name {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #ff6b6b;
+    margin-bottom: 10px;
+}
+
+.discipline-level {
+    font-size: 1.2em;
+    color: #ffd93d;
+    margin-bottom: 10px;
+}
+
+.power-item {
+    background-color: #3d2a2a;
+    padding: 8px;
+    margin: 5px 0;
+    border-left: 3px solid #8B0000;
+    border-radius: 4px;
+}
+
+.power-name {
+    font-weight: bold;
+    color: #ffd93d;
+}
+
+.power-level {
+    color: #aaa;
+    font-size: 0.9em;
+}
+
+.summary-box {
+    background-color: #2d1b1b;
+    border: 2px solid #8B0000;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.character-selector {
+    background-color: #2d1b1b;
+    border: 1px solid #8B0000;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.power-item.known-power {
+    border-left-color: #4CAF50;
+    background-color: #2d3a2d;
+}
+
+.power-description {
+    color: #aaa;
+    font-size: 0.9em;
+    margin-top: 4px;
+    font-style: italic;
+}
+
+.no-powers-text {
+    color: #ccc;
+    font-style: italic;
+}
+
+.json-output {
+    max-height: 500px;
+    overflow: auto;
+}
+

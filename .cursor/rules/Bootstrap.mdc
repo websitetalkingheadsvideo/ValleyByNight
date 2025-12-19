@@ -1,51 +1,100 @@
 ---
-description: Creating a bootstrap website
-alwaysApply: false
+description: Bootstrap must be primary - custom CSS only enhances, never overrides Bootstrap defaults
+globs: **/*.css, **/*.scss, **/*.php, **/*.html
+alwaysApply: true
 ---
 
-    You are an expert in Bootstrap, SEO and modern web application development, focusing on best practices, accessibility, and responsive design.
+# Bootstrap Primary Rule - Enhancement Only
 
-    Before writing any code check Bootstrap for the best way to do it.  If you can't find a Bootstrap way to complete a task tell me before you write any code.
-    Key Principles
-    - Write clear, concise, and technical responses with precise Bootstrap examples.
-    - Utilize Bootstrap's components and utilities to streamline development and ensure responsiveness.
-    - Prioritize maintainability and readability; adhere to clean coding practices throughout your HTML and CSS.
-    - Use descriptive class names and structure to promote clarity and collaboration among developers.
-    - Write semantic HTML to improve accessibility and SEO.
-    - Use CSS for styling, avoiding inline styles.
-    - Ensure responsive design using media queries and flexible layouts.
-    - Prioritize accessibility by using ARIA roles and attributes.
+- **Core Principle**: Bootstrap is the foundation. All custom CSS must **enhance** Bootstrap's default behavior, never **override** or **replace** it.
 
-    Bootstrap Usage
-    - Leverage Bootstrap's grid system for responsive layouts; use container, row, and column classes to structure content.
-    - Utilize Bootstrap components (e.g., buttons, modals, alerts) to enhance user experience without extensive custom CSS.
-    - Apply Bootstrap's utility classes for quick styling adjustments, such as spacing, typography, and visibility.
-    - Ensure all components are accessible; use ARIA attributes and semantic HTML where applicable.
+- **Bootstrap Must Remain Primary:**
+  - Bootstrap's default styles, spacing, and behavior take precedence
+  - Custom CSS should work **with** Bootstrap, not **against** it
+  - Never use `!important` to override Bootstrap defaults unless absolutely necessary for specific enhancements
+  - Preserve Bootstrap's responsive breakpoints and grid system
+  - Maintain Bootstrap's component structure and class naming
 
-    Error Handling and Validation
-    - Implement form validation using Bootstrap's built-in styles and classes to enhance user feedback.
-    - Use Bootstrap's alert component to display error messages clearly and informatively.
-    - Structure forms with appropriate labels, placeholders, and error messages for a better user experience.
+- **Enhancement vs Override:**
+  - **✅ ENHANCE**: Add custom properties that Bootstrap doesn't provide
+  - **✅ ENHANCE**: Extend Bootstrap components with additional styling
+  - **✅ ENHANCE**: Add project-specific utilities that complement Bootstrap
+  - **❌ OVERRIDE**: Change Bootstrap's default spacing, colors, or typography
+  - **❌ OVERRIDE**: Replace Bootstrap's flexbox/grid behavior
+  - **❌ OVERRIDE**: Force different breakpoints or responsive behavior
+  - **❌ OVERRIDE**: Remove Bootstrap's default margins/padding with `!important`
 
-    Dependencies
-    - Bootstrap (latest version, CSS and JS)
-    - Any JavaScript framework (like jQuery, if required) for interactive components.
+- **Modal Example (Current Issue):**
+  ```css
+  /* ✅ DO: Enhance Bootstrap modal with custom spacing */
+  #mainModal.modal {
+      padding: 2rem !important; /* Adds spacing Bootstrap doesn't provide */
+  }
+  
+  #mainModal .modal-dialog {
+      max-width: min(calc(100vw - 4rem), 1280px); /* Constrains width while respecting Bootstrap */
+      /* Let Bootstrap handle margin: auto for centering */
+  }
+  
+  /* ❌ DON'T: Override Bootstrap's centering mechanism */
+  #mainModal .modal-dialog {
+      margin: 0 !important; /* This breaks Bootstrap's flexbox centering */
+      display: block !important; /* This overrides Bootstrap's flex display */
+  }
+  ```
 
-    Bootstrap-Specific Guidelines
-    - Customize Bootstrap's Sass variables and mixins to create a unique theme without overriding default styles.
-    - Utilize Bootstrap's responsive utilities to control visibility and layout on different screen sizes.
-    - Keep custom styles to a minimum; use Bootstrap's classes wherever possible for consistency.
-    - Use the Bootstrap documentation to understand component behavior and customization options.
+- **Video Wrapper Padding Example:**
+  ```css
+  /* ✅ DO: Add padding to wrapper, let Bootstrap handle layout */
+  #mainModal .modal-video-wrapper {
+      padding-left: 2rem !important;
+      padding-right: 2rem !important;
+      /* Bootstrap's embed-responsive will respect this */
+  }
+  
+  /* ❌ DON'T: Force embed-responsive to break out of Bootstrap's system */
+  #mainModal .embed-responsive {
+      width: calc(100% - 4rem) !important; /* Overrides Bootstrap's width calculation */
+      margin-left: 2rem !important; /* Conflicts with Bootstrap's margin system */
+  }
+  ```
 
-    Performance Optimization
-    - Minimize file sizes by including only the necessary Bootstrap components in your build process.
-    - Use a CDN for Bootstrap resources to improve load times and leverage caching.
-    - Optimize images and other assets to enhance overall performance, especially for mobile users.
+- **Button Visibility Example:**
+  ```css
+  /* ✅ DO: Constrain content height to ensure footer visibility */
+  #mainModal .modal-content {
+      max-height: calc(100vh - 4rem - 7rem) !important; /* Accounts for header + footer */
+      overflow: visible !important; /* Prevents clipping while respecting Bootstrap */
+  }
+  
+  /* ❌ DON'T: Override Bootstrap's flexbox structure */
+  #mainModal .modal-content {
+      height: 500px !important; /* Forces fixed height, breaks Bootstrap responsiveness */
+      display: block !important; /* Overrides Bootstrap's flex display */
+  }
+  ```
 
-    Key Conventions
-    1. Follow Bootstrap's naming conventions and class structures to ensure consistency across your project.
-    2. Prioritize responsiveness and accessibility in every stage of development.
-    3. Maintain a clear and organized file structure to enhance maintainability and collaboration.
+- **Implementation Guidelines:**
+  1. **Test with Bootstrap defaults first** - See if Bootstrap already provides what you need
+  2. **Use Bootstrap utilities** - Prefer `.mb-3`, `.p-4`, etc. over custom CSS when possible
+  3. **Extend, don't replace** - Add to Bootstrap's classes, don't override them
+  4. **Respect Bootstrap's structure** - Don't change how Bootstrap components are structured
+  5. **Work with Bootstrap's system** - Use Bootstrap's spacing scale, breakpoints, and variables
 
-    Refer to the Bootstrap documentation for best practices and detailed examples of usage patterns.
-    
+- **When `!important` is Acceptable:**
+  - Adding project-specific enhancements that Bootstrap doesn't provide
+  - Ensuring custom spacing/padding for specific components
+  - Preventing third-party CSS from overriding Bootstrap
+  - **NOT** for overriding Bootstrap's core functionality
+
+- **Verification Checklist:**
+  - [ ] Does this work with Bootstrap's default behavior?
+  - [ ] Am I adding to Bootstrap or replacing it?
+  - [ ] Will this break if Bootstrap updates?
+  - [ ] Can I achieve this using Bootstrap utilities instead?
+  - [ ] Does this respect Bootstrap's responsive breakpoints?
+
+- **References:**
+  - [Bootstrap Documentation](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+  - [bootstrap-integreation.mdc](mdc:.cursor/rules/bootstrap-integreation.mdc) - Integration guidelines
+  - [css_organization.mdc](mdc:.cursor/rules/css_organization.mdc) - CSS file organization
