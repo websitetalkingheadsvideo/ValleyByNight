@@ -103,6 +103,18 @@ Use the `missing-character-teasers.json` file as your **authoritative list** of 
 4. **Equipment & Traits**: Reference `equipmentTraits` and `negativeTraits` for specific details
 5. **Morality**: Use `morality.path_name` for character's moral framework
 
+### Using Clanbook NPC Hooks
+
+When creating NPCs for a specific clan, consider using the **Phoenix-localized clanbooks** in `reference/docs/` as a source of NPC seeds and hooks. Each clanbook includes:
+
+- **NPC Hooks & Seeds**: Detailed NPC concepts with domain/neighborhood, clan tie-in, motivation, conflict, secrets, and connection prompts
+- **Chronicle Hooks**: Story hooks that can be adapted into NPC-driven plots
+- **Local Power Web**: Information about faction relationships that can inform NPC motivations and alliances
+
+**Clanbook Location**: `reference/docs/clanbook-phoenix-[clan-slug].md`
+
+**Example**: For a Toreador NPC, see `reference/docs/clanbook-phoenix-toreador.md` for Phoenix-specific NPC hooks and seeds that can be adapted into full Character Teasers.
+
 ### After Creating a Teaser
 
 1. Create the Character Teaser file in `reference/Scenes/Character Teasers/`
