@@ -17,7 +17,7 @@ require_once __DIR__ . '/music_registry_io.php';
 require_once __DIR__ . '/helpers.php';
 
 $path_prefix = '../../';
-$extra_css = [];
+$extra_css = ['css/rituals-display.css'];
 include __DIR__ . '/../../includes/header.php';
 
 $error = null;
@@ -193,8 +193,8 @@ try {
                     <?php if (empty($assets)): ?>
                     <p class="text-muted">No assets found.</p>
                     <?php else: ?>
-                    <div class="table-responsive">
-                        <table class="table table-sm">
+                    <div class="table-responsive rounded-3">
+                        <table class="table table-dark table-sm rituals-table">
                             <thead>
                                 <tr>
                                     <th>ID</th>
@@ -253,8 +253,8 @@ try {
                     <?php if (empty($cues)): ?>
                     <p class="text-muted">No cues found.</p>
                     <?php else: ?>
-                    <div class="table-responsive">
-                        <table class="table table-sm">
+                    <div class="table-responsive rounded-3">
+                        <table class="table table-dark table-sm rituals-table">
                             <thead>
                                 <tr>
                                     <th>ID</th>
@@ -313,8 +313,8 @@ try {
                     <?php if (empty($bindings)): ?>
                     <p class="text-muted">No bindings found.</p>
                     <?php else: ?>
-                    <div class="table-responsive">
-                        <table class="table table-sm">
+                    <div class="table-responsive rounded-3">
+                        <table class="table table-dark table-sm rituals-table">
                             <thead>
                                 <tr>
                                     <th>ID</th>

@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.8.58
+## Current Version: 0.8.59
+
+**Date:** 2025-01-30  
+**Type:** Patch (Music assets import script with source mapping fix and repair function)
+
+## Previous Version: 0.8.58
 
 **Date:** 2025-01-30  
 **Type:** Patch (Ability Agent interface page with sorting and search - TM-05)
