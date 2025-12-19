@@ -76,6 +76,17 @@ function initializeEventListeners() {
 
 function openBriefingModal(characterId) {
     currentCharacterId = characterId;
+    
+    // Trigger music event for NPC focus
+    if (window.musicManager) {
+        window.musicManager.handleNPCFocus(characterId);
+    } else {
+        // Fallback: dispatch custom event for music system
+        document.dispatchEvent(new CustomEvent('npcFocusAcquired', {
+            detail: { characterId: characterId, id: characterId }
+        }));
+    }
+    
     const modal = document.getElementById('briefingModal');
     modal.classList.add('active');
     const bc = document.getElementById('briefingContent');
@@ -115,6 +126,17 @@ function openBriefingModal(characterId) {
 function closeBriefingModal() {
     const modal = document.getElementById('briefingModal');
     modal.classList.remove('active');
+    
+    // Trigger music event for NPC focus lost
+    if (window.musicManager) {
+        window.musicManager.handleNPCFocusLost();
+    } else {
+        // Fallback: dispatch custom event for music system
+        document.dispatchEvent(new CustomEvent('npcFocusLost', {
+            detail: {}
+        }));
+    }
+    
     currentCharacterId = null;
     currentMode = 'view';
 }

@@ -257,6 +257,10 @@ include __DIR__ . '/../includes/modal_base.php';
 <script type="application/json" id="locationOwnersData"><?php echo json_encode($location_owners); ?></script>
 
 <!-- Include the external JavaScript file -->
+<!-- Music System -->
+<script src="../js/modules/systems/MusicManager.js"></script>
+<script src="../js/music_init.js"></script>
+<!-- Admin Locations -->
 <script src="../js/admin_locations.js"></script>
 <script src="../js/form_validation.js"></script>
 

@@ -23,11 +23,14 @@
             "stinger",
             "override_combat_start",
             "override_ui_event",
-            "override_story_event"
+            "override_story_event",
+            "override_cinematic_intro"
         ],
         "binding_type": [
             "on_location_enter",
+            "on_location_exit",
             "on_focus_acquired",
+            "on_focus_lost",
             "on_presence_enter",
             "on_event"
         ],
@@ -149,6 +152,178 @@
                 "night"
             ],
             "notes": ""
+        },
+        {
+            "asset_id": "asset_npc_cordelia_leitmotif",
+            "title": "Cordelia Fairchild — Elegant Power (Leitmotif Loop)",
+            "source": {
+                "type": "envato_elements",
+                "envato_item_id": "ENVATO-ITEM-ID-HERE",
+                "license_ref": "ENVATO-LICENSE-REF-OPTIONAL"
+            },
+            "files": [
+                {
+                    "path": "assets/music/characters/cordelia_fairchild/elegant_power_loop.ogg",
+                    "format": "ogg",
+                    "loopable": true
+                }
+            ],
+            "tags": [
+                "ventrue",
+                "elegant",
+                "power",
+                "camarilla",
+                "leadership",
+                "noir"
+            ],
+            "notes": "Leitmotif for Cordelia Fairchild, Ventrue leader. Sophisticated, controlled power."
+        },
+        {
+            "asset_id": "asset_npc_warner_leitmotif",
+            "title": "Warner Jefferson — Calculated Authority (Leitmotif Loop)",
+            "source": {
+                "type": "envato_elements",
+                "envato_item_id": "ENVATO-ITEM-ID-HERE",
+                "license_ref": "ENVATO-LICENSE-REF-OPTIONAL"
+            },
+            "files": [
+                {
+                    "path": "assets/music/characters/warner_jefferson/calculated_authority_loop.ogg",
+                    "format": "ogg",
+                    "loopable": true
+                }
+            ],
+            "tags": [
+                "ventrue",
+                "calculated",
+                "authority",
+                "corporate",
+                "noir"
+            ],
+            "notes": "Leitmotif for Warner Jefferson, Ventrue elder. Corporate power, calculated moves."
+        },
+        {
+            "asset_id": "asset_npc_barry_leitmotif",
+            "title": "Barry Washington — Energetic Ambition (Leitmotif Loop)",
+            "source": {
+                "type": "envato_elements",
+                "envato_item_id": "ENVATO-ITEM-ID-HERE",
+                "license_ref": "ENVATO-LICENSE-REF-OPTIONAL"
+            },
+            "files": [
+                {
+                    "path": "assets/music/characters/barry_washington/energetic_ambition_loop.ogg",
+                    "format": "ogg",
+                    "loopable": true
+                }
+            ],
+            "tags": [
+                "ventrue",
+                "energetic",
+                "ambition",
+                "youth",
+                "noir"
+            ],
+            "notes": "Leitmotif for Barry Washington, Ventrue neonate. Energetic, ambitious, rising star."
+        },
+        {
+            "asset_id": "asset_loc_elysium_underbed",
+            "title": "Elysium — Regal Gathering (Ambient Loop)",
+            "source": {
+                "type": "envato_elements",
+                "envato_item_id": "ENVATO-ITEM-ID-HERE",
+                "license_ref": "ENVATO-LICENSE-REF-OPTIONAL"
+            },
+            "files": [
+                {
+                    "path": "assets/music/locations/elysium/regal_gathering_loop.ogg",
+                    "format": "ogg",
+                    "loopable": true
+                }
+            ],
+            "tags": [
+                "camarilla",
+                "elysium",
+                "regal",
+                "gathering",
+                "elegant",
+                "noir"
+            ],
+            "notes": "Ambient for Elysium gatherings. Regal, sophisticated, understated power."
+        },
+        {
+            "asset_id": "asset_loc_velvet_door_underbed",
+            "title": "The Velvet Door — Jazz Noir (Ambient Loop)",
+            "source": {
+                "type": "envato_elements",
+                "envato_item_id": "ENVATO-ITEM-ID-HERE",
+                "license_ref": "ENVATO-LICENSE-REF-OPTIONAL"
+            },
+            "files": [
+                {
+                    "path": "assets/music/locations/velvet_door/jazz_noir_loop.ogg",
+                    "format": "ogg",
+                    "loopable": true
+                }
+            ],
+            "tags": [
+                "jazz",
+                "noir",
+                "nightclub",
+                "urban",
+                "sophisticated"
+            ],
+            "notes": "Ambient for The Velvet Door nightclub. Jazz-infused noir atmosphere."
+        },
+        {
+            "asset_id": "asset_loc_desert_underbed",
+            "title": "Desert Wasteland — Isolation Echoes (Ambient Loop)",
+            "source": {
+                "type": "envato_elements",
+                "envato_item_id": "ENVATO-ITEM-ID-HERE",
+                "license_ref": "ENVATO-LICENSE-REF-OPTIONAL"
+            },
+            "files": [
+                {
+                    "path": "assets/music/locations/desert/isolation_echoes_loop.ogg",
+                    "format": "ogg",
+                    "loopable": true
+                }
+            ],
+            "tags": [
+                "desert",
+                "isolation",
+                "wind",
+                "atmospheric",
+                "mysterious"
+            ],
+            "notes": "Ambient for desert locations. Isolation, wind, vast emptiness."
+        },
+        {
+            "asset_id": "asset_override_cinematic_intro",
+            "title": "Cinematic Intro — Theatrical Opening (Stinger)",
+            "source": {
+                "type": "envato_generative",
+                "generator": "Envato Generative Music",
+                "prompt": "Cinematic intro stinger: dramatic orchestral hit, neo-noir gothic, desert Phoenix, 1990s atmosphere, 5–10 seconds, builds tension, leads into character leitmotif or location ambient.",
+                "generation_version": "v3",
+                "seed_or_job_id": "ENVATO-GEN-JOB-ID-HERE"
+            },
+            "files": [
+                {
+                    "path": "assets/music/_overrides/cinematic_intro/theatrical_opening_stinger_v3.wav",
+                    "format": "wav",
+                    "loopable": false
+                }
+            ],
+            "tags": [
+                "cinematic",
+                "intro",
+                "stinger",
+                "override",
+                "dramatic"
+            ],
+            "notes": "Exclusive override for cinematic character intros. Stops all music, plays intro, then handoff to location/NPC music."
         }
     ],
     "cues": [
@@ -190,6 +365,141 @@
                 "combat_bed_ref": "cue_combat_bed_default_PLACEHOLDER"
             },
             "notes": "Exclusive fight ignition cue; everything else stops/fades, then combat music state begins."
+        },
+        {
+            "cue_id": "cue_npc_cordelia_leitmotif",
+            "asset_ref": "asset_npc_cordelia_leitmotif",
+            "role": "focus_bed",
+            "loop": true,
+            "fade_in_ms": 2000,
+            "fade_out_ms": 2000,
+            "mix_overrides": {
+                "gain": null,
+                "duck_beds": null
+            },
+            "override": {
+                "mode": "none"
+            },
+            "notes": "NPC focus bed for Cordelia Fairchild. Elegant, powerful leitmotif when focusing on this character."
+        },
+        {
+            "cue_id": "cue_npc_warner_leitmotif",
+            "asset_ref": "asset_npc_warner_leitmotif",
+            "role": "focus_bed",
+            "loop": true,
+            "fade_in_ms": 2000,
+            "fade_out_ms": 2000,
+            "mix_overrides": {
+                "gain": null,
+                "duck_beds": null
+            },
+            "override": {
+                "mode": "none"
+            },
+            "notes": "NPC focus bed for Warner Jefferson. Calculated, corporate authority leitmotif."
+        },
+        {
+            "cue_id": "cue_npc_barry_leitmotif",
+            "asset_ref": "asset_npc_barry_leitmotif",
+            "role": "focus_bed",
+            "loop": true,
+            "fade_in_ms": 2000,
+            "fade_out_ms": 2000,
+            "mix_overrides": {
+                "gain": null,
+                "duck_beds": null
+            },
+            "override": {
+                "mode": "none"
+            },
+            "notes": "NPC focus bed for Barry Washington. Energetic, ambitious leitmotif."
+        },
+        {
+            "cue_id": "cue_loc_elysium_underbed",
+            "asset_ref": "asset_loc_elysium_underbed",
+            "role": "location_underbed",
+            "loop": true,
+            "fade_in_ms": 9000,
+            "fade_out_ms": 9000,
+            "mix_overrides": {
+                "gain": null,
+                "duck_beds": null
+            },
+            "override": {
+                "mode": "none"
+            },
+            "notes": "Location underbed for Elysium. Regal, sophisticated ambient that persists while in location."
+        },
+        {
+            "cue_id": "cue_loc_velvet_door_underbed",
+            "asset_ref": "asset_loc_velvet_door_underbed",
+            "role": "location_underbed",
+            "loop": true,
+            "fade_in_ms": 7000,
+            "fade_out_ms": 7000,
+            "mix_overrides": {
+                "gain": null,
+                "duck_beds": null
+            },
+            "override": {
+                "mode": "none"
+            },
+            "notes": "Location underbed for The Velvet Door. Jazz noir atmosphere."
+        },
+        {
+            "cue_id": "cue_loc_desert_underbed",
+            "asset_ref": "asset_loc_desert_underbed",
+            "role": "location_underbed",
+            "loop": true,
+            "fade_in_ms": 10000,
+            "fade_out_ms": 10000,
+            "mix_overrides": {
+                "gain": null,
+                "duck_beds": null
+            },
+            "override": {
+                "mode": "none"
+            },
+            "notes": "Location underbed for desert locations. Isolation, wind, atmospheric."
+        },
+        {
+            "cue_id": "cue_loc_dark_ambient_gotham",
+            "asset_ref": "asset_dark_ambient_gotham",
+            "role": "location_underbed",
+            "loop": true,
+            "fade_in_ms": 8000,
+            "fade_out_ms": 8000,
+            "mix_overrides": {
+                "gain": null,
+                "duck_beds": null
+            },
+            "override": {
+                "mode": "none"
+            },
+            "notes": "Generic dark ambient for urban/city locations. Fallback when specific location music not available."
+        },
+        {
+            "cue_id": "cue_override_cinematic_intro",
+            "asset_ref": "asset_override_cinematic_intro",
+            "role": "override_cinematic_intro",
+            "loop": false,
+            "fade_in_ms": 50,
+            "fade_out_ms": 2000,
+            "mix_overrides": {
+                "gain": null,
+                "duck_beds": null
+            },
+            "override": {
+                "mode": "exclusive",
+                "exclusive_stop_mode": "fade_out",
+                "exclusive_stop_fade_ms": 300,
+                "exclusive_resume_mode": "restore_previous_state"
+            },
+            "handoff": {
+                "after_play": "restore_location_or_focus",
+                "fade_in_ms": 2000
+            },
+            "notes": "Exclusive override for cinematic intros. Stops all other music, plays intro stinger, then handoff to appropriate location/NPC music."
         }
     ],
     "bindings": [
@@ -221,6 +531,119 @@
             "priority": 100,
             "conditions": [],
             "notes": ""
+        },
+        {
+            "binding_id": "bind_npc_cordelia_focus",
+            "binding_type": "on_focus_acquired",
+            "target_ref": {
+                "type": "character",
+                "id": "cordelia_fairchild"
+            },
+            "play_cue_ref": "cue_npc_cordelia_leitmotif",
+            "priority": 50,
+            "conditions": {
+                "combat_state_required": false
+            },
+            "notes": "NPC focus binding for Cordelia Fairchild. Triggers when focusing on this character (e.g., opening NPC briefing modal)."
+        },
+        {
+            "binding_id": "bind_npc_warner_focus",
+            "binding_type": "on_focus_acquired",
+            "target_ref": {
+                "type": "character",
+                "id": "warner_jefferson"
+            },
+            "play_cue_ref": "cue_npc_warner_leitmotif",
+            "priority": 50,
+            "conditions": {
+                "combat_state_required": false
+            },
+            "notes": "NPC focus binding for Warner Jefferson. Triggers when focusing on this character."
+        },
+        {
+            "binding_id": "bind_npc_barry_focus",
+            "binding_type": "on_focus_acquired",
+            "target_ref": {
+                "type": "character",
+                "id": "barry_washington"
+            },
+            "play_cue_ref": "cue_npc_barry_leitmotif",
+            "priority": 50,
+            "conditions": {
+                "combat_state_required": false
+            },
+            "notes": "NPC focus binding for Barry Washington. Triggers when focusing on this character."
+        },
+        {
+            "binding_id": "bind_loc_elysium_enter",
+            "binding_type": "on_location_enter",
+            "target_ref": {
+                "type": "location",
+                "id": "elysium"
+            },
+            "play_cue_ref": "cue_loc_elysium_underbed",
+            "priority": 10,
+            "conditions": {
+                "combat_state_required": false
+            },
+            "notes": "Location binding for Elysium. Triggers ambient when entering/viewing this location."
+        },
+        {
+            "binding_id": "bind_loc_velvet_door_enter",
+            "binding_type": "on_location_enter",
+            "target_ref": {
+                "type": "location",
+                "id": "velvet_door"
+            },
+            "play_cue_ref": "cue_loc_velvet_door_underbed",
+            "priority": 10,
+            "conditions": {
+                "combat_state_required": false
+            },
+            "notes": "Location binding for The Velvet Door. Triggers jazz noir ambient when entering/viewing this location."
+        },
+        {
+            "binding_id": "bind_loc_desert_enter",
+            "binding_type": "on_location_enter",
+            "target_ref": {
+                "type": "location",
+                "id": "desert"
+            },
+            "play_cue_ref": "cue_loc_desert_underbed",
+            "priority": 10,
+            "conditions": {
+                "combat_state_required": false
+            },
+            "notes": "Location binding for desert locations. Triggers isolation ambient when entering desert areas."
+        },
+        {
+            "binding_id": "bind_loc_default_city",
+            "binding_type": "on_location_enter",
+            "target_ref": {
+                "type": "location",
+                "id": "default_city"
+            },
+            "play_cue_ref": "cue_loc_dark_ambient_gotham",
+            "priority": 5,
+            "conditions": {
+                "combat_state_required": false
+            },
+            "notes": "Fallback location binding for generic city/urban locations. Uses Dark Ambient Gotham as default."
+        },
+        {
+            "binding_id": "bind_event_cinematic_intro_start",
+            "binding_type": "on_event",
+            "event": {
+                "event_key": "cinematic_intro_start",
+                "payload_filters": {
+                    "character_id": null,
+                    "character_name": null
+                }
+            },
+            "play_cue_ref": "cue_override_cinematic_intro",
+            "priority": 200,
+            "conditions": [],
+            "notes": "Event binding for cinematic intro start. Highest priority, exclusive override. Handoff configured in cue definition."
         }
     ],
     "runtime_contract": {
@@ -235,14 +658,17 @@
                 "optional array"
             ],
             "events": [
-                "fire-and-forget event keys (e.g., combat_start, puzzle_solved_reward_ui)"
+                "fire-and-forget event keys (e.g., combat_start, puzzle_solved_reward_ui, cinematic_intro_start)"
             ]
         },
         "resolution_rules": [
             "Always ensure location_underbed for current location is playing at underbed gain.",
             "If focus_ref changes and has a matching focus_bed cue, crossfade foreground bed to that cue.",
             "Presence can trigger stingers but does not replace foreground bed unless focus changes.",
-            "Exclusive override cues stop/duck other music per override settings, then resume per resume_mode."
+            "Exclusive override cues stop/duck other music per override settings, then resume per resume_mode.",
+            "Cinematic intro overrides have highest priority (200), exclusive mode. After intro ends, handoff to location ambient or NPC leitmotif based on current context.",
+            "NPC focus acquired (on_focus_acquired) should crossfade foreground bed, but location underbed persists.",
+            "NPC focus lost (on_focus_lost) should return to location ambient only (no foreground bed)."
         ]
     }
 }
