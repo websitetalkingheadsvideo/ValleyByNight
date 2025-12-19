@@ -1,0 +1,161 @@
+/**
+ * Rituals Display Page Styles
+ * External CSS file following project organization rules
+ */
+
+/* Bootstrap .container-fluid handles container layout */
+/* Bootstrap utilities handle: .display-5 .text-light .fw-bold .mb-1 .lead .fst-italic .mb-4 */
+/* Bootstrap .row and .g-3 handle stats layout */
+/* Bootstrap .card component with .vbn-stat-number and .vbn-stat-label classes */
+/* Bootstrap utilities handle: .row .gy-3 .align-items-center .mb-4 .d-flex .flex-wrap .gap-2 */
+
+/* Rituals Table */
+/* Bootstrap .table-responsive handles table wrapper (with custom gothic theming) */
+/* Custom table wrapper styles preserved for gothic theme */
+.table-responsive.rounded-3 {
+    background: radial-gradient(circle at center, rgba(139, 0, 0, 0.4) 0%, rgba(139, 0, 0, 0.2) 40%, rgba(26, 15, 15, 0.6) 100%);
+    border: 2px solid #8B0000;
+    border-radius: 8px;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+.rituals-table {
+    width: 100%;
+    border-collapse: collapse;
+    min-width: 600px;
+}
+
+.rituals-table th[data-column="type"],
+.rituals-table td:nth-child(1) {
+    width: 18%;
+    min-width: 100px;
+}
+
+.rituals-table th[data-column="level"],
+.rituals-table td:nth-child(2) {
+    width: 8%;
+    min-width: 50px;
+}
+
+.rituals-table th[data-column="name"],
+.rituals-table td:nth-child(3) {
+    width: 25%;
+    min-width: 140px;
+}
+
+.rituals-table th[data-column="description"],
+.rituals-table td:nth-child(4) {
+    width: 20%;
+    min-width: 120px;
+    max-width: 200px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.rituals-table th:last-child,
+.rituals-table td:last-child {
+    width: 20%;
+    min-width: 120px;
+    white-space: nowrap;
+    position: sticky;
+    right: 0;
+    background: #212529;
+    z-index: 10;
+}
+
+.rituals-table thead th:last-child {
+    background: linear-gradient(135deg, #8B0000 0%, #600000 100%);
+    z-index: 11;
+}
+
+.rituals-table thead {
+    background: linear-gradient(135deg, #8B0000 0%, #600000 100%);
+}
+
+.rituals-table th {
+    padding: 15px 12px;
+    text-align: left;
+    font-family: var(--font-title), 'Libre Baskerville', serif;
+    color: #f5e6d3;
+    font-weight: 700;
+    cursor: pointer;
+    user-select: none;
+}
+
+.rituals-table th.sortable:hover {
+    background: rgba(179, 0, 0, 0.3);
+}
+
+.sort-icon {
+    font-size: 0.9em;
+    opacity: 0.4;
+    margin-left: 5px;
+}
+
+.rituals-table th.sorted-asc .sort-icon {
+    opacity: 1;
+}
+
+.rituals-table th.sorted-asc .sort-icon::before {
+    content: '▲ ';
+}
+
+.rituals-table th.sorted-desc .sort-icon {
+    opacity: 1;
+}
+
+.rituals-table th.sorted-desc .sort-icon::before {
+    content: '▼ ';
+}
+
+.rituals-table tbody tr {
+    border-bottom: 1px solid rgba(139, 0, 0, 0.2);
+    transition: all 0.2s ease;
+}
+
+.rituals-table tbody tr:hover {
+    background: rgba(139, 0, 0, 0.15);
+}
+
+.rituals-table tbody tr.hidden {
+    display: none;
+}
+
+.rituals-table td {
+    padding: 12px;
+    font-family: var(--font-body), 'Source Serif Pro', serif;
+    color: #d4c4b0;
+}
+
+.rituals-table td strong {
+    color: #f5e6d3;
+}
+
+.rituals-table .view-ritual-btn {
+    min-width: 40px;
+    padding: 0.25rem 0.5rem;
+    font-size: 1rem;
+    line-height: 1.2;
+}
+
+.rituals-table .view-ritual-btn:hover {
+    transform: scale(1.1);
+    transition: transform 0.2s ease;
+}
+
+/* Stats Cards */
+.vbn-stat-number {
+    font-size: 2.5rem;
+    font-weight: 700;
+    font-family: var(--font-title), 'Libre Baskerville', serif;
+}
+
+.vbn-stat-label {
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-top: 0.5rem;
+    color: #d4c4b0;
+}
+

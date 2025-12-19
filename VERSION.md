@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.8.55
+## Current Version: 0.8.56
+
+**Date:** 2025-01-30  
+**Type:** Patch (Rituals display search and modal view)
+
+## Previous Version: 0.8.55
 
 **Date:** 2025-12-18  
 **Type:** Patch (Discipline Agent Implementation - TM-06)
