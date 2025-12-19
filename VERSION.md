@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.8.56
+## Current Version: 0.8.57
+
+**Date:** 2025-01-30  
+**Type:** Patch (Phoenix-localized clanbooks and viewer - TM-08)
+
+## Previous Version: 0.8.56
 
 **Date:** 2025-01-30  
 **Type:** Patch (Rituals display search and modal view)
