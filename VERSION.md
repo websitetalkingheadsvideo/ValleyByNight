@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.8.54
+## Current Version: 0.8.55
+
+**Date:** 2025-12-18  
+**Type:** Patch (Discipline Agent Implementation - TM-06)
+
+## Previous Version: 0.8.54
 
 **Date:** 2025-01-30  
 **Type:** Patch (Ability Agent Implementation - TM-05)
