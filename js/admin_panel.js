@@ -180,10 +180,25 @@ function applyFilters(resetPage = true) {
         }
         
         
-        // Check search
+        // Check search - search across multiple fields
         let showBySearch = true;
-        if (searchTerm && !name.includes(searchTerm)) {
-            showBySearch = false;
+        if (searchTerm) {
+            const player = (row.dataset.player || '').toLowerCase();
+            const generation = (row.dataset.generation || '').toLowerCase();
+            const status = (row.dataset.status || '').toLowerCase();
+            const camarilla = (row.dataset.camarilla || '').toLowerCase();
+            const owner = (row.dataset.owner || '').toLowerCase();
+            
+            // Search across name, clan, player, generation, status, camarilla, owner
+            if (!name.includes(searchTerm) &&
+                !clan.toLowerCase().includes(searchTerm) &&
+                !player.includes(searchTerm) &&
+                !generation.includes(searchTerm) &&
+                !status.includes(searchTerm) &&
+                !camarilla.includes(searchTerm) &&
+                !owner.includes(searchTerm)) {
+                showBySearch = false;
+            }
         }
         
         // Track visible rows

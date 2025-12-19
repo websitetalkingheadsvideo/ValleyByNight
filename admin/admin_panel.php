@@ -245,7 +245,7 @@ function render_clan_badge(string $clan): string {
             </select>
         </div>
         <div class="search-box col-12 col-lg col-xl-4">
-            <input type="text" id="characterSearch" class="form-control form-control-sm bg-dark text-light border-danger" placeholder="🔍 Search by name..." />
+            <input type="text" id="characterSearch" class="form-control form-control-sm bg-dark text-light border-danger" placeholder="🔍 Search name, clan, player, generation..." />
         </div>
         <div class="page-size-control col-12 col-md-auto d-flex align-items-center gap-2">
             <label for="pageSize" class="text-light text-uppercase small mb-0">Per page:</label>

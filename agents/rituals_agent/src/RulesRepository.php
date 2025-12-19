@@ -72,7 +72,7 @@ class RulesRepository
             LIMIT ?
         SQL;
         
-        $result = db_select($this->db, $sql, 'si', [$query, $query, $limit]);
+        $result = db_select($this->db, $sql, 'ssi', [$query, $query, $limit]);
         
         if ($result === false) {
             return [];
