@@ -210,6 +210,49 @@ try {
         $warnings[] = "Normalized backfill query had issues (non-critical): " . mysqli_error($conn);
     }
     
+    // Step 3d: Try matching with singular/plural normalization (spirits <-> spirit, etc.)
+    // This handles cases like "Ward vs Spirits" -> "Ward versus Spirit"
+    $backfill_plural_query = "
+        UPDATE character_rituals cr
+        INNER JOIN (
+            SELECT 
+                rm.id,
+                LOWER(TRIM(rm.type)) as type_normalized,
+                LOWER(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(TRIM(rm.name), ' vs ', ' versus '), ' vs. ', ' versus '), ' v ', ' versus '), ' spirits', ' spirit'), ' ghouls', ' ghoul'), ' demons', ' demon'), ' ghosts', ' ghost'), ' magi', ' magus'), ' kindred', ' kindred'), ' fae', ' fae'), ' lupines', ' lupine'), ' cathayans', ' cathayan')) as name_normalized,
+                rm.level as master_level
+            FROM rituals_master rm
+        ) rm_normalized ON (
+            LOWER(TRIM(cr.ritual_type)) = rm_normalized.type_normalized
+            AND (
+                LOWER(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(TRIM(cr.ritual_name), ' vs ', ' versus '), ' vs. ', ' versus '), ' v ', ' versus '), ' spirits', ' spirit'), ' ghouls', ' ghoul'), ' demons', ' demon'), ' ghosts', ' ghost'), ' magi', ' magus'), ' kindred', ' kindred'), ' fae', ' fae'), ' lupines', ' lupine'), ' cathayans', ' cathayan')) = rm_normalized.name_normalized
+                OR LOWER(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(TRIM(cr.ritual_name), ' vs ', ' versus '), ' vs. ', ' versus '), ' v ', ' versus '), ' spirit', ' spirits'), ' ghoul', ' ghouls'), ' demon', ' demons'), ' ghost', ' ghosts'), ' magus', ' magi'), ' kindred', ' kindred'), ' fae', ' fae'), ' lupine', ' lupines'), ' cathayan', ' cathayans')) = rm_normalized.name_normalized
+            )
+        )
+        INNER JOIN (
+            SELECT 
+                LOWER(TRIM(type)) as type_normalized,
+                LOWER(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(TRIM(name), ' vs ', ' versus '), ' vs. ', ' versus '), ' v ', ' versus '), ' spirits', ' spirit'), ' ghouls', ' ghoul'), ' demons', ' demon'), ' ghosts', ' ghost'), ' magi', ' magus'), ' kindred', ' kindred'), ' fae', ' fae'), ' lupines', ' lupine'), ' cathayans', ' cathayan')) as name_normalized,
+                MIN(id) as min_id
+            FROM rituals_master
+            GROUP BY type_normalized, name_normalized
+        ) rm_min ON (
+            rm_normalized.type_normalized = rm_min.type_normalized
+            AND rm_normalized.name_normalized = rm_min.name_normalized
+            AND rm_normalized.id = rm_min.min_id
+        )
+        SET cr.ritual_id = rm_normalized.id
+        WHERE cr.ritual_id IS NULL
+    ";
+    
+    if (mysqli_query($conn, $backfill_plural_query)) {
+        $matched_plural = mysqli_affected_rows($conn);
+        if ($matched_plural > 0) {
+            $success[] = "Backfilled ritual_id (plural/singular normalization) for $matched_plural rows";
+        }
+    } else {
+        $warnings[] = "Plural normalization backfill query had issues (non-critical): " . mysqli_error($conn);
+    }
+    
     // Step 4: Check for ambiguous matches (multiple rituals with same signature)
     $ambiguity_check = "
         SELECT 
