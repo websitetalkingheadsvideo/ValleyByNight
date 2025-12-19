@@ -42,7 +42,8 @@ $stats = [
     'inserted' => 0,
     'updated' => 0,
     'skipped' => 0,
-    'errors' => []
+    'errors' => [],
+    'import_issues' => [] // Ability validation/mapping issues
 ];
 
 /**
@@ -413,9 +414,99 @@ function upsertCharacter(mysqli $conn, array $data): int {
 }
 
 /**
- * Import abilities from JSON
+ * Normalize source abilities format to standard array format for AbilityAgent
+ * Handles all 3 source formats and converts to {name, category?, level, specialization?}
  */
-function importAbilities(mysqli $conn, int $character_id, array $data): void {
+function normalizeSourceAbilities($abilities, array $specializations = []): array {
+    $normalized = [];
+    
+    if (empty($abilities)) {
+        return $normalized;
+    }
+    
+    // Handle object conversion
+    if (is_object($abilities)) {
+        $abilities = (array)$abilities;
+    }
+    
+    // Format 1: Array of objects [{"name": "...", "category": "...", "level": X}]
+    if (is_array($abilities) && isset($abilities[0]) && is_array($abilities[0]) && isset($abilities[0]['name'])) {
+        foreach ($abilities as $ability) {
+            $name = cleanString($ability['name'] ?? '');
+            if (empty($name)) {
+                continue;
+            }
+            
+            $normalized[] = [
+                'name' => $name,
+                'category' => isset($ability['category']) ? cleanString($ability['category']) : null,
+                'level' => cleanInt($ability['level'] ?? 1),
+                'specialization' => cleanString($specializations[$name] ?? $ability['specialization'] ?? null)
+            ];
+        }
+    }
+    // Format 2: Array of strings ["Ability (Specialization) 4", "Ability 2"]
+    elseif (isset($abilities[0]) && is_string($abilities[0])) {
+        foreach ($abilities as $abilityStr) {
+            // Parse "Ability (Specialization) 4" or "Ability 4"
+            if (preg_match('/^(.+?)(?:\s+\(([^)]+)\))?\s+(\d+)$/', $abilityStr, $matches)) {
+                $name = cleanString($matches[1]);
+                $specialization = isset($matches[2]) ? cleanString($matches[2]) : null;
+                $level = cleanInt($matches[3]);
+                
+                // Override with specializations object if available
+                if (isset($specializations[$name])) {
+                    $specialization = cleanString($specializations[$name]);
+                }
+                
+                $normalized[] = [
+                    'name' => $name,
+                    'category' => null,
+                    'level' => $level,
+                    'specialization' => $specialization
+                ];
+            }
+        }
+    }
+    // Format 3: Object with categories {Physical: [...], Social: [...], Mental: [...]}
+    elseif (is_array($abilities) && !isset($abilities[0]) && (isset($abilities['Physical']) || isset($abilities['Social']) || isset($abilities['Mental']) || isset($abilities['Optional']))) {
+        $allowedCategories = ['Physical', 'Social', 'Mental', 'Optional'];
+        foreach ($abilities as $category => $abilityNames) {
+            if (!in_array($category, $allowedCategories, true) || !is_array($abilityNames)) {
+                continue;
+            }
+            
+            // Count occurrences to get level
+            $abilityCounts = [];
+            foreach ($abilityNames as $abilityName) {
+                $cleanName = trim($abilityName);
+                if (strpos($cleanName, ' (') !== false) {
+                    $cleanName = substr($cleanName, 0, strpos($cleanName, ' ('));
+                }
+                $abilityCounts[$cleanName] = ($abilityCounts[$cleanName] ?? 0) + 1;
+            }
+            
+            foreach ($abilityCounts as $abilityName => $level) {
+                $level = max(1, min(5, (int)$level));
+                $specialization = cleanString($specializations[$abilityName] ?? null);
+                
+                $normalized[] = [
+                    'name' => cleanString($abilityName),
+                    'category' => $category,
+                    'level' => $level,
+                    'specialization' => $specialization
+                ];
+            }
+        }
+    }
+    
+    return $normalized;
+}
+
+/**
+ * Import abilities from JSON using AbilityAgent for validation and mapping
+ */
+function importAbilities(mysqli $conn, int $character_id, array $data, array &$importIssues = []): void {
     // Delete existing abilities
     db_execute($conn, "DELETE FROM character_abilities WHERE character_id = ?", 'i', [$character_id]);
     
@@ -423,94 +514,49 @@ function importAbilities(mysqli $conn, int $character_id, array $data): void {
         return;
     }
     
-    $abilities = $data['abilities'];
+    // Load AbilityAgent
+    require_once __DIR__ . '/../agents/ability_agent/src/AbilityAgent.php';
+    $agent = new AbilityAgent($conn);
+    
+    // Normalize source abilities to standard format
     $specializations = $data['specializations'] ?? [];
+    $sourceAbilities = normalizeSourceAbilities($data['abilities'], $specializations);
     
-    // Handle different ability formats
-    if (is_object($abilities)) {
-        $abilities = (array)$abilities;
+    if (empty($sourceAbilities)) {
+        return;
     }
     
-    // Format 1: Array of objects [{"name": "...", "category": "...", "level": X}]
-    if (is_array($abilities) && isset($abilities[0]) && is_array($abilities[0]) && isset($abilities[0]['name'])) {
-        $insert_sql = "INSERT INTO character_abilities (character_id, ability_name, level, specialization) VALUES (?, ?, ?, ?)";
-        $stmt = mysqli_prepare($conn, $insert_sql);
-        
-        if ($stmt) {
-            foreach ($abilities as $ability) {
-                $name = cleanString($ability['name'] ?? '');
-                $level = cleanInt($ability['level'] ?? 1);
-                $level = max(1, min(5, $level));
-                $specialization = cleanString($specializations[$name] ?? null);
-                
-                if (empty($name)) {
-                    continue;
-                }
-                
-                mysqli_stmt_bind_param($stmt, 'isis', $character_id, $name, $level, $specialization);
-                mysqli_stmt_execute($stmt);
+    // Process through AbilityAgent
+    $result = $agent->processAbilities($sourceAbilities);
+    
+    // Store mapped abilities (canonical format)
+    $insert_sql = "INSERT INTO character_abilities (character_id, ability_name, ability_category, level, specialization) VALUES (?, ?, ?, ?, ?)";
+    $stmt = mysqli_prepare($conn, $insert_sql);
+    
+    if ($stmt) {
+        foreach ($result['mappedAbilities'] as $ability) {
+            $name = $ability['name'] ?? '';
+            $category = $ability['category'] ?? null;
+            $level = max(1, min(5, (int)($ability['level'] ?? 1)));
+            $specialization = !empty($ability['specialization']) ? $ability['specialization'] : null;
+            
+            if (empty($name)) {
+                continue;
             }
-            mysqli_stmt_close($stmt);
+            
+            mysqli_stmt_bind_param($stmt, 'issis', $character_id, $name, $category, $level, $specialization);
+            mysqli_stmt_execute($stmt);
         }
+        mysqli_stmt_close($stmt);
     }
-    // Format 2: Array of strings ["Ability (Specialization) 4", "Ability 2"]
-    elseif (isset($abilities[0]) && is_string($abilities[0])) {
-        $insert_sql = "INSERT INTO character_abilities (character_id, ability_name, level, specialization) VALUES (?, ?, ?, ?)";
-        $stmt = mysqli_prepare($conn, $insert_sql);
-        
-        if ($stmt) {
-            foreach ($abilities as $abilityStr) {
-                // Parse "Ability (Specialization) 4" or "Ability 4"
-                if (preg_match('/^(.+?)(?:\s+\(([^)]+)\))?\s+(\d+)$/', $abilityStr, $matches)) {
-                    $name = cleanString($matches[1]);
-                    $specialization = isset($matches[2]) ? cleanString($matches[2]) : null;
-                    $level = cleanInt($matches[3]);
-                    $level = max(1, min(5, $level));
-                    
-                    // Override with specializations object if available
-                    if (isset($specializations[$name])) {
-                        $specialization = cleanString($specializations[$name]);
-                    }
-                    
-                    mysqli_stmt_bind_param($stmt, 'isis', $character_id, $name, $level, $specialization);
-                    mysqli_stmt_execute($stmt);
-                }
-            }
-            mysqli_stmt_close($stmt);
-        }
-    }
-    // Format 3: Object with categories {Physical: [...], Social: [...], Mental: [...]}
-    elseif (is_array($abilities) && !isset($abilities[0]) && (isset($abilities['Physical']) || isset($abilities['Social']) || isset($abilities['Mental']))) {
-        $insert_sql = "INSERT INTO character_abilities (character_id, ability_name, level, specialization) VALUES (?, ?, ?, ?)";
-        $stmt = mysqli_prepare($conn, $insert_sql);
-        
-        if ($stmt) {
-            $allowedCategories = ['Physical', 'Social', 'Mental'];
-            foreach ($abilities as $category => $abilityNames) {
-                if (!in_array($category, $allowedCategories, true) || !is_array($abilityNames)) {
-                    continue;
-                }
-                
-                // Count occurrences to get level
-                $abilityCounts = [];
-                foreach ($abilityNames as $abilityName) {
-                    $cleanName = trim($abilityName);
-                    if (strpos($cleanName, ' (') !== false) {
-                        $cleanName = substr($cleanName, 0, strpos($cleanName, ' ('));
-                    }
-                    $abilityCounts[$cleanName] = ($abilityCounts[$cleanName] ?? 0) + 1;
-                }
-                
-                foreach ($abilityCounts as $abilityName => $level) {
-                    $level = max(1, min(5, (int)$level));
-                    $specialization = cleanString($specializations[$abilityName] ?? null);
-                    
-                    mysqli_stmt_bind_param($stmt, 'isis', $character_id, $abilityName, $level, $specialization);
-                    mysqli_stmt_execute($stmt);
-                }
-            }
-            mysqli_stmt_close($stmt);
-        }
+    
+    // Collect issues for reporting
+    foreach ($result['allIssues'] as $issue) {
+        $importIssues[] = [
+            'type' => 'ability',
+            'character_id' => $character_id,
+            'issue' => $issue
+        ];
     }
 }
 
@@ -874,7 +920,11 @@ function importCharacterFile(mysqli $conn, string $filepath, array &$stats): boo
             $character_id = upsertCharacter($conn, $data);
             
             // Import related tables
-            importAbilities($conn, $character_id, $data);
+            $characterIssues = [];
+            importAbilities($conn, $character_id, $data, $characterIssues);
+            if (!empty($characterIssues)) {
+                $stats['import_issues'] = array_merge($stats['import_issues'], $characterIssues);
+            }
             importDisciplines($conn, $character_id, $data);
             importTraits($conn, $character_id, $data);
             importNegativeTraits($conn, $character_id, $data);
@@ -1019,6 +1069,26 @@ if (!empty($stats['errors'])) {
     foreach ($stats['errors'] as $error) {
         echo "  - $error\n";
     }
+}
+
+if (!empty($stats['import_issues'])) {
+    echo "\n=== Import Issues (Abilities Validation) ===\n";
+    $issueCounts = ['error' => 0, 'warning' => 0, 'info' => 0];
+    foreach ($stats['import_issues'] as $item) {
+        $issue = $item['issue'];
+        $severity = $issue['severity'] ?? 'info';
+        $issueCounts[$severity] = ($issueCounts[$severity] ?? 0) + 1;
+        
+        echo "  [{$severity}] {$issue['message']}\n";
+        if (isset($issue['metadata']['source_name'])) {
+            echo "      Source: {$issue['metadata']['source_name']}";
+            if (isset($issue['metadata']['canonical_name']) && $issue['metadata']['canonical_name'] !== $issue['metadata']['source_name']) {
+                echo " -> {$issue['metadata']['canonical_name']}";
+            }
+            echo "\n";
+        }
+    }
+    echo "\nIssue Summary: {$issueCounts['error']} errors, {$issueCounts['warning']} warnings, {$issueCounts['info']} info messages\n";
 }
 
 if (!$is_cli) {

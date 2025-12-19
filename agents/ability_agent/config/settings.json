@@ -1,0 +1,33 @@
+{
+  "enabled": true,
+  "validation": {
+    "strict_mode": false,
+    "allow_unknown": true,
+    "auto_replace_deprecated": false,
+    "fuzzy_threshold": 0.8
+  },
+  "aliases": {
+    "Alertness": "Awareness",
+    "Gunplay": "Firearms",
+    "Archery": "Firearms",
+    "Tech": "Computer",
+    "Street Smarts": "Streetwise"
+  },
+  "deprecations": {
+    "Old Ability Name": {
+      "replacement": "New Ability Name",
+      "category": "Physical",
+      "reason": "Example - replace with actual deprecations as needed"
+    }
+  },
+  "normalization": {
+    "case_sensitive": false,
+    "trim_whitespace": true,
+    "fuzzy_matching": true
+  },
+  "logging": {
+    "enabled": true,
+    "level": "info"
+  }
+}
+
