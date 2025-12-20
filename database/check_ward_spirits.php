@@ -25,3 +25,5 @@ echo "\n'{$test}' normalizes to: '{$normalized}'\n";
 mysqli_close($conn);
 ?>
 
+
+

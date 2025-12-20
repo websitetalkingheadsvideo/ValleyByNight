@@ -138,6 +138,96 @@ $agents = [
             ]
         ]
     ],
+    [
+        "name" => "Rituals Agent",
+        "slug" => "rituals_agent",
+        "description" => "Displays and manages all rituals from the rituals_master table. Provides comprehensive ritual information including type, level, name, description, and source.",
+        "data_access" => [
+            "/agents/rituals_agent/",
+            "rituals_master table"
+        ],
+        "purpose" => "Display all rituals in a sortable table format with key attributes for easy reference and management.",
+        "status" => "Active",
+        "last_event" => "Ready to display rituals.",
+        "actions" => [
+            [
+                "label" => "View Rituals",
+                "url" => "../agents/rituals_agent/rituals_display.php"
+            ]
+        ]
+    ],
+    [
+        "name" => "Paths Agent",
+        "slug" => "paths_agent",
+        "description" => "Displays and manages all paths from the paths_master table. Features include sortable columns, real-time search, statistics, and detailed path view with powers organized by level.",
+        "data_access" => [
+            "/agents/paths_agent/",
+            "paths_master table"
+        ],
+        "purpose" => "Provide comprehensive path information including all powers, system text, challenge types, and challenge notes.",
+        "status" => "Active",
+        "last_event" => "Ready to display paths.",
+        "actions" => [
+            [
+                "label" => "View Paths",
+                "url" => "../agents/paths_agent/paths_display.php"
+            ]
+        ]
+    ],
+    [
+        "name" => "Discipline Agent",
+        "slug" => "discipline_agent",
+        "description" => "Manages and displays discipline information for characters. Provides test and debugging interface for discipline data.",
+        "data_access" => [
+            "/agents/discipline_agent/",
+            "discipline-related tables"
+        ],
+        "purpose" => "Display and manage character disciplines with testing and debugging capabilities.",
+        "status" => "Active",
+        "last_event" => "Ready to display disciplines.",
+        "actions" => [
+            [
+                "label" => "View Disciplines",
+                "url" => "../agents/discipline_agent/discipline_test.php"
+            ]
+        ]
+    ],
+    [
+        "name" => "Clanbook Viewer",
+        "slug" => "clanbook_viewer",
+        "description" => "Allows selection and viewing of Phoenix-localized clanbooks. Provides a viewer for clan-specific documentation.",
+        "data_access" => [
+            "/reference/docs/clanbook_viewer.php",
+            "/reference/docs/clanbooks/"
+        ],
+        "purpose" => "Provide access to Phoenix-localized clanbook documentation for reference.",
+        "status" => "Active",
+        "last_event" => "Ready to display clanbooks.",
+        "actions" => [
+            [
+                "label" => "View Clanbooks",
+                "url" => "../reference/docs/clanbook_viewer.php"
+            ]
+        ]
+    ],
+    [
+        "name" => "Music Agent",
+        "slug" => "music_agent",
+        "description" => "Manages music assets, playback cues, and bindings for NPCs and locations. Provides comprehensive music registry administration system.",
+        "data_access" => [
+            "/agents/music_agent/",
+            "music registry tables"
+        ],
+        "purpose" => "Manage music assets, create playback cues, add music bindings to NPCs and locations, and configure music system settings.",
+        "status" => "Active",
+        "last_event" => "Ready to manage music assets.",
+        "actions" => [
+            [
+                "label" => "Music Registry",
+                "url" => "../agents/music_agent/index.php"
+            ]
+        ]
+    ],
     // Future agents can be appended here.
 ];
 

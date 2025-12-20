@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.8.59
+## Current Version: 0.8.60
+
+**Date:** 2025-01-30  
+**Type:** Patch (Sabbat character extraction and migration script - exports 69 characters from Grapevine XML to JSON)
+
+## Previous Version: 0.8.59
 
 **Date:** 2025-01-30  
 **Type:** Patch (Music assets import script with source mapping fix and repair function)
