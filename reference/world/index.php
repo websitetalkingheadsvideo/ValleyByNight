@@ -2,6 +2,13 @@
 /**
  * Valley by Night - World Overview Index
  * Displays all world overview documentation files in an organized view
+ * 
+ * METADATA CONTRACT:
+ * - Reports are discovered dynamically by scanning _summaries/ directory
+ * - Files must match pattern: *_XXXX.md where XXXX is 4-digit version code
+ * - Metadata headers (YAML frontmatter) are optional but recommended
+ * - New report files should appear automatically without code changes
+ * - Version grouping is determined by filename pattern, not metadata
  */
 
 // Start session if not already started
