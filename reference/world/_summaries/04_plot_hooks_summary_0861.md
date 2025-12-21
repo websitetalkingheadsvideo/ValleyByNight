@@ -1,3 +1,11 @@
+---
+report_id: plot_hooks_summary
+version: 0.8.61
+report_type: plot_hooks
+generated: 2025-12-20
+source: reference/Plot Hooks/*.md, reference/Plot Hooks/*.json
+---
+
 # Plot Hooks Summary - VbN World Overview
 
 **Source Files:** `reference/Plot Hooks/*.md`, `reference/Plot Hooks/*.json`  

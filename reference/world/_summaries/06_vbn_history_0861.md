@@ -1,3 +1,12 @@
+---
+report_id: vbn_history
+version: 0.8.61
+report_type: history
+generated: 2025-01-30
+source: Synthesized from all previous summaries (Characters, Locations, Game Lore, Plot Hooks, Canon/Clan)
+scope: Phoenix, Arizona - Kindred history from earliest known events through 1994
+---
+
 # VbN History - Chronological Narrative
 
 **Synthesized from:** All previous summaries (Characters, Locations, Game Lore, Plot Hooks, Canon/Clan)  

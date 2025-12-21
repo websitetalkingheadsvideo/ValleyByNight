@@ -2,7 +2,7 @@
 
 **Source:** MySQL Database (canonical)
 **Generated:** 2025-12-21
-**Total NPCs:** 46
+**Total Characters:** 50
 
 ---
 
@@ -10,9 +10,10 @@
 
 ### **Fact** (from database)
 
-Based on analysis of 46 NPC characters in the database:
+Based on analysis of 50 characters in the database:
 
 - **Toreador**: 10 characters
+- **Giovanni**: 5 characters
 - **Malkavian**: 5 characters
 - **Nosferatu**: 4 characters
 - **Tremere**: 4 characters
@@ -21,7 +22,6 @@ Based on analysis of 46 NPC characters in the database:
 - **Ventrue**: 3 characters
 - **Brujah**: 3 characters
 - **Ghoul (Domitor: Étienne Duvalier)**: 2 characters
-- **Giovanni**: 1 character
 - **N/A - Human**: 1 character
 - **Ravnos**: 1 character
 - **Assamite**: 1 character
@@ -154,6 +154,83 @@ The Toreador clan appears to have the strongest presence in Phoenix.
 #### **Lilith Nightshade** (Malkavian, Generation 9)
 - **Fact** (from database): Elegant and terrifying oracle of the Malkavians
 
+#### **Lorenzo Giovanni** (Giovanni, Generation 9)
+- **Fact** (from database): Giovanni Independent
+
+#### **Lucien Marchand** (Ghoul (Domitor: Étienne Duvalier), Generation 0)
+- **Fact** (from database): Devoted Artisan / Living Chisel
+
+#### **Marcus Webb** (Followers of Set, Generation 10)
+- **Fact** (from database): Setite Club Manager / Roxanne's Right Hand / Moderate Believer
+- **Fact**: Sire: Roxanne Murphy
+
+#### **Marianna Giovanni** (Giovanni, Generation 9)
+- **Fact** (from database): Giovanni Independent
+
+#### **Marisol "Roadrunner" Vega** (Gangrel, Generation 11)
+- **Fact** (from database): 
+
+#### **Misfortune** (Malkavian, Generation 9)
+- **Fact** (from database): Boon Collector
+
+#### **Mr. Harold Ashby** (Malkavian, Generation 10)
+- **Fact** (from database): Ritualistic Malkavian killer obsessed with capturing 'quiet' moments of grief
+- **Fact**: Sire: him
+
+#### **Paris Giovanni** (Giovanni, Generation 8)
+- **Fact** (from database): Giovanni Arch-Necromancer
+
+#### **Paulo Benedicto Giovanni** (Giovanni, Generation 8)
+- **Fact** (from database): Giovanni Director
+
+#### **Phreak** (N/A - Human (Cybernetically Enhanced), Generation 0)
+- **Fact** (from database): Elite hacker and digital resistance operative
+
+#### **Pistol Pete** (Brujah, Generation 11)
+- **Fact** (from database): Rage Against the Machine / Street-Level Enforcer
+- **Fact**: Sire: Late 1980s, Phoenix (former street racer/punk)
+
+#### **Piston** (Brujah, Generation 9)
+- **Fact** (from database): Hell's Angel Enforcer / Anarch Street Fighter
+- **Fact**: Sire: Fred Osmond
+
+#### **Rembrandt Jones** (Toreador, Generation 12)
+- **Fact** (from database): Roadside Americana Artist - Comic Relief Living Masterpiece
+- **Fact**: Sire: during
+
+#### **Roxanne Murphy** (Followers of Set, Generation 9)
+- **Fact** (from database): Setite temple-mistress running a nightclub front in Mesa
+
+#### **Roxanne Vega** (Toreador, Generation 13)
+- **Fact** (from database): Street Artist Turned Iconoclast
+- **Fact**: Sire: Unknown
+
+#### **Sabine** (Toreador, Generation 10)
+- **Fact** (from database): Twin Talon - Organization Specialist
+- **Fact**: Sire: both
+
+#### **Sasha** (Malkavian, Generation 11)
+- **Fact** (from database): The Grand Conspiracy Theorist / Anarch Strategist
+- **Fact**: Sire: Early 1990s, unknown location
+
+#### **Sebastian** (Toreador, Generation 10)
+- **Fact** (from database): Twin Talon - Data Specialist
+- **Fact**: Sire: both
+
+#### **Sofia Alvarez** (Ghoul (Domitor: Étienne Duvalier), Generation 0)
+- **Fact** (from database): The Spatial Empath / Conversational Architect
+
+#### **Tariq Ibrahim** (Followers of Set, Generation 10)
+- **Fact** (from database): 
+
+#### **Tor** (Ghoul, Generation 13)
+- **Fact** (from database): Apt pupil ghoul bound to Mr. Ashby
+- **Fact**: Sire: Mr. Harold Ashby
+
+#### **Violet 'The Confidence Queen'** (Nosferatu, Generation 10)
+- **Fact** (from database): Nosferatu street hustler and information broker who runs scams, sells gossip, and keeps the pulse of
+- **Fact**: Sire: Unknown
+
 ---
 
 ## Generation Analysis
@@ -161,8 +238,8 @@ The Toreador clan appears to have the strongest presence in Phoenix.
 ### **Fact** (from database)
 
 - **Generation 0**: 4 characters
-- **Generation 8**: 1 character
-- **Generation 9**: 12 characters
+- **Generation 8**: 3 characters
+- **Generation 9**: 14 characters
 - **Generation 10**: 14 characters
 - **Generation 11**: 7 characters
 - **Generation 12**: 5 characters

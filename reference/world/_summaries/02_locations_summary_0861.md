@@ -1,3 +1,11 @@
+---
+report_id: locations_summary
+version: 0.8.61
+report_type: locations
+generated: 2025-12-20
+source: reference/Locations/*.json, reference/Locations/*.md, reference/game-lore/Setting.txt
+---
+
 # Location Summary - VbN World Overview
 
 **Source Files:** `reference/Locations/*.json`, `reference/Locations/*.md`, `reference/Locations/Hawthorne Estate/*.md`, `reference/Locations/PC Havens/*.json`, `reference/Locations/Violet Reliquary/*.json`  

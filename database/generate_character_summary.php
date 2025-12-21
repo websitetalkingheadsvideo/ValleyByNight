@@ -26,14 +26,18 @@ if (!$conn) {
 }
 
 /**
- * Get all NPCs from database with full data
+ * Get all characters from database with full data
+ * Includes both NPCs and PCs to match admin panel display
+ * NPCs are identified by: player_name = 'NPC' OR pc = 0
+ * But we include ALL characters to match the 50 total shown in admin panel
  */
 function getAllNPCs(mysqli $conn): array {
-    $query = "SELECT * FROM characters WHERE (pc = 0 OR player_name = 'NPC') ORDER BY character_name";
+    // Get all characters (NPCs and PCs) to match admin panel total of 50
+    $query = "SELECT * FROM characters ORDER BY character_name";
     $result = mysqli_query($conn, $query);
     
     if (!$result) {
-        throw new Exception("Failed to query NPCs: " . mysqli_error($conn));
+        throw new Exception("Failed to query characters: " . mysqli_error($conn));
     }
     
     $npcs = [];
@@ -119,13 +123,13 @@ function generateSummary(mysqli $conn): string {
     $summary = "# Character Summary - VbN World Overview\n\n";
     $summary .= "**Source:** MySQL Database (canonical)\n";
     $summary .= "**Generated:** " . date('Y-m-d') . "\n";
-    $summary .= "**Total NPCs:** " . count($npcs) . "\n\n";
+    $summary .= "**Total Characters:** " . count($npcs) . "\n\n";
     $summary .= "---\n\n";
     
     // Clan Distribution
     $summary .= "## Clan Distribution\n\n";
     $summary .= "### **Fact** (from database)\n\n";
-    $summary .= "Based on analysis of " . count($npcs) . " NPC characters in the database:\n\n";
+    $summary .= "Based on analysis of " . count($npcs) . " characters in the database:\n\n";
     
     foreach ($clanCounts as $clan => $count) {
         $summary .= "- **{$clan}**: {$count} character" . ($count > 1 ? 's' : '') . "\n";
@@ -201,19 +205,16 @@ function generateSummary(mysqli $conn): string {
         }
     }
     
-    // Other Notable Characters (first 20)
+    // Other Notable Characters (all characters)
     if (!empty($otherNotable)) {
         $summary .= "### Other Notable Characters\n\n";
-        $count = 0;
         foreach ($otherNotable as $npc) {
-            if ($count >= 20) break;
             $summary .= "#### **{$npc['character_name']}** ({$npc['clan']}, Generation {$npc['generation']})\n";
             $summary .= "- **Fact** (from database): " . ($npc['concept'] ?? 'No concept recorded') . "\n";
             if (!empty($npc['sire'])) {
                 $summary .= "- **Fact**: Sire: {$npc['sire']}\n";
             }
             $summary .= "\n";
-            $count++;
         }
     }
     

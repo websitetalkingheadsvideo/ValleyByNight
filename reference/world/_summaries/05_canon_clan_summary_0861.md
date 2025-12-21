@@ -1,3 +1,12 @@
+---
+report_id: canon_clan_summary
+version: 0.8.61
+report_type: canon_clan
+generated: 2025-01-30
+source: canon/clan/*/phoenix/
+scope: Phoenix-specific clan profiles, politics, NPCs, and hooks
+---
+
 # Canon/Clan/Phoenix Analysis Summary
 
 **Source:** `canon/clan/*/phoenix/`  

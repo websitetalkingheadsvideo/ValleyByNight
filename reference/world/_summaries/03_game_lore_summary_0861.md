@@ -1,3 +1,11 @@
+---
+report_id: game_lore_summary
+version: 0.8.61
+report_type: game_lore
+generated: 2025-12-20
+source: reference/game-lore/Setting.txt, reference/game-lore/Starting statement.txt, reference/game-lore/Harpy.md
+---
+
 # Game Lore Summary - VbN World Overview
 
 **Source Files:** `reference/game-lore/Setting.txt`, `reference/game-lore/Starting statement.txt`, `reference/game-lore/Harpy.md`, `reference/game-lore/IMPORT_GUIDE.md`  
