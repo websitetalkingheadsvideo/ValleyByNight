@@ -1,0 +1,120 @@
+{
+    "id": 60,
+    "user_id": 1,
+    "character_name": "Lucien Marchand",
+    "player_name": "NPC",
+    "chronicle": "Valley by Night",
+    "nature": "Perfectionist",
+    "demeanor": "Conformist",
+    "concept": "Devoted Artisan / Living Chisel",
+    "clan": "Ghoul (Domitor: Étienne Duvalier)",
+    "generation": 0,
+    "sire": "0",
+    "pc": 0,
+    "appearance": "",
+    "biography": "Originally a Parisian conservator in his late 20s, Lucien Marchand was ghouled by Étienne Duvalier in 1927 and has served as his sculptor's assistant and personal attendant for nearly 70 years. Tall, quiet, and ghost-pale with short blond hair and intense blue eyes, his hands are perpetually dusted with fine white powder from marble, plaster, and bone. He moves like a statue that decided to breathe, utterly devoted to the belief that Étienne's art is divine work and that his purpose is to assist a god in creation. He rarely speaks unless asked direct questions and sometimes carves tiny, unfinished statues that he hides around Elysium - uncommissioned works reflecting Kindred faces seen in passing. Étienne occasionally finds and corrects them in their silent collaboration. He embodies Étienne's obsession with form - shaping matter with absolute precision.",
+    "notes": "",
+    "equipment": "Sculptor's tools (chisels, mallets, files), fine white powder residue, sketchbook of unfinished works, work apron",
+    "character_image": "Lucien Marchand.png",
+    "status": {
+        "sect_status": "",
+        "clan_status": "",
+        "city_status": "",
+        "health_levels": 7,
+        "blood_pool_current": null,
+        "blood_pool_maximum": null,
+        "blood_per_turn": 1,
+        "xp_total": 0,
+        "xp_spent": 0,
+        "xp_available": 0,
+        "notes": ""
+    },
+    "camarilla_status": "Unknown",
+    "traits": {
+        "Physical": [
+            "Precise",
+            "Precise",
+            "Precise",
+            "Resilient",
+            "Resilient",
+            "Resilient",
+            "Steady-handed",
+            "Strong",
+            "Strong",
+            "Strong"
+        ],
+        "Social": [
+            "Attractive",
+            "Attractive",
+            "Attractive",
+            "Earnest",
+            "Earnest"
+        ],
+        "Mental": [
+            "Attentive",
+            "Attentive",
+            "Attentive",
+            "Observant",
+            "Observant",
+            "Observant",
+            "Observant"
+        ]
+    },
+    "negativeTraits": {
+        "Physical": [],
+        "Social": [
+            "Shy"
+        ],
+        "Mental": []
+    },
+    "abilities": [],
+    "specializations": [],
+    "disciplines": [
+        {
+            "name": "Auspex",
+            "level": 1
+        },
+        {
+            "name": "Celerity",
+            "level": 2
+        }
+    ],
+    "backgrounds": {
+        "Allies": 0,
+        "Contacts": 0,
+        "Fame": 0,
+        "Generation": 0,
+        "Herd": 0,
+        "Influence": 0,
+        "Mentor": 0,
+        "Resources": 0,
+        "Retainers": 0,
+        "Status": 0
+    },
+    "backgroundDetails": [],
+    "morality": {
+        "path_name": "Humanity",
+        "path_rating": 6,
+        "conscience": 3,
+        "self_control": 3,
+        "courage": 3,
+        "willpower_permanent": 6,
+        "willpower_current": 6,
+        "humanity": 6
+    },
+    "merits_flaws": [
+        {
+            "name": "Ghoul",
+            "type": "Merit",
+            "category": "Supernatural",
+            "cost": 0,
+            "description": "Fed Toreador vitae regularly since 1927. Gains Potence 1 automatically, plus Celerity 2 and Auspex 1 taught by domitor. Ages approximately 1 year per decade."
+        }
+    ],
+    "coteries": [],
+    "relationships": [],
+    "rituals": [],
+    "custom_data": null,
+    "created_at": "2025-10-24 19:35:36",
+    "updated_at": "2025-12-02 04:26:04"
+}

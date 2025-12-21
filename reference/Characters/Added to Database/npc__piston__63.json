@@ -1,0 +1,124 @@
+{
+    "id": 63,
+    "user_id": 1,
+    "character_name": "Piston",
+    "player_name": "NPC",
+    "chronicle": "Valley by Night",
+    "nature": "Rebel",
+    "demeanor": "Thug",
+    "concept": "Hell's Angel Enforcer / Anarch Street Fighter",
+    "clan": "Brujah",
+    "generation": 9,
+    "sire": "Fred Osmond",
+    "pc": 0,
+    "appearance": "Imposing Brujah biker built like a diesel engine—broad shoulders, scarred knuckles, and a permanent scowl etched into weathered features. Wears a worn leather cut with faded Hell's Angels patches over a dark denim shirt, chain wallet, and heavy boots caked with desert dust. His black hair is kept short and greased back, and his eyes burn with the intensity of someone who's seen too much violence. Those with Auspex can see the telltale black veins spiderwebbing beneath his skin—the mark of diablerie that follows him like a curse. He moves with the deliberate, heavy grace of someone who's survived faction wars and knows how to use every scar as a weapon.",
+    "biography": "Originally generation 10, Piston committed diablerie on a Gangrel during the Los Angeles Anarch faction wars (late 1980s/early 1990s). A former Hell's Angels member embraced in mid-1980s LA by Fred Osmond, he adapted to Kindred life while maintaining his biker identity. He found the Anarch philosophy aligned with Hell's Angels anti-authority stance. During the LA Anarch Free State internal faction wars, he rose in power through combat prowess. In late 80s/early 90s during a gang clash, he frenzied in combat with a Gangrel enforcer. The Beast took over and he committed diablerie, gaining Fortitude but acquiring the mark. LA became too dangerous after the diablerie - Gangrel wanted revenge, faction was divided. He fled to Phoenix early-to-mid 1990s, established in Surprise, and embraced two former Hell's Angels (Butch Reed and Basher) to rebuild brotherhood. Now running criminal operations to fund acquisition of a bar.",
+    "notes": "Generation 9 Brujah Anarch. Originally generation 10, committed diablerie on Gangrel in LA. Now in Phoenix running criminal operations. Wants to acquire a bar for his coterie. Has two childer: Butch Reed and Basher. Marked by diablerie - black veins visible to Auspex users.",
+    "equipment": "Harley-Davidson (classic model from the 80s), fists (primary with Potence), knife, possibly firearms, multiple leather jackets, denim, boots, biker gear",
+    "character_image": "Piston.png",
+    "status": {
+        "sect_status": "",
+        "clan_status": "",
+        "city_status": "",
+        "health_levels": 7,
+        "blood_pool_current": null,
+        "blood_pool_maximum": null,
+        "blood_per_turn": 1,
+        "xp_total": 0,
+        "xp_spent": 0,
+        "xp_available": 0,
+        "notes": ""
+    },
+    "camarilla_status": "Unknown",
+    "traits": {
+        "Physical": [
+            "Athletic",
+            "Imposing",
+            "Resilient",
+            "Strong",
+            "Tough"
+        ],
+        "Social": [
+            "Blunt",
+            "Brotherly",
+            "Direct",
+            "Intimidating",
+            "Loyal",
+            "Protective"
+        ],
+        "Mental": [
+            "Instinctive",
+            "Practical",
+            "Streetwise",
+            "Survivor"
+        ]
+    },
+    "negativeTraits": {
+        "Physical": [],
+        "Social": [
+            "Aggressive",
+            "Violent"
+        ],
+        "Mental": [
+            "Impulsive",
+            "Reckless"
+        ]
+    },
+    "abilities": [],
+    "specializations": [],
+    "disciplines": [
+        {
+            "name": "Celerity",
+            "level": 2
+        },
+        {
+            "name": "Fortitude",
+            "level": 2
+        },
+        {
+            "name": "Potence",
+            "level": 2
+        },
+        {
+            "name": "Presence",
+            "level": 2
+        }
+    ],
+    "backgrounds": {
+        "Allies": 2,
+        "Contacts": 3,
+        "Generation": 1,
+        "Influence": 3,
+        "Resources": 1
+    },
+    "backgroundDetails": {
+        "Allies": "His two childer, Butch Reed and Basher, plus some Phoenix Anarch connections",
+        "Contacts": "Street contacts from Hell's Angels days and current criminal operations",
+        "Influence": "Street influence in northwest Phoenix suburbs, some underworld connections"
+    },
+    "morality": {
+        "path_name": "Humanity",
+        "path_rating": 5,
+        "conscience": 2,
+        "self_control": 2,
+        "courage": 5,
+        "willpower_permanent": 8,
+        "willpower_current": 8,
+        "humanity": 5
+    },
+    "merits_flaws": [
+        {
+            "name": "Diablerie",
+            "type": "Flaw",
+            "category": "Supernatural",
+            "cost": 2,
+            "description": "Black veins visible in aura to Auspex users, marking him as a diablerist. The Gangrel clan seeks revenge. Other Kindred react with suspicion or fear."
+        }
+    ],
+    "coteries": [],
+    "relationships": [],
+    "rituals": [],
+    "custom_data": null,
+    "created_at": "2025-10-24 19:38:32",
+    "updated_at": "2025-11-08 19:35:08"
+}

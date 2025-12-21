@@ -1,0 +1,149 @@
+{
+    "id": 71,
+    "user_id": 1,
+    "character_name": "Jennifer Kwan",
+    "player_name": "NPC",
+    "chronicle": "Valley by Night",
+    "nature": "Competitor",
+    "demeanor": "Director",
+    "concept": "Setite Security Chief / Business Manager / Pragmatic Non-Believer",
+    "clan": "Followers of Set",
+    "generation": 11,
+    "sire": "Marcus Webb",
+    "pc": 0,
+    "appearance": "Practical Setite in tactical gear that never quite looks out of place—dark cargo pants, fitted black shirts, combat boots polished to a mirror shine. Keeps her black hair pulled back in a tight bun, eyes constantly scanning for threats. Moves with military precision, every gesture efficient and calculated. Wears a concealed sidearm and carries herself like someone who's always ready for violence, even in the middle of a nightclub.",
+    "biography": "Jennifer Kwan was a security contractor before her Embrace, specializing in protecting high-value targets in dangerous locations. A Setite saw potential in her combination of tactical skill and pragmatic morality—someone who could protect Setite interests while maintaining plausible deniability. She was Embraced in the early 2000s and brought to Phoenix to serve as Security Director for The Hole, Roxanne Murphy's nightclub and temple.\n\nJennifer approaches her role with military efficiency. She's built comprehensive security systems, trained staff, and created contingency plans for every scenario she can imagine. The blasphemy-shrine beneath the club is her greatest challenge—protecting something that must remain completely secret while maintaining a public-facing business.\n\nUnlike Roxanne's religious fervor or Marcus's business focus, Jennifer is purely practical. She doesn't share Roxanne's faith in Set's return, but she respects the structure and purpose it provides. She maintains hidden surveillance even in areas where Roxanne thinks there are none—not out of disloyalty, but because she believes in redundancy and worst-case planning.\n\nJennifer's haven is minimalist and functional, stocked with weapons, communications equipment, and escape routes. She's prepared for the day when The Hole's true nature is discovered, when the Giovanni come calling, or when the Masquerade breaks. She hopes that day never comes, but she'll be ready if it does.",
+    "notes": "Setite Security Director for The Hole nightclub. Former security contractor, Embraced early 2000s. Practical, tactical, maintains hidden surveillance and contingency plans even Roxanne doesn't know about. Less religious than Roxanne but loyal to the structure. Useful ST contact for security expertise, tactical planning, or when The Hole needs protection. Hooks: her hidden surveillance is discovered, she must choose between loyalty and survival, her contingency plans are needed, or she discovers something about The Hole's true purpose that changes everything.",
+    "equipment": "Laptop and tablet with encrypted files, multiple smartphones (burner phones for sensitive communications), security system master controls for The Hole, concealed carry Sig Sauer P365 (9mm, always armed), backup weapon (ankle holster), surveillance equipment, lock picks and security bypass tools, business attire wardrobe, leather jacket with armor panels, corporate credit cards with high limits, safe deposit boxes (multiple locations with cash/documents), fake IDs (contingency planning), keys and access codes to everything in The Hole, personal defense items (pepper spray, taser - for show when pretending to be human)",
+    "character_image": "71_1761917569_5db6b141.png",
+    "status": {
+        "sect_status": "",
+        "clan_status": "",
+        "city_status": "",
+        "health_levels": 7,
+        "blood_pool_current": null,
+        "blood_pool_maximum": null,
+        "blood_per_turn": 1,
+        "xp_total": 20,
+        "xp_spent": 0,
+        "xp_available": 20,
+        "notes": ""
+    },
+    "camarilla_status": "Unknown",
+    "traits": {
+        "Physical": [
+            "Agile",
+            "Dexterous",
+            "Lithe",
+            "Quick",
+            "Tireless"
+        ],
+        "Social": [
+            "Charismatic",
+            "Commanding",
+            "Intimidating",
+            "Persuasive",
+            "Witty"
+        ],
+        "Mental": [
+            "Alert",
+            "Analytical",
+            "Cunning",
+            "Disciplined",
+            "Intelligent",
+            "Observant",
+            "Patient"
+        ]
+    },
+    "negativeTraits": {
+        "Physical": [],
+        "Social": [
+            "Callous"
+        ],
+        "Mental": [
+            "Cynical"
+        ]
+    },
+    "abilities": [],
+    "specializations": [],
+    "disciplines": [
+        {
+            "name": "Presence",
+            "level": 2
+        },
+        {
+            "name": "Serpentis",
+            "level": 2
+        }
+    ],
+    "backgrounds": {
+        "Allies": 1,
+        "Contacts": 3,
+        "Generation": 2,
+        "Herd": 1,
+        "Influence": 2,
+        "Resources": 3,
+        "Retainers": 2
+    },
+    "backgroundDetails": [],
+    "morality": {
+        "path_name": "Path of Typhon (Setite Path)",
+        "path_rating": 4,
+        "conscience": 3,
+        "self_control": 4,
+        "courage": 4,
+        "willpower_permanent": 7,
+        "willpower_current": 7,
+        "humanity": 4
+    },
+    "merits_flaws": [
+        {
+            "name": "Acute Sense (Sight)",
+            "type": "Merit",
+            "category": "Physical",
+            "cost": 1,
+            "description": "Jennifer has exceptionally sharp vision, essential for security work. -1 difficulty on visual Perception rolls."
+        },
+        {
+            "name": "Computer Aptitude",
+            "type": "Merit",
+            "category": "Mental",
+            "cost": 2,
+            "description": "Natural talent with technology and systems. -2 difficulty on Computer rolls."
+        },
+        {
+            "name": "Danger Sense",
+            "type": "Merit",
+            "category": "Mental",
+            "cost": 2,
+            "description": "Preternatural awareness of threats. ST warns player when Jennifer is walking into danger. Essential for security chief."
+        },
+        {
+            "name": "Dark Secret",
+            "type": "Flaw",
+            "category": "Social",
+            "cost": 1,
+            "description": "Jennifer is building escape plans and contingencies that would require defying or abandoning Roxanne. If discovered, would be seen as profound betrayal. She views it as practical insurance."
+        },
+        {
+            "name": "Probationary Sect Member",
+            "type": "Flaw",
+            "category": "Social",
+            "cost": 4,
+            "description": "Jennifer is too young, too pragmatic, and not devoted enough to be fully trusted by Setite hierarchy. Other Setites watch her carefully, question her commitment. Limits her status and opportunities within clan."
+        },
+        {
+            "name": "Vulnerability to Light",
+            "type": "Flaw",
+            "category": "Supernatural",
+            "cost": 2,
+            "description": "All Setites suffer increased vulnerability to light. Takes additional health level of damage from sunlight."
+        }
+    ],
+    "coteries": [],
+    "relationships": [],
+    "rituals": [],
+    "custom_data": null,
+    "created_at": "2025-10-29 03:28:18",
+    "updated_at": "2025-11-08 19:35:08"
+}

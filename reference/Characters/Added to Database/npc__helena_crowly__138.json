@@ -1,0 +1,166 @@
+{
+    "id": 138,
+    "user_id": 1,
+    "character_name": "Helena Crowly",
+    "player_name": "NPC",
+    "chronicle": "Valley by Night",
+    "nature": "Architect",
+    "demeanor": "Teacher",
+    "concept": "Tremere occult archaeologist and forensic thaumaturge",
+    "clan": "Tremere",
+    "generation": 9,
+    "sire": "0",
+    "pc": 0,
+    "appearance": "An unnervingly precise young woman in charcoal skirts and ivory blouses, with inhumanly flawless features and a chill that follows her into every room.",
+    "biography": "Helena Crowly carries herself with the sharp, clean austerity of an academic who has lived half her unlife in libraries. Embraced in the final years of the Second World War for her promise as a rising scholar, she had once dreamed of sunburned days in the Valley of the Kings, cataloging tombs and lecturing on dynastic transitions. Those mortal ambitions died on the night Tremere occultists turned her toward the war’s quieter battlefields—ritual circles, blood-soaked maps, and the careful weighing of sacrifice. She traded the dust of Cairo for the ash of burned sigils, and the Clan never gave her back.\n\nDecades later, Phoenix became her compromise with fate. The desert’s heat and ancient silences echoed the Egypt she would never see again. She claimed a warded suite within the Phoenix Chantry and turned her talents to the occult forensics of the Valley. Two authentic relics from 19th-century Egyptian excavations rest in locked cases in her haven—artifacts any Setite would kill to reclaim. Instead of excavation pits, Helena now works over stone floors inscribed with Hermetic diagrams, mastering the Path of Blood and refining alchemical techniques through the Path of Mercury. She uses the Path of Conjuring not as a battlefield weapon, but as a way to manifest tools, inks, and temporary replicas of artifacts she can never again touch in daylight.\n\nHer mentorship of Andrei Radulescu is her one open indulgence. She encourages his exploration of the Dehydrate Path, offering precise advice and the occasional rare sample while quietly monitoring his work through her own mastery of blood. As Tremere Primogen, Helena speaks softly at Court, her words measured and clinically precise, the cold around her deepening when Kindred lie. She had woven protective wards around the Prince—careful sigils etched into stone, reinforced with desert sand and quiet prayers to no god in particular—yet the killer bypassed them without triggering a single alarm. That failure haunts her; she studies the breach obsessively, sifting vitae traces and ritual echoes through her alchemical lenses.\n\nBy the time she realizes what truly slipped past her magic, it is already watching the city through the tiny cracks in her circles, learning her name one whispered syllable at a time.",
+    "notes": "",
+    "equipment": "Wire-frame glasses; leather satchel with notebooks, fountain pen, and small Hermetic tools; Nikon F3 camera for field documentation; linen-wrapped sample vials; a slim ritual athame disguised as an antique letter opener.",
+    "character_image": "Helena_Crowly.png",
+    "status": {
+        "sect_status": "",
+        "clan_status": "",
+        "city_status": "",
+        "health_levels": 7,
+        "blood_pool_current": null,
+        "blood_pool_maximum": null,
+        "blood_per_turn": 1,
+        "xp_total": 0,
+        "xp_spent": 0,
+        "xp_available": 0,
+        "notes": ""
+    },
+    "camarilla_status": "Camarilla",
+    "traits": {
+        "Physical": [
+            "Dextrous",
+            "Graceful"
+        ],
+        "Social": [
+            "Authoritative",
+            "Charming",
+            "Commanding"
+        ],
+        "Mental": [
+            "Analytical",
+            "Insightful",
+            "Methodical",
+            "Obsessive",
+            "Perceptive"
+        ]
+    },
+    "negativeTraits": {
+        "Physical": [
+            "Frail"
+        ],
+        "Social": [
+            "Aloof",
+            "Intimidating"
+        ],
+        "Mental": [
+            "Obsessive-Compulsive"
+        ]
+    },
+    "abilities": [],
+    "specializations": [],
+    "disciplines": [
+        {
+            "name": "Auspex",
+            "level": 3
+        },
+        {
+            "name": "Dominate",
+            "level": 2
+        },
+        {
+            "name": "Thaumaturgy: Path of Blood",
+            "level": 5
+        },
+        {
+            "name": "Thaumaturgy: Path of Conjuring",
+            "level": 4
+        },
+        {
+            "name": "Thaumaturgy: Path of Mercury",
+            "level": 5
+        }
+    ],
+    "backgrounds": {
+        "Allies": 1,
+        "Contacts": 2,
+        "Herd": 1,
+        "Influence": 2,
+        "Mentor": 2,
+        "Resources": 3,
+        "Status": 3
+    },
+    "backgroundDetails": {
+        "Allies": "Select Chantry staff and a sympathetic archivist at ASU.",
+        "Contacts": "University faculty, museum curators, and a discreet mortician.",
+        "Herd": "A small, carefully managed cluster of grad students and research assistants who revere her as an enigmatic academic.",
+        "Influence": "Subtle sway in academic circles and local museum acquisitions.",
+        "Mentor": "Occasional correspondence with an elder Tremere researcher in Vienna, now distant and wary.",
+        "Resources": "Tremere-backed accounts, Chantry stipends, and a modest personal collection of rare texts and artifacts.",
+        "Status": "Recognized Tremere Primogen of Phoenix and respected occult authority."
+    },
+    "morality": {
+        "path_name": "Humanity",
+        "path_rating": 7,
+        "conscience": 3,
+        "self_control": 3,
+        "courage": 3,
+        "willpower_permanent": 5,
+        "willpower_current": 5,
+        "humanity": 7
+    },
+    "merits_flaws": [
+        {
+            "name": "Eidetic Memory",
+            "type": "Merit",
+            "category": "Mental",
+            "cost": 2,
+            "description": "Helena remembers texts, diagrams, and ritual details with near-perfect accuracy."
+        },
+        {
+            "name": "Scholar of the Arts",
+            "type": "Merit",
+            "category": "Mental",
+            "cost": 2,
+            "description": "Extensive training and understanding in historical and artistic analysis, especially ancient Egyptian material culture."
+        },
+        {
+            "name": "Cold Aura",
+            "type": "Flaw",
+            "category": "Social",
+            "cost": -1,
+            "description": "The temperature seems to drop slightly wherever she stands; mortals instinctively shiver or feel uneasy in her presence."
+        },
+        {
+            "name": "Inhuman Beauty",
+            "type": "Flaw",
+            "category": "Social",
+            "cost": -2,
+            "description": "Her beauty is too flawless, subtly unsettling mortals and Kindred alike; she never fully passes for truly human."
+        }
+    ],
+    "coteries": [],
+    "relationships": [
+        {
+            "related_character_name": "Alistaire Crowly",
+            "relationship_type": "Sibling",
+            "relationship_subtype": "Secret",
+            "strength": "Deep but hidden",
+            "description": "Her older brother in life, now a Nosferatu Primogen in Phoenix. Their surviving bond is carefully buried beneath layers of political concealment."
+        },
+        {
+            "related_character_name": "Andrei Radulescu",
+            "relationship_type": "Student",
+            "relationship_subtype": "Mentor",
+            "strength": "Strong",
+            "description": "Favored Tremere researcher whom Helena mentors in Thaumaturgy, particularly the Dehydrate Path. She supports his work while quietly monitoring its implications."
+        }
+    ],
+    "rituals": [],
+    "custom_data": null,
+    "created_at": "2025-12-02 03:29:58",
+    "updated_at": "2025-12-02 03:40:27"
+}

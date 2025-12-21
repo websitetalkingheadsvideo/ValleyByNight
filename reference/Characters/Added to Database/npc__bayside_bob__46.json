@@ -1,0 +1,124 @@
+{
+    "id": 46,
+    "user_id": 1,
+    "character_name": "Bayside Bob",
+    "player_name": "NPC",
+    "chronicle": "Valley by Night",
+    "nature": "Survivor",
+    "demeanor": "Conformist",
+    "concept": "Tiki bar owner who knows a lot about tiki culture",
+    "clan": "Toreador",
+    "generation": 12,
+    "sire": "Duke Tiki",
+    "pc": 0,
+    "appearance": "Sun-kissed Toreador in retro Hawaiian shirts, Coast Guard tattoos, and a laid-back grin. Keeps hair tucked under a faded Bali Hai ball cap, wears dock shoes and carved tiki pendants. Smells faintly of rum, sea salt, and coconut sunscreen, even when standing in a desert parking lot.",
+    "biography": "Bayside Bob was a Coast Guard recruiter stationed in Phoenix when a Toreador Elder decided the island-boy charm deserved immortality. Embraced in the early 1980s, he bought a fading tiki restaurant on Camelback Road and quietly turned it into the Anarchs’ unofficial clubhouse. For thirteen years he’s kept the Bali Hai afloat—hosting clandestine meetings, scheduling rotating bouncers, and curating a soundtrack of surf rock and whispered revolution. Bob plays genial host while tracking every faction that walks through his doors, passing intelligence to whoever keeps the peace on his turf. He lives by Marie Kondo standards behind the bar, yet somehow all the torches and blowfish lamps stay a little crooked. Anarchs trust his drinks, Camarilla courtiers respect his neutrality, and he always has a plan to evacuate if the Coast Guard ever calls him home.",
+    "notes": "Friendly Toreador Anarch liaison with deep hospitality roots. Great ST contact for Anarch politics, neutral meeting space, or smuggling logistics. Hooks: defend the Bali Hai from a zoning crackdown, broker a truce on his patio, or help him track down a missing surfboard reliquary from his mortal past.",
+    "equipment": "Tiki bar tools and decorations, Coast Guard memorabilia, A collection of vintage Americana and Tiki culture artifacts",
+    "character_image": "Bayside Bob.webp",
+    "status": {
+        "sect_status": "",
+        "clan_status": "",
+        "city_status": "",
+        "health_levels": 7,
+        "blood_pool_current": null,
+        "blood_pool_maximum": null,
+        "blood_per_turn": 1,
+        "xp_total": 0,
+        "xp_spent": 0,
+        "xp_available": 0,
+        "notes": ""
+    },
+    "camarilla_status": "Unknown",
+    "traits": {
+        "Physical": [
+            "Alert",
+            "Athletic",
+            "Graceful",
+            "Nimble",
+            "Quick",
+            "Resilient"
+        ],
+        "Social": [
+            "Charismatic",
+            "Charming",
+            "Diplomatic",
+            "Empathetic",
+            "Witty"
+        ],
+        "Mental": [
+            "Clever",
+            "Creative",
+            "Intelligent",
+            "Observant",
+            "Studious"
+        ]
+    },
+    "negativeTraits": {
+        "Physical": [],
+        "Social": [
+            "Awkward"
+        ],
+        "Mental": []
+    },
+    "abilities": [],
+    "specializations": [],
+    "disciplines": [
+        {
+            "name": "Auspex",
+            "level": 2
+        },
+        {
+            "name": "Celerity",
+            "level": 2
+        },
+        {
+            "name": "Presence",
+            "level": 2
+        }
+    ],
+    "backgrounds": {
+        "Generation": 1,
+        "Herd": 2,
+        "Mentor": 2,
+        "Resources": 2,
+        "Status": 1
+    },
+    "backgroundDetails": {
+        "Mentor": "His mentor is an older Toreador who introduced him to the arts and social scene.",
+        "Resources": "Bayside Bob has moderate resources, enough to maintain The Bali Hai and his lifestyle.",
+        "Status": "He has a respectable status within the Anarch faction and the local Kindred society."
+    },
+    "morality": {
+        "path_name": "Humanity",
+        "path_rating": 7,
+        "conscience": 3,
+        "self_control": 3,
+        "courage": 3,
+        "willpower_permanent": 5,
+        "willpower_current": 5,
+        "humanity": 7
+    },
+    "merits_flaws": [
+        {
+            "name": "Natural Linguist",
+            "type": "Merit",
+            "category": "Mental",
+            "cost": 2,
+            "description": "Learns languages easily"
+        },
+        {
+            "name": "Inferiority Complex",
+            "type": "Flaw",
+            "category": "Mental",
+            "cost": 2,
+            "description": "Feels need to constantly prove worth"
+        }
+    ],
+    "coteries": [],
+    "relationships": [],
+    "rituals": [],
+    "custom_data": null,
+    "created_at": "2025-10-18 08:25:14",
+    "updated_at": "2025-11-08 19:35:08"
+}

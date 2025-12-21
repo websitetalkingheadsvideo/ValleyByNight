@@ -1,0 +1,87 @@
+{
+    "id": 102,
+    "user_id": 1,
+    "character_name": "Mr. Harold Ashby",
+    "player_name": "NPC",
+    "chronicle": "Valley by Night",
+    "nature": "Visionary",
+    "demeanor": "Architect",
+    "concept": "Ritualistic Malkavian killer obsessed with capturing 'quiet' moments of grief",
+    "clan": "Malkavian",
+    "generation": 10,
+    "sire": "him",
+    "pc": 0,
+    "appearance": "",
+    "biography": "Harold Ashby was once a photographer specializing in funerary portraits. His obsession with the silence of death drew the attention of a Malkavian who Embraced him to preserve his 'art'. Now, Ashby lives in Sun City, staging ritualized murders of grieving elders as acts of 'preservation'. He manipulates his ghoul Tor through the promise of understanding the 'pattern beneath grief.' His havens are immaculate, filled with photographs of victims posed at peace.",
+    "notes": "Speaks in calm, teacherly tones. Prefers order and ritual over chaos. Sees each death as part of a divine pattern only he can interpret.",
+    "equipment": "Vintage Rolleiflex camera, notebooks filled with patterns and numerology, folding knife, small silver flask (blood-stained interior).",
+    "character_image": "Harold Ashby.png",
+    "status": {
+        "sect_status": "",
+        "clan_status": "",
+        "city_status": "",
+        "health_levels": 7,
+        "blood_pool_current": null,
+        "blood_pool_maximum": null,
+        "blood_per_turn": 1,
+        "xp_total": 30,
+        "xp_spent": 0,
+        "xp_available": 30,
+        "notes": ""
+    },
+    "camarilla_status": "Unknown",
+    "traits": {
+        "Physical": [
+            "Array",
+            "Array",
+            "Array"
+        ],
+        "Social": [
+            "Array",
+            "Array",
+            "Array"
+        ],
+        "Mental": [
+            "Array",
+            "Array",
+            "Array"
+        ]
+    },
+    "negativeTraits": {
+        "Physical": [],
+        "Social": [],
+        "Mental": []
+    },
+    "abilities": [],
+    "specializations": [],
+    "disciplines": [],
+    "backgrounds": {
+        "Contacts": 2,
+        "Haven": 2,
+        "Resources": 2,
+        "Retainer": 1
+    },
+    "backgroundDetails": {
+        "Contacts": "Two quiet Malkavians and one hospice nurse in Sun City who reports ideal 'subjects'.",
+        "Haven": "An immaculate duplex converted into a private darkroom and study.",
+        "Resources": "Old life insurance policies and retirement savings from victims laundered through art sales.",
+        "Retainer": "Tor, his ghoul and student."
+    },
+    "morality": {
+        "path_name": "Humanity",
+        "path_rating": 3,
+        "conscience": 2,
+        "self_control": 3,
+        "courage": 2,
+        "willpower_permanent": 6,
+        "willpower_current": 6,
+        "humanity": 3
+    },
+    "merits_flaws": [],
+    "coteries": [],
+    "relationships": [],
+    "rituals": [],
+    "custom_data": null,
+    "created_at": "2025-11-05 17:52:34",
+    "updated_at": "2025-11-29 20:00:41"
+}

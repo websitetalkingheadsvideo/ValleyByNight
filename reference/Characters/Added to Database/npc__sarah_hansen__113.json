@@ -1,0 +1,88 @@
+{
+    "id": 113,
+    "user_id": 1,
+    "character_name": "Sarah Hansen",
+    "player_name": "NPC",
+    "chronicle": "Valley by Night",
+    "nature": "",
+    "demeanor": "",
+    "concept": "Haunting chanteuse and nightclub owner whose voice carries supernatural beauty and melancholy.",
+    "clan": "Daughter of Cacophony",
+    "generation": 9,
+    "sire": "Tony Marmaduke",
+    "pc": 0,
+    "appearance": "Sarah Hansen appears as a woman forever on the edge of spotlight and shadow—pale, radiant, and untouchable. Her skin is cool porcelain, kissed by the warm gold of stage lamps; her hair falls in soft platinum waves that catch every flicker of light. Eyes of gray-violet reveal the emotional gravity that defines her performances—eyes that seem to remember a sorrow you've never lived. Her clothing is deliberately theatrical but never gaudy: vintage satin gowns, dark lace gloves, and subtle silver jewelry that glimmers against the noir palette of Phoenix nights. The faint scent of jasmine and smoke follows her, and when she speaks, her voice carries a resonance that stills the room, as if every soul—mortal or undead—knows instinctively to listen.",
+    "biography": "Once a mortal singer haunting the jazz clubs of Tempe, Sarah Hansen's voice could quiet a room before her Embrace ever gave it true power. Taken by Toreador patron Tyron Mason—an obsessive collector who prized the tragedy of beauty—she rose through Phoenix's Camarilla scene as both performer and confidante. When the Daughters of Cacophony purged male patrons from their ranks, Mason was dragged from The Velvet Door and reduced to ash on the dance floor. The purge proved Sarah's loyalties: she stood beside the Daughters, mourning the man who made her while refusing to shield his sins. Her melodies now stir the Blood itself—songs laced with emotion so sharp it cuts through centuries of numbness. Though she keeps the mask of an ideal Toreador: elegant, loyal, and cultured, her art hides a more dangerous skill. Sarah listens, learns, and translates the city's secrets into verse. Each performance is a confession disguised as a love song, and those who know how to listen hear warnings beneath the harmony. Some whisper that she foresaw the Prince's fall in her last performance, a dirge she swore was only about lost love. No one is certain whether she mourns him—or helped write his requiem.",
+    "notes": "Traits: Physical (Average), Social (Exceptional), Mental (Competent). Key Social Traits: Alluring x2, Charismatic, Eloquent, Graceful, Persuasive, Seductive. Disciplines: Melpominee 4 (Haunting Melody, Siren's Lure, Hymn to Discord, Voice of the Siren), Presence 3 (Awe, Entrancement, Summon), Auspex 2 (Heightened Senses, Aura Perception). Backgrounds: Resources 3 (Owner of The Velvet Door), Allies 2, Herd 2, Contacts 2, Status 2 (Mesa Camarilla), Minor Boon owed by a Toreador. Merits: Enchanting Voice, Eerie Presence, Iron Will. Flaws: Deep Sleeper, Obsession (Perfection in performance), Enemy (Setite nightclub rivals). Humanity 6, Willpower 7, Blood Pool 14. Connection: Kerry the Gangrel has seen her perform; mutual understanding. Resonance Point shared with Toreador artist. Quote: 'Every song is a confession. Every note is a wound I've learned to keep open.' Sarah Hansen serves as both a social pivot and emotional barometer within Phoenix's Camarilla. As a Daughter of Cacophony publicly accepted among the Toreador, she navigates court with poise and veiled melancholy, bridging art and intrigue. Her haven doubles as a performance venue—an intimate nightclub whose acoustic perfection makes every note feel like confession. Sarah's loyalty appears directed toward the Harpy and her Talons, though she maintains cordial ties with the Toreador Primogen and younger artists who orbit her. She owes small but meaningful boons to several neonates and acts as an information conduit, trading secrets as subtext in her songs. Beneath her civility lies a prophetic edge: Sarah has an uncanny sense of emotional shifts in the city, often performing pieces that mirror events before they occur. Storytellers can use her to foreshadow major political changes, convey hidden messages, or draw player characters into the labyrinth of Elysium politics. If questioned about the Prince's death, she only smiles and asks, 'Didn't you hear the song before it happened?'",
+    "equipment": "Vintage microphone, stage piano, and antique jewelry once belonging to her sire.",
+    "character_image": "113_1762934668_a6d93e46.png",
+    "status": {
+        "sect_status": "",
+        "clan_status": "",
+        "city_status": "",
+        "health_levels": 7,
+        "blood_pool_current": null,
+        "blood_pool_maximum": null,
+        "blood_per_turn": 1,
+        "xp_total": 40,
+        "xp_spent": 0,
+        "xp_available": 40,
+        "notes": ""
+    },
+    "camarilla_status": "Camarilla",
+    "traits": {
+        "Physical": [
+            "Average (5 Traits)"
+        ],
+        "Social": [
+            "Alluring",
+            "Charismatic",
+            "Eloquent",
+            "Graceful",
+            "Persuasive",
+            "Seductive"
+        ],
+        "Mental": [
+            "Competent (8 Traits)"
+        ]
+    },
+    "negativeTraits": {
+        "Physical": [],
+        "Social": [],
+        "Mental": []
+    },
+    "abilities": [],
+    "specializations": [],
+    "disciplines": [],
+    "backgrounds": {
+        "Allies": 2,
+        "Contacts": 2,
+        "Herd": 2,
+        "Resources": 3,
+        "Status": 2
+    },
+    "backgroundDetails": {
+        "Allies": "Local musicians and staff",
+        "Contacts": "Reporters and nightlife writers",
+        "Herd": "Circle of devoted fans",
+        "Resources": "Owner of The Velvet Door nightclub",
+        "Status": "Mesa’s Camarilla circles"
+    },
+    "morality": {
+        "path_name": "Humanity",
+        "path_rating": 6,
+        "conscience": 3,
+        "self_control": 4,
+        "courage": 3,
+        "willpower_permanent": 7,
+        "willpower_current": 7,
+        "humanity": 6
+    },
+    "merits_flaws": [],
+    "coteries": [],
+    "relationships": [],
+    "rituals": [],
+    "custom_data": null,
+    "created_at": "2025-11-10 03:43:46",
+    "updated_at": "2025-11-13 17:47:38"
+}

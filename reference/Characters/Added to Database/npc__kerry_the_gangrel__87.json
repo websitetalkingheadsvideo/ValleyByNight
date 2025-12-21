@@ -1,0 +1,131 @@
+{
+    "id": 87,
+    "user_id": 1,
+    "character_name": "Kerry, the Gangrel",
+    "player_name": "NPC",
+    "chronicle": "Valley by Night",
+    "nature": "Survivor",
+    "demeanor": "Loner",
+    "concept": "Feral hermit and accidental witness to a buried secret",
+    "clan": "Gangrel",
+    "generation": 10,
+    "sire": "Old Tom",
+    "pc": 0,
+    "appearance": "Wild-eyed Gangrel with sun-bleached hair matted with desert dust and tangled with small bones and feathers. His skin is cracked and weathered from decades in the sun, marked with scars from encounters with Garou and other desert predators. Wears tattered clothing scavenged from abandoned campsites—layers of torn fabric, a faded army surplus jacket, boots held together with wire and hope. His eyes constantly dart, searching for threats, and he moves with the furtive grace of someone who's been hunted. Carries the scent of old graves and dry earth, a reminder of what he witnessed in 1973.",
+    "biography": "Kerry was a drifter who wandered the Arizona desert in the early 1970s, living off the land and avoiding civilization. In 1973, he stumbled upon something he shouldn't have seen—the staking of a Prince in the Superstition Mountains. He watched from a distance as Kindred politics played out in violence, too terrified to move, too close to escape unnoticed. When the deed was done and the perpetrators left, Kerry approached the staked body, drawn by morbid curiosity and the lingering scent of power.\n\nHe was Embraced that same night by a Gangrel who found him there, drawn by the same scene. His sire saw potential in someone who could survive in the desert and keep secrets. But the Embrace didn't erase what Kerry had witnessed—it burned it deeper into his memory, making him a walking repository of a secret that could destroy powerful Kindred.\n\nFor over twenty years, Kerry has wandered the desert fringes around Phoenix, avoiding the city proper and the Kindred who might recognize him or the secret he carries. He's been hunted by those who want to silence him, protected by those who want to use him, and marked by Garou who sense the corruption of that night clinging to him like grave dust.\n\nKerry knows where the staked Prince's body lies, hidden in a cave in the Superstition Mountains. He's heard whispers on the wind, felt the presence of something that should be dead but isn't quite. He avoids Ardvark and other Gangrel scouts—too much history, too much paranoia. He's become a ghost story among the desert Kindred, a witness who knows too much and can't be trusted to keep quiet forever.",
+    "notes": "Gangrel witness to the 1973 Prince's staking in the Superstition Mountains. Embraced that same night, carries the secret of who committed the crime. Hunted by those who want to silence him, marked by Garou who sense the corruption. Knows the location of the staked Prince's body. Useful ST contact for desert knowledge, historical secrets, or when PCs need to find the hidden Prince. Hooks: he's finally tracked down by those who want him dead, he decides to reveal the secret, Garou hunt intensifies, or he leads PCs to the staked Prince's location.",
+    "equipment": "Tattered backpack, desert survival tools, knife, animal totems.",
+    "character_image": "87_1761917487_1f65b1dd.png",
+    "status": {
+        "sect_status": "",
+        "clan_status": "",
+        "city_status": "",
+        "health_levels": 7,
+        "blood_pool_current": null,
+        "blood_pool_maximum": null,
+        "blood_per_turn": 1,
+        "xp_total": 0,
+        "xp_spent": 0,
+        "xp_available": 0,
+        "notes": ""
+    },
+    "camarilla_status": "Unknown",
+    "traits": {
+        "Physical": [
+            "Ferocious",
+            "Quick",
+            "Resilient",
+            "Rugged",
+            "Tireless",
+            "Tough"
+        ],
+        "Social": [
+            "Gruff",
+            "Unsettling",
+            "Withdrawn"
+        ],
+        "Mental": [
+            "Cunning",
+            "Observant",
+            "Shrewd",
+            "Wary"
+        ]
+    },
+    "negativeTraits": {
+        "Physical": [],
+        "Social": [],
+        "Mental": []
+    },
+    "abilities": [],
+    "specializations": [],
+    "disciplines": [
+        {
+            "name": "Animalism",
+            "level": 2
+        },
+        {
+            "name": "Auspex",
+            "level": 2
+        },
+        {
+            "name": "Fortitude",
+            "level": 2
+        },
+        {
+            "name": "Protean",
+            "level": 2
+        }
+    ],
+    "backgrounds": {
+        "Allies": 1,
+        "Contacts": 1,
+        "Haven": 1
+    },
+    "backgroundDetails": [],
+    "morality": {
+        "path_name": "Humanity",
+        "path_rating": 5,
+        "conscience": 2,
+        "self_control": 3,
+        "courage": 4,
+        "willpower_permanent": 7,
+        "willpower_current": 7,
+        "humanity": 5
+    },
+    "merits_flaws": [
+        {
+            "name": "Acute Senses (Hearing and Smell)",
+            "type": "Merit",
+            "category": "Physical",
+            "cost": 2,
+            "description": "Kerry’s animalistic senses allow him to detect Kindred scent and vibrations through soil or wind."
+        },
+        {
+            "name": "Claustrophobia",
+            "type": "Flaw",
+            "category": "Mental",
+            "cost": 2,
+            "description": "Must test to remain calm in enclosed spaces or underground; failure triggers panic or frenzy."
+        },
+        {
+            "name": "Haunted Memories",
+            "type": "Flaw",
+            "category": "Mental",
+            "cost": 2,
+            "description": "Hears whispers from the staked Prince in dreams; sometimes speaks as though Elijah is nearby."
+        },
+        {
+            "name": "Paranoia",
+            "type": "Flaw",
+            "category": "Mental",
+            "cost": 1,
+            "description": "Constantly suspects others of manipulation; resists trust-building unless shown compassion."
+        }
+    ],
+    "coteries": [],
+    "relationships": [],
+    "rituals": [],
+    "custom_data": null,
+    "created_at": "2025-10-31 09:19:36",
+    "updated_at": "2025-11-08 19:35:08"
+}

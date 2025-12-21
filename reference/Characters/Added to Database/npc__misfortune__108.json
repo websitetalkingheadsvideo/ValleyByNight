@@ -1,0 +1,135 @@
+{
+    "id": 108,
+    "user_id": 1,
+    "character_name": "Misfortune",
+    "player_name": "NPC",
+    "chronicle": "Valley by Night",
+    "nature": "Visionary",
+    "demeanor": "Trickster",
+    "concept": "Boon Collector",
+    "clan": "Malkavian",
+    "generation": 9,
+    "sire": "0",
+    "pc": 0,
+    "appearance": "In Elysium he wears a mismatched black and burgundy suit with subtle bells and faint theatrical makeup; in his haven he dons a full jester costume surrounded by pinned IOUs and candles.",
+    "biography": "Born in the 1860s, the man who would become Misfortune was a successful snake oil salesman, traveling the American West with elaborate pitches and convincing performances. His talent for reading marks and spinning believable lies caught the attention of Jeremiah 'Prophet' Blackwood, a Malkavian elder who saw potential in the young charlatan's gift for manipulation.\n\nEmbraced in the 1880s, Misfortune quickly adapted to unlife, applying his mortal skills to the Jyhad. He relocated to San Francisco, where the thriving Camarilla court provided ample opportunities to practice his craft. There, he began his lifelong obsession with collecting boons, treating social debts like the patent medicine receipts of his mortal days.\n\nThe expansion of the railroad system triggered a new fixation. Misfortune became fascinated with trains—their schedules, their routes, the way they connected the growing nation. When Arizona's railroad boom began, he followed the tracks south, eventually settling in the Phoenix area as it transformed from frontier outpost to growing city.\n\nOne fateful night outside Flagstaff, Misfortune discovered Cordelia Fairchild's sire trapped on a train as dawn approached. Using his knowledge of the rail system and quick thinking, he extracted the elder from the train and sheltered him in his haven until safe transportation could be arranged. This act created a blood debt that would prove invaluable—when Cordelia later came to Phoenix, the alliance between Misfortune and the Fairchild line was already cemented.\n\nHis ascension to Primogen came not through violence but through absence. When the position opened, no other Malkavian wanted the responsibility, and the Prince of the time lacked the political capital to prevent it. Misfortune accepted with theatrical flair, transforming the role into a platform for his true ambition: controlling Phoenix's social web through the Harpy network. Behind his jester's mask and maddening riddles lies a patient manipulator who has spent over a century perfecting the art of the deal.\n\nHis true name, if he ever had one beyond his charlatan's stage names, has been forgotten—or perhaps deliberately discarded. Now there is only Misfortune, the fool who knows everyone's secrets and holds everyone's debts.",
+    "notes": "",
+    "equipment": "",
+    "character_image": "Misfortune.png",
+    "status": {
+        "sect_status": "",
+        "clan_status": "",
+        "city_status": "",
+        "health_levels": 7,
+        "blood_pool_current": null,
+        "blood_pool_maximum": null,
+        "blood_per_turn": 1,
+        "xp_total": 30,
+        "xp_spent": 0,
+        "xp_available": 30,
+        "notes": ""
+    },
+    "camarilla_status": "Camarilla",
+    "traits": {
+        "Physical": [
+            "Deceptively Agile",
+            "Graceful",
+            "Light-footed",
+            "Quick Reflexes"
+        ],
+        "Social": [
+            "Charismatic",
+            "Charming",
+            "Disarming",
+            "Eloquent",
+            "Manipulative",
+            "Persuasive",
+            "Social Predator",
+            "Witty"
+        ],
+        "Mental": [
+            "Cold Rationalist",
+            "Cunning",
+            "Patient",
+            "Pattern-Oriented Thinker",
+            "Perceptive",
+            "Strategic"
+        ]
+    },
+    "negativeTraits": {
+        "Physical": [
+            "Frail"
+        ],
+        "Social": [
+            "Cryptic",
+            "Unsettling"
+        ],
+        "Mental": [
+            "Distracted by patterns",
+            "Obsessive"
+        ]
+    },
+    "abilities": [],
+    "specializations": [],
+    "disciplines": [
+        {
+            "name": "Auspex",
+            "level": 5
+        },
+        {
+            "name": "Dominate",
+            "level": 5
+        },
+        {
+            "name": "Obfuscate",
+            "level": 3
+        }
+    ],
+    "backgrounds": {
+        "Allies": 3,
+        "Contacts": 4,
+        "Influence": 3,
+        "Resources": 2,
+        "Status": 3
+    },
+    "backgroundDetails": [],
+    "morality": {
+        "path_name": "Humanity",
+        "path_rating": 6,
+        "conscience": 2,
+        "self_control": 4,
+        "courage": 4,
+        "willpower_permanent": 7,
+        "willpower_current": 7,
+        "humanity": 6
+    },
+    "merits_flaws": [],
+    "coteries": [],
+    "relationships": [
+        {
+            "related_character_name": "Cordelia Fairchild",
+            "relationship_type": "Ally",
+            "relationship_subtype": "Harpy relationship",
+            "strength": "Strong",
+            "description": "Cordelia is both ally and confidante; together they subtly share influence over her Talons."
+        },
+        {
+            "related_character_name": "Anarchs",
+            "relationship_type": "Political",
+            "relationship_subtype": "Complicated",
+            "strength": "Weak",
+            "description": "Misfortune holds minor boons and secrets among the Anarchs, resulting in an inconsistent and unpredictable relationship."
+        },
+        {
+            "related_character_name": "Prince",
+            "relationship_type": "Political",
+            "relationship_subtype": "Uncertain",
+            "strength": "Variable",
+            "description": "Misfortune's relationship with the Prince mixes amused tolerance with the possibility of secret conspiracies."
+        }
+    ],
+    "rituals": [],
+    "custom_data": null,
+    "created_at": "2025-11-06 16:30:56",
+    "updated_at": "2025-11-30 17:44:59"
+}

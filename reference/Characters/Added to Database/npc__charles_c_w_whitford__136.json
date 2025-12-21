@@ -1,0 +1,126 @@
+{
+    "id": 136,
+    "user_id": 1,
+    "character_name": "Charles \"C.W.\" Whitford",
+    "player_name": "NPC",
+    "chronicle": "Valley by Night",
+    "nature": "Architect",
+    "demeanor": "Director",
+    "concept": "Desert power broker who sees the city as a machine he alone understands",
+    "clan": "Ventrue",
+    "generation": 9,
+    "sire": "0",
+    "pc": 0,
+    "appearance": "Silver-haired, sharply dressed in tailored business suits; pale blue eyes that assess rather than look; oxblood leather shoes and a gold 1970s Rolex. Smells faintly of cedar and dust.",
+    "biography": "Arriving in Phoenix during the explosive expansion of the 1970s, Charles \"C.W.\" Whitford embedded himself in land development, zoning control, and the invisible gears that drive the Valley's real-estate empire. He became Ventrue Primogen in 1982 through quiet political maneuvering and decades of strategic boons. Viewing the city as an engine in need of proper leadership, he hired the Assamites to remove the Prince, whom he saw as an inefficient executive. Now he leverages boons, influence, and subtle pressure to position himself as the only logical successor to the throne.",
+    "notes": "",
+    "equipment": "Gold 1970s Rolex; tailored business suits; extensive real-estate documents; political donor lists.",
+    "character_image": "CW_Whitford.png",
+    "status": {
+        "sect_status": "",
+        "clan_status": "",
+        "city_status": "",
+        "health_levels": 7,
+        "blood_pool_current": null,
+        "blood_pool_maximum": null,
+        "blood_per_turn": 1,
+        "xp_total": 0,
+        "xp_spent": 0,
+        "xp_available": 0,
+        "notes": ""
+    },
+    "camarilla_status": "Camarilla",
+    "traits": {
+        "Physical": [
+            "Composed"
+        ],
+        "Social": [
+            "Authoritative",
+            "Influential",
+            "Persuasive"
+        ],
+        "Mental": [
+            "Analytical",
+            "Calculating",
+            "Strategic"
+        ]
+    },
+    "negativeTraits": {
+        "Physical": [],
+        "Social": [
+            "Arrogant",
+            "Manipulative"
+        ],
+        "Mental": [
+            "Overconfident"
+        ]
+    },
+    "abilities": [],
+    "specializations": [],
+    "disciplines": [
+        {
+            "name": "Dominate",
+            "level": 4
+        },
+        {
+            "name": "Fortitude",
+            "level": 3
+        },
+        {
+            "name": "Presence",
+            "level": 3
+        }
+    ],
+    "backgrounds": {
+        "Allies": 3,
+        "Herd": 2,
+        "Influence": 5,
+        "Resources": 5,
+        "Retainers": 2,
+        "Status": 3
+    },
+    "backgroundDetails": {
+        "Influence": "Deep influence over zoning boards, real-estate councils, and political fundraising groups.",
+        "Resources": "Owns major real-estate and development assets across Phoenix.",
+        "Retainers": "Corporate assistants and private driver/bodyguard."
+    },
+    "morality": {
+        "path_name": "Humanity",
+        "path_rating": 7,
+        "conscience": 3,
+        "self_control": 3,
+        "courage": 3,
+        "willpower_permanent": 5,
+        "willpower_current": 5,
+        "humanity": 7
+    },
+    "merits_flaws": [
+        {
+            "name": "Natural Leader",
+            "type": "Merit",
+            "category": "Social",
+            "cost": 1,
+            "description": "Projects authority effortlessly."
+        },
+        {
+            "name": "Prestigious Sire",
+            "type": "Merit",
+            "category": "Social",
+            "cost": 1,
+            "description": "Comes from a lineage respected in business circles."
+        },
+        {
+            "name": "Deep Sleeper",
+            "type": "Flaw",
+            "category": "Physical",
+            "cost": -1,
+            "description": "Hard to wake during daylight emergency."
+        }
+    ],
+    "coteries": [],
+    "relationships": [],
+    "rituals": [],
+    "custom_data": null,
+    "created_at": "2025-11-30 17:47:23",
+    "updated_at": "2025-12-02 03:40:27"
+}

@@ -1,0 +1,137 @@
+{
+    "id": 50,
+    "user_id": 1,
+    "character_name": "Sabine",
+    "player_name": "NPC",
+    "chronicle": "Valley by Night",
+    "nature": "Conformist",
+    "demeanor": "Perfectionist",
+    "concept": "Twin Talon - Organization Specialist",
+    "clan": "Toreador",
+    "generation": 10,
+    "sire": "both",
+    "pc": 0,
+    "appearance": "",
+    "biography": "Born 1970 in wealthy Ontario family with twin brother Sebastian. Parents died when they were 15 (mysterious circumstances, trust fund established). Aunt took custody but let them do what they wanted - they chose art galleries, high society parties, and modeling. Inseparable their entire lives - people who knew them thought 'if one dies, the other will follow.' A female Toreador in Ontario fell in love with them at a party and wanted to Embrace both, but couldn't get permission from her Prince. She contacted old friend (Phoenix Toreador Primogen), introduced the twins at a big party. The Primogen became obsessed - saw them as living works of art, a matched set that cannot be separated. Embraced both in 1992 (age 22). Served as Talons to Harpy Cordelia Prescott since Embrace, learning Kindred social politics. Part of Primogen's long-term plan to eventually take over New York Kindred society. Never seen apart from Sebastian - literally no one has a memory of them separated. They are beautiful but deeply unsettling, projecting raw sexual energy that can be frightening.",
+    "notes": "",
+    "equipment": "Identical high-end tailored outfits (female versions), organizational materials, expensive accessories",
+    "character_image": "50_1761942326_4f021683.jpeg",
+    "status": {
+        "sect_status": "",
+        "clan_status": "",
+        "city_status": "",
+        "health_levels": 7,
+        "blood_pool_current": null,
+        "blood_pool_maximum": null,
+        "blood_per_turn": 1,
+        "xp_total": 10,
+        "xp_spent": 0,
+        "xp_available": 10,
+        "notes": ""
+    },
+    "camarilla_status": "Unknown",
+    "traits": {
+        "Physical": [
+            "Graceful",
+            "Lithe",
+            "Quick"
+        ],
+        "Social": [
+            "Alluring",
+            "Charismatic",
+            "Elegant",
+            "Intimidating",
+            "Magnetic",
+            "Seductive",
+            "Striking"
+        ],
+        "Mental": [
+            "Calculating",
+            "Clever",
+            "Focused",
+            "Methodical",
+            "Observant"
+        ]
+    },
+    "negativeTraits": {
+        "Physical": [],
+        "Social": [
+            "Callous"
+        ],
+        "Mental": []
+    },
+    "abilities": [],
+    "specializations": [],
+    "disciplines": [
+        {
+            "name": "Auspex",
+            "level": 2
+        },
+        {
+            "name": "Celerity",
+            "level": 1
+        },
+        {
+            "name": "Presence",
+            "level": 3
+        }
+    ],
+    "backgrounds": {
+        "Allies": 1,
+        "Contacts": 2,
+        "Fame": 0,
+        "Generation": 5,
+        "Herd": 0,
+        "Influence": 0,
+        "Mentor": 3,
+        "Resources": 3,
+        "Retainers": 0,
+        "Status": 2
+    },
+    "backgroundDetails": {
+        "Allies": "Twin brother Sebastian (inseparable), Toreador Primogen (sire)",
+        "Contacts": "High society connections from Ontario and Phoenix, art gallery world, modeling industry",
+        "Mentor": "Being trained by Cordelia Prescott in Kindred social politics, also guided by Toreador Primogen",
+        "Resources": "Trust fund from parents' death plus modeling income, wealthy Ontario family background",
+        "Status": "Talon to the Harpy Cordelia Prescott, childer of Toreador Primogen"
+    },
+    "morality": {
+        "path_name": "Humanity",
+        "path_rating": 6,
+        "conscience": 2,
+        "self_control": 3,
+        "courage": 3,
+        "willpower_permanent": 5,
+        "willpower_current": 5,
+        "humanity": 6
+    },
+    "merits_flaws": [
+        {
+            "name": "Special Rapport (Sebastian)",
+            "type": "Merit",
+            "category": "Supernatural",
+            "cost": 5,
+            "description": "Supernatural bond with twin brother Sebastian. Can sense his emotions even at distance, feel his physical pain or peril, know when he's in trouble or lying. He knows the same about her. They are inseparable."
+        },
+        {
+            "name": "Unsettling Presence",
+            "type": "Merit",
+            "category": "Social",
+            "cost": 2,
+            "description": "Beautiful but deeply disturbing. Those with lower Social traits must make Willpower check (difficulty 6) or feel compelled to maintain distance. -1 difficulty on Intimidation rolls, +1 difficulty to appear harmless."
+        },
+        {
+            "name": "Eerie",
+            "type": "Flaw",
+            "category": "Social",
+            "cost": 2,
+            "description": "Something about the twins is deeply unsettling. The uncanny connection, the identical movements, the raw sexual energy - it makes people uncomfortable even as they're fascinated."
+        }
+    ],
+    "coteries": [],
+    "relationships": [],
+    "rituals": [],
+    "custom_data": null,
+    "created_at": "2025-10-18 08:25:37",
+    "updated_at": "2025-12-02 04:26:04"
+}

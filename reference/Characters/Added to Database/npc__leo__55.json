@@ -1,0 +1,96 @@
+{
+    "id": 55,
+    "user_id": 1,
+    "character_name": "Leo",
+    "player_name": "NPC",
+    "chronicle": "Valley by Night",
+    "nature": "Survivor",
+    "demeanor": "Architect",
+    "concept": "The Invisible Hand / Data/Utility Infiltrator",
+    "clan": "Nosferatu",
+    "generation": 12,
+    "sire": "",
+    "pc": 0,
+    "appearance": "Gaunt Nosferatu with patchwork utility coveralls, hard hat fitted with jury-rigged headlamps, and a bandolier of tools. Skin mottled like wet concrete, eyes bright with feral focus. Carries blueprints and coax cable reels slung over hunched shoulders.",
+    "biography": "Leo was a city data analyst in the early 1990s before a Nosferatu mentor dragged him into the sewers and revealed the information beneath Phoenix’s streets. Embraced for his knack with utility schematics and fledgling fiber networks, Leo now maintains an underground command center along the 24th Street corridor. He maps utility tunnels, taps data lines, and guides Anarch raids using traffic cameras and water-flow sensors. To keep the Anarchs safe, he plans distractions to mask haven construction and disrupt Camarilla surveillance. He rarely surfaces, and when he does it’s only to splice a line or escort neonates through storm drains.",
+    "notes": "Nosferatu informatics engineer. PCs can use him for surveillance, sabotage, or securing underground routes. Hooks: help set up a new sewer haven under Camarilla noses, defend his data node from Sabbat saboteurs, or bargain for access to the Prince’s fiber taps.",
+    "equipment": "",
+    "character_image": "Leo.webp",
+    "status": {
+        "sect_status": "",
+        "clan_status": "",
+        "city_status": "",
+        "health_levels": 7,
+        "blood_pool_current": null,
+        "blood_pool_maximum": null,
+        "blood_per_turn": 1,
+        "xp_total": 0,
+        "xp_spent": 0,
+        "xp_available": 0,
+        "notes": ""
+    },
+    "camarilla_status": "Unknown",
+    "traits": {
+        "Physical": [],
+        "Social": [],
+        "Mental": []
+    },
+    "negativeTraits": {
+        "Physical": [],
+        "Social": [],
+        "Mental": []
+    },
+    "abilities": [],
+    "specializations": [],
+    "disciplines": [
+        {
+            "name": "Animalism",
+            "level": 1
+        },
+        {
+            "name": "Obfuscate",
+            "level": 3
+        },
+        {
+            "name": "Potence",
+            "level": 1
+        }
+    ],
+    "backgrounds": {
+        "contacts": 3,
+        "influence": 2
+    },
+    "backgroundDetails": [],
+    "morality": {
+        "path_name": "Humanity",
+        "path_rating": 7,
+        "conscience": 3,
+        "self_control": 3,
+        "courage": 3,
+        "willpower_permanent": 5,
+        "willpower_current": 5,
+        "humanity": 7
+    },
+    "merits_flaws": [
+        {
+            "name": "Data Networker",
+            "type": "Merit",
+            "category": "",
+            "cost": 2,
+            "description": "Can easily access nascent 1994 data and utility networks for information."
+        },
+        {
+            "name": "Hideous",
+            "type": "Flaw",
+            "category": "",
+            "cost": 2,
+            "description": "Extreme Nosferatu appearance, leading to severe penalties in social interactions outside of the sewers."
+        }
+    ],
+    "coteries": [],
+    "relationships": [],
+    "rituals": [],
+    "custom_data": null,
+    "created_at": "2025-10-24 19:23:18",
+    "updated_at": "2025-11-08 19:35:08"
+}

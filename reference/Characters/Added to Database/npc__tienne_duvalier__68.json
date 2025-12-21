@@ -1,0 +1,164 @@
+{
+    "id": 68,
+    "user_id": 1,
+    "character_name": "Étienne Duvalier",
+    "player_name": "NPC",
+    "chronicle": "Valley by Night",
+    "nature": "Perfectionist",
+    "demeanor": "Bon Vivant",
+    "concept": "Patron of Beauty / Social Architect",
+    "clan": "Toreador",
+    "generation": 9,
+    "sire": "in",
+    "pc": 0,
+    "appearance": "",
+    "biography": "Embraced in 1794 Paris during the revolutionary period, Étienne Duvalier has spent two centuries cultivating beauty, taste, and social influence across Europe and America. As Toreador Primogen in Phoenix, he dominates the local and national art scenes with unrivaled magnetism and centuries of refined charm. He maintains a penthouse loft above a restored theatre in downtown Mesa, where he curates not just art but society itself. His relationship with Prince Solomon Reaves is one of barely concealed contempt wrapped in perfect civility - he commands the city through culture while the Prince commands through politics. Étienne is training Sebastian and Sabine (the twins) alongside Cordelia Prescott as part of his grand plan to eventually take over New York Kindred society with a cultivated power bloc. He cannot abide imperfection and often rearranges objects or seating mid-conversation to 'improve symmetry.' His voice is hypnotic, his presence commanding, and to disappoint him is social death among Toreador.",
+    "notes": "",
+    "equipment": "Silver walking stick with concealed blade, key to The Hawthorne Estate's private gallery vault, collection of 18th-20th century art catalogs (some annotated in blood), encrypted communication devices linked to Elysium and gallery",
+    "character_image": "68_1761864977_09fd06ca.png",
+    "status": {
+        "sect_status": "",
+        "clan_status": "",
+        "city_status": "",
+        "health_levels": 7,
+        "blood_pool_current": null,
+        "blood_pool_maximum": null,
+        "blood_per_turn": 1,
+        "xp_total": 250,
+        "xp_spent": 0,
+        "xp_available": 250,
+        "notes": ""
+    },
+    "camarilla_status": "Unknown",
+    "traits": {
+        "Physical": [
+            "Coordinated",
+            "Graceful",
+            "Precise",
+            "Quick"
+        ],
+        "Social": [
+            "Charismatic",
+            "Charismatic",
+            "Charismatic",
+            "Charismatic",
+            "Charismatic",
+            "Elegant",
+            "Elegant",
+            "Elegant",
+            "Elegant",
+            "Persuasive",
+            "Persuasive",
+            "Persuasive",
+            "Persuasive",
+            "Striking"
+        ],
+        "Mental": [
+            "Attentive",
+            "Attentive",
+            "Attentive",
+            "Attentive",
+            "Intelligent",
+            "Intelligent",
+            "Intelligent",
+            "Observant",
+            "Observant",
+            "Observant",
+            "Observant"
+        ]
+    },
+    "negativeTraits": {
+        "Physical": [],
+        "Social": [],
+        "Mental": []
+    },
+    "abilities": [],
+    "specializations": [],
+    "disciplines": [
+        {
+            "name": "Auspex",
+            "level": 4
+        },
+        {
+            "name": "Celerity",
+            "level": 3
+        },
+        {
+            "name": "Presence",
+            "level": 5
+        }
+    ],
+    "backgrounds": {
+        "Allies": 3,
+        "Contacts": 3,
+        "Fame": 0,
+        "Generation": 6,
+        "Herd": 0,
+        "Influence": 5,
+        "Mentor": 0,
+        "Resources": 4,
+        "Retainers": 2,
+        "Status": 5
+    },
+    "backgroundDetails": {
+        "Allies": "Network of artists, curators, and high society figures across multiple cities who owe him favors or genuinely admire his patronage",
+        "Contacts": "Museum directors, art critics, private collectors, cultural institutions, wealthy patrons",
+        "Influence": "Art World - Dominates local and national art scenes, museum boards, gallery openings, critical discourse. His word can make or break artistic careers",
+        "Resources": "Wealth accumulated from centuries of art collection, curation, and real estate investments across Europe and America",
+        "Retainers": "Two loyal ghouls - a talented sculptor and an interior designer who manage his properties and artistic projects",
+        "Status": "Toreador Primogen of Phoenix, elder of elegance and taste, his approval is sought by all Toreador neonates. To disappoint him is social death"
+    },
+    "morality": {
+        "path_name": "Humanity",
+        "path_rating": 7,
+        "conscience": 4,
+        "self_control": 3,
+        "courage": 4,
+        "willpower_permanent": 8,
+        "willpower_current": 8,
+        "humanity": 7
+    },
+    "merits_flaws": [
+        {
+            "name": "Enchanting Voice",
+            "type": "Merit",
+            "category": "Social",
+            "cost": 2,
+            "description": "His voice captivates any listener. When he speaks, people instinctively lean in and listen."
+        },
+        {
+            "name": "Natural Leader",
+            "type": "Merit",
+            "category": "Social",
+            "cost": 1,
+            "description": "Others instinctively defer to his sense of authority and grace. His presence commands respect."
+        },
+        {
+            "name": "Prestigious Sire",
+            "type": "Merit",
+            "category": "Social",
+            "cost": 1,
+            "description": "His lineage from a renowned Parisian elder commands automatic deference among Toreador society."
+        },
+        {
+            "name": "Obsessive Perfectionism",
+            "type": "Flaw",
+            "category": "Mental",
+            "cost": 2,
+            "description": "Cannot abide imperfection in any form. Distraction and frustration can erode his composure when confronted with the flawed or ugly."
+        },
+        {
+            "name": "Rivalry (Prince Solomon Reaves)",
+            "type": "Flaw",
+            "category": "Social",
+            "cost": 2,
+            "description": "A subtle, simmering opposition to the Prince. Barely concealed contempt wrapped in perfect civility."
+        }
+    ],
+    "coteries": [],
+    "relationships": [],
+    "rituals": [],
+    "custom_data": null,
+    "created_at": "2025-10-27 16:07:07",
+    "updated_at": "2025-12-02 04:26:04"
+}
