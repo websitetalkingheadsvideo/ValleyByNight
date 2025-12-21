@@ -1,0 +1,622 @@
+{
+    "id": 0,
+    "user_id": 0,
+    "character_name": "Richard Jensen",
+    "player_name": "ST/NPC",
+    "chronicle": "Valley by Night",
+    "nature": "",
+    "demeanor": "",
+    "concept": "",
+    "clan": "Blood Brothers",
+    "generation": 11,
+    "sire": "",
+    "pc": 0,
+    "appearance": "",
+    "appearance_detailed": {
+      "short_summary": "",
+      "detailed_description": ""
+    },
+    "biography": "",
+    "notes": "",
+    "equipment": "",
+    "character_image": "",
+    "status": {
+      "sect_status": "",
+      "clan_status": "",
+      "city_status": "",
+      "health_levels": 13,
+      "blood_pool_current": 12,
+      "blood_pool_maximum": 12,
+      "blood_per_turn": 1,
+      "xp_total": 0,
+      "xp_spent": 0,
+      "xp_available": 0,
+      "notes": ""
+    },
+    "camarilla_status": "Sabbat",
+    "sect": "Sabbat",
+    "title": "",
+    "epithet": "",
+    "description_tags": [],
+    "timeline": {
+      "birthplace": "",
+      "embrace_period": "",
+      "notable_mortal_past": "",
+      "world_war_two_experience": "",
+      "arrival_in_phoenix": "",
+      "bunker_acquisition": "",
+      "years_in_bunker": ""
+    },
+    "domain_and_haven": {
+      "primary_haven_name": "",
+      "primary_haven_type": "",
+      "location_notes": "",
+      "bunker_history": "",
+      "bunker_function": [],
+      "false_public_assumptions": ""
+    },
+    "current_residents": {
+      "nosferatu": [],
+      "ghouls": []
+    },
+    "personality": {
+      "tagline": "",
+      "narrative": ""
+    },
+    "traits": {
+      "Physical": [
+        "Athletic",
+        "Brutal",
+        "Enduring",
+        "Resilient",
+        "Tireless",
+        "Wiry"
+      ],
+      "Social": [
+        "Commanding",
+        "Persuasive"
+      ],
+      "Mental": [
+        "Alert",
+        "Cunning",
+        "Dedicated",
+        "Intuitive",
+        "Knowledgeable",
+        "Observant",
+        "Rational",
+        "Vigilant",
+        "Wily"
+      ]
+    },
+    "negativeTraits": {
+      "Physical": [],
+      "Social": [
+        "Callous",
+        "Tactless",
+        "Untrustworthy"
+      ],
+      "Mental": []
+    },
+    "abilities": [
+      {
+        "name": "Intimidation",
+        "category": "Social",
+        "level": 2
+      },
+      {
+        "name": "Melee",
+        "category": "Physical",
+        "level": 1
+      },
+      {
+        "name": "Street Sense",
+        "category": "Optional",
+        "level": 1
+      },
+      {
+        "name": "Survival",
+        "category": "Physical",
+        "level": 1
+      }
+    ],
+    "specializations": {},
+    "disciplines": [
+      {
+        "name": "Sanguinus",
+        "level": 1,
+        "powers": [
+          {
+            "level": 1,
+            "power": "Brother's Blood"
+          }
+        ]
+      },
+      {
+        "name": "Fortitude",
+        "level": 1,
+        "powers": [
+          {
+            "level": 1,
+            "power": "Endurance"
+          }
+        ]
+      },
+      {
+        "name": "Potence",
+        "level": 1,
+        "powers": [
+          {
+            "level": 1,
+            "power": "Prowess"
+          },
+          {
+            "level": 1,
+            "power": "Might"
+          }
+        ]
+      }
+    ],
+    "backgrounds": {
+      "Generation": 5,
+      "Mentor": 3
+    },
+    "backgroundDetails": {},
+    "morality": {
+      "path_name": "Humanity",
+      "path_rating": 4,
+      "conscience": 2,
+      "self_control": 3,
+      "courage": 5,
+      "willpower_permanent": 4,
+      "willpower_current": 4,
+      "humanity": 4
+    },
+    "merits_flaws": [
+      {
+        "name": "Danger Sense",
+        "type": "merit",
+        "category": "Mental",
+        "cost": 2,
+        "description": ""
+      },
+      {
+        "name": "Infertile Vitae",
+        "type": "flaw",
+        "category": "Mental",
+        "cost": 0,
+        "description": ""
+      },
+      {
+        "name": "Magic Susceptibility",
+        "type": "flaw",
+        "category": "Mental",
+        "cost": -2,
+        "description": ""
+      },
+      {
+        "name": "Probationary Sect Member",
+        "type": "flaw",
+        "category": "Mental",
+        "cost": -4,
+        "description": ""
+      }
+    ],
+    "coteries": [],
+    "relationships": [],
+    "rituals": [],
+    "research_notes": {},
+    "artifacts": [],
+    "custom_data": null,
+    "actingNotes": "",
+    "agentNotes": "",
+    "health_status": "",
+    "morality_path": "Humanity",
+    "created_at": "",
+    "updated_at": ""
+  }
+{
+    "id": 0,
+    "user_id": 0,
+    "character_name": "Richard Nelson",
+    "player_name": "ST/NPC",
+    "chronicle": "Valley by Night",
+    "nature": "Drunk Uncle",
+    "demeanor": "Gallant",
+    "concept": "",
+    "clan": "Blood Brothers",
+    "generation": 11,
+    "sire": "",
+    "pc": 0,
+    "appearance": "",
+    "appearance_detailed": {
+      "short_summary": "",
+      "detailed_description": ""
+    },
+    "biography": "",
+    "notes": "",
+    "equipment": "",
+    "character_image": "",
+    "status": {
+      "sect_status": "",
+      "clan_status": "",
+      "city_status": "",
+      "health_levels": 12,
+      "blood_pool_current": 12,
+      "blood_pool_maximum": 12,
+      "blood_per_turn": 1,
+      "xp_total": 0,
+      "xp_spent": 0,
+      "xp_available": 0,
+      "notes": ""
+    },
+    "camarilla_status": "Sabbat",
+    "sect": "Sabbat",
+    "title": "",
+    "epithet": "",
+    "description_tags": [],
+    "timeline": {
+      "birthplace": "",
+      "embrace_period": "",
+      "notable_mortal_past": "",
+      "world_war_two_experience": "",
+      "arrival_in_phoenix": "",
+      "bunker_acquisition": "",
+      "years_in_bunker": ""
+    },
+    "domain_and_haven": {
+      "primary_haven_name": "",
+      "primary_haven_type": "",
+      "location_notes": "",
+      "bunker_history": "",
+      "bunker_function": [],
+      "false_public_assumptions": ""
+    },
+    "current_residents": {
+      "nosferatu": [],
+      "ghouls": []
+    },
+    "personality": {
+      "tagline": "",
+      "narrative": ""
+    },
+    "traits": {
+      "Physical": [
+        "Athletic",
+        "Brawny",
+        "Brutal",
+        "Rugged",
+        "Tenacious",
+        "Tough"
+      ],
+      "Social": [
+        "Commanding",
+        "Intimidating",
+        "Magnetic"
+      ],
+      "Mental": [
+        "Attentive",
+        "Dedicated",
+        "Insightful",
+        "Observant",
+        "Wily"
+      ]
+    },
+    "negativeTraits": {
+      "Physical": [],
+      "Social": [
+        "Callous",
+        "Tactless"
+      ],
+      "Mental": [
+        "Gullible",
+        "Impatient"
+      ]
+    },
+    "abilities": [
+      {
+        "name": "Blindfighting",
+        "category": "Optional",
+        "level": 2
+      },
+      {
+        "name": "Fire Dancing",
+        "category": "Optional",
+        "level": 1
+      },
+      {
+        "name": "Intimidation",
+        "category": "Social",
+        "level": 1
+      },
+      {
+        "name": "Melee",
+        "category": "Physical",
+        "level": 2,
+        "specialization": "Two Gun Mojonote="
+      },
+      {
+        "name": "Rituals",
+        "category": "Optional",
+        "level": 1
+      }
+    ],
+    "specializations": {
+      "Melee": "Two Gun Mojonote="
+    },
+    "disciplines": [
+      {
+        "name": "Sanguinus",
+        "level": 1,
+        "powers": [
+          {
+            "level": 1,
+            "power": "Brother's Blood"
+          }
+        ]
+      },
+      {
+        "name": "Fortitude",
+        "level": 1,
+        "powers": [
+          {
+            "level": 1,
+            "power": "Endurance"
+          }
+        ]
+      },
+      {
+        "name": "Potence",
+        "level": 1,
+        "powers": [
+          {
+            "level": 1,
+            "power": "Prowess"
+          },
+          {
+            "level": 1,
+            "power": "Might"
+          }
+        ]
+      }
+    ],
+    "backgrounds": {},
+    "backgroundDetails": {},
+    "morality": {
+      "path_name": "Humanity",
+      "path_rating": 3,
+      "conscience": 3,
+      "self_control": 3,
+      "courage": 4,
+      "willpower_permanent": 4,
+      "willpower_current": 4,
+      "humanity": 3
+    },
+    "merits_flaws": [
+      {
+        "name": "Ambidextrous",
+        "type": "merit",
+        "category": "Mental",
+        "cost": 0,
+        "description": ""
+      }
+    ],
+    "coteries": [],
+    "relationships": [],
+    "rituals": [],
+    "research_notes": {},
+    "artifacts": [],
+    "custom_data": null,
+    "actingNotes": "",
+    "agentNotes": "",
+    "health_status": "",
+    "morality_path": "Humanity",
+    "created_at": "",
+    "updated_at": ""
+  }
+  ```
+  {
+    "id": 0,
+    "user_id": 0,
+    "character_name": "Braz Tomack",
+    "player_name": "ST/NPC",
+    "chronicle": "Valley by Night",
+    "nature": "Dabbler",
+    "demeanor": "Eye of the Storm",
+    "concept": "",
+    "clan": "Blood Brothers",
+    "generation": 13,
+    "sire": "",
+    "pc": 0,
+    "appearance": "",
+    "appearance_detailed": {
+      "short_summary": "",
+      "detailed_description": ""
+    },
+    "biography": "",
+    "notes": "",
+    "equipment": "",
+    "character_image": "",
+    "status": {
+      "sect_status": "",
+      "clan_status": "",
+      "city_status": "",
+      "health_levels": 11,
+      "blood_pool_current": 10,
+      "blood_pool_maximum": 10,
+      "blood_per_turn": 1,
+      "xp_total": 0,
+      "xp_spent": 0,
+      "xp_available": 0,
+      "notes": ""
+    },
+    "camarilla_status": "Sabbat",
+    "sect": "Sabbat",
+    "title": "",
+    "epithet": "",
+    "description_tags": [],
+    "timeline": {
+      "birthplace": "",
+      "embrace_period": "",
+      "notable_mortal_past": "",
+      "world_war_two_experience": "",
+      "arrival_in_phoenix": "",
+      "bunker_acquisition": "",
+      "years_in_bunker": ""
+    },
+    "domain_and_haven": {
+      "primary_haven_name": "",
+      "primary_haven_type": "",
+      "location_notes": "",
+      "bunker_history": "",
+      "bunker_function": [],
+      "false_public_assumptions": ""
+    },
+    "current_residents": {
+      "nosferatu": [],
+      "ghouls": []
+    },
+    "personality": {
+      "tagline": "",
+      "narrative": ""
+    },
+    "traits": {
+      "Physical": [
+        "Athletic",
+        "Brawny",
+        "Brutal",
+        "Enduring",
+        "Quick",
+        "Resilient",
+        "Tough"
+      ],
+      "Social": [
+        "Charismatic",
+        "Commanding",
+        "Intimidating",
+        "Magnetic",
+        "Manipulative"
+      ],
+      "Mental": [
+        "Alert",
+        "Determined",
+        "Wily"
+      ]
+    },
+    "negativeTraits": {
+      "Physical": [],
+      "Social": [
+        "Bestial",
+        "Callous",
+        "Untrustworthy"
+      ],
+      "Mental": [
+        "Impatient",
+        "Violent"
+      ]
+    },
+    "abilities": [
+      {
+        "name": "Empathy",
+        "category": "Social",
+        "level": 2
+      },
+      {
+        "name": "Leadership",
+        "category": "Social",
+        "level": 1
+      },
+      {
+        "name": "Melee",
+        "category": "Physical",
+        "level": 1
+      },
+      {
+        "name": "Survival",
+        "category": "Physical",
+        "level": 1
+      }
+    ],
+    "specializations": {},
+    "disciplines": [
+      {
+        "name": "Sanguinus",
+        "level": 1,
+        "powers": [
+          {
+            "level": 1,
+            "power": "Brother's Blood"
+          },
+          {
+            "level": 1,
+            "power": "Gestalt"
+          },
+          {
+            "level": 1,
+            "power": "Octopod"
+          },
+          {
+            "level": 1,
+            "power": "Walk of Caine"
+          }
+        ]
+      },
+      {
+        "name": "Fortitude",
+        "level": 1,
+        "powers": [
+          {
+            "level": 1,
+            "power": "Endurance"
+          }
+        ]
+      }
+    ],
+    "backgrounds": {},
+    "backgroundDetails": {},
+    "morality": {
+      "path_name": "Path of Power and the Inner Voice",
+      "path_rating": 4,
+      "conscience": 2,
+      "self_control": 3,
+      "courage": 5,
+      "willpower_permanent": 2,
+      "willpower_current": 2,
+      "humanity": 0
+    },
+    "merits_flaws": [
+      {
+        "name": "Natural Leader",
+        "type": "merit",
+        "category": "Mental",
+        "cost": 0,
+        "description": ""
+      },
+      {
+        "name": "Infertile Vitae",
+        "type": "flaw",
+        "category": "Mental",
+        "cost": 0,
+        "description": ""
+      },
+      {
+        "name": "Probationary Sect Member",
+        "type": "flaw",
+        "category": "Mental",
+        "cost": -4,
+        "description": ""
+      }
+    ],
+    "coteries": [],
+    "relationships": [],
+    "rituals": [],
+    "research_notes": {},
+    "artifacts": [],
+    "custom_data": null,
+    "actingNotes": "",
+    "agentNotes": "",
+    "health_status": "",
+    "morality_path": "Path of Power and the Inner Voice",
+    "created_at": "",
+    "updated_at": ""
+  }
+  
