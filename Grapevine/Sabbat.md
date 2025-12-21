@@ -7,12 +7,9 @@
 | Name | Clan |
 |------|------|
 | All the Way Home | Gangrel Antitribu |
-| Alyona Frolov | Ventrue Antitribu |
 | Alyssa Jorden | Ventrue Antitribu |
-| Atuk Mularin (Sabbat Serpent of Light) | Antitribu: Serpents of the Light |
 | Bart Delagato ( Sabbat BIshop ) | Ventrue |
 | Battle Hardened | Caitiff |
-| Braz Tomack | Blood Brothers |
 | Cannon Fodder | Caitiff |
 | Chance McFee | Brujah Antitribu |
 | Chastity Cross | Toreador Antitribu |
@@ -21,21 +18,15 @@
 | Darivs | Gangrel Antitribu |
 | DarkCon Sabbat NPC | Brujah |
 | Fajeed Hinpajali | Assamite |
-| Garrett Morgan | Lasombra |
 | Geoffry Gray | Gangrel |
 | Gorynich "The Dragon" | Tzimisce |
 | Hitock Ka' (Sabbat Serpent of Light) | Antitribu: Serpents of the Light |
-| Igor Kolov | Brujah Antitribu |
 | Jahid Fipajali | Assamite |
-| Jen | Lasombra Antitribu |
-| Larry Jordon | Tzimisce |
 | Lasombra | Lasombra |
 | Leonid Vorobev | Tzimisce |
 | Maria Alazar | Toreador Antitribu |
 | Mark Lawrance | Lasombra |
-| Mary Jorden | Toreador Antitribu |
 | Midas | Ventrue |
-| Mother Goose | Gangrel Antitribu |
 | NPCSGR1 | Gangrel |
 | NPCSGR2 | Gangrel |
 | NPCSGR3 | Gangrel |
@@ -51,10 +42,7 @@
 | Pack-The Red Nose Guy | Gangrel Antitribu |
 | Pack-Vixen | Gangrel Antitribu |
 | Paul Charles | Nosferatu Antitribu |
-| Pavel Tarasov | Nosferatu Antitribu |
 | Peter | Tzimisce |
-| Richard Jensen | Blood Brothers |
-| Richard Nelson | Blood Brothers |
 | Sabbat 1 (group of five) | Lasombra Antitribu |
 | Sabbat One | Tzimisce |
 | Santana | Gangrel Antitribu |
@@ -65,7 +53,6 @@
 | Talim Asuo | Tremere |
 | Teledore | Tzimisce |
 | The Candyman | Tzimisce |
-| The Cowboy | Lasombra |
 | The Dark One | Lasombra |
 | The Harbinger | Harbingers of Skulls |
 | This Little Piggie Had None | Gangrel |
@@ -75,3 +62,21 @@
 | This Piggie Said Shut the Hell Up | Gangrel |
 | Tom Tom | Assamite |
 | Wraith | Tzimisce |
+-------
+Pull These
+------
+
+| Atuk Mularin (Sabbat Serpent of Light) | Antitribu: Serpents of the Light |
+| Alyona Frolov | Ventrue Antitribu |
+| Chastity Cross | Toreador Antitribu |
+| Garrett Morgan | Lasombra |
+| Igor Kolov | Brujah Antitribu |
+| Larry Jordon | Tzimisce |
+| Mary Jorden | Toreador Antitribu |
+| Mother Goose | Gangrel Antitribu |
+| Pavel Tarasov | Nosferatu Antitribu |
+| Richard Jensen | Blood Brothers |
+| Mike Nelson | Blood Brothers |
+| Braz Tomack | Blood Brothers |
+| Jen | Lasombra Antitribu |
+| The Cowboy | Lasombra |
