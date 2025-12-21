@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.8.63
+## Current Version: 0.8.64
+
+**Date:** 2025-01-30  
+**Type:** Patch (Blood Bonds system planning, world summaries generator, database cleanup tools)
+
+## Previous Version: 0.8.63
 
 **Date:** 2025-01-30  
 **Type:** Patch (World reports audit, character summary fixes, metadata headers)
