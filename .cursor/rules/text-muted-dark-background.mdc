@@ -1,0 +1,68 @@
+---
+description: Never use text-muted utility class on dark backgrounds - use opacity utilities instead
+globs: **/*.php, **/*.html, **/*.css
+alwaysApply: true
+---
+
+# Text-Muted on Dark Backgrounds Rule
+
+- **Main Rule**: Never use the `text-muted` Bootstrap utility class on dark backgrounds. Use opacity utilities or appropriate text color classes instead.
+
+- **Problem:**
+  - `text-muted` applies a light gray color (`#6c757d` in Bootstrap) that has poor contrast on dark backgrounds
+  - This creates accessibility issues and poor readability
+  - Dark backgrounds require lighter text colors, not muted gray
+
+- **Solution:**
+  - Use `opacity-75` or `opacity-50` utilities instead - these maintain the base text color while reducing opacity
+  - For dark backgrounds, use `text-white` or `text-light` with opacity utilities
+  - For light backgrounds, use opacity utilities on default text color
+
+- **Examples:**
+
+  ```html
+  <!-- ❌ DON'T: text-muted on dark background -->
+  <div class="bg-dark">
+      <p class="text-muted">This is hard to read</p>
+  </div>
+  
+  <div class="card bg-primary text-white">
+      <p class="text-muted">Poor contrast here</p>
+  </div>
+  
+  <!-- ✅ DO: Use opacity utilities -->
+  <div class="bg-dark">
+      <p class="text-white opacity-75">Readable on dark</p>
+  </div>
+  
+  <div class="card bg-primary text-white">
+      <p class="opacity-75">Good contrast</p>
+  </div>
+  
+  <!-- ✅ DO: opacity on light backgrounds -->
+  <div class="card">
+      <p class="opacity-75">Subtle text on light background</p>
+  </div>
+  ```
+
+- **When to Use:**
+  - **Light backgrounds**: Use `opacity-75` or `opacity-50` on default text color
+  - **Dark backgrounds**: Use `text-white` or `text-light` with `opacity-75` or `opacity-50`
+  - **Colored backgrounds**: Use appropriate text color class (`text-white`, `text-light`) with opacity utilities
+
+- **Bootstrap Alternatives:**
+  - `opacity-75` - 75% opacity (subtle)
+  - `opacity-50` - 50% opacity (more subtle)
+  - `opacity-25` - 25% opacity (very subtle)
+  - `text-white` - White text for dark backgrounds
+  - `text-light` - Light gray text for dark backgrounds
+
+- **Accessibility:**
+  - Always ensure sufficient contrast ratio (WCAG AA minimum 4.5:1 for normal text)
+  - Test text readability on both light and dark backgrounds
+  - Use browser dev tools to check contrast ratios
+
+- **Enforcement:**
+  - Check for `text-muted` usage in components with dark backgrounds
+  - Replace with appropriate opacity or text color utilities
+  - Verify contrast ratios meet accessibility standards
