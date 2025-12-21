@@ -1,0 +1,123 @@
+{
+    "id": 44,
+    "user_id": 1,
+    "character_name": "Jax 'The Ghost Dealer'",
+    "player_name": "NPC",
+    "chronicle": "Valley by Night",
+    "nature": "Trickster",
+    "demeanor": "Child",
+    "concept": "Ravnos street grifter who sells ghost stories, charms, and talismans; sometimes their own illusions ",
+    "clan": "Ravnos",
+    "generation": 11,
+    "sire": "Unknown",
+    "pc": 0,
+    "appearance": "Androgynous ravnos with shaved sides, bright scarf layers, fingerless gloves, and ash-smudged hands from incense and cheap cigarettes. Eyes glitter with mischief above a stack of tarot decks and jars of salt. Clothing is a patchwork of street vendor glam and neon thrift-store finds, with subtle illusion shimmer at the edges.",
+    "biography": "Jax hustled psychic scams on Phoenix street corners until a Ravnos sire taught them real illusions to spice up the act. Now they roam the city selling ghost removals, haunted curios, and rent-a-seance experiences, never sure whether the flickers they conjure are still under control. Their Chimerstry occasionally slips, leaving stray afterimages stalking them in the night. Chaotic, charming, and terrified of their own runaway mirages, Jax operates from a tarot tent stuffed with incense, neon lights, and hidden escape routes. The more their illusions blur into reality, the more they hustle to stay ahead of customers, rivals, and whatever phantom they might have set loose.",
+    "notes": "Street-level Ravnos con artist—useful contact for occult rumors, illusion-based jobs, or chaos at Elysium. Hooks: help reign in a rogue illusion, repossess a cursed talisman they sold, or negotiate truce between them and a short-tempered client.",
+    "equipment": "Colorful scarves, tarot deck, incense and ash, fake relics and talismans, notebooks with scam scripts, small switchblade, urban disguise kit.",
+    "character_image": "Jax.png",
+    "status": {
+        "sect_status": "",
+        "clan_status": "",
+        "city_status": "",
+        "health_levels": 7,
+        "blood_pool_current": null,
+        "blood_pool_maximum": null,
+        "blood_per_turn": 1,
+        "xp_total": 0,
+        "xp_spent": 0,
+        "xp_available": 0,
+        "notes": ""
+    },
+    "camarilla_status": "Unknown",
+    "traits": {
+        "Physical": [
+            "Agile",
+            "Quick",
+            "Slender"
+        ],
+        "Social": [
+            "Charismatic",
+            "Persuasive",
+            "Playful"
+        ],
+        "Mental": [
+            "Clever",
+            "Inventive",
+            "Observant",
+            "Suspicious"
+        ]
+    },
+    "negativeTraits": {
+        "Physical": [],
+        "Social": [
+            "Short Fuse"
+        ],
+        "Mental": [
+            "Haunted"
+        ]
+    },
+    "abilities": [],
+    "specializations": [],
+    "disciplines": [
+        {
+            "name": "Chimerstry",
+            "level": 2
+        },
+        {
+            "name": "Fortitude",
+            "level": 2
+        }
+    ],
+    "backgrounds": {
+        "Contacts": 2,
+        "Fame": 1,
+        "Generation": 1,
+        "Influence": 2,
+        "Resources": 1
+    },
+    "backgroundDetails": {
+        "Contacts": "Street psychics, pawnshop mystics, and superstitious mortals provide intel or customers.",
+        "Influence": "Street-level recognition among hustlers and urban mystics; feared for illusions that sometimes manifest unexpectedly.",
+        "Resources": "Lives mostly off small-time cons, charms, and scams; minimal material comforts."
+    },
+    "morality": {
+        "path_name": "Humanity",
+        "path_rating": 5,
+        "conscience": 2,
+        "self_control": 3,
+        "courage": 3,
+        "willpower_permanent": 5,
+        "willpower_current": 5,
+        "humanity": 5
+    },
+    "merits_flaws": [
+        {
+            "name": "Enchanting Voice",
+            "type": "Merit",
+            "category": "Social",
+            "cost": 2,
+            "description": "Can easily charm mortals and influence crowds during cons or sales."
+        },
+        {
+            "name": "Haunted",
+            "type": "Flaw",
+            "category": "Mental",
+            "cost": 3,
+            "description": "One of their illusions became semi-autonomous and now follows them around unpredictably."
+        },
+        {
+            "name": "Short Fuse",
+            "type": "Flaw",
+            "category": "Social",
+            "cost": 2,
+            "description": "Quick to anger when called out for fraud or incompetence."
+        }
+    ],
+    "coteries": [],
+    "relationships": [],
+    "rituals": [],
+    "custom_data": null,
+    "created_at": "2025-10-11 19:29:52",
+    "updated_at": "2025-11-08 19:35:08"
+}

@@ -1,0 +1,78 @@
+{
+    "id": 123,
+    "user_id": 1,
+    "character_name": "Warner Jefferson",
+    "player_name": "NPC",
+    "chronicle": "Valley by Night",
+    "nature": "Capitalist",
+    "demeanor": "Director",
+    "concept": "Vulture finance specialist",
+    "clan": "Ventrue",
+    "generation": 11,
+    "sire": "Victoria Ashford-Sterling",
+    "pc": 0,
+    "appearance": "Impeccably dressed African American man in his late 20s/early 30s (apparent age at Embrace). Designer suits, expensive watches, and tasteful jewelry. Every detail meticulously groomed and calculated for maximum professional impact. Commanding presence with Ivy League polish. Cold, calculating eyes that assess value in everything. Moves with the confidence of old money despite his mortal origins. Conservative but expensive style—Brooks Brothers, bespoke tailoring, Italian leather shoes. Nothing flashy, everything quality.",
+    "biography": "Warner Jefferson grew up in South Side Chicago in the 1950s-60s, witnessing economic cycles and learning that capital endures while labor is disposable. He earned a full scholarship to Wharton School of Business, graduating with credentials no one could question. In the mid-1970s, he entered Wall Street as an entry-level analyst, gravitating toward distressed assets and vulture finance. By 1987, he'd reached lead analyst/junior partner position but hit a ceiling where senior partnerships went to legacy connections.\n\nIn 1988, during the Savings and Loan Crisis, Warner was Embraced by Victoria Ashford-Sterling, a progressive Ventrue who believed in meritocracy over birth. She framed the Embrace as a business proposition: unlimited time, enhanced capabilities, and access to markets he couldn't imagine, in exchange for his mortality and absolute loyalty to the Camarilla.\n\nIn the early 1990s, Warner moved to Phoenix to build a power base away from New York's entrenched Ventrue hierarchy. He's currently executing an assignment from the Ventrue Primogen: mapping and investigating all financial and business holdings of the Tremere and Giovanni in Phoenix. This is surveillance and intelligence gathering—no attacks yet. He's building comprehensive dossiers on their economic power structure while quietly acquiring influence in Phoenix's booming economy.",
+    "notes": "Ventrue vulture finance specialist currently investigating Tremere and Giovanni financial holdings for the Primogen. Maintains penthouse haven in downtown Phoenix high-rise. Has ghoul retainer Markus (lawyer) handling daytime operations. Resources 5, Influence: Finance 4, Industry 2, Politics 2, Transportation 1, Real Estate 1. Status 3 in Phoenix Camarilla. Herd 3 (exclusive business club—MBA holders, executives, entrepreneurs). Feeding restriction: Business degree holders only. Disciplines: Dominate 2, Fortitude 1, Presence 2. Humanity 7, Willpower 7, Blood Pool 12. Sire: Victoria Ashford-Sterling (Generation 10, based in New York). Currently playing long game—building power base carefully to avoid making enemies while positioning for major acquisitions.",
+    "equipment": "",
+    "character_image": "123_1762872252_22f90772.webp",
+    "status": {
+        "sect_status": "",
+        "clan_status": "",
+        "city_status": "",
+        "health_levels": 7,
+        "blood_pool_current": null,
+        "blood_pool_maximum": null,
+        "blood_per_turn": 1,
+        "xp_total": 0,
+        "xp_spent": 0,
+        "xp_available": 0,
+        "notes": ""
+    },
+    "camarilla_status": "Camarilla",
+    "traits": {
+        "Physical": [],
+        "Social": [],
+        "Mental": []
+    },
+    "negativeTraits": {
+        "Physical": [],
+        "Social": [],
+        "Mental": []
+    },
+    "abilities": [],
+    "specializations": [],
+    "disciplines": [
+        {
+            "name": "Dominate",
+            "level": 2
+        },
+        {
+            "name": "Fortitude",
+            "level": 2
+        },
+        {
+            "name": "Presence",
+            "level": 4
+        }
+    ],
+    "backgrounds": [],
+    "backgroundDetails": [],
+    "morality": {
+        "path_name": "Humanity",
+        "path_rating": 7,
+        "conscience": 3,
+        "self_control": 3,
+        "courage": 3,
+        "willpower_permanent": 5,
+        "willpower_current": 5,
+        "humanity": 7
+    },
+    "merits_flaws": [],
+    "coteries": [],
+    "relationships": [],
+    "rituals": [],
+    "custom_data": null,
+    "created_at": "2025-11-11 09:38:00",
+    "updated_at": "2025-11-13 17:47:38"
+}

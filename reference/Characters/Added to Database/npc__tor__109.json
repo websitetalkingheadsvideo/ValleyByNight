@@ -1,0 +1,114 @@
+{
+    "id": 109,
+    "user_id": 1,
+    "character_name": "Tor",
+    "player_name": "NPC",
+    "chronicle": "Valley by Night",
+    "nature": "",
+    "demeanor": "",
+    "concept": "Apt pupil ghoul bound to Mr. Ashby",
+    "clan": "Ghoul",
+    "generation": 13,
+    "sire": "Mr. Harold Ashby",
+    "pc": 0,
+    "appearance": "Haunted mortal ghoul with eyes that have seen too much death, too much grief. Moves with the careful, measured steps of someone trying to understand patterns that may not exist. Wears simple, neat clothing that suggests someone trying to maintain normalcy in an abnormal situation. His hands sometimes shake slightly, and he has a habit of studying photographs with intense focus, searching for something he can't quite name.",
+    "biography": "Tor is the ghoul of Mr. Harold Ashby, bound to the Malkavian photographer through the promise of understanding the 'pattern beneath grief.' He assists Ashby in his work, believing he's helping to document something sacred—the moment of transition from life to death, the perfect preservation of grief.\n\nTor doesn't fully understand what Ashby is doing, but he's been manipulated through the blood bond and Ashby's persuasive teaching. He believes he's learning something profound, that there's a divine pattern in death that only Ashby can see. He helps stage the ritualized murders, arranging victims, taking photographs, maintaining the immaculate havens filled with images of the dead.\n\nBut there's a growing unease, a sense that something is wrong. Tor sees the victims, sees their grief, and part of him knows this isn't preservation—it's murder. The blood bond keeps him loyal, but cracks are forming. When he finally realizes the truth, he'll have to choose between his bond to Ashby and his own humanity.\n\nTor's story is one of manipulation and awakening. He's a victim of Ashby's corruption, but he's also complicit in the murders. His eventual realization and potential rebellion against Ashby could be a crucial plot point in stopping the serial killer.",
+    "notes": "Ghoul of Mr. Harold Ashby. Manipulated through blood bond and promise of understanding 'pattern beneath grief.' Assists in ritualized murders, believing he's documenting something sacred. Growing unease about the truth. Useful ST contact for Malkavian serial killer plotline, or when PCs need to understand Ashby's methods. Hooks: Tor realizes the truth and rebels, Tor becomes a victim, Tor helps PCs stop Ashby, or Tor's guilt drives him to confess.",
+    "equipment": "Tool belt, rusted pickup truck, work gloves, small Bible, cracked photo frame showing him with Mr. Ashby (Ashby's face scratched out).",
+    "character_image": "109_1762560972_539bc98d.png",
+    "status": {
+        "sect_status": "",
+        "clan_status": "",
+        "city_status": "",
+        "health_levels": 7,
+        "blood_pool_current": null,
+        "blood_pool_maximum": null,
+        "blood_per_turn": 1,
+        "xp_total": 30,
+        "xp_spent": 0,
+        "xp_available": 30,
+        "notes": ""
+    },
+    "camarilla_status": "Unknown",
+    "traits": {
+        "Physical": [
+            "Dexterity",
+            "Stamina",
+            "Strength"
+        ],
+        "Social": [
+            "Appearance",
+            "Charisma",
+            "Manipulation"
+        ],
+        "Mental": [
+            "Intelligence",
+            "Perception",
+            "Wits"
+        ]
+    },
+    "negativeTraits": {
+        "Physical": [],
+        "Social": [],
+        "Mental": []
+    },
+    "abilities": [],
+    "specializations": [],
+    "disciplines": [
+        {
+            "name": "Obfuscate",
+            "level": 1
+        },
+        {
+            "name": "Potence",
+            "level": 1
+        }
+    ],
+    "backgrounds": {
+        "Haven": 1,
+        "Resources": 1
+    },
+    "backgroundDetails": {
+        "Haven": "Small rented room attached to a workshop near Sun City outskirts.",
+        "Resources": "Minimal — odd jobs, minor cash gifts from Mr. Ashby."
+    },
+    "morality": {
+        "path_name": "Humanity",
+        "path_rating": 5,
+        "conscience": 3,
+        "self_control": 2,
+        "courage": 4,
+        "willpower_permanent": 5,
+        "willpower_current": 5,
+        "humanity": 5
+    },
+    "merits_flaws": [
+        {
+            "name": "Strong Back",
+            "type": "Merit",
+            "category": "",
+            "cost": 1,
+            "description": ""
+        },
+        {
+            "name": "Dependent (Mr. Ashby)",
+            "type": "Flaw",
+            "category": "",
+            "cost": 1,
+            "description": ""
+        },
+        {
+            "name": "Gullible",
+            "type": "Flaw",
+            "category": "",
+            "cost": 2,
+            "description": ""
+        }
+    ],
+    "coteries": [],
+    "relationships": [],
+    "rituals": [],
+    "custom_data": null,
+    "created_at": "2025-11-06 16:31:02",
+    "updated_at": "2025-11-08 19:35:08"
+}

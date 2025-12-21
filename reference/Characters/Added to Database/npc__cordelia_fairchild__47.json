@@ -1,0 +1,143 @@
+{
+    "id": 47,
+    "user_id": 1,
+    "character_name": "Cordelia Fairchild",
+    "player_name": "NPC",
+    "chronicle": "Valley by Night",
+    "nature": "Critic",
+    "demeanor": "Architect",
+    "concept": "Elegant manipulator and long-standing Harpy of Phoenix, a Toreador of terrifying poise and psychic d",
+    "clan": "Toreador",
+    "generation": 8,
+    "sire": "in",
+    "pc": 0,
+    "appearance": "",
+    "biography": "Embraced in 1914 at the age of 28, Cordelia Fairchild was a socialite and art critic during the height of the American Gilded Age’s decline. Her Embrace came from a Toreador enamored with her ability to destroy reputations with a single whispered review. For decades she moved through Arizona’s small but decadent Kindred society, first establishing herself in Flagstaff, where she cultivated influence through the city’s business elite and railroad-connected families. By the late 1940s, she had relocated to Phoenix, bringing her mortal and Kindred contacts with her. Her rise was inevitable: by the 1950s she was recognized as the Harpy of the domain, her wit and cruelty wrapped in honeyed civility. In 1960, she orchestrated the social destruction of Darrell Buyers, a Nosferatu elder who once controlled the city’s mortal political machine. The scandal ended his influence and solidified Cordelia’s supremacy. She remains the Harpy to this night, as elegant as she is terrifying, a living reminder that in the Jyhad of whispers, words kill faster than blades.",
+    "notes": "",
+    "equipment": "A 1929 Montblanc fountain pen; a diamond hairpin shaped like a stiletto; a vintage Packard automobile, meticulously restored.",
+    "character_image": "Cordelia Fairchild.png",
+    "status": {
+        "sect_status": "",
+        "clan_status": "",
+        "city_status": "",
+        "health_levels": 7,
+        "blood_pool_current": null,
+        "blood_pool_maximum": null,
+        "blood_per_turn": 1,
+        "xp_total": 0,
+        "xp_spent": 0,
+        "xp_available": 0,
+        "notes": ""
+    },
+    "camarilla_status": "Unknown",
+    "traits": {
+        "Physical": [
+            "Controlled",
+            "Graceful",
+            "Poised"
+        ],
+        "Social": [
+            "Charming",
+            "Commanding",
+            "Eloquent",
+            "Manipulative"
+        ],
+        "Mental": [
+            "Calculating",
+            "Insightful",
+            "Perceptive"
+        ]
+    },
+    "negativeTraits": {
+        "Physical": [],
+        "Social": [
+            "Arrogant"
+        ],
+        "Mental": [
+            "Obsessive"
+        ]
+    },
+    "abilities": [],
+    "specializations": [],
+    "disciplines": [
+        {
+            "name": "Animalism",
+            "level": 2
+        },
+        {
+            "name": "Auspex",
+            "level": 5
+        },
+        {
+            "name": "Celerity",
+            "level": 5
+        },
+        {
+            "name": "Dominate",
+            "level": 3
+        },
+        {
+            "name": "Presence",
+            "level": 5
+        }
+    ],
+    "backgrounds": {
+        "Allies": 2,
+        "Contacts": 4,
+        "Fame": 1,
+        "Generation": 5,
+        "Herd": 3,
+        "Influence": 4,
+        "Mentor": 0,
+        "Resources": 4,
+        "Retainers": 2,
+        "Status": 5
+    },
+    "backgroundDetails": {
+        "Contacts": "Private investigator network, gossip columnists, social secretaries, and art dealers.",
+        "Herd": "Artists, critics, and socialites who attend her private salons.",
+        "Influence": "Controls social and cultural circles in Flagstaff; maintains minor pull in Phoenix media and politics through her network.",
+        "Resources": "Inherited art investments, antique holdings, and private gallery endowments.",
+        "Retainers": "Two ghouled attendants — a chauffeur and a secretary.",
+        "Status": "Harpy of Phoenix for over 30 years; untouchable in Elysium politics."
+    },
+    "morality": {
+        "path_name": "Humanity",
+        "path_rating": 6,
+        "conscience": 3,
+        "self_control": 2,
+        "courage": 4,
+        "willpower_permanent": 9,
+        "willpower_current": 9,
+        "humanity": 6
+    },
+    "merits_flaws": [
+        {
+            "name": "Enchanting Voice",
+            "type": "Merit",
+            "category": "Social",
+            "cost": 2,
+            "description": "Her voice carries hypnotic weight and emotional depth."
+        },
+        {
+            "name": "Prestigious Sire",
+            "type": "Merit",
+            "category": "Social",
+            "cost": 1,
+            "description": "Her lineage grants her instant credibility among Toreador elders."
+        },
+        {
+            "name": "Obsession (Reputation)",
+            "type": "Flaw",
+            "category": "Mental",
+            "cost": 2,
+            "description": "Her obsession with maintaining social dominance blinds her to emotional nuance."
+        }
+    ],
+    "coteries": [],
+    "relationships": [],
+    "rituals": [],
+    "custom_data": null,
+    "created_at": "2025-10-18 08:25:20",
+    "updated_at": "2025-12-02 04:26:04"
+}

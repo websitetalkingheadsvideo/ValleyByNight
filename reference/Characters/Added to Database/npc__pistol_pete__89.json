@@ -1,0 +1,89 @@
+{
+    "id": 89,
+    "user_id": 1,
+    "character_name": "Pistol Pete",
+    "player_name": "NPC",
+    "chronicle": "Valley by Night",
+    "nature": "Rebel",
+    "demeanor": "Fanatic",
+    "concept": "Rage Against the Machine / Street-Level Enforcer",
+    "clan": "Brujah",
+    "generation": 11,
+    "sire": "Late 1980s, Phoenix (former street racer/punk)",
+    "pc": 0,
+    "appearance": "Brujah brawler in battered leather jacket, scar-laced knuckles, and a revolver he twirls like a gunslinger. Buzzcut hair, desert dust on boots, tattoos peeking from torn sleeves. Eyes burn with the adrenaline of someone ready to fight or drag-race at a moment's notice.",
+    "biography": "Phoenix-born ex-mercenary who embraced Anarch rebellion, Pistol Pete earned his nickname from a decade of defending the Valley's street-level Kindred. Brujah blood doesn't care for finesse; he channels it into fists, gunplay, and rallying fellow rebels. He can feel the whispers of diablerie on newcomers and has sworn to keep the city free of Camarilla killers. Mental discipline isn't his game—pure instinct is—but beneath the gruff exterior he protects neonates and mortals caught between sect crossfire. His haven is an abandoned skate shop on the Mesa/Chandler border, a symbol of his commitment to Anarch territory and his goal to capture and publicly humiliate a Camarilla elder to prove the establishment's weakness.",
+    "notes": "Brujah street enforcer. Great muscle-for-hire ally or volatile rival depending on how PCs treat Anarchs. Haven: Abandoned skate shop (Mesa/Chandler border). Goal: Capture and publicly humiliate a Camarilla elder to prove the establishment's weakness. Hooks: help him expose a rumored diablerist, mediate a turf dispute before he escalates, or ride shotgun during a retaliatory strike against Camarilla hit squads.",
+    "equipment": "",
+    "character_image": "Pistol Pete.png",
+    "status": {
+        "sect_status": "",
+        "clan_status": "",
+        "city_status": "",
+        "health_levels": 7,
+        "blood_pool_current": null,
+        "blood_pool_maximum": null,
+        "blood_per_turn": 1,
+        "xp_total": 0,
+        "xp_spent": 0,
+        "xp_available": 0,
+        "notes": ""
+    },
+    "camarilla_status": "Unknown",
+    "traits": {
+        "Physical": [
+            "Aggressive",
+            "Quick"
+        ],
+        "Social": [
+            "Intense",
+            "Passionate"
+        ],
+        "Mental": [
+            "Focused",
+            "Independent"
+        ]
+    },
+    "negativeTraits": {
+        "Physical": [],
+        "Social": [],
+        "Mental": []
+    },
+    "abilities": [],
+    "specializations": [],
+    "disciplines": [],
+    "backgrounds": [],
+    "backgroundDetails": [],
+    "morality": {
+        "path_name": "Humanity",
+        "path_rating": 7,
+        "conscience": 3,
+        "self_control": 3,
+        "courage": 3,
+        "willpower_permanent": 5,
+        "willpower_current": 5,
+        "humanity": 7
+    },
+    "merits_flaws": [
+        {
+            "name": "Fighting Style: Brawling",
+            "type": "Merit",
+            "category": "Merit",
+            "cost": 2,
+            "description": "Expert in street fighting; uses brute force and speed effectively."
+        },
+        {
+            "name": "Short Fuse",
+            "type": "Flaw",
+            "category": "Flaw",
+            "cost": 3,
+            "description": "Frequent and easy Frenzy checks. Prone to immediate, violent reactions to authority."
+        }
+    ],
+    "coteries": [],
+    "relationships": [],
+    "rituals": [],
+    "custom_data": null,
+    "created_at": "2025-11-01 18:04:38",
+    "updated_at": "2025-11-08 19:35:08"
+}

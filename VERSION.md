@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.8.61
+## Current Version: 0.8.62
+
+**Date:** 2025-01-30  
+**Type:** Patch (NPC character export system - database-to-JSON export and character summary regeneration)
+
+## Previous Version: 0.8.61
 
 **Date:** 2025-01-30  
 **Type:** Patch (Text-muted rule and world reference directory structure)

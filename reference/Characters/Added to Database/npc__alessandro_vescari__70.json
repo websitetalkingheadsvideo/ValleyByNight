@@ -1,0 +1,171 @@
+{
+    "id": 70,
+    "user_id": 1,
+    "character_name": "Alessandro Vescari",
+    "player_name": "NPC",
+    "chronicle": "Valley by Night",
+    "nature": "",
+    "demeanor": "",
+    "concept": "Giovanni investment liaison and necromantic infiltrator targeting the Setite Temple in Mesa",
+    "clan": "Giovanni",
+    "generation": 10,
+    "sire": "",
+    "pc": 1,
+    "appearance": "",
+    "biography": "",
+    "notes": "",
+    "equipment": "Worn leather briefcase (survivor from mortal life), modest business casual wardrobe (Rembrandt helped him shop), cheap apartment keys (studio in Sunnyslope area), bus pass and used Honda Accord (1987, barely running), industrial equipment catalogs and sales materials (can't quite let go of old life), pager, basic cell phone (brick-style, 1994), wallet with expired driver's license and business cards from mortal life, small amount of cash, notebook where he writes down everything Rembrandt teaches him",
+    "character_image": "70_1763173770_6d9a3dd4.png",
+    "status": {
+        "sect_status": "",
+        "clan_status": "",
+        "city_status": "",
+        "health_levels": 7,
+        "blood_pool_current": null,
+        "blood_pool_maximum": null,
+        "blood_per_turn": 1,
+        "xp_total": 0,
+        "xp_spent": 0,
+        "xp_available": 0,
+        "notes": ""
+    },
+    "camarilla_status": "Unknown",
+    "traits": {
+        "Physical": [
+            "Graceful",
+            "Precise",
+            "Unassuming"
+        ],
+        "Social": [
+            "Charming",
+            "Composed",
+            "Diplomatic",
+            "Eloquent",
+            "Manipulative",
+            "Persuasive",
+            "Poised",
+            "Predatory",
+            "Seductive"
+        ],
+        "Mental": [
+            "Analytical",
+            "Calculating",
+            "Insightful",
+            "Methodical",
+            "Perceptive",
+            "Scheming",
+            "Strategic"
+        ]
+    },
+    "negativeTraits": {
+        "Physical": [
+            "Fragile"
+        ],
+        "Social": [
+            "Arrogant"
+        ],
+        "Mental": [
+            "Obsessive"
+        ]
+    },
+    "abilities": [],
+    "specializations": [],
+    "disciplines": [
+        {
+            "name": "Dominate",
+            "level": 3
+        },
+        {
+            "name": "Fortitude",
+            "level": 1
+        },
+        {
+            "name": "Necromancy (Giovanni)",
+            "level": 2
+        },
+        {
+            "name": "Obfuscate",
+            "level": 1
+        },
+        {
+            "name": "Potence",
+            "level": 1
+        },
+        {
+            "name": "Presence",
+            "level": 3
+        },
+        {
+            "name": "Serpentis",
+            "level": 3
+        }
+    ],
+    "backgrounds": {
+        "Contacts": 2,
+        "Generation": 2,
+        "Herd": 1,
+        "Mentor": 3,
+        "Resources": 1
+    },
+    "backgroundDetails": [],
+    "morality": {
+        "path_name": "Humanity",
+        "path_rating": 7,
+        "conscience": 4,
+        "self_control": 3,
+        "courage": 3,
+        "willpower_permanent": 5,
+        "willpower_current": 5,
+        "humanity": 7
+    },
+    "merits_flaws": [
+        {
+            "name": "Friendly Face",
+            "type": "Merit",
+            "category": "Social",
+            "cost": 1,
+            "description": "People naturally trust Barry and want to help him. -1 difficulty on Social rolls to gain assistance or cooperation from strangers."
+        },
+        {
+            "name": "Natural Linguist",
+            "type": "Merit",
+            "category": "Mental",
+            "cost": 2,
+            "description": "Years of dealing with diverse clients across the Southwest. Picks up languages and dialects easily. Knows conversational Spanish and can fake basic Navajo greetings."
+        },
+        {
+            "name": "Caitiff",
+            "type": "Flaw",
+            "category": "Social",
+            "cost": 4,
+            "description": "Clanless. No clan disciplines (all disciplines cost out-of-clan XP). Automatically looked down upon by most Camarilla Kindred. No natural allies or clan structure. Status is capped at low levels."
+        },
+        {
+            "name": "Dark Secret",
+            "type": "Flaw",
+            "category": "Social",
+            "cost": 1,
+            "description": "Possesses Obtenebration, a Sabbat discipline strongly associated with Lasombra. If this becomes widely known, many would assume he's a Sabbat plant or corrupted. Must keep this power hidden."
+        },
+        {
+            "name": "Nightmares",
+            "type": "Flaw",
+            "category": "Mental",
+            "cost": 1,
+            "description": "Relives being buried alive, clawing through dirt, the desert walk. Sometimes wakes during day in panic. -1 die to all actions for the night after particularly bad episodes (ST discretion)."
+        },
+        {
+            "name": "Prey Exclusion",
+            "type": "Flaw",
+            "category": "Supernatural",
+            "cost": 1,
+            "description": "Cannot feed from business executives, corporate managers, or 'successful' businesspeople - his former peers. Something psychological about his fall from his old life. Must feed from working-class people: truck drivers, diner staff, gas station attendants, etc."
+        }
+    ],
+    "coteries": [],
+    "relationships": [],
+    "rituals": [],
+    "custom_data": null,
+    "created_at": "2025-10-29 03:27:57",
+    "updated_at": "2025-11-14 21:29:37"
+}

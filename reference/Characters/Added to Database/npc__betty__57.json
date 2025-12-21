@@ -1,0 +1,129 @@
+{
+    "id": 57,
+    "user_id": 1,
+    "character_name": "Betty",
+    "player_name": "NPC",
+    "chronicle": "Valley by Night",
+    "nature": "Visionary",
+    "demeanor": "Professional",
+    "concept": "Tech Prodigy Nosferatu - Shrecknet Architect",
+    "clan": "Nosferatu",
+    "generation": 9,
+    "sire": "in",
+    "pc": 0,
+    "appearance": "",
+    "biography": "Embraced in 1989 at age 22, fresh out of her Computer Science degree. Betty was a brilliant programmer who caught Alistaire's attention while working on cutting-edge networking protocols. He saw the future of information warfare and Embraced her to give the Phoenix Nosferatu a technological edge.\n\nAs a one-year-old fledgling in 1990, Betty is intensely grateful for her Embrace - viewing it as winning the lottery. She received immortality, unlimited access to cutting-edge technology, and a budget rivaling major tech companies. Her Nosferatu curse manifests as 'The Living Terminal' - her skin glows with CRT phosphorescence, fiber-optic filaments grow from her scalp and arms, her fingertips have hardened into connector pins, and her eyes display scan lines when focused.\n\nBetty largely ignores vampire society politics, focusing entirely on building systems and pushing technological boundaries. She coordinates the three-person Nosferatu tech team (herself, #3, and #4) working on Shrecknet development, making Phoenix a crucial node in the emerging global vampire information network. She's the most social of the three, handling all external communication and system architecture decisions while her teammates handle deep technical implementation.\n\nShe operates from Alistaire's bunker haven, monitoring the decoy storm drain location and running surveillance across his domain. Her relationship with her 'brother' Terry is one of respectful indifference - he doesn't understand her 'magic boxes' but trusts her intelligence, and she doesn't need him to understand packet sniffing to appreciate his street-level reconnaissance skills.\n\nBetty specializes in both Microsoft and Unix systems, making her dual-platform expertise rare and valuable. Any company in the Phoenix metro area is vulnerable to her team's hacking capabilities. She's obsessed with the future of technology, constantly theorizing about networking, AI, and digital communication - making predictions that sound insane in 1990 but will prove eerily accurate.",
+    "notes": "",
+    "equipment": "Multiple server racks (Microsoft and Unix systems), custom-built networking equipment, early modem banks, extensive hard drive arrays, prototype surveillance equipment, laptop (cutting edge for 1990), tool kits for hardware maintenance, backup power systems, encrypted communication devices",
+    "character_image": "57_1761917770_a960e538.png",
+    "status": {
+        "sect_status": "",
+        "clan_status": "",
+        "city_status": "",
+        "health_levels": 7,
+        "blood_pool_current": null,
+        "blood_pool_maximum": null,
+        "blood_per_turn": 1,
+        "xp_total": 0,
+        "xp_spent": 0,
+        "xp_available": 0,
+        "notes": ""
+    },
+    "camarilla_status": "Unknown",
+    "traits": {
+        "Physical": [
+            "Alert",
+            "Nimble"
+        ],
+        "Social": [
+            "Friendly",
+            "Persuasive"
+        ],
+        "Mental": [
+            "Clever",
+            "Creative",
+            "Disciplined",
+            "Intelligent",
+            "Knowledgeable",
+            "Observant"
+        ]
+    },
+    "negativeTraits": {
+        "Physical": [
+            "Repugnant (Nosferatu Curse)"
+        ],
+        "Social": [
+            "Tactless"
+        ],
+        "Mental": [
+            "Obsessed"
+        ]
+    },
+    "abilities": [],
+    "specializations": [],
+    "disciplines": [
+        {
+            "name": "Animalism",
+            "level": 1
+        },
+        {
+            "name": "Obfuscate",
+            "level": 2
+        },
+        {
+            "name": "Potence",
+            "level": 1
+        }
+    ],
+    "backgrounds": {
+        "Allies": 2,
+        "Contacts": 3,
+        "Fame": 0,
+        "Generation": 4,
+        "Herd": 0,
+        "Influence": 0,
+        "Mentor": 4,
+        "Resources": 5,
+        "Retainers": 0,
+        "Status": 1
+    },
+    "backgroundDetails": {
+        "Allies": "Nosferatu #3 and #4 (her tech team), Terry (fellow childe of Alistaire)",
+        "Contacts": "Tech industry contacts from mortal life, underground hacker networks, BBS operators, computer science academics.",
+        "Mentor": "Alistaire (sire) - Provides guidance, resources, protection, and vision for Shrecknet development. Trusts Betty with massive responsibilities despite her youth.",
+        "Resources": "Effectively unlimited budget for computer equipment provided by Alistaire - rivals small-to-medium tech companies. Maintains expensive server infrastructure, prototype equipment, and cutting-edge hardware.",
+        "Status": "Recognized within Nosferatu clan as rising tech specialist. Low status in broader Camarilla due to youth, but her value is undeniable."
+    },
+    "morality": {
+        "path_name": "Humanity",
+        "path_rating": 7,
+        "conscience": 3,
+        "self_control": 4,
+        "courage": 3,
+        "willpower_permanent": 6,
+        "willpower_current": 6,
+        "humanity": 7
+    },
+    "merits_flaws": [
+        {
+            "name": "Computer Aptitude",
+            "type": "Merit",
+            "category": "Mental",
+            "cost": 2,
+            "description": "Natural affinity with computers, -2 difficulty on all Computer rolls"
+        },
+        {
+            "name": "Nightmares",
+            "type": "Flaw",
+            "category": "Mental",
+            "cost": 1,
+            "description": "Plagued by disturbing dreams of merging with machines"
+        }
+    ],
+    "coteries": [],
+    "relationships": [],
+    "rituals": [],
+    "custom_data": null,
+    "created_at": "2025-10-24 19:35:26",
+    "updated_at": "2025-11-29 20:00:41"
+}

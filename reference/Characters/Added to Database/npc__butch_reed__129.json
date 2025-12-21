@@ -1,0 +1,84 @@
+{
+    "id": 129,
+    "user_id": 1,
+    "character_name": "Butch Reed",
+    "player_name": "NPC",
+    "chronicle": "Valley by Night",
+    "nature": "Caregiver",
+    "demeanor": "Guardian",
+    "concept": "Gentle giant mechanic / Brujah Primogen",
+    "clan": "Brujah",
+    "generation": 10,
+    "sire": "0",
+    "pc": 0,
+    "appearance": "Butch Reed stands six-foot-two with the solid build of a man who's spent years training his body as both weapon and tool. His shoulders are broad, his arms thick with muscle that speaks to decades of professional wrestling and the physical demands of mechanical work. His African American skin shows the weathered texture of someone who's spent time under harsh lights and desert sun, even before undeath—lines around his eyes from squinting at engine blocks and reading fine print on schematics. His short hair stays hidden beneath a sweat-stained headband, practical and unpretentious, the kind of thing a working man wears to keep the sweat out of his eyes.\n\nHe moves with the deliberate economy of someone who's learned that every motion should serve a purpose. There's a coiled quality to his stillness, the sense that despite his calm demeanor, he could explode into massive action at any moment if he chose—the wrestling background evident in how he carries his weight, how he positions his feet, how his hands rest ready at his sides. His coveralls bear the honest stains of honest work: engine grease, transmission fluid, the accumulated grime of fixing what others have broken. Even when clean, his hands show the calluses and scars of someone who's spent decades making broken things whole again—thick fingers that can apply precise force, palms that know the weight and balance of tools.\n\nWhat makes him imposing isn't his size alone, though that's considerable. It's the controlled power in his stillness, the way he holds himself like a man who's never had to prove anything because everyone already knows what he's capable of. His eyes, when they meet yours, hold the steady assessment of someone who's learned to read people the way he reads engines—looking for what's broken, what needs fixing, what can be trusted. In the right light, there's something almost predatory in that stillness, a reminder that despite the gentle giant exterior, he's still one of the walking dead, and the Beast that drives all Kindred waits just beneath the surface of his calm.",
+    "biography": "",
+    "notes": "Trusted, high-Humanity Brujah who quietly supports the city's stability. Dislikes unnecessary violence. Highly respected by local Kindred.",
+    "equipment": "[\"1984 Chevrolet C\\/K pickup (longbed, primer gray)\",\"Heavy-duty mechanic tools\",\"Refrigerated safe with emergency blood supply\"]",
+    "character_image": "Butch_Reed.png",
+    "status": {
+        "sect_status": "",
+        "clan_status": "",
+        "city_status": "",
+        "health_levels": 7,
+        "blood_pool_current": null,
+        "blood_pool_maximum": null,
+        "blood_per_turn": 1,
+        "xp_total": 0,
+        "xp_spent": 0,
+        "xp_available": 0,
+        "notes": ""
+    },
+    "camarilla_status": "Unknown",
+    "traits": {
+        "Physical": [],
+        "Social": [],
+        "Mental": []
+    },
+    "negativeTraits": {
+        "Physical": [],
+        "Social": [],
+        "Mental": []
+    },
+    "abilities": [],
+    "specializations": [],
+    "disciplines": [
+        {
+            "name": "celerity",
+            "level": 1
+        },
+        {
+            "name": "potence",
+            "level": 2
+        },
+        {
+            "name": "presence",
+            "level": 2
+        }
+    ],
+    "backgrounds": {
+        "allies": 2,
+        "contacts": 2,
+        "herd": 1,
+        "resources": 2,
+        "status": 2
+    },
+    "backgroundDetails": [],
+    "morality": {
+        "path_name": "Humanity",
+        "path_rating": 7,
+        "conscience": 3,
+        "self_control": 3,
+        "courage": 3,
+        "willpower_permanent": 5,
+        "willpower_current": 5,
+        "humanity": 7
+    },
+    "merits_flaws": [],
+    "coteries": [],
+    "relationships": [],
+    "rituals": [],
+    "custom_data": null,
+    "created_at": "2025-11-26 06:02:14",
+    "updated_at": "2025-12-02 03:40:27"
+}

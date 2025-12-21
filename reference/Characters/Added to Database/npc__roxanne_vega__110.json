@@ -1,0 +1,104 @@
+{
+    "id": 110,
+    "user_id": 1,
+    "character_name": "Roxanne Vega",
+    "player_name": "NPC",
+    "chronicle": "Valley by Night",
+    "nature": "Visionary",
+    "demeanor": "Rebel",
+    "concept": "Street Artist Turned Iconoclast",
+    "clan": "Toreador",
+    "generation": 13,
+    "sire": "Unknown",
+    "pc": 0,
+    "appearance": "Commanding Setite priestess in elegant clothing that blends modern sophistication with Egyptian motifs—dark silk dresses with subtle serpent patterns, gold jewelry that catches candlelight, eyes that hold ancient knowledge and predatory hunger. Moves with the grace of someone who's spent centuries perfecting her craft, every gesture part of a performance that serves both aesthetic and ritual purposes. Her presence commands attention, drawing mortals and Kindred alike into her orbit.",
+    "biography": "Roxanne Murphy, known in some circles as Roxanne Vega, is a Setite priestess who operates The Hole, an upscale nightclub in Mesa that serves as both profitable business and blasphemy-shrine. She controls the club through Serpent Holdings LLC, a shell company that maintains plausible deniability while allowing her to conduct Setite rites beneath the dance floor.\n\nRoxanne is a lector-priest who has mastered the Akhu paths of Setite Sorcery, conducting monthly rituals in the blasphemy-shrine that she believes strengthen Set's presence in the world and hasten his return. The shrine, hidden in the second basement beneath the club, is constructed according to ancient specifications—hieroglyphic inscriptions cover the walls, a basalt altar carved with Set's image serves as the focal point, and the shadows move independently, a sign Roxanne claims is Set's blessing.\n\nShe works with Marcus Webb (General Manager) and Jennifer Kwan (Security Director) to maintain the club's dual nature—public nightclub and private temple. Roxanne's approach to corruption is sophisticated, using the club's VIP areas to slowly erode the moral boundaries of high-value targets. She believes every corrupted soul brings Set closer to returning, and she's patient enough to play the long game.\n\nRoxanne's relationship with other Setites in Phoenix is complex. She maintains The Hole as independent Setite territory, recognized by the Camarilla as neutral ground. But when the Giovanni discover the blasphemy-shrine and her practice of Spirit Manipulation, that neutrality will be tested. Roxanne is prepared for conflict, but she'd prefer to continue her work in peace.",
+    "notes": "Setite priestess and owner of The Hole nightclub in Mesa. Operates blasphemy-shrine beneath the club, conducts monthly Akhu rituals. Works with Marcus Webb and Jennifer Kwan. Believes Set's return is imminent. Useful ST contact for Setite corruption, VIP access, or when PCs need to navigate Mesa's nightlife. Hooks: the Giovanni discover the blasphemy-shrine, a ritual goes wrong, the Masquerade is threatened, or Roxanne decides to corrupt someone the PCs care about.",
+    "equipment": "",
+    "character_image": "Roxanne Murphy.png",
+    "status": {
+        "sect_status": "",
+        "clan_status": "",
+        "city_status": "",
+        "health_levels": 7,
+        "blood_pool_current": null,
+        "blood_pool_maximum": null,
+        "blood_per_turn": 1,
+        "xp_total": 0,
+        "xp_spent": 0,
+        "xp_available": 0,
+        "notes": ""
+    },
+    "camarilla_status": "Anarch",
+    "traits": {
+        "Physical": [
+            "Graceful",
+            "Lithe",
+            "Nimble"
+        ],
+        "Social": [
+            "Beguiling",
+            "Elegant",
+            "Eloquent",
+            "Expressive",
+            "Friendly",
+            "Genial",
+            "Witty"
+        ],
+        "Mental": [
+            "Calm",
+            "Clever",
+            "Reflective",
+            "Shrewd",
+            "Wily"
+        ]
+    },
+    "negativeTraits": {
+        "Physical": [],
+        "Social": [],
+        "Mental": []
+    },
+    "abilities": [],
+    "specializations": [],
+    "disciplines": [
+        {
+            "name": "Auspex",
+            "level": 1
+        },
+        {
+            "name": "Celerity",
+            "level": 4
+        },
+        {
+            "name": "Koldunic Sorcery",
+            "level": 1
+        },
+        {
+            "name": "Presence",
+            "level": 1
+        },
+        {
+            "name": "Protean",
+            "level": 3
+        }
+    ],
+    "backgrounds": [],
+    "backgroundDetails": [],
+    "morality": {
+        "path_name": "Humanity",
+        "path_rating": 7,
+        "conscience": 3,
+        "self_control": 3,
+        "courage": 3,
+        "willpower_permanent": 5,
+        "willpower_current": 5,
+        "humanity": 7
+    },
+    "merits_flaws": [],
+    "coteries": [],
+    "relationships": [],
+    "rituals": [],
+    "custom_data": null,
+    "created_at": "2025-11-06 23:38:40",
+    "updated_at": "2025-11-08 19:35:08"
+}

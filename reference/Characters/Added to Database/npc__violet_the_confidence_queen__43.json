@@ -1,0 +1,128 @@
+{
+    "id": 43,
+    "user_id": 1,
+    "character_name": "Violet 'The Confidence Queen'",
+    "player_name": "NPC",
+    "chronicle": "Valley by Night",
+    "nature": "Survivor",
+    "demeanor": "",
+    "concept": "Nosferatu street hustler and information broker who runs scams, sells gossip, and keeps the pulse of",
+    "clan": "Nosferatu",
+    "generation": 10,
+    "sire": "Unknown",
+    "pc": 0,
+    "appearance": "Neon-drenched alley queen with a patched leather jacket over a sequined hoodie, fingerless gloves, and streetwise swagger. Keeps her Nosferatu features hidden behind a bandana mask, mirrored shades, and ever-present cigarette she never lights. Hair chopped to uneven curls dyed violet at the tips, pockets stuffed with burner phones and lighters.",
+    "biography": "Violet grew up running short cons in Phoenix back alleys until a Nosferatu saw the nerve beneath the hustle and Embraced her fifteen years ago. She turned those survival instincts into an information empire stitched across addicts, runaways, crooked cops, and street vendors. Her haven lies under an abandoned subway spur guarded by hidden cameras and rat messengers. Violet trades intel for favors, protects her street people like family, and refuses to feed on the broken souls she still sees as her own. To other Kindred, she’s a neon-soaked gossip broker whose knowledge can crown or ruin princes—if you can afford her price.",
+    "notes": "Street-level Nosferatu fixer; perfect contact for rumors, blackmail material, or escorting fragile witnesses. Hooks: recover her missing rat courier, help pay off a pawnshop debt, escort her through Elysium without offending elders, or stop rivals from poaching her informants.",
+    "equipment": "Worn backpack with notebooks, cheap burner phone, coin deck, switchblade, lighters, scavenged solar lanterns, hidden surveillance cameras in her haven.",
+    "character_image": "Violet.jpg",
+    "status": {
+        "sect_status": "",
+        "clan_status": "",
+        "city_status": "",
+        "health_levels": 7,
+        "blood_pool_current": null,
+        "blood_pool_maximum": null,
+        "blood_per_turn": 1,
+        "xp_total": 0,
+        "xp_spent": 0,
+        "xp_available": 0,
+        "notes": ""
+    },
+    "camarilla_status": "Unknown",
+    "traits": {
+        "Physical": [
+            "Dexterous",
+            "Resilient",
+            "Tough"
+        ],
+        "Social": [
+            "Charming",
+            "Manipulative",
+            "Streetwise"
+        ],
+        "Mental": [
+            "Cunning",
+            "Perceptive",
+            "Resourceful"
+        ]
+    },
+    "negativeTraits": {
+        "Physical": [],
+        "Social": [
+            "Eerie Presence"
+        ],
+        "Mental": []
+    },
+    "abilities": [],
+    "specializations": [],
+    "disciplines": [
+        {
+            "name": "Animalism",
+            "level": 2
+        },
+        {
+            "name": "Obfuscate",
+            "level": 2
+        },
+        {
+            "name": "Potence",
+            "level": 2
+        }
+    ],
+    "backgrounds": {
+        "Allies": 1,
+        "Contacts": 2,
+        "Generation": 2,
+        "Influence": 3,
+        "Resources": 1,
+        "Retainers": 1,
+        "Status": 1
+    },
+    "backgroundDetails": {
+        "Allies": "A Nosferatu 'nephew' named Buster handles her errands and protection during daylight.",
+        "Contacts": "A crooked beat cop, a paramedic, and a pawnshop owner feed her street intel.",
+        "Influence": "Strong grip on the street network — addicts, hustlers, and runaways all owe her small favors.",
+        "Resources": "Lives on scavenged and hustled income; minimal comforts.",
+        "Status": "Recognized as a valuable if rough-edged information source within the Nosferatu network."
+    },
+    "morality": {
+        "path_name": "Humanity",
+        "path_rating": 6,
+        "conscience": 2,
+        "self_control": 3,
+        "courage": 4,
+        "willpower_permanent": 6,
+        "willpower_current": 6,
+        "humanity": 6
+    },
+    "merits_flaws": [
+        {
+            "name": "Iron Will",
+            "type": "Merit",
+            "category": "Mental",
+            "cost": 3,
+            "description": "She cannot be easily manipulated or dominated; her survival instinct is unbreakable."
+        },
+        {
+            "name": "Eerie Presence",
+            "type": "Flaw",
+            "category": "Social",
+            "cost": 1,
+            "description": "Mortals instinctively find her unsettling, even when she tries to charm them."
+        },
+        {
+            "name": "Prey Exclusion (Addicts)",
+            "type": "Flaw",
+            "category": "Social",
+            "cost": 2,
+            "description": "Refuses to feed on addicts due to guilt and empathy from her mortal past."
+        }
+    ],
+    "coteries": [],
+    "relationships": [],
+    "rituals": [],
+    "custom_data": null,
+    "created_at": "2025-10-11 19:25:55",
+    "updated_at": "2025-11-08 19:35:08"
+}

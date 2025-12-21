@@ -1,0 +1,103 @@
+{
+    "id": 133,
+    "user_id": 1,
+    "character_name": "Lilith Nightshade",
+    "player_name": "NPC",
+    "chronicle": "Valley by Night",
+    "nature": "Visionary",
+    "demeanor": "Gallant",
+    "concept": "Elegant and terrifying oracle of the Malkavians",
+    "clan": "Malkavian",
+    "generation": 9,
+    "sire": "0",
+    "pc": 0,
+    "appearance": "Lilith Nightshade appears in flawless reproductions of 1890s Parisian gowns, always lavender with black lace gloves and a parasol...",
+    "biography": "At first glance, Lilith Nightshade appears to have stepped out of another century...",
+    "notes": "This intro is designed to present Lilith as both a commanding social presence and a terrifying oracle, emphasizing the stark contrast between her polite, elegant composure and the sudden, predatory intensity that overtakes her when a vision strikes. Her visions should feel intrusive and unstoppable, with the POV adaptable to foreshadow pivotal events such as the Prince’s death, a PC’s impending sin, or the approach of a Sabbat incursion. Any player character who falls under her focused gaze should experience it as if the story itself has singled them out—an omen that could serve as either a dark blessing or a whispered curse, depending on where the chronicle leads.",
+    "equipment": "Lavender gown recreations, lace parasol...",
+    "character_image": "Lilith_Nightshade.png",
+    "status": {
+        "sect_status": "",
+        "clan_status": "",
+        "city_status": "",
+        "health_levels": 7,
+        "blood_pool_current": null,
+        "blood_pool_maximum": null,
+        "blood_per_turn": 1,
+        "xp_total": 0,
+        "xp_spent": 0,
+        "xp_available": 0,
+        "notes": ""
+    },
+    "camarilla_status": "Camarilla",
+    "traits": {
+        "Physical": [
+            "Graceful",
+            "Poised"
+        ],
+        "Social": [
+            "Authoritative",
+            "Charismatic",
+            "Elegant",
+            "Magnetic"
+        ],
+        "Mental": [
+            "Focused When Driven",
+            "Insightful",
+            "Perceptive"
+        ]
+    },
+    "negativeTraits": {
+        "Physical": [],
+        "Social": [
+            "Unsettling"
+        ],
+        "Mental": [
+            "Distracted by Visions",
+            "Haunted"
+        ]
+    },
+    "abilities": [],
+    "specializations": [],
+    "disciplines": [
+        {
+            "name": "Auspex",
+            "level": 5
+        },
+        {
+            "name": "Dementation",
+            "level": 5
+        },
+        {
+            "name": "Obfuscate",
+            "level": 3
+        }
+    ],
+    "backgrounds": {
+        "Herd": 2,
+        "Influence (Occult)": 3,
+        "Mentor": 4
+    },
+    "backgroundDetails": {
+        "Herd": "A quiet following of mystics...",
+        "Influence (Occult)": "Psychics, fringe researchers...",
+        "Mentor": "The Malkavian elder..."
+    },
+    "morality": {
+        "path_name": "Humanity",
+        "path_rating": 7,
+        "conscience": 3,
+        "self_control": 3,
+        "courage": 3,
+        "willpower_permanent": 5,
+        "willpower_current": 5,
+        "humanity": 7
+    },
+    "merits_flaws": [],
+    "coteries": [],
+    "relationships": [],
+    "rituals": [],
+    "custom_data": null,
+    "created_at": "2025-11-26 06:02:14",
+    "updated_at": "2025-12-02 03:40:27"
+}

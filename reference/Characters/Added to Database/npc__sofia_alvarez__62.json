@@ -1,0 +1,123 @@
+{
+    "id": 62,
+    "user_id": 1,
+    "character_name": "Sofia Alvarez",
+    "player_name": "NPC",
+    "chronicle": "Valley by Night",
+    "nature": "Architect",
+    "demeanor": "Gallant",
+    "concept": "The Spatial Empath / Conversational Architect",
+    "clan": "Ghoul (Domitor: Étienne Duvalier)",
+    "generation": 0,
+    "sire": "0",
+    "pc": 0,
+    "appearance": "",
+    "biography": "Originally an architect from Barcelona in her early 30s, Sofia Alvarez was ghouled by Étienne Duvalier in 2006 and has served as his interior designer and conversational architect for 8 years. She dresses in structured silhouettes favoring whites, grays, and soft metallics, and sketches constantly - light patterns, seating curves, conversational sightlines. Her presence is warm, confident, and disarmingly insightful; she reads a room like a book. She believes conversations are compositions and that her domitor is the city's true composer. She ensures the gallery's conversational geometry is perfect, arranging seating, lighting, and wine service to encourage intimate clusters - she calls it 'social choreography.' Other Kindred find her charming and disarming, unaware she's mapping their relationships in her head for Étienne's quiet analysis. She embodies Étienne's obsession with flow - shaping motion and social dynamics.",
+    "notes": "",
+    "equipment": "Sketchbook (constantly in hand), architectural tools, structured designer clothing in whites/grays/metallics, measuring tape",
+    "character_image": "Sofia Alvarez.webp",
+    "status": {
+        "sect_status": "",
+        "clan_status": "",
+        "city_status": "",
+        "health_levels": 7,
+        "blood_pool_current": null,
+        "blood_pool_maximum": null,
+        "blood_per_turn": 1,
+        "xp_total": 0,
+        "xp_spent": 0,
+        "xp_available": 0,
+        "notes": ""
+    },
+    "camarilla_status": "Unknown",
+    "traits": {
+        "Physical": [
+            "Graceful",
+            "Graceful",
+            "Graceful"
+        ],
+        "Social": [
+            "Alluring",
+            "Charismatic",
+            "Charismatic",
+            "Charismatic",
+            "Charismatic",
+            "Elegant",
+            "Elegant",
+            "Elegant",
+            "Elegant",
+            "Persuasive",
+            "Persuasive",
+            "Persuasive"
+        ],
+        "Mental": [
+            "Attentive",
+            "Attentive",
+            "Attentive",
+            "Intelligent",
+            "Intelligent",
+            "Intelligent",
+            "Observant",
+            "Observant",
+            "Observant",
+            "Observant"
+        ]
+    },
+    "negativeTraits": {
+        "Physical": [],
+        "Social": [],
+        "Mental": []
+    },
+    "abilities": [],
+    "specializations": [],
+    "disciplines": [
+        {
+            "name": "Auspex",
+            "level": 1
+        },
+        {
+            "name": "Presence",
+            "level": 2
+        }
+    ],
+    "backgrounds": {
+        "Allies": 0,
+        "Contacts": 2,
+        "Fame": 0,
+        "Generation": 0,
+        "Herd": 0,
+        "Influence": 0,
+        "Mentor": 0,
+        "Resources": 0,
+        "Retainers": 0,
+        "Status": 0
+    },
+    "backgroundDetails": {
+        "Contacts": "Art world connections, gallery staff, architectural firms, event planners"
+    },
+    "morality": {
+        "path_name": "Humanity",
+        "path_rating": 7,
+        "conscience": 4,
+        "self_control": 3,
+        "courage": 3,
+        "willpower_permanent": 6,
+        "willpower_current": 6,
+        "humanity": 7
+    },
+    "merits_flaws": [
+        {
+            "name": "Ghoul",
+            "type": "Merit",
+            "category": "Supernatural",
+            "cost": 0,
+            "description": "Fed Toreador vitae regularly since 2006. Gains Potence 1 automatically, plus Presence 2 and Auspex 1 taught by domitor. Ages approximately 1 year per decade."
+        }
+    ],
+    "coteries": [],
+    "relationships": [],
+    "rituals": [],
+    "custom_data": null,
+    "created_at": "2025-10-24 19:36:07",
+    "updated_at": "2025-12-02 04:26:04"
+}

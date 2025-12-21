@@ -1,0 +1,146 @@
+{
+    "id": 72,
+    "user_id": 1,
+    "character_name": "Marcus Webb",
+    "player_name": "NPC",
+    "chronicle": "Valley by Night",
+    "nature": "Caregiver",
+    "demeanor": "Director",
+    "concept": "Setite Club Manager / Roxanne's Right Hand / Moderate Believer",
+    "clan": "Followers of Set",
+    "generation": 10,
+    "sire": "Roxanne Murphy",
+    "pc": 0,
+    "appearance": "Smooth Setite operator in tailored business suits that cost more than most people's cars. Dark hair styled with expensive products, manicured hands, expensive watch that catches the light. Moves with the confidence of someone who's never been told no, but his eyes hold the calculating coldness of a predator. Wears subtle Egyptian jewelry—a serpent ring, a scarab cufflink—that marks him as Setite without being obvious.",
+    "biography": "Marcus Webb was a successful nightclub owner in Las Vegas before his Embrace, running venues that catered to high rollers and celebrities. A Setite saw in him the perfect combination of business acumen and moral flexibility—someone who could turn vice into profit while maintaining plausible deniability. He was Embraced in the late 1990s and brought to Phoenix to serve as General Manager of The Hole.\n\nMarcus handles the business side of The Hole with ruthless efficiency. He manages staff, cultivates VIP clients, and ensures the club remains profitable while Roxanne focuses on her religious practices. He's the public face of the operation, the one who deals with city permits, liquor licenses, and the occasional nosy reporter.\n\nBeneath the polished exterior, Marcus is a master of corruption. He identifies high-value targets—politicians, business executives, wealthy socialites—and guides them into the first basement, where their vices are cultivated and their souls are slowly turned toward Set. He keeps detailed files on every mark, tracking their descent into addiction, blackmail, or worse.\n\nMarcus's relationship with Roxanne is professional but respectful. He doesn't share her religious fervor, but he appreciates the structure and purpose it provides. He sees The Hole as both a business and a weapon, a place where Setite influence grows one corrupted soul at a time. When the Giovanni discover the blasphemy-shrine, Marcus will be the one negotiating the terms—or planning the escape.",
+    "notes": "Setite General Manager of The Hole nightclub. Former Las Vegas nightclub owner, Embraced late 1990s. Handles business operations and cultivates corruption targets. Master of social manipulation and blackmail. Public face of the operation. Useful ST contact for business connections, corruption opportunities, or when The Hole needs to make deals. Hooks: a corruption target becomes dangerous, the Giovanni discover the temple, he must choose between profit and faith, or his past catches up with him.",
+    "equipment": "Smartphone and tablet for club management, keys and access codes to all areas of The Hole, business casual wardrobe (usually dark colors), ritual knife (bronze, gift from Roxanne), personal copy of Set worship texts, encrypted laptop with club records and contact lists, corporate credit cards, concealed carry permit and firearm (Glock 19, rarely used), Egyptian scarab ring (from Roxanne), manager's office at The Hole with safe, blood reserve (bagged) in office refrigerator",
+    "character_image": "72_1761811769_0fa12396.png",
+    "status": {
+        "sect_status": "",
+        "clan_status": "",
+        "city_status": "",
+        "health_levels": 7,
+        "blood_pool_current": null,
+        "blood_pool_maximum": null,
+        "blood_per_turn": 1,
+        "xp_total": 45,
+        "xp_spent": 0,
+        "xp_available": 45,
+        "notes": ""
+    },
+    "camarilla_status": "Unknown",
+    "traits": {
+        "Physical": [
+            "Dexterous",
+            "Graceful",
+            "Quick",
+            "Steady"
+        ],
+        "Social": [
+            "Charismatic",
+            "Diplomatic",
+            "Empathetic",
+            "Friendly",
+            "Persuasive",
+            "Witty"
+        ],
+        "Mental": [
+            "Analytical",
+            "Creative",
+            "Intelligent",
+            "Knowledgeable",
+            "Observant",
+            "Patient"
+        ]
+    },
+    "negativeTraits": {
+        "Physical": [],
+        "Social": [
+            "Submissive (to Roxanne)"
+        ],
+        "Mental": [
+            "Conflicted (between sire and childe)"
+        ]
+    },
+    "abilities": [],
+    "specializations": [],
+    "disciplines": [
+        {
+            "name": "Obfuscate",
+            "level": 2
+        },
+        {
+            "name": "Presence",
+            "level": 2
+        },
+        {
+            "name": "Serpentis",
+            "level": 2
+        }
+    ],
+    "backgrounds": {
+        "Allies": 2,
+        "Contacts": 3,
+        "Generation": 3,
+        "Herd": 2,
+        "Influence": 2,
+        "Resources": 3,
+        "Retainers": 2,
+        "Status": 1
+    },
+    "backgroundDetails": [],
+    "morality": {
+        "path_name": "Path of Typhon (Setite Path)",
+        "path_rating": 5,
+        "conscience": 3,
+        "self_control": 4,
+        "courage": 3,
+        "willpower_permanent": 6,
+        "willpower_current": 6,
+        "humanity": 5
+    },
+    "merits_flaws": [
+        {
+            "name": "Efficient",
+            "type": "Merit",
+            "category": "Mental",
+            "cost": 3,
+            "description": "Marcus is exceptionally good at optimizing processes and avoiding waste. Gets more done in less time, spots inefficiencies others miss."
+        },
+        {
+            "name": "Natural Leader",
+            "type": "Merit",
+            "category": "Social",
+            "cost": 1,
+            "description": "Marcus has natural talent for managing people and operations. -1 difficulty on Leadership rolls."
+        },
+        {
+            "name": "Conflicted Loyalties",
+            "type": "Flaw",
+            "category": "Social",
+            "cost": 2,
+            "description": "Caught between Roxanne's religious intensity and Jennifer's pragmatism, between faith and practicality. Creates internal stress and difficult decisions when their priorities conflict."
+        },
+        {
+            "name": "Nightmares",
+            "type": "Flaw",
+            "category": "Mental",
+            "cost": 1,
+            "description": "Dreams of the Embrace, of transformation, of losing his humanity. Sometimes wakes during day disturbed. -1 die to all actions the night after particularly bad episodes."
+        },
+        {
+            "name": "Vulnerability to Light",
+            "type": "Flaw",
+            "category": "Supernatural",
+            "cost": 2,
+            "description": "All Setites suffer increased vulnerability to light. Takes additional health level of damage from sunlight."
+        }
+    ],
+    "coteries": [],
+    "relationships": [],
+    "rituals": [],
+    "custom_data": null,
+    "created_at": "2025-10-29 03:28:46",
+    "updated_at": "2025-11-08 19:35:08"
+}

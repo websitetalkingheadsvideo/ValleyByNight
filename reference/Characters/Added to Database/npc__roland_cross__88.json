@@ -1,0 +1,185 @@
+{
+    "id": 88,
+    "user_id": 1,
+    "character_name": "Roland Cross",
+    "player_name": "NPC",
+    "chronicle": "Valley by Night",
+    "nature": "Survivor",
+    "demeanor": "Loner",
+    "concept": "Gunslinger Sheriff / Toreador Killer-Artist",
+    "clan": "Toreador",
+    "generation": 9,
+    "sire": "kate",
+    "pc": 0,
+    "appearance": "Tall, lean man who appears to be in his late 30s. Weather-worn features that suggest frontier life. Piercing blue eyes that miss nothing. Moves with fluid, economical grace. Always wears duster coat and wide-brimmed hat - practical clothing that conceals weapons and provides sun protection. Sandalwood-handled revolvers are always visible on his hip - a statement and a warning.",
+    "biography": "Roland Cross was born in 1847 in what would become Arizona Territory, the son of a frontier marshal. He grew up with a gun in his hand and death as a constant companion. The Apache Wars, range wars, mining disputes - young Roland saw violence as both necessary and terrible. But where others saw only brutality, Roland saw something else: the perfect economy of motion, the mathematics of trajectory, the terrible beauty of a clean kill versus a messy one.\n\nBy the 1870s, Roland had become a lawman like his father, but different. He didn't just stop outlaws - he studied them. Every gunfight was a lesson in human nature, physics, and art. His reputation grew: the marshal who never missed, who never wasted a bullet, whose kills were surgical and precise. Some called him cold. Roland called it professional.\n\nIn 1876, Catherine Barlow came to Tombstone. A Toreador who had tired of ballrooms and opera houses, Kate was drawn to the raw frontier and its violent poetry. She watched Roland face down three killers in the street, and she saw what he saw: the dance of death as high art. She saw a man who understood that killing could be beautiful when done with purpose and precision.\n\nKate Embraced Roland that year, not despite his violence but because of it. \"You're an artist who doesn't know he's an artist,\" she told him. \"Your canvas is mortality itself.\" Roland understood immediately. As a vampire, his already legendary skills became supernatural. His purpose crystallized: he would be the bullet that finds its mark, the justice that never fails, the killer whose art was perfection itself.\n\nFor over a century, Roland has served Camarilla domains across the Southwest as Sheriff, constable, or enforcer. He doesn't do it for power or status - those mean nothing to him. He does it because someone must, and no one does it better. His reputation is such that princes often request his services specifically. He arrived in Phoenix in 1989, answering Prince Morrison's need for a Sheriff who would be absolutely reliable and utterly lethal.\n\nRoland's art is killing, and like any Toreador, he pursues it with obsessive perfection. He can identify firearms by sound alone. He crafts his own ammunition. He studies ballistics, anatomy, and the psychology of violence the way other Toreador study painting or sculpture. Every sanctioned kill is executed with flawless precision. Every bullet means something. Every death is considered.\n\nBut Roland pays the price all Toreador pay. Sometimes he becomes lost in the beauty of a perfect shot, the elegant trajectory of a bullet, the aesthetic satisfaction of a clean kill. He has been known to stand motionless, transfixed by the memory of a particularly perfect execution. Other times, he is overwhelmed by botched killings - sloppy work offends him on a visceral level that other vampires find disturbing.\n\nHe speaks rarely and never wastes words, much like he never wastes bullets. His code is simple: protect the domain, eliminate threats, serve the prince, perfect the art. He has no political ambitions, no desire for power beyond what he needs to do his work. He is the Sheriff because someone must be, and he does it better than anyone else.\n\nCurrent situation (1994): Roland serves as Prince Morrison's Sheriff, maintaining order in Phoenix's growing Kindred population. He is respected and feared in equal measure. His shooting demonstrations at Elysium are considered both entertainment and warning. He has no close relationships - his sire Kate disappeared into Mexico decades ago - but he has professional respect for those who take their duties seriously. He views the new generation of neonates with the same analytical detachment he applies to everything: assets or threats, useful or problems, worthy of salvation or requiring elimination.",
+    "notes": "",
+    "equipment": "Two custom Colt .45 revolvers (sandalwood grips, immaculately maintained, never leave his possession), gun cleaning kit (used religiously), ammunition (hollow point silver, hand-loaded), duster coat (conceals weapons, protected against sun), wide-brimmed hat (practical, iconic), leather gun belt (worn smooth), backup derringer (ankle holster), boot knife (practical backup), leather gloves, tin of tobacco (old habit), pocket watch (stopped at the moment of his Embrace)",
+    "character_image": "88_1761917227_953c266e.png",
+    "status": {
+        "sect_status": "",
+        "clan_status": "",
+        "city_status": "",
+        "health_levels": 7,
+        "blood_pool_current": null,
+        "blood_pool_maximum": null,
+        "blood_per_turn": 1,
+        "xp_total": 200,
+        "xp_spent": 0,
+        "xp_available": 200,
+        "notes": ""
+    },
+    "camarilla_status": "Unknown",
+    "traits": {
+        "Physical": [
+            "Dexterous",
+            "Dexterous",
+            "Quick",
+            "Quick",
+            "Steady"
+        ],
+        "Social": [
+            "Commanding",
+            "Intimidating",
+            "Intimidating"
+        ],
+        "Mental": [
+            "Disciplined",
+            "Observant",
+            "Observant",
+            "Observant",
+            "Patient"
+        ]
+    },
+    "negativeTraits": {
+        "Physical": [],
+        "Social": [
+            "Callous",
+            "Distant"
+        ],
+        "Mental": [
+            "Obsessive"
+        ]
+    },
+    "abilities": [],
+    "specializations": [],
+    "disciplines": [
+        {
+            "name": "Auspex",
+            "level": 5
+        },
+        {
+            "name": "Celerity",
+            "level": 5
+        },
+        {
+            "name": "Fortitude",
+            "level": 2
+        },
+        {
+            "name": "Presence",
+            "level": 4
+        }
+    ],
+    "backgrounds": {
+        "Allies": 2,
+        "Contacts": 3,
+        "Fame": 0,
+        "Generation": 4,
+        "Herd": 0,
+        "Influence": 2,
+        "Mentor": 0,
+        "Resources": 2,
+        "Retainers": 1,
+        "Status": 4
+    },
+    "backgroundDetails": [],
+    "morality": {
+        "path_name": "Humanity",
+        "path_rating": 5,
+        "conscience": 3,
+        "self_control": 5,
+        "courage": 5,
+        "willpower_permanent": 10,
+        "willpower_current": 10,
+        "humanity": 5
+    },
+    "merits_flaws": [
+        {
+            "name": "Artisan (Firearms/Gunfighting)",
+            "type": "Merit",
+            "category": "Toreador",
+            "cost": 2,
+            "description": "Can create truly artistic displays of marksmanship. His shooting demonstrations are considered performance art by other Toreador. His custom ammunition and weapon modifications are masterwork."
+        },
+        {
+            "name": "Code of Honor",
+            "type": "Merit",
+            "category": "Social",
+            "cost": 2,
+            "description": "Lives by strict personal code. Never breaks his word. Never kills without purpose. Protects the innocent. Always gives armed opponent a chance (even if it's only a second). Reputation for absolute reliability."
+        },
+        {
+            "name": "Concentration",
+            "type": "Merit",
+            "category": "Mental",
+            "cost": 1,
+            "description": "Can maintain focus despite distractions. Ignores wound penalties and environmental distractions for concentration tasks."
+        },
+        {
+            "name": "Enchanting Voice",
+            "type": "Merit",
+            "category": "Social",
+            "cost": 2,
+            "description": "When Roland speaks (rare), people listen. Deep, measured tones that command attention. -2 difficulty on verbal-based rolls."
+        },
+        {
+            "name": "Fast Draw",
+            "type": "Merit",
+            "category": "Physical",
+            "cost": 1,
+            "description": "Can draw and fire in single action. Legendary speed even before considering Celerity."
+        },
+        {
+            "name": "Prestigious Sire",
+            "type": "Merit",
+            "category": "Social",
+            "cost": 1,
+            "description": "Kate Barlow was respected Toreador elder. Her reputation opened initial doors for Roland, though he's long since built his own legend."
+        },
+        {
+            "name": "Dark Secret",
+            "type": "Flaw",
+            "category": "Social",
+            "cost": 1,
+            "description": "Roland failed to save his mortal family from an Apache raid while pursuing outlaws. This failure haunts him and drives his absolute commitment to duty. If revealed, would damage his reputation for infallibility."
+        },
+        {
+            "name": "Flashbacks",
+            "type": "Flaw",
+            "category": "Mental",
+            "cost": 1,
+            "description": "Occasionally experiences vivid memories of his mortal life - particularly the moment he found his family dead. Can be triggered by certain scents or situations."
+        },
+        {
+            "name": "Obsession (Perfect Shot)",
+            "type": "Flaw",
+            "category": "Mental",
+            "cost": 2,
+            "description": "Toreador madness focused on achieving the perfect kill. Will sometimes spend hours analyzing a shot, trajectory, and execution. Can become transfixed by elegant displays of marksmanship or conversely, offended by sloppy killing."
+        },
+        {
+            "name": "Prey Exclusion (Lawmen)",
+            "type": "Flaw",
+            "category": "Supernatural",
+            "cost": 1,
+            "description": "Cannot feed from law enforcement officers (mortal or kindred). Too much respect for those who walk the line. Limits feeding options significantly."
+        }
+    ],
+    "coteries": [],
+    "relationships": [],
+    "rituals": [],
+    "custom_data": null,
+    "created_at": "2025-10-31 09:21:25",
+    "updated_at": "2025-12-02 04:26:04"
+}

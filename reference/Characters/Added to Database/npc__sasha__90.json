@@ -1,0 +1,89 @@
+{
+    "id": 90,
+    "user_id": 1,
+    "character_name": "Sasha",
+    "player_name": "NPC",
+    "chronicle": "Valley by Night",
+    "nature": "Visionary",
+    "demeanor": "Loner",
+    "concept": "The Grand Conspiracy Theorist / Anarch Strategist",
+    "clan": "Malkavian",
+    "generation": 11,
+    "sire": "Early 1990s, unknown location",
+    "pc": 0,
+    "appearance": "Sasha stands lean and weathered, their frame suggesting someone who's spent decades in the Sonoran Desert rather than city nights. They wear a faded M-65 field jacket from the early '90s layered over a threadbare flannel shirt, both patched with hand-sewn symbols that might be warnings or simply the marks of someone who's stopped caring about appearances. Their combat boots—likely surplus from that same era, the leather cracked and caked with red desert dust—carry them across terrain that would break mortal feet. A pair of scratched Ray-Ban Aviators perches atop tangled dark hair, ready to shield eyes that have seen too much.\n\nTheir fingers are permanently stained with ink—red Sharpie, black ballpoint, blue marker—from the endless diagrams they draw, the red-string connections mapped between events that seem unrelated to anyone else. When they gesture, those stained fingers trace patterns in the air, as if drawing invisible lines between conspiracies only they can see. The faint scent of ozone and old paper clings to them, the smell of someone who lives surrounded by surveillance feeds and cracked monitors in that abandoned shack outside the city limits.\n\nTheir eyes are the most telling feature—wide, constantly scanning, seeing connections in the spaces between shadows where others see only emptiness. Those eyes track the horizon, the stars, subtle shifts in the night air, reading signs and portents in the desert's silence. When they focus on you, it's with the fractured clarity of someone who perceives layers of reality that drive lesser minds to madness, their gaze holding the weight of too many visions, too many patterns seen in darkness that others refuse to acknowledge.\n\nThere's a tension in their posture, a readiness to flee or fight that speaks to decades of living on the edge of discovery. They carry themselves like someone who knows they're being watched, even when they're alone—because in Sasha's world, they're never truly alone. The shadows have eyes, the desert whispers secrets, and every pattern in the night sky is a message written in blood that only the mad can read.",
+    "biography": "Sasha is a Malkavian Anarch strategist and grand conspiracy theorist, Embraced in the early 1990s at an unknown location. Their current goal is to acquire a Malkavian artifact to prove the Prince's 'death and return' is political theater orchestrated by the Methuselahs. They maintain a haven in an abandoned desert shack with a cryptic, diagram-filled basement outside city limits. Sasha believes all non-Anarchs are part of the grand conspiracy, making cooperation difficult, but they receive cryptic, accurate visions of future events often related to Kindred politics.",
+    "notes": "Malkavian Anarch strategist with Prophetic Visions merit and Derangement: Paranoia flaw. Disciplines: Auspex 3, Dementation 3, Dominate 1. Willpower 7, Blood Pool 11, Humanity 6. Believes the Prince's death and return is orchestrated by Methuselahs. Goal is to acquire Malkavian artifact to prove this theory. Maintains haven outside city limits in abandoned desert shack with diagram-filled basement.",
+    "equipment": "",
+    "character_image": "",
+    "status": {
+        "sect_status": "",
+        "clan_status": "",
+        "city_status": "",
+        "health_levels": 7,
+        "blood_pool_current": null,
+        "blood_pool_maximum": null,
+        "blood_per_turn": 1,
+        "xp_total": 0,
+        "xp_spent": 0,
+        "xp_available": 0,
+        "notes": ""
+    },
+    "camarilla_status": "Unknown",
+    "traits": {
+        "Physical": [],
+        "Social": [
+            "Inspiring",
+            "Reserved"
+        ],
+        "Mental": [
+            "Creative",
+            "Insightful",
+            "Intuitive",
+            "Perceptive",
+            "Unpredictable"
+        ]
+    },
+    "negativeTraits": {
+        "Physical": [],
+        "Social": [],
+        "Mental": []
+    },
+    "abilities": [],
+    "specializations": [],
+    "disciplines": [],
+    "backgrounds": [],
+    "backgroundDetails": [],
+    "morality": {
+        "path_name": "Humanity",
+        "path_rating": 7,
+        "conscience": 3,
+        "self_control": 3,
+        "courage": 3,
+        "willpower_permanent": 5,
+        "willpower_current": 5,
+        "humanity": 7
+    },
+    "merits_flaws": [
+        {
+            "name": "Prophetic Visions",
+            "type": "Merit",
+            "category": "Merit",
+            "cost": 3,
+            "description": "Receives cryptic, accurate visions of future events, often related to Kindred politics."
+        },
+        {
+            "name": "Derangement: Paranoia",
+            "type": "Flaw",
+            "category": "Flaw",
+            "cost": 2,
+            "description": "Believes all non-Anarchs are part of the grand conspiracy, making cooperation difficult."
+        }
+    ],
+    "coteries": [],
+    "relationships": [],
+    "rituals": [],
+    "custom_data": null,
+    "created_at": "2025-11-01 18:04:38",
+    "updated_at": "2025-11-13 17:47:38"
+}

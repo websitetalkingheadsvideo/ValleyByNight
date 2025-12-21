@@ -1,0 +1,70 @@
+{
+    "id": 107,
+    "user_id": 1,
+    "character_name": "Layla al-Sahr",
+    "player_name": "NPC",
+    "chronicle": "Valley by Night",
+    "nature": "Fanatic",
+    "demeanor": "Visionary",
+    "concept": "Backup Assassin posing as a Malkavian visitor",
+    "clan": "Assamite",
+    "generation": 10,
+    "sire": "0",
+    "pc": 0,
+    "appearance": "",
+    "biography": "",
+    "notes": "",
+    "equipment": "",
+    "character_image": "Layla al-Sahr.png",
+    "status": {
+        "sect_status": "",
+        "clan_status": "",
+        "city_status": "",
+        "health_levels": 7,
+        "blood_pool_current": null,
+        "blood_pool_maximum": null,
+        "blood_per_turn": 1,
+        "xp_total": 0,
+        "xp_spent": 0,
+        "xp_available": 0,
+        "notes": ""
+    },
+    "camarilla_status": "Unknown",
+    "traits": {
+        "Physical": [],
+        "Social": [],
+        "Mental": []
+    },
+    "negativeTraits": {
+        "Physical": [],
+        "Social": [],
+        "Mental": []
+    },
+    "abilities": [],
+    "specializations": [],
+    "disciplines": [],
+    "backgrounds": {
+        "concealed_weapon": 1,
+        "contacts": 1,
+        "false_identity": 2,
+        "resources": 2
+    },
+    "backgroundDetails": [],
+    "morality": {
+        "path_name": "Humanity",
+        "path_rating": 7,
+        "conscience": 3,
+        "self_control": 3,
+        "courage": 3,
+        "willpower_permanent": 5,
+        "willpower_current": 5,
+        "humanity": 7
+    },
+    "merits_flaws": [],
+    "coteries": [],
+    "relationships": [],
+    "rituals": [],
+    "custom_data": null,
+    "created_at": "2025-11-06 16:30:51",
+    "updated_at": "2025-11-28 16:53:26"
+}

@@ -1,0 +1,89 @@
+{
+    "id": 112,
+    "user_id": 1,
+    "character_name": "Eddy Valiant",
+    "player_name": "NPC",
+    "chronicle": "Valley by Night",
+    "nature": "Cynic",
+    "demeanor": "Gallant",
+    "concept": "Hard-boiled Malkavian private investigator",
+    "clan": "Malkavian",
+    "generation": 12,
+    "sire": "Unknown (believed deceased or vanished)",
+    "pc": 0,
+    "appearance": "Heavyset and short, mid-40s in apparent age. Three-day stubble, tired intelligence in the eyes. Tan trench coat over a rumpled shirt and loosened tie, fedora tilted back, cigarette in hand. Clothes are worn but intentional. Amber-and-teal noir lighting recommended in depictions.",
+    "biography": "Once a mortal private investigator in Phoenix during the 1970s, Eddy Valiant earned a reputation for solving cases the police would not touch. In 1981 a case brought him face to face with a supernatural killer, and his Embrace followed. His sire disappeared, leaving Eddy to find his own way into the Camarilla. He now runs the Valiant Detective Agency from a cramped office above a pawn shop on 7th and Van Buren. His ghoul secretary, Marilyn Chase, maintains the daylight front while Eddy does the real work at night. Among Phoenix Kindred he is known as the 'court bloodhound' -- useful, discreet, and too jaded to be easily intimidated. On the night the Prince dies at Hawthorn Estate, Eddy is already present, slipping in through a side door like he was following a lead.",
+    "notes": "Designed for Valley by Night. Derangement: Cinematic Delusion (hears/occasionally speaks inner narration). Keep Humanity at 6 to preserve his moral tension. Often hired by Harpy Cordelia and the Seneschal for deniable investigations. Allies with Sarah Hansen and occasionally the Gangrel tracker Kerry. | active",
+    "equipment": "Smith & Wesson Model 10 revolver; battered leather notebook; cigarette case; Polaroid camera; trench coat; flask of A-negative.",
+    "character_image": "",
+    "status": {
+        "sect_status": "",
+        "clan_status": "",
+        "city_status": "",
+        "health_levels": 7,
+        "blood_pool_current": null,
+        "blood_pool_maximum": null,
+        "blood_per_turn": 1,
+        "xp_total": 70,
+        "xp_spent": 0,
+        "xp_available": 70,
+        "notes": ""
+    },
+    "camarilla_status": "Unknown",
+    "traits": {
+        "Physical": [
+            "Dexterity •••",
+            "Stamina •••",
+            "Strength ••"
+        ],
+        "Social": [
+            "Appearance ••",
+            "Charisma •••",
+            "Manipulation ••••"
+        ],
+        "Mental": [
+            "Intelligence •••",
+            "Perception ••••",
+            "Wits •••"
+        ]
+    },
+    "negativeTraits": {
+        "Physical": [],
+        "Social": [],
+        "Mental": []
+    },
+    "abilities": [],
+    "specializations": [],
+    "disciplines": [],
+    "backgrounds": {
+        "Allies": 1,
+        "Contacts": 3,
+        "Herd": 2,
+        "Resources": 2,
+        "Retainers": 3
+    },
+    "backgroundDetails": {
+        "Allies": "One sympathetic homicide detective.",
+        "Contacts": "Police detectives, street informants, journalists.",
+        "Herd": "Regular mortal visitors who come to 'confess' to the detective.",
+        "Resources": "Modest income from detective agency; office above pawn shop.",
+        "Retainers": "Marilyn Chase (ghoul secretary), plus two on-call day contractors."
+    },
+    "morality": {
+        "path_name": "Humanity",
+        "path_rating": 6,
+        "conscience": 3,
+        "self_control": 3,
+        "courage": 4,
+        "willpower_permanent": 7,
+        "willpower_current": 7,
+        "humanity": 6
+    },
+    "merits_flaws": [],
+    "coteries": [],
+    "relationships": [],
+    "rituals": [],
+    "custom_data": null,
+    "created_at": "2025-11-10 03:38:59",
+    "updated_at": "2025-11-11 07:05:26"
+}
