@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.8.60
+## Current Version: 0.8.61
+
+**Date:** 2025-01-30  
+**Type:** Patch (Text-muted rule and world reference directory structure)
+
+## Previous Version: 0.8.60
 
 **Date:** 2025-01-30  
 **Type:** Patch (Sabbat character extraction and migration script - exports 69 characters from Grapevine XML to JSON)
