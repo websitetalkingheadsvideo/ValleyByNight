@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.8.64
+## Current Version: 0.8.65
+
+**Date:** 2025-01-30  
+**Type:** Patch (Modal UI consistency fixes, locations page improvements, location_ownership table creation)
+
+## Previous Version: 0.8.64
 
 **Date:** 2025-01-30  
 **Type:** Patch (Blood Bonds system planning, world summaries generator, database cleanup tools)

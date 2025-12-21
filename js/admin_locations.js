@@ -213,9 +213,6 @@ function sortTable(column, direction) {
         if (column === 'id' || column === 'security_level') {
             aVal = parseInt(aVal) || 0;
             bVal = parseInt(bVal) || 0;
-        } else if (column === 'created_at') {
-            aVal = new Date(aVal);
-            bVal = new Date(bVal);
         } else {
             aVal = (aVal || '').toString().toLowerCase();
             bVal = (bVal || '').toString().toLowerCase();
@@ -248,12 +245,21 @@ function updateTable() {
             <td><span class="badge-${location.status.toLowerCase()}">${escapeHtml(location.status)}</span></td>
             <td>${escapeHtml(location.district || 'N/A')}</td>
             <td>${escapeHtml(location.owner_type || 'N/A')}</td>
-            <td>${formatDate(location.created_at)}</td>
-            <td class="actions">
-                <button class="action-btn view-btn" onclick="viewLocation(${location.id})" title="View Location">👁️</button>
-                <button class="action-btn edit-btn" onclick="editLocation(${location.id})" title="Edit Location">✏️</button>
-                <button class="action-btn assign-btn" onclick="assignLocation(${location.id}, '${escapeHtml(location.name)}')" title="Assign Characters">🎯</button>
-                <button class="action-btn delete-btn" onclick="deleteLocation(${location.id}, '${escapeHtml(location.name)}')" title="Delete Location">🗑️</button>
+            <td class="actions text-center align-top w-150px">
+                <div class="btn-group btn-group-sm" role="group" aria-label="Location actions">
+                    <button class="action-btn view-btn btn btn-primary" 
+                            onclick="viewLocation(${location.id})" 
+                            title="View Location">👁️</button>
+                    <button class="action-btn edit-btn btn btn-warning" 
+                            onclick="editLocation(${location.id})" 
+                            title="Edit Location">✏️</button>
+                    <button class="action-btn assign-btn btn btn-info" 
+                            onclick="assignLocation(${location.id}, '${escapeHtml(location.name)}')" 
+                            title="Assign Characters">🎯</button>
+                    <button class="action-btn delete-btn btn btn-danger" 
+                            onclick="deleteLocation(${location.id}, '${escapeHtml(location.name)}')" 
+                            title="Delete Location">🗑️</button>
+                </div>
             </td>
         </tr>
         `;
@@ -596,10 +602,31 @@ async function viewLocation(id) {
     try {
         // Fetch character assignments
         const response = await fetch(`api_admin_location_assignments.php?location_id=${id}`);
-        const data = await response.json();
+        
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        
+        const responseText = await response.text();
+        
+        if (!responseText || responseText.trim() === '') {
+            throw new Error('Empty response from server');
+        }
+        
+        let data;
+        try {
+            data = JSON.parse(responseText);
+        } catch (parseError) {
+            console.error('Response text:', responseText);
+            throw new Error(`Invalid JSON response: ${parseError.message}`);
+        }
+        
+        if (!data.success) {
+            throw new Error(data.error || 'Failed to load assignments');
+        }
         
         let assignmentsHtml = '';
-        if (data.success && data.assignments.length > 0) {
+        if (data.assignments && data.assignments.length > 0) {
             assignmentsHtml = `
                 <div class="view-section">
                     <h3>Assigned Characters (${data.count})</h3>
@@ -611,8 +638,8 @@ async function viewLocation(id) {
                                     <small>${escapeHtml(assignment.clan)} - ${escapeHtml(assignment.player_name)}</small>
                                 </div>
                                 <div class="assignment-type">
-                                    <span class="assignment-badge assignment-${assignment.assignment_type.toLowerCase().replace(' ', '-')}">
-                                        ${escapeHtml(assignment.assignment_type)}
+                                    <span class="assignment-badge assignment-${(assignment.ownership_type || 'Resident').toLowerCase().replace(/\s+/g, '-')}">
+                                        ${escapeHtml(assignment.ownership_type || 'Resident')}
                                     </span>
                                 </div>
                                 ${assignment.notes ? `<div class="assignment-notes"><small>${escapeHtml(assignment.notes)}</small></div>` : ''}
@@ -675,11 +702,11 @@ async function viewLocation(id) {
         modalBody.setAttribute('aria-busy','false');
         
     } catch (error) {
-        console.error('Error loading assignments:', error);
+        console.error('Error loading location details:', error);
         modalBody.innerHTML = `
             <div class="view-section">
                 <h3>Error</h3>
-                <p>Failed to load character assignments.</p>
+                <p>Failed to load location details: ${escapeHtml(error.message || 'Unknown error')}</p>
             </div>
         `;
         modalBody.setAttribute('aria-busy','false');

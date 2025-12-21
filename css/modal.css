@@ -4,16 +4,16 @@
  * Used across all admin pages and other pages with modals
  */
 
-/* Bootstrap Modal Overrides - Blood Red Radial Gradient Background with Gold Border */
+/* Bootstrap Modal Overrides - Subtle Gradient Background with Gold Border */
 .modal-content {
-    background: radial-gradient(circle at center, #8B0000 0%, #820000 40%, #1a0f0f 100%) !important;
+    background: linear-gradient(135deg, #2a1515 0%, #1a0f0f 100%) !important;
     border: 3px solid var(--muted-gold);
     border-radius: 10px;
 }
 
 /* Bootstrap Modal Overrides with .vbn- prefix */
 .vbn-modal-content {
-    background: radial-gradient(circle at center, #8B0000 0%, #820000 40%, #1a0f0f 100%);
+    background: linear-gradient(135deg, #2a1515 0%, #1a0f0f 100%);
     border: 3px solid var(--muted-gold);
     border-radius: 10px;
 }
@@ -59,7 +59,7 @@
 }
 
 .modal:not(.fade) .modal-content {
-    background: radial-gradient(circle at center, #8B0000 0%, #820000 40%, #1a0f0f 100%);
+    background: linear-gradient(135deg, #2a1515 0%, #1a0f0f 100%);
     border: 3px solid var(--muted-gold);
     border-radius: 10px;
     padding: 30px;
