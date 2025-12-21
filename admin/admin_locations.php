@@ -195,8 +195,7 @@ $all_characters = db_fetch_all($conn, "SELECT id, character_name, clan, player_n
                     <th data-sort="status">Status <span class="sort-icon">⇅</span></th>
                     <th data-sort="district">District <span class="sort-icon">⇅</span></th>
                     <th data-sort="owner_type">Owner Type <span class="sort-icon">⇅</span></th>
-                    <th data-sort="created_at">Created <span class="sort-icon">⇅</span></th>
-                    <th>Actions</th>
+                    <th class="text-center text-nowrap w-150px">Actions</th>
                 </tr>
             </thead>
             <tbody>

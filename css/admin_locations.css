@@ -421,7 +421,7 @@ table.table {
     }
 }
 
-/* All Modals - Blood Red Gradient Background (Art Bible Compliant) */
+/* All Modals - Subtle Gradient Background */
 #locationModal .modal-content,
 #locationModal .vbn-modal-content,
 #viewModal .modal-content,
@@ -430,7 +430,7 @@ table.table {
 #assignModal .vbn-modal-content,
 #deleteModal .modal-content,
 #deleteModal .vbn-modal-content {
-    background: radial-gradient(circle at center, #8B0000 0%, #820000 40%, #1a0f0f 100%) !important;
+    background: linear-gradient(135deg, #2a1515 0%, #1a0f0f 100%) !important;
     border: 3px solid var(--muted-gold, #C87B3E) !important;
     border-radius: 10px;
     color: #d4c4b0;

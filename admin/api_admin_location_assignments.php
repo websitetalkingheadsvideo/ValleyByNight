@@ -3,6 +3,8 @@
  * Location Assignments API
  * Handles GET (fetch assignments) and POST (assign characters) for locations
  */
+error_reporting(E_ALL);
+ini_set('display_errors', 0); // Don't output errors, return them in JSON
 session_start();
 header('Content-Type: application/json');
 
@@ -38,9 +40,19 @@ try {
                   WHERE lo.location_id = ?
                   ORDER BY c.character_name ASC";
         $stmt = mysqli_prepare($conn, $query);
+        if (!$stmt) {
+            throw new Exception('Database prepare error: ' . mysqli_error($conn));
+        }
+        
         mysqli_stmt_bind_param($stmt, 'i', $location_id);
-        mysqli_stmt_execute($stmt);
+        if (!mysqli_stmt_execute($stmt)) {
+            throw new Exception('Database execute error: ' . mysqli_stmt_error($stmt));
+        }
+        
         $result = mysqli_stmt_get_result($stmt);
+        if (!$result) {
+            throw new Exception('Database result error: ' . mysqli_error($conn));
+        }
         
         $assignments = [];
         while ($row = mysqli_fetch_assoc($result)) {
