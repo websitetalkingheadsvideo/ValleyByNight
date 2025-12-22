@@ -46,7 +46,7 @@ if ($script_dir === '/') {
                 </div>
             </div>
             <div class="modal-body vbn-modal-body">
-                <div id="characterHeader" class="character-header-section mb-3" aria-live="polite">
+                <div id="characterSummary" class="character-summary-section mb-3" aria-live="polite" role="region" aria-label="Character summary">
                     <!-- Populated dynamically -->
                 </div>
                 <div id="viewCharacterContent" class="view-content" aria-live="polite">
@@ -112,10 +112,10 @@ if ($script_dir === '/') {
             
             modalEl.addEventListener('hidden.bs.modal', function() {
                 currentViewData = null;
-                const headerEl = document.getElementById('characterHeader');
+                const summaryEl = document.getElementById('characterSummary');
                 const contentEl = document.getElementById('viewCharacterContent');
-                if (headerEl) {
-                    headerEl.innerHTML = '';
+                if (summaryEl) {
+                    summaryEl.innerHTML = '';
                 }
                 if (contentEl) {
                     contentEl.innerHTML = '';
@@ -126,12 +126,12 @@ if ($script_dir === '/') {
             modalEl.dataset.viewModalInit = 'true';
         }
         
-        const header = document.getElementById('characterHeader');
+        const summary = document.getElementById('characterSummary');
         const content = document.getElementById('viewCharacterContent');
         const title = document.getElementById('viewCharacterName');
         
-        if (header) {
-            header.innerHTML = '';
+        if (summary) {
+            summary.innerHTML = '';
         }
         
         if (title) {
@@ -216,8 +216,8 @@ if ($script_dir === '/') {
                     }
                     renderCharacterView(currentViewMode);
                 } else {
-                    if (header) {
-                        header.innerHTML = '';
+                    if (summary) {
+                        summary.innerHTML = '';
                     }
                     if (content) {
                         const alert = document.createElement('div');
@@ -232,8 +232,8 @@ if ($script_dir === '/') {
             })
             .catch(function(error) {
                 console.error('view_character_api error', error);
-                if (header) {
-                    header.innerHTML = '';
+                if (summary) {
+                    summary.innerHTML = '';
                 }
                 if (content) {
                     const alert = document.createElement('div');
@@ -290,9 +290,9 @@ if ($script_dir === '/') {
     
     function renderCharacterView(mode) {
         const char = currentViewData.character;
-        const headerEl = document.getElementById('characterHeader');
+        const summaryEl = document.getElementById('characterSummary');
         const contentEl = document.getElementById('viewCharacterContent');
-        let headerHtml = '';
+        let summaryHtml = '';
         let contentHtml = '';
         
         const escapeHtml = function(input) {
@@ -405,34 +405,34 @@ if ($script_dir === '/') {
             ];
         }
         
-        headerHtml += '<div class="row g-4 align-items-start">';
-        headerHtml += '<div class="col-lg-8">';
-        headerHtml += '<div class="row g-2 character-summary">';
+        summaryHtml += '<div class="row g-4 align-items-start">';
+        summaryHtml += '<div class="col-lg-8">';
+        summaryHtml += '<div class="row g-2 character-summary">';
         summaryFields.forEach(field => {
-            headerHtml += '<div class="col-5 col-sm-4 character-summary-label">' + field.label + '</div>';
-            headerHtml += '<div class="col-7 col-sm-8 character-summary-value">' + field.value + '</div>';
+            summaryHtml += '<div class="col-5 col-sm-4 character-summary-label">' + field.label + '</div>';
+            summaryHtml += '<div class="col-7 col-sm-8 character-summary-value">' + field.value + '</div>';
         });
-        headerHtml += '</div>';
-        headerHtml += '</div>';
+        summaryHtml += '</div>';
+        summaryHtml += '</div>';
         
-        headerHtml += '<div class="col-lg-4 col-xl-3 ms-lg-auto">';
-        headerHtml += '<div class="character-portrait-wrapper">';
-        headerHtml += '<div class="character-portrait-media">';
+        summaryHtml += '<div class="col-lg-4 col-xl-3 ms-lg-auto">';
+        summaryHtml += '<div class="character-portrait-wrapper">';
+        summaryHtml += '<div class="character-portrait-media">';
         if (sanitizedImageUrl) {
             const imageClass = isWraith && !hasPortrait ? 'character-portrait-image character-portrait-logo img-fluid' : 'character-portrait-image img-fluid';
             // Only show placeholder on error if there's no fallback (i.e., we have a character image that failed)
             const showPlaceholderOnError = hasPortrait ? 'this.classList.add(\'d-none\'); this.nextElementSibling.classList.remove(\'d-none\');' : '';
-            headerHtml += '<img src="' + sanitizedImageUrl + '" class="' + imageClass + '" alt="Character portrait" data-has-portrait="' + (hasPortrait ? 'true' : 'false') + '" />';
+            summaryHtml += '<img src="' + sanitizedImageUrl + '" class="' + imageClass + '" alt="Character portrait" data-has-portrait="' + (hasPortrait ? 'true' : 'false') + '" />';
         }
         const placeholderClass = sanitizedImageUrl ? ' d-none' : '';
-        headerHtml += '<div class="character-portrait-placeholder' + placeholderClass + '">No Image</div>';
-        headerHtml += '</div>';
-        headerHtml += '</div>';
-        headerHtml += '</div>';
-        headerHtml += '</div>';
+        summaryHtml += '<div class="character-portrait-placeholder' + placeholderClass + '">No Image</div>';
+        summaryHtml += '</div>';
+        summaryHtml += '</div>';
+        summaryHtml += '</div>';
+        summaryHtml += '</div>';
         
-        if (headerEl) {
-            headerEl.innerHTML = headerHtml;
+        if (summaryEl) {
+            summaryEl.innerHTML = summaryHtml;
         }
         
         if (mode === 'compact') {

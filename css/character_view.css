@@ -51,12 +51,12 @@
 }
 .character-view-modal.compact-mode .view-content {
     flex: 1;
-    overflow-y: auto;
+    overflow: visible;
     min-height: 0;
 }
 
-/* Character Header Section */
-.character-header-section {
+/* Character Summary Section - Force normal scrolling, never sticky */
+.character-summary-section {
     display: block;
     padding: 1.5rem;
     background: linear-gradient(135deg, rgba(42, 21, 21, 0.6) 0%, rgba(26, 15, 15, 0.65) 100%);
@@ -66,6 +66,22 @@
         inset 0 1px 0 rgba(255,255,255,0.05),
         0 16px 32px rgba(0, 0, 0, 0.55),
         0 8px 16px rgba(139, 0, 0, 0.2);
+    position: static !important;
+    top: auto !important;
+    bottom: auto !important;
+    z-index: auto !important;
+    transform: none !important;
+    will-change: auto !important;
+}
+
+/* Ensure it scrolls normally even in scrollable containers */
+.modal-dialog-scrollable .character-summary-section,
+.modal-body .character-summary-section,
+.vbn-modal-body .character-summary-section {
+    position: static !important;
+    top: auto !important;
+    bottom: auto !important;
+    z-index: auto !important;
 }
 
 .character-summary-label {
@@ -139,7 +155,7 @@
     height: 100%;
 }
 
-.character-view-modal.compact-mode .character-header-section {
+.character-view-modal.compact-mode .character-summary-section {
     padding: 1.25rem;
 }
 
@@ -468,7 +484,7 @@
 
 /* Responsive adjustments */
 @media (max-width: 768px) {
-    .character-header-section {
+    .character-summary-section {
         grid-template-columns: 1fr;
         gap: 20px;
     }
