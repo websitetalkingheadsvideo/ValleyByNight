@@ -1,5 +1,5 @@
 {
-    "generated_at": "2025-12-22T08:37:08+00:00",
+    "generated_at": "2025-12-22T13:13:22+00:00",
     "categories": [
         "Physical",
         "Social",
@@ -16,51 +16,6 @@
             "reason": "no_matching_files_found"
         },
         {
-            "id": 60,
-            "character_name": "Lucien Marchand",
-            "searched_files": [
-                "reference\/Characters\/**\/*.json",
-                "agents\/character_agent\/data\/Characters\/**\/*.json"
-            ],
-            "reason": "no_matching_files_found"
-        },
-        {
-            "id": 70,
-            "character_name": "Alessandro Vescari",
-            "searched_files": [
-                "reference\/Characters\/**\/*.json",
-                "agents\/character_agent\/data\/Characters\/**\/*.json"
-            ],
-            "reason": "no_matching_files_found"
-        },
-        {
-            "id": 71,
-            "character_name": "Jennifer Kwan",
-            "searched_files": [
-                "reference\/Characters\/**\/*.json",
-                "agents\/character_agent\/data\/Characters\/**\/*.json"
-            ],
-            "reason": "no_matching_files_found"
-        },
-        {
-            "id": 72,
-            "character_name": "Marcus Webb",
-            "searched_files": [
-                "reference\/Characters\/**\/*.json",
-                "agents\/character_agent\/data\/Characters\/**\/*.json"
-            ],
-            "reason": "no_matching_files_found"
-        },
-        {
-            "id": 87,
-            "character_name": "Kerry, the Gangrel",
-            "searched_files": [
-                "reference\/Characters\/**\/*.json",
-                "agents\/character_agent\/data\/Characters\/**\/*.json"
-            ],
-            "reason": "no_matching_files_found"
-        },
-        {
             "id": 89,
             "character_name": "Pistol Pete",
             "searched_files": [
@@ -70,44 +25,8 @@
             "reason": "no_matching_files_found"
         },
         {
-            "id": 90,
-            "character_name": "Sasha",
-            "searched_files": [
-                "reference\/Characters\/**\/*.json",
-                "agents\/character_agent\/data\/Characters\/**\/*.json"
-            ],
-            "reason": "no_matching_files_found"
-        },
-        {
             "id": 92,
             "character_name": "Adrian Leclair",
-            "searched_files": [
-                "reference\/Characters\/**\/*.json",
-                "agents\/character_agent\/data\/Characters\/**\/*.json"
-            ],
-            "reason": "no_matching_files_found"
-        },
-        {
-            "id": 95,
-            "character_name": "Core (Alexandra Chen)",
-            "searched_files": [
-                "reference\/Characters\/**\/*.json",
-                "agents\/character_agent\/data\/Characters\/**\/*.json"
-            ],
-            "reason": "no_matching_files_found"
-        },
-        {
-            "id": 97,
-            "character_name": "Phreak",
-            "searched_files": [
-                "reference\/Characters\/**\/*.json",
-                "agents\/character_agent\/data\/Characters\/**\/*.json"
-            ],
-            "reason": "no_matching_files_found"
-        },
-        {
-            "id": 101,
-            "character_name": "Barry Washington",
             "searched_files": [
                 "reference\/Characters\/**\/*.json",
                 "agents\/character_agent\/data\/Characters\/**\/*.json"
@@ -133,62 +52,8 @@
             "reason": "no_matching_files_found"
         },
         {
-            "id": 107,
-            "character_name": "Layla al-Sahr",
-            "searched_files": [
-                "reference\/Characters\/**\/*.json",
-                "agents\/character_agent\/data\/Characters\/**\/*.json"
-            ],
-            "reason": "no_matching_files_found"
-        },
-        {
-            "id": 108,
-            "character_name": "Misfortune",
-            "searched_files": [
-                "reference\/Characters\/**\/*.json",
-                "agents\/character_agent\/data\/Characters\/**\/*.json"
-            ],
-            "reason": "no_matching_files_found"
-        },
-        {
-            "id": 109,
-            "character_name": "Tor",
-            "searched_files": [
-                "reference\/Characters\/**\/*.json",
-                "agents\/character_agent\/data\/Characters\/**\/*.json"
-            ],
-            "reason": "no_matching_files_found"
-        },
-        {
-            "id": 110,
-            "character_name": "Roxanne Vega",
-            "searched_files": [
-                "reference\/Characters\/**\/*.json",
-                "agents\/character_agent\/data\/Characters\/**\/*.json"
-            ],
-            "reason": "no_matching_files_found"
-        },
-        {
             "id": 112,
             "character_name": "Eddy Valiant",
-            "searched_files": [
-                "reference\/Characters\/**\/*.json",
-                "agents\/character_agent\/data\/Characters\/**\/*.json"
-            ],
-            "reason": "no_matching_files_found"
-        },
-        {
-            "id": 113,
-            "character_name": "Sarah Hansen",
-            "searched_files": [
-                "reference\/Characters\/**\/*.json",
-                "agents\/character_agent\/data\/Characters\/**\/*.json"
-            ],
-            "reason": "no_matching_files_found"
-        },
-        {
-            "id": 123,
-            "character_name": "Warner Jefferson",
             "searched_files": [
                 "reference\/Characters\/**\/*.json",
                 "agents\/character_agent\/data\/Characters\/**\/*.json"
@@ -205,15 +70,6 @@
             "reason": "no_matching_files_found"
         },
         {
-            "id": 125,
-            "character_name": "Roxanne Murphy",
-            "searched_files": [
-                "reference\/Characters\/**\/*.json",
-                "agents\/character_agent\/data\/Characters\/**\/*.json"
-            ],
-            "reason": "no_matching_files_found"
-        },
-        {
             "id": 129,
             "character_name": "Butch Reed",
             "searched_files": [
@@ -223,53 +79,8 @@
             "reason": "no_matching_files_found"
         },
         {
-            "id": 130,
-            "character_name": "Kerry, the Desert-Wandering Gangrel",
-            "searched_files": [
-                "reference\/Characters\/**\/*.json",
-                "agents\/character_agent\/data\/Characters\/**\/*.json"
-            ],
-            "reason": "no_matching_files_found"
-        },
-        {
             "id": 131,
             "character_name": "Alistaire",
-            "searched_files": [
-                "reference\/Characters\/**\/*.json",
-                "agents\/character_agent\/data\/Characters\/**\/*.json"
-            ],
-            "reason": "no_matching_files_found"
-        },
-        {
-            "id": 139,
-            "character_name": "Lorenzo Giovanni",
-            "searched_files": [
-                "reference\/Characters\/**\/*.json",
-                "agents\/character_agent\/data\/Characters\/**\/*.json"
-            ],
-            "reason": "no_matching_files_found"
-        },
-        {
-            "id": 140,
-            "character_name": "Marianna Giovanni",
-            "searched_files": [
-                "reference\/Characters\/**\/*.json",
-                "agents\/character_agent\/data\/Characters\/**\/*.json"
-            ],
-            "reason": "no_matching_files_found"
-        },
-        {
-            "id": 141,
-            "character_name": "Paris Giovanni",
-            "searched_files": [
-                "reference\/Characters\/**\/*.json",
-                "agents\/character_agent\/data\/Characters\/**\/*.json"
-            ],
-            "reason": "no_matching_files_found"
-        },
-        {
-            "id": 142,
-            "character_name": "Paulo Benedicto Giovanni",
             "searched_files": [
                 "reference\/Characters\/**\/*.json",
                 "agents\/character_agent\/data\/Characters\/**\/*.json"
