@@ -1,9 +1,9 @@
 # Version History
 
-## Current Version: 0.8.72
+## Current Version: 0.8.73
 
 **Date:** 2025-01-30  
-**Type:** Patch (Ability indicator domain-specific color coding)
+**Type:** Patch (Character view modal scrolling fixes and sire normalization script)
 
 ### Changes:
 - **Delete Modal Styling** - Fixed confirm deletion modals to follow site styling
