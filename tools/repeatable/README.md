@@ -372,6 +372,128 @@ Reports generated:
 
 ---
 
+## Character Backgrounds Backfill
+
+**Script:** `backfill_character_backgrounds.php`
+
+### Purpose
+Identifies characters with missing backgrounds in the `character_backgrounds` table and backfills them by searching JSON and Markdown files in the project.
+
+### Usage
+
+```bash
+# Dry run (preview changes without updating database)
+php tools/repeatable/backfill_character_backgrounds.php --dry-run
+
+# Run with verbose output
+php tools/repeatable/backfill_character_backgrounds.php --verbose
+
+# Set minimum background level to import (default: 1, use 0 to include all)
+php tools/repeatable/backfill_character_backgrounds.php --min-level=0
+
+# Combine options
+php tools/repeatable/backfill_character_backgrounds.php --dry-run --verbose --min-level=1
+```
+
+### Options
+
+- `--dry-run`: Show what would be updated without writing to database
+- `--verbose`: Show detailed progress for each character
+- `--min-level=N`: Minimum background level to import (default: 1, use 0 to include all backgrounds including level 0)
+- `--help`: Show help message
+
+### Output Files
+
+All output files are generated in `tools/repeatable/`:
+
+1. **`missing_backgrounds_report.json`**
+   - Lists all characters with missing backgrounds
+   - Includes character ID, name, reason for missing status, and timestamp
+
+2. **`backgrounds_updates.log`**
+   - Plain text log of all database updates
+   - Includes character ID, name, source file, background count, and list of backgrounds
+   - Appends to existing log file on subsequent runs
+
+3. **`backgrounds_not_found.json`**
+   - Lists characters where no backgrounds were found in source files
+   - Includes search paths attempted
+
+### Search Strategy
+
+The script uses a two-pass approach:
+
+**Pass A: JSON Files**
+- Searches `reference/Characters/**/*.json`
+- Searches `agents/character_agent/data/Characters/**/*.json` (if exists)
+- Matches by `character_name` field (case-insensitive, fuzzy matching)
+- Extracts `backgrounds` object (name: level pairs)
+- Extracts `backgroundDetails` object for descriptions (optional)
+- Filters backgrounds by minimum level threshold
+
+**Pass B: Markdown Files**
+- Searches `reference/Characters/**/*.md`
+- Searches `agents/character_agent/data/Characters/**/*.md` (if exists)
+- Matches by filename and/or content
+- Extracts content from sections: `# Backgrounds:`, `## Backgrounds`
+- Parses patterns like "Background Name: 3" to extract name and level
+
+### Database Structure
+
+Backgrounds are stored in the `character_backgrounds` table with:
+- `character_id` (foreign key)
+- `background_name` (e.g., "Allies", "Resources", "Status")
+- `level` (1-5 typically)
+- `description` (optional text description)
+
+### Safety Features
+
+- **Idempotent**: Safe to run multiple times
+- **Safeguards**: Re-checks database state before each update
+- **No overwrites**: Only updates characters with no existing backgrounds in the table
+- **Prepared statements**: Prevents SQL injection
+- **Error handling**: Continues processing if individual files fail
+- **Level filtering**: Can filter out low-level backgrounds using `--min-level`
+
+### Example Output
+
+```
+=== Character Backgrounds Backfill Summary ===
+Total characters scanned: 150
+Missing initially: 25
+Backgrounds backfilled: 18
+Still missing: 7
+Skipped (already had backgrounds): 0
+Errors: 0
+
+Reports generated:
+- tools/repeatable/missing_backgrounds_report.json
+- tools/repeatable/backgrounds_updates.log
+- tools/repeatable/backgrounds_not_found.json
+```
+
+### JSON Format Expected
+
+The script expects JSON files with this structure:
+
+```json
+{
+  "character_name": "Character Name",
+  "backgrounds": {
+    "Allies": 3,
+    "Resources": 4,
+    "Status": 2,
+    "Generation": 6
+  },
+  "backgroundDetails": {
+    "Allies": "Description of allies",
+    "Resources": "Description of resources"
+  }
+}
+```
+
+---
+
 ## Generic Field Backfill (All Fields)
 
 **Script:** `backfill_character_field.php`

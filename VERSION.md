@@ -1,6 +1,22 @@
 # Version History
 
-## Current Version: 0.8.69
+## Current Version: 0.8.70
+
+**Date:** 2025-12-22  
+**Type:** Patch (Character backgrounds backfill script - maintenance tool)
+
+### Changes:
+- **Backgrounds Backfill Script** - Added `backfill_character_backgrounds.php` maintenance tool
+  - Identifies characters with missing backgrounds in database
+  - Searches JSON and Markdown files for background data
+  - Handles both object and array formats in JSON files
+  - Supports character name matching with both `character_name` and `name` fields
+  - Idempotent and safe to run multiple times
+  - Includes dry-run mode, verbose output, and min-level filtering
+  - Generates detailed reports (missing_backgrounds_report.json, backgrounds_updates.log, backgrounds_not_found.json)
+- **Documentation** - Updated README.md with backgrounds backfill documentation
+
+## Previous Version: 0.8.69
 
 **Date:** 2025-01-30  
 **Type:** Patch (Character ability query fixes and maintenance tools)

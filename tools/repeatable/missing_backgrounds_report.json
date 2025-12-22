@@ -1,0 +1,73 @@
+{
+    "generated_at": "2025-12-22T09:23:56+00:00",
+    "total_characters": 49,
+    "missing_count": 11,
+    "characters": [
+        {
+            "id": 89,
+            "character_name": "Pistol Pete",
+            "reason": "no_backgrounds_in_table",
+            "detected_at": "2025-12-22T09:23:55+00:00"
+        },
+        {
+            "id": 90,
+            "character_name": "Sasha",
+            "reason": "no_backgrounds_in_table",
+            "detected_at": "2025-12-22T09:23:55+00:00"
+        },
+        {
+            "id": 92,
+            "character_name": "Adrian Leclair",
+            "reason": "no_backgrounds_in_table",
+            "detected_at": "2025-12-22T09:23:55+00:00"
+        },
+        {
+            "id": 95,
+            "character_name": "Core (Alexandra Chen)",
+            "reason": "no_backgrounds_in_table",
+            "detected_at": "2025-12-22T09:23:55+00:00"
+        },
+        {
+            "id": 97,
+            "character_name": "Phreak",
+            "reason": "no_backgrounds_in_table",
+            "detected_at": "2025-12-22T09:23:55+00:00"
+        },
+        {
+            "id": 104,
+            "character_name": "Tariq Ibrahim",
+            "reason": "no_backgrounds_in_table",
+            "detected_at": "2025-12-22T09:23:55+00:00"
+        },
+        {
+            "id": 110,
+            "character_name": "Roxanne Vega",
+            "reason": "no_backgrounds_in_table",
+            "detected_at": "2025-12-22T09:23:55+00:00"
+        },
+        {
+            "id": 123,
+            "character_name": "Warner Jefferson",
+            "reason": "no_backgrounds_in_table",
+            "detected_at": "2025-12-22T09:23:55+00:00"
+        },
+        {
+            "id": 124,
+            "character_name": "Marisol \"Roadrunner\" Vega",
+            "reason": "no_backgrounds_in_table",
+            "detected_at": "2025-12-22T09:23:55+00:00"
+        },
+        {
+            "id": 125,
+            "character_name": "Roxanne Murphy",
+            "reason": "no_backgrounds_in_table",
+            "detected_at": "2025-12-22T09:23:55+00:00"
+        },
+        {
+            "id": 131,
+            "character_name": "Alistaire",
+            "reason": "no_backgrounds_in_table",
+            "detected_at": "2025-12-22T09:23:55+00:00"
+        }
+    ]
+}

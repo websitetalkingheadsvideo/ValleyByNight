@@ -1,0 +1,73 @@
+{
+    "generated_at": "2025-12-22T09:14:44+00:00",
+    "total_characters": 49,
+    "missing_count": 11,
+    "characters": [
+        {
+            "id": 89,
+            "character_name": "Pistol Pete",
+            "discipline_count": 0,
+            "detected_at": "2025-12-22T09:14:44+00:00"
+        },
+        {
+            "id": 90,
+            "character_name": "Sasha",
+            "discipline_count": 0,
+            "detected_at": "2025-12-22T09:14:44+00:00"
+        },
+        {
+            "id": 92,
+            "character_name": "Adrian Leclair",
+            "discipline_count": 0,
+            "detected_at": "2025-12-22T09:14:44+00:00"
+        },
+        {
+            "id": 95,
+            "character_name": "Core (Alexandra Chen)",
+            "discipline_count": 0,
+            "detected_at": "2025-12-22T09:14:44+00:00"
+        },
+        {
+            "id": 97,
+            "character_name": "Phreak",
+            "discipline_count": 0,
+            "detected_at": "2025-12-22T09:14:44+00:00"
+        },
+        {
+            "id": 102,
+            "character_name": "Mr. Harold Ashby",
+            "discipline_count": 0,
+            "detected_at": "2025-12-22T09:14:44+00:00"
+        },
+        {
+            "id": 107,
+            "character_name": "Layla al-Sahr",
+            "discipline_count": 0,
+            "detected_at": "2025-12-22T09:14:44+00:00"
+        },
+        {
+            "id": 112,
+            "character_name": "Eddy Valiant",
+            "discipline_count": 0,
+            "detected_at": "2025-12-22T09:14:44+00:00"
+        },
+        {
+            "id": 113,
+            "character_name": "Sarah Hansen",
+            "discipline_count": 0,
+            "detected_at": "2025-12-22T09:14:44+00:00"
+        },
+        {
+            "id": 125,
+            "character_name": "Roxanne Murphy",
+            "discipline_count": 0,
+            "detected_at": "2025-12-22T09:14:44+00:00"
+        },
+        {
+            "id": 131,
+            "character_name": "Alistaire",
+            "discipline_count": 0,
+            "detected_at": "2025-12-22T09:14:44+00:00"
+        }
+    ]
+}
