@@ -1,0 +1,121 @@
+{
+    "generated_at": "2025-12-22T07:12:14+00:00",
+    "total_characters": 50,
+    "missing_count": 19,
+    "characters": [
+        {
+            "id": 42,
+            "character_name": "Rembrandt Jones",
+            "reason": "empty_string",
+            "detected_at": "2025-12-22T07:12:13+00:00"
+        },
+        {
+            "id": 47,
+            "character_name": "Cordelia Fairchild",
+            "reason": "empty_string",
+            "detected_at": "2025-12-22T07:12:13+00:00"
+        },
+        {
+            "id": 48,
+            "character_name": "Duke Tiki",
+            "reason": "empty_string",
+            "detected_at": "2025-12-22T07:12:13+00:00"
+        },
+        {
+            "id": 50,
+            "character_name": "Sabine",
+            "reason": "empty_string",
+            "detected_at": "2025-12-22T07:12:13+00:00"
+        },
+        {
+            "id": 52,
+            "character_name": "Sebastian",
+            "reason": "empty_string",
+            "detected_at": "2025-12-22T07:12:13+00:00"
+        },
+        {
+            "id": 57,
+            "character_name": "Betty",
+            "reason": "empty_string",
+            "detected_at": "2025-12-22T07:12:13+00:00"
+        },
+        {
+            "id": 60,
+            "character_name": "Lucien Marchand",
+            "reason": "empty_string",
+            "detected_at": "2025-12-22T07:12:13+00:00"
+        },
+        {
+            "id": 62,
+            "character_name": "Sofia Alvarez",
+            "reason": "empty_string",
+            "detected_at": "2025-12-22T07:12:13+00:00"
+        },
+        {
+            "id": 68,
+            "character_name": "Étienne Duvalier",
+            "reason": "empty_string",
+            "detected_at": "2025-12-22T07:12:13+00:00"
+        },
+        {
+            "id": 70,
+            "character_name": "Alessandro Vescari",
+            "reason": "empty_string",
+            "detected_at": "2025-12-22T07:12:13+00:00"
+        },
+        {
+            "id": 92,
+            "character_name": "Adrian Leclair",
+            "reason": "empty_string",
+            "detected_at": "2025-12-22T07:12:13+00:00"
+        },
+        {
+            "id": 95,
+            "character_name": "Core (Alexandra Chen)",
+            "reason": "empty_string",
+            "detected_at": "2025-12-22T07:12:13+00:00"
+        },
+        {
+            "id": 97,
+            "character_name": "Phreak",
+            "reason": "empty_string",
+            "detected_at": "2025-12-22T07:12:13+00:00"
+        },
+        {
+            "id": 101,
+            "character_name": "Barry Washington",
+            "reason": "empty_string",
+            "detected_at": "2025-12-22T07:12:13+00:00"
+        },
+        {
+            "id": 102,
+            "character_name": "Mr. Harold Ashby",
+            "reason": "empty_string",
+            "detected_at": "2025-12-22T07:12:13+00:00"
+        },
+        {
+            "id": 104,
+            "character_name": "Tariq Ibrahim",
+            "reason": "empty_string",
+            "detected_at": "2025-12-22T07:12:13+00:00"
+        },
+        {
+            "id": 107,
+            "character_name": "Layla al-Sahr",
+            "reason": "empty_string",
+            "detected_at": "2025-12-22T07:12:13+00:00"
+        },
+        {
+            "id": 124,
+            "character_name": "Marisol \"Roadrunner\" Vega",
+            "reason": "empty_string",
+            "detected_at": "2025-12-22T07:12:13+00:00"
+        },
+        {
+            "id": 130,
+            "character_name": "Kerry, the Desert-Wandering Gangrel",
+            "reason": "empty_string",
+            "detected_at": "2025-12-22T07:12:13+00:00"
+        }
+    ]
+}

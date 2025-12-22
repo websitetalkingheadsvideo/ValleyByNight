@@ -1,0 +1,71 @@
+{
+    "generated_at": "2025-12-22T07:00:27+00:00",
+    "characters": [
+        {
+            "id": 107,
+            "character_name": "Layla al-Sahr",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "reference\/Characters\/**\/*.md",
+                "agents\/character_agent\/data\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.md"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 124,
+            "character_name": "Marisol \"Roadrunner\" Vega",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "reference\/Characters\/**\/*.md",
+                "agents\/character_agent\/data\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.md"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 139,
+            "character_name": "Lorenzo Giovanni",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "reference\/Characters\/**\/*.md",
+                "agents\/character_agent\/data\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.md"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 140,
+            "character_name": "Marianna Giovanni",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "reference\/Characters\/**\/*.md",
+                "agents\/character_agent\/data\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.md"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 141,
+            "character_name": "Paris Giovanni",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "reference\/Characters\/**\/*.md",
+                "agents\/character_agent\/data\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.md"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 142,
+            "character_name": "Paulo Benedicto Giovanni",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "reference\/Characters\/**\/*.md",
+                "agents\/character_agent\/data\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.md"
+            ],
+            "reason": "no_matching_files_found"
+        }
+    ]
+}
