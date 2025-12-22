@@ -279,3 +279,230 @@ Reports generated:
 - tools/repeatable/notes_not_found.json
 ```
 
+---
+
+## Character Nature Backfill
+
+**Script:** `backfill_character_nature.php`
+
+### Purpose
+Identifies characters with missing nature fields in the database and backfills them by searching JSON and Markdown files in the project.
+
+### Usage
+
+```bash
+# Dry run (preview changes without updating database)
+php tools/repeatable/backfill_character_nature.php --dry-run
+
+# Run with verbose output
+php tools/repeatable/backfill_character_nature.php --verbose
+
+# Set minimum nature length (default: 3)
+php tools/repeatable/backfill_character_nature.php --min-length=5
+
+# Combine options
+php tools/repeatable/backfill_character_nature.php --dry-run --verbose --min-length=4
+```
+
+### Options
+
+- `--dry-run`: Show what would be updated without writing to database
+- `--verbose`: Show detailed progress for each character
+- `--min-length=N`: Minimum nature length threshold (default: 3 characters)
+- `--help`: Show help message
+
+### Output Files
+
+All output files are generated in `tools/repeatable/`:
+
+1. **`missing_nature_report.json`**
+   - Lists all characters with missing nature
+   - Includes character ID, name, reason for missing status, and timestamp
+
+2. **`nature_updates.log`**
+   - Plain text log of all database updates
+   - Includes character ID, name, source file, content length, and hash
+   - Appends to existing log file on subsequent runs
+
+3. **`nature_not_found.json`**
+   - Lists characters where no nature was found in source files
+   - Includes search paths attempted
+
+### Search Strategy
+
+The script uses a two-pass approach:
+
+**Pass A: JSON Files**
+- Searches `reference/Characters/**/*.json`
+- Searches `agents/character_agent/data/Characters/**/*.json` (if exists)
+- Matches by `character_name` field (case-insensitive, fuzzy matching)
+- Extracts `nature` field (simple string)
+
+**Pass B: Markdown Files**
+- Searches `reference/Characters/**/*.md`
+- Searches `agents/character_agent/data/Characters/**/*.md` (if exists)
+- Matches by filename and/or content
+- Extracts content from patterns: `Nature: X`, `## Nature`, `# Nature:`
+- Cleans markdown formatting and extracts first word/phrase (nature is typically a single word)
+
+### Safety Features
+
+- **Idempotent**: Safe to run multiple times
+- **Safeguards**: Re-checks database state before each update
+- **No overwrites**: Only updates characters with empty/missing nature
+- **Prepared statements**: Prevents SQL injection
+- **Error handling**: Continues processing if individual files fail
+
+### Example Output
+
+```
+=== Character Nature Backfill Summary ===
+Total characters scanned: 150
+Missing initially: 25
+Natures backfilled: 18
+Still missing: 7
+Skipped (already had nature): 0
+Errors: 0
+
+Reports generated:
+- tools/repeatable/missing_nature_report.json
+- tools/repeatable/nature_updates.log
+- tools/repeatable/nature_not_found.json
+```
+
+---
+
+## Generic Field Backfill (All Fields)
+
+**Script:** `backfill_character_field.php`
+
+### Purpose
+A universal script that can backfill **any** character field by specifying the field name. This script includes pre-configured settings for common fields (biography, appearance, notes, nature, demeanor, concept, sire, equipment) but can also be used for any other field with custom options.
+
+### Usage
+
+```bash
+# Backfill a pre-configured field
+php tools/repeatable/backfill_character_field.php --field=biography --dry-run
+php tools/repeatable/backfill_character_field.php --field=demeanor --min-length=3
+
+# Backfill a custom field with custom JSON path
+php tools/repeatable/backfill_character_field.php --field=custom_field --json-path=custom.nested.field --min-length=10
+
+# Run with verbose output
+php tools/repeatable/backfill_character_field.php --field=concept --verbose
+```
+
+### Required Options
+
+- `--field=<name>`: Database field name to backfill
+  - Pre-configured fields: `biography`, `appearance`, `notes`, `nature`, `demeanor`, `concept`, `sire`, `equipment`
+  - Any other field name can be used (will use sensible defaults)
+
+### Optional Options
+
+- `--dry-run`: Show what would be updated without writing to database
+- `--verbose`: Show detailed progress for each character
+- `--min-length=N`: Minimum field length threshold (default: auto-detected based on field)
+- `--json-path=<path>`: JSON field path using dot notation (e.g., `"nature"` or `"status.notes"` or `"appearance_detailed.detailed_description"`)
+- `--help`: Show help message
+
+### Pre-Configured Fields
+
+The script includes optimized configurations for:
+
+| Field | Min Length | JSON Paths | Notes |
+|-------|------------|------------|-------|
+| `biography` | 50 | `biography` | Full backstory text |
+| `appearance` | 30 | `appearance`, `appearance_detailed.detailed_description`, `appearance_detailed.short_summary` | Physical description |
+| `notes` | 20 | `notes`, `status.notes` | Player/storyteller notes |
+| `nature` | 3 | `nature` | Single word archetype |
+| `demeanor` | 3 | `demeanor` | Single word archetype |
+| `concept` | 10 | `concept` | One-line character concept |
+| `sire` | 3 | `sire` | Who embraced the character |
+| `equipment` | 10 | `equipment` | Items and gear |
+
+### Output Files
+
+All output files are generated in `tools/repeatable/` with field-specific names:
+
+1. **`missing_<field>_report.json`**
+   - Lists all characters with missing field
+   - Includes character ID, name, reason for missing status, and timestamp
+
+2. **`<field>_updates.log`**
+   - Plain text log of all database updates
+   - Includes character ID, name, source file, content length, and hash
+   - Appends to existing log file on subsequent runs
+
+3. **`<field>_not_found.json`**
+   - Lists characters where no data was found in source files
+   - Includes search paths attempted
+
+### Search Strategy
+
+The script uses a two-pass approach:
+
+**Pass A: JSON Files**
+- Searches `reference/Characters/**/*.json`
+- Searches `agents/character_agent/data/Characters/**/*.json` (if exists)
+- Matches by `character_name` field (case-insensitive, fuzzy matching)
+- Extracts field using dot-notation paths (e.g., `status.notes`)
+
+**Pass B: Markdown Files**
+- Searches `reference/Characters/**/*.md`
+- Searches `agents/character_agent/data/Characters/**/*.md` (if exists)
+- Matches by filename and/or content
+- Uses field-specific regex patterns to extract content
+- Cleans markdown formatting while preserving text
+
+### Safety Features
+
+- **Idempotent**: Safe to run multiple times
+- **Safeguards**: Re-checks database state before each update
+- **No overwrites**: Only updates characters with empty/missing field
+- **Prepared statements**: Prevents SQL injection
+- **Error handling**: Continues processing if individual files fail
+- **Field validation**: Validates field names and uses safe SQL escaping
+
+### Example Output
+
+```
+=== Character demeanor Backfill Script ===
+Mode: DRY RUN (no database writes)
+Min length: 3 characters
+JSON paths: demeanor
+
+Step 1: Scanning database for characters with missing demeanor...
+Found 50 total characters
+Found 5 characters with missing demeanor
+
+Step 2: Searching for demeanor in JSON and Markdown files...
+
+Step 3: Generating reports...
+  Generated: missing_demeanor_report.json
+  Generated: demeanor_updates.log
+  Generated: demeanor_not_found.json
+
+=== Character demeanor Backfill Summary ===
+Total characters scanned: 50
+Missing initially: 5
+Demeanors backfilled: 4
+Still missing: 1
+Skipped (already had demeanor): 0
+Errors: 0
+
+Reports generated:
+- tools/repeatable/missing_demeanor_report.json
+- tools/repeatable/demeanor_updates.log
+- tools/repeatable/demeanor_not_found.json
+```
+
+### Advantages Over Individual Scripts
+
+- **Single script** to maintain instead of multiple
+- **Consistent behavior** across all fields
+- **Easy to extend** with new field configurations
+- **Flexible** for custom fields with `--json-path` option
+- **Less code duplication** - all common logic in one place
+
