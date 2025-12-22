@@ -15,6 +15,7 @@ if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
 }
 
 require_once __DIR__ . '/../includes/connect.php';
+$extra_css = ['css/modal.css'];
 include __DIR__ . '/../includes/header.php';
 
 // Get all characters for dropdown

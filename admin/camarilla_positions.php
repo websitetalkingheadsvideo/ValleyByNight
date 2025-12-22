@@ -18,7 +18,7 @@ if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
 require_once __DIR__ . '/../includes/connect.php';
 require_once __DIR__ . '/../includes/camarilla_positions_helper.php';
 
-$extra_css = ['css/admin_camarilla_positions.css'];
+$extra_css = ['css/modal.css', 'css/admin_camarilla_positions.css'];
 include __DIR__ . '/../includes/header.php';
 
 // Get default night

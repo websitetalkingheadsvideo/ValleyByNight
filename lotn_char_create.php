@@ -1,121 +1,37 @@
-<?php
-// LOTN Character Creator - Version 0.4.0
-// Include centralized version management
-require_once __DIR__ . '/includes/version.php';
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>lotn_char_create</title>
+</head>
+
+<body>
+	<?php
+// LOTN Character Creator - Version 0.2.0
+define('LOTN_VERSION', '0.2.0');
 
 session_start();
 
-// Check for authentication bypass
-require_once 'includes/auth_bypass.php';
-
-// Check if user is logged in (or bypass is enabled)
-if (!isset($_SESSION['user_id']) && !isAuthBypassEnabled()) {
+// Check if user is logged in
+if (!isset($_SESSION['user_id'])) {
     header("Location: login.php");
     exit();
 }
 
-// If bypass is enabled, set up guest session
-if (isAuthBypassEnabled() && !isset($_SESSION['user_id'])) {
-    setupBypassSession();
-}
-
 // Database connection
 include 'includes/connect.php';
-
-// Load archetypes from database for nature/demeanor dropdowns
-$archetypes = [];
-if ($conn) {
-    $archetypes_query = "SELECT name FROM archetypes ORDER BY name ASC";
-    $archetypes_result = @mysqli_query($conn, $archetypes_query);
-    if ($archetypes_result) {
-        while ($row = mysqli_fetch_assoc($archetypes_result)) {
-            $archetypes[] = $row['name'];
-        }
-        mysqli_free_result($archetypes_result);
-    }
-    // If query failed or table doesn't exist, fall back to empty array
-    // This prevents 500 errors if archetypes table hasn't been created yet
-}
-
-// Load abilities from database grouped by category
-$abilities_by_category = [
-    'Physical' => [],
-    'Social' => [],
-    'Mental' => [],
-    'Optional' => []
-];
-if ($conn) {
-    $abilities_query = "SELECT name, category, display_order FROM abilities ORDER BY category, display_order ASC";
-    $abilities_result = @mysqli_query($conn, $abilities_query);
-    if ($abilities_result) {
-        while ($row = mysqli_fetch_assoc($abilities_result)) {
-            $category = $row['category'];
-            if (isset($abilities_by_category[$category])) {
-                $abilities_by_category[$category][] = $row;
-            }
-        }
-        mysqli_free_result($abilities_result);
-    }
-    // If query failed or table doesn't exist, fall back to empty arrays
-    // This prevents 500 errors if abilities table hasn't been created yet
-}
-
-$extra_css = [
-  'css/style.css',
-  'css/character_image.css',
-  'css/exit-button.css'
-];
-
-// Check if loaded in modal context
-$isModal = isset($_GET['modal']) && $_GET['modal'] == '1';
-
-if (!$isModal) {
-    include __DIR__ . '/includes/header.php';
-} else {
-    // Minimal header for modal context - just the essential HTML structure
-    ?>
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Edit Character</title>
-        <?php
-        // Calculate path prefix
-        $script_name = $_SERVER['SCRIPT_NAME'];
-        $script_dir = dirname($script_name);
-        if ($script_dir === '/') {
-            $path_prefix = '';
-        } else {
-            $path_segments = trim($script_dir, '/');
-            $segment_count = $path_segments === '' ? 0 : substr_count($path_segments, '/') + 1;
-            $path_prefix = str_repeat('../', $segment_count);
-        }
-        ?>
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-        <link rel="stylesheet" href="<?php echo $path_prefix; ?>css/bootstrap-overrides.css">
-        <link rel="stylesheet" href="<?php echo $path_prefix; ?>css/global.css">
-        <?php
-        foreach ($extra_css as $cssPath) {
-            $normalizedPath = ltrim($cssPath, '/');
-            echo '<link rel="stylesheet" href="' . htmlspecialchars($path_prefix . $normalizedPath, ENT_QUOTES, 'UTF-8') . '">' . PHP_EOL;
-        }
-        ?>
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=IM+Fell+English+SC&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Nosifer&family=Source+Serif+Pro:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400&display=swap" rel="stylesheet">
-        <script src="<?php echo $path_prefix; ?>js/form_validation.js"></script>
-    </head>
-    <body>
-    <div class="page-wrapper">
-    <?php
-}
 ?>
-    <div class="container-xxl">
-      <div class="row g-4 align-items-start">
-        <!-- Sidebar Tracker (right on desktop) -->
-        <div class="col-12 col-lg-4 order-lg-2">
-          <aside class="sidebar" aria-label="Character Progress Sidebar">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create Character - Laws of the Night</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- Sidebar Tracker -->
+    <div class="sidebar">
         <h3>Character Progress</h3>
         
         <div class="xp-summary">
@@ -130,10 +46,6 @@ if (!$isModal) {
             <div class="stat-line" style="border-top: 2px solid #8b0000; margin-top: 10px; padding-top: 10px;">
                 <span class="stat-label">Remaining:</span>
                 <span class="total" id="xpRemaining">30</span>
-            </div>
-            <div class="stat-line" id="characterModeDisplay" style="display: none; border-top: 2px solid #ff8c00; margin-top: 10px; padding-top: 10px;">
-                <span class="stat-label">Mode:</span>
-                <span class="stat-value" style="color: #ff8c00;">Advancement</span>
             </div>
         </div>
         
@@ -158,10 +70,6 @@ if (!$isModal) {
             <div class="stat-line">
                 <span class="stat-label">Virtues:</span>
                 <span class="stat-value" id="xpVirtues">0</span>
-            </div>
-            <div class="stat-line">
-                <span class="stat-label">Merits & Flaws:</span>
-                <span class="stat-value" id="xpMeritsFlaws">0</span>
             </div>
             <div class="stat-line">
                 <span class="stat-label">Willpower:</span>
@@ -233,415 +141,220 @@ if (!$isModal) {
             </div>
             <div class="stat-line">
                 <span class="stat-label">Conscience:</span>
-                <span class="stat-value" id="conscienceValueOld">1</span>
+                <span class="stat-value" id="conscienceValue">1</span>
             </div>
             <div class="stat-line">
                 <span class="stat-label">Self-Control:</span>
-                <span class="stat-value" id="selfControlValueOld">1</span>
+                <span class="stat-value" id="selfControlValue">1</span>
             </div>
             <div class="stat-line">
                 <span class="stat-label">Courage:</span>
                 <span class="stat-value" id="courageValue">1</span>
             </div>
         </div>
-        
-        <!-- Live Character Preview -->
-        <div class="character-preview">
-            <div class="preview-header">
-                <h4>Character Preview</h4>
-                <div class="sheet-mode-toggle form-check">
-                    <label class="toggle-label form-check-label">
-                        <input type="radio" name="sheetMode" class="form-check-input" value="full" checked>
-                        <span class="toggle-text">Full</span>
-                    </label>
-                    <label class="toggle-label form-check-label">
-                        <input type="radio" name="sheetMode" class="form-check-input" value="compact">
-                        <span class="toggle-text">Compact</span>
-                    </label>
-                </div>
-            </div>
-            <div class="preview-card" id="previewCard">
-                <div class="preview-character-header">
-                    <div class="preview-cash" id="previewCash">$100</div>
-                    <div class="preview-name" id="previewName">Unknown Character</div>
-                    <div class="preview-clan" id="previewClan">No Clan Selected</div>
-                </div>
-                
-                <div class="preview-section">
-                    <div class="preview-label">Physical Traits</div>
-                    <div class="preview-traits" id="previewPhysical">
-                        <span class="preview-trait">None selected</span>
-                    </div>
-                </div>
-                
-                <div class="preview-section">
-                    <div class="preview-label">Social Traits</div>
-                    <div class="preview-traits" id="previewSocial">
-                        <span class="preview-trait">None selected</span>
-                    </div>
-                </div>
-                
-                <div class="preview-section">
-                    <div class="preview-label">Mental Traits</div>
-                    <div class="preview-traits" id="previewMental">
-                        <span class="preview-trait">None selected</span>
-                    </div>
-                </div>
-                
-                <div class="preview-section">
-                    <div class="preview-label">Abilities</div>
-                    <div class="preview-traits" id="previewAbilities">
-                        <span class="preview-trait">None selected</span>
-                    </div>
-                </div>
-                
-                <div class="preview-section">
-                    <div class="preview-label">Disciplines</div>
-                    <div class="preview-traits" id="previewDisciplines">
-                        <span class="preview-trait">None selected</span>
-                    </div>
-                </div>
-            </div>
-          </aside>
-        </div>
+    </div>
     
-        <div class="col-12 col-lg-8 order-lg-1" id="sheet">
+    <div class="container">
         <div class="header">
-            <h1 class="brand">⚜ Laws of the Night: Character Creation ⚜</h1>
-            <div class="header-center">
-                <div class="user-info">
-                    <span class="user-label">Logged in as:</span>
-                    <span class="user-name"><?php echo isset($_SESSION['username']) ? htmlspecialchars($_SESSION['username']) : 'Guest User'; ?></span>
-                </div>
-                <div class="version-info">
-                    <span class="version">v<?php echo LOTN_VERSION; ?></span>
-                </div>
+            <h1>⚜ Laws of the Night: Character Creation ⚜</h1>
+            <div class="version-info">
+                <span class="version">v<?php echo LOTN_VERSION; ?></span>
             </div>
-            <div class="header-right">
-                <div class="xp-tracker">
-                    <div class="label">Available XP</div>
-                    <div class="xp-display" id="xpDisplay">30</div>
-                    <div class="xp-label">Experience Points</div>
-                </div>
-                <div class="header-actions d-flex justify-content-end align-items-center gap-2 mt-2">
-                    <button type="button" id="saveHeaderBtn" class="btn btn-success save-btn" data-action="save" aria-label="Save character">Save</button>
-                    <button type="button" id="exitEditorBtn" class="exit-inline" title="Exit without saving" aria-label="Exit without saving">Exit</button>
-                </div>
+            <div class="xp-tracker">
+                <div class="label">Available XP</div>
+                <div class="xp-display" id="xpDisplay">30</div>
+                <div class="xp-label">Experience Points</div>
             </div>
         </div>
         
         <div class="tabs">
-            <button class="tab active tab-btn" data-tab="basic">Basic Info</button>
-            <button class="tab tab-btn" data-tab="traits">Traits</button>
-            <button class="tab tab-btn" data-tab="abilities">Abilities</button>
-            <button class="tab tab-btn" data-tab="disciplines">Disciplines</button>
-            <button class="tab tab-btn" data-tab="backgrounds">Backgrounds</button>
-            <button class="tab tab-btn" data-tab="morality">Morality</button>
-            <button class="tab tab-btn" data-tab="merits">Merits & Flaws</button>
-            <button class="tab tab-btn" data-tab="description">Description</button>
-            <button class="tab tab-btn" data-tab="review">Final Details</button>
-        </div>
-        
-        <!-- Progress Indicator -->
-        <div class="tab-progress">
-            <div class="tab-progress-bar" id="tabProgressBar"></div>
+            <button class="tab active" onclick="showTab(0)">Basic Info</button>
+            <button class="tab" onclick="showTab(1)">Traits</button>
+            <button class="tab" onclick="showTab(2)">Abilities</button>
+            <button class="tab" onclick="showTab(3)">Disciplines</button>
+            <button class="tab" onclick="showTab(4)">Backgrounds</button>
+            <button class="tab" onclick="showTab(5)">Morality</button>
+            <button class="tab" onclick="showTab(6)">Merits & Flaws</button>
+            <button class="tab" onclick="showTab(7)">Final Details</button>
         </div>
         
         <form id="characterForm">
-            <input type="hidden" id="characterId" name="characterId" value="">
-            <input type="hidden" id="imagePath" name="imagePath" value="">
             <!-- Tab 1: Basic Info -->
-            <div class="tab-content active" id="basicTab">
-                <div class="card">
-                    <div class="card-header">
-                        <div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
-                            <div>
-                                <h2 class="card-title">Basic Information</h2>
-                                <p class="card-subtitle">Essential character details and background</p>
-                            </div>
-                            <div class="mb-0" style="min-width: 200px;">
-                                <div class="form-check">
-                                    <input type="checkbox" id="pc" name="pc" class="form-check-input" checked>
-                                    <label for="pc" class="form-check-label mb-0">Player Character (PC)</label>
-                                </div>
-                                <div class="helper-text">Uncheck if this is an NPC</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="card-body">
-                <!-- Character Info Header (2-column layout) -->
-                <div class="character-info-header">
-                    <div class="character-info-left">
-                        <div class="row g-3">
-                            <div class="col-md-6">
-                                <div class="mb-3">
-                                    <label for="characterName" class="form-label">Character Name *</label>
-                                    <input type="text" id="characterName" name="characterName" class="form-control" required>
-                                </div>
-                            </div>
-                            
-                            <div class="col-md-6">
-                                <div class="mb-3">
-                                    <label for="playerName" class="form-label">Player Name *</label>
-                                    <input type="text" id="playerName" name="playerName" class="form-control" required>
-                                </div>
-                            </div>
-                        </div>
-                        
-                        <div class="mb-3">
-                            <label for="chronicle" class="form-label">Chronicle</label>
-                            <input type="text" id="chronicle" name="chronicle" class="form-control" value="Valley by Night">
-                            <div class="helper-text">Name of the campaign/game</div>
-                        </div>
-
-                        <div class="row g-3">
-                            <div class="col-md-6">
-                                <div class="mb-3">
-                                    <label for="currentState" class="form-label">Character Status</label>
-                                    <select id="currentState" name="currentState" class="form-select">
-                                        <option value="active" selected>Active</option>
-                                        <option value="inactive">Inactive</option>
-                                        <option value="archived">Archived</option>
-                                    </select>
-                                    <div class="helper-text">Controls whether this character appears in active rosters.</div>
-                                </div>
-                            </div>
-
-                            <div class="col-md-6">
-                                <div class="mb-3">
-                                    <label for="camarillaStatus" class="form-label">Sect Alignment</label>
-                                    <select id="camarillaStatus" name="camarillaStatus" class="form-select">
-                                        <option value="Unknown" selected>Unknown</option>
-                                        <option value="Camarilla">Camarilla</option>
-                                        <option value="Anarch">Anarch</option>
-                                        <option value="Independent">Independent</option>
-                                        <option value="Sabbat">Sabbat</option>
-                                    </select>
-                                    <div class="helper-text">Tracks faction allegiance for reports and filters.</div>
-                                </div>
-                            </div>
-                        </div>
+            <div class="tab-content active" id="tab0">
+                <h2 style="color: #8b0000; margin-bottom: 25px;">Basic Information</h2>
+                
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="characterName">Character Name *</label>
+                        <input type="text" id="characterName" name="characterName" required>
                     </div>
                     
-                    <!-- Character Image Column -->
-                    <div class="character-image-column">
-                        <label style="margin-bottom: 10px;">Character Portrait</label>
-                        <div class="character-image-container">
-                            <div class="character-image-wrapper">
-                                <img id="characterImagePreview" class="character-image-preview" alt="Character Portrait" />
-                                <div id="characterImagePlaceholder" class="character-image-placeholder">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                                        <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
-                                        <circle cx="12" cy="7" r="4"></circle>
-                                    </svg>
-                                    <span>No image</span>
-                                </div>
-                            </div>
-                            
-                            <div class="character-image-controls">
-                                <input type="file" id="characterImageInput" class="character-image-file-input" accept="image/jpeg,image/jpg,image/png,image/gif">
-                                <label for="characterImageInput" class="character-image-file-label">Choose Image</label>
-                                <button type="button" id="uploadCharacterImageBtn" class="character-image-upload-btn" style="display: none;">Upload Image</button>
-                                <button type="button" id="removeCharacterImageBtn" class="character-image-remove-btn">Remove Image</button>
-                            </div>
-                        </div>
+                    <div class="form-group">
+                        <label for="playerName">Player Name *</label>
+                        <input type="text" id="playerName" name="playerName" required>
                     </div>
                 </div>
                 
-                <div class="row g-3">
-                    <div class="col-md-6">
-                        <div class="mb-3">
-                            <div class="d-flex align-items-center gap-2">
-                                <label for="clan" class="form-label mb-0">Clan *</label>
-                                <button type="button" class="help-btn" data-action="show-clan-guide" title="View Clan Guide">
-                                    <span>?</span>
-                                </button>
-                            </div>
-                            <select id="clan" name="clan" class="form-select" required>
-                                <option value="">Select Clan...</option>
-                                <option value="Assamite">⚔️ Assamite</option>
-                                <option value="Brujah">✊ Brujah</option>
-                                <option value="Followers of Set">🐍 Followers of Set</option>
-                                <option value="Daughter of Cacophony">🎶 Daughter of Cacophony</option>
-                                <option value="Gangrel">🐺 Gangrel</option>
-                                <option value="Giovanni">💀 Giovanni</option>
-                                <option value="Lasombra">🌑 Lasombra</option>
-                                <option value="Malkavian">🎭 Malkavian</option>
-                                <option value="Nosferatu">🦇 Nosferatu</option>
-                                <option value="Ravnos">🎪 Ravnos</option>
-                                <option value="Toreador">🌹 Toreador</option>
-                                <option value="Tremere">⭐ Tremere</option>
-                                <option value="Tzimisce">🧬 Tzimisce</option>
-                                <option value="Ventrue">👑 Ventrue</option>
-                                <option value="Caitiff">❓ Caitiff</option>
-                                <option value="Ghoul">🩸 Ghoul</option>
-                            </select>
-                        </div>
+                <div class="form-group">
+                    <label for="chronicle">Chronicle</label>
+                    <input type="text" id="chronicle" name="chronicle" value="Valley by Night">
+                    <div class="helper-text">Name of the campaign/game</div>
+                </div>
+                
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="nature">Nature *</label>
+                        <select id="nature" name="nature" required>
+                            <option value="">Select Nature...</option>
+                            <option value="Architect">Architect</option>
+                            <option value="Autist">Autist</option>
+                            <option value="Bon Vivant">Bon Vivant</option>
+                            <option value="Bravo">Bravo</option>
+                            <option value="Caregiver">Caregiver</option>
+                            <option value="Capitalist">Capitalist</option>
+                            <option value="Competitor">Competitor</option>
+                            <option value="Conformist">Conformist</option>
+                            <option value="Conniver">Conniver</option>
+                            <option value="Curmudgeon">Curmudgeon</option>
+                            <option value="Deviant">Deviant</option>
+                            <option value="Director">Director</option>
+                            <option value="Fanatic">Fanatic</option>
+                            <option value="Gallant">Gallant</option>
+                            <option value="Judge">Judge</option>
+                            <option value="Loner">Loner</option>
+                            <option value="Martyr">Martyr</option>
+                            <option value="Masochist">Masochist</option>
+                            <option value="Monster">Monster</option>
+                            <option value="Pedagogue">Pedagogue</option>
+                            <option value="Penitent">Penitent</option>
+                            <option value="Perfectionist">Perfectionist</option>
+                            <option value="Rebel">Rebel</option>
+                            <option value="Rogue">Rogue</option>
+                            <option value="Survivor">Survivor</option>
+                            <option value="Thrill-Seeker">Thrill-Seeker</option>
+                            <option value="Traditionalist">Traditionalist</option>
+                            <option value="Visionary">Visionary</option>
+                        </select>
+                        <div class="helper-text">True personality</div>
                     </div>
                     
-                    <div class="col-md-6">
-                        <div class="mb-3">
-                            <label for="generation" class="form-label">Generation *</label>
-                            <select id="generation" name="generation" class="form-select" required>
-                                <option value="">Select Generation...</option>
-                                <option value="13" selected>13th Generation</option>
-                                <option value="12">12th Generation</option>
-                                <option value="11">11th Generation</option>
-                                <option value="10">10th Generation</option>
-                                <option value="9">9th Generation</option>
-                                <option value="8">8th Generation</option>
-                                <option value="7">7th Generation</option>
-                            </select>
-                            <div class="helper-text">Distance from Caine</div>
-                        </div>
+                    <div class="form-group">
+                        <label for="demeanor">Demeanor *</label>
+                        <select id="demeanor" name="demeanor" required>
+                            <option value="">Select Demeanor...</option>
+                            <option value="Architect">Architect</option>
+                            <option value="Autist">Autist</option>
+                            <option value="Bon Vivant">Bon Vivant</option>
+                            <option value="Bravo">Bravo</option>
+                            <option value="Caregiver">Caregiver</option>
+                            <option value="Capitalist">Capitalist</option>
+                            <option value="Competitor">Competitor</option>
+                            <option value="Conformist">Conformist</option>
+                            <option value="Conniver">Conniver</option>
+                            <option value="Curmudgeon">Curmudgeon</option>
+                            <option value="Deviant">Deviant</option>
+                            <option value="Director">Director</option>
+                            <option value="Fanatic">Fanatic</option>
+                            <option value="Gallant">Gallant</option>
+                            <option value="Judge">Judge</option>
+                            <option value="Loner">Loner</option>
+                            <option value="Martyr">Martyr</option>
+                            <option value="Masochist">Masochist</option>
+                            <option value="Monster">Monster</option>
+                            <option value="Pedagogue">Pedagogue</option>
+                            <option value="Penitent">Penitent</option>
+                            <option value="Perfectionist">Perfectionist</option>
+                            <option value="Rebel">Rebel</option>
+                            <option value="Rogue">Rogue</option>
+                            <option value="Survivor">Survivor</option>
+                            <option value="Thrill-Seeker">Thrill-Seeker</option>
+                            <option value="Traditionalist">Traditionalist</option>
+                            <option value="Visionary">Visionary</option>
+                        </select>
+                        <div class="helper-text">Public personality</div>
                     </div>
                 </div>
                 
-                <div class="row g-3">
-                    <div class="col-md-6">
-                        <div class="mb-3">
-                            <label for="nature" class="form-label">Nature *</label>
-                            <select id="nature" name="nature" class="form-select" required>
-                                <option value="">Select Nature...</option>
-                                <?php foreach ($archetypes as $archetype): ?>
-                                    <option value="<?php echo htmlspecialchars($archetype); ?>"><?php echo htmlspecialchars($archetype); ?></option>
-                                <?php endforeach; ?>
-                            </select>
-                            <div class="helper-text">True personality</div>
-                        </div>
-                    </div>
-                    
-                    <div class="col-md-6">
-                        <div class="mb-3">
-                            <label for="demeanor" class="form-label">Demeanor *</label>
-                            <select id="demeanor" name="demeanor" class="form-select" required>
-                                <option value="">Select Demeanor...</option>
-                                <?php foreach ($archetypes as $archetype): ?>
-                                    <option value="<?php echo htmlspecialchars($archetype); ?>"><?php echo htmlspecialchars($archetype); ?></option>
-                                <?php endforeach; ?>
-                            </select>
-                            <div class="helper-text">Public personality</div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="mb-3">
-                    <label for="concept" class="form-label">Concept *</label>
-                    <input type="text" id="concept" name="concept" class="form-control" required>
+                <div class="form-group">
+                    <label for="concept">Concept *</label>
+                    <input type="text" id="concept" name="concept" required>
                     <div class="helper-text">Brief description of character concept (e.g., "Street Gang Leader", "Tortured Artist")</div>
                 </div>
                 
-                <div class="mb-3">
-                    <label for="sire" class="form-label">Sire</label>
-                    <input type="text" id="sire" name="sire" class="form-control">
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="clan">Clan *</label>
+                        <select id="clan" name="clan" required>
+                            <option value="">Select Clan...</option>
+                            <option value="Assamite">Assamite</option>
+                            <option value="Brujah">Brujah</option>
+                            <option value="Followers of Set">Followers of Set</option>
+                            <option value="Gangrel">Gangrel</option>
+                            <option value="Giovanni">Giovanni</option>
+                            <option value="Lasombra">Lasombra</option>
+                            <option value="Malkavian">Malkavian</option>
+                            <option value="Nosferatu">Nosferatu</option>
+                            <option value="Ravnos">Ravnos</option>
+                            <option value="Toreador">Toreador</option>
+                            <option value="Tremere">Tremere</option>
+                            <option value="Tzimisce">Tzimisce</option>
+                            <option value="Ventrue">Ventrue</option>
+                            <option value="Caitiff">Caitiff</option>
+                        </select>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="generation">Generation *</label>
+                        <select id="generation" name="generation" required>
+                            <option value="">Select Generation...</option>
+                            <option value="13" selected>13th Generation</option>
+                            <option value="12">12th Generation</option>
+                            <option value="11">11th Generation</option>
+                            <option value="10">10th Generation</option>
+                            <option value="9">9th Generation</option>
+                            <option value="8">8th Generation</option>
+                            <option value="7">7th Generation</option>
+                        </select>
+                        <div class="helper-text">Distance from Caine</div>
+                    </div>
+                </div>
+                
+                <div class="form-group">
+                    <label for="sire">Sire</label>
+                    <input type="text" id="sire" name="sire">
                     <div class="helper-text">Name of vampire who embraced this character</div>
                 </div>
                 
-                
-                <!-- Health Levels & Willpower Display -->
-                <div class="mb-3">
-                    <label class="form-label">Health Levels & Willpower</label>
-                    <div class="health-willpower-display">
-                        <!-- Health Levels -->
-                        <div class="virtue-section">
-                            <div class="virtue-label">Health Levels</div>
-                            <div class="virtue-bars">
-                                <div class="virtue-progress-container">
-                                    <div class="virtue-progress-fill" id="healthProgress"></div>
-                                    <div class="virtue-level-markers" id="healthMarkers"></div>
-                                </div>
-                                <span class="virtue-value" id="healthValue">7</span>/7
-                            </div>
-                        </div>
-                        
-                        <!-- Willpower -->
-                        <div class="virtue-section">
-                            <div class="virtue-label">Willpower</div>
-                            <div class="virtue-bars">
-                                <div class="virtue-progress-container">
-                                    <div class="virtue-progress-fill" id="willpowerProgress"></div>
-                                    <div class="virtue-level-markers" id="willpowerMarkers"></div>
-                                </div>
-                                <span class="virtue-value" id="willpowerValue">5</span>/5
-                            </div>
-                        </div>
+                <div class="form-group">
+                    <div class="checkbox-group">
+                        <input type="checkbox" id="pc" name="pc" checked>
+                        <label for="pc" style="margin: 0;">Player Character (PC)</label>
                     </div>
+                    <div class="helper-text">Uncheck if this is an NPC</div>
                 </div>
                 
-                <div class="d-flex gap-2 justify-content-between">
-                    <button type="button" class="btn btn-secondary" disabled>← Previous</button>
-                    <button type="button" class="save-btn btn btn-primary" data-action="save">💾 Save Character</button>
-                    <button type="button" class="nav-btn btn btn-secondary" data-action="next">Next →</button>
-                </div>
-                    </div>
+                <div class="button-group">
+                    <button type="button" disabled>← Previous</button>
+                    <button type="button" class="save-btn" onclick="saveCharacter()" disabled>💾 Save Character</button>
+                    <button type="button" onclick="showTab(1)">Next →</button>
                 </div>
             </div>
             
             <!-- Tab 2: Traits -->
-            <div class="tab-content" id="traitsTab">
-                <div class="card">
-                    <div class="card-header">
-                        <h2 class="card-title">Traits</h2>
-                        <p class="card-subtitle">Distribute points across Physical, Social, and Mental attributes</p>
-                    </div>
-                    <div class="card-body">
+            <div class="tab-content" id="tab1">
+                <h2 style="color: #8b0000; margin-bottom: 25px;">Traits</h2>
+                
                 <div class="info-box">
-                    <strong>Trait Point Distribution:</strong> You have 15 free trait points to distribute across three categories.
+                    <strong>Trait Selection:</strong> Choose your traits from the lists below.
                     <ul>
-                        <li><strong>One category gets 7 free points</strong></li>
-                        <li><strong>Another category gets 5 free points</strong></li>
-                        <li><strong>The third category gets 3 free points</strong></li>
-                        <li>You can only select up to your allocated free points per category</li>
-                        <li>No additional traits beyond your free points during character creation</li>
+                        <li><strong>First 7 traits</strong> in each category are <strong>FREE</strong></li>
+                        <li>Traits 8-10 cost <strong>4 XP each</strong></li>
+                        <li>Maximum 10 traits per category at character creation</li>
                         <li><strong>You can select the same trait multiple times</strong> - click the same trait button repeatedly</li>
                         <li><strong>Remove traits anytime</strong> - click the × button on any selected trait to remove it</li>
                         <li><strong>Negative traits give +4 XP each</strong> - select from the red negative trait sections below</li>
+                        <li>Each selection counts toward your trait total and XP cost</li>
                     </ul>
-                </div>
-                
-                <!-- Point Distribution Interface -->
-                <div class="point-distribution">
-                    <h3>Distribute Your 15 Free Trait Points</h3>
-                    <div class="distribution-options">
-                        <div class="quick-select">
-                            <h4>Quick Select:</h4>
-                            <button type="button" class="dist-btn" data-dist="physical-primary">Physical Primary (7/5/3)</button>
-                            <button type="button" class="dist-btn" data-dist="social-primary">Social Primary (7/5/3)</button>
-                            <button type="button" class="dist-btn" data-dist="mental-primary">Mental Primary (7/5/3)</button>
-                        </div>
-                        <div class="manual-distribution">
-                            <h4>Manual Distribution:</h4>
-                            <div class="dist-controls">
-                                <div class="dist-control">
-                                    <label>Physical:</label>
-                                    <select id="physicalPoints" class="point-select form-select form-select-sm">
-                                        <option value="7">7 points</option>
-                                        <option value="5">5 points</option>
-                                        <option value="3">3 points</option>
-                                    </select>
-                                </div>
-                                <div class="dist-control">
-                                    <label>Social:</label>
-                                    <select id="socialPoints" class="point-select form-select form-select-sm">
-                                        <option value="5">5 points</option>
-                                        <option value="7">7 points</option>
-                                        <option value="3">3 points</option>
-                                    </select>
-                                </div>
-                                <div class="dist-control">
-                                    <label>Mental:</label>
-                                    <select id="mentalPoints" class="point-select form-select form-select-sm">
-                                        <option value="3">3 points</option>
-                                        <option value="7">7 points</option>
-                                        <option value="5">5 points</option>
-                                    </select>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="distribution-status">
-                        <span id="distributionStatus">Current: Physical(7), Social(5), Mental(3)</span>
-                    </div>
                 </div>
                 
                 <!-- Physical Traits -->
@@ -651,7 +364,7 @@ if (!$isModal) {
                         <div class="trait-progress">
                             <div class="trait-progress-label">
                                 <span><span id="physicalCountDisplay">0</span> selected</span>
-                                <span><span id="physicalFreeDisplay">7</span> maximum</span>
+                                <span>7 required | 10 maximum</span>
                             </div>
                             <div class="trait-progress-bar">
                                 <div class="trait-progress-fill incomplete" id="physicalProgressFill" style="width: 0%;">
@@ -662,27 +375,47 @@ if (!$isModal) {
                     </div>
                     
                     <div class="trait-options" id="physicalOptions">
-                        <button type="button" class="trait-option-btn" data-category="Physical" data-trait="Agile">Agile</button>
-                        <button type="button" class="trait-option-btn" data-category="Physical" data-trait="Brawny">Brawny</button>
-                        <button type="button" class="trait-option-btn" data-category="Physical" data-trait="Brutal">Brutal</button>
-                        <button type="button" class="trait-option-btn" data-category="Physical" data-trait="Dexterous">Dexterous</button>
-                        <button type="button" class="trait-option-btn" data-category="Physical" data-trait="Enduring">Enduring</button>
-                        <button type="button" class="trait-option-btn" data-category="Physical" data-trait="Energetic">Energetic</button>
-                        <button type="button" class="trait-option-btn" data-category="Physical" data-trait="Ferocious">Ferocious</button>
-                        <button type="button" class="trait-option-btn" data-category="Physical" data-trait="Graceful">Graceful</button>
-                        <button type="button" class="trait-option-btn" data-category="Physical" data-trait="Lithe">Lithe</button>
-                        <button type="button" class="trait-option-btn" data-category="Physical" data-trait="Nimble">Nimble</button>
-                        <button type="button" class="trait-option-btn" data-category="Physical" data-trait="Quick">Quick</button>
-                        <button type="button" class="trait-option-btn" data-category="Physical" data-trait="Resilient">Resilient</button>
-                        <button type="button" class="trait-option-btn" data-category="Physical" data-trait="Robust">Robust</button>
-                        <button type="button" class="trait-option-btn" data-category="Physical" data-trait="Rugged">Rugged</button>
-                        <button type="button" class="trait-option-btn" data-category="Physical" data-trait="Stalwart">Stalwart</button>
-                        <button type="button" class="trait-option-btn" data-category="Physical" data-trait="Steady">Steady</button>
-                        <button type="button" class="trait-option-btn" data-category="Physical" data-trait="Tenacious">Tenacious</button>
-                        <button type="button" class="trait-option-btn" data-category="Physical" data-trait="Tireless">Tireless</button>
-                        <button type="button" class="trait-option-btn" data-category="Physical" data-trait="Tough">Tough</button>
-                        <button type="button" class="trait-option-btn" data-category="Physical" data-trait="Vigorous">Vigorous</button>
-                        <button type="button" class="trait-option-btn" data-category="Physical" data-trait="Wiry">Wiry</button>
+                        <!-- Agility & Speed -->
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Physical', 'Agile')">Agile</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Physical', 'Lithe')">Lithe</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Physical', 'Nimble')">Nimble</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Physical', 'Quick')">Quick</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Physical', 'Spry')">Spry</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Physical', 'Graceful')">Graceful</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Physical', 'Slender')">Slender</button>
+                        
+                        <!-- Strength & Endurance -->
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Physical', 'Strong')">Strong</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Physical', 'Hardy')">Hardy</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Physical', 'Tough')">Tough</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Physical', 'Resilient')">Resilient</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Physical', 'Sturdy')">Sturdy</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Physical', 'Vigorous')">Vigorous</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Physical', 'Burly')">Burly</button>
+                        
+                        <!-- Dexterity & Coordination -->
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Physical', 'Coordinated')">Coordinated</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Physical', 'Precise')">Precise</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Physical', 'Steady-handed')">Steady-handed</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Physical', 'Sleek')">Sleek</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Physical', 'Flexible')">Flexible</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Physical', 'Balanced')">Balanced</button>
+                        
+                        <!-- Reflexes & Awareness -->
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Physical', 'Alert')">Alert</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Physical', 'Sharp-eyed')">Sharp-eyed</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Physical', 'Quick-reflexed')">Quick-reflexed</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Physical', 'Perceptive')">Perceptive</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Physical', 'Reactive')">Reactive</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Physical', 'Observant')">Observant</button>
+                        
+                        <!-- Appearance / Presence of Body -->
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Physical', 'Athletic')">Athletic</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Physical', 'Well-built')">Well-built</button>
+                        
+                        <!-- Legacy traits -->
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Physical', 'Fast')">Fast</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Physical', 'Muscular')">Muscular</button>
                     </div>
                     
                     <div class="trait-list" id="physicalTraitList">
@@ -692,16 +425,9 @@ if (!$isModal) {
                     <div class="negative-traits-section">
                         <h4>Physical Negative Traits (+4 XP each)</h4>
                         <div class="trait-options" id="physicalNegativeOptions">
-                            <button type="button" class="trait-option-btn negative" data-category="Physical" data-trait="Clumsy">Clumsy</button>
-                            <button type="button" class="trait-option-btn negative" data-category="Physical" data-trait="Cowardly">Cowardly</button>
-                            <button type="button" class="trait-option-btn negative" data-category="Physical" data-trait="Decrepit">Decrepit</button>
-                            <button type="button" class="trait-option-btn negative" data-category="Physical" data-trait="Delicate">Delicate</button>
-                            <button type="button" class="trait-option-btn negative" data-category="Physical" data-trait="Docile">Docile</button>
-                            <button type="button" class="trait-option-btn negative" data-category="Physical" data-trait="Flabby">Flabby</button>
-                            <button type="button" class="trait-option-btn negative" data-category="Physical" data-trait="Lame">Lame</button>
-                            <button type="button" class="trait-option-btn negative" data-category="Physical" data-trait="Lethargic">Lethargic</button>
-                            <button type="button" class="trait-option-btn negative" data-category="Physical" data-trait="Puny">Puny</button>
-                            <button type="button" class="trait-option-btn negative" data-category="Physical" data-trait="Sickly">Sickly</button>
+                            <button type="button" class="trait-option-btn negative" onclick="selectNegativeTrait('Physical', 'Frail')">Frail</button>
+                            <button type="button" class="trait-option-btn negative" onclick="selectNegativeTrait('Physical', 'Slow')">Slow</button>
+                            <button type="button" class="trait-option-btn negative" onclick="selectNegativeTrait('Physical', 'Weak')">Weak</button>
                         </div>
                         <div class="trait-list" id="physicalNegativeTraitList">
                         </div>
@@ -715,7 +441,7 @@ if (!$isModal) {
                         <div class="trait-progress">
                             <div class="trait-progress-label">
                                 <span><span id="socialCountDisplay">0</span> selected</span>
-                                <span><span id="socialFreeDisplay">5</span> maximum</span>
+                                <span>7 required | 10 maximum</span>
                             </div>
                             <div class="trait-progress-bar">
                                 <div class="trait-progress-fill incomplete" id="socialProgressFill" style="width: 0%;">
@@ -726,27 +452,47 @@ if (!$isModal) {
                     </div>
                     
                     <div class="trait-options" id="socialOptions">
-                        <button type="button" class="trait-option-btn" data-category="Social" data-trait="Alluring">Alluring</button>
-                        <button type="button" class="trait-option-btn" data-category="Social" data-trait="Beguiling">Beguiling</button>
-                        <button type="button" class="trait-option-btn" data-category="Social" data-trait="Charismatic">Charismatic</button>
-                        <button type="button" class="trait-option-btn" data-category="Social" data-trait="Charming">Charming</button>
-                        <button type="button" class="trait-option-btn" data-category="Social" data-trait="Commanding">Commanding</button>
-                        <button type="button" class="trait-option-btn" data-category="Social" data-trait="Compassionate">Compassionate</button>
-                        <button type="button" class="trait-option-btn" data-category="Social" data-trait="Dignified">Dignified</button>
-                        <button type="button" class="trait-option-btn" data-category="Social" data-trait="Diplomatic">Diplomatic</button>
-                        <button type="button" class="trait-option-btn" data-category="Social" data-trait="Elegant">Elegant</button>
-                        <button type="button" class="trait-option-btn" data-category="Social" data-trait="Eloquent">Eloquent</button>
-                        <button type="button" class="trait-option-btn" data-category="Social" data-trait="Empathetic">Empathetic</button>
-                        <button type="button" class="trait-option-btn" data-category="Social" data-trait="Expressive">Expressive</button>
-                        <button type="button" class="trait-option-btn" data-category="Social" data-trait="Friendly">Friendly</button>
-                        <button type="button" class="trait-option-btn" data-category="Social" data-trait="Genial">Genial</button>
-                        <button type="button" class="trait-option-btn" data-category="Social" data-trait="Gorgeous">Gorgeous</button>
-                        <button type="button" class="trait-option-btn" data-category="Social" data-trait="Ingratiating">Ingratiating</button>
-                        <button type="button" class="trait-option-btn" data-category="Social" data-trait="Intimidating">Intimidating</button>
-                        <button type="button" class="trait-option-btn" data-category="Social" data-trait="Magnetic">Magnetic</button>
-                        <button type="button" class="trait-option-btn" data-category="Social" data-trait="Persuasive">Persuasive</button>
-                        <button type="button" class="trait-option-btn" data-category="Social" data-trait="Seductive">Seductive</button>
-                        <button type="button" class="trait-option-btn" data-category="Social" data-trait="Witty">Witty</button>
+                        <!-- Charm & Charisma -->
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Social', 'Charming')">Charming</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Social', 'Persuasive')">Persuasive</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Social', 'Charismatic')">Charismatic</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Social', 'Graceful')">Graceful</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Social', 'Poised')">Poised</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Social', 'Attractive')">Attractive</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Social', 'Handsome')">Handsome</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Social', 'Beautiful')">Beautiful</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Social', 'Seductive')">Seductive</button>
+                        
+                        <!-- Manipulation & Deception -->
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Social', 'Cunning')">Cunning</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Social', 'Deceptive')">Deceptive</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Social', 'Manipulative')">Manipulative</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Social', 'Subtle')">Subtle</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Social', 'Diplomatic')">Diplomatic</button>
+                        
+                        <!-- Personality / Presence -->
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Social', 'Sociable')">Sociable</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Social', 'Friendly')">Friendly</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Social', 'Outgoing')">Outgoing</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Social', 'Bold')">Bold</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Social', 'Confident')">Confident</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Social', 'Stubborn')">Stubborn</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Social', 'Witty')">Witty</button>
+                        
+                        <!-- Leadership & Influence -->
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Social', 'Commanding')">Commanding</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Social', 'Inspiring')">Inspiring</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Social', 'Assertive')">Assertive</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Social', 'Authoritative')">Authoritative</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Social', 'Motivating')">Motivating</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Social', 'Loyal')">Loyal</button>
+                        
+                        <!-- Legacy traits -->
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Social', 'Elegant')">Elegant</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Social', 'Expressive')">Expressive</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Social', 'Striking')">Striking</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Social', 'Imposing')">Imposing</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Social', 'Intimidating')">Intimidating</button>
                     </div>
                     
                     <div class="trait-list" id="socialTraitList">
@@ -756,16 +502,10 @@ if (!$isModal) {
                     <div class="negative-traits-section">
                         <h4>Social Negative Traits (+4 XP each)</h4>
                         <div class="trait-options" id="socialNegativeOptions">
-                            <button type="button" class="trait-option-btn negative" data-category="Social" data-trait="Bestial">Bestial</button>
-                            <button type="button" class="trait-option-btn negative" data-category="Social" data-trait="Callous">Callous</button>
-                            <button type="button" class="trait-option-btn negative" data-category="Social" data-trait="Condescending">Condescending</button>
-                            <button type="button" class="trait-option-btn negative" data-category="Social" data-trait="Dull">Dull</button>
-                            <button type="button" class="trait-option-btn negative" data-category="Social" data-trait="Naive">Naive</button>
-                            <button type="button" class="trait-option-btn negative" data-category="Social" data-trait="Obnoxious">Obnoxious</button>
-                            <button type="button" class="trait-option-btn negative" data-category="Social" data-trait="Repugnant">Repugnant</button>
-                            <button type="button" class="trait-option-btn negative" data-category="Social" data-trait="Shy">Shy</button>
-                            <button type="button" class="trait-option-btn negative" data-category="Social" data-trait="Tactless">Tactless</button>
-                            <button type="button" class="trait-option-btn negative" data-category="Social" data-trait="Untrustworthy">Untrustworthy</button>
+                            <button type="button" class="trait-option-btn negative" onclick="selectNegativeTrait('Social', 'Ugly')">Ugly</button>
+                            <button type="button" class="trait-option-btn negative" onclick="selectNegativeTrait('Social', 'Awkward')">Awkward</button>
+                            <button type="button" class="trait-option-btn negative" onclick="selectNegativeTrait('Social', 'Shy')">Shy</button>
+                            <button type="button" class="trait-option-btn negative" onclick="selectNegativeTrait('Social', 'Rude')">Rude</button>
                         </div>
                         <div class="trait-list" id="socialNegativeTraitList">
                         </div>
@@ -779,7 +519,7 @@ if (!$isModal) {
                         <div class="trait-progress">
                             <div class="trait-progress-label">
                                 <span><span id="mentalCountDisplay">0</span> selected</span>
-                                <span><span id="mentalFreeDisplay">3</span> maximum</span>
+                                <span>7 required | 10 maximum</span>
                             </div>
                             <div class="trait-progress-bar">
                                 <div class="trait-progress-fill incomplete" id="mentalProgressFill" style="width: 0%;">
@@ -790,28 +530,54 @@ if (!$isModal) {
                     </div>
                     
                     <div class="trait-options" id="mentalOptions">
-                        <button type="button" class="trait-option-btn" data-category="Mental" data-trait="Alert">Alert</button>
-                        <button type="button" class="trait-option-btn" data-category="Mental" data-trait="Attentive">Attentive</button>
-                        <button type="button" class="trait-option-btn" data-category="Mental" data-trait="Astute">Astute</button>
-                        <button type="button" class="trait-option-btn" data-category="Mental" data-trait="Calm">Calm</button>
-                        <button type="button" class="trait-option-btn" data-category="Mental" data-trait="Clever">Clever</button>
-                        <button type="button" class="trait-option-btn" data-category="Mental" data-trait="Creative">Creative</button>
-                        <button type="button" class="trait-option-btn" data-category="Mental" data-trait="Cunning">Cunning</button>
-                        <button type="button" class="trait-option-btn" data-category="Mental" data-trait="Dedicated">Dedicated</button>
-                        <button type="button" class="trait-option-btn" data-category="Mental" data-trait="Determined">Determined</button>
-                        <button type="button" class="trait-option-btn" data-category="Mental" data-trait="Discerning">Discerning</button>
-                        <button type="button" class="trait-option-btn" data-category="Mental" data-trait="Disciplined">Disciplined</button>
-                        <button type="button" class="trait-option-btn" data-category="Mental" data-trait="Insightful">Insightful</button>
-                        <button type="button" class="trait-option-btn" data-category="Mental" data-trait="Intuitive">Intuitive</button>
-                        <button type="button" class="trait-option-btn" data-category="Mental" data-trait="Knowledgeable">Knowledgeable</button>
-                        <button type="button" class="trait-option-btn" data-category="Mental" data-trait="Observant">Observant</button>
-                        <button type="button" class="trait-option-btn" data-category="Mental" data-trait="Patient">Patient</button>
-                        <button type="button" class="trait-option-btn" data-category="Mental" data-trait="Rational">Rational</button>
-                        <button type="button" class="trait-option-btn" data-category="Mental" data-trait="Reflective">Reflective</button>
-                        <button type="button" class="trait-option-btn" data-category="Mental" data-trait="Shrewd">Shrewd</button>
-                        <button type="button" class="trait-option-btn" data-category="Mental" data-trait="Vigilant">Vigilant</button>
-                        <button type="button" class="trait-option-btn" data-category="Mental" data-trait="Wily">Wily</button>
-                        <button type="button" class="trait-option-btn" data-category="Mental" data-trait="Wise">Wise</button>
+                        <!-- Intelligence & Knowledge -->
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Mental', 'Intelligent')">Intelligent</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Mental', 'Clever')">Clever</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Mental', 'Learned')">Learned</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Mental', 'Analytical')">Analytical</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Mental', 'Scholarly')">Scholarly</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Mental', 'Logical')">Logical</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Mental', 'Resourceful')">Resourceful</button>
+                        
+                        <!-- Perception & Awareness -->
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Mental', 'Observant')">Observant</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Mental', 'Alert')">Alert</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Mental', 'Sharp-eyed')">Sharp-eyed</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Mental', 'Attentive')">Attentive</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Mental', 'Quick-minded')">Quick-minded</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Mental', 'Insightful')">Insightful</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Mental', 'Perceptive')">Perceptive</button>
+                        
+                        <!-- Memory & Recall -->
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Mental', 'Remembering')">Remembering</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Mental', 'Studious')">Studious</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Mental', 'Focused')">Focused</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Mental', 'Methodical')">Methodical</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Mental', 'Precise')">Precise</button>
+                        
+                        <!-- Problem Solving & Planning -->
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Mental', 'Strategic')">Strategic</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Mental', 'Calculating')">Calculating</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Mental', 'Cunning')">Cunning</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Mental', 'Patient')">Patient</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Mental', 'Determined')">Determined</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Mental', 'Adaptive')">Adaptive</button>
+                        
+                        <!-- Personality / Mental Flavor -->
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Mental', 'Curious')">Curious</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Mental', 'Witty')">Witty</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Mental', 'Shrewd')">Shrewd</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Mental', 'Eccentric')">Eccentric</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Mental', 'Philosophical')">Philosophical</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Mental', 'Persistent')">Persistent</button>
+                        
+                        <!-- Legacy traits -->
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Mental', 'Calm')">Calm</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Mental', 'Creative')">Creative</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Mental', 'Dedicated')">Dedicated</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Mental', 'Intuitive')">Intuitive</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Mental', 'Rational')">Rational</button>
+                        <button type="button" class="trait-option-btn" onclick="selectTrait('Mental', 'Wise')">Wise</button>
                     </div>
                     
                     <div class="trait-list" id="mentalTraitList">
@@ -821,2474 +587,99 @@ if (!$isModal) {
                     <div class="negative-traits-section">
                         <h4>Mental Negative Traits (+4 XP each)</h4>
                         <div class="trait-options" id="mentalNegativeOptions">
-                            <button type="button" class="trait-option-btn negative" data-category="Mental" data-trait="Forgetful">Forgetful</button>
-                            <button type="button" class="trait-option-btn negative" data-category="Mental" data-trait="Gullible">Gullible</button>
-                            <button type="button" class="trait-option-btn negative" data-category="Mental" data-trait="Ignorant">Ignorant</button>
-                            <button type="button" class="trait-option-btn negative" data-category="Mental" data-trait="Impatient">Impatient</button>
-                            <button type="button" class="trait-option-btn negative" data-category="Mental" data-trait="Oblivious">Oblivious</button>
-                            <button type="button" class="trait-option-btn negative" data-category="Mental" data-trait="Predictable">Predictable</button>
-                            <button type="button" class="trait-option-btn negative" data-category="Mental" data-trait="Shortsighted">Shortsighted</button>
-                            <button type="button" class="trait-option-btn negative" data-category="Mental" data-trait="Submissive">Submissive</button>
-                            <button type="button" class="trait-option-btn negative" data-category="Mental" data-trait="Violent">Violent</button>
-                            <button type="button" class="trait-option-btn negative" data-category="Mental" data-trait="Witless">Witless</button>
+                            <button type="button" class="trait-option-btn negative" onclick="selectNegativeTrait('Mental', 'Dull')">Dull</button>
+                            <button type="button" class="trait-option-btn negative" onclick="selectNegativeTrait('Mental', 'Scatterbrained')">Scatterbrained</button>
+                            <button type="button" class="trait-option-btn negative" onclick="selectNegativeTrait('Mental', 'Absent-minded')">Absent-minded</button>
+                            <button type="button" class="trait-option-btn negative" onclick="selectNegativeTrait('Mental', 'Distracted')">Distracted</button>
+                            <button type="button" class="trait-option-btn negative" onclick="selectNegativeTrait('Mental', 'Forgetful')">Forgetful</button>
+                            <button type="button" class="trait-option-btn negative" onclick="selectNegativeTrait('Mental', 'Rash')">Rash</button>
                         </div>
                         <div class="trait-list" id="mentalNegativeTraitList">
                         </div>
                     </div>
                 </div>
                 
-                <div class="d-flex gap-2 justify-content-between">
-                    <button type="button" class="nav-btn btn btn-secondary" data-action="previous">← Previous</button>
-                    <button type="button" class="save-btn btn btn-primary" data-action="save">💾 Save Character</button>
-                    <button type="button" class="nav-btn btn btn-secondary" data-action="next">Next →</button>
-                </div>
-                    </div>
+                <div class="button-group">
+                    <button type="button" onclick="showTab(0)">← Previous</button>
+                    <button type="button" class="save-btn" onclick="saveCharacter()" disabled>💾 Save Character</button>
+                    <button type="button" onclick="showTab(2)">Next →</button>
                 </div>
             </div>
             
             <!-- Tab 3: Abilities -->
-            <div class="tab-content" id="abilitiesTab">
-                <div class="card">
-                    <div class="card-header">
-                        <h2 class="card-title">Abilities</h2>
-                        <p class="card-subtitle">Choose your character's skills and talents</p>
-                    </div>
-                    <div class="card-body">
-                <div class="info-box">
-                    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-                        <div style="flex: 1;">
-                            <strong>Ability Selection:</strong> Choose your abilities from the lists below.
-                            <ul>
-                                <li><strong>First 3 ability dots</strong> in each category are <strong>FREE</strong></li>
-                                <li>Ability dots 4-5 cost <strong>2 XP each</strong></li>
-                                <li><strong>Maximum 5 dots per individual ability</strong> (e.g., Athletics 5, Brawl 3, etc.)</li>
-                                <li><strong>You can select the same ability multiple times</strong> - click the same ability button repeatedly to add dots</li>
-                                <li><strong>Remove ability dots anytime</strong> - click the × button on any selected ability to remove dots</li>
-                                <li>Each click adds 1 dot to that ability and counts toward your XP cost</li>
-                            </ul>
-                        </div>
-                        <button type="button" class="help-btn" data-action="show-discipline-guide" title="View Discipline-Ability Guide" data-bs-toggle="modal" data-bs-target="#clanGuideModal">
-                            <span>?</span>
-                        </button>
-                    </div>
-                </div>
+            <div class="tab-content" id="tab2">
+                <h2 style="color: #8b0000; margin-bottom: 25px;">Abilities</h2>
+                <p>Abilities section - Coming soon!</p>
                 
-                <!-- Physical Abilities -->
-                <div class="ability-section">
-                    <div class="ability-header">
-                        <h3>⚔️ Physical Abilities</h3>
-                        <div class="ability-progress">
-                            <div class="ability-progress-label">
-                                <span><span id="physicalAbilitiesCountDisplay">0</span> dots</span>
-                                <span>3 required | 5 max per ability</span>
-                            </div>
-                            <div class="ability-progress-bar">
-                                <div class="ability-progress-fill incomplete" id="physicalAbilitiesProgressFill" style="width: 0%;">
-                                    <div class="ability-progress-marker"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <div class="ability-options" id="physicalAbilitiesOptions">
-                        <?php foreach ($abilities_by_category['Physical'] as $ability): ?>
-                            <button type="button" class="ability-option-btn" data-category="Physical" data-ability="<?php echo htmlspecialchars($ability['name']); ?>"><?php echo htmlspecialchars($ability['name']); ?></button>
-                        <?php endforeach; ?>
-                    </div>
-                    
-                    <div class="ability-list" id="physicalAbilitiesList">
-                    </div>
-                </div>
-                
-                <!-- Social Abilities -->
-                <div class="ability-section">
-                    <div class="ability-header">
-                        <h3>💬 Social Abilities</h3>
-                        <div class="ability-progress">
-                            <div class="ability-progress-label">
-                                <span><span id="socialAbilitiesCountDisplay">0</span> dots</span>
-                                <span>3 required | 5 max per ability</span>
-                            </div>
-                            <div class="ability-progress-bar">
-                                <div class="ability-progress-fill incomplete" id="socialAbilitiesProgressFill" style="width: 0%;">
-                                    <div class="ability-progress-marker"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <div class="ability-options" id="socialAbilitiesOptions">
-                        <?php foreach ($abilities_by_category['Social'] as $ability): ?>
-                            <button type="button" class="ability-option-btn" data-category="Social" data-ability="<?php echo htmlspecialchars($ability['name']); ?>"><?php echo htmlspecialchars($ability['name']); ?></button>
-                        <?php endforeach; ?>
-                    </div>
-                    
-                    <div class="ability-list" id="socialAbilitiesList">
-                    </div>
-                </div>
-                
-                <!-- Mental Abilities -->
-                <div class="ability-section">
-                    <div class="ability-header">
-                        <h3>🧠 Mental Abilities</h3>
-                        <div class="ability-progress">
-                            <div class="ability-progress-label">
-                                <span><span id="mentalAbilitiesCountDisplay">0</span> dots</span>
-                                <span>3 required | 5 max per ability</span>
-                            </div>
-                            <div class="ability-progress-bar">
-                                <div class="ability-progress-fill incomplete" id="mentalAbilitiesProgressFill" style="width: 0%;">
-                                    <div class="ability-progress-marker"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <div class="ability-options" id="mentalAbilitiesOptions">
-                        <?php foreach ($abilities_by_category['Mental'] as $ability): ?>
-                            <button type="button" class="ability-option-btn" data-category="Mental" data-ability="<?php echo htmlspecialchars($ability['name']); ?>"><?php echo htmlspecialchars($ability['name']); ?></button>
-                        <?php endforeach; ?>
-                    </div>
-                    
-                    <div class="ability-list" id="mentalAbilitiesList">
-                    </div>
-                </div>
-                
-                <!-- Optional Abilities -->
-                <div class="ability-section">
-                    <div class="ability-header">
-                        <h3>🧩 Optional Abilities</h3>
-                        <div class="ability-progress">
-                            <div class="ability-progress-label">
-                                <span><span id="optionalAbilitiesCountDisplay">0</span> dots</span>
-                                <span>0 required | 5 max per ability</span>
-                            </div>
-                            <div class="ability-progress-bar">
-                                <div class="ability-progress-fill incomplete" id="optionalAbilitiesProgressFill" style="width: 0%;">
-                                    <div class="ability-progress-marker"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <div class="ability-options" id="optionalAbilitiesOptions">
-                        <?php foreach ($abilities_by_category['Optional'] as $ability): ?>
-                            <button type="button" class="ability-option-btn" data-category="Optional" data-ability="<?php echo htmlspecialchars($ability['name']); ?>"><?php echo htmlspecialchars($ability['name']); ?></button>
-                        <?php endforeach; ?>
-                    </div>
-                    
-                    <div class="ability-list" id="optionalAbilitiesList">
-                    </div>
-                </div>
-                
-                <div class="d-flex gap-2 justify-content-between">
-                    <button type="button" class="nav-btn btn btn-secondary" data-action="previous">← Previous</button>
-                    <button type="button" class="save-btn btn btn-primary" data-action="save">💾 Save Character</button>
-                    <button type="button" class="nav-btn btn btn-secondary" data-action="next">Next →</button>
-                </div>
-                    </div>
+                <div class="button-group">
+                    <button type="button" onclick="showTab(1)">← Previous</button>
+                    <button type="button" class="save-btn" onclick="saveCharacter()" disabled>💾 Save Character</button>
+                    <button type="button" onclick="showTab(3)">Next →</button>
                 </div>
             </div>
             
             <!-- Tab 4: Disciplines -->
-            <div class="tab-content" id="disciplinesTab">
-                <div class="card">
-                    <div class="card-header">
-                        <h2 class="card-title">Disciplines</h2>
-                        <p class="card-subtitle">Supernatural powers unique to your clan</p>
-                    </div>
-                    <div class="card-body">
-                <div class="info-box">
-                    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-                        <div style="flex: 1;">
-                            <strong>Discipline Selection:</strong> Choose your disciplines from the lists below.
-                            <ul>
-                                <li><strong>First 3 discipline dots</strong> are <strong>FREE</strong></li>
-                                <li>Discipline dots 4-5 cost <strong>3 XP each</strong></li>
-                                <li><strong>Maximum 5 dots per individual discipline</strong> (e.g., Potence 5, Presence 3, etc.)</li>
-                                <li><strong>You can select the same discipline multiple times</strong> - click the same discipline button repeatedly to add dots</li>
-                                <li><strong>Remove discipline dots anytime</strong> - click the × button on any selected discipline to remove dots</li>
-                                <li>Each click adds 1 dot to that discipline and counts toward your XP cost</li>
-                                <li><strong>Clan disciplines</strong> are marked with a special indicator</li>
-                            </ul>
-                        </div>
-                        <button type="button" class="help-btn" data-action="show-discipline-guide" title="View Discipline-Ability Guide" data-bs-toggle="modal" data-bs-target="#clanGuideModal">
-                            <span>?</span>
-                        </button>
-                    </div>
-                </div>
+            <div class="tab-content" id="tab3">
+                <h2 style="color: #8b0000; margin-bottom: 25px;">Disciplines</h2>
+                <p>Disciplines section - Coming soon!</p>
                 
-                <!-- Clan Disciplines -->
-                <div class="discipline-section">
-                    <div class="discipline-header">
-                        <h3>🏛️ Clan Disciplines</h3>
-                        <div class="discipline-progress">
-                            <div class="discipline-progress-label">
-                                <span><span id="clanDisciplinesCountDisplay">0</span> levels</span>
-                                <span>3 free levels at creation</span>
-                            </div>
-                            <div class="discipline-progress-bar">
-                                <div class="discipline-progress-fill incomplete" id="clanDisciplinesProgressFill" style="width: 0%;">
-                                    <div class="discipline-progress-marker"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <div class="discipline-options" id="clanDisciplinesOptions">
-                        <button type="button" class="discipline-option-btn clan" data-discipline="Animalism">Animalism</button>
-                        <button type="button" class="discipline-option-btn clan" data-discipline="Auspex">Auspex</button>
-                        <button type="button" class="discipline-option-btn clan" data-discipline="Celerity">Celerity</button>
-                        <button type="button" class="discipline-option-btn clan" data-discipline="Dominate">Dominate</button>
-                        <button type="button" class="discipline-option-btn clan" data-discipline="Fortitude">Fortitude</button>
-                        <button type="button" class="discipline-option-btn clan" data-discipline="Obfuscate">Obfuscate</button>
-                        <button type="button" class="discipline-option-btn clan" data-discipline="Potence">Potence</button>
-                        <button type="button" class="discipline-option-btn clan" data-discipline="Presence">Presence</button>
-                        <button type="button" class="discipline-option-btn clan" data-discipline="Protean">Protean</button>
-                    </div>
-                    
-                    <div class="discipline-list" id="clanDisciplinesList">
-                    </div>
-                </div>
-                
-                <!-- Blood Sorcery -->
-                <div class="discipline-section" data-category="BloodSorcery">
-                    <div class="discipline-header">
-                        <h3>🩸 Blood Sorcery</h3>
-                        <div class="discipline-progress">
-                            <div class="discipline-progress-label">
-                                <span><span id="bloodSorceryCountDisplay">0</span> levels</span>
-                                <span>3 free levels at creation</span>
-                            </div>
-                            <div class="discipline-progress-bar">
-                                <div class="discipline-progress-fill incomplete" id="bloodSorceryProgressFill" style="width: 0%;">
-                                    <div class="discipline-progress-marker"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <div class="discipline-options" id="bloodSorceryOptions">
-                        <button type="button" class="discipline-option-btn" data-discipline="Thaumaturgy">Thaumaturgy</button>
-                        <button type="button" class="discipline-option-btn" data-discipline="Necromancy">Necromancy</button>
-                        <button type="button" class="discipline-option-btn" data-discipline="Koldunic Sorcery">Koldunic Sorcery</button>
-                    </div>
-                    
-                    <div class="discipline-list" id="bloodSorceryList">
-                    </div>
-                </div>
-                
-                <!-- Advanced Disciplines -->
-                <div class="discipline-section" data-category="Advanced">
-                    <div class="discipline-header">
-                        <h3>⚡ Advanced Disciplines</h3>
-                        <div class="discipline-progress">
-                            <div class="discipline-progress-label">
-                                <span><span id="advancedDisciplinesCountDisplay">0</span> levels</span>
-                                <span>3 free levels at creation</span>
-                            </div>
-                            <div class="discipline-progress-bar">
-                                <div class="discipline-progress-fill incomplete" id="advancedDisciplinesProgressFill" style="width: 0%;">
-                                    <div class="discipline-progress-marker"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <div class="discipline-options" id="advancedDisciplinesOptions">
-                        <button type="button" class="discipline-option-btn" data-discipline="Obtenebration">Obtenebration</button>
-                        <button type="button" class="discipline-option-btn" data-discipline="Chimerstry">Chimerstry</button>
-                        <button type="button" class="discipline-option-btn" data-discipline="Dementation">Dementation</button>
-                        <button type="button" class="discipline-option-btn" data-discipline="Quietus">Quietus</button>
-                        <button type="button" class="discipline-option-btn" data-discipline="Vicissitude">Vicissitude</button>
-                        <button type="button" class="discipline-option-btn" data-discipline="Serpentis">Serpentis</button>
-                        <button type="button" class="discipline-option-btn" data-discipline="Daimoinon">Daimoinon</button>
-                        <button type="button" class="discipline-option-btn" data-discipline="Melpominee">Melpominee</button>
-                        <button type="button" class="discipline-option-btn" data-discipline="Valeren">Valeren</button>
-                        <button type="button" class="discipline-option-btn" data-discipline="Mortis">Mortis</button>
-                    </div>
-                    
-                    <div class="discipline-list" id="advancedDisciplinesList">
-                    </div>
-                </div>
-            
-            <!-- Discipline Power Popover (anchored next to button, compact header with close) -->
-            <div id="disciplinePopover" class="discipline-popover" style="display: none;">
-                <div class="popover-header">
-                    <span id="popoverTitle"></span>
-                    <button type="button" id="popoverClose" class="popover-close" aria-label="Close">×</button>
-                </div>
-                <div id="popoverPowers"></div>
-            </div>
-                
-                <div class="d-flex gap-2 justify-content-between">
-                    <button type="button" class="nav-btn btn btn-secondary" data-action="previous">← Previous</button>
-                    <button type="button" class="save-btn btn btn-primary" data-action="save">💾 Save Character</button>
-                    <button type="button" class="nav-btn btn btn-secondary" data-action="next">Next →</button>
-                </div>
-                    </div>
+                <div class="button-group">
+                    <button type="button" onclick="showTab(2)">← Previous</button>
+                    <button type="button" class="save-btn" onclick="saveCharacter()" disabled>💾 Save Character</button>
+                    <button type="button" onclick="showTab(4)">Next →</button>
                 </div>
             </div>
             
             <!-- Tab 5: Backgrounds -->
-            <div class="tab-content" id="backgroundsTab">
-                <div class="card">
-                    <div class="card-header">
-                        <h2 class="card-title">Backgrounds</h2>
-                        <p class="card-subtitle">Resources, allies, and connections</p>
-                    </div>
-                    <div class="card-body">
-                <p style="color: #666; margin-bottom: 20px;">Select your character's resources, connections, and social standing. Each background represents different types of influence and support available to your character.</p>
+            <div class="tab-content" id="tab4">
+                <h2 style="color: #8b0000; margin-bottom: 25px;">Backgrounds</h2>
+                <p>Backgrounds section - Coming soon!</p>
                 
-                <!-- Backgrounds Progress Summary -->
-                <div class="backgrounds-summary">
-                    <div class="summary-item">
-                        <span class="summary-label">Total Background Points:</span>
-                        <span class="summary-value" id="totalBackgroundsDisplay">0</span>
-                    </div>
-                    <div class="summary-item">
-                        <span class="summary-label">Free Points:</span>
-                        <span class="summary-value" id="freeBackgroundsDisplay">5</span>
-                    </div>
-                    <div class="summary-item">
-                        <span class="summary-label">XP Cost:</span>
-                        <span class="summary-value" id="backgroundsXpDisplay">0</span>
-                    </div>
-                </div>
-                
-                <!-- Auto-calculated Generation Background -->
-                <div class="background-section auto-calculated">
-                    <div class="background-header">
-                        <h3>🧬 Generation (Auto-calculated)</h3>
-                        <div class="background-progress">
-                            <div class="background-progress-label">
-                                <span><span id="generationCountDisplay">0</span> points</span>
-                            </div>
-                            <div class="background-progress-bar">
-                                <div class="background-progress-fill" id="generationProgressFill" style="width: 0%;">
-                                    <div class="background-progress-marker"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <p class="background-description">Your vampire generation background is automatically calculated from your Basic Info generation selection. Lower generation numbers (closer to Caine) provide more influence and status.</p>
-                    <div class="background-list" id="generationList">
-                        <div class="background-empty">Generation will be calculated from Basic Info</div>
-                    </div>
-                </div>
-                
-                <!-- Allies -->
-                <div class="background-section">
-                    <div class="background-header">
-                        <h3>🤝 Allies</h3>
-                        <div class="background-progress">
-                            <div class="background-progress-label">
-                                <span><span id="alliesCountDisplay">0</span> points</span>
-                            </div>
-                            <div class="background-progress-bar">
-                                <div class="background-progress-fill" id="alliesProgressFill" style="width: 0%;">
-                                    <div class="background-progress-marker"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <p class="background-description">Friends, contacts, and people who will help you. Each point represents a significant ally or group of allies.</p>
-                    <div class="background-options">
-                        <button type="button" class="background-option-btn" data-background="Allies" data-level="1">1</button>
-                        <button type="button" class="background-option-btn" data-background="Allies" data-level="2">2</button>
-                        <button type="button" class="background-option-btn" data-background="Allies" data-level="3">3</button>
-                        <button type="button" class="background-option-btn" data-background="Allies" data-level="4">4</button>
-                        <button type="button" class="background-option-btn" data-background="Allies" data-level="5">5</button>
-                    </div>
-                    <div class="background-list" id="alliesList"></div>
-                    <div class="background-details">
-                        <label for="alliesDetails">Additional Information:</label>
-                        <textarea id="alliesDetails" class="background-textarea" placeholder="Describe your allies (e.g., 'A D&D group that meets every Wednesday night', 'My old college friends who work in law enforcement')" rows="2"></textarea>
-                    </div>
-                </div>
-                
-                <!-- Contacts -->
-                <div class="background-section">
-                    <div class="background-header">
-                        <h3>📞 Contacts</h3>
-                        <div class="background-progress">
-                            <div class="background-progress-label">
-                                <span><span id="contactsCountDisplay">0</span> points</span>
-                            </div>
-                            <div class="background-progress-bar">
-                                <div class="background-progress-fill" id="contactsProgressFill" style="width: 0%;">
-                                    <div class="background-progress-marker"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <p class="background-description">Information networks, informants, and people who provide you with knowledge and intelligence.</p>
-                    <div class="background-options">
-                        <button type="button" class="background-option-btn" data-background="Contacts" data-level="1">1</button>
-                        <button type="button" class="background-option-btn" data-background="Contacts" data-level="2">2</button>
-                        <button type="button" class="background-option-btn" data-background="Contacts" data-level="3">3</button>
-                        <button type="button" class="background-option-btn" data-background="Contacts" data-level="4">4</button>
-                        <button type="button" class="background-option-btn" data-background="Contacts" data-level="5">5</button>
-                    </div>
-                    <div class="background-list" id="contactsList"></div>
-                    <div class="background-details">
-                        <label for="contactsDetails">Additional Information:</label>
-                        <textarea id="contactsDetails" class="background-textarea" placeholder="Describe your contacts (e.g., 'Police informant in downtown precinct', 'Journalist at the local newspaper')" rows="2"></textarea>
-                    </div>
-                </div>
-                
-                <!-- Fame -->
-                <div class="background-section">
-                    <div class="background-header">
-                        <h3>⭐ Fame</h3>
-                        <div class="background-progress">
-                            <div class="background-progress-label">
-                                <span><span id="fameCountDisplay">0</span> points</span>
-                            </div>
-                            <div class="background-progress-bar">
-                                <div class="background-progress-fill" id="fameProgressFill" style="width: 0%;">
-                                    <div class="background-progress-marker"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <p class="background-description">Public recognition, reputation, and celebrity status in mortal or Kindred society.</p>
-                    <div class="background-options">
-                        <button type="button" class="background-option-btn" data-background="Fame" data-level="1">1</button>
-                        <button type="button" class="background-option-btn" data-background="Fame" data-level="2">2</button>
-                        <button type="button" class="background-option-btn" data-background="Fame" data-level="3">3</button>
-                        <button type="button" class="background-option-btn" data-background="Fame" data-level="4">4</button>
-                        <button type="button" class="background-option-btn" data-background="Fame" data-level="5">5</button>
-                    </div>
-                    <div class="background-list" id="fameList"></div>
-                    <div class="background-details">
-                        <label for="fameDetails">Additional Information:</label>
-                        <textarea id="fameDetails" class="background-textarea" placeholder="Describe your fame (e.g., 'Local TV news anchor', 'Famous musician in the underground scene')" rows="2"></textarea>
-                    </div>
-                </div>
-                
-                
-                <!-- Herd -->
-                <div class="background-section">
-                    <div class="background-header">
-                        <h3>🩸 Herd</h3>
-                        <div class="background-progress">
-                            <div class="background-progress-label">
-                                <span><span id="herdCountDisplay">0</span> points</span>
-                            </div>
-                            <div class="background-progress-bar">
-                                <div class="background-progress-fill" id="herdProgressFill" style="width: 0%;">
-                                    <div class="background-progress-marker"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <p class="background-description">Regular sources of blood - people who willingly or unknowingly provide sustenance.</p>
-                    <div class="background-options">
-                        <button type="button" class="background-option-btn" data-background="Herd" data-level="1">1</button>
-                        <button type="button" class="background-option-btn" data-background="Herd" data-level="2">2</button>
-                        <button type="button" class="background-option-btn" data-background="Herd" data-level="3">3</button>
-                        <button type="button" class="background-option-btn" data-background="Herd" data-level="4">4</button>
-                        <button type="button" class="background-option-btn" data-background="Herd" data-level="5">5</button>
-                    </div>
-                    <div class="background-list" id="herdList"></div>
-                    <div class="background-details">
-                        <label for="herdDetails">Additional Information:</label>
-                        <textarea id="herdDetails" class="background-textarea" placeholder="Describe your herd (e.g., 'A D&D group that meets every Wednesday night', 'Regulars at the local coffee shop')" rows="2"></textarea>
-                    </div>
-                </div>
-                
-                <!-- Influence -->
-                <div class="background-section">
-                    <div class="background-header">
-                        <h3>🏛️ Influence</h3>
-                        <div class="background-progress">
-                            <div class="background-progress-label">
-                                <span><span id="influenceCountDisplay">0</span> points</span>
-                            </div>
-                            <div class="background-progress-bar">
-                                <div class="background-progress-fill" id="influenceProgressFill" style="width: 0%;">
-                                    <div class="background-progress-marker"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <p class="background-description">Political power, social influence, and ability to affect change in mortal or Kindred society.</p>
-                    <div class="background-options">
-                        <button type="button" class="background-option-btn" data-background="Influence" data-level="1">1</button>
-                        <button type="button" class="background-option-btn" data-background="Influence" data-level="2">2</button>
-                        <button type="button" class="background-option-btn" data-background="Influence" data-level="3">3</button>
-                        <button type="button" class="background-option-btn" data-background="Influence" data-level="4">4</button>
-                        <button type="button" class="background-option-btn" data-background="Influence" data-level="5">5</button>
-                    </div>
-                    <div class="background-list" id="influenceList"></div>
-                    <div class="background-details">
-                        <label for="influenceDetails">Additional Information:</label>
-                        <textarea id="influenceDetails" class="background-textarea" placeholder="Describe your influence (e.g., 'City council member', 'Union representative')" rows="2"></textarea>
-                    </div>
-                </div>
-                
-                <!-- Mentor -->
-                <div class="background-section">
-                    <div class="background-header">
-                        <h3>👨‍🏫 Mentor</h3>
-                        <div class="background-progress">
-                            <div class="background-progress-label">
-                                <span><span id="mentorCountDisplay">0</span> points</span>
-                            </div>
-                            <div class="background-progress-bar">
-                                <div class="background-progress-fill" id="mentorProgressFill" style="width: 0%;">
-                                    <div class="background-progress-marker"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <p class="background-description">A teacher, guide, or patron who provides knowledge, protection, and guidance.</p>
-                    <div class="background-options">
-                        <button type="button" class="background-option-btn" data-background="Mentor" data-level="1">1</button>
-                        <button type="button" class="background-option-btn" data-background="Mentor" data-level="2">2</button>
-                        <button type="button" class="background-option-btn" data-background="Mentor" data-level="3">3</button>
-                        <button type="button" class="background-option-btn" data-background="Mentor" data-level="4">4</button>
-                        <button type="button" class="background-option-btn" data-background="Mentor" data-level="5">5</button>
-                    </div>
-                    <div class="background-list" id="mentorList"></div>
-                    <div class="background-details">
-                        <label for="mentorDetails">Additional Information:</label>
-                        <textarea id="mentorDetails" class="background-textarea" placeholder="Describe your mentor (e.g., 'Elder Ventrue who taught me politics', 'Former military officer')" rows="2"></textarea>
-                    </div>
-                </div>
-                
-                <!-- Resources -->
-                <div class="background-section">
-                    <div class="background-header">
-                        <h3>💰 Resources</h3>
-                        <div class="background-progress">
-                            <div class="background-progress-label">
-                                <span><span id="resourcesCountDisplay">0</span> points</span>
-                            </div>
-                            <div class="background-progress-bar">
-                                <div class="background-progress-fill" id="resourcesProgressFill" style="width: 0%;">
-                                    <div class="background-progress-marker"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <p class="background-description">Money, property, equipment, and material wealth available to your character.</p>
-                    <div class="background-options">
-                        <button type="button" class="background-option-btn" data-background="Resources" data-level="1">1</button>
-                        <button type="button" class="background-option-btn" data-background="Resources" data-level="2">2</button>
-                        <button type="button" class="background-option-btn" data-background="Resources" data-level="3">3</button>
-                        <button type="button" class="background-option-btn" data-background="Resources" data-level="4">4</button>
-                        <button type="button" class="background-option-btn" data-background="Resources" data-level="5">5</button>
-                    </div>
-                    <div class="background-list" id="resourcesList"></div>
-                    <div class="background-details">
-                        <label for="resourcesDetails">Additional Information:</label>
-                        <textarea id="resourcesDetails" class="background-textarea" placeholder="Describe your resources (e.g., 'Inherited family business', 'Tech startup shares')" rows="2"></textarea>
-                    </div>
-                </div>
-                
-                <!-- Retainers -->
-                <div class="background-section">
-                    <div class="background-header">
-                        <h3>👥 Retainers</h3>
-                        <div class="background-progress">
-                            <div class="background-progress-label">
-                                <span><span id="retainersCountDisplay">0</span> points</span>
-                            </div>
-                            <div class="background-progress-bar">
-                                <div class="background-progress-fill" id="retainersProgressFill" style="width: 0%;">
-                                    <div class="background-progress-marker"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <p class="background-description">Servants, assistants, and loyal followers who serve your character.</p>
-                    <div class="background-options">
-                        <button type="button" class="background-option-btn" data-background="Retainers" data-level="1">1</button>
-                        <button type="button" class="background-option-btn" data-background="Retainers" data-level="2">2</button>
-                        <button type="button" class="background-option-btn" data-background="Retainers" data-level="3">3</button>
-                        <button type="button" class="background-option-btn" data-background="Retainers" data-level="4">4</button>
-                        <button type="button" class="background-option-btn" data-background="Retainers" data-level="5">5</button>
-                    </div>
-                    <div class="background-list" id="retainersList"></div>
-                    <div class="background-details">
-                        <label for="retainersDetails">Additional Information:</label>
-                        <textarea id="retainersDetails" class="background-textarea" placeholder="Describe your retainers (e.g., 'Personal assistant and bodyguard', 'Housekeeper and cook')" rows="2"></textarea>
-                    </div>
-                </div>
-                
-                <!-- Status -->
-                <div class="background-section">
-                    <div class="background-header">
-                        <h3>👑 Status</h3>
-                        <div class="background-progress">
-                            <div class="background-progress-label">
-                                <span><span id="statusCountDisplay">0</span> points</span>
-                            </div>
-                            <div class="background-progress-bar">
-                                <div class="background-progress-fill" id="statusProgressFill" style="width: 0%;">
-                                    <div class="background-progress-marker"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <p class="background-description">Social standing, rank, and position within Kindred society or mortal organizations.</p>
-                    <div class="background-options">
-                        <button type="button" class="background-option-btn" data-background="Status" data-level="1">1</button>
-                        <button type="button" class="background-option-btn" data-background="Status" data-level="2">2</button>
-                        <button type="button" class="background-option-btn" data-background="Status" data-level="3">3</button>
-                        <button type="button" class="background-option-btn" data-background="Status" data-level="4">4</button>
-                        <button type="button" class="background-option-btn" data-background="Status" data-level="5">5</button>
-                    </div>
-                    <div class="background-list" id="statusList"></div>
-                    <div class="background-details">
-                        <label for="statusDetails">Additional Information:</label>
-                        <textarea id="statusDetails" class="background-textarea" placeholder="Describe your status (e.g., 'Prince of the city', 'Police lieutenant')" rows="2"></textarea>
-                    </div>
-                </div>
-                
-                <div class="d-flex gap-2 justify-content-between">
-                    <button type="button" class="nav-btn btn btn-secondary" data-action="previous">← Previous</button>
-                    <button type="button" class="save-btn btn btn-primary" data-action="save">💾 Save Character</button>
-                    <button type="button" class="nav-btn btn btn-secondary" data-action="next">Next →</button>
-                </div>
-                    </div>
+                <div class="button-group">
+                    <button type="button" onclick="showTab(3)">← Previous</button>
+                    <button type="button" class="save-btn" onclick="saveCharacter()" disabled>💾 Save Character</button>
+                    <button type="button" onclick="showTab(5)">Next →</button>
                 </div>
             </div>
             
             <!-- Tab 6: Morality -->
-            <div class="tab-content" id="moralityTab">
-                <div class="card">
-                    <div class="card-header">
-                        <h2 class="card-title">Path of Humanity</h2>
-                        <p class="card-subtitle">Virtues, willpower, and moral compass</p>
-                    </div>
-                    <div class="card-body">
-                    <div class="morality-section">
-                        <!-- Humanity Display -->
-                        <div class="morality-stat">
-                            <div class="stat-header">
-                                <h3>Humanity</h3>
-                                <span class="moral-state" id="moralStateDisplay">Conflicted</span>
-                            </div>
-                            <div class="humanity-bar">
-                                <div class="humanity-track">
-                                    <div class="humanity-fill" id="humanityFill" style="width: 80%;"></div>
-                                </div>
-                                <div class="humanity-value">
-                                    <span id="humanityValue">8</span>/10
-                                </div>
-                            </div>
-                        </div>
-                        
-                        <!-- Virtues Section -->
-                        <div class="virtues-section">
-                            <h3>Virtues</h3>
-                            <p class="virtue-instructions">Distribute 7 points between your two Virtues (minimum 1 each)</p>
-                            <div class="virtue-allocation">
-                                <div class="virtue-points-remaining">
-                                    <span class="points-label">Points Remaining:</span>
-                                    <span class="points-value" id="virtuePointsRemaining">7</span>
-                                </div>
-                            </div>
-                            <div class="virtue-grid">
-                                <div class="virtue-stat">
-                                    <label for="conscience">Conscience</label>
-                                    <div class="virtue-display">
-                                        <span class="virtue-label">Resists degeneration</span>
-                                        <div class="virtue-controls">
-                                            <button type="button" class="virtue-btn" id="conscienceMinus">-</button>
-                                            <div class="virtue-bars">
-                                                <div class="virtue-progress-container">
-                                                    <div class="virtue-progress-fill" id="conscienceProgress"></div>
-                                                    <div class="virtue-level-markers" id="conscienceMarkers"></div>
-                                                </div>
-                                                <span class="virtue-value" id="conscienceValue">1</span>/5
-                                            </div>
-                                            <button type="button" class="virtue-btn" id="consciencePlus">+</button>
-                                        </div>
-                                    </div>
-                                </div>
-                                
-                                <div class="virtue-stat">
-                                    <label for="selfControl">Self-Control</label>
-                                    <div class="virtue-display">
-                                        <span class="virtue-label">Resists frenzy</span>
-                                        <div class="virtue-controls">
-                                            <button type="button" class="virtue-btn" id="selfControlMinus">-</button>
-                                            <div class="virtue-bars">
-                                                <div class="virtue-progress-container">
-                                                    <div class="virtue-progress-fill" id="selfControlProgress"></div>
-                                                    <div class="virtue-level-markers" id="selfControlMarkers"></div>
-                                                </div>
-                                                <span class="virtue-value" id="selfControlValue">1</span>/5
-                                            </div>
-                                            <button type="button" class="virtue-btn" id="selfControlPlus">+</button>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        
-                        <!-- Humanity Display -->
-                        <div class="humanity-info">
-                            <h3>Starting Humanity</h3>
-                            <p class="help-text">Your starting Humanity equals Conscience + Self-Control. You can raise it with Freebie Points (2 points per dot).</p>
-                            <div class="humanity-calculation">
-                                <div class="calculation-display">
-                                    <span class="calculation-text">Conscience + Self-Control = Humanity</span>
-                                    <span class="calculation-formula" id="humanityCalculation">1 + 1 = 2</span>
-                                </div>
-                            </div>
-                        </div>
-                        
-                        <!-- Hierarchy of Sins Reference -->
-                        <div class="sins-reference">
-                            <h3>Hierarchy of Sins</h3>
-                            <div class="sins-list">
-                                <div class="sin-level" data-level="10">
-                                    <span class="sin-number">10</span>
-                                    <span class="sin-description">Selfish thoughts</span>
-                                </div>
-                                <div class="sin-level" data-level="9">
-                                    <span class="sin-number">9</span>
-                                    <span class="sin-description">Minor selfish acts</span>
-                                </div>
-                                <div class="sin-level" data-level="8">
-                                    <span class="sin-number">8</span>
-                                    <span class="sin-description">Injury to another</span>
-                                </div>
-                                <div class="sin-level" data-level="7">
-                                    <span class="sin-number">7</span>
-                                    <span class="sin-description">Theft, petty crime</span>
-                                </div>
-                                <div class="sin-level" data-level="6">
-                                    <span class="sin-number">6</span>
-                                    <span class="sin-description">Destruction of property</span>
-                                </div>
-                                <div class="sin-level" data-level="5">
-                                    <span class="sin-number">5</span>
-                                    <span class="sin-description">Intentional injury</span>
-                                </div>
-                                <div class="sin-level" data-level="4">
-                                    <span class="sin-number">4</span>
-                                    <span class="sin-description">Impassioned killing</span>
-                                </div>
-                                <div class="sin-level" data-level="3">
-                                    <span class="sin-number">3</span>
-                                    <span class="sin-description">Planned killing, torture</span>
-                                </div>
-                                <div class="sin-level" data-level="2">
-                                    <span class="sin-number">2</span>
-                                    <span class="sin-description">Casual killing</span>
-                                </div>
-                                <div class="sin-level" data-level="1">
-                                    <span class="sin-number">1</span>
-                                    <span class="sin-description">Utterly depraved acts</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+            <div class="tab-content" id="tab5">
+                <h2 style="color: #8b0000; margin-bottom: 25px;">Morality</h2>
+                <p>Morality & Stats section - Coming soon!</p>
                 
-                    <div class="d-flex gap-2 justify-content-between">
-                        <button type="button" class="nav-btn btn btn-secondary" data-action="previous">← Previous</button>
-                        <button type="button" class="save-btn btn btn-primary" data-action="save">💾 Save Character</button>
-                        <button type="button" class="nav-btn btn btn-secondary" data-action="next">Next →</button>
-                    </div>
-                    </div>
+                <div class="button-group">
+                    <button type="button" onclick="showTab(4)">← Previous</button>
+                    <button type="button" class="save-btn" onclick="saveCharacter()" disabled>💾 Save Character</button>
+                    <button type="button" onclick="showTab(6)">Next →</button>
                 </div>
             </div>
             
             <!-- Tab 7: Merits & Flaws -->
-            <div class="tab-content" id="meritsTab">
-                <div class="card">
-                    <div class="card-header">
-                        <h2 class="card-title">Merits & Flaws</h2>
-                        <p class="card-subtitle">Special advantages and disadvantages</p>
-                    </div>
-                    <div class="card-body">
-                    <!-- Merits & Flaws Summary -->
-                    <div class="merits-flaws-summary">
-                        <div class="summary-item">
-                            <span class="label">Merits Cost:</span>
-                            <span class="value" id="meritsCost">0</span>
-                        </div>
-                        <div class="summary-item">
-                            <span class="label">Flaws Points:</span>
-                            <span class="value" id="flawsPoints">0</span>
-                        </div>
-                        <div class="summary-item">
-                            <span class="label">Net Cost:</span>
-                            <span class="value" id="netCost">0</span>
-                        </div>
-                    </div>
-                    
-                    <!-- Filter and Search Controls -->
-                    <div class="filter-controls merits-flaws-filters">
-                        <div class="filter-group">
-                            <label>Filter by Category:</label>
-                            <select id="categoryFilter" class="form-select form-select-sm bg-dark text-light border-danger" data-action="filter-merits-flaws">
-                                <option value="all">All Categories</option>
-                                <option value="Physical">💪 Physical</option>
-                                <option value="Mental">🧠 Mental</option>
-                                <option value="Social">👥 Social</option>
-                                <option value="Supernatural">✨ Supernatural</option>
-                            </select>
-                        </div>
-                        <div class="filter-group">
-                            <label>Show:</label>
-                            <select id="typeFilter" class="form-select form-select-sm bg-dark text-light border-danger" data-action="filter-merits-flaws">
-                                <option value="both">Merits & Flaws</option>
-                                <option value="merits">Merits Only</option>
-                                <option value="flaws">Flaws Only</option>
-                            </select>
-                        </div>
-                        <div class="filter-group">
-                            <label>Sort by:</label>
-                            <select id="sortFilter" class="form-select form-select-sm bg-dark text-light border-danger" data-action="filter-merits-flaws">
-                                <option value="cost">Cost (Low to High)</option>
-                                <option value="cost-desc">Cost (High to Low)</option>
-                                <option value="name">Name (A-Z)</option>
-                                <option value="name-desc">Name (Z-A)</option>
-                                <option value="category">Category</option>
-                            </select>
-                        </div>
-                        <div class="filter-group">
-                            <label>Search:</label>
-                            <input type="text" id="searchFilter" class="form-control form-control-sm bg-dark text-light border-danger" placeholder="Search merits and flaws...">
-                        </div>
-                        <div class="filter-group">
-                            <button type="button" class="reset-filters-btn" data-action="reset-merits-flaws" title="Reset all filters">
-                                🔄 Reset
-                            </button>
-                        </div>
-                    </div>
-                    
-                    <!-- Available Merits & Flaws -->
-                    <div class="merits-flaws-container">
-                        <div class="available-section">
-                            <h3>Available</h3>
-                            <div class="merits-flaws-list" id="availableMeritsFlawsList">
-                                <!-- Will be populated by JavaScript -->
-                            </div>
-                        </div>
-                        
-                        <div class="selected-section">
-                            <h3>Selected</h3>
-                            <div class="merits-flaws-list" id="selectedMeritsFlawsList">
-                                <!-- Will be populated by JavaScript -->
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <!-- Conflict Warning -->
-                    <div class="conflict-warning" id="conflictWarning" style="display: none;">
-                        <span class="warning-icon">⚠️</span>
-                        <span class="warning-text" id="conflictText"></span>
-                    </div>
-                    
-                    <div class="d-flex gap-2 justify-content-between">
-                        <button type="button" class="nav-btn btn btn-secondary" data-action="previous">← Previous</button>
-                        <button type="button" class="save-btn btn btn-primary" data-action="save">💾 Save Character</button>
-                        <button type="button" class="nav-btn btn btn-secondary" data-action="next">Next →</button>
-                    </div>
-                </div>
-            </div>
-            
-            <!-- Tab 7: Description -->
-            <div class="tab-content" id="descriptionTab">
-                <div class="card">
-                    <div class="card-header">
-                        <h2 class="card-title">Character Description</h2>
-                        <p class="card-subtitle">Describe your character's appearance, background, and notes</p>
-                    </div>
-                    <div class="card-body">
-                    <!-- Appearance Field -->
-                    <div class="mb-3">
-                        <label for="appearance" class="form-label">Appearance</label>
-                        <textarea id="appearance" name="appearance" class="form-control" rows="6" placeholder="Describe your character's physical appearance..." aria-label="Character appearance description"></textarea>
-                        <div class="helper-text">Describe your character's physical appearance, including notable features, clothing style, and distinctive characteristics.</div>
-                    </div>
-                    
-                    <!-- Biography Field -->
-                    <div class="mb-3">
-                        <label for="biography" class="form-label">Biography</label>
-                        <textarea id="biography" name="biography" class="form-control" rows="8" placeholder="Write your character's background story and history..." aria-label="Character biography"></textarea>
-                        <div class="helper-text">Tell your character's story - their background, history, and the events that led them to this point.</div>
-                    </div>
-                    
-                    <!-- Notes Field -->
-                    <div class="mb-3">
-                        <label for="notes" class="form-label">Notes</label>
-                        <textarea id="notes" name="notes" class="form-control" rows="6" placeholder="Add any additional notes, reminders, or details about your character..." aria-label="Character notes"></textarea>
-                        <div class="helper-text">Use this space for player notes, storyteller notes, or any additional information about your character.</div>
-                    </div>
-                    
-                    <div class="d-flex gap-2 justify-content-between">
-                        <button type="button" class="nav-btn btn btn-secondary" data-action="previous">← Previous</button>
-                        <button type="button" class="save-btn btn btn-primary" data-action="save">💾 Save Character</button>
-                        <button type="button" class="nav-btn btn btn-secondary" data-action="next">Next →</button>
-                    </div>
-                    </div>
+            <div class="tab-content" id="tab6">
+                <h2 style="color: #8b0000; margin-bottom: 25px;">Merits & Flaws</h2>
+                <p>Merits & Flaws section - Coming soon!</p>
+                
+                <div class="button-group">
+                    <button type="button" onclick="showTab(5)">← Previous</button>
+                    <button type="button" class="save-btn" onclick="saveCharacter()" disabled>💾 Save Character</button>
+                    <button type="button" onclick="showTab(7)">Next →</button>
                 </div>
             </div>
             
             <!-- Tab 8: Final Details -->
-            <div class="tab-content" id="reviewTab">
-                <div class="card">
-                    <div class="card-header">
-                        <h2 class="card-title">Final Details</h2>
-                        <p class="card-subtitle">Complete your character and review</p>
-                    </div>
-                    <div class="card-body">
-                    <div class="mb-3">
-                        <label class="form-label">Character Summary</label>
-                        <div id="characterSummary" class="character-summary">
-                            <!-- Character summary will be generated here -->
-                        </div>
-                    </div>
-                    
-                    <!-- Custom Data -->
-                    <div class="mb-3">
-                        <label for="customData" class="form-label">Custom Data</label>
-                        <textarea id="customData" name="customData" class="form-control" rows="6" placeholder='Enter JSON data or plain text (e.g., {"research_notes": "...", "discipline_notes": {...}})'></textarea>
-                        <div class="helper-text">Store custom character data as JSON or plain text. This can include research notes, discipline notes, artifacts, or any character-specific information.</div>
-                    </div>
-                    
-                    <!-- Coterie -->
-                    <div class="mb-3">
-                        <label class="form-label">Coterie Associations</label>
-                        <div id="coterieContainer" class="dynamic-form-container">
-                            <div class="empty-state" id="coterieEmptyState">
-                                <p>No coterie associations added. Click "Add Coterie" to add one.</p>
-                            </div>
-                        </div>
-                        <button type="button" class="add-entry-btn" id="addCoterieBtn">+ Add Coterie</button>
-                        <div class="helper-text">Record coterie memberships, factions, or groups your character belongs to.</div>
-                    </div>
-                    
-                    <!-- Relationships -->
-                    <div class="mb-3">
-                        <label class="form-label">Relationships</label>
-                        <div id="relationshipsContainer" class="dynamic-form-container">
-                            <div class="empty-state" id="relationshipsEmptyState">
-                                <p>No relationships added. Click "Add Relationship" to add one.</p>
-                            </div>
-                        </div>
-                        <button type="button" class="add-entry-btn" id="addRelationshipBtn">+ Add Relationship</button>
-                        <div class="helper-text">Track important relationships with other characters (sire, mentor, ally, contact, etc.).</div>
-                    </div>
-                    
-                    
-                <div class="d-flex gap-2 justify-content-between">
-                    <button type="button" class="nav-btn btn btn-secondary" data-action="previous">← Previous</button>
-                    <button type="button" class="save-btn btn btn-primary" data-action="save">💾 Save Draft</button>
-                    <button type="button" class="finalize-btn btn btn-success" data-action="finalize-character">🎯 Finalize Character</button>
-                </div>
-                    </div>
+            <div class="tab-content" id="tab7">
+                <h2 style="color: #8b0000; margin-bottom: 25px;">Final Details</h2>
+                <p>Final Details section - Coming soon!</p>
+                
+                <div class="button-group">
+                    <button type="button" onclick="showTab(6)">← Previous</button>
+                    <button type="button" class="save-btn" onclick="saveCharacter()" disabled>💾 Save Character</button>
+                    <button type="button" disabled>Next →</button>
                 </div>
             </div>
         </form>
     </div>
 
-    <!-- Mobile Save Button Container -->
-    <div class="mobile-save-container d-block d-md-none">
-        <div class="d-flex gap-2 flex-wrap">
-            <button type="button" class="save-btn btn btn-primary" data-action="save">💾 Save Character</button>
-            <button type="button" class="exit-inline btn btn-outline-secondary" title="Exit without saving">Exit</button>
-            <button type="button" class="finalize-btn btn btn-success" data-action="finalize-character">🎯 Finalize</button>
-        </div>
-    </div>
-
-    <!-- Clan Guide Modal -->
-    <div class="modal fade" id="clanGuideModal" tabindex="-1" aria-labelledby="clanGuideTitle" aria-hidden="true">
-        <div class="modal-dialog modal-xl modal-dialog-centered">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 id="clanGuideTitle" class="modal-title">Clan Guide</h5>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body" id="clanGuideBody">
-                <p><strong>Complete guide to all vampire clans:</strong></p>
-                <div class="clan-table-container">
-                    <table class="clan-table">
-                        <thead>
-                            <tr>
-                                <th>Clan</th>
-                                <th>Disciplines</th>
-                                <th>Weakness</th>
-                                <th>Theme</th>
-                                <th>Availability</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr><td><strong>⚔️ Assamite</strong></td><td>Celerity, Obfuscate, Quietus</td><td>Blood addiction to other vampires</td><td>Middle Eastern assassins</td><td class="admin-approval">Admin Approval</td></tr>
-                            <tr><td><strong>✊ Brujah</strong></td><td>Celerity, Potence, Presence</td><td>Prone to frenzy when insulted</td><td>Rebels and warriors</td><td class="pc-available">PC Available</td></tr>
-                            <tr><td><strong>🐍 Followers of Set</strong></td><td>Obfuscate, Presence, Serpentis</td><td>Cannot enter holy ground</td><td>Egyptian cultists</td><td class="admin-approval">Admin Approval</td></tr>
-                            <tr><td><strong>🐺 Gangrel</strong></td><td>Animalism, Fortitude, Protean</td><td>Prone to bestial traits over time</td><td>Shapeshifters and survivors</td><td class="pc-available">PC Available</td></tr>
-                            <tr><td><strong>💀 Giovanni</strong></td><td>Dominate, Potence, Necromancy</td><td>Cannot create blood bonds</td><td>Necromancers and businessmen</td><td class="admin-approval">Admin Approval</td></tr>
-                            <tr><td><strong>🌑 Lasombra</strong></td><td>Dominate, Obtenebration, Potence</td><td>No reflection in mirrors</td><td>Shadow manipulators</td><td class="admin-approval">Admin Approval</td></tr>
-                            <tr><td><strong>🎭 Malkavian</strong></td><td>Auspex, Dementation, Obfuscate</td><td>All have some form of derangement</td><td>Seers and madmen</td><td class="pc-available">PC Available</td></tr>
-                            <tr><td><strong>🦇 Nosferatu</strong></td><td>Animalism, Obfuscate, Potence</td><td>Hideously deformed</td><td>Information brokers</td><td class="pc-available">PC Available</td></tr>
-                            <tr><td><strong>🎪 Ravnos</strong></td><td>Animalism, Chimerstry, Fortitude</td><td>Cannot resist challenges to honor</td><td>Illusionists and tricksters</td><td class="admin-approval">Admin Approval</td></tr>
-                            <tr><td><strong>🌹 Toreador</strong></td><td>Auspex, Celerity, Presence</td><td>Prone to distraction by beauty</td><td>Artists and socialites</td><td class="pc-available">PC Available</td></tr>
-                            <tr><td><strong>⭐ Tremere</strong></td><td>Auspex, Dominate, Thaumaturgy</td><td>Cannot create childer without permission</td><td>Blood sorcerers and scholars</td><td class="pc-available">PC Available</td></tr>
-                            <tr><td><strong>🧬 Tzimisce</strong></td><td>Animalism, Auspex, Vicissitude</td><td>Must sleep in native soil</td><td>Flesh shapers</td><td class="admin-approval">Admin Approval</td></tr>
-                            <tr><td><strong>👑 Ventrue</strong></td><td>Dominate, Fortitude, Presence</td><td>Cannot feed from animals or the poor</td><td>Leaders and rulers</td><td class="pc-available">PC Available</td></tr>
-                            <tr><td><strong>❓ Caitiff</strong></td><td>Choose any 3 disciplines</td><td>No clan weakness (but no clan support)</td><td>Clanless vampires who can appear in any sect</td><td class="pc-available">PC Available</td></tr>
-                        </tbody>
-                    </table>
-                </div>
-                
-                <div style="margin-top: 20px;">
-                    <h3>Character Creation Tips</h3>
-                    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-top: 15px;">
-                        <div>
-                            <h4>For New Players:</h4>
-                            <ul>
-                                <li><strong>PC Available clans:</strong> Brujah, Caitiff, Gangrel, Malkavian, Nosferatu, Toreador, Tremere, Ventrue</li>
-                                <li>Focus on your character concept</li>
-                                <li>Read the weakness carefully</li>
-                                <li>Use the discipline guide for abilities</li>
-                            </ul>
-                        </div>
-                        <div>
-                            <h4>For Experienced Players:</h4>
-                            <ul>
-                                <li><strong>Admin Approval clans:</strong> Assamite, Setites, Giovanni, Lasombra, Ravnos, Tzimisce</li>
-                                <li>Plan your discipline build</li>
-                                <li>Embrace the clan weakness as roleplay</li>
-                                <li>Consider cross-training disciplines</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                </div>
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Discipline Guide Modal -->
-    <div class="modal fade" id="disciplineGuideModal" tabindex="-1" aria-labelledby="disciplineGuideTitle" aria-hidden="true">
-        <div class="modal-dialog modal-xl modal-dialog-scrollable">
-            <div class="modal-content vbn-modal-content">
-                <div class="modal-header vbn-modal-header">
-                    <h5 id="disciplineGuideTitle" class="modal-title vbn-modal-title">Discipline-Ability Guide</h5>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body vbn-modal-body" id="disciplineGuideBody">
-                <p><strong>Recommended abilities for each Discipline:</strong></p>
-                <div class="discipline-table-container">
-                    <table class="discipline-table">
-                        <thead>
-                            <tr>
-                                <th>Discipline</th>
-                                <th>Recommended Abilities</th>
-                                <th>Backgrounds That Fit</th>
-                                <th>Notes / Role Synergy</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr><td><strong>Animalism</strong></td><td>Animal Ken, Empathy, Survival</td><td>Allies (animals), Herd</td><td>Animal handler, Beast whisperer, Gangrel archetype</td></tr>
-                            <tr><td><strong>Auspex</strong></td><td>Awareness, Investigation, Occult, Empathy</td><td>Contacts, Mentor</td><td>Seer, investigator, Tremere or Malkavian vision user</td></tr>
-                            <tr><td><strong>Celerity</strong></td><td>Athletics, Dodge, Melee, Firearms</td><td>Resources (gear), Retainers</td><td>Speed fighter, assassin, duelist</td></tr>
-                            <tr><td><strong>Dominate</strong></td><td>Leadership, Intimidation, Subterfuge, Law</td><td>Status, Influence, Retainers</td><td>Commander, manipulator, Ventrue archetype</td></tr>
-                            <tr><td><strong>Fortitude</strong></td><td>Survival, Medicine</td><td>Mentor, Herd</td><td>Stoic survivor, soldier, protector</td></tr>
-                            <tr><td><strong>Obfuscate</strong></td><td>Stealth, Subterfuge, Security</td><td>Contacts, Allies</td><td>Spy, infiltrator, Nosferatu archetype</td></tr>
-                            <tr><td><strong>Potence</strong></td><td>Athletics, Brawl, Melee</td><td>Allies, Retainers</td><td>Enforcer, bruiser, physical powerhouse</td></tr>
-                            <tr><td><strong>Presence</strong></td><td>Leadership, Expression, Empathy, Subterfuge, Performance</td><td>Fame, Status, Herd</td><td>Social manipulator, performer, leader</td></tr>
-                            <tr><td><strong>Protean</strong></td><td>Survival, Animal Ken, Brawl</td><td>Allies, Herd</td><td>Shapeshifter, feral predator, Gangrel</td></tr>
-                            <tr><td><strong>Thaumaturgy</strong></td><td>Occult, Academics, Linguistics, Science</td><td>Mentor, Library (ST-ruled), Resources</td><td>Ritualist, scholar, Tremere archetype</td></tr>
-                            <tr><td><strong>Necromancy</strong></td><td>Occult, Investigation, Intimidation</td><td>Mentor, Contacts</td><td>Death mage, Giovanni archetype</td></tr>
-                            <tr><td><strong>Obtenebration</strong></td><td>Occult, Intimidation</td><td>Influence, Allies</td><td>Shadow wielder, Lasombra archetype</td></tr>
-                            <tr><td><strong>Chimerstry</strong></td><td>Expression, Subterfuge, Occult</td><td>Fame, Resources</td><td>Illusionist, artist, trickster</td></tr>
-                            <tr><td><strong>Dementation</strong></td><td>Empathy, Occult, Subterfuge</td><td>Mentor, Contacts</td><td>Manipulative seer, mind-breaker, Malkavian</td></tr>
-                            <tr><td><strong>Quietus</strong></td><td>Stealth, Medicine, Subterfuge</td><td>Retainers, Allies</td><td>Assassin, poisoner, infiltrator</td></tr>
-                            <tr><td><strong>Vicissitude</strong></td><td>Medicine, Crafts, Occult</td><td>Resources, Retainers</td><td>Flesh shaper, artisan, Tzimisce archetype</td></tr>
-                            <tr><td><strong>Serpentis</strong></td><td>Subterfuge, Expression, Empathy</td><td>Herd, Status</td><td>Seductive manipulator, Setite archetype</td></tr>
-                            <tr><td><strong>Koldunic Sorcery</strong></td><td>Occult, Survival, Science</td><td>Mentor, Resources</td><td>Elemental shaman or geomancer</td></tr>
-                            <tr><td><strong>Daimoinon</strong></td><td>Occult, Intimidation, Expression</td><td>Influence, Status</td><td>Infernalist, fearmonger</td></tr>
-                            <tr><td><strong>Melpominee</strong></td><td>Performance, Expression, Empathy</td><td>Fame, Herd</td><td>Toreador bard, social seducer</td></tr>
-                            <tr><td><strong>Valeren / Obeah</strong></td><td>Medicine, Empathy, Occult</td><td>Mentor, Status</td><td>Salubri healer or judge</td></tr>
-                            <tr><td><strong>Mortis</strong></td><td>Occult, Medicine, Investigation</td><td>Mentor, Contacts</td><td>Death-touched necromancer (Cappadocian lineage)</td></tr>
-                        </tbody>
-                    </table>
-                </div>
-                </div>
-                <div class="modal-footer vbn-modal-footer">
-                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Finalize Character Modal -->
-    <div class="modal fade" id="finalizeModal" tabindex="-1" aria-labelledby="finalizeModalLabel" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content vbn-modal-content">
-                <div class="modal-header vbn-modal-header">
-                    <h5 class="modal-title vbn-modal-title" id="finalizeModalLabel">🎯 Finalize Character</h5>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body vbn-modal-body">
-                <div class="finalize-warning">
-                    <h3>⚠️ Important Notice</h3>
-                    <p>Finalizing your character will:</p>
-                    <ul>
-                        <li>✅ Save your character permanently to the database</li>
-                        <li>✅ Mark the character as complete</li>
-                        <li>✅ Enable advancement mode for future XP spending</li>
-                        <li>❌ Lock certain character creation options</li>
-                    </ul>
-                    <p><strong>Are you sure you want to finalize this character?</strong></p>
-                </div>
-                
-                <div class="character-preview">
-                    <h4>Character Preview:</h4>
-                    <div id="finalizePreview" class="preview-content">
-                        <!-- Character preview will be populated by JavaScript -->
-                    </div>
-                </div>
-                </div>
-                <div class="modal-footer vbn-modal-footer">
-                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
-                    <button type="button" class="btn btn-primary" id="finalizeCharacterBtn">🎯 Finalize Character</button>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Character Sheet Modal -->
-    <div class="modal fade" id="characterSheetModal" tabindex="-1" aria-labelledby="characterSheetModalLabel" aria-hidden="true">
-        <div class="modal-dialog modal-xl">
-            <div class="modal-content vbn-modal-content">
-                <div class="modal-header vbn-modal-header">
-                    <h5 class="modal-title vbn-modal-title" id="characterSheetModalLabel">📄 Character Sheet</h5>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body vbn-modal-body">
-                <div id="characterSheetContent" class="character-sheet">
-                    <!-- Character sheet will be populated by JavaScript -->
-                </div>
-                </div>
-                <div class="modal-footer vbn-modal-footer">
-                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                    <button type="button" class="btn btn-primary" id="downloadCharacterSheetBtn">📥 Download PDF</button>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Merit/Flaw Description Modal -->
-    <div class="modal fade" id="meritFlawDescriptionModal" tabindex="-1" aria-labelledby="meritFlawModalTitle" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content vbn-modal-content">
-                <div class="modal-header vbn-modal-header">
-                    <h5 id="meritFlawModalTitle" class="modal-title vbn-modal-title">Merit/Flaw Description</h5>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body vbn-modal-body" id="meritFlawBody">
-                <div class="merit-flaw-detail">
-                    <div class="detail-columns">
-                        <div class="detail-column">
-                            <span class="detail-label">Type:</span>
-                            <span class="detail-value" id="meritFlawType"></span>
-                        </div>
-                        <div class="detail-column">
-                            <span class="detail-label">Category:</span>
-                            <span class="detail-value" id="meritFlawCategory"></span>
-                        </div>
-                        <div class="detail-column">
-                            <span class="detail-label">Cost:</span>
-                            <span class="detail-value" id="meritFlawCost"></span>
-                        </div>
-                    </div>
-                    <div class="detail-description">
-                        <h4>Description:</h4>
-                        <p id="meritFlawDescription"></p>
-                    </div>
-                    <div class="detail-effects" id="meritFlawEffects" style="display: none;">
-                        <h4>Effects:</h4>
-                        <ul id="meritFlawEffectsList"></ul>
-                    </div>
-                </div>
-                </div>
-                <div class="modal-footer vbn-modal-footer">
-                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Modular JavaScript Architecture -->
-    <!-- Core Modules -->
-    <script src="js/modules/core/StateManager.js"></script>
-    <script src="js/modules/core/UIManager.js"></script>
-    <script src="js/modules/core/EventManager.js"></script>
-    <script src="js/modules/core/DataManager.js"></script>
-    <script src="js/modules/core/NotificationManager.js"></script>
-    <script src="js/modules/core/ValidationManager.js"></script>
-    
-    <!-- UI Modules -->
-    <script src="js/modules/ui/TabManager.js"></script>
-    <script src="js/modules/ui/PreviewManager.js"></script>
-    
-    <!-- System Modules -->
-    <script src="js/modules/systems/TraitSystem.js"></script>
-    <script src="js/modules/systems/AbilitySystem.js"></script>
-    <script src="js/modules/systems/DisciplineSystem.js"></script>
-    <script src="js/modules/systems/MeritsFlawsSystem.js"></script>
-    <script src="js/modules/systems/BackgroundSystem.js"></script>
-    <script src="js/modules/systems/MoralitySystem.js"></script>
-    <script src="js/modules/systems/CashSystem.js"></script>
-    <script src="js/modules/systems/HealthWillpowerSystem.js"></script>
-    
-    <!-- Main Application -->
-    <script src="js/modules/main.js"></script>
-    <script src="js/exit-editor.js"></script>
-    
-    <!-- Main Character Creation JavaScript -->
-    <script src="js/lotn_char_create.js" defer></script>
-    
-    <!-- Legacy script blocks removed - code moved to js/lotn_char_create.js -->
-    
-    <!-- Working Discipline System from Yesterday - removed, code moved to js/lotn_char_create.js -->
-    
-    <!-- Final Details Functions (Coterie & Relationships) - removed, code moved to js/lotn_char_create.js -->
-            7: 'Balanced',
-            6: 'Conflicted',
-            5: 'Turbulent',
-            4: 'Falling',
-            3: 'Bestial',
-            2: 'Monstrous',
-            1: 'Inhuman',
-            0: 'Lost'
-        };
-
-        let hasVirtueSubscriptions = false;
-
-        function normalizeVirtueKey(rawKey) {
-            if (!rawKey) {
-                throw new Error('Virtue key is required');
-            }
-            const normalized = VIRTUE_KEY_MAP[rawKey.toString().trim().toLowerCase()];
-            if (!normalized) {
-                throw new Error(`Unknown virtue key "${rawKey}"`);
-            }
-            return normalized;
-        }
-
-        function getStateManager() {
-            const app = window.characterCreationApp;
-            if (!app || !app.modules || !app.modules.stateManager) {
-                return null;
-            }
-            return app.modules.stateManager;
-        }
-
-        function computeTotalVirtuePoints(virtues) {
-            return (virtues.Conscience ?? 1) + (virtues.SelfControl ?? 1);
-        }
-
-        function getVirtuesFromState() {
-            const stateManager = getStateManager();
-            if (!stateManager) {
-                return { Conscience: 1, SelfControl: 1 };
-            }
-            const state = stateManager.getState();
-            return {
-                Conscience: state.virtues?.Conscience ?? 1,
-                SelfControl: state.virtues?.SelfControl ?? 1
-            };
-        }
-
-        function updateVirtueValueDisplay(virtueKey, level) {
-            const valueElement = document.getElementById(virtueKey === 'Conscience' ? 'conscienceValue' : 'selfControlValue');
-            if (valueElement) {
-                valueElement.textContent = level.toString();
-            }
-
-            const progressElement = document.getElementById(virtueKey === 'Conscience' ? 'conscienceProgress' : 'selfControlProgress');
-            if (progressElement) {
-                const clampedLevel = Math.max(1, Math.min(5, level));
-                progressElement.style.width = `${(clampedLevel / 5) * 100}%`;
-            }
-
-            const markersContainer = document.getElementById(virtueKey === 'Conscience' ? 'conscienceMarkers' : 'selfControlMarkers');
-            if (markersContainer && markersContainer.children.length === 5) {
-                Array.from(markersContainer.children).forEach((marker, idx) => {
-                    if (idx < level) {
-                        marker.classList.add('active');
-                        marker.classList.remove('inactive');
-                    } else {
-                        marker.classList.remove('active');
-                        marker.classList.add('inactive');
-                    }
-                });
-            }
-
-            const minusBtn = document.getElementById(virtueKey === 'Conscience' ? 'conscienceMinus' : 'selfControlMinus');
-            if (minusBtn) {
-                minusBtn.disabled = level <= 1;
-            }
-
-            const plusBtn = document.getElementById(virtueKey === 'Conscience' ? 'consciencePlus' : 'selfControlPlus');
-            if (plusBtn) {
-                plusBtn.disabled = level >= 5;
-            }
-        }
-
-        function updateVirtueSummary(virtues) {
-            const totalPoints = computeTotalVirtuePoints(virtues);
-            const remaining = Math.max(0, MAX_VIRTUE_POINTS - totalPoints);
-
-            const remainingElement = document.getElementById('virtuePointsRemaining');
-            if (remainingElement) {
-                remainingElement.textContent = remaining.toString();
-            }
-
-            const humanity = Math.max(0, Math.min(10, virtues.Conscience + virtues.SelfControl));
-            updateHumanityDisplay(virtues, humanity);
-        }
-
-        function getMoralStateLabel(humanity) {
-            return MORALITY_STATE_LABELS.hasOwnProperty(humanity)
-                ? MORALITY_STATE_LABELS[humanity]
-                : `Humanity ${humanity}`;
-        }
-
-        function updateHumanityDisplay(virtues, humanity) {
-            const humanityValueElement = document.getElementById('humanityValue');
-            if (humanityValueElement) {
-                humanityValueElement.textContent = humanity.toString();
-            }
-
-            const humanityFill = document.getElementById('humanityFill');
-            if (humanityFill) {
-                humanityFill.style.width = `${(humanity / 10) * 100}%`;
-            }
-
-            const humanityCalculationElement = document.getElementById('humanityCalculation');
-            if (humanityCalculationElement) {
-                humanityCalculationElement.textContent = `${virtues.Conscience} + ${virtues.SelfControl} = ${humanity}`;
-            }
-
-            const moralStateElement = document.getElementById('moralStateDisplay');
-            if (moralStateElement) {
-                moralStateElement.textContent = getMoralStateLabel(humanity);
-            }
-        }
-
-        function syncVirtuesFromState() {
-            const stateManager = getStateManager();
-            if (!stateManager) {
-                return;
-            }
-
-            if (!hasVirtueSubscriptions) {
-                stateManager.subscribe('virtues', () => {
-                    const virtues = getVirtuesFromState();
-                    updateVirtueValueDisplay('Conscience', virtues.Conscience);
-                    updateVirtueValueDisplay('SelfControl', virtues.SelfControl);
-                    updateVirtueSummary(virtues);
-                });
-
-                stateManager.subscribe('humanity', () => {
-                    const virtues = getVirtuesFromState();
-                    const state = stateManager.getState();
-                    updateHumanityDisplay(virtues, state.humanity ?? (virtues.Conscience + virtues.SelfControl));
-                });
-
-                hasVirtueSubscriptions = true;
-            }
-
-            const virtues = getVirtuesFromState();
-            updateVirtueValueDisplay('Conscience', virtues.Conscience);
-            updateVirtueValueDisplay('SelfControl', virtues.SelfControl);
-            updateVirtueSummary(virtues);
-
-            const state = stateManager.getState();
-            const humanity = state.humanity ?? (virtues.Conscience + virtues.SelfControl);
-            updateHumanityDisplay(virtues, humanity);
-        }
-
-        function enqueueVirtueSync(attempt = 0) {
-            try {
-                syncVirtuesFromState();
-            } catch (error) {
-                if (attempt < 10) {
-                    setTimeout(() => enqueueVirtueSync(attempt + 1), 100);
-                } else {
-                    console.error('Failed to synchronise virtues after multiple attempts:', error);
-                }
-            }
-        }
-
-        window.adjustVirtue = function adjustVirtue(virtueKey, delta) {
-            const stateManager = getStateManager();
-            if (!stateManager) {
-                console.error('StateManager is not ready; cannot adjust virtue.');
-                return;
-            }
-
-            const normalizedKey = normalizeVirtueKey(virtueKey);
-            const currentState = stateManager.getState();
-            const currentVirtues = {
-                Conscience: currentState.virtues?.Conscience ?? 1,
-                SelfControl: currentState.virtues?.SelfControl ?? 1
-            };
-
-            const proposedLevel = Math.max(1, Math.min(5, currentVirtues[normalizedKey] + delta));
-            if (proposedLevel === currentVirtues[normalizedKey]) {
-                return;
-            }
-
-            const prospectiveVirtues = { ...currentVirtues, [normalizedKey]: proposedLevel };
-            const totalPoints = computeTotalVirtuePoints(prospectiveVirtues);
-            if (totalPoints > MAX_VIRTUE_POINTS) {
-                return;
-            }
-
-            const humanity = Math.max(0, Math.min(10, prospectiveVirtues.Conscience + prospectiveVirtues.SelfControl));
-
-            stateManager.setState({
-                virtues: prospectiveVirtues,
-                humanity
-            });
-
-            updateVirtueValueDisplay('Conscience', prospectiveVirtues.Conscience);
-            updateVirtueValueDisplay('SelfControl', prospectiveVirtues.SelfControl);
-            updateVirtueSummary(prospectiveVirtues);
-        };
-
-        document.addEventListener('DOMContentLoaded', () => {
-            enqueueVirtueSync();
-        });
-
-        // Simple save function for testing
-        function saveCharacter(isFinalization = false) {
-            console.log('saveCharacter called with isFinalization:', isFinalization);
-            
-            // Show loading state
-            const saveButtons = document.querySelectorAll('.save-btn');
-            saveButtons.forEach(btn => {
-                if (!btn.dataset.originalLabel) {
-                    btn.dataset.originalLabel = btn.innerHTML;
-                }
-                btn.disabled = true;
-                btn.innerHTML = isFinalization ? '🎯 Finalizing...' : '💾 Saving...';
-            });
-            
-            // Collect form data
-            // Extract id from hidden field first, fallback to URL param
-            const idEl = document.getElementById('characterId');
-            const urlParams = new URLSearchParams(window.location.search);
-            const idFromHidden = idEl && idEl.value ? parseInt(idEl.value, 10) : null;
-            const idFromUrl = urlParams.get('id') ? parseInt(urlParams.get('id'), 10) : null;
-            const effectiveId = idFromHidden || idFromUrl || null;
-
-            // Extract imagePath from hidden
-            const imgEl = document.getElementById('imagePath');
-            const imagePath = imgEl && imgEl.value ? imgEl.value : undefined;
-
-            // Collect state from CharacterCreationApp if available, otherwise use defaults
-            let state = window.characterCreationApp ? window.characterCreationApp.modules.stateManager.getState() : null;
-            
-            // Sync abilities from DOM to state if state abilities are empty but DOM has abilities
-            if (state && window.characterCreationApp && window.characterCreationApp.modules.abilitySystem) {
-                const stateAbilities = state.abilities || {};
-                const hasStateAbilities = Object.values(stateAbilities).some(arr => Array.isArray(arr) && arr.length > 0);
-                
-                if (!hasStateAbilities) {
-                    // Read from DOM and sync to state
-                    const abilitiesFromDOM = { Physical: [], Social: [], Mental: [], Optional: [] };
-                    const categories = ['Physical', 'Social', 'Mental', 'Optional'];
-                    
-                    categories.forEach(category => {
-                        const listElement = document.getElementById(category.toLowerCase() + 'AbilitiesList');
-                        if (listElement) {
-                            const selectedAbilities = listElement.querySelectorAll('.selected-ability');
-                            selectedAbilities.forEach(abilityEl => {
-                                const abilityNameEl = abilityEl.querySelector('.ability-name');
-                                if (abilityNameEl) {
-                                    let abilityName = abilityNameEl.textContent.trim();
-                                    // Parse count from "AbilityName (2)" format
-                                    const countMatch = abilityName.match(/^(.+?)\s*\((\d+)\)$/);
-                                    if (countMatch) {
-                                        const name = countMatch[1].trim();
-                                        const count = parseInt(countMatch[2], 10);
-                                        for (let i = 0; i < count; i++) {
-                                            abilitiesFromDOM[category].push(name);
-                                        }
-                                    } else {
-                                        abilitiesFromDOM[category].push(abilityName);
-                                    }
-                                }
-                            });
-                        }
-                    });
-                    
-                    // Update state with DOM abilities
-                    const hasDOMAbilities = Object.values(abilitiesFromDOM).some(arr => Array.isArray(arr) && arr.length > 0);
-                    if (hasDOMAbilities) {
-                        window.characterCreationApp.modules.stateManager.setState({ abilities: abilitiesFromDOM });
-                        state = window.characterCreationApp.modules.stateManager.getState();
-                    }
-                }
-            }
-            
-            const currentStateSelect = document.getElementById('currentState');
-            const camarillaSelect = document.getElementById('camarillaStatus');
-            const currentState = currentStateSelect ? (currentStateSelect.value || 'active') : 'active';
-            const camarillaStatus = camarillaSelect ? (camarillaSelect.value || 'Unknown') : 'Unknown';
-            
-            const formData = {
-                character_name: document.getElementById('characterName').value || '',
-                player_name: document.getElementById('playerName').value || '',
-                chronicle: document.getElementById('chronicle').value || 'Valley by Night',
-                nature: document.getElementById('nature').value || '',
-                demeanor: document.getElementById('demeanor').value || '',
-                concept: document.getElementById('concept').value || '',
-                clan: document.getElementById('clan').value || '',
-                generation: parseInt(document.getElementById('generation').value) || 13,
-                sire: document.getElementById('sire').value || '',
-                pc: document.getElementById('pc').checked ? 1 : 0,
-                biography: '', // Field doesn't exist in basic tab
-                equipment: '', // Field doesn't exist in basic tab
-                total_xp: 30, // Default value
-                spent_xp: 0, // Default value
-                traits: state?.traits || {},
-                negativeTraits: state?.negativeTraits || {},
-                abilities: state?.abilities || { Physical: [], Social: [], Mental: [], Optional: [] },
-                disciplinePowers: state?.disciplinePowers || {},
-                backgrounds: state?.backgrounds || {},
-                backgroundDetails: state?.backgroundDetails || {},
-                merits_flaws: state?.selectedMeritsFlaws || [],
-                status: currentState,
-                current_state: currentState,
-                camarilla_status: camarillaStatus,
-                morality: {
-                    path_name: 'Humanity',
-                    path_rating: 7,
-                    conscience: 1,
-                    self_control: 1,
-                    courage: 1,
-                    willpower_permanent: 5,
-                    willpower_current: 5,
-                    humanity: 7
-                },
-                status_details: {
-                    current_state: currentState,
-                    camarilla_status: camarillaStatus
-                },
-                ...(effectiveId ? { id: effectiveId } : {}),
-                ...(imagePath ? { imagePath } : {})
-            };
-            
-            console.log('Sending data:', formData);
-            console.log('Abilities being sent:', formData.abilities);
-            
-            fetch('includes/save_character.php', {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json',
-                },
-                body: JSON.stringify(formData)
-            })
-            .then(response => {
-                console.log('Response status:', response.status);
-                return response.text();
-            })
-            .then(data => {
-                console.log('Response data:', data);
-                try {
-                    const jsonData = JSON.parse(data);
-                    if (jsonData.success) {
-                        console.log('✅ Character saved successfully! Character ID:', jsonData.character_id);
-                        
-                        // Check if we're in a modal context
-                        const urlParams = new URLSearchParams(window.location.search);
-                        const isModal = urlParams.get('modal') === '1';
-                        
-                        if (isModal) {
-                            // We're in a modal - notify parent window to close modal and refresh
-                            if (window.parent && window.parent !== window) {
-                                // Send message to parent to close modal
-                                window.parent.postMessage({
-                                    type: 'characterSaved',
-                                    characterId: jsonData.character_id
-                                }, '*');
-                                
-                                // Show success message
-                                alert('✅ Character saved successfully!');
-                            } else {
-                                alert('✅ Character saved successfully!');
-                            }
-                        } else {
-                            // Not in modal - show normal success message
-                            alert('✅ Character saved successfully!');
-                        }
-                    } else {
-                        alert('❌ Save failed: ' + jsonData.message);
-                    }
-                } catch (e) {
-                    console.error('Invalid JSON response:', data);
-                    alert('❌ Invalid response from server: ' + data.substring(0, 200));
-                }
-            })
-            .catch(error => {
-                console.error('Error:', error);
-                alert('❌ Error: ' + error.message);
-            })
-            .finally(() => {
-                // Reset button state
-                saveButtons.forEach(btn => {
-                    btn.disabled = false;
-                    if (btn.dataset.originalLabel) {
-                        btn.innerHTML = btn.dataset.originalLabel;
-                    }
-                });
-            });
-        }
-        
-        // Add event listeners when page loads
-        document.addEventListener('DOMContentLoaded', function() {
-            console.log('Setting up save button listeners...');
-            // If character is loaded via URL ?id=, seed hidden field so updates don't insert
-            const params = new URLSearchParams(location.search);
-            const urlId = params.get('id');
-            if (urlId && document.getElementById('characterId')) {
-                document.getElementById('characterId').value = urlId;
-            }
-            const rawReturnUrl = params.get('returnUrl');
-            const fallbackExitUrl = '/admin/admin_panel.php';
-            let exitTargetUrl = fallbackExitUrl;
-
-            if (rawReturnUrl) {
-                try {
-                    const decodedReturn = decodeURIComponent(rawReturnUrl);
-                    if (decodedReturn.includes('admin/admin_panel.php')) {
-                        if (decodedReturn.startsWith('http://') || decodedReturn.startsWith('https://')) {
-                            exitTargetUrl = decodedReturn;
-                        } else if (decodedReturn.startsWith('/')) {
-                            exitTargetUrl = decodedReturn;
-                        } else {
-                            exitTargetUrl = '/' + decodedReturn;
-                        }
-                    }
-                } catch (error) {
-                    console.warn('Invalid returnUrl parameter', error);
-                }
-            }
-            
-            // Add click listeners to all save buttons
-            const saveButtons = document.querySelectorAll('.save-btn');
-            console.log('Found save buttons:', saveButtons.length);
-            
-            saveButtons.forEach(btn => {
-                btn.addEventListener('click', function(e) {
-                    e.preventDefault();
-                    console.log('Save button clicked!');
-                    saveCharacter();
-                });
-            });
-
-            // Exit button handler (local to this page)
-            const exitBtn = document.getElementById('exitEditorBtn');
-            const handleExit = (event) => {
-                if (event) {
-                    event.preventDefault();
-                }
-                console.log('Exit Editor button pressed');
-                window.location.href = exitTargetUrl;
-            };
-            if (exitBtn) {
-                exitBtn.addEventListener('click', handleExit);
-            }
-
-            // Bind all inline Exit buttons (e.g., in mobile-save-container)
-            const exitInlineBtns = document.querySelectorAll('.exit-inline');
-            exitInlineBtns.forEach(function(btn){
-                btn.addEventListener('click', handleExit);
-            });
-
-            // Image upload wiring for this page's IDs
-            // NOTE: This inline code works alongside js/character_image.js CharacterImageManager
-            // The CharacterImageManager handles most functionality, this is a fallback
-            const fileInput = document.getElementById('characterImageInput');
-            const uploadBtn = document.getElementById('uploadCharacterImageBtn');
-            const removeBtn = document.getElementById('removeCharacterImageBtn');
-            const previewImg = document.getElementById('characterImagePreview');
-            const placeholder = document.getElementById('characterImagePlaceholder');
-
-            function getEffectiveCharacterId() {
-                const hid = document.getElementById('characterId');
-                if (hid && hid.value) return parseInt(hid.value, 10);
-                const p = new URLSearchParams(location.search);
-                return p.get('id') ? parseInt(p.get('id'), 10) : null;
-            }
-
-            function showPreview(fileOrName) {
-                if (!fileOrName) return;
-                if (typeof fileOrName === 'string') {
-                    if (previewImg) previewImg.src = '/uploads/characters/' + fileOrName;
-                    if (placeholder) placeholder.style.display = 'none';
-                    return;
-                }
-                const reader = new FileReader();
-                reader.onload = () => {
-                    if (previewImg) previewImg.src = String(reader.result);
-                    if (placeholder) placeholder.style.display = 'none';
-                };
-                reader.readAsDataURL(fileOrName);
-            }
-
-            // Ensure label click triggers file input
-            const fileLabel = document.querySelector('label[for="characterImageInput"]');
-            if (fileLabel && fileInput) {
-                fileLabel.addEventListener('click', function(e) {
-                    e.preventDefault();
-                    e.stopPropagation();
-                    
-                    // Make input visible and clickable
-                    fileInput.style.position = 'fixed';
-                    fileInput.style.top = '50%';
-                    fileInput.style.left = '50%';
-                    fileInput.style.transform = 'translate(-50%, -50%)';
-                    fileInput.style.opacity = '0.01';
-                    fileInput.style.display = 'block';
-                    fileInput.style.width = '1px';
-                    fileInput.style.height = '1px';
-                    fileInput.style.zIndex = '999999';
-                    fileInput.style.pointerEvents = 'auto';
-                    
-                    // Force a reflow
-                    fileInput.offsetHeight;
-                    
-                    // Click the input
-                    fileInput.focus();
-                    fileInput.click();
-                    
-                    // Hide it again after a delay
-                    setTimeout(() => {
-                        fileInput.style.display = 'none';
-                        fileInput.style.position = '';
-                        fileInput.style.top = '';
-                        fileInput.style.left = '';
-                        fileInput.style.transform = '';
-                        fileInput.style.opacity = '';
-                        fileInput.style.zIndex = '';
-                        fileInput.style.width = '';
-                        fileInput.style.height = '';
-                        fileInput.style.pointerEvents = '';
-                    }, 300);
-                }, true); // Capture phase to catch it early
-            }
-
-            // File input change handler (fallback if CharacterImageManager doesn't handle it)
-            if (fileInput) {
-                const changeHandler = function(e) {
-                    console.log('[inline] File input change event fired', e);
-                    console.log('[inline] Event target:', e.target);
-                    console.log('[inline] Event target ID:', e.target.id);
-                    console.log('[inline] Event target files:', e.target.files);
-                    console.log('[inline] Event target files length:', e.target.files ? e.target.files.length : 'null');
-                    
-                    // Check both event.target and fileInput
-                    const targetInput = e.target;
-                    const file = targetInput.files && targetInput.files[0];
-                    if (!file) {
-                        console.log('[inline] No file in input - user may have canceled dialog');
-                        return;
-                    }
-                    console.log('[inline] File selected:', file.name, file.type, file.size);
-                    if (uploadBtn) {
-                        uploadBtn.style.display = 'inline-block';
-                        console.log('[inline] Upload button shown');
-                    }
-                    showPreview(file);
-                    console.log('[inline] Preview shown');
-                };
-                
-                // Add listeners without replacing the input (that breaks label connection)
-                fileInput.addEventListener('change', changeHandler, false);
-                fileInput.addEventListener('change', changeHandler, true);
-                
-                console.log('[inline] File input change listeners attached to element:', fileInput);
-                console.log('[inline] File input ID:', fileInput.id);
-                console.log('[inline] Label for attribute:', fileLabel ? fileLabel.getAttribute('for') : 'no label found');
-            }
-
-            // Upload button handler (fallback)
-            if (uploadBtn) {
-                uploadBtn.addEventListener('click', async function() {
-                    const file = fileInput && fileInput.files && fileInput.files[0];
-                    if (!file) { alert('Select an image first.'); return; }
-                    try {
-                        const form = new FormData();
-                        form.append('image', file);
-                        const cid = getEffectiveCharacterId();
-                        if (cid) form.append('characterId', String(cid));
-                        console.log('[image] Upload request sent');
-                        const resp = await fetch('includes/upload_character_image.php', { method: 'POST', body: form });
-                        const data = await resp.json();
-                        if (!resp.ok || !data || !data.success) throw new Error((data && data.error) || ('HTTP '+resp.status));
-                        const filename = data.filePath || data.image_path;
-                        console.log('[image] Upload successful:', filename);
-                        const hidden = document.getElementById('imagePath');
-                        if (hidden && filename) hidden.value = filename;
-                        showPreview(filename);
-                        alert('Image uploaded.');
-                    } catch (err) {
-                        console.error('[image] Upload failed:', err);
-                        alert('Image upload failed: '+ err.message);
-                    }
-                });
-            }
-
-            // Remove button handler (fallback)
-            if (removeBtn) {
-                removeBtn.addEventListener('click', function() {
-                    if (previewImg) previewImg.src = '';
-                    if (placeholder) placeholder.style.display = '';
-                    const hidden = document.getElementById('imagePath');
-                    if (hidden) hidden.value = '';
-                    if (fileInput) fileInput.value = '';
-                    if (uploadBtn) uploadBtn.style.display = 'none';
-                });
-            }
-
-            // If an image filename is already present (loaded character), show it
-            (function seedPreviewFromHidden(){
-                const hidden = document.getElementById('imagePath');
-                if (hidden && hidden.value) {
-                    showPreview(hidden.value);
-                }
-            })();
-
-            // Note: Character image is loaded by the main app via DataManager.loadCharacter()
-            // No need for duplicate fetch here - the main app will populate imagePath when character loads
-        });
-    </script>
-    
-    <!-- Working Discipline System from Yesterday -->
-    <script>
-        // Discipline system variables
-        let currentPopoverTimeout = null;
-        let currentPopoverButton = null;
-        
-        // Discipline powers data
-        const disciplinePowers = {
-            'Animalism': [
-                { level: 1, name: 'Feral Whispers', description: 'Communicate with animals' },
-                { level: 2, name: 'Animal Succulence', description: 'Feed from animals' },
-                { level: 3, name: 'Quell the Beast', description: 'Calm frenzied vampires' },
-                { level: 4, name: 'Subsume the Spirit', description: 'Possess animals' },
-                { level: 5, name: 'Animal Dominion', description: 'Command all animals in area' }
-            ],
-            'Auspex': [
-                { level: 1, name: 'Heightened Senses', description: 'Enhanced perception' },
-                { level: 2, name: 'Aura Perception', description: 'See emotional auras' },
-                { level: 3, name: 'The Spirit\'s Touch', description: 'Read objects\' history' },
-                { level: 4, name: 'Telepathy', description: 'Read minds' },
-                { level: 5, name: 'Psychic Projection', description: 'Astral projection' }
-            ],
-            'Celerity': [
-                { level: 1, name: 'Quickness', description: 'The vampire can move and react at superhuman speeds, allowing them to perform actions much faster than normal.' },
-                { level: 2, name: 'Sprint', description: 'The vampire can achieve incredible bursts of speed over short distances.' },
-                { level: 3, name: 'Enhanced Reflexes', description: 'The vampire\'s reaction time becomes so fast they can dodge bullets and catch arrows in flight.' },
-                { level: 4, name: 'Blur', description: 'The vampire moves so fast they become a blur, making them nearly impossible to target.' },
-                { level: 5, name: 'Accelerated Movement', description: 'The vampire can maintain superhuman speed for extended periods.' }
-            ],
-            'Dominate': [
-                { level: 1, name: 'Cloud Memory', description: 'Erase recent memories' },
-                { level: 2, name: 'Mesmerize', description: 'Compel simple actions' },
-                { level: 3, name: 'The Forgetful Mind', description: 'Implant false memories' },
-                { level: 4, name: 'Mass Manipulation', description: 'Affect multiple targets' },
-                { level: 5, name: 'Possession', description: 'Take control of body' }
-            ],
-            'Fortitude': [
-                { level: 1, name: 'Resilience', description: 'Resist physical damage' },
-                { level: 2, name: 'Unswayable Mind', description: 'Resist mental influence' },
-                { level: 3, name: 'Toughness', description: 'Ignore wound penalties' },
-                { level: 4, name: 'Defy Bane', description: 'Resist supernatural effects' },
-                { level: 5, name: 'Fortify the Inner Facade', description: 'Become immune to damage' }
-            ],
-            'Obfuscate': [
-                { level: 1, name: 'Cloak of Shadows', description: 'Hide in darkness' },
-                { level: 2, name: 'Silence of Death', description: 'Move without sound' },
-                { level: 3, name: 'Mask of a Thousand Faces', description: 'Change appearance' },
-                { level: 4, name: 'Vanish', description: 'Become completely invisible' },
-                { level: 5, name: 'Cloak the Gathering', description: 'Hide groups of people' }
-            ],
-            'Potence': [
-                { level: 1, name: 'Lethal Body', description: 'Enhanced physical strength' },
-                { level: 2, name: 'Prowess', description: 'Devastating physical attacks' },
-                { level: 3, name: 'Brutal Feed', description: 'Feed through violence' },
-                { level: 4, name: 'Spark of Rage', description: 'Cause frenzy in others' },
-                { level: 5, name: 'Earthshock', description: 'Create earthquakes' }
-            ],
-            'Presence': [
-                { level: 1, name: 'Awe', description: 'Inspire admiration' },
-                { level: 2, name: 'Dread Gaze', description: 'Cause fear' },
-                { level: 3, name: 'Entrancement', description: 'Create devoted followers' },
-                { level: 4, name: 'Summon', description: 'Compel others to come' },
-                { level: 5, name: 'Majesty', description: 'Become untouchable' }
-            ],
-            'Protean': [
-                { level: 1, name: 'Eyes of the Beast', description: 'Enhanced night vision' },
-                { level: 2, name: 'Shape of the Beast', description: 'Transform into animal' },
-                { level: 3, name: 'Mist Form', description: 'Become mist' },
-                { level: 4, name: 'Form of the Ancient', description: 'Become giant bat' },
-                { level: 5, name: 'Earth Meld', description: 'Merge with earth' }
-            ],
-            'Vicissitude': [
-                { level: 1, name: 'Malleable Visage', description: 'Change facial features' },
-                { level: 2, name: 'Fleshcraft', description: 'Modify body structure' },
-                { level: 3, name: 'Bonecraft', description: 'Manipulate bones' },
-                { level: 4, name: 'Horrid Form', description: 'Take monstrous shape' },
-                { level: 5, name: 'Metamorphosis', description: 'Complete body transformation' }
-            ],
-            'Dementation': [
-                { level: 1, name: 'Confusion', description: 'Cause mental disorientation' },
-                { level: 2, name: 'The Haunting', description: 'Create hallucinations' },
-                { level: 3, name: 'Nightmare', description: 'Induce terrifying dreams' },
-                { level: 4, name: 'Total Insanity', description: 'Drive target completely mad' },
-                { level: 5, name: 'The Beast Within', description: 'Unleash inner monster' }
-            ],
-            'Thaumaturgy': [
-                { level: 1, name: 'A Taste for Blood', description: 'Sense blood and vitae' },
-                { level: 2, name: 'Blood Rage', description: 'Cause frenzy in others' },
-                { level: 3, name: 'The Blood Bond', description: 'Create blood bonds' },
-                { level: 4, name: 'Blood of Acid', description: 'Corrupt blood' },
-                { level: 5, name: 'Cauldron of Blood', description: 'Mass blood manipulation' }
-            ],
-            'Necromancy': [
-                { level: 1, name: 'Speak with the Dead', description: 'Communicate with spirits' },
-                { level: 2, name: 'Summon Soul', description: 'Call forth spirits' },
-                { level: 3, name: 'Compel Soul', description: 'Force spirit obedience' },
-                { level: 4, name: 'Reanimate Corpse', description: 'Raise the dead' },
-                { level: 5, name: 'Soul Stealing', description: 'Capture souls' }
-            ],
-            'Quietus': [
-                { level: 1, name: 'Silence of Death', description: 'Move without sound' },
-                { level: 2, name: 'Touch of Death', description: 'Poisonous touch' },
-                { level: 3, name: 'Baal\'s Caress', description: 'Lethal blood attack' },
-                { level: 4, name: 'Blood of the Lamb', description: 'Corrupt blood' },
-                { level: 5, name: 'The Killing Word', description: 'Death by command' }
-            ],
-            'Serpentis': [
-                { level: 1, name: 'Eyes of the Serpent', description: 'Hypnotic gaze' },
-                { level: 2, name: 'Tongue of the Asp', description: 'Venomous bite' },
-                { level: 3, name: 'Form of the Cobra', description: 'Transform into snake' },
-                { level: 4, name: 'The Serpent\'s Kiss', description: 'Paralyzing venom' },
-                { level: 5, name: 'The Serpent\'s Embrace', description: 'Complete serpent form' }
-            ],
-            'Obtenebration': [
-                { level: 1, name: 'Shroud of Night', description: 'Create darkness' },
-                { level: 2, name: 'Arms of the Abyss', description: 'Shadow tentacles' },
-                { level: 3, name: 'Shadow Form', description: 'Become living shadow' },
-                { level: 4, name: 'Summon the Abyss', description: 'Call forth darkness' },
-                { level: 5, name: 'Black Metamorphosis', description: 'Become shadow demon' }
-            ],
-            'Chimerstry': [
-                { level: 1, name: 'Ignis Fatuus', description: 'Create false lights' },
-                { level: 2, name: 'Fata Morgana', description: 'Create illusions' },
-                { level: 3, name: 'Permanency', description: 'Make illusions real' },
-                { level: 4, name: 'Horrid Reality', description: 'Create nightmare illusions' },
-                { level: 5, name: 'Reality\'s Curtain', description: 'Alter reality itself' }
-            ],
-            'Daimoinon': [
-                { level: 1, name: 'Summon Demon', description: 'Call forth minor demons' },
-                { level: 2, name: 'Bind Demon', description: 'Control summoned demons' },
-                { level: 3, name: 'Demon\'s Kiss', description: 'Gain demonic powers' },
-                { level: 4, name: 'Hell\'s Gate', description: 'Open portal to Hell' },
-                { level: 5, name: 'Infernal Mastery', description: 'Command all demons' }
-            ],
-            'Melpominee': [
-                { level: 1, name: 'The Tragic Muse', description: 'Inspire artistic genius' },
-                { level: 2, name: 'The Tragic Flaw', description: 'Reveal fatal weaknesses' },
-                { level: 3, name: 'The Tragic Hero', description: 'Create doomed champions' },
-                { level: 4, name: 'The Tragic End', description: 'Ensure dramatic deaths' },
-                { level: 5, name: 'The Tragic Cycle', description: 'Control fate itself' }
-            ],
-            'Valeren': [
-                { level: 1, name: 'The Healing Touch', description: 'Heal others' },
-                { level: 2, name: 'The Warrior\'s Resolve', description: 'Enhance combat abilities' },
-                { level: 3, name: 'The Martyr\'s Blessing', description: 'Absorb others\' pain' },
-                { level: 4, name: 'The Saint\'s Grace', description: 'Become immune to harm' },
-                { level: 5, name: 'The Messiah\'s Return', description: 'Resurrect the dead' }
-            ],
-            'Mortis': [
-                { level: 1, name: 'Speak with the Dead', description: 'Communicate with corpses' },
-                { level: 2, name: 'Animate Corpse', description: 'Raise the dead' },
-                { level: 3, name: 'Bone Craft', description: 'Manipulate bones' },
-                { level: 4, name: 'Soul Stealing', description: 'Capture souls' },
-                { level: 5, name: 'Death\'s Embrace', description: 'Become death itself' }
-            ]
-        };
-        
-        // Show discipline power popover
-        function showDisciplinePopover(event, disciplineName) {
-            const button = event.target.closest('.discipline-option-btn');
-            if (!button || button.disabled) {
-                return;
-            }
-            
-            // Clear any existing timeout
-            if (currentPopoverTimeout) {
-                clearTimeout(currentPopoverTimeout);
-                currentPopoverTimeout = null;
-            }
-            
-            const popover = document.getElementById('disciplinePopover');
-            const popoverTitle = document.getElementById('popoverTitle');
-            const popoverPowers = document.getElementById('popoverPowers');
-            
-            // Set title (no "Powers" suffix per UX guidance)
-            popoverTitle.textContent = `${disciplineName}`;
-            
-            // Get available powers for this discipline
-            const availablePowers = getAvailablePowers(disciplineName);
-            
-            // Clear existing content
-            popoverPowers.innerHTML = '';
-            
-            // Generate power options
-            availablePowers.forEach(power => {
-                const powerOption = document.createElement('div');
-                powerOption.className = 'power-option';
-                // Legacy onclick removed - DisciplineSystem handles power selection now
-                // powerOption.onclick = () => selectPower(disciplineName, power);
-                powerOption.innerHTML = `
-                    <strong>Level ${power.level}:</strong> ${power.name}
-                    <br><small>${power.description}</small>
-                `;
-                popoverPowers.appendChild(powerOption);
-            });
-            
-            // Wire close button for immediate close
-            const closeBtn = document.getElementById('popoverClose');
-            if (closeBtn) {
-                closeBtn.onclick = (e) => {
-                    e.stopPropagation();
-                    // immediate close without delay
-                    clearPopoverTimeout();
-                    const p = document.getElementById('disciplinePopover');
-                    if (p) p.style.display = 'none';
-                    currentPopoverButton = null;
-                };
-            }
-
-            // Keep open when hovering popover; hide on leave with tolerance
-            popover.onmouseenter = clearPopoverTimeout;
-            popover.onmouseleave = hideDisciplinePopover;
-
-            // Position popover next to hovered button with viewport guards
-            const rect = button.getBoundingClientRect();
-            const margin = 12;
-
-            popover.style.position = 'fixed';
-            popover.style.visibility = 'hidden';
-            popover.style.display = 'block';
-            popover.style.zIndex = '1000';
-
-            const popoverRect = popover.getBoundingClientRect();
-            const vpW = window.innerWidth;
-            const vpH = window.innerHeight;
-
-            // Horizontal placement: prefer right side, fall back to left if overflow
-            let left = rect.right + margin;
-            if (left + popoverRect.width > vpW - margin) {
-                left = rect.left - popoverRect.width - margin;
-            }
-
-            // Update hover tracking
-            if (currentPopoverButton) {
-                currentPopoverButton.classList.remove('popover-target');
-            }
-            button.classList.add('popover-target');
-            if (left < margin) {
-                left = margin;
-            }
-
-            // Vertical placement: center to button, clamp to viewport
-            let top = rect.top + (rect.height - popoverRect.height) / 2;
-            if (top < margin) {
-                top = margin;
-            } else if (top + popoverRect.height > vpH - margin) {
-                top = Math.max(margin, vpH - popoverRect.height - margin);
-            }
-
-            popover.style.left = `${left}px`;
-            popover.style.top = `${top}px`;
-            popover.style.visibility = 'visible';
-            currentPopoverButton = button;
-        }
-        
-        // Clear popover timeout
-        function clearPopoverTimeout() {
-            if (currentPopoverTimeout) {
-                clearTimeout(currentPopoverTimeout);
-                currentPopoverTimeout = null;
-            }
-        }
-        
-        // Hide discipline power popover
-        function hideDisciplinePopover() {
-            currentPopoverTimeout = setTimeout(() => {
-                const popover = document.getElementById('disciplinePopover');
-                popover.style.display = 'none';
-                currentPopoverButton = null; // Clear button reference
-            }, 500); // Longer delay to allow moving to popover
-        }
-        
-        // Get available powers for a discipline (not yet selected)
-        function getAvailablePowers(disciplineName) {
-            const allPowers = disciplinePowers[disciplineName] || [];
-            const selectedPowers = getSelectedPowers(disciplineName);
-            
-            return allPowers.filter(power => 
-                !selectedPowers.some(selected => selected.level === power.level)
-            );
-        }
-        
-        // Get selected powers for a discipline
-        function getSelectedPowers(disciplineName) {
-            // For now, return empty array since we don't have discipline selection implemented yet
-            // This will show all powers as available
-            return [];
-        }
-        
-        // Select a power and add to discipline list
-        // DISABLED: Legacy function - DisciplineSystem now handles power selection
-        function selectPower(disciplineName, power) {
-            console.log(`[Legacy] Selected ${disciplineName} Level ${power.level}: ${power.name} - Disabled, DisciplineSystem handles this now`);
-            return; // Disabled - DisciplineSystem handles this
-            
-            // Check if this power is already selected
-            const disciplineList = document.getElementById('clanDisciplinesList');
-            if (disciplineList) {
-                const existingItems = disciplineList.querySelectorAll('.discipline-item');
-                const powerAlreadySelected = Array.from(existingItems).some(item => {
-                    const nameSpan = item.querySelector('.discipline-name');
-                    const levelSpan = item.querySelector('.discipline-level');
-                    return nameSpan && levelSpan && 
-                           nameSpan.textContent === `${disciplineName}: ${power.name}` &&
-                           levelSpan.textContent === power.level.toString();
-                });
-                
-                if (powerAlreadySelected) {
-                    alert(`${power.name} (Level ${power.level}) is already selected.`);
-                    return;
-                }
-                
-                // Create new discipline item
-                const disciplineItem = document.createElement('div');
-                disciplineItem.className = 'discipline-item';
-                disciplineItem.innerHTML = `
-                    <span class="discipline-name">${disciplineName}: ${power.name}</span>
-                    <span class="discipline-level">${power.level}</span>
-                    <button type="button" class="remove-discipline-btn" onclick="removeDiscipline('${disciplineName}: ${power.name}', ${power.level})">×</button>
-                `;
-                disciplineList.appendChild(disciplineItem);
-                
-                // Update count
-                const countDisplay = document.getElementById('clanDisciplinesCountDisplay');
-                if (countDisplay) {
-                    const items = disciplineList.querySelectorAll('.discipline-item');
-                    countDisplay.textContent = items.length;
-                }
-            }
-        }
-        
-        // Remove discipline from list
-        function removeDiscipline(disciplinePowerName, level) {
-            const disciplineList = document.getElementById('clanDisciplinesList');
-            if (disciplineList) {
-                const items = disciplineList.querySelectorAll('.discipline-item');
-                items.forEach(item => {
-                    const nameSpan = item.querySelector('.discipline-name');
-                    const levelSpan = item.querySelector('.discipline-level');
-                    if (nameSpan && levelSpan && 
-                        nameSpan.textContent === disciplinePowerName && 
-                        levelSpan.textContent === level.toString()) {
-                        item.remove();
-                        
-                        // Update count
-                        const countDisplay = document.getElementById('clanDisciplinesCountDisplay');
-                        if (countDisplay) {
-                            const remainingItems = disciplineList.querySelectorAll('.discipline-item');
-                            countDisplay.textContent = remainingItems.length;
-                        }
-                    }
-                });
-            }
-        }
-        
-        // Update discipline button availability based on clan
-        function updateDisciplineAvailability() {
-            const clan = document.getElementById('clan').value;
-            const clanDisciplines = {
-                'Toreador': ['Auspex', 'Celerity', 'Presence'],
-                'Brujah': ['Celerity', 'Potence', 'Presence'],
-                'Ventrue': ['Dominate', 'Fortitude', 'Presence'],
-                'Gangrel': ['Animalism', 'Fortitude', 'Protean'],
-                'Nosferatu': ['Animalism', 'Obfuscate', 'Potence'],
-                'Malkavian': ['Auspex', 'Dementation', 'Obfuscate'],
-                'Tremere': ['Auspex', 'Dominate', 'Thaumaturgy'],
-                'Assamite': ['Celerity', 'Obfuscate', 'Quietus'],
-                'Followers of Set': ['Obfuscate', 'Presence', 'Serpentis'],
-                'Giovanni': ['Dominate', 'Potence', 'Necromancy'],
-                'Lasombra': ['Dominate', 'Obfuscate', 'Obtenebration'],
-                'Ravnos': ['Animalism', 'Chimerstry', 'Fortitude'],
-                'Tzimisce': ['Animalism', 'Auspex', 'Vicissitude'],
-                'Caitiff': [] // Caitiff can learn any discipline
-            };
-            
-            // Get all discipline buttons
-            const disciplineButtons = document.querySelectorAll('.discipline-option-btn');
-            
-            disciplineButtons.forEach(button => {
-                const disciplineName = button.getAttribute('data-discipline');
-                
-                if (!clan) {
-                    // No clan selected - disable all
-                    button.disabled = true;
-                    button.classList.add('disabled', 'discipline-disabled');
-                    button.classList.remove('caitiff-available');
-                    button.style.opacity = '0.4';
-                    button.style.cursor = 'not-allowed';
-                    button.title = 'Select a clan to unlock disciplines';
-                } else if (clan === 'Caitiff') {
-                    // Caitiff can learn any discipline - enable all
-                    button.disabled = false;
-                    button.classList.remove('disabled', 'discipline-disabled');
-                    button.classList.add('caitiff-available');
-                    button.style.opacity = '1';
-                    button.style.cursor = 'pointer';
-                    button.title = '';
-                } else if (!clanDisciplines[clan] || !clanDisciplines[clan].includes(disciplineName)) {
-                    // Discipline not available to clan - disable
-                    button.disabled = true;
-                    button.classList.add('disabled', 'discipline-disabled');
-                    button.classList.remove('caitiff-available');
-                    button.style.opacity = '0.4';
-                    button.style.cursor = 'not-allowed';
-                    button.title = `${disciplineName} is not available to ${clan}`;
-                } else {
-                    // Discipline available to clan - enable
-                    button.disabled = false;
-                    button.classList.remove('disabled', 'discipline-disabled');
-                    button.classList.remove('caitiff-available');
-                    button.style.opacity = '1';
-                    button.style.cursor = 'pointer';
-                    button.title = '';
-                }
-            });
-        }
-        
-        // Call updateDisciplineAvailability when clan changes
-        document.addEventListener('DOMContentLoaded', function() {
-            const clanSelect = document.getElementById('clan');
-            if (clanSelect) {
-                clanSelect.addEventListener('change', updateDisciplineAvailability);
-                // Initial update
-                updateDisciplineAvailability();
-            }
-        });
-    </script>
-    
-    <!-- Final Details Functions (Coterie & Relationships) -->
-    <script>
-        // Coterie and Relationships Management Functions
-        window.coterieCounter = 0;
-        window.relationshipCounter = 0;
-
-        function collectCoteries() {
-            const coteries = [];
-            const coterieEntries = document.querySelectorAll('.coterie-entry');
-            coterieEntries.forEach(entry => {
-                const coterie = {
-                    coterie_name: entry.querySelector('.coterie-name')?.value || '',
-                    coterie_type: entry.querySelector('.coterie-type')?.value || '',
-                    role: entry.querySelector('.coterie-role')?.value || '',
-                    description: entry.querySelector('.coterie-description')?.value || '',
-                    notes: entry.querySelector('.coterie-notes')?.value || ''
-                };
-                if (coterie.coterie_name.trim()) {
-                    coteries.push(coterie);
-                }
-            });
-            return coteries;
-        }
-
-        function collectRelationships() {
-            const relationships = [];
-            const relationshipEntries = document.querySelectorAll('.relationship-entry');
-            relationshipEntries.forEach(entry => {
-                const characterSelect = entry.querySelector('.relationship-character-name');
-                const relationship = {
-                    related_character_name: characterSelect ? characterSelect.value : '',
-                    relationship_type: entry.querySelector('.relationship-type')?.value || '',
-                    relationship_subtype: entry.querySelector('.relationship-subtype')?.value || '',
-                    strength: entry.querySelector('.relationship-strength')?.value || '',
-                    description: entry.querySelector('.relationship-description')?.value || ''
-                };
-                if (relationship.related_character_name.trim()) {
-                    relationships.push(relationship);
-                }
-            });
-            return relationships;
-        }
-
-        window.addCoterieEntry = function(coterieData = null) {
-            const container = document.getElementById('coterieContainer');
-            const emptyState = document.getElementById('coterieEmptyState');
-            if (!container) {
-                console.error('Coterie container not found');
-                return;
-            }
-            
-            if (emptyState) emptyState.style.display = 'none';
-            
-            const index = window.coterieCounter++;
-            const entry = document.createElement('div');
-            entry.className = 'coterie-entry';
-            entry.dataset.index = index;
-            
-            entry.innerHTML = `
-                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
-                    <h5 style="margin: 0; color: #d4af37;">Coterie ${index + 1}</h5>
-                    <button type="button" class="remove-coterie-btn">Remove</button>
-                </div>
-                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-bottom: 15px;">
-                    <div>
-                        <label class="form-label">Coterie Name *</label>
-                        <input type="text" class="form-control coterie-name" placeholder="e.g., The Phoenix Circle" value="${coterieData?.coterie_name || ''}" required>
-                    </div>
-                    <div>
-                        <label class="form-label">Type</label>
-                        <select class="form-control coterie-type">
-                            <option value="">Select type...</option>
-                            <option value="faction" ${coterieData?.coterie_type === 'faction' ? 'selected' : ''}>Faction</option>
-                            <option value="role" ${coterieData?.coterie_type === 'role' ? 'selected' : ''}>Role</option>
-                            <option value="membership" ${coterieData?.coterie_type === 'membership' ? 'selected' : ''}>Membership</option>
-                            <option value="informal_group" ${coterieData?.coterie_type === 'informal_group' ? 'selected' : ''}>Informal Group</option>
-                        </select>
-                    </div>
-                    <div>
-                        <label class="form-label">Role</label>
-                        <input type="text" class="form-control coterie-role" placeholder="e.g., Leader, Member, Advisor" value="${coterieData?.role || ''}">
-                    </div>
-                </div>
-                <div style="margin-bottom: 15px;">
-                    <label class="form-label">Description</label>
-                    <textarea class="form-control coterie-description" rows="2" placeholder="Describe the coterie and your character's involvement">${coterieData?.description || ''}</textarea>
-                </div>
-                <div>
-                    <label class="form-label">Notes</label>
-                    <textarea class="form-control coterie-notes" rows="2" placeholder="Additional notes about this coterie association">${coterieData?.notes || ''}</textarea>
-                </div>
-            `;
-            
-            container.appendChild(entry);
-            
-            entry.querySelector('.remove-coterie-btn').addEventListener('click', function() {
-                entry.remove();
-                if (container.querySelectorAll('.coterie-entry').length === 0 && emptyState) {
-                    emptyState.style.display = 'block';
-                }
-            });
-        };
-
-        window.addRelationshipEntry = function(relationshipData = null) {
-            const container = document.getElementById('relationshipsContainer');
-            const emptyState = document.getElementById('relationshipsEmptyState');
-            if (!container) {
-                console.error('Relationships container not found');
-                return;
-            }
-            
-            if (emptyState) emptyState.style.display = 'none';
-            
-            const index = window.relationshipCounter++;
-            const entry = document.createElement('div');
-            entry.className = 'relationship-entry';
-            entry.dataset.index = index;
-            
-            // Build character options HTML
-            let characterOptions = '<option value="">Select character...</option>';
-            if (window.allCharacters && Array.isArray(window.allCharacters)) {
-                window.allCharacters.forEach(char => {
-                    const selected = relationshipData?.related_character_name === char.name ? 'selected' : '';
-                    characterOptions += `<option value="${char.name.replace(/"/g, '&quot;')}" ${selected}>${char.name}</option>`;
-                });
-            }
-            
-            entry.innerHTML = `
-                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
-                    <h5 style="margin: 0; color: #d4af37;">Relationship ${index + 1}</h5>
-                    <button type="button" class="remove-relationship-btn">Remove</button>
-                </div>
-                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-bottom: 15px;">
-                    <div>
-                        <label class="form-label">Character Name *</label>
-                        <select class="form-control relationship-character-name" required>
-                            ${characterOptions}
-                        </select>
-                    </div>
-                    <div>
-                        <label class="form-label">Relationship Type</label>
-                        <select class="form-control relationship-type">
-                            <option value="">Select type...</option>
-                            <option value="sire" ${relationshipData?.relationship_type === 'sire' ? 'selected' : ''}>Sire</option>
-                            <option value="childe" ${relationshipData?.relationship_type === 'childe' ? 'selected' : ''}>Childe</option>
-                            <option value="mentor" ${relationshipData?.relationship_type === 'mentor' ? 'selected' : ''}>Mentor</option>
-                            <option value="ally" ${relationshipData?.relationship_type === 'ally' ? 'selected' : ''}>Ally</option>
-                            <option value="contact" ${relationshipData?.relationship_type === 'contact' ? 'selected' : ''}>Contact</option>
-                            <option value="rival" ${relationshipData?.relationship_type === 'rival' ? 'selected' : ''}>Rival</option>
-                            <option value="enemy" ${relationshipData?.relationship_type === 'enemy' ? 'selected' : ''}>Enemy</option>
-                            <option value="other" ${relationshipData?.relationship_type === 'other' ? 'selected' : ''}>Other</option>
-                        </select>
-                    </div>
-                    <div>
-                        <label class="form-label">Subtype</label>
-                        <input type="text" class="form-control relationship-subtype" placeholder="e.g., Business partner, Former lover" value="${relationshipData?.relationship_subtype || ''}">
-                    </div>
-                    <div>
-                        <label class="form-label">Strength</label>
-                        <input type="text" class="form-control relationship-strength" placeholder="e.g., Strong, Weak, Neutral" value="${relationshipData?.strength || ''}">
-                    </div>
-                </div>
-                <div>
-                    <label class="form-label">Description</label>
-                    <textarea class="form-control relationship-description" rows="3" placeholder="Describe the nature of this relationship">${relationshipData?.description || ''}</textarea>
-                </div>
-            `;
-            
-            container.appendChild(entry);
-            
-            entry.querySelector('.remove-relationship-btn').addEventListener('click', function() {
-                entry.remove();
-    <script src="js/character_image.js"></script>
-        </div><!-- /.col-12 col-lg-8 -->
-      </div><!-- /.row -->
-    </div><!-- /.container -->
-<?php 
-if (!$isModal) {
-    include __DIR__ . '/includes/footer.php';
-} else {
-    // Close minimal structure for modal
-    ?>
-    </div><!-- /.page-wrapper -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
-    </body>
-    </html>
-    <?php
-}
-?>
+    <script src="js/script.js"></script>
+</body>
+</html>

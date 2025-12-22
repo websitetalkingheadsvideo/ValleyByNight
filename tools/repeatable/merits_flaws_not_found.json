@@ -1,0 +1,195 @@
+{
+    "generated_at": "2025-12-22T09:34:06+00:00",
+    "types": [
+        "Merit",
+        "Flaw"
+    ],
+    "categories": [
+        "Physical",
+        "Social",
+        "Mental",
+        "Supernatural"
+    ],
+    "characters": [
+        {
+            "id": 55,
+            "character_name": "Leo",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.json"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 89,
+            "character_name": "Pistol Pete",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.json"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 90,
+            "character_name": "Sasha",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.json"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 92,
+            "character_name": "Adrian Leclair",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.json"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 95,
+            "character_name": "Core (Alexandra Chen)",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.json"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 97,
+            "character_name": "Phreak",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.json"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 102,
+            "character_name": "Mr. Harold Ashby",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.json"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 104,
+            "character_name": "Tariq Ibrahim",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.json"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 107,
+            "character_name": "Layla al-Sahr",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.json"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 108,
+            "character_name": "Misfortune",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.json"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 109,
+            "character_name": "Tor",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.json"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 110,
+            "character_name": "Roxanne Vega",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.json"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 112,
+            "character_name": "Eddy Valiant",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.json"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 113,
+            "character_name": "Sarah Hansen",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.json"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 123,
+            "character_name": "Warner Jefferson",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.json"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 124,
+            "character_name": "Marisol \"Roadrunner\" Vega",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.json"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 125,
+            "character_name": "Roxanne Murphy",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.json"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 129,
+            "character_name": "Butch Reed",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.json"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 131,
+            "character_name": "Alistaire",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.json"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 133,
+            "character_name": "Lilith Nightshade",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.json"
+            ],
+            "reason": "no_matching_files_found"
+        }
+    ]
+}
