@@ -1,0 +1,115 @@
+{
+    "generated_at": "2025-12-22T09:23:56+00:00",
+    "characters": [
+        {
+            "id": 89,
+            "character_name": "Pistol Pete",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "reference\/Characters\/**\/*.md",
+                "agents\/character_agent\/data\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.md"
+            ],
+            "reason": "no_backgrounds_found_in_files"
+        },
+        {
+            "id": 90,
+            "character_name": "Sasha",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "reference\/Characters\/**\/*.md",
+                "agents\/character_agent\/data\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.md"
+            ],
+            "reason": "no_backgrounds_found_in_files"
+        },
+        {
+            "id": 92,
+            "character_name": "Adrian Leclair",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "reference\/Characters\/**\/*.md",
+                "agents\/character_agent\/data\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.md"
+            ],
+            "reason": "no_backgrounds_found_in_files"
+        },
+        {
+            "id": 95,
+            "character_name": "Core (Alexandra Chen)",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "reference\/Characters\/**\/*.md",
+                "agents\/character_agent\/data\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.md"
+            ],
+            "reason": "no_backgrounds_found_in_files"
+        },
+        {
+            "id": 97,
+            "character_name": "Phreak",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "reference\/Characters\/**\/*.md",
+                "agents\/character_agent\/data\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.md"
+            ],
+            "reason": "no_backgrounds_found_in_files"
+        },
+        {
+            "id": 104,
+            "character_name": "Tariq Ibrahim",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "reference\/Characters\/**\/*.md",
+                "agents\/character_agent\/data\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.md"
+            ],
+            "reason": "no_backgrounds_found_in_files"
+        },
+        {
+            "id": 110,
+            "character_name": "Roxanne Vega",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "reference\/Characters\/**\/*.md",
+                "agents\/character_agent\/data\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.md"
+            ],
+            "reason": "no_backgrounds_found_in_files"
+        },
+        {
+            "id": 124,
+            "character_name": "Marisol \"Roadrunner\" Vega",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "reference\/Characters\/**\/*.md",
+                "agents\/character_agent\/data\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.md"
+            ],
+            "reason": "no_backgrounds_found_in_files"
+        },
+        {
+            "id": 125,
+            "character_name": "Roxanne Murphy",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "reference\/Characters\/**\/*.md",
+                "agents\/character_agent\/data\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.md"
+            ],
+            "reason": "no_backgrounds_found_in_files"
+        },
+        {
+            "id": 131,
+            "character_name": "Alistaire",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "reference\/Characters\/**\/*.md",
+                "agents\/character_agent\/data\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.md"
+            ],
+            "reason": "no_backgrounds_found_in_files"
+        }
+    ]
+}
