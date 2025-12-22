@@ -1,6 +1,19 @@
 # Version History
 
-## Current Version: 0.8.70
+## Current Version: 0.8.71
+
+**Date:** 2025-01-30  
+**Type:** Patch (Delete modal styling consistency fixes)
+
+### Changes:
+- **Delete Modal Styling** - Fixed confirm deletion modals to follow site styling
+  - Added `modal.css` to all admin pages using delete modals
+  - Removed legacy custom CSS from `admin_camarilla_positions.css`
+  - Standardized all delete modals to use Bootstrap with `.vbn-` prefix classes
+  - Ensures consistent gothic theme: gold borders, dark gradients, proper fonts
+  - Affected pages: admin_panel, admin_items, admin_locations, admin_equipment, camarilla_positions, boon_ledger
+
+## Previous Version: 0.8.70
 
 **Date:** 2025-12-22  
 **Type:** Patch (Character backgrounds backfill script - maintenance tool)
