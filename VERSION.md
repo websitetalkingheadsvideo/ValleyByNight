@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.8.66
+## Current Version: 0.8.67
+
+**Date:** 2025-12-22  
+**Type:** Patch (Character backfill scripts: biography, appearance, and notes maintenance tools)
+
+## Previous Version: 0.8.66
 
 **Date:** 2025-01-30  
 **Type:** Patch (Locations table improvements: PC Earnable column, District overflow fix, sticky Actions column)

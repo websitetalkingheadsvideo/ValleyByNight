@@ -1,0 +1,203 @@
+{
+    "generated_at": "2025-12-22T07:12:14+00:00",
+    "characters": [
+        {
+            "id": 42,
+            "character_name": "Rembrandt Jones",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "reference\/Characters\/**\/*.md",
+                "agents\/character_agent\/data\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.md"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 47,
+            "character_name": "Cordelia Fairchild",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "reference\/Characters\/**\/*.md",
+                "agents\/character_agent\/data\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.md"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 48,
+            "character_name": "Duke Tiki",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "reference\/Characters\/**\/*.md",
+                "agents\/character_agent\/data\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.md"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 50,
+            "character_name": "Sabine",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "reference\/Characters\/**\/*.md",
+                "agents\/character_agent\/data\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.md"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 52,
+            "character_name": "Sebastian",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "reference\/Characters\/**\/*.md",
+                "agents\/character_agent\/data\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.md"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 57,
+            "character_name": "Betty",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "reference\/Characters\/**\/*.md",
+                "agents\/character_agent\/data\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.md"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 60,
+            "character_name": "Lucien Marchand",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "reference\/Characters\/**\/*.md",
+                "agents\/character_agent\/data\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.md"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 62,
+            "character_name": "Sofia Alvarez",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "reference\/Characters\/**\/*.md",
+                "agents\/character_agent\/data\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.md"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 68,
+            "character_name": "Étienne Duvalier",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "reference\/Characters\/**\/*.md",
+                "agents\/character_agent\/data\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.md"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 92,
+            "character_name": "Adrian Leclair",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "reference\/Characters\/**\/*.md",
+                "agents\/character_agent\/data\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.md"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 95,
+            "character_name": "Core (Alexandra Chen)",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "reference\/Characters\/**\/*.md",
+                "agents\/character_agent\/data\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.md"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 97,
+            "character_name": "Phreak",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "reference\/Characters\/**\/*.md",
+                "agents\/character_agent\/data\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.md"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 101,
+            "character_name": "Barry Washington",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "reference\/Characters\/**\/*.md",
+                "agents\/character_agent\/data\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.md"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 102,
+            "character_name": "Mr. Harold Ashby",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "reference\/Characters\/**\/*.md",
+                "agents\/character_agent\/data\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.md"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 104,
+            "character_name": "Tariq Ibrahim",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "reference\/Characters\/**\/*.md",
+                "agents\/character_agent\/data\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.md"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 107,
+            "character_name": "Layla al-Sahr",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "reference\/Characters\/**\/*.md",
+                "agents\/character_agent\/data\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.md"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 124,
+            "character_name": "Marisol \"Roadrunner\" Vega",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "reference\/Characters\/**\/*.md",
+                "agents\/character_agent\/data\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.md"
+            ],
+            "reason": "no_matching_files_found"
+        },
+        {
+            "id": 130,
+            "character_name": "Kerry, the Desert-Wandering Gangrel",
+            "searched_files": [
+                "reference\/Characters\/**\/*.json",
+                "reference\/Characters\/**\/*.md",
+                "agents\/character_agent\/data\/Characters\/**\/*.json",
+                "agents\/character_agent\/data\/Characters\/**\/*.md"
+            ],
+            "reason": "no_matching_files_found"
+        }
+    ]
+}
