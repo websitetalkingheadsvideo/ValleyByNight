@@ -1352,3 +1352,46 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 });
 
+// ============================================================================
+// GLOBAL WRAPPER FUNCTIONS FOR TRAIT SYSTEM
+// ============================================================================
+
+/**
+ * Global wrapper function for selecting traits
+ * Called from onclick handlers in HTML
+ */
+window.selectTrait = function(category, traitName) {
+    const app = window.characterCreationApp;
+    if (!app || !app.modules || !app.modules.traitSystem) {
+        console.error('TraitSystem is not ready; cannot select trait.');
+        return;
+    }
+    app.modules.traitSystem.selectTrait(category, traitName);
+};
+
+/**
+ * Global wrapper function for selecting negative traits
+ * Called from onclick handlers in HTML
+ */
+window.selectNegativeTrait = function(category, traitName) {
+    const app = window.characterCreationApp;
+    if (!app || !app.modules || !app.modules.traitSystem) {
+        console.error('TraitSystem is not ready; cannot select negative trait.');
+        return;
+    }
+    app.modules.traitSystem.selectNegativeTrait(category, traitName);
+};
+
+/**
+ * Global wrapper function for showing tabs
+ * Called from onclick handlers in HTML
+ */
+window.showTab = function(tabIndex) {
+    const app = window.characterCreationApp;
+    if (!app || !app.modules || !app.modules.tabManager) {
+        console.error('TabManager is not ready; cannot show tab.');
+        return;
+    }
+    app.modules.tabManager.showTab(tabIndex);
+};
+

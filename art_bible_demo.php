@@ -916,7 +916,7 @@ function example() {
             <div class="modal-content vbn-modal-content">
                 <div class="modal-header vbn-modal-header">
                     <h5 class="modal-title vbn-modal-title">Red Border Modal (Current)</h5>
-                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"></button>
+                    <button type="button" class="btn-close btn-close" data-bs-dismiss="modal"></button>
                 </div>
                 <div class="modal-body vbn-modal-body">
                     <p style="color: var(--text-mid);">This modal uses the current red border styling.</p>
@@ -935,7 +935,7 @@ function example() {
             <div class="modal-content vbn-modal-content" style="border: 3px solid var(--muted-gold);">
                 <div class="modal-header vbn-modal-header">
                     <h5 class="modal-title vbn-modal-title">Gold Border Modal (Art Bible)</h5>
-                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"></button>
+                    <button type="button" class="btn-close btn-close" data-bs-dismiss="modal"></button>
                 </div>
                 <div class="modal-body vbn-modal-body">
                     <p style="color: var(--text-mid);">This modal uses gold border as specified in Art Bible.</p>

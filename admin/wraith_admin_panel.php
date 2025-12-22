@@ -225,7 +225,7 @@ include __DIR__ . '/../includes/character_view_modal.php';
         <div class="modal-content">
             <div class="modal-header">
                 <h5 class="modal-title" id="editWraithCharacterModalLabel">Edit Wraith Character</h5>
-                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+                <button type="button" class="btn-close btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body p-0" style="height: calc(100vh - 120px);">
                 <iframe id="editWraithCharacterIframe" 

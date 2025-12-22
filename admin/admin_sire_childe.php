@@ -237,7 +237,7 @@ include __DIR__ . '/../includes/header.php';
         <div class="modal-content bg-dark border-danger">
             <div class="modal-header border-danger">
                 <h2 class="modal-title text-light" id="relationshipModalLabel">🧛 <span id="modalTitle">Add Relationship</span></h2>
-                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+                <button type="button" class="btn-close btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <form id="relationshipForm" class="needs-validation" novalidate>
                 <div class="modal-body">
@@ -296,7 +296,7 @@ include __DIR__ . '/../includes/header.php';
         <div class="modal-content bg-dark border-danger">
             <div class="modal-header border-danger">
                 <h2 class="modal-title text-light" id="treeModalLabel">🌳 Vampire Family Tree</h2>
-                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+                <button type="button" class="btn-close btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
                 <div id="familyTreeContent">

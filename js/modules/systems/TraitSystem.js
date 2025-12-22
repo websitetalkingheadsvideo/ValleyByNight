@@ -50,7 +50,9 @@ class TraitSystem {
         const { eventManager } = this;
         
         // Trait selection buttons - use document delegation since we have multiple containers
-        eventManager.addDelegatedListener(document, '.trait-option-btn', 'click', (e) => {
+        // Note: Buttons use onclick handlers directly, these listeners may not be needed
+        // Keeping for potential future use with data attributes
+        eventManager.addDelegatedListener(document, 'button[onclick*="selectTrait"]', 'click', (e) => {
             // Check if it's a negative trait button
             if (e.target.classList.contains('negative')) {
                 return; // Let the negative trait handler deal with it
@@ -59,7 +61,7 @@ class TraitSystem {
         });
         
         // Negative trait selection buttons
-        eventManager.addDelegatedListener(document, '.trait-option-btn.negative', 'click', (e) => {
+        eventManager.addDelegatedListener(document, 'button[onclick*="selectNegativeTrait"]', 'click', (e) => {
             this.handleNegativeTraitClick(e);
         });
         
