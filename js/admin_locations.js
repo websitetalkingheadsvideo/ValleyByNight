@@ -189,7 +189,15 @@ function applyFilters() {
         }
 
         // Search filter
-        if (currentSearchTerm && !location.name.toLowerCase().includes(currentSearchTerm)) return false;
+        if (currentSearchTerm) {
+            const searchLower = currentSearchTerm.toLowerCase();
+            const nameMatch = location.name.toLowerCase().includes(searchLower);
+            const isPCHaven = location.type === 'Haven' && (location.pc_haven == 1 || location.pc_haven === true);
+            const earnableMatch = (searchLower.includes('earnable') || searchLower.includes('pc earnable')) && isPCHaven;
+            const pcMatch = searchLower === 'pc' && isPCHaven;
+            
+            if (!nameMatch && !earnableMatch && !pcMatch) return false;
+        }
 
         return true;
     });
@@ -213,6 +221,12 @@ function sortTable(column, direction) {
         if (column === 'id' || column === 'security_level') {
             aVal = parseInt(aVal) || 0;
             bVal = parseInt(bVal) || 0;
+        } else if (column === 'pc_earnable') {
+            // For PC Earnable, check if it's a PC Haven
+            const aIsPCHaven = a.type === 'Haven' && (a.pc_haven == 1 || a.pc_haven === true);
+            const bIsPCHaven = b.type === 'Haven' && (b.pc_haven == 1 || b.pc_haven === true);
+            aVal = aIsPCHaven ? 1 : 0;
+            bVal = bIsPCHaven ? 1 : 0;
         } else {
             aVal = (aVal || '').toString().toLowerCase();
             bVal = (bVal || '').toString().toLowerCase();
@@ -236,15 +250,18 @@ function updateTable() {
     
     tbody.innerHTML = pageLocations.map(location => {
         const isPCHaven = location.type === 'Haven' && (location.pc_haven == 1 || location.pc_haven === true);
-        const pcHavenBadge = isPCHaven ? '<span class="badge bg-info" title="Possible PC Haven">PC</span> ' : '';
+        const pcEarnableBadge = isPCHaven 
+            ? '<span class="badge bg-warning text-dark" title="PCs can earn this haven">Earnable</span>' 
+            : '<span class="opacity-75">—</span>';
         return `
         <tr>
             <td>${location.id}</td>
-            <td><strong>${pcHavenBadge}${escapeHtml(location.name)}</strong></td>
+            <td><strong>${escapeHtml(location.name)}</strong></td>
             <td><span class="badge-${location.type.toLowerCase().replace(' ', '-')}">${escapeHtml(location.type)}</span></td>
             <td><span class="badge-${location.status.toLowerCase()}">${escapeHtml(location.status)}</span></td>
             <td>${escapeHtml(location.district || 'N/A')}</td>
             <td>${escapeHtml(location.owner_type || 'N/A')}</td>
+            <td class="text-center">${pcEarnableBadge}</td>
             <td class="actions text-center align-top w-150px">
                 <div class="btn-group btn-group-sm" role="group" aria-label="Location actions">
                     <button class="action-btn view-btn btn btn-primary" 
