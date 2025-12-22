@@ -1,6 +1,16 @@
 # Version History
 
-## Current Version: 0.8.67
+## Current Version: 0.8.69
+
+**Date:** 2025-01-30  
+**Type:** Patch (Character ability query fixes and maintenance tools)
+
+## Previous Version: 0.8.68
+
+**Date:** 2025-01-30  
+**Type:** Patch (Character backfill scripts: biography, appearance, and notes maintenance tools)
+
+## Previous Version: 0.8.67
 
 **Date:** 2025-12-22  
 **Type:** Patch (Character backfill scripts: biography, appearance, and notes maintenance tools)

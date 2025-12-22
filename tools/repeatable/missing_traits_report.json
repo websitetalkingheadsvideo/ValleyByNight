@@ -1,0 +1,62 @@
+{
+    "generated_at": "2025-12-22T08:32:33+00:00",
+    "categories": [
+        "Physical",
+        "Social",
+        "Mental"
+    ],
+    "total_characters": 50,
+    "missing_count": 10,
+    "characters": [
+        {
+            "id": 55,
+            "character_name": "Leo",
+            "detected_at": "2025-12-22T08:32:10+00:00"
+        },
+        {
+            "id": 95,
+            "character_name": "Core (Alexandra Chen)",
+            "detected_at": "2025-12-22T08:32:19+00:00"
+        },
+        {
+            "id": 97,
+            "character_name": "Phreak",
+            "detected_at": "2025-12-22T08:32:20+00:00"
+        },
+        {
+            "id": 104,
+            "character_name": "Tariq Ibrahim",
+            "detected_at": "2025-12-22T08:32:23+00:00"
+        },
+        {
+            "id": 107,
+            "character_name": "Layla al-Sahr",
+            "detected_at": "2025-12-22T08:32:24+00:00"
+        },
+        {
+            "id": 123,
+            "character_name": "Warner Jefferson",
+            "detected_at": "2025-12-22T08:32:27+00:00"
+        },
+        {
+            "id": 124,
+            "character_name": "Marisol \"Roadrunner\" Vega",
+            "detected_at": "2025-12-22T08:32:27+00:00"
+        },
+        {
+            "id": 125,
+            "character_name": "Roxanne Murphy",
+            "detected_at": "2025-12-22T08:32:28+00:00"
+        },
+        {
+            "id": 129,
+            "character_name": "Butch Reed",
+            "detected_at": "2025-12-22T08:32:28+00:00"
+        },
+        {
+            "id": 131,
+            "character_name": "Alistaire",
+            "detected_at": "2025-12-22T08:32:29+00:00"
+        }
+    ]
+}

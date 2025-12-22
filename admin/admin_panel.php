@@ -15,7 +15,7 @@ if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
 }
 
 require_once __DIR__ . '/../includes/connect.php';
-$extra_css = ['css/admin-agents.css', 'css/admin_panel.css', 'css/character_view.css'];
+$extra_css = ['css/admin-agents.css', 'css/admin_panel.css', 'css/character_view.css', 'css/modal.css'];
 include __DIR__ . '/../includes/header.php';
 
 function render_status_badge($status) {
