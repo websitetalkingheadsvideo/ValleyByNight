@@ -58,7 +58,7 @@ try {
             ca.level,
             ca.specialization
          FROM character_abilities ca
-         LEFT JOIN abilities a ON ca.ability_name = a.name
+         LEFT JOIN abilities a ON ca.ability_name COLLATE utf8mb4_unicode_ci = a.name COLLATE utf8mb4_unicode_ci
          WHERE ca.character_id = ?
          ORDER BY COALESCE(ca.ability_category, a.category), ca.ability_name",
         'i', [$character_id]
