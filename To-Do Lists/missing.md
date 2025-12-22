@@ -1,78 +1,48 @@
 # Character Missing Data Report
 
 Generated: 2025-12-22 12:51:58
+Updated: 2025-12-22 13:13:22 (after abilities backfill)
 
 This report combines all missing data reports into a single consolidated list.
 
 ## Summary
 
-Total characters with missing data: 50
+Total characters with missing data: 41
 
 ## Characters Missing Data
-
-### ID: 26 - Andrei Radulescu
-
-**Missing Fields:**
-- Abilities
-
-### ID: 27 - Dr. Margaret Ashford
-
-**Missing Fields:**
-- Abilities
-
-### ID: 28 - James Whitmore
-
-**Missing Fields:**
-- Abilities
 
 ### ID: 42 - Rembrandt Jones
 
 **Missing Fields:**
-- Abilities
 - Appearance
 - Notes
 
 ### ID: 43 - Violet 'The Confidence Queen'
 
 **Missing Fields:**
-- Abilities
 - Demeanor
-
-### ID: 44 - Jax 'The Ghost Dealer'
-
-**Missing Fields:**
-- Abilities
-
-### ID: 46 - Bayside Bob
-
-**Missing Fields:**
-- Abilities
 
 ### ID: 47 - Cordelia Fairchild
 
 **Missing Fields:**
-- Abilities
 - Appearance
 - Notes
 
 ### ID: 48 - Duke Tiki
 
 **Missing Fields:**
-- Abilities
 - Appearance
 - Notes
 
 ### ID: 50 - Sabine
 
 **Missing Fields:**
-- Abilities
 - Appearance
 - Notes
 
 ### ID: 52 - Sebastian
 
 **Missing Fields:**
-- Abilities
 - Appearance
 - Notes
 
@@ -86,55 +56,36 @@ Total characters with missing data: 50
 ### ID: 57 - Betty
 
 **Missing Fields:**
-- Abilities
 - Appearance
 - Notes
 
 ### ID: 60 - Lucien Marchand
 
 **Missing Fields:**
-- Abilities
 - Appearance
 - Notes
 
 ### ID: 62 - Sofia Alvarez
 
 **Missing Fields:**
-- Abilities
 - Appearance
 - Notes
-
-### ID: 63 - Piston
-
-**Missing Fields:**
-- Abilities
 
 ### ID: 68 - Étienne Duvalier
 
 **Missing Fields:**
-- Abilities
 - Appearance
 - Notes
 
 ### ID: 70 - Alessandro Vescari
 
 **Missing Fields:**
-- Abilities
 - Appearance
 - Demeanor
 - History
 - Nature
 - Notes
 
-### ID: 71 - Jennifer Kwan
-
-**Missing Fields:**
-- Abilities
-
-### ID: 72 - Marcus Webb
-
-**Missing Fields:**
-- Abilities
 
 ### ID: 87 - Kerry, the Gangrel
 
@@ -144,7 +95,6 @@ Total characters with missing data: 50
 ### ID: 88 - Roland Cross
 
 **Missing Fields:**
-- Abilities
 - Notes
 
 ### ID: 89 - Pistol Pete
@@ -158,7 +108,6 @@ Total characters with missing data: 50
 ### ID: 90 - Sasha
 
 **Missing Fields:**
-- Abilities
 - Backgrounds
 - Disciplines
 - Merits/Flaws
@@ -200,7 +149,6 @@ Total characters with missing data: 50
 ### ID: 101 - Barry Washington
 
 **Missing Fields:**
-- Abilities
 - Appearance
 
 ### ID: 102 - Mr. Harold Ashby
@@ -227,7 +175,6 @@ Total characters with missing data: 50
 ### ID: 107 - Layla al-Sahr
 
 **Missing Fields:**
-- Abilities
 - Appearance
 - Disciplines
 - History
@@ -245,7 +192,6 @@ Total characters with missing data: 50
 ### ID: 109 - Tor
 
 **Missing Fields:**
-- Abilities
 - Demeanor
 - Merits/Flaws
 - Nature
@@ -253,7 +199,6 @@ Total characters with missing data: 50
 ### ID: 110 - Roxanne Vega
 
 **Missing Fields:**
-- Abilities
 - Backgrounds
 - Merits/Flaws
 
@@ -267,7 +212,6 @@ Total characters with missing data: 50
 ### ID: 113 - Sarah Hansen
 
 **Missing Fields:**
-- Abilities
 - Demeanor
 - Disciplines
 - Merits/Flaws
@@ -276,7 +220,6 @@ Total characters with missing data: 50
 ### ID: 123 - Warner Jefferson
 
 **Missing Fields:**
-- Abilities
 - Backgrounds
 - Merits/Flaws
 - Traits
@@ -297,7 +240,6 @@ Total characters with missing data: 50
 ### ID: 125 - Roxanne Murphy
 
 **Missing Fields:**
-- Abilities
 - Backgrounds
 - Disciplines
 - Merits/Flaws
@@ -314,7 +256,6 @@ Total characters with missing data: 50
 ### ID: 130 - Kerry, the Desert-Wandering Gangrel
 
 **Missing Fields:**
-- Abilities
 - Appearance
 
 ### ID: 131 - Alistaire
@@ -330,47 +271,35 @@ Total characters with missing data: 50
 ### ID: 133 - Lilith Nightshade
 
 **Missing Fields:**
-- Abilities
 - Merits/Flaws
 
 ### ID: 136 - Charles "C.W." Whitford
 
 **Missing Fields:**
-- Abilities
 - Notes
-
-### ID: 137 - Naomi Blackbird
-
-**Missing Fields:**
-- Abilities
 
 ### ID: 138 - Helena Crowly
 
 **Missing Fields:**
-- Abilities
 - Notes
 
 ### ID: 139 - Lorenzo Giovanni
 
 **Missing Fields:**
-- Abilities
 - History
 
 ### ID: 140 - Marianna Giovanni
 
 **Missing Fields:**
-- Abilities
 - History
 
 ### ID: 141 - Paris Giovanni
 
 **Missing Fields:**
-- Abilities
 - History
 
 ### ID: 142 - Paulo Benedicto Giovanni
 
 **Missing Fields:**
-- Abilities
 - History
 

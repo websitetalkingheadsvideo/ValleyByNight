@@ -1,262 +1,57 @@
 {
-    "generated_at": "2025-12-22T08:37:08+00:00",
+    "generated_at": "2025-12-22T13:13:22+00:00",
     "categories": [
         "Physical",
         "Social",
         "Mental"
     ],
-    "total_characters": 50,
-    "missing_count": 50,
+    "total_characters": 46,
+    "missing_count": 9,
     "characters": [
-        {
-            "id": 26,
-            "character_name": "Andrei Radulescu",
-            "detected_at": "2025-12-22T08:36:48+00:00"
-        },
-        {
-            "id": 27,
-            "character_name": "Dr. Margaret Ashford",
-            "detected_at": "2025-12-22T08:36:49+00:00"
-        },
-        {
-            "id": 28,
-            "character_name": "James Whitmore",
-            "detected_at": "2025-12-22T08:36:49+00:00"
-        },
-        {
-            "id": 42,
-            "character_name": "Rembrandt Jones",
-            "detected_at": "2025-12-22T08:36:50+00:00"
-        },
-        {
-            "id": 43,
-            "character_name": "Violet 'The Confidence Queen'",
-            "detected_at": "2025-12-22T08:36:51+00:00"
-        },
-        {
-            "id": 44,
-            "character_name": "Jax 'The Ghost Dealer'",
-            "detected_at": "2025-12-22T08:36:52+00:00"
-        },
-        {
-            "id": 46,
-            "character_name": "Bayside Bob",
-            "detected_at": "2025-12-22T08:36:53+00:00"
-        },
-        {
-            "id": 47,
-            "character_name": "Cordelia Fairchild",
-            "detected_at": "2025-12-22T08:36:54+00:00"
-        },
-        {
-            "id": 48,
-            "character_name": "Duke Tiki",
-            "detected_at": "2025-12-22T08:36:54+00:00"
-        },
-        {
-            "id": 50,
-            "character_name": "Sabine",
-            "detected_at": "2025-12-22T08:36:55+00:00"
-        },
-        {
-            "id": 52,
-            "character_name": "Sebastian",
-            "detected_at": "2025-12-22T08:36:56+00:00"
-        },
         {
             "id": 55,
             "character_name": "Leo",
-            "detected_at": "2025-12-22T08:36:56+00:00"
-        },
-        {
-            "id": 57,
-            "character_name": "Betty",
-            "detected_at": "2025-12-22T08:36:57+00:00"
-        },
-        {
-            "id": 60,
-            "character_name": "Lucien Marchand",
-            "detected_at": "2025-12-22T08:36:57+00:00"
-        },
-        {
-            "id": 62,
-            "character_name": "Sofia Alvarez",
-            "detected_at": "2025-12-22T08:36:57+00:00"
-        },
-        {
-            "id": 63,
-            "character_name": "Piston",
-            "detected_at": "2025-12-22T08:36:58+00:00"
-        },
-        {
-            "id": 68,
-            "character_name": "Étienne Duvalier",
-            "detected_at": "2025-12-22T08:36:59+00:00"
-        },
-        {
-            "id": 70,
-            "character_name": "Alessandro Vescari",
-            "detected_at": "2025-12-22T08:37:01+00:00"
-        },
-        {
-            "id": 71,
-            "character_name": "Jennifer Kwan",
-            "detected_at": "2025-12-22T08:37:01+00:00"
-        },
-        {
-            "id": 72,
-            "character_name": "Marcus Webb",
-            "detected_at": "2025-12-22T08:37:01+00:00"
-        },
-        {
-            "id": 87,
-            "character_name": "Kerry, the Gangrel",
-            "detected_at": "2025-12-22T08:37:01+00:00"
-        },
-        {
-            "id": 88,
-            "character_name": "Roland Cross",
-            "detected_at": "2025-12-22T08:37:01+00:00"
+            "detected_at": "2025-12-22T13:13:15+00:00"
         },
         {
             "id": 89,
             "character_name": "Pistol Pete",
-            "detected_at": "2025-12-22T08:37:02+00:00"
-        },
-        {
-            "id": 90,
-            "character_name": "Sasha",
-            "detected_at": "2025-12-22T08:37:02+00:00"
+            "detected_at": "2025-12-22T13:13:18+00:00"
         },
         {
             "id": 92,
             "character_name": "Adrian Leclair",
-            "detected_at": "2025-12-22T08:37:02+00:00"
-        },
-        {
-            "id": 95,
-            "character_name": "Core (Alexandra Chen)",
-            "detected_at": "2025-12-22T08:37:03+00:00"
-        },
-        {
-            "id": 97,
-            "character_name": "Phreak",
-            "detected_at": "2025-12-22T08:37:03+00:00"
-        },
-        {
-            "id": 101,
-            "character_name": "Barry Washington",
-            "detected_at": "2025-12-22T08:37:03+00:00"
+            "detected_at": "2025-12-22T13:13:18+00:00"
         },
         {
             "id": 102,
             "character_name": "Mr. Harold Ashby",
-            "detected_at": "2025-12-22T08:37:03+00:00"
+            "detected_at": "2025-12-22T13:13:19+00:00"
         },
         {
             "id": 104,
             "character_name": "Tariq Ibrahim",
-            "detected_at": "2025-12-22T08:37:03+00:00"
-        },
-        {
-            "id": 107,
-            "character_name": "Layla al-Sahr",
-            "detected_at": "2025-12-22T08:37:03+00:00"
-        },
-        {
-            "id": 108,
-            "character_name": "Misfortune",
-            "detected_at": "2025-12-22T08:37:03+00:00"
-        },
-        {
-            "id": 109,
-            "character_name": "Tor",
-            "detected_at": "2025-12-22T08:37:03+00:00"
-        },
-        {
-            "id": 110,
-            "character_name": "Roxanne Vega",
-            "detected_at": "2025-12-22T08:37:03+00:00"
+            "detected_at": "2025-12-22T13:13:19+00:00"
         },
         {
             "id": 112,
             "character_name": "Eddy Valiant",
-            "detected_at": "2025-12-22T08:37:03+00:00"
-        },
-        {
-            "id": 113,
-            "character_name": "Sarah Hansen",
-            "detected_at": "2025-12-22T08:37:03+00:00"
-        },
-        {
-            "id": 123,
-            "character_name": "Warner Jefferson",
-            "detected_at": "2025-12-22T08:37:04+00:00"
+            "detected_at": "2025-12-22T13:13:19+00:00"
         },
         {
             "id": 124,
             "character_name": "Marisol \"Roadrunner\" Vega",
-            "detected_at": "2025-12-22T08:37:04+00:00"
-        },
-        {
-            "id": 125,
-            "character_name": "Roxanne Murphy",
-            "detected_at": "2025-12-22T08:37:04+00:00"
+            "detected_at": "2025-12-22T13:13:20+00:00"
         },
         {
             "id": 129,
             "character_name": "Butch Reed",
-            "detected_at": "2025-12-22T08:37:04+00:00"
-        },
-        {
-            "id": 130,
-            "character_name": "Kerry, the Desert-Wandering Gangrel",
-            "detected_at": "2025-12-22T08:37:04+00:00"
+            "detected_at": "2025-12-22T13:13:20+00:00"
         },
         {
             "id": 131,
             "character_name": "Alistaire",
-            "detected_at": "2025-12-22T08:37:04+00:00"
-        },
-        {
-            "id": 133,
-            "character_name": "Lilith Nightshade",
-            "detected_at": "2025-12-22T08:37:04+00:00"
-        },
-        {
-            "id": 136,
-            "character_name": "Charles \"C.W.\" Whitford",
-            "detected_at": "2025-12-22T08:37:05+00:00"
-        },
-        {
-            "id": 137,
-            "character_name": "Naomi Blackbird",
-            "detected_at": "2025-12-22T08:37:05+00:00"
-        },
-        {
-            "id": 138,
-            "character_name": "Helena Crowly",
-            "detected_at": "2025-12-22T08:37:06+00:00"
-        },
-        {
-            "id": 139,
-            "character_name": "Lorenzo Giovanni",
-            "detected_at": "2025-12-22T08:37:07+00:00"
-        },
-        {
-            "id": 140,
-            "character_name": "Marianna Giovanni",
-            "detected_at": "2025-12-22T08:37:07+00:00"
-        },
-        {
-            "id": 141,
-            "character_name": "Paris Giovanni",
-            "detected_at": "2025-12-22T08:37:07+00:00"
-        },
-        {
-            "id": 142,
-            "character_name": "Paulo Benedicto Giovanni",
-            "detected_at": "2025-12-22T08:37:08+00:00"
+            "detected_at": "2025-12-22T13:13:20+00:00"
         }
     ]
 }
