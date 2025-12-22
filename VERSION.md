@@ -1,9 +1,9 @@
 # Version History
 
-## Current Version: 0.8.71
+## Current Version: 0.8.72
 
 **Date:** 2025-01-30  
-**Type:** Patch (Delete modal styling consistency fixes)
+**Type:** Patch (Ability indicator domain-specific color coding)
 
 ### Changes:
 - **Delete Modal Styling** - Fixed confirm deletion modals to follow site styling

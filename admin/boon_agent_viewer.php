@@ -429,7 +429,7 @@ $extra_css = ['css/admin-agents.css'];
         <div class="modal-content bg-dark border-danger">
             <div class="modal-header border-danger">
                 <h5 class="modal-title text-light" id="reportResultModalLabel">Report Generation Result</h5>
-                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+                <button type="button" class="btn-close btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
                 <div id="reportResultContent"></div>
@@ -447,7 +447,7 @@ $extra_css = ['css/admin-agents.css'];
         <div class="modal-content bg-dark border-danger">
             <div class="modal-header border-danger">
                 <h5 class="modal-title text-light" id="boonRelationshipsModalLabel">Boon Relationships Graph</h5>
-                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+                <button type="button" class="btn-close btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
                 <div id="boonGraphLoading" class="text-center text-light py-5">

@@ -397,7 +397,7 @@ include __DIR__ . '/../includes/character_view_modal.php';
                     </h5>
                 </div>
                 <div class="d-flex align-items-center gap-2 ms-auto">
-                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
             </div>
             <div class="modal-body vbn-modal-body p-0 modal-body-overflow-hidden">
@@ -454,34 +454,6 @@ document.addEventListener('DOMContentLoaded', function() {
                 focus: true
             });
             modalInstance.show();
-            
-            // #region agent log
-            // Instrumentation: Check CSS variables and which rules are winning
-            setTimeout(function() {
-                const modalContent = modalEl.querySelector('.modal-content');
-                const modalHeader = modalEl.querySelector('.modal-header');
-                const modalBody = modalEl.querySelector('.modal-body');
-                const computedContent = modalContent ? window.getComputedStyle(modalContent) : null;
-                const computedHeader = modalHeader ? window.getComputedStyle(modalHeader) : null;
-                const computedBody = modalBody ? window.getComputedStyle(modalBody) : null;
-                const modalDialog = modalEl.querySelector('.modal-dialog');
-                const computedDialog = modalDialog ? window.getComputedStyle(modalDialog) : null;
-                
-                // Check CSS variables
-                const bsModalBg = computedContent?.getPropertyValue('--bs-modal-bg') || 'not-set';
-                const bsModalColor = computedContent?.getPropertyValue('--bs-modal-color') || 'not-set';
-                
-                // Check if modal.css is loaded by checking for a known style
-                const testEl = document.createElement('div');
-                testEl.className = 'vbn-modal-content';
-                document.body.appendChild(testEl);
-                const testComputed = window.getComputedStyle(testEl);
-                const testBg = testComputed.backgroundColor;
-                document.body.removeChild(testEl);
-                
-                fetch('http://127.0.0.1:7243/ingest/2b1a2c1a-0e27-4350-b748-95c75b4c0f3b',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({location:'admin_panel.php:456',message:'CSS variables and rule priority check',data:{contentClasses:modalContent?.className||'none',headerClasses:modalHeader?.className||'none',bodyClasses:modalBody?.className||'none',contentBg:computedContent?.backgroundColor||'none',headerBg:computedHeader?.backgroundColor||'none',bodyBg:computedBody?.backgroundColor||'none',bsModalBg:bsModalBg,bsModalColor:bsModalColor,contentBgImage:computedContent?.backgroundImage||'none',headerBgImage:computedHeader?.backgroundImage||'none',testVbnBg:testBg},timestamp:Date.now(),sessionId:'debug-session',runId:'run3',hypothesisId:'G,H,I'})}).catch(()=>{});
-            }, 100);
-            // #endregion
             
             // Clear iframe source when modal is hidden to prevent lingering content
             modalEl.addEventListener('hidden.bs.modal', function clearIframe() {

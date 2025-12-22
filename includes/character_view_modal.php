@@ -627,7 +627,18 @@ if ($script_dir === '/') {
                         let badge = escapeHtml(a.ability_name);
                         if (a.level && a.level > 0) badge += ' x' + escapeHtml(a.level);
                         if (a.specialization && a.specialization.trim()) badge += ' (' + escapeHtml(a.specialization.trim()) + ')';
-                        contentHtml += '<span class="trait-badge">' + badge + '</span>';
+                        // Determine domain-specific CSS class based on category
+                        const category = group.title.toLowerCase();
+                        let badgeClass = 'trait-badge';
+                        if (category === 'physical') {
+                            badgeClass += ' trait-badge-physical';
+                        } else if (category === 'social') {
+                            badgeClass += ' trait-badge-social';
+                        } else if (category === 'mental') {
+                            badgeClass += ' trait-badge-mental';
+                        }
+                        // Optional abilities get base class only
+                        contentHtml += '<span class="' + badgeClass + '">' + badge + '</span>';
                     });
                     contentHtml += '</div>';
                     contentHtml += '</div>';
@@ -683,7 +694,18 @@ if ($script_dir === '/') {
                         let badge = escapeHtml(a.ability_name);
                         if (a.level && a.level > 0) badge += ' x' + escapeHtml(a.level);
                         if (a.specialization && a.specialization.trim()) badge += ' (' + escapeHtml(a.specialization.trim()) + ')';
-                        contentHtml += '<span class="trait-badge">' + badge + '</span>';
+                        // Determine domain-specific CSS class based on category
+                        const category = group.title.toLowerCase();
+                        let badgeClass = 'trait-badge';
+                        if (category === 'physical') {
+                            badgeClass += ' trait-badge-physical';
+                        } else if (category === 'social') {
+                            badgeClass += ' trait-badge-social';
+                        } else if (category === 'mental') {
+                            badgeClass += ' trait-badge-mental';
+                        }
+                        // Optional abilities get base class only
+                        contentHtml += '<span class="' + badgeClass + '">' + badge + '</span>';
                     });
                     contentHtml += '</div>';
                     contentHtml += '</div>';
