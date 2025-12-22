@@ -7,7 +7,7 @@
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
-define('LOTN_VERSION', '0.6.2');
+define('LOTN_VERSION', '0.8.66');
 session_start();
 
 if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
@@ -195,6 +195,7 @@ $all_characters = db_fetch_all($conn, "SELECT id, character_name, clan, player_n
                     <th data-sort="status">Status <span class="sort-icon">⇅</span></th>
                     <th data-sort="district">District <span class="sort-icon">⇅</span></th>
                     <th data-sort="owner_type">Owner Type <span class="sort-icon">⇅</span></th>
+                    <th data-sort="pc_earnable">PC Earnable <span class="sort-icon">⇅</span></th>
                     <th class="text-center text-nowrap w-150px">Actions</th>
                 </tr>
             </thead>

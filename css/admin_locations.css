@@ -62,11 +62,36 @@ table.table {
     min-width: 1200px;
 }
 
-.locations-table th:last-child,
-.locations-table td:last-child {
+/* Actions column - always visible with fixed width and sticky positioning */
+#locationsTable th:last-child,
+#locationsTable td:last-child {
     min-width: 150px;
     width: 150px;
+    max-width: 150px;
     text-align: center;
+    position: sticky;
+    right: 0;
+    z-index: 10;
+    box-shadow: -2px 0 5px rgba(0, 0, 0, 0.3);
+}
+
+/* Sticky header background - match thead gradient */
+#locationsTable thead th:last-child {
+    background: linear-gradient(135deg, #8B0000 0%, #600000 100%) !important;
+}
+
+/* Sticky cell backgrounds to match Bootstrap table-dark */
+#locationsTable tbody tr td:last-child {
+    background-color: #212529;
+}
+
+#locationsTable tbody tr:hover td:last-child {
+    background-color: rgba(139, 0, 0, 0.15);
+}
+
+/* Ensure table-responsive allows sticky positioning */
+.table-responsive {
+    position: relative;
 }
 
 .locations-table thead {
@@ -131,6 +156,16 @@ table.table {
 .locations-table td strong {
     color: #f5e6d3;
     font-size: 1.05em;
+}
+
+/* District column - variable width with max constraint */
+#locationsTable th[data-sort="district"],
+#locationsTable td:nth-child(5) {
+    max-width: 250px;
+    min-width: 120px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
 }
 
 /* Location-specific badges */

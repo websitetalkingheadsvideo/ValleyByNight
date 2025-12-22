@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.8.65
+## Current Version: 0.8.66
+
+**Date:** 2025-01-30  
+**Type:** Patch (Locations table improvements: PC Earnable column, District overflow fix, sticky Actions column)
+
+## Previous Version: 0.8.65
 
 **Date:** 2025-01-30  
 **Type:** Patch (Modal UI consistency fixes, locations page improvements, location_ownership table creation)
