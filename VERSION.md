@@ -1,6 +1,19 @@
 # Version History
 
-## Current Version: 0.8.74
+## Current Version: 0.8.75
+
+**Date:** 2025-01-30  
+**Type:** Patch (Ghoul character sheet improvements and character image update)
+
+### Changes:
+- **Ghoul Disciplines Header** - Changed "Disciplines" header to "Disciplines (via Vitae)" in Ghoul character view modal
+  - Only applies to Ghoul characters, other character types unchanged
+  - Fixed JavaScript variable scope issue with `isGhoul` declaration
+- **Jennifer Torrance Character Image** - Added character portrait image for Jennifer Torrance
+  - Set character_image field to "Jennifer Torrance.png"
+  - Created `database/update_jennifer_image.php` utility script for character image updates
+
+## Previous Version: 0.8.74
 
 **Date:** 2025-01-30  
 **Type:** Patch (Ghoul character sheet overlay system and admin panel improvements)
