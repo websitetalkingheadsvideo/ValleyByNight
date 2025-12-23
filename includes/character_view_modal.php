@@ -359,6 +359,9 @@ if ($script_dir === '/') {
         // Detect if this is a Wraith character
         const isWraith = !!(char.shadow_name || char.guild || char.circle);
         
+        // Detect if this is a Ghoul character
+        const isGhoul = !!(char.clan && char.clan.toLowerCase() === 'ghoul');
+        
         const hasPortrait = !!char.character_image;
         let fallbackUrl = null;
         if (isWraith) {
@@ -391,7 +394,6 @@ if ($script_dir === '/') {
             ];
         } else {
             // VtM character fields (or ghouls)
-            const isGhoul = char.clan && char.clan.toLowerCase() === 'ghoul';
             const generationValue = normalizeValue(char.generation);
             const generationDisplay = generationValue === null ? 'N/A' : escapeHtml(generationValue + 'th');
             
@@ -861,8 +863,9 @@ if ($script_dir === '/') {
                 contentHtml += '<div class="text-content">' + ghostEscaped + '</div>';
             }
         } else {
-            // Disciplines (VtM)
-            contentHtml += '<h3>Disciplines</h3>';
+            // Disciplines (VtM) - for Ghouls, show "(via Vitae)"
+            const disciplinesHeader = isGhoul ? 'Disciplines (via Vitae)' : 'Disciplines';
+            contentHtml += '<h3>' + disciplinesHeader + '</h3>';
             if (currentViewData.disciplines && currentViewData.disciplines.length > 0) {
             contentHtml += '<div class="discipline-list">';
             currentViewData.disciplines.forEach(d => {
@@ -1039,7 +1042,6 @@ if ($script_dir === '/') {
         }
         
         // Ghoul Overlay Section - only show if clan is 'Ghoul'
-        const isGhoul = char.clan && char.clan.toLowerCase() === 'ghoul';
         if (isGhoul && currentViewData.ghoul_overlay) {
             const overlay = currentViewData.ghoul_overlay;
             
