@@ -390,19 +390,33 @@ if ($script_dir === '/') {
                 { label: 'Concept', value: displayValue(char.concept, 'N/A') }
             ];
         } else {
-            // VtM character fields
+            // VtM character fields (or ghouls)
+            const isGhoul = char.clan && char.clan.toLowerCase() === 'ghoul';
             const generationValue = normalizeValue(char.generation);
             const generationDisplay = generationValue === null ? 'N/A' : escapeHtml(generationValue + 'th');
+            
             summaryFields = [
                 { label: 'Player', value: displayValue(playerName, 'NPC') },
-                { label: 'Chronicle', value: displayValue(char.chronicle, 'N/A') },
-                { label: 'Clan', value: displayValue(char.clan, 'Unknown') },
-                { label: 'Generation', value: generationDisplay },
-                { label: 'Nature', value: displayValue(char.nature, 'N/A') },
-                { label: 'Demeanor', value: displayValue(char.demeanor, 'N/A') },
-                { label: 'Sire', value: displayValue(char.sire, 'Unknown') },
-                { label: 'Concept', value: displayValue(char.concept, 'N/A') }
+                { label: 'Chronicle', value: displayValue(char.chronicle, 'N/A') }
             ];
+            
+            // Don't show Clan or Generation for ghouls
+            if (!isGhoul) {
+                summaryFields.push({ label: 'Clan', value: displayValue(char.clan, 'Unknown') });
+                summaryFields.push({ label: 'Generation', value: generationDisplay });
+            }
+            
+            summaryFields.push(
+                { label: 'Nature', value: displayValue(char.nature, 'N/A') },
+                { label: 'Demeanor', value: displayValue(char.demeanor, 'N/A') }
+            );
+            
+            // Don't show Sire for ghouls (they have domitor instead)
+            if (!isGhoul) {
+                summaryFields.push({ label: 'Sire', value: displayValue(char.sire, 'Unknown') });
+            }
+            
+            summaryFields.push({ label: 'Concept', value: displayValue(char.concept, 'N/A') });
         }
         
         summaryHtml += '<div class="row g-4 align-items-start">';
@@ -1024,7 +1038,167 @@ if ($script_dir === '/') {
             contentHtml += '<div class="text-content">' + notesEscaped.replace(/\n/g, '<br>') + '</div>';
         }
         
-        // Custom Data
+        // Ghoul Overlay Section - only show if clan is 'Ghoul'
+        const isGhoul = char.clan && char.clan.toLowerCase() === 'ghoul';
+        if (isGhoul && currentViewData.ghoul_overlay) {
+            const overlay = currentViewData.ghoul_overlay;
+            
+            // Start Ghoul Status overlay section with visual distinction
+            contentHtml += '<div class="ghoul-overlay-section">';
+            contentHtml += '<h3 class="ghoul-overlay-header">';
+            contentHtml += '<span class="ghoul-overlay-icon" aria-hidden="true">🩸</span>';
+            contentHtml += 'Ghoul Status (Vitae & Bond)';
+            contentHtml += '</h3>';
+            contentHtml += '<div class="ghoul-overlay-content">';
+            contentHtml += '<div class="row g-3 mt-2">';
+            
+            // Domitor (clickable link if domitor_character_id exists)
+            if (overlay.domitor_name) {
+                let domitorDisplay = escapeHtml(overlay.domitor_name);
+                if (overlay.domitor_character_id) {
+                    const domitorId = overlay.domitor_character_id;
+                    domitorDisplay = '<a href="#" class="ghoul-domitor-link" data-character-id="' + escapeHtml(domitorId.toString()) + '" onclick="event.preventDefault(); if(window.viewCharacter) window.viewCharacter(' + escapeHtml(domitorId.toString()) + '); return false;">' + escapeHtml(overlay.domitor_name) + '</a>';
+                }
+                contentHtml += '<div class="col-md-6"><p><strong>Domitor:</strong> ' + domitorDisplay + '</p></div>';
+            }
+            
+            // Blood Bond Stage (visually emphasized)
+            if (overlay.blood_bond_stage !== null && overlay.blood_bond_stage !== undefined) {
+                const stage = parseInt(overlay.blood_bond_stage);
+                let stageText = '';
+                let stageClass = 'ghoul-bond-stage';
+                if (stage === 0) {
+                    stageText = '0 (None)';
+                    stageClass += ' bond-none';
+                } else if (stage === 1) {
+                    stageText = '1 (Partial)';
+                    stageClass += ' bond-partial';
+                } else if (stage === 2) {
+                    stageText = '2 (Strong)';
+                    stageClass += ' bond-strong';
+                } else if (stage === 3) {
+                    stageText = '3 (Complete)';
+                    stageClass += ' bond-complete';
+                } else {
+                    stageText = stage.toString();
+                }
+                
+                contentHtml += '<div class="col-md-6">';
+                contentHtml += '<p><strong>Blood Bond Stage:</strong> ';
+                contentHtml += '<span class="' + stageClass + '">' + escapeHtml(stageText) + '</span>';
+                contentHtml += '</p></div>';
+            }
+            
+            // Vitae Frequency
+            if (overlay.vitae_frequency) {
+                contentHtml += '<div class="col-md-6"><p><strong>Vitae Frequency:</strong> ' + escapeHtml(overlay.vitae_frequency) + '</p></div>';
+            }
+            
+            // Retainer Level
+            if (overlay.retainer_level !== null && overlay.retainer_level !== undefined) {
+                contentHtml += '<div class="col-md-6"><p><strong>Retainer Level:</strong> ' + escapeHtml(overlay.retainer_level.toString()) + '</p></div>';
+            }
+            
+            // Loyalty (with tooltip hint for ST-facing field)
+            if (overlay.loyalty !== null && overlay.loyalty !== undefined) {
+                contentHtml += '<div class="col-md-6">';
+                contentHtml += '<p><strong>Loyalty:</strong> ';
+                contentHtml += '<span class="ghoul-st-field" title="ST-facing field">' + escapeHtml(overlay.loyalty.toString()) + '</span>';
+                contentHtml += '</p></div>';
+            }
+            
+            // Independent Will
+            if (overlay.independent_will !== null && overlay.independent_will !== undefined) {
+                contentHtml += '<div class="col-md-6"><p><strong>Independent Will:</strong> ' + escapeHtml(overlay.independent_will.toString()) + '</p></div>';
+            }
+            
+            // Escape Risk (with tooltip hint for ST-facing field)
+            if (overlay.escape_risk !== null && overlay.escape_risk !== undefined) {
+                contentHtml += '<div class="col-md-6">';
+                contentHtml += '<p><strong>Escape Risk:</strong> ';
+                contentHtml += '<span class="ghoul-st-field" title="ST-facing field">' + escapeHtml(overlay.escape_risk.toString()) + '</span>';
+                contentHtml += '</p></div>';
+            }
+            
+            // Addiction Severity (with tooltip hint for ST-facing field)
+            if (overlay.addiction_severity !== null && overlay.addiction_severity !== undefined) {
+                contentHtml += '<div class="col-md-6">';
+                contentHtml += '<p><strong>Addiction Severity:</strong> ';
+                contentHtml += '<span class="ghoul-st-field" title="ST-facing field">' + escapeHtml(overlay.addiction_severity.toString()) + '</span>';
+                contentHtml += '</p></div>';
+            }
+            
+            // Is Active
+            if (overlay.is_active !== null && overlay.is_active !== undefined) {
+                const isActive = overlay.is_active === 1 || overlay.is_active === true || overlay.is_active === '1' || overlay.is_active === 'true';
+                contentHtml += '<div class="col-md-6"><p><strong>Is Active:</strong> ' + (isActive ? 'Yes' : 'No') + '</p></div>';
+            }
+            
+            // Is Family
+            if (overlay.is_family !== null && overlay.is_family !== undefined) {
+                const isFamily = overlay.is_family === 1 || overlay.is_family === true || overlay.is_family === '1' || overlay.is_family === 'true';
+                contentHtml += '<div class="col-md-6"><p><strong>Is Family:</strong> ' + (isFamily ? 'Yes' : 'No') + '</p></div>';
+            }
+            
+            // Domitor Control Style
+            if (overlay.domitor_control_style) {
+                contentHtml += '<div class="col-md-6"><p><strong>Domitor Control Style:</strong> ' + escapeHtml(overlay.domitor_control_style) + '</p></div>';
+            }
+            
+            contentHtml += '</div>'; // Close row
+            
+            // Optional/Expandable fields
+            let hasOptionalFields = false;
+            let optionalFieldsHtml = '';
+            
+            // Withdrawal Effects
+            if (overlay.withdrawal_effects) {
+                hasOptionalFields = true;
+                const withdrawalEscaped = overlay.withdrawal_effects.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&#039;');
+                optionalFieldsHtml += '<div class="col-12"><p><strong>Withdrawal Effects:</strong></p><div class="text-content">' + withdrawalEscaped.replace(/\n/g, '<br>') + '</div></div>';
+            }
+            
+            // Handler Notes (ST-only)
+            if (overlay.handler_notes) {
+                hasOptionalFields = true;
+                const notesEscaped = overlay.handler_notes.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&#039;');
+                optionalFieldsHtml += '<div class="col-12"><p><strong>Handler Notes <span class="ghoul-st-label" title="ST-only field">(ST-only)</span>:</strong></p><div class="text-content">' + notesEscaped.replace(/\n/g, '<br>') + '</div></div>';
+            }
+            
+            // Masquerade Liability
+            if (overlay.masquerade_liability) {
+                hasOptionalFields = true;
+                const liabilityEscaped = overlay.masquerade_liability.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&#039;');
+                optionalFieldsHtml += '<div class="col-12"><p><strong>Masquerade Liability:</strong></p><div class="text-content">' + liabilityEscaped.replace(/\n/g, '<br>') + '</div></div>';
+            }
+            
+            // Custom Data (JSON, collapsible, read-only by default)
+            if (overlay.custom_data) {
+                hasOptionalFields = true;
+                try {
+                    const customData = typeof overlay.custom_data === 'string' ? JSON.parse(overlay.custom_data) : overlay.custom_data;
+                    optionalFieldsHtml += '<div class="col-12">';
+                    optionalFieldsHtml += '<details class="ghoul-custom-data">';
+                    optionalFieldsHtml += '<summary><strong>Custom Data</strong> <span class="text-muted small">(JSON)</span></summary>';
+                    optionalFieldsHtml += '<pre class="custom-data-json">' + JSON.stringify(customData, null, 2).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;') + '</pre>';
+                    optionalFieldsHtml += '</details>';
+                    optionalFieldsHtml += '</div>';
+                } catch (e) {
+                    optionalFieldsHtml += '<div class="col-12"><p><strong>Custom Data:</strong> <span class="text-muted">(Invalid JSON)</span></p></div>';
+                }
+            }
+            
+            if (hasOptionalFields) {
+                contentHtml += '<div class="row g-3 mt-2">';
+                contentHtml += optionalFieldsHtml;
+                contentHtml += '</div>';
+            }
+            
+            contentHtml += '</div>'; // Close ghoul-overlay-content
+            contentHtml += '</div>'; // Close ghoul-overlay-section
+        }
+        
+        // Custom Data - always show character custom_data (ghoul overlay custom_data is shown in ghoul overlay section)
         contentHtml += '<h3>Custom Data</h3>';
         if (char.custom_data) {
             try {

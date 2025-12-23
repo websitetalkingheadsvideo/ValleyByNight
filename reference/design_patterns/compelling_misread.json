@@ -1,0 +1,6 @@
+npc_pattern: "compelling_misread"
+npc_pattern_tags: [
+  "misread_as_role",
+  "earnest_out_of_phase",
+  "latent_self_realization"
+]

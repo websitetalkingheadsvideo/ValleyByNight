@@ -1,0 +1,205 @@
+{
+    "schema_version": "1.1.0",
+    "ghoul_id": "ghoul_jennifer_torrance",
+    "name": {
+      "full": "Jennifer Torrance",
+      "first": "Jennifer",
+      "last": "Torrance",
+      "aliases": ["Jen"]
+    },
+    "splat": "ghoul",
+    "domitor": {
+      "domitor_character_id": 139,
+      "domitor_name": "Julien Roche",
+      "relationship_summary": "A devoted, overly-attached ghoul who curates Julien’s nights and emotional stability—indispensable, and dangerous.",
+      "first_contact": {
+        "date": "1993-06-01",
+        "context": "Met Julien at an art showing shortly after his Embrace; she fixated on him and inserted herself into his orbit."
+      }
+    },
+    "bond": {
+      "blood_bond_stage": 3,
+      "bond_strength_descriptor": "Complete",
+      "blood_bond_notes": "Jennifer’s loyalty is supernatural and chosen; she frames it as devotion and necessity, not servitude."
+    },
+    "awareness": {
+      "knows_vampires_exist": true,
+      "knows_domitor_is_vampire": true,
+      "knows_clan": false,
+      "known_clan": "",
+      "knows_politics": "basic",
+      "knows_masquerade_rules": true,
+      "knowledge_notes": "Understands practical danger and secrecy. Knows ‘court’ exists and that attention can be lethal, but lacks faction literacy."
+    },
+    "public_profile": {
+      "claimed_age": 18,
+      "presentation": {
+        "style_summary": "Retro-cool thrift elegance; looks older than she is; blends into art spaces like she belongs.",
+        "signature_items": [
+          "Goodwill ‘retro’ dress that passes at gallery events",
+          "Small crossbody bag with sketchbook, cigarettes, and spare cash"
+        ],
+        "demeanor_public": "Quiet, watchful, politely deferential—until Julien is threatened."
+      },
+      "public_role": "friend",
+      "cover_story": "A young gallery regular who ‘helps out’ and knows people. Sometimes introduced as Julien’s assistant when it’s useful.",
+      "contact_points": ["Gallery openings", "Coffee shops near arts districts", "Elysium periphery (side halls, service routes)"]
+    },
+    "hidden_profile": {
+      "actual_age": 15,
+      "runaway": true,
+      "legal_status": "untraceable",
+      "false_identity_notes": "Passes as 18 socially; no formal documents. Uses confidence, wardrobe, and event culture to avoid scrutiny.",
+      "domitor_awareness_of_truth": {
+        "knows_actual_age": false,
+        "knows_runaway_status": false,
+        "notes": "Julien assumes she is a young adult; he avoids details that would force him to look too closely."
+      },
+      "hidden_flags": ["age_bomb", "masquerade_liability", "obsessive_attachment", "indispensable_dependency"]
+    },
+    "mechanics": {
+      "chronicle_date": "1994-10-08",
+      "nature": "Survivor",
+      "demeanor": "Caregiver",
+      "concept": "Runaway-turned-ghoul who curates her domitor’s life and quietly controls access to him.",
+      "attributes": {
+        "physical": {
+          "strength": 1,
+          "dexterity": 3,
+          "stamina": 2
+        },
+        "social": {
+          "charisma": 2,
+          "manipulation": 3,
+          "appearance": 3
+        },
+        "mental": {
+          "perception": 3,
+          "intelligence": 2,
+          "wits": 4
+        }
+      },
+      "abilities": {
+        "talents": [
+          { "name": "Alertness", "dots": 3, "specialties": ["Reading a room"], "notes": "" },
+          { "name": "Empathy", "dots": 3, "specialties": ["Julien"], "notes": "" },
+          { "name": "Streetwise", "dots": 3, "specialties": ["Finding safe routes"], "notes": "" },
+          { "name": "Subterfuge", "dots": 3, "specialties": ["Passing as older"], "notes": "" }
+        ],
+        "skills": [
+          { "name": "Stealth", "dots": 2, "specialties": ["Crowds"], "notes": "" },
+          { "name": "Drive", "dots": 1, "specialties": [], "notes": "Can drive in a pinch; not her core role." },
+          { "name": "Etiquette", "dots": 2, "specialties": ["Gallery rules"], "notes": "" },
+          { "name": "Security", "dots": 1, "specialties": [], "notes": "Basic habits: doors, exits, who’s watching." }
+        ],
+        "knowledges": [
+          { "name": "Academics", "dots": 1, "specialties": [], "notes": "Patchy schooling; learns what she needs." },
+          { "name": "Investigation", "dots": 2, "specialties": ["Personal research"], "notes": "Knows everything about Julien; keeps tabs quietly." },
+          { "name": "Law", "dots": 0, "specialties": [], "notes": "" },
+          { "name": "Occult", "dots": 1, "specialties": ["Vampire basics"], "notes": "Practical knowledge only." }
+        ]
+      },
+      "disciplines": [
+        {
+          "name": "Potence",
+          "dots": 1,
+          "powers": [{ "name": "Potence (Level 1)", "level": 1, "notes": "Expressed as sudden grip strength / short bursts of force." }],
+          "notes": "Vitae-fueled; subtle unless stressed."
+        }
+      ],
+      "backgrounds": [
+        { "name": "Herd", "dots": 0, "specialties": [], "notes": "Not her asset; Julien’s feeding web is separate." },
+        { "name": "Contacts", "dots": 1, "specialties": ["Gallery kids", "Thrift circuit"], "notes": "" },
+        { "name": "Allies", "dots": 0, "specialties": [], "notes": "" },
+        { "name": "Resources", "dots": 1, "specialties": [], "notes": "Cash-on-hand, scavenged value, and favors." }
+      ],
+      "merits_flaws": {
+        "merits": [
+          { "name": "Enchanting Voice", "points": 2, "source": "", "notes": "Soft, persuasive when she wants it." },
+          { "name": "Common Sense", "points": 1, "source": "", "notes": "Survival instincts framed as practicality." }
+        ],
+        "flaws": [
+          { "name": "Runaway", "points": -2, "source": "", "notes": "No safe home; history is a trap." },
+          { "name": "Obsessive", "points": -2, "source": "", "notes": "Fixation on Julien crosses healthy lines." },
+          { "name": "Dark Secret", "points": -2, "source": "", "notes": "Actual age is 15; discovery is catastrophic." }
+        ]
+      },
+      "advantages": {
+        "willpower": 6,
+        "courage": 3,
+        "self_control": 3,
+        "conscience": 2,
+        "humanity": 6
+      },
+      "health": {
+        "max": 7,
+        "current": ["ok", "ok", "ok", "ok", "ok", "ok", "ok"],
+        "notes": "Healthy, wiry; stress shows first as insomnia."
+      },
+      "experience": {
+        "total_earned": 0,
+        "total_spent": 0,
+        "unspent": 0,
+        "log": []
+      },
+      "derived_stats": {
+        "initiative": "7 (Wits 4 + Dex 3)",
+        "movement": "12 (Dex 3 + 9)",
+        "carry": "20",
+        "soak": "2 (Stamina 2)",
+        "notes": "Derived values are placeholders; rules/agents should compute authoritative values."
+      }
+    },
+    "vitae": {
+      "access_pattern": "regular",
+      "withdrawal_risk": "high",
+      "dependency": {
+        "emotional_dependency_level": 5,
+        "functional_dependency_level": 4,
+        "notes": "Jennifer’s identity is bound to Julien; separation escalates quickly into risky behavior."
+      }
+    },
+    "risks": {
+      "masquerade_risk": "high",
+      "court_risk": "medium",
+      "legal_risk": "severe",
+      "exploitation_risk": "high",
+      "tags": ["age_bomb", "untraceable_minor", "obsessive_attachment", "court_attention_risk"],
+      "risk_notes": "If her actual age becomes known, it becomes a political weapon and moral crisis with Masquerade implications."
+    },
+    "relationships": {
+      "to_domitor": {
+        "attachment_style": "devoted",
+        "jealousy_level": 3,
+        "protectiveness_level": 5,
+        "trust_level": 4,
+        "notes": "She frames protection as care; she controls access to Julien when she thinks it’s necessary."
+      },
+      "others": [
+        {
+          "target_type": "character",
+          "target_id_or_name": "Mr. Harold Ashby",
+          "relationship_type": "wary ally",
+          "intensity": 2,
+          "notes": "Tolerates him as coterie proximity; watches for manipulation."
+        },
+        {
+          "target_type": "character",
+          "target_id_or_name": "Sarah Hansen",
+          "relationship_type": "territorial rivalry",
+          "intensity": 3,
+          "notes": "Sees Sarah as a threat to her role as Julien’s anchor."
+        }
+      ]
+    },
+    "notes": {
+      "one_liner": "Julien Roche’s devoted ghoul—retro-cool, watchful, and uncomfortably indispensable.",
+      "expanded": "A runaway who learned to pass as older to survive, Jennifer slipped into Phoenix art spaces on thrift-store elegance and raw instinct. She met Julien just after his Embrace and fixated immediately. Now she curates his unlife—schedules, access, moods—while insisting she’s simply helping. She knows everything about him, and the bond has turned devotion into a quiet, controlling gravity. Julien does not know she is fifteen. When that truth surfaces, it will not be a private problem.",
+      "st_only": "Use her as a soft gatekeeper NPC: she notices PC intentions first; she can redirect, delay, or ‘help.’ Escalation track: (1) harmlessly helpful, (2) quietly obstructive, (3) protective sabotage, (4) desperate exposure to an elder for ‘help,’ (5) catastrophic age reveal."
+    },
+    "timestamps": {
+      "created_at": "2025-12-24T05:00:00Z",
+      "updated_at": "2025-12-24T05:00:00Z"
+    }
+  }
+  

@@ -1,0 +1,493 @@
+{
+    "generated": "2025-12-22 20:07:06",
+    "summary": {
+        "total_characters": 46,
+        "with_image_field": 43,
+        "with_image_file": 27,
+        "missing_image": 19,
+        "database_null": 1,
+        "database_empty": 2,
+        "file_not_found": 16
+    },
+    "characters": [
+        {
+            "id": 26,
+            "character_name": "Andrei Radulescu",
+            "clan": "Tremere",
+            "character_image_db": "Andrei Radulescu.webp",
+            "has_image_field": true,
+            "has_image_file": false,
+            "image_path": "G:\\VbN\/uploads\/characters\/Andrei Radulescu.webp",
+            "status": "file_not_found",
+            "reason": "Database has image filename 'Andrei Radulescu.webp' but file does not exist"
+        },
+        {
+            "id": 27,
+            "character_name": "Dr. Margaret Ashford",
+            "clan": "Tremere",
+            "character_image_db": "Margaret Ashford.png",
+            "has_image_field": true,
+            "has_image_file": false,
+            "image_path": "G:\\VbN\/uploads\/characters\/Margaret Ashford.png",
+            "status": "file_not_found",
+            "reason": "Database has image filename 'Margaret Ashford.png' but file does not exist"
+        },
+        {
+            "id": 28,
+            "character_name": "James Whitmore",
+            "clan": "Tremere",
+            "character_image_db": "James Whitmore.webp",
+            "has_image_field": true,
+            "has_image_file": false,
+            "image_path": "G:\\VbN\/uploads\/characters\/James Whitmore.webp",
+            "status": "file_not_found",
+            "reason": "Database has image filename 'James Whitmore.webp' but file does not exist"
+        },
+        {
+            "id": 42,
+            "character_name": "Rembrandt Jones",
+            "clan": "Toreador",
+            "character_image_db": "Rembrandt Jones.webp",
+            "has_image_field": true,
+            "has_image_file": false,
+            "image_path": "G:\\VbN\/uploads\/characters\/Rembrandt Jones.webp",
+            "status": "file_not_found",
+            "reason": "Database has image filename 'Rembrandt Jones.webp' but file does not exist"
+        },
+        {
+            "id": 43,
+            "character_name": "Violet 'The Confidence Queen'",
+            "clan": "Nosferatu",
+            "character_image_db": "Violet.jpg",
+            "has_image_field": true,
+            "has_image_file": false,
+            "image_path": "G:\\VbN\/uploads\/characters\/Violet.jpg",
+            "status": "file_not_found",
+            "reason": "Database has image filename 'Violet.jpg' but file does not exist"
+        },
+        {
+            "id": 44,
+            "character_name": "Jax 'The Ghost Dealer'",
+            "clan": "Ravnos",
+            "character_image_db": "Jax.png",
+            "has_image_field": true,
+            "has_image_file": false,
+            "image_path": "G:\\VbN\/uploads\/characters\/Jax.png",
+            "status": "file_not_found",
+            "reason": "Database has image filename 'Jax.png' but file does not exist"
+        },
+        {
+            "id": 46,
+            "character_name": "Bayside Bob",
+            "clan": "Toreador",
+            "character_image_db": "Bayside Bob.webp",
+            "has_image_field": true,
+            "has_image_file": false,
+            "image_path": "G:\\VbN\/uploads\/characters\/Bayside Bob.webp",
+            "status": "file_not_found",
+            "reason": "Database has image filename 'Bayside Bob.webp' but file does not exist"
+        },
+        {
+            "id": 47,
+            "character_name": "Cordelia Fairchild",
+            "clan": "Toreador",
+            "character_image_db": "Cordelia Fairchild.png",
+            "has_image_field": true,
+            "has_image_file": false,
+            "image_path": "G:\\VbN\/uploads\/characters\/Cordelia Fairchild.png",
+            "status": "file_not_found",
+            "reason": "Database has image filename 'Cordelia Fairchild.png' but file does not exist"
+        },
+        {
+            "id": 48,
+            "character_name": "Duke Tiki",
+            "clan": "Toreador",
+            "character_image_db": "Duke Tiki.webp",
+            "has_image_field": true,
+            "has_image_file": false,
+            "image_path": "G:\\VbN\/uploads\/characters\/Duke Tiki.webp",
+            "status": "file_not_found",
+            "reason": "Database has image filename 'Duke Tiki.webp' but file does not exist"
+        },
+        {
+            "id": 50,
+            "character_name": "Sabine",
+            "clan": "Toreador",
+            "character_image_db": "50_1761942326_4f021683.jpeg",
+            "has_image_field": true,
+            "has_image_file": true,
+            "image_path": "G:\\VbN\/uploads\/characters\/50_1761942326_4f021683.jpeg",
+            "status": "has_image"
+        },
+        {
+            "id": 52,
+            "character_name": "Sebastian",
+            "clan": "Toreador",
+            "character_image_db": "52_1761942303_4f021683.jpeg",
+            "has_image_field": true,
+            "has_image_file": true,
+            "image_path": "G:\\VbN\/uploads\/characters\/52_1761942303_4f021683.jpeg",
+            "status": "has_image"
+        },
+        {
+            "id": 55,
+            "character_name": "Leo",
+            "clan": "Nosferatu",
+            "character_image_db": "Leo.webp",
+            "has_image_field": true,
+            "has_image_file": false,
+            "image_path": "G:\\VbN\/uploads\/characters\/Leo.webp",
+            "status": "file_not_found",
+            "reason": "Database has image filename 'Leo.webp' but file does not exist"
+        },
+        {
+            "id": 57,
+            "character_name": "Betty",
+            "clan": "Nosferatu",
+            "character_image_db": "57_1761917770_a960e538.png",
+            "has_image_field": true,
+            "has_image_file": true,
+            "image_path": "G:\\VbN\/uploads\/characters\/57_1761917770_a960e538.png",
+            "status": "has_image"
+        },
+        {
+            "id": 60,
+            "character_name": "Lucien Marchand",
+            "clan": "Ghoul (Domitor: Étienne Duvalier)",
+            "character_image_db": "Lucien Marchand.png",
+            "has_image_field": true,
+            "has_image_file": false,
+            "image_path": "G:\\VbN\/uploads\/characters\/Lucien Marchand.png",
+            "status": "file_not_found",
+            "reason": "Database has image filename 'Lucien Marchand.png' but file does not exist"
+        },
+        {
+            "id": 62,
+            "character_name": "Sofia Alvarez",
+            "clan": "Ghoul (Domitor: Étienne Duvalier)",
+            "character_image_db": "Sofia Alvarez.webp",
+            "has_image_field": true,
+            "has_image_file": false,
+            "image_path": "G:\\VbN\/uploads\/characters\/Sofia Alvarez.webp",
+            "status": "file_not_found",
+            "reason": "Database has image filename 'Sofia Alvarez.webp' but file does not exist"
+        },
+        {
+            "id": 63,
+            "character_name": "Piston",
+            "clan": "Brujah",
+            "character_image_db": "Piston.png",
+            "has_image_field": true,
+            "has_image_file": true,
+            "image_path": "G:\\VbN\/uploads\/characters\/Piston.png",
+            "status": "has_image"
+        },
+        {
+            "id": 68,
+            "character_name": "Étienne Duvalier",
+            "clan": "Toreador",
+            "character_image_db": "68_1761864977_09fd06ca.png",
+            "has_image_field": true,
+            "has_image_file": true,
+            "image_path": "G:\\VbN\/uploads\/characters\/68_1761864977_09fd06ca.png",
+            "status": "has_image"
+        },
+        {
+            "id": 70,
+            "character_name": "Alessandro Vescari",
+            "clan": "Giovanni",
+            "character_image_db": "70_1763173770_6d9a3dd4.png",
+            "has_image_field": true,
+            "has_image_file": false,
+            "image_path": "G:\\VbN\/uploads\/characters\/70_1763173770_6d9a3dd4.png",
+            "status": "file_not_found",
+            "reason": "Database has image filename '70_1763173770_6d9a3dd4.png' but file does not exist"
+        },
+        {
+            "id": 71,
+            "character_name": "Jennifer Kwan",
+            "clan": "Followers of Set",
+            "character_image_db": "71_1761917569_5db6b141.png",
+            "has_image_field": true,
+            "has_image_file": true,
+            "image_path": "G:\\VbN\/uploads\/characters\/71_1761917569_5db6b141.png",
+            "status": "has_image"
+        },
+        {
+            "id": 72,
+            "character_name": "Marcus Webb",
+            "clan": "Followers of Set",
+            "character_image_db": "72_1761811769_0fa12396.png",
+            "has_image_field": true,
+            "has_image_file": true,
+            "image_path": "G:\\VbN\/uploads\/characters\/72_1761811769_0fa12396.png",
+            "status": "has_image"
+        },
+        {
+            "id": 88,
+            "character_name": "Roland Cross",
+            "clan": "Toreador",
+            "character_image_db": "88_1761917227_953c266e.png",
+            "has_image_field": true,
+            "has_image_file": true,
+            "image_path": "G:\\VbN\/uploads\/characters\/88_1761917227_953c266e.png",
+            "status": "has_image"
+        },
+        {
+            "id": 89,
+            "character_name": "Pistol Pete",
+            "clan": "Brujah",
+            "character_image_db": "Pistol Pete.png",
+            "has_image_field": true,
+            "has_image_file": true,
+            "image_path": "G:\\VbN\/uploads\/characters\/Pistol Pete.png",
+            "status": "has_image"
+        },
+        {
+            "id": 90,
+            "character_name": "Sasha",
+            "clan": "Malkavian",
+            "character_image_db": "",
+            "has_image_field": false,
+            "has_image_file": false,
+            "image_path": null,
+            "status": "database_empty",
+            "reason": "character_image field is empty string in database"
+        },
+        {
+            "id": 92,
+            "character_name": "Adrian Leclair",
+            "clan": "Toreador",
+            "character_image_db": "92_1762561016_a06ae8cc.png",
+            "has_image_field": true,
+            "has_image_file": false,
+            "image_path": "G:\\VbN\/uploads\/characters\/92_1762561016_a06ae8cc.png",
+            "status": "file_not_found",
+            "reason": "Database has image filename '92_1762561016_a06ae8cc.png' but file does not exist"
+        },
+        {
+            "id": 101,
+            "character_name": "Barry Washington",
+            "clan": "Ventrue",
+            "character_image_db": "Barry Washington.webp",
+            "has_image_field": true,
+            "has_image_file": true,
+            "image_path": "G:\\VbN\/uploads\/characters\/Barry Washington.webp",
+            "status": "has_image"
+        },
+        {
+            "id": 102,
+            "character_name": "Mr. Harold Ashby",
+            "clan": "Malkavian",
+            "character_image_db": "Harold Ashby.png",
+            "has_image_field": true,
+            "has_image_file": false,
+            "image_path": "G:\\VbN\/uploads\/characters\/Harold Ashby.png",
+            "status": "file_not_found",
+            "reason": "Database has image filename 'Harold Ashby.png' but file does not exist"
+        },
+        {
+            "id": 104,
+            "character_name": "Tariq Ibrahim",
+            "clan": "Followers of Set",
+            "character_image_db": "104_1763074210_6d9a3dd4.png",
+            "has_image_field": true,
+            "has_image_file": true,
+            "image_path": "G:\\VbN\/uploads\/characters\/104_1763074210_6d9a3dd4.png",
+            "status": "has_image"
+        },
+        {
+            "id": 107,
+            "character_name": "Layla al-Sahr",
+            "clan": "Assamite",
+            "character_image_db": "Layla al-Sahr.png",
+            "has_image_field": true,
+            "has_image_file": true,
+            "image_path": "G:\\VbN\/uploads\/characters\/Layla al-Sahr.png",
+            "status": "has_image"
+        },
+        {
+            "id": 109,
+            "character_name": "Tor",
+            "clan": "Ghoul",
+            "character_image_db": "109_1762560972_539bc98d.png",
+            "has_image_field": true,
+            "has_image_file": true,
+            "image_path": "G:\\VbN\/uploads\/characters\/109_1762560972_539bc98d.png",
+            "status": "has_image"
+        },
+        {
+            "id": 110,
+            "character_name": "Roxanne Vega",
+            "clan": "Toreador",
+            "character_image_db": "Roxanne Murphy.png",
+            "has_image_field": true,
+            "has_image_file": true,
+            "image_path": "G:\\VbN\/uploads\/characters\/Roxanne Murphy.png",
+            "status": "has_image"
+        },
+        {
+            "id": 112,
+            "character_name": "Eddy Valiant",
+            "clan": "Malkavian",
+            "character_image_db": null,
+            "has_image_field": false,
+            "has_image_file": false,
+            "image_path": null,
+            "status": "database_null",
+            "reason": "character_image field is NULL in database"
+        },
+        {
+            "id": 113,
+            "character_name": "Sarah Hansen",
+            "clan": "Daughter of Cacophony",
+            "character_image_db": "113_1762934668_a6d93e46.png",
+            "has_image_field": true,
+            "has_image_file": false,
+            "image_path": "G:\\VbN\/uploads\/characters\/113_1762934668_a6d93e46.png",
+            "status": "file_not_found",
+            "reason": "Database has image filename '113_1762934668_a6d93e46.png' but file does not exist"
+        },
+        {
+            "id": 123,
+            "character_name": "Warner Jefferson",
+            "clan": "Ventrue",
+            "character_image_db": "123_1762872252_22f90772.webp",
+            "has_image_field": true,
+            "has_image_file": true,
+            "image_path": "G:\\VbN\/uploads\/characters\/123_1762872252_22f90772.webp",
+            "status": "has_image"
+        },
+        {
+            "id": 124,
+            "character_name": "Marisol \"Roadrunner\" Vega",
+            "clan": "Gangrel",
+            "character_image_db": "123_1762872252_22f90772.webp",
+            "has_image_field": true,
+            "has_image_file": true,
+            "image_path": "G:\\VbN\/uploads\/characters\/123_1762872252_22f90772.webp",
+            "status": "has_image"
+        },
+        {
+            "id": 125,
+            "character_name": "Roxanne Murphy",
+            "clan": "Followers of Set",
+            "character_image_db": "Roxanne Murphy.png",
+            "has_image_field": true,
+            "has_image_file": true,
+            "image_path": "G:\\VbN\/uploads\/characters\/Roxanne Murphy.png",
+            "status": "has_image"
+        },
+        {
+            "id": 129,
+            "character_name": "Butch Reed",
+            "clan": "Brujah",
+            "character_image_db": "Butch_Reed.png",
+            "has_image_field": true,
+            "has_image_file": true,
+            "image_path": "G:\\VbN\/uploads\/characters\/Butch_Reed.png",
+            "status": "has_image"
+        },
+        {
+            "id": 130,
+            "character_name": "Kerry, the Desert-Wandering Gangrel",
+            "clan": "Gangrel",
+            "character_image_db": "",
+            "has_image_field": false,
+            "has_image_file": false,
+            "image_path": null,
+            "status": "database_empty",
+            "reason": "character_image field is empty string in database"
+        },
+        {
+            "id": 131,
+            "character_name": "Alistaire",
+            "clan": "Nosferatu",
+            "character_image_db": "Alistaire.png",
+            "has_image_field": true,
+            "has_image_file": true,
+            "image_path": "G:\\VbN\/uploads\/characters\/Alistaire.png",
+            "status": "has_image"
+        },
+        {
+            "id": 133,
+            "character_name": "Lilith Nightshade",
+            "clan": "Malkavian",
+            "character_image_db": "Lilith_Nightshade.png",
+            "has_image_field": true,
+            "has_image_file": true,
+            "image_path": "G:\\VbN\/uploads\/characters\/Lilith_Nightshade.png",
+            "status": "has_image"
+        },
+        {
+            "id": 136,
+            "character_name": "Charles \"C.W.\" Whitford",
+            "clan": "Ventrue",
+            "character_image_db": "CW_Whitford.png",
+            "has_image_field": true,
+            "has_image_file": true,
+            "image_path": "G:\\VbN\/uploads\/characters\/CW_Whitford.png",
+            "status": "has_image"
+        },
+        {
+            "id": 137,
+            "character_name": "Naomi Blackbird",
+            "clan": "Gangrel",
+            "character_image_db": "Naomi_Blackbird.jpg",
+            "has_image_field": true,
+            "has_image_file": true,
+            "image_path": "G:\\VbN\/uploads\/characters\/Naomi_Blackbird.jpg",
+            "status": "has_image"
+        },
+        {
+            "id": 138,
+            "character_name": "Helena Crowly",
+            "clan": "Tremere",
+            "character_image_db": "Helena_Crowly.png",
+            "has_image_field": true,
+            "has_image_file": true,
+            "image_path": "G:\\VbN\/uploads\/characters\/Helena_Crowly.png",
+            "status": "has_image"
+        },
+        {
+            "id": 139,
+            "character_name": "Lorenzo Giovanni",
+            "clan": "Giovanni",
+            "character_image_db": "Lorenzo Giovanni.png",
+            "has_image_field": true,
+            "has_image_file": true,
+            "image_path": "G:\\VbN\/uploads\/characters\/Lorenzo Giovanni.png",
+            "status": "has_image"
+        },
+        {
+            "id": 140,
+            "character_name": "Marianna Giovanni",
+            "clan": "Giovanni",
+            "character_image_db": "Marianna Giovanni.webp",
+            "has_image_field": true,
+            "has_image_file": true,
+            "image_path": "G:\\VbN\/uploads\/characters\/Marianna Giovanni.webp",
+            "status": "has_image"
+        },
+        {
+            "id": 141,
+            "character_name": "Paris Giovanni",
+            "clan": "Giovanni",
+            "character_image_db": "Paris Giovanni.png",
+            "has_image_field": true,
+            "has_image_file": true,
+            "image_path": "G:\\VbN\/uploads\/characters\/Paris Giovanni.png",
+            "status": "has_image"
+        },
+        {
+            "id": 142,
+            "character_name": "Paulo Benedicto Giovanni",
+            "clan": "Giovanni",
+            "character_image_db": "Paulo Giovanni.png",
+            "has_image_field": true,
+            "has_image_file": true,
+            "image_path": "G:\\VbN\/uploads\/characters\/Paulo Giovanni.png",
+            "status": "has_image"
+        }
+    ]
+}

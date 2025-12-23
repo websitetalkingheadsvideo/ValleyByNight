@@ -1,0 +1,131 @@
+{
+    "generated": "2025-12-22 20:06:48",
+    "dry_run": false,
+    "summary": {
+        "copied": 15,
+        "skipped": 1,
+        "failed": 0
+    },
+    "copied": [
+        {
+            "character_id": 50,
+            "character_name": "Sabine",
+            "database_filename": "50_1761942326_4f021683.jpeg",
+            "source_path": "archive\/images\/duplicates\/reference\/Characters\/Images\/50_1761942326_4f021683.jpeg",
+            "status": "copied"
+        },
+        {
+            "character_id": 52,
+            "character_name": "Sebastian",
+            "database_filename": "52_1761942303_4f021683.jpeg",
+            "source_path": "archive\/images\/duplicates\/reference\/Characters\/Images\/52_1761942303_4f021683.jpeg",
+            "status": "copied"
+        },
+        {
+            "character_id": 57,
+            "character_name": "Betty",
+            "database_filename": "57_1761917770_a960e538.png",
+            "source_path": "archive\/images\/duplicates\/reference\/Characters\/Images\/57_1761917770_a960e538.png",
+            "status": "copied"
+        },
+        {
+            "character_id": 63,
+            "character_name": "Piston",
+            "database_filename": "Piston.png",
+            "source_path": "archive\/images\/duplicates\/reference\/Characters\/Images\/Piston.png",
+            "status": "copied"
+        },
+        {
+            "character_id": 89,
+            "character_name": "Pistol Pete",
+            "database_filename": "Pistol Pete.png",
+            "source_path": "archive\/images\/duplicates\/reference\/Characters\/Images\/Pistol Pete.png",
+            "status": "copied"
+        },
+        {
+            "character_id": 101,
+            "character_name": "Barry Washington",
+            "database_filename": "Barry Washington.webp",
+            "source_path": "archive\/images\/duplicates\/reference\/Characters\/Images\/Barry Washington.webp",
+            "status": "copied"
+        },
+        {
+            "character_id": 107,
+            "character_name": "Layla al-Sahr",
+            "database_filename": "Layla al-Sahr.png",
+            "source_path": "archive\/images\/duplicates\/reference\/Characters\/Images\/Layla al-Sahr.png",
+            "status": "copied"
+        },
+        {
+            "character_id": 109,
+            "character_name": "Tor",
+            "database_filename": "109_1762560972_539bc98d.png",
+            "source_path": "archive\/images\/duplicates\/reference\/Characters\/Images\/109_1762560972_539bc98d.png",
+            "status": "copied"
+        },
+        {
+            "character_id": 110,
+            "character_name": "Roxanne Vega",
+            "database_filename": "Roxanne Murphy.png",
+            "source_path": "archive\/images\/duplicates\/reference\/Characters\/Images\/Roxanne Murphy.png",
+            "status": "copied"
+        },
+        {
+            "character_id": 68,
+            "character_name": "Étienne Duvalier",
+            "database_filename": "68_1761864977_09fd06ca.png",
+            "source_path": "archive\/images\/duplicates\/reference\/Characters\/Images\/Étienne Duvalier.png",
+            "status": "copied_potential_match",
+            "warning": "Filename differs from source"
+        },
+        {
+            "character_id": 71,
+            "character_name": "Jennifer Kwan",
+            "database_filename": "71_1761917569_5db6b141.png",
+            "source_path": "archive\/images\/duplicates\/reference\/Characters\/Images\/Jennifer Kwan.png",
+            "status": "copied_potential_match",
+            "warning": "Filename differs from source"
+        },
+        {
+            "character_id": 72,
+            "character_name": "Marcus Webb",
+            "database_filename": "72_1761811769_0fa12396.png",
+            "source_path": "archive\/images\/duplicates\/reference\/Characters\/Images\/Marcus Webb.png",
+            "status": "copied_potential_match",
+            "warning": "Filename differs from source"
+        },
+        {
+            "character_id": 88,
+            "character_name": "Roland Cross",
+            "database_filename": "88_1761917227_953c266e.png",
+            "source_path": "archive\/images\/duplicates\/reference\/Characters\/Images\/Roland Cross.png",
+            "status": "copied_potential_match",
+            "warning": "Filename differs from source"
+        },
+        {
+            "character_id": 104,
+            "character_name": "Tariq Ibrahim",
+            "database_filename": "104_1763074210_6d9a3dd4.png",
+            "source_path": "archive\/images\/duplicates\/reference\/Characters\/Images\/Tariq Ibrahim.png",
+            "status": "copied_potential_match",
+            "warning": "Filename differs from source"
+        },
+        {
+            "character_id": 123,
+            "character_name": "Warner Jefferson",
+            "database_filename": "123_1762872252_22f90772.webp",
+            "source_path": "archive\/images\/duplicates\/reference\/Characters\/Images\/Warner Jefferson.webp",
+            "status": "copied_potential_match",
+            "warning": "Filename differs from source"
+        }
+    ],
+    "skipped": [
+        {
+            "character_id": 125,
+            "character_name": "Roxanne Murphy",
+            "database_filename": "Roxanne Murphy.png",
+            "reason": "Target file already exists"
+        }
+    ],
+    "failed": []
+}

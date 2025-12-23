@@ -149,6 +149,27 @@ try {
         'i', [$character_id]
     );
     
+    // Get ghoul overlay data if this is a ghoul
+    $ghoul_overlay = null;
+    $is_ghoul = ($char['clan'] && strtolower($char['clan']) === 'ghoul');
+    if ($is_ghoul) {
+        $ghoul_overlay = @db_fetch_one($conn,
+            "SELECT * FROM ghouls WHERE character_id = ?",
+            'i', [$character_id]
+        );
+        
+        // Get domitor name if domitor_character_id exists
+        if ($ghoul_overlay && !empty($ghoul_overlay['domitor_character_id'])) {
+            $domitor = db_fetch_one($conn,
+                "SELECT character_name FROM characters WHERE id = ?",
+                'i', [(int)$ghoul_overlay['domitor_character_id']]
+            );
+            if ($domitor) {
+                $ghoul_overlay['domitor_name'] = $domitor['character_name'];
+            }
+        }
+    }
+    
     // Check if character image file actually exists
     $character_image = null;
     if (!empty($char['character_image'])) {
@@ -194,7 +215,8 @@ try {
         'merits_flaws' => $merits_flaws,
         'status' => $status,
         'coteries' => $coteries,
-        'relationships' => $relationships
+        'relationships' => $relationships,
+        'ghoul_overlay' => $ghoul_overlay
     ];
     
     echo json_encode($response);

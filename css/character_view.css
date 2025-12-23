@@ -482,6 +482,142 @@
     margin-top: 12px;
 }
 
+/* Ghoul Overlay Section - Visually distinct from main character sheet */
+.ghoul-overlay-section {
+    margin-top: 2rem;
+    margin-bottom: 1.5rem;
+    background: linear-gradient(135deg, rgba(75, 0, 0, 0.4) 0%, rgba(50, 0, 0, 0.5) 100%);
+    border: 2px solid rgba(139, 0, 0, 0.6);
+    border-radius: 0.75rem;
+    padding: 1.5rem;
+    box-shadow:
+        inset 0 1px 0 rgba(255, 255, 255, 0.05),
+        0 8px 16px rgba(139, 0, 0, 0.3),
+        0 4px 8px rgba(0, 0, 0, 0.4);
+}
+
+.ghoul-overlay-header {
+    color: #f5e6d3;
+    font-family: var(--font-title), 'Libre Baskerville', serif;
+    font-size: 1.4em;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    border-bottom: 2px solid rgba(139, 0, 0, 0.5);
+    padding-bottom: 0.75rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.ghoul-overlay-icon {
+    font-size: 1.2em;
+    filter: drop-shadow(0 0 4px rgba(139, 0, 0, 0.6));
+}
+
+.ghoul-overlay-content {
+    color: #d4c4b0;
+    font-family: var(--font-body), 'Source Serif Pro', serif;
+}
+
+/* Domitor link styling */
+.ghoul-domitor-link {
+    color: #c4a037;
+    text-decoration: none;
+    font-weight: 600;
+    border-bottom: 1px dotted rgba(196, 160, 55, 0.5);
+    transition: all 0.2s ease;
+}
+
+.ghoul-domitor-link:hover {
+    color: #e0b850;
+    border-bottom-color: rgba(224, 184, 80, 0.8);
+    text-decoration: none;
+}
+
+/* Blood Bond Stage - Visually emphasized */
+.ghoul-bond-stage {
+    display: inline-block;
+    padding: 4px 12px;
+    border-radius: 50px;
+    font-weight: 700;
+    font-size: 1.05em;
+    margin-left: 0.5rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.ghoul-bond-stage.bond-none {
+    background: rgba(100, 100, 100, 0.3);
+    border: 1px solid rgba(150, 150, 150, 0.5);
+    color: #b8a090;
+}
+
+.ghoul-bond-stage.bond-partial {
+    background: rgba(139, 69, 19, 0.4);
+    border: 1px solid rgba(139, 69, 19, 0.7);
+    color: #e0b850;
+    box-shadow: 0 0 8px rgba(139, 69, 19, 0.4);
+}
+
+.ghoul-bond-stage.bond-strong {
+    background: rgba(139, 0, 0, 0.5);
+    border: 1px solid rgba(200, 0, 0, 0.7);
+    color: #f5a5a5;
+    box-shadow: 0 0 10px rgba(139, 0, 0, 0.5);
+}
+
+.ghoul-bond-stage.bond-complete {
+    background: linear-gradient(135deg, rgba(139, 0, 0, 0.7) 0%, rgba(200, 0, 0, 0.5) 100%);
+    border: 2px solid rgba(255, 0, 0, 0.8);
+    color: #ffcccc;
+    box-shadow: 0 0 12px rgba(200, 0, 0, 0.6), inset 0 1px 0 rgba(255, 255, 255, 0.2);
+}
+
+/* ST-facing field indicators */
+.ghoul-st-field {
+    color: #c4a037;
+    font-weight: 600;
+    cursor: help;
+    border-bottom: 1px dotted rgba(196, 160, 55, 0.5);
+}
+
+.ghoul-st-label {
+    color: #b8a090;
+    font-size: 0.85em;
+    font-style: italic;
+    font-weight: normal;
+    margin-left: 0.25rem;
+}
+
+/* Custom data collapsible section */
+.ghoul-custom-data {
+    margin-top: 1rem;
+}
+
+.ghoul-custom-data summary {
+    cursor: pointer;
+    color: #b8a090;
+    font-weight: 600;
+    padding: 0.5rem;
+    border-radius: 4px;
+    transition: background 0.2s ease;
+}
+
+.ghoul-custom-data summary:hover {
+    background: rgba(139, 0, 0, 0.2);
+}
+
+.ghoul-custom-data .custom-data-json {
+    margin-top: 0.75rem;
+    padding: 1rem;
+    background: rgba(26, 15, 15, 0.6);
+    border: 1px solid rgba(139, 0, 0, 0.3);
+    border-radius: 4px;
+    font-size: 0.9em;
+    max-height: 400px;
+    overflow-y: auto;
+}
+
 /* Responsive adjustments */
 @media (max-width: 768px) {
     .character-summary-section {
@@ -500,6 +636,14 @@
         height: auto;
         max-width: 350px;
         max-height: 350px;
+    }
+    
+    .ghoul-overlay-section {
+        padding: 1rem;
+    }
+    
+    .ghoul-overlay-header {
+        font-size: 1.2em;
     }
 }
 
