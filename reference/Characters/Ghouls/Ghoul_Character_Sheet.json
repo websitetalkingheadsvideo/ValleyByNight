@@ -1,0 +1,536 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://vbn.talkingheads.video/schemas/ghoul_character.json",
+    "title": "VbN Ghoul Character Sheet",
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "schema_version",
+      "ghoul_id",
+      "name",
+      "splat",
+      "domitor",
+      "bond",
+      "awareness",
+      "public_profile",
+      "hidden_profile",
+      "mechanics",
+      "vitae",
+      "risks",
+      "relationships",
+      "notes",
+      "timestamps"
+    ],
+    "properties": {
+      "schema_version": {
+        "type": "string",
+        "description": "Schema version for forwards/backwards compatibility.",
+        "pattern": "^\\d+\\.\\d+\\.\\d+$",
+        "examples": ["1.1.0"]
+      },
+  
+      "ghoul_id": {
+        "type": "string",
+        "description": "Stable unique identifier for this ghoul.",
+        "minLength": 3,
+        "examples": ["ghoul_jennifer_torrance"]
+      },
+  
+      "name": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["full"],
+        "properties": {
+          "full": { "type": "string", "minLength": 1, "examples": ["Jennifer Torrance"] },
+          "first": { "type": "string", "minLength": 1, "examples": ["Jennifer"] },
+          "last": { "type": "string", "minLength": 1, "examples": ["Torrance"] },
+          "aliases": {
+            "type": "array",
+            "items": { "type": "string", "minLength": 1 },
+            "default": []
+          }
+        }
+      },
+  
+      "splat": {
+        "type": "string",
+        "description": "Classification for agents/UI.",
+        "const": "ghoul"
+      },
+  
+      "domitor": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["domitor_character_id", "domitor_name"],
+        "properties": {
+          "domitor_character_id": {
+            "type": "integer",
+            "description": "FK to characters.id for the domitor (Kindred).",
+            "minimum": 1
+          },
+          "domitor_name": { "type": "string", "minLength": 1 },
+          "relationship_summary": { "type": "string", "default": "" },
+          "first_contact": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "date": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+              "context": { "type": "string", "default": "" }
+            },
+            "default": {}
+          }
+        }
+      },
+  
+      "bond": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["blood_bond_stage", "blood_bond_notes"],
+        "properties": {
+          "blood_bond_stage": {
+            "type": "integer",
+            "description": "Bond stage 0–3 (3 = fully bonded).",
+            "minimum": 0,
+            "maximum": 3,
+            "examples": [3]
+          },
+          "bond_strength_descriptor": { "type": "string", "default": "" },
+          "blood_bond_notes": { "type": "string", "default": "" }
+        }
+      },
+  
+      "awareness": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["knows_vampires_exist", "knows_domitor_is_vampire"],
+        "properties": {
+          "knows_vampires_exist": { "type": "boolean" },
+          "knows_domitor_is_vampire": { "type": "boolean" },
+          "knows_clan": { "type": "boolean", "default": false },
+          "known_clan": { "type": "string", "default": "" },
+          "knows_politics": {
+            "type": "string",
+            "enum": ["none", "basic", "working", "insider"],
+            "default": "basic"
+          },
+          "knows_masquerade_rules": { "type": "boolean", "default": true },
+          "knowledge_notes": { "type": "string", "default": "" }
+        }
+      },
+  
+      "public_profile": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["claimed_age", "presentation", "public_role"],
+        "properties": {
+          "claimed_age": { "type": "integer", "minimum": 0 },
+          "presentation": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "style_summary": { "type": "string", "default": "" },
+              "signature_items": {
+                "type": "array",
+                "items": { "type": "string" },
+                "default": []
+              },
+              "demeanor_public": { "type": "string", "default": "" }
+            },
+            "default": {}
+          },
+          "public_role": { "type": "string", "minLength": 1 },
+          "cover_story": { "type": "string", "default": "" },
+          "contact_points": {
+            "type": "array",
+            "items": { "type": "string" },
+            "default": []
+          }
+        }
+      },
+  
+      "hidden_profile": {
+        "type": "object",
+        "description": "ST-only / hidden truths; agents may gate visibility by permission.",
+        "additionalProperties": false,
+        "required": ["actual_age", "runaway", "legal_status"],
+        "properties": {
+          "actual_age": { "type": "integer", "minimum": 0 },
+          "runaway": { "type": "boolean" },
+          "legal_status": {
+            "type": "string",
+            "enum": ["documented", "false_id", "untraceable", "unknown"],
+            "default": "unknown"
+          },
+          "false_identity_notes": { "type": "string", "default": "" },
+          "domitor_awareness_of_truth": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "knows_actual_age": { "type": "boolean", "default": false },
+              "knows_runaway_status": { "type": "boolean", "default": false },
+              "notes": { "type": "string", "default": "" }
+            },
+            "default": {}
+          },
+          "hidden_flags": {
+            "type": "array",
+            "items": { "type": "string" },
+            "default": []
+          }
+        }
+      },
+  
+      "mechanics": {
+        "type": "object",
+        "description": "Rules-facing fields (Attributes/Abilities/Disciplines/etc).",
+        "additionalProperties": false,
+        "required": [
+          "chronicle_date",
+          "nature",
+          "demeanor",
+          "concept",
+          "attributes",
+          "abilities",
+          "disciplines",
+          "backgrounds",
+          "merits_flaws",
+          "advantages",
+          "health",
+          "experience",
+          "derived_stats"
+        ],
+        "properties": {
+          "chronicle_date": {
+            "type": "string",
+            "description": "Date this sheet is accurate for (ISO date).",
+            "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+          },
+  
+          "nature": { "type": "string", "default": "" },
+          "demeanor": { "type": "string", "default": "" },
+          "concept": { "type": "string", "default": "" },
+  
+          "attributes": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["physical", "social", "mental"],
+            "properties": {
+              "physical": {
+                "type": "object",
+                "additionalProperties": false,
+                "required": ["strength", "dexterity", "stamina"],
+                "properties": {
+                  "strength": { "type": "integer", "minimum": 0, "maximum": 5 },
+                  "dexterity": { "type": "integer", "minimum": 0, "maximum": 5 },
+                  "stamina": { "type": "integer", "minimum": 0, "maximum": 5 }
+                }
+              },
+              "social": {
+                "type": "object",
+                "additionalProperties": false,
+                "required": ["charisma", "manipulation", "appearance"],
+                "properties": {
+                  "charisma": { "type": "integer", "minimum": 0, "maximum": 5 },
+                  "manipulation": { "type": "integer", "minimum": 0, "maximum": 5 },
+                  "appearance": { "type": "integer", "minimum": 0, "maximum": 5 }
+                }
+              },
+              "mental": {
+                "type": "object",
+                "additionalProperties": false,
+                "required": ["perception", "intelligence", "wits"],
+                "properties": {
+                  "perception": { "type": "integer", "minimum": 0, "maximum": 5 },
+                  "intelligence": { "type": "integer", "minimum": 0, "maximum": 5 },
+                  "wits": { "type": "integer", "minimum": 0, "maximum": 5 }
+                }
+              }
+            }
+          },
+  
+          "abilities": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["talents", "skills", "knowledges"],
+            "properties": {
+              "talents": {
+                "type": "array",
+                "items": { "$ref": "#/$defs/dotted_trait" },
+                "default": []
+              },
+              "skills": {
+                "type": "array",
+                "items": { "$ref": "#/$defs/dotted_trait" },
+                "default": []
+              },
+              "knowledges": {
+                "type": "array",
+                "items": { "$ref": "#/$defs/dotted_trait" },
+                "default": []
+              }
+            }
+          },
+  
+          "disciplines": {
+            "type": "array",
+            "description": "Ghouls may have limited access to certain disciplines via vitae; enforce in rules/agents, not schema.",
+            "items": { "$ref": "#/$defs/discipline_trait" },
+            "default": []
+          },
+  
+          "backgrounds": {
+            "type": "array",
+            "items": { "$ref": "#/$defs/dotted_trait" },
+            "default": []
+          },
+  
+          "merits_flaws": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["merits", "flaws"],
+            "properties": {
+              "merits": {
+                "type": "array",
+                "items": { "$ref": "#/$defs/merit_flaw_trait" },
+                "default": []
+              },
+              "flaws": {
+                "type": "array",
+                "items": { "$ref": "#/$defs/merit_flaw_trait" },
+                "default": []
+              }
+            }
+          },
+  
+          "advantages": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["willpower", "courage", "self_control", "conscience", "humanity"],
+            "properties": {
+              "willpower": { "type": "integer", "minimum": 0, "maximum": 10 },
+              "courage": { "type": "integer", "minimum": 0, "maximum": 5 },
+              "self_control": { "type": "integer", "minimum": 0, "maximum": 5 },
+              "conscience": { "type": "integer", "minimum": 0, "maximum": 5 },
+              "humanity": { "type": "integer", "minimum": 0, "maximum": 10 }
+            }
+          },
+  
+          "health": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["current", "max", "notes"],
+            "properties": {
+              "max": { "type": "integer", "minimum": 0, "maximum": 10 },
+              "current": {
+                "type": "array",
+                "description": "Current health state per box; leave enforcement to rules.",
+                "items": {
+                  "type": "string",
+                  "enum": ["ok", "bashing", "lethal", "aggravated"]
+                },
+                "default": []
+              },
+              "notes": { "type": "string", "default": "" }
+            }
+          },
+  
+          "experience": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["total_earned", "total_spent", "unspent", "log"],
+            "properties": {
+              "total_earned": { "type": "integer", "minimum": 0, "default": 0 },
+              "total_spent": { "type": "integer", "minimum": 0, "default": 0 },
+              "unspent": { "type": "integer", "minimum": 0, "default": 0 },
+              "log": {
+                "type": "array",
+                "items": { "$ref": "#/$defs/xp_entry" },
+                "default": []
+              }
+            }
+          },
+  
+          "derived_stats": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["initiative", "movement", "carry", "soak"],
+            "properties": {
+              "initiative": { "type": "string", "default": "" },
+              "movement": { "type": "string", "default": "" },
+              "carry": { "type": "string", "default": "" },
+              "soak": { "type": "string", "default": "" },
+              "notes": { "type": "string", "default": "" }
+            }
+          }
+        }
+      },
+  
+      "vitae": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["access_pattern", "withdrawal_risk", "dependency"],
+        "properties": {
+          "access_pattern": {
+            "type": "string",
+            "enum": ["rare", "occasional", "regular", "constant"],
+            "default": "regular"
+          },
+          "withdrawal_risk": {
+            "type": "string",
+            "enum": ["low", "medium", "high", "severe"],
+            "default": "high"
+          },
+          "dependency": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["emotional_dependency_level", "functional_dependency_level"],
+            "properties": {
+              "emotional_dependency_level": { "type": "integer", "minimum": 0, "maximum": 5, "default": 4 },
+              "functional_dependency_level": { "type": "integer", "minimum": 0, "maximum": 5, "default": 3 },
+              "notes": { "type": "string", "default": "" }
+            }
+          }
+        }
+      },
+  
+      "risks": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["masquerade_risk", "court_risk", "legal_risk", "tags"],
+        "properties": {
+          "masquerade_risk": { "type": "string", "enum": ["none", "low", "medium", "high", "severe"], "default": "medium" },
+          "court_risk": { "type": "string", "enum": ["none", "low", "medium", "high", "severe"], "default": "medium" },
+          "legal_risk": { "type": "string", "enum": ["none", "low", "medium", "high", "severe"], "default": "high" },
+          "exploitation_risk": { "type": "string", "enum": ["none", "low", "medium", "high", "severe"], "default": "medium" },
+          "tags": { "type": "array", "items": { "type": "string" }, "default": [] },
+          "risk_notes": { "type": "string", "default": "" }
+        }
+      },
+  
+      "relationships": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["to_domitor", "others"],
+        "properties": {
+          "to_domitor": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["attachment_style", "jealousy_level", "protectiveness_level"],
+            "properties": {
+              "attachment_style": { "type": "string", "enum": ["devoted", "dependent", "transactional", "resentful", "fearful", "mixed"], "default": "devoted" },
+              "jealousy_level": { "type": "integer", "minimum": 0, "maximum": 5, "default": 2 },
+              "protectiveness_level": { "type": "integer", "minimum": 0, "maximum": 5, "default": 4 },
+              "trust_level": { "type": "integer", "minimum": 0, "maximum": 5, "default": 4 },
+              "notes": { "type": "string", "default": "" }
+            }
+          },
+          "others": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": ["target_type", "target_id_or_name", "relationship_type"],
+              "properties": {
+                "target_type": { "type": "string", "enum": ["character", "faction", "mortal", "unknown"] },
+                "target_id_or_name": { "type": "string", "minLength": 1 },
+                "relationship_type": { "type": "string", "minLength": 1 },
+                "intensity": { "type": "integer", "minimum": 0, "maximum": 5, "default": 1 },
+                "notes": { "type": "string", "default": "" }
+              }
+            },
+            "default": []
+          }
+        }
+      },
+  
+      "notes": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["one_liner", "expanded"],
+        "properties": {
+          "one_liner": { "type": "string", "default": "" },
+          "expanded": { "type": "string", "default": "" },
+          "st_only": { "type": "string", "default": "" }
+        }
+      },
+  
+      "timestamps": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["created_at", "updated_at"],
+        "properties": {
+          "created_at": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d+)?Z$" },
+          "updated_at": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d+)?Z$" }
+        }
+      }
+    },
+  
+    "$defs": {
+      "dotted_trait": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["name", "dots"],
+        "properties": {
+          "name": { "type": "string", "minLength": 1 },
+          "dots": { "type": "integer", "minimum": 0, "maximum": 5 },
+          "specialties": {
+            "type": "array",
+            "items": { "type": "string", "minLength": 1 },
+            "default": []
+          },
+          "notes": { "type": "string", "default": "" }
+        }
+      },
+  
+      "discipline_trait": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["name", "dots"],
+        "properties": {
+          "name": { "type": "string", "minLength": 1 },
+          "dots": { "type": "integer", "minimum": 0, "maximum": 5 },
+          "powers": {
+            "type": "array",
+            "description": "Optional list of known powers; system_text lives in DB.",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": ["name", "level"],
+              "properties": {
+                "name": { "type": "string", "minLength": 1 },
+                "level": { "type": "integer", "minimum": 1, "maximum": 9 },
+                "notes": { "type": "string", "default": "" }
+              }
+            },
+            "default": []
+          },
+          "notes": { "type": "string", "default": "" }
+        }
+      },
+  
+      "merit_flaw_trait": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["name", "points"],
+        "properties": {
+          "name": { "type": "string", "minLength": 1 },
+          "points": { "type": "integer", "minimum": -15, "maximum": 15 },
+          "source": { "type": "string", "default": "" },
+          "notes": { "type": "string", "default": "" }
+        }
+      },
+  
+      "xp_entry": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["date", "delta", "reason"],
+        "properties": {
+          "date": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+          "delta": { "type": "integer", "minimum": -999, "maximum": 999 },
+          "reason": { "type": "string", "minLength": 1 },
+          "notes": { "type": "string", "default": "" }
+        }
+      }
+    }
+  }
+  

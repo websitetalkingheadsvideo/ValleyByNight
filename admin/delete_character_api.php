@@ -44,7 +44,8 @@ try {
         'character_rituals',
         'character_status',
         'character_coteries',
-        'character_relationships'
+        'character_relationships',
+        'ghouls'  // Delete ghoul overlay data if character is a ghoul
     ];
     
     foreach ($tables as $table) {

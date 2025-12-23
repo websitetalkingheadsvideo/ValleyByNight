@@ -1,9 +1,9 @@
 # Version History
 
-## Current Version: 0.8.73
+## Current Version: 0.8.74
 
 **Date:** 2025-01-30  
-**Type:** Patch (Character view modal scrolling fixes and sire normalization script)
+**Type:** Patch (Ghoul character sheet overlay system and admin panel improvements)
 
 ### Changes:
 - **Delete Modal Styling** - Fixed confirm deletion modals to follow site styling

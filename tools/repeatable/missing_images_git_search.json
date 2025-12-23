@@ -1,0 +1,212 @@
+{
+    "generated": "2025-12-22 15:35:54",
+    "summary": {
+        "total_searched": 33,
+        "found": 10,
+        "not_found": 23
+    },
+    "found_images": [
+        {
+            "character_id": 50,
+            "character_name": "Sabine",
+            "database_filename": "50_1761942326_4f021683.jpeg",
+            "found_locations": [
+                "archive\/images\/duplicates\/reference\/Characters\/Images\/50_1761942326_4f021683.jpeg",
+                "archive\/images\\duplicates\\reference\\Characters\\Images\\50_1761942326_4f021683.jpeg"
+            ]
+        },
+        {
+            "character_id": 52,
+            "character_name": "Sebastian",
+            "database_filename": "52_1761942303_4f021683.jpeg",
+            "found_locations": [
+                "archive\/images\/duplicates\/reference\/Characters\/Images\/52_1761942303_4f021683.jpeg",
+                "archive\/images\\duplicates\\reference\\Characters\\Images\\52_1761942303_4f021683.jpeg"
+            ]
+        },
+        {
+            "character_id": 57,
+            "character_name": "Betty",
+            "database_filename": "57_1761917770_a960e538.png",
+            "found_locations": [
+                "archive\/images\/duplicates\/reference\/Characters\/Images\/57_1761917770_a960e538.png",
+                "archive\/images\\duplicates\\reference\\Characters\\Images\\57_1761917770_a960e538.png"
+            ]
+        },
+        {
+            "character_id": 63,
+            "character_name": "Piston",
+            "database_filename": "Piston.png",
+            "found_locations": [
+                "archive\/images\/duplicates\/reference\/Characters\/Images\/Piston.png",
+                "archive\/images\\duplicates\\reference\\Characters\\Images\\Piston.png"
+            ]
+        },
+        {
+            "character_id": 89,
+            "character_name": "Pistol Pete",
+            "database_filename": "Pistol Pete.png",
+            "found_locations": [
+                "archive\/images\\duplicates\\reference\\Characters\\Images\\Pistol Pete.png"
+            ]
+        },
+        {
+            "character_id": 101,
+            "character_name": "Barry Washington",
+            "database_filename": "Barry Washington.webp",
+            "found_locations": [
+                "archive\/images\\duplicates\\reference\\Characters\\Images\\Barry Washington.webp"
+            ]
+        },
+        {
+            "character_id": 107,
+            "character_name": "Layla al-Sahr",
+            "database_filename": "Layla al-Sahr.png",
+            "found_locations": [
+                "archive\/images\\duplicates\\reference\\Characters\\Images\\Layla al-Sahr.png"
+            ]
+        },
+        {
+            "character_id": 109,
+            "character_name": "Tor",
+            "database_filename": "109_1762560972_539bc98d.png",
+            "found_locations": [
+                "archive\/images\/duplicates\/reference\/Characters\/Images\/109_1762560972_539bc98d.png",
+                "archive\/images\\duplicates\\reference\\Characters\\Images\\109_1762560972_539bc98d.png"
+            ]
+        },
+        {
+            "character_id": 110,
+            "character_name": "Roxanne Vega",
+            "database_filename": "Roxanne Murphy.png",
+            "found_locations": [
+                "archive\/images\\duplicates\\reference\\Characters\\Images\\Roxanne Murphy.png"
+            ]
+        },
+        {
+            "character_id": 125,
+            "character_name": "Roxanne Murphy",
+            "database_filename": "Roxanne Murphy.png",
+            "found_locations": [
+                "archive\/images\\duplicates\\reference\\Characters\\Images\\Roxanne Murphy.png"
+            ]
+        }
+    ],
+    "not_found_images": [
+        {
+            "character_id": 26,
+            "character_name": "Andrei Radulescu",
+            "database_filename": "Andrei Radulescu.webp"
+        },
+        {
+            "character_id": 27,
+            "character_name": "Dr. Margaret Ashford",
+            "database_filename": "Margaret Ashford.png"
+        },
+        {
+            "character_id": 28,
+            "character_name": "James Whitmore",
+            "database_filename": "James Whitmore.webp"
+        },
+        {
+            "character_id": 42,
+            "character_name": "Rembrandt Jones",
+            "database_filename": "Rembrandt Jones.webp"
+        },
+        {
+            "character_id": 43,
+            "character_name": "Violet 'The Confidence Queen'",
+            "database_filename": "Violet.jpg"
+        },
+        {
+            "character_id": 44,
+            "character_name": "Jax 'The Ghost Dealer'",
+            "database_filename": "Jax.png"
+        },
+        {
+            "character_id": 46,
+            "character_name": "Bayside Bob",
+            "database_filename": "Bayside Bob.webp"
+        },
+        {
+            "character_id": 47,
+            "character_name": "Cordelia Fairchild",
+            "database_filename": "Cordelia Fairchild.png"
+        },
+        {
+            "character_id": 48,
+            "character_name": "Duke Tiki",
+            "database_filename": "Duke Tiki.webp"
+        },
+        {
+            "character_id": 55,
+            "character_name": "Leo",
+            "database_filename": "Leo.webp"
+        },
+        {
+            "character_id": 60,
+            "character_name": "Lucien Marchand",
+            "database_filename": "Lucien Marchand.png"
+        },
+        {
+            "character_id": 62,
+            "character_name": "Sofia Alvarez",
+            "database_filename": "Sofia Alvarez.webp"
+        },
+        {
+            "character_id": 68,
+            "character_name": "Étienne Duvalier",
+            "database_filename": "68_1761864977_09fd06ca.png"
+        },
+        {
+            "character_id": 70,
+            "character_name": "Alessandro Vescari",
+            "database_filename": "70_1763173770_6d9a3dd4.png"
+        },
+        {
+            "character_id": 71,
+            "character_name": "Jennifer Kwan",
+            "database_filename": "71_1761917569_5db6b141.png"
+        },
+        {
+            "character_id": 72,
+            "character_name": "Marcus Webb",
+            "database_filename": "72_1761811769_0fa12396.png"
+        },
+        {
+            "character_id": 88,
+            "character_name": "Roland Cross",
+            "database_filename": "88_1761917227_953c266e.png"
+        },
+        {
+            "character_id": 92,
+            "character_name": "Adrian Leclair",
+            "database_filename": "92_1762561016_a06ae8cc.png"
+        },
+        {
+            "character_id": 102,
+            "character_name": "Mr. Harold Ashby",
+            "database_filename": "Harold Ashby.png"
+        },
+        {
+            "character_id": 104,
+            "character_name": "Tariq Ibrahim",
+            "database_filename": "104_1763074210_6d9a3dd4.png"
+        },
+        {
+            "character_id": 113,
+            "character_name": "Sarah Hansen",
+            "database_filename": "113_1762934668_a6d93e46.png"
+        },
+        {
+            "character_id": 123,
+            "character_name": "Warner Jefferson",
+            "database_filename": "123_1762872252_22f90772.webp"
+        },
+        {
+            "character_id": 124,
+            "character_name": "Marisol \"Roadrunner\" Vega",
+            "database_filename": "123_1762872252_22f90772.webp"
+        }
+    ]
+}

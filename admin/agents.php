@@ -228,6 +228,24 @@ $agents = [
             ]
         ]
     ],
+    [
+        "name" => "Coterie Agent",
+        "slug" => "coterie_agent",
+        "description" => "Manages character coterie associations and relationships. Track which characters belong to which coteries, their roles, and coterie types.",
+        "data_access" => [
+            "/agents/coterie_agent/",
+            "character_coteries table"
+        ],
+        "purpose" => "Provide comprehensive coterie management including viewing, creating, editing, and deleting character-coterie associations.",
+        "status" => "Active",
+        "last_event" => "Ready to manage coterie associations.",
+        "actions" => [
+            [
+                "label" => "Manage Coteries",
+                "url" => "../agents/coterie_agent/index.php"
+            ]
+        ]
+    ],
     // Future agents can be appended here.
 ];
 

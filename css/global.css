@@ -29,6 +29,9 @@
     --text-light: #f5e6d3;
     --text-mid: #d4b06d; /* Changed to muted gold per Art Bible */
     --text-muted: #b8a090;
+    
+    /* Bootstrap 5 variable overrides */
+    --bs-body-bg: var(--blood-red);
 }
 
 /* ===== TABLE STYLES - BLOOD RED RADIAL GRADIENT BACKGROUND ===== */
