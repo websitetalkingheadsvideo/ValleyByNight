@@ -1,6 +1,24 @@
 # Version History
 
-## Current Version: 0.8.76
+## Current Version: 0.8.77
+
+**Date:** 2025-01-30  
+**Type:** Patch (Camarilla positions management improvements and character image additions)
+
+### Changes:
+- **Camarilla Positions Management** - Enhanced position management system with improved modals and helper functions
+  - Updated position view modal with better data display and editing capabilities
+  - Enhanced helper functions for position queries and history tracking
+  - Improved CSS styling for position management interface
+  - Added new API endpoints for position updates and viewing
+  - Enhanced JavaScript functionality for position management interactions
+- **Character Images** - Added character portrait images for multiple characters
+  - Added character images: Andrei Radulescu, Ardvark, Bayside Bob, Betty, Cordelia Fairchild, Eddy Valiant, Examiner Harris, Jax, Kerry, Lilith Nightshade, Lucien Marchand, Mother Hallow, Roadrunner, Roland Cross, Sofia Alvarez, Tariq Ibrahim, Étienne Duvalier
+- **Admin Tools** - Added utility scripts for position management and character debugging
+  - Added scripts for adding positions, cleaning duplicates, and debugging position links
+  - Added character import utility for repeatable character imports
+
+## Previous Version: 0.8.76
 
 **Date:** 2025-01-30  
 **Type:** Patch (Character image updates and reference content additions)

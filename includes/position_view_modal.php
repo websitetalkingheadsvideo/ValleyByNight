@@ -66,11 +66,23 @@ if ($script_dir === '/') {
                         <input type="number" class="form-control bg-dark text-light border-danger" id="positionImportanceRank" name="importance_rank" readonly>
                     </div>
                     
-                    <!-- Current Holder (Read-only) -->
+                    <!-- Current Holder -->
                     <div class="mb-3">
                         <label class="form-label">Current Holder</label>
                         <div id="currentHolderInfo" class="p-3 bg-dark border border-danger rounded">
                             <p class="text-muted mb-0">Loading...</p>
+                        </div>
+                        <!-- Dropdown for edit mode (hidden in view mode) -->
+                        <div id="currentHolderDropdown" class="d-none">
+                            <select id="currentHolderSelect" name="current_holder" class="form-select bg-dark text-light border-danger">
+                                <option value="">-- Vacant --</option>
+                            </select>
+                            <div class="form-check mt-2">
+                                <input class="form-check-input" type="checkbox" id="isActingCheck" name="is_acting" value="1">
+                                <label class="form-check-label text-light" for="isActingCheck">
+                                    Acting (temporary assignment)
+                                </label>
+                            </div>
                         </div>
                     </div>
                     
@@ -106,6 +118,7 @@ if ($script_dir === '/') {
     const API_ENDPOINT = <?php echo json_encode($apiEndpoint); ?>;
     const MODAL_ID = <?php echo json_encode($modalId); ?>;
     const UPDATE_ENDPOINT = '/admin/update_position_api.php';
+    const ALL_CHARACTERS = <?php echo json_encode($modal_characters ?? []); ?>;
     
     // State
     let currentPositionData = null;
@@ -260,8 +273,8 @@ if ($script_dir === '/') {
             rankInput.readOnly = (mode === 'view');
         }
         
-        // Render current holder
-        renderCurrentHolder();
+        // Render current holder (different for view vs edit mode)
+        renderCurrentHolder(mode);
         
         // Render history
         renderHistory();
@@ -278,37 +291,73 @@ if ($script_dir === '/') {
         }
     }
     
-    function renderCurrentHolder() {
+    function renderCurrentHolder(mode) {
         const holderInfo = document.getElementById('currentHolderInfo');
+        const holderDropdown = document.getElementById('currentHolderDropdown');
+        const holderSelect = document.getElementById('currentHolderSelect');
+        const isActingCheck = document.getElementById('isActingCheck');
+        
         if (!holderInfo) return;
         
         const holder = currentPositionData.current_holder;
         
-        if (!holder) {
-            holderInfo.innerHTML = '<p class="text-muted mb-0">Position is vacant</p>';
-            return;
-        }
-        
-        const holderName = holder.character_name || holder.assignment_character_id || 'Unknown';
-        const holderClan = holder.clan || 'Unknown';
-        const isActing = holder.is_acting ? 'Acting' : 'Permanent';
-        const startDate = holder.start_night ? new Date(holder.start_night).toLocaleDateString() : 'Unknown';
-        const characterId = holder.character_id;
-        
-        let html = '<div class="d-flex flex-column gap-2">';
-        html += '<div><strong>Name:</strong> ';
-        if (characterId) {
-            html += `<a href="../lotn_char_create.php?id=${characterId}" class="text-light">${escapeHtml(holderName)}</a>`;
+        if (mode === 'edit') {
+            // Show dropdown, hide info display
+            if (holderInfo) holderInfo.style.display = 'none';
+            if (holderDropdown) holderDropdown.classList.remove('d-none');
+            
+            // Populate dropdown with all characters
+            if (holderSelect && ALL_CHARACTERS) {
+                holderSelect.innerHTML = '<option value="">-- Vacant --</option>';
+                ALL_CHARACTERS.forEach(function(char) {
+                    const option = document.createElement('option');
+                    option.value = char.id;
+                    option.textContent = char.character_name + (char.clan ? ' (' + char.clan + ')' : '');
+                    // Select current holder if exists
+                    if (holder && holder.character_id && holder.character_id == char.id) {
+                        option.selected = true;
+                    }
+                    holderSelect.appendChild(option);
+                });
+            }
+            
+            // Set acting checkbox
+            if (isActingCheck && holder) {
+                isActingCheck.checked = holder.is_acting ? true : false;
+            } else if (isActingCheck) {
+                isActingCheck.checked = false;
+            }
         } else {
-            html += escapeHtml(holderName);
+            // Show info display, hide dropdown
+            if (holderInfo) holderInfo.style.display = '';
+            if (holderDropdown) holderDropdown.classList.add('d-none');
+            
+            if (!holder) {
+                holderInfo.innerHTML = '<p class="text-muted mb-0">Position is vacant</p>';
+                return;
+            }
+            
+            const holderName = holder.character_name || holder.assignment_character_id || 'Unknown';
+            const holderClan = holder.clan || 'Unknown';
+            const isActing = holder.is_acting ? 'Acting' : 'Permanent';
+            const startDate = holder.start_night ? new Date(holder.start_night).toLocaleDateString() : 'Unknown';
+            const characterId = holder.character_id;
+            
+            let html = '<div class="d-flex flex-column gap-2">';
+            html += '<div><strong>Name:</strong> ';
+            if (characterId) {
+                html += `<a href="../lotn_char_create.php?id=${characterId}" class="text-light">${escapeHtml(holderName)}</a>`;
+            } else {
+                html += escapeHtml(holderName);
+            }
+            html += '</div>';
+            html += `<div><strong>Clan:</strong> ${escapeHtml(holderClan)}</div>`;
+            html += `<div><strong>Status:</strong> <span class="badge ${holder.is_acting ? 'badge-acting' : 'badge-permanent'}">${isActing}</span></div>`;
+            html += `<div><strong>Since:</strong> ${startDate}</div>`;
+            html += '</div>';
+            
+            holderInfo.innerHTML = html;
         }
-        html += '</div>';
-        html += `<div><strong>Clan:</strong> ${escapeHtml(holderClan)}</div>`;
-        html += `<div><strong>Status:</strong> <span class="badge ${holder.is_acting ? 'badge-acting' : 'badge-permanent'}">${isActing}</span></div>`;
-        html += `<div><strong>Since:</strong> ${startDate}</div>`;
-        html += '</div>';
-        
-        holderInfo.innerHTML = html;
     }
     
     function renderHistory() {
@@ -361,6 +410,16 @@ if ($script_dir === '/') {
         
         const formData = new FormData(form);
         const data = Object.fromEntries(formData.entries());
+        
+        // Get current holder selection
+        const holderSelect = document.getElementById('currentHolderSelect');
+        const isActingCheck = document.getElementById('isActingCheck');
+        if (holderSelect) {
+            data.current_holder = holderSelect.value || '';
+        }
+        if (isActingCheck) {
+            data.is_acting = isActingCheck.checked ? 1 : 0;
+        }
         
         // Show loading state
         const submitBtn = form.querySelector('button[type="submit"]');
@@ -417,6 +476,12 @@ if ($script_dir === '/') {
         
         const modalFooter = document.getElementById('positionModalFooter');
         if (modalFooter) modalFooter.style.display = '';
+        
+        // Reset holder display
+        const holderInfo = document.getElementById('currentHolderInfo');
+        const holderDropdown = document.getElementById('currentHolderDropdown');
+        if (holderInfo) holderInfo.style.display = '';
+        if (holderDropdown) holderDropdown.classList.add('d-none');
     }
     
     function showError(message) {
@@ -434,7 +499,7 @@ if ($script_dir === '/') {
     
     // Global function to open position edit
     window.editPosition = function(positionId) {
-        viewPosition(positionId, 'edit');
+        window.viewPosition(positionId, 'edit');
     };
 })();
 </script>

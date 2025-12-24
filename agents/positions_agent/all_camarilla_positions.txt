@@ -1,0 +1,127 @@
+# Complete List of All Camarilla Positions - VbN Project
+
+## Standard Camarilla Court Positions
+
+### Leadership Positions
+1. **Prince** - The ruler of the domain
+   - Current holder mentioned: Prince Morrison (Solomon Reaves)
+   - Status: Should exist in database
+
+2. **Seneschal** - The Prince's second-in-command and administrator
+   - Handles day-to-day administration when Prince is unavailable
+   - Status: May be missing from database
+
+### Law Enforcement Positions
+3. **Sheriff** - Enforcer of the Prince's will and domain security
+   - Current holder: Roland Cross (mentioned in reference files)
+   - Status: Filled (since 1989)
+
+4. **Scourge** - Hunts down unauthorized vampires and threats to the Masquerade
+   - Status: May be missing from database
+
+### Social Positions
+5. **Harpy** - Maintains social standing and spreads information/gossip
+   - Current holder: Cordelia Fairchild (Cordelia Prescott)
+   - Status: Filled (since 1950s)
+
+6. **Keeper of Elysium** - Maintains and protects Elysium locations
+   - User confirmed: Currently VACANT (not showing in system)
+   - Status: MUST BE ADDED TO DATABASE
+
+### Clan Positions - Primogen Council
+7. **Brujah Primogen** - Clan representative
+   - Status: Should exist (needs verification)
+
+8. **Gangrel Primogen** - Clan representative
+   - Status: Should exist (needs verification)
+
+9. **Malkavian Primogen** - Clan representative
+   - Current holder: Misfortune
+   - Status: Filled
+
+10. **Nosferatu Primogen** - Clan representative
+    - Status: Should exist (needs verification)
+
+11. **Toreador Primogen** - Clan representative
+    - Current holder: Étienne Duvalier
+    - Status: Filled
+
+12. **Tremere Primogen** - Clan representative
+    - Status: Should exist (needs verification)
+
+13. **Ventrue Primogen** - Clan representative
+    - Current holder: Charles "C.W." Whitford
+    - Status: Filled
+
+### Support Positions
+14. **Talon** - Assistant to the Harpy
+    - Current holders: Sabine and Sebastian (twin Talons to Harpy Cordelia)
+    - Status: Filled (since 1992)
+    - Note: Multiple Talons may exist
+
+15. **Whip** - Clan representative who enforces clan will (secondary to Primogen)
+    - Status: Optional position, may exist per clan
+
+---
+
+## Summary
+
+### Total Standard Positions Expected: 15+ positions
+- 2 Leadership positions (Prince, Seneschal)
+- 2 Law enforcement positions (Sheriff, Scourge)
+- 2 Social positions (Harpy, Keeper of Elysium)
+- 7 Primogen positions (one per clan)
+- 2+ Support positions (Talon, Whip - may be multiple/clan-specific)
+
+### Current Database Status (User Feedback)
+- User reports seeing 9 positions (likely only filled positions)
+- User confirmed at least 2 positions missing:
+  1. **Keeper of Elysium** - Confirmed as VACANT but not in system
+  2. Unknown second missing position (possibly Seneschal or Scourge)
+
+### Positions Found in Reference Materials
+- Prince (Morrison/Reaves)
+- Sheriff (Roland Cross)
+- Harpy (Cordelia Fairchild)
+- Toreador Primogen (Étienne Duvalier)
+- Malkavian Primogen (Misfortune)
+- Ventrue Primogen (Charles Whitford)
+- Talon (Sabine and Sebastian - twins)
+
+### Positions NOT Found But Should Exist
+- Seneschal (standard Prince's assistant)
+- Scourge (standard law enforcement position)
+- Keeper of Elysium (confirmed by user as missing)
+- Brujah Primogen
+- Gangrel Primogen
+- Nosferatu Primogen
+- Tremere Primogen
+
+---
+
+## Recommended Action Items
+
+1. **IMMEDIATE**: Add "Keeper of Elysium" to database (user confirmed this is missing)
+2. Verify/add "Seneschal" position
+3. Verify/add "Scourge" position
+4. Ensure all 7 Primogen positions exist (one per clan)
+5. Verify if Whip positions exist (optional, clan-specific)
+6. Add any court-specific custom positions unique to Phoenix domain
+
+---
+
+## Position Categories for Database
+
+Suggested categories:
+- **Leadership** (Prince, Seneschal)
+- **Law Enforcement** (Sheriff, Scourge)
+- **Social** (Harpy, Keeper of Elysium)
+- **Clan Representative** (Primogen, Whip)
+- **Support** (Talon)
+
+---
+
+Generated: 2025-01-30
+Source: Comprehensive search of VbN codebase, reference materials, and user feedback
+Last Updated: Based on user confirmation that at least 2 positions are missing
+

@@ -416,3 +416,36 @@
     opacity: 1;
 }
 
+/* Bootstrap Popover Styling for Position Descriptions */
+.popover {
+    background: linear-gradient(135deg, #2a1515 0%, #1a0f0f 100%);
+    border: 2px solid #8B0000;
+    border-radius: 8px;
+    max-width: 400px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+}
+
+.popover-header {
+    background: linear-gradient(135deg, #3a2525 0%, #2a1515 100%);
+    border-bottom: 2px solid #8B0000;
+    color: #f5e6d3;
+    font-family: var(--font-brand), 'IM Fell English', serif;
+    font-weight: 600;
+    padding: 10px 15px;
+}
+
+.popover-body {
+    color: #b8a090;
+    font-family: var(--font-body), 'Source Serif Pro', serif;
+    padding: 15px;
+    line-height: 1.6;
+}
+
+.popover-arrow::before {
+    border-top-color: #8B0000;
+}
+
+.popover-arrow::after {
+    border-top-color: #2a1515;
+}
+

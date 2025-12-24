@@ -13,6 +13,7 @@ if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
 }
 
 require_once __DIR__ . '/../includes/connect.php';
+require_once __DIR__ . '/../includes/camarilla_positions_helper.php';
 
 // Get JSON input
 $input = json_decode(file_get_contents('php://input'), true);
@@ -27,6 +28,8 @@ $name = isset($input['name']) ? trim($input['name']) : '';
 $category = isset($input['category']) ? trim($input['category']) : '';
 $description = isset($input['description']) ? trim($input['description']) : null;
 $importance_rank = isset($input['importance_rank']) && $input['importance_rank'] !== '' ? intval($input['importance_rank']) : null;
+$current_holder_id = isset($input['current_holder']) ? intval($input['current_holder']) : null;
+$is_acting = isset($input['is_acting']) ? (intval($input['is_acting']) ? 1 : 0) : 0;
 
 if (empty($position_id) || empty($name) || empty($category)) {
     echo json_encode(['success' => false, 'message' => 'Position ID, name, and category are required']);
@@ -34,6 +37,11 @@ if (empty($position_id) || empty($name) || empty($category)) {
 }
 
 try {
+    // Start transaction
+    if (!db_begin_transaction($conn)) {
+        throw new Exception('Failed to begin transaction: ' . mysqli_error($conn));
+    }
+    
     // Update position
     $query = "UPDATE camarilla_positions 
              SET name = ?, category = ?, description = ?, importance_rank = ?
@@ -52,12 +60,52 @@ try {
     
     mysqli_stmt_close($stmt);
     
+    // Handle current holder assignment if provided
+    if ($current_holder_id !== null) {
+        $default_night = CAMARILLA_DEFAULT_NIGHT;
+        
+        // Get character name for assignment
+        $character = db_fetch_one($conn, "SELECT id, character_name FROM characters WHERE id = ?", "i", [$current_holder_id]);
+        
+        if ($character) {
+            // End all existing active assignments for this position
+            $end_assignments = "UPDATE camarilla_position_assignments 
+                               SET end_night = ? 
+                               WHERE position_id = ? 
+                               AND (end_night IS NULL OR end_night >= ?)";
+            db_execute($conn, $end_assignments, "sss", [$default_night, $position_id, $default_night]);
+            
+            // Create character_id for assignment (transform name)
+            $assignment_character_id = strtoupper(str_replace([' ', '-'], '_', $character['character_name']));
+            
+            // Create new assignment if character selected (not vacant)
+            if ($current_holder_id > 0) {
+                $insert_assignment = "INSERT INTO camarilla_position_assignments 
+                                    (position_id, character_id, start_night, end_night, is_acting) 
+                                    VALUES (?, ?, ?, NULL, ?)";
+                db_execute($conn, $insert_assignment, "sssi", [
+                    $position_id,
+                    $assignment_character_id,
+                    $default_night,
+                    $is_acting
+                ]);
+            }
+        }
+    }
+    
+    // Commit transaction
+    if (!db_commit($conn)) {
+        throw new Exception('Failed to commit transaction: ' . mysqli_error($conn));
+    }
+    
     echo json_encode([
         'success' => true,
         'message' => 'Position updated successfully'
     ]);
     
 } catch (Exception $e) {
+    // Rollback on error
+    db_rollback($conn);
     echo json_encode([
         'success' => false,
         'message' => 'Error: ' . $e->getMessage()
