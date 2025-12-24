@@ -571,7 +571,7 @@ include __DIR__ . '/../includes/modal_base.php';
 </script>
 
 <!-- Include external JavaScript -->
-<script src="../js/admin_camarilla_positions.js"></script>
+<script src="../js/admin_camarilla_positions.js?v=<?php echo time(); ?>"></script>
 
 <script>
 // Initialize Bootstrap popovers for position descriptions

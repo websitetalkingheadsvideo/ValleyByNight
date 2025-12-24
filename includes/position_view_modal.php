@@ -125,44 +125,10 @@ if ($script_dir === '/') {
     let currentMode = 'view'; // 'view' or 'edit'
     let positionModalInstance = null;
     
-    // Initialize on DOM ready
-    if (document.readyState === 'loading') {
-        document.addEventListener('DOMContentLoaded', initializePositionView);
-    } else {
-        initializePositionView();
-    }
-    
-    function initializePositionView() {
-        const modalEl = document.getElementById(MODAL_ID);
-        if (!modalEl) {
-            console.error('Position view modal not found. Modal ID: ' + MODAL_ID);
-            return;
-        }
-        
-        // Initialize form submission
-        const form = document.getElementById('positionForm');
-        if (form) {
-            form.addEventListener('submit', handleFormSubmit);
-        }
-        
-        // Initialize modal instance
-        if (typeof bootstrap !== 'undefined' && bootstrap.Modal) {
-            positionModalInstance = bootstrap.Modal.getOrCreateInstance(modalEl, {
-                backdrop: true,
-                focus: true
-            });
-            
-            // Reset on close
-            modalEl.addEventListener('hidden.bs.modal', () => {
-                currentPositionData = null;
-                currentMode = 'view';
-                resetForm();
-            });
-        }
-    }
-    
+    // Define global functions IMMEDIATELY (before DOM ready) so they're available for other scripts
     // Global function to open position view
     window.viewPosition = function(positionId, mode = 'view') {
+        console.log('viewPosition called with ID:', positionId, 'mode:', mode);
         if (!positionId) return;
         
         const modalEl = document.getElementById(MODAL_ID);
@@ -499,8 +465,52 @@ if ($script_dir === '/') {
     
     // Global function to open position edit
     window.editPosition = function(positionId) {
+        console.log('editPosition called with ID:', positionId);
         window.viewPosition(positionId, 'edit');
     };
+    
+    // Debug: Confirm functions are loaded
+    console.log('Position modal functions loaded:', {
+        viewPosition: typeof window.viewPosition,
+        editPosition: typeof window.editPosition,
+        modalId: MODAL_ID
+    });
+    
+    // Initialize on DOM ready (after functions are defined)
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', initializePositionView);
+    } else {
+        initializePositionView();
+    }
+    
+    function initializePositionView() {
+        const modalEl = document.getElementById(MODAL_ID);
+        if (!modalEl) {
+            console.error('Position view modal not found. Modal ID: ' + MODAL_ID);
+            return;
+        }
+        
+        // Initialize form submission
+        const form = document.getElementById('positionForm');
+        if (form) {
+            form.addEventListener('submit', handleFormSubmit);
+        }
+        
+        // Initialize modal instance
+        if (typeof bootstrap !== 'undefined' && bootstrap.Modal) {
+            positionModalInstance = bootstrap.Modal.getOrCreateInstance(modalEl, {
+                backdrop: true,
+                focus: true
+            });
+            
+            // Reset on close
+            modalEl.addEventListener('hidden.bs.modal', () => {
+                currentPositionData = null;
+                currentMode = 'view';
+                resetForm();
+            });
+        }
+    }
 })();
 </script>
 

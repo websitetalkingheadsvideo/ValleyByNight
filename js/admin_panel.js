@@ -155,7 +155,8 @@ function initializeSearch() {
 
 // Apply filter, clan filter, and search
 function applyFilters(resetPage = true) {
-    const searchTerm = document.getElementById('characterSearch').value.toLowerCase();
+    const searchInput = document.getElementById('characterSearch');
+    const searchTerm = searchInput ? searchInput.value.toLowerCase() : '';
     const rows = document.querySelectorAll('.character-row');
     
     let visibleRows = [];
@@ -414,9 +415,12 @@ function initializePagination() {
 }
 
 function changePageSize() {
-    pageSize = parseInt(document.getElementById('pageSize').value);
-    currentPage = 1;
-    updatePagination();
+    const pageSizeSelect = document.getElementById('pageSize');
+    if (pageSizeSelect) {
+        pageSize = parseInt(pageSizeSelect.value);
+        currentPage = 1;
+        updatePagination();
+    }
 }
 
 function updatePagination(visibleRows = null) {
@@ -445,40 +449,45 @@ function updatePagination(visibleRows = null) {
     
     // Update pagination info
     const showing = totalVisible === 0 ? 0 : startIndex + 1;
-    document.getElementById('paginationInfo').textContent = 
-        `Showing ${showing}-${endIndex} of ${totalVisible} characters`;
+    const paginationInfo = document.getElementById('paginationInfo');
+    if (paginationInfo) {
+        paginationInfo.textContent = 
+            `Showing ${showing}-${endIndex} of ${totalVisible} characters`;
+    }
     
     // Generate pagination buttons
     const buttonsDiv = document.getElementById('paginationButtons');
-    buttonsDiv.innerHTML = '';
-    
-    if (totalPages <= 1) return;
-    
-    // Previous button
-    if (currentPage > 1) {
-        const prevBtn = createPageButton('← Prev', currentPage - 1);
-        buttonsDiv.appendChild(prevBtn);
-    }
-    
-    // Page number buttons
-    for (let i = 1; i <= totalPages; i++) {
-        if (i === 1 || i === totalPages || (i >= currentPage - 2 && i <= currentPage + 2)) {
-            const pageBtn = createPageButton(i, i);
-            if (i === currentPage) pageBtn.classList.add('active');
-            buttonsDiv.appendChild(pageBtn);
-        } else if (i === currentPage - 3 || i === currentPage + 3) {
-            const dots = document.createElement('span');
-            dots.textContent = '...';
-            dots.style.color = '#666';
-            dots.style.padding = '0 5px';
-            buttonsDiv.appendChild(dots);
+    if (buttonsDiv) {
+        buttonsDiv.innerHTML = '';
+        
+        if (totalPages <= 1) return;
+        
+        // Previous button
+        if (currentPage > 1) {
+            const prevBtn = createPageButton('← Prev', currentPage - 1);
+            buttonsDiv.appendChild(prevBtn);
         }
-    }
-    
-    // Next button
-    if (currentPage < totalPages) {
-        const nextBtn = createPageButton('Next →', currentPage + 1);
-        buttonsDiv.appendChild(nextBtn);
+        
+        // Page number buttons
+        for (let i = 1; i <= totalPages; i++) {
+            if (i === 1 || i === totalPages || (i >= currentPage - 2 && i <= currentPage + 2)) {
+                const pageBtn = createPageButton(i, i);
+                if (i === currentPage) pageBtn.classList.add('active');
+                buttonsDiv.appendChild(pageBtn);
+            } else if (i === currentPage - 3 || i === currentPage + 3) {
+                const dots = document.createElement('span');
+                dots.textContent = '...';
+                dots.style.color = '#666';
+                dots.style.padding = '0 5px';
+                buttonsDiv.appendChild(dots);
+            }
+        }
+        
+        // Next button
+        if (currentPage < totalPages) {
+            const nextBtn = createPageButton('Next →', currentPage + 1);
+            buttonsDiv.appendChild(nextBtn);
+        }
     }
 }
 

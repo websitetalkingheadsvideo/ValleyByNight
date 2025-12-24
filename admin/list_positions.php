@@ -74,3 +74,4 @@ $positions = db_fetch_all($conn, $positions_query);
 </body>
 </html>
 
+

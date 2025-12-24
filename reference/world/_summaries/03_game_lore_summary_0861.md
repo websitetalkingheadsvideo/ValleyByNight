@@ -136,9 +136,9 @@ The Masquerade remains a constant concern. Any slip in maintaining the secret of
 - **Interpretation**: The Harpy position gives Cordelia significant social power, allowing her to shape the narrative of Phoenix's Kindred society. Her long tenure and demonstrated ruthlessness make her one of the most powerful non-Prince figures.
 
 #### **Sheriff** (Roland Cross)
-- **Fact** (from character analysis): Roland Cross arrived in Phoenix in 1989, answering Prince Morrison's need for a Sheriff. He serves as the Camarilla's enforcement arm.
+- **Fact** (from character analysis): Roland Cross arrived in Phoenix in 1989, answering Solomon Reaves's need for a Sheriff. He serves as the Camarilla's enforcement arm.
 - **Fact** (from character analysis): Roland specializes in firearms, ballistics, and "the art of killing" - treats sanctioned kills as aesthetic perfection.
-- **Interpretation**: The Sheriff represents the Camarilla's ability to enforce order through violence. Roland's arrival in 1989 suggests Prince Morrison was preparing for conflict or maintaining strict order before his death.
+- **Interpretation**: The Sheriff represents the Camarilla's ability to enforce order through violence. Roland's arrival in 1989 suggests Solomon Reaves was preparing for conflict or maintaining strict order before his death.
 
 #### **Primogen Council**
 - **Fact** (from character analysis): Multiple Primogen exist:

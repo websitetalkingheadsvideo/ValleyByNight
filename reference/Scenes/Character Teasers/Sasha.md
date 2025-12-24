@@ -17,7 +17,7 @@
 
 **[CLOSE-UP: SASHA'S HANDS]**
 
-*Ink-stained fingers trace invisible lines between clippings: "Prince Morrison Staked in 1973." "Gangrel Witness Flees." "New Prince Rises." Red string weaves them together, creating a web that spans decades, territories, *conspiracies*.*
+*Ink-stained fingers trace invisible lines between clippings: "Prince Elijah Crenshaw Staked in 1973." "Gangrel Witness Flees." "New Prince Rises." Red string weaves them together, creating a web that spans decades, territories, *conspiracies*.*
 
 > **Sasha (quietly):**
 > "The shadows have eyes. The desert whispers secrets. Every pattern in the night sky is a message written in blood that only the mad can read. And I'm reading it."

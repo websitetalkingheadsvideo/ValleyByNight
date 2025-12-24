@@ -95,6 +95,7 @@ Key Camarilla figures include:
 - **Roland Cross** (Toreador, Sheriff) - Enforces order
 - **Misfortune** (Malkavian, Primogen) - Boon collector, social manipulator
 - **Butch Reed** (Brujah, Primogen) - Clan representative
+- **Solomon Reaves** (Brujah, Prince) - Ruler of Phoenix (Assassinated)
 - **CW Whitford** (Ventrue, likely Primogen) - Power broker
 - **James Whitmore** (Tremere, Regent) - Magical authority
 - **Alistaire** (Nosferatu, Primogen) - Information broker
@@ -169,11 +170,11 @@ Cordelia's rise to Harpy in the 1950s and her destruction of a Nosferatu elder i
 #### **Fact** (from character biographies)
 - **Piston** (Brujah, Generation 9): Embraced in mid-1980s LA by Fred Osmond. Originally generation 10, committed diablerie on a Gangrel during LA Anarch faction wars (late 1980s/early 1990s). Fled to Phoenix early-to-mid 1990s, established in Surprise.
 - **Bayside Bob** (Toreador, Generation 12): Embraced sometime after 1981, arrived in Phoenix early 1981. Owner of The Bali Hai, serves as front for Anarch meetings.
-- **Roland Cross** (Toreador, Sheriff): Arrived in Phoenix in 1989 answering Prince Morrison's need.
+- **Roland Cross** (Toreador, Sheriff): Arrived in Phoenix in 1989 answering Solomon Reaves's need.
 - **Betty** (Nosferatu, Generation 9): Embraced 1989 at age 22. Coordinates Shrecknet development.
 
 #### **Interpretation**
-The 1980s saw significant changes in Phoenix's Kindred community. Bayside Bob's arrival in 1981 and establishment of The Bali Hai created a stable Anarch gathering place. Roland's arrival in 1989 suggests Prince Morrison was preparing for conflict or maintaining strict order. Betty's Embrace and Shrecknet role positions Phoenix as a technological hub in the global Kindred network.
+The 1980s saw significant changes in Phoenix's Kindred community. Bayside Bob's arrival in 1981 and establishment of The Bali Hai created a stable Anarch gathering place. Roland's arrival in 1989 suggests Solomon Reaves was preparing for conflict or maintaining strict order. Betty's Embrace and Shrecknet role positions Phoenix as a technological hub in the global Kindred network.
 
 ### The 1990s: Building Tension (1990-1994)
 
@@ -181,10 +182,10 @@ The 1980s saw significant changes in Phoenix's Kindred community. Bayside Bob's 
 **Piston** arrived in Phoenix early-to-mid 1990s, established in Surprise. Running criminal operations to fund acquisition of a bar.
 
 #### **Fact** (from character analysis)
-**Prince Morrison**: Name mentioned in Roland Cross's biography as the Prince who called for Roland's services in 1989.
+**Solomon Reaves**: Prince who called for Roland's services in 1989.
 
 #### **Inference**
-Prince Morrison had been Prince of Phoenix since at least 1989, giving him approximately 5 years of rule before his death in 1994. His decision to bring in Roland Cross as Sheriff suggests he was aware of threats or preparing for conflict.
+Solomon Reaves had been Prince of Phoenix since 1973, following the "removal" of his sire Elijah Crenshaw. His decision to bring in Roland Cross as Sheriff in 1989 suggests he was aware of threats or preparing for conflict.
 
 #### **Interpretation**
 Piston's criminal activities and desire for a bar suggest he's trying to establish a permanent Anarch presence in Phoenix. His operations create ongoing tension with Camarilla authority. The Prince's decision to bring in Roland suggests awareness of growing threats.
@@ -255,14 +256,14 @@ As the Harpy, Cordelia controls the social narrative of Phoenix's Kindred societ
 #### **Roland Cross** (Toreador, Generation 9, Sheriff)
 
 ##### **Fact** (from `sheriff_roland.json`)
-- Sheriff of Phoenix, arrived in 1989 answering Prince Morrison's need.
+- Sheriff of Phoenix, arrived in 1989 answering Solomon Reaves's need.
 - Born 1847, Embraced 1876 by Catherine 'Kate' Barlow.
 - Concept: "Gunslinger Sheriff / Toreador Killer-Artist."
 - Served as Sheriff/constable/enforcer across Southwest Camarilla domains for over a century.
 - Specializes in firearms, ballistics, and "the art of killing" - treats sanctioned kills as aesthetic perfection.
 
 ##### **Interpretation**
-Roland represents the Camarilla's enforcement arm. His arrival in 1989 suggests Prince Morrison was preparing for conflict or maintaining strict order before his death. His century-plus experience makes him a formidable enforcer.
+Roland represents the Camarilla's enforcement arm. His arrival in 1989 suggests Solomon Reaves was preparing for conflict or maintaining strict order before his death. His century-plus experience makes him a formidable enforcer.
 
 #### **Misfortune** (Malkavian, Generation 9, Primogen)
 

@@ -165,7 +165,7 @@ In 1876, Catherine Barlow came to Tombstone. A Toreador who had tired of ballroo
 
 Kate Embraced Roland that year, not despite his violence but because of it. "You're an artist who doesn't know he's an artist," she told him. "Your canvas is mortality itself." Roland understood immediately. As a vampire, his already legendary skills became supernatural. His purpose crystallized: he would be the bullet that finds its mark, the justice that never fails, the killer whose art was perfection itself.
 
-For over a century, Roland has served Camarilla domains across the Southwest as Sheriff, constable, or enforcer. He doesn't do it for power or status - those mean nothing to him. He does it because someone must, and no one does it better. His reputation is such that princes often request his services specifically. He arrived in Phoenix in 1989, answering Prince Morrison's need for a Sheriff who would be absolutely reliable and utterly lethal.
+For over a century, Roland has served Camarilla domains across the Southwest as Sheriff, constable, or enforcer. He doesn't do it for power or status - those mean nothing to him. He does it because someone must, and no one does it better. His reputation is such that princes often request his services specifically. He arrived in Phoenix in 1989, answering Solomon Reaves's need for a Sheriff who would be absolutely reliable and utterly lethal.
 
 Roland's art is killing, and like any Toreador, he pursues it with obsessive perfection. He can identify firearms by sound alone. He crafts his own ammunition. He studies ballistics, anatomy, and the psychology of violence the way other Toreador study painting or sculpture. Every sanctioned kill is executed with flawless precision. Every bullet means something. Every death is considered.
 
@@ -173,7 +173,7 @@ But Roland pays the price all Toreador pay. Sometimes he becomes lost in the bea
 
 He speaks rarely and never wastes words, much like he never wastes bullets. His code is simple: protect the domain, eliminate threats, serve the prince, perfect the art. He has no political ambitions, no desire for power beyond what he needs to do his work. He is the Sheriff because someone must be, and he does it better than anyone else.
 
-Current situation (1994): Roland serves as Prince Morrison's Sheriff, maintaining order in Phoenix's growing Kindred population. He is respected and feared in equal measure. His shooting demonstrations at Elysium are considered both entertainment and warning. He has no close relationships - his sire Kate disappeared into Mexico decades ago - but he has professional respect for those who take their duties seriously. He views the new generation of neonates with the same analytical detachment he applies to everything: assets or threats, useful or problems, worthy of salvation or requiring elimination.
+Current situation (1994): Roland serves as Solomon Reaves's Sheriff, maintaining order in Phoenix's growing Kindred population. He is respected and feared in equal measure. His shooting demonstrations at Elysium are considered both entertainment and warning. He has no close relationships - his sire Kate disappeared into Mexico decades ago - but he has professional respect for those who take their duties seriously. He views the new generation of neonates with the same analytical detachment he applies to everything: assets or threats, useful or problems, worthy of salvation or requiring elimination.
 
 ### Sasha (Malkavian)
 
@@ -213,11 +213,16 @@ In 1988, during the Savings and Loan Crisis, Warner was Embraced by Victoria Ash
 
 In the early 1990s, Warner moved to Phoenix to build a power base away from New York's entrenched Ventrue hierarchy. He's currently executing an assignment from the Ventrue Primogen: mapping and investigating all financial and business holdings of the Tremere and Giovanni in Phoenix. This is surveillance and intelligence gathering—no attacks yet. He's building comprehensive dossiers on their economic power structure while quietly acquiring influence in Phoenix's booming economy.
 
-### Kerry, the Desert-Wandering Gangrel (Gangrel)
+### Solomon Reaves (Brujah)
+
+- **Fact** (from database): Historical references: 1973, 1994
+- **Sire**: Elijah Crenshaw
+- **History**: Solomon Reaves hired an Assamite to "remove" his sire, Prince Elijah Crenshaw, in 1973. He assumed the Princedom of Phoenix following the event. He ruled until 1994 when he was assassinated by the same Assamite, hired by C.W. Whitford.
+
+### Elijah Crenshaw (Brujah)
 
 - **Fact** (from database): Historical references: 1973
-
-A wandering Gangrel who has survived decades in the desert. Kerry witnessed the 1973 Prince’s staking and guards that secret with paranoia and fear.
+- **History**: Prince of Phoenix until 1973. Staked and hidden in the Superstition Mountains by an Assamite assassin hired by his childe, Solomon Reaves.
 
 ### Alistaire (Nosferatu)
 

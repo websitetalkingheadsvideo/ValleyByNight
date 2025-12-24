@@ -231,8 +231,8 @@
   "relationships": {
     "prince_morrison": {
       "relationship": "Sheriff serves Prince",
-      "dynamic": "Professional respect. Roland serves because the domain needs a Sheriff and he's the best for the job. Morrison trusts Roland's competence absolutely but knows better than to expect friendship or political support. Roland does his duty - nothing more, nothing less.",
-      "current_status": "Has served as Phoenix Sheriff since 1989. Morrison considers this one of his best decisions."
+      "dynamic": "Professional respect. Roland serves because the domain needs a Sheriff and he's the best for the job. Reaves trusts Roland's competence absolutely but knows better than to expect friendship or political support. Roland does his duty - nothing more, nothing less.",
+      "current_status": "Has served as Phoenix Sheriff since 1989. Solomon Reaves considers this one of his best decisions."
     },
     "kate_barlow": {
       "relationship": "Sire (missing)",
