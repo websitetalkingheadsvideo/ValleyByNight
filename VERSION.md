@@ -1,32 +1,23 @@
 # Version History
 
-## Current Version: 0.8.78
+## Current Version: 0.8.79
 
 **Date:** 2025-12-24  
-**Type:** Patch (Admin panel pagination, ghoul management enhancements, and world history additions)
+**Type:** Patch (Solomon Reaves character updates, sensory profiles, and image prompt refinements)
 
 ### Changes:
-- **Admin Panel & Ghoul Management** - Enhanced admin panel with pagination and improved ghoul management
-  - Added pagination to character list in admin panel
-  - Enhanced ghoul management interface with better field handling
-  - Updated JavaScript for better modal interactions and data loading
-- **Camarilla Positions** - Further improvements to Camarilla positions management and helper functions
-  - Updated `camarilla_positions.php` and `update_position_api.php`
-  - Enhanced `position_view_modal.php` for better data display
-  - Added debug tools for position management and link verification
-- **World History & Reference** - Added new historical reference files and updated world summaries
-  - Added "December 11 1993.md" and "cannon.md" to world history
-  - Updated VbN overview and game lore summaries
-  - Added "Seneschal.md" to-do list for tracking administrative tasks
-- **Character Data** - Added new NPC records and updated existing ones
-  - Added Elijah Crenshaw (ID: 140) and Solomon Reaves (ID: 139)
-  - Updated Roland Cross character data
-  - Fixed relationship links between characters (Eddy and Roland)
-- **Maintenance Tools** - Added utility scripts for database and character maintenance
-  - Added scripts for checking ward spirits and fixing character relationships
-  - Added specialized search scripts for finding specific character links
+- **Character Data (Solomon Reaves)** - Comprehensive update to Solomon Reaves (ID: 139)
+  - Capped Physical and Social traits to match 9th Generation limits
+  - Rewrote appearance with cinematic noir realism following Art Bible guidelines
+  - Added magical obsidian signet ring details to notes and equipment
+  - Assigned character portrait image ("Solomon Reaves.png")
+- **Prompt Engineering & Sensory Profiles** - Refined character generation guidelines
+  - Updated `Storyteller.md` with Sensory Profile requirements for audio/RPA integration
+  - Created dedicated Sensory Profile for Solomon Reaves (voice, scent, sounds of movement)
+  - Enhanced image generation prompts with nocturnal/chiaroscuro lighting focus
+- **Assets** - Added new character portrait image for Solomon Reaves
 
-## Previous Version: 0.8.77
+## Previous Version: 0.8.78
 
 ## Previous Version: 0.8.76
 

@@ -11,7 +11,11 @@
     "generation": 9,
     "sire": "Elijah Crenshaw",
     "pc": 0,
-    "appearance": "A man of imposing presence, Solomon Reaves often wore the attire of a high-ranking executive or military commander. His gaze was sharp and unforgiving, and he carried the weight of a domain ruled through strict order and prepared conflict. He was known for his brittle command and his rivalry with the city's social elite.",
+    "appearance": "Solomon Reaves possesses a presence that is both brittle and absolute, a cinematic noir figure cut from sharp angles and cold stone. He is surprisingly thin, with a wiry, skeletal build that suggests a man stripped of all unnecessary softness, leaving only the coiled tension of a ruler who expects betrayal. He favors the double-breasted suits of a mid-century industrialist—heavy charcoal wool that seems to drink the amber light of his office. His face is a landscape of severe, architectural lines, dominated by a jawline so precise it appeared sculpted, punctuated by a deep, singular dimple in his chin that serves as the only mark of fallibility on an otherwise frozen mask. His eyes are restless and flinty, often cast in the cool teal shadows of the Valley’s nights, while his long, wiry fingers remain locked in a permanent, calculating clasp. To look at Solomon is to see a man who has ruled through twenty years of prepared conflict, radiating the dangerous stillness of a commander who knows exactly where the bodies are buried.",
+    "appearance_detailed": {
+        "short_summary": "A sharp, skeletal figure in mid-century industrialist attire, radiating brittle authority and a commander's stillness.",
+        "detailed_description": "Solomon Reaves possesses a presence that is both brittle and absolute, a cinematic noir figure cut from sharp angles and cold stone. He is surprisingly thin, with a wiry, skeletal build that suggests a man stripped of all unnecessary softness, leaving only the coiled tension of a ruler who expects betrayal. He favors the double-breasted suits of a mid-century industrialist—heavy charcoal wool that seems to drink the amber light of his office. His face is a landscape of severe, architectural lines, dominated by a jawline so precise it appeared sculpted, punctuated by a deep, singular dimple in his chin that serves as the only mark of fallibility on an otherwise frozen mask. His eyes are restless and flinty, often cast in the cool teal shadows of the Valley’s nights, while his long, wiry fingers remain locked in a permanent, calculating clasp. To look at Solomon is to see a man who has ruled through twenty years of prepared conflict, radiating the dangerous stillness of a commander who knows exactly where the bodies are buried."
+    },
     "biography": "The childe of Prince Elijah Crenshaw, Solomon Reaves sought power for himself in 1973. He hired an Assamite assassin to 'remove' his sire from the throne. To his subsequent surprise, the assassin interpreted the contract literally, staking Elijah and hiding his body in the Superstition Mountains rather than ending him permanently. Solomon assumed the Princedom and ruled Phoenix for over twenty years, bringing in Roland Cross as his Sheriff in 1989 to maintain a tight grip on the city. His reign ended abruptly in 1994 when he was assassinated at Hawthorn Estate by the same Assamite assassin who had removed his sire, this time hired by C.W. Whitford.",
     "notes": "Prince of Phoenix who assumed power in 1973. Brujah. Childe of Elijah Crenshaw. Assassinated on the first night of the chronicle (1994). His death triggers the main plot.",
     "equipment": "Executive suits, symbol of the Princedom, encrypted communication devices.",
@@ -30,8 +34,8 @@
     },
     "camarilla_status": "Prince",
     "traits": {
-        "Physical": ["Commanding", "Sturdy"],
-        "Social": ["Authoritative", "Intimidating"],
+        "Physical": ["Brawny", "Brawny", "Brawny", "Quick", "Quick", "Quick", "Tough", "Tough", "Tough", "Rugged", "Rugged", "Steady", "Sturdy"],
+        "Social": ["Authoritative", "Authoritative", "Intimidating", "Intimidating", "Commanding", "Commanding", "Charismatic", "Charismatic", "Dignified", "Dignified", "Diplomatic", "Magnetic", "Witty"],
         "Mental": ["Strategic", "Watchful"]
     },
     "disciplines": [
@@ -39,6 +43,7 @@
         {"name": "Potence", "level": 3},
         {"name": "Presence", "level": 4}
     ],
+    "character_image": "Solomon Reaves.png",
     "created_at": "2025-12-24 08:00:00",
     "updated_at": "2025-12-24 08:00:00"
 }

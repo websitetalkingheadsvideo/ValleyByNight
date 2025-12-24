@@ -1,0 +1,4 @@
+Solomon Reaves: Sensory Profile
+Voice: A dry, mid-range baritone with the texture of aged vellum. His cadence is rhythmic and clipped, reminiscent of a mid-century radio broadcaster or a military commander delivering a briefing. He rarely raises his volume, relying on a sharp, enunciated "bite" at the end of sentences to convey authority.
+Scent: A sharp, sterile base of ozone and expensive tailoring—specifically the metallic tang of dry-cleaned wool and the faint, bitter aroma of black coffee and old, heavy paper. There is no trace of cologne or life; he smells like a dormant office building at 3:00 AM.
+Sounds of Movement: The most characteristic sound is the rhythmic, heavy click-slide of his obsidian signet ring against the mahogany of a desk or the palm of his other hand. His movements are silent and efficient, save for the occasional dry rustle of his heavy wool suit
