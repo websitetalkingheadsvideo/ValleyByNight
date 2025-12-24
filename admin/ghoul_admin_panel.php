@@ -77,6 +77,63 @@ function getHighestDiscipline($disciplinesJson) {
         <div class="col-12">
             <h1 class="mb-4">Ghoul Character Management</h1>
             
+            <!-- Character Statistics -->
+            <div class="character-stats row g-3 mb-4">
+                <?php
+                $stats_query = "SELECT 
+                    COUNT(*) as total,
+                    SUM(CASE WHEN pc = 0 THEN 1 ELSE 0 END) as npcs,
+                    SUM(CASE WHEN pc = 1 THEN 1 ELSE 0 END) as pcs
+                    FROM characters WHERE clan = 'Ghoul'";
+                $stats_result = mysqli_query($conn, $stats_query);
+                $stats = mysqli_fetch_assoc($stats_result);
+                ?>
+                <div class="col-12 col-sm-4 col-lg-3">
+                    <div class="card text-center bg-dark border-danger text-light">
+                        <div class="card-body">
+                            <div class="vbn-stat-number h2 fw-bold" id="statTotal"><?php echo $stats['total'] ?? 0; ?></div>
+                            <div class="vbn-stat-label text-uppercase small opacity-75">Total Ghouls</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-4 col-lg-3">
+                    <div class="card text-center bg-dark border-danger text-light">
+                        <div class="card-body">
+                            <div class="vbn-stat-number h2 fw-bold" id="statPcs"><?php echo $stats['pcs'] ?? 0; ?></div>
+                            <div class="vbn-stat-label text-uppercase small opacity-75">PC Ghouls</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-4 col-lg-3">
+                    <div class="card text-center bg-dark border-danger text-light">
+                        <div class="card-body">
+                            <div class="vbn-stat-number h2 fw-bold" id="statNpcs"><?php echo $stats['npcs'] ?? 0; ?></div>
+                            <div class="vbn-stat-label text-uppercase small opacity-75">NPC Ghouls</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Filter Controls -->
+            <div class="filter-controls row gy-3 align-items-center mb-4">
+                <div class="filter-buttons col-12 col-md-auto d-flex flex-wrap gap-2">
+                    <button class="filter-btn btn btn-outline-danger active" data-filter="all">All Ghouls</button>
+                    <button class="filter-btn btn btn-outline-danger" data-filter="pcs">PCs Only</button>
+                    <button class="filter-btn btn btn-outline-danger" data-filter="npcs">NPCs Only</button>
+                </div>
+                <div class="search-box col-12 col-lg col-xl-4">
+                    <input type="text" id="characterSearch" class="form-control form-control-sm bg-dark text-light border-danger" placeholder="🔍 Search name, player, status, domitor..." />
+                </div>
+                <div class="page-size-control col-12 col-md-auto d-flex align-items-center gap-2">
+                    <label for="pageSize" class="text-light text-uppercase small mb-0">Per page:</label>
+                    <select id="pageSize" class="form-select form-select-sm bg-dark text-light border-danger">
+                        <option value="20" selected>20</option>
+                        <option value="50">50</option>
+                        <option value="100">100</option>
+                    </select>
+                </div>
+            </div>
+            
             <!-- Character Table -->
             <div class="character-table-wrapper table-responsive rounded-3">
                 <table class="character-table table table-dark table-hover align-middle mb-0" id="ghoulCharacterTable">
@@ -136,7 +193,11 @@ function getHighestDiscipline($disciplinesJson) {
                                 data-id="<?php echo $char['id']; ?>"
                                 data-type="<?php echo $is_npc ? 'npc' : 'pc'; ?>" 
                                 data-name="<?php echo htmlspecialchars($char['character_name']); ?>"
-                                data-status="<?php echo htmlspecialchars($status); ?>">
+                                data-player="<?php echo htmlspecialchars($playerName); ?>"
+                                data-status="<?php echo htmlspecialchars($status); ?>"
+                                data-clan="Ghoul"
+                                data-owner="<?php echo htmlspecialchars($char['owner_username'] ?? '—'); ?>"
+                                data-domitor="<?php echo htmlspecialchars($domitorName); ?>">
                                 <td class="character-cell align-top text-light">
                                     <strong><?php echo htmlspecialchars($char['character_name']); ?></strong>
                                 </td>
@@ -192,6 +253,16 @@ function getHighestDiscipline($disciplinesJson) {
                         ?>
                     </tbody>
                 </table>
+            </div>
+
+            <!-- Pagination Controls -->
+            <div class="pagination-controls d-flex flex-column flex-lg-row gap-3 align-items-center justify-content-between mt-4 pb-4" id="paginationControls">
+                <div class="pagination-info fw-semibold text-light">
+                    <span id="paginationInfo">Showing 1-20 of <?php echo $stats['total'] ?? 0; ?> characters</span>
+                </div>
+                <div class="pagination-buttons d-flex flex-wrap gap-2 justify-content-center" id="paginationButtons">
+                    <!-- Buttons will be generated by JavaScript -->
+                </div>
             </div>
         </div>
     </div>

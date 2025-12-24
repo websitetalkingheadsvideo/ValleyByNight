@@ -125,10 +125,10 @@ Bayside Bob was Embraced by **Duke Tiki** (Toreador artist).
 Bayside Bob's arrival in 1981 and his establishment of The Bali Hai created a stable Anarch gathering place before Piston's arrival. His Toreador clan affiliation suggests the Anarch movement in Phoenix has cross-clan support, not just Brujah.
 
 ### **Fact** (from `sheriff_roland.json`)
-**Roland Cross** (Toreador, Sheriff): Arrived in Phoenix in 1989 answering Prince Morrison's need.
+**Roland Cross** (Toreador, Sheriff): Arrived in Phoenix in 1989 answering Solomon Reaves's need.
 
 ### **Interpretation**
-Roland's arrival in 1989 suggests Prince Morrison was preparing for conflict or maintaining strict order. His century-plus experience as a Sheriff/constable/enforcer across Southwest domains made him a valuable addition to Phoenix's Camarilla structure.
+Roland's arrival in 1989 suggests Solomon Reaves was preparing for conflict or maintaining strict order. His century-plus experience as a Sheriff/constable/enforcer across Southwest domains made him a valuable addition to Phoenix's Camarilla structure.
 
 ### **Fact** (from `Betty.json`)
 **Betty** (Nosferatu, Generation 9): Embraced 1989 at age 22.
@@ -213,10 +213,10 @@ Chronicle tagline: **"On your first night among the Kindred, the Prince dies—a
 The Prince's death at the Hawthorne Estate during a formal Camarilla gathering suggests the murder was either an inside job or a carefully planned assassination that took advantage of the gathering's security protocols.
 
 ### **Fact** (from character analysis)
-**Prince Morrison**: Name mentioned in Roland Cross's biography as the Prince who called for Roland's services in 1989.
+**Solomon Reaves**: Prince who called for Roland's services in 1989.
 
 ### **Inference**
-Prince Morrison had been Prince of Phoenix since at least 1989, giving him approximately 5 years of rule before his death in 1994. His decision to bring in Roland Cross as Sheriff suggests he was aware of threats or preparing for conflict.
+Solomon Reaves had been Prince of Phoenix since at least 1989, giving him approximately 5 years of rule before his death in 1994. His decision to bring in Roland Cross as Sheriff suggests he was aware of threats or preparing for conflict.
 
 ### **Fact** (from clan analysis)
 After the Prince's death, different clans respond differently:

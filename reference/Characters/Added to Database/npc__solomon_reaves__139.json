@@ -1,0 +1,44 @@
+{
+    "id": 139,
+    "user_id": 1,
+    "character_name": "Solomon Reaves",
+    "player_name": "NPC",
+    "chronicle": "Valley by Night",
+    "nature": "Architect",
+    "demeanor": "Director",
+    "concept": "Prince of Phoenix (1973-1994)",
+    "clan": "Brujah",
+    "generation": 9,
+    "sire": "Elijah Crenshaw",
+    "pc": 0,
+    "appearance": "A man of imposing presence, Solomon Reaves often wore the attire of a high-ranking executive or military commander. His gaze was sharp and unforgiving, and he carried the weight of a domain ruled through strict order and prepared conflict. He was known for his brittle command and his rivalry with the city's social elite.",
+    "biography": "The childe of Prince Elijah Crenshaw, Solomon Reaves sought power for himself in 1973. He hired an Assamite assassin to 'remove' his sire from the throne. To his subsequent surprise, the assassin interpreted the contract literally, staking Elijah and hiding his body in the Superstition Mountains rather than ending him permanently. Solomon assumed the Princedom and ruled Phoenix for over twenty years, bringing in Roland Cross as his Sheriff in 1989 to maintain a tight grip on the city. His reign ended abruptly in 1994 when he was assassinated at Hawthorn Estate by the same Assamite assassin who had removed his sire, this time hired by C.W. Whitford.",
+    "notes": "Prince of Phoenix who assumed power in 1973. Brujah. Childe of Elijah Crenshaw. Assassinated on the first night of the chronicle (1994). His death triggers the main plot.",
+    "equipment": "Executive suits, symbol of the Princedom, encrypted communication devices.",
+    "status": {
+        "sect_status": "Prince (Camarilla)",
+        "clan_status": "Acknowledged",
+        "city_status": "Prince",
+        "health_levels": 7,
+        "blood_pool_current": null,
+        "blood_pool_maximum": null,
+        "blood_per_turn": 1,
+        "xp_total": 0,
+        "xp_spent": 0,
+        "xp_available": 0,
+        "notes": "Deceased"
+    },
+    "camarilla_status": "Prince",
+    "traits": {
+        "Physical": ["Commanding", "Sturdy"],
+        "Social": ["Authoritative", "Intimidating"],
+        "Mental": ["Strategic", "Watchful"]
+    },
+    "disciplines": [
+        {"name": "Celerity", "level": 3},
+        {"name": "Potence", "level": 3},
+        {"name": "Presence", "level": 4}
+    ],
+    "created_at": "2025-12-24 08:00:00",
+    "updated_at": "2025-12-24 08:00:00"
+}

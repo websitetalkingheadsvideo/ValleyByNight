@@ -64,22 +64,46 @@ try {
     if ($current_holder_id !== null) {
         $default_night = CAMARILLA_DEFAULT_NIGHT;
         
-        // Get character name for assignment
-        $character = db_fetch_one($conn, "SELECT id, character_name FROM characters WHERE id = ?", "i", [$current_holder_id]);
-        
-        if ($character) {
-            // End all existing active assignments for this position
+        // If current_holder_id is 0, it means the user selected "Vacant" in the dropdown.
+        // For single-holder positions, this clears the position.
+        // For multi-holder positions (Talon/Whip), we'll assume it means clearing ALL for now 
+        // since the UI only supports a single selection.
+        if ($current_holder_id === 0) {
             $end_assignments = "UPDATE camarilla_position_assignments 
                                SET end_night = ? 
                                WHERE position_id = ? 
                                AND (end_night IS NULL OR end_night >= ?)";
             db_execute($conn, $end_assignments, "sss", [$default_night, $position_id, $default_night]);
+        } else {
+            // Get character name for assignment
+            $character = db_fetch_one($conn, "SELECT id, character_name FROM characters WHERE id = ?", "i", [$current_holder_id]);
             
-            // Create character_id for assignment (transform name)
-            $assignment_character_id = strtoupper(str_replace([' ', '-'], '_', $character['character_name']));
-            
-            // Create new assignment if character selected (not vacant)
-            if ($current_holder_id > 0) {
+            if ($character) {
+                // Check if this position allows multiple holders (Talon, Whip)
+                $allows_multiple = in_array(strtolower($position_id), ['talon', 'whip']);
+
+                // Only end ALL existing active assignments if NOT a multi-holder position
+                if (!$allows_multiple) {
+                    $end_assignments = "UPDATE camarilla_position_assignments 
+                                       SET end_night = ? 
+                                       WHERE position_id = ? 
+                                       AND (end_night IS NULL OR end_night >= ?)";
+                    db_execute($conn, $end_assignments, "sss", [$default_night, $position_id, $default_night]);
+                }
+                
+                // Create character_id string for assignment (e.g., "SABINE_TOREADOR")
+                $assignment_character_id = strtoupper(str_replace([' ', '-'], '_', $character['character_name']));
+                
+                // Always end any existing assignment for THIS specific character in THIS position
+                // to avoid duplicates or to update their status (like switching from acting to permanent)
+                $end_specific = "UPDATE camarilla_position_assignments 
+                                SET end_night = ? 
+                                WHERE position_id = ? 
+                                AND character_id = ?
+                                AND (end_night IS NULL OR end_night >= ?)";
+                db_execute($conn, $end_specific, "ssss", [$default_night, $position_id, $assignment_character_id, $default_night]);
+                
+                // Create new assignment
                 $insert_assignment = "INSERT INTO camarilla_position_assignments 
                                     (position_id, character_id, start_night, end_night, is_acting) 
                                     VALUES (?, ?, ?, NULL, ?)";

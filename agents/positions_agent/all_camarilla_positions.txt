@@ -4,7 +4,7 @@
 
 ### Leadership Positions
 1. **Prince** - The ruler of the domain
-   - Current holder mentioned: Prince Morrison (Solomon Reaves)
+   - Current holder: Solomon Reaves
    - Status: Should exist in database
 
 2. **Seneschal** - The Prince's second-in-command and administrator
@@ -80,7 +80,7 @@
   2. Unknown second missing position (possibly Seneschal or Scourge)
 
 ### Positions Found in Reference Materials
-- Prince (Morrison/Reaves)
+- Prince (Solomon Reaves)
 - Sheriff (Roland Cross)
 - Harpy (Cordelia Fairchild)
 - Toreador Primogen (Étienne Duvalier)

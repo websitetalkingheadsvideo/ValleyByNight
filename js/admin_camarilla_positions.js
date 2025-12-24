@@ -188,39 +188,58 @@
      * Setup action buttons (view, edit, delete)
      */
     function setupActionButtons() {
-        // View buttons
-        const viewButtons = document.querySelectorAll('.view-btn');
-        viewButtons.forEach(btn => {
-            btn.addEventListener('click', function() {
-                const positionId = this.dataset.id;
-                if (!positionId) {
-                    console.error('View button missing position ID');
-                    return;
-                }
-                if (typeof window.viewPosition === 'function') {
-                    window.viewPosition(positionId, 'view');
-                } else {
-                    console.error('viewPosition function not found. Make sure position_view_modal.php is included.');
-                }
-            });
-        });
+        // Wait for modal functions to be available (they're defined in position_view_modal.php)
+        let retryCount = 0;
+        const maxRetries = 50; // Max 5 seconds of retries
         
-        // Edit buttons
-        const editButtons = document.querySelectorAll('.edit-btn');
-        editButtons.forEach(btn => {
-            btn.addEventListener('click', function() {
-                const positionId = this.dataset.id;
-                if (!positionId) {
-                    console.error('Edit button missing position ID');
+        function trySetupButtons() {
+            // Check if functions are available
+            if (typeof window.viewPosition !== 'function' || typeof window.editPosition !== 'function') {
+                retryCount++;
+                if (retryCount < maxRetries) {
+                    setTimeout(trySetupButtons, 100);
                     return;
-                }
-                if (typeof window.editPosition === 'function') {
-                    window.editPosition(positionId);
                 } else {
-                    console.error('editPosition function not found. Make sure position_view_modal.php is included.');
+                    console.error('viewPosition/editPosition functions not found after retries. Make sure position_view_modal.php is included before this script.');
                 }
+            }
+            
+            // View buttons
+            const viewButtons = document.querySelectorAll('.view-btn');
+            viewButtons.forEach(btn => {
+                btn.addEventListener('click', function() {
+                    const positionId = this.dataset.id;
+                    if (!positionId) {
+                        console.error('View button missing position ID');
+                        return;
+                    }
+                    if (typeof window.viewPosition === 'function') {
+                        window.viewPosition(positionId, 'view');
+                    } else {
+                        console.error('viewPosition function not found');
+                    }
+                });
             });
-        });
+            
+            // Edit buttons
+            const editButtons = document.querySelectorAll('.edit-btn');
+            editButtons.forEach(btn => {
+                btn.addEventListener('click', function() {
+                    const positionId = this.dataset.id;
+                    if (!positionId) {
+                        console.error('Edit button missing position ID');
+                        return;
+                    }
+                    if (typeof window.editPosition === 'function') {
+                        window.editPosition(positionId);
+                    } else {
+                        console.error('editPosition function not found');
+                    }
+                });
+            });
+        }
+        
+        trySetupButtons();
         
         // Delete buttons
         const deleteButtons = document.querySelectorAll('.delete-btn');
