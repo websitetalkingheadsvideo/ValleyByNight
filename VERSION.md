@@ -1,6 +1,21 @@
 # Version History
 
-## Current Version: 0.8.75
+## Current Version: 0.8.76
+
+**Date:** 2025-01-30  
+**Type:** Patch (Character image updates and reference content additions)
+
+### Changes:
+- **Character Image Updates** - Added character portrait images for Sarah Hansen and Adrian Leclair
+  - Set character_image field to "Sarah Hansen.png" for Sarah Hansen (ID: 113)
+  - Set character_image field to "Adrian Leclair.png" for Adrian Leclair (ID: 92)
+  - Created utility scripts for character image updates (`database/update_sarah_image.php`, `database/update_adrian_image.php`)
+- **Reference Content** - Added scene teasers and character introduction content
+  - Added scene teasers: "The Bell.md", "They Always Find You.md", "What We Carry With Us.md"
+  - Added character introductions: "Jennifer Torrance_Intro.md", "Julien Roche.md"
+  - Added image prompt documentation for Sarah Hansen
+
+## Previous Version: 0.8.75
 
 **Date:** 2025-01-30  
 **Type:** Patch (Ghoul character sheet improvements and character image update)
