@@ -27,6 +27,16 @@ $default_night = CAMARILLA_DEFAULT_NIGHT;
 // Get all positions with current holders
 $positions_data = get_all_positions_with_current_holders($default_night);
 
+// Get vacant positions - filter from positions_data (matching table display logic)
+$vacant_positions = [];
+foreach ($positions_data as $data) {
+    $holders = $data['current_holders'] ?? [];
+    // Match table logic exactly: if empty holders array shows "Vacant"
+    if (empty($holders)) {
+        $vacant_positions[] = $data['position'];
+    }
+}
+
 // Get unique categories for filter
 $categories_query = "SELECT DISTINCT category FROM camarilla_positions WHERE category IS NOT NULL AND category != '' ORDER BY category";
 $categories_result = db_fetch_all($conn, $categories_query);
@@ -43,13 +53,6 @@ $all_positions = db_fetch_all($conn, $all_positions_query);
 $characters_query = "SELECT id, character_name, clan FROM characters ORDER BY character_name";
 $all_characters = db_fetch_all($conn, $characters_query);
 
-// DEBUG: Check character names that should match
-$debug_chars = db_fetch_all($conn, "SELECT id, character_name, UPPER(REPLACE(character_name, ' ', '_')) as transformed_name FROM characters WHERE character_name LIKE '%Butch%' OR character_name LIKE '%Alistaire%' OR character_name LIKE '%Reed%' OR character_name LIKE '%Hawthorn%'");
-error_log("DEBUG character name check: " . json_encode($debug_chars));
-
-// DEBUG: Check what the assignment table expects vs what we have
-$debug_assignments = db_fetch_all($conn, "SELECT cpa.position_id, cpa.character_id as assignment_char_id, c.character_name, c.id as char_id, UPPER(REPLACE(c.character_name, ' ', '_')) as transformed FROM camarilla_position_assignments cpa LEFT JOIN characters c ON UPPER(REPLACE(c.character_name, ' ', '_')) = cpa.character_id WHERE cpa.character_id IN ('BUTCH_REED', 'ALISTAIRE_HAWTHORN')");
-error_log("DEBUG assignment vs character match: " . json_encode($debug_assignments));
 
 // Handle agent queries
 $position_lookup_result = null;
@@ -67,10 +70,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }
         
         if ($position_id) {
+            $all_holders = get_all_current_holders_for_position($position_id, $lookup_night);
             $position_lookup_result = [
                 'position_id' => $position_id,
                 'night' => $lookup_night,
-                'current_holder' => get_current_holder_for_position($position_id, $lookup_night),
+                'current_holders' => $all_holders, // Array of all holders
+                'current_holder' => !empty($all_holders) ? $all_holders[0] : null, // First holder for backward compatibility
                 'history' => get_position_history($position_id)
             ];
             
@@ -144,13 +149,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <div class="col-12 col-lg col-xl-4">
             <input type="text" id="positionSearch" class="form-control form-control-sm bg-dark text-light border-danger" placeholder="🔍 Search positions..." />
         </div>
+        <div class="col-12 col-md-auto">
+            <button type="button" class="btn btn-outline-warning btn-sm" id="showVacantPositionsBtn" data-bs-toggle="modal" data-bs-target="#vacantPositionsModal">
+                📋 Show Vacant Positions (<?php echo count($vacant_positions); ?>)
+            </button>
+        </div>
     </div>
-    
-    <!-- DEBUG: Character name lookup -->
-    <script>
-        console.log('DEBUG Character Names in DB:', <?php echo json_encode($debug_chars); ?>);
-        console.log('DEBUG Assignment vs Character Match:', <?php echo json_encode($debug_assignments); ?>);
-    </script>
     
     <!-- Positions Table -->
     <div class="table-responsive rounded-3">
@@ -168,72 +172,106 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             <tbody>
                 <?php foreach ($positions_data as $data): 
                     $position = $data['position'];
-                    $holder = $data['current_holder'];
+                    $holders = $data['current_holders'] ?? []; // Array of holders (supports multiple)
+                    $holder = $data['current_holder'] ?? null; // First holder for backward compatibility
+                    $has_holders = !empty($holders);
+                    $is_multiple = count($holders) > 1;
+                    // Get first holder's clan for filtering (or empty if vacant)
+                    $first_clan = !empty($holders) ? ($holders[0]['clan'] ?? '') : '';
                 ?>
                     <tr class="position-row" 
-                        data-id="<?php echo htmlspecialchars($position['position_id'] ?? ''); ?>"
+                        data-id="<?php echo htmlspecialchars($position['position_id'] ?? ''); ?>" 
                         data-category="<?php echo htmlspecialchars($position['category'] ?? ''); ?>"
-                        data-clan="<?php echo htmlspecialchars($holder['clan'] ?? ''); ?>"
+                        data-clan="<?php echo htmlspecialchars($first_clan); ?>"
                         data-name="<?php echo htmlspecialchars(strtolower($position['name'] ?? '')); ?>">
-                        <td><strong><?php echo htmlspecialchars($position['name'] ?? 'Unknown'); ?></strong></td>
+                        <td>
+                            <?php 
+                            $description = $position['description'] ?? '';
+                            $has_description = !empty(trim($description));
+                            ?>
+                            <strong 
+                                <?php if ($has_description): ?>
+                                data-bs-toggle="popover" 
+                                data-bs-trigger="hover"
+                                data-bs-placement="top"
+                                data-bs-content="<?php echo htmlspecialchars($description); ?>"
+                                style="cursor: help;"
+                                <?php endif; ?>
+                            >
+                                <?php echo htmlspecialchars($position['name'] ?? 'Unknown'); ?>
+                            </strong>
+                        </td>
                         <td><?php echo htmlspecialchars(ucwords($position['category'] ?? '—')); ?></td>
                         <td>
-                            <?php if ($holder): ?>
-                                <?php 
-                                // DEBUG: Log holder data
-                                $debug_info = "position_id: " . ($position['position_id'] ?? '') . 
-                                            ", assignment_character_id: " . ($holder['assignment_character_id'] ?? 'NULL') . 
-                                            ", holder character_id: " . ($holder['character_id'] ?? 'NULL') . 
-                                            ", holder character_name: " . ($holder['character_name'] ?? 'NULL') . 
-                                            ", holder keys: " . implode(', ', array_keys($holder));
-                                ?>
-                                <script>console.log('DEBUG Holder Data:', <?php echo json_encode($holder); ?>, 'Debug Info:', <?php echo json_encode($debug_info); ?>);</script>
-                                <?php 
-                                // Use character_name if available, otherwise fall back to assignment_character_id (formatted to title case)
-                                if (!empty($holder['character_name'])) {
-                                    $display_name = $holder['character_name'];
-                                } else {
-                                    $display_name = ucwords(strtolower(str_replace('_', ' ', $holder['assignment_character_id'] ?? 'Unknown')));
-                                }
-                                ?>
-                                <?php if (!empty($holder['character_id'])): ?>
-                                    <a href="../lotn_char_create.php?id=<?php echo htmlspecialchars($holder['character_id']); ?>" class="character-link">
-                                        <?php echo htmlspecialchars($display_name); ?>
-                                    </a>
+                            <?php if ($has_holders): ?>
+                                <?php if ($is_multiple): ?>
+                                    <div class="multiple-holders">
+                                        <?php foreach ($holders as $idx => $h): ?>
+                                            <?php 
+                                            $display_name = !empty($h['character_name']) 
+                                                ? $h['character_name'] 
+                                                : ucwords(strtolower(str_replace('_', ' ', $h['assignment_character_id'] ?? 'Unknown')));
+                                            ?>
+                                            <?php if ($idx > 0): ?>, <?php endif; ?>
+                                            <?php if (!empty($h['character_id'])): ?>
+                                                <a href="../lotn_char_create.php?id=<?php echo htmlspecialchars($h['character_id']); ?>" class="character-link">
+                                                    <?php echo htmlspecialchars($display_name); ?>
+                                                </a>
+                                            <?php else: ?>
+                                                <span class="character-link" title="Character not found in database"><?php echo htmlspecialchars($display_name); ?></span>
+                                            <?php endif; ?>
+                                        <?php endforeach; ?>
+                                    </div>
                                 <?php else: ?>
-                                    <span class="character-link" title="Character not found in database"><?php echo htmlspecialchars($display_name); ?></span>
+                                    <?php 
+                                    $h = $holders[0];
+                                    $display_name = !empty($h['character_name']) 
+                                        ? $h['character_name'] 
+                                        : ucwords(strtolower(str_replace('_', ' ', $h['assignment_character_id'] ?? 'Unknown')));
+                                    ?>
+                                    <?php if (!empty($h['character_id'])): ?>
+                                        <a href="../lotn_char_create.php?id=<?php echo htmlspecialchars($h['character_id']); ?>" class="character-link">
+                                            <?php echo htmlspecialchars($display_name); ?>
+                                        </a>
+                                    <?php else: ?>
+                                        <span class="character-link" title="Character not found in database"><?php echo htmlspecialchars($display_name); ?></span>
+                                    <?php endif; ?>
                                 <?php endif; ?>
                             <?php else: ?>
                                 <span class="text-muted">Vacant</span>
                             <?php endif; ?>
                         </td>
                         <td>
-                            <?php if ($holder): ?>
-                                <?php if ($holder['is_acting']): ?>
-                                    <span class="badge badge-acting">Acting</span>
+                            <?php if ($has_holders): ?>
+                                <?php if ($is_multiple): ?>
+                                    <span class="badge badge-permanent">Multiple</span>
                                 <?php else: ?>
-                                    <span class="badge badge-permanent">Permanent</span>
+                                    <?php if ($holders[0]['is_acting']): ?>
+                                        <span class="badge badge-acting">Acting</span>
+                                    <?php else: ?>
+                                        <span class="badge badge-permanent">Permanent</span>
+                                    <?php endif; ?>
                                 <?php endif; ?>
                             <?php else: ?>
                                 <span class="badge badge-vacant">Vacant</span>
                             <?php endif; ?>
                         </td>
                         <td>
-                            <?php if ($holder && $holder['start_night']): ?>
-                                <?php echo date('Y-m-d', strtotime($holder['start_night'])); ?>
+                            <?php if ($has_holders && !empty($holders[0]['start_night'])): ?>
+                                <?php echo date('Y-m-d', strtotime($holders[0]['start_night'])); ?>
                             <?php else: ?>
                                 <span class="text-muted">—</span>
                             <?php endif; ?>
                         </td>
                         <td class="text-center align-top" style="width: 150px;">
                             <div class="btn-group btn-group-sm" role="group" aria-label="Position actions">
-                                <button class="btn btn-primary" 
+                                <button class="btn btn-primary view-btn" 
                                         data-id="<?php echo htmlspecialchars($position['position_id'] ?? ''); ?>"
                                         title="View Position">👁️</button>
-                                <button class="btn btn-warning" 
+                                <button class="btn btn-warning edit-btn" 
                                         data-id="<?php echo htmlspecialchars($position['position_id'] ?? ''); ?>"
                                         title="Edit Position">✏️</button>
-                                <button class="btn btn-danger" 
+                                <button class="btn btn-danger delete-btn" 
                                         data-id="<?php echo htmlspecialchars($position['position_id'] ?? ''); ?>" 
                                         data-name="<?php echo htmlspecialchars($position['name'] ?? 'Unknown'); ?>"
                                         title="Delete Position">🗑️</button>
@@ -287,24 +325,58 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                             <p><strong>Night:</strong> <?php echo date('Y-m-d H:i', strtotime($position_lookup_result['night'])); ?></p>
                             
                             <div class="current-holder-result">
-                                <h5>Current Holder:</h5>
-                                <?php if ($position_lookup_result['current_holder']): ?>
-                                    <p>
-                                        <?php if (!empty($position_lookup_result['current_holder']['character_id'])): ?>
-                                            <a href="../lotn_char_create.php?id=<?php echo $position_lookup_result['current_holder']['character_id']; ?>">
-                                                <?php echo htmlspecialchars($position_lookup_result['current_holder']['character_name']); ?>
-                                            </a>
-                                        <?php else: ?>
-                                            <?php echo htmlspecialchars($position_lookup_result['current_holder']['character_name']); ?>
-                                        <?php endif; ?>
-                                        <?php if ($position_lookup_result['current_holder']['is_acting']): ?>
-                                            <span class="badge badge-acting">Acting</span>
-                                        <?php else: ?>
-                                            <span class="badge badge-permanent">Permanent</span>
-                                        <?php endif; ?>
-                                        <br>
-                                        <small>Since: <?php echo date('Y-m-d', strtotime($position_lookup_result['current_holder']['start_night'])); ?></small>
-                                    </p>
+                                <h5>Current <?php echo count($position_lookup_result['current_holders'] ?? []) > 1 ? 'Holders' : 'Holder'; ?>:</h5>
+                                <?php if (!empty($position_lookup_result['current_holders'])): ?>
+                                    <?php if (count($position_lookup_result['current_holders']) > 1): ?>
+                                        <ul class="list-unstyled">
+                                            <?php foreach ($position_lookup_result['current_holders'] as $holder): ?>
+                                                <li class="mb-2">
+                                                    <?php 
+                                                    $display_name = !empty($holder['character_name']) 
+                                                        ? $holder['character_name'] 
+                                                        : ucwords(strtolower(str_replace('_', ' ', $holder['assignment_character_id'] ?? 'Unknown')));
+                                                    ?>
+                                                    <?php if (!empty($holder['character_id'])): ?>
+                                                        <a href="../lotn_char_create.php?id=<?php echo $holder['character_id']; ?>">
+                                                            <?php echo htmlspecialchars($display_name); ?>
+                                                        </a>
+                                                    <?php else: ?>
+                                                        <?php echo htmlspecialchars($display_name); ?>
+                                                    <?php endif; ?>
+                                                    <?php if ($holder['is_acting']): ?>
+                                                        <span class="badge badge-acting">Acting</span>
+                                                    <?php else: ?>
+                                                        <span class="badge badge-permanent">Permanent</span>
+                                                    <?php endif; ?>
+                                                    <br>
+                                                    <small>Since: <?php echo date('Y-m-d', strtotime($holder['start_night'])); ?></small>
+                                                </li>
+                                            <?php endforeach; ?>
+                                        </ul>
+                                    <?php else: ?>
+                                        <?php $holder = $position_lookup_result['current_holders'][0]; ?>
+                                        <p>
+                                            <?php 
+                                            $display_name = !empty($holder['character_name']) 
+                                                ? $holder['character_name'] 
+                                                : ucwords(strtolower(str_replace('_', ' ', $holder['assignment_character_id'] ?? 'Unknown')));
+                                            ?>
+                                            <?php if (!empty($holder['character_id'])): ?>
+                                                <a href="../lotn_char_create.php?id=<?php echo $holder['character_id']; ?>">
+                                                    <?php echo htmlspecialchars($display_name); ?>
+                                                </a>
+                                            <?php else: ?>
+                                                <?php echo htmlspecialchars($display_name); ?>
+                                            <?php endif; ?>
+                                            <?php if ($holder['is_acting']): ?>
+                                                <span class="badge badge-acting">Acting</span>
+                                            <?php else: ?>
+                                                <span class="badge badge-permanent">Permanent</span>
+                                            <?php endif; ?>
+                                            <br>
+                                            <small>Since: <?php echo date('Y-m-d', strtotime($holder['start_night'])); ?></small>
+                                        </p>
+                                    <?php endif; ?>
                                 <?php else: ?>
                                     <p class="text-muted">Position is vacant</p>
                                 <?php endif; ?>
@@ -440,7 +512,18 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 // Include position view modal
 $apiEndpoint = '/admin/view_position_api.php';
 $modalId = 'viewPositionModal';
+// Pass characters list to modal for dropdown
+$modal_characters = $all_characters;
 include __DIR__ . '/../includes/position_view_modal.php';
+?>
+
+<!-- Vacant Positions Modal -->
+<?php
+$modalId = 'vacantPositionsModal';
+$size = 'lg';
+$fullscreen = false;
+$scrollable = true;
+include __DIR__ . '/../includes/modal_base.php';
 ?>
 
 <!-- Delete Modal -->
@@ -489,6 +572,126 @@ include __DIR__ . '/../includes/modal_base.php';
 
 <!-- Include external JavaScript -->
 <script src="../js/admin_camarilla_positions.js"></script>
+
+<script>
+// Initialize Bootstrap popovers for position descriptions
+(function() {
+    'use strict';
+    
+    let retryCount = 0;
+    const maxRetries = 50; // Max 5 seconds of retries
+    
+    function initPopovers() {
+        // Wait for Bootstrap to be available
+        if (typeof bootstrap === 'undefined' || !bootstrap.Popover) {
+            retryCount++;
+            if (retryCount < maxRetries) {
+                // Retry after a short delay
+                setTimeout(initPopovers, 100);
+            } else {
+                console.warn('Bootstrap Popover not available after retries');
+            }
+            return;
+        }
+        
+        try {
+            const popoverTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="popover"]'));
+            popoverTriggerList.forEach(function (popoverTriggerEl) {
+                try {
+                    const content = popoverTriggerEl.getAttribute('data-bs-content');
+                    // Only initialize if content exists and is not empty
+                    if (content && content.trim() !== '' && content.trim() !== 'No description available') {
+                        const positionName = popoverTriggerEl.textContent.trim() || 'Position';
+                        new bootstrap.Popover(popoverTriggerEl, {
+                            html: true,
+                            container: 'body',
+                            title: positionName,
+                            content: content
+                        });
+                    } else {
+                        // Remove popover attributes if no valid content
+                        popoverTriggerEl.removeAttribute('data-bs-toggle');
+                        popoverTriggerEl.removeAttribute('data-bs-content');
+                        popoverTriggerEl.style.cursor = '';
+                    }
+                } catch (e) {
+                    console.error('Error initializing popover:', e, popoverTriggerEl);
+                }
+            });
+        } catch (e) {
+            console.error('Error initializing popovers:', e);
+        }
+    }
+    
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', initPopovers);
+    } else {
+        initPopovers();
+    }
+})();
+</script>
+
+<script>
+// Populate vacant positions modal content
+(function() {
+    'use strict';
+    
+    const modal = document.getElementById('vacantPositionsModal');
+    if (!modal) return;
+    
+    const modalTitle = modal.querySelector('.vbn-modal-title');
+    const modalBody = modal.querySelector('.vbn-modal-body');
+    const modalFooter = modal.querySelector('.vbn-modal-footer');
+    
+    // Build modal content in PHP, set via JavaScript
+    const vacantPositionsHtml = <?php 
+        if (count($vacant_positions) > 0) {
+            // Group by category
+            $grouped = [];
+            foreach ($vacant_positions as $pos) {
+                $category = $pos['category'] ?? 'Uncategorized';
+                if (!isset($grouped[$category])) {
+                    $grouped[$category] = [];
+                }
+                $grouped[$category][] = $pos;
+            }
+            ksort($grouped);
+            
+            $html = '<p class="text-light mb-3">There are <strong>' . count($vacant_positions) . '</strong> vacant position(s) in the Camarilla:</p>';
+            $html .= '<div class="table-responsive">';
+            $html .= '<table class="table table-dark table-hover table-sm">';
+            $html .= '<thead><tr><th>Position Name</th><th>Category</th></tr></thead>';
+            $html .= '<tbody>';
+            
+            foreach ($grouped as $category => $positions) {
+                foreach ($positions as $pos) {
+                    $html .= '<tr>';
+                    $html .= '<td><strong>' . htmlspecialchars($pos['name'] ?? 'Unknown', ENT_QUOTES) . '</strong></td>';
+                    $html .= '<td>' . htmlspecialchars(ucwords($category), ENT_QUOTES) . '</td>';
+                    $html .= '</tr>';
+                }
+            }
+            
+            $html .= '</tbody></table></div>';
+            echo json_encode($html, JSON_HEX_QUOT | JSON_HEX_APOS);
+        } else {
+            echo json_encode('<p class="text-light">No vacant positions found. All positions are currently filled.</p>');
+        }
+    ?>;
+    
+    if (modalTitle) {
+        modalTitle.textContent = '📋 Vacant Camarilla Positions';
+    }
+    
+    if (modalBody) {
+        modalBody.innerHTML = vacantPositionsHtml;
+    }
+    
+    if (modalFooter) {
+        modalFooter.innerHTML = '<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>';
+    }
+})();
+</script>
 
 <?php include __DIR__ . '/../includes/footer.php'; ?>
 

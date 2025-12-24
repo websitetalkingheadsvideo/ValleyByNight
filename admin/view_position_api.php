@@ -35,9 +35,10 @@ try {
         exit();
     }
     
-    // Get current holder
+    // Get current holders (supports multiple holders like Talon)
     $default_night = CAMARILLA_DEFAULT_NIGHT;
-    $current_holder = get_current_holder_for_position($position_id, $default_night);
+    $current_holders = get_all_current_holders_for_position($position_id, $default_night);
+    $current_holder = !empty($current_holders) ? $current_holders[0] : null; // First holder for backward compatibility
     
     // Get position history
     $history = get_position_history($position_id);
@@ -52,7 +53,8 @@ try {
             'description' => $position['description'] ?? null,
             'importance_rank' => $position['importance_rank'] ?? null
         ],
-        'current_holder' => $current_holder,
+        'current_holders' => $current_holders, // Array of all holders
+        'current_holder' => $current_holder, // First holder for backward compatibility
         'history' => $history
     ];
     

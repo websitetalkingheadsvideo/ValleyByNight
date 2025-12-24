@@ -8,20 +8,21 @@
 define('CAMARILLA_DEFAULT_NIGHT', '1994-10-21 00:00:00');
 
 /**
- * Get the current holder for a specific position on a given night
+ * Get all current holders for a specific position on a given night
+ * Supports positions that can have multiple holders (like Talon)
  * 
  * @param string $positionId Position ID
  * @param string|null $night In-game night (DATETIME format). If null, uses default.
- * @return array|null Assignment record with character details, or null if vacant
+ * @return array Array of assignment records with character details (empty if vacant)
  */
-function get_current_holder_for_position(string $positionId, ?string $night = null): ?array {
+function get_all_current_holders_for_position(string $positionId, ?string $night = null): array {
     global $conn;
     
     if ($night === null) {
         $night = CAMARILLA_DEFAULT_NIGHT;
     }
     
-    // Query to find current holder, preferring non-acting over acting
+    // Query to find all current holders, preferring non-acting over acting
     // JOIN on character_name - assignment table stores character_name as identifier
     // Try multiple transformations to handle different name formats
     $query = "SELECT 
@@ -42,26 +43,33 @@ function get_current_holder_for_position(string $positionId, ?string $night = nu
               WHERE cpa.position_id = ?
                 AND cpa.start_night <= ?
                 AND (cpa.end_night IS NULL OR cpa.end_night >= ?)
-              ORDER BY cpa.is_acting ASC, cpa.start_night DESC
-              LIMIT 1";
+              ORDER BY cpa.is_acting ASC, cpa.start_night DESC";
     
-    $result = db_fetch_one($conn, $query, "sss", [$positionId, $night, $night]);
+    $results = db_fetch_all($conn, $query, "sss", [$positionId, $night, $night]);
     
-    // DEBUG: Log query result
-    if ($result) {
-        error_log("DEBUG get_current_holder_for_position - position_id: $positionId, assignment_character_id: " . ($result['assignment_character_id'] ?? 'NULL') . ", character_id (from join): " . ($result['character_id'] ?? 'NULL') . ", character_name: " . ($result['character_name'] ?? 'NULL'));
-    } else {
-        error_log("DEBUG get_current_holder_for_position - position_id: $positionId, NO RESULT");
-    }
-    
-    return $result ?: null;
+    return $results ?: [];
+}
+
+/**
+ * Get the current holder for a specific position on a given night
+ * Returns single holder (first one) for backward compatibility
+ * For positions with multiple holders, use get_all_current_holders_for_position()
+ * 
+ * @param string $positionId Position ID
+ * @param string|null $night In-game night (DATETIME format). If null, uses default.
+ * @return array|null Assignment record with character details, or null if vacant
+ */
+function get_current_holder_for_position(string $positionId, ?string $night = null): ?array {
+    $holders = get_all_current_holders_for_position($positionId, $night);
+    return !empty($holders) ? $holders[0] : null;
 }
 
 /**
  * Get all positions with their current holders for a given night
+ * Supports positions with multiple holders (like Talon)
  * 
  * @param string|null $night In-game night (DATETIME format). If null, uses default.
- * @return array Array of positions with nested current_holder object (or null if vacant)
+ * @return array Array of positions with nested current_holders array (empty if vacant)
  */
 function get_all_positions_with_current_holders(?string $night = null): array {
     global $conn;
@@ -76,11 +84,13 @@ function get_all_positions_with_current_holders(?string $night = null): array {
     
     $result = [];
     foreach ($positions as $position) {
-        $holder = get_current_holder_for_position($position['position_id'], $night);
+        // Get all holders (supports multiple holders for positions like Talon)
+        $holders = get_all_current_holders_for_position($position['position_id'], $night);
         
         $result[] = [
             'position' => $position,
-            'current_holder' => $holder
+            'current_holders' => $holders, // Array of holders (can be empty)
+            'current_holder' => !empty($holders) ? $holders[0] : null // First holder for backward compatibility
         ];
     }
     

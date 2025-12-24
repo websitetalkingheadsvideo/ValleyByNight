@@ -193,8 +193,14 @@
         viewButtons.forEach(btn => {
             btn.addEventListener('click', function() {
                 const positionId = this.dataset.id;
-                if (positionId && typeof viewPosition === 'function') {
-                    viewPosition(positionId, 'view');
+                if (!positionId) {
+                    console.error('View button missing position ID');
+                    return;
+                }
+                if (typeof window.viewPosition === 'function') {
+                    window.viewPosition(positionId, 'view');
+                } else {
+                    console.error('viewPosition function not found. Make sure position_view_modal.php is included.');
                 }
             });
         });
@@ -204,8 +210,14 @@
         editButtons.forEach(btn => {
             btn.addEventListener('click', function() {
                 const positionId = this.dataset.id;
-                if (positionId && typeof editPosition === 'function') {
-                    editPosition(positionId);
+                if (!positionId) {
+                    console.error('Edit button missing position ID');
+                    return;
+                }
+                if (typeof window.editPosition === 'function') {
+                    window.editPosition(positionId);
+                } else {
+                    console.error('editPosition function not found. Make sure position_view_modal.php is included.');
                 }
             });
         });
