@@ -1,22 +1,32 @@
 # Version History
 
-## Current Version: 0.8.77
+## Current Version: 0.8.78
 
-**Date:** 2025-01-30  
-**Type:** Patch (Camarilla positions management improvements and character image additions)
+**Date:** 2025-12-24  
+**Type:** Patch (Admin panel pagination, ghoul management enhancements, and world history additions)
 
 ### Changes:
-- **Camarilla Positions Management** - Enhanced position management system with improved modals and helper functions
-  - Updated position view modal with better data display and editing capabilities
-  - Enhanced helper functions for position queries and history tracking
-  - Improved CSS styling for position management interface
-  - Added new API endpoints for position updates and viewing
-  - Enhanced JavaScript functionality for position management interactions
-- **Character Images** - Added character portrait images for multiple characters
-  - Added character images: Andrei Radulescu, Ardvark, Bayside Bob, Betty, Cordelia Fairchild, Eddy Valiant, Examiner Harris, Jax, Kerry, Lilith Nightshade, Lucien Marchand, Mother Hallow, Roadrunner, Roland Cross, Sofia Alvarez, Tariq Ibrahim, Étienne Duvalier
-- **Admin Tools** - Added utility scripts for position management and character debugging
-  - Added scripts for adding positions, cleaning duplicates, and debugging position links
-  - Added character import utility for repeatable character imports
+- **Admin Panel & Ghoul Management** - Enhanced admin panel with pagination and improved ghoul management
+  - Added pagination to character list in admin panel
+  - Enhanced ghoul management interface with better field handling
+  - Updated JavaScript for better modal interactions and data loading
+- **Camarilla Positions** - Further improvements to Camarilla positions management and helper functions
+  - Updated `camarilla_positions.php` and `update_position_api.php`
+  - Enhanced `position_view_modal.php` for better data display
+  - Added debug tools for position management and link verification
+- **World History & Reference** - Added new historical reference files and updated world summaries
+  - Added "December 11 1993.md" and "cannon.md" to world history
+  - Updated VbN overview and game lore summaries
+  - Added "Seneschal.md" to-do list for tracking administrative tasks
+- **Character Data** - Added new NPC records and updated existing ones
+  - Added Elijah Crenshaw (ID: 140) and Solomon Reaves (ID: 139)
+  - Updated Roland Cross character data
+  - Fixed relationship links between characters (Eddy and Roland)
+- **Maintenance Tools** - Added utility scripts for database and character maintenance
+  - Added scripts for checking ward spirits and fixing character relationships
+  - Added specialized search scripts for finding specific character links
+
+## Previous Version: 0.8.77
 
 ## Previous Version: 0.8.76
 
