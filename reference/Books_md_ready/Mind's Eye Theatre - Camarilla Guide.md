@@ -1,216 +1,60 @@
-<!-- image -->
 
-<!-- image -->
 
-Theheatofcoolingpavementwasafriendlyamiliarressureatherback asVictoria turned into theStreetsideCafe.Martine smiled andwaved herto theusual tablevacant,asithadbeeneveryeveningforthepast threemonths. Thiswasherplace,hertime:duskattheStreetsideandthesunonlyjustbelow the horizon.
+the heatofcoolingpavementwasafriendlyamiliarressureatherback as Victoria turned into the Streetside Cafe.Martine smiled and waved herto the usual tablevacant, asithadbeeneveryeveningforthepast threemonths. this was herplace, hertime:duskatthe Streetsideandthesunonlyjustbelow the horizon. Josephwouldsleepforanotherhour.Typical, hesaid, of neasoldase. Victoria was ararity, even for someone who se living dayswere still fresh memories.Asarule, sherosehalf an hour before sunset.After a month of languishing about the halls of Joseph's manor, she dared the dusk and the fadingday.when sheretunedosphwaswaiting, nsconcedinthe stuy with a snifter in his hand.He'd smiled warmly, though, as she muttered apologies."Have you r evenings and you r dying sun.Such follies are for the you ngwithbreath still fresh n the ir lungs.Soon enoughyoull for get, and for everwillbeginhewasararity, besurebuttheoddsdidn'intrestr. She loved the pinprick crawlof the fading lightover her skinand the giddy rollercoasterearhatentwithitftheloryof the sunwasdenieder, hn the dusk was made all the more sweet.Small price to pay. Martinemoved throughthe tables and customers with awaitress'sspecial grace:smooth, unobtrusive and fully atease.Her smileflashed, acrescentof
 
-Josephwouldsleepforanotherhour.Typical,hesaid,ofneasoldase. Victoria was ararity,even for someone whose living dayswere still fresh memories.Asarule,sherosehalf an hour before sunset.After a month of languishing about the halls of Joseph's manor, she dared the dusk and the fadingday.Whensheretunedosphwaswaiting,nsconcedinthe stuy with a snifter in his hand.He'd smiled warmly,though,as she muttered apologies."Have your evenings and your dying sun.Such follies are for the youngwithbreath still fresh n their lungs.Soon enoughyoull forget,and foreverwillbeginhewasararity,besurebuttheoddsdidn'intrestr. She loved thepinprick crawlof thefading lightover her skinand thegiddy rollercoasterearhatentwithitftheloryof thesunwasdenieder,hn the dusk wasmade all themore sweet.Small price to pay.
+Victoriailed Martines accent was trulywhat dewherhere.Vicora could n'timagine what could convince anyone to comehere, to Cincinnati, from Paribuwith Mainere Victiacouldmagneherselfnhe, sippingcaalongacbldsrethffee, towasatftlln. friend''s as well, would you?"
 
-Martinemoved throughthe tables and customers withawaitress'sspecial grace:smooth,unobtrusive andfully atease.Her smileflashed,acrescentof
+Martine pursed herlipsat this nalookof genuine disappointment, am sorryademisellbuonieuavagetlpnedealier Hwillt joining you this evening."
 
-VictoriailedMartines accent wastrulywhat dewherhere.Vicora couldn'timagine what could convince anyone to comehere,to Cincinnati, fromParibuwithMainereVictiacouldmagneherselfnhe, sippingcaalongacbldsrethffee,towasatftlln. friend''s as well, would you?"
+Victoria'ssmileneverwaveredbuttheglowthatlitithaddimmedtoa glimmer."Well, the n, the mocha, for one, and Mr.Savage will just have wish he were here."Shemet Martine'seyes and the smile the re.Ladies night." Martinenodded, but Victoriasmindhadalreadywanderedtowhatmight have made Larsonmiss coffee tonight.It'snothing,I'm sure. + when Victoriareturned tothemanor, the matterof Larsonabsencewas quicklyputaside.osephstoodnthefoyer, straighteninghistieinthebrone mirror that hungbetween twobustscutfrom Italianmarble. "Peter has chosen you r gown.We must be at the Marsden promptly at eleven this evening. Sheturnedimmediately, omevisceralwillpressinghertoactwithoutthe faintest thought.Hewas soperfect, sopale and beautiful. A hand rose to cut of f any comment before it passed her lips.Dress.We will not be late."
 
-Martine pursed herlipsat thisnalookof genuine disappointment,am sorryademisellbuonieuavagetlpnedealierHwillt joining you this evening."
+Socold.the thoughtwasforgottenamomentafteritdawned, and Victoria turnedback do wn the hall toward her rooms.Peter always chose the most beautiful gowns. +
 
-<!-- image -->
+Draped inemerald silk, handrestinglightlyon Joseph'selbow, Victori imagined herself a visionas they passed the do or man at the Marsden Hotel.A do zenpeopleloungedaboutthelobbysomeseated, somereadingnewpapers or magazines.One couple stoodat the desk arranging the irroom;abellman and the concierge spoke quietly in one corner.the lobby itself was are licof anothertimetheantiquebrassfixtures, arched ceilings and crystal chandeliers;even the sofas and chairswere designedwith aneye to the earliestdays of the century. +
 
-<!-- image -->
+Josephand Victoriaglidedthroughthevastroomwiththesharpclickof eelsnstaf beneaththecurvofadoublestaircase Justwithin, behindalcten, stooda woman impeccably dressed, thoughnotsoelegantly asherpatrons. Left toherself Victoriascanned the room, not ingfacesshedseenbeore, faces Joseph had named influential or important.Alan Lords stood in one corner, a trio of his associates muttering behind the ir hands asmore guests entered.the harpy, Joseph had calledhim.Martinorry, the sheriff stood alone, ascowletchedintohisbrowashe stared into hiswineglass.M.O'Shea and Millicent, seneschalandkeeperasosephhadnamedthem, laughedov
 
-<!-- image -->
+"Mr.Bonhom. Good evening."Her smile was a picture of professional congeniality.She consulted the ledger before her and waved to ayoung man standing behind her."Mr.Bonhom and Ms. Grayson will be sitting at the Lauren table.She turned backto Joseph,"Lawrencewill seatyou, sir.Please have a wonderful evening.Joseph nodded and followed the silent you ngman to a tableforfive where two of the place cards read J.L.Bonhom and V.Hart Grayson.Other names decorated cards at each of the other three seats at the table, onefamiliar, the othersnot.Victoriatookherseat, but oseph, with out a word to his childe, strode away from the table toward aknot of people gathered at another table. the ir ownwineglasseswhile another knot of people huddled opposite the m, the air seeming thick over the ir heads. Victorianoddedandliftedherglasstobefilledthedarkuidsharpening the tension that already lifted the hairs at the nape of herneck.She'd picked out the Brujah sheknewcoming in through the kitchen.the man scribbling in his folio at the table near the service do or must be Mr.Lane, the only Malkavian of who m she'd beenmade aware. Oddly, none of the Gangrel seemed to be here, not even Gideon. Victoria considered the roomsmake-up.All the Toreadorwere here, or asmany as she'dever seen.Joseph had the Ventruewithhim, and the two he had named Tremerewerecominginnow Shesearchedtheroomagain, not ing the five or six kine finishing the ir dinners and preparing to leave.A waiter came to the table, smiling obsequiously as he poured:"Mr.Bonhom's own label, miss.Will you be drinking as well"
 
-Victoria'ssmileneverwaveredbuttheglowthatlitithaddimmedtoa glimmer."Well,then,themocha,forone,andMr.Savage will just have wish he were here."Shemet Martine'seyes and the smile there.Ladies night." Martinenodded,butVictoriasmindhadalreadywanderedtowhatmight have madeLarsonmiss coffee tonight.It'snothing,I'm sure.
+Joseph had said littleof the Gangrel, but Victoriaknewthattheyhadno loveforpoliticking.Still, thoughherexperiencehadbeen short, the rehad always been at least one of the m in attendancewhen the prince called court. Mostoften Gieon, Larsonsirandapparentlythelestftheirloodinth city, was the onetostandforthem.from timetotime, shedseenevenasmany as threeor four, arson included, come to Elysium.Tonight, though, the re wasn't even a hintof the ir presence. Itwasntuntil she sawher sirepause and lower hishead that shenoticed the arrival of the prince.Silence held the room suspended, wine glasses half raised, as Franklinvan Wertentered and smiledtothehostessbeforetaking his seat with Mr. O'Shea. Victoria scanned the room a third time.Josephhad left the company of his clansmenand strodesmoothly across the room toward Mr.O'Shea, now seatedatatablesetonlyforthree.Ashepassed Martin Lorry, the sheriffoffered the barest twitch of a nod.She might have missed it if she had n't been watching.Evennowshecouldn'tbesureofwhathadeensaidbutsheknw Joseph had spoken to Martin Lorry and Martin Lorryhadagreed. The last of the mortal patronshad left justmoments before the prince's arrival and the serving staff were all in Millicent's palminonewayoranother, so itwasfor the benefit of the Kindred gathering that Franklin van Wert's words carried through the room as he spoke with his seneschal. Victoria was baffled.She'd watched all that went on, had heard the prince'sproclamation, but none of itmade sense.Joseph had hinted at the importance of"the Board, but he'd never said anything about a man named Xaviar Mostfthosegathredalisnedinstny ilnceuthapan
 
-+
+"M.Ohatmuassciatnoardaviarac our company is not to his liking and independence is more to his tastes. TimothyO'Sheanodded, the barestof smilescrossinghislips.Ithinkitwould be imprudent of us to retain those of his particular creed in light of this development Seethathisfellows are giventheir papers.Ibelievewecan afford a generous severance package for each of the m as... incentive.Again, the seneschal nodded and raised a hand tobeckon Mr.Lorry to the table.Words passed between the two, and the sheriff vanished through the kitchen do or s. his coterie had smiled openly.Joseph had stood at the seneschal's elbow throughout.Perhapsanotherwould thinkhim stoic, but Victoriaknewbetter. Sheknewhisface, hisexpressions, and the oneheworenowwas satisfaction. "you r friend, yes. He wishes to see you.”
 
-<!-- image -->
+Now, as Martinorry slippedsilentlythroughthekitchendoors and away into the night, Josephleanedintowhisperto Mr.OShea, and the roomawoke from the trance the prince's entrance had laid over it.The air buzed with conversation, and while the ir faces appeared innocuous, even Victorias novice earheardtheweighted tones of urgency.Somethinghad happened and everyoneknewwhatitwas.Everyone but her. the viceathularlymadeeambulififoin else, had strengthened Victoriasselfcontrol.Asitwas, sheonlyliftedthe wineglasstoher lips and sipped at the warmvitaedisguisedwithin.Her eyes dartedsharplytothewindowsopingtoseesomereflectionofthespeakerbu she sawonlyherself.Nosferatu.Shespoke soflyintoherglass,I don't know what you're talking about." the voicemurmured in her ear, closer now."Mmm-mmm.Toobad.He was insistent.Yes.The Gangrel was insistent."
 
-WhenVictoriareturned tothemanor,thematterof Larsonabsencewas quicklyputaside.osephstoodnthefoyer,straighteninghistieinthebrone mirror thathungbetween twobustscutfromItalianmarble.
+The messenger returned.“Insistent, yes.”
 
-<!-- image -->
+Itswordssankin.Itseemedtostepaway, and Victoriascontrolwavered. She twistedherhead and rasped inherown harshwhisper,"Wait！"
 
-"Peter has chosen your gown.We must be at theMarsden promptly at eleven this evening.
+"“Larson sent you?" the tasteof fearrosein Victoria'sthroatandmingledwiththethickflavor of blood as shescanned the room.Not a soul seemed toknow shewas the re. Josephhadmovedonfrom the prince's tabletospeakwith Millicentand the Tremere.Others shuttled across the room, ferryinggossipfrom onecamp to anotherandthehapiswathedallwithcoldlaughingyesrayingthatll eyeswereoccupiedshepalmedthepieceofpaperascarefullyasshecould manage and slid it into her dress. the voicerewcloser, and shefanciedthatthespeakinglipswerealmot brushing herear."Meet him, he says.Here."Shefelt something brush her lap, and asmall pieceof folded paperwastherewherenonehadbeenbefore.Soon, he says. Soon." And it was gone. Tosteadyselfhdrankagainfromasaningthvitann long, shudderinggup.When shelowered the glass, hewasthere.Shenearly dropped the gobletin surprise as shemet hiseyes.Amanshe had evermet, dessdnavywnantadatall at her, and asthirgazescrosed, hemiled, baringlongwhiteteeth.Panc was hed over her.He knows. Josephsaved herwith a handonher arm asawave of inexplicablefear set her to trembling.He arched aneyebrow in concern.Are you all right?Victoria noddedxertingvryucfillanmsuatified her elbow and turned her gently toward the kitchen."We're leaving."Victoria nodded again and followed, the fear onlyashadowas Peterpulled upin the car. The terror leftconfusion inits wake.the rewas somuch she did n't know.Why was sheso scared?Why, of all nightsdid Larsonchoose this oneto disappear? Josephofferednoanswerstoherunspokenquestions, only sat silently as Peter drove the m home.In the darkness outside the car, it quietly began torain. +
 
-Sheturnedimmediately,omevisceralwillpressinghertoactwithoutthe faintest thought.Hewas soperfect,sopale and beautiful.
-
-A hand rose to cut off any comment before it passed her lips.Dress.We will not be late."
-
-Socold.Thethoughtwasforgottenamomentafteritdawned,andVictoria turnedback down the hall toward her rooms.Peter always chose themost beautiful gowns.
-
-+
-
-+
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-Draped inemerald silk,handrestinglightlyonJoseph'selbow,Victori imagined herself a visionas they passed the doorman at theMarsden Hotel.A dozenpeopleloungedaboutthelobbysomeseated,somereadingnewpapers ormagazines.One couple stoodat the desk arranging theirroom;abellman and the concierge spoke quietly in one corner.Thelobby itself wasarelicof anothertimetheantiquebrassfixtures,arched ceilings andcrystal chandeliers;even thesofas and chairswere designedwith aneye to the earliestdays of the century.
-
-+
-
-JosephandVictoriaglidedthroughthevastroomwiththesharpclickof eelsnstaf beneaththecurvofadoublestaircaseJustwithin,behindalcten,stooda woman impeccably dressed,thoughnotsoelegantly asherpatrons.
-
-Left toherselfVictoriascanned theroom,notingfacesshedseenbeore, faces Joseph hadnamed influential or important.Alan Lords stood in one corner,a trio of his associates muttering behind their hands asmore guests entered.Theharpy,Joseph had calledhim.Martinorry,the sheriff stood alone,ascowletchedintohisbrowashe stared into hiswineglass.M.O'Shea andMillicent,seneschalandkeeperasosephhadnamedthem,laughedov
-
-"Mr.Bonhom. Good evening."Her smile was a picture of professional congeniality.She consulted the ledger before her andwaved to ayoung man standing behind her."Mr.Bonhom and Ms. Grayson will be sitting at the Lauren table.She turned backtoJoseph,"Lawrencewill seatyou,sir.Please have a wonderful evening.Joseph nodded and followed the silent youngman to a tableforfive where two of theplace cards read J.L.Bonhom and V.HartGrayson.Other names decorated cards at each of the other three seats at the table,onefamiliar,theothersnot.Victoriatookherseat,butoseph,without a word to his childe,strode away from the table toward aknot ofpeople gathered at another table.
-
-<!-- image -->
-
-<!-- image -->
-
-their ownwineglasseswhile another knot ofpeople huddled opposite them, the air seeming thick over their heads.
-
-Victorianoddedandliftedherglasstobefilledthedarkuidsharpening the tension that already lifted the hairs at thenape of herneck.She'd picked out theBrujah sheknewcoming in through thekitchen.Theman scribbling in his folio at the table near the service door must be Mr.Lane,the only Malkavian ofwhom she'd beenmade aware. Oddly,none of the Gangrel seemed to be here,not even Gideon.
-
-Victoria considered theroomsmake-up.All theToreadorwere here,or asmany as she'dever seen.Joseph had theVentruewithhim,and thetwo he hadnamedTremerewerecominginnowShesearchedtheroomagain,noting the five or six kine finishing their dinners and preparing to leave.A waiter came to the table, smiling obsequiously as he poured:"Mr.Bonhom's own label,miss.Will you be drinking as well"
-
-Joseph hadsaid littleof theGangrel,butVictoriaknewthattheyhadno loveforpoliticking.Still,thoughherexperiencehadbeen short,therehad always been at least one of them in attendancewhen theprince called court. MostoftenGieon,Larsonsirandapparentlythelestftheirloodinth city,wastheonetostandforthem.Fromtimetotime,shedseenevenasmany as threeor four,arson included,come toElysium.Tonight,though,there wasn't even a hintof their presence.
-
-Itwasntuntil she sawher sirepause and lower hishead that shenoticed the arrival of the prince.Silence held the room suspended,wine glasses half raised,asFranklinvanWertentered and smiledtothehostessbeforetaking his seat with Mr. O'Shea.
-
-Victoria scanned theroom a third time.Josephhad left the company of his clansmenand strodesmoothly across theroom towardMr.O'Shea,now seatedatatablesetonlyforthree.AshepassedMartinLorry,thesheriffoffered the barest twitch of a nod.She might have missed it if she hadn't been watching.Evennowshecouldn'tbesureofwhathadeensaidbutsheknw Joseph had spoken toMartin Lorry andMartin Lorryhadagreed.
-
-The last of themortal patronshad left justmoments before the prince's arrival and theserving staff were all inMillicent's palminonewayoranother, so itwasfor the benefit of theKindred gathering thatFranklin vanWert's words carried through the room as he spoke with his seneschal.
-
-Victoria was baffled.She'd watched all thatwent on,had heard the prince'sproclamation,butnone of itmade sense.Joseph had hinted at the importance of"TheBoard,but he'd never said anything about a man named XaviarMostfthosegathredalisnedinstny ilnceuthapan
-
-"M.Ohatmuassciatnoardaviarac our company is not to his liking and independence is more to his tastes. TimothyO'Sheanodded,thebarestof smilescrossinghislips.Ithinkitwould be imprudent of us to retain those of his particular creed in light of this developmentSeethathisfellows aregiventheir papers.Ibelievewecan afford a generous severance package for each of them as... incentive.Again, the seneschal nodded andraised a hand tobeckonMr.Lorry to the table.Words passed between the two,and the sheriff vanished through the kitchen doors.
-
-<!-- image -->
-
-his coterie had smiled openly.Joseph had stood at the seneschal's elbow throughout.Perhapsanotherwould thinkhim stoic,butVictoriaknewbetter. Sheknewhisface,hisexpressions,and theoneheworenowwas satisfaction.
-
-"Your friend, yes. He wishes to see you.”
-
-Now,asMartinorry slippedsilentlythroughthekitchendoors andaway intothenight,JosephleanedintowhispertoMr.OShea,andtheroomawoke from the trance the prince's entrance had laid over it.The air buzed with conversation,and while their faces appeared innocuous, even Victorias novice earheardtheweighted tones ofurgency.Somethinghad happened and everyoneknewwhatitwas.Everyone but her.
-
-Theviceathularlymadeeambulififoin else,hadstrengthenedVictoriasselfcontrol.Asitwas,sheonlyliftedthe wineglasstoher lips and sipped at thewarmvitaedisguisedwithin.Her eyes dartedsharplytothewindowsopingtoseesomereflectionofthespeakerbu she sawonlyherself.Nosferatu.Shespoke soflyintoherglass,I don't know what you're talking about."
-
-Thevoicemurmured in her ear,closer now."Mmm-mmm.Toobad.He was insistent.Yes.The Gangrel was insistent."
-
-The messenger returned.“Insistent,yes.”
-
-Itswordssankin.Itseemedtostepaway,andVictoriascontrolwavered. She twistedherhead andrasped inherown harshwhisper,"Wait！"
-
-"“Larson sent you?"
-
-Thetasteof fearroseinVictoria'sthroatandmingledwiththethickflavor of blood as shescanned the room.Not a soul seemed toknow shewas there. Josephhadmovedonfrom theprince's tabletospeakwithMillicentand the Tremere.Others shuttled across theroom,ferryinggossipfrom onecamp to anotherandthehapiswathedallwithcoldlaughingyesrayingthatll eyeswereoccupiedshepalmedthepieceofpaperascarefullyasshecould manage and slid it into her dress.
-
-Thevoicerewcloser,and shefanciedthatthespeakinglipswerealmot brushing herear."Meet him,he says.Here."Shefelt something brush her lap, andasmall pieceof folded paperwastherewherenonehadbeenbefore.Soon, he says. Soon." And it was gone.
-
-Tosteadyselfhdrankagainfromasaningthvitann long,shudderinggup.When shelowered theglass,hewasthere.Shenearly dropped thegobletin surprise as shemet hiseyes.Amanshe hadevermet, dessdnavywnantadatall at her,and asthirgazescrosed,hemiled,baringlongwhiteteeth.Panc washed over her.He knows.
-
-Josephsaved herwith a handonher arm asawave of inexplicablefear set her to trembling.He arched aneyebrow in concern.Are youallright?Victoria noddedxertingvryucfillanmsuatified her elbow and turned her gently toward the kitchen."We're leaving."Victoria nodded again and followed,thefear onlyashadowasPeterpulled upin thecar. The terror leftconfusion inits wake.Therewas somuch she didn't know.Why was sheso scared?Why,of allnightsdid Larsonchoose thisoneto disappear?
-
-<!-- image -->
-
-<!-- image -->
-
-Josephofferednoanswerstoherunspokenquestions,only sat silently asPeter drove them home.In the darkness outside the car,it quietly began torain.
-
-+
-
-<!-- image -->
-
-+
-
-+
-
-TheyslippedfromthecarundercoverofPeter's broad,blackumbrella.As they stoodinthefoyer,PetershakingouttheumbrellaVictoriabrushingwater fromhergown,Josephspokesoftly."TherearemattersImust attend tointhe study.I willrequirePeter'sassistanceformuchof thenight.Ifthereis anything you needof him,see that it is tended tonow.Hewill notbeavailable later. Heturnedtoleavethefoyer,butstoppedasVictoriaspokeforthefirsttime sinceleavingElysium,hervoice barely above awhisper.
-
-Joseph stoodwith his backtoher,his chin risingas he listened.Which
++ the yslippedfromthecarundercoverof Peter's broad, blackumbrella.As they stoodinthefoyer, Petershakingouttheumbrella Victoriabrushingwater from hergown, Josephspokesoftly."the rearematters Imust attend tointhe study.I will require Peter'sassistanceformuchof the night.Ifthereis anything you needof him, see that it is tended tonow.Hewill not beavailable later. Heturnedtoleavethefoyer, but stoppedas Victoriaspokeforthefirsttime sinceleaving Elysium, hervoice barely above awhisper. Joseph stoodwith his backtoher, his chin risingas he listened.Which
 
 "Who was that man?"
 
-“The one in the sweater.He came in just before we left.
+“The one in the sweater.He came in just before we left. Victoria dared topressthepoint, thoughshecould tell Josephwantedit dropped."He looks like one of the Brujah.What do es he do?"
 
-Victoria dared topressthepoint,thoughshecould tell Josephwantedit dropped."He looks like one of the Brujah.What does he do?"
+The eldervampire tipped his head toone side, considering."Tanner Banks, the prince's scourge.I want you to stay away from him. Josephturned, hisjawsetinalinehardasmarble,"Heis Ventrue, and h kills.Heturned to Peter and beckoned the man with a sharp gesture before turningona heeland disappearinginto the darknessof the house, hisservant following after. Victoria watched the m go in silence, already planning. +
 
-The eldervampire tipped his head toone side,considering."Tanner Banks,the prince's scourge.I want you to stay away fromhim.
++ the streetwasdarkeserednhabitednlybythehulksofabandond cars.Ithadbeen easy enoughtoslip outof the houseunnoticedwith Joseph secretedinthestudywith Peterandtherestofthestaffintheirbeds.Victoria changedfromhergown totheoldpeacoatshe'dkeptfromherdaysatthe university, apairofdarkleatherbootsjeansandasweatshirt.hedidntlike the ideaofdeceiving Joseph, but this wasimportant.Somethingwasgoingon, and somehow Larsonwas involved.Josephwouldunderstand. Inside, spaceyawnedbeforehern the darkness.Carefully, Victoriafol lowedthewalltoherlfthereetpushinghroughpilesofdetritusasshema herwaydeeperintotheoldfactory.the flareofalanternsuddenlyblinded her, and shecrouchedagainst the wall, shieldingher eyesfrom the light. when shecametothelace Larsonsnotehadspokenofshepasseditby eyesskatingfrom sidetoside, searchingfortailsorbystanders.Shecircledthe blockjuttafeuaarfmnolukringunsthr nooneabout Assheapproachedthebuildingasecondtimeshenoticedasin hungover fourbroadgarage do or s.It read"Weling Bedand Mats"infading redletters.Againshestoppedandscannedthestreet.Seeingnoone, sheducked do wn the all ey alongside the buildingtoadoorsunkdeepinthe shadows.The knobturnedwith amutedclick and the do or swung smoothlyinward. "Vic?Larson'svoice camewith the light, heavy with the tremor of his own nerves. "Turn it do wn, would you, Larson?He turned but did not hing to dim the light.Asheslipped throughabroad slidingdoor, Victoriacaughtaglimpseof him through the glare of the lantern.Hewas haggard, his clothes torn and dirty, and hisfacewas drawnwith anexpressionshehadneverseen.Intheline of his jaw and in the wide, darkeyes, she sawfear. Larsonpaced the littleoffice likeatigerinatoo-small cage.Bythelight of the lantern, Victoria could see he'd been in afight."Slow do wn, Larson. What's happened?"
 
-Josephturned,hisjawsetinalinehardasmarble,"HeisVentrue,andh kills.Heturned toPeter and beckoned theman with a sharp gesture before turningona heeland disappearinginto thedarknessof thehouse,hisservant following after.
+“Something happened." His voice was abrupt. The Gangrel only shook his head."We're leaving."
 
-Victoria watched them go in silence,already planning.
-
-+
-
-<!-- image -->
-
-+
-
-+
-
-Thestreetwasdarkeserednhabitednlybythehulksofabandond cars.Ithadbeen easy enoughtoslip outof the houseunnoticedwithJoseph secretedinthestudywithPeterandtherestofthestaffintheirbeds.Victoria changedfromhergown totheoldpeacoatshe'dkeptfromherdaysatthe university,apairofdarkleatherbootsjeansandasweatshirt.hedidntlike theideaofdeceivingJoseph,butthiswasimportant.Somethingwasgoingon, andsomehowLarsonwas involved.Josephwouldunderstand.
-
-Inside,spaceyawnedbeforehern thedarkness.Carefully,Victoriafol lowedthewalltoherlfthereetpushinghroughpilesofdetritusasshema herwaydeeperintotheoldfactory.Theflareofalanternsuddenlyblinded her, andshecrouchedagainst thewall,shieldingher eyesfrom thelight.
-
-WhenshecametothelaceLarsonsnotehadspokenofshepasseditby eyesskatingfrom sidetoside,searchingfortailsorbystanders.Shecircledthe blockjuttafeuaarfmnolukringunsthr nooneaboutAssheapproachedthebuildingasecondtimeshenoticedasin hungover fourbroadgarage doors.It read"WelingBedand Mats"infading redletters.Againshestoppedandscannedthestreet.Seeingnoone,sheducked down thealley alongside thebuildingtoadoorsunkdeepinthe shadows.The knobturnedwith amutedclick and thedoor swung smoothlyinward.
-
-"Vic?Larson'svoice camewith thelight,heavy with the tremor of his own nerves.
-
-"Turn it down,would you,Larson?He turned but did nothing to dim the light.Asheslipped throughabroad slidingdoor,Victoriacaughtaglimpseof
-
-<!-- image -->
-
-<!-- image -->
-
-him through theglare of the lantern.Hewas haggard,his clothes torn and dirty,and hisfacewas drawnwith anexpressionshehadneverseen.Intheline of his jaw and in thewide,darkeyes,she sawfear.
-
-Larsonpaced thelittleoffice likeatigerinatoo-small cage.Bythelight of the lantern,Victoria could see he'd been in afight."Slow down,Larson. What's happened?"
-
-“Something happened." His voice was abrupt.
-
-The Gangrel only shook his head."We're leaving."
-
-LarsonSavagerana hand throughhishair,the thick auburnmanefalling back from sharply pointed ears,a feature she hadnevernoticed onhim.Me, Gideon,Lender.All of us.We gotta go."
+Larson Savagerana hand throughhishair, the thick auburnmanefalling back from sharply pointed ears, a feature she had nevernoticed onhim.Me, Gideon, Lender.All of us.We gotta go."
 
 "Who's leaving?"
 
-Victoria shook her head,"I don't know what you mean.You're going where?Are you coming back?Is someone after you?
+Victoria shook her head,"I don't know what you mean.You're going where?Are you coming back?Is someone after you? Larson bared his teeth,"Yeah, someone'safterus.Shit, everyone is aftr usin this town, anyway.The prince never liked Gideon or any of us.Now he's got an excuse."
 
-Larson bared his teeth,"Yeah,someone'safterus.Shit,everyone is aftr usin this town, anyway.The prince never liked Gideon or any of us.Now he's got an excuse."
-
-The Gangrel leaned on thedeskwithbothhands,hiseyeswild.We're leavingtheCamarilla."
+The Gangrel leaned on the deskwithbothhands, hiseyeswild.We're leavingthe Camarilla."
 
 “Excuse? What are you talking about?"”
 
-Victoria'sfacescrewed itselfupinaglareofdisbelief,Howcanyou"but Larson's expression stopped herinmid-sentence.His eyeswidened,and his hairroseinawildpuffofbrown.Withahissthroughbaredfangs,heshoved himselfawayfromthedesk,clawssproutingfromhisfingertips.Victoriaspun andfeltsharppainlancethroughherchest.Thestakepiercedherheart,and shefell to thefloor.
+Victoria'sfacescrewed itselfupinaglareofdisbelief, how can you"but Larson's expression stopped herinmid-sentence.His eyeswidened, and his hairroseinawildpuffofbrown.with ahissthroughbaredfangs, heshoved himselfawayfromthedesk, clawssproutingfromhisfingertips.Victoriaspun and feltsharppainlancethroughherchest.the stakepiercedherheart, and shefell to the floor. the lightwasutinamomentbutwithorwithoutit Victoriacouldse not hing.Paralyzed, shelay on the floor across the deskfromwhere Larson stoodamomentago and listened asthefightragednotayardfromher.Larson's snarls accompanied the machine-gun thump of fists driven into flesh at inhumanspeeds.had shenotbeenimmobilized, Victoriamighthaveweptor her friend.the last thing she had seen beforefallingto the floorwas the face of Tanner Banks. When the littlewindow aboveherexplodedwithlight, Victoria had nearlyresignedherself todeath, soexchangingoneblindnessforanotherhad littleeffect.Itwas the sound of anunfamiliarvoicethatawakenedherhope. Acrossthelittleoffice, what could onlybethevoiceof Tanner Bankssounded strangely surprised."What?The word became a growl of pain as the searing light burned awayhis sightandwinkedout, leaving the m againin darknes. More feet entered the room.Heavy bootspounded over the wooden floorboards.Heavythudsfollowed, the soundsofblows, the fallingofbodies, and finallyonelastwetchopandsilence.Bootsshuffledout, what soundedlike somethingheavydraggingafterthem.Anotherpairof shoesentered, the steps smooth and sharp.Alightflaredand Victoriacouldseeagain—blackleather shoes, a woman's legs and a face.A face sherecognized.Martine. the woman shookherhead, tskingquietly."Monsieur Bonhomwill not be pleased, mademoiselle.She smiled, coldandinhuman.not pleasedatall, but I am.You have do ne me a great service."Darkness came again as rough handswrappedherinroughfabric.Shesmelledsmokeforamoment, and fear drove outreasonfora longtime, and the n the rewasonly darkness. +
 
-ThelightwasutinamomentbutwithorwithoutitVictoriacouldse nothing.Paralyzed,shelay on thefloor across the deskfromwhereLarson stoodamomentago and listened asthefightragednotayardfromher.Larson's snarls accompanied themachine-gun thump of fists driven into flesh at inhumanspeeds.Hadshenotbeenimmobilized,Victoriamighthaveweptor her friend.Thelast thing she had seen beforefallingto thefloorwas theface of Tanner Banks.
+Victoriawokeagaintodarknessand the smellof blood.Shefound the body easilyenough and drankherfillbeforereasonreturnedandsheknewwhatshe'd do ne.the body stankasit laytheredeadandcold.from the lightunderthedoor, shecouldseeitwasaman, thoughonlyjust.Probablynoteven18.Sheshuddered and shrank into a corner as far from the corpse as shecould get. Hours later, or minutes -in the darkness Victoria couldn't tell the difference-the do or opened and Joseph came in.Martine stoodust behind him, visible over hisright should er. "I amvery disappointed, Victoria.Ihad thought the sewhimswould pass in time.I seenow Iwaswrong to be so lenient.He straightened his tie and drewadeepbreath.for the firsttime, Victoriasawthegesturesforwhatthey were:pure artifice.Nomore for ays atdusk.No more consortingwith you r socalledfriends.you will sleephere.you will drinkwhatyou are given.you will not leave but in my company."He looked do wn on her, his lips curled in disgust."I chosepoorlywithyou, but that matter has beenrectified.Ifyou pleaseme, you will live."
 
-When thelittlewindow aboveherexplodedwithlight,Victoria had nearlyresignedherself todeath,soexchangingoneblindnessforanotherhad littleeffect.Itwas thesound of anunfamiliarvoicethatawakenedherhope.
-
-Acrossthelittleoffice,whatcouldonlybethevoiceofTannerBankssounded strangely surprised."What?The word became a growl of pain as the searing light burned awayhis sightandwinkedout,leaving them againin darknes.
-
-More feet entered theroom.Heavy bootspounded over thewooden floorboards.Heavythudsfollowed,thesoundsofblows,thefallingofbodies, andfinallyonelastwetchopandsilence.Bootsshuffledout,whatsoundedlike somethingheavydraggingafterthem.Anotherpairof shoesentered,thesteps smooth and sharp.AlightflaredandVictoriacouldseeagain—blackleather shoes,a woman's legs and a face.A face sherecognized.Martine.
-
-Thewoman shookherhead,tskingquietly."Monsieur Bonhomwill not be pleased,mademoiselle.She smiled,coldandinhuman.Notpleasedatall, but I am.You have done me a great service."Darkness came again as rough handswrappedherinroughfabric.Shesmelledsmokeforamoment,andfear drove outreasonfora longtime,and then therewasonly darkness.
-
-<!-- image -->
-
-+
-
-+
-
-+
-
-Victoriawokeagaintodarknessand thesmellof blood.Shefound thebody easilyenough anddrankherfillbeforereasonreturnedandsheknewwhatshe'd done.Thebody stankasit laytheredeadandcold.Fromthelightunderthedoor, shecouldseeitwasaman,thoughonlyjust.Probablynoteven18.Sheshuddered and shrank into a corner as far from thecorpse as shecould get.
-
-Hours later,or minutes -in the darkness Victoria couldn't tell the difference-the door opened and Joseph came in.Martine stoodust behind him,visible over hisright shoulder.
-
-"I amvery disappointed,Victoria.Ihad thought thesewhimswould pass in time.I seenowIwaswrong to be so lenient.He straightened his tie and drewadeepbreath.Forthefirsttime,Victoriasawthegesturesforwhatthey were:pure artifice.Nomore forays atdusk.No more consortingwith your socalledfriends.Youwill sleephere.Youwill drinkwhatyou aregiven.Youwill not leave but in my company."He looked down on her,his lips curled in disgust."I chosepoorlywithyou,but thatmatter hasbeenrectified.Ifyou pleaseme,youwill live."
-
-Josephturnedandwalkedout,butMartinestayedforamoment.She smiled.oweyoumythanksmademoiselle.Perhaps,oneday,Iwillgiveit youWiththatshebaredherteethlongcanines showingsharpandwhiten thewedgeoflightpouringthroughthedoor.Whensheleft,Victoriaheardthe scrapeof abolt slidinghome andknewshewouldnotbegettingouttonight. Tearscameand tears aloneforalongtime afterward.Onlyfear shookherfrom hergrief assherealizedshe'dforgotten tobreathe.An hourlater,though,she decided thereweremore important things to think about.Eternity was a long time,andvengeance was slow in the planning.
-
-<!-- image -->
-
-<!-- image -->
-
-CREDITS
+Josephturnedandwalkedout, but Martinestayedforamoment.She smiled.oweyoumythanksmademoiselle.Perhaps, oneday, Iwillgiveit you with thatshebaredherteethlongcanines showingsharpandwhiten the wedgeoflightpouringthroughthedoor.when sheleft, Victoriaheardthe scrapeof abolt slidinghome and knewshewouldnotbegettingouttonight. Tearscameand tears aloneforalongtime afterward.Onlyfear shookherfrom hergrief assherealizedshe'dforgotten tobreathe.An hourlater, though, she decided the reweremore important things to think about.Eternity was a long time, and vengeance was slow in the planning. CREDITS
 
 WRITTEN BY:JASON CARL,MATTHEWHOOPER,EDWARDMACGREgOR, MIKKORAUTALAHTI,BRETTSMITH,LAWRENCEVILES
 
@@ -218,7 +62,7 @@ DEVELOPEDBY:CYNTHIASUMMERS
 
 EDITEDBY:RICHRUANE
 
-PREVIOUSLY PUBLISHED MATERIAL HASAPPEAREDIN:VAMPIRE:THE MASQUERADE,THE GUIDETOTHE CAMARILLA,LAWSOF THENIGHT REVISED
+PREVIOUSLY PUBLISHED MATERIAL has APPEAREDIN:VAMPIRE:THE MASQUERADE,THE GUIDETOTHE CAMARILLA,LAWSOF the NIGHT REVISED
 
 ARTDIRECTIONBY:AARONVOSSANDRICHARDTHOMAS ART BY:ALYSON GAUL
 
@@ -226,25 +70,11 @@ FRONTAND BACK COVERDESIGN:AARONVOSS
 
 LAYOUTANDTYPESETTINGBY:AARONVOSS
 
-<!-- image -->
+Aberrantareregistered trademarksof White Wolf Publishing, Inc.All rightsreserved. were wolf the Apocalypse, Wraiththe Oblivion, Changelingthe Drcaming, Hunterthe Reckoning, were wolf the Wild West, Mage the Sorcerers Crusade, Wraiththe Great War, Trinity, the Camarilla Guide Lawsof the Night Mind's Eye the atreand Th Guide to the Camarilla are trademarks of White Wolf Publishing, Inc.All rights reservdllharatslacandtxtrnarcopgtedby Whit Publishing, Inc. 73PAR 2000White Wolf Publishing, Inc. SUTE 128 the written permission of the publisher is expressly for bidden, except for the purCARKSTO00f sheets, which may be reproduced for perUSA sonaluse only.White Wolf, Vampire the Masqrade Vamiret Dark Aes Ma the Ascension, World of Darkness and
 
-Aberrantareregistered trademarksofWhiteWolfPublishing,Inc.All rightsreserved. Werewolf theApocalypse,WraiththeOblivion,ChangelingtheDrcaming,Hunterthe Reckoning,Werewolf theWildWest,Mage theSorcerers Crusade,WraiththeGreat War,Trinity,TheCamarillaGuideLawsof theNightMind'sEyeTheatreandTh Guide to the Camarilla are trademarks of White Wolf Publishing,Inc.All rights reservdllharatslacandtxtrnarcopgtedbyWhit Publishing,Inc.
+The mention of or reference to any company or product in the se pages is not a challenge to the trademark or copyright concerned. This book uses the supernatural for settings, characters and the mes, All mystical and supernatural clements are fiction and intended for cntertainment purposes only.Reader discretion is advised. For a free White Wolfcatalogcall 1-800-454-WOLF. Checkout White Wolf online at http://www.white-wolf.com;alt.games.whitewolfandre.games.frp.storyteller
 
-73PAR 2000WhiteWolf Publishing,Inc. SUTE 128 the written permission of the publisher is expressly forbidden,except for the purCARKSTO00f sheets,whichmay be reproduced for perUSA sonaluse only.White Wolf,Vampire the MasqradeVamiretDarkAesMa the Ascension,World of Darkness and
-
-The mention of orreference to any company or product in these pages isnot a challenge to the trademark or copyright concerned.
-
-This book uses the supernatural for settings,characters and themes,All mystical and supernatural clements are fiction and intended for cntertainment purposes only.Reader discretion is advised.
-
-For a freeWhiteWolfcatalogcall 1-800-454-WOLF.
-
-CheckoutWhite Wolf online at http://www.white-wolf.com;alt.games.whitewolfandre.games.frp.storyteller
-
-PRINTEDINU.S.A.
-
-<!-- image -->
-
-## CONTENTS
+PRINTEDINU.S.A. ## CONTENTS
 
 PRELUDE:A DARKNESS SO BRIGHT
 
@@ -260,364 +90,99 @@ CHAPTER FIVE:THE CITY
 
 APPENDIX:FOR STORYTELLERS
 
-<!-- image -->
-
 ## CHAPTER ONE: INTRODUCTION
 
-## WELCOMETOTHEFINALNIGHTS
+## WELCOMETOTHEFINALNIGHTS the re are strange things afootin the halls of power.Whispersof signs spokenofntheoldesttextsbuzzfromeverycorner, whilerumorsofportents mumbled by the far-sightedbecomefacts with eachnight.the se are, as the Chinese might say, interesting times. But in the senights, the monolithisbeginning to show signsof strain.The change in the Malkavians has brought consternation to many.The departure of the Gangrel shook the sect nearly to its foundations.Its strongholds are assaulted on all sides by a hostof enemies:the bloodthirsty Assamites;the Sabbat, who seem to have found renewed fire in the se nights;and the mysterious Cathayansmakingincursions on the West Coast.Still the Camarilla holds fast against all comers. the Camarillastands asithasfornearly sixcenturies, apillaragainstthe night.Claimingjurisdictionovereveryvampire acrosstheglobe, the secthas greaternumbersthananyotherndthereasonsformembershipareasvaid as the Kindred the mselves.for some the Camarilla meanssafetyfromenemies —the Sabbat, the Lupines, mortal hunters and other groups of Kindred.For some itmeans a safeplacewhere the ymight continue gentlerpursuits.Some belongbecausetheirsiresbelonged, or becausetheyareunawarethattheycan belongtanythngele for thlersitisthirvrywer, and itisthfat for the ir childer.all will agreethatwhateveritistoitsmembers, the Camarilla is monolithic in its strength and purpose. or do esit? As the power strugglesgrowmoreferocious, asthemysteriescometopass, as the onceunassailablecomes underattack, will the Camarillafinally crumble Or will it prevail, as it always has in the past - iron-will ed and eternal? ## what THIs BoOK is (AND isn't)
 
-There are strange things afootin the halls of power.Whispersof signs spokenofntheoldesttextsbuzzfromeverycorner,whilerumorsofportents mumbled by thefar-sightedbecomefacts with eachnight.These are,as the Chinese might say,interesting times.
+This book isn't meant as a substitute for Laws of the Night.You'll still need that bookforcharacter creation, the lower levelsof the mostcommon Disciplines and the basic rules.This book runs on the assumption that you already own Laws of the Night and are at leastpassinglyfamiliarwith the rules of Mind's Eye the atre.this book also covers only the clans of the Camarilla and the ir erstwhile sibling Clan Gangrel;the Sabbat and independents will find the ir own homes in futurereleases. this bookdetailsthenteriorof the oldestandlargestsectofvampires, the Camarilla.Herestandsrevealedthemightof the elders, the sect'ssecretways and meansandthenightlybusinessofower.namoremundanenoteereareru for the mysterious Gargoyles, new Traitsforcharactercreationandeverythinga Storytellercouldwant toadd new levels of realism and depthto her city. With that said, welcome to the hallsof Elysium, where the monsters dwell. ## HISTORr: N1GHTS GoNE BY
 
-But in thesenights,themonolithisbeginning to show signsof strain.The change in the Malkavians has brought consternation to many.The departure of the Gangrel shook the sect nearly to its foundations.Its strongholds are assaulted on all sides by a hostof enemies:thebloodthirstyAssamites;the Sabbat,who seem to have found renewed fire in these nights;and the mysteriousCathayansmakingincursions on theWestCoast.Still theCamarilla holds fast against all comers.
+In1381, abandof Englisheasantsrebelledagainsttheirlocallord, dawing the attentionand aidof severalyoung Kindred.Thoughquicklyputdown, the mortalrebellionleftitsmarkonthoseof the Bloodwhotookpart.Frustratedin the irrisetopowerandoftensuffocatedundertheirimmortalelders'irongrip, the childer of Europe kindled the beginnings of the ir own rebellion. The Camarilla'shistory, like somany other partsof the Kindred'staleis a long and bloodyone.Born in the firesof rebellious changeandwateredwith muchspilledvitae, the secthasgrown sinceitsearly daysasabulwarkagainst you thful rage and mortal hunters. The early1400ssaw the spark that would igniteawildfire of rebellion throughout the Kindred of Europe.A you ng Brujah by the name of Tyler assaulted an elder Ventrue named Hardestaadt.Inspired by this insolence, childerrose against the ir siresthroughout the continent, clearing the avenues of powerwithbloodandfire.Warraged against the eldestof the clans.Atthe height of the madness, the rebelsdestroyed the Lasombra Antediluvian and claimed tohave destroyed Tzimisce himself as well. Bolsteredbythediablerieoftheirelders, the rebelliousyouth, nowcalled anarchs, marched through Eastern Europe, laying was te to the work of centuries.In those lands ameans tobreak the stranglehold of the blood bond had beenfoundandsudenly, manyeonates and ancillaewere liping leashes elders had thought secure.Eager for the opportunity to diablerize European elders, the Assamites joined the fighton the anarch side. In1435, Hardestaadtatheredtheeldersinconvocationandproposedan arrangement to deal with the anarchmovement.The arrangementhe of fered would crossblood and territorial lines todealwiththeissues of the Kindredas awhole.Truetoform, mosteldersofferedlittlemorethanskepticism and left for the ir own have ns to wait out the anarch storms in the way they weathered so many trials for centuries before.A few, though, remained and joined Hardestaadt in his vision.they were the Founders, and they would lay the groundworkforthenextfive centuries of Kindred society. By the middleof the15thcentury, the Founders had persuaded enough elders to join the ir cause to put for th significant resistance to the anarch rebellion.Coteriesdrawnacrossclanlinesboundbyasinglepupose, gathered across the knownworld with their aimsfinallyunited, heeldersofurope began toregain ground on the ir fractious childer.When coterieshand-picked bythe Founders and the irintimatesfinallyreturnedwith the location of the hidden Assamite for tress of Alamut, the demise of the revolt was all but assured.the war ground to a stalemate of minor skirmishing. Motivated by the Inquisition, which had raged across Europe ina fiery backdroptothe Anarch Revolt, the newsect deemed the long-ignored Masquerade would become the centerpiece of the ir or der.Nomore would those of the Bloodvisiblylordtheirowerovermortalsnsteadhe Kindredwouldactfom the shadows, enforcing the Traditions and protecting the mselvesfrom the fires of mortal wrath with a charade that would come to span the globe. In1493, the Anarch Movementagreed toparley with the Camarilla.The Conventionof Thornsconvenedinanabbeyin England, and the re the anarchsaccepted termsforsurrender.the treatyallowedthoseanarchswhowishedtocomeintothefold of the Camarilla todoso and leviedpunishmentagainstthe Assamitesfortheirrole.In this treaty, the Camarillacameintoitsownastheguidingsectof Cainitelife. Not all anarchs accepted the Convention of Thorns.Many refused to returntothesamestiflingorderthathadcaused the mtorebelinthefirstplace. the yrejected the purportedpeace and fled to Scandinavia tonurse the ir wounds and grudges.When they finallyre-emerged from the ir self-imposed exile, the yhadreformedintothesectthatwouldbethe Camarilla'sstaunchest and most bloody opposition:the Sabbat. ## NEWWORLD,OLDWAR
 
-TheCamarillastands asithasfornearly sixcenturies,apillaragainstthe night.Claimingjurisdictionovereveryvampire acrosstheglobe,thesecthas greaternumbersthananyotherndthereasonsformembershipareasvaid as theKindred themselves.Forsome theCamarilla meanssafetyfromenemies —the Sabbat,theLupines,mortal hunters and other groups of Kindred.For some itmeans a safeplacewhere theymight continue gentlerpursuits.Some belongbecausetheirsiresbelonged,orbecausetheyareunawarethattheycan belongtanythngeleForthlersitisthirvrywer,anditisthfat fortheirchilder.Allwillagreethatwhateveritistoitsmembers,theCamarilla ismonolithic in its strength and purpose.
+Whilethe Conventionof Thornsended the war, the frustrationsthat had started itremained.Thoughmanyeldershaddiedinthebloodyrevolt, the re were still far more Kindred than the rewerepositions of power.When news cameto Europe from across the seaofawholenewworld for the taking, many of the mostpromisingancillae of the Old World packedup and wentwestto carve outdomains of the ir own.Many were encouraged by the ir elders, who hoped that they could be rid of the ir troublesome childer. Duringthistime, warbetweenthe Camarillaand Sabbatwas, for the st part, a perfunctory thing.Both were more concernedwith cementing the ir hold on the vast resources of the New World than in or ganizing risky, expensive of fensives against the other.Whilerumors abound of vampiric influenceonthe American and French Revolutions, the effectsof the se onthe
 
-Ordoesit?
+Throughout the 16th century, the new-for ged Sabbat fought skirmishes against the Camarilla, but the chaoticassaultswere tolittleeffectagainst the deeply entrenched bastions of the elders power.With the opening of the Americas, oughewbatleroundwasdiscoveredanditwouldecom truecrucibleor Camarillaand Sabbathe Camarillaseeinginthe Americasan opportunity toberidofpotential rivals and expand the irinfluence, unitedin sendinga flood of you nger Kindred across the ocean aboard the colony ships of the English, Dutchand French.imilarly, the Sabbatused the irminions among the Spanish and Portuguese to find footholds in the American colonies. sects was minimal.The stalemate lasted through most of the17th and18th centuries;each sidefelttheflush of powerasthe Industrial Revolutionflooded the citieswithmoreandmoremortals, and moreandmoreopportunitiesfor control.Upuntil the earlyyearsof the19thcentury, the Camarillaconcerned itselffar more with capitalizing on the gains afforded the m by advancing technology than on the few assaultsmadebythe Sabbat. the Warof1812maskedamajor shiftinthefortunesof the Camarilla.As the British and the Americansfought the irwar, the Sabbatpressed in onthe Atlanticseaboardgainingcitiesoneattimeovertheext0years.lanken the Northand Southby Sabbatstrongholds, the Camarillafell backagain and again, inallyoldingontoascanthandfulofcitiesaftertheattackssubsidedh East Coasthasneverbeenregained, and the fightingcontinuesto this day.Some even say that the losses taken in the East are rising faster than ever. Inthemid-180Os, anewfrontopenedinthewarbetweenthesects.this time, the vast tracts of the westernfrontierwerebothbattlegroundandprize.for along timethe Camarilla teetered ontheedgeofdisasteras the Sabbatpressed and pressed, nearlytopplingthe Camarilla'sfootholdnotonlyinthe West, but inthe Americasasawholefnotforseveralsuddenstunninglossesandtherepitethy gavethefaltering Camarillahe Sabbatmaywellhavedugnodeeplyastomak itimpossibletoremovethem.the re are thosethatfeel that with outthoselosses, the Camarillawouldhavelostth Americasentirelybutthosethatdaresuggest suchathingoftenfindthemselvesspeakingtosilentrooms and smolderingglares. ## the LASTCENTURY
 
-As thepower strugglesgrowmoreferocious,asthemysteriescometopass, as theonceunassailablecomes underattack,will theCamarillafinally crumble Or will it prevail, as it always has in the past - iron-willed and eternal?
+The190Os proved ripe for upheavalamongmortals and Kindred alike.As newbornsocialtheoryandpoliticaldiscontentrockedaginggovernments, the power structuresof the Kindredcontrollingthemwerelikewise shaken.Inthe chaosbroughtby the serevolutions, many cities became primedfor Sabbat incursions.when the assaultscame, the Camarillaestablishmentoftenfound itself strugglingtobringitsforcesintolineandfrequentlyheld onto ancient fiefdomsby the skin of itscollectiveteeth. In the devastationfollowing World War I, many European Kindred tried to takecontrolof the continent.Those that did werelittlemore than twigsin the tide as the world plunged toward Adolf Hitler's Germany and the horror that would riseoutofit.As World War IIraged, some Kindredwithmore ambition than sense soughttoturn the mortalswar totheir own ends.Most did not survive.For once, thosewithout a hold in the halls of powerwere luckiest, laying low and letting the storms of battlewash over the m. In the years that followed Germany's defeat, the peopleof Americaprospered, and the American Kindredalongwiththem.Inthechaosof the war, vr 500years afterrevolution sparked the creationofthe Camarilla, the anarch movementonce againreareditshead.Princesonthe West Coastfellastheyoung movement spread among the Kindred of California.But the se were not the anachflngin anarchs to the ir sliver of territory along the Pacific. Chicago rose as the anchor of the Camarilla in North America.Guided by Lodin's sure hand, itbecame a stronghold for the faithfulandanexampletoothers across the continent ascities roseovernightinafloodof immigration and urbanization. Inthelaerhalf fthecenturyinterestinvamiretookastrangets subculturesmbraced the mageandmystiquoftheundeadrincesround of fonmrtaamirrundwastwiutitrcussin Witsu ncreasednrestacninamllrrblnn ment becameallthemorecrucialtosurvival.Newtechnologyopenedever-wider avenuestopoweras you ngervampirestookadvantageoftheeldersstaidreliance ontheoldwaystocarveinroadsintoemergingmarketsandndustries.the tides of prosperitycontinuetoswellasmortalsflood the citiesand Kindredfindever more blood tobe had.The questionhowever, remains:how longcan this last? Omens of misfortunehave plaguedthe Camarillainrecent years.The sect lost its one and only hold on the Far East when Hong Kongwas returned to China.you nger and you nger Kindred are Embracing childer of the ir own and with eachgeneration, the Blood grows thinner.the rearerumors of neonates who se blood is now too thin to sustain the Embrace and who can even bearthe touchof sunlghtheanarchs squatonthe Pacificoast, etlingtheric of the Camarillawith the ir presence.More disturbingly, reports have come from Western citiesof incursionsby the mysterious Asianvampires.Alongthe Atlantic the Sabbat remains, turning back the Camarilla's attempts torecapture the irlong-lostcities.Only Europeremainsunperturbedas the elders the re
 
-## WHATTHIs BoOK IS(AND IsN'T)
+When the Convention of Thorns drew all Kindred under the auspicesof the Camarilla, the Gangrel were amongthesevenclanswho chose full membership in the sect.In the five centuries since, the Gangrelproved the mselves invaluable all ies, leading the fightin the waragainst the Sabbat.Boththeircombat abilitiesand the greatwealth of intelligence gathered by the nomadic clan played decisive roles in the success of the Camarilla's efforts against the ir rivals. Speculation abounds as to the circumstances and motives for the Gangrel defection from the Camarilla.the re are as many guesses as the re are mouths to voice the m.Most prevalent of the rumors is that Xaviarrmricaflannredhouilhambrf Innerirceoknntnceanf with inmonthostf clanhaddivorced the mselvesfromthesect, thoughnonewould speak of the asoneureanyalsrmanedbuwithoutui to defend the ir interests, the yarevulnerable tothe politicalmachinations of those clans that retain full affiliation. Until recently. Todate, the Gangrelcontinue steadfastin the ir unwillingness o explain the ir departure from the Camarilla.Thosewhoask are tersely rebuked-if they're lucky.Though now considered an independent clan, manyof thosewhoretain the irclaimof Camarillamembership are as welcome as ever they were.the re are those who have held grudges against the shapeshiftersthough, and lackingthe threatof justicar retaliation leaves littlereasonnot tomake unlife hard for those that remain. sit in the ir have ns, long ago having learned tomaintain the ir own control regardless of the shifting of the mortalsbeneath the m. ## THE TRADITIONS
 
-This book isn't meant as a substitute for Laws of the Night.You'll still need thatbookforcharacter creation,thelower levelsof themostcommon Disciplines and the basic rules.This book runs on the assumption that you already ownLaws of theNight andare at leastpassinglyfamiliarwith therules of Mind'sEyeTheatre.Thisbook also covers only theclans of the Camarilla and their erstwhile sibling Clan Gangrel;the Sabbat and independents will find their own homes in futurereleases.
+Aslegend has it, Cainehimself passed do wn the Traditionsin the times of the First City to guide hischilder through the irunlives.To this day, they remainthebulwark of Camarilla society and are strictly upheld.It do esn't hurt that they alsomake good sense. ## the FIRSTTRADITION:the MASQUERADE
 
-Thisbookdetailsthenteriorof theoldestandlargestsectofvampires,the Camarilla.Herestandsrevealedthemightof theelders,thesect'ssecretways and meansandthenightlybusinessofower.namoremundanenoteereareru for themysteriousGargoyles,newTraitsforcharactercreationandeverythinga Storytellercouldwant toadd new levels of realism anddepthto her city.
+Thou shalt not reveal thy truenature to thosenot of the Blood.do ing so shall renounce thy claims of Blood. Most Camarilla Kindredsay that this is thewholeof the law, and all else is incidental.Manya Methuselahhasregaledawillingearwithtalesofthedays beforethe Camarilla, when the Kindredcouldwalk abroadinthegloryoftheir power, but times have changed. Over the past 500 years, the Kindred the mselveshaveworkedhardest ateradicatingbeliefinvampires, squashing reports, discrediting(or eliminating)witnesses and disciplining erpetrators. the madness and slaughter that followed the Inquisition is still fresh in the memories of many elders, and the mistakes that led toit are ruthlessly punished.the penaltyforbreaching the Masqueradeis, mostoften, death. ## the SECONDTRADITION:do MAIN
 
-With that said,welcome to thehallsofElysium,where themonsters dwell.
+Thy do main is thy concern.All others owe the erespect while init.Nonemay challenge thy word in thy do main. the worldhasgrownagreatdealmallrnthepastfewcenturiesandthe numberof Kindredvying for a pieceof land tocall the ir own growswith every night.the se days itsa rare Lickthatholdsasignificantdomain and is n'ta prince. Moreoften, the princedolesoutportionsofhisowndomaininpaymentforome favor or service and in return expects the occupant to enforce the prince's will. Thosehatxpetanmynsuhiuatnweveanra disappointment.Recently, some more business-minded Kindred have taken to claiming do minion over certain aspects of commercial activity in a given city. you ng vampires now squabble over brokerage firms and software developers instead of fourblocks of primehuntingground.Many eldersrooted in the old ways and firmly convincedof the suretyofrealestate, dismissthetrendasone more fantasyofyouth do omed to failure.Others, though, have not iced the growingmomentum of the practice and wonder at what might really be gained. ## the THIRD TRADITION:PROGENY
 
-## HISTORr: N1GHTS GoNE BY
+Thou shalt sire another one with permission of thine elder.If thou createst another with out thine elder'sleave, boththouand thyprogenyshallbeslain. Princeshipbearsa greatmany privilges, the rightfcreationeingchif among the m.Once, before princes littered the countryside and do mainwas freetoanythatcouldholdit, onegenerally soughttheermissionofonessire before granting amortal the Embrace.Ascenturies passed and the power of the Camarillawaxed, eldercame tomean prince.the senights, Kindredviemost fervently tomake the irownchilder, and the princesguard the right jealously. ## the FOURTHTRADITION:ACCOUNTING
 
-In1381,abandofEnglisheasantsrebelledagainsttheirlocallord,dawing the attentionand aidof severalyoungKindred.Thoughquicklyputdown,the mortalrebellionleftitsmarkonthoseof theBloodwhotookpart.Frustratedin theirrisetopowerandoftensuffocatedundertheirimmortalelders'irongrip,the childer of Europe kindled the beginnings of their own rebellion.
+Those thou create are thine own childer.Until thy progeny shallbereleased, thou shalt command the m in all things.the ir sinsare thine to endure. Creating newvampires is a touchy thing.The changes the Blood wreaks ona mortal'sbody and mind are vast.the floodofpower that comeswithunlifecan overwhelmthenewvampireandprovokelapsesinjudgment that could threatenthe entire Masquerade Soitisthat thosewhosirenewchilerarechargedwithguding the mthroughtheearlystagesof the irneweternityuntil suchtime astheyareaware of the risks and responsibilities the irnewcondition has laid upon the m.Until the neonateisdeemedreadyhersireresponsibleforheractionsallferaction and any punishment that comes asaresultislaidupon sire and childe both. Given the terrible responsibility and possible consequences of siring a childe, the rearethosewhopressthepresentationof the irchilderearlierthan might be wise.Childer found to be ignorant of the necessary protocols, whetheritbethrough or alexaminationby the prince and hisofficersor through the actions of the childe after her release, may cause a severe punishment tobelevied against her and her sireboth. ## the FIFTHTRADITION:HOSPITALITY
 
-The Camarilla'shistory,like somany other partsof theKindred'staleis a long and bloodyone.Born in thefiresof rebellious changeandwateredwith muchspilledvitae,thesecthasgrown sinceitsearly daysasabulwarkagainst youthful rage and mortal hunters.
+Honoroneanother'sdomain.when thoucomest toaforeigncitythoushalt present thyself totheonewhoruleththere.with out the wordof acceptance, thouartnothing. when inthecompanyofpredators, onlygoodmannerskeepbloodfrom being shed.If a Kindred crosses into the territory of another Kindred, itis customaryforhimto announce himself topreventunnecessaryconflict.In the se days, this generallymeans approachingtheprinceofagivencityandrequesting hisacceptance.Certainly the rearethosethatgiveshortshriftto this particular Tradition, the Gangrelhifamongthm, and inruth, onecanmaintainw enough profilewhile unacknowledged, the trouble incurred is negligible.In recentnights, how ever, princes have begun appointing particularly savvy huntersas scourges.of ten grantedconsiderable latitudeinthe pursuit of the ir dutiesuusuanmasestysewavts the mselves to the prince.Under the aegis of preventing Sabbat incursions, the practicemakes sense, but many see the scourge as a dangerousmistakewaiting to happen.Many sheriffs also takeumbrage at the broad clearance given the scourge, seeingit as aninfringementon the irown of fices. ## THE SIXTHTRADITION:DESTRUCTION
 
-The early1400ssaw the spark thatwouldigniteawildfire ofrebellion throughout theKindred of Europe.A young Brujah by the name of Tyler assaulted an elderVentrue named Hardestaadt.Inspired by this insolence, childerrose against their siresthroughout thecontinent,clearing theavenues ofpowerwithbloodandfire.Warraged against theeldestof theclans.Atthe height of themadness,therebelsdestroyed theLasombraAntediluvian and claimed tohave destroyed Tzimisce himself as well.
+Aswith somanyof the Traditionsinearlier daysthe Sixth purported the right of a sireto destroy hischilder.Inmodern nights, the prince has usurped this right.when wielded prudently, the threatof blood hunt is as effectivea weapon as a prince can have.Used capriciously, it can easily lead to the do wnfall of a city. Thou art for bidden to destroy another of thy kind.the right of destruction belongethonly to thine elder.Only the eldest among the e shallcall the bloodhunt. In casesofasiresdestructionof herchilde, the matterdependsentirely on the neonate's presentation.A sire has free rein to destroy a fractious childe at any time up until the neonate's presentation to the prince.Aftergaining the princesacceptance, though, the neonatebecomes the propertyof the cityand is no longer under the auspices of his sire. lrouetion the right todestroy anothervampirelies solelywith the prince of a city. Ifavampiredecidesto take the rightforhimself and destroy anothervampire, the killer can generally expecttofind himself onthereceiving endof a blood hunt.the oweroflifeanddeathisoneofaprincesmostdearandsheguard it with considerable jealousy. ## LEXICON
 
-Bolsteredbythediablerieoftheirelders,therebelliousyouth,nowcalled anarchs,marched through Eastern Europe,laying waste to the work of centuries.In those lands ameans tobreak the stranglehold of theblood bond had beenfoundandsudenly,manyeonates andancillaewere liping leashes elders had thought secure.Eager for the opportunity to diablerize European elders,theAssamites joined thefighton the anarch side.
+Subcultures and sectsoftendeveloptheirownspeechpatternsnventing slang and jargon unique to the ir status and social situation.Vampires are no different.Thoughcertaintermsmaybemoreprevalentincertaincircles, one can generallyfindthefollowingwordsnusenoneformoranother, nall circles of Kindred society. Anarch:A vampire who has for saken his affiliation with the Camarilla in favorofexistence as an independent.Mostclaiming the titlein the present night have been Embracedwithin the lasthundredyears. Althing:A Gangrel gathering, generallyheld on are gional scale and called by the eldestmember of the clan in the are a.Smaller gatherings are called things. Archon:Titlegiven the servitorsof the justicars.Most are blood bound to the ir justicar, seakin hername and actwithherauthority. Barrens:Those are as outside the immediateenvironsofacity, generally considered uninhabitableby Kindred. Blood Bond:An induced love caused by the ingestion of aparticular Kindred'svitae.the bond is strong enoughtoinspire suicidal devotionin the recipient and is generally thoughttobeunbreakable. Blood Hunt:A declaration of death levied againsta criminal by the prince and of ten enforced by the city at large. Camarilla: The sect of vampires espousing strict adherence to the Traditions and claimingjurisdiction over all vampires. Chantry:Afacility availableto all Tremere ina city for use as have n and laboratory. Conclave: Gatheringopen to the entire sect, generally calledbyajusticar. Convention of Thorns:Treaty that ended the Anarch Revolt.Also, the conclave that resulted in the signing of the treaty. Coterie:Groupof vampires that generallywork inconcert, of tencrossing clan lines and rarely lastingmore than a few decades. Court:for mal assemblage of the prince and his of ficersmost of ten held in Elysium.Intheory, anyacknowledged Kindredof the citymay approachthe prince at court and beheard. do main:Territory attributed to a particular vampire, the reby granting that vampire primaryrights tohunting, influence and resources.Also, the environs deemed tobewithina prince'srule. Elysium:A site or collection of sites where in violence and the use of Disciplines are strictly for bidden.of ten places of artistic or cultural signifi can ce are designated as Elysium. Embrace: The process of making a mortal into a vampire. Final Death:the completedestruction of avampire. Ghoul:A mortal who has tasted Kindredvitaewithout first being drained of blood.Also, the act of creating a ghoul. Harpy:Title given those at the center of the social pecking or der.they are purveyors of rumorandinnuendo and the ultimate judgesof social status among the Kindred of a city. Inner Circle:The councilofelders incontrolof the Camarilla.The exact number and identity of those on the council are unknown. Justicar:Titlegiven thosewhocarryout the will of the Inner Circle.Eachclan has onejusticarandeachjusticar servesforaperiodof13yearsbeforefacingelection by the Inner Circle to decide continuance or replacement.Each justicar bears considerablepowernpursuitof her dutie, includingtherightofdestruction. Keeper of Elysium:Kindred given charge of maintaining all designated Elysiums, including security and enforcement of the Traditions. Malkavian Madness Network:The mysterious connection linking all Malkavians, supposedly throughmutually altered perceptions. Masquerade:Camarilla's strict policy of concealment denying the existence of Kindred to the mortalpopulace at large. Primogen:Member of the councilof elders that advise and assist the princein the management of a city.the power heldby the primogen council variesfrom citytocity and prince toprince. Prince: Supreme authority with in acity with regard tolocal Camarilla matters. Rack:Any of a series of prime hunting grounds in a cityincluding clubs, bars and commercial districts. Red List:List of those Kindred marked by the sect as awhole for death. Those on the list can expect to be hunted in any Camarilla city. Rant:A gathering of Brujah, ostensibly for purposes of determining clan policy. Scourge:Prince's of ficer chargedwith patrolling the city for outlaws and the Sabbat.Frequently, the scourgeisgranted the rightofdestruction in the pursuit of her duties. Sheriff: Prince's of ficer charged with enforcing the Traditions and the prince's proclamations. Seneschal:The prince's second-in-command, the seneschal of ten deals with the routine tasks of runninga city. Spawning Pools:Hiddenchamberslocated deepina Nosferatuwarren, used for breeding and feeding bizarre animal ghouls.Many of the oldest pools house
 
-In1435,Hardestaadtatheredtheeldersinconvocationandproposedan arrangement to deal with the anarchmovement.The arrangementhe offered wouldcrossblood and territorial lines todealwiththeissues of theKindredas awhole.Truetoform,mosteldersofferedlittlemorethanskepticism and left for their own havens to wait out the anarch storms in theway they weathered so many trials for centuries before.A few, though,remained and joined Hardestaadt in his vision.They were the Founders,and they would lay the groundworkforthenextfive centuries of Kindred society.
-
-By themiddleof the15thcentury,theFounders had persuaded enough elders to join their cause to put forth significant resistance to the anarch rebellion.Coteriesdrawnacrossclanlinesboundbyasinglepupose,gathered across theknownworldWiththeir aimsfinallyunited,heeldersofurope began toregain ground on their fractious childer.When coterieshand-picked bytheFounders and theirintimatesfinallyreturnedwith thelocation of the hidden Assamite fortress ofAlamut,the demise of the revolt was all but assured.Thewar ground to a stalemate of minor skirmishing.
-
-Motivated by theInquisition,whichhadraged across Europe ina fiery backdroptotheAnarchRevolt,thenewsect deemed thelong-ignoredMasquerade would become the centerpiece of their order.Nomore would those of the BloodvisiblylordtheirowerovermortalsnsteadheKindredwouldactfom the shadows,enforcing theTraditions and protecting themselvesfrom thefires of mortal wrath with a charade that would come to span the globe.
-
-In1493,the Anarch Movementagreed toparley with theCamarilla.The ConventionofThornsconvenedinanabbeyinEngland,andtheretheanarchsaccepted termsforsurrender.Thetreatyallowedthoseanarchswhowishedtocomeintothefold of theCamarilla todoso and leviedpunishmentagainsttheAssamitesfortheirrole.In thistreaty,theCamarillacameintoitsownastheguidingsectofCainitelife.
-
-Not all anarchs accepted the Convention of Thorns.Many refused to returntothesamestiflingorderthathadcaused themtorebelinthefirstplace. Theyrejected the purportedpeace and fled to Scandinavia tonurse their wounds and grudges.When they finallyre-emerged from their self-imposed exile,theyhadreformedintothesectthatwouldbetheCamarilla'sstaunchest andmost bloody opposition:theSabbat.
-
-## NEWWORLD,OLDWAR
-
-WhiletheConventionofThornsended thewar,thefrustrationsthat had started itremained.Thoughmanyeldershaddiedinthebloodyrevolt,there were still far moreKindred than therewerepositions of power.When news cametoEurope from across theseaofawholenewworld for thetaking,many of themostpromisingancillae of the OldWorld packedup andwentwestto carve outdomains of their own.Many were encouraged by their elders,who hoped that they couldbe rid of their troublesome childer.
-
-Duringthistime,warbetweentheCamarillaandSabbatwas,forthest part,a perfunctory thing.Both were more concernedwith cementing their hold on the vast resources of the New World than in organizing risky, expensive offensives against the other.Whilerumors abound ofvampiric influenceontheAmerican and FrenchRevolutions,theeffectsof these onthe
-
-Throughout the 16th century,the new-forged Sabbat fought skirmishes against the Camarilla,but the chaoticassaultswere tolittleeffectagainst the deeply entrenched bastions of the elders power.With the opening of the Americas,oughewbatleroundwasdiscoveredanditwouldecom truecrucibleorCamarillaandSabbatheCamarillaseeingintheAmericasan opportunity toberidofpotential rivals andexpand theirinfluence,unitedin sendinga flood ofyoungerKindred across the ocean aboard the colony ships of theEnglish,DutchandFrench.imilarly,theSabbatused theirminions among theSpanish and Portuguese to find footholds in theAmerican colonies.
-
-sects was minimal.The stalemate lasted through most of the17th and18th centuries;each sidefelttheflush of powerasthe Industrial Revolutionflooded the citieswithmoreandmoremortals,andmoreandmoreopportunitiesfor control.Upuntil the earlyyearsof the19thcentury,theCamarillaconcerned itselffar more with capitalizing on the gains afforded them by advancing technology than on thefew assaultsmadebytheSabbat.
-
-TheWarof1812maskedamajor shiftinthefortunesof theCamarilla.As theBritish and theAmericansfought theirwar,theSabbatpressed in onthe Atlanticseaboardgainingcitiesoneattimeovertheext0years.lanken theNorthandSouthbySabbatstrongholds,theCamarillafell backagain and again,inallyoldingontoascanthandfulofcitiesaftertheattackssubsidedh East Coasthasneverbeenregained,andthefightingcontinuesto thisday.Some even say that the losses taken in the East are rising faster than ever.
-
-Inthemid-180Os,anewfrontopenedinthewarbetweenthesects.Thistime, thevast tracts of thewesternfrontierwerebothbattlegroundandprize.Foralong timetheCamarilla teetered ontheedgeofdisasteras theSabbatpressed and pressed,nearlytopplingtheCamarilla'sfootholdnotonlyintheWest,butinthe Americasasawholefnotforseveralsuddenstunninglossesandtherepitethy gavethefalteringCamarillaheSabbatmaywellhavedugnodeeplyastomak itimpossibletoremovethem.There arethosethatfeel thatwithoutthoselosses, theCamarillawouldhavelostthAmericasentirelybutthosethatdaresuggest suchathingoftenfindthemselvesspeakingtosilentrooms and smolderingglares.
-
-## THELASTCENTURY
-
-The190Os proved ripe forupheavalamongmortals and Kindred alike.As newbornsocialtheoryandpoliticaldiscontentrockedaginggovernments,the power structuresof theKindredcontrollingthemwerelikewise shaken.Inthe chaosbroughtby theserevolutions,many cities became primedforSabbat incursions.Whentheassaultscame,theCamarillaestablishmentoftenfound itself strugglingtobringitsforcesintolineandfrequentlyheld onto ancient fiefdomsby the skin ofitscollectiveteeth.
-
-In thedevastationfollowingWorldWar I,manyEuropeanKindred tried to takecontrolof thecontinent.Those thatdidwerelittlemore than twigsin the tide as theworld plunged towardAdolf Hitler's Germany and the horror thatwouldriseoutofit.AsWorldWar IIraged,someKindredwithmore ambition than sense soughttoturn themortalswar totheir own ends.Most didnot survive.For once,thosewithout a hold in the halls ofpowerwere luckiest,laying low and letting the storms of battlewash over them.
-
-In theyears thatfollowed Germany's defeat,thepeopleofAmericaprospered,andtheAmericanKindredalongwiththem.Inthechaosof thewar,vr 500years afterrevolution sparked the creationofthe Camarilla,theanarch movementonce againreareditshead.PrincesontheWestCoastfellastheyoung movement spread among theKindred of California.But these were not the anachflngin anarchs to their sliver of territory along thePacific. Chicago rose as the anchor of the Camarilla inNorthAmerica.Guided byLodin's sure hand,itbecame a stronghold forthefaithfulandanexampletoothers across the continent ascities roseovernightinafloodof immigration andurbanization.
-
-<!-- image -->
-
-Inthelaerhalf fthecenturyinterestinvamiretookastrangets subculturesmbraced themageandmystiquoftheundeadrincesround offonmrtaamirrundwastwiutitrcussinWitsu ncreasednrestacninamllrrblnn ment becameallthemorecrucialtosurvival.Newtechnologyopenedever-wider avenuestopoweras youngervampirestookadvantageoftheeldersstaidreliance ontheoldwaystocarveinroadsintoemergingmarketsandndustries.Thetides of prosperitycontinuetoswellasmortalsflood thecitiesandKindredfindever more blood tobe had.The questionhowever,remains:how longcan this last?
-
-Omens of misfortunehave plaguedtheCamarillainrecent years.The sect lost its one and only hold on theFar East when HongKongwas returned to China.Younger and younger Kindred are Embracing childer of their own and with eachgeneration,theBlood grows thinner.Therearerumors ofneonates whose blood is now too thin to sustain theEmbrace andwho caneven bearthe touchof sunlghtheanarchs squatonthePacificoast,etlingtheric of the Camarillawith their presence.More disturbingly,reports have come fromWestern citiesof incursionsby themysteriousAsianvampires.Alongthe Atlantic theSabbat remains,turning back theCamarilla's attempts torecapture theirlong-lostcities.Only Europeremainsunperturbedas theelders there
-
-When the Convention of Thorns drew all Kindred under the auspicesof theCamarilla,theGangrel wereamongthesevenclanswho chose full membership in the sect.In the five centuries since,the Gangrelproved themselves invaluable allies,leading the fightin the waragainst theSabbat.Boththeircombat abilitiesand thegreatwealth of intelligence gathered by thenomadic clan played decisive roles in the success of the Camarilla's efforts against their rivals.
-
-Speculation abounds as to the circumstances and motives for the Gangrel defection from the Camarilla.There are as many guesses as there aremouths to voice them.Most prevalent of the rumors is that Xaviarrmricaflannredhouilhambrf InnerirceoknntnceanfWithinmonthostf clanhaddivorced themselvesfromthesect,thoughnonewould speak of theasoneureanyalsrmanedbuwithoutui to defend their interests,theyarevulnerable tothe politicalmachinations of those clans that retain full affiliation.
-
-Until recently.
-
-Todate,theGangrelcontinue steadfastin their unwillingness o explain their departure from the Camarilla.Thosewhoask are tersely rebuked-if they're lucky.Though now considered an independent clan,manyof thosewhoretain theirclaimofCamarillamembership are as welcome as ever they were.There are those who have held grudges against the shapeshiftersthough,and lackingthe threatof justicar retaliation leaves littlereasonnot tomake unlife hard for those that remain.
-
-<!-- image -->
-
-sit in their havens,long ago having learned tomaintain their own control regardless of the shifting of themortalsbeneath them.
-
-## THE TRADITIONS
-
-Aslegend hasit,Cainehimself passed down theTraditionsin thetimes of theFirst City to guide hischilder through theirunlives.To this day,they remainthebulwark of Camarilla society andare strictly upheld.It doesn't hurt that they alsomake good sense.
-
-## THEFIRSTTRADITION:THEMASQUERADE
-
-Thou shalt not reveal thy truenature to thosenot of theBlood.Doing so shall renounce thy claims of Blood.
-
-MostCamarillaKindredsay thatthisisthewholeof thelaw,and allelse is incidental.ManyaMethuselahhasregaledawillingearwithtalesofthedays beforetheCamarilla,whentheKindredcouldwalk abroadinthegloryoftheir power, but times have changed. Over the past 500 years,the Kindred themselveshaveworkedhardest ateradicatingbeliefinvampires,squashing reports,discrediting(oreliminating)witnesses and disciplining erpetrators. Themadness and slaughter that followed theInquisition is still fresh in the memories ofmany elders,and the mistakes that led toit are ruthlessly punished.Thepenaltyforbreaching theMasqueradeis,mostoften,death.
-
-## THESECONDTRADITION:DOMAIN
-
-Thy domain is thy concern.All others owe theerespect while init.Nonemay challenge thy word in thy domain.
-
-Theworldhasgrownagreatdealmallrnthepastfewcenturiesandthe numberof Kindredvying fora pieceof land tocall their own growswith every night.These days itsa rareLickthatholdsasignificantdomain and isn'ta prince. Moreoften,theprincedolesoutportionsofhisowndomaininpaymentforome favor or service and in return expects the occupant to enforce the prince's will. Thosehatxpetanmynsuhiuatnweveanra disappointment.Recently,some more business-minded Kindred have taken to claiming dominion over certain aspects of commercial activity in a given city. Young vampires now squabble over brokerage firms and software developers instead of fourblocks ofprimehuntingground.Many eldersrooted in theold ways andfirmly convincedof thesuretyofrealestate,dismissthetrendasone more fantasyofyouth doomed to failure.Others,though,havenoticed the growingmomentum of the practice and wonder at whatmight really be gained.
-
-## THETHIRD TRADITION:PROGENY
-
-Thou shalt sire another one with permission of thine elder.If thou createst another without thine elder'sleave,boththouand thyprogenyshallbeslain.
-
-Princeshipbearsa greatmany privilges,therightfcreationeingchif among them.Once,before princes littered the countryside and domainwas freetoanythatcouldholdit,onegenerally soughttheermissionofonessire before granting amortal theEmbrace.Ascenturies passed and the power of the Camarillawaxed,eldercame tomean prince.Thesenights,Kindredviemost fervently tomake theirownchilder,and theprincesguard theright jealously.
-
-<!-- image -->
-
-## THEFOURTHTRADITION:ACCOUNTING
-
-Those thou create are thine own childer.Until thy progeny shallbereleased, thou shalt command them in all things.Their sinsare thine to endure.
-
-Creating newvampires is a touchy thing.The changes theBlood wreaks ona mortal'sbody andmind arevast.Thefloodofpower thatcomeswithunlifecan overwhelmthenewvampireandprovokelapsesinjudgment thatcouldthreatenthe entireMasqueradeSoitisthat thosewhosirenewchilerarechargedwithguding themthroughtheearlystagesof theirneweternityuntil suchtime astheyareaware of therisks andresponsibilities theirnewcondition has laid upon them.Until the neonateisdeemedreadyhersireresponsibleforheractionsallferaction and any punishment thatcomes asaresultislaidupon sire andchilde both.
-
-Given the terrible responsibility and possible consequences of siring a childe,therearethosewhopressthepresentationof theirchilderearlierthan might be wise.Childer found to be ignorant of the necessary protocols, whetheritbethrough oralexaminationby theprince andhisofficersor through the actions of the childe after her release,may cause a severe punishment tobelevied against her and her sireboth.
-
-## THEFIFTHTRADITION:HOSPITALITY
-
-Honoroneanother'sdomain.Whenthoucomest toaforeigncitythoushalt present thyself totheonewhoruleththere.Without thewordof acceptance,thouartnothing.
-
-Wheninthecompanyofpredators,onlygoodmannerskeepbloodfrom being shed.If aKindred crosses into the territory of anotherKindred,itis customaryforhimto announce himself topreventunnecessaryconflict.In these days,thisgenerallymeans approachingtheprinceofagivencityandrequesting hisacceptance.Certainly therearethosethatgiveshortshriftto thisparticular Tradition,theGangrelhifamongthm,andinruth,onecanmaintainw enough profilewhile unacknowledged,the trouble incurred isnegligible.In recentnights,however,princes have begun appointing particularly savvy huntersas scourges.Often grantedconsiderable latitudeinthe pursuit of their dutiesuusuanmasestysewavts themselves to the prince.Under the aegis of preventing Sabbat incursions,the practicemakes sense,butmany see the scourge as a dangerousmistakewaiting to happen.Many sheriffs also takeumbrage at the broad clearance given the scourge,seeingit as aninfringementon theirown offices.
-
-## THE SIXTHTRADITION:DESTRUCTION
-
-Aswith somanyof theTraditionsinearlier daystheSixth purported the right of a sireto destroy hischilder.Inmodern nights,theprince has usurped this right.Whenwielded prudently,the threatof blood hunt is as effectivea weapon as a prince can have.Used capriciously,it can easily lead to the downfall of a city.
-
-Thou art forbidden to destroy another of thy kind.Theright of destruction belongethonly to thine elder.Only theeldest among thee shallcall thebloodhunt.
-
-In casesofasiresdestructionof herchilde,thematterdependsentirely on theneonate's presentation.A sire has free rein to destroy a fractious childe at any time up until theneonate's presentation to the prince.Aftergaining the princesacceptance,though,theneonatebecomes thepropertyof thecityand is no longer under the auspices of his sire.
-
-lrouetion
-
-<!-- image -->
-
-Theright todestroy anothervampirelies solelywith theprince of a city. Ifavampiredecidesto take therightforhimself and destroy anothervampire, thekiller can generally expecttofind himself onthereceiving endof a blood hunt.Theoweroflifeanddeathisoneofaprincesmostdearandsheguard it with considerable jealousy.
-
-## LEXICON
-
-Subcultures andsectsoftendeveloptheirownspeechpatternsnventing slang and jargon unique to their status and social situation.Vampires areno different.Thoughcertaintermsmaybemoreprevalentincertaincircles,one can generallyfindthefollowingwordsnusenoneformoranother,nall circles of Kindred society.
-
-Anarch:A vampire who has forsaken his affiliation with theCamarilla in favorofexistence as an independent.Mostclaiming the titlein thepresent night havebeenEmbracedwithin the lasthundredyears.
-
-Althing:A Gangrel gathering,generallyheld on aregional scale and called by the eldestmember of the clan in the area.Smaller gatherings are called things.
-
-Archon:Titlegiven theservitorsof thejusticars.Most areblood bound to their justicar,seakin hername and actwithherauthority.
-
-Barrens:Those areas outside theimmediateenvironsofacity,generally considered uninhabitablebyKindred.
-
-Blood Bond:An induced love caused by the ingestion of aparticular Kindred'svitae.Thebond is strong enoughtoinspire suicidal devotionin the recipient andisgenerally thoughttobeunbreakable.
-
-BloodHunt:A declaration of death levied againsta criminal by the prince and often enforced by the city at large.
-
-Camarilla: The sect of vampires espousing strict adherence to the Traditions and claimingjurisdiction over all vampires.
-
-Chantry:Afacility availableto all Tremere ina city foruse as haven and laboratory.
-
-Conclave: Gatheringopen to theentire sect,generally calledbyajusticar. Convention of Thorns:Treaty that ended theAnarch Revolt.Also,the conclave that resulted in the signing of the treaty.
-
-Coterie:Groupof vampires that generallywork inconcert,oftencrossing clan lines and rarely lastingmore than a few decades.
-
-Court:Formal assemblage of the prince andhis officersmost often held inElysium.Intheory,anyacknowledgedKindredof thecitymay approachthe prince at court andbeheard.
-
-Domain:Territory attributed to a particular vampire,thereby granting that vampire primaryrights tohunting,influence and resources.Also,the environs deemed tobewithina prince'srule.
-
-Elysium:A site or collection of sites wherein violence and the use of Disciplines are strictly forbidden.Often places of artistic or cultural signifi cance are designated as Elysium.
-
-<!-- image -->
-
-Embrace: The process of making a mortal into a vampire. Final Death:Thecompletedestruction ofavampire.
-
-Ghoul:A mortal who has tasted Kindredvitaewithout first being drained of blood.Also,the act of creating a ghoul.
-
-Harpy:Title given those at the center of the social pecking order.They are purveyors ofrumorandinnuendo and theultimate judgesof social status among theKindred of a city.
-
-Inner Circle:The councilofelders incontrolof the Camarilla.The exact number and identity of those on the council are unknown.
-
-Justicar:Titlegiven thosewhocarryout thewillof theInnerCircle.Eachclan has onejusticarandeachjusticar servesforaperiodof13yearsbeforefacingelection by the Inner Circle to decide continuance or replacement.Each justicar bears considerablepowernpursuitof her dutie,includingtherightofdestruction.
-
-Keeper of Elysium:Kindred given charge of maintaining all designated Elysiums,including security and enforcement of theTraditions.
-
-Malkavian Madness Network:The mysterious connection linking all Malkavians, supposedly throughmutually altered perceptions.
-
-Masquerade:Camarilla's strict policy of concealment denying the existence ofKindred to themortalpopulace at large.
-
-Primogen:Member of the councilof elders that advise and assist the princein themanagement of a city.Thepower heldby the primogen council variesfrom citytocity andprince toprince.
-
-Prince: Supreme authority within acity with regard tolocal Camarilla matters.
-
-Rack:Any of a series of prime hunting grounds in a cityincluding clubs, bars and commercial districts.
-
-Red List:List of thoseKindred marked by the sect as awhole for death. Those on the list can expect to be hunted in any Camarilla city.
-
-Rant:A gathering of Brujah,ostensibly for purposes of determining clan policy.
-
-Scourge:Prince's officer chargedwith patrolling thecity for outlaws and the Sabbat.Frequently,the scourgeisgranted therightofdestruction in the pursuit of her duties.
-
-Sheriff: Prince's officer charged with enforcing the Traditions and the prince's proclamations.
-
-Seneschal:The prince's second-in-command, the seneschal often deals with theroutine tasks ofrunninga city.
-
-SpawningPools:Hiddenchamberslocated deepinaNosferatuwarren,used for breeding and feeding bizarre animal ghouls.Many of the oldest pools house
-
-Traditions: Six great laws said to be handed down by Caine.Together they form thecore of the Camarilla's philosophy.
-
-Vitae: Blood. Often the blood of aKindred,though not always.
-
-<!-- image -->
-
-<!-- image -->
-
-## CHAPTER TwO: CHARACTER CREATION
+Traditions: Six great laws said to be handed do wn by Caine.Together they for m the core of the Camarilla's philosophy. Vitae: Blood. of ten the blood of a Kindred, though not always. ## CHAPTER TwO: CHARACTER CREATION
 
 NEWARCHETYPES
 
-Archetypes are thebuildingblocks for your character's persona.In day-todaylifepeopleputondifferentDemeanorsastheyfacetheworld.Youbehave likeonesortofpersonattheoffice,anotheratschoolandmaybeyetanother when out partying withyourfriends.None of thesedifferent faceswewearare lies,exactly.But the deepest goals and motivations of a person -the innermostNature-arerarely ondisplayfor theentireworld tosee.When you arebuildingyourcharacter,you shouldaskyourself:Whatdoes thisperson trulywant?Whatfacedoeshe showto theworld inordertogetit?The answers you come upwith are the heart of any truly enjoyable character.
+Archetypes are the buildingblocks for you r character's persona.In day-todaylifepeopleputondifferent Demeanorsastheyfacetheworld.you behave likeonesortofpersonattheoffice, anotheratschoolandmaybeyetanother when out partying with you rfriends.None of the sedifferent faceswewearare lies, exactly.But the deepest goals and motivations of a person -the innermost Nature-are rarely ondisplayfor the entireworld tosee.When you are buildingyourcharacter, you should askyourself:what do es this person trulywant?what facedoeshe showto the world inordertogetit?The answers you come upwith are the heart of any truly enjoyable character. Idealist-—You are utterly committed to some purpose greater than you r ownwantsandneeds. the re are some Archetypes that are very common in the Camarilla. Certain clans are naturally drawn togrant the se sort of people the Embrace. Likewise, Kindred in important positions with in the Camarilla are always looking for servants of a certain temperament. Soldier You'vebeengiven you r or ders, and you takepride in accomplishing the m well. Scientist Diligent, rational examinationcanreveal all the secretsf the universe. Dabbler-the worldisfullof newthingstolearn, and you wanttosample all of the m. ## ABILITIES the re are some skillswithin the Camarillathat are encounteredregularly. While the"Hobby/Professional/Expert Ability"given in Laws of the Night can easily coverthese Abilities, itmayprove helpful tousethemorein-depth descriptionofthese Abilitiesgivenbelow.Pleasenotethatthese Abilities, like any material given in this book, are tobe used strictly at the option of the Storyteller. ## HUNTING this killllwustalnyanranan hunters and Gangrel use this to bring do wn wild game.Most other Kindred, how ever, hunt a different sort of prey in the urban jungle.This skill all ows the m to gain the irnightly sustenance with outbreaking the Masquerade or going hungry due to missed opportunities.this Ability gives you a retest in situationswhenyouareattemptingtorefreshyour Blood Pool, whetherinthe woodsorouton the streets. ## PSYCHOLOGY
 
-Idealist-—You are utterly committed to some purpose greater than your ownwantsandneeds.
+This is a working knowledge of psychology, both in the or y and in practice.You have a solid understanding of the nature of both human and Kindredminds.Givenenoughtime and effort, you may accurately discern ow aperson'smindworksorowitoesnt, asthecasemaybe.this bilitymay beused to determine the given subjects'Nature or her Derangements (if any), or asaretest togain insight into a person'smotivations.not e that a separate test is needed for each piece of information.You must speak with a given subject for anywhere from15minutes to an hour for this skilltoworkyou can not diagnose someone'sinsanity at a glance. ## MERITSANDFLAWS
 
-There are some Archetypes that are very common in the Camarilla. Certain clans arenaturally drawn togrant these sort of people theEmbrace. Likewise,Kindred in important positions within the Camarilla are always looking for servants of a certain temperament.
-
-SoldierYou'vebeengiven your orders,andyou takepride in accomplishing them well.
-
-ScientistDiligent,rational examinationcanreveal all the secretsf theuniverse.
-
-Dabbler-Theworldisfullof newthingstolearn,andyouwanttosample all of them.
-
-## ABILITIES
-
-There are some skillswithin theCamarillathat areencounteredregularly. While the"Hobby/Professional/ExpertAbility"given inLaws of theNight can easily covertheseAbilities,itmayprove helpful tousethemorein-depth descriptionoftheseAbilitiesgivenbelow.PleasenotethattheseAbilities,like any material given in thisbook,are tobe used strictly at the option of the Storyteller.
-
-## HUNTING
-
-Thiskillllwustalnyanranan hunters and Gangrel use this to bring down wild game.Most other Kindred, however,hunt a different sort of prey in the urban jungle.This skill allows them to gain theirnightly sustenance withoutbreaking theMasquerade or going hungry due to missed opportunities.ThisAbility gives you a retest in situationswhenyouareattemptingtorefreshyourBloodPool,whetherinthe woodsorouton the streets.
-
-## PSYCHOLOGY
-
-This is a working knowledge of psychology,both in theory and in practice.You have a solid understanding of thenature of both human and Kindredminds.Givenenoughtime andeffort,youmay accurately discern ow aperson'smindworksorowitoesnt,asthecasemaybe.Thisbilitymay beused to determine the given subjects'Nature or herDerangements (if any), or asaretest togain insight intoa person'smotivations.Note that a separate test isneeded for each piece of information.You must speak with a given subject for anywhere from15minutes to an hour for this skilltoworkyou cannot diagnose someone'sinsanity at a glance.
-
-## MERITSANDFLAWS
-
-Merits and Flaws are meant to give your character that little extra twist that sets him apart from the pack.They should always be the last step in charactercreation andnever the main focus ofa characterconcept.Often, new playerswill make the mistake of latching on to a MeritorFlaw and defining a character solely by that small detail.The endresult is rarely a character thathas enoughdepthorcreativitytobeworth playingforextended periods of time.
-
-LikewisemanyplayrswilltryandtakeasmanyFlawsastheycannordr tobuy asmany pointsof Generation,AbilitiesorDisciplinesaspossible.Bear inmind that theStorytellerhas everyright to stripaFlaw(anditspoints)from a character if it isn't being played properly.Flaws arehandicaps that limit the things a character can do.A Flaw that isn't a disadvantage isn'treally aFlaw, and shouldn't be treated as such.
-
-## PHYSICAL
+Merits and Flaws are meant to give you r character that little extra twist that sets him apart from the pack.they should always be the last step in charactercreation and never the main focus of a characterconcept.of ten, new playerswill make the mistake of latching on to a Meritor Flaw and defining a character solely by that small detail.The endresult is rarely a character that has enoughdepthorcreativitytobeworth playingforextended periods of time. Likewisemanyplayrswilltryandtakeasmany Flawsastheycannordr tobuy asmany pointsof Generation, Abilitiesor Disciplinesaspossible.Bear inmind that the Storytellerhas everyright to stripa Flaw(and itspoints)from a character if it isn't being played properly.Flaws are handicaps that limit the things a character can do.A Flaw that isn't a disadvantage is n'treally a Flaw, and shouldn't be treated as such. ## PHYSICAL
 
 ## BRUISER(ITRAIT MERIT)
 
-The icy stare,the cobraeyesyou've got the stone cold thug look down, and it works.You are one Trait up when comparing ties on any attempts to intimidate someone.
+The icy stare, the cobraeyesyou've got the stone cold thug look do wn, and it works.You are one Trait up when comparing ties on any attempts to intimidate someone. ## FRIENDLY FACE(ITRAIT MERIT) don't Iknowyoufrom somewhere?You have anopen, honest lookaboutyou that alwaysseemstoremindeveryoneofanoldfriend the yhaven'tseeninyears. You are one Traituponall attemptstopersuade, seduceorbeguileastranger. ## DULLEDBITE(TRAITFLAW) you r fangsnever fully developed, or the ynever came n at all.When feedingueedtindmthwayofmakingthloodwrmustn on a Physical Challenge(in addition to any necessary to grappleyour victim) in or der for you r bite topenetrate.A number of Caitiff and high-generation vampires manifest this Flaw. ## GLOWINg EYES(2TRAIT FLAW)
 
-## FRIENDLY FACE(ITRAIT MERIT)
-
-Don'tIknowyoufrom somewhere?You haveanopen,honest lookaboutyou that alwaysseemstoremindeveryoneofanoldfriend theyhaven'tseeninyears. You areoneTraituponall attemptstopersuade,seduceorbeguileastranger.
-
-## DULLEDBITE(TRAITFLAW)
-
-Your fangsnever fully developed,or theynever came n at all.When feedingueedtindmthwayofmakingthloodwrmustn
-
-<!-- image -->
-
-on a Physical Challenge(in addition to any necessary to grappleyour victim) in order for your bite topenetrate.A number of Caitiff and high-generation vampires manifest this Flaw.
-
-## GLOWINg EYES(2TRAIT FLAW)
-
-Youreyes actuallyglowinthedark,otmerelyrelectinglightlikeacats, but actually producinglight.Thisradiation partiallyblindsyou and,n the dark,makeoustandoutlkrehumb.ikwiseuveryreencn publicisabreachintheMasquerade.Onlythick,wrap-around sunglasseswill hidethisillumination-ordinary sunglassesorcontactlensesjustdon'tcutit. You gainthefollowingNegativeSocial Trait:Bestial and theNegativeMental Trait:Oblivious,neither ofwhichcanbeboughtoffwithexperiencepoints. However,you also gain the Social Trait:Intimidating for free.It is recommended that you wear a tag proclaiming your unusual deformity.
-
-## DERMANENTFANGS(2 TRAITFLAW)
-
-Your fangsdonotretract,making thepreservation of theMasquerade difficultatbest.YoumusttaketheNegativeSocial Trait:Bestial,whichcannot bebought offwithexperience points.
-
-## MENTAL
+you reyes actuallyglowinthedark, otmerelyrelectinglightlikeacats, but actually producinglight.this radiation partiallyblindsyou and, n the dark, makeoustandoutlkrehumb.ikwiseuveryreencn publicisabreachinthe Masquerade.Onlythick, wrap-around sunglasseswill hidethisillumination-or dinary sunglassesorcontactlensesjustdon'tcutit. You gainthefollowing Negative Social Trait:Bestial and the Negative Mental Trait:Oblivious, neither of which can beboughtoffwithexperiencepoints. how ever, you also gain the Social Trait:Intimidating for free.It is recommended that you wear a tag proclaiming you r unusual deformity. ## DERMANENTFANGS(2 TRAITFLAW) you r fangsdonotretract, making the preservation of the Masquerade difficultatbest.you musttakethe Negative Social Trait:Bestial, which can not bebought of fwithexperience points. ## MENTAL
 
 ## COLDLY LOgICAL(I TRAIT MERIT)
 
-You haveaknackforseparatingfactfromhysteria,truthfrom emotion. Somemaycall youacoldfish,butyou'retoocool to care.You areoneTrait up when comparing ties on any attempt to persuade you using emotion(i.e., a Social ChallengewhereyouropponentbidsTraits likeBeguiling,Charismatic or Seductive).
+You have aknackforseparatingfactfromhysteria, truthfrom emotion. Somemaycall you acoldfish, but you'retoocool to care.You are one Trait up when comparing ties on any attempt to persuade you using emotion(i.e., a Social Challengewhereyouropponentbids Traits like Beguiling, Charismatic or Seductive). ## THIRST FOR INNOCENCE(2 TRAIT fLAW)
 
-## THIRST FOR INNOCENCE(2 TRAIT fLAW)
+The sight of innocence of any sort arouses a terrible hunger with in you. you mustpassa Self Control Testorelsefrenzyand attackthe sourceof you r hunger. ## GUILT-WRACKED(4 TRAITFLAW)
 
-The sight of innocence of any sort arouses a terrible hunger within you. YoumustpassaSelfControlTestorelsefrenzyand attackthe sourceof your hunger.
-
-## GUILT-WRACKED(4 TRAITFLAW)
-
-You cannot cope with the fact that you must consume blood to survive. YoumustpassaCourageTesteachandeverytimeyouattempttofeedorle you simply cannotgo throughwith it.Thismeans you will often below on blood and will easily succumb to hunger frenzies.
-
-## SUPERNATURAL
+You can not cope with the fact that you must consume blood to survive. you mustpassa Courage Testeachandeverytimeyouattempttofeedorle you simply can not go throughwith it.this means you will of ten below on blood and will easily succumb to hunger frenzies. ## SUPERNATURAL
 
 ## BRIGHTAURA(ITRAIT MERIT)
 
-For somereasonyouraurareadsasmuchbrighterandmorecolrul than mostKindred's.Whenyouarethe subjectofAuraPerception,yourcharacter appearsmortal.ThisMerit is particularly appropriate forhigh-generation vampires and Caitiff.
+For somereasonyouraurareadsasmuchbrighterandmorecolrul than most Kindred's.when you arethe subjectof Aura Perception, you rcharacter appearsmortal.this Merit is particularly appropriate for high-generation vampires and Caitiff. ## HEALINgTOUCH(I TRAIT MERIT)
 
-## HEALINgTOUCH(I TRAIT MERIT)
+Normallyvampires can only heal wounds left from the Kiss by licking the m.With a touch, you can achieve the same effect. ## INOFFENSIVE TO ANIMALS(I TRAIT MERIT)
 
-Normallyvampires can only heal wounds left from theKiss by licking them.With a touch,you can achieve the same effect.
+Animals generally fear and loathe the presence of the Kindred.The predatorfights and the preyfleeswhen Caine'schildren approach.For some reason, this do esnot hold trueforyou.Animalswon'tnecessarilylikeyou at first sight, but they will not automaticallyfleefromyou. ## COLD BREEZE(ITRAITFLAW)
 
-<!-- image -->
+Acoldbreezefollowsyou where veryougo.Whilethisisterribly dramatic aroundcurtainsandopenflamesitalsoproclaimsyour supernaturalaspecto everyonearoundyou, includingmortals.you are one Traitdownonanysocial interactionwithmortals.Itis recommendedthat you wearatagdescribingthis aspect of you r character. ## BEACON OF THE UNHOLr(2 TRAIT FLAW)
 
-## INOFFENSIVE TO ANIMALS(I TRAIT MERIT)
+You radiate a palpable aura of evil. Clergy and mortals possessing True Faithare instantly aware that you are asupernatural creatureof darknessand react accordinglyikewiseyou suffertheeffectsof True Faithwhenonholy ground or any place of worship. ## BOUND(2 TRAITFLAW)
 
-Animals generally fear and loathe the presence of the Kindred.The predatorfights and thepreyfleeswhenCaine'schildren approach.For some reason,thisdoesnot hold trueforyou.Animalswon'tnecessarilylikeyou at first sight,buttheywill not automaticallyfleefromyou.
+You begin the gamebloodbound to another player'scharacter or Storyteller character.the knowledge that you rwill is not you rown constantly chafesatyour soul, evenasyourevelinyourutterloveforyourcaptor.his Flawmay onlybetakenwiththeexpress permisionof the Storytellerand, if applicable, the playerwhose character towhom you are bound. ## DEATHSIGHT(TRAITFLAW)
 
-## COLD BREEZE(ITRAITFLAW)
+Everything appears tobe dead and decaying around you.The world is a corpse, mortals are walkingcadavers, and everythingisinruins.oumust take the Negative Social Trait:Callous and the Negative Mental Trait: Oblivious, neither of which can be bought of fwith experience points.On the other hand, you are two Traitsupwhen comparing Traits on any Social Challenge based on physical appearance (ie., you r opponent bids the Traits Gorgeous or all uring). ## LORD of the FLIES(TRAIT FLAW)
 
-Acoldbreezefollowsyou whereveryougo.Whilethisisterribly dramatic aroundcurtainsandopenflamesitalsoproclaimsyour supernaturalaspecto everyonearoundyou,includingmortals.YouareoneTraitdownonanysocial interactionwithmortals.Itis recommendedthat youwearatagdescribingthis aspect of your character.
+Buzzing, swarming insects constantly surroundyou.You are one Trait do wn on any social or Stealth-related challenge.It is recommended that you wear a tag announcing this aspect of you r character. ## MASTER-LEVELINFLUENCES:the DARK HEART OF THE CITY. The mostancient Kindredof the Camarilla buildpower bases that are terrifyinginscope.Centuriesofcareful planning, ghouling and schemingcan produce empires.the se eldervampires become the essence of the city they dwell in:the irwishesanddesiresshapetheir homes inways that lesser Kindred can only dream of. Surprisingly, owever, veryfew Kindredgaininfluenceonaationalr evenregional scope.Someof this is duetothefactthateldervampiresaremore used to thinking in terms of city-states and towns rather than nations;the rest is because other Kindredwouldnever stand for one of the ir kindobtaining that much power.what ever the reason, Kindred tend to develop Influence in depth rather than breadth, and even the most Influential Kindred has little control over the nation he dwells in.the re are always exceptions, how ever... The followingchartsgive arough idea of the power granted Influences610in the variousrealmscontrolled by Kindredsociety.Bear inmind that the are aofcontrolofthese Influences tendtogetblurred athigherlevels;someone with high levelsof Street Influencecan influencethebehaviorofthepoliceand underworld with out having any direct say in the ir activities. Obtaining the se levelsof Influencerequiresdecades, if not centuries, of hardwork.Such power should only be in the hands of the most ancient and establishedofelders.Neonates should n'tevenbe abletodream of holding such an empire in the ir hands. ## BUREAUCRACY
 
-## BEACON OF THE UNHOLr(2 TRAIT FLAW)
-
-You radiate a palpable aura of evil. Clergy and mortals possessing True Faithare instantly aware thatyou areasupernatural creatureof darknessand react accordinglyikewiseyou suffertheeffectsofTrueFaithwhenonholy ground or any place of worship.
-
-## BOUND(2 TRAITFLAW)
-
-You begin thegamebloodbound to another player'scharacter orStoryteller character.Theknowledge thatyourwill isnotyourown constantly chafesatyour soul,evenasyourevelinyourutterloveforyourcaptor.his Flawmay onlybetakenwiththeexpress permisionof theStorytellerand,if applicable,the playerwhose character towhom you are bound.
-
-## DEATHSIGHT(TRAITFLAW)
-
-Everything appears tobe dead and decaying around you.The world isa corpse,mortals arewalkingcadavers,andeverythingisinruins.oumust take theNegativeSocial Trait:Callous and theNegativeMental Trait: Oblivious, neither of whichcan be bought offwith experience points.On theother hand, you aretwoTraitsupwhen comparingTraits on any Social Challenge based on physical appearance (ie.,your opponent bids theTraits Gorgeous orAlluring).
-
-## LORD OFTHEFLIES(TRAIT FLAW)
-
-Buzzing,swarming insects constantly surroundyou.You are oneTrait down on any social or Stealth-related challenge.It isrecommended that you wear a tag announcing this aspect of your character.
-
-## MASTER-LEVELINFLUENCES:THEDARK HEART OF THE CITY.
-
-The mostancientKindredof the Camarilla buildpower bases thatare terrifyinginscope.Centuriesofcareful planning,ghouling andschemingcan produce empires.These eldervampires become the essence of the city they dwell in:Theirwishesanddesiresshapetheir homes inways that lesserKindred can only dream of.
-
-Surprisingly,owever,veryfewKindredgaininfluenceonaationalr evenregional scope.Someof thisisduetothefactthateldervampiresaremore
-
-used to thinking in terms of city-states and towns rather than nations;therest isbecause otherKindredwouldnever stand forone of their kindobtaining that much power.Whatever the reason,Kindred tend to develop Influence in depth rather than breadth,and even the mostInfluential Kindred has little control over the nation he dwells in.There are always exceptions,however...
-
-The followingchartsgive arough idea of the power grantedInfluences610in thevariousrealmscontrolled byKindredsociety.Bear inmind that the areaofcontrolofthese Influences tendtogetblurred athigherlevels;someone with high levelsof Street Influencecan influencethebehaviorofthepoliceand underworld without having any direct say in their activities.
-
-Obtaining these levelsofInfluencerequiresdecades,if notcenturies,of hardwork.Such power should only be in the hands of themost ancient and establishedofelders.Neonates shouldn'tevenbe abletodream of holding such an empire in their hands.
-
-## BUREAUCRACY
-
-A Kindred with higherlevelof Influencein thisdomain has spent decades establishing the system that shapes hiscity.Othersmaychoose themayors and aldermen of acity—you control them throughthemachinery of government, withoutwhich the entire citywould collapse.As this power grows,youmay even be able to exert your will on the regional level.
-
-| Cost   | Effect                                                                           |
-|--------|----------------------------------------------------------------------------------|
-| 6      | Initiate amajor publicworks program (a large park or officecomplex)              |
-|        | Completely dominate all aspectsof the city'sbu reaucracywithinacityblock         |
-|        | Prevent emergency servicessuch asfire protection fromrespondingtoamajor disaster |
-| 7      | Stop,startralerastateorregionalprogramr policy                                   |
-|        | Forceanentireneighborhood tobuild as youseefit Collect taxes ($1,000)            |
-| 8      | Build ordestroy small towns or suburbs Control anentirecitydistrict              |
-|        | Rewritepolicy on a state orregional level                                        |
-| 9      | Have a major building condemned and destroyed onshortnotice                      |
-|        | Buildmonuments or stadiums                                                       |
-| 10     | Completely control themayor's office Rebuild the city as you seefit              |
+A Kindred with higherlevelof Influencein this do main has spent decades establishing the system that shapes hiscity.Othersmaychoose the mayors and aldermen of acity—you control the m throughthemachinery of government, with outwhich the entire citywould collapse.As this power grows, you may even be able to exert you r will on the regional level. | Cost | Effect |
+| 6 | Initiate amajor publicworks program (a large park or of ficecomplex) |
+| | Completely do minate all aspectsof the city'sbu reaucracywithinacityblock |
+| | Prevent emergency servicessuch asfire protection from respondingtoamajor disaster |
+| 7 | Stop, startralerastateorregionalprogramr policy |
+| | for ceanentireneighborhood tobuild as you seefit Collect taxes ($1,000) |
+| 8 | Build or destroy small towns or suburbs Control anentirecitydistrict |
+| | Rewritepolicy on a state or regional level |
+| 9 | Have a major building condemned and destroyed onshortnotice |
+| | Buildmonuments or stadiums |
+| 10 | Completely control the mayor's of fice Rebuild the city as you seefit |
 
 ## CHURCH
 
-The Church is one of the most ancient bulwarks of Kindred Influence and themostdangerous.IntheWorld of Darkness,theChurch stillkeepsthe truth about the supernatural lockedawayinitsoldest libraries.Kindredwith high levels ofChurch Influence dareto use thispower to theirown ends.Most Kindred possessing levelof Influence this highcan still remember the foundationsofsome ofthesefaiths.
-
-Cost
+The Church is one of the most ancient bulwarks of Kindred Influence and the mostdangerous.Inthe World of Darkness, the Church stillkeepsthe truth about the supernatural lockedawayinitsoldest libraries.Kindredwith high levels of Church Influence dareto use this power to the irown ends.Most Kindred possessing levelof Influence this highcan still remember the foundationsofsome of the sefaiths. Cost
 
 ## Effect
 
-Identify a church memberwith TrueFaith Stage a“miraculous”event that gains the un official approval of theChurch
+Identify a church memberwith True Faith Stage a“miraculous”event that gains the un of ficial approval of the Church
 
 Excommunicatealaymemberofthechurch
 
@@ -625,93 +190,62 @@ Have a churchmarriage annulled or dissolved
 
 Find an experienced Church-associated hunter
 
-Pose asabishoporothermajorregional religious
-
-figure
+Pose asabishoporothermajorregional religious figure
 
 Nominate a member of the clergy for elevation
 
-Stage a“miracle” that gains official recognition
+Stage a“miracle” that gains of ficial recognition by the Church
 
-by the Church
+Create or destroy a major cathedral or temple with inthecity
 
-Create or destroy a major cathedral or temple
-
-withinthecity
-
-Exertminor influence over nationwide Church
-
-policy
+Exertminor influence over nationwide Church policy
 
 Have amember of the clergy excommunicated
 
-Exert major influence over nationwide Church
+Exert major influence over nationwide Church policy
 
-policy
+Discover the secrets of the modern Inquisition
 
-Discover thesecrets of themodern Inquisition
+## FINANCE the higher levels of Finance become a dizzying gamefor Kindred.The Cainiteelderswhoweremerchant princes duringthe Renaissance are in awe of the stockmarket, letalonethepaceofelectronicmoneytransfers.Inthisday and age, it takesvery energetic Kindred tostay on top of the financial world. Manyelders delegate this power toyounger Kindred.Asaconsequence, this is oneareawhereancillaecantrulytastepower.Elders, confidentoftheirleash upon the seupstarts, all owtheirchildertoplay—as longastheygettheresults they desire. | Cost | Effect |
+| 6 | Obliterateall savings and creditforoneindividual (destroy onelevelof Resources) Control the price of aminorcommodity |
+| | Perform insider trading ($10,000) |
+| 7 | Exertminorinfluenceoverlocal stockprices Purchaseaminornationwidecorporation |
+| 8 | Control the price of amajor commodity Causeinflationordepressionforaregional are a |
+| 6 | Siphon of f all profits from aminor corporation ($100,000) |
+| | Own amajornationwidecorporation Exertmajorinfluence over local stockprices |
+| 10 | Createa stockmarketcrash Influencenationwide economictrends |
+| | Makesomeoneaninstantmillionaire($1,0oo,0o) |
 
-## FINANCE
-
-Thehigher levels ofFinance become a dizzying gameforKindred.The Cainiteelderswhoweremerchant princes duringtheRenaissance arein awe ofthestockmarket,letalonethepaceofelectronicmoneytransfers.Inthisday andage,it takesvery energeticKindred tostay on top of thefinancial world. Manyelders delegate thispower toyoungerKindred.Asaconsequence,this isoneareawhereancillaecantrulytastepower.Elders,confidentoftheirleash upontheseupstarts,allowtheirchildertoplay—as longastheygettheresults they desire.
-
-| Cost   | Effect                                                                                                             |
-|--------|--------------------------------------------------------------------------------------------------------------------|
-| 6      | Obliterateall savings and creditforoneindividual (destroy onelevelof Resources) Control theprice ofaminorcommodity |
-|        | Perform insider trading ($10,000)                                                                                  |
-| 7      | Exertminorinfluenceoverlocal stockprices Purchaseaminornationwidecorporation                                       |
-| 8      | Control theprice of amajor commodity Causeinflationordepressionforaregional area                                   |
-| 6      | Siphon off all profits fromaminor corporation ($100,000)                                                           |
-|        | Own amajornationwidecorporation Exertmajorinfluence over local stockprices                                         |
-| 10     | Createa stockmarketcrashInfluencenationwide economictrends                                                         |
-|        | Makesomeoneaninstantmillionaire($1,0oo,0o)                                                                         |
-
-## HEALTH
-
-Themodern world hasmore threatening things in it thanKindred.The unseenvirus,thepolluted air sometimes it seems like theEarth itself has becomeavampire,suckingthelifeoutofthepeople.Intruth,itistheKindred who dominate this influencewhomake theEarth bleed for them.Ancient vampiresscarcelyunderstandwhy youngerKindredfearthosewhocontrol the health ofa city.Theneonates,broughtupinaworld aware of theozone layer and AIDS,knowbetter.
-
-|   Cost | Effect                                                                                                                                                                                                                                          |
-|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|      6 | Cause a major shortageof bloodwithin an area Prevent ambulancesfromresponding to amajor disaster                                                                                                                                                |
-|      7 | Contaminatetheentirebloodsupplyforonemi norhospital Locate samples of aminorinfectiousdisease (influenza)                                                                                                                                       |
-|      8 | Causeamajor shortage of one type ofmedicine (insulin,penicillin)                                                                                                                                                                                |
-|      9 | Perform major orillegal experimentation ona largenumberofpatients Shutdown asmall hospital permanently Contaminate theblood supplyforan entire city Shut down a major hospital permanently Locate samples ofa majorinfectious disease (anthrax) |
-|     10 | Shut down all medical care in a cityfor an entire day Direct genetic engineering projects                                                                                                                                                       |
+## HEALTH the modern world has more threatening things in it than Kindred.The unseenvirus, the polluted air sometimes it seems like the Earth itself has becomeavampire, suckingthelifeoutofthepeople.Intruth, itisthe Kindred who do minate this influencewhomake the Earth bleed for the m.Ancient vampiresscarcelyunderstandwhy you nger Kindredfearthosewhocontrol the health of a city.the neonates, broughtupinaworld aware of the ozone layer and AIDS, knowbetter. | Cost | Effect |
+| 6 | Cause a major shortageof bloodwithin an are a Prevent ambulancesfromresponding to amajor disaster |
+| 7 | Contaminatetheentirebloodsupplyforonemi norhospital Locate samples of aminorinfectiousdisease (influenza) |
+| 8 | Causeamajor shortage of one type of medicine (insulin, penicillin) |
+| 9 | Perform major or illegal experimentation ona largenumberofpatients Shutdown asmall hospital permanently Contaminate the blood supplyforan entire city Shut do wn a major hospital permanently Locate samples of a majorinfectious disease (anthrax) |
+| 10 | Shut do wn all medical care in a cityfor an entire day Direct genetic engineering projects |
 
 ## HIGH SOCIETY
 
-| Cost   | Effect                                                                               |
-|--------|--------------------------------------------------------------------------------------|
-| 6      | Own asmallbutinfluential theaterorgalleryinthe city                                  |
-|        | Give someone his or her“15 minutes of fame” (create one level ofFamefor one session) |
-| 7      | Bring a major traveling concertor play tothe city                                    |
-|        | Destroy thecareer ofaminor establishedcelebrity (destroy one level of Fame)          |
+| Cost | Effect |
+| 6 | Own asmallbutinfluential the aterorgalleryinthe city |
+| | Give someone his or her“15 minutes of fame” (create one level of Famefor one session) |
+| 7 | Bring a major traveling concertor play tothe city |
+| | Destroy the career of aminor establishedcelebrity (destroy one level of Fame) |
 
-This Influence tends to have younger Kindred in its upper reaches than most other spheres of Influence.Partially,this isbecause of theMasquerae; it's hard be a major celebrity when you only work nights.More to the point, Kindredknow that their greatest strength lies in the shadowsnot in the spotlight.ThoseKindred who remain in this area ofInfluence become the purveyors of famerather than its object.Theymay not be thefaces the public sees in the tabloids,butthey certainly choosewhowill appear on them.
+This Influence tends to have you nger Kindred in its upper reaches than most other spheres of Influence.Partially, this is because of the Masquerae; it's hard be a major celebrity when you only work nights.More to the point, Kindredknow that the ir greatest strength lies in the shadowsnot in the spotlight.Those Kindred who remain in this are a of Influence become the purveyors of famerather than its object.the ymay not be the faces the public sees in the tabloids, but they certainly choosewhowill appear on the m. Appoint anyone as amember of the city's elite social circles
 
-<!-- image -->
+Make someone aminorcelebrity(create onelevel of Fame)
 
-Appoint anyone as amember of the city's elite social circles
+Becomeamajorcelebrity(grant you rselftwolevels of Fame)
 
-Make someone aminorcelebrity(create onelevel ofFame)
+Own a largegallery or the atre in the city
 
-Becomeamajorcelebrity(grant yourselftwolevels ofFame)
-
-Own a largegallery ortheatre in the city
-
-Make someoneamajorcelebrity(createtwolevels ofFame)
+Make someoneamajorcelebrity(createtwolevels of Fame)
 
 Influence nationwidefashion trends
 
-Destroy a major celebrity’s career(destroy two levelsofFame)
+Destroy a major celebrity’s career(destroy two levelsof Fame)
 
-## IWANNALIVEFOREVER!
-
-A great deal of theHigh Society Influencerevolves around the granting or destroying theFameBackground.TheStoryteller needs to watch this influence closely to make sure that it doesn't get abused.As a rule of thumb,if a character receives a level ofFame Background through the use of this Influence,the recipient must purchase the Backgroundwith earned experience as soon as possible.If the character chooses not to do so,the extra levels of Fame are automatically removed.However,thepersonusingHighSociety Influencemay choose tokeepemployinghisInfluencetograntFame,cssentiallythrustingthe character into the limelight despite his wishes.This can be a cunning trap for manyKindred...
-
-The same rule applies to those Influences that grant Resources, Allies or other Backgrounds:The character receiving the Background must pay foritwith experience assoon aspossible,ortheBackground fades away.
-
-Own the central gallery or theater within the city Create a national fashion or trend
+## IWANNALIVEFOREVER! A great deal of the High Society Influencerevolves around the granting or destroying the Fame Background.the Storyteller needs to watch this influence closely to make sure that it do esn't get abused.As a rule of thumb, if a character receives a level of Fame Background through the use of this Influence, the recipient must purchase the Backgroundwith earned experience as soon as possible.If the character chooses not to do so, the extra levels of Fame are automatically removed.how ever, the personusing High Society Influencemay choose tokeepemployinghis Influencetogrant Fame, cssentiallythrustingthe character into the limelight despite his wishes.This can be a cunning trap for many Kindred... The same rule applies to those Influences that grant Resources, all ies or other Backgrounds:The character receiving the Background must pay for itwith experience assoon aspossible, or the Background fades away. Own the central gallery or the ater with in the city Create a national fashion or trend
 
 INDUSTRY
 
@@ -719,13 +253,11 @@ Cost
 
 Effect
 
-Attract amajor heavy industry to the area Illegally dump large amounts of toxic waste (and not get caught)
+Attract amajor heavy industry to the are a Illegally dump large amounts of toxic was te (and not get caught)
 
-This is anotherareain which the eldest and mostpotentKindred are fallingbehind.MostelderKindredarefamiliarwithaworldwhere steel and stone arethe units of power;they are unfamiliarwith a placewhere transactionscanliterallymoveatthespeedof light,andsiliconisthemasterofthe earth.As younger ancillae clamor to control this Influence,the elders look to control these eager youngKindred rather than the actual tools of industry.
+This is anotherareain which the eldest and mostpotent Kindred are fallingbehind.Mostelder Kindredarefamiliarwithaworldwhere steel and stone are the units of power;they are unfamiliarwith a placewhere transactionscanliterallymoveatthespeedof light, and siliconisthemasterofthe earth.As you nger ancillae clamor to control this Influence, the elders look to control the se eager you ng Kindred rather than the actual tools of industry. amaril
 
-amaril
-
-Siphon off company profits ($5,000)
+Siphon of f company profits ($5,000)
 
 Eliminate or start a union in any company
 
@@ -733,11 +265,11 @@ Arrange for amajor ecological disaster
 
 Fatallysabotageamajorconstructionproject
 
-Own amajor heavy industry or constructionfirm in the area
+Own amajor heavy industry or constructionfirm in the are a
 
 Cause a major strike
 
-Fatally sabotage an entire product of heavy indus try ormachinery
+Fatally sabotage an entire product of heavy indus try or machinery
 
 Influence nationwide labormovements
 
@@ -747,31 +279,21 @@ Cost
 
 Effect
 
-Bring any investigation short of a grand jury to a halt
-
-Forceaguiltyverdictonanymisdemeanor trial Appoint a statejudge
+Bring any investigation short of a grand jury to a halt for ceaguiltyverdictonanymisdemeanor trial Appoint a statejudge
 
 Have a lawyer disbarred
 
-Successfully sue anyone for major damages (destroyonelevelofResources)
+Successfully sue anyone for major damages (destroyonelevelof Resources) for ceaguiltyverdictonafelonytrial
 
-Forceaguiltyverdictonafelonytrial
+Control oneof the membersof the state Supreme Court
 
-Control oneof themembersof thestateSupreme Court
-
-Appoint orfire the city's DistrictAttorney
-
-Forceaguiltyverdictonamajororsensational felony trial
+Appoint or fire the city's District Attorney for ceaguiltyverdictonamajororsensational felony trial
 
 Rewrite state or local lawasyou seefit
 
-Atheart,manyCamarillaeldersarefondoflawandorderatleast,their versions of law andorder.Asaconsequence,manyelders atleast dabbleinthis sphereof Influence.The truly dedicated are notinterested injust manipulating the law; they want to shape it to fit their own desires. Perhaps the heavy influence ofKindred upon the lawis the reason most lawyers have such poor reputations.Then again,perhapsnot.Like does attract like,after all.
+Atheart, many Camarillaeldersarefondoflawandorderatleast, the ir versions of law and or der.Asaconsequence, manyelders atleast dabbleinthis sphereof Influence.The truly dedicated are not interested injust manipulating the law; they want to shape it to fit the ir own desires. Perhaps the heavy influence of Kindred upon the lawis the reason most lawyers have such poor reputations.the n again, perhapsnot.Like do es attract like, after all. ## MEDIA
 
-## MEDIA
-
-Controlling themediais one themost important aspects of theMasquerade.Consequently,althoughthisfield haschangedasfastas anythingelsein theInformationAge,theeldersoftheCamarillahavemadeaconcertedeffort tokeep abreast ofcurrent developments.TheInternet,however,remainsa chink in the Camarilla armor-one that the ancillae arehungry to exploit.
-
-Cost
+Controlling the mediais one the most important aspects of the Masquerade.Consequently, althoughthisfield has changedasfastas anythingelsein the Information Age, the eldersofthe Camarillahavemadeaconcertedeffort tokeep abreast of current developments.the Internet, how ever, remainsa chink in the Camarilla armor-one that the ancillae are hungry to exploit. Cost
 
 Effect
 
@@ -781,55 +303,43 @@ Cause a minor media outlet to begin an investigation
 
 Destroyaminor newspaperorTV station Writesmallnationwidestoriessuccessfully
 
-<!-- image -->
-
-|    | Manufacture a major scandal (destroy one level of Fame)   |
-|----|-----------------------------------------------------------|
-| 8  | Cause a major media outlet to begin an investigation      |
-|    | Kill nationalnews stories before theyget off the          |
-| 9  | Broadcastfakeregional stories                             |
-|    | Destroy amajor newspaper or TV station                    |
-| 10 | Create a fakemajornational news story                     |
-|    | Create anews blackout over an entire city                 |
+| | Manufacture a major scandal (destroy one level of Fame) |
+| 8 | Cause a major media outlet to begin an investigation |
+| | Kill nationalnews stories before the yget of f the |
+| 9 | Broadcastfakeregional stories |
+| | Destroy amajor newspaper or TV station |
+| 10 | Create a fakemajornational news story |
+| | Create anews blackout over an entire city |
 
 ## OCCULT
 
-| Cost   | Effect                                                                        |
-|--------|-------------------------------------------------------------------------------|
-| 6      | Createyour ownBasicritual                                                     |
-|        | Found a local cult (grant one level of Allies Background)                     |
-|        | Learn truthful lore concerning Lupines or changelings                         |
-| 7      | Createyour ownIntermediate ritual                                             |
-|        | Accessmajormagical items                                                      |
-| 8      | Learn truthful lore concerningwraiths or spirits Createyour ownAdvancedritual |
-|        | Found a regional cult (grant two levels of Allies                             |
-|        | Background)                                                                   |
-|        | Locate and bringa specific hedgemage ormedium toyou                           |
-| 9      | Access legendary magical items                                                |
-|        | Locate and bring a specific Lupine or changeling to you                       |
-| 10     | Locateanentire copyof theBookof Nodorthe true lair of aMethuselah             |
-
-Forobviousreasons,theoccultisasubjectnearanddearto theKindred in general. Influence in this area tends to provide deeper information as opposed to greater power—themoreInfluence aKindred has within this realm,thecloserhecomes tothetruth,and thefewercharlatans hehasto deal with.The oldest and most powerful Kindred dominate this area.
-
-## POLICE
+| Cost | Effect |
+| 6 | Createyour own Basicritual |
+| | Found a local cult (grant one level of all ies Background) |
+| | Learn truthful lore concerning Lupines or changelings |
+| 7 | Createyour own Intermediate ritual |
+| | Accessmajormagical items |
+| 8 | Learn truthful lore concerningwraiths or spirits Createyour own Advancedritual |
+| | Found a regional cult (grant two levels of all ies |
+| | Background) |
+| | Locate and bringa specific hedgemage or medium toyou |
+| 9 | Access legendary magical items |
+| | Locate and bring a specific Lupine or changeling to you |
+| 10 | Locateanentire copyof the Bookof Nodorthe true lair of a Methuselah | for obviousreasons, the occultisasubjectnearanddearto the Kindred in general. Influence in this are a tends to provide deeper information as opposed to greater power—the more Influence a Kindred has with in this realm, the closerhecomes tothetruth, and the fewercharlatans hehasto deal with.The oldest and most powerful Kindred do minate this are a. ## POLICE
 
 Cost
 
-It is rare tofind elderKindred in the upper echelons,but those that are oftenquitefirmlyentrenched.When protectedbythe"blue wall,"thereis very little theseKindred can't accomplish.As crime-fightingmoves into more high-techsphereshowever,someeldersprefertouse ancillaeastheirpaws.
+It is rare tofind elder Kindred in the upper echelons, but those that are of tenquitefirmlyentrenched.When protectedbythe"blue wall,"the reis very little the se Kindred can't accomplish.As crime-fightingmoves into more high-techsphereshowever, someeldersprefertouse ancillaeastheirpaws. Effect
 
-Effect
-
-Control one aspect of a large city precinct (homicide,dispatch)
+Control one aspect of a large city precinct (homicide, dispatch)
 
 Appropriate contraband or drugs from the evidenceroom
 
-CallforSWATraids
-
-Havefree accesstoall policefacilities
+CallforSWATraids have free accesstoall policefacilities
 
 Have the crime lab“lose”evidence
 
-Completelycontrol thepolicedepartmentofa suburborsmall town
+Completelycontrol the policedepartmentofa suburborsmall town
 
 Have people extradited across state lines
 
@@ -837,21 +347,16 @@ Have police chiefsfired
 
 Completecontrol of alargecity'spolicenetwork
 
-## POLITICAL
-
-Thisis anotherhigh-profileInfluencethatmanyKindred tendtoavoid at the upper levels.Although younger ancillaerecognize the dizzying heights of power that suchinfluence canbring,mostKindred prefer toworkbehind the scenes,appointingtheleadersofmenratherthan servingthecommongood themselves.
-
-| Cost   | Effect                                                                  |
-|--------|-------------------------------------------------------------------------|
-| 6      | Enactmajorlegislationonthelocal level                                   |
-|        | Get your candidate into a major local office (i.e., mayor ofamajorcity) |
-| 7      | Destroy the career of amajor local politician                           |
-| 8      | Get your candidate into a majorfederal office(i.e., senator)            |
-|        | Enactminornational legislation                                          |
-| 9      | Embezzle taxpayer money ($10,000)                                       |
-|        | Engineer a major political scandal                                      |
-| 10     | Give major support to a national political candidate                    |
-|        | Propose major national legislation                                      |
+## POLITICAL this is anotherhigh-profile Influencethatmany Kindred tendtoavoid at the upper levels.Although you nger ancillaerecognize the dizzying heights of power that suchinfluence can bring, most Kindred prefer toworkbehind the scenes, appointingtheleadersofmenratherthan servingthecommongood the mselves. | Cost | Effect |
+| 6 | Enactmajorlegislationonthelocal level |
+| | Get you r can did ate into a major local of fice (i.e., mayor of amajorcity) |
+| 7 | Destroy the career of amajor local politician |
+| 8 | Get you r can did ate into a majorfederal of fice(i.e., senator) |
+| | Enactminornational legislation |
+| 9 | Embezzle taxpayer money ($10,000) |
+| | Engineer a major political scandal |
+| 10 | Give major support to a national political can did ate |
+| | Propose major national legislation |
 
 ## STREET
 
@@ -861,1332 +366,425 @@ Effect
 
 Completelydominateall aspectsof a housing projectorslum
 
-Marka specificpersonwho enters adowntown areaforharassment
+Marka specificpersonwho enters adowntown are aforharassment
 
-Locate exotic weaponry(bombs,sniperrifles) Start a small riot
+Locate exotic weaponry(bombs, sniperrifles) Start a small riot
 
-Those who possesses ahighlevelof this Influenceowntheheart and soul of their home cities.What anyone in their town knows, they know.This Influenceisnotbroad nscope,butit isverydeep.Anelderwhocontrolshe streetsofacitymaynotappeartobepowerfulbutthosewhocrosshimwillfind every hand in the city turned against them.
-
-<!-- image -->
-
-| 8   | Completelydominate all aspectsof a downtown neighborhood                                                   |
-|-----|------------------------------------------------------------------------------------------------------------|
-| 9   | Control a large gang Locate unique or customized weaponry Marka specificpersonwho entersdowntown for death |
-| 10  | Completelydominateallaspectsofthedowntown ofa major city                                                   |
-|     | Start a major citywide riot                                                                                |
+Those who possesses ahighlevelof this Influenceowntheheart and soul of the ir home cities.What anyone in the ir town knows, they know.This Influenceisnotbroad nscope, but it is verydeep.Anelderwhocontrolshe streetsofacitymaynotappeartobepowerfulbutthosewhocrosshimwillfind every hand in the city turned against the m. | 8 | Completelydominate all aspectsof a do wntown neighborhood |
+| 9 | Control a large gang Locate unique or customized weaponry Marka specificpersonwho entersdowntown for death |
+| 10 | Completelydominateallaspectsofthedowntown of a major city |
+| | Start a major citywide riot |
 
 ## TRANSPORTATION
 
-|   Cost | Effect                                                                                                                                                                                 |
-|--------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|      6 | Bar apersonfrom entering orleavinga cityvia public transportation Attract a major transportation outlet (i.e.,air                                                                      |
-|      7 | port)toyourcity Halt all public transportation and cargo shipping toa small town Siphon offprofits from a shipping or trucking                                                         |
-|      8 | Bara specificformofcargofromenteringor leavinga city                                                                                                                                   |
-|      9 | Isolateasmalltownfromanyform oftranspor tation(includinghighways) Cause amajor transportation disaster Destroy a major transportation outlet                                           |
-|     10 | Completely dominateone aspectofregional trans portation (airplanes,trucking, shipping) Prevent anyonefromleavingor entering a city via all forms of transportation(includinghigh ways) |
-
-ThisInfluence still has a lot of favor within elder circles.Kindred can strangle an entire city with this influence,or they canmake a community thrive.There has been substantial change in this environment over the centuries,butit hasbeenslowenoughfortheelderstokeeppaceandmaintain their hold onwho enters their cities or leaves them.
-
-## UNDERWORLD
-
-TheinceptionoftheMafiadatesbacktotheRenaissance,anditsentirely likely thataKindred thought of theideafirst.Several clans ofKindred have sparredovercontroloftheMafiaforcenturies,fuelinganalready-volatilemix. The potential forviolence,blood and easy answers tohardproblemsbringsa never-endingstreamof newinvestors inthis ancientprofession.TheCamarilla has a solid foothold in the upper reaches of thisInfluence,but that could change at any moment.In particular,the arrival of theEasternvampires
-
-<!-- image -->
-
-threatens the small grasp someKindred have over thetongs and triads in the various Chinatowns.
-
-| Cost   | Effect                                                                             |
-|--------|------------------------------------------------------------------------------------|
-| 6      | Locate exoticweaponry (bombs,sniperrifles)                                         |
-|        | Contract a professional hit                                                        |
-| 7      | Launder money                                                                      |
-|        | Supply the drug needs of a large city                                              |
-| 8      | Control the head of a small crimefamily                                            |
-|        | Locateuniqueorcustomweaponry                                                       |
-| 9      | Put a price on anyone's head                                                       |
-|        | Start amobwar                                                                      |
-| 10     | Control theheadofa largecrimefamily                                                |
-|        | Stagea public assassination,terrorist actor shoot ing spree (and get away with it) |
+| Cost | Effect |
+| 6 | Bar apersonfrom entering or leavinga cityvia public transportation Attract a major transportation outlet (i.e., air |
+| 7 | port)toyourcity Halt all public transportation and cargo shipping toa small town Siphon of fprofits from a shipping or trucking |
+| 8 | Bara specificformofcargofromenteringor leavinga city |
+| 9 | is olateasmalltownfromanyform of transpor tation(includinghighways) Cause amajor transportation disaster Destroy a major transportation outlet |
+| 10 | Completely do minateone aspectofregional trans portation (airplanes, trucking, shipping) Prevent anyonefromleavingor entering a city via all for ms of transportation(includinghigh ways) | this Influence still has a lot of favor with in elder circles.Kindred can strangle an entire city with this influence, or they can make a community thrive.the re has been substantial change in this environment over the centuries, but it has beenslowenoughfortheelderstokeeppaceandmaintain the ir hold onwho enters the ir cities or leaves the m. ## UNDERWORLD the inceptionofthe Mafiadatesbacktothe Renaissance, and itsentirely likely that a Kindred thought of the ideafirst.Several clans of Kindred have sparredovercontrolofthe Mafiaforcenturies, fuelinganalready-volatilemix. The potential for violence, blood and easy answers tohardproblemsbringsa never-endingstreamof newinvestors inthis ancientprofession.the Camarilla has a solid foothold in the upper reaches of this Influence, but that could change at any moment.In particular, the arrival of the Easternvampires threatens the small grasp some Kindred have over the tongs and triads in the various Chinatowns. | Cost | Effect |
+| 6 | Locate exoticweaponry (bombs, sniperrifles) |
+| | Contract a professional hit |
+| 7 | Launder money |
+| | Supply the drug needs of a large city |
+| 8 | Control the head of a small crimefamily |
+| | Locateuniqueorcustomweaponry |
+| 9 | Put a price on anyone's head |
+| | Start amobwar |
+| 10 | Control the headofa largecrimefamily |
+| | Stagea public assassination, terrorist actor shoot ing spree (and get away with it) |
 
 ## UNIVERSITY
 
-The quiet halls of academia are familiar to many elders.Many former monkswho,whentheybreathed,tutoredthesonsofobilityseektorecreate their pasts in today's halls of higherlearning.As an elder gainsmore andmore powerin thisInfluence,her petcampusbeginstoreflectherpersonality.The wholecollegebecomes herpersonal haven,andeverythingonitherproperty.
+The quiet halls of academia are familiar to many elders.Many for mer monkswho, when the ybreathed, tutoredthesonsofobilityseektorecreate the ir pasts in today's halls of higherlearning.As an elder gainsmore and more powerin this Influence, her petcampusbeginstoreflectherpersonality.The who lecollegebecomes herpersonal have n, and everythingonitherproperty. | Cost | Effect |
+| 6 | Falsifya graduate degree |
+| | Create a college class of you r choice |
+| | Discredittheheadofacollegedepartment |
+| 7 | Falsify a Ph.D. |
+| | Know a contact or twowith high levelsof Ability or esotericknowledge |
+| | Discredit the dean of a college |
+| 8 | Appoint the dean of a college |
+| | Funnel university funds in you r direction ($1,000) |
+| 9 | Direct anentire university department toresearch a specificproblem |
+| | Have a research assistant attached toyour service indefinitely(grant one level of all ies) |
+| 10 | Destroy or discredit anentirecollege |
 
-| Cost   | Effect                                                                                    |
-|--------|-------------------------------------------------------------------------------------------|
-| 6      | Falsifya graduate degree                                                                  |
-|        | Create a college class of your choice                                                     |
-|        | Discredittheheadofacollegedepartment                                                      |
-| 7      | Falsify a Ph.D.                                                                           |
-|        | Know a contact or twowith high levelsof Ability or esotericknowledge                      |
-|        | Discredit the dean of a college                                                           |
-| 8      | Appoint the dean of a college                                                             |
-|        | Funnel university funds in your direction ($1,000)                                        |
-| 9      | Direct anentire university department toresearch a specificproblem                        |
-|        | Have a research assistant attached toyour service indefinitely(grant one level of Allies) |
-| 10     | Destroy or discredit anentirecollege                                                      |
+In the earliest years of the Tremereclan, the Warlockswere assaulted on all sides.Ancientvampires, enraged at the usurpers'the ft of immortality, circled the newclanlikeapackofwolves.Onlywith strongalliescouldthe fledglingvampireshopeto survive the irfirstnights.the seallieswould have tobepowerful, vigilantandutterlyloyal.Intimatewithbetrayal, the Tremere knew that any all ies the yfound had tobebeyondreproach. for nearlya thousandyears, the Gargoyleshavefaithfully served the ir Tremeremasters.Inrecentnights, how ever, somethinghashappened, and somehowa few Gargoyleshavemanaged to sliptheirleashes.the yhave becomefreecreatures, unfettered bythe Warlockschains.owthe Garoyle Clanissplitintotwocamps.the first, called Slavesstillfollowtheorderf the ir Tremeremasters.The second, who callthemselves Freemen, nolonger servethe Tremere, but are of tenwithout places toroost.Like Frankenstein's monster, the Gargoyleswandertheearthlookingforaplaceinaworld that treats the m as abominations. the Tremerecouldfindno such all ies anywhere on Earth, so the ycreated the m.After years of experimentation, a new rite was created that would transformcaptive Tzmisce, Gangrel and Nosferatu into amonstrous bloodline. the senewhorrors had the strength, tenacity and patienceof stone.the yhad the featuresofdemonsandthewingsofnightmares.Mostimportantly, the ywere easyforthe Tremereto do minateintosubmission.the sewerethe Gargoyles, and the ir existenceguaranteed the survival of the you ng Warlock clan. Oddly, the Free Gargoyles have chosen to remain in the Camarilla. Whether this choice is duetoa needfor or der, a desireto spite the for mer masters or simplyforce of habit is not known.But just as the Gargoyles once seemedunshakably loyal tothe Tremere, the Free Gargoyles seemutterly loyal to the Camarilla as a who le.For now. In recent years, Gargoyles have taken to embracing mortals, of ten by impulseor accident.they still perform the ancientrites, how ever, and new Gargoyles are occasionally created from Nosferatu or Tzmisce stock.Whether Embraced or created, a Gargoyle's past is lost to her once she joins the bloodline Many Gargoylespursuetheirlostidentityobsessively, whileothers are gladforthenewstart. In the ir own way, the Gargoyles are even more alien than the hideous Nosferatu.they are shunned by both Kindred and kine asmonsters that have no ties to humanity at all, and the process of creation, which wipes away the ir memoriesisnohelp.ost Gargoylesareasunrufledbythisasbefitstheirstoic natures.how ever, even the hard shell of a Gargoylecan crack, and many are knowntosecretly yearnforthetouchofkindnessor friendshipintheirlonelylives. Most playerswillwant toportraya Free Gargoyle.Whilea Slave Gargoyle can be an interesting character for awhileand anescape chronicle is always entertainingeventually, beingat the continuous beckandcallof the entire Tremere clan can getboring.Slave Gargoyles are infar deeper thrall to the Tremerethan anyghoul, and blindobediencerarelymakesforaninteresting long-term character. Roleplaying Hints:Likethestoneyouembody, you possessgreat patience and stoicism.The Free Gargoyles won the ir liberty only after years of careful planning; they are not going to risk that freedom on has ty action now.You weighandconsderachactionbtwhenlanningisdoneucanacti remaaldvguwstat when you'reon course, slowing do wn is evenmore difficult. Disciplines:for titude, Potence, Visceratika, Flight
 
-In the earliest years of theTremereclan,theWarlockswere assaulted on all sides.Ancientvampires,enraged at theusurpers'theft ofimmortality, circled thenewclanlikeapackofwolves.Onlywith strongalliescouldthe fledglingvampireshopeto survive theirfirstnights.Theseallieswould have tobepowerful,vigilantandutterlyloyal.Intimatewithbetrayal,theTremere knew that any allies theyfound had tobebeyondreproach.
+Advantages:All Gargoyles automatically begin the game with the first levelof Flghtorre.Inaditn, the Gargoylesareaturalguards, n and spies.As a consequence, they posses a free level of Awareness. Disadvantages: Gargoyles are hideous, misshapen monsters, even more alien in nature than the Nosferatu.No Gargoyle may possess Appearance related Social Traits suchas Aluring, Gorgeousor Seductivewithout calling upon special powers (such as Obfuscate）Furthermore, all Gargoyles suffer from the Negative Traits Repugnant or Bestial when ever the ir true for ms are apparent.the se Traits may not beremoved with Experience Traits or Free Traits.A Gargoyle can not initiate any Social Challenges in his true for m exceptforthepurposesof intimidation, althoughhemay defend against Social Challenges. The Gargoyles have a natural weakness built into the m by the ir Tremere masters:they easily succumb to do minate and other mind-controlling effects.All Gargoyles possess the Negative Trait Submissive x 2when attempting to resist do minate or any other mindcontrolling effects. Bloodlines:Tremere prefertocreate the ir Gargoyles from existing Kindred stock.The surge of competing strains of vitae and the magicaleffects of the transformationritualresultinwipingaway almost all traces of the new Gargoyle's old memories and leaving him as ablank slatetobe written upon.Free Gargoyleshave taken to Embracing new members into the bloodline; the process is only somewhat gentler for the m, as they still losemost of the ir pasts, but at least retain a vague sense of the ir for mer selves. Exact features of each Gargoyle's particular hideousness are dependentupon the combination of blood that created the Gargoyle's or iginal ancestor, whether Tzimisce-Nosferatu, Tzimisce-Gangrel or Gangrel Nosferatu. ## CHAPTER THREE: DISCIPLINES when avampire elderof suitablylowgenerationreaches a certain power level, her commandof Disciplinesbecomes farmorepowerful than that of lesservampires.While other Kindred are limited from reaching suchpotential by the irweakerblood, aneldercangainfarmorepotentpowers and evencreate powersofherown. Anyhigh-level powersmustalwaysbeclearedby the Storytellerbefore they are all owed in the game.It can not be stressed enough that a Storyteller who decides to let herplayers have suchpowers had bestbepreparedforthe consequences.It'samistaketo drop suchacharacter in the middleof the game and expect that hewon't make waves-hewill, and rightly so.In the hands of a player who wants to smack do wn those around him in or der to establish his reputation, suchpowerscanmeanaquickandbloodyendforthechronicle. The Storyteller is under no obligation what soeverto accept any Disciplines of this level to her game, even if she do es accept characters who have the potential to learn the m.Many of the powers here also require Storyteller assistance tobeproperlyused, and the Storyteller should prepareforthatin advance. Also, keep in mind that mastering the se powers takes a long time decadesat the very leastwhether that's simply the learning process or just findinga teacher.Regardless of how much experienceacharactermight have, it is extremely unlikely that hewill ever gainmore than one Discipline of this level in game (unless the chronicle fast-for wards through the years between sessions).not e that a character can learn several powers from the same power level-for exampletisnotmpossibleforacharactertolearn severalelerlevel Obfuscate powers if he has the experience and the time to do so. Dlnes
 
-Fornearlya thousandyears,the Gargoyleshavefaithfully served their Tremeremasters.Inrecentnights,however,somethinghashappened,and somehowa fewGargoyleshavemanaged to sliptheirleashes.Theyhave becomefreecreatures,unfettered bytheWarlockschains.owtheGaroyle Clanissplitintotwocamps.Thefirst,calledSlavesstillfollowtheorderf theirTremeremasters.The second,who callthemselvesFreemen,nolonger servetheTremere,but are oftenwithout places toroost.LikeFrankenstein's monster,theGargoyleswandertheearthlookingforaplaceinaworld that treats them as abominations.
+## CREATIVEINSANITY the Disciplines that follow should n'tbe taken as the only avail able options;rather, they are examples of what kindofpower can be achieved.It'snot uncommon for an ancientvampire to have highly personalized Disciplines.Once an cldervampirehas learned the five basicpowers of anygiven Discipline, hemay start creating hisown.At that point, hehasenoughunderstandingof the Discipline'snature that he no longer requires a teacher.That said, having a teacher may certainlyhelp-after all, inventingsuch abilities isn't quite assimple as some might think. The Storyteller should bear in mind that this may well be an invitation to disastersome playerswill invariably try to sneak some grossly overpowered stuff past the Storyteller. Storytellers should considerthisofficialpermissiontomercilesslystompsuchpowersinto the ground, and squeezethelayersnosewithaparticularlynastykung fu grip until he repents his powergaming ways.It's harsh, but it's the only way. Some Disciplines have more powers listed than others.This do esn't mean that certain Disciplines are moreversatile than othersrather, itreflects the fact that certain Disciplines have better-known applications.Also, some Disciplines do not go all the way up to Methuselah level.This is because the bloodline has noknownmembersof lowenough generation todeveloppowers of such magnitude. ## EXPERIENCE COSTS
 
-TheTremerecouldfindno such allies anywhere onEarth,so theycreated them.After years of experimentation,a new rite was created that would transformcaptiveTzmisce,Gangrel andNosferatu intoamonstrous bloodline. Thesenewhorrors had the strength,tenacity and patienceof stone.Theyhad thefeaturesofdemonsandthewingsofnightmares.Mostimportantly,theywere easyfortheTremeretoDominateintosubmission.TheseweretheGargoyles,and their existenceguaranteed the survival of theyoungWarlock clan.
-
-Oddly, the Free Gargoyles have chosen to remain in the Camarilla. Whether thischoice isduetoa needfor order,a desireto spite theformer masters or simplyforce of habit isnotknown.But just as theGargoyles once seemedunshakably loyal totheTremere,theFreeGargoyles seemutterly loyal to theCamarilla as a whole.For now.
-
-In recent years,Gargoyles have taken to embracing mortals,often by impulseor accident.They still perform the ancientrites,however,andnew Gargoyles areoccasionally created fromNosferatu orTzmisce stock.Whether Embraced or created,a Gargoyle's past is lost to her once she joins the bloodlineManyGargoylespursuetheirlostidentityobsessively,whileothers aregladforthenewstart.
-
-In their own way, the Gargoyles are even more alien than the hideous Nosferatu.They are shunned by bothKindred andkine asmonsters that have no ties to humanity at all,and the process of creation,which wipes away their memoriesisnohelp.ostGargoylesareasunrufledbythisasbefitstheirstoic natures.However,even thehard shell ofa Gargoylecan crack,and many are knowntosecretly yearnforthetouchofkindnessor friendshipintheirlonelylives.
-
-Most playerswillwant toportrayaFreeGargoyle.WhileaSlaveGargoyle can be an interesting character forawhileand anescape chronicle isalways entertainingeventually,beingat thecontinuous beckandcallof theentire Tremere clan can getboring.Slave Gargoyles areinfar deeper thrall to the Tremerethan anyghoul,andblindobediencerarelymakesforaninteresting long-term character.
-
-RoleplayingHints:Likethestoneyouembody,youpossessgreat patience and stoicism.The Free Gargoyles won their liberty only after years of careful planning; they are not going to risk that freedom on hasty action now.You weighandconsderachactionbtwhenlanningisdoneucanacti remaaldvguwstat whenyou'reon course, slowing down is evenmore difficult.
-
-Disciplines:Fortitude,Potence,Visceratika,Flight
-
-Advantages:All Gargoyles automatically begin the game with thefirst levelofFlghtorre.Inaditn,theGargoylesareaturalguards,n and spies.As a consequence, they posses a free level of Awareness.
-
-Disadvantages: Gargoyles are hideous,misshapen monsters,even more alien in nature than the Nosferatu.No Gargoyle may possess Appearance relatedSocialTraits suchasAluring,GorgeousorSeductivewithout calling upon special powers (such as Obfuscate）Furthermore, all Gargoyles suffer from the Negative Traits Repugnant or Bestial whenever their true forms are apparent.These Traits may not beremoved with ExperienceTraits orFree Traits.A Gargoyle cannot initiate any Social Challenges in his true form exceptforthepurposesof intimidation,althoughhemay defend against Social Challenges.
-
-The Gargoyles have a natural weakness built into them by their Tremere masters:They easily succumb to Dominate and other mind-controlling effects.All Gargoyles possess theNegativeTrait Submissive x 2when attempting to resist Dominate or any other mindcontrolling effects.
-
-Bloodlines:Tremere prefertocreate their Gargoyles from existingKindred stock.The surge of competing strains of vitae and themagicaleffects ofthe transformationritualresultinwipingaway almost all traces of the new Gargoyle's old memories and leaving him as ablank slatetobe written upon.Free Gargoyleshave taken to Embracing new members into the bloodline; the process is only somewhat gentler for them,as they still losemost of their pasts, but at least retain a vague sense of their former selves. Exact features of each Gargoyle's particular hideousness are dependentupon the combination of blood thatcreated the Gargoyle's original ancestor,whether Tzimisce-Nosferatu, Tzimisce-Gangrel or GangrelNosferatu.
-
-<!-- image -->
-
-## CHAPTER THREE: DISCIPLINES
-
-Whenavampire elderof suitablylowgenerationreaches a certain power level,her commandofDisciplinesbecomes farmorepowerful than thatof lesservampires.While otherKindred arelimited fromreaching suchpotential by theirweakerblood,aneldercangainfarmorepotentpowers andevencreate powersofherown.
-
-Anyhigh-level powersmustalwaysbeclearedby theStorytellerbefore they are allowed in the game.It cannot be stressed enough that a Storyteller whodecides to let herplayers have suchpowers had bestbepreparedforthe consequences.It'samistaketo drop suchacharacter in themiddleof thegame and expect thathewon't make waves-hewill,and rightly so.In the hands of a player who wants to smack down those around him in order to establish his reputation,suchpowerscanmeanaquickandbloodyendforthechronicle. The Storyteller is under no obligation whatsoeverto accept anyDisciplines of this level to her game,even if she does accept characters who have the potential to learn them.Many of the powers here also require Storyteller assistance tobeproperlyused,and theStoryteller shouldprepareforthatin advance.
-
-Also,keep in mind that mastering these powers takes a long time decadesat thevery leastwhether that's simply the learning process orjust findinga teacher.Regardless of howmuch experienceacharactermight have, it is extremely unlikely thathewill ever gainmore thanoneDiscipline of this level in game (unless thechronicle fast-forwards through the years between sessions).Note thata character can learn several powers from the same power level-forexampletisnotmpossibleforacharactertolearn severalelerlevel Obfuscate powers if he has the experience and the time to do so.
-
-Dlnes
-
-## CREATIVEINSANITY
-
-TheDisciplines that follow shouldn'tbe taken as the only avail able options;rather,they are examples ofwhat kindofpower can be achieved.It'snot uncommon foran ancientvampire to havehighly personalizedDisciplines.Once an cldervampirehas learned thefive basicpowers of anygivenDiscipline,hemay start creating hisown.At that point,hehasenoughunderstandingof theDiscipline'snature that he no longer requires a teacher.That said,having a teacher may certainlyhelp-after all,inventingsuch abilities isnt quite assimple as some might think.
-
-The Storyteller should bear in mind that this may well be an invitation to disastersome playerswill invariably try to sneak some grossly overpowered stuff past the Storyteller. Storytellers should considerthisofficialpermissiontomercilesslystompsuchpowersinto theground,and squeezethelayersnosewithaparticularlynastykung fu grip until he repents his powergaming ways.It's harsh,but it's the only way.
-
-SomeDisciplines havemore powers listed than others.This doesn't mean that certainDisciplines aremoreversatile thanothersrather,itreflects the fact that certain Disciplines have better-known applications.Also,some Disciplines do not go all the way up to Methuselah level.This is because the bloodline has noknownmembersof lowenough generation todeveloppowers of such magnitude.
-
-## EXPERIENCE COSTS
-
-| Superior Disciplines'experience costs are as follows:   | Superior Disciplines'experience costs are as follows:   | Superior Disciplines'experience costs are as follows:   |
-|---------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|
-| Level                                                   | Experiencepoint cost                                    | Generation requirement                                  |
-| Elder                                                   | 12                                                      | 8                                                       |
-| Master                                                  | 15                                                      | 7                                                       |
-| Ascendant                                               | 18                                                      | 6                                                       |
-| Methuselah                                              | 21                                                      | 5                                                       |
-
-Note that the actual costmaybe endupbeing of secondary concern to the player,as learning thesepowers alsorequires agreat dealof time. The specificsareuptotheStorytellrbutmasteringeventheElder-level powermaytakeadecadeortwo,andmastringaMethuselahlevelower can take an entire century.
-
-## ANIMALISM
+| Superior Disciplines'experience costs are as follows: | Superior Disciplines'experience costs are as follows: | Superior Disciplines'experience costs are as follows: |
+| Level | Experiencepoint cost | Generation requirement |
+| Elder | 12 | 8 |
+| Master | 15 | 7 |
+| Ascendant | 18 | 6 |
+| Methuselah | 21 | 5 | not e that the actual costmaybe endupbeing of secondary concern to the player, as learning the sepowers alsorequires agreat dealof time. The specificsareuptothe Storytellrbutmasteringeventhe Elder-level powermaytakeadecadeortwo, and mastringa Methuselahlevelower can take an entire century. ## ANIMALISM
 
 ## ELDERANIMALISM
 
 ## ANIMALSUCCULENCE
 
-Mostvampiresfind animal blood tasteless and less nourishingthanhuman blood,nottomention somewhat declasse.Thosewiththispowerhavelearned tomake greater use of such stuffs.
+Mostvampiresfind animal blood tasteless and less nourishingthanhuman blood, not tomention somewhat declasse.Thosewiththispowerhavelearned tomake greater use of such stuffs. Oncethisoweriarnedtisalwaysnffectimplyuteveryoneod Traityougain from ananimal counts astwo.how ever, this do esn'tmeanthat the natural desireforthebloodofhigherpreyis inanywaydiminishedquitethe opposite Afeeverythirdfeding fomananimalyoumaketatic Mental Challengewhenever you are confrontedwith the opportunity tofeed onhuman or Kindredblood.If you fail, you frenzy and attempt todrainthevessel.Asyou accumulateeedingoufindthardertresistthelureoffnervintage Atach additional thirdeding（the sixth, ninthet.）, you mustbidthreeextrarai on the challengeforexample, avampirewhohasfednine times on animal bloodmustbid sixextra Traits on the testwhen she discoversanunconscious Ventruejustwaitingtobefedfrom.Onceyouhavefrenziedandslakedyourthirst, you are considered tobe"starting over."
 
-Oncethisoweriarnedtisalwaysnffectimplyuteveryoneod Traityougain fromananimal counts astwo.However,thisdoesn'tmeanthat the natural desireforthebloodofhigherpreyis inanywaydiminishedquitethe oppositeAfeeverythirdfeding fomananimalyoumaketaticMental Challengewhenever you areconfrontedwith theopportunity tofeed onhuman orKindredblood.If youfail,youfrenzy and attempt todrainthevessel.Asyou accumulateeedingoufindthardertresistthelureoffnervintageAtach additional thirdeding（thesixth,ninthet.）,youmustbidthreeextrarai on the challengeforexample,avampirewhohasfednine times on animal bloodmustbid sixextraTraits on the testwhen she discoversanunconscious Ventruejustwaitingtobefedfrom.Onceyouhavefrenziedandslakedyourthirst, you are considered tobe"starting over."
+You can not gain extra Blood Traits from any supernatural creature in animal for m-this includeswerecreatures, Gangrel inanimal for m, pooka, etc. ## SHARED SOUL
 
-You cannot gain extra BloodTraits from any supernatural creature in animal form-thisincludeswerecreatures,Gangrel inanimal form,pooka,etc.
+Throughtheuseof this oweryoumayprobethemindof anyoneanimal with inreach.Shared Soulisa somewhatdifficultexperienceforbothparties, as both are completelyimmersed in the thoughts and emotionsof the other. With enougheffort and time, both participants can gaina complete understanding of the other's mind. Shared Soul's primary use is in extracting memoriesofa specificeventfrom the mind of ananimal, but some Gangrel have been known to use this power in search of enlightenment and understandingof the irown Beasts.how ever, tooclose abond can leaveboth parties entangled after the sharing ends, causing the vampire to adopt behavior patterns similar to those of the animal. Touse Shared Soulyoumust touchthentended subject, makea Mental Challenge and spend a will power Trait.If successful, you can nowmake contact with the animal'smind.For every memoryyouwish toread from the subject, you mustmake a Simple Test.For each success, you experience a memory.Failure means the contact is broken entirely and must be reestablishedbefore attempting again. If you wish to for m a complete bond with the animal, you must spend an entire minute touching the animal and concentrating, the n spend another will power Trait and make another Mental Challengewith the Storytellerf successfulyoucannowaccess all of the subject'smemorie at will and no longer need to maintain physical contact with the subject. the Siml Testsstillequiredbutfailuremerelymeansthatoumay again next turn with out penalty. The power remains active until you choose to terminate the connection. Diciplines
 
-## SHARED SOUL
-
-Throughtheuseof thisoweryoumayprobethemindof anyoneanimal withinreach.SharedSoulisa somewhatdifficultexperienceforbothparties, as both arecompletelyimmersed in the thoughts andemotionsof the other. With enougheffort and time,both participants cangaina complete understanding of the other's mind. Shared Soul's primary use is in extracting memoriesofa specificeventfrom themind of ananimal,butsome Gangrel have been known to use this power in search of enlightenment and understandingof theirownBeasts.However,tooclose abond can leaveboth parties entangled after the sharing ends, causing the vampire to adopt behavior patterns similar to those of the animal.
-
-TouseSharedSoulyoumust touchthentended subject,makeaMental Challenge and spend aWillpower Trait.If successful,you can nowmake contact with the animal'smind.For every memoryyouwish toread from the subject,you mustmake a Simple Test.For each success,you experience a memory.Failure means the contact is broken entirely and must be reestablishedbefore attempting again.
-
-If you wish to form a complete bond with the animal,youmust spend an entire minute touching the animal and concentrating,then spend anotherWillpowerTrait andmake anotherMental Challengewith the Storytellerf successfulyoucannowaccess allof the subject'smemorie at will and no longer need to maintain physical contact with the subject. TheSimlTestsstillequiredbutfailuremerelymeansthatoumay again next turn without penalty. The power remains active until you choose to terminate the connection.
-
-Diciplines
-
-At Storyteller discretion,failing theSimpleTestcan haveunexpected results. Some Cainites surge into frenzy or pick up some of the animal's characteristics.A rabid dog may send the vampire into a crazed bloodlust, whereas a field mousemay turn him shy and timid.
-
-## SpECIESSPEECH
-
-Youmust spend aWillpower Trait to establish contact with a group of animals andmakea StaticSocial Challenge against the group.TheStoryteller determines the difficulty,but most animal groups (particularly the"higher" animals）havethe equivalent of10to12Traits.Thereisno limit to howmany animals youcancommandwiththispower,but all theanimalsmustbeinyour presence.Youmayonlycommandonespecies atatime;forexample,ifyoure in a zoo,you cannot give orders to elephants and zebras at the same time.
-
-The power of FeralWhispers allows you to communicate with a single animalbutSpeciesSpeechgoes one stepbeyondit allowsyou to communicate withall themembersof aspeciesinyourpresence.It ismostoften used after a large group of the species hasbeen summoned with Beckoning.
-
-ApartfromthesedifferencesSpeciesSpeechfunctionslikeFeralWhispers.
-
-## MASTERANIMALISM
+At Storyteller discretion, failing the Simple Testcan have unexpected results. Some Cainites surge into frenzy or pick up some of the animal's characteristics.A rabid do g may send the vampire into a crazed bloodlust, where as a field mousemay turn him shy and timid. ## SpECIESSPEECH you must spend a will power Trait to establish contact with a group of animals and makea Static Social Challenge against the group.the Storyteller determines the difficulty, but most animal groups (particularly the"higher" animals）have the equivalent of10to12Traits.the reisno limit to how many animals you can commandwiththispower, but all the animalsmustbeinyour presence.you mayonlycommandonespecies atatime;for example, ifyoure in a zoo, you can not give or ders to elephants and zebras at the same time. The power of Feral Whispers all ows you to communicate with a single animalbut Species Speechgoes one stepbeyondit all owsyou to communicate with all the membersof aspeciesinyourpresence.It is mostoften used after a large group of the species has been summoned with Beckoning. Apartfromthesedifferences Species Speechfunctionslike Feral Whispers. ## MASTERANIMALISM
 
 ## CONQUERTHEBEAST
 
-Tofrenzyatwilluakmletnainrtiuung a controlledfrenzy.Youmay chooseyourtargets asyouplease,butotherwise the frenzy plays itself outnormally.On a failure you fall to an uncontrolled frenzy (which runs like any normal frenzy).
-
-Masters of Animalism can control animals andeven gainmastery over theirownBeasts,controllingthemtoa degree thatlesserKindred can only dreamof.ConquertheBeastallowsyoutonotonlycontrolyourfrenzies,butto enterfrenzy atwill.Some saythatthedevelopmentof thispowerisoneof the first steps on thewaytoGolconda.
-
-You may also use thispower to regain your composure during an uncontrolled frenzybymakingaSelf-Control Challenge.If successful,youcanregain controluustndillowaveryhilnistatu may attempt to endthefrenzy in the usual way.If yourunout ofWillpower Traits before the frenzy ends, you dropback into uncontrolled frenzy again.
-
-## ASCENDANTANIMALISM
+Tofrenzyatwilluakmletnainrtiuung a controlledfrenzy.you may chooseyourtargets asyouplease, but otherwise the frenzy plays itself outnormally.On a failure you fall to an uncontrolled frenzy (which runs like any normal frenzy). Masters of Animalism can control animals and even gainmastery over the irown Beasts, controllingthemtoa degree that lesser Kindred can only dreamof.Conquerthe Beastallowsyoutonotonlycontrolyourfrenzies, but to enterfrenzy atwill.Some saythatthedevelopmentof this powerisoneof the first steps on the wayto Golconda. You may also use this power to regain you r composure during an uncontrolled frenzybymakinga Self-Control Challenge.If successful, you can regain controluustndillowaveryhilnistatu may attempt to endthefrenzy in the usual way.If you runout of will power Traits before the frenzy ends, you dropback into uncontrolled frenzy again. ## ASCENDANTANIMALISM
 
 ## TAUNTTHE CAGED BEAST
 
-Tousethispoweryoumust touchyourtargetPhysicalChallengemay necessary on unwilling subjects),spend aWillpowerTrait and then make a Social Challenge against the subject.Ifyouwin,thesubjectfrenziesimmedi ately.houldyoulose,thefrenzyfallsonyouinsteadof thesubjectThispower may alsobe used on individuals who wouldnotordinarily frenzy,such as normal humans.
-
-This powerallowsyou torelease theBeast inothers at will.Witha leeting brush against the subject,youmaycommandyour ownBeast toawakenthat of the subject,enraging itby threatening its spiritual territory.Thevictim instantly succumbs to frenzy.
-
-## METHUSELAHANIMALISM
+Tousethispoweryoumust touchyourtarget Physical Challengemay necessary on unwilling subjects), spend a will power Trait and the n make a Social Challenge against the subject.Ifyouwin, the subjectfrenziesimmedi ately.houldyoulose, the frenzyfallsonyouinsteadof the subject this power may alsobe used on individuals who would not or dinarily frenzy, such as normal humans. This powerallowsyou torelease the Beast inothers at will.with a leeting brush against the subject, you maycommandyour own Beast toawakenthat of the subject, enraging itby threatening its spiritual territory.the victim instantly succumbs to frenzy. ## METHUSELAHANIMALISM
 
 ## UNCHAIN THE BEAST
 
-For most Kindred,the Beast is an abstract force of rage and bloodlust somewhere deep inside their consciousness.The elder who hasmastered this can awaken theBeast of your target,causing hysical injury and excruciating agony as yourvictim' own violent impulsesbecomemanifest and start totear him physically apart from within.The victim's body appears to rend itself apart, as if by invisible claws and fangs.
+For most Kindred, the Beast is an abstract for ce of rage and bloodlust somewhere deep inside the ir consciousness.The elder who has mastered this can awaken the Beast of you r target, causing hysical injury and excruciating agony as you rvictim' own violent impulsesbecomemanifest and start totear him physically apart from with in.The victim's body appears to rend itself apart, as if by invisible claws and fangs. you makeeyecontactwithyourintendedvictim, the nspendtwo Blood Traits and make a Social Challenge.With success, the victim suffers10minus her Humanity/Path scorelevels of lethal damageasher Beast attempts toclaw itsway outofherorexampleavictimwithfivelevelsofumanitywould suffer fivehealth levels (105=5) of lethal damage This powermay be usedon mortals and ghouls. ## Ausp Ex
 
-Youmakeeyecontactwithyourintendedvictim,thenspendtwoBlood Traits andmake aSocial Challenge.With success,thevictim suffers10minus herHumanity/Path scorelevels of lethal damageasherBeast attempts toclaw itsway outofherorexampleavictimwithfivelevelsofumanitywould suffer fivehealth levels (105=5) oflethal damageThis powermay be usedon mortals and ghouls.
+While even conventional levels of Auspexgrant the user amazing powers of percepton, Kindredwithlelevelsof Ausxcan attain a startling clarityf vision- the ybecome capable of seeing toothersvery souls and keeping aneye on events occurring in distant places while holding a pleasant conversation. ## CLAIRVOYANCE
 
-## AuspEx
+With Clairvoyance you can perceive distant events with out the aid of Psychic Projection.Afterconcentratingonafamiliarperson, placeorobject, you perceive events surrounding the subjectwhile remaining aware of you r own surroundings. Whileusing Clarvyanceoumustbidtwoadditional Traitsforanyes toresolve eventsthat occur inyour physical surroundings asyou are experiencing eventsin two locations simultaneously. Tousethispower, spenda will power Trait and oneroundconcentratingn afamiliarsubject, the nmakea Simple Test.With succes, oumayrceiv everything that happens around the chosen subject.you r perspectiveis largely focusedonyourchosensubject;ifyou concentratedon another Kindred, you r visions would follow her actions and thoughts and be unable to see around the cornertothemuggerslying inwait for her.Other Auspex abilitiesmayalsobe used togain more information about the events that pass(providedyoucanwin any tests the yrequire).the power remains ineffect as long as you concentrate, and you must have known you r subjectfor at least one night to use this power. ## PREDICTION
 
-While even conventional levels ofAuspexgrant theuser amazing powers of percepton,KindredwithlelevelsofAusxcan attain a startling clarityf vision- theybecome capable of seeing toothersvery souls and keeping aneye on events occurring in distant places while holding a pleasant conversation.
-
-## CLAIRVOYANCE
-
-With Clairvoyance you can perceive distant events without the aid of PsychicProjection.Afterconcentratingonafamiliarperson,placeorobject, you perceive events surrounding the subjectwhile remaining aware ofyour own surroundings.
-
-WhileusingClarvyanceoumustbidtwoadditionalTraitsforanyes toresolve eventsthat occur inyour physical surroundings asyou are experiencing eventsin two locations simultaneously.
-
-Tousethispower,spendaWillpowerTrait andoneroundconcentratingn afamiliarsubject,thenmakeaSimpleTest.With succes,oumayrceiv everything thathappens around thechosen subject.Your perspectiveis largely focusedonyourchosensubject;ifyou concentratedon anotherKindred,your visions would follow her actions and thoughts and be unable to see around the cornertothemuggerslying inwait forher.OtherAuspex abilitiesmayalsobe used togain more information about theevents thatpass(providedyoucanwin any tests theyrequire).Thepower remains ineffect as long as you concentrate,and youmust haveknown your subjectfor at least one night to use thispower.
-
-## PREDICTION
-
-With Telepathy you can read another's thoughts.WithPrediction, however,youkeepachannel continuouslyopentoallthose around youa constantbackground buzz of surface thoughts and emotions.Itis nota deep probeor sfficientlyaccuratetoickuspecificthoughtbutgivesl to othersmoods and attitudesespeciallywhen in close contact witha particular subject.Itisfarlessabouttruepredictionandmorethatyousense
-
-<!-- image -->
-
-a thought being formed before it is spoken aloud (although the words unspoken are often far more interesting).
-
-Any targetspeakingwithyou must truthfully answer generic questions regardingheremotionalstate,anddescribeher attitude towardthetopicof discussion in generic terms. Questions like "What are you feeling at the moment regarding our discussion of Praxis seizures?"or"What's seeing your rival being so popularwith yourex-lovermake you feel like?are acceptable. "Are youplanningtobetrayme?isn't.Youmay,however,choose tospeculate aloud,"Idreamed todaythat someonewas planningtobetrayme,and inquire abouttheemotional stateofyourlistener.
-
-Lying to a vampire with Prediction can be very difficult,with one's thoughts practically telegraphing the intent; all attempts to lie require a Mental Challenge,with ties going to the Prediction vampire.Of course, nothingprevents othersfrom lying toyou,andyou neednotreveal that youve picked up on their falsehoods.
-
-If someone attempts to trick youvia theuseofSubterfuge orother similar Social Challenges,youmay spenda BloodTrait andmakea Mental Challenge against theother person.Successmeansthatyou're aware someoneis tryingto swindleyou.Note that there's a differencebetween attempts to manipulate and outrightlies—forexample,leavingoutcertainbitsofinformationor tellinghalf-truths aren't the same asan outright lie.
-
-Those with exceptionally strong Willpower(eightor more Willpower Traits,ortheIronWillMerit）maykeeptheir thoughts andemotionsincheckto preventothersfromreadingthem.Thisrequiresaconsciouseffortfromthemthat maybedetected byyou.Someonewho is attemptingtoveil herthoughtsinsuch amannermustmake aSimpleTest if her concentration is disrupted(such asa surprise attack or being targeted by certain Disciplines);losing means the defender'sconcentrationisdisrupted.Notethatthetargetmust specificallyknow that youcanreadhernordertodefend;aplayerwhodoesn'thavetheappropriate measureofWillpowerbutgoesaroundclaiming sucha degreeofconstant concentration anyway can be safely classified as a stinkin'cheat.
-
-Withedictionyoumaynotbesuprisedunlessyouconcentrationn otherattuhsanattakraterufaciltisarmaired to drugs or mental control).You can sense your enemy's intentions.This effect has aradiusof10feet.Obviously,thisoffersnoprotectionagainst snipingfrom the building across the street or other similar long-distance attacks.The Storytellerhas thefinal word onwhat constitutes distraction.
-
-MASTERAUSPEX
+With Telepathy you can read another's thoughts.with Prediction, how ever, you keepachannel continuouslyopentoallthose around you a constantbackground buzz of surface thoughts and emotions.Itis not a deep probeor sfficientlyaccuratetoickuspecificthoughtbutgivesl to othersmoods and attitudesespeciallywhen in close contact with a particular subject.Itisfarlessabouttruepredictionandmorethatyousense a thought being for med before it is spoken aloud (although the words unspoken are of ten far more interesting). Any targetspeakingwithyou must truthfully answer generic questions regardingheremotionalstate, and describeher attitude towardthetopicof discussion in generic terms. Questions like "What are you feeling at the moment regarding our discussion of Praxis seizures?"or"What's seeing you r rival being so popularwith you rex-lovermake you feel like?are acceptable. "Are you planningtobetrayme?isn't.you may, how ever, choose tospeculate aloud,"Idreamed todaythat someonewas planningtobetrayme, and inquire abouttheemotional stateofyourlistener. Lying to a vampire with Prediction can be very difficult, with one's thoughts practically telegraphing the intent; all attempts to lie require a Mental Challenge, with ties going to the Prediction vampire.Of course, not hingprevents othersfrom lying toyou, and you neednotreveal that you ve picked up on the ir falsehoods. If someone attempts to trick you via the useof Subterfuge or other similar Social Challenges, you may spenda Blood Trait and makea Mental Challenge against the other person.Successmeansthatyou're aware someoneis tryingto swindleyou.not e that the re's a differencebetween attempts to manipulate and outrightlies—for example, leavingoutcertainbitsofinformationor tellinghalf-truths aren't the same asan outright lie. Those with exceptionally strong will power(eightor more will power Traits, or the ir on Will Merit）maykeeptheir thoughts and emotionsincheckto preventothersfromreadingthem.this requiresaconsciouseffortfromthemthat maybedetected byyou.Someonewho is attemptingtoveil herthoughtsinsuch amannermustmake a Simple Test if her concentration is disrupted(such asa surprise attack or being targeted by certain Disciplines);losing means the defender'sconcentrationisdisrupted.not ethatthetargetmust specificallyknow that you can readhernordertodefend;aplayerwhodoesn'thavetheappropriate measureof will powerbutgoesaroundclaiming sucha degreeofconstant concentration anyway can be safely classified as a stinkin'cheat. with edictionyoumaynotbesuprisedunlessyouconcentrationn otherattuhsanattakraterufaciltisarmaired to drugs or mental control).You can sense you r enemy's intentions.This effect has aradiusof10feet.Obviously, this of fersnoprotectionagainst snipingfrom the building across the street or other similar long-distance attacks.The Storytellerhas the final word onwhat constitutes distraction. MASTERAUSPEX
 
 KARMICSIGHT
 
-WhileAuraPerceptionallows the briefestglimpsesofanother'sspirit, KarmicSight takes suchabilitiestoanewlevel,allowingyou tolookdirectly intoyour target'svery soul.
-
-Your targetmustbewithinineof sight.SpendaWilpowerTraitandmake aStaticMental Challenge(difficultyequals thesubject's Mental Traits).Successful use allows you to learn thecharacter'sNature,Demeanor andwhether the subjectfollowsHumanityor anotherPath.You may also detect anyinfluences on the subject'smindor soul—Dominate,PresenceeffectssuchasEntrancementor
-
-<!-- image -->
-
-infernalpacts.ferthisyoumaymakeanotheStaticMentalChallengetola thesubject'sWillowerandHumanit/Pathscoresinallybymakingoneore StaticMentalChallengumayeemne t statefyou subjtska. Thisisahighlyabstractconcept(whichrequiresStorytellerintervention)but will giveyousomeieafwhatkindfersonyouarelkingategardlessf highlysubjectivejudgmentof"good"andbad,certainactionsleavethirmark onasoulthStorytditonetanalatedMritadl such asDestiny orDarkFatemay be detected as well.
-
-Shouldyoulosea testtoreadyour subject,youriskgaining oneofthe subject's derangements,aPsychologicalMental/Supernatural Flawor nega tive Social orMental Traits forthe duration of the session-subject'schoice. If the subjecthasnonetheStorytellerwillfind somethingappropriateh Storytellershouldalwaysbecalledintodeterminetheendresult.Afterlosing, you must begin theprocess againfrom the groundp,including spending anotherointofWilpowerandgettinganswersyoualreadyknowbeoru can proceed further.
-
-ASCENDANTAUSPEx
+While Aura Perceptionallows the briefestglimpsesofanother'sspirit, Karmic Sight takes suchabilitiestoanewlevel, all owingyou tolookdirectly into you r target'svery soul. you r targetmustbewithinineof sight.Spenda Wilpower Traitandmake a Static Mental Challenge(difficultyequals the subject's Mental Traits).Successful use all ows you to learn the character's Nature, Demeanor and whether the subjectfollows Humanityor another Path.You may also detect anyinfluences on the subject'smindor soul—do minate, Presenceeffectssuchas Entrancementor infernalpacts.ferthisyoumaymakeanothe Static Mental Challengetola the subject's will owerand Humanit/Pathscoresinallybymakingoneore Static Mental Challengumayeemne t statefyou subjtska. this is ahighlyabstractconcept(which requires Storytellerintervention)but will giveyousomeieafwhatkindfersonyouarelkingategardlessf highlysubjectivejudgmentof"good"and bad, certainactionsleavethirmark onasoulth Storytditonetanalated Mritadl such as Destiny or Dark Fatemay be detected as well. should you losea testtoreadyour subject, you riskgaining oneofthe subject's derangements, a Psychological Mental/Supernatural Flawor nega tive Social or Mental Traits for the duration of the session-subject'schoice. If the subjecthasnonethe Storytellerwillfind somethingappropriateh Storytellershouldalwaysbecalledintodeterminetheendresult.Afterlosing, you must begin the process againfrom the groundp, including spending anotherointof Wilpowerandgettinganswersyoualreadyknowbeoru can proceed further. ASCENDANTAUSPEx
 
 PsYCHIC ASSAULT
 
-Generally speaking,mostKindredmind tricks are subtle tools.Psychic Assault is anythingbut-it's a hammer that splits the subject'smind in half. The only indications of the attack taking place are the subject'sexpressionof intenseagony,usuallyaccompaniedbyanosebleed.MortalskilledbyPsychic Assault appeartohave diedofaheart attackor aneurysm.Vampirescrumble instantly to dust,regardless of their age.
+Generally speaking, most Kindredmind tricks are subtle tools.Psychic Assault is anythingbut-it's a hammer that splits the subject'smind in half. The only indications of the attack taking place are the subject'sexpressionof intenseagony, usuallyaccompaniedbyanosebleed.Mortalskilledby Psychic Assault appeartohave diedofaheart attackor aneurysm.Vampirescrumble instantly to dust, regardless of the ir age. Touse this power, sendtwolood Traitsandeither touch the victm （skin contact is not required, although a Physical Challenge may be） or establish eyecontact.If you are assaultinga vampire or anothersupernatural creature, you must alsospenda will power Trait.you maychoose tofrighten the subject, render him unconscious or kill him. Toknock the subjectunconscious, maketwo Mental Challenges against you r subject(you must win both）.This assault is similar but stronger than the one previously described, and you r target loses consciousness.He remains unconscious for an hour, and wakes up with three health levels of lethal damage Mortalswill equiremedicalattention, and mayevende Storyellr discretion）.The victim loses two temporary will power Traits and a permanent will power Trait, and must bid two additional Traitsfor during the rest of the night. He may also not spend will power. If you succeed on only one
 
-Touse thispower, sendtwoloodTraitsandeither touch thevictm （skin contact is not required,although a Physical Challenge may be） or establish eyecontact.If you are assaultinga vampire or anothersupernatural creature,youmust alsospendaWillpowerTrait.Youmaychoose tofrighten the subject,render him unconscious or kill him.
-
-Toknock the subjectunconscious,maketwoMental Challenges against your subject(youmust win both）.This assault is similar but stronger than the one previously described,and your target loses consciousness.He remains unconscious for an hour,and wakes up with three health levels of lethal damageMortalswill equiremedicalattention,andmayevendeStoryellr discretion）.The victim loses two temporary WillpowerTraits and a permanentWillpowerTrait,andmust bid two additional Traitsfor during therest of the night. He may also not spend Willpower. If you succeed on only one
-
-TofrigtenutargetmakMntalhallengeagainstmi sus ful,the subject'smind is assaultedwith horrible images.He can do nothing exceptclutchathis headandsufferexcruciatinginternal painandnightmarish thoughts for the next two turns.If your target knows who isresponsible forthe attackhelldohisutmosttogetawayfromyouand avoidyour companyfor the remainder of the evening. Should he be unable to leave,your target becomes skittish around you.He loses two temporaryWillpowerTraits and must bid anadditional Traitwhenever a challengeis calledfor during the rest of the night.Kindredvictims need to test against Rotschreck.
-
-<!-- image -->
-
-challengeyourtargetdevelopsanunleasant headachetreat astwoleve bashing damage),but suffers no other effects.
-
-brutal death for your target as agonizing pain and terrifying images slice throughhismindhouldyouwinfewerchallengesourtargetuerasf frombeingfrightened,as described above.
-
-Youmustdeclarenadvancewhatindfffectouareattmptingn oncedeclaredumayotchangethffctfyouareattmtingtrenr subject becomes immune toPsychicAssault for theremainder of thenight.A subject who loses his last Willpower Trait toPsychicAssault is rendered unconscious for therest of the evening.
-
-## METHUSELAHAUSPEX
+Tofrigtenutargetmak Mntalhallengeagainstmi sus ful, the subject'smind is assaultedwith horrible images.He can do not hing exceptclutchathis headandsufferexcruciatinginternal painandnightmarish thoughts for the next two turns.If you r target knows who is responsible for the attackhelldohisutmosttogetawayfromyouand avoidyour companyfor the remainder of the evening. Should he be unable to leave, you r target becomes skittish around you.He loses two temporary will power Traits and must bid anadditional Traitwhenever a challengeis calledfor during the rest of the night.Kindredvictims need to test against Rotschreck. challengeyourtargetdevelopsanunleasant headachetreat astwoleve bashing damage), but suffers no other effects. brutal death for you r target as agonizing pain and terrifying images slice throughhismindhouldyouwinfewerchallengesourtargetuerasf from beingfrightened, as described above. you mustdeclarenadvancewhatindfffectouareattmptingn oncedeclaredumayotchangethffctfyouareattmtingtrenr subject becomes immune to Psychic Assault for the remainder of the night.A subject who loses his last will power Trait to Psychic Assault is rendered unconscious for the rest of the evening. ## METHUSELAHAUSPEX
 
 FALSESLUMBER
 
-It is commonly thought that a vampire in torporis unable to do much of anything.nmostcases,thisistrue,butavampirewhopossessesFalseSlumber is an exception to therule.This power allows aMethuselah'sbody toremain in torporwhilehis spiritmoves about normally inhis astral body.
-
-Oncethispowerislearned,FalseSlumberbecomesactivetheinstantyou fall into torpor.Astral travel is handled as describedin therulesforPsychic Projection.However,youmaynotbeabletoawakenphysically atwill;thatis handled normally,as described in Laws of theNight p.199.
-
-Shouldyoursilvercordbecomeseveredinastralcombat,youwillbecome lostinthespiritrealmsaspernormal.YoualsolosethisAuspexpowerandhalf ofyourpermanentWillpowerTraits(roundup),andmustbuybackboththis power and theWillpowerTraitswithexperiencepoints.You spendayearand anightin torpor,duringwhichtimeyour soul slowlyreturns toyourbody. During thistime you cannot be awakened from torporby anymeans.
-
-## CELERITY
-
-Theprevious levelsofCelerityfocusedsolelyonspeedThoseKindredwho learnsuperiorlevelsofCelerity,however,becomecapableofdoingfarmore thansimplybeingfaster thantheir opponents.
-
-Note:Superior levelsofCelerityhave their ownBloodTrait costs.Inother wordwhilyoucanativatethfivrmallvelsfCeleritybypendinginl BloodTraityoumust spendadditionalBloodtoactivatethesuperiorlvels.
-
-ELDERCELERITY
+It is commonly thought that a vampire in torporis unable to do much of anything.nmostcases, this is true, but avampirewhopossesses False Slumber is an exception to the rule.This power all ows a Methuselah'sbody toremain in torporwhilehis spiritmoves about normally inhis astral body. Oncethispowerislearned, False Slumberbecomesactivetheinstantyou fall into torpor.Astral travel is handled as describedin the rulesfor Psychic Projection.how ever, you maynotbeabletoawakenphysically atwill;that is handled normally, as described in Laws of the Night p.199. should you rsilvercordbecomeseveredinastralcombat, you will become lostinthespiritrealmsaspernormal.you alsolosethis Auspexpowerandhalf of you rpermanent will power Traits(roundup), and mustbuybackboththis power and the will power Traitswithexperiencepoints.You spendayearand anightin torpor, duringwhichtimeyour soul slowlyreturns toyourbody. During this time you can not be awakened from torporby anymeans. ## CELERITY the previous levelsof Celerityfocusedsolelyonspeed Those Kindredwho learnsuperiorlevelsof Celerity, how ever, becomecapableofdoingfarmore than simplybeingfaster than the ir opponents. not e:Superior levelsof Celerityhave the ir own Blood Trait costs.Inother wordwhilyoucanativatethfivrmallvelsf Celeritybypendinginl Blood Traityoumust spendadditional Bloodtoactivatethesuperiorlvels. ELDERCELERITY
 
 PROJECTILE
 
-The supernatural speedof theKindreddoesn't operatebyconventional physics,and thus items orweaponshandledby them often have problems of an ye,thebullet stillleaves thebarrel of the gun at anormal seed.A thrownrock slows down tonormal speed at theinstant it leaves thevampires accept this factHowever omeof themorepowerfulKindredhavemanaged
+The supernatural speedof the Kindreddoesn't operatebyconventional physics, and thus items or weaponshandledby the m of ten have problems of an ye, the bullet stillleaves the barrel of the gun at anormal seed.A thrownrock slows do wn tonormal speed at the instant it leaves the vampires accept this fact how ever omeof the morepowerful Kindredhavemanaged
 
-Camarilla Guide
-
-Howeve,eattackgansoneonusTrait forveryvlfCelertygien one aditional health level of damage.
-
-When youuse Projectile,youmust always announceyour intentiontodo soas soonast isyoututactanditmust alwayseyouist actionor exampleactionsgrantedbySwifessrLeeritycanetakennormallyuless Projectile must always be the first action on any given turn.
-
-MASTER CELERITY
+Camarilla Guide how eve, eattackgansoneonus Trait for veryvlf Celertygien one aditional health level of damage. When you use Projectile, you must always announceyour intentiontodo soas soonast is you tutactanditmust alwayseyouist actionor exampleactionsgrantedby Swifessr Leeritycanetakennormallyuless Projectile must always be the first action on any given turn. MASTER CELERITY
 
 FLOWEROFDEATH
 
-AvampirewithFlowerofDeathbecomesablurfviolence,strikinghis opponentreeatedlywithncredibleseedtisnotunknownforavami whohas attained thislevel of Celeritytobe so quickthathis opponents are vanquished before they even know what happened.
-
-Flower ofDeathcosts threeBloodTraits to activate.Afterit is activated, yougain asmanyextraTraits toallofyourattacksas you havepowersinCelerity for the duration of the scene.Needless to say,thismakesyou an extremely dangerous oponent.However,hreisnodamagebonusyou peedmrely grantsyou the ability tostrikefaster than yourfoecan defendor dodge.You may use the Bomb in challenges,as per normal rules.
-
-This power cannot beused inconcertwith otherCelerity powers.Flowerof Deathcanonlyusedwithhand-to-handormeleecombatfirearmsbows,thrown objects and other ranged weapons gain no bonuses if used with this power.
-
-## ASCENDANT CELERITY
+Avampirewith Flowerof Deathbecomesablurfviolence, strikinghis opponentreeatedlywithncredibleseedtisnotunknownforavami who has attained this level of Celeritytobe so quickthathis opponents are vanquished before they even know what happened. Flower of Deathcosts three Blood Traits to activate.Afterit is activated, you gain asmanyextra Traits toallofyourattacksas you have powersin Celerity for the duration of the scene.Needless to say, this makesyou an extremely dangerous oponent.how ever, hreisnodamagebonusyou peedmrely grantsyou the ability tostrikefaster than you rfoecan defendor do dge.You may use the Bomb in challenges, as per normal rules. This power can not beused inconcertwith other Celerity powers.Flowerof Deathcanonlyusedwithhand-to-handormeleecombatfirearmsbows, thrown objects and other ranged weapons gain no bonuses if used with this power. ## ASCENDANT CELERITY
 
 ZEPHYR
 
 One of the legendary —and rather improbable——comic book usages of superseedisthabiltrunwatrenwallrbablertih
 
-Spend a BloodTrait andaWillpowerTrait.You automatically gain the enerallynceveryeveraltrreftenrusuallytickyufc
-
-<!-- image -->
-
-<!-- image -->
-
-WithZehyoumayalaysdeclareFairscaaslongasthereisenouh tofit through;no onewill be fast enoughtograbyou asyou dart past.Closed windowscanalsobeusedas exit; at suchseeds,you siply mash through them and hit the ground running (within reason—-falling from a 10-story height will cause its own problems).
-
-likeTeflon)This power rmains ineffectuntil youstoprunningIf you wisht reactivatethepoweryoumust againspend therequiredTraits.
-
-Navigating at speeds as great as this is no small feat and requires concentration.If you wish totakeactions other thanrunning,youmustmake aSimpleTest.Onawin,youmay take the action ormally.On a tie, youmay not take the action,but may continue running.If you lose,you immediately lose control of your movement and end up smashing into whatever you were heading for.You may start moving again at the beginning of the next turn.This collisionmay cause bashing oreven lethal damage,depending onthecircumstances (Storyteller discretion).
-
-## METHUSELAHCELERITY
+Spend a Blood Trait and a will power Trait.You automatically gain the enerallynceveryeveraltrreftenrusuallytickyufc with Zehyoumayalaysdeclare Fairscaaslongasthereisenouh tofit through;no onewill be fast enoughtograbyou asyou dart past.Closed windowscanalsobeusedas exit; at suchseeds, you siply mash through the m and hit the ground running (with in reason—-falling from a 10-story height will cause its own problems). like Teflon)This power rmains ineffectuntil you stoprunning If you wisht reactivatethepoweryoumust againspend the required Traits. Navigating at speeds as great as this is no small feat and requires concentration.If you wish totakeactions other than running, you mustmake a Simple Test.Onawin, you may take the action or mally.On a tie, you may not take the action, but may continue running.If you lose, you immediately lose control of you r movement and end up smashing into what ever you were heading for.You may start moving again at the beginning of the next turn.This collisionmay cause bashing or even lethal damage, depending onthecircumstances (Storyteller discretion). ## METHUSELAHCELERITY
 
 ## BETWEENTHETICKS
 
-Touse thispower, spendaloodTrait andaWilpowerTrait.Everything aroundyou instantly seemstoslowdowntoapainful crawl.Youmust thenspend one Blood Trait per turn tomaintain this level of speed.You gain an automatically successfulfree attack against anyonewhodoesn'thave atleastAdvanced CelerityThosewithAdvancedCelerityaresafefromthefreeattack,butyou still haveanextraaction against them,one thatistakenbeforethe otherpartygets to act.You also have an extra action against other characters with Superior Celerity,but that actionis takenafterallotheractionshavebeen peformd.
+Touse this power, spendalood Trait and a Wilpower Trait.Everything aroundyou instantly seemstoslowdowntoapainful crawl.you must the nspend one Blood Trait per turn tomaintain this level of speed.You gain an automatically successfulfree attack against anyonewhodoesn'thave atleast Advanced Celerity Thosewith Advanced Celerityaresafefromthefreeattack, but you still have anextraaction against the m, one that is takenbeforethe otherpartygets to act.You also have an extra action against other characters with Superior Celerity, but that actionis takenafterallotheractionshavebeen peformd. A vampire who has reached this levelofmastery is literallyfaster than the humaneyecan see.Othervampires—even someof those with Auspex——have troublenoticingher.Otherbeingsseemalmostlikeinanimatestatues, frozen in time as she moves around the m. All attacks against you delivered at less than Advanced Celerity are consideretbeautmatifailreulessyouelberateltandstillulltsand thrownbjctscanbeasilydodgedorevenpluckedoutof the airbulletsfrd or objects thrown with Projectile are handled normally).Those with Intermedi ate Celerityorntermediate Ausexcanperceiveyourmovementsbutonlyhse with Advanced Celrityorhighermayattmpt toattack or stop you ulesyou deliberately move slowly enough for slower characters to catch up). for obviousreanumayelar Faicapeatanyiandmaynl beeven potentially stoppedbyonewhohas anequal(or higher) levelof Celerity. ## do MINATE
 
-A vampire whohasreached this levelofmastery is literallyfaster than the humaneyecan see.Othervampires—even someof those withAuspex——have troublenoticingher.Otherbeingsseemalmostlikeinanimatestatues,frozen in time as she moves around them.
+Elders who have reached Superior levels of do minate become truly frightening beings, able tobend otherswills to the ir own effortlessly.A vampire with Superior do minatemay"burn through"an Iron will ed character's defensesas ifthedefenderidnothavethe Merit inquestion, unless the subjct
 
-All attacks against you delivered at less than Advanced Celerity are consideretbeautmatifailreulessyouelberateltandstillulltsand thrownbjctscanbeasilydodgedorevenpluckedoutof theairbulletsfrd or objects thrown with Projectile are handled normally).Those with Intermedi ateCelerityorntermediateAusexcanperceiveyourmovementsbutonlyhse withAdvancedCelrityorhighermayattmpt toattack orstop you ulesyou deliberately move slowly enough for slower characters to catch up).
+Iron will is treated normally.)
 
-ForobviousreanumayelarFaicapeatanyiandmaynl beeven potentially stoppedbyonewhohas anequal(orhigher) levelofCelerity.
+ELDER do MINATE
 
-## DOMINATE
-
-Elders who have reached Superior levels of Dominate become truly frightening beings, able tobend otherswills to their own effortlessly.A vampire with SuperiorDominatemay"burn through"an Iron Willed character's defensesas ifthedefenderidnothavetheMerit inquestion,unless thesubjct
-
-<!-- image -->
-
-Iron Willis treated normally.)
-
-ELDER DOMINATE
-
-CHAIN THE PSYCHE
-
-break free of control.
-
-Spend aloodTrait when youuseDominate ona subject.If the subjct
-
-WhenusingChainthsycheoumustecideowmanyattmptstei youwishtrushandsendaMentalrait forachrxamletcrush fiveattpts trsistyumustspendfiveMentaTaitwhileingDomina. TheTraits spent inthisfashioncannotbeusedduringtherestofthenight(the This power fades after all of the attempts to resist have beenmade.
-
-Depending on the circumstances,you may wish to keep the number of TraitsyouspendasecretandinformtheStorytellerinstead,whokeepstabsn how many times the subject attempts to overcome themental shackles.
-
-Your commands are so deeply implanted in the subject''smind that other vampires findit very difficult or even impossible to override them by using Dominate ontheirown.Thenameis somewhatmisleadingas thispowernstills noparticularfeelingsof loyaltyinthesubject.Reputedlytheelderwhodeveloped thispowerfltrathrstronglyhatloyalthouldbemandatoryotoluntaryt very surprisingly,all of hisminionsheartily agreedwiththestatement.
-
-wouldcausehetoactagainstpreviouslymplantedcommand fromyouthe vampireattempting theDominatemust spendanextraWillpowerTrait andbid two extraTraits whilemaking the test.
-
-## OBEDIENCE
+CHAIN THE PSYCHE break free of control. Spend alood Trait when you use do minate ona subject.If the subjct when using Chainthsycheoumustecideowmanyattmptstei you wishtrushandsenda Mentalrait for achrxamletcrush fiveattpts trsistyumustspendfive Menta Taitwhileing do mina. the Traits spent inthisfashioncannotbeusedduringtherestofthenight(the This power fades after all of the attempts to resist have beenmade. Depending on the circumstances, you may wish to keep the number of Traitsyouspendasecretandinformthe Storytellerinstead, who keepstabsn how many times the subject attempts to overcome the mental shackles. you r commands are so deeply implanted in the subject''smind that other vampires findit very difficult or even impossible to override the m by using do minate ontheirown.the nameis somewhatmisleadingas this powernstills noparticularfeelingsof loyaltyinthesubject.Reputedlytheelderwhodeveloped this powerfltrathrstronglyhatloyalthouldbemandatoryotoluntaryt very surprisingly, all of hisminionsheartily agreedwiththestatement. would causehetoactagainstpreviouslymplantedcommand from you the vampireattempting the do minatemust spendanextra will power Trait and bid two extra Traits whilemaking the test. ## OBEDIENCE
 
 MASTERDOMINATE
 
-MASS MANIPULATION
+MASS MANIPULATION rendering her literally able tocontrolmasses. "YEAH, I KNOW THAT Cuz I BEAD IT IN THE Bo Ok'
 
-rendering her literally able tocontrolmasses.
+Let's take aminute to talk about the se powers from the average vampire'spoint of view. Take Chain the Psyche:Simply put, most characters will want to do everything they can to avoid this incredible, excruciating pain. Whileyour averageplayercan read through the description and know that afterasetumberofattemptstoresist, heowerwill fade character will not be aware of this, and will firmlybelieve that the effects will remain in place for the for eseeable future.Like Pavlov's do gs, Chain the Psyche conditions are sponse from the target through itsresults.After the subject suffers through one or two attempts, he will not want torepeat the experienceunlesshehasspecificknowledge that the effectwill fade.Elders don't hand outpamphlets describing how the irsecret powers work.Neonates and ancillae may have heard strange tales about the powers of eldersbut specifics are not usually includedwith campfire stories. Most Master Disciplines are in the hands of frightening creatures who have survived the centuries by beingnastier and more secretive than those around the m.The chances of even a relatively experienced vampiregoing, Yeah, that aclassiccaseof Chain the Psycheallrigh" are simply too slim to credit.Disciplines regardless of the ir power level should never be reduced to statistics or everyday events;they are still supernatural powers, and do ing sorobs the m of the ir mystery. you mustdeclaretheuseof Mass Manipulationbeforeyou attemptthe do minatechallenge.Spenda will power Trait, and makeastandard do minatetest against the most resistantmemberof the target group;ifhecannot be do minated, the nneithercanthosearoundhim.Ifyousucceed, you maythenextendtheeffect to those around the initial target.the maximumnumber of additional targets is determined by halving you r permanent will power score (round up) — for exampleifyouhavesevenermanent will owerraitsoumaycontrolu four subjects, inadditiontotheinitial target.you maychoosewhothosesubjects are, and you need only tomake eye contact with the initial subject. ## STILLTHEMORTALFLESH
 
-<!-- image -->
-
-"YEAH, I KNOW THAT Cuz I BEAD IT IN THE BoOk'
-
-Let's take aminute to talk about these powers from the average vampire'spoint ofview.
-
-Take Chain thePsyche:Simply put,most characters will want to do everything they can to avoid this incredible, excruciating pain. Whileyour averageplayercan read through thedescription and know that afterasetumberofattemptstoresist,heowerwill fade character will notbe aware of this,andwill firmlybelieve that the effects will remain in place for the foreseeable future.LikePavlov's dogs,Chain thePsyche conditions aresponse from the target through itsresults.After the subject suffers through one or two attempts,he will not want torepeat theexperienceunlesshehasspecificknowledge thatthe effectwill fade.Elders don't hand outpamphlets describing how theirsecret powers work.Neonates and ancillae may have heard strange tales about the powers of eldersbut specifics are not usually includedwith campfire stories.
-
-Most MasterDisciplines are in the hands of frightening creatures who have survived the centuries by beingnastier and more secretive than those around them.The chances of even a relatively experienced vampiregoing,Yeah,thataclassiccaseofChain thePsycheallrigh" are simply too slim to credit.Disciplines regardless of their power level should never be reduced to statistics or everyday events;they are still supernatural powers,and doing sorobs them of their mystery.
-
-YoumustdeclaretheuseofMassManipulationbeforeyou attemptthe Dominatechallenge.SpendaWillpowerTrait,andmakeastandardDominatetest against themost resistantmemberof the target group;ifhecannot beDominated, thenneithercanthosearoundhim.Ifyousucceed,youmaythenextendtheeffect to those around the initial target.Themaximumnumber of additional targets is determined by halving your permanent Willpower score (round up) — for exampleifyouhavesevenermanentWillowerraitsoumaycontrolu four subjects,inadditiontotheinitial target.Youmaychoosewhothosesubjects are, and you need only tomake eye contact with the initial subject.
-
-## STILLTHEMORTALFLESH
-
-Despite the somewhat deceiving name,this power worksequallywellon vampires andmortals.A vampire with this power can not only override the subject's mind,buthisbody aswell.Thatmaymean cutting off someone's sensesorevenstoppingherheart.Itisrumoredthatthispowerusedtocome moreeasilytoKindredinthedistantpast,butmodernmedicinehasmadeit easier for mortals to resist this power's effects.Despite this,it is still a frightening and potent power.
-
-Touse thispower,spendaWillpowerTraitandmakeanormal Mental Challenge against the subject.If successful,you may shut off one of the subject'sinvoluntaryfunctions,orcausethemtofluctuateerratically.Hearing, sight,rculationiratin,fxvmntsand similauctinll viabletargets.
-
-Amortalwhoseheartisstoppedwill diemmediately,althoughhemay possiblybe revived if he receives propermedical attention in the nextfew minutes.While cutting off a vampire's circulation or respiratory systems is completely ineffective,rendering herdeaforblind isquite useful.
-
-## ASCENDANTDOMINATE
+Despite the somewhat deceiving name, this power worksequallywellon vampires and mortals.A vampire with this power can not only override the subject's mind, but hisbody aswell.that maymean cutting of f someone's sensesorevenstoppingherheart.Itisrumoredthatthispowerusedtocome moreeasilyto Kindredinthedistantpast, but modernmedicinehasmadeit easier for mortals to resist this power's effects.Despite this, it is still a frightening and potent power. Touse this power, spenda will power Traitandmakeanormal Mental Challenge against the subject.If successful, you may shut of f one of the subject'sinvoluntaryfunctions, or causethemtofluctuateerratically.Hearing, sight, rculationiratin, fxvmntsand similauctinll viabletargets. Amortalwhoseheartisstoppedwill diemmediately, althoughhemay possiblybe revived if he receives propermedical attention in the nextfew minutes.While cutting of f a vampire's circulation or respiratory systems is completely ineffective, rendering herdeaforblind is quite useful. ## ASCENDANTDOMINATE
 
 ## FARMASTERY
 
-EssentiallyarefinedversionofObedience,FarMastery allowsyou touse Dominateon anyoneyou arefamiliarwithwheneveryouplease,regardlessof the distance.
-
-Spend a Willpower Trait and make a normal Mental Challenge against the target to establish contact.Once contacthas been established,youmay Dominate the subject normally as if you had established eye contact.If this power is usedagainst another supernatural beingyoumust spend anadditional Willpower Trait.
-
-## METHUSELAHDOMINATE
+Essentiallyarefinedversionof Obedience, Far Mastery all owsyou touse do minateon anyoneyou are familiarwithwheneveryouplease, regardlessof the distance. Spend a will power Trait and make a normal Mental Challenge against the target to establish contact.Once contacthas been established, you may do minate the subject normally as if you had established eye contact.If this power is usedagainst another supernatural beingyoumust spend anadditional will power Trait. ## METHUSELAHDOMINATE
 
 ## SPEAKTHROUGHTHE BLOOD
 
-To activate this power, spend a permanentWillpower Trait andmakea shemaybeon theother side of theplanet orevenon themoon distance and locationarenobarriers.However,hesubjectmustbeofyourwnlineagef successfulyoumayplantcommands intothesubject'smind.Whencombined withpowers suchasMassManipulation,thispowercanbeextremelyeffective.
+To activate this power, spend a permanent will power Trait and makea shemaybeon the other side of the planet or evenon the moon distance and locationarenobarriers.how ever, hesubjectmustbeofyourwnlineagef successfulyoumayplantcommands into the subject'smind.when combined with powers suchas Mass Manipulation, this powercanbeextremelyeffective. the famedpowerstructuresof Methusalehsdidn'tspringupovenightandthy certainlydon'tmaintainthemselves;indeed, the sestructuresaresuchwebsofdecei and intriguethatnlyafwcanevenopetuderstandthem, and evenfewer, any everseethemintheirentirety.Toactuallytakechargeof suchanorganizationwould beamonumentaltask, and whilesuchbeingsmentalcapacityfarsurpassesthatofany humanmakingsurethateveryonestaysinlineandworkstowardthesamegoalan beextrydifickiluhnapliatinfeku Blood eases the taskconsiderably:Itallows avampiretoissue commandstoevery vampirewhoselineagereturnstoher, regardlessofwhethertheyhaveevenmeteach other.the endresult is entirebroodsofvampiresfurtheringagendastheyareunaware of fullybelivingthemtobetheiw Newordersetacceptdradually;usually avampire'sagendashiftsoverthenextdecadeorsotoaccommodatethe Methuselah's wishes, and it is averyexceptional individual indeed who realizes that this change comesfrom an outside source. The commandsmust be generic, such as Defend the Camarillaagainst all of itsenemies and remaineseciallyvigilanttointenal threatsor Destroythe power structureof anyonewho attempts toupset Clan Tremeres power in this city.ecificrderuhas Assasinatethrinceboremakeshiss tonight"or Bringmetheheadof the Nosferatuprimogen"can not begiven, nor are the effects instantaneous; this power was meant for long-term planning. Commands givenin this fashion last for five years per Trait of permanent toheroldways.how ever, nmanyinstances, the subjecthasbuilthisownpower baseonthecommand, and maywell continuetoadvancethecommandwithout not icingadifference.Still, itbears stressingthatatthatpointsheisnolonger constrained by any commandandmayact against it(with or with out knowing it). Should avampirereach Golconda, shebecomes mmune to this power. how ever, hermainsnaware that ithasbeenused.the restof herlineag is still vulnerable unless they attain a similar state of enlightenment. Ghouls of affected Kindred are also affected, but toalesser degree. ## for TITUDE all Kindredwith for titude are ablewithstand attacks that would cripple or kill aweaker vampire.Yet this is not hing compared to thosewhohave mastered the trulyimpressivelevelsof for titude—they can walk through attacks that would destroy lesser Kindred. ## ELDERFORTITUDE
 
-ThefamedpowerstructuresofMethusalehsdidn'tspringupovenightandthy certainlydon'tmaintainthemselves;indeed,thesestructuresaresuchwebsofdecei andintriguethatnlyafwcanevenopetuderstandthem,andevenfewer,any everseethemintheirentirety.Toactuallytakechargeof suchanorganizationwould beamonumentaltask,andwhilesuchbeingsmentalcapacityfarsurpassesthatofany humanmakingsurethateveryonestaysinlineandworkstowardthesamegoalan beextrydifickiluhnapliatinfeku Blood eases thetaskconsiderably:Itallows avampiretoissue commandstoevery vampirewhoselineagereturnstoher,regardlessofwhethertheyhaveevenmeteach other.Theendresult isentirebroodsofvampiresfurtheringagendastheyareunaware offullybelivingthemtobetheiwNewordersetacceptdradually;usually avampire'sagendashiftsoverthenextdecadeorsotoaccommodatetheMethuselah's wishes, and it is averyexceptional individual indeed whorealizes that this change comesfrom an outside source.
-
-The commandsmust be generic, such asDefend theCamarillaagainst all ofitsenemies andremaineseciallyvigilanttointenal threatsorDestroythe power structureof anyonewho attempts toupsetClanTremeres power in this city.ecificrderuhasAssasinatethrinceboremakeshiss tonight"orBringmetheheadof theNosferatuprimogen"cannotbegiven,nor are the effects instantaneous; this power was meant for long-term planning.
-
-Commands givenin thisfashion last forfive years perTrait of permanent toheroldways.However,nmanyinstances,thesubjecthasbuilthisownpower baseonthecommand,andmaywell continuetoadvancethecommandwithout noticingadifference.Still,itbears stressingthatatthatpointsheisnolonger constrained by any commandandmayact against it(withorwithout knowing it).
-
-Should avampirereach Golconda,shebecomes mmune to this power. However,hermainsnaware thatithasbeenused.Therestof herlineag is still vulnerable unless they attain a similar state of enlightenment. Ghouls of affectedKindred are also affected,buttoalesser degree.
-
-## FORTITUDE
-
-AllKindredwithFortitude are ablewithstand attacks thatwouldcripple or kill aweaker vampire.Yet this isnothing compared to thosewhohave mastered thetrulyimpressivelevelsofFortitude—they canwalk through attacks thatwoulddestroy lesserKindred.
-
-## ELDERFORTITUDE
-
-PERSONALARMOR
-
-Often,the best defenseis to disarm your opponent.This is the concept Personal Armorisbasedon:anyweapon usedon you shattersfrom theimpact.
-
-WiththeexpenditureofaBloodTrait,youcanactivatePersonalArmorfor thedurationofthscene.WheneveryouareattackedmakeaSimleTest;ifu succeedllattacsaganstunflictirmalamagebuifuareit meleeweapons,theweapon shatters onimpact andbecomes completelyunusable.Isomeonepunchesorkicksyou,theattacker suffersasmuchdamageashe inflictedonyou,andthehand(orfoot）heusedtoattackbecomes unusableuntil that specificdamage is healed-after all,it isimpossible topunch someone effectivelyifeveryboneinoneshandisshattered.If someoneisfoolishenough tokickyou,shereceives theNegativePhysical TraitLameuntil thedamageis healed and can only move around at a walkingpace.Should someonefel adventurousenoughtoheadbuttyou,hereceivesdoublethedamageheinflicted and spends thenextround stunned,abletodefend himself butunableto attack, ashiscranium has justbecomeathousand small fragments of bone.Attackers.who haveFortitudemay use it to reduce the damage theymight otherwise receive.
-
-Fetishes, klaives and magical weapons may be more resistant than ordi nary weapons,depending on theStoryteller'sruling.
-
-This power is somewhat useless against ranged attacksasbullets still d damageeven as theyshatter.However,armor-piercing orhigh-caliberround functionlikenormalroundswhenusedagainstyou,astheyshatterbeforethey can properly pierceyour defenses.Non-physical attacks,such asFireBolt or Taste of Death are handlednormally.
-
-Note thatyoucannotbestakedifyou succeedin thetest,as the stake shatters beforeitcanproperlypierce yourheart.
-
-## MASTERFORTITUDE
+PERSONALARMOR of ten, the best defenseis to disarm you r opponent.This is the concept Personal Armorisbasedon:anyweapon usedon you shattersfrom the impact. with the expenditureofa Blood Trait, you can activate Personal Armorfor the durationofthscene.when everyouareattackedmakea Simle Test;ifu succeedllattacsaganstunflictirmalamagebuifuareit meleeweapons, the weapon shatters onimpact and becomes completelyunusable.is omeonepunchesorkicksyou, the attacker suffersasmuchdamageashe inflictedonyou, and the hand(or foot）heusedtoattackbecomes unusableuntil that specificdamage is healed-after all, it is impossible topunch someone effectivelyifeveryboneinoneshandisshattered.If someoneisfoolishenough tokickyou, shereceives the Negative Physical Trait Lameuntil the damageis healed and can only move around at a walkingpace.Should someonefel adventurousenoughtoheadbuttyou, hereceivesdoublethedamageheinflicted and spends the nextround stunned, abletodefend himself but unableto attack, ashiscranium has justbecomeathousand small fragments of bone.Attackers.who have for titudemay use it to reduce the damage the ymight otherwise receive. Fetishes, klaives and magical weapons may be more resistant than or di nary weapons, depending on the Storyteller'sruling. This power is somewhat useless against ranged attacksasbullets still d damageeven as the yshatter.how ever, armor-piercing or high-caliberround functionlikenormalroundswhenusedagainstyou, astheyshatterbeforethey can properly pierceyour defenses.Non-physical attacks, such as Fire Bolt or Taste of Death are handlednormally. not e that you can not bestakedifyou succeedin the test, as the stake shatters beforeitcanproperlypierce you rheart. ## MASTERFORTITUDE
 
 SHAREDSTRENGTH
 
-Powerfuleldersoften tendtobebitterrivals,and thusmostly operate alone orwithconsiderablyweakerunderlings.Thisisfine until thelead starts tofly,butatthatpointitisoftenpreferabletotheeldertohavecompanions
+Powerfuleldersoften tendtobebitterrivals, and thusmostly operate alone or with considerablyweakerunderlings.this is fine until the lead starts tofly, but atthatpointitisoftenpreferabletotheeldertohavecompanions who arasresistanthamsshis with haed Stghthisbcmelit with stand far more injury than they can on the ir own. Spenda will power Trait and press a dropofyourvitaeinto the target's for ehead;this leavesamarkthatremainsvisbleaslongasthepowerisinfct. you the n spendone Blood Trait perlevelof for titudeyouwishto transferto anotherbingandnotethatfthereareeveraltargetyuustsendh manylood Traitr target.endingbloodmak Static Phsca Challenge against the number of Blood Traits spent times three for every target.for xampleestwivelvelsf for tituden smoneoumus make a Static Physical Challenge against 15 traits.) Successmeans you r target nowhas asmuch for titudeasyoudecidedtobestowuponherfortherestof the night Incaseof failuyumayetestusinghuivalility;if that fils aswel, hctafailednthatartculartagtumayatmptiagn provided that you have enough will power and Blood Traitsleft.not ethatif the targetalreadyhas for titudenlythxtralevelsyoubestowcount, and u onlyneed pay Blood Traitsfor the levels that you r target actually gains.(In otherwords, ifatargetwithtwoexistinglevelsof for titudeisgiventhreelevels of for titudewith Shared Strength, hewill onlygaina singlelevel of for titude.)
 
-<!-- image -->
-
-whoarasresistanthamsshisWithhaedStghthisbcmelit withstand far more injury than they can on their own.
-
-SpendaWillpowerTrait andpress a dropofyourvitaeinto the target's forehead;thisleavesamarkthatremainsvisbleaslongasthepowerisinfct. YouthenspendoneBloodTrait perlevelofFortitudeyouwishto transferto anotherbingandnotethatfthereareeveraltargetyuustsendh manyloodTraitr target.endingbloodmakStaticPhsca Challenge against thenumber of Blood Traits spent times three for every target.ForxampleestwivelvelsfFortituden smoneoumus make a StaticPhysicalChallenge against 15 traits.) Successmeans your target nowhas asmuchFortitudeasyoudecidedtobestowuponherfortherestof the nightIncaseof failuyumayetestusinghuivalility;if thatfils aswel,hctafailednthatartculartagtumayatmptiagn provided thatyou haveenoughWillpower and BloodTraitsleft.Notethatif thetargetalreadyhasFortitudenlythxtralevelsyoubestowcount,andu onlyneed payBlood Traitsfor the levels that your target actually gains.(In otherwords,ifatargetwithtwoexistinglevelsofFortitudeisgiventhreelevels ofFortitudewithSharedStrength,hewill onlygaina singlelevel ofFortitude.)
-
-SharedStrengthmay onlybeactive onceon any singletarget,nomatter howmany levels arebestowed:Youcan'tgive someoneFortitudeone level at a time bymaking a lot of extremely easy challenges.
-
-Thetargetneednotbeavampire,andnormalgenerationlimitationsto howmuchFortitude onemayhave don'tapply.Thetargetdoesn't need to be willingtoacceptthebenefittoreceiveit.Forobviousreasonsyoumaynever bestowmore levels ofFortitudeon anyone than youpossess.
-
-ASCENDANTFORTITUDE
+Shared Strengthmay onlybeactive onceon any singletarget, nomatter how many levels are bestowed:you can'tgive someone for titudeone level at a time bymaking a lot of extremely easy challenges. the targetneednotbeavampire, and normalgenerationlimitationsto how much for titude onemayhave do n'tapply.the targetdoesn't need to be will ingtoacceptthebenefittoreceiveit.for obviousreasonsyoumaynever bestowmore levels of for titudeon anyone than you possess. ASCENDANTFORTITUDE
 
 ## ADAMANTINE
 
-Adamantinefunctionsexactly likePersonalArmor,exceptyounolonger receive any damage from theweapons that shatter on your skin.
-
-## METHUSELAHFORTITUDE
+Adamantinefunctionsexactly like Personal Armor, exceptyounolonger receive any damage from the weapons that shatter on you r skin. ## METHUSELAHFORTITUDE
 
 JUGGERNAUT
 
-Avampirewho attains thislevelofmasteryis literallyunstoppable,and it seems impossible tohurt him atall.Itis incredibleandfrighteningtosee him in action;thosefewwho havedemonstrated thislevelof resistanceto damage are like walking fortresses who can literally take on dozens of lesser vampires somewherehesimplywalksthere-anyoneonhiswaygetspushed outof the way orwalked over.All attempts to restrain thevampire or toblock hisway fail automatically unless thecharacter attempting to stop thevampire has as muchPotenceasthevampirehasFortitude,inwhichcasethepersonattempting to stop thevampire mustmake a normal Physical Challenge.Onawin,the vampire is forced to stop,theirresistible force having met theobject that cannotbemoved.
-
-The vampire cannot walk through walls (not without suitable levels of Potence, anyway, although the Elder level of Potence is probably enough to
-
-<!-- image -->
-
-allowthevampiretoautomaticallywalk throughmostwalls) orcause damage topeoplesimplybywalkingatthem,butnovampireorotherbeingcanstand in his way.It isup to the Storyteller to determine if characters who,for example,getcrushed between thevampire and awall sufferinjury.
-
-Whenever something inflictsdamage onthevampire,theplayermakesa SimplTest.fthdamageisagravatedcomletelygrestnawina convertsittolethalonatie.Incaseoflethaldamage,hecompletelyignores the injury on a win or a tie.(Damage cannotbefirst tested down from aggravated to lethal,and then from lethal tobashing.)Hemay alwaysuse IntermediateFortitudetoreducetheseverityof anydamage thatmakesit through hisdefenses.Allbashingdamagetothevampireiscompletelyignored; heis simplyfar tooresilient to care about it.
-
-If twocharacterswithJuggermautmeeteachother,neithercanmovethe other justby walking at him; the powers negate each other.
-
-## MELPOMINEE
+Avampirewho attains this levelofmasteryis literallyunstoppable, and it seems impossible tohurt him atall.Itis incredibleandfrighteningtosee him in action;thosefewwho have demonstrated this levelof resistanceto damage are like walking for tresses who can literally take on do zens of lesser vampires somewherehesimplywalksthere-anyoneonhiswaygetspushed outof the way or walked over.All attempts to restrain the vampire or toblock hisway fail automatically unless the character attempting to stop the vampire has as much Potenceasthevampirehas for titude, inwhichcasethepersonattempting to stop the vampire mustmake a normal Physical Challenge.Onawin, the vampire is for ced to stop, the irresistible for ce having met the object that can not bemoved. The vampire can not walk through walls (not with out suitable levels of Potence, anyway, although the Elder level of Potence is probably enough to all owthevampiretoautomaticallywalk throughmostwalls) or cause damage topeoplesimplybywalkingatthem, but novampireorotherbeingcanstand in his way.It is up to the Storyteller to determine if characters who, for example, getcrushed between the vampire and awall sufferinjury. when ever something inflictsdamage onthevampire, the playermakesa Simpl Test.fthdamageisagravatedcomletelygrestnawina convertsittolethalonatie.Incaseoflethaldamage, hecompletelyignores the injury on a win or a tie.(Damage can not befirst tested do wn from aggravated to lethal, and the n from lethal tobashing.)Hemay alwaysuse Intermediate for titudetoreducetheseverityof anydamage that makesit through hisdefenses.all bashingdamagetothevampireiscompletelyignored; heis simplyfar tooresilient to care about it. If twocharacterswith Juggermautmeeteachother, neithercanmovethe other justby walking at him; the powers negate each other. ## MELPOMINEE
 
 ELDERMELPOMINEE
 
 SHATTERING CRESCENDO
 
-Some rare mortal singers can shatter wineglasses with theirvoices by finding theprecise pitch atwhichtheglassresonates.Exceptionallytalented Daughters of Cacophony cangofarbeyond that.Theyare able topitch their voicespreciselyenough tofind theresonantfrequency ofvirtually anyobject —includingthebodies of humans orKindred.Only onevictimata timecan beaffected by thispower;everyone elseinthe area will hear aharmless,if unsettling,high-pitched shriek.
+Some rare mortal singers can shatter wineglasses with the irvoices by finding the precise pitch atwhichtheglassresonates.Exceptionallytalented Daughters of Cacophony can gofarbeyond that.the yare able topitch the ir voicespreciselyenough tofind the resonantfrequency of virtually anyobject —includingthebodies of humans or Kindred.Only onevictimata timecan beaffected by this power;everyone elseinthe are a will hear aharmless, if unsettling, high-pitched shriek. The subjectmustbewithinhearingrangethough hemust not necessarily beable tohear—this powerwill workequallywell on adeafvictim.Spenda Blood Trait and makea Mental Challenge against the victim.If you are successful, the victim sufferstwohealthlevelsofaggravated damage.Ifyou use the poweragainst an inanimateobject, it is uptothe Storytellertodetermine how well you succeed(and determine the number of opposing Traits for the Static Mental Challenge).Most objects (windows, normal do or s, coffee machines, televisions)are easyenoughto shatterwiththispower. MASTERMELPOMINEE
 
-The subjectmustbewithinhearingrangethough hemust notnecessarily beable tohear—thispowerwill workequallywell on adeafvictim.Spenda Blood Trait and makea Mental Challenge against thevictim.If you are successful,thevictim sufferstwohealthlevelsofaggravated damage.Ifyou use thepoweragainst an inanimateobject,it isuptotheStorytellertodetermine how well you succeed(and determine thenumber ofopposingTraits for the Static Mental Challenge).Most objects (windows,normal doors, coffee machines,televisions)areeasyenoughto shatterwiththispower.
+PERSISTENTECHO with this poweryoucanspeakorsingtotheairandleaveyourwordsthere for alaterlistener.this mayeitherbethenextpersontostandwhereyouleftyour wordsoraspecificpersonouarealreadyacquaintedwith Persistent Echomay also beused to"suspend"other Melpomineepowersforfuture listeners:afact that makes some Kindrednervous as itisdifficult todetect the usageof Persistent Echo. To use this power, make a Static Social Challenge and spend a Blood Trait.you maynowspeak(or sing）the equivalent of one sentence;if you wish tospeaklonger, you mustspenda Social Traitforevery additionalsentence. If you wishtodelayanother Melpomineepower, you mustspenda will power Traitbeforemaking the Social Challenge.The echowill stay suspended for a maximumnumber of nights equal to you r permanent Social Traits. you mayeitherleavetheecho audibleforanyonewho standswhereyou of this power will disappear from the are a once its purpose has beenfulfilled. A characterwhoenhancesher hearingwith Heightened Sensesinan are a where anunactivated Persistent Echowaslacedhearsafintmurmurfhe has thcculbilityhmayatmttatic Mental Challengagainstu Mental Traits;if successful, she can hear the message.If shefails, sheis deafened for the rest of the night by a sudden roar of mystic static. ## OBEAH
 
-MASTERMELPOMINEE
-
-PERSISTENTECHO
-
-Withthispoweryoucanspeakorsingtotheairandleaveyourwordsthere foralaterlistener.Thismayeitherbethenextpersontostandwhereyouleftyour wordsoraspecificpersonouarealreadyacquaintedwithPersistentEchomay also beused to"suspend"otherMelpomineepowersforfuture listeners:afact that makes someKindrednervous as itisdifficult todetect theusageof PersistentEcho.
-
-To use thispower,make aStaticSocial Challenge and spend aBlood Trait.Youmaynowspeak(or sing）theequivalent ofone sentence;if you wish tospeaklonger,youmustspendaSocialTraitforevery additionalsentence. If youwishtodelayanotherMelpomineepower,youmustspendaWillpower Traitbeforemaking theSocial Challenge.The echowill stay suspended fora maximumnumber of nights equal to your permanentSocial Traits.
-
-<!-- image -->
-
-Youmayeitherleavetheecho audibleforanyonewho standswhereyou of this power will disappear fromthe area once its purpose hasbeenfulfilled.
-
-A characterwhoenhancesher hearingwithHeightenedSensesinan area whereanunactivatedPersistentEchowaslacedhearsafintmurmurfhe hasthcculbilityhmayatmttaticMentalChallengagainstu Mental Traits;if successful,she canhear the message.If shefails,sheis deafened for the rest of thenight by a sudden roar of mystic static.
-
-## OBEAH
-
-RENEWEDVIGOR
-
-Youmaynow healeventhemost grievous injurieswith amere touch and a moment's concentration.If life still clings to the subject—nomatter how feebly — you canbring him back from death's doorstep.
-
-TousethispowerspendaWillpowerTraitandtouchyour subjectou mustremaininphysicalcontactforafull turn,afterwhichallmissinghealth levels are restored,regardless ofwhether the damage isbashing,lethal or aggravatedfcontactisnmaintainedfortheentiretun,theWillowerTrait iswasted andnothingis accomplished.Youmayusethispowertoheal yourself, even ifyou are Incapacitated(butnotif you arein torpor,unlessyou have another power that allows the use of Disciplineswhilein torpor).
-
-## MASTEROBEAH
+RENEWEDVIGOR you maynow healeventhemost grievous injurieswith amere touch and a moment's concentration.If life still clings to the subject—nomatter how feebly — you can bring him back from death's do or step. Tousethispowerspenda will power Traitandtouchyour subjectou mustremaininphysicalcontactforafull turn, afterwhichallmissinghealth levels are restored, regardless of whether the damage is bashing, lethal or aggravatedfcontactisnmaintainedfortheentiretun, the will ower Trait is was ted and not hingis accomplished.you mayusethispowertoheal you rself, even ifyou are Incapacitated(but not if you are in torpor, unlessyou have another power that all ows the use of Disciplineswhilein torpor). ## MASTEROBEAH
 
 SAFE PASSAGE
 
-You may choose to turn off this power, but otherwise it is always considered tobeineffect.hose attempting topursueyoumust bid anextra Trait andmakaMentalChallengeagainstufouwinyuursue interest and wanders off to do something else.(What am I doing out here whenIcouldbeomewatchingVooh,ook,ashinything!Ifthepursu winsshemaycontinueherpursuitnaffectedfrtheremainderftheene.
+You may choose to turn of f this power, but otherwise it is always considered tobeineffect.hose attempting topursueyoumust bid anextra Trait and maka Mental Challengeagainstufouwinyuursue interest and wanders of f to do something else.(What am I do ing out here when Icouldbeomewatching Vooh, ook, ashinything!Ifthepursu winsshemaycontinueherpursuitnaffectedfrtheremainderftheene. With this power, you may passthrough a group with out any fear of harm. Unliktwakunviiltdak appeareutralarmlessandeasantandmakeseoplerespectfulandhul toward you with out stoppingto consider why.Anyone affectedby this power will take a very dim view of those who might pursue or attempt to harm you. Ifyouactivelykhltrastance(xcusucouldul mewherecouldfindalacetoseepyoumustmakeaocial Challene against the subject.you gainthree extra Traitsforthischallenge.With success the subject do es his best to help you out.This only applies to seemingly halsstain asking for advice-you can not use this to search for guns or contraband. the effects of this power last until the next sunrise.It affects everyone in you rgeneralarea;how ever, itisneffectiveagainstthosewhoknowyouwell It is still quite useful againstcasual acquaintances and strangers, though. ## ASCENDANTOBEAH
 
-With this power,youmay passthrough a group without any fear of harm. Unliktwakunviiltdak appeareutralarmlessandeasantandmakeseoplerespectfulandhul toward you without stoppingto consider why.Anyone affectedby this power will take a very dim view of those who might pursue or attempt to harm you.
-
-Ifyouactivelykhltrastance(xcusucouldul mewherecouldfindalacetoseepyoumustmakeaocialChallene against thesubject.Yougainthree extraTraitsforthischallenge.With success the subject does his best to help you out.This only applies to seemingly halsstain asking for advice-you cannot use this to search for guns or contraband.
-
-<!-- image -->
-
-Theeffects of thispower last until thenext sunrise.It affects everyone in yourgeneralarea;however,itisneffectiveagainstthosewhoknowyouwell It is still quite useful againstcasual acquaintances and strangers,though.
-
-## ASCENDANTOBEAH
-
-## PURIFICATION
-
-Withtiwucansfllansntmran ofdemonic ormalign spiritual presences.However,thepricemaybehigh indeedasyou arepitting your very soulagainst thecorruption you are trying topurge.
-
-Thispowermayonlybedevelopedorused if you havea HumanityorPath ratingof4orhigher.If thesubjectiswillingandthereisnoresistancefromthe WillpowerTrait to purge the subject of the taint.
-
-Shouldyouwinthebattleyoupullthecorruptingentityfromthesubject's bodyandimmediately spend anotherWillpowerTrait.You then thrust the entityntoanearbyitem,animalorperson,trappingthedemonntheselectd vessel.Thismustbeaccomplishedwithin two turns ofremoving thedemon fromthesubject,and thetargetmustbewithinphysicalreach.Otherwisethe demonwillgofree,and islikelytolocateitself a suitablevessel—suchasthe original subject or the person whomade it somiserable.
-
-Mostdemons andtheirkind tendtoresistsuch attempts,however,and thus you must engage thedemon intaxing spiritual combat.You must engage in Mental Challenges against thepossessing entity.Thefirst one to acquire threemorenetvictoriesthantheotherwins thebattle.Ifyoufail,then the Purification alsofails.Shouldyou lose three challengesin arow,the demon takes overyourbody.YoumayneverusePurificationonyourself,andithasno effect on theBeast or an alternatepersonality.
-
-## METHUSELAHOBEAH
+## PURIFICATION with tiwucansfllansntmran of demonic or malign spiritual presences.how ever, the pricemaybehigh indeedasyou are pitting you r very soulagainst the corruption you are trying topurge. this powermayonlybedevelopedorused if you have a Humanityor Path ratingof4orhigher.If the subjectiswillingandthereisnoresistancefromthe will power Trait to purge the subject of the taint. should you winthebattleyoupullthecorruptingentityfromthesubject's bodyandimmediately spend another will power Trait.You the n thrust the entityntoanearbyitem, animalorperson, trappingthedemonntheselectd vessel.this mustbeaccomplishedwithin two turns of removing the demon from the subject, and the targetmustbewithinphysicalreach.Otherwisethe demonwillgofree, and is likelytolocateitself a suitablevessel—suchasthe or iginal subject or the person who made it somiserable. Mostdemons and the ir kind tendtoresistsuch attempts, how ever, and thus you must engage the demon intaxing spiritual combat.You must engage in Mental Challenges against the possessing entity.the first one to acquire threemorenetvictoriesthantheotherwins the battle.Ifyoufail, the n the Purification alsofails.should you lose three challengesin arow, the demon takes overyourbody.you mayneveruse Purificationonyourself, and ithasno effect on the Beast or an alternatepersonality. ## METHUSELAHOBEAH
 
 ## UNBINDTHEFLESH-CLADSOUL
 
-FewunderstandthecomplexitiesofthesoulaswellastheSalubrido,yet mostKindredwould be amazed tolearn just howfar thisunderstandinggoes. Somepowerful Salubri eldersmay share thatunderstandingwith othersin a rather permanent way—they may removeawilling subject'ssoul permanently from his body,allowing him toroam the astral plane and explore theworld without the constraints of physical existence.There are those——chiefly Tremere—who warn that theSalubrimaymisrepresent themselves and trick others intovolunteering for"release"from the concerns of flesh,while in actuality they areonly using thispower to trap souls in another plane of existence.Obviously,the Salubri deny this charge and tend to berather offendedby suchimplications.
-
-Youandyourwillingsubjectbothenteradeepmeditativetranceforthe minimum duration of an hour while you perform theritual necessary to separatesoul fromfleshwithout damagingeither.During thisperiodyoumust spend twice asmanyBloodTraits asyour subject has permanentWillpower Traits.Atthe endof theritual,thesubject'sbody slips intoacoma and diesby the end of the night.
-
-<!-- image -->
-
-The subject's soul is removed from hisbody and enters the astral plane. This separation is permanent and irreversibleThe game mechanics are the longerhasasilvercordfshiseducedtozerWilpowershlssat of permanentWillowerandeformsayearandadaylaterat the placewhere her soul was separated from herbody.A character reduced tozero permanent Willpower onthe astral planeisdestroyedforever.
-
-This power may onlybe used uponmortals(except mages) andvampires who areinGolcondaThe subjectmusthaveafullunderstandingofwhat the ritual entails- including its permanence and the impossibility of reversal. Thebody ofavampirewhoisunbounddecaysat sunrise.Itis possibletodrink thebloodremaininginthevampiresbody,butdiableriecannotbeperformed. Any attempt to Embrace thebody of an unbound mortal automatically fails.
-
-Youmayusethispoweronyourself,providedthatyouhavereached Golconda.
-
-## OBFUSCATE
+Fewunderstandthecomplexitiesofthesoulaswellasthe Salubrido, yet most Kindredwould be amazed tolearn just how far this understandinggoes. Somepowerful Salubri eldersmay share that understandingwith othersin a rather permanent way—they may removeawilling subject'ssoul permanently from his body, all owing him toroam the astral plane and explore the world with out the constraints of physical existence.the re are those——chiefly Tremere—who warn that the Salubrimaymisrepresent the mselves and trick others into volunteering for"release"from the concerns of flesh, while in actuality they are only using this power to trap souls in another plane of existence.Obviously, the Salubri deny this charge and tend to berather of fendedby suchimplications. you and you rwillingsubjectbothenteradeepmeditativetranceforthe minimum duration of an hour while you perform the ritual necessary to separatesoul from fleshwithout damagingeither.During this periodyoumust spend twice asmany Blood Traits asyour subject has permanent will power Traits.Atthe endof the ritual, the subject'sbody slips into acoma and diesby the end of the night. The subject's soul is removed from hisbody and enters the astral plane. This separation is permanent and irreversible The game mechanics are the longerhasasilvercordfshiseducedtozer Wilpowershlssat of permanent will owerandeformsayearandadaylaterat the placewhere her soul was separated from herbody.A character reduced tozero permanent will power onthe astral planeisdestroyedforever. This power may onlybe used upon mortals(except mages) and vampires who are in Golconda The subjectmusthaveafullunderstandingofwhat the ritual entails- including its permanence and the impossibility of reversal. the body of avampirewhoisunbounddecaysat sunrise.Itis possibletodrink the bloodremaininginthevampiresbody, but diableriecannotbeperformed. Any attempt to Embrace the body of an unbound mortal automatically fails. you mayusethispoweronyourself, providedthatyouhavereached Golconda. ## OBFUSCATE
 
 ELDER OBFUSCATE
 
-CONCEAL
+CONCEAL you mustbewithin30feetof the objecttobeconcealed, and the item musthold someersonal significance for exampleyoumayconcealyourwn carorouse, or evenyourlover'shouse, but not anunknownpersonsvan.he Conceal power functions as Unseen Presence for purposes of detection. you maynowmask inanimateobjects as large as entire houses.the entire objectand itscontents are hidden, althoughaswithother Obfuscatepowers, photographswill still reveal what is hidden.While Conceal is in effect, passersbywillwalkaround the objectasifitwerestillvisiblebutrefuse acknowledge that they are making anykind of detour. Conceal can be used to mask a speeding car. Other drivers will subconsciouslytend tosteerawayfrom the car;indeed, undertherightconditions, carhiddenby Concealmayevenclear trafficfaster than anordinarycar.Should you speedoliceradarstillregistersthepeedingcar, but the policeoffice holding the radar gun will ikely believe the signal to be a glitch. With this power, you rmind is hiddenthewayother Obfuscatepowers hideyourbodyandyoumayhuoffostinvasiveprobeintoyouin
 
-Youmustbewithin30feetof theobjecttobeconcealed,andtheitem musthold someersonal significanceForexampleyoumayconcealyourwn carorouse,orevenyourlover'shouse,butnotanunknownpersonsvan.he Conceal power functions as UnseenPresence forpurposes of detection.
+## MIND BLANK when eversmneatmptsreadorprobeoumindhemust makea Mental Challngeless shewinsthechallengeshcannotreadu mind atall.Evenif shesucceedsshemust stillmakewhateverchallengethe probe requires and bid an additional Mental Traitfor that challenge. ## SOUL MASK with Soul Maskyou are nowabletoconcealyour aura.you may display anycombinationofcolorsandshadesyouwish, or evenmakeitappearasfyou have no aura what soever.Obviously, this power is extremely useful (and dangerousas it all wsonetolie throughhe teeth and have her auraappear
 
-Youmaynowmask inanimateobjects as large as entire houses.Theentire objectand itscontents arehidden,althoughaswithotherObfuscatepowers, photographswill still reveal whatis hidden.While Conceal is in effect, passersbywillwalkaround theobjectasifitwerestillvisiblebutrefuse acknowledge that they aremaking anykind of detour.
+Diciplines asif shewas tellingthetruth-or commitdiablerieallweeklongandlook squeaky clean come Sunday. Soul Mask all owsyou tochoose onespecifickindof aura(or lackthereof) and projectitatwill.If you have noexperiencewiththeuseof Aura Perception, you can not chooseanalternateaura afterall, how can you alter somethingif you have noidea what it should look like?).you may still choosetoprojectno aura at all.If you wishtohavemultiple auras and switchbetween the m atwill, you must purchase Soul Maskmultipletimes.the fakeaura is considered tobe always active, and you must"switchitoff'toletyourreal aura showthrough. Ifyoupurchased Soul Maskseveraltimes, the firstaurayoucreatedistheone displayed by default. ## MASTEROBFUSCATE
 
-Conceal can be used to mask a speeding car. Other drivers will subconsciouslytend tosteerawayfrom thecar;indeed,undertherightconditions, carhiddenbyConcealmayevenclear trafficfaster thananordinarycar.Should you speedoliceradarstillregistersthepeedingcar,butthepoliceoffice holding the radar gun willikely believe the signal to be a glitch.
+CACHE the itemmustbewithinthenormalrangeof the Obfuscatepowerwhen you activateit.Afterthatyoumustspenda will power Trait, which activates Cache on topof the previously activated Obfuscateeffect.The concealment will remain in effect aslong as you staywithin a distance of you r permanent Mental Traits inmiles.the effectwill end atthenext sunrise, or when the Obfuscated subjectchooses toreveal herself, which ever comesfirst. While otherusesof Obfuscaterequirethattheuserisveryclosetothe objectorpersonbeing Obfuscatedwith Cacheyoucanhideitemsorpeopleso that the Obfuscate remains in effect even after you leave the are a. ## ASCENDANT OBFUSCATE
 
-With thispower,yourmind ishiddenthewayother Obfuscatepowers hideyourbodyandyoumayhuoffostinvasiveprobeintoyouin
-
-## MIND BLANK
-
-Wheneversmneatmptsreadorprobeoumindhemust makeaMentalChallngeless shewinsthechallengeshcannotreadu mind atall.Evenif shesucceedsshemust stillmakewhateverchallengethe probe requires and bid an additional Mental Traitfor that challenge.
-
-## SOUL MASK
-
-WithSoulMaskyou arenowabletoconcealyour aura.Youmay display anycombinationofcolorsandshadesyouwish,orevenmakeitappearasfyou have no aura whatsoever.Obviously, this power is extremely useful (and dangerousas it allwsonetolie throughhe teeth and haveher auraappear
-
-Diciplines asif shewas tellingthetruth-orcommitdiablerieallweeklongandlook squeaky clean come Sunday.
-
-Soul Mask allowsyou tochoose onespecifickindof aura(or lackthereof) andprojectitatwill.If you havenoexperiencewiththeuseofAuraPerception, youcannotchooseanalternateaura afterall,howcanyoualter somethingif youhavenoidea what it should look like?).Youmay still choosetoprojectno aura at all.If youwishtohavemultiple auras and switchbetween them atwill, youmust purchaseSoul Maskmultipletimes.Thefakeaura isconsidered tobe always active,andyou must"switchitoff'toletyourreal aura showthrough. IfyoupurchasedSoulMaskseveraltimes,thefirstaurayoucreatedistheone displayed by default.
-
-## MASTEROBFUSCATE
-
-CACHE
-
-Theitemmustbewithinthenormalrangeof theObfuscatepowerwhen you activateit.AfterthatyoumustspendaWillpowerTrait,whichactivates Cache on topof thepreviously activated Obfuscateeffect.The concealment will remain in effect aslong as you staywithin a distance of your permanent Mental Traits inmiles.Theeffectwill end atthenext sunrise,orwhen the Obfuscated subjectchooses toreveal herself,whichever comesfirst.
-
-While otherusesofObfuscaterequirethattheuserisveryclosetothe objectorpersonbeingObfuscatedwithCacheyoucanhideitemsorpeopleso that the Obfuscate remains in effect even after you leave the area.
-
-## ASCENDANT OBFUSCATE
-
-## OLDFRIEND
-
-TheNosferatu are considered bymany tobe able tofind out just about anything,anditiscertainlytruethattherearefewwhocanequalthemwhen it comes to sticking one'smalformednosewhereit doesn'tbelong.This particularpowerispopularamongcertainNosferatuelders,whohavesuccessfully used itto squeeze secretsoutofunsuspectingKindred.OldFriend allows the user toprobe thesuspect's subconscious and take onthe semblance of the individual the subject trustsmore than anyone.The personbeingimpersonateddoesn'tevenhavetobealive;thesubjectrememberstheencounter asa dreamoraghostlyvisitation.
-
-SpendaWillpowerTraitandmakesaMental Challengeagainst the subject.Onasuccess,thesubjectbelievesyoutobeanoldfriend,arelativer someone else hetrusts.Youreceivethree extra Traits to all Subterfuge tests whilethispowerisineffect.NotethatOldFriend onlyaffectsa singlesubject atatmeandnlookerwillseeourtruaturesunlessyoualsouseaask ofa ThousandFaces.
-
-Thisisaowerthatrequiresroleplayingfrombothartiesandshouldt bereduced to a stringofSubterfuge tests.
-
-## METHUSELAH OBFUSCATE
+## OLDFRIEND the Nosferatu are considered bymany tobe able tofind out just about anything, and itiscertainlytruethattherearefewwhocanequalthemwhen it comes to sticking one'smalformednosewhereit do esn'tbelong.This particularpowerispopularamongcertain Nosferatuelders, who have successfully used itto squeeze secretsoutofunsuspecting Kindred.Old Friend all ows the user toprobe the suspect's subconscious and take onthe semblance of the individual the subject trustsmore than anyone.The personbeingimpersonateddoesn'tevenhavetobealive;the subjectrememberstheencounter asa dreamoraghostlyvisitation. Spenda will power Traitandmakesa Mental Challengeagainst the subject.Onasuccess, the subjectbelievesyoutobeanoldfriend, are lativer someone else hetrusts.you receivethree extra Traits to all Subterfuge tests whilethispowerisineffect.not ethat Old Friend onlyaffectsa singlesubject atatmeandnlookerwillseeourtruaturesunlessyoualsouseaask of a Thousand Faces. this is aowerthatrequiresroleplayingfrombothartiesandshouldt bereduced to a stringof Subterfuge tests. ## METHUSELAH OBFUSCATE
 
 ## CREATE NAME
 
-Whilepretendingtobe someoneelsecanbeaccomplishedwith lower levels of Obfuscate,such crude deceptions arenothing compared to Create
+Whilepretendingtobe someoneelsecanbeaccomplishedwith lower levels of Obfuscate, such crude deceptions are not hing compared to Create this nldeappearancechattandevenoughtce identity with perfect accuracy. you must spend threehoursinrelative peaceandsilencetoestablishanew Mental Challengeagainstthe Storytelle the diffcultyofthistaskisentirely complicated personalities).The Storyteller has final word in all matters regarding this power. Once the process is complete, you may"step in"to this new identity when ever you desire with out anykind of a test.Any outside observer who do esn't have Methuselah-level Auspexor the equivalent sees the artificial identityandhasowayfeingthrought.ourauraature, Demanr, even thoughts and Psychological Meritsand Flaws, appear completely genu ine, eventhough the yhavebeencrafted.you mayhaveasmany self-created identities asyoudesire, but onlyoneofthemmaybe"active"atanygiventime. Tomake anotheridentityactive(and the previousidentitypassive), you must spend a will power Trait and concentrate for a minute. Besides Methuselah-level Auspex(Mental Challengerequired), the only way to spot the personality asafakeistonotice discrepancies between the manufactured identity and the skills and abilities it should possess —for example, acharacterwithnoknowledgeof Medicineisn'tgoingtomakeavery convincingneurosurgeon if the details of hisjob come up.A characterwith enough suspicions about the identitymay make a Static Social Challenge against the Storytellertoidentifythefraud. ## POTENCE
 
-<!-- image -->
-
-Thisnldeappearancechattandevenoughtce identity with perfect accuracy.
-
-Youmust spend threehoursinrelative peaceandsilencetoestablishanew MentalChallengeagainsttheStorytelleThediffcultyofthistaskisentirely complicated personalities).The Storyteller has final word in all matters regarding this power.
-
-Once the process is complete,you may"step in"to this new identity whenever you desire without anykind of a test.Any outside observer who doesn't have Methuselah-level Auspexor theequivalent sees the artificial identityandhasowayfeingthrought.ourauraature,Demanr, even thoughts andPsychologicalMeritsandFlaws,appear completely genu ine,eventhough theyhavebeencrafted.Youmayhaveasmany self-created identities asyoudesire,butonlyoneofthemmaybe"active"atanygiventime. Tomake anotheridentityactive(and thepreviousidentitypassive),youmust spend aWillpower Trait and concentrate for a minute.
-
-BesidesMethuselah-level Auspex(Mental Challengerequired),the only way to spot the personality asafakeistonotice discrepancies between the manufactured identity and the skills and abilities it should possess —for example,acharacterwithnoknowledgeofMedicineisn'tgoingtomakeavery convincingneurosurgeon if the details of hisjob come up.A characterwith enough suspicions about theidentitymay make a StaticSocial Challenge against theStorytellertoidentifythefraud.
-
-## POTENCE
-
-It is well-known thatvampires who are learned inPotence arecapable of clearly superhuman featsof strength,but that isnothing compared to the incredible physical prowess of those elderswho have reached superior levelsof the Discipline.
-
-## ELDER POTENCE
+It is well-known that vampires who are learned in Potence are capable of clearly superhuman featsof strength, but that is not hing compared to the incredible physical prowess of those elderswho have reached superior levelsof the Discipline. ## ELDER POTENCE
 
 ## IMPRINT
 
-SpendingaBloodTraitactivatesthepowerfortheentire scene.Youcannow crushverytoughobjectswithyourhandsorleaveanimprintofyourhandsinthem forexamleyouwillhavenublepusingouhandintallrquein asteelpipeoutof shapeftheresconfusionastowhetherornotthevampircan crushacrtainbjct,thtrytralwaysasina saynthemat.
-
-Some subtleapplicationsofPotence exist;Imprintisn'toneof them.While anyonewithPotencecanexerttremendouspressureonobjects,avampirewith Imprintcanlitrallrushsteelwithherbarehandsrintmakeforexcellen intimidation.lternativelyitcanbeusedtocreatehandholdswhenclimbing, anditgewithout sayingthatfapliedtmnethroatreult extremely nasty.
-
-<!-- image -->
-
-Ifusedagainstanothervampire,theattacknflictsoneadditionalhealth level of damage.Said damage isconsideredtobelethal.
-
-## MASTERPOTENCE
+Spendinga Blood Traitactivatesthepowerfortheentire scene.you can now crushverytoughobjectswithyourhandsorleaveanimprintofyourhandsinthem for examleyouwillhavenublepusingouhandintallrquein asteelpipeoutof shapeftheresconfusionastowhetherornotthevampircan crushacrtainbjct, thtrytralwaysasina saynthemat. Some subtleapplicationsof Potence exist;Imprintisn'toneof the m.While anyonewith Potencecanexerttremendouspressureonobjects, avampirewith Imprintcanlitrallrushsteelwithherbarehandsrintmakeforexcellen intimidation.lternativelyitcanbeusedtocreatehandholdswhenclimbing, and itgewithout sayingthatfapliedtmnethroatreult extremely nasty. Ifusedagainstanothervampire, the attacknflictsoneadditionalhealth level of damage.Said damage is consideredtobelethal. ## MASTERPOTENCE
 
 ## EARTHSHOCK
 
-EarthshockprovesthatthereismoretoPotencethanjusthittingsomething until it stopsmoving.WithEarthshock,youmayredirect your strengthyou strike(orstomp,dependingonpersonalprference）theground,andtheforce of theblowexplodesupfromtheground somedistanceaway,directlybelow youropponent.
-
-To use this power, spend aBlood Trait andmake a Physical Challenge against youropponent.lf successul,thegrounddirectlyunderneaththetarget explodesnayserf stneckandirtr,ifndoorswood,coretan plumbing),inflicting threelevelsof lethaldamage as sharp shards of debrisrp into the target.
-
-If usedagainstacar,thecarwillbedisabledunlessitisspecificallyarmored. Thepowermaybeused indoors,buttheresults arefarmore spectacularnot onlywilltherebeagapingholeonthefloorbuttheresultingshoweroffloor materialswillbreaknearbywindowsandcauseotherdamagetothe surroundings. If thereisanotherfloororabasementbelowthetarget,shemustmakeaStatic PhysicalChallengeagainst sixTraits toremainonthesamefloororfallthrough the resulting hole.Thismay also happen outdoors if someonehappens to be standingndirectlyntpfseweipenaridgeandsoforthgoodrl ofthumbisthatifthereislessthanafootandahalfofconcrete,earthorwhatever, itmeans that therewill be a large holeif Earthshock is used there.
-
-Theattackhasarangeof10feetperlevelofPotence,meaning thatyou willalwayshaveabasicrangeof6feet,ifnotmore,aslongasyourtarget is in line of sight.
-
-## ASCENDANTPOTENCE
+Earthshockprovesthatthereismoreto Potencethanjusthittingsomething until it stopsmoving.with Earthshock, you mayredirect you r strengthyou strike(or stomp, dependingonpersonalprference）the ground, and the for ce of the blowexplodesupfromtheground somedistanceaway, directlybelow you ropponent. To use this power, spend a Blood Trait and make a Physical Challenge against you ropponent.lf successul, the grounddirectlyunderneaththetarget explodesnayserf stneckandirtr, ifndoorswood, coretan plumbing), inflicting threelevelsof lethaldamage as sharp shards of debrisrp into the target. If usedagainstacar, the carwillbedisabledunlessitisspecificallyarmored. the powermaybeused indoors, but the re sults are farmore spectacularnot onlywilltherebeagapingholeonthefloorbuttheresultingshoweroffloor materialswillbreaknearbywindowsandcauseotherdamagetothe surroundings. If the reisanotherfloororabasementbelowthetarget, shemustmakea Static Physical Challengeagainst six Traits toremainonthesamefloororfallthrough the resulting hole.this may also happen outdoors if someonehappens to be standingndirectlyntpfseweipenaridgeandsoforthgoodrl of thumbisthatifthereislessthanafootandahalfofconcrete, earthorwhatever, itmeans that the rewill be a large holeif Earthshock is used the re. the attackhasarangeof10feetperlevelof Potence, meaning that you will alwayshaveabasicrangeof6feet, ifnotmore, aslongasyourtarget is in line of sight. ## ASCENDANTPOTENCE
 
 FLICK
 
-SubtlenueifotinffectFlkisafrightningowerWithFlcku can usethe slightest of gesturestodelivertruly devastating attacks.Youknow how toapplyyour full strengthin the tiniestmovements.Youcan simply snap your fingers and watch your opponent smash through the window or shrug calmly and break the bones of theunsuspecting vampire standing behind you.
+Subtlenueifotinffect Flkisafrightningower With Flcku can usethe slightest of gesturestodelivertruly devastating attacks.you know how toapplyyour full strengthin the tiniestmovements.you can simply snap you r fingers and watch you r opponent smash through the window or shrug calmly and break the bones of the unsuspecting vampire standing behind you. you must spendone Blood Traiteverytimeyouusethispower.Ifthetarget is aware of the attack, you must succeedinanormal Physical Challenge against her.how ever, sinceitisextremelyhardtododgesomethingthatyoudon'tsee coming, the targetmustbid three extra Traitsforthechallenge.If the target is unawareoftheattackandthereishysicalcontactorexamleifyoushake hishand or touch him on the should er in a normal social situation）no challenge need be made. you may hit anythingyou can seewith this power, and do n'tneed to actually touch anyone or anything (but you must alwaysmake somekind of a gestureinthedirectionoftheinendd target）Indeed, ewmayrealizeat you'reresponsiblefor laying suchwasteto everythinginthevicinity if you're simply standing around and making small gestures.With a win on a Static
 
-Youmust spendoneBloodTraiteverytimeyouusethispower.Ifthetarget isaware oftheattack,youmust succeedinanormalPhysical Challenge against her.However,sinceitisextremelyhardtododgesomethingthatyoudon'tsee coming,the targetmustbid three extraTraitsforthechallenge.If thetarget isunawareoftheattackandthereishysicalcontactorexamleifyoushake hishand or touch him on the shoulder in a normal social situation）no challenge need be made.
-
-Youmay hit anythingyou can seewith this power,and don'tneed to actually touch anyone or anything (butyoumust alwaysmake somekind of a gestureinthedirectionoftheinendd target）Indeed,ewmayrealizeat you'reresponsiblefor laying suchwasteto everythinginthevicinity if you're simply standing around and making small gestures.With a win on a Static
-
-<!-- image -->
-
-Flick doeswhatever damage you would normally do inhand-to-hand as Earthshock, in conjunction withFlick.
-
-METHUSELAH POTENCE
+Flick do eswhatever damage you would normally do inhand-to-hand as Earthshock, in conjunction with Flick. METHUSELAH POTENCE
 
 DESTRUCTION
 
-This iswherepure,raw strengthbegins.Avampirewhohasreached this levelofmasterycanliterallydestroyentirebuildingswitherstrengthalone; nothing can stand in her way.
-
-You spend three Blood Traits; for the remainder of the scene, your strengthis simply monumental.Ifyou strike something,you inflict three additional levels of lethal damage; your punches are powerful enough to pulverizebonesWherethrssaseballbatsrwordyuusetlpn polefnpffwllrvncahwan youanadditional sixTraitstobidinchallengesandcauseanadditionaltwo levelsof lethal damage(though theStorytellerisfreetomodify thespecifics of such weapons).
-
-Other feats of strength arealsopossible,rangingfrom punchingholes throughshipshulls torippingcarsinhalf and liftingentirebusloadsof people in theair.TheStorytellershould feel freetocallforStaticPhysicalChallenges where appropriate.
-
-Shouldyou strikeamortaloraghoul,theywill dieimmediatelyif the strikeconnectsno human(orevenrelativelyhuman)body canwithstand such punishment.You may,of course,attempt to pull the punch.
-
-## PRESENCE
+This is where pure, raw strengthbegins.Avampirewhohasreached this levelofmasterycanliterallydestroyentirebuildingswitherstrengthalone; not hing can stand in her way. You spend three Blood Traits; for the remainder of the scene, you r strengthis simply monumental.Ifyou strike something, you inflict three additional levels of lethal damage; you r punches are powerful enough to pulverizebones where thrssaseballbatsrwordyuusetlpn polefnpffwllrvncahwan you anadditional six Traitstobidinchallengesandcauseanadditionaltwo levelsof lethal damage(though the Storytellerisfreetomodify the specifics of such weapons). Other feats of strength are alsopossible, rangingfrom punchingholes throughshipshulls torippingcarsinhalf and liftingentirebusloadsof people in the air.the Storytellershould feel freetocallfor Static Physical Challenges where appropriate. should you strikeamortaloraghoul, the ywill dieimmediatelyif the strikeconnectsno human(or evenrelativelyhuman)body can with stand such punishment.You may, of course, attempt to pull the punch. ## PRESENCE
 
 ELDER PRESENCE
 
 LoVE
 
-The subjectmustbeinthe sameareaandbein somesortof activesocial contactwithyouaconversationanexchanged lok,a greetinganything willdoacllnggsarguu becomes attached toyouasif hewasblood bound toyoufor theremainderof maybethetargetofthispower asmanytimesduringthenight asyoudesire;
-
-The blood bond iscertainly one of themost effective and traditional ways to gain control of another Kindred.However, in these enlightened days, childerareoftenawareof thebond andknowhowtoavoiditandwhilethey canbeforcedintoservicetsoftenprferabletohandlthesituationnamre subtlemaneroeisnewayfaccomplishingthamplyputithamst ofthebenefitsoftheblood bondwithouttheless-than-pleasantsideeffects.It's notquiteassureorlastingamethodfcontolasteondbutnmostcases, it's efficient enough.
-
-<!-- image -->
-
-## PARALYZING GLANCE
-
-Youmustmakeeyecontactwiththeintended subject,thenmakea Social Challeneaganst htargetf sssfuyutrgeducedtibbi, panic-stricken wreck.Theeffects last foras long as you remainin the same roomwithyourtarget,oruntilsunrise.Ifyouleavetheroomorclearlyabandon your target'spresence(bywalkingtotheotherend of thelargeballroom,for example),thesubjectremainsparalyzedfortheremainderofthescene,after which he slowlyregainshis senses.
-
-Elderswhohavereached this levelof masterymaynotbe abletokill with aglance,butthey'recertainlyclose.Thispowerisessentiallyamoredeveloped versionof DreadGaze.Avampireusingthison another vampire canfreeze the targetwithmind-numbingterror.
-
-If the subject's lifeis directly threatened(byphysical assault,impending sunrise,arampaginghordeofSabbat),hemay attemptto snapoutofitby makinga StaticMental Challenge.Ifhesucceeds,theparalysis ends and he mayact.Should hefailheentersacontinuous stateofRotschreckfortherest of the night(whichmay be calmed by the usual means).
-
-## SPARKOF RAGE
-
-Thispowerallows you to shorten tempers and generallyraise theirritation levelinthe area.SparkofRage causes disagreements andfights,andmaywell send suitably enragedvampiresintofrenzy.
-
-SpendaWillpowerTraittoactivatethispowerfortheremainderof the scene.Allwithin10feetofyoufeelitseffectsandbecomeincreasinglyhostile to others inthearea.Thoseaffected continue tobeirritated and hostileeven when theyleaveyoursphere ofinfluence,buttheirirritationisnolonger artificiallyenhanced andtheycancalmdownifthey'rewillingandencouraged todoso.Vampireswhobecome suitably enragedoftenwhipthemselvesinto frenzy.Theirritation tendstobedirectedatothersbesideyourself,butifyou provokethesubjects,oriftherearenootherspresent,ouretheclosest target forventing anyire.
-
-Anyone influenced by this power may spend a Willpower Trait to calm downforoneturn andrefrain fromfrenzying.ThosewiththeCalmHeartedMerit can spendaWillpowerTrait andresistthepower'seffectsfor thenextminute.
-
-This effect should be mostly roleplayed out;applyingrules to determine the degree ofirritationis clumsy andinaccurate atbest;eachplayerknows whenhis character hasreached such a degree of irritation thathe snaps.
-
-## MASTERPRESENCE
+The subjectmustbeinthe sameareaandbein somesortof activesocial contactwithyouaconversationanexchanged lok, a greetinganything will do acllnggsarguu becomes attached toyouasif hewasblood bound toyoufor the remainderof maybethetargetofthispower asmanytimesduringthenight asyoudesire; The blood bond is certainly one of the most effective and traditional ways to gain control of another Kindred.how ever, in the se enlightened days, childerareoftenawareof the bond and knowhowtoavoiditandwhilethey can beforcedintoservicetsoftenprferabletohandlthesituationnamre subtlemaneroeisnewayfaccomplishingthamplyputithamst of the benefitsoftheblood bondwithouttheless-than-pleasantsideeffects.It's not quiteassureorlastingamethodfcontolasteondbutnmostcases, it's efficient enough. ## PARALYZING GLANCE you mustmakeeyecontactwiththeintended subject, the nmakea Social Challeneaganst htargetf sssfuyutrgeducedtibbi, panic-stricken wreck.the effects last for as long as you remainin the same roomwithyourtarget, or untilsunrise.Ifyouleavetheroomorclearlyabandon you r target'spresence(bywalkingtotheotherend of the largeballroom, for example), the subjectremainsparalyzedfortheremainderofthescene, after which he slowlyregainshis senses. Elderswhohavereached this levelof masterymaynotbe abletokill with aglance, but they'recertainlyclose.this powerisessentiallyamoredeveloped versionof Dread Gaze.Avampireusingthison another vampire can freeze the targetwithmind-numbingterror. If the subject's lifeis directly threatened(byphysical assault, impending sunrise, arampaginghordeof Sabbat), hemay attemptto snapoutofitby makinga Static Mental Challenge.Ifhesucceeds, the paralysis ends and he mayact.Should hefailheentersacontinuous stateof Rotschreckfortherest of the night(which may be calmed by the usual means). ## SPARKOF RAGE this powerallows you to shorten tempers and generallyraise the irritation levelinthe are a.Sparkof Rage causes disagreements and fights, and maywell send suitably enragedvampiresintofrenzy. Spenda will power Traittoactivatethispowerfortheremainderof the scene.all with in10feetofyoufeelitseffectsandbecomeincreasinglyhostile to others inthearea.Thoseaffected continue tobeirritated and hostileeven when the yleaveyoursphere of influence, but the ir irritationisnolonger artificiallyenhanced and they can calmdownifthey'rewillingandencouraged todoso.Vampireswhobecome suitably enragedoftenwhipthemselvesinto frenzy.the irritation tendstobedirectedatothersbesideyourself, but ifyou provokethesubjects, or iftherearenootherspresent, ouretheclosest target for venting anyire. Anyone influenced by this power may spend a will power Trait to calm do wnforoneturn and refrain from frenzying.Thosewiththe Calm Hearted Merit can spenda will power Trait and resistthepower'seffectsfor the nextminute. This effect should be mostly roleplayed out;applyingrules to determine the degree of irritationis clumsy and inaccurate atbest;eachplayerknows when his character has reached such a degree of irritation that he snaps. ## MASTERPRESENCE
 
 ## COOPERATION
 
-WhiletheCamarillaisbasedoncooperation,itisoftenpainfullyobvious that some of itsmembers are anythingbutcooperative.ldrivalries,secret ambitions andendlessintriguedon'texactlybreed trust andwillingnesstoplay nicewitheach other.Anelderwho hasdeveloped thispowercanchange that inaheartbeatItsnotaerfectolutionbuttoescausehoseitaffctst and work together.SomeVentruemaintain the opinion that the existence of this power is the only reason the Camarilla is still holding together.On the
+Whilethe Camarillaisbasedoncooperation, itisoftenpainfullyobvious that some of itsmembers are anythingbutcooperative.ldrivalries, secret ambitions and endlessintriguedon'texactlybreed trust and will ingnesstoplay nicewitheach other.Anelderwho has developed this powercanchange that inaheartbeat Itsnotaerfectolutionbuttoescausehoseitaffctst and work together.Some Ventruemaintain the opinion that the existence of this power is the only reason the Camarilla is still holding together.On the e the playerspendsaointf will owe, which activatesthisowefoh cooperative plans. the seffectshouldlwayllaydutagainhssmhing rulesreallycantovenerywell Stillthearemsecificffectlw succeful hfzisavdd;if itfailamiwillaeeli the situation aspernormalrules. ## FATHERKNOWS BEST the re is a phasein everyone's development from baby to adult where a person or persons -usually one or both of the parents— is everything to a child;afigure who knows everything and can protect the child from anything. this illusion shatters asthechildgrows up;intheendweall discoverthatthe peoplewho once seemed sowise and capable and faultless are just human beings.how ever, avampirewith Father Knows Bestcanmakehimself seemlike such a being to others and can command almost blind devotionand trust. the re is aflip side to this, though.If you obviously betray another's trust or otherwisedemonstrate that you are not thetrustworthyfigure you purported you rself tobe, you rchildrenimmediatelyresentyouandrefusetocooperate. you can not re-establish this influence for the re mainderof the sessionwithout using for getful Mindtoerase the incident from eachpersonsmemory.Another do wnsideis that you mayfindyourself becoming anexceedinglyimportant figurettheubjctfthisweingfatmaktossileou toget awayfrom the mwithoutthemwantingtofollowyou around.the ywant toremaininyour comforting presencebecauseit feelslkea safeplace.not e that whilethepowerfectsonlyapplyaslongasyoursubjectsremaininthe same are awithouheystilemmbertheffectandmost subjectwill thinkof the m as pleasant.this maylead to some charactersespecially ones concerned and frantic if they can not locateyouor fear that something has happened to you. Itcosts one Blood Traitto activate Father Knows Best, and itwill stayin effect for the entire sceneunless you will fully turn it of f.Aslongasthepower is activevronenhsameareawithouadmirerectsandlvesu and considersyou to bea significant authority figure.not e that this do esn't mean that everyone instantly obeysyou—after all, children disobey all the time.how ever, no oneunder the influenceof Father Knows Bestwill ever attempt to harmyou in anyway and will attempt tocooperatewithyou.It may takeabitofcoaxingbutyoucantalkothersintodoingjustabout anything with inreason.(Stickyourhead inthefurnace, itwon'thurt"won'twork, but the equivalent of you must tell me if you've been naughty"will.) not e that this won'tregressthesubjectsmindstoachildlikestate and treating the m like children is likely to annoy the subjects. Diciplines
 
-<!-- image -->
-
-e
-
-TheplayerspendsaointfWillowe,whichactivatesthisowefoh cooperative plans.
-
-Theseffectshouldlwayllaydutagainhssmhing rulesreallycantovenerywellStillthearemsecificffectlw succeful hfzisavdd;if itfailamiwillaeeli the situation aspernormalrules.
-
-## FATHERKNOWS BEST
-
-There is a phasein everyone's development from baby to adult where a person or persons -usually one or both of the parents— is everything to a child;afigure who knows everything andcan protect thechild from anything. Thisillusion shatters asthechildgrows up;intheendweall discoverthatthe peoplewho once seemed sowise and capable and faultless are just human beings.However,avampirewithFatherKnowsBestcanmakehimself seemlike such a being to others and cancommand almost blind devotionand trust.
-
-There isaflip side to this,though.If you obviously betray another's trust orotherwisedemonstrate that youarenotthetrustworthyfigure youpurported yourself tobe,yourchildrenimmediatelyresentyouandrefusetocooperate. Youcannot re-establish thisinfluence fortheremainderof the sessionwithout usingForgetfulMindtoerase theincident fromeachpersonsmemory.Another downsideis thatyoumayfindyourself becoming anexceedinglyimportant figurettheubjctfthisweingfatmaktossileou toget awayfrom themwithoutthemwantingtofollowyou around.Theywant toremaininyour comforting presencebecauseit feelslkea safeplace.Note thatwhilethepowerfectsonlyapplyaslongasyoursubjectsremaininthe same areawithouheystilemmbertheffectandmost subjectwill thinkof them as pleasant.Thismaylead to some charactersespecially ones concerned and frantic if they cannot locateyouor fear that something has happened to you.
-
-Itcosts oneBloodTraitto activateFatherKnowsBest,anditwill stayin effect for theentire sceneunless you willfully turn it off.Aslongasthepower isactivevronenhsameareawithouadmirerectsandlvesu andconsidersyou to bea significant authority figure.Note that this doesn't mean thateveryone instantly obeysyou—after all,children disobey all the time.However,no oneunder theinfluenceofFatherKnowsBestwill ever attempt to harmyou in anyway andwill attempt tocooperatewithyou.It may takeabitofcoaxingbutyoucantalkothersintodoingjustabout anything withinreason.(Stickyourhead inthefurnace,itwon'thurt"won'twork,but the equivalent of Youmust tell me if you've been naughty"will.) Note that thiswon'tregressthesubjectsmindstoachildlikestate andtreating them like children is likely to annoy the subjects.
-
-Diciplines
-
-FatherKowsestsalong-ermpowerandyoullbenefitmostfromit youplayyourcardsright,make sureyour"children"aretakencareof anddon't abuse them.You can gain extremely loyal and devoted followers simply by spendingtimearound themwithoutevenpromisingthemanything.Bestof all, thesechildrenwill nevergrow outof thephase.
-
-## ASCENDANTPRESENCE
+Father Kowsestsalong-ermpowerandyoullbenefitmostfromit you playyourcardsright, make sureyour"children"are takencareof and don't abuse the m.You can gain extremely loyal and devoted followers simply by spendingtimearound the mwithoutevenpromisingthemanything.Bestof all, the sechildrenwill nevergrow outof the phase. ## ASCENDANTPRESENCE
 
 ## IRONCLADCOMMAND
 
-Mostvampirescanusuallyresist theeffectsofPresenceforbrief times throughaneffortofwill.However,someeldershavedevelopedsuchaforceof personality that their powers ofPresence cannot beresistedwithout truly heroicefforts.
-
-This power is always ineffect onceit is learned.A mortalmaynotspend WillpowerTraitstoresistyourPresenceforgame purposes,mortalers ordinaryhumanbeings,notghouls,humanswhoossessTrueFaith,hede magicians,or other"special"folks).A supernatural beingwho can ordinarily resistcertainPresencepowersfor oneroundbyspendingaWillpowerTrait must now spend twoWillpowerTraitsandmakeaSimpleTest;onawin,they can resist the effects;on a tie or a failure,they fail to resist.
-
-## METHUSELAHPRESENCE
+Mostvampirescanusuallyresist the effectsof Presenceforbrief times throughaneffortofwill.how ever, someeldershavedevelopedsuchaforceof personality that the ir powers of Presence can not beresistedwithout truly heroicefforts. This power is always ineffect onceit is learned.A mortalmaynotspend will power Traitstoresistyour Presenceforgame purposes, mortalers or dinaryhumanbeings, not ghouls, humanswhoossess True Faith, hede magicians, or other"special"folks).A supernatural beingwho can or dinarily resistcertain Presencepowersfor oneroundbyspendinga will power Trait must now spend two will power Traitsandmakea Simple Test;onawin, they can resist the effects;on a tie or a failure, they fail to resist. ## METHUSELAHPRESENCE
 
 ## PULSEOFTHECITY
 
-Onreachingthisevelfmasteryouarenowcapableofinfuencing emotionalclimateoftheentireregionaroundyou,uptothesizeofasmallcity. This poweris alwaysineffect;simply put,the local populationreflectsyour emotional states.Youmay also project specific emotions into theminds of the residents of the area.Those who live in the area are affected much more strongly than visitors;likewise,citizenswho arevisiting elsewhere are still affected bythe power,as are thosewhohavevery strong tiesto thecity.
+Onreachingthisevelfmasteryouarenowcapableofinfuencing emotionalclimateoftheentireregionaroundyou, uptothesizeofasmallcity. This poweris alwaysineffect;simply put, the local populationreflectsyour emotional states.you may also project specific emotions into the minds of the residents of the are a.Those who live in the are a are affected much more strongly than visitors;likewise, citizenswho are visiting elsewhere are still affected bythe power, as are thosewhohavevery strong tiesto the city. you remotional stateis alwaysmirroredonthelocal population.how ever, if you wish to specifically influence the local population, you decide on the emotionyouwishtoproject and spenda will power Trait.You the nmakea Static Social Challenge.If successful, you can change the emotional climate of the cityforoneminute.Ifyouwishtoaffectitforalongertime, you must spend additional Social Traits before making the challenge. The Storyteller decidesthenumber of opposing Traits; anywhere from10 to15Traitsareappropriate, dpendingonthe sizeof the city.should o Methuselahswiththispowerattempttoaffectthis are a, the ymakethe Social Challengeagainstachther.the Methuselawhoarrivedfrst, rovideda she has spentatleastsixmonthsnthe are a, will receivefivebonus Traitst use in the challenge, as the localshavebecome used toher control.Sucha battlefor the control of the city's emotional climate will cause the local humanstobecomeextremelyfrustrated, and ifthesituationpersists, tmay
 
-Youremotional stateis alwaysmirroredonthelocal population.However, if you wish to specifically influence the local population,you decide on the emotionyouwishtoproject andspendaWillpowerTrait.You thenmakea StaticSocial Challenge.If successful,youcanchange the emotional climate ofthecityforoneminute.Ifyouwishtoaffectitforalongertime,youmust spend additional Social Traits before making the challenge.
-
-The Storyteller decidesthenumber of opposing Traits; anywhere from10 to15Traitsareappropriate,dpendingonthe sizeof thecity.Shouldo Methuselahswiththispowerattempttoaffectthis area,theymaketheSocial Challengeagainstachther.TheMethuselawhoarrivedfrst,rovideda she hasspentatleastsixmonthsnthe area,willreceivefivebonusTraitst use in the challenge,as thelocalshavebecome used toher control.Sucha battlefor the control of thecity's emotional climate will cause the local humanstobecomeextremelyfrustrated,andifthesituationpersists,tmay
-
-Vampiresandothersupernatural creaturesareconsideredtobeaffected at one level lower for example,while the human population will be extremelyepressedforadaythelocalvampiresonlyfeellikestaringataall and thinkingof sad thingsfor anhour.
-
-<!-- image -->
-
-This powermay be used even if you are in torpor.
-
-<!-- image -->
-
-## PROTEAN
+Vampiresandothersupernatural creaturesareconsideredtobeaffected at one level lower for example, while the human population will be extremelyepressedforadaythelocalvampiresonlyfeellikestaringataall and thinkingof sad thingsfor anhour. This powermay be used even if you are in torpor. ## PROTEAN
 
 ELDER PROTEAN EARTH CONTROL
 
-A characterwho hasEarthMelded isnormally unable tomove.However, if youhavemasteredEarthControlyoucanmovewithintheearthasifyouare swimming through water.This power has obvious uses both for unobtrusive travel and for nasty tricksincombat.
+A characterwho has Earth Melded is normally unable tomove.how ever, if you have mastered Earth Controlyoucanmovewithintheearthasifyouare swimming through water.This power has obvious uses both for unobtrusive travel and for nasty tricksincombat. This power is always automatically ineffectwhileyouare Earth Melded. You can not see underground, but you do gainasupernatural senseofyour undergroundsurroundings, with arangeofuto50yards.Water, rock, cemnt, treeroots and other obstacles all effectivelyblockyourprogress;you mayonly movethroughearthandother substancesof similarconsistency, suchassand or gravel.Should twoormorevampiresattempttointeractunderground, only direct physical contact is possible.If an underground battle ensues, all participants must bid an extra Physical Trait.If an underground chase takes place, the characterwith higher Physical Traitswins;how ever, if the participants have Celerity, the characterwiththehighest Celeritywins.(Iftheytieon Celerityvetbackthhyicaait;venosttryll choose to simply go to Physical Challenges.) the ground silentlybehind the target.A targetwhoisexpecting suchanattack mustmake Mental Challengeagainstyou ifhewinshe is not takenbysurie. ## FLESH of MARBLE
 
-This power is always automatically ineffectwhileyouareEarthMelded. You cannotsee underground,butyoudogainasupernatural senseofyour undergroundsurroundings,witharangeofuto50yards.Water,rock,cemnt, treeroots and other obstacles alleffectivelyblockyourprogress;youmayonly movethroughearthandother substancesof similarconsistency,suchassand orgravel.Should twoormorevampiresattempttointeractunderground,only direct physical contact is possible.If an underground battle ensues, all participants must bid an extra Physical Trait.If an underground chase takes place,thecharacterwith higherPhysical Traitswins;however,if theparticipants haveCelerity,thecharacterwiththehighestCeleritywins.(Iftheytieon Celerityvetbackthhyicaait;venosttryll choose to simply go to Physical Challenges.)
+Spend two Blood Traits to instantly activate Fleshof Marble.The efects
 
-the ground silentlybehind the target.A targetwhoisexpecting suchanattack mustmakeMentalChallengeagainstyou ifhewinshe isnot takenbysurie.
+The Gangrelhaveawell-deservedeputationasformidablewarriorsand becomeswhatcanbestbedescribedasflexiblestone Itretainsits softess, musleanquliandaparsllnntnd normal skin-yet swordsshatter againstit and bulletsricochetofforflatten the mselves against it. rockhurledatthecharacterwith Movementof the Mind, Fleshof Marbleis applied normally.)
 
-## FLESH OFMARBLE
+In additiontothat, nehealthlevelissubtractedfromall damagecoming in from bashing attacks(beforethedamage is halved as per normal).All swords or othersimilarmeleeweapons that are used againstyourisk shatteringunless they are exceptionally well-manufactured (Storyteller's call).The attacker must make a simple test;if he loses, the weapon shatters. ## MASTERPROTEAN
 
-Spend twoBloodTraits to instantly activateFleshofMarble.The efects
+## RESTORE THE MORTAL VISAGE this power all owsyoutorestoreyourappearancetowhatitwasbeforeyou were Embraced, effectivelyremovingallofthebestialfeaturesthatyouhave accumulated over the centuries.Perhapsnot surprisingly, this powertends to dividethe Gangrel into twocamps.In the firstcamp, the re are thosewhotake anactivepartinpolitics or dealwithmortalsonaregularbasis, and considerthis power bothnecessary and acceptable, for obvious reasons.In the second camp are the more feral Gangrelwho shun human society and have accepted the monsterinthemasapartof the irunlives.the yviewthispower asadisgusting defianceof the verynatureofvampirism.Restorethe Mortal Visagehasonlybeen displayedby Gangrel.Whisperedrumorsspeakof Nosferatuelderswhohave studiedthispowerandtheir quick, yethorrible Final Deathswhen they attempted totake the irmortal for ms.Caine'scurseisnotso easilycheated. Spendtwo Blood Traits and a will power Trait, and the nmakea Static Mental Challenge.If successful, all animal characteristics you have disappear completelyforthedurationof the scene.All Negative Social Traitscausedby the m alsovanishfor as longas the power is in effect. ## SHAPE of THE BEAST'SWRATH
 
-The Gangrelhaveawell-deservedeputationasformidablewarriorsand becomeswhatcanbestbedescribedasflexiblestoneItretainsits softess, musleanquliandaparsllnntnd normal skin-yet swordsshatter againstit andbulletsricochetofforflatten themselves against it.
+Spending two Blood Traits triggers the change.The change takes three turnsbutyoumayquickentheprocessbyspending Blood Traits atacostofone Bloodraitpertuthus, ifyouspendfive Bloodraitsyoull transform instantly.Oncetransformed, you remaininthisformuntilyouchoosetorevert back toyournormal for m, or until sunrise, which ever occursfirst. This powerbears someresemblance tothe Tzimisce's feared Horrid for m, and the re are indeedcertainvisual similaritiesbetweenthetwo.That'swhere the similaritiesend, though, and itisafoolishvampireindeedwhospeaksof a connectionbetweenthetwowhilethere are any Gangrelpresent.With this oweru shiftentusfomeainggby and triplingyourweight.you rform changestoresemble astrange amalgamation of you r ownform and that of the animal you feel the closest kinship to. Wolvesrats and greatcats are among the mostcommonmanifestationsbut ravens, serpentsbats and even stranger beasts have been seen. you must decidewhich animal'scharacteristics you will take upon first learning this power.the for m addsfive Physical Traits toyour statistics.ou may distribute the mfreelybut they should electhuge size and strength. the semust alsobedecidedupon buying the power, and can not bechanged. you maypurchase this powerrepeatedly, which will grantyou otherforms. While tansformedyounfict anadditional evelf ggravated dama additional Bruised health level. how ever, the re are twomajor drawbackswith this power.First, while resistingthe Beastandmustbidtwoadditional Traitswhenattemptingtoresist frenzy. will power Traits may not be used in this challenge. ## SPECTRAL BODY
 
-<!-- image -->
+A powerfulvariationof the Advanced Proteanpower Mist for m, Spectral Bodyallowsyoutoretainyourphysicalappearance, venthoughyoubecome completelyinsubstantial.you maywalk throughwallswithease and bullets, swords and fists passthroughyou with outharm.you mayevenpass throughthe veryflooryou are standingonif you sowish.Althoughyourvocal chordsare no longer solidyoumay still speakwithout hindrance. ## ASCENDANTPROTEAN
 
-rockhurledatthecharacterwithMovementof theMind,FleshofMarbleis applied normally.)
+Spend two Blood Traits.the transformation takes one turn and lastsfor the rest of the night unless you decidetoreturnto you r normal for m.when the powersactiveyoubecomecompletelyinsubstantialbutremainfullyvisible. you are unaffectedbyanyphysicalattacks, and all incomingdamagefromfire or sunlight is treated as lethal damage.Gravity onlymatterstoyou if you so desire;you may sinkthroughtheloororloatupntheairalthoughyoumay move nofaster than you r normal walking speed while"flying"in this manner. physical contact or a physical body.On the do wnside, you are completely unabletomanipulateyourphysicalenvironmentwhileinthisform, unlessyou happen to possess the Thaumaturgy path of Movement of the Mind. ## PURIFYTHEIMPALED BREAST
 
-In additiontothat,nehealthlevelissubtractedfromall damagecoming in frombashing attacks(beforethedamage is halved as per normal).All swords or othersimilarmeleeweapons that areused againstyourisk shatteringunless they are exceptionally well-manufactured (Storyteller's call).The attacker must make a simple test;if he loses,the weapon shatters.
+Spend twolood Traits, or threeif you vebeen incapacitatedbyastake houghulbst mustmakea Physical Challenge for every object that is expelledfromyour ratingfscltchanghistbhbjctah
 
-## MASTERPROTEAN
-
-## RESTORE THE MORTAL VISAGE
-
-Thispower allowsyoutorestoreyourappearancetowhatitwasbeforeyou wereEmbraced,effectivelyremovingallofthebestialfeaturesthatyouhave accumulated over thecenturies.Perhapsnot surprisingly,thispowertends to dividetheGangrel intotwocamps.In thefirstcamp,there arethosewhotake anactivepartinpolitics ordealwithmortalsonaregularbasis,andconsiderthis power bothnecessary and acceptable,forobvious reasons.In the second camp are themore feral Gangrelwho shun human society and have accepted the monsterinthemasapartof theirunlives.Theyviewthispower asadisgusting defianceof theverynatureofvampirism.RestoretheMortalVisagehasonlybeen displayedbyGangrel.WhisperedrumorsspeakofNosferatuelderswhohave studiedthispowerandtheir quick,yethorribleFinalDeathswhen they attempted totake theirmortal forms.Caine'scurseisnotso easilycheated.
-
-SpendtwoBloodTraits andaWillpowerTrait,and thenmakeaStatic Mental Challenge.If successful,allanimal characteristics youhavedisappear completelyforthedurationof thescene.All NegativeSocial Traitscausedby them alsovanishfor as longas thepower is in effect.
-
-## SHAPE OfTHE BEAST'SWRATH
-
-Spending twoBloodTraits triggers the change.The change takes three turnsbutyoumayquickentheprocessbyspendingBloodTraits atacostofone Bloodraitpertuthus,ifyouspendfiveBloodraitsyoull transform instantly.Oncetransformed,youremaininthisformuntilyouchoosetorevert back toyournormal form,oruntil sunrise,whichever occursfirst.
-
-This powerbears someresemblance totheTzimisce's fearedHorrid Form, andthere areindeedcertainvisual similaritiesbetweenthetwo.That'swhere thesimilaritiesend,though,anditisafoolishvampireindeedwhospeaksof a connectionbetweenthetwowhilethere are anyGangrelpresent.With this oweru shiftentusfomeainggby and triplingyourweight.Yourform changestoresemble astrange amalgamation of your ownform andthat of the animal you feel theclosest kinship to. Wolvesrats and greatcats are among themostcommonmanifestationsbut ravens,serpentsbats and even stranger beasts havebeen seen.
-
-Youmust decidewhich animal'scharacteristics you will take uponfirst learning this power.Theform addsfivePhysical Traits toyour statistics.ou may distribute themfreelybut they shouldelecthuge size andstrength. Thesemust alsobedecidedupon buying thepower,andcannotbechanged. Youmaypurchase thispowerrepeatedly,whichwillgrantyou otherforms.
-
-While tansformedyounfict anadditional evelf ggravated dama additional Bruised health level.
-
-However,there aretwomajor drawbackswith this power.First,while resistingtheBeastandmustbidtwoadditionalTraitswhenattemptingtoresist frenzy. Willpower Traits may not be used in this challenge.
-
-## SPECTRAL BODY
-
-A powerfulvariationof theAdvancedProteanpowerMistForm,Spectral Bodyallowsyoutoretainyourphysicalappearance,venthoughyoubecome completelyinsubstantial.Youmaywalk throughwallswithease andbullets, swords and fists passthroughyou withoutharm.Youmayevenpass throughthe veryflooryou are standingonif you sowish.Althoughyourvocal chordsare no longer solidyoumay still speakwithout hindrance.
-
-## ASCENDANTPROTEAN
-
-Spend twoBloodTraits.Thetransformation takes one turn and lastsfor therest of thenight unless youdecidetoreturnto your normal form.Whenthe powersactiveyoubecomecompletelyinsubstantialbutremainfullyvisible. Youareunaffectedbyanyphysicalattacks,andallincomingdamagefromfire or sunlight is treated as lethal damage.Gravity onlymatterstoyou if you so desire;youmay sinkthroughtheloororloatupntheairalthoughyoumay move nofaster than your normal walking speed while"flying"in this manner. physical contact ora physical body.On the downside,you are completely unabletomanipulateyourphysicalenvironmentwhileinthisform,unlessyou happen to possess theThaumaturgy path of Movement of theMind.
-
-## PURIFYTHEIMPALED BREAST
-
-Spend twoloodTraits,orthreeif youvebeen incapacitatedbyastake houghulbst mustmakeaPhysical Challenge for every object thatisexpelledfromyour ratingfscltchanghistbhbjctah
-
-According to Camarilla records, very few Gangrel elders were killed during the Anarch Revolts.Many who are considered tobe in the know hold theopinionthat thispoweris theprimaryreasonfor that.Withthis power,you may expel foreignmatter from your body with greatforceeven stakes through your heart may be removed in this fashion.
-
-Ifyou wishtoleavesomeobjects (suchas prosthetic limbsinyourbody, you must spend a Willpower Trait while expelling other objects.The same
-
-<!-- image -->
-
-appliesfyouwanttleaveanbjctpartiallymbeddedforxamle,teav a stake sticking out of yourbreastbone to fool your opponents).
-
-Obviously,thispowermaybeused even if you havebeen staked.
-
-METHUSELAHPROTEAN
+According to Camarilla records, very few Gangrel elders were killed during the Anarch Revolts.Many who are considered tobe in the know hold the opinionthat this poweris the primaryreasonfor that.with this power, you may expel for eignmatter from you r body with greatforceeven stakes through you r heart may be removed in this fashion. Ifyou wishtoleavesomeobjects (suchas prosthetic limbsinyourbody, you must spend a will power Trait while expelling other objects.The same appliesfyouwanttleaveanbjctpartiallymbeddedforxamle, teav a stake sticking out of you rbreastbone to fool you r opponents). Obviously, this powermaybeused even if you have been staked. METHUSELAHPROTEAN
 
 INWARDFOCUS
 
-UnlikeotherProteanpowersthispowersuseiscompletelyundetectable: It leaves no teltale visual marks that someone couldnotice.Indeed,its existence is onlyknown by thehandful of GangrelMethuselahswhohave managed toharness its powers.This power subtly changes theMethuselah's bodyintoasupremelyfficientconstrut,nhancingeeddurabilityan strength to truly impressive levels,even bythe standards of theKindred.
+Unlikeother Proteanpowersthispowersuseiscompletelyundetectable: It leaves no teltale visual marks that someone could not ice.Indeed, its existence is onlyknown by the handful of Gangrel Methuselahswhohave managed toharness its powers.This power subtly changes the Methuselah's bodyintoasupremelyfficientconstrut, nhancingeeddurabilityan strength to truly impressive levels, even bythe standards of the Kindred. Activating this power requires three Blood Traitsandyoumust spendan additionallood Traiteveryturn past the first tomaintainit the effectsofthis power are threefold. First, you gainanextraactioneverytunaslongasthispowermainsactive, and you mayreceive anotheruptoone additionalactionby spendingyet another Blood Trait.(You may not spend 10 Blood Traits to gain 10 extra actions.)
 
-Activating thispower requires threeBloodTraitsandyoumust spendan additionalloodTraiteveryturn past thefirst tomaintainitTheeffectsofthis power are threefold.
-
-First,yougainanextraactioneverytunaslongasthispowermainsactive, andyoumayreceive anotheruptoone additionalactionby spendingyet another Blood Trait.(You may not spend 10 Blood Traits to gain 10 extra actions.)
-
-Secondly,allncominglethalandaggravateddamageishalvedround. If thereisonly a singlehealthlevel of incominglethal or aggravated damage （beforeitlvedhatis)umaymakimlestfucssfuluma ignorethedamage.You automaticallyignore thefirst two healthlevelsof any attack thatinflictsbashing damage.
-
-Finallyourattakinflictanaditinalealthvelfamagewhatv the damage type.
-
-This powermaybeusedinconjunctionwithallotherProtean powersand withCelrityFortitudeanPotenceForobviousreasonsMethuselahwih this power is a terrifying opponent.
-
-## THANATOSIS
+Secondly, all ncominglethalandaggravateddamageishalvedround. If the reisonly a singlehealthlevel of incominglethal or aggravated damage （beforeitlvedhatis)umaymakimlestfucssfuluma ignorethedamage.You automaticallyignore the first two healthlevelsof any attack that inflictsbashing damage. Finallyourattakinflictanaditinalealthvelfamagewhatv the damage type. This powermaybeusedinconjunctionwithallother Protean powersand with Celrity for titudean Potence for obviousreasons Methuselahwih this power is a terrifying opponent. ## than ATOSIS
 
 ELDERTHANATOSIS
 
 CREEPINGINFECTION
 
-Putrefaction,Withering and Necrosis are fast-working powers, and their effects can beinstantly seen on the subject.CreepingInfection is far more insidious.Youcan delay thenegative effects until you arewell outofharms way.MercenaryStiffs aresuspected toapplythispowerwithahandshakeupon closing the deal.Should their"partner"suddenly become less than cooperative,theyave anaceuptheir leevehenagain,considering thepervasive senseof fairnessandoodwillamongampiresngeneralerhapsthatsjt commonsense.
+Putrefaction, with ering and Necrosis are fast-working powers, and the ir effects can beinstantly seen on the subject.Creeping Infection is far more insidious.you can delay the negative effects until you are well outofharms way.Mercenary Stiffs are suspected toapplythispowerwithahandshakeupon closing the deal.Should the ir"partner"suddenly become less than cooperative, the yave anaceuptheir leevehenagain, considering the pervasive senseof fairnessandoodwillamongampiresngeneralerhapsthatsjt commonsense. you utsiulal actual effectsforanumberofmonthsequal to you r Physical Traits dividedby three (round up). You may at any time spend a Blood Trait to activate the do rmant power.If the time limit is reached with out the power eing used, it simply fades away with noeffect. MASTER than ATOSIS
 
-Youutsiulal actual effectsforanumberofmonthsequal to yourPhysicalTraits dividedby three (round up). You may at any time spend a Blood Trait to activate the dormant power.If the time limit isreached without the power eing used, it simply fades away withnoeffect.
-
-MASTER THANATOSIS
-
-DUST TO DuST
-
-applications for this.
-
-Whileilfashuetainfullnsuseandmayunyiscl can yoube easily separateddoing sorequires aPhysicalChallengeandeach levelofFortitudeorPotenceyou havecounts astwoextraTraitsforthispurpose alone.You maymove aroundat a speednohigher than an ordinary windcould moveailfustaoudweveumayveaginsthwindfu desireumayalslausfadinuahsthlyhatuan slip under doors or through cracks on the walls.
-
-This power functions likeAshes toAshes in allotherrespects.
-
-ASCENDANTTHANATOSIS
+DUST TO DuST applications for this. Whileilfashuetainfullnsuseandmayunyiscl can you be easily separateddoing sorequires a Physical Challengeandeach levelof for titudeor Potenceyou have counts astwoextra Traitsforthispurpose alone.You maymove aroundat a speednohigher than an or dinary windcould moveailfustaoudweveumayveaginsthwindfu desireumayalslausfadinuahsthlyhatuan slip under do or s or through cracks on the walls. This power functions like Ashes to Ashes in all otherrespects. ASCENDANTTHANATOSIS
 
 PUTRESCENT SERVITUDE
 
-While theSamedi aren'tthe onlyKindredwhohave dabbled in the creationofzombies,theycanclaimtheirshareofwholesomenecromanticfun. Not only doesthispower allowthem toraise thebodies of therecently dead, it can alsobeused to enslavemortalswho are still alive.Animated corpses look the way they did when raised—pale and decaying.Mortals controlled with thispower appearmuch the same,but they remain moreintact than their already deadcounterparts.Zombiescreatedwiththis powerareinmany ways realclassicshyarew,unntelligent andcaneakhyarewve, extremely strong andresilient.
+While the Samedi are n'tthe only Kindredwhohave dabbled in the creationofzombies, the ycanclaimtheirshareofwholesomenecromanticfun. Not only do esthispower all owthem toraise the bodies of the recently dead, it can alsobeused to enslavemortalswho are still alive.Animated corpses look the way they did when raised—pale and decaying.Mortals controlled with this power appearmuch the same, but they remain moreintact than the ir already deadcounterparts.Zombiescreatedwiththis powerareinmany ways realclassicshyarew, unntelligent and can eakhyarewve, extremely strong and resilient. are animatedcorpseal"dies"at the thid sunriseafteitsreation This Blood Trait per extra night. Ifyouwanttoraise the dead, you mustfeedyourbloodtoarecently corpse The zombiehasthesame Physical Traitsas it did in life.are animated corpse has three Mental Traits and asingle Social Trait.Itiscapableoflimited reasoningufrehoughtiseyonditcapacitytcannotunderstandanyon and can not be reanimated again. Diciplines
 
-Areanimatedcorpseal"dies"at thethid sunriseafteitsreationThis Blood Trait per extra night.
+A mortal thus subjugated becomes paleand corpselike.Heloses three Mental and Social Traitseach, uptoaminimumofone.Hegainsthreeextra Bruised health levels and takesno penaltiesfrom injuries he suffers until he reaches Incapacitated, afterwhichecollapses.Atthispoint, nemorewound will killhimealogainsthefitlevelfotenceasallghoulsoandmay learn other Disciplines if you're inclined to teach him. Mortalsmay also be affected by this power.You create a ghoul in the normal fashion by feeding the subject a Blood Trait.You the n make two Mental Challenges against the subject (the Medical Ability can be used to retestthese);ifbotharesuccessfulthemortal losesallof hisfreewilland becomes you r slave.The mortal may try to break free once per night by spending a will power Trait and making a Mental Challenge against you; how ever, duetohissubjugated statehemustbidthreeextra Traitsorhis challenge.Ifhe succeedsheegainshislost Social and Mental Traitsfh becomesloodbound toyouhemayneveragainattempt tobreakfreeofyour control.Should you perish, the subjectregains hisfree will. A ghoul zombiewhogoesamonthwithoutvampiricblood loses all benefits of beingaghoul, aswouldnormallyoccur.all effectsof this powerdisappearand he regains his free will (although hemay still be blood bound to you). ## VISCERATIKA
 
-Ifyouwanttoraise thedead,youmustfeedyourbloodtoarecently corpseThe zombiehasthesamePhysicalTraitsas it didin life.Areanimated corpse hasthreeMentalTraits andasingleSocialTrait.Itiscapableoflimited reasoningufrehoughtiseyonditcapacitytcannotunderstandanyon and cannot be reanimated again.
+All Gargoyles have a natural affinity for stone and earth, and this Disciplineisan extension of that.The popular beliefis that possession of Visceratika causes itsuserto start lookinglikea Gargoyle—completewith the hideouslyugly, rocklike appearance and wings.the Tremere have recently releasedareportthatstatesotherwisebutmost Kindreddontfelliketaking the riskof learning Visceratika and findingout that the Tremerewerewrong or lied Inanycase, the pointisrathermootasthe Gargoylesdon'tfeelinclined toteachoneof the irprimary survivaltoolsto outsiders. No Gargoyle has everdemonstrated Visceratikabeyond Advanced level.If higherlevelsof this powerexist, itseitheranextremelywell-keptsecret, or onewhohasreached sucha level of mastery has lived to spread his knowledge. Retests of Visceratika usethe Surwival ability.Visceratika is boughtthe same way as all otherclan Disciplines. ## BASICVISCERATIKA
 
-Diciplines
+## SKINOFTHECHAMELEON when activatdyoukintkesonhcolorandtexturoftheurrou ing environment, all owing you to blend in with you r surroundings.The ilusionveumvealngsyouonveanysthana walingpace Fastermovementcausesyourbodytbecomeabluofcolorand texturetfrscaulaebuanyonetyingidentfyumaynt difcultfthswesdhninfightyukinblndnithhi sky almostperectly you llstill showupratherobviously against skyscrapers r other similarstructures as a dark, winged humanoid shape. ## SCRY the HEARTHSTONE
 
-<!-- image -->
-
-A mortal thus subjugated becomes paleand corpselike.Heloses three Mental andSocialTraitseach,uptoaminimumofone.Hegainsthreeextra Bruised health levels and takesno penaltiesfrom injuries he suffers until he reachesIncapacitated,afterwhichecollapses.Atthispoint,nemorewound will killhimealogainsthefitlevelfotenceasallghoulsoandmay learn otherDisciplines if you're inclined to teach him.
-
-Mortalsmay also be affected by this power.You create a ghoul in the normal fashion by feeding the subject a Blood Trait.You then make two Mental Challenges against the subject (the Medical Ability can be used to retestthese);ifbotharesuccessfulthemortal losesallof hisfreewilland becomes your slave.The mortal may try to break free once per night by spending a Willpower Trait and making a Mental Challenge against you; however,duetohissubjugated statehemustbidthreeextraTraitsorhis challenge.Ifhe succeedsheegainshislostSocial andMentalTraitsfh becomesloodbound toyouhemayneveragainattempt tobreakfreeofyour control.Should you perish,the subjectregains hisfree will.
-
-A ghoul zombiewhogoesamonthwithoutvampiricblood loses all benefits ofbeingaghoul,aswouldnormallyoccur.Alleffectsof thispowerdisappearand he regains his free will (although hemay still be blood bound to you).
-
-## VISCERATIKA
-
-All Gargoyles have a natural affinity for stone and earth,and this Disciplineisan extension of that.The popular beliefis thatpossession of Visceratika causes itsuserto start lookinglikeaGargoyle—completewith the hideouslyugly,rocklike appearance andwings.TheTremere haverecently releasedareportthatstatesotherwisebutmostKindreddontfelliketaking theriskof learningVisceratika andfindingout thattheTremerewerewrong orliedInanycase,thepointisrathermootastheGargoylesdon'tfeelinclined toteachoneof theirprimary survivaltoolsto outsiders.
-
-NoGargoyle haseverdemonstratedVisceratikabeyondAdvanced level.If higherlevelsof thispowerexist,itseitheranextremelywell-keptsecret,or onewhohasreached sucha level ofmastery has lived to spread his knowledge.
-
-Retests ofVisceratika usetheSurwival ability.Visceratika isboughtthe same way as all otherclanDisciplines.
-
-## BASICVISCERATIKA
-
-## SKINOFTHECHAMELEON
-
-Whenactivatdyoukintkesonhcolorandtexturoftheurrou ing environment, allowing you to blend in with your surroundings.The ilusionveumvealngsyouonveanysthana walingpaceFastermovementcausesyourbodytbecomeabluofcolorand texturetfrscaulaebuanyonetyingidentfyumaynt difcultfthswesdhninfightyukinblndnithhi sky almostperectlyYoullstill showupratherobviously against skyscrapers r other similarstructures as a dark,winged humanoid shape.
-
-<!-- image -->
-
-## SCRY THEHEARTHSTONE
-
-Gargoyles were created to act as guardians of chantries and havens. This power allows youtomaintain watchoveran entire buildingwithout building,andyougain an nnate senseofwhere things arelocated inside. Furthermore,youreceive accurateinformation about thebuildings layout —where everything is, if there are secret passages, and so forth.You also learn the location,approximate size and physical condition of all living (and unliving) beings within.
-
-Spend aWillpower Trait to activate thispower.You may move around slowly,butmaintainingthepowerrequiresconstantactiveconcentration,and youmust keeptouching the building (skin contact isrequired).The building maybeaslargeasamultilextheateraparkinggarageoracastlbutth must a be a sizable quantity of stone orconcrete in its construction.
-
-You may attempt to detect Obfuscated Kindred within; such creatures registertoyoursensesassomethingofablur.Youknowthere'ssomethinginthat particularlcatinbutoueotquiteurewhorwhathallengesfu can otherwise see someoneObfuscated,workasper therules detailed under Auspex in Laws of the Night p.137.
-
-Thereis a limit to howmuch detail you can discern;Scry theHearthstone cannotbeusedtolisteninonconversationsortoseewhatpeopleareholding intheirhands.TheStorytellerhasfinalsayonwhatkindofthings youcandetect.
-
-## INTERMEDIATEVISCERATIKA
+Gargoyles were created to act as guardians of chantries and have ns. This power all ows you tomaintain watchoveran entire buildingwithout building, and you gain an nnate senseofwhere things are located inside. Furthermore, you receive accurateinformation about the buildings layout —where everything is, if the re are secret passages, and so for th.You also learn the location, approximate size and physical condition of all living (and unliving) beings with in. Spend a will power Trait to activate this power.You may move around slowly, but maintainingthepowerrequiresconstantactiveconcentration, and you must keeptouching the building (skin contact is required).The building maybeaslargeasamultilextheateraparkinggarageoracastlbutth must a be a sizable quantity of stone or concrete in its construction. You may attempt to detect Obfuscated Kindred with in; such creatures registertoyoursensesassomethingofablur.you knowthere'ssomethinginthat particularlcatinbutoueotquiteurewhorwhathallengesfu can otherwise see someone Obfuscated, workasper the rules detailed under Auspex in Laws of the Night p.137. the reis a limit to how much detail you can discern;Scry the Hearthstone can not beusedtolisteninonconversationsortoseewhatpeopleareholding intheirhands.the Storytellerhasfinalsayonwhatkindofthings you can detect. ## INTERMEDIATEVISCERATIKA
 
 ## BONDWITHTHE MOUNTAIN
 
-Similar totheProteanpowerofEathMeldBondWiththeMountanallows you tomeldwith stone orconcrete.However,unlikewithEarthMeldyou alsopossslowWihthutanaraumaticallwarf surroundingsbutyoumayuseScrytheHearthstonetobeawareofeventsinthe areaif yuaronddwiaanmad stru
+Similar tothe Proteanpowerof Eath Meld Bond with the Mountanallows you tomeldwith stone or concrete.how ever, unlikewith Earth Meldyou alsopossslow Wihthutanaraumaticallwarf surroundingsbutyoumayuse Scrythe Hearthstonetobeawareofeventsinthe are aif yuaronddwiaanmad stru for cibly ejected from the wall and can not act for an entire turn as you struggle to get you r bearings. Traits and make Mental Challenge Charactersusing Auspexdnot eed bid the extra Traits. ## ARMOROFTERRA
 
-<!-- image -->
-
-forcibly ejected from the wall and cannot act for an entire turn as you struggle to get your bearings.
-
-Traits andmakeMentalChallengeCharactersusingAuspexdnot eed bid the extra Traits.
-
-## ARMOROFTERRA
-
-Gargoyles are known as fearsome warors who can defend themselves againststaggeringattacks.Thispowerislargelythereasonforthat;combinedwith FortitudeitallowsyoutowithstandattacksthatwouldreducelesserKinde smallpilesofash.WithArmorofTerra,your skinbecomestoughtrulyrocklie and incredibly resistant to harm.Your pain threshold becomes far higher, and evenfire may not hurt you (thoughyou still retain yournatural fear of it).
-
-ArmorofTerraisalways active,andrequiresno expenditureformainte nance oractivation.ArmorofTerra subtracts onelevelof bashing damage after halving it normally;however, aminimum of onehealth level is still inflicted. Furthermore,youmay convert incoming lethal damage intobashing damage bywinningaSimpleTest.Ifyouareexposedtofireyou takehalf damagebut it is still aggravated.You'll need to make a testtoresistRotschreck.
-
-Armor of Terra canbeusedwithFortitude;however,when usedin sucha fashiontcanonlybeusednceerattack.Forxample,ifyourendera attackthatdoesaggravateddamageyoumayuseArmorofTerratotryandhalve the damage,and thenuseResilienceto trytoconverttheaggravated damageto lethal damage.Butyoucannot testthat lethal damage down tobashingwith ArmorofTerra afterthat,asyouvealreadyusedArmorofTerraonthisattack. ArmorofTerra must always beused beforeFortitudecomes into play.
-
-## ADVANCEDVISCERATIKA
+Gargoyles are known as fearsome warors who can defend the mselves againststaggeringattacks.this powerislargelythereasonforthat;combinedwith for titudeitallowsyoutowithstandattacksthatwouldreducelesser Kinde smallpilesofash.with Armorof Terra, you r skinbecomestoughtrulyrocklie and incredibly resistant to harm.you r pain threshold becomes far higher, and evenfire may not hurt you (thoughyou still retain you rnatural fear of it). Armorof Terraisalways active, and requiresno expenditureformainte nance or activation.Armorof Terra subtracts onelevelof bashing damage after halving it normally;how ever, aminimum of onehealth level is still inflicted. Furthermore, you may convert incoming lethal damage into bashing damage bywinninga Simple Test.Ifyouareexposedtofireyou takehalf damagebut it is still aggravated.You'll need to make a testtoresist Rotschreck. Armor of Terra can beusedwith for titude;how ever, when usedin sucha fashiontcanonlybeusednceerattack.for xample, ifyourendera attackthatdoesaggravateddamageyoumayuse Armorof Terratotryandhalve the damage, and the nuse Resilienceto trytoconverttheaggravated damageto lethal damage.but you can not testthat lethal damage do wn tobashingwith Armorof Terra afterthat, asyouvealreadyused Armorof Terraonthisattack. Armorof Terra must always beused before for titudecomes into play. ## ADVANCEDVISCERATIKA
 
 ## FLOWWITHINTHEMOUNTAIN
 
-At thislevelofViceratika,youaretrulyathomeonstoneconstructs.low Within the Mountain allows you to move freely within solid rock. Obviously, while this means that you can easily enter any area in the domain you are guading,it alsohasitsuses as anoffensive ower; aferall,if youcanwalk throughthewall,gainingaccesstohigh-securityareasisntveryhard.During these daysof steelconstruction,theowerisnquiteasusfulasitncewa butmost buildings can still bepenetratedwithFlowWithin theMountain.
+At this levelof Viceratika, you are trulyathomeonstoneconstructs.low with in the Mountain all ows you to move freely with in solid rock. Obviously, while this means that you can easily enter any are a in the do main you are guading, it alsohasitsuses as anoffensive ower; aferall, if you can walk throughthewall, gainingaccesstohigh-securityareasisntveryhard.During the se daysof steelconstruction, the owerisnquiteasusfulasitncewa but most buildings can still bepenetratedwith Flow with in the Mountain. Tousethoweryoumustfistusond with the Moutain Afehat, spenda Blood Trait.This activates Flow with inthe Mountainforthe duration of the scene.During that time, you maymove frely through solidrockor concrethodeofovementissimilartswimingandyoumoveabout atabriskwalkingpace. You can also walk directly through stone walls with out first using Bond with the Mountainbysendinga Blood Traitbutthewallinquestion to escape. Gargoyles may have wings, but just glancing at one makes it painfully obviousthat the yaren't actually supposed tobeabletofly.humanoidform with wingshas all thaerodynamicsofrock, and Gargoyleenormousweigt weigh over Oounds.Yet, likethebumblebee, they fly, than ks to the r Tremerecreators when the Gagoyleswereoriginallycreatedhe Tremre used acomplicated thaumaturgical ritual tomakeavariantof Movementof the Mind anessential partofall Gargoylesbeing.Sadly, the Tremere scholar responsibleforthismethisendduringthe Gargoyle Revoltanditseemsthat the secret of Gargoyle flight has been lost for ever. Only Gargoylescanlearn Flght;it'stheirpecialability, and itcannotv belearnedbyothers.All Gargoyles start outwith Level1Flightinadditionto other clan Disciplines, and can increaseit with experience points as they would increasea normal clan Discipline.not e that underno circumstances can Celerity be used to increase flight speed. Itshould be stressed that Gargoylesdon'tthinkof Flight asa Discipline;for the m, it'smerely something every Gargoyle can do indeed, flight is as natural to the m aswalking is for a normal human.This is why different levels of Flight do n'thave specificnames;the levelsmerelyexist asa gamemechanic tomeasure different degrees of skill. BASICfLIGHT
 
-TousethoweryoumustfistusondWiththeMoutainAfehat, spendaBloodTrait.This activatesFlowWithintheMountainforthe duration of the scene.During that time,youmaymove frely through solidrockor concrethodeofovementissimilartswimingandyoumoveabout atabriskwalkingpace.
-
-You can also walk directly through stone walls without first using BondWiththeMountainbysendingaBloodTraitbutthewallinquestion
-
-<!-- image -->
-
-to escape.
-
-Gargoyles may have wings,but just glancing at one makes it painfully obviousthat theyaren't actually supposed tobeabletofly.humanoidform with wingshas all thaerodynamicsofrock,andGargoyleenormousweigt weigh over Oounds.Yet,likethebumblebee, they fly,thanks to ther TremerecreatorsWhentheGagoyleswereoriginallycreatedheTremre used acomplicated thaumaturgical ritual tomakeavariantofMovementof the Mind anessential partofall Gargoylesbeing.Sadly,the Tremere scholar responsibleforthismethisendduringtheGargoyleRevoltanditseemsthat the secret of Gargoyle flight has been lost forever.
-
-OnlyGargoylescanlearnFlght;it'stheirpecialability,anditcannotv belearnedbyothers.All Gargoyles start outwithLevel1Flightinadditionto other clan Disciplines,and can increaseit with experience points as they would increasea normal clanDiscipline.Note thatunderno circumstances can Celerity be used to increase flight speed.
-
-Itshould be stressed thatGargoylesdon'tthinkof Flight asaDiscipline;for them,it'smerely something every Gargoyle can doindeed,flight is as natural to them aswalking isfor a normal human.This iswhy different levels ofFlight don'thave specificnames;thelevelsmerelyexist asa gamemechanic tomeasure different degrees of skill.
-
-BASICfLIGHT
-
-If your character is flying,you should hold your arms out straight to the of indicating flyingcharactersuchasa sashfacertaincolor,as me arms like that can become rather tiring.)
+If you r character is flying, you should hold you r arms out straight to the of indicating flyingcharactersuchasa sashfacertaincolor, as me arms like that can become rather tiring.)
 
 Level1
 
-## Level2
+## Level2 you can't actuallyflbut you can glieand soar asif yuwerehang personal effects.Maximum speed equals 15miles an hour. equals 30miles an hour. INTERMEDIATE FLIGHT Level3
 
-Youcannt actuallyflbut youcan glieand soar asif yuwerehang personal effects.Maximum speed equals 15miles an hour.
+You can now take of f from the very spot you're standing on if unencum. bered with arunning takeoff, you can carryupto50pounds Maximum speed equals 45 miles an hour. ## Level4 you can nowverticallytakeoffcarryingupto50poundsofbaggage.With arunningtakeoffupto100oundscanbecarriedaximumspeedequals0 miles an hour. ## ADVANCEDFLIGHT
 
-equals 30miles an hour.
+## Level5 you can vertically takeoffwithuto200ounds In ractice, this means that it's enough to carry most Kindred—or prey.Maximum speed equals75 miles an hour. ## FLIGHTANDFAIRESCAPE
 
-INTERMEDIATE FLIGHT Level3
+A Gargoylewith Level 3Flight can always declare Fair Escapewhen outdoorsor next toanunobstructedwindowthat is largeenoughtofit through. (The window can be closed;a Gargoyle will have no problems smashing through anordinarywindow.)
 
-<!-- image -->
+Obviously, it's abit hard to knock someone's teeth in if he's a quickly receding do t in the sky.While Gargoyles make fearsome warriors, they are certainly smart enough toleave if things get too hairy—and having a pair of wings is a big help. A Gargoylewithatleast Basic Celeritycan declare Fair Escapewith only Level 2of Flight as he can achieve a speedyrunning takeoff. Inall casescharacters with rangedattacks get tomake a single attack while the Gargoyle is flying away. Ifthe Gargoyleiswellaboveroundlevelinaskyscraperntopofahighand steephillnanapartmentthreeormorefloorsabovethegroundevena single levelof Flightissufficientfor Fair Escape, asthe Gargoylecanglidetosafety. Characterswith an equal or higher Flight scoremay attackthe escaping character normally and may continue fighting as long as they continue to pursue the escaping character. not e that Fair Escapemay alsobe appliedindoors if the charactersarein aroom that is clearlylarge enoughfor someone toflyin:Largeballrooms, warehouses and similar buildings are certainly acceptable.how ever, the characterwillbeasypickingstoanyoneithrangedweaon, nlesst room is exceptionally large and has enough space to all owmaneuvering—or awindowor skylight the Gargoyle can escape through. ## FLIGHTMANEUVERS
 
-<!-- image -->
+Obviously, the abilitytofly comeswitha tremendous tacticaladvantage. To represent this, Gargoylescan perform special aerial maneuvers in combat. maneuveroperlanducrashfouattmptthm Maneuverscostne Trait atcharactercreation, or two experience oints aftercharactercreation. ## POUNCE
 
-You can now take off from the very spot you're standing on if unencum. beredWitharunning takeoff,youcancarryupto50poundsMaximum speed equals 45 miles an hour.
+You leap at an opponent and cover a surprisingly large distance by of unobstructedspaceonboth sides how everostroomsofferenough leap from the roofofonebuildingtoanother.Inpractice, this meanshat you can attack an opponentwho is out of you r normalreach.you may also pounce directlyupward ifneed be, but can not achievevertical takeoff with out Flight3. when ouncing, you can cover sixyardsofgroundperlevelof Flight.A normal Physical Challenge is required. Damage:Normal
 
-## Level4
-
-Youcannowverticallytakeoffcarryingupto50poundsofbaggage.With arunningtakeoffupto100oundscanbecarriedaximumspeedequals0 miles an hour.
-
-## ADVANCEDFLIGHT
-
-## Level5
-
-Youcanvertically takeoffwithuto200oundsIn ractice,thismeans that it's enough to carry most Kindred—or prey.Maximum speed equals75 miles an hour.
-
-## FLIGHTANDFAIRESCAPE
-
-A GargoylewithLevel 3Flight can always declareFairEscapewhen outdoorsor next toanunobstructedwindowthat is largeenoughtofit through. (The window can be closed;a Gargoyle will have no problems smashing through anordinarywindow.)
-
-Obviously, it's abit hard to knock someone's teeth in if he's a quickly receding dot in the sky.While Gargoyles make fearsome warriors,they are certainly smart enough toleave if things get too hairy—and having a pair of wings is a big help.
-
-A GargoylewithatleastBasicCeleritycan declareFairEscapewith only Level 2of Flight as he can achieve a speedyrunning takeoff.
-
-Inall casescharacters withrangedattacks get tomake a single attack while the Gargoyle is flying away.
-
-IftheGargoyleiswellaboveroundlevelinaskyscraperntopofahighand steephillnanapartmentthreeormorefloorsabovethegroundevena single levelofFlightissufficientforFairEscape,astheGargoylecanglidetosafety.
-
-Characterswith an equal orhigherFlight scoremay attackthe escaping character normally andmay continue fighting as long as they continue to pursue the escaping character.
-
-Note thatFairEscapemay alsobe appliedindoors if thecharactersarein aroom thatisclearlylarge enoughfor someone toflyin:Largeballrooms, warehouses and similar buildings are certainly acceptable.However,the characterwillbeasypickingstoanyoneithrangedweaon,nlesst room is exceptionally large and has enough space to allowmaneuvering—or awindowor skylight theGargoyle canescape through.
-
-## FLIGHTMANEUVERS
-
-Obviously,theabilitytofly comeswitha tremendous tacticaladvantage. To represent this,Gargoylescan perform special aerial maneuvers in combat.
-
-maneuveroperlanducrashfouattmptthmManeuverscostne Trait atcharactercreation,or two experience oints aftercharactercreation.
-
-## POUNCE
-
-You leap at an opponent and cover a surprisingly large distance by of unobstructedspaceonboth sidesHoweverostroomsofferenough leap fromtheroofofonebuildingtoanother.Inpractice,thismeanshat you can attack an opponentwho is out of your normalreach.Youmay also pounce directlyupward ifneed be,butcannot achievevertical takeoff without Flight3.
-
-Whenouncing,youcancover sixyardsofgroundperlevelofFlight.A normal Physical Challenge is required.
-
-Damage:Normal
-
-Minimum requirements:Flight1,Brawl 1
+Minimum requirements:Flight1, Brawl 1
 
 ## Swoop
 
-Targetswho arecovered,obscured routof reach（underneath tee, pressedagainstoorwaylyingaguttrcantesuccessfullyoot lageenusuanuverthalrmalattacku pre-empt the attack.
+Targetswho are covered, obscured routof reach（underneath tee, pressedagainstoorwaylyingaguttrcantesuccessfullyoot lageenusuanuverthalrmalattacku pre-empt the attack. You swoop do wn from the sky, attacking an opponent while adding you rownmomentum totheblow, beitwithafistorwithameleeweapon, and the n woopbackup.Onasuccessfulattack, you reachthe safetyof the sky again, and can not be attackedexcept by long-range weapons.Evenf the attackfailsyoucangetbackutsafetyoweveindedwi Intermediate Celerity can attackyouonce normallywhen you're swooping do wn;Kindred with Advanced Celerity gettwo attacks.Superior Celrity grants one extra attack per Superior level, as characters who move with truly supernatural speed have all the time in the world to punch the attacking Gargoyle once or twice. To Swoopyoubidanextrahysical Trit, or tw Traits ifyouroppoent against the opponent. Damage: One health level of bashing or lethal damage, depending on weapon used. Minimumrequirements:Flight 2and Brawl2or Melee2, dpendingonth attacktype. ## SLAM
 
-You swoop down from the sky,attacking an opponent while adding yourownmomentum totheblow,beitwithafistorwithameleeweapon, andthenwoopbackup.Onasuccessfulattack,youreachthe safetyof the sky again,and cannot be attackedexcept by long-range weapons.Evenf theattackfailsyoucangetbackutsafetyoweveindedwi Intermediate Celerity can attackyouonce normallywhen you're swooping down;Kindred withAdvanced Celerity gettwo attacks.Superior Celrity grants one extra attack per Superior level,as characters who move with truly supernatural speed have all the time in the world to punch the attacking Gargoyle once or twice.
+As with Swoop, a character with Alacrity or a suitable weapon can not preempt the attack, and targets who are well in cover (as described under Swoop)can not beslammed. You swoop do wn as beforebut instead of hitting the opponent and Gargoyleseormousweightthissanextremely eriousattackhisground you and thusallwyouattackedbuisklyutthpnentq abit.you ropponentisknockeddownbutmayattack you normallyduring this turn, as you are ntwoopingbackup.Hemustbidtwoextra Physical Traitsfor hisnextationashestrugglesbackthisfeetfyoulosethchallengeyou stillgrounddbutumanagtannoutotthatasthian depends on you r body mass: Melee weapons can not be used in this attack. you bidanextra Physical Traitortwo Traitsiftheopponentisactivelyyig to avoid him, the n perform a normal Physical Challenge against the opponent. Damage：Threehealthlevelsofbashingdamage.fyouhave Flight5youcan optionallyinflictanadditional healthlevelof damage;how ever, if you do not have atleast for titude1youwillalsosuffernehealthlevelfbashingdamage If you have Arorof Terra, you inflictyetanotheradditionalhealthlevelf bashingdamage, cumulativewith Flight5.Ifyouhave Armorof Terra, you need no for titude:you r skin is so toughthatyou suffernodamagefrom the impact. Minimumrequirements:Flight2, Brawl2
 
-ToSwoopyoubidanextrahysicalTrit,ortwTraits ifyouroppoent against the opponent.
-
-Damage: One health level of bashing or lethal damage, depending on weapon used.
-
-Minimumrequirements:Flight 2andBrawl2orMelee2,dpendingonth attacktype.
-
-## SLAM
-
-As with Swoop, a character with Alacrity or a suitable weapon cannot preempt the attack, and targets who are well in cover (as described under Swoop)cannotbeslammed.
-
-You swoop down as beforebut instead of hitting the opponent and Gargoyleseormousweightthissanextremely eriousattackhisground youandthusallwyouattackedbuisklyutthpnentq abit.Youropponentisknockeddownbutmayattack younormallyduring this turn,as you arentwoopingbackup.HemustbidtwoextraPhysicalTraitsfor hisnextationashestrugglesbackthisfeetfyoulosethchallengeyou stillgrounddbutumanagtannoutotthatasthian depends on your body mass: Melee weapons cannot be used in this attack.
-
-YoubidanextraPhysicalTraitortwoTraitsiftheopponentisactivelyyig to avoid him, then perform a normal Physical Challenge against the opponent.
-
-Damage：Threehealthlevelsofbashingdamage.fyouhaveFlight5youcan optionallyinflictanadditional healthlevelof damage;however,if youdonot haveatleastFortitude1youwillalsosuffernehealthlevelfbashingdamage If you haveArorofTerra,youinflictyetanotheradditionalhealthlevelf bashingdamage,cumulativewithFlight5.IfyouhaveArmorofTerra,youneed noFortitude:Your skin is so toughthatyou suffernodamagefrom theimpact.
-
-Minimumrequirements:Flight2,Brawl2
-
-## THAUMATURGY
-
-Thefollowingthaumaturgicalpathsarepracticed throughouttheCamarilla by theTremere.Aswith all Thaumaturgy,theTremereguard their secrets jealously andwill not sharethemwith outsiders.
-
-These additional paths work as described inLaws of theNight.Notethat a BloodTraitexpenditureisalwaysrequiredwhenevera thaumaturgical power is activated.
-
-## ELEMENTALMASTERY
-
-WithElementalMastery,youenjoy limitedcontroloverandcommunion withinanimate objects.While theuninitiatedmay believe that thenameof thispatsouasilntsehrandwatrnl this pathiscloser toanamalgamationofSpiritThaumaturgy and thePathof Conjuring.Elemental Mastery only affects dead orinanimateobjects.
-
-## BASICELEMENTALMASTERY
+## THAUMATURGY the followingthaumaturgicalpathsarepracticed throughoutthe Camarilla by the Tremere.Aswith all Thaumaturgy, the Tremereguard the ir secrets jealously and will not sharethemwith outsiders. the se additional paths work as described in Laws of the Night.not ethat a Blood Traitexpenditureisalwaysrequiredwhenevera thaumaturgical power is activated. ## ELEMENTALMASTERY with Elemental Mastery, you enjoy limitedcontroloverandcommunion with inanimate objects.While the uninitiatedmay believe that the nameof this patsouasilntsehrandwatrnl this pathiscloser toanamalgamationof Spirit Thaumaturgy and the Pathof Conjuring.Elemental Mastery only affects dead or inanimateobjects. ## BASICELEMENTALMASTERY
 
 ## ELEMENTALSTRENGTH
 
-PhysicalTraitsofyourchoice.Youmay activate thispowerandattackduring
-
-<!-- image -->
-
-expirebforeit canbeused again.
-
-WOODEN TONGUES
-
-that thexperiencesthat interest youmightnotbethesameonesthatinterest a coffee maker.
-
-You must make a Mental Challenge against the spirit in question. aqustnftsritadthritaytiQustonsiWhat recentlaeacceptablbutitshoulptinmindthatctaincont may be very alien to household objects."What did they talk about？" for examleisliklyconusehirtqutbihouldufailthtestyu inforarather inane conversation.For example,if thesubject happens tobe a rockreflectingonthehardnessof itsbeingacertain amountoffrustration is guaranteed.
-
-## INTERMEDIATEELEMENTALMASTERY
+Physical Traitsofyourchoice.you may activate this powerandattackduring expirebforeit can beused again. WOODEN TONGUES that the xperiencesthat interest you mightnotbethesameonesthatinterest a coffee maker. You must make a Mental Challenge against the spirit in question. aqustnftsritadthritayti Qustonsi What recentlaeacceptablbutitshoulptinmindthatctaincont may be very alien to household objects."What did they talk about？" for examleisliklyconusehirtqutbihouldufailthtestyu inforarather inane conversation.For example, if the subject happens tobe a rockreflectingonthehardnessof itsbeingacertain amountoffrustration is guaranteed. ## INTERMEDIATEELEMENTALMASTERY
 
 ## ANIMATE THE UNMOVING
 
-You must spend a Willpower Trait upon activating this power.You may simultaneously control up to a number of objects equal toyour permanent MentalTraitdividdbyhreeround）Eachbjctedteanimad separatelyandtheymustenoulinef sightwheninganimatedhy remainaniatedaslongastheyarewihinyourlinef sightruptoanou. anyonewhocomesinareallright)but hey aren'tvery smart andhave extemely limitedreasningForexamle,Wait forthredcarcouldresult in an extremely confused bar stool.)
+You must spend a will power Trait upon activating this power.You may simultaneously control up to a number of objects equal toyour permanent Mental Traitdividdbyhreeround）Eachbjctedteanimad separatelyandtheymustenoulinef sightwheninganimatedhy remainaniatedaslongastheyarewihinyourlinef sightruptoanou. anyonewhocomesinareallright)but hey are n'tvery smart and have extemely limitedreasning for examle, Wait for thredcarcouldresult in an extremely confused bar stool.)
 
-This power allows youto cause inanimate objects tomove as you will.An objectcannot perform an actionthatwouldbecompletelyinconceivableforits formforexample,arockcouldnotgrowlegs,norcouldacoffeecupstart playing theguitar.But a human-shaped statue couldwalk around;a gunmight twistoutfmoneshandeelfontanouslyrlngthfsteelcal might suddenly start moving like a snake, tripping people and tying them up.
+This power all ows you to cause inanimate objects tomove as you will.An objectcannot perform an actionthatwouldbecompletelyinconceivableforits for mforexample, arockcouldnotgrowlegs, norcouldacoffeecupstart playing the guitar.But a human-shaped statue could walk around;a gunmight twistoutfmoneshandeelfontanouslyrlngthfsteelcal might suddenly start moving like a snake, tripping people and tying the m up. ## ELEMENTALFORM you may takeon the for mofanyinanimateobject of amasroughlyequal you may assumeyourtrueform atwill. ## ADVANCEDELEMENTALMASTERY
 
-## ELEMENTALFORM
+## SUMMONELEMENTAL of the elements:asalamander(fire), asylph(air), agnome(earth）or anundine (water). Some Tremere claim that they have managed to contact other elemental spirits such as thoseofglasslecricitybloodorvenamic energy, but for thetimebeing, suchreportsremainunconfirmed. the powerlevelfthespiritmayvaryreatlyandthsummonerwillt know how powerful(or weak) the spirit is beforeit actuallymanifests.Asarule of thumb, all lementalshaveateast ixfboth Physicaland Mental Tait; somemaybefarmore powerful than that.all elementalshave somepowers relatedtotheirparticularelementafireelementalmaytossfireballs, while awater elemental may be able to control water in itsvicinity.The details depend onthe individual spirit;the ymayhave any combination of skills, powersand abilities the Storyteller seesfit Moreover, all elementalshae personalities;they are usually bright and not unaware of what is around the m. You must be near somequantity of the classical element corresponding to followurderbt enrallpeakingwilldwhat t stolviul abusing the spirit will cause the spirit to attack or refuse to cooperate. Oncethespirithasbeensummonedyoumustexertcontroloverit.his is accomplishedwith a Static Mental Challenge against the spirit.the more powerful the spirit, the morelikely itwill make things as difficult as possible. Ifyouwinhpiritbyshastranmayconsidruaueriorraa anenlightenedequal Tocommand the creature, spendone Mental Trait or eachcommandyouwishtogive.Otherwise, the spiritwillwanttobargainand spirits alwayswant something.should you be unableto exertcontroloverthe spirit, thlmntalmaythnkfyuasannmyandattackrtmayly be indifferent and do as it pleases.Itmay choose toremainnearby or leave spirits are unpredictable creatures, after all. Iftheelementalisaskedtoperformataskthatendangersitsexistenceyou may enforce you rwill with another Mental Challenge.Successforces the creature to obeywhile a lossmayresult ina creature anxious toflee you r presenceoravery angryelemental, and spiritangerisanunpleasantthing. Ifitisuboudtwillmainforasngasithoossuhdetailsat leftto the Storyteller. ## THE GREENPATH
 
-Youmay takeon theformofanyinanimateobject ofamasroughlyequal
-
-<!-- image -->
-
-<!-- image -->
-
-you may assumeyourtrueform atwill.
-
-## ADVANCEDELEMENTALMASTERY
-
-## SUMMONELEMENTAL
-
-oftheelements:asalamander(fire),asylph(air),agnome(earth）oranundine (water). Some Tremere claim that they have managed to contact other elemental spirits such as thoseofglasslecricitybloodorvenamic energy,butforthetimebeing,suchreportsremainunconfirmed.
-
-Thepowerlevelfthespiritmayvaryreatlyandthsummonerwillt know howpowerful(orweak) the spirit isbeforeit actuallymanifests.Asarule of thumb,alllementalshaveateast ixfbothPhysicalandMentalTait; somemaybefarmore powerful than that.Allelementalshave somepowers relatedtotheirparticularelementafireelementalmaytossfireballs,while awater elemental may be able to control water in itsvicinity.The details depend onthe individual spirit;theymayhave any combination of skills, powersand abilities theStoryteller seesfitMoreover,allelementalshae personalities;they are usually bright and not unaware of what is around them.
-
-You must be near somequantity of the classical element corresponding to followurderbt enrallpeakingwilldwhat t stolviul abusing the spirit will cause the spirit to attack orrefuse to cooperate.
-
-Oncethespirithasbeensummonedyoumustexertcontroloverit.his is accomplishedwith aStaticMental Challenge against the spirit.Themore powerful the spirit,themorelikely itwill make things as difficult as possible. Ifyouwinhpiritbyshastranmayconsidruaueriorraa anenlightenedequalTocommand thecreature,spendoneMentalTrait or eachcommandyouwishtogive.Otherwise,thespiritwillwanttobargainand spirits alwayswant something.Shouldyou be unableto exertcontroloverthe spirit,thlmntalmaythnkfyuasannmyandattackrtmayly be indifferent anddoas it pleases.Itmay choose toremainnearby or leave spirits are unpredictable creatures,after all.
-
-Iftheelementalisaskedtoperformataskthatendangersitsexistenceyou may enforce yourwill with anotherMental Challenge.Successforces the creature to obeywhile a lossmayresult ina creature anxious toflee your presenceoravery angryelemental,and spiritangerisanunpleasantthing.
-
-Ifitisuboudtwillmainforasngasithoossuhdetailsat leftto theStoryteller.
-
-## THE GREENPATH
-
-AfavoriteofecologicallymindedTremere,theGreenPathconcentrates on controlling and understanding nature.Anything more complex than an algaebloomcan theoreticallybecontrolledbythispower,fromordinary potted plants to thesprawling vastnessof therainforest.WhilemanyTremere
-
-<!-- image -->
-
-TheGreenPathprobablyoriginated from theOrderoftheNaturists,anold
+Afavoriteofecologicallyminded Tremere, the Green Pathconcentrates on controlling and understanding nature.Anything more complex than an algaebloomcan the or eticallybecontrolledbythispower, from or dinary potted plants to the sprawling vastnessof the rainforest.Whilemany Tremere the Green Pathprobablyoriginated from the or derofthe Naturists, anold
 
 BASIC GREEN PATH
 
 HERBAL WISDOM
 
-Merely by touchingaplant,youmay communicatewithits spirit.he tends tohavefarlessinsight tooffrbutmight stillreveal thefaceofthelast person who trod upon it).
+Merely by touchingaplant, you may communicatewithits spirit.he tends tohavefarlessinsight tooffrbutmight stillreveal the faceofthelast person who trod upon it). you must touchtheplant you wishtocommunicatewithand activatethe poweroumayaskasinglequestionandexpect an answer, whicmayrmay not behelpfulbutwill alwaysbetrue Tolearnmore detailsmakea Statc Mental Challengeagainstthe Storyteller;with success, the spiritwill divulge moretaildnatnfitcanhxacttailfhanw the Storyteller. ## SPEED the SEASON'SPASSING you musttouchthetargetplantandactivatethepower;the plant'sgrowth or deatingnunntilayraan instanteffect, spenda will power Traittocauseaplanttospringfromaseed or a tree to sprout fruit inminutes or start decaying almost instantly.In combat, the expenditureofa will power Traitcausesastakeorotherwooden weapon to crumble into dust.how ever, you can not use this power if you become staked. with this poweryoucancauseaflowertogrowfromaseedtofullloom in mereminutesoranentiretreeto springupovernight.Alternately, ou maycause aplanttodieanddecay, grasstowitherorstakestocrumblewith but a touch. ## INTERMEDIATE GREENPATH
 
-Youmust touchtheplant youwishtocommunicatewithand activatethe poweroumayaskasinglequestionandexpect an answer,whicmayrmay not behelpfulbutwill alwaysbetrueTolearnmore detailsmakeaStatc MentalChallengeagainsttheStoryteller;withsuccess,thespiritwill divulge moretaildnatnfitcanhxacttailfhanw the Storyteller.
+You can now animate a mass of vegetation up to you r own size, either for
 
-## SPEED THESEASON'SPASSING
-
-Youmusttouchthetargetplantandactivatethepower;theplant'sgrowth ordeatingnunntilayraan instanteffect,spendaWillpowerTraittocauseaplanttospringfromaseed or a tree to sprout fruit inminutes or start decaying almost instantly.In combat,theexpenditureofaWillpowerTraitcausesastakeorotherwooden weapon to crumble into dust.However,you cannot use this power if you become staked.
-
-Withthispoweryoucancauseaflowertogrowfromaseedtofullloom in mereminutesoranentiretreeto springupovernight.Alternately,ou maycause aplanttodieanddecay,grasstowitherorstakestocrumblewith but a touch.
-
-## INTERMEDIATE GREENPATH
-
-You can now animate a mass of vegetation up to your own size,either for
-
-DANCE OFVINES
-
-your permanentMental Traits（rounddown）,andareunderyourcomet
-
-<!-- image -->
-
-bashingevelsof damagthis canbeodified,dpendingon thelathy Warlocks have usedrowan saplings in theirhavens tostakeunwary intruders.
-
-rootscanextendforsomedistanceandwhotosayowmuchdamag50 pounds of kudzu can do?
-
-## VERDANTHAVEN
-
-plantmatterTheshelternotonlyprovidesprotectionfromthelementsals protectsyouagainst sunlight andattack.Italsocreatesamysticalbarrier that keeps anyoneyouwishtoexcludefromentering.AVerdant Haven appearsasa six-foot-tall hemisphere ofinterlocked branches,leaves andvines with no discernibleopening.Eventoacasualobserver,it appearstobeanunnatural construction.Some claim thatVerdant Havens have supernatural healing propertiutoKindredwhohassntimenoneasrportedsuchent.
-
-The haven lasts until the next sunset, or until you dispel it or leave. Sunlightdoesnot penetratethe haven unlessithasbeen physicallybreached.
-
-Youmust be ina heavilyvegetated area for thispower towork.Upon activatingthispower,theVerdantHavenspringsuparoundyouoverthecourse of three turns.Oncethehaven issealed,anyonewishingtoenterthehaven without your permissionmustmake aMental Challenge against you—you gain two extra Traits that can be used in this challenge only.Unless the unwelcomeguestwinsthechallenge,shecannotenter.Allattacksagainstthe haven itself are handled in the same fashion.
-
-## ADVANCEDGREENPATH
+DANCE of VINES you r permanent Mental Traits（rounddown）, and are underyourcomet bashingevelsof damagthis can beodified, dpendingon the lathy Warlocks have usedrowan saplings in the irhavens tostakeunwary intruders. rootscanextendforsomedistanceandwhotosayowmuchdamag50 pounds of kudzu can do? ## VERDANTHAVEN plantmatter the shelternotonlyprovidesprotectionfromthelementsals protectsyouagainst sunlight and attack.Italsocreatesamysticalbarrier that keeps anyoneyouwishtoexcludefromentering.AVerdant have n appearsasa six-foot-tall hemisphere of interlocked branches, leaves and vines with no discernibleopening.Eventoacasualobserver, it appearstobeanunnatural construction.Some claim that Verdant have ns have supernatural healing propertiuto Kindredwhohassntimenoneasrportedsuchent. The have n lasts until the next sunset, or until you dispel it or leave. Sunlightdoesnot penetratethe have n unlessithasbeen physicallybreached. you must be ina heavilyvegetated are a for this power towork.Upon activatingthispower, the Verdant have nspringsuparoundyouoverthecourse of three turns.Oncethehaven is sealed, anyonewishingtoenterthehaven with out you r permissionmustmake a Mental Challenge against you—you gain two extra Traits that can be used in this challenge only.Unless the unwelcomeguestwinsthechallenge, shecannotenter.all attacksagainstthe have n itself are handled in the same fashion. ## ADVANCEDGREENPATH
 
 ## AWAKENTHEFORESTGIANTS
 
-Oneof themostimpressiveapplicationsofThaumaturgyknown to the Tremere,thispowerallowsyoutoawakentheverytreesoftheforest,causing them to stretch their limbspull their rootsout of the ground andwalkwith steps thatmaketheearthshake.Theyarenotnearlyasversatileasspiritsthat have been summoned into existence, but their awesome strength and resil iencemorethanmakesupforthat.
+Oneof the mostimpressiveapplicationsof Thaumaturgyknown to the Tremere, this powerallowsyoutoawakentheverytreesoftheforest, causing the m to stretch the ir limbspull the ir rootsout of the ground and walkwith steps that maketheearthshake.the yarenotnearlyasversatileasspiritsthat have been summoned into existence, but the ir awesome strength and resil iencemorethanmakesupforthat. A tree that ceases tobe animated immediately takes root where ver it is. Even if it is onconcrete, itsoots will punch throughwhateverit is standing you must touchthetreeyouwishtoanimatespenda will power Traitand concentrate on the target.you mustthen spend a Blood Traitforevery two turns you wish the tree to remain active.(Thus, spending two Blood Traits means the treewillremain active for fourturns.)Once this time expires, the tree stopsmoving and puts do wnroots where verit is at the moment.the tree can not beanimated againfortherestof the night.Whileanimated, the tree follows you rverbal commands as well as it can.An animated tree has 10 rating equal toyourown.It is immune tobashing damage, and becauseof its size, all nn-aggravated lethaldamageishalved (roundup)Itshealthvels depend on its size; an average tree has five or six health levels. ## NEPTUNE's MIgHT
 
-A tree that ceases tobe animated immediately takes root wherever it is. Even if it is onconcrete,itsoots will punch throughwhateverit is standing
+Most vampiremyth do n'tassociatevampires with the sea, and indeed, but devoted following among the Tremere. Oncea thaumaturgereachesthe Intermediatelevelof Neptume's Mighthe grantshetwoexra Tratasappropriathendealingwithtewatetyfh choicebut alsoforceertobidtwoextra Traitwhenealingwiththpposite. loodisiddhtfrhisuadiffu manipulate i are unaffcted not e that this specialization is optional. BASIC NEpTUNE'sMIGHT you may look deep into a body of water and view events that have transpiredin, onoraround itfromthewater'sperspective.Somepractitioners of this pathclaimthat the thaumaturgecommuneswiththespiritsof the water when usingthispower;someyounger Kindred scoff at suchclaims, and others simply don't care. This power can onlybeusedonstandingwaterlakes and puddleswill do; oceans, rivers, sewers or wineglasses will not. You must stare deeply into a body of waterwhen activating this power. you mayseeuptoonedayintothepast.Ifyouwishtoseemoreyoumuststart makingimple Testwitheachsuccessfultestyoumaygazefurtherbackn time.Alternately, spendinga will power Traitcounts as anautomatic success. ## PRISON of WATER
 
-Youmust touchthetreeyouwishtoanimatespendaWillpowerTraitand concentrate on thetarget.Youmustthen spend aBloodTraitforevery two turns you wish the tree to remain active.(Thus, spending two Blood Traits means the treewillremain active forfourturns.)Once this time expires,the tree stopsmoving andputs downroots whereverit is at themoment.Thetree cannotbeanimated againfortherestof thenight.Whileanimated,thetree follows yourverbal commands as well as it can.An animated tree has 10 rating equal toyourown.It isimmune tobashing damage,andbecauseof its size, all nn-aggravated lethaldamageishalved (roundup)Itshealthvels depend on its size; an average tree has five or six health levels.
-
-## NEPTUNE's MIgHT
-
-Most vampiremyth don'tassociatevampires withthesea,and indeed, but devoted following among theTremere.
-
-Oncea thaumaturgereachestheIntermediatelevelofNeptume'sMighthe grantshetwoexraTratasappropriathendealingwithtewatetyfh choicebut alsoforceertobidtwoextraTraitwhenealingwiththpposite. loodisiddhtfrhisuadiffu manipulate i are unaffcted Note that this specialization is optional.
-
-BASIC NEpTUNE'sMIGHT
-
-Youmay look deep into a body ofwater andview events thathave transpiredin,onoraround itfromthewater'sperspective.Somepractitioners of thispathclaimthat thethaumaturgecommuneswiththespiritsof thewater whenusingthispower;someyoungerKindred scoff at suchclaims,andothers simply don't care.
-
-This power canonlybeusedonstandingwaterlakes and puddleswill do; oceans,rivers, sewers or wineglasses will not.
-
-You must stare deeply intoa body ofwaterwhen activating this power. Youmayseeuptoonedayintothepast.Ifyouwishtoseemoreyoumuststart makingimpleTestwitheachsuccessfultestyoumaygazefurtherbackn time.Alternately,spendingaWillpowerTraitcounts as anautomatic success.
-
-## PRISON OFWATER
-
-With this dramatic power you can command a suficiently large body of water toanimate itself and imprisona subject.A significant amount of fluidis requiredhiswerterulyffetveluhvenwgalln sufficient toformchainsof animatedwater.Mortalswho are subjected to this powermay drown if you are not careful (or if you want to kill them).The extreme pressures thatcanbebrought tobearmayevencrushothervampires.
-
-causing the water to become inanimate.
-
-subject,but you arefree toinvokemultipleprisonsformultiple subjects.
-
-If a suficient quantity of water isnot present (at leastabathtubsworth), you must bid two additional Traits whenmaking any challenges related to Prison ofWater.
-
-Youmust alwayshavea lineof sighttoboththe sourceofwaterand the subjectTheprisonremainsnxistenceslongasyouarenthesameareaand maintainalineof sight tothem,unless youbecomeunconsciousorfallinto sleep or torpor.
-
-## INTERMEDIATENEPTUNE'SMIGHT
+With this dramatic power you can command a suficiently large body of water toanimate itself and imprisona subject.A significant amount of fluidis requiredhiswerterulyffetveluhvenwgalln sufficient toformchainsof animatedwater.Mortalswho are subjected to this powermay drown if you are not careful (or if you want to kill the m).The extreme pressures that can bebrought tobearmayevencrushothervampires. causing the water to become inanimate. subject, but you are free toinvokemultipleprisonsformultiple subjects. If a suficient quantity of water is not present (at leastabathtubsworth), you must bid two additional Traits when making any challenges related to Prison of Water. you must alwayshavea lineof sighttoboththe sourceofwaterand the subject the prisonremainsnxistenceslongasyouarenthesameareaand maintainalineof sight tothem, unless you becomeunconsciousorfallinto sleep or torpor. ## INTERMEDIATENEPTUNE'SMIGHT
 
 ## BLOODTOWATER
 
-You have now attained enough power to transmute other liquids into water.Themost commonly seenformof thispower is anassault:Withbut a touch,youmaytansmutethevictimblood intowater.Foraortal,hiss lethal,andvampires areweakenedby it.
+You have now attained enough power to transmute other liquids into water.the most commonly seenformof this power is anassault:with but a touch, you maytansmutethevictimblood into water.for aortal, hiss lethal, and vampires are weakenedby it. You must touch you r intended victim when activating the power.You maythenspendasmany Mental Traits as you please;every Mental Traitcounts as one Blood Trait that becomes water.For amortal, this means death in minutes;avampireisweakenedas the vitaeinhissystemeffectivelydisappears. What'soreaiesufferswoundnaltisaifwrnjuredn though actual injury is not inflicted.Thosewith atleast Basic for titudeare unaffected by this, but still lose the Blood Traits normally. The water evaporatesoutofavampire'sbodyatarateofone Blood Traitperhour, but the lostbloodwillnotreturn. Liquids other than bloodcanbetransmuted into water aswell, as longas you either touch the liquid itself or the container it is in. ## FLOWINGWALL
 
-You must touch your intended victim when activating the power.You maythenspendasmanyMental Traits as youplease;everyMentalTraitcounts as one Blood Trait that becomes water.For amortal,this means death in minutes;avampireisweakenedas thevitaeinhissystemeffectivelydisappears. What'soreaiesufferswoundnaltisaifwrnjuredn though actual injury isnotinflicted.Thosewith atleastBasicFortitudeare unaffected by this,but still lose the Blood Traits normally. The water evaporatesoutofavampire'sbodyatarateofoneBloodTraitperhour,butthe lostbloodwillnotreturn.
+With this power you can commandwater to such an extent that you can for m it into an almost impenetrablewall.you must touch the surface of a standingbody of waterand spend two will power Traits.you must the n spend Mental Traits:Each Mental Trait spent inthisfashion causes10feetofwatery barrier toappearinonedimension, eithernwidthoreight.ou permanent Mental Traits are the onlylimit tohowtallorwideawallyoucancreate The wallmaybeplacedanywhereinyour lineof sight and mustbeformedina straightline the wallremainsinplaceuntil sunrise.Itcannotbeclmbedut it can beflown over. amnari
 
-Liquids other thanbloodcanbetransmuted intowater aswell,as longas you either touch the liquid itself or the container it is in.
+Anyone attempting to pass through the wall must make three Static instead of Physical Traits. ADVANCEDNEpTUNE'SMIgHT
 
-## FLOWINGWALL
+DEHYDRATE upon reachingthisvelfmasteryoucanirectlyattackbothortalnd
 
-With this power you can commandwater to such an extent that you can form it into an almost impenetrablewall.Youmust touch the surface of a standingbody ofwaterand spend twoWillpowerTraits.Youmust then spend MentalTraits:EachMentalTrait spent inthisfashion causes10feetofwatery barrier toappearinonedimension,eithernwidthoreight.ou permanent MentalTraits aretheonlylimit tohowtallorwideawallyoucancreateThe wallmaybeplacedanywhereinyour lineof sight andmustbeformedina straightlineThewallremainsinplaceuntil sunrise.Itcannotbeclmbedut it canbeflown over.
+Make a Mental Challenge against the target's Physical Traits. If successfulyounfitevlflhaldmaensubjctrfe protectinagainstthisatackbuitcanealdrmall Vire Blood Traitsinsteadofhealthlevelsifthetargethasnomore Blood Traitslef, she will the n lose health levels as normal.The victim must make a Static Coragetesagainstamountfhaltvelstmwohlse is overcomewith agonyfor that turn and can not act.Vampireswho have only lost blood are not overwhelmed until they beginto losehealthlevels. ## the PATH OF CORRUPTION
 
-<!-- image -->
-
-amnari
-
-Anyone attempting to pass through the wall must make three Static instead of Physical Traits.
-
-ADVANCEDNEpTUNE'SMIgHT
-
-DEHYDRATE
-
-Uponreachingthisvelfmasteryoucanirectlyattackbothortalnd
-
-Make a Mental Challenge against the target's Physical Traits. If successfulyounfitevlflhaldmaensubjctrfe protectinagainstthisatackbuitcanealdrmallVire BloodTraitsinsteadofhealthlevelsifthetargethasnomoreBloodTraitslef, she will then lose health levels as normal.The victim must make a Static Coragetesagainstamountfhaltvelstmwohlse isovercomewith agonyfor that turn andcannot act.Vampireswho haveonly lost blood arenot overwhelmed until they beginto losehealthlevels.
-
-## THEPATH OF CORRUPTION
-
-The learning or evenknowledge of thispath isneither encouragednor openlysupported bymostof thehigh-rankingTremere.Thosewhoarefamiliar with its intricacieshotly debate its origins.One theoryholds thatits secrets wereoriginallytaughttotheTremerebydemons,andpracticingitmaybring one dangerously close to the infernal.Another states that this path is something ofarelicfrom thedayswhen theTremerewere stillmortalwizards. The thirdandtomany themost disturbing,sthatthepathwasoriginally learned fromtheFollowersofSetandthatknowledgeofitsintricacieswas sold to theTemereforanunspecified pricebviouslythislastrumor isalways deniedbythmerewhichatmatcallymakesit thefavorite tpif discussion whenever thematter is brought up.
-
-The PathofCorruption ispathcenteredoninfluencing thepsychesofother individllatssuman than he has in Subterfuge.
-
-knowledge from influencing in-game play.
-
-Diciplines
+The learning or evenknowledge of this path is neither encouragednor openlysupported bymostof the high-ranking Tremere.Thosewhoarefamiliar with its intricacieshotly debate its or igins.One the or yholds that its secrets were or iginallytaughttothe Tremerebydemons, and practicingitmaybring one dangerously close to the infernal.Another states that this path is something of are licfrom the dayswhen the Tremerewere stillmortalwizards. The thirdandtomany the most disturbing, sthatthepathwasoriginally learned from the Followersof Setandthatknowledgeofitsintricacieswas sold to the Temereforanunspecified pricebviouslythislastrumor is always deniedbythmerewhichatmatcallymakesit the favorite tpif discussion when ever the matter is brought up. The Pathof Corruption is pathcenteredoninfluencing the psychesofother individllatssuman than he has in Subterfuge. knowledge from influencing in-game play. Diciplines
 
 ## BASICPATHOFCORRUPTION
 
-## CONTRADICT
+## CONTRADICT reverse hiscurrent courseofaction this maylead toaman shouting at hiswife known inadvance, but they always take the for m of amorenegative action than the subject had or iginally intendedtoperform. The subject getstomakea Simple Test.If hewins, herealizes that hes being influenced but do esn't knowwhois causing it, unless hewins a Mental Challenge against you tobecome aware of who attempted to influence him.If hetiesonthe Smpl Testhebecomesvaguelyawareofthefactthatheiseing influencedbutcannotchangehiscourseofaction.Ifheloses, hebelievesthat he tookthetwisted actionof hisownvolition. Contradict can be usedon anysubject in you rlineof sight.you must make a Mental Challengeagainst the subject;if successful, the actionordecisionte subject is about toundertakebecomes the negative, fardarkeroppositeh detailsarelargelyletuptothetarget, who mustroleplayitout, although Storytellermayintervene. Contradict can not be used in combat or to affect actions that are mainly physical or reflexive. ## SUBVERT
 
-reverse hiscurrent courseofactionThismaylead toaman shouting at hiswife known inadvance,but they always take theform ofamorenegative action than the subject hadoriginally intendedtoperform.
-
-The subject getstomakeaSimpleTest.If hewins,herealizes thathes being influenced but doesn't knowwhois causing it,unless hewins aMental Challenge against you tobecome aware of who attempted to influence him.If hetiesontheSmplTesthebecomesvaguelyawareofthefactthatheiseing influencedbutcannotchangehiscourseofaction.Ifheloses,hebelievesthat he tookthetwisted actionof hisownvolition.
-
-Contradict canbe usedon anysubject in yourlineof sight.Youmust make aMentalChallengeagainst thesubject;if successful,theactionordecisionte subject isabout toundertakebecomes thenegative,fardarkeroppositeh detailsarelargelyletuptothetarget,whomustroleplayitout,although Storytellermayintervene.
-
-Contradict cannotbe used in combat or to affect actions that aremainly physical or reflexive.
-
-## SUBVERT
-
-SimilartoContradict,Subvert'seffects lastlongeranddigdeeperinto the dark sideof the subject'spsyche.Wheninfluenced by thispower,the subject acts onherown suppressed temptations,pursuingagendas thathermoralsor self-controlwouldnormallyforbidhertofollow.
-
-You mustmake eyecontact with the intended victim and make a Mental Challenge.If you win,the victim becomes inclined to follow a repressed, shameful desire until the effects fade.By default,the effects last forfive minutes;however,if the original Mental Challenge is successful,you may makeSimpleTests againstthevictimuntilyoulose.Thenumber ofwinsyou scoredeterminestheeffect'slength.
-
-Theactualffectsareagainbestlfforrollayingalthoughthtry tellermayinterveneThevictim shouldfollowanegative agendafor the duration of the effect -she is driven by her darker desires and moods. Psychological Flaws orNegativeTraitsmaywell come into play here.The charactersNatureis alsoafactorin thisforexample,aLonermaybecome violentif sheisforced attend a social function.The subject doesnotbecome ofheractionswithvaryingdegreesof subtletyThexpenditureofaWillpower Trait allows the character to overcome this effect for a minute.
-
-## INTERMEDIATE PATH OF CORRUPTION
+Similarto Contradict, Subvert'seffects lastlongeranddigdeeperinto the dark sideof the subject'spsyche.when influenced by this power, the subject acts onherown suppressed temptations, pursuingagendas that hermoralsor self-controlwouldnormallyforbidhertofollow. You mustmake eyecontact with the intended victim and make a Mental Challenge.If you win, the victim becomes inclined to follow a repressed, shameful desire until the effects fade.By default, the effects last for five minutes;how ever, if the or iginal Mental Challenge is successful, you may make Simple Tests againstthevictimuntilyoulose.the number of winsyou scoredeterminestheeffect'slength. the actualffectsareagainbestlfforrollayingalthoughthtry tellermayintervene the victim should followanegative agendafor the duration of the effect -she is driven by her darker desires and moods. Psychological Flaws or Negative Traitsmaywell come into play here.The characters Natureis alsoafactorin this for example, a Lonermaybecome violentif sheisforced attend a social function.The subject do esnotbecome of heractionswithvaryingdegreesof subtlety the xpenditureofa will power Trait all ows the character to overcome this effect for a minute. ## INTERMEDIATE PATH OF CORRUPTION
 
 DISSOCIATE
 
-Divideandcnqurmataveryrignal tacti,u t asfv casual ties can be destroyed altogether.
+Divideandcnqurmataveryrignal tacti, u t asfv casual ties can be destroyed altogether. You must touch the target and make a Mental Challenge against him.If successful, the victim's Social Traits are reduced byfour(toaminimumofone) for the duration of the effect—the duration determined as with Subvert, above.If this power is used onacharacter who has participated in the Sabbat Vaulderie or similar ritual, his Vinculum ratingisreduced by three for the duration of the effect. Again, the effects of this power should beroleplayed out.the victim of this power becomes with drawn, suspicious and emotionally distant.The expenditure of a will power Trait all ows the character toovercomethiseffect for a minute or so. ## ADDICTION
 
-<!-- image -->
+This powerisafarnastierformof Subvert.Addictioncreatesjust that inthe victimyxposingtaaticular nsatin, tuatin, ustan actionyoucancrataowerfulsychologicalpendency Many Tmr ensure that the irvictimsbecome addicted tosubstancesorthrillsonlytheycan provide, thus creating a source of income and potential blackmail material. (round do wn). that a Self Control Challengebemade everynightuntil she has accumulated more winsthan the caster's rating in Path of Corruption.The victimmay not indulgeinher addiction overthetimeneeded to accumulate the wins;if she succumbsallaccumulatedwinsarelostandshemust startoveragainfthe target lsechallengehmaytryagainthfllwingnightbviously longertakethadrtmetwinasshonstantlfrcedi more and more Traits. ## ADVANCEDPATHOFCORRUPTION the finalowerin Pathof Corruption, Dependencetiesyoursubjectsoul toyourwnngenderingelingoflthargyandlesnessnerwhn is not inyour presence or acting to further you r desires.It is no surprise that someformerpawnsof the Tremere speakoffeelingsof depressionand lossthey felt when they weren't in the presence of the ir masters. Engage you r target in conversation, the n makes a Mental Challenge againstthesubject.Ifyou are successful, the victim'spsychebecomessubtly bonded toyour ownfor onenightper permanent Mental Traityoupossess, dividedbytwo(rounddown). Abondedvictim is nolesslikelyto attackyou and feelsnoparticular affectiontowardyou.how ever, sheispsychologically addictedtoyourpresence, and must bid an extra Trait in any challenges she participates in when eversheisnotaroundyouorperformingtasksforyou Additionallyyou gain five extra Traits when engaging her in any challenges that involve assertingyourauthority, whetherthrough do minate, Presence, Subterfuger Leadership.Finallyheisunabletoregain will powerraitsunlesssheisinour presence.Again, the se effects should mostly be roleplayed out. ## the PATHOFTECHNOMANCY
 
-You must touch the target and make a Mental Challenge against him.If successful,thevictim'sSocial Traits arereduced byfour(toaminimumofone) for the duration of the effect—theduration determined as with Subvert, above.If this power is used onacharacter whohas participated in theSabbat Vaulderie or similar ritual,hisVinculum ratingisreduced by three forthe duration of the effect.
-
-Again,the effects of thispower should beroleplayed out.Thevictim of this power becomes withdrawn,suspicious and emotionally distant.The expenditure ofaWillpowerTrait allows thecharacter toovercomethiseffect for a minute or so.
-
-## ADDICTION
-
-This powerisafarnastierformofSubvert.Addictioncreatesjust thatinthe victimyxposingtaaticular nsatin,tuatin,ustan actionyoucancrataowerfulsychologicalpendencyManyTmr ensure that theirvictimsbecome addicted tosubstancesorthrillsonlytheycan provide, thus creating a source of income and potential blackmail material.
-
-(round down).
-
-<!-- image -->
-
-that aSelfControl Challengebemade everynightuntil she has accumulated more winsthan thecaster's rating in Path of Corruption.The victimmay not indulgeinher addiction overthetimeneeded to accumulate thewins;if she succumbsallaccumulatedwinsarelostandshemust startoveragainfthe target lsechallengehmaytryagainthfllwingnightbviously longertakethadrtmetwinasshonstantlfrcedi more and more Traits.
-
-## ADVANCEDPATHOFCORRUPTION
-
-ThefinalowerinPathofCorruption,Dependencetiesyoursubjectsoul toyourwnngenderingelingoflthargyandlesnessnerwhn isnot inyour presence or acting to further your desires.It isno surprise that someformerpawnsof theTremere speakoffeelingsof depressionand lossthey felt when they weren't in the presence of their masters.
-
-Engage your target in conversation, then makes a Mental Challenge againstthesubject.Ifyou are successful,thevictim'spsychebecomessubtly bonded toyour ownfor onenightper permanentMental Traityoupossess, dividedbytwo(rounddown).
-
-Abondedvictim isnolesslikelyto attackyou andfeelsnoparticular affectiontowardyou.However,sheispsychologically addictedtoyourpresence, and must bid an extra Trait in any challenges she participates in wheneversheisnotaroundyouorperformingtasksforyouAdditionallyyou gain five extra Traits when engaging her in any challenges that involve assertingyourauthority,whetherthroughDominate,Presence,Subterfuger Leadership.FinallyheisunabletoregainWillpowerraitsunlesssheisinour presence.Again,these effects shouldmostly be roleplayed out.
-
-## THEPATHOFTECHNOMANCY
-
-OneofthenewestandmostcontroversialThaumaturgypaths,Technomancy concentrates on controlling electronic devices,ranging from wristwatches to computers.Thepathissonewthatithas yettospreadmuchbeyondtheUnited Statesbutits proponents arequicklymaking progressinpreadingit asfaas theycanstatingthatitisarimeexamlefwhatcanbaccomplishedwih creativeapplications of Thaumaturgy inthemodernworld.Moreconservative TremereobjecttoTechnomancy'sveryexistence,claiming thatmixingmagic andmortal technologyborders on treason oreven blasphemy.Some European regents have even banned practitioners ofTechnomancy from their chantries altogether.The Inner Council has not yet expressed any opinion on the matter,buthasapprovedtheintroductionofthepathintotheclan'sgrimoires.
-
-## BASICTECHNOMANCY
+Oneofthenewestandmostcontroversial Thaumaturgypaths, Technomancy concentrates on controlling electronic devices, ranging from wristwatches to computers.the pathissonewthatithas yettospreadmuchbeyondthe United Statesbutits proponents are quicklymaking progressinpreadingit asfaas the ycanstatingthatitisarimeexamlefwhatcanbaccomplishedwih creativeapplications of Thaumaturgy inthemodernworld.Moreconservative Tremereobjectto Technomancy'sveryexistence, claiming that mixingmagic and mortal technologyborders on treason or even blasphemy.Some European regents have even banned practitioners of Technomancy from the ir chantries altogether.The Inner Council has not yet expressed any opinion on the matter, but has approvedtheintroductionofthepathintotheclan'sgrimoires. ## BASICTECHNOMANCY
 
 ## ANALYZE
 
-Technology doesn't march on—it races.Keeping up with new innovaleaves thmbehindspittheibestffortsWithnaleucanp your consciousness intoa device,granting you temporarybut comprehensive few minutes.
+Technology do esn't march on—it races.Keeping up with new innovaleaves thmbehindspittheibestfforts with naleucanp you r consciousness into a device, granting you temporarybut comprehensive few minutes. you r Mental Traits (round do wn). This power may also be used to understand new pieces of computer software.how ever, you must toucha computer nwhich the software s installedmerelyholding the CD-ROMordiskwill not do you must bid an additional Mental Trait when attempting this. ## BURNOUT
 
-your Mental Traits (round down).
+Burnout'sonly functionisdestruction.Bycausinga device'spower supply to surgeyoumay damageordestroythetarget.Buout can not beusedo directlyinjureanotherindividual, but destroyingapacemakeroracar'sfuel injection control chip can certainly have dramatic consequences. You mustmake a Static Mental Challenge.This powerhasa rangeof up to10tmesyourpermanent will powerinyardsbutyoumustbidanadditional Mental Trait if you are not touching the item.Normal household appliances or desktopcomputerstypicallyhave three Traits, whilecarsormoreresistant deviceshave six Traits.argemainframespassengeraircraftorother similar devices may have nine or more Traits.Devices with additional surge protection gain an additional three Traits for defense(computers well-guarded againstower spikesandthelike, suchasbankingormilitarymainframesmay have more at Storyteller discretion).A damaged deviceceases tofunction and can not be used again until it is repaired. ## INTERMEDIATE TECHNOMANCY
 
-This power may also be used to understand new pieces of computer software.However,youmust toucha computer nwhich the software s installedmerelyholding theCD-ROMordiskwill not doYoumust bid an additional Mental Trait when attempting this.
+Ifyouwishtestroythetargetinsteadfmrelydamagingitnda Mentalritandale Testwitsccestaeisestyd with success, th datais destroyed eyond anyhopef nonmagical recovry. ENCRYPT/DECRYPT
 
-## BURNOUT
+Eachlevel of the Computer Abilityyou possesscounts astwo Traitsforthe against the numberof Traits spent Those who have noappropriate skills such as Comut Reaicinceruritcannt amttchallngetll the deviceimplyrfusestowork the detailsof the challengearelefttthe anytimemerelybytouching the target and spending another will power Trait. The effects of this power last for a number of weeks equal to you r permanent will power Traits. Encrypt/Decryptcanalsobeusedtodecryptdevicesordatathathavebeen previouslyencrypted with this power the powerworksexactlytheway it do es Trait from the target, thumakingusingthdeviceraccessingthdataa. ## REMOTEACCESS
 
-Burnout'sonly functionisdestruction.Bycausinga device'spower supply to surgeyoumay damageordestroythetarget.Buout cannotbeusedo directlyinjureanotherindividual,butdestroyingapacemakeroracar'sfuel injection control chip can certainly have dramatic consequences.
-
-You mustmake a StaticMental Challenge.This powerhasa rangeof up to10tmesyourpermanentWillpowerinyardsbutyoumustbidanadditional Mental Trait if you arenottouching theitem.Normal household appliances ordesktopcomputerstypicallyhave threeTraits,whilecarsormoreresistant deviceshave sixTraits.argemainframespassengeraircraftorother similar devices may have nine or more Traits.Devices with additional surge protection gain an additional three Traits for defense(computers well-guarded againstower spikesandthelike,suchasbankingormilitarymainframesmay havemore at Storyteller discretion).A damaged deviceceases tofunction and cannot be used again until it is repaired.
-
-## INTERMEDIATE TECHNOMANCY
-
-Ifyouwishtestroythetargetinsteadfmrelydamagingitnda MentalritandaleTestwitsccestaeisestyd with success,th datais destroyed eyond anyhopef nonmagical recovry.
-
-ENCRYPT/DECRYPT
-
-<!-- image -->
-
-Eachlevel of theComputerAbilityyou possesscounts astwoTraitsforthe against thenumberofTraits spentThose whohave noappropriate skills such asComutReaicinceruritcannt amttchallngetll ThedeviceimplyrfusestoworkThedetailsof thechallengearelefttthe anytimemerelybytouching the target and spending anotherWillpowerTrait.
-
-The effects of this power last for a number of weeks equal to your permanentWillpower Traits.
-
-Encrypt/Decryptcanalsobeusedtodecryptdevicesordatathathavebeen previouslyencrypted withthispowerThepowerworksexactlytheway it does Trait fromthetarget,thumakingusingthdeviceraccessingthdataa.
-
-## REMOTEACCESS
-
-A suitably skilled technomancerno longerneeds to toucha device to operate it.This isnot some form of telekinesis;instead you command the device directly withyour mind.This powermay be used on any electronic devicein thecharacter's line of sight.You must spendaWillpowerTrait and concentrateonthetarget.Afterthat,youmayusethetargetdevicenormally, despitethefactthat youaren'tactuallytouchingit.Thiscouldmeanoperating a computer from afar,opening electronic locks or deactivating security systems.As long as you can see the device,you can operateit.
-
-RemoteAccessremains ineffectfor a numberof turnsequal toyourPath ofTechnomancy score.You mustmake aSimpleTestforeachturn after that; ona failure,theconnection isbroken.RemoteAccess can only be used ona singletargetatatime.
-
-If theitemyouareoperatingfromafarisdestroyedwhileyouareusingit, you immediately take threelevels ofbashing damage(whichisnot halved as per normal),as the shock ofhavingyourperceptions suddenly shunted back to your body is somewhat nasty.
-
-## ADVANCEDTECHNOMANCT
+A suitably skilled technomancerno longerneeds to toucha device to operate it.This is not some for m of telekinesis;instead you command the device directly with you r mind.This powermay be used on any electronic devicein the character's line of sight.You must spenda will power Trait and concentrateonthetarget.Afterthat, you mayusethetargetdevicenormally, despitethefactthat you are n'tactuallytouchingit.this could meanoperating a computer from afar, opening electronic locks or deactivating security systems.As long as you can see the device, you can operateit. Remote Accessremains ineffectfor a numberof turnsequal toyour Path of Technomancy score.You mustmake a Simple Testforeachturn after that; ona failure, the connection is broken.Remote Access can only be used ona singletargetatatime. If the itemyouareoperatingfromafarisdestroyedwhileyouareusingit, you immediately take threelevels of bashing damage(which is not halved as per normal), as the shock of havingyourperceptions suddenly shunted back to you r body is somewhat nasty. ## ADVANCEDTECHNOMANCT
 
 ## TELECOMMUTE
 
-Telecommute allows you to project your consciousness into the global telecommunicationnetworkandsendyourmindthroughsatellitelinksiber opticcables and other similardevices.Whilethusimmersed inthenetwork, you canuseany of theotherTechnomancy powers onthedeviceswithwhich you make contact.
+Telecommute all ows you to project you r consciousness into the global telecommunicationnetworkandsendyourmindthroughsatellitelinksiber opticcables and other similardevices.Whilethusimmersed inthenetwork, you can useany of the other Technomancy powers onthedeviceswithwhich you make contact. You must touch some sort of a communication device.Anything will do; itmaybeacellphone, afaxmachne, acomputerwithodemorermanent power Trait and concentrate. The effects of Telecommute lasts for 10 minutes, with each level in Computer Ability granting an additional fiveminutes.This time may be
 
-You must touch some sort of a communication device.Anything will do; itmaybeacellphone,afaxmachne,acomputerwithodemorermanent power Trait and concentrate.
-
-The effects of Telecommute lasts for 10 minutes, with each level in ComputerAbility granting an additional fiveminutes.This time may be
-
-<!-- image -->
-
-AslongasyouaremmeredinthenetworkyoumayapplanyothePath
-
-Shouldyou attempt totakeanyactionsmorecomplicated than talkingto creaturesarfarmoreat homenthisenvironment,andsteeringclearofhm is often a good idea.
-
-For obvious reasons, this power always requiresStoryteller assistance.
-
-<!-- image -->
-
-## SPIRITMANIPULATION
+Aslongasyouaremmeredinthenetworkyoumayapplanyothe Path should you attempt totakeanyactionsmorecomplicated than talkingto creaturesarfarmoreat homenthisenvironment, and steeringclearofhm is of ten a good idea. For obvious reasons, this power always requires Storyteller assistance. ## SPIRITMANIPULATION
 
 BASIC SPIRIT MANIPULATION
 
-Not to be confused with,or even derived from, the ancient Path of Spirit Thaumaturgy, Spirit Manipulation is actually a somewhat recent innovation for the Tremere.This path was invented to replace the old rituals created by theclan when they were still mortal wizards.Its purpose is to force spirits into situations and actions that wouldnormally be anathema for them.SpiritManipulation mimics many effects that can be createdbyuinesandcertainshamanicmagesbutittakesacompletly spirit in question, the thaumaturge forces the spirit into a grotesque mockery of its normal behavior.It's a dangerous practice,though;a apractitioneloeachallengewhileworkingwithiritemusta a SimpleTest.If he loses the test, the spirit attacks.
+Not to be confused with, or even derived from, the ancient Path of Spirit Thaumaturgy, Spirit Manipulation is actually a somewhat recent innovation for the Tremere.This path was invented to replace the old rituals created by the clan when they were still mortal wizards.Its purpose is to for ce spirits into situations and actions that would normally be anathema for the m.Spirit Manipulation mimics many effects that can be createdbyuinesandcertainshamanicmagesbutittakesacompletly spirit in question, the thaumaturge for ces the spirit into a grotesque mockery of its normal behavior.It's a dangerous practice, though;a apractitioneloeachallengewhileworkingwithiritemusta a Simple Test.If he loses the test, the spirit attacks. HERMETIC SIGHT
 
-HERMETIC SIGHT
+This power do es not all ow you to seeinto the lands of the dead or into the realms of the fae. you mayactivatethispoweratwillandautomaticallyseanyspiritsle you may the n seeinto the spiritrealmforthedurationof the scene While challengesinthephysicalworld dueto the diffcultiescausedby divided perceptions.You may terminate this power at any time. ## ASTRAL can T
 
-<!-- image -->
+Spendinga will power Trait activatesthispowerfortheremainderof the scene.Aslongasthepowerisactive, you mayconversewithspiritsintheirown language and understand the irresponses. Most spiritsdon'tspeak Englishat leastnoton the irome tufome understand and communicatein the spirits'own languages. INTERMEDIATESPIRITMANIPULATION
 
-This power does not allow you to seeinto the lands of the dead orinto the realms of thefae.
+## VOICEOFCOMMAND this is perhapsthemost dangerouspowera practitionerof Spirit Manipula tionhas at her disposal failureheremaywell mean a painful death when subjected totheattackof anenraged spirit.this power all ows you togiveorders toaspirit, compellingittoheedyourbiddingwhetherornotitdesirestodoso. To use this power, spend a will power Trait and make a Mental Challenge against the spirit.With success, the spiritmust obeywhatever commandyougive, aslongasitdoesn'tendanger the spirit'swell-beingor conflict with its morals.By spending another will power Trait before makingthechallenge, you mayforcethe spiritinto do ing somethingthat may hurt the spirit or greatlyviolate its ethics.Toforce the spirit into a possiblysuicidalaction, you mustmakeanother Mental Challengeagainst the spirit;success means the spiritwill obey, but will likelybe seething with rage at this point.It should be kept inmind that spirits commanded in this manner are fully aware of the fact that they are beingforced into something against the ir will, and they may well seek revenge at a later time.A spirit is sued acommand above and beyond what it was compelled to do may"agree"to the command, but never followthrough, leaving its erstwhile master in a potentially fatal situation. ## ENTRAPEPHEMERA
 
-Youmayactivatethispoweratwillandautomaticallyseanyspiritsle youmay then seeinto thespiritrealmforthedurationof the sceneWhile challengesinthephysicalworld dueto the diffcultiescausedby divided perceptions.You may terminate this power at any time.
+With this power, you may bindaspirit into anobject.This can be one inordertomprisonthespiritutitsmoreoftenperformednordertocreate afetishanartifactthatchannelsortonof the spiritspowerthroughit affect the physicalworld.Fetishescreatedinthismannerareratherfickleat anythingin the irpower toescape or at least thwarttheircaptors. The actualdetailsf the fetishdepend greatlyonthedetailsof the spirit and the item in question.For example, a spirit of pain may tun a simplewhip into a terrifyingweapon, where as a spirit of sharpnessmay cause a sword to cut deep and cause aggravated damage.This is inno way amarilla Luide e
 
-## ASTRAL CANT
-
-SpendingaWillpowerTrait activatesthispowerfortheremainderof the scene.Aslongasthepowerisactive,youmayconversewithspiritsintheirown language and understand theirresponses.
-
-Most spiritsdon'tspeakEnglishat leastnoton theirome tufome understand andcommunicatein the spirits'own languages.
-
-INTERMEDIATESPIRITMANIPULATION
-
-## VOICEOFCOMMAND
-
-Thisisperhapsthemost dangerouspowera practitionerofSpiritManipula tionhas at her disposal failureheremaywell mean a painful death when subjected totheattackof anenraged spirit.Thispower allows youtogiveorders toaspirit,compellingittoheedyourbiddingwhetherornotitdesirestodoso.
-
-To use this power, spend a Willpower Trait and make a Mental Challenge against thespirit.With success,the spiritmust obeywhatever commandyougive,aslongasitdoesn'tendanger thespirit'swell-beingor conflict with its morals.By spending another Willpower Trait before makingthechallenge,youmayforcethe spiritinto doing somethingthat may hurt the spirit orgreatlyviolate its ethics.Toforce the spirit into a possiblysuicidalaction,youmustmakeanotherMental Challengeagainst the spirit;success means the spiritwill obey,butwill likelybe seething withrage at this point.It should be kept inmind that spirits commanded in thismanner arefully aware of thefact that they arebeingforced into something against their will, and they may well seek revenge at a later time.A spirit issued acommand above and beyond what it was compelled to domay"agree"to the command,butnever followthrough,leaving its erstwhile master in a potentially fatal situation.
-
-## ENTRAPEPHEMERA
-
-With this power,youmay bindaspirit intoanobject.This canbe one inordertomprisonthespiritutitsmoreoftenperformednordertocreate afetishanartifactthatchannelsortonof thespiritspowerthroughit affect thephysicalworld.Fetishescreatedinthismannerareratherfickleat anythingin theirpower toescape or at least thwarttheircaptors.
-
-The actualdetailsf thefetishdepend greatlyonthedetailsof the spirit and the item in question.For example,a spirit of pain may tun a simplewhip into a terrifyingweapon,whereas a spirit of sharpnessmay cause a sword to cut deep and cause aggravated damage.This is inno way amarillaLuide
-
-e
-
-AfetishcreatedinthisfashionisactivatedbysendingaWillpowerTrat be destroyed, and the spirit will be freed.
-
-Formoreinformationregardingfetish powers,refer toLaws of theWild. TheStoryteller isalwaysthefinalauthoritindeterminingthepowersofand
+Afetishcreatedinthisfashionisactivatedbysendinga will power Trat be destroyed, and the spirit will be freed. for moreinformationregardingfetish powers, refer to Laws of the Wild. the Storyteller is alwaysthefinalauthoritindeterminingthepowersofand
 
 ADVANCEDSPIRIT MANIPULATION
 
-## DUALITY
-
-Theheight of spiritual transactions,youcannowfully interactwith the realm of the spirits.When you activate this power,you exist onboth planes simultaneously.You can pick up objects in the material world and place them in the spirit world or vice versa.The beings and landscapes of bothworlds aresolid toyou,andyou may interactwith them asyou please. You can even use Thaumaturgy and other Disciplines in either world. Still,it's not a walk in the park-a journey such as this isnot without its dangers,and a singlemistake may leave you trapped in the spirit realms with no way home. Several incautious travelers have starved into torpor in the spirit realm—there isno blood to be had among the spirits, after all.
-
-Dualitymay only be used while you are in the physical world.Note that while thispowerisinffectyouarevulnerableto attacksfrombothworls. You are considered to be in the physical world,as far as basic physics and common sense are concernedfor example,if theres a road in the physical world thatadoverchasmnthsiritwordumaywalkacross chasm just fine.
-
-a second lossmeans therewasabacklash andyou wereripped outof the physicalworld andthrownintothe piritworldWhetherornotthereisaway back to the physical realm is up to theStoryteller.
-
-No.of Wins
+## DUALITY the height of spiritual transactions, you can nowfully interactwith the realm of the spirits.When you activate this power, you exist onboth planes simultaneously.You can pick up objects in the material world and place the m in the spirit world or vice versa.The beings and landscapes of bothworlds are solid toyou, and you may interactwith the m asyou please. You can even use Thaumaturgy and other Disciplines in either world. Still, it's not a walk in the park-a journey such as this is not with out its dangers, and a singlemistake may leave you trapped in the spirit realms with no way home. Several incautious travelers have starved into torpor in the spirit realm—the re is no blood to be had among the spirits, after all. Dualitymay only be used while you are in the physical world.not e that while this powerisinffectyouarevulnerableto attacksfrombothworls. You are considered to be in the physical world, as far as basic physics and common sense are concernedfor example, if the res a road in the physical world that adoverchasmnthsiritwordumaywalkacross chasm just fine. a second lossmeans the rewasabacklash and you were ripped outof the physicalworld and thrownintothe piritworld Whetherornotthereisaway back to the physical realm is up to the Storyteller. No.of Wins
 
 One
 
@@ -2196,7 +794,7 @@ Two
 
 Four
 
-DurationofEffect
+Durationof Effect
 
 One turn
 
@@ -2204,1577 +802,382 @@ One turn
 
 Three turns
 
-10minutes
+10minutes the remainderofthescene
 
-Theremainderofthescene
+—the number of testswon determines the duration of the effect. all challenges as long as Duality remains active;perceivingtworealmscanbe distracting, making evenroutine tasks an exercise in concentration. ## THAUMATURGICALCOUNTERMAGIC
 
-<!-- image -->
+Thaumaturgical Countermagic is treated as a separate Discipline. You may not take this as you r primary path, nor do es this all ow you to perform rituals. ratingequal toorhigher than the ratingof that power or ritual—rituals higher than Advancedmaynever becounteredwith this power. This powe is not somuch apathas it is a separateiscipline the power those Kindredwho are incapableof learning eventhemost basic ritual.That said, for obvious reasons, the se techniques are not taught outside Clan Tremere—non-Tremerewho display this ability are likely to become a topic of fatalinterestforevery Tremereinthearea. Thaumaturgical Countermagic can only be used against Tremere Thaumaturgy at full effectiveness.It is greatlyweakened (the character will have fourfewer Traitsforall challengesrelatingto an attempttoresistthe magical effects)againstnon-Tremere blood magic and mortal hedge magic, and is completely ineffective against othermagics and powers. the re are nonames for the levelsof Thaumaturgical Countermagic;the yare simply a gamemechanic that measures degree of skill. Any non-Tremere characterwho learns this power automatically earns the Flaw Clan Enmity（Tremere), receivingno free Traitsforit—supposing that the Tremereknow that hehasthispower, of course.this power can not be taken during character creation, and it can never be spontaneously developed.It costs the same as any other non-clan Discipline to learn. ## BASICTHAUMATURGICALCOUNTERMAGIC
 
-<!-- image -->
-
-—thenumber of testswon determines the duration of the effect.
-
-all challenges as long asDuality remains active;perceivingtworealmscanbe distracting,making evenroutine tasks an exercise in concentration.
-
-## THAUMATURGICALCOUNTERMAGIC
-
-Thaumaturgical Countermagic is treated as a separate Discipline. You may not take this as your primary path,nor does this allow youto perform rituals. ratingequal toorhigher than theratingof that power orritual—rituals higher thanAdvancedmaynever becounteredwith thispower.
-
-This powe isnot somuch apathas it is a separateisciplineThepower thoseKindredwho areincapableof learning eventhemost basic ritual.That said, for obvious reasons, these techniques are not taught outsideClan Tremere—non-Tremerewho display this ability are likely to become a topic offatalinterestforeveryTremereinthearea.
-
-Thaumaturgical Countermagic can only be used against Tremere Thaumaturgy at full effectiveness.It is greatlyweakened (the character will have fourfewerTraitsforall challengesrelatingto an attempttoresistthe magical effects)againstnon-Tremere blood magic andmortal hedge magic, and iscompletely ineffective against othermagics andpowers.
-
-There arenonames forthe levelsof Thaumaturgical Countermagic;theyare simply a gamemechanic thatmeasures degree of skill.
-
-Any non-Tremere characterwho learns this power automatically earns theFlawClanEnmity（Tremere),receivingno freeTraitsforit—supposing that theTremereknow thathehasthispower,of course.Thispower cannot be taken during character creation,and it cannever be spontaneously developed.It costs the same as any other non-clanDiscipline to learn.
-
-## BASICTHAUMATURGICALCOUNTERMAGIC
-
-## LEVELI
-
-YoumaymakeaMental Challenge against thecaster,bidding two extra Traits.Ifyouwin,theThaumaturgicalpowerorritual thecasterisattempting fails.Youmayonlyattempt tocancel thosepowers that directlyaffect youand your garments.
-
-## LEVELE
+## LEVELI you maymakea Mental Challenge against the caster, bidding two extra Traits.Ifyouwin, the Thaumaturgicalpowerorritual the casterisattempting fails.you mayonlyattempt tocancel thosepowers that directlyaffect you and you r garments. ## LEVELE
 
 The character can make a normal Mental Challenge against the caster. INTERMEDIATETHAUMATURGICAL COUNTERMAGIC
 
-You receive two extra Traits for the Mental Challenge against the caster. You can attempt to cancel aThaumaturgy power orritual that affects anyone
-
-<!-- image -->
+You receive two extra Traits for the Mental Challenge against the caster. You can attempt to can cel a Thaumaturgy power or ritual that affects anyone
 
 LEVEL4
 
 LEVEL5
 
-You receive six extra Traits for the Mental Challenge against thecaster. within that same radius.
+You receive six extra Traits for the Mental Challenge against the caster. with in that same radius. ## WEATHER CONTROL
 
-## WEATHER CONTROL
-
-Tales have long been told of wizards who could control the weather; indeed,the powers of thispath are said to predate theTremere by several centurihispatllwforsubweathemanipulatinadathi levels youmayevencommandentirestorms.Theareaaffectedis usuallyrather small(atleastnameteorological scale)nomorethanthreeorfourmilen diameter,although theStorytellermay alter this as she seesfit.
-
-Decide how you wish to change the current weather and spend a WillpowerTraithendecidehowfastouwanttheweathertochange,end anappropriatenumberof Mental Traits(seebelow)andmakesaStaticMental Challengeagainst theStoryteller.IfnoMentalTraits arespent,theweather changes in a day.
-
-It should benotedWeatherControlisn't asmuch about specificpowers as it is about degrees of control over thelocal weather.Therefore the strongest weather phenomenon you can affect at any given level is listed.
-
-Notethatthefasteryouattempttochangetheweather,themore taxing it will be for you.Nearly instant massive changes in local weather are consideredMasquerade breaches and are guaranteed to attract unwanted mortal attention.
-
-BASIC WEATHER CONTROL
+Tales have long been told of wizards who could control the weather; indeed, the powers of this path are said to predate the Tremere by several centurihispatllwforsubweathemanipulatinadathi levels you mayevencommandentirestorms.the are aaffectedis usuallyrather small(atleastnameteorological scale)nomorethanthreeorfourmilen diameter, although the Storytellermay alter this as she seesfit. Decide how you wish to change the current weather and spend a will power Traithendecidehowfastouwanttheweathertochange, end anappropriatenumberof Mental Traits(seebelow)and makesa Static Mental Challengeagainst the Storyteller.Ifno Mental Traits are spent, the weather changes in a day. It should benoted Weather Controlisn't asmuch about specificpowers as it is about degrees of control over the local weather.the refore the strongest weather phenomenon you can affect at any given level is listed. not ethatthefasteryouattempttochangetheweather, the more taxing it will be for you.Nearly instant massive changes in local weather are considered Masquerade breaches and are guaranteed to attract unwanted mortal attention. BASIC WEATHER CONTROL
 
 FOG
 
-Atthisevelyumayalscallpgentlewindandproducetherweatr temperature slightly,by about 10 degreesFahrenheit.
-
-The area isfilledwith thickfog.Vsion ismpaired,andall characters ranges of all ranged weapons arehalved.
-
-normally.
-
-## RAIN OR SNOW
-
-<!-- image -->
-
-hazardous proposition.The details are left to theStoryteller.
-
-INTERMEDIATEWEATHERCONTROL
+Atthisevelyumayalscallpgentlewindandproducetherweatr temperature slightly, by about 10 degrees Fahrenheit. The are a is filledwith thickfog.Vsion is mpaired, and all characters ranges of all ranged weapons are halved. normally. ## RAIN OR SNOW hazardous proposition.The details are left to the Storyteller. INTERMEDIATEWEATHERCONTROL
 
 ## HIGHWINDS
 
-Local temperaturemayberaisedor lowered by upto20 degreesFahrenheit.
+Local temperaturemayberaisedor lowered by upto20 degrees Fahrenheit. The windspeed risesuptoaround30milesperhourwithgustsof wind objectsmust bid three extra Traits.You may attempt to knock people do wn with the winds by making a Mental Challenge against the subjects'Physical Traits, aslong as the yarenyour lineof sight and ina location that all owsfor such gustsofwind outdoorsornaacony, yeinsidechina shop, noway). This will not do anydamage, but the subjectsmust spend the nextcombat tun gettingbacktotheir feet.If the characters are attemptingphysical featssuch asrock-climbing, or someother similarlyriskyactivity, the consequencesmay bemoredramatic. ## STORM
 
-The windspeed risesuptoaround30milesperhourwithgustsof wind objectsmust bid three extraTraits.You may attempt to knock people down with the winds by making aMental Challenge against the subjects'Physical Traits,aslong as theyarenyour lineof sight and ina location that allowsfor such gustsofwind outdoorsornaacony,yeinsidechina shop,noway). This willnotdoanydamage,but the subjectsmust spend thenextcombat tun gettingbacktotheir feet.If thecharacters areattemptingphysical featssuch asrock-climbing,or someother similarlyriskyactivity,theconsequencesmay bemoredramatic.
-
-## STORM
-
-This power has theeffects of both Rain and HighWinds at the same time. ADVANCEDWEATHERCONTROL
+This power has the effects of both Rain and High Winds at the same time. ADVANCEDWEATHERCONTROL
 
 ## LIGHTNINGSTRIKE
 
-This attack inflictsthree healthlevels of lethal damage onthetarget.You must make a Mental Challenge against the target.The target uses Physical Traitstododge,andhemustbidanadditionalPhysicalTraitwhileattempting todoso,aslightning strikesrather quickly.NotethatunlikeotherWeather
+This attack inflictsthree healthlevels of lethal damage onthetarget.You must make a Mental Challenge against the target.The target uses Physical Traitstododge, and hemustbidanadditional Physical Traitwhileattempting todoso, aslightning strikesrather quickly.not ethatunlikeother Weather
 
-Traits spent One Trait TwoTraits Three Traits Four Traits Five Traits
+Traits spent One Trait Two Traits Three Traits Four Traits Five Traits
 
 Weatherchange In six hours In three hours In one hour In 10minutes Almost instantly
 
 ## WEATHER CONTROLINDOORS
 
-ThoughWeatherControl iscertainlyapowerful path,itdoesot lend itselfvery well for useindoors.Whilecertain effects,suchas temperature control,winds（provided that theroomis large enough） andevenfogcanbeattemptedindoorstheStorytelleralwayshasfinal say in whether ornot aneffect can be achieved.
+Though Weather Control is certainlyapowerful path, itdoesot lend itselfvery well for useindoors.Whilecertain effects, suchas temperature control, winds（provided that the roomis large enough） and evenfogcanbeattemptedindoorsthe Storytelleralwayshasfinal say in whether or not aneffect can be achieved. some extra effort. ## FoUR: CHAPTER ELYSIUM INSIDE
 
-<!-- image -->
+## PRESENTATION the customofpresentationisarguablythepremieretraditionofmodern Camarillasocietyimplyput, anyvampirenewtoacityisexpectedtocalluon the prince, announcewho heis and askpermissiontostay.for newlyembraced Kindreditistheirformalintroductiontothecreatureswithwhichtheymaybe spendingeternit.or visiting Kindreditistheirinroductintoanewcityan itsperils.for the prince, itisanaffimation of herpower and achance toget information.For everyone, it is a chance to size uphis or her newcompetition. ## SETTINGTHESTAGE
 
-some extra effort.
+A Storyteller who knows that the night's actionwill feature a presentation will probably want to do a bit of planning in advance. In addition to reviewingthecharacteofthenew Kindredsheshouldensure that the prince, the sire and which ever other characters will have for mal roles in the presentation are aware of the ir duties.The seneschal can usually be counted upon to is a good idea to do uble-check.The Storytellermay want to confer with the nsidefl um tion with in the do main. heritddgv of what ngnranxprncedantatinancanev samepurpose, but with more of a sink-or-swim ambiance. ## GIVINGTHEPRINCE HERDUE
 
-<!-- image -->
+The prince of the city should have a significant say in the feel f a presentationafterall, the presentation is directed atherinhercout Th character of the prince will be manifest in both the general feel of the presentation and the specific details.Most princes prefer presentations to be publicaffairswith asmanyof the ir subjects aspossiblepresent.Othersprf to limit the attendees to only the most trusted (or powerful)Kindred in the ir do mains.Someprinces employformal scripts that the yhaveusedforcenturies —and expect all visitors toknow—while othersareremarkably informal.A suspiciousprince may ask questions about the genealogy, motivation and history of the presentee.A cautious prince may want to ensure that the new Kindredhas anironcladunderstanding of the Masquerade as the prince sees it.AMalkavianprincemaywant toknowwhat dreams the character had yesterdayandwhichintnalrganethinksisthepretiest.fcourseany princes like to employ Majesty for this initial interview to"give the right impression.Inanyevent, the playeroftheprincewillprobablywanttoensure that shehasapresentationritualworthyofherdomainafterallthiswill probablygivethenewcomerhisfirst tasteofwhatunlifewillbelikeinthiscity. the Storytellermaywanttoworkwiththeplayertocreatethisceremony, torein in any creative or for mal excesses the player may introduce.For example, it is generallynot acceptablefortheprincetoforce all newcomersto drinkof herblood, and the re stof the troupedoesnotwant tosit throughan hour-longceremony that makes jury duty lookinteresting. Whiletheprincemaybethemostvisiblersonageawelldoneren tation should hint at the politics and powersbehind the scenes.If the prince is elwaid for what would normallybeher soleprerogative Someprinceswillinduce presentees to the primogen, the sheriff and other not eworthy Kindred.Others will leave it up to the vampires inquestion.Some will lavish timeon the new cases, thcharactefthpinceandheromain houldbemanifestnallthat occurs, for eshadowingnights tocome. ## PRESENTINGTHECHILDE
 
-<!-- image -->
+Inessence, tpreentatonfchilisstraightforwardaffrh abovethrinceillrobablyhavconsiderableayinhformfthreet tinhainleha
 
-## FoUR: CHAPTER ELYSIUM INSIDE
+The presentationusually begins when the seneschal informs the prince her discomfort.Altenately, the prince might spring the event on the sen eschal, lying that heisnotdoing thjobeissuosed to.Oncethi has beenannounced, the resentationpropereginsomeprinces expect bethankedforhavinggivenermissionforthecreationofanewchildethrs want the who lebusiness overasquicklyaspossiblesotheycangetbacktomore importantmattersnanyevent, hesirenroduceshrchiletothepre, and, iftheprincesodesires, the restofthecourt.Some iresliketotakehis timetopress the ir ownagendasor tout the irvirtues or thoseof the irnew childe, while others merely call the new Cainite up. Asanynewvampireisarisktoboththe Masquerade and the safetyof the prince'sdomain, mostprincesliketotakethetimetoensurethatthenew Cainite understands the rulesof unlife among the Camarilla.Most princes will at least askforarecitationofthechilde'slineageandthe Traditions, othersmaygivethe childe animpromptu test on the etiquetteof unlife.The prince may want to prepareaspeechorsomesetofquestionsandtestsfortheoccasion, tohelp reinforcethenatureof hercourtand herrelationshipwiththesireand hernew childe Aprincewhofavorsthesiremaypraseherandtrytoformthequestons mayaskbsudayneslinghatiouldtsilavetad the childewlnughadlerealprblemhroughouttheprocedng nizeherconferring Status Traitf Ackowlededheprincemaygiva her ability tochoose deserving sires. Whilea childe'spresentation should bea harrowingexperiencefor the character, thoultbearrwingrthayhallngingmaybe not harrowing.After all, the character is trying to prove herself worthy of immortality;the player is the re to have fun.Other players should besensitive to this distinction and the storytellermightwanttohavesome distraction prepared if things look like they are getting too uncomfortable. Achilde'spresentationwill probablybeaharrowingexperiencefor the newvampiretutlaenthe Six Traditionsand the Masquerade She should alsohavetoldthechildeabouttheclansandtheother can itesofthecityit special warnings about those who are working at cross-purposes to her.The sire's player or the Storytellermay even provide a cheat-sheet with this informationthattheplayer(not the character)can referencewhenall the new faces, names and questionsgettooconfusing. ## PRESENTINGTHENEWCOMER
 
-## PRESENTATION
+The actual ritual of the presentationisusually as straightforwardwitha strangerasit iwithachileandusuallhastheunqulftheprines the seneschal to see the prince.Oncehe has been shown in, the newcomer the princeacknowledgesthenewcome, and the nightgoesonwithneore predator added to the mix. Most presentationsdonotinvolvethedebutof someone'schilde.Accord ing tothe Fifth Tradition, the princeexpects all Kindredvisitinga cityto presentthemselves.As such, itisnotuncommonfora Kindredfrom another citytoarriveintheprince'scourtandpresent himself.Suchpresentations have a totally different feelfrom those of childer.For one thing, the presentee usuallyhasnosire to tell himwhich Kindred are treacherous and onlyrumor and hearsay as guides to the city's politics.For another, the prince and the Kindred of the citymayhavenoideaof who this new Cainiteis.Hecould be adableristnhrufmjsticabbatpytyingtprarhitf invasionanarchonwhohasheardsomedistubingrumorsaboutoneofth primogen—anything.Inthese last nights, aproper sense of paranoia can go a longwaytowardstavingoff the Final Death. First, inordetepresented, the nwcomermustmakehisway Elysiumost prudentindredleanthislocationbefretheysetouttow city.Thosewithouttheforesight(or timeorresourcestoleanwhere Elsium and say that the characterhasbeen into wn that numberof nightsor shemay
 
-Thecustomofpresentationisarguablythepremieretraditionofmodern Camarillasocietyimplyput,anyvampirenewtoacityisexpectedtocalluon theprince,announcewho heis and askpermissiontostay.Fornewlyembraced Kindreditistheirformalintroductiontothecreatureswithwhichtheymaybe spendingeternit.orvisitingKindreditistheirinroductintoanewcityan itsperils.Fortheprince,itisanaffimation of herpower andachance toget information.For everyone,it is a chance to size uphis or her newcompetition.
+Once reaching Elysium, he waits tobe introduced to the prince.nless lot before the prince admits him. Unlessthecourt can provefoul playorbring otherincriminatingevidence tolighttheprincewillprobablyrecognizethenewcomergranting hmth Acknowledged Status Trait.Someprinceswillgivethenewcomerinformationon
 
-## SETTINGTHESTAGE
+Once the presentee has been announced, he presents himself to the necessaryandasingmnttanhitweveng hewilleedehapsevenmoreothanwithchileostprincewillwan to query the newcomer about the ir history.Unless she alreadyknows the vampireostprincewillatlastaskrthinedslneageandeasnr being in town.the se questionscanbequiteserious and indepth.If the prince has reasontosuspectfoulplay, suchasifthepresenteewasknowntohavebeen in town for awhile before presentinghimselfshemay ask the sheriffto continue the questioning while she attends to othermatters.The prince may also ask the other Kindred of the city if anyknow anything about the newcomer;harpies and Nosferatu are especially apt to have heard if the newcomerhasdoneanything spectacular.Ifnothingseems amiss, the sheriff will return with the newcomer and so inform the prince.Naturally, the seneschalorhissecretarywill probablywanttotakenotesofallthatranspires. himself was true. SAYING NO
 
-A Storyteller whoknows that the night's actionwill feature a presentation will probably want to do a bit of planning in advance. In addition to reviewingthecharacteofthenewKindredsheshouldensure thattheprince, the sire and whichever other characters will have formal roles in the presentation are aware of their duties.The seneschal can usually be counted upon to is a good idea to double-check.The Storytellermay want to confer with the nsidefl
+The Kindred would represent a threat to the Masquerade in the city. The Kindred has a history of causing trouble. Inside Elusinm
+- The do main is already overcrowded. - the Kindred shows signs of supporting one of the prince's rivals. anundesirabledevelopmentindeed. ## JUSTICE with in the Camarilla, the Traditions are the fundamental laws of Kindred society.All the other rules, strictures, or dinances, etc. are merely interpretationsofandelaborationsonthosesixlaws.Naturally, each Kindred has adifferentinterpretationofthelimitationsthe Traditionsimpose.with in the Camarilla, onlycertainopinionstrulymatter, how ever.Mostvampiressee the princeandthejusticarsastheforcesofjusticetheprincesonthelocalevel and the justicars throughout the entire sect.While those twogroups are certainlthmostvisible, the eal situationsmoreomplicatedheshrifs, primogen, princes, archons, justicars and the Inner Circle each have a significant impact on the rules of undead existence. Evenamong thcivilizedvampiresof th Camarillajusticecaneift and harsh.Infact, draconian is aword that is of ten associated with Cainite justice.Though some Kindred scholars enjoy debating the exact or igins and reasonsbehindthis ferocity, ostmembersofth Camarillaacceptthatit stms from the ir ositionas secret predators.Sincevampiresaresopredatory, the ydo not acceptmany restrictions and laws.how ever, since the ir wariness of the powerof humankindcompelsthemtooperateinsecret, thosefewlawstheydo accept are vitaltothesurvivaloftheentirerace.the ycannotriskthebreaking of thoserulesandmust stop anywhowoulddosobywhatevermeansnecessary. ## the LOCALWORLDPRINCELYJUSTICE
 
-um tion within the domain.
+"The will of the city:The will of the prince.Behind the simple words of the old sayingliscomplxwebofpower, ebtandambition.Whileitstruthat the prince determines the shapeof justice with in her do main, the rearemany opportuitiessubvethatjsticefore, uringandafitachethre
 
-heritddgv ofwhatngnranxprncedantatinancanev samepurpose,butwithmore of a sink-or-swim ambiance.
-
-## GIVINGTHEPRINCE HERDUE
-
-The prince of thecity should have a significant say in the feel f a presentationafterall,the presentation isdirected atherinhercoutTh character of the prince will be manifest in both the general feel of the presentation and the specific details.Most princes prefer presentations to be publicaffairswith asmanyof their subjects aspossiblepresent.Othersprf to limit the attendees to only themost trusted (or powerful)Kindred in their domains.Someprinces employformal scripts that theyhaveusedforcenturies —andexpect all visitors toknow—while othersareremarkably informal.A suspiciousprince may ask questions about thegenealogy,motivation and history of thepresentee.A cautious prince may want to ensure that thenew Kindredhas anironcladunderstanding of theMasquerade as theprince sees it.AMalkavianprincemaywant toknowwhat dreams the character had yesterdayandwhichintnalrganethinksisthepretiest.fcourseany princes like to employ Majesty for this initial interview to"give the right impression.Inanyevent,theplayeroftheprincewillprobablywanttoensure thatshehasapresentationritualworthyofherdomainafterallthiswill probablygivethenewcomerhisfirst tasteofwhatunlifewillbelikeinthiscity.
-
-TheStorytellermaywanttoworkwiththeplayertocreatethisceremony, torein in any creative or formal excesses the player may introduce.For example, it isgenerallynot acceptablefortheprincetoforce all newcomersto drinkof herblood,andtherestof the troupedoesnotwant tosit throughan hour-longceremony thatmakes jury duty lookinteresting.
-
-Whiletheprincemaybethemostvisiblersonageawelldoneren tation shouldhint at thepolitics andpowersbehind the scenes.If the prince iselwaid forwhatwouldnormallybeher soleprerogativeSomeprinceswillinduce presentees to the primogen,the sheriff and other noteworthyKindred.Others will leave it up to the vampires inquestion.Some will lavish timeon the new cases,thcharactefthpinceandheromain houldbemanifestnallthat occurs,foreshadowingnights tocome.
-
-## PRESENTINGTHECHILDE
-
-Inessence,tpreentatonfchilisstraightforwardaffrh abovethrinceillrobablyhavconsiderableayinhformfthreet tinhainleha
-
-<!-- image -->
-
-The presentationusually begins when the seneschal informs the prince her discomfort.Altenately,the prince might spring the event on the sen eschal,lying thatheisnotdoing thjobeissuosed to.Oncethi has beenannounced,theresentationpropereginsomeprinces expect bethankedforhavinggivenermissionforthecreationofanewchildethrs want thewholebusiness overasquicklyaspossiblesotheycangetbacktomore importantmattersnanyevent,hesirenroduceshrchiletothepre, and,iftheprincesodesires,therestofthecourt.Some iresliketotakehis timetopress their ownagendasor tout theirvirtues orthoseof theirnew childe,while others merely call thenew Cainite up.
-
-AsanynewvampireisarisktoboththeMasquerade andthesafetyof the prince'sdomain,mostprincesliketotakethetimetoensurethatthenewCainite understands therulesof unlife among theCamarilla.Most princes will at least askforarecitationofthechilde'slineageandtheTraditions,othersmaygivethe childe animpromptu test on theetiquetteof unlife.The prince may want to prepareaspeechorsomesetofquestionsandtestsfortheoccasion,tohelp reinforcethenatureof hercourtand herrelationshipwiththesireand hernew childeAprincewhofavorsthesiremaypraseherandtrytoformthequestons mayaskbsudayneslinghatiouldtsilavetad thechildewlnughadlerealprblemhroughouttheprocedng nizeherconferring StatusTraitfAckowlededheprincemaygiva her ability tochoose deserving sires.
-
-<!-- image -->
-
-Whilea childe'spresentation should bea harrowingexperiencefor the character,thoultbearrwingrthayhallngingmaybe not harrowing.After all, the character is trying to prove herself worthy of immortality;the player isthere to havefun.Other players should besensitive to thisdistinction and thestorytellermightwanttohavesome distraction prepared if things look like they are getting too uncomfortable.
-
-Achilde'spresentationwill probablybeaharrowingexperiencefor the newvampiretutlaentheSixTraditionsand theMasqueradeShe should alsohavetoldthechildeabouttheclansandtheotherCanitesofthecityit special warnings about those who are working at cross-purposes to her.The sire's player or the Storytellermay even provide a cheat-sheet with this informationthattheplayer(notthecharacter)canreferencewhenall thenew faces,names andquestionsgettooconfusing.
-
-## PRESENTINGTHENEWCOMER
-
-The actual ritual of thepresentationisusually as straightforwardwitha strangerasit iwithachileandusuallhastheunqulftheprines the seneschal to see the prince.Oncehe has been shown in,thenewcomer theprinceacknowledgesthenewcome,and thenightgoesonwithneore predator added to themix.
-
-Most presentationsdonotinvolvethedebutof someone'schilde.Accord ing totheFifthTradition,theprinceexpects allKindredvisitinga cityto presentthemselves.As such,itisnotuncommonforaKindredfrom another citytoarriveintheprince'scourtandpresent himself.Suchpresentations have a totally different feelfrom those ofchilder.For one thing,the presentee usuallyhasnosire to tell himwhichKindred aretreacherous and onlyrumor andhearsay as guides to the city's politics.For another, the prince and the Kindred of thecitymayhavenoideaof whothis newCainiteis.Hecould be adableristnhrufmjsticabbatpytyingtprarhitf invasionanarchonwhohasheardsomedistubingrumorsaboutoneofth primogen—anything.Inthese last nights,aproper sense of paranoia cango a longwaytowardstavingoff theFinalDeath.
-
-First,inordetepresented,thenwcomermustmakehisway Elysiumost prudentindredleanthislocationbefretheysetouttow city.Thosewithouttheforesight(ortimeorresourcestoleanwhereElsium and say that thecharacterhasbeen intown that numberof nightsor shemay
-
-<!-- image -->
-
-Once reaching Elysium,he waits tobe introduced to the prince.nless lot before the prince admits him.
-
-Unlessthecourt can provefoul playorbring otherincriminatingevidence tolighttheprincewillprobablyrecognizethenewcomergranting hmth AcknowledgedStatusTrait.Someprinceswillgivethenewcomerinformationon
-
-Once the presentee has been announced,he presents himself to the necessaryandasingmnttanhitweveng hewilleedehapsevenmoreothanwithchileostprincewillwan to query the newcomer about their history.Unless she alreadyknows the vampireostprincewillatlastaskrthinedslneageandeasnr being in town.These questionscanbequiteserious and indepth.If theprince hasreasontosuspectfoulplay,suchasifthepresenteewasknowntohavebeen in town forawhile before presentinghimselfshemay ask the sheriffto continue the questioning while she attends to othermatters.The prince may also ask the otherKindred of the city if anyknow anything about the newcomer;harpies and Nosferatu are especially apt to have heard if the newcomerhasdoneanything spectacular.Ifnothingseems amiss,thesheriff will return with the newcomer and so inform the prince.Naturally,the seneschalorhissecretarywill probablywanttotakenotesofallthatranspires.
-
-himself was true.
-
-SAYING NO
-
-The Kindred would represent a threat to the Masquerade in the city.
-
-The Kindred has a history of causing trouble.
-
-InsideElusinm
-
-<!-- image -->
-
-- The domain is already overcrowded.
-- TheKindred shows signs of supporting one of the prince's rivals.
-
-anundesirabledevelopmentindeed.
-
-## JUSTICE
-
-Within the Camarilla,theTraditions are thefundamental laws of Kindred society.All the other rules, strictures, ordinances,etc. are merely interpretationsofandelaborationsonthosesixlaws.Naturally,eachKindred hasadifferentinterpretationofthelimitationstheTraditionsimpose.Within theCamarilla,onlycertainopinionstrulymatter,however.Mostvampiressee theprinceandthejusticarsastheforcesofjusticetheprincesonthelocalevel and the justicars throughout the entire sect.While those twogroups are certainlthmostvisible,theeal situationsmoreomplicatedheshrifs, primogen,princes, archons, justicars and the Inner Circle each have a significant impact on therules of undead existence.
-
-Evenamong thcivilizedvampiresof thCamarillajusticecaneift andharsh.Infact,draconian is aword that isoften associated with Cainite justice.Though someKindred scholars enjoy debating the exact origins and reasonsbehindthis ferocity,ostmembersofthCamarillaacceptthatit stms from their ositionas secret predators.Sincevampiresaresopredatory,theydo not acceptmany restrictions and laws.However,since their wariness of the powerof humankindcompelsthemtooperateinsecret,thosefewlawstheydo accept arevitaltothesurvivaloftheentirerace.Theycannotriskthebreaking of thoserulesandmust stop anywhowoulddosobywhatevermeansnecessary.
-
-## THELOCALWORLDPRINCELYJUSTICE
-
-"The will of the city:The will of the prince.Behind the simple words of the old sayingliscomplxwebofpower,ebtandambition.Whileitstruthat the prince determines the shapeof justice within her domain,therearemany opportuitiessubvethatjsticefore,uringandafitachethre
-
-The easiest way to prevent the prince from punishing a crime is to ensure that shtanislaManyrifsadsi Masquradareftenfataluchboonsareftenfhighaluorhisreasn ofthesherifftoensurethatedoesnotgaintoomuchpowerbehindthescene. having a thin-blooded Caitiffin debt.
-
-<!-- image -->
-
-ortcallonadvcatewesserllieteknthealflss issomeoteagendinvlvdtodff tCaarillaffrstypiclly holdsrewayhanthaflssillstousamistllaso of theCamarilla completely ignore the United States'FifthAmendment.
-
-If the primogendisagreewiththeprince'sverdictstronglyenoughtoconfront him,theymayatmpttorevesehisdecisionasdescribedinLawsof theNigh. 221.Storytellersmaywanttohandlethisby secretballotaskingeachprimogen privatelyforthenumberofStatusTraits sheiswilling todevote to thiscause.Once allofthTraitareallocatedhSorytellerrNarratrcompareshtotalwit prince's permanent StatusTraits and announces who is victorious.
-
-Oncethiceaeachederdicthmustonveytlongwithny sentence,to thecourt.Theprincemaymakethepronouncement herselfor shemay delegate thejobto anotherKindred or servant.If theverdictisguilty but theCainite nquestionisnotincustody,the princemayrequire thatthe Kindredof thecity provide any andall aidinbringinghimtojustice.Inthe event that the sentenceisdestruction,the princemay ordera blood hunt.
-
-## CRIMES...
-
-Most crimes are broken down according to the tradition they violate. of thesixthreakingfanyradinisrousfensehoughprc particularTraditionwasbroken,theyliketobeabletocitetheTraditionthat
+The easiest way to prevent the prince from punishing a crime is to ensure that shtanisla Manyrifsadsi Masquradareftenfataluchboonsareftenfhighaluorhisreasn of the sherifftoensurethatedoesnotgaintoomuchpowerbehindthescene. having a thin-blooded Caitiffin debt. or tcallonadvcatewesserllieteknthealflss is someoteagendinvlvdtodff t Caarillaffrstypiclly holdsrewayhanthaflssillstousamistllaso of the Camarilla completely ignore the United States'Fifth Amendment. If the primogendisagreewiththeprince'sverdictstronglyenoughtoconfront him, the ymayatmpttorevesehisdecisionasdescribedin Lawsof the Nigh. 221.Storytellersmaywanttohandlethisby secretballotaskingeachprimogen privatelyforthenumberof Status Traits sheiswilling todevote to this cause.Once all of th Traitareallocatedh Sorytellerr Narratrcompareshtotalwit prince's permanent Status Traits and announces who is victorious. Oncethiceaeachederdicthmustonveytlongwithny sentence, to the court.the princemaymakethepronouncement herselfor shemay delegate the jobto another Kindred or servant.If the verdictisguilty but the Cainite nquestionisnotincustody, the princemayrequire that the Kindredof the city provide any and all aidinbringinghimtojustice.Inthe event that the sentenceisdestruction, the princemay or dera blood hunt. ## CRIMES... Most crimes are broken do wn according to the tradition they violate. of the sixthreakingfanyradinisrousfensehoughprc particular Traditionwasbroken, the yliketobeabletocitethe Traditionthat
 
 ## The First Tradition: The Masquerade
 
-## TheSecond Tradition:Domain
+## the Second Tradition:do main have brought about the ir do wnfall by abusing this power. has designated throughout the city.ACainite who interferes with the sheriffs the Tradition of do main as easily as someone who invades the have n of another Kindred. ## The Third Tradition:Progeny
 
-have brought about their downfall by abusing this power.
+Inmostcasescrimesagainst the Third Traditionare fairly straightforward: Ifa Kindredassiredachildewithout the ermissionoftherinceheisilty. Some princes have taken this onestepfartherand declared that the creation of ghouls also falls under this Tradition;others claim that unauthorized ghouling is a breach of the Masquerade. This debate has kept advocates entertained for almost a century. ## the Fourth Tradition:Accounting the Traditionof the Accountingismostlyused topunish Kindredwho are unwise intheirchoice of childer.Usually the prince employs this tradition toinclude the sire of an of fendingchildein any punishmentsshemay devise. Some princes have also employed this tradition to entrap Cainites who manage towriggle out of chargesbased on the Third Tradition. ## the Fifth Tradition:Hospitality
 
-has designated throughout thecity.ACainite who interferes with the sheriffs the Tradition of Domain as easily as someone who invades the haven of anotherKindred.
+Inordertoproperly govern herdomain, the princeneeds tobe awareof the Kindredwithin.For this reason, most princes take the Traditionf Hospitality very seriously.Any Cainite newto the city who do es not present himselftothe prince asquicklyaspossibl, prfrablyon the night that arivesisinvilationofthis Traditinfhventuallydgnstcallun princeorisbroughtinbytheheriff, itiswithin the princesrightstocharge prince is never considered a valid defense. ## the Sixth Tradition:Destruction
 
-## The Third Tradition:Progeny
+The Sixth Tradition is the Camarilla's answer to the Fifth Commandment: applies to Kindred of the Camarilla who m the princehas acknowledged The princeuuallilltislaingfralubbatad Tradiveawclasestf
 
-Inmostcasescrimesagainst theThirdTraditionare fairly straightforward: IfaKindredassiredachildewithout theermissionoftherinceheisilty. Some princes have taken this onestepfartherand declared that the creation ofghouls also falls under this Tradition;others claim that unauthorized ghouling is a breach of the Masquerade. This debate has kept advocates entertained for almost a century.
+##..AND PUNISHMENTS e
 
-## TheFourthTradition:Accounting
+Belowis aselectionofpunishments indescendingorerf severityhere inventive in this respect. Death/torpor:the criminal is for ced into torpor, either through blood loss, injury or both. Final Death:the criminal is bheaded, bunt or otherwiseain sothat the re is no hope of return. Long-term staking:The criminal is staked through the heart and either hidden or placed on display. Exile:The criminal is driven from the city. Draining and exile:The criminal is almost completely drained of vitae and the n driven from the city. Blood bonding: The criminal is for ced to drink the blood of another Kindred of the court over three successive nights. Most commonly, the criminal is bloodbound totheprince, oneormoreof the primogen, or the victim of the crime. Enforced Servitude: The criminal is for ced to serve another Kindred, possibly even a ghoul. Draughtofblood:The criminal is for ced to drink the blood of another Kindredofthecourtonceortwicebringingthemclosertoablood bondor bringing the m into one if the yhave already drunk of that vampire's vitae. Torturehecriminalisforced toenduresomephysicalsychologicalr social torture. Loss of station:The criminal is removed from an of fice in the court and loses all asociated perks, perquisites and Status Traits. It is also worth not ing that the actual for m of the punishment can ary extensively.Onecrimemaymerit deathbysunlight while anothermay only
 
-TheTraditionof theAccountingismostlyused topunishKindredwho areunwise intheirchoice ofchilder.Usually the prince employs thistradition toinclude the sire of an offendingchildein any punishmentsshemay devise. Some princes have also employed this tradition to entrap Cainites who manage towriggle out of chargesbased on theThirdTradition.
+Loss of property:The criminal is deprived of some possession.This can include the destruction of a childe or a ghoul. ## CAMARILLA JUSTICE archons and conclaves (below) handle such events more fully. ## THE BLOOD HUNT the blood hunt— called the Lextalionisbyolder Cainitesis one of the the cover of the blood hunt to take careof other business aswell. ## the HUEANDCRY
 
-## TheFifth Tradition:Hospitality
-
-Inordertoproperly govern herdomain,theprinceneeds tobe awareof theKindredwithin.For thisreason,most princes take theTraditionf Hospitality very seriously.Any Cainite newto the city who does not present himselftothe prince asquicklyaspossibl,prfrablyon thenight that arivesisinvilationofthisTraditinfhventuallydgnstcallun princeorisbroughtinbytheheriff,itiswithin theprincesrightstocharge prince is never considered a valid defense.
-
-## TheSixth Tradition:Destruction
-
-The SixthTradition isthe Camarilla's answer to theFifthCommandment: applies toKindred of theCamarilla whom the princehas acknowledgedThe princeuuallilltislaingfralubbatad Tradiveawclasestf
-
-## ..AND PUNISHMENTS
-
-e
-
-Belowis aselectionofpunishments indescendingorerf severityhere inventive in this respect.
-
-Death/torpor:Thecriminal isforced intotorpor,either through blood loss, injury or both.
-
-FinalDeath:Thecriminal isbheaded,bunt orotherwiseain sothat there is no hope of return.
-
-Long-term staking:The criminal is staked through the heart and either hidden or placed on display.
-
-Exile:The criminal is driven from the city.
-
-Draining and exile:The criminal is almost completely drained of vitae and then driven from the city.
-
-Blood bonding: The criminal is forced to drink the blood of another Kindred of the court over three successive nights. Most commonly, the criminal isbloodbound totheprince,oneormoreof theprimogen,orthe victim of thecrime.
-
-Enforced Servitude: The criminal is forced to serve anotherKindred, possibly even a ghoul.
-
-Draughtofblood:The criminal is forced to drink theblood of another Kindredofthecourtonceortwicebringingthemclosertoablood bondor bringing them into one if theyhave already drunk of that vampire's vitae.
-
-Torturehecriminalisforced toenduresomephysicalsychologicalr social torture.
-
-Loss of station:The criminal isremoved from an office in the court and loses all asociated perks, perquisites and StatusTraits.
-
-It is also worth noting that the actual form of the punishment can ary extensively.Onecrimemaymerit deathbysunlight while anothermay only
-
-Loss of property:The criminal is deprived of some possession.This can include the destruction of a childe or a ghoul.
-
-## CAMARILLA JUSTICE
-
-<!-- image -->
-
-archons and conclaves (below) handle such events more fully.
-
-## THE BLOOD HUNT
-
-Theblood hunt— called theLextalionisbyolderCainitesis one ofthe the cover of theblood hunt to take careof other business aswell.
-
-## THEHUEANDCRY
-
-The speedwithwhichtheLextalionis isprosecutedoftendepends on the popular sentimentbehind theprince'sedict.Ifthe primogen orotherKindred see thebloodhuntasmerelythepersecutionofoneoftheprincesrivalsthey arefar less likely topursueitas avidly asif theybelieved that the subjectwas a threat to their own unlives or the author of some truly heinous crime.In general,Kindredwill not look too askance at a prince who calls abloodhunt for a Kindred who has brought other Kindred toFinal Death or committed diablerriuslyandtMaquradconpredwitaba in other ways presented a threat to theKindred of the city.Cainites are less prince's political career and start to get paranoid when the prince begins also start looking toward thereplacement of such an extreme ruler.
-
-Aprincemaydeclareabloodhunt ifsomeKindredwithinherdomainhas evadedmore conventional justice and the crime is grave enough.Shemay command thepresenceof all Kindred in her domain andmake a public proclamation,statingthenameandcrimesof thesubject,orshemayssu edictto the sheriff and the primogenwith theexpectation that they pass it alongtothoseundertheirsway.Fromtimetotime,otherKindredmaypresume toinvoketheLextalionis,sometimesintheprincesname,sometimesintheir own.This act is considered a breach of the Second Tradition.Both the instigatorof thehunt andanywhoparticipate initcanexpect tofeel the prince'swrath.Evenif thehuntwasntheprincesbestinterestsmany princes feel personally affronted that anywould pretend toher powers.
-
-Anothefactorthatshapesabloodhuntisthurgencybehindit.Inmanycases isinhisremoval fromerdomainUedinthisfashin,lood huntcansrvas establishssmesrtfwardfothindedwderysthcrinlaing of the sherif (wh should havebrought in thecriminal inthefist place)san
-
-Therearecertainrule that applytoblod hunts, andalKindredwithin te
+The speedwithwhichthe Lextalionis is prosecutedoftendepends on the popular sentimentbehind the prince'sedict.Ifthe primogen or other Kindred see the bloodhuntasmerelythepersecutionofoneoftheprincesrivalsthey are far less likely topursueitas avidly asif the ybelieved that the subjectwas a threat to the ir own unlives or the author of some truly heinous crime.In general, Kindredwill not look too askance at a prince who calls abloodhunt for a Kindred who has brought other Kindred to Final Death or committed diablerriuslyandt Maquradconpredwitaba in other ways presented a threat to the Kindred of the city.Cainites are less prince's political career and start to get paranoid when the prince begins also start looking toward the replacement of such an extreme ruler. Aprincemaydeclareabloodhunt ifsome Kindredwithinherdomainhas evadedmore conventional justice and the crime is grave enough.Shemay command the presenceof all Kindred in her do main and make a public proclamation, statingthenameandcrimesof the subject, or shemayssu edictto the sheriff and the primogenwith the expectation that they pass it alongtothoseundertheirsway.from timetotime, other Kindredmaypresume toinvokethe Lextalionis, sometimesintheprincesname, sometimesintheir own.This act is considered a breach of the Second Tradition.Both the instigatorof the hunt and anywhoparticipate initcanexpect tofeel the prince'swrath.Evenif the huntwasntheprincesbestinterestsmany princes feel personally affronted that anywould pretend toher powers. Anothefactorthatshapesabloodhuntisthurgencybehindit.Inmanycases is inhisremoval from erdomain Uedinthisfashin, lood huntcansrvas establishssmesrtfwardfothindedwderysthcrinlaing of the sherif (wh should have brought in the criminal inthefist place)san the rearecertainrule that applytoblod hunts, and al Kindredwithin te
 
 ## CUTTINGTOTHE CHASE
 
-Another area that may require special attention is the use of InfluenceTraits.Thevolatile situationmay force players to use Influence indesperateways they have not needed before.As arule of thumb, ifa player can justifyitconvincingly，aNarratormaylethimaffectan area in which she doesnothave Influence by allocating onemore trait than would be spent by someone who did have influence inthat area. If theNarrator isnot convinced,she may askthatmore influencebe spent or simply disallow the result entirely.
+Another are a that may require special attention is the use of Influence Traits.the volatile situationmay for ce players to use Influence indesperateways they have not needed before.As arule of thumb, ifa player can justifyitconvincingly，a Narratormaylethimaffectan are a in which she do esnothave Influence by all ocating onemore trait than would be spent by someone who did have influence inthat are a. If the Narrator is not convinced, she may askthatmore influencebe spent or simply disallow the result entirely. Storytellinga blood hunt can beincredibly complicated for itwill likely involveall players at the ir craftiest and most activetorytelles with the others through a designated Narrator tokeep the hunters and the prey from being influenced by each other's plans. Example of play:Kascha has Underworld x4 Influence, which she hopes tousetoprevent Ko-Kofromescapingonaboat from pier44.Since the Narratorfeelsthatitwouldonlytake Transportationx2tostoptheboathe rules that Kascha needs tospend3ofher Underworldinfluenceto get the Rugsuckers to put the muscleonpier 44.1f Kascha had had Church x4 Influence instead, shewould have been ou of luck because the re is no reasonableway for the local parishioners toaffect Ko-Ko'sboat. In cases where two Kindredare attempting touse Influence on the sameinstittionhearratormayrsolethepowerstrugglewi used by another. This can also apply to situationswherea Kindredhas the right sort of lnfluencebut nthewrong locationorinstitution.ANarratormay all ow a character who se Underworld Influence is tied to the East End stretgangstoget the m tocall in some favorsand grant him useof the talents of the Russian Mafia for the nightat the price of oneormore extra Influence Traits. anotherprincedomain Takingthe Lextalionisbeyondcitylimitsasdefinedby princesusethebloodhuntasformof pemanent exile the ydonot actuallywish Sabbat packsorthequarry's confederates as the ystrayfrom the irhometurfhe fourthruleis that the hunt stopsonlywiththedestructionof the quarry.Evenifth princewhcalld thhunt divenf latervidenceexoneratesthequarryn if the quarryescapesto anothercityorcontinent, the quarry'sname staysinthe annals of the city and the hunt continues. Inadditiontothestandardrulestheprincemayestablishrulesofherow, eitherfor all blood hunts with in her do main or onacase-by-casebasis.Aprince may declare that diablerieisunequivocallyforbiddenorthatonly Tremereare all owed to carry outthehunt with in a three-blockradius of the ir chantry.If shefearsthequarryofbeingadiabolist, shemayinsistthatthe Tremeretake anactiverole.the seaddendaareentirelytheprerogativeoftheprincebut is the duty of all Kindredwithin the city tobe aware of the m. The blood hunt endswhen the quarry has been dispatched-met his Final Death.the victorreturnswithwhateverprooftheprincehas demanded and claims anyprizetheprincemayofferfthequarryescapes, the huntit considered completed.Still, should the prey escape the city—or fool the remaining Cainites into believing that he did-the bloodhunt is effectively over until he shows his face again.Despite the hunt being finished for all practicaluosesistchnicallytillaciveuntilprooffthugitiveeat is broughtbacktotheprince-evenif it is adifferentprincefromtheonewho or dered the hunt in the firstplace. ## the HUNTERS... Others see the hunt as a license to practice the ir skills and a chance to experience the thrill of hunting the most dangerous of prey.Stillothers are lookingorawaytoadvancethemselvesbydemonstratingtheirabilityand the blood huntisjust another the atre for grandstanding of course some provided by the blood hunt to cover other, shadier activities. ## amarilla
 
-Storytellinga blood hunt canbeincredibly complicated foritwill likely involveall players at their craftiest andmost activetorytelles with the others through a designated Narrator tokeep thehunters and the prey from being influenced by each other's plans.
+Cainites who have the resources and Influence Traitsmay use the se to aid egativeffectonthuniveritywillinetofllwhadviceevethles, suhinfaonatlarlfathihtlaath timeandofenthat is what unting llaboutteror Ines counteracting anyinfluencethepreymayhavetisnotuncommonforahunted vampiretousethemortalsunderhisswaytocreatediversionorroubleforthose who are nowtormentinghim.While protectingagainst this maynotbe the most gloriouslnhutelfwtlda through the street lookingfor some patheticfool of a neonate. Not all of the so-called hunterswill be after the prey namedby the prince. Blood hunts are dangerous events and all sorts of mistakescan happen.It is not unheardof for Kindred totake advantageof the chaosto takecareofbusiness that would betooriskyatothertimes.Afterallifoneof the otherhuntersgoes missingwhoistosaythatthehunteddidnotmanagetoturnthetablesatsome point in the chase？Other, less deadly tricks include ransacking another Cainitesturfrhavenundertheguiseofsearchingforthequarry, strkingat a rival's herd and planting evidence or bugs for use at a later date. Finally, the ewillbthe Knedwarewillingtogoagainstheprine
 
-Example ofplay:Kascha has Underworld x4 Influence,which she hopes tousetopreventKo-Kofromescapingonaboat frompier44.Since the NarratorfeelsthatitwouldonlytakeTransportationx2tostoptheboathe rules thatKascha needs tospend3ofherUnderworldinfluenceto get the Rugsuckers to put themuscleonpier 44.1fKascha had had Church x4 Influence instead,shewould have been ou ofluck because there isno reasonableway for thelocal parishioners toaffectKo-Ko'sboat.
+Someof the city's Kindredmaydecidenot to takeanactiveroleintheblood nightlyuieiblyingquarywaftyuant paths.nthosecaseswheretheprincehasordered the participationofalllocal riskofeingladascollaraingwithtquarydthusngrustn an even more active role in the next blood hunt. Inside Elgsium especiallysubtleandcarefulforbeingcaughtcanprovequitefatal. ##.and the HUNTED
 
-In cases wheretwoKindredare attempting touseInfluence on the sameinstittionhearratormayrsolethepowerstrugglewi used by another.
+Brujahiffgailcwi and description.What can hedo? Unlesstresscdla, is ionsuallyahef, distractigacklngmlyhainlinca on anntircitysengisthmstiklylng-tmgoal Manycau Cainitesetustashesflotheoneyandweaponsnndaroundthit emergenisuhsthfthiediswillingmightablgrabta and takethefirstbusto Kansas Citybeforeastrikeclosesthebusstationdown. Sometimes the quarryhasa coupleof lastchores to takecareoforhis primaryescaperouteislocked Inthosecasesemaytytothrowhispursur of f his tail by creating distractions.Prey with Influence Traits can usually wreakenough havoctoforcesome of the other Kindredtodevotetheirefforts todamagecontrol.Mdia Police, Street, ransortationan Underworld Inf ence can be especiallyhelpful to the creative and desperatefugitive.Quarries of tenintentionallybreachthe Masqueradentheirescapeeffort;afterall, the i pursuers are not all owed todo so and might evenfeel compelled to stop and patch things up.This can make things badfor the fugitive further do wn the road, though. Should he escape the blood hunt in his home city, he will probably want tosettledown somewhere else.Whilea nearby princemaybe will ingabrhugitiveustanygborulklh will wanttoletsomeonewhoblatantlybrokethe Masquerade into herdomain. Finally, the comes atimewhenthepreymust standandfightlv quarriesarelikelytotrytopickthetimeandplaceforthis stand, eitherbecause he is intimatelyfamiliar with the terrain, or becausehehastaken the timet booby-trapit.Fleeing Gangreaveftenoticedthat pursuit slowsdowafr abetterchanceifhecanspreadhispursuers apartandattackthemonebyone
 
-This canalso apply to situationswherea Kindredhas theright sort of lnfluencebut nthewrong locationorinstitution.ANarratormay allow a character whoseUnderworld Influence is tied to theEast End stretgangstoget them tocall in some favorsand grant him useof the talents of theRussianMafia forthe nightat theprice of oneormore extra Influence Traits.
+## the QUARRYRETURNS the sheriff or the prince becomes aware of his return. ## CLIMAX or ANTICLIMAX
 
-anotherprincedomainTakingtheLextalionisbeyondcitylimitsasdefinedby princesusethebloodhuntasformof pemanent exileTheydonot actuallywish Sabbat packsorthequarry's confederates as theystrayfrom theirhometurfhe fourthruleis thatthehunt stopsonlywiththedestructionof thequarry.Evenifth princewhcalld thhunt divenf latervidenceexoneratesthequarryn if thequarryescapesto anothercityorcontinent,thequarry'sname staysinthe annals of the city and the hunt continues.
+Finallhyillaudntydillw for letting the preyescape, and anotherbogeyman will enter the city'shistory. ## ARCHONS
 
-Inadditiontothestandardrulestheprincemayestablishrulesofherow, eitherfor allblood hunts within her domain oronacase-by-casebasis.Aprince may declare that diablerieisunequivocallyforbiddenorthatonlyTremereare allowed to carry outthehunt within a three-blockradius of their chantry.If shefearsthequarryofbeingadiabolist,shemayinsistthattheTremeretake anactiverole.Theseaddendaareentirelytheprerogativeoftheprincebut is the duty ofall Kindredwithin the city tobe aware of them.
+Archonsaretheyesandearsof the justicars, and assuchrepresentthefirst lineof Camarillajusticeabovethelevelof the prince Sinceprincescangobad sincetraitorscanmovefromonecitytoanother, sincesomeproblems are hard tonotice unless you can take in the bigpicture, the Camarilla appoints six justicarsnefromeachclan, oserveassect-widetoubleshootersndsince six justicarscannotpossiblycoverallthetroublethereisto shoot, the yemploy archons.when evera justicarhears arumor or getsamessage about something toublingnacertainregionhesendsoneormoreofhisarchonstoinvestigate. Ifthearchonfindsthatthereistrouble, but not hingserious, hegivestheprince or sheriffsome adviceonhowtohandle the situation and awarning that it had betterbecleanedupwhenereturns.Ifhendsseroustroublehetakescarf itfhecanovidaoodeasnnarchonsxemromthixtradiin Heis all wedtillwiuitneallyousulln hislftacalbl jdicialconlavefnarchnndoubljusteookingisl trouble justmeans that the problem is well-hidden. Justicars may call upon archons to investigate rumors of collusion with anarchabbatronratdwidesread flf t Maq problemsthatlocalprinceseithercannotorwillnotbehandle Whilearchons arxtdallctltnn sium hefeelswouldbemoreproductivemostaveaprerredmodusoperandin thoserareoccasionswhnarchonstravelinteamstiscommonfronearchon to take on the role of public distraction while the other investigates covertly. Regardlssfwhichmthodtharchonnends tmloy, the firstthin usually do es is research.He learns as much as he can about the city and its inhabitantsfromanytrustworthysourcessourceswhoseinformationhasusually beenaccuratinthepast and who can bereliedonnottoletthesubjectsinquston knowthat the yhavebeeninquiredabout.This information is importantforseveral reasons:Itayprovidevitallesinandofitself;itgivesthearchonandeaofwhat toexpectsohecanrecognizeanomalousbehavior, and it giveshimanideaofwhat lies he should employ to make his investigation fruitful. - An archon receives the following two additional Status Traits: Empowered and Feared. The character can never lose the se Traits permanently while remaining an archon. - when operatinginanofficialcapacityanarchonmayremove a permanent Status Trait from any Kindred attempting to hinder his investigationorthe sentencehehas pronounced this removal costs the archon not hing, and only a justicar can reverse it. - when operating in anofficial capacityan archon can detain, interrogate or destroy any Kindred, though he will need to present evidence to his justicar to justify his actions. ## MOLES
 
-The blood hunt endswhen the quarry has been dispatched-met his FinalDeath.Thevictorreturnswithwhateverprooftheprincehas demanded andclaims anyprizetheprincemayofferfthequarryescapes,thehuntit considered completed.Still, should the prey escape the city—or fool the remainingCainites into believing thathe did-the bloodhunt iseffectively over until he shows his face again.Despite the hunt being finished for all practicaluosesistchnicallytillaciveuntilprooffthugitiveeat isbroughtbacktotheprince-evenif it isadifferentprincefromtheonewho ordered the hunt in thefirstplace.
+In most cases, when an archon is instructed to investigate a situatin, he enterstheityquietlyitheravoidingthcruinyofthrinceandcou or presenting himself as some other Kindred in town on some other business. The justicars, who knowthatthereisnothinglikethearrivalofaninvestigator tomake vidence takeflight, inevitably sanction this defiance of the Fifth Traditin Usuallyachonsadoptadisuiseofmesor sothydontnee spread about the new Caitiff beating up the scourge. Archons of ten present the mselves as businessmen, Noddist scholars, arousingmore suspicion than necesary.they of ten ask innocuous questions onawievarityfubjetsotocusingonthemattertheyarenvestgaing locals feel they have not hing toworry about. amn
 
-## THEHUNTERS...
-
-Others see the hunt as a license to practice their skills anda chance to experience the thrill ofhunting themost dangerous of prey.Stillothers are lookingorawaytoadvancethemselvesbydemonstratingtheirabilityand the blood huntisjust another theatre forgrandstandingOfcourse some provided by the blood hunt to cover other, shadier activities.
-
-## amarilla
-
-Cainites whohave the resources and Influence Traitsmay use these to aid egativeffectonthuniveritywillinetofllwhadviceevethles, suhinfaonatlarlfathihtlaath timeandofenthat iswhatunting llaboutterorInes counteracting anyinfluencethepreymayhavetisnotuncommonforahunted vampiretousethemortalsunderhisswaytocreatediversionorroubleforthose who are nowtormentinghim.While protectingagainst thismaynotbe themost gloriouslnhutelfwtlda through the street lookingfor some patheticfool of a neonate.
-
-Not all of the so-called hunterswill be after theprey namedby theprince. Blood hunts aredangerous events andall sorts ofmistakescan happen.It isnot unheardof forKindred totake advantageof thechaosto takecareofbusiness thatwouldbetooriskyatothertimes.Afterallifoneof theotherhuntersgoes missingwhoistosaythatthehunteddidnotmanagetoturnthetablesatsome point in the chase？Other,less deadly tricks include ransacking another Cainitesturfrhavenundertheguiseofsearchingforthequarry,strkingat a rival's herd and planting evidence or bugs foruse at a later date.
-
-Finally,theewillbtheKnedwarewillingtogoagainstheprine
-
-Someof thecity'sKindredmaydecidenot to takeanactiveroleintheblood nightlyuieiblyingquarywaftyuant paths.nthosecaseswheretheprincehasordered the participationofalllocal riskofeingladascollaraingwithtquarydthusngrustn an even more active role in the next blood hunt.
-
-InsideElgsium
-
-<!-- image -->
-
-especiallysubtleandcarefulforbeingcaughtcanprovequitefatal.
-
-## .ANDTHEHUNTED
-
-Brujahiffgailcwi and description.What canhedo?
-
-Unlesstresscdla,isionsuallyahef, distractigacklngmlyhainlinca on anntircitysengisthmstiklylng-tmgoalManycau Cainitesetustashesflotheoneyandweaponsnndaroundthit emergenisuhsthfthiediswillingmightablgrabta and takethefirstbustoKansasCitybeforeastrikeclosesthebusstationdown.
-
-Sometimes thequarryhasa coupleof lastchores to takecareoforhis primaryescaperouteislockedInthosecasesemaytytothrowhispursur off his tail by creating distractions.Prey with Influence Traits can usually wreakenough havoctoforcesome of theotherKindredtodevotetheirefforts todamagecontrol.MdiaPolice,Street,ransortationanUnderworldInf ence canbe especiallyhelpful to thecreative anddesperatefugitive.Quarries oftenintentionallybreachtheMasqueradentheirescapeeffort;afterall,thei pursuers arenot allowed todo so andmight evenfeel compelled to stop and patch things up.This can make things badfor the fugitive further down the road, though. Should he escape the blood hunt in his home city,he will probably want tosettledown somewhere else.Whilea nearby princemaybe willingabrhugitiveustanygborulklh will wanttoletsomeonewhoblatantlybroketheMasquerade intoherdomain.
-
-Finally,thecomes atimewhenthepreymust standandfightlv quarriesarelikelytotrytopickthetimeandplaceforthis stand,eitherbecause he is intimatelyfamiliar withtheterrain,orbecausehehastaken thetimet booby-trapit.FleeingGangreaveftenoticedthat pursuit slowsdowafr abetterchanceifhecanspreadhispursuers apartandattackthemonebyone
-
-## THEQUARRYRETURNS
-
-the sheriff or the prince becomes aware of his return.
-
-## CLIMAX ORANTICLIMAX
-
-Finallhyillaudntydillw for letting the preyescape, and anotherbogeyman willenter thecity'shistory.
-
-## ARCHONS
-
-Archonsaretheyesandearsof thejusticars,andassuchrepresentthefirst lineofCamarillajusticeabovethelevelof theprinceSinceprincescangobad sincetraitorscanmovefromonecitytoanother,sincesomeproblems arehard tonotice unless you can take in the bigpicture,the Camarilla appoints six justicarsnefromeachclan,oserveassect-widetoubleshootersndsince six justicarscannotpossiblycoverallthetroublethereisto shoot,theyemploy archons.Whenevera justicarhears arumor or getsamessage about something toublingnacertainregionhesendsoneormoreofhisarchonstoinvestigate. Ifthearchonfindsthatthereistrouble,butnothingserious,hegivestheprince or sheriffsome adviceonhowtohandle thesituation andawarning thatit had betterbecleanedupwhenereturns.Ifhendsseroustroublehetakescarf itfhecanovidaoodeasnnarchonsxemromthixtradiin Heis allwedtillwiuitneallyousulln hislftacalbl jdicialconlavefnarchnndoubljusteookingisl trouble justmeans that the problem is well-hidden.
-
-Justicars may call upon archons to investigate rumors of collusion with anarchabbatronratdwidesread flf tMaq problemsthatlocalprinceseithercannotorwillnotbehandleWhilearchons arxtdallctltnn sium
-
-hefeelswouldbemoreproductivemostaveaprerredmodusoperandin thoserareoccasionswhnarchonstravelinteamstiscommonfronearchon to take on the role of public distraction while the other investigates covertly.
-
-Regardlssfwhichmthodtharchonnends tmloy,thefirstthin usually does is research.He learns as much as he can about the city and its inhabitantsfromanytrustworthysourcessourceswhoseinformationhasusually beenaccuratinthepast andwhocanbereliedonnottoletthesubjectsinquston knowthat theyhavebeeninquiredabout.This information is importantforseveral reasons:Itayprovidevitallesinandofitself;itgivesthearchonandeaofwhat toexpectsohecanrecognizeanomalousbehavior,andit giveshimanideaofwhat lies he should employ to make his investigation fruitful.
-
-- An archon receives thefollowing two additional StatusTraits: Empowered and Feared. The character can never lose these Traits permanently while remaining an archon.
-- Whenoperatinginanofficialcapacityanarchonmayremove a permanent Status Trait from anyKindred attempting to hinder his investigationorthe sentencehehas pronouncedThisremoval costs the archon nothing,and only a justicar can reverse it.
-- Whenoperating in anofficial capacityan archon candetain, interrogate or destroy anyKindred,though he will need to present evidence to his justicar to justify his actions.
-
-## MOLES
-
-In most cases, when an archon is instructed to investigate a situatin,he enterstheityquietlyitheravoidingthcruinyofthrinceandcou or presenting himself as some other Kindred in town on some other business. The justicars,whoknowthatthereisnothinglikethearrivalofaninvestigator tomake vidence takeflight,inevitably sanction this defiance of theFifth TraditinUsuallyachonsadoptadisuiseofmesor sothydontnee spread about the new Caitiff beating up the scourge.
-
-Archons often present themselves as businessmen,Noddist scholars, arousingmore suspicion thannecesary.They often ask innocuous questions onawievarityfubjetsotocusingonthemattertheyarenvestgaing locals feel they have nothing toworry about.
-
-amn
-
-Atthe sametimethatthearchonsinterviewing thelocalKindredany
+Atthe sametimethatthearchonsinterviewing the local Kindredany
 
 ## SHOWMEN
 
-Othertimes,archons announce theirarrivalwithanimperiousairandalist of commandmentsthat sendseveryCainitewithinaten-mile radiusscurrying to complylfanaqun,thlswcn the threat islikelytomake amistake under pressureorwhentime constraints preclude an in-depth investigation. One of the more popular twists on this technique isforthearchontoappear tobe hunting foronecriminal when heis really after another.Another trick isfor the archontocreateastir and set his subordinatesto snare anyone attempting toflee.The third andmost common variation istofirst completea covertinvestigationindisguise and thenmakea grandentrance,displayinganuncannyunderstandingoftheinhabitantsofacity that hehas presumably never visited before.In this scenario,the archonmay eithersethissubordinatestoactingasassistantnterrogatorsstickingtheirose into any andallKindred affairs,adding to the pressure;orhemay set them to quietly watching his suspects,waiting for anyfalsemove.In therare circumstances where he has enough deputies,hemayuse them bothways.
+Othertimes, archons announce the irarrivalwithanimperiousairandalist of commandmentsthat sendsevery Cainitewithinaten-mile radiusscurrying to complylfanaqun, thlswcn the threat is likelytomake amistake under pressureorwhentime constraints preclude an in-depth investigation. One of the more popular twists on this technique is for the archontoappear tobe hunting for onecriminal when heis really after another.Another trick is for the archontocreateastir and set his subordinatesto snare anyone attempting toflee.The third and most common variation is tofirst completea covertinvestigationindisguise and the nmakea grandentrance, displayinganuncannyunderstandingoftheinhabitantsofacity that hehas presumably never visited before.In this scenario, the archonmay eithersethissubordinatestoactingasassistantnterrogatorsstickingtheirose into any and all Kindred affairs, adding to the pressure;or hemay set the m to quietly watching his suspects, waiting for anyfalsemove.In the rare circumstances where he has enough deputies, hemayuse the m bothways. ##...and JUSTICARS
 
-## ...ANDJUSTICARS
+## the RED LIST the reare six justicarswithinthe Camarillaoneforeachclanacharchon reportstooneof the sejusticars, and while archons are impressiveintheirown right, the abilitiesof the six that the Inner Circleselects topolice the sect are do wnrighterfying Detailsandofficial Vamir The Masquraestatfore current justicarscan befound in Childrenof the Night, but the Storytelleris encouragedmodify or evenre-write the secharacters to suit her ownchronicle. to use should the yfeel the need tovisit the story'scity.And they will feel it is important tovisit if one of the ir archons experiences foul play in the re. Overtheyearsandacrossthworldertan Cainiteshavemanagedthrough are kwllctivelyandndividuallyanaaandnall a chance against even the lowliest Anathema. ## ALASTORS
 
-## THERED LIST
+Camarilla, the alastors are littlemore than arumor.the nlyothe Kind enlisted as alastors are those rare vampireswho manage to destroy an Anathema on the ir own;any character who do es so is immediately recruited. of perks, including the severance of blood bonds, training n rare Disciplines and lavish amounts of money and other resources.Each alastor receives different bonuses tocompensate for agreeing to aneternal unlife hunting the most dangerous creatures known to the Camarilla.with in the rarifiedranks of the alastorsisanothermoreelitegroupcalledtheedlastorscomosed of those who have managed to destroy one of the five highest-ranked Anathema.Red Alastors are rumored topossess evengreater authority and power than regular alastors. - A characterrecruited to the ranks of the alastorsreceives the following two additional Status Traits:Sanctioned and Feared.Short of being declared Anathema herself, the character can never lose the se Traits permanently. - An alastor may remove a permanent Status Trait from any Kindred attemptingtohinder hermission.This removal costs the alastor not hing. - lower than a conclave. ## The Trophy the Caallapgreatwadnthewdeytst Markofthe Beast, th Tophyisatatoofinkandbloodthatisthaumaturgically applied to the rigt palm.nce aplied, the Trophy stays with the vamr archons and other Kindredin the knowrecognize itforwhatit is. e be destroyed post has te. ANATHEMA of the storythtorytellrhouldnotallwalayertcontrolfonefth hunted pariahs. Each Anathema is a different being with unique motivations.The only supreme threats.Storytellers should craft Anathema to suit the the mes and logisticsoftheirstories.Ifthestoryrevolvesaroundintrigue, the Anathema can add a newcomplication to the table.If the story focuses on the struggle against the Beast, the Anathemacanrepresent the ultimatemanifestationf the Beastrunrampant.Ifthestorycenters around fateandself-determination, the Anathema could have been madewhatit is through for ces beyond its control—or entirely of its own volition.Anathema are larger than unlife creaturesthatcanbeusedtoencapsulatetheworst, and possiblyeventhebest, of what it is tobe Kindred. An Anathema do esnot even need tomake aphysical appearance in acity tohave his power felt.Mererumor of the presence of one can sendmost Camarillaindred into paranoid cowardiceor gloryhounding avarice, and the Trophy can be an attractive reward to those who know about it.Some charactersmayfeelsympathyfor an Anathema(especiallyif the Storyteller created the Anathema for just that purpose) and even try to aid it.This is a dangerouspath, or the Anathemaareunderstandablycautious and raely gentleevenwiththeiewallies.venfthecharacter survivesthevisitof h emaaredeadlytocharactersand dangeroustoplot linesbutwhat is the fun
 
-Thereare six justicarswithintheCamarillaoneforeachclanacharchon reportstooneof thesejusticars,andwhile archons areimpressiveintheirown right,the abilitiesof the six thattheInner Circleselects topolice the sect are downrighterfyingDetailsandofficialVamirTheMasquraestatfore current justicarscan befound in Childrenof theNight,but theStorytelleris encouragedmodify orevenre-write thesecharacters to suit her ownchronicle. to use should theyfeel theneed tovisit the story'scity.And they willfeel it is important tovisit if one of their archons experiences foul play in there.
+The tales and rumorsof the Anathemaattribute such powerto only be used against Kindred who know what they are dealing with. ## CONCLAVES conclaveisarare and momentousevent. ## SETTINGUp
 
-OvertheyearsandacrossthworldertanCainiteshavemanagedthrough arekwllctivelyandndividuallyanaaandnall
+Eventhesmallerconclaves are difficultevents that strainthe abilitiesf the Kindredhostingthem.Evenbeforewordhasgoneout about the conclave, the hosting prince and her staff have begun the complicated and delicate processofrparation, and for weeksafter, the ymaybeforcedtocleanuh detritusleftbehind. the remustbe somematterofvital importance tothe Camarilla as a who le, or atleastalargesegmentofit, tojustifythetroubleandexpenseof hosting a conclave.Justicars have called conclaves to deal with renegade princes, todiscuss Camarilla policytoward the Internet, topreventinter-clan strife and to debate how to contain the Anarch Free States. Only justicarsareallowedtocallaconclave.Onrareoccasions, aprince who serputationiswellespectedbythe Inner Circlmayetawaywithitb it is usually saferfor her toconvince an archon that a situationmerits this sort of attention and hopeheconvinceshis superior.Mostjusticars feel that princes are tooparochialin the ir outlook, more interested in the welfare of the ir do mains than the Camarillaasa who le.Justicars are alsounhappyabout others encroaching ontheir authority. Once ajusticar has determined that the re is amatterof suficient gravity towarrantaconclaveemustchoosethelocation.Mostjusticarspreferciie away from the epicenter of the problem so the attendees are safe from its immediatffects Justicarsmayaselectthesitebasedonthecaabilit of nearby princes.Since hosting a conclave successfully brings no small of the irownclan. to sweepingwhatever problems are vexing her under the rug. archon and all its privileges. It is impossibleokeepallthesepreparations secret, thoughall rincesat leastmaketheffort.with inafewnigts, the Nosferatuandany Kindredwo frequent Elysiumwillcertainlyrealizethat something is happening Though disseminatingrumors and information about such proceedings is for bidden bothforreasonsofsecurityandpropriety, itusuallytakeslessthanaweekfor all the Kindred of the city to figure out that a conclave is coming. The information can even spread to other cities. Amongthemanymatterstheprinceand herstaffmustcontendwithare the m during the upcoming event. Most justicars announce the date and location of the conclave approximatelyamonthinadvance.Smallerconclavesmaybeheldwithlessnotice, but it's politetogivetheinvitees enoughtimetoget the ir affairs inorderbeforethey are asked to travel onbusiness.Inmostcases, this announcement takes placen the court of the hosting prince and travels through the Camarilla byword of mouth.all Camarillawhohearof the conclaveare invited toattendbutmost only showif the conclave concerns somematterof interest to the m.this means that the primogenof Lisbonwillprobablynotfeel the needtoattendaconclave dealingwitharashofinfenalismn Detroit, thougharemerecholaw nvestigatedasmilareventinthe18thcenturymayfeelcompelledtomakethe tip.Incertaincaesaaenpendentisallowedinaswlbutshewille carefullymonitored.the Sabbat are more likelytobetopics of conclavesthan participantsit sdiffcult tomagineasituationwheretheywouldbeinvitd
 
-<!-- image -->
+Inside Elnsi
 
-<!-- image -->
-
-a chance against even thelowliestAnathema.
-
-## ALASTORS
-
-Camarilla,thealastors are littlemore thanarumor.ThenlyotheKind enlisted as alastors are those rare vampireswho manage to destroy an Anathema on their own;any character who does so is immediately recruited.
-
-of perks,including the severance of blood bonds, training n rareDisciplines and lavish amounts of money and other resources.Each alastor receives different bonuses tocompensate for agreeing to aneternal unlife hunting the most dangerous creatures known to the Camarilla.Within therarifiedranks ofthealastorsisanothermoreelitegroupcalledtheedlastorscomosed of those who have managed to destroy one of the five highest-ranked Anathema.RedAlastors arerumored topossess evengreater authority and power thanregular alastors.
-
-- A characterrecruited to the ranks of the alastorsreceives the following two additional StatusTraits:Sanctioned andFeared.Short of being declared Anathema herself,the character can never lose these Traits permanently.
-- An alastor may remove a permanent Status Trait from any Kindred attemptingtohinder hermission.This removal costs the alastor nothing.
-- lower than a conclave.
-
-## The Trophy
-
-TheCaallapgreatwadnthewdeytst MarkoftheBeast,thTophyisatatoofinkandbloodthatisthaumaturgically applied to therigt palm.nce aplied,theTrophy stays with thevamr archons and otherKindredin theknowrecognize itforwhatit is.
-
-<!-- image -->
-
-e
-
-<!-- image -->
-
-be destroyed post haste.
-
-ANATHEMA
-
-ofthestorythtorytellrhouldnotallwalayertcontrolfonefth hunted pariahs.
-
-EachAnathema is a different being with unique motivations.The only supreme threats.Storytellers should craftAnathema to suit the themes and logisticsoftheirstories.Ifthestoryrevolvesaroundintrigue,theAnathema can add a newcomplication to thetable.If the story focuses on thestruggle against theBeast,theAnathemacanrepresent theultimatemanifestationf theBeastrunrampant.Ifthestorycenters around fateandself-determination, the Anathema could have been madewhatit is through forces beyond its control—or entirely of its own volition.Anathema are larger than unlife creaturesthatcanbeusedtoencapsulatetheworst,andpossiblyeventhebest, of what it is tobeKindred.
-
-An Anathema doesnot even need tomake aphysical appearance in acity tohave his power felt.Mererumor of the presence of one can sendmost Camarillaindred intoparanoid cowardiceor gloryhounding avarice,and theTrophy can be an attractive reward to those whoknow about it.Some charactersmayfeelsympathyfor anAnathema(especiallyif theStoryteller created theAnathema for just that purpose) and even try to aid it.This is a dangerouspath,or theAnathemaareunderstandablycautious andraely gentleevenwiththeiewallies.venfthecharacter survivesthevisitof h emaaredeadlytocharactersand dangeroustoplot linesbutwhat is thefun
-
-The tales and rumorsof theAnathemaattribute such powerto only be used against Kindred who know what they are dealing with.
-
-<!-- image -->
-
-## CONCLAVES
-
-conclaveisarare andmomentousevent.
-
-## SETTINGUp
-
-Eventhesmallerconclaves aredifficultevents that strainthe abilitiesf theKindredhostingthem.Evenbeforewordhasgoneout about theconclave, the hosting prince and her staff have begun the complicated and delicate processofrparation,andforweeksafter,theymaybeforcedtocleanuh detritusleftbehind.
-
-Theremustbe somematterofvital importance totheCamarilla as a whole,oratleastalargesegmentofit,tojustifythetroubleandexpenseof hosting a conclave.Justicars have called conclaves to deal with renegade princes,todiscussCamarilla policytoward theInternet,topreventinter-clan strife and to debate how to contain theAnarchFreeStates.
-
-Only justicarsareallowedtocallaconclave.Onrareoccasions,aprince whoserputationiswellespectedbytheInnerCirclmayetawaywithitb it isusually saferfor her toconvince an archon that a situationmerits this sort ofattention and hopeheconvinceshis superior.Mostjusticars feel that princes are tooparochialin their outlook,more interested in the welfare of their domains thantheCamarillaasa whole.Justicars are alsounhappyabout others encroaching ontheir authority.
-
-Once ajusticar hasdetermined that there isamatterof suficient gravity towarrantaconclaveemustchoosethelocation.Mostjusticarspreferciie away from the epicenter of theproblem so the attendees are safe from its immediatffectsJusticarsmayaselectthesitebasedonthecaabilit ofnearby princes.Since hosting a conclave successfully brings no small oftheirownclan.
-
-to sweepingwhatever problems arevexing her under therug.
-
-<!-- image -->
-
-archon and allits privileges.
-
-It isimpossibleokeepallthesepreparations secret,thoughall rincesat leastmaketheffort.Withinafewnigts,theNosferatuandanyKindredwo frequentElysiumwillcertainlyrealizethat something is happeningThough disseminatingrumors and information about such proceedings isforbidden bothforreasonsofsecurityandpropriety,itusuallytakeslessthanaweekfor all the Kindred of the city to figure out that a conclave is coming. The information can even spread to other cities.
-
-Amongthemanymatterstheprinceand herstaffmustcontendwithare them during the upcoming event.
-
-Most justicars announce the date and location of the conclave approximatelyamonthinadvance.Smallerconclavesmaybeheldwithlessnotice,but it's politetogivetheinvitees enoughtimetoget their affairs inorderbeforethey are asked to travel onbusiness.Inmostcases,this announcement takes placen the court of the hosting prince and travels through the Camarilla byword of mouth.AllCamarillawhohearof theconclaveare invited toattendbutmost only showif the conclave concerns somematterof interest to them.Thismeans that the primogenofLisbonwillprobablynotfeel theneedtoattendaconclave dealingwitharashofinfenalismnDetroit,thougharemerecholaw nvestigatedasmilareventinthe18thcenturymayfeelcompelledtomakethe tip.Incertaincaesaaenpendentisallowedinaswlbutshewille carefullymonitored.TheSabbat aremore likelytobetopics of conclavesthan participantsit sdiffcult tomagineasituationwheretheywouldbeinvitd
-
-InsideElnsi
-
-## THE CONCLAVEITSELF
-
-gladtpinttrbveilingtxlainrufa
+## THE CONCLAVEITSELF gladtpinttrbveilingtxlainrufa
 
 ## LOgISTICS,LOgISTICS,LOgISTICS
 
-Some players lovemaking plans,but many players may notfind arrangingtheminutiaeofaconclavematchestheir ideaof agood night's gaming.Fortunately,that'swhat lackeys and pawns are for.reparing for a conclave often occupies a large amount of theplanningKindred's Influence:getting the convention hall's peculiar architecture past the zoningboard,secingthat travel arrangementsare secure androunding up enough strays who won't bemissed tomake sure thevitae doesn't get stale.With the expenditure of a littleInfluence,experts can takecare ofmostof thiswithouttheplayerneedingtofretthedetails.Of course, even experts can make mistakes,so wiseKindred keep trackofwhat their people are doing.
+Some players lovemaking plans, but many players may not find arrangingtheminutiaeofaconclavematchestheir ideaof agood night's gaming.for tunately, that'swhat lackeys and pawns are for.reparing for a conclave of ten occupies a large amount of the planning Kindred's Influence:getting the convention hall's peculiar architecture past the zoningboard, secingthat travel arrangementsare secure and rounding up enough strays who won't bemissed tomake sure the vitae do esn't get stale.With the expenditure of a little Influence, experts can takecare of mostof this with outtheplayerneedingtofretthedetails.Of course, even experts can make mistakes, so wise Kindred keep trackofwhat the ir people are do ing. Onceallthemportant Cainitesareseatednorderfageandower, th conclave openswiththepresidingjusticar addressingthe assembled Kindred, speakingtothmaboutthematerthandromthereanyattendeewha somethingtocontributeisallowedtospeak, once the justicar has recognized the m.Many neonatesseated toward the back of the council chamber, ind that the yhavetroublecatchingtheeyeof the justicar, and evenwhentheydo, the reisnoguaranteethatanyoftheelderswillactuallylistentowhattheyhave tosayeverthlesthissnf thwsituatinswhrayungervami is guaranteed the right to speak and be heard by his elders.Discussion Camarilla reaches a decision. are being distracted and the eldershave retired to the ir own diversions. when it is evidentthat the mattehasbeen throughlydiscussd, th this verdict representsthewillof the Camarillandall members are toadhere
 
-OnceallthemportantCainitesareseatednorderfageandower,th conclave openswiththepresidingjusticar addressingthe assembledKindred, speakingtothmaboutthematerthandromthereanyattendeewha somethingtocontributeisallowedtospeak,once thejusticar hasrecognized them.Many neonatesseated toward theback of thecouncil chamber,ind that theyhavetroublecatchingtheeyeof thejusticar,andevenwhentheydo, thereisnoguaranteethatanyoftheelderswillactuallylistentowhattheyhave tosayeverthlesthissnf thwsituatinswhrayungervami is guaranteed the right to speak and be heard by his elders.Discussion Camarilla reaches a decision.
+After the vote, the hostingprince usuallythrowsafinal partywherethe the world Inmostcases, the justicarleaves toreport the results to the Inner Circlemmediatelyaftrreadingtheverdict, houghemightleaveanarcon or two to see that everything ends smoothly. ## AFTERWARD
 
-arebeing distracted and the eldershave retired to their own diversions.
+After the conclaveisfinishedvisitorsareexpectedtodepartnatimely fashion, and the sheriffwillprobablyneedtospendagoodpartofhistime watching the m and encouraging the m to leave.Evenwith the visitors gone, it can take amonth or sofor the city toreturn tonormal.the preparationsfor the conclave must be undone, of ficials must be mollified and any minor problemsor breaches to the Masquerademust betaken careof before the city can return to its standard level of treachery and infighting. Participantsmay find that they have gained or lostmuch based on the ir actions at the conclave.tatusrepect, rputationand all iesmay all e affectedbywhata Kindred says and do es, and evenaneonatemay anhe respect or enmity of an entireclanthroughher actions.Thosewho successfully host or command the securityof aconclave can expect to gaina Status Trait in recognitionof the irefforts.Thosewhoblundercanexpect topaythe price, conclave-uttw Traitsformallconclavepossiblyasmanyasfivfr the largest. ## JUDICIAL CONCLAVES
 
-<!-- image -->
+Justicars convene judicial conclaves for the purposes of determining the guilt or innocence of Kindred who may fall beyond the scopeof princely conclavesrarelylastmore than a handful of nights. trialbyordealandmay Cainehepthevapirwhsassgedanordeay the Malkavianjusticar. otherresidence if they have made powerful enemies. ## MEETINGNEWfRIENDS
 
-Whenit isevidentthat themattehasbeen throughlydiscussd,th this verdict representsthewillof theCamarillandall members aretoadhere
+One of the possibilitiesforaconclave involves temporarilymerging two or more troupesfortheevent, with onetroupehostingtheconclave and the others playing the roles of visitors.While this all ows the Storytellerstopresentalargerconclaveitcreatesnewchallenges aswell. First, hetorytelersmust nsurethat heyagreeaboutwhat is goingn each troupe should be going to a conclave focusing on the same is sue. The Storytellers should review the rules and go over any houserules that the other troupes have developed.the Storytellers should also try togive accurate assessments of the ir players and Narrators so the entire eventcan be shaped for the enjoyment of all.Once the Storytellers have anidea of the ir resources and needsthey can get do wn to business.In most cases, the Storytellersmaywanttoconsiderthehosting troupe's Storytellerfirst among equals for resolving any conflicts. ## PLAYINGTHE CROWD
 
-After thevote,thehostingprince usuallythrowsafinal partywherethe the worldInmostcases,thejusticarleaves toreport theresults to theInner Circlemmediatelyaftrreadingtheverdict,houghemightleaveanarcon or two to see that everything ends smoothly.
-
-## AFTERWARD
-
-After theconclaveisfinishedvisitorsareexpectedtodepartnatimely fashion,and thesheriffwillprobablyneedtospendagoodpartofhistime watching them and encouraging them to leave.Evenwith thevisitors gone, it can take amonth or sofor thecity toreturn tonormal.Thepreparationsfor the conclave must be undone, officials must be mollified and any minor problemsor breaches to theMasquerademust betaken careof before the city can return to its standard level of treachery and infighting.
-
-Participantsmay find that they have gained or lostmuch based on their actions at theconclave.tatusrepect,rputationand alliesmay alle affectedbywhataKindred says anddoes,andevenaneonatemay anhe respect or enmity of an entireclanthroughher actions.Thosewho successfully host orcommand the securityof aconclave can expect to gaina StatusTrait in recognitionof theirefforts.Thosewhoblundercanexpect topaythe price, conclave-uttwTraitsformallconclavepossiblyasmanyasfivfr thelargest.
-
-## JUDICIAL CONCLAVES
-
-Justicars convene judicial conclaves for the purposes of determining the guilt or innocence ofKindred whomay fall beyond the scopeof princely
-
-<!-- image -->
-
-conclavesrarelylastmore than a handful of nights.
-
-trialbyordealandmayCainehepthevapirwhsassgedanordeay theMalkavianjusticar.
-
-otherresidence if they havemade powerful enemies.
-
-## MEETINGNEWfRIENDS
-
-One of thepossibilitiesforaconclave involves temporarilymerging two ormore troupesfortheevent,withonetroupehostingtheconclave and the others playing the roles of visitors.While this allows the Storytellerstopresentalargerconclaveitcreatesnewchallenges aswell. First,hetorytelersmust nsurethat heyagreeaboutwhat isgoingn each troupe should be going to a conclave focusing on the same issue. The Storytellers shouldreview therules and go over any houserules that the other troupes havedeveloped.TheStorytellers should also try togive accurate assessments of their players and Narrators so the entire eventcan be shaped for the enjoyment of all.Once the Storytellers have anidea of their resources and needsthey can get down to business.In most cases, theStorytellersmaywanttoconsiderthehosting troupe'sStorytellerfirst among equals for resolving any conflicts.
-
-## PLAYINGTHE CROWD
-
-Conclaves arerare,veryrare.ven thn,he malleregional conclaves KindredpetaclesthatdrawCanitesfrmacrossthlobevenso,prentng
+Conclaves are rare, veryrare.ven thn, he malleregional conclaves Kindredpetaclesthatdraw can itesfrmacrossthlobevenso, prentng
 
 ## POSITIONS OF POWER
 
-OverthenturieheCamarillhaadoptedaandfulfositonr TraditionsInmanywaysthese positions define theCamarilla evenas th Masquerade,grantingpower to thosewhocanbest promote thewayof the Camarilla, and punishing those who work against it.
+Overthenturiehe Camarillhaadoptedaandfulfositonr Traditions Inmanywaysthese positions define the Camarilla evenas th Masquerade, grantingpower to thosewhocanbest promote the wayof the Camarilla, and punishing those who work against it. Belowareeightcommonlyacceptedstations.how ever, aseach Camarilla cithastniqnttyncnalitfnun the Sabbat.Anothermayrequire a sort of sinecuretobecreated for a powerful Kindred who is not suited for the conventional roles.Usually the prince and primogen arguelong and hardoverthecreationof the se special positions Not only do es the presence of the se special positions wreak havoc with the conventional balanceofpower and all thosecunning stratagemsthatrelyupon it, but it creates hard feelings among those who feel that the new position detractsfromtheirpower.fcoursencertaincases, that is therimaryreason for the creation of the station. ## PRINCE
 
-Belowareeightcommonlyacceptedstations.However,aseachCamarilla cithastniqnttyncnalitfnun theSabbat.Anothermayrequire a sort of sinecuretobecreated fora powerful Kindred who isnot suited for the conventional roles.Usually the prince and primogen arguelong andhardoverthecreationof these special positionsNot only does the presence of these special positions wreak havoc with the conventional balanceofpower andall thosecunning stratagemsthatrelyupon it,but it creates hard feelings among those who feel that thenew position detractsfromtheirpower.fcoursencertaincases,thatistherimaryreason for the creation of the station.
+The prince is of ten seen as the seat of all Kindred power with in a citythe most powerful and cunning of vampires and the of ficial voice of the Camarilla with in the city Certainly, the princewieldsgreat power with in his do main. In addition to what ever other powers he can claim through wits or strength, the princetraditionallypossesses the rightto create progenyand of fcealsotradiionallncludesemarkablepoliticalowermongthekinf
 
-## PRINCE
+Yetwhithriceisst was trngestfthcitysi 一 the ir station. Inside Elasium of hand. could throwachronicleintochaosif teydonot.fitlookslikethe
 
-The prince is often seen as the seat of all Kindred power within a citythe most powerful and cunning ofvampires and the official voice of the Camarilla within thecityCertainly,the princewieldsgreat power within his domain. In addition to whatever other powers he can claim through wits or strength,theprincetraditionallypossesses therightto create progenyand offcealsotradiionallncludesemarkablepoliticalowermongthekinf
+Onththandtsveryeryaeanyhngod himtoaccommodatetherestofthetrouethe Storytellehoulfeelfre to employwhatevermeans she feels are necessarytobring the situation under control.the se means may be in-game, such as bringing in an archon who handily outclasses the prince to address the complaintsof the city'sother Kindred, or they may beout of game, suchasremoving the playerfrom the chronicle.Itisthe Storytellerscallbut if shewants the chronicle to continue, shemust do what she can tokeep it enjoyable for as many as possible. Regardlessof the actualpositionof the prince, itisquitetrue that sheisthe focus of Camarilla power with in the city.The princeevenon those occasions when she is beholden to others is the for ceunderwhich and against which all othersmustmaneuver.Awisevampire scrutinizestherelationshipsbetween the prince and the other Kindred the serelationshipsareoftentheleversoneneeds topryone'swayuptheladderof Kindredsociety.Asthearbiterof Cainitejustice, into account.It is prudent tobeableto explain anyinfractionsonemay commit as being in line with the prince's aspirations.Conversely, one should always describe one's rival's actions in the opposite light. For his part, the prince must manage t the of ten-conflicting goals of maintainingcontrol of his do main and ensuring gthesafety of the Kindred "maintaining the Masquerade" for the ir harsher decrees. remove Status Traits, for such status is power.Naturally, the prince must balancethesegifts and punishmentstokeep the majority of her subjects
 
-Yetwhithriceisst wastrngestfthcitysi 一 their station.
+## THE ABUSE of PRIVILEGE
 
-InsideElasium of hand.
+Manyprincesaremorethan will ingtocreate specialposts for Kindred who of coursehouldtheseboonsandchastismentsproveinsuffcint, princewhodemandssuchpunishmentshadbetteecertainthatsheasth power to enforce her will though. ## SENESCHAL
 
-could throwachronicleintochaosif teydonot.fitlookslikethe
+The seneschal takes onmany differentroles, dependingonthepolitical situation.Traditionally, the seneschalistheprincemosttrustedassistant, and the Kindredwho performs the prince's duties in his absence.In most cases, the seneschal is bothmore and lessthanthat.of ten, the seneschalis the vampire closest to the prince, the filter throughwhich the princemay perceivehis do main and the personthosewhowould speakwith the prince must convincebefore they are granted audience.The position of seneschal is by no means a comfortable one.Princes of ten usetheir seneschalsto perform those unpleasant dutiestheywouldrather not handle the mselves. Princesmay alsomake the ir seneschals scapegoatsclaiming that the ydid not give the m accurate, complete or timely information.In fact, many princes see this as nomore than justretribution for the timeswhen the ir seneschalchosetogive the m incompleteinformationorplaced the blamefor some unpopular edict that was the seneschal's own creation upon the should ers of the unknowing prince. Inmanycases, the seneschalis the battleground againstwhichtheprince the political climateof acitybystudying whethertheprinceorthe primogen
 
-Onththandtsveryeryaeanyhngod himtoaccommodatetherestofthetrouetheStorytellehoulfeelfre to employwhatevermeans she feels arenecessarytobring the situation under control.These means may be in-game, such as bringing in an archon whohandily outclasses the prince to address the complaintsof the city'sotherKindred,or they may beout of game,suchasremoving the playerfrom thechronicle.ItistheStorytellerscallbut if shewants the chronicle to continue,shemust dowhat she can tokeep it enjoyable for as many as possible.
+Gossip (Laws of the Night p. 218) if the campaign has one. almost always sponsored in hopes of gaining the ir patron access to some of the politicalmachination Insuchcases, the assistantbecomesmerelyanotheo in the nightlyintelligencewar that marks the seneschal's existence. ## PRIMOGEN the members of the primogen are usually engaged ina struggle for power with the princeandtheotherprimogen, and daring Kindredmaygainthefavor of the ir clan primogen by performing deeds that further the ir power This sa dangerousamthughgenaveadcadervennri to develop the ir plans and can react quite angrily to ill-informed meddlers. Naturallyitimrecommonrsuchfolketdragedbyne primogen the other into the semachinations against the ir will. The word primogenreferstoboththe council of most powerful Kindred with in a city and the individual Cainites that comprise it.The primogen council usually acts as both an advisory council to the prince and acheckon her power.In the or y, the primogen is composed of the eldest of each Camarillaclan, and the primogen of each clanisexpectedtoprotect that clan's interests with in the city.Nevertheless, certain clans— usually Malkavian and Brujah, for they are of tenconsideredtoovolatilemayfind the ir presence proscribed by the prince, and thus have no representation among the primogen.Additionally, some clansmayhave enough power in the city to command more than a single seat on the primogen council.Also, in some cases, the princeactsashisclan'srepresentativentheprimogen, in otherssomeothervampieoftenoneoftheprinceschilderbutometie a rival clanmember, fills that post. The primogen council is usually limited to the senior members of each to present this as a route to prestige and power.they gloss over the fact that the re is room for only one primogen in eachclan, and the se ancilleand neonateswillonlygetthatpostbyleavingfranothedomainoroverthedead body of the current one. ## HARPY
 
-Regardlessof theactualpositionof theprince,itisquitetrue thatsheisthe focus of Camarilla power within thecity.The princeevenon those occasions when she is beholden to others is the forceunderwhich andagainst whichall othersmustmaneuver.Awisevampire scrutinizestherelationshipsbetween the prince andtheotherKindredTheserelationshipsareoftentheleversoneneeds topryone'swayuptheladderofKindredsociety.AsthearbiterofCainitejustice, into account.It is prudent tobeableto explain anyinfractionsonemay commit as being in line with the prince's aspirations.Conversely, one should always describe one's rival's actions in the opposite light.
+If the princeisthe of ficialfaceof Camarillajustice, the harpyisthede facto arbiter of vampiric propriety, culture and status.they are the undying memoryof fauxpas, innuendo, gossip, rumorand scandalall bundled no a viciously entertaining combination of Torquemada and Miss Manners.In the worldofthe Camarillawherethehallsofowercanoftenresembleanold find.Any Kindredwiththerightcombinationofwitmaliciousnessandsavoire fairemayinsinuateherselfinto the position.Of course any pretenderwho tries but fallsshortwillfindthatnewsof this particularsolecismhasreachedtheears all but the most bucolic of do mains. Manynatqustinctualwftaplaminghll it should take is the strength to ignore the ir japes torender the m totally impotentinthefaceof Kindredwithrealpower.Suchnaiveterarelylastslong, as all of the elder Cainites have avestedinterestinthe powerof the harpies: one's elders is one of the foibles harpies most love to point out. Inside Elgsium
 
-For his part, the prince must manage t the often-conflicting goals of maintainingcontrol ofhis domain and ensuring gthesafety of theKindred "maintaining the Masquerade" for their harsher decrees.
+## the LITTLEPEOPLE threat Additionallythesesubordinates are ftenthetargetsofot and evenrecruitment by opposing Kindredso the ymust bewatched carefully.Nevertheless, as the world becomes more and more com plex, it has become harder for vampires from past centuries to keep apace with it all, and moreof the m have taken to relyingon the iraides tokeep the ir interests running smoothly. Evenmore than the seneschal, harpiesneed to keep in communication with the game's Gossip, if one is present, to record the objectsof the ir displeasure, toverifytheactivitiesofotherswhoarealteringthestatusofother Kindredand—asasimulation of the irnetworkofinformants—tokeep the m abreast of the latest developmentsin the irchosen are na.In games where the re is no Gossip and the Storytellerfeels that oneof the harpiesis sufficiently responsible, that harpymayfulfill the roleof Gossipforthegame.Addition all y, Storytellerswillwanttomakesurethatharpiesarekeptappraisedofany critical gaffes the other charactersmay have made. Asafinalnoteharpyplayersmustexercisecautiontoensure that the ir characters direct the ir comments at the mistakesof the othercharactersnot at the players.It is all right to mock a character's choice of clothes when he attends Elysium; it is not propertomake funof the playerhimself Always keep the distinction between character and player in mind. ## KEEPEROFELYSIUM the Keeperoflysiumhasbroadpowerswithinth Camarillbutnly with incertain strictly delimitedboundaries.with intheconfines of Elysium, the keeperhastheauthoritytotakewhateveractionsshefeelsarenecessary rules and no real power to speak of. In addition to what ever security, catering and maintenance for ces she controlsakeepermayhaveasignificantcollectionofassistantssuallykers use ghoulsbutinlargercitieslesser Kindredmayfilltheseositions Aker usuallywants tohaveatleastone assistantforeachseparategeographical location that comprises Elysium with in the city.Shemayalso have a lieutenant incharge of securityassiblynthwsoluseatanwit Kindred of not esuchas the seneschal and the sheriff. the keeperoflysiumisoneofthemost publicofstations Keepersregularly interactwith the primogen, the seneschal, the sheriff, any other Kindred who would have a use for a quietneutral ground and evenmortalswhomerely see it as another museum or library.the se relationships are of ten professional, for example, the keepermayaskthe sherifftoaid in securitymattersin Elysium. the ycaneasilygenratntorivalries, thoughpeciallywhenone Caint sees anotherasinterferingwithherduties and rights.Thus, thoughthe station is prestigiousbeingkeeperoflysiumisdmandingoliticallyriskyandoftn heldonlyforabrif term.Insomecasesthepositionisgiventoatroublemaker inthepeshathwilluiliatrselfuhasesararewever do mains can afford to have an incompetentkeeper. SHERIFF
 
-remove Status Traits,for such status ispower.Naturally, the prince must balancethesegifts andpunishmentstokeep themajority ofher subjects
+The sheriffis the strong armof the Camarill, the Cainitewhoensures
 
-<!-- image -->
+Kindred usually just try to stay out of his way. the of fender and drag his sorry carcassback to the prince for judgment. enforcers.In certain situations the sheriff may want to have specialized deputies to handle specialized problems.Sherifsmay call for deputies who have skill fightingupines, experience with Sabbat tactics, rapportwith anarchsorwhatever expertknowledge is necessary for the protection of the do main and the execution of the prince's or ders.Such specialists usually receive more respect than the sheriffs or dinary deputies do;this sometimes creates tension among the ranks.Sheriffs also employ any number of spies to bring the m information aboutbreachesin the Masquerade and about the movements of suspect Kindred. Such vampires do not count as deputies, though—the yonly serve the sheriff through the occasional bit of intelligence of fered for somemoney or aminorboon. SCOURGE
 
-## THE ABUSE OFPRIVILEGE
+The scourge is chargedwith culling the city of undesirable vampires, specifically those createdwithout the permission of the prince.Most of the se vampires are of the14th and15thgeneration, but some are Caitiff or unrecognized childer of lower generation.Though many cities have not institudthtationfthscourgetheraveyingstaveffth of Thin Blood"prophesied in the Book of Nod.Though some claim that the station of scourge is an ancient post dating back to the Dark Ages and resurrected in modern times, others argue that it is an entirely new creation. night, she stands as a mythic bogeyman and source of fear among those Kindredwhowonderwhat shemightbecome. are rarely appreciated by the scourge or the ir fellow Kindred. Unliketheother stationsthepositionof scourgeisalmostuniversallya more than one or where the scourge has assistants. ## KEEPINGTHE SCOUBGE CLEAN
 
-Manyprincesaremorethan willingtocreate specialposts forKindred who
+A scourge can easily make a chronicle unpleasant for any troupe. The scourge ranks second to only the prince in potential for gamedisruptingplayerabuse.Examiningthethemeofpettypowerasrepresented bya scourge could be a fascinating clement of a chronicle if properly handled.Poorlyhandled, arunawayscourgecouldruin the gameforany playerswith Caitiff characters.for tunately, the re are myriadways for a Storyteller to address this problem, ranging from the discarding of the position by the prince to an unexpected encounter, such as a you ng Lupine undergoinghis First Changeoranelderwhodid not fecl the need to inform the prince of herpresence. ## THE ELDERS OF THE CAMARILLA
 
-Ofcoursehouldtheseboonsandchastismentsproveinsuffcint, princewhodemandssuchpunishmentshadbetteecertainthatsheasth power to enforce her will though.
+Aneleris avampirewhohas seenthe passing of at least threecenturie. typicallyconsideredelder the yaretypicallthmostvisible layersf th piresthoughmostldersfinditpreposterousthat the ycouldbetheunwitting steal the power of the ir elders through the heinouscrime of diablerie. ## the RAVAGESOFTIME
 
-## SENESCHAL
+What happens to the typical Kindred when he reaches the age of conside. ation?The most obvious result is the nominal respect and status accorded tohim by the you ngervampiresand hiseers but thepassage of timeitef alsoworks distinct alterations nto the mind, spirit and heart of the Kindred who survives long enough tojoin this august communityofancients Sometimes subtleother timespainfullyobviouthesechanges affctarlyveryapectof the s behavior, and the refore the manner in which the elders are played. ## MORALITY
 
-The seneschal takes onmany differentroles,dependingonthepolitical situation.Traditionally,theseneschalistheprincemosttrustedassistant, and theKindredwho performs the prince's duties in his absence.In most cases,the seneschal isbothmore and lessthanthat.Often,the seneschalis thevampire closest to the prince,thefilter throughwhich the princemay perceivehis domain and the personthosewhowould speakwith the prince must convincebefore they are granted audience.The position of seneschal is by no means a comfortable one.Princes often usetheir seneschalsto perform those unpleasant dutiestheywouldrather nothandle themselves. Princesmay alsomake their seneschals scapegoatsclaiming that theydid not give them accurate,complete or timely information.In fact,many princes see this as nomore than justretribution for the timeswhen their seneschalchosetogive them incompleteinformationorplaced theblamefor some unpopular edict that was the seneschal's own creation upon the shoulders of the unknowing prince.
+All vampiresbegin to lose the ir connection to the ir lives and humanity shortlyafhmracetdiffcultafrallvenrthmostthical determined beingtopursuetheexactingidealsof humanmoralityintheface of the nightly pressures, dangers and temptations that both surround and create Kindredsociety.Tryasthevampiremighttoclingtopreviousideals, she findsinevitablythatlove, warmth, kindnessandcompassionall fadeslowlyas the years pass.As the years become decades and the decades centuries, this disassociation from humanitybecomesevenmorepronounced Mosteldersare veryclosetotheeast the yfeelitoilingandtearingntheirgut, demanding release, and they sense it growing strongerwith eachcasualmurder or actof basecruelty they commit.Ancientelders sustain only by the mostrigorous exercisesin self-control.the yfear that eachfrenzymaybetheir last.Those wretchedsoulswhocross that final threshold into the ultimateravening frenzy are disposedoflikethemaddogs the yresemblebforetheycandoirreparable harm tothe Camarilla's Masquerade. to the neonates and ancillaewithwhom they still interact. APPEARANCE
 
-Inmanycases,the seneschalis thebattleground againstwhichtheprince the political climateof acitybystudying whethertheprinceorthe primogen
+Avarlsf Huanitsectedntnlhaviran
 
-<!-- image -->
+Her age and stateofmind alsoinfluence the outward trappings the elder choosesdnoremakingpublicaparancemeleratculal those most insistent onmaintaining both the letter and spirit of the First Traditonanawisthraln abreast of the latest developmentscoming outof the Europeanfashion houses. they retain entire staffsof ghoulswhoservenopurpose other than to attend to the irmastersclothing and grooming.Otherelders are so jaded that the entire not ionoffashionpallsforthem;the ycouldnotcarelesswhatadornstheirbodies, solongasmodestyispreserved.that is not tosaythatthelatter sortwill choose clothing that risksthe Masqueradebutthattheyarelesslikelytobeconcerned that the ir suit jacketoreveninggownis somefourdecadesoutof date. ## BEHAVIOR
 
-Gossip (Laws of the Night p. 218) if the campaign has one.
-
-almost always sponsored in hopes of gaining their patron access to some of the politicalmachinationInsuchcases,theassistantbecomesmerelyanotheo in thenightlyintelligencewar thatmarks the seneschal's existence.
-
-## PRIMOGEN
-
-Themembers of the primogen areusually engaged ina struggle for power with theprinceandtheotherprimogen,anddaringKindredmaygainthefavor of their clan primogen by performing deeds that further their powerThis sa dangerousamthughgenaveadcadervennri to develop their plans and can react quite angrily to ill-informed meddlers. Naturallyitimrecommonrsuchfolketdragedbyne primogen the other into thesemachinations against their will.
-
-The word primogenreferstoboththe council ofmost powerful Kindred within a city and the individual Cainites that comprise it.The primogen council usually acts as both an advisory council to theprince andacheckon her power.In theory,the primogen is composed of the eldest of each Camarillaclan,andtheprimogen of each clanisexpectedtoprotect that clan's interests within the city.Nevertheless,certain clans— usually Malkavian andBrujah,fortheyare oftenconsideredtoovolatilemayfind their presence proscribed by the prince,and thus haveno representation among theprimogen.Additionally,some clansmayhave enough power in the city to command more than a single seat on the primogen council.Also, in some cases,theprinceactsashisclan'srepresentativentheprimogen,in otherssomeothervampieoftenoneoftheprinceschilderbutometie a rival clanmember,fills thatpost.
-
-<!-- image -->
-
-The primogen council is usually limited to the senior members of each to present this as a route to prestige and power.They gloss over the fact that there isroom foronly one primogen in eachclan,and these ancilleand neonateswillonlygetthatpostbyleavingfranothedomainoroverthedead body of thecurrent one.
-
-## HARPY
-
-If theprinceisthe officialfaceof Camarillajustice,theharpyisthede facto arbiter ofvampiric propriety,culture and status.They aretheundying memoryof fauxpas,innuendo,gossip,rumorand scandalall bundled no a viciously entertaining combination ofTorquemada and Miss Manners.In theworldoftheCamarillawherethehallsofowercanoftenresembleanold find.AnyKindredwiththerightcombinationofwitmaliciousnessandsavoire fairemayinsinuateherselfinto theposition.Of course any pretenderwho tries but fallsshortwillfindthatnewsof thisparticularsolecismhasreachedtheears all but the most bucolic of domains.
-
-Manynatqustinctualwftaplaminghll it should take is the strength to ignore their japes torender them totally impotentinthefaceofKindredwithrealpower.Suchnaiveterarelylastslong, as all of theelderCainites haveavestedinterestinthe powerof theharpies: one's elders is one of the foibles harpies most love to point out.
-
-InsideElgsium
-
-## THELITTLEPEOPLE
-
-threatAdditionallythesesubordinates areftenthetargetsofot and evenrecruitment by opposingKindredso theymust bewatched carefully.Nevertheless, as the world becomes more and more com plex,it has become harder for vampires from past centuries to keep apace with it all, andmoreof them have taken to relyingon theiraides tokeep their interests running smoothly.
-
-Evenmore than the seneschal,harpiesneed to keep in communication with the game's Gossip,if one ispresent,to record the objectsof their displeasure,toverifytheactivitiesofotherswhoarealteringthestatusofother Kindredand—asasimulation oftheirnetworkofinformants—tokeep them abreast of the latest developmentsin theirchosen arena.In games wherethere isnoGossip and theStorytellerfeels thatoneof theharpiesis sufficiently responsible,thatharpymayfulfill theroleofGossipforthegame.Addition ally,Storytellerswillwanttomakesurethatharpiesarekeptappraisedofany critical gaffes the other charactersmay have made.
-
-Asafinalnoteharpyplayersmustexercisecautiontoensure that their characters direct their comments at themistakesof the othercharactersnot at the players.It is all right to mock a character's choice of clothes when he attends Elysium; it isnot propertomake funof the playerhimselfAlways keep the distinction between character and player in mind.
-
-## KEEPEROFELYSIUM
-
-TheKeeperoflysiumhasbroadpowerswithinthCamarillbutnly withincertain strictly delimitedboundaries.Withintheconfines ofElysium, thekeeperhastheauthoritytotakewhateveractionsshefeelsarenecessary
-
-<!-- image -->
-
-rules and no real power to speak of.
-
-In addition to whatever security,catering and maintenance forces she controlsakeepermayhaveasignificantcollectionofassistantssuallykers use ghoulsbutinlargercitieslesserKindredmayfilltheseositionsAker usuallywants tohaveatleastone assistantforeachseparategeographical location that comprisesElysium within thecity.Shemayalso havea lieutenant incharge ofsecurityassiblynthwsoluseatanwit Kindred of notesuchas theseneschal andthesheriff.
-
-Thekeeperoflysiumisoneofthemost publicofstationsKeepersregularly interactwith the primogen, the seneschal,the sheriff,any other Kindred who would havea use fora quietneutral ground andevenmortalswhomerely see it as another museum or library.These relationships are often professional, for example,thekeepermayaskthe sherifftoaid in securitymattersinElysium. Theycaneasilygenratntorivalries,thoughpeciallywhenoneCaint sees anotherasinterferingwithherduties andrights.Thus,thoughthe station isprestigiousbeingkeeperoflysiumisdmandingoliticallyriskyandoftn heldonlyforabrif term.Insomecasesthepositionisgiventoatroublemaker inthepeshathwilluiliatrselfuhasesararewever domains can afford to have an incompetentkeeper.
-
-SHERIFF
-
-The sheriffis the strong armof theCamarill,theCainitewhoensures
-
-<!-- image -->
-
-Kindred usually just try to stay out of his way.
-
-the offender and drag his sorry carcassback to theprince for judgment.
-
-enforcers.In certain situations the sheriff may want to have specialized deputies to handle specialized problems.Sherifsmay call for deputies who have skill fightingupines,experience withSabbat tactics,rapportwith anarchsorwhatever expertknowledge isnecessary for the protection of the domain and the execution of the prince's orders.Such specialists usually receive more respect than the sheriffs ordinary deputies do;this sometimes creates tension among theranks.Sheriffs also employ any number of spies to bring them information aboutbreachesin theMasquerade and about the movements of suspect Kindred. Such vampires do not count as deputies, though—theyonly serve the sheriff through theoccasional bit of intelligence offered for somemoney or aminorboon.
-
-SCOURGE
-
-The scourge is chargedwith culling the city ofundesirable vampires, specifically those createdwithout thepermission of theprince.Most of these vampires areof the14th and15thgeneration,but some are Caitiff or unrecognized childer of lower generation.Though many cities have not institudthtationfthscourgetheraveyingstaveffth ofThin Blood"prophesied in the Book of Nod.Though some claim that the station of scourge is an ancient post dating back to the Dark Ages and resurrected in modern times, others argue that it is an entirely new creation. night, she stands as a mythic bogeyman and source of fear among those Kindredwhowonderwhat shemightbecome.
-
-are rarely appreciated by the scourge or their fellowKindred.
-
-<!-- image -->
-
-Unliketheother stationsthepositionof scourgeisalmostuniversallya more than one or where the scourge has assistants.
-
-## KEEPINGTHE SCOUBGE CLEAN
-
-A scourge can easily make a chronicle unpleasant for any troupe. The scourge ranks second to only the prince in potential for gamedisruptingplayerabuse.Examiningthethemeofpettypowerasrepresented bya scourge could be a fascinating clement of a chronicle if properly handled.Poorlyhandled,arunawayscourgecouldruin thegameforany playerswith Caitiff characters.Fortunately,there are myriadways fora Storyteller to address thisproblem,ranging from the discarding of the position by the prince to an unexpected encounter,such as a young Lupine undergoinghisFirst Changeoranelderwhodid not fecl the need to inform theprince ofherpresence.
-
-## THE ELDERS OF THE CAMARILLA
-
-Aneleris avampirewhohas seenthe passing of at least threecenturie. typicallyconsideredelderTheyaretypicallthmostvisible layersf th piresthoughmostldersfinditpreposterousthat theycouldbetheunwitting
-
-<!-- image -->
-
-steal thepower of their elders through the heinouscrime of diablerie.
-
-## THERAVAGESOFTIME
-
-What happens to the typical Kindred when he reaches the age of conside. ation?The most obvious result is thenominal respect and status accorded tohim by the youngervampiresand hiseersButthepassage of timeitef alsoworks distinct alterations nto themind, spirit and heart of theKindred who survives long enough tojoin this august communityofancientsSometimes subtleother timespainfullyobviouthesechanges affctarlyveryapectof thes behavior,and therefore the manner in which the elders areplayed.
-
-## MORALITY
-
-All vampiresbegin to lose their connection to their lives and humanity shortlyafhmracetdiffcultafrallvenrthmostthical determined beingtopursuetheexactingidealsof humanmoralityintheface of the nightly pressures, dangers and temptations that both surround and createKindredsociety.Tryasthevampiremighttoclingtopreviousideals,she findsinevitablythatlove,warmth,kindnessandcompassionall fadeslowlyas the years pass.As the years become decades and the decades centuries,this disassociation fromhumanitybecomesevenmorepronouncedMosteldersare veryclosetotheeastTheyfeelitoilingandtearingntheirgut,demanding release,and they sense it growing strongerwith eachcasualmurder oractof basecruelty they commit.Ancientelders sustain only by themostrigorous exercisesin self-control.Theyfear that eachfrenzymaybetheir last.Those wretchedsoulswhocross thatfinal threshold intotheultimateravening frenzy aredisposedoflikethemaddogs theyresemblebforetheycandoirreparable harm totheCamarilla'sMasquerade.
-
-to the neonates and ancillaewithwhom they still interact.
-
-<!-- image -->
-
-APPEARANCE
-
-AvarlsfHuanitsectedntnlhaviran
-
-Her age and stateofmind alsoinfluence the outward trappings theelder choosesdnoremakingpublicaparancemeleratculal those most insistent onmaintaining both the letter and spirit of theFirst Traditonanawisthraln abreast of thelatest developmentscoming outof theEuropeanfashion houses. They retain entire staffsof ghoulswhoservenopurpose other thanto attend to theirmastersclothing and grooming.Otherelders areso jaded that theentire notionoffashionpallsforthem;theycouldnotcarelesswhatadornstheirbodies, solongasmodestyispreserved.Thatisnottosaythatthelatter sortwill choose clothing thatriskstheMasqueradebutthattheyarelesslikelytobeconcerned that their suit jacketoreveninggownis somefourdecadesoutof date.
-
-## BEHAVIOR
-
-When decidingwhat your elder will wear,concentrate on the details. Unlessyoueextraordinarilyfortunateyouprobablycan'taffordanentire wardrobe of authenticperiod garb,andmustmake dowith one or two serviceable pieces and somegood accessories.The latter can suggest age and status withoutbeingelaborate：apelpins,brooches,rings,cigarettecases, canes,loves,etc.canprovideallthesuggestionof theOldorevenClassical World thatyouarelikelytoeedThatisnottosaythatyoushouldabandon theideaof looking the part to thebest of your ability.LARPis evenmorefun when playersdoallthat they can tocreateand preservetheillusion that they are indeed someone else for the evening.Try your luck at vintage clothing shops and consignment stores, and bring your friends along!
-
-Being somethingbothmore andlessthan human,all vampires aremore unfeelingandjadedbingsthenightaseverwand thibavir
+When decidingwhat you r elder will wear, concentrate on the details. Unlessyoueextraordinarilyfortunateyouprobablycan'taffordanentire wardrobe of authenticperiod garb, and mustmake do with one or two serviceable pieces and somegood accessories.The latter can suggest age and status with outbeingelaborate：apelpins, brooches, rings, cigarettecases, can es, loves, etc.can provideallthesuggestionof the Oldoreven Classical World that you are likelytoeed that isnottosaythatyoushouldabandon the ideaof looking the part to the best of you r ability.LARPis evenmorefun when playersdoallthat they can tocreateand preservetheillusion that they are indeed someone else for the evening.Try you r luck at vintage clothing shops and consignment stores, and bring you r friends along! Being somethingbothmore and lessthan human, all vampires are more unfeelingandjadedbingsthenightaseverwand thibavir
 
 ## PLAYINGTHEPART
 
-You agebutyoudonotmproveertainlyyourntellect,yourcuning andyourwesrworeastndfuarertunateandlverumy come tounderstandmorefully thenatureof yourexistence andenvironment, and the longer you survive, the more impressive these characteristics may become.Butyoucannever growbetter.You left thatcapacityfar,farbehind you—it belongs to the Canaille,to themortalswhom you dismiss as cattle, from whom youare now so distant in natureand thought that you might aswell beanalienvisitorfrom anotherplanet.Butthat'snottheworstof it.Theworst ofitisthatyouknowit,whetheryouadmitittoyourselfornot.Yourepainfully awarentheestrcessofwhatsffursiccatedearthatu existenceisatestimony to an appallingdecayofthesoul that you arepowerless tohalt,evenif youwantedto.Andyoudon'twant to,becauseyoureanelder, and thisiswhatenablesyoutosurvive.venthisparanoid,avorlessanddull existenceisbetter than theFinal Death.
+You agebutyoudonotmproveertainlyyourntellect, you rcuning and you rwesrworeastndfuarertunateandlverumy come tounderstandmorefully the natureof you rexistence and environment, and the longer you survive, the more impressive the se characteristics may become.but you can never growbetter.You left that capacityfar, farbehind you—it belongs to the can aille, to the mortalswhom you dismiss as cattle, from who m you are now so distant in natureand thought that you might aswell beanalienvisitorfrom anotherplanet.but that'snottheworstof it.the worst of itisthatyouknowit, whetheryouadmitittoyourselfornot.you repainfully awarentheestrcessofwhatsffursiccatedearthatu existenceisatestimony to an appallingdecayofthesoul that you are powerless tohalt, evenif you wantedto.and you do n'twant to, becauseyoureanelder, and this is what enablesyoutosurvive.venthisparanoid, avorlessanddull existenceisbetter than the Final Death. Playing an eldercharacter isn't easy.You can imaginewhat itmight feel like tobeabloodsucking, animatedcorpsewho'slived hundredsofyears and lost all vestigesofhumanemotion, but you can'treallydrawfrompersonal experience to guideyou in portraying this creature.Fewroleplayers have centuries of experienceattheir disposal with which to hone the ir skills at courtlyintigue, socialetiquetteandsecretmurderutyoucantouchonthe cornerstonesofgood elderortrayal:paranoiafear, hatred and crulty. ## FEARFULPASSAGES you reldercharacterisn'tgoingtobelikeanyotherplayerselder, but you r characterwill share somesimilaritieswithothersofyourilk;ndeednmany waysyouwill have moreincommonwiththecreatureswhomayproveyour greatest rivalsthanwith the incomprehensible you nger generations.the ways of the pastbindyoutogether, and sodoesthefearthat suchlongevityengenders. Indeed, itisfear that is you rmostconstantcompaniononthelongroadf undeath.you mightthinkthat aneldercharacterhaslittletofear from anything or anyone.After all, hehas the advantagesof agehigher Traitmaximums, a larger Blood Pool, resistance to the for midable powers of do minate, ample will power Traits and(ifyou're for tunate)more Discipline powers than the average ancillaeorneonatecharacter.but playing anelderwhobelieves herself tobe indestructibleorunstoppableis the quickestwaytobecomea deadelder. the resplentyforaneldertofearout the re, and with good reason. ## CHANGE
 
-Playing an eldercharacter isn't easy.You can imaginewhat itmight feel like tobeabloodsucking,animatedcorpsewho'slived hundredsofyears and lost allvestigesofhumanemotion,butyoucan'treallydrawfrompersonal experience to guideyou in portraying this creature.Fewroleplayers have centuries of experienceattheir disposal withwhich to hone their skills at courtlyintigue,socialetiquetteandsecretmurderutyoucantouchonthe cornerstonesofgood elderortrayal:paranoiafear,hatred andcrulty.
+First and for emost onyourcharacter's list of Most Feared Things is, paradoxically, something that has proven inevitable —at least so far: change.Eldersmay bea paranoid and jaded lot, but only thosewho are utterly insanefail torecognize one inescapable fact:If the fragilecords of the ancientlaws and customs that bind the Camarilla together were to unravel, the elders and many Kindred with the m would be plunged screaming into an eternal nightmare of chaos and bloodshed from which they might never hope toawaken.the refore, the ymust preserve the status quo, nomatter how confining, sterile or twisted itmightbe, so that the amarila
 
-## FEARFULPASSAGES
+Camarilla and its adherents might continue to exist.This lesson, which you nger Kindred feel tobemerely are actionary foible, is actually that which has all owedmany of the most ancient elders to survive long enough to see the modern nights. Changeis the one thingyourcharacter has goodreason tofearmorethan anythingelse.Change, particularlyof the abrupt and unexpectedvariety, unsettles all those cunning plans that you r character has so painstakingly crafted over the centuries.Change disrupts the careful routines and rhythms that enableyou tostave of f the do wnward spiralintowhichthe Beasttries to for ce you.So great is this fear of change that many eldersgoto great lengths to immunize the mselvesfrom its ravages.Unfortunately, the modernworld is so complex that even a seemingly minor alteration in the local environment can be the harbingerof much greater change later.the refore, some elders perceive all change to be undesirable, something to be avoided when ever possible.for the m, nodisplayofconservatism is toogreat if itenablesthm stiflea significant change to the environment. the fearanelderinstillsin other Kindredby the threatof his awesome powersisbutawanreflectionofthefearofchangethatleavesthat sameelder quakingasheretirestohisslumbereachmorning.the fear you reldercharacter mightexperienceatthethoughtofanimminent Sabbatincursion, or atthe imaginedsoundofdiableristsfootstpintheallwayisdwarfedbyhistror that the status quowill shift once again and leave him trying desperatelyto understand the new paradigmbefore it proveshis undoing.Elders who find the mselvesintheuncomfortable position of justifyingthiswholesalerejection of change to you nger Kindred of ten point out that all one requires to understandthisphilosophyisthe advantageof perspective.Eldersneed only looktothelessonsof the irownpastforall the justificationtheywilleverneed. Strangely, elders are lessfearfulof losing the ir unlives tothe for cesof change than they are of losingtheir power and prestige.The elder sits atthe apexof the Camarillasocialstrata, and fewarecapableofdivestingthemselves will ingly of the sweetrewards of control.It is difficult——toodifficult—for the m to pass on the reins of power to the ir you nger kin, of who m they also possess a justifiable and intensefear.Consequently, eldershang on to every scrapof authoritywithbloodynails.they can nolongerknow the joys of gentleremotions, but they can stillsavorthedarklysatisfyingfruitsofcontrol, deference and obedience from those over who m the yhold sway. ## DISCOVERY
 
-Youreldercharacterisn'tgoingtobelikeanyotherplayerselder,butyour characterwill share somesimilaritieswithothersofyourilk;ndeednmany waysyouwill havemoreincommonwiththecreatureswhomayproveyour greatest rivalsthanwith theincomprehensible younger generations.Theways ofthepastbindyoutogether,andsodoesthefearthat suchlongevityengenders. Indeed,itisfear thatisyourmostconstantcompaniononthelongroadf undeath.Youmightthinkthat aneldercharacterhaslittletofear from anything oranyone.After all,hehas the advantagesof agehigherTraitmaximums,a larger Blood Pool,resistance to the formidable powers ofDominate,ample WillpowerTraits and(ifyou're fortunate)more Discipline powers than the average ancillaeorneonatecharacter.Butplaying anelderwhobelieves herself tobe indestructibleorunstoppableis thequickestwaytobecomea deadelder. Theresplentyforaneldertofearout there,andwithgood reason.
+Manyelersrecallthehalcyonnightsofomeand the Dark Ages, when the eldest vampireswereoftenncompletecontrolof the greatpopulationcentersof Europehelrsandldothcarrotandstikandentirationsdan to the irwhims.the yhunted and killedas the ywished, and nonedaredstand against the m.the ncame the Inquisition, with itspriests and bonfires and autoda-fe, slaughteringuncountednumbers of les for tunatevamires Consideryour character's historywhenconfrontedwithadecisionthat could potentially shift from personal experience.If so, you should remember how verynear the
 
-## CHANGE
+Inside Elgsinm miserable, zealous can aillecameto destroying every last Cainitewhile armed onlywith crude weapons and torches.True, the Church has ceased to be the monolithicforceitwasinthosenightbutthasnotdsappearedorhas Inquisition-afactthatshouldnever betoofarfrom you r character'smind when ever discussion of serious change arises.Rapidchange could tear great, raggedholesinthe Masquerade, exposing the Kindred againtothewatchfulyes of the hunters.Given that the wisest and longest-livedeldersweighthepotential valueofchangeagainstthethreatofdiscoveryanddestructionatthehandsofthe kine, it is awonder that they are not evenmore socially conservative. Roleplaying this fear should prove an exercise in common sense.Decide exactlyhowparanoidyourcharacter is aboutthe possibilitythathumansmight onedaydiscover the truth aboutyour existenceand decidetopursueyouwith all the modern devices and weapons at the ir disposal.Most elders feel the ir blood turn towater at the very thought of a second Inquisition sweeping across the ir city, and the ir reaction to anything that promises even the barest potential for this disaster is usually swift and harsh Amongmanyelders, the re is no greater crime than violation of the First Tradition.Any Kindredwho compromises the securityof all should bepunishedbynothingshortof the Final Death.Many alsobelieve that this punishment should be inflicted ina manner asgruesome and horrible as can bedevised—the bettertodemonstratetootherwould-besecurityrisksthepenaltyofbreachingthismostsacred rule.Itis this very fear that of ten lies at the root of another hallmarkofelder paranoia:fearof the modern. ## TECHNOLOGY
 
-First and foremost onyourcharacter's list of MostFeared Things is, paradoxically, something that has proven inevitable —at least so far: change.Eldersmay bea paranoid and jaded lot,butonly thosewho are utterly insanefail torecognize one inescapable fact:If the fragilecords of the ancientlaws and customs thatbind the Camarilla together were to unravel, the elders and many Kindred with them would be plunged screaming into an eternal nightmare of chaos and bloodshed from which they might never hope toawaken.Therefore,theymust preserve the status quo,nomatter howconfining,sterile or twisted itmightbe,so that the amarila
+This aspect of the elder character's psychologyrepresents an inconvenience to you, the player.It's a fact that many players utilize the Internet to facilitate the ir roleplaying. It's a great communications tool with many applications, and it all owsplayers and Storytellers to continue the game between actual sessions.but if the typical elderis uncomfortablewith most newerformsof tchnologyhoulnhebeequallyappreensiveabouth most recent revolution in global communications?The answer is yes, she should, and not justbecause it's anunfamiliar tool.Encryption and safe guards not with standing, the Internet is a breachof the Masquerade just waiting tohappen.Talk with you r Storyteller about how you can address this
 
-Camarilla and its adherents might continue to exist.This lesson,which youngerKindred feel tobemerely areactionary foible,is actually that which has allowedmany of the most ancient elders to survive long enough to see themodern nights.
+Unlessyou'reapretender, you comefrom anagewhere significant tech nological or scientific advancement was something that happened once a century, ifthat.Nowinnovationsthatborderonthemiraculousarenowamattr of coursetheyoccur annuallymonthlyand sometimesnightly.venasyou sit in you rhaven and contemplatethenext20movesinyourgameofpolitical chess againstyourhatedrival, the kine are inventing devices that can killmillionsin aninstant, wipeall lifefromtheplanetandleavetheearth'ssurfaceboilinghot for millennia.Even the humans can not keep abreast of the ir own progresswith anything approaching confidence!How the n can you, the productofan agein which suchinventionswould be considered the rankest and mostvile sortof heresy, hopetocomprehend the significanceofeach and everynewdevelopment？the hard truth is that you can't, and you must increasingly turn toyour inferiorsforhelp in understanding or evenutilizing the newer technologies. e is sue.Shemight all owyourcharacter tobe one of the fewelderswhohas managed tokeepupwith the times and for who m new technology holdsno inherent fear.But in games with more than a few elder characters, this exception becomes less believable and desirable.Given the degree towhich eldersvaluetheirprivacyandpersonalsafety, itissimplybeyondthebound of believabilityforthemtosithuddled attheir computer terminalswriting messages to one another around the globe every night.the Internet and other such devicesbelong to the you nger generations, and ifyour elder utilizes such technologyfrequentlyandeasilyyou are n'tgetting the full elder experience.Consequently, try to limit the extent to which you relder character communicates via Internet:Itmight be less convenient for you as a player, but you'll be do ing you r character more justice. ## PEERS the yglidethroughthemarble hallsof Elysiumwiththe same gracefulease and predatorsmilhatutoffctforhnfitfthungen you rfellowelders.Despitethefactthatyourcharacterwill have agreatdeal in commonwith the m, don't bemisled.they aren't you r friends.the elders who dwell ina given city must deal with the omnipresent politics of scarcity that govern the ebband flowof nightly urban life.the re are only so many resources-kine, Influences, Contactsetc.togo around, and mostof the m are held in the hands of the elders.Itfollowsthen that eldersmustcircle one anotherlikesharkseachhopingthatanotherwill showasignofweaknessthat all owsherto takewhat anotherhas.Eachelderknows, whethershewishesto admititornot, that one of the fewwaystogiveherexistencemeaningisto claimvictoryoverherpeers.Otherwiseallthereacheriescrimes and sinsshe committedto achievethatvictorywerefornothing, and the thoughtofthat is simply toohateful and ghastly tobear. ## THE SABBAT
 
-Changeis the one thingyourcharacter hasgoodreason tofearmorethan anythingelse.Change,particularlyof the abrupt and unexpectedvariety, unsettles all those cunning plans that your character has so painstakingly crafted over the centuries.Change disrupts the careful routines and rhythms that enableyou tostave off the downward spiralintowhichtheBeasttries to force you.So great is this fear of change thatmany eldersgoto great lengths to immunize themselvesfrom its ravages.Unfortunately,themodernworld is so complex that even a seemingly minor alteration in the local environment can be the harbingerof much greater change later.Therefore, some elders perceive all change to be undesirable, something to be avoided whenever possible.Forthem,nodisplayofconservatism is toogreat if itenablesthm stiflea significant change to the environment.
+Everyelderof the Camarillaknowsthatthe Sabbatisoutthere, watching and waiting for an opportunity to come how ling through the night and wreak bloody havoc on the beleaguered defenses of the Camarilla.this fear is not unfounded:The vampires of the Sabbatclamor loudlyfortheutter destruction of the elders as one of the ir sect's key principles.Every loss of Camarilla territory to its enemy sends a shiver of dread through the decayedheartsof the elders, followed quicklybytheheatof shame and the parching desirefor revenge.Many elders project the ir terror of the Sabbat onto the you nger generations, usingtheirownfearstoexertyetanotherdegreeofcontrolover the ir progeny.The elders'desire toretake every footof ground lost to the Sabbatuostfthmaenwillngtputhmelvenhfntinf the fighteeinginsteadtmanpulatrvenordrungerinredn taking the brunt of the enemy's vicious attacks.With each Camarilla victory seemingmorefleetingthanthelast, some eldersevenbegintoharborthe secret fear that the ir sect is do omed and will fall to the Sabbat'sseemingly limitless numberswithin the for eseeable future. the se elders aren't was ting any more time devising stratagems to combat the enemy and instead devote the ir energies into creating elaborate methods of escape and defense should the worst finally occur. Inside Elgsium the SUM of all FEARS:the you NGERGENERATIONS
 
-Thefearanelderinstillsin otherKindredby thethreatof his awesome powersisbutawanreflectionofthefearofchangethatleavesthat sameelder quakingasheretirestohisslumbereachmorning.Thefear youreldercharacter mightexperienceatthethoughtofanimminentSabbatincursion,oratthe imaginedsoundofdiableristsfootstpintheallwayisdwarfedbyhistror that the status quowill shift once again and leave him trying desperatelyto understand the new paradigmbefore it proveshis undoing.Elders who find themselvesintheuncomfortable position ofjustifyingthiswholesalerejection ofchange to younger Kindred often point out that all one requires to understandthisphilosophyisthe advantageof perspective.Eldersneed only looktothelessonsof theirownpastforall thejustificationtheywilleverneed.
+Inyourwildestdreamsyoumightopethattheshockingspeedwithwhich changerips acrossandreshapesthefaceof the worldwould drivethe Kindred whimperingintothearmsof the Camarilla, beggingforitscomfortand shelter. but whilethis world might seem alien and incomprehensibleto you, the you ngernrationsarequitatomehrtisbyandlarge, the irworlh ancillae and neonatesgrewto adulthood and were Embraced amid the riotous changesthatrumblethroughthisodiousworld.Soit is with eagerness that the se you nger, weaker Kindredmaster soeasilywhatremainsbarelycomprehensible toyourado, evisinrpicsuleahyics, mutrsnt of ten, you findyourselfonthereceivingendofanappallinghour-longlesson ontheapplicationsofonethesemarvels, duringwhichtimeadroningneonate or ancilla attemptstoinstruct you initsfunctionandoperation.Sometimesyou think you will go mad just from the sheer horror of it all. Itwouldbealmostbearable, though, fitwerentoverylearthatt you nger have somehowfallen under the spell of humanity'smost heretical not ion:Technologyandchangearenotonly desirable, but necessary.Clearly, this viewpointisevidenceof a serious deficiencyof character.But likea tooth that rotsfrom with in, sotoo do es the Camarilla sufferfrom this pervasive disease amongitjuniormembers.Despiteall the rationales, not tomention the awesome for ce, that the elders can bring to bear, the twin demons of democracy and freedomdemand tomake the mselvesheard throughout the halls of Elysium.It is almost as if the sewords are a virus that the you nger Kindredcontractwhentheyfeeduponthekine, asicknessthatspreadsfurther with eachsubsequentgeneration. Fear of you ngervampiresreflects the elder's parallel fear of her own growing irrelevancy.As anelder agesshe grows evermoredistantfrom the mortalworld, until she reaches an age at which she no longer desires to undertakethelaborsthatwouldenablehertoremainrelevant.Consequently, when ever an ambitious ancillaor energeticneonate embarks on a crusade or plan toreformthe staleandperverseworld that is Camarilla society, the elders collaborate on his destructionor, at the very least, to thwart his plans totally.Political skullduggery, socialridicule, perversemachinationsno
 
-Strangely,elders arelessfearfulof losing their unlives tothe forcesof change than they are of losingtheir power and prestige.The elder sits atthe apexof theCamarillasocialstrata,andfewarecapableofdivestingthemselves willingly of thesweetrewards of control.It is difficult——toodifficult—for them to pass on the reins ofpower to their younger kin,ofwhom they also possess a justifiable andintensefear.Consequently,eldershang on to every scrapof authoritywithbloodynails.They cannolongerknow thejoys of gentleremotions,buttheycanstillsavorthedarklysatisfyingfruitsofcontrol, deference and obedience from those over whom theyhold sway.
+Considerhowyoureldercharacterwillreactwhenshehearsthesewords falleagrlyastheywillfromthelioftheyoungervampiresinlyiumo shebelievethemidlewords, littlemorethanthefollyofyouth?or are they a chillingreminderofanothertime, when similarphrasesweretheill-favored omen of resentment that welled upfrom the heartsof the you nger Kindred, leadingtothehorrornowknownasthe Anarch Revoltandfollowedby the founding of the hated Sabbat?you rcharactermaywelldecide that suchtalk, how ever casual, is not hing less than anotherwave of resentment building againstthewiseandexperiencedguidanceofherpeers, and that the n evitable criesfor changewill quickly follow.you r charactermay well askherself how long itwillbebefore the secriesforreformbring the Camarilla toitsknees.Is the sect's life spanmeasured in millennia or minutes?What can be do ne to staveoffthisrot, toshoreupthecrumblingwallsofthesectbeforeitcollapses in on itself, burying everyone under itsweight? ployortacticowevervilsbeyondthecaacityofanlrivenby desiretopreserve the statusquoinwhich sheis soirretrievablyinvested. ## DIGNIFIEDDESPERATION
 
-## DISCOVERY
+Anyoneofthlersmanyfearstakeninglywouldbesuffcintode a significantimpacton the irnightlybehavior.Combined, they create a near paralysisthat preventsmanyelders from committing toany courseof actionthat is taaliznrmzenif and weighedcarefullyagainstamyriadofpossibleoutcomes.Consequently, the eldersarerelativelyslowtoreactexceptinthefaceofclear, obviousthreats, and even the n they of ten prefertostall for timebefore acting decisively.Relativeto the iryoungerrelationstheeldersof the Camarillathus appeartobepractically unmovingasthey struggletofreezetheirpervertedsocietyinplacesothatthey neednot risk partingwith evena fraction of the irpower. you reldercharactershould the reforeseem, atleaston the surfaceandin public, toface the prospectofriskwith extremereluctance.Considercarefully you r character'sresponse toany situation that threatens toupset herlong-term plansordisrupt the status quoonwhichherpowerbasedepends.do n'tbeafraid tobideyourtimebeforeansweringquestionsthatmight leaddownunwelcome paths;do n'the sitatetomakeyourpersona'sactions seemfrustratinglyconservativeintheeyesofthemoreenergeticandyoungercharacters.Privately, of course, you rcharactercangivefullventtoheremotionsparticularlywhendealingwith you nger Kindredoryourownprogeny, thoughindoingsoyouruntheriskof beingperceivedassomethinglessthandignifiedshouldwordofyour outbursts reach the ever-waiting earsof you r peers and enemies. ## STIFLINGPARANOIA:the HATE of AGES
 
-Manyelersrecallthehalcyonnightsofomeand theDarkAges,whenthe eldest vampireswereoftenncompletecontrolof thegreatpopulationcentersof Europehelrsandldothcarrotandstikandentirationsdan to theirwhims.Theyhunted andkilledas theywished,andnonedaredstand against them.Thencame theInquisition,withitspriests andbonfires and autoda-fe,slaughteringuncountednumbers ofles fortunatevamiresConsideryour character's historywhenconfrontedwithadecisionthat couldpotentially shift from personal experience.If so,you should remember howverynear the
+Elderscollect grudges and nurse the mwithalmost lovingcare, for the se are the thoughts that sustain the m when other hopesandsensations growdim.the ir memories are as long as the ir existences:they do not for get slights or insults, how evemallandtheyowforcertaintyhatonef the ieerswill, et Perversely, this capacityforhateiswhatenables someelderstocontinue on, decadeafcadecenuryaftnury, whnverythinghan approximatesmeaning has been snuffed out.Nolonger abletofeel the gentler emotions, the yclingdesperatelytothose sensationsthattheycanstill grasp.The sharp, steelypangof hatredhasenabledmore than afewelderstopersevere through terriblecalamities and setbacksthehot, coppery tasteofvengeance yet tocomeisapleasuresorarifiedthatonlyaneldermaytrulyappreciate itssubtle
 
-InsideElgsinm miserable,zealousCanaillecameto destroying every last Cainitewhile armed onlywith crude weapons and torches.True,the Church has ceased to be the monolithicforceitwasinthosenightbutthasnotdsappearedorhas Inquisition-afactthatshouldnever betoofarfrom your character'smind whenever discussion of serious change arises.Rapidchange could tear great, raggedholesintheMasquerade,exposing theKindred againtothewatchfulyes of thehunters.Given that thewisest and longest-livedeldersweighthepotential valueofchangeagainstthethreatofdiscoveryanddestructionatthehandsofthe kine,it is awonder that they arenot evenmore socially conservative.
+Fearinevitablybreedshate.Wehatewhatwefear, and viceversa.Alone amongthe Kindred, eldersknowonlytoowell the maddeningparadoxthatseeps slowlyinto the vampiresmind after the ypassacertainage the ironyof the ir existenceisthatontheone handtheyenjoynearlylimitlesspower, but onthe other the yareheldintheinescapablegripof paralyzingfear.This sickduality weighsheavilyontheirminds, and yet the yprefertofacetheennuiofthelong centuries still to comerather than the alternative.Consequently, the elders can not mend the wounds tornintheirpsychesbytheirownconstantterrorsnor can the ycombat the multitudeof pressures that create the m.the ironlyrecourse is tomask the irboredom and horrorwithwhite-hot layers of hatred. simm nuances.Hatred comes easilyto elders, and so becomes a welcome companion, evenadiversion, onthe long and darkroad do wn into the ir own personal hells. Alwayskeepinmindtwoimportanttruthsabouthatreds, oneforyour character and oneforyou.With everygrudgeyourcharacter seizes upon to sustainhiminhisotherwiseemptyexistence, hegrowsthatmuchmoredistant from hishumanity, and that muchmoreclosetothe Beast.Likewise, the more deeplyyourcharacterfeelshishatred, the morelikelyitisthathewillacton it, and so place himself inthe position of risking evenmore of his Humanity. As anelderplayer, do n'tpass up anopportunitytoestablishanewhatred for you rcharacter, whetheritisfanndividual, alaceorevenaointofviw. Hatred can restore meaning to you r character's existence when all else has been lost.you rcharacter could suffer crushing losses that might send a lesser Kindredplummetingdownward into the depthsofdespair, nevertoescape, but sheclings toherhatredsthewaya drowning personclings toabit of driftwood. Ifyourcharacteracksevenone suchhatredyouarentetting the fulllr experience.Try creatinga situationso that you rcharacterissuretogainafocus for herate.could beaival, aninstitutionraitybutrgardlessitshoud occupy you r character'swakingthoughtsfrequently.Such emotional excesses can become the basis of some of the most challenging and memorable roleplaying experiences you'll have. Moremortantlyoweverrememberthatyouareresponsibleoru standingthatyourcharacter'shatredsarenotyourown.the factthatyourelder characterfeelsbitterhatredtoward Justine, the Toreadorwhip, do esn'tmeanthat you should eelanyanimositywhatsoevertoward Justineplayer.ndeed, ifou evercatchyourself confusingtheemotions you rcharacterexperienceswiththose that you experiencestoplayingatonceandevaluateyoursituation Roleplaying ahatred that helps you r character stave of f the crushing ennui of the passing millennia is one thing, but transferring that hatred onto real people is quite another, and it'snotacceptable.Likewise, do n'tabusetheprivilegeofplayingan eldercharacterbybringingreal-lifegrudges and problemsintothegame:If you have abeefwith another player, it's inappropriate(not to mention poor gamesmanship) to use that as an excuse to have you r character hate hers. the bottom line:Playing anelderrequires you tobeevenmoreconscien tious and responsible aboutobservingandrespectingthelinethat separatesthe gamefromreality. ## BASERPLEASURES: CRUELTYFORCRUELTY'SSAKE
 
-Roleplaying this fear should prove an exercise in common sense.Decide exactlyhowparanoidyourcharacter isaboutthe possibilitythathumansmight onedaydiscover thetruth aboutyour existenceand decidetopursueyouwith all themodern devices andweapons at their disposal.Most elders feel their blood turn towater at the very thought ofa second Inquisition sweeping across their city,and their reaction to anything that promises even the barest potential for this disaster isusually swift andharshAmongmanyelders,there isno greater crime than violation of theFirstTradition.AnyKindredwho compromises thesecurityof all shouldbepunishedbynothingshortof the Final Death.Many alsobelieve that this punishment should be inflicted ina manner asgruesome and horrible as can bedevised—thebettertodemonstratetootherwould-besecurityrisksthepenaltyofbreachingthismostsacred rule.Itis thisvery fear thatoften lies at theroot of another hallmarkofelder paranoia:fearof themodern.
+Jealouy, pitlisandntrguhsearethldrsmeatanddrink, grease that turns the wheelsof Elysium and court, and the pleasantries that divert hermind from the ghastly truth of her existence.While the se characteristics permeatenearlyall aspects of Kindred society, itis the elderswho perpetuate the m most of ten.Indeed, by applying the m consistently and judiciouslyightsaidthatlrrainucssivegnratnfam toperpetuate the se cruelties on one another and those who maybe Embraced later.you nger Kindredoften accept this treatment as aninevitable productof dwellingside-by-sidewiththeirlesshumaneldersbutuntiltheneonatesand ancillae also reach a similar age, they will not fully understandwhat drives elder vampires to the se extremes of behavior. When eldersreach the point where the gentler emotions no longer have any meaning for the m, when compassion and sympathy have vanished completelyfromtheiremotional landscape, the ymustrelyontheintentional infliction of suffering to stir the ir aged blood.The pain of others is less importantandlessmeaningfultothem, exceptasameansofexcitingtheiwn dulled senses.The elder who inflictsmisery on another Kindred do esnotcare how this pain makes her victim feel; she cares only that his suffering be sufficiently powerful that shemight observe it and enjoy the sensations it awakens with in her jaded and decayed soul, all eviating her boredom and divertingher attentionfrom otherproblems. Decidehowyoureldercharacterwill participatein this clandestinewar of intrigue.for participateshemust, lestshebethetargetofthoseelderswhodo.Will shebecomethequeenofrumorsspreadingmaliciousbutuntraceable）gossipofher enemiesfoibles, or will shemanipulateyounger Kindredintotakinguphercauses and inflictingwoundsuponherrivals?Consideryour character's long-term goals and how you canusethisaspectofelderbehaviortofurtherthem.Wanttobeprince? Startthatwhisperingcampaignearlyandbuildyouetworkofinformantsohat you always have fresh—thoughnotnecessarily accurate—information atyour fingertips.Want tobringa rival low?Focus on penetrating you rrival's defensesto locatehisweaknessandthenexploit it;onforgettodiscussamutuallybeneficial all iancewiththeotherenemiesofyourrival.Becarefulnottotipyourhandorspring you r traps too soon.you ll gainfarmore satisfactionfrom stalking you r prey and playing with you r food than devouring it who le. Eldersinflict injuryin this fashion almost outof habittheyfeud for the sakeof itratherthanforany justifiablereason.this habitrisesnotonlyfrom the need toexperience strong emotion again, but also from the stultifying boredomofnightlyfare.the sheerbanalityof the samehatreds, grudgesand fearscanbeaforcesufficienttocrushthemostresilientpiritbutitmuste so.all otherformsofconflictaretoodangeroustocontemplate, givenwhat is at stakewhenonereactstoa threatinadirectfashion.The ancient strictures of Elysiumforbid anysortofwarfaremore openthan the cuttingremarkorthe petty lie, and so the se are the weapons that eldersturn upon oneanotherfor lackof anythingmorelethal.In somewaysitisfortunateforall that this is the case, for maginethedisasterthatwouldbefallthe Camarillaiftheelderswere freetogivefullventtoallthepettyjealousiesand hatredsthatseethebeneath the dignified masks they wear in Elysium? ## BUILDINGAN ELDERPOWER BASE you are oldossibllderhanthecityrvennationnwhichyouw resideouave seencountlssnightass inceyoubracendoustan to seecountless more if you are carefulandcunning.you are closeto you r Beast. Sometimesyouthinkthat you can actuallfeelitsfetidbreathagainsttheback of you reckrfeelitscoveouseyesbuningaolinyour sullouae struggled toremainfreeof the talons that tear atyourgut, but you vebeen unable toprevent the slow, inexorable do wnward spiral.And you are afraid. you aiaalinzninntdnv and rivals and threatenedby the rapidly changingmortal worldonecannot help but wonder how elders manage tomaintain such a firm grip on the reins. iasium
 
-## TECHNOLOGY
+The answer lies in the most fundamental characteristic that defines an elder-longevity.Immortal beingswhoexperience nightly terror for the irvery existenceeitherworkferventlytoincreasetheirownpersonalpowerorelsethey perish at the handsof the stronger.Timeis the oneresource that, comewhat may, the eldershaveinabundance.Elders have spentmany mortal lifetimes learninghowtosowthe seeds of power and reapthat harvestwhiledenyingthe same benefits to others.The accumulation of hundreds of small but carefully or chestrated actions over the course of centuriescan of tenmore than of fset a reluctance toriskpotential gainona suddendecision.True, the elders of ten missopportunitiestoncreasetheirowerthroughwindfallrofitsbuttheyalo do not stand tolose all that they have accrued to a single toss of the dice. ## STATUS
 
-This aspect of the elder character's psychologyrepresents an inconvenience to you,the player.It's a fact thatmany players utilize the Internet to facilitate their roleplaying. It's a great communications tool with many applications,and it allowsplayers and Storytellers to continue the game between actual sessions.Butif the typical elderis uncomfortablewith most newerformsof tchnologyhoulnhebeequallyappreensiveabouth most recent revolution in global communications?The answer is yes, she should,andnot justbecause it's anunfamiliar tool.Encryption and safe guards notwithstanding,theInternet is a breachof the Masquerade just waiting tohappen.Talk with your Storyteller about how you can address this
+Statusisoneof the coinsof the Kindredrealm, and manyelderscannotbear tobewithoutit.the perception of strength, the favor of the harpies and the possessionof unpaiddebtsarealltrappingsof powerthataremeasuredinstatus. Thosewhopossesstatusthereforepossesstheultmatecurrencyofthenight Inthe rarified atmosphereof Elysiumor the court, onlythosewhoholdthiscoininhand can expect to enjoy the more choice benefits of Kindred society.Elders of the Toreadorclanareamong the most rominent adjudicatorsf Statusfortheyare possessedoftheabilitytojudgethevalueofstyleoversubstancebetterthananyone. Guardyour Status Traits jealously.Because Statuscanriseandfallrapidly, it is unwise torisk evenasingle Temporary Status Trait onadubious individual or cause, unlessyouknowthatyou stand togainbytheoutcome.Statusistoo precious acommodity to throwit awayfrivolously on questionableendeavors. Ifyour character enjoys numerous Status Traits, it's time to start thinking abouthowtouse the mbest.for example, you might suggest totheprince that only Kindredwhopossess acertainnumberof Status Traitsmightbeallowed togain accessto Her Majesty(justmake sure that you have the requisite numberof Traits, or mentionto the harpiesthewoefulstateof you rrivals financial conditioninordertoscore ahitonhisown Status. ## DISCIPLINES
 
-Unlessyou'reapretender,youcomefrom anagewhere significant tech nological or scientific advancement was something that happened once a century,ifthat.Nowinnovationsthatborderonthemiraculousarenowamattr ofcoursetheyoccur annuallymonthlyand sometimesnightly.venasyou sit in yourhaven andcontemplatethenext20movesinyourgameofpolitical chess againstyourhatedrival,thekine areinventing devices thatcankillmillionsin aninstant,wipeall lifefromtheplanetandleavetheearth'ssurfaceboilinghot formillennia.Even thehumans cannot keep abreast of their own progresswith anything approaching confidence!How then canyou,theproductofan agein which suchinventionswould be considered therankest andmostvile sortof heresy,hopetocomprehend thesignificanceofeach and everynewdevelopment？Thehard truth is that youcan't,and youmust increasingly turn toyour inferiorsforhelp in understanding or evenutilizing the newer technologies.
+Elders of the Sixthand Seventh Generations enjoy an additional benefit of the ir old age:they have the potential to increase the irmastery over the supernatural powersbestowed by Caine'scurse.Centuriesof practicehavemade evenpassive Disiplinesntodeadly tools Itis ironicthatmanyyounger Kinded spend the irearlyunlivesdelightinginthecapabilitiesbestowedonthembytheir bloodrightsbythetimethese Kindredreachtheageofconsideration, the yfind that the ir powers have become the weapon of lastresort.Elders have few compunctions aboutuing the irmore subtle powersparticularly do minate and Presence, stablishrauhoriterthyounge Cainiteunlywhnll other contests are ruled outor stalemated do eldersturn to the ir Disciplinesin earnest for the m eansof settlingconflicts among the mselves Touse suchgodlike for cecasuallywouldntnlahieousriskthe Masqueradebutitwould reveal toomuch of the elders'true power to thosewhocovet it.the Tremere are perhapsthe clanwith the most faithinthe security granted bytheir Discipline, thoughotherelderssmile atthispresumption. Some Master Disciplinepowerscanforeveralterthecourseofachronicle, destroying character concepts and eliminating plot threads with frightening eedetnuwlaytrl taccepttheresponsibilitythatcomeswithaccesstothesepowers you mayind that sometimes the temptation to misuse the m is nearly overwhelming, but resist:you fellowlaerswill than kyouandthegameitelfwillbenefitfm you rrestrantxercisecareanddiscretionwhenbringingthesebiggunstobear: do n'tuse abazookato shoot amosquito.Kindreddon'tbecome eldersbyusing the irmostpowerful capabilitiesroutinely or openly:Those who do so find the mselvesthetargetofunwanted attention, and are weededoutbytheirmore competentandmasterfulpersorcannibalisticchilderfyourcharacterhabors her strengthandkeeps ercoolhellgainfarmoreinthelongrunthanshewill by crushinga pesky neonatewith a swipe of her Master-level Potence. ## TAINTEDAUTHORITY:ELDERSAND OTHERCHARACTERS
 
-<!-- image -->
+Oneof the most appalling truthsthatanyyoung Kindredmust learn and, to a greaterssedegreeacceptthatthldeswhccupythpmostng of Camarilla society are n'tevergoingtowillinglystep asidetoallowtheir juniors to take the ir placein the driver's seat.Camarilla societyfunctions as the classic zero-sum game:Eachandeverywinnerexistsonlyatthe expenseofaloser.Elders can advanceintheranksof the Camarilla only onthebacksof the irrivals, but with the ancillaeandneonatespushingcontinuouslyfrombelowevenanlr who chooses toremain stationarywill earn the enmity of thosebeneath him. Elders thus occupy the keystone rolein the Camarilla, a position that brings the m into nightly contact and conflict with other Kindred.Most princes and more than a few primogen are elders.they are the visible embodimentof Camarilla society.No Kindred can affordtoignorethem, not eventherebellious anarchsorthelowly Caitiff.Dealingwithanelder atsome pointisaninevitabilityfornearlyeverymemberof the sect, whethertheylike it or not.Whilenot everyencounter with anelderneed occurintherarified atmosphere of Elysium, such interactionsina Masquerade game are much more likelytobeof the direct, rather than the indirect, variety. ## RELATIONSWITHNEONATES
 
-e
-
-issue.Shemight allowyourcharacter tobe one of the fewelderswhohas managed tokeepupwith the times and forwhom new technology holdsno inherent fear.But in games with more than a few elder characters, this exception becomes less believable anddesirable.Given the degree towhich eldersvaluetheirprivacyandpersonalsafety,itissimplybeyondthebound of believabilityforthemtosithuddled attheir computer terminalswriting messages to one another around the globe every night.TheInternet and other such devicesbelong to the younger generations,andifyour elder utilizes such technologyfrequentlyandeasilyyou aren'tgetting thefull elder experience.Consequently,try to limit the extent to whichyourelder character communicates via Internet:Itmight be less convenient for you as a player,but you'll be doing your character more justice.
-
-## PEERS
-
-Theyglidethroughthemarble hallsofElysiumwiththe same gracefulease andpredatorsmilhatutoffctforhnfitfthungen yourfellowelders.Despitethefactthatyourcharacterwill haveagreatdeal in commonwith them,don't bemisled.They aren't your friends.Theelders who dwell ina given city must deal with the omnipresent politics of scarcity that govern the ebband flowof nightly urban life.There are only so many resources-kine,Influences,Contactsetc.togo around,andmostof them areheld in thehands of theelders.Itfollowsthen thateldersmustcircle one anotherlikesharkseachhopingthatanotherwill showasignofweaknessthat allowsherto takewhat anotherhas.Eachelderknows,whethershewishesto admititornot,thatone of thefewwaystogiveherexistencemeaningisto claimvictoryoverherpeers.Otherwiseallthereacheriescrimes andsinsshe committedto achievethatvictorywerefornothing,andthethoughtofthat is simply toohateful andghastly tobear.
-
-## THE SABBAT
-
-Everyelderof theCamarillaknowsthattheSabbatisoutthere,watching and waiting for an opportunity to come howling through thenight and wreak bloody havoc on the beleaguered defenses of the Camarilla.Thisfear isnot unfounded:The vampires of theSabbatclamor loudlyfortheutter destruction of the elders as one of their sect's key principles.Every loss of Camarilla territory to its enemy sends a shiver of dread through thedecayedheartsof the elders,followed quicklybytheheatof shame andtheparching desirefor revenge.Many elders project their terror of the Sabbat onto the younger generations,usingtheirownfearstoexertyetanotherdegreeofcontrolover their progeny.The elders'desire toretake every footof ground lost to the Sabbatuostfthmaenwillngtputhmelvenhfntinf thefighteeinginsteadtmanpulatrvenordrungerinredn taking the brunt of theenemy's vicious attacks.With eachCamarilla victory seemingmorefleetingthanthelast,some eldersevenbegintoharborthe secret fear that their sect is doomed andwillfall to theSabbat'sseemingly limitless numberswithin the foreseeable future. These elders aren't wasting any more time devising stratagems to combat the enemy and instead devote their energies into creating elaborate methods of escape and defense should the worst finally occur.
-
-InsideElgsium
-
-THESUM OFALLFEARS:THEYOUNGERGENERATIONS
-
-Inyourwildestdreamsyoumightopethattheshockingspeedwithwhich changerips acrossandreshapesthefaceof theworldwould drivetheKindred whimperingintothearmsof theCamarilla,beggingforitscomfortand shelter. Butwhilethis world might seem alien and incomprehensibleto you,the youngernrationsarequitatomehrtisbyandlarge,theirworlh ancillae and neonatesgrewto adulthood andwereEmbraced amid the riotous changesthatrumblethroughthisodiousworld.Soit iswitheagerness that these younger,weakerKindredmaster soeasilywhatremainsbarelycomprehensible toyourado,evisinrpicsuleahyics,mutrsnt often,youfindyourselfonthereceivingendofanappallinghour-longlesson ontheapplicationsofonethesemarvels,duringwhichtimeadroningneonate or ancilla attemptstoinstruct youinitsfunctionandoperation.Sometimesyou think you will go mad just from the sheer horror of it all.
-
-Itwouldbealmostbearable,though,fitwerentoverylearthatt younger have somehowfallen under the spell of humanity'smost heretical notion:Technologyandchangearenotonly desirable,but necessary.Clearly, this viewpointisevidenceof a serious deficiencyof character.But likea tooth thatrotsfrom within,sotoo does theCamarilla sufferfrom thispervasive disease amongitjuniormembers.Despiteall therationales,not tomention the awesome force,that the elders can bring to bear,the twin demons of democracy andfreedomdemand tomake themselvesheard throughout the halls of Elysium.It is almost as if thesewords are a virus that theyounger Kindredcontractwhentheyfeeduponthekine,asicknessthatspreadsfurther witheachsubsequentgeneration.
-
-Fear ofyoungervampiresreflects the elder's parallel fear of her own growing irrelevancy.As anelder agesshe grows evermoredistantfrom the mortalworld,until she reaches an age at which she no longer desires to undertakethelaborsthatwouldenablehertoremainrelevant.Consequently, whenever an ambitious ancillaor energeticneonate embarks on a crusade or plan toreformthe staleandperverseworld thatisCamarilla society,theelders collaborate on his destructionor,at the very least,to thwart his plans totally.Political skullduggery,socialridicule,perversemachinationsno
-
-Considerhowyoureldercharacterwillreactwhenshehearsthesewords falleagrlyastheywillfromthelioftheyoungervampiresinlyiumo shebelievethemidlewords,littlemorethanthefollyofyouth?Oraretheya chillingreminderofanothertime,whensimilarphrasesweretheill-favored omen ofresentment thatwelled upfrom theheartsof theyoungerKindred, leadingtothehorrornowknownastheAnarchRevoltandfollowedby the founding of thehatedSabbat?Yourcharactermaywelldecide that suchtalk, however casual,is nothing less than anotherwave ofresentment building againstthewiseandexperiencedguidanceofherpeers,andthatthenevitable criesfor changewill quickly follow.Your charactermay well askherself how long itwillbebefore thesecriesforreformbring theCamarilla toitsknees.Is the sect's life spanmeasured in millennia or minutes?What canbe done to staveoffthisrot,toshoreupthecrumblingwallsofthesectbeforeitcollapses in on itself,burying everyone under itsweight?
-
-<!-- image -->
-
-ployortacticowevervilsbeyondthecaacityofanlrivenby desiretopreserve the statusquoinwhich sheis soirretrievablyinvested.
-
-## DIGNIFIEDDESPERATION
-
-Anyoneofthlersmanyfearstakeninglywouldbesuffcintode a significantimpacton theirnightlybehavior.Combined,they create a near paralysisthat preventsmanyelders fromcommitting toany courseof actionthat istaaliznrmzenif andweighedcarefullyagainstamyriadofpossibleoutcomes.Consequently,the eldersarerelativelyslowtoreactexceptinthefaceofclear,obviousthreats,and even then they often prefertostall fortimebefore acting decisively.Relativeto theiryoungerrelationstheeldersof theCamarillathus appeartobepractically unmovingasthey struggletofreezetheirpervertedsocietyinplacesothatthey neednot risk partingwith evena fraction of theirpower.
-
-Youreldercharactershould thereforeseem,atleaston thesurfaceandin public,toface theprospectofriskwith extremereluctance.Considercarefully your character'sresponse toany situation that threatens toupset herlong-term plansordisrupt the status quoonwhichherpowerbasedepends.Don'tbeafraid tobideyourtimebeforeansweringquestionsthatmight leaddownunwelcome paths;don'thesitatetomakeyourpersona'sactions seemfrustratinglyconservativeintheeyesofthemoreenergeticandyoungercharacters.Privately,ofcourse, yourcharactercangivefullventtoheremotionsparticularlywhendealingwith youngerKindredoryourownprogeny,thoughindoingsoyouruntheriskof beingperceivedassomethinglessthandignifiedshouldwordofyour outbursts reach the ever-waiting earsof your peers and enemies.
-
-## STIFLINGPARANOIA:THEHATE OFAGES
-
-Elderscollect grudges andnurse themwithalmost lovingcare,forthese are the thoughts that sustain them when other hopesandsensations growdim.Their memories are as long as their existences:They do not forget slights or insults, howevemallandtheyowforcertaintyhatonef theieerswill,et Perversely,thiscapacityforhateiswhatenables someelderstocontinue on, decadeafcadecenuryaftnury,whnverythinghan approximatesmeaning hasbeen snuffed out.Nolonger abletofeel thegentler emotions,theyclingdesperatelytothose sensationsthattheycanstill grasp.The sharp,steelypangof hatredhasenabledmore thanafewelderstopersevere through terriblecalamities and setbacksthehot,coppery tasteofvengeance yet tocomeisapleasuresorarifiedthatonlyaneldermaytrulyappreciate itssubtle
-
-Fearinevitablybreedshate.Wehatewhatwefear,andviceversa.Alone amongtheKindred,eldersknowonlytoowell themaddeningparadoxthatseeps slowlyinto thevampiresmind after theypassacertainageTheironyof their existenceisthatontheone handtheyenjoynearlylimitlesspower,butonthe other theyareheldintheinescapablegripof paralyzingfear.This sickduality weighsheavilyontheirminds,andyet theyprefertofacetheennuiofthelong centuries still to comerather than the alternative.Consequently,the elders cannotmend thewounds tornintheirpsychesbytheirownconstantterrorsnor can theycombat themultitudeof pressures thatcreate them.Theironlyrecourse is tomask theirboredom and horrorwithwhite-hot layers of hatred.
-
-simm nuances.Hatred comes easilyto elders,and so becomes a welcome companion, evenadiversion,onthe long anddarkroad down into their own personal hells.
-
-Alwayskeepinmindtwoimportanttruthsabouthatreds,oneforyour character and oneforyou.With everygrudgeyourcharacter seizes upon to sustainhiminhisotherwiseemptyexistence,hegrowsthatmuchmoredistant from hishumanity,andthatmuchmoreclosetotheBeast.Likewise,themore deeplyyourcharacterfeelshishatred,themorelikelyitisthathewillacton it,and so place himself inthe position of risking evenmore of his Humanity.
-
-As anelderplayer,don'tpass up anopportunitytoestablishanewhatred for yourcharacter,whetheritisfanndividual,alaceorevenaointofviw. Hatred can restore meaning to your character's existence when all else has been lost.Yourcharacter could suffer crushing losses thatmight send a lesser Kindredplummetingdownward intothedepthsofdespair,nevertoescape,but sheclings toherhatredsthewaya drowning personclings toabit of driftwood. Ifyourcharacteracksevenone suchhatredyouarentetting thefulllr experience.Try creatinga situationso thatyourcharacterissuretogainafocus forherate.couldbeaival,aninstitutionraitybutrgardlessitshoud occupy your character'swakingthoughtsfrequently.Such emotional excesses can become the basis of some of themost challenging and memorable roleplaying experiences you'll have.
-
-Moremortantlyoweverrememberthatyouareresponsibleoru standingthatyourcharacter'shatredsarenotyourown.Thefactthatyourelder characterfeelsbitterhatredtowardJustine,theToreadorwhip,doesn'tmeanthat you shouldeelanyanimositywhatsoevertowardJustineplayer.ndeed,ifou evercatchyourself confusingtheemotions yourcharacterexperienceswiththose thatyouexperiencestoplayingatonceandevaluateyoursituationRoleplaying ahatred that helps your character stave off the crushing ennui of the passing millennia is one thing,buttransferring thathatred ontoreal people is quite another,andit'snotacceptable.Likewise,don'tabusetheprivilegeofplayingan eldercharacterbybringingreal-lifegrudges and problemsintothegame:If you have abeefwith another player,it's inappropriate(not to mention poor gamesmanship) to use that as an excuse to have your character hate hers.
-
-Thebottom line:Playing anelderrequires you tobeevenmoreconscien tious andresponsible aboutobservingandrespectingthelinethat separatesthe gamefromreality.
-
-## BASERPLEASURES: CRUELTYFORCRUELTY'SSAKE
-
-Jealouy,pitlisandntrguhsearethldrsmeatanddrink, grease that turns thewheelsof Elysium andcourt,and thepleasantries that divert hermind from the ghastly truth of her existence.While these characteristics permeatenearlyall aspects ofKindred society,itis the elderswho perpetuate them most often.Indeed,by applying them consistently and judiciouslyightsaidthatlrrainucssivegnratnfam toperpetuate these cruelties on one another and those whomaybeEmbraced later.YoungerKindredoften accept this treatment as aninevitable productof dwellingside-by-sidewiththeirlesshumaneldersbutuntiltheneonatesand ancillae also reach a similar age, they will notfully understandwhat drives elder vampires to these extremes of behavior.
-
-<!-- image -->
-
-When eldersreach the point where the gentler emotions no longer have any meaning for them,when compassion and sympathy have vanished completelyfromtheiremotional landscape,theymustrelyontheintentional infliction of suffering to stir their aged blood.The pain of others is less importantandlessmeaningfultothem,exceptasameansofexcitingtheiwn dulled senses.The elder who inflictsmisery on anotherKindred doesnotcare how this pain makes her victim feel; she cares only that his suffering be sufficiently powerful that shemight observe it and enjoy the sensations it awakens within her jaded and decayed soul,alleviating her boredom and divertingher attentionfrom otherproblems.
-
-Decidehowyoureldercharacterwill participatein thisclandestinewar of intrigue.Forparticipateshemust,lestshebethetargetofthoseelderswhodo.Will shebecomethequeenofrumorsspreadingmaliciousbutuntraceable）gossipofher enemiesfoibles,orwill shemanipulateyoungerKindredintotakinguphercauses and inflictingwoundsuponherrivals?Consideryour character's long-term goals andhowyoucanusethisaspectofelderbehaviortofurtherthem.Wanttobeprince? Startthatwhisperingcampaignearlyandbuildyouetworkofinformantsohat you always havefresh—thoughnotnecessarily accurate—information atyour fingertips.Want tobringa rival low?Focus on penetrating yourrival's defensesto locatehisweaknessandthenexploit it;onforgettodiscussamutuallybeneficial alliancewiththeotherenemiesofyourrival.Becarefulnottotipyourhandorspring your traps too soon.Youll gainfarmore satisfactionfrom stalking your prey and playing with your food than devouring it whole.
-
-Eldersinflict injuryin thisfashion almost outof habittheyfeud forthe sakeof itratherthanforany justifiablereason.Thishabitrisesnotonlyfrom theneed toexperience strong emotion again,but also from the stultifying boredomofnightlyfare.Thesheerbanalityof thesamehatreds,grudgesand fearscanbeaforcesufficienttocrushthemostresilientpiritbutitmuste so.Allotherformsofconflictaretoodangeroustocontemplate,givenwhat is at stakewhenonereactstoa threatinadirectfashion.The ancient strictures ofElysiumforbid anysortofwarfaremore openthan thecuttingremarkorthe petty lie,andso these aretheweapons that eldersturn upononeanotherfor lackof anythingmorelethal.In somewaysitisfortunateforall thatthisisthe case,formaginethedisasterthatwouldbefalltheCamarillaiftheelderswere freetogivefullventtoallthepettyjealousiesand hatredsthatseethebeneath the dignified masks they wear in Elysium?
-
-## BUILDINGAN ELDERPOWER BASE
-
-Youareoldossibllderhanthecityrvennationnwhichyouw resideouave seencountlssnightass inceyoubracendoustan to seecountless more if youarecarefulandcunning.Youarecloseto yourBeast. Sometimesyouthinkthat youcanactuallfeelitsfetidbreathagainsttheback of youreckrfeelitscoveouseyesbuningaolinyour sullouae struggled toremainfreeof the talons thattear atyourgut,butyouvebeen unable toprevent the slow,inexorable downward spiral.And you are afraid. Youaiaalinzninntdnv and rivals and threatenedby therapidly changingmortal worldonecannot help but wonder how elders manage tomaintain such a firm grip on the reins.
-
-iasium
-
-The answer lies in the most fundamental characteristic that defines an elder-longevity.Immortal beingswhoexperience nightly terror for theirvery existenceeitherworkferventlytoincreasetheirownpersonalpowerorelsethey perish at thehandsof the stronger.Timeis the oneresource that,comewhat may,theeldershaveinabundance.Elders have spentmany mortal lifetimes learninghowtosowthe seeds of power andreapthat harvestwhiledenyingthe same benefits to others.The accumulation of hundreds of small but carefully orchestrated actions over thecourse of centuriescan oftenmore thanoffset a reluctance toriskpotential gainona suddendecision.True,the elders often missopportunitiestoncreasetheirowerthroughwindfallrofitsbuttheyalo donot stand tolose all that they have accrued to a single toss of the dice.
-
-## STATUS
-
-Statusisoneof thecoinsof theKindredrealm,andmanyelderscannotbear tobewithoutit.Theperception ofstrength,thefavor of theharpies and the possessionof unpaiddebtsarealltrappingsof powerthataremeasuredinstatus. ThosewhopossesstatusthereforepossesstheultmatecurrencyofthenightInthe rarified atmosphereofElysiumor thecourt,onlythosewhoholdthiscoininhand can expect to enjoy themore choice benefits of Kindred society.Elders of the Toreadorclanareamong themost rominent adjudicatorsfStatusfortheyare possessedoftheabilitytojudgethevalueofstyleoversubstancebetterthananyone.
-
-GuardyourStatusTraits jealously.BecauseStatuscanriseandfallrapidly, it is unwise torisk evenasingleTemporaryStatusTrait onadubious individual orcause,unlessyouknowthatyou stand togainbytheoutcome.Statusistoo precious acommodity to throwit awayfrivolously on questionableendeavors. Ifyour character enjoys numerous Status Traits,it's time to start thinking abouthowtouse thembest.Forexample,youmight suggest totheprince that onlyKindredwhopossess acertainnumberofStatusTraitsmightbeallowed togain accesstoHerMajesty(justmake sure thatyouhave therequisite numberofTraits,ormentionto theharpiesthewoefulstateof yourrivals financial conditioninordertoscore ahitonhisownStatus.
-
-## DISCIPLINES
-
-Elders of theSixthand SeventhGenerations enjoy an additional benefit of their old age:They have the potential to increase theirmastery over the supernatural powersbestowed byCaine'scurse.Centuriesof practicehavemade evenpassiveDisiplinesntodeadly toolsItis ironicthatmanyyoungerKinded spend theirearlyunlivesdelightinginthecapabilitiesbestowedonthembytheir bloodrightsbythetimetheseKindredreachtheageofconsideration,theyfind that their powers have become the weapon of lastresort.Elders have few compunctions aboutuing theirmore subtle powersparticularlyDominate and Presence,stablishrauhoriterthyoungeCainiteunlywhnll other contests areruled outor stalemated do eldersturn to theirDisciplinesin earnest forthemeansof settlingconflicts among themselvesTouse suchgodlike forcecasuallywouldntnlahieousrisktheMasqueradebutitwould reveal toomuch of theelders'true power to thosewhocovet it.TheTremere are perhapsthe clanwith themost faithinthe security granted bytheirDiscipline, thoughotherelderssmile atthispresumption.
-
-<!-- image -->
-
-SomeMasterDisciplinepowerscanforeveralterthecourseofachronicle, destroying character concepts and eliminating plot threads with frightening eedetnuwlaytrl taccepttheresponsibilitythatcomeswithaccesstothesepowersYoumayind that sometimes the temptation to misuse them isnearly overwhelming,but resist:Youfellowlaerswill thankyouandthegameitelfwillbenefitfm yourrestrantxercisecareanddiscretionwhenbringingthesebiggunstobear: Don'tuse abazookato shoot amosquito.Kindreddon'tbecome eldersbyusing theirmostpowerful capabilitiesroutinely or openly:Those who do so find themselvesthetargetofunwanted attention,andareweededoutbytheirmore competentandmasterfulpersorcannibalisticchilderfyourcharacterhabors her strengthandkeeps ercoolhellgainfarmoreinthelongrunthanshewill by crushinga pesky neonatewith a swipe of herMaster-level Potence.
-
-## TAINTEDAUTHORITY:ELDERSAND OTHERCHARACTERS
-
-Oneof themost appalling truthsthatanyyoungKindredmust learn and,to a greaterssedegreeacceptthatthldeswhccupythpmostng ofCamarilla society aren'tevergoingtowillinglystep asidetoallowtheir juniors to take their placein thedriver's seat.Camarilla societyfunctions as theclassic zero-sum game:Eachandeverywinnerexistsonlyatthe expenseofaloser.Elders can advanceintheranksof theCamarilla only onthebacksof theirrivals,but withtheancillaeandneonatespushingcontinuouslyfrombelowevenanlr whochooses toremain stationarywill earn the enmity of thosebeneath him.
-
-Elders thus occupy thekeystone rolein the Camarilla,a position that brings them into nightly contact and conflict with other Kindred.Most princes and more than a few primogen are elders.They are the visible embodimentof Camarilla society.NoKindred canaffordtoignorethem,not eventherebellious anarchsorthelowlyCaitiff.Dealingwithanelder atsome pointisaninevitabilityfornearlyeverymemberof thesect,whethertheylike it ornot.Whilenot everyencounter with anelderneed occurintherarified atmosphere ofElysium,such interactionsinaMasquerade game aremuch more likelytobeof the direct,rather thantheindirect,variety.
-
-## RELATIONSWITHNEONATES
-
-Mosteldersbelieve that thebestwaytorearchilder iswitha generous helpingofharshdisciplinecoupldwithconstant admonitionsagainstth evils of rebellion anda pernicioushatred of theSabbat.Theybelieve that in sodoingtheyinstill withintheirprogenytherequisiteattitudes andbeliefsthat will keep them in lineSome elders,notably theMalkavian andNosferatu, believe that strict controlonlymakeschilder evenmorerebellious; they advocatelessharshtreatmentofneonatesandbelievethiswill stemthelow oftheyoungestCamarillavampireswhorejecttheir siressectinfavorof the whatstnatewantettereatntbtradicalhangenth foundationandsurstructuefKindredocitymthnghyarenll to achieve as long as the elders are making the rules.
-
-InsideElgsium
-
-<!-- image -->
+Mosteldersbelieve that the bestwaytorearchilder is with a generous helpingofharshdisciplinecoupldwithconstant admonitionsagainstth evils of rebellion and a pernicioushatred of the Sabbat.the ybelieve that in sodoingtheyinstill with intheirprogenytherequisiteattitudes and beliefsthat will keep the m in line Some elders, not ably the Malkavian and Nosferatu, believe that strict controlonlymakeschilder evenmorerebellious; they advocatelessharshtreatmentofneonatesandbelievethiswill stemthelow of the you ngest Camarillavampireswhorejecttheir siressectinfavorof the what stnatewantettereatntbtradicalhangenth foundationandsurstructuef Kindredocitymthnghyarenll to achieve as long as the elders are making the rules. Inside Elgsium
 
 ## RELATIONSWITHANCILLAE
 
-Individualancillaewieldonlymarginalpower,butcollectivelytheyformthe "middle class"onwhichmuch of theCamarilla's past achievements and future survivalendruatelorlderKindredthnillaareasdividedbylan rivalries andpetty grudges as the elders themselves,making any significant organizationamngtheirranksulielyatesteverthlemanylrsa exactlythatpotential,andwithgoodreason:Mostofthemrosetopowerthrough secretarrangementswithotherancillaeThustheyhabituallyremainalertr signsof similarpactsamongtherankandfile,andactquicklytorenderthemnull andvoid,sometimesunitingbrieflywithothereldersforthepupose,only return to theirmutual jealousieswhen the threat isquashed.
-
-Elders often devote extensive time and energy exercising subtle control overancilla pawns through a systemofjudiciousrewards andpunishments.But this sort ofmanipulation is a double-edged sword.Themore capable the ancilla,thegreaterherrewards are.utthemorerewardssheearns,themore powerfulshegrows.Eventually,shegrowstoopowerfulandbeginstobecome a source of anxiety toherelderpatronswhocannothelpbutfear thather ambitionswillturnnexttowardwhattheypossessandcontrol.Thustheelders make every effort to slow thepace of advancementwithin Camarilla society inordertoprevent theancillae from accumulatingpowertooquickly.Buteven this stratagemhasitsdrawbacks,as theancillaenevitablychafewithfrusta tion atthetortuously slowpace of theirclimbthrough theranks.
-
-## INTERACTION GUIDELINES:DO'SAND DON'TS
-
-Docultivatethekeyelementsofelderbehavior-fear,hatredandcruelty. These are theindispensable elements ofyour elder disguisekit.Remember, though,thatanelderkeeps theseemotions subduedwhiledisplaying theall importantveneerof surfacecalm,whetheryou'reonthegivingorreceiving endofaninconvenience.Noelderworthyof thetitle loseshiscool over meaninglessinsultshurledby socialnobodies,orengagesinpettybickering withriffraffSave yourfull vampiricrageforclimactic scenesinwhichitwill heightentnsin,ratherhanuleashingeverytme some snotnosed anarh punk sticks her tongue out atyou.
-
-Don'tmisuseyour character.Demanding that everycharacter younger thanyours bend thekneeordieis agross abuseof yourcharacter's authority androleinthe game.Usingyour character's age as a clubwithwhichtobeat other playersso thatyoucan"win"is thehallmarkof the abusive player.he objectfhgameisoavefunanditshbjctfallhelayrsotut you.Ifyoucan't havefunplayingyour eldercharacterwithoutbeingabusive, do everyone else a favor and don't play at all.
-
-Do find reasons to interact with other characters.You'renot doing yourself or anyone else anyfavorsbyhugging thedarkcornerforthe entire game session. While it's true that your eldercharactermay have little usefortheyounger membersftheectoumustrecognizeasalayerthatthegamecannotrocee if thecharacterdoenotmakeatleasta tokenfort toapproachothersandbe approachablnateandancillamaybeannoyingbutthyaealssl Does your characterreally want to do all her dirty workherself?Didn't think so. Sopersuadcham,sdublackmailnmidatandthrwismanipua
-
-<!-- image -->
-
-othercharactersintohelpingyougetitdoneThissimultaneouslyadvancesyour character'sgoals,whilehelping other playersgetinvolved inthegame.
-
-Don't hog the spotlight.You aren't the only player in the game, and althougheldersplayakeyroleingamessetinCamarillacontrolledcitiesbe sure togiveotherplayers ample opportunity to shine.You'll makea lotmore friends and contribute more to the chronicle by helping others to enjoy themselves than you will by demanding all the attention.
-
-## ELDERS CLAN BY CLAN
+Individualancillaewieldonlymarginalpower, but collectivelytheyformthe "middle class"onwhichmuch of the Camarilla's past achievements and future survivalendruatelorlder Kindredthnillaareasdividedbylan rivalries and petty grudges as the elders the mselves, making any significant or ganizationamngtheirranksulielyatesteverthlemanylrsa exactlythatpotential, and with goodreason:Mostofthemrosetopowerthrough secretarrangementswithotherancillae Thustheyhabituallyremainalertr signsof similarpactsamongtherankandfile, and actquicklytorenderthemnull and void, sometimesunitingbrieflywithothereldersforthepupose, only return to the irmutual jealousieswhen the threat is quashed. Elders of ten devote extensive time and energy exercising subtle control overancilla pawns through a systemofjudiciousrewards and punishments.But this sort of manipulation is a do uble-edged sword.the more capable the ancilla, the greaterherrewards are.utthemorerewardssheearns, the more powerfulshegrows.Eventually, shegrowstoopowerfulandbeginstobecome a source of anxiety toherelderpatronswhocannothelpbutfear that her ambitionswillturnnexttowardwhattheypossessandcontrol.Thustheelders make every effort to slow the pace of advancementwithin Camarilla society inordertoprevent the ancillae from accumulatingpowertooquickly.but even this stratagemhasitsdrawbacks, as the ancillaenevitablychafewithfrusta tion atthetortuously slowpace of the irclimbthrough the ranks. ## INTERACTION GUIDELINES:DO'SAND do N'TS do cultivatethekeyelementsofelderbehavior-fear, hatredandcruelty. the se are the indispensable elements of you r elder disguisekit.Remember, though, that anelderkeeps the seemotions subduedwhiledisplaying the all importantveneerof surfacecalm, whetheryou'reonthegivingorreceiving endofaninconvenience.Noelderworthyof the title loseshiscool over meaninglessinsultshurledby socialnobodies, or engagesinpettybickering with riffraff Save you rfull vampiricrageforclimactic scenesinwhichitwill heightentnsin, ratherhanuleashingeverytme some snotnosed anarh punk sticks her tongue out atyou. do n'tmisuseyour character.Demanding that everycharacter you nger than you rs bend the kneeordieis agross abuseof you rcharacter's authority and roleinthe game.Usingyour character's age as a clubwithwhichtobeat other playersso that you can"win"is the hallmarkof the abusive player.he objectfhgameisoavefunanditshbjctfallhelayrsotut you.Ifyoucan't have funplayingyour eldercharacterwithoutbeingabusive, do everyone else a favor and don't play at all. Do find reasons to interact with other characters.You'renot do ing you rself or anyone else anyfavorsbyhugging the darkcornerforthe entire game session. While it's true that you r eldercharactermay have little usefortheyounger membersftheectoumustrecognizeasalayerthatthegamecannotrocee if the characterdoenotmakeatleasta tokenfort toapproachothersandbe approachablnateandancillamaybeannoyingbutthyaealssl do es you r characterreally want to do all her dirty workherself?did n't think so. Sopersuadcham, sdublackmailnmidatandthrwismanipua othercharactersintohelpingyougetitdone this simultaneouslyadvancesyour character'sgoals, whilehelping other playersgetinvolved inthegame. don't hog the spotlight.You aren't the only player in the game, and althougheldersplayakeyroleingamessetin Camarillacontrolledcitiesbe sure togiveotherplayers ample opportunity to shine.You'll makea lotmore friends and contribute more to the chronicle by helping others to enjoy the mselves than you will by demanding all the attention. ## ELDERS CLAN BY CLAN
 
 BRUJAH
 
-Elder Brujah are forced towalk an unenviable tightrope.You must somehowovercomeyourclan'sIconoclastimageinordertobeacceptedand taken seriously by your elder peers,and yet by doing so you risk losing credibility among thejuniors of your blood.Contemptuous pronouncements of "Upstart"might be followed by outraged cries of"Sell out!"if you aren't careful inpresentingyour publicfacetotheserivalfactions.Ifyou'rea truly ancientrujahonewhorecallsthegloriesofCarthage,fornstanceay careful attention to choosingmotivations thatfurther the goals anddreams still burning brightly in the memory,if not in the heart.
+Elder Brujah are for ced towalk an unenviable tightrope.You must somehowovercomeyourclan's Iconoclastimageinordertobeacceptedand taken seriously by you r elder peers, and yet by do ing so you risk losing credibility among the juniors of you r blood.Contemptuous pronouncements of "Upstart"might be followed by outraged cries of"Sell out!"if you aren't careful inpresentingyour publicfacetotheserivalfactions.Ifyou'rea truly ancientrujahonewhorecallsthegloriesof Carthage, for nstanceay careful attention to choosingmotivations that further the goals and dreams still burning brightly in the memory, if not in the heart. The elders of this clan are something of a mystery to the ir juniors. To you nger Brujahtoftenseemsasifthefiresofrebellionthatonceburnedin the breasts of the ireldersmust have been extinguished at somepoint.Almost all the oldermembersofthisclanrealize, eventually, that revolutionforitown sake leadsonly toawaste of resources, and sothe elder Brujah turn the ir attentionstowardsubverting and controlling the systemfromwithin.It is for this reasonthatmanyelder Brujah are consummatepoliticiansandpowerbrokersandit is why somanyyounger Brujahbelievethattheirelershave sold the m out to become card-carrying members of the Camarilla's "old vampirenetwork.The truth is that you nger Brujah, filled with the fire of revolt, have almostno hope of understanding the ir elders, who se ancient dreamof are built Carthagestill flickersbehindtheirthoughtful expressions. ## MALKAVIAN
 
-The elders of this clan are something of a mystery to their juniors. To youngerBrujahtoftenseemsasifthefiresofrebellionthatonceburnedin the breasts of theireldersmust have been extinguished at somepoint.Almost all theoldermembersofthisclanrealize,eventually,thatrevolutionforitown sake leadsonly toawaste ofresources,andsothe elderBrujah turn their attentionstowardsubverting andcontrolling thesystemfromwithin.It isfor thisreasonthatmanyelderBrujah areconsummatepoliticiansandpowerbrokersandit iswhy somanyyoungerBrujahbelievethattheirelershave sold them out to become card-carrying members of the Camarilla's "old vampirenetwork.The truth is thatyounger Brujah,filled with thefire of revolt,have almostno hope ofunderstanding their elders,whose ancient dreamof arebuiltCarthagestill flickersbehindtheirthoughtful expressions.
+Embodying the elder Malkavian's enigmatic lunacy isn't a task for inexperienced players.Elder Malkavians have the benefit not only of the lunaticinsightbuttheadvantageof seeingthemodehroughhecracked lens of the past.you knowonlytoowell that the signsofmminentandradical changeareeverywheretobeseen, and you should considerhowyourbehavior will reflectthetruthsandporrents you seeinthenight.what is itthatyou hear the lfkaangstaticsng and dangerous Kindred to claimmembership in the Camarilla.they know that onlytheycanperceivethatwhichistrulymortant, and that onlyfty payattentiontothese signs and portentswill the ytruly understand the riddle that is the ir existence.Those who refuse to see the se thingsthat is, almost all other Kindred earn only scant attention from the elders, who are increasingly concerned onlywith comprehending the ominous pattern the ir fracturedvisionsreveal to the m. sium
 
-## MALKAVIAN
+Inside El that you wishtorelatetootherainitesandhowdeswhatyouveseeninages beforerelate towhatyou're sensingnow? ## NOSFERATU
 
-Embodying the elder Malkavian's enigmatic lunacy isn't a task for inexperienced players.Elder Malkavians have the benefit not only of the lunaticinsightbuttheadvantageof seeingthemodehroughhecracked lens of the past.Youknowonlytoowell that the signsofmminentandradical changeareeverywheretobeseen,andyoushouldconsiderhowyourbehavior will reflectthetruthsandporrents youseeinthenight.Whatis itthatyou hear
+Itisliklyhatnlyheosferatufallhlanssuectw costlychoosingtheincorrectcourseofactionwillbeat this dangerouscrossroads in Kindred history.Neverhave the yfeltlesscertain aboutwhat they should do and neverqutesoaloneandisolatedotonlyfmthelrsftherlansb from they oungermembersoftheirownaswell.Elder Nosferatuhearthestealthy approachof the legendary Nicktukuintheechoofevery sound that permeates the irunderground lairswhilethemodernworldabovereshapesitselfahundred timesina singleyear, changes spurredonby technological advancementswith which even the semasters of information are hard-pressed tokeeppace:Many prefertoplaythewaitinggametheyknowsowell, hopingthatthepropercourse of actionwill reveal itself if the ywait and watch just a littlelonger. the elder Nosferatu characterfinds that timeisrunningouttoofastfor him torely on his clan's customary reticence and careful neutrality to see him throughwhat hefearsmay becoming.Any scrapofinformation, no matter how trivialitemsmaybeavitalluthatwillhelpyoudetrminethepo course of action—you can't afford toplay the same games that all owed you togatherthisdata slowlyandcarefullyinthepast.you fearthatyou'rerunning outoftimeandthatifyoudongetsomeanswersyoucantrustveryquickly you rinability toseeaclearpathmaywell do omnotonlyyourself but you r clanmatesaswell.Desperationisn'tacharacteristicof the Nosferatubutou feel it gnawing at you rgut and mindwith increasingfrequency. ## TOREADOR the heartoftheelder Toreadormust surelyknow the coldgripof desperation.The artforms she knew and lovedin heryouth are nowmusty relicsofbygonenightsfitonlytobemockedandridiculedoratbestmitatd with outfeelingorsubstance can artevenbesaidtohaverelevanceinaworld where artistsseemtoexistonlytoteardown anyformofexpressionthatisnot a product of the ir own technologicallyincomprehensibleworld?Some Torea do reldersactuallymanage tocling totheir preferred artformsdespite the se assaultuvenhyinlitllacewrfnaristav from the emotions that or iginally droveherto create of tenlosesthe ability to reflect anything even remotely human, despite its technical brilliance. Elder Toreador of ten lash out blindly at the you ngermembers of the ir how dare the sechilder atempt tosetfootonthevery path that you have alreadydeterminedishollowatbest?why should the yknowthejoyofcreation with out the burdenof pain?Some ancient Toreadorseek tobeguilethetedium byconcoctingositivel Byzantineshemesofsocialmanipulationdesgd sometimestoimprove the irownsocial or political standing, and sometimes simply toinflict asmuchmisery as possible on someone.If you have few Morality Traitsyoumaybegintodelveintoshockingldegeneratebehavirs that you claminspireyoutoneweghtsofatistrybutwhichntuthserv only to satisfy you r growing demand for new and different pleasures. ## CREATINGELDER CHARACTERS
 
-Thelfkaangstaticsng and dangerousKindred to claimmembership in the Camarilla.They know thatonlytheycanperceivethatwhichistrulymortant,andthatonlyfty payattentiontothese signs andportentswill theytruly understand theriddle that is their existence.Those who refuse to see these thingsthat is,almost all other Kindred earn only scant attention from the elders,who are increasingly concerned onlywith comprehending the ominous pattern their fracturedvisionsreveal to them.
+Because Generation is a Background Trait acquired in exactly the samr creatednodifferentlythanothercharacters.Referto Lawsofthe Night and the earlier chapters of this book for all the tools necessary for creating you reldercharacter the onlyexceptiontothis situation is f you r elderisa Narratorcharacter and the Storyteller has some special plans for her role in the chronicle. ## TREMERE
 
-sium
+Untilrecently, Tremereeldersfelta smug self-assurance that the irdominion overmagicwould enable the mto survive what evermaybe ahead for the Kindred ingeneral, and for the Camarilla in particular.but when the Assamites somehowthrewofftheirancientcurse, the eldersconfidencefadedrapidly.Now the yfacedestructionanddiablerieatthehandsoftheirancientenemies, and no longerdotheyfeelsafe Despitethisdisaster, elder Trmerehavelesstofearfrom the ir juniors, than ks to the strictdiscipline of the ir clan structure. ## VENTRUE
 
-InsideEl that youwishtorelatetootherainitesandhowdeswhatyouveseeninages beforerelate towhatyou're sensingnow?
+Elder Tremereoftenbehave inamanner that seems designed to throw the ir heartless nature into sharprelief.Itisnot that the Tremere are inherently morecruelthanother Cainites, but ratherthattheyareoftenbetterprepared toaccepttheinevitablepriceof the irunlivingcondition.you rattitudetoward you r own powerswill inpartdetermineyourbehavior:Do you believefirmly that Thaumaturgy holds the key to surviving Gehenna and rulingwhatremains of the Kindredafteritpassesordoyouprefertoutilizeyourmagicalheritage in or der topursue the mysteries of the universe and ignore all that political claptrap?is you r control of the arcane arts atool that will all owyou to amass evenmorepower, or have you yettocometotermswithyourthaumaturgical abilities, making you indeed a rarity with in the Tremere ranks? In the semodern nights, the Ventrue feel the mselves surrounded by a sea of dangers.Claiming that they bearthe burdenof guiding the ir fellow Kindred into the future, the yfeelthe Camarilla'recent losses againstthe Sabbatquite sharplyindeed.Yetevenwhiletheypointtothese setbacksasevidencethat the other clansmust contribute more effort to shoring up the Camarilla's defenseth Ventuacertainthathveryindthyareatmting protectareworkingatcross-purposesto the m.Somemightevenbeobstructing the Ventrue plans to defend the Camarilla deliberately, a concern that frustrates even the most junior bean counter in the clan's ranks. Ventrue eldercharacters are the very soulofnobility.the irpridebordes ham-handed effortsof the irbrethren of tenexpressesitselfascondescension You mayhavebeenhelpingcarrythe Camarillaburdenfortheentiretyof the ect's existencendwilumigstilletinblsseblevenrl patience growsthin.The thoughtthat otherclansmightbe thwarting you r clan's effortsteendtamarillaendyountpaxymfraeecialln you comparethisingratitudetoall the battles and crisesthe Ventrue have facedon the Camarill'sbehalf.The time is comingwhenyou feel that the clanmay have nootherchoicebuttoimposeorder, whethertherestof the clanslikeitornot. ## STORYTELLINGFOR ELDERS
 
-## NOSFERATU
+Ideally, you should treatelder charactersinyourchronicleasyouwould spicesinameal.they'remeant toseason and accentuate the mainingredientsof a dishotvowerthavorlrscanbeeasilvused, obecauu when addingmoreof the mtoanexisting chronicle the bulkof Kindred society is comprisedofneonates and ancillae.the actualnumberofeldersinagivengame can varydependingonthegame'sfocus and scope.Ifyou'retellingastoryformore than30charactersyouerobablygoingtohavealargerrcentageflersn the game than ina storyfora do zen characters.how ever, the numberofelders in any given game isn't as important ashowwellandconsistently those characters are played, and how well you weave the m into the tale. ## ELDERMOODS
 
-Itisliklyhatnlyheosferatufallhlanssuectw costlychoosingtheincorrectcourseofactionwillbeat thisdangerouscrossroads inKindred history.Neverhave theyfeltlesscertain aboutwhat they shoulddo andneverqutesoaloneandisolatedotonlyfmthelrsftherlansb fromtheyoungermembersoftheirownaswell.ElderNosferatuhearthestealthy approachof thelegendaryNicktukuintheechoofevery sound that permeates theirunderground lairswhilethemodernworldabovereshapesitselfahundred timesina singleyear,changes spurredonby technological advancementswith which even thesemasters of information are hard-pressed tokeeppace:Many prefertoplaythewaitinggametheyknowsowell,hopingthatthepropercourse of actionwill reveal itself if theywait andwatch just a littlelonger.
+Eldersradiatemenace and embody the very essenceofpower.they can quiet anentire room with the irinhuman attitudes and appearance;they can tip the balanceof powerinanentirecitywithafewwell-chosenwords.Workwith the playerswhowill play the eldersinyour chronicle to create the moodyou desirebyhelping the mhighlight the ircharacters'distance from Humanity.By providingthemwithreasonstobeenviousandfearfulofoneanother, you create amoodofblackparanoia as the elders beginplotting against one another. Encourage the seplayers to involve the othercharactersintheir schemes;this heightens the tensionandinvokes amoodof jealous suspicionormanicfear, depending on the lengths towhichthe eldersgo toachieve the ir ambitions. ## ELDERTHEMES
 
-TheelderNosferatu characterfinds thattimeisrunningouttoofastfor him torely on his clan's customary reticence and careful neutrality to see him throughwhat hefearsmay becoming.Any scrapofinformation,no matter howtrivialitemsmaybeavitalluthatwillhelpyoudetrminethepo course of action—you can't afford toplay the same games that allowed you togatherthisdata slowlyandcarefullyinthepast.Youfearthatyou'rerunning outoftimeandthatifyoudongetsomeanswersyoucantrustveryquickly yourinability toseeaclearpathmaywell doomnotonlyyourself butyour clanmatesaswell.Desperationisn'tacharacteristicof theNosferatubutou feel it gnawing at yourgut and mindwith increasingfrequency.
+Elders embody myriad and of ten contradictory the mes, most of which workvery well as the central idea of a chronicle.Here are some examples: Spoiled Love:What turns love into hate, or worse, indifference?How Kindredcopewhenalovetheythoughtwasgenuine turnsout tobecorruptandfalse? Why can't Kindred maintain the ir hold on the finer emotions they knewin life? Thwarted Ambition: What happens when we don't get what we want most? Who do we damage when pursuinggoals that remainjust outof ourreach?What sorts of revenge do es a heart devisewhen it is deniedits innermost desires? Inner Decay:Is every elder corrupt?how do es the ir compromised integrity affectthe Camarilla is therotvisible, or hiddenlikeadiseasethatrotsatreefrom with in?Can you nger Kindred do anything to combat this problem? Repression and Rebellion:What hope do you nger Kindred have in a societywhere the elders cling tooldglories and undeserved authority with bloody talons?What happens in a city where in the you ng dare to ask this question, and are metwith a backlash of furious anger from the ir elders? ## how TOKEEpELDERSBUSY
 
-## TOREADOR
+Elders are some of the most useful plot devices in the Storyteller's toolkit. Entireplotscan hang onelder charactersorbedriven by the ir actions.Unfortu natelyhaactercanawputanntiltwihwillchsen or actions, of tenunintentionally.how do you achievetheformerutilitywithout sufferingthelatterdisaster?Firstchoosetherightplayersforeldercharactersand the ncommunicate clearly and consistently with the m.If you hand outelder characterstjustanylayerandfailtdescrbeourexpectationsyoullhave one toblamebutyourself for the disasteryou'veunleashedonyourgame. Describe to the elder playerswhat sort of story you want to tell, and solicittheirfeedback.do n'tbe afraid to shareyour thoughts onmood and the mewith the m;ifyou trust the m enough to play elder characters, you might aswell trust the m to collaborate with you.Get the ir input;ask the m what they'd liketheircharacterstodointhestory, and talkabouthowthe characterscanpursuetheirgoals activelybutindirectly, so asnottoturneach game into a Discipline stand-of f.Encourage the m to involve other charactersintheirmachinations, and teach the m how tosharethemainplotswith otherplayercharactersratherthan accruing all the story threadsfor the mselves.Help the m understand that when they foster intrigue and tension throughtheircharacters, itpaysofforeveryonewho is playinginthegame. Communicatewiththeplayerswhile the yarecreating the ireldercharacters.If the re are multiple elder characters inyour chronicle, do you rself and you r players afavor by suggesting some threads of commonhistory between the m.Ifthey'veallbeenin the samecitytogetherforany lengthof time, they should definitelybegin the gamewithat least one healthyrivalryper elder character, as well as an assortment of grudges, intrigues and gossip bubbling merrily away under the surface.None of the serelationships or idiosyncrasies need be obvious to the other characters when the storybeginslet the m discoverthis seethingcauldronof troublenaturally.Encourage elderplayersto createdetailedcharacterhistoriesandperhapsofferabonus Freebie Traitr twofor thosewho build useful story hooks into the ir backgrounds. ## DISCIPLINING ERRANT ELDERS
 
-TheheartoftheelderToreadormust surelyknow thecoldgripof desperation.The artforms she knew and lovedin heryouth are nowmusty relicsofbygonenightsfitonlytobemockedandridiculedoratbestmitatd withoutfeelingorsubstanceCanartevenbesaidtohaverelevanceinaworld where artistsseemtoexistonlytoteardown anyformofexpressionthatisnot a product of their own technologicallyincomprehensibleworld?SomeTorea doreldersactuallymanage tocling totheir preferred artformsdespite these assaultuvenhyinlitllacewrfnaristav from theemotions that originally droveherto create oftenlosesthe ability to reflect anything even remotely human,despite its technical brilliance.
+Most players present no problems, and they will both appreciate you r efforts at telling good stories and be eager tocooperatein helping you do so. Keep aweathereyeout for the player who do esnt.In games where the reis only one elercautionthatlayeragainst actingettyandpitful:hissort behaviillyhaqulaeay abuses his elder character's powers or authority.Powergamerscanbe a nuisance in anygame session;apowergamer with aneldercharactercandestroyanentire chronicle you recognizethese players fast they're the oneswhogetacheap ego trip at the other playersexpense.the re is no excuse for all owing players of this naturetoruin the game for everyoneelse.If you observeaplayerbehaving inthisfashionatheerleastyoumusttakethatlayerasdeassoonasoibl and explainwhythissortofbehaviorisunacceptable.do n'tbeconfrontational the gameis supposedtobeplayed-but befirmnonetheless you rgoalistotell a storythatallowsallthelayerstohaveunandyoueedthesupportofeach playerinordertoreachthatgoal.Considercarefullywhethertoallowtheplayer toreturn to playwith an elder character;if you decideto all owhim todo so, continue towatch him carefully for any problematic behavior.If the player persistsdespiteyourattempts toexplaintheproblem, the nremovehimfromthe game at the earliestpossible opportunity. ## CHIAPTER FIVE: TIE E CITY
 
-ElderToreador often lash out blindly at the youngermembers of their Howdare thesechilder atempt tosetfootonthevery path thatyou have alreadydeterminedishollowatbest?Whyshould theyknowthejoyofcreation without theburdenof pain?Some ancientToreadorseek tobeguilethetedium byconcoctingositivelByzantineshemesofsocialmanipulationdesgd sometimestoimprove theirownsocial orpolitical standing,andsometimes simply toinflict asmuchmisery as possible on someone.If you have few MoralityTraitsyoumaybegintodelveintoshockingldegeneratebehavirs that youclaminspireyoutoneweghtsofatistrybutwhichntuthserv only to satisfy your growing demand fornew and different pleasures.
+## where ITALLGOESDOWN
 
-<!-- image -->
+It is easy to overlook the importance of the city you r Masquerade chronicleissetin.of ten, it'sjusttheplacewherethings happenasomewhat vaguebackdropforadventures, left largelyundefined exceptperhapsforafew details here and the re. the re's muchmore toa city than that, though.Itis a vampire's lifeline the only thing that all ows him tocontinue his existence.Only large gatherings of humansallowvampirestogather;fterallwithoutblood, avampirecannot survive.And whilemany vampires deem the mselves tobethehidden masters of the human society, the yarestillquitedependentonthevery societythey claim to control. This chapter is primarily intended for Storyteller use.It do esn't contain any secrets, solayerscanread itwithoutfelingguiltyowever, tsprmary use is increatingcitiesfor Masqueradechronicles, and it'sthus likelytobefar more useful to Storytellersthanit is toplayers.that said, readingthroughthis chapterwill probablyhelpplayersthinkof the citywherethegametakesplace asmorethanjustagenericlocation Inadditionlayerswill getomensght into the lifeofa Camarillavampire. ## IFYoU BUILD IT, the r WILL COME
 
-## CREATINGELDER CHARACTERS
+Fictional citiesgiveyoualotof leeway;afterall, you can dowhateverou want, and ncanlluthatuotmthingwrngweverta more than justcomingup with aniceround numberforthepopulationandacool
 
-Because Generation is a Background Trait acquired in exactly the samr creatednodifferentlythanothercharacters.RefertoLawsoftheNight and the earlier chapters of this book for all the tools necessary for creating youreldercharacterTheonlyexceptiontothis situation isf your elderisaNarratorcharacter and theStoryteller has some special plans for her role in the chronicle.
+Ifyou feel likecreating acityofyourow, you probablyhave someind of anieforiteadytmayotbeanythingveryfinitthen agan, t do esn'thavetobe.slongasyouhaveaconcetfwhatyouregoingforyou creating a character;the detailsmay be different, but the process is much the sametallcomesowntoworkinguomandea, stagebystagebitbybit, untilurachwhatveritshatouwantedfoursreworkoen creating anntirecitythancreatinginglecharacter, but when brokenw, the process is very similar. ## FRIENDLYWORDSOFADVICE,PARTONE
 
-## TREMERE
+Using all of the techniques and ideas described in the following textmaywell lead toanextremely detailedandcomplicatedchronicle that the players will love to death.To the Storytellers death, that is. The workload can beenormous, especially if you are new to the game. It's strongly recommended that you read the material, write do wn not es about the things you think you should incorporate into you r chronicle and the n try and come up with a list of things you think you can handle with out being reduced to a gibbering nervous wreck.Be realistic!Rememberthatif you find out later that you can handlemore than you redoing at the moment, you can always increase the levelof detailandthegamewillonlyimprovebutremovingdepthfromthe gamemay cause problems if players have become accustomed things that are no longer the re.Most sections won't have a"you don't have to use all or any of this disclaimer;you should assume that to be in effect at all times. Also, keepinmind that fiveitemstokeep trackofwon simply be five times the workload of a single item.When all of the se items begin tointeractwith each other and the player'scharacters, you can expect you r workload to increase exponentially. In short, don't bite of f more than you can chew. ## LOCATION
 
-Untilrecently,Tremereeldersfelta smug self-assurance that theirdominion overmagicwould enable themto survive whatevermaybe ahead for the Kindred ingeneral,andfortheCamarilla in particular.ButwhentheAssamites somehowthrewofftheirancientcurse,theeldersconfidencefadedrapidly.Now theyfacedestructionanddiablerieatthehandsoftheirancientenemies,andno longerdotheyfeelsafeDespitethisdisaster,elderTrmerehavelesstofearfrom their juniors,thanks to the strictdiscipline of their clan structure.
+First of all you need todecidewhereyourcityis.the remay beinstances when you prefer to leave the actual location somewhat vague — after all, placing Gotham City or otherfictional cities on amap can of ten be difficult atbest, and do ing somight even detract from the moodit do esn't really matterwheretheyare, aslongastheplacefeelsright Stillevenifyouregoing framoodlikethisitsgoodtocomeupwiththeapproximatelocationofte city.Knowingwhere you r city is can be avery importantfactorin deciding what you rcityfeelslike.Acitylocatedinthemiddleofadesert is goingtobe New or leansforas Vegas.Clmate and resourcescanalsobeeasilydecided onceyouknowwhere the cityisand from the reyoucanmoveontowhat kind of industries the city has.Mining?Fishing？Tourism?It all depends on where you are. ## INFRASTRUCTURE the re are do zens of questions you must answer.Is the re a subway system? amaze of small streets and all eys?do es it have sections where ethnic groups amari
 
-## VENTRUE
+Hude have settleda Chinatown, or a Little Italy do esithaveslums is itmodern and shiny, or old and built largely of stone
 
-ElderTremereoftenbehave inamanner that seems designed to throw their heartless nature intosharprelief.Itisnot thattheTremere areinherently morecruelthanotherCainites,butratherthattheyareoftenbetterprepared toaccepttheinevitablepriceof theirunlivingcondition.Yourattitudetoward your own powerswill inpartdetermineyourbehavior:Do youbelievefirmly thatThaumaturgy holds thekey to survivingGehenna andrulingwhatremains of theKindredafteritpassesordoyouprefertoutilizeyourmagicalheritage in order topursue the mysteries of theuniverse and ignore all that political claptrap?Isyour control of thearcane arts atool thatwill allowyou to amass evenmorepower,orhaveyouyettocometotermswithyourthaumaturgical abilities, making you indeed a rarity within the Tremere ranks?
+A Chinatown?Goodnewsfor those Tremerewholookforoccult lorein mysterious smallshops see Laws of the East for ideasabout what the ymight find)-or certain Ventruewho tend tobepicky abouttheirmeals. the se things define the verybasicsof anycity—what the place looks like, how you getaround Frxamlellcitiehavextensivetworkfsw maintenanceunelar shafandwhatotut hxistencefsuwa stations are important locations—the yprovidemeans to enter and exit the city; something every cautious princemakes a point of keeping an eye on. Slums?Food, plain and simple.Who's going tomiss a coupleof bums?It may not be a gourmet meal, but it's safefeeding. You shouldn't feel pressured to drawthemap of the entire city(although if you happen tohavethefreetime and the skill, gofor ityour playerswill loveyou), but you should putsome thoughtintoits layoutnonetheless.For example, ftherearehillsandariveroushoulddecidewhichneighborhoods are locatedonthehillandwhichonesbytheriver.Decidewheretheindustrial are as are, what the do cks are like and so for th.After all, a city is really a patchwork of many different are as;it'snot a homogenous environmentwhere everythinglooksthesame throughout.you should alsopay attention towhen certain are aswereconstructed and how the cityhasexpanded—the remaybe neighborhoodsthatarebrandnew and are asthathavebeenaroundfor a century or longer.the se thingsmay well be of importance to the vampiric population;if someone has livedsomewherefora hundredyears but has been for ced tomovewhenthearea has beenrebuilt, hemaynotbevery amused, or, in or der tofeel comfortable, anoldvampiremay have usedherinfluenceto keep a certain are a from becoming toomodern. What's the industry like?What are the major imports and exports?How's the localeconomy do ing?Apoorcityand a richcity can betwovery different things indeed.not ethat the semattersmayverywell betwo-sidedathriving chemical industrymaywellimprovethelocaloverall qualityof living, but it mighthave an adverse effect on the surrounding environment. ## WHAT MAk Es IT Go? you do n'tneedtogointotoomuchdetailhere, but it'sagoodideatothink about the baicsabit for exalesthcitybuying smeofitrequd perhaps anuclearreactor.Some charactersmay well have an interest in the se matters — an ecologically minded vampire might well want to shut do wn a polluting coal plant. You should alsothink about you r city'sneeds a bit and see that the yare takencareofnthe simplestof trms, that means that peoplemust have food shelterandwamth, althoughyucancertainlymakeitmorecomlicatd than that if you want to.Where do the local industries'rawmaterials come from?Who do they sell the ir products to? ## POPULATION
 
-In thesemodern nights,theVentrue feel themselves surrounded by a sea of dangers.Claiming that they bearthe burdenof guiding their fellowKindred into thefuture,theyfeeltheCamarilla'recent losses againsttheSabbatquite sharplyindeed.Yetevenwhiletheypointtothese setbacksasevidencethat the other clansmust contribute more effort to shoring up the Camarilla's defensethVentuacertainthathveryindthyareatmting protectareworkingatcross-purposesto them.Somemightevenbeobstructing the Ventrue plans to defend the Camarilla deliberately,a concern that frustrates even themost junior bean counter in the clan's ranks.
+The peoplewholiveinacity are perhaps the most important thingfora Storyteller tothink about.what kindofpeoplelivethere?Are the yrich?Is citizens is acity in troubleitaffectsworkmorale, and unhappy peopledont feel inclined tocontributetothecity'swell-being.Some Kindredmayconsider humans to be cattle, but even the most bullheadedvampire usually under stands that even cattle must be cared for.A happy citizen is a productive citizen, and a healthy citizen is a lasting resource. Peoplearemore than justautomatonswho eat, sleep, breed and work, though.they're what makes a city live. In most Masquerade games, com pletely normal, mortal humans don't play a very large part, as the player characters tend tobevampires, ghoulsorother strangebeings.Stillmost Kindredspendmostof the irtimeinteractingwiththehumansociety, evenif most chronicles do n'tpaymuch attention to that.After all, that'swhat the Masquerade is about:hiding inplain sight.Vampires exist by feeding onreal, living human beings.While all the talk of the angst and humanity of it all may not appealtoeveryoneitisstill somethingthatisboundtohaveanmpactn the characters, and you should tryandmakepeopleasmuchapartofyourcity aseverythingelse——perhaps evenmore so. ## AUTHORITIES
 
-Ventrue eldercharacters are thevery soulofnobility.Theirpridebordes ham-handed effortsof theirbrethren oftenexpressesitselfascondescensionYou mayhavebeenhelpingcarrytheCamarillaburdenfortheentiretyof theect's existencendwilumigstilletinblsseblevenrl patience growsthin.The thoughtthat otherclansmightbe thwarting your clan's effortsteendtamarillaendyountpaxymfraeecialln youcomparethisingratitudetoall thebattles andcrisestheVentrue havefacedon the Camarill'sbehalf.The time iscomingwhenyou feel thattheclanmay have nootherchoicebuttoimposeorder,whethertherestof theclanslikeitornot.
+Are the authorities efficient?are the re anymajor criminal or ganizations operating in the city?Who's got the political clout?Is the re corruption? the re's a great difference between a peaceful city where violent crime is relativelyrareanda citywhere criminal gangsrunfreeandfightwith each otherover the controlof the irturfs-acitywherethepoliticiansdotheir jobs properly and acitywherepoliticians are ona short leash and drawfat paychecksfromthe peoplewhomakeyouoffersyoucan'trefuse.This alsohas a directimpact onthecitizens.Joe Average preferstoliveinaplacewhereit's safe towalkthe streets atnight and will become displeased if hecannotdo so. Of course, criminal activities aren't the only possible problems.An economiccrisis is likelytoresult in unhappy citizens.with out suitablefunds, the city'sinfrastructure startstobreakdown, bitbybit.Public services are no longeras efficient asbefore.Garbagecansmaybe overflowing because the city can't afford proper was te disposal.Broken streetlights may not get fixed Bureaucracybecomesslowifthepeopleresponsibleforitgetlaidoff, leaving the remaining people to handle a bigger workload, which in turn increases stress bothfor the overworked and the unemployedand soforth.the se are things that may easilybecomeimportantfactors in a chronicleif the Story tellerprepareproperly what mrehyareroblemsthatcannotexed with for ce;ittakesplanningandworkfromthecharacters.Whiletheseevents aren't likelytobecomecenterpieces, the yarecertainlythingsthatarelikely to interest the characters quite abit.Its largely aquestion of survival and quality of lifeforthem. the searehardlyallf the mortantqustionsof course when was city founded Have the rebeenmajor disasters, suchasfies or earthquakes? How did they affect the Kindred population?Was the remore to the se disasters
 
-## STORYTELLINGFOR ELDERS
+Tuide than the mortal world knows?the reis nomaster list of questions;the se are all things that define what you r city is like-the more detail you can come up with, the better.Agood waytogetahandleonthese things is tolookatevents especially everyday events-in you r own city and ask you rself Why are things like this?how would they be in my city?Itmay seem likea lot of work togotughndtbutayffifitakuaysell really are ina city that is more than just a shallowbackdrop for adventures. not e that it'sa good ideatopay some attentionto the real locations you'll be using for the game when you're designing you r city. Imagination is an impreslfkaau mucheasiertoreallyhave access toalarge parkwhichcanbeused for the game. The samethinggoesforeverythingfrom the climatetothe genericlookof the city.This is bynomeans a requirement, but it can make things easier ifyou intend toplayin publiclocations.of course, ifyou'e only playingindoors, such things cease to matter and you can go wild. ## HISTORY
 
-Ideally,you should treatelder charactersinyourchronicleasyouwould spicesinameal.They'remeant toseason and accentuate themainingredientsof a dishotvowerthavorlrscanbeeasilvused,obecauu whenaddingmoreof themtoanexisting chronicleThebulkofKindred society iscomprisedofneonates andancillae.Theactualnumberofeldersinagivengame canvarydependingonthegame'sfocus andscope.Ifyou'retellingastoryformore than30charactersyouerobablygoingtohavealargerrcentageflersn the game thanina storyfora dozen characters.However,thenumberofelders in any given game isn't as important ashowwellandconsistently those characters are played,and howwell you weave them into the tale.
+Comingupwith anextensive and detailed history for you r city can be a problem.Overdoit, and you endupwithahugeboringbookthatnoonereally wantstoreadtilliguringoutwhenyourcitywasfoundedandwhyisagood idea, asisdeterminingthemajorpoints nitshistory.why did peoplewanto move the re and make it grow?what kind of industry did it have in the past? Who were the important people who made it all happen?Are the re statues or buildings dedicated to the ir memory?Have the rebeen battles in the city?Has anyone foughtoverthecityitself? you r city'shistory can be just an overviewof the importantevents, and you can elaborate on certain things as necessary.As long as it is consistent and answers all the importantquestionsplayersmight have, itll do justfine.For most games, defining the present is far more important than defining the distant past. It's recommended that Storytellerswhoface this task pay attentiontoreal world historyto seewhat happened in the worldatanygiventime.Events such as the Civil Warorthe Great Depressionor, in Europe, the World Wars and the resulting aftermath or the Inquisition (if you want to go that farinto the past）have probably affectedyour cityagreatdeal.Intheend, it'snotvery difficult tdo all it requires s imepatience and a litlebit f ffort. That said, if you r chronicle deals with the past, or includes many characters who have lived in the city for a long time— perhaps for a hundred years or more-they'll need toknowenoughtoplay the irrolesconvincingly, and that will obviously require more attention to the city's history. Finally, make sure that the history of you r city is knowntoyour players. How much they know should depend on what kind of characters they're playing, of course;elders are secretivebeings and do n'tevealtheir preciou informationeasily Inanycase, kowingthehistoryhelsthmunderstandt city, and oncetheyunderstandtheir urroundingroperly, heyllhavefr easier time settling into the ircharacters comfortably.It is absolutely pointless to come upwith a comprehensive and well-or ganized history for the city if it is never presented to the players. ## PASTTREASURES
 
-## ELDERMOODS
+The historyof you rcityisanexcellentplacetolookforplothooks they can range from ancient secrets tolost treasures;anythingyou feel fitstheplot.lfthey'redirectlyconnected toyourcity'shistory, they can become quite cntertaining.As long as everything is written carefully and the background story is solid and detailed enough to provide a feeling of continuity, everything is all right. For example, the re must be are ason for those continuing Sabbat attackswhy do the ywant this place sobadly?Maybeone of thosefew elderswhowaaroundundedarsagowhenthatackgana the answer.Or perhaps some of the local vampires are loyally guarding the ir sire'sbody that has lainin torporforthepast50yearssomewhere below the city, ever since that infamous battle with the Lupines except now those damn Nosferatu have been snooping aroundin all the wrong places.... Or perhaps someone diablerized Prince Trevor all thoseyearsagoand hedidntjustgetfedupwiththejoband leave.ow hischildeiherebackomtheldorldndesaskingallofoe annoying questions.... If you're feeling enterprisingyou can come upwithincredibly elaborate plots that were conceived centuries ago and are just now reachingfruition(or, perhapsjustgettingstarted;aterall, ifyoulive for ever, you may not be in a hurry)-not that the key players necessarily realize this the mselves.Manipulation is something many of the Kindred take rather seriously, and they excel in do ing so with out ever actively takingpart in the actual events.the possibili ties are endless. ## Who's do Ing WhaT? the re are some or ganizations in any and all cities that are of supreme importancetothe Kindred Politicalofficespoliceandfiredepartmentsandthe mediaarethefirstones that come tomind, and thusyou should spend time thinkingabout the m.Unlike superficial things, such aswhat things looklike, this is something that may have a direct impact onyour game.hat'smore, knowing what you rcity is likeallows you touse that information properly—it meansthatfsomeoneusesherinfluencetoorderthelocalolicearoundyoue not dealingwith abstract policeunits, you can actually determine how that affectstherestof the city.the Kindreddon'texistinavacuum, and thoughthey may influence the city, the city also influences the m.Neverforget that. Most or ganizations can be definedina few simple steps: What do es the or ganization do?This is simplyaquestionof defining the or ganization'sgoals and agendasA police department'sgoal is touphold the law and catchthebad guys; asoftware companywants todevelop softwareand turna profit.Agendasmayberather simple or extremely complicated.Inmost cases, it'snotnecessaryforthe Storytellertodefine the mdownto the smallest
 
-Eldersradiatemenace and embody thevery essenceofpower.They can quiet anentire room with theirinhuman attitudes andappearance;they cantip thebalanceof powerinanentirecitywithafewwell-chosenwords.Workwith the playerswhowill play the eldersinyour chronicle to create themoodyou desirebyhelping themhighlight theircharacters'distance fromHumanity.By providingthemwithreasonstobeenviousandfearfulofoneanother,youcreate amoodofblackparanoia as the elders beginplotting against one another. Encourage theseplayers to involve theothercharactersintheir schemes;this heightens thetensionandinvokes amoodof jealous suspicionormanicfear, depending on the lengths towhichthe eldersgo toachieve their ambitions.
+## WHO'S PULLINgTHE STRINGS? This can takemany for ms. It may be as simple as a Nosferatu being for ced tomove because his subterranean have ngets invaded by a hordeofsewer workers, or itmaybea Ventrue finding some of her stock losing itsvalue because the company's CEOismaking foolish decisionsor suddenly losing an important ghoul because he was shot in a mugging attempt.the se things happen, and the more itfeels like the charactersare just a part of abigger who le, the easier it is for the players to get into the game.not e that this do esn't mean that the se should be random events;rather, they should be a logical part of the who le.A cunning vampire using her power overmortalsmay well beabletokeep events like this from occurring at all. Vampires liketo think that they are in control of the human society.Aimes, the yare even correct;afterall, ifyou control an influentialmemberofasocietyyoucancontrolcertainareasof society itself through that person.how ever, humans still have mindsandconcernsof the irown, and vampireswhoforget that will find that they've bitten of f more than they can chew.A city is bustling with activity; the re may very well bemillions and millions of people going through the ir lives the re.Whilevampiresmay steer humans in a direction favorable to Kindred goals and use the ir Influence toadvance the ir own agendas, ultimately humansmay do things that damage the Kindred. details;a general understandingwill do.the n again, if the or ganization is a majorplotelement, it'sprobablyworth the troubletogetthedetails. who do estheorganizationhavedirectinfluenceover?Apolicedepartmentcan disruptmostcriminal operationswith ease becauseour societygrants the m the authoritytodoso.ndeed, the ymayhaveagreatdealofinfuenceovertheofware company, ifthesoftwarecompanycommitsa crime.That said, ifthepolice departmentcomputersrunonthesoftwarecompanyssoftware, the companycan probably causea lotof troubleforthedepartment simplybyreleasinganextremely troublesomeupdatefor saidsoftware.which would ofcoursebeillegalifone intentionally, but the se thingscanbe somewhathazy atbest.. What can the or ganization accomplish?Inotherwords, what kindof power and resourcesdoesithave.Apolicedepartment has agreat deal of authority due totheirstatus asthelocal lawenforcementagency, not tomentionplenty of resourcesintheformofmanpower, equipment and soforth.Ahuge software company has plenty of money and with money comes power——if not hing else, hiring a ravenous horde qfhighly paid lawyersgets you a longway.Furthermore, if the ir softwareispopularenough, the yhavea subtlenluencevr people, as changing the ir software alsomeans changing the habits of the users. Ifnothingelse, if you knowtheins and outsof the softwarebeingusedby everyone, you alreadyhaveapotential weapon the Cik
 
-## ELDERTHEMES
+What kind of weaknesses do es the or ganization have？Inmany cases, weaknesses are something inherent to or ganizations-a flip side of the ir very nature, sotospeak.Whileaolicedpartment has agreatdealofauthority while actingwithin the confines of the law, unless they have evidence that a crime has occurredorisoccurring, they can not legallydo anything, evenf they know what's going on.A software company that spreads its software everywhereandcontrols the marketmay endupinlegal troublebecauseof that monopoly.the re can be many additional weaknesses that don't follow this pattern, of course. ## CONTROL. Numerous references to control and influence can be found here. Storytellers are encouraged to think about how the se things are accomplishedbe that throughdirect authority, blackmail, supernatural mind control or what ever.The Influences characters may have certainly come into play here, but instead of treating the m as abstracttokensofinfluence, figureoutexactlyhowthecharacterhas comeby that Influence over the mortal society and how hewields it. Influencesrepresentacertainamount of controlbutitisuptohe Storyteller to decide just what that means in her chronicle-is it a ghouledpolitician, aseatontheboardofdirectorsorafakeersonalty with equallyfake authority? Definingallofthemajororganizations in you rcity in this mannercan take sometime, but nthe endyouwillhaveagood understandingofwho'sdoing what and why.you will alsoknowwhatkindof effectsvampireswhousetheir Influencewillhaveonthebigpicture.Consideringthat in large gamesyoumay have a do zen or more powerful Kindredwho usetheir different Influences at the same time, it'sgood tobeable to see the big picture clearly. Certain veryimportant or ganizationsexist inevery city—police and fire dpartnliticfficeiwmanhol and soforth.they are crucial tomortal society—with out the m, it can not functionproperlyherefore, you should paymore attention tothem;afterall, the yarethethings that you rplayerswillbemostinterestedin.Havingacouple of copsorreportersinyourbackpocketcanbeablessingat the timeofaserious Masqueradebreach.(not hingtoseehere, maam, you justmoveright along, please.You can read it in the paper tomorrow.") how ever, not ethatmicromanagingyourcitycanquicklyleadtodisaster. Whiltanefilisanwillvaan you have farmoreworktodo.Agoodruleof thumbis is it likelythatthiswill comeuinthgamftheanswerisyebyallmeanspendtimeonthinking abouttheintricaciesof the localpublichealthservicesbutdontdoitunless you needto.Aterall, chances are that you llhaveplentyofother thingsto and the re are only somanyhoursin the day. You'll indmore tothisprocess than just defining llf the se things, though. For this information to bemeaningful, itmust alsobedistributed to the players
 
-Elders embody myriad and often contradictory themes,most of which workvery well as the central idea of a chronicle.Here are some examples:
+## FRIENDLYWORDSOFADVICE,PARTTWO this waywhenthelayerof that Ventruecomestoyouand askf the re'sanywayhecantryand takeoverthecompanytheothercharacter justpurchasedyouonthavetofidgetandsay somethingoffthetof you rheadyou'll know the right answer sinceyouhaveit writtendown. Ifyourefollowingevenhalfof the suggestionspresentedhere, chances are that you ritywillbelargecomplicatedlacehatlivesalifof own, epeciallyoncetheplayersgettheirandsnit.Whileyouashe Storytellercontrolit, you should expect the playersto change hings aroundtettrhiharactrsivehisislotfworku you have it all do wn, you'll find that making changes to things isn't nearly as much of a has sle as you might think. Writedown everything that you do, and everything that happens in the game.Everything.The importance of this can hardly be stressed enough.Just do it. not ethat it'squite all righttoexpect playerstowritereportsfor you.you aren't askingfornovelsyoure asking for simpledescriptions of what they did and what happenedto the ir characters.Even the thickest player should be ableto describe the se things in less that15 minutes if hetakes the time todosointhenext fewdaysfollowing the game while everything is stillfresh in his memory.Anoral report with you writing do wn the details do es equallywell.As longasyougetthe information, the exactmethodisuptoyou.do n'tletthemtalkyouout of it—you need that informationtoproperlyrunthegame. properlypreferably so that the yknow asmuch about the bigpicture astheir characters do, as determined by the ir character backgrounds and what ever Influence they may have. This usually comes do wn to simply writing the appropriate bits do wn and handing the m to the players...and yes, that's more work.ukilytlayffnceulayretnthoodandstartust information.While Kindredmatterscertainly takea lot of timeand attention, most Kindredwho dabble inmortalaffairs take the mrather seriously.If you do you rgroundworkwell, that meansthatthelayerscanactuallyseetheeffectther actions have on the city the ir characters livein.Justremember that you must provide the mwith all the relevant information for all this towork properly. and lasuranltastyuavehinkaouwhaake citya partof the Camarilla and the World of Darkness and not just another normalcity.Afterall, the gameisaboutvampiresandwhilepayingattentin tothecityitself can bemportantyoucertainlyshouldnosoandforgetall about the supernatural.If the dynamicsofmortal societycanbetroublesome and complicated, that can beawalkintheparkcompared tothecomplicated mess a single Camarilla city can hold for its vampiric occupants. ## THE DARK END of THE STREET
 
-Spoiled Love:What turns love intohate, orworse, indifference?How Kindredcopewhenalovetheythoughtwasgenuine turnsout tobecorruptandfalse? Why can't Kindred maintain their hold on the finer emotions they knewin life?
+Whileyou'rehandingout all of that information aboutthecity, consider the possibility that oneof the characters has received faulty information, or is perhaps being tricked by someonepossibly another player character.After all, isn't that what controlling the mortal society is all about?Information and disinformation.Now thinkwhatmight happen if the character acts ondisinformation say, a financial tip -firmly believing it to be true. ## the CLANS of all the powergroupsina Camarillacitytheclansarethemostobviou ones.Everyoneknows the exaggerated stereotypes, ranging from the artsy Toreador who goes aroundwavingat things with his pinky pointing delicately at justtherightangle, totheferalhillbilly Gangrelwhohastroublespellingher nameandcertainly, the re'saseedof truth inall that;clanmembers do share common traits and characteristics and usually tend to feel varying degrees of loyalty toward each other in many ways, a clan is similar to a family. Clanelderstendtoruleovertheyoungermembersof the irclan, and the ir demands tend tobemetwith obedience.After all, do ing otherwisemeans fallingoutoffavorandwithfallingoutoffavorcomesallortsofroblemsthat most Kindred would rather avoid entirely.Besides, do ing favors to anelder usually pays of fit'snot just the elder who gets something out of the deal. Lookinggood in the eyes of a powerful Kindred tends tomeanmore status, influence and protection. the refore, clanstendtosticktogether.till, it'samistaketoassumethat justbecausesomeoneisamemberofa certain clan, sheinstantly shares her clanmatesagendas, goalsandideals.from the Storyteller'ointofview, is a mistaketo lump all members of a certain claninto one big group and assign a certain amount of power, status and resources tothem—the re'susually infightingandrivalry, and evenif the reisn't, the resabsolutelynothingthat keepsa Brujahfrombeingapoetora Malkavianfrombeingaquite seriousand responsible scientist.the archetypes can begood for illustrating the generic nature the groupnquestion, but they should n'tbeallowedtobecomeigid stereotypes.Inotherwords, no, all rujahdonotwearleatherandbeateach otherupordall Tmerewearevillookingcloaksandliandcheatnd backstabwhenever the ygettheopportunity. Furthermore, the re is plentyof cooperation between the clans of the himbutmsureth Camarillwillsillstayuitedandrotectmagainst hordesfanarchabbatuinsandwwwhatlouthre thoughtisratheatatet, fobiuseasnsperatonxistsalu of necessithe Camarillamuststayunitedortwilfallandthlereale this.hymaylayiwgamueryraelyhysoathxn of the Camarilla.Vampireswhodisplaynoconcernforthe Camarilla'scontinued survival are considredecurityisksandrightlyso, and whiletheymay survive the experience, itssafetosay that they makequiteanumberofenemiesnhe process the localelersmaynotcareaboutaeudbetweentwoneonatebuf said feud threatens the Camarilla, they makeittheirbusiness.Indeed, many princesconsider suchmatters direct threatstotheir do mainandactaccordingly. Yes, the re are thosewho spend the irnights plottingand planning and schemngbuitthttyehiscrtainlyoesnlyallrvn the majorityof, the Kindred.Manyof the m just hang outand trytomake the best of the irunlives.Storytellers and players alike should alwayskeep this in mindwhen designing characters.It'll make for betterroleplaying, and itll make for a better game.After all, the re is little drama in becoming the primogen or gainingpower for its own sake —if it's the norm and the only objectiveofthegame, who cares?Abadguyisn'tabadguyifhe'snodifferent from everyone else.Friendship loses its meaning if everyone can always be depended to backstab everyone else—as do es backstabbing.The game becomes predictable and pointless.Amaster of intriguerarely looks likeone —no one likes todobusinesswith someone like that；after all, why cooperate with someone ifyouknowyou'regoingtogethurtintheprocess? The otherreasonforcooperation is simpledespite all the intrigueand plotting that goes on, most Kindredare mature enough tobe ableto for m relationshipswith other beings.the ycan sitdownand talk about the events of the day.the ycan have friends and lovers-and the ydo.Why?Becausethey are immortal, and immortalitywithoutentertainmentgets oldratherquickly. Most Kindred, all of the irfamedinhumanitynotwithstandinghavestillmany basic human characteristics.If you live for ever, you'll learn to enjoy a good debate.It'll befarmore interesting than countingbricksorwigglingyour toes. Watchingamovieisafarmore pleasantway of spendingtwohoursthan sitting do wn and scheming."All work and no play makes Jack a dull boy,"as it were. the sethingsshouldalwaysbekeptinmind.not onlydotheyplayamajorpart when determiningthenatureof the Kindredopulationofyourcitybuttheyare alsolikelytobesomeof the mostmportantthingsinactualgameplay.Aferal in the end, most games consist of a group of vampires getting together and talking. The clanspowerful thoughtheyare, are hardlytheonlysuernatual power groups in the city.of ten, coteries for m across clan lines. Common interests cause vampires to band togethera group of Kindredwho share stronganti-Sabbat sentimentsmightforma secretsocietytobattle Sabbat evenduringcease-fireorfnancialnterestsmightcauseagroupofvampi to pool the ir resources to gain control of the city's economy. ## OTHERPOWER GROUPS
 
-Thwarted Ambition: What happens when we don't get what we want most? Who dowe damage whenpursuinggoals thatremainjust outof ourreach?What sorts of revenge does a heart devisewhen it isdeniedits innermost desires?
+Also, the remaybeothersupernaturalcreaturesinthecitsee Thing That Go Bump In The Night" p.164. the re are many important of ficestobe filled inany Camarilla city.The princhriffgnl all of the sepositionscomewithquiteabitof powerandinfluence.all of the se characterswill need playerssomeof the mmaybe played bythe Storytelleror the Narratorbuteventhoseneedgoodbackgrounds.how did they reachthir
 
-InnerDecay:Is every elder corrupt?Howdoes their compromised integrity affecttheCamarillaIstherotvisible,orhiddenlikeadiseasethatrotsatreefrom within?Can youngerKindred do anything to combat this problem?
+## IMPORTANTPOSITIONS positions?are they comfortablewheretheyare?do they have anymajorrivals who want in the ir place?How longhave the yheld the ir positions? While the specifics of those are detailed elsewhere—see"Positions of Powerp.121, it'sagoodideatokeep nmind that the characters are alsolikely tohave Influence inmortalsocietyinaddition to the ir Camarilla duties.the se positions should be treatedmuch like any authorityinthemortalworld, and while the actual details depend greatly on the personality of the character holdingtheposition, the Storytellershouldprobably spend sometimethink ing aboutthebalanceofpowerbetweenthesepositions—bothwithin the Camarilla and with in the mortal city. ## have NS
 
-Repression and Rebellion:What hope do youngerKindred have in a societywhere the elders cling tooldglories and undeserved authority with bloody talons?What happens in a city wherein the young dare to ask this question,and aremetwith a backlash of furious anger from their elders?
+All but the mostnomadicvampires have a have nof somekind, and said locations are considered tobe the vampires do main.Even princesdespite holding great authority in the city—tend torespect others'have ns unless given good reason toviolate the m.After all, that pesky Tradition aboutrespecting othersdomainsisstilltakensomewhatseriouslyandwhileitmostlyapplieso princesmanyfeelthatitalsoextendstopersonalhavens.the detailvaryfm citytociyunostcasenvamirsavenrwordslaw.bviuy this do esn'tmeanthatavampirecankillamemberof the primogen(or, indeed, properrespecttoavampirewhilepayingavisittoherhomeisagoodideaagood beatingorlossof Statusmaywell followfromfailingtodoso. The location of avampire's have n should alwaysbe thought out;every playershould knowwhere and what kindofaplace hischaracterlives in.Basic security（or lackof it) should be covered.After all, the sedetailswillmakea great deal of difference if the vampire'shaven gets invaded. ## ELYSIUMS
 
-## HOWTOKEEpELDERSBUSY
+Think about the Elysium locations carefully.While the artmuseums and similar locations are popular choices, the yare byno means the only options. the average Elysiumwillbeinaneasilyaccessiblelocation, and is likelytobe well-protected.You should think about what kind of guards the Elysium has, where they'recoming from(are they the keeper'spersonal ghouls, or merely hirelingsfromamortal securityfirmsomeonehas Influencein), and whether the Elysium directly interacts with the mortal world somehow or not?(An Elysiummightbelcatednapublicbuldinghatislosedforthenightuh as a library or abuilding that houses the city's political of fices.) Is it in the middlefthcitynapubliclocationwhrethe Masqurademaybefarmr easilybreachdyccientiscatdsmlaemorrivath of entrances and exits do es it have?Do the Nosferatu have tunnels the re? Furthermore, asgatheringlaces during dangeroustimes, the ymakelvel targetsfortheabbatrtherenemie;afteralllowingupthelacehre the ruling eliteis locatedmakesforagood tacticalmove.Thusmost Elysiums tend tobein easilydefended locations. ## OTHERLOCATIONS
 
-Elders are some of themost useful plot devices in theStoryteller's toolkit. Entireplotscan hang onelder charactersorbedriven by their actions.Unfortu natelyhaactercanawputanntiltwihwillchsen oractions,oftenunintentionally.Howdoyouachievetheformerutilitywithout sufferingthelatterdisaster?Firstchoosetherightplayersforeldercharactersand thencommunicate clearly andconsistently with them.If you hand outelder characterstjustanylayerandfailtdescrbeourexpectationsyoullhave one toblamebutyourself for the disasteryou'veunleashedonyourgame.
+Other important locationsmay include(but aren't limited to)Tremere chantriesopularclubsorrestaurantspatronizedbyvampireandthe shops of blackmarket arms dealers.Anything that seemsto suit the localvampire population'sneeds and desires should bethought out.the Camarilla can get or ganizedif eedbeandsomecitieshavebeenknowntosetupsafehousesfor Camarilla members in case of an emergency—especially during wartime conditions.All of the se things should be pre-determined (or placed in a definitelocationinthecityifthecharactersdecidetoorganizesomethinglike this during the game). ## HUNTING GROUNDS
 
-Describe to the elder playerswhat sort of story youwant to tell,and solicittheirfeedback.Don'tbe afraid to shareyour thoughts onmood and themewith them;ifyou trust them enough to play elder characters,you might aswell trust them to collaborate with you.Get their input;ask them what they'd liketheircharacterstodointhestory,and talkabouthowthe characterscanpursuetheirgoals activelybutindirectly,so asnottoturneach game into a Discipline stand-off.Encourage them to involve other charactersintheirmachinations,and teach them howtosharethemainplotswith otherplayercharactersratherthan accruing all thestory threadsfor themselves.Help them understand thatwhen they foster intrigue and tension throughtheircharacters,itpaysofforeveryonewho is playinginthegame.
+In mostcases, groups of vampirestendtoregard the irhuntinggroundsas the ir territory.Passing through the m is certainly permitted, unless the are a happenstobe headedbyaparticularly troublesomevampire(inwhichcasesaid vampirehadbetterbereparedtodefendhisterritory)but makingtroubleon someoneelse'sdinner tableisconsideredbadform and maywell gettheculprit introuble.of course, the princeofthecitystillholdssupremeowernthearea unlesssaidprincesaparticularlyunimpressiveweaklingnwhichcaseshes probablyon herway out anyway-but the prince isn't likelytoget annoyedover someonegetting slapped aroundbecause hecouldn'tbehave. the Kindredhaveestablishedhuntinggroundsandtheprinceofthecity usually grants each clan or coteriecertain are as as the irs to hunt on as they please.the re are othermethodsofdividingupthecity, rangingfrom simply having the strongest vampiresorclansfeedingwhere they please and the lesser vampires do ing the irbest to stay out of the ir way, to the prince declaring contests or queststo establishwhichclansorcoteriesdeserve tohave the best huntinggrounds.ome princesmakeanelaborate spectacleoutofitall, while others toss a coin. the Storyteller should pay closeattentiontothe huntinggroundsinsteadof just defining the mrandomly.the Kindred can beratherpicky about the ir diets; the refore, huntinglocationscanbecome animportantissueinthechronicle.For example, a Nosferatumaybequitehappytofeedintheslumsafterall, chances are that it'sclose tohome-but the Toreadormight have somewhatdifferent opinions about lookingfor convenientbumswhen they start tofeel peckish. Whiletheprinceswordiscertainlylawandtendstobeobeyedmostprince outoftheirwaytomakesuretheinhabitantsof the irdomains are atleastrelatively comfortable.Aterall, the Camarillaisbasedoncooperation, and whiletheres plentyof pettybickering and lotting goingn, n the endits the Camarilla against the rest of the world.It pays tokeep the troops happy. of of instthaata certainly have as much input in this as she desires. ## OVERPOPULATION
 
-Communicatewiththeplayerswhile theyarecreating theireldercharacters.If there aremultiple elder characters inyour chronicle,doyourself and your players afavor by suggesting some threads of commonhistory between them.Ifthey'veallbeenin the samecitytogetherforany lengthof time,they should definitelybegin the gamewithat least one healthyrivalryper elder character,as well as an assortment of grudges,intrigues and gossip bubbling merrily away under the surface.None of theserelationships oridiosyncrasies need be obvious to the other characters when the storybeginslet them discoverthis seethingcauldronof troublenaturally.Encourage elderplayersto createdetailedcharacterhistoriesandperhapsofferabonusFreebieTraitr twofor thosewho build useful story hooks into their backgrounds.
+Anaveragecityneedsabout10000citizenstosustaina singlevamires existence.(For thoughts about exceptions, see "Size do es Matter,"p.167.) this nubermaybetheditbutaftractainintoblemstat tocropup.Unexplaineddeaths and disappearanceswillstart tocauseproblems in the mortal society, and the vampireswill inevitably feel the pressure and start to argue about hunting grounds and hunting rights.It's not necessarilya question of the renotbeing enough blood tofeed on(although that maybe an is sue aswell)but ratheraquestionofhaving easily accessibleblood sources. Hhe City the re is more tofeeding than having enough people around—the people in questionhavetofthetyethevamirecanafelyfedon.Aeallvy timeavampire feedsisapotential Masqueradeviolation, and acitywhere vampireshave tostruggle tofind safesources of blood is acitywhere the Masquerade is justwaiting tobe breached. this is merelythebeginning, though, sincethereareothermattersaswell —the re are only so many vampires who can pull strings inthemortal society until they start heavily stepping on each otherstoes.this maynot be a probleminall cities, but mostvampirestendtoberatherprotectiveof the ir ownresources, and if they are constantly being accidentally torpedoed by someoneelsesplans, temperswill flare.ndeed, nmanycasesunintentional sabotagemay beconsidered more of fensive.(Are you saying that my plans are so poorly laid that you do not even have to try to ruin the m?)
 
-## DISCIPLINING ERRANT ELDERS
+Even if the re are no such conflicts, most vampires don't like feeling crowded or boxed in.The nature of the Camarilla makesmost vampires feel somewhat uncomfortable or even threatened if the re are too many vampires around.the yliketohavetheequivalentofpersonalspaceifonlybecausethey knowthatiftherearetoomany Kindredaround, the princewillkicksomeout and that maymean a powerstruggleas everyone attemptstomaintain the ir presence in the city. the problem is when ever the re are large-scale conflictsbetween vampires, the Masqueradeisatrisk.what ever the specificssooner or latea competent prince will simply clean house and toss out the vampires she considers least useful, most dangerous and easiest togetridofin or der to preservethe Masquradeandrhapsmoremortantlrw saniy. ## the HIDDENHISTORY you should payspecial attentionto supernatural events asthesemayvery well have shaped the historyofyourcity.If the rehavebeenvampire elders strugglingfor the controlof the city for the pasthundredyears, that will undoubtedlyhavehadaneffect, directlyorndirectly, onthemortalopula tion aswell as the local Kindred.If the city has been repeatedlyunder Sabbat attack inthepast, that will certainly make the localvampires adopt arather defensive and cautiousmindset.Strangersmaynot get a verywarm welcome and are likely tofind the mselvesonthereceivingendof someratherintensive questioning if the cityhas a history of infiltrators or traitors. Pay special attention to the following thingswhen thinking about you r city's history —they're things that are likely to come up in play: - ·Why is this a Camarill city?"Because that's what folks want to play"is a good reasontoplaya Camarilla game, but do esn't hold much weight in the chronicle itself. - Why is the balance of power what itis?this refersbothto the Camarilla's internalbalanceof powerand to the balanceof powerbetween the Camarilla powerandinflnce, rtmaybthatlackmail, dirtyticksrvenn warfareareinplay.rperhapsthecurrentbalanceof power is somethingthat has justrecently been achieved and has yet to stabilize. - ·What exactly have the differentpower groupsbeen up toin the past?For examleftheinceofthecitaenracedhathasprobablyhif the balance of powerconsiderablyfromoneclan toanother.Moreimportantlyyouhouldthinkaboutecentventsandwhathasbeenacomplishd it's not liketheclans just popped into existence twonights ago;chances are that they've been busy. - Have the re beenmajorconflicts between supernatural beings?While such battlestendtostayhiddenfromthepublic, especiallyifit'sannternalconflict with in the Camarilla, itmayverywell have anindirecteffect on the city especially once the Kindred in question start to use the ir Influences togain an edge against the ir opponents. ## WHY GO THROUgH all this TROUBLE? Firstof all, nooneisexpected topickup the bookandgo through all of the sestnnnattailwhileatingciyath, hs exist toheighten awarenessof the se is sues and giveadviceandpointers on what todowhen the Storytellerdecidesthatshedoeswant tocreatemore depth and realismforhercity.It'suptoeachindividual Storytellertousewhat she likes and not usewhat she do esn't like. Atthisointavingreadalloftheaboveyoumaybewonderingwhyou should bother.An excellent question. Secondly, agoodbackgroundgivesplayersthechancetoplaytheircharacters properly.Insteadof beingvampireswhoconveneinsomegenericlocationto plot and bicker amongst the mselves for no goodreason, the characters can becomea partofagreaterwhole and occupyaparticular nichewithinthesociety. Simplyput, itsaroleplayingtoolnodifferentfromdressingupforthepart exceptthatit'shappeninginsidetheplayersheads.Somewouldeven arguethat this is farmoremportantthanplayingaroundwithpropsftheplayerscaneally feelthat the yarenthecityandthattheresfarmorehappeningaroundthemthan what thyeewillmaketfaeasfrhmtnharactrandeat city like a city instead of a shallow and meaninglessbackdrop. ## is N'TALL THIs WAr Too MuCH? Third:lothooksplainand simple Ifthe Storytellerwantstogobeyond the basic"creepy one-eyed Tremere bastard plots tooverthrow the regal and selfcentered Ventrue princestoryline, this is anexcellentwaytodoit.It rareforasneakyvampirenthe Camarillatodirectlyattackanyoneespecially as that tends tobemore trouble than it'sworth.Why assassinate someone and risk beingfound outwhenyou can just as easily capturehis powerbase by gaining influencewithin the city-and do sowhilefollowing the Camarilla's ruleshesanetirmancityjtwatingtxlotdandf Storytellerwantsthecitytobecome somethingmorethanjust Influence Traits and the occasional Rock-Paper-Scissors test (hardly something that improves the moodhemustdfineitinsufficientetailfrtheayersgt feeling that it really works in a logical manner. No.Well, it should n'tbe.People tend tobe able to absorb information you'veentall that timreating, hyprobablyarentveryinrestedinh game, either. the Lity how ever, alwaysrememberthatitsatwo-way street.While the players have the responsibility to know the rules of the game and know the ir charactersstatisticsbackground and everythingelsethatisrelevant, the Storytellerhastheresponsibilitytoprovidethemwithallof that preferably in a for mat that can be easily understood.Taking the time to prepare the materialisadefiniterequirement.fyouhand the mstacksofmessynotes, hey aren't going to be very impressed, but a do cument that contains all the important informationwill verylikelydothetrick.not ethat awell-prepared do cumentcanberatherlongandsinkinustfinewhreasashortbutoorly or ganizeddocumentmay go unread. And rememberdon't overdo it.While playerscan be expected to read and understandinformatonreevanttthchronicl, is probabl afty that most players aren't will ing to memorize hundreds of pages of setting material justbecause you'reonaroll.the exact limits differfrom groupto group;itsprobablybesttotalk about this with you rplayersbeforehandsothat you know where you're limits are. ## THINGSTHATGoBUMPINTHENIGHT
 
-Most players present no problems,and they will both appreciate your efforts at telling good stories andbe eager tocooperatein helping youdo so. Keep aweathereyeout for the player who doesnt.In games wherethereis only one elercautionthatlayeragainst actingettyandpitful:hissort behaviillyhaqulaeay abuses his elder character's powers or authority.Powergamerscanbe a nuisance in anygame session;apowergamer with aneldercharactercandestroyanentire chronicleYourecognizethese players fastThey're theoneswhogetacheap ego trip at the other playersexpense.There isno excuse for allowing players of thisnaturetoruin the game foreveryoneelse.If youobserveaplayerbehaving inthisfashionatheerleastyoumusttakethatlayerasdeassoonasoibl andexplainwhythissortofbehaviorisunacceptable.Don'tbeconfrontational the gameis supposedtobeplayed-butbefirmnonethelessYourgoalistotell a storythatallowsallthelayerstohaveunandyoueedthesupportofeach playerinordertoreachthatgoal.Considercarefullywhethertoallowtheplayer toreturn to playwith an elder character;if you decideto allowhim todo so, continue towatch him carefully for any problematic behavior.If theplayer persistsdespiteyourattempts toexplaintheproblem,thenremovehimfromthe game at the earliestpossible opportunity.
+AStorytelleroftengets the urge tothrowallsortsof supernaturalcreatures into the mix.Moreoftenthannot, the best advice hereis"Thinkit through, and considerthe possibility that this could beaverybadidea."Admittedly, this is somewhatharsh, but experiencehasshownthatitisvery easytofillupacity with somanysupernaturalbeingsthatyoucan'tcross astreetwithoutbumping into something huge and horrifying. This is not to say that it is impossible or wrong to use a pack of Lupines or a group of wraiths as worthy antagonists, but the"monster of the week" approachgetsoldveryquickly.Vampiresrarely interactwithother supernatural creatures, and suchencountersshouldn'tbecomecommonplace.Iftheydo, you'll find you rplayers yawning."Oh, it's just a pack of lack Spiral Dancers. We see the m all the time." what rhanehatuaarntidam obvioustothemthattheonlyreasonthesebingsexististoposeathreat, te game world loses much of its integrity.It's far better to keep the players wondering aboutwhat is really going onwith the m especially as it alsogives you easy access to good plot hooks. Rathfuwantuavuauant place for the m from the start.Maybe the furbals like the central park or the woodsoutsidethetown, and maybe the olduniversityholdsagatheringof customerswhoaveabithingforthe Oshatsallveryellandgoodb weakotswatvehmayeablyuhudmaum something that can be avoided.you raveragefurball won'tcareonebitabout some vampires'internal power struggles. ## BREADAND CIRCUSES
 
-<!-- image -->
+If you're going for a high-action game with lots of excitement, the re'snothing inherently wrong about havinghordesofevil monsters descend upon the trenchcoated characterswhose silver-platedtwin katanas and death-dealing chain guns are already brought to bearnever mind where they're coming from.It will ruin you r game's internal logicbutwhocarestmaynotbeexcellentrolplayingbu it can be fun. Just bewarned that ifyou go do wn this path, returning to status quo can be extremely difficult if not completelyimpossible;this is the kind of a thing that will mark a game for ever.Alsokeep in mind that playerswho expecttoplay in a more serious gamewill not be pleased about this.It's probably a good idea tomake up you rmind about this before you begin the chronicle and give fair warning just to avoid ending up with justifiably disappointed and resentful players. Alsonote that justbecause the rearesuchbeingsnyourcity, that do esnt mean that the playercharactersnecessarilyknowabout the m.the reisnogood reasontoconstruct the equivalentofa neon sign that says, Herebemonsters! it'softenbetterthat the charactersfindoutaboutthembyaccident, ifatall. Keep the m guessing. ## RUNNINGWITHITALL
 
-## CHIAPTER FIVE: TIE E CITY
+Some Storytellersliketoruntheirgamesbothasregulartabletoproleplaying games (using the Vampire:The Masquerade) and as live-action games （using the Mind's Eyeheatre)Obviouslythat all owsforagreatdealf detailasall of the majortasksthecharactersundertakecanbeplayedout.the problemwith this approach is that most Storytellers prefer to have lives beyond the game. Asyouhavebeentoldreatedlybyow, you have probablyrealizedthat this is a lotof work.Depending on the nature of you r chronicle, the se things may or maynot come upinyour game.It all depends on anumber of factors, such as how much time you want to spend on the sematters and whetherornot you want to letyour players do anything inbetween the games(and if so, in what detail?). Luckily, the re are other, esstimeconsuming options Some Storytelles use Influencesormakedealswithothercharactersbutdontltthemattack othercharacters or significantly advance the lot.Otherst the mdoasthey reritlavama "That's enoughfrnwheeaemanydiffentways tdeal with this the bottom lineis:Let the mdo asmuchas you think is appropriate.of course, the morerealism and internalconsistencyyouwant, the moretheyshouldbe all owedtodo, but don't let that bogyou do wn.Chances are that you have a real lifesomewhereinallofthisandyoushouldn'tletthegametakeallofyour time.Burnout will ruin the game more certainly than not letting a player go over to someone'shouse and do minate everyone the re into submission. It's also important to determine how fast (or slow) timemoves.Some games spandecadesorvencenturieswhilethersmoveforward sowlyn night atatimewhileinthereal worldmonthsoreven yearspass.Ifyoudoallow characterstoactbetween gamesyoushould takethisintoaccountoncethe period of time between games becomes months or years instead of days, the actions the characters take tend to become farmore generic and the scope of the game changes.This is not abad thing by any meansbut it do es requirea different approach from the Storyteller. ## the RE's No PLACE LIKE HoME
 
-## WHEREITALLGOESDOWN
+You may wish to use a real city in you r Masquerade chronicle—most likelythecitywhereyoulivein.Afterallthateasyenoughfortheplayers getafeelfnrhaoremortanlytavesualotfwrkince players alreadyknow the place.Furthermore, it'softenfun to take the real worldandrewriteitintothe Worldof Darkness, but ittakesmorethanacoat of blackpaint and abunchof monstersto accomplishthat. A good placetostartcreatinga Gothic-Punkversion of you rcity is simply takinga look atitshistory.Chances are that the re have beenvampires the re for a while now—for decades or even centuries.Considering that some cities in the Old Worldmaybewellovera thousandyearsold, that can bequitea bit of history to cover.If the re have been vampires in the city, they have undoubtedly meddled in its affairsquite abit overtheyears. struggle of two elders—somuch the better.the Kindred don't run the entire not e that this certainly do esn't mean that all significant eventswere initiated byvampires.Quitethecontrary—humans are rather good atmaking decisionsallbythemselves.Still, ifitasanmpactonthecitythasanmpat on the vampire population.Thus, the Kindred have a vested interest in keepingontop of local events, and if you r city'shistory includes a heated politicalbattle, itmayhappentobe the erectmanifestationofthepower show, but they can certainly make things happen if they so desire. afictional city.how ever, the reare somemarkeddifferences.Insteadofcoming
 
-It is easy to overlook the importance of the city your Masquerade chronicleissetin.Often,it'sjusttheplacewherethings happenasomewhat vaguebackdropforadventures,left largelyundefined exceptperhapsforafew details here and there.
-
-There's muchmore toa city than that,though.Itis a vampire's lifeline the only thing that allows him tocontinue his existence.Only large gatherings ofhumansallowvampirestogather;fterallwithoutblood,avampirecannot survive.And whilemany vampires deem themselves tobethehidden masters of thehuman society,theyarestillquitedependentonthevery societythey claim to control.
-
-This chapter is primarily intended for Storyteller use.It doesn't contain any secrets,solayerscanread itwithoutfelingguiltyowever,tsprmary use isincreatingcitiesforMasqueradechronicles,andit'sthus likelytobefar more useful toStorytellersthanit istoplayers.Thatsaid,readingthroughthis chapterwill probablyhelpplayersthinkof thecitywherethegametakesplace asmorethanjustagenericlocationInadditionlayerswill getomensght into thelifeofaCamarillavampire.
-
-## IFYoU BUILD IT,THEr WILL COME
-
-Fictional citiesgiveyoualotof leeway;afterall,youcandowhateverou want,andncanlluthatuotmthingwrngweverta more thanjustcomingup withaniceround numberforthepopulationandacool
-
-Ifyou feel likecreating acityofyourow,youprobablyhave someind ofanieforiteadytmayotbeanythingveryfinitthen agan,t doesn'thavetobe.slongasyouhaveaconcetfwhatyouregoingforyou creating a character;the detailsmay be different,but the process ismuch the sametallcomesowntoworkinguomandea,stagebystagebitbybit, untilurachwhatveritshatouwantedfoursreworkoen creating anntirecitythancreatinginglecharacter,butwhenbrokenw, the process is very similar.
-
-## FRIENDLYWORDSOFADVICE,PARTONE
-
-Using all of the techniques and ideas described in thefollowing textmaywell lead toanextremely detailedandcomplicatedchronicle that theplayers will love to death.To the Storytellers death,that is. The workload can beenormous,especially if you are new to thegame. It's strongly recommended that youread the material,write down notes about the things you think you should incorporate into your chronicle and then try and come up with a list of things you think you can handle without being reduced to a gibbering nervous wreck.Be realistic!Rememberthatif youfind out later that youcanhandlemore than youredoing at themoment,youcanalways increase thelevelof detailandthegamewillonlyimprovebutremovingdepthfromthe gamemay cause problems if players havebecome accustomed things that are no longer there.Most sections won't have a"you don't have to use all or any of thisdisclaimer;you should assume that to be in effect at all times.
-
-Also,keepinmind thatfiveitemstokeep trackofwon simply be five times the workload of a single item.When all of these items begin tointeractwith each other and theplayer'scharacters,youcan expect your workload to increase exponentially.
-
-In short,don't bite off more than you can chew.
-
-## LOCATION
-
-First of allyouneed todecidewhereyourcityis.Theremay beinstances when you prefer to leave the actual location somewhat vague — after all, placing Gotham City or otherfictional cities on amap can often be difficult atbest,anddoing somight even detract from themoodit doesn't really matterwheretheyare,aslongastheplacefeelsrightStillevenifyouregoing framoodlikethisitsgoodtocomeupwiththeapproximatelocationofte city.Knowingwhere your city is can be avery importantfactorin deciding what yourcityfeelslike.Acitylocatedinthemiddleofadesert isgoingtobe NewOrleansforasVegas.Clmate andresourcescanalsobeeasilydecided onceyouknowwhere thecityisand from thereyoucanmoveontowhat kind of industries the city has.Mining?Fishing？Tourism?It all depends on where you are.
-
-## INFRASTRUCTURE
-
-There are dozens of questions you must answer.Is there a subway system? amaze of small streets and alleys?Does it have sections where ethnic groups amari
-
-Hude have settledaChinatown,oraLittleItalyDoesithaveslumsIsitmodern and shiny,or old and built largely of stone
-
-A Chinatown?Goodnewsfor thoseTremerewholookforoccult lorein mysterious smallshops seeLaws of theEast forideasabout what theymight find)-orcertainVentruewho tend tobepicky abouttheirmeals.
-
-These things define theverybasicsof anycity—what the place looks like, howyougetaroundFrxamlellcitiehavextensivetworkfsw maintenanceunelar shafandwhatotut hxistencefsuwa stations are important locations—theyprovidemeans to enter and exit the city; something every cautious princemakes a point of keeping an eye on.
-
-Slums?Food,plain and simple.Who's going tomiss a coupleof bums?It may not be a gourmet meal,but it's safefeeding.
-
-You shouldn't feel pressured to drawthemap of theentire city(although if you happen tohavethefreetime and theskill,gofor ityour playerswill loveyou),butyou shouldputsome thoughtintoits layoutnonetheless.For example,ftherearehillsandariveroushoulddecidewhichneighborhoods are locatedonthehillandwhichonesbytheriver.Decidewheretheindustrial areas are,what the docks are like and so forth.After all,a city is really a patchwork of many different areas;it'snot a homogenous environmentwhere everythinglooksthesame throughout.Youshouldalsopay attention towhen certain areaswereconstructed and howthecityhasexpanded—theremaybe neighborhoodsthatarebrandnew andareasthathavebeenaroundfor a century or longer.These thingsmay well be of importance to the vampiric population;if someone has livedsomewherefora hundredyears but hasbeen forced tomovewhenthearea hasbeenrebuilt,hemaynotbevery amused,or, in order tofeel comfortable,anoldvampiremay haveusedherinfluenceto keep a certain area from becoming toomodern.
-
-What's the industry like?What are themajor imports andexports?How's the localeconomy doing?Apoorcityand a richcity canbetwovery different things indeed.Notethat thesemattersmayverywell betwo-sidedathriving chemical industrymaywellimprovethelocaloverall qualityof living,butit mighthave an adverse effect on the surrounding environment.
-
-## WHAT MAkEs IT Go?
-
-Youdon'tneedtogointotoomuchdetailhere,but it'sagoodideatothink about thebaicsabitForexalesthcitybuying smeofitrequd perhaps anuclearreactor.Some charactersmay well have an interest in these matters — an ecologically minded vampire might well want to shut down a polluting coal plant.
-
-You should alsothink about your city'sneeds a bit andsee that theyare takencareofnthe simplestof trms,thatmeans that peoplemust havefood shelterandwamth,althoughyucancertainlymakeitmorecomlicatd than that if you want to.Where do the local industries'rawmaterials come from?Who do they sell their products to?
-
-## POPULATION
-
-The peoplewholiveinacity are perhaps themost important thingfora Storyteller tothink about.Whatkindofpeoplelivethere?Are theyrich?Is citizens isacity in troubleitaffectsworkmorale,andunhappy peopledont feel inclined tocontributetothecity'swell-being.SomeKindredmayconsider humans to be cattle,but even themost bullheadedvampire usually under stands that even cattle must be cared for.A happy citizen is a productive citizen,and a healthy citizen is a lasting resource.
-
-Peoplearemore thanjustautomatonswho eat,sleep,breed andwork, though.They're what makes a city live. In most Masquerade games,com pletely normal,mortal humans don't play a very large part,as the player characters tend tobevampires,ghoulsorother strangebeings.Stillmost Kindredspendmostof theirtimeinteractingwiththehumansociety,evenif most chronicles don'tpaymuch attention to that.After all,that'swhat the Masquerade is about:hiding inplain sight.Vampires exist by feeding onreal, living human beings.While all the talk of the angst and humanity of it all may not appealtoeveryoneitisstill somethingthatisboundtohaveanmpactn thecharacters,andyoushouldtryandmakepeopleasmuchapartofyourcity aseverythingelse——perhaps evenmore so.
-
-## AUTHORITIES
-
-Are the authorities efficient?Arethere anymajor criminal organizations operating in the city?Who's got the political clout?Is there corruption? There's a great difference between a peaceful city whereviolent crime is relativelyrareanda citywhere criminal gangsrunfreeandfightwith each otherover thecontrolof theirturfs-acitywherethepoliticiansdotheir jobs properly andacitywherepoliticians areona short leash and drawfat paychecksfromthe peoplewhomakeyouoffersyoucan'trefuse.This alsohas a directimpact onthecitizens.JoeAverage preferstoliveinaplacewhereit's safe towalkthe streets atnight andwill become displeased if hecannotdo so.
-
-Of course, criminal activities aren't the only possible problems.An economiccrisis islikelytoresult in unhappy citizens.Without suitablefunds, the city'sinfrastructure startstobreakdown,bitbybit.Public services areno longeras efficient asbefore.Garbagecansmaybe overflowing because thecity can't afford proper waste disposal.Broken streetlights may not get fixed Bureaucracybecomesslowifthepeopleresponsibleforitgetlaidoff,leaving theremaining people to handle a bigger workload,which in turn increases stress bothfor the overworked and the unemployedand soforth.These are things thatmay easilybecomeimportantfactors in a chronicleif theStory tellerprepareproperlyWhatmrehyareroblemsthatcannotexed withforce;ittakesplanningandworkfromthecharacters.Whiletheseevents aren't likelytobecomecenterpieces,theyarecertainlythingsthatarelikely to interest the characters quite abit.Its largely aquestion of survival and quality of lifeforthem.
-
-Thesearehardlyallf themortantqustionsof courseWhenwas city foundedHave therebeenmajor disasters,suchasfies or earthquakes? How did they affect theKindred population?Was theremore to these disasters
-
-Tuide than themortal world knows?Thereis nomaster list of questions;these are all things that define what your city is like-the more detail you can come up with,thebetter.Agood waytogetahandleonthese things istolookatevents especially everyday events-in your own city and ask yourself Why are things like this?Howwould they be in my city?Itmay seem likea lot of work togotughndtbutayffifitakuaysell really are ina city that ismore than just a shallowbackdrop for adventures.
-
-Note thatit'sa good ideatopay some attentionto thereal locations you'll be using for the game when you're designing your city. Imagination is an impreslfkaau mucheasiertoreallyhave access toalarge parkwhichcanbeused for thegame. The samethinggoesforeverythingfrom theclimatetothe genericlookof the city.This is bynomeans a requirement,butit canmake things easier ifyou intend toplayin publiclocations.Ofcourse,ifyou'e only playingindoors, such things cease to matter andyou can go wild.
-
-## HISTORY
-
-Comingupwith anextensive anddetailed history for your city canbe a problem.Overdoit,andyouendupwithahugeboringbookthatnoonereally wantstoreadtilliguringoutwhenyourcitywasfoundedandwhyisagood idea,asisdeterminingthemajorpoints nitshistory.Whydidpeoplewanto move there andmake it grow?Whatkind of industry did it have in thepast? Who were the important people whomade it all happen?Are there statues or buildings dedicated to their memory?Have therebeen battles in the city?Has anyone foughtoverthecityitself?
-
-Your city'shistory can be just an overviewof theimportantevents,and you can elaborate on certain things as necessary.As long as it is consistent and answers all theimportantquestionsplayersmight have,itll do justfine.For most games,defining the present is far more important than defining the distant past.
-
-It's recommended thatStorytellerswhoface this task pay attentiontoreal world historyto seewhat happened in theworldatanygiventime.Events such as theCivilWarortheGreatDepressionor,inEurope,theWorldWars and the resulting aftermath or the Inquisition (if you want to go that farinto the past）haveprobably affectedyour cityagreatdeal.Intheend,it'snotvery difficult tdo allit requires s imepatience and a litlebit f ffort.
-
-That said, if your chronicle deals with the past,or includes many characters who have lived in the city for a long time— perhaps for a hundred years ormore-they'll need toknowenoughtoplay theirrolesconvincingly, and that will obviously require more attention to the city's history.
-
-Finally,make sure that thehistory of your city isknowntoyour players. How much they know should depend on what kind of characters they're playing,ofcourse;elders are secretivebeings anddon'tevealtheir preciou informationeasilyInanycase,kowingthehistoryhelsthmunderstandt city,andoncetheyunderstandtheir urroundingroperly,heyllhavefr easier time settling into theircharacters comfortably.It is absolutely pointless to come upwith a comprehensive andwell-organized history for thecity if it is never presented to the players.
-
-## PASTTREASURES
-
-The historyof yourcityisanexcellentplacetolookforplothooks They canrange from ancient secrets tolost treasures;anythingyou feel fitstheplot.lfthey'redirectlyconnected toyourcity'shistory,they can become quite cntertaining.As long as everything is written carefully and thebackground story is solid and detailed enough to provide a feeling of continuity,everything is all right.
-
-For example,there must be areason for those continuing Sabbat attackswhy do theywant thisplace sobadly?Maybeone of thosefew elderswhowaaroundundedarsagowhenthatackgana the answer.Or perhaps some of thelocal vampires are loyally guarding their sire'sbody thathas lainin torporforthepast50yearssomewhere below the city,ever since that infamous battle with the Lupines except now those damn Nosferatu have been snooping aroundin all the wrong places.... Or perhaps someone diablerized Prince Trevor all thoseyearsagoand hedidntjustgetfedupwiththejoband leave.ow hischildeiherebackomtheldorldndesaskingallofoe annoying questions....
-
-If you're feeling enterprisingyou can come upwithincredibly elaborate plots that were conceived centuries ago and are just now reachingfruition(or,perhapsjustgettingstarted;aterall,ifyoulive forever,you may not be in a hurry)-not that the key players necessarily realize this themselves.Manipulation is something many of the Kindred take rather seriously,and they excel in doing so without ever actively takingpart in the actual events.Thepossibili ties are endless.
-
-## Who's DoIng WhaT?
-
-There are some organizations in any and all cities that are of supreme importancetotheKindredPoliticalofficespoliceandfiredepartmentsandthe mediaarethefirstones thatcome tomind,and thusyou shouldspend time thinkingabout them.Unlike superficial things,such aswhat things looklike, thisis something thatmay have a direct impact onyour game.hat'smore, knowing what yourcity islikeallows you touse that information properly—it meansthatfsomeoneusesherinfluencetoorderthelocalolicearoundyoue not dealingwith abstract policeunits,youcan actually determine howthat affectstherestof thecity.TheKindreddon'texistinavacuum,andthoughthey may influence the city,the city also influences them.Neverforget that.
-
-Most organizations can be definedina few simple steps:
-
-What does theorganization do?This is simplyaquestionof defining the organization'sgoals and agendasA police department'sgoal istouphold the law andcatchthebad guys; asoftware companywants todevelop softwareand turna profit.Agendasmayberather simple orextremely complicated.Inmost cases,it'snotnecessaryfortheStorytellertodefine themdownto the smallest
-
-## WHO'S PULLINgTHE STRINGS?
-
-This can takemany forms. It may be as simple as a Nosferatu being forced tomove because his subterranean havengets invaded by a hordeofsewer workers,oritmaybeaVentrue finding some ofher stock losing itsvalue because the company's CEOismaking foolish decisionsor suddenly losing an important ghoul because he was shot in a mugging attempt.These things happen,and the more itfeels like thecharactersare just a part of abigger whole,the easier it is for the players to get into the game.Note that this doesn't mean that these should be random events;rather,they should be a logical part of the whole.A cunning vampire using her power overmortalsmay well beabletokeep events like this from occurring at all.
-
-Vampires liketo think that they are in control of thehuman society.Aimes,theyare even correct;afterall,ifyou control an influentialmemberofasocietyyoucancontrolcertainareasof society itself through that person.However,humans still have mindsandconcernsof theirown,andvampireswhoforget thatwill find that they've bitten off more than they can chew.A city is bustling with activity; there may very well bemillions andmillions of people going through their lives there.Whilevampiresmay steer humans in a direction favorable to Kindred goals and use their Influence toadvance their own agendas,ultimately humansmay do things that damage theKindred.
-
-details;a general understandingwill do.Then again,if the organization isa majorplotelement,it'sprobablyworth thetroubletogetthedetails.
-
-Whodoestheorganizationhavedirectinfluenceover?Apolicedepartmentcan disruptmostcriminal operationswith ease becauseour societygrants them the authoritytodoso.ndeed,theymayhaveagreatdealofinfuenceovertheofware company,ifthesoftwarecompanycommitsa crime.That said,ifthepolice departmentcomputersrunonthesoftwarecompanyssoftware,thecompanycan probably causea lotof troubleforthedepartment simplybyreleasinganextremely troublesomeupdatefor saidsoftware.Whichwouldofcoursebeillegalifone intentionally,butthese thingscanbe somewhathazy atbest..
-
-What canthe organization accomplish?Inotherwords,what kindof power andresourcesdoesithave.Apolicedepartment has agreat deal of authority due totheirstatus asthelocal lawenforcementagency,nottomentionplenty ofresourcesintheformofmanpower,equipment andsoforth.Ahuge software company has plenty of money and withmoney comes power——if nothing else, hiring a ravenous horde qfhighly paid lawyersgets you a longway.Furthermore,if their softwareispopularenough,theyhavea subtlenluencevr people,as changing their software alsomeans changing thehabits of the users. Ifnothingelse,if youknowtheins andoutsof the softwarebeingusedby everyone,you alreadyhaveapotential weapon
-
-TheCik
-
-What kind of weaknesses does theorganization have？Inmany cases,weaknesses are something inherent to organizations-a flip side of their very nature,sotospeak.Whileaolicedpartment hasagreatdealofauthority while actingwithin the confines of the law,unless they have evidence thata crime hasoccurredorisoccurring,they cannotlegallydo anything,evenf they know what's going on.A software company that spreads its software everywhereandcontrols themarketmay endupinlegal troublebecauseof that monopoly.There can be many additional weaknesses that don't follow this pattern,ofcourse.
-
-## CONTROL.
-
-Numerous references to control and influence can be found here. Storytellers are encouraged to think about how these things are accomplishedbe that throughdirect authority,blackmail,supernatural mind control or whatever.The Influences characters may have certainly come into play here,but instead of treating them as abstracttokensofinfluence,figureoutexactlyhowthecharacterhas comeby that Influence over themortal society and howhewields it. Influencesrepresentacertainamount ofcontrolbutitisuptohe Storyteller to decide just what that means in her chronicle-isit a ghouledpolitician,aseatontheboardofdirectorsorafakeersonalty with equallyfake authority?
-
-Definingallofthemajororganizations in yourcity in thismannercan take sometime,butnthe endyouwillhaveagood understandingofwho'sdoing what andwhy.Youwillalsoknowwhatkindof effectsvampireswhousetheir Influencewillhaveonthebigpicture.Consideringthat in large gamesyoumay havea dozen ormore powerful Kindredwho usetheir differentInfluences at the same time,it'sgood tobeable to see the big picture clearly.
-
-Certain veryimportant organizationsexist inevery city—police and fire dpartnliticfficeiwmanhol and soforth.They arecrucial tomortal society—without them,it cannot functionproperlyherefore,you shouldpaymore attention tothem;afterall, theyarethethings thatyourplayerswillbemostinterestedin.Havingacouple ofcopsorreportersinyourbackpocketcanbeablessingat thetimeofaserious Masqueradebreach.(Nothingtoseehere,maam,youjustmoveright along, please.You can read it in thepaper tomorrow.")
-
-However,notethatmicromanagingyourcitycanquicklyleadtodisaster. Whiltanefilisanwillvaan you havefarmoreworktodo.Agoodruleof thumbisIsit likelythatthiswill comeuinthgamftheanswerisyebyallmeanspendtimeonthinking abouttheintricaciesof thelocalpublichealthservicesbutdontdoitunless youneedto.Aterall,chances are thatyoullhaveplentyofother thingsto and there are only somanyhoursin theday.
-
-You'll indmore tothisprocess thanjust defining llf these things,though. For this information to bemeaningful,itmust alsobedistributed to theplayers
-
-## FRIENDLYWORDSOFADVICE,PARTTWO
-
-Thiswaywhenthelayerof thatVentruecomestoyouand askf there'sanywayhecantryand takeoverthecompanytheothercharacter justpurchasedyouonthavetofidgetandsay somethingoffthetof yourheadyou'll know theright answer sinceyouhaveit writtendown. Ifyourefollowingevenhalfof thesuggestionspresentedhere,chances arethatyouritywillbelargecomplicatedlacehatlivesalifof own,epeciallyoncetheplayersgettheirandsnit.Whileyouashe Storytellercontrolit,you should expect theplayersto change hings aroundtettrhiharactrsivehisislotfworku you haveit all down,you'll find thatmaking changes to things isnt nearly as much of a hassle as you might think.
-
-Writedown everything that you do,andeverything thathappens in the game.Everything.The importance of this can hardly be stressed enough.Just do it.
-
-Notethat it'squite all righttoexpect playerstowritereportsfor you.Youaren't askingfornovelsyoure asking for simpledescriptions ofwhat they did andwhat happenedto their characters.Even the thickest player should be ableto describe these things in less that15 minutes if hetakes the time todosointhenext fewdaysfollowing the game while everything is stillfresh in his memory.Anoral report with you writing down the details does equallywell.As longasyougetthe information,theexactmethodisuptoyou.Don'tletthemtalkyouout of it—youneed thatinformationtoproperlyrunthegame.
-
-properlypreferably so that theyknow asmuch about thebigpicture astheir characters do,as determined by their character backgrounds andwhatever Influence they may have. This usually comes down to simply writing the appropriate bits down and handing them to the players...Andyes,that's more work.ukilytlayffnceulayretnthoodandstartust information.WhileKindredmatterscertainly takea lot of timeand attention, mostKindredwho dabble inmortalaffairs take themrather seriously.If you do yourgroundworkwell,thatmeansthatthelayerscanactuallyseetheeffectther actions have on thecity their characters livein.Justremember thatyoumust provide themwith all therelevant information for all thistowork properly.
-
-Andlasuranltastyuavehinkaouwhaake citya partof theCamarilla and theWorld of Darkness andnot just another normalcity.Afterall,thegameisaboutvampiresandwhilepayingattentin tothecityitself canbemportantyoucertainlyshouldnosoandforgetall about thesupernatural.If thedynamicsofmortal societycanbetroublesome and complicated,thatcanbeawalkintheparkcompared tothecomplicated mess a single Camarilla city can hold for its vampiric occupants.
-
-## THE DARK END OFTHE STREET
-
-Whileyou'rehandingout all of thatinformation aboutthecity, consider the possibility that oneof thecharacters hasreceived faulty information,or is perhaps being tricked by someonepossibly another player character.After all,isn't that what controlling the mortal society is all about?Information and disinformation.Now thinkwhatmight happen if thecharacter acts ondisinformation say,a financial tip -firmly believing it to be true.
-
-## THECLANS
-
-OfallthepowergroupsinaCamarillacitytheclansarethemostobviou ones.Everyoneknows the exaggerated stereotypes,ranging from the artsy Toreador whogoes aroundwavingat things with his pinky pointing delicately at justtherightangle,totheferalhillbillyGangrelwhohastroublespellingher nameandcertainly,there'saseedof truth inall that;clanmembers do share common traits and characteristics and usually tend to feel varying degrees of loyalty toward each other in many ways,a clan is similar to a family.
-
-Clanelderstendtoruleovertheyoungermembersof theirclan,andtheir demands tend tobemetwith obedience.After all,doing otherwisemeans fallingoutoffavorandwithfallingoutoffavorcomesallortsofroblemsthat mostKindred wouldrather avoid entirely.Besides,doing favors to anelder usually pays offit'snot just theelder who gets something out of the deal. Lookinggood in the eyes ofa powerful Kindred tends tomeanmore status, influence andprotection.
-
-Therefore,clanstendtosticktogether.till,it'samistaketoassumethat justbecausesomeoneisamemberofa certain clan,sheinstantly shares her clanmatesagendas,goalsandideals.FromtheStoryteller'ointofview,is a mistaketo lump all members of a certain claninto one big group and assign a certain amount ofpower,status andresources tothem—there'susually infightingandrivalry,andevenif thereisn't,theresabsolutelynothingthat keepsaBrujahfrombeingapoetoraMalkavianfrombeingaquite seriousand responsible scientist.Thearchetypes canbegood forillustrating the generic nature thegroupnquestion,buttheyshouldn'tbeallowedtobecomeigid stereotypes.Inotherwords,no,all rujahdonotwearleatherandbeateach otherupordallTmerewearevillookingcloaksandliandcheatnd backstabwhenever theygettheopportunity.
-
-Furthermore,there is plentyof cooperation between the clans of the himbutmsurethCamarillwillsillstayuitedandrotectmagainst hordesfanarchabbatuinsandwwwhatlouthre thoughtisratheatatet,fobiuseasnsperatonxistsalu ofnecessitheCamarillamuststayunitedortwilfallandthlereale this.hymaylayiwgamueryraelyhysoathxn oftheCamarilla.VampireswhodisplaynoconcernfortheCamarilla'scontinued survival areconsidredecurityisksandrightlyso,andwhiletheymay survive theexperience,itssafetosay thattheymakequiteanumberofenemiesnhe processThelocalelersmaynotcareaboutaeudbetweentwoneonatebuf said feud threatens the Camarilla,they makeittheirbusiness.Indeed,many princesconsider suchmatters direct threatstotheir domainandactaccordingly.
-
-Yes,there are thosewho spend theirnights plottingand planning and schemngbuitthttyehiscrtainlyoesnlyallrvn themajorityof,theKindred.Manyof them just hang outand trytomake the best of theirunlives.Storytellers and players alike should alwayskeep this in mindwhen designing characters.It'll make for betterroleplaying,and itll make for a better game.After all, there is little drama in becoming the primogen or gainingpower for its own sake —if it's thenorm and the only objectiveofthegame,whocares?Abadguyisn'tabadguyifhe'snodifferent from everyone else.Friendship loses its meaning if everyone can always be depended to backstab everyone else—as does backstabbing.The game becomes predictable and pointless.Amaster of intriguerarely looks likeone —no one likes todobusinesswith someone like that；after all,why cooperate with someone ifyouknowyou'regoingtogethurtintheprocess?
-
-The otherreasonforcooperation is simpledespite alltheintrigueand plotting thatgoes on,mostKindredare mature enough tobe ableto form relationshipswith other beings.Theycan sitdownand talk about the events oftheday.Theycan havefriends and lovers-and theydo.Why?Becausethey areimmortal,and immortalitywithoutentertainmentgets oldratherquickly. MostKindred,alloftheirfamedinhumanitynotwithstandinghavestillmany basic human characteristics.If you live forever,you'll learn to enjoy a good debate.It'll befarmore interesting thancountingbricksorwigglingyour toes. Watchingamovieisafarmore pleasantway of spendingtwohoursthan sitting down and scheming."All work and no play makes Jack a dull boy,"as it were.
-
-Thesethingsshouldalwaysbekeptinmind.Notonlydotheyplayamajorpart whendeterminingthenatureof theKindredopulationofyourcitybuttheyare alsolikelytobesomeof themostmportantthingsinactualgameplay.Aferal in the end,most games consist of a group of vampires getting together and talking.
-
-The clanspowerful thoughtheyare,arehardlytheonlysuernatual power groups in the city.Often,coteries form across clan lines. Common interests cause vampires to band togethera group of Kindredwho share stronganti-Sabbat sentimentsmightforma secretsocietytobattleSabbat evenduringcease-fireorfnancialnterestsmightcauseagroupofvampi to pool their resources to gain control of thecity's economy.
-
-## OTHERPOWER GROUPS
-
-Also,theremaybeothersupernaturalcreaturesinthecitseeThing That Go Bump In The Night" p.164.
-
-There are many important officestobe filled inany Camarilla city.The princhriffgnl allof thesepositionscomewithquiteabitof powerandinfluence.Allof these characterswill need playerssomeof themmaybe played bytheStorytelleror theNarratorbuteventhoseneedgoodbackgrounds.Howdidtheyreachthir
-
-## IMPORTANTPOSITIONS
-
-positions?Aretheycomfortablewheretheyare?Dotheyhaveanymajorrivals who want in their place?How longhave theyheld their positions?
-
-While the specifics of those are detailed elsewhere—see"Positions of Powerp.121,it'sagoodideatokeep nmind that thecharacters are alsolikely tohave Influence inmortalsocietyinaddition to their Camarilla duties.These positions shouldbe treatedmuch like any authorityinthemortalworld,and while the actual details depend greatly on thepersonality of thecharacter holdingtheposition,theStorytellershouldprobably spend sometimethink ing aboutthebalanceofpowerbetweenthesepositions—bothwithin the Camarilla andwithin themortal city.
-
-## HAVENS
-
-All but themostnomadicvampires havea havenof somekind,and said locations are considered tobe thevampires domain.Even princesdespite holding great authority in thecity—tend torespect others'havens unless given good reason toviolate them.After all,thatpeskyTradition aboutrespecting othersdomainsisstilltakensomewhatseriouslyandwhileitmostlyapplieso princesmanyfeelthatitalsoextendstopersonalhavens.Thedetailvaryfm citytociyunostcasenvamirsavenrwordslaw.bviuy this doesn'tmeanthatavampirecankillamemberof theprimogen(or,indeed, properrespecttoavampirewhilepayingavisittoherhomeisagoodideaagood beatingorlossofStatusmaywell followfromfailingtodoso.
-
-The location of avampire's haven should alwaysbe thought out;every playershould knowwhere andwhatkindofaplace hischaracterlives in.Basic security（or lackof it) shouldbe covered.After all,thesedetailswillmakea great deal of difference if thevampire'shaven gets invaded.
-
-## ELYSIUMS
-
-Think about theElysium locations carefully.While the artmuseums and similar locations arepopular choices,theyare byno means the only options. TheaverageElysiumwillbeinaneasilyaccessiblelocation,andislikelytobe well-protected.You should think about what kind of guards theElysium has, where they'recoming from(aretheythekeeper'spersonal ghouls,ormerely hirelingsfromamortal securityfirmsomeonehasInfluencein),andwhether the Elysium directly interacts with the mortal world somehow or not?(An Elysiummightbelcatednapublicbuldinghatislosedforthenightuh as a library orabuilding that houses the city's political offices.) Is it in the middlefthcitynapubliclocationwhretheMasqurademaybefarmr easilybreachdyccientiscatdsmlaemorrivath of entrances and exits does it have?Do the Nosferatu have tunnels there? Furthermore,asgatheringlaces during dangeroustimes,theymakelvel targetsfortheabbatrtherenemie;afteralllowingupthelacehre theruling eliteis locatedmakesforagood tacticalmove.ThusmostElysiums tend tobein easilydefended locations.
-
-## OTHERLOCATIONS
-
-Other important locationsmay include(but aren't limited to)Tremere chantriesopularclubsorrestaurantspatronizedbyvampireandthe shops of blackmarket arms dealers.Anything that seemsto suit the localvampire population'sneeds and desires shouldbethought out.TheCamarilla canget organizedif eedbeandsomecitieshavebeenknowntosetupsafehousesfor Camarilla members in case of an emergency—especially during wartime conditions.All of these things should be pre-determined (or placed in a definitelocationinthecityifthecharactersdecidetoorganizesomethinglike this during the game).
-
-## HUNTING GROUNDS
-
-In mostcases,groups ofvampirestendtoregard theirhuntinggroundsas their territory.Passing through them is certainly permitted,unless the area happenstobe headedbyaparticularly troublesomevampire(inwhichcasesaid vampirehadbetterbereparedtodefendhisterritory)butmakingtroubleon someoneelse'sdinner tableisconsideredbadform andmaywell gettheculprit introuble.Ofcourse,theprinceofthecitystillholdssupremeowernthearea unlesssaidprincesaparticularlyunimpressiveweaklingnwhichcaseshes probablyon herway out anyway-but theprince isn't likelytoget annoyedover someonegetting slapped aroundbecause hecouldn'tbehave.
-
-TheKindredhaveestablishedhuntinggroundsandtheprinceofthecity usually grants each clan or coteriecertain areas as theirs to hunt on as they please.There areothermethodsofdividingupthecity,rangingfrom simply having the strongest vampiresorclansfeedingwhere they please and thelesser vampires doing theirbest to stay out of their way,to theprince declaring contests or queststo establishwhichclansorcoteriesdeserve tohave thebest huntinggrounds.ome princesmakeanelaborate spectacleoutofitall,while others toss a coin.
-
-TheStoryteller should pay closeattentiontothe huntinggroundsinsteadof just defining themrandomly.TheKindred canberatherpicky about their diets; therefore,huntinglocationscanbecome animportantissueinthechronicle.For example,aNosferatumaybequitehappytofeedintheslumsafterall,chances are thatit'sclose tohome-buttheToreadormight havesomewhatdifferent opinions about lookingfor convenientbumswhen they start tofeel peckish. Whiletheprinceswordiscertainlylawandtendstobeobeyedmostprince outoftheirwaytomakesuretheinhabitantsof theirdomains areatleastrelatively comfortable.Aterall,theCamarillaisbasedoncooperation,andwhiletheres plentyof pettybickering and lotting goingn,n theendits theCamarilla against therest of theworld.It pays tokeep the troops happy.
-
-Ofofinstthaata certainly have as much input in this as she desires.
-
-## OVERPOPULATION
-
-Anaveragecityneedsabout10000citizenstosustaina singlevamires existence.(For thoughts about exceptions, see "Size Does Matter,"p.167.) Thisnubermaybetheditbutaftractainintoblemstat tocropup.Unexplaineddeaths anddisappearanceswillstart tocauseproblems in themortal society,and thevampireswill inevitably feel the pressure and start to argue about hunting grounds and hunting rights.It's not necessarilya question of therenotbeing enough blood tofeed on(although thatmaybe an issue aswell)butratheraquestionofhaving easily accessibleblood sources.
-
-HheCity
-
-<!-- image -->
-
-There ismore tofeeding than having enough people around—the people in questionhavetofthetyethevamirecanafelyfedon.Aeallvy timeavampire feedsisapotentialMasqueradeviolation,andacitywhere vampireshave tostruggle tofind safesources of blood is acitywhere the Masquerade is justwaiting tobe breached.
-
-Thisismerelythebeginning,though,sincethereareothermattersaswell —there are only so many vampires who can pull strings inthemortal society until they start heavily stepping on each otherstoes.Thismaynot be a probleminall cities,butmostvampirestendtoberatherprotectiveof their ownresources,and if they are constantly being accidentally torpedoed by someoneelsesplans,temperswill flare.ndeed,nmanycasesunintentional sabotagemay beconsidered more offensive.(Are you saying that my plans are so poorly laid that you do not even have to try to ruin them?)
-
-Even if there are no such conflicts,most vampires don't like feeling crowded or boxed in.The nature of the Camarilla makesmost vampires feel somewhat uncomfortable or even threatened if there are too many vampires around.Theyliketohavetheequivalentofpersonalspaceifonlybecausethey knowthatiftherearetoomanyKindredaround,theprincewillkicksomeout and thatmaymean a powerstruggleas everyone attemptstomaintain their presence in the city.
-
-Theproblem iswhenever there arelarge-scale conflictsbetween vampires,theMasqueradeisatrisk.Whatever the specificssooner orlatea competent prince will simply clean house and toss out the vampires she considers least useful,most dangerous and easiest togetridofin order to preservetheMasquradeandrhapsmoremortantlrw saniy.
-
-## THEHIDDENHISTORY
-
-Youshouldpayspecial attentionto supernatural events asthesemayvery well have shaped thehistoryofyourcity.If therehavebeenvampire elders strugglingfor thecontrolof the city for thepasthundredyears,thatwill undoubtedlyhavehadaneffect,directlyorndirectly,onthemortalopula tion aswell as the localKindred.If the city hasbeen repeatedlyunderSabbat attack inthepast,thatwill certainly make thelocalvampires adopt arather defensive andcautiousmindset.Strangersmaynot get a verywarm welcome and arelikely tofind themselvesonthereceivingendof someratherintensive questioning if thecityhas a history of infiltrators or traitors.
-
-Pay special attention to the following thingswhen thinking about your city's history —they're things that are likely to come up in play:
-
-- ·Why is this a Camarill city?"Because that's what folks want to play"is a good reasontoplaya Camarilla game,but doesn't hold much weight in the chronicle itself.
-- Why is thebalance of power what itis?Thisrefersbothto theCamarilla's internalbalanceof powerand to thebalanceof powerbetween theCamarilla powerandinflnce,rtmaybthatlackmail,dirtyticksrvenn warfareareinplay.rperhapsthecurrentbalanceof power is somethingthat has justrecently been achieved and has yet to stabilize.
-- ·What exactly have thedifferentpower groupsbeen up toin thepast?For examleftheinceofthecitaenracedhathasprobablyhif thebalance ofpowerconsiderablyfromoneclan toanother.Moreimportantlyyouhouldthinkaboutecentventsandwhathasbeenacomplishd it's not liketheclans just popped into existence twonights ago;chances are that they've been busy.
-- Have there beenmajorconflicts between supernatural beings?While such battlestendtostayhiddenfromthepublic,especiallyifit'sannternalconflict within the Camarilla,itmayverywell haveanindirecteffect on the city especially once theKindred in question start to use their Influences togain an edge against their opponents.
-
-## WHY GO THROUgH ALLTHISTROUBLE?
-
-Firstof all,nooneisexpected topickup thebookandgo through allof thesestnnnattailwhileatingciyath,hs exist toheighten awarenessof these issues andgiveadviceandpointers on whattodowhen theStorytellerdecidesthatshedoeswant tocreatemore depth andrealismforhercity.It'suptoeachindividualStorytellertousewhat she likes andnot usewhat she doesn't like.
-
-Atthisointavingreadalloftheaboveyoumaybewonderingwhyou should bother.An excellent question.
-
-Secondly,agoodbackgroundgivesplayersthechancetoplaytheircharacters properly.Insteadof beingvampireswhoconveneinsomegenericlocationto plot and bicker amongst themselves forno goodreason,the characters can becomea partofagreaterwhole andoccupyaparticular nichewithinthesociety. Simplyput,itsaroleplayingtoolnodifferentfromdressingupforthepart exceptthatit'shappeninginsidetheplayersheads.Somewouldeven arguethat thisisfarmoremportantthanplayingaroundwithpropsftheplayerscaneally feelthat theyarenthecityandthattheresfarmorehappeningaroundthemthan whatthyeewillmaketfaeasfrhmtnharactrandeat city like a city instead of a shallow andmeaninglessbackdrop.
-
-## ISN'TALL THIs WArToo MuCH?
-
-Third:lothooksplainand simpleIftheStorytellerwantstogobeyond the basic"creepy one-eyed Tremere bastard plots tooverthrow the regal and selfcenteredVentrue princestoryline,thisisanexcellentwaytodoit.It rareforasneakyvampirentheCamarillatodirectlyattackanyoneespecially as thattends tobemore trouble thanit'sworth.Why assassinate someone and risk beingfound outwhenyou canjust as easily capturehis powerbase by gaining influencewithin thecity-anddo sowhilefollowing theCamarilla's ruleshesanetirmancityjtwatingtxlotdandf Storytellerwantsthecitytobecome somethingmorethanjust InfluenceTraits and the occasional Rock-Paper-Scissors test (hardly something that improves themoodhemustdfineitinsufficientetailfrtheayersgt feeling that it really works in a logical manner.
-
-No.Well, it shouldn'tbe.People tend tobe able to absorb information you'veentall thattimreating,hyprobablyarentveryinrestedinh game,either.
-
-TheLity
-
-However,alwaysrememberthatitsatwo-way street.While theplayers have the responsibility to know the rules of the game and know their charactersstatisticsbackground and everythingelsethatisrelevant,the Storytellerhastheresponsibilitytoprovidethemwithallof thatpreferably in a format that can be easily understood.Taking the time to prepare the materialisadefiniterequirement.fyouhand themstacksofmessynotes,hey aren't going to be very impressed,but a document that contains all the important informationwill verylikelydothetrick.Notethat awell-prepared documentcanberatherlongandsinkinustfinewhreasashortbutoorly organizeddocumentmay go unread.
-
-And rememberdon't overdo it.While playerscan be expected to read andunderstandinformatonreevanttthchronicl,isprobabl afty that most players aren't willing to memorize hundreds of pages of setting material justbecause you'reonaroll.Theexact limits differfrom groupto group;itsprobablybesttotalk about thiswithyourplayersbeforehandsothat you know where you're limits are.
-
-## THINGSTHATGoBUMPINTHENIGHT
-
-AStorytelleroftengets theurge tothrowallsortsof supernaturalcreatures into themix.Moreoftenthannot,thebest advice hereis"Thinkit through, andconsiderthe possibility that thiscouldbeaverybadidea."Admittedly,this is somewhatharsh,butexperiencehasshownthatitisvery easytofillupacity withsomanysupernaturalbeingsthatyoucan'tcross astreetwithoutbumping into something huge and horrifying.
-
-This isnot to say that it is impossible orwrong to use a pack of Lupines or a group of wraiths as worthy antagonists,but the"monster of the week" approachgetsoldveryquickly.Vampiresrarely interactwithother supernatural creatures,and suchencountersshouldn'tbecomecommonplace.Iftheydo, you'll find yourplayers yawning."Oh,it's just a pack of lackSpiral Dancers. We see them all the time."
-
-Whatrhanehatuaarntidam obvioustothemthattheonlyreasonthesebingsexististoposeathreat,te game world loses much of its integrity.It's far better to keep the players wondering aboutwhat isreally going onwith them especially as it alsogives you easy access to good plot hooks.
-
-Rathfuwantuavuauant place forthemfrom the start.Maybe thefurbals like the central park or the woodsoutsidethetown,andmaybe theolduniversityholdsagatheringof customerswhoaveabithingfortheOshatsallveryellandgoodb weakotswatvehmayeablyuhudmaum
-
-<!-- image -->
-
-something thatcanbe avoided.Youraveragefurball won'tcareonebitabout some vampires'internal power struggles.
-
-## BREADAND CIRCUSES
-
-If you're going for a high-action game with lots of excitement, there'snothing inherently wrong about havinghordesofevil monsters descend upon thetrenchcoated characterswhose silver-platedtwin katanas and death-dealing chain guns are already brought to bearnever mind where they're coming from.It will ruin your game's internal logicbutwhocarestmaynotbeexcellentrolplayingbu it can be fun.
-
-Just bewarned that ifyou go down thispath,returning to status quo can be extremely difficult if not completelyimpossible;this is the kind of a thing that willmark a game forever.Alsokeep in mind that playerswho expecttoplay in a more serious gamewill notbe pleased about this.It's probably a good idea tomake up yourmind about this before you begin the chronicle and give fair warning just to avoid ending up with justifiably disappointed and resentful players.
-
-Alsonote thatjustbecause therearesuchbeingsnyourcity,thatdoesnt mean thattheplayercharactersnecessarilyknowabout them.Thereisnogood reasontoconstruct theequivalentofa neon sign that says,Herebemonsters! it'softenbetterthat thecharactersfindoutaboutthembyaccident,ifatall. Keep them guessing.
-
-## RUNNINGWITHITALL
-
-SomeStorytellersliketoruntheirgamesbothasregulartabletoproleplaying games (using the Vampire:The Masquerade) and as live-action games （using theMind'sEyeheatre)Obviouslythat allowsforagreatdealf detailasall of themajortasksthecharactersundertakecanbeplayedout.Theproblemwith this approach is that most Storytellers prefer to have lives beyond the game.
-
-Asyouhavebeentoldreatedlybyow,youhaveprobablyrealizedthat this is a lotof work.Depending on the nature of your chronicle,these things may ormaynot come upinyour game.It all depends on anumber of factors, such as howmuch time youwant to spend on thesematters andwhetherornot youwant to letyour players do anything inbetween the games(and if so,in what detail?).
-
-Luckily,there areother,esstimeconsuming optionsSomeStorytelles useInfluencesormakedealswithothercharactersbutdontltthemattack othercharacters or significantly advance the lot.Otherst themdoasthey reritlavama "That's enoughfrnwheeaemanydiffentways tdeal withthis thebottom lineis:Let themdo asmuchas you think isappropriate.Ofcourse, themorerealism and internalconsistencyyouwant,themoretheyshouldbe allowedtodo,butdon't let thatbogyou down.Chances are thatyou have a real lifesomewhereinallofthisandyoushouldn'tletthegametakeallofyour time.Burnout will ruin the game more certainly than not letting a player go over to someone'shouse andDominate everyone there into submission.
-
-It's also important to determine how fast (or slow) timemoves.Some games spandecadesorvencenturieswhilethersmoveforward sowlyn night atatimewhileinthereal worldmonthsoreven yearspass.Ifyoudoallow characterstoactbetween gamesyoushould takethisintoaccountoncethe period of time between games becomes months or years instead of days,the actions the characters take tend to become farmore generic and the scope of the game changes.This isnot abad thing by any meansbut it does requirea different approach from the Storyteller.
-
-## THERE's No PLACE LIKE HoME
-
-You may wish to use a real city in your Masquerade chronicle—most likelythecitywhereyoulivein.Afterallthateasyenoughfortheplayers getafeelfnrhaoremortanlytavesualotfwrkince players alreadyknow the place.Furthermore,it'softenfun to take thereal worldandrewriteitintotheWorldofDarkness,butittakesmorethanacoat of blackpaint and abunchof monstersto accomplishthat.
-
-A good placetostartcreatingaGothic-Punkversion of yourcity is simply takinga look atitshistory.Chances are that there have beenvampires there fora while now—for decades oreven centuries.Considering that some cities in theOldWorldmaybewellovera thousandyearsold,thatcanbequitea bit ofhistory to cover.If there have been vampires in the city,they have undoubtedly meddled in its affairsquite abit overtheyears.
-
-struggle of two elders—somuch the better.TheKindred don't run theentire
-
-Note that this certainly doesn't mean that all significant eventswere initiated byvampires.Quitethecontrary—humans arerather good atmaking decisionsallbythemselves.Still,ifitasanmpactonthecitythasanmpat on the vampire population.Thus,the Kindred have a vested interest in keepingontop of local events,and if your city'shistory includes a heated politicalbattle,itmayhappentobe theerectmanifestationofthepower show,but they can certainly make things happen if they so desire.
-
-afictional city.However,thereare somemarkeddifferences.Insteadofcoming
-
-Inmanywaysthrocefconveringaealcitysverimilartcreaig upwithrganizatinsyoullmost likelywanttotakealookattherganizatins shoulifntidryntilh theplayercandependonthirowledgeofthelace,andthatlonecutou workload intoa fraction ofwhatitwould bewith a fictional city.
-
-## "ACTUALLY,THAT'SCLOSED ON SUNDAYS.
-
-Theproblem with playing with peoplewhoknow the place is that they really know the place-possibly far better thanyou do.There are legitimatcorrectinsfcorseesidesostopleundrstandthats unreasonable toexpect that every singledetail inyourchroniclemirrors reality.tillonerrlateryourlkelyrunintosomonewhofels like correctingyou,over andover again,untilyou start tofellike changingthingsjust toshut himup.Don't.It'syourchronicle,andyouget todecidewhatyourfictionalversion of thecity looks like.Smart players will understand this.Acceptingconstructivecriticismisagood thingbut putting up with continuous carping about small details is just silly.
-
-## SIZEDOESMATTER
-
-There are three ways youcanhandle this:
-
-The sizeofyourowncityscertainlyafactor,asitdirectlyaffcts vampire population.InMind's Eye Theatre games the size limits are often stretched,andthatsallrigaftrallotverynelivesinacityopula bymillionsof people.However,incertaincasesitbecomesobviousthatthere are simplyfar morevampires in any given area than it can support.
-
-You can stretch thelimit and say thatvampirescan survive onsmaller populations,rgnorethematterentirelyThisisaimlesolution,butthres a downside to this:It does mess with the game's internal logic.Depending on whatkinfnicleuwantutaytlmatlla become a huge problem.The challenge in deciding your city'sKindred-topopulationratioistomake sureitmakessense andisconsistent.Otherwise the storymay develop logical flaws thatcauseproblemsfor thewholechronicle.
-
-The thirdoption istodecidethattherereallyarefarmorevampiresinthis area than usual andwork out reasons why they are there and how they can survivewithoutbeingdetectedForexample,anareawithalargemeatindustry will producegreatamountsofanimalbloodandnooneislikelytonoticeifsome ofitendsunlocalysumtsnoteylamorousuinthnlod isblood..andbloodsweallwsliayehumansdt and take action.That should make for a diffrent kindof achronicl...
-
-Alternativelyyoucanincreasethesizeofyourhometown.Itmaywell that Smallville,Oregononlyhasafewhundred-thousandinhabitants(orless), but youcanalwayspretend thatit'sahugecity.Aterall,if youcan pretend that theVentrue you're talkingto actuallyhasMajesty and thatyoucan'tee theNosferatulisteningnonyoutwojustbecausehehashishandscrosedover his chest,pretending that you liveinabig cityhouldn'tbe that ad.
-
-## REAL PEOPLE AS CHARACTERS
-
-Whenyouebusyconvertingyourcityoonerrlateryouelikelytogt
-
-TheCity
+Inmanywaysthrocefconveringaealcitysverimilartcreaig upwithrganizatinsyoullmost likelywanttotakealookattherganizatins shoulifntidryntilh the playercandependonthirowledgeofthelace, and that lonecutou workload into a fraction of what itwould bewith a fictional city. ## "ACTUALLY,THAT'SCLOSED ON SUNDAYS. the problem with playing with peoplewhoknow the place is that they really know the place-possibly far better than you do.the re are legitimatcorrectinsfcorseesidesostopleundrstandthats unreasonable toexpect that every singledetail inyourchroniclemirrors reality.tillonerrlateryourlkelyrunintosomonewhofels like correctingyou, over and over again, untilyou start tofellike changingthingsjust toshut himup.don't.It'syourchronicle, and you get todecidewhatyourfictionalversion of the city looks like.Smart players will understand this.Acceptingconstructivecriticismisagood thingbut putting up with continuous carping about small details is just silly. ## SIZEDOESMATTER the re are three ways you can handle this: The sizeofyourowncityscertainlyafactor, asitdirectlyaffcts vampire population.In Mind's Eye the atre games the size limits are of ten stretched, and that sallrigaftrallotverynelivesinacityopula bymillionsof people.how ever, incertaincasesitbecomesobviousthatthere are simplyfar morevampires in any given are a than it can support. You can stretch the limit and say that vampirescan survive onsmaller populations, rgnorethematterentirely this isaimlesolution, but thres a do wnside to this:It do es mess with the game's internal logic.Depending on what kinfnicleuwantutaytlmatlla become a huge problem.The challenge in deciding you r city's Kindred-topopulationratioistomake sureitmakessense and is consistent.Otherwise the storymay develop logical flaws that causeproblemsfor the who lechronicle. The thirdoption is todecidethattherereallyarefarmorevampiresinthis are a than usual and work out reasons why they are the re and how they can survivewithoutbeingdetected for example, anareawithalargemeatindustry will producegreatamountsofanimalbloodandnooneislikelytonoticeifsome of itendsunlocalysumtsnoteylamorousuinthnlod is blood..and bloodsweallwsliayehumansdt and take action.That should make for a diffrent kindof achronicl... Alternativelyyoucanincreasethesizeofyourhometown.Itmaywell that Smallville, or egononlyhasafewhundred-thousandinhabitants(or less), but you can alwayspretend that it'sahugecity.Aterall, if you can pretend that the Ventrue you're talkingto actuallyhas Majesty and that you can'tee the Nosferatulisteningnonyoutwojustbecausehehashishandscrosedover his chest, pretending that you liveinabig cityhouldn'tbe that ad. ## REAL PEOPLE AS CHARACTERS when you ebusyconvertingyourcityoonerrlateryouelikelytogt the City
 
 MAps
 
-Using maps is a good idea.Buying a decent map of the city probably won't be too expensive:you may even get local tourist maps for free ifyou're lucky.You can easily use them to define important areashuntinggrounds,havensElysiumsimply by marking them on themap.You'll get a much better understanding of thebigpictureif you can just takea look at themap and seewhere everything is.uitablyprepared,theycanalsomakevery good props for the game.After all,a fledglingNosferatu may well carry amap with the most commonly used entrances and passage routes of the sewer systemmarkedonit,oragroupof eldersplanning thedefense of thecity against an upcoming Sabbat attack will certainly want to look at a map.
+Using maps is a good idea.Buying a decent map of the city probably won't be too expensive:you may even get local tourist maps for free ifyou're lucky.You can easily use the m to define important are ashuntinggrounds, have ns Elysiumsimply by marking the m on the map.You'll get a much better understanding of the bigpictureif you can just takea look at the map and seewhere everything is.uitablyprepared, the ycanalsomakevery good props for the game.After all, a fledgling Nosferatu may well carry amap with the most commonly used entrances and passage routes of the sewer systemmarkedonit, or agroupof eldersplanning the defense of the city against an upcoming Sabbat attack will certainly want to look at a map. ifa localpoliticianbecomesapartofthechronicle(afterall, itnicelyexplans just where all of that Influence comesfrom).What'smore, this all owsyou to have charactersdirectly associatedwithallof those or ganizationsyou've spent so much time developing. Still, some pitfalls do exist. someone's politics immensely and end upmaking him a foundingmember of the Gentlemen's Club of Evil Powermongers, but the player who ends up playing him may well disagree—or viceversa.While this is probably something that can be sorted outwithasimple conversation, you should always remember that the players do n'tnecessarily agree with you r views. Politicscanmakepeopletouchy, and if someonebelievesthatyouremaking a personsherespectslookbadbecauseyoudislikehispoliticstsnotlkelyo improve the game.It'sagood idea tomake sure that the game do esn't become anyone's personal soapbox. Also, this somewhat touhyoundtsfaceit, ayverywelltht the personthecharacterisbasedonwould take of fenseif hefindsoutthat he is portrayed as an immoralundeadmonster that sucks bloodout of peopleand you can'treallyblame himfor that.Discretioniscertainlyadvised, and you should makeitcleartoyour players that this is afictionalcharacterbased on are al person and do esn'trepresent the realperson.Storytellers are strongly advised torefrainfrom using the game as anexcuseto abuse someone.It's you r game, and you can do asyou please, but you have beenwarned. using the ir real identities.The practice is certainly commonly used in the goingonbuwithoutthriskfffendingeopletobadlytmaynotqut givinghersimilarmannerisms and historycanbejust asgood asthereal thing and potentiallyfar less troublesome. amaril
 
-ifa localpoliticianbecomesapartofthechronicle(afterall,itnicelyexplans just where all of thatInfluence comesfrom).What'smore,thisallowsyou to havecharactersdirectly associatedwithallof those organizationsyou've spent so much time developing.
+REAL-LIFE or GANIZATIONS
 
-Still, some pitfalls do exist.
+## from THE ASHES of THE OLD.. The same appliesto converting local or ganizations into what everthey are in you rverionof the city.you can certainlydo so, and the resnothingwrong with that-quite the contrary;having the same landmarks and corporations inyourgameasyourrealcitydoesprobablyenhances the moodquiteabit.Still, cautionis advised.Some corporations are extremely touchy aboutwhere and how the irnames are beingused.Again, itgoesbeyond the scope of this book to tell you specificallywhat todo about situations like this;it all comes do wn to the Storyteller's discretion, but it's good to pay attention to the se things. Certain Masqueradechronicles out the re have been running for years now, and moreoftenthannot, oonerorlater, the eoplerunningthegame are goingtositdown, takealookattheircreationanddecidethatitneedsan overhaul—after all, peoplegrow.What seemed likean incredibly cool idea when you were a teenager might seem lame five years later.Perhaps the chroniclewasoriginallyfounded by someonewho had aquitedifferentidea of how togoabout do ing things, or perhaps thingshave simply gotten outof control—maybe someone said"yes"when he should have said"no"a couple of times too of ten.the se things happen.the re are many chronicles that can stand tokeeponchuggingalongjustfinewithoutntervention, but attimes emergencyprocedures are required tokeep the patient alive. ## MINORFACELIFT the re are different levelsto this—itmay simplybeaquestionof tweaking relativelysmallthings hereandthere, or itmaybeatotaloverhaulthatrequires the brainpower equivalentof a dry do ck and a huge crew of highly trained engineersandtechnicians.Muchcanbesaidaboutthisbutintheenditcomes do wn to threeoptions:You can either subtlyupdateyourchronicle asmuch asispossiblewithoutchanging it somuch that itbecomes something entirely different;you can tinkerwithtuntilyouretotally satisfiedwiththng, and accepthendresultasyournewchronicle, or, nsometminalcases, you can (and probably should) decide to dump it entirely and start over from scratch. Perhapssuprisinglyhisoptionisusuallyheostifficultnedatin bits and pieces hereand the rewhile attempting tokeep all of the previous continuityintactcan beextremely difficultespecially if the reare things in the chronicleshistorythatyouwouldprefertogetridofbuttheyarelinkedrather solidlytootherevents.Everythinginthechronicleisa partofacomplicated, largerwholeandifyoualternethingthatwillaffecteverythingelseoumay want to just change things aroundas you please, but the consequences will certainlyinfluencethewholechronicle.Iftheplayersnevernotice, this maynot be a problem, but taking the chance is usually not advisable. not e that you don't necessarilyneed tochange past eventsinthe gameto fixthingattimesita smlbnougchangethingsnw.h was calledbackto Vienna tobe briefed.I hear they have a big jobforhim. you do ntlikethewayacurentstorylineisgoingyoucanalwaysendih now.tmaybebitluntand suenuhnagan, hatcanaennl of this techniqueshatifi mehingthatappened tthecharactersis onbythateventwhileignoring the causeof the changecompletelymaybea badideaorviceversa:ignoring the changesbutkepingthecauseisn'tikely toworkoutmuchbetter. Inmost cases, unless you know that you only need to change a couple of thingsyou're probably better of f chucking the current continuity out the windowandacceptingafewbigchangesasitcanealmostmpossbletee everythingincheckwhilestill overhaulingthechronicle. Stillfallyouwantistofixrelativelymall thingshereand the re, this probably the way you want to go. Be warned that despite you r or iginal intentionsinmanycasesyou'llendupdoing somethingbigger as you findthat the small changes just aren't enough. ## MAJORSURGERY the re'snoniceway of putting this:the re are plenty of incredibly bad characters out the re, ranging from stereotypical cute teddy-bear-carrying Malkavianswhodosillythingsbecausetheyrejustsodankookytoincredibly powerful Tremereelderswhouse highlevelsof Thaumaturgyto laywasteupon anyonewholooksatthemfunny.when layedbadlysuchcharacterscrpl achroniclerathereffectively, and removingorfixingcharacterslikethatmay be just what the game needs. The second option is considerably easier—it all comes do wn to takinga look atwhat you already have and the n systematically changingthings around until you like what you see.how ever, not ice that"easy" do esn't mean "effortless."It'll be a lot of work, makeno mistake:Not only do you have to makeallof thosechanges, you alsohavetomakesurethatyourplayersknow what the changes are!This means yetmorewriting. Removing and fixing bad plotlinescanbemorediffculttmaybethat fr what everreasonhrearethingyouwantgetidfmayetheu of anarchswithathaumaturgicallymodifednucleardevicethatwill destroyall supernaturalngnhlanetlssthyaeccptedintth Camarillr maybetheideaabouttheprincebecomingobsessedwithpaintingeverything
 
-someone's politics immensely and end upmaking him a foundingmember of the Gentlemen's Club of Evil Powermongers,but the player who ends up playing him may well disagree—or viceversa.While this is probably something thatcanbe sorted outwithasimple conversation,you should always remember that the players don'tnecessarily agree with your views. Politicscanmakepeopletouchy,and if someonebelievesthatyouremaking a personsherespectslookbadbecauseyoudislikehispoliticstsnotlkelyo improve the game.It'sagood idea tomake sure that the game doesn't become anyone's personal soapbox.
+e itsgoingtmakethlaeathsleasdtsttnlyisitfrutatng have do nlthatwrkorthingb it alpanfllbviustimthai happeningjustbecauseyouchangedyoumind Itmakesitmosblefohe playertustifyhatinsthcharacterandtlayewillavel choicebuttodropoutofcharacterandexplainthathehadgoodreasons for do ing what he did until the world changed around the m—hardly something that improves the game. (not e that having such a sudden change of instructions happenasarfthgamifunntildiffenthn the reismajordifferencethere the characterisstillikelytobeisleasef course, but that's anothermatter.)
 
-Also,thissomewhat touhyoundtsfaceit,ayverywelltht thepersonthecharacterisbasedonwould take offenseif hefindsoutthat he is portrayed as an immoralundeadmonster that sucks bloodout of peopleand you can'treallyblame himfor that.Discretioniscertainlyadvised,andyou shouldmakeitcleartoyour players that thisis afictionalcharacterbased on areal person and doesn'trepresent the realperson.Storytellers are strongly advised torefrainfrom using the game as anexcuseto abuse someone.It's your game,andyou candoasyou please,butyouhavebeenwarned.
+Asalastertfuabllyavetuanalwayay, ku, this is ntworkingout, omgoingochangethingandif itreallymakesou lifesuck, letmeknowandwell seewhatwecando.It'snowherenearaperfect solutionutit'sstillbetterthanjustmakingdecisionandthenrunningwih it as if not hing had happened.That'lljust annoy the players;the playerswon't like the otherdecisioneitherbutitll stillbebetteratleastyoull levelingwiththem.Treatingthem likeidiotsorpresuming that it's all right to make up the ir minds for the m is a sureway to getin an argument. Ifyoudochangeyourlansyoushouldtrytodosogracefullyothatitmakes sensettlayerfatllossibllayrsouldevecomeawara things have changedbuthismaynotbeanoptionnsuchcases, itsxtrmely important that you do cument the changes and makesurethe playersknowwhat the new situation is like.they dependon the ir Storyteller to give the m all the relevantinformationabout the gameworld with out that information, the yare practicallyindfourseisisatwwaystreetfntisttoryellew finds herself blind.If the rearemanyplayers and anumberof games have been played, that usually means that alot has happened, and it'sveryhardo rememberwhat happened ayear and a half agowithoutgood not es. Inallcaseyoushouldkeeinmindthatlayersmightnotbetoohappywih the Storytellercoming over and telling the m that the chronicle has justchanged radicallysuchhangesareboundtoaffecttheicharactersandlayersftentak a dimviewof someone simply telling the m what happens to the ir characters and rightlyso.the Storytelleroesettodeciewhatappensandlayersont feet Itsporattensuethatthlayerskwwhatgoingonandtha Storytellerdoesn'tcomeoffasanevildictatorwhowarpsthegamejustbecause he feels like it.After all, a successful game is a group effort. The third option is something of a final solution, but a Storytellerwho knowswhentolayachronicletorestisawise oneindeed.If the playersare revolve around silver abominationswhoslaughtercharactersleftandright somewhreelsedinkingbeer, the is absoltelythingwongwithcallin itquitseed, itspbablyagod ehreintnruingga that's no fun. ## ITHINKHE'S GONE, do CTOR
 
-using their real identities.The practice is certainly commonly used in the goingonbuwithoutthriskfffendingeopletobadlytmaynotqut givinghersimilarmannerisms and historycanbejust asgood asthereal thing andpotentiallyfar less troublesome.
+That saidhisisardlythnlyeasonhonilehoudeallw who were upposedtolaycertaincharacterscoudnmakeitrthateat overall plot idea that looked so good on paper just did n't work out in play. Again, the ethingshapen asgingblameprobablynt the waytogoe
 
-amaril
+After all, you can always start over again and learn from you r previousmistakes. the rearenovalidguidelinesfordentifyingagamethatisn'tworkingat leastnehavynaenhataidf ttorytl enjoying the gameorif the majorityof playersaren'tsatisfiedwithitandit lookslikeitwouldn'tbeworththetroubleoffixingeverythingthat'sbroken, the re are good indications that it'sprobablytimetoput an end tothechronicle. ## THE STRUGGLE FOR CONTROL the Masquerade is perhapstheonly common goal that all Kindred in the Camarillacanagreeupon Itsmembersfightaconstantbattle, not onlytok the kinefromwitnessingvampiricactivitybutalsotodiscreditanythatwould try tobring for the vidence of supernatural existence.The primaryweapon in this battle is the influence that the secthas developedwithinmortal society. this networkextendsfromCEOs and politicalofficialsall the waydown tothe gangs and the bums onthe street.Itcanbe as direct as blackmail or as subtle asmisdirection.In some cases, it may be garnered through use of Disciplines or Abilities.Most of ten, itisboughtthroughknowingprecisely how the"machine"works and what rewards corruptedmortals desire. Thoughthegoalmaybecommon, the implementationof this controlis as variedas the clans and ages of the Kindred the mselves.Each clan—and eachindividual with intheclan—has itsown agendaandapproach toward the kine'soperations.Some exertcontroloverevents that affectthem.Others seek information to use as currency.Older Kindred prefer stable enterprises that have high stability and little turnover.you nger Cainites preferinnovation, which involves more risk, but promises a higher return. Regardless of approach, such resources are coveted by Kindred with differing agendas.When this occurs, they are contested.Some of the most viciousbattlesfoughtbythe Camarillaarenotfought against enemiesbutover influence.Both sideswill weave intricate plots to seizecontrol while others stand asidetowitnessthemaneuvering and seetheoutcome. Statusmaybeareflectionof an individual's not or ietyandstandingwithin the Camarillabut Infuenceistheeasureof power.the Kindred with most swayarethenesthatgarnerthemostfavor.ikewise, the neswithte most favor are rewardedwiththeopportunities to eneratemore swayhus the vicious circle is created and maintained. ## RUNNINGINTHESHADOWS
 
-REAL-LIFE ORGANIZATIONS
+Kindred in the Camarilla jockey for power and position, of ten at the expense of each other.Many have come to realize that the easiestway to overcome a rival is to take what is hers and makeit you rs.A delicate balance
 
-## FROMTHE ASHES OFTHE OLD..
+G you r pwermustevidentufyourowerisoreadilapparent vulnerable to thosewho covet it.the reisno Traditionwithin the Camarilla that ensures a Kindred can keep what he can not hold. the bestwaytomaintain anydegreeof powerin the Camarillais tokeep ithidden inmystery.Itishardtodestroywhatyoucannotfind.Itishardtosteal what you cannotgrasp.Mostmportant, itishardtoprepareforsomethingou can not conceive with intseshadowowerbasesarebuiltandgrownh same practicesthathidethetruth aboutvampiresfrom the mortal world are used toconceal plots and maneuvers from fellow Kindred. ## TENTENETSOFINFLUENTIAL ENTERDRISE:INFLUENCES FROM AN ELDER'SVIEW
+- Try toactremotely.Many Camarilla Kindreduseagents and retainers to mplement the ir control.This serves as a stopgap for those attempting to trace the actionsbacktothemastertalsoallowsforaconvenient scapegoat when the prince or archon gets a little too close for comfort.A setbackcan easily become beneficial if the minion of one of you rrivals can be you r scapegoat.You may not always win, but you should never lose. - Maneuver with discretion.Kindredseldomdirectlyinfluencemortals in can attractconflict and attention.Ifthemortal'swatchdogsdonotinterfere, the Kindred'scompetitorswill.Indirectmethods are hardertotrace and tosabotage. Sometimes the bestplace to hide is where no onewill think tolook. - Avoidmortal contact when possible.Onewaynottoreveal toamortal that he is beingcontrolled is to not deal with the mortal at all.Accidents can erase valuable files.Itineraries can be altered at the printer.Evidence can mysteriously disappear.Objects tell no tales———tomostmortals at least. - Be wary of strong-will ed prey.Mortals are beasts of conscience and arrogancenomatter how muchtheymay declare otherwise.when amortal realizeseisingcontlledwilltrytehimseffhsunable will becmratnthniaapdanmalwilltxtm lengthstobefreed, evenifhemustharmhimselforothersntheprocess.This is far toomessyfor Kindredwhowishtoremain in the shadows. - Create redundancies.Most matters of intrigue are maintained by the successof you r project.A lost pieceshould never cost you the game. - Create contingencies.A master plan should never be set in stone.It should besolidenoughobereliableandnotlettochancebuttmustalso beflexibleenoughtoadapttoadversity the will owbendsinthebreezethat breaks mighty oaks. - Conceal the scope of you r power.Ifnone of you ragentsknowsmore than a piece of the overall puzzle, the nno onewillbe abletodiscoverthe entiretybycompromising onepart.If you are onlyas strongasyourweakest linktiesifourweakestnkwnlyallafthchain practicewasusedwhen the Americans developed the first atomicweapons. - Establisha cover.not hing should be as it appears.Create a facade aroundyour operations that is asdifferentfromtherealityaspossiblelant rumors and false evidence supporting the charade.Pretend tofail incovering the City the mupsothat the investigators will feeltheyhavefoundyourtrueintentions. Manytimes, itiseasier tobelieve awell-told lie than a hard-to-find truth. - Benefit those who can support you.Create enterprisesthat are more beneficialifleftalonethancontested.Supporta strongprincebymakingher stronger.do not monopolizeorhoardresources;instead, control the flow.f you cuhutthilltryadeveubifthprctha for acquiringwhatyouhaveislessthanthatfdoingtheworkthmselvet would beawasteof the ireffort.you gainmorefromtheiraddictionsthanfrom the irfits of with drawal. - Nevercreate that which you can not destroy.Novampirecanwithstand the united front of several Kindred—ask the Brujah.If what you control is valuable, someonewilleventuallyseekit.Ifcontrolcannotbemaintainedit is bettertodisassembleitthantoseeitusedagainstyou.Ittakesmuchplanning and effort toacquire someoneelse's do main.Frustrate the mfurtherbymaking it all for not hing.When the re are no spoils, the re is no war. Example:Nicolaus, the Ventrue primogen, wishestoexpandhiscontrolinto Underworld.Unfortunately, that Influenceiscurrentlycontrolledby the Brujah Prince.Nicolausmakesa proposal totheprincetoopenachemicalfactory that could conceal the productionofmunitions.what Nicolaus do esnotmentionis that this factory will alsoconceal the productionofnarcoticsthat Nicolauswilldistributeto generatecontacts.Slowly, hewillsneakintoamarket that was closedtohim. Example:Joshua, a Brujah, wants toexert somecontroloverthelocalolice. Hesendssomeofhisfemaleretainerstoactdrunkanddisorderlyatthebars.When the of ficersarrive, the womenseducethemandtakethemintosideroomwherethe who leencounteriscapturedonhiddensurveillancecameras.Joshwillusethetapes toconwince the of ficersto layoff the gangshehascontact with.with oneplothe strengthenshishold on two are as. ## MAKINGYOUROWNBREAKS:ANEONATE'STAKEONINFLUENCES
+- Try the hands-on approach.Oneway to control an or ganization is to understandhowitworksfrom the inside.Byunderstanding the procedures and protocols, a Kindred can become aware of the loopholes that can laterbe exploited. - Take chances.the riskierendeavors of fer larger returns and are of ten neglected bymore conservative Kindred.In addition to uncontested opera tion, the gamble itself can provide a rush. - Identify with the kine.Gettingtoknow how the kinefeelandreactcan provide insight into how tobest utilize the m.Familiarity can alsoreveal the vicesthatwould tempt kineinpositionsof power tobenefit you roperations. - Play on emotions.Befriend those who seek friendship.Intimidate thosewhofaryouietothosewhoareasilydeceived.ineareeasilywayed by the ir feelings. - Focus you r effrts. Try to avoid juggling more than you can hande. Sometmeitisetertdnethingreallywellthasveral thingadequa
+- Cooperate with others.Resourcespooledwithother Kindredofsimilar interests can sometimes grant accestolargerschemes than onecanmanageon herown. anmari
+- Marketyourpowerbase.Sometimes, other Kindredwillgiveprestation or favors to thosewith influence in acertain aspect of kine society.Perhapsit is to save the ir time, or to conserve the ir efforts for larger endeavors.Deals could bemade that would expand you rpower base. - Itis not wise topokea lion with a stick.Avoid coming into conflictwith those with more power than you control.Assist the m if you need to; avoid the m if possible. Strike only if you feel you can win. - Example:Estacado and Sasha, both Brujah, wishtoinfluence the localgangs. Since the gangsrely mostly on the camaraderie they have built, the Kindred are initiated into the gang.Afterafewmonthsoffightingrival gangmembers, staging successfulrobberiesandfacingpositionchallenges, the yhavebuiltarepforthemsele with in the gang.with an understanding of what motivatesthemermbersof the gang, they are able to use the m when needed. Example:Joseph, a Ventrue, wishestoimpresstheprinceand decidestocreate amoresuitable Elysiumfor the do main.Althoughhehas the resourcestosecurethe building, heknows that the reismoretoan Elysium than astructure.Toovercome this ostacleeagreestoassista Toreadornexchangefrafewpiecesofatwth purchasinga gallery.Hefurther agrees to finance the upgrade of some of the Nosferatu'scomputerequipmentinexchangeforforgedpermits and licenses.Once hehascompletedthedealepresentsthecompleteprojecttotherinceforaproval. ## MAPPINGTHECITY
 
-The same appliesto converting local organizations intowhateverthey are in yourverionof thecity.Youcancertainlydo so,and theresnothingwrong with that-quite the contrary;having the same landmarks and corporations inyourgameasyourrealcitydoesprobablyenhances themoodquiteabit.Still, cautionis advised.Some corporations are extremely touchy aboutwhere and how theirnames arebeingused.Again,itgoesbeyond the scope of thisbook to tell you specificallywhat todo about situations like this;it all comes down to the Storyteller's discretion,but it's good to pay attention to these things.
+The first thing that needs to be developed is how much potential Influence exists in the city.For eachof the categoriesamaximumlevelf usable Influence Traits should be set.This level will depend on how strongthe Influence category is in relation to the surrounding are a.was hington,D.. influences the politics of neighboring citiesmore than Muncie, Indiana.A Kindredwouldbeabletocreateahigherlevelofinfluenceintheformer Most towns and cities are diverse enough to all owfor obtaining considerable levels of Influence. Cities of importance to states or regions would all ow for exceptional levels, but are rare, and will onlyaffectafewcategories.Citiesf nationalorinternational importancewould all ow for expansion into the highest levels that are best left to elders. Eachcityhasauniqueinfluential scope.Somecitiesareindustrialcenters, othersareuniversitytowns.Someliealongcommerceroutes, othersmayhave international airports.All the sefactorsmustbeconsidered when deciding not onlywhatcanbeaccomplishedwith Influencesbuthowoften Kindredwill comeintoconflict tryingtoin using the m. Individual limits should beplaced on Influence Traitsdependingonwhat is availablein the city at the startof the chronicle.If the cityhas little or no representationinan are aof Influence, the nthehighestan Influence could get to is3or4.Acity with normal representation of an Influence would have a5. Cities with exceptional representationmay grant levels of 6 or above. Takeinto account the things you r city is knownfor and the things itmay lack.Pick atleast three Inluencestobeconsideredexceptional, and at last three tobe lacking the rest should be average.Amalltownmayhave Street 4, a college townmight have University5, and a statecapital would have Political 6 or more. the City
 
-Certain Masqueradechronicles out there have been running for years now,andmoreoftenthannot,oonerorlater,theeoplerunningthegame aregoingtositdown,takealookattheircreationanddecidethatitneedsan overhaul—after all,peoplegrow.What seemed likean incredibly cool idea when you were a teenager might seem lame five years later.Perhaps the chroniclewasoriginallyfounded by someonewho hadaquitedifferentidea of how togoabout doing things,orperhaps thingshave simply gotten outof control—maybe someone said"yes"when he should have said"no"a couple of times too often.These things happen.There aremany chronicles that can stand tokeeponchuggingalongjustfinewithoutntervention,butattimes emergencyprocedures arerequired tokeep thepatient alive.
+The secondstepistodeterminehowacceiblethese Influencesarehis will determine how easily Kindred can expand the ir control over of that Influencetwill alsodeterminewhatkindofstorylineswill developfromthe endeavors.Small townclinics are easier toinfiltratethanmilitary hospitals. Advertising agencies are easier toget into than a federaldepository.Public schools are more accessible than private institutions.Overall, this ease of access provides a balance of sorts to the limited capacity.Largermetropolises all owforlargeractionsbutsmallercitiesareeasierforindividualstocontrol. the next stepis to determine how prevalent the Influence is.how much can Kindredexpandbefore the ir goalsworkcounterto the goals of other Kindred?Mortalswillonly all owthemselvestobepushedsomanytimesbefore they become desperate and prone to irrational judgments.the ywill only be pulledinsomany directionsbeforetheybecomeunreliable.This placesfurther limits on the city's Influence portfolio.A city with several universities can all ow several Kindredtoexertcontroloveracademics.Ifacityholdsonlyone, nomatterhow largeitis, the se Kindredmay come into conflictwhile trying toinfluenceitsoperations. the se definitions do not involve mechanics other than shaping the justificationsfor Experience Trait expenditures or altering the caps placed on Influence availability.It do es determine what actions can be used.A small town sheriffs department might not have access to Kevlar vests. Some countries have strict gun control, and gangsmaynot have access tofirearms. Rural are asmay not have many businesses with access to higherfinances. Storytellers can use several systems to ensure that players understand Influenceisalimitedresource.Itisimportantthattheyrealizethatroleplaying and planningnotjustxprienceraits, xpand Inunceuncer than mostother Traits, encourages cooperation, but suchcooperationmust not encroach upon the overall the mesof conspiracy and infightingthat World of Darkness games rely on. Some Influence Traits should be leftfor the Storyteller characters.No matterhowwell the Kindredfeelthey have developedtheirnetworks, the yare just a fewindividuals.they should neverfeel the yknoweverythingorcanstop anything from happening.Humans of ten acterratically.the yarepronetoits of conscience or delusions of grandeur. More of ten than not, they are independent, self-interested individuals who will do everything they can to
 
-## MINORFACELIFT
+Onepossiblesystem is toonlyallowacertainnumberof cumulative levels toexist inthecity.Count the numberofplayers and multiply that byamodifier based on the prevalence of the Influence.for poor Influences, the modifier would navraewoulw;xcinef categorsnlwouldithrrxctnalndhyu of setfor game balance.Once all of those levels have been acquired by characters, noonecanexpandordevelopinfluencenthat are aunlessthey so at the expense of anothercharacterorby expanding the prevalenceof the Influence(expendingreources, markets, tc.）for nstance, statcaital would have largerpoolofeopleinvolvedwithpoliticswhilanindutial centerwithmanyfactorieswouldhaveroomforseveral tobuild that Influence. Citiesthataredistribuioncentrsle Chicagoorantawouldave of Transportation Influence. turnmattersto the ir own benefit.Mostbusiness takesplace during the day when novampirecanact.Intheend, the Camarillaisonlyoneof the Cainite factions, and they have a lot of enemies. ## ACITYDEVELOPED:ANEXAMPLE
 
-There are different levelsto this—itmay simplybeaquestionof tweaking relativelysmallthings hereandthere,oritmaybeatotaloverhaulthatrequires the brainpower equivalentof a dry dock anda huge crew ofhighly trained engineersandtechnicians.Muchcanbesaidaboutthisbutintheenditcomes down to threeoptions:You can either subtlyupdateyourchronicle asmuch asispossiblewithoutchanging it somuch that itbecomes something entirely different;youcantinkerwithtuntilyouretotally satisfiedwiththng,and accepthendresultasyournewchronicle,or,nsometminalcases,youcan (and probably should) decide to dump it entirely and start over from scratch.
+Afterthinkingaboutthecityandresearchingtouristguides, encyclopedia entiesandeventhellow Pages Jennfethetorytellerdeidestodevelp an Influence portfolio for her chronicle's city. It has amajor state university and twolocal colleges.On the outskirts of tow, rasralfcriwhichaveteenafftdb goingoverseasherearealsoanumberofchurchesfvarying faiths and size and the cityisinthe Bible Belt.how ever, the city onlyhas a smallmalland very few businesses.the re are no local television stations, and the local newspaper is overshadowed bythe larger newspaper from anothercitynearby. It also has no the ater and only onemuseum. Jenniferdecidesthatatthestartof the chronicle, the individual limitswill reflect the se considerations.Levels6or higherin University, Industrial and Churchcanbepossessed by characters(the se Influences have strong, thriving bases).Financecapacity is at4(from the local banks).Media and High Society can only be at3 (the re isn't enough to anchormore unlessmore finearts arrive or the newspaper gets a shot in the arm). All others can be purchased up to 5. Next, Jennifer has todecide how available the Influencefieldsare.Media and Highociety are rare, soforthe12charactersinthechronicle, the rewill only be12 levels of Influence available.After those levels are claimed, the characters will have to roleplay expanding the market or cutting in on the levels ownedby other characters.University, Industrial and Churcharemore prevalent, so the reare36levels available.the restof the Influenceswillhave 24 overall levels. Her finalstepistodecide the amountof influence Storytellercharacters will have.Atthe startofthechronicle, shefeelsthe Storytellercharactersshould have more Influenceanyindividualplayercharacter.how ever, shedecidesthat the levels for the individual Storyteller characters should be less than the combined totals availablefortheplayercharacterstoencouragepolitical deals between characters who rely on subtle Influence over direct interaction. ## INTHE DETAILS
 
-Perhapssuprisinglyhisoptionisusuallyheostifficultnedatin bits andpieces hereand therewhile attempting tokeep all of the previous continuityintactcan beextremely difficultespecially if thereare things in the chronicleshistorythatyouwouldprefertogetridofbuttheyarelinkedrather solidlytootherevents.Everythinginthechronicleisa partofacomplicated, largerwholeandifyoualternethingthatwillaffecteverythingelseoumay want to just change things aroundas youplease,but the consequences will certainlyinfluencethewholechronicle.Iftheplayersnevernotice,thismaynot be a problem,but taking thechance is usually not advisable.
+Okay.you vegottheblueprintforyourcityallaidout.you knowwherethe hot spots are where the lowlifeiveandwhereyouwantyoulottogow that you vechosenyourZIcodeandbuiltyournewcityyouneedtotakete time and figureouthowtoputallthatintomotion.Achronicleisbuilt gameby game.The techniquesyouuse to bringyour hometown to lifemake all the diferenceetweenbuildingsceneryndbuildingaworldememberumanit is aterriblymportant partofa Masqueradegame.Iftheordinaryhumansinyour townareustfacelessmannequinsnoonesgoingtogetworkedupoverthmf you keep afewthingsnmindasyou getyourchronicleinmotionitleeaser tokeengnrakulayarngushlldancasnll the Citn
 
-Note that you don't necessarilyneed tochange past eventsinthe gameto fixthingattimesita smlbnougchangethingsnw.h was calledbacktoVienna tobe briefed.I hear they have a big jobforhim. youdontlikethewayacurentstorylineisgoingyoucanalwaysendih now.tmaybebitluntand suenuhnagan,hatcanaennl
+## WHAT do is Ee? First impressionsmean a lot.the waya person looks conveys a sense of stylethat'shard toremove.The same thing appliesto the character of the city.The physical descriptions you provide you r players are the most effective weapons in you r arsenal for defining the style of a game.Keeping you r scene descriptionsconsistent and the maticwill go a longway toward keeping you r city alive.You maywell knowwhat you want you rbrave new worldtolooklikebutunlessyouconveythateffectivelytotheplayersyou may aswell not have bothered. You'll want to start of fbyfocusing on you r game's"home base"the locale that you startoffineverynight.Most Camarilla gameswillkickoffinlysium or the prince'scourt.Ananarchgame maynotbe aswell-centered, but even the n, characterswill usually end up gathering at the same diner or courtyard every session todo the irbusiness.It'snatural for peopletocome togetheratthe same placeregularly to hang out, whether they'remortal or Kindred. A central point like this is a great opportunityforyouto make that first impressionhemoredetailsyoucangiveyoulayerstheeasertllberhm toget into the gameworld.this opening siteistheanchorpointforyourchronicle. Everythingin the game begins and endshere.If you usethisplace to define the the me and mood of you r chronicle, the rest of the world will flownaturally. If you'vecreatedyourgame'shomecityfromwholecloth, the nyouhave alotoffreedomnbuldingourgamessetting Onheotherandyoureal goingtohavetoworkharderatremindingplayerstheyaren't intherealworld anymore.you rbestbet is towrite out a page or two describing the location. Gointoasmuchdetailasyoucan, and remembertouseallfivesensesinyour description.the smellofaplacecanbejust asimportant ashowit looks.ost you rdescriptionneartheentryhall of you r gamesoyour playerscanreadit beforethey start play.you may alsowishtoquicklydescribethegame'ssetting beforeactual playbegins, justtomakesure that everyone'sonthesamepage. If the reaparticularlymportantobjectorlothooknyour settinglkehe princesthrone or a jukebox, you may want to put a signnear ittoinform players about the relevant details of this prop. On the otherhandfyoureusingyouractualomecityasagamesetting, you may want to useareal-worldlocation as the games center.Again, you're probably going to have touse you r imagination somewhat— while it may be possibletoplayagameregularlyinthegrandballroomofahotel, oddsare you'regoing tohave tofinda different sitemost of the time.You can save Most of the usual suectsforlysummusumgalleries, tc.will hapily giveyou source material. ## ONTHEBOAD
 
-<!-- image -->
+When you r players do decide toleave Elysium, thingsget interesting. the re'snowayonearththata Storytellercananticipateallthedifferentideas that a groupof playerscan throw ather.While some advance planningcan helpwhenlayersooutonthetownccasionallya Storytellerisustgoing tohavetoworkon the fly. First, ifagroupofcharactersdecidestoleave the central locationof the game, makeeveryfforttosolatethemfromthegamesmainarea.Designat a specificroom or corner of you rgame as"of f site,"and keepyourdeparting characters from interacting with the main game are a as much as possible. the resnothingmoredistractingthanwanderinguptoanotherplayer, intent on roleplaying a conversation, only tolearn that he's10blocks away. Bereadytogive anextra levelof descriptionondemand.Manycharacters make a habit of using Heightened Senses on any strange place or thing they encounter.Players liketoget some extradetail when the yuseapower likethis. It's disappointing to examinearustyknifeforfiveminutes onlytohear:the re do esn't seem tobe anythingunusualabout it."that rustyknifemight not have anythingtodowithwhat'sgoingonbutplayers should alwaysgetsomething frthfrtgainladvancaratnanaiayfffu know ahead of timewhere that rustyknifehasbeen, thingsgeta loteasier. when you takeagroupoff sitealwaysbeginbygivingafulldescripion of the scene.Includeasmuchdetailas you thinkyoucangetawaywith-sight, sound, mellandeventasteareimportantwhencreatingamood.eepthecore the mes of you r game in mind as you do this.Everything should match you r game as awhole.Whileit'simportant tokeep the scenemoving, itseasierto tell when you've given toomuchdetail asopposed to too little.Makesure that you givethisdescriptionbefore you do anythingelse.do ing sohelpstheplayers to stay incharacter, especially if they've had towait for you. If you don't have the timeorcreativeenergytogive everynon-Elysium location this treatment, a"photo gallery"of sorts might be in or der.Most places that characterswill go can be divided up into broadcategories—a church, astreet, anoffice, etc.Adayorsoofwanderingaroundyourometown with a disposablecamera should provideseveralgood snapshotsof the sekinds of places.Place the m inaphotoalbum, and when playersgo toa nearby all ey, referthem to the appropriate photo.You'll be surprised athowmuch this can do for a chronicle.As they say, a picture is worth a thousand words. Use common sense when taking the se photos, how ever—shooting pictures of a dangerous all ey late at night is not recommended! ## AMILLIONSTORIES... Encourage the players to lesh out the incidental contacts they make as they go about a typical day.Every character should have a supportingcast of friendsneighborsandenemis where doesacharacterhangouttorelaxn abar?Who's the bartender?do es the charactergotochurch?Who's the priest? where do esthecharacterfeedregularly?is the re someone heencountersthere more than once?The list of possibilities is endless. Making people a part of you r city is one of the most important -— and demanding tasks you face as a Storyteller.How do you come up with the names and faces that make up you rcity?you can'tbe expected to come upwith all the frndsnmiendhborshatlayrseetnhilive playershowever, can easilycomeupwith this informationforyou...with littleprompting. Backgrounds are also a great placeto start generating names.Everytme a Kindred uses her Influences, she's calling ina favorormakingabribe.who s giving the favor?Why are the yhelping the character?What are they getting out of the deal?The same thing applies to the Contacts background.Every contact is asnitchorawhistleblower that is helping the character for reasons all hiswn.Characterswith Famehaveagentsfansandassistant.Hghlv of Resources need stockbrokers, bankers, accountants and caretakers to survive.Herds are anautomatic source of intimate contactsfora character.A day should not gobywithout the character tryingtoget something outof amortal. this of coursebringsupthemostintimatecontacta Kindredhaswith mortal:feeding.Gettingblood should neverbeaseasyas agame of Rock-Paper Scissors.Where do es the character go to hunt?who m do es she choose tofeed from?Why do esshechoosethesepeople Ina smallgame, the Storytellermay well play out a short scenewith each character concerning the irnightlyhunt. In largergamesyoumaywellwishtowriteupseveralenerichuntingscenarios and let the players draw the m randomly.To survive, a Kindred has toperform an act of near-rape every night.The characters—— and players — should never bepermitted tobecomeblaseaboutthis. don't sweat coming upwith all this backgroundmaterial you rself.Most playerswillhappilygeneratethisinformationwithlittleprodding Rewardingan extra Experience Trait toplayers that providethis informationisn'tout of lineinareal sense, they'reoingyourworkforyouflayeristrulystumped asking him a fewleading questions toget his creativejuicesflowing:"Where do you feed?who m do you talk to about you r Street Influence?"don't pushtoo hard, and bepatient.you should seesomeresultssoon. Oncethesebackgroundcharactersaredefined, do n'the sitatetousethemas partof the storyfsomeonedestroysanothelayer'Influencessheisthreaten ingor killing the contacts that make those Influences possible.It's one thing to tellaplayerthather Political Influencehas diminished from4to3.It's anotherto tell the mthat Rosa, the secretary sheknewat City Hallwasfounddeadinan all ey Onemaneuvernagameantherersonalattacknafriende the gamespeakto aminimum.Makeallthe Contacts and Influences people, not numbers.You'll get a farmoreintimate, high-stakes game as are sult. Make sure that you don't use this background data arbitrarily or with out taking the players into account.the se people are important to the characters they'rejustasmuhthlayesextrasasthyareoursnsenseillingnff just tomakeapointorfurthertheplotisnotgoingtogooverwell.Ataminimum, playersshouldbeallowedtoseekrevengeorsuchthings.Betterstill, givethem just enough advance warning tolet the m save the ir friends... this time.If you do n'twantoulayerstotreatmortalsasawnsyouetteavoitreatingthm aspausefarlettoefuillnffr reason, playerswill hesitate tocreatemoreforyouto abuse. Ontheflipsideoushouldrewardplayerswhotakethetimetohelphr supportingcharacters out.Suppose that onecharacterknows acopin Internal Affairswho'shavingdifficultywith hiswife.this copisthesourceof his Police Influence.Ifthecharactertakes the timetohelpthiscoppatchuphismarriage, he should be rewarded for the extra roleplay.Maybeyou could give him a chance toresist a hostile takeover of his Influences if another player assaults it.the finalcallisuptoyoubutngenerallayerswhodevotetimeandenergy toplaying out the ir actions in the mortalworld should berewarded. amarlla uide
 
-ofthistechniqueshatifi mehingthatappened tthecharactersis onbythateventwhileignoring thecauseof thechangecompletelymaybea badideaorviceversa:ignoring thechangesbutkepingthecauseisn'tikely toworkoutmuchbetter.
+And hey—if the character engineered the cop'swife troubleinthe first place, justsohecouldgetafavorouthim, the nyourereallygettingintothe spirit of things. ## ACTIONSANDREACTIONS when everaplayerstartstalkingtoamortalyouneedtotaketwothingsinto account:how human the playeracts and how human the characteracts.Humanity reallycomes into playwhen Kindred and or dinarymortals start interacting. A characterwith low Humanity should never have anormal, or dinary relationshipwithahuman.That lossshould always shakeacharacterif you can manageit.Playersmightnotpickuponit the fisttime aroundoreventhe second, but consistentlygivingmortalcontactsanedginesswhentheymeeta low-Humanityvampire should eventuallyhave aneffect. A character with low Humanity should always have a rough time of it. Humans always know something is"wrong"with such a person, even if Obfuscate or disguises are inplace.you might dress upa serial killer in a nice suitandtiebueoplewill still shyawayfromhimonthebuomatterw much he smiles.Humans can sense Kindred the way that the deercan sensethe wolfand the irfirst impulse should betoget away. Likewise, ifacharacterhasahigh Humanityrating, the yshouldbeable togetalongwell with anordinaryperson...but not perfectly.Evena Humanity 5Kindredisntquitekosher, and eventually, ahumanwillnoticet.Kined have towork atbeinghuman.It do esn'tcomenaturally anymore.Eventually, the prey will pick up the scent of the wolf again.It's only a matter of time. So here'sthe setup:You've asked you r players to create bunchof interesting, exciting mortals.the se mortals are integral to the character's lives. how ever, the se interestingpeoplecanneverunderstand the charactersand will alwaysfear and hate the mon somelevel.this may seem a littlecruel. Welcometo Vampire. On the otherhand, characters that workto overcome the ir handicap should berewarded.the loss of Humanityis challenging, but it isn't insurmountable.Someonewho spendstimeinthereal world should finditeasier to deal with human beings, maybe even gaining a little bonus in the ir application of Backgrounds. What are you rplayersgoingtodoabout this dilemma?Payclose attentionto what happensnext.Ifacharactertreats humanslikeslime or gets angrywith the se uncomprehendingmortals, take anoteof it.Itllmake that nextmeetingwith thosehumans that much harder.Kindred can for get how to deal with a human beingafterawhile.Ifacharacterconsistentlydealswithmortalsoorlyyoumight want to startmakingit harderforhimtousehis Contacts and Influences. that challengetostayhumanshouldnevergoawayowever.tsnf the foundationsof the horror inthisgame.It'soh-so-easy tolosea griponyour Humanity.Itcanslipaway ifyoudon'tkeep aneyeonit, and you maynever get it back.don't make the fight easy. And the n, of course, the re are the wildcards.the innocentcan seeright through Obfuscated characters-—imagine the startled lookon a Nosferatu's facewhen a toddler comesup and asks himfor helpfinding hismommy.True Faithhas a habitof croppingupin unlikelyplaces, even in this day and age. the City and everysupernaturalcreaturecandisguiseherselfashuman insomefashion. No interactionwith the humanworld should be seen ascasual or commonplace.the re's always a chance that the mortalworldwill surprise Kindred. Never permit the players toforgetthis. ## LETTHETIMESWRITEYOUR CHRONICLE
 
-Inmost cases,unless you know that you only need to change a couple of thingsyou're probably better off chucking the current continuity out the windowandacceptingafewbigchangesasitcanealmostmpossbletee everythingincheckwhilestill overhaulingthechronicle.
+The Worldof Darkness is essentially our own world—a darker, cockeyedversionofourworlderhaps, but itsstill ometorytellerscan get alotofinspirationforthe Chroniclejustbyreading the localnewspaper on a regularbasis. With a little bit of paranoia, nearly anyroutine event could have a supernatural hand behind it.A robbery or fire might well be the signs of a cover-upformoresinisterevents.Anewhigh-risebuildingorindustrialpark mayhave a Kindred owner.Anyofthese things can serveas the seedfora story linefora chronicle. Sometimes, the newspapercangenerateanentirestorylinewithoutthe Storyteller do inga thing.If a largenews eventhappens in you r are a—a hurricane blowing through or a casino opening—let the players try and do things about it.Weathering amajor stormbecomes agreatdealmore difficult when Kindredcan'tevacuate and the blood supply leaves town.Hostile for ces such as the Sabbatmay choose to use the storm ascover for an invasion.On the otherhand, a casino of fers anopportunityforvast Inluence and wealth. how ever, awar could erupt over the profitsif toomanypartiesget involved. Bigstorieslikethiscanserve asthefocusforanentiregamesessionandimpact the chronicleforalongtime afterthingssettledown. Big events are a great way tokeep the game world in motion.Even somethinglikeaconvention or a politicalrallycan generate a hive of activity amongthepowerbrokersinyourgame.Powerdoesn'tjust stayputinthehands of Kindred.It moves aroundall onits own.Ifa museum exhibit comes into town, Kindredmightrecognizesomeofthepiecesandwanttorecovertheir "lost" property.A politician's rise or fall on Election Day could cripple a Kindred's Influence for months.The world is always changing, despite the Camarilla'sbestefforts, and characters should alwaysbescramblingtokeepup. Keeping the local paper amainstay in the game also reminds players of anotherimportantfacttheyaren'ttheonly things happening into wn.Indeed, of ten they aren't even the most important things in town.they certainly should n'teif the Masqueradeisinplace the realworldkeepsmovingpastthe Kindred and beyond the m, no matterhowmuch they mightwish otherwise. Using stories in the game that don't begin and endwith the supernatural keeps the everydayworld alive behind the players as the ywork in the shadows. Keepyour playersadvised of the se"realworld stories"as the yoccur.Ifa particularnewsarticlegrabsyouasthecenterofa Kindredplot, copyitandgive it toyourplayersbefore agame begins.E-mail can beamarvelousway tokeep playersabreastof importantactions, especiallyif the resalongtimebetween gamesearnmindthatmailisntalway0rcenteliablwever, n not everyplayermayhave e-mail access.It'sbest togive this information to players inmultiple for mats and at different times. the se current events supply some grand side quests and red herringsfor players toinvestigatewhile you hit the mwith you rmain plot line.While it's importanttohaveadirectionforyourchronicletopursue, occasionallyplayers simplywon'twant tochase the baityoureproviding.Inalargegame, the re simply may be toomany people tochase do wn the Sabbat pack all at once. Instead of letting the se players sit around Elysiumwaitingforthemain plot to finish, the yshouldhavetheopportunitytochaseotherstories.Agoodgame should belikeabuetwithmultiplelotsandquestsavailableoryoulars to sample.Many of the se choices may have not hing to do with what you considertobethetruefocusofyourgamebutthatdoesntkeep the mfom being entertaining choices in the ir own right.Usinga resources like the local newsgives you the chance toprovidemultipleplots atoncewithout havingto invent all the details you rself. Once playersget used to the not ionthat the Storyteller is cribbing plot linesfromthenewspaper, the ymaywelldecidetotakeactiononthingsprinted in the local newsbefore the Storyteller of ficially callsnotice to the m.The Storyteller should pay attention to the se ideas.In essence, the players are lettingthe Storytellerknowwhattheywanttoseeinthegame.Evenif the re's toomuch going onin the game for the Storyteller togivethe player's actions afull treatment, she should rememberwhat the playersdofor later stories. Playerswant tofeel like they are having an impact ontheirworld.Let the m do so...and suffer the consequences. of courseyoumayverywellwanttoput somehintsconcerningthemain story lineintoyourlocalnewsasyougoalong.do n'tbeafraidtowritesomething newasougorallitourworldndoucanwithtasyueefit you getthelocalpaperestablishedasaplotengine, anythingdroppedintothemix, whethergeneratedbyyouorthe Sundayedition, is goingtokeepthegamegoing. Just tryand avoidputting toomuchwishfulthinkinginthere.Itmightbe painful toseeyourfavoriteteamlosethe Super Bowl, but erasingthatfourth-quarter touchdown for you r own peace of mind is a bitmuch.Remember that you're running this gameforyour players, not for you rbettingpool. Now that you have all of the sebusypeoplebustlingabout in you rdetailed town, reactingtocurrenteventsyouereadytohavesomefun.Adynamic environment like this all ows you to create convoluted, intrigue-laden plot lineswithoutbreaking a sweat. ## HOME-GROWN INTRIGUE
 
-Stillfallyouwantistofixrelativelymall thingshereand there,this probably the way you want to go. Be warned that despite your original intentionsinmanycasesyou'llendupdoing somethingbigger as youfindthat the small changes just aren't enough.
+A good intrigue plot line is likea chain of do minos.A Kindred takes an action—hekills someone for blood.That actionaffects two other people the deceased has awife and sonwhocan'tfind him Those peopleaffectothers the wifereportshermissinghusbandtothepolice, while the soncruisesthe all eywayslookingforhislostfather Thoseactionsafctsomeoneeleann and on, until the entire system is inmotion becauseof one simple act. Each of the se mortals you r players have created can serve as a do mino in you r game of intrigue.Every action that you r players takecan serve to set the chain of f.Ifyou have a solid grip on who lives in the city and how they're related, the connections should be easy to make. the keystomaking this systemwork are a careful recordof the actions you r players take during a game and abrisk imagination.when aplayer do es something interesting, write it do wn.You are writing everything that happens in the game do wn, aren't you?This is one of those reasons why keeping track of everything that happens in a game is so important.We'll say it again:Write everything do wn that happens in the game.It's important. You'll be glad you did. The imagination comes in when you ask you rself one question:"What if..As you read over you r not es onplayers actions, keep a listof you r supporting charactershandy.Asyoulookataplayer's actions, askyourself "What if this character was seenby somebody?What if someone sawher breakinto the abandonedwarehouse?what would the witness do next? what would those actionschange in turn？Eventually, who hurtwhom and who helped who m should become fairly clear, and all of you r"do minoes" should beinmotion. Here'sthebest partof this system:Playerswill get thingsinmotionall by the mselveswithout anypromptingbyyou Everyaction that a player takeshas the potentialtostartthedominochain, for cing Storytellerandplayercharacters alikeintomotionuntil every lifeof the city touches everyone somehow. this maybealittlestartlingatfirst:you mayverywell feellikethegame is starting to takea life of its own-ala Frankenstein'smonster.If you r players are interested inchasing a story that started threemonths agowitha random act, the nthey'rebusyandentertained, and you do n'thavetodoathing.Ifou reallydontwantaplottokeeprollingalonglikethis, juststophelpingitalong. don't ask"what ifs"about this plotand keepthenumber of people affected by it to a minimum.Eventually, thingswill die do wn. But do n'tstopa plot justbecauseit'snot"you rs"anymore.Ifyoujustdrop aplotlikealeadballoonwithoutgivinganyclosureorhintstolayershey goingtoendupfeelingcheated.you maybefreshoutofideasonthatred herring you r players are chasing, but abruptlyending thingswithout somuch asaboo" can beamajorletdown.Tryredirectingthiswildgoosechaseback into the main plotline —perhaps a minion of you r main villain has been following the characters aroundandgetscaughtataninopportunemoment Failingthat, leave enough of adanglingplotthreadforyourcharacterstokeepgoingonceyour batteriesrecharge.but the playersinterestinaplotshouldguideyoujustasmuch as you rown plansforthegame.One of the great pleasures of runninga Mind's Eye the atre game is watchingaworld take shape aroundyouwithout any outsidehelp.don't denyyourself that opportunity. Jumpinandstartsomeintrigueyourself every onceinawhileandseewhat happensnmanygamesgroupoflayerswillfel lftoutf the currentlt. Itmaybethat they'renaturally too shytojumpinand includethemselveswith other playersor the ymaysimplybetoolatetojumponthebandwagon.this s anideal time to pickononeof the irbackgroundcharacters.Give the m a piece of apuzlrmallsnaldilma..and hnathteaduu neverdesignproblems that are small enoughforone person tosolve—make you r players askeachotherforhelpandinformation.Mind's Eye the atreis atitsbest when characters start dealing directlywith each other and stoprelying on the Storyteller for everything.Encourage this when ever you can. anar muide
 
-## MAJORSURGERY
-
-There'snoniceway of putting this:There are plenty of incredibly bad characters out there,ranging from stereotypical cute teddy-bear-carrying Malkavianswhodosillythingsbecausetheyrejustsodankookytoincredibly powerful Tremereelderswhouse highlevelsofThaumaturgyto laywasteupon anyonewholooksatthemfunny.Whenlayedbadlysuchcharacterscrpl achroniclerathereffectively,andremovingorfixingcharacterslikethatmay be just what the game needs.
-
-The second option is considerably easier—it all comes down to takinga look atwhat you already have and then systematically changingthings around until you like what you see.However, notice that"easy" doesn't mean "effortless."It'll be a lot ofwork,makeno mistake:Not only do you have to makeallof thosechanges,youalsohavetomakesurethatyourplayersknow what the changes are!This means yetmorewriting.
-
-Removing andfixing bad plotlinescanbemorediffculttmaybethat fr whateverreasonhrearethingyouwantgetidfmayetheu ofanarchswithathaumaturgicallymodifednucleardevicethatwill destroyall supernaturalngnhlanetlssthyaeccptedintthCamarillr maybetheideaabouttheprincebecomingobsessedwithpaintingeverything
-
-<!-- image -->
-
-e
-
-itsgoingtmakethlaeathsleasdtsttnlyisitfrutatng havedonlthatwrkorthingb it alpanfllbviustimthai happeningjustbecauseyouchangedyoumindItmakesitmosblefohe playertustifyhatinsthcharacterandtlayewillavel choicebuttodropoutofcharacterandexplainthathehadgoodreasons fordoing what he did until theworld changed around them—hardly something that improves the game. (Note that having such a sudden change of instructions happenasarfthgamifunntildiffenthn thereismajordifferencethereThecharacterisstillikelytobeisleasef course,but that's anothermatter.)
-
-Asalastertfuabllyavetuanalwayay,ku, thisisntworkingout,omgoingochangethingandif itreallymakesou lifesuck,letmeknowandwell seewhatwecando.It'snowherenearaperfect solutionutit'sstillbetterthanjustmakingdecisionandthenrunningwih it as if nothing had happened.That'lljust annoy the players;the playerswon't like theotherdecisioneitherbutitll stillbebetteratleastyoull levelingwiththem.Treatingthem likeidiotsorpresuming thatit's all right to make up their minds for them is a sureway to getin an argument.
-
-Ifyoudochangeyourlansyoushouldtrytodosogracefullyothatitmakes sensettlayerfatllossibllayrsouldevecomeawara things havechangedbuthismaynotbeanoptionnsuchcases,itsxtrmely important that youdocument thechanges andmakesurethe playersknowwhat the new situation is like.They dependon their Storyteller to give them all the relevantinformationabout thegameworldWithout thatinformation,theyare practicallyindfourseisisatwwaystreetfntisttoryellew finds herself blind.If therearemanyplayers andanumberof games havebeen played,that usually means that alot hashappened,and it'sveryhardo rememberwhat happened ayear anda half agowithoutgood notes.
-
-Inallcaseyoushouldkeeinmindthatlayersmightnotbetoohappywih theStorytellercoming over and telling them that thechronicle has justchanged radicallysuchhangesareboundtoaffecttheicharactersandlayersftentak a dimviewof someone simply telling them what happens to their characters andrightlyso.TheStorytelleroesettodeciewhatappensandlayersont feetItsporattensuethatthlayerskwwhatgoingonandtha Storytellerdoesn'tcomeoffasanevildictatorwhowarpsthegamejustbecause he feels like it.After all, a successful game is a group effort.
-
-The third option is something of a final solution,but aStorytellerwho knowswhentolayachronicletorestisawise oneindeed.If the playersare revolve around silver abominationswhoslaughtercharactersleftandright somewhreelsedinkingbeer,theisabsoltelythingwongwithcallin itquitseed,itspbablyagod ehreintnruingga that's no fun.
-
-## ITHINKHE'S GONE,DOCTOR
-
-That saidhisisardlythnlyeasonhonilehoudeallw whowereupposedtolaycertaincharacterscoudnmakeitrthateat overall plot idea that looked so good on paper just didn't work out in play. Again,theethingshapen asgingblameprobablynt thewaytogoe
-
-After all, you can always start over again and learn from your previousmistakes.
-
-Therearenovalidguidelinesfordentifyingagamethatisn'tworkingat leastnehavynaenhataidf ttorytl enjoying thegameorif themajorityof playersaren'tsatisfiedwithitandit lookslikeitwouldn'tbeworththetroubleoffixingeverythingthat'sbroken, there are good indications that it'sprobablytimetoput an end tothechronicle.
-
-## THE STRUGGLE FOR CONTROL
-
-TheMasquerade is perhapstheonly common goal that all Kindred in the CamarillacanagreeuponItsmembersfightaconstantbattle,notonlytok thekinefromwitnessingvampiricactivitybutalsotodiscreditanythatwould try tobring forthevidence of supernatural existence.The primaryweapon in this battle is theinfluence that the secthas developedwithinmortal society.
-
-ThisnetworkextendsfromCEOs andpoliticalofficialsall thewaydown tothe gangs and thebums onthe street.Itcanbe as direct as blackmail oras subtle asmisdirection.In some cases,it may be garnered through use of Disciplines orAbilities.Most often,itisboughtthroughknowingprecisely how the"machine"works and what rewards corruptedmortals desire.
-
-Thoughthegoalmaybecommon,theimplementationof thiscontrolis as variedas the clans and ages of theKindred themselves.Each clan—and eachindividual withintheclan—hasitsown agendaandapproach toward the kine'soperations.Some exertcontroloverevents that affectthem.Others seek information to use as currency.OlderKindred prefer stable enterprises that have high stability andlittle turnover.Younger Cainites preferinnovation, which involves more risk,but promises a higher return.
-
-Regardless of approach, such resources are coveted byKindred with differing agendas.When this occurs, they are contested.Some of the most viciousbattlesfoughtbytheCamarillaarenotfought against enemiesbutover influence.Both sideswill weave intricate plots to seizecontrol while others stand asidetowitnessthemaneuvering andseetheoutcome.
-
-Statusmaybeareflectionof an individual's notorietyandstandingwithin the Camarillabut Infuenceistheeasureof power.TheKindred with most swayarethenesthatgarnerthemostfavor.ikewise,theneswithte most favor are rewardedwiththeopportunities to eneratemore swayhus the vicious circle is created andmaintained.
-
-## RUNNINGINTHESHADOWS
-
-Kindred in the Camarilla jockey for power and position,often at the expense of each other.Many have come to realize that the easiestway to overcome a rival isto take what is hers andmakeit yours.A delicate balance
-
-<!-- image -->
-
-G
-
-your pwermustevidentufyourowerisoreadilapparent vulnerable to thosewho covet it.ThereisnoTraditionwithin the Camarilla that ensures a Kindred can keep what he cannot hold.
-
-Thebestwaytomaintain anydegreeof powerin theCamarillais tokeep ithidden inmystery.Itishardtodestroywhatyoucannotfind.Itishardtosteal whatyoucannotgrasp.Mostmportant,itishardtoprepareforsomethingou cannotconceiveWithintseshadowowerbasesarebuiltandgrownh same practicesthathidethetruth aboutvampiresfrom themortal world are used toconceal plots andmaneuvers from fellowKindred.
-
-## TENTENETSOFINFLUENTIAL ENTERDRISE:INFLUENCES FROM AN ELDER'SVIEW
-
-- Try toactremotely.ManyCamarillaKindreduseagents andretainers to mplement their control.This serves as a stopgap for those attempting to trace theactionsbacktothemastertalsoallowsforaconvenient scapegoat when the prince or archon gets a little too close for comfort.A setbackcan easily become beneficial if the minion of one ofyourrivals can be your scapegoat.You may not always win,but you should never lose.
-- Maneuver withdiscretion.Kindredseldomdirectlyinfluencemortals in can attractconflict and attention.Ifthemortal'swatchdogsdonotinterfere,the Kindred'scompetitorswill.Indirectmethods arehardertotrace andtosabotage. Sometimes the bestplace to hide iswhereno onewill think tolook.
-- Avoidmortal contact whenpossible.Onewaynottoreveal toamortal that he is beingcontrolled is to not deal with the mortal at all.Accidents can erase valuable files.Itineraries can be altered at the printer.Evidence can mysteriously disappear.Objects tell no tales———tomostmortals at least.
-- Be wary of strong-willed prey.Mortals are beasts of conscience and arrogancenomatter howmuchtheymay declare otherwise.Whenamortal realizeseisingcontlledwilltrytehimseffhsunable will becmratnthniaapdanmalwilltxtm lengthstobefreed,evenifhemustharmhimselforothersntheprocess.This is far toomessyforKindredwhowishtoremain in the shadows.
-- Create redundancies.Most matters ofintrigue are maintained by the successof your project.A lost pieceshould never cost you the game.
-- Create contingencies.A master plan should never be set in stone.It shouldbesolidenoughobereliableandnotlettochancebuttmustalso beflexibleenoughtoadapttoadversityThewillowbendsinthebreezethat breaks mighty oaks.
-- Conceal thescope ofyour power.Ifnone ofyouragentsknowsmore than a piece of the overall puzzle,thenno onewillbe abletodiscoverthe entiretybycompromising onepart.If you are onlyas strongasyourweakest linktiesifourweakestnkwnlyallafthchain practicewasusedwhen theAmericans developed thefirst atomicweapons.
-- Establisha cover.Nothing should be as it appears.Create a facade aroundyour operations thatisasdifferentfromtherealityaspossiblelant rumors and false evidence supporting thecharade.Pretend tofail incovering
-
-TheCity themupsothat theinvestigators will feeltheyhavefoundyourtrueintentions. Manytimes,itiseasier tobelieve awell-told lie thana hard-to-find truth.
-
-- Benefit those who can support you.Create enterprisesthat aremore beneficialifleftalonethancontested.Supporta strongprincebymakingher stronger.Donotmonopolizeorhoardresources;instead,control theflow.f youcuhutthilltryadeveubifthprctha foracquiringwhatyouhaveislessthanthatfdoingtheworkthmselvet wouldbeawasteof theireffort.Yougainmorefromtheiraddictionsthanfrom theirfits ofwithdrawal.
-- Nevercreate that whichyou cannot destroy.Novampirecanwithstand the united front of several Kindred—ask the Brujah.If what you control is valuable,someonewilleventuallyseekit.Ifcontrolcannotbemaintainedit isbettertodisassembleitthantoseeitusedagainstyou.Ittakesmuchplanning andeffort toacquire someoneelse's domain.Frustrate themfurtherbymaking it all for nothing.When there are no spoils, there is no war.
-
-Example:Nicolaus,theVentrue primogen,wishestoexpandhiscontrolinto Underworld.Unfortunately,thatInfluenceiscurrentlycontrolledby theBrujah Prince.Nicolausmakesa proposal totheprincetoopenachemicalfactory thatcould conceal theproductionofmunitions.WhatNicolaus doesnotmentionis that this factory willalsoconceal theproductionofnarcoticsthatNicolauswilldistributeto generatecontacts.Slowly,hewillsneakintoamarket thatwasclosedtohim.
-
-Example:Joshua,aBrujah,wants toexert somecontroloverthelocalolice. Hesendssomeofhisfemaleretainerstoactdrunkanddisorderlyatthebars.When theofficersarrive,thewomenseducethemandtakethemintosideroomwherethe wholeencounteriscapturedonhiddensurveillancecameras.Joshwillusethetapes toconwince the officersto layoff thegangshehascontact with.Withoneplothe strengthenshishold on two areas.
-
-## MAKINGYOUROWNBREAKS:ANEONATE'STAKEONINFLUENCES
-
-- Try thehands-on approach.Oneway to control an organization is to understandhowitworksfrom the inside.Byunderstanding theprocedures and protocols,aKindred can become aware of the loopholes that canlaterbe exploited.
-- Take chances.Theriskierendeavors offer larger returns and are often neglected bymore conservative Kindred.In addition to uncontested opera tion,the gamble itself can provide a rush.
-- Identify with thekine.Gettingtoknow howthekinefeelandreactcan provide insight into howtobest utilize them.Familiarity can alsoreveal the vicesthatwould tempt kineinpositionsof power tobenefit youroperations.
-- Play on emotions.Befriend those who seek friendship.Intimidate thosewhofaryouietothosewhoareasilydeceived.ineareeasilywayed by their feelings.
-- Focus your effrts. Try to avoid juggling more than you can hande. Sometmeitisetertdnethingreallywellthasveral thingadequa
-- Cooperate withothers.ResourcespooledwithotherKindredofsimilar interests can sometimes grant accestolargerschemes thanonecanmanageon herown.
-
-anmari
-
-- Marketyourpowerbase.Sometimes,otherKindredwillgiveprestation or favors to thosewith influence in acertain aspect of kine society.Perhapsit is to save their time,orto conserve their efforts for larger endeavors.Deals could bemade thatwould expand yourpower base.
-- Itis not wise topokea lion witha stick.Avoid coming into conflictwith those with more power than you control.Assist them if you need to; avoid them if possible. Strike only if you feel you can win.
-- Example:Estacado andSasha,bothBrujah,wishtoinfluence thelocalgangs. Since thegangsrely mostly on thecamaraderie they have built,theKindred are initiated into thegang.Afterafewmonthsoffightingrival gangmembers,staging successfulrobberiesandfacingpositionchallenges,theyhavebuiltarepforthemsele within the gang.Withan understanding of whatmotivatesthemermbersof the gang, they areable to use them whenneeded.
-
-Example:Joseph,aVentrue,wishestoimpresstheprinceand decidestocreate amoresuitableElysiumfor the domain.Althoughhehas theresourcestosecurethe building,heknows that thereismoretoanElysium thanastructure.Toovercome thisostacleeagreestoassistaToreadornexchangefrafewpiecesofatwth purchasinga gallery.Hefurther agrees to finance the upgrade of some of the Nosferatu'scomputerequipmentinexchangeforforgedpermits and licenses.Once hehascompletedthedealepresentsthecompleteprojecttotherinceforaproval.
-
-## MAPPINGTHECITY
-
-The first thing thatneeds to be developed is howmuch potential Influence exists in thecity.For eachof thecategoriesamaximumlevelf usable InfluenceTraits shouldbe set.This level willdepend on howstrongthe Influence category is in relation to the surrounding area.Washington,D.. influences the politics of neighboring citiesmore thanMuncie,Indiana.A KindredwouldbeabletocreateahigherlevelofinfluenceintheformerMost towns and cities are diverse enough to allowfor obtaining considerable levels of Influence. Cities of importance to states or regions would allow for exceptional levels,butarerare,andwillonlyaffectafewcategories.Citiesf nationalorinternational importancewould allow for expansion into the highest levels that are best left to elders.
-
-Eachcityhasauniqueinfluential scope.Somecitiesareindustrialcenters, othersareuniversitytowns.Someliealongcommerceroutes,othersmayhave international airports.All thesefactorsmustbeconsidered whendeciding not onlywhatcanbeaccomplishedwithInfluencesbuthowoftenKindredwill comeintoconflict tryingtoin using them.
-
-Individual limits should beplaced onInfluenceTraitsdependingonwhat is availablein the city at the startof the chronicle.If the cityhas little orno representationinan areaof Influence,thenthehighestanInfluence could get to is3or4.Acity with normal representation of an Influence would havea5. Cities with exceptional representationmay grant levels of 6 or above.
-
-Takeinto account the things your city is knownfor and the things itmay lack.Pick atleast threeInluencestobeconsideredexceptional,andat last three tobe lackingTherest shouldbe average.AmalltownmayhaveStreet 4,a college townmight have University5,and a statecapital would have Political 6 or more.
-
-TheCity
-
-The secondstepistodeterminehowacceibletheseInfluencesarehis will determine how easilyKindred can expand their control over of that Influencetwill alsodeterminewhatkindofstorylineswill developfromthe endeavors.Small townclinics are easier toinfiltratethanmilitary hospitals. Advertising agencies are easier toget into than a federaldepository.Public schools aremore accessible than private institutions.Overall,this ease of access provides a balance of sorts to the limited capacity.Largermetropolises allowforlargeractionsbutsmallercitiesareeasierforindividualstocontrol.
-
-Thenext stepis to determine howprevalent the Influence is.Howmuch canKindredexpandbefore their goalsworkcounterto thegoals of other Kindred?Mortalswillonly allowthemselvestobepushedsomanytimesbefore they become desperate and prone to irrational judgments.Theywill only be pulledinsomany directionsbeforetheybecomeunreliable.This placesfurther limits on the city's Influence portfolio.A city with several universities can allow severalKindredtoexertcontroloveracademics.Ifacityholdsonlyone, nomatterhow largeitis,theseKindredmay come into conflictwhile trying toinfluenceitsoperations.
-
-These definitions do not involve mechanics other than shaping the justificationsforExperienceTrait expenditures or altering thecaps placed on Influence availability.It does determine what actions can be used.A small town sheriffs department might not have access to Kevlar vests. Some countries have strict gun control, and gangsmaynot have access tofirearms. Rural areasmay not havemany businesses with access to higherfinances.
-
-Storytellers can use several systems to ensure that players understand Influenceisalimitedresource.Itisimportantthattheyrealizethatroleplaying and planningnotjustxprienceraits,xpandInunceuncer than mostotherTraits,encourages cooperation,butsuchcooperationmust notencroach upon theoverall themesof conspiracy andinfightingthatWorld of Darkness games rely on.
-
-SomeInfluenceTraits should be leftfor theStoryteller characters.No matterhowwell theKindredfeelthey havedevelopedtheirnetworks,theyare just a fewindividuals.They should neverfeel theyknoweverythingorcanstop anything from happening.Humans often acterratically.Theyarepronetoits of conscience or delusions of grandeur. More often than not, they are independent, self-interested individuals who will do everything they can to
-
-Onepossiblesystem istoonlyallowacertainnumberof cumulative levels toexist inthecity.Count thenumberofplayers andmultiply thatbyamodifier based on the prevalence of theInfluence.Forpoor Influences,themodifier wouldnavraewoulw;xcinef categorsnlwouldithrrxctnalndhyu ofsetfor game balance.Once all of those levels have been acquired by characters,noonecanexpandordevelopinfluencenthat areaunlessthey so at the expense of anothercharacterorby expanding the prevalenceof the Influence(expendingreources,markets,tc.）Fornstance, statcaital would havelargerpoolofeopleinvolvedwithpoliticswhilanindutial centerwithmanyfactorieswouldhaveroomforseveral tobuild that Influence. CitiesthataredistribuioncentrsleChicagoorantawouldave ofTransportationInfluence.
-
-<!-- image -->
-
-turnmattersto their own benefit.Mostbusiness takesplace during theday whennovampirecanact.Intheend,theCamarillaisonlyoneof theCainite factions,and they have a lot of enemies.
-
-## ACITYDEVELOPED:ANEXAMPLE
-
-Afterthinkingaboutthecityandresearchingtouristguides,encyclopedia entiesandeventhellowPagesJennfethetorytellerdeidestodevelp an Influence portfolio for her chronicle's city.
-
-It has amajor state university and twolocal colleges.On the outskirts of tow,rasralfcriwhichaveteenafftdb goingoverseasherearealsoanumberofchurchesfvarying faiths andsize and thecityisintheBibleBelt.However,thecity onlyhas a smallmalland very few businesses.There are no local television stations,and the local newspaper is overshadowed bythe larger newspaper from anothercitynearby. It also hasno theater and only onemuseum.
-
-Jenniferdecidesthatatthestartof thechronicle,theindividual limitswill reflect these considerations.Levels6or higherinUniversity,Industrial and Churchcanbepossessed by characters(theseInfluences havestrong,thriving bases).Financecapacity is at4(from thelocal banks).Media and HighSociety can only be at3 (there isn't enough to anchormore unlessmore finearts arrive or the newspaper gets a shot in the arm). All others can be purchased up to 5.
-
-Next,Jennifer has todecide howavailable theInfluencefieldsare.Media andHighociety arerare,soforthe12charactersinthechronicle,therewill only be12 levels ofInfluence available.After those levels are claimed,the characters will have to roleplay expanding themarket or cutting in on the levels ownedby other characters.University,Industrial and Churcharemore prevalent,so thereare36levels available.Therestof theInfluenceswillhave 24 overall levels.
-
-Her finalstepistodecide theamountof influenceStorytellercharacters will have.Atthe startofthechronicle,shefeelstheStorytellercharactersshould havemoreInfluenceanyindividualplayercharacter.However,shedecidesthat the levels for theindividual Storyteller characters should be less than the combined totals availablefortheplayercharacterstoencouragepolitical deals between characters who rely on subtle Influence over direct interaction.
-
-## INTHE DETAILS
-
-Okay.Youvegottheblueprintforyourcityallaidout.Youknowwherethe hot spots arewherethelowlifeiveandwhereyouwantyoulottogow thatyouvechosenyourZIcodeandbuiltyournewcityyouneedtotakete time andfigureouthowtoputallthatintomotion.Achronicleisbuilt gameby game.The techniquesyouuse to bringyour hometown to lifemake all the diferenceetweenbuildingsceneryndbuildingaworldememberumanit isaterriblymportant partofaMasqueradegame.Iftheordinaryhumansinyour townareustfacelessmannequinsnoonesgoingtogetworkedupoverthmf youkeep afewthingsnmindasyou getyourchronicleinmotionitleeaser tokeengnrakulayarngushlldancasnll
-
-TheCitn
-
-## WHAT DoISEe?
-
-First impressionsmean a lot.Thewaya person looks conveys a sense of stylethat'shard toremove.The same thing appliesto thecharacter of the city.The physical descriptions you provide your players are the most effective weapons in your arsenal for defining the style of a game.Keeping your scene descriptionsconsistent and thematicwill go a longway toward keeping your city alive.You maywell knowwhat you want yourbrave new worldtolooklikebutunlessyouconveythateffectivelytotheplayersyou may aswell nothavebothered.
-
-You'll want to start offbyfocusing on your game's"home base"the locale that you startoffineverynight.MostCamarilla gameswillkickoffinlysium or theprince'scourt.Ananarchgame maynotbe aswell-centered,buteven then,characterswill usually end up gathering at the same diner orcourtyard every session todo theirbusiness.It'snatural forpeopletocome togetheratthe same placeregularly to hang out,whether they'remortal orKindred.
-
-A central point like this is a great opportunityforyouto make thatfirst impressionhemoredetailsyoucangiveyoulayerstheeasertllberhm toget intothegameworld.Thisopening siteistheanchorpointforyourchronicle. Everythingin the game begins and endshere.If you usethisplace to define the theme andmood of your chronicle,therest of theworld will flownaturally.
-
-If you'vecreatedyourgame'shomecityfromwholecloth,thenyouhave alotoffreedomnbuldingourgamessettingOnheotherandyoureal goingtohavetoworkharderatremindingplayerstheyaren't intherealworld anymore.Yourbestbet istowrite out a page or two describing the location. Gointoasmuchdetailasyoucan,andremembertouseallfivesensesinyour description.Thesmellofaplacecanbejust asimportant ashowit looks.ost yourdescriptionneartheentryhall ofyour gamesoyour playerscanreadit beforethey start play.Youmay alsowishtoquicklydescribethegame'ssetting beforeactual playbegins,justtomakesure thateveryone'sonthesamepage. If thereaparticularlymportantobjectorlothooknyour settinglkehe princesthrone ora jukebox,youmay want to put a signnear ittoinform players about the relevant details of this prop.
-
-On theotherhandfyoureusingyouractualomecityasagamesetting, you may want to useareal-worldlocation as thegames center.Again,you're probably going to have touse your imagination somewhat— while it may be possibletoplayagameregularlyinthegrandballroomofahotel,oddsare you'regoing tohave tofinda different sitemost of the time.You cansave Most of theusual suectsforlysummusumgalleries,tc.willhapily giveyou source material.
-
-## ONTHEBOAD
-
-When your players do decide toleave Elysium,thingsget interesting. There'snowayonearththataStorytellercananticipateallthedifferentideas that a groupof playerscan throw ather.While some advance planningcan helpwhenlayersooutonthetownccasionallyaStorytellerisustgoing tohavetoworkon thefly.
-
-First,ifagroupofcharactersdecidestoleave thecentral locationof the game,makeeveryfforttosolatethemfromthegamesmainarea.Designat a specificroom or corner of yourgame as"off site,"and keepyourdeparting characters from interacting with the main game area as much as possible. Theresnothingmoredistractingthanwanderinguptoanotherplayer,intent on roleplaying a conversation,only tolearn thathe's10blocks away.
-
-Bereadytogive anextra levelof descriptionondemand.Manycharacters make a habit of usingHeightenedSenses on any strange place or thing they encounter.Players liketoget some extradetail whentheyuseapower likethis. It's disappointing to examinearustyknifeforfiveminutes onlytohear:There doesn't seem tobe anythingunusualabout it."Thatrustyknifemight nothave anythingtodowithwhat'sgoingonbutplayers shouldalwaysgetsomething frthfrtgainladvancaratnanaiayfffu know ahead of timewhere thatrustyknifehasbeen,thingsgeta loteasier.
-
-Whenyoutakeagroupoff sitealwaysbeginbygivingafulldescripion ofthe scene.Includeasmuchdetailas you thinkyoucangetawaywith-sight, sound,mellandeventasteareimportantwhencreatingamood.eepthecore themes ofyour game in mind as you do this.Everything shouldmatch your game as awhole.Whileit'simportant tokeep the scenemoving,itseasierto tell whenyou've given toomuchdetail asopposed to too little.Makesure that you givethisdescriptionbefore youdoanythingelse.Doing sohelpstheplayers to stay incharacter,especially if they've had towait for you.
-
-If you don't have thetimeorcreativeenergytogive everynon-Elysium location this treatment,a"photo gallery"of sorts might be in order.Most places thatcharacterswill go canbe divided up intobroadcategories—a church,astreet,anoffice,etc.Adayorsoofwanderingaroundyourometown with a disposablecamera should provideseveralgood snapshotsof thesekinds ofplaces.Place them inaphotoalbum,andwhen playersgo toa nearby alley, referthem to the appropriate photo.You'll be surprised athowmuch thiscan do for a chronicle.As they say, a picture is worth a thousand words. Use common sense when taking these photos,however—shooting pictures ofa dangerous alley late at night is not recommended!
-
-## AMILLIONSTORIES...
-
-Encourage the players to lesh out the incidental contacts they make as they go about a typical day.Every character should have a supportingcast of friendsneighborsandenemisWheredoesacharacterhangouttorelaxn abar?Who's thebartender?Does thecharactergotochurch?Who's thepriest? Wheredoesthecharacterfeedregularly?Istheresomeone heencountersthere more than once?The list of possibilities is endless.
-
-Making people a part of your city is one of the most important -— and demanding tasks you face as a Storyteller.How do you come up with the names and faces thatmake up yourcity?Youcan'tbe expected to come upwith all thefrndsnmiendhborshatlayrseetnhilive playershowever,can easilycomeupwith thisinformationforyou...with littleprompting.
-
-Backgrounds are also a great placeto start generating names.Everytme a Kindred uses her Influences, she's calling ina favorormakingabribe.Whos
-
-<!-- image -->
-
-giving thefavor?Why are theyhelping the character?What are they getting out of the deal?The same thing applies to the Contacts background.Every contact is asnitchorawhistleblower that ishelping thecharacter forreasons allhiswn.CharacterswithFamehaveagentsfansandassistant.Hghlv of Resources need stockbrokers,bankers,accountants and caretakers to survive.Herds are anautomatic source of intimate contactsfora character.A day shouldnotgobywithout thecharacter tryingtoget something outof amortal.
-
-ThisofcoursebringsupthemostintimatecontactaKindredhaswith mortal:feeding.Gettingblood shouldneverbeaseasyas agame of Rock-Paper Scissors.Where does the character go to hunt?Whom does she choose tofeed from?Why doesshechoosethesepeopleIna smallgame,theStorytellermay well play out a short scenewith each character concerning theirnightlyhunt. In largergamesyoumaywellwishtowriteupseveralenerichuntingscenarios and let the players draw them randomly.To survive,a Kindred has toperform an act of near-rape every night.The characters—— and players — should never bepermitted tobecomeblaseaboutthis.
-
-Don't sweat coming upwith all thisbackgroundmaterial yourself.Most playerswillhappilygeneratethisinformationwithlittleproddingRewardingan extra ExperienceTrait toplayers that providethis informationisn'tout of lineinareal sense,they'reoingyourworkforyouflayeristrulystumped asking him a fewleading questions toget his creativejuicesflowing:"Where do you feed?Whom do you talk to about yourStreet Influence?"Don't pushtoo hard,andbepatient.Youshould seesomeresultssoon.
-
-Oncethesebackgroundcharactersaredefined,don'thesitatetousethemas partof thestoryfsomeonedestroysanothelayer'Influencessheisthreaten ingor killing thecontacts thatmake thoseInfluences possible.It's one thing to tellaplayerthatherPolitical Influencehas diminished from4to3.It's anotherto tell themthatRosa,thesecretary sheknewatCityHallwasfounddeadinan alleyOnemaneuvernagameantherersonalattacknafriende the gamespeakto aminimum.MakealltheContacts and Influences people,not numbers.You'll get a farmoreintimate,high-stakes game as aresult.
-
-Make sure thatyou don't use thisbackground data arbitrarily orwithout taking theplayers into account.These people areimportant to thecharacters they'rejustasmuhthlayesextrasasthyareoursnsenseillingnff just tomakeapointorfurthertheplotisnotgoingtogooverwell.Ataminimum, playersshouldbeallowedtoseekrevengeorsuchthings.Betterstill,givethem just enough advance warning tolet them save their friends... this time.If you don'twantoulayerstotreatmortalsasawnsyouetteavoitreatingthm aspausefarlettoefuillnffr reason,playerswill hesitate tocreatemoreforyouto abuse.
-
-Ontheflipsideoushouldrewardplayerswhotakethetimetohelphr supportingcharacters out.Suppose thatonecharacterknows acopinInternal Affairswho'shavingdifficultywith hiswife.Thiscopisthesourceof hisPolice Influence.Ifthecharactertakes thetimetohelpthiscoppatchuphismarriage, he should be rewarded for the extra roleplay.Maybeyou could give him a chance toresist a hostile takeover of hisInfluences if another player assaults it.Thefinalcallisuptoyoubutngenerallayerswhodevotetimeandenergy toplaying out their actions in themortalworld should berewarded.
-
-amarlla uide
-
-And hey—if thecharacter engineered the cop'swife troubleinthe first place,justsohecouldgetafavorouthim,thenyourereallygettingintothe spirit of things.
-
-## ACTIONSANDREACTIONS
-
-Wheneveraplayerstartstalkingtoamortalyouneedtotaketwothingsinto account:how human theplayeracts and howhuman thecharacteracts.Humanity reallycomes into playwhenKindred and ordinarymortals start interacting.
-
-A characterwith lowHumanity shouldnever haveanormal,ordinary relationshipwithahuman.That lossshould always shakeacharacterif youcan manageit.Playersmightnotpickuponit thefisttime aroundoreventhe second,butconsistentlygivingmortalcontactsanedginesswhentheymeeta low-Humanityvampire shouldeventuallyhave aneffect.
-
-A character with low Humanity should always have a rough time of it. Humans always know something is"wrong"with such a person, even if Obfuscate or disguises areinplace.Youmight dress upa serial killer in a nice suitandtiebueoplewill still shyawayfromhimonthebuomatterw much he smiles.Humans can senseKindred theway that thedeercan sensethe wolfand theirfirst impulse should betoget away.
-
-Likewise,ifacharacterhasahighHumanityrating,theyshouldbeable togetalongwell with anordinaryperson...but notperfectly.Evena Humanity 5Kindredisntquitekosher,andeventually,ahumanwillnoticet.Kined have towork atbeinghuman.It doesn'tcomenaturally anymore.Eventually, the prey will pick up the scent of the wolf again.It's only a matter of time.
-
-So here'sthe setup:You've asked your players to create bunchof interesting,exciting mortals.These mortals are integral to the character's lives. However,these interestingpeoplecanneverunderstand thecharactersand will alwaysfear andhate themon somelevel.Thismay seem a littlecruel.
-
-WelcometoVampire.
-
-On the otherhand,characters thatworkto overcome their handicap should berewarded.Theloss of Humanityis challenging,butit isn't insurmountable.Someonewho spendstimeinthereal world shouldfinditeasier to deal with human beings,maybe even gaining a little bonus in their application ofBackgrounds.
-
-What areyourplayersgoingtodoabout thisdilemma?Payclose attentionto whathappensnext.Ifacharactertreats humanslikeslime orgets angrywith these uncomprehendingmortals,take anoteof it.Itllmake thatnextmeetingwith thosehumans thatmuch harder.Kindred canforget howto deal with a human beingafterawhile.Ifacharacterconsistentlydealswithmortalsoorlyyoumight want to startmakingit harderforhimtousehisContacts andInfluences.
-
-Thatchallengetostayhumanshouldnevergoawayowever.tsnf the foundationsof thehorror inthisgame.It'soh-so-easy tolosea griponyour Humanity.Itcanslipaway ifyoudon'tkeep aneyeonit,andyoumaynever get it back.Don't make the fight easy.
-
-And then,ofcourse,there arethewildcards.Theinnocentcan seeright through Obfuscated characters-—imagine the startled lookon a Nosferatu's facewhen a toddler comesup and asks himfor helpfinding hismommy.True Faithhas a habitof croppingupin unlikelyplaces,even in this day and age.
-
-TheCity
-
-Andeverysupernaturalcreaturecandisguiseherselfashuman insomefashion. No interactionwith the humanworld should be seen ascasual or commonplace.There's always a chance that themortalworldwill surpriseKindred. Never permit the players toforgetthis.
-
-## LETTHETIMESWRITEYOUR CHRONICLE
-
-The WorldofDarkness is essentially our own world—a darker, cockeyedversionofourworlderhaps,butitsstill ometorytellerscan get alotofinspirationfortheChroniclejustbyreading thelocalnewspaper on a regularbasis.
-
-With a little bit of paranoia,nearly anyroutine event could have a supernatural hand behind it.A robbery or fire might well be the signs of a cover-upformoresinisterevents.Anewhigh-risebuildingorindustrialpark mayhave a Kindred owner.Anyofthese things canserveas theseedfora story linefora chronicle.
-
-Sometimes,thenewspapercangenerateanentirestorylinewithoutthe Storyteller doinga thing.If a largenews eventhappens in your area—a hurricane blowing through or a casino opening—let the players try and do things about it.Weathering amajor stormbecomes agreatdealmore difficult whenKindredcan'tevacuate and the blood supply leaves town.Hostile forces such as theSabbatmay choose to use the storm ascover for an invasion.On the otherhand,a casino offers anopportunityforvast Inluence andwealth. However,awar could erupt over theprofitsif toomanypartiesget involved. Bigstorieslikethiscanserve asthefocusforanentiregamesessionandimpact thechronicleforalongtime afterthingssettledown.
-
-Big events are a great way tokeep the game world in motion.Even somethinglikeaconvention ora politicalrallycan generate a hive of activity amongthepowerbrokersinyourgame.Powerdoesn'tjust stayputinthehands ofKindred.It moves aroundall onits own.Ifa museum exhibit comes into town,Kindredmightrecognizesomeofthepiecesandwanttorecovertheir "lost" property.A politician's rise or fall on Election Day could cripple a Kindred'sInfluence for months.The world is always changing, despite the Camarilla'sbestefforts,andcharacters should alwaysbescramblingtokeepup.
-
-Keeping the local paper amainstay in the game also reminds players of anotherimportantfacttheyaren'ttheonly things happening intown.Indeed, often they aren't even the most important things in town.They certainly shouldn'teif theMasqueradeisinplaceTherealworldkeepsmovingpastthe Kindred and beyond them,no matterhowmuch they mightwish otherwise. Using stories in the game that don't begin andendwith the supernatural keeps the everydayworld alive behind the players as theywork in the shadows.
-
-Keepyour playersadvised of these"realworld stories"as theyoccur.Ifa particularnewsarticlegrabsyouasthecenterofaKindredplot,copyitandgive it toyourplayersbefore agame begins.E-mail canbeamarvelousway tokeep playersabreastof importantactions,especiallyif theresalongtimebetween gamesearnmindthatmailisntalway0rcenteliablwever,n not everyplayermayhave e-mail access.It'sbest togive this information to players inmultiple formats and at different times.
-
-<!-- image -->
-
-<!-- image -->
-
-These current events supply some grand side quests andred herringsfor players toinvestigatewhile you hit themwith yourmain plot line.While it's importanttohaveadirectionforyourchronicletopursue,occasionallyplayers simplywon'twant tochase thebaityoureproviding.Inalargegame,there simply may be toomany people tochase down the Sabbat pack all at once. Instead of letting these players sit around Elysiumwaitingforthemain plot to finish,theyshouldhavetheopportunitytochaseotherstories.Agoodgame shouldbelikeabuetwithmultiplelotsandquestsavailableoryoulars to sample.Many of these choices may have nothing to dowith whatyou considertobethetruefocusofyourgamebutthatdoesntkeep themfom being entertaining choices in their own right.Usinga resources like the local newsgives youthechance toprovidemultipleplots atoncewithout havingto invent all the details yourself.
-
-Once playersget used to thenotionthat theStoryteller is cribbing plot linesfromthenewspaper,theymaywelldecidetotakeactiononthingsprinted in the local newsbefore theStoryteller officially callsnotice to them.The Storyteller should pay attention to these ideas.In essence,the players are lettingtheStorytellerknowwhattheywanttoseeinthegame.Evenif there's toomuch going onin thegame fortheStoryteller togivethe player's actions afull treatment,she shouldrememberwhat theplayersdofor later stories. Playerswant tofeel like they arehaving an impact ontheirworld.Let them do so...and suffer the consequences.
-
-Ofcourseyoumayverywellwanttoput somehintsconcerningthemain story lineintoyourlocalnewsasyougoalong.Don'tbeafraidtowritesomething newasougorallitourworldndoucanwithtasyueefit yougetthelocalpaperestablishedasaplotengine,anythingdroppedintothemix, whethergeneratedbyyouortheSundayedition,isgoingtokeepthegamegoing. Just tryand avoidputting toomuchwishfulthinkinginthere.Itmightbe painful toseeyourfavoriteteamlosetheSuperBowl,buterasingthatfourth-quarter touchdown foryour own peace of mind is a bitmuch.Remember thatyou're running thisgameforyour players,notforyourbettingpool.
-
-Now that youhave allof thesebusypeoplebustlingabout in yourdetailed town,reactingtocurrenteventsyouereadytohavesomefun.Adynamic environment like this allows you to create convoluted,intrigue-laden plot lineswithoutbreaking a sweat.
-
-## HOME-GROWN INTRIGUE
-
-A good intrigue plot line is likea chain of dominos.A Kindred takes an action—hekills someone forblood.That actionaffects two other people the deceased has awife and sonwhocan'tfind himThose peopleaffectothers thewifereportshermissinghusbandtothepolice,while thesoncruisesthe alleywayslookingforhislostfatherThoseactionsafctsomeoneeleann and on,until the entire system is inmotion becauseof one simple act.
-
-Each of these mortals your players havecreated can serve as a domino in your game of intrigue.Every action thatyour players takecan serve to set the chain off.Ifyou have a solid grip on who lives in the city and how they're related, the connections should be easy to make.
-
-<!-- image -->
-
-Thekeystomaking this systemwork are a careful recordof theactions your players take during a game andabrisk imagination.Whenaplayer does something interesting,write it down.You are writing everything that happens in the game down, aren't you?This is one of those reasons why keeping track of everything that happens in a game is so important.We'll say it again:Write everything down that happens in the game.It's important. You'll be glad you did.
-
-The imagination comes in when you ask yourself one question:"What if..As you read over your notes onplayers actions,keep a listof your supporting charactershandy.Asyoulookataplayer's actions,askyourself "What if this character was seenby somebody?What if someone sawher breakinto the abandonedwarehouse?Whatwould thewitness donext? Whatwould those actionschange in turn？Eventually,who hurtwhom and who helped whom should become fairly clear,and all of your"dominoes" shouldbeinmotion.
-
-Here'sthebest partof this system:Playerswill get thingsinmotionall by themselveswithout anypromptingbyyouEveryaction thata player takeshas thepotentialtostartthedominochain,forcingStorytellerandplayercharacters alikeintomotionuntil every lifeof thecity touches everyone somehow.
-
-Thismaybealittlestartlingatfirst:Youmayverywell feellikethegame is starting to takea life of its own-ala Frankenstein'smonster.If your players areinterested inchasing a story thatstarted threemonths agowitha random act,thenthey'rebusyandentertained,andyoudon'thavetodoathing.Ifou reallydontwantaplottokeeprollingalonglikethis,juststophelpingitalong. Don't ask"whatifs"about thisplotand keepthenumber of people affected by it to a minimum.Eventually,thingswill die down.
-
-But don'tstopa plot justbecauseit'snot"yours"anymore.Ifyoujustdrop aplotlikealeadballoonwithoutgivinganyclosureorhintstolayershey goingtoendupfeelingcheated.Youmaybefreshoutofideasonthatred herring your players are chasing,but abruptlyending thingswithout somuch asaboo" canbeamajorletdown.Tryredirectingthiswildgoosechaseback into themain plotline —perhaps a minion of your main villain has been following the characters aroundandgetscaughtataninopportunemomentFailingthat,leave enough of adanglingplotthreadforyourcharacterstokeepgoingonceyour batteriesrecharge.Buttheplayersinterestinaplotshouldguideyoujustasmuch as yourown plansforthegame.One of thegreat pleasures of runningaMind's EyeTheatre game iswatchingaworld take shape aroundyouwithout any outsidehelp.Don't denyyourself thatopportunity.
-
-Jumpinandstartsomeintrigueyourself every onceinawhileandseewhat happensnmanygamesgroupoflayerswillfel lftoutf thecurrentlt. Itmaybethat they'renaturally too shytojumpinand includethemselveswith other playersor theymaysimplybetoolatetojumponthebandwagon.Thiss anideal time to pickononeof theirbackgroundcharacters.Give them a piece ofapuzlrmallsnaldilma..andhnathteaduu neverdesignproblems that are small enoughforone person tosolve—make your players askeachotherforhelpandinformation.Mind'sEyeTheatreis atitsbest whencharacters start dealing directlywith each other and stoprelying on the Storyteller for everything.Encourage this whenever you can.
-
-anar muide
-
-<!-- image -->
-
-You shouldn't have to look hard for a good prize for your players to chase. If youhavealotfToreadorlayersapieceofrareartworkwilldonicelyf theTrmereareopularfflostmagicaltextritmyouwanttall draweveryone outof thewoodwork,arumorconcerning a long-lost fragment of theBookofNodwill workwonders.Tailoryour bait toyour audience,and you'll inevitably get aresponse.
-
-Here are some things thatyoucan toss into the gametokeep thingsmoving: Offer a reward.The classicmodel for this sort of thing is an object thata number of playerswant to get a hold of.A treasure hunt like this can set offa wild webofintrigue.TheMalteseFalconisaclassic exampleofaplotfocusing on this sort of object.Thisfilm features enough double-crosses and scams to make yourhead spin-ifyoucan encourage your players to anywhere near this level of intrigue, you'll have done well.
-
-The prize in this hunt doesn't even have to be a physical item.An informantwhoknows some damning information about theprince ora fugitive from anothercity that has a priceon his head canserveverywell as a prizein thisgame.Livebait"like thisisa little trickiertomanage,however it tends to have ideas all it own about who will take possession of it.Keep the actions of your"bait"in mind as the player try to capture it.
-
-Be cautious about lettingyourprizestayin play after oneof theplayers finallygetsherhands onit,however.If it's an especiallypotentmagicitemor weapon,youmaywanttogetridof itafterthehunt isover.Oneof themore amusingways to do this is...
-
-Nomatterwhattheprizeinthegameis,don't letplayersobtainiteasily or cheaply.Mostrare artworkis tucked awayvery securely inmuseums and auctioned off at very high prices. Artifacts of magic often have... odd... guardiansand can beinherently dangerousintheirownright.And a living trophy should actively defend itself from all takers.A prize like this isn't valuable if itcomes cheap.Forceyour players tocall infavors and askothers for help.Doing so lets theplot grow and the web of intrigue spread.
-
-Threaten a punishment.Ahot potato"tossed into the game canmake fora veryfastpaced andfreneticgame ofintrigue.Place somethinginthegame that will causeallkindsofproblemsforitsownerandwatchhowfast itchangeshands. Objects can turn intohot potatoeswithfrightening speed at times:If the elder whooriginallyownedthatfascinatingpieceofartworkshowsup,orthefragment of theBookof Nod turns out tobecursed,things cangetvery interesting.
-
-Nomatterwhatyoudecidetothrowinto themix,keeptrackofwhooes what towhom andmake sure that all the actions have consequences.With any luck,the activity your toy generates will affect characterswho didn't even know it was in play.
-
-Whileitsardtbtainizthoudevrydiffcutgtif punishment. Cursed items have a way of staying with their owners.Tossing that pricelesspainting intothegarbage doesn'tmeanthattheelderwon'ttrace thepiecetoitsnewowner...andonce theelder doesso,hesgoingtoask some hard questions.Again,makeplayersrelyon eachotherforhelptogetoutf trouble andwatch the fun begin.
-
-TheLitn
-
-<!-- image -->
+You shouldn't have to look hard for a good prize for you r players to chase. If you have alotf Toreadorlayersapieceofrareartworkwilldonicelyf the Trmereareopularfflostmagicaltextritmyouwanttall draweveryone outof the woodwork, arumorconcerning a long-lost fragment of the Bookof Nodwill workwonders.Tailoryour bait toyour audience, and you'll inevitably get are sponse. Here are some things that you can toss into the gametokeep thingsmoving: of fer a reward.The classicmodel for this sort of thing is an object that a number of playerswant to get a hold of.A treasure hunt like this can set of fa wild webofintrigue.the Maltese Falconisaclassic exampleofaplotfocusing on this sort of object.this film features enough do uble-crosses and scams to make you rhead spin-ifyoucan encourage you r players to anywhere near this level of intrigue, you'll have do ne well. The prize in this hunt do esn't even have to be a physical item.An informantwhoknows some damning information about the prince or a fugitive from anothercity that has a priceon his head can serveverywell as a prizein this game.Livebait"like this is a little trickiertomanage, how ever it tends to have ideas all it own about who will take possession of it.Keep the actions of you r"bait"in mind as the player try to capture it. Be cautious about lettingyourprizestayin play after oneof the players finallygetsherhands onit, how ever.If it's an especiallypotentmagicitemor weapon, you maywanttogetridof itafterthehunt is over.Oneof the more amusingways to do this is... Nomatterwhattheprizeinthegameis, don't letplayersobtainiteasily or cheaply.Mostrare artworkis tucked awayvery securely inmuseums and auctioned of f at very high prices. Artifacts of magic of ten have... odd... guardiansand can beinherently dangerousintheirownright.And a living trophy should actively defend itself from all takers.A prize like this isn't valuable if itcomes cheap.for ceyour players tocall infavors and askothers for help.do ing so lets the plot grow and the web of intrigue spread. Threaten a punishment.Ahot potato"tossed into the game can make for a veryfastpaced and freneticgame of intrigue.Place somethinginthegame that will causeallkindsofproblemsforitsownerandwatchhowfast itchangeshands. Objects can turn into hot potatoeswithfrightening speed at times:If the elder who or iginallyownedthatfascinatingpieceofartworkshowsup, or the fragment of the Bookof Nod turns out tobecursed, things can getvery interesting. Nomatterwhatyoudecidetothrowinto the mix, keeptrackofwhooes what towhom and make sure that all the actions have consequences.With any luck, the activity you r toy generates will affect characterswho did n't even know it was in play. Whileitsardtbtainizthoudevrydiffcutgtif punishment. Cursed items have a way of staying with the ir owners.Tossing that pricelesspainting into the garbage do esn'tmeanthattheelderwon'ttrace the piecetoitsnewowner...and once the elder do esso, hesgoingtoask some hard questions.Again, makeplayersrelyon eachotherforhelptogetoutf trouble and watch the fun begin. the Litn
 
 ## APPENDIX: FOR STORYTELLERS
 
-## INCONNU,MONITORSAND THESTORYTELLER
+## INCONNU,MONITORSAND the STORYTELLER
 
-## THEANCIENT ONES
+## the ANCIENT ONES the Camarillawouldhaveitsconstituentmembersbelieve that the two major sects of Cainites ——itself and the Sabbat—are the only significant adversariesvyingfor supremacy of the night.But the hours of darkness do not necessarily belong to eithergroup.Indeed, inthese uncertainmodernnights agrowingnumberof vampirespreferto avoid(or reject outright) the political posturing and machinations of both groups, remaining aloof and unaligned. Among thosewhowould carve the ir own futures are beings of unimaginable antiquity and power.the seindividuals intentionally setthemselves apartfrom the irlesserkin, observingthemfromtheshadowsandremainingunseenbyallbut those towhom they wish toappear.Vampiresofthe Camarilland Sabbat call the m by various names, the most commonbeing Inconnu.As the Final Nights approach, astherumorsof Gehennaarriveonill-fatedwingsofomenmanyeyesinbothsects probethe shadowsfor signsof the seelusive Cainitesandforanindicationofwhat role the se potent Kindredwillplayin the unfolding drama of the Jyhad. ## the INCONNU
 
-TheCamarillawouldhaveitsconstituentmembersbelieve that thetwo major sects of Cainites ——itself and the Sabbat—are the only significant adversariesvyingfor supremacy of thenight.But the hours of darkness donot necessarily belong to eithergroup.Indeed,inthese uncertainmodernnights agrowingnumberof vampirespreferto avoid(orreject outright) thepolitical posturing andmachinations of both groups,remaining aloof andunaligned.
+The Inconnu are less of a sect inthe accepted sense and moreof a loosely affiliatedcommunitybuiltonthe principlesofmutual respectandprivacy.they seem to be a band of individuals that share some common interests and experiences, and yetremainatadiscreetdistancefromeachotheroutofrespect and fearforoneanother'power.Ifthereissomegoverningbodyorotherrulership that leadstheconnuonlytheyowaboutit, and thyarenttalkinghw Cainites who might be will ing to identify the mselves as members of this clandestine group sometimes verify the sefacts, but almost neverelaborat or of fermore detailedinformation aboutthemselves or the ir secretive associates. ## THE MONITORS
 
-Among thosewhowould carve their own futures are beings of unimaginable antiquity andpower.Theseindividuals intentionally setthemselves apartfrom theirlesserkin,observingthemfromtheshadowsandremainingunseenbyallbut those towhom they wish toappear.VampiresoftheCamarillandSabbat call them by various names,themost commonbeing Inconnu.As theFinal Nights approach, astherumorsofGehennaarriveonill-fatedwingsofomenmanyeyesinbothsects probethe shadowsfor signsof theseelusiveCainitesandforanindicationofwhat role these potentKindredwillplayin theunfolding drama of the Jyhad.
+Encounters between the Inconnu and other vampires are exceedingly rare at best, but the you nger Kindredwho do come into contactwith one most the mselves Monitors acceptthedutyofobservingall that transpireswithina chosen city, perhaps trying to comprehend the true meanings behind the events that unfold before the ir watchful eyes. not everycityhasa Monitor, but thoserarefewthatdotendtobethefocus of intense Cainite activity.How the se secret observers choose the cities they watch over is amystery to everyone but the mselves(the few Monitorswilling to speak about the mselves at all appear to have almost no discernable connections to the metropolises they inhabit), a fact that gives rise to all variety of speculations and rumors.Perhaps the most popular the or y in the se modern nights is that the Monitors are somehowconnectedwiththeportents that herald the advent of the Final Nights. ## STORYTELLING CONSIDERATIONS
 
-## THEINCONNU
+The Inconnu and Monitors holdmany temptations for the unwary or inexperienced Storyteller.The thought of introducing such a tantalizing mysteryintotheongoingchronicleisnearlyirresistible, and with goodreason: Few events ina Kindred character'sexistence could match anencounterwith oneof the se ancients for sheer drama and memorability.but using the se creatures ina story demands that you take special care:Mishandledcontact between playercharacters and one of the Inconnu can plunge you r otherwise smoothly runchronicle into a tailspin from which itmay never recover The primary considerationswhenrunning such a plotline are properly casting the rolesmaintainingasenseofmystery and carfullyusingcharactertypeshe following guidelines will help you tell Inconnu and Monitor stories with confidence while leaving you r ongoing chronicle intact. ## CASTINGTHEPARTS
 
-The Inconnu are less of a sect inthe accepted sense andmoreof a loosely affiliatedcommunitybuiltonthe principlesofmutual respectandprivacy.They seem to be a band ofindividuals that share some common interests and experiences,andyetremainatadiscreetdistancefromeachotheroutofrespect and fearforoneanother'power.Ifthereissomegoverningbodyorotherrulership thatleadstheconnuonlytheyowaboutit,andthyarenttalkinghw Cainites who might be willing to identify themselves as members of this clandestine group sometimes verify thesefacts,but almost neverelaborat or offermore detailedinformation aboutthemselves or their secretive associates.
+Afteroudecidentheightarratorforthepart, involveerncreating the character she will play. Ask her to help you answer the se important questions about the Inconnu persona, so that she can be confident in portraying the character as convincingly as possible: Only Narratorsshouldplaycharacterswhoembody powerof this magnitude. It should beobvious that onlyaportrayalbya Narrator-and askilledoneat that —can realize the full potential of such a being.It's inevitable that one or more playerswillaskfortheopportunitytoportrayoneofthesecreaturesasaplayer character, but the answermust alwaysbeo do you rselfyourlayersandyour chronicleabigfavorandpractice answering this question properlyuntil you can do sowithconfidence Infact, the onlypointatwhichyouhouldevenconsier includinga member of the Inconnu in you r story is when you can give the roleto a Narratorwhomyoucantrustimplicitly The Narratormustbeabletoportray the awesome presence and barelycontained power of the characterbelievably while still adhering to you r principles of interaction. - what was hermortal lifelike? - where do esshecomefrom? - who Embraced her? - what tactics, strategies and schemes do es sheemploy? - What are hermostimportant hopes, dreams and fears? - what are her plansforthefuture, bothhers and others? The answers to the se questionswill helpyou decide exactlyhow the characterbehaves and how shemight cometobeinvolved in the unlives of you r characters. ## CHARACTERINTERACTIONS
 
-## THE MONITORS
+Onceyou see the kind of dread and curiosity an Inconnu character can inspireyoulbetmptedtutilizeneormoreofthemwith someegularity. Resist this impulse, and employthe Inconnu and Monitorssparingly.Otherwise, you will sharplyreduce the ireffectiveness and dilute the awe and terror they should inspire.the se Kindred tend to overshadowentire chronicleswith the sheer scaleof the ir power:the irgoalsstart topervadeall the plots and subplots if they are not usedwithrestraintandportrayedwithmaturity and discretion. Kindredwho have nevermet oneof the se beings of ten imagine that they are among the most cryptic and indirectof all vampires.On the contrary, the ancients seem to have no patience for such games: they are wont to be surprisingly plain-spokenandalarmingly direct.No Monitorwishestocommit the extraordinaryriskofrevealing herself onlytohavetheyoungervampires with who mshe wishes toconversemisstheentire pointshewas tryingtomake No matter what happens, do not all ow the recipients of the Inconnu's attentions tobe blase about it-no one encounters one of the se creatures and escapesunchanged, and whetherthatchangeisforgoodorillissomethingthat should plague the characters'minds for some time to come.Even the most
 
-Encounters between the Inconnu andother vampires are exceedingly rare at best,but the youngerKindredwho docome into contactwith one most themselvesMonitors acceptthedutyofobservingall thattranspireswithina chosen city,perhaps trying to comprehend the true meanings behind the events that unfold before their watchful eyes.
+Regardlessofhowmanycenturies they survive, mostvampireswillnever meet one of the Inconnu, and even those who do of ten fail to realize the significanceoftheoccasion.Mostoften, an Inconnuismerelyanidentifiablebut nearlyintangiblepresencefelt inthemindratherthanthe senses.Onthoserarest of occasionswhen amemberof the Inconnu interacts directlywithacharacter, remember that the exchange occurs on the ancient'sterms.Sheonlymeets at timesandlacesofherownchoosingandeventhen, suchencountersmayapar tobe somethingentirely different than what her truepurposemight suggest. Strive tomakethesemeetingsasportentous and memorableaspossiblewithout revealing the exactnature of what is transpiring.Rather than reveal the character's trueidentity, the Narratorportrayingthe Inconnushouldbeprepared topresent afalse persona and use the character'spowerstoreinforce the disguise in the eyes and minds of those you nger Kindredwithwhom sheinteracts.Before moment, establishwith the Narratorplaying the role the mannerinwhichshe will use the persona to evoke the se feelings of fear and respect in the other characters.this need not beaflamboyant displayofobvious power:Lessis of ten more when utilizing the se particular story tools. During the cousef the interactionsyoungerindedshouldinditext impossibletdicethetruenaturesdentitiesandgoalsof the seancientbngs: they should remain inscrutable in the eyes of the ir lessers.The Inconnu have untoldcenturies, evenmillennia, of experienceandwisdomon which todraw.ou can choose tostage such an encounter as a one-shot scene that isn't connected to you rgreaterlot, rasaneventthatunderscoresthehmesandmoodsyou incorporating into you rongoing chronicle.Amemberof the Inconnumight show uptoliverawanngttrryptichat, rndrauzzlingcongratulatin conducta subtle indoctrination or evenrecruitfora cause.If the encounteris betweenan Inconnuandasingleweakervampiretyodevelopthescenensuch a waythatthe playercharacterisimpressedwiththebenefitsofkeepingthenature of the meeting to himself If the encounter is between an Inconnu and multiple lesservampires, strivetogivetheoccasionthefeelofastatevisitoranaudiencewith a sovereignpowerrather than an informal chat. brash and intractable you ng Kindred should feel compelled to treat the se ancientswith the respect, even reverence, that is the ir due. ## USINGTHECHARACTERS
 
-NoteverycityhasaMonitor,butthoserarefewthatdotendtobethefocus of intense Cainite activity.How these secret observers choose the cities they watch over is amystery to everyone but themselves(the few Monitorswilling to speak about themselves at all appear to have almost no discernable connections to the metropolises they inhabit),a fact that gives rise to all variety of speculations andrumors.Perhaps the most popular theory in these modern nights is that theMonitors are somehowconnectedwiththeportents thatherald the advent of theFinal Nights.
+Conflicts that include a Monitor or othermemberof the Inconnumust necessarilybestable enoughtocarry the storyforwardfora significant amount of time.Ifthestoryfeaturesonlyasinglememberofthismysterioussect, decrease the ancient Cainite's powerso that shedoesnotcurrentlyenjoy the full benefit of hermany advantages.Perhaps she awakenedonly recently and requires time torestoreherself toherformer heightsof power.Perhaps, during herconvalescence, sheplanstogatherusefulinformationaboutthe Kindredofthecity.Ifthe storyinvolvesmultipleancients, the bestwaytoachievestorystabilityistomake eachsidelativelqualntngthastasthstryenrefait ensuresthatnosidewilldefeattheothertooquicklyandinsteadthe Iconnu mustviefor pawns and all iesfrom among the weaker Cainites of the vicinity before they can make any significant strides towardvictory. ## INCONNUSTORIES
 
-## STORYTELLING CONSIDERATIONS
+The Sleeper Must Awaken-A Cainite of incalculablepower slumbers beneathhcituvennhleprestlessmindashabilitytaff the nightly lives of the lesser vampireswho populate the are a.Perhaps some of the characters sufferfromstrange, inexplicabledreamsastheresultof the sleeper's slow striving toward wakefulness.and what happenswhenshefinally awakens and emerges?Will shemove amongtheweaker Cainites, or will she observethemclandestinely Will she selectpawnsoralliesfromtheir number, or will shetreateachwith equal disdainorenmity?Perhapsherbehaviorwill be sobizarreandinhuman that even the elder Cainites are at acomplete loss tounderstandher.the mood of this story should be one of deepmystery. Rivals to the End The characters'home is the newestbackdrop against which a pair or trioofancientsfight the latestbattleintheir shadowwar.This conflicthasragedacrosscontinentsandcenturieswithoutresolution, destroying lives and unliveswithequal disdain.Now, asthe Final Nights loomevercloser, it threatens toengulfstillmoreunwitting victims and devastate yet anothercity. The charactersbecomethescouts, standard bearersandarmiesor perhapsthe chess piecesinthis latest chapterinasaga that will undoubtedlycontinueuntil lude oneorallof the combatants are sweptfromtheboard.Paranoiaisthewatchword for this tale, with a healthydoseof fear throwninforgoodmeasure. the re can Be Only One-Drivenby rivals who are hot on his heels and thirstingfor his destruction, a single ancient arrives in the charactersmidst. the newcomerisbattered and shakenfromhisordeal and needstimetolick his wounds.Reluctant to continue running despite the power of those who hound him, he casts about for a weapon... and finds the characters conveniently at hand.Heuseswhat little time remains to hone his unwitting all ies, pitting the m againstfoesbothreal and imaginedbut all of his ownmanufacture.how will the charactersreact when they learn that this creature has or chestrated the irwoes?what will happenwhen the pursuersfinally catch up to the irquarry?This is afast-pacedstorythatfeatures lotsofaction;trytoevoke amoodofexcitement and escalating tension. ## PORTRAIT GALLERY
 
-The Inconnu andMonitors holdmany temptations for the unwary or inexperienced Storyteller.The thought of introducing such a tantalizing mysteryintotheongoingchronicleisnearlyirresistible,andwithgoodreason: Few events inaKindred character'sexistence couldmatch anencounterwith oneof these ancients for sheer drama and memorability.Butusing these creatures ina story demands that you take special care:Mishandledcontact between playercharacters andone of the Inconnu can plunge your otherwise smoothly runchronicle into a tailspin from whichitmay never recoverThe primary considerationswhenrunning such a plotline are properly casting the rolesmaintainingasenseofmystery andcarfullyusingcharactertypeshe following guidelines will help you tell Inconnu andMonitor stories with confidence while leaving your ongoing chronicle intact.
+Belowaresomebasictemplatesandroleplayingnotesforthevampires and mortalsthatpopulate Camarillastrongholds.Innocentbystanders, ghoulsfor can nonfodder, princes brieflyglimpsed inthe shadows—they'reall here. If the playerswise upto the statistics of the se Narratorcharactersandstart metagaming(Well, weknowthisthugisgoingtobe Callous..), do n'the sitateo do ctorthesetemplatesasyouseefit who saysthatthisthugisnta Wiy Oberant little fellowwhojustwantstogetawayandreportohisboss?Occasionallythrowing the players a curve ball keeps the m in the game and on the ir toes. how ever, noneof the setemplateswillholdupunderanysortofextended use.the se templates exist for use as backdrops to the main action and as examples for creating more fully rounded characters.If a template starts showingupregularly, itsuptothe Storytellertobuildatruecharactersheet for this person—a cookie-cutter set of statistics justwon't do. ## PLAYINGTOTYPE
 
-## CASTINGTHEPARTS
-
-Afteroudecidentheightarratorforthepart,involveerncreating the character she will play. Ask her to help you answer these important questions about the Inconnu persona,so that she can be confident in portraying the character as convincingly as possible:
-
-OnlyNarratorsshouldplaycharacterswhoembody powerof thismagnitude. It shouldbeobvious thatonlyaportrayalbyaNarrator-andaskilledoneat that —canrealize the full potential of such a being.It's inevitable that one ormore playerswillaskfortheopportunitytoportrayoneofthesecreaturesasaplayer character,buttheanswermust alwaysbeoDoyourselfyourlayersandyour chronicleabigfavorandpractice answering thisquestion properlyuntil youcan dosowithconfidenceInfact,theonlypointatwhichyouhouldevenconsier includinga member of theInconnu in your story iswhen you can give theroleto a NarratorwhomyoucantrustimplicitlyTheNarratormustbeabletoportray the awesome presence andbarelycontained power of thecharacterbelievably while still adhering to your principles of interaction.
-
-<!-- image -->
-
-<!-- image -->
-
-- Whatwashermortal lifelike?
-- Wheredoesshecomefrom?
-- WhoEmbraced her?
-- Whattactics, strategies and schemes does sheemploy?
-- What are hermostimportant hopes,dreams and fears?
-- Whatare her plansforthefuture,bothhers and others?
-
-The answers to these questionswill helpyou decide exactlyhow the characterbehaves and how shemight cometobeinvolved in the unlives of your characters.
-
-## CHARACTERINTERACTIONS
-
-Onceyou see thekind of dread and curiosity an Inconnu character can inspireyoulbetmptedtutilizeneormoreofthemwith someegularity. Resist thisimpulse,andemploytheInconnu andMonitorssparingly.Otherwise, youwill sharplyreduce theireffectiveness anddilute the awe and terror they should inspire.TheseKindred tend to overshadowentire chronicleswith the sheer scaleof their power:Theirgoalsstart topervadeall theplots and subplots if they arenotusedwithrestraintandportrayedwithmaturity anddiscretion.
-
-Kindredwho havenevermet oneof these beings often imagine that they areamong themost cryptic and indirectof allvampires.On thecontrary,the ancients seem to have no patience for such games: They are wont to be surprisingly plain-spokenandalarmingly direct.NoMonitorwishestocommit theextraordinaryriskofrevealing herself onlytohavetheyoungervampires withwhomshe wishes toconversemisstheentire pointshewas tryingtomake No matter what happens, do not allow the recipients of the Inconnu's attentions tobe blase about it-no one encounters one of these creatures and escapesunchanged,andwhetherthatchangeisforgoodorillissomethingthat should plague the characters'minds for some time to come.Even themost
-
-Regardlessofhowmanycenturies they survive,mostvampireswillnever meet one of theInconnu,and even those who do often fail to realize the significanceoftheoccasion.Mostoften,anInconnuismerelyanidentifiablebut nearlyintangiblepresencefelt inthemindratherthanthe senses.Onthoserarest ofoccasionswhen amemberof theInconnu interacts directlywithacharacter, remember that theexchange occurs on theancient'sterms.Sheonlymeets at timesandlacesofherownchoosingandeventhen,suchencountersmayapar tobe somethingentirely different thanwhather truepurposemight suggest. Strive tomakethesemeetingsasportentous andmemorableaspossiblewithout revealing the exactnature ofwhat is transpiring.Rather than reveal the character's trueidentity,theNarratorportrayingtheInconnushouldbeprepared topresent afalse persona anduse thecharacter'spowerstoreinforce thedisguise in theeyes andminds of those youngerKindredwithwhom sheinteracts.Before moment,establishwith theNarratorplaying therole themannerinwhichshe will use the persona to evoke these feelings of fear and respect in the other characters.Thisneed notbeaflamboyant displayofobvious power:Lessis often more when utilizing these particular story tools.
-
-<!-- image -->
-
-During thecousef theinteractionsyoungerindedshouldinditext impossibletdicethetruenaturesdentitiesandgoalsof theseancientbngs: They should remain inscrutable in the eyes of their lessers.The Inconnu have untoldcenturies,evenmillennia,ofexperienceandwisdomon whichtodraw.ou can choose tostage such an encounter as a one-shot scene thatisn't connected to yourgreaterlot,rasaneventthatunderscoresthehmesandmoodsyou incorporating intoyourongoing chronicle.Amemberof theInconnumight show uptoliverawanngttrryptichat,rndrauzzlingcongratulatin conducta subtle indoctrination or evenrecruitfora cause.If the encounteris betweenanInconnuandasingleweakervampiretyodevelopthescenensuch a waythatthe playercharacterisimpressedwiththebenefitsofkeepingthenature of themeeting to himselfIf the encounter is between anInconnu and multiple lesservampires,strivetogivetheoccasionthefeelofastatevisitoranaudiencewith a sovereignpowerrather than an informal chat.
-
-brash and intractable young Kindred should feel compelled to treat these ancientswith the respect,even reverence,that is their due.
-
-## USINGTHECHARACTERS
-
-Conflicts thatinclude aMonitor or othermemberof theInconnumust necessarilybestable enoughtocarry the storyforwardfora significant amount oftime.Ifthestoryfeaturesonlyasinglememberofthismysterioussect,decrease theancientCainite's powerso that shedoesnotcurrentlyenjoy thefull benefit ofhermany advantages.Perhaps she awakenedonly recently andrequires time torestoreherself toherformer heightsof power.Perhaps,during herconvalescence,sheplanstogatherusefulinformationabouttheKindredofthecity.Ifthe storyinvolvesmultipleancients,thebestwaytoachievestorystabilityistomake eachsidelativelqualntngthastasthstryenrefait ensuresthatnosidewilldefeattheothertooquicklyandinsteadtheIconnu mustviefor pawns and alliesfrom among theweakerCainites of thevicinity before they canmake any significant strides towardvictory.
-
-## INCONNUSTORIES
-
-The SleeperMustAwaken-A Cainite of incalculablepower slumbers beneathhcituvennhleprestlessmindashabilitytaff thenightly lives of the lesser vampireswho populate the area.Perhaps some of thecharacters sufferfromstrange,inexplicabledreamsastheresultof the sleeper's slow striving toward wakefulness.Andwhathappenswhenshefinally awakens andemerges?Will shemove amongtheweakerCainites,orwill she observethemclandestinelyWill she selectpawnsoralliesfromtheir number, orwill shetreateachwith equal disdainorenmity?Perhapsherbehaviorwill be sobizarreandinhuman that even theelder Cainites areat acomplete loss tounderstandher.Themood of this story should be one of deepmystery.
-
-Rivals to theEndThe characters'home is the newestbackdrop against whicha pair ortrioofancientsfight thelatestbattleintheir shadowwar.This conflicthasragedacrosscontinentsandcenturieswithoutresolution,destroying lives andunliveswithequal disdain.Now,astheFinalNights loomevercloser, it threatens toengulfstillmoreunwitting victims and devastate yet anothercity. The charactersbecomethescouts,standard bearersandarmiesor perhapsthe chess piecesinthis latest chapterinasaga that willundoubtedlycontinueuntil lude
-
-oneorallof thecombatants aresweptfromtheboard.Paranoiaisthewatchword forthistale,witha healthydoseof fear throwninforgoodmeasure.
-
-There CanBe Only One-Drivenby rivals who are hot on his heels and thirstingfor his destruction,a single ancient arrives in the charactersmidst. Thenewcomerisbattered andshakenfromhisordeal andneedstimetolick his wounds.Reluctant to continue running despite the power of those who hound him,he casts about for a weapon... and finds the characters conveniently at hand.Heuseswhat little time remains to hone his unwitting allies, pitting them againstfoesbothreal and imaginedbut all of his ownmanufacture.Howwill the charactersreact when they learn that this creature has orchestrated theirwoes?Whatwill happenwhen the pursuersfinally catch up to theirquarry?This isafast-pacedstorythatfeatures lotsofaction;trytoevoke amoodofexcitement andescalating tension.
-
-## PORTRAIT GALLERY
-
-Belowaresomebasictemplatesandroleplayingnotesforthevampires and mortalsthatpopulateCamarillastrongholds.Innocentbystanders,ghoulsfor cannonfodder,princes brieflyglimpsed inthe shadows—they'reall here.
-
-If theplayerswise upto the statistics of theseNarratorcharactersandstart metagaming(Well,weknowthisthugisgoingtobeCallous..),don'thesitateo doctorthesetemplatesasyouseefitWhosaysthatthisthugisntaWiyOberant little fellowwhojustwantstogetawayandreportohisboss?Occasionallythrowing the players a curve ball keeps them in the game and on their toes.
-
-However,noneof thesetemplateswillholdupunderanysortofextended use.These templates exist foruse as backdrops to themain action and as examples for creating more fully rounded characters.If a template starts showingupregularly,itsuptotheStorytellertobuildatruecharactersheet for thisperson—a cookie-cutter set of statistics justwon't do.
-
-## PLAYINGTOTYPE
-
-Likewise,thesecondneonateontheleftcouldjustaseasilybe the players.Don't forget toremind them of that as theprince sends her off to execution for a faux pas during court.Each and every encounter is a chance to deepen the roleplaying inyour chronicle. Don't let it slip by.
-
-The differencebetween a good storyand a great story is all in the details. It's casy to let Thug Number One become just a set of numbers so thatyoucanrollon to thenext encounter.Don't let that happen.Even ordinary thugs can be interesting peoplejust watch PulpFiction or Reservoir Dogs to see how.Every time one of your playerskills that thug sent by the prince,hekills an actual human being,with hopes and dreams just asvalid as his own.That's the essence of letting Humanity slip away and succumbing to theBeast.
-
-THERELENTLESSJUSTICAR
+Likewise, the secondneonateontheleftcouldjustaseasilybe the players.don't for get toremind the m of that as the prince sends her of f to execution for a faux pas during court.Each and every encounter is a chance to deepen the roleplaying inyour chronicle. don't let it slip by. The differencebetween a good storyand a great story is all in the details. It's casy to let Thug Number One become just a set of numbers so that you can rollon to the next encounter.don't let that happen.Even or dinary thugs can be interesting peoplejust watch Pulp Fiction or Reservoir do gs to see how.Every time one of you r playerskills that thug sent by the prince, hekills an actual human being, with hopes and dreams just asvalid as his own.That's the essence of letting Humanity slip away and succumbing to the Beast. the RELENTLESSJUSTICAR
 
 Clan:Malkavian
 
@@ -3784,41 +1187,33 @@ Demeanor:Perfectionist
 
 Generation:6th
 
-Physical Traits（16）:Athletic,Brawny,Quickx3,Resilient x3,Toughx2, Steadyx3,Wiryx3
+Physical Traits（16）:Athletic, Brawny, Quickx3, Resilient x3, Toughx2, Steadyx3, Wiryx3
 
-SocialTraits(18):Charismaticx3,Commanding x3,Dignifiedx3,Intimidating x6,Persuasivex3
+Social Traits(18):Charismaticx3, Commanding x3, Dignifiedx3, Intimidating x6, Persuasivex3
 
-MentalTraits(17):Attentive x3,Determined x6,Disciplinedx2,Knowledgeablex3,Observantx3
+Mental Traits(17):Attentive x3, Determined x6, Disciplinedx2, Knowledgeablex3, Observantx3
 
-Abilities:Athleticsx4,Brawlx3,Dodgex5,Firearmsx4,Intimidationx3,Law (Kindred）x5,Leadershipx3,Lore(Camarilla)x5,Lore(Sabbat)x4,Meleex 4,Politicsx4,Subterfugex2
+Abilities:Athleticsx4, Brawlx3, do dgex5, Firearmsx4, Intimidationx3, Law (Kindred）x5, Leadershipx3, Lore(Camarilla)x5, Lore(Sabbat)x4, Meleex 4, Politicsx4, Subterfugex2
 
-Disciplines:
+Disciplines: Dementation:Passion, the Haunting, Eyesof Chaos, Voiceof Madness, Total Insanity
 
-Dementation:Passion,TheHaunting,EyesofChaos,VoiceofMadness,Total Insanity
+Auspex:Heightened Senses, Aura Perception, pirits Touch, Telath Celerity:Alacrity, Swiftess, Rapidity, Legrit for titude:Endurance, Mettle, Resilience
 
-Auspex:HeightenedSenses,AuraPerception,piritsTouch,Telath Celerity:Alacrity,Swiftess,Rapidity,Legrit
-
-Fortitude:Endurance,Mettle,Resilience
-
-Obfuscate:CloakofShadows,UnseenPresence,Maskofa ThousandFaces， Vanishfrom theMind'sEye,CloaktheGathering
+Obfuscate:Cloakof Shadows, Unseen Presence, Maskofa Thousand Faces， Vanishfrom the Mind's Eye, Cloakthe Gathering
 
 Path:Humanity 2
 
-Virtues:Conscience2,SelfControl3,Courage2
+Virtues:Conscience2, Self Control3, Courage2
 
-Backgrounds:Contacts x5,Resources x4,Herdx2
+Backgrounds:Contacts x5, Resources x4, Herdx2
 
 Derangement: Sanguinary Animism
 
-Status (5): Acknowledged,Faultless,Feared,Just,Revered
+Status (5): Acknowledged, Faultless, Feared, Just, Revered
 
-Blood:30 (May spend 6/round)
+Blood:30 (May spend 6/round) will power:16
 
-Willpower:16
-
-Roleplaying Hints:You date back to the days of Rome.You have seen the birth of the Camarilla itselfThere is nothing a group of neonates can do that can impress you, surprise you,upset you or even slow you down.Your derangement is something you indulge away from work.When you are performingtheroleof justicar,Malkav'scursenevershows.Whenyouarrive inacity,itisforonlyonereasonsomethinghasgoneterribly,terriblywrong. Usewhatvertooluavetuhingsigtgainthyoliticalil or supernatural.Then leave as soon as you can.Nomatter howbad things are, theKindred should fear your arrival and look forward toyour departure.
-
-THE CAREFULARCHON
+Roleplaying Hints:You date back to the days of Rome.You have seen the birth of the Camarilla itself the re is not hing a group of neonates can do that can impress you, surprise you, upset you or even slow you do wn.you r derangement is something you indulge away from work.When you are performingtheroleof justicar, Malkav'scursenevershows.when you arrive inacity, itisforonlyonereasonsomethinghasgoneterribly, terriblywrong. Usewhatvertooluavetuhingsigtgainthyoliticalil or supernatural.the n leave as soon as you can.Nomatter how bad things are, the Kindred should fear you r arrival and look for ward toyour departure. THE CAREFULARCHON
 
 Clan:Toreador
 
@@ -3828,43 +1223,33 @@ Demeanor: Soldier
 
 Generation:9th
 
-PhysicalTraits (12）:Agilex3,Quick x3,Toughx3,Wiry x3
+Physical Traits (12）:Agilex3, Quick x3, Toughx3, Wiry x3
 
-<!-- image -->
+Social Traits （11):Charismaticx3, Commanding x 3, Diplomaticx2, Intimidatingx3
 
-Social Traits （11):Charismaticx3,Commanding x 3,Diplomaticx2, Intimidatingx3
+Mental Traits（13):Cleverx2, Discerning x3, Disciplinedx3, Insightfulx3, Observantx3
 
-MentalTraits（13):Cleverx2,Discerning x3,Disciplinedx3,Insightfulx3, Observantx3
+Abilities:Athleticsx3, Brawlx2, do dgex4, Drivex2Firearmsx4, Investigation x5, Law（Camarilla)x3, Leadershipx3, Lore（Camarilla)x4, Lore(Sabbat）x 4, Meleex2, Politicsx3, Securityx3, Stealthx4, Streetwisex4, Subterfugex4, Survivalx2
 
-Abilities:Athleticsx3,Brawlx2,Dodgex4,Drivex2Firearmsx4,Investigation x5,Law（Camarilla)x3,Leadershipx3,Lore（Camarilla)x4,Lore(Sabbat）x 4,Meleex2,Politicsx3,Securityx3,Stealthx4,Streetwisex4,Subterfugex4, Survivalx2
+Disciplines: Auspex:Heightened Senses, Aura Perception, Spirit's Touch
 
-Disciplines:
+Celerit:Aitywifssidit for titude:Endurance, Mettle, Resilience
 
-Auspex:HeightenedSenses,AuraPerception,Spirit'sTouch
+Obfuscate:Cloakof Shadows, Unseen Presence
 
-Celerit:Aitywifssidit
-
-Fortitude:Endurance,Mettle,Resilience
-
-Obfuscate:CloakofShadows,UnseenPresence
-
-Presence:Awe,DreadGaze,Entrancement
+Presence:Awe, Dread Gaze, Entrancement
 
 Path:Humanity4
 
-Virtues:Conscience3,Self Control4,Courage5
+Virtues:Conscience3, Self Control4, Courage5
 
-Backgrounds:Contacts x3,Resourcesx2
+Backgrounds:Contacts x3, Resourcesx2
 
-Status(4):Acknowledged,Esteemed,Honorable,Just
+Status(4):Acknowledged, Esteemed, Honorable, Just
 
-Blood: 13 (May spend 1/round).
+Blood: 13 (May spend 1/round). will power:10
 
-Willpower:10
-
-RoleplayingHints:You arehereto discovera secret.Somewhere,somehow, the justicarhaslearnedthatsomethingiswronginthistown,andyouarehere tofigure outwhat.Never announce yourself as an archonright away.Doingso wastes oneof thebestweaponsinyourarsenal.Useall thetoolsinyourbagof tricks—small talk,glamour,violence,stealthtodiscover thetruth first. You can use all of themwell,but only whenyou need to.Youcan even pose as aneonateifyou haveto.Afteryou'vefoundoutwhatthecity'sdirty secret is,announceyourselfandwatchallthepettyplayersrunforcover as they realize howmuch trouble they're truly in.
-
-THEWEARYANARCH
+Roleplaying Hints:You are hereto discovera secret.Somewhere, somehow, the justicarhaslearnedthatsomethingiswronginthistown, and you are here tofigure outwhat.Never announce you rself as an archonright away.do ingso was tes oneof the bestweaponsinyourarsenal.Useall the toolsinyourbagof tricks—small talk, glamour, violence, stealthtodiscover the truth first. You can use all of the mwell, but only when you need to.you can even pose as aneonateifyou have to.Afteryou'vefoundoutwhatthecity'sdirty secret is, announceyourselfandwatchallthepettyplayersrunforcover as they realize how much trouble they're truly in. the WEARYANARCH
 
 Clan:Brujah
 
@@ -3874,43 +1259,27 @@ Nature:Rebel
 
 Generation:13th
 
-MentalTraits(9）:Cunning x3,Detrmined x3,Patientx3,Violent(N)
+Mental Traits(9）:Cunning x3, Detrmined x3, Patientx3, Violent(N)
 
-Physical Traits (10):Brawny x2,Brutal x2,Quick x2,Tough x4 Social Traits(8): Commanding x 2,Intimidating x4,Magnetic x 2
+Physical Traits (10):Brawny x2, Brutal x2, Quick x2, Tough x4 Social Traits(8): Commanding x 2, Intimidating x4, Magnetic x 2
 
-Abilities:Brawlx3,Dodge x3,Drive x3,Firearms x3,Intimidation x2, Leadership x2,Lore（Anarch),Melee x2,Security x2,Stealth x2, Streetwisex4
+Abilities:Brawlx3, do dge x3, Drive x3, Firearms x3, Intimidation x2, Leadership x2, Lore（Anarch), Melee x2, Security x2, Stealth x2, Streetwisex4
 
-CeleritAlacrity,wifess,Raiit
+Celerit Alacrity, wifess, Raiit
 
-Potence:Prowess,Might,Vigor
+Potence:Prowess, Might, Vigor
 
-Disciplines:
+Disciplines: Presence:Awe, Dread Gaze. Path:Humanity3
 
-Presence:Awe,Dread Gaze.
+Virtues:Conscience3, Self Control3, Courage4
 
-<!-- image -->
+Backgrounds:Contacts x3, Influence:Police x1, Streetx3, Underworldx1, Resourcesx2
 
-Path:Humanity3
+Status (0): Blood:10 (May spend 1/round) will power:6
 
-Virtues:Conscience3,SelfControl3,Courage4
+Roleplaying Hints:You'vebeen at this a long time for an anarch, nearly20 years.You've seena lotof dreams die.You'vestillgottheguts, the muscleand the cojonestomake the massessee the truth and fight the system—but each nightyou have toworka littlehardertogetup and do it all over again.That's all right.You do n'tmind.You were strong enough to break away from the Camarilla 20years ago.You're strong enough to stick to you r guns now.You justknowenoughtobecareful, likeanoldwearyalleycat, readytorunandstart all over againwhen the dream dies. ## the COMMITTEDANARCH
 
-Backgrounds:Contacts x3,Influence:Police x1,Streetx3,Underworldx1,
-
-Resourcesx2
-
-Status (0):
-
-Blood:10 (May spend 1/round)
-
-Willpower:6
-
-RoleplayingHints:You'vebeen at this a long time foran anarch,nearly20 years.You've seena lotof dreams die.You'vestillgottheguts,themuscleand thecojonestomake themassessee thetruth andfight thesystem—buteach nightyou havetoworka littlehardertogetup anddoit allover again.That's all right.You don'tmind.You were strong enough to break away from the Camarilla 20years ago.You're strong enough to stick to your guns now.You justknowenoughtobecareful,likeanoldwearyalleycat,readytorunandstart all over againwhen the dream dies.
-
-## THECOMMITTEDANARCH
-
-RoleplayingHints:You didn't let anyone back you down or tell you what to dowhenyou werealive.Damned if youre going to letdeath stopyouYouare a zealot for the anarchcause—you've seen the rotting shellof theCamarilla, andyou knowin yourheart that ithastocome down.You'renotquite sure what beinga vampire is all about yetthings like"immortality"still haven't sunkin.After20yearsyoulleitherbejustliketheWearyAnarch,oryoule ash on thewind.Butrightnow,you livefor themomentand thecause.Give youreverywakingmomenttomakingsuretheAnarchmovementrollsinto the millennium like a freight train.There's nothing sweeter than freedom. Never let it go.
-
-Clan:Brujah
+Roleplaying Hints:You did n't let anyone back you do wn or tell you what to do when you were alive.Damned if you re going to letdeath stopyou you are a zealot for the anarchcause—you've seen the rotting shellof the Camarilla, and you knowin you rheart that ithastocome do wn.You'renotquite sure what beinga vampire is all about yetthings like"immortality"still haven't sunkin.After20yearsyoulleitherbejustlikethe Weary Anarch, or you le ash on the wind.but rightnow, you livefor the momentand the cause.Give you reverywakingmomenttomakingsurethe Anarchmovementrollsinto the millennium like a freight train.the re's not hing sweeter than freedom. Never let it go. Clan:Brujah
 
 Nature:Rebel
 
@@ -3918,17 +1287,15 @@ Demeanor: Visionary
 
 Generation:13th
 
-PhysicalTraits（10):Brawnyx3,Quickx4,Toughx3
+Physical Traits（10):Brawnyx3, Quickx4, Toughx3
 
-SocialTraits(9):Expressivex3,Magneticx3,Persuasive x3
+Social Traits(9):Expressivex3, Magneticx3, Persuasive x3
 
-MentalTraits(8):Cunningx3,Dedicatedx3,Determinedx2,Violent(N)
+Mental Traits(8):Cunningx3, Dedicatedx3, Determinedx2, Violent(N)
 
-Abilities:Brawlx2,Firearmsx2,Leadershipx3
+Abilities:Brawlx2, Firearmsx2, Leadershipx3
 
-Disciplines:
-
-Celerity:Alacrity,Swiftness
+Disciplines: Celerity:Alacrity, Swiftness
 
 Potence:Prowess
 
@@ -3936,17 +1303,13 @@ Presence:Awe
 
 Path:Humanity4
 
-Virtues:Conscience 4,SelfControl3,Courage4
+Virtues:Conscience 4, Self Control3, Courage4
 
 Backgrounds:Influence:Street x2
 
-Status (0):
+Status (0): Blood:10 (May spend 1/round) will power:6
 
-Blood:10 (May spend 1/round)
-
-Willpower:6
-
-## THEINNOCENTNEONATE
+## the INNOCENTNEONATE
 
 Clan:Toreador
 
@@ -3956,35 +1319,29 @@ Demeanor:Conformist
 
 Generation:13th
 
-Physical Traits(8）:Lithex3,Nimblex2,Quickx3,Docile(N)
+Physical Traits(8）:Lithex3, Nimblex2, Quickx3, do cile(N)
 
-SocialTraits（10）:Expressivex3,Gorgeous,Ingratiatingx3,Persuasivex3
+Social Traits（10）:Expressivex3, Gorgeous, Ingratiatingx3, Persuasivex3
 
-MentalTraits(9):Cleverx3,Creativex3,Observantx3
+Mental Traits(9):Cleverx3, Creativex3, Observantx3
 
-Abilities:Dodgex2,Performance,Subterfuge
+Abilities:do dgex2, Performance, Subterfuge
 
-Disciplines:
-
-Auspex:Heightened Senses,Aura Perception
+Disciplines: Auspex:Heightened Senses, Aura Perception
 
 Presence:Awe
 
 Path:Humanity4
 
-Virtues:Conscience5,SelfControl 2,Courage1
+Virtues:Conscience5, Self Control 2, Courage1
 
-Backgrounds:Herd,Influence:High Society,Resources
+Backgrounds:Herd, Influence:High Society, Resources
 
 Status(1):Acknowledged
 
-Blood: 10 (May spend 1/round)
+Blood: 10 (May spend 1/round) will power:3
 
-Willpower:3
-
-RoleplayingHints:Whyletdeathstoptheparty?Youwere a prettycollegekid wholikedrunningwiththewrongcrowd.Well,you'rereallyrunningwiththe wrongcrowdnow,andyoureallylikeit.Traditions?Whatever-all you haveto doissuckuptotheelderslikedearoldDaddy,andeverythingwillbeallright, right?You havea lottolearnbeforeyou canbeconsideredcompetent atbeing Kindred,butyour siredummedalltherulesintoyourheadbeforeshereleased you.Allyouhavetodoisenjoyyourself andstayoutoftroubleandeverything will bejustfine.That'swhatyoukeep tellingyourselfanyway...
-
-## THEBITTERANCILLA
+Roleplaying Hints:why letdeathstoptheparty?you were a prettycollegekid who likedrunningwiththewrongcrowd.Well, you'rereallyrunningwiththe wrongcrowdnow, and you reallylikeit.Traditions?what ever-all you have to do is suckuptotheelderslikedearold Daddy, and everythingwillbeallright, right?You have a lottolearnbeforeyou can beconsideredcompetent atbeing Kindred, but you r siredummedalltherulesintoyourheadbeforeshereleased you.all you have todoisenjoyyourself and stayoutoftroubleandeverything will bejustfine.That'swhatyoukeep tellingyourselfanyway... ## the BITTERANCILLA
 
 Clan:Tremere
 
@@ -3994,43 +1351,33 @@ Demeanor:Pedagogue
 
 Generation:10th
 
-Physical Traits(10):Brutal x3,Nimblex3,Resilient x3,Tireless
+Physical Traits(10):Brutal x3, Nimblex3, Resilient x3, Tireless
 
-SocialTraits (11):Charming x3,Dignified x3,Ingratiating x3,Witty x2
+Social Traits (11):Charming x3, Dignified x3, Ingratiating x3, Witty x2
 
-Mental Traits (12): Cunning x3,Determined x 2,Knowledgeablex3, Rationalx3
+Mental Traits (12): Cunning x3, Determined x 2, Knowledgeablex3, Rationalx3
 
-Abilities:Awareness x3,Intimidationx3,Law,Lore（Camarilla)x2,Occult x 3,Politicsx2,Stealthx2,Subterfugex2
+Abilities:Awareness x3, Intimidationx3, Law, Lore（Camarilla)x2, Occult x 3, Politicsx2, Stealthx2, Subterfugex2
 
-Disciplines:
+Disciplines: Auspex:Heightened Senses, Aura Perception do minate:Command, Mesmerism
 
-Auspex:Heightened Senses,AuraPerception
-
-Dominate:Command,Mesmerism
-
-Thaumaturgy:Pathof Blood:A Taste forBlood,Blood Rage
+Thaumaturgy:Pathof Blood:A Taste for Blood, Blood Rage
 
 The Lure of Flames:Handof Flame
 
-Rituals:CommunicatewithKindredSire,DeflectionofWoodenDoom,Principal Focus ofVitaeInfusion
-
-<!-- image -->
+Rituals:Communicatewith Kindred Sire, Deflectionof Wooden do om, Principal Focus of Vitae Infusion
 
 Path:Humanity3
 
-Virtues:Conscience3,SelfControl 2,Courage4
+Virtues:Conscience3, Self Control 2, Courage4
 
-Backgrounds:Influence: Occult x3,Mentor x3,Resources x3
+Backgrounds:Influence: Occult x3, Mentor x3, Resources x3
 
-Status(2):Acknowledged,Praised
+Status(2):Acknowledged, Praised
 
-Blood:10(May spend 1/round)
+Blood:10(May spend 1/round) will power:5
 
-Willpower:5
-
-RoleplayingHints:Youvefigured out the trapyouarein,andyou don't likeit atall.Yourecompetent,andyouareutterlydevotedtotheCamarilla andyour chantrynotnecesarilynthatrder）Butbecauseofyoureneration,youwill neverhold any meaningful position of power.You take outyourrage on the neonates and apprentices under your charge—while youmay say thatyou're merely teachingthemhowthingsworkintheCamarilla,inrealityyou'rejust making yourself feel betterbymaking themfeel humiliated andworthless.And best of all, the prince still heapsmeaningless praise upon you foryour service to thewonderful Camarilla.Perhaps it might be worth looking into a way out....
-
-THEFRIGHTENEDELDER
+Roleplaying Hints:you vefigured out the trapyouarein, and you don't likeit atall.you recompetent, and you are utterlydevotedtothe Camarilla and you r chantrynotnecesarilynthatrder）but becauseofyoureneration, you will neverhold any meaningful position of power.You take outyourrage on the neonates and apprentices under you r charge—while you may say that you're merely teachingthemhowthingsworkinthe Camarilla, inrealityyou'rejust making you rself feel betterbymaking the mfeel humiliated and worthless.And best of all, the prince still heapsmeaningless praise upon you for you r service to the wonderful Camarilla.Perhaps it might be worth looking into a way out.... the FRIGHTENEDELDER
 
 Clan:Ventrue
 
@@ -4040,258 +1387,198 @@ Demeanor:Autocrat
 
 Generation:8th
 
-Physical Traits(12):Enduring x3,Quick x3,Tenacious x3,Tough x3 SocialTraits(14):Charmingx3,Commandingx2,Dignifiedx3,Intimidating x3,Magneticx3
+Physical Traits(12):Enduring x3, Quick x3, Tenacious x3, Tough x3 Social Traits(14):Charmingx3, Commandingx2, Dignifiedx3, Intimidating x3, Magneticx3
 
-MentalTraits(13）:Alertx3,Cunning x3,Disciplined x3,Knowledgeablex3, Reflective
+Mental Traits(13）:Alertx3, Cunning x3, Disciplined x3, Knowledgeablex3, Reflective
 
-Abilities:Dodgex2,Firearms x2,Intimidation x3,Lawx3,Lore(Camarilla) x3,Politicsx4,Subterfugex3
+Abilities:do dgex2, Firearms x2, Intimidation x3, Lawx3, Lore(Camarilla) x3, Politicsx4, Subterfugex3
 
-Disciplines:
+Disciplines: do minate:Command, Mesmerism, for getful Mind, Conditioning for titude:Endurance, Mettle
 
-Dominate:Command,Mesmerism,Forgetful Mind,Conditioning
-
-Fortitude:Endurance,Mettle
-
-Presence:Awe,Dread Gaze,Entrancement,Summon
+Presence:Awe, Dread Gaze, Entrancement, Summon
 
 Path:Humanity3
 
-Virtues:Conscience3,SelfControl 4,Courage2
+Virtues:Conscience3, Self Control 4, Courage2
 
-Backgrounds: ：Influence:Finance x 4,Bureaucracy x3,Legal x 3,
+Backgrounds: ：Influence:Finance x 4, Bureaucracy x3, Legal x 3, Resourcesx4
 
-Resourcesx4
+Status(3):Acknowledged, Adored, Well-Known
 
-Status(3):Acknowledged,Adored,Well-Known
+Blood:15(May spend 3/round) will power:10
 
-Blood:15(May spend 3/round)
-
-Willpower:10
-
-Roleplaying Hints:You had to hide a lot of bodies and do a lotof dangerous things inordertogettothetop.Youmadeit,butnowyourealize thatyoure just onthebottom ofawholenewtotempole.Youknowthetruth-aboutthe Antediluvians and theCamarilla and theSabbat andafewthingsthattherest knownothingabout.Never showweakness.Nevershowfear.Inside,you are screamingnterror,andifanyoneeverfindsout,youwill trulyhavesomething to scream about.Every day is adancebetween control anddespair.You dare notmiss abeatlest you fall into the abyss.
-
-Nature:Masochist
+Roleplaying Hints:You had to hide a lot of bodies and do a lotof dangerous things inordertogettothetop.you madeit, but nowyourealize that you re just onthebottom of awholenewtotempole.you knowthetruth-aboutthe Antediluvians and the Camarilla and the Sabbat and afewthingsthattherest knownothingabout.Never showweakness.Nevershowfear.Inside, you are screamingnterror, and ifanyoneeverfindsout, you will trulyhavesomething to scream about.Every day is adancebetween control and despair.You dare not miss abeatlest you fall into the abyss. Nature:Masochist
 
 Demeanor:Fanatic
 
 Physical Traits(3):Enduringx3
 
-SocialTraits(5):Charmingx2,Ingratiatingx3,Obnoxious (N)
+Social Traits(5):Charmingx2, Ingratiatingx3, Obnoxious (N)
 
-MentalTraits(8):Cunningx2,Knowledgeablex3,Patient x3
+Mental Traits(8):Cunningx2, Knowledgeablex3, Patient x3
 
-Abilities:Computer,Drive,Firearms x 2,Investigation,Knowledge (Thanatology)x2
+Abilities:Computer, Drive, Firearms x 2, Investigation, Knowledge (than atology)x2
 
-Disciplines:
-
-Fortitude:Endurance
+Disciplines: for titude:Endurance
 
 Potence:Prowess
 
 Path:Humanity 3
 
-Virtues:Conscience2,Self Control 4,Courage4
+Virtues:Conscience2, Self Control 4, Courage4
 
-Backgrounds:Influence:Health x2,Mentor x2
+Backgrounds:Influence:Health x2, Mentor x2
 
-Blood:3
+Blood:3 will power:2
 
-Willpower:2
-
-RoleplayingHints:Your domitor is your world.You would do anything for him.Anything.You have taken his blood and abusefor so long thatyou've growntoenjoythetasteouarealwaysbyhisside,waitingonhim,ulfilling his every whim.You take one night at a time,one drop of blood at a time. Anythingelseis too much to think about,toomuch to ask.Justwait for the nextfixof blood,thenextcommand togiveyour lifemeaning.
-
-Nature: Conformist
+Roleplaying Hints:you r do mitor is you r world.You would do anything for him.Anything.You have taken his blood and abusefor so long that you've growntoenjoythetasteouarealwaysbyhisside, waitingonhim, ulfilling his every whim.You take one night at a time, one drop of blood at a time. Anythingelseis too much to think about, toomuch to ask.Justwait for the nextfixof blood, the nextcommand togiveyour lifemeaning. Nature: Conformist
 
 Demeanor:Bravo
 
-PhysicalTraits(10):Brawny x3,Brutal x 2,Quick x2,Tough x 3
+Physical Traits(10):Brawny x3, Brutal x 2, Quick x2, Tough x 3
 
-Social Traits (3):Intimidating,Callous (N)
+Social Traits (3):Intimidating, Callous (N)
 
-Mental Traits (5):Determined x3,Disciplinedx2,Predictable(N),Violent (N)
+Mental Traits (5):Determined x3, Disciplinedx2, Predictable(N), Violent (N)
 
-Abilities:Brawlx3,Dodgex2,Firearms x3,Intimidation
+Abilities:Brawlx3, do dgex2, Firearms x3, Intimidation
 
-Disciplines:
-
-Potence:Prowess
+Disciplines: Potence:Prowess
 
 Path:Humanity3
 
-Virtues:Conscience2,Self Control 4,Courage4
+Virtues:Conscience2, Self Control 4, Courage4
 
-Backgrounds:Influence:Street,Mentor
+Backgrounds:Influence:Street, Mentor
 
-Blood:3
+Blood:3 will power:2
 
-Willpower:2
-
-Roleplaying Hints:You were ina gang once.You used drugs once.Nowyou're in thebestgang andyouthebestdrugof all.Somaybeyoudon'tgoout andparty alotanymore,itoesntmatter.ourestronger,tougherandbetterthanyouvr werebefore,andeveryoneknowsthatyou areasbadastheycome.Well,they wouldiftheyever sawyou.Butitdoesn'tmatter.Youaretheelite,theinvincible, the best you willever be.After all, she told you so.
-
-<!-- image -->
-
-THE REALISTIC GHOUL
+Roleplaying Hints:You were ina gang once.You used drugs once.Nowyou're in the bestgang and you the bestdrugof all.Somaybeyoudon'tgoout and party alotanymore, itoesntmatter.ourestronger, tougherandbetterthanyouvr were before, and everyoneknowsthatyou are asbadastheycome.Well, they would iftheyever sawyou.but itdoesn'tmatter.you are theelite, the invincible, the best you will ever be.After all, she told you so. THE REALISTIC GHOUL
 
 Nature:Survivor
 
 Demeanor:Conformist
 
-PhysicalTraits(3):Enduring x3
+Physical Traits(3):Enduring x3
 
-Social Traits(7): Ingratiating x3,Observant x2,Rational x2
+Social Traits(7): Ingratiating x3, Observant x2, Rational x2
 
-MentalTraits(5):Knowledgeablex3,Rational,Shrewd
+Mental Traits(5):Knowledgeablex3, Rational, Shrewd
 
-Abilities:Computer,Drivex2,Firearms x3,Inwestigationx3,Knowledge
+Abilities:Computer, Drivex2, Firearms x3, Inwestigationx3, Knowledge
 
-(Thanatology)x3,Lore(Kindred)x 2
+(than atology)x3, Lore(Kindred)x 2
 
-Disciplines:
-
-Fortitude:Endurance
+Disciplines: for titude:Endurance
 
 Potence:Prowess
 
 Path:Humanity 3
 
-Virtues:Conscience2,SelfControl 4,Courage4
+Virtues:Conscience2, Self Control 4, Courage4
 
-Backgrounds:Influence: Health x 1,Street x 1,Mentor x3
+Backgrounds:Influence: Health x 1, Street x 1, Mentor x3
 
-Blood:3
+Blood:3 will power:3
 
-Willpower:3
-
-Roleplaying Hints:You've done this for a while.The blood that was your salvationandglorysnowaroutinepartofyourexistencecentralonebu routinenonetheles.Youdon'tgetexcitedabout it anymore.You'vestoodbyyour domitorthroughalot,andthoughyouhavesufferedterribly,you'vesomehow managedtogetthroughit all inonepiece.Yourdomitorkeepsyouaround outof habit andmaybebecausehehopesyourluckwillruboffonhim.Luckneverhad anythingtodowithit,though.Itwasthehungerforthebloodandthewill tolive. That was all.You don't understand how theKindred can underestimate that delicious powerflowing throughtheirveins.Maybesomedayyou'llhavethewill to break free and show them.Someday.
-
-THE GOOD Cop
+Roleplaying Hints:You've do ne this for a while.The blood that was you r salvationandglorysnowaroutinepartofyourexistencecentralonebu routinenonetheles.you do n'tgetexcitedabout it anymore.You'vestoodbyyour do mitorthroughalot, and thoughyouhavesufferedterribly, you'vesomehow managedtogetthroughit all inonepiece.you rdomitorkeepsyouaround outof habit and maybebecausehehopesyourluckwillruboffonhim.Luckneverhad anythingtodowithit, though.Itwasthehungerforthebloodandthewill tolive. That was all.You don't understand how the Kindred can underestimate that delicious powerflowing throughtheirveins.Maybesomedayyou'llhavethewill to break free and show the m.Someday. THE GOOD Cop
 
 Nature:Judge
 
 Demeanor: Conformist
 
-Physical Traits (7):Brawny x 2,Quick x 2, Steady,Tough x 2
+Physical Traits (7):Brawny x 2, Quick x 2, Steady, Tough x 2
 
 Social Traits (5): Dignified x 2, Intimidating x 2, Persuasive
 
-Mental Traits (3):Observantx2,Patient
+Mental Traits (3):Observantx2, Patient
 
-Abilities:Brawlx2,Dodgex2,Firearmsx2,Lawx2
+Abilities:Brawlx2, do dgex2, Firearmsx2, Lawx2
 
 Path:Humanity4
 
-Virtues:Conscience4,Self Control 4,Courage4
+Virtues:Conscience4, Self Control 4, Courage4
 
-Backgrounds:Influence:Police x2,Resources x 2
+Backgrounds:Influence:Police x2, Resources x 2 will power:3
 
-Willpower:3
+Roleplaying Hints:Toprotect and serve— you believe in that.The system's corruptasellanditdeeasytolethisneideut seonehastwath out for hcentsthat mneullyouaveisbadeaguan the knowledgethatyouareright.Becarefuloutthere do ntbeafraidtcall for backupi thingslookbad Hereshopingyouneveindout the ruthabout the world you serve. ## THE COCKYTHUG
 
-Roleplaying Hints:Toprotect and serve— you believe in that.The system's corruptasellanditdeeasytolethisneideut seonehastwath out forhcentsthat mneullyouaveisbadeaguan theknowledgethatyouareright.BecarefuloutthereDontbeafraidtcall forbackupi thingslookbadHereshopingyouneveindout theruthabout the world you serve.
-
-## THE COCKYTHUG
-
-RoleplayingHints:Hey,you'renotabadguy.Youjustwant something,and you'regoingtogetit,right？Heresyourgun,heresyourknife,andnobody needs to get hurt if you pay attention.You're cool.You have it all under control.Maybe you're as funny, as witty and as cool as you think you are. Probably not. Who's going to argue, hey?
-
-Nature:Bravo
+Roleplaying Hints:Hey, you'renotabadguy.you justwant something, and you'regoingtogetit, right？Heresyourgun, heresyourknife, and nobody needs to get hurt if you pay attention.You're cool.You have it all under control.Maybe you're as funny, as witty and as cool as you think you are. Probably not. Who's going to argue, hey? Nature:Bravo
 
 Demeanor:Bravo
 
-Physical Traits（10）:Brawny x2,Brutalx3,Quickx2,Toughx2
+Physical Traits（10）:Brawny x2, Brutalx3, Quickx2, Toughx2
 
-SocialTraits(5):Intimidatingx5,Callous (N)
+Social Traits(5):Intimidatingx5, Callous (N)
 
-Mental Traits(3):Determinedx2,Reflective,Violent(N)
+Mental Traits(3):Determinedx2, Reflective, Violent(N)
 
-Abilities:Brawlx2,Dodgex2,Firearms x2,Streetwisex2
+Abilities:Brawlx2, do dgex2, Firearms x2, Streetwisex2
 
 Path:Humanity3
 
-Virtues:Conscience3,SelfControl3,Courage4
+Virtues:Conscience3, Self Control3, Courage4
 
-Backgrounds:Influence:Underworld x1,Resources x1
+Backgrounds:Influence:Underworld x1, Resources x1 will power:2
 
-Willpower:2
-
-## THENOSYREpORTER
+## the NOSYREpORTER
 
 Nature:Competitor
 
 Demeanor:Visionary
 
-Physical Traits(3):Quick,Steady,Tenacious
+Physical Traits(3):Quick, Steady, Tenacious
 
-Social Traits（9）:Charismaticx3,Charmingx2,Dignifiedx2,Persuasivex2, Callous (N)
+Social Traits（9）:Charismaticx3, Charmingx2, Dignifiedx2, Persuasivex2, Callous (N)
 
-MentalTraits(5）:Dedicated,Determined,Observantx3,Shortsighted(N)
+Mental Traits(5）:Dedicated, Determined, Observantx3, Shortsighted(N)
 
-Abilities:Computer,Dodge,Inwestigationx3
+Abilities:Computer, do dge, Inwestigationx3
 
 Path:Humanity 4
 
-Virtues:Conscience3,SelfControl 4,Courag4
+Virtues:Conscience3, Self Control 4, Courag4
 
-Backgrounds:Influence:Media x 2,Resources x 2
+Backgrounds:Influence:Media x 2, Resources x 2 will power:3
 
-Willpower:3
-
-Roleplaying Hints: You're on the front line of the ratings war.Every night you andyour crewhave tofindthe awful tragedyof thehour-you'reontheprowl fortheeleveno'clock homicide,accidentorfiretomakethosecouchpotatoes tune in.You have the instincts of a bloodhound when it comes to hunting down these nightly terrors, andaheartmade of stone when you report them. Pack up the cameras and keep moving: there's another knifing across town. Maybesomedayyoullfindthatbigstorytheconspiracythatmakesitallmake sense.Yeah,right.Hurry up,we're live.
-
-## THE HAPLESS BYSTANDER
+Roleplaying Hints: You're on the front line of the ratings war.Every night you and you r crewhave tofindthe awful tragedyof the hour-you'reontheprowl for the eleveno'clock homicide, accidentorfiretomakethosecouchpotatoes tune in.You have the instincts of a bloodhound when it comes to hunting do wn the se nightly terrors, and aheartmade of stone when you report the m. Pack up the cameras and keep moving: the re's another knifing across town. Maybesomedayyoullfindthatbigstorytheconspiracythatmakesitallmake sense.Yeah, right.Hurry up, we're live. ## THE HAPLESS BYSTANDER
 
 Nature: Survivor
 
 Demeanor: Conformist
 
-Physical Traits (5）:Energetic x 2,Quick x 2,Tough
+Physical Traits (5）:Energetic x 2, Quick x 2, Tough
 
-Social Traits(6):Friendly x 2,Genial x2,Ingratiating x 2,Naive (N)
+Social Traits(6):Friendly x 2, Genial x2, Ingratiating x 2, Naive (N)
 
-MentalTraits（5）:Observant x2,Patient,Rational
+Mental Traits（5）:Observant x2, Patient, Rational
 
-Abilities:Braw,Computer,ode,riveFinancertreeti
+Abilities:Braw, Computer, ode, rive Financertreeti
 
 Path:Humanity 4
 
-## FerSlorytellers
+## Fer Slorytellers
 
-<!-- image -->
+Virtues:Conscience 4, Self Control 5, Courage3
 
-Virtues:Conscience 4,Self Control 5,Courage3
+Backgrounds:Resources x 2 will power:3
 
-Backgrounds:Resources x 2
-
-Willpower:3
-
-Roleplaying Hints: You didn't see anything.You don't know anything.Why is he askingyouYouwere justminding your ownbusiness,doingwhatyou do everydaygetbythingecial,andoudineanyhingkayoujut wanttogetyour paycheck,goome,watchVandgotobed.Youdon'twant any trouble,okay?
-
-## THEFRIGHTENED CHILD:
-
-Nature: Child
+Roleplaying Hints: You did n't see anything.You don't know anything.Why is he askingyou you were justminding you r ownbusiness, do ingwhatyou do everydaygetbythingecial, and oudineanyhingkayoujut wanttogetyour paycheck, goome, watch Vandgotobed.you do n'twant any trouble, okay? ## the FRIGHTENED CHILD: Nature: Child
 
 Demeanor: Child
 
 Physical Traits (3): Agile, Quick, Resilient, Puny (N)
 
-Social Traits(3):Friendly,Genial,Ingratiating
+Social Traits(3):Friendly, Genial, Ingratiating
 
-Mental Traits(3):Attentive,Clever,Creative
+Mental Traits(3):Attentive, Clever, Creative
 
 Abilities:Awarenessx3
 
 Path:Humanity 5
 
-Virtues:Conscience5,SelfControl 2,Courage3
+Virtues:Conscience5, Self Control 2, Courage3
 
-Backgrounds:Mentorx2
+Backgrounds:Mentorx2 will power:0
 
-Willpower:0
-
-RoleplayingHints:YourelostYourdaddyrushedoffawhileago,andyou'realone. Maybe the funny man chased him away—the one that's standing in a corner, lookingat you all suprised.Maybeheslost tooIfyougo andaskhimnicely,he mightbe ableto tell youwhereyourdaddywent orat least takeyou home.Mind yourmannersnow,likemommy taughtyou, andeverythingwillbe justfine.
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
+Roleplaying Hints:you relost you rdaddyrushedoffawhileago, and you'realone. Maybe the funny man chased him away—the one that's standing in a corner, lookingat you all suprised.Maybeheslost too Ifyougo and askhimnicely, he mightbe ableto tell you where you rdaddywent or at least takeyou home.Mind you rmannersnow, likemommy taughtyou, and everythingwillbe justfine.

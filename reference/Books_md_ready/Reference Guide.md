@@ -1,6 +1,6 @@
 ## VAMPIRE THE MASQUERADE DIRECTORY
 
-Revised Edition - Mind's Eye Theatre
+Revised Edition - Mind's Eye the atre
 
 Sects
 
@@ -16,21 +16,13 @@ Night
 
 Title
 
-&amp;
-
-The the
-
-of
+&amp; The the of
 
 Laws
 
-Laws of
+Laws of the
 
-the
-
-Clanbook:
-
-Laws of
+Clanbook: Laws of
 
 Independents
 
@@ -40,11 +32,7 @@ Guide
 
 Anarch
 
-Night:
-
-Night:
-
-Sabbat
+Night: Night: Sabbat
 
 Guide
 
@@ -58,15 +46,9 @@ Number
 
 Clan
 
-&amp;
+&amp; Gangrel, Laws the
 
-Gangrel,
-
-Laws the
-
-Laws of
-
-the
+Laws of the
 
 Laws of
 
@@ -76,15 +58,9 @@ Page
 
 Revised
 
-Ed.
+Ed. of the
 
-of the
-
-Night:
-
-Night:
-
-Night
+Night: Night: Night
 
 Sabbat
 
@@ -92,21 +68,11 @@ Storyteller the
 
 Sabbat
 
-Night:
+Night: Laws of the
 
-Laws of
+Clanbook: Laws the of
 
-the
-
-Clanbook:
-
-Laws the
-
-of
-
-Night:
-
-Sabbat
+Night: Sabbat
 
 Laws
 
@@ -118,23 +84,15 @@ Guide
 
 Night
 
-Guide of
+Guide of the of
 
-the of
-
-Set,
+Set, Laws
 
 Laws
 
-Laws
+Laws of the
 
-Laws of
-
-the
-
-Laws of
-
-the
+Laws of the
 
 Laws of
 
@@ -144,53 +102,29 @@ Laws of
 
 Laws
 
-Laws the
-
-the the
-
-of of
-
-the the
+Laws the the the of of the the
 
 Night
 
 Revised
 
-Ed.
+Ed. of the
 
-of the
+Night of the of the
 
-Night of
+Night: Sabbat
 
-the of
+Night: Camarilla
 
-the
+Laws of the
 
-Night:
+Night: Sabbat
 
-Sabbat
-
-Night:
-
-Camarilla
-
-Laws of
-
-the
-
-Night:
-
-Sabbat
-
-Night:
-
-Sabbat
+Night: Sabbat
 
 Faith
 
-Faith of
-
-the
+Faith of the
 
 Faith or
 
@@ -252,35 +186,21 @@ Guide
 
 Guide
 
-&amp;
+&amp; Fire
 
-Fire
-
-&amp;
-
-Fire
+&amp; Fire
 
 Night
 
-&amp;
-
-Fire
+&amp; Fire
 
 ## Revenant Bloodlines
 
 Title
 
-Night:
+Night: Night: Night: Page
 
-Night:
-
-Night:
-
-Page
-
-&amp;
-
-Sabbat
+&amp; Sabbat
 
 Sabbat
 
@@ -370,25 +290,17 @@ Laws
 
 Laws of
 
-Laws of
-
-the
+Laws of the
 
 Laws of
 
-Laws of
-
-the
+Laws of the
 
 Page
 
-&amp;
+&amp; Title
 
-Title
-
-Laws the
-
-of
+Laws the of
 
 Faith the
 
@@ -396,11 +308,7 @@ Number
 
 Night
 
-&amp;
-
-Night:
-
-of
+&amp; Night: of
 
 Title
 
@@ -408,37 +316,23 @@ Fire
 
 Sabbat
 
-&amp;
-
-Guide
+&amp; Guide
 
 Page
 
 Laws the
 
-Number of
+Number of the
 
-the
+Night: Sabbat
 
-Night:
+Night: Storyteller
 
-Sabbat
+Laws the of the
 
-Night:
+Night: Sabbat
 
-Storyteller
-
-Laws the
-
-of the
-
-Night:
-
-Sabbat
-
-Night:
-
-Laws
+Night: Laws
 
 Laws
 
@@ -460,51 +354,27 @@ Storyteller of
 
 Guide
 
-Night:
-
-the
+Night: the
 
 Sabbat
 
-Laws of
+Laws of the
 
-the
+Night: Sabbat
 
-Night:
+Laws the of
 
-Sabbat
+Night: Sabbat
 
-Laws the
+Laws of the of the
 
-of
+Night: Clanbook: Laws
 
-Night:
-
-Sabbat
+Laws the of
 
 Laws of
 
-the of
-
-the
-
-Night:
-
-Clanbook:
-
-Laws
-
-Laws the
-
-of
-
-Laws of
-
-Clanbook:
-
-Laws of
-
-the the
+Clanbook: Laws of the the
 
 Guide
 
@@ -526,41 +396,23 @@ Revised
 
 Followers
 
-Set,
+Set, Laws of the
 
-Laws of
+Ed. of the
 
-the
-
-Ed.
-
-of the
-
-Night:
-
-Night
+Night: Night
 
 Sabbat
 
-Laws of
+Laws of the
 
-the
+Night: Storyteller
 
-Night:
+Laws the of
 
-Storyteller
+Laws the of
 
-Laws the
-
-of
-
-Laws the
-
-of
-
-Night:
-
-Sabbat
+Night: Sabbat
 
 Title
 
@@ -578,75 +430,61 @@ Guide
 
 Page
 
-&amp;
-
-Tzimisce,
-
-Number
+&amp; Tzimisce, Number
 
 Revised
 
-Night:
+Night: Ed. Sabbat
 
-Ed.
-
-Sabbat
-
-Guide
-
-of of
-
-the the
+Guide of of the the
 
 ## Archetypes: Nature &amp; Demeanor
 
-| Archetype        | Title &Page Number                    | Archetype       | Title &Page Number                    |
-|------------------|---------------------------------------|-----------------|---------------------------------------|
-| Architect        | Laws of the Night 73                  | Guru            | Laws of the Night: Sabbat Guide 60    |
-| Autocrat         | Laws of the Night 73                  | Idealist        | Laws of the Night: Camarilla Guide 23 |
-| Barbarian        | Faith &Fire 91                        | Innovator       | The Long Night 41                     |
-| Bon Vivant       | Laws of the Night 73                  | Jester          | Faith &Fire 91                        |
-| Bravo            | Laws of the Night 73                  | Judge           | Laws of the Night 74                  |
-| Capitalist       | Laws of the Night: Sabbat Guide 60    | Loner           | Laws of the Night 74                  |
-| Caregiver        | Laws of the Night 73                  | Martyr          | Laws of the Night 74                  |
-| Caretaker        | Faith &Fire 91                        | Masochist       | Laws of the Night 74                  |
-| Celebrant        | Laws of the Night 73                  | Monster         | Laws of the Night 74                  |
-| Chameleon        | Laws of the Night: Sabbat Guide 60    | Pedagogue       | Laws of the Night 74                  |
-| Child            | Laws of the Night 73                  | Penitent        | Laws of the Night 74                  |
-| Competitor       | Laws of the Night 73                  | Perfectionist   | Laws of the Night 74                  |
-| Conformist       | Laws of the Night 73                  | Rebel           | Laws of the Night 74                  |
-| Conniver         | Laws of the Night 73                  | Recruiter       | Laws of the Night: Sabbat Guide 60    |
-| Creep Show       | Laws of the Night: Sabbat Guide 60    | Rogue           | Laws of the Night 74                  |
-| Curmudgeon       | Laws of the Night 73                  | Sadist          | Laws of the Night: Sabbat Guide 60    |
-| Dabbler          | Laws of the Night: Camarilla Guide 23 | Scientist       | Laws of the Night: Camarilla Guide 23 |
-| Daredevil        | Laws of the Night: Sabbat Guide 60    | Sociopath       | Laws of the Night: Sabbat Guide 60    |
-| Dark Pioneer     | Laws of the Night: Sabbat Guide 60    | Soldier         | Laws of the Night: Camarilla Guide 23 |
-| Dark Poet        | Laws of the Night: Sabbat Guide 60    | Sorority Sister | Laws of the Night: Sabbat Guide 60    |
-| Defender         | Faith &Fire 91                        | Stalker         | Laws of the Night: Sabbat Guide 60    |
-| Deviant          | Laws of the Night 74                  | Survivor        | Laws of the Night 74                  |
-| Director         | Laws of the Night 74                  | Thrill-Seeker   | Laws of the Night 74                  |
-| Dreamer          | Faith &Fire 91                        | Torturer        | Laws of the Night: Sabbat Guide 60    |
-| Drunk Uncle      | Laws of the Night: Sabbat Guide 60    | Traditionalist  | Laws of the Night 74                  |
-| Enigma           | Laws of the Night: Sabbat Guide 60    | Trickster       | Laws of the Night 74                  |
-| Eye of the Storm | Laws of the Night: Sabbat Guide 60    | Tyrant          | The Long Night 41                     |
-| Fanatic          | Laws of the Night 74                  | Visionary       | Laws of the Night 74                  |
-| Gallant          | Laws of the Night 74                  |                 |                                       |
+| Archetype | Title &Page Number | Archetype | Title &Page Number |
+| Architect | Laws of the Night 73 | Guru | Laws of the Night: Sabbat Guide 60 |
+| Autocrat | Laws of the Night 73 | Idealist | Laws of the Night: Camarilla Guide 23 |
+| Barbarian | Faith &Fire 91 | Innovator | The Long Night 41 |
+| Bon Vivant | Laws of the Night 73 | Jester | Faith &Fire 91 |
+| Bravo | Laws of the Night 73 | Judge | Laws of the Night 74 |
+| Capitalist | Laws of the Night: Sabbat Guide 60 | Loner | Laws of the Night 74 |
+| Caregiver | Laws of the Night 73 | Martyr | Laws of the Night 74 |
+| Caretaker | Faith &Fire 91 | Masochist | Laws of the Night 74 |
+| Celebrant | Laws of the Night 73 | Monster | Laws of the Night 74 |
+| Chameleon | Laws of the Night: Sabbat Guide 60 | Pedagogue | Laws of the Night 74 |
+| Child | Laws of the Night 73 | Penitent | Laws of the Night 74 |
+| Competitor | Laws of the Night 73 | Perfectionist | Laws of the Night 74 |
+| Conformist | Laws of the Night 73 | Rebel | Laws of the Night 74 |
+| Conniver | Laws of the Night 73 | Recruiter | Laws of the Night: Sabbat Guide 60 |
+| Creep Show | Laws of the Night: Sabbat Guide 60 | Rogue | Laws of the Night 74 |
+| Curmudgeon | Laws of the Night 73 | Sadist | Laws of the Night: Sabbat Guide 60 |
+| Dabbler | Laws of the Night: Camarilla Guide 23 | Scientist | Laws of the Night: Camarilla Guide 23 |
+| Daredevil | Laws of the Night: Sabbat Guide 60 | Sociopath | Laws of the Night: Sabbat Guide 60 |
+| Dark Pioneer | Laws of the Night: Sabbat Guide 60 | Soldier | Laws of the Night: Camarilla Guide 23 |
+| Dark Poet | Laws of the Night: Sabbat Guide 60 | Sorority Sister | Laws of the Night: Sabbat Guide 60 |
+| Defender | Faith &Fire 91 | Stalker | Laws of the Night: Sabbat Guide 60 |
+| Deviant | Laws of the Night 74 | Survivor | Laws of the Night 74 |
+| Director | Laws of the Night 74 | Thrill-Seeker | Laws of the Night 74 |
+| Dreamer | Faith &Fire 91 | Torturer | Laws of the Night: Sabbat Guide 60 |
+| Drunk Uncle | Laws of the Night: Sabbat Guide 60 | Traditionalist | Laws of the Night 74 |
+| Enigma | Laws of the Night: Sabbat Guide 60 | Trickster | Laws of the Night 74 |
+| Eye of the Storm | Laws of the Night: Sabbat Guide 60 | Tyrant | The Long Night 41 |
+| Fanatic | Laws of the Night 74 | Visionary | Laws of the Night 74 |
+| Gallant | Laws of the Night 74 | | |
 
 ## Attributes
 
-| Attribute   | Title &Page Number                 | Attribute   | Title &Page Number                 |
-|-------------|------------------------------------|-------------|------------------------------------|
-| Strength    |                                    | Lithe       | Laws of the Night 80               |
-| Brawny      | Laws of the Night 80               | Nimble      | Laws of the Night 81               |
-| Ferocious   | Laws of the Night 80               | Quick       | Laws of the Night 81               |
-| Stalwart    | Laws of the Night 81               | Stamina     |                                    |
-| Tough       | Laws of the Night 81               | Deadly      | Laws of the Night: Sabbat Guide 62 |
-| Vicious     | Laws of the Night: Sabbat Guide 62 | Enduring    | Laws of the Night 80               |
-| Wiry        | Laws of the Night 81               | Resilient   | Laws of the Night 81               |
-| Dexterity   |                                    | Robust      | Laws of the Night 81               |
-| Dexterous   | Laws of the Night 80               | Rugged      | Laws of the Night 81               |
-| Fierce      | Laws of the Night: Sabbat Guide 62 | Savage      | Laws of the Night: Sabbat Guide 62 |
-| Graceful    | Laws of the Night 80               | Tireless    | Laws of the Night 81               |
+| Attribute | Title &Page Number | Attribute | Title &Page Number |
+| Strength | | Lithe | Laws of the Night 80 |
+| Brawny | Laws of the Night 80 | Nimble | Laws of the Night 81 |
+| Ferocious | Laws of the Night 80 | Quick | Laws of the Night 81 |
+| Stalwart | Laws of the Night 81 | Stamina | |
+| Tough | Laws of the Night 81 | Deadly | Laws of the Night: Sabbat Guide 62 |
+| Vicious | Laws of the Night: Sabbat Guide 62 | Enduring | Laws of the Night 80 |
+| Wiry | Laws of the Night 81 | Resilient | Laws of the Night 81 |
+| Dexterity | | Robust | Laws of the Night 81 |
+| Dexterous | Laws of the Night 80 | Rugged | Laws of the Night 81 |
+| Fierce | Laws of the Night: Sabbat Guide 62 | Savage | Laws of the Night: Sabbat Guide 62 |
+| Graceful | Laws of the Night 80 | Tireless | Laws of the Night 81 |
 
 ## Attribute
 
@@ -672,9 +510,7 @@ Clumsy
 
 Cowardly
 
-Decrepit
-
-Docile
+Decrepit do cile
 
 Flabby
 
@@ -724,9 +560,7 @@ Manipulative
 
 Persuasive
 
-Appearance
-
-Alluring
+Appearance all uring
 
 Elegant
 
@@ -750,67 +584,37 @@ Laws
 
 ## Title &amp; Page Number
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Sabbat
+Night: Sabbat
 
 Guide
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
 Faith
 
-&amp;
+&amp; Fire
 
-Fire
-
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws the
-
-of
+Laws the of
 
 Laws
 
@@ -818,41 +622,21 @@ Laws
 
 Laws
 
-Laws the
-
-the the
-
-of of
-
-of of
+Laws the the the of of of of
 
 the
 
-Night:
+Night: Sabbat
 
-Sabbat
-
-Laws the
-
-of
+Laws the of
 
 Laws
 
 Laws
 
-Laws of
+Laws of of the the of the
 
-of the
-
-the of
-
-the
-
-Night:
-
-of of
-
-of
+Night: of of of
 
 Sabbat
 
@@ -876,111 +660,59 @@ Night
 
 Night
 
-Guide the
-
-the the
+Guide the the the
 
 Guide
 
 Sabbat
 
-Night:
-
-Laws
-
-of
-
-the
+Night: Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Sabbat
+Night: Sabbat
 
 Guide
 
-Laws of
-
-the
+Laws of the
 
 Laws
 
 Laws
 
-Laws of
+Laws of of of the the the
 
-of of
+Night: Sabbat
 
-the the
+Laws of the
 
-the
+Night: Sabbat
 
-Night:
+Laws the of
 
-Sabbat
-
-Laws of
-
-the
-
-Night:
-
-Sabbat
-
-Laws the
-
-of
-
-Night:
-
-Sabbat
+Night: Sabbat
 
 Night
 
@@ -994,65 +726,35 @@ Night
 
 Guide
 
-Laws of
-
-the
+Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
@@ -1150,367 +852,185 @@ Inhumane
 
 Patient
 
-<!-- image -->
-
 ## Title &amp; Page Number
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Sabbat
+Night: Sabbat
 
 Guide
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Sabbat
+Night: Sabbat
 
 Guide
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Sabbat
+Night: Sabbat
 
 Guide
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Sabbat
+Night: Sabbat
 
 Guide
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Sabbat
+Night: Sabbat
 
 Guide
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Sabbat
+Night: Sabbat
 
 Guide
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Sabbat
+Night: Sabbat
 
 Guide
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Sabbat
+Night: Sabbat
 
 Guide
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
@@ -1520,9 +1040,7 @@ Wise
 
 Negative Mental
 
-Deceitful
-
-Forgetful
+Deceitful for getful
 
 Gullible
 
@@ -1554,9 +1072,7 @@ Commerce
 
 Computer
 
-Crafts
-
-Dodge
+Crafts do dge
 
 Drive
 
@@ -1570,9 +1086,7 @@ Finance
 
 Firearms
 
-Fire Dancing
-
-Fortune-Telling
+Fire Dancing for tune-Telling
 
 Hearth Wisdom
 
@@ -1594,17 +1108,9 @@ Laws
 
 Laws
 
-Laws of
+Laws of of of of
 
-of of
-
-of
-
-Laws of
-
-the the
-
-the the
+Laws of the the the the
 
 Number
 
@@ -1648,45 +1154,27 @@ Night
 
 Night
 
-&amp;
+&amp; Title
+
+Laws
+
+Page of the
+
+Night: Sabbat
+
+Laws the of
+
+Laws
+
+Laws
+
+Laws
+
+Laws of of of of
 
 Title
 
-Laws
-
-Page of
-
-the
-
-Night:
-
-Sabbat
-
-Laws the
-
-of
-
-Laws
-
-Laws
-
-Laws
-
-Laws of
-
-of of
-
-of
-
-Title
-
-&amp;
-
-Laws the
-
-the the
-
-the
+&amp; Laws the the the the
 
 Page of
 
@@ -1694,35 +1182,23 @@ The the
 
 Long
 
-Laws the
-
-of
+Laws the of
 
 Night
 
 Faith
 
-&amp;
-
-Laws of
+&amp; Laws of
 
 Laws
 
-Fire
+Fire the
 
-the
+Night of the
 
-Night of
+Night: Sabbat
 
-the
-
-Night:
-
-Sabbat
-
-Laws of
-
-the
+Laws of the
 
 Night
 
@@ -1732,9 +1208,7 @@ Night
 
 Faith
 
-&amp;
-
-Laws of
+&amp; Laws of
 
 Laws
 
@@ -1752,35 +1226,17 @@ Laws
 
 Laws
 
-Fire
+Fire the
+
+Night the the the the the the the
+
+of of of of of of of of
 
 the
 
-Night the
+Night: Sabbat the
 
-the the
-
-the the
-
-the the
-
-of of
-
-of of
-
-of of
-
-of of
-
-the
-
-Night:
-
-Sabbat the
-
-Night:
-
-Sabbat
+Night: Sabbat
 
 Night
 
@@ -1804,9 +1260,7 @@ Guide
 
 Faith
 
-&amp;
-
-The
+&amp; The
 
 Fire
 
@@ -1818,19 +1272,13 @@ The
 
 Long
 
-Night:
+Night: Camarilla
 
-Camarilla
-
-Laws of
-
-the
+Laws of the
 
 Laws
 
-The of
-
-the
+The of the
 
 Long
 
@@ -1888,9 +1336,7 @@ Streetwise
 
 Subterfuge
 
-Survival
-
-Theology
+Survival the ology
 
 Torture
 
@@ -1898,69 +1344,41 @@ Vamp
 
 Laws
 
-Laws of
+Laws of of
 
-of
-
-Laws of
-
-the
+Laws of the
 
 Laws of
 
 Laws
 
-Laws of
-
-of the
-
-the the
-
-the the
+Laws of of the the the the the
 
 Title
 
 Page
 
-&amp;
+&amp; Laws of
 
-Laws of
+Laws the of the
 
-Laws the
+Night: Sabbat
 
-of the
+Laws of the
 
-Night:
+Night: Sabbat
 
-Sabbat
-
-Laws of
-
-the
-
-Night:
-
-Sabbat
-
-Laws the
-
-of
+Laws the of
 
 Laws of
 
 Title the
 
-&amp;
+&amp; Page
 
-Page
+Laws of the
 
-Laws of
-
-the
-
-Laws the
-
-of
+Laws the of
 
 Faith
 
@@ -1986,9 +1404,7 @@ Night
 
 Night
 
-&amp;
-
-Laws of
+&amp; Laws of
 
 Laws
 
@@ -2002,27 +1418,13 @@ Laws
 
 Laws
 
-Fire
+Fire the
 
-the
+Night the the of of of the
 
-Night the
+Long of the of the
 
-the of
-
-of of
-
-the
-
-Long of
-
-the of
-
-the
-
-Night:
-
-Camarilla
+Night: Camarilla
 
 Laws of
 
@@ -2044,19 +1446,11 @@ Night the
 
 Faith
 
-&amp;
+&amp; Night: Sabbat
 
-Night:
+Laws the of
 
-Sabbat
-
-Laws the
-
-of
-
-Laws the
-
-of
+Laws the of
 
 Faith
 
@@ -2068,11 +1462,7 @@ Night
 
 Night
 
-&amp;
-
-Laws of
-
-the
+&amp; Laws of the
 
 Laws
 
@@ -2080,19 +1470,11 @@ The
 
 Laws
 
-Laws the
+Laws the of
 
-of
+Long of the of the
 
-Long of
-
-the of
-
-the
-
-Laws of
-
-the
+Laws of the
 
 Fire
 
@@ -2110,13 +1492,7 @@ Night
 
 Faith
 
-Night:
-
-Night:
-
-&amp;
-
-Sabbat
+Night: Night: &amp; Sabbat
 
 Fire
 
@@ -2126,13 +1502,9 @@ Sabbat
 
 Guide
 
-Background
+Background all ies
 
-Allies
-
-Contacts
-
-Domain
+Contacts do main
 
 Fame
 
@@ -2194,23 +1566,13 @@ Laws
 
 Laws
 
-Laws of
+Laws of of of of of the the
 
-of of
-
-of of
-
-the the
-
-the the
-
-the
+the the the
 
 Title
 
-&amp;
-
-Laws
+&amp; Laws
 
 Backgrounds
 
@@ -2218,13 +1580,9 @@ Page
 
 Number
 
-Background of
+Background of the
 
-the
-
-Laws the
-
-of
+Laws the of
 
 Night
 
@@ -2232,17 +1590,13 @@ Night
 
 Faith
 
-&amp;
-
-Laws of
+&amp; Laws of
 
 Laws
 
 Title of
 
-Fire
-
-the
+Fire the
 
 Herd
 
@@ -2260,9 +1614,7 @@ Retainers
 
 Influences
 
-&amp;
-
-Laws
+&amp; Laws
 
 Page of
 
@@ -2278,21 +1630,13 @@ Laws
 
 Number
 
-Influence the
+Influence the of the
 
-of the
-
-Long of
-
-the of
-
-of
+Long of the of of
 
 Laws of
 
-The the
-
-the
+The the the
 
 Night
 
@@ -2314,9 +1658,7 @@ Laws
 
 Title
 
-Night of
-
-the
+Night of the
 
 Media
 
@@ -2340,9 +1682,7 @@ Virtues
 
 Page
 
-&amp;
-
-Laws of
+&amp; Laws of
 
 Laws
 
@@ -2356,41 +1696,23 @@ Night
 
 Night
 
-Night
-
-the of
-
-of the
-
-the
+Night the of of the the
 
 Paths of Enlightenment
 
 Title
 
-&amp;
+&amp; Laws
 
 Laws
 
-Laws
+Page of the of the
 
-Page of
+Night: Sabbat
 
-the of
+Night: Sabbat
 
-the
-
-Night:
-
-Sabbat
-
-Night:
-
-Sabbat
-
-Night:
-
-Number
+Night: Number
 
 Night
 
@@ -2408,13 +1730,9 @@ Laws
 
 Elysium of
 
-Night:
+Night: Sabbat
 
-Sabbat
-
-Night:
-
-Guide
+Night: Guide
 
 Sabbat
 
@@ -2446,39 +1764,23 @@ Instinct
 
 Self-Control
 
-Laws of
-
-the
+Laws of the
 
 Laws
 
 Laws
 
-Laws the
-
-of of
-
-of the
-
-the
+Laws the of of of the the
 
 Title
 
-&amp;
+&amp; Laws
 
-Laws
+Page of the
 
-Page of
+Night: Anarch
 
-the
-
-Night:
-
-Anarch
-
-Laws of
-
-the
+Laws of the
 
 Laws
 
@@ -2500,9 +1802,7 @@ Laws
 
 Laws
 
-Laws of
-
-of
+Laws of of
 
 Number
 
@@ -2512,27 +1812,15 @@ Guide
 
 Night
 
-Night the
-
-the
+Night the the
 
 Night
 
-&amp;
+&amp; Page
 
-Page
+Number of the
 
-Number of
-
-the
-
-Night of
-
-of of
-
-of of
-
-of of
+Night of of of of of of of
 
 Title
 
@@ -2546,61 +1834,35 @@ Night
 
 Night
 
-Night the
-
-the the
-
-the the
-
-the the
+Night the the the the the the the
 
 Night
 
-&amp;
+&amp; Laws
 
 Laws
 
-Laws
-
-Page of
-
-the of
+Page of the of
 
 Title
 
-Night:
+Night: the
 
-the
-
-&amp;
-
-Page
+&amp; Page
 
 Sabbat
 
-Night:
+Night: Sabbat
 
-Sabbat
-
-Laws of
-
-the
+Laws of the
 
 Laws
 
-Laws of
+Laws of the of the
 
-the of
+Night: Sabbat
 
-the
-
-Night:
-
-Sabbat
-
-Laws of
-
-the
+Laws of the
 
 Laws of
 
@@ -2720,23 +1982,15 @@ Contagious
 
 Controllable Night Sight
 
-Clanbook:
-
-## Roads
+Clanbook: ## Roads
 
 Number
 
 Road
 
-&amp;
+&amp; Fire
 
-Fire
-
-&amp;
-
-&amp;
-
-Page
+&amp; &amp; Page
 
 Faith
 
@@ -2766,11 +2020,7 @@ Laws
 
 Page
 
-&amp;
-
-of the
-
-of of
+&amp; of the of of
 
 Laws
 
@@ -2778,23 +2028,11 @@ Night
 
 Night
 
-Night the
-
-the the
+Night the the the
 
 Night of
 
-Tzimisce,
-
-Clanbook:
-
-Nosferatu,
-
-Clanbook:
-
-Laws the
-
-of
+Tzimisce, Clanbook: Nosferatu, Clanbook: Laws the of
 
 Revised
 
@@ -2802,87 +2040,51 @@ Revised
 
 Revised
 
-Tremere,
+Tremere, Laws
 
-Laws
+Ed. Ed. Ed. of
 
-Ed.
-
-Ed.
-
-Ed.
-
-of
-
-Night
-
-the
+Night the
 
 Laws
 
 Elysium of
 
-Night:
+Night: Camarilla
 
-Camarilla
+Clanbook: Clanbook: Guide
 
-Clanbook:
+Malkavian, Revised
 
-Clanbook:
-
-Guide
-
-Malkavian,
-
-Revised
-
-Ed.
-
-Faith
+Ed. Faith
 
 Laws
 
-&amp;
-
-of
+&amp; of
 
 Fire the
 
 Night
 
-Nosferatu,
-
-Revised
+Nosferatu, Revised
 
 Laws
 
 Laws
 
-Ed.
-
-of the
+Ed. of the
 
 Night
 
-Night:
+Night: the of
 
-the of
-
-Clanbook:
-
-Guide
+Clanbook: Guide
 
 Camarilla
 
-Tremere,
+Tremere, Laws of the
 
-Laws of
-
-the
-
-Laws of
-
-the
+Laws of the
 
 Laws of
 
@@ -2890,17 +2092,11 @@ Laws
 
 Laws the
 
-Ed.
+Ed. Revised
 
-Revised
+Night: Camarilla
 
-Night:
-
-Camarilla
-
-Night:
-
-Guide
+Night: Guide
 
 Camarilla
 
@@ -2908,9 +2104,7 @@ Guide
 
 Laws
 
-Night of
-
-the
+Night of the
 
 Laws
 
@@ -2918,21 +2112,11 @@ Laws
 
 Laws
 
-Laws the
+Laws the the of of of the
 
-the of
+Faith of the
 
-of of
-
-the
-
-Faith of
-
-the
-
-Night:
-
-the
+Night: the
 
 Anarch
 
@@ -2944,131 +2128,75 @@ Night
 
 Night
 
-&amp;
-
-Fire
+&amp; Fire
 
 Night
 
-Guide of
-
-the
+Guide of the
 
 Night
 
-Night:
+Night: of of the
 
-of of
-
-the
-
-Clanbook:
-
-Guide
+Clanbook: Guide
 
 Camarilla
 
-Night:
-
-Guide
+Night: Guide
 
 Camarilla
 
 Laws
 
-Night the
+Night the of
 
-of
-
-Brujah,
-
-Revised
+Brujah, Revised
 
 Laws
 
-Ed.
+Ed. of
 
-of
+Clanbook: Night the
 
-Clanbook:
-
-Night the
-
-Giovanni,
-
-Revised
+Giovanni, Revised
 
 Laws
 
-Ed.
-
-of
+Ed. of
 
 Night the
 
-Tzimisce,
-
-Clanbook:
-
-Clanbook:
-
-Nosferatu,
-
-Clanbook:
-
-Lasombra,
+Tzimisce, Clanbook: Clanbook: Nosferatu, Clanbook: Lasombra, Revised
 
 Revised
 
 Revised
 
-Revised
-
-Ed.
-
-Ed.
-
-Ed.
-
-Merit or Flaw (value) Crusader 1 Cursed -1 to -5 Danger Sense 3 Daredevil 3 Dark Fate -5 Dark Secret -1 Deadened Nerves 4 Deaf -4 Death Wish -1 to -5 Death's Reflection -3 Deathsight -2 Debt of Gratitude 1 to 3 Decrepitude -3 Deep Sleeper -1 Deformity -2 Disease Carrier -4 Diseased -1 to -5 Disembodied Mentor 5 Disfigured -2 Double Betrayer -4 Dracon's Temperament 3 Dulled Bite -2 Dynamic Personality 5 Early Riser 1 Eat Food 1 Eerie Presence -2 Efficient Digestion 3 Eidetic Memory 2 Embraced Without the Cup Enchanting Voice 2 Enemy Brood -3 Enlightened 1 to 7 Enemy -1 to -5 False Reflection 3 Fangless -2 Fifteenth Generation -4 Flesh Eater -4
+Ed. Ed. Ed. Merit or Flaw (value) Crusader 1 Cursed -1 to -5 Danger Sense 3 Daredevil 3 Dark Fate -5 Dark Secret -1 Deadened Nerves 4 Deaf -4 Death Wish -1 to -5 Death's Reflection -3 Deathsight -2 Debt of Gratitude 1 to 3 Decrepitude -3 Deep Sleeper -1 Deformity -2 Disease Carrier -4 Diseased -1 to -5 Disembodied Mentor 5 Disfigured -2 do uble Betrayer -4 Dracon's Temperament 3 Dulled Bite -2 Dynamic Personality 5 Early Riser 1 Eat Food 1 Eerie Presence -2 Efficient Digestion 3 Eidetic Memory 2 Embraced with out the Cup Enchanting Voice 2 Enemy Brood -3 Enlightened 1 to 7 Enemy -1 to -5 False Reflection 3 Fangless -2 Fifteenth Generation -4 Flesh Eater -4
 
 Title
 
-&amp;
-
-Clanbook:
-
-Page
+&amp; Clanbook: Page
 
 Faith
 
 Faith
 
-&amp;
-
-Page
+&amp; Page
 
 Faith
 
 Number
 
-&amp;
+&amp; Fire
 
-Fire
-
-&amp;
-
-Fire
+&amp; Fire
 
 Number
 
-&amp;
+&amp; of the
 
-of the
-
-Faith of
-
-the of
+Faith of the of
 
 Title
 
@@ -3082,83 +2210,51 @@ Laws
 
 Laws of
 
-Clanbook:
-
-Fire
+Clanbook: Fire
 
 Night
 
-&amp;
-
-Fire
+&amp; Fire
 
 Night
 
-Night the
-
-the
+Night the the
 
 Night
 
 Revised
 
-Malkavian,
+Malkavian, Laws
 
-Laws
-
-Ed.
-
-of
+Ed. of
 
 Night the
 
-Laws
-
-of
+Laws of
 
 Elysium
 
-Lasombra,
-
-Laws
+Lasombra, Laws
 
 Revised
 
-Night:
-
-Ed.
-
-Camarilla of
-
-the
+Night: Ed. Camarilla of the
 
 Laws the
 
-Guide of
+Guide of the
 
-the
+Night: Anarch
 
-Night:
-
-Anarch
-
-Laws the
-
-of
+Laws the of
 
 Laws
 
-Laws of
-
-the of
-
-the
+Laws of the of the
 
 Faith
 
-Clanbook:
-
-Night
+Clanbook: Night
 
 Guide
 
@@ -3168,59 +2264,31 @@ Night
 
 Night
 
-&amp;
+&amp; Fire
 
-Fire
-
-Malkavian,
-
-Revised
+Malkavian, Revised
 
 Laws of
 
-Clanbook:
-
-Clanbook:
-
-Tremere,
-
-Ed.
-
-the
+Clanbook: Clanbook: Tremere, Ed. the
 
 Night
 
 Revised
 
-Tzimisce,
+Tzimisce, Laws of
 
-Laws of
+Ed. Revised
 
-Ed.
+Night: Camarilla the
 
-Revised
+Clanbook: Brujah, Laws
 
-Night:
-
-Camarilla the
-
-Clanbook:
-
-Brujah,
-
-Laws
-
-Ed.
-
-Guide
+Ed. Guide
 
 Revised
 
-Night:
-
-Sabbat the
-
-of
+Night: Sabbat the of
 
 Laws
 
@@ -3228,77 +2296,47 @@ Laws
 
 Laws
 
-Ed.
+Ed. Guide of
 
-Guide of
-
-Night the
-
-of of
+Night the of of
 
 Laws of
 
-Clanbook:
+Clanbook: Night
 
-Night
-
-Night the
-
-the the
+Night the the the
 
 Night
 
 Revised
 
-Tremere,
+Tremere, Laws of
 
-Laws of
-
-Clanbook:
-
-Ed.
-
-the
+Clanbook: Ed. the
 
 Night
 
-Nosferatu,
-
-Revised
+Nosferatu, Revised
 
 Laws
 
-Ed.
-
-of
+Ed. of
 
 Elysium
 
 Laws of
 
-Nosferatu,
+Nosferatu, Clanbook: Laws of
 
-Clanbook:
-
-Laws of
-
-Laws of
-
-the
+Laws of the
 
 Night
 
 Revised the
 
-Night:
+Night: Anarch the
 
-Anarch the
-
-Night:
-
-Ed.
-
-Guide
+Night: Ed. Guide
 
 Anarch
 
@@ -3306,17 +2344,13 @@ Faith
 
 Guide
 
-&amp;
-
-Fire
+&amp; Fire
 
 Laws of
 
-&amp;
+&amp; ## Merit or Flaw (value)
 
-## Merit or Flaw (value)
-
-Flesh of the Corpse -5 Flashbacks -6 Foul Blood 3 Fourteenth Generation Friendly Face 1 Gaping Maw 2 Glowing Eyes -2 Grip of the Damned -4 Guilt-Wracked -4 Hard of Hearing -1 Hatred -2 Haunted -3 Haven Affinity 3 Healing Touch 1 Hemetic -4 Holdings 1 to 5 Huge Size 4 Hunted -4 Immaculate Aura 1 Inbred -1 to -5 Incoherent -5 Inept -5 Infamous Autarkis -1 Infamous Sire -1 Infectious -3 Infectious Bite -2 Infertile Vitae -5 Inoffensive to Animals Iron Will 3 Introspection 1 Jilted Paramour -1 to -3 Known Diablerist -5 Lame -3 Lazy -3 Leper -2 to -3 Light-Sensitive -5 Light Sleeper 2 Lizard Limbs 1 Long Fingers 1 Lord of the Flies -2 Loyal Childe 3 Lucky 3 Lunacy -2 Magic Addict -3 or -5 Magic Resistance 2 Matricide/Patricide -4
+Flesh of the Corpse -5 Flashbacks -6 Foul Blood 3 Fourteenth Generation Friendly Face 1 Gaping Maw 2 Glowing Eyes -2 Grip of the Damned -4 Guilt-Wracked -4 Hard of Hearing -1 Hatred -2 Haunted -3 have n Affinity 3 Healing Touch 1 Hemetic -4 Holdings 1 to 5 Huge Size 4 Hunted -4 Immaculate Aura 1 Inbred -1 to -5 Incoherent -5 Inept -5 Infamous Autarkis -1 Infamous Sire -1 Infectious -3 Infectious Bite -2 Infertile Vitae -5 Inoffensive to Animals Iron Will 3 Introspection 1 Jilted Paramour -1 to -3 Known Diablerist -5 Lame -3 Lazy -3 Leper -2 to -3 Light-Sensitive -5 Light Sleeper 2 Lizard Limbs 1 Long Fingers 1 Lord of the Flies -2 Loyal Childe 3 Lucky 3 Lunacy -2 Magic Addict -3 or -5 Magic Resistance 2 Matricide/Patricide -4
 
 ## Title &amp; Page Number
 
@@ -3328,7 +2362,7 @@ Flaw
 
 (value)
 
-Medium 2 Mistaken Identity -1 Monstrous -3 Mute -4 Natural Leader 1 Natural Linguist 2 Necrophile -3 Nightmares -1 Nine Lives 6 Obvious Predator -2 One Eye -2 Oracular Ability 3 Oversized Fangs 1 Pain Tolerance 2 Paramour 3 to 5 Paragon 6 Parasitic Infestation -2 Patagia 4 Pelagic Harmony 3 Permanent Fangs -2 Permanent Wound -3 Personal Masquerade 3 Phobia -2 Piscine 1 Pitiable 2 Poseidon's Call -1 Poverty -1 Prestation Debt -1 to -5 Prestation Gifts 2 to 6 Prestigious Sire 1 Prey Exclusion -1 Probationary Sect Member -4 Projectile Vomiting 2 Proxy Kissed 4 Putrescent -4 Ragged Bite -2 Ravaging Years -2 Recently Arisen -3 Religious Prohibition -2 to -4 Repelled by Crosses -3 Reptile Buddy 3 Repulsed by Garlic -1 Revenant Disciplines 3 Revenant Weakness -3 Rugged Bad Looks 5 Sanctity 2
+Medium 2 Mistaken Identity -1 Monstrous -3 Mute -4 Natural Leader 1 Natural Linguist 2 Necrophile -3 Nightmares -1 Nine Lives 6 Obvious Predator -2 One Eye -2 or acular Ability 3 Oversized Fangs 1 Pain Tolerance 2 Paramour 3 to 5 Paragon 6 Parasitic Infestation -2 Patagia 4 Pelagic Harmony 3 Permanent Fangs -2 Permanent Wound -3 Personal Masquerade 3 Phobia -2 Piscine 1 Pitiable 2 Poseidon's Call -1 Poverty -1 Prestation Debt -1 to -5 Prestation Gifts 2 to 6 Prestigious Sire 1 Prey Exclusion -1 Probationary Sect Member -4 Projectile Vomiting 2 Proxy Kissed 4 Putrescent -4 Ragged Bite -2 Ravaging Years -2 Recently Arisen -3 Religious Prohibition -2 to -4 Repelled by Crosses -3 Reptile Buddy 3 Repulsed by Garlic -1 Revenant Disciplines 3 Revenant Weakness -3 Rugged Bad Looks 5 Sanctity 2
 
 ## Title &amp; Page Number
 
@@ -3336,9 +2370,7 @@ Laws of the Night 120 Laws of the Night 119 Laws of the Night 115 Laws of the Ni
 
 Merit
 
-(value)
-
-or
+(value) or
 
 Flaw
 
@@ -3424,49 +2456,25 @@ Melancholia
 
 Manic-Depression
 
-Clanbook:
-
-Clanbook:
-
-Clanbook:
-
-the the
-
-the the
-
-the the
-
-the
+Clanbook: Clanbook: Clanbook: the the the the the the the
 
 Title
 
-&amp;
-
-Giovanni,
-
-Number
+&amp; Giovanni, Number
 
 Page
 
 Revised
 
-Tzimisce,
-
-Ed.
-
-Revised
+Tzimisce, Ed. Revised
 
 Laws
 
-Ed.
-
-of
+Ed. of
 
 Elysium
 
-Giovanni,
-
-Revised
+Giovanni, Revised
 
 Laws of
 
@@ -3474,23 +2482,13 @@ Laws
 
 Laws
 
-Ed.
-
-the of
-
-of
+Ed. the of of
 
 Laws of
 
-Clanbook:
+Clanbook: Clanbook: Laws of
 
-Clanbook:
-
-Laws of
-
-Clanbook:
-
-the the
+Clanbook: the the
 
 Night
 
@@ -3502,13 +2500,7 @@ Night
 
 Revised
 
-Nosferatu,
-
-Nosferatu,
-
-Ed.
-
-Revised
+Nosferatu, Nosferatu, Ed. Revised
 
 Laws of
 
@@ -3516,19 +2508,13 @@ Laws
 
 Laws
 
-Night:
+Night: Laws
 
-Laws
-
-Ed.
-
-the
+Ed. the
 
 Night of
 
-Night the
-
-of
+Night the of
 
 Night the
 
@@ -3540,29 +2526,15 @@ Night the
 
 Laws of
 
-Nosferatu,
-
-Clanbook:
-
-Malkavian,
-
-Laws
-
-the
+Nosferatu, Clanbook: Malkavian, Laws the
 
 Night
 
 Revised
 
-Ed.
+Ed. Revised the of
 
-Revised the
-
-of
-
-Clanbook:
-
-Laws of
+Clanbook: Laws of
 
 Laws
 
@@ -3572,27 +2544,15 @@ Laws
 
 Laws
 
-Laws of
+Laws of of of of of
 
-of of
-
-of of
-
-Night:
-
-Ed.
-
-Anarch
+Night: Ed. Anarch
 
 Guide
 
-Malkavian,
+Malkavian, Revised
 
-Revised
-
-Ed.
-
-or
+Ed. or
 
 Merit
 
@@ -3640,9 +2600,7 @@ Vulnerability to Silver
 
 Weather Sense
 
-Weak-Willed
-
-Withered Leg
+Weak-will ed with ered Leg
 
 Derangements
 
@@ -3650,39 +2608,23 @@ Title
 
 Page
 
-&amp;
-
-Number
+&amp; Number
 
 Derangement
 
 Faith
 
-&amp;
-
-The
+&amp; The
 
 Long
 
-Night:
+Night: Night: Night: Night: Laws
 
-Night:
-
-Night:
-
-Night:
+Night: Laws
 
 Laws
 
-Night:
-
-Laws
-
-Laws
-
-Night:
-
-Laws
+Night: Laws
 
 Laws
 
@@ -3716,29 +2658,21 @@ Night the
 
 Faith
 
-&amp;
-
-Fire of
+&amp; Fire of
 
 Night the
 
 Sabbat
 
-Guide of
+Guide of the
 
-the
-
-Night of
-
-the
+Night of the
 
 Faith
 
 Night
 
-&amp;
-
-The
+&amp; The
 
 Fire
 
@@ -3746,9 +2680,7 @@ Long
 
 Laws
 
-Night of
-
-the
+Night of the
 
 Night
 
@@ -3786,19 +2718,13 @@ Schizophrenia
 
 Visions
 
-Clanbook:
-
-&amp;
-
-Page
+Clanbook: &amp; Page
 
 Title
 
 Laws of
 
-Tremere,
-
-Number the
+Tremere, Number the
 
 Night
 
@@ -3806,93 +2732,55 @@ Revised
 
 Laws
 
-Laws of
+Laws of the
 
-the
-
-Ed.
-
-of the
+Ed. of the
 
 Night
 
-Night:
-
-Camarilla
+Night: Camarilla
 
 Guide
 
-Laws the
-
-of
+Laws the of
 
 Night
 
 Laws of
 
-Nosferatu,
-
-Clanbook:
-
-Clanbook:
-
-the
+Nosferatu, Clanbook: Clanbook: the
 
 Night
 
 Revised
 
-Nosferatu,
-
-Ed.
-
-Revised
+Nosferatu, Ed. Revised
 
 Laws of
 
 Laws
 
-Ed.
-
-the
+Ed. the
 
 Night of
 
-Clanbook:
-
-Assamite,
-
-Night the
+Clanbook: Assamite, Night the
 
 Revised
 
 Laws of
 
-Clanbook:
-
-Brujah,
-
-Clanbook:
-
-Ed.
-
-the
+Clanbook: Brujah, Clanbook: Ed. the
 
 Night
 
 Revised
 
-Lasombra,
-
-Ed.
-
-Revised
+Lasombra, Ed. Revised
 
 Laws
 
-Ed.
-
-of
+Ed. of
 
 Elysium
 
@@ -3900,25 +2788,15 @@ Laws of
 
 Laws
 
-Night
-
-the of
+Night the of
 
 Elysium
 
-Night:
-
-Sabbat the
+Night: Sabbat the
 
 Laws of
 
-Clanbook:
-
-Clanbook:
-
-Laws of
-
-the
+Clanbook: Clanbook: Laws of the
 
 Laws
 
@@ -3928,97 +2806,59 @@ Laws
 
 Laws
 
-Laws of
+Laws of of of of of the the
 
-of of
+the the the
 
-of of
-
-the the
-
-the the
-
-the
-
-Lasombra,
-
-Guide
+Lasombra, Guide
 
 Revised
 
 Laws
 
-Ed.
-
-the
+Ed. the
 
 Night of
 
-Nosferatu,
-
-Revised
+Nosferatu, Revised
 
 Title
 
-&amp;
+&amp; Laws
 
 Laws
 
-Laws
+Night: Laws
 
-Night:
+Night: Laws
 
-Laws
+Night: Night: Night: Laws
 
-Night:
-
-Laws
-
-Night:
-
-Night:
-
-Night:
+Night: Laws
 
 Laws
 
-Night:
-
-Laws
-
-Laws
-
-Ed.
-
-Page
+Ed. Page
 
 Number of
 
-Night the
-
-of the
+Night the of the
 
 Night
 
 Sabbat
 
-Guide of
-
-the
+Guide of the
 
 Night
 
 Faith
 
-&amp;
-
-Fire
+&amp; Fire
 
 Sabbat
 
-Guide of
-
-the
+Guide of the
 
 Night
 
@@ -4032,9 +2872,7 @@ Guide
 
 Faith
 
-&amp;
-
-Sabbat
+&amp; Sabbat
 
 Fire
 
@@ -4048,11 +2886,7 @@ Guide
 
 Faith
 
-&amp;
-
-of the
-
-of the
+&amp; of the of the
 
 Faith
 
@@ -4062,9 +2896,7 @@ Night
 
 Night
 
-&amp;
-
-Fire
+&amp; Fire
 
 State
 
@@ -4092,39 +2924,25 @@ Rep
 
 Level
 
-&amp;
+&amp; Discipline
 
-Discipline
-
-Abombwe
-
-z
+Abombwe z
 
 Predator's
 
 Communion zz
 
-Taming the
-
-zzz
+Taming the zzz
 
 Whistling
 
-Up the
+Up the zzzz
 
-zzzz
-
-Beast
-
--
-
-Channel zzzzz
+Beast Channel zzzzz
 
 Taking the
 
-Skin zzzzz
-
-z
+Skin zzzzz z
 
 Predator's
 
@@ -4136,9 +2954,7 @@ Mastery
 
 Laws of
 
-Laws the
-
-of the
+Laws the of the
 
 Title
 
@@ -4152,17 +2968,11 @@ Laws
 
 ## States of Being
 
-&amp;
-
-State
+&amp; State
 
 Number
 
-Page of
-
-the of
-
-of of
+Page of the of of of
 
 Fire
 
@@ -4176,11 +2986,7 @@ Night
 
 Night
 
-Night
-
-the the
-
-the
+Night the the the
 
 Sunlight
 
@@ -4196,35 +3002,23 @@ Number
 
 Page
 
-&amp;
+&amp; of
 
-of
-
-Night the
-
-of
+Night the of
 
 Night the
 
-Night:
-
-Camarilla
+Night: Camarilla
 
 Laws
 
-Guide of
-
-the
+Guide of the
 
 Laws
 
-Night of
+Night of the
 
-the
-
-Night:
-
-Title
+Night: Title
 
 Title
 
@@ -4240,23 +3034,13 @@ Title
 
 Number
 
-&amp;
+&amp; Page of the of of of
 
-Page of
-
-the of
-
-of of
-
-&amp;
+&amp; Night
 
 Night
 
-Night
-
-Night the
-
-the the
+Night the the the
 
 Night
 
@@ -4268,63 +3052,35 @@ Trait
 
 Ritae
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Sabbat
+Night: Sabbat
 
 Guide
 
 Status, Camarilla
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
 Status, Sabbat
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Sabbat
+Night: Sabbat
 
 Guide
 
 Thaumaturgical Countermagic
 
-Laws
+Laws of the
 
-of
+Night: Camarilla
 
-the
+Guide will power
 
-Night:
-
-Camarilla
-
-Guide
-
-Willpower
-
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
@@ -4336,13 +3092,9 @@ Guide
 
 ## Disciplines
 
-&amp;
+&amp; Faith
 
-Faith
-
-&amp;
-
-Faith
+&amp; Faith
 
 Faith
 
@@ -4354,17 +3106,7 @@ Faith
 
 Fire
 
-&amp;
-
-&amp;
-
-&amp;
-
-&amp;
-
-&amp;
-
-Fire
+&amp; &amp; &amp; &amp; &amp; Fire
 
 Fire
 
@@ -4380,13 +3122,9 @@ Level
 
 Discipline
 
-&amp;
+&amp; Number
 
-Number
-
-Animalism
-
-z
+Animalism z
 
 Feral
 
@@ -4394,23 +3132,17 @@ Whispers zz
 
 Beckoning zzz
 
-Quell the
-
-zzzz
+Quell the zzzz
 
 Subsume zzzzz
 
-Drawing zzzzz
-
-z
+Drawing zzzzz z
 
 Animal
 
 Succulence
 
-Eye of
-
-the
+Eye of the
 
 Quell
 
@@ -4428,31 +3160,21 @@ Species
 
 Dark the
 
-Speech zzzzz
-
-zz
+Speech zzzzz zz
 
 Conquer the
 
-Stampede zzzzz
-
-zzz
+Stampede zzzzz zzz
 
 Crimson
 
 Fury
 
-Taunt the
-
-zzzzz
+Taunt the zzzzz
 
 Caged zzzz
 
-Eyes of
-
-the
-
-Forest
+Eyes of the for est
 
 Unchain the
 
@@ -4460,9 +3182,7 @@ Beast
 
 Animalism/Auspex zzzzz
 
-/
-
-zzzz
+/ zzzz
 
 Call
 
@@ -4500,15 +3220,7 @@ Number
 
 Page
 
-&amp;
-
-of the
-
-of of
-
-of the
-
-the the
+&amp; of the of of of the the the
 
 Night
 
@@ -4516,123 +3228,61 @@ Night
 
 Night
 
-Night of
-
-the
+Night of the
 
 Night
 
-Night:
-
-of the
+Night: of the
 
 Camarilla
 
-Clanbook:
-
-Tzimisce,
-
-Clanbook:
-
-Guide
+Clanbook: Tzimisce, Clanbook: Guide
 
 Revised
 
-Gangrel,
+Gangrel, Laws
 
-Laws
+Night: of the
 
-Night:
+Clanbook: Ed. Revised
 
-of the
+Camarilla
 
-Clanbook:
+Nosferatu, Laws of the
 
-Ed.
+Night: Ed. Guide
 
 Revised
 
 Camarilla
 
-Nosferatu,
+Laws of the
 
-Laws of
+Night: Clanbook: Ed. Guide
 
-the
+Camarilla
 
-Night:
+Gangrel, Clanbook: Guide
 
-Ed.
+Revised
 
-Guide
+Gangrel, Laws of the
+
+Night: Clanbook: Ed. Revised
+
+Camarilla
+
+Gangrel, Laws of the
+
+Night: Laws of the
+
+Ed. Guide
 
 Revised
 
 Camarilla
 
-Laws of
-
-the
-
-Night:
-
-Clanbook:
-
-Ed.
-
-Guide
-
-Camarilla
-
-Gangrel,
-
-Clanbook:
-
-Guide
-
-Revised
-
-Gangrel,
-
-Laws of
-
-the
-
-Night:
-
-Clanbook:
-
-Ed.
-
-Revised
-
-Camarilla
-
-Gangrel,
-
-Laws of
-
-the
-
-Night:
-
-Laws of
-
-the
-
-Ed.
-
-Guide
-
-Revised
-
-Camarilla
-
-Night:
-
-Ed.
-
-Guide
+Night: Ed. Guide
 
 Anarch
 
@@ -4644,65 +3294,33 @@ Level
 
 Discipline
 
-&amp;
+&amp; ## Animalism/Chimerstry zzz
 
-## Animalism/Chimerstry
+/ zzz
 
-zzz
-
-/
-
-zzz
-
-Mask
-
-of
+Mask of
 
 Cathay
 
-Clanbook:
+Clanbook: Ravnos, Revised
 
-Ravnos,
+Ed. Animalism/do minate zzz
 
-Revised
+/ zzz
 
-Ed.
-
-Animalism/Dominate
-
-zzz
-
-/
-
-zzz
-
-Aspect
-
-of
-
-the
+Aspect of the
 
 Beast
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Anarch
+Night: Anarch
 
 Guide
 
-Animalism/Protean
+Animalism/Protean z
 
-z
-
-/
-
-zzzzz
+/ zzzzz
 
 Suck
 
@@ -4710,143 +3328,71 @@ It
 
 Up
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Anarch
+Night: Anarch
 
 Guide
 
-## Animalism/Vicissitude
+## Animalism/Vicissitude zzzzz
 
-zzzzz
+/ zzzzz
 
-z
-
-/
-
-zzzzz
-
-z
-
-Birth
-
-the
+Birth the
 
 Vozhd
 
-Clanbook:
+Clanbook: Tzimisce, Revised
 
-Tzimisce,
+Ed. ## Assamite Sorcery - Awakening of the Steel z
 
-Revised
-
-Ed.
-
-## Assamite Sorcery - Awakening of the Steel
-
-z
-
-Confer
-
-with
-
-the
+Confer with the
 
 Blade
 
-Clanbook:
+Clanbook: Assamite, Revised
 
-Assamite,
+Ed. zz
 
-Revised
-
-Ed.
-
-zz
-
-Grasp
-
-of
-
-the
+Grasp of the
 
 Mountain
 
-Clanbook:
+Clanbook: Assamite, Revised
 
-Assamite,
-
-Revised
-
-Ed.
-
-zzz
+Ed. zzz
 
 Pierce
 
 Steel
 
-ʹ
-
-s
+ʹ s
 
 Skin
 
-Clanbook:
+Clanbook: Assamite, Revised
 
-Assamite,
-
-Revised
-
-Ed.
-
-zzzz
+Ed. zzzz
 
 Razor
 
-ʹ
-
-s
+ʹ s
 
 Shield
 
-Clanbook:
+Clanbook: Assamite, Revised
 
-Assamite,
+Ed. zzzzz
 
-Revised
-
-Ed.
-
-zzzzz
-
-Strike
-
-at
-
-the
+Strike at the
 
 True
 
 Flesh
 
-Clanbook:
+Clanbook: Assamite, Revised
 
-Assamite,
-
-Revised
-
-Ed.
-
-## Auspex
-
-z
+Ed. ## Auspex z
 
 Heightened
 
@@ -4856,13 +3402,9 @@ Aura
 
 Perception zzz
 
-Spirit
+Spirit s
 
-s
-
-Touch,
-
-ʹ
+Touch, ʹ
 
 The zzzz
 
@@ -4870,9 +3412,7 @@ Telepathy zzzzz
 
 Psychic
 
-Projection zzzzz
-
-z
+Projection zzzzz z
 
 Babble
 
@@ -4880,37 +3420,23 @@ Clairvoyance
 
 Crocodile
 
-ʹ
-
-Tongue
-
-s
+Tongue s
 
 Prediction
 
-Sibyl
-
-s
+Sibyl s
 
 Tongue
 
-ʹ
+ʹ zzzzz zz
 
-zzzzz zz
+Anima Gathering Karmic Sight zzzzz zzz
 
-Anima Gathering Karmic Sight zzzzz
-
-zzz
-
-Call,
-
-The
+Call, The
 
 Psychic
 
-Assault zzzzz
-
-zzzz
+Assault zzzzz zzzz
 
 False
 
@@ -4934,33 +3460,15 @@ Clanbook: Malkavian, Revised Ed. 60 Laws of the Night: Camarilla Guide 45
 
 Laws of the Night: Camarilla Guide 46
 
-## Auspex/Celerity/Fortitude
+## Auspex/Celerity/for titude z
 
-z
-
-/
-
-/
-
-z
-
-z
+/ z
 
 Guardian Vigil
 
-## Auspex/Celerity/Obfuscate
+## Auspex/Celerity/Obfuscate zzz
 
-zzz
-
-/
-
-/
-
-z
-
-z
-
-Doubletalk
+/ z z do ubletalk
 
 Clanbook: Toreador, Revised Ed. 75
 
@@ -4970,43 +3478,25 @@ Level
 
 Discipline
 
-&amp;
+&amp; ## Auspex/Chimerstry zzzz
 
-## Auspex/Chimerstry
+/ zz
 
-zzzz
-
-/
-
-zz
-
-Heart
-
-s
-
-ʹ
+Heart s
 
 Desire
 
-## Auspex/Dementation
+## Auspex/Dementation z
 
-z
-
-/
-
-zz
+/ zz
 
 Sensory
 
 Overload
 
-## Auspex/Obfuscate
+## Auspex/Obfuscate zzzzz
 
-zzzzz
-
-/
-
-zzzzz
+/ zzzzz
 
 Smiling
 
@@ -5014,77 +3504,49 @@ Jack's
 
 Trick
 
-## Auspex/Presence
+## Auspex/Presence zzzz
 
-zzzz
-
-/
-
-zz
+/ zz
 
 Soul
 
 Painting
 
-## Auspex/Protean
+## Auspex/Protean zzzz
 
-zzzz
-
-/
-
-zzzz
+/ zzzz
 
 See the
 
-Reflected
+Reflected for m
 
-Form
+## Auspex/Thaumaturgy zz
 
-## Auspex/Thaumaturgy
-
-zz
-
-/
-
-z
+/ z
 
 Thaumaturgical
 
-## Celerity
-
-z
+## Celerity z
 
 Alacrity
 
-Laws of the Night 141
-
-zz
+Laws of the Night 141 zz
 
 Swiftness
 
-Laws of the Night 141
-
-zzz
+Laws of the Night 141 zzz
 
 Rapidity
 
-Laws of the Night 141
-
-zzzz
+Laws of the Night 141 zzzz
 
 Legerity
 
-Laws of the Night 141
-
-zzzzz
+Laws of the Night 141 zzzzz
 
 Fleetness
 
-Laws of the Night 141
-
-zzzzz
-
-z
+Laws of the Night 141 zzzzz
 
 Precision
 
@@ -5092,63 +3554,35 @@ Clanbook: Assamite, Revised Ed. 64 Laws of the Night: Camarilla Guide 46 Faith &
 
 Projectile
 
-Quickness
-
-zzzzz
-
-zz
+Quickness zzzzz zz
 
 Flower of Death Stutter - Step
 
-Laws of the Night: Camarilla Guide 47 Clanbook: Brujah, Revised Ed. 68
-
-zzzzz
-
-zzz
+Laws of the Night: Camarilla Guide 47 Clanbook: Brujah, Revised Ed. 68 zzzzz zzz
 
 Zephyr
 
-Laws of the Night: Camarilla Guide 47
-
-zzzzz
-
-zzzz
+Laws of the Night: Camarilla Guide 47 zzzzz zzzz
 
 Between the Ticks
 
 Laws of the Night: Camarilla Guide 48
 
-## Celerity/Fortitude
+## Celerity/for titude zz
 
-zz
+/ zz for ced March
 
-/
+Clanbook: Assamite, Revised Ed. 71 zzz
 
-zz
-
-Forced March
-
-Clanbook: Assamite, Revised Ed. 71
-
-zzz
-
-/
-
-zzzzz
-
-z
+/ zzzzz
 
 Seventh Chinese Brother
 
 Laws of the Night: Anarch Guide 62
 
-## Celerity/Obfuscate
+## Celerity/Obfuscate zz
 
-zz
-
-/
-
-zz
+/ zz
 
 Shadow Feint
 
@@ -5160,49 +3594,25 @@ Clanbook: Ravnos, Revised Ed. 68
 
 Laws
 
-Night:
-
-of
+Night: of
 
 Anarch the
 
 Guide
 
-Laws of
+Laws of the
 
-the
+Night: Anarch
 
-Night:
-
-Anarch
-
-Clanbook:
-
-Toreador,
-
-Clanbook:
-
-Guide
+Clanbook: Toreador, Clanbook: Guide
 
 Revised
 
-Gangrel,
-
-Clanbook:
-
-Tremere,
-
-Ed.
+Gangrel, Clanbook: Tremere, Ed. Revised
 
 Revised
 
-Revised
-
-Ed.
-
-Ed.
-
-Clanbook: Assamite, Revised Ed. 72
+Ed. Ed. Clanbook: Assamite, Revised Ed. 72
 
 Level &amp; Discipline
 
@@ -5224,33 +3634,23 @@ Clanbook: Brujah, Revised Ed. 66
 
 Laws of the Night: Anarch Guide 61
 
-## Chimerstry
-
-z
+## Chimerstry z
 
 Ignis Fatuus
 
-Laws of the Night 142
-
-zz
+Laws of the Night 142 zz
 
 Fata Morgana
 
-Laws of the Night 142
-
-zzz
+Laws of the Night 142 zzz
 
 Apparition
 
-Laws of the Night 143
-
-zzzz
+Laws of the Night 143 zzzz
 
 Permanency
 
-Laws of the Night 143
-
-zzzzz
+Laws of the Night 143 zzzzz
 
 Horrid Reality
 
@@ -5290,41 +3690,27 @@ Mayaparisatya
 
 Clanbook: Ravnos, Revised Ed. 65
 
-## Daimoinon
-
-z
+## Daimoinon z
 
 Sense the Sin
 
-Laws of the Night: Storyteller's Guide 22
-
-zz
+Laws of the Night: Storyteller's Guide 22 zz
 
 Fear of the Void Below
 
-Laws of the Night: Storyteller's Guide 22
-
-zzz
+Laws of the Night: Storyteller's Guide 22 zzz
 
 Conflagration
 
-Laws of the Night: Storyteller's Guide 23
-
-zzzz
+Laws of the Night: Storyteller's Guide 23 zzzz
 
 Psychomachia
 
-Laws of the Night: Storyteller's Guide 23
-
-zzzzz
+Laws of the Night: Storyteller's Guide 23 zzzzz
 
 Condemnation
 
-Laws of the Night: Storyteller's Guide 24
-
-zzzzz
-
-z
+Laws of the Night: Storyteller's Guide 24 zzzzz
 
 Concordance
 
@@ -5340,11 +3726,7 @@ Laws of the Night: Storyteller's Guide 25
 
 Contagion
 
-Laws of the Night: Storyteller's Guide 25
-
-zzzzz
-
-zzzz
+Laws of the Night: Storyteller's Guide 25 zzzzz zzzz
 
 Call the Great Beast
 
@@ -5354,15 +3736,11 @@ Level &amp; Discipline
 
 Title &amp; Page Number
 
-## Dark Thaumaturgy - The Fires of the Inferno
-
-z
+## Dark Thaumaturgy - The Fires of the Inferno z
 
 Flash Blind
 
-Laws of the Night: Sabbat Guide 100
-
-zz
+Laws of the Night: Sabbat Guide 100 zz
 
 Flame Lance
 
@@ -5378,29 +3756,21 @@ Laws of the Night: Sabbat Guide 100
 
 Incinerate
 
-Laws of the Night: Sabbat Guide 101
-
-zzzzz
+Laws of the Night: Sabbat Guide 101 zzzzz
 
 Furnaces of Hell
 
 Laws of the Night: Sabbat Guide 101
 
-## Dark Thaumaturgy - The Path of Phobos
-
-z
+## Dark Thaumaturgy - The Path of Phobos z
 
 Induce Fear
 
-Laws of the Night: Sabbat Guide 102
-
-zz
+Laws of the Night: Sabbat Guide 102 zz
 
 Spook
 
-Laws of the Night: Sabbat Guide 102
-
-zzz
+Laws of the Night: Sabbat Guide 102 zzz
 
 Terrorize
 
@@ -5418,33 +3788,23 @@ Leech of Fear
 
 Laws of the Night: Sabbat Guide 103
 
-## Dark Thaumaturgy - Taking of the Spirit
-
-z
+## Dark Thaumaturgy - Taking of the Spirit z
 
 Mind Leech
 
-Laws of the Night: Sabbat Guide 104
-
-zz
+Laws of the Night: Sabbat Guide 104 zz
 
 Stigmatize
 
-Laws of the Night: Sabbat Guide 104
-
-zzz
+Laws of the Night: Sabbat Guide 104 zzz
 
 Drain Resolve
 
-Laws of the Night: Sabbat Guide 104
-
-zzzz
+Laws of the Night: Sabbat Guide 104 zzzz
 
 Sap Will
 
-Laws of the Night: Sabbat Guide 104
-
-zzzzz
+Laws of the Night: Sabbat Guide 104 zzzzz
 
 The Gift of Servitude
 
@@ -5452,11 +3812,10 @@ Laws of the Night: Sabbat Guide 104
 
 ## Dark Thaumaturgical Rituals - Basic
 
-| Call Forth the Host   | Laws of the Night: Sabbat Guide 105   |
-|-----------------------|---------------------------------------|
-| Bind the Interloper   | Laws of the Night: Sabbat Guide 106   |
-| Curse of Oedipus      | Laws of the Night: Sabbat Guide 106   |
-| Video Nefas           | Laws of the Night: Sabbat Guide 106   |
+| Call for th the Host | Laws of the Night: Sabbat Guide 105 |
+| Bind the Interloper | Laws of the Night: Sabbat Guide 106 |
+| Curse of Oedipus | Laws of the Night: Sabbat Guide 106 |
+| Video Nefas | Laws of the Night: Sabbat Guide 106 |
 
 ## Dark Thaumaturgical Rituals - Intermediate
 
@@ -5464,7 +3823,7 @@ Felis Negrum
 
 Laws of the Night: Sabbat Guide 107
 
-Plague's Secret Domain
+Plague's Secret do main
 
 Laws of the Night: Sabbat Guide 107
 
@@ -5474,15 +3833,9 @@ Close the Ways
 
 Into the Abyss
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Sabbat
+Night: Sabbat
 
 Guide
 
@@ -5494,33 +3847,23 @@ Level &amp; Discipline
 
 Title &amp; Page Number
 
-## Dementation
-
-z
+## Dementation z
 
 Passion
 
-Laws of the Night 144
-
-zz
+Laws of the Night 144 zz
 
 Haunting, The
 
-Laws of the Night 144
-
-zzz
+Laws of the Night 144 zzz
 
 Eyes of Chaos
 
-Laws of the Night 145
-
-zzzz
+Laws of the Night 145 zzzz
 
 Voice of Madness
 
-Laws of the Night 145
-
-zzzzz
+Laws of the Night 145 zzzzz
 
 Total Insanity
 
@@ -5530,43 +3873,19 @@ Laws of the Night 146
 
 Babble Call, The Lingering Malaise Shattered Mirror
 
-Clanbook:
+Clanbook: Malkavian, Revised
 
-Malkavian,
+Ed. Clanbook: Malkavian, Revised
 
-Revised
+Ed. Laws of the
 
-Ed.
-
-Clanbook:
-
-Malkavian,
-
-Revised
-
-Ed.
-
-Laws
-
-of
-
-the
-
-Night:
-
-Sabbat
+Night: Sabbat
 
 Guide
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Sabbat
+Night: Sabbat
 
 Guide
 
@@ -5574,25 +3893,17 @@ Guide
 
 Childmind Restructure Sleep of Reason
 
-Clanbook: Malkavian, Revised Ed. 62 Laws of the Night: Sabbat Guide 110 Clanbook: Malkavian, Revised Ed. 63
-
-zzzzz
-
-zzz
+Clanbook: Malkavian, Revised Ed. 62 Laws of the Night: Sabbat Guide 110 Clanbook: Malkavian, Revised Ed. 63 zzzzz zzz
 
 Deny Personal Scourge
 
-Clanbook: Malkavian, Revised Ed. 63 Laws of the Night: Sabbat Guide 111
-
-zzzzz
-
-zzzz
+Clanbook: Malkavian, Revised Ed. 63 Laws of the Night: Sabbat Guide 111 zzzzz zzzz
 
 Lunatic Eruption
 
 Laws of the Night: Sabbat Guide 111
 
-## Dementation/Dominate
+## Dementation/do minate
 
 ## zzzz / zzzzz
 
@@ -5600,41 +3911,25 @@ Chaos Fold
 
 Laws of the Night: Anarch Guide 57
 
-## Dominate
-
-z
+## do minate z
 
 Command
 
-Laws of the Night 146
-
-zz
+Laws of the Night 146 zz
 
 Mesmerism
 
-Laws of the Night 146
+Laws of the Night 146 zzz for getful Mind
 
-zzz
-
-Forgetful Mind
-
-Laws of the Night 147
-
-zzzz
+Laws of the Night 147 zzzz
 
 Conditioning
 
-Laws of the Night 147
-
-zzzzz
+Laws of the Night 147 zzzzz
 
 Possession
 
-Laws of the Night 148
-
-zzzzz
-
-z
+Laws of the Night 148 zzzzz
 
 Chain the Psyche Loyalty Obedience Oberon ʹ s Grail
 
@@ -5642,43 +3937,23 @@ Laws of the Night: Camarilla Guide 49
 
 Laws of the Night: Camarilla Guide 49
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Camarilla
+Night: Camarilla
 
 Guide
 
-Clanbook: Tremere, Revised Ed. 48
-
-zzzzz
-
-zz
+Clanbook: Tremere, Revised Ed. 48 zzzzz zz
 
 Mass Manipulation Still the Mortal Flesh
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Camarilla
+Night: Camarilla
 
 Guide
 
-Laws of the Night: Camarilla Guide 50
-
-zzzzz
-
-zzz
+Laws of the Night: Camarilla Guide 50 zzzzz zzz
 
 Far
 
@@ -5692,13 +3967,13 @@ Speak Through the Blood
 
 Laws of the Night: Camarilla Guide 51
 
-## Dominate/Fortitude
+## do minate/for titude
 
 ## zzz / zzz
 
 Denial of Aphrodite ʹ s Favor Clanbook: Ventrue, Revised Ed. 77
 
-## Dominate/Obtenebration
+## do minate/Obtenebration
 
 ## zzz / zzz
 
@@ -5706,89 +3981,53 @@ Shroud of Absence
 
 Clanbook: Lasombra, Revised Ed. 72
 
-## Dominate/Presence
+## do minate/Presence z
 
-z
-
-/
-
-z
+/ z
 
 Lifesong
 
 Clanbook: Ventrue, Revised Ed. 77
 
-## Fortitude
-
-z
+## for titude z
 
 Endurance
 
-Laws of the Night 149
-
-zz
+Laws of the Night 149 zz
 
 Mettle
 
-Laws of the Night 149
-
-zzz
+Laws of the Night 149 zzz
 
 Resilience
 
-Laws of the Night 149
-
-zzzz
+Laws of the Night 149 zzzz
 
 Resistance
 
-Laws of the Night 149
-
-zzzzz
+Laws of the Night 149 zzzzz
 
 Aegis
 
-Laws of the Night 150
-
-zzzzz
-
-z
-
-Force Imperviousness Personal Armor Sensory Shield
+Laws of the Night 150 zzzzz z for ce Imperviousness Personal Armor Sensory Shield
 
 Faith
 
-&amp;
-
-Fire
+&amp; Fire
 
 Faith
 
-&amp;
+&amp; Fire
 
-Fire
+Laws of the
 
-Laws
-
-of
-
-the
-
-Night:
-
-Camarilla
+Night: Camarilla
 
 Guide
 
-Clanbook:
+Clanbook: Gangrel, Revised
 
-Gangrel,
-
-Revised
-
-Ed.
-
-## zzzzz zz
+Ed. ## zzzzz zz
 
 Curse the Laurel Resilient Mind Shared Strength
 
@@ -5800,11 +4039,7 @@ Adamantine
 
 Laws of the Night: Camarilla Guide 53 Clanbook: Gangrel, Revised Ed. 66
 
-King
-
-of
-
-the
+King of the
 
 Mountain
 
@@ -5814,43 +4049,31 @@ Juggernaut
 
 Laws of the Night: Camarilla Guide 53
 
-## Fortitude/Animalism
+## for titude/Animalism zzzz
 
-zzzz
-
-/
-
-zz
+/ zz
 
 Claw Immunity
 
 Clanbook: Gangrel, Revised Ed. 72
 
-## Fortitude/Chimerstry
+## for titude/Chimerstry zzzz
 
-zzzz
-
-/
-
-zz
+/ zz
 
 Sympathetic Agony
 
 Clanbook: Ravnos, Revised Ed. 67
 
-## Fortitude or Potence/Presence
+## for titude or Potence/Presence z
 
-z
-
-/
-
-zz
+/ zz
 
 Give 'Em Hell
 
 Laws of the Night: Anarch Guide 58
 
-## Fortitude/Presence
+## for titude/Presence
 
 ## zzzzz / zzz
 
@@ -5858,13 +4081,9 @@ King of the Hill
 
 Laws of the Night: Anarch Guide 59
 
-## Fortitude/Protean
+## for titude/Protean z
 
-z
-
-/
-
-zzzz
+/ zzzz
 
 Badger's Hide
 
@@ -5882,202 +4101,151 @@ Faith &amp; Fire 219
 
 Faith &amp; Fire 220
 
-| Level &Discipline                                                    | Title &Page Number                                                   | Level &Discipline                            | Title &Page Number                          |
-|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------|---------------------------------------------|
-| Gargoyle Thaumaturgical Rituals - Intermediate                       | Gargoyle Thaumaturgical Rituals - Intermediate                       | Mortis - The Four Humours                    |                                             |
-| Defender of the Haven                                                | Faith &Fire 220 Faith &Fire 220                                      | z Whispers to the Soul                       | Faith &Fire 179                             |
-| Rite of the Sorcerous Shield Infusion of Earth                       | Faith &Fire 220                                                      | zz Kiss of the Dark Mother                   | Faith &Fire 179                             |
-| Gargoyle Thaumaturgical Rituals - Advanced                           | Gargoyle Thaumaturgical Rituals - Advanced                           | zzz Dark Humours                             |                                             |
-| Transform the Skin to Stone                                          | Faith &Fire 221                                                      | zzzz                                         | Faith &Fire 180                             |
-| Heart of Granite                                                     | Faith &Fire 221                                                      | Clutching the Shroud                         | Faith &Fire 180                             |
-| Gift of the Immobile Form                                            | Faith &Fire 221                                                      | zzzzz Black Breath                           | Faith &Fire 180                             |
-| Koldunic Sorcery - The Way of Sorrow z                               | Koldunic Sorcery - The Way of Sorrow z                               | Mortis - The Grave's Decay                   |                                             |
-| Frustrations of Nestrecha, The Clanbook: Tzimisce, Revised Ed. 64 zz | Frustrations of Nestrecha, The Clanbook: Tzimisce, Revised Ed. 64 zz | z Destroy the Husk                           | Faith &Fire 173                             |
-| Insults of Krivda, The Clanbook: Tzimisce, Revised Ed. 66 zzz        | Insults of Krivda, The Clanbook: Tzimisce, Revised Ed. 66 zzz        | zz Rigor Mortis zzz                          | Faith &Fire 173                             |
-| Weeping of Kruchina, The Clanbook: Tzimisce, Revised Ed. 66 zzzz     | Weeping of Kruchina, The Clanbook: Tzimisce, Revised Ed. 66 zzzz     | Wither                                       | Faith &Fire 174                             |
-| Misfortune of Chernogolov, The Clanbook: Tzimisce, Revised Ed. 66    | Misfortune of Chernogolov, The Clanbook: Tzimisce, Revised Ed. 66    | zzzz Corrupt the Undead Flesh                | Faith &Fire 174                             |
-| zzzzz Starvation of Marena, The Clanbook: Tzimisce, Revised Ed. 67   | zzzzz Starvation of Marena, The Clanbook: Tzimisce, Revised Ed. 67   | zzzzz Dissolve the Flesh                     | Faith &Fire 174                             |
-| Melpominee                                                           | Melpominee                                                           | Mortis Rituals - Basic                       |                                             |
-| z                                                                    | z                                                                    | Final Sight                                  | Faith &Fire 181                             |
-| Missing Voice, The Laws of the Night 150                             | Missing Voice, The Laws of the Night 150                             | Revivify the Cold Vitae                      | Faith &Fire 181                             |
-| zz Phantom Speaker Laws of the Night 151                             | zz Phantom Speaker Laws of the Night 151                             | Eyes of the Grave                            | Faith &Fire 181                             |
-| zzz Madrigal Laws of the Night 151 zzzz                              | zzz Madrigal Laws of the Night 151 zzzz                              | Advanced Shroud                              |                                             |
-|                                                                      |                                                                      | Mortis Rituals - Walk Through the            | Faith &Fire 182                             |
-|                                                                      | Laws of the Night 151                                                | Mytherceria z Folderol                       | Laws of the Night: Sabbat Guide 112         |
-|                                                                      | Camarilla Guide 54                                                   | zz Fae Sight                                 | Laws of the Night: Sabbat Guide 112         |
-| zzzzz zz Persistent Echo Laws of the Night: Camarilla Guide 54       | zzzzz zz Persistent Echo Laws of the Night: Camarilla Guide 54       | zzz                                          | Laws of the Night: Sabbat Guide 112         |
-| Mortis - Cadaverous Animation z                                      | Faith &Fire 177                                                      | Aura Absorption zzzz Chanjelin Ward zzzzz    | Laws of the Night: Sabbat Guide 113         |
-| zz Call the Homuncular Servant Faith &Fire 177                       | zz Call the Homuncular Servant Faith &Fire 177                       | zzzzz z Steal the Mind zzzzz zz              | Laws of the Night: Sabbat Guide 114         |
-| zzz Raise the Corpse to Service Faith &Fire 178                      | zzz Raise the Corpse to Service Faith &Fire 178                      | Absorb the Mind                              | Laws of the Night: Sabbat Guide 114         |
-| zzzz                                                                 | zzzz                                                                 | zzzzz zzz                                    |                                             |
-| Call the Athanatos Faith &Fire 178                                   | Call the Athanatos Faith &Fire 178                                   | The Grandest Trick                           | Laws of the Night: Sabbat Guide 114         |
-| zzzzz Muster the Corpse Army Faith &Fire 179                         | zzzzz Muster the Corpse Army Faith &Fire 179                         | zzzzz Muster the Corpse Army Faith &Fire 179 |                                             |
-|                                                                      |                                                                      | Necromancy - The Ash Path                    |                                             |
-| Mortis - The Corpse in the Monster z                                 | Faith &Fire 175                                                      | z Shroudsight zz Lifeless Tongues            | Laws of the Night 154 Laws of the Night 154 |
-|                                                                      | Faith &Fire 175                                                      | zzz Dead Hand zzzz                           | Laws of the Night 154                       |
-| zzz Curse of Life Faith &Fire 176 zzzz                               | zzz Curse of Life Faith &Fire 176 zzzz                               | Ex Nihilo zzzzz                              | Laws of the Night 154                       |
-| Gift of the Corpse Faith &Fire 176                                   | Gift of the Corpse Faith &Fire 176                                   | Shroud Mastery                               | Laws of the Night 155                       |
-| zzzzz Gift of Life Faith &Fire 176                                   | zzzzz Gift of Life Faith &Fire 176                                   | zzzzz Gift of Life Faith &Fire 176           |                                             |
+| Level &Discipline | Title &Page Number | Level &Discipline | Title &Page Number |
+| Gargoyle Thaumaturgical Rituals - Intermediate | Gargoyle Thaumaturgical Rituals - Intermediate | Mortis - The Four Humours | |
+| Defender of the have n | Faith &Fire 220 Faith &Fire 220 | z Whispers to the Soul | Faith &Fire 179 |
+| Rite of the Sorcerous Shield Infusion of Earth | Faith &Fire 220 | zz Kiss of the Dark Mother | Faith &Fire 179 |
+| Gargoyle Thaumaturgical Rituals - Advanced | Gargoyle Thaumaturgical Rituals - Advanced | zzz Dark Humours | |
+| Transform the Skin to Stone | Faith &Fire 221 | zzzz | Faith &Fire 180 |
+| Heart of Granite | Faith &Fire 221 | Clutching the Shroud | Faith &Fire 180 |
+| Gift of the Immobile for m | Faith &Fire 221 | zzzzz Black Breath | Faith &Fire 180 |
+| Koldunic Sorcery - The Way of Sorrow z | Koldunic Sorcery - The Way of Sorrow z | Mortis - The Grave's Decay | |
+| Frustrations of Nestrecha, The Clanbook: Tzimisce, Revised Ed. 64 zz | Frustrations of Nestrecha, The Clanbook: Tzimisce, Revised Ed. 64 zz | z Destroy the Husk | Faith &Fire 173 |
+| Insults of Krivda, The Clanbook: Tzimisce, Revised Ed. 66 zzz | Insults of Krivda, The Clanbook: Tzimisce, Revised Ed. 66 zzz | zz Rigor Mortis zzz | Faith &Fire 173 |
+| Weeping of Kruchina, The Clanbook: Tzimisce, Revised Ed. 66 zzzz | Weeping of Kruchina, The Clanbook: Tzimisce, Revised Ed. 66 zzzz | with er | Faith &Fire 174 |
+| Misfortune of Chernogolov, The Clanbook: Tzimisce, Revised Ed. 66 | Misfortune of Chernogolov, The Clanbook: Tzimisce, Revised Ed. 66 | zzzz Corrupt the Undead Flesh | Faith &Fire 174 |
+| zzzzz Starvation of Marena, The Clanbook: Tzimisce, Revised Ed. 67 | zzzzz Starvation of Marena, The Clanbook: Tzimisce, Revised Ed. 67 | zzzzz Dissolve the Flesh | Faith &Fire 174 |
+| Melpominee | Melpominee | Mortis Rituals - Basic | |
+| z | z | Final Sight | Faith &Fire 181 |
+| Missing Voice, The Laws of the Night 150 | Missing Voice, The Laws of the Night 150 | Revivify the Cold Vitae | Faith &Fire 181 |
+| zz Phantom Speaker Laws of the Night 151 | zz Phantom Speaker Laws of the Night 151 | Eyes of the Grave | Faith &Fire 181 |
+| zzz Madrigal Laws of the Night 151 zzzz | zzz Madrigal Laws of the Night 151 zzzz | Advanced Shroud | |
+| | | Mortis Rituals - Walk Through the | Faith &Fire 182 |
+| | Laws of the Night 151 | Mytherceria z Folderol | Laws of the Night: Sabbat Guide 112 |
+| | Camarilla Guide 54 | zz Fae Sight | Laws of the Night: Sabbat Guide 112 |
+| zzzzz zz Persistent Echo Laws of the Night: Camarilla Guide 54 | zzzzz zz Persistent Echo Laws of the Night: Camarilla Guide 54 | zzz | Laws of the Night: Sabbat Guide 112 |
+| Mortis - Cadaverous Animation z | Faith &Fire 177 | Aura Absorption zzzz Chanjelin Ward zzzzz | Laws of the Night: Sabbat Guide 113 |
+| zz Call the Homuncular Servant Faith &Fire 177 | zz Call the Homuncular Servant Faith &Fire 177 | zzzzz z Steal the Mind zzzzz zz | Laws of the Night: Sabbat Guide 114 |
+| zzz Raise the Corpse to Service Faith &Fire 178 | zzz Raise the Corpse to Service Faith &Fire 178 | Absorb the Mind | Laws of the Night: Sabbat Guide 114 |
+| zzzz | zzzz | zzzzz zzz | |
+| Call the Athanatos Faith &Fire 178 | Call the Athanatos Faith &Fire 178 | The Grandest Trick | Laws of the Night: Sabbat Guide 114 |
+| zzzzz Muster the Corpse Army Faith &Fire 179 | zzzzz Muster the Corpse Army Faith &Fire 179 | zzzzz Muster the Corpse Army Faith &Fire 179 | |
+| | | Necromancy - The Ash Path | |
+| Mortis - The Corpse in the Monster z | Faith &Fire 175 | z Shroudsight zz Lifeless Tongues | Laws of the Night 154 Laws of the Night 154 |
+| | Faith &Fire 175 | zzz Dead Hand zzzz | Laws of the Night 154 |
+| zzz Curse of Life Faith &Fire 176 zzzz | zzz Curse of Life Faith &Fire 176 zzzz | Ex Nihilo zzzzz | Laws of the Night 154 |
+| Gift of the Corpse Faith &Fire 176 | Gift of the Corpse Faith &Fire 176 | Shroud Mastery | Laws of the Night 155 |
+| zzzzz Gift of Life Faith &Fire 176 | zzzzz Gift of Life Faith &Fire 176 | zzzzz Gift of Life Faith &Fire 176 | |
 
 Level &amp; Discipline
 
 ## Title &amp; Page Number
 
-## Necromancy - The Bone Path
-
-z
+## Necromancy - The Bone Path z
 
 Tremens
 
-Laws of the Night 155
-
-zz
+Laws of the Night 155 zz
 
 Apprentice's Brooms
 
-Laws of the Night 155
-
-zzz
+Laws of the Night 155 zzz
 
 Shambling Hordes
 
-Laws of the Night 156
-
-zzzz
+Laws of the Night 156 zzzz
 
 Soul Stealing
 
-Laws of the Night 156
-
-zzzzz
+Laws of the Night 156 zzzzz
 
 Daemonic Possession
 
 Laws of the Night 156
 
-## Necromancy - The Cenotaph Path
-
-z
+## Necromancy - The Cenotaph Path z
 
 A Touch of Death
 
-Clanbook: Giovanni, Revised Ed. 68
-
-zz
+Clanbook: Giovanni, Revised Ed. 68 zz
 
 Reveal the Catene
 
-Clanbook: Giovanni, Revised Ed. 68
-
-zzz
+Clanbook: Giovanni, Revised Ed. 68 zzz
 
 Tread Upon the Grave
 
-Clanbook: Giovanni, Revised Ed. 69
-
-zzzz
+Clanbook: Giovanni, Revised Ed. 69 zzzz
 
 Death Knell
 
-Clanbook: Giovanni, Revised Ed. 69
-
-zzzzz
+Clanbook: Giovanni, Revised Ed. 69 zzzzz
 
 Ephemeral Binding
 
 Clanbook: Giovanni, Revised Ed. 70
 
-## Necromancy - The Mortuus Path
-
-z
+## Necromancy - The Mortuus Path z
 
 Reaper's Shroud
 
-Laws of the Night: Sabbat Guide 116
-
-zz
+Laws of the Night: Sabbat Guide 116 zz
 
 Blight
 
-Laws of the Night: Sabbat Guide 116
-
-zzz
+Laws of the Night: Sabbat Guide 116 zzz
 
 Resume the Coil
 
-Laws of the Night: Sabbat Guide 117
-
-zzzz
+Laws of the Night: Sabbat Guide 117 zzzz
 
 True Death
 
-Laws of the Night: Sabbat Guide 117
-
-zzzzz
+Laws of the Night: Sabbat Guide 117 zzzzz
 
 Mercy for Seth
 
 Laws of the Night: Sabbat Guide 118
 
-## Necromancy - The Sepulchre Path
-
-z
+## Necromancy - The Sepulchre Path z
 
 Insight
 
-Laws of the Night 152
-
-zz
+Laws of the Night 152 zz
 
 Summon Soul
 
-Laws of the Night 152
-
-zzz
+Laws of the Night 152 zzz
 
 Compel Soul
 
-Laws of the Night 153
-
-zzzz
+Laws of the Night 153 zzzz
 
 Haunting
 
-Laws of the Night 153
-
-zzzzz
+Laws of the Night 153 zzzzz
 
 Torment
 
 Laws of the Night 153
 
-## Necromancy - Vitreous Path
-
-z
+## Necromancy - Vitreous Path z
 
 Eyes of the Dead
 
-Laws of the Night: Storyteller Guide 27
-
-zz
+Laws of the Night: Storyteller Guide 27 zz
 
 Hour of Death
 
-Laws of the Night: Storyteller Guide 28
-
-zzz
+Laws of the Night: Storyteller Guide 28 zzz
 
 Soul Judgement
 
-Laws of the Night: Storyteller Guide 28
+Laws of the Night: Storyteller Guide 28 zzzz
 
-zzzz
+Breath of than atos
 
-Breath of Thanatos
-
-Laws of the Night: Storyteller Guide 29
-
-zzzzz
+Laws of the Night: Storyteller Guide 29 zzzzz
 
 Soul Feasting
 
@@ -6127,11 +4295,7 @@ Laws of the Night: Sabbat Guide 119
 
 Ritual of the Unearthed Fetter
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
@@ -6139,15 +4303,9 @@ Night
 
 Chill of Oblivion
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Sabbat
+Night: Sabbat
 
 Guide
 
@@ -6155,65 +4313,39 @@ Grasp the Ghostly
 
 Laws of the Night 158
 
-## Obeah
-
-z
+## Obeah z
 
 Sense Vitality
 
-Laws of the Night 158
-
-zz
+Laws of the Night 158 zz
 
 Anesthetic Touch
 
-Laws of the Night 159
-
-zzz
+Laws of the Night 159 zzz
 
 Corpore Sano
 
-Laws of the Night 159
-
-zzzz
+Laws of the Night 159 zzzz
 
 Mens Sana
 
-Laws of the Night 159
-
-zzzzz
+Laws of the Night 159 zzzzz
 
 Unburdening the Bestial Soul
 
-Laws of the Night 160
-
-zzzzz
-
-z
+Laws of the Night 160 zzzzz
 
 Renewed Vigor
 
-Laws of the Night: Camarilla Guide 55
-
-zzzzz
-
-zz
+Laws of the Night: Camarilla Guide 55 zzzzz zz
 
 Safe Passage
 
-Laws of the Night: Camarilla Guide 55
-
-zzzzz
-
-zzz
+Laws of the Night: Camarilla Guide 55 zzzzz zzz
 
 Purification
 
-Laws of the Night: Camarilla Guide 56
-
-zzzzz
-
-zzzz
+Laws of the Night: Camarilla Guide 56 zzzzz zzzz
 
 Unbind the Flesh - Clad Soul
 
@@ -6225,199 +4357,107 @@ Title &amp; Page Number
 
 ## Title &amp; Page Number
 
-## Obfuscate
-
-z
+## Obfuscate z
 
 Cloak of Shadows
 
-Laws of the Night 161
-
-zz
+Laws of the Night 161 zz
 
 Unseen
 
 Presence
 
-Laws of the Night 161
-
-zzz
+Laws of the Night 161 zzz
 
 Mask of a Thousand Faces
 
-Laws of the Night 162
+Laws of the Night 162 zzzz
 
-zzzz
-
-Vanish
-
-from
-
-the
+Vanish from the
 
 Mind
 
-ʹ
-
-s
+ʹ s
 
 Eye
 
-Laws of the Night 162
+Laws of the Night 162 zzzzz
 
-zzzzz
-
-Cloak
-
-the
+Cloak the
 
 Gathering
 
-Laws of the Night 163
-
-zzzzz
-
-z
+Laws of the Night 163 zzzzz
 
 Blithe
 
 Acceptance
 
-Clanbook:
+Clanbook: Assamite, Revised
 
-Assamite,
+Ed. Conceal
 
-Revised
+Laws of the
 
-Ed.
-
-Conceal
-
-Laws
-
-of
-
-the
-
-Night:
-
-Camarilla
+Night: Camarilla
 
 Guide
 
-Confusion
-
-of
-
-the
+Confusion of the
 
 Eye
 
-Clanbook:
+Clanbook: Followers of
 
-Followers
+Set, Revised
 
-of
-
-Set,
-
-Revised
-
-Ed.
-
-Mental
+Ed. Mental
 
 Maze
 
-Clanbook:
+Clanbook: Followers of
 
-Followers
+Set, Revised
 
-of
-
-Set,
-
-Revised
-
-Ed.
-
-Mind
+Ed. Mind
 
 Blank
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Camarilla
+Night: Camarilla
 
 Guide
 
 Scrawl
 
-Clanbook:
+Clanbook: Malkavian, Revised
 
-Malkavian,
-
-Revised
-
-Ed.
-
-Soul
+Ed. Soul
 
 Mask
 
-Laws
+Laws of the
 
-of
+Night: Camarilla
 
-the
-
-Night:
-
-Camarilla
-
-Guide
-
-zzzzz
-
-zz
+Guide zzzzz zz
 
 Cache
 
-Laws
+Laws of the
 
-of
+Night: Camarilla
 
-the
-
-Night:
-
-Camarilla
-
-Guide
-
-zzzzz
-
-zzz
+Guide zzzzz zzz
 
 Old
 
 Friend
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Camarilla
+Night: Camarilla
 
 Guide
 
@@ -6425,189 +4465,107 @@ Phantom
 
 Haunter
 
-Clanbook:
+Clanbook: Malkavian, Revised
 
-Malkavian,
-
-Revised
-
-Ed.
-
-zzzzz
-
-zzzz
+Ed. zzzzz zzzz
 
 Create
 
 Name
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Camarilla
+Night: Camarilla
 
 Guide
 
-## Obfuscate/Fortitude
+## Obfuscate/for titude zzz
 
-zzz
-
-/
-
-zz
+/ zz
 
 Flesh Wound
 
-Clanbook:
+Clanbook: Gangrel, Revised
 
-Gangrel,
+Ed. ## Obfuscate/Obtenebration zz
 
-Revised
-
-Ed.
-
-## Obfuscate/Obtenebration
-
-zz
-
-/
-
-z
+/ z
 
 Tenebrous Veil
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Anarch
+Night: Anarch
 
 Guide
 
-## Obfuscate/Presence
+## Obfuscate/Presence zzz
 
-zzz
-
-/
-
-zzz
+/ zzz
 
 True
 
 Love
 
-ʹ
-
-s
+ʹ s
 
 Face
 
-Clanbook:
+Clanbook: Followers of
 
-Followers
+Set, Revised
 
-of
+Ed. zzzzz
 
-Set,
-
-Revised
-
-Ed.
-
-zzzzz
-
-/
-
-zzz
+/ zzz
 
 Memory Rift
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Anarch
+Night: Anarch
 
 Guide
 
-## Obtenebration
-
-z
+## Obtenebration z
 
 Shadow
 
 Play
 
-Laws of the Night 163
-
-zz
+Laws of the Night 163 zz
 
 Shroud of Night
 
-Laws of the Night 164
-
-zzz
+Laws of the Night 164 zzz
 
 Arms of the Abyss
 
-Laws of the Night 164
-
-zzzz
+Laws of the Night 164 zzzz
 
 Black Metamorphosis
 
-Laws of the Night 165
+Laws of the Night 165 zzzzz
 
-zzzzz
+Tenebrous for m
 
-Tenebrous Form
+Laws of the Night 165 zzzzz
 
-Laws of the Night 165
-
-zzzzz
-
-z
-
-The Darkness Within Shadowstep
+The Darkness with in Shadowstep
 
 Laws of the Night: Sabbat Guide 120
 
-Laws of the Night: Sabbat Guide 120
-
-zzzzz
-
-zz
+Laws of the Night: Sabbat Guide 120 zzzzz zz
 
 Shadow
 
 Twin
 
-Laws of the Night: Sabbat Guide 121
-
-zzzzz
-
-zzz
+Laws of the Night: Sabbat Guide 121 zzzzz zzz
 
 Oubliette
 
-Laws of the Night: Sabbat Guide 121
-
-zzzzz
-
-zzzz
+Laws of the Night: Sabbat Guide 121 zzzzz zzzz
 
 Ahriman's Demense
 
@@ -6615,301 +4573,163 @@ Laws of the Night: Sabbat Guide 122
 
 ## Level &amp; Discipline
 
-## Ogham
-
-z
+## Ogham z
 
 Consecrate the Grove
 
-Faith &amp; Fire 187
-
-zz
+Faith &amp; Fire 187 zz
 
 Crimson Woad
 
-Faith &amp; Fire 187
+Faith &amp; Fire 187 zzz
 
-zzz
-
-Inscribe
-
-the
+Inscribe the
 
 Curse
 
-Faith &amp; Fire 188
-
-zzzz
+Faith &amp; Fire 188 zzzz
 
 Moon and Sun
 
-Faith &amp; Fire 188
-
-zzzzz
+Faith &amp; Fire 188 zzzzz
 
 Drink Dry the Earth
 
-Faith &amp; Fire 188
+Faith &amp; Fire 188 zzzzz
 
-zzzzz
-
-z
-
-Inscribe the Forgotten Names
+Inscribe the for gotten Names
 
 Faith &amp; Fire 189
 
-## Potence
-
-z
+## Potence z
 
 Prowess
 
-Laws of the Night 166
-
-zz
+Laws of the Night 166 zz
 
 Might
 
-Laws of the Night 166
-
-zzz
+Laws of the Night 166 zzz
 
 Vigor
 
-Laws of the Night 166
-
-zzzz
+Laws of the Night 166 zzzz
 
 Intensity
 
-Laws of the Night 166
-
-zzzzz
+Laws of the Night 166 zzzzz
 
 Puissance
 
-Laws of the Night 167
-
-zzzzz
-
-z
+Laws of the Night 167 zzzzz
 
 Gentle Rebuke, The Imprint Relentless Pursuit
 
-Clanbook:
+Clanbook: Brujah, Revised
 
-Brujah,
+Ed. Laws of the
 
-Revised
-
-Ed.
-
-Laws
-
-of
-
-the
-
-Night:
-
-Camarilla
+Night: Camarilla
 
 Guide
 
-Clanbook:
+Clanbook: Brujah, Revised
 
-Brujah,
-
-Revised
-
-Ed.
-
-zzzzz
-
-zz
+Ed. zzzzz zz
 
 Earthshock
 
-Laws
+Laws of the
 
-of
+Night: Camarilla
 
-the
-
-Night:
-
-Camarilla
-
-Guide
-
-zzzzz
-
-zzz
+Guide zzzzz zzz
 
 Flick
 
-Laws of the Night: Camarilla Guide 60
-
-zzzzz
-
-zzzz
+Laws of the Night: Camarilla Guide 60 zzzzz zzzz
 
 Destruction
 
 Laws of the Night: Camarilla Guide 61
 
-## Potence/Auspex
+## Potence/Auspex zzz
 
-zzz
-
-/
-
-z
+/ z
 
 Pulse of Undeath
 
-Clanbook:
+Clanbook: Brujah, Revised
 
-Brujah,
+Ed. ## Potence/Presence zzz
 
-Revised
-
-Ed.
-
-## Potence/Presence
-
-zzz
-
-/
-
-zzz
+/ zzz
 
 Iron Heart
 
-Clanbook:
+Clanbook: Brujah, Revised
 
-Brujah,
-
-Revised
-
-Ed.
-
-Title &amp; Page Number
+Ed. Title &amp; Page Number
 
 ## Level &amp; Discipline
 
 ## Title &amp; Page Number
 
-## Presence
-
-z
+## Presence z
 
 Awe
 
-Laws of the Night 167
-
-zz
+Laws of the Night 167 zz
 
 Dread Gaze
 
-Laws of the Night 167
-
-zzz
+Laws of the Night 167 zzz
 
 Entrancement
 
-Laws of the Night 168
-
-zzzz
+Laws of the Night 168 zzzz
 
 Summon
 
-Laws of the Night 168
-
-zzzzz
+Laws of the Night 168 zzzzz
 
 Majesty
 
-Laws of the Night 168
-
-zzzzz
-
-z
+Laws of the Night 168 zzzzz
 
 Absent Sway Love Paralyzing Glance Spark of Rage Temptation
 
-Clanbook:
+Clanbook: Toreador, Revised
 
-Toreador,
+Ed. Laws of the
 
-Revised
-
-Ed.
-
-Laws
-
-of
-
-the
-
-Night:
-
-Camarilla
+Night: Camarilla
 
 Guide
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Camarilla
+Night: Camarilla
 
 Guide
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Camarilla
+Night: Camarilla
 
 Guide
 
-Clanbook:
+Clanbook: Followers of
 
-Followers
+Set, Revised
 
-of
-
-Set,
-
-Revised
-
-Ed.
-
-zzzzz
-
-zz
+Ed. zzzzz zz
 
 Cooperation
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Camarilla
+Night: Camarilla
 
 Guide
 
@@ -6919,53 +4739,27 @@ Knows
 
 Best
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Camarilla
+Night: Camarilla
 
 Guide
 
 Phobia
 
-Clanbook:
+Clanbook: Followers of
 
-Followers
+Set, Revised
 
-of
-
-Set,
-
-Revised
-
-Ed.
-
-Scourging
-
-the
+Ed. Scourging the
 
 Instinct
 
-Laws
+Laws of the
 
-of
+Night: Anarch
 
-the
-
-Night:
-
-Anarch
-
-Guide
-
-zzzzz
-
-zzz
+Guide zzzzz zzz
 
 Corruption
 
@@ -6973,109 +4767,61 @@ Clanbook: Followers of Set, Revised Ed. 69 Laws of the Night: Camarilla Guide 64
 
 Ironclad
 
-Command
+Command zzzzz zzzz
 
-zzzzz
-
-zzzz
-
-Pulse
-
-of
-
-the
+Pulse of the
 
 City
 
 Laws of the Night: Camarilla Guide 64
 
-## Presence/Dominate
+## Presence/do minate zzz
 
-zzz
-
-/
-
-zz
+/ zz
 
 Bliss
 
 Clanbook: Toreador, Revised Ed. 73
 
-## Protean
-
-z
+## Protean z
 
 Eyes of the Beast
 
-Laws of the Night 169
-
-zz
+Laws of the Night 169 zz
 
 Feral Claws
 
-Laws of the Night 169
-
-zzz
+Laws of the Night 169 zzz
 
 Earth Meld
 
-Laws of the Night 169
+Laws of the Night 169 zzzz
 
-zzzz
-
-Shape
-
-of
-
-the
+Shape of the
 
 Beast
 
-Laws of the Night 170
+Laws of the Night 170 zzzzz
 
-zzzzz
+Mist for rm
 
-Mist
-
-Forrm
-
-Laws of the Night 170
-
-zzzzz
-
-z
+Laws of the Night 170 zzzzz
 
 Earth Control Flesh of Marble Shape Mastery
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Camarilla
+Night: Camarilla
 
 Guide
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Camarilla
+Night: Camarilla
 
 Guide
 
-Clanbook: Gangrel, Revised Ed. 69
-
-zzzzz
-
-zz
+Clanbook: Gangrel, Revised Ed. 69 zzzzz zz
 
 Animal
 
@@ -7083,23 +4829,15 @@ Swarm
 
 Clanbook: Gangrel, Revised Ed. 70
 
-Restore
-
-the
+Restore the
 
 Mortal
 
 Visage
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Camarilla
+Night: Camarilla
 
 Guide
 
@@ -7107,21 +4845,13 @@ Shape of the Beast's Wrath
 
 Laws of the Night: Camarilla Guide 66 Laws of the Night: Camarilla Guide 67 Laws of the Night: Anarch Guide 69
 
-Spectral Body Turnabout
+Spectral Body Turnabout zzzzz zzz
 
-zzzzz
-
-zzz
-
-Mythic Form Purify the Impaled Beast
+Mythic for m Purify the Impaled Beast
 
 Clanbook: Gangrel, Revised Ed. 71
 
-Laws of the Night: Camarilla Guide 67
-
-zzzzz
-
-zzzz
+Laws of the Night: Camarilla Guide 67 zzzzz zzzz
 
 Inward Focus
 
@@ -7135,183 +4865,89 @@ Level &amp; Discipline
 
 Beast Meld
 
-Clanbook:
+Clanbook: Gangrel, Revised
 
-Gangrel,
+Ed. ## Protean/Vicissitude zzzz
 
-Revised
-
-Ed.
-
-## Protean/Vicissitude
-
-zzzz
-
-/
-
-zzz
+/ zzz
 
 Pater Szlachta
 
-Clanbook:
+Clanbook: Tzimisce, Revised
 
-Tzimisce,
-
-Revised
-
-Ed.
-
-## Quietus
-
-z
+Ed. ## Quietus z
 
 Silence of Death
 
-Laws of the Night 171
-
-zz
+Laws of the Night 171 zz
 
 Scorpion ʹ s Touch
 
-Laws of the Night 171
-
-zzz
+Laws of the Night 171 zzz
 
 Dagon ʹ s Call
 
-Laws of the Night 172
-
-zzzz
+Laws of the Night 172 zzzz
 
 Baal ʹ s Caress
 
-Laws
+Laws of the
 
-of
+Night zzzzz
 
-the
-
-Night
-
-zzzzz
-
-Taste
-
-of
+Taste of
 
 Death
 
-Laws of the Night 172
-
-zzzzz
-
-z
+Laws of the Night 172 zzzzz
 
 Blood Sweat Purification Ripples of the Heart Selective Silence
 
-Clanbook:
+Clanbook: Assamite, Revised
 
-Assamite,
+Ed. Clanbook: Assamite, Revised
 
-Revised
+Ed. Clanbook: Assamite, Revised
 
-Ed.
+Ed. Clanbook: Assamite, Revised
 
-Clanbook:
-
-Assamite,
-
-Revised
-
-Ed.
-
-Clanbook:
-
-Assamite,
-
-Revised
-
-Ed.
-
-Clanbook:
-
-Assamite,
-
-Revised
-
-Ed.
-
-zzzzz
-
-zz
+Ed. zzzzz zz
 
 Baal ʹ s Bloody Talons Poison the Well of Life
 
-Clanbook:
+Clanbook: Assamite, Revised
 
-Assamite,
+Ed. Clanbook: Assamite, Revised
 
-Revised
-
-Ed.
-
-Clanbook:
-
-Assamite,
-
-Revised
-
-Ed.
-
-zzzzz
-
-zzz
+Ed. zzzzz zzz
 
 Songs of Distant Vitae
 
-Clanbook:
+Clanbook: Assamite, Revised
 
-Assamite,
-
-Revised
-
-Ed.
-
-zzzzz
-
-zzzz
+Ed. zzzzz zzzz
 
 Condemn the Sins of the Father
 
 Clanbook: Assamite, Revised Ed. 71
 
-## Sanguinus
-
-z
+## Sanguinus z
 
 Brother's Blood
 
-Laws of the Night: Sabbat Guide 122
-
-zz
+Laws of the Night: Sabbat Guide 122 zz
 
 Octopod
 
-Laws of the Night: Sabbat Guide 123
-
-zzz
+Laws of the Night: Sabbat Guide 123 zzz
 
 Gestalt
 
-Laws of the Night: Sabbat Guide 123
-
-zzzz
+Laws of the Night: Sabbat Guide 123 zzzz
 
 Walk of Caine
 
-Laws of the Night: Sabbat Guide 124
-
-zzzzz
+Laws of the Night: Sabbat Guide 124 zzzzz
 
 Coagulated Entity
 
@@ -7321,33 +4957,21 @@ Title &amp; Page Number
 
 Level &amp; Discipline
 
-## Serpentis
-
-z
+## Serpentis z
 
 Eyes of the Serpent, The
 
-Laws of the Night 173
-
-zz
+Laws of the Night 173 zz
 
 Tongue of the Asp, The
 
-Laws of the Night 173
-
-zzz
+Laws of the Night 173 zzz
 
 Skin of the Adder, The
 
-Laws of the Night 173
+Laws of the Night 173 zzzz for m of the Cobra, The
 
-zzzz
-
-Form of the Cobra, The
-
-Laws of the Night 173
-
-zzzzz
+Laws of the Night 173 zzzzz
 
 Heart of Darkness, The
 
@@ -7393,33 +5017,23 @@ Typhonic Beast
 
 Clanbook: Followers of Set, Revised Ed. 69
 
-## Temporis
-
-z
+## Temporis z
 
 Time Attunement
 
-Laws of the Night: Storyteller Guide 32
-
-zz
+Laws of the Night: Storyteller Guide 32 zz
 
 Internal Recursion
 
-Laws of the Night: Storyteller Guide 33
-
-zzz
+Laws of the Night: Storyteller Guide 33 zzz
 
 Lapse
 
-Laws of the Night: Storyteller Guide 34
-
-zzzz
+Laws of the Night: Storyteller Guide 34 zzzz
 
 Subjective Suspension
 
-Laws of the Night: Storyteller Guide 35
-
-zzzzz
+Laws of the Night: Storyteller Guide 35 zzzzz
 
 Clotho's Gift
 
@@ -7433,7 +5047,7 @@ Laws of the Night: Storyteller Guide 37
 
 ## zzzzz zz
 
-Halls of Hades' Court
+Halls of had es' Court
 
 Laws of the Night: Storyteller Guide 39
 
@@ -7453,15 +5067,11 @@ Laws of the Night: Storyteller Guide 40
 
 ## Level &amp; Discipline
 
-## Thanatosis
-
-z
+## than atosis z
 
 Hags ʹ Wrinkles
 
-Laws of the Night 174
-
-zz
+Laws of the Night 174 zz
 
 Putrefaction
 
@@ -7473,21 +5083,13 @@ Ashes to Ashes
 
 Laws of the Night 175
 
-## zzzz
+## zzzz with ering
 
-Withering
-
-Laws of the Night 175
-
-zzzzz
+Laws of the Night 175 zzzzz
 
 Necrosis
 
-Laws of the Night 176
-
-zzzzz
-
-z
+Laws of the Night 176 zzzzz
 
 Creeping Infection
 
@@ -7505,15 +5107,11 @@ Putrescent Servitude
 
 Laws of the Night: Camarilla Guide 69
 
-## Thaumaturgy - Alchemy
-
-z
+## Thaumaturgy - Alchemy z
 
 Commuta
 
-Laws of the Night: Storyteller Guide 47
-
-zz
+Laws of the Night: Storyteller Guide 47 zz
 
 Conforma
 
@@ -7537,11 +5135,9 @@ Transmute
 
 Laws of the Night: Storyteller Guide 48
 
-## Thaumaturgy - Biothaumaturgy
+## Thaumaturgy - Biothaumaturgy z
 
-z
-
-Thaumaturgial Forensics
+Thaumaturgial for ensics
 
 Laws of the Night: Storyteller Guide 48
 
@@ -7559,15 +5155,9 @@ Laws of the Night: Storyteller Guide 49
 
 Greater Animation
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Storyteller
+Night: Storyteller
 
 Guide
 
@@ -7577,15 +5167,11 @@ Cognizant Construction
 
 Laws of the Night: Storyteller Guide 50
 
-## Thaumaturgy - The Green Path
-
-z
+## Thaumaturgy - The Green Path z
 
 Herbal Wisdom
 
-Laws of the Night: Camarilla Guide 79
-
-zz
+Laws of the Night: Camarilla Guide 79 zz
 
 Speed the Season's Passing
 
@@ -7599,13 +5185,13 @@ Laws of the Night: Camarilla Guide 79
 
 ## zzzz
 
-Verdant Haven
+Verdant have n
 
 Laws of the Night: Camarilla Guide 80
 
 ## zzzzz
 
-Awaken the Forest Giants
+Awaken the for est Giants
 
 Laws of the Night: Camarilla Guide 80
 
@@ -7613,163 +5199,113 @@ Title &amp; Page Number
 
 Level &amp; Discipline
 
-## Thaumaturgy - Elemental Mastery
-
-z
+## Thaumaturgy - Elemental Mastery z
 
 Elemental Strength
 
-Laws of the Night: Camarilla Guide 76
-
-zz
+Laws of the Night: Camarilla Guide 76 zz
 
 Wooden
 
 Tongues
 
-Laws of the Night: Camarilla Guide 77
-
-zzz
+Laws of the Night: Camarilla Guide 77 zzz
 
 Animate the Unmoving
 
-Laws of the Night: Camarilla Guide 77
+Laws of the Night: Camarilla Guide 77 zzzz
 
-zzzz
+Elemental for m
 
-Elemental Form
-
-Laws of the Night: Camarilla Guide 77
-
-zzzzz
+Laws of the Night: Camarilla Guide 77 zzzzz
 
 Summon Elemental
 
 Laws of the Night: Camarilla Guide 78
 
-## Thaumaturgy - The Focused Mind
-
-z
+## Thaumaturgy - The Focused Mind z
 
 Readiness
 
-Laws of the Night: Storyteller Guide 50
-
-zz
+Laws of the Night: Storyteller Guide 50 zz
 
 Centering
 
-Laws of the Night: Storyteller Guide 50
-
-zzz
+Laws of the Night: Storyteller Guide 50 zzz
 
 One - Tracked Mind
 
-Laws of the Night: Storyteller Guide 51
-
-zzzz
+Laws of the Night: Storyteller Guide 51 zzzz
 
 Dual Thought
 
-Laws of the Night: Storyteller Guide 51
-
-zzzzz
+Laws of the Night: Storyteller Guide 51 zzzzz
 
 Perfect Clarity
 
 Laws of the Night: Storyteller Guide 51
 
-## Thaumaturgy - Hands of Destruction
-
-z
+## Thaumaturgy - Hands of Destruction z
 
 Decay
 
-Laws of the Night 183
-
-zz
+Laws of the Night 183 zz
 
 Gnarl Wood
 
-Laws of the Night 184
-
-zzz
+Laws of the Night 184 zzz
 
 Acidic Touch
 
-Laws of the Night 184
-
-zzzz
+Laws of the Night 184 zzzz
 
 Atrophy
 
-Laws of the Night 184
-
-zzzzz
+Laws of the Night 184 zzzzz
 
 Turn to Dust
 
 Laws of the Night 184
 
-## Thaumaturgy - The Hearth Path
-
-z
+## Thaumaturgy - The Hearth Path z
 
 Guest's Herald
 
-Laws of the Night: Storyteller Guide 52
+Laws of the Night: Storyteller Guide 52 zz
 
-zz
+Master's or der
 
-Master's Order
-
-Laws of the Night: Storyteller Guide 52
-
-zzz
+Laws of the Night: Storyteller Guide 52 zzz
 
 Rhyme of Discord
 
-Laws of the Night: Storyteller Guide 52
-
-zzzz
+Laws of the Night: Storyteller Guide 52 zzzz
 
 Temportal
 
-Laws of the Night: Storyteller Guide 52
-
-zzzzz
+Laws of the Night: Storyteller Guide 52 zzzzz
 
 The Cauldron's Rede
 
 Laws of the Night: Storyteller Guide 52
 
-## Thaumaturgy - The Lure of Flames
-
-z
+## Thaumaturgy - The Lure of Flames z
 
 Hand of Flame
 
-Laws of the Night 179
-
-zz
+Laws of the Night 179 zz
 
 Flame Bolt
 
-Laws of the Night 179
-
-zzz
+Laws of the Night 179 zzz
 
 Wall of Fire
 
-Laws of the Night 179
-
-zzzz
+Laws of the Night 179 zzzz
 
 Engulf
 
-Laws of the Night 179
-
-zzzzz
+Laws of the Night 179 zzzzz
 
 Firestorm
 
@@ -7781,157 +5317,103 @@ Level &amp; Discipline
 
 Title &amp; Page Number
 
-## Thaumaturgy - Mastery of the Mortal Shell
-
-z
+## Thaumaturgy - Mastery of the Mortal Shell z
 
 Vertigo
 
-Laws of the Night: Storyteller Guide 53
-
-zz
+Laws of the Night: Storyteller Guide 53 zz
 
 Controtion
 
-Laws of the Night: Storyteller Guide 53
-
-zzz
+Laws of the Night: Storyteller Guide 53 zzz
 
 Seizure
 
-Laws of the Night: Storyteller Guide 53
-
-zzzz
+Laws of the Night: Storyteller Guide 53 zzzz
 
 Body Failure
 
-Laws of the Night: Storyteller Guide 54
-
-zzzzz
+Laws of the Night: Storyteller Guide 54 zzzzz
 
 Marionette
 
 Laws of the Night: Storyteller Guide 54
 
-## Thaumaturgy - Movement of the Mind
+## Thaumaturgy - Movement of the Mind z for ce Bolt
 
-z
-
-Force Bolt
-
-Laws of the Night 180
-
-zz
+Laws of the Night 180 zz
 
 Manipulate
 
-Laws of the Night 180
-
-zzz
+Laws of the Night 180 zzz
 
 Flight
 
-Laws of the Night 181
-
-zzzz
+Laws of the Night 181 zzzz
 
 Repulse
 
-Laws of the Night 181
-
-zzzzz
+Laws of the Night 181 zzzzz
 
 Control
 
 Laws of the Night 181
 
-## Thaumaturgy - Neptune's Might
-
-z
+## Thaumaturgy - Neptune's Might z
 
 Eyes of the Sea
 
-Laws of the Night: Camarilla Guide 81
-
-zz
+Laws of the Night: Camarilla Guide 81 zz
 
 Prison of Water
 
-Laws of the Night: Camarilla Guide 81
-
-zzz
+Laws of the Night: Camarilla Guide 81 zzz
 
 Blood to Water
 
-Laws of the Night: Camarilla Guide 82
-
-zzzz
+Laws of the Night: Camarilla Guide 82 zzzz
 
 Flowing Wall
 
-Laws of the Night: Camarilla Guide 82
-
-zzzzz
+Laws of the Night: Camarilla Guide 82 zzzzz
 
 Dehydrate
 
 Laws of the Night: Camarilla Guide 83
 
-## Thaumaturgy - Oneiromancy
-
-z
+## Thaumaturgy - Oneiromancy z
 
 Portents
 
-Laws of the Night: Storyteller Guide 55
+Laws of the Night: Storyteller Guide 55 zz for esee
 
-zz
-
-Foresee
-
-Laws of the Night: Storyteller Guide 55
-
-zzz
+Laws of the Night: Storyteller Guide 55 zzz
 
 Dreamspeak
 
-Laws of the Night: Storyteller Guide 55
-
-zzzz
+Laws of the Night: Storyteller Guide 55 zzzz
 
 Augury
 
-Laws of the Night: Storyteller Guide 55
-
-zzzzz
+Laws of the Night: Storyteller Guide 55 zzzzz
 
 Reveal the Heart's Dreams
 
 Laws of the Night: Storyteller Guide 56
 
-## Thaumaturgy - The Path of Blood
-
-z
+## Thaumaturgy - The Path of Blood z
 
 A Taste for Blood
 
-Laws of the Night 177
-
-zz
+Laws of the Night 177 zz
 
 Blood Rage
 
-Laws of the Night 177
-
-zzz
+Laws of the Night 177 zzz
 
 Blood of Potency
 
-Laws of the Night 177
-
-zzzz
-
-Theft of Vitae
+Laws of the Night 177 zzzz the ft of Vitae
 
 Laws of the Night 178
 
@@ -7945,89 +5427,61 @@ Level &amp; Discipline
 
 Title &amp; Page Number
 
-## Thaumaturgy - Path of the Blood's Curse
-
-z
+## Thaumaturgy - Path of the Blood's Curse z
 
 Ravages of the Beast
 
-Laws of the Night: Storyteller Guide 56
-
-zz
+Laws of the Night: Storyteller Guide 56 zz
 
 Weight of the Sun
 
-Laws of the Night: Storyteller Guide 57
-
-zzz
+Laws of the Night: Storyteller Guide 57 zzz
 
 Abated Tooth
 
-Laws of the Night: Storyteller Guide 57
-
-zzzz
+Laws of the Night: Storyteller Guide 57 zzzz
 
 Treacherous Bonds
 
-Laws of the Night: Storyteller Guide 57
+Laws of the Night: Storyteller Guide 57 zzzzz
 
-zzzzz
+The with ering of Ages Laws of the Night: Storyteller Guide 58
 
-The Withering of Ages Laws of the Night: Storyteller Guide 58
+## Thaumaturgy - The Path of Conjuring z
 
-## Thaumaturgy - The Path of Conjuring
+Summon the Simple for m
 
-z
-
-Summon the Simple Form
-
-Laws of the Night 182
-
-zz
+Laws of the Night 182 zz
 
 Permanency
 
-Laws of the Night 182
-
-zzz
+Laws of the Night 182 zzz
 
 Magic of the Smith
 
-Laws of the Night 183
-
-zzzz
+Laws of the Night 183 zzzz
 
 Reverse Conjuration
 
-Laws of the Night 183
-
-zzzzz
+Laws of the Night 183 zzzzz
 
 Power Over Life
 
 Laws of the Night 183
 
-## Thaumaturgy - The Path of Corruption
-
-z
+## Thaumaturgy - The Path of Corruption z
 
 Contradict
 
-Laws of the Night: Camarilla Guide 84
-
-zz
+Laws of the Night: Camarilla Guide 84 zz
 
 Subvert
 
-Laws of the Night: Camarilla Guide 84
-
-zzz
+Laws of the Night: Camarilla Guide 84 zzz
 
 Dissociate
 
-Laws of the Night: Camarilla Guide 85
-
-zzzz
+Laws of the Night: Camarilla Guide 85 zzzz
 
 Addiction
 
@@ -8039,21 +5493,15 @@ Dependence
 
 Laws of the Night: Camarilla Guide 86
 
-## Thaumaturgy - The Path of Curses
-
-z
+## Thaumaturgy - The Path of Curses z
 
 Stigma
 
-Laws of the Night: Storyteller Guide 59
-
-zz
+Laws of the Night: Storyteller Guide 59 zz
 
 Malady
 
-Laws of the Night: Storyteller Guide 59
-
-zzz
+Laws of the Night: Storyteller Guide 59 zzz
 
 Pariah
 
@@ -8071,27 +5519,19 @@ Fall from Gracex
 
 Laws of the Night: Storyteller Guide 60
 
-## Thaumaturgy - The Path of the Father's Vengeance
-
-z
+## Thaumaturgy - The Path of the Father's Vengeance z
 
 Zillah's Litany
 
-Laws of the Night: Sabbat Guide 127
-
-zz
+Laws of the Night: Sabbat Guide 127 zz
 
 The Crone's Pride
 
-Laws of the Night: Sabbat Guide 128
-
-zzz
+Laws of the Night: Sabbat Guide 128 zzz
 
 Feast of Ashes
 
-Laws of the Night: Sabbat Guide 129
-
-zzzz
+Laws of the Night: Sabbat Guide 129 zzzz
 
 Uriel's Disfavor
 
@@ -8107,15 +5547,11 @@ Level &amp; Discipline
 
 Title &amp; Page Number
 
-## Thaumaturgy - The Path of the Levinbolt
-
-z
+## Thaumaturgy - The Path of the Levinbolt z
 
 Spark
 
-Clanbook: Tremere, Revised Ed. 51
-
-zz
+Clanbook: Tremere, Revised Ed. 51 zz
 
 Illuminate
 
@@ -8125,29 +5561,21 @@ Clanbook: Tremere, Revised Ed. 52
 
 Power Array
 
-Clanbook: Tremere, Revised Ed. 52
-
-zzzz
+Clanbook: Tremere, Revised Ed. 52 zzzz
 
 Zeus ʹ Fury
 
-Clanbook: Tremere, Revised Ed. 52
-
-zzzzz
+Clanbook: Tremere, Revised Ed. 52 zzzzz
 
 Eye of the Storm
 
 Clanbook: Tremere, Revised Ed. 53
 
-## Thaumaturgy - The Path of Mars
-
-z
+## Thaumaturgy - The Path of Mars z
 
 War Cry
 
-Laws of the Night: Sabbat Guide 126
-
-zz
+Laws of the Night: Sabbat Guide 126 zz
 
 Strike True
 
@@ -8157,61 +5585,43 @@ Laws of the Night: Sabbat Guide 126
 
 Wind Dance
 
-Laws of the Night: Sabbat Guide 126
-
-zzzz
+Laws of the Night: Sabbat Guide 126 zzzz
 
 Fearless Heart
 
-Laws of the Night: Sabbat Guide 126
-
-zzzzz
+Laws of the Night: Sabbat Guide 126 zzzzz
 
 Comrades at Arms
 
 Laws of the Night: Sabbat Guide 127
 
-## Thaumaturgy - The Path of Shadowcrafting
-
-z
+## Thaumaturgy - The Path of Shadowcrafting z
 
 Out Light
 
-Clanbook: Tremere, Revised Ed. 53
-
-zz
+Clanbook: Tremere, Revised Ed. 53 zz
 
 Shadow Taunt
 
-Clanbook: Tremere, Revised Ed. 53
-
-zzz
+Clanbook: Tremere, Revised Ed. 53 zzz
 
 Coruscating Shadow
 
-Clanbook: Tremere, Revised Ed. 54
-
-zzzz
+Clanbook: Tremere, Revised Ed. 54 zzzz
 
 Night ʹ s Veil
 
-Clanbook: Tremere, Revised Ed. 55
-
-zzzzz
+Clanbook: Tremere, Revised Ed. 55 zzzzz
 
 Abyssal Pact
 
 Clanbook: Tremere, Revised Ed. 55
 
-## Thaumaturgy - The Path of Technomancy
-
-z
+## Thaumaturgy - The Path of Technomancy z
 
 Analyze
 
-Laws of the Night: Camarilla Guide 86
-
-zz
+Laws of the Night: Camarilla Guide 86 zz
 
 Burnout
 
@@ -8227,31 +5637,21 @@ Laws of the Night: Camarilla Guide 87
 
 Remote Access
 
-Laws of the Night: Camarilla Guide 88
-
-zzzzz
+Laws of the Night: Camarilla Guide 88 zzzzz
 
 Telecommute
 
 Laws of the Night: Camarilla Guide 88
 
-## Thaumaturgy - Path of Transmutation
+## Thaumaturgy - Path of Transmutation z for tify the Solid for m Laws of the Night: Storyteller Guide 60 zz
 
-z
-
-Fortify the Solid Form Laws of the Night: Storyteller Guide 60
-
-zz
-
-Crystalize the Liquid Form
+Crystalize the Liquid for m
 
 Laws of the Night: Storyteller Guide 60
 
 ## zzz
 
-Liquefy the Solid Form Laws of the Night: Storyteller Guide 60
-
-zzzz
+Liquefy the Solid for m Laws of the Night: Storyteller Guide 60 zzzz
 
 Gaol
 
@@ -8267,108 +5667,64 @@ Level &amp; Discipline
 
 Title &amp; Page Number
 
-| Thaumaturgy - Spirit Manipulation   | Thaumaturgy - Spirit Manipulation     |
-|-------------------------------------|---------------------------------------|
-| Hermetic Sight zz                   | Laws of the Night: Camarilla Guide 89 |
-| Astral Cant zzz                     | Laws of the Night: Camarilla Guide 90 |
-| Voice of Command                    | Laws of the Night: Camarilla Guide 90 |
-| Entrap Ephemera zzzzz               | Laws of the Night: Camarilla Guide 90 |
-| Duality                             | Laws of the Night: Camarilla Guide 91 |
+| Thaumaturgy - Spirit Manipulation | Thaumaturgy - Spirit Manipulation |
+| Hermetic Sight zz | Laws of the Night: Camarilla Guide 89 |
+| Astral can t zzz | Laws of the Night: Camarilla Guide 90 |
+| Voice of Command | Laws of the Night: Camarilla Guide 90 |
+| Entrap Ephemera zzzzz | Laws of the Night: Camarilla Guide 90 |
+| Duality | Laws of the Night: Camarilla Guide 91 |
 
-## Thaumaturgy - Vine of Dionysus
-
-z
+## Thaumaturgy - Vine of Dionysus z
 
 Methyskein
 
-Laws
+Laws of the
 
-of
+Night: Storyteller
 
-the
-
-Night:
-
-Storyteller
-
-Guide
-
-zz
+Guide zz
 
 Omophagy
 
-Laws
+Laws of the
 
-of
+Night: Storyteller
 
-the
-
-Night:
-
-Storyteller
-
-Guide
-
-zzz
+Guide zzz
 
 Hamartia
 
-Laws
+Laws of the
 
-of
+Night: Storyteller
 
-the
-
-Night:
-
-Storyteller
-
-Guide
-
-zzzz
+Guide zzzz
 
 Enthousiasmos
 
-Laws
+Laws of the
 
-of
+Night: Storyteller
 
-the
-
-Night:
-
-Storyteller
-
-Guide
-
-zzzzz
+Guide zzzzz
 
 Oinos
 
 Aimatos
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Storyteller
+Night: Storyteller
 
 Guide
 
-## Thaumaturgy - Weather Control
+## Thaumaturgy - Weather Control z
 
-z
-
-| Fog zz           | Laws of the Night: Camarilla Guide 93   |
-|------------------|-----------------------------------------|
-| Rain or Snow     | Laws of the Night: Camarilla Guide 93   |
-| High Winds       | Laws of the Night: Camarilla Guide 94   |
-| Storm            | Laws of the Night: Camarilla Guide 94   |
-| Lightning Strike | Laws of the Night: Camarilla Guide 94   |
+| Fog zz | Laws of the Night: Camarilla Guide 93 |
+| Rain or Snow | Laws of the Night: Camarilla Guide 93 |
+| High Winds | Laws of the Night: Camarilla Guide 94 |
+| Storm | Laws of the Night: Camarilla Guide 94 |
+| Lightning Strike | Laws of the Night: Camarilla Guide 94 |
 
 ## Thaumaturgical Rituals - Basic
 
@@ -8378,15 +5734,9 @@ Big
 
 Brother
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Anarch
+Night: Anarch
 
 Guide
 
@@ -8394,15 +5744,9 @@ Blood
 
 Mead
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Storyteller
+Night: Storyteller
 
 Guide
 
@@ -8410,51 +5754,29 @@ Blood
 
 Rush
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Sabbat
+Night: Sabbat
 
 Guide
 
-Brand
-
-of
-
-the
+Brand of the
 
 Paramour
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Storyteller
+Night: Storyteller
 
 Guide
 
-Communicate
-
-with
+Communicate with
 
 Kindred
 
 Sire
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
@@ -8462,49 +5784,25 @@ Craft
 
 Bloodstone
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Storyteller
+Night: Storyteller
 
 Guide
 
-Defense
+Defense of the
 
-of
+Sacred have n
 
-the
-
-Sacred
-
-Haven
-
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
-Deflection
+Deflection of
 
-of
+Wooden do om
 
-Wooden
-
-Doom
-
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
@@ -8512,29 +5810,15 @@ Devil's
 
 Touch
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night
-
-Domino
-
-of
+Night do mino of
 
 Life
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Sabbat
+Night: Sabbat
 
 Guide
 
@@ -8542,105 +5826,59 @@ Encrypt
 
 Missive
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Storyteller
+Night: Storyteller
 
 Guide
 
-Enhancing
-
-the
+Enhancing the
 
 Curse
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Storyteller
+Night: Storyteller
 
 Guide
 
 Extinguish
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Storyteller
+Night: Storyteller
 
 Guide
 
-Eyes
-
-of
-
-the
+Eyes of the
 
 Night
 
 Hawk
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Sabbat
+Night: Sabbat
 
 Guide
 
 Flatline
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Anarch
+Night: Anarch
 
 Guide
 
 Illuminate
 
-Trail
-
-of
-
-the
+Trail of the
 
 Prey
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Sabbat
+Night: Sabbat
 
 Guide
 
@@ -8648,15 +5886,9 @@ Impassable
 
 Trail
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Storyteller
+Night: Storyteller
 
 Guide
 
@@ -8664,15 +5896,9 @@ Impressive
 
 Visage
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Storyteller
+Night: Storyteller
 
 Guide
 
@@ -8682,15 +5908,9 @@ Imp's
 
 Affliction
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Storyteller
+Night: Storyteller
 
 Guide
 
@@ -8698,49 +5918,29 @@ Iron
 
 Body
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Anarch
+Night: Anarch
 
 Guide
 
 Jinx
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Storyteller
+Night: Storyteller
 
 Guide
 
-Learning
-
-the
+Learning the
 
 Mind
 
 Enslumbered
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Storyteller
+Night: Storyteller
 
 Guide
 
@@ -8748,15 +5948,9 @@ Machine
 
 Blitz
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Sabbat
+Night: Sabbat
 
 Guide
 
@@ -8766,15 +5960,9 @@ Life
 
 Curse
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Storyteller
+Night: Storyteller
 
 Guide
 
@@ -8782,50 +5970,48 @@ Guide
 
 ## Title &amp; Page Number
 
-| The Open Passage                  | The Open Passage                        | Laws of the Night 186                   |
-|-----------------------------------|-----------------------------------------|-----------------------------------------|
-| Principle Focus of Vitae Infusion | Principle Focus of Vitae Infusion       | Laws of the Night 186                   |
-| Purge the Inner Demon             | Laws of the Night: Storyteller Guide 67 | Laws of the Night: Storyteller Guide 67 |
-| Rebirth of Mortal Vanity          | Laws of the Night: Storyteller Guide 67 | Laws of the Night: Storyteller Guide 67 |
-| Recure of the Homeland            | Laws of the Night: Sabbat Guide 131     | Laws of the Night: Sabbat Guide 131     |
-| Rite of Introduction              | Laws of the Night: Storyteller Guide 68 | Laws of the Night: Storyteller Guide 68 |
-| Sanguineous Phial                 | Laws of the Night: Storyteller Guide 68 | Laws of the Night: Storyteller Guide 68 |
-| Scent of the Lupine's Passing     | Scent of the Lupine's Passing           | Laws of the Night 186                   |
-| The Scribe                        | Laws of the Night: Storyteller Guide 68 | Laws of the Night: Storyteller Guide 68 |
-| Sense the Mystical                | Laws of the Night: Storyteller Guide 68 | Laws of the Night: Storyteller Guide 68 |
-| Trima                             | Laws of the Night: Storyteller Guide 69 | Laws of the Night: Storyteller Guide 69 |
-| Wake with the Evening's Freshness | Wake with the Evening's Freshness       | Laws of the Night 186                   |
-| Ward versus Ghoul                 | Ward versus Ghoul                       | Laws of the Night 186                   |
-| Whispers of the Ghost             | Laws of the Night: Storyteller Guide 69 | Laws of the Night: Storyteller Guide 69 |
-| Widow's Spite                     | Laws of the Night: Sabbat Guide 132     | Laws of the Night: Sabbat Guide 132     |
+| The Open Passage | The Open Passage | Laws of the Night 186 |
+| Principle Focus of Vitae Infusion | Principle Focus of Vitae Infusion | Laws of the Night 186 |
+| Purge the Inner Demon | Laws of the Night: Storyteller Guide 67 | Laws of the Night: Storyteller Guide 67 |
+| Rebirth of Mortal Vanity | Laws of the Night: Storyteller Guide 67 | Laws of the Night: Storyteller Guide 67 |
+| Recure of the Homeland | Laws of the Night: Sabbat Guide 131 | Laws of the Night: Sabbat Guide 131 |
+| Rite of Introduction | Laws of the Night: Storyteller Guide 68 | Laws of the Night: Storyteller Guide 68 |
+| Sanguineous Phial | Laws of the Night: Storyteller Guide 68 | Laws of the Night: Storyteller Guide 68 |
+| Scent of the Lupine's Passing | Scent of the Lupine's Passing | Laws of the Night 186 |
+| The Scribe | Laws of the Night: Storyteller Guide 68 | Laws of the Night: Storyteller Guide 68 |
+| Sense the Mystical | Laws of the Night: Storyteller Guide 68 | Laws of the Night: Storyteller Guide 68 |
+| Trima | Laws of the Night: Storyteller Guide 69 | Laws of the Night: Storyteller Guide 69 |
+| Wake with the Evening's Freshness | Wake with the Evening's Freshness | Laws of the Night 186 |
+| Ward versus Ghoul | Ward versus Ghoul | Laws of the Night 186 |
+| Whispers of the Ghost | Laws of the Night: Storyteller Guide 69 | Laws of the Night: Storyteller Guide 69 |
+| Widow's Spite | Laws of the Night: Sabbat Guide 132 | Laws of the Night: Sabbat Guide 132 |
 
 ## Thaumaturgical Rituals - Intermediate
 
-| Blood Allergy              | Laws of the Night: Storyteller Guide 69   |
-|----------------------------|-------------------------------------------|
-| Bone of Lies               | Laws of the Night 186                     |
-| Cleansing of the Flesh     | Laws of the Night: Storyteller Guide 69   |
-| Clinging of the Insect     | Laws of the Night: Sabbat Guide 132       |
-| Craft Dream Catcher        | Laws of the Night: Storyteller Guide 70   |
-| The Curse Belated          | Laws of the Night: Storyteller Guide 70   |
-| Detect the Hidden Observer | Laws of the Night: Anarch Guide 67        |
-| Firewalker                 | Laws of the Night: Sabbat Guide 132       |
-| Hell's Calling             | Laws of the Night: Anarch Guide 68        |
-| Incorporeal Passage        | Laws of the Night 186                     |
-| Infim Inert                | Laws of the Night: Storyteller Guide 70   |
-| Major Creation             | Laws of the Night: Storyteller Guide 71   |
-| Mirror of Second Sight     | Laws of the Night: Sabbat Guide 133       |
-| Pavis of Foul Presence     | Laws of the Night 187                     |
-| Return of the Heart        | Laws of the Night: Storyteller Guide 71   |
-| Rutor's Hands              | Laws of the Night 187                     |
-| Scry                       | Laws of the Night: Storyteller Guide 71   |
-| Soul of the Homunculi      | Laws of the Night 187                     |
-| Stolen Kisses              | Laws of the Night: Storyteller Guide 71   |
-| Telecommunication          | Laws of the Night: Storyteller Guide 72   |
-| ATouch of Nightshade       | Laws of the Night: Storyteller Guide 72   |
-| Track Transgressor         | Laws of the Night: Storyteller Guide 72   |
-| Ward versus Fae            | Laws of the Night: Storyteller Guide 73   |
-| Ward versus Vitae          | Laws of the Night: Anarch Guide 68        |
+| Blood all ergy | Laws of the Night: Storyteller Guide 69 |
+| Bone of Lies | Laws of the Night 186 |
+| Cleansing of the Flesh | Laws of the Night: Storyteller Guide 69 |
+| Clinging of the Insect | Laws of the Night: Sabbat Guide 132 |
+| Craft Dream Catcher | Laws of the Night: Storyteller Guide 70 |
+| The Curse Belated | Laws of the Night: Storyteller Guide 70 |
+| Detect the Hidden Observer | Laws of the Night: Anarch Guide 67 |
+| Firewalker | Laws of the Night: Sabbat Guide 132 |
+| Hell's Calling | Laws of the Night: Anarch Guide 68 |
+| Incorporeal Passage | Laws of the Night 186 |
+| Infim Inert | Laws of the Night: Storyteller Guide 70 |
+| Major Creation | Laws of the Night: Storyteller Guide 71 |
+| Mirror of Second Sight | Laws of the Night: Sabbat Guide 133 |
+| Pavis of Foul Presence | Laws of the Night 187 |
+| Return of the Heart | Laws of the Night: Storyteller Guide 71 |
+| Rutor's Hands | Laws of the Night 187 |
+| Scry | Laws of the Night: Storyteller Guide 71 |
+| Soul of the Homunculi | Laws of the Night 187 |
+| Stolen Kisses | Laws of the Night: Storyteller Guide 71 |
+| Telecommunication | Laws of the Night: Storyteller Guide 72 |
+| ATouch of Nightshade | Laws of the Night: Storyteller Guide 72 |
+| Track Transgressor | Laws of the Night: Storyteller Guide 72 |
+| Ward versus Fae | Laws of the Night: Storyteller Guide 73 |
+| Ward versus Vitae | Laws of the Night: Anarch Guide 68 |
 
 ## Thaumaturgical Rituals - Advanced
 
@@ -8833,11 +6019,7 @@ Blood
 
 Contract
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
@@ -8845,55 +6027,31 @@ Cobra's
 
 Favor
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Storyteller
+Night: Storyteller
 
 Guide
 
-Court
-
-of
-
-the
+Court of the
 
 Hallowed
 
 Truth
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Storyteller
+Night: Storyteller
 
 Guide
 
-Nectar
-
-of
-
-the
+Nectar of the
 
 Bitter
 
 Rose
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
@@ -8901,15 +6059,9 @@ Paper
 
 Flesh
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Sabbat
+Night: Sabbat
 
 Guide
 
@@ -8917,37 +6069,19 @@ Severed
 
 Hand
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Storyteller
+Night: Storyteller
 
 Guide
 
-Stone
+Stone of the
 
-of
+True for m
 
-the
+Laws of the
 
-True
-
-Form
-
-Laws
-
-of
-
-the
-
-Night:
-
-Storyteller
+Night: Storyteller
 
 Guide
 
@@ -8955,15 +6089,9 @@ Stone
 
 Slumber
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Storyteller
+Night: Storyteller
 
 Guide
 
@@ -8971,11 +6099,7 @@ Umbra
 
 Walk
 
-Laws
-
-of
-
-the
+Laws of the
 
 Night
 
@@ -8985,15 +6109,9 @@ Refined
 
 Digestion
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Storyteller
+Night: Storyteller
 
 Guide
 
@@ -9005,133 +6123,79 @@ Level &amp; Discipline
 
 ## Title &amp; Page Number
 
-## Valeren
-
-z
+## Valeren z
 
 Sense Vitality
 
-Laws of the Night 158
-
-zz
+Laws of the Night 158 zz
 
 Anesthetic Touch
 
-Laws of the Night 158
-
-zzz
+Laws of the Night 158 zzz
 
 Burning
 
 Touch
 
-Laws
+Laws of the
 
-of
+Night: Sabbat
 
-the
+Guide zzzz
 
-Night:
-
-Sabbat
-
-Guide
-
-zzzz
-
-Ending
-
-the
+Ending the
 
 Watch
 
-Laws
+Laws of the
 
-of
+Night: Sabbat
 
-the
+Guide zzzzz
 
-Night:
-
-Sabbat
-
-Guide
-
-zzzzz
-
-Vengeance
-
-of
+Vengeance of
 
 Samiel
 
-Laws
+Laws of the
 
-of
+Night: Sabbat
 
-the
-
-Night:
-
-Sabbat
-
-Guide
-
-zzzzz
-
-z
+Guide zzzzz
 
 Blissful Agony
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Sabbat
+Night: Sabbat
 
 Guide
 
-## Valeren - Path of the Healer
-
-z
+## Valeren - Path of the Healer z
 
 Sense
 
 Life
 
-Faith &amp; Fire 210
+Faith &amp; Fire 210 zz
 
-zz
-
-Gift
-
-of
+Gift of
 
 Sleep
 
-Faith &amp; Fire 210
-
-zzz
+Faith &amp; Fire 210 zzz
 
 Healing
 
 Touch
 
-Faith &amp; Fire 211
-
-zzzz
+Faith &amp; Fire 211 zzzz
 
 Sheperd's
 
 Watch
 
-Faith &amp; Fire 211
-
-zzzzz
+Faith &amp; Fire 211 zzzzz
 
 The
 
@@ -9139,65 +6203,43 @@ Ailing
 
 Spirit
 
-Faith &amp; Fire 211
+Faith &amp; Fire 211 zzzzz
 
-zzzzz
-
-z
-
-Warding
-
-the
+Warding the
 
 Beast
 
 Faith &amp; Fire 211
 
-## Valeren - Path of the Warrior
-
-z
+## Valeren - Path of the Warrior z
 
 Sense
 
 Death
 
-Faith &amp; Fire 212
-
-zz
+Faith &amp; Fire 212 zz
 
 Morphean
 
 Blow
 
-Faith &amp; Fire 212
-
-zzz
+Faith &amp; Fire 212 zzz
 
 Burning
 
 Touch
 
-Faith &amp; Fire 212
-
-zzzz
+Faith &amp; Fire 212 zzzz
 
 Armor of Caine's Fury
 
-Faith &amp; Fire 212
+Faith &amp; Fire 212 zzzzz
 
-zzzzz
-
-Vengeance
-
-of
+Vengeance of
 
 Samiel
 
-Faith &amp; Fire 213
-
-zzzzz
-
-z
+Faith &amp; Fire 213 zzzzz
 
 Fiery Agony
 
@@ -9205,61 +6247,37 @@ Faith &amp; Fire 213
 
 ## Level &amp; Discipline
 
-## Vicissitude
-
-z
+## Vicissitude z
 
 Malleable
 
 Visage
 
-Laws of the Night 188
-
-zz
+Laws of the Night 188 zz
 
 Fleshcraft
 
-Laws of the Night 188
-
-zzz
+Laws of the Night 188 zzz
 
 Bonecraft
 
-Laws of the Night 189
+Laws of the Night 189 zzzz
 
-zzzz
+Horrid for m
 
-Horrid
-
-Form
-
-Laws of the Night 189
-
-zzzzz
+Laws of the Night 189 zzzzz
 
 Bloodform
 
-Laws of the Night 189
+Laws of the Night 189 zzzzz
 
-zzzzz
-
-z
-
-Blood
-
-of
+Blood of
 
 Acid
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Sabbat
+Night: Sabbat
 
 Guide
 
@@ -9267,15 +6285,9 @@ Chiropteran
 
 Marauder
 
-Laws
+Laws of the
 
-of
-
-the
-
-Night:
-
-Sabbat
+Night: Sabbat
 
 Guide
 
@@ -9283,129 +6295,69 @@ Ecstatic
 
 Agony
 
-Clanbook:
+Clanbook: Tzimisce, Revised
 
-Tzimisce,
-
-Revised
-
-Ed.
-
-zzzzz
-
-zz
+Ed. zzzzz zz
 
 Cocoon
 
-Laws
+Laws of the
 
-of
+Night: Sabbat
 
-the
+Guide zzzzz zzz
 
-Night:
-
-Sabbat
-
-Guide
-
-zzzzz
-
-zzz
-
-Breath
-
-of
-
-the
+Breath of the
 
 Dragon
 
-Laws
+Laws of the
 
-of
+Night: Sabbat
 
-the
+Guide zzzzz zzzz
 
-Night:
+Earth's Vast have n
 
-Sabbat
+Laws of the
 
-Guide
-
-zzzzz
-
-zzzz
-
-Earth's Vast Haven
-
-Laws
-
-of
-
-the
-
-Night:
-
-Sabbat
+Night: Sabbat
 
 Guide
 
-## Vicissitude/Auspex/Obfuscate
+## Vicissitude/Auspex/Obfuscate zzz
 
-zzz
+/ zz
 
-/
-
-zz
-
-/
-
-zz
+/ zz
 
 Soul
 
 Decoration
 
-## Visceratika
-
-z
+## Visceratika z
 
 Skin zz
 
-Scry of
+Scry of the
 
-the
+Chameleon the zzz
 
-Chameleon the
-
-zzz
-
-Bond with
-
-zzzz
+Bond with zzzz
 
 Armor of
 
 Tera zzzzz
 
-Flow within
+Flow with in
 
 Hearthstone the
 
 Mountain
 
-Clanbook:
+Clanbook: Tzimisce, Laws of the
 
-Tzimisce,
-
-Laws of
-
-the
-
-Night:
-
-Laws
+Night: Laws
 
 Laws
 
@@ -9413,27 +6365,13 @@ Laws
 
 Mountain
 
-Laws of the Night: Camarilla Guide 72
-
-of of
-
-of the
-
-the the
+Laws of the Night: Camarilla Guide 72 of of of the the the
 
 Revised
 
 Camarilla
 
-Night:
-
-Night:
-
-Night:
-
-Ed.
-
-Guide
+Night: Night: Night: Ed. Guide
 
 Camarilla
 
@@ -9449,33 +6387,30 @@ Guide the
 
 Title &amp; Page Number
 
-| Creation Points Trait                                                               | Points                                                                         |
-|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| Creation Points Trait | Points |
 | Attributes (1 st / 2 nd / 3 rd ) Abilities Disciplines Backgrounds Virtues Humanity | 7 / 5 / 3 5 3 (4 for Sabbat) (None for Sabbat) 7 Conscience + SC /2 (Round up) |
 
 ## Freebie Points (15)
 
-| Trait      |   Cost per dot |
-|------------|----------------|
-| Attribute  |              1 |
-| Ability    |              1 |
-| Background |              1 |
-| Virtue     |              2 |
-| Humanity   |              3 |
-| Willpower  |              3 |
+| Trait | Cost per do t |
+| Attribute | 1 |
+| Ability | 1 |
+| Background | 1 |
+| Virtue | 2 |
+| Humanity | 3 |
+| will power | 3 |
 
-| Trait Increase        | Cost             |
-|-----------------------|------------------|
-| Attribute             | 1                |
-| Ability               | 1 (2 for 6 - 10) |
-| Background            | 1                |
-| Clan Discipline       | 3/6/9            |
-| Non - clan Discipline | 4/7/10           |
-| New Ritual            | 2/4/6            |
-| Virtue                | 3                |
-| Willpower             | 3                |
-| Buy off Negative      | 2                |
+| Trait Increase | Cost |
+| Attribute | 1 |
+| Ability | 1 (2 for 6 - 10) |
+| Background | 1 |
+| Clan Discipline | 3/6/9 |
+| Non - clan Discipline | 4/7/10 |
+| New Ritual | 2/4/6 |
+| Virtue | 3 |
+| will power | 3 |
+| Buy of f Negative | 2 |
 
-Edited by Jessica Orsini Camarilla # US2006037576 Data Harvesting by Jeremy Ambrose Camarilla # US2002034177 Revised 10 February 2010
+Edited by Jessica or sini Camarilla # US2006037576 Data Harvesting by Jeremy Ambrose Camarilla # US2002034177 Revised 10 February 2010
 
 ## Experience Points

@@ -1,14 +1,14 @@
 # Characters to Create
 
-## Toreador Owner of Tailored Dreams
+## Brujah Owner of Tailored Dreams
 
 **Location:** Tailored Dreams (Business) in Ahwatukee
 
-**Clan:** Toreador
+**Clan:** Brujah
 
 **Status:** Needs character creation
 
-**Notes:** Owner of Tailored Dreams, a business located in Ahwatukee district.
+**Notes:** Owner of Tailored Dreams, a business located in Ahwatukee district. It is a cover for a smuggling opperation.
 
 ---
 
