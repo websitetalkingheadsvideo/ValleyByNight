@@ -1,9 +1,9 @@
 # Version History
 
-## Current Version: 0.8.84
+## Current Version: 0.8.85
 
 **Date:** 2025-01-30  
-**Type:** Patch (Character sheet coterie display and Barry Horowitz character import)
+**Type:** Patch (Barry Horowitz character traits and discipline updates)
 
 ### Changes:
 - **Coterie Agent Enhancements** - Added new coterie creation and improved roster management

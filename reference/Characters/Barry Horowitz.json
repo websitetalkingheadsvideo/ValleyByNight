@@ -24,9 +24,9 @@
   "equipment": "Worn leather briefcase filled with old sales catalogs, route notes, and personal papers; practical clothing; reliable sedan.",
   "character_image": "Barry Horowitz.png",
   "traits": {
-    "Physical": ["Enduring", "Steady"],
-    "Social": ["Approachable", "Diplomatic"],
-    "Mental": ["Practical", "Observant"]
+    "Physical": ["Enduring", "Steady", "Rugged"],
+    "Social": ["Approachable", "Diplomatic", "Personable", "Empathetic", "Unassuming", "Disarming", "Polite"],
+    "Mental": ["Practical", "Observant", "Cautious", "Cunning", "Disciplined"]
   },
   "negativeTraits": {
     "Physical": ["Unimposing"],
@@ -49,9 +49,10 @@
   "disciplines": [
     {
       "name": "Obtenebration",
-      "level": 1,
+      "level": 2,
       "powers": [
-        { "level": 1, "power": "Shadow Play" }
+        { "level": 1, "power": "Shadow Play" },
+        { "level": 2, "power": "Dark Tendrils" }
       ]
     },
     {

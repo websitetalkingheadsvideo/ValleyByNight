@@ -1,16 +1,5 @@
 # Characters to Create
 
-## Rey Gonzalez - Brujah Owner of Tailored Dreams
-
-**Location:** Tailored Dreams (Business) in Ahwatukee
-
-**Clan:** Brujah
-
-**Status:** ✅ Character created - See `Rey_Gonzalez.json`
-
-**Notes:** Owner of Tailored Dreams, a business located in Ahwatukee district. It is a cover for a smuggling operation. Rey is a failed union organizer embraced in his mid-40s by Brenda Wise (Tucson). He's part of a 4-person coterie under the Sheriff's supervision, watching for Sabbat activity in Guadalupe. Has Transportation and Industry Influence at 4 each. Generation 11.
-
----
 
 ## Mrs. Chen
 
