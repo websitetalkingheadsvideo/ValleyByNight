@@ -131,14 +131,43 @@ try {
         ];
     }
     
-    // Get coteries
-    $coteries = db_fetch_all($conn,
-        "SELECT coterie_name, coterie_type, role, description, notes
+    // Get coteries - check both character_coteries table (from JSON) and coterie_members table (from coterie agent)
+    $coteries_from_json = @db_fetch_all($conn,
+        "SELECT coterie_name, coterie_type, role, description
          FROM character_coteries
-         WHERE character_id = ?
-         ORDER BY coterie_name",
+         WHERE character_id = ?",
         'i', [$character_id]
-    );
+    ) ?: [];
+    
+    // Also check coterie_members table (coterie agent system)
+    // Check if description column exists in coteries table
+    $hasDescriptionColumn = false;
+    $columnCheck = @mysqli_query($conn, "SHOW COLUMNS FROM coteries LIKE 'description'");
+    if ($columnCheck && mysqli_num_rows($columnCheck) > 0) {
+        $hasDescriptionColumn = true;
+    }
+    if ($columnCheck) mysqli_free_result($columnCheck);
+    
+    $coteries_from_agent = @db_fetch_all($conn,
+        "SELECT c.name as coterie_name, 
+                " . ($hasDescriptionColumn ? "COALESCE(NULLIF(c.description, ''), '')" : "''") . " as coterie_type,
+                cm.role,
+                '' as description
+         FROM coterie_members cm
+         INNER JOIN coteries c ON cm.coterie_id = c.id
+         WHERE cm.character_id = ?",
+        'i', [$character_id]
+    ) ?: [];
+    
+    // Merge both sources (coterie_members takes precedence if duplicate names)
+    $coterie_map = [];
+    foreach ($coteries_from_json as $coterie) {
+        $coterie_map[$coterie['coterie_name']] = $coterie;
+    }
+    foreach ($coteries_from_agent as $member) {
+        $coterie_map[$member['coterie_name']] = $member;
+    }
+    $coteries = array_values($coterie_map);
     
     // Get relationships
     $relationships = db_fetch_all($conn,
