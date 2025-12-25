@@ -1,6 +1,19 @@
 # Version History
 
-## Current Version: 0.8.82
+## Current Version: 0.8.83
+
+**Date:** 2025-01-30  
+**Type:** Patch (Coterie Agent UI improvements and auto-save functionality)
+
+### Changes:
+- **Coterie Agent Enhancements** - Added new coterie creation and improved roster management
+  - Added "Add New" button to create new coteries with modal form
+  - Auto-save role changes on blur (input loses focus) with JavaScript
+  - Changed role save button from checkmark to "Save" text for clarity
+  - Compact list styling for Strengths, Gaps, and Story Hooks sections (removed Bootstrap list-group spacing)
+  - Created `js/coterie_agent.js` for auto-save functionality
+
+## Previous Version: 0.8.82
 
 **Date:** 2025-01-30  
 **Type:** Patch (Rey Gonzalez character creation and prompt updates)
