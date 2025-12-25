@@ -7,7 +7,7 @@
 
 **Type:** Ghoul
 
-**Employer:** Malkavian Primogen
+**Employer:** Missfortune the Malkavian Primogen
 
 **Status:** Needs character creation
 
