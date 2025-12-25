@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.8.80
+## Current Version: 0.8.81
+
+**Date:** 2025-01-30  
+**Type:** Patch (Coterie Agent functionality enhancements)
+
+## Previous Version: 0.8.80
 
 **Date:** 2025-01-30  
 **Type:** Patch (Coterie Agent page styling and functionality improvements)
