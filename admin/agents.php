@@ -246,6 +246,25 @@ $agents = [
             ]
         ]
     ],
+    [
+        "name" => "Influence Agent",
+        "slug" => "influence_agent",
+        "description" => "Look up what each level of Influence can do in Laws of the Night. Provides quick reference for all 15 types of Influence and their effects at levels 1-5.",
+        "data_access" => [
+            "/agents/influence_agent/",
+            "influence_types table",
+            "influence_effects_lookup table"
+        ],
+        "purpose" => "Provide quick lookup of Influence effects by type and level, helping storytellers and players understand what actions are available at each Influence level.",
+        "status" => "Active",
+        "last_event" => "Ready to look up Influence effects.",
+        "actions" => [
+            [
+                "label" => "Launch Influence Agent",
+                "url" => "../agents/influence_agent/index.php"
+            ]
+        ]
+    ],
     // Future agents can be appended here.
 ];
 
@@ -325,7 +344,6 @@ include __DIR__ . '/../includes/header.php';
         <h2 class="mb-2">Planned Agents</h2>
         <p class="mb-3">Coming soon — additional automated agents to deepen chronicle support:</p>
         <ul class="planned-agents-list mb-0">
-            <li>Influence Agent — surfaces mortal influence opportunities across Bureaucracy, Law, Finance, and more.</li>
             <li>Lore/History Agent — answers city history questions and maintains a living timeline.</li>
         </ul>
     </section>

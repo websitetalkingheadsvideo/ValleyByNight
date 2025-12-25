@@ -1,797 +1,288 @@
-<!-- image -->
+
 
 ## Homid Basie
 
 ## Fianna Basic
 
-## Persuasion
-
-Yourwords carry unusualmeaning and Make aStaticSocial Challenge against sixTraits credibilityin whateverwayreaches each listener. （retestwithSubterfuge）.Ifthechallenge succeeds you gainonebonusTrait onallSocial Challenges fortherestfthecenerornehour.oumay gain additional bonusTraits at thecostofone pointofGnosiseach,spentatthetimeof the initial challenge.In addition to the gamemechanicalffctyourwordaremrenluntl than usual on theroleplaying level,and Storytellers shouldworkwithplayerstomakethe use of Persuasion clear in play.
-
-## HomidIntermediate
+## Persuasion you rwords carry unusualmeaning and Make a Static Social Challenge against six Traits credibilityin what everwayreaches each listener. （retestwith Subterfuge）.Ifthechallenge succeeds you gainonebonus Trait onall Social Challenges for the re stfthecenerornehour.oumay gain additional bonus Traits at the costofone pointof Gnosiseach, spentatthetimeof the initial challenge.In addition to the gamemechanicalffctyourwordaremrenluntl than usual on the roleplaying level, and Storytellers should workwithplayerstomakethe use of Persuasion clear in play. ## Homid Intermediate
 
 ## Cocoon
 
-With thisGiftyoucandrawamagical cocoon utf tinickaquapal layer thatimmobilizesyou butprotectsyoufrom estvan environmental hazards.Spend one Gnosis to create the cocoon.This takes one turn.Once insidetyougnoreallattackswhichfiltont levelsofbashingorlethaldamage equaltoyour Stamina-relatedPhysicalTraits.Thefirst attack toinflict thismuch damage dissolves the cocoon. Otherwise it lasts for one scene orfor one hour. You can spend one GnosisTrait torenewthe cocoonforanotherceneorhour,andcanspend thisTrait at any time before the cocoon dissolves.
+With this Giftyoucandrawamagical cocoon utf tinickaquapal layer that immobilizesyou but protectsyoufrom estvan environmental hazards.Spend one Gnosis to create the cocoon.This takes one turn.Once insidetyougnoreallattackswhichfiltont levelsofbashingorlethaldamage equaltoyour Stamina-related Physical Traits.the first attack toinflict this much damage dissolves the cocoon. Otherwise it lasts for one scene or for one hour. You can spend one Gnosis Trait torenewthe cocoonforanotherceneorhour, and can spend this Trait at any time before the cocoon dissolves. ## Homid Basie
 
-## Homid Basie
-
-## Jam Technology
-
-ThisGift allowsyou to disabletechnological devices.Technologyin this case extends to all tools,thoughitshardertobreak simple tools. Spend one GnosisTrait andmake a StaticSocial Challenge,the number of Traits depending on the nature of the device.
-
-## Traits
+## Jam Technology this Gift all owsyou to disabletechnological devices.Technologyin this case extends to all tools, thoughitshardertobreak simple tools. Spend one Gnosis Trait and make a Static Social Challenge, the number of Traits depending on the nature of the device. ## Traits
 
 Complexity of Device
 
-Computers,complexelectronics
+Computers, complexelectronics
 
 Telephonessmple electronics
-
-- 8 Cars, complex
-
-menchanical devices
-
+- 8 Cars, complex menchanical devices
 - 9 Gunsstraighforwardmachn
+- 10 Knives, levers, simple tools
 
-- 10 Knives,levers,simple tools
+If the challenge succeedsallevicesof t targetcomplexityandhigherwithin50feetcease toworkforoneturn, plusanadditional turnfor each Mental Trait the Garou spends.Affected devicesremainunchangedbutnertandresume working when the jamming wears of f. ## Homid Basic
 
-If thechallenge succeedsallevicesof t targetcomplexityandhigherwithin50feetcease toworkforoneturn,plusanadditional turnfor eachMental Trait the Garou spends.Affected devicesremainunchangedbutnertandresume working when the jamming wears off.
+## Smell of Man
 
-## Homid Basic
-
-## Smell ofMan
-
-Wild creatures knowthatdeathfollowsthe smell of humanity.This Gift letsyou strengthen that smelmakingwild animalsearfuland no Gnosisorchallengeonlythedecisiont domestic animals submissive.This Gift requires theGiftnrffWhntsactiveallwil animals(other than supernatural creaturesin animal form) suffer a one-Trait penalty to all challenges while within20feet of you and flee when possible.Domesticated animals refuse to harmyouregardlessofcommandstothecontrary unless you actually harm them in someway.
-
-## HomidIntermediate
+Wild creatures knowthatdeathfollowsthe smell of humanity.This Gift letsyou strengthen that smelmakingwild animalsearfuland no Gnosisorchallengeonlythedecisiont do mestic animals submissive.This Gift requires the Giftnrff Whntsactiveallwil animals(other than supernatural creaturesin animal for m) suffer a one-Trait penalty to all challenges while with in20feet of you and flee when possible.do mesticated animals refuse to harmyouregardlessofcommandstothecontrary unless you actually harm the m in someway. ## Homid Intermediate
 
 ## Disquiet
 
-This Gift allowsyou to perturbthe target's soulcreatingnexplicabledpressionandanug towithdraw.The subject cannot draweffectively onactiveemotions ormaintainconcentration. MakeaSocialChallengeagainst thetarget.f the challensucceeduargtanntn Rage for the duration of the scene(or forone hour)and suffers a one-Trait penalty on any extended challenge.
-
-## Homid Basic
+This Gift all owsyou to perturbthe target's soulcreatingnexplicabledpressionandanug towithdraw.The subject can not draweffectively onactiveemotions or maintainconcentration. Makea Social Challengeagainst the target.f the challensucceeduargtanntn Rage for the duration of the scene(or for one hour)and suffers a one-Trait penalty on any extended challenge. ## Homid Basic
 
 ## Master of Fire
 
-Taming fire helpedseparate humanity from beasts.ThisGiftletsyoucallonthe ancientpact withfirespiritspersuadingthemtowithhol their hungerwhenyou touch them.Spend one GnosisTrait.Firedamagenowheals asif itwere bashing damageTheeffect lastsfortherestof the scene,orforonehour.
+Taming fire helpedseparate humanity from beasts.this Giftletsyoucallonthe ancientpact with firespiritspersuadingthemtowithhol the ir hungerwhenyou touch the m.Spend one Gnosis Trait.Firedamagenowheals asif itwere bashing damage the effect lastsfortherestof the scene, or for onehour. ## Homid Basie
 
-## Homid Basie
+## Staredown you r eyesgainasubtlebutpowerfulquality that makes humans and animals flee and freezes otherwerewolveswhere they stand.Makea Social humanrnmaltartfleesrnetu Challengeagainst the targetfi uceeds one additional turnper Mental Traityouspend. the targetmayspenda will power Trait toavoid flightfornetun.)Garoutargetsdonotflut can not attackwhileyoucontinue to starethem do wn.uareattacked Garoutargetsn the ir freedom of movement.If the targetis attackedhffectsof the Gifaredislle.ou can use this Gift on one target per turn. ## Homid Intermediate
 
-## Staredown
-
-Your eyesgainasubtlebutpowerfulquality that makes humans and animals flee and freezes otherwerewolveswhere they stand.MakeaSocial humanrnmaltartfleesrnetu Challengeagainst thetargetfi uceeds one additional turnperMentalTraityouspend. ThetargetmayspendaWillpowerTrait toavoid flightfornetun.)Garoutargetsdonotflut cannot attackwhileyoucontinue to starethem down.uareattackedGaroutargetsn their freedom ofmovement.If the targetis attackedhffectsof theGifaredislle.ou can use this Gift on one target per turn.
-
-## HomidIntermediate
-
-BoneGnawersIntermediate FiannaIntermediate
+Bone Gnawers Intermediate Fianna Intermediate
 
 ## Reshape Object
 
-Objectstayreshapedforonlyfiveminutes.Spend oneMentalTrait toincrease thisto10minutestwo MentalTraitstoraseittneouthMnl Traitstoincreaseitto therestof thesession orfour Mental Traits tomake it permanent.
-
-You can transform once-livingmaterial(but not the substance ofundead beings)intoobjectstrees intoshnar armorlowersntofumeandsonheresulting itemsresembletheirsources:thespearshaftismade ofantler,thearmorretainsskintexture,etc.pnd one Gnosis andmakea StaticSocial Challenge (retest withRepair)）.The difficulty depends on the degree of transformation:making abroken tree branchntoasearrequresatestagainstfiveTrat, whilemaking asingleplankintoaraftthat cancarry threeGarourequresatestagainsteightraitn making a bladeof grass into a lean-to thatcanresist hurricanewindsrequires atest against10Traitsor evenmore.Spend a second GnosisTrait to allowa createdweapon toinflictaggravated damage.
-
-<!-- image -->
-
-## MetisBasie
+Objectstayreshapedforonlyfiveminutes.Spend one Mental Trait toincrease this to10minutestwo Mental Traitstoraseittneouth Mnl Traitstoincreaseitto the restof the session or four Mental Traits tomake it permanent. You can transform once-livingmaterial(but not the substance of undead beings)into objectstrees into shnar armorlowersntofumeandsonheresulting itemsresembletheirsources:the spearshaftismade of antler, the armorretainsskintexture, etc.pnd one Gnosis and makea Static Social Challenge (retest with Repair)）.The difficulty depends on the degree of transformation:making abroken tree branchntoasearrequresatestagainstfive Trat, whilemaking asingleplankintoaraftthat can carry three Garourequresatestagainsteightraitn making a bladeof grass into a lean-to that can resist hurricanewindsrequires atest against10Traitsor evenmore.Spend a second Gnosis Trait to all owa createdweapon toinflictaggravated damage. ## Metis Basie
 
 ## Burrow
 
-With this Gift,you can burrow through the earthcreatingatunnejustageenoughfru togo through.Otherscanfollow,if theyremall enough tofit into thehole.You must be in CrinosHisrusformusethisifte it requires digging claws.(Metis without claws or fragilelawscanstillsethisGiftlyingonth extra-strongfingers.）The tunnel isn't structurally sound and crumbles over time.Make aPhysical Challenge against a difficult dependingonthe substance tobeburrowed through:fourTraits for loosemutnineraitsforolidocktn metals andreinforced structures don't yield at all. Youcanburwatnyrdtulunad per turnperPhysicalTraitspentandeedt make another challenge unless the composition of the material to burrow through changes.
+With this Gift, you can burrow through the earthcreatingatunnejustageenoughfru togo through.Otherscanfollow, if the yremall enough tofit into the hole.You must be in Crinos Hisrusformusethisifte it requires digging claws.(Metis with out claws or fragilelawscanstillsethis Giftlyingonth extra-strongfingers.）The tunnel isn't structurally sound and crumbles over time.Make a Physical Challenge against a difficult dependingonthe substance tobeburrowed through:four Traits for loosemutnineraitsforolidocktn metals and reinforced structures don't yield at all. you can burwatnyrdtulunad per turnper Physical Traitspentandeedt make another challenge unless the composition of the material to burrow through changes. ## Metis Basic
 
-<!-- image -->
+## Create Element you can tallutf or water.(One Gift covers all four elements.)You can not createpecializedformslikriu metalsrlthalgasebutcanrlenishtheain a sealedroom, makearocktothrowatsomeone, light a fire with outmatches or fill abathtub with out faucet or pipes.Spend one Gnosis and makea Gnosis Challenge.If successfulyoucreate currentnosis Traituptoamaximumweightf 100 pounds.the element can appear anywhere you can seewithin60feet and remains untilused up.Flames createdwith this Gift inflict one level of lethaldmageernosis Traitut maximum of three health levels. ## Mefis Basic the urge Basic Black Furies Basic Silent Striders Basie Silver Fangs Basie
 
-<!-- image -->
+## Sense Wyrm you can perceivenearbymanifestationsof the Wyrm.the Giftacts directly onyour consciousness throughamystical sensebut Garouusingit of endescribeitntermsofothersenseslke "This place stinks of the Wyrm." Garou must remember that the Wyrm's taint of ten clings to innocentvictims, suchas thosewho eat tainted foodorworkin Wyrm-controlledfactories.Make a Mental Challenge with a difficulty depending on the concentration and strength of the Wyrm's influence.Test against six Traits to sense a fomor inthenextroomuttctinglingin residue of a Banethat left an hour agorequires testing against eight Traits.Vampireswiththree or fewer Humanity Traits always smell of the Wyrm;vampires ona Pathof Enlightenment stink of the Wyrmnomatter what the ir rating. ## Metis Advanced
 
-## MetisBasic
-
-## CreateElement
-
-Youcantallutf orwater.(OneGift covers all four elements.)You cannotcreatepecializedformslikriu metalsrlthalgasebutcanrlenishtheain a sealedroom,makearocktothrowatsomeone, light a fire withoutmatches orfill abathtub without faucet orpipes.Spend one Gnosis and makeaGnosisChallenge.If successfulyoucreate currentnosisTraituptoamaximumweightf 100 pounds.Theelement can appear anywhere you can seewithin60feet andremains untilused up.Flames createdwith thisGift inflict one level of lethaldmageernosisTraitut maximum of three health levels.
-
-## MefisBasic
-
-Theurge Basic BlackFuriesBasic SilentStriders Basie Silver Fangs Basie
-
-## Sense Wyrm
-
-Youcanperceivenearbymanifestationsof the Wyrm.TheGiftacts directly onyour consciousness throughamystical sensebut Garouusingit ofendescribeitntermsofothersenseslke "This place stinks of the Wyrm." Garou must remember that theWyrm's taint often clings to innocentvictims,suchas thosewho eat tainted foodorworkinWyrm-controlledfactories.Make a Mental Challenge witha difficulty depending on theconcentration and strength of theWyrm's influence.Test against sixTraits to sense a fomor inthenextroomuttctinglingin residue of aBanethat left an hour agorequires testing against eightTraits.Vampireswiththree orfewerHumanityTraits always smell of the Wyrm;vampires onaPathof Enlightenment stink of theWyrmnomatter what their rating.
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-## MetisAdvanced
-
-## Totem Gift
-
-Youdrawonyourunusuallystrong tieswithin Garousocietytopleaddirectlywithyourtribal totemandgain some of its power.Theresults depend on the totem.Ratmight send swarms of rats to attackanenemywhileGrandfather Thundermight defendyouwiththunder and lightning.Miraculousmanifestations are common, and the onlyreallimit is the totem's inclinations. Spend one Gnosis andmake a StaticSocial Challenge against sevenTraits.Further expendituresncreasetheeffectsfromaminor manifestation toaveritable tideof elementalfury.
-
-## LupusBasie
+## Totem Gift you drawonyourunusuallystrong tieswithin Garousocietytopleaddirectlywithyourtribal totemandgain some of its power.the results depend on the totem.Ratmight send swarms of rats to attackanenemywhile Grandfather Thundermight defendyouwiththunder and lightning.Miraculousmanifestations are common, and the onlyreallimit is the totem's inclinations. Spend one Gnosis and make a Static Social Challenge against seven Traits.Further expendituresncreasetheeffectsfromaminor manifestation toaveritable tideof elementalfury. ## Lupus Basie
 
 ## Scent of Sight
 
-You cancompletely compensateforvisual impairment through scent,includingnavigation in total darkness andmaking attacks against invisible creatures.MakeaStaticMental Challenge (retest with Primal-Urge)to trace a scent.Weirdandunpleasant scentsrequirefiveto sevenraitwhilsubtleandfantnsreq up to10Traits.Ablood-soaked invisiblemonster requiresonlyfiveTraitsfindingyourwaythrough clean steel corridorsin darknessrequires atleast nineTraits.Make freshchallenges only whenthe scent changes oreventsmightbecome distracting, likefollowingit throughwater orinto afightina reeking alley.
+You can completely compensateforvisual impairment through scent, includingnavigation in total darkness and making attacks against invisible creatures.Makea Static Mental Challenge (retest with Primal-Urge)to trace a scent.Weirdandunpleasant scentsrequirefiveto sevenraitwhilsubtleandfantnsreq up to10Traits.Ablood-soaked invisiblemonster requiresonlyfive Traitsfindingyourwaythrough clean steel corridorsin darknessrequires atleast nine Traits.Make freshchallenges only when the scent changes or eventsmightbecome distracting, likefollowingit throughwater or into afightina reeking all ey. ## Lupus Basie
 
-<!-- image -->
+## Black Furies Basic
 
-## LupusBasie
+## Heightened Senses you r senses all become preternaturally sharp. In Homidrlaromyucanee smellas acutelyas awildwolwhileinwolf relatedformsyou're all but precognitivelyalert. intensification:Routinecitynoisescanoverload not e that this Gift do esn't all owfor selective and crippleawolf-for m Garouwith Heightened Senses.Spend one Gnosis.In Homid and Glabro for m, you gainatwo Traitbonus toall perception-relatedchallengesandyoumaymake Mental Challenges toperformfeatsnormally impossibletohuman beingsliketrackingby scentrinos Hoandupusrmsyougin a three-Trait bonustoperception-related challengesandone Trait bonus in Primal-Uge challenges.Higtened Senses lastsfortherestf the scene or for onehour.A sudden surge of sensoryinformation（adischarging skunk, car alarm, lahbulb, tc.overloadshe sensen qustionengustdrwroud possiblylosingtheoverloadedsenseforan hour (at Storyteller discretion). ## Lupus Basie
 
-## BlackFuriesBasic
-
-## Heightened Senses
-
-Your senses all become preternaturally sharp. InHomidrlaromyucanee smellas acutelyas awildwolwhileinwolf relatedformsyou're allbutprecognitivelyalert. intensification:Routinecitynoisescanoverload Note that thisGift doesn't allowfor selective and crippleawolf-formGarouwithHeightened Senses.Spend oneGnosis.In Homid and Glabro form,yougainatwoTraitbonus toall perception-relatedchallengesandyoumaymake MentalChallenges toperformfeatsnormally impossibletohuman beingsliketrackingby scentrinosHoandupusrmsyougin a three-Trait bonustoperception-related challengesandoneTrait bonus inPrimal-Uge challenges.HigtenedSenses lastsfortherestf the scene orfor onehour.A sudden surge of sensoryinformation（adischarging skunk,car alarm,lahbulb,tc.overloadshe sensen qustionengustdrwroud possiblylosingtheoverloadedsenseforan hour (atStoryteller discretion).
-
-## LupusBasie
-
-## Sense Prey
-
-ThisGift letsyoufind enoughpreytofeeda pack.Traditionallyitcameintousemost often during hard winters.In urban environments,it generallyguidesaroutoparkewersanmal shelters andzoos.SensePreyidentifies large numbers of prey within50miles when you're in thewild,orwithinthelimits ofa city andits suburbs.Human beings donot register as prey, though rumor credits theRedTalonswitha variationonSensePreywhich doesidentify humans.Makea StaticMental Challenge(retest withPrimal-Urge)against sevenTraits in wilderness,nineTraits inurbanenvironments. Successrevealsthe location ofenough preyto feedalargepack.Ifmultipleconcentrationsof prey wouldallserve,theGiftpointsto thenearest gathering(not necessarily the easiest or safest).
-
-## MetisAdvanced
+## Sense Prey this Gift letsyoufind enoughpreytofeeda pack.Traditionallyitcameintousemost of ten during hard winters.In urban environments, it generallyguidesaroutoparkewersanmal shelters and zoos.Sense Preyidentifies large numbers of prey with in50miles when you're in the wild, or with inthelimits of a city and its suburbs.Human beings do not register as prey, though rumor credits the Red Talonswitha variationon Sense Preywhich do esidentify humans.Makea Static Mental Challenge(retest with Primal-Urge)against seven Traits in wilderness, nine Traits inurbanenvironments. Successrevealsthe location of enough preyto feedalargepack.Ifmultipleconcentrationsof prey would all serve, the Giftpointsto the nearest gathering(not necessarily the easiest or safest). ## Metis Advanced
 
 ## Madness
 
-This Gift imposes themadnessagainst which all metisstruggleonto others.Itseffectsvary from one target to thenext:Madnessfindswhatever weaknesses lurk within and draws them out. Spend one Gnosis andmake aSocial Challenge. The targetsuffersdebilitatinginsanityfor oneday. You can change the intensity of the madness at any time,grantingmomentsof lucidityandthen yanking them away with fresh psychosis.The victim always suffers at least a one-Trait penalty to tasksrequringconcentration,ndt Storyteldeinanlleabil to sustain achain of thought formore than one turn at allThememories and psychological trauma of themadnessremainineffectevenafter the Gift expires.
+This Gift imposes the madnessagainst which all metisstruggleonto others.Itseffectsvary from one target to the next:Madnessfindswhatever weaknesses lurk with in and draws the m out. Spend one Gnosis and make a Social Challenge. The targetsuffersdebilitatinginsanityfor oneday. You can change the intensity of the madness at any time, grantingmomentsof lucidityandthen yanking the m away with fresh psychosis.The victim always suffers at least a one-Trait penalty to tasksrequringconcentration, ndt Storyteldeinanlleabil to sustain achain of thought for more than one turn at all the m emories and psychological trauma of the madnessremainineffectevenafter the Gift expires. ## Lupus Basie
 
-<!-- image -->
-
-## LupusBasie
-
-## Sense the Unnatural
-
-TheStorytellermayrequireasecondStati MentalChallenge（retestwithOccult),against six Traits, to interpret an unfamiliar impression.
-
-You can detectunnatural presences and their general strengths and types.SensetheUnnatural revealsmagic,spirits,theWyrm,wraiths, vampirendthrcreaturebn distinguishbetween somethingunnaturaland someonemerelytouchedbyit（ahaunting,a ghoul).Make a Mental Challenge (retest with Enigmas).Success providesavagueimpression susceptibletovariouinterpretationsThat mell ofoldbloodmightbeavampireoracannibalistc spiritorsomethingelse.Spendoneadditional MentalTraitfora clearbutgeneralimpression"something longdead butstillmovingonthis side of theGauntlet" or twoMentalTraitsfora specific signatureimpression.Once youknowthat avamemllhisatlaaystan spendingtwoMentalTraitsonfutureusesofSense oftheUnnaturalwillalwaysmakeitclearthat some newperil is anothervampire.
-
-## LupusIntermediate
+## Sense the Unnatural the Storytellermayrequireasecond Stati Mental Challenge（retestwith Occult), against six Traits, to interpret an unfamiliar impression. You can detectunnatural presences and the ir general strengths and types.Sensethe Unnatural revealsmagic, spirits, the Wyrm, wraiths, vampirendthrcreaturebn distinguishbetween somethingunnaturaland someonemerelytouchedbyit（ahaunting, a ghoul).Make a Mental Challenge (retest with Enigmas).Success providesavagueimpression susceptibletovariouinterpretations That mell of oldbloodmightbeavampireoracannibalistc spiritorsomethingelse.Spendoneadditional Mental Traitfora clearbutgeneralimpression"something longdead but stillmovingonthis side of the Gauntlet" or two Mental Traitsfora specific signatureimpression.Once you knowthat avamemllhisatlaaystan spendingtwo Mental Traitsonfutureusesof Sense of the Unnaturalwillalwaysmakeitclearthat some newperil is anothervampire. ## Lupus Intermediate
 
 ## Childrenof Gaia Intermediate
 
 ## Beast Life
 
-Children of Gaia—As the Lupus Gift; Childrenof Gaia donot use this Gift tolure animalsto harmexcept tosavethe heart ofa caern from imminent danger.
-
-You can communicate with wild animals and give them orders.Domesticated animalswill speak withouuusteruadedrathran ordered since they'renowpart of thehuman order.Spend one Gnosis andmake a Social Challenge (retestwithAnimalKen）.If successul, you can speakwith all animals.You can also call animalsofasingletypewithin10milesandthose whocanreachyouwithout tomuchtroubleor delaywilldoso.SpendanadditionalMentalTrait for eachincrease in10miles of thecallingradius. Wildanimalsbecomefriendlytoyouwilling follow allreasonablerequests andmany unreasonable ones.(Ordering an animal to sacrificeitselfmustbefollowedwithhomage toits spirit,rouris ngerngGaia.heiftas foronecenelusanadditonalscenefrah Gnosis Trait you choose to spend.
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-## RagabashBasie
+Children of Gaia—As the Lupus Gift; Childrenof Gaia do not use this Gift tolure animalsto harmexcept tosavethe heart of a caern from imminent danger. You can communicate with wild animals and give the m or ders.do mesticated animalswill speak with ouuusteruadedrathran or dered since they'renowpart of the human or der.Spend one Gnosis and make a Social Challenge (retestwith Animal Ken）.If successul, you can speakwith all animals.You can also call animalsofasingletypewithin10milesandthose who can reachyouwithout tomuchtroubleor delaywilldoso.Spendanadditional Mental Trait for eachincrease in10miles of the callingradius. Wildanimalsbecomefriendlytoyouwilling follow all reasonablerequests and many unreasonable ones.(or dering an animal to sacrificeitselfmustbefollowedwithhomage toits spirit, rouris ngerng Gaia.heiftas for onecenelusanadditonalscenefrah Gnosis Trait you choose to spend. ## Ragabash Basie
 
 ## Blur of the Milky Eye
 
-You become a shimmeringblur,able topass unnoticedamongothers.Oncesomeone elsesees throughthedeception,youbecomevisibletothat observer untilsomething distracts him and allows you to escape.MakeaSocial Challenge.If successfulyoubecomeablur;theshap-yed you as a hazy shape.Others cannotice you onlyif youvisibly disturb the environmentin someway, andmust winaMentalChallenge against youto doso.TheGiftlastsfortherestofthesceneorfor onehouWhilblurredyumaymveatalf yourwalking paceand speakinawhisper.You shouldcrossyourarmsoveryourchestandothers shouldignoreyourpassageulessyourcharacter interactswiththeenvironment in someway that leavesnoticeableeffects（talking out loud, running, dropping a vase,attacking.
+You become a shimmeringblur, able topass unnoticedamongothers.Oncesomeone elsesees throughthedeception, you becomevisibletothat observer untilsomething distracts him and all ows you to escape.Makea Social Challenge.If successfulyoubecomeablur;the shap-yed you as a hazy shape.Others can not ice you onlyif you visibly disturb the environmentin someway, and must wina Mental Challenge against you to do so.the Giftlastsfortherestofthesceneorfor onehou Whilblurredyumaymveatalf you rwalking paceand speakinawhisper.You should crossyourarmsoveryourchestandothers should ignoreyourpassageulessyourcharacter interactswiththeenvironment in someway that leavesnoticeableeffects（talking out loud, running, dropping a vase, attacking. ## Lupus Advanced
 
-<!-- image -->
-
-## LupusAdvanced
-
-## Song of the GreatBeast
-
-Youmay only use thisGift indeepwildernes, howlingtheSongof theGreatBeast to summon oneof thecreaturesof longagotoyouraid.reat Beasts include thewillawau(giant owl),Yeti, sabertoothtiger,Megalodonsharkandmammoth You can attempt to callanyGreatBeast you can imaginendrumrsersistfdinsaurnt jungles and other equallyexotic creatures elsewhere intheworld's secret places.The Great Beastwillistentoyoubutisnotobligatedto cooperate,andgivingorderstosuchcreaturesis very unwise.Spendone Gnosis andmakeaSocial Challenge （retestwithPrmal-Urge).If successful, the GreatBeast comes out of theUmbra; spendingmoreSocialTraitsincreases theoddsof its answering arequestfavorably.TheStoryteller cansettheGreatBeast'sTraitstosuit the situationbutthyshouldbemressivthis a creature of legend after all.
-
-<!-- image -->
-
-<!-- image -->
-
-## RagabashIntermediate
+## Song of the Great Beast you may only use this Gift indeepwildernes, how lingthe Songof the Great Beast to summon oneof the creaturesof longagotoyouraid.reat Beasts include the will awau(giant owl), Yeti, sabertoothtiger, Megalodonsharkandmammoth You can attempt to callany Great Beast you can imaginendrumrsersistfdinsaurnt jungles and other equallyexotic creatures elsewhere intheworld's secret places.The Great Beastwillistentoyoubutisnotobligatedto cooperate, and givingorderstosuchcreaturesis very unwise.Spendone Gnosis and makea Social Challenge （retestwith Prmal-Urge).If successful, the Great Beast comes out of the Umbra; spendingmore Social Traitsincreases the oddsof its answering are questfavorably.the Storyteller can setthe Great Beast's Traitstosuit the situationbutthyshouldbemressivthis a creature of legend after all. ## Ragabash Intermediate
 
 ## Gremlins
 
-You canmake a technological device malfunctionjustbytouchingit.TheGift actually disruptsthe spiritualenergyinsidethedevice, possiblyeven frightening the spiritintoleaving the device permanently and thereby dooming it to permanentbreakdown.Make aStaticSocial Challenge（retestwithIntimidation）withthe dificulty based onthe type of device.
-
-Traits
+You can make a technological device malfunctionjustbytouchingit.the Gift actually disruptsthe spiritualenergyinsidethedevice, possiblyeven frightening the spiritintoleaving the device permanently and the reby do oming it to permanentbreakdown.Make a Static Social Challenge（retestwith Intimidation）with the dificulty based onthe type of device. Traits
 
 Complexity of Device
 
-Computers,complexelectronics
+Computers, complexelectronics
 
 Telephones, elctricalitems
 
-Cars,machines
+Cars, machines
 
 Knives, simple tools
 
-Ifsuccessful,thedevicestopsorkingforthe rest of thescene.Spendone additionalSocial Trait tomake thefailure lastfor therest of the session,two tomakeitpermanent.Atthe Storytellerdiscretionoodoleplaingmaya toyourSocial totalorcountasone(orevenboth） of the additional Traits.
+Ifsuccessful, the devicestopsorkingforthe rest of the scene.Spendone additional Social Trait tomake the failure lastfor the rest of the session, two tomakeitpermanent.Atthe Storytellerdiscretionoodoleplaingmaya toyour Social totalorcountasone(or evenboth） of the additional Traits. ## Ragabash Intermediate
 
-## RagabashIntermediate
-
-## WhelpBody
-
-Youcan curse afoe'sbody torenderitweakor palsied.Using this Gift is tantamount toa declaratinfmanentwarasrastht majority ofGarou are concerned.Spendone Gnosis andmakea GnosisChallenge against the remove one of your target'sPhysical Traits.You target.Success(not a tie) letsyou permanently mayonlyremove sixPhysicalTraitsinthisway by spendingadditional Gnosis during the challenge)The target can regain them by spendingexperience points asusual.ThisGift works only once ever against aparticular target.
-
-<!-- image -->
-
-## RagabashIntermediate
+## Whelp Body you can curse afoe'sbody torenderitweakor palsied.Using this Gift is tantamount toa declaratinfmanentwarasrastht majority of Garou are concerned.Spendone Gnosis and makea Gnosis Challenge against the remove one of you r target's Physical Traits.You target.Success(not a tie) letsyou permanently mayonlyremove six Physical Traitsinthisway by spendingadditional Gnosis during the challenge)The target can regain the m by spendingexperience points asusual.this Gift works only once ever against aparticular target. ## Ragabash Intermediate
 
 ## Luna's Blessing
 
-While themoon is visible inthe night sky, silver doesnotinflict aggravateddamage onyou. Duringthefullmoonsilvermayeventn against thosewhowould useit tohurtyou.This Giftis activewheneveryou indicate.Whileitsin effect,aslongasthemoonslearlyvisiblen phase above the horizon (steppinginto a building, bad weather ormoonrise/moonsetnegatesthis Gift)ucanreneraedamagermsil it were bashing orlethal damage (bashing if the weaponisbluntthalif itdged）oteht this Gift is not active during the newmoon. During thefullmoon,anyattacker whomakes an unsuccessful attack against youmust thenmake twoSimpleTests.Ifbothfail,the attacker takes normal damage from his silver weapon.
+While the moon is visible inthe night sky, silver do esnotinflict aggravateddamage onyou. Duringthefullmoonsilvermayeventn against thosewhowould useit tohurtyou.This Giftis activewheneveryou indicate.Whileitsin effect, aslongasthemoonslearlyvisiblen phase above the horizon (steppinginto a building, bad weather or moonrise/moonsetnegatesthis Gift)ucanreneraedamagermsil it were bashing or lethal damage (bashing if the weaponisbluntthalif itdged）oteht this Gift is not active during the newmoon. During the fullmoon, anyattacker who makes an unsuccessful attack against you must the nmake two Simple Tests.Ifbothfail, the attacker takes normal damage from his silver weapon. ## Ragabash Advanced
 
-## RagabashAdvanced
+## Thieving Talons of the Magpie with this Giftyoucanappropriatethepowers of others.this Giftextendsto Garou Giftsspirt the like.Makea Mental Challenge againstthe Charmsvampiric Disciplinesmage Spheresand targetf power for oneturnper Gnosis Trait you spend. During this time, the target can not use the same power.Use you r current Gnosis total in place of any Traitthat Garoudonormallyossessike Blood Traits, Glamourandsoon.you must know something about the power in question——enough to specifywhich one you're taking—and must physicallybeableto accomplishthe actionsit requireskelooking at somne. ## Ragabash Advanced
 
-## Thieving Talons of the Magpie
+## Black Fury Advanced
 
-WiththisGiftyoucanappropriatethepowers ofothers.ThisGiftextendstoGarouGiftsspirt the like.MakeaMentalChallenge againstthe CharmsvampiricDisciplinesmageSpheresand targetf power foroneturnper GnosisTrait you spend. During this time,the target cannot use the same power.Use your current Gnosis total in place of anyTraitthatGaroudonormallyossessike BloodTraits,Glamourandsoon.Youmust know something about the power in question——enough to specifywhich one you're taking—andmust physicallybeableto accomplishthe actionsit requireskelooking at somne.
+## Thousand for ms for mof Wyrm-beasts, but can evokemythical becomesmoreremotefromyourownform Testagainstivraitfrnapant otheranimalaboutasbigasthe Garouseven Traitsforanalligatororotherreptilesomewhat largerthanth Garounine Tratsforrr othervery small creature or against10forany mythical creature. Trickster is a shapeshifter; so are the Ragabash, who bringhis archetype into present experience. you can adopt anyformatleastaslargeasamall bird and nobiggerthanabison.you gainall the standard powers of that animal such asgills, flight, poisonglands, tc..oucan'taken Mental Challenge (retest with Animal Ken）.The creatures.Spend one Gnosis and make a Static difcultyincreasesasthedesired animal for m
 
-<!-- image -->
+Black Furies—As the Ragabash Gift.Furies who adoptmythicalbeastformgenerallyhonor Pegasus and assume her for m. ## the urge Intermediate
 
-<!-- image -->
+## Pulse of the Invisible
 
-## RagabashAdvanced
-
-## BlackFury Advanced
-
-## Thousand Forms
-
-formofWyrm-beasts,but canevokemythical becomesmoreremotefromyourownform Testagainstivraitfrnapant otheranimalaboutasbigastheGarouseven Traitsforanalligatororotherreptilesomewhat largerthanthGarounineTratsforrr othervery small creature oragainst10forany mythical creature.
-
-Trickster isa shapeshifter; so are theRagabash, who bringhis archetype into present experience. Youcanadopt anyformatleastaslargeasamall bird andnobiggerthanabison.Yougainall the standard powers of that animal such asgills, flight,poisonglands,tc..oucan'taken Mental Challenge (retest withAnimal Ken）.The creatures.Spend oneGnosis and make aStatic difcultyincreasesasthedesired animal form
-
-BlackFuries—As theRagabash Gift.Furies whoadoptmythicalbeastformgenerallyhonor Pegasus and assume her form.
-
-<!-- image -->
-
-<!-- image -->
-
-## TheurgeIntermediate
-
-## Pulse of theInvisible
-
-SpiritsfilltheworldbutmostGaroudonot see themmost of thetime.ThisGift letsyousee the spiritswhether in the Umbra orin the materialworld andinteractwithUmbralspirits at will.Most spirits arentdoinganythingvery interesingu smehnchan dramaticallyanduseoftheIisibleletu knowwhen a change or complication arises.You can see into theUmbrawithout a challenge whenever your permanent Gnosis equals or exceeds thelocal Gauntlet rating.Whenthe GauntltstongermakaStaticMntl Challenge against the GauntletratingThe effect lastsfortherest of the scene oruntilyou go somewhere with a higher Gauntlet rating.
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-## TheurgeIntermediate
+Spiritsfilltheworldbutmost Garoudonot see the mmost of the time.this Gift letsyousee the spiritswhether in the Umbra or in the materialworld and interactwith Umbralspirits at will.Most spirits are ntdoinganythingvery interesingu smehnchan dramaticallyanduseofthe Iisibleletu knowwhen a change or complication arises.You can see into the Umbrawithout a challenge when ever you r permanent Gnosis equals or exceeds the local Gauntlet rating.when the Gauntltstongermaka Static Mntl Challenge against the Gauntletrating The effect lastsfortherest of the scene or untilyou go somewhere with a higher Gauntlet rating. ## the urge Intermediate
 
 ## Grasp the Beyond
 
-OnceintheUmbracarried peoplemustely ontheGarou or an area like a caernwithvery low Gauntlet rating(3 orles)to escape if they don't possess the ability to step sideways themselves. PeopleleftintheUmbra indefinitelygradually turn entirely to spiritmatter.
-
-Youmay carry things into and out of the Umbra without dedicating themtoyourself.This and to heal injured Kinfolk in mystic glens.You willing orotherwise.Garou oftenuse Grasp the Beyond tobring loyal Kinfolk onUmbralquests Gift even allowsyou to takehumans and animals, must graspthe person orobject to carry it(make a Physical Challenge tograpple anunwilling like people.Maketheusualchallengetoste target).SpendoneWilpowerforsmall items likebackpacksandbowsorthreeforbigitms （pocketwathiftc.）,twoforlagrtm sidewayyuuceduanducarr objectbothenterordeparttheUmbraUnwilling targetsmaymakeaWillpowerChallenge toresist andonly cross the Gauntlet if the Garou wins this challenge as well.
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-## PhilodoxIntermediate
+Onceinthe Umbracarried peoplemustely onthe Garou or an are a like a caernwithvery low Gauntlet rating(3 or les)to escape if they don't possess the ability to step sideways the mselves. Peopleleftinthe Umbra indefinitelygradually turn entirely to spiritmatter. you may carry things into and out of the Umbra with out dedicating the mtoyourself.This and to heal injured Kinfolk in mystic glens.You will ing or otherwise.Garou of tenuse Grasp the Beyond tobring loyal Kinfolk on Umbralquests Gift even all owsyou to takehumans and animals, must graspthe person or object to carry it(make a Physical Challenge tograpple anunwilling like people.Maketheusualchallengetoste target).Spendone Wilpowerforsmall items likebackpacksandbowsorthreeforbigitms （pocketwathiftc.）, twoforlagrtm sidewayyuuceduanducarr objectbothenterordepartthe Umbra Unwilling targetsmaymakea will power Challenge toresist and only cross the Gauntlet if the Garou wins this challenge as well. ## Philodox Intermediate
 
 ## Wendigo Intermediate
 
-## Wisdomof theAncientWays
+## Wisdomof the Ancient Ways
 
-All werewolvesretain someinnate connection to their ancestors,accessible throughmeditation. This Gift lets theGarou bringoldmemories to thesurface andrecall ancient lore.Meditateforat least onefull turn andmakeaStaticGnosis Challenge againstnineTraits（-1foreachlevelof Ancestors theGaroupossesses）.If successfulthe Garou gets ageneral impression of the information she seeks.SpendoneMentalTraitto makeitclearthoughbroad,twotomaket detailed and specific.
+All were wolvesretain someinnate connection to the ir ancestors, accessible throughmeditation. This Gift lets the Garou bringoldmemories to the surface and recall ancient lore.Meditateforat least onefull turn and makea Static Gnosis Challenge againstnine Traits（-1foreachlevelof Ancestors the Garoupossesses）.If successfulthe Garou gets ageneral impression of the information she seeks.Spendone Mental Traitto makeitclearthoughbroad, twotomaket detailed and specific. ## Galliard Basic
 
-<!-- image -->
+## Call of the Wyld how ls becomes greatlymagnified.ACallof the you r naturalaptitudeforcommunicatingwith Wyldcanstirtheraroutofreshenergyvn those beyond the normal range of hearing. Galliardsregularlyusethis Giftat the beginning of revels and otherpack and sept activitiesand to call for aidintrouble.Makea Physical Challenge If successful, the remarkable call goes out.A single successcarries ittoall Garouwithintwice normal hearing range.Spending an additional Physical Trait provides the following bonus those Garou who hear the call gaina one-Trait bonus to the next challenge they take part in as membersof the packorseptthatis, togrou effortsnotindividualonespendtwoaditional Physical Traits toimpose a one-Trait penalty on all combat-related challengesthatthe hearing Garou's opponentsengageinfortherest of that scene. ## Galliard Basie
 
-<!-- image -->
+## Mindspeak you can linkthemindsof targetedindividuals into a sort of sharedwakingdream.they perceive the shared dream overlaidonmundanereality, and can communicatefreelywitheachother whileitlastsatthecostof someimpairmentf the irabilitytodealwiththeirrespective immediatephysical surroundings.Spend one will power Trait per sentientbeing tinkn Mindspeak.Makea Social Challengeagainsteach unwilling participant.Participantscan speak freelyoncelinkedandcanuse Social Abilities againsteachother.they sufferatwo-Trait penalty on all challenges dealingwith the ir own surroundings.Mindspeak endswhen all participantschoosetoenditorwhenyoufaila challenge against anunwilling target.Participants must bewithinline of sightof eachother when the Giftesntoffctutcanmoveany distance the reafter. ## Gaiard Intermediate
 
-<!-- image -->
+## Shadows by the Firelight you invoke shadows and dreams to create stories inwhichothers take part...will inglyor not.Shadowssurround the participantsastheyact outtheoleuassinandeamlikensatn fillin sesrygap Galliadsotensethisft moots whileteaching storiesfrom Garou history and legend.Itcanaso serve as aweapon, how evercommandingthetargetsintofixed this Giftonwilling subjects.of or ceunwilling behavior.the re is no challenge required to use targetsintastrymakeocialhallng (retest with Performance）against eachvictim.The story beginswhen the requisitenumber of victims are all compelledtoact.Eachmust actpreciselyas one of the characters inthe story you tell.This Gift lastsforone turn per Gnosis Trait you spend. ## Galliard Advanced
 
-## Galliard Basic
-
-## Call of the Wyld
-
-howls becomes greatlymagnified.ACallof the Your naturalaptitudeforcommunicatingwith Wyldcanstirtheraroutofreshenergyvn those beyond the normal range of hearing. GalliardsregularlyusethisGiftat thebeginning of revels andotherpack and sept activitiesand to call foraidintrouble.MakeaPhysical Challenge If successful,the remarkable call goes out.A single successcarries ittoall Garouwithintwice normal hearing range.Spending an additional PhysicalTrait provides the following bonus thoseGarou who hear thecall gaina one-Trait bonus to the next challenge they take part in as membersof thepackorseptthatis,togrou effortsnotindividualonespendtwoaditional PhysicalTraits toimpose a one-Trait penalty on allcombat-related challengesthatthe hearing Garou's opponentsengageinfortherest of that scene.
-
-<!-- image -->
-
-## Galliard Basie
-
-## Mindspeak
-
-Youcanlinkthemindsof targetedindividuals into a sort of sharedwakingdream.They perceive theshared dream overlaidonmundanereality, and cancommunicatefreelywitheachother whileitlastsatthecostof someimpairmentf theirabilitytodealwiththeirrespective immediatephysical surroundings.Spend one WillpowerTrait per sentientbeing tinkn Mindspeak.MakeaSocialChallengeagainsteach unwilling participant.Participantscan speak freelyoncelinkedandcanuseSocialAbilities againsteachother.They sufferatwo-Trait penalty on all challenges dealingwith their own surroundings.Mindspeak endswhen all participantschoosetoenditorwhenyoufaila challenge against anunwilling target.Participants must bewithinline of sightof eachother when theGiftesntoffctutcanmoveany distance thereafter.
-
-## GaiardIntermediate
-
-## Shadows by the Firelight
-
-Youinvoke shadows anddreams to create stories inwhichothers take part...willinglyor not.Shadowssurround the participantsastheyact outtheoleuassinandeamlikensatn fillin sesrygapGalliadsotensethisft moots whileteaching storiesfromGarou history and legend.Itcanaso serve as aweapon, howevercommandingthetargetsintofixed this Giftonwilling subjects.oforceunwilling behavior.There isno challenge required to use targetsintastrymakeocialhallng (retest withPerformance）against eachvictim.The story beginswhen therequisitenumber ofvictims areallcompelledtoact.Eachmust actpreciselyas one of the characters inthe story you tell.This Gift lastsforone turn perGnosisTrait you spend.
-
-## Galliard Advanced
-
-## Head Games
-
-ThisGift puts a target's emotions under your control.Youcanchange loveto hate and back again,twist theobjectsofdesireanddoalmost anythingelseyou please toyour victim.Keepin mind thatover-indulgingndestructiveimpulses mayvrrutu ul.acl Challenge(retest with Empathy)against the target.Success allowsyou tomanipulate the lastsfor therestof thescene,orforonehour. Creating lasting emotionsisdifficult:Theeffects of HeadGameswearoffinensuing scenesunless eventsreinforcethem.Youcan,forinstance, makethtargetallnlvewithmoneb passionwillfade unless thetarget hasreasonsto find that person atractivewithoutmanipulation andwithout somesignoffavorableresponsefrom the objectof desire.On the other hand,an irrational fearofaparticularmodeofattackor kindof creaturecan easilybecomelastingif the target suffersdamagefromtheobjectof fearwhile Head Games is in effect.
-
-## GalliardIntermediate
+## Head Games this Gift puts a target's emotions under you r control.you can change loveto hate and back again, twist the objectsofdesireanddoalmost anythingelseyou please toyour victim.Keepin mind that over-indulgingndestructiveimpulses mayvrrutu ul.acl Challenge(retest with Empathy)against the target.Success all owsyou tomanipulate the lastsfor the restof the scene, or for onehour. Creating lasting emotionsisdifficult:the effects of Head Gameswearoffinensuing scenesunless eventsreinforcethem.you can, for instance, makethtargetallnlvewithmoneb passionwillfade unless the target has reasonsto find that person atractivewithoutmanipulation and with out somesignoffavorableresponsefrom the objectof desire.On the other hand, an irrational fearofaparticularmodeofattackor kindof creaturecan easilybecomelastingif the target suffersdamagefromtheobjectof fearwhile Head Games is in effect. ## Galliard Intermediate
 
 ## Bridge Walker
 
-You cancreateminormoonbridgesforyour own exclusive use.It takes one percent of the usual time to travelalong oneof thesebridges, allowing(among other things)for you to disappearnfrntfafoeandreappearbehindit. Lunesdonotprotectheebrdges,and they sometimesattractspiritcreaturesinterests.Such creaturesmay evenfollowyou into thephysical world.Spend one Gnosis to create thebridge.It lastsforonlyonepassageunlessyoualsospenda permanentGnosisTrait while creating thebridge, in which case it lasts until the next full moon. Thebridgecanextendupto onemileper Gnosis Trait the Garou possesses at the time of creation.
-
-## GalliardIntermediate
+You can createminormoonbridgesforyour own exclusive use.It takes one percent of the usual time to travelalong oneof the sebridges, all owing(among other things)for you to disappearnfrntfafoeandreappearbehindit. Lunesdonotprotectheebrdges, and they sometimesattractspiritcreaturesinterests.Such creaturesmay evenfollowyou into the physical world.Spend one Gnosis to create the bridge.It lastsforonlyonepassageunlessyoualsospenda permanent Gnosis Trait while creating the bridge, in which case it lasts until the next full moon. the bridgecanextendupto onemileper Gnosis Trait the Garou possesses at the time of creation. ## Galliard Intermediate
 
 ## Song of Rage
 
-You sing a song thatunleashes theBeastin othersdrivingwerewolvesampiresandothr supernatural creaturesintofrenzyandinspiring berserkerrages in humanbeings.Make a Social Challenge（retestwithLeadership）.Thevictim fliesintoaviolentrageforoneturnorfrenziesf heissusceptibletofrenzy)plusoneforeach additionalSocialTrait spent.ThisGiftaffectsone victim at a time; you may use it once per turn.
-
-## Ahroun Basic
+You sing a song that unleashes the Beastin othersdrivingwerewolvesampiresandothr supernatural creaturesintofrenzyandinspiring berserkerrages in humanbeings.Make a Social Challenge（retestwith Leadership）.the victim fliesintoaviolentrageforoneturnorfrenziesf heissusceptibletofrenzy)plusoneforeach additional Social Trait spent.this Giftaffectsone victim at a time; you may use it once per turn. ## Ahroun Basic
 
 ## Falling Touch
 
-You can knock overyour targetwiththe lightest touch.Make aPhysical Challenge(retest withMedicine）.If successful,the targetfallsdown. Using thisGiftcounts as anaction;usingFalling Touchandstrikingtoinflictdamageareseparate actions.Thetargetmust sit on theground for the next fouractions(or15 seconds if not in combat） HemaynotinitiatePhysicalChallengesbumay defend himselfas normal.
+You can knock overyour targetwiththe lightest touch.Make a Physical Challenge(retest with Medicine）.If successful, the targetfallsdown. Using this Giftcounts as anaction;using Falling Touchandstrikingtoinflictdamageareseparate actions.the targetmust sit on the ground for the next fouractions(or15 seconds if not in combat） Hemaynotinitiate Physical Challengesbumay defend himselfas normal. ## Galliard Advanced
 
-<!-- image -->
-
-## GalliardAdvanced
-
-## UktenaAdvanced
+## Uktena Advanced
 
 ## Fabric of the Mind
 
-The greatestGalliardscanbring the products oftheirmaginationtolifdrawingoutcreatures and objectsfromtheirdreams.MakeaStatic Mental Challenge(retestwithPerformance) againstightaitWihaucceeacha successfullyriskedprovides oneTraitwhichyou can assignasyoulike toa single imaginedobject orcreature.TheTraitscango into one objector severaland haveany characteristics youcan imagine anddescribe.Oncecreated,theobjects requireonenosisTrait perscene perobjectto remaininthematerialworldif theyrerelatively inactivensisraitbjf they'reinvolvedinfights andotherstrenuous activities.Creaturesbrought out thusly are sentientbunotentirelyndpendent;theyreact naturally,but eformby yourvolition.
-
-If youfail the challengebefore accumulating thedesiredTraitsmake twoSimpleTests.Ifyou failboththeobjectmergemmedately independentofyourcontrolandoftennotexactly what you wanted.It lasts until destroyed, banished or otherwiseremoved.
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-## BlackFuriesAdvanced
+The greatest Galliardscanbring the products of the irmaginationtolifdrawingoutcreatures and objectsfromtheirdreams.Makea Static Mental Challenge(retestwith Performance) againstightait Wihaucceeacha successfullyriskedprovides one Traitwhichyou can assignasyoulike toa single imaginedobject or creature.the Traitscango into one objector severaland have any characteristics you can imagine and describe.Oncecreated, the objects requireonenosis Trait perscene perobjectto remaininthematerialworldif the yrerelatively inactivensisraitbjf they'reinvolvedinfights and otherstrenuous activities.Creaturesbrought out thusly are sentientbunotentirelyndpendent;the yreact naturally, but eformby you rvolition. If you fail the challengebefore accumulating the desired Traitsmake two Simple Tests.Ifyou failboththeobjectmergemmedately independentofyourcontrolandoftennotexactly what you wanted.It lasts until destroyed, banished or otherwiseremoved. ## Black Furies Advanced
 
 ## Wyld Warp
 
-This Gift summons Wyld-spirits... that you cannotcontrol.Itsadesperatetactic,sincethy run orfly inanunpredictable destructivefury. Wyld-spirits havebeen known todismember enemies,grant the summonerand herpackmates increasedphysicalstengthraestantlyl theFuryand her packmates of all damage toallow a sustainedfightrdstroyllWeaver-toolsn the areaWhateverthwillenfial in some sense.Spendone Gnosis and oneRage. Make a Static Mental Challenge （retest with Enigmas)against the local Gauntlet rating. Success summons avariablenumberofWyldings, who behave as theStoryteller sees fit.The Wyldings willdo something that helps—it's just unlikely tobewhat youmost want or expect.
+This Gift summons Wyld-spirits... that you can not control.Itsadesperatetactic, sincethy run or fly inanunpredictable destructivefury. Wyld-spirits have been known todismember enemies, grant the summonerand herpackmates increasedphysicalstengthraestantlyl the Furyand her packmates of all damage toallow a sustainedfightrdstroyll Weaver-toolsn the are a what everthwillenfial in some sense.Spendone Gnosis and one Rage. Make a Static Mental Challenge （retest with Enigmas)against the local Gauntlet rating. Success summons avariablenumberof Wyldings, who behave as the Storyteller sees fit.The Wyldings will do something that helps—it's just unlikely tobewhat you most want or expect. ## Bone Gnavers Intermediate
 
-<!-- image -->
+## G/ass Walkers Intermediate Silent Striders Intermediate
 
-<!-- image -->
+## Attunement or town and learnuseful things from the m The population of the city(in general terms), Garou and other supernaturalbeings'enclaves, secret tunnels and the like.This Gift only works inurban are as.Spendone Gnosis and makea Mental Challenge(retest with Streetwise).Success providesyou with generalinformation.Spend one additional Mental Trait for preciseanswersto one or twoquestions, and twoadditional Mental Traitsfordetailed information on a who le category of questionslike"supernatural enclaves" you can communicatewiththe spiritsofacity
 
-<!-- image -->
-
-<!-- image -->
-
-## Bone GnaversIntermediate
-
-## G/assWalkersIntermediate SilentStridersIntermediate
-
-## Attunement
-
-or town andlearnuseful things from them The population of the city(in general terms), Garou andother supernaturalbeings'enclaves, secret tunnels and the like.This Gift only works inurban areas.Spendone Gnosis andmakea Mental Challenge(retest withStreetwise).Success providesyou withgeneralinformation.Spend one additional MentalTrait forpreciseanswersto one or twoquestions,andtwoadditionalMental Traitsfordetailed information on a whole category of questionslike"supernatural enclaves"
-
-Youcancommunicatewiththe spiritsofacity
-
-Silent Striders—As theBone Gnawer Gift, except that youmust decide itwhetherit functions in thecity or thewildernesswhenyou learnit.Thewildernessversion uses aMental Challenge,retesting withSurwvival
+Silent Striders—As the Bone Gnawer Gift, except that you must decide itwhetherit functions in the city or the wildernesswhenyou learnit.the wildernessversion uses a Mental Challenge, retesting with Surwvival
 
 ## Bone Gnawers Advanced
 
 ## Riot
 
-You summonmalevolent spirits to goadacitys people intoviolent rioting.The spirits make hatredsandfearsofallsortsseemjustifid distorting perceptions and blocking communicationthatcoulddefusethe escalating tension. Spend Gnosis enoughto achievethe desired effect,andmakeaStaticMentalChallen （retest withSubterfuge）against eightTraits.One GnosisTraitprovides enough spirits toinfest a building,twotoinectablock,heetooua neighborhood,fourto arouseseveralneighborhoods ora district,five to affect thewholecity. The spiritsbeginby concentrating on a target groupyoupecifybutthyontworkgethr staydirectedepiritseaveathendf scene;after that,normalhumanpsychology takes its course.
-
-<!-- image -->
-
-## Bone Gnawers Intermediate
+You summonmalevolent spirits to goadacitys people into violent rioting.The spirits make hatredsandfearsofallsortsseemjustifid distorting perceptions and blocking communicationthatcoulddefusethe escalating tension. Spend Gnosis enoughto achievethe desired effect, and makea Static Mental Challen （retest with Subterfuge）against eight Traits.One Gnosis Traitprovides enough spirits toinfest a building, twotoinectablock, heetooua neighborhood, fourto arouseseveralneighborhoods or a district, five to affect the who lecity. The spiritsbeginby concentrating on a target groupyoupecifybutthyontworkgethr staydirectedepiritseaveathendf scene;after that, normalhumanpsychology takes its course. ## Bone Gnawers Intermediate
 
 ## Friend in Need
 
-GarouofothertribesareslowtoacceptBone Gnawerasquals.WhenthydoneGnw canrepay that trustinremarkablemanner.You can choose to sacrificeeverything forthe sake ofa packmate or tribemate.Spend oneWillpower and make aWillpowerChallenge.If successfulyou can transferone of thefollowing—healthlevels Rage,WilpoweroroneGif—fromyourself ta comrade.Friend inNeed doesnot allowfor transferring Gifts of higherranks than the recipientcouldknownorforthetransfef Abilities orAttributes.The transfer lastsfor the restofthesceneoruntiltherecipientchooseso terminate the transfer.WhileFriend inNeed is in effectyoucannotusethetransferredTraitf recipientdisbforetheyreretuedouls them permanently (although youmay buy them back withExperienceTraits）.Healthlevelslost in this way return as aggravated damage.
-
-## Bone Gnawers Advanced
+Garouofothertribesareslowtoaccept Bone Gnawerasquals.when thydone Gnw can repay that trustinremarkablemanner.You can choose to sacrificeeverything for the sake of a packmate or tribemate.Spend one will power and make a will power Challenge.If successfulyou can transferone of the following—healthlevels Rage, Wilpowerorone Gif—from you rself ta comrade.Friend in Need do esnot all owfor transferring Gifts of higherranks than the recipientcouldknownorforthetransfef Abilities or Attributes.The transfer lastsfor the restofthesceneoruntiltherecipientchooseso terminate the transfer.While Friend in Need is in effectyoucannotusethetransferred Traitf recipientdisbforetheyreretuedouls the m permanently (although you may buy the m back with Experience Traits）.Healthlevelslost in this way return as aggravated damage. ## Bone Gnawers Advanced
 
 ## Survivor
 
-This Giftbrings theBoneGnawer knack for survivaltoitspurestxpressionprovidin （temporary)freedom from the needfor food, water,sleep,protectionfromtheclimateor temperature extremes and the like.You developa temporaryimmunity to natural poisons and diseasesandevenWyrm-toxinsworkatonlyhalf their normal strength.Spend oneGnosis and make a Physical Challenge (retest with Survival). Success grantstheeffectsdescribed above;the effectslastforoneday.Byspendingasecond GnosisyoucanganthreetaminareatedTra and sufferowoundenaltiebuttheGifill expireearly after10roundsof combat.When the Giftweasfustetst hours, and youll awaken ravenously hungry.
+This Giftbrings the Bone Gnawer knack for survivaltoitspurestxpressionprovidin （temporary)freedom from the needfor food, water, sleep, protectionfromtheclimateor temperature extremes and the like.You developa temporaryimmunity to natural poisons and diseasesandeven Wyrm-toxinsworkatonlyhalf the ir normal strength.Spend one Gnosis and make a Physical Challenge (retest with Survival). Success grantstheeffectsdescribed above;the effectslastforoneday.Byspendingasecond Gnosisyoucanganthreetaminareated Tra and sufferowoundenaltiebutthe Gifill expireearly after10roundsof combat.When the Giftweasfustetst hours, and you ll awaken ravenously hungry. ## Bone Gnawers Basie
 
-## Bone Gnawers Basie
-
-## Tagalong
-
-ThisGifakeu semalngrast acceptabletothetotemguardinga packorcaern, forashrtlhlitftu treatedjust likeanyothermemberof thepack whenitstimeforthetotemsblessingpack maneuvers and thelike.Acaern totemwill allow youtoperformtheRiteof theOpenedCaern withoutfearofretribution.Youmustknowthe totem'nameandmustprostrateyourselfbefore thecacenterrpackladewrigglingrw onyoustomachlikeabegging dogyouneednot actuallydothis).MakeaStaticSocialChallenge (retest withSubterfuge）againstthe totem's Gnosis.Success givesyouthebenefitsdescribed abovefrndayandthttmwilldisaprove of any Garou who mistreats you without cause. Overuseof thisGiftcancausebadwillthough occasional,carefulandrespectfulusage won.
-
-## Bone Gnawers Intermediate
+## Tagalong this Gifakeu semalngrast acceptabletothetotemguardinga packorcaern, for ashrtlhlitftu treatedjust likeanyothermemberof the pack when itstimeforthetotemsblessingpack maneuvers and the like.Acaern totemwill all ow you toperformthe Riteof the Opened Caern with outfearofretribution.you mustknowthe totem'nameandmustprostrateyourselfbefore the cacenterrpackladewrigglingrw onyoustomachlikeabegging do gyouneednot actuallydothis).Makea Static Social Challenge (retest with Subterfuge）againstthe totem's Gnosis.Success givesyouthebenefitsdescribed abovefrndayandthttmwilldisaprove of any Garou who mistreats you with out cause. Overuseof this Giftcancausebadwillthough occasional, carefulandrespectfulusage won. ## Bone Gnawers Intermediate
 
 ## Infest
 
-You can summon vermin to invade any structure up to the size of a large building. Whatevreateareatandcme insectnan otherunpleasant creatures.The creatures summoneddnotattackeoplebutave according to theirnature,whichgenerallymeans lookingfordarklacestohidewithinthetargeted structure.SpendGnosistoachievethedesired effect,andmakeaStaticSocialChallenge(retest withAnimal Ken)against sevenTraits.A single Trait gathers afewcreaturestomakea nuisance, while fiveTraitsfill thebuildingwith enough vermin tomakeit uninhabitablefora prolonged period of time.
+You can summon vermin to invade any structure up to the size of a large building. what evreateareatandcme insectnan otherunpleasant creatures.The creatures summoneddnotattackeoplebutave according to the irnature, which generallymeans lookingfordarklacestohidewithinthetargeted structure.Spend Gnosistoachievethedesired effect, and makea Static Social Challenge(retest with Animal Ken)against seven Traits.A single Trait gathers afewcreaturestomakea nuisance, while five Traitsfill the buildingwith enough vermin tomakeit uninhabitablefora prolonged period of time. ## Children of Gaia Basie
 
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-## Children of Gaia Basie
-
-## Mercy
-
-ThisGift allows theChildren of Gaia tofight withthirauralweaponryandRageb subduerather thankillopponents.Mercy often comes into playin duels and when a high-Rage Garouseeksprisonersorsubjectsratherthan corpses.(Note that this Gift can enhance Intimidationandotherocialeffortasitlooks very strange:Claws and fangs tearopenwounds, which thenimmediatelycloseupmost of theway and turn intobruises.It's obvious to all observers that something unnaturalisgoing on.)Spendone Gnosis.Fortherestofthesenealldamageh you inflictwithyourownbodyisconsidered bashing damage.Opponents who'd otherwise die simply fall unconscious andmay heal at normal bashing damage rates.
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-## Fianna Intermediate
+## Mercy this Gift all ows the Children of Gaia tofight with thirauralweaponryand Rageb subduerather than killopponents.Mercy of ten comes into playin duels and when a high-Rage Garouseeksprisonersorsubjectsratherthan corpses.(not e that this Gift can enhance Intimidationandotherocialeffortasitlooks very strange:Claws and fangs tearopenwounds, which the nimmediatelycloseupmost of the way and turn into bruises.It's obvious to all observers that something unnaturalisgoing on.)Spendone Gnosis.for the re stofthesenealldamageh you inflictwithyourownbodyisconsidered bashing damage.Opponents who'd otherwise die simply fall unconscious and may heal at normal bashing damage rates. ## Fianna Intermediate
 
 ## Phantasm
 
-You createan unmoving illusionwithcuesfor all senses.Suchanillusionmightbeawalla statue oragarden.While theillusionwill smell right andfelsoliditcannotbemadeve naturally(afieldof grain that isnotbending under astrongwind canmakesome peoplevery suspicious).Spend one GnosisTrait foreach10 foot area tobe coveredbytheillusion andmakea StaticMental Challenge（retestwithExpression) against six Traits.Anyone who doubtsthe ilusion must make a StaticMental Challenge (retest with Awareness)against thecreator's MentalTrait total to see through it.
-
-<!-- image -->
-
-<!-- image -->
-
-## FiannaAdvanced
+You createan unmoving illusionwithcuesfor all senses.Suchanillusionmightbeawalla statue or agarden.While the illusionwill smell right and felsoliditcannotbemadeve naturally(afieldof grain that is not bending under astrongwind can makesome peoplevery suspicious).Spend one Gnosis Trait for each10 foot are a tobe coveredbytheillusion and makea Static Mental Challenge（retestwith Expression) against six Traits.Anyone who do ubtsthe ilusion must make a Static Mental Challenge (retest with Awareness)against the creator's Mental Trait total to see through it. ## Fianna Advanced
 
 ## Call the Hunt
 
-The Huntsman is a powerful Jaggling inthe with10Wilower10Rage5nosis40Essnc, and theCharmsArmor,MatrializeandTracking. His hounds are Gaflingsusuallynumberingnine, with coal-blackcoats and eyes of greenfire.They can easilykeep pace with aGarou inlupusform. They have6illpower7Rage2nosis8 EssencendthChamsMaralieandTra
-
-Youcanonlyuse thisGift oncepermonthand only in direneed.It summons forth the Great HuntsmanofCelticmythtoharry and slaya great evil designated by theFianna.This Giftrequires a fullhoureentnchantingprirtusepend one Gnosis and make a Social Challenge.If successful,theHuntsman appearswithne houndlusanadditionaloundforeachagr GnosisTraityou spend.If the evil isnotworthy of the Huntsmans attention,the summoner doesnot join the hunt,oryoulose the challenge,the Huntsman hunts you instead.
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-## GetofFenris Basic
+The Huntsman is a powerful Jaggling inthe with10Wilower10Rage5nosis40Essnc, and the Charms Armor, Matrializeand Tracking. His hounds are Gaflingsusuallynumberingnine, with coal-blackcoats and eyes of greenfire.they can easilykeep pace with a Garou inlupusform. they have6illpower7Rage2nosis8 Essencendth Chams Maralieand Tra you can onlyuse this Gift oncepermonthand only in direneed.It summons for th the Great Huntsmanof Celticmythtoharry and slaya great evil designated by the Fianna.This Giftrequires a fullhoureentnchantingprirtusepend one Gnosis and make a Social Challenge.If successful, the Huntsman appearswithne houndlusanadditionaloundforeachagr Gnosis Traityou spend.If the evil is not worthy of the Huntsmans attention, the summoner do esnot join the hunt, or you lose the challenge, the Huntsman hunts you instead. ## Getof Fenris Basic
 
 ## Visage of Fenris
 
-You loom largerandmore formidable than usualcommandingrespectfrompeersandfear from foes.MakeaSocial Challenge (retestwith Intimidation)against one ormore targets inthe vicinity.Toaffect Garouof higherrank,spend oneMentalTrait perRank of difference:ARank 1Garoumust wintheSocial Challenge andspend fourMentalTraits to affect a Rank 5Garou. Allieandeerseeyuasmressiveandol and suffera one-Traitpenalty onSocial Challenges against you.Enemiesseeyouas particularlyformidable,andsufferaone-Trait penaltyon attacking challenges.The Gift lastsfor the rest of the scene.
+You loom largerandmore for midable than usualcommandingrespectfrompeersandfear from foes.Makea Social Challenge (retestwith Intimidation)against one or more targets inthe vicinity.Toaffect Garouof higherrank, spend one Mental Trait per Rank of difference:ARank 1Garoumust winthe Social Challenge and spend four Mental Traits to affect a Rank 5Garou. all ieandeerseeyuasmressiveandol and suffera one-Traitpenalty on Social Challenges against you.Enemiesseeyouas particularlyformidable, and sufferaone-Trait penaltyon attacking challenges.The Gift lastsfor the rest of the scene. ## Getof Fenris Advanced
 
-<!-- image -->
+## Fenris'Bite this Gifaifubitingttn enough tomangleoreven sever limbs.Spend one Rage and make a Physical Challenge (retestwith Medici）fitucedouextitattackn that target will(if the bite attack succeeds) mangleanddisablelmbinfictinganexta levelof aggravateddamage onto pof anyother damage the bite deals out.The limbis useless until the target can regenerate the damage;if the targetishuman or some othersort of beingthat lacksenerativeabilitieshebecom permanently disabled.Afterinflictingbite damage, make two Simple Tests.If the attacker winsboth, the bite severs the limb completely.f the biteattackfailsthebenefitsof this Giftarent held over for some future attack. ## Getof Fenris Advanced
 
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-## GetofFenrisAdvanced
-
-## Fenris'Bite
-
-ThisGifaifubitingttn enough tomangleoreven sever limbs.Spend one Rage andmake a Physical Challenge (retestwith Medici）fitucedouextitattackn that target will(if thebite attack succeeds) mangleanddisablelmbinfictinganexta levelof aggravateddamage ontopof anyother damage the bite deals out.The limbis useless until the target canregenerate the damage;if the targetishuman orsome othersort of beingthat lacksenerativeabilitieshebecom permanently disabled.Afterinflictingbite damage,make twoSimpleTests.If the attacker winsboth,thebite severs thelimb completely.f thebiteattackfailsthebenefitsof thisGiftarent held over forsome future attack.
-
-<!-- image -->
-
-<!-- image -->
-
-## GetofFenrisAdvanced
-
-## Horde of Valhalla
-
-Youmayuse thisGift only if you are in good standingwithyour tribal totem andingreatneed ofhelpastcallsdirectlyonFenristsendget wolves.Spendone ormoreRage and/or Gnosis Traits andmake a Static Social Challenge (retest withAnimal Ken）against sixTraits.If successful, onegreatwolfequivalenttothewolvesofthe GreatHuntappearsfromtheUmbra perRaeor GnosisTrait spent.The wolves remain fortherest of the scene.They have6Willower7age GnosisEsenceandthChamsMatriali and Tracking.
-
-## GlassWalkersBasic
+## Horde of Valhalla you mayuse this Gift only if you are in good standingwithyour tribal totem and ingreatneed of helpastcallsdirectlyon Fenristsendget wolves.Spendone or more Rage and/or Gnosis Traits and make a Static Social Challenge (retest with Animal Ken）against six Traits.If successful, onegreatwolfequivalenttothewolvesofthe Great Huntappearsfromthe Umbra per Raeor Gnosis Trait spent.The wolves remain for the re st of the scene.they have6Willower7age Gnosis Esenceandth Chams Matriali and Tracking. ## Glass Walkers Basic
 
 ## Diagnostics
 
-You cantell what'swrongwithamachine just by looking at it,and can enlist themachinespirit'shepinixingit.MakeaMentalChallen (retestwith Crafts）to determine the problem. Spend oneGnosistopersuade thedevicesspirit tohelpfixtheproblem.Mostspirits arewillingto dothis,sincetheydonwanttoinhabitjunkbut not allautomatically like Garou.(At the Storyteller'sdiscretion,thisexchange canbe olplayed.ruait halves thetime tofixthedevice,andyoureceive a one-Trait bonus on the challenge tofix the deviceuanaditnalonuraitra Social Trait spent.
+You can tell what'swrongwithamachine just by looking at it, and can enlist the machinespirit'shepinixingit.Makea Mental Challen (retestwith Crafts）to determine the problem. Spend one Gnosistopersuade the devicesspirit tohelpfixtheproblem.Mostspirits are will ingto do this, sincetheydonwanttoinhabitjunkbut not all automatically like Garou.(At the Storyteller'sdiscretion, this exchange can be olplayed.ruait halves the time tofixthedevice, and you receive a one-Trait bonus on the challenge tofix the deviceuanaditnalonuraitra Social Trait spent. ## Glass Walkers Advanced
 
-<!-- image -->
+## Summon Net-Spider you can summona Net-Spider, averyotnt Weaverpiritandseittgancontrolverany computer.the Spidercanmodifyordestroy all data inthe system and extensively manipulateits physicalfeatures:turningpoweronandoff, overloadingcircuits and soon.Spendone Gnosis and make a Static Social Challenge(retestwith Computer)agansteight Traitsf successfulth Net-Spider appears and heeds you r commands. Halve the difficulty of all computer-related challengesinadditiontowhatevereviltyu and Net-Spidercook up.The Net-Spiderremains for the rest of the scene.the Net-Spiderhas5 will power,4Rage,6Gnosis,12Essence. ## Glass Walkers Basie
 
-<!-- image -->
+## Trick Shot this Giftusedtobeobsurebuthasbecom increasinglypopularinmoderntimes.you can performbrillianteatsofmarksmanshipsuchs shootingaweaponout of anopponent' hand and firing do wnthebarrel of anenemy's gun.Trick Shot can not directlyamanpponentthought can reallsugndnlrnf and pistols.Ad you r permanent Gloryrating to you r Traittotalwhenperformingparticularly exuberant shooting tricks.Itcaninflictindirect damagenopponentsby(for instance）shooting the rope that holds a chandelieroveranenemys head, but will not workforanyshotthataimsto put a bulletintoaliving target.the effectis permanent. ## Glass Walkers Intermediate
 
-## GlassWalkersAdvanced
-
-## Summon Net-Spider
-
-Youcan summonaNet-Spider,averyotnt Weaverpiritandseittgancontrolverany computer.TheSpidercanmodifyordestroy all data inthe system andextensively manipulateits physicalfeatures:turningpoweronandoff, overloadingcircuits andsoon.SpendoneGnosis andmake aStaticSocial Challenge(retestwith Computer)agansteightTraitsf successfulth Net-Spider appears and heeds your commands. Halve the difficulty of all computer-related challengesinadditiontowhatevereviltyu andNet-Spidercook up.The Net-Spiderremains for therest of the scene.TheNet-Spiderhas5 Willpower,4Rage,6Gnosis,12Essence.
-
-## GlassWalkersBasie
-
-## Trick Shot
-
-ThisGiftusedtobeobsurebuthasbecom increasinglypopularinmoderntimes.Youcan performbrillianteatsofmarksmanshipsuchs shootingaweaponout of anopponent' hand and firing downthebarrel of anenemy's gun.Trick Shot cannotdirectlyamanpponentthought canreallsugndnlrnf and pistols.Ad your permanentGloryrating to yourTraittotalwhenperformingparticularly exuberant shooting tricks.Itcaninflictindirect damagenopponentsby(forinstance）shooting therope thatholds a chandelieroveranenemys head,butwillnotworkforanyshotthataimsto put a bulletintoaliving target.Theeffectis permanent.
-
-## GlassWalkersIntermediate
-
-## RedTalonsIntermediate
+## Red Talons Intermediate
 
 ## Elemental Favor
 
-Red Talons-As the GlassWalker Gift, exceptthat theRedTalons'versionistaughtby naturalelementals and affects one of thefour classic elements—earth,air,fire orwater.
-
-Youpsuadeatnrajlanan elementalintodestroying itsearthly shell.Aglass sheetmightexlodeatfoesaoorrefusetopn evenflockedacarsbrakes suddenlymltr failand soon.MakeaStaticocialChallenge (retestwithSubterfuge）againstthespiritsGnosis. TheStorytellerandplayermustworkout the precise effects；most severe damage will be indirect.
-
-<!-- image -->
-
-<!-- image -->
-
-## GlassWalkersAdvanced
+Red Talons-As the Glass Walker Gift, exceptthat the Red Talons'versionistaughtby naturalelementals and affects one of the four classic elements—earth, air, fire or water. you psuadeatnrajlanan elementalintodestroying itsearthly shell.Aglass sheetmightexlodeatfoesaoorrefusetopn evenflockedacarsbrakes suddenlymltr failand soon.Makea Staticocial Challenge (retestwith Subterfuge）againstthespirits Gnosis. the Storytellerandplayermustworkout the precise effects；most severe damage will be indirect. ## Glass Walkers Advanced
 
 ## Chaos Mechanics
 
-GlassWalkersrespect boththeWyldand the Weaver,andthisGiftmostfruitfullycombinesthe power of thetwo.Itinfuses youwiththe powerto overcomenormal limits theChangingBreeds confrontdrawingonprmalenergyandmystical form simultaneouslyYoumay spend Rage and Gnosis in the same turn withoutpenalty.Among other things,thismeans that you canuseRage actionstoactivatefetishesanduseGiftsrequiring Gnosisallnthesametnasongasthei don't requirea full turn ormoretobecome active. In additionyoucantakeRageueledactinsn the sametnasstpping sidewaysprovided Umbral crossing isnt delayed andyou succeed in the necessarychallengesThisGift is always in effect.
+Glass Walkersrespect boththe Wyldand the Weaver, and this Giftmostfruitfullycombinesthe power of the two.Itinfuses you with the powerto overcomenormal limits the Changing Breeds confrontdrawingonprmalenergyandmystical for m simultaneously you may spend Rage and Gnosis in the same turn with outpenalty.Among other things, this means that you can use Rage actionstoactivatefetishesanduse Giftsrequiring Gnosisallnthesametnasongasthei don't requirea full turn or moretobecome active. In additionyoucantake Rageueledactinsn the sametnasstpping sidewaysprovided Umbral crossing isn't delayed and you succeed in the necessarychallenges This Gift is always in effect. ## Red Talons Basic
 
-## RedTalonsBasic
+## Wolf at the do or
 
-## Wolf at the Door
-
-It'snot alwaysnecesary or evendesirable to slaughterallhuman opponentsThis Gift enhancesyourabilitytoinculcatefearofthewild, makinghumans loath to enter orinterferewith nature.Youmustmake eyecontact withthe target (but canbein any form while doing so）.Makea Social Challenge （retest with Primal-Urge）.If you'resuccessfulthevictimiscowedfornefull dayanadinldanalra spend.During thistme,hvictimmustmaka StaticWillpowerChallenge against the Garou's GnosisorSocialTraitswhichevertotalishigher, to leavehome andmaynot gonearanything resemblingaforestwithoutspendingaWillpower Trait.Allthe time thevictim is away from home, hefeelsshakyandfafulufferingatwoTrat penalty to all MentalandSocial Challenges.This Gift workninolkaeghulsand supernaurallynhancedmrtalsutthy two-Traitbonus ontheinitial challenge.ThisGift doesnot function on Garou.
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-## RedTalonsAdvanced
+It'snot alwaysnecesary or evendesirable to slaughterallhuman opponents This Gift enhancesyourabilitytoinculcatefearofthewild, makinghumans loath to enter or interferewith nature.you mustmake eyecontact with the target (but can bein any for m while do ing so）.Makea Social Challenge （retest with Primal-Urge）.If you'resuccessfulthevictimiscowedfornefull dayanadinldanalra spend.During this tme, hvictimmustmaka Static will power Challenge against the Garou's Gnosisor Social Traitswhichevertotalishigher, to leavehome and maynot gonearanything resemblingaforestwithoutspendinga will power Trait.all the time the victim is away from home, hefeelsshakyandfafulufferingatwo Trat penalty to all Mentaland Social Challenges.This Gift workninolkaeghulsand supernaurallynhancedmrtalsutthy two-Traitbonus ontheinitial challenge.this Gift do esnot function on Garou. ## Red Talons Advanced
 
 ## Gaia's Vengeance
 
-You calltothespiritsof the surroundingforest to attackintruders.Theyallrespond asbest they can:Rocksollwvineslashwater suks victimsunder,andsoon.pendoneGnosisand oneRaeandmakeaStaticSocialChallng (retestwithPrimal-Urge)against the local Gauntletrating.Workouttheeffectswithyour Storytellerkepinginmind thelimitsof the spirits and theirmaterial shellsinthe area.
-
-## Shadow Lords Basic
+You calltothespiritsof the surroundingforest to attackintruders.the yallrespond asbest they can:Rocksollwvineslashwater suks victimsunder, and soon.pendone Gnosisand one Raeandmakea Static Social Challng (retestwith Primal-Urge)against the local Gauntletrating.Workouttheeffectswithyour Storytellerkepinginmind the limitsof the spirits and the irmaterial shellsinthe are a. ## Shadow Lords Basic
 
 ## Fatal Flaw
 
-You can intuit a target'smost exploitable weakness,gaining an advantage in combat.You must concentrate onstudying thetargetforafull turn.Make a Mental Challenge (retest with Empathy）Ifsuccessfulyouinflictanextralevel of damageonthe targetfortherestof thecurrent fight.Spendtwo additionalMentalTraitsfor knowledge of some additional weakness(which doesnotprovideadamagebonusorour additionalTraitsforafairly completeinventory of the target's combat weaknesses.
-
-<!-- image -->
-
-<!-- image -->
-
-## Shadow LordsBasic
+You can intuit a target'smost exploitable weakness, gaining an advantage in combat.You must concentrate onstudying the targetforafull turn.Make a Mental Challenge (retest with Empathy）Ifsuccessfulyouinflictanextralevel of damageonthe targetfortherestof the current fight.Spendtwo additional Mental Traitsfor knowledge of some additional weakness(which do esnotprovideadamagebonusorour additional Traitsforafairly completeinventory of the target's combat weaknesses. ## Shadow Lords Basic
 
 ## Seizing the Edge
 
-ShadowLords don't believe ineven contests; where there is no winner,everyone loses.This Gift draws on thatconvictiontogiveyou an extra edge.Spend one Gnosis.Fortherest of the scene, you have a number ofTraitsbased on yourRank that youmayaddtoyour total forthepurposesof comparingonties.TheseTraitsmaybe switched between the threeAttributes(Physical,Social, Mentalaytliremust direct confrontation touse thisGift (such asa combat ora staredown).Static Challenges to activateGiftsorto useAbilitiesdonotbenefit from this.
+Shadow Lords don't believe ineven contests; where the re is no winner, everyone loses.This Gift draws on that convictiontogiveyou an extra edge.Spend one Gnosis.for the re st of the scene, you have a number of Traitsbased on you r Rank that you mayaddtoyour total for the purposesof comparingonties.the se Traitsmaybe switched between the three Attributes(Physical, Social, Mentalaytliremust direct confrontation touse this Gift (such asa combat or a staredown).Static Challenges to activate Giftsorto use Abilitiesdonotbenefit from this. ## Uktena Advanced
 
-<!-- image -->
+## Fetish do ll
 
-<!-- image -->
+Sympathetimagicisasoldascivilizationf not older, and the Uktenausetwheneverthy feeltheendjustifiesthispotentiallyabhorrent means with this Giftyouconstructscially made do llwitha pieceof the victimlockof har, nail clippings) or something belonging to the victimceofclohing, jwelry）and thn the do lltoinflict harmonthe targetfroma distance.It takes oneweekto construct and enchantthe do llonce you have apiece of the victim or somemportant possession.Makea Mental Challenge(retest with Crafts)tocomplete the making.Onceit'scomplete, makea Static Mental Challengeagainstthevictm Wilpower whilemutilating or damaging the do ll.Success indicatesthevictimsufersalevelofaggravated damage (soakable as per any abilitythevictim has to do so).Spend additional Mental Traitsto inflictadditionaldamagehedollisdestroyed and rendereduselessonceittransfers10levelsof damagefanychallengetoinflictharmails, make two Simple Tests.If bothfail, the do llis immediately destroyed. ## Wendigo Basie
 
-<!-- image -->
+## Call the Breeze
 
-<!-- image -->
+You can call up a chilling wind of up to20 mph that you can direct atwill.Itfreezes unprepared targets and disperses or redirects loudsfarar like.You simply whistle to callthe breeze. Unprepared targets suffera one-Trait penaltyto perceptionchallenges and challengesinvolving rapidmotion.the breeze lastsfortherestof the scene. ## Wendigo Basic
 
-<!-- image -->
+## Speak with Wind Spirits guidanceandaskthmasinglequstonwhih you can callupwind-spiritsforadvice and must concern the immediate are a.(You can ask aboutmoredistantmattersbutwind-spiritsdon have long attention spans.)you can automatically speak with wind-spirits while inthe Umbra; calling the min the physical world requires spending one Gnosis.Inithercasemak Social Challenge(retest with Expression).Success verygeneralone Spendoneadditional Mental letsyouobtainagenerallycorrectansweralbta Trait toclearthingsupabitortwo Mental Traits toget aprecise and focused answer. ## Wendigo Intermediate
 
-<!-- image -->
+## Bloody Feast teacheshis children how to gain strengthfrom Great Wendigo is acannibalistic spirit and blood(inflict at least one healthlevelof damage after all soaking).The targetmustbe something enemies'fleshandblood.you mustbite and taste this Giftuseless.Makeacontestof you r Gnosis that bleeds;toxicbloodornoblood at all makes against the target's Physical Traits.If successful, you gains one extra Toughor Ferocious Physical bite inficts, up toamaximum of fivebonus Traits. Traitforeverytwohealthlevelsof damage the The bonuslastsforone turn, plusoneturnper Mentalraityouspend Fleshandbloodcane addictivnduustestfozy after activating Bloody Feast.Depending onthe targetcertainusesof this Giftmayviolateh Litany.bviouslymmberth Ruleoff and don't get carried away. ## Wendigo Intermediate
 
-<!-- image -->
+## Call the can nibal Spirit
 
-<!-- image -->
+Mighty Wendigo appears asabluehumanoid with clawandfanglazingyeandak stumpsforfeet.Itcanrunthroughthe skyat0 mphtoinditpey Ithalwea 5Gnosis2Essenceand the Charms Blast(c), Creat Weli
 
-<!-- image -->
+By dancingunder thnightskyyoucan summon anavatarof Wendigo and directitto hunt one of you renemies.you must possess a pieceof the targetwhose heartyouwant Wendigo to devour.Spend threefullturns in a summoning dance.Spend one Rage and one Gnosis, the n makea Static Social Challenge against eight Traits.Success summons a Wendigo-spiritwho pursues the targetuntilitcanengageincombat.f the summoning failsmake two Simple Tests.If bothfail, the Wendigo-spiritturns onyouast will if somehowpreventedfrom attackingthe target. ## Wendigo Advanced
 
-<!-- image -->
+## Invoke the Spirits of the Storm
 
-<!-- image -->
+You can summon almost anyarcticweather you want:tnadoogblizardhundrstm, etc.Spend one Gnosis and make a Static will power Challengeagainst avariablenumberof traitsfromfouraitforinorchanges（lig windtostifreezehghloudstovercast nine Traits or evenmore for radical changes (blizard to calmclearskies）.The storm covers an are a10miles inradius with success.Ifyoucallup thunderstormsspendanosiseachtmeyouwish tolaunchlightningbolts against you r enemies: Physical Challengetohit0levelsfaggravatd damage soakablebyanymeansthatcan soak aggravated damage. ## Ragabash Basic
 
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-## UktenaAdvanced
-
-## Fetish Doll
-
-Sympathetimagicisasoldascivilizationf notolder,and theUktenausetwheneverthy feeltheendjustifiesthispotentiallyabhorrent meansWiththisGiftyouconstructscially made dollwitha pieceof thevictimlockof har, nail clippings) or something belonging to the victimceofclohing,jwelry）andthn thedolltoinflict harmonthe targetfroma distance.It takes oneweekto construct and enchantthe dollonce you have apiece of the victim orsomemportant possession.Makea Mental Challenge(retest withCrafts)tocomplete themaking.Onceit'scomplete,makea Static MentalChallengeagainstthevictmWilpower whilemutilating ordamaging the doll.Success indicatesthevictimsufersalevelofaggravated damage (soakable as per any abilitythevictim has to doso).Spend additionalMentalTraitsto inflictadditionaldamagehedollisdestroyed andrendereduselessonceittransfers10levelsof damagefanychallengetoinflictharmails, make twoSimpleTests.If bothfail,the dollis immediately destroyed.
-
-<!-- image -->
-
-<!-- image -->
-
-## Wendigo Basie
-
-## Call theBreeze
-
-You can call up a chilling wind of up to20 mph that youcan direct atwill.Itfreezes unprepared targets anddisperses orredirects loudsfarar like.You simply whistle to callthe breeze. Unprepared targets suffera one-Trait penaltyto perceptionchallenges and challengesinvolving rapidmotion.Thebreeze lastsfortherestof the scene.
-
-## Wendigo Basic
-
-## Speak with Wind Spirits
-
-guidanceandaskthmasinglequstonwhih Youcancallupwind-spiritsforadvice and must concern the immediate area.(You can ask aboutmoredistantmattersbutwind-spiritsdon have long attention spans.)Youcan automatically speak withwind-spirits while intheUmbra; calling themin thephysical world requires spending one Gnosis.Inithercasemak Social Challenge(retest withExpression).Success verygeneraloneSpendoneadditionalMental letsyouobtainagenerallycorrectansweralbta Trait toclearthingsupabitortwoMentalTraits toget aprecise and focused answer.
-
-<!-- image -->
-
-<!-- image -->
-
-## WendigoIntermediate
-
-## Bloody Feast
-
-teacheshis children howto gain strengthfrom GreatWendigo isacannibalistic spirit and blood(inflict at least one healthlevelof damage after allsoaking).The targetmustbe something enemies'fleshandblood.Youmustbite and taste thisGiftuseless.Makeacontestof yourGnosis thatbleeds;toxicbloodornoblood at allmakes against the target'sPhysical Traits.If successful, you gains one extraToughorFerociousPhysical bite inficts,up toamaximum of fivebonusTraits. Traitforeverytwohealthlevelsof damage the The bonuslastsforone turn,plusoneturnper MentalraityouspendFleshandbloodcane addictivnduustestfozy after activating BloodyFeast.Depending onthe targetcertainusesof thisGiftmayviolateh Litany.bviouslymmberthRuleoff and don't get carried away.
-
-## WendigoIntermediate
-
-## Call the Cannibal Spirit
-
-MightyWendigo appears asabluehumanoid withclawandfanglazingyeandak stumpsforfeet.Itcanrunthroughthe skyat0 mphtoinditpeyIthalwea 5Gnosis2Essenceand theCharmsBlast(c), CreatWeli
-
-By dancingunder thnightskyyoucan summon anavatarofWendigo anddirectitto hunt one of yourenemies.Youmust possess a pieceof thetargetwhose heartyouwantWendigo to devour.Spend threefullturns in a summoning dance.Spend oneRage and one Gnosis,then makeaStaticSocial Challenge against eight Traits.Success summons aWendigo-spiritwho pursues the targetuntilitcanengageincombat.f the summoning failsmake two SimpleTests.If bothfail,theWendigo-spiritturns onyouast will if somehowpreventedfrom attackingthe target.
-
-## WendigoAdvanced
-
-## Invoke theSpirits of theStorm
-
-You can summon almost anyarcticweather youwant:tnadoogblizardhundrstm, etc.Spend one Gnosis and make a Static WillpowerChallengeagainst avariablenumberof traitsfromfouraitforinorchanges（lig windtostifreezehghloudstovercast nine Traits orevenmore forradical changes (blizard to calmclearskies）.The storm covers an area10miles inradius with success.Ifyoucallup thunderstormsspendanosiseachtmeyouwish tolaunchlightningbolts against your enemies: PhysicalChallengetohit0levelsfaggravatd damage soakablebyanymeansthatcan soak aggravated damage.
-
-## Ragabash Basic
-
-## Bone Gnawers Basic SilentStridersBasic
+## Bone Gnawers Basic Silent Striders Basic
 
 ## Blissful Ignorance
 
-With thisGiftyoucanbecomenearly invisibletoallensesspiritsandmonitring devicesbyremaining still.Make aPhysical Challengef successulyoublendintoth landscapeaslong asyouremain stillrossyour arms across your chestto showwhen thisGift is in use.TheGift lasts as long as the Garoucan remainilllkingvingattackngmn or the like will break the effect.
-
-## WendigoIntermediate
+With this Giftyoucanbecomenearly invisibletoallensesspiritsandmonitring devicesbyremaining still.Make a Physical Challengef successulyoublendintoth landscapeaslong asyouremain stillrossyour arms across you r chestto showwhen this Gift is in use.the Gift lasts as long as the Garoucan remainilllkingvingattackngmn or the like will break the effect. ## Wendigo Intermediate
 
 ## Chill of Early Frost
 
-You call downmysticchillfrom Great Wendigo,freezing the area and everyone init. Spend one GnosisandmakeaMental Challenge againstfourTraitsforanarea alreadyndeep winterixraitsfrmostlmates,rninea for an area in hot summer.Success reduces the temperaturetosomewhatbelowfreezingorown 20dgrefitsreadlwfingna fivemilesinradius.Everyone without anatural coat of fur takesatwo-Traitpenaltytoall challengbustradeand suitableconsequencesdecidedbytheStoryteller takeeffecthGiflastsrnul hour peradditionalMentalTrait spent.
+You call do wnmysticchillfrom Great Wendigo, freezing the are a and everyone init. Spend one Gnosisandmakea Mental Challenge againstfour Traitsforanarea alreadyndeep winterixraitsfrmostlmates, rninea for an are a in hot summer.Success reduces the temperaturetosomewhatbelowfreezingorown 20dgrefitsreadlwfingna fivemilesinradius.Everyone with out anatural coat of fur takesatwo-Traitpenaltytoall challengbustradeand suitableconsequencesdecidedbythe Storyteller takeeffecth Giflastsrnul hour peradditional Mental Trait spent. ## Homid Intermediate
 
-## HomidIntermediate
-
-Bone GnawersIntermediate FiannaIntermediate
+Bone Gnawers Intermediate Fianna Intermediate
 
 ## Reshape Object
 
-Objectsstayreshapedforonlyfiveminutes.Send oneMentalTraittoncrease thisto10minuteswo MentalTraitstoincreaseittoone hour,threeMental Traitstoincreaseittotherestofthesessionorfour Mental Traits tomake it permanent.
+Objectsstayreshapedforonlyfiveminutes.Send one Mental Traittoncrease this to10minuteswo Mental Traitstoincreaseittoone hour, three Mental Traitstoincreaseittotherestofthesessionorfour Mental Traits tomake it permanent. you can transformonce-livingmaterial(but not the substance of undead beings）into objectstrees intsal armorflowersintoperfumeandsoon.heresulting itemsresembletheir sources:the spearshaft is made of antler, the armorretains skintxturestc.n （retest with Repair）.the difficulty depends on the degree of transformation:making abroken tree branchntospearquresaestagainstfiverat whilemakingasingleplankintoaraftthatcancay three Garourequresatestagainstightraitnd makingabladeof grassintoalean-tothatcanresist hurricanewindsrequires atest against10Traitsor evenmore.Spend asecond Gnosis Trait to all owa createdweapontoinflictaggravated damage. ## Ragabash Basie
 
-Youcan transformonce-livingmaterial(butnot the substance ofundead beings）intoobjectstrees intsal armorflowersintoperfumeandsoon.heresulting itemsresembletheir sources:the spearshaft ismade ofantler,thearmorretains skintxturestc.n （retest withRepair）.Thedifficulty depends on the degree of transformation:making abroken tree branchntospearquresaestagainstfiverat whilemakingasingleplankintoaraftthatcancay threeGarourequresatestagainstightraitnd makingabladeof grassintoalean-tothatcanresist hurricanewindsrequires atest against10Traitsor evenmore.Spend asecond GnosisTrait to allowa createdweapontoinflictaggravated damage.
+Black Furies Basic Red Talons Basic
 
-## Ragabash Basie
+## Sense of the Prey you gain aninnate awareness of anyprey about which you know something and can move toward itasfast asyou can travel.this Gift operatesin Giftworks automaticallyif the targetisn't trying the Umbra as well as in the material world.This tohidefitismakea Mental Challengeret with Egas);if htrgetisirititu Mental total against the spirit's Gnosis. ## Wendigo Advanced
 
-BlackFuriesBasic RedTalonsBasic
+## Heart of Ice with this Gift, you can calldown Wendigos curse onyour enemies.Bywhisperingyour victimsname to the windyoudirect Wendigos attentiontohim, and hisnternalorgansbegino freeze.Spend one Gnosis and make a Static Mental Challenge against you r target's Wilpower. with si aggravated damage.with each succeeding tst, you can continue toinflictfurtherlevels of damage（one perturn), literally freezingyou victimtodeath.fyouloseatest, nomoredamage may beinflictedonthetargetfortherestof the scene. ## Metis Basie
 
-## Sense of the Prey
+## the urge Basie Black Furies Basic Silent Striders Basic Silver Fangs Basie
 
-Yougain aninnate awareness of anyprey about whichyou know something and canmove toward itasfast asyou can travel.ThisGift operatesin Giftworks automaticallyif thetargetisn't trying the Umbra as well as in the material world.This tohidefitismakeaMental Challengeret withEgas);if htrgetisirititu Mental total against the spirit's Gnosis.
+## Sense Wyrm you can perceivenearbymanifestationsof the Wyrm.the Gift acts directly onyour consciousness throughamysticalsense, but Garouusingit of tendescribeitntrmsfthersnseslie "This place stinks of the Wyrm.Garou must remember that the Wyrm's taint of ten clings to innocentvictimssuchasthosewhoeattanted food or work in Wyrm-controlledfactories.Make a Mental Challengewitha difficultydepending on the concentration and strengthof the Wyrm's influence.Test against six Traits to sense a fomor inthenextroomuctinglingi residue of a Banethatleftanhour agorequires testing against eight Traits.Vampireswiththree or fewer Humanity Traits always smell of the Wyrm;vampires ona Path of Enlightenment stink of the Wyrm nomatterwhat the ir rating. ## Philodox Basic
 
-## WendigoAdvanced
-
-## Heart of Ice
-
-Withthis Gift,youcancalldownWendigos curse onyour enemies.Bywhisperingyour victimsname to thewindyoudirectWendigos attentiontohim,andhisnternalorgansbegino freeze.Spend one Gnosis and make a Static MentalChallenge against your target'sWilpower. Withsi aggravated damage.Witheach succeeding tst, you cancontinue toinflictfurtherlevels of damage（one perturn),literally freezingyou victimtodeath.fyouloseatest,nomoredamage may beinflictedonthetargetfortherestof the scene.
-
-## MetisBasie
-
-## Theurge Basie BlackFuriesBasic SilentStriders Basic Silver Fangs Basie
-
-## Sense Wyrm
-
-Youcanperceivenearbymanifestationsof the Wyrm.TheGift acts directly onyour consciousness throughamysticalsense,butGarouusingit oftendescribeitntrmsfthersnseslie "This place stinks of theWyrm.Garou must remember that theWyrm's taint often clings to innocentvictimssuchasthosewhoeattanted food orwork inWyrm-controlledfactories.Make a Mental Challengewitha difficultydepending on theconcentration and strengthof theWyrm's influence.Test against sixTraits to sense a fomor inthenextroomuctinglingi residue of aBanethatleftanhour agorequires testing against eightTraits.Vampireswiththree orfewerHumanityTraits always smell of the Wyrm;vampires onaPath of Enlightenment stink of theWyrm nomatterwhat their rating.
-
-## PhilodoxBasic
-
-## Children of Gaia Basic GetofFenris Basic Wendigo Basic
+## Children of Gaia Basic Getof Fenris Basic Wendigo Basic
 
 ## Resist Pain
 
-You cancontinue toactwithout suffering mustbetreatedand healed laterResistPannly impairment from wounds.The wounds themselves blocks some of theireffects.SpendoneWilpower. Nowoundpenalties applyfortherestof the scene or for one hour.
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
+You can continue toactwithout suffering mustbetreatedand healed later Resist Pannly impairment from wounds.The wounds the mselves blocks some of the ireffects.Spendone Wilpower. Nowoundpenalties applyfortherestof the scene or for one hour.

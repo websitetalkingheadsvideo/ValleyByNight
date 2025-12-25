@@ -2,6 +2,24 @@
 
 ## Current Version: 0.8.81
 
+**Date:** 2025-01-25  
+**Type:** Patch (Influence Agent implementation)
+
+### Changes:
+- **Influence Agent** - New agent page for looking up Influence effects by type and level
+  - Created `agents/influence_agent/index.php` with dropdown selectors for Influence type and level
+  - Displays full Influence definitions and level-specific effects from Laws of the Night (1st Edition)
+  - Added to agents dashboard with launch link
+  - Styled to match existing agent pages with dark theme and red accents
+- **Database Schema** - Added lookup tables for Influence system
+  - Created `influence_effects_lookup` table with effects for all 15 Influence types at levels 1-5
+  - Updated `influence_types` table with descriptions and contacts/allies information
+  - Created migration scripts: `database/create_influence_effects_table.php`
+- **Knowledge Base** - Added Influence reference material
+  - Created `agents/laws_agent/knowledge-base/influences.md` with complete Influence system documentation
+
+## Previous Version: 0.8.80
+
 **Date:** 2025-01-30  
 **Type:** Patch (Coterie Agent functionality enhancements)
 

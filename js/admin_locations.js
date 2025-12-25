@@ -864,6 +864,11 @@ async function handleFormSubmit(e) {
     const formData = new FormData(e.target);
     const data = Object.fromEntries(formData.entries());
     
+    // Ensure pc_haven is explicitly set (0 if checkbox is unchecked)
+    if (!data.hasOwnProperty('pc_haven')) {
+        data.pc_haven = '0';
+    }
+    
     const isEdit = data.id !== '';
     const url = 'api_admin_locations_crud.php';
     const method = isEdit ? 'PUT' : 'POST';
@@ -876,6 +881,12 @@ async function handleFormSubmit(e) {
             },
             body: JSON.stringify(data)
         });
+        
+        if (!response.ok) {
+            const errorText = await response.text();
+            console.error('HTTP error:', response.status, errorText);
+            throw new Error(`Server error: ${response.status}`);
+        }
         
         const result = await response.json();
         
@@ -890,11 +901,13 @@ async function handleFormSubmit(e) {
             }
             loadLocations();
         } else {
-            showNotification('Error: ' + result.error, 'error');
+            const errorMsg = result.error || 'Unknown error occurred';
+            console.error('API error:', errorMsg);
+            showNotification('Error: ' + errorMsg, 'error');
         }
     } catch (error) {
-        console.error('Error:', error);
-        showNotification('Failed to save location', 'error');
+        console.error('Error saving location:', error);
+        showNotification('Failed to save location: ' + error.message, 'error');
     }
 }
 

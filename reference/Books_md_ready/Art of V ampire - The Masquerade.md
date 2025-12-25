@@ -1,18 +1,14 @@
-## Mind'sEye heatre N
+## Mind's Eye heatre N
 
 ## CVS HU TMT
 
 RULES FOR PLAYING HUNTERS
 
-<!-- image -->
-
-BY JESS HEINIG.JOHN WICK AND ALISON YOUNG
-
-<!-- image -->
+BY JESS HEINIG.JOHN WICK AND ALISON you NG
 
 ## CREDITS
 
-Writtenby:Jess Heinig,JohnWick andAlisonYoung Additional Writing by:Richard E.Dansky
+Writtenby:Jess Heinig, John Wick and Alison you ng Additional Writing by:Richard E.Dansky
 
 Additional Developmentby:Richard E.Dansky and Cynthia Summers
 
@@ -20,1459 +16,462 @@ Development by:Jess Heinig
 
 Editing by:Carl Bowen
 
-Previouslypublishedmaterialhasappearedin:LawsoftheNight,LawsoftheWildOblivion, TheLongNightTheShiningHostandTheInquisitionProjectTwilight,Hallsof theArcanum TheQuickand theDead,TheAutumnPeople,TheHuntersHunted,Ghouls:Fatal Addiction, Kinfolk:Unsung Heroes,Mediums:Speakers with theDead andThe Enchanted
+Previouslypublishedmaterialhasappearedin:Lawsofthe Night, Lawsofthe Wild Oblivion, the Long Night The Shining Hostand The Inquisition Project Twilight, Hallsof the Arcanum the Quickand the Dead, the Autumn People, the Hunters Hunted, Ghouls:Fatal Addiction, Kinfolk:Unsung Heroes, Mediums:Speakers with the Dead and The Enchanted
 
-ArtDirectionby:LawrenceSnelly
+Art Directionby:Lawrence Snelly
 
 Photography by: Jonathan Rhea
 
-Front and back Cover:Katie McCaskill
+Front and back Cover:Katie Mc Caskill
 
-Layout and typesetting by:Katie McCaskill
+Layout and typesetting by:Katie Mc Caskill
 
-## SPECIALTHANKSTO:
-
-Justin“Hire ‘im”Achilli,for giving me the go-ahead.
-
-PhilTheTimeHasComeBrucato,forjoiningthelive-actionbandwagonat longlast,allwhile getting married.
-
-Andrew"Roomie”Bates,for the spare room.
-
-Ken"Whoa!Cliffe,cause he's such a funky Canadian.And because he extends deadlines. RichYou are God,Part 2"Dansky,forgivingme the same inspiration that he gave toEd.
-
-EdEpoptHall.with his infinite patience for wacky Shadowland enigmas.
-
-Shane“Magister”DeFreest,perhaps the creepiest of the Old Scary Guys.
-
-Ethan“NoRage"Skemp,for the Kinfolk that he denied with his caress of continuity.
-
-Playtesting:LauraMiddletonMichaelDent,EGlasDurorawandthemanylayersandStorytlrs of theTennesseeCamarilla;Lee IsmarcandRobFoutsand theplayersofBalleNocturneand Joyce SummersTrevorSummers,lanDunteman andKurtPaulalongwith theplayers ofBattlefield:San Diego.Aheartfeltthank youtoallofthehundredsofplayerswhocouldn'tbelistedinthissmallspace.
-
-1998WhiteWolf Publishing,Inc.Allrights reserved. Reproductionwithoutthewrittenpermissionof thepublisher isexpresslyforbiddenxceptforthepurposesofreviewafo blankcharacter sheets,whichmaybereproducedforpersonal useonly.WhiteWolfVampiretheMasquerade,Vampirethe DarkAges,Mage the AscensionandWorld of Darkness are
-
-<!-- image -->
-
-CANESTUSI0
-
-registered trademarks ofWhite Wolf Publishing,Inc.Allrightsreserved.Werewolf the ApocalpseWraiththOlivionChangelinghDreamingWerewolfthWilWest,Tiniy LawsoftheHunt,The Hunters Hunted,The Inquisition,Project Twilight,Hallsofthe Arcanum,TheQuickandtheDeadTheAutumnPeople,GhoulsFatalAddiction,Kinfolk UnsungHroesWorldfDarknessorcrerMind'EyTaeMdiumsakrswit DeadandTheEnchantedaretrademarksofWhiteWolfPublishing,ne.Allrightsreserved.All characamesacndtxtrinarcopyrighyWhiolfPlishing.
-
-Thementionoforreferencetoanycompanyorproductinthesepagesisnotachallenge to thetrademark orcopyrightconcerned.
-
-This bookuses thesupematural for settingscharacters and themes.All mystical and supernaturalelementsare fiction andintended for entertainment purposes only.Reader discretion is advised.
-
-CheckoutWhiteWolf onlineat http://www.white-wolf.com;alt.games.whitewolf andrec.games.frp.storyteller PRINTEDINTHEUNITEDSTATESOFAMERICA.
-
-735PARK NORTH BUVD. SUITE 128 CLARKSTONGA30021 USA
+## SPECIALTHANKSTO: Justin“Hire ‘im”Achilli, for giving me the go-ahead. Phil The Time Has Come Brucato, for joiningthelive-actionbandwagonat longlast, all while getting married. and rew"Roomie”Bates, for the spare room. Ken"who a!Cliffe, cause he's such a funky can adian.And because he extends deadlines. Rich You are God, Part 2"Dansky, for givingme the same inspiration that he gave to Ed. Ed Epopt Hall.with his infinite patience for wacky Shadowland enigmas. Shane“Magister”De Freest, perhaps the creepiest of the Old Scary Guys. Ethan“No Rage"Skemp, for the Kinfolk that he denied with his caress of continuity. Playtesting:Laura Middleton Michael Dent,EGlas Durorawandthemanylayersand Storytlrs of the Tennessee Camarilla;Lee is marcand Rob Foutsand the playersof Balle Nocturneand Joyce Summers Trevor Summers, lan Dunteman and Kurt Paulalongwith the players of Battlefield:San Diego.Aheartfeltthank you toallofthehundredsofplayerswhocouldn'tbelistedinthissmallspace. 1998White Wolf Publishing, Inc.all rights reserved. Reproductionwithoutthewrittenpermissionof the publisher is expresslyforbiddenxceptforthepurposesofreviewafo blankcharacter sheets, which maybereproducedforpersonal useonly.White Wolf Vampirethe Masquerade, Vampirethe Dark Ages, Mage the Ascensionand World of Darkness are can ESTUSI0 registered trademarks of White Wolf Publishing, Inc.all rightsreserved.were wolf the Apocalpse Wraithth Olivion Changelingh Dreaming were wolfth Wil West, Tiniy Lawsofthe Hunt, The Hunters Hunted, The Inquisition, Project Twilight, Hallsofthe Arcanum, the Quickandthe Dead The Autumn People, Ghouls Fatal Addiction, Kinfolk Unsung Hroes Worldf Darknessorcrer Mind'Ey Tae Mdiumsakrswit Deadand The Enchantedaretrademarksof White Wolf Publishing, ne.all rightsreserved.All characamesacndtxtrinarcopyrighy Whiolf Plishing. the mentionoforreferencetoanycompanyorproductinthesepagesisnotachallenge to the trademark or copyrightconcerned. This bookuses the supematural for settingscharacters and the mes.All mystical and supernaturalelementsare fiction and intended for entertainment purposes only.Reader discretion is advised. Checkout White Wolf onlineat http://www.white-wolf.com;alt.games.whitewolf and rec.games.frp.storyteller PRINTEDINTHEUNITEDSTATESOFAMERICA. 735PARK NORTH BUVD. SUITE 128 CLARKSTONGA30021 USA
 
 ## Laws of the Hunt
-
-<!-- image -->
 
 ## TABLE OF CONTENTS
 
-| BLOOD ONTHETRACKS:A CAUTIONARYTALE   |   4 |
-|--------------------------------------|-----|
-| CHAPTER ONE:INTRODUCTION             |   8 |
-| CHAPTERTWO:CHARACTER CREATION        |  18 |
-| CHAPTERTHREE:NUMINAEANDPOWERS        |  98 |
-| CHAPTERFOUR:SYSTEMSANDRULES          | 134 |
-| CHAPTERFIVE:STORYTELLING             | 166 |
+| BLOOD ONTHETRACKS:A CAUTIONARYTALE | 4 |
+| CHAPTER ONE:INTRODUCTION | 8 |
+| CHAPTERTWO:CHARACTER CREATION | 18 |
+| CHAPTERTHREE:NUMINAEANDPOWERS | 98 |
+| CHAPTERFOUR:SYSTEMSANDRULES | 134 |
+| CHAPTERFIVE:STORYTELLING | 166 |
 
-<!-- image -->
+Italwayspissesme of fwhen is ee Victorlickingtheevidence.I knowhe'saghoul and heneeds hisfix, but even so, it creeps the hell out of me. "That'sgreat, Vic Ireply, myannoyance coloringmy tone.It'sraning likehell, meaning that what everotherfootprintsthere had been have long sincewashed away. All weve got is the one on the porch that Vic's just finished licking clean. Viclooksupfromthebloodyfootprint, grinninglikeabastard.this is good stuff, Lou.This guy's powerful. Closer to Caine than anyone I've ever met." the cops have n'tbeenhereyet, which means the resactualevidencetolookat, but the setupstillsucks.Wevegotthreecorpsestorntoshredsinsideonebloodyfootprintout here and not muchelse togoon.So, of course, Vic is ecstatic about the who le thing. "Comeon, ou, this is great!We'reonthe trailofareal heavy-hitterhereand he'swounded!We take this guy do wn, we've do ne something kickass.He's literally hoppinginhisexcitementnow.Apparently, he thinksit's somethingwonderful that we'reonthetrailofanimmenselypowerfulimmortal homicidalmaniac, asopposed to justtherun-of-the-mill immortalhomicidalmaniacswe usuallygo after. Fan-flippin'-tastic. "Right.Powerful.Ill ask for its autograph before we stake it.Anything elseyou can tell me?"
 
-Italwayspissesme offwhenIseeVictorlickingtheevidence.I knowhe'saghoul and heneeds hisfix,but even so,it creeps the hell out of me.
-
-"That'sgreat,VicIreply,myannoyance coloringmy tone.It'sraning likehell, meaning thatwhateverotherfootprintsthere had been have long sincewashed away. All weve got is the one on theporch thatVic's just finished licking clean.
-
-Viclooksupfromthebloodyfootprint,grinninglikeabastard.Thisisgood stuff, Lou.This guy's powerful. Closer to Caine than anyone I've ever met."
-
-Thecops haven'tbeenhereyet,whichmeans theresactualevidencetolookat,but thesetupstillsucks.Wevegotthreecorpsestorntoshredsinsideonebloodyfootprintout here andnotmuchelse togoon.So,of course,Vic isecstatic about thewhole thing.
-
-"Comeon,ou,thisisgreat!We'reonthe trailofareal heavy-hitterhereand he'swounded!We take this guy down,we've done something kickass.He's literally hoppinginhisexcitementnow.Apparently,he thinksit's somethingwonderful that we'reonthetrailofanimmenselypowerfulimmortal homicidalmaniac,asopposed to justtherun-of-the-mill immortalhomicidalmaniacswe usuallygo after.
-
-Fan-flippin'-tastic.
-
-"Right.Powerful.Ill ask for its autograph before we stake it.Anything elseyou can tell me?"
-
-Vic pouts.It'sGangrel,I think.Look at the footprintyou see thosemarks toward the front of the sole?Those areholeswhere clawsripped through therubber-thisguy's getingall beastyandyeastyonus.Thatmeans he'snottoo thoroughlyincontrolofhimself, thoughthatmightbearesultofwhateveritwasthathurthim.Honestly,thereshouldn'thave been any of his blood in the footprint unlesshe'dgottencut as well.Hmm.We can probably expectmorekillingsnot tomentionsomecompetitionforthisguyshide.
-
-Yeah,theotherangdaddiesaregoing tobetryingtoput imdown at the same time we are.They don't like it when one of theirs gets out of control."
+Vic pouts.It's Gangrel,I think.Look at the footprintyou see thosemarks toward the front of the sole?Those are holeswhere clawsripped through the rubber-this guy's getingall beastyandyeastyonus.that means he'snottoo thoroughlyincontrolofhimself, thoughthatmightbearesultofwhateveritwasthathurthim.Honestly, the reshouldn'thave been any of his blood in the footprint unlesshe'dgottencut as well.Hmm.We can probably expectmorekillingsnot tomentionsomecompetitionforthisguyshide. Yeah, the otherangdaddiesaregoing tobetryingtoput imdown at the same time we are.they don't like it when one of the irs gets out of control."
 
 "Oh?"
 
-<!-- image -->
-
 ## Laws of the Hunt
 
-InodlikeIunderstand.Vicknows thevampiresfarbetterthanIeverwill.After all,he'dnearlybecomeone,as Iunderstoodit.All1 knowhowtodoisfindthemand kill them.Wemakeagood team-hewantsrevengebut hasnoidea about howto get it,while I know how tohunt,but don't knowmy prey.
-
-“So,"I ask him,“"is there anything else?"
-
-Don't ask how we met;you'd never believe the story anyway.
-
-He shakes his head."Not here, no."
+Inodlike Iunderstand.Vicknows the vampiresfarbetterthan Ieverwill.After all, he'dnearlybecomeone, as Iunderstoodit.All1 knowhowtodoisfindthemand kill the m.Wemakeagood team-hewantsrevengebut has noidea about how to get it, while I know how tohunt, but don't knowmy prey. “So,"I ask him,“"is the re anything else?" don't ask how we met;you'd never believe the story anyway. He shakes his head."Not here, no."
 
 "Any leads?"
 
-"Dependshowyou feel about hunches,he says.Then,droppingintoa parody ofMartyFeldman'scharacterinYoungFrankensteinandlimpingoffinto therainhe says,"C'mon,maaahster."
+"Dependshowyou feel about hunches, he says.the n, droppingintoa parody of Marty Feldman'scharacterin you ng Frankensteinandlimpingoffinto the rainhe says,"C'mon, maaahster." is itat the endof the barnursinga Macallan's18while Vicgossipswiththeundead inthecorner.Occasionally one of the vampires looks inmy directionand Iget anitchy feeling along the side of my neck.Vic and I came in separately and had not spoken wehadnotsomuchas lookedateachother, infactsothevampireswouldntknow wewereconnected Evensomnervous.foneofthebloodsuckersinthecornerkows, ifoneof the mevensuspectsllbedeadand Vicwouldbebackwherehestartedinno time flat."Bound, he calls it.I'm less politically correct.He'd been a slave. the meeting in the corner breaks up.The three vampires——one woman and two men-meltintothecrowd.I takeamentalpictureofeachsowecancomebackforthem later.icstompsoutthedoorbackintotherainotgivingmeaecondglancean can hear the roarofhis Yamaha faintlyashe headsoff totherendezvous point.I'vebeen on himformonths to drive something that of fersabitmorecover, but hesmarriedto the bike.It's going toget himkilled some day, but he do esn't want tohear that. Precisely10minutesafter Vicleaves,1finishmy drink, slideafive across the counter to the bartender and walkout.My79 Chevy Caprice Classic(supercharged engine, shatterproofwindows, steelchassismorethanonce Idpancakedavampire who thoughtI'd actually stopforhim)is sittingdown the blockwhere Iparkedit, glisteningunderoneof the fewworking streetlampsintheneighborhood.I walkdown toitunhurriedlyandmakethe standardcheckofthelocksandback seatforunpleasant surprises-the story about the hunterwhogets inhiscaronlytofinda vampire sitting inthebackseathasgottobeurbanlegendbutitservesitspurpose.Huddlingagainst the rain（why do es it alwaysrain when Igohunting?), Iopen the do or, touch the crucifixhangingfromtherearviewonceforluckandclimbin. the roarofamotorcycleismyfirstclue something'swrong.Icanhearthenoiseeven Over the slam of my do or and the rumbling coughof my car'sengine.Its Vic'smotorcycle roaringuthestreettreskirlingnthewetasphaltanhouldotbearingitrg now.He peels past at7Owith noone following him—at least no one I can see.Trouble. Naturally,I peel out after him, like an idiot. Vicslowsdown, once, when heseesl'mbehindhim, the nmakes sure Icantail him. Onceortwicetytopullupnexttohimtoseewhatthehellisupbuthejustfloorsitand leavesmeacomfortablehalfblockback.So is ettleinbehindim, peltingacross townn the slickstreets, runninglightswithonlytheroaroftheenginesandthewhisperofthetires inmyears.Weseenoothertraffic;weseenopolice.the cityisabig, emptyplayground for ustjstmandcnafrththrasthmntsandwarueseedat. Eventuallywehittheriverfrontdistrict, but Vicdoesn'tslowdownabit.Even here, intheneighborhoodwheretheresalwayssomethinggoingon, not hing'going on.No traffic.No sign of life. And evenlesswhen Vic takes his Yamaha of f the end of Pier43. is it the reforamomentwiththerainsteamingoffthehoodand is hakemyhead.And for cautionssake, Ialsoreachinsidemycoatforthepistollkeepinmy should er-holster. is lam on the brakes and skid towithin about15feetof the endof the pier.Even in the rain,I can smell the burntrubberofmytires and Vicsexhaust.the re'snosign of Vic, nomovement outin the darkwaters of the Delaware.He's justgone. "Ghouls shouldn't get uppity,"says the voice I've been expecting for miles.Ican seemypassengerin the rearviewnow-oneof the punkswho'd beentalkingwith Vic at the bar.Helooks about 20(not that that means much), with the greasy hair and black leather jacket that are practically a uniform for the low-gradevampires in this town.I can hear his jacketcreak as heleansforward to hiss all dramatically inmy ear. "and neithershould dumb-assmortals who think they'rehot stuff.I'mnotgonna leave enough of you tofill the ashtray, you know that？"
 
-Isitat theendof thebarnursingaMacallan's18whileVicgossipswiththeundead inthecorner.Occasionally one of thevampires looks inmy directionand Iget anitchy feeling along the side of my neck.Vic and I came in separately and hadnot spoken wehadnotsomuchas lookedateachother,infactsothevampireswouldntknow wewereconnectedEvensomnervous.foneofthebloodsuckersinthecornerkows, ifoneof themevensuspectsllbedeadandVicwouldbebackwherehestartedinno time flat."Bound,he calls it.I'm less politically correct.He'd been a slave.
+His breath is lousy.The undead always have lousy dental hygiene habits.I don't guess they care, but itsa pain for the rest of us. Vic was that the ghoul Hemighthavebeen some troubletohandle, so Ihad Grandpa ridehismind."
 
-Themeeting in the corner breaks up.The three vampires——one woman and two men-meltintothecrowd.I takeamentalpictureofeachsowecancomebackforthem later.icstompsoutthedoorbackintotherainotgivingmeaecondglancean can hear theroarofhisYamaha faintlyashe headsoff totherendezvous point.I'vebeen on himformonths to drive something thatoffersabitmorecover,but hesmarriedto thebike.It's going toget himkilled some day,but he doesn't want tohear that.
+“Good to know,”I say with out turning around.“So why'd you of f Vic like that! "Grandpa'!" neverwouldhaveguessed.but Imapieceofcaketotakeoutright Justauman being.I turnmyhead towardhim everso slowly.LikeI thought, heisn'tevenlooking at mehe's looking athis own face in the rearviewmirror.Hehasto lookcool while he's terrifying me; he has toknow that he's the baddest of the badin this car. The guyyourfriendwas askingafter.Wecallhim Grandpabecause he'soler than dirt and twice as cranky as that.And hegota hell of a kick out of havingyour buddy lead you into a trap."
 
-Precisely10minutesafterVicleaves,1finishmy drink,slideafive across the counter to thebartender and walkout.My79 Chevy CapriceClassic(supercharged engine,shatterproofwindows,steelchassismorethanonceIdpancakedavampire whothoughtI'd actually stopforhim)is sittingdown theblockwhere Iparkedit, glisteningunderoneof thefewworking streetlampsintheneighborhood.I walkdown toitunhurriedlyandmakethe standardcheckofthelocksandback seatforunpleasant surprises-the story about thehunterwhogets inhiscaronlytofinda vampire sitting inthebackseathasgottobeurbanlegendbutitservesitspurpose.Huddlingagainst therain（why does it alwaysrain when Igohunting?),Iopen the door,touch the crucifixhangingfromtherearviewonceforluckandclimbin.
+Asif l care. "Becauseitoesnmatter, sucker.you redead He tips hishead for ward, and I pull the trigger six times. "So why are you telling me this?"I finish turning and slowly lift the gun under mycoat.the idiot inthebackseatnevernotices, lostinhis ownbadself inthemirror. Ibethewas thrilledwhen hefirstfoundout that that stuff aboutvampiresnothaving a reflection was just a bunch of folklore. the recoil damn near snapsmywrist.the bullets tear throughmy coat and the headrest, and they catch Stupidsquareinthesideofhisface.the fronthalfofhishead moreorlessexplodesand hefallsbacknhisseatwithanoisethatwould have been a screamif he'dhadanythingresemblinglips.I floorit and dropthegun, openingthe car do or with my left hand at the same time.As the Caprice's nosereaches the end of the pier, I'm out the do or and rolling. Ihaveotherroblemsesides Stuid, though.vegotocar, ogun, oparteran a big-asshole inmy raincoat.Plushere'srandpa.Can't for get him, now, can I
 
-Theroarofamotorcycleismyfirstclue something'swrong.Icanhearthenoiseeven Over theslam of my doorand therumbling coughof my car'sengine.ItsVic'smotorcycle roaringuthestreettreskirlingnthewetasphaltanhouldotbearingitrg now.He peels past at7Owith noone following him—at least no one I can see.Trouble.
+In the movies, cars explodewhenyou abandonthem.Mine just hits the water with abigsplashand sinkswithanoiselikeafrogsuffering from gas.Iwatchthespot where itgoesunderwithvery littlesatisfaction.the river'sdredged deepenough the re for the bigtankers, so evenifI have ntmanaged tokill Stupid, heisntgoingtobe comingupfor a long time. Damn. It's time to start walking. ## what this BOOKISABOUT
 
-Naturally,I peel out after him,like an idiot.
-
-Vicslowsdown,once,whenheseesl'mbehindhim,thenmakes sureIcantail him. Onceortwicetytopullupnexttohimtoseewhatthehellisupbuthejustfloorsitand leavesmeacomfortablehalfblockback.SoIsettleinbehindim,peltingacross townn theslickstreets,runninglightswithonlytheroaroftheenginesandthewhisperofthetires inmyears.Weseenoothertraffic;weseenopolice.Thecityisabig,emptyplayground forustjstmandcnafrththrasthmntsandwarueseedat.
-
-Eventuallywehittheriverfrontdistrict,butVicdoesn'tslowdownabit.Even here,intheneighborhoodwheretheresalwayssomethinggoingon,nothing'going on.No traffic.No sign oflife.
-
-<!-- image -->
-
-And evenlesswhenVic takes hisYamaha off the end ofPier43.
-
-<!-- image -->
-
-Isit thereforamomentwiththerainsteamingoffthehoodandIshakemyhead.And forcautionssake,Ialsoreachinsidemycoatforthepistollkeepinmy shoulder-holster.
-
-Islam on the brakes and skid towithin about15feetof the endof thepier.Even in therain,I can smell theburntrubberofmytires andVicsexhaust.There'snosign ofVic,nomovement outin thedarkwaters of theDelaware.He's justgone.
-
-"Ghouls shouldn't get uppity,"says the voice I've been expecting formiles.Ican seemypassengerin therearviewnow-oneof thepunkswho'd beentalkingwithVic at thebar.Helooks about 20(not that thatmeans much),with thegreasy hair and black leather jacket that arepractically a uniform for the low-gradevampires in this town.I can hear his jacketcreak as heleansforward to hiss all dramatically inmy ear.
-
-"Andneithershould dumb-assmortals whothink they'rehot stuff.I'mnotgonna leave enough of you tofill the ashtray,you know that？"
-
-His breath is lousy.The undead always have lousy dental hygiene habits.I don't guess they care,but itsa pain for therest of us.
-
-VicWasthat theghoulHemighthavebeen some troubletohandle,soIhad Grandpa ridehismind."
-
-“Good to know,”I say without turning around.“So why'd you off Vic like that!
-
-"Grandpa'!"
-
-neverwouldhaveguessed.ButImapieceofcaketotakeoutrightJustauman being.I turnmyhead towardhim everso slowly.LikeI thought,heisn'tevenlooking at mehe's looking athis own face in the rearviewmirror.Hehasto lookcool while he's terrifying me; he has toknow that he's the baddest of thebadin this car.
-
-The guyyourfriendwas askingafter.WecallhimGrandpabecause he'soler than dirt and twice as cranky as that.And hegota hell ofa kick out of havingyour buddy lead you into a trap."
-
-Asif l care.
-
-"Becauseitoesnmatter,sucker.YouredeadHe tips hishead forward,and I pull the trigger six times.
-
-"So why are you telling me this?"I finish turning and slowly lift the gun under mycoat.Theidiot inthebackseatnevernotices,lostinhis ownbadself inthemirror. Ibethewas thrilledwhen hefirstfoundout thatthatstuff aboutvampiresnothaving a reflection was just a bunch of folklore.
-
-Therecoil damn near snapsmywrist.Thebullets tear throughmy coat and the headrest,andtheycatchStupidsquareinthesideofhisface.Thefronthalfofhishead moreorlessexplodesand hefallsbacknhisseatwithanoisethatwould havebeen a screamif he'dhadanythingresemblinglips.I floorit anddropthegun,openingthe car door with my left hand at the same time.As the Caprice's nosereaches the end of the pier, I'm out the door and rolling.
-
-IhaveotherroblemsesidesStuid,though.vegotocar,ogun,oparteran a big-asshole inmy raincoat.Plushere'srandpa.Can't forget him,now,can I
-
-In themovies,cars explodewhenyou abandonthem.Mine just hits thewater withabigsplashand sinkswithanoiselikeafrogsuffering fromgas.Iwatchthespot whereitgoesunderwithvery littlesatisfaction.Theriver'sdredged deepenough there for thebigtankers,so evenifI haventmanaged tokill Stupid,heisntgoingtobe comingupfor a long time.
-
-Damn.
-
-It's time to start walking.
-
-<!-- image -->
-
-## WHATTHISBOOKISABOUT
-
-Eachof theMind'sEyeTheatrebooks describes a supernatural creature,beit vampires inLawsof theNight,werewolvesinLawsof theWildwraithsinOblivion or changelings inTheShining Host.These denizens of theWorld of Darkness don't existinavacuum,however.Thethrongsofhumanity surround them,andsometimes everyattempttokeephumanityunawareofthemfails.BeforeLawsof theHunt,such exposure wasn't particularly dangerous to supernatural beings. and it could be dismissed easily.Now,however,there are consequencesmost dire..
-
-Thisbookprovidesrulesforplayinghumanswhohunt supernatural creatures. Lawsof theHuntexplainshowtoincorporatemortal huntersinto existingWorldof Darknesschronicles,anditprovidesrulesforrunninga chronicle from thehunter pointofview.
-
-ThisbookcontainsMind'sEyeTheatrerulesfora variety of hunters,be they religiousfanatics,governmentagents,scholarsorindependents,aswell asspecial powers available only tomortal characters.Additionally,material fromAntagonists isrevisedandupdated,andentirelynewmaterialisincluded!Ofcourseuntersned aquarry,and the other Mind'sEye Theatre games prove invaluable resources, whether huntingvampires,ghosts or even strangerbeings.
-
-More sourcematerialon hunterscanbefoundintheYearof theHunterreleases.
-
-<!-- image -->
-
-Laws of the Hunt
+Eachof the Mind's Eye the atrebooks describes a supernatural creature, beit vampires in Lawsof the Night, were wolvesin Lawsof the Wildwraithsin Oblivion or changelings in The Shining Host.the se denizens of the World of Darkness don't existinavacuum, how ever.the throngsofhumanity surround the m, and sometimes everyattempttokeephumanityunawareofthemfails.Before Lawsof the Hunt, such exposure wasn't particularly dangerous to supernatural beings. and it could be dismissed easily.Now, how ever, the re are consequencesmost dire.. this bookprovidesrulesforplayinghumanswhohunt supernatural creatures. Lawsof the Huntexplainshowtoincorporatemortal huntersinto existing Worldof Darknesschronicles, and itprovidesrulesforrunninga chronicle from the hunter pointofview. this bookcontains Mind's Eye the atrerulesfora variety of hunters, be they religiousfanatics, governmentagents, scholarsorindependents, aswell asspecial powers available only tomortal characters.Additionally, material from Antagonists is revisedandupdated, and entirelynewmaterialisincluded!of courseuntersned aquarry, and the other Mind's Eye the atre games prove invaluable resources, whether huntingvampires, ghosts or even strangerbeings. More sourcematerialon hunterscanbefoundinthe Yearof the Hunterreleases. Laws of the Hunt
 
 ## THE ONLY RULES THAT MATTER
 
-Here aretheframework rulesforMind'sEyeTheatre thatmust alwaysbeobeyed. These arecommonsensestipulations outside thegamemechanicsthatkeep everyone —other playersyourselfstrangersin thearea and authoritiesafinand happy with your game.
+Here are the framework rulesfor Mind's Eye the atre that must alwaysbeobeyed. the se are commonsensestipulations outside the gamemechanicsthatkeep everyone —other playersyourselfstrangersin the are a and authoritiesafinand happy with you r game. the serules are designed tolimit the opportunities anyone has to destroy the fun of you rgame.the yrenotintended tointerferewithplayoryour enjoyment;they're here tomake sure that you play sensibly and safely. ## #1-IT'SONLYAGAME this guidelinesthemostmortantbyfarfacharactriskilldfalotfll apart, if arival wins the day-it's still only a game.don't take things too seriously; that spoilsnotonlyyourfunbuteveryoneelse'saswell.Bothtriumphsandtragedies makefor agoodstory. Leave the gamebehind when it ends.Playing Mind's Eye the atre is alotof fun; spendingtime talking about the game is great.Sometimes, how ever, the gamemust beput asideinfavor of real life.don't call the personwhoplaysyouragent'spartner at sunrise justbecause it'ssafeto talkwithout the threat of vampires eavesdropping. do n'tgetmad atthatsamepartnerforbeing unavailablebecause the player has an exam that night.Make sure to maintainperspective. ## #2-not OUCHING
 
-Theserules aredesigned tolimit theopportunities anyone hasto destroy thefun ofyourgame.Theyrenotintended tointerferewithplayoryour enjoyment;they're here tomake sure that you play sensibly and safely.
+Never actuallyhavephysical contactwithotherplayers, nomatter how careful you are or how harmless you thinkit is.Accidents happen, and someone could get hurt.Rely on the rules to cover physical logistics.Remember that different people have different ideas of invasion of personal space.Mind's Eye the atre is not about makinganyoneuncomfortable. ## #3-NO STUNTS
 
-## #1-IT'SONLYAGAME
+Neverclimb, jump, run, leaporotherwisedoanythingdangerousduringagame. Keeptheaction inyour live action lowkey.If you can imagine that you'restakinga vampire, you can certainlyimaginethatyou'releapingfromrooftoptorooftop.So what ifyoubungeejumpregularlyinreallife Inthisgameyouhaveotherpeopleo worry about. ## #4-NOWEAPONS
 
-Thisguidelinesthemostmortantbyfarfacharactriskilldfalotfll apart,if arival wins the day-it's still only a game.Don't take things too seriously; thatspoilsnotonlyyourfunbuteveryoneelse'saswell.Bothtriumphsandtragedies makefor agoodstory.
+Fakeandrealweapons of any sort are absolutelyforbidden.Not evenobviously fake or silly toy weapons are all owed.Such propsgive otherpeople the wrong impression aboutwhatyou are do ing, and they can bemistakenforrealweapons.Use itemcards torepresent weapons instead. ## #5-NODRUGSOR DRINKING
 
-Leave thegamebehind when it ends.PlayingMind's EyeTheatre isalotof fun; spendingtime talking about thegame isgreat.Sometimes,however,thegamemust beput asideinfavor of real life.Don't call thepersonwhoplaysyouragent'spartner at sunrise justbecause it'ssafeto talkwithout the threat ofvampires eavesdropping. Don'tgetmad atthatsamepartnerforbeing unavailablebecause theplayer has an exam thatnight.Make sure to maintainperspective.
+This oneis are al no-brainer.Drugs and alcohol do not inspirepeakperformance. the yreduceyourabilitytothinkandreact, meaningthat, amongotherthings, our roleplaying ability is impaired.Players impaired by drugs or alcohol are a danger to
 
-## #2-NOTOUCHING
+## Introcuction other players and to the game as a who le.the re's not hingwrongwith playing a characterwhosdrunkorstonedbutactuallybringingsuchstuff toagameisnbad taste atbest-—illegal atworst.don't do it. ## #6-BEMINDFULOFOTHERS
 
-Never actuallyhavephysical contactwithotherplayers,nomatter howcareful you are orhowharmless you thinkit is.Accidents happen,and someone couldget hurt.Rely on the rules to cover physical logistics.Remember that different people have different ideas of invasion of personal space.Mind'sEyeTheatre isnot about makinganyoneuncomfortable.
+Remembrotvryneuerwsouslaingamgaan be unnerving or even frightening to passersby.Be considerate of"mundanes"in you r vicinityndifuarnubliareaaksuthaturatinnotistuboralam anyone.the gamerules are designedsothatmortalcombatcan occurbetweencharacters while the players speak calmly to one another and play Rock-Paper-Scissors.If anyone from outside the game askswhat's going on, drop out of character and explain politely. ## #T-the RULESAREFLEXIBLE
 
-## #3-NO STUNTS
+Feel freeto ignore or adjust any of the following rules inthis book if itwillmake you rgamebetter.We at White Wolf call this The Golden Rule.If some rulein this book(beyond the firsteightlisted here)do esn'tworkforyourgroupof players, change it.Justbeconsistentand fair.Nobodylikesrulesthatchange everyweek, nordothey like"no-win"scenarios that favor a certain player.If you r troupefindsa newway to handle, say, True Faith, that worksbetterforyouthantheoneinthisbook, goforit. ## #8-have FUN
 
-Neverclimb,jump,run,leaporotherwisedoanythingdangerousduringagame. Keeptheaction inyour live action lowkey.If you canimagine thatyou'restakinga vampire,youcancertainlyimaginethatyou'releapingfromrooftoptorooftop.So whatifyoubungeejumpregularlyinreallifeInthisgameyouhaveotherpeopleo worry about.
+Not, Win Infact, wninghasverylittmeaningnany Mind'e that gam. Not,"Go out and kill everyone else."That's not really fun for anyone on the receiving end, and it can actuallybring the game to apremature end. Just have fun.The live-action experience is not about achieving superiority over the other players; it's about the journey and what happens along the way. ## WHAT is STORYTELLING? From the early days of skalds and shamans to those of modern actors and playwrights, storytellershavesparked the imaginationsofcountlesscultures.Through stories, weshareourbeliefs, mythsandlegends.with the adventof live-actiongames suchasthisone, storytellingreturnstoitsrootsasannteractiveexperiencenwhich everyone is a contributing participant.Through this game, the tales of Van Helsing and Kolchak, Odysseus and Enkidu standbeside the stories of eachplayer.In telling the se stories, were count the timelesslessons of myth. ## WHAT IS MIND'S EYETHEATRE? Mind's Eye the atretakesstorytellingastepfurtherinbringingthetaletolifeforthe players.Likethe actorsinamovie, the participants takeontherolesof peoplecaughtu in drama.Instead of focusing on"winning"with dicerolls and game pieces, this game centersontheenjoymentofcreatingastoryandactingouttheparts.Noboardlimitsyour imagination.nsteadyoudiscoveryourownmotivationsanddevelopyourownlegend Byinteractingwiththeotherplayersandrespondingtotheeventsofthestoryyoudescribe alargerworld inwhichyouractionspaintonthecanvasofimagination.It'stheaterwithout a script, where the outcome of the drama remains unknown until the end of the play. ## CHARACTER
 
-## #4-NOWEAPONS
+AMind's Eye the atrecharacteristheroleyouassumeforthecourseofthegame. Asa hunter, a humandriven toconfront the supernatural, you rcharacterin Lawsof the Huntisanoutwardlynormalindividualthrustintoaworldbeyondthekenofmost meremortals.From the re, the rest is uptoyouwhether you r hunteris nsightful, aggresiveorvengefulsorcerer, truebelieverorgovernmentagent;amemberofany specificminority, ethnicity or society.you r imagination and the guidelines in this book are the onlylimits toyourcharacter. Onceyouenterthegameyoubecomeyourcharacter.you rspeechandactions are the wordsanddeedsofyourpersona.Throughyourconduct, you drivethestory where veryou touchit.Atthesametime, the eventsofthestorydirectyourresponses as they play on the strengths and frailties of you r role. A three-dimensionalcharacter-onewhoismorethanjustnumbersonapiece of paper—makes the game rewarding.Yet as a player, you have a responsibility beyond simplyportrayingthecharacteryou have created.You should consider how you contribute to the story as awhole.Rememberyourrole inmakingit interesting and funfortheotherplayersaswell asyourself.If you respect the strengths and ideas of the ir characters, they will do the same for you. Ultimately, charactersarethetruemotivatingfactorsofastory.Eventstakeplace becausetheympactthecharacters, and the charactersnturn, reactandshapehr tale.Dive into you rroleandbring the story tolife! ## NARRATORS
 
-Fakeandrealweapons ofany sort are absolutelyforbidden.Not evenobviously fake or silly toy weapons are allowed.Such propsgive otherpeople the wrong impression aboutwhatyou aredoing,andthey canbemistakenforrealweapons.Use itemcards torepresent weapons instead.
+Narrators are like the stagehands in aplay-the ypropel the storyby adjudicatingrules, describing scenes and takingon the parts of antagonists and extrasin the story.with aratioofaboutone Narratorforevery10playersyoushouldbeableo keep asmoothgameflow.More experienced playerscan evenmove the game along with outtheassistance of Narrators.when aquestionregardingrulesorsettingcomes up, a Narrator fills in to keep the game in motion. ## the STORYTELLER
 
-## #5-NODRUGSOR DRINKING
-
-This oneis areal no-brainer.Drugs and alcohol donot inspirepeakperformance. Theyreduceyourabilitytothinkandreact,meaningthat,amongotherthings,our roleplaying ability is impaired.Players impaired by drugs or alcohol are a danger to
-
-## Introcuction
-
-other players and to the game as a whole.There's nothingwrongwith playing a characterwhosdrunkorstonedbutactuallybringingsuchstuff toagameisnbad taste atbest-—illegal atworst.Don't do it.
-
-## #6-BEMINDFULOFOTHERS
-
-Remembrotvryneuerwsouslaingamgaan be unnerving or even frightening to passersby.Be considerate of"mundanes"in your vicinityndifuarnubliareaaksuthaturatinnotistuboralam anyone.Thegamerules aredesignedsothatmortalcombatcan occurbetweencharacters while the players speak calmly to one another and playRock-Paper-Scissors.If anyone from outside the game askswhat's going on,drop out of character and explain politely.
-
-## #T-THERULESAREFLEXIBLE
-
-Feel freeto ignore oradjust any of thefollowing rules inthis book if itwillmake yourgamebetter.We atWhiteWolf call thisTheGoldenRule.If some rulein this book(beyond thefirsteightlisted here)doesn'tworkforyourgroupof players,change it.Justbeconsistentand fair.Nobodylikesrulesthatchange everyweek,nordothey like"no-win"scenarios that favor a certain player.If your troupefindsa newway to handle,say,TrueFaith,thatworksbetterforyouthantheoneinthisbook,goforit.
-
-## #8-HAVEFUN
-
-Not,WinInfact,wninghasverylittmeaningnanyMind'eThatgam. Not,"Go out and kill everyone else."That's not really fun for anyone on the receiving end,and it can actuallybring the game to apremature end.
-
-Just have fun.The live-action experience isnotabout achieving superiority over the other players; it's about the journey and what happens along the way.
-
-## WHAT ISSTORYTELLING?
-
-From the early days of skalds and shamans to those of modern actors and playwrights,storytellershavesparked theimaginationsofcountlesscultures.Through stories,weshareourbeliefs,mythsandlegends.Withtheadventof live-actiongames suchasthisone,storytellingreturnstoitsrootsasannteractiveexperiencenwhich everyone is a contributing participant.Through this game,the tales ofVan Helsing andKolchak,Odysseus andEnkidu standbeside thestories of eachplayer.In telling these stories,werecount the timelesslessons of myth.
-
-## WHAT IS MIND'S EYETHEATRE?
-
-Mind'sEyeTheatretakesstorytellingastepfurtherinbringingthetaletolifeforthe players.Likethe actorsinamovie,theparticipants takeontherolesof peoplecaughtu in drama.Instead of focusing on"winning"with dicerolls and game pieces,thisgame centersontheenjoymentofcreatingastoryandactingouttheparts.Noboardlimitsyour imagination.nsteadyoudiscoveryourownmotivationsanddevelopyourownlegend Byinteractingwiththeotherplayersandrespondingtotheeventsofthestoryyoudescribe alargerworld inwhichyouractionspaintonthecanvasofimagination.It'stheaterwithout a script,where the outcome of the drama remains unknown until the end of the play.
-
-## CHARACTER
-
-AMind's EyeTheatrecharacteristheroleyouassumeforthecourseofthegame. Asa hunter,a humandriven toconfront thesupernatural,yourcharacterinLawsof theHuntisanoutwardlynormalindividualthrustintoaworldbeyondthekenofmost meremortals.From there,therest isuptoyouwhether your hunteris nsightful, aggresiveorvengefulsorcerer,truebelieverorgovernmentagent;amemberofany specificminority,ethnicity or society.Your imagination and theguidelines in this book arethe onlylimits toyourcharacter.
-
-Onceyouenterthegameyoubecomeyourcharacter.Yourspeechandactions arethewordsanddeedsofyourpersona.Throughyourconduct,youdrivethestory whereveryou touchit.Atthesametime,theeventsofthestorydirectyourresponses as they play on the strengths andfrailties of your role.
-
-A three-dimensionalcharacter-onewhoismorethanjustnumbersonapiece of paper—makes the game rewarding.Yet as a player,you have a responsibility beyond simplyportrayingthecharacteryou havecreated.You should consider how you contribute to the story as awhole.Rememberyourrole inmakingit interesting and funfortheotherplayersaswell asyourself.If yourespect the strengths and ideas of their characters,they will do the same foryou.
-
-Ultimately,charactersarethetruemotivatingfactorsofastory.Eventstakeplace becausetheympactthecharacters,andthecharactersnturn,reactandshapehr tale.Dive intoyourroleandbring thestory tolife!
-
-## NARRATORS
-
-Narrators are like the stagehands in aplay-theypropel the storyby adjudicatingrules,describing scenes andtakingon theparts of antagonists andextrasin the story.WitharatioofaboutoneNarratorforevery10playersyoushouldbeableo keep asmoothgameflow.More experienced playerscan evenmove thegame along withouttheassistance ofNarrators.Whenaquestionregardingrulesorsettingcomes up,a Narrator fills in to keep the game in motion.
-
-## THESTORYTELLER
-
-EverygamemusthaveaStorytellerwhoservesastheultimate authorityandfinal judge.TheStorytellercreates thebasic"framework"elementsof the plot,making sure that the story has layers ofintrigue,interesting hooks and narrative flow.He then turnstheplayers loose toseewhathappens.Withtheaidof Narrators,theStoryteller immerses theplayers in thelarger tale.
-
-TheStorytellermustbewatchful during thegametomakesurethatthestory worksoutwell,thatall oftheplayershavesomethingtodoandthattheyareabiding by therules.Since theStoryteller is theguide to thegame and thefinal court of disputesandsettings,allgameeventsrestonherfinalauthority.TheStorytelleralso makes surethatthegameissafe andfunbymakingsurethattheplayersdon'tengage inexcessivebehavior,yet still contribute to theflow of the story.
-
-StorytellingisatoncethemostdemandingandmostrewardingjobinaMind'sEye Theatregame.TheStorytellermustcoordinatealloftheelementsofanenthrallingtale andmakesurethateveryone hasagoodtime.However,thesatisfactionthatcomesfrom a group of enthusiasticplayers and a well-told story can't be matched.
-
-## Laws of the Hhunt
+Everygamemusthavea Storytellerwhoservesastheultimate authorityandfinal judge.the Storytellercreates the basic"framework"elementsof the plot, making sure that the story has layers of intrigue, interesting hooks and narrative flow.He the n turnstheplayers loose toseewhathappens.with the aidof Narrators, the Storyteller immerses the players in the larger tale. the Storytellermustbewatchful during the gametomakesurethatthestory worksoutwell, that all of the playershavesomethingtodoandthattheyareabiding by the rules.Since the Storyteller is the guide to the game and the final court of disputesandsettings, all gameeventsrestonherfinalauthority.the Storytelleralso makes surethatthegameissafe and funbymakingsurethattheplayersdon'tengage inexcessivebehavior, yet still contribute to the flow of the story. Storytellingisatoncethemostdemandingandmostrewardingjobina Mind's Eye the atregame.the Storytellermustcoordinatealloftheelementsofanenthrallingtale and makesurethateveryone has agoodtime.how ever, the satisfactionthatcomesfrom a group of enthusiasticplayers and a well-told story can't be matched. ## Laws of the Hhunt
 
 ## ntroduction
 
 ## SCENERY,COSTUMINGANDPROPS
 
-Astimulatinglocale,appropriatecharacterclothingand interestingpropscango a longway toward bringing the story-and the Gothic-PunkWorld of Darkness in whichitissettolife.However,theStorytellerhasfinalsayoverwhatispermitted inthegame.Aswithallthings,thepropsandcostumes shouldnotexceed thebounds ofsafety andgoodtaste.Weapons,offensiveshirtsandquestionablesubstancescan reallyruintheeveningwhenlegalentanglements emerge ortempersflareStill,afew well-chosen articlescan serve toilluminate a point just aswell; a simplewhitecollar can denote anInquisitor,a book a scholar,apair of shades anda cellular phonea government agent.
+Astimulatinglocale, appropriatecharacterclothingand interestingpropscango a longway toward bringing the story-and the Gothic-Punk World of Darkness in which itissettolife.how ever, the Storytellerhasfinalsayoverwhatispermitted inthegame.Aswithallthings, the propsandcostumes should not exceed the bounds of safety and goodtaste.Weapons, of fensiveshirtsandquestionablesubstancescan reallyruintheeveningwhenlegalentanglements emerge or tempersflare Still, afew well-chosen articlescan serve toilluminate a point just aswell; a simplewhitecollar can denote an Inquisitor, a book a scholar, apair of shades and a cellular phonea government agent. ## A WORLD OF DARKNESS
 
-## A WORLD OF DARKNESS
+Imaginewakingupinaworld where the shadows are darker, the threats are more ominousand the seedy sideofsociety is more oppressive.the same bandsplay on the radio, but the ir followersareviolentandobsessive.Socialunrest, crimeandrevolution are the or der of the day.Murder hardlymakes the headlinesinthe local paper.Glitzy superstars leading lives of falseglamour populate the club of the monthwhile the homelesscluster in garbage-ridden slums only a fewblocks away.This is the Worldof Darknessurwnworldbutmoresinister, justnthedgeofhysteriamadness and self-destruction. Nightclubs with eerie architecture pulse to grinding music.Towering skyscrapers, imposingcathedrals and blood-darkenedstreets loom and coil aboutthecitiesat night.Oppressiveartandraw, bleedingviolenceintersectina Gothic-Punkworld.Its aworldwherevampires are stylishpredators and were wolvesareferal terrorists.In manywaysit'saworldwheretheaveragehumanfeelslostandhelpless.Everyones predator or prey. ## the YEAROFTHE HUNTER
 
-Imaginewakingupinaworld wheretheshadows aredarker,thethreats aremore ominousand theseedy sideofsociety ismore oppressive.Thesame bandsplay on the radio,buttheirfollowersareviolentandobsessive.Socialunrest,crimeandrevolution are theorder of the day.Murder hardlymakes theheadlinesinthe local paper.Glitzy superstars leading lives of falseglamour populate theclub of themonthwhile the homelesscluster in garbage-ridden slums only a fewblocks away.This is theWorldof Darknessurwnworldbutmoresinister,justnthedgeofhysteriamadness and self-destruction.
+White Wolfpublishesafulllineofbooksaboutmortalhunters, including The Inquisition, Project Twilight, Hallsof the Arcanum, The Quickand the Dead, the Hunters Hunted and the Autumn People the se books provide the basisformuch of Laws of the Hunt, though they are not necessary for play.how ever, an interested player can find more information abouthischaracter and the gameworld intheseresources. ## TAKING BACK THE NIGHT
 
-Nightclubs with eerie architecture pulse to grinding music.Towering skyscrapers,imposingcathedrals and blood-darkenedstreets loom andcoil aboutthecitiesat night.Oppressiveartandraw,bleedingviolenceintersectinaGothic-Punkworld.Its aworldwherevampires arestylishpredators andwerewolvesareferal terrorists.In manywaysit'saworldwheretheaveragehumanfeelslostandhelpless.Everyones predator or prey.
+Inaworldverrunwithorrupton, viceandvillainymosteoplearerlegatd todead-endjobsandsqualid, earful lives.Shadowyfigurescontrolmortalsociety throughinvisibleinfluence and supernaturalpower.Onlyararefeweverpull backthe curtain toreveal the hiddenplayers.Armedwithwits and courage, the most talented (and foolhardy)mortalsdecidetofightfortheirownlivesand the destinyofhumanity. they takeup arms ashunters, Laws of the Hunte the roadofthehunterisashortanddangerousonewithfewrewards.Evenwith moderntechnologyattheirdisposal, somewouldsaythatmosthuntersleaddoomed lives.the powersof the supernatural are simply toopotentformostlonehumansto with stand.Still, someindividualsfeel the drivingneedtocounter the creaturesthat prey on humanity, hiddenbeingsusing entire generations of mortals as tools.More of tenthannot, the selonersfalltotheverybeingstheyhunt, defeatedbyignorance and human frailty. Still, when everavampireleavestracesofitsfeeding, or awerewolfestroysa human'slife, anotherhuntertakesupthemantle.Overtime, the fewsurvivorsband togethertoform or ganizationsdevotedtothestudy and destructionof supernatural entities.the Inquisition, for gedintheflamesof the Dark Ages, still hunts the undead in a hidden war of faith.the Arcanum, a scholarly society from the Renaissance, compilesvasttomes of supernaturalknowledgethatcontainmoreinformationthan any other resource in the world.Ghost-hunters and witch-slayers band together in smallgroupsorlooseaffiliationstoprovidetheforcethatfewsupernatural creatures can defeat:a united front that fights for a cause. Mortalhunters are not with outtheirspecialresources, either.Thoughmanyrely on technology, traininganddedicationafewosesspowersoftheirwnwithwhich to stalk the ir paranormal quarry.Billed"Numinae"by scholars of such matters, the se powersgive hunters the irown supernaturalweaponsinbattle.Sorcery, the practice of ritualmagic, provides anedgefor the intellectualandinsightfulhunter.Psychic Phenomena gift some otherwiseordinaryhumanswiththepower toread thoughts or moveobjectswiththeirminds.and burning Faith, dedicationtothe Eternal, fuelsthe symbols and ceremonies of the devoutly religious. ## the ASSOCIATIONS
 
-## THEYEAROFTHE HUNTER
+Whilesomehuntersworkalone, and otherspartnerwithacircleof trustedallies, afewjoinsocietiesdedicated tothehunter'scraft.the se associations are manifold, with differentmotivesandmethodsofoperation.for a hunterinneedof the wisdom of experience or the assistanceofnumbers, anorganizationprovides the means to continue the venery. Associationsrarely cooperate, simplybecause the yoftenhavedisparategoals. Scholarlygroups suchasthe Arcanum seekonlytoobserve and learn, whilemore active groups suchasthe Societyof Leopold takeadirecthandin stalking and slaying supernatural entities.Enigmatic government agencies catalog or capture the se entities at the whimsof the ir hidden superiors, and clandestinegroups of hunterswith stranger motives engage in investigations away from the rest of hunter"society." Naturally, relationsbetween suchdissimilar roups are tenuous atbesttillh hunter'swarisultimatelythewarofhumanity against the Other, and mortalsfill the importantrolesofally, mentor and friend. Giventhecoolrelationsbetween hunter associations, it'snowonderthatmany paranormal beings manage toremain two steps ahead of the m.Speculation and informationmaybeflawedoruseless, and resourcesmaybescant duetogrouppolitics. Groupsrarelysharetheirassetsknowledge, faith, equipmentwithothergrous. Securityinahunterassociationistenuousatbest.how everwhenallof the chipsare do wnanddisasterseemsmminent, trulydedicatedhuntersperseverepulltogethr and show the world what"mere mortals"can do. ## the HUNTED
 
-WhiteWolfpublishesafulllineofbooksaboutmortalhunters, includingTheInquisition,ProjectTwilight,Hallsof theArcanum,The Quickand theDead,TheHuntersHunted and TheAutumnPeople These books provide the basisformuch of Laws of theHunt, though they are notnecessary forplay.However,an interested player can find more information abouthischaracter and the gameworld intheseresources.
+Many are the creatures that stalkthenightmaresofhunters.they seek tomove unseenthroughmortalsociety, alternatelyusinghumansasprey, toolsorcompanions. Eachhasaparticular styleofoperation, and cunninghunterssoondiscover the means of identifying and defeating the m—or they dietrying. ## VAMPIRES
 
-## TAKING BACK THE NIGHT
+Vampiresperhapsthemostubiquitousfoesofhunterssustainthemselveson bloodof the living.Cursedwithundeathandeternal hunger, they stalkthenightin pale human guisesplaying politicalgames that spangenerations.Humans are pawns in the games of truly oldvampires, in unfathomablecontests that providethe only entertainment for beings jadedby centuries of nocturnal existence. Capableofrapidhealingandmindcontrol, and possessedofincrediblephysical prowess, vampiresareformidable opponentsindeed.Vampirehuntersmust arm the mselveswith fire and Faith to have any hope of victory.Eventhe Society of Leopold——the modern arm of the Inquisition—finds the se creatures dangerous in the extreme.Worse still, many vampires subtly manipulate hunters into cunning plots, unleashing the unwitting assassins on the undead's own enemies.Rareindeed is the hunterwhomakesapractice of stalkingvampires and manages tosurvive longer than ayear. Laws of the Nightcontainscomplete informationregardingthesedarkpredators. ## were WOLVES were wolvesseemlikenormalhumansorwolves, but they changeshapefreely through arange of for msbetween the two.Stalkingthewildernessandtracts of unspoiledlandbetweencities, were wolves exhibitpowerful ties to the naturalworld. the ir shamanisticpractices all owthem tocall onspiritsforaid and to enter the spirit world.Possessedofformidable naturalweaponry and aspeedand strengthborn of feral rage, awerewolf is a terrifying combination of spiritual entity and marauding killer. Lawsof the Wild containscompleteinformation onwerewolves. Hunterswhomake a career of stalkingwerewolves are fewer even than those who fight vampires.Not only is the wolf-man for m of a were wolf farmore powerful than any human, but instinctive terror overrides all but the most strong-will ed mortal when awerewolfbrings its full rage to bear.Silverprovides the only consistentdefense, asmany anow-deceased hunterhasdiscovered ontryingother folk-wards against the shapeshifters. ## MAGES
 
-Inaworldverrunwithorrupton,viceandvillainymosteoplearerlegatd todead-endjobsandsqualid,earful lives.Shadowyfigurescontrolmortalsociety throughinvisibleinfluence andsupernaturalpower.Onlyararefeweverpull backthe curtain toreveal thehiddenplayers.Armedwithwits andcourage,themost talented (andfoolhardy)mortalsdecidetofightfortheirownlivesand thedestinyofhumanity. They takeup arms ashunters,
+More human than humanmagesmanipulaterealityitself throughforceof will. Whethrbyhanteditualartialartmastryxotitsorxtremelyadvand technology, mages focus arcane energies to create limitless varieties of effects. Lightning bolts, stalking minions and plasma rifles are the ends faced by unwary hunters.Moving unnoticed through human society, mages play the odds and bend for tune to the ir favor.Fewhunters can detect mages, and fewer still can mount effectivestrategies againstthem.when confronteddirectly, magesbringincredible "coincidence"tothefore, expertlyvanishing(and sometimesleavingbehindunpleasant surprises)whileleaving hunters bewildered by the irfoul luck. ## Introcuction
 
-Laws of the Hunte
+## WRAITHS the restless dead sometimesremain in contactwith the living worldwhen unfinishedbusinessor unresolvedpassioncallsmorefiercelythan the grave.Trapped inashadowexistenceinaplaneofgraynessanddeathwraithsrarelymanagetoaffect the livingworld, but somemasterarcanepowersthatallowthemtomanifestghostly images, auntingscoldonesoltrgeistlightsanddisconcertingoises Worsestill, wraiths are sometimescapableofpossessinghumans and reachingintotheliving world directly, whileremainingsafely onthespiritplane.Because the spiritsofthe deadexistinaworldapartfromtheliving, the yaredifficulttoaffectdirectly.Studious huntersmaylearn Sorcerycapableofbindingorbanishingwraiths, and somefewhave a talentforseeingand hearingghosts.Betterstill, aknowledgeablehunter can track do wn the objectsandpeopletowhichawraithhadconnectionsnlife, and findout why they continue tocompel the wraithbeyond death. Oblivion for Mind's Eye the atre contains completeinformation regarding wraiths. ## CHANGELINGS
 
-Theroadofthehunterisashortanddangerousonewithfewrewards.Evenwith moderntechnologyattheirdisposal,somewouldsaythatmosthuntersleaddoomed lives.Thepowersof thesupernatural are simply toopotentformostlonehumansto withstand.Still,someindividualsfeel thedrivingneedtocounter thecreaturesthat prey on humanity,hiddenbeingsusing entire generations ofmortals as tools.More oftenthannot,theselonersfalltotheverybeingstheyhunt,defeatedbyignorance and human frailty.
+Longagowhentheworldwasfilledwitwonderfariesandreaturesfream inhabitedthe Earthalongsidehumans.Now, inamodernageofscienceandmundane life, the powers of dream and imagination are for cedinto a half-existence.Changelingssurvivebyclothingfaeriespiritsinhumanbodies, and they strivetobringwonder toabanalworld. Few hunters actively persecute the fae, partly because changelings usually resemblenormalhumans, and partlybecause the faedonot of ten take aninimical stanceagainsthumanity.Still, somechangelingsdelightintormentingmortals, and some huntersfind the thought of alienspiritsinhumanfleshsacrilegious.For any hunterof changelingsironand unbelief are the m ostpotentmplementswithwhich tofight the fae. Complete informationregardingchangelingscanbefoundin The Shining Host. ## LEXICON
 
-Still,wheneveravampireleavestracesofitsfeeding,orawerewolfestroysa human'slife,anotherhuntertakesupthemantle.Overtime,thefewsurvivorsband togethertoform organizationsdevotedtothestudy anddestructionof supernatural entities.TheInquisition,forgedintheflamesof theDarkAges,still hunts theundead in a hidden war of faith.TheArcanum,a scholarly society from theRenaissance, compilesvasttomes of supernaturalknowledgethatcontainmoreinformationthan any other resource in the world.Ghost-hunters andwitch-slayers band together in smallgroupsorlooseaffiliationstoprovidetheforcethatfewsupernatural creatures can defeat:a united front that fights fora cause.
-
-Mortalhunters arenotwithouttheirspecialresources,either.Thoughmanyrely on technology,traininganddedicationafewosesspowersoftheirwnwithwhich to stalk their paranormal quarry.Billed"Numinae"by scholars of such matters,these powersgive hunters theirown supernaturalweaponsinbattle.Sorcery,thepractice ofritualmagic,provides anedgefor the intellectualandinsightfulhunter.Psychic Phenomena gift some otherwiseordinaryhumanswiththepower toread thoughts or moveobjectswiththeirminds.AndburningFaith,dedicationtotheEternal,fuelsthe symbols and ceremonies of the devoutly religious.
-
-## THEASSOCIATIONS
-
-Whilesomehuntersworkalone,andotherspartnerwithacircleof trustedallies, afewjoinsocietiesdedicated tothehunter'scraft.These associations aremanifold, withdifferentmotivesandmethodsofoperation.Fora hunterinneedof thewisdom ofexperience or the assistanceofnumbers,anorganizationprovides themeans to continue thevenery.
-
-Associationsrarely cooperate,simplybecause theyoftenhavedisparategoals. Scholarlygroups suchastheArcanum seekonlytoobserve and learn,whilemore active groups suchastheSocietyof Leopold takeadirecthandin stalking and slaying supernatural entities.Enigmatic government agencies catalog orcapture these entities at the whimsof their hidden superiors,andclandestinegroups of hunterswith stranger motives engage in investigations away from the rest of hunter"society." Naturally,relationsbetween suchdissimilar roups aretenuous atbesttillh hunter'swarisultimatelythewarofhumanity against theOther,andmortalsfill the importantrolesofally,mentor andfriend.
-
-Giventhecoolrelationsbetween hunter associations,it'snowonderthatmany paranormal beings manage toremain two steps ahead of them.Speculation and informationmaybeflawedoruseless,andresourcesmaybescant duetogrouppolitics. Groupsrarelysharetheirassetsknowledge,faith,equipmentwithothergrous. Securityinahunterassociationistenuousatbest.Howeverwhenallof thechipsare downanddisasterseemsmminent,trulydedicatedhuntersperseverepulltogethr and show the world what"mere mortals"can do.
-
-## THEHUNTED
-
-Many are the creatures thatstalkthenightmaresofhunters.They seek tomove unseenthroughmortalsociety,alternatelyusinghumansasprey,toolsorcompanions. Eachhasaparticular styleofoperation,andcunninghunterssoondiscover themeans of identifying anddefeating them—or they dietrying.
-
-## VAMPIRES
-
-Vampiresperhapsthemostubiquitousfoesofhunterssustainthemselveson bloodof theliving.Cursedwithundeathandeternal hunger,they stalkthenightin pale human guisesplaying politicalgames that spangenerations.Humans arepawns in the games of truly oldvampires,in unfathomablecontests thatprovidethe only entertainment for beings jadedby centuries of nocturnal existence.
-
-Capableofrapidhealingandmindcontrol,andpossessedofincrediblephysical prowess,vampiresareformidable opponentsindeed.Vampirehuntersmust arm themselveswith fire and Faith to have any hope ofvictory.EventheSociety of Leopold——themodern arm of the Inquisition—finds these creatures dangerous in the extreme.Worse still,many vampires subtly manipulate hunters into cunning plots,unleashing the unwitting assassins on the undead's own enemies.Rareindeed isthe hunterwhomakesapractice of stalkingvampires andmanages tosurvive longer than ayear.
-
-Laws of theNightcontainscomplete informationregardingthesedarkpredators.
-
-## WEREWOLVES
-
-Werewolvesseemlikenormalhumansorwolves,buttheychangeshapefreely through arange offormsbetween thetwo.Stalkingthewildernessandtracts of unspoiledlandbetweencities,werewolves exhibitpowerful ties to thenaturalworld. Their shamanisticpractices allowthem tocall onspiritsforaid and to enter the spirit world.Possessedofformidable naturalweaponry andaspeedand strengthborn of feral rage,awerewolf is a terrifying combination of spiritual entity andmarauding killer.
-
-Lawsof theWild containscompleteinformation onwerewolves.
-
-Hunterswhomake a career of stalkingwerewolves arefewer even than those whofight vampires.Not only is the wolf-man form of a werewolf farmore powerful than any human,but instinctive terror overrides all but the most strong-willed mortal when awerewolfbrings its full rage to bear.Silverprovides the only consistentdefense,asmany anow-deceased hunterhasdiscovered ontryingother folk-wards against the shapeshifters.
-
-## MAGES
-
-More human thanhumanmagesmanipulaterealityitself throughforceof will. Whethrbyhanteditualartialartmastryxotitsorxtremelyadvand technology,mages focus arcane energies to create limitless varieties of effects. Lightning bolts,stalking minions and plasma rifles are the ends faced by unwary hunters.Moving unnoticed through human society,mages play the odds and bend fortune to their favor.Fewhunters can detect mages,andfewer still can mount effectivestrategies againstthem.Whenconfronteddirectly,magesbringincredible "coincidence"tothefore,expertlyvanishing(and sometimesleavingbehindunpleasant surprises)whileleaving hunters bewildered by theirfoul luck.
-
-## Introcuction
-
-## WRAITHS
-
-Therestless dead sometimesremain in contactwith the living worldwhen unfinishedbusinessor unresolvedpassioncallsmorefiercelythan thegrave.Trapped inashadowexistenceinaplaneofgraynessanddeathwraithsrarelymanagetoaffect thelivingworld,butsomemasterarcanepowersthatallowthemtomanifestghostly images,auntingscoldonesoltrgeistlightsanddisconcertingoisesWorsestill, wraiths aresometimescapableofpossessinghumans andreachingintotheliving world directly,whileremainingsafely onthespiritplane.Because thespiritsofthe deadexistinaworldapartfromtheliving,theyaredifficulttoaffectdirectly.Studious huntersmaylearnSorcerycapableofbindingorbanishingwraiths,andsomefewhave a talentforseeingand hearingghosts.Betterstill,aknowledgeablehunter can track down theobjectsandpeopletowhichawraithhadconnectionsnlife,andfindout why they continue tocompel thewraithbeyond death.
-
-Oblivion forMind'sEye Theatre contains completeinformation regarding wraiths.
-
-## CHANGELINGS
-
-Longagowhentheworldwasfilledwitwonderfariesandreaturesfream inhabitedtheEarthalongsidehumans.Now,inamodernageofscienceandmundane life,the powers of dream and imagination are forcedinto a half-existence.Changelingssurvivebyclothingfaeriespiritsinhumanbodies,andtheystrivetobringwonder toabanalworld.
-
-Few hunters actively persecute the fae,partly because changelings usually resemblenormalhumans,andpartlybecause thefaedonot often take aninimical stanceagainsthumanity.Still,somechangelingsdelightintormentingmortals,and some huntersfind the thought of alienspiritsinhumanfleshsacrilegious.For any hunterof changelingsironand unbelief arethemostpotentmplementswithwhich tofight thefae.
-
-Complete informationregardingchangelingscanbefoundinThe Shining Host.
-
-## LEXICON
-
-Both hunter organizations andMind'sEyeTheatre call fora special vocabulary, sosomecommontermsfollow:
-
-- ·Ability:The skills,talents and knowledge a character possesses.
-- ·Arcanum,The:Ascholarlyorganizationdedicatedtocollectingknowledge about the supernatural.
-- ·Attributes:The measure ofa character's basicPhysical,Social and Mental statistics.Measured withTraits.
-- Auto-da-fé:The"act of faith,a call of judgment against a supernatural creaturebytheSociety of Leopold.Generally,a preludetoafull hunt.
-- BenandantiThe:Alooseorganizationof mortalswith the ability toenter the Shadowlands,therealmof the dead.
-- ·Bidding:Part of themechanism of challenges.The risking of Traits in order towin a challenge.
-- ·Cenacle:Agroup of Inquisitors.
-
-## Laws of the Hunt
-
-<!-- image -->
-
-- Cenaculum:Local headquarters of the Inquisition.Ameetingplaceand safe haven for suchhunters.
-- ·Challenge:The system by which conflicts between characters are resolved through the bidding of Traits and the use of "Rock-Paper-Scissors."
-- ChapterHouse:A stronghold and library of theArcanum.
-- Health:Ameasure of physical damage andvitality.Used to determine how much injurya hunterhas sustained.
-- Hedge Magic:See Sorcery.
-- ·Humanity:The essential qualitiesofmortalvibrancy thatsethumans apart from supernatural creatures.MeasuredinTraits.
-- Influences:The measureof howmuch control a character has over assorted socialinstitutions.MeasuredwithTraits.
-- ·Numina:A special paranormal ability—True Faith,Sorcery,or Psychic Phenomena— possessed by an otherwise normal human.
-- ProjectTwilight:A special governmentprogram devoted toinvestigating paranormal phenomena and capturingsupernatural creatures.
-- ·PsychicPhenomena:Termfor aclass of not-wholly-understood powers that functions as an extension of themind,allowing a human to expand awareness and capabilities.Includesmind reading（telepathy),remote sensing（clairvoyance）and remotemanipulation(telekinesis).
-- ·Relic:An artifact of TrueFaith imbuedwith holy power,usually due to its association with a saint.
-- ·Society of Leopold,The:The modern successor of theInquisition.A secret arm of the Church dedicated tofighting the supernatural.
-- Sorcery:Ritualmagic aspracticedbymortals.Differentfrom,andmorelmited than,theTrue Magickwoven bymages.
-- ·Theurgy:Divinely empowered“white magic."
-- Trait:An adjectiveused to describea huntercharacter.
-- TrueFaith:Thatrare quality of belief in and acceptance of one's ordained placeintheuniverse,generally aspart of theplanof ahigherbeing.
-- ·Willpower:Themeasureofahunter'sconvictionandperseverance.Measured in Traits.
-
-<!-- image -->
-
-<!-- image -->
-
-Creatinga mortal characterisnothinglessthanbuildinganentire persona.From goals and history topersonal capabilities,you need to determinevarious aspects of yourcharacter'spersonality and background.By selectingTraits to describeyour character,you helpdefine therolethatyou'll play.
-
-## STEP ONE:INSPIRATION
-
-- —ChooseConcept,NatureandDemeanor,MotivationandAssociation（if any)
+Both hunter or ganizations and Mind's Eye the atre call for a special vocabulary, sosomecommontermsfollow: - ·Ability:The skills, talents and knowledge a character possesses. - ·Arcanum, The:Ascholarlyorganizationdedicatedtocollectingknowledge about the supernatural. - ·Attributes:The measure of a character's basic Physical, Social and Mental statistics.Measured with Traits. - Auto-da-fé:The"act of faith, a call of judgment against a supernatural creaturebythe Society of Leopold.Generally, a preludetoafull hunt. - Benandanti The:Alooseorganizationof mortalswith the ability toenter the Shadowlands, the realmof the dead. - ·Bidding:Part of the mechanism of challenges.The risking of Traits in or der towin a challenge. - ·Cenacle:Agroup of Inquisitors. ## Laws of the Hunt
+- Cenaculum:Local headquarters of the Inquisition.Ameetingplaceand safe have n for suchhunters. - ·Challenge:The system by which conflicts between characters are resolved through the bidding of Traits and the use of "Rock-Paper-Scissors."
+- Chapter House:A stronghold and library of the Arcanum. - Health:Ameasure of physical damage and vitality.Used to determine how much injurya hunterhas sustained. - Hedge Magic:See Sorcery. - ·Humanity:The essential qualitiesofmortalvibrancy that sethumans apart from supernatural creatures.Measuredin Traits. - Influences:The measureof how much control a character has over assorted socialinstitutions.Measuredwith Traits. - ·Numina:A special paranormal ability—True Faith, Sorcery, or Psychic Phenomena— possessed by an otherwise normal human. - Project Twilight:A special governmentprogram devoted toinvestigating paranormal phenomena and capturingsupernatural creatures. - ·Psychic Phenomena:Termfor aclass of not-who lly-understood powers that functions as an extension of the mind, all owing a human to expand awareness and capabilities.Includesmind reading（telepathy), remote sensing（clairvoyance）and remotemanipulation(telekinesis). - ·Relic:An artifact of True Faith imbuedwith holy power, usually due to its association with a saint. - ·Society of Leopold, The:The modern successor of the Inquisition.A secret arm of the Church dedicated tofighting the supernatural. - Sorcery:Ritualmagic aspracticedbymortals.Differentfrom, and morelmited than, the True Magickwoven bymages. - ·the urgy:Divinely empowered“white magic."
+- Trait:An adjectiveused to describea huntercharacter. - True Faith:that rare quality of belief in and acceptance of one's or dained placeintheuniverse, generally aspart of the planof ahigherbeing. - ·will power:the measureofahunter'sconvictionandperseverance.Measured in Traits. Creatinga mortal characterisnothinglessthanbuildinganentire persona.From goals and history topersonal capabilities, you need to determinevarious aspects of you rcharacter'spersonality and background.By selecting Traits to describeyour character, you helpdefine the rolethatyou'll play. ## STEP ONE:INSPIRATION
+- —Choose Concept, Natureand Demeanor, Motivationand Association（if any)
 
 ## STEPTWO:ATTRIBUTES
-
-- —Prioritize the three categoriesPhysical,Social,Mental (6/4/3)
+- —Prioritize the three categories Physical, Social, Mental (6/4/3)
 - —Choose Physical Traits
-- —ChooseSocial Traits
+- —Choose Social Traits
 - —Choose Mental Traits
 
 ## ·STEP THREE:ADVANTAGES
-
-- -Choose threeAbilities
+- -Choose three Abilities
 - —Assign Abilities from Association (if any)
 - —Choose one Influence
 
 ## STEPFOUR:FINISHING TOUCHES
-
-- -RecordWillpowerandHumanityTraits
-- —ChooseNegative Traits,if any
-- —Purchase Merits and Flaws,if any
-- —Spend FreeTraits(5,or 7for independents)
-- -STEP FIVE:SPARK OFLIFE
-
-<!-- image -->
+- -Record will powerand Humanity Traits
+- —Choose Negative Traits, if any
+- —Purchase Merits and Flaws, if any
+- —Spend Free Traits(5, or 7for independents)
+- -STEP FIVE:SPARK of LIFE
 
 ## STEP ONE:INSPIRATION
 
-Beforeyou startwriting anything down,take a moment to think about your hunter.Whatkindofcharacterdoyouwanttoplay?Would hebeaphysical,rough and-tumbleperson,ormore of anintrospectiveintellectual?
+Beforeyou startwriting anything do wn, take a moment to think about you r hunter.what kindofcharacterdoyouwanttoplay?Would hebeaphysical, rough and-tumbleperson, or more of anintrospectiveintellectual? don't feel that you have to limit you r choices in anyway.Given the right circumstancesanyonecanfindhimself thrownintotheroleofthehunterbeitdue tocuriosity, revengeorevenjustfor the thrills. Oneway tomakecertainthatyourcharacter is morethantwo-dimensionalisto comeupwithnotjustone, but twoseparatemotivationalforcesinhislife.what is importanttohimbesideshuntingdownthesupernatural horrorsof the night?What did you rnormal, everydayrun-of-the-mill characterdobeforehiseyesopened tothe secrethorrorsof the World of Darkness? Imagine a math teacherwho loves the precisediligence of model trains. or a business executivewhofelljust short of making itintothemajorleagues and now watcheshisson play shortstop every Sunday afternoon afterchurch.Or the sheriffof a small town who trimsbonsai trees.Any of the se characters has the potential to become a hunter, given the right impetus. ## NATUREANDDEMEANOR
 
-Don't feel thatyou have to limit your choices in anyway.Given the right circumstancesanyonecanfindhimself thrownintotheroleofthehunterbeitdue tocuriosity,revengeorevenjustfor thethrills.
+Atthispoint, you should choosepersonality Archetypesthatsuityourcharacter's disposition and image. you r character's Nature is the most do minant aspect of her true personality. While Naturedescribeswhoyourcharacterreallysyou Natureisnotnecessarilhe only Archetype that applies.Aswe said above, people have many desires and motivations, and what you want the worldtobelieveaboutyou is n'talwaysthetruth. Once you've chosen a Nature for you r character, you should also choose a Demeanor, which is thefaceyourcharactershowstheworld.you r Demeanordoesnot need tobedifferentfromyour Nature, but havingadramaticallydifferent Natureand Demeanorcreates an exciting and dynamicpersonality toroleplay. Ingame terms, Natureand Demeanorhelptooutlinethebehaviorsof characters.A characterwilltendtoactinamannercompatiblewithher Demeanorwhileattempting tofulfill the goalsofher Nature.Insomecasesif acharacterdemonstrateshis Naturein anexemlarfashiona Cagiverushnoabuingueavehirnsta or a Bravointmidateaowerfulsupernaturalcreature)the Storytellerr Narratormay choose to award the playerby refreshinga will poweror Humanity Trait to the character. how ever, insightintoa character's Nature all ows othersto manipulate the characterbyplayingonhisbeliefsandgoals.Ifyouknowsomeones Nature, you may use it inabid just likea Negative Trait, as long as the situationis appropriatetothe action.for example, you mayusethe Judge Naturewhen tryingtoconvincea hunter to help you slay a murderous enemy, but you can not bid the Child Nature to use psychic powersmore effectively on the target. ## ARCHITECT you want toforge somethinglasting.you gainsatisfactionbybuildingsomethingfor the future that will endure.Whetherorganizinganewhuntergrouporwritingascholarly bookonthesupernaturalyouwanttoleavesomethingbehindbeforeyouregone. ## BRAVO
 
-Oneway tomakecertainthatyourcharacter ismorethantwo-dimensionalisto comeupwithnotjustone,buttwoseparatemotivationalforcesinhislife.Whatis importanttohimbesideshuntingdownthesupernatural horrorsof thenight?What didyournormal,everydayrun-of-the-mill characterdobeforehiseyesopened tothe secrethorrorsof theWorld of Darkness?
+Lifeistoughallover, especiallyifyou'rejustamortaltryingtosurviveinaworld of supernaturalpredators.It'sdog-eat-do g, and you intend todotheeating.Security and respectcome onlywithpower and the abilitytobackupyour decrees.You are mercilessto the supernatural creatures that preyon humanity and anyone elsewho gets in the way of you r quest. ## CAREGIVER
 
-Imagine a math teacherwho loves theprecisediligence ofmodel trains. Ora business executivewhofelljust short ofmaking itintothemajorleagues andnow watcheshisson play shortstop every Sunday afternoon afterchurch.Or the sheriffof a small town who trimsbonsai trees.Any of these characters has the potential to become a hunter,given the right impetus.
+In this darkworld, onlypeoplewhocarecanmakearealdifference.you want tohelp others and all eviatesuffering.You resolveproblemsandbringstability, so that people have an is land of calm in a world of turmoil. ## CHILD
 
-## NATUREANDDEMEANOR
+Althoughyoumaynotphysicallybeachildyoustillhavethementalityofone. you finditdifficulttoprovideforyourselfandtheworldiscomplexandbewildering to you.Some seeyou asinnocent, while others perceiveyou as dependent. ## CONFORMIST
 
-Atthispoint,youshouldchoosepersonalityArchetypesthatsuityourcharacter's disposition and image.
+You adapt to any situation by following someone else'slead.Although some would saythatyouhavenospineyourejustasbraveasanyotherhunteryoujusto you r jobbestwhenyou'refollowingordersorfittingin.you keepyourgrouptogether with you rstability and you renthusiasmforgettingthejobdonebythebook. ## CONNIVER
 
-Your character's Nature is the most dominant aspect of her true personality. WhileNaturedescribeswhoyourcharacterreallysyouNatureisnotnecessarilhe only Archetype that applies.Aswe said above,people have many desires and motivations,andwhatyouwant theworldtobelieveaboutyou isn'talwaysthetruth.
+Why do all the workwhenyoucan getsomeone elsetodoit for you?Better still, why expose you rself to unnecessaryrisk?you prefer to devisecunning planstoget what you want.Evenyourenemiesbecome you runwitting pawns asyou play the m against one another. ## DEVIANT for what everreason, you justdon'tfitinwith the restof you r society.You have you rowncodeofmoralsandbeliefs, and itjustdoesn'tmeshwiththestatus quo.Although this code can getyou in trouble, you have a tendency tolook at things from a different perspective, and you runorthodoxmethods still getresults. ## DIRECTOR
 
-Once you've chosen a Nature for your character,you should also choose a Demeanor,whichisthefaceyourcharactershowstheworld.YourDemeanordoesnot need tobedifferentfromyourNature,buthavingadramaticallydifferentNatureand Demeanorcreates an exciting anddynamicpersonality toroleplay.
+You naturally take the lead in any situation.Delegating authority and or ganizinga group are both secondnaturetoyou.You neatly dividethings into sides—those with you, and those against you—and damned if you're going to letyoursidelose.you maynotbeanatural leader, but it'scertainly the rolethat you prefer toplay. ## FANATIC
 
-Ingame terms,NatureandDemeanorhelptooutlinethebehaviorsof characters.A characterwilltendtoactinamannercompatiblewithherDemeanorwhileattempting tofulfill thegoalsofherNature.Insomecasesif acharacterdemonstrateshisNaturein anexemlarfashionaCagiverushnoabuingueavehirnsta oraBravointmidateaowerfulsupernaturalcreature)theStorytellerrNarratormay choose to award theplayerby refreshingaWillpoweror HumanityTrait to thecharacter.
-
-However,insightintoa character'sNature allows othersto manipulate the characterbyplayingonhisbeliefsandgoals.IfyouknowsomeonesNature,youmay use it inabid just likeaNegativeTrait,as long as the situationis appropriatetothe action.Forexample,youmayusetheJudgeNaturewhen tryingtoconvincea hunter to help you slay a murderous enemy,butyou cannot bid the Child Nature to use psychic powersmore effectively on the target.
-
-## ARCHITECT
-
-Youwant toforge somethinglasting.Yougainsatisfactionbybuildingsomethingfor thefuture thatwillendure.Whetherorganizinganewhuntergrouporwritingascholarly bookonthesupernaturalyouwanttoleavesomethingbehindbeforeyouregone.
-
-## BRAVO
-
-<!-- image -->
-
-Lifeistoughallover,especiallyifyou'rejustamortaltryingtosurviveinaworld of supernaturalpredators.It'sdog-eat-dog,andyouintend todotheeating.Security andrespectcome onlywithpower and the abilitytobackupyour decrees.You are mercilessto the supernatural creatures that preyon humanity and anyone elsewho gets in the way of your quest.
-
-## CAREGIVER
-
-In thisdarkworld,onlypeoplewhocarecanmakearealdifference.Youwant tohelp others and alleviatesuffering.You resolveproblemsandbringstability,so that people have an island of calm in a world of turmoil.
-
-## CHILD
-
-Althoughyoumaynotphysicallybeachildyoustillhavethementalityofone. Youfinditdifficulttoprovideforyourselfandtheworldiscomplexandbewildering to you.Some seeyou asinnocent,while others perceiveyou as dependent.
-
-## CONFORMIST
-
-You adapt to any situation by following someone else'slead.Although some wouldsaythatyouhavenospineyourejustasbraveasanyotherhunteryoujusto your jobbestwhenyou'refollowingordersorfittingin.Youkeepyourgrouptogether withyourstability andyourenthusiasmforgettingthejobdonebythebook.
-
-## CONNIVER
-
-Why doall theworkwhenyoucan getsomeone elsetodoit foryou?Better still, why expose yourself to unnecessaryrisk?Youprefer to devisecunning planstoget whatyouwant.Evenyourenemiesbecome yourunwitting pawns asyou play them against one another.
-
-## DEVIANT
-
-Forwhateverreason,youjustdon'tfitinwith therestof your society.You haveyourowncodeofmoralsandbeliefs,anditjustdoesn'tmeshwiththestatus quo.Although thiscode cangetyou in trouble,you have a tendency tolook at things from a different perspective,andyourunorthodoxmethods still getresults.
-
-## DIRECTOR
-
-You naturally take the lead in any situation.Delegating authority and organizinga group areboth secondnaturetoyou.You neatly dividethings into sides—those with you,and those against you—and damned if you're going to letyoursidelose.Youmaynotbeanatural leader,butit'scertainly therolethat you prefer toplay.
-
-## FANATIC
-
-Whether on a quest to destroy all vampires,to discover the secrets of the magicalworldor justtogetareallygoodcupofcoffee,youhave some belief or agenda thatconsumesyoureverywakinghour.Youspend allof yourenergies toward accomplishing the goals ofyour espousedvirtues.Your cause is everything,and nothing will get in your way.
-
-√
+Whether on a quest to destroy all vampires, to discover the secrets of the magicalworldor justtogetareallygoodcupofcoffee, you have some belief or agenda that consumesyoureverywakinghour.you spend all of you renergies toward accomplishing the goals of you r espousedvirtues.you r cause is everything, and not hing will get in you r way. √
 
 ## Character Creation
 
-## GALLANT
+## GALLANT you live the highlifewithflair and style.Getting attentionisyourchiefdesire, and you actflamboyantly and wildly to do so.You are shameless inyourquestfor fulfillment.Roguishandextroverted, you undertakethemostamazingfeatsjustforthe attention and arousinggoodtime. ## HEDONIST
 
-Youlive thehighlifewithflair and style.Getting attentionisyourchiefdesire, andyou actflamboyantly andwildly to doso.You areshameless inyourquestfor fulfillment.Roguishandextroverted,youundertakethemostamazingfeatsjustforthe attention andarousinggoodtime.
+Huntersjustwannahavefun, and that syourbigmotivation.Fulfillingallofyour needs and desiresconsumesmuchofyourtime, but for ahunter, the adrenalinerush of stalkinga supernaturalpredatorbeatsall.when you'renotexercisingyourskillson the huntoutunothrsortfreationalrthrwiseltmatelyls bigparty, soyou'd betterfeel the burnasmuch aspossiblebeforeit all burns do wn. ## JESTER
 
-## HEDONIST
+You dislikemisery and suffering, somuchso that you can'ttakeany situation seriously.You're alwaysreadywith a jokeor wisecrack.Inlighter situations, you re humorous and witty;when things get dark, you can be annoying.you r wit is you r shield against the horrorsof the world. ## JUDGE
 
-Huntersjustwannahavefun,and thatsyourbigmotivation.Fulfillingallofyour needs anddesiresconsumesmuchofyourtime,butforahunter,theadrenalinerush of stalkinga supernaturalpredatorbeatsall.Whenyou'renotexercisingyourskillson thehuntoutunothrsortfreationalrthrwiseltmatelyls bigparty,soyou'd betterfeel theburnasmuch aspossiblebeforeit all burns down.
+Inanytwosidestherearethreestoriesthestoryofthefirstsidethestoryofhe second side and the truth.you want tofindthetruth, and you need tobring justice and reconciliationto everyone.You seektofinishconfrontations, mend arguments and punish the wickedthroughdisputation, diplomacy or outrightgunplay. ## LONER
 
-## JESTER
+Nobodycanreallytouchyouecauseyoureallalone, evennacrowd.Whethr you simplydrivepeopleawaybydintofpersonality, or activelyseektokeeptoyourself, you have fewreasonstoassociatewithothersandfewerfriends.you maynot understandpeople at all, or perhaps you think you understand the m too well. Regardless, you simplyavoidcontact, gettingthingsdonewithoutlettingotherst in the way. ## MARTYR
 
-You dislikemisery andsuffering,somuchso thatyou can'ttakeany situation seriously.You're alwaysreadywith a jokeor wisecrack.Inlighter situations,youre humorous andwitty;when things get dark,you can be annoying.Your wit is your shield against thehorrorsof theworld.
+Awillingness togive of you rself, evento death, fillsyouwithpurpose.Not everyonecanbeamartyr, but somebodyneedstomakesacrificesforthegreatergood, and you'rewilling todoso.you fight the goodfight evenwhen you'regoingtolose, because the good of all peoplerests onyour should ers. ## REBEL you justdon'tholdwithauthority.Peoplewhotrytotellyouwhattodogetonyour nerves.Supernaturals that try to control people are even worse.You're a maverick, constantlydoingthingsyourownway, sometimesjusttospiteyoursuperiors. ## SURVIVOR
 
-## JUDGE
-
-Inanytwosidestherearethreestoriesthestoryofthefirstsidethestoryofhe second side andthetruth.Youwant tofindthetruth,andyouneed tobring justice andreconciliationto everyone.You seektofinishconfrontations,mend arguments andpunish thewickedthroughdisputation,diplomacy or outrightgunplay.
-
-## LONER
-
-Nobodycanreallytouchyouecauseyoureallalone,evennacrowd.Whethr yousimplydrivepeopleawaybydintofpersonality,oractivelyseektokeeptoyourself, youhavefewreasonstoassociatewithothersandfewerfriends.Youmaynot understandpeople at all,orperhaps you think you understand them too well. Regardless,yousimplyavoidcontact,gettingthingsdonewithoutlettingotherst in the way.
-
-## MARTYR
-
-Awillingness togive ofyourself,evento death,fillsyouwithpurpose.Not everyonecanbeamartyr,butsomebodyneedstomakesacrificesforthegreatergood, andyou'rewilling todoso.Youfight thegoodfight evenwhen you'regoingtolose, because thegood of all peoplerests onyour shoulders.
-
-## REBEL
-
-Youjustdon'tholdwithauthority.Peoplewhotrytotellyouwhattodogetonyour nerves.Supernaturals that try to control people are even worse.You're a maverick, constantlydoingthingsyourownway,sometimesjusttospiteyoursuperiors.
-
-## SURVIVOR
-
-You'veseenalotandlived throughitall.Whethershot,stabbed,poisoned, frozenrjustharangued,othingputsyouown;youjustgetupandkegoingWhn the chips are down,you pull outyour best and gear up.
-
-## Laws of the Hlunt
+You'veseenalotandlived throughitall.Whethershot, stabbed, poisoned, frozenrjustharangued, othingputsyouown;you justgetupandkegoing Whn the chips are do wn, you pull outyour best and gear up. ## Laws of the Hlunt
 
 ## TRADITIONALIST
 
-Supernatural creatures are beings ofmyth andlegend.It's only appropriate to fightthemwith thewisdomof such tales.Youbelieve that theoldways arethebest, andyou resist change.You try toget others to followyour example of upholding tradition.Evenwhenthingsstartbreakingdown,youarereluctanttochangebecause change is an unknown,and thenewparadigmcould easily beworse.
+Supernatural creatures are beings of myth and legend.It's only appropriate to fightthemwith the wisdomof such tales.you believe that the oldways are the best, and you resist change.You try toget others to followyour example of upholding tradition.Evenwhenthingsstartbreakingdown, you are reluctanttochangebecause change is an unknown, and the newparadigmcould easily beworse. ## VISIONARY
 
-## VISIONARY
+You have keen insight, which givesyouagreatvisionforthefuture.you rvision mayinclude anythingfrom discovering away toredeemvampirestouniting all of humanityinthequesttoousttheparanormal, but this visionseparatesyoufromothers and givesyouuncommonwisdom.Throughyourpersonalforesight, you seenewpaths and ideas that others can't envision. ## MOTIVATION
 
-You havekeen insight,whichgivesyouagreatvisionforthefuture.Yourvision mayinclude anythingfrom discovering away toredeemvampirestouniting all of humanityinthequesttoousttheparanormal,butthisvisionseparatesyoufromothers andgivesyouuncommonwisdom.Throughyourpersonalforesight,youseenewpaths and ideas that others can't envision.
+Afteryou'vechosen Nature and Demeanor, its timeto decideexactlywhyyour character wants to hunt do wn the evil denizens of the supernatural world.you r character's Motivationistheanswertothatquestion.Motivationisstronglyinfluenced by the character'spersonality and history.Perhapsyou hunt for Revenge because a vampirekilledyourwife.or maybeyou're justa Hedonistwholivesforthethrill of the hunt.Delveintowhatdrivesyourcharactertoconfrontpowersbeyondmortalcompare. Differentmotives drive differenthunters.Separate from personality and jobdescription, Motivation describes why a hunter goes out and stalks supernatural creatures.Ultimately, you r Motivationdeterminesthetypeofgoalsyou assignto you rself Ahuntermotivated by Curiosityislikelytostudythesupernatural, where as a Hatred-or ientedhunter probablytries tokill paranormal creatures. ## COMPASSION
 
-## MOTIVATION
+Ahunterdrivenbycompassionseekshispreynottodestroyanevil, but torelease a tortured soul.Whetherhebelieves that supernatural creatures are under the control of some demonicentity or justvictimsof a terrible disease, he seekstogrant the m release.Suchhuntersmaynotwishtokilltheirtargetsat all, but onlyseektoimprison the mwheretheycandonoharmuntilacureforlycanthropyorvampirismcanbefound. ## CONTROL
 
-Afteryou'vechosenNature andDemeanor,its timeto decideexactlywhyyour character wants to hunt down the evil denizens of the supernatural world.Your character'sMotivationistheanswertothatquestion.Motivationisstronglyinfluenced by the character'spersonality and history.Perhapsyou hunt for Revenge because a vampirekilledyourwife.Ormaybeyou're justaHedonistwholivesforthethrill of the hunt.Delveintowhatdrivesyourcharactertoconfrontpowersbeyondmortalcompare.
+Perhapssupernaturalcreatures are n'tincontrolof the mselvesor even aware of the ir actions.A hunter who believes this supposition might seek to capturehis preyinan attempt tobring the m undercontrol or use the m insomeway.A hunter who understands that some are morepowerful than othersmight hunt do wn the weakercreatures and attempttoharness the masstalkinghorsesinordertofind the stronger ones. ## CURIOSITY
 
-Differentmotives drive differenthunters.Separate from personality and jobdescription,Motivation describes why a hunter goes out and stalks supernatural creatures.Ultimately,yourMotivationdeterminesthetypeofgoalsyou assignto yourselfAhuntermotivated byCuriosityislikelytostudythesupernatural,whereas a Hatred-orientedhunter probablytries tokill paranormal creatures.
-
-## COMPASSION
-
-Ahunterdrivenbycompassionseekshispreynottodestroyanevil,but torelease a tortured soul.Whetherhebelieves that supernatural creatures areunder thecontrol of some demonicentity orjustvictimsof a terrible disease,he seekstogrant them release.Suchhuntersmaynotwishtokilltheirtargetsat all,butonlyseektoimprison themwheretheycandonoharmuntilacureforlycanthropyorvampirismcanbefound.
-
-## CONTROL
-
-Perhapssupernaturalcreatures aren'tincontrolof themselvesor even aware of their actions.A hunter who believes this supposition might seek to capturehis preyinan attempt tobring them undercontrol oruse them insomeway.A hunter whounderstands that some aremorepowerful than othersmight hunt down the weakercreatures and attempttoharness themasstalkinghorsesinordertofind the stronger ones.
-
-## CURIOSITY
-
-A hunterarticularlyneewtherfessionmightotbecertainyeth supernatural creaturestruly do exist.Shemightbemoreinterestedin studyingthem thansimplyslaughteringthem.Eitherway,suchahunterseeksdefiniteproofofthe existence and capabilities ofvampires,werewolves and ghosts,althoughwhen it comes down to it, survival might make combat a necessity.
-
-## Character Creation
+A hunterarticularlyneewtherfessionmightotbecertainyeth supernatural creaturestruly do exist.Shemightbemoreinterestedin studyingthem than simplyslaughteringthem.Eitherway, suchahunterseeksdefiniteproofofthe existence and capabilities of vampires, were wolves and ghosts, althoughwhen it comes do wn to it, survival might make combat a necessity. ## Character Creation
 
 ## DUTY
 
-Not all Motivations areselfishones.Some hunters dowhat they dobecause theyfeel theyaretheonlyoneswhocan.Ahunterdrivenbydutyknowsthatvampiresaredangerous, butcannothelpbuthuntthemdown.Aferall,ifhedoesn't,whowillBecauseheknows aboutthethreatofthesupernatural,hefeelscompelledtodosomethingaboutt.
+Not all Motivations are selfishones.Some hunters do what they do because the yfeel the yaretheonlyoneswhocan.Ahunterdrivenbydutyknowsthatvampiresaredangerous, but can not helpbuthuntthemdown.Aferall, ifhedoesn't, who will Becauseheknows aboutthethreatofthesupernatural, hefeelscompelledtodosomethingaboutt. ## FEAR
 
-## FEAR
+Ifthesecreaturesareouttherewhostosaytheywonomedaycomeafteryou Bettr tobeprepared tofightthem—even to the point of activelygoing after the m—than tolie awakeeverynightwonderingifeverynoiseiscausedbysomethingthatseeksyourblood. ## FUN who says that trackingbearsinthewoods and leopardsinthejungleisthe only excitementahuntercandream of?the rearethingsouttherethatfancy the mselves the kingsoftheworld, and you rhunterisouttheretoshowthemdifferent.Itdoesn't matter what they are, or what they can do.With enough preparation(and caliber), it do esn'tmean anything but more thrill for you rkill. ## HATRED for what everreason, ahunterhasdiscoveredthatvampires, were wolvesandother monstersexist.Heabhorsthem, and heseekstorid the worldof the irmenace.this sort of hunteris extremely driven, and is unlikelytoseethatsuchcreatures could ever accomplishanythinggood.Extremereligiousfanaticismorjustplainspiteatcreatures that claim tobe"better than human"could drive a hunter to this level of antipathy. ## INSANITY for what everreasonahunterbeganhiscareer, ithasbecomesotwistedthatallhat remains is obsession.Sucha hunterhasmadeit heronly goal inlife, and not hingelse mattersbeyond trackingdown the evilssheknowsareoutthere.Shemightdoitmore out of habit than anythingelse, and little else inlife holds anymeaningforherany longer. ## POWER
 
-IfthesecreaturesareouttherewhostosaytheywonomedaycomeafteryouBettr tobeprepared tofightthem—even to thepoint of activelygoing after them—than tolie awakeeverynightwonderingifeverynoiseiscausedbysomethingthatseeksyourblood.
+Somehunterscanbecome dangerouslyfascinatedby the irprey.the ymight knowofthepoweravampire'sbloodgivestoamortalorevendesiretheimmortality of undeath.Such ahunter'sgoalmightbetocapture awerewolfand for ceittobite her so that shetoocanknowthethrill of runningunderthemoon. ## RECOGNITION the re are hunterswhodon'tevencare aboutwhat they do at all;the ydoitmerely to besuccessful atsomething.Whetherthenextmonsteristheonethatgetsher apromotion or merelyvalidateshertalentsnothingmattersexceptthesatisfactionofajobwelldone. ## REVENGE
 
-## FUN
-
-Whosays thattrackingbearsinthewoods andleopardsinthejungleisthe only excitementahuntercandream of?Therearethingsouttherethatfancy themselves thekingsoftheworld,andyourhunterisouttheretoshowthemdifferent.Itdoesn't matter what they are,or what they can do.With enough preparation(and caliber), it doesn'tmean anything butmore thrill for yourkill.
-
-## HATRED
-
-Forwhateverreason,ahunterhasdiscoveredthatvampires,werewolvesandother monstersexist.Heabhorsthem,andheseekstorid theworldof theirmenace.Thissort ofhunteris extremely driven,andisunlikelytoseethatsuchcreatures couldever accomplishanythinggood.Extremereligiousfanaticismorjustplainspiteatcreatures that claim tobe"better than human"could drive a hunter to this level of antipathy.
-
-## INSANITY
-
-Forwhateverreasonahunterbeganhiscareer,ithasbecomesotwistedthatallhat remains is obsession.Sucha hunterhasmadeit heronly goal inlife,andnothingelse mattersbeyond trackingdown theevilssheknowsareoutthere.Shemightdoitmore out of habit thananythingelse,and little else inlife holds anymeaningforherany longer.
-
-## POWER
-
-Somehunterscanbecome dangerouslyfascinatedby theirprey.Theymight knowofthepoweravampire'sbloodgivestoamortalorevendesiretheimmortality ofundeath.Such ahunter'sgoalmightbetocapture awerewolfand forceittobite her so thatshetoocanknowthethrill ofrunningunderthemoon.
-
-## RECOGNITION
-
-There arehunterswhodon'tevencare aboutwhat they doat all;theydoitmerely to besuccessful atsomething.Whetherthenextmonsteristheonethatgetsher apromotion ormerelyvalidateshertalentsnothingmattersexceptthesatisfactionofajobwelldone.
-
-## REVENGE
-
-Vengeance is one of themost commonmotivesforhuntingdownvampires.A vampirestealsalifefromtheworldeverytimeitfeeds,andifoneofthoselivesmeant somethingtoyourhunter,she'sgotanewgoalinlife.Revenge-drivenhunters often begintheircareers byseekingout a singlevampire,butonce they've discovered that moreof these loathsomecreaturesexist,hey continue thecrusade,blindlystriking back atthe source of their original injuries.
-
-√
+Vengeance is one of the most commonmotivesforhuntingdownvampires.A vampirestealsalifefromtheworldeverytimeitfeeds, and ifoneofthoselivesmeant somethingtoyourhunter, she'sgotanewgoalinlife.Revenge-drivenhunters of ten begintheircareers byseekingout a singlevampire, but once they've discovered that moreof the se loathsomecreaturesexist, hey continue the crusade, blindlystriking back atthe source of the ir or iginal injuries. √
 
 Laws of the Hhunt
 
 ## ASSOCIATION
 
-Mosthuntersbelongtoanorganizationofsomesort,workinginassociationwith like-minded individuals.Atthispoint,youdecidewhetheryourcharacterbelongs to such anorganization.Optionally,yourhunter couldbeindependent,travelingthe lonelyroad of ahunterwithout allies.
-
-Membershipin an organizationhascertainbenefits,mostlydue to theresources available tothe group.However, an affliated huntermust pay attention tothedemands andpoliticsof his order,while an independentcanpretty muchdo as hepleases.
-
-HunterAssociationspromotegroups of individualswithresources,information and assistance.Whilea lone hunter iseasy prey fora singlevampire orwerewolf,a groupof hunters united by a common goal area forcewithwhich tobereckoned.A hunter'sAssociationoftendeterminesherhunting style andbeliefs about specific supernatural entities.Religioushunters,forinstance,aremorelikelyto stalkand destroywithoutremorse,while a scholarlyhunter could useSorcery to entrapa creature and gather information about it.
-
-There are threemainapproachestohunting thesupermatural,and thusthree classesofhunter groups,eachwithparticularorganizationsthatespouse different methods tohunting.A character may also beindependent,operating outside the bailiwick of any particular organization.
-
-Joiningaparticularorganizationcarrieswithitcertainbenefits,butalsosome drawbacks.MembersoftengarnerspecializedAbilitiesandtraining,andtheyhave some amountofspecialbacking.Ofcourse,theseorganizationsdemandsomereturn from theirmembers,so affiliatedhuntersmustfulfill certain obligations.Indepen dentbyontrastaveoarticularoblgationsbutalootavehenefit a groupof like-mindedpeoplegiving advice and support.
-
-## THE INQUISITION
-
-Formed inthe harrowingdaysof theDarkAges,the Inquisitioncarriesoutaholy mandate,seekingoutanddestroyingtheperceivedmenaceof supernaturalcreatures. Even laymembers of the organization believe that they carry on thefight of"right" and"wrong,"and that they take on an endless task to promote the greater good of humanity.Unlikereligiouslymotivated independenthunters,theInquisitorswork underthe aegisofan overarchingchurch organization,which protects and promotes their activities.
-
-Advantage:Inquisitors live the tenets of their faith,and as such,have the capability to develop their inner strength through practice.Whilemost characters mustrelyonStorytellerdiscretiontoimprovetheirTrueFaithratingsInquisitorsmay expendearned ExperienceTraitstoraisetheirTrueFaith.EachadditionalFaithTrait coststhreeExperienceTraits.
-
-Disadvantage:To maintainFaith(and the approval of superiors),members of theInquisitionmustrefrain from usingmethodsthatendanger theirHumanity or religious standing.Inquisitorsmust alwaysbecareful toavoidhurtinginnocentswhen battling demons.Membersof theInquisitionmustmaintain at leastfourHumanity Traits,and any deed thatrequires a Humanitycheck alsorequires some form of penance,even if theHumanity Traitis not lost.Additionally,the Inquisitor's superirsmaycallforannvestigationreclareaeedfornanceif thequsi commits an act proscribed by the doctrines of the Church.
-
-## Character Creation
+Mosthuntersbelongtoanorganizationofsomesort, workinginassociationwith like-minded individuals.Atthispoint, you decidewhetheryourcharacterbelongs to such anorganization.Optionally, you rhunter could beindependent, travelingthe lonelyroad of ahunterwithout all ies. Membershipin an or ganizationhascertainbenefits, mostlydue to the resources available tothe group.how ever, an affliated huntermust pay attention tothedemands and politicsof his or der, while an independentcanpretty muchdo as hepleases. Hunter Associationspromotegroups of individualswithresources, information and assistance.Whilea lone hunter is easy prey for a singlevampire or were wolf, a groupof hunters united by a common goal are a for cewithwhich tobereckoned.A hunter's Associationoftendeterminesherhunting style and beliefs about specific supernatural entities.Religioushunters, for instance, are morelikelyto stalkand destroywithoutremorse, while a scholarlyhunter could use Sorcery to entrapa creature and gather information about it. the re are threemainapproachestohunting the supermatural, and thusthree classesofhunter groups, eachwithparticularorganizationsthatespouse different methods tohunting.A character may also beindependent, operating outside the bailiwick of any particular or ganization. Joiningaparticularorganizationcarrieswithitcertainbenefits, but alsosome drawbacks.Membersoftengarnerspecialized Abilitiesandtraining, and they have some amountofspecialbacking.of course, the seorganizationsdemandsomereturn from the irmembers, so affiliatedhuntersmustfulfill certain obligations.Indepen dentbyontrastaveoarticularoblgationsbutalootavehenefit a groupof like-mindedpeoplegiving advice and support. ## THE INQUISITION for med inthe harrowingdaysof the Dark Ages, the Inquisitioncarriesoutaholy mandate, seekingoutanddestroyingtheperceivedmenaceof supernaturalcreatures. Even laymembers of the or ganization believe that they carry on the fight of"right" and"wrong,"and that they take on an endless task to promote the greater good of humanity.Unlikereligiouslymotivated independenthunters, the Inquisitorswork underthe aegisofan overarchingchurch or ganization, which protects and promotes the ir activities. Advantage:Inquisitors live the tenets of the ir faith, and as such, have the capability to develop the ir inner strength through practice.Whilemost characters mustrelyon Storytellerdiscretiontoimprovetheir True Faithratings Inquisitorsmay expendearned Experience Traitstoraisetheir True Faith.Eachadditional Faith Trait coststhree Experience Traits. Disadvantage:To maintain Faith(and the approval of superiors), members of the Inquisitionmustrefrain from usingmethodsthatendanger the ir Humanity or religious standing.Inquisitorsmust alwaysbecareful toavoidhurtinginnocentswhen battling demons.Membersof the Inquisitionmustmaintain at leastfour Humanity Traits, and any deed that requires a Humanitycheck alsorequires some for m of penance, even if the Humanity Traitis not lost.Additionally, the Inquisitor's superirsmaycallforannvestigationreclareaeedfornanceif the qusi commits an act proscribed by the do ctrines of the Church. ## Character Creation
 
 ## Laws of the Hhunt
 
-CharacterSuggestions:Members of the Inquisition often haveSocial Attributes asprimary,andcommonAbilitiesincludeLeadership,Meditation（throughprayer）and Melee.Inquisitors frequentlyhavetheNuminaofTrueFaithand some studyTheurgy.
+Character Suggestions:Members of the Inquisition of ten have Social Attributes asprimary, and common Abilitiesinclude Leadership, Meditation（throughprayer）and Melee.Inquisitors frequentlyhavethe Numinaof True Faithand some study the urgy. ## the SOCIETYOFLEOPOLD for med inA.D.1231 by Leopold of Murnau, with the consent of Pope Gregory IX, the Society served as a secret arm of the Catholic Church's Inquisition.Though changingtimes for ced the Society to avoidscrutiny as itcontinued the Inquisition against supernatural creatures, the Society slowly grew in size and dedication, eventuallybecomingapotentorganizationwithhiddenbasesinmuchof Europe and the Americas.Evenrackedbyinternal dissent and philosophical debate, the Society managedtoremaindedicatedtoitsoriginalcause-the destructionofallsupernatural creatures—even into the modern day.By1998, the ascension to Inquisitor-General of Ingrid Bauer(nicknamed"the or iginal Iron Maiden"for her incredible ruthlessness)has for ged the Society'smodern Inquisitors into terrifyingfanaticalwarriors, trainedwithswords and will ingtousetorturein the irquest. Hunterswithinthe Societyof Leopoldexist toroot out and destroyall supernaturalcreatures, based onthebelief that suchcreatures are will ingorunwittingminions of the Devil.The Society is or ganized into small groups called"cenacles, which answertothelocal Provincial, and ultimatelytothe Inquisitor-General in Rome.A cenacleconsistsofasmallgroupof Inquisitors, generallyoperatingoutofacentral location (the Cenaculum).the se cenacles share society resources and training, operating locally towatchfor supernatural influence and stopit.When the Society deemsit appropriate, it is suesanauto-da-f(actof faith), nwhichthecenaclegather to undertake a holymission of purification.Ultimately, all cenacles answer to the Inquisitor-General, the supremedirectorofthe Society. the re are severalsects with in the Society of Leopold.Each subdivision espouses aparticularapproachtocombatingthesupernaturalmenace, and playsaspecificrole in the Society's mission.Beyond the se subdivisions, various philosophical sects espouse the views of different hunterswithregardstotheultimate aimsof the Society. Manyhoughnotallnquisitorsclaimmembershipnaparticularsect.Membersh inasubdivisionisbynomeansmandatory, and indeed, the Societyisformedprimarily of Inquisitorswhoseprimary dutyisthehuntratherthan any otherinternal Society function.The smaller sects, bycontrast, rarelyclaim any overtmembership, asthy are not"of ficially recognized"by the Inquisition. Abilitiesand Background:Membersofthe Societyof Leopoldallgainone Ability Trait of the ology toreflecttheirreligious upbringing, aswell as one Church Influence Trait because of the ir contacts with in the Church.the se Traitscome at no additional costtothe Inquisitor, and they are grantedduringcharactercreation;later recruits to the Society can purchasethese Traitsnormally, but do not get the mfree. ## the CONDOTIERRI this militaristicgroup is more concernedwithprotecting the Societythanwith directly pursuingitsgoals.The Condotierriarenot Inquisitorsperse, but serve as Cenaculumguards and bodyguards.the groupis directedbya Condotierre-General, who answers tothe Inquisitor-General directly.When assigned to a specific cenacle, the senior-ranking Condotierre usually concedes to the senior Inquisitor, unless the Condotierre has reason tobelieve that the safety of the Society is atstake. ## Character Creation
 
-## THESOCIETYOFLEOPOLD
+Condotierrioftenlearn Abilities that helptheminthedefense of a Cenaculum, suchas Firearms Inwestigation and Melee. ## the of FICEOFTHECENSOR
 
-Formed inA.D.1231 byLeopold ofMurnau,with the consent ofPopeGregory IX,the Society served as a secret arm of the Catholic Church's Inquisition.Though changingtimes forced theSociety to avoidscrutiny as itcontinued theInquisition against supernatural creatures,the Society slowly grew in size and dedication, eventuallybecomingapotentorganizationwithhiddenbasesinmuchofEurope and theAmericas.Evenrackedbyinternal dissent andphilosophical debate,theSociety managedtoremaindedicatedtoitsoriginalcause-thedestructionofallsupernatural creatures—even into themodern day.By1998,the ascension toInquisitor-General of Ingrid Bauer(nicknamed"the Original Iron Maiden"for her incredible ruthlessness)has forged the Society'smodern Inquisitors into terrifyingfanaticalwarriors, trainedwithswords andwillingtousetorturein theirquest.
+The of fice of the Censor serves as an internal watchdog for the Inquisition. Censorsinvestigate, observeanddocumenttheoperationsof the Societyitself.they primarilyseektokeepthe Societypureandstampoutanypotential threats, whether spiritual or intellectual.the semonitorsremainactive to ensure that no Inquisitor becomes taintedby the infernal creatureswithwhom shedeals.Ifa Censor visits a cenacle, shemustbemadeprivytoallrecords, and shemayrequestaccesstoanyof the members for questioning, interviews or opinions.Thus, the Censorsperform the important taskofpolicing the Society's ownmembers, rooting out corruption and destroying outsideinfluenceson the Society. Censorialmonitorsoftenlearn the Occult Ability, soastorecognizepossible corruption, and todeveloptheirknowledge of the ologyaswell. It is with the Censorsthatallpractitionersof the urgy, the Inquisition'sown heavenly brandofmagic, mustregister.The studyofmagicisnotaeryreputablepastimenhe Society, where all believemagictobemoreorlessof the Devilanditspractitionerscome undercareful scrutiny.Failuretocooperatewith a Censorialinvestigationof the urgyis not automaticallygroundsforatribunalbuttheweightof suspicionquicklydrivessuch independents out of the Society—assuming that they aren't hunted first for heresy. ## GLADIUSDEI the Gladius Deiorwordof Godncludesnitsfoldsthemosthighlyrespected and the shortest-livedof the Society'smembers.the se Inquisitors are hand-picked by the Inquisitor-General toperform the mostsacredand dangerousmissions.Members of Gladius Dei function as shocktroops for the Society.When a missionis too dangerous or critical tobeentrusted toregular Inquisitorsthe Gladius Deiis assigned. Naturally, the natureofmost suchmissionsleadstoanappallingattritionrate, but when the Society uncovers a powerful threat that mustbedealtwithlocation of a vampireelder, for instance, or the re scueofanimportant Societymemberheldbya strongcabalof supernaturalcreatures-the membersofthe Gladius Deichargeintothe fray.No auto-da-fe has everfailedwhen the Gladius Dei was employed totake it on. Gladius Dei members usually have a great deal of Ability in Firearms, Melee, Security and Inwestigation;most alsohave some Abilitiesfrom the ir days prior to induction with in the ranks of the (suicidally) blessed. Usually, Gladius Deimemberscomefromoldercenacles, and the yassembleas a grouponlywhencalledon.they are rarewithin the Society, duebothtoattrition and to the rigorous training necessary.Not every cenacle has one on hand. ## THE or DEROF SAINTJOAN with rootsgoingbackalmostasfarasthe Inquisitionitselfthisfemalecollective of vampirehuntersispassionate, viciousinbattle and entirelyinspiredby God.The or derisnearlyautonomousrecognizingtheauthorityof the ocietyofeopoldbu maintainingits ownhierarchy.Membersofthis or der of tenholdmembershipin a Societycenacle, but they neverrisetohighrank, astheirloyaltiesultimatelyliewith the ir or der'sown Abbess.Liketheir atron, the visionary Jeanne Roullet, they are loyal warriors of God above all else. ®
 
-HunterswithintheSocietyof Leopoldexist toroot out anddestroyall supernaturalcreatures,based onthebelief thatsuchcreatures arewillingorunwittingminions of the Devil.The Society is organized into small groups called"cenacles,which answertothelocal Provincial,andultimatelytotheInquisitor-General inRome.A cenacleconsistsofasmallgroupof Inquisitors,generallyoperatingoutofacentral location (the Cenaculum).These cenacles share society resources and training, operating locally towatchfor supernatural influence and stopit.When theSociety deemsit appropriate,it issuesanauto-da-f(actof faith),nwhichthecenaclegather to undertake a holymission ofpurification.Ultimately,all cenacles answer to the Inquisitor-General,thesupremedirectoroftheSociety.
+## Laws of the Hunt the or derof Saint Joandoesnotrecruit;rather, itwaitsforsomesigntoindicata potential newmember.you ng women who experience divine visions, or who.takeupthe crusadeontheirown, are of tenapproachedformembership;somefewevendiscoverthe existence of the or derontheirown and asktojoin.Alargenumberofmembersinthe or derhavestrong True Faithandthe or derconsidersactsoffaithsignsofpotentialsistrs. St.Joansdevoteesusuallyhavesomelevel of Melee Ability, asthey of tentakethe fight directlytovampires and the ir ilk.the Ability of Performanceisalsoencouraged;the or derpersuadesitsmemberstoundertakedancegymnastics, and otheractivitieshat servebothasphysicalconditioningandasartisticexpressionnordertotmpertheirzeal. ## OTHERSECTS
 
-There are severalsects within theSociety of Leopold.Each subdivision espouses aparticularapproachtocombatingthesupernaturalmenace,andplaysaspecificrole in the Society's mission.Beyond these subdivisions,various philosophical sects espouse theviews of different hunterswithregardstotheultimate aimsof theSociety. Manyhoughnotallnquisitorsclaimmembershipnaparticularsect.Membersh inasubdivisionisbynomeansmandatory,andindeed,theSocietyisformedprimarily of Inquisitorswhoseprimary dutyisthehuntratherthan any otherinternalSociety function.The smaller sects,bycontrast,rarelyclaim any overtmembership,asthy are not"officially recognized"by the Inquisition.
+Severalsmallersectsexistwithinthe Societyof Leopold, and they are separated morebytheirideological differencesthan anyparticulartaskwithin it.the sesects are not of ficially recognizedwithin the Society, but they espouse different means of undertaking the Society'smission.Many Inquisitors, evenwhile not claimingmembership in any given sect, remain sympathetic to the views of one sect or another. ## Brethrenof Albertus
 
-AbilitiesandBackground:MembersoftheSocietyof Leopoldallgainone AbilityTrait ofTheology toreflecttheirreligious upbringing,aswell as one Church InfluenceTrait because of their contacts within the Church.TheseTraitscome at no additional costtotheInquisitor,and they aregrantedduringcharactercreation;later recruits to theSociety canpurchasetheseTraitsnormally,but donotget themfree.
+Following in the footsteps of the ir icon, Albertus Magnus, the Brethren of Albertusholdthebeliefthattheymust preparethemselvesproperlyinordertocombat the evil magic practiced by the minions of the Devil.The Albertines engage in the study and practiceof the urgy(magicstemmingfrom the Divine). all Albertines are requiredtoregisterwiththe of ficeof the Censoras amatter of course.Mostotherlnquisitorsviewthe Albertineswithasuspiciouseye, believing that the urgyissimply an invitingdeception designed tolure the Albertines into the practiceof darkermagics.Certainly, individual Albertineshavebecomethetargets of other Inquisitorsafteradoptingsympatheticviewstowardothersupernaturalsbut the Brethren'sunparalleledskillsincontainingspirits and healingtheinjuredstill supportstheircontinued survival in the Society. Albertinesoftenstudy Occult and the ology Abilitiesinordertodeveloptheir the urgy.Afew Albertines have some Loreknowledge as are sult of the ir constant scrutinyof the supernaturalworld. ## Children of Lazarus
 
-## THECONDOTIERRI
+This group believes that the greatest possible sin is toviolate the sanctity of Christsmiracles the ymaintainthatonly Jesuswasableorisebeyonddeathandall creatureswhoclaimtodoso-vampires, mostnotablyarepurveyorsofthegreatest sin.they strive to bring Final Death to such heretics, defending the teachings of Christ asthe only trueresurrection. This, the largestsectwithin the Inquisition, is obsessivelyconcernedwithhe destructionofvampires.Althoughothersupernaturalcreatures are still considered threatsvampiresformthegreatestperiltothedivineword, accordingtothe Children. Childrenof Lazarususuallymprovetheir Meleeskillssoastocombatvampireswith swordsstakes, torchesandotherweaponsthataremoreeffectivethansimplebulletswhen fighting undead.Somefew Children have Vampire Loreas a resultof the ir constantfight. ## Fathersofthe Good Death
 
-Thismilitaristicgroup ismore concernedwithprotecting theSocietythanwith directly pursuingitsgoals.The CondotierriarenotInquisitorsperse,butserve as Cenaculumguards andbodyguards.Thegroupis directedbya Condotierre-General, who answers totheInquisitor-General directly.When assigned to a specific cenacle, the senior-ranking Condotierre usually concedes to thesenior Inquisitor,unless the Condotierre hasreason tobelieve thatthesafety of theSociety is atstake.
+This assembly of or dainedpriestsfollows the do ctrinethatvampiresareessentiallyevilspiritsfromthetimebeforethe Flood, who have takenoverthebodiesofthe innocenttocausethemoraldecayof society.the Fathersbelievethatthesecreatures
 
-## Character Creation
+## Character Creation breedsinby actively destroyingthereligiousethics, individual codesofhonor and spiritual loveof the irprey.the Fatherscombinethespreadof faithwithexorcismand the hunting of supernatural entities in or der to defend the innocent. Fathersof the Good Deathoftenstudy Occult Abilityandespecially Spirit Lore, todiscovermoreinformationabout the irspiritual quarry.Historyis anothercommon Ability, centering mostly around ancientbiblical studies. this sectfocusesprimarilyontrackinganddestroyingpre-Floodspirits.of course, the difficultyindoingsokeepstheirmembershipsmallandtheirmissionsscarce.Additionally, the limitedsuccessof the irmethodsleadsmanytoquestiontheircapabilities.Stillhe Fathers have no lack of zeal, nomatter how inaccurate the irbeliefsmay be. ## The Florentines the Florentinesworkin amannerfardifferent from that of the restof the ir or ganization.the ybelieveinsaving the soulsof the damned, not destroying the m. the yworkto aidsupernaturalcreatures inordertorescuethemfrom the irmighty, wickedmaster and showthemthetrueathto God, enlightenment and eventually, eternal peace.The non-traditionalbeliefs of this sect, alsoknown as the Florentine Heresy, have led topersecutionwithin the Inquisitioninthepast, so mostmodern Florentines hide the ir true ethical beliefs asbest they can.Few Florentines know for certainhowmanyotherssharetheirviewsbecausethosewhodoarerarelyopenabout it.Several Inquisitorsleantowardthissectandhaveinrecentyearsbeguntoquestin the methods of the ir predecessors. Florentinesmustbecrafty inorder to survivewithin the Society, and as such, many develop Subterfuge, bothtoconvinceothers(includingfellow Inquisitors and supernatural creatures)of the rightnessoftheir cause and to successfully hide the mselves from discovery.The Florentines also have significant Occult knowledge, the better tocounter the Devil's argumentswith the ir own. ## or der of Saint Peter
 
-CondotierrioftenlearnAbilities thathelptheminthedefense ofaCenaculum, suchasFirearmsInwestigation and Melee.
+Everfaithful totheirideal, Saint Peter, who defeated Simon Maguscenturiesago in Rome, the se Inquisitorsworktorootoutmages, witchesandallotherswhoutilize demonicgifts.the or dermakesnodistinctionbetweentruemagick, hedgemagicand Infernalism, but believesthemalltoresultfromtrafficwiththe Devil.Naturally, his antagonism to magical power places the or der at odds with the Albertines. ## Sisterhoodof Saint Claire
 
-## THEOFFICEOFTHECENSOR
+Members of the or der use Investigation to hunt do wnwitches and mages, recognizing the signs of magic use through the ir Occult Ability.how ever, most members of the or derrefuse to study the Occult Abilitybeyonda cursorylevel;they seekenoughinformation tohunt and destroymageswithoutcorrupting the ir own soulswith heretical knowledge. Clairewas a13th centurynunwhobelievedthatonemust liveinabsolute povertyin or der to enjoy the riches of the Lord.Her sectwithin the Inquisition is composed of thosewhotakevows of povertyinorderto enjoy the gifts of healingand spirituality.they refuse all personal possessions and material comforts, with the exceptionof that which is given the mbythe Society toprepareformissions.the yare excellent at accelerating the healing of wounds(whether mortally or magically inflicted)by the powerofprayer, devotionand layingonof hands. Members of this sect commonlypossess True Faith, and many study the divine healingartsof the urgy.Obviously, the Medicime Abilityiscommonamongthe Sisterhood. ## Sons of Tertullian this extremelyorthodoxsectsubscribestothetheorythatallwhodenounce God mustbepossessed.the ypursuewraithswith the sameardorthatthe Children of Lazaruspursuevampires.Tothe Sons, faithisanatural stateandonly evil spiri the ghosts across the Shroud—can cause humans to exhibit disbelief.The Sons furtherespouse the viewthat the se evil spiritsmasqueradeas the dead in or derto lull victimsintocomplacency, and that the sespiritsareresponsibleformanyof the powers of othersupernaturalentities.Thus, the Sonsfanaticallypursue and destroywraiths as the supposedarchitectsofmost, ifnotall, supernatural evils. Sonsof Tertullianuse the Inwestigation Abilitytotrack do wnghostlyoccurrences, and may evendevelopamodicumof Wraith Loreasanadjuncttotheirwraithly hunting. ## Sect of Saint James
 
-The Office of the Censor serves as an internal watchdog for the Inquisition. Censorsinvestigate,observeanddocumenttheoperationsof theSocietyitself.They primarilyseektokeeptheSocietypureandstampoutanypotential threats,whether spiritual or intellectual.Thesemonitorsremainactive to ensure thatno Inquisitor becomes taintedby the infernal creatureswithwhom shedeals.Ifa Censor visits a cenacle,shemustbemadeprivytoallrecords,andshemayrequestaccesstoanyof the members for questioning,interviews oropinions.Thus,theCensorsperform the important taskofpolicing theSociety's ownmembers,rooting out corruption and destroying outsideinfluenceson theSociety.
+This sub-cult of the Sons of Tertullian combats wraiths on the ir own ground —that of the Underworld.Eachmember of this cult eventually commits are ligious suicidewith aweaponof hisownfashioning and construction, in or dertotransport himself over to the Shadowlands.Eachsuicide the nproceeds to destroy asmany wraiths ashecanbeforeheis destroyedhimself. Naturally, the extreme views of this subsect(combined with the constant attritionofritual suicides)makethesectquite small and well hidden. Membersof the Sectof Saint Jamesgarner Abilitiessimilarto thoseof the parent Sonsof Tertullianbutofcoursetheyalsodeveloptheir Melee Abilitysothattheycan destroymorewraithsoncetheycommitsuicide. ## NON-CATHOLICINQUISITORS
 
-Censorialmonitorsoftenlearn the OccultAbility,soastorecognizepossible corruption,and todeveloptheirknowledge ofTheologyaswell.
+Thoughreligious differences keep the se groups separated and sometimes even opposed, the ydosharethegoaloferadicatingsupernaturalthreatsforthe safetyof the irmembers'spiritualwell-being.Somegroupsoutsideof the Society of Leopold have been known to all y againstcommon targets.do ctrinal disputes prevent toomuchcooperation, but given the shortage of trained hunters, many will pool the irresources informally totrackdifficult adversaries, worrying about differences of faith later. ## the SOCIETYOFSAINTGEORGE
 
-It iswiththeCensorsthatallpractitionersofTheurgy,theInquisition'sown heavenly brandofmagic,mustregister.The studyofmagicisnotaeryreputablepastimenhe Society,whereallbelievemagictobemoreorlessof theDevilanditspractitionerscome undercareful scrutiny.Failuretocooperatewith aCensorialinvestigationofTheurgyis notautomaticallygroundsforatribunalbuttheweightof suspicionquicklydrivessuch independents out of theSociety—assuming that they aren't hunted first forheresy.
+This Anglican group, operating primarily in England, retains much of the structure of its Catholicforebears, in spiteof do ctrinal differences.Followingthe modelof Saint George, the yare"dragon-slayers"hunterswho enterbattledirectly against agentsofthesupernatural.Although the yrevile the Society of Leopold as "misguided, the ykeeptheirownorganization, which structurallymirrorsthe Society of Leopold.Membersofthe Societyof Saint Georgefollowanidealizedcodeof English knighthood;all recruitsundergo an or deal, and swear anoath toserve God and the Society in the protection of mankind. Members of the Societyof Saint George are warriorsfirst and for emost;the yall developtheir Meleeand do dge Abilities, preferringtraditional hand-to-handcombat with the creatures of darkness. ## Laws of the Hunt
 
-## GLADIUSDEI
+## IKHWANAL-SAFA the Brethrenof Purity, Muslim group, is aserious rivaltothe Societyof Leopold in Muslim countries.the ir Red Scimitar"emblem is rapidlybecoming well-known to supernatural creatures in the Middle East.Combiningpragmatictrainingwith fanaticalreligious devotion, the Ikhwan al-Safa presents a for midable threat.the ir strict and conservativeinterpretationsof the Koran leadthemto hunt all manner of supernaturalentitiesbutalsogivethegroupadecidedlyinsularbent:Membersareas likely totarget otherreligious or ganizations asthey are to huntparanormal creatures, seeingno distinction between the se"many and varied faces of Shaitan.Still, the Brethren call on the use of the ir own particular the urgy, magicallybinding jinn to service, and considermanyof the magicalartsofalchemy and astrology tobe"natural sciences"and well with in the ir acceptable purview. Ikhwan al-Safa trains itsmembers in Melee, with the ubiquitous scimitar that servesastheirsymbol.Membersalsocommonlylearn Security, sothattheycandefeat modern technological security measureswhen stalkingtheirprey. ## AKRITAI
 
-TheGladiusDeiorwordofGodncludesnitsfoldsthemosthighlyrespected and theshortest-livedof theSociety'smembers.TheseInquisitors are hand-picked by the Inquisitor-General toperform themostsacredand dangerousmissions.Members of GladiusDei function as shocktroops for theSociety.When a missionis too dangerous orcritical tobeentrusted toregularInquisitorstheGladiusDeiis assigned. Naturally,thenatureofmost suchmissionsleadstoanappallingattritionrate,but when theSociety uncovers a powerful threat thatmustbedealtwithlocation of a vampireelder,forinstance,ortherescueofanimportantSocietymemberheldbya strongcabalof supernaturalcreatures-themembersoftheGladiusDeichargeintothe fray.No auto-da-fe has everfailedwhen the GladiusDei was employed totake it on.
-
-GladiusDei members usually have a great deal ofAbility inFirearms,Melee, Security andInwestigation;most alsohave some Abilitiesfrom their days prior to induction within the ranks of the (suicidally) blessed.
-
-Usually,GladiusDeimemberscomefromoldercenacles,and theyassembleas a grouponlywhencalledon.They arerarewithin theSociety,duebothtoattrition and to the rigorous training necessary.Not every cenacle has one on hand.
-
-## THE ORDEROF SAINTJOAN
-
-WithrootsgoingbackalmostasfarastheInquisitionitselfthisfemalecollective ofvampirehuntersispassionate,viciousinbattle andentirelyinspiredbyGod.The Orderisnearlyautonomousrecognizingtheauthorityof theocietyofeopoldbu maintainingits ownhierarchy.Membersofthis Order oftenholdmembershipin a Societycenacle,buttheyneverrisetohighrank,astheirloyaltiesultimatelyliewith their Order'sownAbbess.Liketheir atron,thevisionary JeanneRoullet,they are loyal warriors of God above all else.
-
-<!-- image -->
-
-®
-
-## Laws of the Hunt
-
-TheOrderofSaintJoandoesnotrecruit;rather,itwaitsforsomesigntoindicata potential newmember.Young women who experience divine visions,or who.takeupthe crusadeontheirown,areoftenapproachedformembership;somefewevendiscoverthe existence of theOrderontheirown andasktojoin.Alargenumberofmembersinthe OrderhavestrongTrueFaithandtheOrderconsidersactsoffaithsignsofpotentialsistrs.
-
-St.Joansdevoteesusuallyhavesomelevel of MeleeAbility,asthey oftentakethe fight directlytovampires andtheirilk.TheAbility of Performanceisalsoencouraged;the Orderpersuadesitsmemberstoundertakedancegymnastics,andotheractivitieshat servebothasphysicalconditioningandasartisticexpressionnordertotmpertheirzeal.
-
-## OTHERSECTS
-
-SeveralsmallersectsexistwithintheSocietyofLeopold,andtheyareseparated morebytheirideological differencesthan anyparticulartaskwithin it.Thesesects are not officially recognizedwithin theSociety,but they espouse different means of undertaking theSociety'smission.Many Inquisitors,evenwhile not claimingmembership in any given sect,remain sympathetic to theviews of one sect or another.
-
-## BrethrenofAlbertus
-
-Following in the footsteps of their icon,Albertus Magnus,the Brethren of Albertusholdthebeliefthattheymust preparethemselvesproperlyinordertocombat the evil magic practiced by the minions of theDevil.The Albertines engage in the study andpracticeofTheurgy(magicstemmingfrom theDivine).
-
-AllAlbertines arerequiredtoregisterwiththeOfficeof theCensoras amatter ofcourse.MostotherlnquisitorsviewtheAlbertineswithasuspiciouseye,believing thatTheurgyissimply an invitingdeception designed tolure theAlbertines into the practiceof darkermagics.Certainly,individualAlbertineshavebecomethetargets ofotherInquisitorsafteradoptingsympatheticviewstowardothersupernaturalsbut theBrethren'sunparalleledskillsincontainingspirits and healingtheinjuredstill supportstheircontinued survival in theSociety.
-
-AlbertinesoftenstudyOccult andTheologyAbilitiesinordertodeveloptheir Theurgy.AfewAlbertines have someLoreknowledge as aresult of their constant scrutinyof thesupernaturalworld.
-
-## Children of Lazarus
-
-This group believes that the greatest possible sin is toviolate the sanctity of ChristsmiraclesTheymaintainthatonlyJesuswasableorisebeyonddeathandall creatureswhoclaimtodoso-vampires,mostnotablyarepurveyorsofthegreatest sin.They strive to bringFinal Death to such heretics,defending the teachings of Christ asthe only trueresurrection.
-
-This,thelargestsectwithin theInquisition,isobsessivelyconcernedwithhe destructionofvampires.Althoughothersupernaturalcreatures arestill considered threatsvampiresformthegreatestperiltothedivineword,accordingtotheChildren.
-
-ChildrenofLazarususuallymprovetheirMeleeskillssoastocombatvampireswith swordsstakes,torchesandotherweaponsthataremoreeffectivethansimplebulletswhen fighting undead.SomefewChildren haveVampireLoreas a resultof their constantfight.
-
-## FathersoftheGoodDeath
-
-This assembly of ordainedpriestsfollows thedoctrinethatvampiresareessentiallyevilspiritsfromthetimebeforetheFlood,whohavetakenoverthebodiesofthe innocenttocausethemoraldecayof society.TheFathersbelievethatthesecreatures
-
-√
-
-## Character Creation
-
-breedsinby actively destroyingthereligiousethics,individual codesofhonor and spiritual loveof theirprey.TheFatherscombinethespreadof faithwithexorcismand the hunting of supernatural entities in order to defend the innocent.
-
-Fathersof theGoodDeathoftenstudyOccultAbilityandespeciallySpiritLore, todiscovermoreinformationabout theirspiritual quarry.Historyis anothercommon Ability,centering mostly around ancientbiblical studies.
-
-Thissectfocusesprimarilyontrackinganddestroyingpre-Floodspirits.Ofcourse,the difficultyindoingsokeepstheirmembershipsmallandtheirmissionsscarce.Additionally, thelimitedsuccessof theirmethodsleadsmanytoquestiontheircapabilities.Stillhe Fathers haveno lack of zeal,nomatter howinaccurate theirbeliefsmay be.
-
-## The Florentines
-
-TheFlorentinesworkin amannerfardifferent from that of therestof their organization.Theybelieveinsaving the soulsof the damned,notdestroying them. Theyworkto aidsupernaturalcreatures inordertorescuethemfrom theirmighty, wickedmaster andshowthemthetrueathtoGod,enlightenment and eventually, eternal peace.The non-traditionalbeliefs of this sect,alsoknown as theFlorentine Heresy,haveled topersecutionwithin the Inquisitioninthepast,so mostmodern Florentines hide their true ethical beliefs asbest they can.FewFlorentines know for certainhowmanyotherssharetheirviewsbecausethosewhodoarerarelyopenabout it.SeveralInquisitorsleantowardthissectandhaveinrecentyearsbeguntoquestin themethods of their predecessors.
-
-Florentinesmustbecrafty inorder to survivewithin theSociety,and as such, many developSubterfuge,bothtoconvinceothers(includingfellowInquisitors and supernatural creatures)oftherightnessoftheir cause and to successfully hide themselves from discovery.The Florentines also have significant Occult knowledge, the better tocounter theDevil's argumentswith their own.
-
-## Order ofSaintPeter
-
-Everfaithful totheirideal,SaintPeter,whodefeatedSimonMaguscenturiesago inRome,theseInquisitorsworktorootoutmages,witchesandallotherswhoutilize demonicgifts.TheOrdermakesnodistinctionbetweentruemagick,hedgemagicand Infernalism,butbelievesthemalltoresultfromtrafficwiththeDevil.Naturally,his antagonism to magical power places the Order at odds with the Albertines.
-
-## SisterhoodofSaint Claire
-
-Members of the Order useInvestigation to hunt downwitches andmages, recognizing the signs of magic use through their Occult Ability.However,most members of the Orderrefuse to study the OccultAbilitybeyonda cursorylevel;they seekenoughinformation tohunt and destroymageswithoutcorrupting their own soulswith heretical knowledge.
-
-Clairewas a13th centurynunwhobelievedthatonemust liveinabsolute povertyin order to enjoy the riches of theLord.Her sectwithin the Inquisition is composed of thosewhotakevows of povertyinorderto enjoy the gifts ofhealingand spirituality.They refuse all personal possessions and material comforts,with the exceptionof thatwhichisgiven thembytheSociety toprepareformissions.Theyare excellent at accelerating thehealing ofwounds(whether mortally or magically inflicted)by thepowerofprayer,devotionand layingonof hands.
-
-Members of this sect commonlypossessTrueFaith,and many study the divine healingartsofTheurgy.Obviously,theMedicimeAbilityiscommonamongtheSisterhood.
-
-## Sons of Tertullian
-
-ThisextremelyorthodoxsectsubscribestothetheorythatallwhodenounceGod mustbepossessed.Theypursuewraithswith thesameardorthattheChildren of Lazaruspursuevampires.TotheSons,faithisanatural stateandonly evil spiri the ghosts across the Shroud—can cause humans to exhibit disbelief.The Sons furtherespouse theviewthat these evil spiritsmasqueradeas thedead in orderto lull victimsintocomplacency,andthatthesespiritsareresponsibleformanyof thepowers ofothersupernaturalentities.Thus,theSonsfanaticallypursue anddestroywraiths as thesupposedarchitectsofmost,ifnotall,supernatural evils.
-
-SonsofTertullianuse theInwestigationAbilitytotrack downghostlyoccurrences, andmay evendevelopamodicumofWraithLoreasanadjuncttotheirwraithly hunting.
-
-## Sect ofSaintJames
-
-This sub-cult of the Sons of Tertullian combats wraiths on their own ground —thatof theUnderworld.Eachmember of this cult eventually commits areligious suicidewith aweaponof hisownfashioning andconstruction,in ordertotransport himself over to theShadowlands.Eachsuicide thenproceeds to destroy asmany wraiths ashecanbeforeheis destroyedhimself.
-
-Naturally,the extreme views ofthis subsect(combined with the constant attritionofritual suicides)makethesectquite small andwell hidden.
-
-Membersof theSectofSaint JamesgarnerAbilitiessimilarto thoseof theparent SonsofTertullianbutofcoursetheyalsodeveloptheirMeleeAbilitysothattheycan destroymorewraithsoncetheycommitsuicide.
-
-## NON-CATHOLICINQUISITORS
-
-Thoughreligious differences keep these groups separated and sometimes even opposed,theydosharethegoaloferadicatingsupernaturalthreatsforthe safetyof theirmembers'spiritualwell-being.Somegroupsoutsideof theSociety of Leopold havebeen known to ally againstcommon targets.Doctrinal disputes prevent toomuchcooperation,but given the shortage of trained hunters,many will pool theirresources informally totrackdifficult adversaries,worrying about differences of faith later.
-
-## THESOCIETYOFSAINTGEORGE
-
-This Anglican group,operating primarily in England,retains much of the structure ofits Catholicforebears,in spiteof doctrinal differences.Followingthe modelofSaint George,theyare"dragon-slayers"hunterswho enterbattledirectly against agentsofthesupernatural.Although theyrevile theSociety of Leopold as "misguided,theykeeptheirownorganization,whichstructurallymirrorstheSociety ofLeopold.MembersoftheSocietyofSaintGeorgefollowanidealizedcodeofEnglish knighthood;all recruitsundergo anOrdeal,andswear anoath toserve God and the Society in the protection of mankind.
-
-Members of theSocietyofSaint George arewarriorsfirst and foremost;theyall developtheirMeleeandDodgeAbilities,preferringtraditional hand-to-handcombat with the creatures ofdarkness.
-
-## Laws of the Hunt
-
-## IKHWANAL-SAFA
-
-TheBrethrenofPurity,Muslim group,isaserious rivaltotheSocietyofLeopold inMuslim countries.TheirRed Scimitar"emblem is rapidlybecoming well-known to supernatural creatures in theMiddleEast.Combiningpragmatictrainingwith fanaticalreligious devotion,theIkhwan al-Safa presents a formidable threat.Their strict andconservativeinterpretationsof theKoran leadthemto hunt all manner of supernaturalentitiesbutalsogivethegroupadecidedlyinsularbent:Membersareas likely totarget otherreligious organizations asthey areto huntparanormal creatures, seeingno distinction between these"many andvaried faces of Shaitan.Still,the Brethren call on the use of their own particularTheurgy,magicallybinding jinn to service,andconsidermanyof themagicalartsofalchemy and astrology tobe"natural sciences"andwell within their acceptable purview.
-
-Ikhwan al-Safa trains itsmembers inMelee,with the ubiquitous scimitar that servesastheirsymbol.MembersalsocommonlylearnSecurity,sothattheycandefeat modern technological security measureswhen stalkingtheirprey.
-
-## AKRITAI
-
-This collection of EasternOrthodoxwitch-hunters isbothanallyand competi toroftheSocietyof Leopold.TheAkritaihavenoformal structure,unliketheSociety of Leopold.Instead,theyworkin small groupswithonly loose ties toone another. Manyof thewitchhuntersneasternEuropefromreecetoRussia,arecountedas Akritaiand there ismuch frustration in theSociety over the failure torecruit the Akritai as a whole.Themost prominentAkritai is currentlybelieved tobethe Exarch of theGreekdivision,anOrthodoxmonkwho livescloistered onMountAthos.
-
-Because theAkritaiworkinsmall groupsoutsideof anyhierarchy,they often studymorescholarlypursuitslikeOccultandHistory,answeringonlytotheir own consciences(and knowledge)when engaged in thehunt.
-
-## THEJUDGES
-
-These Jewishhunters havesworntoprotect theircommunitiesfromthechildren ofLilithandotheremonshJudgesusthetrappingofJudaicraditionincluing theTorah,theTalmud,andanancillarycollectionofwritingsandnotesfrompreviou Judges,to determinetheir agenda.BothReform and Orthodoxfollowers of Judaism are found in this group;Kabbalists,Rabbis and even insightful and well-trained laypersonsfulfill the Judges'goals.
-
-The Judges have their own interpretations ofScripture and theologicalwisdom, andnot all of it mesheswith that of theSociety of Leopold.As a result,theJudges engageinslightlydifferentpracticesleavingmagesunmolestedyetzealouslyhunting trueInfernalistsandvampires.Additionally,although small anddisorganized,the Judgesareaverycooprativeociety;thereslithisoverogmaandsothya remarkably effectiveinbringing themost appropriateforces tobear ina hunt.
-
-Judges typicallyhaveOccult andTheologyAbilities beyond theusual cursory knowledgepossessedbymostInquisitors.Somehavecombattraining,but themore scholarly among this society tend to leave the actual hunting tomore qualified membersof thecommunity,simply dispensing advice and information.
-
-## Character Creation
+This collection of Eastern or thodoxwitch-hunters is bothanallyand competi torofthe Societyof Leopold.the Akritaihavenoformal structure, unlikethe Society of Leopold.Instead, the yworkin small groupswithonly loose ties toone another. Manyof the witchhuntersneastern Europefromreeceto Russia, are countedas Akritaiand the re is much frustration in the Society over the failure torecruit the Akritai as a who le.the most prominent Akritai is currentlybelieved tobethe Exarch of the Greekdivision, an or thodoxmonkwho livescloistered on Mount Athos. Because the Akritaiworkinsmall groupsoutsideof anyhierarchy, they of ten studymorescholarlypursuitslike Occultand History, answeringonlytotheir own consciences(and knowledge)when engaged in the hunt. ## the JUDGES the se Jewishhunters have sworntoprotect the ircommunitiesfromthechildren of Lilithandotheremonsh Judgesusthetrappingof Judaicraditionincluing the Torah, the Talmud, and anancillarycollectionofwritingsandnotesfrompreviou Judges, to determinetheir agenda.Both Reform and or thodoxfollowers of Judaism are found in this group;Kabbalists, Rabbis and even insightful and well-trained laypersonsfulfill the Judges'goals. The Judges have the ir own interpretations of Scripture and the ologicalwisdom, and not all of it mesheswith that of the Society of Leopold.As a result, the Judges engageinslightlydifferentpracticesleavingmagesunmolestedyetzealouslyhunting true Infernalistsandvampires.Additionally, although small and disorganized, the Judgesareaverycooprativeociety;the reslithisoverogmaandsothya remarkably effectiveinbringing the most appropriateforces tobear ina hunt. Judges typicallyhave Occult and the ology Abilities beyond the usual cursory knowledgepossessedbymost Inquisitors.Somehavecombattraining, but the more scholarly among this society tend to leave the actual hunting tomore qualified membersof the community, simply dispensing advice and information. ## Character Creation
 
 Laws of the Hunt
 
 ## GOVERNMENT AGENCIES
 
-Over thecourse ofnormalinvestigations,law enforcementgroupsandgovernment agencies occasionally stumbleacrosssupernaturalcreaturesortheir influence. Trackingdownsuchcreaturesnotbecausetheyareevil,butbecausetheyarebreaking thelaw,huntersaffiliatedwithlawenforcementcanbemethodical,organizedand extremely difficult to escape.
+Over the course of normalinvestigations, law enforcementgroupsandgovernment agencies occasionally stumbleacrosssupernaturalcreaturesortheir influence. Trackingdownsuchcreaturesnotbecausetheyareevil, but becausetheyarebreaking the law, huntersaffiliatedwithlawenforcementcanbemethodical, or ganizedand extremely difficult to escape. It is importanttorememberthatmostgovernmentalagenciesdonotbelievein the supernatural, and huntersarefrequentlyquestioned-evensuspectedofinsanity —by the ir associates and superiors.Still, anFBl agent determined to avengehimself onavampiricenemy, or alocalpoliceofficertryingtogettothebottomofamysterious series of disappearances in a"haunted"house, makes a dauntingfoe.Unlike Inquisitors, governmentalhunters are likelytopursue the ir coursewithrigorouslyrational vigor, and they are rarelyhamperedbyoldfolktalesorlegendsthatconfusetheissue 一 the ylearn everythingthehardway, instead. Several agencies have distinct branchesdevoted tosupernatural troubles, and even a localpoliceforcecan have a detectiveortwowhoknowsfarmore than he should.In general, suchhuntersoperateinsecrecy, thoughitsnotunknownforagovernment hunter to take matters into his own handswhenchasinga particularly hatedquarry. Advantage:Membersofagovernmentalorganizationaregenerallywell-trained, equippedtodealwithmany situationsand have the generalacceptanceof the public. all governmentagentsareabletocallonassistancewithaminimumof fuss, and the ir government contactscan gatheragreatdeal of information easily.Government agents only spend one Experience Trait for each new Influence Trait purchased, instead of the usual three. Disadvantage:Paperwork is the bane of many investigator's lives, and no exceptions are madeforhunters.they are expected toanswerto the ir superiors, and toprovidefull explanationsfor the ir actions intheline of duty.Rulesandregulations mustbefollowed, or the huntermayfind hisbackingyankedand hisbadgeremoved. and if he knows toomuch, hemay be considered a security leak... Character Suggestions:Agents usuallyhave Physical Attributes as Primary, and common Abilitiesare Ivestigation, Firearms, Law, Melee and Brawl.Agentsrarely possess anyspecial Numinaeatmost, someagentsexhibit Psychic Phenomena, which are of ten dismissed as"hunches"or"luck."
 
-It isimportanttorememberthatmostgovernmentalagenciesdonotbelievein the supernatural,and huntersarefrequentlyquestioned-evensuspectedofinsanity —by their associates and superiors.Still,anFBl agent determined to avengehimself onavampiricenemy,oralocalpoliceofficertryingtogettothebottomofamysterious series of disappearances in a"haunted"house,makes a dauntingfoe.UnlikeInquisitors,governmentalhunters arelikelytopursue their coursewithrigorouslyrational vigor,and they arerarelyhamperedbyoldfolktalesorlegendsthatconfusetheissue 一 theylearn everythingthehardway,instead.
+## FEDERALBUREAUOFINVESTIGATION with intheFBl, the Special Affairs Department(or SAD)of ficiallyexists to investigate"bizarreoccult-stylecrimes."Unofficially, they are awareof the existence of vampireslycanthropeswitches, ghostsandfairiesthoughtheyon'tnecessarily knowmuchabout the mbeyondwhatiscontained infolk tales.ManySADreports simply go into"unsolved cases"files.The upper echelons of the FBl rarely accept a supernaturalexplanationfora crime. SAD'sfundingis low, and itsavailable agentsarefew.the governmentfeelslittle need tocontinuetosupport anagencythat produces limitedreliableleads and fewsolved cases.Consequently, manySADagentsareforcedtorelyontheirownabilities, and they developunorthodoxbuteffectivemethodsforprosecutingsupernatural crime. ## Character Creation
 
-Several agencies have distinct branchesdevoted tosupernatural troubles, andeven a localpoliceforcecan havea detectiveortwowhoknowsfarmore than he should.In general,suchhuntersoperateinsecrecy,thoughitsnotunknownforagovernment hunter to take matters into his own handswhenchasinga particularly hatedquarry.
+OutsideofSAD, normalFBIagentsdooccasionallyrunacross supernaturalcases. Most of the time, suchcases are chalkeduptobizarre but explainablephenomena.A fewmaketheirwaytoSAD, but somecases are solvedby the diligenteffortsofFBI agentswho discover that the occultworld is farmorereal than they ever imagined. Abilities and Background:FBl agents automatically gain the Ability Traits of Inwestigation and Firearms due to the irtraining. ## NATIONAL SECURITY AGENCY
 
-Advantage:Membersofagovernmentalorganizationaregenerallywell-trained, equippedtodealwithmany situationsand havethegeneralacceptanceof thepublic. Allgovernmentagentsareabletocallonassistancewithaminimumof fuss,andtheir government contactscan gatheragreatdeal ofinformation easily.Government agents only spend one Experience Trait for each new Influence Trait purchased, instead of the usual three.
+Ostensiblyagiant information-siftingagency, the NSA is responsibleforthe collection and analysis of intelligence.the NSAcollates and sifts information in anattempttopreservenationalsecurity.from timetotime, the NSAcomesacross patterns of information that point to the presence of unusual influence(possibly asaresult of supernatural activity）.Insuchcases, the NSA usuallymakesa simple not e and leaves the file alone, but caseswhich involvenational security have agents dispatched for investigation.Inthese cases, the information-gathering and pattern-matching training of the agents leads to quick discovery for unwitting supernatural creatures, and the NSA uses the same method to dealwith such phenomena as it do eswith any other threat tonational security——elimination. Abilities and Background:NSA agents automatically gain the Computer and Investigation Ability Traitsfrom the irtraining. Some supernatural creatures(especially vampires) actually attempt to control the NSA directly, but the agency's superior information-gathering techniques, combinedwiththedevelopmentof technology designed toneutralize the influenceofsupernaturalentities, has madesuchinfiltrationincreasingly difficult.At present, the NSA is a very real threat to other supernatural creatures, becauseit has the information and the where with al todiscover and destroy all manner of paranormals. ## CENTER FOR DISEASE CONTROL
 
-Disadvantage:Paperwork is the bane ofmany investigator's lives,andno exceptions aremadeforhunters.They areexpected toanswerto their superiors,and toprovidefull explanationsfor their actions intheline of duty.Rulesandregulations mustbefollowed,orthe huntermayfind hisbackingyankedand hisbadgeremoved. Andif he knows toomuch,hemay be considered a security leak...
+Whileitmaysoundunusual, this agencyhasturnedupsome startingfactsabout the spread of AIDSand otherblood-relatedviruses.Examinationof the sefactsledto the the or y amongasmallfactionofresearchersthatvampiresdoindeedexist, and are amostunusualvector bywhich the se diseases are spread.CDCresearchers have significantmedicalinfluenceand training, which all owsthemtoisolatesupernatural creatures through unusual means—by tracking injuries and diseases that could be associatedwithpatternsofparanormalactivity.with nationalinfluence and the welfareofbillionsofpeopleatstakethedoctorsoftheDCareintelligentmotivatd and very, verygoodatwhattheydo. Whethertheyhuntthevampirestostopthespreadofdisease, or toobtainblood samplesfromwhichtheymightfindacureof somesort,CDCresearchersareapotent threattothevampiric Masquerade.Someresearchersmay seektocapturesupernatu ral entities, so asto study the irmedical condition,"and perhaps even attempt acure. Othersseeparanormal beings as a threat tohumanity, and arrangematterstobring other government agencies tobear against those monsters. Abilities and Background:CDCresearchers automatically gain the Ability Traits of Inwestigation and Medicine as part of the ir training. 人
 
-CharacterSuggestions:Agents usuallyhave Physical Attributes as Primary,and common AbilitiesareIvestigation,Firearms,Law,Melee andBrawl.Agentsrarely possess anyspecialNuminaeatmost,someagentsexhibitPsychicPhenomena,which are often dismissed as"hunches"or"luck."
+## DRUGENFORCEMENTADMINISTRATION not necessarily awareof the existenceofsupernaturalcreatures, this agencyworksto preventandregulatethespreadofnarcotics, omethingthatmanysuchcreaturestakean activeinterestin.Obviously, the DEAmaystumbleacrosstheactivitiesof Setites Wm corruptedcartelsorothersupernaturalswiththeirfingersinthedrugpie.when suchclashes occur, the agency do esnt usually take any"of ficialstance—but agentsmay well have to dispatch the vampires(or worse)that use the drug tradefor income and influence. DEAagentsmustdealwith the dregsof humanity as amatterofcourse, and thus are moreinuredtowardsthehorrorandatrocityendemicinthesupernaturalworld.Alittle conflictwithsuperiorsoverthesupernaturalelementsofacasecouldcauseajadedDEAagent tocontinuethehuntcovertly.Ontheflipside, individualswithavestedinterestinthedrug trademaywelltakeactiontotrytoneutralizeorsubvertDEAagents, earningtheenmityof the morededicated amongthe agency. Abilitiesand Background:DEA agentsgain the Ability Traitsof Firecrms and Streetwise aspart of the ir training. ## LOCAL POLICE
 
-## FEDERALBUREAUOFINVESTIGATION
+Ifitcouldsomehowbeassembledtheinformationpossessedbylocalpoliceforcesabout the supernaturalwouldexceedthatofanyothergroup.Unfortunately, localagenciesdont shareinformationaboutunusualandparanormalcrimes;indeed, mostagencieshaveonly scantlocalinformationhoardedbyoneortwoquietofficerswhocategorizetheunsolvable casesand, asftnasotnowothingaboutthesupernatural.ouldthisnormatn broughttobear, the localpoliceagencieswouldhaveawealthof supernaturalinformation —but the constantstigmaofcrackpots, combinedwiththeinfluenceofothersupenatural creatureswhousethepolicedepartmentstodestroyevidenceof the irexistence, servesonly tofurtherfragmentanddistortwhatinformationis available. Supernaturalsstrivetocontrollocalpolicedepartmentsandinworkingtoestablish that control, they of tenleavecluesabout the irexistence.Indeed, it'snotuncommonto discoveracoponthepayrollofavampireorsomehowrelated toawerewolfsoftenasot, though, otheroffcersmaykeepaneyeoutforcopsonthetake"and workaround the m or atleastconcealcasefilesandinformation. Crimeslinkedinsomewaytothesupernaturalarenotthatuncommon, asvampires manipulateandfeedfrommortalswerewolvesslaughter Wyrm-taintedfoeschangeling attract the wrong sort of attention and wraithsseektopreserve the ir fetters and haunts.All of the se activitiescandrawtheattention of the localpoliceand leadtoaninvestigationby a sharpofficerwhorecognizesthesignsof supernatural involvement. Abilitiesand Background:Police of ficers gain the Ability Traits of Firearms and Investigation as part of the ir training. ## SCHOLARLYINSTITUTIONS
 
-WithintheFBl,theSpecial AffairsDepartment(orSAD)officiallyexists to investigate"bizarreoccult-stylecrimes."Unofficially,they are awareof theexistence ofvampireslycanthropeswitches,ghostsandfairiesthoughtheyon'tnecessarily knowmuchabout thembeyondwhatiscontained infolk tales.ManySADreports simply go into"unsolved cases"files.The upper echelons of theFBl rarely accept a supernaturalexplanationfora crime.
+Sometimes the danger from a hunter comes not to the creatures of the night the mselves, but tothesecrecytheyattempttomaintain.Hunterswhoseekknowledge have the potentialtodomoredamagetothecontinuedexistenceofvampiresand othercreaturesthanthemostwell-armedfanaticbenton the destructionofthe paranormal.Asscholarlygroupsgathertidbitsofdatalowlysifingfactfromfancy, the ygainthemostvaluableprize in the war against the supernatural:Truth.Though
 
-SAD'sfundingis low,anditsavailable agentsarefew.Thegovernmentfeelslittle need tocontinuetosupport anagencythat produces limitedreliableleads andfewsolved cases.Consequently,manySADagentsareforcedtorelyontheirownabilities,andthey developunorthodoxbuteffectivemethodsforprosecutingsupernatural crime.
+## Character Creation such societiesrarely act as actual"hunters,"they have the knowledge necessary to understandanddefeatcreaturesof the supernatural, should studygivewaytoconflict. Advantage:Members of scholarly groups are generallywell informed about the ir prey.Ifitsuitsthe Storyteller'schronicle, scholarlyhuntersmaybeginplaywithone of the following Ability Traits:Vampire Lore, were wolf Lore, Mage Lore, Wraith Lore, or Faerie Lorethoughtheknowledgeinquestionmust still bepurchased asnormal during charactercreation.Scholarsmay also acquire such Ability Traitsmore easily than others during a chronicle by consulting the or ganizations extensivelibrary. The pursuit of knowledge is not of tena solitary one, and like other hunter, scholarsof the occult alsogathertopool the irresources and share the irfindings.The groupings usually share common goals or powers.Regardless of the irown capabilities, though, academic societies are dangerous primarilybecause of the sheerwealth of knowledgethattheycanbringtobear, and the fact that the yaremuchmore accepting of the veracity of supernaturalknowledge-and will ingtotradeitwithotherscholars. Disadvantage:A hunterwho do esn't accomplish anythingofnoteisnot supportedby hisfellows.This axiom translatestomean publishorperish.with out tangibleresults adding tothenstitutionbodyowldgeandaegularhedulfpaperssminarsandbook scholarlyhuntersarediscardedinfavorofmorepromisingstudents Additionallyscholarly groupstendtoemploysecrecyastheironlyprotection, and they are unlikelytovolunterany information to outsiders, even if it jeopardizes the irchance at having all ies. Character Suggestions: Scholarly hunters usually have Mental Traits as the ir primary Attributesandcommon Abilitiesincludevestigation Lore, Occultandcience. the yfrequentlypossess Numinaeespecially Sorcery Manyscholarsjoinedinstitutionsas a means to learningor developing the ir own Numina.Others come to investigate the supernatural world afterhavingtheir eyes opened by aparanormal experience. ## the ARCANUM or iginally founded inthelate19th Century as asecretsociety of occultists, the Arcanumhasgrownintoacollectionof scholars, all interestedinvariousaspectsof the supernatural, with Chapter Houses on every continent. Subgroupsexistwithinthe Arcanumdifferent Collegesandranches, devoted to the study of particular phenomena, be itvampirespsychicpowers, ley lines, were wolves or alien abductions. Existing primarily to observe and learn, the Arcanum investigates all instances of unusual activity, and members firmly believe inthe existence of otherworldly creatures.Seekingto catalogueandclassify the wonders the yfind, with out drawing any attention tothemselves, scholarsof the Arcanumtreada deadlypath.Innearly everycase, supernaturalreaturevaluetheirsecrecyasmuchasfnotmorehan, the ir lives.To spy on the m can prove tobe a most dangerous mission. The typical Arcanistisadedicatedresearcherwholeadsafairlynormalacademic life, but alsoengagesinbizarre and supernaturalresearchon the side.with first-hand knowledgeof various Numinae and extensivefiles onjust about every typeof supernatural creatureinthe Worldof Darkness, the Arcanumcanbeadangerous opponentindeed —except that its members almost never take any involvement.Instead, Arcanists simplyrecordandcatalogue, sittingbackandwatchinglikeimpartialreporters.Indeed, the Arcanum seems toplace a greater value on information than on human life, as evidencedwhen the recentdestruction of a Chapter Housewas heraldedwithmore horrorovertheloss of irreplaceabledocuments than overthedeathsof severalmembers. √
 
-## Character Creation
+Abilities and Background:Arcanummembersgainone free Ability Trait of Occultduringcharactercreation, aswellasonefree Occultor University Influence Trait. ## THE BENANDANTI this very specificorganizationtargetswraithswhomt believes are hapless spiritsunabletomove onafterdeath.Beyond this understanding, the Benandantiall have oneimportant thing in common:they are born with the ir caulsintact and trainedbya sponsor Benandant, which givesthem the ability toseespiritsand ultimately toleave the ir bodies and affectwraithsin the spiritworld. the Benandanti would not bea threattowraiths exceptfor some truly unfortunateinterpretationsoftheirtiestothemortalworld.Bydiscovering and destroyingthosethingsthatholdwraithsback, the Benandantibelievethattheyallow the poor ghostsrelease, when instead they are condemning wraiths to Oblivion. Worsestill, some Benandantibelievethatghostsaremalevolentanddangerous spirits, and they gooutof the irwaytotrick and destroywraiths. With its roots ina Gypsy family, the Benandanti is now only alooselyconnected society.ABenandantewillwatch herfriends and familyfor infantsbornwiththeir caulsintact, and the n Unhoodsaid infants inaceremony that ensurestheir potential toseewraiths.Aftera stringent twenty-yearapprenticeship, the child is considered tobe a another Benandante.Few Benandantiknowof one another outsidethis apprenticeshiprelationship, sincetheyadoptedapolicyofsecrecytoprotectthemselves centuries ago, after being perceived as witches by the Inquisition.This fragmentation means that the Benandanti are really just individuals sharing a commonpower, insteadofatrulyunifiedorganization. Despitethedisparatenatureof the ir society, the Benandanti do have some common rituals and practices.Novizio(novices)are instructed by sapienza(mentors) in the dangers and ways of the Underworld.Using the ir cauls, the Benandanti can performmysticalfeatsthatbringthempoweroverthelandsof the dead.Additionally, the Benandanti are rightly feared amongwraithsfortheirfennel swords, precious artifactsofuniquemagicalpower that have spiritual aswell asmaterial components. the Benandanticarrytheseweaponswiththeminthe Underworld, where the fennel swords are capableof sendingoffendingwraithsto Oblivion. Abilitiesand Background:Benandanti have the mystical abilityto separate the irsoulsfromtheirbodiesandwalkinthe Shadowlands.(Seethe Numinasection of Chapter Three for details.)Due to the fractiousnatureoftheir"society，"all Benandantigainthe Ability Traitof Brawl-some of the irfistfightsduringmeetings are quiteferocious.Benandantialsogainonelevelof Wraith Loreduetotheirtravels in the Underworld, but additional levelsmustbe learned the hardway. ## the DANNATI the Damnation the or is tsbelieve that wraiths are evilspiritsof the damnedwho mustbedestroyedbothfortheirownsakes, and for the sakeof the living.Swayedby the actsof Spectresandperhapsbypersonalexperienceswithotherwraithsandspirits, the Dannati actively engage in spiritual manipulation to destroy wraiths.Most Dannatiare smart enough torealize that a directcampaignagainstwraithswould be foolish, and so instead arrange for events to destroy Fetters, spread erroneous informationthatleadswraithsto Oblivionandotherwisemakenuisancesofthem selvesinthe Underworld. L
 
-OutsideofSAD,normalFBIagentsdooccasionallyrunacross supernaturalcases. Most of the time,suchcases arechalkeduptobizarre butexplainablephenomena.A fewmaketheirwaytoSAD,butsomecases aresolvedby thediligenteffortsofFBI agentswho discover that the occultworld isfarmorereal than they ever imagined.
+## the REDENTORI the Redeemersbelieve that wraiths are merelysoulswhodonotunderstand that they are dead, and the ymaintain that the role of the Benandanti is toencourage the m tomove beyond the afterlife.the Redentori do so by destroying the material attach ments(Fetters)of the wraithsin an attempt to helpthemmoveon.the Redentoriare stillcautious, toughrealizingthatotallwraithsareacefulorfrinly.Evensoh are more apttotrytohelpwraithsingeneral, althoughtheirlackofunderstandingof wraithly existenceoften leadstosomeembarrassing and potentiallydangeroussituations.More than one Redentorihas found himself on the receiving end of an angry wraithafter tryingtohelp, onlyto discover that his actionsfurtherjeopardizedthe wraith'stenuous fight touphold somepassion or goal beyonddeath. ## ALTERNATE ENERGY GROUP PARANORMAL RESEARCH WING the PRW, asplinterdivisionof the AEG, consistsofradicalscientistswhostudy the industrial uses of psychicenergiesandother supernatural phenomenon, for the lofty purpose of solving the world's energy crisis.Unfortunately, althoughthePRW has discovered"ectoplasmic converter engines"that are capable of liquidating spiritualmatterintoinertenergy, the yhaveyettofindanywaytoharnesstheresulting energy.Still, this do esn'tstopthePRWfromtrying, and manyunfortunatespiritshave beenliquidated as the PRWfurthersits attempts tounderstand spirit energy. Membersofthisgroupusethescientificmethod toapproachtheirinvestigations, and are farmorelikelytoexperimenton anythingtheyfind than tokillit.Still, the experiments"of PRWscientistscanbedangerousindeed tounwitting supernatural creatures.Additionally, the informationgatheredbythePRWhas alerted select individuals inthefederal government to the existenceofthe supernatural, and continued successul experimentationcouldverywell lead toafull-blownexposure of variousparanormal creatures.Needless to say, the vampires and were wolves of the worldwouldbelessthanhappywithsuch a development, and so dealingswiththe PRWare extremely cautious and circumspect. Sponsoredbymultinationalcorporateconglomerates, the PRWrequeststhat each of its associates signanon-disclosure agreement, for the protectionof the ir patrons. Since the PRW's more questionable activities (such as liquidating the supposed spirits of the dead)have drawn negative attention and somerepercussions, many of the PRW's more promising experiments are now conducted in secrecy. AlthoughtheAEGpubliclydenouncestheactivitiesofthePRWlargesumsofmoney still make the ir way to the PRW's coffers, and some strange technologies, like chaoscopic scanners, have resulted from itsresearch(see Chapter Four). Abilities and Background:The scientists of the PRWare all highly trained professionals, and the ygainonelevelof Science Abilityin additiontoanyotherskills that the ymay study.PRWmembers alsogain onefree Influence Trait of Politics or University, as a by-product of the irresearch connections. ## the or PHICCIRCLE
 
-Abilities andBackground:FBl agents automatically gain theAbilityTraits of Inwestigation andFirearms due to theirtraining.
-
-## NATIONAL SECURITY AGENCY
-
-Ostensiblyagiant information-siftingagency,theNSA isresponsibleforthe collection and analysis of intelligence.TheNSAcollates and sifts information in anattempttopreservenationalsecurity.Fromtimetotime,theNSAcomesacross patterns of information that point to the presence ofunusual influence(possibly asaresult of supernatural activity）.Insuchcases,theNSA usuallymakesa simple note andleaves thefile alone,but caseswhich involvenational security have agents dispatched forinvestigation.Inthese cases,theinformation-gathering and pattern-matching training of the agents leads to quick discovery for unwitting supernatural creatures,and theNSA uses the same method to dealwith such phenomena as it doeswith any other threat tonational security——elimination.
-
-Abilities andBackground:NSA agents automatically gain the Computer and InvestigationAbilityTraitsfrom theirtraining.
-
-Some supernatural creatures(especially vampires) actually attempt to control the NSA directly,but the agency's superior information-gathering techniques,combinedwiththedevelopmentof technology designed toneutralize theinfluenceofsupernaturalentities,hasmadesuchinfiltrationincreasingly difficult.At present,the NSA is a very real threat to other supernatural creatures,becauseit has the information and thewherewithal todiscover and destroy all manner ofparanormals.
-
-## CENTER FOR DISEASE CONTROL
-
-Whileitmaysoundunusual,thisagencyhasturnedupsome startingfactsabout the spread ofAIDSand otherblood-relatedviruses.Examinationof thesefactsledto thetheory amongasmallfactionofresearchersthatvampiresdoindeedexist,andare amostunusualvector bywhich these diseases are spread.CDCresearchers have significantmedicalinfluenceand training,whichallowsthemtoisolatesupernatural creatures through unusual means—by tracking injuries anddiseases that could be associatedwithpatternsofparanormalactivity.Withnationalinfluence and the welfareofbillionsofpeopleatstakethedoctorsoftheDCareintelligentmotivatd andvery,verygoodatwhattheydo.
-
-Whethertheyhuntthevampirestostopthespreadofdisease,ortoobtainblood samplesfromwhichtheymightfindacureof somesort,CDCresearchersareapotent threattothevampiricMasquerade.Someresearchersmay seektocapturesupernatu ral entities,so asto study theirmedical condition,"andperhaps even attempt acure. Othersseeparanormal beings as a threat tohumanity,and arrangematterstobring other government agencies tobear against those monsters.
-
-Abilities andBackground:CDCresearchers automatically gain the Ability Traits of Inwestigation andMedicine as part of their training.
-
-<!-- image -->
-
-<!-- image -->
-
-人
-
-<!-- image -->
-
-## DRUGENFORCEMENTADMINISTRATION
-
-Notnecessarily awareof theexistenceofsupernaturalcreatures,thisagencyworksto preventandregulatethespreadofnarcotics,omethingthatmanysuchcreaturestakean activeinterestin.Obviously,theDEAmaystumbleacrosstheactivitiesofSetitesWm corruptedcartelsorothersupernaturalswiththeirfingersinthedrugpie.Whensuchclashes occur,the agency doesnt usually take any"officialstance—but agentsmay well have to dispatch thevampires(orworse)that use thedrug tradefor income and influence.
-
-DEAagentsmustdealwith thedregsof humanity as amatterofcourse,and thus are moreinuredtowardsthehorrorandatrocityendemicinthesupernaturalworld.Alittle conflictwithsuperiorsoverthesupernaturalelementsofacasecouldcauseajadedDEAagent tocontinuethehuntcovertly.Ontheflipside,individualswithavestedinterestinthedrug trademaywelltakeactiontotrytoneutralizeorsubvertDEAagents,earningtheenmityof themorededicated amongthe agency.
-
-AbilitiesandBackground:DEA agentsgain theAbilityTraitsofFirecrms and Streetwise aspart of their training.
-
-## LOCAL POLICE
-
-Ifitcouldsomehowbeassembledtheinformationpossessedbylocalpoliceforcesabout thesupernaturalwouldexceedthatofanyothergroup.Unfortunately,localagenciesdont shareinformationaboutunusualandparanormalcrimes;indeed,mostagencieshaveonly scantlocalinformationhoardedbyoneortwoquietofficerswhocategorizetheunsolvable casesand,asftnasotnowothingaboutthesupernatural.ouldthisnormatn broughttobear,thelocalpoliceagencieswouldhaveawealthof supernaturalinformation —buttheconstantstigmaofcrackpots,combinedwiththeinfluenceofothersupenatural creatureswhousethepolicedepartmentstodestroyevidenceof theirexistence,servesonly tofurtherfragmentanddistortwhatinformationis available.
-
-Supernaturalsstrivetocontrollocalpolicedepartmentsandinworkingtoestablish thatcontrol,they oftenleavecluesabout theirexistence.Indeed,it'snotuncommonto discoveracoponthepayrollofavampireorsomehowrelated toawerewolfsoftenasot, though,otheroffcersmaykeepaneyeoutforcopsonthetake"andworkaround them or atleastconcealcasefilesandinformation.
-
-Crimeslinkedinsomewaytothesupernaturalarenotthatuncommon,asvampires manipulateandfeedfrommortalswerewolvesslaughterWyrm-taintedfoeschangeling attract thewrong sort of attention andwraithsseektopreserve their fetters and haunts.All of these activitiescandrawtheattention of thelocalpoliceand leadtoaninvestigationby a sharpofficerwhorecognizesthesignsof supernatural involvement.
-
-AbilitiesandBackground:Police officers gain theAbilityTraits ofFirearms and Investigation as part of their training.
-
-## SCHOLARLYINSTITUTIONS
-
-Sometimes the danger from a hunter comes notto the creatures of thenight themselves,buttothesecrecytheyattempttomaintain.Hunterswhoseekknowledge havethepotentialtodomoredamagetothecontinuedexistenceofvampiresand othercreaturesthanthemostwell-armedfanaticbenton thedestructionofthe paranormal.Asscholarlygroupsgathertidbitsofdatalowlysifingfactfromfancy, theygainthemostvaluableprize in thewar against thesupernatural:Truth.Though
+This group is unusual because it boasts a number of supernatural members. for med to study the true nature of death and the afterlife, it has gained the participationofsuchsupernaturalcreaturesasnecromanticvampires, deathmages and somewraiths, aswell as that of or dinarymortals.all membersof the Circle are
 
 ## Character Creation
 
-such societiesrarely act as actual"hunters,"they have theknowledge necessary to understandanddefeatcreaturesof thesupernatural,shouldstudygivewaytoconflict.
+## Laws of the Hunt seekersofknowledge.the Circledrawsfromthetraditionof or pheus, who supposedly returnedfromthe Underworldwithasetofscrollsofnecronomiclore.Membersseek outknowledgeof lifeand deathin or der togainpower over existence itself. from the outsidethe or phic Circleseemsverymuchlikeacult, and itspractics are basedon the ancient cultof Dionysus.Itsmembers engage in annual or giastic rites aswell asthestudyof the Shadowlands and the Underworld.Itis alsoorganized like acult, with an Outer Circleconsistingofmostofthemembership, and an Inner Circle, calledthe Ebon Bench, which consistsof the ninepriests and priestesseswholeadthe or phics.Atanygiven time, the Circle holds300members.Membershipisforlife(or, rather, durationofexistence)with vacantpositionsfilledby appointmentsfromthe Kerberos, a ten-member council that screens potential applicants. Onenteringintothe or phics, amemberisrequiredtoswearamysticallybindingoath of secrecy.Naturally, expatriatesaredealtwithharshly(and finally);the Circleisalways will ing to have another wraith on which to experiment.The range of influencewielded by the Circle'ssupernatural membersisimpressive;aneophyte or phicmaywellbecome enviousof the powersof the vampiricormagickally-inclinedsuperiors inthe Circle. Abilities and Background:Mortal members of the or phic Circle always have onefreelevelof Occult Abilitybecauseoftheircloseties toothersupernatural creatures.Similarly, this informationandinfluencetranslatesintoonefree Occult Influence Trait. ## THE SOCIETY for PSYCHICALRESEARCH
 
-Advantage:Members of scholarly groups are generallywell informed about their prey.IfitsuitstheStoryteller'schronicle,scholarlyhuntersmaybeginplaywithone of thefollowingAbilityTraits:VampireLore,WerewolfLore,MageLore,WraithLore, orFaerieLorethoughtheknowledgeinquestionmust still bepurchased asnormal during charactercreation.Scholarsmay also acquire suchAbilityTraitsmore easily than others during a chronicle by consulting the organizations extensivelibrary.
-
-The pursuit ofknowledge isnotoftena solitary one,and like other hunter, scholarsof the occult alsogathertopool theirresources andshare theirfindings.The groupings usually share common goals orpowers.Regardless of theirown capabilities, though,academic societies aredangerous primarilybecause of the sheerwealth of knowledgethattheycanbringtobear,and thefact that theyaremuchmore accepting ofthe veracity ofsupernaturalknowledge-andwillingtotradeitwithotherscholars.
-
-Disadvantage:A hunterwho doesn't accomplish anythingofnoteisnot supportedby hisfellows.This axiom translatestomean publishorperish.Without tangibleresults adding tothenstitutionbodyowldgeandaegularhedulfpaperssminarsandbook scholarlyhuntersarediscardedinfavorofmorepromisingstudentsAdditionallyscholarly groupstendtoemploysecrecyastheironlyprotection,andtheyareunlikelytovolunterany information to outsiders,even if it jeopardizes theirchance at having allies.
-
-Character Suggestions: Scholarly hunters usually have Mental Traits as their primaryAttributesandcommonAbilitiesincludevestigationLore,Occultandcience. TheyfrequentlypossessNuminaeespeciallySorceryManyscholarsjoinedinstitutionsas a means to learningor developing their own Numina.Others come to investigate the supernatural world afterhavingtheir eyes opened by aparanormal experience.
-
-## THEARCANUM
-
-Originally founded inthelate19thCentury as asecretsociety ofoccultists,the Arcanumhasgrownintoacollectionof scholars,all interestedinvariousaspectsof thesupernatural,with Chapter Houses on every continent.
-
-SubgroupsexistwithintheArcanumdifferentCollegesandranches,devoted to the study of particular phenomena,be itvampirespsychicpowers,ley lines, werewolves or alien abductions.
-
-Existing primarily to observe and learn,theArcanum investigates all instances ofunusual activity,andmembers firmly believe inthe existence ofotherworldly creatures.Seekingto catalogueandclassify thewonders theyfind,without drawing any attention tothemselves,scholarsof theArcanumtreada deadlypath.Innearly everycase,supernaturalreaturevaluetheirsecrecyasmuchasfnotmorehan, their lives.To spy on them can prove tobe a most dangerous mission.
-
-The typicalArcanistisadedicatedresearcherwholeadsafairlynormalacademic life,butalsoengagesinbizarre andsupernaturalresearchon the side.Withfirst-hand knowledgeof variousNuminae andextensivefiles onjust about every typeof supernatural creatureintheWorldofDarkness,theArcanumcanbeadangerous opponentindeed —except that its members almost never take any involvement.Instead,Arcanists simplyrecordandcatalogue,sittingbackandwatchinglikeimpartialreporters.Indeed, the Arcanum seems toplace a greater value on information than on human life,as evidencedwhen therecentdestruction of aChapterHousewas heraldedwithmore horrorovertheloss of irreplaceabledocuments thanoverthedeathsof severalmembers.
-
-√
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-Abilities andBackground:Arcanummembersgainone freeAbilityTrait of Occultduringcharactercreation,aswellasonefreeOccultorUniversityInfluenceTrait.
-
-## THE BENANDANTI
-
-Thisvery specificorganizationtargetswraithswhomt believes arehapless spiritsunabletomove onafterdeath.Beyond thisunderstanding,theBenandantiall have oneimportant thing in common:They are born with their caulsintact and trainedbya sponsorBenandant,whichgivesthem theability toseespiritsand ultimately toleave their bodies andaffectwraithsin the spiritworld.
-
-TheBenandanti wouldnotbea threattowraiths exceptfor some truly unfortunateinterpretationsoftheirtiestothemortalworld.Bydiscovering and destroyingthosethingsthatholdwraithsback,theBenandantibelievethattheyallow the poor ghostsrelease,when instead they are condemning wraiths to Oblivion. Worsestill,someBenandantibelievethatghostsaremalevolentanddangerous spirits,andtheygooutof theirwaytotrick anddestroywraiths.
-
-With its roots ina Gypsy family,theBenandanti is now only alooselyconnected society.ABenandantewillwatch herfriends and familyfor infantsbornwiththeir caulsintact,and thenUnhoodsaid infants inaceremony thatensurestheir potential toseewraiths.Aftera stringent twenty-yearapprenticeship,thechild isconsidered tobe a anotherBenandante.FewBenandantiknowof one another outsidethis apprenticeshiprelationship,sincetheyadoptedapolicyofsecrecytoprotectthemselves centuries ago,after being perceived as witches by the Inquisition.This fragmentation means that the Benandanti arereally just individuals sharing a commonpower,insteadofatrulyunifiedorganization.
-
-Despitethedisparatenatureof their society,theBenandanti dohave some common rituals andpractices.Novizio(novices)areinstructed by sapienza(mentors) in the dangers andways of the Underworld.Using their cauls,the Benandanti can performmysticalfeatsthatbringthempoweroverthelandsof thedead.Additionally, theBenandanti arerightly feared amongwraithsfortheirfennel swords,precious artifactsofuniquemagicalpower thathavespiritual aswell asmaterial components. TheBenandanticarrytheseweaponswiththemintheUnderworld,wherethefennel swords arecapableof sendingoffendingwraithstoOblivion.
-
-AbilitiesandBackground:Benandanti have themystical abilityto separate theirsoulsfromtheirbodiesandwalkintheShadowlands.(SeetheNuminasection ofChapterThree fordetails.)Due to the fractiousnatureoftheir"society，"all BenandantigaintheAbilityTraitofBrawl-some of theirfistfightsduringmeetings arequiteferocious.BenandantialsogainonelevelofWraithLoreduetotheirtravels in theUnderworld,but additional levelsmustbe learned thehardway.
-
-## THEDANNATI
-
-TheDamnationTheoristsbelieve thatwraiths areevilspiritsof thedamnedwho mustbedestroyedbothfortheirownsakes,andforthesakeof theliving.Swayedby theactsofSpectresandperhapsbypersonalexperienceswithotherwraithsandspirits, the Dannati actively engage in spiritual manipulation to destroy wraiths.Most Dannatiare smart enough torealize that a directcampaignagainstwraithswould be foolish,and so instead arrange for events to destroy Fetters, spread erroneous informationthatleadswraithstoOblivionandotherwisemakenuisancesofthem selvesintheUnderworld.
-
-L
-
-## THEREDENTORI
-
-TheRedeemersbelieve thatwraiths aremerelysoulswhodonotunderstand that they aredead,and theymaintain thattherole of theBenandanti istoencourage them tomove beyond the afterlife.TheRedentori do so by destroying the material attach ments(Fetters)of thewraithsin an attempt to helpthemmoveon.TheRedentoriare stillcautious,toughrealizingthatotallwraithsareacefulorfrinly.Evensoh aremore apttotrytohelpwraithsingeneral,althoughtheirlackofunderstandingof wraithly existenceoften leadstosomeembarrassing andpotentiallydangeroussituations.More than oneRedentorihas found himself on thereceiving end of an angry wraithafter tryingtohelp,onlyto discover thathis actionsfurtherjeopardizedthe wraith'stenuous fight touphold somepassion or goal beyonddeath.
-
-## ALTERNATE ENERGY GROUP PARANORMAL RESEARCH WING
-
-ThePRW,asplinterdivisionof theAEG,consistsofradicalscientistswhostudy theindustrial uses of psychicenergiesandother supernatural phenomenon,forthe lofty purpose of solving theworld's energy crisis.Unfortunately,althoughthePRW has discovered"ectoplasmic converter engines"that are capable ofliquidating spiritualmatterintoinertenergy,theyhaveyettofindanywaytoharnesstheresulting energy.Still,thisdoesn'tstopthePRWfromtrying,andmanyunfortunatespiritshave beenliquidated as thePRWfurthersits attempts tounderstand spirit energy.
-
-Membersofthisgroupusethescientificmethod toapproachtheirinvestigations, and arefarmorelikelytoexperimenton anythingtheyfind thantokillit.Still,the experiments"ofPRWscientistscanbedangerousindeed tounwitting supernatural creatures.Additionally,theinformationgatheredbythePRWhas alerted select individuals inthefederal government to theexistenceofthe supernatural,and continued successul experimentationcouldverywell lead toafull-blownexposure of variousparanormal creatures.Needless to say,thevampires andwerewolves of the worldwouldbelessthanhappywithsuch a development,andso dealingswiththe PRWare extremely cautious andcircumspect.
-
-Sponsoredbymultinationalcorporateconglomerates,thePRWrequeststhat each ofits associates signanon-disclosure agreement,fortheprotectionof their patrons. Since the PRW's more questionable activities (such as liquidating the supposed spirits of thedead)have drawn negative attention and somerepercussions, many of the PRW's more promising experiments are now conducted in secrecy. AlthoughtheAEGpubliclydenouncestheactivitiesofthePRWlargesumsofmoney still make their way to the PRW's coffers,and some strange technologies,like chaoscopic scanners,have resulted from itsresearch(see Chapter Four).
-
-Abilities andBackground:The scientists of thePRWare all highly trained professionals,and theygainonelevelofScienceAbilityin additiontoanyotherskills that theymay study.PRWmembers alsogain onefreeInfluenceTrait of Politics or University,as a by-product of theirresearch connections.
-
-## THEORPHICCIRCLE
-
-This group is unusual because it boasts a number of supernatural members. Formed to study the true nature of death and the afterlife,it has gained the participationofsuchsupernaturalcreaturesasnecromanticvampires,deathmages andsomewraiths,aswell as that of ordinarymortals.Allmembersof theCircle are
+This collection of spiritualists and scientificminds was for medin1882, to investigateallmatterof unusualpsychicpowers.how ever, muchtoSPR'sdetriment, manyofthenaturalabilitiesofreaturessuchasvampireswerewolveswraithand changelingscloselyresemblethesepowers, and sosuchscholarsmayrun afoulof the m. In general, the SPRdoesnotacknowledgetheexistenceof suchcreatures, but many individualresearchershavehadpersonalexperiencesthatstatedifferently.SomeSPR researchersevenspecifically studytheinteractionof psychicpowerswith other for ms of supernaturalphenomena.Afewscientiststheorizethatsupernatural creaturesare actuallyextremeexpressionsof specificpsychicpowers, and the yengageinsystematic huntsforinformation totestsuchtheories. the SPRcontainsseveralbrancheseachofwhichstudiesdifferentaspectsofpsychic phenomena.Althoughoftendismissedas harmless, the irunusualpsychicpowersmake the mquiteunpredictable.Eachbranchof the SPRapproachespsychicphenomenafrom a differentangle, and the sediverseinsightsintothenatureofthesupernaturalmeanthat SPRaffiliates of tendraw startling connections between scatteredclues. Abilities and Background:SPRmembersgain onefree Trait of Science and one Traitof Occultbecauseof the irconcentrationon ascientificapproachtosupernatural phenomena.Many are actual seniorresearchers and university professors with a great deal of experience in parapsychology and occult lore. Others are simple individuals with mundane lives, who take a common-sense approach to the unusual. ## CENTERFORPARAPSYCHOLOGICALRESEARCH this of fshootconcernsitselfwiththeinvestigationofextrasensoryperception, such as Telepathy, Clairvoyance and Telekinesis.Associated with some respected universities, the CPRconsists of scientificandskepticalminds, who attempt to disproveclaims of the supernatural asmuchasprove the m.from time to time, the
 
 ## Character Creation
 
-## Laws of the Hunt
+CPRfindcasesthatcanteeasilydisproved, and itkeepsfilesonpsychichenomena that defyrationalexplanation.Overall, the CPRisuseful to the Societyfor Psychical Research becauseitmanages to weed out spurious informationwhile drawing extremely scientificallypreciseconclusions about seeminglyinexplicable events. Most CPRscientistshavea great deal of Science Ability due to the ir for mal training.Some develop significant Inwestigation skills aswell. CPRmembers are huntersinasmuch as the yare drawn tosupernaturalevents in anattempttodeveloprationalexplanations.of course, onceaCPRmemberdiscovers aparanormal event or creature that hecan't debunk, the chaseison as the scientist triestogettothebottomof things!If the chaseleadstoarealparanormalcreature, the scholar is likely torevise his thinking to come upwith a suitable explanation. Comingup with saidexplanation may wellrequire specialresearch, and some scientistswillgo togreatlengths totest the irunwittingsubjects. ## COLLEGEOFPSYCHICLEARNING
 
-seekersofknowledge.TheCircledrawsfromthetraditionofOrpheus,whosupposedly returnedfromtheUnderworldwithasetofscrollsofnecronomiclore.Membersseek outknowledgeof lifeand deathin order togainpower over existence itself.
+This branchof the Societyfor Psychical Research, composedmainlyofwomen, dedicates itself to the instruction of psychic abilities to itsmembers.Ifnot for the partial successes of the Collegeitwould have beendismissedbySPRforfakery and charlatanism long ago. the CLsometimesoanstsmembersouttolocaloliceforhepwithmissingersns and othercases.the SPRfindsthepublicrelationsuseful, but findstheCPL'suseofunproven psychicpowersinthepublicviewtobefrustrating.the SPRwouldratherdevotetimeand energytohardresearchnpsychicpowersnsteadofusingunreliableandunproventalents togaermediaattentionincesuchattentionbackfirewhenhetalntsnqustionfil how ever, the membersof the CPLwouldprobablycontinueintheipracticesevenwithout the supportoftheSPR;manyfeeladuty tousetheirpsychicgiftsforthebenefitofhumanity. CPLmembers of ten possess some level of sensory Numina, such as Telepathy or Clairvoyance.Aside from this common ground, though, they come from awide and diversesetofbackgroundsfactoryworkershousewivesbusinessprofessionalsand circusgypsies all find the reway into the CPL. Naturally, Lmembersarenotoftenhuntersinthestrictsense, but amissing persons case can easily drawa psychic into a confrontation with any manner of supernaturalcreature Additionally, psychicallypowerfulhumansmakedesirablepawns for vampiresandothercreatures, astheirtalentsenablethem todeal with a widerrange of situations.the fact that CPLmembers useorwatch psychic powers regularly simply adds to the ir will ingness to accept other supernatural phenomena, as well. ## INDEPENDENTS
 
-FromtheoutsidetheOrphicCircleseemsverymuchlikeacult,anditspractics arebasedon the ancient cultof Dionysus.Itsmembers engage in annual orgiastic rites aswell asthestudyof theShadowlands andtheUnderworld.Itis alsoorganized like acult,withanOuterCircleconsistingofmostofthemembership,andanInnerCircle, calledtheEbonBench,whichconsistsof theninepriests andpriestesseswholeadthe Orphics.Atanygiven time,the Circle holds300members.Membershipisforlife(or, rather,durationofexistence)withvacantpositionsfilledby appointmentsfromthe Kerberos, a ten-member council that screens potential applicants.
+Not truly an or ganization perse, but worthyofmore detailedmention, are independenthunters.the reare alwaysthosewhochoose tofollowtheir own paths.A ghoulwhose or iginalvampiremasterdiesmight huntvampirespurelyforthestrength of the irvitae.A privateinvestigatormaybe hired tolook into the disappearanceofagirl who has just gone throughher First Change into awerewolf.Anormalaccountant might seektounderstandwhyheishaunted byvisions of hisdeadwife, sothathecanmove onwith his life.Aworried housewife who se teenage son spends toomuch timewith a groupofverystrangepeoplemightspyonafeyanddisturbingparty.Anysortofhunter who do esn't fall under the previous categories is considered anindependent. ## Laws of the Hunt
 
-OnenteringintotheOrphics,amemberisrequiredtoswearamysticallybindingoath of secrecy.Naturally,expatriatesaredealtwithharshly(and finally);theCircleisalways willing to have another wraith on which to experiment.The range of influencewielded by theCircle'ssupernatural membersisimpressive;aneophyteOrphicmaywellbecome enviousof thepowersof thevampiricormagickally-inclinedsuperiors intheCircle.
+Manyhuntersgoitalone, not becausetheydon'tagreewiththemethodsofother groups, but simplybecause the ydon'tyet know of the ir existence.Anindependent maywell jointhe Arcanumorthe Societyof Leopoldafterhisactionsbringhimto the not iceof the appropriateorganization Of course, the hunterinquestionwould have tobewillingtotakeontheburdensof the or ganization, but would inturngain access to the or ganization's special materials and additional training. Advantage:Independenthuntersgainseven Free Traitsinsteadof five, toreflect the ireclecticexperience.the se Traitsmaybeused asdesired duringcharactercreation. Disadvantage:Independent hunters don't have any or ganization on which to call. Thus, ahunterwhofindshimselfoutmatchedisonhisown.Additionallyindependentsmut becarefultoconcealtheiractivities, or riskcensure, arrestorevencommitmentforinsanity. ## STEPTWO:ATTRIBUTES
 
-Abilities andBackground:Mortal members of the Orphic Circle always have onefreelevelofOccultAbilitybecauseoftheircloseties toothersupernatural creatures.Similarly,thisinformationandinfluencetranslatesintoonefreeOccult InfluenceTrait.
+Attributes describe a character's intrinsic qualities.By delineating the qualities an individualpossesses, Attributesdefinethecharacters appearanceandcapabilities.Adjec tivesfilltheroleof Attributes, eachnoting some aspectof the character.you call onyour character's Attributestoperformtasksandtojudgerelativesuccessinfeatsof naturalability. ## CHOOSING ATTRIBUTES the rearethreegroupsof Attributes:Physical, Socialand Mental.you rfirstst is to prioritize the sethreecategories.Is you rcharacterahulkingbrutewithlightningfastreflexes, a debonair and seductivehero or a criminal mastermindwhomisses not hing?you mustdecidewhichcategoryismost important todefineyourvision of you r character's strengths and weaknesses. ## CATEGORIESOFATTRIBUTES
 
-## THE SOCIETY FORPSYCHICALRESEARCH
+Physical Attributes describe you r character'sphysical strength, dexterity and stamina-in essence, the capabilities of her body. Social Attributesdescribeyourcharacter'scharisma, manipulativeskill and appearance—the for ce of his personality. Mental Attributesrepresentyourcharactersperceptiveness, intelligence, and wits-the capabilities of hermind. Choosewhichcategoryisprimarytoyourcharacter, the nchoosewhichonesare secondary and tertiary.Afteryou'vechosentheorderof the three Attributecategories, you can selectspecific Traitsfromeachcategorytofleshoutyourcharacter. when prioritizingyour Attributeskeepyourinitialcharacterconceptfirmlyin mind.A timid Arcanum scholaris unlikely tohavemany Physical Traits, while a belligerentandbigoted Inquisitorwon'thave a primary Socialcategory.Use the overall picture of you r character todecide onthe categories. ## CHOOSINGTRAITS
 
-This collection of spiritualists and scientificminds was formedin1882,to investigateallmatterof unusualpsychicpowers.However,muchtoSPR'sdetriment, manyofthenaturalabilitiesofreaturessuchasvampireswerewolveswraithand changelingscloselyresemblethesepowers,andsosuchscholarsmayrun afoulof them. In general,theSPRdoesnotacknowledgetheexistenceof suchcreatures,butmany individualresearchershavehadpersonalexperiencesthatstatedifferently.SomeSPR researchersevenspecifically studytheinteractionof psychicpowerswith other forms ofsupernaturalphenomena.Afewscientiststheorizethatsupernatural creaturesare actuallyextremeexpressionsof specificpsychicpowers,and theyengageinsystematic huntsforinformation totestsuchtheories.
+Onceyouveselectedtheorderforyour Attribute Traits, you needtochoosethe adjectivesthemselves.Aprimarily Physicalhuntermightchoosethe Traits Quick and Lithetorepresent acrobatic ability, or Brawny and Ferocioustoshowhisaptitudefor hammeringwoodenstakes.the seadjectivesservetobringyour charactereven more vividlytolife, and they makeiteasiertoremember Traitsinthepressureofroleplaying. ## Character Creation
 
-TheSPRcontainsseveralbrancheseachofwhichstudiesdifferentaspectsofpsychic phenomena.Althoughoftendismissedas harmless,theirunusualpsychicpowersmake themquiteunpredictable.Eachbranchof theSPRapproachespsychicphenomenafrom a differentangle,andthesediverseinsightsintothenatureofthesupernaturalmeanthat SPRaffiliates oftendraw startling connections between scatteredclues.
-
-Abilities andBackground:SPRmembersgain onefreeTrait ofScience andone Traitof Occultbecauseof theirconcentrationon ascientificapproachtosupernatural phenomena.Many are actual seniorresearchers and university professors with a great deal of experience in parapsychology and occult lore. Others are simple individuals withmundane lives,who take a common-sense approach to the unusual.
-
-## CENTERFORPARAPSYCHOLOGICALRESEARCH
-
-Thisoffshootconcernsitselfwiththeinvestigationofextrasensoryperception, such as Telepathy,Clairvoyance and Telekinesis.Associated with some respected universities,the CPRconsists of scientificandskepticalminds,who attempt to disproveclaims of the supernatural asmuchasprove them.Fromtime to time,the
-
-## Character Creation
-
-CPRfindcasesthatcanteeasilydisproved,anditkeepsfilesonpsychichenomena that defyrationalexplanation.Overall,theCPRisuseful to theSocietyforPsychical Research becauseitmanages to weed out spurious informationwhile drawing extremely scientificallypreciseconclusions about seeminglyinexplicable events.
-
-Most CPRscientistshavea great deal ofScienceAbility due to their formal training.Some develop significant Inwestigation skills aswell.
-
-CPRmembers arehuntersinasmuch as theyare drawn tosupernaturalevents in anattempttodeveloprationalexplanations.Ofcourse,onceaCPRmemberdiscovers aparanormal event orcreature thathecan't debunk,thechaseison as thescientist triestogettothebottomof things!If thechaseleadstoarealparanormalcreature, the scholar is likely torevise his thinking to come upwith a suitable explanation. Comingup with saidexplanation may wellrequire specialresearch,and some scientistswillgo togreatlengths totest theirunwittingsubjects.
-
-## COLLEGEOFPSYCHICLEARNING
-
-This branchof theSocietyforPsychical Research,composedmainlyofwomen, dedicates itself to the instruction of psychic abilities to itsmembers.Ifnot forthe partial successes of the Collegeitwould havebeendismissedbySPRforfakery and charlatanism long ago.
-
-TheCLsometimesoanstsmembersouttolocaloliceforhepwithmissingersns andothercases.TheSPRfindsthepublicrelationsuseful,butfindstheCPL'suseofunproven psychicpowersinthepublicviewtobefrustrating.TheSPRwouldratherdevotetimeand energytohardresearchnpsychicpowersnsteadofusingunreliableandunproventalents togaermediaattentionincesuchattentionbackfirewhenhetalntsnqustionfil However,themembersof theCPLwouldprobablycontinueintheipracticesevenwithout the supportoftheSPR;manyfeeladuty tousetheirpsychicgiftsforthebenefitofhumanity.
-
-CPLmembers often possess some level of sensoryNumina,such asTelepathy or Clairvoyance.Aside from this common ground,though,they come from awide and diversesetofbackgroundsfactoryworkershousewivesbusinessprofessionalsand circusgypsies all find thereway into theCPL.
-
-Naturally,Lmembersarenotoftenhuntersinthestrictsense,butamissing persons case can easily drawa psychic into a confrontation with any manner of supernaturalcreatureAdditionally,psychicallypowerfulhumansmakedesirablepawns forvampiresandothercreatures,astheirtalentsenablethem todeal witha widerrange ofsituations.Thefact that CPLmembers useorwatch psychic powers regularly simply adds to their willingness to accept other supernatural phenomena, as well.
-
-## INDEPENDENTS
-
-Not truly an organization perse,but worthyofmore detailedmention,are independenthunters.Thereare alwaysthosewhochoose tofollowtheir own paths.A ghoulwhose originalvampiremasterdiesmight huntvampirespurelyforthestrength oftheirvitae.A privateinvestigatormaybe hired tolook intothedisappearanceofagirl whohas just gone throughherFirst Change intoawerewolf.Anormalaccountant might seektounderstandwhyheishaunted byvisions of hisdeadwife,sothathecanmove onwith his life.Aworried housewife whose teenage son spends toomuch timewith a groupofverystrangepeoplemightspyonafeyanddisturbingparty.Anysortofhunter whodoesn't fall under the previous categories is considered anindependent.
-
-## Laws of the Hunt
-
-Manyhuntersgoitalone,notbecausetheydon'tagreewiththemethodsofother groups,but simplybecause theydon'tyet know of their existence.Anindependent maywell jointheArcanumortheSocietyof Leopoldafterhisactionsbringhimto thenoticeof theappropriateorganizationOf course,thehunterinquestionwould havetobewillingtotakeontheburdensof theorganization,butwould inturngain access to the organization's special materials and additional training.
-
-Advantage:IndependenthuntersgainsevenFreeTraitsinsteadof five,toreflect theireclecticexperience.TheseTraitsmaybeused asdesired duringcharactercreation.
-
-Disadvantage:Independent hunters don't have any organization on which to call. Thus,ahunterwhofindshimselfoutmatchedisonhisown.Additionallyindependentsmut becarefultoconcealtheiractivities,orriskcensure,arrestorevencommitmentforinsanity.
-
-## STEPTWO:ATTRIBUTES
-
-Attributes describe a character's intrinsic qualities.By delineating thequalities an individualpossesses,Attributesdefinethecharacters appearanceandcapabilities.Adjec tivesfilltheroleofAttributes,eachnoting some aspectof thecharacter.Youcall onyour character'sAttributestoperformtasksandtojudgerelativesuccessinfeatsof naturalability.
-
-## CHOOSING ATTRIBUTES
-
-TherearethreegroupsofAttributes:Physical,SocialandMental.Yourfirstst isto prioritize thesethreecategories.Is yourcharacterahulkingbrutewithlightningfastreflexes,a debonair andseductivehero ora criminal mastermindwhomisses nothing?Youmustdecidewhichcategoryismost important todefineyourvision of your character's strengths andweaknesses.
-
-## CATEGORIESOFATTRIBUTES
-
-Physical Attributes describe your character'sphysical strength,dexterity and stamina-in essence,the capabilities of her body.
-
-Social Attributesdescribeyourcharacter'scharisma,manipulativeskill and appearance—theforce of his personality.
-
-MentalAttributesrepresentyourcharactersperceptiveness,intelligence,and wits-the capabilities of hermind.
-
-Choosewhichcategoryisprimarytoyourcharacter,thenchoosewhichonesare secondary andtertiary.Afteryou'vechosentheorderof thethreeAttributecategories,you canselectspecificTraitsfromeachcategorytofleshoutyourcharacter.
-
-WhenprioritizingyourAttributeskeepyourinitialcharacterconceptfirmlyin mind.A timid Arcanum scholaris unlikely tohavemanyPhysical Traits,while a belligerentandbigotedInquisitorwon'thave a primarySocialcategory.Use the overall picture of your character todecide onthe categories.
-
-## CHOOSINGTRAITS
-
-OnceyouveselectedtheorderforyourAttributeTraits,youneedtochoosethe adjectivesthemselves.AprimarilyPhysicalhuntermightchoosetheTraitsQuick and Lithetorepresent acrobatic ability,orBrawny andFerocioustoshowhisaptitudefor hammeringwoodenstakes.Theseadjectivesservetobringyour charactereven more vividlytolife,andtheymakeiteasiertorememberTraitsinthepressureofroleplaying.
-
-## Character Creation
-
-Inyourprimary Attribute category,you choose sixTraits.Inyour secondary cateoryuoseoryourwakstcatryoucosenlyeehusu receivea total of13AttributeTraits.You can takethesameTraitmore than once, if youwish,reflectinggreater concentration in a specific area.
-
-Traits allowyoutodescribeyourcharacterwithwordsratherthanjustnumbers; there'sa profounddifferencebetween acharacterwiththreeMental Traits anda character who isAlert,Attentive andDisciplined.
-
-DuringthecourseofagamelayersuseAttributsopeformvarioustasks.Generally, playerswillfindwaystousetheirAttributestoundertakeavarietyofdifferentactionswhich iswellandgood.However,otallAttributesaresuitedtoeveryaction.lfyou'redrivingastake into theheartofavampire,ornstance,theResilientPhysicalTraitisn'treallyappropriate. Similarly,theSeductiveSocial Traitwont help an Inquisitorwhipa mob into a frenzy.
-
-FurthermoremostchallengesonlyinvolveTraitsfromone particularcategory —youcan'tdefendagainsta vampiresmajestic aura withPhysicalTraits,forinstance. GenerallybothartieswillusethesamecategorywhenresolvingaChallenge,ss a special powernotes otherwise.
-
-If you wish to usean"inappropriateTrait in abid,you may doso if all parties involvedagree.NoviceplayersmaywishtoallowanyTrait tobeused,tosimplify play. Howeveryou'llfind thatplaymovesmore smoothlyand enjoyablywhenyouusethe Traits appropriate totheactiondescribed.
-
-## PHYSICALTRAITS
+Inyourprimary Attribute category, you choose six Traits.Inyour secondary cateoryuoseoryourwakstcatryoucosenlyeehusu receivea total of13Attribute Traits.You can takethesame Traitmore than once, if you wish, reflectinggreater concentration in a specific are a. Traits all owyoutodescribeyourcharacterwithwordsratherthanjustnumbers; the re'sa profounddifferencebetween acharacterwiththree Mental Traits and a character who is Alert, Attentive and Disciplined. Duringthecourseofagamelayersuse Attributsopeformvarioustasks.Generally, playerswillfindwaystousetheir Attributestoundertakeavarietyofdifferentactionswhich is wellandgood.how ever, otall Attributesaresuitedtoeveryaction.lfyou'redrivingastake into the heartofavampire, or nstance, the Resilient Physical Traitisn'treallyappropriate. Similarly, the Seductive Social Traitwont help an Inquisitorwhipa mob into a frenzy. Furthermoremostchallengesonlyinvolve Traitsfromone particularcategory —you can'tdefendagainsta vampiresmajestic aura with Physical Traits, for instance. Generallybothartieswillusethesamecategorywhenresolvinga Challenge, ss a special powernotes otherwise. If you wish to usean"inappropriate Trait in abid, you may do so if all parties involvedagree.Noviceplayersmaywishtoallowany Trait tobeused, tosimplify play. how everyou'llfind that playmovesmore smoothlyand enjoyablywhenyouusethe Traits appropriate totheactiondescribed. ## PHYSICALTRAITS
 
 ## Athletic
 
-You have conditioned yourself to respond well in full-body movements, especially in competitive events.You're equally proficient at scaling manor walls and swinging a heavymallet at a stake.
+You have conditioned you rself to respond well in full-body movements, especially in competitive events.You're equally proficient at scaling manor walls and swinging a heavymallet at a stake. Uses:Competitions, duels, running, acrobatics and grappling. ## Brawny
 
-Uses:Competitions,duels,running,acrobatics and grappling.
+Bulkyandmuscular.You're built like the Terminator. Uses:Punching, kicking or grappling in combat when you r goal is to inflict damage.Power lifting.All feats of strength. ## Brutal
 
-## Brawny
+You are capable of taking nearly any action in or der to survive. ## Dexterous
 
-Bulkyandmuscular.You're built like theTerminator.
+Uses:Fighting an obviously superior enemy. Generally adroit and skillful when usingyour hands.Twoknives are betterthanone. ## Enduring
 
-Uses:Punching,kicking or grappling in combat when your goal is to inflict damage.Power lifting.All feats of strength.
+Uses:Weapon-or iented combat(Melee), picking pockets, acrobatics. Persistent and sturdy against physical opposition.Okaysomaybebulletsdont bounce of fbutyou sure can roll with the punches. Uses:when you r survival is at stake, this is agood Trait toriskasasecond, or successive, bid. ## Energetic
 
-## Brutal
+You have a powerful for ceof spiritand astrong internaldrive that propel you. In physical situations, you draw on a deep reservoir of enthusiasm and zeal. Uses: Combat, running. ## Ferocious
 
-You are capable of taking nearly any action in order to survive.
+In possession of intensity and extreme physical determination.You're as or nery asawerewolf and twice asloyal toyourcause. Uses:Any time that you intend to do serious harm.When angry. ## Graceful
 
-## Dexterous
+Controlled and balancedin the motion and use of you rentirebody. Uses:Defense in combat.when everyoumight loseyourbalance(stepping on apatchofice, fightingonfour-inch-thickrafters). ## Lithe
 
-Uses:Fighting an obviously superior enemy.
+Characterizedbyflexibilityandsuppleness.(you reallybendoverbackwardsforyourjob!) Uses:Acrobatics, gymnastics, do dging and dancing. ## Nimble
 
-Generally adroit and skillful whenusingyour hands.Twoknives arebetterthanone.
+Light and skillful;able to make agile movements.You can sidestep attacking were wolveswithalacrity and do dge the clutchesof angryvampires. Uses:do dging, jumping, rolling, acrobatics and hand-to-hand combat. ## Quick
 
-## Enduring
-
-Uses:Weapon-oriented combat(Melee),picking pockets,acrobatics.
-
-Persistent and sturdy against physical opposition.Okaysomaybebulletsdont bounce offbutyou sure canroll with thepunches.
-
-Uses:Whenyour survival is at stake,this isagoodTrait toriskasasecond,or successive,bid.
-
-## Energetic
-
-You havea powerful forceof spiritand astrong internaldrive that propel you. In physical situations,you draw on a deep reservoir of enthusiasm and zeal. Uses: Combat,running.
-
-<!-- image -->
-
-## Ferocious
-
-In possession of intensity and extreme physical determination.You're as ornery asawerewolf andtwice asloyal toyourcause.
-
-Uses:Any time that you intend to do serious harm.When angry.
-
-## Graceful
-
-Controlled andbalancedin themotion anduse ofyourentirebody.
-
-Uses:Defense in combat.Wheneveryoumight loseyourbalance(stepping on apatchofice,fightingonfour-inch-thickrafters).
-
-## Lithe
-
-Characterizedbyflexibilityandsuppleness.(Youreallybendoverbackwardsforyourjob!) Uses:Acrobatics,gymnastics,dodging and dancing.
-
-## Nimble
-
-Light and skillful;able to make agile movements.You can sidestep attacking werewolveswithalacrity and dodge the clutchesof angryvampires.
-
-Uses:Dodging, jumping,rolling, acrobatics and hand-to-hand combat.
-
-## Quick
-
-You'reknownforyourfastreactiontime.Youmightevengetthenextclipinto thegunbefore theempty one hitstheground.
-
-Uses:Defendingagainst a surpriseattack,running,dodging and attacking. Resilient
+You'reknownforyourfastreactiontime.you mightevengetthenextclipinto the gunbefore the empty one hitstheground. Uses:Defendingagainst a surpriseattack, running, do dging and attacking. Resilient
 
 Abletorecoverquicklyfrombodilyharm.Neithersnownorsleetnorrainwill stopyou. Uses:Resisting adverse environments.Defending against damage in an attack. Robust
 
-Resistant to physical harm and damage.You've got the long-distance hiking thingdown.
+Resistant to physical harm and damage.You've got the long-distance hiking thingdown. Uses: Defending against damage in an attack. Endurance-related actions that could take place over a period of time. ## Rugged
 
-Uses: Defending against damage in an attack. Endurance-related actions that could take place over a period of time.
+Hardyoughandhealthy.Abletoshrugoffwoundsandpaintocontinuestruggling. Uses:when resisting damage, or any challenge that you enterwhile injured. ## Stalwart
 
-## Rugged
+Physically strong and uncompromising against opposition. Uses:Resisting damage, or when standingyour groundagainst overwhelming odds or a superior foe. ## Steady
 
-Hardyoughandhealthy.Abletoshrugoffwoundsandpaintocontinuestruggling. Uses:Whenresisting damage,or any challenge thatyou enterwhile injured.
+More than simply physically dependable;controlled, unfaltering and balanced. You can keep awoodenstakelined upperfectlywith avampire's heart, evenin the middleofarough-and-tumblebrawl. Uses:Weapon attacks.Fightingin exotic locations.Piloting ships over difficult waters. ## Tenacious
 
-## Stalwart
-
-Physically strong and uncompromising against opposition.
-
-Uses:Resisting damage,orwhen standingyour groundagainst overwhelming odds or a superior foe.
-
-## Steady
-
-More than simply physically dependable;controlled,unfaltering and balanced. You cankeep awoodenstakelined upperfectlywith avampire's heart,evenin the middleofarough-and-tumblebrawl.
-
-Uses:Weapon attacks.Fightingin exotic locations.Piloting ships over difficult waters.
-
-## Tenacious
-
-Physically resolute throughforce of will.You often prolong physical confrontations,evenwhen itmightnotbewisetodoso.Painisyourfriend!
-
-Uses:Second or subsequentPhysical Challenge.
-
-## Laws of the Hunt
+Physically resolute throughforce of will.You of ten prolong physical confrontations, evenwhen itmightnotbewisetodoso.Painisyourfriend! Uses:Second or subsequent Physical Challenge. ## Laws of the Hunt
 
 ## Tireless
 
-Uses:Any endurance-related challenge.Second or subsequentPhysical Challenge with the same foeor foes.
+Uses:Any endurance-related challenge.Second or subsequent Physical Challenge with the same foeor foes. ## Character Creation
 
-## Character Creation
+You have a runner's stamina—you are less taxed byphysical efforts than or dinary people.You just keep hunting and hunting and hunting... ## Tough
 
-You have a runner's stamina—you are less taxed byphysical efforts thanordinary people.You just keep hunting and hunting and hunting...
+You have aharshaggressive attitudeandyouwillnotsubmitix-inchclawmarks Just a scratch. Uses:when everyou'rewounded or winded. you are powerful, intense and resistant toharm.Evenbleedingfromafewgunshot wounds, you don't slowdown. ## Vigorous
 
-## Tough
+Uses:Combat and athletic challenges when you're on the defensive. ## Wiry
 
-You haveaharshaggressive attitudeandyouwillnotsubmitix-inchclawmarks Just a scratch.
-
-Uses:Wheneveryou'rewounded orwinded.
-
-Youarepowerful,intense andresistant toharm.Evenbleedingfromafewgunshot wounds,you don't slowdown.
-
-## Vigorous
-
-Uses:Combat and athletic challenges when you're on the defensive.
-
-## Wiry
-
-Tightandstreamlinedyetstillmuscular.Youvegotthebuildofadancerorgymnast. Uses:Punching,kickingorgrapplingncombat.Acrobaticmovements.Enduranceliting.
-
-## NEGATIVEPHYSICALTRAITS
+Tightandstreamlinedyetstillmuscular.you vegotthebuildofadancerorgymnast. Uses:Punching, kickingorgrapplingncombat.Acrobaticmovements.Enduranceliting. ## NEGATIVEPHYSICALTRAITS
 
 ## Clumsy
 
 ## Cowardly
 
-Lacking physical coordination,balance and grace.You are prone to stumbling and dropping objects.
+Lacking physical coordination, balance and grace.You are prone to stumbling and dropping objects. In threatening situations, savingyourownneckisallthatismportant.you might evenleewhenyouhave the upper hand, justoutof habit. ## Decrepit
 
-In threatening situations,savingyourownneckisallthatismportant.Youmight evenleewhenyouhave theupper hand,justoutof habit.
+## Delicate you move and actasif you are oldandinfirm.You recover from physical damage slowly, are unabletoapplyfullmuscular strengthand tire easily. Frail and weak in structure; you are easily damaged by physical harm. ## do cile you lackphysicalpersistence and tendtosubmitrather than fight longbattles. Flabby you rmusclesareunderdeveloped you cannotapplyyourstrengthwellagainst resistance. ## Lame
 
-## Decrepit
+You are disabledin one or morelimbs.the handicapcanbe as obvious as amissing leg or as subtle as a dysfunctional arm. ## Lethargic
 
-## Delicate
-
-Youmove andactasif you areoldandinfirm.You recover fromphysical damage slowly,are unabletoapplyfullmuscular strengthand tire easily.
-
-Frail and weak in structure; you are easily damaged by physical harm.
-
-## Docile
-
-Youlackphysicalpersistence and tendtosubmitrather thanfight longbattles. Flabby
-
-YourmusclesareunderdevelopedYoucannotapplyyourstrengthwellagainst resistance.
-
-## Lame
-
-You aredisabledin one ormorelimbs.Thehandicapcanbe as obvious as amissing leg or as subtle as a dysfunctional arm.
-
-## Lethargic
-
-Slowand drowsy.You suffer from a seriouslackof energy or motivation.
-
-You areweak.Thisweaknesscould comefromdiminutive size or just substandard strength.
-
-## Puny
+Slowand drowsy.You suffer from a seriouslackof energy or motivation. You are weak.this weaknesscould comefromdiminutive size or just substandard strength. ## Puny
 
 ## Sickly
 
-Weak andfeeble.Your bodyresponds tophysical stressasif it isin the throes of a debilitating illness.
+Weak and feeble.you r bodyresponds tophysical stressasif it is in the throes of a debilitating illness. ## SOCIALTRAITS
 
-<!-- image -->
+## all uring you have an attractive and appealingpresencethatinspiresdesire. Uses:Seduction.Convincing others. ## Beguiling you r skill at deception and illusion is infamous.You can twistperceptions and leadpeopleto believe what suitsyou.Amust-have for the enigmatic sorcerer type. Uses:Tricking others.Lying under duress. ## Charismatic
 
-## SOCIALTRAITS
+You possess a talent for inspiration and motivation. Uses: In a situationinvolving leadership or the achievement of leadership. Charming you r speech and actionsmakeyou appear attractive and appealing to others. Uses: Convincing or persuading. ## Commanding you r delivery of or ders and suggestions is impressive.You could run a military operation or or der around governmentflunkies (assuming you have the proper knowledge). Uses: When you are seen as a leader. ## Compassionate you rfeelingsofcareorpityforothersrundeep, and you rhumankindnessshines through, even inlight of the terrible actionsyou must undertake. Uses:Defending the weak or do wntrodden.Defeatingmajor obstacleswhile pursuing an altruistic end. ## Dignified
 
-## Alluring
+Something about you r posture and body carriage appears honorable and aestheticallypleasing.You carryyourselfwell. Uses:Defendingagainst Social Challenges, or when beingmade tolookfoolish. Diplomatic
 
-Youhave an attractive and appealingpresencethatinspiresdesire. Uses:Seduction.Convincing others.
+Tactful, carefulandthoughtfulinspeechanddeed.Fewaredispleasedwithwhat you say or do. Uses:Very important in intrigue and leadership situations. ## Elegant
 
-## Beguiling
+Refinedandtasteful.Eventhoughyoudontneedmoneytobe Elegantyouexude an air of richness and high society. Uses:High society celebrations.Defending against Social Challenges. ## Eloquent
 
-Your skill at deception andillusion is infamous.You can twistperceptions and leadpeopleto believe what suitsyou.Amust-have for the enigmatic sorcerer type.
+You speak in an interesting and convincing manner.You're capable of giving inspiring speeches, sermons and blessings. Uses: Convincing others.Swaying emotions.Public speaking. <a id="vbn:morality:path:path:07f0940a"></a>
 
-Uses:Tricking others.Lying under duress.
-
-## Charismatic
-
-You possess a talent for inspiration andmotivation.
-
-Uses: In a situationinvolving leadership or the achievement of leadership. Charming
-
-Your speech and actionsmakeyou appear attractive and appealing to others. Uses: Convincing or persuading.
-
-## Commanding
-
-Your delivery of orders and suggestions is impressive.You couldrun a military operation or order around governmentflunkies (assuming you have the proper knowledge).
-
-Uses: When you are seen as a leader.
-
-## Compassionate
-
-Yourfeelingsofcareorpityforothersrundeep,andyourhumankindnessshines through,even inlight of the terrible actionsyou must undertake.
-
-Uses:Defending theweak or downtrodden.Defeatingmajor obstacleswhile pursuing an altruistic end.
-
-## Dignified
-
-Something about your posture and body carriage appears honorable and aestheticallypleasing.You carryyourselfwell.
-
-Uses:DefendingagainstSocialChallenges,orwhenbeingmade tolookfoolish. Diplomatic
-
-Tactful,carefulandthoughtfulinspeechanddeed.Fewaredispleasedwithwhat you say or do.
-
-Uses:Very important in intrigue and leadership situations.
-
-## Elegant
-
-Refinedandtasteful.EventhoughyoudontneedmoneytobeElegantyouexude an air of richness and high society.
-
-Uses:High society celebrations.Defending against Social Challenges.
-
-## Eloquent
-
-You speak in an interesting and convincing manner.You're capable of giving inspiring speeches,sermons and blessings.
-
-Uses: Convincing others.Swaying emotions.Public speaking.
-
-<a id="vbn:morality:path:path:07f0940a"></a>
 ## Empathetic
 
-Abletoidentify and understand the emotionsandmoodsofpeoplewithwhom you comeincontact.You canmeasuretruth andfeel passions.
+Abletoidentify and understand the emotionsandmoodsofpeoplewithwhom you comeincontact.You can measuretruth and feel passions. ## Character Creation
 
-## Character Creation
+Uses: Gauging the feelings of others.Not useful in defense against Social Disciplines. ## Expressive
 
-Uses: Gauging the feelings of others.Not useful in defense against Social Disciplines.
+Ableto articulate thoughtsininteresting, significant and meaningfulways.You can actually get out more than just"big-hairy-huge-fangs!"
 
-## Expressive
+Uses:Acting or performing.Any social situationinwhichyou want someone to understand you r meaning. ## Friendly
 
-Ableto articulate thoughtsininteresting,significant andmeaningfulways.You can actually get out more than just"big-hairy-huge-fangs!"
+Abletofitnwithveryoneumet.enafthorconversatinosti it difficult to dislikeyou. Uses: Convincing others. ## Genial
 
-Uses:Acting orperforming.Any social situationinwhichyou want someone to understand your meaning.
+Cordial, warm and pleasant.You are pleasing to be around.Possessed of the manners of akindpriest or scholar. Uses: Mingling at gatherings. Generally used in a second or later Social Challengewith someone. Beautiful or handsome.you were born with a face and body that is good-looking tomostopleoumeet the rearen'tmanysuermodehuntersbuthey, is ha stake or are you happy to seeme? ## Gorgeous
 
-## Friendly
+Uses:Attracting attention. ## Ingratiating
 
-Abletofitnwithveryoneumet.enafthorconversatinosti it difficult to dislikeyou.
+Uses:Dealingwith superiors.Defending against social and emotional powers. Able togain the favor of peoplewhoknowyou. ## Intimidating
 
-Uses: Convincing others.
+Uses:Attempting to cow opponents. Inspiring common fear. or dering others. you r presenceis awesome and frightening. ## Magnetic
 
-## Genial
+Peoplefeel drawn toyou;those aroundyou are interestedinyour speech and actions. Uses:Seduction.Keeping someone near you. ## Persuasive
 
-Cordial,warm and pleasant.You are pleasing to be around.Possessed of the manners ofakindpriest or scholar.
+Able to propose believable, convincing and correct arguments and requests. Usefulfordebate, and togetthosesilverbulletsrequisitioned. Uses:Persuading or convincing others. ## Seductive
 
-Uses: Mingling at gatherings. Generally used in a second or later Social Challengewith someone.
+Abletoenticeandtempt.you can useyourgood looksandyourbodytogetwhat you wantfrom others. Uses:Subterfuge and seduction. ## Witty
 
-Beautiful orhandsome.Youwereborn witha face andbody that is good-looking tomostopleoumeetTherearen'tmanysuermodehuntersbuthey,isha stake or are you happy to seeme?
-
-## Gorgeous
-
-Uses:Attracting attention.
-
-## Ingratiating
-
-Uses:Dealingwith superiors.Defending against social and emotional powers.
-
-Able togain thefavor of peoplewhoknowyou.
-
-## Intimidating
-
-Uses:Attempting to cow opponents. Inspiring common fear. Ordering others.
-
-Your presenceis awesome and frightening.
-
-## Magnetic
-
-Peoplefeel drawn toyou;those aroundyou are interestedinyour speech and actions.
-
-Uses:Seduction.Keeping someone near you.
-
-## Persuasive
-
-Able to propose believable,convincing and correct arguments and requests. Usefulfordebate,andtogetthosesilverbulletsrequisitioned.
-
-Uses:Persuading or convincing others.
-
-## Seductive
-
-Abletoenticeandtempt.Youcanuseyourgood looksandyourbodytogetwhat you wantfrom others.
-
-Uses:Subterfuge and seduction.
-
-## Witty
-
-Intellegently humorous.You'vealwaysgotajokeorone-liner,eveninthemiddle ofa bloody hunt.
-
-Uses:At celebrations.Entertaining someone. Goading orinsulting someone.
-
-<!-- image -->
-
-## Laws of the Hunt
+Intellegently humorous.You'vealwaysgotajokeorone-liner, eveninthemiddle of a bloody hunt. Uses:At celebrations.Entertaining someone. Goading or insulting someone. ## Laws of the Hunt
 
 ## NEGATIVESOCIALTRAITS
 
 ## Bestial
 
-Physically,you seem somewhat less than human.Maybe you have clawlike fingernails,heavybodyhair orarenottimid aboutyourbodilyfunctions.
+Physically, you seem somewhat less than human.Maybe you have clawlike fingernails, heavybodyhair or are not timid aboutyourbodilyfunctions. ## Callous
 
-## Callous
+You are unfeeling, uncaringand insensitiveto the sufferingof others.you r heart is a frozen stone. ## Condescending
 
-You areunfeeling,uncaringand insensitiveto the sufferingof others.Your heart is a frozen stone.
+## l Ina
 
-## Condescending
+You just can't help it;you r contempt for others is impossible to hide. Those with who m you speak usuallyfindyouboring and uninteresting.Conversingwith you is a chore.You do not present you rself well to others. ## Naive
 
-## lIna
+You lackthe airofworldlinesssophisticationormaturity that mostcarry. ## Obnoxious
 
-You just can't help it;your contempt for others isimpossible to hide.
-
-Those with whom youspeak usuallyfindyouboring anduninteresting.Conversingwith you is a chore.You do not present yourself well to others.
-
-## Naive
-
-You lackthe airofworldlinesssophisticationormaturity thatmostcarry.
-
-## Obnoxious
-
-You are annoying or unappealing in speech,action or appearance.
-
-Your appearance disgusts everyone aroundyou.Needlesstosay,youmakea terriblefirst impression with strangers.
-
-## Repugnant
+You are annoying or unappealing in speech, action or appearance. you r appearance disgusts everyone aroundyou.Needlesstosay, you makea terriblefirst impression with strangers. ## Repugnant
 
 ## Shy
 
-You aretimidbashfulreservedandsociallyhesitant
+You are timidbashfulreservedandsociallyhesitant
 
 ## Tactless
 
-You areunabletodoorsaythingsthatothersfind appropriatetothesocialsituation.
+You are unabletodoorsaythingsthatothersfind appropriatetothesocialsituation. ## Untrustworthy
 
-## Untrustworthy
-
-You are rumored orperceived to beunreliable(whether you are or not).
-
-## MENTALTRAITS
+You are rumored or perceived to beunreliable(whether you are or not). ## MENTALTRAITS
 
 ## Alert
 
-Mentally prepared for danger and ableto react quicklywhen it occurs.The instant a werewolf starts tochange shape,you notice it.
+Mentally prepared for danger and ableto react quicklywhen it occurs.The instant a were wolf starts tochange shape, you not ice it. ## Attentive
 
-## Attentive
+Uses:Preventing surprise attacks.Defending against mental attacks. You pay attention to everyday occurrences aroundyou.When something extraordinaryhappens, you are usuallyreadyfor it. ## Calm
 
-Uses:Preventing surprise attacks.Defending against mental attacks.
+Uses:Preventing surprise attacks.not icing hidden foes.Preventing mind control, bynoticingit before the adversary can enact the power. Able towithstand anextraordinary levelofdisturbancewithoutbecoming agitated or upset.Awellspring of self-control. Uses:Resisting commands that provokeviolence.when ever a mental attack might upset you.Primarily for defense. ## Clever
 
-You pay attention to everyday occurrences aroundyou.When something extraordinaryhappens,you are usuallyreadyfor it.
+Quick-witted and resourceful.You thinkwell onyourfeet. Uses:Tricking someone, using Sorcery. √
 
-## Calm
+## Creative you rideasareoriginal and imaginative, implyingan ability toproduceunusual solutionstoyourdifficulties.you can create artisticpieces.are quirementforanytrue artist. Uses: Creating anything.Solving puzles. ## Cunning
 
-Uses:Preventing surprise attacks.Noticing hidden foes.Preventing mind control,bynoticingit before the adversary can enact thepower.
+Craftyandsly, ossesingagreatdealfingenuity.oucanactuallymakastake throwing trap. Uses:Tricking others. Sorcery. ## Dedicated
 
-Able towithstand anextraordinary levelofdisturbancewithoutbecoming agitated orupset.Awellspring of self-control.
+You giveyourself over totally to you r beliefs.you r devotion to a cause is unparalleled. Uses:Useful in any Mental Challengewhenyour beliefs are at stake.Defense against memory-alteringpowers. ## Determined when it comes tomental endeavorsyou are fullycommitted.Whetherinves tigating or hunting, onceyou start, you don't stop. Uses:Staredowns.Useful in a normal Mental Challenge. ## Discerning
 
-Uses:Resisting commands that provokeviolence.Whenever a mental attack might upset you.Primarily for defense.
+Discriminating;able topick out details, subtleties and idiosyncrasies.you have clarity of vision.You not eghostsout of the corner of you r eye. Uses:not icing the unusual.Psychic Phenomena. ## Disciplined you rmind is structured and controlled.this rigidity givesyou anedgeinbattles of will. Uses:Staredowns, Sorcery, defending against mental powers. ## Insightful
 
-## Clever
+You need onlylook at a situation togain anunderstanding of it. Uses:Investigating(but not defending against it).Psychic Phenomena. ## Intuitive
 
-Quick-witted andresourceful.You thinkwell onyourfeet.
+Knowledge and understandingsomehowcome toyouwithoutconsciousreasoning, as if by instinct.you r gut tellsyou right and wrong. ## Knowledgeable
 
-Uses:Tricking someone,using Sorcery.
+Uses:Psychic Phenomena.Understanding people. you knowcopious and detailedinformation about awidevariety of topics.This represents"book-learning."
 
-√
+Uses:Remembering informationyour character mightknow.Sorcery. ## Observant you r depth of vision grants you the power to look at something and not ice the important aspectsofit. Uses: Picking up on subtleties that others might overlook. ## Patient
 
-## Creative
+Tolerant, persevering and steadfast.Waiting for that vampire toreturn tohis have n is no troubleforyou. Uses:Staredownsor othermental battles after another Trait has beenbid. ## Character Creation m Md
 
-Yourideasareoriginal and imaginative,implyingan ability toproduceunusual solutionstoyourdifficulties.Youcancreate artisticpieces.Arequirementforanytrue artist.
+## Rational you believenlogic, eason, sanityandsobriety.ouarecapableofcategorizing and analyzingeven the mostblatantly supernaturalevents. Uses: Defending against emotion-or iented mental attacks.Not used as an initial bid. Reflective you have internalwellspringsof knowledge, and you considermany sidesof a conundrum. Uses:Meditation.Rememberinginformation.Defendingagainstmostmentalattacks. Shrewd
 
-Uses: Creating anything.Solving puzles.
+Astute and arful, abletokeepyourwitsaboutyouand accomplishmental feats with efficiencyandfinesse. Uses:Defending against mental powers. Solving tricks and puzzles. ## Vigilant
 
-## Cunning
+Watchful.you r attention misseslittle;you pickout the telltale signs of the supernaturaleverywhere. Uses:Defending against investigation, for getful Mind and Command.More appropriateformental defense than for attack. ## Wily
 
-Craftyandsly,ossesingagreatdealfingenuity.oucanactuallymakastake throwing trap.
+Sly and full of guile.You can trickanddeceiveeasily. Uses:Tricking others.Lying under duress.Sorting through confusion. ## Wise
 
-Uses:Tricking others. Sorcery.
+Possessed of an overall understanding of the workings of the world. Uses: Giving advice.Defending against mind control. ## NEGATIVEMENTALTRAITS
 
-## Dedicated
+## for getful you have troublerememberingeven importantthings. ## Gullible
 
-You giveyourself over totally to your beliefs.Your devotion to a cause is unparalleled.
+Easily deceived, duped or fooled. ## Ignorant
 
-Uses:Useful in anyMental Challengewhenyour beliefs are at stake.Defense against memory-alteringpowers.
+Uneducated or misinformed, never seeming toknow anything. ## Impatient
 
-## Determined
+Restless, anxiousandgenerallyintolerantofdelays.you wanteverythingtogo you rway.Now. ## Oblivious
 
-Whenit comes tomental endeavorsyou arefullycommitted.Whetherinves tigating or hunting,onceyou start,you don't stop.
+Unaware and unmindful.You'd be lucky if you not iced a herd of cattle headed straight towardyou. ## Predictable
 
-Uses:Staredowns.Useful in a normal Mental Challenge.
+Becauseyoulackoriginalityorintelligence, evenstrangerscaneasilyfigureout what you intend todonext.Not averygood Traitfor chessplayers. ## Shortsighted
 
-## Discerning
+Lacking for esight.You rarely lookbeyond the superficial;details of perception are usually lost on you. ## Submissive
 
-Discriminating;able topick out details,subtleties andidiosyncrasies.Youhave clarity of vision.You noteghostsout of the corner ofyour eye.
-
-Uses:Noticing the unusual.Psychic Phenomena.
-
-## Disciplined
-
-Yourmind is structured andcontrolled.Thisrigidity givesyou anedgeinbattles of will.
-
-Uses:Staredowns,Sorcery,defending against mental powers.
-
-## Insightful
-
-You need onlylook at a situation togain anunderstanding of it.
-
-Uses:Investigating(but not defending against it).PsychicPhenomena.
-
-## Intuitive
-
-Knowledge and understandingsomehowcome toyouwithoutconsciousreasoning, as if by instinct.Your gut tellsyou right and wrong.
-
-## Knowledgeable
-
-Uses:Psychic Phenomena.Understanding people.
-
-Youknowcopious anddetailedinformation about awidevariety of topics.This represents"book-learning."
-
-Uses:Remembering informationyour character mightknow.Sorcery.
-
-## Observant
-
-Your depth of vision grants you the power to look at something andnotice the important aspectsofit.
-
-Uses: Picking up on subtleties that others might overlook.
-
-## Patient
-
-Tolerant,persevering and steadfast.Waiting for thatvampire toreturn tohis haven isno troubleforyou.
-
-Uses:Staredownsor othermental battles after another Trait hasbeenbid.
-
-## Character Creation
-
-mMd
-
-## Rational
-
-Youbelievenlogic,eason,sanityandsobriety.ouarecapableofcategorizing andanalyzingeven themostblatantly supernaturalevents.
-
-Uses: Defending against emotion-oriented mental attacks.Not used as an initial bid. Reflective
-
-Youhave internalwellspringsof knowledge,andyou considermany sidesof a conundrum.
-
-Uses:Meditation.Rememberinginformation.Defendingagainstmostmentalattacks. Shrewd
-
-Astute andarful,abletokeepyourwitsaboutyouand accomplishmental feats withefficiencyandfinesse.
-
-Uses:Defending against mental powers. Solving tricks and puzzles.
-
-## Vigilant
-
-Watchful.Your attention misseslittle;you pickout the telltale signs of the supernaturaleverywhere.
-
-Uses:Defending against investigation,Forgetful Mind and Command.More appropriateformental defense than for attack.
-
-## Wily
-
-Sly andfull ofguile.You can trickanddeceiveeasily.
-
-Uses:Tricking others.Lying under duress.Sorting through confusion.
-
-## Wise
-
-Possessed of an overall understanding of the workings of the world.
-
-Uses: Giving advice.Defending against mind control.
-
-## NEGATIVEMENTALTRAITS
-
-## Forgetful
-
-Youhave troublerememberingeven importantthings.
-
-## Gullible
-
-Easily deceived,duped or fooled.
-
-## Ignorant
-
-Uneducated or misinformed,never seeming toknow anything.
-
-## Impatient
-
-Restless,anxiousandgenerallyintolerantofdelays.Youwanteverythingtogo yourway.Now.
-
-## Oblivious
-
-Unaware andunmindful.You'd be lucky if you noticed a herd of cattle headed straight towardyou.
-
-## Predictable
-
-Becauseyoulackoriginalityorintelligence,evenstrangerscaneasilyfigureout whatyou intend todonext.Not averygoodTraitfor chessplayers.
-
-## Shortsighted
-
-Lacking foresight.You rarely lookbeyond the superficial;details of perception are usually lost on you.
-
-## Submissive
-
-Spineless.Yourelentand surrenderat any costrather than stand upforyourself.
-
-## Laws of the Hunt
+Spineless.you relentand surrenderat any costrather than stand upforyourself. ## Laws of the Hunt
 
 ## Violent
 
@@ -1480,338 +479,187 @@ Spineless.Yourelentand surrenderat any costrather than stand upforyourself.
 
 ## Character Creation
 
-Extremelylacking inself-control.Youflyintorages at the slightest provocation, and frenzy is always close to the surface.This is aMentalTrait because it represents mental instability.
+Extremelylacking inself-control.you flyintorages at the slightest provocation, and frenzy is always close to the surface.This is a Mental Trait because it represents mental instability. Lackingtheability toprocessinformationquickly.Foolish and slowto actwhen threatened. ## STEPTHREE:ADVANTAGES
 
-Lackingtheability toprocessinformationquickly.Foolish andslowto actwhen threatened.
+Advantages cover who and what you know.You may be skilledwith guns, connectedtopeoplein the Church or able to callon stores of supernatural information.Any such benefit falls into this category. ## CHOOSINGABILITIES where as Attributesdescribewhatyour character is like, Abilitiesdescribe what you r characterknows or has been trained todo.You choose three Abilities, and like Attributes, you may choose the same one more than once toreflect greater skill or training in that are a. Abilitiesrepresentyour character's skills and training.with Abilities, you r character performs tasks that would otherwisebe impossible.In game play, you can useyour Abilitiestoperform specificfunctions that requiretraining(such as researching Sorcerywith the Occult Ability)or toretesta lostchallengedueto you r superior training(such asusing Brawl todiscard the initial failedresultsof anattempttopunchavampire). Some Abilities, such as Performance, Linguistics, Loreand Science, must be furtherspecified.for example, acharacterwhotakes Performancemightbeskilled at acting, but not know anything aboutdancing, and acharacterwith Vampire Lore still knowsnothing aboutwerewolves, exceptperhaps that vampiresfear the m and call the m"Lupines". ## ANIMALKEN
 
-## STEPTHREE:ADVANTAGES
+You have practiced long and hard to develop the ability to interact and cooperatewith animals.Given timeandaccessto an animal, you may train it to perform simpletasks(i.e., fetch, guard, attack, etc.）.when the command is given, the animalmustmake a Mental Challenge to understand and carry out the or der. the difficultyofthetestisbasedonthelevelofdomesticationoftheanimal as wellas onthecomplexity of the taskrequired.you may also attempt tocalm an injured, attacking or frightened animal by defeating it in a Social Challenge. ## ARCHERY
 
-Advantages cover who andwhatyou know.You may be skilledwith guns, connectedtopeoplein the Church or able to callon stores ofsupernatural information.Any such benefit falls into this category.
+You have studied the difficult skill of usinga bow or crossbow.You can care for weapons of this type and identify the quality of various bows and arrows. when firinga bow, you can choose touseyour Mental Traitsto attackinstead of testingwith Physical Traits.you mayalso use this Abilityfor retestswhen firing a bow.Also, wooden bolts and arrows are quite effective in staking vampires through the heart. ## BLINDFIGHTING
 
-## CHOOSINGABILITIES
+You'vetrainedtoaccommodateyourself tolow-lightconditions, or perhapsyou just have naturallygoodnightvision.what everthecase, you can compensate for darkened conditions throughthe use of you r othersenses.Blindfighting all owsyou to mitigate the two-Traitpenalty for taking actionsindarkness;eachlevel of Ability removesonepenalty Trait.Additionally, you can expenda Traitof Blindfightingwhen in total darkness to avoid having to retest after a successful challenge. (See Chapter Four for completedetails about the effects of darkness.)
 
-WhereasAttributesdescribewhatyour character islike,Abilitiesdescribe what your characterknows or hasbeen trained todo.You choose three Abilities, and like Attributes,youmay choose the same one more than once toreflect greater skill or training in that area.
+## BRAWL you are adeptat using you rbodyas aweapon.This includes anyform of unarmed combat, from dirtyin-fightingtohighly stylizedmartial arts.you mayuse Brawl in coordinationwithclaws, teethandothertypesofnaturalweaponry.lnthismanner, even a characterwhois strippedbaremakes a for midable foe. ## BUREAUCRACY
 
-Abilitiesrepresentyour character's skills and training.WithAbilities,your character performs tasks that would otherwisebe impossible.In game play,you can useyourAbilitiestoperform specificfunctions thatrequiretraining(such as researchingSorcerywith theOccultAbility)or toretesta lostchallengedueto your superior training(such asusingBrawl todiscard theinitial failedresultsof anattempttopunchavampire).
+Eachday, the worldbecomes increasinglyburdenedwith a staggering amountof complexity, paperworkandredtape.you have the power tonavigatethissystemand use it toyour benefit.You can appropriatelicenses, manipulate contractual agree mentstoyouradvantageandrecover, alterordestroyanorganization'sfiles.Bureaucracy of tenrequiresa Mentalor Social Challenge, dependingonthetypeofroleplayingthe characterperformsorasthe Storytellereesfit.Difficultydependsonsuchfactorsas security, accessibilityoftheinformationorthecooperationof the target. ## COMPUTER
 
-Some Abilities,such as Performance,Linguistics,Loreand Science,must be furtherspecified.Forexample,acharacterwhotakesPerformancemightbeskilled at acting,butnotknow anything aboutdancing,andacharacterwithVampire Lore still knowsnothing aboutwerewolves,exceptperhaps thatvampiresfear them and call them"Lupines".
+Aninformationsuperhighwayexistswithelectronasphalt, siliconoff-rampsandfberopticexpressways you havelearnedtousecomputerstoyouradvantage.you can infiltrate systemsswapdata, steal secrets and accessrecords.A Mental Challengeisrequired accomplishtheseand other similar acts, with the dificultybased onsystemsecurity and accessibilityqupmenttmeandrarityfhnormatin Falurecanleadtonvestigatn by normal and sometimes supernatural agenciesthat operateinthecomputer sphere. ## CRAFTS this Ability impartsknowledge of master artisan techniques—woodworking, leatherwork, lassblowingweaving, emcuttingtcoumusttakeaseparateil Trait for eachdifferent tradeyou practice.You can makefunctional objectsfrom various substances.the quality of the se objects depends on time devoted to the ir creation, materials available and the difficulty of the task in question. ## DEMOLITION
 
-## ANIMALKEN
+You know how toblowthingsup.More specifically, you've trained in the useof various explosives, such as C4, dynamite and possiblywhitephosphorous.When settinganexplosive, you have adecentchanceofarmingthedevicewithoutblowing you r ownarmoff.you can alsotrytodisarmexplosiveswitha Static Mental Challenge;the difficulty equals the total numberof Mental Traits from the individual who set the explosive.If you do not possess this Ability, you can not use or disarm explosives at all.Similarly, Demolition do esnothelpyou to aim a thrownbomb or grenade, itsimply all owsyou tobuild, armand disarm explosivedevices. Laws of the Hunt
 
-You have practiced long and hard to develop the ability to interact and cooperatewith animals.Given timeandaccessto an animal,you may train it to perform simpletasks(i.e.,fetch,guard,attack,etc.）.Whenthecommand isgiven, the animalmustmake aMental Challenge to understand andcarry out the order. Thedifficultyofthetestisbasedonthelevelofdomesticationoftheanimal as wellas onthecomplexity ofthetaskrequired.Youmay also attempt tocalm an injured,attacking or frightened animal by defeating it in a Social Challenge.
+## do DGE
 
-## ARCHERY
-
-You have studied the difficult skill of usinga bow or crossbow.You can care forweapons ofthis type andidentify the quality ofvarious bows and arrows. Whenfiringa bow,you canchoose touseyourMentalTraitsto attackinstead of testingwithPhysical Traits.Youmayalso use thisAbilityfor retestswhen firing a bow.Also,wooden bolts and arrows are quite effective in staking vampires through theheart.
-
-## BLINDFIGHTING
-
-You'vetrainedtoaccommodateyourself tolow-lightconditions,orperhapsyou just havenaturallygoodnightvision.Whateverthecase,you can compensate for darkened conditions throughthe use of your othersenses.Blindfighting allowsyou to mitigate the two-Traitpenalty for taking actionsindarkness;eachlevel ofAbility removesonepenaltyTrait.Additionally,youcanexpendaTraitofBlindfightingwhen in total darkness to avoid having to retest after a successful challenge. (See Chapter Four for completedetails about the effects of darkness.)
-
-## BRAWL
-
-Youare adeptat using yourbodyas aweapon.This includes anyform of unarmed combat,fromdirtyin-fightingtohighly stylizedmartial arts.YoumayuseBrawl in coordinationwithclaws,teethandothertypesofnaturalweaponry.lnthismanner, even a characterwhois strippedbaremakes a formidable foe.
-
-## BUREAUCRACY
-
-Eachday,theworldbecomes increasinglyburdenedwith a staggering amountof complexity,paperworkandredtape.Youhave thepower tonavigatethissystemand use it toyour benefit.You can appropriatelicenses,manipulate contractual agree mentstoyouradvantageandrecover,alterordestroyanorganization'sfiles.Bureaucracy oftenrequiresaMentalorSocial Challenge,dependingonthetypeofroleplayingthe characterperformsorastheStorytellereesfit.Difficultydependsonsuchfactorsas security,accessibilityoftheinformationorthecooperationof thetarget.
-
-## COMPUTER
-
-Aninformationsuperhighwayexistswithelectronasphalt,siliconoff-rampsandfberopticexpresswaysYouhavelearnedtousecomputerstoyouradvantage.Youcaninfiltrate systemsswapdata,steal secrets and accessrecords.A Mental Challengeisrequired accomplishtheseand other similar acts,with thedificultybased onsystemsecurity and accessibilityqupmenttmeandrarityfhnormatinFalurecanleadtonvestigatn by normal and sometimes supernatural agenciesthat operateinthecomputer sphere.
-
-## CRAFTS
-
-ThisAbility impartsknowledge ofmaster artisan techniques—woodworking, leatherwork,lassblowingweaving,emcuttingtcoumusttakeaseparateil Trait foreachdifferent tradeyou practice.You canmakefunctional objectsfrom various substances.Thequality of these objects depends on time devoted to their creation,materials available and the difficulty of the task in question.
-
-## DEMOLITION
-
-You know how toblowthingsup.More specifically,you've trained in the useof various explosives,such as C4,dynamite andpossiblywhitephosphorous.When settinganexplosive,youhaveadecentchanceofarmingthedevicewithoutblowing your ownarmoff.YoucanalsotrytodisarmexplosiveswithaStaticMental Challenge;thedifficulty equals the total numberofMental Traits from theindividual who set theexplosive.If you donotpossess thisAbility,you cannot use or disarm explosives at all.Similarly,Demolition doesnothelpyou to aim a thrownbomb or grenade,itsimply allowsyou tobuild,armand disarm explosivedevices.
-
-Laws of the Hunt
-
-## DODGE
-
-You'velearned to anticipatedanger and to usecovertoyour advantage.When you'reattacked,youduck,weaveandevadeblowsthatwouldnormallystrikeslower or less alertcombatants.(You may only use yourDodgeAbilityas a retest against any attempt tograb,strikeorinjureyouphysically.)
+You'velearned to anticipatedanger and to usecovertoyour advantage.When you'reattacked, you duck, weaveandevadeblowsthatwouldnormallystrikeslower or less alertcombatants.(You may only use you r do dge Abilityas a retest against any attempt tograb, strikeorinjureyouphysically.)
 
 ## DRIVE
 
-MostadultshaveatleastsomefamiliaritywithmodernvehiclesbutthisAbility goesbeyond thebasics.You arean adept driver capable of tailing andavoiding tails, avoiding collisions andusingyourvehicle as aweapon.These actions oftenrequirea Physical orMental Challenge.Factors influencing difficulty could includevehicle type,road conditions and the sort of stunt desired.
+Mostadultshaveatleastsomefamiliaritywithmodernvehiclesbutthis Ability goesbeyond the basics.You are an adept driver capable of tailing and avoiding tails, avoiding collisions and usingyourvehicle as aweapon.the se actions of tenrequirea Physical or Mental Challenge.Factors influencing difficulty could includevehicle type, road conditions and the sort of stunt desired. ## EMPATHY
 
-## EMPATHY
+Sensitivity tomoodsand emotionsissecondnaturetoyou.you rnatural ability toreadothersletsyouguessattheirmotivesandgivesyou someinsightintohuman behavior.Thoughyoumaynotbeabletoreadmindsorauras, you can usuallymake agooddeterminationofsomeone'sgeneralstateofmind.Empathycanbeusedwith a Social Test todetermine anindividualsparticular general mood (angry, happy, introspective, etc.), although Subterfugemaycounterthiscapability.you may alsouse the Empathy Ability for retestswith the Psychic Phenomenon of Telepathy. ## FINANCE
 
-Sensitivity tomoodsand emotionsissecondnaturetoyou.Yournatural ability toreadothersletsyouguessattheirmotivesandgivesyou someinsightintohuman behavior.Thoughyoumaynotbeabletoreadmindsorauras,youcanusuallymake agooddeterminationofsomeone'sgeneralstateofmind.Empathycanbeusedwith a SocialTest todetermine anindividualsparticular general mood (angry,happy, introspective,etc.),althoughSubterfugemaycounterthiscapability.Youmay alsouse the EmpathyAbility forretestswith thePsychicPhenomenon of Telepathy.
+Moneytalksandyouareluntnitslanguage.oucanfollowmoneytrails, erorm and verifyaccountingtasksandunderstandsuchconceptsasnvestmentbuyoutsandh like.The difficultyforthe Mental Challengenecessarytoperform the setasksdependson the precautions that the subject takes, the amount of money in question and the availabilityofinformation.you are capableoftakingcareofyourownmoney, and you have $250 per level of this Ability to spend freely during each game session. ## FIREARMS you are familiarwith a range of guns and projectileweapons.The most common useof this Abilityisincombat, but a Storytellercanallowyou toattempt a Mental Challengetoperform other functions.You not only understandhow to operate firearms, but you can alsocareforthem, repairthem and possiblyevenmakeminor alterations.with the Firearms Ability, you maychoosetouse Mental Traitsinstead of Physical Traits during a challenge inwhichyou are using a firearm. ## HISTORY
 
-## FINANCE
-
-Moneytalksandyouareluntnitslanguage.oucanfollowmoneytrails,erorm andverifyaccountingtasksandunderstandsuchconceptsasnvestmentbuyoutsandh like.The difficultyfortheMentalChallengenecessarytoperform thesetasksdependson the precautions that the subject takes,the amount of money in question and the availabilityofinformation.Youarecapableoftakingcareofyourownmoney,andyouhave $250 per level of this Ability to spend freely during each game session.
-
-## FIREARMS
-
-Youarefamiliarwith a range of guns andprojectileweapons.The most common useof thisAbilityisincombat,butaStorytellercanallowyou toattempt aMental Challengetoperform other functions.You notonly understandhow to operate firearms,butyoucanalsocareforthem,repairthem andpossiblyevenmakeminor alterations.WiththeFirearmsAbility,youmaychoosetouseMentalTraitsinstead of Physical Traits during a challenge inwhichyou are using a firearm.
-
-## HISTORY
-
-You'veabody ofknowledgeregardingplacesandevents outsideofyour specific experience.Whetherseekinginformationabout theEdoperiodof Japan or thehabits of the ancient Greeks,you can dig up or remember all manner of recorded history. UsingHistory,youcantrace thecourse of civilizations and important events,and perhapsspeculate astotheirimportanceinthe occultworld.Characterswithseveral levelsof Historymaywellgetglimpsesintothehiddeninfluencesof thesupernatural on the course of thepast.History is often used in conjunction with a Mental Challenge,with a difficulty determinedby theStorytellerbasedon the obscurity, complexity and thoroughness of the information a character desires.
-
-## Character Creation
+You'veabody of knowledgeregardingplacesandevents outsideofyour specific experience.Whetherseekinginformationabout the Edoperiodof Japan or the habits of the ancient Greeks, you can dig up or remember all manner of recorded history. Using History, you can trace the course of civilizations and important events, and perhapsspeculate astotheirimportanceinthe occultworld.Characterswithseveral levelsof Historymaywellgetglimpsesintothehiddeninfluencesof the supernatural on the course of the past.History is of ten used in conjunction with a Mental Challenge, with a difficulty determinedby the Storytellerbasedon the obscurity, complexity and thoroughness of the information a character desires. ## Character Creation
 
 ## INTIMIDATION
 
-You scare people.A lot.Whether by cracking your knuckles and making threatening gesturesor just mentioning yourupstate cousin whosemiddle name is "the"(as in"Vinne the Shark,""Tommy the Mallet,"and so on),you know how to securecooperationthroughcoercion.Whenpersuasionfails,youcanoftengetthe... uncooperative...to seethebenefits of compliance.
+You scare people.A lot.Whether by cracking you r knuckles and making threatening gesturesor just mentioning you rupstate cousin who semiddle name is "the"(as in"Vinne the Shark,""Tommy the Mallet,"and so on), you know how to securecooperationthroughcoercion.when persuasionfails, you can oftengetthe... uncooperative...to seethebenefits of compliance. not e that this Abilityisn'tthesameasthe Torture Ability.Using Tortureletsyou getsomethingby hurting someone.Intimidationletsyouget somethingby threatening to hurt someone. ## INVESTIGATION you possessthelearnedskillsofadiligent investigator.you knowhowtolocate evidence and performbasicanalysis.with sufficientexpertise, you can conducta propercriminalinvestigation, deduce acriminal'smodusoperandus and reconstruct a crime scene.By succeeding at a Mental Challenge, you can tell if a person is carrying a concealedweaponor object.When dealing with plots, you may also requesta Mental Challenge againsta Storytellertoseeif you have overlooked any clues.the Storyteller should not letuseof this Ability substituteforyour own thinking, but can of fer clues when you are stumped. ## LAW
 
-Note that thisAbilityisn'tthesameastheTortureAbility.UsingTortureletsyou getsomethingby hurting someone.Intimidationletsyouget somethingby threatening to hurt someone.
+This is ameasureof how well you understand the legal system inwhichyou are entangled.you can usethe Law Abilitytowriteupbindingcontracts, defendclients and know the rightsofall parties involved ina dispute.The difficulty of the Mental Challenges necessary to accomplish the se tasks depends on factors like the prece dentsforandseverityof the crime, not tomentionlegalcomplexityofthesubject or legalactiondesired. ## LEADERSHIP
 
-## INVESTIGATION
-
-Youpossessthelearnedskillsofadiligent investigator.Youknowhowtolocate evidence andperformbasicanalysis.Withsufficientexpertise,you canconducta propercriminalinvestigation,deduce acriminal'smodusoperandus andreconstruct a crime scene.By succeeding at a Mental Challenge,you can tell if a person is carrying a concealedweaponor object.When dealing with plots,you may also requestaMental Challenge againstaStorytellertoseeif youhave overlooked any clues.TheStoryteller shouldnotletuseof thisAbility substituteforyour own thinking,but can offer clues when you are stumped.
-
-## LAW
-
-This is ameasureof howwell youunderstand the legal system inwhichyou are entangled.YoucanusetheLawAbilitytowriteupbindingcontracts,defendclients and know therightsofall parties involved ina dispute.The difficulty of theMental Challenges necessary to accomplish these tasks depends on factors like theprece dentsforandseverityof thecrime,nottomentionlegalcomplexityofthesubject orlegalactiondesired.
-
-## LEADERSHIP
-
-You have the gift of influencing and inspiring others-a function of confidence,bearingandaprofoundunderstandingofwhatmotivatesothers.After defeating a subject inaSocial Challenge,youmay use thisAbility tocausehim to perform areasonabletaskforyou.Subjectsmustfirstbe underyourcommand or servingasyour subordinates.Examples include a chiefof police andhisofficers,or a teacher and her students.Theserequestsmaynot endanger thesubject orviolate the subject's Nature.
-
-## LINGUISTICS
-
-Youhavereceivedtutelagein one ormore languages otherthanyournative tongue.Theselanguages are typically commonnational languages or local dialects, but they can vary to encompass dead or forgotten tongues.You must specify the languagewhenyou choose theLinguisticsAbility,andyoumay not changeit.Each level canrpresentanndividuallanguageorif asigned thsameanguager than once,a particularfluencywith that singlelanguage.This skill allowsyou and anyonewhoalsoknowsthelanguagetospeakrelativelyprivately.Furthermoreyou can translatewritten text inone of the languagesyouknow.Translationmayormay notrequirea Mental Challenge,dependingontheclarityof the text.
-
-Laws of the Hhunt
+You have the gift of influencing and inspiring others-a function of confidence, bearingandaprofoundunderstandingofwhatmotivatesothers.After defeating a subject ina Social Challenge, you may use this Ability tocausehim to perform are asonabletaskforyou.Subjectsmustfirstbe underyourcommand or servingasyour subordinates.Examples include a chiefof police and hisofficers, or a teacher and her students.the serequestsmaynot endanger the subject or violate the subject's Nature. ## LINGUISTICS you have receivedtutelagein one or more languages otherthanyournative tongue.the selanguages are typically commonnational languages or local dialects, but they can vary to encompass dead or for gotten tongues.You must specify the languagewhenyou choose the Linguistics Ability, and you may not changeit.Each level can rpresentanndividuallanguageorif asigned thsameanguager than once, a particularfluencywith that singlelanguage.This skill all owsyou and anyonewhoalsoknowsthelanguagetospeakrelativelyprivately.Furthermoreyou can translatewritten text inone of the languagesyouknow.Translationmayormay not requirea Mental Challenge, dependingontheclarityof the text. Laws of the Hhunt
 
 ## LORE
 
-You have gained some insideknowledge about a type of supernatural creature,suchasvampires,werewolves,wraithsorchangelings.Youknowwhat is true andwhat is folklore concerning their strengths andweaknesses.You even have someknowledge of their society including any divisionswithin it.You must specifywhatcreaturetypethisLoreconcernsatcharactercreation.Havingit more thanonceallowsknowledgeofmorethan one type ofcreature,ormorein-depth knowledge of a particular supernatural entity.Specific types of Lore include,but arenotlimitedto,VampireLoreWerewolf Lore,WraithLoreFarieLorepiritor andInfernalLore.
+You have gained some insideknowledge about a type of supernatural creature, suchasvampires, were wolves, wraithsorchangelings.you knowwhat is true and what is folklore concerning the ir strengths and weaknesses.You even have someknowledge of the ir society including any divisionswithin it.You must specifywhatcreaturetypethis Loreconcernsatcharactercreation.Havingit more than onceallowsknowledgeofmorethan one type of creature, or morein-depth knowledge of a particular supernatural entity.Specific types of Lore include, but are not limitedto, Vampire Lore were wolf Lore, Wraith Lore Farie Lorepiritor and Infernal Lore. A characterdoesnot need to take a Lore Abilityforknowledge that shecould reasonably have dueto personal capabilities.Thus, any vampire other than the rankestneonate do esnotneed Vampire Loreinorder toknow that sunlightis dangerous and that blood is necessaryforsurvival.Similarly, awerewolfwhohas already undergone a Rite of Passage knows the names of the various changing for ms, auspices and tribeswithout were wolf Lore.This is not an excuse to come upwithreasonswhy you r character should have Lore Abilitiesforfree;itsimply indicates that vampires, were wolves and the like have no need to study Lore that relates to the ir own species, unless they desire particularly esotericknowledge. Mortals generally have to learn supernatural Lorethe hardway. ## MEDICINE
 
-A characterdoesnot need to take a LoreAbilityforknowledge that shecould reasonably have dueto personal capabilities.Thus,any vampire other than the rankestneonate doesnotneedVampire Loreinorder toknow that sunlightis dangerous andthatblood isnecessaryforsurvival.Similarly,awerewolfwhohas already undergone a Rite ofPassage knows the names of the various changing forms,auspices and tribeswithoutWerewolf Lore.This isnot an excuse to come upwithreasonswhy your character should haveLoreAbilitiesforfree;itsimply indicates thatvampires,werewolves and thelike have no need to studyLore that relates to their own species,unless they desire particularly esotericknowledge. Mortals generally have to learn supernatural Lorethe hardway.
+This Ability represents you r skill at treating the injuries, diseases and various ailments that humans are all subject to.with a Mental Challenge, you can aidapatienttoamorecertainrecoveryfrom awound, or easehispain.The severityandnatureof the damage, equipmentatyourdisposalandanyassistance or distractions influences the difficulty of the challenge.Other uses of this Ability includeforensic information, diagnosis and pharmaceutical knowledge. Of course, knowledgeofhealingalsoimplies a knowledge of what is harmful to the humanbody aswell. ## MEDITATION
 
-## MEDICINE
+You are abletocenteryour thoughts, calmyouremotions, controlyourmind and relaxyourbody.this is averypersonal Abilityforwhichyoudevelopyourown technique.Itisuseful for reachingthestateofmindnecessaryforusing Psychic Phenomenon and for regaining True Faith Traits.A Storyteller may all owa character toregain will power or True Faith Traitsbymeditatingout of playfor sometime(generallyanhour)and makinga Simple Testforeach levelof Meditation Ability, with each success or tie returning the will power or Faith Trait.The Meditation Traits usedwouldbe expendedin such an exercise. ## MELEE
 
-This Ability represents your skill at treating the injuries, diseases and various ailments that humans areall subject to.WithaMental Challenge,you can aidapatienttoamorecertainrecoveryfrom awound,oreasehispain.The severityandnatureof thedamage,equipmentatyourdisposalandanyassistance or distractions influences the difficulty of the challenge.Other uses of this Ability includeforensic information,diagnosis andpharmaceutical knowledge. Of course,knowledgeofhealingalsoimplies a knowledge of what is harmful to thehumanbody aswell.
+You possess a degree of training or experience in armed combat.You are proficientintheuseofavarietyofweapons, from brokenbottlestoswords.you are alsoabletocareforyourweaponproperlypreventingrust and damage.you mayuse the Melee Ability for retests in conjunction with armedcombat, and to defend against hand-to-hand or thrown weapon attacks when armed. ## Character Creation
 
-## MEDITATION
+## OCCULT this Abilityis acatch-all dealing with local folklore, arcane texts, ancient legends and most other for ms of supernatural facts and hearsay.This understandingofthemoresinister sideoftheworldincludesknowledgeofcurses, rituals, voudou, for tunetelling, magicandmysticism, and itcontainsmuchthatisonly speculation and fantasy.The Occult Abilityisoftenusedwithretestsfor Sorcery, as a skilled occultist castsspells and ritualswitha greater degree of success. ## ANOTEONTHEOCCULTABILITY
 
-You areabletocenteryour thoughts,calmyouremotions,controlyourmind andrelaxyourbody.Thisisaverypersonal Abilityforwhichyoudevelopyourown technique.Itisuseful forreachingthestateofmindnecessaryforusingPsychic Phenomenon and for regaining True Faith Traits.A Storyteller may allowa character toregainWillpower orTrueFaithTraitsbymeditatingout ofplayfor sometime(generallyanhour)andmakingaSimpleTestforeach levelofMeditation Ability,with each success or tie returning the Willpower or Faith Trait.The MeditationTraits usedwouldbe expendedin such an exercise.
+Unlike Occult, specific Lore Abilitiesreflectreliableknowledgeabouta particular supernatural creature and itssociety.The Occult Ability, on the otherhand, revealsinformationbasedasmuchinfolkloreasinreality, such as the factthatwerewolvescanabideneithersilvernorwolfsbane, and that vampiresdiefrombothsunlight and a stake throughtheheart. It can be easy for players of this gameto for get justhow little the ir charactersmightknowaboutthesupernatural, and this differencebetween Occultand Loredoesmuchtohelpremindthem.Inshort, the Occult Ability is rarely as effective or precise asa specific Lore, but do es give general information about awidevariety of topics. ## PERFORMANCE you have the gift tomakeyour own or iginalcreations and/or express those creationsto you r peers.A Mental Challenge determines the genius of you r creativity, and a Social Challengedeterminesthepowerwithwhichyouconvey it.when you taketheskill, you must declareyour specialty, some examplesof which nludedancingpaintingoetryomposingmusicorlayingasingle of instrument. ## REPAIR
 
-## MELEE
+You possess a working understanding of what makes things tick, covering everything from advanced electronicsto shoring up a saggingbeam.With time, tools and supplies, you can fix or slightly alter most of the trappings of modern society.this knowledge also all owsyou to excel at sabotage.Usingthis Ability usually calls for a Mental Challenge, the difficulty of which depends on such factorsastheitemscomplexity, toolsandsuppliesavailable, extentofdamageand timespent on the repairs. ## SCIENCE
 
-You possess a degree of training or experience in armed combat.You are proficientintheuseofavarietyofweapons,frombrokenbottlestoswords.Youare alsoabletocareforyourweaponproperlypreventingrust anddamage.Youmayuse the MeleeAbility forretests in conjunction with armedcombat,andto defend against hand-to-hand or thrown weapon attacks when armed.
-
-## Character Creation
-
-## OCCULT
-
-ThisAbilityis acatch-all dealing with local folklore,arcane texts,ancient legends andmost other forms of supernatural facts and hearsay.This understandingofthemoresinister sideoftheworldincludesknowledgeofcurses,rituals, voudou,fortunetelling,magicandmysticism,anditcontainsmuchthatisonly speculation andfantasy.The OccultAbilityisoftenusedwithretestsforSorcery, as a skilled occultist castsspells andritualswitha greater degree of success.
-
-## ANOTEONTHEOCCULTABILITY
-
-Unlike Occult,specificLoreAbilitiesreflectreliableknowledgeabouta particular supernatural creature and itssociety.The OccultAbility,on the otherhand,revealsinformationbasedasmuchinfolkloreasinreality,such as thefactthatwerewolvescanabideneithersilvernorwolfsbane,andthat vampiresdiefrombothsunlight anda stake throughtheheart.
-
-It can be easy for players of thisgameto forget justhow little their charactersmightknowaboutthesupernatural,andthisdifferencebetween OccultandLoredoesmuchtohelpremindthem.Inshort,theOccultAbility israrely as effective or precise asa specificLore,but does give general information about awidevariety oftopics.
-
-## PERFORMANCE
-
-Youhave thegift tomakeyour own originalcreations and/orexpress those creationsto your peers.A Mental Challenge determines the genius ofyour creativity,andaSocial Challengedeterminesthepowerwithwhichyouconvey it.Whenyou taketheskill,you must declareyour specialty,some examplesof whichnludedancingpaintingoetryomposingmusicorlayingasingle ofinstrument.
-
-## REPAIR
-
-You possess a working understanding ofwhat makes things tick,covering everything from advanced electronicsto shoring up a saggingbeam.With time, tools and supplies,you can fix or slightly alter most of the trappings ofmodern society.Thisknowledge also allowsyou to excel at sabotage.UsingthisAbility usually calls fora Mental Challenge,the difficulty ofwhich depends on such factorsastheitemscomplexity,toolsandsuppliesavailable,extentofdamageand timespent on therepairs.
-
-## SCIENCE
-
-You haveadegreeoffactualandpracticalexpertiseinasinglefieldof thetrue sciences,such as biology,physics or chemistry.This Ability measures not only theoretical knowledge but alsohowwell you canput it topractical use.You may identifyrprtifoufldormxprimntsfbricatitmsringaut results and accessinformationaplayercouldnotnormallyutilize.Allbutthemost trivial usesofthisAbilityrequire aMental Challenge.Thedifficulty dependson resourcesavailable（equipment,data andsoon),complexityofthetaskandtime allocated toit.Youmustchoose a specificfield of study.
-
-Laws of the Hhunt
+You have adegreeoffactualandpracticalexpertiseinasinglefieldof the true sciences, such as biology, physics or chemistry.This Ability measures not only the or etical knowledge but alsohowwell you can put it topractical use.You may identifyrprtifoufldormxprimntsfbricatitmsringaut results and accessinformationaplayercouldnotnormallyutilize.all but the m ost trivial usesofthis Abilityrequire a Mental Challenge.the difficulty dependson resourcesavailable（equipment, data and soon), complexityofthetaskandtime all ocated toit.you mustchoose a specificfield of study. Laws of the Hhunt
 
 ## SCROUNGE
 
-Scrounge enablesyou toproduceitems throughconnections,wits and ingenuity. Many individualswho lack thewealth topurchase thethings they desireorneed developthisAbility instead.Materials acquiredwithScroungearen't always brand new,arerarelyexactlyrightandoftenrequiresometimetoacquirebutthisAbility can sometimesworkwhere Financeor outright theft fails.AMentalor Social ChallengeisnecessarytouseScrounge.Somefactors thatinfluence thedifficultyofthe challenge includetherarity andvalueof an item andlocal supply and demand.
+Scrounge enablesyou toproduceitems throughconnections, wits and ingenuity. Many individualswho lack the wealth topurchase the things they desireorneed developthis Ability instead.Materials acquiredwith Scroungearen't always brand new, are rarelyexactlyrightandoftenrequiresometimetoacquirebutthis Ability can sometimesworkwhere Financeor outright the ft fails.AMentalor Social Challengeisnecessarytouse Scrounge.Somefactors that influence the difficultyofthe challenge includetherarity and valueof an item and local supply and demand. ## SECURITY
 
-## SECURITY
+You have a degree of experiencedknowledge of the variety of wayspeople defend and protect things.not onlycanyoucounterexistingsecurity, suchaslocks, alarms and guards, but you can alsodeterminethebestwaytosecureitems and are as. Otherusesincludebreaking-and-ntering, infiltration, safecrackingandlockpicking. Almost all applications of the Security Abilityrequire a Mental Challengedeter mined by the complexity of the task, the thoroughness of the defenses, you r equipment and the length of timerequired. ## STREETWISE
 
-You have a degree ofexperiencedknowledge of thevariety ofwayspeople defend andprotect things.Notonlycanyoucounterexistingsecurity,suchaslocks, alarms andguards,butyoucanalsodeterminethebestwaytosecureitems andareas. Otherusesincludebreaking-and-ntering,infiltration,safecrackingandlockpicking. Almost all applications of theSecurityAbilityrequire aMental Challengedeter mined by the complexity of the task,the thoroughness of the defenses,your equipment and the length of timerequired.
+You have a feelfor the street.you knowhowtouncover its secrets, how to survive out the reand how touse the network of personalities it houses.you can get informationoneventsonthe streets, dealwithgangsand the homeless and survive (if somewhat squalidly)with outan apparent income.Some usesof Streetwiserequire a Social Challenge that is influenced by such things as the composition of the local streetcommunity and the current environment onthestreet. ## STEALTH
 
-## STREETWISE
+You are abletosneak aboutorhidewithoutbeingseenor heard.With appropriate coverandcareyoucanconcealyourself from detectionifyouonlymovewhennobody can seeyouorremainunmovingandbehindpartialcoverwhilewithinsomeone'svisual range.A Mental Challenge is required toremain unnoticed by another person.Stealth can be very useful when engaged in a hunt, both for stalking and escaping. ## SUBTERFUGE
 
-You have a feelfor the street.Youknowhowtouncover its secrets,how to survive out thereand howtouse the network of personalities it houses.Youcan get informationoneventsonthe streets,dealwithgangsand thehomeless andsurvive (if somewhat squalidly)withoutan apparent income.Some usesofStreetwiserequire a Social Challenge that is influenced by such things as thecomposition of thelocal streetcommunity andthecurrent environment onthestreet.
-
-## STEALTH
-
-You areabletosneak aboutorhidewithoutbeingseenor heard.With appropriate coverandcareyoucanconcealyourself fromdetectionifyouonlymovewhennobody canseeyouorremainunmovingandbehindpartialcoverwhilewithinsomeone'svisual range.A Mental Challenge isrequired toremain unnoticed by another person.Stealth can be very useful when engaged in a hunt,both for stalking and escaping.
-
-## SUBTERFUGE
-
-Subterfugeisan artof deceptionand intrigue thatreliesona socialbackdropto work.Whenparticipatingna social settingorconversationwithasubject,youcan attempt todrawinformation outofhim through trickery andcareful probing.A successfuluseofSubterfugecanrevealinformationsuchasone'sname,nationality, NegativeTraits,friendsandenemies.Thefirstrequirementisthatyougetthetargetto saysomethingdealingwiththedesiredknowledge,perhapsbyenteringaconversation about foreignculture tofindout a character'snationality.Ifyou canaccomplishthis, thenyoumayproposeyourruequestionandinitiataSocialChallngelfyouwinour targetmust forfeittheinformation.TousetheAbilityagain,youmustonce againlure him intoa conversation.Furthermore,Subterfuge may not reveal more than one NegativeTraitpersessionanditmaybeusedtodefendagainstotherswithSubterfuge. If successfulinadefensewithSubterfuge,youcouldevenlet slipfalseinformation.
-
-Conversely,youmayalsousetheSubterfugeAbilitytoconcealinformationorlie withoutdetection.
-
-## Character Creation
+Subterfugeisan artof deceptionand intrigue that reliesona socialbackdropto work.when participatingna social settingorconversationwithasubject, you can attempt todrawinformation outofhim through trickery and careful probing.A successfuluseof Subterfugecanrevealinformationsuchasone'sname, nationality, Negative Traits, friendsandenemies.the firstrequirementisthatyougetthetargetto saysomethingdealingwiththedesiredknowledge, perhapsbyenteringaconversation about for eignculture tofindout a character'snationality.Ifyou can accomplishthis, the nyoumayproposeyourruequestionandinitiata Social Challngelfyouwinour targetmust for feittheinformation.Tousethe Abilityagain, you mustonce againlure him into a conversation.Furthermore, Subterfuge may not reveal more than one Negative Traitpersessionanditmaybeusedtodefendagainstotherswith Subterfuge. If successfulinadefensewith Subterfuge, you could evenlet slipfalseinformation. Conversely, you mayalsousethe Subterfuge Abilitytoconcealinformationorlie with outdetection. ## Character Creation
 
 ## SURVIVAL
 
-You havetheknowledgeandtrainingtofindfoodwaterandshelterinavariety ofwilderness settings.EachMental or Physical Challenge allowsyou to provide yourselforanotherlivingcreaturewiththebarenecessitiesforoneday.Youcanalso use thisAbility to tracksomeoneinawildernesssetting;theNarratorsetsthenature and difficulty of this challenge.Important factors in aSurvival challenge are abundanceorscarcityofresourcestimeoftheyear,equipmentand thetypeofwilerness.
+You have the knowledgeandtrainingtofindfoodwaterandshelterinavariety of wilderness settings.Each Mental or Physical Challenge all owsyou to provide you rselforanotherlivingcreaturewiththebarenecessitiesforoneday.you can also use this Ability to tracksomeoneinawildernesssetting;the Narratorsetsthenature and difficulty of this challenge.Important factors in a Survival challenge are abundanceorscarcityofresourcestimeoftheyear, equipmentand the typeofwilerness. ## the OLOGY
 
-## THEOLOGY
+The texts and worksof variousreligionsarewell-known toyou, and you recognize ritualsandobservancesfromavarietyoffaiths, evenifyoudonotpracticethem you rself with asuccessful Mental Challenge, you mayrecognizethetrappingsofa givenreligion, and identifythefaithinquestion.you mayalsodiscernthepurposeof a specificritualifyouwatchit.the ologyisalsousedforretestswith the urgy, asyou perform the rites of you rwhite magic in a fashion pleasing to the Divine.how ever, the ology can not beused inconjunctionwithtests of True Faith, as inner devotion, not outwardknowledge or ceremony, drivesthe strengthof True Faith. ## THROWING
 
-The texts andworksof variousreligionsarewell-known toyou,andyourecognize ritualsandobservancesfromavarietyoffaiths,evenifyoudonotpracticethem yourselfWithasuccessfulMental Challenge,youmayrecognizethetrappingsofa givenreligion,andidentifythefaithinquestion.Youmayalsodiscernthepurposeof a specificritualifyouwatchit.TheologyisalsousedforretestswithTheurgy,asyou perform therites ofyourwhite magic in a fashion pleasing to theDivine.However, Theology cannot beused inconjunctionwithtests ofTrueFaith,as inner devotion, notoutwardknowledge orceremony,drivesthe strengthofTrueFaith.
+You've spenta lotof timeas eitherahard-core survivalistwith a throwing ax, a wannabe ninja with shurikens, or you just spent far toomuchfree time playing baseball.You have the techniquesof throwingdownpat, and you can hityour targets with easealmosteverytime.Whilemostpeopledon'tevenknowhowtoholda throwingknifeyoureavirtuosowithanysortofthrownweapon, from aspeartoa rock.You can use Mental Traits instead of Physical Traitswhen throwing a weapon, and you may use this Ability to retestwith thrown objects. ## TORTURE
 
-## THROWING
+You'repracticedinthemethodsofinfictingpain.with sometoolsandsometimeyou can extractinformationandcooperationfromaproperlyrestrainedsubject, all with outdoing permanent harm (should you so desire）.You can make a Social Challenge againstyour victim's Physical Traitsinordertogarnervaluableinformationorsecrets, givenenoughtime. you maychoosewhether to actuallyinflictdamagewithyourministrations;characters with outthis Abilitywhoengageintorture alwaysinjurethevictimduringthecourseof the questioning, duetolackoffinesse Useofthe Torture Abilitygenerally takesabouthalf an hour toelicittheanswers toanyonequestioninanydetail(or tomaketheattempt), though individualswithahighdegreeof will powermayresistlongerspendinga will power Trait all owsthevictimto automaticallywin oneof the Torturechallenges.the useof Tortuwreis. averygoodwayforahuntertolose Humanitywithextremerapidity. ## CHOOSINGINFLUENCE
 
-You've spenta lotof timeas eitherahard-core survivalistwith a throwing ax,a wannabe ninja with shurikens,oryou just spent far toomuchfree time playing baseball.You have thetechniquesof throwingdownpat,andyoucanhityour targets witheasealmosteverytime.Whilemostpeopledon'tevenknowhowtoholda throwingknifeyoureavirtuosowithanysortofthrownweapon,fromaspeartoa rock.You can useMentalTraits instead of Physical Traitswhen throwing a weapon, andyou may use thisAbility to retestwith thrown objects.
+Friendsin the workplace, contacts on the street and mutual all iesinafieldof business all providesmallamountsofinfluenceinmortalcivilization.with Influence, a huntergathersinormationabout, and sometimesexertscontrolover, aparticular are aofsociety. you rhunteronlyhasoneareaof Influencebutyoucanselectfromanumberof differentareas.Additionallyyoumaygarnerfurther Influenceasyoucementyour control over a particular are a or gathernewcontacts. Laws of the Hhunt
 
-## TORTURE
+Influenceisthemethodbywhichacharactercan exert controloverthedaily affairs of normalmortalsociety.ltmay taketheform of contacts, all ies, or direct control over the appropriate agency.The Influences that follow represent a fair selection of mortalinstitutions, but somecharacterswith a widereachmaypossess higher levels of Influence, as described in Laws of the Night and Laws of Elysium. ## USINGINFLUENCE
 
-You'repracticedinthemethodsofinfictingpain.Withsometoolsandsometimeyou canextractinformationandcooperationfromaproperlyrestrainedsubject,allwithoutdoing permanent harm (shouldyou so desire）.You canmake aSocial Challenge againstyour victim'sPhysicalTraitsinordertogarnervaluableinformationorsecrets,givenenoughtime. Youmaychoosewhether to actuallyinflictdamagewithyourministrations;characters withoutthisAbilitywhoengageintorture alwaysinjurethevictimduringthecourseof the questioning,duetolackoffinesseUseoftheTortureAbilitygenerally takesabouthalf an hour toelicittheanswers toanyonequestioninanydetail(ortomaketheattempt),though individualswithahighdegreeofWillpowermayresistlongerspendingaWillpowerTrait allowsthevictimto automaticallywin oneof theTorturechallenges.TheuseofTortuwreis. averygoodwayforahuntertoloseHumanitywithextremerapidity.
+Touse Influence, you should explaintothe Narratorwhat sortof effectyou wishtocreatewithyour Influence.the Narrator the ndecidesthe Traitcost, the timeinvolved(bothreal and in-game)and any testsrequired to achievethe Influenceeffect.Influence Traitsused this wayaretemporarily considered tohave been expended and are not recovered until the next session.The effects of using Influence can beinstantaneous and brief, or slow to manifest and permanent, depending on the nature of the manipulation and the degree of power the characterwields. The difficulty of a task is set by a Narrator, and it equals the number of Influence Traits that must be expended to accomplish the task.A given chore's difficulty can be subject to sudden change, depending on circumstance.The suggestedguidelinelisted alongwith each are a of Influencecanchangedramaticallybetween chroniclesorevenbetweensessions.After all, you maynotbe the onlyperson attemptingto Influencesomething. In practice, the useof Influenceisnever instantaneousandrarelyexpedient. Whileachaactermaybeableto, say, conemnanybuildingnthecity, itwill not be torn do wn that night.For sake of gameflow, a Narrator may all ow trivial uses of Influence to only take half an hour.Majormanipulations, on the other hand, can become the center of ongoingplotsrequiring several sessions tobring to fruition. Sometimes a Narratorwill require achallenge of some sort torepresentthe uncertainty or addeddifficultyinvolvedwhenexercising Influence.Someusesof Influencemaynotactuallycost Influence Traitstouse, but ratherrequirethatthe character simply possess a certain level of the Influence in question. The guidelines belowby nomeans limit the number of Influence Traits that can bespent at one time or the degree of change a character maybring about.they are merely an advisorymeasure tohelp Narrators adjudicate the costsof certain actions. Actions followed by an asterisk (*) are ones that can generally be accom plishedwithout expending an Influence Trait. ## LOANINGINFLUENCE
 
-## CHOOSINGINFLUENCE
+Characterscan trade Influenceswith each othermuch like exchangingpossessions.the se tradesmaybepermanentor temporary.Inthecaseof permanent trades, the oldownererasesthe Trait from hissheetand turnsoverthe appropriate Influence card(if you rchronicleusesthese) tothenewowner.The newownerthenrecordsher newly acquired Influence Trait onhercharacter sheet.Temporary trades of Influence occurwhensomeoneismerelydoingafavororloaningher Influencetosomeone else. In this case, the owner do esnoterasethe Trait, but insteadmakesanote that itisno longer in her possession.The holderof the Influence Traitmay useit immediately or holdontotoituntilshefeelssheneedsit.how ever, the or iginalownerofthe Influence Traitmaynotregainthe Traituntil the current holderexpendsorvoluntarilyreturns it.Somechroniclesdictatethat the Traitrevertstoitsoriginalowner after acertain time.Agoodruleof thumbistosaythatonemonth is the m aximum duration of any loanof Influence.If you rchronicle'ssessions are scheduled lessfrequently than once a month, the Narrator(s) should probably expand this windowof opportunity.Any exchange of Influence Traits requires the presence and assistance of a Narrator. ## CONFLICTINGINFLUENCES
 
-Friendsin theworkplace,contacts on thestreet andmutual alliesinafieldof business all providesmallamountsofinfluenceinmortalcivilization.WithInfluence, a huntergathersinormationabout,andsometimesexertscontrolover,aparticular areaofsociety.
+Sometimes characters maywish to try to counteract the Influence of other characters.n suchcases, it generallycosts one Trait per Trait beingcountered The character will ing to expend the most Influence Traits(assuming she has the m to spend) achieves her goal.All Traits used in this sort of conflict are considered expended. ## BUREAUCRACY
 
-Yourhunteronlyhasoneareaof Influencebutyoucanselectfromanumberof differentareas.AdditionallyyoumaygarnerfurtherInfluenceasyoucementyour control over a particular area or gathernewcontacts.
-
-Laws of the Hhunt
-
-Influenceisthemethodbywhichacharactercan exert controloverthedaily affairs ofnormalmortalsociety.ltmay taketheform ofcontacts,allies,or direct control over the appropriate agency.The Influences that follow represent a fair selection of mortalinstitutions,but somecharacterswith a widereachmaypossess higher levels of Influence,as described in Laws of theNight and Laws of Elysium.
-
-## USINGINFLUENCE
-
-TouseInfluence,youshouldexplaintotheNarratorwhat sortof effectyou wishtocreatewithyour Influence.TheNarrator thendecidestheTraitcost,the timeinvolved(bothreal and in-game)andany testsrequired to achievethe Influenceeffect.InfluenceTraitsused thiswayaretemporarily considered tohave been expended and are not recovered until the next session.The effects of using Influence can beinstantaneous and brief,or slow to manifest andpermanent, depending on the nature of themanipulation and the degree ofpower the characterwields.
-
-The difficulty of a task is set by a Narrator, and it equals the number of Influence Traits that must be expended to accomplish the task.A given chore's difficulty can be subject to sudden change,depending on circumstance.The suggestedguidelinelisted alongwith each area of Influencecanchangedramaticallybetween chroniclesorevenbetweensessions.After all,you maynotbe the onlyperson attemptingtoInfluencesomething.
-
-In practice,theuseof Influenceisnever instantaneousandrarelyexpedient. Whileachaactermaybeableto,say,conemnanybuildingnthecity,itwill not be torn down that night.For sake of gameflow,a Narrator may allow trivial uses of Influence to only take half an hour.Majormanipulations,on the other hand,can become thecenter of ongoingplotsrequiring several sessions tobring to fruition.
-
-Sometimes aNarratorwill require achallenge of some sort torepresentthe uncertainty oraddeddifficultyinvolvedwhenexercisingInfluence.Someusesof InfluencemaynotactuallycostInfluenceTraitstouse,butratherrequirethatthe character simply possess a certain level of the Influence in question.
-
-The guidelines belowby nomeans limit the number of InfluenceTraits that can bespent at one time or the degree of change a character maybring about.They are merely an advisorymeasure tohelpNarrators adjudicate thecostsof certain actions.
-
-Actions followed by an asterisk (*) are ones that can generally be accom plishedwithout expending an Influence Trait.
-
-## LOANINGINFLUENCE
-
-Characterscan tradeInfluenceswith each othermuch like exchangingpossessions.These tradesmaybepermanentor temporary.Inthecaseof permanent trades, theoldownererasestheTrait fromhissheetand turnsoverthe appropriateInfluence card(if yourchronicleusesthese) tothenewowner.The newownerthenrecordsher newly acquired InfluenceTrait onhercharacter sheet.Temporary trades of Influence occurwhensomeoneismerelydoingafavororloaningherInfluencetosomeone else. In thiscase,theowner doesnoterasetheTrait,butinsteadmakesanote thatitisno longer in her possession.The holderof the InfluenceTraitmay useit immediately or holdontotoituntilshefeelssheneedsit.However,theoriginalowneroftheInfluence TraitmaynotregaintheTraituntil thecurrent holderexpendsorvoluntarilyreturns
-
-<!-- image -->
-
-it.Somechroniclesdictatethat theTraitrevertstoitsoriginalowner after acertain time.Agoodruleof thumbistosaythatonemonth isthemaximum duration of any loanof Influence.If yourchronicle'ssessions arescheduled lessfrequently than once a month,theNarrator(s) should probably expand thiswindowof opportunity.Any exchange of InfluenceTraits requires the presence and assistance of a Narrator.
-
-## CONFLICTINGINFLUENCES
-
-Sometimes characters maywish to try to counteract the Influence of other characters.n suchcases,it generallycosts oneTrait perTrait beingcounteredThe character willing to expend the most Influence Traits(assuming she has them to spend) achieves her goal.All Traits used in this sort of conflict are considered expended.
-
-## BUREAUCRACY
-
-The organizationalaspectsof local,stateorevenfederalgovernmentfallwithin the character's sphere ofcontrol.She can bend and twist thetangle ofrules and regulations that seem necessary to run our society as she seesfit.The charactermay havecontacts orallies amonggovernmentclerks,supervisors,utilityworkersroad crews,surveyorsandnumerousothercivilservants.Imaginethehorrora vampirefeels when his estate is audited....
-
-| Cost   | Desired Effect                                          |
-|--------|---------------------------------------------------------|
-| 1      | Trace utility bills*                                    |
-| 2      | Fake abirthcertificate ordriver'slicense                |
-|        | Disconnect aresidence'sutilities                        |
-|        | Close a small road or park                              |
-|        | Getpublicaid($250)                                      |
-| 3      | Fakeaeathcertificatassortencad                          |
-|        | Close a public school for a single day                  |
-|        | Turn a singleutility on a block on or off               |
-|        | Shutdown aminorbusiness on aviolation                   |
-| 4      | Initiate a phone tap                                    |
-|        | Initiateadepartment-wideinvestigation                   |
-|        | Fakeland deeds                                          |
-| 5      | Start,stop or alter acity-wideprogram or policy         |
-|        | Shut down abigbusiness onaviolation                     |
-|        | Rezone areas                                            |
-|        | Obliteraterecordsof a person on a city and county level |
+The or ganizationalaspectsof local, stateorevenfederalgovernmentfallwithin the character's sphere of control.She can bend and twist the tangle of rules and regulations that seem necessary to run our society as she seesfit.The charactermay have contacts or all ies amonggovernmentclerks, supervisors, utilityworkersroad crews, surveyorsandnumerousothercivilservants.Imaginethehorrora vampirefeels when his estate is audited.... | Cost | Desired Effect |
+| 1 | Trace utility bills* |
+| 2 | Fake abirthcertificate or driver'slicense |
+| | Disconnect are sidence'sutilities |
+| | Close a small road or park |
+| | Getpublicaid($250) |
+| 3 | Fakeaeathcertificatassortencad |
+| | Close a public school for a single day |
+| | Turn a singleutility on a block on or of f |
+| | Shutdown aminorbusiness on aviolation |
+| 4 | Initiate a phone tap |
+| | Initiateadepartment-wideinvestigation |
+| | Fakeland deeds |
+| 5 | Start, stop or alter acity-wideprogram or policy |
+| | Shut do wn abigbusiness onaviolation |
+| | Rezone are as |
+| | Obliteraterecordsof a person on a city and county level |
 
 ## CHURCH
 
-Not evenchurchesarewithout politics andintrigueonwhich an opportunistic person may capitalize.ChurchInfluence usually onlyapplies tomainstreamfaiths. SometimesotherpracticesfallundertheOccult Influence.Contactsandalliesaffected by Chuchluncencludinistrishopistsactivistvangistsw hunters,nuns andvarious churchmembers andassistants.Obviously,thisInfluence is ofgreat use in tracking down faithful alliesfor thehunt.
+Not evenchurchesarewithout politics and intrigueonwhich an opportunistic person may capitalize.Church Influence usually onlyapplies tomainstreamfaiths. Sometimesotherpracticesfallunderthe Occult Influence.Contactsandalliesaffected by Chuchluncencludinistrishopistsactivistvangistsw hunters, nuns and various churchmembers and assistants.Obviously, this Influence is of great use in tracking do wn faithful all iesfor the hunt. ## Character Creation
 
-## Character Creation
-
-| Cost   | Desired Effect                                              |
-|--------|-------------------------------------------------------------|
-| 1      | Identifymost secularmembers of a given faithin thelocalarea |
-|        | Pass as a member of the clergy*                             |
-|        | Peruse general churchrecords(baptism,marriage,burial,etc.)  |
-| 2      | Identifyhigherchurchmembers                                 |
-|        | Trackregularmembers                                         |
-|        | Suspend laymembers                                          |
-| 3      | Open or close a single church                               |
-|        | Find the average church-associated hunter                   |
-|        | Dip into the collectionplate($250)                          |
-|        | Accesstoprivateinformation andarchivesofachurch             |
-| 4      | Discredit or suspend high-level members                     |
-|        | Manipulateregional branches                                 |
-| 5      | Organizemajorprotests                                       |
-|        | Access ancient church lore and knowledge                    |
+| Cost | Desired Effect |
+| 1 | Identifymost secularmembers of a given faithin the localarea |
+| | Pass as a member of the clergy* |
+| | Peruse general churchrecords(baptism, marriage, burial, etc.) |
+| 2 | Identifyhigherchurchmembers |
+| | Trackregularmembers |
+| | Suspend laymembers |
+| 3 | Open or close a single church |
+| | Find the average church-associated hunter |
+| | Dip into the collectionplate($250) |
+| | Accesstoprivateinformation and archivesofachurch |
+| 4 | Discredit or suspend high-level members |
+| | Manipulateregional branches |
+| 5 | or ganizemajorprotests |
+| | Access ancient church lore and knowledge |
 
 ## ESPIONAGE
 
-The shadowworldof intelligence teems with secrets,and a character with Espionage Influence is versed in this covert community.ThisInfluence can beused to gainspyingdata andequipment.Characters with therightEspionage contacts.can also get detailed information about people andtraining inobscure orrestricted abilities. Contacts and allies in the undercover world include intelligence agents,analysts, politicalliaisonscovertperatives,classifiedresearchersandmilitaryOINTELRs. Espionagegrants accesstoall sortsof hiddeninformationandspecializedgear,which can be invaluable in tracking and hunting supernatural creatures.
+The shadowworldof intelligence teems with secrets, and a character with Espionage Influence is versed in this covert community.this Influence can beused to gainspyingdata and equipment.Characters with the right Espionage contacts.can also get detailed information about people and training inobscure or restricted abilities. Contacts and all ies in the undercover world include intelligence agents, analysts, politicalliaisonscovertperatives, classifiedresearchersandmilitaryOINTELRs. Espionagegrants accesstoall sortsof hiddeninformationandspecializedgear, which can be invaluable in tracking and hunting supernatural creatures. | Cost | Desired Effect |
+| 1 | Know aboutvarious agencies* Arrange a tourof afacility |
+| | Know the names of some public intelligence employees* |
+| 2 | Getsomeone'spolicerecords |
+| | Arrange a"blackmark”onsomeone'sfederalrecords |
+| | Know some of the less-than-public intelligence employees* |
+| 3 | Get copies of an investigation report |
+| | Getbureauinformation aboutprocedures and policies |
+| | Accessminorespionageequipment, handguns, or pettycash$0) |
+| | Performminor alterationstofederalrecords |
+| 4 | Sellminorintelligence secrets toforeignpowers(and raise$5,000 ifyou avoid execution) |
+| | Know some of the secret intelligence employees* |
+| | Access Secret files or equipment |
+| | Cleanupfederalrecordsorarrangetoput someoneona Wanted list |
+| 5 | Access Top Secretfiles or equipment |
+| | Arrange a"sanction" |
+| | Knowrumors aboutprojectsbeyond Top Secretclearance* |
 
-| Cost   | Desired Effect                                                                      |
-|--------|-------------------------------------------------------------------------------------|
-| 1      | Know aboutvarious agencies* Arrange a tourof afacility                              |
-|        | Know the names of some public intelligence employees*                               |
-| 2      | Getsomeone'spolicerecords                                                           |
-|        | Arrange a"blackmark”onsomeone'sfederalrecords                                       |
-|        | Know some of the less-than-public intelligence employees*                           |
-| 3      | Get copies of an investigation report                                               |
-|        | Getbureauinformation aboutprocedures andpolicies                                    |
-|        | Accessminorespionageequipment,handguns,orpettycash$0)                               |
-|        | Performminor alterationstofederalrecords                                            |
-| 4      | Sellminorintelligence secrets toforeignpowers(andraise$5,000 ifyou avoid execution) |
-|        | Know some of the secret intelligence employees*                                     |
-|        | AccessSecret files orequipment                                                      |
-|        | Cleanupfederalrecordsorarrangetoput someoneonaWanted list                           |
-| 5      | AccessTopSecretfiles orequipment                                                    |
-|        | Arrange a"sanction"                                                                 |
-|        | Knowrumors aboutprojectsbeyondTopSecretclearance*                                   |
-
-## FINANCE
-
-Theworld teemswith thetrappingsof afluence and storiesof therich and famous.Thosewith theFinanceInfluencespeakthelanguage ofmoneyandknow where tofindcapital.Theyhave a degree of accesstobanksmegacorporations and thetrulywealthycitizens of theworld.Such characters also have a widevariety of servants to draw on,such as CEOs,bankers,corporateyes-men,inanciers,bank tellers,stockbrokers and loan agents.Finance is a wonderfulmeans ofbacking ones huntingcareerwithcapital andequipment.
-
-| Cost   | Desired Effect                                                                     |
-|--------|------------------------------------------------------------------------------------|
-| 1      | Earnmoneythroughasteadysourceofincome                                              |
-|        | Learn aboutmajor transactions and financial events                                 |
-|        | Raise capital ($1,000)                                                             |
-|        | Learn about general economic trends*                                               |
-|        | Learnrealmotivationsformanyfinancialactionsofothers                                |
-| 2      | Trace an unsecured small account                                                   |
-|        | Raisecapital topurchase a small business (single,small store)                      |
-| 3      | Purchase a large business (a few small branches or a single large store orservice) |
-| 4      | Manipulatelocalbanking（delay deposits,some creditrating alterations)               |
-|        | Ruin a small business                                                              |
-| 5      | Control an aspect of city-widebanking （shut off ATMs,arrange a bank“holiday")      |
-|        | Ruin a large business                                                              |
-|        | Purchaseamajorcompany                                                              |
+## FINANCE the world teemswith the trappingsof afluence and storiesof the rich and famous.Thosewith the Finance Influencespeakthelanguage of moneyandknow where tofindcapital.the yhave a degree of accesstobanksmegacorporations and the trulywealthycitizens of the world.Such characters also have a widevariety of servants to draw on, such as CEOs, bankers, corporateyes-men, inanciers, bank tellers, stockbrokers and loan agents.Finance is a wonderfulmeans of backing ones huntingcareerwithcapital and equipment. | Cost | Desired Effect |
+| 1 | Earnmoneythroughasteadysourceofincome |
+| | Learn aboutmajor transactions and financial events |
+| | Raise capital ($1,000) |
+| | Learn about general economic trends* |
+| | Learnrealmotivationsformanyfinancialactionsofothers |
+| 2 | Trace an unsecured small account |
+| | Raisecapital topurchase a small business (single, small store) |
+| 3 | Purchase a large business (a few small branches or a single large store or service) |
+| 4 | Manipulatelocalbanking（delay deposits, some creditrating alterations) |
+| | Ruin a small business |
+| 5 | Control an aspect of city-widebanking （shut of f ATMs, arrange a bank“holiday") |
+| | Ruin a large business |
+| | Purchaseamajorcompany |
 
 ## HEALTH
 
-Inourmodernworld,amyriadoforganizations andresourcesexiststodealwith everymortalacheandill,atleastintheory.Thenetworkofhealthagencies,hospitals, asylums andmedicalgroupsis subjecttoexploitationby someonewithHealth Influncursesdoctorscialistsabworkrshrapists,counslrsandhama cists arejust a few of theworkerswithin the healthfield.Hunters use Health to get medical assistance,and tobring special resources(CDCinvestigationsandquarantines)against supernatural prey.
-
-| Cost   | Desired Effect                                    |
-|--------|---------------------------------------------------|
-| 1      | Access a person's health records*                 |
-|        | Fakevaccinationrecords and thelike                |
-|        | Usepublicfunctionsof healthcenters atyour leisure |
-| 2      | Access to somemedical researchrecords             |
-|        | Haveminor labworkdone                             |
-|        | Getacopyofcoroner'sreport                         |
-| 3      | Instigateminor quarantines                        |
-|        | Corruptresults of tests or inspections            |
-|        | Altermedicalrecords                               |
+Inourmodernworld, amyriadoforganizations and resourcesexiststodealwith everymortalacheandill, atleastintheory.the networkofhealthagencies, hospitals, asylums and medicalgroupsis subjecttoexploitationby someonewith Health Influncursesdoctorscialistsabworkrshrapists, counslrsandhama cists are just a few of the workerswithin the healthfield.Hunters use Health to get medical assistance, and tobring special resources(CDCinvestigationsandquarantines)against supernatural prey. | Cost | Desired Effect |
+| 1 | Access a person's health records* |
+| | Fakevaccinationrecords and the like |
+| | Usepublicfunctionsof healthcenters atyour leisure |
+| 2 | Access to somemedical researchrecords |
+| | have minor labworkdone |
+| | Getacopyofcoroner'sreport |
+| 3 | Instigateminor quarantines |
+| | Corruptresults of tests or inspections |
+| | Altermedicalrecords |
 
 Laws of the Hhunt
 
 ## HIGH SOCIETY
 
-Acliquxistfbyirfirssnsalqrkffa hold themselves above thegreatunwashed masses.HighSociety allows the character to directanduse theenergiesand actionsof thisexceptionalmassof talents.Amongtheranks oftheelite,necanfinddilettantestheoldrichmovieandrckstarsartistsofallsrts, wannabes,fashionmodelsandtrend-setters.HighSocieryInfluenceisofuseprimarilyin gatheringinformationon(orwatchingforsupernatural tamperingin) loftymortalcircles.
-
-## Cost DesiredEffect
+Acliquxistfbyirfirssnsalqrkffa hold the mselves above the greatunwashed masses.High Society all ows the character to directanduse the energiesand actionsof this exceptionalmassof talents.Amongtheranks of the elite, necanfinddilettantestheoldrichmovieandrckstarsartistsofallsrts, wannabes, fashionmodelsandtrend-setters.High Sociery Influenceisofuseprimarilyin gatheringinformationon(or watchingforsupernatural tamperingin) loftymortalcircles. ## Cost Desired Effect
 
 Learn what is trendy*
 
@@ -1827,262 +675,198 @@ Be a localvoice in the entertainment field
 
 Crush promising careers
 
-Hobnob well above your station*
+Hobnob well above you r station*
 
 Minor celebrity status
 
 Getabriefappearanceona talkshowthat'snot about tobecanceled
 
-Ruin a new club,gallery,festival or other posh gathering
+Ruin a new club, gallery, festival or other posh gathering
 
-## INDUSTRY
-
-Thedarkworld of theGothic-Punkmilieu is builtbypumping andgrinding machinery and thetoil ofendlesslaborers.AcharacterwiththeIndustry Influencehas her fingers in this pie."Industry"is composed of union workers,foremen,engineers, contractors,construction workers and manual laborers.The careful useofIndustry givesa charactersomeincome,aswellascontactsinbusinessprojects thatcantrace themovements of paranormalinvestors and CEOs.
-
-| Cost   | Desired Effect                                                                        |
-|--------|---------------------------------------------------------------------------------------|
-| 1      | Learn about industrial projects and movements*                                        |
-| 2      | Have minor projects performed                                                         |
-|        | Dipinto unionfundsor embezzle petty cash($500) Arrange small accidents orsabotage     |
-| 3      | Organize minor strikes                                                                |
-| 4      | Appropriatemachineryfora short time Close down a small plant Revitalize a small plant |
-| 5      | Manipulatelarge localindustry                                                         |
+## INDUSTRY the darkworld of the Gothic-Punkmilieu is builtbypumping and grinding machinery and the toil of endlesslaborers.Acharacterwiththe Industry Influencehas her fingers in this pie."Industry"is composed of union workers, for emen, engineers, contractors, construction workers and manual laborers.The careful useof Industry givesa charactersomeincome, aswellascontactsinbusinessprojects that can trace the movements of paranormalinvestors and CEOs. | Cost | Desired Effect |
+| 1 | Learn about industrial projects and movements* |
+| 2 | Have minor projects performed |
+| | Dipinto unionfundsor embezzle petty cash($500) Arrange small accidents or sabotage |
+| 3 | or ganize minor strikes |
+| 4 | Appropriatemachineryfora short time Close do wn a small plant Revitalize a small plant |
+| 5 | Manipulatelarge localindustry |
 
 ## Character Creation
 
-Acquire a body Completelyrewritemedicalrecords Abuse grantsfor personal use($250) Haveminor medical research performed on a subject Institutelarge-scalequarantines Shut down businesses for"health code violations"" Have specialresearchprojectsperformed Have people institutionalized orreleased
+Acquire a body Completelyrewritemedicalrecords Abuse grantsfor personal use($250) have minor medical research performed on a subject Institutelarge-scalequarantines Shut do wn businesses for"health code violations"" Have specialresearchprojectsperformed Have people institutionalized or released
 
-## LEGAL
-
-Therearehosewoquietlytpthscalesevennthecourtslawshoolslawfms andjustcebueau.nhabitingehalarlawyrjugesbailffsrkis attorneysandambulancechasers.Usesof LegalInfluenceincludeissuingsubpoenasagainst preyandharassingtargetswithlawsuitsnottomentiondismissinglegalactionsagainstthe hunter(especially when dealing with"collateral damage"incidental to the chase).
-
-## Cost
+## LEGAL the rearehosewoquietlytpthscalesevennthecourtslawshoolslawfms and justcebueau.nhabitingehalarlawyrjugesbailffsrkis attorneysandambulancechasers.Usesof Legal Influenceincludeissuingsubpoenasagainst preyandharassingtargetswithlawsuitsnottomentiondismissinglegalactionsagainstthe hunter(especially when dealing with"collateral damage"incidental to the chase). ## Cost
 
 Desired Effect
-
 - 1 Get freerepresentationforminorcases
 
 Avoidbail for somecharges
 
 Have minor charges dropped
 
-Manipulatelegal procedures(minorwillsandcontracts,courtdates)
+Manipulatelegal procedures(minorwillsandcontracts, courtdates)
 
 Access public or court funds($250)
 
 Getrepresentation in most court cases
+- 4 is sue subpoenas
 
-- 4 Issue subpoenas
+Tie up court cases have most legal charges dropped can cel or arrangeparole
+- 5 Close do wn all but the mostserious investigations have deportationproceedingsheld against someone
 
-Tie up court cases
-
-Havemost legal charges dropped
-
-Cancel or arrangeparole
-
-- 5 Close down all but themostserious investigations
-
-Havedeportationproceedingsheld against someone
-
-## MEDIA
-
-Themedia serves as the eyes and ears of theworldWhilefewin this day and age doubthawssotorrtdanywouluisdatwooses and covers these earsfromtime to time.Themedia entity iscomposed of station directions,editors,reporters,anchors,camera people,photographers andradio personalities.ThecarefuluseofMedia Influenceallowsa hunter tospread hismessage andtowatchfor strangestoriesthatmightpoint to supernatural activity.
-
-| Cost   | Desired Effect                                   |
-|--------|--------------------------------------------------|
-| 1      | Learn aboutbreaking stories early*               |
-|        | Submit small articles(withinreason)              |
-| 2      | Suppress (butnot stop) small articles or reports |
-|        | Get hold of investigativereportinginformation    |
-| 3      | Initiatenewsinvestigations andreports            |
-|        | Get project funding andwaste it ($250)           |
-|        | Accessmediaproductionresources                   |
-|        | Ground stories andprojects                       |
-| 4      | Broadcast fake stories (local only)              |
+## MEDIA the media serves as the eyes and ears of the world Whilefewin this day and age do ubthawssotorrtdanywouluisdatwooses and covers the se earsfromtime to time.the media entity is composed of station directions, editors, reporters, anchors, camera people, photographers and radio personalities.the carefuluseof Media Influenceallowsa hunter tospread hismessage and towatchfor strangestoriesthatmightpoint to supernatural activity. | Cost | Desired Effect |
+| 1 | Learn aboutbreaking stories early* |
+| | Submit small articles(with inreason) |
+| 2 | Suppress (but not stop) small articles or reports |
+| | Get hold of investigativereportinginformation |
+| 3 | Initiatenewsinvestigations and reports |
+| | Get project funding and was te it ($250) |
+| | Accessmediaproductionresources |
+| | Ground stories and projects |
+| 4 | Broadcast fake stories (local only) |
 
 ## MILITARY
 
-The uncontrolled use of MilitaryInfluence can have an unbalancing effect on a game.Storytellers should not hesitate to restrict or prohibit the use of this Influence.
-
-Nations andorganizations aroundtheworldmakeuse offorce asafinal and ultimateresortStandingarmiesrebelfactions,fanatical terroristorganizationsall makeuse of thestrategy andoperations that define themilitary.Military Influence gives acharactersomeinsightintothemovementsofthesesortsoforganizations,and
+The uncontrolled use of Military Influence can have an unbalancing effect on a game.Storytellers should not hesitate to restrict or prohibit the use of this Influence. Nations and or ganizations aroundtheworldmakeuse of for ce asafinal and ultimateresort Standingarmiesrebelfactions, fanatical terroristorganizationsall makeuse of the strategy and operations that define the military.Military Influence gives acharactersomeinsightintothemovementsofthesesortsoforganizations, and
 
 Laws of the Hunt
 
-## Character Creation
+## Character Creation afewwell-placedcontactsontheinside.Exertingtheproper sortsof Military Influence enablesacharactertogatherusefulinformation, todirectmilitaryactionsandto acquirespecializedmilitary hardware.Contactsandallies amongthemilitaryinclude survivalistsgunnutssupplyfficers, militaryngineersandesearchersnlist flunkies and actual soldiers of variousranks.Acharactercanuse Military Influenceto get accurate information on sellers of special weapons and armor, and to"borrow heavy, expensive or restricted equipment. | Cost | Desired Effect |
+| 1 | Know about local military operations* |
+| | Dig up some minor weapons on the gray market(knives, pistols) |
+| | Meetsomelocalparamilitaryindividuals(survivalists, gunmagazine publishers, psychopathic killers) |
+| 2 | Know about special militaryhardware* |
+| | Reprimand a localmilitary individual |
+| | Figure out which mail-or dersand suppliers have“the real deal"(and getaccesstorifles, specializedammunitionandsomebodyarmor) |
+| 3 | Get information aboutmilitary ops that aren't publicknowledge |
+| | Figure out who really runs things in local military groups |
+| | Accessminormilitaryequipment(communicationheadsets, extra ammunition, uniforms) or petty cash($250) |
+| 4 | Alterorcreateaservicerecord |
+| | “Borrow”a military weapon or piece of squad gear(assault rifle, submachinegun, sniperrifle, heavybody armor, hum-vee) |
+| | Arrange for a small military operation |
+| 5 | Learn aboutsecretmilitary squads |
+| | Arrange or clearacourt-martial |
+| | “Borrow”heavy military gear(machine gun, combat engineering explosives, flamethrower) | not e that some uses of Military Influence all ow a character to accessheavy military weapons or armor. Inany case where the character"borrows"such equipment, the equipmentmust be returned at the end of the session or during do wntime.After all, the quartermastersof the militarykeepfaithfulrecordsof the equipmentintheir charge, and they do n'tfavorreleasing suchgear tocivilians.Failuretoreturn the gear will certainlydrawtheireofthemilitary;the characterloseshis Military Influenceand drawsthe attention of aspecial taskforcedesignedtocapture or kill the of fenderand recover the missing equipment.If a character wants to arrange a"black market"of stolenmilitary goods...well, that's in the hands of the Storyteller. ## OCCULT
 
-afewwell-placedcontactsontheinside.Exertingtheproper sortsof Military Influence enablesacharactertogatherusefulinformation,todirectmilitaryactionsandto acquirespecializedmilitary hardware.Contactsandallies amongthemilitaryinclude survivalistsgunnutssupplyfficers,militaryngineersandesearchersnlist flunkies and actual soldiers of variousranks.AcharactercanuseMilitary Influenceto get accurate information on sellers of special weapons and armor,and to"borrow heavy,expensive orrestricted equipment.
+Mostpeople are curious aboutthesupernaturalworld and the variousgroups and beliefsthatmakeupthe occult subculture, but fewconsiderit anythingbuta hoax, a diversion or a curiosity.this misconception could not befarther from the truth.The occult community contains cult leaders, alternative religious groups, charlatans, would-beoccultists and New Agers.Perhaps oneof the mostimportant Influencesforahunter, Occultprovidesaccesstotheinformationsonecessaryinthe pursuit of his craft. Laws of the Hunt
 
-| Cost   | Desired Effect                                                                                                           |
-|--------|--------------------------------------------------------------------------------------------------------------------------|
-| 1      | Know about local military operations*                                                                                    |
-|        | Dig up some minor weapons on the gray market(knives,pistols)                                                             |
-|        | Meetsomelocalparamilitaryindividuals(survivalists,gunmagazine publishers,psychopathic killers)                           |
-| 2      | Know about special militaryhardware*                                                                                     |
-|        | Reprimand a localmilitary individual                                                                                     |
-|        | Figure out whichmail-ordersand suppliers have“thereal deal"(and getaccesstorifles,specializedammunitionandsomebodyarmor) |
-| 3      | Get information aboutmilitary ops that aren't publicknowledge                                                            |
-|        | Figure out who really runs things in local military groups                                                               |
-|        | Accessminormilitaryequipment(communicationheadsets,extra ammunition,uniforms) or petty cash($250)                        |
-| 4      | Alterorcreateaservicerecord                                                                                              |
-|        | “Borrow”a military weapon or piece of squad gear(assault rifle, submachinegun,sniperrifle,heavybody armor,hum-vee)       |
-|        | Arrange for a small military operation                                                                                   |
-| 5      | Learn aboutsecretmilitary squads                                                                                         |
-|        | Arrange orclearacourt-martial                                                                                            |
-|        | “Borrow”heavy military gear(machine gun,combat engineering explosives,flamethrower)                                      |
-
-Note that some uses of Military Influence allow a character to accessheavy military weapons or armor. Inany case where the character"borrows"such equipment, the equipmentmust be returned at the end of the session or during downtime.After all,thequartermastersof themilitarykeepfaithfulrecordsof theequipmentintheir charge,andtheydon'tfavorreleasing suchgear tocivilians.Failuretoreturn thegear willcertainlydrawtheireofthemilitary;thecharacterloseshisMilitaryInfluenceand drawsthe attention of aspecial taskforcedesignedtocapture orkill theoffenderand recover themissing equipment.If a character wants to arrange a"black market"of stolenmilitary goods...well, that's in the hands of theStoryteller.
-
-## OCCULT
-
-Mostpeople are curious aboutthesupernaturalworld and thevariousgroups andbeliefsthatmakeupthe occult subculture,butfewconsiderit anythingbuta hoax,a diversion or a curiosity.Thismisconception could not befarther from the truth.The occult community contains cult leaders,alternative religious groups, charlatans,would-beoccultists andNewAgers.Perhaps oneof themostimportant Influencesforahunter,Occultprovidesaccesstotheinformationsonecessaryinthe pursuit of his craft.
-
-Laws of the Hunt
-
-|   Cost | Desired Effect                                                                                                                                              |
-|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|      1 | Contact andmakeuseofcommon occult groups and theirpractices                                                                                                 |
-|      2 | Know and contact some of themoreobscureoccultfigures* Accessresourcesformostrituals andrites                                                                |
-|      3 | Know thegeneral vicinity of certain supernatural entities(Kindred, Garou,wraiths,etc.)andpossiblycontact them Can accessvital orveryrarematerial components |
-|      4 | Research an IntermediateSorceryritual                                                                                                                       |
-|      5 | Accessminormagicitems                                                                                                                                       |
+| Cost | Desired Effect |
+| 1 | Contact and makeuseofcommon occult groups and the irpractices |
+| 2 | Know and contact some of the moreobscureoccultfigures* Accessresourcesformostrituals and rites |
+| 3 | Know the general vicinity of certain supernatural entities(Kindred, Garou, wraiths, etc.)and possiblycontact the m Can accessvital or veryrarematerial components |
+| 4 | Research an Intermediate Sorceryritual |
+| 5 | Accessminormagicitems |
 
 ## POLICE
 
-"Toprotect and serveisa popularmotto among thechosenenforcersof the law. But thesedays,everyonecanhavereasontodoubtthelaw'sability toenactjustice. Perhaps they shouldwonder whom the law defends,whom it serves andwhy.The Policelncenompassethlikofbeatcopseskockeyisnguards,ial divisions(such asSWATand homicide),detectives andvarious clerical positions. Needlessto say,manygovernment huntershave some swayhere,and there aregreat advantagesin having friends on the forcefrom evading arrest tobringing charges against suspected supernaturals.
-
-## Cost Desired Effect
+"Toprotect and serveisa popularmotto among the chosenenforcersof the law. But the sedays, everyonecanhavereasontodoubtthelaw'sability toenactjustice. Perhaps they should wonder who m the law defends, who m it serves and why.The Policelncenompassethlikofbeatcopseskockeyisnguards, ial divisions(such asSWATand homicide), detectives and various clerical positions. Needlessto say, manygovernment huntershave some swayhere, and the re are great advantagesin having friends on the for cefrom evading arrest tobringing charges against suspected supernaturals. ## Cost Desired Effect
 
 Learnpolice procedures*
 
-Hearpoliceinformation andrumors
+Hearpoliceinformation and rumors
 
 Avoid traffictickets
-
 - 2 Have license plates checked
 
 Avoid minor violations(first conviction)
 
 Get“inside information”
-
-- 3 Getcopiesof aninvestigationreport
-
-Havepolicehassle,detain or harasssomeone
+- 3 Getcopiesof aninvestigationreport have policehassle, detain or harasssomeone
 
 Find bureau secrets
 
-Access confiscatedweapons orcontraband
+Access confiscatedweapons or contraband
 
 Have some serious charges dropped
 
 Start an investigation
 
-Getmoney,eitherfromtheevidenceroomorasanappropriation ($1,000)
-
+Getmoney, eitherfromtheevidenceroomorasanappropriation ($1,000)
 - Institutemajorinvestigations
 
 Arrange setups
 
 Instigatebureau investigations
 
-Have officers fired
+Have of ficers fired
 
-## POLITICS
-
-Nothingever getsdone for straightforward reasons any more.It's all whoknows whoandwhatfavors cangetpaidoff in theprocess.Inotherwords,it'spoliticsas usual,andtheresawholeclassofpeoplewhothriveinthisworldoffavorsandpolicy flacks.Some of these individuals include statesmen,pollsters,activists,party members,lobbyists,candidates andpoliticiansthemselves.Sincemany supernatu ral creatures attempttocontrolmortal society,Politicsgivesa hunterthechanceto track their influence,destroy their minions and wreck their plans.
-
-## Cost Desired Effect
+## POLITICS not hingever getsdone for straightforward reasons any more.It's all who knows who and what favors can getpaidoff in the process.Inotherwords, it'spoliticsas usual, and the re sawholeclassofpeoplewhothriveinthisworldoffavorsandpolicy flacks.Some of the se individuals include statesmen, pollsters, activists, party members, lobbyists, can did ates and politiciansthemselves.Sincemany supernatu ral creatures attempttocontrolmortal society, Politicsgivesa hunterthechanceto track the ir influence, destroy the ir minions and wreck the ir plans. ## Cost Desired Effect
 
 Minor lobbying
 
-Identifyreal platforms of politicians andparties*
+Identifyreal platforms of politicians and parties*
 
-Bein theknow*
+Bein the know*
 
 Meet small-time politicians
 
-Garner insideinformationonprocesses,laws and thelike
+Garner insideinformationonprocesses, laws and the like
 
 Usea slushfund or fund-raiser($1,000)
-
-- Sway or alterpolitical projects(local parks,renovations,small construction)
-
+- Sway or alterpolitical projects(local parks, renovations, small construction)
 - 4 Enactminorlegislation
 
 Dashcareers of minor politicians
-
-- 5 Getyour candidatein aminor office
+- 5 Getyour can did atein aminor of fice
 
 Enact encompassing legislature
 
 ## STREET
 
-Disenchanted,disenfranchised and ignored by their "betters,"a whole collectiveof humanityhasmade itsownculture andlifestyletodealwiththe harsh lotlife has dealt out. Gang members,the homeless,street performers, petty criminals,prostitutes and the forgotten all residein the darkalleys and slums.Street Influence gives a hunter an"ear to the ground"and access to some hard-to-get resources.
-
-| Cost   | Desired Effect                                      |
-|--------|-----------------------------------------------------|
-| 1      | Has anear open for theword on thestreet             |
-|        | Identifymost gangs and know their turfs and habits  |
-| 2      | Livemostlywithoutfear onthe underside of society    |
-|        | Keepacontactor twoinmost aspectsof streetlife       |
-|        | Access small-time contraband                        |
-| 3      | Getinsight on other areas of Influence              |
-|        | Arrangesomeservicesfromstreetpeople organgs         |
-|        | Getpistolsor uncommonmeleeweapons                   |
-| 4      | Mobilizegroups of homeless                          |
-|        | Panhandleorholda“collection”($250)                  |
-|        | Getholdofa shotgun,rifleorSMG                       |
-|        | Have a word in almost all aspects ofgang operations |
-| 5      | Control a single medium-sized gang                  |
-|        | Arrangeimpressive protestsby streetpeople           |
+Disenchanted, disenfranchised and ignored by the ir "betters,"a who le collectiveof humanityhasmade itsownculture and lifestyletodealwiththe harsh lotlife has dealt out. Gang members, the homeless, street performers, petty criminals, prostitutes and the for gotten all residein the darkalleys and slums.Street Influence gives a hunter an"ear to the ground"and access to some hard-to-get resources. | Cost | Desired Effect |
+| 1 | Has anear open for the word on the street |
+| | Identifymost gangs and know the ir turfs and habits |
+| 2 | Livemostlywithoutfear onthe underside of society |
+| | Keepacontactor twoinmost aspectsof streetlife |
+| | Access small-time contraband |
+| 3 | Getinsight on other are as of Influence |
+| | Arrangesomeservicesfromstreetpeople or gangs |
+| | Getpistolsor uncommonmeleeweapons |
+| 4 | Mobilizegroups of homeless |
+| | Panhandleorholda“collection”($250) |
+| | Getholdofa shotgun, rifleorSMG |
+| | Have a word in almost all aspects of gang operations |
+| 5 | Control a single medium-sized gang |
+| | Arrangeimpressive protestsby streetpeople |
 
 ## Character Creation
 
-## TRANSPORTATION
-
-Theworld is in constantmotion,itsprosperityrelying heavily on the fact that people andproductionsfly,float or roll to andfrom every corner of theplanet. Withoutthemeanstoperformthismonumentaltask,oursmallworldwouldbecome a daunting orbwithlarge,isolated stretches.Theforcesthatbridge theseexpanses includecabandbusdrivers,pilots,airtrafficcontrollers,travelfmsseacaptains, conductors,borderguards anduntold others.Fleeingpreycanbecaughtwithcontrol of Transportation,while a proper hunter can use thisInfluence tohis own tactical advantage bychoosing thegroundonwhich hefights.
-
-| Cost   | Desired Effect                                                                                                                                     |
-|--------|----------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1      | Knowwhatgoeswhere,whenandwhy                                                                                                                       |
-| 2      | Track an unwary target if he uses public transportation Arrange passage safe (or at least concealed) from mundane threats (robbery,terrorism,etc.) |
-| 3      | Seriously hamper anindividual's ability to travel Avoidmostsupernaturaldangerswhentraveling(suchaswerewolves)                                      |
-| 4      | Temporarilyshutdownoneformof transportation(buslines,ships, planes,trains,etc.)                                                                    |
-|        | Reroutemajormodesof travel                                                                                                                         |
+## TRANSPORTATION the world is in constantmotion, itsprosperityrelying heavily on the fact that people and productionsfly, float or roll to and from every corner of the planet. with outthemeanstoperformthismonumentaltask, oursmallworldwouldbecome a daunting or bwithlarge, is olated stretches.the for cesthatbridge the seexpanses includecabandbusdrivers, pilots, airtrafficcontrollers, travelfmsseacaptains, conductors, borderguards and untold others.Fleeingpreycanbecaughtwithcontrol of Transportation, while a proper hunter can use this Influence tohis own tactical advantage bychoosing the groundonwhich hefights. | Cost | Desired Effect |
+| 1 | Knowwhatgoeswhere, when and why |
+| 2 | Track an unwary target if he uses public transportation Arrange passage safe (or at least concealed) from mundane threats (robbery, terrorism, etc.) |
+| 3 | Seriously hamper anindividual's ability to travel Avoidmostsupernaturaldangerswhentraveling(suchaswerewolves) |
+| 4 | Temporarilyshutdownoneformof transportation(buslines, ships, planes, trains, etc.) |
+| | Reroutemajormodesof travel |
 
 ## UNDERWORLD
 
-Eveninthemostcosmopolitanofages,societyhasfoundcertainneedsandservices tooquestionabletoaccept.Ineveryage,someorganizedefforthasstepped intoprovide forthisdemand,regardlessof therisks.Amongthisoftenruthlessanddangerouscrowd are thelikesof hitmen,Mafia,akuza,bookiesfncesand aunderers.Thoughmany huntersfindworkingwiththeseelementsdistasteful,eventuallyalmosteveryonedeals withUnderworld Influencetogathernecessaryweapons andmaterials.
-
-| Cost   | Desired Effect                                                               |
-|--------|------------------------------------------------------------------------------|
-| 1      | Locateminorcontraband(knives,small-timedrugs,pettygambling, scalped tickets) |
-| 2      | Obtain pistols,serious drugs,stolen cars                                     |
-|        | Hiremuscle torough someone up                                                |
-|        | Fenceminor loot                                                              |
-|        | Prove thatcrimepays(and score$1,000)                                         |
-| 3      | Obtain a rifle,shotgun orSMG                                                 |
-|        | Arrange a minor“hit"                                                         |
-|        | Know someone in“theFamily”                                                   |
-| 4      | Makewhitecollarcrimeconnections                                              |
-|        | Arrange gangland assassinations                                              |
-|        | Hireademolitionman orfirebug                                                 |
-|        | Supply local drug needs                                                      |
+Eveninthemostcosmopolitanofages, societyhasfoundcertainneedsandservices tooquestionabletoaccept.Ineveryage, someorganizedefforthasstepped into provide for this demand, regardlessof the risks.Amongthisoftenruthlessanddangerouscrowd are the likesof hitmen, Mafia, akuza, bookiesfncesand aunderers.Thoughmany huntersfindworkingwiththeseelementsdistasteful, eventuallyalmosteveryonedeals with Underworld Influencetogathernecessaryweapons and materials. | Cost | Desired Effect |
+| 1 | Locateminorcontraband(knives, small-timedrugs, pettygambling, scalped tickets) |
+| 2 | Obtain pistols, serious drugs, stolen cars |
+| | Hiremuscle torough someone up |
+| | Fenceminor loot |
+| | Prove that crimepays(and score$1,000) |
+| 3 | Obtain a rifle, shotgun or SMG |
+| | Arrange a minor“hit" |
+| | Know someone in“the Family” |
+| 4 | Makewhitecollarcrimeconnections |
+| | Arrange gangland assassinations |
+| | Hireademolitionman or firebug |
+| | Supply local drug needs |
 
 Laws of the Hunt
 
 ## UNIVERSITY
 
-Inan agewhen the quest for learning and knowledge beginsin schools,colleges anduniversities,information becomes currency.UniversityInfluencerepresentsa certaindegreeofcontrolandperhapsinvolvementintheseinstitutions.Inthissphere ofInflunce,neindstheteachersrofessors,eansstudentsofallagesandlevs, Greek orders and many young and impressionable minds.The research material availablethroughUniversity lnfluenceshouldneverbeoverlooked,andmany schol arly societieshave hiddenmembers ensconced intheacademic community.
-
-## Cost Desired Effect
+Inan agewhen the quest for learning and knowledge beginsin schools, colleges and universities, information becomes currency.University Influencerepresentsa certaindegreeofcontrolandperhapsinvolvementintheseinstitutions.Inthissphere of Influnce, neindstheteachersrofessors, eansstudentsofallagesandlevs, Greek or ders and many you ng and impressionable minds.The research material availablethrough University lnfluenceshouldneverbeoverlooked, and many schol arly societieshave hiddenmembers ensconced intheacademic community. ## Cost Desired Effect
 
 Know layoutandpolicy of local schools*
 
 Have access tolow-level universityresources
 
-Getrecordsup to thehighschool level
+Getrecordsup to the highschool level
 
-Knowa contact or twowithuseful knowledge orskills
+Knowa contact or twowithuseful knowledge or skills
 
 Have minor access to facilities
 
@@ -2090,15 +874,11 @@ Fake high school records
 
 Obtain collegerecords
 
-Call infaculty favors
-
-Cancel aclass
+Call infaculty favors can cel aclass
 
 Fix grades
 
-Discredit a student
-
-Organize student protests andrallies
+Discredit a student or ganize student protests and rallies
 
 Discredit facultymembers
 
@@ -2108,84 +888,36 @@ Falsify an undergraduate degree
 
 ## STEP FOUR: FINISHING TOUCHES
 
-The lastpiecesof character creationcome togetherhere,includingWillpower, HumanityTraits,Derangements,Merits andFlaws.
-
-## WILLPOWER
-
-Willpower measures a hunter's drive and fortitude.Hunters beginwith one WillpowerTrait,but theymaypurchase additionalTraitswithExperienceTraits.
-
-- ·You can spendaWillpowerTraittoreplenishallyourlostTraits in one category:Physical,SocialorMental.Youmayrefresheach givencategory oncenany game session.
-
-Willpowergives acharacter the extrastrength toovercome obstacles and to succeedwhereotherswould surrender andfail.WillpowerTraits canbe usedfor almost anything that the player deems important.
-
-- YoucanspendaWillpowerTrait toignoretheeffectsof anywoundsuptoand including Incapacitated, for the duration of one challenge.
-- ·Expending oneWillpowerTrait allowsyou tonegate theeffectsof anyone MentalorSocialChallenge.nsuchacase,youeffectivelygainaretestagainst he offending power, ignoring theresults of the initial challenge.
-
-## Character Creation
+The lastpiecesof character creationcome togetherhere, including will power, Humanity Traits, Derangements, Merits and Flaws. ## will POWER will power measures a hunter's drive and for titude.Hunters beginwith one will power Trait, but the ymaypurchase additional Traitswith Experience Traits. - ·You can spenda will power Traittoreplenishallyourlost Traits in one category:Physical, Socialor Mental.you mayrefresheach givencategory oncenany game session. will powergives acharacter the extrastrength toovercome obstacles and to succeedwhereotherswould surrender and fail.will power Traits can be usedfor almost anything that the player deems important. - you can spenda will power Trait toignoretheeffectsof anywoundsuptoand including Incapacitated, for the duration of one challenge. - ·Expending one will power Trait all owsyou tonegate the effectsof anyone Mentalor Social Challenge.nsuchacase, you effectivelygainaretestagainst he of fending power, ignoring the results of the initial challenge. ## Character Creation
 
 ## Laws of the Hhunt
+- you may spend a will power Trait toresist the urges of a Derangement for10 minutes. - You can expend a will power Trait to make a test for achallenge that would normally require the use of an Ability.For example, if you are tryingto break nto a vampireshavenbutyoudon'thavethe Security Ability, you can expenda will power Trait tocall for a testtonotice the have n'ssafeguards-a taskthatwould normally be outsideofyour experience. - ·Somespecificpowersrequire the expenditureof will power Traits tofunction. Also, atthe Storyteller'sdiscretion, you mayberequiredtospenda will power Trait to attempt somethingparticularlydifficult or obviouslydangerous. Once a will power Trait has been spent, itisgone until the endof the story.At this time, the characterregains all will power used during the course of the story. AStorytellermayalsoawardtherecoveryofa will power Traitwhenacharacter experiencessomethingthatreaffirmshisself-confidence, suchasaccomplishingatask inlinewithhis Nature.Lenient Storytellersmay alsograntpartialrecoveryof will power during the course of particularly lengthgames.Thus, if a gameruns for severalconsecutivedays(ataconvention, for instance), the Storytellermayrulethat you regaina Trait of will powerafter eachfull periodof sleep. ## HUMANITY
 
-- Youmay spend aWillpower Trait toresist the urges of a Derangement for10 minutes.
-- You can expend aWillpowerTrait to make a test for achallenge that would normally require the use of anAbility.For example,if you are tryingto break nto a vampireshavenbutyoudon'thavetheSecurityAbility,youcanexpendaWillpower Trait tocall fora testtonotice thehaven'ssafeguards-a taskthatwould normally be outsideofyour experience.
-- ·Somespecificpowersrequire theexpenditureofWillpowerTraits tofunction. Also,attheStoryteller'sdiscretion,youmayberequiredtospendaWillpowerTrait to attempt somethingparticularlydifficult or obviouslydangerous.
+All humans have a fundamentalwellspring of life and nature that provides a uniquelymortal perspective.Pickfour Humanity Traits that represent the best aspectsofyour character'spersonalityeven ifyoukeepthemhidden.Describe what's fundamentallygoodaboutyourhunter, whetherhe actuallybehavesinsuch afashion or keepshisvirtuesunderwraps.Afterall, eventhemostbrutalmortal keeps a tenuoustietohumanity. ## HUMANITYTRAITS
 
-Once aWillpowerTrait has been spent,itisgone until the endof the story.At thistime,thecharacterregains all Willpower used during thecourse of the story.
-
-AStorytellermayalsoawardtherecoveryofaWillpowerTraitwhenacharacter experiencessomethingthatreaffirmshisself-confidence,suchasaccomplishingatask inlinewithhisNature.LenientStorytellersmay alsograntpartialrecoveryof Willpower during the course ofparticularly lengthgames.Thus,if a gameruns for severalconsecutivedays(ataconvention,forinstance),theStorytellermayrulethat you regainaTrait ofWillpowerafter eachfull periodof sleep.
+Benevolent, Charitable, Chivalrous, Fair, Generous, Giving, Gracious, Helpful, Honrable, Humannocent, ind, ibral, oyal, Mrciful, Moral, Naive, Pious, Sympathetic, Warm
 
 ## HUMANITY
 
-All humans have a fundamentalwellspring of life andnature that provides a uniquelymortal perspective.PickfourHumanityTraits thatrepresent the best aspectsofyour character'spersonalityeven ifyoukeepthemhidden.Describe what's fundamentallygoodaboutyourhunter,whetherhe actuallybehavesinsuch afashion orkeepshisvirtuesunderwraps.Afterall,eventhemostbrutalmortal keeps a tenuoustietohumanity.
+Humanity separatesmortals from the rest of the supernatural world at large. Humanity is the mortal'sconnectionto the fundamental for cesoflife.Through Humanityeopleareconnectedtooneanotherandtotheisurroundings the refore, characterswithmany Humanity Traits are verymuch"in touch"with the mselves and the ir environments;individualswithlittle Humanity are cold and distant. Mostmortalshavefour Humanity Traits.Particularlycaringorinsightfulmortals may have more, ossessinguptoight Traits.Conversely, nomortal can everfall permanentlytozero Humanity Traits.the reis always a spark of humanity at the core of any mortal'sbeing. the modern world of ten derides Humanity as dangerous and worthless.Nice guysfinishlastafterall Justgettingbynthe Worldof Darknessrequiressomedre of callousnessandawillingnesstodowhateverisnecessaryosurvive.Yetstillmany peopleholdontighttotheir Humanity.the habitsof compassionand honordiehard. Ina worldgonemadwithkillers and manipulators, Humanity-the power of fundamental integrity—may actuallybe the best defense. ## USING HUMANITY
 
-## HUMANITYTRAITS
+Humanity Traits serve many purposes.As a measure of character and inner strength, Humanity Traitsgivemortalsexceptional endurancewhen threatened. ## POWERINGNUMINAE
 
-Benevolent,Charitable,Chivalrous,Fair,Generous,Giving,Gracious, Helpful,Honrable,Humannocent,ind,ibral,oyal,Mrciful,Moral, Naive,Pious,Sympathetic,Warm
+Humanity Traits are of ten temporarily expended to power Numinae.By drawing on her connection to the world around her, a human taps into powerful for ces.Similarly, dedicationtoprinciplesofhumanebehaviorcangrant astrength of character and resolve that all owsa human toexert herfaithin the fundamental nature of existence. ## RELIEFOFDERANGEMENTS
 
-## HUMANITY
+Earlyineachgame, aplayermay expendone Humanity Traittotemporarily relievehercharacterofa Derangement.AStorytellershouldnotethisexpenditureof Humanity, which lasts for the duration of the evening's game.The player should ideallyuse this capabilityat the beginningof the session.It'sinappropriatetosuddenly decideto use Humanityto avoid a Derangementafter the Derangementbecomesa problem in play. Using Humanity tofight a Derangement should beplayedout.Whethera characterconfidesina trustedfriend about his constant battleto workthrough a Derangement, praysvociferouslyforstrengthordisplaysthe St.Christophermedalhis mothergavehim onherdeathbed, heshouldperform some in-gameaction to demonstratetheexpenditureofthisveryimportant Trait. ## THREATSTOLIFEANDLIMB
 
-Humanity separatesmortals from therest of the supernatural world at large. Humanity is themortal'sconnectionto thefundamental forcesoflife.Through HumanityeopleareconnectedtooneanotherandtotheisurroundingsTherefore, characterswithmanyHumanityTraits areverymuch"in touch"with themselves and their environments;individualswithlittleHumanity are cold and distant.
+Humanity Traits can alsobe usedwhen a character's"fight or flight"instinct is triggered.In asurvival situation, aplayercan spend a Humanity Trait tobeup one Trait for achallenge.Alternately, the player can usethe Humanity Traitinplaceof another Trait, drawingonreserves of inner strength to persevere.This only works in life-threatening situations. ## LOSING HUMANITY
 
-MostmortalshavefourHumanityTraits.Particularlycaringorinsightfulmortals may havemore,ossessinguptoightTraits.Conversely,nomortal can everfall permanentlytozeroHumanityTraits.Thereis always a spark of humanity at the core of any mortal'sbeing.
+Humanityisaprecious thing, and itisall toohard toholdontowhileliving the life of a hunter.Contactwith the supernatural tends todistancea characterfrom the benefitsof everydaylife. when everamortalcommits abaseorinhumanedeed, hejopardizeshis Humanity. from accidentallykilling aninnocentinthecleansingfirewhichdestroysavampire, to torturingawerewolftofindoutwhoitsassociatesare, actsofoutrageousorunnecessary cruelty and otherimmoral actscanall lead totheerosionof amortal's Humanity. ## Laws of the Hunt
 
-Themodern world often derides Humanity as dangerous andworthless.Nice guysfinishlastafterallJustgettingbyntheWorldofDarknessrequiressomedre ofcallousnessandawillingnesstodowhateverisnecessaryosurvive.Yetstillmany peopleholdontighttotheir Humanity.Thehabitsof compassionand honordiehard. Ina worldgonemadwithkillers andmanipulators,Humanity-thepower of fundamental integrity—may actuallybe thebest defense.
+Dependingonthenumberof Humanity Traitsthecharacterhas, someactionsmay bedeemedacceptable, whileothers are definitelydepraved.Acharacterwithseven Humanity Traits might shy at breaking and entering, where as one with only three Humanity Traitswouldn'tholdback at roughingup someoneforinformation.when ever a situationorsessionconcludes inwhichacharacterhascommittedadeedworthyofaloss of Humanity, the Storytellershouldengageina Simple Testwiththeplayer.If the player losesthetest, the characterlosesapermanent Humanity Trait.the Storytellershouldfeel freetochoose the Trait tobelost, makingit as appropriate tothesituation aspossible. The following chart shows the least sin that will cause a temporaryloss of Humanity in a character with the corresponding number of Humanity Traits.(For example, acharacterwithfour Humanity Traitswouldbehorrifiedifheaccidentally killed someonebut likelywouldnotbataneyelashatpunching someoneintheface. Apersonwitheight Humanity Traits, ontheotherhandwouldheadstraightforis Father Confessor for accidentally running overa pedestrian'sfoot.)
 
-## USING HUMANITY
-
-Humanity Traits serve many purposes.As a measure of character and inner strength,HumanityTraitsgivemortalsexceptional endurancewhen threatened.
-
-## POWERINGNUMINAE
-
-Humanity Traits are often temporarily expended to power Numinae.By drawing on her connection to the world around her,a human taps into powerful forces.Similarly,dedicationtoprinciplesofhumanebehaviorcangrant astrength ofcharacter andresolve thatallowsa human toexert herfaithin thefundamental nature of existence.
-
-## RELIEFOFDERANGEMENTS
-
-Earlyineachgame,aplayermay expendoneHumanityTraittotemporarily relievehercharacterofaDerangement.AStorytellershouldnotethisexpenditureof Humanity,which lasts for the duration of the evening's game.The player should ideallyuse thiscapabilityat thebeginningof thesession.It'sinappropriatetosuddenly decideto useHumanityto avoid aDerangementafter theDerangementbecomesa problem in play.
-
-UsingHumanity tofight aDerangement should beplayedout.Whethera characterconfidesina trustedfriend about his constant battleto workthrough a Derangement,praysvociferouslyforstrengthordisplaystheSt.Christophermedalhis mothergavehim onherdeathbed,heshouldperform some in-gameaction to demonstratetheexpenditureofthisveryimportantTrait.
-
-## THREATSTOLIFEANDLIMB
-
-Humanity Traits can alsobe usedwhen a character's"fight orflight"instinct is triggered.In asurvival situation,aplayercan spend aHumanityTrait tobeup one Trait forachallenge.Alternately,theplayer can usetheHumanityTraitinplaceof anotherTrait,drawingonreserves of inner strength to persevere.This only works in life-threatening situations.
-
-## LOSING HUMANITY
-
-Humanityisaprecious thing,anditisall toohard toholdontowhileliving the life ofa hunter.Contactwith thesupernatural tends todistancea characterfrom the benefitsof everydaylife.
-
-Wheneveramortalcommits abaseorinhumanedeed,hejopardizeshisHumanity. Fromaccidentallykilling aninnocentinthecleansingfirewhichdestroysavampire,to torturingawerewolftofindoutwhoitsassociatesare,actsofoutrageousorunnecessary cruelty andotherimmoral actscanall lead totheerosionof amortal'sHumanity.
-
-## Laws of the Hunt
-
-Dependingonthenumberof HumanityTraitsthecharacterhas,someactionsmay bedeemedacceptable,whileothers aredefinitelydepraved.Acharacterwithseven Humanity Traits might shy at breaking and entering,whereas one with only three HumanityTraitswouldn'tholdback at roughingup someoneforinformation.Whenever a situationorsessionconcludes inwhichacharacterhascommittedadeedworthyofaloss ofHumanity,theStorytellershouldengageinaSimpleTestwiththeplayer.If theplayer losesthetest,thecharacterlosesapermanentHumanityTrait.TheStorytellershouldfeel freetochoose theTrait tobelost,makingit as appropriate tothesituation aspossible.
-
-The following chart shows theleast sin that will cause a temporaryloss of Humanity in a character with the corresponding number of Humanity Traits.(For example,acharacterwithfourHumanityTraitswouldbehorrifiedifheaccidentally killed someonebut likelywouldnotbataneyelashatpunching someoneintheface. ApersonwitheightHumanityTraits,ontheotherhandwouldheadstraightforis Father Confessor for accidentally running overa pedestrian'sfoot.)
-
-At theStoryteller'sdiscretion,characters ofparticularly lowHumanitymaybe awarded NegativeTraits(theNegativeSocialTrait of Callous seems quite appropriate),orevenDerangements,toreflectthegrowingdisconnectionwiththeirhumane side.TheseTraits canbe assigned even if the characters succeed in the test to avoid losingaHumanityTrait.Humanswhofaila testwhileonly possessingoneremaining HumanityTrait automaticallygainsomesortofNegativeTraitorDerangement,at theStoryteller'sdiscretion;thefundamental connection toHumanity canneverbe lost,but the character will spiral into madness.NoFreeTraits orExperienceTraits accompany thegain of suchNegativeTraits orDerangements.
-
-## HIERARCHY OF SINS
+At the Storyteller'sdiscretion, characters of particularly low Humanitymaybe awarded Negative Traits(the Negative Social Trait of Callous seems quite appropriate), or even Derangements, toreflectthegrowingdisconnectionwiththeirhumane side.the se Traits can be assigned even if the characters succeed in the test to avoid losinga Humanity Trait.Humanswhofaila testwhileonly possessingoneremaining Humanity Trait automaticallygainsomesortof Negative Traitor Derangement, at the Storyteller'sdiscretion;the fundamental connection to Humanity can neverbe lost, but the character will spiral into madness.No Free Traits or Experience Traits accompany the gain of such Negative Traits or Derangements. ## HIERARCHY OF SINS
 
 Eight Humanity
 
-SixHumanity
+Six Humanity
 
 Seven Humanity
 
@@ -2195,15 +927,13 @@ Three Humanity
 
 Four Humanity
 
-TwoHumanity
+Two Humanity
 
 One Humanity
 
 Purposefully inflicting injury
 
-Accidentally inflicting injury
-
-Theft and robbery
+Accidentally inflicting injury the ft and robbery
 
 Unreasonable destruction
 
@@ -2211,293 +941,91 @@ Accidental killing
 
 Premeditatedmurder
 
-Massmurder,torture
+Massmurder, torture
 
 Grossperversion and acts of great evil
 
-Remember,losingHumanity is a terrible thing.This sort of erosionof amortals soul profoundly affects the character's personality. Characters who lose Humanity tendtobecynical,jadedandvicious.ThelossofevenoneTraithasanoticeable effect on long-establishedbehaviorpatterns.
+Remember, losing Humanity is a terrible thing.This sort of erosionof amortals soul profoundly affects the character's personality. Characters who lose Humanity tendtobecynical, jadedandvicious.the lossofevenone Traithasanoticeable effect on long-establishedbehaviorpatterns. ## REGAINING HUMANITY
 
-## REGAINING HUMANITY
+Regaining Humanity Traits is a function of how the Traits were used or lost. Humanityspentooweruminaesavealovedonecountractaarorfacealife threatening situation is regainedin time(in otherwords, all Traits spent this way returnby the next event).Mortalsin ahurryorindesperate need can alsoexpend a will power Traittoreplacea Humanity Trait. ## Character Creation
 
-Regaining Humanity Traits is a function of how the Traits were used or lost. Humanityspentooweruminaesavealovedonecountractaarorfacealife threatening situation isregainedin time(in otherwords,all Traits spent thisway returnby thenext event).Mortalsin ahurryorindesperate need canalsoexpend a WillpowerTraittoreplacea HumanityTrait.
+Humanity Traits lostpermanently can onlyberegained through extraordinarypenance, decreed bya Storytellerandroleplayedoutoveraseriesof sessions. the character must showremorse for the actions that caused him to lose Humanity, and even the n, Humanity should not bereturned lightly. Reaffirming a connection to you r inner childlike innocence, performing charitableworks(and not just for the possibility of regaining Humanity!) or being sympatheticto the problemsofothersarejustsomeexamplesofthekindof behavior that mightmerit a gain of Humanity.of course, the cost in Experience Traitsmust still bepaid.The same applies to actually improvingone's Humanity. The character must experience a fundamental connection to her own inner strength and to the mass of humanity around her. Storytellers maynote characters who are constantly losing and regaining Humanity Traits.If this situationbecomeschronic, the Storytellermay declare that the character has become jaded, and may nolonger attempt toregain Humanity Traits that have beenlostpermanently. ## NUMINAE
 
-## Character Creation
+Numinae, supernatural powerspossessed by mortals, all ow hunters to even the playing field a bit when contesting with vampires, were wolves and the ir ilk. With Numinae, a mortal can cast minor spells, use psychic powers or call on divine assistance. Numinae include True Faith, which represents a belief in and connection to a higher power;Psychic Phenomena, powers of the mind;and Sorcery, the ability touseminor magic.Each Numina has a set of associated powers, and Psychic Phenomenaand Sorceryaredividedintodifferentcategoriesof capabilities.Psychic Phenomenaincludethepowersof Clairvoyance, Pyrokinesis, Telekinesisand Telepa thy.Sorcery includes the magical paths of Conjuration, Cursing, Enchantment, Ephemera, Healing, Herbalism, and Summoning，Bindingand Warding.True Faith, on the otherhand, manifestsvaryingpowersbasedonthereligionof the individualin question.Numinae are fully described in Chapter Three. ## NEGATIVETRAITS
 
-HumanityTraits lostpermanently can onlyberegained through extraordinarypenance,decreed byaStorytellerandroleplayedoutoveraseriesof sessions. Thecharacter must showremorse for the actions that caused him to lose Humanity,andeven then,Humanity shouldnot bereturned lightly.
+By specifyingcertainweaknesses, you can gain extra Traitstostrengthenyour characterin other are as.the se Negative Traitscanbe used against you in a challenge though, as they represent you r character's shortcomings.how ever, they can be appropriate to describe a huntersnatural flaws.Furthermore, each Negative Trait that you take grants you an additional positive Trait anywhere else.You can take up tofive Negative Traits in any combination that seems to describeyourcharacter, thoughyou don't have totakeany. Each Negative Trait adds toyourpool of Free Traits, for later use inselecting additionalpowersand Traits.Thus, ifyoutakethe Negative Trait do cileyoucangain anadditionalpositive Traitlike Diplomaticor Ability suchas Firearms.Additionally, you can combine the se Traits topurchasemore expensive Merits and Numinae, as shown under"Free Traits."
 
-Reaffirming a connection to your inner childlike innocence,performing charitableworks(and not just forthe possibility of regaining Humanity!) or being sympatheticto theproblemsofothersarejustsomeexamplesofthekindof behavior thatmightmerit a gain of Humanity.Ofcourse,thecost inExperience Traitsmust still bepaid.The same applies to actually improvingone's Humanity. The character must experience a fundamental connection to her own inner strength and to themass of humanity around her.
-
-Storytellers maynote characters who are constantly losing andregaining HumanityTraits.If thissituationbecomeschronic,theStorytellermay declare thatthe character hasbecome jaded,and may nolonger attempt toregain HumanityTraits that have beenlostpermanently.
-
-## NUMINAE
-
-Numinae,supernatural powerspossessed by mortals,allow hunters to even the playing field a bit when contesting with vampires,werewolves and their ilk. With Numinae,a mortal can cast minor spells,use psychic powers or call on divine assistance.
-
-Numinae includeTrueFaith,which represents a belief in and connection to a higher power;Psychic Phenomena,powers of the mind;and Sorcery,the ability touseminor magic.Each Numina has a set of associated powers,andPsychic PhenomenaandSorceryaredividedintodifferentcategoriesof capabilities.Psychic PhenomenaincludethepowersofClairvoyance,Pyrokinesis,TelekinesisandTelepa thy.Sorcery includes the magical paths of Conjuration,Cursing,Enchantment, Ephemera,Healing,Herbalism,andSummoning，BindingandWarding.TrueFaith,on theotherhand,manifestsvaryingpowersbasedonthereligionof theindividualin question.Numinae arefully described in ChapterThree.
-
-## NEGATIVETRAITS
-
-By specifyingcertainweaknesses,youcangain extraTraitstostrengthenyour characterin other areas.TheseNegativeTraitscanbe used against you in a challenge though,as they represent your character's shortcomings.However,they can be appropriate to describe a huntersnatural flaws.Furthermore,eachNegativeTrait that you take grants you an additional positiveTrait anywhere else.You can take up tofiveNegativeTraits in any combination thatseems to describeyourcharacter, thoughyou don't havetotakeany.
-
-EachNegativeTrait adds toyourpool ofFreeTraits,for later use inselecting additionalpowersandTraits.Thus,ifyoutaketheNegativeTraitDocileyoucangain anadditionalpositiveTraitlikeDiplomaticorAbility suchasFirearms.Additionally, you cancombine these Traits topurchasemore expensive Merits and Numinae,as shown under"Free Traits."
-
-NegativeTraits arelistedwith the otherAttributeTraits.
-
-m7
+Negative Traits are listedwith the other Attribute Traits. m7
 
 ## DERANGEMENTS
 
-Derangementsrepresent insanity andmental instability.You may choose to take oneDerangement,ifyoudesire,whichcountsastwoNegativeTraits.Ifyoudochoose totake aDerangement,you arelimitedtonomorethanthree additionalNegative Traits (since you can only take a total of five).
+Derangementsrepresent insanity and mental instability.You may choose to take one Derangement, ifyoudesire, which countsastwo Negative Traits.Ifyoudochoose totake a Derangement, you are limitedtonomorethanthree additional Negative Traits (since you can only take a total of five). Under extreme pressure, the human mind tends to crack, attempting to let of f steambygivingway.Hunterswhooperate ina high-adrenalineoccupation24hours a day, are particularly suscepribletomental trauma and instability.Suchproblems are represented by Derangements, which may activate under times of stress to cause mentalproblemsfor the character. you can opt tostartwithone Derangement.A Derangementcounts astwo Negative Traitsbutitcanbequitedangerousifyourunntoafewvampireswhileinthemidstof apanicattack.Conversely, huntersundergreatstressmay suffer from Derangementsatthe discretionof the Storyteller.Anyhunterwholosesherlastpermanent Humanity Trait immediately gains a Derangement, as she spirals into inhuman insanity.The final Humanity Traitisretained(asit'simpossiblefora human to fully lose touchwithher human nature)but the Storyteller assigns an appropriate new Derangement. Expenditure of will power can curb the effects of a Derangement, but the Derangements always come back to haunt the character. Only prolonged use of will powercanstave of f Derangementspermanently.Acharacterwho has spentseven to15Willpower Traits inresisting Derangementsmay manageto overcome the handicap, at the Storyteller's discretion. ## AMNESIA
 
-Under extreme pressure,the human mind tends to crack,attempting to let off steambygivingway.Hunterswhooperate ina high-adrenalineoccupation24hours a day,areparticularly suscepribletomental trauma and instability.Suchproblems are represented by Derangements,which may activate under times of stress to cause mentalproblemsfor thecharacter.
+Inhighlytraumaticsituationsyousometmesforgetwhoandevenwhatyouare. you maysimplyforgetthememoryofasinglesituation, or you mayforgeteverything aboutyouridentity, includingyourcurrentmission.when eventsandsituationsthat remindyou of you rlostmemoriespresentthemselves, thosememoriesmayreturn, sometimesviolently. ## COMPULSIVELYING
 
-Youcanopt tostartwithoneDerangement.A Derangementcounts astwoNegative Traitsbutitcanbequitedangerousifyourunntoafewvampireswhileinthemidstof apanicattack.Conversely,huntersundergreatstressmay suffer fromDerangementsatthe discretionof theStoryteller.AnyhunterwholosesherlastpermanentHumanityTrait immediately gains a Derangement,as she spirals into inhuman insanity.The final HumanityTraitisretained(asit'simpossiblefora human to fully lose touchwithher human nature)but theStoryteller assigns an appropriate newDerangement.
-
-Expenditure ofWillpower can curb the effects of a Derangement,but the Derangements always come back to haunt the character. Only prolonged use of Willpowercanstave off Derangementspermanently.Acharacterwho hasspentseven to15WillpowerTraits inresistingDerangementsmay manageto overcome the handicap,at theStoryteller's discretion.
-
-## AMNESIA
-
-Inhighlytraumaticsituationsyousometmesforgetwhoandevenwhatyouare. Youmaysimplyforgetthememoryofasinglesituation,oryoumayforgeteverything aboutyouridentity,includingyourcurrentmission.Wheneventsandsituationsthat remindyou ofyourlostmemoriespresentthemselves,thosememoriesmayreturn, sometimesviolently.
-
-## COMPULSIVELYING
-
-You were inNewYorkwith a friend once—thename isn't important——andyou managed toconvincethiscardealer(hewas prettyhard uptomakea sale)tosellyouhis brandnewodgeViperforlikeathousanddollars.Whataeatdeal!Hedidntven charge taxorhaveyougothroughthewhole paperwork ofregisteringit oranything.He did all thathimself.Oh,youwant toseethecar?Well,it'sintheshoprightnowbeing repainted.Itwasthis nasty shadeof limegreen.YousayVipersdon'tcomeingreen?Well, thisonewasaspecialeditionsigned bytheresidentof thecompanyWhatwashisname Well, the signaturewasn't very legibleyou know howbig businessmen are.
-
-When you are being pressured about something,this Derangement can be triggered and youmust spendWillpower notto lie outrageously.
-
-## DELUSIONAL
-
-Whenthingsgetparticularlyhardtodealwithyouoftenreverttosomeoneyou can trust todoa better jobthanyouwould.Somebody efficient;somebody stalwart.
-
-Delusional identities arise fromfeelings of completehopelessness anddespair, and theyreflectyourdeepestterrors.Inmomentsofstressorfear,yourrealpersonality
+You were in New Yorkwith a friend once—the name isn't important——and you managed toconvincethiscardealer(hewas prettyhard uptomakea sale)tosellyouhis brandnewodge Viperforlikeathousanddollars.what aeatdeal!Hedidntven charge taxorhaveyougothroughthewhole paperwork of registeringit or anything.He did all that himself.Oh, you want toseethecar?Well, it'sintheshoprightnowbeing repainted.Itwasthis nasty shadeof limegreen.you say Vipersdon'tcomeingreen?Well, this onewasaspecialeditionsigned bytheresidentof the company what washisname Well, the signaturewasn't very legibleyou know how big businessmen are. When you are being pressured about something, this Derangement can be triggered and you must spend will power not to lie outrageously. ## DELUSIONAL when thingsgetparticularlyhardtodealwithyouoftenreverttosomeoneyou can trust todoa better jobthanyouwould.Somebody efficient;somebody stalwart. Delusional identities arise from feelings of completehopelessness and despair, and the yreflectyourdeepestterrors.Inmomentsofstressorfear, you rrealpersonality
 
 ## Laws of the Hunt
 
-## Character Creation
+## Character Creation will retreat, and are lacement identity（but with thesame Traitsetc.）, constructed from you rideas of what competence is, will takeitsplace.this other self can bea fictional, historicalorcomposite character. Alternately，you r delusions may take the for m of misinterpretation of the situation athand, tomakeitseemmorecomfortableandacceptabletoyou. ## DIPSOMANIA
 
-will retreat,and arelacement identity（butwiththesameTraitsetc.）,constructed fromyourideas ofwhatcompetence is,will takeitsplace.Thisother self can bea fictional,historicalorcomposite character.
+You are possessed by the urge to drinkyourself into anabsolute stuporwhen the goinggetstough(or evenmildlyirritating).Sucha Derangementcandestroyany trust othersmaylaceinyouhisweaknessshoulditbecomeowncouldbeusedvry effectively againstyouas aweapon.If the Derangementcomes overyou at anevent, you will immediatelybe affected by the Negative Mental Trait Witless. Happydunkrotuaesighlynthistatoustaggeraout, weaa you walk and sayall the wrongthings.you knowyouarestronger and moreeffective while drunk, how ever, and you turn toit as acrutch to helpyou out. ## HEBREPHRENIA the horror of the World of Darkness unveiled has shatteredyour perceptions of everythingyouonce heldas logicalandreal.this mental trauma has plungedyou into a stateof mindwhereyoumaintainyou sanitybyclingingtotheidea that everything is goingoninyour head.Everyoneyouknowisbutacharacterinthelittleplayworld you rmindhascreated.Thosearoundyougetprettymadwhenyouarerudewiththem, but itdoesn'tmatterbecausethey are n'tevenreal.who caresif afigment of you r imaginationgets annoyed, anyway? ## HYPOCHONDRIA
 
-Alternately，your delusions may take the form ofmisinterpretation ofthe situation athand,tomakeitseemmorecomfortableandacceptabletoyou.
+You have not iced that when you get even the slightestbit stressedyou begin to getsick the sicknessisusuallyjustaheadacheorupsetstomachbut sometmesitgs muchworse.Ifatanytimeduringaneventyoubecomeupsetaboutanythingyouwill begin to thinkyou are coming do wnwith something.In all probabilityyou are quite healthy, but you needsomekind of excuse togetsympathyfrom those aboutyou. when you begintogetsickfromall the stresyouwilleffectivelybedownbyone Physical Trait for the rest of the event or until you r"attack"passes. ## INTELLECTUALIZATION you have recoiledfromthehorrorofyoursituation, and you protectyourselfby feelingnothing.you insulateyourself inaworldof logicandintellectualvigorwhere emotions have noplace.By is olatingyour incompatible needs and thoughrs into separatecompartments, you avoid losingcontrol.how ever, the pressurenevitably mounts, and the dam eventually burstsduring a stressful situation. ## MANIC-DEPRESSION you sinkintodeepandfitfuldepressions, showingnointerestinanythingthatused tocaptureyourimagination.you viewtheworldasflatandgray, holdingnothingof valueforyou.you can not rouseyourself todoanything, thoughyouwillgoalongwith othersratherthanexpend the energytoresist.Conversely, occasionalfitsofgreatenergy grabholdofyouandyou will workforhoursorevendaysonyourprojects.Duringthis timeyouresist even the need tosleep as you burnup all you rresourcesonyourschemes. ## MASOCHISM
 
-## DIPSOMANIA
+Sometimesthingswillgowrongdreadfullyso, and deepnyourheartyouknow it'syourfault.Sincenobodyelsemaynecessarilyknowthatit'sallyourfault, you have toworkoutaway of keepingyourself inline.Sometimesyou do this bygetting in harmful situations or by hanging about people and creatureswho dislikeyou.You deserve the ir abuse, after all. you eventendtnjuryourselfhysicallybutevertoagreethatmostle would not ice.You don't want anybody to knowwhat a terribleperson you are.If a problemcomeupandyougetblamedvenfalselyouapologizerofuselyandff you rselfuptothemercyofyouraccuser.Evenif you'renotresponsibleforitthistime, odds are it's justkarma catching upwithyou for all of you r other crimes. ## MULTIPLEPERSONALITIES
 
-You arepossessed by theurge to drinkyourself intoanabsolute stuporwhen the goinggetstough(orevenmildlyirritating).SuchaDerangementcandestroyany trust othersmaylaceinyouhisweaknessshoulditbecomeowncouldbeusedvry effectively againstyouas aweapon.If theDerangementcomes overyou at anevent, you will immediatelybe affected by theNegativeMentalTraitWitless.
+You possess a number of different personalities, and you change Nature and Demeanorintimesofgreatpersonalstress.Thusyoubehaveinradicallydifferentways atdifferenttimes.Naturallythiscausesotherstodistrustyou, asthey'reneverquite surewho they'retalking to.you r currentpersonalitypersistsuntil eitheryou change personalityagainduring astressfulsituationoryouexpenda will power Traittoreturn to you r"basic"personality. ## OBSESSION when anewpersonenters you r life or you are facedwith a dramatic situation, you can sometimesbecomeobsessedwiththatpersonorsomefetishassociatedwith the situation.this Derangementgives you asortof perverseambition towardwhich you directallyourenergy.Ifyouaredirectlythwartedinyourobsession, you may react violently. ## OBSESSIVE-COMPULSION
 
-Happydunkrotuaesighlynthistatoustaggeraout,weaa youwalk andsayall thewrongthings.Youknowyouarestronger andmoreeffective while drunk,however,andyou turn toit as acrutch to helpyou out.
+You are obsessedwithkeepingtrackof things, maintaining exhaustiverecords and keeping everything in its place. Unless absolute or derismaintained in you r life, everythingwill dissolve into chaos. ## PANZAISM
 
-## HEBREPHRENIA
+Since you r induction to the ways and world of the supernatural, you have become completely detached.When this Derangement is at itsmildest, you have sometroublewiththeideaof the worldat largebeingreal.You seemtobehalfway out of you rbody, in away. when the Derangement is atitsworst, how ever, thingsgetreallyinteresting. When thus afflicted, you realize that not hing is real.not hing.You are not hing. Everything is unreal.you can'taffect itand itcan'taffectyoubecause the re is not hing the re.when everythingseemstobegoingwrongyouwrapyourself upinthisideaand do n'tcome outuntil things are a littlemore toyour liking. ## PARANOIA
 
-Thehorror of theWorld of Darkness unveiled hasshatteredyour perceptions of everythingyouonce heldas logicalandreal.Thismental trauma hasplungedyou into a stateof mindwhereyoumaintainyou sanitybyclingingtotheidea thateverything isgoingoninyour head.Everyoneyouknowisbutacharacterinthelittleplayworld yourmindhascreated.Thosearoundyougetprettymadwhenyouarerudewiththem, but itdoesn'tmatterbecausethey aren'tevenreal.Whocaresif afigment ofyour imaginationgets annoyed,anyway?
-
-## HYPOCHONDRIA
-
-You havenoticed that whenyou get even the slightestbit stressedyou begin to getsickThesicknessisusuallyjustaheadacheorupsetstomachbut sometmesitgs muchworse.Ifatanytimeduringaneventyoubecomeupsetaboutanythingyouwill begin to thinkyou are coming downwith something.In all probabilityyou arequite healthy,butyouneedsomekind of excuse togetsympathyfrom those aboutyou. Whenyoubegintogetsickfromall thestresyouwilleffectivelybedownbyone Physical Trait for the rest of the event or until your"attack"passes.
-
-## INTELLECTUALIZATION
-
-Youhaverecoiledfromthehorrorofyoursituation,andyouprotectyourselfby feelingnothing.Youinsulateyourself inaworldof logicandintellectualvigorwhere emotions have noplace.By isolatingyour incompatible needs and thoughrs into separatecompartments,youavoid losingcontrol.However,thepressurenevitably mounts,and thedam eventually burstsduring a stressful situation.
-
-## MANIC-DEPRESSION
-
-Yousinkintodeepandfitfuldepressions,showingnointerestinanythingthatused tocaptureyourimagination.Youviewtheworldasflatandgray,holdingnothingof valueforyou.Youcannotrouseyourself todoanything,thoughyouwillgoalongwith othersratherthanexpend theenergytoresist.Conversely,occasionalfitsofgreatenergy grabholdofyouandyou will workforhoursorevendaysonyourprojects.Duringthis timeyouresist even theneed tosleep as youburnup all yourresourcesonyourschemes.
-
-## MASOCHISM
-
-Sometimesthingswillgowrongdreadfullyso,anddeepnyourheartyouknow it'syourfault.Sincenobodyelsemaynecessarilyknowthatit'sallyourfault,youhave toworkoutaway ofkeepingyourself inline.Sometimesyou do thisbygetting in harmful situations orby hanging about people andcreatureswho dislikeyou.You deserve their abuse,after all.
-
-Youeventendtnjuryourselfhysicallybutevertoagreethatmostle wouldnotice.You don't want anybody to knowwhat a terribleperson you are.If a problemcomeupandyougetblamedvenfalselyouapologizerofuselyandff yourselfuptothemercyofyouraccuser.Evenif you'renotresponsibleforitthistime, odds are it's justkarma catching upwithyou for all of your other crimes.
-
-## MULTIPLEPERSONALITIES
-
-You possess a number of different personalities,andyou changeNature and Demeanorintimesofgreatpersonalstress.Thusyoubehaveinradicallydifferentways atdifferenttimes.Naturallythiscausesotherstodistrustyou,asthey'reneverquite surewho they'retalking to.Your currentpersonalitypersistsuntil eitheryou change personalityagainduring astressfulsituationoryouexpendaWillpowerTraittoreturn to your"basic"personality.
-
-## OBSESSION
-
-Whenanewpersonenters your life or you arefacedwith a dramatic situation, youcansometimesbecomeobsessedwiththatpersonorsomefetishassociatedwith the situation.ThisDerangementgives youasortof perverseambition towardwhich youdirectallyourenergy.Ifyouaredirectlythwartedinyourobsession,youmay react violently.
-
-## OBSESSIVE-COMPULSION
-
-You are obsessedwithkeepingtrackof things,maintaining exhaustiverecords andkeeping everything in its place. Unless absolute orderismaintained in your life, everythingwill dissolve intochaos.
-
-## PANZAISM
-
-Since your induction to the ways andworld of the supernatural,you have become completely detached.When thisDerangement is at itsmildest,you have sometroublewiththeideaof theworldat largebeingreal.You seemtobehalfway out of yourbody,in away.
-
-WhentheDerangement is atitsworst,however,thingsgetreallyinteresting. When thus afflicted,you realize that nothing is real.Nothing.You are nothing. Everything is unreal.Youcan'taffect itand itcan'taffectyoubecause there isnothing there.Wheneverythingseemstobegoingwrongyouwrapyourself upinthisideaand don'tcome outuntil things area littlemore toyour liking.
-
-## PARANOIA
-
-When someone threatens orstubbornly opposes you,you become convinced that thepersonis afteryou.You become obsessed with thoseyoubelieve tobeyourenemies, and youmake all kinds of mad preparations toprotect yourself.Duringbouts of this Derangement,you trustnooneand hold evenyourclosestfriendsunder suspicion.
-
-## Laws of the Hhunt
+When someone threatens or stubbornly opposes you, you become convinced that the personis afteryou.You become obsessed with thoseyoubelieve tobeyourenemies, and you make all kinds of mad preparations toprotect you rself.Duringbouts of this Derangement, you trustnooneand hold evenyourclosestfriendsunder suspicion. ## Laws of the Hhunt
 
 ## PERFECTION
 
-When nothing seems tobe going right,you can become obsessedwith perfection. Everythingmustbejustso,andyouuseallyourenergytopreventanythingfromgoingwrong. Youfocus all yourattentiononkeepingeverything about you inperect,unaltered order.
+When not hing seems tobe going right, you can become obsessedwith perfection. Everythingmustbejustso, and you useallyourenergytopreventanythingfromgoingwrong. you focus all you rattentiononkeepingeverything about you inperect, unaltered or der. ## POWER-MADNESS you can becomesoobsessedwithpower and do minancethatyou loseallcontrol of you rself.when you rambitionsarethwarted, you sometimesbecomeenragedand attackthosewhoopposeyou.Ingeneral, you seektotalandabsolutecontrol over everything and everyone aroundyou. ## QUIXOTISM this Derangement is the opposite of Panzaism.You believe absolutelyin everything you see or hear.Yes, the re are faeries.that guywith all the hair, hesawerewolf.This pendantcamefrom Atlantis.You'll beoutchallengingwindmillstopersonal combat, at leastmetaphorically.you most likely came from a perfectlymundane backgroundwhere not hingoutof the or dinaryhappened.Nowthatyou'vebeeninitiatedintothetruenature of the World of Darkness, you've taken everything to the farthestreaches of you r imagination.when stressovertakesyou, you are do wntwo Mental Traits. ## REGRESSION
 
-## POWER-MADNESS
+Intimesof stres, when muchsbeingdemandedofyouyoucanbecomechildlike, retreatingtoalessmature aspect of you rself.At suchtimesyou findit difficult todo anythingforyourselfandwithouttheaidofothersyouarequitehelpless. ## SADISM
 
-Youcanbecomesoobsessedwithpower anddominancethatyou loseallcontrol ofyourself.Whenyourambitionsarethwarted,yousometimesbecomeenragedand attackthosewhoopposeyou.Ingeneral,youseektotalandabsolutecontrol over everything and everyone aroundyou.
+You tend toreverttocrueltywhen underpressure.not hingrelievesyourstress like causing people pain.Physical pain isn't all you excel in, thoughsometimes mental scarring can lastmuch longer than a mere physicalwound.when ever confrontedwith somethingthatprofoundlybothersyouyoumust eitherspenda will power Trait or find somewayof takingoutyourangeron someone immediately. ## MERITSANDFLAWS
 
-## QUIXOTISM
+Merits and Flawsrepresent special advantages and disadvantages that extend beyondmundanecapabilities.Bytaking Meritsor Flaws, you markyourcharacteras unique, with rarepowersorresourcesbeyondthoseavailabletomostnormal humans. Merits grant special powers and benefits, and they can only be takenby expending available Traits.Conversely, Flawsmarkhindrancesorspecialdisadvantagesandgive you additional Traitswithwhich toflesh outyourcharacter. you do not havetotake any Meritsor Flaws, and you r Storytellermaychoosetolimit certainonesorforbidthementirely.how ever, afewwell-chosen Meritsand Flawscanround outahunter, definingwhyhespecializesinaparticular Abilityorgivinghimnotablepowers. you may select up to five Traits'worth of Flaws for you r character;you gain additional Free Traitsequaltothevalueofthechosen Flaws.Meritsntheotherhand, cost Free Traitstoacquire;you may takeanyamountof Meritsubjecttothelimitf the Traitsthatyouhaveavailable.Ifyouwish(and ifyour Storytellerapproves), you may takemorethanfive Traitsworthof Flawstorepresentaparticularlydisturbedorcrippled character, but you can not gainmorethanfive Free Traitsregardlessofthetotalnumber of Flawstaken.Insomecasesthe Storytellermayrestrict the purchaseof Meritsand Flaws—or ban the ir use outright—sobesure toaskfirst. Merits and Flaws are unusual advantages and disadvantages that goa longway towardcreatingathree-dimensionalcharacter.Many of the mwill befamiliarbecause the yhavealwaysbeenavailabletosupernaturalcreatures, but the re are somenewones specificallyformortal characters. Meritsareadvantageoustoacharacter, and they have a Traitcostassociatedwiththem. Flawsaredisadvantageous, and the re for e, bestowanumberofadditional Free Traits.Playerscan onlychoose Meritsand Flawsatcharactercreation, and thosechosenshouldfitinwiththe conceptof the character.Overthecourseofachronicle, and with the Storytellersapproval, a charactermaydevelopa Meritorovercomea Flawdueto somethingmonumental that happens in a story.Todosocosts do ublethe Meritor Flaw'snormal cost in Experience Traits. ## APTITUDES the se Merits and Flaws deal with you r abilities and natural talents. ## ABILITYAPTITUDE(ITRAITMERIT)
 
-ThisDerangement is the opposite of Panzaism.You believe absolutelyin everything you see or hear.Yes,there arefaeries.Thatguywith all thehair,hesawerewolf.This pendantcamefromAtlantis.You'll beoutchallengingwindmillstopersonal combat,at leastmetaphorically.Youmost likely came froma perfectlymundane backgroundwhere nothingoutof theordinaryhappened.Nowthatyou'vebeeninitiatedintothetruenature oftheWorld ofDarkness,you've taken everything to thefarthestreaches ofyour imagination.Whenstressovertakesyou,you aredowntwoMentalTraits.
+You have anatural affinityforaparticularnoncombat-related Ability.You are two Traitsupon all testsdirectlyrelated to that Ability. ## AMBIDEXTROUS(ITRAITMERIT)
 
-## REGRESSION
-
-Intimesof stres,whenmuchsbeingdemandedofyouyoucanbecomechildlike, retreatingtoalessmature aspect of yourself.At suchtimesyou findit difficult todo anythingforyourselfandwithouttheaidofothersyouarequitehelpless.
-
-## SADISM
-
-You tend toreverttocrueltywhen underpressure.Nothingrelievesyourstress like causing people pain.Physical pain isn't all you excel in,thoughsometimes mental scarring canlastmuch longer than a mere physicalwound.Whenever confrontedwith somethingthatprofoundlybothersyouyoumust eitherspenda WillpowerTrait orfind somewayof takingoutyourangeron someone immediately.
-
-## MERITSANDFLAWS
-
-Merits andFlawsrepresent special advantages and disadvantages that extend beyondmundanecapabilities.BytakingMeritsorFlaws,youmarkyourcharacteras unique,withrarepowersorresourcesbeyondthoseavailabletomostnormal humans. Merits grant special powers and benefits,and they can only be takenby expending availableTraits.Conversely,Flawsmarkhindrancesorspecialdisadvantagesandgive you additionalTraitswithwhich toflesh outyourcharacter.
-
-Youdonothavetotake anyMeritsorFlaws,andyourStorytellermaychoosetolimit certainonesorforbidthementirely.However,afewwell-chosenMeritsandFlawscanround outahunter,definingwhyhespecializesinaparticularAbilityorgivinghimnotablepowers.
-
-Youmay select up to five Traits'worth ofFlaws for your character;you gain additionalFreeTraitsequaltothevalueofthechosenFlaws.Meritsntheotherhand, costFreeTraitstoacquire;youmay takeanyamountofMeritsubjecttothelimitf theTraitsthatyouhaveavailable.Ifyouwish(andifyourStorytellerapproves),youmay takemorethanfiveTraitsworthofFlawstorepresentaparticularlydisturbedorcrippled character,butyoucannotgainmorethanfiveFreeTraitsregardlessofthetotalnumber
-
-<!-- image -->
-
-<!-- image -->
-
-ofFlawstaken.InsomecasestheStorytellermayrestrict thepurchaseofMeritsand Flaws—or ban their use outright—sobesure toaskfirst.
-
-Merits andFlaws are unusual advantages anddisadvantages thatgoa longway towardcreatingathree-dimensionalcharacter.Many of themwill befamiliarbecause theyhavealwaysbeenavailabletosupernaturalcreatures,butthere aresomenewones specificallyformortal characters.
-
-Meritsareadvantageoustoacharacter,andtheyhaveaTraitcostassociatedwiththem. Flawsaredisadvantageous,andtherefore,bestowanumberofadditionalFreeTraits.Playerscan onlychooseMeritsandFlawsatcharactercreation,andthosechosenshouldfitinwiththe conceptof thecharacter.Overthecourseofachronicle,andwiththeStorytellersapproval, a charactermaydevelopaMeritorovercomeaFlawdueto somethingmonumental that happens in a story.Todosocosts doubletheMeritorFlaw'snormal cost inExperienceTraits.
-
-## APTITUDES
-
-TheseMerits andFlaws deal with your abilities andnatural talents.
-
-## ABILITYAPTITUDE(ITRAITMERIT)
-
-You have anatural affinityforaparticularnoncombat-relatedAbility.You are twoTraitsupon all testsdirectlyrelated to thatAbility.
-
-## AMBIDEXTROUS(ITRAITMERIT)
-
-You have no penalty for doing thingswithyour"off'hand.You canfight with twoweapons,simply risking one additional Trait with each attack(normally, someone attackingwith twoweaponswouldriskone additionalTrait for hisprimary hand,andtwoadditionalTraitsforhissecondaryhand)Furthermore,you sufferno penalties when performing taskswitheither hand;most peoplemust risk anadditional Trait whenever using thewrong hand.
-
-## PITIABLE(ITRAITMERIT)
-
-Thereissomethingaboutyouthatcausesotherstotakecareofyouasif you were a child.SomeNatureswillnotbeaffectedbythisMerit,and someDemeanorsmay pretend they arenot.Youneed to decidewhat it is about you that attracts such pity, andhowyou feelabout it.When someone haschallengedyouwithintenttodoyou harm,you are oneTrait up inyourown defense.
-
-## DAREDEVIL(3TRAITMERIT)
-
-Youaregoodattakingrisks,andyouarent toobadatsurvivingthem,either.ou are oneTrait up on any challenge inwhichyou try somethingparticularly dangerous. ThisMritnlyaiombatifouareobouslumatdbuwadnanyway.
-
-## JACK-OF-ALL-TRADES(STRAITMERIT)
-
-Youhavealargepoolofmiscellaneoustalents,skillsandknowledgeobtainedthrough your extensive travels,thejobsyou'veheld ortoomuchtimespentwatchingpublic television.YoumayinvokeAbilitieswhichyoudonotnormallypossess,thoughyoumust risk anadditionalTrait todoso.ForinstanceyoucouldexpendaMentalTraittotrytopick a lockwithSecurity,evenif you don'tpossess thatAbility;you stillneed tomake any associated tests(suchasafurtherChallengeto actuallypickthelock)normally.Ofcourse, youmaychoosetoexpendaWillpowerTraittoattemptanunknownAbility,asusual.
-
-## Character Creation
+You have no penalty for do ing thingswithyour"of f'hand.You can fight with twoweapons, simply risking one additional Trait with each attack(normally, someone attackingwith twoweaponswouldriskone additional Trait for hisprimary hand, and twoadditional Traitsforhissecondaryhand)Furthermore, you sufferno penalties when performing taskswitheither hand;most peoplemust risk anadditional Trait when ever using the wrong hand. ## PITIABLE(ITRAITMERIT) the reissomethingaboutyouthatcausesotherstotakecareofyouasif you were a child.Some Natureswillnotbeaffectedbythis Merit, and some Demeanorsmay pretend they are not.you need to decidewhat it is about you that attracts such pity, and how you feelabout it.When someone has challengedyouwithintenttodoyou harm, you are one Trait up inyourown defense. ## DAREDEVIL(3TRAITMERIT) you are goodattakingrisks, and you aren't toobadatsurvivingthem, either.ou are one Trait up on any challenge inwhichyou try somethingparticularly dangerous. this Mritnlyaiombatifouareobouslumatdbuwadnanyway. ## JACK-OF-ALL-TRADES(STRAITMERIT) you have alargepoolofmiscellaneoustalents, skillsandknowledgeobtainedthrough you r extensive travels, the jobsyou'veheld or toomuchtimespentwatchingpublic television.you mayinvoke Abilitieswhichyoudonotnormallypossess, thoughyoumust risk anadditional Trait todoso.for instanceyoucouldexpenda Mental Traittotrytopick a lockwith Security, evenif you do n'tpossess that Ability;you stillneed tomake any associated tests(suchasafurther Challengeto actuallypickthelock)normally.of course, you maychoosetoexpenda will power Traittoattemptanunknown Ability, asusual. ## Character Creation
 
 ## ILLITERATE(ITRAITFLAW)
 
-You are unable toread orwrite.This Flaw is a causeof endless frustration when trying toperform research about supernatural quarry.
+You are unable toread or write.This Flaw is a causeof endless frustration when trying toperform research about supernatural quarry. ## INEPT(STRAITFLAW) you are not attuned toyournaturalaptitudes.You startthegamewithno Ability Traitsr Influences Furthermoreoucannotraiseany Abilityornfluenceaboven leveluntilyou'veovercomethis Flaw. ## AWARENESS the se Merits and Flawsdealwithyour perception. ## ACUTESENSE(ITRAITMERIT)
 
-## INEPT(STRAITFLAW)
+You have anexceptionally sharp sense(choose from hearing, vision, smellor taste).You are two Traits up on all perceptionchallenges relatedto that sense. ## HARD OF HEARING(ITRAITFLAW) you r hearingis defective.You are two Traits do wn on hearing challenges.You may not take the Merit:Acute Sense (Hearing). ## IMPAIREDSIGHT(ITRAITFLAW)
 
-Youarenot attuned toyournaturalaptitudes.You startthegamewithnoAbility TraitsrInfluencesFurthermoreoucannotraiseanyAbilityornfluenceaboven leveluntilyou'veovercomethisFlaw.
+You are severely nearsighted or farsighted, and you require corrective lenses. with outyourglasesouarene Traitdownonsight-relatedchallengesoumayt take the Merit:Acute Sense(Vision)ifyou take this Flaw. ## ONEEYE(2TRAITFLAW) you are missingoneeye, determinedrandomlyorchosen.you have noperipheral vision on you r blind side, and are two Traits do wn on any testrequiring depth perception, such asfiringa gun.you may choose tocover one eyewhile you are playing. ## WEAKSENSE(2TRAITFLAW)
 
-## AWARENESS
+One of you r senses is defective, though not totally absent.In all challenges relating tothis sense, you are automatically do wn two Traits.Such damage is not correctable;glasses won't help weak sight in this case, nor will a hearing aid overcomeweakhearing.Rather, you suffer from anincurabledeficiency, such as severe astigmatism or tinnitus. Obviously, you may not have a sense that is simultaneously acuteandweak. ## DEAF(3TRAITFLAW)
 
-TheseMerits andFlawsdealwithyour perception.
+You can not hear sound, and you must relent on challengesrelatedtohearing. You should getyour Storyteller's approval before choosing this Flaw, as it can be difficult toroleplayifyou are not truly deaf. ## BLIND(6TRAITFLAW)
 
-## ACUTESENSE(ITRAITMERIT)
+You have nosense of vision, and you mustrelent on challengesrelated to sight. You should roleplaythis Flawtothebestofyour ability, but not toapointwhereit endangers anyone's safety. ## MENTAL the se Merits and Flawsdealwith the capabilities of you rmind. ## COMMONSENSE(1TRAITMERIT) you have a greatdeal of everydaywisdom and practicality.when everyou are about tomake ablunderthatgoes againstbetterjudgment, a Narratorwill alertyou to you r potential mistake.this Merit is excellent for noviceplayers. ## TIMESENSE(ITRAITMERIT)
 
-You have anexceptionally sharp sense(choose fromhearing,vision,smellor taste).You are twoTraits up on all perceptionchallenges relatedto that sense.
+You are always aware of the time, evenwhenyou'vebeen sleeping or under ground.you can estimate the current timetoaminute or twoandfollowthecalendar inyourheadwithexactingprecision.Furthermoreyouresistanypowersthatdisorient you r timesense(suchasthechangeling Artof Chronos)with twoadditional Traits. this eritisexcellentforjudgingunriseandsunset, of courseandhereforeial for hunting vampires. ## EIDETICMEMORY(2TRAITMERIT)
 
-## HARD OF HEARING(ITRAITFLAW)
+You are two Traits up on all memory-related challenges, asyou can remember anythingyouseeor hearwithperfectclarity.Althoughsupernatural befuddlement can stillcloudyourmemoryyourelikelytobecomequitsuspiciousif someonedraws attentiontoyourcloudedmind, simplybecauseyoureused torememberingeverything.Atanytime, you may aska Narratorforinformationregarding somethingyou wishtorecall, and the n arratorisobligedto inform you appropriately(althoughyou may be required to make a Simple Testforcomplex or lengthy dissertations). ## IRONWILL(4TRAITMERIT) when you rmindisset, not hingcanthwartyoufromyourgoals.you are extremely resistanttopowersthataffectyourmindoremotions, suchasthevampiric Discipline of do minate.when evermagicalmeans are usedtocontrolyourmind, you mayexpend a Trait of will power to automaticallyresist(instead of simplygainingaretest).If you do not have anyremaining will power Traits, or ifyouareunawareof the attemptand thusunabletoactivelyresist, you are still two Traitsupinthechallenge. ## CONFUSED(2TRAITFLAW) you are oftenconfused, and the worldseemstobeaverydisorientedandtwisted place.Sometimesyou are simply unable tomake sense of things.you need toroleplay this behavior all the time toa small degree, but you r confusionbecomes especially strongwhenever you are surround byexcessive stimuli (such asa number of people all talking at once, or the noisein a loudnightclub).You are two Traits do wn on all challengesinsuchsituations.you may spenda will power Trait tooverridetheeffects of you rconfusion, but onlyfora scene. ## ABSENT-MINDED(3TRAITFLAW)
 
-Your hearingis defective.You are twoTraits down on hearing challenges.You may not take the Merit:Acute Sense (Hearing).
+Thoughyoudonotforgetsuchthingsasbilitiesouoforgetaesaddressean what you ateforbreakfast.Inordertorememberanythingotherthanyourownname, address and phonenumber during stressful situations, you mustwin a Static Mental Challenge(the Storytellerwill determine the difficulty) or spend a will power Trait. ## Laws of the Hunt
 
-## IMPAIREDSIGHT(ITRAITFLAW)
+## WEAK-will ED(3TRAITFLAW)
 
-You are severely nearsighted or farsighted,andyou require corrective lenses. WithoutyourglasesouareneTraitdownonsight-relatedchallengesoumayt take theMerit:AcuteSense(Vision)ifyou take thisFlaw.
+You are highly susceptibletothecontrolofothers, and are two Traitsdowninall challengeswhereyouarecommandedorintimidated.you can onlyuseyour will powerwhen survivalisatstakeoritsappropriatetoyour Nature.Furthermoreyourwillisnotstrongenough touseanyformof hedgemagic.you can not learn touse Sorcery or the urgy of any sort. ## PHYSICAL the se Merits and Flaws deal with you r health and physical body. ## do UBLE-JOINTED(ITRAITMERIT)
 
-## ONEEYE(2TRAITFLAW)
+You are unusually supple.You are one Trait up on all Physical Challenges requiringbodyflexibility, such asclamberingup a chimney or reachingintoa tiny space togetbackyour dropped crucifix. ## LIGHTSLEEPER(2TRAITMERIT) you can awakeninstantlyatanysignof troubleordanger, and you do sowithout any sleepiness or hesitation.Whilemostmortals are two Traitsdown onall testsfor aturn after awakening, you wakeupautomatically atanythingamissandsufferno penalties for drowsiness.you get by quitewell onfour hours of sleeppernight, a significantadvantage when huntingvampiresintheeveningswhile holdinga day job. ## RESEMBLEVAMPIRE(2TRAITMERIT)
 
-Youaremissingoneeye,determinedrandomlyorchosen.Youhavenoperipheral vision on your blind side,and are two Traits down on any testrequiring depth perception,such asfiringa gun.Youmay choose tocover one eyewhile you areplaying.
+You are naturallypale and thin, and you physicallyresemble avampiretosome degree.Whileyouobviouslydon'thavefangsandyoustillhaveaheartbeat, you rbasic physicalappearanceisindistinguishablefromoneof the undead.you can move.easily amongvampireswithouttoomuchfearofrecognition-thoughyouhadbestbe prepared for someinitialmisunderstandings onthepart of other hunters. ## POISONOUSBLOOD(3TRAITMERIT) for what everreason, you rbloodispoisonoustovampires.Althoughyousuffer injurynormallywhenavampiredrinksyourblood, the vampiregainsnonourishment from the fluid, and hesuffersone Health Levelofdamageforeach Traitofblood he consumes.Unfortunately, vampirescannot tell that you rbloodispoisonous until it is ingested, sothisdoesnotprotectyoufrominitialattack, but itdoesmeanhat vampiresareunlikelytofeed onyou againlater. ## HUGESIZE(4TRAITMERIT) you are abnormallylargeinsizepossiblyoversevenfeettalland400poundsin weight.you have oneextra Health Level, makingyouabletosuffermoreharmefore you are incapacitated.you should represent this Meritwithbulkypaddingandheavy boots if you are not actually of tremendous size. ## DEEPSLEEPER(ITRAITFLAW)
 
-## WEAKSENSE(2TRAITFLAW)
-
-One of your senses is defective,though not totally absent.In all challenges relating tothis sense,you are automatically down twoTraits.Such damage is not correctable;glasses won't help weak sight in this case,nor will a hearing aid overcomeweakhearing.Rather,you suffer from anincurabledeficiency,such as severe astigmatism or tinnitus. Obviously,you may not have a sense that is simultaneously acuteandweak.
-
-## DEAF(3TRAITFLAW)
-
-You cannothear sound,andyou must relent on challengesrelatedtohearing. You shouldgetyour Storyteller's approval before choosing thisFlaw,as it canbe difficult toroleplayifyou arenottruly deaf.
-
-## BLIND(6TRAITFLAW)
-
-You havenosense ofvision,andyou mustrelent on challengesrelated to sight. You shouldroleplaythisFlawtothebestofyour ability,butnottoapointwhereit endangers anyone's safety.
-
-## MENTAL
-
-TheseMerits andFlawsdealwith the capabilities of yourmind.
-
-## COMMONSENSE(1TRAITMERIT)
-
-Youhavea greatdeal of everydaywisdom andpracticality.Wheneveryou are about tomake ablunderthatgoes againstbetterjudgment,aNarratorwill alertyou to your potential mistake.ThisMerit is excellent for noviceplayers.
-
-## TIMESENSE(ITRAITMERIT)
-
-You are always aware of thetime,evenwhenyou'vebeen sleeping orunder ground.Youcanestimate thecurrent timetoaminute ortwoandfollowthecalendar inyourheadwithexactingprecision.Furthermoreyouresistanypowersthatdisorient your timesense(suchasthechangelingArtof Chronos)withtwoadditionalTraits. Thiseritisexcellentforjudgingunriseandsunset,ofcourseandhereforeial for hunting vampires.
-
-## EIDETICMEMORY(2TRAITMERIT)
-
-You aretwoTraits up on allmemory-related challenges,asyou canremember anythingyouseeor hearwithperfectclarity.Althoughsupernatural befuddlement canstillcloudyourmemoryyourelikelytobecomequitsuspiciousif someonedraws attentiontoyourcloudedmind,simplybecauseyoureused torememberingeverything.Atanytime,youmay askaNarratorforinformationregarding somethingyou wishtorecall,andtheNarratorisobligedto inform you appropriately(althoughyou may be required to make aSimpleTestforcomplex or lengthy dissertations).
-
-## IRONWILL(4TRAITMERIT)
-
-Whenyourmindisset,nothingcanthwartyoufromyourgoals.Youareextremely resistanttopowersthataffectyourmindoremotions,suchasthevampiricDiscipline ofDominate.Whenevermagicalmeans areusedtocontrolyourmind,youmayexpend aTrait ofWillpower to automaticallyresist(instead of simplygainingaretest).If you donothaveanyremainingWillpowerTraits,orifyouareunawareof theattemptand thusunabletoactivelyresist,you arestill twoTraitsupinthechallenge.
-
-## CONFUSED(2TRAITFLAW)
-
-Youareoftenconfused,andtheworldseemstobeaverydisorientedandtwisted place.Sometimesyou are simply unable tomake sense of things.Youneed toroleplay thisbehavior all thetime toa small degree,butyour confusionbecomes especially strongwhenever youare surround byexcessive stimuli (such asa number of people all talking at once,or thenoisein a loudnightclub).You are twoTraits down on all challengesinsuchsituations.Youmay spendaWillpowerTrait tooverridetheeffects ofyourconfusion,butonlyfora scene.
-
-## ABSENT-MINDED(3TRAITFLAW)
-
-Thoughyoudonotforgetsuchthingsasbilitiesouoforgetaesaddressean whatyouateforbreakfast.Inordertorememberanythingotherthanyourownname, address andphonenumber during stressful situations,you mustwin aStaticMental Challenge(theStorytellerwill determine the difficulty) or spend aWillpowerTrait.
-
-## Laws of the Hunt
-
-## WEAK-WILLED(3TRAITFLAW)
-
-You arehighly susceptibletothecontrolofothers,andaretwoTraitsdowninall challengeswhereyouarecommandedorintimidated.YoucanonlyuseyourWillpowerwhen survivalisatstakeoritsappropriatetoyourNature.Furthermoreyourwillisnotstrongenough touseanyformof hedgemagic.Youcannot learn touseSorcery orTheurgy of any sort.
-
-## PHYSICAL
-
-TheseMerits andFlaws deal withyour health andphysical body.
-
-## DOUBLE-JOINTED(ITRAITMERIT)
-
-You are unusually supple.You are one Trait up on all Physical Challenges requiringbodyflexibility,such asclamberingup a chimney orreachingintoa tiny space togetbackyour dropped crucifix.
-
-## LIGHTSLEEPER(2TRAITMERIT)
-
-Youcanawakeninstantlyatanysignof troubleordanger,andyoudosowithout any sleepiness orhesitation.Whilemostmortals aretwoTraitsdown onall testsfor aturn after awakening,youwakeupautomatically atanythingamissandsufferno penalties for drowsiness.Youget by quitewell onfour hours of sleeppernight,a significantadvantage whenhuntingvampiresintheeveningswhile holdinga day job.
-
-## RESEMBLEVAMPIRE(2TRAITMERIT)
-
-You arenaturallypale and thin,andyouphysicallyresemble avampiretosome degree.Whileyouobviouslydon'thavefangsandyoustillhaveaheartbeat,yourbasic physicalappearanceisindistinguishablefromoneof theundead.Youcanmove.easily amongvampireswithouttoomuchfearofrecognition-thoughyouhadbestbe prepared for someinitialmisunderstandings onthepart of other hunters.
-
-## POISONOUSBLOOD(3TRAITMERIT)
-
-Forwhateverreason,yourbloodispoisonoustovampires.Althoughyousuffer injurynormallywhenavampiredrinksyourblood,thevampiregainsnonourishment fromthefluid,andhesuffersoneHealthLevelofdamageforeachTraitofblood he consumes.Unfortunately,vampirescannot tell thatyourbloodispoisonous until it isingested,sothisdoesnotprotectyoufrominitialattack,butitdoesmeanhat vampiresareunlikelytofeed onyou againlater.
-
-## HUGESIZE(4TRAITMERIT)
-
-Youareabnormallylargeinsizepossiblyoversevenfeettalland400poundsin weight.YouhaveoneextraHealthLevel,makingyouabletosuffermoreharmefore youareincapacitated.Youshouldrepresent thisMeritwithbulkypaddingandheavy boots if you are not actually of tremendous size.
-
-## DEEPSLEEPER(ITRAITFLAW)
-
-When you sleep, it is very difficult to awaken you.If you are awakened unexpectedly,you aredisoriented,leavingyoutwoTraitsdownforallchallenges duringthefollowing hour.Furthermore,theStorytellermayrequireyou tomake a SimpleTesttowakeupin thefirst placewhen dangerormishapthreatens.
-
-Mw6
+When you sleep, it is very difficult to awaken you.If you are awakened unexpectedly, you are disoriented, leavingyoutwo Traitsdownforallchallenges duringthefollowing hour.Furthermore, the Storytellermayrequireyou tomake a Simple Testtowakeupin the first placewhen dangerormishapthreatens. Mw6
 
 79V
 
@@ -2505,1490 +1033,563 @@ Mw6
 
 ## DISFIGURED(2TRAITFLAW)
 
-A hideous disfigurementmakesyou ugly and easytoremember.Youmaynever have anyAlluring,Gorgeous orSeductiveSocialTraits.Ifyour trueappearanceis visible,youaretwoTraitsdown onanySocial Challenge(exceptIntimidation)that you initiate.
+A hideous disfigurementmakesyou ugly and easytoremember.you maynever have any all uring, Gorgeous or Seductive Social Traits.Ifyour trueappearanceis visible, you are two Traitsdown onany Social Challenge(except Intimidation)that you initiate. ## AGING(3TRAITFLAW)
 
-## AGING(3TRAITFLAW)
+You are not asspry as you used tobe, and you are beginning tofeel the weightof you ryears.You automaticallylose one of you r Physical Traits, and you rmaximum Physical Traits are onelessthanothermortals.you may take this Flawonce perdecade above 40 years of age. ## DEFORMITY(3TRAITFLAW) you have some sort of deformity-amisshapenlimb, ahunchback or what ever —which affects you r interactionswith others and may inconvenienceyouphysically. You are one Traitdownonall testsof aphysicalnature, and two Traitsdownonall challengesrelated to physical appearance. ## HEMOPHILIAC(3TRAITFLAW) when you areinjured, you do not naturally stopbleeding.Cutscontinue tobleed and bruisesworsen through internal injury.Onceyou are physically wounded, you sufferanadditional Health Levelof damage every10minutesuntilsomeonehelpsyou and makes a successful Mental Challenge(with a difficulty of six Traits)using the Medical Ability.Vampireswhofeedfromyoudiscoverthat, strangely, the ycannot close the woundwith alick. ## ONEARM(3TRAITFLAW)
 
-You are not asspry as you used tobe,and you arebeginning tofeel the weightof youryears.You automaticallylose one ofyourPhysicalTraits,andyourmaximum Physical Traits areonelessthanothermortals.Youmay take thisFlawonce perdecade above 40 years of age.
+You have onlyone arm, determinedrandomlyorchosenatcharactercreation. You have become used to using you r remaining hand, so you sufferno of f-hand penalty.how ever, you are do wn two Traits on challengeswheretwo handswould normally be required. ## PARTIALLYCRIPPLED(3TRAITFLAW) you rlegs are injured or otherwiseprevented from working effectively.You are do wnthree Traitsinallchallengesrelatingtomovement.you mayneed assistance in walking, such as apair of crutches or awheelchair. ## POTENTBLOOD(3TRAITFLAW) you rblood is especiallynourishing and desirabletovampires.you rblood is worth twiceasmany Blood Traitsasanormalmortal's, soavampirewhodrinksoneofyour Blood Traits gains two instead(although you still suffer only one Health Level of damage). Vampires have names for people like you—"Slurpee,"Cornucopia"or simply "Mine!"
 
-## DEFORMITY(3TRAITFLAW)
+You can not have the Merit:Lifegiver in addition tothis Flaw. ## MUTE(4TRAITFLAW) you r vocal apparatus do es not function, and you can not speak at all.You can communicatethroughothermeans, typicallywritingorsigning.Obviously, this deficieny makesitimpossibleforyou tocallon Sorcery or otherpowersrequiringspeech. ## PSYCHOLOGICAL the se Merits and Flaws deal with aspects of you r personality. ## CODEOFHONOR(ITRAITMERIT)
 
-Youhave some sort of deformity-amisshapenlimb,ahunchback orwhatever —which affects your interactionswith others andmay inconvenienceyouphysically. You areoneTraitdownonall testsof aphysicalnature,andtwoTraitsdownonall challengesrelated to physical appearance.
+You have a personal code of ethics to which you strictly adhere.You can automaticallyresistmosttemptationsthatwouldbringyouintoconflictwithyour code.when battlingsupernaturalpersuasionthatwouldmakeyouviolateyourcode, you are considered to have two extra Traitsinchallenges.you must construct you r ownpersonal codeofhonorinasmuchdetail asyoucan, outliningthegeneralrules of conduct by which you abide, and this code must be approved by the Storyteller. ## HIGHERPURPOSE(ITRAITMERIT)
 
-## HEMOPHILIAC(3TRAITFLAW)
+You have a goal that drives and directs you in everything.You do not concern you rselfwithpetty matters and casual concerns becauseyour higherpurpose is everythingtoyou.Thoughthepurposemaysometimesforceyoutobehavecontrary toyoursurvivalinstinct, itcanalsograntyougreatpersonalstrength.you have two extra Traits in challenges that have anything to do with this higher purpose.Be sure todiscussyouridea for ahigherpurposewith the Storyteller. this Meritcanbeacommononeforhutersincetheyfequentlyholdtotheloftyieal of riddingtheworldofsupernaturalmenacebutyour Storytellershouldnotallowittobeabused. If you have the Flaw:Driving Goal, you can not take this Merit. ## ANACHRONISM(ITRAITFLAW)
 
-Whenyouareinjured,youdonot naturally stopbleeding.Cutscontinue tobleed and bruisesworsen through internal injury.Onceyou arephysically wounded,you sufferanadditionalHealthLevelof damage every10minutesuntilsomeonehelpsyou andmakes a successful Mental Challenge(with a difficulty of sixTraits)using the MedicalAbility.Vampireswhofeedfromyoudiscoverthat,strangely,theycannot close thewoundwith alick.
+You are anolder hunter, who has never takenthetime tofully understandthe wondersof the modern age.You do not think touse acomputer toaidyourrecord keeping, nor search the Internet for information.You are one Trait do wn in challenges involving modern technology such as computers. ## COMPULSION(1TRAITFLAW)
 
-## ONEARM(3TRAITFLAW)
+You have apsychological compulsion that causesyou a numberof different problems.you r compulsion maybefor cleanliness, perfection, bragging, stealing, gambling, exaggeration or just talkingtoomuch.you maytemporarily avoidyour compulsionforone sceneby spendinga will power Trait. ## DARKSECRET(ITRAITFLAW) you have somesortfsecretthatfuncoveredwouldembarrassyoummensl and makeyouapariahinyour society.Perhapsyousecretlywishtobecome anunholy vampire, or maybean innocentwaskilled duringoneofyourhunts, and you are wantedbythepolice.Whileitweighsonyourmindatalltimesitwillonlysurface occasionally in stories—lest it begin to lose impact. ## into LERANCE(ITRAITFLAW)
 
-You haveonlyone arm,determinedrandomlyorchosenatcharactercreation. You have become used to using your remaining hand,so you sufferno off-hand penalty.However,you are down twoTraits on challengeswheretwo handswould normally be required.
-
-## PARTIALLYCRIPPLED(3TRAITFLAW)
-
-Yourlegs areinjured or otherwiseprevented fromworking effectively.You are downthreeTraitsinallchallengesrelatingtomovement.Youmayneed assistance in walking,such as apair of crutches or awheelchair.
-
-## POTENTBLOOD(3TRAITFLAW)
-
-Yourblood isespeciallynourishing anddesirabletovampires.Yourblood isworth twiceasmanyBloodTraitsasanormalmortal's,soavampirewhodrinksoneofyourBlood Traits gains two instead(although you still suffer only oneHealthLevel of damage). Vampires have names for people like you—"Slurpee,"Cornucopia"or simply "Mine!"
-
-You cannot have theMerit:Lifegiver in addition tothisFlaw.
-
-## MUTE(4TRAITFLAW)
-
-Your vocal apparatus does not function,andyou cannot speak at all.You can communicatethroughothermeans,typicallywritingorsigning.Obviously,thisdeficieny makesitimpossibleforyou tocallonSorcery or otherpowersrequiringspeech.
-
-<!-- image -->
-
-## PSYCHOLOGICAL
-
-TheseMerits and Flaws deal with aspects of your personality.
-
-## CODEOFHONOR(ITRAITMERIT)
-
-You have a personal code of ethics to which you strictly adhere.You can automaticallyresistmosttemptationsthatwouldbringyouintoconflictwithyour code.Whenbattlingsupernaturalpersuasionthatwouldmakeyouviolateyourcode, you are considered to have two extraTraitsinchallenges.Youmust construct your ownpersonal codeofhonorinasmuchdetail asyoucan,outliningthegeneralrules of conduct by whichyou abide,and this code must be approved by theStoryteller.
-
-## HIGHERPURPOSE(ITRAITMERIT)
-
-You have a goal that drives and directs you in everything.You donot concern yourselfwithpetty matters and casual concerns becauseyour higherpurpose is everythingtoyou.Thoughthepurposemaysometimesforceyoutobehavecontrary toyoursurvivalinstinct,itcanalsograntyougreatpersonalstrength.Youhave two extra Traits in challenges that have anything to dowith this higher purpose.Be sure todiscussyouridea forahigherpurposewith theStoryteller.
-
-ThisMeritcanbeacommononeforhutersincetheyfequentlyholdtotheloftyieal ofriddingtheworldofsupernaturalmenacebutyourStorytellershouldnotallowittobeabused. If you havetheFlaw:DrivingGoal,you cannot take thisMerit.
-
-## ANACHRONISM(ITRAITFLAW)
-
-You areanolder hunter,whohasnever takenthetime tofully understandthe wondersof themodern age.You donot think touse acomputer toaidyourrecord keeping,nor search the Internet for information.You are one Trait down in challenges involving modern technology such as computers.
-
-## COMPULSION(1TRAITFLAW)
-
-You have apsychological compulsion that causesyou a numberof different problems.Your compulsion maybefor cleanliness,perfection,bragging,stealing, gambling,exaggeration orjust talkingtoomuch.Youmaytemporarily avoidyour compulsionforone sceneby spendingaWillpowerTrait.
-
-## DARKSECRET(ITRAITFLAW)
-
-Youhavesomesortfsecretthatfuncoveredwouldembarrassyoummensl andmakeyouapariahinyour society.Perhapsyousecretlywishtobecome anunholy vampire,or maybean innocentwaskilled duringoneofyourhunts,andyou are wantedbythepolice.Whileitweighsonyourmindatalltimesitwillonlysurface occasionally in stories—lest it begin to lose impact.
-
-## INTOLERANCE(ITRAITFLAW)
-
-You have an unreasoning dislike of a certain thing,and at the Storyteller's discretionyoumayhaveonelessTraitinany challengedealingwiththeobjectof your intolerance.tmaybeananmal,aassfple,color,iuatinrjustau anythingat all.Some dislikesmaybetoo trivial tobereflected here-a dislike of pomegranates ortissuepaper,forinstance,willhavelittleeffectonplayinmost chronicles.TheStoryteller is thefinal arbiter onwhat you canpick to dislike.
-
-m
+You have an unreasoning dislike of a certain thing, and at the Storyteller's discretionyoumayhaveoneless Traitinany challengedealingwiththeobjectof you r into lerance.tmaybeananmal, aassfple, color, iuatinrjustau anythingat all.Some dislikesmaybetoo trivial tobereflected here-a dislike of pomegranates or tissuepaper, for instance, will have littleeffectonplayinmost chronicles.the Storyteller is the final arbiter onwhat you can pick to dislike. m
 
 Laws of the Hunte
 
-## ISOLATEDUPBRINGING(ITRAITFLAW)
+## is OLATEDUPBRINGING(ITRAITFLAW) you were bornandraisedbyaparticularlypeculiarsetofparentsandyouraely venturedintotheoutsideworld.Perhapsyourfatherwasanlnquisitorwhohoped to shieldyou from the sinsofmankindandprepareyou for you rtaskas God'shammer, or maybeyouwereraisedina Chapter Houseof the Arcanum, where you spentallofyour timeamongbooks.what everthereason, you are illateaseinthemundaneworld, and you of tenfailtounderstandthecustomsofeverydaylife.you are automaticallyone Trait do wnonall Social Challengeswithpeoplefromoutsideofyourcornerofreality. ## NIGHTMARES(ITRAITFLAW)
 
-Youwerebornandraisedbyaparticularlypeculiarsetofparentsandyouraely venturedintotheoutsideworld.Perhapsyourfatherwasanlnquisitorwhohoped to shieldyou fromthe sinsofmankindandprepareyou foryourtaskasGod'shammer,or maybeyouwereraisedinaChapterHouseof theArcanum,whereyouspentallofyour timeamongbooks.Whateverthereason,youareillateaseinthemundaneworld,and youoftenfailtounderstandthecustomsofeverydaylife.YouareautomaticallyoneTrait downonall Social Challengeswithpeoplefromoutsideofyourcornerofreality.
+You experiencehorrendousnightmares every timeyou sleep, and memoriesof the m hauntyouduring you rwaking hours.Sometimes the nightmaresare sobad that you have one less Trait onallyourchallengesforthe nextday(Narrator'sdiscretion). Some of the nightmaresmay be so intense that you mistake the mforreality. ## OVERCONFIDENT(ITRAITFLAW)
 
-## NIGHTMARES(ITRAITFLAW)
+You have anexaggerated and unshakableopinionofyour ownworth, and you never hesitate totrust you r abilities-even in situations where you riskdefeat. Becauseyourabilitiesmaynotbeenough, suchoverconfidencecanbeverydangerous. when you dofail, you quicklyfindsomeoneorsomethingelsetoblame.lfyouare convincing enough, you can infect otherswithyour overconfidence. ## PHOBIA.MILD(ITRAITFLAW)
 
-You experiencehorrendousnightmares every timeyou sleep,andmemoriesof them hauntyouduring yourwaking hours.Sometimes thenightmaresare sobad that you have one lessTrait onallyourchallengesforthe nextday(Narrator'sdiscretion). Some of thenightmaresmay be so intense thatyou mistake themforreality.
+An overpowering fear of something causesyou to instinctively and illogically avoid it.You must expend a Mental Trait if you wish toremain in the vicinity of the object of you r fear. ## SHY(1 TRAITFLAW)
 
-## OVERCONFIDENT(ITRAITFLAW)
+You are distinctly illat easewhendealing with people, and you trytoavoid social situationswhenever possible.You have one less Trait on all challenges concerned with socialdealings.you are alsooneadditional Trait do wnonallchallengesinwhich you are the centerofattentionfora large groupof people(overl0).the setwoeffects are cumulativeforsocialdealings inwhichall attentionisfocusedonyou, suchas making a speech. ## SOFT-HEARTED(ITRAITFLAW)
 
-You have anexaggerated andunshakableopinionofyour ownworth,andyou never hesitate totrust your abilities-even in situations whereyouriskdefeat. Becauseyourabilitiesmaynotbeenough,suchoverconfidencecanbeverydangerous. Whenyoudofail,youquicklyfindsomeoneorsomethingelsetoblame.lfyouare convincing enough,youcan infect otherswithyour overconfidence.
+You can not stand towatch others suffer-not necessarilybecauseyou care about what happenstothem, but simplybecauseyou disliketheintensity of emotion.lfyou are the directcauseofsufferingandyouwitessityouwillexperiencedaysofnauseaand nightsof sleepless grief you avoid situationswhereyoumight have towitness suffering, and you will do anythingyoucantoprotectothers from it.when everyoumustwitness suffering, you are one Traitdown onall challengesfor the remainder of the scene. ## SPEECHIMPEDIMENT(ITRAITFLAW)
 
-## PHOBIA.MILD(ITRAITFLAW)
+You have a stammer or some otherspeechimpedimentthathampersverbal communication.you should roleplaythisimpedimentmostof the time, thoughnot to the point of of fensiveness or parody. ## Character Creation
 
-An overpowering fear of something causesyou to instinctively andillogically avoid it.You must expend aMental Trait if you wish toremain in thevicinity of the object of your fear.
+## LOWSELF-IMAGE(2TRAITFLAW) you lackself-confidence.You are two Traitsdown insituationswhereyoudon't expect to succeed(at the Narrator's discretion, though the penalty might be limited to one Trait ifyou help bypointing outwhen this Flawmight affectyou).At the Narrator's option, you mayberequired toexpend a will power Trait in or der to attempt things that require strongbelief inyourself. ## VENGEANCE(2TRAITFLAW) you have a score tosettle.You are obsessedwithwreakingvengeance on an individualorperhapsanentireroup), and you makerevengeyourfirstpriorityinall situations.the need for vengeancecan only be overcomeby spending a will power Trait, and even the n it subsides only temporarily. ## ADDICTEDTOVAMPIRICVITAE(3TRAITFLAW)
 
-## SHY(1 TRAITFLAW)
+You are addicted to the rushand power of vampireblood.You will do anything tofeedyour craving;likely, this needisoneofyourprimaryreasonsforhunting. Addiction tovampireblood is unlike any other addiction;it is powerful and subtle beyondbelief, and onlylongtherapy and supportfromyourclosestfriendsmay ever cure you of this desire. ## DRIVING GOAL(3TRAITFLAW)
 
-You are distinctly illat easewhendealing with people,and you trytoavoid social situationswhenever possible.You have one lessTrait on all challenges concerned withsocialdealings.YouarealsooneadditionalTrait downonallchallengesinwhich you arethecenterofattentionfora large groupof people(overl0).Thesetwoeffects arecumulativeforsocialdealings inwhichall attentionisfocusedonyou,suchas making a speech.
+You have apersonalgoalwhichsometimescompelsanddirectsyouinstartling ways.the oal is alwayslimitless indepth, and you can never truly achieveit.Itcould betoeradicateallvampires, or todiscoveracureforlycanthropy.Becauseyoumustwork towardyourgoalthroughoutthechronicleyoursingle-mindeddevotionwillgetyou into troubleandmay jeopardizeothergoals.you mayavoidyourdrivinggoal for one scenebyspendinga Mental Trait, and for onesessionbyspendinga will power Trait. If you have the Merit:Higher Purpose, you can not take this Flaw. ## HATRED(3TRAITFLAW) you have anunreasoninghatredofacertain thing.this hateistotalandlargely uncontrollable.oumayateapeciesofanimal, lassofperson, acolor, asituatin ("ARRRGHHH!IHATESAYINGHAILMARYS!")-anything.you constantly pursueopportunitiestoharmthehatedobjectortogainpoweroverit, somuchsothat you r reasoning is clouded.the Storytellermayimposea Trait penaltyindealingswith the objectofyourhatredduetoyourdisgust and dividedattention, or hemaydirect you to undertake certain courses of action. ## PHOBIA.SEVERE(3TRAITFLAW)
 
-## SOFT-HEARTED(ITRAITFLAW)
-
-You cannot stand towatch others suffer-notnecessarilybecauseyou care about whathappenstothem,butsimplybecauseyou disliketheintensity of emotion.lfyou arethedirectcauseofsufferingandyouwitessityouwillexperiencedaysofnauseaand nightsof sleepless griefYouavoid situationswhereyoumight havetowitness suffering, andyou willdoanythingyoucantoprotectothers fromit.Wheneveryoumustwitness suffering,youare oneTraitdown onall challengesfor theremainder of thescene.
-
-## SPEECHIMPEDIMENT(ITRAITFLAW)
-
-You have a stammer orsome otherspeechimpedimentthathampersverbal communication.Youshouldroleplaythisimpedimentmostof thetime,thoughnot to thepoint of offensiveness or parody.
-
-## Character Creation
-
-## LOWSELF-IMAGE(2TRAITFLAW)
-
-Youlackself-confidence.You are twoTraitsdown insituationswhereyoudon't expect to succeed(at theNarrator's discretion,though the penalty might be limited to oneTrait ifyou help bypointing outwhen thisFlawmight affectyou).At the Narrator's option,youmayberequired toexpend aWillpowerTrait in order to attempt things thatrequire strongbelief inyourself.
-
-## VENGEANCE(2TRAITFLAW)
-
-Youhave a score tosettle.You areobsessedwithwreakingvengeance on an individualorperhapsanentireroup),andyoumakerevengeyourfirstpriorityinall situations.Theneed forvengeancecan only be overcomeby spending aWillpower Trait,and even then it subsides only temporarily.
-
-## ADDICTEDTOVAMPIRICVITAE(3TRAITFLAW)
-
-You areaddicted to therushand power ofvampireblood.You will do anything tofeedyour craving;likely,thisneedisoneofyourprimaryreasonsforhunting. Addiction tovampireblood isunlike any other addiction;it ispowerful and subtle beyondbelief,andonlylongtherapy andsupportfromyourclosestfriendsmay ever cure you of this desire.
-
-## DRIVING GOAL(3TRAITFLAW)
-
-You haveapersonalgoalwhichsometimescompelsanddirectsyouinstartling ways.Theoal is alwayslimitless indepth,andyou cannever truly achieveit.Itcould betoeradicateallvampires,ortodiscoveracureforlycanthropy.Becauseyoumustwork towardyourgoalthroughoutthechronicleyoursingle-mindeddevotionwillgetyou intotroubleandmay jeopardizeothergoals.Youmayavoidyourdrivinggoal forone scenebyspendingaMentalTrait,andforonesessionbyspendingaWillpowerTrait.
-
-If you have theMerit:HigherPurpose,you cannot take thisFlaw.
-
-## HATRED(3TRAITFLAW)
-
-Youhaveanunreasoninghatredofacertain thing.Thishateistotalandlargely uncontrollable.oumayateapeciesofanimal,lassofperson,acolor,asituatin ("ARRRGHHH!IHATESAYINGHAILMARYS!")-anything.Youconstantly pursueopportunitiestoharmthehatedobjectortogainpoweroverit,somuchsothat your reasoning isclouded.TheStorytellermayimposeaTrait penaltyindealingswith theobjectofyourhatredduetoyourdisgust anddividedattention,orhemaydirect you to undertake certain courses of action.
-
-## PHOBIA.SEVERE(3TRAITFLAW)
-
-Anoverpoweringfearofsomethingcausesyoutoinstinctivelyandillogicallyflee fromit,eventothepointofendangeringyourself.YoumustexpendaWillpowerTrait ifyouwish toremain inthevicinity of theobject ofyourfear.
-
-## SOCIETY
-
-These Merits andFlaws describe aspectsofyour character's interactionwith normal human society and the huntergroups.
-
-®
+Anoverpoweringfearofsomethingcausesyoutoinstinctivelyandillogicallyflee from it, eventothepointofendangeringyourself.you mustexpenda will power Trait ifyouwish toremain inthevicinity of the object of you rfear. ## SOCIETY the se Merits and Flaws describe aspectsofyour character's interactionwith normal human society and the huntergroups. ®
 
 Laws of the Hhunt
 
-## ECCLESIASTICALRANK(1-3TRAITMERIT)
+## ECCLESIASTICALRANK(1-3TRAITMERIT) you are avestedpriest in are cognizedchurchhierarchy(suchasthe Roman Catholic church), with all of the impliedsocialbenefits.Althoughthis Meritdoesnotgrantany specialsupernaturalpowerorknowledgenandofitselfyoumaycallonyourchurchor advice, and you are oftengrantedsomedeferenceandleewaybypeoplewhorespectyour vocation.the numberof Traitsinthis Meritdetermine you rrelative standing.One Trait would indicatealocalpriest, whilethree Traitsmightindicatethatyouareaninfluential bishop.Althoughthis Meritdoesnot automaticallyimplyinfluencewithin the church, you can certainlyaskforinformationoraidthroughnormaljobchannels. ## ARCANE HERITAGE(ITRAITMERIT)
 
-Youareavestedpriest in arecognizedchurchhierarchy(suchastheRoman Catholic church),withall of theimpliedsocialbenefits.AlthoughthisMeritdoesnotgrantany specialsupernaturalpowerorknowledgenandofitselfyoumaycallonyourchurchor advice,andyouareoftengrantedsomedeferenceandleewaybypeoplewhorespectyour vocation.ThenumberofTraitsinthisMeritdetermine yourrelative standing.OneTrait wouldindicatealocalpriest,whilethreeTraitsmightindicatethatyouareaninfluential bishop.AlthoughthisMeritdoesnot automaticallyimplyinfluencewithin thechurch, you cancertainlyaskforinformationoraidthroughnormaljobchannels.
+Whetheryouhaveawitchinyourfamilyoragrandfatherwithstartlinglyfaerielikeeyesyourparticularfamilylineisconsideredgiftedwithatouchofthesupernatural by thosewho dabble insuch things.Althoughthis touchmay drawnegative attention from groups suchasthenquisitionyougainagreatdealofrestigefrommorestudious or ganizations such as the Arcanum. This heritage may be a strong part of you r motivation as a hunter, as you could decide to destroy paranormal creatures so as to redeemyourselforperhaps just studythe supernatural tounlockyour own potential. ## LICENSETOKILL(2TRAITMERIT)
 
-## ARCANE HERITAGE(ITRAITMERIT)
+You have been given special dispensation to"sanction"those who se interests run countertoyourgovernment.Sometimesyouareassignedtoapre-chosentarget, but more of tenyouaregivenagooddealofdiscretioninchoosingyourhits.Mostgovernmentagencies do not is sue this authority (it is exceptionallyrareintheFBl) and those that do are careful tomonitorforabuse(since assassination is technicallyillegalin the US).The agencywilldo what everisnecessarytocoveryourtracks, althoughtherearepenaltiesforajobdonesloppily. Despitethename, this is not anactuallicense"tokill.you can, intheory, ehel accountablebyhlegalystemoughthisarareccurrencensteadouragny simplyaffordsyou the leeway touselethalforceatyourowndiscretion, and makesan effort to conceal you r activities and protectyou from repercussions. Obviously, only activemembersofgovernmentagencies evergetthis sortof leeway.An Inquisitormaykillpeopleinthelineofduty, but hewon'thavethebacking of shadowygovernmentorganizations. ## REPUTATION(2TRAITMERIT)
 
-Whetheryouhaveawitchinyourfamilyoragrandfatherwithstartlinglyfaerielikeeyesyourparticularfamilylineisconsideredgiftedwithatouchofthesupernatural by thosewho dabble insuch things.Althoughthis touchmay drawnegative attention from groups suchasthenquisitionyougainagreatdealofrestigefrommorestudious organizations such as the Arcanum. This heritage may be a strong part of your motivation as a hunter, as you could decide to destroy paranormal creatures so as to redeemyourselforperhaps just studythe supernatural tounlockyour own potential.
+You are well-regardedinyourparticular society, and are one Traitup on all challengeswith othermembers.You should decidewhat it is about you that they respect:did you kill avampiresingle-handedly, or do you have a flawlessrecordon solving paranormalmurdercases?An independenthuntermaywell have are putation among other hunters simply as a skilled loner. ## RESEARCHGRANT(2TRAITMERIT)
 
-## LICENSETOKILL(2TRAITMERIT)
-
-You have been given special dispensation to"sanction"those whose interests run countertoyourgovernment.Sometimesyouareassignedtoapre-chosentarget,butmore oftenyouaregivenagooddealofdiscretioninchoosingyourhits.Mostgovernmentagencies donot issue this authority (it isexceptionallyrareintheFBl) and those that do arecareful tomonitorforabuse(since assassination is technicallyillegalin theUS).The agencywilldo whateverisnecessarytocoveryourtracks,althoughtherearepenaltiesforajobdonesloppily.
-
-Despitethename,thisisnotanactuallicense"tokill.Youcan,intheory,ehel accountablebyhlegalystemoughthisarareccurrencensteadouragny simplyaffordsyou theleeway touselethalforceatyourowndiscretion,andmakesan effort to conceal your activities andprotectyou fromrepercussions.
-
-Obviously,only activemembersofgovernmentagencies evergetthis sortof leeway.AnInquisitormaykillpeopleinthelineofduty,buthewon'thavethebacking of shadowygovernmentorganizations.
-
-## REPUTATION(2TRAITMERIT)
-
-You are well-regardedinyourparticular society,andareone Traitup on all challengeswith othermembers.You should decidewhat it is about you that they respect:Didyoukill avampiresingle-handedly,ordoyouhavea flawlessrecordon solving paranormalmurdercases?An independenthuntermaywell haveareputation among other hunters simply as a skilled loner.
-
-## RESEARCHGRANT(2TRAITMERIT)
-
-You'vesecured a prestigious award that givesyoufundingand access toexclusive information.Youtypicallygain$1,o0permonth,whichyoumayuseinanyfashion you desire,thoughyou shouldnominallyshow some levelofsuccessfulresearch. Additionallyyouhaveaccesstospecial librariesandresearchmaterialsthatwould otherwisebedifficulttosecure.Combinedwiththerightkindsof Influence,thisMerit can make all the difference in researchingNuminae or other arcane lore.
-
-## Character Creation
+You'vesecured a prestigious award that givesyoufundingand access toexclusive information.you typicallygain$1, o0permonth, which you mayuseinanyfashion you desire, thoughyou should nominallyshow some levelofsuccessfulresearch. Additionallyyouhaveaccesstospecial librariesandresearchmaterialsthatwould otherwisebedifficulttosecure.Combinedwiththerightkindsof Influence, this Merit can make all the difference in researching Numinae or other arcane lore. ## Character Creation
 
 ## TOP-SECRETACCESS(2TRAITMERIT)
 
-Whetherduetoyourresearchcredentialsoryourgovernmentclearance,you have a source ofhighlyvaluable information.Your contactis both reliable and discreet,giving you access to secrets that most people don't know about.This information isnotalways available orcomplete(makeaSimpleTest,inwhicha win indicatescompleteinformation,atieindicatespartialinformationandalossindicates noinformation）.Stillyour sourcehas earsin thePentagon,theNSA orwhatever circles youmove in,andyou've establishedameans of safe contact.Obviously, possession of this sort of information can behighly dangerous if you're notcareful.
+Whetherduetoyourresearchcredentialsoryourgovernmentclearance, you have a source of highlyvaluable information.you r contactis both reliable and discreet, giving you access to secrets that most people don't know about.This information is not always available or complete(makea Simple Test, inwhicha win indicatescompleteinformation, atieindicatespartialinformationandalossindicates noinformation）.Stillyour sourcehas earsin the Pentagon, the NSA or what ever circles you move in, and you've establishedameans of safe contact.Obviously, possession of this sort of information can behighly dangerous if you're not careful. ## do UBLE-IDENTITY(3TRAITMERIT)
 
-## DOUBLE-IDENTITY(3TRAITMERIT)
+Throughyourespionagecontactsyou'vemanagedtoassignasecondaryidentityfor you rselfonewhichseemsperfectlylegalandhas all mannerof do cumentationtobackit up.you veestablished this identitynsecretsoyoucaneasilyuseitasalast-itchescape if thingsevergetoutof hand.this Meritismostappropriatetogovernment agentsbut just about anyonewith the rightcontacts and precautions could for ge anidentity. ## BLACKMAILED(1OR2TRAITFLAW)
 
-Throughyourespionagecontactsyou'vemanagedtoassignasecondaryidentityfor yourselfonewhichseemsperfectlylegalandhas allmannerof documentationtobackit up.Youveestablished thisidentitynsecretsoyoucaneasilyuseitasalast-itchescape if thingsevergetoutof hand.ThisMeritismostappropriatetogovernment agentsbut just about anyonewith therightcontacts and precautions couldforge anidentity.
+Someone'sgotdirtonyou, and hesnotafraidtouseit.Whetheranindividual or an or ganization holdsyour dirtylaundry, you're stuckwith the results:you r blackmailerdemands you rmoney, you rcooperationor you or ganization secrets For one Traityou sufferfromaratherembarrassingsecretthatmightcostouyourjoband you rorganizationalposition.for two Traitsyouharboradangeroussecretthatcould verywellbethedeathofyouf the blackmailergetsitout.Obviouslyyourantagonist is toosmart tomake iteasyforyou tokill him.You'll needtogothrough agood bit of cleverroleplayingtoovercome this Flaw. ## REBEL(1-3TRAITFLAW)
 
-## BLACKMAILED(1OR2TRAITFLAW)
+You're seen as a rebel, a maverick and a loose can non with in you r society. Althoughyoumaywellgetresultsyouarescornedorhatedforyourmethods.you may or maynot alsohave the Flaw:not or iety, but that Flawismorea function of abad reputationduetoeventsassociated with you, unjustlyornot.this Flawindicatesthat you rpractices and techniques are seen asquestionable(atbest)byyour own hunter group.the value of this Flaw increases the difficulty of all interactionswith the hierarchyofyourorganizationmakingithardforyoutogetaidorbacking. ## SUPERNATURALENEMY(I-STRAITFLAW)
 
-Someone'sgotdirtonyou,andhesnotafraidtouseit.Whetheranindividual or an organization holdsyour dirtylaundry,you're stuckwith theresults:Your blackmailerdemands yourmoney,yourcooperationor youorganization secretsFor oneTraityou sufferfromaratherembarrassingsecretthatmightcostouyourjoband yourorganizationalposition.FortwoTraitsyouharboradangeroussecretthatcould verywellbethedeathofyouf theblackmailergetsitout.Obviouslyyourantagonist is toosmart tomake iteasyforyou tokill him.You'll needtogothrough agood bit of cleverroleplayingtoovercome thisFlaw.
+Duetoanincidentnyourpast, you have annemywhoisavampirewerewolf or othersuchsupernaturalcreature.twillnotbeaconstantthreatbutwillappear bedevil you and you r companions.The more powerful the enemy, or the more frequent itsappearance, the more powerful the Flaw.You must determinewhoyour foe is (although the Storytellerwill create it) and how you became enemies. ## DANGEROUSSECRET(2TRAITFLAW)
 
-## REBEL(1-3TRAITFLAW)
+You are privy tosome sort of highly secretinformation that puts you r lifein jeopardy.Perhapsyou've discovered that the archbishopinyourarea is actually an Infernalistbutnobodywillbelieveyouandthearchbishopcouldeasilybringtheweight of the Inquisitiondownonyou.Maybeyou'vefoundasecretgovernmentconspiracyto
 
-You're seen as a rebel,a maverick and a loose cannon within your society. Althoughyoumaywellgetresultsyouarescornedorhatedforyourmethods.Youmay ormaynot alsohave theFlaw:Notoriety,butthatFlawismorea function of abad reputationduetoeventsassociated withyou,unjustlyornot.ThisFlawindicatesthat yourpractices and techniques are seen asquestionable(atbest)byyour own hunter group.Thevalue of thisFlaw increases the difficulty of all interactionswith the hierarchyofyourorganizationmakingithardforyoutogetaidorbacking.
+## Laws of the Hunt workwithvampires, but you can't tell anyonewithoutrisking arrest and execution. Worsestillthesourceofyourinformationsnexactlyreliableandyournowledg do esn'tdoyouanyrealgood.you maybeinapositiontodosomethingaboutwhatyou've learnedbutitwill cetainlyendangeryouandyourpositionifyou takeanyaction. ## not or IETY(2TRAITFLAW)
 
-## SUPERNATURALENEMY(I-STRAITFLAW)
+Somethingyou'vedonepegsyouasaliabilitytootherhunters, who tendtoavoid you.you have abadreputationamongyourownsociety, and independenthunters tendtobewaryof you.Perhapstoomanyof you rfriends have beenkilledinthecourse of you rhunts, or maybeyoujusthave somuchzeal that you makepeoplesick.Work with you r Storyteller todetermine the natureof you r not or iety. ## SECRETFRIENDSHIP(2TRAITFLAW) you maintain a secretrelationshipwith a denizen of the World of Darkness, a vampire, were wolforothersupernaturalentity.Knowledgeofthisrelationshipwould not onlydestroyyourreputationamonghunters, itwouldplaceyouontheirhitlist. Worsestillmembersoftheparticularsupernaturalcommunitywouldlikelyconsider you agravethreat, and takestepstoeliminateyouifyourfriendshipisdiscovered.ou must alwayscoverupanyactivitiesthatdealwiththis friendshipandyouare paranoid that you r secret is always on the verge of discovery. ## HUNTED(3TRAITFLAW)
 
-Duetoanincidentnyourpast,youhaveannemywhoisavampirewerewolf orothersuchsupernaturalcreature.twillnotbeaconstantthreatbutwillappear bedevil you and your companions.The more powerful the enemy, or the more frequent itsappearance,themore powerful theFlaw.You must determinewhoyour foe is(although theStorytellerwill create it) and howyou became enemies.
+You have become the target of another hunter.Whether he seeksyoubecause he knows of you r unusual Numina or has madea false assumption aboutyour associationwiththesupernatural, you mustbecarefulwhereveryougo, lestyoufall victimto anotherlikeyourself. ## SUPERNATURAL the se Merits and Flawsconcern the wayyouinteractwith supernatural aspectsof the game.Because they should berare and unusualand can possiblychange the flavor of achronicle, the Storytellermayrestrictthem, or onlypermitonepercharacter. ## FAERIEBLOOD(I-STRAITMERIT)
 
-## DANGEROUSSECRET(2TRAITFLAW)
+You must take the Merit:Kinain beforeyou take this Merit.You possessa strong amountoffaeriebloodwhichaffordsyousomeofthepowerofthechangelings.for each Trait that you placenthis Merityoumaytakeone Meritor Flawnormallyreservedfor changeling Aitionallyyouavene Traitf Glamurustlikachangelingand potential togainmore;eachadditionalpermanent Traitof Glamourcostsyouthree Traits (Freeor Experience), thoughyoucanneverhavemorepermanent Traitsof Glamourthan the numberof Traitspentonthis Merit.Althoughyoumayuse you r Glamourlikeafaerie, you can onlyreplenish Glamourbycreatingartorreceiving a tokenfroma changeling. Stillyucananhasictand Realmffarimagicivingouthabiliytat minor enchantments.Arts cost six Traits to learn, while Realms cost four.you alsoadd the levelof this Merit to the numberofdaysthat anenchantmentlastsonyou.with one Traitinthis Meritoucanbeenchantedforeightaysatacostofonlyone Glamour Trait (sevendaysfor beingkinain, plusoneday for one level of Faerie Blood). you can findmoreinformationabout Glamour, Artsand Realmsin The Shining Host. ## MAGICALITEM(1-3TRAITMERIT) you possessanitemofmesupernaturalower, beitarelic, etish, talisman or treasure.Itspowersareuptothe Storyteller, and you maynotevenbefullyaware of the m. ## LOYALTY(ITRAITMERIT)
 
-You areprivy tosome sort of highly secretinformation thatputs your lifein jeopardy.Perhapsyou've discovered that thearchbishopinyourarea is actually an Infernalistbutnobodywillbelieveyouandthearchbishopcouldeasilybringtheweight of theInquisitiondownonyou.Maybeyou'vefoundasecretgovernmentconspiracyto
+You are sworn and devoted tosome group or cause.this Merit works similarly to True Love, but the objectmaybe anorganization or ideal. ## SHIVERS(ITRAITMERIT)
 
-## Laws of the Hunt
+Althoughyoucan'tactuallyseeorhearghosts, you getacreepyfeelingwhenever wraiths are around.when everawraithenterstheroom, you mayautomaticallymake a Static Mental Challengewith adifficultyof six(not raitsarerisked).If you succeed, you are aware of the presence of the ghost. ## TRUELOVE(ITRAITMERIT) you have discovered, but mahavelost(atleast temporarily), a true love.This loveprovidesjoyinatorridexistence.If this lovedoneisinmortal danger, you may use a Humanity Trait as a bonus Trait.Similarly, you mayusea Humanity Trait inthe place of are gular Trait during you rinitial bid if you r true loveis atrisk.A Humanity Trait used inthisway is goneregardless of the outcome of the challenge.you r truelove maybe a hindrance, and require aid(or evenrescue)from time to time. ## BURNINGAURA(2TRAITMERIT)
 
-workwithvampires,butyou can't tell anyonewithoutrisking arrest and execution. Worsestillthesourceofyourinformationsnexactlyreliableandyournowledg doesn'tdoyouanyrealgood.Youmaybeinapositiontodosomethingaboutwhatyou've learnedbutitwill cetainlyendangeryouandyourpositionifyou takeanyaction.
+Evenifyoudonothave True Faith, you have the brilliantaura of aperson of power.Those able to sense auraswillgiveyou awideberth, asyou seem to displaypotent spiritualpowers.Evenpeoplewho can not detectyour aura find somethingaboutyou compelling.you maynottakethis Meritin conjunction with the m erit:Pale Aura. ## DANGERSENSE(2TRAITMERIT)
 
-## NOTORIETY(2TRAITFLAW)
+You have a sixth sense that warnsyou of danger.when you are in a perilous situationwhereyoucouldpotentiallybesurprised, you have twoextraseconds(for a totaloffour)inwhichtoreact. ## MAGICRESISTANCE(2TRAITMERIT)
 
-Somethingyou'vedonepegsyouasaliabilitytootherhunters,whotendtoavoid you.Youhaveabadreputationamongyourownsociety,andindependenthunters tendtobewaryof you.Perhapstoomanyof yourfriends havebeenkilledinthecourse ofyourhunts,ormaybeyoujusthave somuchzeal thatyoumakepeoplesick.Work with yourStoryteller todetermine the natureof your notoriety.
-
-## SECRETFRIENDSHIP(2TRAITFLAW)
-
-Youmaintain a secretrelationshipwith a denizen of theWorld of Darkness,a vampire,werewolforothersupernaturalentity.Knowledgeofthisrelationshipwould notonlydestroyyourreputationamonghunters,itwouldplaceyouontheirhitlist. Worsestillmembersoftheparticularsupernaturalcommunitywouldlikelyconsider youagravethreat,andtakestepstoeliminateyouifyourfriendshipisdiscovered.ou must alwayscoverupanyactivitiesthatdealwiththis friendshipandyouare paranoid that your secret is always on the verge of discovery.
-
-## HUNTED(3TRAITFLAW)
-
-You have become the target of another hunter.Whether he seeksyoubecause he knows ofyour unusualNumina or hasmadea false assumption aboutyour associationwiththesupernatural,youmustbecarefulwhereveryougo,lestyoufall victimto anotherlikeyourself.
-
-## SUPERNATURAL
-
-TheseMerits andFlawsconcern thewayyouinteractwith supernatural aspectsof thegame.Because they should berare and unusualand canpossiblychange theflavor ofachronicle,theStorytellermayrestrictthem,oronlypermitonepercharacter.
-
-## FAERIEBLOOD(I-STRAITMERIT)
-
-You must take theMerit:Kinain beforeyou take thisMerit.You possessa strong amountoffaeriebloodwhichaffordsyousomeofthepowerofthechangelings.Foreach Trait thatyouplacenthisMerityoumaytakeoneMeritorFlawnormallyreservedfor changelingAitionallyyouaveneTraitfGlamurustlikachangelingand potential togainmore;eachadditionalpermanentTraitofGlamourcostsyouthreeTraits (FreeorExperience),thoughyoucanneverhavemorepermanentTraitsofGlamourthan thenumberofTraitspentonthisMerit.Althoughyoumayuse yourGlamourlikeafaerie, you canonlyreplenishGlamourbycreatingartorreceiving a tokenfroma changeling. StillyucananhasictandRealmffarimagicivingouthabiliytat minor enchantments.Arts cost sixTraits to learn,whileRealms cost four.Youalsoadd the levelof thisMerit to thenumberofdaysthat anenchantmentlastsonyou.Withone TraitinthisMeritoucanbeenchantedforeightaysatacostofonlyoneGlamourTrait (sevendaysfor beingkinain,plusoneday for one level ofFaerieBlood).
-
-YoucanfindmoreinformationaboutGlamour,ArtsandRealmsinTheShiningHost.
-
-## MAGICALITEM(1-3TRAITMERIT)
-
-Youpossessanitemofmesupernaturalower,beitarelic,etish,talisman ortreasure.ItspowersareuptotheStoryteller,andyoumaynotevenbefullyaware ofthem.
-
-## LOYALTY(ITRAITMERIT)
-
-You are sworn anddevoted tosome group or cause.ThisMerit works similarly to TrueLove,but the objectmaybe anorganization or ideal.
-
-## SHIVERS(ITRAITMERIT)
-
-Althoughyoucan'tactuallyseeorhearghosts,yougetacreepyfeelingwhenever wraiths arearound.Wheneverawraithenterstheroom,youmayautomaticallymake a StaticMental Challengewith adifficultyof six(noTraitsarerisked).If you succeed, you areaware of thepresence of theghost.
-
-## TRUELOVE(ITRAITMERIT)
-
-Youhavediscovered,butmahavelost(atleast temporarily),a true love.This loveprovidesjoyinatorridexistence.If thislovedoneisinmortal danger,youmay use a HumanityTrait as a bonusTrait.Similarly,you mayusea HumanityTrait inthe place of aregularTrait during yourinitial bid if your true loveis atrisk.A Humanity Trait used inthisway isgoneregardless of theoutcome of thechallenge.Your truelove maybe a hindrance,andrequire aid(orevenrescue)fromtime to time.
-
-## BURNINGAURA(2TRAITMERIT)
-
-EvenifyoudonothaveTrueFaith,you have thebrilliantaura of aperson ofpower.Those able to sense auraswillgiveyou awideberth,asyou seem to displaypotent spiritualpowers.Evenpeoplewho cannotdetectyour aura find somethingaboutyou compelling.YoumaynottakethisMeritin conjunction withtheMerit:PaleAura.
-
-## DANGERSENSE(2TRAITMERIT)
-
-You have a sixth sense thatwarnsyou of danger.Whenyou arein a perilous situationwhereyoucouldpotentiallybesurprised,you havetwoextraseconds(fora totaloffour)inwhichtoreact.
-
-## MAGICRESISTANCE(2TRAITMERIT)
-
-You have an inherent resistance toThaumaturgy,hedgemagic,true magick, Garourituals andotherforms ofmagic.You are twoTraitsupinchallengesrelating toresisting allsuchspellsandrituals,whetheryouwishthemtoaffectyouornot.You maynever learn touse suchmagics,however.
-
-## MEDIUM(2TRAITMERIT)
-
-Youpossess thenaturalaffinity tosense and hearwraiths.Thoughyoucannot see them,youfeel theirpresenceand are abletospeakwith themwhentheyareinthe vicinity,though they may choosenot to listen to you.You may even be ableto summon themtoyourpresencethroughpleading andcajoling.Theywill not simply aidyou,orgiveyoufree advice—theywill alwayswant something inreturn.
-
-Laws of the Hunt
+You have an inherent resistance to Thaumaturgy, hedgemagic, true magick, Garourituals and otherforms of magic.You are two Traitsupinchallengesrelating toresisting all suchspellsandrituals, whetheryouwishthemtoaffectyouornot.You maynever learn touse suchmagics, how ever. ## MEDIUM(2TRAITMERIT) you possess the naturalaffinity tosense and hearwraiths.Thoughyoucannot see the m, you feel the irpresenceand are abletospeakwith the mwhentheyareinthe vicinity, though they may choosenot to listen to you.You may even be ableto summon the mtoyourpresencethroughpleading and cajoling.the ywill not simply aidyou, or giveyoufree advice—the ywill alwayswant something inreturn. Laws of the Hunt
 
 ## OCCULTLIBRARY(2TRAITMERIT)
 
-You possess acollection ofrareandoccultbooksthatincludestidbitsof correct knowledge concerning the supernatural.You arenotnecessarilyfamiliarwith the contentsofthevolumesof knowledge(thatisafunctionof havingtheOccult Ability), but intime ofneed,yourlibrarycanbeaninvaluablesourceforresearch.
+You possess acollection of rareandoccultbooksthatincludestidbitsof correct knowledge concerning the supernatural.You are not necessarilyfamiliarwith the contentsofthevolumesof knowledge(that is afunctionof havingthe Occult Ability), but intime of need, you rlibrarycanbeaninvaluablesourceforresearch. ## PALE AURA(2 TRAITMERIT)
 
-## PALE AURA(2 TRAITMERIT)
+By some quirk of supernatural chance, you r aura is pale and indistinct likea vampire's, lackingthevibrant colorsof life.Individualscapableofreadingyour aura automaticallyassumethatyouareavampireorthatyouresimilarlystrange, iftheyre unfamiliarwith the phenomenon of palevampiricauras), unless.they succeed in a follow-up Static Mental Challengewithadifficultyof 10Traits.you maynot takethis Merit in conjunction with the Merit:Burning Aura. ## SOOTHINGVOICE(2TRAITMERIT) you rvoiceiscalmandsoothing, almostentrancing.you are two Traitsuponany challenge that directly involves the use of you r voice(beit for singing, preaching, leadership, etc.). ## GHOSTSIGHT(3TRAITMERIT) you can seebeyondthebarrierthatseparatesthelandof the deadfromtheworld of the living, but onlywitheffort.By succeedingina Static Mental Challengewith a difficulty of seven Traits, you can see wraiths and even（dimly)the landsof the Underworld, for the re mainderofthescene. ## KINAIN(3TRAITMERIT)
 
-By some quirk of supernatural chance,your aura is pale and indistinct likea vampire's,lackingthevibrant colorsof life.Individualscapableofreadingyour aura automaticallyassumethatyouareavampireorthatyouresimilarlystrange,iftheyre unfamiliarwith thephenomenon ofpalevampiricauras),unless.they succeed in a follow-upStaticMentalChallengewithadifficultyof 10Traits.Youmaynot takethis Merit in conjunction with theMerit:BurningAura.
+Thoughnotachangelingyouhavefaebloodrunningthroughyourveinsliterally. Beingkinain makes iteasierforyou towalkin the Dreamas ifyouwere faeyourself. Whilethisproductofyourheritagemayexposeyoutochimericalattack, italsoopens you to anew and wondrousworld.Althoughyoudonot necessarilyhave accessto the powersfthaeuarmornwiththerworldndhyindtasroff you.Conversely, you are morelikely torememberyour encounterswith the m. Kinain, as slightly supernatural entities, have a maximum of nine Traits in all abilities, insteadof the usualhumanmaximumofeight Traits.you are related toone of the typesoffaerieraces, and you mayevensharesomeof the irabilities.you do not necessarilyhave the ability to usechangeling Arts(unlessyou have the additional Merit:Faerie Blood)but you are moreeasilyacceptedinto Kithainsociety.you have onlyfive Banality Traitsgivingyou amuchwider opportunity toexplorefaerie society, aschangelingsaremorelikelytoassociatewithyouandyouarelesssusceptible to the amnesiac effects of the Mists.Similarly, you are easily enchanted;any changeling can enchant you by simply expending a Trait of Glamour (with out the needfor a token), and you remain enchantedfor a full week. If you are playingkinain in a predominantly changeling game, the Storyteller maychoose towaive the cost of this Merit, to encourageplay of intermediaries between human and changeling society. More information aboutchangelings and the ir capabilities can be found in The Shining Host. ## KINFOLK (3TRAITMERIT)
 
-## SOOTHINGVOICE(2TRAITMERIT)
+By some quirk of fate, you are kin to one the Changing Breeds.The Changing Bloodhasnot stirred inyoubutit has left itsmark Thoughyoumaynotunderstand why, you are immune tothe Delirium(the madnessinspired by viewinga were wolf in the full rage of his Crinos for m).This do esn't mean that you know sensitive secrets, or that you can wanderaroundtheshapechangersholy siteswithoutretributionbut you have acertain edge among the mthatnonormal mortal can match. Aspartial supernaturals, Kinfolkhavea Trait maximum of nine Traits ineach of the Physical, Social and Mental categories, insteadof the normalmortal limitof eight Traits.all Kinfolkareconsideredrelatedtooneof the tribes, and they are likely tohaveclosetiestoatleastne Garouof that tribe.Additionally Kinfolkmaylean Basichomidortribe Giftsthatdonotrequire Gnosisor Rage, atacostof six Traits (whether Free or Experience Traits), or eight Traits for Gifts of a tribeother than the onetowhichyouarerelated. In a predominantly Garougame, the Storytellermaychoose towaive the cost of this Merit, encouraging the interaction of mortal relativeswith the Garou. More information about Garou Giftsand tribesexistsin Laws of the Wild. ## LUCK (3TRAITMERIT) you were bornlucky, and have alwaysfoundthattheoddsareinyourfavorou gainthreeretestsperstorythatyoumayuseonanyfailedtests.you can not makemore than one retest on any single challenge. ## PSYCHIC/SORCEROUSAWARENESS(3/4TRAITMERIT)
 
-Yourvoiceiscalmandsoothing,almostentrancing.YouaretwoTraitsuponany challenge that directly involves the use ofyour voice(beit for singing,preaching, leadership,etc.).
+You are automatically aware when evermagic or psychic power is usedwithin10 feetofyou.the useof Garou Gifts, vampiric Disciplinesorevenhedgemagiccauses a distinct tingle torunupyour spineif you have Sorcerous Awareness;with Psychic Awareness, you not icevariousphenomena and certain supernaturalpowers that mimicpsychicabilities, likevampiric Auspex.Furthermore, you maymakea Mental Challenge(with a staticdifficulty of eight Traits)in or der todiscernwhat effectwas used and who used it(assuming that you have enough Lore Abilities tobeableto tell a vampire Discipline from, say, a changeling Art). ## SYMBOLINDEPENDENCE(3TRAITMERIT) the useof True Faith against a supernatural creature typicallyrequires the use of aholysymbol.how ever, you are freefrom this restriction, and you mayuseour Faith unfetteredby any suchpsychological or religiouscrutch. ## UNBONDABLE(3TRAITMERIT)
 
-## GHOSTSIGHT(3TRAITMERIT)
+You are immune tobeing Blood Bound.Nomatter how muchbloodyou drink from vampires, you will neverbe Bound to the m. ## DESTINY (4 TRAIT MERIT)
 
-Youcanseebeyondthebarrierthatseparatesthelandof thedeadfromtheworld of theliving,but onlywitheffort.By succeedinginaStaticMental Challengewith a difficulty of sevenTraits,you can see wraiths andeven（dimly)the landsof the Underworld,fortheremainderofthescene.
-
-## KINAIN(3TRAITMERIT)
-
-Thoughnotachangelingyouhavefaebloodrunningthroughyourveinsliterally. Beingkinain makes iteasierforyou towalkin theDreamas ifyouwere faeyourself. Whilethisproductofyourheritagemayexposeyoutochimericalattack,italsoopens you to anew andwondrousworld.Althoughyoudonot necessarilyhave accessto the powersfthaeuarmornwiththerworldndhyindtasroff you.Conversely,you aremorelikely torememberyour encounterswith them.
-
-Kinain,as slightly supernatural entities,have a maximum ofnineTraits in all abilities,insteadof theusualhumanmaximumofeightTraits.Youarerelated toone of thetypesoffaerieraces,andyoumayevensharesomeof theirabilities.Youdonot necessarilyhave the ability to usechangelingArts(unlessyou have the additional Merit:FaerieBlood)butyouaremoreeasilyacceptedintoKithainsociety.Youhave onlyfiveBanalityTraitsgivingyou amuchwider opportunity toexplorefaerie society,aschangelingsaremorelikelytoassociatewithyouandyouarelesssusceptible to the amnesiac effects of the Mists.Similarly,you are easily enchanted;any changeling can enchant you by simply expending a Trait of Glamour (without the needfor a token),andyou remain enchantedfor a full week.
-
-If you are playingkinain in a predominantly changeling game,theStoryteller maychoose towaive the cost of thisMerit,to encourageplay ofintermediaries between human and changeling society.
-
-More information aboutchangelings and their capabilities canbe found inThe Shining Host.
-
-<!-- image -->
-
-## KINFOLK (3TRAITMERIT)
-
-By some quirk of fate,you arekin to one the Changing Breeds.The Changing Bloodhasnot stirred inyoubutit has left itsmarkThoughyoumaynotunderstand why,youareimmune totheDelirium(themadnessinspired by viewinga werewolf in thefull rage of his Crinos form).This doesn't mean that you know sensitive secrets, orthatyoucanwanderaroundtheshapechangersholy siteswithoutretributionbut youhave acertain edge among themthatnonormal mortal canmatch.
-
-Aspartial supernaturals,Kinfolkhavea Trait maximum ofnineTraits ineach ofthePhysical,Social andMental categories,insteadof thenormalmortal limitof eightTraits.AllKinfolkareconsideredrelatedtooneof thetribes,andtheyarelikely tohaveclosetiestoatleastneGarouof thattribe.AdditionallyKinfolkmaylean BasichomidortribeGiftsthatdonotrequireGnosisorRage,atacostof sixTraits (whetherFree orExperienceTraits),oreightTraits forGifts ofa tribeother than the onetowhichyouarerelated.
-
-In a predominantly Garougame,theStorytellermaychoose towaive thecost of thisMerit,encouraging the interaction of mortal relativeswith the Garou.
-
-More information about Garou Giftsand tribesexistsinLaws of theWild.
-
-## LUCK (3TRAITMERIT)
-
-Youwerebornlucky,andhavealwaysfoundthattheoddsareinyourfavorou gainthreeretestsperstorythatyoumayuseonanyfailedtests.Youcannotmakemore than one retest on any single challenge.
-
-## PSYCHIC/SORCEROUSAWARENESS(3/4TRAITMERIT)
-
-You are automatically aware whenevermagic or psychic power is usedwithin10 feetofyou.Theuseof Garou Gifts,vampiricDisciplinesorevenhedgemagiccauses a distinct tingle torunupyour spineif youhave SorcerousAwareness;with Psychic Awareness,younoticevariousphenomena andcertain supernaturalpowers that mimicpsychicabilities,likevampiricAuspex.Furthermore,youmaymakeaMental Challenge(with a staticdifficulty ofeightTraits)in order todiscernwhat effectwas used and who used it(assuming that youhave enoughLoreAbilities tobeableto tell a vampireDiscipline from,say,a changelingArt).
-
-## SYMBOLINDEPENDENCE(3TRAITMERIT)
-
-Theuseof TrueFaith against a supernatural creature typicallyrequires theuse ofaholysymbol.However,you arefreefrom thisrestriction,andyoumayuseour Faith unfetteredby any suchpsychological orreligiouscrutch.
-
-## UNBONDABLE(3TRAITMERIT)
-
-You areimmune tobeingBloodBound.Nomatter howmuchbloodyou drink from vampires,you will neverbeBound to them.
-
-## DESTINY (4 TRAIT MERIT)
-
-Agreatdestinyliesahead ofyou,thoughyoumaynotyetrealizeit.Yourdestinywill becomemoreandmore apparent as thechronicle proceeds.TheStorytellerwilldecideyour destiny,thoughyoumaymakesuggestions.BecausethisMerittendstotransformacharacter intoamainprotagonist,youmusthaveyourStoryteller'spermissiontochooseit.
-
-## Laws of the Hunt
+Agreatdestinyliesahead of you, thoughyoumaynotyetrealizeit.you rdestinywill becomemoreandmore apparent as the chronicle proceeds.the Storytellerwilldecideyour destiny, thoughyoumaymakesuggestions.Becausethis Merittendstotransformacharacter into amainprotagonist, you musthaveyour Storyteller'spermissiontochooseit. ## Laws of the Hunt
 
 ## EASYCONSORT(4TRAITMERIT)
 
-Wraiths and other spiritsfind it easier to possess you than othermortals. AlthoughthisMeritcanbedisadvantageousattimesitmeansthatyouareanatural channelforbeingsfromtheotherworlds.Assuch,theymaychoosetobarterwithyou for thefavor of borrowingyourbody.All tests to possess you have a twoTraitbonus; furthermore,you retainfull awareness of all eventswhileyour body is ridden.
+Wraiths and other spiritsfind it easier to possess you than othermortals. Althoughthis Meritcanbedisadvantageousattimesitmeansthatyouareanatural channelforbeingsfromtheotherworlds.Assuch, the ymaychoosetobarterwithyou for the favor of borrowingyourbody.All tests to possess you have a two Traitbonus; furthermore, you retainfull awareness of all eventswhileyour body is ridden. ## ECUMENIST(4TRAIT MERIT)
 
-## ECUMENIST(4TRAIT MERIT)
+Althoughyou are steadfastinyourownfaith, you recognizetheworkings of the Holypiritinotherreligions.Usually, when usingrue Faithyoumustuseaoly symbol from you rownreligioustradition.with this Merit, you seethedivinespark at the coreofreligionsbeyondyourown.you are abletomakeuse of the irreligious icons and holygroundwhenconfronting the supernatural. ## GHOUL(STRAITMERIT)
 
-Althoughyou aresteadfastinyourownfaith,yourecognizetheworkings ofthe Holypiritinotherreligions.Usually,whenusingrueFaithyoumustuseaoly symbol fromyourownreligioustradition.WiththisMerit,you seethedivinespark at thecoreofreligionsbeyondyourown.Youareabletomakeuse of theirreligious icons and holygroundwhenconfronting the supernatural.
+Atsomintamiedoumftntitaessilybondingou service.Somehowyou brokefree, but the blood'sforcehasgrantedyousomeofyour mistresspower.you raginghasstopped, and you have the Potence Disciplineatthe Basic level of Might, givingyoua freeretest onany strengthrelated Physical Challenge.This Meritdoesnotcomewithoutcosthowever.you mustcontinuetofeedonvampireblood oncepermonth, or you will regainyourmortalityandloseallthebenefitsofbeingaghoul. Ghouls, assupernaturalentities, mayhaveuptonine Traitsinanycategory(unlike mostmortalswhoarelimitedtoeight）.Additionally, aghoulmaylearnthevampiric Disciplinesthatarenatural tohervampirementor.for playerswith Lawsof the Night, the ghoul beginswithone Basic Discipline from herdomitor's clan(inaddition tothe automaticlevelof Potence), and the ghoulcanlearn the other Basiclevelsofher do mitor'sclan Disciplines, atacostof six Experience Traitseach.Particularlypowerful do mitorsgive the ir ghouls the ability to learn greater Disciplines;ghoul servants sustainedbyavampireof the seventh or sixthgenerationmaylearn Intermediate Disciplines(atacostof12Traits each), whileghouls of vampires of lowergenerations may learn Advanced Disciplines (at the incredible cost of 18Traits each). ## POWERFUL GHOULS
 
-## GHOUL(STRAITMERIT)
+Some Storytellers may feel that limiting ghouls to Basic Disciplines is too constrainingfornormaltroupes.Afterallsincemosttroupeswonthavemanyeldr Kindredaround, givingan Intermediate Disciplinetoa ghoulofaninth-generation vampireseemslikeareasonablewaytokeepthedichotomybetweeneldersand neonateswithout adding inseventhor sixthgenerationvampirepowerhouses. If this ideaappealstoyou, you maywishtousethefollowingalternate dispersionforghoulish Disciplinelimitations: do mitor of eleventh or weakergeneration:Basic Disciplines do mitor of seventh or stronger generation:Advanced Disciplines do mitor of eighth to tenth generation:Intermediate Disciplines
 
-Atsomintamiedoumftntitaessilybondingou service.Somehowyou brokefree,buttheblood'sforcehasgrantedyousomeofyour mistresspower.Youraginghasstopped,andyouhavethePotenceDisciplineattheBasic level ofMight,givingyoua freeretest onany strengthrelatedPhysical Challenge.This Meritdoesnotcomewithoutcosthowever.Youmustcontinuetofeedonvampireblood oncepermonth,oryouwillregainyourmortalityandloseallthebenefitsofbeingaghoul.
+Ghouls should never have access to Master-level Disciplines—some powers are reserved for the elders alone. ## Character Creation
 
-Ghouls,assupernaturalentities,mayhaveuptonineTraitsinanycategory(unlike mostmortalswhoarelimitedtoeight）.Additionally,aghoulmaylearnthevampiric Disciplinesthatarenatural tohervampirementor.ForplayerswithLawsof theNight, theghoul beginswithoneBasicDiscipline fromherdomitor's clan(inaddition tothe automaticlevelofPotence),andtheghoulcanlearn theother Basiclevelsofher domitor'sclanDisciplines,atacostof sixExperienceTraitseach.Particularlypowerful domitorsgive their ghouls the ability to learn greaterDisciplines;ghoul servants sustainedbyavampireof theseventh orsixthgenerationmaylearnIntermediate Disciplines(atacostof12Traits each),whileghouls ofvampires of lowergenerations may learnAdvancedDisciplines (at theincredible cost of 18Traits each).
+Ifyou are playing a mortal ghoul in a predominantly vampiric game, the Storyteller may choose towaive the cost of this Merit.After all, anyvampire can simply turn you into a ghoul byfeeding you one Trait of herblood. See Liber des Goules and Laws of the Night for more complete rules. ## GNOSIS(S-7TRAITMERIT) you must takethe Merit:Kinfolkinordertohavethis Merit.Inadditiontoyourblood tiestothe Garouyouhaveasmallmeasureofspiritualawarenessaswell you aretied the powersof life and Gaiamuch likeyourchangingcousins.you have onetothree Traits of Gnosis, dependingon the numberof Traits spenton this Merit(one Gnosis for five Traits, two Gnosisforsix Traitsand three Gnosisforseven Traits).you can usethis Gnosis tousewerewolf Giftsandassistin Rites, justlikea Garou.Having this Merit all owsyou tolearnagreater selectionof Gifts(sinceyoucanusetheones that require Gnosis）, and accordsyouagreatdealofrespectamongtheshapechangers.Furthermore, ifavampire attemptsto Embraceyouyoumaymakeonesimpletestforeach Traitof Gnosisthatyou possesslfyousucceedinanyoftheestsyoudiequicklyandeacefullywithoutbecoming avampire.fyoutieanyofthetestswithoutanywinsyoudielowlyandpainfullybutstill do not becomeavampire.Onlyifyouloseallofthetestsdoyoujointheranksoftheundead. you maynotraiseyour Gnosiswith later Experience Traitsany Gnosis that you possess during character creation is the limit of you r spiritual capability, for ever. how everfyouexpendaermanentnosis Traitnthcoursef Gifrritualu may use Experience Traitstoregainthat Gnosis Trait later. See Lawsofthe Wildforanin-depthexplanationof Gnosisandthe Giftsthatitpowers. ## CLEARSIGHTED(STRAITMERIT) you are unusuallysensitivetotheuseofsupernaturalowersofillusiontrickeryand disguiseandcanseethoughhemtotheheartof the matter with asuccessul Mental Challnguanugseeceasf Fceft Mil Blissfullgorance, Chimerstryandthelike when engagingmultipleopponentsatonceyou needonlyriskone Mental Trait toattempttoperceiveallofthem;makeasingletestagainst everyonsimultanouslyresolvingtsasrmalufouloseanyofthchallngesu onlylosetheone Mental Traitthatyoubid. ## LIFEGIVER(S TRAITMERIT) you have aparticularlystronglife-for ce, suchhatyouhealrapidlyandevenextendyour healngabilitithrnvrusunaggravatddamageuealtfas than tralmumrifuareinjuednanynruca at this advancedrateaswell(assuingthatyoursubjectscapableofnatural healingthats）
 
-## POWERFUL GHOULS
+Asanaside, though, you rbloodsepeciallyotentovampiresandyouhave the added bonus of healing quickly.You automaticallyhave the Flaw:Potent Blood, but you gainno additional Traits for it. ## SPEAKERWITHTHEDEAD(STRAITMERIT) you r sight extends beyond the Shroud of the spiritworld and into the landsof the dead.You see and hear the Underworld at all times;toyou, life is an existence stumblingthroughtwosimultaneoushalfworldsoneofsolid, brightmatter, the other of decayinggrayishdetritu.nadditionyoucanseeandhearwraithsandotherings with inthelandsofthedead.Obviously, you are atargetforthoseghostswhowisho
 
-Some Storytellers may feel that limiting ghouls toBasicDisciplines is too constrainingfornormaltroupes.Afterallsincemosttroupeswonthavemanyeldr Kindredaround,givinganIntermediateDisciplinetoa ghoulofaninth-generation vampireseemslikeareasonablewaytokeepthedichotomybetweeneldersand neonateswithout adding inseventhor sixthgenerationvampirepowerhouses.
+## Laws of the Hunt contactthelivingworld, and malevolentspectresmayhoundyouandattempttodrive you insane.how ever, you r intimateknowledge of the deadlands affordsyou the opportunitytogain Wraith Lorewithout a mentor, and you have a clear advantage when using Sorcery or Psychic Phenomena that interactwiththedead. ## MYSTERI0USGUARDIAN(6TRAITMERIT)
 
-If thisideaappealstoyou,youmaywishtousethefollowingalternate dispersionforghoulishDisciplinelimitations:
+Someoneorsomethingwatches over you, protecting you from harm and aiding you onrandomoccasions.the Storytellerwilldecidewhy(and by what)you are being watched over, aswell aswhatelsehaving suchaguardian entails. ## FISTOF GOD(7TRAITMERIT)
 
-Domitor ofeleventh orweakergeneration:BasicDisciplines
+Throughnatural devotion, ntensetrainingorsomeothermysticalmeans, you have for ged a supernatural abilitytostrike and injure paranormal creatures.Perhaps you'vedevelopedan incrediblemartial arts technique, or maybeyour handgunwas once blessed by an extremely devout priest.what ever the reason, you r"Witch Hammer" strike inflicts aggravated damage against supernatural creatures.how ever, the Fistonlyfunctionswithoneparticularweaponourgunyouwordyourbody what ever.Furthermore, this Merit only functions（though it can not belost）if you have atleastfourpermanent Humanity Traits. ## TRUEFAITH(7TRAITMERIT)
 
-Domitor of seventh or stronger generation:Advanced Disciplines
+You have adeep-seatedfaithinand loveforsomehigherdivinepower.you begin the gamewith one Traitof True Faith.you rbeliefprovidesyouwith aninnerstrength and comfort that continues tosupportyouwhen all elsefails.the effect of Faithvaries from persontoperson, and from religiontoreligion.Moredetailscanbefound inthe Numinaesection of Chapter Three. ## CURSED(ITOSTRAITFLAW)
 
-Domitor of eighth to tenth generation:IntermediateDisciplines
-
-Ghouls shouldnever have access toMaster-level Disciplines—some powers arereserved for the elders alone.
-
-## Character Creation
-
-Ifyou are playing a mortal ghoul in a predominantly vampiric game,the Storyteller may choose towaive the cost of thisMerit.After all,anyvampire can simply turn you into a ghoul byfeeding you oneTrait of herblood.
-
-SeeLiber des Goules and Laws of theNight for more complete rules.
-
-## GNOSIS(S-7TRAITMERIT)
-
-Youmust taketheMerit:KinfolkinordertohavethisMerit.Inadditiontoyourblood tiestotheGarouyouhaveasmallmeasureofspiritualawarenessaswellYouaretied the powersof life andGaiamuch likeyourchangingcousins.YouhaveonetothreeTraits of Gnosis,dependingon thenumberofTraits spenton thisMerit(one Gnosis forfive Traits,twoGnosisforsixTraitsand threeGnosisforsevenTraits).YoucanusethisGnosis tousewerewolfGiftsandassistinRites,justlikea Garou.Having thisMerit allowsyou tolearnagreater selectionofGifts(sinceyoucanusetheones thatrequireGnosis）,and accordsyouagreatdealofrespectamongtheshapechangers.Furthermore,ifavampire attemptstoEmbraceyouyoumaymakeonesimpletestforeachTraitofGnosisthatyou possesslfyousucceedinanyoftheestsyoudiequicklyandeacefullywithoutbecoming avampire.fyoutieanyofthetestswithoutanywinsyoudielowlyandpainfullybutstill donotbecomeavampire.Onlyifyouloseallofthetestsdoyoujointheranksoftheundead.
-
-Youmaynotraiseyour Gnosiswith laterExperienceTraitsanyGnosis thatyou possess during character creation is the limit ofyour spiritual capability,forever. HoweverfyouexpendaermanentnosisTraitnthcoursefGifrritualu may useExperienceTraitstoregainthat GnosisTrait later.
-
-SeeLawsoftheWildforanin-depthexplanationofGnosisandtheGiftsthatitpowers.
-
-## CLEARSIGHTED(STRAITMERIT)
-
-Youareunusuallysensitivetotheuseofsupernaturalowersofillusiontrickeryand disguiseandcanseethoughhemtotheheartof thematterWithasuccessulMental ChallnguanugseeceasfFceftMil Blissfullgorance,ChimerstryandthelikeWhenengagingmultipleopponentsatonceyou needonlyriskoneMentalTrait toattempttoperceiveallofthem;makeasingletestagainst everyonsimultanouslyresolvingtsasrmalufouloseanyofthchallngesu onlylosetheoneMental Traitthatyoubid.
-
-## LIFEGIVER(S TRAITMERIT)
-
-Youhaveaparticularlystronglife-force,suchhatyouhealrapidlyandevenextendyour healngabilitithrnvrusunaggravatddamageuealtfas thantralmumrifuareinjuednanynruca at thisadvancedrateaswell(assuingthatyoursubjectscapableofnatural healingthats）
-
-Asanaside,though,yourbloodsepeciallyotentovampiresandyouhave the added bonus of healing quickly.You automaticallyhave theFlaw:Potent Blood, but you gainno additional Traits for it.
-
-## SPEAKERWITHTHEDEAD(STRAITMERIT)
-
-Your sight extends beyond theShroud of the spiritworld andinto thelandsof the dead.You see and hear theUnderworld at all times;toyou,life is an existence stumblingthroughtwosimultaneoushalfworldsoneofsolid,brightmatter,theother ofdecayinggrayishdetritu.nadditionyoucanseeandhearwraithsandotherings withinthelandsofthedead.Obviously,youareatargetforthoseghostswhowisho
-
-## Laws of the Hunt
-
-contactthelivingworld,andmalevolentspectresmayhoundyouandattempttodrive you insane.However,your intimateknowledge ofthe deadlands affordsyou the opportunitytogainWraithLorewithout a mentor,andyou have a clear advantage whenusingSorcery orPsychicPhenomena thatinteractwiththedead.
-
-## MYSTERI0USGUARDIAN(6TRAITMERIT)
-
-Someoneorsomethingwatches over you,protecting you fromharm and aiding youonrandomoccasions.TheStorytellerwilldecidewhy(and by what)youarebeing watched over,aswell aswhatelsehaving suchaguardian entails.
-
-## FISTOF GOD(7TRAITMERIT)
-
-Throughnatural devotion,ntensetrainingorsomeothermysticalmeans,you haveforged a supernatural abilitytostrike and injure paranormal creatures.Perhaps you'vedevelopedan incrediblemartial arts technique,ormaybeyour handgunwas once blessed by an extremely devout priest.Whatever the reason,your"WitchHammer" strike inflicts aggravated damage against supernatural creatures.However, theFistonlyfunctionswithoneparticularweaponourgunyouwordyourbody whatever.Furthermore,thisMerit only functions（though it cannotbelost）if you have atleastfourpermanentHumanityTraits.
-
-## TRUEFAITH(7TRAITMERIT)
-
-You haveadeep-seatedfaithinand loveforsomehigherdivinepower.Youbegin thegamewith oneTraitofTrueFaith.Yourbeliefprovidesyouwith aninnerstrength andcomfort thatcontinues tosupportyouwhen allelsefails.Theeffect ofFaithvaries frompersontoperson,andfromreligiontoreligion.Moredetailscanbefound inthe Numinaesection of ChapterThree.
-
-## CURSED(ITOSTRAITFLAW)
-
-You havebeencursedby someone orsomethingwith supernatural ormagical powers.Thiscurseisspecificanddetailedcannotbedispelledwithoutextremeeffort and can even belife-threatening.Some examplesinclude:
-
-- If youpassonasecretyourbetrayalwilllaterharmyouinsomeway.(1Trait)
-- Toolsbreakor malfunction whenyou attempt touse them.(3Traits)
+You have beencursedby someone or somethingwith supernatural or magical powers.this curseisspecificanddetailedcannotbedispelledwithoutextremeeffort and can even belife-threatening.Some examplesinclude: - If you passonasecretyourbetrayalwilllaterharmyouinsomeway.(1Trait)
+- Toolsbreakor malfunction when you attempt touse the m.(3Traits)
 - You stutter uncontrollably when trying to say something important.(2Traits)
-- You are doomed tomake enemies of thosewhom you love.(4 Traits)
-- ·Allofyouraccomplishmentswill inevitablybecomesomehowtainted.(5Traits)
+- You are do omed tomake enemies of thosewhom you love.(4 Traits)
+- ·all of you raccomplishmentswill inevitablybecomesomehowtainted.(5Traits)
 
-## OFFENSIVETOANIMALS(ITRAITFLAW)
-
-Forsomereason,animalscringefromyourtouchandareuneasyinyourpresence Perhapsitisbecauseyou havebeentaintedbyyour dealingswiththeinfernal or perhapsthey justdislikeyoursmell.Forwhateverreason,animalsarejitteryaround you.You are oneTrait down on challenges involving animals.
-
-## MAGICSUSCEPTIBILITY(2TRAITFLAW)
-
-Youareparticularly suscptibleoThaumaturgyhdgemagic,ruemagick,Garou rituals and other forms ofmagic.You aretwoTraitsdowninchallengesrelating toresisting all suchspellsandrituals,andtheyhavetwicethenormaleffectonyouYoumayneverlearn tousesuchmagicshowever,asyoucouldneverpreventthemfromslippingoutofcontrol.
-
-## Character Creation
+## of FENSIVETOANIMALS(ITRAITFLAW) for somereason, animalscringefromyourtouchandareuneasyinyourpresence Perhapsitisbecauseyou have beentaintedbyyour dealingswiththeinfernal or perhapsthey justdislikeyoursmell.for what everreason, animalsarejitteryaround you.You are one Trait do wn on challenges involving animals. ## MAGICSUSCEPTIBILITY(2TRAITFLAW) you are particularly suscptibleo Thaumaturgyhdgemagic, ruemagick, Garou rituals and other for ms of magic.You are two Traitsdowninchallengesrelating toresisting all suchspellsandrituals, and they have twicethenormaleffectonyou you mayneverlearn tousesuchmagicshowever, asyoucouldneverpreventthemfromslippingoutofcontrol. ## Character Creation
 
 ## SPECTREMEAT(3TRAITFLAW)
 
-While most Spectres(wraiths thathave fallen into the clutches of darkness andinsanity)cannotperceivethelivinglands,youstickouttotheirperceptions. Spectrescanseeyouand theyrelikelytodoall sortsofnasty things toyoujust out of general maliciousness. See Oblivion for more details about Spectres. Storytellersmay disallowthisFlawif theirgamesdonot includemuchinteraction withwraiths and Spectres.
+While most Spectres(wraiths that have fallen into the clutches of darkness and insanity)can not perceivethelivinglands, you stickouttotheirperceptions. Spectrescanseeyouand the yrelikelytodoall sortsofnasty things toyoujust out of general maliciousness. See Oblivion for more details about Spectres. Storytellersmay disallowthis Flawif the irgamesdonot includemuchinteraction with wraiths and Spectres. ## WYRM-TAINTED(4TRAITFLAW)
 
-## WYRM-TAINTED(4TRAITFLAW)
-
-For some reason,you have the stinkof theWyrm aboutyou.This may be becauseyouwillingly serveIt,oritmay justbe hereditary andbeyondyourcontrol. In any case,Garou can often sense thisaboutyou.Most of themwill kill first and askquestions later.
-
-(Note:The degree ofWyrm-taint represented by thisFlaw is tooseverefor a simpleRite of Cleansing to purge.As opposed to mereincidental corruption resulting frombeingin thevicinity ofWyrm-tainted orWyrm-serving entities, this taint has seeped into every aspect of your charater's life whether herealizes itornot.)
+For some reason, you have the stinkof the Wyrm aboutyou.This may be becauseyouwillingly serve It, or itmay justbe hereditary and beyondyourcontrol. In any case, Garou can of ten sense this aboutyou.Most of the mwill kill first and askquestions later. (not e:The degree of Wyrm-taint represented by this Flaw is tooseverefor a simple Rite of Cleansing to purge.As opposed to mereincidental corruption resulting from beingin the vicinity of Wyrm-tainted or Wyrm-serving entities, this taint has seeped into every aspect of you r charater's life whether herealizes itornot.)
 
 ## DARKFATE(STRAITFLAW)
 
-A terrible doomlies ahead of you.This inevitabledemisewill become more andmore apparentasthechronicleproceedsandyouwill oftenhavenightmares aboutit.UnlessyoubuyofftheFlawbeforeitistoolate,yourcharacterwill be deadwithintheyear,thoughyou may attemptto accomplishsomethingofgood first.TheStorytellerwill decideyourfate,thoughyoumaymake suggestions.You must haveyour Storyteller's permission to choose thisFlaw.
+A terrible do omlies ahead of you.This inevitabledemisewill become more and more apparentasthechronicleproceedsandyouwill of tenhavenightmares aboutit.Unlessyoubuyoffthe Flawbeforeitistoolate, you rcharacterwill be deadwithintheyear, thoughyou may attemptto accomplishsomethingofgood first.the Storytellerwill decideyourfate, thoughyoumaymake suggestions.You must have you r Storyteller's permission to choose this Flaw. ## FREE TRAITS
 
-## FREE TRAITS
-
-Mortal hunters, unlike their prey, do not automatically get any special supernatural powers.However,they doreceive one advantage over the hunted. Mortal characters'players receive five Free Traits (or seven,for independent mortals) with whichtheymayimprovetheircharacters'TraitsorpurchaseNuminae. TheseFreeTraits can be expended in any way the Storyteller allows.
-
-Numinae-thespecialpowersofTrueFaith,Sorcery andPsychicPhenomena ——are described in Chapter Three.
-
-Thechartlists theFreeTraitcostsforvariousimprovements.
-
-| FREETRAITCOSTS                           |                |
-|------------------------------------------|----------------|
-| AttributeTrait                           | 1              |
-| AbilityTrait                             | 1              |
-| WillpowerTrait                           | 3              |
-| HumanityTrait                            | 2              |
-| Merit                                    | MeritTraitcost |
-| BasicNumina(Sorcery or PsychicPhenomena) | 3              |
-| InfluenceTrait                           | 1              |
+Mortal hunters, unlike the ir prey, do not automatically get any special supernatural powers.how ever, they do receive one advantage over the hunted. Mortal characters'players receive five Free Traits (or seven, for independent mortals) with which the ymayimprovetheircharacters'Traitsorpurchase Numinae. the se Free Traits can be expended in any way the Storyteller all ows. Numinae-the specialpowersof True Faith, Sorcery and Psychic Phenomena ——are described in Chapter Three. the chartlists the Free Traitcostsforvariousimprovements. | FREETRAITCOSTS | |
+| Attribute Trait | 1 |
+| Ability Trait | 1 |
+| will power Trait | 3 |
+| Humanity Trait | 2 |
+| Merit | Merit Traitcost |
+| Basic Numina(Sorcery or Psychic Phenomena) | 3 |
+| Influence Trait | 1 |
 
 Laws of the Hunt
 
 ## STEP FIVE:SPARK OF LIFE
 
-Atthispoint,yourcharacterisnearlycomplete.Nowisthetimetofleshoutfinal attachments,history and thequirks of the character'spersonality.
+Atthispoint, you rcharacterisnearlycomplete.Nowisthetimetofleshoutfinal attachments, history and the quirks of the character'spersonality. - ·Appearance —Use a few props and trappings (barring any weaponry, of course)to showthe style of you rhunter.Anovitiate Christianpriestmayhavethe typical blackshirtwithwhitecollar, whileamore sensibleandexperienced hunter could wearanall-oncealingrenchcoatoverbaggyversatilelothing do you dra you rselfwithcrucifixes?do you carryanotebooktorecordobservationsandreference you r findings?you r outward appearance projects you r character's concept to other players, sobe sure to have the right image for the persona. - ·Background Story—Decide how you r hunter lived and grew upbefore becoming embroiled in the world of the supernatural.you rcharacterwas anormal persononce, with ambitionsdesiresand foibles.Thinkabouttheeducationthathe characterhad and the jobsthat shemayhave held.Afterall, the hunter'supbringing heavily influences her hunting style, beliefs and methods. - Equipment The traditional hunter carries a wooden stake and a silver cross, but manyhunters still have possessionsfromtheirformerlives.Cellularphones, beatup old cars, pistols, money, body armor, hiking gear, anapartment.talk oyour Storytellerabout the toolsandpossessionsofyourhunter, and settleonafewthatare likely.you r Storyteller can is sue cards torepresent the things you have on hand. - Quirks Each person is unique, and the strange little personal details of you r hunter help to bring that uniqueness to the for e.A small quirkmight be a tendency tosay"Amen"toevery comment byfellowhunters, rubbinga lucky coin or never looking into the eyes of apersonwithwhomyou're speaking.Writedown a fewlinesofnotesregardingthepersonalfoiblesofyourcharacter, and workthese quirks into play. ## SAMPLECHARACTERCREATION
 
-- ·Appearance —Use a few props and trappings (barring any weaponry, of course)to showthe style ofyourhunter.AnovitiateChristianpriestmayhavethe typical blackshirtwithwhitecollar,whileamore sensibleandexperienced hunter couldwearanall-oncealingrenchcoatoverbaggyversatilelothingDoyoudra yourselfwithcrucifixes?Doyoucarryanotebooktorecordobservationsandreference your findings?Your outward appearance projects your character's concept to other players,sobe sure to have theright image for the persona.
-- ·Background Story—Decide how your hunter lived and grew upbefore becoming embroiled in theworld of the supernatural.Yourcharacterwas anormal persononce,withambitionsdesiresand foibles.Thinkabouttheeducationthathe characterhad and the jobsthat shemayhave held.Afterall,thehunter'supbringing heavily influences her hunting style,beliefs andmethods.
-- EquipmentThe traditional hunter carries a wooden stake and a silver cross, butmanyhunters still havepossessionsfromtheirformerlives.Cellularphones,beatup old cars,pistols,money,body armor,hiking gear,anapartment.talk oyour Storytellerabout thetoolsandpossessionsofyourhunter,andsettleonafewthatare likely.Your Storyteller can issue cards torepresent the things you have on hand.
-- QuirksEach person is unique,and the strange little personal details of your hunter help to bring that uniqueness to the fore.A small quirkmight be a tendency tosay"Amen"toevery comment byfellowhunters,rubbinga lucky coin or never looking intotheeyes ofapersonwithwhomyou're speaking.Writedown a fewlinesofnotesregardingthepersonalfoiblesofyourcharacter,andworkthese quirks into play.
+Michael would liketoplay a hunteranddiscoverthesupernaturalworld from a mortalerpective.Firstethinksaboutaconcptorthecharacter, and decidesa hewouldliketoplay a police of ficerwho has stumbled onto vampiresoverthecourse of a normal investigation.He chooses the name Adam Walkerton, and decides that a seemingly or dinarymissingpersoncasetook a strangeturnwhen of ficer Walkerton caughtthe attentionof the vampireresponsibleforthedisappearance.Shecaughthim and toyedwithhim, but was carelessinremovinghismemoriesoftheincident.When the casewas dismissed byhissuperiorsand Walkertonwasreasigned, herealizedthat the vampiremust have some sortof swayoverthepolicedepartment.Heisdetermined tofigure it out and seeher exposed. ## INSPIRATION
 
-## SAMPLECHARACTERCREATION
+Michael decidesthatthe Natureof Architect and the Demeanorof Judgewould suit Walkertonbest.Hehas an idealistviewofwhat hewants the policeforce to be like, but comesacross asafairlytypical lawenforcementofficer.His Motivationisone of Duty, totheoliceforceandtosocietyngeneral.Obviouslyhesassociatedwih agovernmental agency, the localpolice department. ## ATTRIBUTES
 
-Michael would liketoplay a hunteranddiscoverthesupernaturalworld from a mortalerpective.Firstethinksaboutaconcptorthecharacter,anddecidesa hewouldliketoplay a police officerwho has stumbled ontovampiresoverthecourse ofa normal investigation.He chooses thenameAdamWalkerton,and decides that a seemingly ordinarymissingpersoncasetook a strangeturnwhenOfficerWalkerton caughtthe attentionof thevampireresponsibleforthedisappearance.Shecaughthim and toyedwithhim,butwascarelessinremovinghismemoriesoftheincident.When thecasewas dismissed byhissuperiorsandWalkertonwasreasigned,herealizedthat thevampiremust havesome sortof swayoverthepolicedepartment.Heisdetermined tofigure it out and seeher exposed.
+Michael ranks Physical, Mental and Social Traits in that or der, feeling that Adam is a sharp copwho can end upbeing a bit gruff with people. Michael chooses the Physical Traits of Athletic, Athletic, Stalwart and Brutal because the se seem to him to encompass the physical nature of being a cop.He adds Resilient and Tenacious, figuringthat Walkerton do esn'tletmuch stop himfrom reaching hisgoals. Next, Michael chooses Mental Traits.Walkertonistrainedtonoticedetails, so Michael gives him Observant and Vigilant, as well as Dedicated, which reflect his approach to crime-solving and hisloyalty to the policeforce.Heroundsit of fwith Cunningbecause Adam has a fewplans of his own. Lastly, Michaelpicksthree Social Traitsfor Walkerton.Hehasthebearingand attitudeofacop, so Intimidating and Commanding seemappropriate.Headds Genial, since Walkerton is a good guy at heart. ## ABILITIES for Abilities, Adamautomatically startswith Firearmsand Investigationatno cost, since heisagovernment agent.Michael decidesthat Walkertons training also includes Brawl and Law.He'shad tofill out a lot of reports (and work around a lot of red tape), so Bureaucracy seemsnatural. ## ADVANTAGES
 
-## INSPIRATION
+Asa mortal, Walkertonbeginswith one will power Trait and four Humanity Traits.for Humanity, Michaelpicks Honorable Loyal, Loyaland Naive, toreflecthis approachtobeinga police of icer, and hisintentionsto single-handedlyrootout corruptionin the policedepartment. ## FINISHINGTOUCHES
 
-Michael decidesthattheNatureof Architect and theDemeanorof Judgewould suitWalkertonbest.Hehas an idealistviewofwhat hewants thepoliceforce to be like,butcomesacross asafairlytypical lawenforcementofficer.HisMotivationisone ofDuty,totheoliceforceandtosocietyngeneral.Obviouslyhesassociatedwih agovernmental agency,thelocalpolice department.
-
-## ATTRIBUTES
-
-Michael ranksPhysical,Mental andSocial Traits in that order,feeling that Adam is a sharp copwho can end upbeing a bit gruff with people.
-
-Michael chooses the PhysicalTraits ofAthletic,Athletic,Stalwart andBrutal because these seem to him to encompass thephysical nature of being a cop.He adds Resilient and Tenacious,figuringthatWalkerton doesn'tletmuch stop himfrom reaching hisgoals.
-
-Next,Michael choosesMentalTraits.Walkertonistrainedtonoticedetails,so Michael gives him Observant andVigilant,as well as Dedicated,which reflect his approach to crime-solving and hisloyalty to thepoliceforce.Heroundsit offwith CunningbecauseAdam has a fewplans of his own.
-
-Lastly,MichaelpicksthreeSocialTraitsforWalkerton.Hehasthebearingand attitudeofacop,soIntimidating andCommanding seemappropriate.HeaddsGenial, sinceWalkerton is a good guy at heart.
-
-## ABILITIES
-
-ForAbilities,Adamautomatically startswithFirearmsandInvestigationatno cost,since heisagovernment agent.Michael decidesthatWalkertons training also includesBrawl and Law.He'shad tofill out a lot of reports (andwork around a lot of red tape),soBureaucracy seemsnatural.
-
-## ADVANTAGES
-
-Asa mortal,Walkertonbeginswith oneWillpowerTrait and fourHumanity Traits.ForHumanity,MichaelpicksHonorableLoyal,LoyalandNaive,toreflecthis approachtobeinga police oficer,andhisintentionsto single-handedlyrootout corruptionin thepolicedepartment.
-
-## FINISHINGTOUCHES
-
-Michaelnow hasfiveFreeTraits to spend onWalkerton.He thinks that Walkerton'slifehasbeencompletelynormalup to thepointwhereheraninto vampires,andhedecides against havingaNumina power.He spendstwoTraits on the Social Traits of Charismatic and Elegant, since Walkerton'sa pretty wellroundedguywho looksgood in uniform.Heputs oneFreeTraittowardPolice Influence,sinceWalkerton'sgot abuddyortwowhocandohimfavorsfrom time to time.Lastly,Michael tackson alevelof Legal Influence(becauseAdamknows a coupleofattorneysfrom theDA'soffice)and theAbilityTraitDrive(from allof that offensive driving in a squad car).
-
-Becausehethinksit fitsWalkerton'scharacter,Michaelchooses theNegative MentalTraitofPredictable.Walkerton'sbehaviorandmotivationsareeasytoanticipate, onceyouknowhim.Walkerton alsohasan"only acopcan understand another cop" attitudethatmakeshimsomewhatCondescendingtowardsordinarycivilians,soMichael chooses the appropriateNegativeSocial Trait.MichaelalsogivesWalkerton theFlaw: Overconfident,since hesgota prettyhighopinionof himself.Healsotakes theFlaw: SupermaturalEnemy,atonlyoneTrait,toreflecttheoriginalvampirewhodidn'tfinish covering her tracks.These Flaws give Michael fourmore Free Traits,which he puts towardstheMerit:lronWillsinceWalkertonisdevotedtobeingapoliceofficer,and has already shown resistance tovampiricmind control.
-
-## Character Creation
-
-<!-- image -->
+Michaelnow has five Free Traits to spend on Walkerton.He thinks that Walkerton'slifehasbeencompletelynormalup to the pointwhereheraninto vampires, and hedecides against havinga Numina power.He spendstwo Traits on the Social Traits of Charismatic and Elegant, since Walkerton'sa pretty wellroundedguywho looksgood in uniform.Heputs one Free Traittoward Police Influence, since Walkerton'sgot abuddyortwowhocandohimfavorsfrom time to time.Lastly, Michael tackson alevelof Legal Influence(because Adamknows a coupleofattorneysfrom the DA'soffice)and the Ability Trait Drive(from all of that of fensive driving in a squad car). Becausehethinksit fits Walkerton'scharacter, Michaelchooses the Negative Mental Traitof Predictable.Walkerton'sbehaviorandmotivationsareeasytoanticipate, onceyouknowhim.Walkerton alsohasan"only acopcan understand another cop" attitudethatmakeshimsomewhat Condescendingtowardsordinarycivilians, so Michael chooses the appropriate Negative Social Trait.Michaelalsogives Walkerton the Flaw: Overconfident, since hesgota prettyhighopinionof himself.Healsotakes the Flaw: Supermatural Enemy, atonlyone Trait, toreflecttheoriginalvampirewhodidn'tfinish covering her tracks.the se Flaws give Michael fourmore Free Traits, which he puts towardsthe Merit:lron will since Walkertonisdevotedtobeingapoliceofficer, and has already shown resistance tovampiricmind control. ## Character Creation
 
 ## CHARACTERDETAILS
 
-TobringWalkerton fullytolife,Michael decides thatAdamhasa girlfriend, from whom he keeps the existence of vampires a secret, fearing for her safety. Walkertonisadevotedpoliceofficer,andputsinalotofovertime,whichdoesn'tleave him a lot of time for hobbies.He spendswhat little spare time he has in thelibrary learningaboutvampiresbutrightnowWalkertonoperatesstrictlyonpopularmovie vampirelore,whichcouldleadhimintotrouble.MichaelenvisionsWalkertonasa grufbutwell-meaning individual,who isntready toadmithisbelief invampiresto anyone just yet.
+Tobring Walkerton fullytolife, Michael decides that Adamhasa girlfriend, from who m he keeps the existence of vampires a secret, fearing for her safety. Walkertonisadevotedpoliceofficer, and putsinalotofovertime, which do esn'tleave him a lot of time for hobbies.He spendswhat little spare time he has in the library learningaboutvampiresbutrightnow Walkertonoperatesstrictlyonpopularmovie vampirelore, which could leadhimintotrouble.Michaelenvisions Walkertonasa grufbutwell-meaning individual, who is ntready toadmithisbelief invampiresto anyone just yet. ## EXPERIENCE
 
-## EXPERIENCE
+Welearnbydoing.Hunterswhosurviveontheroadof the irdangerous craftmust developtheir skillsandinnatepowers totheirfullestpotential or riskdeath and enslavement.Learningfrommistakesis just as important(if not more so) as studying one's successes.As such, all characters learn and grow through the process of experience. By participatingingamesyougain Experience Traitsforyour character, which maythenbeexpendedtoimprovehiscapabilities.Ingeneral, you gainone Experience Trait for each game session in which you takepart;the Storyteller may award additional Traitsforexceptionalroleplaying, ifyourhunterdoessomethingparticu larlycourageousorifhelearns somethingsignificant.how ever, acharactershould never gain more than three or four Experience Traits from any one session of play. ## USINGEXPERIENCE
 
-Welearnbydoing.Hunterswhosurviveontheroadof theirdangerous craftmust developtheir skillsandinnatepowers totheirfullestpotential orriskdeath and enslavement.Learningfrommistakesis just as important(if not more so) as studying one's successes.As such,all characters learn and grow through the process of experience.
-
-By participatingingamesyougainExperienceTraitsforyour character,which maythenbeexpendedtoimprovehiscapabilities.Ingeneral,yougainoneExperience Trait for each game session in which you takepart;theStoryteller may award additionalTraitsforexceptionalroleplaying,ifyourhunterdoessomethingparticu larlycourageousorifhelearns somethingsignificant.However,acharactershould never gain more than three or four ExperienceTraits from any one session of play.
-
-## USINGEXPERIENCE
-
-Once a character earns ExperienceTraits,theseTraitsmay be spent to purchasenewTraitsor tomproveexistingones.DifferentAttributesAbilities andNuminaehave different ExperienceTraitcostsforimprovement,asshown inthefollowingtable:
-
-- ·NewAttributeTrait—OneExperienceTrait.
-- ·NewAbilityTrait-OneExperienceTrait.
-- NewHumanityTrait-Two ExperienceTraits.
-- NewInfluenceTraitThreeExperienceTraits,exceptforgovernment agents,whoneedspendonly oneper InfluenceTrait.
-- ·NewWillpowerTrait—ThreeExperienceTraits.
-- ·NewNumina-ThreeExperienceTraitsforBasicNuminae,sixfor IntermediateNuminae and nineforAdvanced Numinae.TrueFaith maynot be improvedwithExperienceTraits,except by Inquisitors.
-- NewSorceryRitualTwo ExperienceTraitsforaBasicritual,four for anIntermediateritual and sixforanAdvancedritual.(A sorcerer automatically gainsoneritualof theappropriatetype atnocostforeachlevelofSorcerylearned.)
-- PurchaseMeritTwicetheMerit‘sTraitcost,withStorytellerapproval.
-- RemoveNegative Trait —TwoExperienceTraits per trait to be removed.
-- RemoveFlawTwice theFlaw'sTraitvalue,withStorytellerapproval.
-
-## Laws of the Hhunt
+Once a character earns Experience Traits, the se Traitsmay be spent to purchasenew Traitsor tomproveexistingones.Different Attributes Abilities and Numinaehave different Experience Traitcostsforimprovement, asshown inthefollowingtable: - ·New Attribute Trait—One Experience Trait. - ·New Ability Trait-One Experience Trait. - New Humanity Trait-Two Experience Traits. - New Influence Trait Three Experience Traits, exceptforgovernment agents, who needspendonly oneper Influence Trait. - ·New will power Trait—Three Experience Traits. - ·New Numina-Three Experience Traitsfor Basic Numinae, sixfor Intermediate Numinae and ninefor Advanced Numinae.True Faith maynot be improvedwith Experience Traits, except by Inquisitors. - New Sorcery Ritual Two Experience Traitsfora Basicritual, four for an Intermediateritual and sixforan Advancedritual.(A sorcerer automatically gainsoneritualof the appropriatetype atnocostforeachlevelof Sorcerylearned.)
+- Purchase Merit Twicethe Merit‘s Traitcost, with Storytellerapproval. - Remove Negative Trait —Two Experience Traits per trait to be removed. - Remove Flaw Twice the Flaw's Traitvalue, with Storytellerapproval. ## Laws of the Hhunt
 
 ## TRAITLIMITS
 
-Hunters are only human,and humans have their limits.Although hunters improvewithexperience,there aremaximum limits towhich anyhuntermayaspire. As aresult,thefollowing table shows themaximum number of Traits a hunter may possessinanygivencategory.Forinstance,anormalmortal huntermaynotpossess more than eight Traits in any given Attribute category;thus,you cannot buy additional PhysicalTraitswhenyouhave eightPhysicalTraits,thoughyoumight still beable toimproveyourMental Traits.
+Hunters are only human, and humans have the ir limits.Although hunters improvewithexperience, the re are maximum limits towhich anyhuntermayaspire. As are sult, the following table shows the maximum number of Traits a hunter may possessinanygivencategory.for instance, anormalmortal huntermaynotpossess more than eight Traits in any given Attribute category;thus, you can not buy additional Physical Traitswhenyouhave eight Physical Traits, thoughyoumight still beable toimproveyour Mental Traits. Somehuntersmanageto expand the ir limits beyondnormal human capabilities, ifonly slightly.Anypartially Awakened hunterhas a highermaximum for Attribute Traits, asindicated.Partially Awakenedhuntersincludeghouls, kinain, Kinfolkand any hunterwith an Intermediate level of any Numina. ## MORTALTRAITLIMITS
 
-Somehuntersmanageto expand their limits beyondnormal human capabilities, ifonly slightly.AnypartiallyAwakened hunterhas a highermaximum forAttribute Traits,asindicated.PartiallyAwakenedhuntersincludeghouls,kinain,Kinfolkand any hunterwith an Intermediate level of anyNumina.
-
-## MORTALTRAITLIMITS
-
-Trait Category AttributeTraits WillpowerTraits Humanity Traits FaithTraits InfluenceTraits
+Trait Category Attribute Traits will power Traits Humanity Traits Faith Traits Influence Traits
 
 ## Character Creation
 
 Maximum Traits
 
-8(9forpartiallyAwakenedmortals)
+8(9forpartially Awakenedmortals)
 
-TotalofPhysical,Social,andMental Traits
+Totalof Physical, Social, and Mental Traits
 
-<!-- image -->
+Whilethedenizens of the supernaturalworld possess the irown specialmagical abilitiesmostmortalslackanysortofsupernaturaltalent.how everarareewmortal develop the ir own unusual abilities, called Numinae".Numinae are the secret weapons of manyhunters and the bane of a hunted creature's existence.With a tenuousconnectiontothesupernatural, a huntermaycallonhis owndistinctly human powers togain an edge inbattling the paranormal. the re are three types of Numinae: True Faith, Psychic Phenomena and Sorcery. Numinae are rare among mortals, and the yareevenmore soamongothersupernatural creatures.Psychic powers, for instance, stem from the intrinsic connection of humanitywithlifeandassuchheydonotoccurnparanormalcreaturesimilarly the specialpowersoftheothersupernaturalracesstemfromtheirspecificnatures, so the specialgiftsofmortal Numinaearegenerallybarredtothem.of course, supernaturalcreaturescandeveloptheirownsimilarpowers;vampireswith Auspex, for instance, can emulate many of the abilities of a telepathichuman.how ever, Numinae in general are powered by the fundamental nature of the human wielder, and are exceedingly rare outside of mortal society. Developing Numinae is a difficult and frustrating task.Few people have the will and the innate talent toadvance the irunique abilities.Onlyconstant practiceand the pursuit of rareedificationcanpromotethedevelopmentof Numinae.Indeed, the buildingblocksof Numinae are the verylifestylesof the practitioners;onecannot exhibit Faithwithoutservingasalivingexampleofspiritualdevotionnorcanmagical or psychicpowersimprovewithout a dedicatedsearchfor the irunderlyinghidden processes. Laws of the Hunt
 
-Whilethedenizens of thesupernaturalworld possess theirown specialmagical abilitiesmostmortalslackanysortofsupernaturaltalent.Howeverarareewmortal develop their own unusual abilities,calledNuminae".Numinae are the secret weapons of manyhunters and the bane of a hunted creature's existence.With a tenuousconnectiontothesupernatural,a huntermaycallonhis owndistinctly human powers togain an edge inbattling theparanormal.
+Peoplewith Numinaeusuallyhave only onetalent, and they focustheirefforts onitrather than diversifying.Storytellersmay evenrulethat thosewith one sort of Numina can not learn another sort.they may say that having True Faith precludes knowledgeof Psychic Phenomenaand Sorcery, for example.Certainly, the practice and dedicationrequiredtomasterevenonesortof Numina all but rulesouttherise of other equally study-intensive capabilities. ## TRUE FAITH
 
-There are three types of Numinae: True Faith,PsychicPhenomena and Sorcery. Numinae arerare among mortals,and theyareevenmore soamongothersupernatural creatures.Psychic powers,for instance,stem from the intrinsic connection of humanitywithlifeandassuchheydonotoccurnparanormalcreaturesimilarly thespecialpowersoftheothersupernaturalracesstemfromtheirspecificnatures,so thespecialgiftsofmortalNuminaearegenerallybarredtothem.Ofcourse,supernaturalcreaturescandeveloptheirownsimilarpowers;vampireswithAuspex,forinstance, can emulate many of the abilities of a telepathichuman.However,Numinae in general are powered by the fundamental nature ofthe human wielder,and are exceedingly rare outside ofmortal society.
+True Faithisbeliefin apower, entity, consciousness-or sometimes evena purposethat is greater than one's self.True Faith is not limited to any particular religion; anyone of anybelief can have it.This sort of deep-seated faith is extremely rare, and it is not necessarily limited to mortals, though it is evenmore infrequent amongvampires and other supernatural entities. Only people of unquestionable characterthe trulycompassionate, caring, selflessand courageousevenhavea chance of exhibiting True Faith. True Faithmustbepurchased asa Merit, which givesa startingcharacter one Faith Trait.Faithisapowerfultoolforahunter, sinceithasmanypracticalusesagainst the supernatural. True Faith gives the wielder the power to accomplishmiracles.lt is based on a strongbeliefin a specificdeity or religion onwhom the charactermay call to strengthenhiswill.It is not the characterwho is turningevil away, it is hisforce of belief.Thus, the miraculouspowersof Faithbest serve the idealsof the individuals
 
-Developing Numinae isa difficult and frustrating task.Few people have the will and the innate talent toadvance theirunique abilities.Onlyconstant practiceand the pursuit ofrareedificationcanpromotethedevelopmentofNuminae.Indeed,the buildingblocksofNuminae aretheverylifestylesof thepractitioners;onecannot exhibitFaithwithoutservingasalivingexampleofspiritualdevotionnorcanmagical orpsychicpowersimprovewithout a dedicatedsearchfor theirunderlyinghidden processes.
+## were WOLVES:TRUEFAITH IN GAIA
 
-Laws of the Hunt
+It is possibleforacharacter, most likelya Garou Kinfolk, topossess True Faithin Gaia.Such Faith functions asdescribednormally;the powers of Faith do not alwaysdepend ontheformsof Faith.how ever, acharacterblessedwith this type of Faith do es have a couple of additional advantages. First, the charactermay usethe Pacifypowerof True Faithwithonly one Trait of Faith, but only on Garou. Gaia brings peacebetween herpeoples. Secondly, the charactermay expend Faith Traits torestore Gnosis Traits to any characterwith Gnosis.If the characterisnotrestoring her own Gnosis, she mustmake a Static Challenge pittingher Faith versus the target's Will power.Success expends a Trait of Faith and restores a Trait of Gnosis;failure expendsthe Faith Traitwithout any effect. Sowhydoesn'tevery Garou have True Faithin Gaia Tosomedegree, the ydo. Gaiaisthesourceof Garou Gnosisandspirituality.how ever, acharacterwith True Faithhasgoneaboveandbeyond the normal connectionto Gaia.Such acharacter livesthevery precepts of life and compassion espoused by Gaia—not aneasy thing for acreatureof Rage.Garouwiththissortof True Faitharefewandfarbetween, simply because the nature of the irquest—which callsforkilling and destruction—simply do esnotmeshwiththeholisticpeaceof Gaianomatterhowwellintentionedits. AStorytellermaychoose tobarany Garou from True Faithin Gaiaif the Garou possessesmore than twoor three Rage Traitsruling that the were wolf is simplytoo bestial and warliketocompletely embrace Gaia'speace and bounty. <a id="vbn:clan:toreador:toreador:a2e31350"></a>
 
-PeoplewithNuminaeusuallyhave only onetalent,andtheyfocustheirefforts onitrather than diversifying.Storytellersmay evenrulethat thosewith one sort of Numina cannot learn another sort.They may say that havingTrueFaith precludes knowledgeofPsychicPhenomenaandSorcery,forexample.Certainly,thepractice anddedicationrequiredtomasterevenonesortofNumina allbutrulesouttherise of other equally study-intensive capabilities.
+## D beliefs, insteadofpersonal motivations.Where beliefintersects with need, the possessor of True Faith exhibitsthefull power of religiousconviction. Most games will seelittle or no use.of Faith.Anaverage mortal is lucky topossess one Trait in Faith;the considerably-above-averagemortal is extraordinary to possess three.AFaithoffive Traits indicatesa true saint.Anindividuals Faithisobviousinher mannerisms and bearingwithevenafewminutesofcasualconversation, asitisthe wellspringoftheherlifestyle.Veryfewpossesstheconvictiontothinkandact according totheprecepts of Faith at all times, soliving examples of True Faith are rare indeed. Peoplewhopossess True Faithdonot have tobesaccharineindemeanor;they must only practice the ir ethics.Mostinvolvekindness, fairness, helpfulness and a strong sense of right and wrong.Ingeneral, True Faith promotes astrong sense of community and selflessness.Still, it is not unheard of for bearers of Faith to also evidenceprejudice or evenruthlessdevotion to the ircause. ## STRENGTHENINGFAITH
 
-## TRUE FAITH
+Advancement in one's True Faith rating must be earned beforeit can be purchased, and Faith's effects (other than those stated below)are largely the Storytellersoption.Onlyconstantdedicationto, and sacrificefor, one'sbeliefsmerits advancementin Faith.Similarly, as Faithissostronglytiedtothesebeliefs, the power of Faith of tenfollowthepatternsof the believer-the miraclesof a Christianmay well bedifferentfromthoseof a Buddhistor Taoist.Ultimately, Faithisitsown end. One do esnotpursue Faithtogain the power of miracles, but rather gathers the se powers as a by-product of who lehearted devotion to the tenets of Faith. ## IMPROVING TRUE FAITH:BY the NUMBERS
 
-TrueFaithisbeliefin apower,entity,consciousness-or sometimes evena purposethat is greater than one's self.TrueFaith isnot limited to any particular religion; anyone of anybelief can have it.This sort of deep-seated faith is extremely rare,andit isnotnecessarily limited to mortals,though it is evenmore infrequent amongvampires and other supernatural entities. Only people of unquestionable characterthe trulycompassionate,caring,selflessand courageousevenhavea chance of exhibitingTrueFaith.
+Some Storytellersmayfindthetaskofconstantlymonitoringthe Faithful tobe onerous or burdensome;certainly, in a game of do zens of people, includingmultiplehunterswith True Faith, decidingwhen eachofthem improves in Faithcanbe a trying exercise. In suchcircumstances, the Storytellerisadvised tosimplykeep arunning tally of"Faith Improvement."In each session inwhicha given characterupholds the tenetsofhis Faith, awardone Faithlmprovement Trait.Oncetheaccumulated Faith Improvement Traits equal10 times the character's totalnumberofregular Faith Traitsremoveallofthemprovement Traitsandgrantanadditional Faith Trait.Conversely, if the character undertakes activitiesthatrun counter toher Faith, remove all of the Faith Improvement Traitsimmediately. Usinghissystemtsafairlysimlematterttrackhe Faithofcharacts, and toallowthemtoslowlyimprovetheir True Faith.Similarly, the Storyteller can varythemultipleinordertomakeiteasierormoredifficult toimprove Faith, though10 times the character's Faithrating is recommended for most longrunninggames.Justmake surethatallcharactersusethesamemultiplier, inthe interests of fairness).Additionally, using this systemmeansthatcharactersof great Faithtakelongertoimproveandhavelessroomforerror(sinceonemisstep sets the mbackat the beginning of the longroadof improvement).of course, Inquisitorswill findit easiertouse Experience Traits toimprove the ir Faith which is just fine for the se scions of the Church. ## REGAININGFAITH
 
-TrueFaithmustbepurchased asaMerit,whichgivesa startingcharacter one FaithTrait.Faithisapowerfultoolforahunter,sinceithasmanypracticalusesagainst the supernatural.
+Lostorspent Faith Traitsaredifficulttoregainbecausetheyaresomeaningful.he charactermustundergoaspiritualreligiousexperience, suchasparticipationinamass or a confession.the characterneedstoreaffirmthestrengthofhisspiritualcommitment.Simply going through the motions of ritual isn't enough；the character must plumb profound personal insightsinorder tostrengthenhis Faithonceagain.This introspectionisagood opportunityforroleplayingastheplayerexploresthedepthofthecharacter's Faith.Similarly, the Storyteller can rule that a deeplymoving experienceparticipating in a cathartic confessionandaffirmationsessionwithcolleagueswitessingtonewconvertsmeditating and praying intensely at a retreat —may bestow the strength of Faith once more. ## CRISIS of FAITH
 
-TrueFaith gives thewielder thepower to accomplishmiracles.lt isbased on a strongbeliefin a specificdeity orreligion onwhom thecharactermay call to strengthenhiswill.It isnot the characterwho is turningevil away,it is hisforce of belief.Thus,themiraculouspowersofFaithbest serve theidealsof theindividuals
+Anytime a character loses a challenge inwhich she uses True Faith, she is left with a question of Faith.She is do wn one Trait on all Social Challengesfor the remainderof the session, and shemaynotinvokeher Faithuntil the Storytellerrules that shehasresolvedthecrisis.Attheveryleast, the character should spendhalfan hourengaged inprayerinaplace of solitudeaway from the concernsof the mundane world （that is, out of play）.Similarly, experiences that reaffirm Faith （as not ed previously)may serve to renew the character's convictions. ## HOLY SIMBOLS
 
-## WEREWOLVES:TRUEFAITH IN GAIA
-
-It ispossibleforacharacter,most likelyaGarouKinfolk,topossessTrue Faithin Gaia.SuchFaith functions asdescribednormally;the powers ofFaith donotalwaysdepend ontheformsofFaith.However,acharacterblessedwith this type of Faith does have a couple of additional advantages.
-
-First,thecharactermay usethePacifypowerofTrueFaithwithonly one Trait ofFaith,but only on Garou. Gaia brings peacebetween herpeoples.
-
-Secondly,thecharactermay expendFaithTraits torestore GnosisTraits to any characterwith Gnosis.If thecharacterisnotrestoring her own Gnosis, she mustmake aStatic Challenge pittingherFaith versus the target'sWill power.Success expends a Trait of Faith and restores a Trait of Gnosis;failure expendstheFaithTraitwithout any effect.
-
-Sowhydoesn'tevery Garou haveTrueFaithinGaiaTosomedegree,theydo. GaiaisthesourceofGarouGnosisandspirituality.However,acharacterwithTrue Faithhasgoneaboveandbeyond thenormal connectiontoGaia.Such acharacter livesthevery precepts of life andcompassion espoused byGaia—not aneasy thing foracreatureofRage.GarouwiththissortofTrueFaitharefewandfarbetween,simply because thenature of theirquest—whichcallsforkilling anddestruction—simply doesnotmeshwiththeholisticpeaceofGaianomatterhowwellintentionedits. AStorytellermaychoose tobaranyGarou fromTrueFaithinGaiaif theGarou possessesmore thantwoor threeRageTraitsruling that thewerewolf issimplytoo bestial andwarliketocompletely embraceGaia'speace and bounty.
-
-<a id="vbn:clan:toreador:toreador:a2e31350"></a>
-## D
-
-beliefs,insteadofpersonal motivations.Where beliefintersects with need,the possessor of TrueFaith exhibitsthefull power of religiousconviction.
-
-Most games will seelittle or no use.ofFaith.Anaverage mortal is lucky topossess oneTrait inFaith;the considerably-above-averagemortal is extraordinary to possess three.AFaithoffiveTraits indicatesa true saint.AnindividualsFaithisobviousinher mannerisms andbearingwithevenafewminutesofcasualconversation,asitisthe wellspringoftheherlifestyle.Veryfewpossesstheconvictiontothinkandact according totheprecepts ofFaith at all times,soliving examples ofTrueFaith arerare indeed.
-
-PeoplewhopossessTrueFaithdonot havetobesaccharineindemeanor;they must only practice their ethics.Mostinvolvekindness,fairness,helpfulness and a strong sense ofright andwrong.Ingeneral,TrueFaith promotes astrong sense of community and selflessness.Still,it isnot unheard of for bearers ofFaith to also evidenceprejudice orevenruthlessdevotion to theircause.
-
-## STRENGTHENINGFAITH
-
-Advancement in one'sTrue Faith rating must be earned beforeit can be purchased, and Faith's effects (other than those stated below)are largely the Storytellersoption.Onlyconstantdedicationto,andsacrificefor,one'sbeliefsmerits advancementinFaith.Similarly,asFaithissostronglytiedtothesebeliefs,thepower ofFaith oftenfollowthepatternsof thebeliever-themiraclesof aChristianmay well bedifferentfromthoseof aBuddhistorTaoist.Ultimately,Faithisitsown end. One doesnotpursueFaithtogain thepower ofmiracles,butrather gathers these powers as a by-product of wholehearted devotion to the tenets of Faith.
-
-## IMPROVING TRUE FAITH:BY THENUMBERS
-
-SomeStorytellersmayfindthetaskofconstantlymonitoringtheFaithful tobe onerous or burdensome;certainly,in a game of dozens of people, includingmultiplehunterswith TrueFaith,decidingwhen eachofthem improves inFaithcanbe a trying exercise.
-
-In suchcircumstances,theStorytellerisadvised tosimplykeep arunning tally of"Faith Improvement."In each session inwhicha given characterupholds thetenetsofhisFaith,awardoneFaithlmprovementTrait.Oncetheaccumulated FaithImprovementTraits equal10 times thecharacter's totalnumberofregular FaithTraitsremoveallofthemprovementTraitsandgrantanadditionalFaith Trait.Conversely,if the character undertakes activitiesthatrun counter toher Faith,remove all of theFaithImprovementTraitsimmediately.
-
-UsinghissystemtsafairlysimlematterttrackheFaithofcharacts, andtoallowthemtoslowlyimprovetheirTrueFaith.Similarly,theStoryteller canvarythemultipleinordertomakeiteasierormoredifficult toimproveFaith, though10 times the character's Faithrating isrecommended formost longrunninggames.Justmake surethatallcharactersusethesamemultiplier,inthe interests of fairness).Additionally,using thissystemmeansthatcharactersof greatFaithtakelongertoimproveandhavelessroomforerror(sinceonemisstep sets thembackat thebeginning of thelongroadof improvement).Ofcourse, Inquisitorswill findit easiertouseExperienceTraits toimprove theirFaith which is just fine for these scions of the Church.
-
-## REGAININGFAITH
-
-LostorspentFaithTraitsaredifficulttoregainbecausetheyaresomeaningful.he charactermustundergoaspiritualreligiousexperience,suchasparticipationinamass ora confession.Thecharacterneedstoreaffirmthestrengthofhisspiritualcommitment.Simply going through the motions ofritual isn't enough；the character must plumb profound personal insightsinorder tostrengthenhisFaithonceagain.This introspectionisagood opportunityforroleplayingastheplayerexploresthedepthofthecharacter'sFaith.Similarly, theStoryteller can rule that a deeplymoving experienceparticipating in a cathartic confessionandaffirmationsessionwithcolleagueswitessingtonewconvertsmeditating and praying intensely at a retreat —may bestow the strength of Faith once more.
-
-## CRISIS OFFAITH
-
-Anytime a character loses a challenge inwhich she usesTrueFaith,she is left with a question ofFaith.She is down oneTrait on all Social Challengesfor the remainderof thesession,andshemaynotinvokeherFaithuntil theStorytellerrules thatshehasresolvedthecrisis.Attheveryleast,thecharacter shouldspendhalfan hourengaged inprayerinaplace of solitudeaway from theconcernsof themundane world （that is,out ofplay）.Similarly,experiences that reaffirm Faith （as noted previously)may serve to renew the character's convictions.
-
-## HOLY SIMBOLS
-
-A holy symbol is an object used torepresent theinfluence of the deity invoked by thosewithTrueFaith.MostwieldersofTrueFaithchannelthatFaiththroughtheir holysymbols,byraisingthemuptowardoffevil,orholdingtheminprayer.Crucifixes aremostcommonlyassociatedwithTrueFaithbutthefaithfulofotherreligionsmay useprayerwheelsandalastatuttesorothrconicrappingThefaithsymboli by an object empowersthe holder.
-
-WhenwieldedbysomeonewithTrueFaith,aholysymboloftheappropriate religiongrants additionalTraitsandsome defensive capabilities.Thewieldermust callout"Inthenameof （or a similarly appropriate paean of faith)when channelinghisFaiththrougha symbol.Thebearer oftheholy symbolgainsthe additional Social TraitIntimidatingwhenusinga holy symbol torepel theundeador ward againstothersupernaturaleffects.TheholysymbolalsogainsthePhysicalTraits Burning andSearing,and inflicts a level ofaggravateddamage if used tophysically strikeasupernaturalcreature.Furthermorewhenblessedbyapriestoftheappropriate faith(whomustexpendaHumanityTrait toempower theblesing),the holy symbol gainstheadditionalPhysicalTraitofBidingBrandingCleansingPugingorPurifying
+A holy symbol is an object used torepresent the influence of the deity invoked by thosewith True Faith.Mostwieldersof True Faithchannelthat Faiththroughtheir holysymbols, byraisingthemuptowardoffevil, or holdingtheminprayer.Crucifixes are mostcommonlyassociatedwith True Faithbutthefaithfulofotherreligionsmay useprayerwheelsandalastatuttesorothrconicrapping the faithsymboli by an object empowersthe holder. when wieldedbysomeonewith True Faith, aholysymboloftheappropriate religiongrants additional Traitsandsome defensive capabilities.the wieldermust callout"Inthenameof （or a similarly appropriate paean of faith)when channelinghis Faiththrougha symbol.the bearer of the holy symbolgainsthe additional Social Trait Intimidatingwhenusinga holy symbol torepel the undeador ward againstothersupernaturaleffects.the holysymbolalsogainsthe Physical Traits Burning and Searing, and inflicts a level of aggravateddamage if used tophysically strikeasupernaturalcreature.Furthermorewhenblessedbyapriestoftheappropriate faith(who mustexpenda Humanity Trait toempower the blesing), the holy symbol gainstheadditional Physical Traitof Biding Branding Cleansing Pugingor Purifying
 
 ## RELICS
 
-Relicsarepiecesof saints'bodies orbelongingsthathavesomehowbeen preserved and imbuedwithholyenergyoverthecenturies.Truerelicsasopposed tofraudspassed offbycon-men,arerare,thoughevenafakereliccangainpowerifenoughpeoplebelieve in its sanctity.Indeed,although there are enough"splinters of theTrue Cross"tomake upa small forest,oneclergymannoted that this abundanceisyet anothermiracle!
+Relicsarepiecesof saints'bodies or belongingsthathavesomehowbeen preserved and imbuedwithholyenergyoverthecenturies.Truerelicsasopposed tofraudspassed of fbycon-men, are rare, thoughevenafakereliccangainpowerifenoughpeoplebelieve in its sanctity.Indeed, although the re are enough"splinters of the True Cross"tomake upa small for est, oneclergymannoted that this abundanceisyet anothermiracle! Relicscanbeaslargeasanaltarorassmallasasplinterofbone;how ever, physical sizeis nomeasure of the relic's truepower.Any container that housesarelic is known as are liquary.Reliquaries are designed toprotect the ircontents, thoughthey of ten have decorative for ms aswell asfunctionaldesigns.Mostrelics are toofragile tobe
 
-Relicscanbeaslargeasanaltarorassmallasasplinterofbone;however,physical sizeis nomeasure of therelic's truepower.Any container thathousesarelic is known as areliquary.Reliquaries aredesigned toprotect theircontents,thoughthey often havedecorative forms aswell asfunctionaldesigns.Mostrelics are toofragile tobe
+Laws of the Hunt
 
-Laws of theHunt
+## Numinae and Powers moved and the refore are rendered useless to most hunters.Relics may, how ever, possess asmanyholy Traitsas the Storytellerwishesto suitthe story.A sliver from the True Crosswouldprobablywieldamaximumoffive Traitswhile Saint Aloysius Gonzaga'salmsbowlmight only possessone or two.Asupernaturalentity touched by a relicmay suffer onelevelof aggravateddamageforeach holy Traitpossessed bythe relicinquestion, althoughthe Storytellermayrulecaseswhere a particularrelicdoes not affectcertainindividuals.Due to the amountof damage that are liccaninflict, it is recommended that norelic in playpossessmore than three Traits.A relic's holy Traits are neverlost, unless the relicitself is somehowdefiledor damaged. At the Storyteller's discretion, certainrelicsmight possessmiraculous powers in addition to the irnaturalholiness.the serelics should have a special card indicating the abilities available toauserwith the appropriate True Faith.Ingeneral, using such rare abilitiescallsonthe Faithof the wielder, but grantsspecialbenefitsbeyond the reach of "normal"miracles.Truly potent relics possess powers that always function. A sipfrom the Holy Grailmightcure all illsfor anyone, while St.Vitusheel could grantthe additional Physical Traits Nimbleand Gracefultosomeonewhoexpendsa Trait of Faith (since St.Vitus was the patron of epileptics and of dance). ## HOLYGROUND
 
-## Numinae and Powers
-
-moved and therefore are rendered useless to most hunters.Relics may,however, possess asmanyholyTraitsas theStorytellerwishesto suitthe story.A sliver from the True CrosswouldprobablywieldamaximumoffiveTraitswhileSaintAloysius Gonzaga'salmsbowlmight only possessone ortwo.Asupernaturalentity touched by a relicmay suffer onelevelof aggravateddamageforeach holyTraitpossessed bythe relicinquestion,althoughtheStorytellermayrulecaseswhere a particularrelicdoes not affectcertainindividuals.Due to the amountof damage thatareliccaninflict,it isrecommended that norelic in playpossessmore than threeTraits.A relic's holy Traits areneverlost,unless therelicitself issomehowdefiledor damaged.
-
-At theStoryteller's discretion,certainrelicsmight possessmiraculous powers in addition to theirnaturalholiness.Theserelics should have a special card indicating the abilities available toauserwith theappropriateTrueFaith.Ingeneral,using such rare abilitiescallsontheFaithof thewielder,butgrantsspecialbenefitsbeyond the reach of "normal"miracles.Truly potent relics possess powers that always function. A sipfrom theHolyGrailmightcure all illsfor anyone,whileSt.Vitusheel could grantthe additionalPhysicalTraitsNimbleand Gracefultosomeonewhoexpendsa Trait of Faith (since St.Vitus was the patron of epileptics and of dance).
-
-## HOLYGROUND
-
-Holy Ground is a place of sanctity where the faithful congregate and perform the ritualsoftheirreligion.AStorytellermayestablishcertain areaswithinthechronicle's setting asHoly Ground.Theselocations carry their ownFaith,and theybolster the Faithofothersthroughthelongdedicationofthedevoted.Ultimately,theFaithitself ismoremportantthanitsoutwardformsmysterioussecludedlocationswheremany faithfulgather oftenwill possessamorepowerfulFaiththanimpressive,exorbitant locales that cater to marginally devoted laypersons.
-
-BeingpresentonHolyGroundwillallowacharacterwhoalreadyhasTrueFaith toboost herownFaithbythesite'sFaithrating.Acathedralattendedbyhypocrites mayhavenoFaithatall,whileahillbyadeepondwhereadedicated congregation hasmettwiceaweekforthelast30yearsmayhaveaFaithoftwoorthree.Sitesof great devotionlike theVatican couldpossessfiveor even sixFaithTraits.When a person withTrueFaithstandsonsuchHolyGround,sheaddsthesitesFaithTraitstoherown total,allowing forgreater miracles.
-
-Holy Ground isnot something that should be common or created as an emergencyescape.It should beestablishedatthebeginningof thegamefor thosewho would knowof itsexistence and left anonymousfor thosewho wouldnot.As Holy Groundrarelysurfacesnpublic,visiblelocationsitmaytakesomeefforttodiscover a siteof truereverence.However,Holy Ground isnot limited toChristiansites;such placesmightalnclacredgovesagoguesosqusr tsfilgrimag (such asCanterbury or Jerusalem).
-
-WhenasitesactivatedbyapossessorofTrueFaithnovampiremaytravelacross thesite(unlessinvited in)without spendingMental Traits equal to the site'sFaith rating,ora singleWillpowerTrait.Even then,thelocationsFaithTraitsaddto the totalforthefaithful whenwardingoffanysortofsupernaturalcreature.IfauserofTrue Faith successfullywards against a paranormal entitywhileonHoly Groundof the appropriate religion,the creature must immediately leave the siteonly the expenditureofaWillpowerTrait allowsthecharacter toremain,travelingupto50 feet or staying for 10minutes(whichever comesfirst).
-
-<!-- image -->
-
-## USES OF FAITH
+Holy Ground is a place of sanctity where the faithful congregate and perform the ritualsoftheirreligion.AStorytellermayestablishcertain are aswithinthechronicle's setting as Holy Ground.the selocations carry the ir own Faith, and the ybolster the Faithofothersthroughthelongdedicationofthedevoted.Ultimately, the Faithitself is moremportantthanitsoutwardformsmysterioussecludedlocationswheremany faithfulgather of tenwill possessamorepowerful Faiththanimpressive, exorbitant locales that cater to marginally devoted laypersons. Beingpresenton Holy Groundwillallowacharacterwhoalreadyhas True Faith toboost herown Faithbythesite's Faithrating.Acathedralattendedbyhypocrites mayhaveno Faithatall, whileahillbyadeepondwhereadedicated congregation has mettwiceaweekforthelast30yearsmayhavea Faithoftwoorthree.Sitesof great devotionlike the Vatican could possessfiveor even six Faith Traits.When a person with True Faithstandsonsuch Holy Ground, sheaddsthesites Faith Traitstoherown total, all owing for greater miracles. Holy Ground is not something that should be common or created as an emergencyescape.It should beestablishedatthebeginningof the gamefor thosewho would knowof itsexistence and left anonymousfor thosewho would not.As Holy Groundrarelysurfacesnpublic, visiblelocationsitmaytakesomeefforttodiscover a siteof truereverence.how ever, Holy Ground is not limited to Christiansites;such placesmightalnclacredgovesagoguesosqusr tsfilgrimag (such as can terbury or Jerusalem). when asitesactivatedbyapossessorof True Faithnovampiremaytravelacross the site(unlessinvited in)with out spending Mental Traits equal to the site's Faith rating, or a single will power Trait.Even the n, the locations Faith Traitsaddto the totalforthefaithful when wardingoffanysortofsupernaturalcreature.Ifauserof True Faith successfullywards against a paranormal entitywhileon Holy Groundof the appropriate religion, the creature must immediately leave the siteonly the expenditureofa will power Trait all owsthecharacter toremain, travelingupto50 feet or staying for 10minutes(which ever comesfirst). ## USES OF FAITH
 
 ## ONETRAITOFFAITH
 
-## RegainingWillpower
+## Regaining will power for everyhourofmeditationandprayer that you sit alonecommunicatingwith no one, you eithergainoneadditionaltemporary will power Traitwhichlasts12 hours, or you regainone will power Traitpreviously lost. Amortalpossessingthree Traitsof Faithwould berequired tospend threehours inmeditation, prayerorreflectioninordertore-acquirethree will power Traits. Conversely, amortalpossessingoneraitof Faithwouldonlybeabletoconcentrate for onehourbecauseofthelimittohispracticeandhisdedication, sohecouldacquire or restore only one will power Trait in any given 24 hour period. In the case of alonggame(onelastingoverconsecutive nights or are gularchronicle game), the semeditationhoursmay takeplace during the day or when the game is not in session, aslongasthe24-hourtimelimitisobserved.Inashortfour-tosix-hourgame, the Storytellermayfeelfreetoshortenthemeditationperiodsrequiredaslongasshekeepn mindthat will power Traitsarenoteasilyregainedandshouldnotbetossedaroundcarelessly. ## Repel Vampires
 
-Foreveryhourofmeditationandprayer thatyou sit alonecommunicatingwith no one,youeithergainoneadditionaltemporaryWillpowerTraitwhichlasts12 hours,oryouregainoneWillpowerTraitpreviously lost.
-
-AmortalpossessingthreeTraitsofFaithwould berequired tospend threehours inmeditation,prayerorreflectioninordertore-acquirethreeWillpowerTraits. Conversely,amortalpossessingoneraitofFaithwouldonlybeabletoconcentrate foronehourbecauseofthelimittohispracticeandhisdedication,sohecouldacquire or restore only oneWillpowerTrait in any given 24 hour period.
-
-In thecase ofalonggame(onelastingoverconsecutive nights oraregularchronicle game),thesemeditationhoursmay takeplace during the day orwhen the game isnot in session,aslongasthe24-hourtimelimitisobserved.Inashortfour-tosix-hourgame,the Storytellermayfeelfreetoshortenthemeditationperiodsrequiredaslongasshekeepn mindthatWillpowerTraitsarenoteasilyregainedandshouldnotbetossedaroundcarelessly.
-
-## Repel Vampires
-
-By brandishingaholy symbol,speaking the phrase"In the nameof "andengaging ina Social Challenge,youmaydriveoffvampires.Ifyouwinthechallenge,thevampire mustfleethescene.Evenifyoulose,thevampiremustbackoffafewfeetandcowerbefore taking action.Thevampire may not initiate any actionswhether using Traits or activatingDisciplines-—fortheentireturn aftertheuseof Faith(althoughshemaydefend normally).Avampire may only resist this use ofFaithby attempting to overbid with Willpower;if thevampirepossessestwiceasmanyillpowerTraitsasyou,then she remains unaffected.Of course,all vampires attempting to overbid likethismust declare theirWillpower Traits first,beforeyou,andthosewho fail automaticallylosethe challenge,fleeingthescene andlosingtheWillpowerTraitsrisked.
-
-You may engage in as many simultaneous Social Challenges as you have Faith Traits,if there ismore thanonecreaturetoberepelled.In thiscase,youmake one challenge against all of thetargetedcharacters;theoutcomeisdeterminedasdescribed previously.Forexample,ifahunterwithtwoFaithTraitsengagestwovampires and attempts torepel them,shemakesa singletest againstbothvampires.If thehunter throwsScissorswhile one vampire throwsRock and the otherPaper,then thefirst vampirewouldrecoil,stunned,whilethesecondvampirewouldfleethescene.
-
-Infernalistsandservantsofdemonicevilsufferevenworse fromTrueFaith.Suchagents ofdarkpowersautomaticallyfeeregardlessoftheresultsoftheocialhallengeOfcoue, there isnowaytodistinguishsuchresultsfromthenormal flightof othercreatures.
-
-Creatures who are able to remain in the presence of the mortal may use Disciplines,Giftsorrangedweapons againstherif they desire.fcourse,theyrisk further uses ofFaith from thedangeroushunter.
-
-## SubstituteforWillpower
-
-Willpower and Faith are complimentary energies in a character's personality. Will power isabelief inyourown capabilitieswhileFaithisreliance onapowergreater than yourself.AFaithTraitmay substituteforaWillpowerTraitinanycircumstanceforwhich Willpoweriscalled.Ofcourse,thereversedoesnotoldWillpowerisinsufficienttopower Faith.FurthermorethissubstitutionsonlypossiblewhenyouareoutofWillpowerTraits.
-
-<!-- image -->
-
-## TWOTRAITSOFFAITH
+By brandishingaholy symbol, speaking the phrase"In the nameof "and engaging ina Social Challenge, you maydriveoffvampires.Ifyouwinthechallenge, the vampire mustfleethescene.Evenifyoulose, the vampiremustbackoffafewfeetandcowerbefore taking action.the vampire may not initiate any actionswhether using Traits or activating Disciplines-—for the entireturn aftertheuseof Faith(althoughshemaydefend normally).Avampire may only resist this use of Faithby attempting to overbid with will power;if the vampirepossessestwiceasmanyillpower Traitsasyou, the n she remains unaffected.Of course, all vampires attempting to overbid likethismust declare the ir will power Traits first, beforeyou, and thosewho fail automaticallylosethe challenge, fleeingthescene and losingthe will power Traitsrisked. You may engage in as many simultaneous Social Challenges as you have Faith Traits, if the re is more than onecreaturetoberepelled.In this case, you make one challenge against all of the targetedcharacters;the outcomeisdeterminedasdescribed previously.for example, ifahunterwithtwo Faith Traitsengagestwovampires and attempts torepel the m, shemakesa singletest againstbothvampires.If the hunter throws Scissorswhile one vampire throws Rock and the other Paper, the n the first vampirewouldrecoil, stunned, whilethesecondvampirewouldfleethescene. Infernalistsandservantsofdemonicevilsufferevenworse from True Faith.Suchagents of darkpowersautomaticallyfeeregardlessoftheresultsoftheocialhallenge of coue, the re is nowaytodistinguishsuchresultsfromthenormal flightof othercreatures. Creatures who are able to remain in the presence of the mortal may use Disciplines, Giftsorrangedweapons againstherif they desire.fcourse, the yrisk further uses of Faith from the dangeroushunter. ## Substitutefor will power will power and Faith are complimentary energies in a character's personality. Will power is abelief inyourown capabilitieswhile Faithisreliance onapowergreater than you rself.AFaith Traitmay substitutefora will power Traitinanycircumstanceforwhich will poweriscalled.of course, the reversedoesnotold will powerisinsufficienttopower Faith.Furthermorethissubstitutionsonlypossiblewhenyouareoutof will power Traits. ## TWOTRAITSOFFAITH
 
 ## Holy Resistance
 
-With sufficientFaith,you aredefended byHeaven against the powers of the supernatural.ByexpendingoneTraitofFaith,youarerenderedimmunetothemind influencingpowers ofvariouscreatures.ThevampiricDiscipline of Dominatesimply doesnotaffctyouorwouldthewraithcanosofPupetry.Howeveryoucanstill be affected by powers that influence emotions;you have no specialresistance to Presence.Youonly resist powers that directly attempt tocontrol you in thisfashion. Thisresistancelastsforthedurationof thescene,anditsonlyeffectiveagainstthe power that it isspecificallyused todefend againstyoucannot simplyexpendaFaith Traitanddeclareimmunity toDominate;youmust spend theTraitaftera vampireuses theDominate Disciplineonyou,at whichpoint you arerendered immune to that particularvampire'suseofDominatefortherestof thescene.
+With sufficient Faith, you are defended by Heaven against the powers of the supernatural.Byexpendingone Traitof Faith, you are renderedimmunetothemind influencingpowers of variouscreatures.the vampiric Discipline of do minatesimply do esnotaffctyouorwouldthewraithcanosof Pupetry.how everyoucanstill be affected by powers that influence emotions;you have no specialresistance to Presence.you only resist powers that directly attempt tocontrol you in this fashion. this resistancelastsforthedurationof the scene, and itsonlyeffectiveagainstthe power that it is specificallyused todefend againstyoucannot simplyexpenda Faith Traitanddeclareimmunity to do minate;you must spend the Traitaftera vampireuses the do minate Disciplineonyou, at which point you are rendered immune to that particularvampire'suseof do minatefortherestof the scene. ## Faith Healing
 
-## Faith Healing
-
-By spendingaTraitofFaith,youmayhealoneHealthLevelofdamagetoaperson that you find worthy of saving.You must engage in a Simple Test in order to successfully heal thetarget;failure indicates that thetargetisnot healed and theFaith Trait is expended,while success or a tie heals the subject.
-
-## THREETRAITS OFFAITH
+By spendinga Traitof Faith, you mayhealone Health Levelofdamagetoaperson that you find worthy of saving.You must engage in a Simple Test in or der to successfully heal the target;failure indicates that the targetisnot healed and the Faith Trait is expended, while success or a tie heals the subject. ## THREETRAITS of FAITH
 
 Pacify
 
-ByspendingaTraitofFaithandenteringintoaSocialChallengeyoumayqull theBeastwithinasupernaturalcreature.Doingsowill bringa vampireorwerewolf out ofaFrenzy,orcalmacreaturewhois agitated.IfacharacterwithTrueFaithusesthis poweronawerewolfwhoisnotinFrenzy,thenthewerewolf cannot spendanyRage Traitsfor theremainder of the scene.
+Byspendinga Traitof Faithandenteringintoa Social Challengeyoumayqull the Beastwithinasupernaturalcreature.do ingsowill bringa vampireorwerewolf out of a Frenzy, or calmacreaturewhois agitated.Ifacharacterwith True Faithusesthis poweronawerewolfwhoisnotin Frenzy, the nthewerewolf can not spendany Rage Traitsfor the remainder of the scene. ## FOUR TRAITS of FAITH
 
-## FOUR TRAITS OFFAITH
-
-## Holy Invulnerability
-
-YourpowerofFaithissostrongthatyouarecompletelyimmunetothemental influencesofanyof thesupernatural,aslongasyoucallonthedivineforprotection.By expendingaFaithTrait,youarerenderedcompletelyimmune toanyuseofamindor emotioninfluencingpowerfor theremainderof thescene.Thus,ifavampire usesthe PresenceDisciplineonyou,youneed onlyspendaFaithTrait toberendered immune to all of thatvampire'suses ofPresencefor therest of the scene.This invulnerability is fullyeffectiveagainstpowersthatmanipulateemotionsinadditiontodirectmind controllingpowers;thusyouhaveadefenseagainstthewraithArcanos ofKeeningin additiontoPuppetry,andyoucandefend againstvampiricPresenceaswellasDominate.
-
-## FIVETRAITSOFFAITH
+## Holy Invulnerability you rpowerof Faithissostrongthatyouarecompletelyimmunetothemental influencesofanyof the supernatural, aslongasyoucallonthedivineforprotection.By expendinga Faith Trait, you are renderedcompletelyimmune toanyuseofamindor emotioninfluencingpowerfor the remainderof the scene.Thus, ifavampire usesthe Presence Disciplineonyou, you need onlyspenda Faith Trait toberendered immune to all of that vampire'suses of Presencefor the rest of the scene.This invulnerability is fullyeffectiveagainstpowersthatmanipulateemotionsinadditiontodirectmind controllingpowers;thusyouhaveadefenseagainstthewraith Arcanos of Keeningin additionto Puppetry, and you can defend againstvampiric Presenceaswellas do minate. ## FIVETRAITSOFFAITH
 
 ## Blessing
 
-TocreataleseditmyoumustspendFaitTraitandpendalfanounrar with the item.Youmaybestowone of thefollowingBonusTraitsto theitem:Burming, SearingdngdigPunglansganPuiingnjureargtcmbat, thewielderof theholyitemmaybiditsTraitinthePhysical Challenge.Ifhe succeedshe
+Tocreataleseditmyoumustspend Fait Traitandpendalfanounrar with the item.you maybestowone of the following Bonus Traitsto the item:Burming, Searingdngdig Punglansgan Puiingnjureargtcmbat, the wielderof the holyitemmaybidits Traitinthe Physical Challenge.Ifhe succeedshe you may leave lasting and potentblessings on objects or people.The most common useof this aspectof True Faithisin the creation of holy symbols or weapons. √
 
-Youmay leave lasting andpotentblessings on objects orpeople.The most common useof this aspectofTrueFaithisin the creation of holy symbols orweapons.
-
-√
-
-<!-- image -->
-
-<!-- image -->
-
-## Laws of the Hlunt
-
-deals oneHealthLevelofaggravateddamagetothe supernatural creature justbytouching theitemtoit.Ifhefails,theitem loses itsblessing.Biddinga normalPhysicalTraitmeans that theweapon is beingused as a normal weapon,and causesnormal damage.
-
-Blessing another person is a very ceremonial event,and theblessinggives that person one retest that may be used up in any single challenge.
-
-Usingablessed holy symbol inrepelling creatures adds theTrait of Intimidatingto thewielder'sSocial Challenge,so that all who trytoresistfleeingmustbidtwoTraits.
-
-Only oneblessing canbe conferredpersession,andit shouldnot be done casually.An item or person can only have one blessing on it at a time.
-
-## SIXTRAITSOFFAITH
+## Laws of the Hlunt deals one Health Levelofaggravateddamagetothe supernatural creature justbytouching the itemtoit.Ifhefails, the item loses itsblessing.Biddinga normal Physical Traitmeans that the weapon is beingused as a normal weapon, and causesnormal damage. Blessing another person is a very ceremonial event, and the blessinggives that person one retest that may be used up in any single challenge. Usingablessed holy symbol inrepelling creatures adds the Trait of Intimidatingto the wielder's Social Challenge, so that all who trytoresistfleeingmustbidtwo Traits. Only oneblessing can be conferredpersession, and it should not be do ne casually.An item or person can only have one blessing on it at a time. ## SIXTRAITSOFFAITH
 
 Miracle
 
-The strongest tool in the hands of the Faithful is the power of miracles. PerformingamiraclerequiresthepermanentexpenditureofaFaithTrait,andaStatic Social Challengeof difficulty determinedby aStoryteller orNarrator.A Narrator must bepresent for this applicationof TrueFaith.
+The strongest tool in the hands of the Faithful is the power of miracles. Performingamiraclerequiresthepermanentexpenditureofa Faith Trait, and a Static Social Challengeof difficulty determinedby a Storyteller or Narrator.A Narrator must bepresent for this applicationof True Faith. Nearly anythingwithintheframeworkofyourreligioncanbeaccomplished; curingAIDSnapersoncreating Holy Ground, changingsomeones Natureresisting asupernaturalpower, bringingavampireto Golconda, causingawraithtoachieve Transcendencegnoringasourceofdamageorleansingsomeoneof Wyrm-taintare all possibilities, dependingonthenatureofyour Faith. Suchmiracles are not performed lightly, and the ycanbeprofound experiences tothosewhowitnessthem. ## PSYCHICPHENOMENA
 
-Nearly anythingwithintheframeworkofyourreligioncanbeaccomplished; curingAIDSnapersoncreatingHolyGround,changingsomeonesNatureresisting asupernaturalpower,bringingavampiretoGolconda,causingawraithtoachieve TranscendencegnoringasourceofdamageorleansingsomeoneofWyrm-taintare allpossibilities,dependingonthenatureofyourFaith.
+Psychicabilities typicallydevelopinstinctivelyduring childhood and must somehowsurvivetheturmoil of adolescence.Mostfolkswhowishtodeveloptheir "sixth sense"in anywayhave to do so consciously, through constantpractice and insight.Inthe Worldof Darkness, fewpossesstheseexceptionalabilities.Ifacharacter is soluckysheprobablypossessesonlyonepsychicpower.nexplicableanduniqueo mortals, psychicpowers are a subconscious ability to effectthesurroundingworld simplythroughthought. Psychic abilities are separated into different Phenomena.Thoughit is possible to developmultiple are as of psychic aptitude with exceptional study and practice, most individuals are incapableof more than the mostrudimentarypsychicabilities and improvementinone are aof developmentcomes attheexpenseofothers, soa multi-disciplinarypsychicrarely achieveslevels of significant abilityin any are a. Psychicpowersmustbeselectedduringcharactercreation.Furthermoreimprove mentinpsychicabilitiescomesonlywiththe Storyteller'sapproval, sincethecharacter must have a great deal of practical experience, practice and confidence to develop. Developing psychic abilities is exhausting and frustrating.Trialanderrorforces thosewhopractice such skills to question the ir faith in the mselves and in the paranormal.you nger individuals actually have an easier time developing the ir psychicabilities;childrenand adolescents are more likelytoexternalize the irfailures, keepingthenecessary self-confidence and will tocontinueimprovingtheirpowers. Failure and disappointment are injurious to the delicate growthofpsychicpower, since a psychicmust have consummate self-assurance to useher abilities. ## Numinae and Powers
 
-Suchmiracles arenotperformed lightly,and theycanbeprofound experiences tothosewhowitnessthem.
+Purchasingcompletelynew are asofpower should come only aspartofa story, and an instructororkeyawakeningevent should berequired.Eventhenewpowersshouldnot suddenlyspringintoexistenceinthemiddleofplay;acharactermayfindatutororundergo anexperiencehatunlocksheratentpotentialbutactuallydevelopingthatpotentialinto a useful for mtakes time and practice.Expandingone'smindisneither quicknor easy. Psychic Phenomenatypicallyrequirea Static Mental Challengeagainst adifficulty of seven Traitsorrequireachallenge against the target's Mental Traits, dependingon the Effect.Additionally, activating（but not maintaining）a psychicpowerrequiresthe expenditure of a Humanity Trait, as the psychicdelvesinto the wellspringsof herties tolifeand the universe.Of course, some of the power descriptions specify different challenges rcostsnsuchcasesusethe difficulties and tests described thren. Psychic Phenomena are not instant-accesspowers.Concentration is required for the durationof the effect, and somesortof focusmaybeneeded aswell.Itspossible toactivatemultiplepowers, or toperformothertaskswhileconcentrating, but each psychic power active causes the user to suffer a two-Trait penalty on all other challenges.Furthermore, significant distractionsnjury, emotional turbulence, confusion—may cause apower tofailutterly.Insuchcases, makeanewconcentra tionchallengeasifre-activatingthepower, with the additionaltwo Traitconcentration penalty this test simplychecksthepsychic'slevelof focuson the power, and assuch, do esnotrequireanyexpenditureof Traitshusifyouareattemptingtotelekinetically liftastackofcrateswhenyou are suddenlybody-slammed, the Narratormaycallfor anewtest, with outrisking Traits, toseeifyoumaintaintheproperconcentration. ## CLAIRVOYANCE
 
-## PSYCHICPHENOMENA
-
-Psychicabilities typicallydevelopinstinctivelyduring childhood andmust somehowsurvivetheturmoil of adolescence.Mostfolkswhowishtodeveloptheir "sixth sense"in anywayhave to doso consciously,through constantpractice and insight.IntheWorldofDarkness,fewpossesstheseexceptionalabilities.Ifacharacter issoluckysheprobablypossessesonlyonepsychicpower.nexplicableanduniqueo mortals,psychicpowers area subconscious ability to effectthesurroundingworld simplythroughthought.
-
-Psychic abilities are separated into differentPhenomena.Thoughit ispossible to developmultiple areas ofpsychic aptitude with exceptional study andpractice, most individuals are incapableof more than themostrudimentarypsychicabilities andimprovementinone areaof developmentcomes attheexpenseofothers,soa multi-disciplinarypsychicrarely achieveslevels of significant abilityin any area.
-
-Psychicpowersmustbeselectedduringcharactercreation.Furthermoreimprove mentinpsychicabilitiescomesonlywiththeStoryteller'sapproval,sincethecharacter must have a great deal of practical experience,practice and confidence to develop.
-
-Developing psychic abilities isexhausting and frustrating.Trialanderrorforces thosewhopractice such skills to question their faith in themselves and in the paranormal.Younger individuals actually have an easier time developing their psychicabilities;childrenand adolescents aremore likelytoexternalize theirfailures, keepingthenecessary self-confidence andwill tocontinueimprovingtheirpowers. Failure anddisappointment are injurious to the delicate growthofpsychicpower, since a psychicmust have consummate self-assurance to useher abilities.
-
-## Numinae and Powers
-
-Purchasingcompletelynew areasofpower shouldcome only aspartofa story,andan instructororkeyawakeningevent shouldberequired.Eventhenewpowersshouldnot suddenlyspringintoexistenceinthemiddleofplay;acharactermayfindatutororundergo anexperiencehatunlocksheratentpotentialbutactuallydevelopingthatpotentialinto a useful formtakes time andpractice.Expandingone'smindisneither quicknor easy.
-
-PsychicPhenomenatypicallyrequireaStaticMentalChallengeagainst adifficulty of sevenTraitsorrequireachallenge against thetarget'sMentalTraits,dependingon theEffect.Additionally,activating（butnotmaintaining）a psychicpowerrequiresthe expenditure ofaHumanityTrait,as thepsychicdelvesinto thewellspringsof herties tolifeand the universe.Of course,some ofthepower descriptions specify different challenges rcostsnsuchcasesusethe difficulties and tests described thren.
-
-PsychicPhenomena are not instant-accesspowers.Concentration isrequired for thedurationof theeffect,andsomesortof focusmaybeneeded aswell.Itspossible toactivatemultiplepowers,ortoperformothertaskswhileconcentrating,buteach psychic power active causes the user to suffer a two-Trait penalty on all other challenges.Furthermore,significant distractionsnjury,emotional turbulence, confusion—may cause apower tofailutterly.Insuchcases,makeanewconcentra tionchallengeasifre-activatingthepower,withtheadditionaltwoTraitconcentration penaltyThistest simplychecksthepsychic'slevelof focuson thepower,andassuch, doesnotrequireanyexpenditureofTraitshusifyouareattemptingtotelekinetically liftastackofcrateswhenyou aresuddenlybody-slammed,theNarratormaycallfor anewtest,withoutriskingTraits,toseeifyoumaintaintheproperconcentration.
-
-## CLAIRVOYANCE
-
-AcharacterwithClarvoyancemayseehearorotherwiseperceivenformationrom situations in which she isnot present.Extending perception in this way is taxing and difficult;usingClairvoyance powers generallyrequiressome preparationand agreatdealof concentration.Nomatterhowadvancedtheclairvoyantis,sheismerelyanobserverand maynotaffect theeventsshewitnessesin anyway shortofcallingonsomeotherpower （like Telekinesis）.A clairvoyant'svisions usually lastonly fora short time,and the clairvoyantmayenda visionat will-thecharacter isnottrapped inavisionforthefull durationf thepowerHoweverdoingsoautomaticallyterminatestheuseof thepower, and thecharactermustretest andre-activate the power normally tocontinuethevision.
-
-Clairvoyance is a trickyNuminain aMind''sEyeTheatresetting becauseit involves usingacharactrsnsesatrangeMchanicallitsasestfthharacternqustin totheactualsiteofwhatevershewishtoperceive.Clairvoyanceismagicallyundetectableand alsoimmunetodetectionbythevampiricDisciplineAuspex.However,whiletheclairvoyant isextendinghersenses,sheisunabletosenseheractualphysicalsurroundingsnormally.All sensesextendedbytheclairvoyant areunusablebyherphysicalbody,thusaclairvoyantwho extends hersightandhearingtoaremotelocationcannotseeorhearanythingaround her actualhysicallocationthoughshecouldstillfeel.Clairvoyantswhohavesufficientskillo extendmultiplesensesmaychoosewhichsensestheywishtouse;apowerfulclairvoyantmay choose only to extend the sense of touch,forinstance.
-
-Clairvoyance only extends the normal senses of the character;it doesnot necessarily enhance those senses in any fashion.A character cannotread a letter insideofanenvelope,becausetheinsideof theenvelopeisdark.Conversely,physical handicaps areno limit to Clairvoyance;a normallyblind character may use Clairvoyancewithout penalty orhindrance.
-
-<!-- image -->
-
-UsingClairvoyance requiresaStaticMentalChallenge.Thedifficulty isbasedon the clairvoyant'sfamiliaritywiththetargetarea,personoritem.Clairvoyancepowers require theexpenditure ofoneHumanityTrait.
-
-<!-- image -->
-
-| CLAIRVOYANCEDIFFICULTIES   | CLAIRVOYANCEDIFFICULTIES   |
-|----------------------------|----------------------------|
-| Familiarity                | Difficulty                 |
-| veryfamiliar               | 4                          |
-| known to the psychic       | 6                          |
-| completelyunknown          | 8                          |
+Acharacterwith Clarvoyancemayseehearorotherwiseperceivenformationrom situations in which she is not present.Extending perception in this way is taxing and difficult;using Clairvoyance powers generallyrequiressome preparationand agreatdealof concentration.Nomatterhowadvancedtheclairvoyantis, sheismerelyanobserverand maynotaffect the eventsshewitnessesin anyway shortofcallingonsomeotherpower （like Telekinesis）.A clairvoyant'svisions usually lastonly for a short time, and the clairvoyantmayenda visionat will-the character is not trapped inavisionforthefull durationf the power how everdoingsoautomaticallyterminatestheuseof the power, and the charactermustretest and re-activate the power normally tocontinuethevision. Clairvoyance is a tricky Numinain a Mind''s Eye the atresetting becauseit involves usingacharactrsnsesatrange Mchanicallitsasestfthharacternqustin totheactualsiteofwhatevershewishtoperceive.Clairvoyanceismagicallyundetectableand alsoimmunetodetectionbythevampiric Discipline Auspex.how ever, whiletheclairvoyant is extendinghersenses, sheisunabletosenseheractualphysicalsurroundingsnormally.All sensesextendedbytheclairvoyant are unusablebyherphysicalbody, thusaclairvoyantwho extends hersightandhearingtoaremotelocationcannotseeorhearanythingaround her actualhysicallocationthoughshecouldstillfeel.Clairvoyantswhohavesufficientskillo extendmultiplesensesmaychoosewhichsensestheywishtouse;apowerfulclairvoyantmay choose only to extend the sense of touch, for instance. Clairvoyance only extends the normal senses of the character;it do esnot necessarily enhance those senses in any fashion.A character can not read a letter insideofanenvelope, becausetheinsideof the envelopeisdark.Conversely, physical handicaps are no limit to Clairvoyance;a normallyblind character may use Clairvoyancewithout penalty or hindrance. Using Clairvoyance requiresa Static Mental Challenge.the difficulty is basedon the clairvoyant'sfamiliaritywiththetargetarea, personoritem.Clairvoyancepowers require the expenditure of one Humanity Trait. | CLAIRVOYANCEDIFFICULTIES | CLAIRVOYANCEDIFFICULTIES |
+| Familiarity | Difficulty |
+| veryfamiliar | 4 |
+| known to the psychic | 6 |
+| completelyunknown | 8 |
 
 ## BASIC
 
-## Secret Glimpses
+## Secret Glimpses with absoluteconcentration, you can brieflyextendyoursensesashortdistance, toseesomething occurring outsideofyour normalperceptions.the visionsgathered by this power are hazy and sometimesmisinterpreted, especially sinceyou can not actuallyhearwhat'shappening;furthermore, you rrangeislimitedtonearbyareas(any place towhichyou could physically walkin 20 seconds is a goodguideline). ## Whispersofthe Hidden
 
-Withabsoluteconcentration,youcanbrieflyextendyoursensesashortdistance, toseesomething occurring outsideofyour normalperceptions.Thevisionsgathered by thispower are hazy and sometimesmisinterpreted,especially sinceyou cannot actuallyhearwhat'shappening;furthermore,yourrangeislimitedtonearbyareas(any place towhichyou could physically walkin 20 seconds is a goodguideline).
+Nosound accompaniesthisvision, which lastsforuptotwominutes.Atthismost basiclevelofpowerpreparationrequires10minutesofconcentrationormeditation, undisturbedwhile sittingor lyingdownin a darkor dimlylitspace.you must also maintain complete concentration for the entire duration of the vision;performing othertasksisimpossible, and any interruption automaticallyruinstheeffect. You can expandyour senses to significantdistanceswith some effort.this power all owsyoutoseedistantlocationsandyoucansometimeshearwhat'shappeningaswell. you rcontrolisstilltenuousthough, and you rextrasensoryvisionlastsonlytwominutes. you rrange is significant;you can seeeventshappening anywherewithinyour town. you must spend five minutes inconcentration or meditationbefore expanding you rsensesinthisfashion.Again, performingothertasksisimpossible, and anybreak inconcentrationautomaticallyinterruptsthepower.how ever, you can sometimes hearwhat's happening in addition to seeing events;makea Static Mental Challenge with the samedifficultyastheinitialactivationtest(not raitsarerisked）), with success indicating that you can hear events as well as seeing what's happening. Since the wordsandsoundsconveyedbythispowerarehazyatbest, askingparticipantstospeak in a stage(fairly loud)whisper is agood approximation. ## INTERMEDIATE
 
-## WhispersoftheHidden
+## Senseof Beyond
 
-Nosound accompaniesthisvision,whichlastsforuptotwominutes.Atthismost basiclevelofpowerpreparationrequires10minutesofconcentrationormeditation, undisturbedwhile sittingor lyingdownin a darkor dimlylitspace.Youmust also maintain complete concentration forthe entire duration of thevision;performing othertasksisimpossible,andany interruption automaticallyruinstheeffect.
+Atthisstageofdevelopmentyoumaycombinethesensationsofsightandsound, and you can extendthedurationof you rvisions.all of you rextrasensoryvisions automatically includesightandsound, and you can ometimesactuallyfeelobjectsatthelocation. By concentratingforonly threeminutes, you can sendyourawarenessoutforup to10minutes.Furthermoreathisstageofdevelopment, all difficultiesforusingour powers are reducedby one Trait；thus, sensing a completelyunknown locationnow has adifficultyofonlyseven Traits.Additionally, bymakingafollow-up Static Mental Challengeagainstthesamedifficultyasthepoweractivationyoumayfeelthingsat
 
-You can expandyour senses to significantdistanceswith some effort.Thispower allowsyoutoseedistantlocationsandyoucansometimeshearwhat'shappeningaswell. Yourcontrolisstilltenuousthough,andyourextrasensoryvisionlastsonlytwominutes. Yourrange is significant;you canseeeventshappening anywherewithinyour town.
+## Numinae and Powers the remotelocation.of course, you stillcannotexertanysortof for ceorinfluence, but you could(for instance）feel the textureon anitem or determine whether something is hotor cold, with out actually sufferinginjury. ## Hauntings of the Mind's Eye
 
-Youmust spend five minutes inconcentration ormeditationbefore expanding yoursensesinthisfashion.Again,performingothertasksisimpossible,andanybreak inconcentrationautomaticallyinterruptsthepower.However,youcansometimes hearwhat's happening in addition to seeing events;makeaStaticMental Challenge withthesamedifficultyastheinitialactivationtest(noTraitsarerisked）),withsuccess indicating that you can hear events as well as seeing what's happening. Since the wordsandsoundsconveyedbythispowerarehazyatbest,askingparticipantstospeak in a stage(fairly loud)whisper is agood approximation.
+Atthislevelofdevelopmentyoucansometimesuseotherpowerswhilsensinganarea remotelyoucannotactualllityourconsciouessoyoucouldtse Astral Pjctin but you can invokeotherpsychicpowerswhileusingyourpoint of referencethusyou could uelesistolifanbjectatemoteocationsubjecttyourabiltytsete with Clairvoyance.Maintainingsplitconcentrationlikethisistaxing, and you suffertheusual two-Traitpenalty onall testsengagedwhileusingyour Clairvoyance.Ifyou are injured or disturbedwhilprojectingyoursensesyoumaychoosetoretunyourawarenesstoyourwn bodyortrytomakea Static Mental Challenge(not raitsrisked, difficultyequaltothepower' activationdifficulty)inordertokeepyourconcentrationontheremotelocation. The expansion of you rclairvoyant awareness letsyouproject you r senses easily tonearly anylocationthatyou can imagine.you rsensesincludesight, hearingand touch, and you are capableof fairly extendedfeatsof extrasensoryperception. you need onlyconcentratefor oneminute to useyour awareness, and you can maintainyourvisionfor20minutes.you can use otherpowersat the locationof you r senses, subjecttotheusualtwo-Traitpenaltyonadditionalchallenges.you maymake a Static Mental Challenge(not raitsrisked, difficultyequal tothepower'sactivation difficulty)inordertomaintainyourconcentrationif you rbodyisinjuredordisturbed, or you maysimply choosetoreturnyour awarenesstoyourbodyinsuchcircumstances. ## ADVANCED
 
-## INTERMEDIATE
+## Cosmic Awareness you have fullyopenedyourmindtoyourunusualperceptions, and can nowenter avisionafter onlya fewmomentsofpeace.you rremote sensing includesfullvisual, auditory and tactile information.you rrange of visioniseffectively unlimited;any placeintheworldisopentoyoursensesnlessspecificallywardedfromsupernatural sight.Functionally, the Storytellermay choose tolimit you ruseof this capability, simply due to the difficulty of describingevents around the world. Atthe Storyteller'sdiscretion, you mayreceivevisionswithoutinitiatingthem, and experienceavisionof something the Storytellerwishesyou tosee.the seflashes of unexpectedsightcanbedisturbingindeed, especiallywhentheycomeinthemidst of otherimportantmatters. You can hold any extrasensoryvision of Clairvoyancefor uptohalf an hour.The difficultyof sensingremotelocations is reducedby two Traits(replacing the improvement from the Intermediatelevelof Clairvoyance), soyoucannowsenseunknown locationswith a difficultyofonlysix Traits.you can utilizeotherpowersatadistance, subject tothenormal penaltindoucanoldoucncentratinvenwhennjuredrdstubedslong you maketheappropriatetest.Activatingyourpowertakesonlyamomentofconcentration. ## PSYCHOMETRY
 
-## SenseofBeyond
-
-Atthisstageofdevelopmentyoumaycombinethesensationsofsightandsound,and youcanextendthedurationof yourvisions.Allof yourextrasensoryvisions automatically includesightandsound,andyoucanometimesactuallyfeelobjectsatthelocation.
-
-By concentratingforonly threeminutes,youcansendyourawarenessoutforup to10minutes.Furthermoreathisstageofdevelopment,alldifficultiesforusingour powers arereducedby oneTrait；thus,sensing a completelyunknown locationnow hasadifficultyofonlysevenTraits.Additionally,bymakingafollow-upStaticMental Challengeagainstthesamedifficultyasthepoweractivationyoumayfeelthingsat
-
-√
-
-## Numinae and Powers
-
-theremotelocation.Ofcourse,youstillcannotexertanysortof forceorinfluence, butyou could(forinstance）feel the textureon anitem or determine whether something ishotor cold,without actually sufferinginjury.
-
-## Hauntings of theMind'sEye
-
-Atthislevelofdevelopmentyoucansometimesuseotherpowerswhilsensinganarea remotelyoucannotactualllityourconsciouessoyoucouldtseAstralPjctin but youcaninvokeotherpsychicpowerswhileusingyourpoint ofreferencethusyou coulduelesistolifanbjectatemoteocationsubjecttyourabiltytsete withClairvoyance.Maintainingsplitconcentrationlikethisistaxing,andyousuffertheusual two-Traitpenalty onall testsengagedwhileusingyourClairvoyance.Ifyou are injured or disturbedwhilprojectingyoursensesyoumaychoosetoretunyourawarenesstoyourwn bodyortrytomakeaStaticMentalChallenge(noTraitsrisked,difficultyequaltothepower' activationdifficulty)inordertokeepyourconcentrationontheremotelocation.
-
-The expansion ofyourclairvoyant awareness letsyouproject your senses easily tonearly anylocationthatyou canimagine.Yoursensesincludesight,hearingand touch,andyou are capableof fairly extendedfeatsof extrasensoryperception.
-
-Youneed onlyconcentratefor oneminute to useyour awareness,andyoucan maintainyourvisionfor20minutes.Youcanuse otherpowersat thelocationof your senses,subjecttotheusualtwo-Traitpenaltyonadditionalchallenges.Youmaymake aStaticMentalChallenge(noTraitsrisked,difficultyequal tothepower'sactivation difficulty)inordertomaintainyourconcentrationif yourbodyisinjuredordisturbed, oryoumaysimply choosetoreturnyour awarenesstoyourbodyinsuchcircumstances.
-
-## ADVANCED
-
-## CosmicAwareness
-
-Youhavefullyopenedyourmindtoyourunusualperceptions,andcannowenter avisionafter onlya fewmomentsofpeace.Yourremote sensing includesfullvisual, auditory and tactile information.Yourrange ofvisioniseffectively unlimited;any placeintheworldisopentoyoursensesnlessspecificallywardedfromsupernatural sight.Functionally,theStorytellermay choose tolimit youruseof thiscapability, simply due to thedifficulty of describingevents around theworld.
-
-AttheStoryteller'sdiscretion,youmayreceivevisionswithoutinitiatingthem, and experienceavisionof something theStorytellerwishesyou tosee.Theseflashes ofunexpectedsightcanbedisturbingindeed,especiallywhentheycomeinthemidst of otherimportantmatters.
-
-You canhold any extrasensoryvision of Clairvoyancefor uptohalf an hour.The difficultyof sensingremotelocations isreducedby twoTraits(replacing the improvement from the IntermediatelevelofClairvoyance),soyoucannowsenseunknown locationswith a difficultyofonlysixTraits.Youcanutilizeotherpowersatadistance,subject tothenormal penaltindoucanoldoucncentratinvenwhennjuredrdstubedslong youmaketheappropriatetest.Activatingyourpowertakesonlyamomentofconcentration.
-
-## PSYCHOMETRY
-
-Psychometryreads the emotionalresonance fromobjects.By touching something,thepsychicmayreceiveimpressionsaboutasubjectsrecenthistoryandthe peopleand events thathappened aroundit ortoit.Theimpressions taketheform of visionsortheemotionsinvolved,andtheycanbeverystressful tothepsychometrist. Skin contact is required,usually with the hands.
-
-√
+Psychometryreads the emotionalresonance from objects.By touching something, the psychicmayreceiveimpressionsaboutasubjectsrecenthistoryandthe peopleand events that happened aroundit or toit.the impressions taketheform of visionsortheemotionsinvolved, and they can beverystressful tothepsychometrist. Skin contact is required, usually with the hands. √
 
 ## Laws of the Hunt
 
-√
+The psychic mustreach a state of strong concentration to use Psychometry. Extremely overwhelming or traumatic emotions and visionsmayinducetemporary Derangements in the character, at the Storyteller's discretion.Any conscioususe of Psychometry requires the expenditure of a Humanity Trait. ## BASIC
 
-The psychic mustreach a state of strong concentration to usePsychometry. Extremely overwhelming ortraumatic emotions andvisionsmayinducetemporary Derangements in thecharacter,at theStoryteller's discretion.Any conscioususe of Psychometry requires the expenditure of a HumanityTrait.
+## Emotional Connection you may gain impressionsofstrongemotions tied toobjectssimplybyhandlingthem carefully the contextofthemotionisnotnecessarilyevident, but the feelingswashover you and givesomeideaofwhathashappenedtotheiteminquestion.you mightsensethat aknifewasusedinadespairingway, but would not knowthatitwasusedinasuicide.You maysometimesgetflashesofnames and facesif the eventsareparticularlystrong. The emotionssensedwiththispowerdonothavetoberecent, especiallyif the objecthasnotbeen associatedwithanyotherstrong emotionrecently.Anexample would bea lost but treasuredheirloom on display in a museum for a decade. Conversely, anobjectthathas traded handsmanytimes and beenthesubjectofmuch emotional turmoil mightwell give of f a befuddlingmix of emotions and feelings. ## Flashback
 
-## BASIC
+Afterhandlinganobject, you receiveavisionofeventsthatrecentlyhappened concerningit.You can not senseemotions directly, but you can guessbasedon the vision.The objectmust have beencentrally involvedin the event.You seethese visionsintheformof shortvisualimagesreplaying the eventsinquestion.of ten, he point of viewisthatof the objectinquestion;ifunwary, you mayfindyourself inthe role of a murder weapon. Use of Flashback on fresh corpses usually gives anindication of how they died. In some cases, a Static Mental Challenge(sixtrait difficulty)maybe appropriateto seef you can make out the details of the event from the brief and distorted pictures presented. ## INTERMEDIATE
 
-## Emotional Connection
-
-Youmay gain impressionsofstrongemotions tied toobjectssimplybyhandlingthem carefullyThecontextofthemotionisnotnecessarilyevident,butthefeelingswashover youandgivesomeideaofwhathashappenedtotheiteminquestion.Youmightsensethat aknifewasusedinadespairingway,butwouldnotknowthatitwasusedinasuicide.You maysometimesgetflashesofnames andfacesif the eventsareparticularlystrong.
-
-The emotionssensedwiththispowerdonothavetoberecent,especiallyif the objecthasnotbeen associatedwithanyotherstrong emotionrecently.Anexample wouldbea lost but treasuredheirloom on display in a museum fora decade. Conversely,anobjectthathas traded handsmanytimes andbeenthesubjectofmuch emotional turmoil mightwell give off a befuddlingmix of emotions andfeelings.
-
-## Flashback
-
-Afterhandlinganobject,youreceiveavisionofeventsthatrecentlyhappened concerningit.You cannotsenseemotions directly,butyou canguessbasedon the vision.The objectmust havebeencentrally involvedin theevent.You seethese visionsintheformof shortvisualimagesreplaying theeventsinquestion.Often,he point ofviewisthatof theobjectinquestion;ifunwary,youmayfindyourself inthe role of a murder weapon.
-
-Use ofFlashback on fresh corpses usually gives anindication of how they died. In some cases,aStaticMental Challenge(sixtrait difficulty)maybe appropriateto seef youcanmake out the details of theevent from thebrief anddistorted pictures presented.
-
-## INTERMEDIATE
-
-## Time andPlace
-
-Youhavelearnedtofocusyoursenseofemotionsbeyondsimpleobjectsandsmall locations.oumust stillbenandphysicallytouching,theareainquestionutou canreceiveemotionallychargedvisionsofeventsthatrecentlytookplaceinthat location.YourPsychometrynowincludesoneothersense(of theStoryteller'schoice), soyoumightfeel skingivingway asaknifeplunges throughflesh,orsmell the acrid stenchofgunpowderfrom a shooting.
-
-Thevisions invokedby thispower are emotionally intenseand oftendisturbing. Youmaybeinfluencedbytheemotionsoftheeventinquestion;roleplaytheemotions describedbytheNarratororStorytellerfortheremainderof thescene.
-
-## TheHiddenMenagerie
-
-Your ability to sense emotions and events from objects and locations has progressed to the point of sensitivity even to happenings long past(within the last month)orwithonlylmitedemotionalpotency.Additionally,allofyourvisionsand sensations fromPsychometrynowpossesscomponentsfor allfivesenses.
-
-You can beunwittingly drawn into events of extreme intensitywhen using this power.Witnessingparticularly horrific acts(especiallywhen experienced through yourown pointofview)maycallforaSimpleTest toavoidacquiringaDerangement.
-
-## ADVANCED
+## Time and Place you have learnedtofocusyoursenseofemotionsbeyondsimpleobjectsandsmall locations.oumust stillbenandphysicallytouching, the are ainquestionutou can receiveemotionallychargedvisionsofeventsthatrecentlytookplaceinthat location.you r Psychometrynowincludesoneothersense(of the Storyteller'schoice), soyoumightfeel skingivingway asaknifeplunges throughflesh, or smell the acrid stenchofgunpowderfrom a shooting. the visions invokedby this power are emotionally intenseand of tendisturbing. you maybeinfluencedbytheemotionsoftheeventinquestion;roleplaytheemotions describedbythe Narratoror Storytellerfortheremainderof the scene. ## the Hidden Menagerie you r ability to sense emotions and events from objects and locations has progressed to the point of sensitivity even to happenings long past(with in the last month)or with onlylmitedemotionalpotency.Additionally, all of you rvisionsand sensations from Psychometrynowpossesscomponentsfor all fivesenses. You can beunwittingly drawn into events of extreme intensitywhen using this power.Witnessingparticularly horrific acts(especiallywhen experienced through you rown pointofview)maycallfora Simple Test toavoidacquiringa Derangement. ## ADVANCED
 
 Touch the Soul
 
-By touching the skin of another person and concentrating deeply,you can receiveavision of something thatemotionally concerns theindividual.Thissort of insightcanbeunreliableanddifficulttointerpret.Forexample,touchingamurderer whileheisbeingquestionedmight lead toavisionofthemomentat whichhedecided tocommit themurder,nottheactualdeeditselfWhenusedonobjectsandlocations, yougainclearinsightintoscenesthattookplace,completewithallfivesenseswhen sensingemotionalcurrentsnpeopleyoumustmakeaMentalChallengeagainsthe target to gain useful information.
-
-At thislevelofsensitivityyouwilloccasionallysufferspontaneousvisionsor sensationswhen touching emotionallycharged objects.TheStorytellerorNarrator mayat anytimedeclare thatyougathervibes"from a givenobjectwithout conscious activationof thispower.Suchspontaneoussensingisunreliable,butdoesnotrequire the expenditure ofaHumanityTrait.
-
-## PYROKINESIS
-
-Note:You should never actually usefire to represent this power.Thisis not live-actionBeavis andButt-head.
-
-Psychics usethisphenomenonto agitatemolecules to such a degree thatfire results.Pyrokinesis can only start fires;thepsychic cannot extinguish fires or exert any control overflame.Pyrokinetically started fires are indistinguishablefrom normalfires,and theylastuntil theyburn out or areput outbynormalmeans.
-
-Touse Pyrokinesis,the psychicmust spend a HumanityTrait,and then win a Static Mental Challenge(against a difficulty of six Traits,or the target's Physical Traits,if another person is the target or is holding the object the psychic wishes to ignite).
-
-Themaximum range ofPyrokinesis is10 paces.
-
-<!-- image -->
-
-## Numinae and Powers
-
-<!-- image -->
+By touching the skin of another person and concentrating deeply, you can receiveavision of something that emotionally concerns the individual.this sort of insightcanbeunreliableanddifficulttointerpret.for example, touchingamurderer whileheisbeingquestionedmight lead toavisionofthemomentat which hedecided tocommit the murder, not the actualdeeditself when usedonobjectsandlocations, you gainclearinsightintoscenesthattookplace, completewithallfivesenseswhen sensingemotionalcurrentsnpeopleyoumustmakea Mental Challengeagainsthe target to gain useful information. At this levelofsensitivityyouwilloccasionallysufferspontaneousvisionsor sensationswhen touching emotionallycharged objects.the Storytelleror Narrator mayat anytimedeclare that you gathervibes"from a givenobjectwithout conscious activationof this power.Suchspontaneoussensingisunreliable, but do esnotrequire the expenditure of a Humanity Trait. ## PYROKINESIS not e:You should never actually usefire to represent this power.this is not live-action Beavis and but t-head. Psychics usethisphenomenonto agitatemolecules to such a degree that fire results.Pyrokinesis can only start fires;the psychic can not extinguish fires or exert any control overflame.Pyrokinetically started fires are indistinguishablefrom normalfires, and the ylastuntil the yburn out or are put outbynormalmeans. Touse Pyrokinesis, the psychicmust spend a Humanity Trait, and the n win a Static Mental Challenge(against a difficulty of six Traits, or the target's Physical Traits, if another person is the target or is holding the object the psychic wishes to ignite). the maximum range of Pyrokinesis is10 paces. ## Numinae and Powers
 
 ## BASIC
 
-## Candleflame
+## can dleflame with concentrationyoucreateatiny, lightersizedflame toprovidelight the fire can gwfhrfntluttatvrymallvinllrin and is not very hot.the flamecan easilybeput outbeforeitdoes significant damage. ## Fanthe Flame
 
-Withconcentrationyoucreateatiny,lightersizedflame toprovidelightThefire cangwfhrfntluttatvrymallvinllrin and isnotvery hot.Theflamecan easilybeput outbeforeitdoes significant damage.
+You can encourage an already existing fire to grow insize, evenif the fuel is not very combustible.A dyingfirecouldbebroughtbacktolife and abarbecuekept lit in the rain.You can also increase the sizeof firescreated byyour own use of this power; tinyfireslikethatprovidedby can dlelightgrowintosmall flamescapableofinflicting One Health Levelofaggravateddamage, whilelargerflamesblazeevenmorefuriously. the fireinquestionsimplyflaresupforamoment(one turn), dyingbacktonormal in the next turn unless the power is maintained(at the usual cost). ## INTERMEDIATE
 
-## FantheFlame
+## Combustion you can startafireaboutthesizeofacampfirerovidedthatyouhavealarg enough source of flammablematerials.this firewill causeone Health Levelof aggravated damage to anyone it reaches.You can even set a person's clothes alight or ignitemore stubbornmaterials, althoughsuchfiresdon't lastunlessmaintainedwith further uses of Pyrokinesis (or more mundane means, like gasoline). ## Bonfire you rincendiaryabilitiesallowyoutoset largeandotherwiseinflammabletargetsalight and callabriefflashof flameintoexistencewithoutaflammabletarget.Objectsuptothe sizeofasmallcarcaneasilybeignited, and they continuetoburnunlesscompletelyunsuitable asfuel.Flash-firescause one Health Levelof aggravateddamagetotheunfortunate target, and sustained flamescause similardamage to those evenpartially engulfed. ## ADVANCED
 
-You can encourage an already existing fire to grow insize,evenif the fuel isnot very combustible.A dyingfirecouldbebroughtbacktolife andabarbecuekept lit in therain.You can also increase the sizeof firescreated byyour own use of thispower; tinyfireslikethatprovidedbyCandlelightgrowintosmall flamescapableofinflicting OneHealthLevelofaggravateddamage,whilelargerflamesblazeevenmorefuriously. Thefireinquestionsimplyflaresupforamoment(one turn),dyingbacktonormal in the next turn unless the power is maintained(at the usual cost).
+## Conflagration the firecreatedatthislevelofmasteryistrulyafearsomething, nstantlycoming into existencewhereverthereissufficientfuel.Unsupported firesstillgoout, but the airitselfcanbeagitatedintoaeethingmassofburningoxygen, fonlybrifly.uch a fire causes two Health Levelsof aggravateddamage to anyoneit reaches. ## TELEKINESIS
 
-## INTERMEDIATE
-
-## Combustion
-
-Youcanstartafireaboutthesizeofacampfirerovidedthatyouhavealarg enough source offlammablematerials.Thisfirewill causeoneHealthLevelof aggravated damage to anyone it reaches.You can even set a person's clothes alight or ignitemore stubbornmaterials,althoughsuchfiresdon't lastunlessmaintainedwith further uses of Pyrokinesis (ormore mundane means,like gasoline).
-
-## Bonfire
-
-Yourincendiaryabilitiesallowyoutoset largeandotherwiseinflammabletargetsalight and callabriefflashof flameintoexistencewithoutaflammabletarget.Objectsuptothe sizeofasmallcarcaneasilybeignited,andtheycontinuetoburnunlesscompletelyunsuitable asfuel.Flash-firescause oneHealthLevelof aggravateddamagetotheunfortunate target, and sustained flamescause similardamage to those evenpartially engulfed.
-
-## ADVANCED
-
-## Conflagration
-
-Thefirecreatedatthislevelofmasteryistrulyafearsomething,nstantlycoming intoexistencewhereverthereissufficientfuel.Unsupported firesstillgoout,butthe airitselfcanbeagitatedintoaeethingmassofburningoxygen,fonlybrifly.uch a fire causes twoHealthLevelsof aggravateddamage to anyoneit reaches.
-
-## TELEKINESIS
-
-Telekinesis allows thecharacter toproject hiswill andmove objectswith the power of thought.Theplayermust expenda HumanityTrait inorder to employ this power,and hemustengage inaStaticMentalTest against adifficulty offiveTraits if heuses thepower on an inanimateobject that isn'tin anyone's possession.If the character seeks to affect another person (take an object from the subject,throw something at him,move him,etc.),then the telekinetic must engage in a Mental Challenge against the target,who resists with Physical Traits.
-
-Tofirst pick up anobject,itmust bewithin the character's line of sight.It does not have toremain within thecharacter's line of sight once he has lifted it,however. ManipulationwithTelekinesis lastsforthedurationof theScene,unlessthecharacter decides toprematurely terminate the use of thepower.
-
-Laws of the Hunt
+Telekinesis all ows the character toproject hiswill and move objectswith the power of thought.the playermust expenda Humanity Trait inorder to employ this power, and hemustengage ina Static Mental Test against adifficulty of five Traits if heuses the power on an inanimateobject that is n'tin anyone's possession.If the character seeks to affect another person (take an object from the subject, throw something at him, move him, etc.), the n the telekinetic must engage in a Mental Challenge against the target, who resists with Physical Traits. Tofirst pick up anobject, itmust bewithin the character's line of sight.It do es not have toremain with in the character's line of sight once he has lifted it, how ever. Manipulationwith Telekinesis lastsforthedurationof the Scene, unlessthecharacter decides toprematurely terminate the use of the power. Laws of the Hunt
 
 ## BASIC
 
 ## Nudge
 
-You have learned to manipulate small nearby objects(eggs,drinking glasses, books;anythingunderthree pounds),butwithoutmuch skill orforce.You canonly accomplishminorthings liketurningthenextpage ofabook,flickingalight switch, lifting something off a table or pressing a button.
+You have learned to manipulate small nearby objects(eggs, drinking glasses, books;anythingunderthree pounds), but with outmuch skill or for ce.You can only accomplishminorthings liketurningthenextpage of abook, flickingalight switch, lifting something of f a table or pressing a but ton. Onlyoneitematatimecanbemanipulatedwiththispower.the amountofforce exertedby this power is minimal;you can not useit toattack, and manipulatedobjects move slowly and imprecisely.Manipulated objects can easilybe snatched away by anyonewillingtomaketheeffort.Atthismostbasic levelof skillyouneed togesture physically in the fashionof the telekineticforce;you are one Trait do wn on the test if you do not makeanappropriategesture. you mayrepel something or attract it, though with little control over its speed. The objectssoaffectedmust stillemall and light, and are they easilydodged.ou can only affect objects in this waywithin the same room. ## Fling
 
-Onlyoneitematatimecanbemanipulatedwiththispower.Theamountofforce exertedby thispower isminimal;youcannotuseit toattack,andmanipulatedobjects move slowly and imprecisely.Manipulated objects can easilybe snatched away by anyonewillingtomaketheeffort.Atthismostbasic levelof skillyouneed togesture physically in thefashionof thetelekineticforce;you are one Trait down on thetest if youdonotmakeanappropriategesture.
+Only oneitem ata time can bemanipulatedwiththispower.Furthermore, you can not exert enough for cetomove an object weighing more than 10pounds.Again, gesturing helps, and failing togesture causesyou to suffera one-Trait penalty on appropriatetests. ## INTERMEDIATE
 
-Youmayrepel something or attract it, though with little control over its speed. The objectssoaffectedmust stillemall andlight,andarethey easilydodged.ou can only affect objects in thiswaywithin the same room.
+## Phantom Arm
 
-## Fling
-
-Only oneitem ata time canbemanipulatedwiththispower.Furthermore,you cannot exert enough forcetomove an object weighing more than 10pounds.Again, gesturing helps,andfailing togesture causesyou to suffera one-Trait penalty on appropriatetests.
-
-## INTERMEDIATE
-
-## PhantomArm
-
-At this degree of mastery,you can move heavy itemswith a good degree of control.Youcanalsomoveitemsinanotherroom,aslongasyoucanstillseethetarget （through a window,for instance,or by using Clairvoyance).Your control is not particularlyfine,butyoucaneasilythrowitems aboutandeveninjurepeople.
-
-Theobjectofthisowermust stillbelessthan100poundsinweightbutyoucan manipulateitjustasthoughyouwerehandlingitphysically,althoughyoucontrolis nobetterthanifyouwerewearingmittens.Ifyouflingaheavyobjectatsomeoneyou can inflict asingleHealthLevelofnormal damage fromtheimpact.Similarlyyoucan guide and hurl weapons accurately enough to inflict normal damage with them.You stillneed tomakegesturesappropriatetoyouractions,andfailingtogestureimposes aone-Traitpenaltyonyour telekinetictest.
-
-## HiddenForces
-
-Your mental strength is prodigious;you can manipulate heavy objects,even liftingpeople,andyou canmanipulatemultipleobjectsatonce.Youcanmanipulate targets up to ablock away aslong as they arewithinyour line of sight.Although you don't have quite enough control to undo a complicated knot (for instance),you can affect things as if you wereworking onthemwhilewearinggloves.
-
-Youcan affectobjectsupto200poundsinweightatthislevelof power.Weapons andheavyobjectscanbe used toinflict oneHealth Levelofdamagewhenthrownor swungatsomeone,andyoucanevenpickapersonupandsmashhimagainstnearby surfacesfor similardamageWithconcentration,youcanliftyourselfand achievea limitedsortofflight.oucanaffectmultileobjectsnow,withatwoTraitpenaltyor eachnewobject afterthefirst.Atthislevel ofpower,younolongerneedtogesture in orderto directyour powers.
-
-## Numinae and Powers
+At this degree of mastery, you can move heavy itemswith a good degree of control.you can alsomoveitemsinanotherroom, aslongasyoucanstillseethetarget （through a window, for instance, or by using Clairvoyance).you r control is not particularlyfine, but you can easilythrowitems aboutandeveninjurepeople. the objectofthisowermust stillbelessthan100poundsinweightbutyoucan manipulateitjustasthoughyouwerehandlingitphysically, althoughyoucontrolis nobetterthanifyouwerewearingmittens.Ifyouflingaheavyobjectatsomeoneyou can inflict asingle Health Levelofnormal damage from the impact.Similarlyyoucan guide and hurl weapons accurately enough to inflict normal damage with the m.You stillneed tomakegesturesappropriatetoyouractions, and failingtogestureimposes aone-Traitpenaltyonyour telekinetictest. ## Hidden for ces you r mental strength is prodigious;you can manipulate heavy objects, even liftingpeople, and you can manipulatemultipleobjectsatonce.you can manipulate targets up to ablock away aslong as they are with inyour line of sight.Although you don't have quite enough control to undo a complicated knot (for instance), you can affect things as if you were working onthemwhilewearinggloves. you can affectobjectsupto200poundsinweightatthislevelof power.Weapons and heavyobjectscanbe used toinflict one Health Levelofdamagewhenthrownor swungatsomeone, and you can evenpickapersonupandsmashhimagainstnearby surfacesfor similardamage with concentration, you can liftyourselfand achievea limitedsortofflight.oucanaffectmultileobjectsnow, with atwo Traitpenaltyor eachnewobject afterthefirst.Atthislevel of power, you nolongerneedtogesture in or derto directyour powers. ## Numinae and Powers
 
 ## ADVANCED
 
 ## Psychic Levitation
 
-You have thoroughly mastered thepower toprojectmental force.Your control isgoodenoughtopeformdelicatemanipulationssuchasundoingazipper,loading agunorpouringchampagne,thoughthedifficultymightbeincreased forparticularly trickytasks.You canmanipulatemultipleobjectswithconcentration,andyouneed notgestureto affectyour targets.
+You have thoroughly mastered the power toprojectmental for ce.you r control is goodenoughtopeformdelicatemanipulationssuchasundoingazipper, loading agunorpouringchampagne, thoughthedifficultymightbeincreased for particularly trickytasks.You can manipulatemultipleobjectswithconcentration, and you need not gestureto affectyour targets. you can affectsomethingweighingupto300poundswiththispower.Heavyorpointy objectswilldoone Health Levelof damagewhenthrowntelekinetically.Alternately, you may simplypicksomeoneupwithmentalforceandbatterhimmercilessly.when affecting multipleobjectsthenormalenaltyforsplittingconcentrationsapplied;testseparatelyor eachsubject, with atwo-Traitpenaltyforeachadditional objectafterthefirst.Oncethis powerisactivated, though, nofurtherexpendituresarerequiredtoacquirenewtargets. ## TELEPATHY
 
-Youcanaffectsomethingweighingupto300poundswiththispower.Heavyorpointy objectswilldooneHealthLevelof damagewhenthrowntelekinetically.Alternately,you may simplypicksomeoneupwithmentalforceandbatterhimmercilessly.Whenaffecting multipleobjectsthenormalenaltyforsplittingconcentrationsapplied;testseparatelyor eachsubject,withatwo-Traitpenaltyforeachadditional objectafterthefirst.Oncethis powerisactivated,though,nofurtherexpendituresarerequiredtoacquirenewtargets.
+Insidious and almostundetectable, Telepathy all ows a character to sense the emotions and thoughts of nearby individuals.The telepath's playermust expend a Humanity Trait and the nwin a Mental Challenge against the target after the characterundergoesa periodof intense concentration.If the telepathisblind, she musthearortouchpeopletoreadtheirminds. This abilitycanaffect animalsbuttheirthoughtsarenotterriblysophisticated or differentfromtheiremotions. ## BASIC
 
-## TELEPATHY
+## Emotional Contact
 
-Insidious andalmostundetectable,Telepathy allows a character to sense the emotions and thoughts ofnearby individuals.The telepath's playermust expend a Humanity Trait and thenwin a Mental Challenge against the target after the characterundergoesa periodof intense concentration.If the telepathisblind,she musthearortouchpeopletoreadtheirminds.
+You may perceive another's emotional state.This perceptionisnot visual as in the vampiricpower Aura Perception.Rather, you senseawashoffeelingssimilartothe ones that the targetis experiencing. Onwinning the Mental Challenge, you may requestthatthe otherplayer explainhischaracter'scurrentemotional state.The subject should not explain why he feels a particular emotion, only that he is experiencingit.You must beabletoseeyour target in or dertouse this levelofcontact. ## the Unspoken Heart
 
-This abilitycanaffect animalsbuttheirthoughtsarenotterriblysophisticated ordifferentfromtheiremotions.
-
-## BASIC
-
-## EmotionalContact
-
-You may perceive another's emotional state.This perceptionisnot visual as in thevampiricpowerAuraPerception.Rather,yousenseawashoffeelingssimilartothe ones that the targetis experiencing. Onwinning theMental Challenge,you may requestthatthe otherplayer explainhischaracter'scurrentemotional state.The subject should not explain why he feels a particular emotion,only that he is experiencingit.You must beabletoseeyour target in ordertouse this levelofcontact.
-
-## TheUnspokenHeart
-
-You may"hear"a phrase uttered only in the mind of your target.Thispower requiresrelativesilencetowork,butmakesyouprivytothosecommentsthatpeople think,butgenerallychoosenottovocalize.AfterwinningtheMental Challengeyou mayask the target,What didyouleaveunspokenjust now?and theotherplayermust answer truthfully.However,youcanonlyusethispoweron anindividualyou cansee.
-
-Typically,one cannot glean useful information by using this power.Any thought that the target isactively attempting to conceal will remain hidden.Most often,the wall,brick wall, brick wall.."
+You may"hear"a phrase uttered only in the mind of you r target.this power requiresrelativesilencetowork, but makesyouprivytothosecommentsthatpeople think, but generallychoosenottovocalize.Afterwinningthe Mental Challengeyou mayask the target, What did you leaveunspokenjust now?and the otherplayermust answer truthfully.how ever, you can onlyusethispoweron anindividualyou can see. Typically, one can not glean useful information by using this power.Any thought that the target is actively attempting to conceal will remain hidden.Most of ten, the wall, brick wall, brick wall.."
 
 ## INTERMEDIATE
 
-## Psychic Link
+## Psychic Link you are nowcapable of establishinga telepathic rapport that all ows you toglean small bitsof information from you r target.With a successful contact, you can immediately askyour targetone simplequestion, which the playermustanswer
 
-Youarenowcapable of establishinga telepathic rapport that allows youtoglean small bitsof information from your target.With a successful contact,you can immediately askyour targetone simplequestion,whichtheplayermustanswer
+Laws of the Hunt truthfullyuchqustionsmaynludebutareotlmitedtoxamlessuchasa the last thing you said truthful!"or"What nature of creature are you?You still need toseeyour target, and you are still limitedto onetarget at a time. this power can be used for one-way communication, with the targetmentally thinking the sentences he wishes you to"hear."
 
-Laws of the Hunt
+## Mind Probe
 
-<!-- image -->
+Reaching deep into the consciousness of you r subject, you can gather deep memoriesandhidden information.Inadditiontothenormalquestionsthatyoumay askwithyourtelepathicowersyoucanaskthesubjecttodescribeanysceneinher memory.You may evennoticeif someone'smemorieshavebeentamperedwithor altered;you can make a second Mental Challenge to try to uncover the hidden memories in suchcases.You nolongerneed todirectly see a person, eitheryoucan read the thoughts of anindividual in an adjacentroom, althoughyou will need a description if you are not familiar with the subject. ## ADVANCED
 
-truthfullyuchqustionsmaynludebutareotlmitedtoxamlessuchasa the last thing you said truthful!"or"What nature of creature are you?You still need toseeyour target,andyou are still limitedto onetarget at a time.
+## Secrets Revealed
 
-Thispower canbe used for one-way communication,with thetargetmentally thinking the sentences he wishes you to"hear."
+At this degreeofmasteryyouhavelearned tofullyread the sufacethoughtsof nearlyanyone.you can nowsplityourconcentrationtoreadmultipleminds, and you can evengather second-hand information, such asreading the mind of acharacter using Clairvoyanceandseeing the imagethatthe characterviews.Readingmultiple mindscountsasmultipletasks, soyoustill suffera two-Traitpenaltyonalltasksfor eachcontactkeptafterthefirst, but you can readmindsatanydistance, subjecttoyour knowledge of the individual subject.You can evenuse other senses, such as Clairvoyance, to detect a subject and the n use Telepathy to scan hismind. ## SORCERY
 
-## MindProbe
-
-Reaching deep into the consciousness ofyour subject,you can gather deep memoriesandhidden information.Inadditiontothenormalquestionsthatyoumay askwithyourtelepathicowersyoucanaskthesubjecttodescribeanysceneinher memory.You may evennoticeif someone'smemorieshavebeentamperedwithor altered;you canmake a secondMental Challenge to try to uncover the hidden memories in suchcases.You nolongerneed todirectly see a person,eitheryoucan read the thoughts of anindividual in an adjacentroom,althoughyou will need a description if you are not familiar with the subject.
-
-## ADVANCED
-
-## SecretsRevealed
-
-At thisdegreeofmasteryyouhavelearned tofullyread the sufacethoughtsof nearlyanyone.Youcannowsplityourconcentrationtoreadmultipleminds,andyou can evengather second-hand information,such asreading themind of acharacter usingClairvoyanceandseeing theimagethatthe characterviews.Readingmultiple mindscountsasmultipletasks,soyoustill suffera two-Traitpenaltyonalltasksfor eachcontactkeptafterthefirst,butyoucanreadmindsatanydistance,subjecttoyour knowledge of the individual subject.You can evenuse other senses,such as Clairvoyance,to detect a subject and then useTelepathy to scan hismind.
-
-## SORCERY
-
-The art ofmagic that is accessible toregularmortals (thosewhodonot fall into the realmof mages or Infernalists) isconsidered Sorcery.It islowmagicandrequires somekind ofritual orfocustowork.SorceryisthesortofmagicusedtogiveaGypsy agoodnameorabadreputation,thatcanbringforth agood loverorhexabadone. Some call it wise lore;others believe it is divinely inspired and refer to it as "Theurgy"Whatever it is called,it is the sort of magic that most people dont believe in.
-
-Sorceryisseparatedinto different paths,each one accomplishing distinctly differenteffects.Itispossibletostudyandevenmastermore thanonepath,although doing so is difficult and time-consuming.Mortals can pick up these paths through otheruntersdiariesoccult mesranyothereasonablemeans.additinst pathshaverituals.Ritualsaretheactualeffects thatarecast,whilethebasiclevelof abilityin thepath simply indicates therange ofpower available to the sorcerer.
-
-Mostritualscost oneMentalTrait,and they oftenrequire some sortof test o determinewhethertheyaresuccessful ornot.Someritualsstateotherwise,andthey mayrequiretheexpenditureofHumanityTraitsinadditiontoorinsteadofMental Traits.AllBasicritualstake10minutes,Intermediateritualsrequire20minutes and allAdvancedrituals takeat least30minutes toperform,unless stateddifferently. Storytellerswho arerunningparticularly shortgamesmaychoosetoalterthesetimes tosuit the needs of their plots.
-
-<!-- image -->
-
-W6
+The art of magic that is accessible toregularmortals (thosewhodonot fall into the realmof mages or Infernalists) is considered Sorcery.It is lowmagicandrequires somekind of ritual or focustowork.Sorceryisthesortofmagicusedtogivea Gypsy agoodnameorabadreputation, that can bringforth agood loverorhexabadone. Some call it wise lore;others believe it is divinely inspired and refer to it as "the urgy"what ever it is called, it is the sort of magic that most people don't believe in. Sorceryisseparatedinto different paths, each one accomplishing distinctly differenteffects.Itispossibletostudyandevenmastermore than onepath, although do ing so is difficult and time-consuming.Mortals can pick up the se paths through otheruntersdiariesoccult mesranyothereasonablemeans.additinst pathshaverituals.Ritualsaretheactualeffects that are cast, whilethebasiclevelof abilityin the path simply indicates the range of power available to the sorcerer. Mostritualscost one Mental Trait, and they of tenrequire some sortof test o determinewhethertheyaresuccessful or not.Someritualsstateotherwise, and they mayrequiretheexpenditureof Humanity Traitsinadditiontoorinsteadof Mental Traits.all Basicritualstake10minutes, Intermediateritualsrequire20minutes and all Advancedrituals takeat least30minutes toperform, unless stateddifferently. Storytellerswho are runningparticularly shortgamesmaychoosetoalterthesetimes tosuit the needs of the ir plots. W6
 
 ## CONJURATION
 
-Sorcererswith this path are apparently able tocreate things out of thin air. What Conjurationreally entails is the preparation of an object beforehand. Then,the conjurer can summon the prepared item(or person if he is powerful enough) to him instantlywheneverhe desires it.When theritual is performed, a triggeringword issetinto the object,and the objectis teleported directlyto any empty space the caster desires on the utterance of that word(within the range of his conjuring ability).Alternately,the caster may design a ritual to move or animateanobjectinaspecificway,allowingforlimitedtelekinetic manipulation.
-
-Toprepare theitem,aHumanityTraitmust bespent,andaStaticMental Challenge(against a difficulty dependent on the object) is required.Retrieving the objectrequires another StaticMental Challenge(against a difficulty of sevenTraits). UsingaConjurationeffectrequiresonlyasingleaction.Preparingtheobjectinthefirst placerequires the standard castingtime.
-
-Itcanbeextremely difficulttoprepareunwilling animalsorpeople,sincethey won't stayputfor thelengthyritual.Conjurationdoesn't cause anitem tobecome magical;theobject hasonly its own normal properties.Only oneobject at a timemay be conjured.
-
-Awizardmay have a number of prepared itemsready equal to his number of permanent HumanityTraits.Apropor card foreachitemshouldbeleftwitha Narrator, so that it is handy when it is conjured.
-
-## CONJURING RITUALS
+Sorcererswith this path are apparently able tocreate things out of thin air. What Conjurationreally entails is the preparation of an object beforehand. the n, the conjurer can summon the prepared item(or person if he is powerful enough) to him instantlywheneverhe desires it.When the ritual is performed, a triggeringword is setinto the object, and the objectis teleported directlyto any empty space the caster desires on the utterance of that word(with in the range of his conjuring ability).Alternately, the caster may design a ritual to move or animateanobjectinaspecificway, all owingforlimitedtelekinetic manipulation. Toprepare the item, a Humanity Traitmust bespent, and a Static Mental Challenge(against a difficulty dependent on the object) is required.Retrieving the objectrequires another Static Mental Challenge(against a difficulty of seven Traits). Usinga Conjurationeffectrequiresonlyasingleaction.Preparingtheobjectinthefirst placerequires the standard castingtime. Itcanbeextremely difficulttoprepareunwilling animalsorpeople, sincethey won't stayputfor the lengthyritual.Conjurationdoesn't cause anitem tobecome magical;the object has only its own normal properties.Only oneobject at a timemay be conjured. Awizardmay have a number of prepared itemsready equal to his number of permanent Humanity Traits.Apropor card for eachitemshouldbeleftwitha Narrator, so that it is handy when it is conjured. ## CONJURING RITUALS
 
 ## Levitate Object (Basic)
 
-This ritual allowsyou to levitate a prepared object.Youmust have a separate ritual foreachtypeofobject.Youcan lift andmovethe object about,aslongasitis within your conjuringrange and power level.
+This ritual all owsyou to levitate a prepared object.you must have a separate ritual for eachtypeofobject.you can lift and movethe object about, aslongasitis with in you r conjuringrange and power level. ## Manipulate Object(Basic)
 
-## ManipulateObject(Basic)
+Simplelevitation is onething;gettingaropetoknotandunknotitselfis another thingentirely.Manipulations letthecastertelekineticallyaffecttheconjuredobject ina simplefashion.Thus, the Manipulate Lockritual could be usedtoopen or close a simplelock, whilethe Manipulate Computerritualmightallowtheconjurertoturn a computer on or of f. ## Teleport Object (Basic)
 
-Simplelevitation is onething;gettingaropetoknotandunknotitselfis another thingentirely.Manipulations letthecastertelekineticallyaffecttheconjuredobject ina simplefashion.Thus,theManipulateLockritual couldbe usedtoopen orclose a simplelock,whiletheManipulateComputerritualmightallowtheconjurertoturn a computer on or off.
-
-## Teleport Object (Basic)
-
-This ritualpreparesanobjectforsnatchingor teleportation.Whenconjured,he object is immediatelyteleportedto any locationwithinyourrange of conjuration. AgainyoumustlarnasparateitualforachtypefobjectrratureTlrt RabbitdoesnotsubstituteforTeleport LovelyAssistant.
-
-## BASIC
+This ritualpreparesanobjectforsnatchingor teleportation.when conjured, he object is immediatelyteleportedto any locationwithinyourrange of conjuration. Againyoumustlarnasparateitualforachtypefobjectrrature Tlrt Rabbitdoesnotsubstitutefor Teleport Lovely Assistant. ## BASIC
 
 ## The Conjurer's Touch
 
-You cannudgea tiny,simple objectwith a small amount of conjuredforce. Althoughyoucannotactuallymanipulate orteleport theobject,youcancauseito moveslightlyoyoucanpushapreparedbuttonorpossiblydragapreparedkeyacross a table.Youcan onlyusethispoweronobjectswithin10feet;theobjectcanbe easily stoppedby anyonewhowishestograbit.
+You can nudgea tiny, simple objectwith a small amount of conjuredforce. Althoughyoucannotactuallymanipulate or teleport the object, you can causeito moveslightlyoyoucanpushapreparedbuttonorpossiblydragapreparedkeyacross a table.you can onlyusethispoweronobjectswithin10feet;the objectcanbe easily stoppedby anyonewhowishestograbit. ## Laws of the Hunt
 
-## Laws of the Hunt
+## Conjurethe Simple for m
 
-<!-- image -->
+This ritual is performedon a simpleobject——anything with out moving or electronicparts.glassofwater, coinniferbulletwouldbeacceptablebutagun would not.Individualplantsmaybeconjured, but not animalsorpeople.the conjurer can calltheobjectfromupto15feetaway, eithermovingit slowlyorteleportingit. ## INTERMEDIATE
 
-## ConjuretheSimpleForm
+## Conjure the Complex for m
 
-This ritual is performedon a simpleobject——anything without moving or electronicparts.glassofwater,coinniferbulletwouldbeacceptablebutagun wouldnot.Individualplantsmaybeconjured,butnotanimalsorpeople.Theconjurer cancalltheobjectfromupto15feetaway,eithermovingit slowlyorteleportingit.
+You have learnedtoconjuremorediffcultitemswithmovingpartsorwhichare composedof other items.you can prepareand conjurelarge and complexinanimate objectssuchasstaves, clocksortelevisions, as longas the object is nolargerthana chair and weighs lessthan200pounds.Evenvery simple creatures suchas snails and ants are with inyourconjuringpower.you can movetheobjectvialevitationorsnatch itfrom thin air atadistance of upto25feet. ## The Conjurer's Grasp with this levelof Conjuring, you can affectinanimate objectsupto the sizef steamertrunkswithaweightupto300pounds Additionally, you can prepareand conjurecreaturesupto50poundsinweight, uptotheevelofarabbitbirdorlarge lizard.you can levitate or snatchtheobjectfrom adistance of upto50feet. ## ADVANCED
 
-## INTERMEDIATE
+## Conjure the Living for m you maynowconjurecomplexitemswithmanypartsorthosewhicharevery large.this includesbookcases, laptops, videocamerasandhumanbeings.Cognizan subjectshumans, amongothersmust bewillingorunconscious, and this for m of conjurationis extremely disorienting;a conjuredindividualis stunned and unable toact for one complete turn(or 15 seconds, if not in combattime).You can manipulateobjects upto60feet awaywiththispower, affectinganythinguptohuman size.with the properritual, you can evencauseyourself to levitate. ## CURSING
 
-## Conjure theComplexForm
+Oneoftheoldestknownformsofmagic, acurseisintendedtocausetroubleorharm tosomeonewhohasoffended the wizard.the wizard decideswhateffect hewants his cursetohave(with in hisability), the nspendsoneturnperlevelbuildinguphismalice and illwill.Oncethecursingenergyisready，the casterdischargesitnsomecathartic fashion(acream, adance, et.）.Atthisoint, the layependsa Humanity Traitan engages in a Social Challenge with the target of his ire.lf the caster succeeds, the Storyteller determines exactly what for m the cursetakes or how it unfolds.Curses are rarelyinstantaneous;they usually occuralmostcoincidentallywhenevercircumstances all ow.they subtlynudge thingsorpeoplealreadyinmotiontowardfulfillingthecaster's desire toward the target, and may takeweeks or evenmonthstoberealized. Ritualsarenot usedfor Cursing.the caster simply builds upthe necessary energy and releasesit at the victim immediately. Novictimcansufferfrom the effectsof morethanonecurse ata time.Ifmultiple curses are cast on the subject, the n only the strongest one takeseffect. Supernatural creatures may be cursed, but can resist the effect by expendinga will power Trait, though the ymust bemade aware of the curse in or der to do so. ## BASIC
 
-You havelearnedtoconjuremorediffcultitemswithmovingpartsorwhichare composedof other items.Youcanprepareand conjurelarge andcomplexinanimate objectssuchasstaves,clocksortelevisions,as longas theobject isnolargerthana chair andweighs lessthan200pounds.Evenvery simple creatures suchas snails and ants arewithinyourconjuringpower.Youcanmovetheobjectvialevitationorsnatch itfrom thin air atadistance ofupto25feet.
+## Curse of Inconvenience
 
-## The Conjurer's Grasp
+The caster can inflict a brief inconvenience(dropping something, saying something stupid, breaking a treasuredobject)or a minor injury or illnesswhich do es no lasting harm (cutting oneself, slamming a finger in a do or, getting a migraine)at this level. the effectwillusuallybeoverwithinthe samegamesession.you rcursegenerally do es not cause any damage or loss of Traits, but it is certainlyinconvenient. ## Curseof Trouble you r victim will certainly suffer some sort of setback in the near future. Althoughfarfromdebilitating, itwillannoythesubjectandmayleadtoinjuryor potential long-term problems. In one challenge in the same or nextgame session, the cursed individual suffers a two-Trait penalty onone challenge, as decidedbythe Storyteller. ## INTERMEDIATE
 
-WiththislevelofConjuring,youcan affectinanimate objectsupto the sizef steamertrunkswithaweightupto300poundsAdditionally,youcanprepareand conjurecreaturesupto50poundsinweight,uptotheevelofarabbitbirdorlarge lizard.Youcanlevitate orsnatchtheobjectfrom adistance of upto50feet.
+## Curse of Misfortune
 
-## ADVANCED
+At this level of ability, you may cause serious injury or illness(gunshot wound, brokenleg, influenza), thoughitwill not kill, or amisfortune that has lasting effects（brokenfriendship, political incident, house burned do wn).The subjectof the cursewill probably suffersome sort of unavoidableinjury or trouble in the nextgamesession. The effectwill lastuntilitisrecovered from, thoughrecovery is always possible.In game terms, the victim is automatically for cedtoretest one otherwise victoriouschallenge later in the currentgame session, though the Storyteller chooses the test inquestion. ## Curse of Disaster
 
-## Conjure the Living Form
-
-Youmaynowconjurecomplexitemswithmanypartsorthosewhicharevery large.Thisincludesbookcases,laptops,videocamerasandhumanbeings.Cognizan subjectshumans,amongothersmust bewillingorunconscious,and thisform of conjurationis extremely disorienting;a conjuredindividualis stunned andunable toact for one complete turn(or 15 seconds,if not in combattime).You can manipulateobjects upto60feet awaywiththispower,affectinganythinguptohuman size.Withtheproperritual,youcan evencauseyourself to levitate.
-
-## CURSING
-
-Oneoftheoldestknownformsofmagic,acurseisintendedtocausetroubleorharm tosomeonewhohasoffended thewizard.Thewizard decideswhateffect hewants his cursetohave(within hisability),thenspendsoneturnperlevelbuildinguphismalice andillwill.Oncethecursingenergyisready，thecasterdischargesitnsomecathartic fashion(acream,adance,et.）.Atthisoint,thelayependsaHumanityTraitan engages in a Social Challenge with the target of his ire.lf the caster succeeds,the Storyteller determines exactly what form the cursetakes or howit unfolds.Curses are rarelyinstantaneous;they usually occuralmostcoincidentallywhenevercircumstances allow.They subtlynudge thingsorpeoplealreadyinmotiontowardfulfillingthecaster's desire toward thetarget,andmay takeweeks or evenmonthstoberealized.
-
-Ritualsarenot usedforCursing.Thecaster simply builds upthe necessary energy andreleasesit at thevictim immediately.
-
-Novictimcansufferfrom the effectsof morethanonecurse ata time.Ifmultiple curses are cast on the subject,then only the strongest one takeseffect.
-
-Supernatural creatures may be cursed,but canresist theeffect by expendinga WillpowerTrait,though theymust bemade aware of the curse in order to do so.
-
-<!-- image -->
-
-## BASIC
-
-## Curse ofInconvenience
-
-The caster can inflict a brief inconvenience(dropping something,saying something stupid,breaking a treasuredobject)or a minor injury orillnesswhich does no lasting harm (cutting oneself,slamming a finger in a door,getting a migraine)at this level.
-
-Theeffectwillusuallybeoverwithinthe samegamesession.Yourcursegenerally does not cause any damage or loss ofTraits,but it is certainlyinconvenient.
-
-## CurseofTrouble
-
-Your victim will certainly suffer some sort of setback in thenear future. Althoughfarfromdebilitating,itwillannoythesubjectandmayleadtoinjuryor potential long-term problems.
-
-In one challenge in the same ornextgame session,thecursed individual suffers a two-Trait penalty onone challenge,as decidedbytheStoryteller.
-
-## INTERMEDIATE
-
-## Curse ofMisfortune
-
-At this level of ability,you may cause serious injury or illness(gunshot wound,brokenleg,influenza),thoughitwill notkill,oramisfortune that has lasting effects（brokenfriendship,political incident,house burned down).The subjectof thecursewill probably suffersome sort ofunavoidableinjury or trouble in thenextgamesession.
-
-The effectwill lastuntilitisrecovered from,thoughrecovery is always possible.In game terms,thevictim is automatically forcedtoretest one otherwise victoriouschallenge later in the currentgame session,though the Storyteller chooses the test inquestion.
-
-## Curse of Disaster
-
-Lasting,butnotfatal,injuryfollowsthecursedindividualaround.Painfuland inconvenienteventsseemto cropup allofthetime,andthesideeffectsof such problemsmayverywell cause thevictim long-termgrief.
-
-For theremainderofthecurrentgamesession,thevictim suffersatwo-Trait penalty on all challenges.
-
-## ADVANCED
+Lasting, but not fatal, injuryfollowsthecursedindividualaround.Painfuland inconvenienteventsseemto cropup all of the time, and the sideeffectsof such problemsmayverywell cause the victim long-termgrief. For the remainderofthecurrentgamesession, the victim suffersatwo-Trait penalty on all challenges. ## ADVANCED
 
 ## Great Curse
 
-This curse causes either a lasting, debilitating illness (stroke,heart attack, Alzheimer's)oraterriblecalamity（familymurdered,allmaterialwealthlost,object of country-wide manhunt).Nothing goes right,and even some close friends or relativesof thevictimmay sufferfrom thecurse.
-
-For theremainderofthecurrentgamesession,thecursed ndividualisautomati callyforced totake oneretest on all successfulchallenges.Thus,thecursed personis much morelikely to fail in any sort of task.
-
-Alternately,thispowercanbestowsomepermanenteffects.SeetheFlaw:Cursed for some additional ideas.If a permanent curseisinvoked,the castersplayer must spend theHumanityTraitpermanently.
-
-Laws of the Hunt
+This curse causes either a lasting, debilitating illness (stroke, heart attack, Alzheimer's)or aterriblecalamity（familymurdered, all materialwealthlost, object of country-wide manhunt).not hing goes right, and even some close friends or relativesof the victimmay sufferfrom the curse. For the remainderofthecurrentgamesession, the cursed ndividualisautomati callyforced totake oneretest on all successfulchallenges.Thus, the cursed personis much morelikely to fail in any sort of task. Alternately, this powercanbestowsomepermanenteffects.Seethe Flaw:Cursed for some additional ideas.If a permanent curseisinvoked, the castersplayer must spend the Humanity Traitpermanently. Laws of the Hunt
 
 ## DIVINATION
 
-<!-- image -->
+The art of for tune-telling all ows its practitioners to uncover clues, discover personal information and make general predictions based on the process of asking a specific question.the discovery of information through this methodrequiresacertain amountofnatural or cultivatedpsychicsensitivity to tapinto the higher consciousnessofthequerent(the person for who m the characterisdoingthereading), toinvoke one's own higher self or to somehow tapinto a for ce of higher energy. the futurecanbeaverydifficultthingtopredictinagameso Storytellersshould limit this powerto discovering information about the present or the past. The combination of psychologicalinterpretive skills and psychic openness all ows a fewgifted mortalstoperceive the truth throughdivination.the character mustchooseamethodofivinationtoractice（Tarotcards Ihing, tealeaves, dc throwingrunecrystalallpningthiblearandomassageflectiveof style appropriate to the character.Typically, Divination requires10minutes of concentration and study, althoughcertainpowersrequiredifferent amounts of time. Eachlevel of Diwination has itsown rituals, as described inthe individual powers. Ifpossible, itenhancestheroleplayingifa Narratorcanbetheonlyonetowitness the challenge, and givethe appropriateanswer to the psychicbased on the outcome. Mostpsychicsareconvincedtheiranswersarecorrectuntilprovenwrong, and noone elsereallyknowsfor sure. The information at a diviner's disposal is verymuch a matter of asking the right questions, and Narratorsmayfeelfreetousetheir discretionn answeringexactly the questionposed, rather than volunteeringunrelated facts. Each useof Divinationrequires the expenditure of at leastone Humanity Trait. ## BASIC
 
-The art of fortune-telling allows its practitioners to uncover clues,discover personal information andmake general predictions based on the process of asking a specific question.Thediscovery ofinformation through thismethodrequiresacertain amountofnatural orcultivatedpsychicsensitivity to tapinto the higher consciousnessofthequerent(theperson forwhom thecharacterisdoingthereading),toinvoke one's own higher self or to somehow tapinto a force of higher energy.
+## for tune-telling you have onlyalimitedknowledgeoftheartofdivination, and have onlylearned toacquirebasicknowledge.you maydiscover the answer toa simpleyes-or-no question.this questionmightbe about you rselforabout a querent participating inthe divination.Examples range from,"do es the querent's sister hate him"to,"do es he know anything about the disappearance of myhusband?" to even,"Is he a vampire?" Alternatlyyoucangetasenseofersonsgeneralfortunesallowingouoll the individual is laboring under some sort of curse or blessing. ## do wsing for tuetellingritualsinclude Tarotreadingcasting Chingorusinga Ouijaoard
 
-ThefuturecanbeaverydifficultthingtopredictinagamesoStorytellersshould limit thispowerto discovering information about the present or the past.
-
-The combination ofpsychologicalinterpretive skills andpsychic openness allows a fewgifted mortalstoperceive the truth throughdivination.Thecharacter mustchooseamethodofivinationtoractice（TarotcardsIhing,tealeaves,dc throwingrunecrystalallpningthiblearandomassageflectiveof style appropriate to the character.Typically,Divination requires10minutes of concentration and study,althoughcertainpowersrequiredifferent amounts of time. Eachlevel ofDiwination has itsown rituals,as described inthe individual powers.
-
-Ifpossible,itenhancestheroleplayingifaNarratorcanbetheonlyonetowitness the challenge,andgivethe appropriateanswer to thepsychicbased on the outcome. Mostpsychicsareconvincedtheiranswersarecorrectuntilprovenwrong,andnoone elsereallyknowsfor sure.
-
-The information at a diviner's disposal isverymuch a matter of asking theright questions,andNarratorsmayfeelfreetousetheir discretionn answeringexactly the questionposed,rather thanvolunteeringunrelated facts.
-
-Each useofDivinationrequires the expenditure of at leastoneHumanityTrait.
-
-## BASIC
-
-## Fortune-telling
-
-Youhaveonlyalimitedknowledgeoftheartofdivination,andhaveonlylearned toacquirebasicknowledge.Youmaydiscover theanswer toa simpleyes-or-no question.Thisquestionmightbe about yourselforabout a querent participating inthe divination.Examples range from,"Does the querent's sister hate him"to,"Does he know anything about the disappearance of myhusband?" to even,"Is he a vampire?" Alternatlyyoucangetasenseofersonsgeneralfortunesallowingouoll the individual is laboring under some sort of curse orblessing.
-
-## Dowsing
-
-FortuetellingritualsincludeTarotreadingcastingChingorusingaOuijaoard
-
-Usingthepropertoolsandformsyoucanfind hiddenorlostmaterialsoreven people.You can geta"pull"in the general direction of an object forwhich you search. Using a map,you can get a long-range direction that indicates an area of the map.
-
-Youneed toengageinaSimpleTest after spendingyourHumanityTrait onthis power.Dowsing thenletsyou geta general sense of direction to theobject ofyour search.Note that youmust use theproperritual;different objects and peoplerequire differentrituals.
-
-Dowsingritualsusuallyuse some sortofpointerrfocuslkeusingaprongedstick to findwater.
-
-## Numthae and Powers
+Usingthepropertoolsandformsyoucanfind hiddenorlostmaterialsoreven people.You can geta"pull"in the general direction of an object for which you search. Using a map, you can get a long-range direction that indicates an are a of the map. you need toengageina Simple Test after spendingyour Humanity Trait onthis power.do wsing the nletsyou geta general sense of direction to the object of you r search.not e that you must use the properritual;different objects and peoplerequire differentrituals. do wsingritualsusuallyuse some sortofpointerrfocuslkeusingaprongedstick to findwater. ## Numthae and Powers
 
 ## INTERMEDIATE
 
 ## Augury
 
-You getageneral feelingfortheoutcomeofasinglefuture event.Bycastingyour Auguryyougainsomeinsightintothedirectionthatthefuturewilltakeandyoumay be ableto alter thecourseof eventswithyourknowledge.You might sense that an arrangedmeetingis actually a trap or thata particularbusiness meeting looks promising.
+You getageneral feelingfortheoutcomeofasinglefuture event.Bycastingyour Auguryyougainsomeinsightintothedirectionthatthefuturewilltakeandyoumay be ableto alter the courseof eventswithyourknowledge.You might sense that an arrangedmeetingis actually a trap or that a particularbusiness meeting looks promising. By expendingone Humanity Trait and enteringa divinatory trance, you can discern the general course of future events.Because you are prepared for what's coming, you have theabilitytoanticipatethegeneralflowofthesetting, and inthe next sceneyou gain oneretest on any one challenge.This benefit maybe applied to multiplechallenges by expending additional Humanity Traits at the time of the Augury.Ifyouenteratranceandexpendthree Humanity Traits, you can retestonany three tests of you rchoice inthenextscene.how ever, you maynotmakemore than oneretestwiththispower on anygivenchallenge. ## Premonitions
 
-By expendingoneHumanityTrait and enteringa divinatory trance,you can discern the general course of future events.Because you are prepared forwhat's coming,youhavetheabilitytoanticipatethegeneralflowofthesetting,andinthe next sceneyou gain oneretest on any one challenge.This benefit maybe applied to multiplechallenges by expending additional HumanityTraits at the time of the Augury.IfyouenteratranceandexpendthreeHumanityTraits,youcanretestonany three tests ofyourchoice inthenextscene.However,youmaynotmakemore than oneretestwiththispower on anygivenchallenge.
-
-## Premonitions
-
-Augury ritualsresembleFortune-tellingrituals but are more complicated.An Augury ritual might be readingpatterns of tea leavesor staring intoflames.
-
-Brief flashes of insightwarnyou of danger.Though uncontrolled,thesevisions allowyoutoreactquicklyintimesofcrisisprotectingyoufrominjuryalmost likea psychic premonition.You need not take any preparation time to gain these visions; Premonitionfunctions automaticallywheneveryou are in danger.
-
-Premonitions do not requirerituals.
-
-Youmay expend oneHumanityTrait anytime that you are surprisedin order to negatethesurprise advantage of your opponent;yourPremonitions giveyoua flash of warning,granting a few seconds of leeway.
-
-## ADVANCED
+Augury ritualsresemble for tune-tellingrituals but are more complicated.An Augury ritual might be readingpatterns of tea leavesor staring into flames. Brief flashes of insightwarnyou of danger.Though uncontrolled, the sevisions all owyoutoreactquicklyintimesofcrisisprotectingyoufrominjuryalmost likea psychic premonition.You need not take any preparation time to gain the se visions; Premonitionfunctions automaticallywheneveryou are in danger. Premonitions do not requirerituals. you may expend one Humanity Trait anytime that you are surprisedin or der to negatethesurprise advantage of you r opponent;you r Premonitions giveyoua flash of warning, granting a few seconds of leeway. ## ADVANCED
 
 ## Vision-Quest
 
-You receive visions of future eventswhen engaging inDivination.The vision showsabriefsnippetoffutureevents,about15secondsindurationforeachHumanity Trait expended(including the initial Trait spent to activate theDivination).Thus,if youspendaHumanityTrait toactivatetheDivinationand thenexpendtwoadditional HumanityTraitstheVision-Questwill showabout45secondsof thefuture.Youmay specify thesubjectof thevision asyourself orsomeoneyouknow,butyou haveno control overwhateventsyou foresee.Furthermore,thevisionisoften unclearor jumpy,anditiseasytomisinterprettheevents.Asthevisionisnotnecessarilylinear, yourpointofviewmay jumpfromeventtoevent,evenoutofchronologicalorder.
-
-Ingametrms,onceyouhave successfullyundertakenaVisionuest,youmay, at somelaterpointnthegame,declarethatyou areexperiencing the events ofyour vision.Youthen automaticallywin all tiesononetest,withnoretestsallowedor each HumanityTrait expended at the time of thevision.Invoking this power on a particularchallengemaybedoneevenafterTraitsarecompared,andcausesyoutowin thetieandimmediatelyendthechallenge(nofurtherretests aremade).Forexample, youcouldgetintoagunfightandthendeclarethatyouforesawtheseevents,allowing you towinatieonaFirearmsChallengeandthen anotheronelaterinthesamescene onaBrawl Challengewhile trying totackle a fleeingopponent.
-
-Laws of the Hunt
+You receive visions of future eventswhen engaging in Divination.The vision showsabriefsnippetoffutureevents, about15secondsindurationforeach Humanity Trait expended(including the initial Trait spent to activate the Divination).Thus, if you spenda Humanity Trait toactivatethe Divinationand the nexpendtwoadditional Humanity Traitsthe Vision-Questwill showabout45secondsof the future.you may specify the subjectof the vision asyourself or someoneyouknow, but you have no control overwhateventsyou for esee.Furthermore, the visionisoften unclearor jumpy, and itiseasytomisinterprettheevents.Asthevisionisnotnecessarilylinear, you rpointofviewmay jumpfromeventtoevent, evenoutofchronologicalorder. Ingametrms, onceyouhave successfullyundertakena Visionuest, you may, at somelaterpointnthegame, declarethatyou are experiencing the events of you r vision.you the n automaticallywin all tiesononetest, with noretestsallowedor each Humanity Trait expended at the time of the vision.Invoking this power on a particularchallengemaybedoneevenafter Traitsarecompared, and causesyoutowin the tieandimmediatelyendthechallenge(nofurtherretests are made).for example, you could getintoagunfightandthendeclarethatyouforesawtheseevents, all owing you towinatieona Firearms Challengeandthen anotheronelaterinthesamescene ona Brawl Challengewhile trying totackle a fleeingopponent. Laws of the Hunt
 
 ## Numinae and Powers
 
-Only oneVision-Quest at a timemaybeactive.You cannot undertake a new Vision-Questuntil the events of thepreviousquest have come topass.
+Only one Vision-Quest at a timemaybeactive.You can not undertake a new Vision-Questuntil the events of the previousquest have come topass. Vision-Questrituals are difficult or deals that tapintohigher consciousness throughelaborateceremony.Examplesinclude the ritualuse of peyote or engagingin a meditative trance.A Vision-Quest generallytakesseveral hours of timetocomplete, though the Storytellermay shorten the timeforeaseof play. ## ENCHANTMENT
 
-Vision-Questrituals are difficult ordeals that tapintohigher consciousness throughelaborateceremony.Examplesinclude theritualuse of peyote orengagingin a meditative trance.A Vision-Quest generallytakesseveral hours oftimetocomplete, though theStorytellermay shorten thetimeforeaseof play.
+This path taps into magical energies to imbue a specially constructed object with minor powers.It all ows awizard to transform natural ingredients and objects into minor talismanswithreal power.Enchantment demandsacertaininvestment of time, effort and material. Only the right ingredientswill do!Talismans and artifacts take one dayperlevel toconcoct, and eachisgoodfora singleuse.they are meant tobe createdbetweensessionsbutafewsuchobjectscouldbepreparedaheadoftimefor a single-shot game.this flexibilitygives the Storyteller and the player time toagree onwhat is being created. Victimsof the darkervarietyof Enchantment-that is, thosesubjectedtopowers cast by an object—are all owed toresist the effect by initiating either a Mental of Physical Challengeagainstthewizard Tosuccessfullycreateanitem, the wizardmust spend a Humanity Trait and make a Static Mental Test(against a difficulty of eight Traits).An unsuccessful talisman may have no effect or an unexpected effect determined bythe Storyteller. Each type of enchanted object requires its own ritual.the basic powers of Enchantment are the or etical knowledge, indicating the limits of the enchanter's possible capabilities.Actually making a talisman requires that the wizard possess the proper ritual to imbue the object in question.Furthermore, activating a talisman usuallyrequires that certain conditions be met.More potent talismans usuallyhavemore stringent conditions.Asimple talisman may justgrant one temporary Negative Trait or require a minor action;powerful talismans might function only duringeclipses, when bathedwithblood or under other onerous circumstances. the wizard is considered two Traitsup on the Enchantment challengeif it is an itemshehasmadebefore.Additionally, anenchantermaygaina one Traitbonusif she actuallybuilds aproptorepresent the object inquestion(as long as she adheres to the No-Weaponspolicy). ## BASIC
 
-## ENCHANTMENT
+## Minor Talisman you can createobjects and dustswhichperformveryminoreffectsaslongasthe subject stayswithin the bounds of the talisman's limitations.Aminor talisman can add one Trait to certain exacting tests or conditions.Thus, anenchanted ribbon mightbe able togrant onebonus Physical Traitwhen attemptingto leap acrossa chasm, but onlyifthewearerhasitabouthisfeet(gainingthe Negative Trait Clumsy) or a specialtypeofincense that awakens the user immediatelyfrom slumberif threatenedbut has an overpowering scent and dark smoke(givingthe Negative Trait Oblivious).Ingeneral, the setalismanshaveminoreffects, eitheraddinga single Trait for a challenge or simulating a one-Trait Merit for a single task. ## Laws of the Hunt
 
-This path taps intomagical energies to imbue a specially constructed object with minor powers.It allows awizard to transform natural ingredients andobjects into minor talismanswithreal power.Enchantment demandsacertaininvestment of time, effort and material. Only theright ingredientswill do!Talismans and artifacts take one dayperlevel toconcoct,and eachisgoodfora singleuse.They aremeant tobe createdbetweensessionsbutafewsuchobjectscouldbepreparedaheadoftimefor a single-shot game.Thisflexibilitygives theStoryteller and theplayer time toagree onwhat isbeing created.
+## Charms and or naments with practice, it'spossibletodeveloptalismansthatgrantlonger-lastingeffects than mostminorobjects.Such a talismanmightbean amuletthatgrants are test against onemagicaleffect, or perhaps aknife that inflicts two Health Levelsofdamage with itsfirststrikein anygivenbattle.the se talismans usuallygrant one Trait for a scene, or all owthe useofa particular one-or two-Trait Merit for a single challenge. ## INTERMEDIATE
 
-Victimsof thedarkervarietyofEnchantment-thatis,thosesubjectedtopowers cast by an object—are allowed toresist the effect by initiating either a Mental of PhysicalChallengeagainstthewizardTosuccessfullycreateanitem,thewizardmust spend a HumanityTrait andmake aStaticMental Test(against a difficulty of eight Traits).An unsuccessful talisman may have no effect or an unexpected effect determined bytheStoryteller.
+## Potent Talisman you can nowmake talismans that confer minor supernatural powers(such as one useof anyofthe Basic Psychic Phenomena)or anoil torubonto aweaponsothatit inflicts aggravated damage on itsnext strike.the itemperforms a clearlyunusual function, and onlookersmaybemystified attheobject'spowers.Ingeneral, assume that the setalismans addone Traitforasceneortwo Traitsforachallengeifspecifically designedto augment an Attribute, or they can all ow one use of an Ability or Basic power that is otherwisedenied tothe user. ## Amuletsand Periapts
 
-Each type of enchanted object requires its own ritual.Thebasic powers of Enchantment are theoretical knowledge,indicating thelimits of theenchanter's possible capabilities.Actually making a talisman requires that thewizard possess the proper ritual to imbue the object in question.Furthermore, activating a talisman usuallyrequires that certain conditions be met.More potent talismans usuallyhavemore stringent conditions.Asimple talisman may justgrant one temporary NegativeTrait or require a minor action;powerful talismans might function only duringeclipses,whenbathedwithblood or under other onerous circumstances.
+Talismanscreatedwith this level of ability defy the bounds of the mundane world.Such a talismanduplicatesmany minormagical effects or performsmundane tasks quickly and simply.A set of enchanted glasses might all ow the wearer tosee the invisible, while magical gloves could bestow superior gripping and climbing strength. the setalismanstendtoaddtwo Traitswhilewornorthree Traitsforascene, and they maybestow Basicpowersofvariousnaturesforalimitedduration. ## ADVANCED
 
-Thewizard is considered twoTraitsup on theEnchantment challengeif it is an itemshehasmadebefore.Additionally,anenchantermaygaina oneTraitbonusif she actuallybuilds aproptorepresent the object inquestion(as long as she adheres to theNo-Weaponspolicy).
+## Superior Talisman the searethemagicalitemsoflegendflyingbrooms, magicdaggers, protective amulets and other impossible(or at leastimprobable)magicalitems.the se items all owtheusertodefyconventionalrealityforascene.with suchatalisman, auser maygainthreetofour Physical, ocialor Mental Traitsorhemayhealorinflictone Health Level of damage.Amagic sword might always inflict two Health Levels of damage, or a special hairpin could grant three additional Social Traits.to the wearer. At this stage, you can create items that bestow powers resembling Basic or Intermediatevampiric Disciplines, were wolf Gifts or otherpowers.the se items can onlybestowasingleuseorlimitedduration, ratherthanthecompleteeffectsofthe power.Asalwaysworkcloselywitha Storytellertodeterminetheexacteffectsof the item and the powers that it do es(and do es not) possess. ## EPHEMERA
 
-## BASIC
+This path all ows a sorcerer toopen herself to spirit channels.the nature of the spirits she contacts depends on the rituals the wizardknows.this pathdoesnot differentiate between types of spirits;breaching the Gauntlet tospeakwithnature spirits is as difficult as the rending the Shroud tocontactwraiths.not e that even the wizard herselfmightnotrealize which spirits she deals with.Amateur wizards frequently get the mselves in trouble this way, opening the mselves to Banes or worse. Spirits, how ever, have mindsoftheirown.If the yhavesomereasontomislead possessorabusethemagician, the ymaytry.Others are simplymischievous, and they maylead the wizard into gamesfor the irown amusement. ## Numinae and Powers
 
-## MinorTalisman
+Ephemera differs from the Merit:Medium in that itrequireslengthy rituals to function, though Ephemeracanfunctionallyaccomplishmore.Mediums, ontheother hand, do not needtoputtheirpersonalenergiesintothetaskofcontactingspiritsbut are limited todealingwithspiritsthatare at hand.Many ephemerists are alsomediums. Sorcerersmay combinetheireffortswhenworkingagainstparticularlypowerful spirits.Insuchacase, eachadditionalsorcerercanaddone will power Traittothepool of Traitswhen engaging in challenges to control or banish a targeted spirit.In this fashion, anexperienced sorcerer(with several will power Traits)can call on the aid of multiplecolleaguesinordertohaveachancetobindorrepelverypowerfulspirits. Aswith any group effort, nomore than five sorcerersmay contribute to any one challenge (the primary caster and four assistants). Performingany Ephemeraritualrequirestheexpenditureofa Humanity Traitand a successful Social Challenge against the spirit inquestion, unless otherwisenoted. Rituals that do not directly target a particular spirit are insteadcastwith a Static Challenge, versusa difficultybasedonthe sorcerer's Ephemera skillmore powerful sorcererscan cast the ireffectsmore easily. If the wizard is inpossession of awraith'sfetter, sheisconsideredtohavetwo additional Traitsfor any challenge against that wraith. Since Ephemera dealsso heavilywith spirits, the Storyteller should have the appropriate resources on hand.See Laws of the Wild for information aboutnature spiritsand Oblivionfor statisticsonwraiths. ## EPHEMERARITUALS
 
-Youcancreateobjects anddustswhichperformveryminoreffectsaslongasthe subject stayswithin thebounds of the talisman's limitations.Aminor talisman can add oneTrait to certain exacting tests or conditions.Thus,anenchanted ribbon mightbe able togrant onebonusPhysicalTraitwhen attemptingto leap acrossa chasm,butonlyifthewearerhasitabouthisfeet(gainingtheNegativeTraitClumsy) ora specialtypeofincense thatawakens the user immediatelyfrom slumberif threatenedbut hasan overpowering scent and dark smoke(givingtheNegativeTrait Oblivious).Ingeneral,thesetalismanshaveminoreffects,eitheraddinga singleTrait fora challenge or simulating a one-TraitMerit for a single task.
+## Banishment/for biddance(Basic)
 
-## Laws of the Hunt
-
-## Charms and Ornaments
-
-Withpractice,it'spossibletodeveloptalismansthatgrantlonger-lastingeffects thanmostminorobjects.Such a talismanmightbean amuletthatgrants aretest against onemagicaleffect,orperhaps aknife thatinflicts twoHealthLevelsofdamage withitsfirststrikein anygivenbattle.These talismans usuallygrant oneTrait for a scene,or allowthe useofa particular one-or two-TraitMerit fora single challenge.
-
-## INTERMEDIATE
-
-## Potent Talisman
-
-Youcannowmake talismans thatconfer minor supernatural powers(such as one useof anyoftheBasicPsychicPhenomena)oranoil torubonto aweaponsothatit inflicts aggravated damage on itsnext strike.Theitemperforms a clearlyunusual function,andonlookersmaybemystified attheobject'spowers.Ingeneral,assume thatthesetalismans addoneTraitforasceneortwoTraitsforachallengeifspecifically designedto augment anAttribute,or they can allow one use of anAbility orBasic power that is otherwisedenied tothe user.
-
-## AmuletsandPeriapts
-
-Talismanscreatedwith this level of ability defy thebounds of themundane world.Such a talismanduplicatesmany minormagical effects orperformsmundane tasks quickly and simply.A set of enchanted glasses might allow the wearer tosee the invisible,while magical gloves could bestow superior gripping and climbing strength. ThesetalismanstendtoaddtwoTraitswhilewornorthreeTraitsforascene,andthey maybestowBasicpowersofvariousnaturesforalimitedduration.
-
-## ADVANCED
-
-## SuperiorTalisman
-
-Thesearethemagicalitemsoflegendflyingbrooms,magicdaggers,protective amulets and other impossible(or at leastimprobable)magicalitems.These items allowtheusertodefyconventionalrealityforascene.Withsuchatalisman,auser maygainthreetofourPhysical,ocialorMentalTraitsorhemayhealorinflictone HealthLevel of damage.Amagic sword might always inflict two HealthLevels of damage,ora special hairpin could grant three additional SocialTraits.to thewearer.
-
-At this stage,you can create items that bestow powers resembling Basic or IntermediatevampiricDisciplines,werewolf Gifts orotherpowers.These items can onlybestowasingleuseorlimitedduration,ratherthanthecompleteeffectsofthe power.AsalwaysworkcloselywithaStorytellertodeterminetheexacteffectsof the item and thepowers that it does(and does not) possess.
-
-## EPHEMERA
-
-This path allows a sorcerer toopen herself to spirit channels.Thenature of the spirits she contacts depends on therituals thewizardknows.Thispathdoesnot differentiate between types of spirits;breaching the Gauntlet tospeakwithnature spirits is as difficult as therending theShroud tocontactwraiths.Note that even the wizard herselfmightnotrealize which spirits she deals with.Amateur wizards frequently get themselves in trouble thisway,opening themselves toBanes orworse.
-
-Spirits,however,havemindsoftheirown.If theyhavesomereasontomislead possessorabusethemagician,theymaytry.Others are simplymischievous,and they maylead thewizard intogamesfor theirown amusement.
-
-## Numinae and Powers
-
-Ephemera differs from theMerit:Medium in thatitrequireslengthy rituals to function,thoughEphemeracanfunctionallyaccomplishmore.Mediums,ontheother hand,donotneedtoputtheirpersonalenergiesintothetaskofcontactingspiritsbut arelimited todealingwithspiritsthatare at hand.Many ephemerists are alsomediums.
-
-Sorcerersmay combinetheireffortswhenworkingagainstparticularlypowerful spirits.Insuchacase,eachadditionalsorcerercanaddoneWillpowerTraittothepool ofTraitswhen engaging in challenges to control or banish a targeted spirit.In this fashion,anexperienced sorcerer(withseveral WillpowerTraits)cancall on the aid ofmultiplecolleaguesinordertohaveachancetobindorrepelverypowerfulspirits. Aswith any group effort,nomore thanfive sorcerersmay contribute to any one challenge (the primary caster and four assistants).
-
-PerforminganyEphemeraritualrequirestheexpenditureofa HumanityTraitand a successful Social Challenge against the spirit inquestion,unless otherwisenoted. Rituals that donot directly target a particular spirit are insteadcastwith aStatic Challenge,versusa difficultybasedonthe sorcerer'sEphemera skillmore powerful sorcererscan cast theireffectsmore easily.
-
-If thewizard isinpossession of awraith'sfetter,sheisconsideredtohavetwo additionalTraitsfor any challenge against thatwraith.
-
-SinceEphemera dealsso heavilywith spirits,the Storyteller should have the appropriate resources on hand.SeeLaws of theWild for information aboutnature spiritsandOblivionfor statisticsonwraiths.
-
-## EPHEMERARITUALS
-
-## Banishment/Forbiddance(Basic)
-
-Wraiths canbepushed outof an areathroughtheuseofForbiddance.Similarly, naturespirits canbeforced awaywithBanishment.TheephemeristmustmakeaSocial Challenge against the wraith or spirit,as usual; success indicates that the target is banishedfromtheroomorareawhenndoubt,assumethatthespiritmust stayatlast 10feet awayfrom theareawhere the sorcerercast theBanishment orForbiddance).
-
-These rituals allow you to summonghosts (wraiths) and nature spirits (naturae). SuccessfuluseoftheCall Wraithritualmeansthatsomethingcomesinresponsetoyour call.Youmust specifythetype of ritual thatyou know as eitherCall WraithorCall Naturae;only spiritsof theappropriatetyperespondRememberthat thisritual does notgrant any ability to control what you summon.
-
-## Call Spirit(Basic)
+Wraiths can bepushed outof an are athroughtheuseof for biddance.Similarly, naturespirits can beforced awaywith Banishment.the ephemeristmustmakea Social Challenge against the wraith or spirit, as usual; success indicates that the target is banishedfromtheroomorareawhenndoubt, assumethatthespiritmust stayatlast 10feet awayfrom the are awhere the sorcerercast the Banishment or for biddance). the se rituals all ow you to summonghosts (wraiths) and nature spirits (naturae). Successfuluseofthe Call Wraithritualmeansthatsomethingcomesinresponsetoyour call.you must specifythetype of ritual that you know as either Call Wraithor Call Naturae;only spiritsof the appropriatetyperespond Rememberthat this ritual do es not grant any ability to control what you summon. ## Call Spirit(Basic)
 
 ## Seal/Warding(Basic)
 
 ## See Spirit(Basic)
 
-Wardingprotects an areafromwraiths,while aSealprotects a locationfrom nature spirits.Settingup a spiritualwardrequires that theephemerist delineate the protectedareawithsomesortofpecialmaterialorceremonybeitapaintedsigila salt orasimpleprayer.The sorcerermust thenexpendaWillpowerTrait.OnceaWard orSeal isenacted,nopiritof theappropriatetypecanenter the areaforaweek.
-
-Anephemeristnormally can't see the spiritswithwhichshe deals,unless she possessestheapropriateMritTheseitualsallowyoutmakespiritvisibleohat youcantellwhatyou'redealingwith.Notethattheabilitytoseea spiritdoesnot translateinto theability torecognizeit;awraithornature spiritmight take an altered formtohideitstrueidentity,andthisritualdoesnotgrantanyabilitytoseethrough suchmasks.SeeWraith andSeeNaturae must belearned separately.
-
-## Laws of the Hhunt
+Wardingprotects an are afromwraiths, while a Sealprotects a locationfrom nature spirits.Settingup a spiritualwardrequires that the ephemerist delineate the protectedareawithsomesortofpecialmaterialorceremonybeitapaintedsigila salt or asimpleprayer.The sorcerermust the nexpenda will power Trait.Oncea Ward or Seal is enacted, nopiritof the appropriatetypecanenter the are aforaweek. Anephemeristnormally can't see the spiritswithwhichshe deals, unless she possessestheapropriate Mrit the seitualsallowyoutmakespiritvisibleohat you can tellwhatyou'redealingwith.not ethattheabilitytoseea spiritdoesnot translateinto the ability torecognizeit;awraithornature spiritmight take an altered for mtohideitstrueidentity, and this ritualdoesnotgrantanyabilitytoseethrough suchmasks.See Wraith and See Naturae must belearned separately. ## Laws of the Hhunt
 
 ## Command Spirit(Intermediate)
 
-## Deny theVeil(Intermediate)
+## Deny the Veil(Intermediate) this powerfulritualwhichonlyfunctionsonnaturepiritsallowsthphemri todemandservicefromthesubject.the ephemeristmustbest the targeted spirit in a Social Challenge, and the nmust have more will power Traitsthan the spirit.Ifthe powersucceeds, the ephemeristcangivethespiritasinglecommand, which mustbe obeyed(for the rest of the session). Indiscriminate use of this power tends to give an ephemeristmanyspiritualenemiessincemostspiritsdislikebeingcommandedinthis fashion.Greaterspiritsmay intervene if the ir lesser servitors are distractedtoooften. Apowerful ephemeristcanactuallyseebeyondthecurtainof the livingworld, extendingsight(and perhaps othersenses)into the spiritrealmsorthelandsofthe dead.Each of the spiritworldsrequires a differentritual;Deny the Spirit Veil all ows the ephemeristtoseeintothenaturalspiritworld(alsocalledthe Umbra), while Deny the Restless Veilgrantsvisionintothe Shadowlands, the decayingreflectionofreality that is hauntedbywraiths.this rituallastsforthedurationofthescene.Sensationinto one of the otherworldsbymeansof this magicdoesnotprecludethe ephemerist'suse of senses inthematerialworld.that is, anephemeristusingthisritual toseeintothe Shadowlands can still seein the livingworld aswell. ## do lor(Intermediate)
 
-Thispowerfulritualwhichonlyfunctionsonnaturepiritsallowsthphemri todemandservicefromthesubject.Theephemeristmustbest thetargeted spirit in aSocial Challenge,and thenmust havemoreWillpowerTraitsthan thespirit.Ifthe powersucceeds,theephemeristcangivethespiritasinglecommand,whichmustbe obeyed(for therest of the session). Indiscriminate use of this power tends to give an ephemeristmanyspiritualenemiessincemostspiritsdislikebeingcommandedinthis fashion.Greaterspiritsmay intervene if their lesser servitors are distractedtoooften.
-
-Apowerful ephemeristcanactuallyseebeyondthecurtainof thelivingworld, extendingsight(andperhaps othersenses)intothespiritrealmsorthelandsofthe dead.Each of the spiritworldsrequires a differentritual;Deny theSpiritVeil allows theephemeristtoseeintothenaturalspiritworld(alsocalledtheUmbra),whileDeny theRestlessVeilgrantsvisionintotheShadowlands,thedecayingreflectionofreality thatishauntedbywraiths.Thisrituallastsforthedurationofthescene.Sensationinto one of theotherworldsbymeansof thismagicdoesnotprecludethe ephemerist'suse of senses inthematerialworld.Thatis,anephemeristusingthisritual toseeintothe Shadowlands can still seein the livingworld aswell.
-
-## Dolor(Intermediate)
-
-The use of Dolor allows anephemerist tostrike anunruly oruncooperative spirit, inflicting spiritual damage directly.Such an attackrequires a Mental (not Social) Challenge against the targetspirit.Success indicatesthat the spirit suffers one level of damage.Ofcourseitsalwaysagoodideatomakesurethatyoucandefendyourself from thecounterattack ofagiven spirit ifyou decidetouse thismeansof"persuasion."
+The use of do lor all ows anephemerist tostrike anunruly or uncooperative spirit, inflicting spiritual damage directly.Such an attackrequires a Mental (not Social) Challenge against the targetspirit.Success indicatesthat the spirit suffers one level of damage.of courseitsalwaysagoodideatomakesurethatyoucandefendyourself from the counterattack of agiven spirit ifyou decidetouse this meansof"persuasion."
 
 ## Gossip (Intermediate)
 
-By meansof thespiritualgossipingrituals,anephemerist spreadsword among variousspiritsknown toher.Asalways,theritualmustbeseparatelyresearchedforuse withwraithsornaturae.Ineithercase,theephemeristmaychoosetosendashort(one sentence)message to any spiritsknown to herthat are of the appropriatetype. Whetherornotthepiritsrespondtothsmessagenanyfashionisfcourseu the spirits in question.
+By meansof the spiritualgossipingrituals, anephemerist spreadsword among variousspiritsknown toher.Asalways, the ritualmustbeseparatelyresearchedforuse with wraithsornaturae.Ineithercase, the ephemeristmaychoosetosendashort(one sentence)message to any spiritsknown to herthat are of the appropriatetype. Whetherornotthepiritsrespondtothsmessagenanyfashionisfcourseu the spirits in question. ## Grasp Wraith(Intermediate)
 
-## GraspWraith(Intermediate)
+Aspecializedspiritualritualcancausetheephemeristtobecomeafocalpointfor awraith.this ritual causes the ephemeristtobecome a Fetter for the wraithfor a periodofaweek.ngeneral, the wraithwilltrytoprotect the ephemerist, and itmay waitnearbyjustincasemattersget outof hand.See Oblivionformoreinformation aboutwraiths and Fetters in Mind's Eye the atre. ## Distant Call (Advanced) with a successful Social Challenge, you can callaspiritfromthefarrealmsof existence.Mostephemeristsdealonlywithwraiths inthe Shadowlandswhichmirror the livingworld, or with nature spirits in the Penumbra that likewisereflects the mortalrealm.this powerallowsthemediumtosendacallouttoaspirit that has passed into fartherrealms (such as a wraith in the Tempest, or a spirit in the Deep Umbra), althoughthereisnoguarantee that the spiritwillanswer the summons.Stillif the ephemeristhasdealtfavorablywiththespiritnthepast, henthespiritislikelyo respond, if only out of curiosity. ## BASIC
 
-Aspecializedspiritualritualcancausetheephemeristtobecomeafocalpointfor awraith.Thisritual causes the ephemeristtobecome aFetter for thewraithfor a periodofaweek.ngeneral,thewraithwilltrytoprotect the ephemerist,anditmay waitnearbyjustincasemattersget outof hand.SeeOblivionformoreinformation aboutwraiths andFetters inMind'sEyeTheatre.
+## Seance you open you rself tonearby spirits and can even get the attentionof spiritswith which you are familiar.what the spiritsdoisupto the m, thoughasuccessful Social Challenge makesthemmorepredisposed to obeyingyou.You stillneed the appropri ateritualstocommunicatewiththespirits, of course, thoughingeneral, wraithsare aware of you evenifyoudon'tnoticethem. You alsofeel the presence of spirits just as ifyou possessed the Merit:Shiwers.At this level, you can onlyuseritualstocallwraithsorto Wardareasortoexpelwraiths with for biddance.You have nocontrol overwhat(or who m), exactly, you summon. you rdifficultyforall Static Challengesof Ephemeraisnine Traits, soitmaytakesome realworkforyou to accomplish anything. ## Communion
 
-## Distant Call (Advanced)
+Anephemerist atthisbasiclevelofdevelopment has arudimentarycapabilityfor communicationwithspiritsofalltypes.Althoughyou mustrelyon cajoling and compromisetogainfavorsfromspiritsyouareatleastcapableofseeingandcalling on a widerange of spirit entities. you can usetheadditionalasicritualsf See Spiritand Call Spiritevenaffecting naturae at this level.You can learn Sealand Banishment soas todefendagainstnature spiritsaswelltillourdiffultyortatic Challengefheeraisigha meaningthat althoughyour abilities are the or etically expansive, they are unreliable. ## INTERMEDIATE
 
-Witha successfulSocialChallenge,youcancallaspiritfromthefarrealmsof existence.Mostephemeristsdealonlywithwraiths intheShadowlandswhichmirror the livingworld,orwith nature spirits in thePenumbra that likewisereflects the mortalrealm.Thispowerallowsthemediumtosendacallouttoaspirit thathaspassed into fartherrealms (such as a wraith in theTempest,or a spirit in theDeep Umbra), althoughthereisnoguarantee thatthe spiritwillanswer thesummons.Stillif the ephemeristhasdealtfavorablywiththespiritnthepast,henthespiritislikelyo respond, if only out of curiosity.
+## Spirit Influence you rmediumshiptalentsarewell-developed, and when you call, somethingalmost alwayscomesoucannownjurepiritthatcauseyoutroubleandyourcallingrituals can nowtargetspecificspiritsbyname, insteadofrandomly attractingentities. you can learnandusetheritualof do lorand Gosspatthislevelofpowernaddiion toallofthe Basicrituals.you rdifficultyforany Static Challengeof Ephemera is seven Traits. ## Spirit Vision
 
-## BASIC
+Powefulinspirityouarecapableofcompellingtheobedienceoutof the spiris that you summon;you can evenseeacrossthewall between the material and spirit worlds.Spiritsknowyourname, and they mayeventrytocontactyouforfavorsor advicewhenyou do n'tcall onthem directly. At this levelofpower, you can learntheritualsof Grasp Wraith, Command Spirit, and Denythe Veilnadditiontoalloftheother Basicand Intermediaterituals. you r difficulty for all Static Challenges of Ephemera is only six Traits. ## ADVANCED
 
-## Seance
+## Piercethe Veil
 
-<!-- image -->
-
-Youopen yourself tonearby spirits and caneven get the attentionof spiritswith whichyou arefamiliar.Whatthespiritsdoisupto them,thoughasuccessful Social Challenge makesthemmorepredisposed to obeyingyou.You stillneed the appropri ateritualstocommunicatewiththespirits,ofcourse,thoughingeneral,wraithsare aware ofyou evenifyoudon'tnoticethem.
-
-You alsofeel thepresence of spirits just as ifyou possessed theMerit:Shiwers.At thislevel,youcanonlyuseritualstocallwraithsortoWardareasortoexpelwraiths withForbiddance.You havenocontrol overwhat(orwhom),exactly,you summon. YourdifficultyforallStaticChallengesofEphemeraisnineTraits,soitmaytakesome realworkforyou to accomplish anything.
-
-## Communion
-
-Anephemerist atthisbasiclevelofdevelopment hasarudimentarycapabilityfor communicationwithspiritsofalltypes.Althoughyou mustrelyon cajoling and compromisetogainfavorsfromspiritsyouareatleastcapableofseeingandcalling on a widerange of spirit entities.
-
-YoucanusetheadditionalasicritualsfSeeSpiritandCallSpiritevenaffecting naturae at thislevel.You can learnSealandBanishment soas todefendagainstnature spiritsaswelltillourdiffultyortaticChallengefheeraisigha meaningthat althoughyour abilities are theoretically expansive,they are unreliable.
-
-## INTERMEDIATE
-
-## SpiritInfluence
-
-Yourmediumshiptalentsarewell-developed,andwhenyoucall,somethingalmost alwayscomesoucannownjurepiritthatcauseyoutroubleandyourcallingrituals cannowtargetspecificspiritsbyname,insteadofrandomly attractingentities.
-
-YoucanlearnandusetheritualofDolorandGosspatthislevelofpowernaddiion toalloftheBasicrituals.YourdifficultyforanyStaticChallengeofEphemera issevenTraits.
-
-## SpiritVision
-
-Powefulinspirityouarecapableofcompellingtheobedienceoutof thespiris thatyou summon;you can evenseeacrossthewall between thematerial andspirit worlds.Spiritsknowyourname,andtheymayeventrytocontactyouforfavorsor advicewhenyou don'tcall onthem directly.
-
-At thislevelofpower,youcanlearntheritualsof GraspWraith,Command Spirit,andDenytheVeilnadditiontoalloftheotherBasicandIntermediaterituals. Your difficulty for all StaticChallenges of Ephemera is only sixTraits.
-
-## ADVANCED
-
-## PiercetheVeil
-
-Nospiritisbeyondthereachofyourpower.Althoughyoumustbecautiousin yourdealingswithparticularlyowerfulspiritsyoucansendoutmessagestospiritsfar beyondthemortalrealms.Weakerspiritsmayaidyousimplytocurryfavor,buthostile spirits are more likely to hunt you down,seeing you as a danger.
-
-AllritualsofEphemera areavailabletoyouatthislevel.YourdifficultyforStatic Challenges of Ephemera is fiveTraits.You have truly masteredyour craft.
-
-√
-
-<!-- image -->
+Nospiritisbeyondthereachofyourpower.Althoughyoumustbecautiousin you rdealingswithparticularlyowerfulspiritsyoucansendoutmessagestospiritsfar beyondthemortalrealms.Weakerspiritsmayaidyousimplytocurryfavor, but hostile spirits are more likely to hunt you do wn, seeing you as a danger. all ritualsof Ephemera are availabletoyouatthislevel.you rdifficultyfor Static Challenges of Ephemera is five Traits.You have truly masteredyour craft. √
 
 ## HEALING
 
-This path allows a magician to quell pain or even heal small injuries or illnesses. Suchhealingisnot an instant cure-all;it takesa longtime totreat anillness orinjury, andlongerstill for thepatienttoheal completely.(SeeChapterFourfordetailson accelerated healing.)Magical healersoftenhave astrong senseof duty and compas sion,and thetraumasof theWorldofDarknesscan use upsuchpeoplelongbefore theirtime.Each ailmenttreatedcosts oneHumanityTraitand oneWillpowerTrait toaffect.Thispath cannot healaggravatedwounds.
+This path all ows a magician to quell pain or even heal small injuries or illnesses. Suchhealingisnot an instant cure-all;it takesa longtime totreat anillness or injury, and longerstill for the patienttoheal completely.(See Chapter Fourfordetailson accelerated healing.)Magical healersoftenhave astrong senseof duty and compas sion, and the traumasof the Worldof Darknesscan use upsuchpeoplelongbefore the irtime.Each ailmenttreatedcosts one Humanity Traitand one will power Trait toaffect.this path can not healaggravatedwounds. ## HEALING RITUALS
 
-## HEALING RITUALS
+## Break Infections(Basic)
 
-## BreakInfections(Basic)
+Separate from diseases, infections are conditions that resultwhen an injury becomesinflamed.Secondaryinfectionsclaimthelivesofmost peoplewithuntreated injurieandwithouthisitualnctionmaywellsetnf the ealeoesnmanag torepair otherinjuriesrapidlyenough. ## Cure Diseases (Basic)
 
-Separate from diseases,infections are conditions that resultwhen an injury becomesinflamed.Secondaryinfectionsclaimthelivesofmost peoplewithuntreated injurieandwithouthisitualnctionmaywellsetnf theealeoesnmanag torepair otherinjuriesrapidlyenough.
+A healerwhospecializes in curing diseasecanmitigatefeversandfightback the symptoms of disease.Particularly powerful healers can evencure dangerous diseases with a great deal of work.The healer's level of power determineswhat severity of diseases may be cured. ## Heal Open Wounds(Basic) the seformsof ritual letthehealerdeal with damageintheformof surfaceinjury: Cuts, gunshots and abrasions all fall into this category. ## Repair Internal Trauma(Basic)
 
-## Cure Diseases (Basic)
+Internal injuries, sprains and brokenbonesfall underthepurviewof this ritual. the healerdoesntnecessarilyhavetoseetheinjuryinordertocureit, and mostsuch injuriesrequire agreat dealoftimetoheal duetotheir severity, but the healers abilities can of ten helppeople injured in falls or collisions. ## Treat Chronic Ailments(Basic)
 
-A healerwhospecializes in curing diseasecanmitigatefeversandfightback the symptoms of disease.Particularly powerful healers canevencure dangerous diseases with a great deal ofwork.The healer's level of power determineswhat severity of diseases may be cured.
-
-## Heal OpenWounds(Basic)
-
-Theseformsof ritual letthehealerdeal withdamageintheformof surfaceinjury: Cuts, gunshots and abrasions all fall into this category.
-
-## Repair Internal Trauma(Basic)
-
-Internal injuries,sprains andbrokenbonesfall underthepurviewof thisritual. Thehealerdoesntnecessarilyhavetoseetheinjuryinordertocureit,andmostsuch injuriesrequire agreat dealoftimetoheal duetotheir severity,but thehealers abilities can often helppeople injured in falls or collisions.
-
-## Treat ChronicAilments(Basic)
-
-"Chronic ailmentsincludeasthma,arthritis and diabetes.With this ritual,the healercanbanishpainorfatigueresultingfromsuchproblemsorevencurethemwith sufficienteffort.
-
-## BASIC
+"Chronic ailmentsincludeasthma, arthritis and diabetes.With this ritual, the healercanbanishpainorfatigueresultingfromsuchproblemsorevencurethemwith sufficienteffort. ## BASIC
 
 ## Soothing Touch
 
-At this levelofmastery,you have learned how to easepains andtreat infections and diseases.UsingaSoothingTouch on an appropriateinjury alleviates pain,sothattheindividualnolongersuffersanywoundpenaltiesfromthedamage (up to theWounded Health Level) for theremainder of the scene.You cannot actuallyspeed thehealingof injury，butyou cankeepthesubjectfrom suffering through the process.
-
-Youcantreatanyminorinjuryfromaspraintoafluwiththeappropriaterituals healing inless than the normal time.In game terms,yourcharacter can cause an individual toheal fromtheBruised HealthLevelatanacceleratedrate.Youmust use the appropriateritual to speed thehealing process;the Heal OpenWounds ritual will not speed the healing of damagefrom a broken bone,for instance.
-
-## Minor Healing
+At this levelofmastery, you have learned how to easepains and treat infections and diseases.Usinga Soothing Touch on an appropriateinjury all eviates pain, sothattheindividualnolongersuffersanywoundpenaltiesfromthedamage (up to the Wounded Health Level) for the remainder of the scene.You can not actuallyspeed the healingof injury，but you can keepthesubjectfrom suffering through the process. you can treatanyminorinjuryfromaspraintoafluwiththeappropriaterituals healing inless than the normal time.In game terms, you rcharacter can cause an individual toheal from the Bruised Health Levelatanacceleratedrate.you must use the appropriateritual to speed the healing process;the Heal Open Wounds ritual will not speed the healing of damagefrom a broken bone, for instance. ## Minor Healing
 
 ## Laws of the Hunt
 
 ## INTERMEDIATE
 
-## Restoration
-
-Withtherightritualsyoucantakecareof fairlyseriouswounds andnastycolds orfairlydangerousdiseaseslikepneumonia.Youcanspeed upthe healingrate of any injuryuptotheWoundedHealthLevelwiththerightrituals.Additionallyyoucan immediatelybring anIncapacitatedcharactertoconsciousness,andevenhelpher hobble about,althoughshestill suffers thenormalpenaltiesfrom theinjuries.
-
-Chronicdiseasesarenotbeyondyourcare,althoughhealingthemtakeshoursorweeks. Brokenbonesandseveretraumahealmuchfasterthannormalandyourtouchbanishesall but theworstpain.Youcanspeed thehealingofanywoundsuptotheIncapacitatedlevel, aslong as youhavetheproperrituals;suchwoundsheal at a greatly accelerated rate.
-
-## Major Healing
+## Restoration with the rightritualsyoucantakecareof fairlyseriouswounds and nastycolds or fairlydangerousdiseaseslikepneumonia.you can speed upthe healingrate of any injuryuptothe Wounded Health Levelwiththerightrituals.Additionallyyoucan immediatelybring an Incapacitatedcharactertoconsciousness, and evenhelpher hobble about, althoughshestill suffers the normalpenaltiesfrom the injuries. Chronicdiseasesarenotbeyondyourcare, althoughhealingthemtakeshoursorweeks. Brokenbonesandseveretraumahealmuchfasterthannormalandyourtouchbanishesall but the worstpain.you can speed the healingofanywoundsuptothe Incapacitatedlevel, aslong as you have theproperrituals;suchwoundsheal at a greatly accelerated rate. ## Major Healing
 
 ## ADVANCED
 
-## Cure All
+## Cure All with ffrtucanolackeadlynditincancerningitis —though it takes a lot out of you and requiresweeks of treatment.the se diseasesare sent into remissionor the ir raumatic effects are lessened.Brokenbones and majortrauma eal afteronlyone tothreeweeksofcare, and infectionposesnoriskaslongasyouareonthejob. Topermanentlycure deadlyconditionsuchascancer, meningitis and evenAIDS, requirestheexpenditureofapermanent will power Trait, and usuallynecessitatesweeks of careandtreatment AsalwaysyoumustossesstheappropriateritualsoADcan onlybecuredifyouknowthe Cure Diseasesritual.you accelerate the rateof healingfor anyoneunderyourcare, atanylevelofnjury, althoughyoucantbringbackthedead. ## HERBALISM
 
-Withffrtucanolackeadlynditincancerningitis —though it takes a lot out of you andrequiresweeks of treatment.These diseasesare sent intoremissionor their raumatic effects arelessened.Brokenbones andmajortrauma eal afteronlyone tothreeweeksofcare,andinfectionposesnoriskaslongasyouareonthejob.
-
-Topermanentlycure deadlyconditionsuchascancer,meningitis andevenAIDS, requirestheexpenditureofapermanentWillpowerTrait,andusuallynecessitatesweeks ofcareandtreatmentAsalwaysyoumustossesstheappropriateritualsoADcan onlybecuredifyouknowtheCureDiseasesritual.Youaccelerate therateof healingfor anyoneunderyourcare,atanylevelofnjury,althoughyoucantbringbackthedead.
-
-## HERBALISM
-
-This path relies on the power inherent in elements and nature.By using the properngredients,thesorcerercanbrewotions,elixirsandsalveswithavarietyf amazing effects.Although Herbalism takes time and effort,the caster can often stockpilepotionsforlateruse,muchlikethe objectscreatedwithEnchantment.
-
-Herbalismritualstaketheformof recipesthatdescribehowtomakepotionswith certaineffects.The effective levelof theritual isbased on the powerof the potion;a potion thatrequiresIntermediateHerbalismtobrewuses an Intermediateritual.
-
-BrewingapotionrequiresaStaticMentalChallengewithadifficultydependentonthe complexityoftherew.otionstakesometmetocreateasageneralguidelineasumen weekforBasicelixirs,twoweeksforIntermediateelixirs,andonemonthforAdvancedelixirs. Thesuccesstestshouldnotbemadeuntil thebrewingtimeiscompletedVictimsofmalefic potionsmaymakeaPhysicalChallengeinordertoresistorthrowofftheefectsofthepotions. Eachpotion should haveitsmaker'snumberofMentalTraitsrecorded forthis test.
-
-## BASIC
+This path relies on the power inherent in elements and nature.By using the properngredients, the sorcerercanbrewotions, elixirsandsalveswithavarietyf amazing effects.Although Herbalism takes time and effort, the caster can of ten stockpilepotionsforlateruse, muchlikethe objectscreatedwith Enchantment. Herbalismritualstaketheformof recipesthatdescribehowtomakepotionswith certaineffects.The effective levelof the ritual is based on the powerof the potion;a potion that requires Intermediate Herbalismtobrewuses an Intermediateritual. Brewingapotionrequiresa Static Mental Challengewithadifficultydependentonthe complexityoftherew.otionstakesometmetocreateasageneralguidelineasumen weekfor Basicelixirs, twoweeksfor Intermediateelixirs, and onemonthfor Advancedelixirs. the successtestshouldnotbemadeuntil the brewingtimeiscompleted Victimsofmalefic potionsmaymakea Physical Challengeinordertoresistorthrowofftheefectsofthepotions. Eachpotion should have itsmaker'snumberof Mental Traitsrecorded for this test. ## BASIC
 
 ## Poultices and Brews
 
-You canmake herbalremedies thatwouldnever be consideredmagical.Your potions can banish mild headaches andyour salves can remove rashes.Although weak,yourpotionscan be used foravariety of effects ifyou arecreative;you can duplicate justabout anything thatcouldbedonewith over-the-countermedicines and chemicals.Yourelixirs take some time(three turns/one minute)to take effect. ThesePoulticesandBrews haveacreationdifficulty offourTraits.
-
-√
+You can make herbalremedies that would never be consideredmagical.you r potions can banish mild headaches and you r salves can remove rashes.Although weak, you rpotionscan be used for avariety of effects ifyou are creative;you can duplicate justabout anything that could bedonewith over-the-countermedicines and chemicals.you relixirs take some time(three turns/one minute)to take effect. the se Poulticesand Brews have acreationdifficulty of four Traits. √
 
 ## Numinae and Powers
 
-## MinorElixirs
+## Minor Elixirs
 
-Althoughpotions andelixirs createdwith this level of ability seem farfrom magical,their effects are certainly remarkable.Yourhome remedies"can banish hangoversyourpotionscanavertorensurepregnancyandaltermoodsandyouralves can attract orrepelinsects or animals.Muchof thematerial createdwith these elixirs borders on the extraordinary.Your potions can duplicate anything that strong medicineswould accomplish,butwithslightlygreaterefficiency.MinorElixirshave a creationdifficulty of fiveTraits.
-
-## INTERMEDIATE
+Althoughpotions and elixirs createdwith this level of ability seem farfrom magical, the ir effects are certainly remarkable.you rhome remedies"can banish hangoversyourpotionscanavertorensurepregnancyandaltermoodsandyouralves can attract or repelinsects or animals.Muchof the material createdwith the se elixirs borders on the extraordinary.you r potions can duplicate anything that strong medicineswould accomplish, but with slightlygreaterefficiency.Minor Elixirshave a creationdifficulty of five Traits. ## INTERMEDIATE
 
 ## Potent Concoctions
 
-## MajorElixirs
+## Major Elixirs you rherbalbrewshavereached alevelofpotencythatisclearlyunusual, even not iceably supernatural.You can make potions that knockpeople unconscious, inducerapidhealing, all owpeoplesubjectedtodeadlypoisonstosurviveandplace peopleinhypnotic moods.All of you r potionsnow take effect quitequickly (with in one turn/15seconds).Potent Concoctions have a creation difficulty of six Traits. Elixirsandbrewsof this level createunusualeffectsindeed.you rpotionscanadd oneortwo Traitsforasceneheala Health Levelof damageornumbpainsothatthe drinker suffersnopenaltiesfromwounds.Major Elixirshaveacreationdifficulty of seven Traits. ## ADVANCED
 
-Yourherbalbrewshavereached alevelofpotencythatisclearlyunusual,even noticeably supernatural.You can make potions that knockpeople unconscious, inducerapidhealing,allowpeoplesubjectedtodeadlypoisonstosurviveandplace peopleinhypnotic moods.All of your potionsnow take effect quitequickly (within one turn/15seconds).Potent Concoctions have a creation difficulty of sixTraits.
+## Legendary Elixirs the stuff of magicalstoriesand talesaphrodisiacs, nstantlyfatalpoisonsand the likefall underthis category.Although all of the effectsoftheseconcoctions remainsubtle, you can certainlygranttwoorthreeadditional Traitswithyourelixirs or all ow adrinkeraccesstoaparticular Basic supernaturalpowerforascene.Legendary Elixirs have a creation difficulty of eight Traits. ## SUMMONING,BINDINGANDWARDING
 
-Elixirsandbrewsof thislevel createunusualeffectsindeed.Yourpotionscanadd oneortwoTraitsforascenehealaHealthLevelof damageornumbpainsothatthe drinker suffersnopenaltiesfromwounds.MajorElixirshaveacreationdifficulty of seven Traits.
-
-## ADVANCED
-
-## Legendary Elixirs
-
-Thestuff ofmagicalstoriesand talesaphrodisiacs,nstantlyfatalpoisonsand thelikefall underthis category.Although alloftheeffectsoftheseconcoctions remainsubtle,youcancertainlygranttwoorthreeadditionalTraitswithyourelixirs orallow adrinkeraccesstoaparticularBasic supernaturalpowerforascene.Legendary Elixirs have a creation difficulty of eightTraits.
-
-## SUMMONING,BINDINGANDWARDING
-
-ProbablythemostdangerouspathofSorcery,Summoning,Binding andWarding allowsa sorcerer to call and control creatures.Anythingfrom small animals to supernaturalcreaturesmaybesubjectedtothispath.Naturally,thesorcererhadbetter bepreparedtobackuphispowers,asanyboundcreaturethatgetslooseislikelytotake outitsireonitsantagonist.Becauseofthisdanger,somesorcerersrefusetouseBinding, andinsteadsimplySummoncreatures andbarterforservices.
-
-There areasmany formsofSummoning,Binding andWarding asthereare styles ofmagic.Some of thesespells are cast as prayers;othersare done as elaborateritual ceremonieswhilesomesorcererscastthesemagicwithpaganbloodrites.egardless, the effects are similar.
-
-RitualsforSummoning,BindingandWardingcomeinvariablelevelsof difficulty. Aritual'seffectivelevelisdefined bythetypeofcreature affected.Weaksorcererscan only affectsmallanimals,and therituals used todosoareBasic.Extremelypowerful sorcerersontheotherhandcanevenaffectajorsuenaturalbingough must useAdvancedrituals todoso.Refer to theindividual levels ofthepath for descriptionsof what creaturesmaybeaffected;theselistings alsoindicate thelevelof
+Probablythemostdangerouspathof Sorcery, Summoning, Binding and Warding all owsa sorcerer to call and control creatures.Anythingfrom small animals to supernaturalcreaturesmaybesubjectedtothispath.Naturally, the sorcererhadbetter bepreparedtobackuphispowers, asanyboundcreaturethatgetslooseislikelytotake outitsireonitsantagonist.Becauseofthisdanger, somesorcerersrefusetouse Binding, and insteadsimply Summoncreatures and barterforservices. the re are asmany for msof Summoning, Binding and Warding asthereare styles of magic.Some of the sespells are cast as prayers;othersare do ne as elaborateritual ceremonieswhilesomesorcererscastthesemagicwithpaganbloodrites.egardless, the effects are similar. Ritualsfor Summoning, Bindingand Wardingcomeinvariablelevelsof difficulty. Aritual'seffectivelevelisdefined bythetypeofcreature affected.Weaksorcererscan only affectsmallanimals, and the rituals used todosoare Basic.Extremelypowerful sorcerersontheotherhandcanevenaffectajorsuenaturalbingough must use Advancedrituals todoso.Refer to the individual levels of the path for descriptionsof what creaturesmaybeaffected;the selistings alsoindicate the levelof
 
 Laws of the Hunt
 
-## Numinae and Powers
-
-ritualnecessary.Thus,a SummonVampireritualisAdvanced becausevampirescan onlybeaffectedbyAdvanced levelsofthispath,whileaBindRatsritualisBasic.Each typeofcreaturerequiresaseparatesetofrituals.Needlesstosay,competentSummoning,BindingandWardingofmultipletypes ofcreatures is difficult indeed.
-
-## SUMMONING.BINDING ANDWARDING RITUALS
+## Numinae and Powers ritualnecessary.Thus, a Summon Vampireritualis Advanced becausevampirescan onlybeaffectedby Advanced levelsofthispath, whilea Bind Ratsritualis Basic.Each typeofcreaturerequiresaseparatesetofrituals.Needlesstosay, competent Summoning, Bindingand Wardingofmultipletypes of creatures is difficult indeed. ## SUMMONING.BINDING and WARDING RITUALS
 
 ## Dismissal (Variable)
 
-ADismissalritualattemptsto forcea creature away.Thecastermustmakea Mental Challengeagainstthetarget;successindicatesthatthetargetiscompelled to leaveinpeace.Nothingpreventsthetargetfromseekingalatervengeance,butforthe duration of the scene,the targetmust leavewithoutattacking(althoughall betsare offif thecreature is attackedwhile exiting).ADismissal ritual cannotbeused after aMajorBindingritual-get itright or suffer.
+ADismissalritualattemptsto for cea creature away.the castermustmakea Mental Challengeagainstthetarget;successindicatesthatthetargetiscompelled to leaveinpeace.not hingpreventsthetargetfromseekingalatervengeance, but for the duration of the scene, the targetmust leavewithoutattacking(althoughall betsare of fif the creature is attackedwhile exiting).ADismissal ritual can not beused after a Major Bindingritual-get itright or suffer. ## Minor Binding(Variable)
 
-## MinorBinding(Variable)
+AMinor Bindingisused todemandonetaskofa servantcreature.the sorcerer expendsa Humanity Trait and engages ina Social Challengewiththetarget creature. If the sorcererwins, the n the targetmust fulfill one command for the wizard;if the sorcererfailsthenthetargetisfreetodoasitpleases.Commandsshouldbespelledout asclearlyaspossible.Afterall, the victimwillcertainlylookforawaytoescapetheletter of the clause and to wreak vengeance on the wizard who would dare to compel it. ## Major Binding(Variable)
 
-AMinorBindingisused todemandonetaskofa servantcreature.Thesorcerer expendsa HumanityTrait andengages ina Social Challengewiththetarget creature. If the sorcererwins,then thetargetmust fulfill one command for thewizard;if the sorcererfailsthenthetargetisfreetodoasitpleases.Commandsshouldbespelledout asclearlyaspossible.Afterall,thevictimwillcertainlylookforawaytoescapetheletter of the clause and to wreak vengeance on the wizard who would dare to compel it.
+Storytellersmaywishtorestrictthecommandsfroma Minor Bindingtoduties that can be carried outin the course of the evening'splay.Thus, a Minor Bindingto "seek out the Anexhexeton, which has been lostfor600years"would fail unless the subjectcould definitivelyrecover the itemwithin the evening'splay. This for m of controlpits the sorcerer into an extended challenge with the opponent.The sorcerermustfirst spenda Humanity Trait toengageinthespell.The playersmake aseriesof Social Challenges, attemptingtoaccumulate successes.When one side has gathereda numberof successful tests equal tothe opponent'spermanent will powertheritualiscomplete.f the sorcerersucceedsinthe Major Binding, the n he compels the subjectto servitudeuntil some contractual event, specified by the caster, comestopass.Ifthesorcererfails, the subjectoftheritualwilldoubtlesstake outitsfrustrationsonthewould-bewizard. the Storytellermaywish torestrict the conditions for use of Major Binding; casting this ritual on anotherplayer'scharacter and the nsettinglengthyconditions ("afterayearandaday)can rateonthenervesof the victimized player, creatingbad feelings.It is recommended that Major Bindings only beusableon Narrator characters, and eventhen, the conditionsforescapingservitudehouldbeonesthatcane met during the course of play (even if not in the same session). ## Summoning(Variable)
 
-## Major Binding(Variable)
+Summoningrituals are complex spells designed to draw a creatureinto the caster'spresence.the castermust make a successful Social Challengein or der to summona target.If the ritual succeeds, the n the target makeshaste to arriveatthe wizard's location, althoughitdoessounderitsownpowera summonedcreature do esnot suddenly appear out of the air(unless that is with in its powers）.Aritual of this sort can only summon acreature at a distance of onemilefor eachpermanent will power Traitthecaster possesses. ## Warding(Variable)
 
-StorytellersmaywishtorestrictthecommandsfromaMinorBindingtoduties that can be carried outin the course of the evening'splay.Thus,aMinorBindingto "seek out the Anexhexeton,which has been lostfor600years"would fail unless the subjectcould definitivelyrecover the itemwithin theevening'splay.
+Wise summoners protect the mselves by means of Warding.Successfully cast wardspreventtheaffectedcreaturesfrom approachingthesorcerer.the sorcerermust makea Mental Challengewith a difficulty determined by the nature of the creature affected(seetheindividual path levels).If the Wardingritual is successful, the n the creaturemaynotcomewithinthreepaces of the caster or even touch the caster.All supernaturalpowersused bythecreatureagainstthesorcerer—do minate, Blurofthe Milky Eye and so on —are muted;the sorcerer gains a Trait bonus on all challenges againstthesepowers, asdescribed inthe individual power levels. ## BASIC
 
-This form ofcontrolpits thesorcerer into an extended challenge with the opponent.The sorcerermustfirst spenda HumanityTrait toengageinthespell.The playersmake aseriesofSocialChallenges,attemptingtoaccumulate successes.When one side hasgathereda numberof successful tests equal tothe opponent'spermanent Willpowertheritualiscomplete.f thesorcerersucceedsintheMajorBinding,then he compels thesubjectto servitudeuntil some contractual event,specified by the caster,comestopass.Ifthesorcererfails,thesubjectoftheritualwilldoubtlesstake outitsfrustrationsonthewould-bewizard.
+## Invoke Vermin you can callsmall swarmsofverminwiththispower.Rats, bats, birdsandinsects are the limits of you rmagic.Eachritual that you castaffects threecreatures of the appropriate type, soa fewcastingsof a Summoningritual can quickly call a small horde.you r Wardinghasaone-Trait defensive strength, makingyouone Traitupn all challengeswhen defending againstmystical powers of you r summoned creatures. Summoningritualsforverminhave afive-Trait difficulty. ## Invoke Mammals
 
-TheStorytellermaywish torestrict the conditions foruse ofMajor Binding; casting thisritual on anotherplayer'scharacter and thensettinglengthyconditions ("afterayearandaday)canrateonthenervesof thevictimized player,creatingbad feelings.It isrecommended thatMajor Bindings only beusableonNarrator characters,andeventhen,theconditionsforescapingservitudehouldbeonesthatcane met during the course of play (even if not in the same session).
+You can summon and control higher mammals and large animalswith you r magic, compelling obediencewith the proper rituals.Eachritual can affect two creaturesoftheappropriatetype, oyoucaneasilygarnermultpledolphinsogs wolves and the like.all of you r Wardingnowhasa two-Traitdefensivestrength, and you r Summoningrituals for creatures of this typehave a six-Trait difficulty. ## INTERMEDIATE
 
-## Summoning(Variable)
+## Invoke Mankind you r rituals affect truehumans, beings capable of thought and independent action, at this level.You can not affect supernatural humans ghouls, powerful sorcerers and the likearestilloutsideofyourexpertise.you can only affect onetarget at a time, and you needsome sortofphysicalconnectiontothe target-a bitof hair or someotherpersonaleffect.all of you r Wardingritualshavea three-Traitdefensive strength, and Summoningforhumans has a seven-Trait difficulty. ## Invokethe Touched
 
-Summoningrituals are complex spells designed to draw a creatureinto the caster'spresence.Thecastermust make a successful Social Challengein order to summona target.If theritual succeeds,then the target makeshaste to arriveatthe wizard's location,althoughitdoessounderitsownpowera summonedcreature doesnot suddenly appear out of the air(unless that iswithin its powers）.Aritual of this sort can only summon acreature at a distance ofonemilefor eachpermanent WillpowerTraitthecaster possesses.
+Expandingonyourabilitytobindanddefendagainsthumans, you can nowhedge out or command those humans who have been touched by the supernatural.Ghouls, Kinfolk, kinain, familiars and others are with inyourrange of power.You can only affectoneofthesetargetsatatime, and you mustusesomesortofphysicalconnection, just aswithhumans.you r Wardingritualshavea four-Traitdefensivestrength, and Summoningforthose touchedby the strange has aneight-Traitdifficulty. ## ADVANCED
 
-## Warding(Variable)
+## Invokethe Supernatural
 
-Wise summoners protect themselves by means ofWarding.Successfully cast wardspreventtheaffectedcreaturesfrom approachingthesorcerer.Thesorcerermust makeaMental Challengewith a difficulty determined by thenature of thecreature affected(seetheindividual path levels).If theWardingritual is successful,then the creaturemaynotcomewithinthreepaces of thecaster oreven touch thecaster.All supernaturalpowersused bythecreatureagainstthesorcerer—Dominate,Blurofthe Milky Eye and so on —aremuted;the sorcerer gains a Trait bonus on all challenges againstthesepowers,asdescribed inthe individual power levels.
+Vampires, were wolvesandfaeriesall are with inyourpoweroucanevenaffect magesandsometypesofearth-boundmonsters.you stillneedafocusthattiesintothebeing inquestionsuchasbloodorabitoffur.tillyourmightymagicscancompe the ot dangerousof the supernaturalworld.you r Wardinggrantsfivedefensive Traits.Summoning a truesupenaturalcreatureisextremelytaxingwithadifficultyofnine Traits. ## Laws of the Hunt
 
-## BASIC
+## the URGY when members of the Society of Leopoldpossessany Numinabeyond True Faith, the yrefer toit as the art of the urgy.For its advocates, it is merely another manner of invoking the aid of Heaven, a sanctionedvariant of magic.For its detractorstisstillmagic, and thust sevil.the ritualsareerformedina Christian manner, nvokingthenames）of God, he Savior, Maryorvarioussaintsandangs the urgistshave differentnamesforeach Numina path, which are referred toas ways.Mostof the seformsof the urgy are functionallyequivalent totheother Numinae previously listed. ## the URGICWAY
 
-## InvokeVermin
+Via Ignis, the Way of Holy Fire
 
-Youcancallsmall swarmsofverminwiththispower.Rats,bats,birdsandinsects are thelimits ofyourmagic.Eachritual thatyou castaffects threecreatures of the appropriate type,soa fewcastingsof a Summoningritual can quickly call a small horde.YourWardinghasaone-Trait defensive strength,makingyouoneTraitupn all challengeswhen defending againstmystical powers ofyour summoned creatures. Summoningritualsforverminhave afive-Trait difficulty.
+Via Medicamenti, the Way of Remedy
 
-## Invoke Mammals
+Via Genoriam, the Dark Path
 
-You can summon and control higher mammals andlarge animalswith your magic,compelling obediencewith the proper rituals.Eachritual can affect two creaturesoftheappropriatetype,oyoucaneasilygarnermultpledolphinsogs wolves andthelike.AllofyourWardingnowhasa two-Traitdefensivestrength,and yourSummoningrituals forcreatures of thistypehave a six-Trait difficulty.
+Via Necromantiae, Necromancy
 
-## INTERMEDIATE
-
-## Invoke Mankind
-
-Your rituals affect truehumans,beings capable of thought andindependent action,at this level.You cannot affect supernatural humans ghouls,powerful sorcerers andthelikearestilloutsideofyourexpertise.Youcanonly affect onetarget at a time,andyou needsome sortofphysicalconnectiontothe target-a bitof hair orsomeotherpersonaleffect.AllofyourWardingritualshavea three-Traitdefensive strength,andSummoningforhumans has a seven-Trait difficulty.
-
-## InvoketheTouched
-
-Expandingonyourabilitytobindanddefendagainsthumans,youcannowhedge out or command those humans who havebeen touched by the supernatural.Ghouls, Kinfolk,kinain,familiars and others arewithinyourrange ofpower.You can only affectoneofthesetargetsatatime,andyoumustusesomesortofphysicalconnection, just aswithhumans.YourWardingritualshavea four-Traitdefensivestrength,and Summoningforthose touchedby thestrange has aneight-Traitdifficulty.
-
-## ADVANCED
-
-## InvoketheSupernatural
-
-Vampires,werewolvesandfaeriesall arewithinyourpoweroucanevenaffect magesandsometypesofearth-boundmonsters.Youstillneedafocusthattiesintothebeing inquestionsuchasbloodorabitoffur.tillyourmightymagicscancompe theot dangerousof thesupernaturalworld.YourWardinggrantsfivedefensiveTraits.Summoning a truesupenaturalcreatureisextremelytaxingwithadifficultyofnineTraits.
-
-## Laws of the Hunt
-
-## THEURGY
-
-<!-- image -->
-
-Whenmembers of theSociety of LeopoldpossessanyNuminabeyondTrue Faith,theyrefer toit as the art of Theurgy.For its advocates,it is merely another manner of invoking the aid of Heaven,a sanctionedvariant ofmagic.For its detractorstisstillmagic,andthust sevil.TheritualsareerformedinaChristian manner,nvokingthenames）ofGod,heSavior,Maryorvarioussaintsandangs
-
-Theurgistshave differentnamesforeachNumina path,which arereferred toas ways.Mostof theseformsofTheurgy arefunctionallyequivalent totheotherNuminae previously listed.
-
-## THEURGICWAY
-
-Via Ignis,theWay of Holy Fire
-
-ViaMedicamenti,theWay ofRemedy
-
-Via Genoriam,theDarkPath
-
-ViaNecromantiae,Necromancy
-
-Via Oraculi,theWayof Prophecy
+Via or aculi, the Wayof Prophecy
 
 ## VIA IGNIS.THE WAY OF HOLY FIRE
 
-The InquisitioncallsonGod'sfire topunishthewicked, summon searingflames tolight theway in darkness and burn the faithless.
+The Inquisitioncallson God'sfire topunishthewicked, summon searingflames tolight the way in darkness and burn the faithless. the Via Ignis is functionally similar to Pyrokinesis, and that Numina should be used, with a few changeskept in mind: - the Via Ignis is limited to touchrange and toobjects that the Inquisitor holds. The Inquisitor can cause his own hands tobewreathedinflame, or hecan make a weaponburst into flames.Missileweaponscannot carrythe Holy Flame;the Inquisitor must strikein hand-to-hand combat. - Via Ignis, when usedin combat, adds one Burning Trait at the Basiclevel, a second Burning Trait atthe Intermediatelevelanda totalof three Burning Traitsat the Advanced level. - The Inquisitormust stillbuy rituals for each type of weapon tobe affectedby Via Igmis.Thuscasting Holy Fireoverasword requires a different ritual than invoking Holy Fire around one's fist.Each of the se rituals is considered Basic. - ·God''s Fire all ows the Inquisitor toinflict aggravated damagewhenusing the Basic levels.The Intermediatelevels inflict alevelof aggravateddamage in addition toany damagefrom the weapon.the Advanced levelscores an amazing twolevels of aggravated damagein additionto the weapon'snormal damage. ## BENANDANTIRITUALS
 
-TheVia Ignis isfunctionally similar toPyrokinesis,and thatNumina should be used,with a few changeskept in mind:
-
-- TheVia Ignis is limited to touchrange and toobjects that the Inquisitor holds. The Inquisitor can cause his own hands tobewreathedinflame,or hecan make a weaponburst intoflames.Missileweaponscannot carrythe HolyFlame;theInquisitor must strikein hand-to-hand combat.
-- Via Ignis,when usedin combat,adds one Burning Trait at theBasiclevel,a secondBurningTrait attheIntermediatelevelanda totalof threeBurningTraitsat the Advanced level.
-- The Inquisitormust stillbuy rituals for each type of weapon tobe affectedby Via Igmis.Thuscasting HolyFireoverasword requires a different ritual than invoking HolyFire around one's fist.Each of these rituals is consideredBasic.
-- ·God''sFire allows the Inquisitor toinflict aggravated damagewhenusing the Basic levels.The Intermediatelevels inflict alevelof aggravateddamage in addition toany damagefrom theweapon.TheAdvanced levelscores an amazing twolevels of aggravated damagein additionto theweapon'snormal damage.
-
-## BENANDANTIRITUALS
-
-With special training and the use of rituals passed on through the ages,an individualbornwithacaulmaylearntheBenandantiway,developingthepowertosee intoandeventravelwithintheShadowlands.Thoughriskyintheextreme,thisform oftravel intothe twilightrealm of thedeadpromisestherewardsofgreatknowledge.
-
-## EQUIVALENTNUMINA
+With special training and the use of rituals passed on through the ages, an individualbornwithacaulmaylearnthe Benandantiway, developingthepowertosee into and eventravelwithinthe Shadowlands.Thoughriskyintheextreme, this for m of travel into the twilightrealm of the deadpromisestherewardsofgreatknowledge. ## EQUIVALENTNUMINA
 
 (see text)
 
@@ -4004,421 +1605,132 @@ Divination
 
 ## Laws of the Hunt
 
-Benandantihave thepotential to learnspecialritualstied to theirparticular powers.In general,anyBenandante character can usethe specialrituals detailed below,sincetheBenandantipasstheirknowledgethroughfamiliesandbestowspecial training to children born with cauls.Thus,any Benandante ofmoderate age will certainlyknowhow toperform all of the specialpowers of theBenandanti
+Benandantihave the potential to learnspecialritualstied to the irparticular powers.In general, any Benandante character can usethe specialrituals detailed below, sincethe Benandantipasstheirknowledgethroughfamiliesandbestowspecial training to children born with cauls.Thus, any Benandante of moderate age will certainlyknowhow toperform all of the specialpowers of the Benandanti
 
-## UNHOODING
+## UNHOODING the Unhooding is a ritual that marks the beginningof lifefor a Benandante. Generally, this ritual is performedby ablood-relativeof achildbornwith a caul.The sapienaanolderandmoreexperinced Benandantermovesthecaulbeforeitdriesand worksspecialmagics into itwiththisritual.Oncethe Unhoodingisperformedsuccessfully, the caul maybeusedby the fledgling Benandantetoperform the powersof Ekstasis. The Unhoodingritual takesseveral hours toperform.Typically, the Benandante performingtheritualremovesthecaul from the infant, hentakesittoasafeplaceto performtherituallthoughthisritualioflmitedutilityingamelayitisnecesary when creatingnew Benandanti.Achildwhowasnot Unhooded can not usethe powers of the Benandanti. On the other hand, once the ritual is successfully performed, it is permanent. ## EYELIDDING
 
-TheUnhooding is a ritual thatmarks thebeginningof lifefor aBenandante. Generally,thisritual isperformedby ablood-relativeof achildbornwith a caul.The sapienaanolderandmoreexperincedBenandantermovesthecaulbeforeitdriesand worksspecialmagics intoitwiththisritual.OncetheUnhoodingisperformedsuccessfully, the caul maybeusedby thefledglingBenandantetoperform thepowersof Ekstasis.
+By passingyour caulin front of his face, you can attempt to see into the Underworld.you must pass the proprepresenting you r caul acrossyoureyes, and the n expenda will power Trait.Afteryoudoso, you are abletopeerintothe Underworld from you r current position.Thus, ifyou are standing in anold building and you perform this ritual, you can seethe decayingandcrumbling counterpart of that buildingin the Shadowlands, aswell as anywraiths that maybein the are a. Performing Eyelidding takes only a moment(a single turn), and the power lasts for the durationofa scene. ## EKSTASIS
 
-The Unhoodingritual takesseveral hours toperform.Typically,theBenandante performingtheritualremovesthecaul fromtheinfant,hentakesittoasafeplaceto performtherituallthoughthisritualioflmitedutilityingamelayitisnecesary when creatingnewBenandanti.AchildwhowasnotUnhooded cannot usethe powers of the Benandanti. On the other hand,once the ritual is successfully performed,it ispermanent.
+True Ekstasis may only beperformed between dusk and dawn.You must first possessthepowersof Ephemera(see Sorcery), and you mustassumea dreamliketrance. you must the nperforma Mental Challengewithadifficultyofeight Traitsusingyour caul asafocus—the ritualof Ekstasiscannotbeperformedwithout a caul. should you succeedinperformingthisritual, you rbodyremainsmotionlesswhile you rspiritprojectsintothe Shadowlands.the reyoutraveltheworldof the deadand interactwithwraiths, althoughyou are not actuallymadeofplasmandaretherefore immunetomanywraithpowers suchas Moliateand Usury.Similarly, owersdesigned specificallytoaffectwraithsncludingthevampiric Disciplineof Necromancyandthe Sorcerypathof Ephemera, can not controlyou;you are alivingspirit inthesunlit lands. After appearing in the Shadowlands, you must immediately make a Mental Challenge to or ient you rself.The difficulty for this challenge is six Traits.You must makea similarchallenge toreturn toyourpointof or iginwhenleavingifyoumove from the spotwhereyouenterfyoufailoneitherofthesechallengesyouaretrapped inthe Shadowlands, and you must find some othermeansofegress.Typically, the Storytellerwill fashionsomealternateway of leaving, althoughitisdifficultand dangeroustofind such apath. ## Numnae and Powers
 
-## EYELIDDING
+The tiesbetween the Shadowlands and the landsof the living are strongest at night.If daylight arrives at the location of you rphysicalbodywhileyou are in the Shadowlands, you r exitiscompromised.You mustfindanew exit, asdescribed previously. Inspiritformyoucantraveltothedeeperpartsofthe Shadowlandsncluding such dread are as as the Labyrinth and the Tempest.Bewareof getting lost, though.A smallhospicefull of comatose Benandantiawaitsfor thoseoverconfidentenough to surpass the ir abilities. For detailedinformationregarding the Shadowlands, see Oblivion. ## for GING THE FENNELSWORD
 
-By passingyour caulin front of his face,you can attempt to see into the Underworld.Youmust pass the proprepresenting your caul acrossyoureyes,and then expendaWillpowerTrait.Afteryoudoso,you are abletopeerintotheUnderworld fromyour current position.Thus,ifyou are standing in anold building andyou perform thisritual,youcan seethe decayingandcrumbling counterpart ofthat buildingin theShadowlands,aswell as anywraiths thatmaybein the area.
+Afennelswordisapowerful talismanthatthe Benandantiuseforprotectioninthe Underworld Builtduring Ekstasisinthe Shadowlandsthefennelswordshavetheability tostrikeandinjurewraiths, travelinginspiritual for mwiththeirmastersinthespiritplane. the sword must bebuilt from ferrospetrale combinedwiththe spiritual fennel. This taskis a series of Physical Challengeswith a difficulty of six Traitsusing the Crafts Ability.you must accumulate five successful challenges in or der tofinish the sword;failureonanychallengeindicatesthat the swordisflawed, and workmustbegin anew(evengrowingandharvestingnewfennel）.when the sword is ready, itmuste named and plunged into a Nihil tocool;it is the nempoweredfor ayear.Each month onthenewmoonafterthefirstyear, the swordmustbeplungedoncemoreintoa Nihil soas torestoreitspowers, or elseitmustbereforged. the swordiscreatedbyharvestingfennel from soilwhichhasbeenseededwith you rcaul ina Haunt(a placefrequented byghosts).the fennelmust be harvested at dawnof midsummerandwrappedinthecaul, the nkeptcold and awayfromsunlight. you the n performmeditationfortheentireday, returningtothesiteof the plotinthe evening.Here, the spirit of a deceased Benandantemustbe summonedasaguide （mostlikelybyusing Ephemera), and you enter Ekstasis, asdetailedpreviously, while you r headrests on the bushel of fennel.You takeyourcaul and fennel (which appears inthespiritworldaswell)and followthespiritguidetoaspecialforge, where you must buildaswordfromferrospettrale, aspirit-ironkeptinsafekeepingattheforge.you must answer a series of questions put toyouby the guide;failure indicates that the spirit guidedestroysyourcaul, strandingyouinthe Underworldwhilesuccessallowsyou toproceed with the for ging. Oncethepiritweaponisbuiltoucanforgeanactualhysicalweaponarou it in the materialworld, which requiresthesame Physical Challenge asforgingthe ghost-blade.the twobecomeinextricablyjoined, and the physicalsword is asmagical aweapon asthespiritualone. See Chapter Four for informationregarding the special powers of fennel swords. Naturally, the for gingandnamingofafennelswordisapowerfulevent, and Storytellers should take advantage of the plotpossibilitiesin constructing a storyforsuchrituals. SPECIAL
 
-Performing Eyelidding takes only a moment(a single turn),and the power lasts for thedurationofa scene.
+C.q
 
-## EKSTASIS
+## TIME the clockticksinexorably onward, especially in live-actiongames.Time that passesintherealworldalsogenerallypassesinlay, oncethesunhassethunters had bestbewary of vampires. To distinguishspecificeventsinthegame, Mind's Eye the atrecallsoncertain conventions.Some eventsrequire that time effectivelybe halted in the gamewhile Narratorsor Storytellersresolveissues.Otheractionsrequire that the gamejumpfrom a particulargametime toadifferentsectionofgametime.Aslongasthe Narrators and Storytellerskeep trackof continuity and make sure that the players are aware of any discrepancies, the gamewill flow smoothly. ## TURNS
 
-True Ekstasis may only beperformed between dusk and dawn.You must first possessthepowersofEphemera(seeSorcery),andyoumustassumea dreamliketrance. Youmust thenperformaMental ChallengewithadifficultyofeightTraitsusingyour caul asafocus—theritualofEkstasiscannotbeperformedwithout a caul.
+When characters start getting involved in complex and detailed actions that involvemanychallengesitstimetostartusingurns.Atunlastsaboutfourseconds of gametime.Inany giventurn, eachcharactermay take one action(althoughsome special powers all owcharacters to act more than once in a turn).Some actions take multiple turns to complete, like repairing a piece of delicate equipment.Other actionslikepeakingashortsentence, do not useupacharacterstunatall.Once everyonehastaken an action, playproceeds tothenextgameturn. In some cases, acharacter'sactionmaybeinterrupted, or the characterwillbe for ced torespondtoeventsbeforetakinghisnormalaction.Insuchacase, the character can defend himselfbut taking any other actioncounterattacking, running away, activatingaspecialpower-usesuphisavailableactionfortheturn.Thus, ifacharacter intends topunch anenemybut someone elseattacks himfirst and hedecidestopunch back, heuses uphis actionimmediately when counterattackingandcan't strike his or iginal targetlaterintheturn(unlesssomespecial abilitygiveshim extra actions). Ifapoweraffectsacharacterforupto15secondsitisassumedtoworkforfour turnswhen turn-basedtimeisineffect.Innormalroleplaying, suchpowers simply workfortheir all ottedperiodsof time. ## do WNTIME
 
-Shouldyousucceedinperformingthisritual,yourbodyremainsmotionlesswhile yourspiritprojectsintotheShadowlands.Thereyoutraveltheworldof thedeadand interactwithwraiths,althoughyou arenotactuallymadeofplasmandaretherefore immunetomanywraithpowers suchasMoliateandUsury.Similarly,owersdesigned specificallytoaffectwraithsncludingthevampiricDisciplineofNecromancyandthe SorcerypathofEphemera,cannot controlyou;youarealivingspirit inthesunlit lands.
+Betweengamesa Narratoror Storytellermaydecidetopickup somedowntime.In this timeplayersbmitproposalsforactivitiesthattheircharactersattmpttoacomlih that are not generallyroleplayed.Characterscanuse Influence, engageinlengthy studyor research and resolveactions that are lengthy or ill-suited toliveroleplaying. the bestway tohandledowntimeistohavetheplayerssubmittheirideasand requests to the Storytellerinwrittenformat.the n, the Storytellercango over the various actions between games.At the next game session, the Storyteller may announce the results of the actions to the players, or simplyprovide short written summaries detailingthe outcomes. ## CHALLENGES
 
-After appearing in theShadowlands,you must immediately make aMental Challenge to orient yourself.The difficulty for this challenge is sixTraits.You must makea similarchallenge toreturn toyourpointof originwhenleavingifyoumove fromthespotwhereyouenterfyoufailoneitherofthesechallengesyouaretrapped intheShadowlands,andyoumust find some othermeansofegress.Typically,the Storytellerwill fashionsomealternateway ofleaving,althoughitisdifficultand dangeroustofind such apath.
+Any time somethinghappensin the game where the outcomeis in do ubt, or when aneventcannotbehandled throughpureroleplaying, a challengeisrequired. Challengesresolve the outcome of fights, unreliablepowers and instanceswherea playerwishesto attempt a taskforwhichthecharacteris suitedbut the playerisnot. ## USINGTRAITS the Attribute Traitsof a characterdefineherlimitsand capabilities.Entering achallengeoftenrequirestheexpenditureofoneormore Traits.Familiarizeyourself with the Traitslistedin Chapter Two；asidefromdescribingacharacter, such Traits alsodelineatewhat a charactercando. ## INITIAL BID
 
-## Numnae and Powers
+The challenge begins when a player declares the use of a particular Trait associatedwithanactionorcondition.the defendermusteitherrelent, or bida Trait inorder torespond. the Traitsusedinthechallengeshouldcorrespond tothetypeoftestinvolved That is, a player should use Physical Traitsif her character is attackingwith arapier and Social Traitswhenattemptingtoconvinceanothercharacterof something.Inmost cases, both partieswill use the same type of Traits.Experienced playersmay all owfor a littlemore flexibilitybutthisflexibilityshouldonlybeallowedwiththeconsentofallpartiesinvolved. Oncethe Traitsarebid, heplayersroceed toatest.Ifthedfenderrelentsshe do esnotriska Traitbutautomaticallysufferstheeffectsdescribedbythetermsofthe challenge.Similarly, ifthedfenderoesnothaveanappropriate Trait, shemust automaticallyrelent, losingthechallengeimmediately.Ifbothpartiesbidsufficient Traits, the yproceed oa test, nwhichthewinnerachieveshisgoalswhiletheloser suffers the effects and temporarily loses the Trait hebid. ## TESTING
 
-The tiesbetween theShadowlands and thelandsof theliving are strongest at night.If daylight arrives at the location ofyourphysicalbodywhileyou arein the Shadowlands,your exitiscompromised.You mustfindanew exit,asdescribed previously.
+Onceplayersrisk Traitstoatmptachallenge, the yproceed toatest.Bytesting, they determinearandom outcome, influenced bythe capabilities of the ir characters. the parties involved play Rock-Paper-Scissors toresolve the outcome.In such a test, either onepartywill win or the participantswill tie. If one player wins, the loser suffers the conditions of the test (gets stabbed, is convinced of a lie, etc.)and temporarily loses the Trait hebid.In the case of a tie, check the total numberof Traits eachparticipant has;the playerwhosecharacterstill has the most Traits winsthechallenge.Remembertouse the current numberof Traits, as a characterwhohassufferedseveralrecent losseswillhave temporarily lostsome Traits.Flaws or special circumstances also lower the number of Traits availabletoa character;use the adjusted total Traits to resolve the tie. The challenger always declares Traitsfirst in resolving a tie.If both players declaretheexactsamenumberof Traits, the nthedefenderwinsbutbothpartieslose the Traitstheybid. you maylieaboutthenumberof Traitsthatyouossesnatiethoughyoumaynly declarefewer Traitsthanyou actuallyhave.do ingsoallowsyoutoconcealyourtrue capabilitiesbutrememberthatyourisklosingthechallengeifyoudontuseenough Traits. Example of Play:Agent Spencer has caughtuptoa particularlyviciousvampire, who decidedottofreezewhenorderedeingasuspicioussor Agentpencedecides tofire ontherecalcitrantsuspectwithhisservicerevolver(I Quickly take aim and fire several rounds from myrevolver atyour retreatingback!).the vampire, Eddie the Brujah, simplywants toavoid this peskymortal, and hebidsa Trait tokeepgoing(m too Toughforacoupleof slugstoslowmedown.).the twoplayersproceedtoatest, and bothof the m throw Paper.Agent Spencerhasatotalof seven Physical Traits available, but Eddieonlyhassix.Eddieloseshis Tough Traitand alsosuffersawoundfrom the bullets.do ubtless, the damagetotheleatherjacketwill annoythevampiresufficiently to causehim to stay and fight.Agent Spencerhadbetterhave morebullets. ## ROCK-PAPER-SCISSORS
 
-InspiritformyoucantraveltothedeeperpartsoftheShadowlandsncluding such dread areas as theLabyrinth and theTempest.Bewareof getting lost,though.A smallhospicefull ofcomatoseBenandantiawaitsfor thoseoverconfidentenough to surpass their abilities.
+If, for some strangereason, you are unfamiliarwith the game of Rock-Paer Scissors, you mightwant toconsiderreexaminingyourchildhood.Toplay, you choose one of threehand signsto indicatea selection:Rockisa closedfist, Scissors is a hand with the first two fingers extended and spread apart and Paper is a flat and openhand. Compareyour symbol with you r opponent'stodetermine the victor.Rockcrushes Scissors, Scissors cut Paper and Papercovers Rock.Identical signsindicate a tie. ## Systems and Rules
 
-For detailedinformationregarding theShadowlands,see Oblivion.
+## ADJUDICATION when the resultofachallengeisindoubt, callontheservicesofa Narratorfor assistance.It'sbesttoremain in character whilelookingfor a Narrator.Trynot to interrupttheflowof the game.Sincetimemarchesinexorablyonward, it'sbadform toholdupascenefor15minuteswhilelookingfora Narrator togetaconcreteruling. of ten, it'ssimplerjusttogowiththestory, and letmprovisationguidetheway. when acharacterfailsaparticular Mentalor Social Test, the charactergenerally can'tattempt the sametest against the samepersonforat leastfiveminutes(and time spent arguingwitha Narrator do esn'tcount).Somepowers specify differently, but assume that this ruleholds trueif not otherwisenoted.Thus, a psychicwhotriesto use Teksilianbjctuailshtatintalhallngeutwaito minutes before trying tolift the object again.Similarly, if an agent attempts to convince someonetohelphim(with a Social Challenge）but fails, the agentmustwait for fiveminutesbeforeattempting toconvincetheperson again in the sameway. ## COMPLICATIONS
 
-## FORGING THE FENNELSWORD
+Naturally, quite a few additional situations can complicate matters during a challenge.Althoughtheflowofthestoryisalwaysimportant, somefairlycommon adjunctstothenormalchallengeprocedurefollow. ## NEGATIVETRAITS
 
-Afennelswordisapowerful talismanthattheBenandantiuseforprotectioninthe UnderworldBuiltduringEkstasisintheShadowlandsthefennelswordshavetheability tostrikeandinjurewraiths,travelinginspiritual formwiththeirmastersinthespiritplane.
+Ifyouhaveedcedanopponentegative Traityoumaybihatraitinadition toyourown.this meansthatyour opponentmust riskanadditional Traitbeforethetest. Ifyouarewrongaboutyouropponents Negative Traityoumust riskanadditionalrait of you rown.you mayworkasmany Negative Traitsasdesiredintoyourtest, but becareful, becauseyoumust coveryourbetsif you ropponent do esn'thave the Traitsthatyoucall. Example of Play: Agent Spencer now has an enraged vampire charging at him. Fumbling to reload hisrevolver, he is attacked by the bare-handed Cainite (I Ferociously grabyou by the throat and heave you into the air!).Spencer tries to backpedal, buying time to reload (I Nimbly step back and out of you r reach.). Spencer'layerhaseenshadowingthis Brujahvampireforsometimehough, and suspectsthatthevampireisstillalittlebitdamagedfrom anoldwarwound acquired during his mortal days ("you r old injuries make you too Decrepit to catch me.). Spencer'sinvestigations are accurate;the Brujah do es indeedpossess the Negative Trait Decrepit, and Eddie'splayermustnowriskanadditional Traitif hestillwishes tograpplewith the FBl agent. Ifanadditional Traitisnotavailable, you maystill test, but ifyouwinyour opponentdoesnotlosethe Trait herisked.Ifmultiple Negative Traitsarebroughtinto play and you can not matchthem, you ropponentgainsthatmanybonus Traitsinthe eventof a tie, makingresolution inhisfavor muchmore likely. ## OVERBIDDING
 
-Thesword must bebuilt from ferrospetrale combinedwiththe spiritual fennel. This taskis a series ofPhysical Challengeswith a difficulty of sixTraitsusing the CraftsAbility.Youmust accumulate five successful challenges in order tofinish the sword;failureonanychallengeindicatesthat theswordisflawed,andworkmustbegin anew(evengrowingandharvestingnewfennel）.Whenthe sword isready,itmuste named and plunged intoaNihil tocool;it is thenempoweredfor ayear.Each month onthenewmoonafterthefirstyear,theswordmustbeplungedoncemoreintoaNihil soas torestoreitspowers,orelseitmustbereforged.
-
-Theswordiscreatedbyharvestingfennel fromsoilwhichhasbeenseededwith yourcaul ina Haunt(a placefrequented byghosts).Thefennelmust be harvested at dawnof midsummerandwrappedinthecaul,thenkeptcold and awayfromsunlight. Youthenperformmeditationfortheentireday,returningtothesiteof theplotinthe evening.Here,thespirit of a deceasedBenandantemustbe summonedasaguide （mostlikelybyusingEphemera),andyouenterEkstasis,asdetailedpreviously,while your headrests on the bushel of fennel.You takeyourcaul and fennel (whichappears inthespiritworldaswell)andfollowthespiritguidetoaspecialforge,whereyoumust buildaswordfromferrospettrale,aspirit-ironkeptinsafekeepingattheforge.Youmust answer a series ofquestions put toyouby the guide;failure indicates that thespirit guidedestroysyourcaul,strandingyouintheUnderworldwhilesuccessallowsyou toproceed with the forging.
-
-Oncethepiritweaponisbuiltoucanforgeanactualhysicalweaponarou it in thematerialworld,whichrequiresthesamePhysical Challenge asforgingthe ghost-blade.Thetwobecomeinextricablyjoined,andthephysicalsword isasmagical aweapon asthespiritualone.
-
-See ChapterFour forinformationregarding the special powers of fennel swords. Naturally,theforgingandnamingofafennelswordisapowerfulevent,andStorytellers should take advantage of the plotpossibilitiesin constructing a storyforsuchrituals.
-
-SPECIAL
-
-C
-
-.q
-
-<!-- image -->
-
-## TIME
-
-Theclockticksinexorably onward,especially in live-actiongames.Time that passesintherealworldalsogenerallypassesinlay,oncethesunhassethunters hadbestbewary ofvampires.
-
-To distinguishspecificeventsinthegame,Mind'sEyeTheatrecallsoncertain conventions.Some eventsrequire that time effectivelybe halted in thegamewhile NarratorsorStorytellersresolveissues.Otheractionsrequire thatthegamejumpfrom a particulargametime toadifferentsectionofgametime.AslongastheNarrators and Storytellerskeep trackof continuity andmake sure that the players areaware of any discrepancies,thegamewill flow smoothly.
-
-## TURNS
-
-When characters start getting involved in complex and detailed actions that involvemanychallengesitstimetostartusingurns.Atunlastsaboutfourseconds ofgametime.Inany giventurn,eachcharactermay take one action(althoughsome special powers allowcharacters to act more than once in a turn).Some actions take multiple turns to complete,like repairing a piece of delicate equipment.Other actionslikepeakingashortsentence,donotuseupacharacterstunatall.Once everyonehastaken an action,playproceeds tothenextgameturn.
-
-In some cases,acharacter'sactionmaybeinterrupted,orthecharacterwillbe forced torespondtoeventsbeforetakinghisnormalaction.Insuchacase,thecharacter can defend himselfbut taking any other actioncounterattacking,running away, activatingaspecialpower-usesuphisavailableactionfortheturn.Thus,ifacharacter intends topunch anenemybut someone elseattacks himfirst andhedecidestopunch
-
-<!-- image -->
-
-back,heuses uphis actionimmediately when counterattackingandcan't strike his original targetlaterintheturn(unlesssomespecial abilitygiveshim extra actions).
-
-Ifapoweraffectsacharacterforupto15secondsitisassumedtoworkforfour turnswhen turn-basedtimeisineffect.Innormalroleplaying,suchpowers simply workfortheir allottedperiodsof time.
-
-## DOWNTIME
-
-BetweengamesaNarratororStorytellermaydecidetopickup somedowntime.In thistimeplayersbmitproposalsforactivitiesthattheircharactersattmpttoacomlih that arenotgenerallyroleplayed.CharacterscanuseInfluence,engageinlengthy studyor research andresolveactions that are lengthy or ill-suited toliveroleplaying.
-
-Thebestway tohandledowntimeistohavetheplayerssubmittheirideasand requests to theStorytellerinwrittenformat.Then,theStorytellercango over the various actions between games.At the next game session, the Storyteller may announce theresults of the actions to theplayers,or simplyprovide short written summaries detailingthe outcomes.
-
-## CHALLENGES
-
-Any time somethinghappensin the game where theoutcomeis in doubt,or whenaneventcannotbehandled throughpureroleplaying,a challengeisrequired. Challengesresolve the outcome offights,unreliablepowers andinstanceswherea playerwishesto attempt a taskforwhichthecharacteris suitedbut the playerisnot.
-
-## USINGTRAITS
-
-TheAttributeTraitsof a characterdefineherlimitsand capabilities.Entering achallengeoftenrequirestheexpenditureofoneormoreTraits.Familiarizeyourself withtheTraitslistedinChapterTwo；asidefromdescribingacharacter,suchTraits alsodelineatewhat a charactercando.
-
-## INITIAL BID
-
-The challenge begins when a player declares theuse of a particular Trait associatedwithanactionorcondition.Thedefendermusteitherrelent,orbidaTrait inorder torespond.
-
-TheTraitsusedinthechallengeshouldcorrespond tothetypeoftestinvolvedThat is,a player should usePhysicalTraitsif her character is attackingwith arapier andSocial Traitswhenattemptingtoconvinceanothercharacterof something.Inmost cases,both partieswill use the same type ofTraits.Experienced playersmay allowfor a littlemore flexibilitybutthisflexibilityshouldonlybeallowedwiththeconsentofallpartiesinvolved.
-
-OncetheTraitsarebid,heplayersroceed toatest.Ifthedfenderrelentsshe doesnotriskaTraitbutautomaticallysufferstheeffectsdescribedbythetermsofthe challenge.Similarly,ifthedfenderoesnothaveanappropriateTrait,shemust automaticallyrelent,losingthechallengeimmediately.Ifbothpartiesbidsufficient Traits,theyproceed oa test,nwhichthewinnerachieveshisgoalswhiletheloser suffers the effects and temporarily loses theTrait hebid.
-
-## TESTING
-
-OnceplayersriskTraitstoatmptachallenge,theyproceed toatest.Bytesting, they determinearandom outcome,influenced bythe capabilities of their characters. Theparties involved play Rock-Paper-Scissors toresolve the outcome.In such a test, either onepartywill win or theparticipantswill tie.
-
-If one player wins,theloser suffers the conditions of the test (gets stabbed,is convinced of a lie,etc.)and temporarily loses theTrait hebid.In the case of a tie, check thetotal numberofTraits eachparticipant has;theplayerwhosecharacterstill has themostTraits winsthechallenge.Remembertouse thecurrent numberofTraits, as a characterwhohassufferedseveralrecent losseswillhave temporarily lostsome Traits.Flaws or special circumstances also lower thenumber ofTraits availabletoa character;use the adjusted total Traits to resolve the tie.
-
-The challenger always declaresTraitsfirst in resolving a tie.If both players declaretheexactsamenumberofTraits,thenthedefenderwinsbutbothpartieslose theTraitstheybid.
-
-YoumaylieaboutthenumberofTraitsthatyouossesnatiethoughyoumaynly declarefewerTraitsthanyou actuallyhave.Doingsoallowsyoutoconcealyourtrue capabilitiesbutrememberthatyourisklosingthechallengeifyoudontuseenoughTraits.
-
-Example ofPlay:AgentSpencer has caughtuptoa particularlyviciousvampire, whodecidedottofreezewhenorderedeingasuspicioussorAgentpencedecides tofire ontherecalcitrantsuspectwithhisservicerevolver(I Quickly take aim and fire several rounds from myrevolver atyour retreatingback!).Thevampire,Eddie the Brujah,simplywants toavoid thispeskymortal,andhebidsaTrait tokeepgoing(m tooToughforacoupleof slugstoslowmedown.).Thetwoplayersproceedtoatest,and bothof them throwPaper.AgentSpencerhasatotalof sevenPhysical Traits available, butEddieonlyhassix.EddieloseshisToughTraitand alsosuffersawoundfrom the bullets.Doubtless,thedamagetotheleatherjacketwill annoythevampiresufficiently to causehim to stay andfight.AgentSpencerhadbetterhave morebullets.
-
-## ROCK-PAPER-SCISSORS
-
-If,for some strangereason,you are unfamiliarwith the game ofRock-PaerScissors,youmightwant toconsiderreexaminingyourchildhood.Toplay,youchoose one of threehand signsto indicatea selection:Rockisa closedfist,Scissors isa hand with the first two fingers extended and spread apart and Paper is a flat and openhand. Compareyour symbol with your opponent'stodetermine thevictor.Rockcrushes Scissors,Scissors cutPaper andPapercoversRock.Identical signsindicate a tie.
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-## Systems and Rules
-
-## ADJUDICATION
-
-Whentheresultofachallengeisindoubt,callontheservicesofaNarratorfor assistance.It'sbesttoremain in character whilelookingfor aNarrator.Trynot to interrupttheflowof thegame.Sincetimemarchesinexorablyonward,it'sbadform toholdupascenefor15minuteswhilelookingforaNarrator togetaconcreteruling. Often,it'ssimplerjusttogowiththestory,andletmprovisationguidetheway.
-
-WhenacharacterfailsaparticularMentalorSocialTest,thecharactergenerally can'tattempt thesametest against thesamepersonforat leastfiveminutes(andtime spent arguingwithaNarrator doesn'tcount).Somepowers specify differently,but assume that thisruleholds trueif nototherwisenoted.Thus,a psychicwhotriesto useTeksilianbjctuailshtatintalhallngeutwaito minutes before trying tolift the object again.Similarly,if an agent attempts to convince someonetohelphim(withaSocialChallenge）butfails,theagentmustwait forfiveminutesbeforeattempting toconvincetheperson again in the sameway.
-
-## COMPLICATIONS
-
-Naturally,quite a few additional situations can complicate matters during a challenge.Althoughtheflowofthestoryisalwaysimportant,somefairlycommon adjunctstothenormalchallengeprocedurefollow.
-
-## NEGATIVETRAITS
-
-IfyouhaveedcedanopponentegativeTraityoumaybihatraitinadition toyourown.Thismeansthatyour opponentmust riskanadditionalTraitbeforethetest. IfyouarewrongaboutyouropponentsNegativeTraityoumust riskanadditionalrait ofyourown.YoumayworkasmanyNegativeTraitsasdesiredintoyourtest,butbecareful, becauseyoumust coveryourbetsif youropponent doesn'thave theTraitsthatyoucall.
-
-Example of Play: Agent Spencer now has an enraged vampire charging at him. Fumbling to reload hisrevolver,he is attacked by the bare-handed Cainite (I Ferociously grabyou by the throat and heave you into the air!).Spencer tries to backpedal,buying time to reload (I Nimbly step back and out of your reach.). Spencer'layerhaseenshadowingthisBrujahvampireforsometimehough,and suspectsthatthevampireisstillalittlebitdamagedfrom anoldwarwound acquired during his mortal days ("Your old injuries make you too Decrepit to catch me.). Spencer'sinvestigations areaccurate;theBrujah does indeedpossess theNegative TraitDecrepit,andEddie'splayermustnowriskanadditionalTraitif hestillwishes tograpplewith theFBl agent.
-
-Ifanadditional Traitisnotavailable,youmaystill test,butifyouwinyour opponentdoesnotlosetheTrait herisked.IfmultipleNegativeTraitsarebroughtinto play andyoucannotmatchthem,youropponentgainsthatmanybonusTraitsinthe eventof a tie,makingresolution inhisfavor muchmore likely.
-
-## OVERBIDDING
-
-Overbidding allowsa supremely experienced andcompetent hunter to crush morefeeble prey.After all,SullivanDanewithhiseightMentalTraitsshould far outmatchadepartmentstoreclerkwiththree.Overbiddingletsaconfidentcharacter recoup against aninitial lossto aless-powerful opponent.
-
-Laws of the Hhunt
+Overbidding all owsa supremely experienced and competent hunter to crush morefeeble prey.After all, Sullivan Danewithhiseight Mental Traitsshould far outmatchadepartmentstoreclerkwiththree.Overbiddingletsaconfidentcharacter recoup against aninitial lossto aless-powerful opponent. Laws of the Hhunt
 
 ## Using Overbids
 
-Onceyou'veresolveda test,theloserhastheoptionof callingforanoverbid.In ordertodoso,thelosermustriskanadditionalTrait.Then,bothpartiesreveal their numherofTraits,startingwiththeplayerwhocalledfortheoverbid.Iftheinitial loser has at least twiceasmanyTraits as hisopponent,then hemaymakea newchallenge, the results of which supersede the previouschallenge.
+Onceyou'veresolveda test, the loserhastheoptionof callingforanoverbid.In or dertodoso, the losermustriskanadditional Trait.the n, bothpartiesreveal the ir numherof Traits, startingwiththeplayerwhocalledfortheoverbid.Iftheinitial loser has at least twiceasmany Traits as hisopponent, the n hemaymakea newchallenge, the results of which supersede the previouschallenge. Example of Play:Agent Spencermanages to back away from the enraged vampireassaulting him, so Eddie changes his attack.Eddie's player declares that his character is using the Presencepower of Dread Gaze, in or dertomaketheFBlagent fear him ("I am too Commanding for you to resist my wrath ——bow do wn in terror!). Spencer, naturally, triestoresistwithhisFBl composure(you runholyowerscant affect someone as naturally Charismatic as me.).The two test, and Eddie loses. how ever, the Brujahvampireisquitesociallyadept, and the layersuspectsthat FBl agent is not sowell-developed.Eddie's playerrisks an additional Trait and calls for anoverbid("Iam too Intimidatingforanymere mortal toresist!").Spencer's player do esn'tneed to risk another Trait, sothey make a secondtest.they tie, and a revelation of Traits shows that Eddie has eight Social Traitswhile Spencer onlyhas three.Spencer is affectedby the power.the FBl agent dropshisgun and fleesin terror, inadditiontolosinghisinitial Traitof Charismatic.Eddieloseshisinitial Trait of Commanding aswell, but hewins the final challenge. should you roverbidfail, you still losethe challenge and you alsolose the additional Traitrisked.If the overbid is successful, the n the overbidderlosesthe Trait herisked inthe first challengebutnot the Trait for the overbid, while the opponentlosesthe Traithebidinitially.Additionally, asuccessfuloverbidturnsthe tables on the initial challenge, and the re sultsof the overbid count instead.not e that an overbid can onlybecalled immediatelyafterlosinga challenge.you can not loseachallenge, spendanhourcontinuinglay, the ncallforanoverbidtoreverse the previous effects. ## STATIC CHALLENGES
 
-Example ofPlay:Agent Spencermanages to back away from the enraged vampireassaulting him,soEddie changes his attack.Eddie's player declares that his character is using thePresencepower ofDread Gaze,in ordertomaketheFBlagent fear him ("I am too Commanding for you to resist my wrath ——bow down in terror!). Spencer,naturally,triestoresistwithhisFBl composure(Yourunholyowerscant affect someone as naturally Charismatic as me.).The two test,and Eddie loses. However,theBrujahvampireisquitesociallyadept,andthelayersuspectsthat FBl agent isnotsowell-developed.Eddie's playerrisks an additionalTrait and calls foranoverbid("Iam tooIntimidatingforanymere mortal toresist!").Spencer's player doesn'tneed to risk anotherTrait,sothey make a secondtest.They tie,and a revelation of Traits shows that Eddie has eightSocialTraitswhileSpencer onlyhas three.Spencer isaffectedby thepower.TheFBl agent dropshisgun and fleesin terror, inadditiontolosinghisinitialTraitof Charismatic.Eddieloseshisinitial Trait of Commanding aswell,but hewins thefinal challenge.
-
-Shouldyouroverbidfail,you still losethe challenge andyou alsolose the additional Traitrisked.If theoverbid is successful,then theoverbidderlosesthe Trait herisked inthe first challengebutnot theTrait for the overbid,while the opponentlosestheTraithebidinitially.Additionally,asuccessfuloverbidturnsthe tables on the initial challenge,andtheresultsof the overbid count instead.Note that an overbid can onlybecalled immediatelyafterlosinga challenge.Youcannot loseachallenge,spendanhourcontinuinglay,thencallforanoverbidtoreverse the previous effects.
-
-## STATIC CHALLENGES
-
-AStaticChallengeinvolvesonlyoneplayer,whotestsagainstaNarratororthe Storyteller.StaticChallengescomeintoplaywhenacharactertriestousehisAbilities to affect some object or event.A researcher uses a Static Mental Challenge in conjunctionwith theLinguisticsAbility,forinstance,tonterpretabookwrittenin a strange language,whileaStaticPhysical ChallengewiththeSecurityAbilitymight berequired tobypass anelectronic lock.Thedifficulty of thechallengeisaset number ofTraits,towhichthecharactercompareshisTraittotalinthecaseofa tie.Youcan overbidnormallyinaStaticChallenge,buttheNarratormay call foranoverbidifa particularlyrecalcitrant objectresistsyour efforts.
-
-In somecases,aStorytellermay simplyleaveanoteonanobject,detailingit Traits incaseofacommon test.Thisnoteshould have theeffectivenumberof Traits associatedwith theobject and a comment about anyrequiredAbilities.
-
-Useof some special powers,likePsychicPhenomena,may require a Static Challengehscasehelayerisotecesarilytestingagainstanobjctrvent butratherismaking a test tosee if he cansuccessfully activate thepower at all.The individual power descriptions(inChapterThree)tell theTrait difficulties involved in using such powers.
-
-## Systems and Rules
+AStatic Challengeinvolvesonlyoneplayer, who testsagainsta Narratororthe Storyteller.Static Challengescomeintoplaywhenacharactertriestousehis Abilities to affect some object or event.A researcher uses a Static Mental Challenge in conjunctionwith the Linguistics Ability, for instance, tonterpretabookwrittenin a strange language, whilea Static Physical Challengewiththe Security Abilitymight berequired tobypass anelectronic lock.the difficulty of the challengeisaset number of Traits, towhichthecharactercompareshis Traittotalinthecaseofa tie.you can overbidnormallyina Static Challenge, but the n arratormay call for anoverbidifa particularlyrecalcitrant objectresistsyour efforts. In somecases, a Storytellermay simplyleaveanoteonanobject, detailingit Traits incaseofacommon test.this not eshould have the effectivenumberof Traits associatedwith the object and a comment about anyrequired Abilities. Useof some special powers, like Psychic Phenomena, may require a Static Challengehscasehelayerisotecesarilytestingagainstanobjctrvent but ratherismaking a test tosee if he can successfully activate the power at all.The individual power descriptions(in Chapter Three)tell the Trait difficulties involved in using such powers. ## Systems and Rules
 
 ## SIMPLETESTS
 
-A SimpleTestisachallengeinwhichnoTraits arerisked.Generally,theplayer makes aquick Rock-Paper-Scissors test(which succeeds if the character wins or ties) with another individual.Some SimpleTests require a win(no ties) to succeed;these exceptions arenotedin thespecificrules,
+A Simple Testisachallengeinwhichno Traits are risked.Generally, the player makes aquick Rock-Paper-Scissors test(which succeeds if the character wins or ties) with another individual.Some Simple Tests require a win(no ties) to succeed;the se exceptions are not edin the specificrules, ## RETESTS
 
-## RETESTS
+Certain Traitsgrantretests.are test all ows the playertoignore the first results of a challenge and test againfor anewresult.Retests are mostcommonly gained throughtheuseof Abilities.Ingeneral, expendingan Ability Traitinan appropriate situation all owsoneretest. Multipleretestscanbemadeonagivenchallenge, but onlyif the ycomefrom different sources.Thustslegaltoretesta Frearmschallengeoncewiththe Firearms Abilityand the nagainwiththe Merit:Luck, but twolevelsof Firearmscouldnotbe used togain multipleretests on the same challenge. Retestscan becanceled byanopponentwhoisabletomatch the conditions of the retest.Thusifaplayeruses Meleetoretestwhenstrikingwithasword, he opponentcanalsoexpendalevelof Melee(provided hehasthat Ability, of course) inorder to can cel the retestandforcethe attacker to accept the resultsof the or iginal test.Alternately, the opponent could wait to seeif the retest succeeds, and the ncallforan additional retestwithhisown Melee Ability.This tacticholds the Ability in reserve, but risks losing on the successive retest if the attacker succeeds on his firstretest. Example of Play:Eddiethevampire triestoput Agent Spencer into an arm lock （"IBrutally yankyour arm around behindyou.), while the good agent scrambles.to escape(I Quickly evadeyour grasp and stagger back out of you rreach.)The two performatest, and Eddieloses.how ever, ddieisanexceptionallose-combatfightr (Iam too skilled ina Brawltoletyou get away so easily!), and he callsforaretest. The two test again, and this time Eddiewins.Spencer winds up in a nasty crunch. Spencer counters Eddie's attackby firinghisgunpoint-blank into Eddie'sgut (with Determination,I shootyou inthe stomach.).Eddietries to absorb the damage
 
-CertainTraitsgrantretests.Aretest allows the playertoignore the first results of a challenge and test againfor anewresult.Retests aremostcommonly gained throughtheuseofAbilities.Ingeneral,expendinganAbilityTraitinan appropriate situation allowsoneretest.
+## why do N'TABILITIESADDTOTRAITS? Since Abilitiesreflectgreater aptitudeforparticularareasof skillit makessenseforthem to add to Traitpoolswhen determiningtheresultsof challenges.Losing Abilities, how ever—for getting how to do something once you've do ne it—do esn'tmakemuch sense. Abilities grantretests instead of additional Traits as a means of separatingthemmechanicallyfrom Attributes.Otherwise, Abilitieswouldreally be no differentfrom Attributes.Additionally, the system of retests all owsfor some flexibilityintheoutcome of challenges.A highly skilled character is much more likely to succeed in challenges, even when he tests against a characterwithbetter Attributes.Ultimately, this systemmakes Abilitiesand Attributes different enough torepresent highly different capabilities. ## Laws of the Hunt
 
-Multipleretestscanbemadeonagivenchallenge,butonlyif theycomefrom different sources.ThustslegaltoretestaFrearmschallengeoncewiththeFirearms Abilityand thenagainwiththeMerit:Luck,buttwolevelsofFirearmscouldnotbe used togain multipleretests on the same challenge.
+## Systems and Rules again("I'mtoo Relentlessforthattoslowme do wn!"), and the twoperform a newtest. Spencer loses, and callsforaretestwith Firearms(MyFBI trainingin Firearmsistoo goodfor metomiss at that range!").Eddie immediately can cels the testwith do dge (I do dge and weave so quickly that you r training do esn't help!") and no retest is performed.Spencer misses Eddie, and hevery likely loses his head. ## RELENTING
 
-Retestscan becanceled byanopponentwhoisabletomatch the conditions of theretest.ThusifaplayerusesMeleetoretestwhenstrikingwithasword,he opponentcanalsoexpendalevelofMelee(provided hehasthatAbility,ofcourse) inorder to cancel theretestandforcethe attacker to accept theresultsof the original test.Alternately,the opponent could wait to seeif the retest succeeds, and thencallforan additional retestwithhisownMeleeAbility.This tacticholds the Ability in reserve,but risks losing on the successive retest if the attacker succeeds on his firstretest.
+Atanypointbeforethetest, itherlayermayacquiesceandacceptdefeatinh challenge.Thoughyouautomaticallylosethechallenge, you do not losethe Traityou risked.If the challengeisnotparticularlyimportant(or if you think that losingwould befun toroleplay), relentingenablesyou tosaveyour Traits, aswell asmakingthe gamerunmoresmoothly. ## BONUSTRAITS
 
-Example ofPlay:Eddiethevampire triestoputAgentSpencer intoan arm lock （"IBrutally yankyour arm around behindyou.),while thegood agent scrambles.to escape(I Quickly evadeyour grasp and stagger back out of yourreach.)The two performatest,andEddieloses.However,ddieisanexceptionallose-combatfightr (Iam too skilled inaBrawltoletyou get away so easily!),andhe callsforaretest. The two test again,and this time Eddiewins.Spencer winds up in a nasty crunch.
+Weapons and some special abilities can give a character the edgeinatest.You addthebonus Traitstoyourtotalnumber of Traitstodeterminetieswhenusinga special Ability.Thus, ifyouhavethe Merit:Ability Aptitude(Computers)you have two additional Traitswhen determining the resultsof tiesin that are a. ## or DEROFCHALLENGES
 
-Spencer countersEddie's attackby firinghisgunpoint-blank intoEddie'sgut (WithDetermination,I shootyou inthe stomach.).Eddietries to absorb the damage
+Sincemultiple challengesmaybe happening simultaneously in anygivenfight, the Narratorwillneed toknowwho attacksfirst and actslast.The system for determining this or der is quite simple.Eachperson involvedinagivengame turn checks the number of current Traitsappropriate to the action being attempted.Thus, a character tryingtostake avampirewoulduse Physical Traits todeterminespeed, while a character castinga spell would probably use Mental Traits, even if the spell onlyrequiresa Static Mental Challenge.If anactiondoesnotrequire anysortof Trait challenge, the n it occurs last in the turn.Characterswith equal numbers of Traits should be assumed to go"simultaneously,"although for resolution purposes the Narratorwill need to simplychoose oneto actfirst. Sometimes, acharacterwithahighnumberof Traitswillattackacharacterwith fewer Traits, who will decidetostrikeback.Inthiscase, the characterwithfewer Traits resolveshisactioninthesametestwiththefastercharacter, but indoingso, heloses the ability totake any other aggressive actionfor the turn-heuses up his one action with the counterattack. Exampleof Play:Eddie, the angryvampire, attempts to strike Agent Spencer again.Unfortunatelyfor Eddie, of ficer Walkertonhasjustarrivedonthescene, and he is chargingto attack Eddiefrombehindin an attempttopull him awayfrom Spencer.Eddie has six Physical Traits left；of ficer Walkerton has eight (he's been workingoutsincecharactercreation).of ficer Walkertonleapsat Eddie("IFerociously grabyoufrombehind and tossyouoff Spencer!), while Eddiecounterswith a nasty backhand(I Quicklyswingmyfistaround and crushyoubeforeyoucangetagripon myjacket.).the yperformatest, and Walkertonloses;hesuffersonelevelof damage from Eddie's attack and failstomove the Brujah.how ever, now that Eddie has attacked, hecannolongerthrottle Spencer-he'salreadytaken his action.Spencer's playerdeclaresforhisactionthathe'scrawlingaway, and Eddiecan'tstophimbecause he's toobusywith Walkerton. ## THE MOBSCENE not e:the rulesformasscombat here are slightly different from previously publishedversionsin Mind's Eye the atre.Familiarizeyourselfwith the appropriate changes. Hunters tend to work in groupsand the ir supernatural victims of ten do the same. Since large gatherings may well come into conflict, a quick system of resolution is necessary for large battles. the se rules are helpful in resolving situationswheremanypeople attack one, or when oneindividual uses a power on several adversaries. First, decidewhoischallengingwhom.the easiestwaytodosoistocount to three, with everyonepointingtothepersonbeingvictimizedat the endofthecount. Ifthere are no casesofmultiple people attackingone individual, the nyou can resolve all of the challenges normally. Dealwithgroupsfromlargesttosmallestfirstjustforeaseofplay.Eachattacker inagroupbids an appropriate Trait or Traits for the challenge.The group can includeuptofiveindividuals;groupdynamicsprohibit assaultinganindividualwith alargerforce(althoughthe Storytelleror Narratormaymake an exception for particularlylarge or small targets). Next, the defendermustbidenough Traitstocountereveryattackerinthegroup. If the defenderdoesnothaveenough Traits, the nhemustrelent tosome or all of the attackers, although he can choose to who m herelents.Resolve the effects of such attacks normally; the defender may well fall before the rest of the group can attack. Finally, the defender and attackers engage in one simultaneous test.The defender the n compares his challenge against each of the individual attackers challengesapplyingtheappropriatresult.Thusifadenderthrows Rockandi attackersthrow Rock, Paperand Scissors, the defenderisconsideredtohavetiedthe first attacker(resolvedlike anyothertie), losttothesecond attackeranddefeated the third attacker.The defenderand attackers lose the Traitsbidin anygiven loss. If the defenderinthepreviousexamplehadbidone Trait againsteachattacker, he would have losta Traitfortheonechallengehelost, and anadditional Traitifhe had lost the tie aswell. Oncethetestshavebeenmade, the yareresolvedinthenormalorderofactions and initiative.Adefendermaylose Traits due tothefirstfewattackersand the n lose a tieto an attackerlaterin the samemob challenge.That's all right—the first attackers"softened up"the defender.how ever, unless the defender has a special powerallowinghimtotakemultipleactionshecanonlychoosetoaffectoneof the attackers, and itmustbeonewhohaslostachallenge.lfnoneof the attackerslose the n the defender simply suffers the results of the ir actions. when the defenderina mobscene uses Abilities or othertacticstogainretests, each attacker's challenge is treated as a separate test.Thus, a defender needs (for example)five Brawl Abilities in or der toretest against five separate opponents in unarmed combat. Obviously, it pays to avoid engagingmultiple opponents. ## HEALTH
 
-## WHYDON'TABILITIESADDTOTRAITS?
+Huntingthe supernatural is adangerousoccupation, and someone is bound toget hurt along the way.Health Levels track the amount of damage that a character sustains and represent the penalties and problems of injury. Acharactinsealthybutvariousfftombatostilemagicbadluk —cause injury.In general, most combat challenges result in one Health Level of damage, though some particularlyvicious attacks inflictmore.When the character sustainsonelevelofdamage, move tothenextlevelonthe Health Level chart.Thus, a Healthycharacterwhosuffersalevelofdamagebecomes Bruised, and another level of damagewouldcausethecharactertobecome Wounded.all penalties from injuryare cumulative.Thus, a Woundedcharacter suffersthepenaltiesof being Bruised, aswell. - Bruised-ABruised character has only suffered a small amount of injury.At this level, the characterispossiblyscraped upabit, or hemaybesuffering from aflesh woundortwo.ABruisedcharactersuffersslightlyfrominjuryandfatigue, and must risk an additional Trait in any challenge.Thus, entering any challenge —even defending-requires the expenditure of at least two Traits. - Wounded-Atthislevelofinjury, the charactersuffersfromfairlysignificant damage.the charactermayhaveacoupleofnastybulletwounds, substantialburns or blunttraumaAWoundedcharacterautomaticallylosesalltiesregardlessof Traits; if the characterhas apower that normally all owshim towin all ties, the nties are resolvednormallyby Traits.Worsestill, ifthecharacterhasfewer Traitsthanhis opponent, is nmygetsafreadditinaltest.hisadditonaltestsotaetstu anactualextra action(although powerswhichgrantmultipleactionsdonotmultiply this follow-up challenge —it's one test and one test only). - ·Incapacitated—An Incapacitated character is out of the picture.Hemaybe sufferingfrommajor internal injuries, or perhapshe'sbeenhorriblymauled by the claws of an enemy.An Incapacitated character is completely unconscious for 10 minutes after receiving the incapacitating injury, and he can not move or enter challenges even after regaining consciousness.An Incapacitated character can do littlemorethanspeakquietly.with out some sortof supernaturalaid, the character can do not hingelseuntil atleast one Health Levelhashealed. - ·Mortally Wounded-Bleedingprofuselyandsufferingfromshock, a Mortally Wounded individual has littletimeleft.Mortally Woundedcharactersdonotregain consciousness normally.Instead, the characterlosesa Physical Trait every10minutes. Oncethecharacterrunsoutof Physical Traitshedies.Onlytheassistanceof someone with the m edicine Abilitycanhaltthisinexorableloss, and the characterwillnoteven begin to heal unless he is treated by magic or full hospital resources. ## HEALING
 
-SinceAbilitiesreflectgreater aptitudeforparticularareasof skillit makessenseforthem to add toTraitpoolswhen determiningtheresultsof challenges.Losing Abilities,however—forgetting how to do something once you've done it—doesn'tmakemuch sense.
-
-Abilities grantretests instead of additionalTraits as a means of separatingthemmechanicallyfromAttributes.Otherwise,Abilitieswouldreally be no differentfromAttributes.Additionally,the system ofretests allowsfor some flexibilityintheoutcome ofchallenges.A highly skilled character is much more likely to succeed in challenges,even when he tests against a characterwithbetterAttributes.Ultimately,thissystemmakesAbilitiesand Attributes different enough torepresent highly different capabilities.
+Unlike the ir supernatural foes, mortals heal slowly, and they may suffr debilitating and lasting effectsfrominjuries.Althoughsometypes of magicspeed healing, mortalsgenerallyneedbedrestorevenhospitalcaretosurvivetheeffects of seriousinjury. ## Systems and Rules
 
 ## Laws of the Hunt
 
-## Systems and Rules
-
-again("I'mtooRelentlessforthattoslowme down!"),and thetwoperform a newtest. Spencer loses,and callsforaretestwithFirearms(MyFBI traininginFirearmsistoo goodfor metomiss at thatrange!").Eddie immediately cancels the testwithDodge (I Dodge and weave so quickly that your training doesn't help!") and no retest is performed.Spencer misses Eddie,and hevery likely loses his head.
-
-## RELENTING
-
-Atanypointbeforethetest,itherlayermayacquiesceandacceptdefeatinh challenge.Thoughyouautomaticallylosethechallenge,youdonotlosetheTraityou risked.If thechallengeisnotparticularlyimportant(orif you think that losingwould befun toroleplay),relentingenablesyou tosaveyourTraits,aswell asmakingthe gamerunmoresmoothly.
-
-## BONUSTRAITS
-
-Weapons and some special abilities cangive a character the edgeinatest.You addthebonusTraitstoyourtotalnumber ofTraitstodeterminetieswhenusinga specialAbility.Thus,ifyouhavetheMerit:AbilityAptitude(Computers)youhavetwo additional Traitswhen determining theresultsof tiesin that area.
-
-## ORDEROFCHALLENGES
-
-Sincemultiple challengesmaybe happening simultaneously in anygivenfight, theNarratorwillneed toknowwho attacksfirst and actslast.The system for determining this order isquite simple.Eachperson involvedinagivengame turn checks thenumber of currentTraitsappropriate to theaction being attempted.Thus, a character tryingtostake avampirewouldusePhysical Traits todeterminespeed, while a character castinga spell wouldprobably useMentalTraits,even if thespell onlyrequiresaStaticMental Challenge.If anactiondoesnotrequire anysortofTrait challenge,then it occurs last in the turn.Characterswith equal numbers ofTraits should be assumed to go"simultaneously,"although for resolution purposes the Narratorwill need to simplychoose oneto actfirst.
-
-Sometimes,acharacterwithahighnumberofTraitswillattackacharacterwith fewerTraits,whowilldecidetostrikeback.Inthiscase,thecharacterwithfewerTraits resolveshisactioninthesametestwiththefastercharacter,butindoingso,heloses the ability totake any other aggressive actionfor theturn-heuses up his one action with thecounterattack.
-
-ExampleofPlay:Eddie,theangryvampire,attempts to strikeAgentSpencer again.UnfortunatelyforEddie,OfficerWalkertonhasjustarrivedonthescene,and he is chargingto attackEddiefrombehindin an attempttopull him awayfrom Spencer.Eddie has sixPhysical Traits left；OfficerWalkerton has eight (he's been workingoutsincecharactercreation).OfficerWalkertonleapsatEddie("IFerociously grabyoufrombehind and tossyouoff Spencer!),whileEddiecounterswith a nasty backhand(I Quicklyswingmyfistaround andcrushyoubeforeyoucangetagripon myjacket.).Theyperformatest,andWalkertonloses;hesuffersonelevelof damage fromEddie's attack and failstomove theBrujah.However,now thatEddie has attacked,hecannolongerthrottleSpencer-he'salreadytaken his action.Spencer's playerdeclaresforhisactionthathe'scrawlingaway,andEddiecan'tstophimbecause he's toobusywithWalkerton.
-
-<!-- image -->
-
-## THE MOBSCENE
-
-Note:Therulesformasscombat here areslightly different from previously publishedversionsinMind's EyeTheatre.Familiarizeyourselfwith the appropriate changes.
-
-Hunters tend to work in groupsand their supernatural victims often do the same. Since large gatherings may well come into conflict,a quick system of resolution is necessary for large battles. These rules are helpful in resolving situationswheremanypeople attack one,orwhenoneindividual uses a power on several adversaries.
-
-First,decidewhoischallengingwhom.Theeasiestwaytodosoistocount to three,witheveryonepointingtothepersonbeingvictimizedat theendofthecount. Ifthere areno casesofmultiple people attackingone individual,thenyou can resolve all of the challenges normally.
-
-Dealwithgroupsfromlargesttosmallestfirstjustforeaseofplay.Eachattacker inagroupbids an appropriateTrait orTraits for the challenge.The group can includeuptofiveindividuals;groupdynamicsprohibit assaultinganindividualwith alargerforce(althoughtheStorytellerorNarratormaymake an exception for particularlylarge or small targets).
-
-Next,thedefendermustbidenoughTraitstocountereveryattackerinthegroup. If thedefenderdoesnothaveenoughTraits,thenhemustrelent tosome orallof the attackers, although he can choose to whom herelents.Resolve the effects of such attacks normally; the defender may well fall before the rest of the group can attack.
-
-Finally,the defender and attackers engage in one simultaneous test.The defender then compares his challenge against each ofthe individual attackers challengesapplyingtheappropriatresult.ThusifadenderthrowsRockandi attackersthrowRock,PaperandScissors,thedefenderisconsideredtohavetiedthe first attacker(resolvedlike anyothertie),losttothesecond attackeranddefeated the third attacker.The defenderand attackers lose theTraitsbidin anygiven loss. If thedefenderinthepreviousexamplehadbidoneTrait againsteachattacker,he would havelostaTraitfortheonechallengehelost,andanadditionalTraitifhe had lost thetie aswell.
-
-Oncethetestshavebeenmade,theyareresolvedinthenormalorderofactions and initiative.AdefendermayloseTraits due tothefirstfewattackersand then lose a tieto an attackerlaterin the samemob challenge.That's allright—the first attackers"softened up"the defender.However,unless the defender has a special powerallowinghimtotakemultipleactionshecanonlychoosetoaffectoneof the attackers,anditmustbeonewhohaslostachallenge.lfnoneof theattackerslose then the defender simply suffers the results of their actions.
-
-Whenthedefenderina mobscene usesAbilities orothertacticstogainretests, each attacker's challenge is treated as a separate test.Thus,a defender needs (for example)fiveBrawlAbilities in order toretest against five separate opponents in unarmed combat.
-
-Obviously,it pays to avoid engagingmultiple opponents.
-
-## HEALTH
-
-Huntingthe supernatural isadangerousoccupation,and someone isbound toget hurt along the way.HealthLevels track the amount of damage that a character sustains andrepresent thepenalties and problems of injury.
-
-Acharactinsealthybutvariousfftombatostilemagicbadluk —cause injury.In general,most combat challenges result in one Health Level of damage,though some particularlyvicious attacks inflictmore.When the character sustainsonelevelofdamage,move tothenextlevelontheHealthLevel chart.Thus, aHealthycharacterwhosuffersalevelofdamagebecomesBruised,and another level ofdamagewouldcausethecharactertobecomeWounded.Allpenalties frominjuryare cumulative.Thus,aWoundedcharacter suffersthepenaltiesof beingBruised,aswell.
-
-- Bruised-ABruised character has only suffered a small amount of injury.At this level,thecharacterispossiblyscraped upabit,orhemaybesuffering fromaflesh woundortwo.ABruisedcharactersuffersslightlyfrominjuryandfatigue,andmust risk an additional Trait in any challenge.Thus,entering any challenge —even defending-requires the expenditure of at least twoTraits.
-- Wounded-Atthislevelofinjury,thecharactersuffersfromfairlysignificant damage.Thecharactermayhaveacoupleofnastybulletwounds,substantialburns orblunttraumaAWoundedcharacterautomaticallylosesalltiesregardlessofTraits; if thecharacterhas apower thatnormally allowshim towin all ties,thenties are resolvednormallybyTraits.Worsestill,ifthecharacterhasfewerTraitsthanhis opponent,isnmygetsafreadditinaltest.hisadditonaltestsotaetstu anactualextra action(although powerswhichgrantmultipleactionsdonotmultiply this follow-up challenge —it's one test and one test only).
-- ·Incapacitated—An Incapacitated character is out of the picture.Hemaybe sufferingfrommajor internal injuries,orperhapshe'sbeenhorriblymauled by the claws of an enemy.An Incapacitated character is completely unconscious for 10 minutes after receiving the incapacitating injury,and he cannotmove or enter challenges even after regaining consciousness.An Incapacitated character can do littlemorethanspeakquietly.Without some sortof supernaturalaid,thecharacter candonothingelseuntil atleast oneHealthLevelhashealed.
-- ·MortallyWounded-Bleedingprofuselyandsufferingfromshock,aMortally Wounded individual haslittletimeleft.MortallyWoundedcharactersdonotregain consciousness normally.Instead,thecharacterlosesaPhysicalTrait every10minutes. OncethecharacterrunsoutofPhysicalTraitshedies.Onlytheassistanceof someone withtheMedicineAbilitycanhaltthisinexorableloss,andthecharacterwillnoteven begin to heal unless he is treated by magic or full hospital resources.
-
-## HEALING
-
-Unlike their supernatural foes,mortals heal slowly,and they may suffr debilitating andlasting effectsfrominjuries.Althoughsometypes of magicspeed healing,mortalsgenerallyneedbedrestorevenhospitalcaretosurvivetheeffects ofseriousinjury.
-
-## Systems and Rules
-
-## Laws of the Hunt
-
-SomepowerssuchasthewerewolfGiftMother'sTouch,healwounds instantly. Obviously,thesepowers areofgreat assistancetomortals.Othercapabilities,such as the Sorcery path of Healing, simply accelerate the speed of natural recovery. Eitherway,themortalwill definitelywishtoavail himselfofwhateverservices are availableinhealingquickly.Abed-riddencripplecanhardlydefendhimself from vampires,after all.
-
-## RECOVERY
-
-WithropercareandrestitakesonedaytohealfromruisedtoHealthy,awk tohealfromWoundedtoBruisedandamonthtohealfromIncapacitatedto Wounded.CharactershealfromMortallyWounded attheStoryteller'sdiscretion, andtheywill recoverwith anewNegativePhysical Trait(suchasDecrepit,Delicate, Lame or Sickly). A mortal must heal through each level of injury separately; a Wounded character needs tospendaweekhealing toBruised,and then another day healingtoHealthy.
-
-Charactersrecover fromwoundsbetween sessions or stories.If a magical power （such as theSorcery pathof Healing）isused tospeedrecovery,thecharacterhealsat thenextfasterrate—thus,aWoundedcharacterwould healtoBruisedinadaywith acceleratedhealing.ABruisedcharacterhealsafter10minutesofrestifaccelerated healing isused.(Note:Accelerated healingmethodsare notcumulative.An Incapacitatedcharacter treatedbysomeonewithHealingandtheMedicineAbilityhealsno fasterthanifone ortheotherwasused.)
+Somepowerssuchasthewerewolf Gift Mother's Touch, healwounds instantly. Obviously, the sepowers are of great assistancetomortals.Othercapabilities, such as the Sorcery path of Healing, simply accelerate the speed of natural recovery. Eitherway, the mortalwill definitelywishtoavail himselfofwhateverservices are availableinhealingquickly.Abed-riddencripplecanhardlydefendhimself from vampires, after all. ## RECOVERY with ropercareandrestitakesonedaytohealfromruisedto Healthy, awk tohealfrom Woundedto Bruisedandamonthtohealfrom Incapacitatedto Wounded.Charactershealfrom Mortally Wounded atthe Storyteller'sdiscretion, and they will recoverwith anew Negative Physical Trait(suchas Decrepit, Delicate, Lame or Sickly). A mortal must heal through each level of injury separately; a Wounded character needs tospendaweekhealing to Bruised, and the n another day healingto Healthy. Charactersrecover from woundsbetween sessions or stories.If a magical power （such as the Sorcery pathof Healing）is used tospeedrecovery, the characterhealsat the nextfasterrate—thus, a Woundedcharacterwould healto Bruisedinadaywith acceleratedhealing.ABruisedcharacterhealsafter10minutesofrestifaccelerated healing is used.(not e:Accelerated healingmethodsare not cumulative.An Incapacitatedcharacter treatedbysomeonewith Healingandthe Medicine Abilityhealsno fasterthanifone or the otherwasused.)
 
 ## DISEASEANDINFECTION
 
-Mortalsrailraturesthattheyaremustcopewiththeossibilitiesofisease andinfection.It's difficult tofight theunlivingwhenyou'vegot a nasty case of theflu, and asif supernatural clawsweren'tbadenough,theres alwaysthepossibility of those lovely suppuratingwounds.
+Mortalsrailraturesthattheyaremustcopewiththeossibilitiesofisease and infection.It's difficult tofight the unlivingwhenyou'vegot a nasty case of the flu, and asif supernatural clawsweren'tbadenough, the res alwaysthepossibility of those lovely suppuratingwounds. of coursedisaseandnfectionarefairlyncidentaloplaybuttheycanrovi anew and loomingthreatformortals.Additionally, incorporatingdiseaseand infection gives all the morereason for hunters to study Healing and Medicine and provides some interestingstorypossibilitiesfor CDC hunters. ## DISEASES
 
-Ofcoursedisaseandnfectionarefairlyncidentaloplaybuttheycanrovi anew andloomingthreatformortals.Additionally,incorporatingdiseaseand infection gives all themorereason for hunters to studyHealing andMedicine and provides some interestingstorypossibilitiesfor CDC hunters.
+Charactersgenerallycatchdiseases through exposure to taintedmaterial and unsanitary conditions.Since hunters spend a lot of the ir time wandering through graveyards and crawling in sewers, disease is averyreal danger. Mortalcharactersshouldonlyneedtoworry aboutdiseaseif the Storyteller decides to make an is sue of it.the re are nohard-and-fastrules for getting sick;a Storytellermighthave eachplayermake a Static Physical Challenge to avoid disease afterwanderingthroughaparticularlynastyandrefuse-strewnlocation, or after cominginto contact with virulent foes.(Animated rotting corpses, diseased monstrosities and leprous streetdwellers are all staples of horrorfiction, afterall). Onceacharacterisdiseased, the Storytellershoulddeterminethedisease's severity.Minordiseaseslikecoldsarenothingmorethananuisance, but moreserious afflictionscan threatenahunter'slife. ## Mild Diseases
 
-## DISEASES
+Amilddiseaseisuncomfortablebutnotcompletelyincapacitating.Milddiseases typicallycausethecharactertosufferfromthe Negative Traitsof Sickly Repugnantand Oblivious.Milddiseases lastforaboutaweek, althoughaskilledhealercanridthe characterofthesymptoms inaday(byusing Healing or Medicine).Mild diseasesmight include a nasty cold, a sinusinfection or amild flu. ## Serious Diseases
 
-Charactersgenerallycatchdiseases through exposure to taintedmaterial and unsanitary conditions.Since hunters spend a lot of their time wandering through graveyards and crawling in sewers,disease is averyreal danger.
+Serious diseases carry the riskofpermanent damage, but they are usually surmountablewithrestandsomemedication.Ahuntersuffering from aseriousdisease maywellbecompletelyincapacitatedbythesymptoms, and heislikelytohaveagreat deal of difficultyevenwitheverydayactivities.Seriousdiseases afflictacharacterwith the same Negative Traits asmild diseases, and they cause the character tolose one Health Levelwhilesufferingfrom the disease.Thus, anormal mortal suffering from aseriousdiseaseisautomaticallyatleast Bruisedforthedurationof the disease.Serious diseasesgenerallylastforamonth, thoughaskilledhealercanclearup the symptoms with a week of care and rest.A serious disease that is untreated—that is, if the character surviveswithout the assistance of a skilled healer—generallyleaves the characterwith a Negative Physical Trait such as Lameor Decrepit, though somemay cause scarring that makes the character Repugnant.Furthermore, a character who suffersfrom aseriousdiseaseandremainsuntreatedmustwinortiea Simple Testto avoiddeath.Pneumonia, smallpox and malaria are examplesof seriousdiseases. ## Deadly Diseases
 
-Mortalcharactersshouldonlyneedtoworry aboutdiseaseif theStoryteller decides to make an issue ofit.There arenohard-and-fastrules for getting sick;a Storytellermighthave eachplayermake aStaticPhysical Challenge to avoid disease afterwanderingthroughaparticularlynastyandrefuse-strewnlocation,orafter cominginto contact with virulent foes.(Animated rotting corpses,diseased monstrosities andleprous streetdwellers are all staples ofhorrorfiction,afterall).
+Deadlydiseasesaregenerallyfatalifuntreated, and they mayevenkillacharacterwo has medical assistance.Deadly diseases are completely incapacitating;a hunter suffering from adeadlydiseasecannotenterchallengesatallforthedurationof the disease.with out medical assistance, characterswith deadly diseasesrecover only at the Storyteller's discretion.Characterswho are treatedwithmagicalremediesormedicalassistancemight recoverafterafullmonthofrestandcare.Ineithercase, a Simple Testisrequiredforeach month inwhichthecharacter suffersfrom the disease;if the testis tied or failed, the characterdies Deadlydiseasesincludetyphoidfever, hepatitisand Ebola Zaire. ## INFECTIONS
 
-Onceacharacterisdiseased,theStorytellershoulddeterminethedisease's severity.Minordiseaseslikecoldsarenothingmorethananuisance,butmoreserious afflictionscan threatenahunter'slife.
+Huntersareina dangerouslineofwork, and the yarelikelytosuffernjuryfrom the irprey.Worsestill, ahunteroftencan'triskgoingtoahospital;toomanyawkward questions could easily lead to arrest or commitment inamentalfacility.Asaresult, hunters of tenhave torest at home and take the irchanceswithwound recovery. Combinedwith the widevariety of of tendangerous or dirty environments inwhich huntersfight, infection of woundsisa constantthreat. An infectedwounddoesnothealnormally.Insteadatthe endofanyperiodof healingtime, the playermustmake another Simple Test.Successindicates that the infection has cleared up and the hunter can continue to heal normally (although the wound do es not actuallyheal atthistime);failuremeans that the infectionworsens and the character suffers another Health Level of damage.the infection continues, A hunterrisks infection any time he suffers a wound in a particularly filthy environment and do esn'tsubsequentlyreceivetreatment.AStorytellermay(but do esnot have to)callfora Simple Test, with failureindicatingthatawoundhasbecomeinfected. ## Systems and Rules
 
-## Mild Diseases
+## Laws of the Hunt and the charactermust test againonce the requisite timehaspassed.for instance, if a huntersuffersonewounddroppingtothe Bruised Health Level, and subsequently receivesaninfection, the playermusttestafteraday.Failurewouldcausethecharacter tosufferanotherlevelofinjury, droppingtothe Wounded Health Levelwhilesuccess would meanthattheinfection has clearedupsothecharactercanheal normally.This systemsimulatesthefactthatabadinfectiontakesawhiletogetmuchworsebutthat anastyinfection alsotakes a whiletoheal. Acharacterwhodoesnotgetrest automaticallysuffersdegradationfrominfected wounds.Thus, if a hunter suffers a from Bruisedwound and gets infected, he automatically drops to the Wounded Health Level after adayif hedoesnot rest. Proper treatment can helptoclearupinfections.Medical attention from a characterwith the Medicine Ability or the appropriate Healingpowers can defeat infecrionwithouta testoncethecharacterhasrestedfortherequisite amountoftime. Thus, a hunter at the Wounded Health Levelmustrestfora weekbefore hisinfection clearsup, but undermedicalcare, not est is necessary;the inectioneals automatically. Accelerated healing do esnotspeedtherate atwhichinfections heal, itsimply assureseventualhealing.AWounded characterwithaninfectionmust the reforerest for a full week toclear up an nfection, even ifmagical or skilledhealingisused. ## COMBAT
 
-Amilddiseaseisuncomfortablebutnotcompletelyincapacitating.Milddiseases typicallycausethecharactertosufferfromtheNegativeTraitsofSicklyRepugnantand Oblivious.Milddiseases lastforaboutaweek,althoughaskilledhealercanridthe characterofthesymptoms inaday(byusing Healing orMedicine).Mild diseasesmight include a nasty cold,a sinusinfection or amild flu.
+Seeingas how hunters tend togo outof the irwayto stalk and destroy the ir supernaturalopponents, combatispracticallyaninevitability.Combatrunsunderthe usualsystemforchallenges, with onlyafewsimplemodifications. Combat proceeds with tests, just like any other sort of challenge.how ever, specialweaponsandequpmentcansubstantiallyaffectthecoursofthebattleamay environmental conditions.Combat should alwaysbeconductedin turns unlessyou agree to simplyrole-play out the results;using turns gives everyparticipant a fair chance to take actions. the usualformofcombatisasaseriesof Physical Challenges, with the winner injuringtheloser.how ever, suchisnotalwaysthecase;onecombatantmay choose toinjure the defender, while the defendermay simplywishtoescape.You can do just about anything:A combatchallenge'sresults could rangefrom simply striking or grapplingan enemy to throwingsomeone outofawindow(throughnarrative description, of course, not actual defenestration). ## SURPRISE
 
-## Serious Diseases
+Ifaplayerdoesnotrespondwithinthree secondsof receivingachallenge, the n the character is considered surprised.Such a character is distracted or otherwise do esntnoticewhatsgoingon, and hehasahardertimeresponding.Surpriseisonly legal if the player could normally hear the challenger;sneakingaroundwhispering challenges and the n declaring surprise is unfair and illegal. A surprisedcharactermay onlydefend against a givenchallenge.the attackermay strikerllyfuunantursircaa of the test;hemerelystavesoffharm.urthermore, the attackernaurrisechallengemay immediatelyfollowupwith anormalaction;the defenderdoesnothavetheopportunity to perform another action, although he handles his second action normally. ## Systems and Rules R
 
-Serious diseases carry the riskofpermanent damage,but they are usually surmountablewithrestandsomemedication.Ahuntersuffering fromaseriousdisease maywellbecompletelyincapacitatedbythesymptoms,and heislikelytohaveagreat deal of difficultyevenwitheverydayactivities.Seriousdiseases afflictacharacterwith the sameNegativeTraits asmild diseases,and they cause thecharacter tolose one HealthLevelwhilesufferingfrom thedisease.Thus,anormal mortal suffering from aseriousdiseaseisautomaticallyatleastBruisedforthedurationof thedisease.Serious diseasesgenerallylastforamonth,thoughaskilledhealercanclearup thesymptoms with a week of care and rest.A serious disease that is untreated—that is,if the character surviveswithout the assistance of a skilled healer—generallyleaves the characterwith aNegativePhysicalTrait such asLameorDecrepit,though somemay cause scarring thatmakes the character Repugnant.Furthermore,a character who suffersfrom aseriousdiseaseandremainsuntreatedmustwinortieaSimpleTestto avoiddeath.Pneumonia,smallpox andmalaria areexamplesof seriousdiseases.
+Onceasurpriseactionhasbeenresolved, combatcontinuesnormally, and h defendermay attack, escape, use specialpowers or otherwiserespondwithin his capabilities. ## COVER
 
-## Deadly Diseases
+Obviouslyhand-to-handcombatcanonlyoccurwhencombatantsarewithinarms reachofeachother.Firearmscombatcanoccuratdistances, aslongastheopponentscan seeone another and successfullyfire an appropriateweapon across the intervening distance.Someone out of range or completelybehindcovercannotbehit.An attacker mustmove toapositionwhere hecansee and reach hisopponentif hewishesto attack someonecompletelyundercover.Conversely, acharacterhidingbehindcovercannotfire throughthatobstruction.Ifyourecrouchingbehindabrickwall, you can tshootour opponent throughthewallanymorethan hecanshoot you throughthe same. Ifa combatant has partialcover, hecanclaimone Traitofcoverwhenresolving ties and overbids.Cover of this nature alsocounts ifacharacterducksfor safety the n popsuptoshoottheopponent.the enemycanstillcounterattackbutthereturnfe is slightlymoredifficult.Attheoptionofa Narrator, some significantcovermaybe worthtwo additional Traits;ifa characterducksbehind acarand onlyherhead and handsareexposedhercover is worthsignificantlymore Traitsthanif sheisstanding behinda tree. ## DARKNESS
 
-Deadlydiseasesaregenerallyfatalifuntreated,andtheymayevenkillacharacterwo hasmedical assistance.Deadly diseases are completely incapacitating;a hunter suffering fromadeadlydiseasecannotenterchallengesatallforthedurationof thedisease.Without medical assistance,characterswith deadly diseasesrecover only at the Storyteller's discretion.Characterswho aretreatedwithmagicalremediesormedicalassistancemight recoverafterafullmonthofrestandcare.Ineithercase,aSimpleTestisrequiredforeach month inwhichthecharacter suffersfrom thedisease;if thetestis tied orfailed,the characterdiesDeadlydiseasesincludetyphoidfever,hepatitisandEbolaZaire.
+When night falls, the vampires come out, and so do the people who hunt the m. Unfortunately, darkness makes battle difficult at best. Characterswithout proper meansofseeingwhethersupernaturalormundane, sufferproblemswhenfightingr performingprecision tasksin the dark. Partial darknesssuchasfightingonadimnight, mposesa two Traitpenalty all actions.of coursefbothpartiesareinthedark, this penaltyoesnmatterbu ifonecharactercanseewellandtheotheronlyhasdimoutlinestogoby, the character with bettervisionhasaclearadvantage this penaltyapliestotiesandoverbidsb it do esnotforcea charactertoriskadditional Traits.Acharacterwith Acute Sense (Vision)or Acute Sense(Hearing) suffers only a one-Trait penalty in challenges in partialdarkness.Additionally, eachlevelof the Blindfighting Abilityallowsacharacter tonullifyone Traitof this penalty, sotwolevelsof Blindfightingcompletelyremovethe penaltyfor fighting in darkness. Total darkness occurswhen acharacterisina pitch-blackenvironment, likean enclosedcellarwithouta lightsource.Becauseof the completeinability tosensehis surroundings, the charactersuffersatwo-Traitpenalty toallchallenges, and must automatically retest any successfulchallenge once.Again, if two characters are battlingnitchblacknesshesepenaltieswillcanceloutbutifonecharacterhas means of seeing in the darkness, the n his opponentwill be at a severe disadvantage. Acharacterwith Acute Sense(Hearing)can trackhisopponentbysound, and hesuffers only a one Traitpenalty into taldarkness, althoughheis still for cedto take are test on all successful challenges.Acute Sense (Vision) is of no help in this situation.The Blindfighting Abilityremoves the Traitpenalty asdescribed for partialdarkness, but additionallythecharactermayuse Blindfightingtonegate the retestscalledforinthe eventof a successful challenge. ## EQUIPMENT
 
-## INFECTIONS
+Nohunter survives longwithout the toolsof his trade.Proper preparationis essential to a successful hunt, and the right equipment is necessary to even stand a chance of fighting the supernatural.Hunters can even the odds against the ir supernatural foesbyusingawidevarietyofweapons, armor and specialgearmuch of which is unavailable throughnormalchannels or simplyincomprehensibleto supernatural creatureswho are n'tgrounded inthemodernworld. ## WEAPONS
 
-Huntersareina dangerouslineofwork,and theyarelikelytosuffernjuryfrom theirprey.Worsestill,ahunteroftencan'triskgoingtoahospital;toomanyawkward questions could easily lead to arrest or commitment inamentalfacility.Asaresult, hunters oftenhave torest at home and take theirchanceswithwound recovery. Combinedwith thewidevariety of oftendangerous or dirty environments inwhich huntersfight,infection ofwoundsisa constantthreat.
-
-An infectedwounddoesnothealnormally.Insteadatthe endofanyperiodof healingtime,the playermustmake another SimpleTest.Successindicates that the infection has cleared up and the hunter cancontinue to heal normally (although the wound does not actuallyheal atthistime);failuremeans that theinfectionworsens and the character suffers anotherHealthLevel of damage.Theinfection continues,
-
-A hunterrisks infection any time he suffers a wound in a particularly filthy environment anddoesn'tsubsequentlyreceivetreatment.AStorytellermay(butdoesnot haveto)callforaSimpleTest,withfailureindicatingthatawoundhasbecomeinfected.
-
-## Systems and Rules
-
-## Laws of the Hunt
-
-and the charactermust test againonce therequisite timehaspassed.Forinstance,if a huntersuffersonewounddroppingtotheBruisedHealthLevel,and subsequently receivesaninfection,theplayermusttestafteraday.Failurewouldcausethecharacter tosufferanotherlevelofinjury,droppingtotheWoundedHealthLevelwhilesuccess wouldmeanthattheinfection hasclearedupsothecharactercanheal normally.This systemsimulatesthefactthatabadinfectiontakesawhiletogetmuchworsebutthat anastyinfection alsotakes a whiletoheal.
-
-Acharacterwhodoesnotgetrest automaticallysuffersdegradationfrominfected wounds.Thus,if a hunter suffers a from Bruisedwound and gets infected,he automatically drops to theWoundedHealthLevel after adayif hedoesnot rest.
-
-Proper treatment canhelptoclearupinfections.Medical attention from a characterwith theMedicine Ability or the appropriateHealingpowers can defeat infecrionwithouta testoncethecharacterhasrestedfortherequisite amountoftime. Thus,a hunter at theWounded Health Levelmustrestfora weekbefore hisinfection clearsup,butundermedicalcare,notest isnecessary;theinectioneals automatically.
-
-Accelerated healing doesnotspeedtherate atwhichinfections heal,itsimply assureseventualhealing.AWounded characterwithaninfectionmust thereforerest for a full week toclear up an nfection,even ifmagical or skilledhealingisused.
-
-## COMBAT
-
-Seeingas howhunters tend togo outof theirwayto stalk and destroy their supernaturalopponents,combatispracticallyaninevitability.Combatrunsunderthe usualsystemforchallenges,with onlyafewsimplemodifications.
-
-Combat proceeds with tests,just like any other sort of challenge.However, specialweaponsandequpmentcansubstantiallyaffectthecoursofthebattleamay environmental conditions.Combat should alwaysbeconductedin turns unlessyou agree to simplyrole-play out theresults;using turns gives everyparticipant a fair chance to take actions.
-
-TheusualformofcombatisasaseriesofPhysical Challenges,withthewinner injuringtheloser.However,suchisnotalwaysthecase;onecombatantmay choose toinjure thedefender,while the defendermay simplywishtoescape.You candojust about anything:A combatchallenge'sresults could rangefrom simply striking or grapplingan enemy to throwingsomeone outofawindow(throughnarrative description,of course,not actual defenestration).
-
-## SURPRISE
-
-Ifaplayerdoesnotrespondwithinthree secondsof receivingachallenge,then the character is considered surprised.Such a character is distracted or otherwise doesntnoticewhatsgoingon,andhehasahardertimeresponding.Surpriseisonly legal if theplayer couldnormally hear thechallenger;sneakingaroundwhispering challenges and then declaring surprise is unfair and illegal.
-
-A surprisedcharactermay onlydefend against a givenchallenge.Theattackermay strikerllyfuunantursircaa ofthetest;hemerelystavesoffharm.urthermore,theattackernaurrisechallengemay immediatelyfollowupwith anormalaction;thedefenderdoesnothavetheopportunity to perform another action, although he handles his second action normally.
-
-## Systems and Rules R
-
-Onceasurpriseactionhasbeenresolved,combatcontinuesnormally,andh defendermay attack,escape,use specialpowers orotherwiserespondwithin his capabilities.
-
-## COVER
-
-Obviouslyhand-to-handcombatcanonlyoccurwhencombatantsarewithinarms reachofeachother.Firearmscombatcanoccuratdistances,aslongastheopponentscan seeone another andsuccessfullyfire an appropriateweapon across theintervening distance.Someone out of range or completelybehindcovercannotbehit.An attacker mustmove toapositionwhere hecansee and reach hisopponentif hewishesto attack someonecompletelyundercover.Conversely,acharacterhidingbehindcovercannotfire throughthatobstruction.Ifyourecrouchingbehindabrickwall,youcantshootour opponent throughthewallanymorethan hecanshoot youthroughthe same.
-
-Ifa combatant haspartialcover,hecanclaimoneTraitofcoverwhenresolving ties andoverbids.Cover of thisnature alsocounts ifacharacterducksfor safety then popsuptoshoottheopponent.Theenemycanstillcounterattackbutthereturnfe isslightlymoredifficult.AttheoptionofaNarrator,some significantcovermaybe worthtwo additionalTraits;ifa characterducksbehind acarand onlyherhead and handsareexposedhercover isworthsignificantlymoreTraitsthanif sheisstanding behinda tree.
-
-## DARKNESS
-
-When night falls,the vampires come out,and so do the people who hunt them. Unfortunately,darkness makes battle difficult at best. Characterswithout proper meansofseeingwhethersupernaturalormundane,sufferproblemswhenfightingr performingprecision tasksin the dark.
-
-Partial darknesssuchasfightingonadimnight,mposesa twoTraitpenalty all actions.Ofcoursefbothpartiesareinthedark,thispenaltyoesnmatterbu ifonecharactercanseewellandtheotheronlyhasdimoutlinestogoby,thecharacter withbettervisionhasaclearadvantageThispenaltyapliestotiesandoverbidsb it doesnotforcea charactertoriskadditionalTraits.AcharacterwithAcuteSense (Vision)or Acute Sense(Hearing) suffers only a one-Trait penalty in challenges in partialdarkness.Additionally,eachlevelof theBlindfightingAbilityallowsacharacter tonullifyoneTraitof thispenalty,sotwolevelsofBlindfightingcompletelyremovethe penaltyfor fighting in darkness.
-
-Total darkness occurswhen acharacterisina pitch-blackenvironment,likean enclosedcellarwithouta lightsource.Becauseof thecompleteinability tosensehis surroundings,the charactersuffersatwo-Traitpenalty toallchallenges,andmust automatically retest any successfulchallenge once.Again,if two characters are battlingnitchblacknesshesepenaltieswillcanceloutbutifonecharacterhas means of seeing in the darkness,then his opponentwill be at a severe disadvantage. AcharacterwithAcuteSense(Hearing)cantrackhisopponentbysound,andhesuffers only a oneTraitpenalty intotaldarkness,althoughheis still forcedto take aretest on all successful challenges.Acute Sense (Vision) is of no help in this situation.The BlindfightingAbilityremoves theTraitpenalty asdescribed forpartialdarkness,but additionallythecharactermayuseBlindfightingtonegate theretestscalledforinthe eventof a successful challenge.
-
-<!-- image -->
-
-## EQUIPMENT
-
-Nohunter survives longwithout the toolsof his trade.Proper preparationis essential to a successful hunt,and theright equipment isnecessary to even stand a chance of fighting the supernatural.Hunters can even the odds against their supernatural foesbyusingawidevarietyofweapons,armor andspecialgearmuch ofwhich is unavailable throughnormalchannels or simplyincomprehensibleto supernatural creatureswho aren'tgrounded inthemodernworld.
-
-## WEAPONS
-
-No real weapons are ever allowed in Mind’s Eye Theatre games.
-
-Weapons grant bonus Traits to their wielders.Mostweapons grant anywhere fromonetothreeTraits,and theyhave somesortofNegativeTraitthatservesasa drawback to theitemnquestion.When strikingwithaweapon,youcannot bid the weapon'sTraits,butyoumayaddthemtoyourtotalnumberofTraitswhencomparing foratieor anoverbid.
-
-Weapons improve the capabilities ofa combatant,granting additionalTraits and allowing anattackertouse differentmaneuvers.Eachweaponshouldberepresented withasimplecard,whichdetailsthecapabilitiesof theweaponnquestion.Weapons typicallyinflictasingleHealthLevelofdamagealthoughinactualitythedamages determined bymutual agreement-acharactergetting shot inthe head atpoint-blank rangemayimmediatelydroptoIncapacitatediftheattackissuccessful,simplyduetothe brutalnature of thedamage.Actualweapons ornon-functional props shouldneverbe used;there are simply toomany possible accidents and legal entanglements.
-
-Opponentsmay use theNegativeTraits of a weapon againstyou just like other NegativeTraits.fyoureusingapistol,theopponentmaycallouttheNegativeTraitLoud, forcingyouobidanadditionalraitorourshotonverselyifanoppnentcallu anincorrectNegativeTrait,thenhemustexpendanadditionalTraittodefendYoucan ignore the penalties ofNegativeTraitsifyou takethepropertime tosetupyourattack; a silencer,forinstancecouldmuffleyouristolandeliminateheNegativeTraitLoud Keep inmind that theNegativeTraits of aweaponmayrepresentmore troublethan the simpledescriptionprovidedbytheTrait;usingaguninanemptylotdoesnotmitigatethe LoudTrait,orexamplebecausethegunsnoiseandrecoilarestilldisoriening
+No real weapons are ever all owed in Mind’s Eye the atre games. Weapons grant bonus Traits to the ir wielders.Mostweapons grant anywhere from onetothree Traits, and the yhave somesortof Negative Traitthatservesasa drawback to the itemnquestion.When strikingwithaweapon, you can not bid the weapon's Traits, but you mayaddthemtoyourtotalnumberof Traitswhencomparing for atieor anoverbid. Weapons improve the capabilities of a combatant, granting additional Traits and all owing anattackertouse differentmaneuvers.Eachweaponshouldberepresented with asimplecard, which detailsthecapabilitiesof the weaponnquestion.Weapons typicallyinflictasingle Health Levelofdamagealthoughinactualitythedamages determined bymutual agreement-acharactergetting shot inthe head atpoint-blank rangemayimmediatelydropto Incapacitatediftheattackissuccessful, simplyduetothe brutalnature of the damage.Actualweapons or non-functional props should neverbe used;the re are simply toomany possible accidents and legal entanglements. Opponentsmay use the Negative Traits of a weapon againstyou just like other Negative Traits.fyoureusingapistol, the opponentmaycalloutthe Negative Trait Loud, for cingyouobidanadditionalraitorourshotonverselyifanoppnentcallu anincorrect Negative Trait, the nhemustexpendanadditional Traittodefend you can ignore the penalties of Negative Traitsifyou takethepropertime tosetupyourattack; a silencer, for instancecouldmuffleyouristolandeliminatehe Negative Trait Loud Keep inmind that the Negative Traits of aweaponmayrepresentmore troublethan the simpledescriptionprovidedbythe Trait;usingaguninanemptylotdoesnotmitigatethe Loud Trait, or examplebecausethegunsnoiseandrecoilarestilldisoriening
 
 ## CONCEALABILITY
 
-Eachweapon has a concealability rating.If you donot have sufficient cover or clothingtoconcealyourweapon,thenyoumustdisplaytheweaponcardprominently, either bypinning it toyour shirt orholdingit in your hand.This indicates to all onlookersthatyouare actuallyholdingtheweaponorthatyou haveit slungoveryour backor shoulder.lfyouhave suficientconcealment tohidetheweapon,youmay simply put the appropriate card intoyour pocket,drawing itwhen desired.
+Eachweapon has a concealability rating.If you do not have sufficient cover or clothingtoconcealyourweapon, the nyoumustdisplaytheweaponcardprominently, either bypinning it toyour shirt or holdingit in you r hand.This indicates to all onlookersthatyouare actuallyholdingtheweaponorthatyou have it slungoveryour backor should er.lfyouhave suficientconcealment tohidetheweapon, you may simply put the appropriate card into you r pocket, drawing itwhen desired. ## AVAILABILITY
 
-## AVAILABILITY
+Gettinga hold of aweapon may take some serious torque.Althoughanyonecan buyabutcherknifeorabaseballbat, afullyautomaticassaultrifleoracombatshotgun is anothermatter entirely.Someweapons are availabletoanyonewith the money and the time.Mostfirearmsrequiresomesortofregistrationbutgetingittypicallyisn
 
-Gettinga hold ofaweapon may take some serious torque.Althoughanyonecan buyabutcherknifeorabaseballbat,afullyautomaticassaultrifleoracombatshotgun isanothermatter entirely.Someweapons are availabletoanyonewith themoney and thetime.Mostfirearmsrequiresomesortofregistrationbutgetingittypicallyisn
+## Systems and Rules a problemforamortalwithout acriminalrecord.Generally, acharacterwillwanto use Influence to acquire more dangerous weapons.Espiomage, Police, Street and Underworld are the most useful types of Influence for acquiring otherwiseillicit weapons.Alternately, a Storytellermay assignweapons toacharacter(policeofficers and government agents inparticular usuallyhavepistols, and mostlnquisitors own swords)or build a story specifically around the quest to acquirerare and special weaponsorammunition. Just because an item is readily availabledoesn't necessarilymean that acharacter can automaticallygetit, of course.Objectscostmoney toacquire.When aquestion of financesarises, the Storyteller, Narratororlayercansimplylookupthecostofa similarpublicly availableitem.Characterswillneedtohavethe Fimance Ability or some sortofmoney-raising Influenceinorder toraise the fundsnecessary for the purchase.Purchasing equipmentin this fashion is best handledindowntime, but an interesting story could easily revolvearound a blackmarket purchase gone awry. not e also that some heavy military gear is too valuable to be "acquired" throughthechannelsofregular Influence.Fullyautomaticweapons and heavybody armor are carefully tracked by military records.Thus, a character using Military Influence to acquire high-end equipment may only be able to geta"loan, as not ed in the availabilitydescription.Ifa characterfailstoreturn aloaned item at the end of the game session, the n the character loses all Military Influence and may even suffer the misfortune of having aninvestigative group of militarypolice assigned to track him do wn. ## SPECIALWEAPONCAPABILITIES
 
-## Systems and Rules
+Someweaponspossessspecialcapabilities, all owingthe attackertoinflictextra damage or strike multiple opponents.(Such powers are not ed under the weapon descriptions.)Acapsule descriptionofeachspecialabilityfollowsforeasyreference, sincemanyweapons possesssimilar abilities. ## Armor-Piercing
 
-a problemforamortalwithout acriminalrecord.Generally,acharacterwillwanto use Influence to acquire more dangerous weapons.Espiomage,Police,Street and Underworld are the most useful types ofInfluence for acquiring otherwiseillicit weapons.Alternately,aStorytellermay assignweapons toacharacter(policeofficers andgovernment agents inparticular usuallyhavepistols,andmostlnquisitors own swords)orbuild a story specifically around thequest to acquirerare and special weaponsorammunition.
+Specialrounds, generally Teflon-coated, penetrate armorwithease.Although armor-piercingrounds don't cause extra damage tothetarget, the ydo ignore any defensesfromarmor.Armor-piercingroundsareparticularlydifficult toacquireand legal inquiriesoftenfollowtheir use. ## Destroy Shield
 
-Just because an item isreadily availabledoesn't necessarilymean thatacharacter can automaticallygetit,of course.Objectscostmoney toacquire.When aquestion offinancesarises,theStoryteller,Narratororlayercansimplylookupthecostofa similarpublicly availableitem.CharacterswillneedtohavetheFimanceAbility or some sortofmoney-raisingInfluenceinorder toraise thefundsnecessary for the purchase.Purchasing equipmentin thisfashion isbest handledindowntime,but an interesting story could easily revolvearound a blackmarket purchase gone awry.
+Thoughshieldsarerareinthemodernage, some Inquisitors still usethemwhile fighting with swords against vampires and other monsters.A weapon capable of destroyingshieldscan automaticallypenetrateashield and renderituselessafterthe shield absorbs a certainnumber of blows, regardless of the strength and size of the shield.the weapononlyinflictsdamageontheshieldif the shield actuallyblocksthe attack-ifa characterwith an ax, for instance, manages tohit a shielded target with outbeingblocked by the shield, the shielddoesnotsufferfromtheattack. ## Fully Automatic
 
-Note also that some heavy military gear is too valuable to be "acquired" throughthechannelsofregularInfluence.Fullyautomaticweapons and heavybody armor are carefully tracked by military records.Thus,a character using Military Influence to acquire high-end equipment may only be able to geta"loan,as noted in the availabilitydescription.Ifa characterfailstoreturn aloaned item at the end of thegame session,then the character loses all MilitaryInfluence andmay even suffer themisfortune of having aninvestigative group of militarypolice assigned to track him down.
+Afirearmcapableoffully automaticfirecanempty do zensof roundsintoasingle targetatcloserange.This attack automatically inflicts an additional Health Level of damageduetothesheervolumeoffireit laysdown.how ever, afteremptyingtheclip with fully automaticfire, the attackermustspendoneactiontoreloadtheweapon before itmaybeused again. ## High-Caliber
 
-## SPECIALWEAPONCAPABILITIES
+Firearms of particularlyhighcalibercaninflict crippling injurieswithonlyafew shots.when ahigh-caliberweaponsuccessfully strikesa target, the shooter should immediatelyperforma Simple Test.Awin indicates that the targetsuffersone additional Health Level of damagefrom the shot. ## Incendiary
 
-Someweaponspossessspecialcapabilities,allowingthe attackertoinflictextra damage or strike multiple opponents.(Such powers are noted under the weapon descriptions.)Acapsule descriptionofeachspecialabilityfollowsforeasyreference, sincemanyweapons possesssimilar abilities.
+Burning weapons cause aggravated damage to just about any target.Some weapons, such asmolotov cocktails and flame-throwers, simply usestreamsor explosionsofflametherslikeincendiaryroundsburnthetargetwithasuperheated roundofammunition. ## Mass-Trauma
 
-## Armor-Piercing
+Certain attacks are sopowerful that they inflictmassive damage onthe target, literally tearing away chunks of flesh.Such weapons score two Health Levels of damagewhen used appropriately. ## Speed
 
-Specialrounds,generallyTeflon-coated,penetrate armorwithease.Although armor-piercingrounds don't cause extra damage tothetarget,theydo ignore any defensesfromarmor.Armor-piercingroundsareparticularlydifficult toacquireand legal inquiriesoftenfollowtheir use.
+Fast weapons can be used to"pre-empt"an opponent's attack, all owing the characterwith the speedierweapon tostrikeandresolve hischallengefirst.The charactermust have the m elee Ability, and hemustactuallyattackwiththeweapon or otherwiseuseitactively（parrying, disarming, etc.）inordertogainthisbenefit.Fat weaponsonlygaina pre-emptive strike against opponents in hand-to-hand combat you r rapier won't helpyou much if that archerwith the crossbow is still50feet away. Sincemanyattacksarehandledsimultaneously, with bothpartiestestingatonce and the winnerscoringahit, hisparticularpower is not alwaysveryuseful.how ever, ifthe Storyteller opts to have each attacker testindividually(attacker striking defender, the n defender counterstriking), this ability puts fast weapons on the of fensive, all owing the wielder of the weapon to strike and possibly injure his opponentbefore the opponent can strike back. ## Spray
 
-## DestroyShield
+The weapon can strike multiple targets at once, as not edunder the weapon's special parameters.The shooter makes one test against all of the targets simulta neously.Each targetwho fails the test suffers the effects of the weapon, whileeach targetwho succeeds avoids the weapon's damage.The shooterrisks only the Traits necessaryforonechallengeagainsttheentiregroup, and helosesonlythose Traitsif any of the defenderswin the test. ## Staking
 
-Thoughshieldsarerareinthemodernage,someInquisitors still usethemwhile fighting with swords against vampires and other monsters.A weapon capable of destroyingshieldscan automaticallypenetrateashield andrenderituselessafterthe shield absorbs a certainnumber ofblows,regardless of the strength and size of the shield.Theweapononlyinflictsdamageontheshieldif theshield actuallyblocksthe attack-ifa characterwith an ax,forinstance,manages tohit a shielded target withoutbeingblocked by theshield,theshielddoesnotsufferfromtheattack.
-
-## Fully Automatic
-
-Afirearmcapableoffully automaticfirecanempty dozensof roundsintoasingle targetatcloserange.This attack automatically inflicts an additional Health Level of damageduetothesheervolumeoffireit laysdown.However,afteremptyingtheclip withfully automaticfire,theattackermustspendoneactiontoreloadtheweapon before itmaybeused again.
-
-## High-Caliber
-
-Firearms of particularlyhighcalibercaninflict crippling injurieswithonlyafew shots.Whenahigh-caliberweaponsuccessfully strikesa target,theshooter should immediatelyperforma SimpleTest.Awin indicates that thetargetsuffersone additionalHealthLevel ofdamagefrom theshot.
-
-## Incendiary
-
-Burning weapons cause aggravated damage to just about any target.Some weapons,such asmolotov cocktails and flame-throwers,simply usestreamsor explosionsofflametherslikeincendiaryroundsburnthetargetwithasuperheated roundofammunition.
-
-## Mass-Trauma
-
-Certain attacks aresopowerful thattheyinflictmassive damage onthe target, literally tearing away chunks of flesh.Such weapons score twoHealthLevels of damagewhen used appropriately.
-
-## Speed
-
-Fast weapons can be used to"pre-empt"an opponent's attack, allowing the characterwith thespeedierweapon tostrikeandresolve hischallengefirst.The charactermust havetheMeleeAbility,andhemustactuallyattackwiththeweapon orotherwiseuseitactively（parrying,disarming,etc.）inordertogainthisbenefit.Fat weaponsonlygaina pre-emptive strike against opponents in hand-to-hand combat your rapier won't helpyou much if that archerwith the crossbow is still50feet away.
-
-Sincemanyattacksarehandledsimultaneously,withbothpartiestestingatonce andthewinnerscoringahit,hisparticularpower isnotalwaysveryuseful.However, iftheStoryteller opts to have each attacker testindividually(attacker striking defender,then defender counterstriking),this ability puts fast weapons on the offensive,allowing the wielder oftheweapon to strike and possibly injure his opponentbefore the opponent can strike back.
-
-## Spray
-
-The weapon can strike multiple targets at once,as notedunder the weapon's special parameters.The shooter makes one test against all of the targets simulta neously.Each targetwho fails the test suffers theeffects of theweapon,whileeach targetwho succeeds avoids the weapon's damage.The shooterrisks only theTraits necessaryforonechallengeagainsttheentiregroup,and helosesonlythoseTraitsif any of the defenderswin thetest.
-
-## Staking
-
-Stakingweapons paralyze vampires when a successful blow penetrates one's heart.TheattackermustwinortietwosuccessiveSimpleTestsinordertosuccessfully stake thevampire.
-
-## BIDDINGTRAITSWITHWEAPONS
-
-WhenbiddingTraitsinbattlewithaweapon,you usuallyusePhysicalTraits againstyouropponent'sPhysicalTraits.However,youmaymakerangedattackswith MentalTraitsby using the appropriateAbility:You can useArchery to use a bowor crossbowandFirearms touseagun.Insuchacase,youwilluseyourMentalTraits(plus any bonuses from the weapon)against your opponent's Physical Traits.If both participants areusingrangedweaponsandhave the appropriateAbilities,thenboth partiesuseMental Traits.
-
-## Laws of the Hunt
+Stakingweapons paralyze vampires when a successful blow penetrates one's heart.the attackermustwinortietwosuccessive Simple Testsinordertosuccessfully stake the vampire. ## BIDDINGTRAITSWITHWEAPONS when bidding Traitsinbattlewithaweapon, you usuallyuse Physical Traits againstyouropponent's Physical Traits.how ever, you maymakerangedattackswith Mental Traitsby using the appropriate Ability:You can use Archery to use a bowor crossbowand Firearms touseagun.Insuchacase, you will useyour Mental Traits(plus any bonuses from the weapon)against you r opponent's Physical Traits.If both participants are usingrangedweaponsandhave the appropriate Abilities, the nboth partiesuse Mental Traits. ## Laws of the Hunt
 
 ## MELEE WEAPONS
-
-- ·Knife/Dagger—With a six-to twelve-inch-longblade,either singleor double-edged, a knife is a common and easily concealableweapon.
-- ·Broken bottle-Most common in bar brawls and similar altercations,a shatteredglassbottleis asimpleimprovisedweapon.
-- ·Club —Clubs include anything from chair legs,to tree limbs,to the truncheons used by the local police.Nunchaku and otherbludgeoning martial arts weapons also fall into this category.
-- ·Wooden stake-Sharpened at one end and perfect for makingKindred shish-kebabs.
-
-Bonus Traits:1
+- ·Knife/Dagger—With a six-to twelve-inch-longblade, either singleor do uble-edged, a knife is a common and easily concealableweapon. - ·Broken bottle-Most common in bar brawls and similar altercations, a shatteredglassbottleis asimpleimprovisedweapon. - ·Club —Clubs include anything from chair legs, to tree limbs, to the truncheons used by the local police.Nunchaku and otherbludgeoning martial arts weapons also fall into this category. - ·Wooden stake-Sharpened at one end and perfect for making Kindred shish-kebabs. Bonus Traits:1
 
 Negative Trait:Short
 
@@ -4444,27 +1756,19 @@ Availability:Any
 
 Bonus Traits:2
 
-NegativeTrait:Clumsy
+Negative Trait:Clumsy
 
 Concealability:Jacket
 
 Availability:Any
 
-Special Ability:Staking:Awooden stakecanpierce the heart ofavampire(thus paralyzingthecreature)if the attacker successfullywinsortiestwosuccessiveSimple Tests after striking.
-
-- ·Shortsword-Withablade lengthof18to24inches,a shortsword isalight stabbingand thrustingweaponwithsurprisingquickness.Thisincludesanythingfrom a scutum orgladius to a Japaneseninja-to or aT'ai Chi sword.
-
-Bonus Traits: 2
+Special Ability:Staking:Awooden stakecanpierce the heart of avampire(thus paralyzingthecreature)if the attacker successfullywinsortiestwosuccessive Simple Tests after striking. - ·Shortsword-with ablade lengthof18to24inches, a shortsword is alight stabbingand thrustingweaponwithsurprisingquickness.this includesanythingfrom a scutum or gladius to a Japaneseninja-to or aT'ai Chi sword. Bonus Traits: 2
 
 Negative Trait: Short
 
 Concealability:Jacket
 
-Special Abilities: Speed: In close combat against any weapon with theNegative TraitsofSlow,ClumsyorHeavy,theusergainstheoptiontopre-empt theopponents attacks and strikefirst in any turn,as long as he has theMeleeAbility.
-
-- Broadsword-Atypical broadsword has a two-and-a-half-tothree-and-ahalf-foot-longblade,issingle-ordouble-edgedandismadeof temperedsteel.Atrue broadsword is aheavy choppingweaponwith a chisel-like edgemadeforpenetrating metalarmor.Replicabroadswords areavailablemore cheaply,but they arecertainly less effective.Broadswords area favoredweaponofInquisitors,sincethey seem tobe more effectiveagainstvampiresthanmerebullets.
-
-## Systems and Rules
+Special Abilities: Speed: In close combat against any weapon with the Negative Traitsof Slow, Clumsyor Heavy, the usergainstheoptiontopre-empt the opponents attacks and strikefirst in any turn, as long as he has the Melee Ability. - Broadsword-Atypical broadsword has a two-and-a-half-tothree-and-ahalf-foot-longblade, is single-or do uble-edgedandismadeof temperedsteel.Atrue broadsword is aheavy choppingweaponwith a chisel-like edgemadeforpenetrating metalarmor.Replicabroadswords are availablemore cheaply, but they are certainly less effective.Broadswords are a favoredweaponof Inquisitors, sincethey seem tobe more effectiveagainstvampiresthanmerebullets. ## Systems and Rules
 
 Laws of the Hunt
 
@@ -4474,158 +1778,99 @@ Negative Trait:Heavy
 
 Concealability:Trench Coat
 
-Availability:Any.Aswordisquiteconspicuous,however,and havingonewill attractpoliceattention.
+Availability:Any.Aswordisquiteconspicuous, how ever, and havingonewill attractpoliceattention. - ·Greatsword-The six-to-seven-foot-longbladesof the late Middle Ages were designed to chop through heavy armor, pike squares and human flesh.A greatswordrequirestwohandstouse, and itisaslowand awkwardweapon, but its strikes are exceedingly dangerous. Bonus Traits:5
 
-- ·Greatsword-The six-to-seven-foot-longbladesof the late MiddleAges weredesigned to chop through heavy armor,pike squares and human flesh.A greatswordrequirestwohandstouse,anditisaslowand awkwardweapon,butits strikes are exceedingly dangerous.
-
-Bonus Traits:5
-
-NegativeTraits:Heavy,Slow,Clumsy
+Negative Traits:Heavy, Slow, Clumsy
 
 Concealability:None
 
-Availability:Any.Greatswords,likeotherlargemedievalweapons,drawpolice attention.
+Availability:Any.Greatswords, likeotherlargemedievalweapons, drawpolice attention. - ·Fencingblade-Anyfencingweaponwith alightbladefrom twotosixfeet longfalls into this category, although technically they could be divided askatanas, schlagsiaanaeinanrandlgxc for useagainstslowopponents, but have adifficult timechoppingorscoringdeepcuts. Bonus Traits:2
 
-- ·Fencingblade-Anyfencingweaponwith alightbladefrom twotosixfeet longfalls into this category,although technically they couldbe divided askatanas, schlagsiaanaeinanrandlgxc for useagainstslowopponents,buthaveadifficult timechoppingorscoringdeepcuts.
-
-Bonus Traits:2
-
-NegativeTrait:Fragile
+Negative Trait:Fragile
 
 Concealability:Trench Coat
 
-Availability:Any.A fencingfoil tends to draw lesspolice attention than an ornamental saber,especially if thefencer iscarryingfencinggear.
+Availability:Any.A fencingfoil tends to draw lesspolice attention than an or namental saber, especially if the fencer is carryingfencinggear. Special Ability:Speed:Inclosecombat against anyweaponwith the Negative Traits of Slow, Clunsy or Heavy, the fencer gains the option to pre-empt the opponent's attacks and strikefirst in any turn, as long ashe has the Melee Ability. - Spear—Though spears pretty much went out with the end of the Dark Ages, they are quiteusefulforfightingvampiresasmost spearshaveawoodenshaft.Aspear takessome practicetouse, but itsexcellentforkeepinganopponent atrange.Spears usuallyrangeanywherefrom sixtoeightfeetinlength, and they requiretwohandsfor fully effective use. Bonus Traits:2
 
-Special Ability:Speed:Inclosecombat against anyweaponwith theNegative Traits of Slow,Clunsy or Heavy,the fencer gains the option to pre-empt the opponent's attacks and strikefirst in any turn,as long ashe has theMeleeAbility.
-
-- Spear—Though spears pretty much went out with the end of the DarkAges, they arequiteusefulforfightingvampiresasmost spearshaveawoodenshaft.Aspear takessome practicetouse,butitsexcellentforkeepinganopponent atrange.Spears usuallyrangeanywherefrom sixtoeightfeetinlength,andtheyrequiretwohandsfor fully effective use.
-
-BonusTraits:2
-
-NegativeTrait: Clumsy
+Negative Trait: Clumsy
 
 Concealability:None
 
-Availability:Any.Likeasword,apearisquiteconspicuousand tendstodraw police attention.
+Availability:Any.Likeasword, apearisquiteconspicuousand tendstodraw police attention. Special Ability:Staking:Aspearcanbeusedtostakeavampirethroughtheheart, if the attackerwinsor tiesontwo Simple Testsafterattacking. - Staff—The traditionalquarterstaff is sixtoeightfeetlong, bluntandasthick as aman'sfist.Quarterstaves are excellentfordefense and for holding anopponent at bay.Trainedstaff-wieldersarereputedlymoredangerous than swordsmen.Although stavesareuncommonasweaponsinthemodernday, manymartialartistsstill usethem. Bonus Traits:3
 
-Special Ability:Staking:Aspearcanbeusedtostakeavampirethroughtheheart, if theattackerwinsor tiesontwoSimpleTestsafterattacking.
-
-- Staff—The traditionalquarterstaff issixtoeightfeetlong,bluntandasthick as aman'sfist.Quarterstaves areexcellentfordefense andforholding anopponent at bay.Trainedstaff-wieldersarereputedlymoredangerous thanswordsmen.Although stavesareuncommonasweaponsinthemodernday,manymartialartistsstill usethem.
-
-Bonus Traits:3
-
-NegativeTrait:Heavy
+Negative Trait:Heavy
 
 Concealability: None
 
 Availability:Any
 
 ## Systems and Rules
-
-- ·Hatchet—Primarilyofusefor choppingwood,hatchets serve asuseful improvisationalweapons and excellent tools.A hatchet is amustfor decapitating fallen opponents,and it also helps when breaking through locked doors.
-- Ax-Alongaxcarries significant forcebehinditsblows,butisgenerallyheavy andunwieldy.Mostmodernaxesaremadeforchoppingwood,thougha lessclumsy battleaxcanbe hadfrom specialty sources at arathersteepprice.
-- ·Benandantifennelsword-TheBenandantiusemysticalghost-bladesforgedout of spirit iron and fennel.In thematerial world,theseswordsusually take theform of elaborately crafted artisticpieces;intheUnderworld,though,theseblades are deadly broadswords capable of destroying spectres.In all cases,the physical and spiritual componentsof theswordaremysticallylinked.WhenevertheBenandanteentersEkstasis whilehisswordiswithhisbodythespiritual swordautomaticallyappearswithhissoul.
-- ·SwordofSt.James-EachSwordofSt.Jamesisapainstakinglycraftedunique weaponofforbiddingbeauty.Theseswords are specificallydesignedto assist their creators in the destruction ofwraiths,eventually crossing the Shroudwiththeir masters inaritual suicide.A SwordofSt.James oftenresembles a heavy broadsword, withuniquefeaturesdependent onthecreator'spersonality.
-
-Bonus Traits: 2
-
-NegativeTrait:Heavy
-
-Concealability:Trench Coat
-
-Availability:Any
-
-Special Ability:Destroy Shield:Hatchetsrender shieldsuseless afterthreeblows.
-
-BonusTraits:3
-
-NegativeTrait:Heawy,Clumsy forwood axes
-
-Concealability:None
-
-Availability:Any
-
-SpecialAbility:DestroyShield:Axesrender shields useless after three blows.
-
-BonusTraits:3
-
-Negative Trait:Fragile
-
-Concealability:TrenchCoat
-
-Availability:Fennel swordsmustbemadeindividuallybyBenandanti.
-
-Special Abilities:Fennel swords inflict aggravated damage against Oblivion-tainted targetsin theUnderworld,whenused there.A Benandante cannot swing hisweapon aroundinthephysicalworldtonjureaspectrebutonceheentersEkstasis,theweapon can destroyspectres acrosstheShroud.Additionally,thephysicalmanifestationofthe fennelswordcanbanishwraithsandSpectres,justliketheEphemerapowerofForbiddance. Afennelswordismysticallytiedtoitscreator,andif theswordiseverdestroyed,the BenandantelosesapermanentWillpowerTrait.Ifanindividualeverdiscoverstheswords Name,then the creature may use that Name to power rituals focused against the Benandante in lieu of any other special components.Lastly,since the materials of manufactureweakenfennelswordsinthematerialworld,anyfennelswordactuallyused tostrike aphysical creature or object(not intheUnderworld)requires an immediate SimpleTest.Theswordsurvivesiftheplayerwinsthetest,butitshattersonatieorfailure.
-
-Bonus Traits:3
+- ·Hatchet—Primarilyofusefor choppingwood, hatchets serve asuseful improvisationalweapons and excellent tools.A hatchet is amustfor decapitating fallen opponents, and it also helps when breaking through locked do or s. - Ax-Alongaxcarries significant for cebehinditsblows, but is generallyheavy and unwieldy.Mostmodernaxesaremadeforchoppingwood, thougha lessclumsy battleaxcanbe had from specialty sources at arathersteepprice. - ·Benandantifennelsword-the Benandantiusemysticalghost-bladesforgedout of spirit iron and fennel.In the material world, the seswordsusually take the for m of elaborately crafted artisticpieces;inthe Underworld, though, the seblades are deadly broadswords capable of destroying spectres.In all cases, the physical and spiritual componentsof the swordaremysticallylinked.when everthe Benandanteenters Ekstasis whilehisswordiswithhisbodythespiritual swordautomaticallyappearswithhissoul. - ·Swordof St.James-Each Swordof St.Jamesisapainstakinglycraftedunique weaponofforbiddingbeauty.the seswords are specificallydesignedto assist the ir creators in the destruction of wraiths, eventually crossing the Shroudwiththeir masters inaritual suicide.A Swordof St.James of tenresembles a heavy broadsword, with uniquefeaturesdependent onthecreator'spersonality. Bonus Traits: 2
 
 Negative Trait:Heavy
 
-Concealability:TrenchCoat
-
-## Laws of the Hunt
-
-Availability:EachSwordofSt.Jamesis individuallycraftedbyamemberoftheSect. SpecialAbilities:ASwordofSt.James sufferstheNegativeTraitofClumsywhen it isnotwieldedbyitscreator.AnyonewithlessthanthreeTraitsofFaith,otherthan thesword'screator,becomesviolentlynauseous andincapacitatedwhenpickingup the sword.Thevictimsuffers aseizureforaturn and automatically dropstheweapon. Any wraithattempting to use such a weapon(even throughPuppetry)must immediatelycheckforCatharsis(seeOblivion).
-
-## MISSILEWEAPONS
-
-- Short bow—Short bows are typically used for hunting and sport archery.A shortbowhaslimitedrange andpower.
-
-Bonus Traits:3
-
-Negative Trait:Fragile
-
-Concealability:TrenchCoat
+Concealability:Trench Coat
 
 Availability:Any
 
-Special Abilities:Armor-Piercing: Chain armor does not protect against arrows. Staking:Arrowscanbeused tostakeavampire,withtwo successful(winortie)Simple Tests after hitting.
+Special Ability:Destroy Shield:Hatchetsrender shieldsuseless afterthreeblows. Bonus Traits:3
 
-- ·Compound bow—Amodern compound bow uses an elaborate pulley system to generategreater pull and thus a stronger arrow shot.Compound bows arefairly expensive,but they can befoundin the arsenal of many wilderness survivalists and hunters.
+Negative Trait:Heawy, Clumsy for wood axes
 
-BonusTraits:5
+Concealability:None
 
-NegativeTrait:Fragile,Heavy
+Availability:Any
+
+Special Ability:Destroy Shield:Axesrender shields useless after three blows. Bonus Traits:3
+
+Negative Trait:Fragile
+
+Concealability:Trench Coat
+
+Availability:Fennel swordsmustbemadeindividuallyby Benandanti. Special Abilities:Fennel swords inflict aggravated damage against Oblivion-tainted targetsin the Underworld, when used the re.A Benandante can not swing hisweapon aroundinthephysicalworldtonjureaspectrebutonceheenters Ekstasis, the weapon can destroyspectres acrossthe Shroud.Additionally, the physicalmanifestationofthe fennelswordcanbanishwraithsand Spectres, justlikethe Ephemerapowerof for biddance. Afennelswordismysticallytiedtoitscreator, and if the swordiseverdestroyed, the Benandantelosesapermanent will power Trait.Ifanindividualeverdiscoverstheswords Name, the n the creature may use that Name to power rituals focused against the Benandante in lieu of any other special components.Lastly, since the materials of manufactureweakenfennelswordsinthematerialworld, anyfennelswordactuallyused tostrike aphysical creature or object(not inthe Underworld)requires an immediate Simple Test.the swordsurvivesiftheplayerwinsthetest, but itshattersonatieorfailure. Bonus Traits:3
+
+Negative Trait:Heavy
+
+Concealability:Trench Coat
+
+## Laws of the Hunt
+
+Availability:Each Swordof St.Jamesis individuallycraftedbyamemberofthe Sect. Special Abilities:ASwordof St.James suffersthe Negative Traitof Clumsywhen it is not wieldedbyitscreator.Anyonewithlessthanthree Traitsof Faith, otherthan the sword'screator, becomesviolentlynauseous and incapacitatedwhenpickingup the sword.the victimsuffers aseizureforaturn and automatically dropstheweapon. Any wraithattempting to use such a weapon(even through Puppetry)must immediatelycheckfor Catharsis(see Oblivion). ## MISSILEWEAPONS
+- Short bow—Short bows are typically used for hunting and sport archery.A shortbowhaslimitedrange and power. Bonus Traits:3
+
+Negative Trait:Fragile
 
 Concealability:Trench Coat
 
 Availability:Any
 
-Special Abilities:Armor-Piercing:Chain armordoesnotprotectagainst arrows. Staking:Arrowscanbeused tostakeavampire,withtwosuccessful(winortie)Simple Tests afterhitting.DestroyShield:Thepowerofacompound bowis trulyfrightening, and a single hitwill render a shield useless.
+Special Abilities:Armor-Piercing: Chain armor do es not protect against arrows. Staking:Arrowscanbeused tostakeavampire, with two successful(winortie)Simple Tests after hitting. - ·Compound bow—Amodern compound bow uses an elaborate pulley system to generategreater pull and thus a stronger arrow shot.Compound bows are fairly expensive, but they can befoundin the arsenal of many wilderness survivalists and hunters. Bonus Traits:5
 
-- LongbowRarein themodern age,a truelongbow is sixor sevenfeettall, with a correspondinglypowerful draw.A longbowsrangeis quite impressive.
+Negative Trait:Fragile, Heavy
 
-Bonus Traits:6
-
-NegativeTraits:Fragile,Clumsy,Heavy
+Concealability:Trench Coat
 
 Availability:Any
 
+Special Abilities:Armor-Piercing:Chain armordoesnotprotectagainst arrows. Staking:Arrowscanbeused tostakeavampire, with twosuccessful(winortie)Simple Tests afterhitting.Destroy Shield:the powerofacompound bowis trulyfrightening, and a single hitwill render a shield useless. - Longbow Rarein the modern age, a truelongbow is sixor sevenfeettall, with a correspondinglypowerful draw.A longbowsrangeis quite impressive. Bonus Traits:6
+
+Negative Traits:Fragile, Clumsy, Heavy
+
+Availability:Any
 - Concealability:None
 
-SpecialAbilities:Armor-Piercing:Chain armor doesnot protect against arrows. Staking:Arrowscanbeused tostakeavampire,withtwosuccessful(winortie)Simple Tests afterhitting.DestroyShield:One good shotfrom a longbowwill penetrate a shield,rendering it useless.
-
-- Crossbow-Acrossbowusesapowerfulaction topropel ashortboltwith tremendouspower.Sincecrossbowsfireinstraightlines,theyhavelimitedrangedue todrop-offbutthey areincredibly effectivewithin thatrange.Old-stylecrossbows take an action tocock orcrankandreloadfor eachshot,butmoderncrossbows can be cockedwith a simplebreaking action thatdoesnotrequireextratime.
-
-## Systems and Rules
+Special Abilities:Armor-Piercing:Chain armor do esnot protect against arrows. Staking:Arrowscanbeused tostakeavampire, with twosuccessful(winortie)Simple Tests afterhitting.Destroy Shield:One good shotfrom a longbowwill penetrate a shield, rendering it useless. - Crossbow-Acrossbowusesapowerfulaction topropel ashortboltwith tremendouspower.Sincecrossbowsfireinstraightlines, the yhavelimitedrangedue todrop-of fbutthey are incredibly effectivewithin that range.Old-stylecrossbows take an action tocock or crankandreloadfor eachshot, but moderncrossbows can be cockedwith a simplebreaking action that do esnotrequireextratime. ## Systems and Rules
 
 Bonus Traits:4
 
-NegativeTraits:Heavy,Slow
+Negative Traits:Heavy, Slow
 
 Concealability:Trench Coat
 
 Availability:Any
 
-Special Abilities:Armor-Piercing: Chain armor does not protect against bolts.Staking:Bolts can be used to stake a vampire,with two successful (win or tie)SimpleTests afterhitting.Destroy Shield.The mostpowerful weapon ofits type(short ofaballista,thatis）,aheavy crossbowcanrendera shield uselessin one shot.
-
-## THROWNWEAPONS
-
-- ·Throwing knife—Built with a specially balanced blade and handle,a throwingknifisffectiveatshortrangesrimarilyasasupriseweaponHowevr, throwing knives,likemost thrown weapons,are difficult to aim.
-- ·Throwing hatchet-Such a hatchet is a rarity these days.Most hatchets are not designedfor throwing,however,modern composite-steelhatchets are specially designed for balance and ease ofhurling.Like knives,hatchets are difficult tothrow accurately.
-- Molotovcocktail-Anold bottlefilledwithgasoline oralcoholandstuffed witharagbecomes a dangerousweaponwhenlit onfire.Thebottlebreaksonimpact, spreadingflamingliquid all over the target.
-
-Bonus Traits:1
+Special Abilities:Armor-Piercing: Chain armor do es not protect against bolts.Staking:Bolts can be used to stake a vampire, with two successful (win or tie)Simple Tests afterhitting.Destroy Shield.The mostpowerful weapon of its type(short of aballista, that is）, aheavy crossbowcanrendera shield uselessin one shot. ## THROWNWEAPONS
+- ·Throwing knife—Built with a specially balanced blade and handle, a throwingknifisffectiveatshortrangesrimarilyasasupriseweapon how evr, throwing knives, likemost thrown weapons, are difficult to aim. - ·Throwing hatchet-Such a hatchet is a rarity the se days.Most hatchets are not designedfor throwing, how ever, modern composite-steelhatchets are specially designed for balance and ease of hurling.Like knives, hatchets are difficult tothrow accurately. - Molotovcocktail-Anold bottlefilledwithgasoline or alcoholandstuffed with aragbecomes a dangerousweaponwhenlit onfire.the bottlebreaksonimpact, spreadingflamingliquid all over the target. Bonus Traits:1
 
 Negative Trait: Clumsy
 
@@ -4641,196 +1886,101 @@ Concealability:Jacket
 
 Availability:Any
 
-BonusTraits:2
+Bonus Traits:2
 
 Negative Trait:Fragile
 
 Availability:Any
 
-Special Ability:Incendiary:Molotov cocktails inflict fire damage.Spray:A Molotovcocktailsplasheswhenitstrikes,anditautcmaticallyteststohitanyone within a pace of thedesignated target,whetherfriend orfoe.
-
-- ·Shuriken -The standard"Japanese ninja star"typically comes in the form of asix-oreight-pointedstar.They are usually throwninrapid succession, asindividual stars inflictlittle damage.Some shuriken comein the form of needle-like darts.Mostpeoplehavelittle idea ofhow to throw shuriken properly.
-
-Bonus Traits:1
+Special Ability:Incendiary:Molotov cocktails inflict fire damage.Spray:A Molotovcocktailsplasheswhenitstrikes, and itautcmaticallyteststohitanyone with in a pace of the designated target, whetherfriend or foe. - ·Shuriken -The standard"Japanese ninja star"typically comes in the for m of asix-or eight-pointedstar.they are usually throwninrapid succession, asindividual stars inflictlittle damage.Some shuriken comein the for m of needle-like darts.Mostpeoplehavelittle idea of how to throw shuriken properly. Bonus Traits:1
 
 Negative Trait: Clumsy
 
 Concealability:Pocket
 
-Availability:Any
+Availability:Any? ## FIREARMS
+- Pistol—this categoryincludes small-and medium-caliber handguns, such as policerevolvers, Saturday Night Specials,9mm,22or.357automatics. Bonus Traits:2
 
-?
-
-## FIREARMS
-
-- Pistol—Thiscategoryincludes small-andmedium-caliber handguns,such as policerevolvers,SaturdayNightSpecials,9mm,22or.357automatics.
-
-Bonus Traits:2
-
-NegativeTrait: Loud
+Negative Trait: Loud
 
 Concealability:Pocket
 
-Availability:Any ifregistered;Espionage3,Military1,Police4,Street3or Underworld 2otherwise.Note thatmost government agents and policeoficerswill automaticallybe issued a servicesidearm.
+Availability:Any ifregistered;Espionage3, Military1, Police4, Street3or Underworld 2otherwise.not e that most government agents and policeoficerswill automaticallybe is sued a servicesidearm. - Heavy pistol —The truemonsters of the handgun range are pieceslike the 454Cassull and the50Desert Eagle.the se tremendouspistols usehigh-caliber roundsthat inflictmassive damage on the target. Bonus Traits:2
 
-- Heavy pistol —The truemonsters of the handgun range are pieceslike the 454Cassull and the50DesertEagle.These tremendouspistols usehigh-caliber roundsthat inflictmassive damage on thetarget.
-
-Bonus Traits:2
-
-NegativeTrait:Loud,Heavy
+Negative Trait:Loud, Heavy
 
 Concealability: Jacket
 
-Availability:Any ifregistered;Military2,Police4,Street4orUnderworld3f unregistered
+Availability:Any ifregistered;Military2, Police4, Street4or Underworld3f unregistered
 
-Special Ability:High-Caliber:Heavy pistols allowaSimpleTest ona successful hit. A win on this test indicates that the shot inflicts an extraHealth Level of damage.
-
-- RifleFavoredby outdoorsmen and snipersa rifle hasexcellentrange and often useslongerrounds thatinflictmore damage thana pistol'sbullets.
-
-Bonus Traits:3
+Special Ability:High-Caliber:Heavy pistols all owa Simple Test ona successful hit. A win on this test indicates that the shot inflicts an extra Health Level of damage. - Rifle Favoredby outdoorsmen and snipersa rifle has excellentrange and of ten useslongerrounds that inflictmore damage than a pistol'sbullets. Bonus Traits:3
 
 Negative Trait:Loud
 
 Concealability:None
 
-Availability:Any if registered;Military2,Police4,Street4orUnderworld3 otherwise.
-
-- SniperrifleSniperriflesaregenerallybolt-action,high-caliberrifleswith incredible accuracy atextremeranges.Asniperriflecaneasilyeliminate anopponent with onecarefullyplacedshotatadistance ofoveramile.Since asniperrifleusually has amanualaction,theshootermustspendone actiontoreloadthechamberofthe weaponbeforefiring again after each attack.
-
-Bonus Traits:3
+Availability:Any if registered;Military2, Police4, Street4or Underworld3 otherwise. - Sniperrifle Sniperriflesaregenerallybolt-action, high-caliberrifleswith incredible accuracy atextremeranges.Asniperriflecaneasilyeliminate anopponent with onecarefullyplacedshotatadistance of overamile.Since asniperrifleusually has amanualaction, the shootermustspendone actiontoreloadthechamberofthe weaponbeforefiring again after each attack. Bonus Traits:3
 
 Negative Trait:Loud
 
 Concealability:None
 
-Availability:Espionage5,Military4,Police4orUnderword3
+Availability:Espionage5, Military4, Police4or Underword3
 
-SpecialAbility:High-Caliber:Make a simple testforan additional level of damage.Also,most sniper rifles (including any rifle acquired with the proper Influence)will have a suppresser and ahigh-magnification scope(treat the same as a laser sight).
-
-- ·Shotgun —A shotgun fires a spray of pellets or a large, powerful slug.With pellets,the shotgun tearsout holesnclose-rangetargets,andmayhit everal people atgreater distances.Typical shotguns include10 and12gaugeMossbergsand Ithacas. Ashotgunmayrequireamanual actionnwhichcaseitmustbebrokenopenand reloadedbyhandafterfiring(requiringoneaction),oritmayholdseveralroundsthat areadvancedintothechamberwith apumping action.
-
-## Laws of the Hunt
+Special Ability:High-Caliber:Make a simple testforan additional level of damage.Also, most sniper rifles (including any rifle acquired with the proper Influence)will have a suppresser and ahigh-magnification scope(treat the same as a laser sight). - ·Shotgun —A shotgun fires a spray of pellets or a large, powerful slug.With pellets, the shotgun tearsout holesnclose-rangetargets, and mayhit everal people atgreater distances.Typical shotguns include10 and12gauge Mossbergsand Ithacas. Ashotgunmayrequireamanual actionnwhichcaseitmustbebrokenopenand reloadedbyhandafterfiring(requiringoneaction), or itmayholdseveralroundsthat are advancedintothechamberwith apumping action. ## Laws of the Hunt
 
 ## Suystems and Rules
 
-BonusTraits:3
+Bonus Traits:3
 
-NegativeTrait:Loud
+Negative Trait:Loud
 
 Concealability:None
 
-Availability:Anyifregistered.Military3,Police4,Street4orUnderworld3is required otherwise.
+Availability:Anyifregistered.Military3, Police4, Street4or Underworld3is required otherwise. Special Abilities:Spray:the shotguncanaffectuptothree targets if the yarestanding with inapace of one anotherandareat least20feetfromtheshooter.The shotgunmust be loadedwith pelletstoget this effect.Mass-Trauma:Ashotgunfiredat a single target with intwofeetinflictstwo Health Levelsof damage, whetherusing shotorslugs. - Submachinegun Firingmultiple small rounds at once, a submachinegun can hit several targetswithaspray.Submachineguns are fairlycompact, and the yuse onlypistol-caliber ammunition.Submachineguns are typically soldcommercially in single-shotversions, but useof the Repair Ability can convertasubmachinegunback into a fully automaticweapon. Bonus Traits:2
 
-SpecialAbilities:Spray:Theshotguncanaffectuptothree targets if theyarestanding withinapace ofone anotherandareat least20feetfromtheshooter.The shotgunmust be loadedwith pelletstoget thiseffect.Mass-Trauma:Ashotgunfiredat a single target withintwofeetinflictstwoHealthLevelsof damage,whetherusing shotorslugs.
-
-- SubmachinegunFiringmultiple small rounds at once,a submachinegun canhit several targetswithaspray.Submachineguns arefairlycompact,and theyuse onlypistol-caliber ammunition.Submachineguns aretypically soldcommercially in single-shotversions,butuseof theRepairAbility canconvertasubmachinegunback into a fully automaticweapon.
-
-Bonus Traits:2
-
-NegativeTrait:Loud
+Negative Trait:Loud
 
 Concealability:Jacket
 
-Availability:Anyifregisteredandnon-automatic.AcharacterneedsMilitary3 (loan),Police4,Street4orUnderworld 3otherwise.
+Availability:Anyifregisteredandnon-automatic.Acharacterneeds Military3 (loan), Police4, Street4or Underworld 3otherwise. Special Abilities:Spray:the submachinegun can affect uptofive targetsif they are standing with in threepaces of oneanotherand are at least10feet from the shooter. Fully Automatic:The submachine gun inflicts two Health Levelsof damage if its user fires its entire clip at a target with infive fet. - Assaultrifl Madestrictlyformilitaryuseassaultriflesusemid-sizedroundswith highvelocityandahighfirerate.Commerciallyavailable assault riflesaregenerallymodified for singlefirebutuseof the Repair Abilitycanconvertthembacktoautomaticfire. Bonus Traits:3
 
-SpecialAbilities:Spray:Thesubmachinegun canaffect uptofive targetsif they are standing within threepaces of oneanotherand are at least10feet from the shooter. FullyAutomatic:The submachine gun inflicts twoHealthLevelsof damage if its user fires its entire clip at a target withinfive fet.
-
-- AssaultriflMadestrictlyformilitaryuseassaultriflesusemid-sizedroundswith highvelocityandahighfirerate.Commerciallyavailable assault riflesaregenerallymodified for singlefirebutuseof theRepairAbilitycanconvertthembacktoautomaticfire.
-
-Bonus Traits:3
-
-NegativeTrait:Loud
+Negative Trait:Loud
 
 Concealability:None
 
-Availability:Anyif registered andnon-automatic;Military4(loan)orUnderworld5otherwise.
+Availability:Anyif registered and non-automatic;Military4(loan)or Underworld5otherwise. Special Abilities:Spray:An assault rifle can be used tohit up tofive targetswithin threepacesofoneanotheratadistanceof10feet or more.Fully Automatic:Emptyingthe clipof an assault rifleinto a target with in fivefeetinflictstwo Health Levels of damage. - Combatshotgun-Usedexclusivelyby the military, combat shotgunsfirea tremendousvolume of high-density spray.Acombatshotguncan tear aman in half at close range. Bonus Traits:3
 
-Special Abilities:Spray:An assault rifle canbe used tohit up tofive targetswithin threepacesofoneanotheratadistanceof10feet ormore.FullyAutomatic:Emptyingthe clipof an assault rifleinto a target within fivefeetinflictstwoHealthLevels of damage.
-
-- Combatshotgun-Usedexclusivelyby themilitary,combat shotgunsfirea tremendousvolume of high-density spray.Acombatshotguncan tear aman in half at close range.
-
-Bonus Traits:3
-
-NegativeTrait:Loud
+Negative Trait:Loud
 
 Concealability:None
 
-Availability:Onlysoldiersinmilitaryunitsusecombatshotguns,andacharacter mustmake"special arrangements"to acquire one(ie.,Military5 for the loan and a sizable cash bribe as well).Combat shotguns are illegal.Any character evenseen with a combat shotgun—even a government agent—hadbetter expect a full-scale national manhunt.Intruth,characters aremorelikelytobeonthereceivingendsof theseweapons,asmilitary troopsmayintervenein particularlynasty cases.
+Availability:Onlysoldiersinmilitaryunitsusecombatshotguns, and acharacter mustmake"special arrangements"to acquire one(ie., Military5 for the loan and a sizable cash bribe as well).Combat shotguns are illegal.Any character evenseen with a combat shotgun—even a government agent—had better expect a full-scale national manhunt.Intruth, characters are morelikelytobeonthereceivingendsof the seweapons, asmilitary troopsmayintervenein particularlynasty cases. ## Laws of the Hhunt
 
-## Laws of the Hhunt
+Special Ability:Spray:A combat shotgun can strikeup to five targets with inthreepaces of oneanotheras longas they are at least 10feet distant.This capability is only applicablewhen using shot.Mass-Trauma:Combat shotguns inflict an extra Health Level of damagewhen fired at a single targetnomore than five feet away.Fully Automatic:Acombat shotgun can beunloaded into a singleadjacenttargetwithinfivefeet, scoring anextra Health Levelofdamage on top of the damage from the massiveblow-through.Yes, this do es mean that a combatshotgun can inflict three Health Levels of damage in one attack. - ·Spike-thrower—this heavilymodified shotgun actuallyfireswooden boltsor even small molotovrounds!Based on a design from a Hungarian uprisingin1956, the se shotguns must all be specially modified by anindividual with the Repair Ability.the re are very few of the seshotgunsin existence, and eachoneishand-craftedbyitsowneroraclosefriend.Obviously, possessionof such a strangely modifiedweaponwill bring on all sorts of legal problems. Bonus Traits:2
 
-Special Ability:Spray:A combat shotgun can strikeup to five targets withinthreepaces of oneanotheras longas they are at least 10feet distant.This capability is only applicablewhen using shot.Mass-Trauma:Combat shotguns inflict an extraHealthLevel of damagewhen fired at a single targetnomore than five feet away.FullyAutomatic:Acombat shotgun can beunloaded intoa singleadjacenttargetwithinfivefeet,scoring anextraHealthLevelofdamage on top of the damage from themassiveblow-through.Yes,this does mean that a combatshotgun can inflict threeHealthLevels of damage in one attack.
-
-- ·Spike-thrower—Thisheavilymodified shotgun actuallyfireswooden boltsor even small molotovrounds!Based on a design froma Hungarian uprisingin1956,these shotguns must all be specially modified by anindividual with theRepairAbility.There arevery few of theseshotgunsin existence,and eachoneishand-craftedbyitsowneroraclosefriend.Obviously,possessionof such a strangely modifiedweaponwill bring on all sorts oflegal problems.
-
-BonusTraits:2
-
-NegativeTrait:Loud
+Negative Trait:Loud
 
 Concealability:None
 
-Availability: Each spike-thrower must be individually crafted from a shotgun.
+Availability: Each spike-thrower must be individually crafted from a shotgun. Special Abilities:Staking:A spike-thrower can launchwoodenbolts that are capable of stakingvampireswithtwo successful consecutive(win or tie)Simple Tests.Incendiary:A spike-throwercanfire Molotovcocktails, substitutingits Bonus and Negative Traits. ## AMMUNITION
+- ·Armor-piercingrounds—Typicallyhardened and Teflon-coated or otherwisedesignedtoslipthrougharmor, the sebulletscompletelyignorethe benefits of body armor.Armor-piercingrounds can only beobtainedfornormal pistols. Availability:Military 2, Police 4or Underworld3. Special Ability:Armor-Piercing:Pistols usingarmor-piercingammunition ignorearmor. - ·Dragonsbreathrounds-Dragonsbreathshellsallowashotguntoshoot ablastof flame.A dragonsbreathroundfiresflamesout to arange of20feet, inflicting a single level of firedamage ona target.Dragonsbreathrounds tend to degrade the barrels of the shotguns in which they are used.Each time a character fires a dragonsbreath round from a shotgun, the shotgun loses one Bonus Trait.When the shotgunruns outof Bonus Traits, itisheavily damaged and completely useless. The Repair Ability can retool a shotgun before it is destroyed, but this kind of work requires a gunsmith's shop and a great deal of time-it'snot something do ne in the middleof combat. Availability:Military1, Police4or Underworld4
 
-Special Abilities:Staking:A spike-thrower can launchwoodenbolts that are capable of stakingvampireswithtwo successful consecutive(win or tie)Simple Tests.Incendiary:A spike-throwercanfireMolotovcocktails,substitutingitsBonus andNegativeTraits.
+Special Ability:Incendiary:Dragonsbreathrounds inflict aggravated fire damage. - ·Silverbullets-Silvernitraterounds are sometimes is suedin covert governmentoperations where Special Affairs agents expect to encounter were wolves.Silverbullets are quite difficulttomanufacture, asthesoftness of
 
-## AMMUNITION
-
-- ·Armor-piercingrounds—Typicallyhardened and Teflon-coated or otherwisedesignedtoslipthrougharmor,thesebulletscompletelyignorethe benefits of body armor.Armor-piercingrounds can only beobtainedfornormal pistols.
-
-Availability:Military 2,Police 4orUnderworld3.
-
-Special Ability:Armor-Piercing:Pistols usingarmor-piercingammunition ignorearmor.
-
-- ·Dragonsbreathrounds-Dragonsbreathshellsallowashotguntoshoot ablastof flame.A dragonsbreathroundfiresflamesout to arange of20feet, inflicting a single level of firedamage ona target.Dragonsbreathrounds tend to degrade the barrels of the shotguns in which they are used.Each time a character fires a dragonsbreath round from a shotgun,the shotgun loses one BonusTrait.When the shotgunruns outofBonusTraits,itisheavily damaged and completely useless. The Repair Ability can retool a shotgun before it is destroyed,but this kind ofwork requires a gunsmith's shop and a great deal of time-it'snot something done in themiddleof combat.
-
-Availability:Military1,Police4orUnderworld4
-
-SpecialAbility:Incendiary:Dragonsbreathrounds inflict aggravated fire damage.
-
-- ·Silverbullets-Silvernitraterounds are sometimes issuedin covert governmentoperations where Special Affairs agents expect to encounter werewolves.Silverbullets are quite difficulttomanufacture,asthesoftness of
-
-## Suystems and Rules
-
-the metal means that the bullets deform when fired unless specially alloyed. Probablythemostubiquitous alloyis the silvernitrateround,whichisnot only a fairly solid silverbullet,butalsopoisonous.Silverbulletscanbemadeforany sort of pistol,rifle or automaticweaponeven shotguns!
-
-Availability:Espionage4
+## Suystems and Rules the metal means that the bullets deform when fired unless specially all oyed. Probablythemostubiquitous all oyis the silvernitrateround, which is not only a fairly solid silverbullet, but alsopoisonous.Silverbulletscanbemadeforany sort of pistol, rifle or automaticweaponeven shotguns! Availability:Espionage4
 
 ## ACCESORIES
+- ·Laser sight—A laser sight improves the accuracy of a weapon byhighlighting the targetwithasmall pinpoint of reflected light.The snipercaneasily lineupamore accurateshot, given proper time spent aligning the sight. Availability:Espionage3, Military1, Police4or Underworld3
 
-- ·Laser sight—A laser sight improves the accuracy ofa weapon byhighlighting thetargetwithasmall pinpoint of reflected light.The snipercaneasily lineupamore accurateshot,given proper time spent aligning thesight.
+Special Ability:A laser sightgrants one additional Bonus Traitto anyfirearm other than a shotgun, as long as the shooter spends afull turn aiming. - ·Suppresser —Suppressers mute the flash and bang from a firearm. Although completely"silencing"a pistol is impossible with out using special subsonic ammunitionandgasventingrefits, the suppresser lowersthefiring sound to a dull thud and getsrid of most of the muzzleflare.A suppresser also cuts do wn on the general disorientationof gunfireand lowersrecoil, since the bulletmoves at a slower speed. Availability:Espionage3, Military1, Police4or Underworld3
 
-Availability:Espionage3,Military1,Police4orUnderworld3
+Special Ability:A suppresser removes the Loud Negative Trait from a properly fitted firearm.Suppressers can be had for pistols and sniperrifles.Using a suppresser lowerstheaccuracyandvelocityof the bullets, soanyweaponfittedwithasuppresser loses one of its Bonus Traits. - ·Starlight scope—An active light enhancement assembly powered by a small battery all ows the starlightscopeto show aclearerpicture of a targetatnight. Althoughtheimagescanbedifficult tomakeoutsincetheyaremonochromatic, using astarlight scope is certainlybetterthanfiring atindistinctand fuzzy outlines. Availability:Espionage3, Military3or Underworld4
 
-SpecialAbility:A laser sightgrants one additionalBonusTraitto anyfirearm other than a shotgun,as long as the shooter spends afull turn aiming.
+Specialilityhenfittdariflperflrassaultrifleastarligh can beused tonegatethepenalty Traitsfrompartialdarkness.how ever, the shooter must take a full turn to aim the weaponin or der togainthisbenefit. ## ARMOR
 
-- ·Suppresser —Suppressers mute the flash and bang from a firearm. Although completely"silencing"a pistol is impossible without using special subsonic ammunitionandgasventingrefits,the suppresser lowersthefiring sound to a dull thud andgetsrid ofmost of themuzzleflare.A suppresser also cuts down on thegeneral disorientationof gunfireand lowersrecoil,since thebulletmoves at a slower speed.
-
-Availability:Espionage3,Military1,Police4orUnderworld3
-
-Special Ability:A suppresser removes theLoudNegativeTrait from a properly fitted firearm.Suppressers canbe had for pistols and sniperrifles.Using a suppresser lowerstheaccuracyandvelocityof thebullets,soanyweaponfittedwithasuppresser loses one of itsBonusTraits.
-
-- ·Starlight scope—An active light enhancement assembly powered by a small battery allows the starlightscopeto show aclearerpicture ofa targetatnight. Althoughtheimagescanbedifficult tomakeoutsincetheyaremonochromatic,using astarlight scope iscertainlybetterthanfiring atindistinctand fuzzy outlines.
-
-Availability:Espionage3,Military3orUnderworld4
-
-Specialilityhenfittdariflperflrassaultrifleastarligh canbeused tonegatethepenaltyTraitsfrompartialdarkness.However,theshooter must take a full turn to aim theweaponin order togainthisbenefit.
-
-## ARMOR
-
-Some characters use armor todefend themselves against enemy attacks.This is awisemove,considering thatmortal hunters areparticularlyvulnerableto injury. Armorcomesinseveralgrades:AncientvampiresortraditionalisticInquisitorsmay usemedievalchain,whilegovernmentagents andsoldiers aremorelikely touse modern body armor.
-
-Armor protectsthecharacterby stopping damage.Eachtype of armor absorbs a certain amount of damage before it is rendered useless.When a character is struck,simply subtractthelevelsofdamagefrom the armorfirst,before applying woundstothecharacter.
-
-Playerswith armor shouldprominentlywear a card indicating the armor type. Afterallitsnotreallyossibletoconcealafullsuitfchainmail.imilarlylayers with shieldsshould hold a card in the appropriatehand signifying the shield.
-
-<!-- image -->
-
-## ANTIQUEARMOR
-
-- Leather-Hardened leatherarmor,orsignificant layersofsoftleather,can beworn overmostvitalpartsofthebodyto absorbsomeblows.
-- Chainmail-Mostforms ofmedium-weightmetal armorfallintothis category,includingscale and brigandine.Chainmailisquiterareinthemodern age,although some fantasy re-creationists and Inquisitors still keep a suit around.
-
-Health Levels:1
+Some characters use armor todefend the mselves against enemy attacks.This is awisemove, considering that mortal hunters are particularlyvulnerableto injury. Armorcomesinseveralgrades:Ancientvampiresortraditionalistic Inquisitorsmay usemedievalchain, whilegovernmentagents and soldiers are morelikely touse modern body armor. Armor protectsthecharacterby stopping damage.Eachtype of armor absorbs a certain amount of damage before it is rendered useless.When a character is struck, simply subtractthelevelsofdamagefrom the armorfirst, before applying woundstothecharacter. Playerswith armor should prominentlywear a card indicating the armor type. Afterallitsnotreallyossibletoconcealafullsuitfchainmail.imilarlylayers with shieldsshould hold a card in the appropriatehand signifying the shield. ## ANTIQUEARMOR
+- Leather-Hardened leatherarmor, or significant layersofsoftleather, can beworn overmostvitalpartsofthebodyto absorbsomeblows. - Chainmail-Mostforms of medium-weightmetal armorfallintothis category, includingscale and brigandine.Chainmailisquiterareinthemodern age, although some fantasy re-creationists and Inquisitors still keep a suit around. Health Levels:1
 
 Availability:Any
 
@@ -4838,623 +1988,159 @@ Health Levels:2
 
 Negative Trait:Heavy
 
-Availability:Any.Chainmail must generally be custommade at a cost of $500ormore.
+Availability:Any.Chainmail must generally be custommade at a cost of $500ormore. - ·Plate mail—Plate mail armor (overlappingmetalplates with chain reinforcement)is the sortofarmorpeopleenvisionwhentheythinkoftraditional knights in the Dark Ages. Health Levels:3
 
-- ·Plate mail—Plate mail armor (overlappingmetalplates withchain reinforcement)isthesortofarmorpeopleenvisionwhentheythinkoftraditional knights in the DarkAges.
+Negative Traits:Heavy, Clumsy
 
-HealthLevels:3
+Availability:Any.Plate mail must generallybe custom-or dered at a cost of around$3.000or more. ## MODERNARMOR
+- Ballistic vest—Woven from tough fibers, a ballistic vest is designed primarily to stopfragmentation, althoughit's alsouseful in stoppinglight hand gun rounds. Health Levels: 2 Negative Traits:Heawy Availability:Espionage3, Military2, Police4 or Underworld3. - Reinforcedvest—For dangerous assignments, soldiers or police of ficers sometimesuse aballisticvestwithspecialceramicplatesinsertedinthechest and back.Thoughit makesmovingdifficult, this type of vest of fersprotectionagainst small arms of manykinds, up to light rifles. Health Levels:3
 
-Negative Traits:Heavy,Clumsy
+Negative Traits:Heavy, Clumsy
 
-Availability:Any.Plate mail must generallybe custom-ordered at a cost of around$3.000or more.
-
-## MODERNARMOR
-
-- Ballistic vest—Woven from tough fibers,a ballistic vest is designed primarily to stopfragmentation,althoughit's alsouseful in stoppinglight hand gun rounds.
-
-Health Levels: 2 NegativeTraits:Heawy Availability:Espionage3,Military2,Police4 orUnderworld3.
-
-- Reinforcedvest—For dangerous assignments,soldiers or police officers sometimesuse aballisticvestwithspecialceramicplatesinsertedinthechest and back.Thoughit makesmovingdifficult,this type ofvest offersprotectionagainst small arms of manykinds,up to light rifles.
-
-HealthLevels:3
-
-Negative Traits:Heavy,Clumsy
-
-Availability:Military 4,Police5orUnderworld 4.
-
-## SHIELDS
-
-- ·Small shield-A targetshield,anywherefrom one to twofeet across,can be easilyworn on the arm.Sucha shield helps tointerceptmelee attacks.Against meleeweaponsmissileweaponsor thrownweapons(butnotfirearms),the shield forces theattackertomakeaSimpleTest;the attackermustwinortietoactually strike the user of the shield.
-
-BonusTraits:1 (when used tobash) NegativeTrait:Heavy Availability:Any
+Availability:Military 4, Police5or Underworld 4. ## SHIELDS
+- ·Small shield-A targetshield, anywherefrom one to twofeet across, can be easilyworn on the arm.Sucha shield helps tointerceptmelee attacks.Against meleeweaponsmissileweaponsor thrownweapons(but not firearms), the shield for ces the attackertomakea Simple Test;the attackermustwinortietoactually strike the user of the shield. Bonus Traits:1 (when used tobash) Negative Trait:Heavy Availability:Any
 
 ## Suystems and Rules
+- Largeshield Towershieldsandroundshieldscoveringmostof the body, fall into this category.Thoughlargeshieldsaredifficulttomaneuver, they stopmost attacks.An attacker must win(not tie) a Simple Test in or der to strike a character protected by a largeshield inmelee combat.Thrown or missile weapons can also be blockedwith large shields, but not firearms. Bonus Traits:1(when used tobash) Negative Traits:Heavy, Clumsy Availability:Any
+- Riot shield-Lexan or other ballisticplastics are used tomake riot shields, which protect againstawidevarietyofattacks.Riot shieldsaretransparent, othat the user can see throughthe shield itself Riotshieldsprotectagainst guns, melee weapons, thrownweaponsandevenfists.Attackersmustwina Simple Testinorder to actually strike a character using a riot shield. Bonus Traits: 1 (when used to bash)
 
-- LargeshieldTowershieldsandroundshieldscoveringmostof thebody, fall intothiscategory.Thoughlargeshieldsaredifficulttomaneuver,they stopmost attacks.An attacker must win(not tie) a Simple Test in order to strike a character protected by a largeshield inmelee combat.Thrown ormissile weapons can also be blockedwith large shields,butnot firearms.
+Negative Traits:Heavy, Clumsy
 
-BonusTraits:1(when used tobash) Negative Traits:Heavy,Clumsy Availability:Any
+Availability:Police4.Riotshieldsareconspicuous and will drawpolice attention. ## FIELD GEAR
 
-- Riot shield-Lexan or other ballisticplastics are used tomake riot shields, whichprotect againstawidevarietyofattacks.Riot shieldsaretransparent,othat the user cansee throughthe shield itselfRiotshieldsprotectagainst guns,melee weapons,thrownweaponsandevenfists.AttackersmustwinaSimpleTestinorder to actually strike a character using a riot shield.
+Government agents usea widevariety of equipment in the field.Since much of the irgearhasspecialcapabilities, eachpieceofspecialequipmentisdetailed here. Although specialized equipment can goa longway toward leveling the fieldwhen fighting supernaturalcreaturesmuchof the highlyadvancedgearisrestricted, and onlyauthorized agents can gain access tosuchmaterials. Otherhunters alsouse arcaneorreligious artifactsinordertopower the irspells or focustheir Faith.Suchmaterials can be exceedingly difficult to acquire, since many occultists and churchesdonotpartwith the irvaluedrelicseasily. ## MEDICALSUPPLIES
+- First aidkitA simple first aidkit containsbandages, a fewpainkillers and emergencyinstructions.Byfollowingtheinstructions, acharactercan"fieldstabilize a Mortally Woundedindividual, sothattheindividualno longer loses Traitsdueto the mortal wounds.Stabilizing a character takes twoturns of uninterrupted activity. this piece of equipment is a lifesaverwhen hunters are a longway from medical assistance, or when they can'triskhospital help.A charactercanuse the first aid kit tostabilizeacharacterwithoutusingthe Medicine Ability;Medicineletsthemedic stabilize acharacterwithimprovised tools. - ·Medical do ctor's kit—Amedical do ctorcan perform basicfield surgery with a smallassortmentof toolslocalanesthetics and alotofluck.Useofamedicaldoctors kit immediatelyrevives an Incapacitatedcharacter, althoughitdoesn'the alany Health Levels.Amedical do ctor'skit can alsobe used to stabilizea Mortally Wounded characterjustlikea firstaidkit.nfortunately, amedicaldoctorsfullkitisfairly cumbersometocarry.the charactermustprominentlydisplaythecardforthekit, and suffersfromthe Negative Trait:Clumsy inall Physical Challengeswhilecarryingthekit. Availability:Any
 
-Bonus Traits: 1 (when used to bash)
-
-NegativeTraits:Heavy,Clumsy
-
-Availability:Police4.Riotshieldsareconspicuous and will drawpolice attention.
-
-## FIELD GEAR
-
-Government agents usea widevariety of equipment in thefield.Since much of theirgearhasspecialcapabilities,eachpieceofspecialequipmentisdetailed here. Although specialized equipment cangoa longway toward leveling thefieldwhen fighting supernaturalcreaturesmuchof thehighlyadvancedgearisrestricted,and onlyauthorized agents cangain access tosuchmaterials.
-
-Otherhunters alsouse arcaneorreligious artifactsinordertopower theirspells orfocustheirFaith.Suchmaterials canbe exceedingly difficult to acquire,since many occultists andchurchesdonotpartwith theirvaluedrelicseasily.
-
-## MEDICALSUPPLIES
-
-- First aidkitA simple first aidkit containsbandages,a fewpainkillers and emergencyinstructions.Byfollowingtheinstructions,acharactercan"fieldstabilize a MortallyWoundedindividual,sothattheindividualno longer losesTraitsdueto themortal wounds.Stabilizing a character takes twoturns of uninterrupted activity. Thispiece ofequipment is a lifesaverwhen hunters are a longway from medical assistance,orwhen they can'triskhospital help.A charactercanuse thefirst aid kit tostabilizeacharacterwithoutusingtheMedicineAbility;Medicineletsthemedic stabilize acharacterwithimprovised tools.
-- ·Medical doctor's kit—Amedical doctorcan perform basicfield surgery with a smallassortmentof toolslocalanesthetics andalotofluck.Useofamedicaldoctors kit immediatelyrevives anIncapacitatedcharacter,althoughitdoesn'thealanyHealth Levels.Amedical doctor'skit can alsobe used to stabilizea MortallyWounded characterjustlikea firstaidkit.nfortunately,amedicaldoctorsfullkitisfairly cumbersometocarry.Thecharactermustprominentlydisplaythecardforthekit,and suffersfromtheNegativeTrait:Clumsy inall Physical Challengeswhilecarryingthekit.
-
-Availability:Any
-
-NegativeTrait:Clumsy
+Negative Trait:Clumsy
 
 Availability:Health 2
-
-<!-- image -->
-
-- ·Coffee-Bitter juice of thegods.Nohunter living thenight life should have to dowithout.Black,alwaysblack.
-
-NegativeTrait:Wired
+- ·Coffee-Bitter juice of the gods.Nohunter living the night life should have to do with out.Black, alwaysblack. Negative Trait:Wired
 
 Availability:Any
 
-Special Ability:You have to ask?Shame on you.
-
-## OCCULTTRAPPINGS
-
-- Common ritual materialsTarot cards,copies of the I Ching or simple teacups and special tea leaves all fall into this category.Thesematerials arereadily availableatalocalbookstoreteashoporotherimilarlocation.BasicSorceryrituals usually require materials of thisnature.
-
-Availability:Any
-
-- ·Uncommonritualmaterials—Specially carvedbones or elaboratelyworked patternsfall intothiscategoryofritualmaterials.Keepinmindthatmaterialsthiselaborate arenotnecessaryforallrituals.Generally,Intermediateritualswillrequirethesesortsof materials.See the individual Sorcery descriptions in ChapterThree for details.
-
-Availability:Occult 2
-
-- ·Rare ritual materials—Unique icons, special sets of statues and tools, individually inlaidmetal andstonecarvingssuch are therarest toolsof occult lore, andtheyaregenerallyquitedifficulttoacquire.Asorcererneedsgoodcontactstoeven find suchmaterials,andbuying them often involves an exchange of knowledge or favors,rather thansimplemonetary compensation.
-
-Availability:Occult4
+Special Ability:You have to ask?Shame on you. ## OCCULTTRAPPINGS
+- Common ritual materials Tarot cards, copies of the I Ching or simple teacups and special tea leaves all fall into this category.the sematerials are readily availableatalocalbookstoreteashoporotherimilarlocation.Basic Sorceryrituals usually require materials of this nature. Availability:Any
+- ·Uncommonritualmaterials—Specially carvedbones or elaboratelyworked patternsfall into this categoryofritualmaterials.Keepinmindthatmaterialsthiselaborate are not necessaryforallrituals.Generally, Intermediateritualswillrequirethesesortsof materials.See the individual Sorcery descriptions in Chapter Three for details. Availability:Occult 2
+- ·Rare ritual materials—Unique icons, special sets of statues and tools, individually inlaidmetal and stonecarvingssuch are the rarest toolsof occult lore, and they are generallyquitedifficulttoacquire.Asorcererneedsgoodcontactstoeven find suchmaterials, and buying the m of ten involves an exchange of knowledge or favors, rather than simplemonetary compensation. Availability:Occult4
 
 ## RELIGIOUSICONS
+- ·Holy symbol—A holy symbol is anecessityfor focusing True Faith.Holy symbols takevarious for ms depending on the Faithofthewielder, from or nate crucifixestoelaborateprayerwheelstocolorful dream-catchers.Atrueholysymbol is more than an icon;it is anobject that focuses the powerof the Divinein the hands of a true servant of Heaven. Availability:Church 1
 
-- ·Holy symbol—A holy symbol is anecessityfor focusingTrueFaith.Holy symbols takevarious forms depending on theFaithofthewielder,from ornate crucifixestoelaborateprayerwheelstocolorful dream-catchers.Atrueholysymbol ismore thanan icon;it isanobject thatfocuses thepowerof theDivinein thehands of a true servant of Heaven.
+Special Ability:A charactermustuse a holy symbol tofocus the powers of True Faith, unless he has the Merit:Symbol Independence. - ·Holy water Properly blessed and consecrated holy watercanpurifyand was h awaytaint, and italsoservesasapotentweaponagainsttheunliving Somefaithsue incense or waferswith similar capabilities. Availability:Church3
 
-Availability:Church 1
+Special Abilities:Holy water that is sanctifiedwith True Faith (see Chapter Three)inflictsaggravateddamageonvampires.Additionally, trulyblessed holywater used tocleanse awound automaticallynegatesanychanceofinfection. - ·Oil of St. George——This rare and potent oil generally comes in or namented flasks of delicate construction.When lit, the oil bursts into flames that do not harm the faithful. Availability:Church5
 
-Special Ability:A charactermustuse a holy symbol tofocus thepowers of True Faith,unless he has the Merit:Symbol Independence.
+Special Ability:Firefrom the Oil of St.Georgeburnsnormallyfor aggravated wounds, but anyfireresultingfromthe Oilcausesnodamage to anycharacterwith True Faith. ## SECURITYDEVICES
+- ·Physical lock-From asimplepadlocktoan intricatecombination sequencelock, the se devices are used on all manner of do or s, containers and restraints. Availability:Any
 
-- ·Holy waterProperly blessed andconsecrated holy watercanpurifyand wash awaytaint,anditalsoservesasapotentweaponagainsttheunlivingSomefaithsue incense orwaferswith similar capabilities.
-
-Availability:Church3
-
-Special Abilities:Holy water that is sanctifiedwithTrue Faith (see Chapter Three)inflictsaggravateddamageonvampires.Additionally,trulyblessed holywater used tocleanse awound automaticallynegatesanychanceofinfection.
-
-- ·Oil of St. George——This rare and potent oil generally comes in ornamented flasks of delicate construction.When lit,the oil bursts intoflames that do not harm the faithful.
-
-Availability:Church5
-
-Special Ability:Firefrom theOil ofSt.Georgeburnsnormallyfor aggravated wounds,but anyfireresultingfromtheOilcausesnodamage to anycharacterwith True Faith.
-
-## SECURITYDEVICES
-
-<!-- image -->
-
-- ·Physical lock-From asimplepadlocktoan intricatecombination sequencelock,these devices areused on allmanner of doors,containers and restraints.
-
-Availability:Any
-
-Special Ability:Picking a lockrequires the use of the Security Ability, generallyinconjunctionwith aStaticMental Challengewith a difficultyof five Traits.Particularly tough locks may have a higher difficulty.
-
-- ·Electroniclock—Whether using a specially designed magnetic card or a keypadwithanumericcombination,anelectroniclockisfarmore difficult to circumvent than a simplephysicallock.
-
-Availability:Any,though installinganelectronic lock isfairly expensive(at least$250perlock).
-
-Special Ability:Bypassing an electronic lock requires a Static Mental Challengewith a difficulty of fiveormore Traits,using theScienceorSecurity Ability.
-
-- ·Electronic alarm—An electronic alarm attaches to windows,doors and other points of entry or egress,and it signalswhen one hasbeen breached.An alarmcanbeset togooffwheneversomeoneopens a doorwithoutusingaproper key orwhen anyone passes through a certainrestricted area.Some sensors can evengo offwhenever an individual passes through an area without carrying a special identificationcard.The alarmmaybe audible,scaringoffburglars,ort maybe silent,simply signaling local police or other agencies.
-
-Availability:Any,thoughinstalling anelectronic alarm n a small building isfairly expensive(at least$1,000).
-
-Special Ability:Bypassing an electronic alarm requires a Static Mental Challenge witha difficulty of five ormore Traits,using theScience orSecurity Ability.This test isseparatefrom any test topickalock.Thecharacter candisable the alarmat aspecificentrypoint,ordisabletheentirealarmbyreachingthemain junction box(which generallyrequirespenetrating the complex in question).
-
-- ·Sensor-Internal sensorstrigger anelectronic alarmwhenever someone is in a restricted area.Sensorscan be turned on and off withproper codes,so that they are not triggered by authorized personnel. A motion sensor goes off if anything larger than a tennis ball moves within its area.Heat sensors detect changesinaroom'stemperature,andtheytriggeriftheroomtemperaturechanges dramatically(such as it would from the entry of a person).Pressure sensors, installed infloors(and sometimes other locations),trigger analarm if theweight on them changes by anythingmore than a fewpounds.
-
-Availability:Any,thoughinstallingsensorsrequires that the building have an electronic alarm,andis also quite expensive($5,0o0for a small building）.
-
-SpecialAbility:Characterscandefeat sensorswith theScienceorSecurity Ability,generally at a difficulty of five or more Traits.Disarming sensors is separatefromdisarmingalockor alarm.The charactermustbeabletoreach the sensor mechanism,which maymean pulling up part of thefloor, disabling a camera andso on.Since it'seasier toreachmost sensorterminals thantoreach themain alarm box,this method is an alternate way to avoid detection during intrusionactivities.
-
-## Systems and Rules D
+Special Ability:Picking a lockrequires the use of the Security Ability, generallyinconjunctionwith a Static Mental Challengewith a difficultyof five Traits.Particularly tough locks may have a higher difficulty. - ·Electroniclock—Whether using a specially designed magnetic card or a keypadwithanumericcombination, anelectroniclockisfarmore difficult to circumvent than a simplephysicallock. Availability:Any, though installinganelectronic lock is fairly expensive(at least$250perlock). Special Ability:Bypassing an electronic lock requires a Static Mental Challengewith a difficulty of fiveormore Traits, using the Scienceor Security Ability. - ·Electronic alarm—An electronic alarm attaches to windows, do or s and other points of entry or egress, and it signalswhen one has been breached.An alarmcanbeset togooffwheneversomeoneopens a do or with outusingaproper key or when anyone passes through a certainrestricted are a.Some sensors can evengo of fwhenever an individual passes through an are a with out carrying a special identificationcard.The alarmmaybe audible, scaringoffburglars, or t maybe silent, simply signaling local police or other agencies. Availability:Any, thoughinstalling anelectronic alarm n a small building is fairly expensive(at least$1,000). Special Ability:Bypassing an electronic alarm requires a Static Mental Challenge with a difficulty of five or more Traits, using the Science or Security Ability.This test is separatefrom any test topickalock.the character can disable the alarmat aspecificentrypoint, or disabletheentirealarmbyreachingthemain junction box(which generallyrequirespenetrating the complex in question). - ·Sensor-Internal sensorstrigger anelectronic alarmwhenever someone is in a restricted are a.Sensorscan be turned on and of f with proper codes, so that they are not triggered by authorized personnel. A motion sensor goes of f if anything larger than a tennis ball moves with in its are a.Heat sensors detect changesinaroom'stemperature, and they triggeriftheroomtemperaturechanges dramatically(such as it would from the entry of a person).Pressure sensors, installed infloors(and sometimes other locations), trigger analarm if the weight on the m changes by anythingmore than a fewpounds. Availability:Any, thoughinstallingsensorsrequires that the building have an electronic alarm, and is also quite expensive($5,0o0for a small building）. Special Ability:Characterscandefeat sensorswith the Scienceor Security Ability, generally at a difficulty of five or more Traits.Disarming sensors is separatefromdisarmingalockor alarm.The charactermustbeabletoreach the sensor mechanism, which maymean pulling up part of the floor, disabling a camera and so on.Since it'seasier toreachmost sensorterminals than toreach the main alarm box, this method is an alternate way to avoid detection during intrusionactivities. ## Systems and Rules D
 
 ## Laws of the Hunt
 
 ## SURVEILLANCEEQUIPMENT
+- ·Night vision goggles—By amplifying existing light and filtering it through a greenmonitor, nightvisiongogglesgivethewearerabetterviewoftheworldinthedark. how ever, sincetheinformationprocessedby the goggles is rarelyofaqualityapproach ingnormalvision, the wearermayhavesome difficultypickingoutindividualtargets. Negative Trait: Oblivious
 
-- ·Night vision goggles—By amplifying existing light and filtering it through a greenmonitor,nightvisiongogglesgivethewearerabetterviewoftheworldinthedark. However,sincetheinformationprocessedby the goggles israrelyofaqualityapproach ingnormalvision,thewearermayhavesome difficultypickingoutindividualtargets.
+Availability:Espionage3, Military3or Police4
 
-NegativeTrait: Oblivious
+Special Ability:Nightvision gogglesnegate the penaltyforfightinginpartial darknessbut since the yrelyonexistinglight, the yareofohelpntotal darknes. Negative Trait: Oblivious
+- ·Infraredgoggles—Infraredgogglesworkby translatingheat sources into images, all owingthewearertospotheatsourceslikepeople.Infraredgogglescannot necessarilypickoutwallsorotherfeaturesthatmaybethesametemperature asthe air.the patterns produced by infraredgoggles are rarely clear, and they of ten miss scenery details that don't give of f heat (like furniture or vampires). Availability:Espionage3, Military3or Police4
 
-Availability:Espionage3,Military3orPolice4
+Special Ability:Infrared goggles negate all darkness penalties, even in total darknessaslongasthetargetgivesofheat.Vampirescanbedetectedbythefacthat they do n'radiateheat, but onlyif the wearerisaware that the vampireistherea vampirewon't showup at all oninfraredunless standingout against amuch hotter or colderbackground temperature. - ·Chaoscopic scanner ——The"stochastic entropy engine"is one of the technologicalmarvelsoftheNSA, firstdesignedandimplementedbythe Paranormal Research Wing.the chaoscopedetects patterns of entropy(or its absence), all owing the user to actuallysee the negative energiesthatsurroundsome supernatural creatures.how ever, the seitems are highlyclassified, expensiveandlargelyimmobile. Gettingone of the seitemsinto the field is nearlyimpossible, since the NSAhasno desire tolet the sedelicate and expensiveitems out of sight.Bringinga supernatural creature tothechaoscopeis anotherproblementirely. Availability:Espionage5or University5
 
-SpecialAbility:Nightvision gogglesnegate thepenaltyforfightinginpartial darknessbut since theyrelyonexistinglight,theyareofohelpntotal darknes.
+Special Ability:the chaoscope all ows the user toviewthe energies of the Underworldrenderingwraithsand the landscapeofthedeadvisible Vampiresark auras give the m away as well. - ·Directional microphone —Special microphones designed to filter out sound can overhearconversations or exchanges at are asonabledistance.Lasermicrophones, which detectthevibrationsonglassmadeby sound, are evenmoreaccurate.of course, suchsurveillancegenerallybreaksseveralordinancesbutifyou'rehuntingvampires, local lawsmaynot be you r biggest concern.... Availability:Espionage3, Police3or Underworld3
 
-Negative Trait: Oblivious
+Special Ability:Usinga directional microphone all owsa character tooverhear a conversationinanotherroomorupto20feetaway.for easeofplay, it'susuallybest tolettheplayer actuallymove tothelocationof the conversation(seethe Clairvoyance Numina in Chapter Threeforideas on remote sensing). - ·Tempest receiver —Computer screens use a charged electron gun tomake images on a phosphor-ladenmonitor.the pattern of the electron gungenerates an electromagneticfield, and this fieldcan beread and interpretedwiththeproper
 
-- ·Infraredgoggles—Infraredgogglesworkby translatingheat sources into images,allowingthewearertospotheatsourceslikepeople.Infraredgogglescannot necessarilypickoutwallsorotherfeaturesthatmaybethesametemperature asthe air.Thepatterns produced by infraredgoggles arerarely clear,and they often miss scenery details that don't give off heat (like furniture or vampires).
+## Suystems and Rules equipment.ATempestreceivercanread computerortelevisionscreensupto20feet away, as longas they're on.Some military and intelligence computers use special electromagnetic Tempestshieldingtopreventthissortofeavesdropping. Availability:Espionage4, Military3
 
-Availability:Espionage3,Military3orPolice4
+Special Ability:Tempestdatareadersallowaplayertogatherinformationfrom anactivecomputeratarangeofupto20feet.the playershouldprobablybeallowed toeavesdroponthenarrationof the computerevents. - ·Phone tap —Simple phone taps all ow an eavesdropper to listen in on any conversation that takesplaceover agivenphoneline.Placinga phone taprequires awarrant(generally through the useof Legal Influence).Information obtained throughanillegallyplacedphonetapisinadmissibleanditmayleadtochargesbeing dropped if an arrest resulted from it. Availability:Espionage3, Police3or Underworld3
+- High-definitioncamera—Used for long-range, high-qualityphotography, a high-definitioncamera takesdigital pictureswithincredibleresolution.Although a specialcomputerisrequiredtoseethese images, the cameraspicturescanbeeasily altered or enhanced, picking out details of faraway objects. Availability:Espionage3, Media4or Military3
+- ·Kirlian camera—By photographing"Kirlian energies,"a Kirlian camera takes pictures of auras.Kirlian cameras use a special high-frequency electronicprocess to capturepictures of spiritenergy.AKirliancameracan actuallyphotographwraiths, althoughthepictures are of tenfuzzyorindistinct.Kirliancamerascanalsocapturethe aurasofindividualsonfilm, which maygivecluesastothesupernaturalnatureofa creature. Availability:Espionage 4or University4
+- ·Phasedmotiondetector-This small hand-heldunit sensesthemotion and activityofphysicalobjectsorcreatureswithinabout10feetoftheholder.This informationisdisplayedonasmallscreen, all owingtheholdertonoticeotherwise hidden individualsas longasthey are moving. Availability:Espionage4or University4
 
-Special Ability:Infrared goggles negate all darkness penalties,even in total darknessaslongasthetargetgivesofheat.Vampirescanbedetectedbythefacthat they don'radiateheat,butonlyif thewearerisaware that thevampireistherea vampirewon't showup at all oninfraredunless standingout against amuch hotter or colderbackground temperature.
+Special Ability:the phasedmotiondetector all ows the user one chance to test againstacreatureusinga supernaturalpowerofconcealment.Thus, ahuntercould testagainstavampireusingthe Obfuscate Discipline, or a Garou usingthe Giftof Blissful Ignorance. Storytelling
 
-- ·Chaoscopic scanner ——The"stochastic entropy engine"is one of the technologicalmarvelsoftheNSA,firstdesignedandimplementedbytheParanormal ResearchWing.Thechaoscopedetects patterns of entropy(or its absence),allowing the user to actuallysee thenegative energiesthatsurroundsome supernatural creatures.However,theseitems arehighlyclassified,expensiveandlargelyimmobile. Gettingone of theseitemsinto thefield isnearlyimpossible,since theNSAhasno desire tolet thesedelicate and expensiveitems out of sight.Bringinga supernatural creature tothechaoscopeis anotherproblementirely.
+This chapter contains guidelines for the Storyteller on insertingmortal hunter charactersintoexistingchronicles, or for runningachroniclefromthemortalspointofview. ## the MESANDMOODS the meandmoodcanbeveryfluid inagamewhere the playershave somuch impactonthestory, and unusualsettingscanbevery difficult toconvey.how ever, some ideasmove to the for efrontin a hunter-or ientedgame. ## PARANOIA
 
-Availability:Espionage5orUniversity5
+This the meworks on twolevels.With hunters around, vampires seek to protect the Masquerade and were wolvesworkto maintain the Veil.Such is as it should be, sincebothidealsareamajorpartof eachsociety'srespectivegoalsthoughbothare frequently neglected in a gamewhere everyone already knowswhat everyone else is. from the otherersectivehuntersareafterthehidenreatureshenes walkasmen but are really devilsthe onesthathave supernatural powersto cloud thoughtsandleadgoodmenastray.Huntersmayhavetoexamineeveryonethey meet, wonderingiftheyaremorethantheyseem, and iftheyareactingoftheirownvolition. ## FEAR
 
-Special Ability:Thechaoscope allows the user toviewthe energies of the Underworldrenderingwraithsand thelandscapeofthedeadvisibleVampiresark auras give them away as well.
-
-- ·Directional microphone —Special microphones designed to filter out sound can overhearconversations orexchanges at areasonabledistance.Lasermicrophones, whichdetectthevibrationsonglassmadeby sound,areevenmoreaccurate.Ofcourse, suchsurveillancegenerallybreaksseveralordinancesbutifyou'rehuntingvampires, local lawsmaynot be your biggest concern....
-
-Availability:Espionage3,Police3orUnderworld3
-
-Special Ability:Usinga directional microphone allowsa character tooverhear a conversationinanotherroomorupto20feetaway.Foreaseofplay,it'susuallybest tolettheplayer actuallymove tothelocationof theconversation(seetheClairvoyanceNumina in ChapterThreeforideas on remote sensing).
-
-- ·Tempest receiver —Computer screens use a charged electron gun tomake images on a phosphor-ladenmonitor.Thepattern of the electron gungenerates an electromagneticfield,andthisfieldcan beread andinterpretedwiththeproper
-
-## Suystems and Rules
-
-equipment.ATempestreceivercanread computerortelevisionscreensupto20feet away,as longas they're on.Some military andintelligence computers use special electromagneticTempestshieldingtopreventthissortofeavesdropping.
-
-Availability:Espionage4,Military3
-
-SpecialAbility:Tempestdatareadersallowaplayertogatherinformationfrom anactivecomputeratarangeofupto20feet.Theplayershouldprobablybeallowed toeavesdroponthenarrationof thecomputerevents.
-
-- ·Phone tap —Simple phone taps allow an eavesdropper to listen in on any conversation that takesplaceover agivenphoneline.Placinga phone taprequires awarrant(generally through theuseof LegalInfluence).Information obtained throughanillegallyplacedphonetapisinadmissibleanditmayleadtochargesbeing dropped if an arrest resulted from it.
-
-Availability:Espionage3,Police3orUnderworld3
-
-- High-definitioncamera—Used for long-range,high-qualityphotography,a high-definitioncamera takesdigital pictureswithincredibleresolution.Although a specialcomputerisrequiredtoseethese images,thecameraspicturescanbeeasily altered or enhanced,picking out details of faraway objects.
-
-Availability:Espionage3,Media4orMilitary3
-
-- ·Kirlian camera—By photographing"Kirlian energies,"aKirlian camera takes pictures of auras.Kirlian cameras use a special high-frequency electronicprocess to capturepictures of spiritenergy.AKirliancameracan actuallyphotographwraiths, althoughthepictures areoftenfuzzyorindistinct.Kirliancamerascanalsocapturethe aurasofindividualsonfilm,whichmaygivecluesastothesupernaturalnatureofa creature.
-
-Availability:Espionage 4orUniversity4
-
-- ·Phasedmotiondetector-This small hand-heldunit sensesthemotion and activityofphysicalobjectsorcreatureswithinabout10feetoftheholder.This informationisdisplayedonasmallscreen,allowingtheholdertonoticeotherwise hidden individualsas longasthey aremoving.
-
-Availability:Espionage4orUniversity4
-
-SpecialAbility:Thephasedmotiondetector allows the user one chance to test againstacreatureusinga supernaturalpowerofconcealment.Thus,ahuntercould testagainstavampireusingtheObfuscateDiscipline,ora Garou usingtheGiftof BlissfulIgnorance.
-
-<!-- image -->
-
-Storytelling
-
-<!-- image -->
-
-This chapter contains guidelines for the Storyteller on insertingmortal hunter charactersintoexistingchronicles,orforrunningachroniclefromthemortalspointofview.
-
-## THEMESANDMOODS
-
-Themeandmoodcanbeveryfluid inagamewhere theplayershave somuch impactonthestory,andunusualsettingscanbevery difficult toconvey.However, some ideasmove to theforefrontin a hunter-orientedgame.
-
-## PARANOIA
-
-This themeworks on twolevels.With hunters around,vampires seek to protect theMasquerade and werewolvesworkto maintain theVeil.Such is as it should be, sincebothidealsareamajorpartof eachsociety'srespectivegoalsthoughbothare frequently neglected in a gamewhere everyone already knowswhat everyone else is.
-
-Fromtheotherersectivehuntersareafterthehidenreatureshenes walkasmen but arereally devilsthe onesthathave supernatural powersto cloud thoughtsandleadgoodmenastray.Huntersmayhavetoexamineeveryonethey meet, wonderingiftheyaremorethantheyseem,andiftheyareactingoftheirownvolition.
-
-## FEAR
-
-Mostsupernaturalcreaturesfeardiscoverybymortalssincesuchadiscoverymakes themcriminalsamongtheirownkind,evenif theydon'tfeelthreatenedbyoneortwo comingafterthem.Whentheyfindoutjusthowcapableahuntercanbe,however,heir opinions change.Even the strongest vampire must sleep during the daytime.
-
-W6l
+Mostsupernaturalcreaturesfeardiscoverybymortalssincesuchadiscoverymakes the mcriminalsamongtheirownkind, evenif the ydon'tfeelthreatenedbyoneortwo comingafterthem.when the yfindoutjusthowcapableahuntercanbe, how ever, heir opinions change.Even the strongest vampire must sleep during the daytime. W6l
 
 ## Laws of the Hunt
 
-For their part,hunters are certain that their deadly and terrifyingprey hasno compunctionaboutkillingthem.Justtheknowledgethattheotherisoutthereshould put some uneasein the players'hearts.
+For the ir part, hunters are certain that the ir deadly and terrifyingprey has no compunctionaboutkillingthem.Justtheknowledgethattheotherisoutthereshould put some uneasein the players'hearts. ## INNOCENCE
 
-## INNOCENCE
+Muchof the antagonism betweenhuntersand the irprey arisesfrom simple misunderstanding.Manyhuntershave someverywrongnotionsabout the motivations of vampires and were wolves, assuming the mto be agents of the Devil or unthinkingmonsters.Most supernatural creatures consider or dinary hunters to be inferior upstartswho are inway over the ir heads. Character growth, from enlightenment and the rethinking of motivationssa necessary aspect of ahealthychronicle. An encounter between the se two attitudes can lead to somevery interesting reconciliations.Who'stosaythatthe hunterwon't discover that the vampire hesought tokill has sworn anoathnot to takea humanlife, nomatter how hungry itbecomes? ## HUNTERSTYLES
 
-Muchof the antagonism betweenhuntersand theirprey arisesfrom simple misunderstanding.Manyhuntershave someverywrongnotionsabout themotivations ofvampires andwerewolves,assuming themto be agents of theDevil or unthinkingmonsters.Most supernatural creatures consider ordinary hunters to be inferior upstartswho are inway over their heads.
+The typical hunter is a human.Some possess extraordinary abilities, but all are mortalnonetheless.with outexceptional care, mostmortal huntersquicklyfindthe tablesturned, and oncesurriseisostitonlyamatterftmeforethesupernatural creaturesof the world marshal the irforcestoswat the would-beslayernuisance.The hunter takesonaworldfarbeyond hislevelof power, survivingbywits and luck alone. This stereotypeisnecessarilytrueforallgames, though.Storytellerscaneasily adjust the power levelofmortalcharacters tomakefor more dynamicor more terrifyingstories.for mer NavySEALsaremorelikelyto surviveaviolentconfronta tion-even if the opponents are vampires-whilebusloadsof school-children tend tolackeven the mostbasiccapabilitiesfor self-defense. ## VICTIMS-are N'TWEALL? Agame of Victimsmakesforaninteresting eveningspastime, but rarelylasts morethanonesession.Ina Victimgame, the mortalsarecompletelyunsuspectingand unprepared tocopewiththe supernaturalworld.Somesupernaturalagency setsabout stalking and killing the mortals, in a gruesomebuthiddenfashion. Characters built as victims should belesscompetent than othermortals.Afterall, the mortalsbuiltwith the normalcharacter creation system are considered tobe exceptional scholars, government agents or churchmembers(or, at the veryleast, adequate).Buildvictimsbyremovingone Traitfromeach Attributecategory(5/3/2), and givingthemonlyone Ability.Victims of f the streethaveno will power Traits.Give the m three Free Traits and no special affliations, the nwatch the slaughter begin. The quintessential Victims game is one inwhich one player is a vampire or were wolf, hidden among the other players, but nobodyknows who it is.The supernatural character the n setsaboutmessilykillingoffthe otherplayers, oneata time.The onlyhopethevictims have is todiscoverwho the vampireis and escapeor fight.of course, a fightmayresultin the deathsof all of the remainingvictimsbut they can'tescape until the yknowwho the culpritis(since, otherwise, the vampire would justgowiththemandtheywoulddiesomewhereelse). ## Storytelling
 
-Character growth,from enlightenment and the rethinking of motivationssa necessary aspect ofahealthychronicle.
+This templateis also suitedfor the common person on the street.Though less powerfulthantheirsupernaturaladversarieshuntersarestillaboveaverage.the mases of humanity are largely powerless to do anythingmore complex than hold a day job. ## JUSTSOMEGUY
 
-An encounter between these two attitudes canlead to somevery interesting reconciliations.Who'stosaythatthe hunterwon't discover that thevampire hesought tokill has sworn anoathnot to takea humanlife,nomatter howhungry itbecomes?
+Manyhuntersstart asmortalswhoselives are turnedupside-do wnby the incursion of the supernaturalworld.Spurredonbyinsatiablecuriosityora burningneedfor vengeance, the mortalsetsoutdetermined todiscoverthetruthaboutthehiddenworld. the secharactersmay belawyers, supermarket clerks, postal of ficialshigh school students-justaboutanyonecantakeonthehunter'sroleafterexperiencingaprofound change.the semortalsusually do n'thave anyspecial powers or strangeabilities.they are the typical humans, headingoutintothegreatunknownwithastickandapotato. the se games are excellent for small groups, where a fewnormal people suffer throughakey eventin the first game that catalyzesthemtoworktogethertouncover the mysteries of the supernatural.In the course of the game, the sefledglinghunters can discovermoreabout the world aroundthem and developthe Abilitiesthatthey needtosurvive.Somemay evenbe approachedbyspecifichunterorganizationsonce they show the proper aptitude. When building Just Some Guy chronicles, use the normal characteristics for independentsbutavoidsupernatural Merits Flawsandumina the sepeopleare regularfolksthrustintoanirregularworld.Payclose attentiontothetypesof Abilities that you purchase though.A supermarket clerk is unlikely to have any Firearms Abilitywhilea sanitationengineerprobablyhas littlegraspof Occultknowledge. ## LOOSECANNONS
 
-## HUNTERSTYLES
+Thoughmany of the hunterorganizationshaveawiderangeofmembers, some individuals discover that they do n'treallyfitinwith the irparent association.An Inquisitorwhodevelops asuddencaseof Florentine Heresyor a Paranormal Re searcher workingwith an ectoplasmic converter engine mayfind that his activities have become a little strange, even for a hunter. Loosecannonsfitwell into existing supernaturalgames.Giveoneor twoplayers the opportunitytoplaymortalswithalittleknowledgeandsomedifferentpowers.The supernaturalcreatureswillbemorelikely tocutsomesort of dealwiththeindividual. Conversely, the hunterislikelytomoveverycarefullyandavoidantagonizinganyone until hecangather all ies toprotecthimself. In a Loose can nons game, the hunters are individuals who, for some reason, o longerfitwith the ir or ganizations.Build the m asmembers of the appropriate associa tions, but give the m somereasons toworkindependently.the sesortsofhuntersruna dangerousgame.the yhavenobackupif thingsgowrong, and they maysuffercensure or even executionif the irparent or ganizationsfindout abouttheir sidelines. ## or GANIZED HUNTING
 
-The typical hunter is a human.Some possess extraordinary abilities,but all are mortalnonetheless.Withoutexceptional care,mostmortal huntersquicklyfindthe tablesturned,andoncesurriseisostitonlyamatterftmeforethesupernatural creaturesof theworld marshal theirforcestoswat thewould-beslayernuisance.The hunter takesonaworldfarbeyond hislevelof power,survivingbywits and luck alone.
+The Society of Leopold regularly conducts witch-hunts, and the Arcanum regularly sendsitsmembers out togatherresearchmaterial. Government agents are almostperpetuallyonduty, servingtheinterestsof the country.Characterswhowork directlyfor the segroups can pooltheir talents and resourcesforprotection and information, makingthempotentiallymuchmoredangeroustothesupernatural. ®
 
-This stereotypeisnecessarilytrueforallgames,though.Storytellerscaneasily adjust thepower levelofmortalcharacters tomakefor more dynamicor more terrifyingstories.FormerNavySEALsaremorelikelyto surviveaviolentconfronta tion-even if theopponents arevampires-whilebusloadsof school-children tend tolackeven themostbasiccapabilitiesfor self-defense.
+Laws of the Hunt or ganized hunters should bebuiltwiththeusualaffiliationrules;the se hunters are considered trustedand somewhatexperiencedmembersoftheir respective or ganizations.Ingeneral, you llwant tohave all of the playersbelongtothesame or ganization, sothattheyhaveareasontoworktogether, thoughalargegamemight all owfor groupsfrommultipleaffiliations: Large, existing supernaturalgames caterwell to or ganized Hunting.Addinga small groupofmortalswhoworktogetherstirstheot, keepingthesupernaturalson the ir toes.Atthesame time, the mortals can protect the mselves and advance the ir own aimswith enough teamwork.Afairly smallgroupofmortals can easilyfendoff a fewsupernaturals ata timewithouttakingoverthegame. ## BEST OF THE BEST
 
-## VICTIMS-AREN'TWEALL?
+To throw a change of pace at some complacent supernatural characters, try puttinga coupleofextremely competenthunters into agame.With the ir own capabilitiesaugmentedbyequipmentandexperience, the sesortsofmortalscantruly terrify supernaturalopponents, especiallyoncetheoppositionrealizesthatthe"mere mortalismoretalentedandpowerful than heseems!the sesortsofcharactersarethe legendaryhunterswho have all of the incredibleskillsnecessary to undertake a one man crusade—peoplelike Sullivan Dane (Inquisitor, True Faith 8)or Benjamin Holmscroft(Arcanum scholar, immortal). Givesomemortalsafewextrapoints, and they can easilystandtoe-to-toewith novice supernaturals.Add one Attribute Traitin eachcategory(7/5/3) and two Ability Traits(for atotaloffive), and buildtherestofthemortalnormally.Delta for ce troops, high-level government intelligence of ficials, Gladius Dei Inquisitors and powerful sorcerers all fall into this category.with the rightpowers and equipment, they're capable of matching——and sometimes beating——just about any opponent. the Bestofthe Best should reallybe put only into gameswhere oneor two"super" mortalscanhelp toadd a splashof tension.Tossing in anexceptional hunter is a good way towarnplayersthattheirsupernaturalcharacters are gettingoutof control. ## RUNNING A HUNTERS GAME
 
-Agame ofVictimsmakesforaninteresting eveningspastime,butrarelylasts morethanonesession.InaVictimgame,themortalsarecompletelyunsuspectingand unprepared tocopewiththe supernaturalworld.Somesupernaturalagency setsabout stalking andkilling themortals,in a gruesomebuthiddenfashion.
+Agamewithonlymortalhuntersforcharacterswillbebynecessity, smalland personal, with aheavyratioof Narratorstoplayers.Mortalswhoknowthetruthabout the supernaturalarerareerhapsevenmoresothanthecreaturestheyseektodesroy. ## SMALLGAMES
 
-Characters built as victims should belesscompetent thanothermortals.Afterall, the mortalsbuiltwith thenormalcharacter creation system are considered tobe exceptional scholars,government agents or churchmembers(or,at theveryleast, adequate).BuildvictimsbyremovingoneTraitfromeachAttributecategory(5/3/2), andgivingthemonlyoneAbility.Victims off the streethavenoWillpowerTraits.Give them threeFreeTraits and no special affliations,thenwatch the slaughter begin.
+With a small troupe, it's important that the characters bewilling towork together.Whilehuntersfromthesameassociationhaveareasontoworktogether, its entirelyfeasiblethatcharactersfromdifferent or ganizationshavemetoverthecourse of the ir missions, and nowactin concert for mutualaid and protection.Achronicle for asmall troupecanfollowthecharactersastheydiscover, trackdownandneutralize creaturesaccordingtotheirownpersonal desires. This sortofgameisvery Storytellerintensive, sincethe Storytellermustdefine the associations that the hunters belong to, aswell as populate the chroniclewith enoughadversariestokeepthehuntersbusy.Narrators takeon the rolesofvampires and other assorted supernaturalnasties. ## LARGEGAMES
 
-The quintessentialVictims game is one inwhich one player is a vampire or werewolf,hidden among the other players,but nobodyknows who it is.The supernatural character then setsaboutmessilykillingoffthe otherplayers,oneata time.The onlyhopethevictims haveis todiscoverwho thevampireis andescapeor fight.Ofcourse,a fightmayresultin thedeathsof all of theremainingvictimsbut they can'tescape until theyknowwho the culpritis(since,otherwise,thevampire wouldjustgowiththemandtheywoulddiesomewhereelse).
+With a larger troupe, intrigue and politicking for power become stronger elements, and the actualhunt takes an almost secondaryrole.Perhaps the characters encompassall the tiersofhunterswithinthecity, from the headofacenacleand his assistants, totheagentinchargeofaspecialtaskforce, totheeducatedpsychicand herlowliest occult students, to the strayindependents. This stratification all ows for interaction with in each association, as well as friendships, all iancesanddisagreements acrosstheboundaries.Hunterscan have very differentideasofwhateedstobedoneaswellasowtaccomplishitandarguing over an approachmakesforjustasmuchfun asthehuntitself. Narratorsstillhavetotakeonthetaskofplayingtheprey, but actualencounters with the supernatural happenlessfrequently. ## INCORPORATING HUNTERS INTO ANEXISTING GAME
 
-## Storytelling
+As adversariesinagamecentered around oneormore supernatural creatures, mortal hunters are bestused ascharactersinthecapablehandsof a Narrator, or by players the Storyteller can trust topull it of f. ## NPCHUNTERS
 
-This templateis also suitedfor the common person on the street.Though less powerfulthantheirsupernaturaladversarieshuntersarestillaboveaverage.Themases of humanity are largely powerless to do anythingmore complex than hold a day job.
+Ifa hunterisanNPC, the Storytellercanincreasehispowerleveltomatchthe existingcharacters, sothat heactuallyposes are al threat tothem.the playersshould be encouraged tobecreativeindealingwithsuch athreat, sothatthey do n'tsimply Blood Bond the hunter, or kill him.Discrediting the hunter works very well indeed. ## PCHUNTERS
 
-## JUSTSOMEGUY
+Ifa hunter is a PC, the player should create him as a normal starting character, using the creationrules provided.He will probably want to start of f slow, learningabouthisfoes, garnering all iesagainstthem and for tifyinghimself for the battle to come. this rolecanbeverychallengingforaplayer.Afterall, hewon'tlikelybeinvited tothevampires'ballortohangaround the caernforthenextwerewolf moot.Hehas toslowlybecomeawarethatvampiresmeetatacertainspot, and hethenmusttrack a likely target on the way out. Having a small group of hunters can alsoworkwell, giving the playersmutual support and othercharacterstointeractwithwhiletheyworktolocate a target. ## MAINTAININGABALANCE
 
-Manyhuntersstart asmortalswhoselives areturnedupside-downby theincursion ofthe supernaturalworld.Spurredonbyinsatiablecuriosityora burningneedfor vengeance,themortalsetsoutdetermined todiscoverthetruthaboutthehiddenworld. Thesecharactersmay belawyers,supermarket clerks,postal officialshigh school students-justaboutanyonecantakeonthehunter'sroleafterexperiencingaprofound change.Thesemortalsusually don'thave anyspecial powers orstrangeabilities.They are thetypical humans,headingoutintothegreatunknownwithastickandapotato.
+The framework of each Mind's Eye the atre game is a delicate meshing of manipulation, intrigue and cooperationbetweenvampireclans, were wolfpacksor changeling courts.Introducingan elementwhose primary goalisto completely eliminatetheotherscanmakeagamesuddenlybloodthirstywhichisusuallynothe desireofthe Storyteller. ## Storygtelling
 
-These games are excellent for small groups,where a fewnormal people suffer throughakey eventin thefirst game thatcatalyzesthemtoworktogethertouncover themysteries of the supernatural.In thecourse of the game,thesefledglinghunters can discovermoreabout theworld aroundthem anddeveloptheAbilitiesthatthey needtosurvive.Somemay evenbe approachedbyspecifichunterorganizationsonce they show the proper aptitude.
+## Laws of the Hunt the primarygoalofaddinghuntersshouldbetokeepthesupernatural players on the ir toes.Now they have toworry about displayingvampiricstrength, or shiftingtowolfforminpublicview, for fearthatsomeoneiswatchingforjustthat sortofinvitationwithintenttokill. the ideal balance tostrikewouldbeforthetwosidestoend upcirclingone another, neitherwillingorreadytomakeafinal strike.Afterall, aplayerwhose characteriskilledina conflictbetweenhunters and the supernatural will always return as another character.Neither side can truly eliminate the other. ## TOOMUCH EQUIPMENT! Mortal huntersrely on equipment quite a bit.That's fine—they must, to keepupwith supernaturalcreatures.the section on Equipment in Chapter Four caters to this reliance. how ever, somegamesmaysee anoverabundanceofequipment, especially weapons.when everyhunteriswalking aroundwith a combatshotgun and heavy body armor, the re'saseriousbalanceproblem atwork. The thing tokeep in mind is that the Storyteller controls all access to equipment.Playerscannot simply writeupcardsfor any pieceof equipment they desire, evenif the ir charactershave the appropriate typesof Influence.Instead, eachplayer should consultwith the Storytellerbefore the game, todetermine what sortsofequipment hecan layhishands on.the Storytellermay want tomake equipment. Furthermore, it'sa simplematter to get rid of excess gear.Anything that's powerful has attendantrestrictions.Crazyvampire-hunterswanderingthe streets do n'tcarrycombat shotguns.Furthermore, federalauthoritieshavelittletrouble tracking the public use of incendiary weapons.A character using illegal or dangerous equipment may quickly find herselfwanted by the government in additiontobeinghunted by supernatural creatures.The charactermayhaveto choose between ditchingthe gear or facing arrest and a trial (which almost certainly takes the character out of play). Remember, too, that even readily available equipmentgearmarked as "Availability:Any"might not be so easily acquired.Sure, you can mail-or der dragonsbreathroundsfroma paramilitary catalog, and anyonecangointo a gun store and get the m.how ever, using suchweapons ups the stakes considerably. Vampires who ignore more"mundane"hunters may team up to annihilate the dangeroushunterwho shows upwith heavy weapons.Similarly, any supernatu ral creaturewithamodicumof Police, Streetor Transportation Influencemaywell learn of the hunter's requisition of special weapons, and take steps with Influencetostop the delivery.In aworldofparanoidvampireancients, how many mortal hunters are actually going to get the ir hands on incendiary weapons, even if such devices are simply or dered through the mail The Storytellercaneasilycontrolaccess to"common"devicesby deciding that some element of supernatural society already manipulates that market-or, better still, that saidmarket is hotly contested by supernatural Influencebrokers, and that nobodycangettheir hands on the weapons that the Storyteller do esn't want in the game. ## TOO-WIMPYMORTALS! with the ir low Traitmaximumsandlimitedpowers, mortalsarefragilewhen comparedtosupernaturalcreatures.Infact, mortalsaredownrightwimpy.the ybreak easily and they have noquickway of healingorbolsteringtheirlimitedpowers. This is the who le idea of playing a mortal—you're someone at oddswith a hostileworldsurroundedbysupposedlymorepowerfulenemiesyetdeterminedo win throughsheer chutpah.If mortalcharacters are dyingleftandright, the n the mortals are probably not being playedwell.A hunter mustbe careful and clever in or der to survive. Furthermore, independents rarely have an easy time of it.Playing anindependent hunter is perhaps the most challengingrole of all.Small groups of hunterscan is olatetheiropponentsandganguptocombinetheirabilities, but anindependent mustfaceoffaloneagainstsuperioropponents.with out all ies, the huntermustbe craftyindeed.And, of course, everyhunterrisksdeathwith every encounter.This riskis simply something that mustbeaccepted-you do n'tdon the mantleofa hunterwithout acceptingthefactthatitmaywellkillyou. ## CONSEQUENCES
 
-When buildingJust Some Guy chronicles,use thenormal characteristics for independentsbutavoidsupernaturalMeritsFlawsanduminaThesepeopleare regularfolksthrustintoanirregularworld.Payclose attentiontothetypesofAbilities that you purchase though.A supermarket clerk is unlikely to have anyFirearms Abilitywhilea sanitationengineerprobablyhas littlegraspofOccultknowledge.
+Consequences are what hunters are all about.Afterall, ifa supernatural creature had n'tbeen careless at some point, the hunterwouldn't be on the case in the first place.Having hunters take aninterest inyourcharactercanbe consequence enough for shortsightedness. Storytellers should n'tbe afraid to showhunters the consequences of the ir actions, either.when ahunterdrivesastakethroughavampire'sheart, it'sanact of murder asfar as anywitnesses are concerned.Hunters have to take as much care not tobenoticed asvampires, were wolvesandwraiths do—perhaps evenmore. Afterall, the yarestillaartofhumansociety, and they can beeasilytrackeddown to pay the piper. ## CROSSOVERS
 
-## LOOSECANNONS
+Sincehuntersstalkandslayvariousformsofsupernaturalprey, crossoversare inevitable.Afterall, ahuntersgamewithoutafewvampires, were wolvesorwraiths is reallyjust a game of mortalsstanding aroundwithout anyonetohunt. of coursecrossoverslikethiscauseallsortsofheadachesfor Storytellersecause of the clashofvariousrules.Thus, this sectionshould helptoclarify somecommon (and not-so-common)occurrences. When indoubt, use the rulesfromthemostrecent Mind's Eye the atrebook. for instance, the rulesin this bookshould supersede the Kinfolkrulesin Laws of the Wild. ## EQUIPMENTCROSSOVERS
 
-Thoughmany of thehunterorganizationshaveawiderangeofmembers,some individuals discover that they don'treallyfitinwith theirparent association.An Inquisitorwhodevelops asuddencaseofFlorentineHeresyor aParanormal Re searcher workingwith an ectoplasmic converter engine mayfind that his activities have become a little strange,even for a hunter.
+Hunters have access to a lot of special equipment that'snever before been describedfor Mind's Eye the atre.the yneedit！Of course, somevampireswill immediatelywanttoget the ir hands oncombat shotguns, too. ## Storgtelling
 
-Loosecannonsfitwell intoexisting supernaturalgames.Giveoneor twoplayers theopportunitytoplaymortalswithalittleknowledgeandsomedifferentpowers.The supernaturalcreatureswillbemorelikely tocutsomesort of dealwiththeindividual. Conversely,thehunterislikelytomoveverycarefullyandavoidantagonizinganyone until hecangather allies toprotecthimself.
+First, remember the Influence necessary to score a particular item.Always enforcethisrule, and rememberthatjustusingthe Influencemaynotbeenough.The Influence simplyindicates that it may be possible to get the item. Secondly, considerkeeping some of the more powerfulor esotericpiecesof equipment out of the hands of supernatural characters.A combat shotgun helps to eventhoddsforahunter, but inthehandofavampire, itsoverpowering.Remembr that reallyunusualgeardraws a lotof attention, and that sortof attention is the last thing that most supernaturals want. A vampire trying to get a sniper rifle is going to have tododgesomeintenseinvestigationsfrom legal authorities, and thoughitmay bepossible, the princeof the city may simplyrule that going through that sort of scrutiny is a threattothe Masquerade.You can easily outweighthebenefitsofrare equipmentwiththeproblemsthatitcreatesfortheowner. ## POWERINTERACTIONS
 
-In a LooseCannons game,the hunters areindividuals who,for some reason,o longerfitwith their organizations.Build them asmembers of the appropriate associa tions,butgive them somereasons toworkindependently.Thesesortsofhuntersruna dangerousgame.Theyhavenobackupif thingsgowrong,andtheymaysuffercensure oreven executionif theirparent organizationsfindout abouttheir sidelines.
+In general, supernatural creatures can't use Numinae.That's that.Psychic Phenomenaaretheprovinceofmortalsalone, and Sorceryisusuallynotaseffective as the natural powers of a givencreature. the re are someexceptionsthough.Most supernatural creaturescould conceiv ablyhave True Faith, although the cost is high and the Merit is exceedinglyrare. Also, afewtypesofcreaturesbesidesmortalsactuallystudy Sorcery.the Uktena were wolves and the Bastetaretheprimarykeepersof Sorcery among supernaturals, but somerevenants alsopracticethisformofmagic.Suchcreaturesmustpay anextra Intermediatelevelscost eightand Advanced Levelscost12Traits.when eversuch a creatureiscalledontospenda Humanity Traittopower Sorcery, thoughhemust spenda will power Trait instead. Vampires can not use Sorcery at all; they must be content with Thaumaturgy. Similarly, wraithscannot use Sorcery, asthey have neitherbodiesnor the connection to the appropriate energies.Mageshave the irown for ms of magickwhich are much morepowerful, whilechangelings usetheirown Arts and Realms.Sorceryisgenerally toostructuredforthecreativeandchaoticfae. Mortals can sometimes learn the abilities of supernaturalcreatures.See the Meritsof Ghoul, Kinfolkand Kinainin Chapter Twoforinformation. ## SPECIALCONSIDERATIONS
 
-## ORGANIZED HUNTING
+Somepowershavespecial effects that must be explicitly considered for cross overs.Also, varyingcharactersdonot always directlyreflect the statistics of various games. Blood Traits:A mortal has three Blood Traits.Vampires can drink this blood normally.Each Trait avampire drinksinflicts two Health Levels of damageon the mortal.Giovannivampiresinflictanextralevelofdamagewiththeirdraining, soonly two Traitsof blooddrainwouldkillamortal.Amortalbittenbyavampireforpurposes of blooddrainisimmediatelyhelpless, unless hespendsa will power Traittoact.This phenomenon is known as the Kiss.Additionally, avampirecan closeanywould left byhisbiteorclawssimplybylickingit.Ghoulswholosealloftheirbloodmay survive; makea Simple Test, and if the ghoulwins(not iesorlosses), the n the character stays Mortally Wounded insteadof dyingimmediately. ## Storytelling
 
-The Society of Leopold regularly conducts witch-hunts,and theArcanum regularly sendsitsmembers out togatherresearchmaterial. Government agents are almostperpetuallyonduty,servingtheinterestsof thecountry.Characterswhowork directlyfor thesegroups canpooltheir talents andresourcesforprotection and information,makingthempotentiallymuchmoredangeroustothesupernatural.
+Rage Traits:Mortals, even Kinfolk, do not possess Rage Traits. Delirium:Insteadof using the Deliriumchartpresented in Laws of the Wild, extrapolatebasedon the mortal's will power and Mental Traits.After all, mortals can't have more than three will power Traits.Any character who is partially Awakened(aghoul, Kinfolkorkinain, or with the Intermediatelevelofany Numina) is immuneto the Delirium.For the chart, add twice the character's number of will power Traitstohis Mental Traitsandsubtractthree.Thus, acharacterwithone will power Trait and three Mental Traits uses the"2"column onthe Deliriumchart, while acharacterwith three will power Traits and eight Mental Traitsuses the"10+" column of the chart. Banality Traits:Mostmortalsareconsideredtohaveanywherefromfivetoeight Banality Traits, asdeterminedbythe Storyteller.See The Shining Hostfordetails. ## VAMPIRICDISCIPLINES
 
-®
+Animalism:Characters affected by Songof Serenity can not use Sorcery or Psychic Phenomena, since they nolonger have the necessary strength of will to do so. Auspex:this Discipline can not detect the use of Psychic Phenomena, unlessthe characteractuallyuses Telepathytoreadthemindofthepsychicandrealizewhat's happening.Aura Perception will detect the use of Sorcery;the sorcerer's aura sparkles with gold while heusesmagic.Similarly, characters with True Faith have a"marked" aura in some for mburning, wrapped inglowinggreen or similarly startling. Celerity:A pre-empt gained by equipment can negate a pre-empt from Celerity. Chimerstry:Illusionsconjuredwiththis Discipline are fullymanifested tosuch remote senses as Clairvoyance.the exceptionis Horrid Reality, which is only visibleto its specifictarget. do minate:Mortals can spend will power toresist this Discipline, but this expenditure only grants a singleretest, not immunity. for titude:Aggravatedwoundscaused by True Faith are exceedinglypainful;if a vampiresuffersaggravatedinjuryduetoablessedweapon, relicorholywater, the nth for titude Discipline do es not negate wound penalties from the injury.Mark such injuriesspeciallyforvampires.how ever, for titudemay still beusedtoreduce such injuries from aggravated tonormal levels of damage. Necromancy:Since Benandanti are living souls projected into the Underworld, Necromancycannotcontrolorsummonthemduring Ekstasis.how ever, a Benandante who is not in Ekstasis could be affected with Soul Stealing normally, and the n commandedwith Compel. Obtenebration:the unnaturaldarknessevokedby this powermutessounds aswell as extinguishinglights.Natural lights(flashlights and lamps) can not penetrate this darkness.Furthermore, Obtenebration generates total darkness conditions, and neither the Merit:Acute Sense(Hearing)nor the Merit:Acute Sense(Sight) is of any use. Eveninfraredgoggles and nightvision goggles are useless.Only the vampiregenerat ingthe darknessseesthroughitwithoutsufferingpenalties. Obfuscate:Aconcealedvampireorghoulremainshiddenfromremotesenses suchas Clairvoyance, unlessthehunteradditionallyhassomemeansofseeingthrough Obfuscatenormally(like the Merit:Clear Sighted). Potence:Ifacharacterwinsalltiesasaresultof Potence, whileahunterhasapower that wins all ties, the ntiesmust beresolvednormally. ## Laws of the Hhunt
 
-Laws of the Hunt
+Presence:Aswith do minatea will power Trait all ows amortaloneretestagainst this power, but it do esnotgrant automatic immunity. Protean:Avampireinmist for mdoesnottriggermotionsensors or pressure sensors.Ritualsof Summoning, Bindingand Wardingmustbedesigned tofunctionon a vampire, evenif the vampireisinwolforbatform, inordertohaveanyeffect.(That is, a Summon Batritualwill not summonavampireinbatform.)
 
-Organized hunters should bebuiltwiththeusualaffiliationrules;these hunters are considered trustedand somewhatexperiencedmembersoftheir respective organizations.Ingeneral,youllwant tohave all oftheplayersbelongtothesame organization,sothattheyhaveareasontoworktogether,thoughalargegamemight allowfor groupsfrommultipleaffiliations:
+Quietus:the Silenceof Death power negates the Negative Trait:Loud. Thaumaturgy:Sorcery and Thaumaturgy are both considered magic, and they interactassuch.Thaumaturgyritualsthat protectagainstmagicwillkeepout Sorcery but not Psychic Phenomena.Psychic Phenomena will bewarded byany Thaumaturgy effect that specifically wards against that sortofmanifestation, aslong as the Thaumaturgypowerisnot specificallygeared againstmagic Thusaritualdesignedto keep outmagical scryingwouldprevent sorcerous Divinationbut not psychic Clairvoyance, whileapowerthatshieldsagainstanyexertionofforcewouldworkequallywell againstbothsorcerous Conjurationandpsychic Telekinesis.Also, the Cauldronof Blood power automaticallyreducesamortal to Mortally Wounded if asinglepoint of blood is boiled-more than that, and the mortal is instantly killed. Vicissitude:The effects of this Discipline on mortals-—specifically Fleshcraft and Bonecraft—are permanent.Even the Sorcery pathof Healing can not repair such mutilations. ## GAROU GIFTS
 
-Large,existing supernaturalgames caterwell to OrganizedHunting.Addinga small groupofmortalswhoworktogetherstirstheot,keepingthesupernaturalson their toes.Atthesame time,themortals can protect themselves and advance their own aimswith enough teamwork.Afairly smallgroupofmortals caneasilyfendoff a fewsupernaturals ata timewithouttakingoverthegame.
+Spirit Ward:ASpirit Wardkeepsout Benandantiin Ekstasisbutnot Clairvoyance. Curse of Hatred:Sincemortals do not have Rage Traits, this Gift'sremovalofa with er Limb:ecause his Giftwithers a limbasanaggravatedinjury, itseffects maynotbe counteredwiththe Sorcery path of Healing. Rage Trait has noeffect on a hunter. Scent of Sight:This Gift negates all penalties for darkness. Scentof the True for m:Sorcerers, Benandantiandkinainaredifficulttodetect, just likemages, ghoulsand Kinfolk;the ywinalltiesagainst this Gift.not e that unless the Garoupossessestheappropriate Lore Abilities, hemay simplynotethatthetarget "smells odd"with out exactlyknowing the subject's true nature. Blurof the Milky Eye:Useofthis Giftconcealsthe Garou from remoteperceptions like Clairuoyanceunlessthehunterpossesessome abilitytoseethroughthe Gift (such as.the Merit:Clear Sighted). Name the Spirit:This Gift detects Benandanti, but not Clairvoyance. Open Seal:Since Conjuring do esnotactuallyenchantanobject, a prepared lock is not considered"magical."
 
-## BEST OF THE BEST
+Blissful Ignorance:See Blurof the Milky Eye.not ethat this Giftnegatestheassistance of technologicaldevices, including aphased motiondetector(see Chapter Four). Spirit Speech:The Garou can communicatewith Benandanti in Ekstasis. Command Spirit:This Gifthasnoeffecton Benandanti in Ekstasis. Exorcism:This Gift has no effect on Benandanti in Ekstasis. Pulse of the Invisible:See Oblivionfor Mind's Eye the atre.A special similar Gift called Drumbeatof the Shadowmustbeused toseethe Underworld;thus, Pulsecannot detect Benandanti in Ekstasis, but Drumbeat can. Spirit Drain:Noeffecton Benandantiin Ekstasis, eventhealteredformofthe Gift that works onwraiths(see Oblivion). Malleable Spirit:Benandanti in Ekstasis can not be reshapedwith this Gift. Spirit Vessel:Since Benandanti in Ekstasis are not Umbral, this Gift do esnot affect the m. Call to Duty:the Callto Duty summons Umbral spirits, not Benandanti.Aspirit alreadybound by Ephemeramightnotanswer, dependingonthewhimsofthesorcerer. Mindspeak:the Telepathy Numinacanbeusedtoeavesdroponthis Gift, justlike vampiric Telepathy. Geas:Attemptingtocompelacreaturecontrolledwith Summoning, Bindingand Wardingfails if the subject's commandsconflict with the Geas. Body Wrack:The useof sorcerous Healingcombats this Gift if the healerhas the necessary rituals to quell pain.To do so requires Advanced Healing. Spirit Friend:Noeffecton Benandanti in Ekstasis. Faerie Kin:This Gift affects kinain who have the Merit:Faerie Blood (see Chapter Two). Control Simple Machine and Control Complex Machine:If the se Giftsareused on anobject that is beingmanipulatedwith Conjuring, the nthetwoparticipants engage ina Mental Challengetoseewho takescontrol. Obedience:If this Giftisusedonacharactercontrolledwith Summoning, Binding and Warding, the Garoumustchallengethesorcererforcontrolinsteadofchallenging the targetof the Gift. Summon Talisman:Ifaconjurerattemptstoteleport apreparedobject at the same time that the userof this Giftcallsforit, the twomustengageina Mental Challenge todeterminewho actuallygetstheitem. Mindblock:This Gift do esnotblockthe Numina of Telepathywhenused simply togather information.This Giftdoesblockthe Sorcery path of Summoning, Binding and Warding, though. Sense Magic:Use of this Gift do esnot detect Psychic Phenomena or True Faith, but do es sense Sorcery. Summon the Restless Shade:This power can guide a lost Benandanteback to her body, if it is used at the site of the Benandantes supine for m. ## WRAITH ARCANOI
 
-To throw a change ofpace at some complacent supernatural characters,try puttinga coupleofextremely competenthunters intoagame.With their own capabilitiesaugmentedbyequipmentandexperience,thesesortsofmortalscantruly terrify supernaturalopponents,especiallyoncetheoppositionrealizesthatthe"mere mortalismoretalentedandpowerful than heseems!Thesesortsofcharactersarethe legendaryhunterswho have all of theincredibleskillsnecessary to undertake a one man crusade—peoplelikeSullivan Dane (Inquisitor,TrueFaith 8)or Benjamin Holmscroft(Arcanum scholar,immortal).
+Argos:the Argospowerof Oubliettedoes have the power tocast Benandantiinto the Tempest or freeze the m in place. Castigate:None of this Arcanos'powersfunction on Benandantiin Ekstasis. Embody:Awraithusing Embodygenerally exists as solidified spirit energy, and assuch, many powers suchassorcerous Healing do not functionon the wraith'sform. Awraith using Embodyto actuallytake aphysical for m do esmakeavisible target for Telepathy, Telekinesisand Pyrokinesis, though.Awraithwhouses Embodytomanifest can not becontactedlaterwith Telepathywhileinthe Underworld;the Numina only functionsonthewraithwhileitisinthematerialworld.Furthermore, using Telepathy onawraithisunsettlingatbest.the Narratorshouldsecretlymakea Simple Testwith the wraith todetermineif the psychic contacts the wraith's Shadow instead of its Psyche (or vice versa for Spectres). ## Laws of the Hunte
 
-Givesomemortalsafewextrapoints,andtheycaneasilystandtoe-to-toewith novice supernaturals.Add oneAttributeTraitin eachcategory(7/5/3) and two AbilityTraits(foratotaloffive),andbuildtherestofthemortalnormally.DeltaForce troops,high-level government intelligence officials,GladiusDei Inquisitors and powerful sorcerers all fall intothiscategory.Withtherightpowers and equipment, they're capable of matching——and sometimes beating——just about any opponent.
+Fatalism:Wraiths can not learn this Arcanos by studying with mortals possessing the Sorcerypath of Divination.Similarly, wraithscannot teach Divinationtomortals.throughthis Arcanos.the twopowers, whilesimilarineffect, have differentmethods. Inhabit:A wraith using Inhabit mustmake a Mental Challenge against a sorcerer who uses Conjuringtocontrol a Shellridden object.Psychometry immediately senses the presence of the wraith in an object. Flux:Using the Puppet the atre art on objects controlled with Conjuring requiresthewraith toengageina Mental Challengewith the controlling sorcerer. Intimation:Although Intimationcanchangewhatacharacterwants, itcannot breakthecompulsionsof Ephemeraor Summoning, Bindingand Warding.Intimation could be used to change the desires of the sorcerer, though. Keening:Since this Arcanos affects emotions, a mortal using True Faith to resist must have at least four Faith Traits, not two.The shockwaves created by Crescendo are powerful enough to injure a Benandante in Ekstasis. Mnemosynis: Use of this Arcanos on mortal targets requires that the wraith extend his reach beyond the Shroud in some fashion, eitherby using Embody or another similar Arcanos, or by being Risen.Conversely, Mnemosynis can beused ona Benandantein the Underworld. Moliate:This Arcanos can not affect Benandanti in the Underworld, as Benandanti in Ekstasis are not technically made of plasm. Outrage:Aswith any otherobject that is being controlled, the wraith must make a Physical Challenge against a character using Conjuring to manipulate a given object. Outrageis fully effective on pesky Benandanti. Pandemonium:When a wraithmanifestsstrange effects across the Shroud, Psychometry can gain insight into the wraith's emotional state if used in the are a. Puppetry:Awraith can easily Skinride the empty body of a Benandante in Ekstasis.Most Benandante use Ephemera toset upwards against this sort of abuse. Phantasm:Mortals typically have no defense against this Arcanos.A Benandantepulled out of his body through Agonis a dreaming spirit justlike anyone else, but a Benandante already in Ekstasis can not be affected by Agon. Usury:ABenandantecan lose(or gain)Health Levelsfromthis Arcanosbut otherfunctionshavenoeffect onthenon-wraith. Fascinate:this Risen Arcanos is limitedto the samefunctions as Intimation, although obviously the Risen exists in the material world. Contamimate:this Dark Arcanos do esnotaffect Benandanti, asthey do not have active Shadows.of course, once the Benandanteinquestiondies, all bets are of f.... Larceny:this Dark Arcanosisfullyeffectiveat destroying Benandanti during Ekstasis.Worse still, a Spectre could Embody and the n use Larceny on the Benandante'sunguardedbody.Yetanotherreasontosetuppowerfulwardsbefore entering Ekstasis. Shroud-Rending:Use of this Dark Arcanos is generally necessary for a Spectre toperceivethe Skinlands, but a characterwith the Flaw:Spectre Meat (see Chapter Two) shows upvisibly to all Spectresregardlessof the use or lack of this power. ## CHANGELING ARTS
 
-TheBestoftheBest should reallybe put only intogameswhere oneor two"super" mortalscanhelp toadd a splashof tension.Tossing in anexceptional hunter isa good way towarnplayersthattheirsupernaturalcharacters aregettingoutof control.
+Chicanery:Concealment grantedwith this Artcannotbe penetratedwith simple Clairvoyance.how ever, buriedmemoriescansometimesberediscoveredwith Telepa thy(see Chapter Three). Chronos:Ifachangelinguses Chronos to"undo"a scene in which acharacterwith Divinationalreadyusedexpendablepowers, the characterwith Diwinationregainsthe spentpowers Thus, acharacterwhoused Divinationtogainaretest and the nusedthat retestwouldregain the retest if a changeling used Chronos. Dream Craft:Enchantedmortals and kinain may be taken into the Dreaming with this Art.of courseif the individual suddenly disappears, otherswho are not enchantedwillattempt torationalizethedisappearanceaway, asaresultofthe Mists (see The Shining Host). Legerdemain:for ces exertedby this power can be contestedwith Telekinesis or Conjuring.Objects or creatures created by this power are fully affected by Sorcery designedagainsttheirnormalcounterparts;a createdbatwouldbesubjectto the Summoning, Binding and Wardingritual Ward Against Bats, for instance. Naming:this Artcanbe used to discover a mortal's True Name, but a partially Awakenedmortal(ghoul, kinain, Kinfolk, or possessedofany Intermediate Numina) is awareof the power'suse, just likeasupernatural creature.Changingasubject'sform with this Artmaymakethe subjectresistant to or susceptibletodifferentpowers of Sorcery;Summon do g is just as effective ona cat that is transformed into a do gwith Naming as it is on a regular do g. Primal:A changeling using Elder-for m is still considered a changeling for purposesof the effectsof Sorcery.Thus, Summon Dragonhas noeffectonachangeling in dragonform, while Summon Faerie stillworks. Pyretics:Firecreatedwiththis Art can be affected by Pyrokinesisandfannedifit is real, but chimerical fire can not beso affected evenif the psychicis enchanted. Sovereign:the Dictum power can beresisted as amentalcommand bya character with two Traitsof Faith;Grandeurisemotional, and acharactermusthavefour Traits of Faithin or dertoresist itwith True Faith. Soothsay: Sorcery that protects against scrying magic (such as a Ward versus Faeries)can prevent the use of this power on the sorcerer. ## GENERALADVICE
 
-## RUNNING A HUNTERS GAME
+Good Storytelling takes open-mindedness, a sense of fair play, or ganization, absolutefamiliaritywiththegamerules and aboveall, the abilitytoimprovisehe best stories are of ten the ones spawned from player-generatedideas.Characterswill have the ir owngoals, and if the segoalsleadthemastrayfromaplotthe Storytellerhad inmind, it'sokay aslongasthe playersarehavingfun.Of course, the plottheyare neglectingcouldfester and growmore serious due totheir inattention... The players create the story just asmuch as the Storyteller do es, and the Storytellershouldtrytoavoidsteppingontheirtoesorrailroadingthembacktowhere he thinks they should be.A player usinghis imagination should be encouraged, and in return, he may bring out aspects of the game that the Storyteller never even considered.? ## Laws of the Hunt
 
-Agamewithonlymortalhuntersforcharacterswillbebynecessity,smalland personal,withaheavyratioofNarratorstoplayers.Mortalswhoknowthetruthabout thesupernaturalarerareerhapsevenmoresothanthecreaturestheyseektodesroy.
+Sometimes, though, playersdontseemtobe abletoseewhat'sinfrontof the m, or even worse, put all the pieces together completely wrong.It can sometimes be difficult for a Storyteller to figure out why this is happening;since she has all the knowledge that the players lack.Knowingwhat the bigpicture is supposed to beprevents her from understanding that the hints and pieces don't easilyfit together, or worseyet, fit togetherin an entirelyunexpectedway. Listening to the players can prevent the se misunderstandings. A wise Storyteller learns why the characters are leaping to conclusions, and he can either subtly correct some leaps in logic or decide that the players'way works better. the n, from the player'sperspective, they've actually solveditontheir own. ## the TWOTYPESOFPLAYERS
 
-## SMALLGAMES
+Playersare, of course, unique, but manypeoplewill saythatthey come n several flavors, suchasthecombattwink, the angst-riddenactor, the ruleslawyer or the basementdweller.the distinctionthatreallymatterstoa Storytelleristhe slidingscalebetween anactiveplayer and are activeplayer.Knowingwhereaplayer falls on this scale can be helpfulin addressing anyproblemsthatmight arise concerningher. ## REACTIVEPLAYERS the seplayersare generallycontent towatch, and if somethinghappensthat the yfindinteresting, the yrespond toit.they defend againstchallengesmore than the yinitiatethem.Reactiveplayersprefertorespond to existingplotsrather than createtheirown.Agoodreactiveplayereasilygetsinvolvedinthe Storyteller'splot, pickingupon hooks and hintsbecauseheispayingattention.Apoor reactive player frequently complainsthatheisbored. ## ACTIVEPLAYERS the se players have an approach opposite to that of reactive players in Mind's Eye the atre games.they leap into action, and always have a scheme on the go. the yinitiatechallengesmore frequentlythan they defend against the m.they are morelikelytocompletely ignorea Storytellerplotandgooff ontheir owntangents. This can be bothfrustrating and helpful toa Storyteller.A good active playerhelps reactive players get caught up in something fun, lightening the Storyteller's workload.A poor active player leads reactiveplayers astray and uses the m as pawns. ## AFINAL WORD
 
-With a small troupe,it's important thatthe characters bewilling towork together.Whilehuntersfromthesameassociationhaveareasontoworktogether,its entirelyfeasiblethatcharactersfromdifferent organizationshavemetoverthecourse of their missions,andnowactin concert formutualaid andprotection.Achronicle forasmall troupecanfollowthecharactersastheydiscover,trackdownandneutralize creaturesaccordingtotheirownpersonal desires.
+Mind's Eye the atreis simultaneouslymoreintense but lesspersonal than tabletop storytelling.Whileeachplayeristhereinthethickof the action, playing itoutmomentbymoment, eachisonlyoneofmanycharacters, and the storyisot likely to feature anyparticular one as a star over the rest. The rulespresentedhere are designed tominimize the needfor the attention of Narrators and the Storytelleroncetheplayersbecomefamiliarwiththem.When the Storyteller's attentionismandatory, itusuallyinvolvessomethingthatcanbe dealtwithbetween sessions, insteadof right away duringthegame itself. ## Storgtelling the most significant changefrom the or iginal tabletoprulesistheelimination of for eseeing the future from mortal Numinae.In a Mind's Eye the atre game, the futureisinthehandsoftheplayers, and the Storytellerprobablycantpredictitany betterthanthey can. the se hunterrules only begin to scratch the surface.the tabletop sourcebooks the yareadaptedfromcontainmuchmoredepth and detail than Lawsofthe Hunt can hopetoencompass.for storyconcepts, Storytellersareencouragedtoturntothe ideasdevelopedin The Hunters Hunted The Inquisition, Project Twilight, Halls of the Arcanum, The Quick and the Dead, The Autumn People, Mediums: Speakerswith the Dead and World of Darkness:Sorcerer. ## EVOLUTIONOF MIND'SEYETHEATRE
 
-This sortofgameisveryStorytellerintensive,sincetheStorytellermustdefine the associations that the hunters belong to,aswell as populate the chroniclewith enoughadversariestokeepthehuntersbusy.Narrators takeon therolesofvampires and other assorted supernaturalnasties.
-
-## LARGEGAMES
-
-With a larger troupe,intrigue andpoliticking for power become stronger elements,and the actualhunt takes an almost secondaryrole.Perhaps the characters encompassall thetiersofhunterswithinthecity,fromtheheadofacenacleand his assistants,totheagentinchargeofaspecialtaskforce,totheeducatedpsychicand herlowliest occult students,to the strayindependents.
-
-This stratification allows for interaction within each association,as well as friendships,alliancesanddisagreements acrosstheboundaries.Hunterscan havevery differentideasofwhateedstobedoneaswellasowtaccomplishitandarguing over an approachmakesforjustasmuchfun asthehuntitself.
-
-Narratorsstillhavetotakeonthetaskofplayingtheprey,butactualencounters withthe supernatural happenlessfrequently.
-
-## INCORPORATING HUNTERS INTO ANEXISTING GAME
-
-As adversariesinagamecentered around oneormore supernatural creatures, mortal hunters arebestused ascharactersinthecapablehandsof aNarrator,or by players theStoryteller can trust topull it off.
-
-## NPCHUNTERS
-
-Ifa hunterisanNPC,theStorytellercanincreasehispowerleveltomatchthe existingcharacters,sothat heactuallyposes areal threat tothem.Theplayersshould be encouraged tobecreativeindealingwithsuch athreat,sothatthey don'tsimply Blood Bond the hunter, or kill him.Discrediting the hunter works very well indeed.
-
-## PCHUNTERS
-
-Ifa hunter is a PC,the player should create him as a normal starting character,using the creationrules provided.He will probably want to start off slow,learningabouthisfoes,garnering alliesagainstthem and fortifyinghimself for thebattle to come.
-
-Thisrolecanbeverychallengingforaplayer.Afterall,hewon'tlikelybeinvited tothevampires'ballortohangaround thecaernforthenextwerewolf moot.Hehas toslowlybecomeawarethatvampiresmeetatacertainspot,andhethenmusttrack a likely target on theway out.
-
-Having a small group of hunters can alsoworkwell,giving theplayersmutual support andothercharacterstointeractwithwhiletheyworktolocate a target.
-
-## MAINTAININGABALANCE
-
-The framework of each Mind'sEyeTheatre game is a delicate meshing of manipulation,intrigue andcooperationbetweenvampireclans,werewolfpacksor changeling courts.Introducingan elementwhose primary goalisto completely eliminatetheotherscanmakeagamesuddenlybloodthirstywhichisusuallynothe desireoftheStoryteller.
-
-## Storygtelling
-
-## Laws of the Hunt
-
-Theprimarygoalofaddinghuntersshouldbetokeepthesupernatural players on their toes.Now they have toworry about displayingvampiricstrength,or shiftingtowolfforminpublicview,forfearthatsomeoneiswatchingforjustthat sortofinvitationwithintenttokill.
-
-Theideal balance tostrikewouldbeforthetwosidestoend upcirclingone another,neitherwillingorreadytomakeafinal strike.Afterall,aplayerwhose characteriskilledina conflictbetweenhunters and the supernatural willalways return as another character.Neither side can truly eliminate the other.
-
-## TOOMUCH EQUIPMENT!
-
-Mortal huntersrely on equipment quite a bit.That's fine—they must, to keepupwith supernaturalcreatures.Thesection onEquipment in ChapterFour caters to this reliance.
-
-However,somegamesmaysee anoverabundanceofequipment,especially weapons.Wheneveryhunteriswalking aroundwith a combatshotgun and heavy body armor,there'saseriousbalanceproblem atwork.
-
-The thing tokeep in mind is that the Storyteller controls all access to equipment.Playerscannot simply writeupcardsfor any pieceof equipment they desire,evenif their charactershave the appropriate typesof Influence.Instead, eachplayer should consultwith theStorytellerbefore thegame,todetermine what sortsofequipment hecan layhishands on.TheStorytellermay want tomake equipment.
-
-Furthermore,it'sa simplematter to get rid of excess gear.Anything that's powerful has attendantrestrictions.Crazyvampire-hunterswanderingthe streets don'tcarrycombat shotguns.Furthermore,federalauthoritieshavelittletrouble tracking the public use of incendiary weapons.A character using illegal or dangerous equipment may quickly find herselfwanted by thegovernment in additiontobeinghunted by supernatural creatures.The charactermayhaveto choose between ditchingthe gear or facing arrest and a trial (which almost certainly takes the character out of play).
-
-Remember,too,that even readily available equipmentgearmarked as "Availability:Any"might not be so easily acquired.Sure,you canmail-order dragonsbreathroundsfroma paramilitary catalog,andanyonecangointo a gun store andget them.However,using suchweapons ups the stakes considerably. Vampires who ignore more"mundane"hunters may team up to annihilate the dangeroushunterwho shows upwith heavy weapons.Similarly,any supernatu ral creaturewithamodicumof Police,StreetorTransportationInfluencemaywell learn ofthe hunter's requisition of special weapons,and take steps with Influencetostop thedelivery.In aworldofparanoidvampireancients,how many mortal hunters are actually going to get their hands on incendiary weapons,even if such devices are simply ordered through the mail The Storytellercaneasilycontrolaccess to"common"devicesby deciding thatsome element of supernatural society already manipulates thatmarket-or,better still,thatsaidmarket ishotly contested by supernatural Influencebrokers,and thatnobodycangettheir hands on theweapons that theStoryteller doesn't want in the game.
-
-## TOO-WIMPYMORTALS!
-
-WiththeirlowTraitmaximumsandlimitedpowers,mortalsarefragilewhen comparedtosupernaturalcreatures.Infact,mortalsaredownrightwimpy.Theybreak easily andtheyhavenoquickway of healingorbolsteringtheirlimitedpowers.
-
-This is thewhole idea of playing a mortal—you're someone at oddswith a hostileworldsurroundedbysupposedlymorepowerfulenemiesyetdeterminedo win throughsheer chutpah.If mortalcharacters are dyingleftandright,then the mortals areprobably not being playedwell.A hunter mustbe careful and clever in order to survive.
-
-Furthermore,independents rarely havean easy time ofit.Playing anindependent hunter is perhaps themost challengingrole of all.Small groups of hunterscan isolatetheiropponentsandganguptocombinetheirabilities,butanindependent mustfaceoffaloneagainstsuperioropponents.Without allies,thehuntermustbe craftyindeed.And,ofcourse,everyhunterrisksdeathwith every encounter.This riskis simply something thatmustbeaccepted-youdon'tdon themantleofa hunterwithout acceptingthefactthatitmaywellkillyou.
-
-## CONSEQUENCES
-
-Consequences arewhathunters areallabout.Afterall,ifa supernatural creature hadn'tbeen careless at some point,thehunterwouldn't be on thecase in thefirst place.Having hunters take aninterest inyourcharactercanbe consequence enough for shortsightedness.
-
-Storytellers shouldn'tbe afraid to showhunters the consequences of their actions,either.Whenahunterdrivesastakethroughavampire'sheart,it'sanact of murder asfar as anywitnesses areconcerned.Hunters have to take as much care not tobenoticed asvampires,werewolvesandwraiths do—perhaps evenmore. Afterall,theyarestillaartofhumansociety,andtheycanbeeasilytrackeddown to pay the piper.
-
-## CROSSOVERS
-
-Sincehuntersstalkandslayvariousformsofsupernaturalprey,crossoversare inevitable.Afterall,ahuntersgamewithoutafewvampires,werewolvesorwraiths isreallyjust a game ofmortalsstanding aroundwithout anyonetohunt.
-
-OfcoursecrossoverslikethiscauseallsortsofheadachesforStorytellersecause of theclashofvariousrules.Thus,thissectionshould helptoclarify somecommon (andnot-so-common)occurrences.
-
-When indoubt,use therulesfromthemostrecentMind'sEyeTheatrebook. Forinstance,therulesin thisbookshould supersede theKinfolkrulesinLaws of theWild.
-
-## EQUIPMENTCROSSOVERS
-
-Hunters have access to a lot of special equipment that'snever before been describedforMind'sEyeTheatre.Theyneedit！Of course,somevampireswill immediatelywanttoget their hands oncombat shotguns,too.
-
-## Storgtelling
-
-<!-- image -->
-
-First,remember theInfluence necessary to score a particular item.Always enforcethisrule,andrememberthatjustusingtheInfluencemaynotbeenough.The Influence simplyindicates that it may be possible to get the item.
-
-Secondly,considerkeeping some of themore powerfulor esotericpiecesof equipment out of the hands of supernatural characters.A combat shotgun helps to eventhoddsforahunter,butinthehandofavampire,itsoverpowering.Remembr thatreallyunusualgeardraws a lotof attention,andthatsortof attention is thelast thing that most supernaturals want. A vampire trying to get a sniper rifle is going to have tododgesomeintenseinvestigationsfrom legal authorities,and thoughitmay bepossible,theprinceof the city may simplyrule that going through that sort of scrutiny isa threattotheMasquerade.You caneasily outweighthebenefitsofrare equipmentwiththeproblemsthatitcreatesfortheowner.
-
-## POWERINTERACTIONS
-
-In general, supernatural creatures can't use Numinae.That's that.Psychic Phenomenaaretheprovinceofmortalsalone,andSorceryisusuallynotaseffective as thenatural powers of a givencreature.
-
-There are someexceptionsthough.Most supernatural creaturescould conceiv ablyhaveTrueFaith,although thecost is high and theMerit is exceedinglyrare.
-
-Also,afewtypesofcreaturesbesidesmortalsactuallystudySorcery.TheUktena werewolves and theBastetaretheprimarykeepersofSorcery among supernaturals, butsomerevenants alsopracticethisformofmagic.Suchcreaturesmustpay anextra Intermediatelevelscost eightandAdvancedLevelscost12Traits.Wheneversuch a creatureiscalledontospenda HumanityTraittopowerSorcery,thoughhemust spendaWillpowerTrait instead.
-
-Vampires cannot use Sorcery at all; they must be content with Thaumaturgy. Similarly,wraithscannot useSorcery,asthey haveneitherbodiesnor theconnection to the appropriate energies.Mageshave theirown forms of magickwhich are much morepowerful,whilechangelings usetheirownArts andRealms.Sorceryisgenerally toostructuredforthecreativeandchaoticfae.
-
-Mortals can sometimes learn the abilities of supernaturalcreatures.See the Meritsof Ghoul,KinfolkandKinaininChapterTwoforinformation.
-
-## SPECIALCONSIDERATIONS
-
-Somepowershavespecial effects thatmust be explicitly considered for cross overs.Also,varyingcharactersdonot always directlyreflect thestatistics ofvarious games.
-
-BloodTraits:A mortal has threeBlood Traits.Vampires can drink thisblood normally.EachTrait avampire drinksinflicts twoHealth Levels of damageon the mortal.Giovannivampiresinflictanextralevelofdamagewiththeirdraining,soonly twoTraitsof blooddrainwouldkillamortal.Amortalbittenbyavampireforpurposes ofblooddrainisimmediatelyhelpless,unless hespendsaWillpowerTraittoact.This phenomenon isknown as theKiss.Additionally,avampirecan closeanywould left byhisbiteorclawssimplybylickingit.Ghoulswholosealloftheirbloodmay survive; makeaSimpleTest,and if theghoulwins(notiesorlosses),then thecharacter stays MortallyWounded insteadof dyingimmediately.
-
-## Storytelling
-
-Rage Traits:Mortals,evenKinfolk,do not possess Rage Traits.
-
-Delirium:Insteadof using theDeliriumchartpresented inLaws oftheWild, extrapolatebasedon themortal'sWillpower andMental Traits.After all,mortals can't have more than threeWillpowerTraits.Any character who is partially Awakened(aghoul,Kinfolkorkinain,orwiththeIntermediatelevelofanyNumina) isimmuneto theDelirium.For thechart,add twice the character's number of WillpowerTraitstohisMentalTraitsandsubtractthree.Thus,acharacterwithone WillpowerTrait and threeMentalTraits uses the"2"column ontheDeliriumchart, while acharacterwith threeWillpowerTraits and eightMentalTraitsuses the"10+" column of thechart.
-
-BanalityTraits:Mostmortalsareconsideredtohaveanywherefromfivetoeight BanalityTraits,asdeterminedbytheStoryteller.SeeTheShiningHostfordetails.
-
-## VAMPIRICDISCIPLINES
-
-Animalism:Characters affected by SongofSerenity cannot useSorcery orPsychic Phenomena,since they nolonger have thenecessary strength ofwill to do so.
-
-Auspex:ThisDiscipline cannot detect theuse ofPsychicPhenomena,unlessthe characteractuallyusesTelepathytoreadthemindofthepsychicandrealizewhat's happening.Aura Perception will detect the use ofSorcery;the sorcerer's aura sparkles with gold while heusesmagic.Similarly,characters withTrueFaith have a"marked" aura in some formburning,wrapped inglowinggreen or similarly startling.
-
-Celerity:A pre-empt gained by equipment cannegate a pre-empt fromCelerity.
-
-Chimerstry:IllusionsconjuredwiththisDiscipline arefullymanifested tosuch remote senses asClairvoyance.TheexceptionisHorridReality,whichisonly visibleto its specifictarget.
-
-Dominate:Mortals can spend Willpower toresist this Discipline,butthis expenditure only grants a singleretest,not immunity.
-
-Fortitude:Aggravatedwoundscaused byTrueFaith are exceedinglypainful;if a vampiresuffersaggravatedinjuryduetoablessedweapon,relicorholywater,thenth Fortitude Discipline does not negate wound penalties from theinjury.Mark such injuriesspeciallyforvampires.However,Fortitudemay still beusedtoreduce such injuries from aggravated tonormal levels of damage.
-
-Necromancy:SinceBenandanti are living souls projected into theUnderworld, NecromancycannotcontrolorsummonthemduringEkstasis.However,aBenandante who is not in Ekstasis could be affected with Soul Stealing normally,and then commandedwithCompel.
-
-Obtenebration:Theunnaturaldarknessevokedby thispowermutessounds aswell as extinguishinglights.Natural lights(flashlights and lamps) cannot penetrate this darkness.Furthermore,Obtenebration generates total darkness conditions,andneither theMerit:AcuteSense(Hearing)nor the Merit:AcuteSense(Sight) is of any use. Eveninfraredgoggles and nightvision goggles are useless.Only thevampiregenerat ingthe darknessseesthroughitwithoutsufferingpenalties.
-
-Obfuscate:Aconcealedvampireorghoulremainshiddenfromremotesenses suchasClairvoyance,unlessthehunteradditionallyhassomemeansofseeingthrough Obfuscatenormally(like theMerit:ClearSighted).
-
-Potence:IfacharacterwinsalltiesasaresultofPotence,whileahunterhasapower thatwins all ties,thentiesmust beresolvednormally.
-
-## Laws of the Hhunt
-
-Presence:AswithDominateaWillpowerTrait allows amortaloneretestagainst thispower,but it doesnotgrant automatic immunity.
-
-Protean:Avampireinmist formdoesnottriggermotionsensors orpressure sensors.RitualsofSummoning,BindingandWardingmustbedesigned tofunctionon a vampire,evenif thevampireisinwolforbatform,inordertohaveanyeffect.(That is,aSummonBatritualwill not summonavampireinbatform.)
-
-Quietus:TheSilenceof Death power negates theNegativeTrait:Loud.
-
-Thaumaturgy:Sorcery and Thaumaturgy are both considered magic,and they interactassuch.Thaumaturgyritualsthat protectagainstmagicwillkeepoutSorcery but notPsychicPhenomena.PsychicPhenomena will bewarded byanyThaumaturgy effect that specifically wards against that sortofmanifestation,aslong as the Thaumaturgypowerisnot specificallygeared againstmagicThusaritualdesignedto keep outmagical scryingwouldprevent sorcerousDivinationbut not psychicClairvoyance,whileapowerthatshieldsagainstanyexertionofforcewouldworkequallywell againstbothsorcerous ConjurationandpsychicTelekinesis.Also,theCauldronofBlood power automaticallyreducesamortal toMortallyWounded if asinglepoint of blood is boiled-more than that,and themortal is instantly killed.
-
-Vicissitude:The effects of thisDiscipline on mortals-—specificallyFleshcraft and Bonecraft—arepermanent.Even theSorcery pathof Healing cannotrepair such mutilations.
-
-## GAROU GIFTS
-
-SpiritWard:ASpiritWardkeepsoutBenandantiinEkstasisbutnotClairvoyance. Curse of Hatred:Sincemortals donot haveRageTraits,this Gift'sremovalofa
-
-WitherLimb:ecause hisGiftwithers a limbasanaggravatedinjury,itseffects maynotbe counteredwiththeSorcery path of Healing.
-
-RageTrait hasnoeffect on a hunter.
-
-Scent of Sight:This Gift negates all penalties for darkness.
-
-Scentof theTrueForm:Sorcerers,Benandantiandkinainaredifficulttodetect, just likemages,ghoulsandKinfolk;theywinalltiesagainst thisGift.Note thatunless the GaroupossessestheappropriateLoreAbilities,hemay simplynotethatthetarget "smells odd"without exactlyknowing the subject's true nature.
-
-Blurof theMilkyEye:UseofthisGiftconcealstheGarou fromremoteperceptions likeClairuoyanceunlessthehunterpossesessome abilitytoseethroughtheGift (such as.theMerit:ClearSighted).
-
-Name theSpirit:This Gift detectsBenandanti,but not Clairvoyance.
-
-OpenSeal:SinceConjuring doesnotactuallyenchantanobject,a prepared lock is not considered"magical."
-
-Blissful Ignorance:SeeBlurof theMilkyEye.Notethat thisGiftnegatestheassistance of technologicaldevices,including aphased motiondetector(seeChapterFour).
-
-SpiritSpeech:The Garou can communicatewithBenandanti in Ekstasis.
-
-CommandSpirit:This GifthasnoeffectonBenandanti in Ekstasis.
-
-Exorcism:This Gift has no effect onBenandanti inEkstasis.
-
-Pulse of theInvisible:See OblivionforMind'sEyeTheatre.A special similar Gift calledDrumbeatof theShadowmustbeused toseetheUnderworld;thus,Pulsecannot detect Benandanti in Ekstasis,but Drumbeat can.
-
-<!-- image -->
-
-SpiritDrain:NoeffectonBenandantiinEkstasis,eventhealteredformoftheGift that works onwraiths(see Oblivion).
-
-MalleableSpirit:Benandanti in Ekstasis cannot be reshapedwith this Gift.
-
-SpiritVessel:Since Benandanti inEkstasis are notUmbral,this Gift doesnot affect them.
-
-Call toDuty:TheCalltoDuty summonsUmbral spirits,notBenandanti.Aspirit alreadybound byEphemeramightnotanswer,dependingonthewhimsofthesorcerer.
-
-Mindspeak:TheTelepathyNuminacanbeusedtoeavesdroponthisGift,justlike vampiricTelepathy.
-
-Geas:AttemptingtocompelacreaturecontrolledwithSummoning,Bindingand Wardingfails if the subject's commandsconflict with the Geas.
-
-BodyWrack:The useof sorcerousHealingcombats this Gift if the healerhas the necessary rituals to quell pain.To do so requiresAdvancedHealing.
-
-SpiritFriend:NoeffectonBenandanti inEkstasis.
-
-Faerie Kin:This Gift affects kinain who have the Merit:Faerie Blood (see Chapter Two).
-
-ControlSimpleMachine and Control ComplexMachine:If theseGiftsareused on anobject that isbeingmanipulatedwithConjuring,thenthetwoparticipants engage inaMental Challengetoseewho takescontrol.
-
-Obedience:If thisGiftisusedonacharactercontrolledwithSummoning,Binding andWarding,theGaroumustchallengethesorcererforcontrolinsteadofchallenging the targetof the Gift.
-
-SummonTalisman:Ifaconjurerattemptstoteleport apreparedobject at thesame time that theuserof thisGiftcallsforit,thetwomustengageinaMentalChallenge todeterminewho actuallygetstheitem.
-
-Mindblock:This Gift doesnotblocktheNumina ofTelepathywhenused simply togather information.This GiftdoesblocktheSorcery path of Summoning,Binding andWarding,though.
-
-SenseMagic:Use of thisGift doesnot detectPsychicPhenomena orTrueFaith, but does senseSorcery.
-
-Summon theRestlessShade:This power can guide a lostBenandanteback to her body,if it is used at the site of theBenandantes supine form.
-
-## WRAITH ARCANOI
-
-Argos:TheArgospowerof Oubliettedoes have thepower tocastBenandantiinto theTempest orfreeze them in place.
-
-Castigate:None of thisArcanos'powersfunction onBenandantiinEkstasis.
-
-Embody:AwraithusingEmbodygenerally exists as solidified spirit energy,and assuch,many powers suchassorcerousHealing donotfunctionon thewraith'sform. Awraith usingEmbodyto actuallytake aphysical form doesmakeavisible target for Telepathy,Telekinesisand Pyrokinesis,though.AwraithwhousesEmbodytomanifest cannotbecontactedlaterwithTelepathywhileintheUnderworld;theNumina only functionsonthewraithwhileitisinthematerialworld.Furthermore,usingTelepathy onawraithisunsettlingatbest.TheNarratorshouldsecretlymakeaSimpleTestwith the wraith todetermineif the psychic contacts the wraith'sShadow instead of its Psyche (or vice versa for Spectres).
-
-<!-- image -->
-
-## Laws of the Hunte
-
-Fatalism:Wraiths cannot learn this Arcanos by studying withmortals possessing theSorcerypath of Divination.Similarly,wraithscannot teachDivinationtomortals.throughthisArcanos.Thetwopowers,whilesimilarineffect,have differentmethods.
-
-Inhabit:A wraith usingInhabit mustmake a Mental Challenge against a sorcerer who uses Conjuringtocontrol aShellridden object.Psychometry immediately senses the presence of the wraith in an object.
-
-Flux:Using the Puppet Theatre art on objects controlled with Conjuring requiresthewraith toengageina Mental Challengewith thecontrolling sorcerer.
-
-Intimation:AlthoughIntimationcanchangewhatacharacterwants,itcannot breakthecompulsionsofEphemeraorSummoning,BindingandWarding.Intimation could be used to change the desires of the sorcerer,though.
-
-Keening:Since thisArcanos affects emotions,a mortal using True Faith to resist must have at least four FaithTraits,not two.The shockwaves created by Crescendo are powerful enough to injure a Benandante in Ekstasis.
-
-Mnemosynis: Use of thisArcanos on mortal targets requires that the wraith extend his reach beyond theShroud in some fashion,eitherby usingEmbody or another similarArcanos,orby beingRisen.Conversely,Mnemosynis can beused onaBenandantein theUnderworld.
-
-Moliate:This Arcanos cannot affect Benandanti in the Underworld,as Benandanti in Ekstasis are not technically made of plasm.
-
-Outrage:Aswith any otherobject thatis being controlled,thewraith must make a Physical Challenge against a character using Conjuring to manipulate a given object. Outrageis fully effective on peskyBenandanti.
-
-Pandemonium:When a wraithmanifestsstrange effects across theShroud, Psychometry can gain insight into the wraith's emotional state if used in the area.
-
-Puppetry:Awraith can easilySkinride the empty body ofa Benandante in Ekstasis.Most Benandante useEphemera toset upwards against this sort of abuse.
-
-Phantasm:Mortals typically have no defense against this Arcanos.A Benandantepulled out of his body throughAgonis a dreaming spirit justlike anyone else,but a Benandante already in Ekstasis cannot be affected by Agon.
-
-Usury:ABenandantecan lose(orgain)HealthLevelsfromthisArcanosbut otherfunctionshavenoeffect onthenon-wraith.
-
-Fascinate:ThisRisenArcanos islimitedto the samefunctions as Intimation, although obviously theRisen exists in the material world.
-
-Contamimate:ThisDarkArcanos doesnotaffectBenandanti,asthey donot have activeShadows.Ofcourse,once theBenandanteinquestiondies,allbets are off....
-
-Larceny:ThisDarkArcanosisfullyeffectiveat destroying Benandanti during Ekstasis.Worse still,a Spectre could Embody and then use Larceny on the Benandante'sunguardedbody.Yetanotherreasontosetuppowerfulwardsbefore enteringEkstasis.
-
-Shroud-Rending:Use of this Dark Arcanos is generally necessary for a Spectre toperceivetheSkinlands,but a characterwith theFlaw:SpectreMeat (seeChapterTwo) shows upvisibly to all Spectresregardlessof theuse orlack of this power.
-
-<!-- image -->
-
-## CHANGELING ARTS
-
-Chicanery:Concealment grantedwith thisArtcannotbe penetratedwith simple Clairvoyance.However,buriedmemoriescansometimesberediscoveredwithTelepa thy(seeChapterThree).
-
-Chronos:IfachangelingusesChronos to"undo"a scene in whichacharacterwith Divinationalreadyusedexpendablepowers,thecharacterwithDiwinationregainsthe spentpowersThus,acharacterwhousedDivinationtogainaretest and thenusedthat retestwouldregain theretest if a changeling used Chronos.
-
-DreamCraft:Enchantedmortals and kinain may be taken into the Dreaming with thisArt.Ofcourseif theindividual suddenly disappears,otherswho arenot enchantedwillattempt torationalizethedisappearanceaway,asaresultoftheMists (seeTheShiningHost).
-
-Legerdemain:Forces exertedby this power can be contestedwithTelekinesis or Conjuring.Objects or creatures created by thispower arefully affected bySorcery designedagainsttheirnormalcounterparts;a createdbatwouldbesubjectto the Summoning,Binding andWardingritualWardAgainstBats,forinstance.
-
-Naming:ThisArtcanbe used to discover a mortal'sTrueName,buta partially Awakenedmortal(ghoul,kinain,Kinfolk,orpossessedofanyIntermediateNumina) isawareof thepower'suse,just likeasupernatural creature.Changingasubject'sform with thisArtmaymakethe subjectresistant to orsusceptibletodifferentpowers of Sorcery;SummonDog is just as effective ona cat that is transformed intoa dogwith Naming as it is on a regular dog.
-
-Primal:A changeling using Elder-Form is still considered a changeling for purposesof theeffectsofSorcery.Thus,SummonDragonhas noeffectonachangeling in dragonform,whileSummonFaerie stillworks.
-
-Pyretics:FirecreatedwiththisArt canbe affected byPyrokinesisandfannedifit isreal,but chimerical fire cannotbeso affected evenif thepsychicis enchanted.
-
-Sovereign:TheDictum power canberesisted as amentalcommand bya character withtwoTraitsofFaith;Grandeurisemotional,andacharactermusthavefourTraits ofFaithin ordertoresist itwithTrueFaith.
-
-Soothsay: Sorcery that protects against scrying magic (such as a Ward versus Faeries)can prevent the use of this power on the sorcerer.
-
-## GENERALADVICE
-
-Good Storytelling takes open-mindedness,a sense of fair play,organization, absolutefamiliaritywiththegamerules andaboveall,theabilitytoimprovisehe best stories areoften theones spawned fromplayer-generatedideas.Characterswill havetheirowngoals,andif thesegoalsleadthemastrayfromaplottheStorytellerhad inmind,it'sokay aslongasthe playersarehavingfun.Of course,theplottheyare neglectingcouldfester andgrowmore serious due totheir inattention...
-
-The players create the story just asmuch as the Storyteller does,and the Storytellershouldtrytoavoidsteppingontheirtoesorrailroadingthembacktowhere he thinks they should be.A player usinghis imagination should be encouraged,and in return,he may bring out aspects of the game that the Storyteller never even considered.
-
-?
-
-## Laws of the Hunt
-
-Sometimes,though,playersdontseemtobe abletoseewhat'sinfrontof them,or even worse,put all the pieces together completely wrong.It can sometimes be difficult foraStoryteller to figure out why this is happening;since she has all theknowledge that theplayers lack.Knowingwhat thebigpicture is supposed to beprevents her from understanding that the hints andpieces don't easilyfit together,orworseyet,fit togetherin an entirelyunexpectedway.
-
-Listening to the players can prevent these misunderstandings. A wiseStoryteller learns why the characters are leaping to conclusions,and he can either subtly correct some leaps in logic or decide that the players'way works better. Then,from theplayer'sperspective,they've actually solveditontheir own.
-
-## THETWOTYPESOFPLAYERS
-
-Playersare,of course,unique,but manypeoplewill saythatthey come n several flavors,suchasthecombattwink,theangst-riddenactor,theruleslawyer or thebasementdweller.ThedistinctionthatreallymatterstoaStorytelleristhe slidingscalebetween anactiveplayer andareactiveplayer.Knowingwhereaplayer falls on this scale can be helpfulin addressing anyproblemsthatmight arise concerningher.
-
-## REACTIVEPLAYERS
-
-Theseplayersare generallycontent towatch,andif somethinghappensthat theyfindinteresting,theyrespond toit.They defend againstchallengesmore than theyinitiatethem.Reactiveplayersprefertorespond to existingplotsrather than createtheirown.AgoodreactiveplayereasilygetsinvolvedintheStoryteller'splot, pickingupon hooks and hintsbecauseheispayingattention.Apoor reactive player frequently complainsthatheisbored.
-
-## ACTIVEPLAYERS
-
-These players have an approach opposite to that of reactive players inMind's Eye Theatre games.They leap into action, and always have a scheme on the go. Theyinitiatechallengesmore frequentlythan they defend against them.They are morelikelytocompletely ignoreaStorytellerplotandgooff ontheir owntangents. This canbe bothfrustrating and helpful toaStoryteller.A good active playerhelps reactive players get caught up in something fun,lightening the Storyteller's workload.A poor active player leads reactiveplayers astray and uses them as pawns.
-
-## AFINAL WORD
-
-Mind'sEyeTheatreis simultaneouslymoreintense but lesspersonal than tabletop storytelling.Whileeachplayeristhereinthethickof the action,playing itoutmomentbymoment,eachisonlyoneofmanycharacters,andthestoryisot likely to feature anyparticular one as a star over the rest.
-
-The rulespresentedhere aredesigned tominimize theneedfor the attention ofNarrators and theStorytelleroncetheplayersbecomefamiliarwiththem.When theStoryteller's attentionismandatory,itusuallyinvolvessomethingthatcanbe dealtwithbetween sessions,insteadof right away duringthegame itself.
-
-## Storgtelling
-
-Themost significant changefrom the original tabletoprulesistheelimination of foreseeing thefuture from mortal Numinae.In a Mind'sEyeTheatre game,the futureisinthehandsoftheplayers,andtheStorytellerprobablycantpredictitany betterthanthey can.
-
-These hunterrules only begin to scratch the surface.Thetabletop sourcebooks theyareadaptedfromcontainmuchmoredepth anddetail thanLawsoftheHunt canhopetoencompass.Forstoryconcepts,Storytellersareencouragedtoturntothe ideasdevelopedinTheHuntersHuntedTheInquisition,ProjectTwilight,Halls of the Arcanum,The Quick and the Dead,The Autumn People,Mediums: Speakerswith theDead andWorld of Darkness:Sorcerer.
-
-## EVOLUTIONOF MIND'SEYETHEATRE
-
-The Mind's Eye Theatre game system undergoes constant evolution andrevision,andassuch,itsrulestend tochangeaslayers,arratorsand Storytellers discover newer and better ways to handle situations.This evolution isnogreat surprise-every game system goes through steps of development—butwithMind'sEyeTheatre,the feedbackisimmediate (and often extensive)when a particular rule doesn't workwell.
-
-- ·Ghouls,whowere treated indetail inLiberdesGoules,never had an assignednumber ofTrait maxima,ExperienceTrait expenditures,or Disciplinelimitations.Therulesfor the Merit:Ghoul(seeChapterTwo) should take precedence here.However,the other rules in the Liber des Goules still apply.
-
-The simpleresult ofthis constant evolution is that each successive Mind'sEyeTheatrebooktendstohave somenewanddifferentwaysof dealingwith situations.In caseswhererules conflict,therules presentedin thenewestbookshould beused,unlesstheyarespecificallydesignedforacase relevant only to the newbook.Byway of example...
-
-- ·GarouKinfolkreceivedonly cursorytreatment inLaws ofthe Wild.Therules in thisbook,on theother hand,provide a much more detailedsystemforbuildingmortals,andwerewolf troupesmaywishtouse therulesinhere.
-- Military andEspionageInfluencehaveneverbeforebeenpresented in aMind'sEye Theatre product.However,that doesn't mean that they're limited just to mortals.A Storyteller who feels comfortablewith these Influences should certainly allow other characters access to them.
-
-Ofcourse,allofthisdevelopmentissupersededbytheso-calledGolden Rule:TheStoryteller hasthefinal sayfor anygiven game.If you preferthe earlierrulesforaparticularoccurrence,thenbyallmeansusethem.ust sure that all of your players know what your game uses.
-
-<!-- image -->
-
-SPECIALEQUIPMENT
+The Mind's Eye the atre game system undergoes constant evolution and revision, and assuch, itsrulestend tochangeaslayers, arratorsand Storytellers discover newer and better ways to handle situations.This evolution is nogreat surprise-every game system goes through steps of development—but with Mind's Eye the atre, the feedbackisimmediate (and of ten extensive)when a particular rule do esn't workwell. - ·Ghouls, who were treated indetail in Liberdes Goules, never had an assignednumber of Trait maxima, Experience Trait expenditures, or Disciplinelimitations.the rulesfor the Merit:Ghoul(see Chapter Two) should take precedence here.how ever, the other rules in the Liber des Goules still apply. The simpleresult of this constant evolution is that each successive Mind's Eye the atrebooktendstohave somenewanddifferentwaysof dealingwith situations.In caseswhererules conflict, the rules presentedin the newestbookshould beused, unlesstheyarespecificallydesignedforacase relevant only to the newbook.Byway of example... - ·Garou Kinfolkreceivedonly cursorytreatment in Laws of the Wild.the rules in this book, on the other hand, provide a much more detailedsystemforbuildingmortals, and were wolf troupesmaywishtouse the rulesinhere. - Military and Espionage Influencehaveneverbeforebeenpresented in a Mind's Eye the atre product.how ever, that do esn't mean that they're limited just to mortals.A Storyteller who feels comfortablewith the se Influences should certainly all ow other characters access to the m. of course, all of this developmentissupersededbytheso-called Golden Rule:the Storyteller has the final sayfor anygiven game.If you preferthe earlierrulesforaparticularoccurrence, the nbyallmeansusethem.ust sure that all of you r players know what you r game uses. SPECIALEQUIPMENT
 
 NEGATIVETRAITS
 
@@ -5470,28 +2156,18 @@ PHYSICALTRAITS
 
 MERITS
 
-FLAWS
-
-awsof
-
-THEHUNT
+FLAWS awsof the HUNT
 
 HUMANITY TRAITS
 
 PLATER
 
-CHARACTER
-
-WILLPOWER
-
+CHARACTER will POWER
 - [ ] O 口
-
 - [ ] O
 
 CHRONICLE
-
 - [ ] 口
-
 - [ ] 口
 
 NATURE
@@ -5499,27 +2175,16 @@ NATURE
 FAITH
 
 DEMEANOR
-
 - [ ] O
-
 - [ ] O
-
 - [ ] O 口
-
 - [ ] O 口
-
 - [ ] O 口
-
 - [ ] O 口
-
 - [ ] O
-
 - [ ] 口
-
 - [ ] 口
-
 - [ ] 口
-
 - [ ] 口
 
 INFLUENCES
@@ -5536,75 +2201,27 @@ EXPERIENCE
 
 AGE
 
-D
-
-<!-- image -->
-
 BECAUSETHEMIND'SEYENEVERBLINKS
 
-Get ready for a new way to stay on top of yourgame.InFebruary of1999,WhiteWolf will bring you the first issue of a quarterly publication for Mind's Eye Theatre.This Journal isdesigned toround out yourMET knowledge by bringing you the latest in incharacter and game mechanic information. Some of the regular features and one-shot articles in the first issue will include:
-
-- ·International Continuity —Updates official revisions in World of Darkness continuity beginning with changes introduced in the new edition of Vampire: The Masquerade.
-- ·State of the Game ——Recent news, and insights into the gears of the live-action mechanism.
-- ·Ramping Up ——The basics of setting up. a completely new game,and the pitfalls of a MET game that's not properly prepared.
-- ·Enochian Mysticism ——Revisions of the Nagaraja Discipline of Nihilistics.
-- ·Wyld West: Frontier Felines —MET Bastet, and the tribal advantages and disadvantages of the Pumonca.
-- ·Long Night: Combination Disciplines Translation notes for live-action play.
-- ·Q&amp;A and Rules Clarification.
-
-And updatesonmajorconwentions scheduled to feature live-action games.
-
-ISSUE NO.I, FEBRUARY 1999
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
+Get ready for a new way to stay on top of you rgame.In February of1999, White Wolf will bring you the first is sue of a quarterly publication for Mind's Eye the atre.This Journal is designed toround out you rMET knowledge by bringing you the latest in incharacter and game mechanic information. Some of the regular features and one-shot articles in the first is sue will include: - ·International Continuity —Updates of ficial revisions in World of Darkness continuity beginning with changes introduced in the new edition of Vampire: The Masquerade. - ·State of the Game ——Recent news, and insights into the gears of the live-action mechanism. - ·Ramping Up ——The basics of setting up. a completely new game, and the pitfalls of a MET game that's not properly prepared. - ·Enochian Mysticism ——Revisions of the Nagaraja Discipline of Nihilistics. - ·Wyld West: Frontier Felines —MET Bastet, and the tribal advantages and disadvantages of the Pumonca. - ·Long Night: Combination Disciplines Translation not es for live-action play. - ·Q&amp;A and Rules Clarification. And updatesonmajorconwentions scheduled to feature live-action games. is SUE NO.I, FEBRUARY 1999
 
 ## CBe Camaritlla
 
-White Wolf's Offictal Fan Club
+White Wolf's of fictal Fan Club
 
-<!-- image -->
-
-The midnight dance continues; don't get left behind!
-
-participate in mind's eye rheatre as you never hove before. Join a chronicle that spans the globe from romantic paris to glitzy Los angeles.
-
-As a member,you will receive:
-
-- ·A zo% discount on products when you order directly from white wolf
-- ·Thequarterlynqtionolnewsletter,Requiem
-- ·An official membership card and amember handbook
-- Access toplay in a shared world of Darknessmind's eye rheatre chronicle.
-
-ro join, please send $2o.oo to: The camarilla PO BOX27974 solt Lokecity,utah84127-0974 camstuffovampire.tamu.edu www.camarilla.org sembers must be at least 8 yeors ofage ond include eturnaddress and bicth date.
-
-<!-- image -->
-
-WeWot an Wortdot Darince
+The midnight dance continues; don't get left behind! participate in mind's eye rheatre as you never hove before. Join a chronicle that spans the globe from romantic paris to glitzy Los angeles. As a member, you will receive: - ·A zo% discount on products when you or der directly from white wolf
+- ·the quarterlynqtionolnewsletter, Requiem
+- ·An of ficial membership card and amember handbook
+- Access toplay in a shared world of Darknessmind's eye rheatre chronicle. ro join, please send $2o.oo to: The camarilla PO BOX27974 solt Lokecity, utah84127-0974 camstuffovampire.tamu.edu www.camarilla.or g sembers must be at least 8 yeors of age ond include eturnaddress and bicth date. We Wot an Wortdot Darince
 
 ## Cfe Camarilla
 
-White Wolf's Offictal Fan Club p.O.Bo27974
+White Wolf's of fictal Fan Club p.O.Bo27974
 
-Salt IakeCiry.UT 8.4u7-0974
+Salt Iake Ciry.UT 8.4u7-0974
 
-<!-- image -->
+## SAVING the MORTAL WORLD
 
-<!-- image -->
+INA WORLD TWISTEDBYDARKMAGICANDDESPAIR,SUPERNATURAL CREATURESRULEFROMBEHIND the SCENES.VAMPIRESPULLSTRINGSINTHEIR DEADLYGAMESWHILEWEREWOLVESROAMTHEWOODS.MEREMORTALSARE PLAYTHINGSANDPUPPETS-UNTILTHEYDECIDETOFIGHTBACK.SOMEPEOPLE KNOW THE TRUTH,AND they PLAN TO MAKEA DIFFERENCE,TO SAVE HUMANITYFROMTHEHIDDENDARKNESS. ## BY ANY MEANS NECESSARY
 
-## SAVING THEMORTAL WORLD
-
-INA WORLD TWISTEDBYDARKMAGICANDDESPAIR,SUPERNATURAL CREATURESRULEFROMBEHIND THESCENES.VAMPIRESPULLSTRINGSINTHEIR DEADLYGAMESWHILEWEREWOLVESROAMTHEWOODS.MEREMORTALSARE PLAYTHINGSANDPUPPETS-UNTILTHEYDECIDETOFIGHTBACK.SOMEPEOPLE KNOW THE TRUTH,AND THEY PLAN TO MAKEA DIFFERENCE,TO SAVE HUMANITYFROMTHEHIDDENDARKNESS.
-
-## BY ANY MEANS NECESSARY
-
-EVENVAMPIRESFEARTHEINQUISITION,ANDTHEGOVERNMENT'SSrECIAL AFFAIRSDIVISION OF THEFBI ISASDANGEROUSASANY SUPERNATURAL ENEMY.NOW,INLAWSOFTHEHUNT,YOU CAN TAKE UT THE HUNTER'S MANTLEANDDISCOVERTHEPERILOUSRAZOR'SEDGEOFAMORTALENMESHED INASUPERNATURALWORLD.BRINGANEWANGLETOLIVEACTIONGAMES, WITHMORTALHUNTERSUPDATEDFROMTHEANTAGONISTRULES,ANDTHE ADDITION OF NEW SORCERY.IT'S TIME TO SAVE HUMANITY.
-
-## THE HUNT IS ON
-
-<!-- image -->
-
-<!-- image -->
+EVENVAMPIRESFEARTHEINQUISITION, and the GOVERNMENT'SSrECIAL AFFAIRSDIVISION OF the FBI is ASDANGEROUSASANY SUPERNATURAL ENEMY.NOW,INLAWSOFTHEHUNT,YOU CAN TAKE UT THE HUNTER'S MANTLEANDDISCOVERTHEPERILOUSRAZOR'SEDGEOFAMORTALENMESHED INASUPERNATURALWORLD.BRINGANEWANGLETOLIVEACTIONGAMES, with MORTALHUNTERSUPDATEDFROMTHEANTAGONISTRULES, and THE ADDITION OF NEW SORCERY.IT'S TIME TO SAVE HUMANITY. ## THE HUNT IS ON

@@ -86,7 +86,7 @@ try {
         $query = "UPDATE locations SET 
                   name = ?, type = ?, summary = ?, description = ?, notes = ?, status = ?, 
                   district = ?, owner_type = ?, faction = ?, access_control = ?, security_level = ?, 
-                  pc_haven = ?, updated_at = NOW()
+                  pc_haven = ?
                   WHERE id = ?";
         $stmt = mysqli_prepare($conn, $query);
         mysqli_stmt_bind_param($stmt, 'ssssssssssiii', $name, $type, $summary, $description, $notes, $status, $district, $owner_type, $faction, $access_control, $security_level, $pc_haven, $id);
