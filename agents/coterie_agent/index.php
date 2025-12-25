@@ -23,6 +23,30 @@ $search = isset($_GET['q']) ? trim((string)$_GET['q']) : '';
 $selectedCoterieId = isset($_GET['coterie_id']) ? (int)$_GET['coterie_id'] : 0;
 
 /* -----------------------------
+   Create new coterie handler (BEFORE header output)
+------------------------------ */
+$newCoterieName = isset($_GET['new_coterie_name']) ? trim((string)$_GET['new_coterie_name']) : '';
+$newCoterieChronicle = isset($_GET['new_coterie_chronicle']) ? trim((string)$_GET['new_coterie_chronicle']) : '';
+if ($newCoterieName !== '') {
+  $newStatus = 'active';
+  $insertStmt = $conn->prepare("INSERT INTO coteries (name, chronicle, status) VALUES (?, ?, ?)");
+  if ($insertStmt) {
+    $insertStmt->bind_param("sss", $newCoterieName, $newCoterieChronicle, $newStatus);
+    if ($insertStmt->execute()) {
+      $newCoterieId = $insertStmt->insert_id;
+      $insertStmt->close();
+      header("Location: ?" . buildQueryString(['coterie_id' => $newCoterieId, 'new_coterie_name' => null, 'new_coterie_chronicle' => null]));
+      exit;
+    } else {
+      error_log("Failed to create coterie: " . $insertStmt->error);
+      $insertStmt->close();
+    }
+  } else {
+    error_log("Failed to prepare insert statement: " . $conn->error);
+  }
+}
+
+/* -----------------------------
    Add character to coterie handler (BEFORE header output)
 ------------------------------ */
 $addCharacterId = isset($_GET['add_character']) ? (int)$_GET['add_character'] : 0;
@@ -150,6 +174,7 @@ if ($removeCharacterId > 0 && $selectedCoterieId > 0) {
 }
 
 $extra_css = ['css/modal.css', 'css/coterie_agent.css'];
+$extra_js = ['js/coterie_agent.js'];
 include __DIR__ . '/../../includes/header.php';
 
 /* -----------------------------
@@ -444,7 +469,12 @@ if ($selected) {
 
       <div class="card shadow-sm">
         <div class="card-body">
-          <h5 class="card-title mb-3">Coteries</h5>
+          <div class="d-flex align-items-center justify-content-between mb-3">
+            <h5 class="card-title mb-0">Coteries</h5>
+            <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="modal" data-bs-target="#newCoterieModal">
+              Add New
+            </button>
+          </div>
 
           <form method="get" action="" class="mb-3">
             <div class="row">
@@ -642,7 +672,7 @@ if ($selected) {
                             <div class="input-group input-group-sm">
                               <input type="text" class="form-control form-control-sm" name="new_role" value="<?php echo h((string)($m['role'] ?? '')); ?>" placeholder="Role">
                               <button class="btn btn-outline-primary btn-sm" type="submit" title="Update Role">
-                                <small>✓</small>
+                                Save
                               </button>
                             </div>
                           </form>
@@ -673,47 +703,89 @@ if ($selected) {
               <div class="col-md-6">
                 <div class="card mb-3">
                   <div class="card-header">Strengths</div>
-                  <ul class="list-group list-group-flush">
+                  <div class="card-body">
                     <?php if (count($focus['strengths']) === 0): ?>
-                      <li class="list-group-item">None identified yet.</li>
+                      <p class="mb-0">None identified yet.</p>
                     <?php else: ?>
-                      <?php foreach ($focus['strengths'] as $s): ?>
-                        <li class="list-group-item"><?php echo h($s); ?></li>
-                      <?php endforeach; ?>
+                      <ul class="mb-0">
+                        <?php foreach ($focus['strengths'] as $s): ?>
+                          <li><?php echo h($s); ?></li>
+                        <?php endforeach; ?>
+                      </ul>
                     <?php endif; ?>
-                  </ul>
+                  </div>
                 </div>
               </div>
 
               <div class="col-md-6">
                 <div class="card mb-3">
                   <div class="card-header">Gaps</div>
-                  <ul class="list-group list-group-flush">
+                  <div class="card-body">
                     <?php if (count($focus['gaps']) === 0): ?>
-                      <li class="list-group-item">None identified yet.</li>
+                      <p class="mb-0">None identified yet.</p>
                     <?php else: ?>
-                      <?php foreach ($focus['gaps'] as $g): ?>
-                        <li class="list-group-item"><?php echo h($g); ?></li>
-                      <?php endforeach; ?>
+                      <ul class="mb-0">
+                        <?php foreach ($focus['gaps'] as $g): ?>
+                          <li><?php echo h($g); ?></li>
+                        <?php endforeach; ?>
+                      </ul>
                     <?php endif; ?>
-                  </ul>
+                  </div>
                 </div>
               </div>
             </div>
 
             <div class="card">
               <div class="card-header">Story Hooks</div>
-              <ul class="list-group list-group-flush">
-                <?php foreach ($focus['hooks'] as $hk): ?>
-                  <li class="list-group-item"><?php echo h($hk); ?></li>
-                <?php endforeach; ?>
-              </ul>
+              <div class="card-body">
+                <ul class="mb-0">
+                  <?php foreach ($focus['hooks'] as $hk): ?>
+                    <li><?php echo h($hk); ?></li>
+                  <?php endforeach; ?>
+                </ul>
+              </div>
             </div>
 
           <?php endif; ?>
 
         </div>
       </div>
+    </div>
+  </div>
+</div>
+
+<!-- New Coterie Modal -->
+<div class="modal fade" id="newCoterieModal" tabindex="-1" aria-labelledby="newCoterieModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="newCoterieModalLabel">Create New Coterie</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <form method="get" action="">
+        <div class="modal-body">
+          <?php if ($selectedCoterieId > 0): ?>
+            <input type="hidden" name="coterie_id" value="<?php echo (int)$selectedCoterieId; ?>">
+          <?php endif; ?>
+          <div class="mb-3">
+            <label for="newCoterieName" class="form-label">Coterie Name</label>
+            <input type="text" class="form-control" id="newCoterieName" name="new_coterie_name" required placeholder="Enter coterie name">
+          </div>
+          <div class="mb-3">
+            <label for="newCoterieChronicle" class="form-label">Chronicle</label>
+            <select class="form-select" id="newCoterieChronicle" name="new_coterie_chronicle">
+              <option value="">Select Chronicle</option>
+              <?php foreach ($chronicles as $ch): ?>
+                <option value="<?php echo h($ch); ?>"><?php echo h($ch); ?></option>
+              <?php endforeach; ?>
+            </select>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+          <button type="submit" class="btn btn-primary">Create Coterie</button>
+        </div>
+      </form>
     </div>
   </div>
 </div>
