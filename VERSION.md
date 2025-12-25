@@ -1,6 +1,20 @@
 # Version History
 
-## Current Version: 0.8.81
+## Current Version: 0.8.82
+
+**Date:** 2025-01-30  
+**Type:** Patch (Rey Gonzalez character creation and prompt updates)
+
+### Changes:
+- **Character Creation** - Added Rey Gonzalez (Brujah) character reference
+  - Created `reference/Characters/Rey_Gonzalez.json` with complete character data
+  - Created `reference/Characters/Image_Prompts/Rey_Gonzalez.md` for character portrait generation
+  - Updated `reference/Characters/Characters_to_Create.md` to mark character as created
+- **Storyteller Prompt Updates** - Cleaned up introductory text in `Prompts/Storyteller.md`
+  - Removed redundant introductory paragraphs
+  - Streamlined prompt structure for better clarity
+
+## Previous Version: 0.8.81
 
 **Date:** 2025-01-25  
 **Type:** Patch (Influence Agent implementation)

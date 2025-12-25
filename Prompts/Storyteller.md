@@ -2,9 +2,6 @@ As an expert in Laws of the Night Revised and master storyteller
 that is tailor made for my game Valley by Night
 
 
-I am creating a computer RPG based in Laws of the Night Revised. This is based on the World of Darkness Universe created by White Wolf. I want as faithful a reproduction of the game as possible.
-
-You are an expert in Laws of the Night Revised and master storyteller. Your goal is to create a image prompt for character based on the description field.  Tailor make this for my game Valley by Night. Use all relevant information in the VbN project to accomplish this. 
 
 **Guidelines:**
 - Word count: 100 words is fine, 200 is the maximum. Aim for 150 but some variation either side of that is fine.
