@@ -1,0 +1,134 @@
+{
+  "character_name": "Barry Horowitz",
+  "player_name": "NPC",
+  "chronicle": "Valley by Night",
+  "clan": "Caitiff",
+  "generation": 12,
+  "sire": "Unknown (Sabbat mass Embrace)",
+  "pc": 0,
+  "nature": "Survivor",
+  "demeanor": "Everyman",
+  "concept": "Traveling mining-equipment salesman who survived a Sabbat shovelhead Embrace and fled to Phoenix",
+  "status": "active",
+  "camarilla_status": "Independent",
+  "sect": "Independent",
+  "title": "",
+  "epithet": "",
+  "appearance": "A clean-cut, unassuming man in practical clothes—polo shirt, khakis, sensible shoes—often carrying a worn leather briefcase. Looks like he belongs anywhere and nowhere.",
+  "appearance_detailed": {
+    "short_summary": "Ordinary, approachable, quietly exhausted.",
+    "detailed_description": "Barry appears mid-to-late 30s, neatly groomed, with the posture of someone used to long drives and polite conversations. Nothing about him reads as dangerous. Under certain lighting, his shadows seem heavier than they should be."
+  },
+  "biography": "Barry Horowitz spent fifteen years as a traveling salesman specializing in mining and industrial equipment across northern Arizona. He knew back roads, truck stops, and isolated towns intimately. During a trip near Flagstaff/Payson, he was abducted and subjected to a Sabbat mass Embrace—buried alive and left to claw his way out or die. Barry survived. Disoriented, clanless, and traumatized, he fled south to Phoenix. There, a marginal Toreador artist named Rembrandt Jones took pity on him, teaching Barry how to navigate Kindred society without drawing attention. Barry has since discovered an unnatural affinity for living shadow—an ability he does not understand and keeps secret at all costs. The Sabbat ruined his life, and the idea of their presence in the Valley has begun to harden into obsession.",
+  "notes": "Extremely cautious about revealing his shadow powers. Motivated by fear of the Sabbat and a desire to ensure they can never do to others what they did to him.",
+  "equipment": "Worn leather briefcase filled with old sales catalogs, route notes, and personal papers; practical clothing; reliable sedan.",
+  "character_image": "Barry Horowitz.png",
+  "traits": {
+    "Physical": ["Enduring", "Steady"],
+    "Social": ["Approachable", "Diplomatic"],
+    "Mental": ["Practical", "Observant"]
+  },
+  "negativeTraits": {
+    "Physical": ["Unimposing"],
+    "Social": ["Submissive"],
+    "Mental": ["Traumatized"]
+  },
+  "abilities": [
+    { "name": "Subterfuge", "category": "Social", "level": 2 },
+    { "name": "Empathy", "category": "Social", "level": 2 },
+    { "name": "Streetwise", "category": "Social", "level": 1 },
+    { "name": "Drive", "category": "Physical", "level": 3 },
+    { "name": "Survival", "category": "Physical", "level": 2 },
+    { "name": "Alertness", "category": "Mental", "level": 2 },
+    { "name": "Investigation", "category": "Mental", "level": 1 }
+  ],
+  "specializations": {
+    "Drive": "Long-distance travel",
+    "Subterfuge": "De-escalation"
+  },
+  "disciplines": [
+    {
+      "name": "Obtenebration",
+      "level": 1,
+      "powers": [
+        { "level": 1, "power": "Shadow Play" }
+      ]
+    },
+    {
+      "name": "Auspex",
+      "level": 1,
+      "powers": [
+        { "level": 1, "power": "Heightened Senses" }
+      ]
+    }
+  ],
+  "backgrounds": {
+    "Contacts": 2,
+    "Mentor": 1,
+    "Resources": 1
+  },
+  "backgroundDetails": {
+    "Contacts": "Truck drivers, motel clerks, and former industrial clients across Arizona.",
+    "Mentor": "Rembrandt Jones, a Toreador artist who helped him survive his first nights.",
+    "Resources": "Modest savings and a functional vehicle from his mortal career."
+  },
+  "morality": {
+    "path_name": "Humanity",
+    "path_rating": 7,
+    "conscience": 3,
+    "self_control": 3,
+    "courage": 4,
+    "willpower_permanent": 5,
+    "willpower_current": 5,
+    "humanity": 7
+  },
+  "merits_flaws": [
+    {
+      "name": "Iron Will",
+      "type": "merit",
+      "category": "Mental",
+      "cost": 3,
+      "description": "Barry can endure fear and intimidation better than most."
+    },
+    {
+      "name": "Nightmares",
+      "type": "flaw",
+      "category": "Mental",
+      "cost": 2,
+      "description": "Recurring nightmares of being buried alive interfere with rest and focus."
+    }
+  ],
+  "coteries": [
+    {
+      "coterie_name": "Defenders",
+      "coterie_type": "Militant",
+      "role": "Associate / Asset",
+      "description": "Unofficial helper aligned against Sabbat activity.",
+      "notes": "Not fully acknowledged; watched closely."
+    }
+  ],
+  "relationships": [
+    {
+      "related_character_name": "Rembrandt Jones",
+      "relationship_type": "Mentor",
+      "relationship_subtype": "Protector",
+      "strength": "Moderate",
+      "description": "The Toreador who taught Barry how to survive Kindred society."
+    }
+  ],
+  "xp_total": 0,
+  "xp_spent": 0,
+  "xp_available": 0,
+  "blood_pool_current": 11,
+  "blood_pool_maximum": 11,
+  "custom_data": {
+    "status_details": {
+      "sect_status": "Unacknowledged",
+      "clan_status": "Clanless",
+      "city_status": "Tolerated",
+      "health_levels": 7,
+      "blood_per_turn": 1,
+      "notes": "Any public display of Obtenebration would drastically change his status."
+    }
+  }
+}

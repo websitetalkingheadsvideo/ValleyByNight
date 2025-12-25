@@ -1215,30 +1215,21 @@ if ($script_dir === '/') {
             contentHtml += '<p class="empty-state">No custom data recorded.</p>';
         }
         
-        // Coterie
-        contentHtml += '<h3>Coterie</h3>';
+        // Coterie - only show if character has coteries
         if (currentViewData.coteries && currentViewData.coteries.length > 0) {
+            contentHtml += '<h3>Coterie</h3>';
             contentHtml += '<div class="row g-3 mt-2">';
             currentViewData.coteries.forEach(c => {
                 contentHtml += '<div class="col-md-6">';
                 contentHtml += '<div class="coterie-card">';
-                contentHtml += '<h4>' + (c.coterie_name || 'Unknown Coterie').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;') + '</h4>';
-                if (c.coterie_type) contentHtml += '<p><strong>Type:</strong> ' + c.coterie_type.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;') + '</p>';
-                if (c.role) contentHtml += '<p><strong>Role:</strong> ' + c.role.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;') + '</p>';
-                if (c.description) {
-                    const descEscaped = c.description.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&#039;');
-                    contentHtml += '<p><strong>Description:</strong> ' + descEscaped.replace(/\n/g, '<br>') + '</p>';
-                }
-                if (c.notes) {
-                    const notesEscaped = c.notes.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&#039;');
-                    contentHtml += '<p><strong>Notes:</strong> ' + notesEscaped.replace(/\n/g, '<br>') + '</p>';
+                contentHtml += '<p><strong>Coterie Name:</strong> ' + escapeHtml(c.coterie_name || 'Unknown Coterie') + '</p>';
+                if (c.coterie_type) {
+                    contentHtml += '<p><strong>Coterie Focus:</strong> ' + escapeHtml(c.coterie_type) + '</p>';
                 }
                 contentHtml += '</div>';
                 contentHtml += '</div>';
             });
             contentHtml += '</div>';
-        } else {
-            contentHtml += '<p class="empty-state">No coterie associations recorded.</p>';
         }
         
         // Relationships
