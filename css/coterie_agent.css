@@ -1,0 +1,392 @@
+/* ========================================
+   COTERIE AGENT STYLES
+   Valley by Night - Gothic Theme
+   Matches site-wide styling patterns
+   ======================================== */
+
+/* ===== LIST GROUP ITEMS ===== */
+/* Coterie list items - match site card styling */
+.list-group-item {
+  background: linear-gradient(135deg, #2a1515 0%, #1a0f0f 100%);
+  border: 2px solid rgba(139, 0, 0, 0.4);
+  border-radius: 0.5rem;
+  color: var(--text-light);
+  font-family: var(--font-body), 'Source Serif Pro', serif;
+  transition: all 0.3s ease;
+  margin-bottom: 0.5rem;
+}
+
+.list-group-item:hover {
+  background: linear-gradient(135deg, #3a1f1f 0%, #2a1515 100%);
+  border-color: rgba(139, 0, 0, 0.6);
+  transform: translateX(5px);
+  box-shadow: 0 4px 15px rgba(139, 0, 0, 0.3);
+}
+
+.list-group-item.active {
+  background: linear-gradient(135deg, #5b0f14 0%, #4a0a0f 100%);
+  border-color: #8B0000;
+  color: #f5e6d3;
+  box-shadow: 0 4px 15px rgba(139, 0, 0, 0.5);
+}
+
+.list-group-item.active:hover {
+  background: linear-gradient(135deg, #6a141a 0%, #5b0f14 100%);
+  border-color: #b30000;
+  color: #ffffff;
+  box-shadow: 0 6px 20px rgba(139, 0, 0, 0.6);
+}
+
+.list-group-item h6 {
+  font-family: var(--font-title), 'Libre Baskerville', serif;
+  color: #f5e6d3;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+
+.list-group-item small {
+  font-family: var(--font-body), 'Source Serif Pro', serif;
+  color: var(--text-muted);
+  font-size: 0.85em;
+}
+
+.list-group-item.active small {
+  color: rgba(245, 230, 211, 0.8);
+}
+
+/* ===== BADGES ===== */
+/* Match site badge styling */
+.badge {
+  font-family: var(--font-body), 'Source Serif Pro', serif;
+  font-weight: 600;
+  padding: 0.35em 0.65em;
+  border-radius: 0.375rem;
+}
+
+.badge-secondary {
+  background: rgba(139, 0, 0, 0.4);
+  border: 1px solid rgba(139, 0, 0, 0.6);
+  color: var(--text-light);
+}
+
+.badge-success {
+  background: rgba(34, 139, 34, 0.4);
+  border: 1px solid rgba(34, 139, 34, 0.6);
+  color: #d4f5d3;
+}
+
+.badge-dark {
+  background: rgba(26, 15, 15, 0.6);
+  border: 1px solid rgba(139, 0, 0, 0.4);
+  color: var(--text-muted);
+}
+
+/* ===== TABLE STYLING ===== */
+/* Match site table styling with blood red gradient */
+.coterie-agent .table,
+.coterie-agent .table-dark {
+  background: radial-gradient(circle at center, rgba(139, 0, 0, 0.4) 0%, rgba(139, 0, 0, 0.2) 40%, rgba(26, 15, 15, 0.6) 100%);
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+.coterie-agent .table thead th,
+.coterie-agent .table-dark thead th {
+  background: radial-gradient(circle at top left, rgba(139, 0, 0, 0.8) 0%, rgba(96, 0, 0, 0.9) 50%, rgba(139, 0, 0, 0.7) 100%);
+  color: var(--text-light);
+  font-family: var(--font-title), 'Libre Baskerville', serif;
+  font-weight: 600;
+  border: 1px solid rgba(13, 6, 6, 0.8);
+  border-bottom: 2px solid rgba(13, 6, 6, 0.9);
+  padding: 0.75rem;
+  position: relative;
+}
+
+.coterie-agent .table tbody tr,
+.coterie-agent .table-dark tbody tr {
+  background: rgba(139, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(139, 0, 0, 0.2);
+}
+
+.coterie-agent .table tbody tr:hover,
+.coterie-agent .table-dark tbody tr:hover {
+  background: rgba(139, 0, 0, 0.2);
+}
+
+.coterie-agent .table tbody td,
+.coterie-agent .table-dark tbody td {
+  color: var(--text-light);
+  font-family: var(--font-body), 'Source Serif Pro', serif;
+  padding: 0.75rem;
+  vertical-align: middle;
+}
+
+.coterie-agent .table tbody td a {
+  color: var(--muted-gold);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.coterie-agent .table tbody td a:hover {
+  color: #e5c77d;
+  text-decoration: underline;
+}
+
+/* ===== ALERT STYLING ===== */
+/* Match site alert styling */
+.coterie-agent .alert {
+  border-radius: 0.5rem;
+  font-family: var(--font-body), 'Source Serif Pro', serif;
+  border-left: 4px solid;
+  padding: 1rem 1.25rem;
+}
+
+.coterie-agent .alert-primary {
+  background-color: rgba(139, 0, 0, 0.2);
+  border-left-color: var(--blood-red);
+  color: var(--text-light);
+}
+
+.coterie-agent .alert-warning {
+  background-color: rgba(212, 176, 109, 0.2);
+  border-left-color: var(--muted-gold);
+  color: var(--text-light);
+}
+
+.coterie-agent .alert-danger {
+  background-color: rgba(139, 0, 0, 0.3);
+  border-left-color: var(--blood-red);
+  color: var(--text-light);
+}
+
+/* ===== FOCUS CARDS (Strengths, Gaps, Hooks) ===== */
+/* Match site card styling */
+.coterie-agent .card {
+  background: linear-gradient(135deg, #2a1515 0%, #1a0f0f 100%);
+  border: 2px solid #8B0000;
+  border-radius: 0.75rem;
+  box-shadow: 0 4px 15px rgba(139, 0, 0, 0.3);
+  color: #d4c4b0;
+  transition: all 0.3s ease;
+}
+
+.coterie-agent .card-header {
+  border-bottom: 1px solid rgba(139, 0, 0, 0.35);
+  background: transparent;
+  color: #f5e6d3;
+  font-family: var(--font-title), 'Libre Baskerville', serif;
+  font-weight: 600;
+  padding: 0.75rem 1.25rem;
+}
+
+.coterie-agent .list-group-item {
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid rgba(139, 0, 0, 0.2);
+  border-radius: 0;
+  color: var(--text-light);
+  padding: 0.75rem 1.25rem;
+}
+
+.coterie-agent .list-group-item:last-child {
+  border-bottom: none;
+}
+
+.coterie-agent .list-group-item:hover {
+  background: rgba(139, 0, 0, 0.1);
+  transform: none;
+  box-shadow: none;
+}
+
+/* ===== FORM CONTROLS ===== */
+/* Match site form styling */
+.coterie-agent .form-control,
+.coterie-agent .form-select {
+  background-color: rgba(26, 15, 15, 0.6);
+  border: 2px solid rgba(139, 0, 0, 0.4);
+  border-radius: 0.375rem;
+  color: var(--text-light);
+  font-family: var(--font-body), 'Source Serif Pro', serif;
+}
+
+.coterie-agent .form-control:focus,
+.coterie-agent .form-select:focus {
+  background-color: rgba(26, 15, 15, 0.8);
+  border-color: var(--blood-red);
+  box-shadow: 0 0 10px rgba(139, 0, 0, 0.3);
+  color: var(--text-light);
+}
+
+.coterie-agent .form-check-input:checked {
+  background-color: var(--blood-red);
+  border-color: var(--blood-red);
+}
+
+.coterie-agent .form-check-label {
+  font-family: var(--font-body), 'Source Serif Pro', serif;
+  color: var(--text-light);
+  cursor: pointer;
+}
+
+/* ===== HEADINGS ===== */
+/* Match site typography */
+.coterie-agent h4,
+.coterie-agent h5,
+.coterie-agent h6 {
+  font-family: var(--font-title), 'Libre Baskerville', serif;
+  color: #f5e6d3;
+}
+
+.coterie-agent h4 {
+  font-size: 1.75rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.coterie-agent h5 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.coterie-agent h6 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+}
+
+/* ===== BUTTONS ===== */
+/* Buttons already styled via bootstrap-overrides.css, but ensure consistency */
+.coterie-agent .btn-outline-secondary {
+  background: transparent;
+  border: 2px solid var(--text-muted);
+  color: var(--text-muted);
+  font-family: var(--font-title), 'Libre Baskerville', serif;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.coterie-agent .btn-outline-secondary:hover {
+  background: rgba(139, 0, 0, 0.3);
+  border-color: var(--blood-red);
+  color: var(--text-light);
+}
+
+/* ===== DROPDOWN STYLING ===== */
+/* Match site dropdown styling */
+.coterie-agent .dropdown-menu {
+  background: linear-gradient(135deg, #2a1515 0%, #1a0f0f 100%);
+  border: 2px solid #8B0000;
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 15px rgba(139, 0, 0, 0.3);
+  padding: 0.5rem 0;
+  max-height: 400px;
+  overflow-y: auto;
+}
+
+.coterie-agent .dropdown-item {
+  color: var(--text-light);
+  font-family: var(--font-body), 'Source Serif Pro', serif;
+  padding: 0.5rem 1rem;
+  transition: all 0.3s ease;
+}
+
+.coterie-agent .dropdown-item:hover,
+.coterie-agent .dropdown-item:focus {
+  background: rgba(139, 0, 0, 0.3);
+  color: #ffffff;
+}
+
+.coterie-agent .dropdown-item strong {
+  font-family: var(--font-title), 'Libre Baskerville', serif;
+  color: #f5e6d3;
+}
+
+.coterie-agent .dropdown-item small {
+  font-family: var(--font-body), 'Source Serif Pro', serif;
+  color: var(--text-muted);
+}
+
+/* ===== ROLE EDITING FORM ===== */
+.coterie-agent .table .input-group-sm {
+  min-width: 150px;
+}
+
+.coterie-agent .table .input-group-sm .form-control {
+  font-size: 0.875rem;
+  padding: 0.25rem 0.5rem;
+}
+
+.coterie-agent .table .input-group-sm .btn {
+  padding: 0.25rem 0.5rem;
+  font-size: 0.875rem;
+}
+
+/* ===== MODAL STYLING ===== */
+.coterie-agent .modal-content {
+  background: linear-gradient(135deg, #2a1515 0%, #1a0f0f 100%);
+  border: 2px solid #8B0000;
+  color: var(--text-light);
+}
+
+.coterie-agent .modal-header {
+  border-bottom: 1px solid rgba(139, 0, 0, 0.35);
+}
+
+.coterie-agent .modal-title {
+  font-family: var(--font-title), 'Libre Baskerville', serif;
+  color: #f5e6d3;
+}
+
+.coterie-agent .modal-body .form-label {
+  font-family: var(--font-title), 'Libre Baskerville', serif;
+  color: var(--text-light);
+}
+
+.coterie-agent .modal-body .form-control,
+.coterie-agent .modal-body textarea.form-control {
+  background-color: rgba(26, 15, 15, 0.6);
+  border: 2px solid rgba(139, 0, 0, 0.4);
+  color: var(--text-light);
+}
+
+.coterie-agent .modal-body .form-control:focus,
+.coterie-agent .modal-body textarea.form-control:focus {
+  background-color: rgba(26, 15, 15, 0.8);
+  border-color: var(--blood-red);
+  box-shadow: 0 0 10px rgba(139, 0, 0, 0.3);
+  color: var(--text-light);
+}
+
+.coterie-agent .modal-footer {
+  border-top: 1px solid rgba(139, 0, 0, 0.35);
+}
+
+.coterie-agent .btn-close {
+  filter: invert(1);
+}
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 768px) {
+  .coterie-agent .list-group-item {
+    padding: 0.75rem;
+  }
+  
+  .coterie-agent .table {
+    font-size: 0.9rem;
+  }
+  
+  .coterie-agent .table thead th,
+  .coterie-agent .table tbody td {
+    padding: 0.5rem;
+  }
+  
+  .coterie-agent .dropdown-menu {
+    max-height: 300px;
+  }
+  
+  .coterie-agent .table .input-group-sm {
+    min-width: 120px;
+  }
+}
+

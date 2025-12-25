@@ -1,6 +1,28 @@
 # Version History
 
-## Current Version: 0.8.79
+## Current Version: 0.8.80
+
+**Date:** 2025-01-30  
+**Type:** Patch (Coterie Agent page styling and functionality improvements)
+
+### Changes:
+- **Coterie Agent Page Styling** - Complete styling overhaul to match site's gothic theme
+  - Created comprehensive `css/coterie_agent.css` with dark gradients, blood red borders, and gothic typography
+  - Styled list group items, tables, badges, alerts, and form controls to match site design
+  - Added radial gradient backgrounds to table header columns
+  - Implemented responsive design for mobile devices
+- **Coterie Management Features** - Added character management functionality
+  - Add Character button with dropdown showing available characters
+  - Remove Character button with dropdown showing current coterie members
+  - Inline role editing for each character in the roster table
+  - Coterie Focus editing via modal with textarea
+  - Automatic database column creation for focus/description field
+- **Bootstrap 5 Compatibility** - Updated all Bootstrap 4 classes to Bootstrap 5 syntax
+  - Converted form-row to row, custom-control to form-check, form-control (select) to form-select
+  - Removed deprecated thead-light class
+  - All handlers execute before header output to prevent "headers already sent" errors
+
+## Previous Version: 0.8.79
 
 **Date:** 2025-12-24  
 **Type:** Patch (Solomon Reaves character updates, sensory profiles, and image prompt refinements)
