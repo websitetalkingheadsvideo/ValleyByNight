@@ -315,47 +315,128 @@ if ($selectedCoterieId > 0) {
 /* -----------------------------
    Focus heuristics
 ------------------------------ */
-$focus = [
-  'summary' => '',
-  'strengths' => [],
-  'gaps' => [],
-  'hooks' => [],
-];
+/* =============================
+   COTERIE FOCUS (CALCULATED)
+   ============================= */
 
-if ($selected) {
+/* Helper: calculate focus, APPENDING hooks (not replacing) */
+function calculate_coterie_focus_v2(array $selected, array $roster, array $existingHooks = []): array {
+  $focus = [
+    'summary' => '',
+    'strengths' => [],
+    'gaps' => [],
+    'hooks' => $existingHooks,
+  ];
+
   $membersCount = count($roster);
+
   $roles = [];
   $clans = [];
-
   foreach ($roster as $m) {
     $r = trim((string)($m['role'] ?? ''));
     if ($r !== '') $roles[] = $r;
+
     $c = trim((string)($m['clan'] ?? ''));
     if ($c !== '') $clans[] = $c;
   }
 
   $uniqueClans = array_values(array_unique($clans));
 
+  /* --- Summary (always computed) */
   $focus['summary'] =
     "Coteries are the unit of play: roster, roles, access vectors, and pressure points. " .
     "Tracking {$membersCount} member" . ($membersCount === 1 ? "" : "s") . ".";
 
+  /* --- Structure rules */
   $hasLeader = false;
+  $hasSecond = false;
+
   foreach ($roles as $r) {
-    if (stripos($r, 'leader') !== false) { $hasLeader = true; break; }
+    if (stripos($r, 'leader') !== false) $hasLeader = true;
+    if (stripos($r, '2nd') !== false || stripos($r, 'second') !== false) $hasSecond = true;
   }
 
   if ($hasLeader) $focus['strengths'][] = "Clear internal hierarchy (leadership role present).";
   else $focus['gaps'][] = "No explicit leader role recorded — designate a spokesperson for court situations.";
 
-  if (count($uniqueClans) >= 2) $focus['strengths'][] = "Diverse clan mix (" . implode(", ", $uniqueClans) . ") — wider reach across factional lines.";
-  else $focus['gaps'][] = "Low clan diversity — easier to pigeonhole socially; consider a complementary ally.";
+  if ($hasSecond) $focus['strengths'][] = "Continuity and delegation (a second-in-command is identified).";
+  else $focus['gaps'][] = "No clear second-in-command — leadership bottleneck risk during crisis.";
 
-  $focus['hooks'][] = "Mission: secure patronage, venues, and Elysium-safe logistics (events, cover stories).";
-  $focus['hooks'][] = "Pressure: a mortal asset or public reputation becomes a liability (blackmail / Masquerade risk).";
-  $focus['hooks'][] = "Opportunity: rival coterie wants access — negotiate boons, not favors for free.";
+  if ($membersCount < 3) $focus['gaps'][] = "Small roster — low manpower for simultaneous objectives.";
+  if ($membersCount >= 5) $focus['gaps'][] = "Large roster — coordination overhead and higher Masquerade exposure.";
+
+  /* --- Clan mix rules */
+  if (count($uniqueClans) >= 2) {
+    $focus['strengths'][] = "Diverse clan mix (" . implode(", ", $uniqueClans) . ") — wider reach across factional lines.";
+  } else {
+    $focus['gaps'][] = "Low clan diversity — easier to pigeonhole socially; consider a complementary ally.";
+  }
+
+  /* --- Access vectors by clan presence */
+  $hasClan = function(string $needle) use ($uniqueClans): bool {
+    foreach ($uniqueClans as $c) if (strcasecmp($c, $needle) === 0) return true;
+    return false;
+  };
+
+  if ($hasClan('Toreador')) {
+    $focus['strengths'][] = "Natural Elysium access via culture, patronage, and social legitimacy.";
+    $focus['hooks'][] = "Hook: a patron or critic demands a favor tied to an event, exhibit, or introduction.";
+  }
+  if ($hasClan('Brujah')) {
+    $focus['strengths'][] = "Street leverage and intimidation when diplomacy fails.";
+    $focus['gaps'][] = "Escalation risk — visibility can turn politics into a breach.";
+    $focus['hooks'][] = "Hook: a confrontation forces a choice between saving face and keeping the peace.";
+  }
+  if ($hasClan('Gangrel')) {
+    $focus['strengths'][] = "Scouting, pursuit, and movement beyond safe city routes.";
+    $focus['hooks'][] = "Hook: border pressure from the desert forces a debt or compromise.";
+  }
+  if ($hasClan('Malkavian')) {
+    $focus['strengths'][] = "Uncanny insight and pattern recognition others miss.";
+    $focus['gaps'][] = "Unpredictability — allies may doubt reliability at the worst time.";
+    $focus['hooks'][] = "Hook: an omen points to a threat hidden inside court protocol.";
+  }
+  if ($hasClan('Nosferatu')) {
+    $focus['strengths'][] = "Information access through unseen channels and surveillance.";
+    $focus['hooks'][] = "Hook: a secret gets priced — pay in boons, not cash.";
+  }
+  if ($hasClan('Ventrue')) {
+    $focus['strengths'][] = "Institutional pull and court-facing authority.";
+    $focus['hooks'][] = "Hook: status obligations — the court demands a public stance.";
+  }
+
+  /* --- Baseline hooks (append-only, capped later) */
+  $pushHook = function(string $s) use (&$focus) {
+    if (count($focus['hooks']) < 12) $focus['hooks'][] = $s;
+  };
+
+  $pushHook("Mission: secure patronage, venues, and Elysium-safe logistics (events, cover stories).");
+  $pushHook("Pressure: a mortal asset or public reputation becomes a liability (blackmail / Masquerade risk).");
+  $pushHook("Opportunity: a rival coterie wants access — negotiate boons, not favors for free.");
+
+  /* --- Trim & dedupe for UI */
+  $focus['strengths'] = array_slice(array_values(array_unique($focus['strengths'])), 0, 6);
+  $focus['gaps']      = array_slice(array_values(array_unique($focus['gaps'])), 0, 6);
+  $focus['hooks']     = array_slice(array_values(array_unique($focus['hooks'])), 0, 6);
+
+  return $focus;
 }
 
+/* =============================
+   APPLY FOCUS (CALL SITE)
+   ============================= */
+
+$focus = [
+  'summary' => '',
+  'strengths' => [],
+  'gaps' => [],
+  'hooks' => [], // authored/system hooks can be pre-filled here
+];
+
+if ($selected) {
+  $existingHooks = $focus['hooks'] ?? [];
+  $focus = calculate_coterie_focus_v2($selected, $roster, $existingHooks);
+}
 ?>
 <div class="container-fluid py-4 coterie-agent">
   <div class="row">
