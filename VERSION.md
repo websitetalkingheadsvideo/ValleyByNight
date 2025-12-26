@@ -1,6 +1,22 @@
 # Version History
 
-## Current Version: 0.8.90
+## Current Version: 0.8.91
+
+**Date:** 2025-01-30  
+**Type:** Patch (Disciplines backfill script improvements and character data completion)
+
+### Changes:
+- **Disciplines Backfill Script Improvements** - Enhanced character disciplines backfill utility
+  - Improved character name matching to support both `character_name` and `name` fields in JSON files
+  - Enhanced discipline parsing to handle disciplines without level numbers (defaults to level 1)
+  - Added error handling with try-catch blocks for file reading operations
+  - Better handling of malformed JSON files during directory traversal
+- **Character Disciplines Completion** - Completed disciplines for 10 characters
+  - Added disciplines for characters: 89, 90, 92, 102, 107, 112, 113, 125, 131, 151
+  - Updated missing data reports to reflect completed disciplines
+  - Updated disciplines tracking reports (disciplines_not_found.json, missing_disciplines_report.json)
+
+## Previous Version: 0.8.90
 
 **Date:** 2025-01-30  
 **Type:** Patch (Character traits generation tools and reports)

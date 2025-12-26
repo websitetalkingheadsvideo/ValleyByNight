@@ -1,7 +1,7 @@
 # Character Missing Data Report
 
 Generated: 2025-12-26 05:20:24
-Updated: 2025-01-30
+Updated: 2025-12-26
 
 This report combines all missing data reports into a single consolidated list.
 
@@ -16,6 +16,8 @@ Total characters with missing data: 40
 **Note:** Nature and Demeanor have been completed for 6 characters (IDs: 43, 70, 104, 109, 113, 124) as of 2025-01-30.
 
 **Note:** Merits/Flaws have been completed for 20 characters (IDs: 55, 89, 90, 92, 95, 97, 102, 104, 107, 108, 109, 110, 112, 113, 123, 124, 125, 129, 131, 133) as of 2025-01-30.
+
+**Note:** Disciplines have been completed for 10 characters (IDs: 89, 90, 92, 102, 107, 112, 113, 125, 131, 151) as of 2025-12-26.
 
 ## Characters Missing Data
 
@@ -89,29 +91,27 @@ Total characters with missing data: 40
 
 **Missing Fields:**
 - Backgrounds
-- Disciplines
 
 ### ID: 90 - Sasha
 
 **Missing Fields:**
 - Backgrounds
-- Disciplines
 
 ### ID: 92 - Adrian Leclair
 
 **Missing Fields:**
 - Backgrounds
-- Disciplines
 - Notes
 
 ### ID: 95 - Core (Alexandra Chen)
 
 **Missing Fields:**
 - Backgrounds
-- Disciplines
 - History
 - Notes
 - Traits
+
+**Note:** Core is Human, so Disciplines are not applicable.
 
 ### ID: 97 - Phreak
 
@@ -130,7 +130,7 @@ Total characters with missing data: 40
 ### ID: 102 - Mr. Harold Ashby
 
 **Missing Fields:**
-- Disciplines
+- (None - all fields complete)
 
 ### ID: 104 - Tariq Ibrahim
 
@@ -143,7 +143,6 @@ Total characters with missing data: 40
 ### ID: 107 - Layla al-Sahr
 
 **Missing Fields:**
-- Disciplines
 - History
 - Notes
 - Traits
@@ -166,12 +165,12 @@ Total characters with missing data: 40
 ### ID: 112 - Eddy Valiant
 
 **Missing Fields:**
-- Disciplines
+- (None - all fields complete)
 
 ### ID: 113 - Sarah Hansen
 
 **Missing Fields:**
-- Disciplines
+- (None - all fields complete)
 
 ### ID: 123 - Warner Jefferson
 
@@ -191,7 +190,6 @@ Total characters with missing data: 40
 
 **Missing Fields:**
 - Backgrounds
-- Disciplines
 - Traits
 
 ### ID: 129 - Butch Reed
@@ -209,7 +207,6 @@ Total characters with missing data: 40
 
 **Missing Fields:**
 - Backgrounds
-- Disciplines
 - Notes
 - Traits
 
