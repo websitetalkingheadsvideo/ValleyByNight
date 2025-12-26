@@ -40,56 +40,44 @@
         "Social": [],
         "Mental": []
     },
-    "abilities": [],
-    "specializations": [],
+    "abilities": [
+        {"name": "Finance", "category": "Mental", "level": 4},
+        {"name": "Subterfuge", "category": "Social", "level": 3},
+        {"name": "Leadership", "category": "Social", "level": 3},
+        {"name": "Expression", "category": "Social", "level": 3},
+        {"name": "Performance", "category": "Social", "level": 3},
+        {"name": "Investigation", "category": "Mental", "level": 3},
+        {"name": "Occult", "category": "Mental", "level": 3},
+        {"name": "Etiquette", "category": "Social", "level": 4},
+        {"name": "Empathy", "category": "Social", "level": 3},
+        {"name": "Intimidation", "category": "Social", "level": 2},
+        {"name": "Politics", "category": "Mental", "level": 2},
+        {"name": "Awareness", "category": "Optional", "level": 3},
+        {"name": "Alertness", "category": "Optional", "level": 2}
+    ],
+    "specializations": [
+        {"ability": "Finance", "specialization": "Nightclub and VIP operations"},
+        {"ability": "Subterfuge", "specialization": "Seduction and corruption"},
+        {"ability": "Leadership", "specialization": "Managing Setite acolytes"},
+        {"ability": "Expression", "specialization": "Persuasive invitations and temptation"},
+        {"ability": "Performance", "specialization": "Immersive theater and Setite rites"},
+        {"ability": "Investigation", "specialization": "Profiling high-value targets"},
+        {"ability": "Occult", "specialization": "Setite rites and corruption rituals"},
+        {"ability": "Etiquette", "specialization": "High society and exclusive venues"},
+        {"ability": "Empathy", "specialization": "Reading vulnerabilities and desires"}
+    ],
     "disciplines": [
         {
-            "name": "animalism",
-            "level": 1
-        },
-        {
-            "name": "auspex",
-            "level": 1
-        },
-        {
-            "name": "celerity",
-            "level": 1
-        },
-        {
-            "name": "dominate",
-            "level": 1
-        },
-        {
-            "name": "fortitude",
-            "level": 1
-        },
-        {
-            "name": "obfuscate",
-            "level": 1
-        },
-        {
-            "name": "obtenebration",
-            "level": 1
-        },
-        {
-            "name": "potence",
-            "level": 1
-        },
-        {
-            "name": "presence",
+            "name": "Presence",
             "level": 3
         },
         {
-            "name": "protean",
-            "level": 1
-        },
-        {
-            "name": "serpentis",
+            "name": "Serpentis",
             "level": 3
         },
         {
-            "name": "thaumaturgy",
-            "level": 1
+            "name": "Obfuscate",
+            "level": 2
         }
     ],
     "backgrounds": [],

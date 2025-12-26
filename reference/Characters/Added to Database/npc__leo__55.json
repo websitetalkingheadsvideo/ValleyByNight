@@ -40,8 +40,30 @@
         "Social": [],
         "Mental": []
     },
-    "abilities": [],
-    "specializations": [],
+    "abilities": [
+        {"name": "Computer", "category": "Mental", "level": 4},
+        {"name": "Technology", "category": "Mental", "level": 4},
+        {"name": "Science", "category": "Mental", "level": 3},
+        {"name": "Security", "category": "Mental", "level": 4},
+        {"name": "Investigation", "category": "Mental", "level": 3},
+        {"name": "Repair", "category": "Optional", "level": 4},
+        {"name": "Crafts", "category": "Mental", "level": 3},
+        {"name": "Stealth", "category": "Physical", "level": 3},
+        {"name": "Survival", "category": "Physical", "level": 3},
+        {"name": "Leadership", "category": "Social", "level": 2},
+        {"name": "Streetwise", "category": "Social", "level": 3},
+        {"name": "Subterfuge", "category": "Social", "level": 3},
+        {"name": "Expression", "category": "Social", "level": 2},
+        {"name": "Alertness", "category": "Optional", "level": 3}
+    ],
+    "specializations": [
+        {"ability": "Computer", "specialization": "Data networks and fiber systems"},
+        {"ability": "Technology", "specialization": "Utility infrastructure"},
+        {"ability": "Security", "specialization": "Infrastructure sabotage and surveillance countermeasures"},
+        {"ability": "Repair", "specialization": "Utility systems and data lines"},
+        {"ability": "Investigation", "specialization": "Surveillance analysis"},
+        {"ability": "Subterfuge", "specialization": "Online/text communication"}
+    ],
     "disciplines": [
         {
             "name": "Animalism",

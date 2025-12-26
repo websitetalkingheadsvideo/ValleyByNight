@@ -40,9 +40,49 @@
         "Social": [],
         "Mental": []
     },
-    "abilities": [],
-    "specializations": [],
-    "disciplines": [],
+    "abilities": [
+        {"name": "Investigation", "category": "Mental", "level": 4},
+        {"name": "Academics", "category": "Mental", "level": 4},
+        {"name": "Politics", "category": "Mental", "level": 4},
+        {"name": "Leadership", "category": "Social", "level": 5},
+        {"name": "Subterfuge", "category": "Social", "level": 4},
+        {"name": "Intimidation", "category": "Social", "level": 4},
+        {"name": "Security", "category": "Mental", "level": 4},
+        {"name": "Animal Ken", "category": "Social", "level": 4},
+        {"name": "Occult", "category": "Mental", "level": 2},
+        {"name": "Computer", "category": "Mental", "level": 2},
+        {"name": "Technology", "category": "Mental", "level": 1},
+        {"name": "Stealth", "category": "Physical", "level": 3},
+        {"name": "Empathy", "category": "Social", "level": 3},
+        {"name": "Expression", "category": "Social", "level": 2},
+        {"name": "Awareness", "category": "Optional", "level": 4},
+        {"name": "Alertness", "category": "Optional", "level": 3}
+    ],
+    "specializations": [
+        {"ability": "Investigation", "specialization": "Information gathering and analysis"},
+        {"ability": "Academics", "specialization": "History and political theory"},
+        {"ability": "Politics", "specialization": "Kindred politics and Camarilla structure"},
+        {"ability": "Leadership", "specialization": "Nosferatu Primogen and strategic command"},
+        {"ability": "Subterfuge", "specialization": "Information brokering and manipulation"},
+        {"ability": "Intimidation", "specialization": "Silent authority and strategic pressure"},
+        {"ability": "Security", "specialization": "Bunker operations and surveillance systems"},
+        {"ability": "Animal Ken", "specialization": "Rat network coordination"},
+        {"ability": "Awareness", "specialization": "Reading political currents and threats"}
+    ],
+    "disciplines": [
+        {
+            "name": "Animalism",
+            "level": 5
+        },
+        {
+            "name": "Obfuscate",
+            "level": 4
+        },
+        {
+            "name": "Potence",
+            "level": 2
+        }
+    ],
     "backgrounds": [],
     "backgroundDetails": [],
     "morality": {

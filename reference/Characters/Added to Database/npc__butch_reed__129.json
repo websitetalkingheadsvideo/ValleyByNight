@@ -40,20 +40,45 @@
         "Social": [],
         "Mental": []
     },
-    "abilities": [],
-    "specializations": [],
+    "abilities": [
+        {"name": "Brawl", "category": "Physical", "level": 5},
+        {"name": "Repair", "category": "Optional", "level": 4},
+        {"name": "Crafts", "category": "Mental", "level": 4},
+        {"name": "Technology", "category": "Mental", "level": 3},
+        {"name": "Leadership", "category": "Social", "level": 4},
+        {"name": "Empathy", "category": "Social", "level": 4},
+        {"name": "Intimidation", "category": "Social", "level": 3},
+        {"name": "Melee", "category": "Physical", "level": 2},
+        {"name": "Drive", "category": "Physical", "level": 3},
+        {"name": "Athletics", "category": "Physical", "level": 3},
+        {"name": "Streetwise", "category": "Social", "level": 3},
+        {"name": "Expression", "category": "Social", "level": 2},
+        {"name": "Politics", "category": "Mental", "level": 2},
+        {"name": "Alertness", "category": "Optional", "level": 2}
+    ],
+    "specializations": [
+        {"ability": "Brawl", "specialization": "Professional wrestling"},
+        {"ability": "Repair", "specialization": "Automotive mechanics"},
+        {"ability": "Crafts", "specialization": "Vehicle restoration and modification"},
+        {"ability": "Technology", "specialization": "Engine diagnostics"},
+        {"ability": "Leadership", "specialization": "Brujah Primogen and city stability"},
+        {"ability": "Empathy", "specialization": "Reading people and mediating conflicts"},
+        {"ability": "Intimidation", "specialization": "Gentle giant presence"},
+        {"ability": "Drive", "specialization": "Truck operation"},
+        {"ability": "Streetwise", "specialization": "Kindred politics and city networks"}
+    ],
     "disciplines": [
         {
-            "name": "celerity",
+            "name": "Potence",
+            "level": 2
+        },
+        {
+            "name": "Presence",
+            "level": 2
+        },
+        {
+            "name": "Celerity",
             "level": 1
-        },
-        {
-            "name": "potence",
-            "level": 2
-        },
-        {
-            "name": "presence",
-            "level": 2
         }
     ],
     "backgrounds": {

@@ -49,9 +49,45 @@
         "Social": [],
         "Mental": []
     },
-    "abilities": [],
-    "specializations": [],
-    "disciplines": [],
+    "abilities": [
+        {"name": "Brawl", "category": "Physical", "level": 4},
+        {"name": "Firearms", "category": "Physical", "level": 5},
+        {"name": "Athletics", "category": "Physical", "level": 3},
+        {"name": "Dodge", "category": "Physical", "level": 3},
+        {"name": "Melee", "category": "Physical", "level": 2},
+        {"name": "Drive", "category": "Physical", "level": 4},
+        {"name": "Stealth", "category": "Physical", "level": 2},
+        {"name": "Survival", "category": "Physical", "level": 2},
+        {"name": "Leadership", "category": "Social", "level": 2},
+        {"name": "Intimidation", "category": "Social", "level": 4},
+        {"name": "Streetwise", "category": "Social", "level": 4},
+        {"name": "Subterfuge", "category": "Social", "level": 2},
+        {"name": "Expression", "category": "Social", "level": 2},
+        {"name": "Alertness", "category": "Optional", "level": 3},
+        {"name": "Awareness", "category": "Optional", "level": 2}
+    ],
+    "specializations": [
+        {"ability": "Brawl", "specialization": "Street fighting"},
+        {"ability": "Firearms", "specialization": "Revolvers and handguns"},
+        {"ability": "Drive", "specialization": "Street racing"},
+        {"ability": "Intimidation", "specialization": "Physical threats"},
+        {"ability": "Streetwise", "specialization": "Anarch networks"},
+        {"ability": "Leadership", "specialization": "Rallying rebels"}
+    ],
+    "disciplines": [
+        {
+            "name": "Potence",
+            "level": 3
+        },
+        {
+            "name": "Celerity",
+            "level": 2
+        },
+        {
+            "name": "Presence",
+            "level": 1
+        }
+    ],
     "backgrounds": [],
     "backgroundDetails": [],
     "morality": {

@@ -52,9 +52,41 @@
         "Social": [],
         "Mental": []
     },
-    "abilities": [],
-    "specializations": [],
-    "disciplines": [],
+    "abilities": [
+        {"name": "Investigation", "category": "Mental", "level": 4},
+        {"name": "Alertness", "category": "Optional", "level": 3},
+        {"name": "Empathy", "category": "Social", "level": 3},
+        {"name": "Subterfuge", "category": "Social", "level": 3},
+        {"name": "Streetwise", "category": "Social", "level": 3},
+        {"name": "Firearms", "category": "Physical", "level": 3},
+        {"name": "Stealth", "category": "Physical", "level": 3},
+        {"name": "Occult", "category": "Mental", "level": 3},
+        {"name": "Intimidation", "category": "Social", "level": 2},
+        {"name": "Drive", "category": "Physical", "level": 2},
+        {"name": "Law", "category": "Mental", "level": 2},
+        {"name": "Academics", "category": "Mental", "level": 2},
+        {"name": "Enigmas", "category": "Mental", "level": 2}
+    ],
+    "specializations": [
+        {"ability": "Investigation", "specialization": "Details"},
+        {"ability": "Subterfuge", "specialization": "Interrogation"},
+        {"ability": "Firearms", "specialization": "Revolver"},
+        {"ability": "Streetwise", "specialization": "Information Trade"}
+    ],
+    "disciplines": [
+        {
+            "name": "Auspex",
+            "level": 4
+        },
+        {
+            "name": "Obfuscate",
+            "level": 2
+        },
+        {
+            "name": "Dementation",
+            "level": 2
+        }
+    ],
     "backgrounds": {
         "Allies": 1,
         "Contacts": 3,
