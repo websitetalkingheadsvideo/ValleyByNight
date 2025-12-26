@@ -3,6 +3,10 @@
  * Combine all missing_x_report.json files into a single missing.md file
  */
 
+// Get project root (script is in tools/repeatable/)
+$project_root = dirname(dirname(__DIR__));
+$output_path = $project_root . DIRECTORY_SEPARATOR . 'To-Do Lists' . DIRECTORY_SEPARATOR . 'missing.md';
+
 $reports = [
     'missing_abilities_report.json' => 'Abilities',
     'missing_appearance_report.json' => 'Appearance',
@@ -53,6 +57,6 @@ foreach ($characters as $id => $char) {
     $output .= "\n";
 }
 
-file_put_contents('missing.md', $output);
-echo "Generated missing.md with " . count($characters) . " characters\n";
+file_put_contents($output_path, $output);
+echo "Generated missing.md at {$output_path} with " . count($characters) . " characters\n";
 

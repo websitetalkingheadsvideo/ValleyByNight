@@ -1,20 +1,20 @@
 # Character Missing Data Report
 
-Generated: 2025-12-22 12:51:58
-Updated: 2025-12-22 13:13:22 (after abilities backfill)
+Generated: 2025-12-26 05:20:24
 
 This report combines all missing data reports into a single consolidated list.
 
 ## Summary
 
-Total characters with missing data: 41
+Total characters with missing data: 40
+
+**Note:** Appearance fields have been completed for 19 characters (IDs: 42, 47, 48, 50, 52, 57, 60, 62, 68, 70, 92, 95, 97, 101, 102, 104, 107, 124, 130) as of 2025-01-30.
 
 ## Characters Missing Data
 
 ### ID: 42 - Rembrandt Jones
 
 **Missing Fields:**
-- Appearance
 - Notes
 
 ### ID: 43 - Violet 'The Confidence Queen'
@@ -25,25 +25,21 @@ Total characters with missing data: 41
 ### ID: 47 - Cordelia Fairchild
 
 **Missing Fields:**
-- Appearance
 - Notes
 
 ### ID: 48 - Duke Tiki
 
 **Missing Fields:**
-- Appearance
 - Notes
 
 ### ID: 50 - Sabine
 
 **Missing Fields:**
-- Appearance
 - Notes
 
 ### ID: 52 - Sebastian
 
 **Missing Fields:**
-- Appearance
 - Notes
 
 ### ID: 55 - Leo
@@ -56,41 +52,30 @@ Total characters with missing data: 41
 ### ID: 57 - Betty
 
 **Missing Fields:**
-- Appearance
 - Notes
 
 ### ID: 60 - Lucien Marchand
 
 **Missing Fields:**
-- Appearance
 - Notes
 
 ### ID: 62 - Sofia Alvarez
 
 **Missing Fields:**
-- Appearance
 - Notes
 
 ### ID: 68 - Étienne Duvalier
 
 **Missing Fields:**
-- Appearance
 - Notes
 
 ### ID: 70 - Alessandro Vescari
 
 **Missing Fields:**
-- Appearance
 - Demeanor
 - History
 - Nature
 - Notes
-
-
-### ID: 87 - Kerry, the Gangrel
-
-**Missing Fields:**
-- Abilities
 
 ### ID: 88 - Roland Cross
 
@@ -116,7 +101,6 @@ Total characters with missing data: 41
 
 **Missing Fields:**
 - Abilities
-- Appearance
 - Backgrounds
 - Disciplines
 - Merits/Flaws
@@ -125,8 +109,6 @@ Total characters with missing data: 41
 ### ID: 95 - Core (Alexandra Chen)
 
 **Missing Fields:**
-- Abilities
-- Appearance
 - Backgrounds
 - Disciplines
 - History
@@ -137,8 +119,6 @@ Total characters with missing data: 41
 ### ID: 97 - Phreak
 
 **Missing Fields:**
-- Abilities
-- Appearance
 - Backgrounds
 - Disciplines
 - History
@@ -149,13 +129,12 @@ Total characters with missing data: 41
 ### ID: 101 - Barry Washington
 
 **Missing Fields:**
-- Appearance
+- (None - all fields complete)
 
 ### ID: 102 - Mr. Harold Ashby
 
 **Missing Fields:**
 - Abilities
-- Appearance
 - Disciplines
 - Merits/Flaws
 
@@ -163,7 +142,6 @@ Total characters with missing data: 41
 
 **Missing Fields:**
 - Abilities
-- Appearance
 - Backgrounds
 - Concept
 - Demeanor
@@ -175,7 +153,6 @@ Total characters with missing data: 41
 ### ID: 107 - Layla al-Sahr
 
 **Missing Fields:**
-- Appearance
 - Disciplines
 - History
 - Merits/Flaws
@@ -185,7 +162,6 @@ Total characters with missing data: 41
 ### ID: 108 - Misfortune
 
 **Missing Fields:**
-- Abilities
 - Merits/Flaws
 - Notes
 
@@ -228,7 +204,6 @@ Total characters with missing data: 41
 
 **Missing Fields:**
 - Abilities
-- Appearance
 - Backgrounds
 - Concept
 - Demeanor
@@ -256,7 +231,7 @@ Total characters with missing data: 41
 ### ID: 130 - Kerry, the Desert-Wandering Gangrel
 
 **Missing Fields:**
-- Appearance
+- (None - all fields complete)
 
 ### ID: 131 - Alistaire
 
@@ -302,145 +277,4 @@ Total characters with missing data: 41
 
 **Missing Fields:**
 - History
-
-
-
-## Character Images
-
-Generated: 2025-12-22 20:07:06
-
-Total characters missing images: 19
-
-### Characters Missing Images
-
-### ID: 26 - Andrei Radulescu
-
-**Status:** file_not_found
-**Reason:** Database has image filename 'Andrei Radulescu.webp' but file does not exist
-**Database value:** `Andrei Radulescu.webp`
-**Clan:** Tremere
-
-### ID: 27 - Dr. Margaret Ashford
-
-**Status:** file_not_found
-**Reason:** Database has image filename 'Margaret Ashford.png' but file does not exist
-**Database value:** `Margaret Ashford.png`
-**Clan:** Tremere
-
-### ID: 28 - James Whitmore
-
-**Status:** file_not_found
-**Reason:** Database has image filename 'James Whitmore.webp' but file does not exist
-**Database value:** `James Whitmore.webp`
-**Clan:** Tremere
-
-### ID: 42 - Rembrandt Jones
-
-**Status:** file_not_found
-**Reason:** Database has image filename 'Rembrandt Jones.webp' but file does not exist
-**Database value:** `Rembrandt Jones.webp`
-**Clan:** Toreador
-
-### ID: 43 - Violet 'The Confidence Queen'
-
-**Status:** file_not_found
-**Reason:** Database has image filename 'Violet.jpg' but file does not exist
-**Database value:** `Violet.jpg`
-**Clan:** Nosferatu
-
-### ID: 44 - Jax 'The Ghost Dealer'
-
-**Status:** file_not_found
-**Reason:** Database has image filename 'Jax.png' but file does not exist
-**Database value:** `Jax.png`
-**Clan:** Ravnos
-
-### ID: 46 - Bayside Bob
-
-**Status:** file_not_found
-**Reason:** Database has image filename 'Bayside Bob.webp' but file does not exist
-**Database value:** `Bayside Bob.webp`
-**Clan:** Toreador
-
-### ID: 47 - Cordelia Fairchild
-
-**Status:** file_not_found
-**Reason:** Database has image filename 'Cordelia Fairchild.png' but file does not exist
-**Database value:** `Cordelia Fairchild.png`
-**Clan:** Toreador
-
-### ID: 48 - Duke Tiki
-
-**Status:** file_not_found
-**Reason:** Database has image filename 'Duke Tiki.webp' but file does not exist
-**Database value:** `Duke Tiki.webp`
-**Clan:** Toreador
-
-### ID: 55 - Leo
-
-**Status:** file_not_found
-**Reason:** Database has image filename 'Leo.webp' but file does not exist
-**Database value:** `Leo.webp`
-**Clan:** Nosferatu
-
-### ID: 60 - Lucien Marchand
-
-**Status:** file_not_found
-**Reason:** Database has image filename 'Lucien Marchand.png' but file does not exist
-**Database value:** `Lucien Marchand.png`
-**Clan:** Ghoul (Domitor: Étienne Duvalier)
-
-### ID: 62 - Sofia Alvarez
-
-**Status:** file_not_found
-**Reason:** Database has image filename 'Sofia Alvarez.webp' but file does not exist
-**Database value:** `Sofia Alvarez.webp`
-**Clan:** Ghoul (Domitor: Étienne Duvalier)
-
-### ID: 70 - Alessandro Vescari
-
-**Status:** file_not_found
-**Reason:** Database has image filename '70_1763173770_6d9a3dd4.png' but file does not exist
-**Database value:** `70_1763173770_6d9a3dd4.png`
-**Clan:** Giovanni
-
-### ID: 90 - Sasha
-
-**Status:** database_empty
-**Reason:** character_image field is empty string in database
-**Clan:** Malkavian
-
-### ID: 92 - Adrian Leclair
-
-**Status:** file_not_found
-**Reason:** Database has image filename '92_1762561016_a06ae8cc.png' but file does not exist
-**Database value:** `92_1762561016_a06ae8cc.png`
-**Clan:** Toreador
-
-### ID: 102 - Mr. Harold Ashby
-
-**Status:** file_not_found
-**Reason:** Database has image filename 'Harold Ashby.png' but file does not exist
-**Database value:** `Harold Ashby.png`
-**Clan:** Malkavian
-
-### ID: 112 - Eddy Valiant
-
-**Status:** database_null
-**Reason:** character_image field is NULL in database
-**Clan:** Malkavian
-
-### ID: 113 - Sarah Hansen
-
-**Status:** file_not_found
-**Reason:** Database has image filename '113_1762934668_a6d93e46.png' but file does not exist
-**Database value:** `113_1762934668_a6d93e46.png`
-**Clan:** Daughter of Cacophony
-
-### ID: 130 - Kerry, the Desert-Wandering Gangrel
-
-**Status:** database_empty
-**Reason:** character_image field is empty string in database
-**Clan:** Gangrel
-
 

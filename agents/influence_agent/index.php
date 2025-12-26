@@ -15,6 +15,7 @@ $username = $_SESSION['username'] ?? 'Guest';
 // Get selected influence and level from query params
 $selectedInfluence = isset($_GET['influence']) ? trim((string)$_GET['influence']) : '';
 $selectedLevel = isset($_GET['level']) ? (int)$_GET['level'] : 0;
+$showAllLevels = isset($_GET['show_all']) && $_GET['show_all'] === '1';
 
 // Fetch all influence types
 $influence_types_query = "SELECT influence_name, description FROM influence_types WHERE is_active = 1 ORDER BY sort_order";
@@ -26,25 +27,53 @@ while ($row = mysqli_fetch_assoc($influence_types_result)) {
 
 // Fetch effects if influence and level are selected
 $effects_data = null;
-if ($selectedInfluence && $selectedLevel >= 1 && $selectedLevel <= 5) {
-    $effects_query = "
-        SELECT ie.level, ie.effects_text, it.description, it.influence_name
-        FROM influence_effects_lookup ie
-        JOIN influence_types it ON ie.influence_name = it.influence_name
-        WHERE ie.influence_name = ? AND ie.level = ?
-    ";
-    $stmt = mysqli_prepare($conn, $effects_query);
-    if ($stmt) {
-        mysqli_stmt_bind_param($stmt, 'si', $selectedInfluence, $selectedLevel);
-        if (mysqli_stmt_execute($stmt)) {
-            $result = mysqli_stmt_get_result($stmt);
-            $effects_data = mysqli_fetch_assoc($result);
+$all_effects_data = [];
+if ($selectedInfluence) {
+    if ($showAllLevels) {
+        // Fetch all levels for the selected influence
+        $all_effects_query = "
+            SELECT ie.level, ie.effects_text, it.description, it.influence_name
+            FROM influence_effects_lookup ie
+            JOIN influence_types it ON ie.influence_name = it.influence_name
+            WHERE ie.influence_name = ?
+            ORDER BY ie.level ASC
+        ";
+        $stmt = mysqli_prepare($conn, $all_effects_query);
+        if ($stmt) {
+            mysqli_stmt_bind_param($stmt, 's', $selectedInfluence);
+            if (mysqli_stmt_execute($stmt)) {
+                $result = mysqli_stmt_get_result($stmt);
+                while ($row = mysqli_fetch_assoc($result)) {
+                    $all_effects_data[] = $row;
+                }
+            } else {
+                error_log("Query execution failed: " . mysqli_stmt_error($stmt));
+            }
+            mysqli_stmt_close($stmt);
         } else {
-            error_log("Query execution failed: " . mysqli_stmt_error($stmt));
+            error_log("Prepare failed: " . mysqli_error($conn));
         }
-        mysqli_stmt_close($stmt);
-    } else {
-        error_log("Prepare failed: " . mysqli_error($conn));
+    } elseif ($selectedLevel >= 1 && $selectedLevel <= 5) {
+        // Fetch single level
+        $effects_query = "
+            SELECT ie.level, ie.effects_text, it.description, it.influence_name
+            FROM influence_effects_lookup ie
+            JOIN influence_types it ON ie.influence_name = it.influence_name
+            WHERE ie.influence_name = ? AND ie.level = ?
+        ";
+        $stmt = mysqli_prepare($conn, $effects_query);
+        if ($stmt) {
+            mysqli_stmt_bind_param($stmt, 'si', $selectedInfluence, $selectedLevel);
+            if (mysqli_stmt_execute($stmt)) {
+                $result = mysqli_stmt_get_result($stmt);
+                $effects_data = mysqli_fetch_assoc($result);
+            } else {
+                error_log("Query execution failed: " . mysqli_stmt_error($stmt));
+            }
+            mysqli_stmt_close($stmt);
+        } else {
+            error_log("Prepare failed: " . mysqli_error($conn));
+        }
     }
 }
 
@@ -257,6 +286,42 @@ include __DIR__ . '/../../includes/header.php';
             border-left: 3px solid #666;
         }
 
+        .all-levels-container {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .level-section {
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 4px;
+            border-left: 4px solid #8b0000;
+            padding: 15px;
+        }
+
+        .level-section-header {
+            color: #8b0000;
+            font-size: 20px;
+            font-weight: bold;
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .level-section-header .level-badge {
+            background: #8b0000;
+            color: #fff;
+            padding: 4px 12px;
+            border-radius: 15px;
+            font-size: 14px;
+        }
+
+        .form-select:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
         .no-selection {
             text-align: center;
             padding: 60px 20px;
@@ -316,7 +381,7 @@ include __DIR__ . '/../../includes/header.php';
                 <?php if ($selectedInfluence): ?>
                 <div class="form-group">
                     <label for="level">Select Level (1-5 Traits)</label>
-                    <select name="level" id="level" class="form-select" onchange="this.form.submit()">
+                    <select name="level" id="level" class="form-select" onchange="document.getElementById('show_all').checked = false; this.form.submit()" <?= $showAllLevels ? 'disabled' : '' ?>>
                         <option value="">-- Choose Level --</option>
                         <?php for ($i = 1; $i <= 5; $i++): ?>
                             <option value="<?= $i ?>" <?= $selectedLevel === $i ? 'selected' : '' ?>>
@@ -325,13 +390,47 @@ include __DIR__ . '/../../includes/header.php';
                         <?php endfor; ?>
                     </select>
                 </div>
+                <div class="form-group" style="display: flex; align-items: flex-end;">
+                    <label style="display: flex; align-items: center; gap: 8px; cursor: pointer; margin-bottom: 0;">
+                        <input type="checkbox" name="show_all" id="show_all" value="1" <?= $showAllLevels ? 'checked' : '' ?> onchange="if(this.checked) { document.getElementById('level').value = ''; } this.form.submit();" style="width: auto; margin: 0;">
+                        <span style="color: #8b0000; font-weight: bold; white-space: nowrap;">Show all levels</span>
+                    </label>
+                </div>
                 <?php endif; ?>
             </div>
         </form>
     </div>
 
     <div class="results-panel">
-        <?php if ($effects_data && isset($effects_data['effects_text']) && !empty($effects_data['effects_text'])): ?>
+        <?php if ($showAllLevels && !empty($all_effects_data)): ?>
+            <div class="results-header">
+                <h2>All Levels for:</h2>
+                <div>
+                    <span class="influence-name"><?= htmlspecialchars($all_effects_data[0]['influence_name'] ?? 'Unknown') ?></span>
+                </div>
+            </div>
+            
+            <?php if (!empty($all_effects_data[0]['description'])): ?>
+            <div class="description-text">
+                <strong>What is <?= htmlspecialchars($all_effects_data[0]['influence_name']) ?> Influence?</strong><br>
+                <?= htmlspecialchars($all_effects_data[0]['description']) ?>
+            </div>
+            <?php endif; ?>
+            
+            <div class="all-levels-container">
+                <?php foreach ($all_effects_data as $level_data): ?>
+                    <div class="level-section">
+                        <div class="level-section-header">
+                            <span>Level <?= htmlspecialchars((string)$level_data['level']) ?></span>
+                            <span class="level-badge"><?= htmlspecialchars((string)$level_data['level']) ?> Trait<?= $level_data['level'] > 1 ? 's' : '' ?></span>
+                        </div>
+                        <div class="effects-text" style="margin: 0; padding: 0; background: transparent; border: none;">
+                            <?= nl2br(htmlspecialchars($level_data['effects_text'])) ?>
+                        </div>
+                    </div>
+                <?php endforeach; ?>
+            </div>
+        <?php elseif ($effects_data && isset($effects_data['effects_text']) && !empty($effects_data['effects_text'])): ?>
             <div class="results-header">
                 <h2>Effects for:</h2>
                 <div>
