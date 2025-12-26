@@ -88,8 +88,18 @@
             "level": 1
         }
     ],
-    "backgrounds": [],
-    "backgroundDetails": [],
+    "backgrounds": {
+        "Allies": 2,
+        "Contacts": 1,
+        "Resources": 1,
+        "Status": 1
+    },
+    "backgroundDetails": {
+        "Allies": "Street-level Anarch Kindred and mortal allies who support his rebellion against the Camarilla. Includes fellow Brujah, street racers, and those who've been protected by his enforcement activities.",
+        "Contacts": "Street networks, underground informants, and Anarch sympathizers who provide information on Camarilla movements and potential threats.",
+        "Resources": "Modest income from muscle-for-hire work and protection rackets. Maintains an abandoned skate shop haven on the Mesa/Chandler border.",
+        "Status": "Respected among Anarchs as a street-level enforcer and defender of the Valley's rebel Kindred. Known for his commitment to keeping the city free of Camarilla killers."
+    },
     "morality": {
         "path_name": "Humanity",
         "path_rating": 7,

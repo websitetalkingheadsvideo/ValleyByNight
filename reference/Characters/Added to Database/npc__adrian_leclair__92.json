@@ -81,8 +81,16 @@
             "level": 2
         }
     ],
-    "backgrounds": [],
-    "backgroundDetails": [],
+    "backgrounds": {
+        "Resources": 3,
+        "Contacts": 1,
+        "Status": 1
+    },
+    "backgroundDetails": {
+        "Resources": "Affluent wealth from wealthy mortal patrons in Scottsdale and successful interior design projects. Maintains elegant galleries and venues that serve the Camarilla's social needs.",
+        "Contacts": "Art world connections, wealthy patrons, gallery owners, and cultural institutions in Scottsdale and Phoenix who provide both business opportunities and social access.",
+        "Status": "Respected within Toreador circles and Camarilla society as a master of emotional space design. Maintains professional boon-based relationships with other Kindred, particularly Sarah Hansen of The Velvet Door."
+    },
     "morality": {
         "path_name": "Humanity",
         "path_rating": 7,

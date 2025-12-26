@@ -82,8 +82,14 @@
             "level": 3
         }
     ],
-    "backgrounds": [],
-    "backgroundDetails": [],
+    "backgrounds": {
+        "Resources": 3,
+        "Influence": 2
+    },
+    "backgroundDetails": {
+        "Resources": "Affluent wealth from The Hole nightclub operations in Mesa, controlled through Serpent Holdings LLC. Profitable business that funds both legitimate operations and Setite temple activities.",
+        "Influence": "Significant influence in Mesa's nightlife and Setite circles. Maintains The Hole as independent Setite territory recognized by the Camarilla as neutral ground. Her reputation as high priestess gives her access to corruption targets."
+    },
     "morality": {
         "path_name": "Humanity",
         "path_rating": 7,

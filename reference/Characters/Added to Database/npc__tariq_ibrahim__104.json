@@ -13,7 +13,8 @@
     "pc": 0,
     "appearance": "Tariq Ibrahim moves through Phoenix's nightlife like a serpent in silk, every gesture calculated to invite while simultaneously warning that some invitations should be declined. As a Setite nightlife impresario, he presents as a man in his early thirties—the perfect age of seductive maturity, frozen at the moment when charm and danger align. He's tall and elegantly built, with the kind of frame that suggests someone who understands that physical presence is just another tool in the arsenal of temptation. His face is a study in calculated beauty: high cheekbones, full lips that curve easily into a smile, and eyes the color of dark honey that seem to see through every mask. His hair, dark and perfectly styled, is kept in a way that bridges the gap between Mediterranean elegance and modern sophistication, and his grooming is flawless—every detail perfect, as if he's learned that in the world of forbidden experiences, presentation is everything.\n\nHis clothing is a masterclass in understated seduction: tailored pieces in rich, dark tones—deep burgundy, charcoal, or midnight blue—that create clean lines and emphasize his graceful frame. He favors structured silhouettes that speak to his role as curator of exclusive experiences—blazers with sharp shoulders, trousers that move with him, and accessories that whisper of old-world luxury and new-world power. Everything is immaculate, from the precise break of his trousers to the way his jewelry catches the light, and he has a habit of pausing mid-conversation to adjust something—a cufflink, a tie, the angle of a lamp—as if he's constantly fine-tuning the atmosphere around him.\n\nWhat sets Tariq apart, however, isn't just his appearance but the way he shapes space into temptation. His Presence is a weapon he wields with surgical precision, and his Serpentis allows him to move with the fluid grace of something not quite human. He maintains a clandestine VIP tier within Phoenix nightclubs where Setite rites masquerade as immersive theater, and there's something almost reverent about the way he approaches his work—as if he's not just a tempter but a priest of forbidden experiences, someone who's learned that the most powerful seduction is the one that feels like a choice. In the neon-lit clubs of 1994 Phoenix or the shadowed corners of exclusive venues, Tariq Ibrahim is a reminder that sometimes the most dangerous invitations are the ones that look like opportunities, and that in the world of the Setites, beauty is just the first step toward corruption.",
     "biography": "",
-    "notes": "Maintains a ‘private’ VIP tier where Setite rites are thinly veiled as immersive theater.",
+    "history": "Tariq Ibrahim's history is shrouded in the seductive darkness of Setite operations. As a nightlife impresario operating in Phoenix, he has carefully constructed a clandestine VIP tier within premier nightclubs where Setite rites masquerade as immersive theater experiences. His operations trade forbidden experiences for influence and secrets, curating exclusive encounters that serve both mortal decadence and Setite corruption. Operating as a 9th generation Setite, Tariq has built a reputation throughout Phoenix's nightlife as a curator of exclusive experiences and a gateway to forbidden pleasures, giving him significant social influence while maintaining the facade of legitimate entertainment. His mastery of seduction and understanding of desire allows him to extract maximum sustenance from corrupted victims, particularly those he has personally tempted. His Setite activities and corruption of Camarilla members have made him enemies among traditionalists who see him as a threat to their values, forcing him to maintain careful balance between his public persona and his true purpose as an agent of Setite influence.",
+    "notes": "Maintains a 'private' VIP tier where Setite rites are thinly veiled as immersive theater.",
     "equipment": "",
     "character_image": "104_1763074210_6d9a3dd4.png",
     "status": {
@@ -80,8 +81,14 @@
             "level": 2
         }
     ],
-    "backgrounds": [],
-    "backgroundDetails": [],
+    "backgrounds": {
+        "Resources": 3,
+        "Influence": 2
+    },
+    "backgroundDetails": {
+        "Resources": "Affluent wealth from successful nightclub operations and VIP tier management. Maintains multiple premier nightclub venues in Phoenix where Setite rites masquerade as immersive theater.",
+        "Influence": "Significant influence in Phoenix's nightlife scene, particularly in exclusive VIP circles. His reputation as a curator of forbidden experiences gives him access to high-value targets for Setite corruption."
+    },
     "morality": {
         "path_name": "Humanity",
         "path_rating": 7,
