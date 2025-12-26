@@ -52,8 +52,18 @@
     "abilities": [],
     "specializations": [],
     "disciplines": [],
-    "backgrounds": [],
-    "backgroundDetails": [],
+    "backgrounds": {
+        "Contacts": 2,
+        "Resources": 1,
+        "Status": 1,
+        "Mentor": 1
+    },
+    "backgroundDetails": {
+        "Contacts": "Conspiracy networks, information sources in the digital underground, and contacts who provide cryptic but accurate intelligence about Kindred politics and Methuselah activities.",
+        "Resources": "Modest resources sufficient to maintain their abandoned desert shack haven with diagram-filled basement. Equipment for surveillance monitoring and conspiracy mapping.",
+        "Status": "Known among Anarchs as a strategist with prophetic visions, though their paranoia makes cooperation difficult. Respected for accurate predictions despite their conspiracy theories.",
+        "Mentor": "An unknown figure (possibly their sire or another Malkavian) who taught them to interpret visions and understand the patterns in Kindred politics, though the relationship is shrouded in mystery."
+    },
     "morality": {
         "path_name": "Humanity",
         "path_rating": 7,

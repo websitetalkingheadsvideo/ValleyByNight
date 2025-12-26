@@ -1,5 +1,5 @@
 {
-    "generated_at": "2025-12-26T08:12:12+00:00",
+    "generated_at": "2025-12-26T19:47:47+00:00",
     "categories": [
         "Physical",
         "Social",
@@ -9,69 +9,6 @@
         {
             "id": 55,
             "character_name": "Leo",
-            "searched_files": [
-                "reference\/Characters\/**\/*.json",
-                "agents\/character_agent\/data\/Characters\/**\/*.json"
-            ],
-            "reason": "no_matching_files_found"
-        },
-        {
-            "id": 107,
-            "character_name": "Layla al-Sahr",
-            "searched_files": [
-                "reference\/Characters\/**\/*.json",
-                "agents\/character_agent\/data\/Characters\/**\/*.json"
-            ],
-            "reason": "no_matching_files_found"
-        },
-        {
-            "id": 123,
-            "character_name": "Warner Jefferson",
-            "searched_files": [
-                "reference\/Characters\/**\/*.json",
-                "agents\/character_agent\/data\/Characters\/**\/*.json"
-            ],
-            "reason": "no_matching_files_found"
-        },
-        {
-            "id": 124,
-            "character_name": "Marisol \"Roadrunner\" Vega",
-            "searched_files": [
-                "reference\/Characters\/**\/*.json",
-                "agents\/character_agent\/data\/Characters\/**\/*.json"
-            ],
-            "reason": "no_matching_files_found"
-        },
-        {
-            "id": 125,
-            "character_name": "Roxanne Murphy",
-            "searched_files": [
-                "reference\/Characters\/**\/*.json",
-                "agents\/character_agent\/data\/Characters\/**\/*.json"
-            ],
-            "reason": "no_matching_files_found"
-        },
-        {
-            "id": 129,
-            "character_name": "Butch Reed",
-            "searched_files": [
-                "reference\/Characters\/**\/*.json",
-                "agents\/character_agent\/data\/Characters\/**\/*.json"
-            ],
-            "reason": "no_matching_files_found"
-        },
-        {
-            "id": 131,
-            "character_name": "Alistaire",
-            "searched_files": [
-                "reference\/Characters\/**\/*.json",
-                "agents\/character_agent\/data\/Characters\/**\/*.json"
-            ],
-            "reason": "no_matching_files_found"
-        },
-        {
-            "id": 151,
-            "character_name": "Julien Roche",
             "searched_files": [
                 "reference\/Characters\/**\/*.json",
                 "agents\/character_agent\/data\/Characters\/**\/*.json"

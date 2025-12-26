@@ -56,8 +56,20 @@
             "level": 4
         }
     ],
-    "backgrounds": [],
-    "backgroundDetails": [],
+    "backgrounds": {
+        "Resources": 3,
+        "Status": 2,
+        "Herd": 2,
+        "Retainers": 1,
+        "Influence": 2
+    },
+    "backgroundDetails": {
+        "Resources": "Wealthy from vulture finance operations and successful investments in Phoenix's booming economy. Maintains penthouse haven in downtown Phoenix high-rise. Currently building comprehensive financial dossiers on Tremere and Giovanni holdings.",
+        "Status": "Status 2 in Phoenix Camarilla as a rising Ventrue power. Respected for his financial acumen and strategic approach to building influence. Currently executing assignment from Ventrue Primogen to investigate rival clan finances. Playing the long game to avoid making enemies while positioning for major acquisitions.",
+        "Herd": "Exclusive business club of MBA holders, executives, and entrepreneurs who provide regular feeding access. His feeding restriction requires business degree holders, making this herd essential to his survival.",
+        "Retainers": "Markus, a ghoul lawyer who handles daytime operations and legal matters. Provides essential support for Warner's financial investigations and business activities.",
+        "Influence": "Significant influence across multiple sectors: Finance (primary, extensive), Industry, Politics, Transportation, and Real Estate. His vulture finance specialization and strategic investments give him leverage in Phoenix's economic landscape."
+    },
     "morality": {
         "path_name": "Humanity",
         "path_rating": 7,

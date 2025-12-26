@@ -1,9 +1,9 @@
 # Version History
 
-## Current Version: 0.8.91
+## Current Version: 0.8.92
 
 **Date:** 2025-01-30  
-**Type:** Patch (Disciplines backfill script improvements and character data completion)
+**Type:** Patch (Character traits verification and missing data report updates)
 
 ### Changes:
 - **Disciplines Backfill Script Improvements** - Enhanced character disciplines backfill utility

@@ -83,8 +83,18 @@
             "level": 2
         }
     ],
-    "backgrounds": [],
-    "backgroundDetails": [],
+    "backgrounds": {
+        "Contacts": 3,
+        "Resources": 1,
+        "Status": 3,
+        "Retainers": 2
+    },
+    "backgroundDetails": {
+        "Contacts": "Extensive Shrecknet connections and information networks spanning multiple cities. Contacts in Kindred politics, mortal institutions, and occult circles who provide intelligence. His Bunker serves as a crucial node in the Nosferatu information network.",
+        "Resources": "Modest resources sufficient to maintain The Bunker (abandoned Cold War observation station) and its surveillance systems. Equipment for information gathering, analysis, and maintaining the public fiction of living in Mesa storm drains.",
+        "Status": "Status 3 as Nosferatu Primogen of Phoenix. Known as 'The Silent Authority of the Bunker'—a figure whose power derives from knowledge and strategic silence rather than visible displays of force.",
+        "Retainers": "Earl and Dale, two loyal ghouls who assist with Bunker operations, information gathering, and maintaining the facility. Essential support for Alistaire's information brokering activities."
+    },
     "morality": {
         "path_name": "Humanity",
         "path_rating": 7,

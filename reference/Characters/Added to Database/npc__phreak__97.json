@@ -13,6 +13,7 @@
     "pc": 0,
     "appearance": "Phreak moves through the digital underground like a ghost in the machine made flesh, his presence a contradiction between the virtual world he commands and the physical form that anchors him to reality. As a Nosferatu, his curse has marked him in ways that make mortals look away and Kindred stare in fascinated horror—but unlike many of his clan, there's something almost cybernetic about his disfigurement, as if the curse recognized his connection to technology and made it literal. His build is slight, almost wiry, the kind of frame that suggests someone who spends more time hunched over keyboards than in physical activity, and his movements are quick and precise, like someone who's learned to optimize every motion for efficiency.\n\nHis face is where the curse shows most clearly—features that might have been handsome twisted into something that makes people uncomfortable, skin that seems to shift and glitch like a corrupted image file, and eyes that hold the kind of intensity that comes from staring at screens for hours on end. His hair, what isn't affected by the curse, is kept practical—short and messy, as if he cuts it himself and doesn't care about the result. He favors clothing that accommodates his work and his curse: loose-fitting pieces that don't draw attention, cargo pants with pockets for tools and cables, and fingerless gloves that protect his hands while allowing him to type. Everything is functional rather than fashionable, chosen for its ability to let him disappear into crowds or work for hours without distraction.\n\nWhat sets Phreak apart, however, is the way he carries himself despite the curse—with the kind of confidence that comes from knowing he's the most dangerous thing in any room, even if no one else realizes it. His voice is quick and enthusiastic when he talks about technology, his hands gesture with excitement when explaining systems, and there's something almost Jester-like about his demeanor—a rebel who finds humor in the absurdity of his situation. He's an elite hacker and digital resistance operative, someone who understands that in 1994, the future of warfare is being written in code, and he's one of the few people who can read it. In the server rooms of Phoenix or the shadowed corners of the digital underground, Phreak is a reminder that sometimes the most powerful weapon is the one that exists in the spaces between reality, and that in the age of information, the Nosferatu curse might just be the perfect camouflage.",
     "biography": "",
+    "history": "Phreak has existed behind a handle for so long that his birth identity barely matters. He grew up in the digital underground, self-taught and weaponizing zero-day exploits to survive corporate surveillance. The loss of a close confidant to a surveillance dragnet pushed him deeper into digital resistance and anti-establishment hacking. He eventually partnered with Core in the Valley, establishing operations from a Faraday-shielded bunker where he runs infiltration operations, deepfake generation, and distributed surveillance countermeasures. His elite hacking skills require perfect recall of code, systems, and digital patterns, making him invaluable for digital operations but requiring careful handling due to his impulsive nature. As a human operative bound to Core's network, Phreak provides critical technical support for resistance activities, treating digital systems and emergent AI like conversational partners while maintaining the anonymity that protects him from both corporate and supernatural threats.",
     "notes": "",
     "equipment": "",
     "character_image": "Phreak.png",
@@ -43,8 +44,16 @@
     "abilities": [],
     "specializations": [],
     "disciplines": [],
-    "backgrounds": [],
-    "backgroundDetails": [],
+    "backgrounds": {
+        "Contacts": 2,
+        "Resources": 1,
+        "Allies": 2
+    },
+    "backgroundDetails": {
+        "Contacts": "Digital underground networks, hacker communities, and information sources in the tech world who provide access to systems, exploits, and intelligence on corporate surveillance.",
+        "Resources": "Modest resources sufficient to maintain his Faraday-shielded bunker operations, hardware for hacking operations, and technical equipment for infiltration and surveillance countermeasures.",
+        "Allies": "Core (Alexandra Chen) and other resistance network members who rely on his technical expertise. Digital resistance operatives and anti-establishment hackers who share his goals."
+    },
     "morality": {
         "path_name": "Humanity",
         "path_rating": 7,

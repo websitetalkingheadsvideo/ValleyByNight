@@ -43,8 +43,14 @@
     "abilities": [],
     "specializations": [],
     "disciplines": [],
-    "backgrounds": [],
-    "backgroundDetails": [],
+    "backgrounds": {
+        "Resources": 3,
+        "Influence": 2
+    },
+    "backgroundDetails": {
+        "Resources": "Affluent wealth from The Hole nightclub operations in Mesa. Profitable business that funds both legitimate nightlife operations and Setite temple activities, including the blasphemy-shrine maintenance.",
+        "Influence": "Significant influence in Mesa's nightlife and Setite circles as high priestess of The Hole. Maintains the club as independent Setite territory recognized by the Camarilla as neutral ground. Her reputation gives her access to high-value corruption targets."
+    },
     "morality": {
         "path_name": "Humanity",
         "path_rating": 7,
