@@ -1,6 +1,22 @@
 # Version History
 
-## Current Version: 0.8.92
+## Current Version: 0.8.93
+
+**Date:** 2025-01-30  
+**Type:** Patch (Ghoul clan field standardization and NPC player name fixes)
+
+### Changes:
+- **Ghoul Clan Field Standardization** - Standardized ghoul clan field format
+  - Changed clan field from "Ghoul (Domitor: ...)" to "Ghoul" for Sofia Alvarez and Lucien Marchand
+  - Moved domitor information to notes field: "(Domitor: Étienne Duvalier)"
+  - Updated both database and JSON files to maintain consistency
+  - Fixed ghoul admin panel query to properly display all ghouls
+- **NPC Player Name Fixes** - Standardized NPC player_name field
+  - Updated player_name from "ST/NPC" or "ST / NPC" to "NPC" for multiple characters
+  - Fixed: Lorenzo Giovanni, Marianna Giovanni, Paris Giovanni, Paulo Benedicto Giovanni, Rey Gonzalez, Roland Cross, Étienne Duvalier
+  - Updated both database and JSON files
+
+## Previous Version: 0.8.92
 
 **Date:** 2025-01-30  
 **Type:** Patch (Character traits verification and missing data report updates)
