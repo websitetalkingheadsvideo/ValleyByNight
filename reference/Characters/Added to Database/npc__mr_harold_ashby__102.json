@@ -52,9 +52,44 @@
         "Social": [],
         "Mental": []
     },
-    "abilities": [],
-    "specializations": [],
-    "disciplines": [],
+    "abilities": [
+        {"name": "Performance", "category": "Social", "level": 4},
+        {"name": "Investigation", "category": "Mental", "level": 5},
+        {"name": "Stealth", "category": "Physical", "level": 3},
+        {"name": "Subterfuge", "category": "Social", "level": 4},
+        {"name": "Empathy", "category": "Social", "level": 4},
+        {"name": "Occult", "category": "Mental", "level": 2},
+        {"name": "Medicine", "category": "Mental", "level": 2},
+        {"name": "Academics", "category": "Mental", "level": 3},
+        {"name": "Etiquette", "category": "Social", "level": 3},
+        {"name": "Leadership", "category": "Social", "level": 2},
+        {"name": "Melee", "category": "Physical", "level": 2},
+        {"name": "Awareness", "category": "Optional", "level": 4},
+        {"name": "Alertness", "category": "Optional", "level": 3}
+    ],
+    "specializations": [
+        {"ability": "Performance", "specialization": "Funerary photography"},
+        {"ability": "Investigation", "specialization": "Pattern recognition and victim profiling"},
+        {"ability": "Empathy", "specialization": "Reading grief and emotional states"},
+        {"ability": "Subterfuge", "specialization": "Manipulating ghouls and victims"},
+        {"ability": "Academics", "specialization": "Psychology and human behavior"},
+        {"ability": "Stealth", "specialization": "Ritualized entry and exit"},
+        {"ability": "Awareness", "specialization": "Detecting emotional patterns and grief"}
+    ],
+    "disciplines": [
+        {
+            "name": "Auspex",
+            "level": 4
+        },
+        {
+            "name": "Dementation",
+            "level": 3
+        },
+        {
+            "name": "Obfuscate",
+            "level": 3
+        }
+    ],
     "backgrounds": {
         "Contacts": 2,
         "Haven": 2,

@@ -40,55 +40,44 @@
         "Social": [],
         "Mental": []
     },
-    "abilities": [],
-    "specializations": [],
+    "abilities": [
+        {"name": "Survival", "category": "Physical", "level": 5},
+        {"name": "Drive", "category": "Physical", "level": 4},
+        {"name": "Firearms", "category": "Physical", "level": 4},
+        {"name": "Animal Ken", "category": "Social", "level": 4},
+        {"name": "Stealth", "category": "Physical", "level": 4},
+        {"name": "Investigation", "category": "Mental", "level": 3},
+        {"name": "Alertness", "category": "Optional", "level": 4},
+        {"name": "Athletics", "category": "Physical", "level": 3},
+        {"name": "Brawl", "category": "Physical", "level": 2},
+        {"name": "Melee", "category": "Physical", "level": 1},
+        {"name": "Awareness", "category": "Optional", "level": 3},
+        {"name": "Streetwise", "category": "Social", "level": 2}
+    ],
+    "specializations": [
+        {"ability": "Survival", "specialization": "Desert tracking and navigation"},
+        {"ability": "Drive", "specialization": "Long-haul trucking"},
+        {"ability": "Firearms", "specialization": "Sawed-off shotgun"},
+        {"ability": "Animal Ken", "specialization": "Desert predators"},
+        {"ability": "Stealth", "specialization": "Avoiding Garou patrols"},
+        {"ability": "Investigation", "specialization": "Reading sign and terrain"},
+        {"ability": "Alertness", "specialization": "Spotting threats in desert"}
+    ],
     "disciplines": [
         {
-            "name": "animalism",
+            "name": "Animalism",
             "level": 2
         },
         {
-            "name": "auspex",
-            "level": 1
-        },
-        {
-            "name": "celerity",
-            "level": 1
-        },
-        {
-            "name": "dominate",
-            "level": 1
-        },
-        {
-            "name": "fortitude",
+            "name": "Fortitude",
             "level": 2
         },
         {
-            "name": "obfuscate",
-            "level": 1
-        },
-        {
-            "name": "obtenebration",
-            "level": 1
-        },
-        {
-            "name": "potence",
-            "level": 1
-        },
-        {
-            "name": "presence",
-            "level": 1
-        },
-        {
-            "name": "protean",
+            "name": "Protean",
             "level": 3
         },
         {
-            "name": "serpentis",
-            "level": 1
-        },
-        {
-            "name": "thaumaturgy",
+            "name": "Auspex",
             "level": 1
         }
     ],

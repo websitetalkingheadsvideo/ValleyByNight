@@ -1,9 +1,9 @@
 # Version History
 
-## Current Version: 0.8.87
+## Current Version: 0.8.88
 
 **Date:** 2025-01-30  
-**Type:** Patch (Influence Agent enhancements and character data updates)
+**Type:** Patch (Character abilities completion for 9 NPCs)
 
 ### Changes:
 - **Coterie Agent Enhancements** - Added new coterie creation and improved roster management

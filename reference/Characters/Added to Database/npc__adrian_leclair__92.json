@@ -40,9 +40,47 @@
         "Social": [],
         "Mental": []
     },
-    "abilities": [],
-    "specializations": [],
-    "disciplines": [],
+    "abilities": [
+        {"name": "Crafts", "category": "Mental", "level": 4},
+        {"name": "Academics", "category": "Mental", "level": 4},
+        {"name": "Performance", "category": "Social", "level": 3},
+        {"name": "Finance", "category": "Mental", "level": 3},
+        {"name": "Etiquette", "category": "Social", "level": 4},
+        {"name": "Expression", "category": "Social", "level": 4},
+        {"name": "Subterfuge", "category": "Social", "level": 3},
+        {"name": "Leadership", "category": "Social", "level": 3},
+        {"name": "Empathy", "category": "Social", "level": 3},
+        {"name": "Investigation", "category": "Mental", "level": 2},
+        {"name": "Politics", "category": "Mental", "level": 3},
+        {"name": "Awareness", "category": "Optional", "level": 3},
+        {"name": "Alertness", "category": "Optional", "level": 2}
+    ],
+    "specializations": [
+        {"ability": "Crafts", "specialization": "Interior design and architecture"},
+        {"ability": "Academics", "specialization": "Art history and curation"},
+        {"ability": "Performance", "specialization": "Charcoal drawing"},
+        {"ability": "Finance", "specialization": "Gallery and venue management"},
+        {"ability": "Etiquette", "specialization": "High society and Kindred courts"},
+        {"ability": "Expression", "specialization": "Emotional space design"},
+        {"ability": "Subterfuge", "specialization": "Social manipulation through environment"},
+        {"ability": "Leadership", "specialization": "Curating events and gatherings"},
+        {"ability": "Empathy", "specialization": "Reading emotional currents in spaces"},
+        {"ability": "Politics", "specialization": "Camarilla social structure"}
+    ],
+    "disciplines": [
+        {
+            "name": "Presence",
+            "level": 3
+        },
+        {
+            "name": "Auspex",
+            "level": 3
+        },
+        {
+            "name": "Celerity",
+            "level": 2
+        }
+    ],
     "backgrounds": [],
     "backgroundDetails": [],
     "morality": {
