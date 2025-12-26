@@ -1,0 +1,185 @@
+{
+    "generated_at": "2025-12-26T08:28:40+00:00",
+    "mode": "live",
+    "statistics": {
+        "total_scanned": 0,
+        "missing_traits": 5,
+        "traits_generated": 76,
+        "characters_updated": 5,
+        "errors": 0
+    },
+    "characters": [
+        {
+            "id": 124,
+            "character_name": "Marisol \"Roadrunner\" Vega",
+            "traits_generated": 15,
+            "positive": {
+                "Physical": [
+                    "Wild",
+                    "Tough",
+                    "Resilient",
+                    "Feral",
+                    "Athletic",
+                    "Fit",
+                    "Healthy"
+                ],
+                "Social": [
+                    "Personable",
+                    "Sociable",
+                    "Friendly",
+                    "Charismatic",
+                    "Charming"
+                ],
+                "Mental": [
+                    "Alert",
+                    "Focused",
+                    "Aware"
+                ]
+            },
+            "negative": {
+                "Physical": [],
+                "Social": [],
+                "Mental": []
+            },
+            "generated_at": "2025-12-26T08:28:30+00:00"
+        },
+        {
+            "id": 125,
+            "character_name": "Roxanne Murphy",
+            "traits_generated": 15,
+            "positive": {
+                "Physical": [
+                    "Agile",
+                    "Quick",
+                    "Graceful"
+                ],
+                "Social": [
+                    "Commanding",
+                    "Charismatic",
+                    "Inspiring",
+                    "Authoritative",
+                    "Cunning",
+                    "Manipulative",
+                    "Deceptive"
+                ],
+                "Mental": [
+                    "Analytical",
+                    "Calculating",
+                    "Shrewd",
+                    "Methodical",
+                    "Studious"
+                ]
+            },
+            "negative": {
+                "Physical": [],
+                "Social": [],
+                "Mental": []
+            },
+            "generated_at": "2025-12-26T08:28:32+00:00"
+        },
+        {
+            "id": 129,
+            "character_name": "Butch Reed",
+            "traits_generated": 15,
+            "positive": {
+                "Physical": [
+                    "Aggressive",
+                    "Quick",
+                    "Vigorous",
+                    "Athletic",
+                    "Fit",
+                    "Healthy",
+                    "Strong"
+                ],
+                "Social": [
+                    "Passionate",
+                    "Intense",
+                    "Personable",
+                    "Sociable",
+                    "Friendly"
+                ],
+                "Mental": [
+                    "Alert",
+                    "Focused",
+                    "Aware"
+                ]
+            },
+            "negative": {
+                "Physical": [],
+                "Social": [],
+                "Mental": []
+            },
+            "generated_at": "2025-12-26T08:28:35+00:00"
+        },
+        {
+            "id": 131,
+            "character_name": "Alistaire",
+            "traits_generated": 16,
+            "positive": {
+                "Physical": [
+                    "Tough",
+                    "Resilient",
+                    "Hardy",
+                    "Athletic",
+                    "Fit",
+                    "Healthy",
+                    "Strong"
+                ],
+                "Social": [
+                    "Personable",
+                    "Sociable",
+                    "Friendly",
+                    "Charismatic",
+                    "Charming"
+                ],
+                "Mental": [
+                    "Clever",
+                    "Resourceful",
+                    "Cunning"
+                ]
+            },
+            "negative": {
+                "Physical": [],
+                "Social": [
+                    "Repulsive"
+                ],
+                "Mental": []
+            },
+            "generated_at": "2025-12-26T08:28:37+00:00"
+        },
+        {
+            "id": 151,
+            "character_name": "Julien Roche",
+            "traits_generated": 15,
+            "positive": {
+                "Physical": [
+                    "Athletic",
+                    "Fit",
+                    "Healthy",
+                    "Strong",
+                    "Quick",
+                    "Tough",
+                    "Resilient"
+                ],
+                "Social": [
+                    "Charismatic",
+                    "Elegant",
+                    "Alluring",
+                    "Refined",
+                    "Inspiring"
+                ],
+                "Mental": [
+                    "Intuitive",
+                    "Perceptive",
+                    "Insightful"
+                ]
+            },
+            "negative": {
+                "Physical": [],
+                "Social": [],
+                "Mental": []
+            },
+            "generated_at": "2025-12-26T08:28:40+00:00"
+        }
+    ]
+}

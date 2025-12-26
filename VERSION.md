@@ -1,6 +1,20 @@
 # Version History
 
-## Current Version: 0.8.89
+## Current Version: 0.8.90
+
+**Date:** 2025-01-30  
+**Type:** Patch (Character traits generation tools and reports)
+
+### Changes:
+- **Character Traits Generation System** - Added automated trait generation tools
+  - Created `generate_character_traits.php` - Main trait generation script with character analysis
+  - Created `generate_traits_simple.php` - Simplified trait generation utility
+  - Created `test_trait_insert.php` - Testing utility for trait insertion
+  - Generates traits based on abilities, disciplines, clan, nature/demeanor, biography, and concept
+  - Updated trait generation reports and missing traits tracking
+  - Updated `missing_traits_report.json` and `traits_not_found.json` with latest analysis
+
+## Previous Version: 0.8.89
 
 **Date:** 2025-01-30  
 **Type:** Patch (Character Nature/Demeanor and Merits/Flaws completion)
