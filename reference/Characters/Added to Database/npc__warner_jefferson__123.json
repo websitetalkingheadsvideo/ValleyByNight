@@ -68,7 +68,29 @@
         "willpower_current": 5,
         "humanity": 7
     },
-    "merits_flaws": [],
+    "merits_flaws": [
+        {
+            "name": "Efficient Digestion",
+            "type": "Merit",
+            "category": "Physical",
+            "cost": 3,
+            "description": "His feeding restriction to business degree holders allows him to extract maximum sustenance from high-value targets, reflecting his vulture finance specialization."
+        },
+        {
+            "name": "Reputation",
+            "type": "Merit",
+            "category": "Social",
+            "cost": 2,
+            "description": "Known throughout Phoenix's business and Kindred circles as a skilled vulture finance specialist and a rising power in Ventrue circles."
+        },
+        {
+            "name": "Prey Exclusion (Non-Business Degree Holders)",
+            "type": "Flaw",
+            "category": "Social",
+            "cost": 1,
+            "description": "Can only feed from mortals with business degrees (MBA holders, executives, entrepreneurs), limiting his feeding options and making him dependent on his exclusive business club herd."
+        }
+    ],
     "coteries": [],
     "relationships": [],
     "rituals": [],

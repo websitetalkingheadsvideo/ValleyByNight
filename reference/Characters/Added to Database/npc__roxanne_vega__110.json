@@ -94,7 +94,29 @@
         "willpower_current": 5,
         "humanity": 7
     },
-    "merits_flaws": [],
+    "merits_flaws": [
+        {
+            "name": "Efficient Digestion",
+            "type": "Merit",
+            "category": "Physical",
+            "cost": 3,
+            "description": "Her Setite nature and understanding of corruption allows her to extract maximum sustenance from corrupted victims, particularly those who have participated in her rites."
+        },
+        {
+            "name": "Reputation",
+            "type": "Merit",
+            "category": "Social",
+            "cost": 2,
+            "description": "Known throughout Mesa as the owner of The Hole and a gateway to forbidden experiences, giving her significant influence in nightlife and Setite circles."
+        },
+        {
+            "name": "Enemy (Giovanni)",
+            "type": "Flaw",
+            "category": "Social",
+            "cost": 2,
+            "description": "Her practice of Spirit Manipulation and blasphemy-shrine operations have made her enemies among the Giovanni, who see her as a threat to their necromantic monopoly."
+        }
+    ],
     "coteries": [],
     "relationships": [],
     "rituals": [],

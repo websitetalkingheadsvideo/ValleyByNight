@@ -1,6 +1,7 @@
 # Character Missing Data Report
 
 Generated: 2025-12-26 05:20:24
+Updated: 2025-01-30
 
 This report combines all missing data reports into a single consolidated list.
 
@@ -9,6 +10,12 @@ This report combines all missing data reports into a single consolidated list.
 Total characters with missing data: 40
 
 **Note:** Appearance fields have been completed for 19 characters (IDs: 42, 47, 48, 50, 52, 57, 60, 62, 68, 70, 92, 95, 97, 101, 102, 104, 107, 124, 130) as of 2025-01-30.
+
+**Note:** Abilities have been completed for 9 characters (IDs: 55, 89, 92, 102, 104, 112, 124, 129, 131) as of 2025-01-30.
+
+**Note:** Nature and Demeanor have been completed for 6 characters (IDs: 43, 70, 104, 109, 113, 124) as of 2025-01-30.
+
+**Note:** Merits/Flaws have been completed for 20 characters (IDs: 55, 89, 90, 92, 95, 97, 102, 104, 107, 108, 109, 110, 112, 113, 123, 124, 125, 129, 131, 133) as of 2025-01-30.
 
 ## Characters Missing Data
 
@@ -20,7 +27,7 @@ Total characters with missing data: 40
 ### ID: 43 - Violet 'The Confidence Queen'
 
 **Missing Fields:**
-- Demeanor
+- (None - all fields complete)
 
 ### ID: 47 - Cordelia Fairchild
 
@@ -45,8 +52,6 @@ Total characters with missing data: 40
 ### ID: 55 - Leo
 
 **Missing Fields:**
-- Abilities
-- Merits/Flaws
 - Traits
 
 ### ID: 57 - Betty
@@ -72,9 +77,7 @@ Total characters with missing data: 40
 ### ID: 70 - Alessandro Vescari
 
 **Missing Fields:**
-- Demeanor
 - History
-- Nature
 - Notes
 
 ### ID: 88 - Roland Cross
@@ -85,25 +88,20 @@ Total characters with missing data: 40
 ### ID: 89 - Pistol Pete
 
 **Missing Fields:**
-- Abilities
 - Backgrounds
 - Disciplines
-- Merits/Flaws
 
 ### ID: 90 - Sasha
 
 **Missing Fields:**
 - Backgrounds
 - Disciplines
-- Merits/Flaws
 
 ### ID: 92 - Adrian Leclair
 
 **Missing Fields:**
-- Abilities
 - Backgrounds
 - Disciplines
-- Merits/Flaws
 - Notes
 
 ### ID: 95 - Core (Alexandra Chen)
@@ -112,7 +110,6 @@ Total characters with missing data: 40
 - Backgrounds
 - Disciplines
 - History
-- Merits/Flaws
 - Notes
 - Traits
 
@@ -122,7 +119,6 @@ Total characters with missing data: 40
 - Backgrounds
 - Disciplines
 - History
-- Merits/Flaws
 - Notes
 - Traits
 
@@ -134,20 +130,14 @@ Total characters with missing data: 40
 ### ID: 102 - Mr. Harold Ashby
 
 **Missing Fields:**
-- Abilities
 - Disciplines
-- Merits/Flaws
 
 ### ID: 104 - Tariq Ibrahim
 
 **Missing Fields:**
-- Abilities
 - Backgrounds
 - Concept
-- Demeanor
 - History
-- Merits/Flaws
-- Nature
 - Traits
 
 ### ID: 107 - Layla al-Sahr
@@ -155,61 +145,46 @@ Total characters with missing data: 40
 **Missing Fields:**
 - Disciplines
 - History
-- Merits/Flaws
 - Notes
 - Traits
 
 ### ID: 108 - Misfortune
 
 **Missing Fields:**
-- Merits/Flaws
 - Notes
 
 ### ID: 109 - Tor
 
 **Missing Fields:**
-- Demeanor
-- Merits/Flaws
-- Nature
+- (None - all fields complete)
 
 ### ID: 110 - Roxanne Vega
 
 **Missing Fields:**
 - Backgrounds
-- Merits/Flaws
 
 ### ID: 112 - Eddy Valiant
 
 **Missing Fields:**
-- Abilities
 - Disciplines
-- Merits/Flaws
 
 ### ID: 113 - Sarah Hansen
 
 **Missing Fields:**
-- Demeanor
 - Disciplines
-- Merits/Flaws
-- Nature
 
 ### ID: 123 - Warner Jefferson
 
 **Missing Fields:**
 - Backgrounds
-- Merits/Flaws
 - Traits
 
 ### ID: 124 - Marisol "Roadrunner" Vega
 
 **Missing Fields:**
-- Abilities
 - Backgrounds
 - Concept
-- Demeanor
 - History
-- Merits/Flaws
-- Nature
 - Traits
 
 ### ID: 125 - Roxanne Murphy
@@ -217,15 +192,12 @@ Total characters with missing data: 40
 **Missing Fields:**
 - Backgrounds
 - Disciplines
-- Merits/Flaws
 - Traits
 
 ### ID: 129 - Butch Reed
 
 **Missing Fields:**
-- Abilities
 - History
-- Merits/Flaws
 - Traits
 
 ### ID: 130 - Kerry, the Desert-Wandering Gangrel
@@ -236,17 +208,15 @@ Total characters with missing data: 40
 ### ID: 131 - Alistaire
 
 **Missing Fields:**
-- Abilities
 - Backgrounds
 - Disciplines
-- Merits/Flaws
 - Notes
 - Traits
 
 ### ID: 133 - Lilith Nightshade
 
 **Missing Fields:**
-- Merits/Flaws
+- (None - all fields complete)
 
 ### ID: 136 - Charles "C.W." Whitford
 

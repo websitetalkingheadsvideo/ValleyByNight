@@ -55,7 +55,29 @@
         "willpower_current": 5,
         "humanity": 7
     },
-    "merits_flaws": [],
+    "merits_flaws": [
+        {
+            "name": "Efficient Digestion",
+            "type": "Merit",
+            "category": "Physical",
+            "cost": 3,
+            "description": "Her mastery of Setite rites and corruption allows her to extract maximum sustenance from corrupted victims, particularly those who have participated in her Akhu rituals."
+        },
+        {
+            "name": "Reputation",
+            "type": "Merit",
+            "category": "Social",
+            "cost": 2,
+            "description": "Known throughout Mesa as the high priestess of The Hole and a master of Setite corruption, giving her significant influence in both nightlife and occult circles."
+        },
+        {
+            "name": "Enemy (Camarilla Traditionalists)",
+            "type": "Flaw",
+            "category": "Social",
+            "cost": 2,
+            "description": "Her Setite activities and corruption of Camarilla members have made her enemies among traditionalists who see her as a threat to their values and the Masquerade."
+        }
+    ],
     "coteries": [],
     "relationships": [],
     "rituals": [],

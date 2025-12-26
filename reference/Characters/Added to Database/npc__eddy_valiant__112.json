@@ -111,7 +111,29 @@
         "willpower_current": 7,
         "humanity": 6
     },
-    "merits_flaws": [],
+    "merits_flaws": [
+        {
+            "name": "Iron Will",
+            "type": "Merit",
+            "category": "Mental",
+            "cost": 3,
+            "description": "His years as a private investigator and his jaded nature have forged an unbreakable will that resists intimidation and mental manipulation."
+        },
+        {
+            "name": "Reputation",
+            "type": "Merit",
+            "category": "Social",
+            "cost": 2,
+            "description": "Known throughout Phoenix's Kindred society as the 'court bloodhound'—useful, discreet, and too jaded to be easily intimidated."
+        },
+        {
+            "name": "Derangement: Cinematic Delusion",
+            "type": "Flaw",
+            "category": "Mental",
+            "cost": 2,
+            "description": "His Malkavian madness manifests as hearing and occasionally speaking inner narration, as if he's living in a hard-boiled detective film."
+        }
+    ],
     "coteries": [],
     "relationships": [],
     "rituals": [],

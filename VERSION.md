@@ -1,9 +1,28 @@
 # Version History
 
-## Current Version: 0.8.88
+## Current Version: 0.8.89
 
 **Date:** 2025-01-30  
-**Type:** Patch (Character abilities completion for 9 NPCs)
+**Type:** Patch (Character Nature/Demeanor and Merits/Flaws completion)
+
+### Changes:
+- **Character Nature/Demeanor Completion** - Added Nature and Demeanor fields for 6 characters
+  - ID 43 (Violet): Added Demeanor "Confidant"
+  - ID 70 (Alessandro): Added Nature "Architect", Demeanor "Confidant"
+  - ID 104 (Tariq): Added Nature "Temptress", Demeanor "Confidant"
+  - ID 109 (Tor): Added Nature "Seeker", Demeanor "Traditionalist"
+  - ID 113 (Sarah): Added Nature "Artist", Demeanor "Confidant"
+  - ID 124 (Marisol): Added Nature "Survivor", Demeanor "Survivor"
+- **Character Merits/Flaws Completion** - Added comprehensive Merits/Flaws for 20 characters
+  - Assigned appropriate Merits/Flaws based on character concepts, clans, and roles
+  - Includes Iron Will, Efficient Digestion, Reputation, Danger Sense, Oracular Ability, and various Flaws
+  - Characters updated: 55, 89, 90, 92, 95, 97, 102, 104, 107, 108, 109, 110, 112, 113, 123, 124, 125, 129, 131, 133
+- **Missing Data Report Updates** - Updated missing.md to reflect completed fields
+  - Removed Nature/Demeanor from missing fields list for 6 characters
+  - Removed Merits/Flaws from missing fields list for 20 characters
+  - Added completion notes to summary section
+
+## Previous Version: 0.8.88
 
 ### Changes:
 - **Coterie Agent Enhancements** - Added new coterie creation and improved roster management

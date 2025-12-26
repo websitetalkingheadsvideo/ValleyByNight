@@ -60,7 +60,36 @@
         "willpower_current": 5,
         "humanity": 7
     },
-    "merits_flaws": [],
+    "merits_flaws": [
+        {
+            "name": "False Identity",
+            "type": "Merit",
+            "category": "Social",
+            "cost": 2,
+            "description": "Her Malkavian cover identity is so well-maintained that she can operate in Camarilla society without suspicion, allowing her to gather intelligence and position for assassinations."
+        },
+        {
+            "name": "Danger Sense",
+            "type": "Merit",
+            "category": "Supernatural",
+            "cost": 2,
+            "description": "Her training as an Assamite assassin has honed her ability to sense threats and read dangerous situations, allowing her to avoid detection and plan escapes."
+        },
+        {
+            "name": "Dark Secret",
+            "type": "Flaw",
+            "category": "Social",
+            "cost": 1,
+            "description": "If her true identity as an Assamite assassin is discovered, she would face immediate execution. She must maintain absolute secrecy about her mission and clan."
+        },
+        {
+            "name": "Hunted",
+            "type": "Flaw",
+            "category": "Supernatural",
+            "cost": 4,
+            "description": "As an active assassin, she is hunted by those who have discovered her true purpose, as well as by Camarilla security forces if her cover is blown."
+        }
+    ],
     "coteries": [],
     "relationships": [],
     "rituals": [],

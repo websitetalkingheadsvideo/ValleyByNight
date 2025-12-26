@@ -4,8 +4,8 @@
     "character_name": "Marisol \"Roadrunner\" Vega",
     "player_name": "NPC",
     "chronicle": "Valley by Night",
-    "nature": "",
-    "demeanor": "",
+    "nature": "Survivor",
+    "demeanor": "Survivor",
     "concept": "",
     "clan": "Gangrel",
     "generation": 11,
@@ -93,7 +93,29 @@
         "willpower_current": 5,
         "humanity": 7
     },
-    "merits_flaws": [],
+    "merits_flaws": [
+        {
+            "name": "Danger Sense",
+            "type": "Merit",
+            "category": "Supernatural",
+            "cost": 2,
+            "description": "Her years of desert survival and tracking have honed her ability to sense threats, particularly Garou patrols and supernatural dangers in the wasteland."
+        },
+        {
+            "name": "Efficient Digestion",
+            "type": "Merit",
+            "category": "Physical",
+            "cost": 3,
+            "description": "Her Gangrel nature and understanding of the desert allows her to extract maximum sustenance from prey, particularly desert animals and those who understand survival."
+        },
+        {
+            "name": "Loner",
+            "type": "Flaw",
+            "category": "Social",
+            "cost": 1,
+            "description": "Her independent nature and preference for desert solitude can make it difficult for her to work in groups or maintain long-term social connections."
+        }
+    ],
     "coteries": [],
     "relationships": [],
     "rituals": [],

@@ -55,7 +55,29 @@
         "willpower_current": 5,
         "humanity": 7
     },
-    "merits_flaws": [],
+    "merits_flaws": [
+        {
+            "name": "Eidetic Memory",
+            "type": "Merit",
+            "category": "Mental",
+            "cost": 2,
+            "description": "His elite hacking skills require perfect recall of code, systems, and digital patterns, allowing him to remember complex technical information flawlessly."
+        },
+        {
+            "name": "Hideous",
+            "type": "Flaw",
+            "category": "Physical",
+            "cost": 2,
+            "description": "The Nosferatu curse has marked him severely, making social interactions with mortals extremely difficult and requiring Obfuscate or isolation to function."
+        },
+        {
+            "name": "Obsession (Technology)",
+            "type": "Flaw",
+            "category": "Mental",
+            "cost": 1,
+            "description": "His fascination with digital systems and hacking can distract him from other concerns, sometimes to the point of neglecting basic survival needs."
+        }
+    ],
     "coteries": [],
     "relationships": [],
     "rituals": [],

@@ -4,8 +4,8 @@
     "character_name": "Tariq Ibrahim",
     "player_name": "NPC",
     "chronicle": "Valley by Night",
-    "nature": "",
-    "demeanor": "",
+    "nature": "Temptress",
+    "demeanor": "Confidant",
     "concept": "",
     "clan": "Followers of Set",
     "generation": 10,
@@ -92,7 +92,29 @@
         "willpower_current": 5,
         "humanity": 7
     },
-    "merits_flaws": [],
+    "merits_flaws": [
+        {
+            "name": "Efficient Digestion",
+            "type": "Merit",
+            "category": "Physical",
+            "cost": 3,
+            "description": "His mastery of seduction and understanding of desire allows him to extract maximum sustenance from corrupted victims, particularly those he has personally tempted."
+        },
+        {
+            "name": "Reputation",
+            "type": "Merit",
+            "category": "Social",
+            "cost": 2,
+            "description": "Known throughout Phoenix's nightlife as a curator of exclusive experiences and a gateway to forbidden pleasures, giving him significant social influence."
+        },
+        {
+            "name": "Enemy (Camarilla Traditionalists)",
+            "type": "Flaw",
+            "category": "Social",
+            "cost": 2,
+            "description": "His Setite activities and corruption of Camarilla members have made him enemies among traditionalists who see him as a threat to their values."
+        }
+    ],
     "coteries": [],
     "relationships": [],
     "rituals": [],
