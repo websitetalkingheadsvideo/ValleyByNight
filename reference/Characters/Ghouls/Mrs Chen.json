@@ -1,0 +1,135 @@
+{
+  "character_name": "Mrs. Chen",
+  "player_name": "NPC",
+  "chronicle": "Valley by Night",
+  "clan": "Ghoul",
+  "generation": 15,
+  "sire": "",
+  "pc": 0,
+  "nature": "",
+  "demeanor": "",
+  "concept": "Adaptable caretaker and covert observer at a Malkavian-controlled fae-adjacent property",
+  "status": "active",
+  "camarilla_status": "Camarilla",
+  "sect": "Camarilla",
+  "title": "Caretaker of the Dunlap Apartments",
+  "epithet": "The Quiet Constant",
+  "appearance": "A middle-aged Chinese woman with carefully arranged hair, sensible clothing, and an expression that subtly mirrors whoever she is speaking to.",
+  "appearance_detailed": {
+    "short_summary": "Quietly adaptive, professionally invisible.",
+    "detailed_description": "Mrs. Chen presents herself differently depending on who is watching. To tenants, she is a polite but distant landlord. To Kindred, she is calm and deferential. When changelings are nearby, her posture softens, her expressions grow more dreamlike, her presence oddly easier to overlook. Her clothing remains practical and modest, but her mannerisms subtly shift to blend into the emotional tone of the room."
+  },
+  "biography": "Mrs. Chen immigrated to the United States decades ago and built her life through discipline, patience, and property ownership. Missfortune acquired the Dunlap four-plex after noticing strange dreamlike disturbances in the adjacent park and the thinness of the local reality. Mrs. Chen was chosen not for strength or ambition, but for her ability to adapt, observe, and remain unnoticed. Since her ghouling, she has become the caretaker of the building and an unassuming watcher of both Kindred and fae activity. She is aware that the park behind the property is not entirely mundane and understands that some of its visitors are not vampires at all. Her role is not confrontation, but observation and quiet reporting.",
+  "notes": "Mrs. Chen is deliberately emotionally flexible, capable of mirroring behavior to avoid attracting attention from changelings or unsettling Malkavian guests. She is not meant to dominate a scene, only to survive it unnoticed.",
+  "equipment": "Master keys to the four-plex, cleaning supplies, maintenance tools, ledgers written partly in coded shorthand.",
+  "description_tags": ["adaptive", "discreet", "observant", "unassuming"],
+  "traits": {
+    "Physical": ["Steady"],
+    "Social": ["Unassuming", "Agreeable"],
+    "Mental": ["Observant", "Patient"]
+  },
+  "negativeTraits": {
+    "Physical": ["Unathletic"],
+    "Social": ["Self-Effacing"],
+    "Mental": ["Risk-Averse"]
+  },
+  "abilities": [
+    { "name": "Steward", "category": "Optional", "level": 3 },
+    { "name": "Finance", "category": "Mental", "level": 3 },
+    { "name": "Repair", "category": "Physical", "level": 2 },
+    { "name": "Etiquette", "category": "Social", "level": 2 },
+    { "name": "Empathy", "category": "Social", "level": 2 },
+    { "name": "Occult", "category": "Mental", "level": 2 }
+  ],
+  "specializations": {
+    "Steward": "Property Management",
+    "Empathy": "Emotional Mirroring"
+  },
+  "disciplines": [
+    {
+      "name": "Auspex",
+      "level": 1,
+      "powers": [
+        { "level": 1, "power": "Heightened Senses" }
+      ]
+    }
+  ],
+  "backgrounds": {
+    "Resources": 2,
+    "Contacts": 1
+  },
+  "backgroundDetails": {
+    "Resources": "Income from the four-plex and careful long-term savings.",
+    "Contacts": "Local maintenance workers and park staff who overlook oddities."
+  },
+  "morality": {
+    "path_name": "Humanity",
+    "path_rating": 6,
+    "conscience": 3,
+    "self_control": 3,
+    "courage": 3,
+    "willpower_permanent": 4,
+    "willpower_current": 4,
+    "humanity": 6
+  },
+  "merits_flaws": [
+    {
+      "name": "Blasé",
+      "type": "merit",
+      "category": "Mental",
+      "cost": 1,
+      "description": "Disturbing or surreal events rarely provoke visible reactions, aiding in concealment."
+    },
+    {
+      "name": "Subtle Mannerisms",
+      "type": "merit",
+      "category": "Social",
+      "cost": 2,
+      "description": "Can unconsciously mirror posture and tone, reducing suspicion during observation."
+    },
+    {
+      "name": "Blood Bound",
+      "type": "flaw",
+      "category": "Social",
+      "cost": -2,
+      "description": "Utterly loyal to Missfortune through the blood bond."
+    }
+  ],
+  "relationships": [
+    {
+      "related_character_name": "Missfortune",
+      "relationship_type": "Regnant",
+      "relationship_subtype": "Employer",
+      "strength": "Strong",
+      "description": "Absolute loyalty reinforced by blood, trust, and long service."
+    }
+  ],
+  "xp_total": 0,
+  "xp_spent": 0,
+  "xp_available": 0,
+  "blood_pool_current": 1,
+  "blood_pool_maximum": 10,
+  "custom_data": {
+    "character_type": "Ghoul",
+    "regnant": "Missfortune",
+    "regnant_clan": "Malkavian",
+    "location_writeup": {
+      "name": "Dunlap Apartments",
+      "overview": "A modest four-plex near Dunlap Avenue and 32nd Avenue that appears mundane but sits adjacent to a thin place where fae influence bleeds into the mundane world.",
+      "apartments": {
+        "unit_1": "Occupied by Missfortune's mortal herd, carefully screened.",
+        "unit_2": "Secondary herd apartment used intermittently.",
+        "unit_3": "Mrs. Chen's residence and operations hub.",
+        "unit_4": "Malkavian guest apartment featuring an upside-down room with ceiling-mounted furniture and funhouse mirrors."
+      },
+      "adjacent_park": "A neglected public park behind the property, concealing the Midnight Glade Trod. Mrs. Chen has line-of-sight from her kitchen window.",
+      "fae_activity": "Changelings occasionally gather after midnight. Sounds of distant music, lights without source, and altered moods are common.",
+      "masquerade_risk": "Low, provided Mrs. Chen remains the primary point of contact and cleanup."
+    },
+    "status_details": {
+      "health_levels": 7,
+      "blood_per_turn": 1
+    }
+  }
+}
+
