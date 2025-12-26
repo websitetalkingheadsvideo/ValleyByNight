@@ -99,7 +99,29 @@
         "willpower_current": 5,
         "humanity": 7
     },
-    "merits_flaws": [],
+    "merits_flaws": [
+        {
+            "name": "Calm Heart",
+            "type": "Merit",
+            "category": "Mental",
+            "cost": 3,
+            "description": "His gentle giant nature and high Humanity allow him to resist frenzy more easily, maintaining his composure even in stressful situations."
+        },
+        {
+            "name": "Reputation",
+            "type": "Merit",
+            "category": "Social",
+            "cost": 2,
+            "description": "Known throughout Phoenix as a trusted, high-Humanity Brujah who quietly supports the city's stability, making him highly respected by local Kindred."
+        },
+        {
+            "name": "Soft-Hearted",
+            "type": "Flaw",
+            "category": "Mental",
+            "cost": 1,
+            "description": "His Caregiver nature and high Humanity make it difficult for him to harm innocents or engage in unnecessary violence, sometimes to his tactical disadvantage."
+        }
+    ],
     "coteries": [],
     "relationships": [],
     "rituals": [],

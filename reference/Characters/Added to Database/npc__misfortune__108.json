@@ -103,7 +103,29 @@
         "willpower_current": 7,
         "humanity": 6
     },
-    "merits_flaws": [],
+    "merits_flaws": [
+        {
+            "name": "Iron Will",
+            "type": "Merit",
+            "category": "Mental",
+            "cost": 3,
+            "description": "His century of experience manipulating Kindred society through boons and secrets has forged an unbreakable will that resists Dominate and mental manipulation."
+        },
+        {
+            "name": "Reputation",
+            "type": "Merit",
+            "category": "Social",
+            "cost": 2,
+            "description": "Known throughout Phoenix as the Primogen who holds everyone's debts, making him a central figure in Kindred politics despite his jester's mask."
+        },
+        {
+            "name": "Derangement: Obsession (Boon Collection)",
+            "type": "Flaw",
+            "category": "Mental",
+            "cost": 2,
+            "description": "His Malkavian madness manifests as an obsessive need to collect and catalog boons, treating social debts like the patent medicine receipts of his mortal days."
+        }
+    ],
     "coteries": [],
     "relationships": [
         {

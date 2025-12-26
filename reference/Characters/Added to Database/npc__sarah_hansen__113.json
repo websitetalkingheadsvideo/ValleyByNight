@@ -4,8 +4,8 @@
     "character_name": "Sarah Hansen",
     "player_name": "NPC",
     "chronicle": "Valley by Night",
-    "nature": "",
-    "demeanor": "",
+    "nature": "Artist",
+    "demeanor": "Confidant",
     "concept": "Haunting chanteuse and nightclub owner whose voice carries supernatural beauty and melancholy.",
     "clan": "Daughter of Cacophony",
     "generation": 9,
@@ -78,7 +78,43 @@
         "willpower_current": 7,
         "humanity": 6
     },
-    "merits_flaws": [],
+    "merits_flaws": [
+        {
+            "name": "Enchanting Voice",
+            "type": "Merit",
+            "category": "Social",
+            "cost": 2,
+            "description": "Her supernatural voice carries emotional resonance that can quiet rooms and stir the Blood itself, making her performances uniquely powerful."
+        },
+        {
+            "name": "Iron Will",
+            "type": "Merit",
+            "category": "Mental",
+            "cost": 3,
+            "description": "Her artistic integrity and prophetic abilities have forged an unbreakable will that resists manipulation and allows her to maintain her independence."
+        },
+        {
+            "name": "Eerie Presence",
+            "type": "Flaw",
+            "category": "Social",
+            "cost": 1,
+            "description": "Her prophetic abilities and the emotional weight of her performances can make others uncomfortable, sensing the deeper truths she channels."
+        },
+        {
+            "name": "Obsession (Perfection in Performance)",
+            "type": "Flaw",
+            "category": "Mental",
+            "cost": 1,
+            "description": "Her drive for artistic perfection can consume her attention, sometimes to the exclusion of other concerns or social obligations."
+        },
+        {
+            "name": "Enemy (Setite Nightclub Rivals)",
+            "type": "Flaw",
+            "category": "Social",
+            "cost": 1,
+            "description": "Her success with The Velvet Door and her opposition to Setite corruption have made her enemies among Setite nightclub operators who see her as competition."
+        }
+    ],
     "coteries": [],
     "relationships": [],
     "rituals": [],

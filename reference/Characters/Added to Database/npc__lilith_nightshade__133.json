@@ -93,7 +93,36 @@
         "willpower_current": 5,
         "humanity": 7
     },
-    "merits_flaws": [],
+    "merits_flaws": [
+        {
+            "name": "Oracular Ability",
+            "type": "Merit",
+            "category": "Supernatural",
+            "cost": 3,
+            "description": "Her Malkavian visions provide accurate, if cryptic, glimpses of future events, making her a terrifying oracle whose prophecies often come true."
+        },
+        {
+            "name": "Iron Will",
+            "type": "Merit",
+            "category": "Mental",
+            "cost": 3,
+            "description": "Her commanding presence and mastery of her prophetic abilities have forged an unbreakable will that resists manipulation and allows her to maintain her elegant composure."
+        },
+        {
+            "name": "Derangement: Haunted by Visions",
+            "type": "Flaw",
+            "category": "Mental",
+            "cost": 2,
+            "description": "Her Malkavian madness manifests as being constantly haunted by prophetic visions that can strike at any moment, overwhelming her with intrusive glimpses of future events."
+        },
+        {
+            "name": "Eerie Presence",
+            "type": "Flaw",
+            "category": "Social",
+            "cost": 1,
+            "description": "Her prophetic intensity and the unsettling nature of her visions can make others uncomfortable, sensing the deeper truths she channels and the weight of what she sees."
+        }
+    ],
     "coteries": [],
     "relationships": [],
     "rituals": [],

@@ -93,7 +93,29 @@
         "willpower_current": 5,
         "humanity": 7
     },
-    "merits_flaws": [],
+    "merits_flaws": [
+        {
+            "name": "Efficient Digestion",
+            "type": "Merit",
+            "category": "Physical",
+            "cost": 3,
+            "description": "His refined palate and understanding of emotional resonance allows him to extract more sustenance from blood, gaining additional benefits from feeding."
+        },
+        {
+            "name": "Reputation",
+            "type": "Merit",
+            "category": "Social",
+            "cost": 2,
+            "description": "Known throughout Phoenix's Kindred society as a master of emotional space design and a reliable contact for controlled venues."
+        },
+        {
+            "name": "Enemy (Setites)",
+            "type": "Flaw",
+            "category": "Social",
+            "cost": 2,
+            "description": "Quietly opposed to Setite cultural expansion, which has made him enemies among the Followers of Set who see his venues as obstacles to their corruption."
+        }
+    ],
     "coteries": [],
     "relationships": [],
     "rituals": [],

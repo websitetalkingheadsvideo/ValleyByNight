@@ -112,7 +112,36 @@
         "willpower_current": 6,
         "humanity": 3
     },
-    "merits_flaws": [],
+    "merits_flaws": [
+        {
+            "name": "Iron Will",
+            "type": "Merit",
+            "category": "Mental",
+            "cost": 3,
+            "description": "His calm, methodical approach to ritualized murder demonstrates an unbreakable will that allows him to maintain composure even during the most disturbing acts."
+        },
+        {
+            "name": "Efficient Digestion",
+            "type": "Merit",
+            "category": "Physical",
+            "cost": 3,
+            "description": "His understanding of death and the moment of transition allows him to extract maximum sustenance from his victims, particularly those in states of grief."
+        },
+        {
+            "name": "Derangement: Obsession (Death Patterns)",
+            "type": "Flaw",
+            "category": "Mental",
+            "cost": 2,
+            "description": "His Malkavian madness manifests as an obsessive need to document and preserve 'quiet moments of grief,' driving him to commit ritualized murders."
+        },
+        {
+            "name": "Dark Secret",
+            "type": "Flaw",
+            "category": "Social",
+            "cost": 1,
+            "description": "If his serial killings are discovered, he would face immediate execution by the Camarilla. He must maintain absolute secrecy about his true activities."
+        }
+    ],
     "coteries": [],
     "relationships": [],
     "rituals": [],

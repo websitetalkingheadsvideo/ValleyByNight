@@ -55,7 +55,29 @@
         "willpower_current": 5,
         "humanity": 7
     },
-    "merits_flaws": [],
+    "merits_flaws": [
+        {
+            "name": "Iron Will",
+            "type": "Merit",
+            "category": "Mental",
+            "cost": 3,
+            "description": "Her corporate training and resistance leadership have forged an unbreakable will that resists manipulation and intimidation."
+        },
+        {
+            "name": "Danger Sense",
+            "type": "Merit",
+            "category": "Supernatural",
+            "cost": 2,
+            "description": "Years of operating in the shadows have given her an almost preternatural ability to sense threats and read dangerous situations."
+        },
+        {
+            "name": "Hunted",
+            "type": "Flaw",
+            "category": "Supernatural",
+            "cost": 4,
+            "description": "As a corporate defector and resistance leader, she is actively hunted by both her former employers and supernatural enemies who see her as a threat."
+        }
+    ],
     "coteries": [],
     "relationships": [],
     "rituals": [],

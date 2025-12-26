@@ -95,7 +95,29 @@
         "willpower_current": 5,
         "humanity": 7
     },
-    "merits_flaws": [],
+    "merits_flaws": [
+        {
+            "name": "Iron Will",
+            "type": "Merit",
+            "category": "Mental",
+            "cost": 3,
+            "description": "His decades of survival through war, political upheaval, and Kindred politics have forged an unbreakable will that resists manipulation and intimidation."
+        },
+        {
+            "name": "Reputation",
+            "type": "Merit",
+            "category": "Social",
+            "cost": 2,
+            "description": "Known throughout Phoenix as 'The Silent Authority of the Bunker'—a Nosferatu Primogen whose power derives from knowledge and strategic silence."
+        },
+        {
+            "name": "Hideous",
+            "type": "Flaw",
+            "category": "Physical",
+            "cost": 2,
+            "description": "The Nosferatu curse has marked him severely, making social interactions with mortals extremely difficult and requiring Obfuscate or isolation to function."
+        }
+    ],
     "coteries": [],
     "relationships": [],
     "rituals": [],
