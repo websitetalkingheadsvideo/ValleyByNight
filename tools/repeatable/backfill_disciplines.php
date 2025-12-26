@@ -167,9 +167,9 @@ function extractDisciplinesFromJson(string $filepath, string $target_character_n
         return null;
     }
     
-    // Check if character name matches
-    $file_character_name = $data['character_name'] ?? '';
-    if (!fuzzyMatchNames($file_character_name, $target_character_name)) {
+    // Check if character name matches (try both 'character_name' and 'name' fields)
+    $file_character_name = $data['character_name'] ?? $data['name'] ?? '';
+    if (empty($file_character_name) || !fuzzyMatchNames($file_character_name, $target_character_name)) {
         return null;
     }
     
@@ -181,14 +181,21 @@ function extractDisciplinesFromJson(string $filepath, string $target_character_n
     $disciplines = $data['disciplines'];
     $result = [];
     
-    // Format 1: Array of strings ["Auspex 5", "Dominate 3"]
+    // Format 1: Array of strings ["Auspex 5", "Dominate 3"] or ["Serpentis", "Presence"] (without levels)
     if (is_array($disciplines) && isset($disciplines[0]) && is_string($disciplines[0])) {
         foreach ($disciplines as $discStr) {
+            // Try to parse "Discipline Name X" format
             if (preg_match('/^(.+?)\s+(\d+)$/', $discStr, $matches)) {
                 $name = cleanString($matches[1]);
                 $level = cleanInt($matches[2]);
                 $level = max(1, min(5, $level));
                 $result[] = ['name' => $name, 'level' => $level];
+            } else {
+                // Just discipline name without level - default to level 1
+                $name = cleanString($discStr);
+                if (!empty($name)) {
+                    $result[] = ['name' => $name, 'level' => 1];
+                }
             }
         }
     }
@@ -233,23 +240,39 @@ function searchDisciplinesInJsonFiles(string $project_root, string $character_na
             continue;
         }
         
-        $iterator = new RecursiveIteratorIterator(
-            new RecursiveDirectoryIterator($dir, RecursiveDirectoryIterator::SKIP_DOTS),
-            RecursiveIteratorIterator::SELF_FIRST
-        );
-        
-        foreach ($iterator as $file) {
-            if ($file->isFile() && $file->getExtension() === 'json') {
-                $filepath = $file->getPathname();
-                $disciplines = extractDisciplinesFromJson($filepath, $character_name);
-                
-                if ($disciplines !== null && !empty($disciplines)) {
-                    return [
-                        'source_file' => $filepath,
-                        'disciplines' => $disciplines
-                    ];
+        try {
+            $iterator = new RecursiveIteratorIterator(
+                new RecursiveDirectoryIterator($dir, RecursiveDirectoryIterator::SKIP_DOTS),
+                RecursiveIteratorIterator::SELF_FIRST
+            );
+            
+            foreach ($iterator as $file) {
+                if ($file->isFile() && $file->getExtension() === 'json') {
+                    try {
+                        $filepath = $file->getPathname();
+                        $disciplines = extractDisciplinesFromJson($filepath, $character_name);
+                        
+                        if ($disciplines !== null && !empty($disciplines)) {
+                            return [
+                                'source_file' => $filepath,
+                                'disciplines' => $disciplines
+                            ];
+                        }
+                    } catch (Exception $e) {
+                        // Skip files that cause errors
+                        continue;
+                    } catch (Error $e) {
+                        // Skip files that cause fatal errors
+                        continue;
+                    }
                 }
             }
+        } catch (Exception $e) {
+            // Skip directories that cause errors
+            continue;
+        } catch (Error $e) {
+            // Skip directories that cause fatal errors
+            continue;
         }
     }
     
