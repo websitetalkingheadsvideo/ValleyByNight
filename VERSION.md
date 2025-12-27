@@ -1,6 +1,20 @@
 # Version History
 
-## Current Version: 0.8.93
+## Current Version: 0.8.94
+
+**Date:** 2025-01-27  
+**Type:** Patch (Character image management and linking improvements)
+
+### Changes:
+- **Character Image Management** - Comprehensive image linking and restoration
+  - Restored 5 character images from git history (Andrei Radulescu, Bayside Bob, Sofia Alvarez, Lucien Marchand, James Whitmore)
+  - Fixed database image links for 8 characters (switched from hash-based to character name filenames)
+  - Linked 2 previously missing images (Phreak, Dr. Margaret Ashford)
+  - Renamed file to fix typo: "Dr Margaret Ashfold.png" → "Dr. Margaret Ashford.png"
+  - Achieved 100% character image coverage (169/169 characters have linked images)
+  - Updated image filenames in database to match actual file names for better maintainability
+
+## Previous Version: 0.8.93
 
 **Date:** 2025-01-30  
 **Type:** Patch (Ghoul clan field standardization and NPC player name fixes)
