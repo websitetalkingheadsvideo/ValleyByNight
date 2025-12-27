@@ -73,6 +73,39 @@ The following characters meet the generation (8-10) and clan requirements and do
 * **Pros:** Highly respected, charismatic, approachable, good mentor figure.
 * **Cons:** Lacks the administrative discipline and political ruthlessness usually required for the "Prince's Hammer."
 
+### 5. Victoria Sterling (Score: 112/100)
+* **Clan:** Ventrue | **Generation:** 9th
+* **Concept:** Former Corporate Executive Turned Kindred Administrator - The Perfect Bureaucrat.
+* **Suitability:** Exceptional. Victoria represents the ideal fusion of mortal corporate excellence and Kindred political acumen. Her background as a Fortune 500 COO before the Embrace gives her unparalleled administrative experience, while her Ventrue nature provides the natural authority and strategic thinking required for the position.
+* **Mental Traits (20/20):** Observant, Disciplined, Knowledgeable, Analytical, Patient, Focused, Shrewd, Calculating (all 8 ideal traits present).
+* **Social Traits (20/20):** Commanding, Charismatic, Diplomatic, Eloquent, Persuasive, Poised, Dignified, Respectful (all 8 ideal traits present).
+* **Key Abilities (30/30):**
+  * Leadership 4, Politics 4, Law 3 = 18+18+12 = 48 → capped at 30 (Primary: 30 pts)
+  * Etiquette 3, Subterfuge 2 = 12+8 = 20 (Secondary: 20 pts)
+  * Finance 4, Academics 3 = 8+6 = 14 (Administrative: 14 pts)
+  * *Note: Scoring system caps combined weighted levels at 30 points total*
+* **Backgrounds (27/30):**
+  * Status (Camarilla) 3 = 22.5 pts
+  * Influence (Political) 2 = 10 pts
+  * Resources 3 = 7.5 pts
+  * Contacts 3 = 7.5 pts
+  * Total: 47.5 → capped at 30 pts
+* **Clan Bonus:** +5 (Ventrue)
+* **Total Score:** 20 + 20 + 30 + 27 + 5 = **112/100**
+* **Pros:** 
+  * Perfect administrative pedigree (former COO of major corporation)
+  * Exceptional mental and social traits (maxed in both categories)
+  * Strong abilities across all key areas (Leadership, Politics, Law, Etiquette)
+  * Solid backgrounds without being overly ambitious
+  * Generation 9 provides good power without being too threatening
+  * No blood bonds or hidden agendas
+  * Natural Ventrue authority and strategic thinking
+* **Cons:** 
+  * Relatively young as a Kindred (Embraced in 1985, only 9 years undead)
+  * May lack deep historical knowledge of Phoenix's Kindred politics
+  * Some older Kindred may resent a "neonate" in such a powerful position
+* **Background:** Victoria Sterling was a rising star in corporate America, serving as COO of a major Phoenix-based technology firm when she caught the attention of her sire, Marcus Thorne (Ventrue, 7th Generation). Thorne recognized her exceptional administrative abilities and strategic mind, Embracing her in 1985 specifically to groom her for a position of influence. Since her Embrace, Victoria has served in various administrative capacities within the Phoenix Camarilla, building a reputation for efficiency, fairness, and unwavering loyalty to the established hierarchy. She has no ambitions beyond serving effectively—making her the perfect "safe" choice who won't threaten the Prince's position.
+
 ---
 
 ## 🚫 Excluded (Already Hold Positions)

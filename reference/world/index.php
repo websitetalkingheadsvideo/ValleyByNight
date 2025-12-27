@@ -218,16 +218,25 @@ $path_prefix = '../../';
                 <p class="lead mb-4">
                     Comprehensive reference documentation for the Phoenix, Arizona chronicle setting (1994).
                 </p>
-                <?php if ($is_admin && !empty($available_versions)): ?>
-                <div class="mb-4">
-                    <label for="version-select" class="form-label fw-bold">Version:</label>
-                    <select id="version-select" class="form-select d-inline-block" style="width: auto; min-width: 150px;">
-                        <?php foreach ($available_versions as $version): ?>
-                        <option value="<?php echo htmlspecialchars(formatVersionForFilename($version)); ?>" <?php echo $version === $selected_version ? 'selected' : ''; ?>>
-                            <?php echo htmlspecialchars($version); ?>
-                        </option>
-                        <?php endforeach; ?>
-                    </select>
+                <?php if ($is_admin): ?>
+                <div class="mb-4 d-flex gap-3 align-items-end flex-wrap">
+                    <?php if (!empty($available_versions)): ?>
+                    <div>
+                        <label for="version-select" class="form-label fw-bold">Version:</label>
+                        <select id="version-select" class="form-select d-inline-block" style="width: auto; min-width: 150px;">
+                            <?php foreach ($available_versions as $version): ?>
+                            <option value="<?php echo htmlspecialchars(formatVersionForFilename($version)); ?>" <?php echo $version === $selected_version ? 'selected' : ''; ?>>
+                                <?php echo htmlspecialchars($version); ?>
+                            </option>
+                            <?php endforeach; ?>
+                        </select>
+                    </div>
+                    <?php endif; ?>
+                    <div>
+                        <a href="generate_summaries.php" class="btn btn-primary">
+                            Generate New Summaries
+                        </a>
+                    </div>
                 </div>
                 <?php endif; ?>
             </div>
