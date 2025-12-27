@@ -3518,7 +3518,7 @@ Painting
 
 See the
 
-Reflected for m
+Reflected form
 
 ## Auspex/Thaumaturgy zz
 
@@ -4108,7 +4108,7 @@ Faith &amp; Fire 220
 | Gargoyle Thaumaturgical Rituals - Advanced | Gargoyle Thaumaturgical Rituals - Advanced | zzz Dark Humours | |
 | Transform the Skin to Stone | Faith &Fire 221 | zzzz | Faith &Fire 180 |
 | Heart of Granite | Faith &Fire 221 | Clutching the Shroud | Faith &Fire 180 |
-| Gift of the Immobile for m | Faith &Fire 221 | zzzzz Black Breath | Faith &Fire 180 |
+| Gift of the Immobile form | Faith &Fire 221 | zzzzz Black Breath | Faith &Fire 180 |
 | Koldunic Sorcery - The Way of Sorrow z | Koldunic Sorcery - The Way of Sorrow z | Mortis - The Grave's Decay | |
 | Frustrations of Nestrecha, The Clanbook: Tzimisce, Revised Ed. 64 zz | Frustrations of Nestrecha, The Clanbook: Tzimisce, Revised Ed. 64 zz | z Destroy the Husk | Faith &Fire 173 |
 | Insults of Krivda, The Clanbook: Tzimisce, Revised Ed. 66 zzz | Insults of Krivda, The Clanbook: Tzimisce, Revised Ed. 66 zzz | zz Rigor Mortis zzz | Faith &Fire 173 |
@@ -4547,7 +4547,7 @@ Black Metamorphosis
 
 Laws of the Night 165 zzzzz
 
-Tenebrous for m
+Tenebrous form
 
 Laws of the Night 165 zzzzz
 
@@ -4847,7 +4847,7 @@ Laws of the Night: Camarilla Guide 66 Laws of the Night: Camarilla Guide 67 Laws
 
 Spectral Body Turnabout zzzzz zzz
 
-Mythic for m Purify the Impaled Beast
+Mythic form Purify the Impaled Beast
 
 Clanbook: Gangrel, Revised Ed. 71
 
@@ -4969,7 +4969,7 @@ Laws of the Night 173 zzz
 
 Skin of the Adder, The
 
-Laws of the Night 173 zzzz for m of the Cobra, The
+Laws of the Night 173 zzzz form of the Cobra, The
 
 Laws of the Night 173 zzzzz
 
@@ -5215,7 +5215,7 @@ Animate the Unmoving
 
 Laws of the Night: Camarilla Guide 77 zzzz
 
-Elemental for m
+Elemental form
 
 Laws of the Night: Camarilla Guide 77 zzzzz
 
@@ -5449,7 +5449,7 @@ The with ering of Ages Laws of the Night: Storyteller Guide 58
 
 ## Thaumaturgy - The Path of Conjuring z
 
-Summon the Simple for m
+Summon the Simple form
 
 Laws of the Night 182 zz
 
@@ -5645,13 +5645,13 @@ Laws of the Night: Camarilla Guide 88
 
 ## Thaumaturgy - Path of Transmutation z for tify the Solid for m Laws of the Night: Storyteller Guide 60 zz
 
-Crystalize the Liquid for m
+Crystalize the Liquid form
 
 Laws of the Night: Storyteller Guide 60
 
 ## zzz
 
-Liquefy the Solid for m Laws of the Night: Storyteller Guide 60 zzzz
+Liquefy the Solid form Laws of the Night: Storyteller Guide 60 zzzz
 
 Gaol
 
@@ -6077,7 +6077,7 @@ Guide
 
 Stone of the
 
-True for m
+True form
 
 Laws of the
 
@@ -6263,7 +6263,7 @@ Bonecraft
 
 Laws of the Night 189 zzzz
 
-Horrid for m
+Horrid form
 
 Laws of the Night 189 zzzzz
 
