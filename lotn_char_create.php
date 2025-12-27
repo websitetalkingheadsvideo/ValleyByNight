@@ -20,6 +20,34 @@ if (!isset($_SESSION['user_id'])) {
 
 // Database connection
 include 'includes/connect.php';
+
+// Fetch Nature/Demeanor options from database
+$nature_demeanor_options = [];
+$fallback_options = [
+    'Architect', 'Autist', 'Bon Vivant', 'Bravo', 'Caregiver', 'Capitalist',
+    'Competitor', 'Conformist', 'Conniver', 'Curmudgeon', 'Deviant', 'Director',
+    'Fanatic', 'Gallant', 'Judge', 'Loner', 'Martyr', 'Masochist', 'Monster',
+    'Pedagogue', 'Penitent', 'Perfectionist', 'Rebel', 'Rogue', 'Survivor',
+    'Thrill-Seeker', 'Traditionalist', 'Visionary'
+];
+
+if ($conn) {
+    $query = "SELECT name FROM Nature_Demeanor ORDER BY display_order";
+    $result = mysqli_query($conn, $query);
+    
+    if ($result && mysqli_num_rows($result) > 0) {
+        while ($row = mysqli_fetch_assoc($result)) {
+            $nature_demeanor_options[] = $row['name'];
+        }
+        mysqli_free_result($result);
+    } else {
+        // Fallback to hardcoded list if table doesn't exist or is empty
+        $nature_demeanor_options = $fallback_options;
+    }
+} else {
+    // Fallback if database connection fails
+    $nature_demeanor_options = $fallback_options;
+}
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -84,34 +112,9 @@ include 'includes/connect.php';
                         <label for="nature">Nature *</label>
                         <select id="nature" name="nature" required>
                             <option value="">Select Nature...</option>
-                            <option value="Architect">Architect</option>
-                            <option value="Autist">Autist</option>
-                            <option value="Bon Vivant">Bon Vivant</option>
-                            <option value="Bravo">Bravo</option>
-                            <option value="Caregiver">Caregiver</option>
-                            <option value="Capitalist">Capitalist</option>
-                            <option value="Competitor">Competitor</option>
-                            <option value="Conformist">Conformist</option>
-                            <option value="Conniver">Conniver</option>
-                            <option value="Curmudgeon">Curmudgeon</option>
-                            <option value="Deviant">Deviant</option>
-                            <option value="Director">Director</option>
-                            <option value="Fanatic">Fanatic</option>
-                            <option value="Gallant">Gallant</option>
-                            <option value="Judge">Judge</option>
-                            <option value="Loner">Loner</option>
-                            <option value="Martyr">Martyr</option>
-                            <option value="Masochist">Masochist</option>
-                            <option value="Monster">Monster</option>
-                            <option value="Pedagogue">Pedagogue</option>
-                            <option value="Penitent">Penitent</option>
-                            <option value="Perfectionist">Perfectionist</option>
-                            <option value="Rebel">Rebel</option>
-                            <option value="Rogue">Rogue</option>
-                            <option value="Survivor">Survivor</option>
-                            <option value="Thrill-Seeker">Thrill-Seeker</option>
-                            <option value="Traditionalist">Traditionalist</option>
-                            <option value="Visionary">Visionary</option>
+                            <?php foreach ($nature_demeanor_options as $option): ?>
+                                <option value="<?php echo htmlspecialchars($option, ENT_QUOTES, 'UTF-8'); ?>"><?php echo htmlspecialchars($option, ENT_QUOTES, 'UTF-8'); ?></option>
+                            <?php endforeach; ?>
                         </select>
                         <div class="helper-text">True personality</div>
                     </div>
@@ -120,34 +123,9 @@ include 'includes/connect.php';
                         <label for="demeanor">Demeanor *</label>
                         <select id="demeanor" name="demeanor" required>
                             <option value="">Select Demeanor...</option>
-                            <option value="Architect">Architect</option>
-                            <option value="Autist">Autist</option>
-                            <option value="Bon Vivant">Bon Vivant</option>
-                            <option value="Bravo">Bravo</option>
-                            <option value="Caregiver">Caregiver</option>
-                            <option value="Capitalist">Capitalist</option>
-                            <option value="Competitor">Competitor</option>
-                            <option value="Conformist">Conformist</option>
-                            <option value="Conniver">Conniver</option>
-                            <option value="Curmudgeon">Curmudgeon</option>
-                            <option value="Deviant">Deviant</option>
-                            <option value="Director">Director</option>
-                            <option value="Fanatic">Fanatic</option>
-                            <option value="Gallant">Gallant</option>
-                            <option value="Judge">Judge</option>
-                            <option value="Loner">Loner</option>
-                            <option value="Martyr">Martyr</option>
-                            <option value="Masochist">Masochist</option>
-                            <option value="Monster">Monster</option>
-                            <option value="Pedagogue">Pedagogue</option>
-                            <option value="Penitent">Penitent</option>
-                            <option value="Perfectionist">Perfectionist</option>
-                            <option value="Rebel">Rebel</option>
-                            <option value="Rogue">Rogue</option>
-                            <option value="Survivor">Survivor</option>
-                            <option value="Thrill-Seeker">Thrill-Seeker</option>
-                            <option value="Traditionalist">Traditionalist</option>
-                            <option value="Visionary">Visionary</option>
+                            <?php foreach ($nature_demeanor_options as $option): ?>
+                                <option value="<?php echo htmlspecialchars($option, ENT_QUOTES, 'UTF-8'); ?>"><?php echo htmlspecialchars($option, ENT_QUOTES, 'UTF-8'); ?></option>
+                            <?php endforeach; ?>
                         </select>
                         <div class="helper-text">Public personality</div>
                     </div>
