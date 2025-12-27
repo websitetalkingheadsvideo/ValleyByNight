@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.8.96
+## Current Version: 0.8.97
+
+**Date:** 2025-01-30  
+**Type:** Patch (Victoria Sterling character updates)
+
+## Previous Version: 0.8.96
 
 **Date:** 2025-01-27  
 **Type:** Patch (Advanced spacing detection and concatenated word fixes)
@@ -14,6 +19,13 @@
   - Improved handling of 1-character words (a, i) in middle positions of concatenated words
   - Processed 44 reference markdown files with enhanced detection
   - Script now catches concatenated words that pattern-based approach might miss
+
+### Changes:
+- **Victoria Sterling Character Updates** - Updated character data and documentation
+  - Changed player_name from "ST/NPC" to "NPC" for Victoria Sterling in JSON file
+  - Expanded Victoria Sterling's appearance with detailed physical description paragraph
+  - Updated character.json.documentation.md to use "NPC" instead of "ST/NPC" in examples
+  - Created database update scripts for appearance and player_name fixes
 
 ## Previous Version: 0.8.95
 

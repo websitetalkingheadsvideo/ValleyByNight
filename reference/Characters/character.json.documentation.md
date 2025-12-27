@@ -9,8 +9,8 @@ This document provides detailed explanations for all fields in the `character.js
 - Example: `"Bayside Bob"`, `"Sarah Hansen"`
 
 ### `player_name` (STRING, REQUIRED)
-- Player's name or "ST/NPC" for Storyteller-controlled characters
-- Example: `"Player Name"`, `"ST/NPC"`, `"NPC"`
+- Player's name or "NPC" for Storyteller-controlled characters
+- Example: `"Player Name"`, `"NPC"`
 
 ### `chronicle` (STRING, REQUIRED)
 - Campaign/chronicle name
