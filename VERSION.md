@@ -1,6 +1,26 @@
 # Version History
 
-## Current Version: 0.8.99
+## Current Version: 0.9.0
+
+**Date:** 2025-01-30  
+**Type:** Minor (Nature/Demeanor database lookup table and character creation form updates)
+
+### Changes:
+- **Nature/Demeanor Database Lookup Table** - Created database-driven lookup system for character archetypes
+  - Created `Nature_Demeanor` database table with 28 archetype options
+  - Added migration script `database/create_nature_demeanor_table.php` with full data seeding
+  - Table includes id, name, display_order, description, and timestamps
+  - All 28 Nature/Demeanor archetypes properly indexed and ordered
+- **Character Creation Form Updates** - Replaced hardcoded dropdowns with database queries
+  - Updated `lotn_char_create.php` to query `Nature_Demeanor` table dynamically
+  - Both Nature and Demeanor dropdowns now populate from database
+  - Added fallback to hardcoded list if database query fails
+  - Reduced code duplication (net -22 lines) by eliminating duplicate option lists
+- **Documentation** - Formatted Reward currency markdown document
+  - Added proper markdown structure with headings, lists, and code blocks
+  - Improved readability and organization of reward system documentation
+
+## Previous Version: 0.8.99
 
 **Date:** 2025-01-30  
 **Type:** Patch (Scene documentation formatting and canon rules)
