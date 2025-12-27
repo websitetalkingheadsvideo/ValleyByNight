@@ -1,9 +1,23 @@
 # Version History
 
-## Current Version: 0.8.97
+## Current Version: 0.8.98
+
+**Date:** 2025-01-30  
+**Type:** Patch (Character image updates and scene formatting)
+
+## Previous Version: 0.8.97
 
 **Date:** 2025-01-30  
 **Type:** Patch (Victoria Sterling character updates)
+
+### Changes:
+- **Character Image and Scene Updates** - Added character images and improved scene documentation
+  - Added Victoria Sterling.png character image to uploads/characters
+  - Updated Victoria Sterling JSON with character_image field
+  - Created database script to update character images
+  - Fixed encoding issues and reformatted "The Prince Beneath the Dust" scene teaser
+  - Formatted "Fetch the Keeper" PC scene with proper markdown structure
+  - Added new scene teaser files and character intro documentation
 
 ## Previous Version: 0.8.96
 
