@@ -1,7 +1,7 @@
 As an expert in *Laws of the Night Revised* and a master storyteller, analyze all available data and context in the **VbN project** related to the characters game world **Valley by Night** which is set in the **World of Darkness** Universe. Goal is to find all the characters missing abilities and give them abilities that logically come from their history, disciplines, traits and so on
 
 Your task:
-Create a fully developed **appearance** for each character that fits perfectly within the tone, lore, and structure of the Valley by Night chronicle.
+Create a fully developed **appearance** for this character that fits perfectly within the tone, lore, and structure of the Valley by Night chronicle.
 
 Guidelines:
 - Maintain adherence to *Laws of the Night Revised* tone, character archetypes, and terminology.
