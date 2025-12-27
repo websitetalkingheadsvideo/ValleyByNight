@@ -1,9 +1,20 @@
 # Version History
 
-## Current Version: 0.8.98
+## Current Version: 0.8.99
+
+**Date:** 2025-01-30  
+**Type:** Patch (Scene documentation formatting and canon rules)
+
+## Previous Version: 0.8.98
 
 **Date:** 2025-01-30  
 **Type:** Patch (Character image updates and scene formatting)
+
+### Changes:
+- **Scene Documentation Formatting** - Improved markdown formatting and organization
+  - Reformatted "Canon Rule: Abilities & Traits" document with proper markdown structure
+  - Renamed "Fetch the Keeper.md" to "1-1-Fetch the Keeper.md" for better organization
+  - Added proper headers, lists, and formatting to canon rules documentation
 
 ## Previous Version: 0.8.97
 
