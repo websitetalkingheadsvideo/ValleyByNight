@@ -1,6 +1,20 @@
 # Version History
 
-## Current Version: 0.8.94
+## Current Version: 0.8.95
+
+**Date:** 2025-01-27  
+**Type:** Patch (Reference book spacing fixes)
+
+### Changes:
+- **Reference Book Spacing Fixes** - Fixed spacing issues in markdown reference books
+  - Created automated script to fix spacing problems in 44 reference markdown files
+  - Fixed missing spaces after punctuation (semicolons, colons, commas, periods)
+  - Corrected concatenated phrases (e.g., "onasuccessfulattack" → "on a successful attack")
+  - Fixed common game terminology spacing issues
+  - Preserved markdown formatting (headers, structure intact)
+  - Script saved at `tools/repeatable/fix_spacing_issues.php` for future use
+
+## Previous Version: 0.8.94
 
 **Date:** 2025-01-27  
 **Type:** Patch (Character image management and linking improvements)
