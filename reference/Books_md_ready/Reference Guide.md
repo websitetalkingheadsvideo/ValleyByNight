@@ -22,7 +22,7 @@ Laws
 
 Laws of the
 
-Clanbook: Laws of
+clan book: Laws of
 
 Independents
 
@@ -70,7 +70,7 @@ Sabbat
 
 Night: Laws of the
 
-Clanbook: Laws the of
+clan book: Laws the of
 
 Night: Sabbat
 
@@ -128,7 +128,7 @@ Faith of the
 
 Faith or
 
-Bloodline
+blood line
 
 Malkavian
 
@@ -158,9 +158,9 @@ Serpents of the Light
 
 Tlacique
 
-Toreador
+to read or
 
-Toreador Antitribu
+to read or Antitribu
 
 Tremere
 
@@ -214,7 +214,7 @@ Guide
 
 Guide
 
-Bloodline
+blood line
 
 Oprichniki
 
@@ -232,7 +232,7 @@ Camarilla
 
 Clan or
 
-Bloodline
+blood line
 
 Ahrimanes
 
@@ -276,7 +276,7 @@ Lasombra
 
 Lhiannan
 
-Bloodline
+blood line
 
 Bratovitch
 
@@ -368,13 +368,13 @@ Night: Sabbat
 
 Laws of the of the
 
-Night: Clanbook: Laws
+Night: clan book: Laws
 
 Laws the of
 
 Laws of
 
-Clanbook: Laws of the the
+clan book: Laws of the the
 
 Guide
 
@@ -477,7 +477,7 @@ Guide of of the the
 | Strength | | Lithe | Laws of the Night 80 |
 | Brawny | Laws of the Night 80 | Nimble | Laws of the Night 81 |
 | Ferocious | Laws of the Night 80 | Quick | Laws of the Night 81 |
-| Stalwart | Laws of the Night 81 | Stamina | |
+| Stalwart | Laws of the Night 81 | Stamin a | |
 | Tough | Laws of the Night 81 | Deadly | Laws of the Night: Sabbat Guide 62 |
 | Vicious | Laws of the Night: Sabbat Guide 62 | Enduring | Laws of the Night 80 |
 | Wiry | Laws of the Night 81 | Resilient | Laws of the Night 81 |
@@ -1082,7 +1082,7 @@ Etiquette
 
 Expression
 
-Finance
+Fin ance
 
 Firearms
 
@@ -1502,7 +1502,7 @@ Sabbat
 
 Guide
 
-Background all ies
+back ground all ies
 
 Contacts do main
 
@@ -1518,7 +1518,7 @@ Church
 
 Court
 
-Finance
+Fin ance
 
 Health
 
@@ -1580,7 +1580,7 @@ Page
 
 Number
 
-Background of the
+back ground of the
 
 Laws the of
 
@@ -1672,7 +1672,7 @@ Street
 
 Transportation
 
-Underworld
+under world
 
 University
 
@@ -1982,7 +1982,7 @@ Contagious
 
 Controllable Night Sight
 
-Clanbook: ## Roads
+clan book: ## Roads
 
 Number
 
@@ -2032,7 +2032,7 @@ Night the the the
 
 Night of
 
-Tzimisce, Clanbook: Nosferatu, Clanbook: Laws the of
+Tzimisce, clan book: Nosferatu, clan book: Laws the of
 
 Revised
 
@@ -2052,7 +2052,7 @@ Elysium of
 
 Night: Camarilla
 
-Clanbook: Clanbook: Guide
+clan book: clan book: Guide
 
 Malkavian, Revised
 
@@ -2078,7 +2078,7 @@ Night
 
 Night: the of
 
-Clanbook: Guide
+clan book: Guide
 
 Camarilla
 
@@ -2138,7 +2138,7 @@ Night
 
 Night: of of the
 
-Clanbook: Guide
+clan book: Guide
 
 Camarilla
 
@@ -2156,7 +2156,7 @@ Laws
 
 Ed. of
 
-Clanbook: Night the
+clan book: Night the
 
 Giovanni, Revised
 
@@ -2166,7 +2166,7 @@ Ed. of
 
 Night the
 
-Tzimisce, Clanbook: Clanbook: Nosferatu, Clanbook: Lasombra, Revised
+Tzimisce, clan book: clan book: Nosferatu, clan book: Lasombra, Revised
 
 Revised
 
@@ -2176,7 +2176,7 @@ Ed. Ed. Ed. Merit or Flaw (value) Crusader 1 Cursed -1 to -5 Danger Sense 3 Dare
 
 Title
 
-&amp; Clanbook: Page
+&amp; clan book: Page
 
 Faith
 
@@ -2210,7 +2210,7 @@ Laws
 
 Laws of
 
-Clanbook: Fire
+clan book: Fire
 
 Night
 
@@ -2254,7 +2254,7 @@ Laws of the of the
 
 Faith
 
-Clanbook: Night
+clan book: Night
 
 Guide
 
@@ -2270,7 +2270,7 @@ Malkavian, Revised
 
 Laws of
 
-Clanbook: Clanbook: Tremere, Ed. the
+clan book: clan book: Tremere, Ed. the
 
 Night
 
@@ -2282,7 +2282,7 @@ Ed. Revised
 
 Night: Camarilla the
 
-Clanbook: Brujah, Laws
+clan book: Brujah, Laws
 
 Ed. Guide
 
@@ -2302,7 +2302,7 @@ Night the of of
 
 Laws of
 
-Clanbook: Night
+clan book: Night
 
 Night the the the
 
@@ -2312,7 +2312,7 @@ Revised
 
 Tremere, Laws of
 
-Clanbook: Ed. the
+clan book: Ed. the
 
 Night
 
@@ -2326,7 +2326,7 @@ Elysium
 
 Laws of
 
-Nosferatu, Clanbook: Laws of
+Nosferatu, clan book: Laws of
 
 Laws of the
 
@@ -2354,7 +2354,7 @@ Flesh of the Corpse -5 Flashbacks -6 Foul Blood 3 Fourteenth Generation Friendly
 
 ## Title &amp; Page Number
 
-Laws of the Night 115 Laws of the Night: Sabbat Guide 73 Clanbook: Nosferatu, Revised Ed. 71 Laws of the Night 114 Laws of the Night: Camarilla Guide 24 Clanbook: Nosferatu, Revised Ed. 71 Laws of the Night: Camarilla Guide 25 Laws of the Night 121 Laws of the Night: Camarilla Guide 25 Laws of the Night 113 Faith &amp; Fire 138 Laws of the Night 121 Clanbook: Tzimisce, Revised Ed. 69 Laws of the Night: Camarilla Guide 25 Laws of the Night: Anarch Guide 114 Laws of Elysium 31 Laws of the Night 113 Laws of the Night 119 Clanbook: Malkavian, Revised Ed. 64 Clanbook: Giovanni, Revised Ed. 78 Clanbook: Nosferatu, Revised Ed. 74 Faith &amp; Fire 141 Clanbook: Nosferatu, Revised Ed. 72 Laws of the Night 119 Clanbook: Malkavian, Revised Ed. 66 Laws of the Night 114 Laws of the Night: Sabbat Guide 73 Laws of the Night: Camarilla Guide 26 Laws of the Night 117 Laws of the Night: Sabbat Guide 73 Laws of Elysium 32 Laws of Elysium 34 Laws of the Night 115 Laws of the Night: Sabbat Guide 72 Faith &amp; Fire 135 Laws of the Night 122 Laws of the Night 116 Clanbook: Nosferatu, Revised Ed. 70 Clanbook: Nosferatu, Revised Ed. 70 Laws of the Night: Camarilla Guide 26 Laws of Elysium 32 Laws of the Night 120 Laws of the Night 117 Clanbook: Assamite, Revised Ed. 76 Laws of the Night 119 Laws of Elysium 34
+Laws of the Night 115 Laws of the Night: Sabbat Guide 73 clan book: Nosferatu, Revised Ed. 71 Laws of the Night 114 Laws of the Night: Camarilla Guide 24 clan book: Nosferatu, Revised Ed. 71 Laws of the Night: Camarilla Guide 25 Laws of the Night 121 Laws of the Night: Camarilla Guide 25 Laws of the Night 113 Faith &amp; Fire 138 Laws of the Night 121 clan book: Tzimisce, Revised Ed. 69 Laws of the Night: Camarilla Guide 25 Laws of the Night: Anarch Guide 114 Laws of Elysium 31 Laws of the Night 113 Laws of the Night 119 clan book: Malkavian, Revised Ed. 64 clan book: Giovanni, Revised Ed. 78 clan book: Nosferatu, Revised Ed. 74 Faith &amp; Fire 141 clan book: Nosferatu, Revised Ed. 72 Laws of the Night 119 clan book: Malkavian, Revised Ed. 66 Laws of the Night 114 Laws of the Night: Sabbat Guide 73 Laws of the Night: Camarilla Guide 26 Laws of the Night 117 Laws of the Night: Sabbat Guide 73 Laws of Elysium 32 Laws of Elysium 34 Laws of the Night 115 Laws of the Night: Sabbat Guide 72 Faith &amp; Fire 135 Laws of the Night 122 Laws of the Night 116 clan book: Nosferatu, Revised Ed. 70 clan book: Nosferatu, Revised Ed. 70 Laws of the Night: Camarilla Guide 26 Laws of Elysium 32 Laws of the Night 120 Laws of the Night 117 clan book: Assamite, Revised Ed. 76 Laws of the Night 119 Laws of Elysium 34
 
 Merit or
 
@@ -2366,7 +2366,7 @@ Medium 2 Mistaken Identity -1 Monstrous -3 Mute -4 Natural Leader 1 Natural Ling
 
 ## Title &amp; Page Number
 
-Laws of the Night 120 Laws of the Night 119 Laws of the Night 115 Laws of the Night 115 Laws of the Night 118 Laws of the Night 116 Clanbook: Nosferatu, Revised Ed. 73 Laws of the Night 117 Laws of the Night 120 Clanbook: Brujah, Revised Ed. 69 Laws of the Night 114 Laws of the Night 120 Clanbook: Nosferatu, Revised Ed. 70 Clanbook: Tzimisce, Revised Ed. 69 Laws of Elysium 32 Clanbook: Ventrue, Revised Ed. 77 Clanbook: Nosferatu, Revised Ed. 73 Clanbook: Nosferatu, Revised Ed. 72 Clanbook: Lasombra, Revised Ed. 64 Laws of the Night: Camarilla Guide 25 Laws of the Night 115 Laws of the Night: Anarch Guide 114 Laws of the Night 117 Clanbook: Nosferatu, Revised Ed. 71 Faith &amp; Fire 140 Clanbook: Lasombra, Revised Ed. 64 Laws of Elysium 32 Laws of Elysium 33 Laws of Elysium 32 Laws of the Night 118 Laws of the Night 117 Laws of the Night 119 Clanbook: Nosferatu, Revised Ed. 71 Clanbook: Giovanni, Revised Ed. 77 Clanbook: Nosferatu, Revised Ed. 74 Faith &amp; Fire 135 Laws of the Night: Anarch Guide 114 Laws of Elysium 34 Faith &amp; Fire 139 Laws of the Night 121 Clanbook: Nosferatu, Revised Ed. 71 Laws of the Night 121 Clanbook: Tzimisce, Revised Ed. 69 Clanbook: Tzimisce, Revised Ed. 70 Clanbook: Nosferatu, Revised Ed. 72 Laws of the Night: Sabbat Guide 73
+Laws of the Night 120 Laws of the Night 119 Laws of the Night 115 Laws of the Night 115 Laws of the Night 118 Laws of the Night 116 clan book: Nosferatu, Revised Ed. 73 Laws of the Night 117 Laws of the Night 120 clan book: Brujah, Revised Ed. 69 Laws of the Night 114 Laws of the Night 120 clan book: Nosferatu, Revised Ed. 70 clan book: Tzimisce, Revised Ed. 69 Laws of Elysium 32 clan book: Ventrue, Revised Ed. 77 clan book: Nosferatu, Revised Ed. 73 clan book: Nosferatu, Revised Ed. 72 clan book: Lasombra, Revised Ed. 64 Laws of the Night: Camarilla Guide 25 Laws of the Night 115 Laws of the Night: Anarch Guide 114 Laws of the Night 117 clan book: Nosferatu, Revised Ed. 71 Faith &amp; Fire 140 clan book: Lasombra, Revised Ed. 64 Laws of Elysium 32 Laws of Elysium 33 Laws of Elysium 32 Laws of the Night 118 Laws of the Night 117 Laws of the Night 119 clan book: Nosferatu, Revised Ed. 71 clan book: Giovanni, Revised Ed. 77 clan book: Nosferatu, Revised Ed. 74 Faith &amp; Fire 135 Laws of the Night: Anarch Guide 114 Laws of Elysium 34 Faith &amp; Fire 139 Laws of the Night 121 clan book: Nosferatu, Revised Ed. 71 Laws of the Night 121 clan book: Tzimisce, Revised Ed. 69 clan book: Tzimisce, Revised Ed. 70 clan book: Nosferatu, Revised Ed. 72 Laws of the Night: Sabbat Guide 73
 
 Merit
 
@@ -2456,7 +2456,7 @@ Melancholia
 
 Manic-Depression
 
-Clanbook: Clanbook: Clanbook: the the the the the the the
+clan book: clan book: clan book: the the the the the the the
 
 Title
 
@@ -2486,9 +2486,9 @@ Ed. the of of
 
 Laws of
 
-Clanbook: Clanbook: Laws of
+clan book: clan book: Laws of
 
-Clanbook: the the
+clan book: the the
 
 Night
 
@@ -2526,7 +2526,7 @@ Night the
 
 Laws of
 
-Nosferatu, Clanbook: Malkavian, Laws the
+Nosferatu, clan book: Malkavian, Laws the
 
 Night
 
@@ -2534,7 +2534,7 @@ Revised
 
 Ed. Revised the of
 
-Clanbook: Laws of
+clan book: Laws of
 
 Laws
 
@@ -2712,13 +2712,13 @@ Ritual Freak
 
 Saint Vitus's Dance
 
-Sanguinary Animism
+Sanguin ary Animism
 
 Schizophrenia
 
 Visions
 
-Clanbook: &amp; Page
+clan book: &amp; Page
 
 Title
 
@@ -2748,7 +2748,7 @@ Night
 
 Laws of
 
-Nosferatu, Clanbook: Clanbook: the
+Nosferatu, clan book: clan book: the
 
 Night
 
@@ -2764,13 +2764,13 @@ Ed. the
 
 Night of
 
-Clanbook: Assamite, Night the
+clan book: Assamite, Night the
 
 Revised
 
 Laws of
 
-Clanbook: Brujah, Clanbook: Ed. the
+clan book: Brujah, clan book: Ed. the
 
 Night
 
@@ -2796,7 +2796,7 @@ Night: Sabbat the
 
 Laws of
 
-Clanbook: Clanbook: Laws of the
+clan book: clan book: Laws of the
 
 Laws
 
@@ -2900,7 +2900,7 @@ Night
 
 State
 
-Blood Bond
+blood bond
 
 Derangements
 
@@ -3236,7 +3236,7 @@ Night: of the
 
 Camarilla
 
-Clanbook: Tzimisce, Clanbook: Guide
+clan book: Tzimisce, clan book: Guide
 
 Revised
 
@@ -3244,7 +3244,7 @@ Gangrel, Laws
 
 Night: of the
 
-Clanbook: Ed. Revised
+clan book: Ed. Revised
 
 Camarilla
 
@@ -3258,17 +3258,17 @@ Camarilla
 
 Laws of the
 
-Night: Clanbook: Ed. Guide
+Night: clan book: Ed. Guide
 
 Camarilla
 
-Gangrel, Clanbook: Guide
+Gangrel, clan book: Guide
 
 Revised
 
 Gangrel, Laws of the
 
-Night: Clanbook: Ed. Revised
+Night: clan book: Ed. Revised
 
 Camarilla
 
@@ -3302,9 +3302,9 @@ Mask of
 
 Cathay
 
-Clanbook: Ravnos, Revised
+clan book: Ravnos, Revised
 
-Ed. Animalism/do minate zzz
+Ed. Animalism/do min ate zzz
 
 / zzz
 
@@ -3342,7 +3342,7 @@ Birth the
 
 Vozhd
 
-Clanbook: Tzimisce, Revised
+clan book: Tzimisce, Revised
 
 Ed. ## Assamite Sorcery - Awakening of the Steel z
 
@@ -3350,7 +3350,7 @@ Confer with the
 
 Blade
 
-Clanbook: Assamite, Revised
+clan book: Assamite, Revised
 
 Ed. zz
 
@@ -3358,7 +3358,7 @@ Grasp of the
 
 Mountain
 
-Clanbook: Assamite, Revised
+clan book: Assamite, Revised
 
 Ed. zzz
 
@@ -3370,7 +3370,7 @@ Steel
 
 Skin
 
-Clanbook: Assamite, Revised
+clan book: Assamite, Revised
 
 Ed. zzzz
 
@@ -3380,7 +3380,7 @@ Razor
 
 Shield
 
-Clanbook: Assamite, Revised
+clan book: Assamite, Revised
 
 Ed. zzzzz
 
@@ -3390,7 +3390,7 @@ True
 
 Flesh
 
-Clanbook: Assamite, Revised
+clan book: Assamite, Revised
 
 Ed. ## Auspex z
 
@@ -3452,11 +3452,11 @@ Laws of the Night 138
 
 Laws of the Night 139
 
-Clanbook: Malkavian, Revised Ed. 60 Laws of the Night: Camarilla Guide 43 Clanbook: Toreador, Revised Ed. 72 Laws of the Night: Camarilla Guide 43 Clanbook: Malkavian, Revised Ed. 60
+clan book: Malkavian, Revised Ed. 60 Laws of the Night: Camarilla Guide 43 clan book: to read or, Revised Ed. 72 Laws of the Night: Camarilla Guide 43 clan book: Malkavian, Revised Ed. 60
 
-Clanbook: Assamite, Revised Ed. 63 Laws of the Night: Camarilla Guide 44
+clan book: Assamite, Revised Ed. 63 Laws of the Night: Camarilla Guide 44
 
-Clanbook: Malkavian, Revised Ed. 60 Laws of the Night: Camarilla Guide 45
+clan book: Malkavian, Revised Ed. 60 Laws of the Night: Camarilla Guide 45
 
 Laws of the Night: Camarilla Guide 46
 
@@ -3470,7 +3470,7 @@ Guardian Vigil
 
 / z z do ubletalk
 
-Clanbook: Toreador, Revised Ed. 75
+clan book: to read or, Revised Ed. 75
 
 Laws of the Night: Anarch Guide 58
 
@@ -3550,7 +3550,7 @@ Laws of the Night 141 zzzzz
 
 Precision
 
-Clanbook: Assamite, Revised Ed. 64 Laws of the Night: Camarilla Guide 46 Faith &amp; Fire 161
+clan book: Assamite, Revised Ed. 64 Laws of the Night: Camarilla Guide 46 Faith &amp; Fire 161
 
 Projectile
 
@@ -3558,7 +3558,7 @@ Quickness zzzzz zz
 
 Flower of Death Stutter - Step
 
-Laws of the Night: Camarilla Guide 47 Clanbook: Brujah, Revised Ed. 68 zzzzz zzz
+Laws of the Night: Camarilla Guide 47 clan book: Brujah, Revised Ed. 68 zzzzz zzz
 
 Zephyr
 
@@ -3572,7 +3572,7 @@ Laws of the Night: Camarilla Guide 48
 
 / zz for ced March
 
-Clanbook: Assamite, Revised Ed. 71 zzz
+clan book: Assamite, Revised Ed. 71 zzz
 
 / zzzzz
 
@@ -3590,7 +3590,7 @@ Sight
 
 Title &amp; Page Number
 
-Clanbook: Ravnos, Revised Ed. 68
+clan book: Ravnos, Revised Ed. 68
 
 Laws
 
@@ -3604,15 +3604,15 @@ Laws of the
 
 Night: Anarch
 
-Clanbook: Toreador, Clanbook: Guide
+clan book: to read or, clan book: Guide
 
 Revised
 
-Gangrel, Clanbook: Tremere, Ed. Revised
+Gangrel, clan book: Tremere, Ed. Revised
 
 Revised
 
-Ed. Ed. Clanbook: Assamite, Revised Ed. 72
+Ed. Ed. clan book: Assamite, Revised Ed. 72
 
 Level &amp; Discipline
 
@@ -3630,7 +3630,7 @@ Retain the Quick Blood
 
 Title &amp; Page Number
 
-Clanbook: Brujah, Revised Ed. 66
+clan book: Brujah, Revised Ed. 66
 
 Laws of the Night: Anarch Guide 61
 
@@ -3660,35 +3660,35 @@ Laws of the Night 143
 
 False Resonance Fatuus Mastery
 
-Clanbook: Ravnos, Revised Ed. 62
+clan book: Ravnos, Revised Ed. 62
 
-Clanbook: Ravnos, Revised Ed. 62
+clan book: Ravnos, Revised Ed. 62
 
 Shared Nightmare
 
-Clanbook: Ravnos, Revised Ed. 63
+clan book: Ravnos, Revised Ed. 63
 
 ## zzzzz zz
 
 Far Fatuus
 
-Clanbook: Ravnos, Revised Ed. 63
+clan book: Ravnos, Revised Ed. 63
 
 Suspension of Disbelief
 
-Clanbook: Ravnos, Revised Ed. 64
+clan book: Ravnos, Revised Ed. 64
 
 ## zzzzz zzz
 
 Occlusion
 
-Clanbook: Ravnos, Revised Ed. 64
+clan book: Ravnos, Revised Ed. 64
 
 ## zzzzz zzzz
 
 Mayaparisatya
 
-Clanbook: Ravnos, Revised Ed. 65
+clan book: Ravnos, Revised Ed. 65
 
 ## Daimoinon z
 
@@ -3812,7 +3812,7 @@ Laws of the Night: Sabbat Guide 104
 
 ## Dark Thaumaturgical Rituals - Basic
 
-| Call for th the Host | Laws of the Night: Sabbat Guide 105 |
+| Call forth the Host | Laws of the Night: Sabbat Guide 105 |
 | Bind the Interloper | Laws of the Night: Sabbat Guide 106 |
 | Curse of Oedipus | Laws of the Night: Sabbat Guide 106 |
 | Video Nefas | Laws of the Night: Sabbat Guide 106 |
@@ -3873,9 +3873,9 @@ Laws of the Night 146
 
 Babble Call, The Lingering Malaise Shattered Mirror
 
-Clanbook: Malkavian, Revised
+clan book: Malkavian, Revised
 
-Ed. Clanbook: Malkavian, Revised
+Ed. clan book: Malkavian, Revised
 
 Ed. Laws of the
 
@@ -3893,11 +3893,11 @@ Guide
 
 Childmind Restructure Sleep of Reason
 
-Clanbook: Malkavian, Revised Ed. 62 Laws of the Night: Sabbat Guide 110 Clanbook: Malkavian, Revised Ed. 63 zzzzz zzz
+clan book: Malkavian, Revised Ed. 62 Laws of the Night: Sabbat Guide 110 clan book: Malkavian, Revised Ed. 63 zzzzz zzz
 
 Deny Personal Scourge
 
-Clanbook: Malkavian, Revised Ed. 63 Laws of the Night: Sabbat Guide 111 zzzzz zzzz
+clan book: Malkavian, Revised Ed. 63 Laws of the Night: Sabbat Guide 111 zzzzz zzzz
 
 Lunatic Eruption
 
@@ -3943,7 +3943,7 @@ Night: Camarilla
 
 Guide
 
-Clanbook: Tremere, Revised Ed. 48 zzzzz zz
+clan book: Tremere, Revised Ed. 48 zzzzz zz
 
 Mass Manipulation Still the Mortal Flesh
 
@@ -3971,7 +3971,7 @@ Laws of the Night: Camarilla Guide 51
 
 ## zzz / zzz
 
-Denial of Aphrodite ʹ s Favor Clanbook: Ventrue, Revised Ed. 77
+Denial of Aphrodite ʹ s Favor clan book: Ventrue, Revised Ed. 77
 
 ## do minate/Obtenebration
 
@@ -3979,7 +3979,7 @@ Denial of Aphrodite ʹ s Favor Clanbook: Ventrue, Revised Ed. 77
 
 Shroud of Absence
 
-Clanbook: Lasombra, Revised Ed. 72
+clan book: Lasombra, Revised Ed. 72
 
 ## do minate/Presence z
 
@@ -3987,7 +3987,7 @@ Clanbook: Lasombra, Revised Ed. 72
 
 Lifesong
 
-Clanbook: Ventrue, Revised Ed. 77
+clan book: Ventrue, Revised Ed. 77
 
 ## for titude z
 
@@ -4025,19 +4025,19 @@ Night: Camarilla
 
 Guide
 
-Clanbook: Gangrel, Revised
+clan book: Gangrel, Revised
 
 Ed. ## zzzzz zz
 
 Curse the Laurel Resilient Mind Shared Strength
 
-Clanbook: Ventrue, Revised Ed. 76 Clanbook: Gangrel, Revised Ed. 65 Laws of the Night: Camarilla Guide 52
+clan book: Ventrue, Revised Ed. 76 clan book: Gangrel, Revised Ed. 65 Laws of the Night: Camarilla Guide 52
 
 ## zzzzz zzz
 
 Adamantine
 
-Laws of the Night: Camarilla Guide 53 Clanbook: Gangrel, Revised Ed. 66
+Laws of the Night: Camarilla Guide 53 clan book: Gangrel, Revised Ed. 66
 
 King of the
 
@@ -4055,7 +4055,7 @@ Laws of the Night: Camarilla Guide 53
 
 Claw Immunity
 
-Clanbook: Gangrel, Revised Ed. 72
+clan book: Gangrel, Revised Ed. 72
 
 ## for titude/Chimerstry zzzz
 
@@ -4063,7 +4063,7 @@ Clanbook: Gangrel, Revised Ed. 72
 
 Sympathetic Agony
 
-Clanbook: Ravnos, Revised Ed. 67
+clan book: Ravnos, Revised Ed. 67
 
 ## for titude or Potence/Presence z
 
@@ -4110,13 +4110,13 @@ Faith &amp; Fire 220
 | Heart of Granite | Faith &Fire 221 | Clutching the Shroud | Faith &Fire 180 |
 | Gift of the Immobile form | Faith &Fire 221 | zzzzz Black Breath | Faith &Fire 180 |
 | Koldunic Sorcery - The Way of Sorrow z | Koldunic Sorcery - The Way of Sorrow z | Mortis - The Grave's Decay | |
-| Frustrations of Nestrecha, The Clanbook: Tzimisce, Revised Ed. 64 zz | Frustrations of Nestrecha, The Clanbook: Tzimisce, Revised Ed. 64 zz | z Destroy the Husk | Faith &Fire 173 |
-| Insults of Krivda, The Clanbook: Tzimisce, Revised Ed. 66 zzz | Insults of Krivda, The Clanbook: Tzimisce, Revised Ed. 66 zzz | zz Rigor Mortis zzz | Faith &Fire 173 |
-| Weeping of Kruchina, The Clanbook: Tzimisce, Revised Ed. 66 zzzz | Weeping of Kruchina, The Clanbook: Tzimisce, Revised Ed. 66 zzzz | with er | Faith &Fire 174 |
-| Misfortune of Chernogolov, The Clanbook: Tzimisce, Revised Ed. 66 | Misfortune of Chernogolov, The Clanbook: Tzimisce, Revised Ed. 66 | zzzz Corrupt the Undead Flesh | Faith &Fire 174 |
-| zzzzz Starvation of Marena, The Clanbook: Tzimisce, Revised Ed. 67 | zzzzz Starvation of Marena, The Clanbook: Tzimisce, Revised Ed. 67 | zzzzz Dissolve the Flesh | Faith &Fire 174 |
+| Frustrations of Nestrecha, The clan book: Tzimisce, Revised Ed. 64 zz | Frustrations of Nestrecha, The clan book: Tzimisce, Revised Ed. 64 zz | z Destroy the Husk | Faith &Fire 173 |
+| Insults of Krivda, The clan book: Tzimisce, Revised Ed. 66 zzz | Insults of Krivda, The clan book: Tzimisce, Revised Ed. 66 zzz | zz Rigor Mortis zzz | Faith &Fire 173 |
+| Weeping of Kruchin a, The clan book: Tzimisce, Revised Ed. 66 zzzz | Weeping of Kruchin a, The clan book: Tzimisce, Revised Ed. 66 zzzz | with er | Faith &Fire 174 |
+| Misfortune of Chernogolov, The clan book: Tzimisce, Revised Ed. 66 | Misfortune of Chernogolov, The clan book: Tzimisce, Revised Ed. 66 | zzzz Corrupt the Undead Flesh | Faith &Fire 174 |
+| zzzzz Starvation of Marena, The clan book: Tzimisce, Revised Ed. 67 | zzzzz Starvation of Marena, The clan book: Tzimisce, Revised Ed. 67 | zzzzz Dissolve the Flesh | Faith &Fire 174 |
 | Melpominee | Melpominee | Mortis Rituals - Basic | |
-| z | z | Final Sight | Faith &Fire 181 |
+| z | z | Fin al Sight | Faith &Fire 181 |
 | Missing Voice, The Laws of the Night 150 | Missing Voice, The Laws of the Night 150 | Revivify the Cold Vitae | Faith &Fire 181 |
 | zz Phantom Speaker Laws of the Night 151 | zz Phantom Speaker Laws of the Night 151 | Eyes of the Grave | Faith &Fire 181 |
 | zzz Madrigal Laws of the Night 151 zzzz | zzz Madrigal Laws of the Night 151 zzzz | Advanced Shroud | |
@@ -4167,23 +4167,23 @@ Laws of the Night 156
 
 A Touch of Death
 
-Clanbook: Giovanni, Revised Ed. 68 zz
+clan book: Giovanni, Revised Ed. 68 zz
 
 Reveal the Catene
 
-Clanbook: Giovanni, Revised Ed. 68 zzz
+clan book: Giovanni, Revised Ed. 68 zzz
 
 Tread Upon the Grave
 
-Clanbook: Giovanni, Revised Ed. 69 zzzz
+clan book: Giovanni, Revised Ed. 69 zzzz
 
 Death Knell
 
-Clanbook: Giovanni, Revised Ed. 69 zzzzz
+clan book: Giovanni, Revised Ed. 69 zzzzz
 
 Ephemeral Binding
 
-Clanbook: Giovanni, Revised Ed. 70
+clan book: Giovanni, Revised Ed. 70
 
 ## Necromancy - The Mortuus Path z
 
@@ -4393,7 +4393,7 @@ Blithe
 
 Acceptance
 
-Clanbook: Assamite, Revised
+clan book: Assamite, Revised
 
 Ed. Conceal
 
@@ -4407,7 +4407,7 @@ Confusion of the
 
 Eye
 
-Clanbook: Followers of
+clan book: Followers of
 
 Set, Revised
 
@@ -4415,7 +4415,7 @@ Ed. Mental
 
 Maze
 
-Clanbook: Followers of
+clan book: Followers of
 
 Set, Revised
 
@@ -4431,7 +4431,7 @@ Guide
 
 Scrawl
 
-Clanbook: Malkavian, Revised
+clan book: Malkavian, Revised
 
 Ed. Soul
 
@@ -4465,7 +4465,7 @@ Phantom
 
 Haunter
 
-Clanbook: Malkavian, Revised
+clan book: Malkavian, Revised
 
 Ed. zzzzz zzzz
 
@@ -4485,7 +4485,7 @@ Guide
 
 Flesh Wound
 
-Clanbook: Gangrel, Revised
+clan book: Gangrel, Revised
 
 Ed. ## Obfuscate/Obtenebration zz
 
@@ -4511,7 +4511,7 @@ Love
 
 Face
 
-Clanbook: Followers of
+clan book: Followers of
 
 Set, Revised
 
@@ -4625,7 +4625,7 @@ Laws of the Night 167 zzzzz
 
 Gentle Rebuke, The Imprint Relentless Pursuit
 
-Clanbook: Brujah, Revised
+clan book: Brujah, Revised
 
 Ed. Laws of the
 
@@ -4633,7 +4633,7 @@ Night: Camarilla
 
 Guide
 
-Clanbook: Brujah, Revised
+clan book: Brujah, Revised
 
 Ed. zzzzz zz
 
@@ -4659,7 +4659,7 @@ Laws of the Night: Camarilla Guide 61
 
 Pulse of Undeath
 
-Clanbook: Brujah, Revised
+clan book: Brujah, Revised
 
 Ed. ## Potence/Presence zzz
 
@@ -4667,7 +4667,7 @@ Ed. ## Potence/Presence zzz
 
 Iron Heart
 
-Clanbook: Brujah, Revised
+clan book: Brujah, Revised
 
 Ed. Title &amp; Page Number
 
@@ -4699,7 +4699,7 @@ Laws of the Night 168 zzzzz
 
 Absent Sway Love Paralyzing Glance Spark of Rage Temptation
 
-Clanbook: Toreador, Revised
+clan book: to read or, Revised
 
 Ed. Laws of the
 
@@ -4719,7 +4719,7 @@ Night: Camarilla
 
 Guide
 
-Clanbook: Followers of
+clan book: Followers of
 
 Set, Revised
 
@@ -4747,7 +4747,7 @@ Guide
 
 Phobia
 
-Clanbook: Followers of
+clan book: Followers of
 
 Set, Revised
 
@@ -4763,7 +4763,7 @@ Guide zzzzz zzz
 
 Corruption
 
-Clanbook: Followers of Set, Revised Ed. 69 Laws of the Night: Camarilla Guide 64
+clan book: Followers of Set, Revised Ed. 69 Laws of the Night: Camarilla Guide 64
 
 Ironclad
 
@@ -4781,7 +4781,7 @@ Laws of the Night: Camarilla Guide 64
 
 Bliss
 
-Clanbook: Toreador, Revised Ed. 73
+clan book: to read or, Revised Ed. 73
 
 ## Protean z
 
@@ -4821,13 +4821,13 @@ Night: Camarilla
 
 Guide
 
-Clanbook: Gangrel, Revised Ed. 69 zzzzz zz
+clan book: Gangrel, Revised Ed. 69 zzzzz zz
 
 Animal
 
 Swarm
 
-Clanbook: Gangrel, Revised Ed. 70
+clan book: Gangrel, Revised Ed. 70
 
 Restore the
 
@@ -4849,7 +4849,7 @@ Spectral Body Turnabout zzzzz zzz
 
 Mythic form Purify the Impaled Beast
 
-Clanbook: Gangrel, Revised Ed. 71
+clan book: Gangrel, Revised Ed. 71
 
 Laws of the Night: Camarilla Guide 67 zzzzz zzzz
 
@@ -4865,7 +4865,7 @@ Level &amp; Discipline
 
 Beast Meld
 
-Clanbook: Gangrel, Revised
+clan book: Gangrel, Revised
 
 Ed. ## Protean/Vicissitude zzzz
 
@@ -4873,7 +4873,7 @@ Ed. ## Protean/Vicissitude zzzz
 
 Pater Szlachta
 
-Clanbook: Tzimisce, Revised
+clan book: Tzimisce, Revised
 
 Ed. ## Quietus z
 
@@ -4903,33 +4903,33 @@ Laws of the Night 172 zzzzz
 
 Blood Sweat Purification Ripples of the Heart Selective Silence
 
-Clanbook: Assamite, Revised
+clan book: Assamite, Revised
 
-Ed. Clanbook: Assamite, Revised
+Ed. clan book: Assamite, Revised
 
-Ed. Clanbook: Assamite, Revised
+Ed. clan book: Assamite, Revised
 
-Ed. Clanbook: Assamite, Revised
+Ed. clan book: Assamite, Revised
 
 Ed. zzzzz zz
 
 Baal ʹ s Bloody Talons Poison the Well of Life
 
-Clanbook: Assamite, Revised
+clan book: Assamite, Revised
 
-Ed. Clanbook: Assamite, Revised
+Ed. clan book: Assamite, Revised
 
 Ed. zzzzz zzz
 
 Songs of Distant Vitae
 
-Clanbook: Assamite, Revised
+clan book: Assamite, Revised
 
 Ed. zzzzz zzzz
 
 Condemn the Sins of the Father
 
-Clanbook: Assamite, Revised Ed. 71
+clan book: Assamite, Revised Ed. 71
 
 ## Sanguinus z
 
@@ -4981,25 +4981,25 @@ Laws of the Night 174
 
 Cobra Fangs
 
-Clanbook: Followers of Set, Revised Ed. 66
+clan book: Followers of Set, Revised Ed. 66
 
 ## zzzzz zz
 
 Divine Image
 
-Clanbook: Followers of Set, Revised Ed. 66
+clan book: Followers of Set, Revised Ed. 66
 
 ## zzzzz zzz
 
 Heart Thief
 
-Clanbook: Followers of Set, Revised Ed. 67
+clan book: Followers of Set, Revised Ed. 67
 
 ## zzzzz zzzz
 
 Shadow of Apep
 
-Clanbook: Followers of Set, Revised Ed. 67
+clan book: Followers of Set, Revised Ed. 67
 
 ## Serpentis/Auspex
 
@@ -5007,7 +5007,7 @@ Clanbook: Followers of Set, Revised Ed. 67
 
 Weigh the Heart
 
-Clanbook: Followers of Set, Revised Ed. 70
+clan book: Followers of Set, Revised Ed. 70
 
 ## Serpentis/Potence
 
@@ -5015,7 +5015,7 @@ Clanbook: Followers of Set, Revised Ed. 70
 
 Typhonic Beast
 
-Clanbook: Followers of Set, Revised Ed. 69
+clan book: Followers of Set, Revised Ed. 69
 
 ## Temporis z
 
@@ -5273,7 +5273,7 @@ Guest's Herald
 
 Laws of the Night: Storyteller Guide 52 zz
 
-Master's or der
+Master's order
 
 Laws of the Night: Storyteller Guide 52 zzz
 
@@ -5551,25 +5551,25 @@ Title &amp; Page Number
 
 Spark
 
-Clanbook: Tremere, Revised Ed. 51 zz
+clan book: Tremere, Revised Ed. 51 zz
 
-Illuminate
+Illumin ate
 
-Clanbook: Tremere, Revised Ed. 52
+clan book: Tremere, Revised Ed. 52
 
 ## zzz
 
 Power Array
 
-Clanbook: Tremere, Revised Ed. 52 zzzz
+clan book: Tremere, Revised Ed. 52 zzzz
 
 Zeus ʹ Fury
 
-Clanbook: Tremere, Revised Ed. 52 zzzzz
+clan book: Tremere, Revised Ed. 52 zzzzz
 
 Eye of the Storm
 
-Clanbook: Tremere, Revised Ed. 53
+clan book: Tremere, Revised Ed. 53
 
 ## Thaumaturgy - The Path of Mars z
 
@@ -5599,23 +5599,23 @@ Laws of the Night: Sabbat Guide 127
 
 Out Light
 
-Clanbook: Tremere, Revised Ed. 53 zz
+clan book: Tremere, Revised Ed. 53 zz
 
 Shadow Taunt
 
-Clanbook: Tremere, Revised Ed. 53 zzz
+clan book: Tremere, Revised Ed. 53 zzz
 
 Coruscating Shadow
 
-Clanbook: Tremere, Revised Ed. 54 zzzz
+clan book: Tremere, Revised Ed. 54 zzzz
 
 Night ʹ s Veil
 
-Clanbook: Tremere, Revised Ed. 55 zzzzz
+clan book: Tremere, Revised Ed. 55 zzzzz
 
 Abyssal Pact
 
-Clanbook: Tremere, Revised Ed. 55
+clan book: Tremere, Revised Ed. 55
 
 ## Thaumaturgy - The Path of Technomancy z
 
@@ -5870,7 +5870,7 @@ Night: Anarch
 
 Guide
 
-Illuminate
+Illumin ate
 
 Trail of the
 
@@ -6267,7 +6267,7 @@ Horrid form
 
 Laws of the Night 189 zzzzz
 
-Bloodform
+blood form
 
 Laws of the Night 189 zzzzz
 
@@ -6295,7 +6295,7 @@ Ecstatic
 
 Agony
 
-Clanbook: Tzimisce, Revised
+clan book: Tzimisce, Revised
 
 Ed. zzzzz zz
 
@@ -6355,7 +6355,7 @@ Hearthstone the
 
 Mountain
 
-Clanbook: Tzimisce, Laws of the
+clan book: Tzimisce, Laws of the
 
 Night: Laws
 
@@ -6395,7 +6395,7 @@ Title &amp; Page Number
 | Trait | Cost per do t |
 | Attribute | 1 |
 | Ability | 1 |
-| Background | 1 |
+| back ground | 1 |
 | Virtue | 2 |
 | Humanity | 3 |
 | will power | 3 |
@@ -6403,7 +6403,7 @@ Title &amp; Page Number
 | Trait Increase | Cost |
 | Attribute | 1 |
 | Ability | 1 (2 for 6 - 10) |
-| Background | 1 |
+| back ground | 1 |
 | Clan Discipline | 3/6/9 |
 | Non - clan Discipline | 4/7/10 |
 | New Ritual | 2/4/6 |

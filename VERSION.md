@@ -1,6 +1,21 @@
 # Version History
 
-## Current Version: 0.8.95
+## Current Version: 0.8.96
+
+**Date:** 2025-01-27  
+**Type:** Patch (Advanced spacing detection and concatenated word fixes)
+
+### Changes:
+- **Advanced Spacing Detection** - Added intelligent concatenated word detection
+  - Created `detect_concatenated_words.php` function to detect words 7+ characters that are actually 2-4 words concatenated
+  - Function uses 500+ word dictionary (common English + game-specific terms) to validate word splits
+  - Automatically detects and fixes concatenated words like "smolderingglares" → "smoldering glares"
+  - Enhanced spacing fix script with 200+ additional pattern fixes for historical/narrative text
+  - Improved handling of 1-character words (a, i) in middle positions of concatenated words
+  - Processed 44 reference markdown files with enhanced detection
+  - Script now catches concatenated words that pattern-based approach might miss
+
+## Previous Version: 0.8.95
 
 **Date:** 2025-01-27  
 **Type:** Patch (Reference book spacing fixes)

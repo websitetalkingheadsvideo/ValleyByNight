@@ -4,6 +4,6 @@
  * Valley by Night - Version 0.8.93
  */
 if (!defined('LOTN_VERSION')) {
-   define('LOTN_VERSION', '0.8.95');
+   define('LOTN_VERSION', '0.8.96');
 }
 
