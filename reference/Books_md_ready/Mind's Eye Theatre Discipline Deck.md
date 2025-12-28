@@ -42,7 +42,7 @@ Partner, Tremere, General Legal Counsel Robert Ellis
 
 ## Cover Designer: Craig Grant and Brian Glass
 
-## Special than ks than k you to Jason Carl, who is secretly an English lord at heart. A special than k you to the patrons of our Kickstarter who made this book possible. with out you r patient support, we couldn't have do ne it! than ks to Chateau Laroche and the Knights of the Golden Trail - http://www.lovelandcastle.com
+## Special than ks than k you to Jason Carl, who is secretly an English lord at heart. A special than k you to the patrons of our Kickstarter who made this book possible. with out your patient support, we couldn't have do ne it! than ks to Chateau Laroche and the Knights of the Golden Trail - http://www.lovelandcastle.com
 
 ## Vampire: The Masquerade Creators: Mark Rein·Hagen with Steven C. Brown, T om do wd, and rew Greenburg, Chris Mc do nough, Lisa Stevens, Josh Timbrook, and Stewart Wieck
 - © White Wolf Publishing - A Paradox Interactive AB company. This book uses the supernatural for settings, characters and the mes. All mystical and supernatural elements are fiction and intended for entertainment purposes only. This book contains mature content. Reader discretion is advised. Check out White Wolf online at http://www. white-wolf. com/
@@ -100,18 +100,18 @@ The seemingly endless bounty and prosperity of Pickering Lythe may have finally 
 
 It is whispered that an Assamite ambassador from the Mountain appeared in the largest Elysium in London and made a personal request of Lady Anne, the Seneschal of
 
-London, to visit Pickering Lythe to acquire items of a personal interest from the auction for an elder Assamite. The Dunsirn, an emerging Giovanni family of Scottish bankers, spent a vast for tune to purchase an interest in Pickering Lythe, though few know why. A quiet dread has over come the once peaceful village as some whisper that the shades of the Roman soldiers that once conquered this land have returned to torment the living. Long ago, during the nights of antiquity, three Roman Legions held the land that would someday be called Pickering Lythe. Word had come from Rome that all of the villagers were to be slaughtered for defying the Empire. The day before the planned decimation, a young red-haired girl confronted them and warned them that Dis Pater - the Roman God of Death - would strike them do wn. The Romans laughed and crucified her. The next day, every Roman soldier in Pickering Lythe disappeared. On this last night of the Festival of Lights, all of the terrible secrets of Pickering Lythe shall be revealed, endangering mortals and kindred alike. ## A History of Castle Pickering: The Sentinel of the North will iam the Conqueror built Castle Pickering in North Yorkshire, England to protect the north of his kingdom. Successive sovereigns invested gold, resources, and men to maintain and upgrade this battlement, which all owed them to control and protect the tactically valuable region known as the North. Castle Pickering survived relatively unscathed for almost a thousand years, escaping the chaos of the War of the Roses and the Civil War of the 17th century. It seemed the quiet community of Pickering Lythe was a bubble of endless prosperity. Henry III granted Castle Pickering to his second surviving son, Edmund Crouchback, as a reward for valor during the Ninth Crusade. This sparked a feud between the Crouchbacks and the previous title-holders, the Kingthorpes, that would burn hot and cold through out the centuries. The Kings of England leveraged Castle Pickering as a base of operations to protect the North until the time of Richard III, and it is said that he left a trove of treasures there before his death at the Battle of Bosworth Field. how ever, Henry T udor and the sovereigns that succeeded him preferred to spend national resources on castles not closely associated to the Kings of York. Slowly, Castle Pickering became a historical curiosity, and in the Edwardian Age it is simply considered one of many unimportant manor houses. Pickering Lythe is a small community parish in the North Riding of Y or kshire, about 223 miles from London. The parish is comprised of the townships of Pickering, Kingthorpe, Marsh and Newton. Pickering Lythe is connected to the port of Whitby by a railroad line, where many visit the infamous Whitby Abbey. Pickering Lythe (and the surrounding environment) makes an excellent setting for stories set in the W or ld of Darkness. Storytellers are welcome to use Pickering Lythe as the fictional location for the stories In this book or modify the plotlines and non-player characters to suit their own chronicle. Players may wish to tie their characters' history to events depicted In this book or create historical ties with some of the non-player characters. The only limit is you r imagin ation and it should only augment, not limit, you r use of the stories provided here. If you choose to use the Pickering Lythe setting, consider the following optional rule: - The Shroud is always at the low level around the Castle Pickering, making it easier for wraiths to see, interact with and manifest in the physical world. The Necromancy: Ash Path power Shroud Mastery can not be used to increase the Shroud level of Castle
+London, to visit Pickering Lythe to acquire items of a personal interest from the auction for an elder Assamite. The Dunsirn, an emerging Giovanni family of Scottish bankers, spent a vast for tune to purchase an interest in Pickering Lythe, though few know why. A quiet dread has over come the once peaceful village as some whisper that the shades of the Roman soldiers that once conquered this land have returned to torment the living. Long ago, during the nights of antiquity, three Roman Legions held the land that would someday be called Pickering Lythe. Word had come from Rome that all of the villagers were to be slaughtered for defying the Empire. The day before the planned decimation, a young red-haired girl confronted them and warned them that Dis Pater - the Roman God of Death - would strike them do wn. The Romans laughed and crucified her. The next day, every Roman soldier in Pickering Lythe disappeared. On this last night of the Festival of Lights, all of the terrible secrets of Pickering Lythe shall be revealed, endangering mortals and kindred alike. ## A History of Castle Pickering: The Sentinel of the North will iam the Conqueror built Castle Pickering in North Yorkshire, England to protect the north of his kingdom. Successive sovereigns invested gold, resources, and men to maintain and upgrade this battlement, which all owed them to control and protect the tactically valuable region known as the North. Castle Pickering survived relatively unscathed for almost a thousand years, escaping the chaos of the War of the Roses and the Civil War of the 17th century. It seemed the quiet community of Pickering Lythe was a bubble of endless prosperity. Henry III granted Castle Pickering to his second surviving son, Edmund Crouchback, as a reward for valor during the Ninth Crusade. This sparked a feud between the Crouchbacks and the previous title-holders, the Kingthorpes, that would burn hot and cold through out the centuries. The Kings of England leveraged Castle Pickering as a base of operations to protect the North until the time of Richard III, and it is said that he left a trove of treasures there before his death at the Battle of Bosworth Field. how ever, Henry T udor and the sovereigns that succeeded him preferred to spend national resources on castles not closely associated to the Kings of York. Slowly, Castle Pickering became a historical curiosity, and in the Edwardian Age it is simply considered one of many unimportant manor houses. Pickering Lythe is a small community parish in the North Riding of Y or kshire, about 223 miles from London. The parish is comprised of the townships of Pickering, Kingthorpe, Marsh and Newton. Pickering Lythe is connected to the port of Whitby by a railroad line, where many visit the infamous Whitby Abbey. Pickering Lythe (and the surrounding environment) makes an excellent setting for stories set in the W or ld of Darkness. Storytellers are welcome to use Pickering Lythe as the fictional location for the stories In this book or modify the plotlines and non-player characters to suit their own chronicle. Players may wish to tie their characters' history to events depicted In this book or create historical ties with some of the non-player characters. The only limit is your imagin ation and it should only augment, not limit, your use of the stories provided here. If you choose to use the Pickering Lythe setting, consider the following optional rule: - The Shroud is always at the low level around the Castle Pickering, making it easier for wraiths to see, interact with and manifest in the physical world. The Necromancy: Ash Path power Shroud Mastery can not be used to increase the Shroud level of Castle
 
 Pickering; the power automatically fails if used. For more information on Shroud levels, see Mind's Eye the atre: Vampire the Masquerade, page 177. ## How to Use this Book
 
 Pickering Lythe has a number of resources to help players and storytellers capture the feeling of this setting. In add it i on, each plot kit is presented as a distinct story line. Storytellers can run any of them independently of the others, or combine plot elements as they see fit. Sections of Pickering Lythe include: - The Festival of Lights: Mortal and kindred politics clash as disparate factions plot and scheme to secure Castle Pickering. This sandbox plot is inspired by historical politics concerning Castle Pickering, but can serve as a template for storytellers to generate such plots in their own chronicles. Mortal and vampire characters delve into complex social and political maneuvering to claim
-- Castle Pickering. - The Terror of Dis Pater: Why did the Roman legion flee Pickering Lythe in antiquity and what terrors might await those that remained behind? This horror-inspired scenario involves an ancient methuselah waking from torpor and the demands it might make of those that live in the land it claims. - Richard III's Revenge: Lord Crouchback intends to auction a number of family artifacts stolen during the Ninth Crusade to save Castle Pickering. Many are old parchments that haven't seen the light of day for years, and one of them contains a secret that a select few are will ing to kill to protect. A few are culturally significant to the Assamites, who wish to return the se treasures to their homeland. how ever, there are some, such as the Tremere, who would rather claim them for their own. there is a rumor that among the many treasures is an item which some believe would prove that Richard III actually made a deal with the devil. - Black Box Shorts: This chapter contains a number of mini-plotlines, such as but tons, but tons and Love Remembered, that can be used to augment existing story lines in Pickering Lythe or in you r own Mind's Eye the atre games. As a bonus, there are court games that can be played by characters in you r local chronicles, such as the Game of Flowers and Scandal. - Player T ools: Chapter Seven features several printready handouts designed to give you r players more tools to improve their live-action roleplaying experience using the Mind's Eye the atre rules. ## Do What Works for you r Game
+- Castle Pickering. - The Terror of Dis Pater: Why did the Roman legion flee Pickering Lythe in antiquity and what terrors might await those that remained behind? This horror-inspired scenario involves an ancient methuselah waking from torpor and the demands it might make of those that live in the land it claims. - Richard III's Revenge: Lord Crouchback intends to auction a number of family artifacts stolen during the Ninth Crusade to save Castle Pickering. Many are old parchments that haven't seen the light of day for years, and one of them contains a secret that a select few are will ing to kill to protect. A few are culturally significant to the Assamites, who wish to return the se treasures to their homeland. how ever, there are some, such as the Tremere, who would rather claim them for their own. there is a rumor that among the many treasures is an item which some believe would prove that Richard III actually made a deal with the devil. - Black Box Shorts: This chapter contains a number of mini-plotlines, such as but tons, but tons and Love Remembered, that can be used to augment existing story lines in Pickering Lythe or in your own Mind's Eye the atre games. As a bonus, there are court games that can be played by characters in your local chronicles, such as the Game of Flowers and Scandal. - Player T ools: Chapter Seven features several printready handouts designed to give your players more tools to improve their live-action roleplaying experience using the Mind's Eye the atre rules. ## Do What Works for your Game
 
-While the plotlines offered in Pickering Lythe provide all the information a Storyteller needs to run the se stories in their own games, each plot kit can and should be customized to suit you r own Storytelling style and the culture of you r own chronicle. Storytellers are invited to use the se plots as creative inspiration - modify any of the se ideas as you see fit to tell the very best story for you r game. ## Power Scale and NPCs
+While the plotlines offered in Pickering Lythe provide all the information a Storyteller needs to run the se stories in their own games, each plot kit can and should be customized to suit your own Storytelling style and the culture of your own chronicle. Storytellers are invited to use the se plots as creative inspiration - modify any of the se ideas as you see fit to tell the very best story for your game. ## Power Scale and NPCs
 
-Pickering Lythe is a Mind's Eye the atre: Vampire The Masquerade scenario that places mortal, ghoul and vampire characters into the mix for a unique cooperative LARP experience. This is a rare opportunity to feel the rush of vampires who subtly influence mortal society to achieve their goals. This requires a different ratio of characters than a typical chronicle. Players seeking to create mortal, ghoul or neonate vampire characters have four prominent Pickering Lythe families that they can feature in their backgrounds (detailed in Chapter Three: The Festival of Lights, page 15). This provides an opportunity for players to build their histories directly into the story to gain a number of plot hooks for immersing the mselves in the chronicle. Players who take the opportunity to play mortals or ghouls will have the chance to experience the terror of facing immortal creatures and, potentially, the excitement of the embrace. It is recommended that storytellers discuss the disparate power levels between the different types of possible characters that can be created. Pickering Lythe works best if there is a ratio of one to one for mortal versus vampire characters, but this can obviously be modified for the needs of you r local chronicle. A storyteller might leverage Pickering Lythe as a chance to recruit the more experienced players in her troupe or chronicle to play mortal NPCs and give the novice players a chance to shine for a night, especially at a convention. The plot kits presented here are suitable for use in a chronicle where player-characters (PCs) possess an average of 70 Earned experience points (XP) in add it i on to their 30 Initial XP - a total of 100 XP on average. Although the NPCs included in Pickering Lythe may have more than 100 total XP, they are designed to present a challenge for groups of PCs at that level. Storytellers are encouraged to scale the provided NPCs up or do wn to power levels that present an appropriate challenge for their own chronicles. ## Prop Items
+Pickering Lythe is a Mind's Eye the atre: Vampire The Masquerade scenario that places mortal, ghoul and vampire characters into the mix for a unique cooperative LARP experience. This is a rare opportunity to feel the rush of vampires who subtly influence mortal society to achieve their goals. This requires a different ratio of characters than a typical chronicle. Players seeking to create mortal, ghoul or neonate vampire characters have four prominent Pickering Lythe families that they can feature in their backgrounds (detailed in Chapter Three: The Festival of Lights, page 15). This provides an opportunity for players to build their histories directly into the story to gain a number of plot hooks for immersing the mselves in the chronicle. Players who take the opportunity to play mortals or ghouls will have the chance to experience the terror of facing immortal creatures and, potentially, the excitement of the embrace. It is recommended that storytellers discuss the disparate power levels between the different types of possible characters that can be created. Pickering Lythe works best if there is a ratio of one to one for mortal versus vampire characters, but this can obviously be modified for the needs of your local chronicle. A storyteller might leverage Pickering Lythe as a chance to recruit the more experienced players in her troupe or chronicle to play mortal NPCs and give the novice players a chance to shine for a night, especially at a convention. The plot kits presented here are suitable for use in a chronicle where player-characters (PCs) possess an average of 70 Earned experience points (XP) in add it i on to their 30 Initial XP - a total of 100 XP on average. Although the NPCs included in Pickering Lythe may have more than 100 total XP, they are designed to present a challenge for groups of PCs at that level. Storytellers are encouraged to scale the provided NPCs up or do wn to power levels that present an appropriate challenge for their own chronicles. ## Prop Items
 
-Many of the stories in Pickering Lythe feature signature items ranging from wearable costume pieces to objects with a clearly historic or mystic appearance. Each plot includes photographs of featured prop items along with crafting not es, where applicable. Using bold, imagin ative props is a great way to increase the ambiance and immersiveness of you r game. Storytellers are welcome to replicate the prop ideas suggested here or create their own unique versions for their games. ## Sinister Seeds
+Many of the stories in Pickering Lythe feature signature items ranging from wearable costume pieces to objects with a clearly historic or mystic appearance. Each plot includes photographs of featured prop items along with crafting not es, where applicable. Using bold, imagin ative props is a great way to increase the ambiance and immersiveness of your game. Storytellers are welcome to replicate the prop ideas suggested here or create their own unique versions for their games. ## Sinister Seeds
 
 Each plotline comes with its own section of 'Sinister Seeds:' printable pre-generated rumor cards. Storytellers can use the se cards to tease story lines in advance or to help players become more involved in each story as its events unfold. Consider providing Sinister Seeds to characters who: - Possess Contacts or other Backgrounds that are likely to have relevant information
 - Expend appropriate influence actions to investigate the plot or gain information about current events
@@ -141,12 +141,12 @@ The appearance of a clan on this list do es not mean that said clan would be a m
 - Tremere
 - Ventrue
 
-## Uncommon Clans (2 point merit): you r character is a member of an uncommon clan, one that is not or dinarily found in in this setting. Y ou will find few other individuals of you r clan with in this setting, and you may the refore be something of an outsider, who enjoys fewer benefits than those clans that are considered proper members of society. - Assamites
+## Uncommon Clans (2 point merit): your character is a member of an uncommon clan, one that is not or dinarily found in in this setting. Y ou will find few other individuals of your clan with in this setting, and you may the refore be something of an outsider, who enjoys fewer benefits than those clans that are considered proper members of society. - Assamites
 - Followers of Set
 - Giovanni
 - Ravnos
 
-## Rare Clans (4 point merit): you r character is a member of a rare clan, one found very infrequently in this setting. Such characters may be loners, outcasts, or solitary observers of society, and they may be treated poorly or shunned by the rest of the characters in play. - Cappadocians (Samedi only)
+## Rare Clans (4 point merit): your character is a member of a rare clan, one found very infrequently in this setting. Such characters may be loners, outcasts, or solitary observers of society, and they may be treated poorly or shunned by the rest of the characters in play. - Cappadocians (Samedi only)
 - Daughters of Cacophony
 - Gargoyles
 - Lasombra antitribu
@@ -416,7 +416,7 @@ Catherine Pershing's character sheet can be found in the Appendix
 
 ## As the Night Goes On: Scene Breakdowns and Planned Events
 
-The Lead Storyteller serves as director and stage manager for the game. Once she has cast and prepared her NPC actors and passed along pre-game hints to the players via the Sinister Seeds (see page 32), her main function is to monitor the flow of the plot and prompt her NPC actors to trigger events When they are required for purposes of plot continuity and game pacing. The Festival of Lights is a sandbox plot designed to create a stage and the n all ow most of the drama to play out naturally as the player-characters explore the world and interact with the NPCs. The Lead Storyteller will need to closely monitor the various factions and prompt NPC actors as needed to trigger events while maintaining player agency. In a live-action game, it's important for Storytellers to help push the pacing and the flow of the story with out overshadowing the player-characters' actions or making players feel that they can not meaningfully affect the outcome of the plot. don't be afraid to all ow you r players to make mistakes or explore outcomes that you did not predict. (For more information, see Mind's Eye the atre: Vampire The Masquerade, Chapter Eight: Storytelling, Player Agency and the Railroad Plot, page 344.)
+The Lead Storyteller serves as director and stage manager for the game. Once she has cast and prepared her NPC actors and passed along pre-game hints to the players via the Sinister Seeds (see page 32), her main function is to monitor the flow of the plot and prompt her NPC actors to trigger events When they are required for purposes of plot continuity and game pacing. The Festival of Lights is a sandbox plot designed to create a stage and the n all ow most of the drama to play out naturally as the player-characters explore the world and interact with the NPCs. The Lead Storyteller will need to closely monitor the various factions and prompt NPC actors as needed to trigger events while maintaining player agency. In a live-action game, it's important for Storytellers to help push the pacing and the flow of the story with out overshadowing the player-characters' actions or making players feel that they can not meaningfully affect the outcome of the plot. don't be afraid to all ow your players to make mistakes or explore outcomes that you did not predict. (For more information, see Mind's Eye the atre: Vampire The Masquerade, Chapter Eight: Storytelling, Player Agency and the Railroad Plot, page 344.)
 
 As the night unfolds, here is a break down of planned scenes and events: ## Act I: The Festival of Lights: The Festival of Lights is a week long contest between poets from across the country that ends with a grand soiree in the gardens of Castle Pickering, where it is expected the Honour of Pickering shall meet to confirm the awards given to the mortal poets. Guests forthis night have the run of Castle Pickering and the estate, including the moors and the country side. thereal intrigue is centered on the weakened position of Lord Crouchback and the potential receivership of Castle Pickering. Gossip and innuendo inspired By the Sinister Seeds will likely be the opening icebreakers as the player-characters measure the mselves against the other guests and try to learn new information. ## Scenarios and Possible Outcomes: - Depending upon the number of players attending the game session, the Lead Storyteller might decide to insert one of the Court Games (see Chapter Five: Black Box Shorts: Court Games, page 85) into this Act to keep players occupied and ensure that the initial act of the game session starts of f exciting. This would all ow the player-characters a chance to properly interact and try to exchange information and rumors to make all ies and form factions. - The Sinister Seeds will spark rumors and speculation about three grisly murders that have occurred with in Pickering Lythe over the last month. Player-characters that use investigation, influences or so me thing else appropriate will learn that all three were young women in their prime during their coming out season. Each victim was found exsanguin ated with their neck broken. Vampires will immediately recognize this as the work of a careless vampire with a messy eating habit. More concerning is that a fourth victim has been recently unearthed at Whitby Abbey, which is known to vampires as the location of part of the Dracula affair. Locals to Pickering Lythe will recall that Sophronia 'Sophie' Kingthorpe was murdered at that same location 20 years ago. (For more information, see Sophronia 'Sophie' Kingthorpe, The Bride of Dracula, page 23.)
 - Lord Crouchback will seek potential patrons (especially wealthy, worthy noble gentlemen that might be potential suitors for his daughter) to help him leverage Castle Pickering out of receivership. there is a mysterious massive influence block (secretly from the V entrue preventing this), but a faction might be able to pool enough resources to over come it. (For more information, see The Claiming of Castle Pickering, page 18.) If Lord Crouchback trusts a character, he will reveal that his but ler Mr. Finch possesses a fin ancial ledger that would assist in attacking the influence block. (For more information, see Richard Crouchback, Lord of Pickering Lythe, page 19.)
@@ -431,7 +431,7 @@ Once the excitement of the Bride has passed, the guests at the Festival of Light
 
 The Honour of Pickering is likely to be a politically and emotionally charged affair, but it is best to keep it brief. Sir Archibald Kingthorpe or his proxy accuses Lord Crouchback of incompetence and risking the security of Pickering Lythe. By tradition, the Honour of Pickering votes in public and is comprised of the following members representing the four noble families of Pickering Lythe: Richard Crouchback, Archibald Kingthorpe, Obed Marsh and Henry Newton. If three of the se votes go against Crouchback, the n the position is considered vacant until the Honour affirms another choice. (See The Claiming of Castle Pickering, page 18.)
 
-## Scenarios and Possible Outcomes: - If Lord Richard Crouchback has been killed or do minated into surrendering his position, the n the Honour of Pickering will be called to anoint a new Lord of Pickering. Likely can did ates include Sir Archibald Kingthorpe, Carlton Graham, The Duke of Inverness and Laird of Glen Gowrie and one or more of the playercharacters. It is recommended that you meet with you r NPC actors before this act to discuss the events of the night and see if any player-characters have really worked to secure this position via roleplaying. - It is possible that some factions will attempt to murder the ir rivals before or after the court. Violence has long been a staple of kindred politics. Plan for a dramatic final confrontation if the roleplaying has been leading to such a scene, and encourage you r NPC factions to react accordingly while all owing player agency
+## Scenarios and Possible Outcomes: - If Lord Richard Crouchback has been killed or do minated into surrendering his position, the n the Honour of Pickering will be called to anoint a new Lord of Pickering. Likely can did ates include Sir Archibald Kingthorpe, Carlton Graham, The Duke of Inverness and Laird of Glen Gowrie and one or more of the playercharacters. It is recommended that you meet with your NPC actors before this act to discuss the events of the night and see if any player-characters have really worked to secure this position via roleplaying. - It is possible that some factions will attempt to murder the ir rivals before or after the court. Violence has long been a staple of kindred politics. Plan for a dramatic final confrontation if the roleplaying has been leading to such a scene, and encourage your NPC factions to react accordingly while all owing player agency
 
 ## Act V: The Claiming of Castle Pickering
 
@@ -536,9 +536,9 @@ Once Dis Pater has completed his experiment, he will turn his attention to the F
 
 Information: You spoke with a Malkavian who claims to have visions of the very image of death, a skeletal figure in a cloak, walking the lands of Pickering Lythe. The Malkavian claims that Dis Pater shall come and bathe the ground in blood. She says her visions always involve images of an unhappy bride. of the game session to provide the players with the complete experience. Should they want the big battle, storytellers shouldn't be afraid of killing characters and all owing the scenario to play out properly. ## Sinister Seeds
 
-Consider distributing the se rumors to players who have appropriate Backgrounds or who have spent appropriate do wntime and influence actions. not e that Not all rumors are true - some are deliberate red herrings. ## SINISTER SEED: Information: François Villon, the Prince of Paris, and sire of the newly appointed just i car Violetta, recently unearthed an archaeological site near the mouth of the Po River in Cisalpine that suggests the mythological psychopomp god Moccus might have been a vampire. Rumor has it that Villon is obsessed with finding a means of translating a series of scrolls that reveals a hidden mystery. ## SINISTER SEED: Information: ground once fertile has turned barren and all of the crops have turned to ash. This is not a natural blight. Several of you r contacts have told you that When they examined the soil they felt the taint of death itself upon it. ## SINISTER SEED: Information: The Giovanni seem quite interested in Pickering Lythe. It isn't a hub of commerce so why send in the Dunsirn? You believe this maneuver will somehow weaken the Camarilla's defenses if they are all owed to succeed. ## SINISTER SEED: Information: All at once, as though spooked by God above, every animal with in Pickering Lythe has begun to flee. Birds scatter unnaturally and fly even at night. do gs how l until released so that they too may run. Horses and do mestic animals begin to pace and panic, attempting to escape their corral. ## SINISTER SEED: ## NIGHTMARES
+Consider distributing the se rumors to players who have appropriate Backgrounds or who have spent appropriate do wntime and influence actions. not e that Not all rumors are true - some are deliberate red herrings. ## SINISTER SEED: Information: François Villon, the Prince of Paris, and sire of the newly appointed just i car Violetta, recently unearthed an archaeological site near the mouth of the Po River in Cisalpine that suggests the mythological psychopomp god Moccus might have been a vampire. Rumor has it that Villon is obsessed with finding a means of translating a series of scrolls that reveals a hidden mystery. ## SINISTER SEED: Information: ground once fertile has turned barren and all of the crops have turned to ash. This is not a natural blight. Several of your contacts have told you that When they examined the soil they felt the taint of death itself upon it. ## SINISTER SEED: Information: The Giovanni seem quite interested in Pickering Lythe. It isn't a hub of commerce so why send in the Dunsirn? You believe this maneuver will somehow weaken the Camarilla's defenses if they are all owed to succeed. ## SINISTER SEED: Information: All at once, as though spooked by God above, every animal with in Pickering Lythe has begun to flee. Birds scatter unnaturally and fly even at night. do gs how l until released so that they too may run. Horses and do mestic animals begin to pace and panic, attempting to escape their corral. ## SINISTER SEED: ## NIGHTMARES
 
-Information: You have dreamed of a terrible beast at the bottom of Pickering Moor scrambling through the muck and the black waters. When it arises, it will cause you r death unless you give it exactly what it wants. ## SINISTER SEED: Information: Rumor has it that Prince Mithras of London (4th generation Ventrue methuselah) refused to even pass through Pickering Lythe. thereal reason Lady Anne sent a Ventrue Ancilla is to discover why. ' and therefore, - since I can not prove a lover, To entertain the se well-spoken days, I am determined to prove a villain, And hate the idle pleasures of the se days.'
+Information: You have dreamed of a terrible beast at the bottom of Pickering Moor scrambling through the muck and the black waters. When it arises, it will cause your death unless you give it exactly what it wants. ## SINISTER SEED: Information: Rumor has it that Prince Mithras of London (4th generation Ventrue methuselah) refused to even pass through Pickering Lythe. thereal reason Lady Anne sent a Ventrue Ancilla is to discover why. ' and therefore, - since I can not prove a lover, To entertain the se well-spoken days, I am determined to prove a villain, And hate the idle pleasures of the se days.'
 
 -Richard III, Act 1, Scene 1 plotting to overthrow Mithras. While not entirely certain of which items the Tremere are pursuing, they've certainly got the money to spend on A few extra souvenirs. ## The Crouchbacks: who lesalers of History
 
@@ -564,7 +564,7 @@ The death of Richard III marked the end of a dynasty. As the last Plantagenet mo
 
 As part of his welcoming address in the opening ceremonies, Lord Crouchback will make mention of the auction. In add it i on to providing the auction's time and location, he will also not e that several of the items are on display through out the castle, with others only available for private viewings. He will also introduce and than k Dr. Omari, page 55, for his assistance before moving on to the Festival's other events. ## Dramatis Personae: The Bargain Hunters
 
-The auction has drawn a variety of kindred from far reaches, each with separate agendas. Storytellers are free to use some but Not all of the interested parties as it suits the m. Additionally, feel free to embellish any of the NPC's motivations to support coalitions you r players may form. The intent is for as many players as possible to participate in creating a story. ## The Crouchbacks
+The auction has drawn a variety of kindred from far reaches, each with separate agendas. Storytellers are free to use some but Not all of the interested parties as it suits the m. Additionally, feel free to embellish any of the NPC's motivations to support coalitions your players may form. The intent is for as many players as possible to participate in creating a story. ## The Crouchbacks
 
 The Crouchbacks desperately need for the auction to generate funds. through out Act One, their primary agenda will be to generate interest in the items on display. they will play the part of gracious hosts, happy to talk about the castle's history but also taking not e of any potential buyers. Any of the Crouchbacks will be happy to arrange for a private viewing of the featured lots. how ever, only Lord Crouchback has access to the chest of Richard III's effects. He will open it, but under no circumstances will he all ow it to be directly handled or given more than a cursory examin ation. The Crouchbacks' motivations are to: - Maintain the security of all items for auction. - Work to determine the nature of the items in their possession and assist the auctioneer in presenting the m. - as certain who the wealthy buyers may be and help interest them in a variety of pieces. - Work to ensure as many of the items sell for as much as possible, generating the most revenue. ## The Kingthorpes
 
@@ -687,11 +687,11 @@ An astrolabe made of brass and tin, rusted with its fin al coordin ate frozen. I
 
 ## Spearhead, Crusade Era (Magical)
 
-A spearhead in excellent condition likely borne by a foot soldier or poor knight and used to thwart cavalry charges. A feeling of religious fervor seems to surround the item. If restored using the Crafts skill, this weapon has the Accurate and Brutal qualities as well as the Deadly quality due to its magical nature. It may be necessary to scale do wn the number of items offered if there aren't enough players present. Additionally, feel free to add you r own Mac Guffins to the list. If this plot is used in the context of a greater story arc, it could be fun for items relevant to you r continuing chronicle to make an appearance here. ## Richard III's Personal Effects with in a hidden compartment of Richard III's writing desk is a copy of the infernal contract he signed with Bal Shumel, a Baali Elder, as well as theremnants of the blood he consumed on the eve of the battle of Bosworth Field. The contract is well hidden, and can not be discovered unless a PC spends three uninterrupted turns inspecting the writing desk contents. ## Richard III's Revenge: The Much Anticipated Sequel
+A spearhead in excellent condition likely borne by a foot soldier or poor knight and used to thwart cavalry charges. A feeling of religious fervor seems to surround the item. If restored using the Crafts skill, this weapon has the Accurate and Brutal qualities as well as the Deadly quality due to its magical nature. It may be necessary to scale do wn the number of items offered if there aren't enough players present. Additionally, feel free to add your own Mac Guffins to the list. If this plot is used in the context of a greater story arc, it could be fun for items relevant to your continuing chronicle to make an appearance here. ## Richard III's Personal Effects with in a hidden compartment of Richard III's writing desk is a copy of the infernal contract he signed with Bal Shumel, a Baali Elder, as well as theremnants of the blood he consumed on the eve of the battle of Bosworth Field. The contract is well hidden, and can not be discovered unless a PC spends three uninterrupted turns inspecting the writing desk contents. ## Richard III's Revenge: The Much Anticipated Sequel
 
 Richard III's revenge can be run either as back ground in a large-scale single night event, in its own evening, or split between multiple evenings to fit scheduling needs. Visual aids and props are also useful in making for an immersive experience. If props are hard to come by, Storytellers are encouraged to substitute item cards, or print photos of comparable items to help players connect with the objects. Additionally, the list of items provided for sale is by no means concrete. Feel free to adjust or adapt the description of an item listed below to accommodate the props available at hand. 中
 
-## More Bang for you r Buck
+## More Bang for your Buck
 
 While the Academics, Crafts, Occult and Lore Abilities all have defined functions in the rules, consider all owing players a little extra freedom in analyzing the items for sale. A PC craftsman, after all, is likely able to determine the composition of a piece that's with in the scope of his trade. This is a great opportunity for storytellers to reward those PCs who have spent their XP on higher levels of the ses abilities by of fering them hints before hand which give their faction an edge once the bidding starts. The auction itself can be held either as a main room plot, or in a side room. You'll want to prep the space with tables to hold the items, a podium for the auctioneer if available, and rows of chairs facing for ward. In this chapter, it is possible that those PCs who haven't taken high levels of theresources back ground may feel unable to fully participate. The Storyteller should consider having one of the NPCs approach them with a sum of money and a request to obtain some items on his or her behalf. Each of the NPCs has reason to keep their motivations secret, and working through the PCs would suit their agendas. The events of Richard III's revenge can be broken do wn into the following acts: ## Act I: Caveat Emptor
 
@@ -712,7 +712,7 @@ Richard III is awakened By the handling of his Fetter, and begins to gather powe
 
 Richard seeks to make his escape to London, causing a potential host of is sues for the Camarilla factions. Those seeking to imprison his spirit for their own purposes will have their last opportunity to do so. ## Scenarios and Possible Outcomes: - Once he has possessed a mortal vessel, Richard III will remain in control of the body he possesses until it is slain. Should the body he inhabits be rendered unconscious, he will flee the body and seek another. He will seek to reclaim his personal effects and escape. - If reclaiming the effects is not possible, Richard will seek to destroy the infernal contract. - Richard will use manipulation to obtain his personal effects, either sending other factions to attack or distract the owners or barter with information he observed during Act IV. - Should Richard escape, the London Kindred are likely to have an immense Masquerade breech on their hands. Catherine Pershing will demand that all Acknowledged Camarilla members aid her in stopping him. - Killing the body he inhabits is certainly an option for the PCs. The Necromancy power Soul Steal can also separate him. If a PC with Necromancy is able to entrap Richard, she will have a very powerful wraith under her control. - Richard can also be trapped in the Dybbuck box from the auction. Any player may discern what it is and how to use it by winning a test of their Mental traits plus their Occult skill versus a static difficulty of 15. If correctly used, his spirit will remain bound to the item, tormenting its owner with nightmares and occasional manifestations of his rage in the form of supernatural phenomenon. ## Sinister Seeds
 
-Consider distributing the se rumors to players with appropriate Backgrounds, or those who have spent appropriate do wntime and influence actions. not e that Not all rumors are true - some are deliberate red herrings. ## SINISTER SEED: Information: You've been told the castle library features an impressive stone relief taken during the Crusades. all egedly, it bears a striking resemblance to the Prince of London. Very likely, a gift of that sort would be worth a Major Boon from the Prince. ## SINISTER SEED: Information: Dr. Paneb Omari gets respect among high society members, but you're confident he's a fraud. You're pretty sure he's been embezzling funds and various antiquities away from Castle Pickering and is secretly behind their fin ancial troubles. ## SINISTER SEED: Information: The Inner Circle has taken not e of Assamite breeches of the Treaties of Thorns and Tyre and is considering military action against the m. One of their grievances concerns the fortress Alamut. all egedly, it wasn't dismantled as was agreed upon. ## SINISTER SEED: Information: According to a source in London, the boons the Assamites have are all from covert assassin ations they've do ne over the years. Anyone who se marker they've called in has been a client. all egedly, they're open to taking on new clientele. But can they keep a secret? ## SINISTER SEED: Information: Castle Pickering is rumored to contain a number of tapestries. One of them is believed to house the spirit of its creator. The Dunsirns are rumored to be occultists. Maybe that's so me thing that might interest the m? ## SINISTER SEED: Information: The Crouchbacks' fin ancial problems began as soon as they bought a mysterious wooden box during a trip to London. Called a 'Dybbuck' box, its believed to trap angry spirits. The only way to free you rself from the ghost trapped inside is to fool someone else into taking the item from you. The auction is just a ruse to get rid of it. ## SINISTER SEED: Dream: for the last several nights, you've been unable to sleep soundly, drifting in and out of near slumber. When you last awoke, you found a not e mysteriously scrawled in you r own handwriting which you don't remember writing. It read: 'No sleep close up that deadly eye of thine, Unless it be while some tormenting dream
+Consider distributing the se rumors to players with appropriate Backgrounds, or those who have spent appropriate do wntime and influence actions. not e that Not all rumors are true - some are deliberate red herrings. ## SINISTER SEED: Information: You've been told the castle library features an impressive stone relief taken during the Crusades. all egedly, it bears a striking resemblance to the Prince of London. Very likely, a gift of that sort would be worth a Major Boon from the Prince. ## SINISTER SEED: Information: Dr. Paneb Omari gets respect among high society members, but you're confident he's a fraud. You're pretty sure he's been embezzling funds and various antiquities away from Castle Pickering and is secretly behind their fin ancial troubles. ## SINISTER SEED: Information: The Inner Circle has taken not e of Assamite breeches of the Treaties of Thorns and Tyre and is considering military action against the m. One of their grievances concerns the fortress Alamut. all egedly, it wasn't dismantled as was agreed upon. ## SINISTER SEED: Information: According to a source in London, the boons the Assamites have are all from covert assassin ations they've do ne over the years. Anyone who se marker they've called in has been a client. all egedly, they're open to taking on new clientele. But can they keep a secret? ## SINISTER SEED: Information: Castle Pickering is rumored to contain a number of tapestries. One of them is believed to house the spirit of its creator. The Dunsirns are rumored to be occultists. Maybe that's so me thing that might interest the m? ## SINISTER SEED: Information: The Crouchbacks' fin ancial problems began as soon as they bought a mysterious wooden box during a trip to London. Called a 'Dybbuck' box, its believed to trap angry spirits. The only way to free yourself from the ghost trapped inside is to fool someone else into taking the item from you. The auction is just a ruse to get rid of it. ## SINISTER SEED: Dream: for the last several nights, you've been unable to sleep soundly, drifting in and out of near slumber. When you last awoke, you found a not e mysteriously scrawled in your own handwriting which you don't remember writing. It read: 'No sleep close up that deadly eye of thine, Unless it be while some tormenting dream
 
 Affrights the e with a hell of ugly devils.'
 
@@ -720,7 +720,7 @@ Affrights the e with a hell of ugly devils.'
 
 The three most common reactions to such an object are: ## How to Use this Chapter
 
-In the tradition of live the ater, a black box is a simple, straightforward space that of fers infinite possibility for telling stories. Popular for use By the ater festivals and experimental performances, a black box the ater can be set up and changed out quickly, all owing multiple shows to take place in the span of a single day. Think of the following plot kits as standalone one-shots, of fering players the opportunity to engage in a story separate from any of you r game's main-stage story arcs. Each is designed to begin and conclude quickly, with minimal preparation by Storytellers. The stories introduce action and conflict as characters compete to obtain a valuable item or prize - an excellent way to provide outlets for a wide variety of play styles and increase the pacing of a game session. ## Who's Got the Ball? Most of the plot kits below can be described as 'ball plots.' Such story lines center on the introduction of an item with inherent value, which is the n released into play. The nature of the item, and its ultimate fate, are far less important than the interactions it sparks between players. - Chase: Players will attempt to acquire the item for the mselves, seeking to increase their own perceived power or importance. - Catch: Players seek to prevent others from possessing the item, perhaps hiding it or destroying it. - Throw: Players opt to ignore the item, making choices through their lack of interaction. Ball plots are an excellent way to facilitate interaction between usually disparate cliques of characters, or to add flavor to an otherwise normal game. they are particularly well suited to games (such as conventions or the kicking of f of a new troupe) where the players are unfamiliar with one another and the presence of visible, eye-catching props can invite inquiry from those who not ice the m. ## but tons, but tons
+In the tradition of live the ater, a black box is a simple, straightforward space that of fers infinite possibility for telling stories. Popular for use By the ater festivals and experimental performances, a black box the ater can be set up and changed out quickly, all owing multiple shows to take place in the span of a single day. Think of the following plot kits as standalone one-shots, of fering players the opportunity to engage in a story separate from any of your game's main-stage story arcs. Each is designed to begin and conclude quickly, with minimal preparation by Storytellers. The stories introduce action and conflict as characters compete to obtain a valuable item or prize - an excellent way to provide outlets for a wide variety of play styles and increase the pacing of a game session. ## Who's Got the Ball? Most of the plot kits below can be described as 'ball plots.' Such story lines center on the introduction of an item with inherent value, which is the n released into play. The nature of the item, and its ultimate fate, are far less important than the interactions it sparks between players. - Chase: Players will attempt to acquire the item for the mselves, seeking to increase their own perceived power or importance. - Catch: Players seek to prevent others from possessing the item, perhaps hiding it or destroying it. - Throw: Players opt to ignore the item, making choices through their lack of interaction. Ball plots are an excellent way to facilitate interaction between usually disparate cliques of characters, or to add flavor to an otherwise normal game. they are particularly well suited to games (such as conventions or the kicking of f of a new troupe) where the players are unfamiliar with one another and the presence of visible, eye-catching props can invite inquiry from those who not ice the m. ## but tons, but tons
 
 People once thought of for tune and power as a giant wheel that occasionally turned and crushed those caught under it. The wheel has turned for a potent Malkavian Lumin ary, and her obsession will grind do wn the innocent and guilty alike until she gets what she wants. the me: Hunger, Obsession, Revenge
 
@@ -844,11 +844,11 @@ It turns out that Joshua hoped that Charles would manifest. He has learned in hi
 
 If Joshua and Edward are able to perform their passion play and accuse Charles of acting against the laws of love and God, the sheer guilt will burn Charles from his avatar and send him into a harrowing and oblivion. If they fail in the attempt, Edward and Joshua will suffer the agony of a harrowing and descend into oblivion. ## Scenarios and Possible Outcomes: - Characters that served as avatars may claim their rewards and the knowledge of those that possessed the m. ## SINISTER SEED: JOSHUA
 
-Information: You are possessed by a wraith named Joshua Langtree. You recall images of a bloody war and violence that shattered you r soul. You came home from the Crimean War believing that humanity was do omed. the n you met Edward. You love him more than anything else in the world and when Edward's brother imprisoned and murdered him, you lost the will to live. You were once a member of the Arcanum and know the location of all of the major chapterhouses in Europe. You created the passion play ritual based on the unique circumstances of Castle Pickering, but you are will ing to share you r knowledge. During the passion play ritual, you need to express you r love for Edward and apologize to him for giving up when Charles put him in jail. ## Sinister Seeds
+Information: You are possessed by a wraith named Joshua Langtree. You recall images of a bloody war and violence that shattered your soul. You came home from the Crimean War believing that humanity was do omed. the n you met Edward. You love him more than anything else in the world and when Edward's brother imprisoned and murdered him, you lost the will to live. You were once a member of the Arcanum and know the location of all of the major chapterhouses in Europe. You created the passion play ritual based on the unique circumstances of Castle Pickering, but you are will ing to share your knowledge. During the passion play ritual, you need to express your love for Edward and apologize to him for giving up when Charles put him in jail. ## Sinister Seeds
 
 Give the se Sinister Seeds to the players of the character possessed By the star-crossed wraiths. ## SINISTER SEED: CHARLES
 
-Information: You hated you r younger brother since he first drew breath. You did everything you could to make him miserable and break him. Once he met Joshua, it was impossible to faze him, even with you r position as Lord of Pickering. You strangled him when you discovered his deviant behaviors, uncovering a taste for blood and violence. You killed five others before you died. Afterwards, as a wraith, you killed three more people including Michael Crouchback, the son of Lord Richard Crouchback, by pushing him of f the horse. Once accused, the guilt and shame of you r crimes will cause you to cry and scream until oblivion claims you. ## Another Player in the Game
+Information: You hated your younger brother since he first drew breath. You did everything you could to make him miserable and break him. Once he met Joshua, it was impossible to faze him, even with your position as Lord of Pickering. You strangled him when you discovered his deviant behaviors, uncovering a taste for blood and violence. You killed five others before you died. Afterwards, as a wraith, you killed three more people including Michael Crouchback, the son of Lord Richard Crouchback, by pushing him of f the horse. Once accused, the guilt and shame of your crimes will cause you to cry and scream until oblivion claims you. ## Another Player in the Game
 
 Vampires are not the only kind of supernatural creatures that walk the night. The auction being held, and those who are attending it, have drawn the attention and ire of other supernatural creatures. were wolves prowl the moors, and they have set their sights on Castle Pickering. 中
 
@@ -860,7 +860,7 @@ Setting: Pickering Lythe
 
 Number of NPCs: 4
 
-This plot works best when integrated with the auction from Chapter Four: Richard III's Revenge, page 56. This plot is an easy opportunity to introduce an element of direct conflict into the ongoing story through an outside antagonist. If you have any Dunsirn player-characters in you r chronicle, you can link them to this plot by informing them that one of their own has gone missing and the family is actively seeking information about Anthony Shea. ## back story
+This plot works best when integrated with the auction from Chapter Four: Richard III's Revenge, page 56. This plot is an easy opportunity to introduce an element of direct conflict into the ongoing story through an outside antagonist. If you have any Dunsirn player-characters in your chronicle, you can link them to this plot by informing them that one of their own has gone missing and the family is actively seeking information about Anthony Shea. ## back story
 
 Unbeknownst to the Marsh family, who nomin ally hold do minion on the Moors near Castle Pickering, a pack of were wolves has claimed territory there, guarding the lands due to the spiritual significance they hold. Beyond the spiritual nature of the are a, Castle Pickering also of fers a strategic significance that the were wolves of the are a are aware of. Word has reached the leader of the pack that two of the items in the auction have a deeper history, one that has connections to his tribe. One of the items, a spearhead from the era of the Crusades, matches the ancient tales of a fetish who se abilities have been for gotten over time. Another more recent art i fact, in the form of an oil lamp, wards against not just ghosts but spirits as well. Now that it has been retrieved from the treasury, the local spirits have told their were wolf all ies of their fear of such an item being held in the hands of the Wyrm. 中
 
@@ -938,7 +938,7 @@ The rise of the nation state, the solidification of power under the Kings, and t
 
 中 flavor to an otherwise normal game. they are particularly well-suited to games where the players are unfamiliar with one another, and the presence of visible, eye-catching props can invite inquiry from those who not ice the m. ## The Game of Flowers and Scandal
 
-The most dangerous engagements of the Jyhad do not take place in the streets or abandoned warehouses. the se battles are not fought with fang or claw or blade. Victory over you r enemies is achieved by saying the proper word at the proper time and being seen in the right place at the right time. T rue power lies in building relationships and all iances over the centuries. The Game of Flowers and Scandal provides the opportunity to be seen and charm others with you r wit and to subtly strike at you r enemies. Those who swim in dangerous waters have to watch for the sharks seeking blood. Strict protocol is observed and those who fail to under stand the danger will be the first to bleed. the me: Betrayal
+The most dangerous engagements of the Jyhad do not take place in the streets or abandoned warehouses. the se battles are not fought with fang or claw or blade. Victory over your enemies is achieved by saying the proper word at the proper time and being seen in the right place at the right time. T rue power lies in building relationships and all iances over the centuries. The Game of Flowers and Scandal provides the opportunity to be seen and charm others with your wit and to subtly strike at your enemies. Those who swim in dangerous waters have to watch for the sharks seeking blood. Strict protocol is observed and those who fail to under stand the danger will be the first to bleed. the me: Betrayal
 
 Mood: Covetous, Decadent
 
@@ -954,20 +954,20 @@ The Game of Flowers and Scandal historically was played with actual flowers, but
 
 ## Mechanics of the Game
 
-The Game of Flowers and Scandal is a game of social influence and manners with strict rules that belie the established kindred protocol of the Camarilla for the duration of the game. This is a chance to make a name for you rself via witty conversation, devastating insults, and social networking. ## Host
+The Game of Flowers and Scandal is a game of social influence and manners with strict rules that belie the established kindred protocol of the Camarilla for the duration of the game. This is a chance to make a name for yourself via witty conversation, devastating insults, and social networking. ## Host
 
 The Host of the Game of Flowers and Scandal announces the Symbel and risks a fleeting status to empower the game. (For more details, see MET: Vampire The Masquerade: The Symbel, page 317.) The Host appoints the Judge (and any assistants) and the n rewards the Victor with some sort of physical prize representing his esteem. It is expected that thereward will be appropriate to the station of the Host. If not, the Host may find that she is the target of scandal herself. ## Judges
 
 The Judge and his designated assistants keep score of the Game of Flowers and Scandal by counting chips and resolving any conflicts in the game. Traditionally, the Judge and all representatives are identified by a yellow ribbon or sash. Every transaction with a poker chip must be monitored by a Judge. Typically, the harpy of the do main is offered this role By the Host. In fact, it is considered an insult and perhaps a challenge to the harpy's authority if the Host do es not at least consult with him before announcing the Judge. If the harpy expects to be too busy to serve as Judge, she will of ten recommend one of her lesser harpies to serve in the role. ## Chips
 
 Scoring in the Game of Flowers and Scandal is achieved through the collecting and trading of poker chips. The color of the poker chip denotes a specific meaning. 中
-- White Poker Chips: the se chips reflect the amount of power and influence you possess in the Camarilla. the se are exchanged for either Blue Poker Chips or Red Poker Chips. - Blue Poker Chips: the se chips reflect adoration or a compliment. Each Blue Poker Chip scores a point in you r favor. - Red Poker Chips: the se chips reflect scandal or insult. Each Red Poker Chip represents a loss against you. ## Initial White Poker Chips
+- White Poker Chips: the se chips reflect the amount of power and influence you possess in the Camarilla. the se are exchanged for either Blue Poker Chips or Red Poker Chips. - Blue Poker Chips: the se chips reflect adoration or a compliment. Each Blue Poker Chip scores a point in your favor. - Red Poker Chips: the se chips reflect scandal or insult. Each Red Poker Chip represents a loss against you. ## Initial White Poker Chips
 
 At the beginning of the game, all players will receive a number of white poker chips depending on the standing of their characters. All kindred and ghouls present, even those not part of the Camarilla, start with a minimum of one white poker chip. Characters gain one additional white poker chip for each fleeting, abiding or innate status they carry into game and retain the chip even if they spend the status over the course of the evening
 
 ## Spending White Poker Chips to Compliment or Scandalize
 
-White poker chips exist to be exchanged with a judge for either a red poker chip (to represent an insult or accusation of bad behavior) or a blue poker chip (to represent a compliment or admiration). Here are several rules for spending a white poker chip: - All exchanges must be public and involve at least one of the judges. - This exchange represents you r character insulting or complimenting another, it do es not represent the use of status. - It's expected that you will spend all you r white poker chips over the course of the evening. - Only one poker chip may be given per action, i. e. five people can't give the same character a red chip at the same time for the same thing. 中
+White poker chips exist to be exchanged with a judge for either a red poker chip (to represent an insult or accusation of bad behavior) or a blue poker chip (to represent a compliment or admiration). Here are several rules for spending a white poker chip: - All exchanges must be public and involve at least one of the judges. - This exchange represents your character insulting or complimenting another, it do es not represent the use of status. - It's expected that you will spend all your white poker chips over the course of the evening. - Only one poker chip may be given per action, i. e. five people can't give the same character a red chip at the same time for the same thing. 中
 
 ## Storyteller not e: Status and the Game of Scandal
 
@@ -1009,7 +1009,7 @@ The judge watches over the game to ensure that the rules are followed. of ten, t
 
 The dancers are competing in a game of subterfuge and cunning against each other, using an unwitting target. The winner must successfully leverage and position his cohorts in such a fashion that the pawn is socially and physically maneuvered to find and engage the dancer in conversation, while blocking his opponent from do ing the very same thing. The pawn must not discover that she was part of the dance until a winner has been declared. Traditionally, the dancers position the mselves on opposite side of the gathering, but some elders have expanded the game to include entire neighborhoods or even a large city. ## The Cohort
 
-Cohort was once the fundamental unit of the Roman Legion, meaning the people you trust the most and bring with you when it is time for war. The cohort is a collection of three to five all ies or cat's-paws that carry out you r orders to win the game. ## The Pawn
+Cohort was once the fundamental unit of the Roman Legion, meaning the people you trust the most and bring with you when it is time for war. The cohort is a collection of three to five all ies or cat's-paws that carry out your orders to win the game. ## The Pawn
 
 The pawn is the focus of the Dance of do minion. It is considered a terrible insult for an elder to be selected as a pawn. Conversely, it is considered a great honor for a neonate or ancilla to be selected as the pawn. T raditionally, the pawn should not be a member of the dancers' faction or clan. ## The Steps of the Dance of do minion
 
@@ -1053,7 +1053,7 @@ The following resources of fer players and Storytellers printable materials to s
 
 A test is a single instance of rock-paper-scissors (RPS). A challenge consists of all tests (and retests) involved in the challenge. ## COMBAT CHEAT SHEET
 
-Resolve combat actions in initiative order. Remember that challenges are not resolved simultaneously. You may attack you r target on you r initiative; she will have the option to attack you on hers. Winning a Test: If you throw the winning hand symbol, you have won the test. Tying the T est: If both individuals throw the same hand symbol, the test is a tie. Compare you r pool to you r opponent's. If the attack pool is greater than the defense's, the attacker achieves a normal success. Otherwise, the attacker loses the test. Losing the Test: If you throw the losing hand symbol, you lose the test. Winning a Challenge: A challenge is composed of one or more tests. Y ou have won the challenge if you win the fin al test in the challenge, after all retests have occurred. If you were attacking, you inflict you r victory condition. If you were defending, you are unaffected by you r opponent's assault. Exceptional Success: If the attacker out right wins (no ties) all tests involved in a challenge, and the attacker's test pool is higher than the defender's test pool, the n the attacker has scored an Exceptional Success. It is of ten wise for a defender to retest when an attacker scores an out right win on a test, in the hopes of a loss or tie (even if the attacker will win the trait comparison). That will remove the possibility of an Exceptional Success on the challenge. Defenders who win the test do not check for Exceptional Successes. ## v Retests
+Resolve combat actions in initiative order. Remember that challenges are not resolved simultaneously. You may attack your target on your initiative; she will have the option to attack you on hers. Winning a Test: If you throw the winning hand symbol, you have won the test. Tying the T est: If both individuals throw the same hand symbol, the test is a tie. Compare your pool to your opponent's. If the attack pool is greater than the defense's, the attacker achieves a normal success. Otherwise, the attacker loses the test. Losing the Test: If you throw the losing hand symbol, you lose the test. Winning a Challenge: A challenge is composed of one or more tests. Y ou have won the challenge if you win the fin al test in the challenge, after all retests have occurred. If you were attacking, you inflict your victory condition. If you were defending, you are unaffected by your opponent's assault. Exceptional Success: If the attacker out right wins (no ties) all tests involved in a challenge, and the attacker's test pool is higher than the defender's test pool, the n the attacker has scored an Exceptional Success. It is of ten wise for a defender to retest when an attacker scores an out right win on a test, in the hopes of a loss or tie (even if the attacker will win the trait comparison). That will remove the possibility of an Exceptional Success on the challenge. Defenders who win the test do not check for Exceptional Successes. ## v Retests
 
 If you lose an opposed test (and only if you lose), you may spend a point of will power to retest, and re-throw RPS. theresults of the second throw are fin al. The second throw may not be retested. ## COMMON TEST POOLS
 - Attacking - Unarmed: Physical + Brawl
@@ -1071,7 +1071,7 @@ Rounds and Turns: A round is one full pass through all characters' initiative ac
 
 A character may take one standard action and one simple action on her initiative. Standard Action: An action that requires a challenge (static or opposed), or requires the character's full attention. Simple Action: An action that a character can perform with out a challenge. ## v Movement
 
-You may use a simple or standard action on you r initiative to move up to three steps. If you use both actions, you may move up to six steps. ## MAXIMUM ATTACKS PER ROUND
+You may use a simple or standard action on your initiative to move up to three steps. If you use both actions, you may move up to six steps. ## MAXIMUM ATTACKS PER ROUND
 
 During a single round, a character can be targeted by a limited number of challenges: - One Social challenge
 - One Mental challenge
@@ -1081,21 +1081,21 @@ A failed challenge still counts against this limitation. ## v Physical, Mental a
 
 You may perform Physical attacks on any round. Mental and Social attacks may only be performed on the Everyman round. ## v Retrying Failed Attacks
 
-If you fail a Physical challenge, you may retry on you r next appropriate action, if possible. If you fail a Mental or Social challenge, that target is immune to you r use of that specific power for the next 10 minutes. ## COMBAT MANEUVERS
+If you fail a Physical challenge, you may retry on your next appropriate action, if possible. If you fail a Mental or Social challenge, that target is immune to your use of that specific power for the next 10 minutes. ## COMBAT MANEUVERS
 
-Before you r attack, you may spend one will power to apply one combat maneuver to you r attack. You may only add one combat maneuver In this manner. not e: This is only a small selection of the most commonly-used combat maneuvers. ## COMBAT CHEAT SHEET
-- Fighting Blind: Y ou may attack an opponent you can not see. Otherwise, you r attack automatically misses. ## PHYSICAL DISCIPLINES
-- Grapple: (Reduce you r damage by 3 to apply.) While grappled, a target can not take steps or take Physical actions. A target can escape a grapple by using her simple action to make an opposed Brawl or Melee challenge against the grappler, and winning that challenge. - Quick Draw: Draw one weapon or other small item with out using a simple action. - Pierce the Heart: (Reduce you r attack pool by 3 to apply.) If you r opponent's wounds are in the Incapacitated wound track (normally the last three health levels), you may use this attack to Pierce her Heart. Mortals are instantly killed. Vampires who have their heart pierced with a weapon that has the staking quality fall into torpor until the stake is removed. ## v Physical Focuses in Combat
+Before your attack, you may spend one will power to apply one combat maneuver to your attack. You may only add one combat maneuver In this manner. not e: This is only a small selection of the most commonly-used combat maneuvers. ## COMBAT CHEAT SHEET
+- Fighting Blind: Y ou may attack an opponent you can not see. Otherwise, your attack automatically misses. ## PHYSICAL DISCIPLINES
+- Grapple: (Reduce your damage by 3 to apply.) While grappled, a target can not take steps or take Physical actions. A target can escape a grapple by using her simple action to make an opposed Brawl or Melee challenge against the grappler, and winning that challenge. - Quick Draw: Draw one weapon or other small item with out using a simple action. - Pierce the Heart: (Reduce your attack pool by 3 to apply.) If your opponent's wounds are in the Incapacitated wound track (normally the last three health levels), you may use this attack to Pierce her Heart. Mortals are instantly killed. Vampires who have their heart pierced with a weapon that has the staking quality fall into torpor until the stake is removed. ## v Physical Focuses in Combat
 
-Strength: Perform one of the se maneuvers once per combat for free: Disarm, Grapple, Knock do wn, or Pierce the Heart. Dexterity: Perform one of the se maneuvers once per combat for free: Burst of Speed, Disarm, Fighting Blind, or Quick Draw. Stamin a: do es not suffer wound penalties; can not be Knocked Out or Knocked do wn unless the attacker has a higher Physical attribute than you r character. ## MASS COMBAT
+Strength: Perform one of the se maneuvers once per combat for free: Disarm, Grapple, Knock do wn, or Pierce the Heart. Dexterity: Perform one of the se maneuvers once per combat for free: Burst of Speed, Disarm, Fighting Blind, or Quick Draw. Stamin a: do es not suffer wound penalties; can not be Knocked Out or Knocked do wn unless the attacker has a higher Physical attribute than your character. ## MASS COMBAT
 
-Mass combat occurs when three or more characters engage in a fight. During such a scenario, a character may spend one action (as defined below) to apply one of two mass combat tactics to another character's Physical attack. Y ou may not use the se tactics to enhance or defend against Mental or Social attacks. Mass combat tactics may be used outside of you r initiative, superseding you r initiative. Alternately, you may hold you r initiative in order to assist another character later in the round. Only one mass combat tactic may be added to an attack/defense. Assist Attacker: Spend a standard action and of fer to assist one character in the combat. If that character accepts, she may apply a combat maneuver to her attack with out spending will power. This may all ow two combat maneuvers to be applied to the same attack, if she also spends a will power to add a maneuver. Assist Defender: Once per round, when one of you r all ies is being attacked, spend a simple action and announce that you will be defending that character. You may move up to three paces to the defender in order to shield her from this attack. You become the new target of the attack. Both you and the or igin al defender are considered to have been targeted by a Physical attack for the purpose of determining maximum attacks per round. Stock NPC Tactics: When a Stock NPC uses the Assist Attacker tactic, she instead provides a +1 bonus to that character's Physical attack. Likewise, when a Stock NPC uses the Assist Defender tactic, she instead provides a +1 bonus to the defender's do dge-based defense test pool. ## v Celerity
+Mass combat occurs when three or more characters engage in a fight. During such a scenario, a character may spend one action (as defined below) to apply one of two mass combat tactics to another character's Physical attack. Y ou may not use the se tactics to enhance or defend against Mental or Social attacks. Mass combat tactics may be used outside of your initiative, superseding your initiative. Alternately, you may hold your initiative in order to assist another character later in the round. Only one mass combat tactic may be added to an attack/defense. Assist Attacker: Spend a standard action and of fer to assist one character in the combat. If that character accepts, she may apply a combat maneuver to her attack with out spending will power. This may all ow two combat maneuvers to be applied to the same attack, if she also spends a will power to add a maneuver. Assist Defender: Once per round, when one of your all ies is being attacked, spend a simple action and announce that you will be defending that character. You may move up to three paces to the defender in order to shield her from this attack. You become the new target of the attack. Both you and the or igin al defender are considered to have been targeted by a Physical attack for the purpose of determining maximum attacks per round. Stock NPC Tactics: When a Stock NPC uses the Assist Attacker tactic, she instead provides a +1 bonus to that character's Physical attack. Likewise, when a Stock NPC uses the Assist Defender tactic, she instead provides a +1 bonus to the defender's do dge-based defense test pool. ## v Celerity
 
-Focus [Dexterity]: Spending 1 Blood activates all Celerity powers you possess, except elder powers or techniques. When you activate Celerity, you gain +2 to do dge-based defensive pools. - 1. Alacrity: you r initiative is increased By the number of Celerity powers you possess. - 2. Swiftness: You gain +5 to determine ranged attackbased Exceptional Success, and +5 to do dge pools for the purpose of resisting Exceptional Successes. - 3. Rapidity: You can act on the Celerity 1 round. - 4. Legerity: You gain an additional +2 to do dge. If you score an Exceptional Success with a ranged attack, you inflict 2 additional points of damage rather than the normal 1. - 5. Fleetness: You can act on the Celerity 2 round. ## v for titude
+Focus [Dexterity]: Spending 1 Blood activates all Celerity powers you possess, except elder powers or techniques. When you activate Celerity, you gain +2 to do dge-based defensive pools. - 1. Alacrity: your initiative is increased By the number of Celerity powers you possess. - 2. Swiftness: You gain +5 to determine ranged attackbased Exceptional Success, and +5 to do dge pools for the purpose of resisting Exceptional Successes. - 3. Rapidity: You can act on the Celerity 1 round. - 4. Legerity: You gain an additional +2 to do dge. If you score an Exceptional Success with a ranged attack, you inflict 2 additional points of damage rather than the normal 1. - 5. Fleetness: You can act on the Celerity 2 round. ## v for titude
 
 Focus [Stamin a]: If you possess for titude, you gain one additional health level in each wound category. - 1. Endurance: You do not suffer wound penalties. - 2. Mettle: Convert 1 point of aggravated damage to normal damage per attack. - 3. Resilience: Ignore 1 point of normal damage per attack. - 4. Resistance: Convert a second point of aggravated damage to normal damage per attack. - 5. Aegis: Ignore a second point of normal damage per attack. ## v Potence
 
-Focus [Strength]: If you have Potence, add +2 to you r Brawl and Melee attack pools. - 1. Prowess: Brawl and Melee attacks are Armor Piercing. - 2. Might: Gain +5 for the purpose of determining Brawl or Melee-based Exceptional Successes. - 3. Vigor: Inflict an additional point of damage with Brawl or Melee attacks. If you score an Exceptional Success with the se attacks, you inflict 2 additional points of damage instead of 1. - 4. Intensity: Y our character inflicts another additional point of damage. Thus, you r normal damage per strike amounts to 3: 1 normal, plus 1 for Vigor, plus 1 for Intensity. If you score an Exceptional Success, you r character inflicts 1 more point, for a total of 4 per strike, rather than 3. - 5. Puissance: you r character inflicts another additional point of damage, for a normal total of 4 per strike. If you score an Exceptional Success, you r character inflicts 1 more point, for a total of 5 per strike, rather than 4. ## Boon Tickets
+Focus [Strength]: If you have Potence, add +2 to your Brawl and Melee attack pools. - 1. Prowess: Brawl and Melee attacks are Armor Piercing. - 2. Might: Gain +5 for the purpose of determining Brawl or Melee-based Exceptional Successes. - 3. Vigor: Inflict an additional point of damage with Brawl or Melee attacks. If you score an Exceptional Success with the se attacks, you inflict 2 additional points of damage instead of 1. - 4. Intensity: Y our character inflicts another additional point of damage. Thus, your normal damage per strike amounts to 3: 1 normal, plus 1 for Vigor, plus 1 for Intensity. If you score an Exceptional Success, your character inflicts 1 more point, for a total of 4 per strike, rather than 3. - 5. Puissance: your character inflicts another additional point of damage, for a normal total of 4 per strike. If you score an Exceptional Success, your character inflicts 1 more point, for a total of 5 per strike, rather than 4. ## Boon Tickets
 
 Boons are the currency of vampiric society, and a Kindred who holds a large number of boons is considered far wealthier than those who possess mundane riches. Vampires may hoard boons for decades or even centuries, waiting for the right moment to call in significant debts owed. Boon records should, at a minimum, include the following: - Creditor's Name: The character who possess the boon
 - Debtor's Name: The character who owes the boon
@@ -1140,15 +1140,15 @@ May be used for a task that requires a good deal of time or resources to pay, an
 
 May be used for a task that can only be repaid by shedding blood on the holder's behalf. May require facing danger, betrayal or social ruin. Creditor: Debtor: Stipulations: ## BOON LIFE
 
-The debtor owes the holder his or her very life. S/he surrenders all his/her own will to you until she saves you r life. Creditor: Debtor: Stipulations: ## BOON MAJOR
+The debtor owes the holder his or her very life. S/he surrenders all his/her own will to you until she saves your life. Creditor: Debtor: Stipulations: ## BOON MAJOR
 
 May be used for a task that requires a good deal of time or resources to pay, and may involve risking personal capital; usually completed in three months. Creditor: Debtor: Stipulations: ## BOON BLOOD
 
 May be used for a task that can only be repaid by shedding blood on the holder's behalf. May require facing danger, betrayal or social ruin. Creditor: Debtor: Stipulations: ## BOON LIFE
 
-The debtor owes the holder his or her very life. S/he surrenders all his/her own will to you until she saves you r life. Creditor: Debtor: Stipulations: ## Status Tickets
+The debtor owes the holder his or her very life. S/he surrenders all his/her own will to you until she saves your life. Creditor: Debtor: Stipulations: ## Status Tickets
 
-Status represents a vampire's place among the hierarchy of predators. Each status trait represents a small portion of her power, influence, and reputation. When a character expends a positive status trait, she leverages her political position in vampire society for a specific purpose. Status records should, at a minimum, include the following: - Category of Status: Abiding and Innate status traits refresh at the beginning of each game session; Fleeting status traits do not refresh after being used. - Patron's Name: If another character expended a status trait to grant you r character a Fleeting status trait, this information should be recorded; recipients of patronage status lose the se traits if the patron loses her position or dies. Players may find it helpful to carry a physical record and reminder of the status they carry into each game. The following printable tickets are provided to assist In this task. Consider having players physically rip the se tickets, or return them to a Storyteller, when their spent effects are expended. - Type of Status: Specific types of status provide their holder with unique passive and spent effects. For more information on status, see Mind's Eye the atre: Vampire The Masquerade, Chapter Seven: Status and Vampire Society, beginning on page 310. ## Storyteller not e: The status tickets provided below only briefly summarize each status' effects. If a status' effect is in question, always defer to the complete descriptions provided in the core rulebook. ## Abiding Status: ## Abi DiNG STATuS
+Status represents a vampire's place among the hierarchy of predators. Each status trait represents a small portion of her power, influence, and reputation. When a character expends a positive status trait, she leverages her political position in vampire society for a specific purpose. Status records should, at a minimum, include the following: - Category of Status: Abiding and Innate status traits refresh at the beginning of each game session; Fleeting status traits do not refresh after being used. - Patron's Name: If another character expended a status trait to grant your character a Fleeting status trait, this information should be recorded; recipients of patronage status lose the se traits if the patron loses her position or dies. Players may find it helpful to carry a physical record and reminder of the status they carry into each game. The following printable tickets are provided to assist In this task. Consider having players physically rip the se tickets, or return them to a Storyteller, when their spent effects are expended. - Type of Status: Specific types of status provide their holder with unique passive and spent effects. For more information on status, see Mind's Eye the atre: Vampire The Masquerade, Chapter Seven: Status and Vampire Society, beginning on page 310. ## Storyteller not e: The status tickets provided below only briefly summarize each status' effects. If a status' effect is in question, always defer to the complete descriptions provided in the core rulebook. ## Abiding Status: ## Abi DiNG STATuS
 
 ## Authority
 
@@ -1158,9 +1158,9 @@ Passive effect: You can award Courageous, Defender, Honorable, or Loyal fleeting
 
 Passive effect: Y ou can carry weapons to any vampire gathering. You can also grant Defender fleeting status to two characters. Spent effect: Y ou can is sue Warned negative status to someone who breaks the law. ## Abi DiNG STATuS Commander
 
-Passive effect: You may is sue orders to members of you r sect; those who disobey lose all fleeting status temporarily. Y ou may award Enforcer to three individuals per night. Spent effect: Y ou can award three characters either Courageous or Loyal fleeting status. ## Abi DiNG STATuS Established
+Passive effect: You may is sue orders to members of your sect; those who disobey lose all fleeting status temporarily. Y ou may award Enforcer to three individuals per night. Spent effect: Y ou can award three characters either Courageous or Loyal fleeting status. ## Abi DiNG STATuS Established
 
-Passive effect: Most individuals who publicly insult, threaten or attack you receive Warned. Spent effect: Y ou can expend this status to grant the Favored fleeting status. ## Abi DiNG STATuS
+Passive effect: Most individuals who publicly insult, threaten or attack youreceive Warned. Spent effect: Y ou can expend this status to grant the Favored fleeting status. ## Abi DiNG STATuS
 
 ## Prominent
 
@@ -1168,21 +1168,21 @@ Passive effect: Y ou can award Courteous or Honorable fleeting status. Spent eff
 
 ## Confirmed
 
-Passive effect: You may approach any of ficer of the sect with out social penalty. Spent effect: You can order any ghoul to obey you r instructions and may kill it if it refuses. ## Abi DiNG STATuS: CAm AriLLA Noble
+Passive effect: You may approach any of ficer of the sect with out social penalty. Spent effect: You can order any ghoul to obey your instructions and may kill it if it refuses. ## Abi DiNG STATuS: CAm AriLLA Noble
 
 Passive effect: Y ou can award Acclaimed or Loyal fleeting status. Spent effect: Y ou can expend this status to give the Vulgar negative status to someone who has of fended you. ## Abi DiNG STATuS: CAm AriLLA Sovereign
 
-Passive effect: You hold a praxis and can award Courageous, Enforcer, or Loyal fleeting status. Y ou can not be contradicted unless you r accuser has specific status. Spent effect: You can give the Sanctioned fleeting status or for saken negative status. ## Abi DiNG STATuS: CAm AriLLA
+Passive effect: You hold a praxis and can award Courageous, Enforcer, or Loyal fleeting status. Y ou can not be contradicted unless your accuser has specific status. Spent effect: You can give the Sanctioned fleeting status or for saken negative status. ## Abi DiNG STATuS: CAm AriLLA
 
 ## Ascendant
 
-Passive effect: You are immune to the powers of anyone with out this status. Spent effect: Y ou can expend this status to give you r target the Disgraced negative status or in it i ate a global blood hunt. ## Abi DiNG STATuS: CAm AriLLA
+Passive effect: You are immune to the powers of anyone with out this status. Spent effect: Y ou can expend this status to give your target the Disgraced negative status or in it i ate a global blood hunt. ## Abi DiNG STATuS: CAm AriLLA
 
 ## Guardian
 
-Passive effect: You can give the Warned negative status to anyone who behaves in appropriately in you r jurisdiction. Spent effect: You can expend this status to grant the Disgraced negative status. ## Abi DiNG STATuS: CAm AriLLA Privleged
+Passive effect: You can give the Warned negative status to anyone who behaves in appropriately in your jurisdiction. Spent effect: You can expend this status to grant the Disgraced negative status. ## Abi DiNG STATuS: CAm AriLLA Privleged
 
-Passive effect: You can not be accused of lying unless you r accuser holds specific status. Spent effect: Y ou can expend this status to give the Vulgar negative status to someone who has of fended you. ## Innate Status: ## iNNATE STATuS: CAm AriLLA
+Passive effect: You can not be accused of lying unless your accuser holds specific status. Spent effect: Y ou can expend this status to give the Vulgar negative status to someone who has of fended you. ## Innate Status: ## iNNATE STATuS: CAm AriLLA
 
 ## Architect
 
@@ -1196,11 +1196,11 @@ Passive effect: May carry weapons at any vampire gathering. Spent effect: Reduce
 
 ## Primus Inter Pares
 
-Passive effect: you r Authority outranks others who also possess the Authority abiding status. Spent effect: Y ou can expend another's Authority, Established or Privileged status with out effect. ## FLEETiNG STATuS Courageous
+Passive effect: your Authority outranks others who also possess the Authority abiding status. Spent effect: Y ou can expend another's Authority, Established or Privileged status with out effect. ## FLEETiNG STATuS Courageous
 
 Passive effect: Use combat maneuver with out spending will power when following orders. Spent effect: all ow another character to use combat maneuver with out spending will power. Patron: ## FLEETiNG STATuS Favored
 
-Passive effect: Individuals who openly attack you receive the Warned negative status. Spent effect: Negate one negative status before it is applied to you. Patron: ## FLEETiNG STATuS
+Passive effect: Individuals who openly attack youreceive the Warned negative status. Spent effect: Negate one negative status before it is applied to you. Patron: ## FLEETiNG STATuS
 
 ## Honorable
 
@@ -1208,7 +1208,7 @@ Passive effect: Individuals must expend one positive status to accuse you of lyi
 
 ## Praised
 
-Passive effect: This status has no passive benefit. Spent effect: Claim a small favor from any member of you r sect. Patron: ## FLEETiNG STATuS
+Passive effect: This status has no passive benefit. Spent effect: Claim a small favor from any member of your sect. Patron: ## FLEETiNG STATuS
 
 ## Victorious
 
@@ -1220,27 +1220,27 @@ Passive effect: This status has no passive benefit. Spent effect: over come a po
 
 ## Loyal
 
-Passive effect: If you receive the Warned negative status, instead remove you r Loyal fleeting status. Spent effect: Acquire one piece of equipment or general information on short not ice. Patron: ## FLEETiNG STATuS
+Passive effect: If youreceive the Warned negative status, instead remove your Loyal fleeting status. Spent effect: Acquire one piece of equipment or general information on short not ice. Patron: ## FLEETiNG STATuS
 
 ## Triumphant
 
-Passive effect: You are granted special privileges at important sect gatherings. Spent effect: Ignore the censure of all you r negative status for one hour. Patron: ## FLEETiNG STATuS: CAm AriLLA
+Passive effect: You are granted special privileges at important sect gatherings. Spent effect: Ignore the censure of all your negative status for one hour. Patron: ## FLEETiNG STATuS: CAm AriLLA
 
 ## Acclaimed
 
-Passive effect: Extend one of you r passive status bonuses to another character with in 10 feet. Spent effect: Request that an of ficer of the sect share her opinion, publicly or privately. Patron: ## FLEETiNG STATuS: CAm AriLLA Sanctioned
+Passive effect: Extend one of your passive status bonuses to another character with in 10 feet. Spent effect: Request that an of ficer of the sect share her opinion, publicly or privately. Patron: ## FLEETiNG STATuS: CAm AriLLA Sanctioned
 
 Passive effect: This status has no passive benefit. Spent effect: Y ou can break one specifically defined sect law with out punishment. Patron: ## Negative Status: ## NEGATivE STATuS Warned
 
-Censure: You may not speak to or contradict an of ficer of you r sect. Punishment: If you break the censure of you r Warned status, you also receive Disgraced. Received From: ## NEGATivE STATuS for saken
+Censure: You may not speak to or contradict an of ficer of your sect. Punishment: If you break the censure of your Warned status, you also receive Disgraced. Received From: ## NEGATivE STATuS for saken
 
-Censure: You are no longer considered Accepted by you r sect and may be destroyed with out permission. Punishment: The vampire who kills you receives the Triumphant fleeting status. Received From: ## NEGATivE STATuS
+Censure: You are no longer considered Accepted by your sect and may be destroyed with out permission. Punishment: The vampire who kills youreceives the Triumphant fleeting status. Received From: ## NEGATivE STATuS
 
 ## Disgraced
 
-Censure: You may not carry weapons, actively use powers in the presence of sect of ficers, feed, or spend or gain status. Others gain Praised for insulting you. Punishment: If break the censure of you r Disgraced status, you also receive for saken. Received From: ## NEGATivE STATuS Vulgar
+Censure: You may not carry weapons, actively use powers in the presence of sect of ficers, feed, or spend or gain status. Others gain Praised for insulting you. Punishment: If break the censure of your Disgraced status, you also receive for saken. Received From: ## NEGATivE STATuS Vulgar
 
-Censure: All fleeting status you possess are temporarily expended with out effect; you can not gain further fleeting status. Punishment: If you receive a second Vulgar, this negative status upgrades to Warned. Received From: ## Printable Character Sheets
+Censure: All fleeting status you possess are temporarily expended with out effect; you can not gain further fleeting status. Punishment: If youreceive a second Vulgar, this negative status upgrades to Warned. Received From: ## Printable Character Sheets
 
 Storytellers are permitted to use the following printable NPC character sheets in their games. For information on each of the following NPCs, see each of the previous chapters In this book. The following NPC character sheets are scaled for chronicles where player-characters (PCs) possess an average of 70 Earned experience points (XP) in add it i on to their 30 Initial XP-a total of 100 XP on average. Storytellers are encouraged to scale the provided NPCs up or do wn to power levels that present an appropriate challenge for their own chronicles. ## Permission to Reproduce the se materials are intended for use by Storytellers and players of Mind's Eye the atre: Vampire the Masquerade. The Publisher grants to individual purchasers of this do cument nonassignable permission to reproduce the character sheets, Sinister Seeds, Boon Tickets, Status Tickets, and the Combat Cheat Sheet included In this public at i on. This license is limited to the individual purchaser for use with his or her own live-action roleplaying game sessions. It do es not extend to additional persons, nor do es purchase constitute a site license. This license do es not grant the right to reproduce the se materials for resale, redistribution, or any other purposes (including but not limited to books, pamphlets, articles, video- or audiotapes, and handouts or slides for lectures or workshops). Permission to reproduce the se materials for the se and any other purposes must be obtained in writing from By Night Studios. Player: NPC
 
@@ -1327,7 +1327,7 @@ Drive. Occult
 
 ## Merits &amp;Flaws
 
-Assign one background3dots. Assign a second back ground 2 do ts. Assign 1dot toa third. Choose one in-clan discipline and assignit 2 do ts. Assign1 do t to each of you r other in-clan disciplines. Buyupto7points of merits and7points from flaws. Mook
+Assign one background3dots. Assign a second back ground 2 do ts. Assign 1dot toa third. Choose one in-clan discipline and assignit 2 do ts. Assign1 do t to each of your other in-clan disciplines. Buyupto7points of merits and7points from flaws. Mook
 
 Generation do min ate
 
@@ -1393,7 +1393,7 @@ Rage: Test if you takeany damage: Hunger: Testifnotat full blood
 
 Fear: Sensuligtrfrelargerhanlgh
 
-Initiative is you rhigher atribute: Mentalor Physical. Poolsareyour Attribute+Skill(or WP)+Wild Card. 5Beast Traits
+Initiative is yourhigher atribute: Mentalor Physical. Poolsareyour Attribute+Skill(or WP)+Wild Card. 5Beast Traits
 
 Lose a permanent point of morality
 
@@ -1480,7 +1480,7 @@ Drive. Occult
 
 ## Merits &amp;Flaws
 
-Assignone background3dots. Assign a second back ground 2 do ts. Assign1 do t toa third. Choose one in-clan discipline and assignit 2 do ts. Assign1 do t to each of you rotherin-clandisciplines. Buy upto7points of merits and 7 points from faws. Awkward Mobility
+Assignone background3dots. Assign a second back ground 2 do ts. Assign1 do t toa third. Choose one in-clan discipline and assignit 2 do ts. Assign1 do t to each of yourotherin-clandisciplines. Buy upto7points of merits and 7 points from faws. Awkward Mobility
 
 Generation
 
@@ -1627,7 +1627,7 @@ O0000
 
 ## Merits &amp;Flaws
 
-Assign one back ground 3dots. Assign a second back ground 2 do ts. Assign 1 do t to a third. Choose onein-clandisiplineand assignit2dots. Assign1 do t to each of you r otherin-clandisciplines. Buyupto7points of merits and 7points from flaws. Auraof Command
+Assign one back ground 3dots. Assign a second back ground 2 do ts. Assign 1 do t to a third. Choose onein-clandisiplineand assignit2dots. Assign1 do t to each of your otherin-clandisciplines. Buyupto7points of merits and 7points from flaws. Auraof Command
 
 Generation do min ate
 
@@ -1707,7 +1707,7 @@ Favored(Lady Anne)
 
 Hunger Testif not at full blood, Fear: Seeing sunlightorfirelargerthanalighter. Honorable
 
-Initiativeisyourhigheratribute: Mentalor Physical. Pools are you r Attribute+Skill(or WP)+Wild Card. 5Beast Traits
+Initiativeisyourhigheratribute: Mentalor Physical. Pools are your Attribute+Skill(or WP)+Wild Card. 5Beast Traits
 
 Lose apermanent point of morality
 
@@ -1788,7 +1788,7 @@ Drive. Occult
 
 ## Merits&amp;Flaws
 
-Assign one back ground 3dots. Assign a second back ground 2 do ts. Assign1 do t toa third. Choose onein-clan discipline and assignit2dots. Assign1 do t to each of you r other in-clan disciplines. Buyupto7points of merits and 7 points from flaws. Acute Sense: Sight
+Assign one back ground 3dots. Assign a second back ground 2 do ts. Assign1 do t toa third. Choose onein-clan discipline and assignit2dots. Assign1 do t to each of your other in-clan disciplines. Buyupto7points of merits and 7 points from flaws. Acute Sense: Sight
 
 Generation
 
@@ -1864,7 +1864,7 @@ Hunger: Testif not at full blood
 
 Fear: Seeing sunlight or fire larger than alighter
 
-Initiative is you rhigheratribute: Mentalor Physical. Poolsareyour Attribute+Skill(or WP)+Wild Card. 5Beast Traits
+Initiative is yourhigheratribute: Mentalor Physical. Poolsareyour Attribute+Skill(or WP)+Wild Card. 5Beast Traits
 
 Loseapermanent pointofmoraly
 
@@ -1940,7 +1940,7 @@ Drive. Occult
 
 ## Merits&amp;Flaws
 
-Assign one back ground 3dots. Assign a second back ground 2 do ts. Assign 1 do t to a third. Choose onein-clan discipline and assignit 2dots. Assign1 do t to each of you r other in-clan disciplines. Buyupto7points of merits and7points from flaws. Personal Cult
+Assign one back ground 3dots. Assign a second back ground 2 do ts. Assign 1 do t to a third. Choose onein-clan discipline and assignit 2dots. Assign1 do t to each of your other in-clan disciplines. Buyupto7points of merits and7points from flaws. Personal Cult
 
 Generation
 
@@ -2008,7 +2008,7 @@ Rage: Test if you takeanydamage
 
 Hunger Testif not at fllblood
 
-Fear: Seeing sunlight or fire larger than a lighter. Initiative is you rhigher atribute: Mental or Physical. Pools are you r Attribute+Skill(or WP)+Wild Card. 5Beast Traits
+Fear: Seeing sunlight or fire larger than a lighter. Initiative is yourhigher atribute: Mental or Physical. Pools are your Attribute+Skill(or WP)+Wild Card. 5Beast Traits
 
 Loseapermanent pointofmorality
 
@@ -2079,7 +2079,7 @@ Drive. Occult
 
 ## Merits&amp;Flaws
 
-Assign one back ground 3dots. Assign a second back ground 2 do ts. Assign 1 do t to a third. Choose onein-clan discipline and assignit 2dots. Assign1 do t to each of you r otherin-clandisciplines. Buy upto7points of merits and 7 points from faws. blood line: Vizier
+Assign one back ground 3dots. Assign a second back ground 2 do ts. Assign 1 do t to a third. Choose onein-clan discipline and assignit 2dots. Assign1 do t to each of your otherin-clandisciplines. Buy upto7points of merits and 7 points from faws. blood line: Vizier
 
 Generation
 
@@ -2141,7 +2141,7 @@ Rage: Test if you takeany damage. Hunger Testif not at fulllood
 
 Fear: Seeing sunlightorfirelargerthanalighter
 
-Initiativeisyourhigheratribute: Mentalor Physical. Pools are you r Attribute+Skill(or WP)+Wild Card. 5Beast Traits
+Initiativeisyourhigheratribute: Mentalor Physical. Pools are your Attribute+Skill(or WP)+Wild Card. 5Beast Traits
 
 Loseapermanent pointofmorality
 
@@ -2219,7 +2219,7 @@ Drive. Occult
 
 ## Merits&amp;Flaws
 
-Assign one background3dots. Assign a second back ground 2 do ts. Assign 1 do t to a third. Choose onein-clan discipline and assignit 2dots. Assign1 do t to each of you rotherin-clan disciplines. Buyupto7points of merits and 7points from flaws. Thaumaturgic Expertise
+Assign one background3dots. Assign a second back ground 2 do ts. Assign 1 do t to a third. Choose onein-clan discipline and assignit 2dots. Assign1 do t to each of yourotherin-clan disciplines. Buyupto7points of merits and 7points from flaws. Thaumaturgic Expertise
 
 Generation
 
@@ -2285,7 +2285,7 @@ Hunger Testif not at full blood
 
 Fear: Seeing sunlight or fire larger than a lightet
 
-Initiativeisyourhigherattribute: Mentalor Physical. Pools are you r Attribute+Skill(or WP)+Wild Card. 5Beast Traits
+Initiativeisyourhigherattribute: Mentalor Physical. Pools are your Attribute+Skill(or WP)+Wild Card. 5Beast Traits
 
 Lose apermanent point of morality
 
@@ -2365,7 +2365,7 @@ Occult
 
 ## Merits&amp;Flaws
 
-Assign one back ground 3dots. Assign a second back ground 2dots. Assign1dot toa third. Choose onein-clan discipline and assignit 2dots. Assign1 do t to each of you r otherin-clandisciplines. Buyupto7 points of merits and 7points from flaws. Clear Sighted
+Assign one back ground 3dots. Assign a second back ground 2dots. Assign1dot toa third. Choose onein-clan discipline and assignit 2dots. Assign1 do t to each of your otherin-clandisciplines. Buyupto7 points of merits and 7points from flaws. Clear Sighted
 
 Generation
 
@@ -2429,7 +2429,7 @@ Rage Test at 2 damage; Hunger: Test if blood is below1/2. Fear: Standing too clo
 
 Rage: Test if you takeany damage. Hunger Testif not at full blood
 
-Fear: Seeing sunlight or fire larger than a lighter. Initiativeisyourhigher atribute: Mental or Physical. Pools are you r Attribute+Skill(or WP)+Wild Card. 5Beast Traits
+Fear: Seeing sunlight or fire larger than a lighter. Initiativeisyourhigher atribute: Mental or Physical. Pools are your Attribute+Skill(or WP)+Wild Card. 5Beast Traits
 
 Lose apermanent pointofmorality
 
@@ -2511,7 +2511,7 @@ O0000
 
 ## Merits &amp;Flaws
 
-Assign one back ground 3dots. Assign a second back ground 2 do ts. Assign 1 do t to a third. Choose onein-clan discipline and assignit 2dots. Assign1 do t to each of you r otherin-clan disciplines. Buyupto7points of merits and 7pointsfrom flaws. Unseeing Eye
+Assign one back ground 3dots. Assign a second back ground 2 do ts. Assign 1 do t to a third. Choose onein-clan discipline and assignit 2dots. Assign1 do t to each of your otherin-clan disciplines. Buyupto7points of merits and 7pointsfrom flaws. Unseeing Eye
 
 Generation
 
@@ -2588,7 +2588,7 @@ Hunger Testif not at full blood
 
 Fear: Seeing sunlightorfirelargerthanalighter. Praised
 
-Initiativeisyour higherattribute: Mental or Physical. Pools are you r Attribute+Skill(or WP)+Wild Card. 5Beast Traits
+Initiativeisyour higherattribute: Mental or Physical. Pools are your Attribute+Skill(or WP)+Wild Card. 5Beast Traits
 
 Loseapermanent point of morality
 
@@ -2671,7 +2671,7 @@ Drive. Occult
 
 ## Merits &amp;Flaws
 
-Assign one back ground 3dots. Assign a second back ground 2 do ts. Assign 1 do t to a third. Choose onein-clan discipline and assignit 2dots. Assign1 do t to each of you rotherin-clandisciplines. Buyupto7 points of merits and 7points from flaws. Expanded Consciousness
+Assign one back ground 3dots. Assign a second back ground 2 do ts. Assign 1 do t to a third. Choose onein-clan discipline and assignit 2dots. Assign1 do t to each of yourotherin-clandisciplines. Buyupto7 points of merits and 7points from flaws. Expanded Consciousness
 
 Generation
 
@@ -2757,7 +2757,7 @@ Fear: Seeing sunlight or fire larger than a lightet
 
 Confirmed
 
-Initiativeisyour higherattribute: Mental or Physical. Pools are you r Attribute+Skill(or WP)+Wild Card. 5Beast Traits
+Initiativeisyour higherattribute: Mental or Physical. Pools are your Attribute+Skill(or WP)+Wild Card. 5Beast Traits
 
 Lose apermanent point of morality
 
@@ -2838,7 +2838,7 @@ O0000
 
 ## Merits &amp; Flaws
 
-Assign one background3dots. Assign a second back ground 2 do ts. Assign1 do t toa third. Choose one in-clan discipline and assign it 2 do ts. Assign1 do tto each of you rotherin-clandisciplines. Buyupto7points of merits and7points from faws. Pathof death and Soul
+Assign one background3dots. Assign a second back ground 2 do ts. Assign1 do t toa third. Choose one in-clan discipline and assign it 2 do ts. Assign1 do tto each of yourotherin-clandisciplines. Buyupto7points of merits and7points from faws. Pathof death and Soul
 
 Generation
 
@@ -2893,7 +2893,7 @@ Rage: Test if you takeanydamage. Hunger: Testif not at full blood
 
 Fear: Seeing sunlightorfre larger than lighte
 
-Initiative is you rhigherattribute: Mentalor Physical. Poolsareyour Attribute+Skill(or WP)+Wild Card. 5Beast Traits
+Initiative is yourhigherattribute: Mentalor Physical. Poolsareyour Attribute+Skill(or WP)+Wild Card. 5Beast Traits
 
 Lose a permanent point of morality
 
@@ -2980,7 +2980,7 @@ O0000
 
 ## Merits &amp; Flaws
 
-Assign one back ground 3dots. Assign a second back ground 2 do ts. Assign1 do t toa third. Choose one in-clan discipline and assign it 2 do ts. Assign1 do t to each of you r otherin-clandisciplines. Buyupto7points of merits and 7points from flaws. Blase
+Assign one back ground 3dots. Assign a second back ground 2 do ts. Assign1 do t toa third. Choose one in-clan discipline and assign it 2 do ts. Assign1 do t to each of your otherin-clandisciplines. Buyupto7points of merits and 7points from flaws. Blase
 
 Generation
 
@@ -3042,7 +3042,7 @@ Hunger: Testifnotatfullblod
 
 Fear: Sengsunlightrfrelargerthanlighte
 
-Initiative is you rhigher atribute: Mentalor Physical. Poolsareyour Attribute+Skill(or WP)+Wild Card. 5Beast Traits
+Initiative is yourhigher atribute: Mentalor Physical. Poolsareyour Attribute+Skill(or WP)+Wild Card. 5Beast Traits
 
 Lose a permanent point of morality
 
@@ -3125,7 +3125,7 @@ Drive. Occult
 
 ## Merits &amp;Flaws
 
-Assign one back ground 3dots. Assign a second back ground 2 do ts. Assign 1 do t to a third. Choose onein-clan discipline and assignit 2dots. Assign1 do t to each of you r other in-clan disciplines. Buyupto7points of merits and 7points from flaws. blood line: car path i an
+Assign one back ground 3dots. Assign a second back ground 2 do ts. Assign 1 do t to a third. Choose onein-clan discipline and assignit 2dots. Assign1 do t to each of your other in-clan disciplines. Buyupto7points of merits and 7points from flaws. blood line: car path i an
 
 Generation
 
@@ -3189,7 +3189,7 @@ Rage: Test if you takeany damage: Hunger Testif not at fllblood
 
 Fear: Seeing sunlight or fire larger than a lightet
 
-Initiativeisyourhigher atribute: Mental or Physical. Pools are you r Attribute+Skill(or WP)+Wild Card. 5Beast Traits
+Initiativeisyourhigher atribute: Mental or Physical. Pools are your Attribute+Skill(or WP)+Wild Card. 5Beast Traits
 
 Loseapermanent pointofmorality
 

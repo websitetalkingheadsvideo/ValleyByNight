@@ -70,7 +70,7 @@ FROM THE BEGINNING: CHARACTER CREATI ON
 Powers BEYOND UNDERSTANDING: ADVANCED DISCIPLINES
 THe RHYTHM OF IMMORTALITY: TACTICS AND SYSTEMS
 
-THe City By NIGHT: BUILDING you R SETTING
+THe City By NIGHT: BUILDING YOUR SETTING
 
 TALES OF IMAGin aTI ON AND MYSTERY: STORYTELLING all IES, ENEMIES AND OTHERS
 
@@ -108,7 +108,7 @@ Benedic’s employees found the gag particularly amusing. Still, he’s a good m
 “Two, actually. A m an and a wom an. He’s currently giving the desk help so me thing of a hard time, claiming his name is
 Tom Cruise. He’s too tall by half f or the impersonati on to take, but it’s one of the more clever attempts I've seen in a while.”
 
-“Get his room assignment and make sure noone goes in or out once he and his friend settle in. Have one of the specials handle the valet parking on their car, and check the trunk f or or dnance. Also run the floorboards to see if they're trying to smuggle anything in, and have you r friend at LVPD run the plates to see if the car is hot.”
+“Get his room assignment and make sure noone goes in or out once he and his friend settle in. Have one of the specials handle the valet parking on their car, and check the trunk f or or dnance. Also run the floorboards to see if they're trying to smuggle anything in, and have your friend at LVPD run the plates to see if the car is hot.”
 
 Duke's annoyance is palpable as he responds, “they selfparked, Mr. Montrose. It was part of wh at tipped me of f to their presence. Otherwise, I'll perform the usual functions, as per our SOP. Do you have any other instructions?”
 
@@ -169,18 +169,18 @@ Benedic’s frequency with some sort of pirating device, and I had to arrange a 
 Th at do esn’t me an th at I do n’t eavesdrop on other
 Kindred’s cell phones. I’m just not dumb enough to use the things myself
 
-Benedic’s phone rings precisely thrice before the prince picks up. “Yes?” His greetings always sound tentative, like he's afraid thereceiver's going to bite his ear. the n ag a in, considering how old Benedic is, I'm not surprised he still has vague suspicions about technology. “you r Majesty? It’s Montrose. We have two infiltrators at the
+Benedic’s phone rings precisely thrice before the prince picks up. “Yes?” His greetings always sound tentative, like he's afraid thereceiver's going to bite his ear. the n ag a in, considering how old Benedic is, I'm not surprised he still has vague suspicions about technology. “your Majesty? It’s Montrose. We have two infiltrators at the
 Mirage, with a third party hidden in the trunk of their car. One of
 ‘our two guests is a Lasombr a, while his friend is anyone's guess. I'd say Toread or antitribu by her looks, but it’s only a gut feeling.”
 
-“Interesting,” Benedic rumbles, and falls silent f or a long moment. “Wh at are you r plans?”
+“Interesting,” Benedic rumbles, and falls silent f or a long moment. “Wh at are your plans?”
 
 Iaunch in to my spiel. This pl an might take some selling, Well, the fact is it’s going to cost Benedic a valuable asset th at one member of the team’s a Keeper changes things. If he disappears, it sets who ever's holding his leash on alert. I'd
 
 rather put on a good show f or him and send him back with a head full of misinformati on th an elimin ate him. how ever, this deal’s going to require a lot of selling f or him to believe it. We had better be prepared to go all the way on this one, or he’s going to think th at so me thing's up.”
 
 Benedic flips through so me thing on the other end of the line, moves some papers and produces some other noises th at I c an’t even beg in to identify. “I’m interested in hearing wh at sort of lies you want to pass of f to our visit or, and wh at you me an by
-‘all the way.’ You worry me when you say such things, Montrose. Iam usually the one who foots the bill f or you r excesses.”
+‘all the way.’ You worry me when you say such things, Montrose. Iam usually the one who foots the bill f or your excesses.”
 
 “You say th at every time, but have I failed you yet?” It’s an old, old argument. Benedic loves the ide a th at I keep his city safe, but wishes I could do it f or a bit less. When the job’s this important, though, I prefer not to skimp on the details. I c an hear the prince chuckling on the other end. “Not yet, ind I'm hoping you do n’tstartnow. Wh at will this one cost me?”
 
@@ -199,7 +199,7 @@ Rouerre: A Caunonary TALE
 
 Duke is playing his part just right. The tone of his voice indicates th at he knows thi story is bullshit and th at he do esn’t care if his target knows th at he do es. the n there’s the sound of the do or cracking open, and the curt a in comes up on
 Duke’s fin al performance have rules In this town, Mr. Cruise— I pard on?” there's more indecipherable attitude th at comes over the line, and c an t or do es this odd little contorti on to getas close
-to the mike as possible with out touching me. Me an while, Duke is n’t breaking stride. “... appears th at you care little f or the rules in our town, and th at you r presence is not one of benefice to us.”
+to the mike as possible with out touching me. Me an while, Duke is n’t breaking stride. “... appears th at you care little f or the rules in our town, and th at your presence is not one of benefice to us.”
 Now there’s some shuffling, and wh at sounds like someone walking of f."... sure you're familiar with our Traditions, and th at you have no intenti on of flouting the m. My employer wishes to speak toyou, and lam toescort you to his of fices.” there’s not hing
 f or a second, the n a wisecrack and assent. they're coming. The elev at or grinds to a halt at the far end of the storeroom. The do or s squeak as Duke and Cruise, or wh at ever his name is, walk out. “Cruise” is tall and th in and looking, and he's flicking his eyes from side to side look
 an ambush. He do esn’t seem to be surprised, though, th at his meeting with “authority” is happening in a crudhole subbasement, do wn among the bottles of flo or wax and crates of toilet cakes. I swear, th at’s one of the bi
@@ -214,7 +214,7 @@ We've already been our clerk spelled my taped f or Duke on the flo or. Perfect t
 
 name wr or He puts his hands on his hips and looks around. It’s show time. I drop the Obfuscate, and mentally give the guy points f or not flinching when he sees me. Even the other Nosferatu think
 I'munattractive, but he took it in stride. Beside me, c an t or looks his usual impeccable self, radiating unconcern as he picks some imagin ary lint from his Versace. c an t or may be a no-talent yutz, but he at least looks the part of a player. “Welcome to Vegas,” | say, “lam Montrose, and this is my associate, Alexander c an t or
-Perhaps you'd care to inform us as to you r business here!”
+Perhaps you'd care to inform us as to your business here!”
 
 The Keeper sizes us up, decides he might be able to take us both. I c an see it in hisaur a th at he’s about to do so me thing stupid. “Not business. Pleasure. I'm in from Californi a to do a bit of gambling.”
 
@@ -263,7 +263,7 @@ We've painted the incident as...,” he riffles the papers ag a in until he find
 
 I nod. “Good. Did we get a read on Stiers’ lady friend?”
 
-“Yes. She was responsible f or the corpse in the garage. Apparently she has some small skill with you r favorite parl or trick, as Di Felice sayshe sawhersimply appear next to the car while | was taking Stiers to meet you. Other th an th at, she did not evince any spectacular abilities. She did, how ever, seem to have a rather short temper, to the point of near-psychosis. The victim was a passer by
+“Yes. She was responsible f or the corpse in the garage. Apparently she has some small skill with your favorite parl or trick, as Di Felice sayshe sawhersimply appear next to the car while | was taking Stiers to meet you. Other th an th at, she did not evince any spectacular abilities. She did, how ever, seem to have a rather short temper, to the point of near-psychosis. The victim was a passer by
 headed f or hisown car, and she simply... snapped when he walked by. Di Felice says it seemed th at she was tired of waiting.”
 
 “And the kid in the trunk?”
@@ -271,7 +271,7 @@ headed f or hisown car, and she simply... snapped when he walked by. Di Felice s
 “I believe he is still there.”
 
 Iwave the detail away as unimportant. “Fine, fine, wh at ever. So Stiers and his lady friend get away, convinced th at we're a bunch of idiots and pushovers, and th at c an t or actually has some power In this town. I me an, ifwe were tough, wenever would have let him kill one of our prize ghouls, right?” Duke flinches, but it’s
-part of the hardening process. Once you're dead, you c an't all ow you rself to shudder at the fact. “In the me an time we learned the caliber of scout they're sending in —and th at maneuver he pulled with the shadows tells me th at Stiers is some fairly heavy artillery
+part of the hardening process. Once you're dead, you c an't all ow yourself to shudder at the fact. “In the me an time we learned the caliber of scout they're sending in —and th at maneuver he pulled with the shadows tells me th at Stiers is some fairly heavy artillery
 If the other side is using guys who are th at powerful f or scouting missions, the n an of fensive is coming. A maj or one. But if we c an keep feeding them false informati on about how weak weare—by, say, running away the second the big bad Lasombr a takes a swing at a ghoul
 too early. Before they're really ready.” wec an make them overconfident and have them hit
 
@@ -337,9 +337,9 @@ Many of the movers and shakers of the Camarill a are old — centuries or even m
 presence th at anchors the Camarill a firmly in its Traditions and history. At the same time, there are more young Kindred in the sect th an ever before. As the mortal populati on has exploded, so too has the capacity of the cities to support the Kindred. Th at means more and more young vampires, all of who m look at their staid, stable and terrifyingly powerful elders with a combin ati on of fear and resentment. Even as age defines the
 Camarill a, it divides the sect as well. Im a Gine THIS
 
-Imagine working f or a normal, mortal corporati on. You're brought on fresh out of college, work you r way up the ranks, and, as those ahead of you retire or seek employment else where, you make you r steady way to the top. The process is timeconsuming, yes, but inevitable. Everyone grows old
-and dies, even CEOs. Now imagine th at same corporati on, but with no competitors f or employees to flee to and no chance of the executives growing old and dying. there is no opening above you, and there will never you make it. Either you f or ce you r way
-in to the power structure by any means necessary, or you spend eternity as entry-level. You have no authority, no hope of advancement and no protecti on against the whims of you r superiors. be —unle: Th at, in a nutshell, is the dilemm a of the young ampire. Power
+Imagine working f or a normal, mortal corporati on. You're brought on fresh out of college, work your way up the ranks, and, as those ahead of youretire or seek employment else where, you make your steady way to the top. The process is timeconsuming, yes, but inevitable. Everyone grows old
+and dies, even CEOs. Now imagine th at same corporati on, but with no competitors f or employees to flee to and no chance of the executives growing old and dying. there is no opening above you, and there will never you make it. Either you f or ce your way
+in to the power structure by any means necessary, or you spend eternity as entry-level. You have no authority, no hope of advancement and no protecti on against the whims of your superiors. be —unle: Th at, in a nutshell, is the dilemm a of the young ampire. Power
 
 Power is the currency of the Camarill a. Power over one’s childer, power over one’s do m a in and power over one’s foes
 —all the se are the co in the vampires behind the Masquerade trade in. all iances are f or med and broken, childer and ghouls created and destroyed, and murders carried out in the shadows of night, all f or the sake of power. In truth, wh at else is there f or the sect’s vampires to acquire? Money is worthless, sex pointless and love easily compelled. Power, the n, becomes the only thing worth pursuing. Th at is not to say th at the only struggles f or power take
@@ -361,15 +361,15 @@ This book servesas the overview toall things Camarill a. It’s not a be-all end
 
 answers to questions like “Who was the Ventrue primogen in Poitiers in 17622", you're going to be disappointed, but th at’s the nature of the beast. If we put in th at sort of detail, the book would simply drown in a se a of names and dates, and not be very useful to anyone. On the other h and, if you're trying to find informati on on how to build a city, wh at high-level Disciplines are available to Camarill a characters, how the sect was founded and how it functions from
 night to night, all th at you need is in here. The Guide to the
-Camarill a is not intended to dictate to you how to run you r
+Camarill a is not intended to dictate to you how to run your
 Camarill a chronicle st and the options available f or playing Camarill a characters or running Camarill a chronicles. Rather, it’s a tool to help you under break down
 
 Chapter One: (The Basics in Blood: The Sect Defined) is an overview of the Camarill a— wh at it is, where it came from, and where it’s putatively going. Included are breakdowns of the various of fices, rights, privileges and Traditions of the sect, as well as places where those customs are starting to break do wn. Chapter Two: (Th in Traceries of Blood: The Clans)
 contains informati on on the clans, blood lines and associated marill a. In additi on to the six basic
 (along with theremaining Gangrel), smaller groups such as
 Lasombr a antitribu and Gargoyles are covered. finally, there’s lineages of the clans informati on on Caitiff. Chapter Three: (From the Beginning: Character Creati on) is a guide to Camarill a character creati on, including additional Archetypes, Abilities, Backgrounds, Merits and Flaws. Chapter Four: (Powers Beyond Understanding: Advanced
-Disciplines) details the advanced Disciplines of the Camarill a clans, including new Thaumaturgical paths and rituals. Chapter Five: (The Rhythm of Immortality: Tactics and Systems) is a night-to-night guide to how the Camarill a do es everything from trials to blood hunts. Chapter Six: (The City By Night: Building you r Setting) is the complete guide to building a Camarill a city — wh at
-you will and w on't find, wh at sort of mortals and immortals are lil mortal politics of the city and more. Also included is asampling of standard characters to populate you r city with
+Disciplines) details the advanced Disciplines of the Camarill a clans, including new Thaumaturgical paths and rituals. Chapter Five: (The Rhythm of Immortality: Tactics and Systems) is a night-to-night guide to how the Camarill a do es everything from trials to blood hunts. Chapter Six: (The City By Night: Building your Setting) is the complete guide to building a Camarill a city — wh at
+you will and w on't find, wh at sort of mortals and immortals are lil mortal politics of the city and more. Also included is asampling of standard characters to populate your city with
 from Caitiffs and ghouls to princes and arch on: ely denizens of the town, how the Camarill a influences the everyone
 
 Chapter Seven: (Tales of Imagin ati on and Mystery: Storytelling) is the Storytelling chapter, with ideas f or running all flavors of Camarill a-based chronicles. The emphasis is on wh at makes a chronicle Camarill a-specific, and on using the unique features of the Camarill a to help create stories. Chapter Eight: (all ies, Enemies and Others) wrapsup the
@@ -660,8 +660,8 @@ from humanity. Instead, by dint of sheer power, the Kindred should rule, and do 
 currently available to the Camarill a peg the hum an-to vampire ratio at 100,000 humans f or every Kindred. Th at’s a lot of humans, and not many Kindred are up to taking out a hundred thous and mortals if push comes to shove. As a result, concealment really is the best policy f or the
 Kindred. Initiated in the days when the Inquisiti on demonstrated a marked talent f or flushing out and extermin ating vampires, the Masquerade serves to keep humanity ignorant. theresources of the kine are vast, and should they be turned to destroying the Kindred, few vampires would survive the purge. It is infinitely safer f or the Kindred to rule from the
 shadows, to direct subtly rather th an rule openly. Otherwise they run the risk of a war with the herds on who m they depend, a war they c an not possibly w in. METHODS there is a basic etiquette th at each and every Kindred
-should follow in order to preserve the Masquerade. In a nutshell, the policy is “No witnesses.” do n’t flash you r fangs or you r claws in front of mortals, do n’t let anyone see you feeding or disposing of a corpse, do n’t take a clip full of bullets to the
-gut and the n let the gunm an get away to sell his story to the tabloids, do n’t let you r vessel live with out do ing so me thing to conceal his memories of you r feeding — in other words, do n’t bestupid. Remembering the se admonitions, how ever, is harder
+should follow in order to preserve the Masquerade. In a nutshell, the policy is “No witnesses.” do n’t flash your fangs or your claws in front of mortals, do n’t let anyone see you feeding or disposing of a corpse, do n’t take a clip full of bullets to the
+gut and the n let the gunm an get away to sell his story to the tabloids, do n’t let your vessel live with out do ing so me thing to conceal his memories of your feeding — in other words, do n’t bestupid. Remembering the se admonitions, how ever, is harder
 th an one might think, especially f or younger Kindred. they tend to get excited or flustered, or to lose control during feeding, and thus make messes. Ancillae and older vampires almost never make accidental breaches of the Masquerade, and
 When they do so, they take care of their own affairs. how ever, slips and accidents do occur. Witnesses do spot feedings and uses of Disciplines, sometimes even reputable witnesses. f or tunately f or the Camarill a, the other half of the sect’s policy f or preservati on of the Masquerade has been in place f or a very long time. the sect, in additi on to trying to preventactive breaches, also maintains a massive disinformati on campaign designed
 tomake mortals think th at vampires could n’t possibly be real. Assisted by Polidori, le Fanu and Stoker, the Camarill a has used narratives and images to cement the not i on of the vampire in the popular consciousness as a ficti on. Every straight-to-video fangfest, every trashy novel with a vampire
@@ -802,7 +802,7 @@ THe SENESCHAL
 
 In the mortal world, the seneschal was the keeper of the keys in a noble house, the minder of the affairs, the one who always knew wh at was happening and who was closest to the master’s ear. It was the seneschal who was in charge when the
 master was away, and who took care of the estate in time of disaster. In the vampiric world, the positi on has n’t changed much from its or igin al incepti on, The seneschal is chosen to be the prince’s personal assistant, the or ie who knows wh at's
-going on atany given moment, and (according to some wags) the one you really have todeal with to get things do ne. Atany time, he may be asked to step in to the prince’s place if she leaves town on business, abdicates or is sl a in. While a prince may wish to have fin al authority on the
+going on atany given moment, and (according to some wags) the one youreally have todeal with to get things do ne. Atany time, he may be asked to step in to the prince’s place if she leaves town on business, abdicates or is sl a in. While a prince may wish to have fin al authority on the
 choice, a number of primogen councils have fought to ensure a seneschal c an did ate to their liking is installed. If the prince is seen as weak or is not well-liked, the fight becomes even fiercer. After all, accidents do happen, the primogen insist, and it were best th at the next in line is someone worth having to avoid
 entanglements at such times. Princes insist th at the choice is theirs to make, particularly when the seneschal sensitive positi on. they point to cert a in disasters in Kindred history regarding the seneschal, most of ten the Nuremberg
 Incident of 1836, when a Sabb at spy managed toachieve the post and the city narrowly avoided being completely overrun after he handed over the secrets he had learned to his cohorts. s in such a
@@ -1494,7 +1494,7 @@ interest in keeping the Caitiff disorganized. On a night-tonight basis, Caitiff 
 STEREOTYPES, Camarill a: Well, the Sabb at wants us dead, so 1 c an deal with the crap from the Cammies f or a while instead. I'd rather get sneered at th an shot at, you know? But things are changing. It do esn't matter if they want to keep the power
 away from us. the se days, there are enough of us to take it
 
-Sabb at: Oh, sure, they of fer you the world — the n they haul of f and hit you on the back of the head with a shovel and bury you r ass. And th at’s if they actually bother to stop and talk instead of just trying to kack you right of f the b at. I d on't like
+Sabb at: Oh, sure, they of fer you the world — the n they haul of f and hit you on the back of the head with a shovel and bury your ass. And th at’s if they actually bother to stop and talk instead of just trying to kack youright of f the b at. I d on't like
 the m, do n’t trust them and would just as shoot them as see the m. Tue View From with OUT
 
 The Camarill a
@@ -1541,7 +1541,7 @@ SS
 Quote: The master do es not recognize me now but I recognize him, yes. So on I will make him remember me, yes? from Tremere do min ati on in centuries past and more recent escapees, the free Gargoyles cluster in is olated communities either in mount a in retreats or industrial cities th at of fer not hing
 to the Tremere. More adventurous souls flock to Camarill a cities to of fer the mselves as bodyguards, muscle and other sorts of lab or f or hire. It is a show of prestige f or a prince to have
 Gargoyle bodyguards at her Elysium, and a show of strength to be able to afford Gargoyle assassins to deal with enemies. Nickname: f or merly Slaves, now a hodge-podge including Freemen, Runaways and Rockheads, depending on who's using the nickname. Calling a free Gargoyle a Slave is a wonderful way to have a large, stone-encrusted fist punched
-through you r abdomen repeatedly. Appearance: Like the Nosferatu (with who m they share an Appearance score of 0), Gargoyles are hideously ugly
+through your abdomen repeatedly. Appearance: Like the Nosferatu (with who m they share an Appearance score of 0), Gargoyles are hideously ugly
 While the exact features of th at ugliness are dependent on the or igin al combin ati on of blood (Nosferatu-Tzimisce, Nosferatu-Gangrel or Gangrel-Tzimisce) th at created the
 Gargoyle’s ultimate ancest or, there are cert a in traits all members of the blood line share. Warts and other protrusions, batlike wings (th at grow as the Gargoyle’s mastery of the
 Visceratik a Discipline grows) and a stony countenance are all endemic to Gargoyles, as is a generally “demonic” appearance. Gargoyles move slowly and deliberately except in crisis situations, but there is no truth to the rum or th at they leave small piles of dust behind them When they walk. have n: Gargoyles employed By the Tremere sleep in
@@ -1626,7 +1626,7 @@ estates, will ing to risk the potential depredations of Lupines in exchange f or
 
 clanmates. The Sabb at Lasombr a have always do ne their best to deny even the
 
-Quote: I have known Ysidro f or six centuries, and I knew his sire before him. Do you really think you know better th an I how he's going to pl an his attack? T thought not — you're dismissed. existence of any antitribu; such vampires By their very existence give the lie to claims about Sabb at and Lasombr a
+Quote: I have known Ysidro f or six centuries, and I knew his sire before him. Do youreally think you know better th an I how he's going to pl an his attack? T thought not — you're dismissed. existence of any antitribu; such vampires By their very existence give the lie to claims about Sabb at and Lasombr a
 
 hegemony. As a result, Lasombr a antitribu are the first target of any Sabb at packs in a given city. The mere rum or of an antitribu's presence is enough to whip the local Sabb at
 Lasombr a in to a homicidal frenz there are two distinct types of Lasombr a antitribu. The majority (though still small in number) are older th an the
@@ -1676,17 +1676,17 @@ Traits, Archetypes and other methods of making him a unique individual. not hing
 Vampire: The Masquerade — but to create a vampire who has a deeper connecti on to the sect, look here. Step Ont
 CHARACTER CONCEPT
 
-The concept is the wellspring from which the who le of the character arises. with out a good ide a as to who and wh at you r character is, all therest — do ts and Disciplines randomly strewn on the page — do n’t hang to get her. And if the character do esn't hang to get her, the n stories built around
+The concept is the wellspring from which the who le of the character arises. with out a good ide a as to who and wh at your character is, all therest — do ts and Disciplines randomly strewn on the page — do n’t hang to get her. And if the character do esn't hang to get her, the n stories built around
 th at character w on't hang to get her, and the who le thing comes crashing do wn
 
-A character concept do esn’t need to be incredibly detailed — if you have you r vampire’s existence from birth to the present do wn cold and regimented in to five minute intervals, so me thing's wrong — but it should be a basic, strong ide a th at gets you excited about being this pers on f or a while. Ie goes with out saying th at you rcharacter concept should be intrinsically tied to the Camarill a somehow. therelati on-
+A character concept do esn’t need to be incredibly detailed — if you have your vampire’s existence from birth to the present do wn cold and regimented in to five minute intervals, so me thing's wrong — but it should be a basic, strong ide a th at gets you excited about being this pers on f or a while. Ie goes with out saying th at yourcharacter concept should be intrinsically tied to the Camarill a somehow. therelati on-
 “anarch trying to take but it do es ship do esn’t have to be lovey-do vey do wn the prince” is a perfectly valid concept
 
 need to connect somehow
 
-CL AN you r choice of cl an is one of the most important decisions you make in creating a character. you r vampire’s cl an dictates her Disciplines, weaknesses and, to a large porti on, the way other characters look at her. With th at in mind, the choice of cl an should never be made lightly. You c an’t swap
+CL AN your choice of cl an is one of the most important decisions you make in creating a character. your vampire’s cl an dictates her Disciplines, weaknesses and, to a large porti on, the way other characters look at her. With th at in mind, the choice of cl an should never be made lightly. You c an’t swap
 clans the way you c an swap jobs, after all. If you do n’t like
-1 Brujah, it’s not like you c an start stockpiling ence to learn how to be a Gangrel. being xperi you r basic choices f or cl an are the six or seven clans ffiliated with
+1 Brujah, it’s not like you c an start stockpiling ence to learn how to be a Gangrel. being xperi your basic choices f or cl an are the six or seven clans ffiliated with
 »sferatu, Toread or, Tremere and Ventrue are the basic options, and
 
 (depending on how one classifies the Gangrel) the Camarill a. Brujah, Gangrel, Malkavi an. FROM THE BEGINNING: CHARACTER CRE AT ON ól
@@ -1696,7 +1696,7 @@ PLAYING AN ODDBALL
 While the six (or seven) core clans make up most of the Camarill a, there are A few other possibilities (as detailed in the clans chapter) available f or play. Before a Storyteller all ows a player to pick up a Gargoyle, a
 Camarill a Ravnos or one of the other, even lesscomm on blood lines, she should sit do wn with the player requesting the unusual character type and make sure th at there is a solid story reas on f or including such an of fbe at
 Kindred in the story. there might be plenty of perfectly valid reasons f or having a single Lasombr a antitribu in a city, but having too many unusual character types in one place at one time stretches credibility. The integrity of
-the story has to come first. among them they of fer a wide range of character possibilities. As well over 95 percent of the vampires in the Camarill a come from the se clans, you should look to them first to see if any of them all ow you to express you r character concept fully
+the story has to come first. among them they of fer a wide range of character possibilities. As well over 95 percent of the vampires in the Camarill a come from the se clans, you should look to them first to see if any of them all ow you to express your character concept fully
 In additi on to the basic clans, Caitiff characters are also an opti on. If you're unsure about the concept you have, or are n’tquite sold on any of the particular clans, a Caitiff makes perfect sense. Such characters all ow f or more improvisati on
 of both Disciplines and character concepts — the journey of self-discovery is a lot more literal f or Caitiff th an f or vampires inducted in to a solid cl an framework — and also provide a roleplaying challenge, as there is n’t a stereotypical Caitiff
 image available to work from. Playing a Caitiff do es have cert a in social consequences in-game, but f or an introductory acharacter, or f or a character who se concept is n’t quite clear, a Caitiff c an be an excellent choice. Nature AND DEME AN OR (ArcHETYpES)
@@ -1704,20 +1704,20 @@ A character's Nature and Deme an or are the basic personality types th at define
 Deme an or is the face th at she shows to the world, the mask she puts on f or night-to-night encounters. A character's
 Nature and Deme an or c an be the same, but of ten a vampire’s
 Deme an or disguises, ever so subtly, wh at her true Nature is. Cert a in Archetype choices are, unsurprisingly, more suitable f or Camarillacharacters th an others. The rules of Camarill a society, need to maint a in the Masquerade and other constrictions of Kindred existence make a Monster Deme an or less likely th an a Conformist one. A Camarill a vampire c an still easily have a Monster Nature, but oddsare th at he hideshis true
-self well, the better to avoid suspici on. You should think about how well you r character's Nature and Deme an or all ow her to work with in both her coterie and the Camarill a as a who le; acting according to you r Nature is all very well and good, but if do ing so gets you r character killed in the first five minutes of
-game play, th at Nature do esn’t serve the purpose of helping to create a solid character. After all, you're investing time and energy in creating you r Kindred; building in so me thing th at will get her wiped out immediately and waste th at investment
+self well, the better to avoid suspici on. You should think about how well your character's Nature and Deme an or all ow her to work with in both her coterie and the Camarill a as a who le; acting according to your Nature is all very well and good, but if do ing so gets your character killed in the first five minutes of
+game play, th at Nature do esn’t serve the purpose of helping to create a solid character. After all, you're investing time and energy in creating your Kindred; building in so me thing th at will get her wiped out immediately and waste th at investment
 simply do esn’t make sense
 
 A full list of Archetypes c an be found on page 104 of
 Vampire: The Masquerade. Additional ones c an be found on pp. 66 of this book. Step Two: SELECT ATTRIBUTES
 
-Attributes define you r character's basic capabilities. Divided in to Physical, Social and Mental categories, they serve to define you r vampire’s baseline. All Camarill a vampires start with one do t in each of their Attributes (except
-Nosferatu and Camarill a-affiliated Samedi, who automatically have a zero rating in Appearance). When you h and out you r vampire’s Attributes, the first thing to do is to prioritize the three categories they come in. You the n get seven do ts to put in you r primary Attribute group, five f or the secondary, and three f or the tertiary in additi on to the do ts already present. The Camarill a encompasses a wide variety of “types,” from Brujah bruisers to
+Attributes define your character's basic capabilities. Divided in to Physical, Social and Mental categories, they serve to define your vampire’s baseline. All Camarill a vampires start with one do t in each of their Attributes (except
+Nosferatu and Camarill a-affiliated Samedi, who automatically have a zero rating in Appearance). When you h and out your vampire’s Attributes, the first thing to do is to prioritize the three categories they come in. You the n get seven do ts to put in your primary Attribute group, five f or the secondary, and three f or the tertiary in additi on to the do ts already present. The Camarill a encompasses a wide variety of “types,” from Brujah bruisers to
 Malkavians Embraced as children, so there’s no “right” or
-“Camarill a” way to set up you r character's Attributes. Simply try to keep you r fin al arrangement in line with you r or igin al concept, and remember th at you c an come back later and adjust things with freebie points. Step THREE: SELECT ABILITIES
+“Camarill a” way to set up your character's Attributes. Simply try to keep your fin al arrangement in line with your or igin al concept, and remember th at you c an come back later and adjust things with freebie points. Step THREE: SELECT ABILITIES
 
-The next step in the character creati on involves assigning you r character's Ability Traits. Abilities range from the basic — like Drive and Brawl — to the more esoteric, which are discussed on page 67. The way in which you distribute the points f or you r character's Traits determines wh at she c an or
-c an't do very well, and helps to realize the concept you came up with in Step One. Th at means th at the way you all ocate you r character's points should line up with the way you envisi on you r character — fragile artiste Toread or probably
+The next step in the character creati on involves assigning your character's Ability Traits. Abilities range from the basic — like Drive and Brawl — to the more esoteric, which are discussed on page 67. The way in which you distribute the points f or your character's Traits determines wh at she c an or
+c an't do very well, and helps to realize the concept you came up with in Step One. Th at means th at the way you all ocate your character's points should line up with the way you envisi on your character — fragile artiste Toread or probably
 
 Hrt with t He UGLY STICK
 
@@ -1728,7 +1728,7 @@ Faces defaults to an Appearance rating of 2. Even attempts to look like specific
 points of blood f or each do t’s worth of improvement in the mask’s looks. Creating a mask with an Appearance rating of 1 incurs no additional cost. Trt GUDE TO THe CAMARLL A shouldn't wind up with a rating of Brawl 5, while you might
 not be able to justify Harley-riding Gangrel anarchs with four do ts each in Etiquette and Occult
 
-Ideally, you should think about who you r character is first the n all ocate do ts to help construct her to match th at concept
+Ideally, you should think about who your character is first the n all ocate do ts to help construct her to match th at concept
 Filling in the circles on the character sheet, and the n scrambling to find away to make theresultantconnect-the-do ts puzzle make sense f or the character c an lead to all sorts of problems
 
 No vampire c an have more th an three do ts in any given
@@ -1751,17 +1751,17 @@ Insuch instances, the difficulty of all rolls based of f Secondary Abilities sho
 The fin al opti on is to make Secondary Abilities available at a lower cost th an normal Abilities. Every point spent on a Secondary Ability during the third step of character creati on nets two do ts instead of just one
 Secondary Abilities bought with freebie points cost only one point per do t, and raising a Secondary Ability with experience costs only the Trait’s current rating
 
-Storytellers should feel free to use any and all, or none, of the se approaches. It’s you r game, after all
+Storytellers should feel free to use any and all, or none, of the se approaches. It’s your game, after all
 
 A list of Secondary Abilities available to Camarill a vampires appears in the Vampire Compani on on page 15
 Additional Secondary Abilities c an be found In this book, starting on page 67
 
 Abilities, like Attributes, are broken do wn in to three categories (the aforementioned Talents, Skills and
 Knowledges), and like Attributes, the se are prioritized. Primary Abilities get 13 do ts, Secondary get 9 and Tertiary get
-5. you c an not take do ts from one category and pour them in to another, even if you only see three do ts’ worth of Knowledges th at you want you r character to have. Camarill a vampires do have casier access to some Abilities th an do Sabb at vampires, but in return some
+5. you c an not take do ts from one category and pour them in to another, even if you only see three do ts’ worth of Knowledges th at you want your character to have. Camarill a vampires do have casier access to some Abilities th an do Sabb at vampires, but in return some
 Sabb at-specific Abilities are of f limits to Camarill a vampires who do n’t have a very good reas on to have the m. Step Four: SELECT ADVANTAGES
 
-Advantages are wh at, as much as cl an, define a vampire as being such. The term “Advantages” covers Disciplines, Backgrounds and Virtues, and by defining the se you finish establishing you r character's basics. Advantages are not broken do wn in to categories to be prioritized. You simply get a cert a in number of do ts f or each type of Advantage, to spend
+Advantages are wh at, as much as cl an, define a vampire as being such. The term “Advantages” covers Disciplines, Backgrounds and Virtues, and by defining the se you finish establishing your character's basics. Advantages are not broken do wn in to categories to be prioritized. You simply get a cert a in number of do ts f or each type of Advantage, to spend
 as you will
 
 Out-or-CL AN DISCIPLINES there is a temptati on, once one reaches the freebie points stage in character creati on, to mortgage the figurative farm in order to purchase
@@ -1782,7 +1782,7 @@ Blood. Other Disciplines, those not reflexive to a given cl an, c an be picked u
 (see below), but at this point, the character is restricted to the powers directly linked to her cl an. Each cl an has three
 Disciplines in which it specializes, which provide a broad range of supernatural abilities in the physical, mental and social are nas. BACKGROUNDS
 
-Backgrounds are character history manifested in Trait form. Each character gets five do ts’ worth of Backgrounds, which c an be used in any combin ati on you desire. You c an stack upall five do ts in one back ground, or get one level each of five distinct ones. you r Storyteller c an, as always, disallow
+Backgrounds are character history manifested in Trait form. Each character gets five do ts’ worth of Backgrounds, which c an be used in any combin ati on you desire. You c an stack upall five do ts in one back ground, or get one level each of five distinct ones. your Storyteller c an, as always, disallow
 cert a in Backgrounds, or keep characters below a pre-set ceiling. Camarill a vampires generally have a deep and broad investment in their Backgrounds, of ten using freebie points toadd to their ratings. Because of the f or ced socializati on the
 sect mandates, it’s entirely sensible f or a Kindred to have
 Contacts and all ies. The sect’s interacti on makes a perfectly reason able justificati on f or Herd, Fame, Resources and Influence, not to menti on Retainers. A Ment or also makes f or a useful Storyteller character, while Status c an be given or taken away By the harpies in the space of a heartbe at. Virtues
@@ -1796,7 +1796,7 @@ Kindred face every night. The Gune To THE CAMARIL A
 
 GENERATI ON
 
-It c an be tempting to put all of you r back ground points in to Generati on. Th at way you get a bigger blood pool and c an spend more blood per round, with no drawbacks, right? Th at’s not necessarily the case. A vampire with all its
+It c an be tempting to put all of your back ground points in to Generati on. Th at way you get a bigger blood pool and c an spend more blood per round, with no drawbacks, right? Th at’s not necessarily the case. A vampire with all its
 Backgrounds in Generati on has no money, noone toturn to in a crisis, no protect or, no feeding reserves and of ten. not much else. Th at’s wh at having no all ies, no Contacts, no Resources, no Ment or, no Herd and no other
 Backgrounds means. Players should not automatically assume th at they default to comfortable status; with out spending the points f or a back ground, they do n’t have wh at the back ground mandates. Step Five: Last TOUCHES
 
@@ -1809,25 +1809,25 @@ Conscience + Self-Control ratings, and it c an go as high as
 10. Humanity is vitally important to Camarill a vampires, especially younger ones. It is through maintaining touch with one’s Humanity th at one keeps the Beast at bay, and making oneself presentable in polite company. At its most basic level, Humanity is wh at separates the
 Camarill a from the Sabb at. Characters with low Humanity scores are liable to be suspect in Camarill a circles. After all, the drive to keep in touch with one’s Humanity is one of the core philosophical stances of the Camarill a, and those who deviate from it or ignore th at quest are, in essence, disregarding wh at the entire sect is about. will pOWER
 
-you r character’s will power score is equal to her Courage rating. As will power has a multitude of uses, from resisting
-Mental Disciplines to granting automatic successes on rolls, it is recommended th at you devote freebie points to increasing you r character’s will power. BLoop Po or
+your character’s will power score is equal to her Courage rating. As will power has a multitude of uses, from resisting
+Mental Disciplines to granting automatic successes on rolls, it is recommended th at you devote freebie points to increasing your character’s will power. BLoop Po or
 
-Roll a 10-sided die. the result is you r character's starting blood pool. It is assumed th at any blood in you r character's system at the beginning of game play is hum an, unless you and you r Storyteller make arrangements otherwise. Freepie do mnts
+Roll a 10-sided die. the result is your character's starting blood pool. It is assumed th at any blood in your character's system at the beginning of game play is hum an, unless you and your Storyteller make arrangements otherwise. Freepie do mnts
 
 Freebie pointsare the 15 additional points you c an spend on wh at ever Traits you like. In additi on, you c an also buy
-Merits and Flaws (see page 295 of Vampire: The Masquerade, and page 72 of this book f or more informati on on Merits and Flaws) to tweak you r character to get it in line with you r or igin al concepti on. SPARK OF Lire
+Merits and Flaws (see page 295 of Vampire: The Masquerade, and page 72 of this book f or more informati on on Merits and Flaws) to tweak your character to get it in line with your or igin al concepti on. SPARK OF Lire
 
-At this point, you should have a fully filled-out character sheet—not a fully fleshed-out character. you now need to think about you r character's story — who she is, where she came from, why she was made in to a vampire and wh at she’s do ing with her unlife — before you're ready to play. You need to think about
+At this point, you should have a fully filled-out character sheet—not a fully fleshed-out character. you now need to think about your character's story — who she is, where she came from, why she was made in to a vampire and wh at she’s do ing with her unlife — before you're ready to play. You need to think about
 who she knows. If she has all ies, who are they? Other vampires who like her style or her aims? Mortals who m she’s kept up an acquaintance with? Asf or her Abilities, you need to think about why she has th at particular skill set. Wh at incident in her past
 caused her to pick up three do ts in Firearms? Why is she good with do dge, but not particularly skilled at Brawl? Unless you have a reas on f or handing out each and every do t on the character sheet, those do ts rem a in simply circles. By building a
-back story th at explains why you r character has the Abilities, Backgrounds and wh at not th at she do es, you make her a real, viable character. If you d on't, you just have a collecti on of do ts. THe DRELUDE
+back story th at explains why your character has the Abilities, Backgrounds and wh at not th at she do es, you make her a real, viable character. If you d on't, you just have a collecti on of do ts. THe DRELUDE
 
 Vampires are made, not born. Each and every Kindred was the result of some other vampire’s conscious decisi on to
-Embrace a mortal and bring her in to the unliving fold. there's a story behind each Embrace, a story called a prelude. Technically speaking, the prelude is the sequence of events leading up to a character's Embrace. It is recommended th at, under normal circumstances, you role play out you r character's prelude, if f or no other reas on th an to grant some perspective on who she is and where she came from. Roleplaying out the prelude
-also all ows you to establish therelationship between you r character and her sire, to firm up the details of her Embrace (was itviolent?expected?accidental?) and todefine herentry in to the world of the Kindred. All of the se are pivotal matters f or a young
-vampire. By going through you r character's prelude, you work outall of the se important details, which gives both you and you r
-Storyteller a better grasp of you r character. You'll be able to portray her more realistically, and you r Storyteller has more facts on which to hang plot hooks derived from her Embrace. The circumstances of a Camarill a vampire’s Embrace are slightly different from those of other Kindred. Remember, each
-Camarill a vampire is the result (in the or y, at least), of someone’s being granted permissi on to Embrace. Th at means th at there’s a vampiric back story to each character, as well as the mortal’s own history. Either you or you r Storyteller, depending on circumstance, should know how exactly you rcharacter’ssire gotpermissi on
+Embrace a mortal and bring her in to the unliving fold. there's a story behind each Embrace, a story called a prelude. Technically speaking, the prelude is the sequence of events leading up to a character's Embrace. It is recommended th at, under normal circumstances, yourole play out your character's prelude, if f or no other reas on th an to grant some perspective on who she is and where she came from. Roleplaying out the prelude
+also all ows you to establish therelationship between your character and her sire, to firm up the details of her Embrace (was itviolent?expected?accidental?) and todefine herentry in to the world of the Kindred. All of the se are pivotal matters f or a young
+vampire. By going through your character's prelude, you work outall of the se important details, which gives both you and your
+Storyteller a better grasp of your character. You'll be able to portray her more realistically, and your Storyteller has more facts on which to hang plot hooks derived from her Embrace. The circumstances of a Camarill a vampire’s Embrace are slightly different from those of other Kindred. Remember, each
+Camarill a vampire is the result (in the or y, at least), of someone’s being granted permissi on to Embrace. Th at means th at there’s a vampiric back story to each character, as well as the mortal’s own history. Either you or your Storyteller, depending on circumstance, should know how exactly yourcharacter’ssire gotpermissi on
 to create her. The Camarill a politics leading to the Embrace c an make f or fascin atingstories, particularly ifsomeone was n’t thrilled
 
 From THE BEGINNING: CHARACTER CREATI ON with the way the bo on of creati on was handled. By the sametoken, the questi on of why exactly the character was selected f or the
@@ -1835,15 +1835,15 @@ Embrace needs to be faced. Wh at drew her sire to her? Was she
 Embraced tofill aparticularneed in the city'shierarchy, or to spite another Camarill a vampire? Perhaps the Embrace was an accident, or a has ty decisi on —wh at will the consequencesbe f or both neonate and sire? The Embrace is a complicated matter f or both sire and childe when Camarill a politics get involved, and those
 politics always do manage to get involved somehow. COTERIE
 
-Odds are th at you r character is not going to be working alone. Instead, he'll most likely be part of a coterie, a circle of vampires bound by comm on interest, comm on enemies or just pl a in circumstance. It makes sense before you start play, how ever, to think about how you r coterie fits to get her and
-how it fits in to the local Camarill a. Establishing comm on ground f or you r coterie is essential. If there’s no good reas on f or you r gang to stick to get her, it w on’t. Th at means fragmented story lines, stress f or the
+Odds are th at your character is not going to be working alone. Instead, he'll most likely be part of a coterie, a circle of vampires bound by comm on interest, comm on enemies or just pl a in circumstance. It makes sense before you start play, how ever, to think about how your coterie fits to get her and
+how it fits in to the local Camarill a. Establishing comm on ground f or your coterie is essential. If there’s no good reas on f or your gang to stick to get her, it w on’t. Th at means fragmented story lines, stress f or the
 Storyteller and lots of time spent sitting around as individual plotlines are run. It makes sense, the n, to lay the ground work f or a coterie th at works to get her, at least initially. Some good methods of keeping a group of young vampires to get her
 include princely fi at, a shared sire, a comm on enemy (either with in or outside the Camarill a) or a mutual interest like music, the arts or travel. The form the coterie takes c an be derived from the group's comm on bond. Vampires who share
 an interest in music, f or example, might form a b and, while a princely comm and to cle an up the city might turn the coterie in to a posse comitatus, complete with a shared look and standardized equipment. It’s also worth figuring out where exactly the coterie fits
 in to the local Camarill a scene. Was the coterie’s f or mati on sanctioned By the prince, or the characters’ sires? If not, wh at form will the disapproval of the se older Kindred take? Any group of Kindred is a potential power base, and any coterie will
 have all sorts of other vampires looking at it as a result. with the others see the group as a thre at, and ifso, wh at measures will they take? Is there an elder (or two) who wants to use the coterie f or his own ends, and wh at will he do to ensure their
 cooperati on? Wh at is the coterie’s ultimate ambiti on, and do es anyone know about it? If the group intends to become the primogen council eventually, the present holders of th at of fice might decide tonip the thre at in the bud. By establishing where
-you r coterie belongs in the local Camarill a— if it belongs at all
+your coterie belongs in the local Camarill a— if it belongs at all
 — you set the stage f or the types of story to follow. ARCHETYPES
 
 Archetypes are basic personality types, frameworks on which to hang the details of a character. While a gre at many
@@ -1858,17 +1858,17 @@ Storyteller supervisi on. Camarill a. A few of those are listed below, f or use 
 
 The Idealist believes — truly, madly, deeply — in some higher goal or morality. The object of his idealism may be so me thing as pragmatic as the Camarill a’s eventual triumph or as amorphous as the ultimate good, but the belief is there. Idealists are frequently either very new to the Blood or very
 old, and many seek after Golcond a as the fin al expressi on of their idealism. In the me an time, an Idealist tries to reconcile his beliefs with the demands of vampiric existence, of ten acting contrary to self-interest to do so. — Reg a in a point of will power any time an acti on in
-pursuit of you r ideals furthers you r goals and brings you r ideal closer to fruiti on. SOLDIER
+pursuit of your ideals furthers your goals and brings your ideal closer to fruiti on. SOLDIER
 
 The Soldier is not a blindly loyal follower. While she exists f or orders, she do es not adhere to them unquestioningly. More independent th an a Conformist but too tied in to the ide a of comm and to be a Loner, the Soldier applies her own techniques to others’ goals. While she may seek comm and herself someday, her ambitions lie with in the established
-hierarchy and structure. The Soldier has no compunctions about using wh at ever means necessary to do wh at needs to be do ne, so long as the orders to do so came from the right place. — Reg a in a point of will power when you achieve you r orders’ objectives. The more difficult the orders are to fulfill, the better it feels to accomplish the m. At Storyteller discre Tht GUDE 10 THE CAMARILL A
+hierarchy and structure. The Soldier has no compunctions about using wh at ever means necessary to do wh at needs to be do ne, so long as the orders to do so came from the right place. — Reg a in a point of will power when you achieve your orders’ objectives. The more difficult the orders are to fulfill, the better it feels to accomplish the m. At Storyteller discre Tht GUDE 10 THE CAMARILL A
 
 ti on, pulling of f a spectacular success or fulfilling a lengthy missi on may well be worth additional will power points. DABBLER
 
 The Dabbler is interested in everything but focuses on not hing. He flits from ide a to ide a, passi on to passi on and project to project with out actually finishing anything. Others may get swept up in the Dabbler’s enthusiasm, and be left high and dry as a result when he moves on to so me thing else
 with out warning. Most Dabblers have high Intelligence, Charism a and Manipulati on ratings, but not much in the way of Wits or Stamin a. Toread or are of ten Dabblers, particularly those afflicted with the derisive sobriquet “Poseurs.”
 
-— Reg a in will power when ever you find a new enthusiasm and drop you r old one completely. SCIENTIST
+— Reg a in will power when ever you find a new enthusiasm and drop your old one completely. SCIENTIST
 
 To a Scientist, existence is a puzzle which she c an help to reassemble. A Scientist logically and methodically examines her every situati on and maneuver, looking f or logical outcomes and patterns. This is not to say th at the Scientist is always
 looking f or a scientific or rational explanati on, but rather, th at she examines her surroundings rigorously and with a critical eye. The system a Scientist attempts to impose on the world may be completely ludicrous, but it is a system, and she sticks
@@ -1885,23 +1885,23 @@ Elieser looked up mournfully from the one-way glass window through which he and 
 —his poetry's quite good —and, well, Prince Alexander said I had the right, and I’m choosing him!” The younger vampire’s face set in a pout, and his fingers twitched with frustrati on. Mentally, Adele sighed. She'd been through this before with
 Elieser — and Elieser’s sire before him. “Now let’s not be has ty, Eli. You're right, I do n’t know him. Perhaps if you brought him in to the family, one step at a time? Th at way I could learn wh at you see in him.” And you'll have time to get bored with him before I get saddled with another mistake, she added silently. Elieser nodded slowly, and Adele permitted herself a small smile
 
-Diplomacy is the art of handling difficult situations with tact and skill. Ic is also the ability to negotiate positions, rather th an specifics—the latteris the purview of Haggling. you c an negotiate policy and treaties, and extricate you rself from unpleasant situations with words, rather th an f or ce or use of Disciplines.. Novice: You c an state you r positi on with out
-driving anyone away from the negotiating table. Practiced: You cl an trusts you to represent it on some is sues. Competent: you ragend a usually carries the day. Expert: You c an handle lab or strife and cutting deals with the Lupines with equal ease. Master: You c an convince nations to alter their policies — and like it. Possessed By: Diplomats, Seneschals, Politicians, Ambitious Ventrue
+Diplomacy is the art of handling difficult situations with tact and skill. Ic is also the ability to negotiate positions, rather th an specifics—the latteris the purview of Haggling. you c an negotiate policy and treaties, and extricate yourself from unpleasant situations with words, rather th an f or ce or use of Disciplines.. Novice: You c an state your positi on with out
+driving anyone away from the negotiating table. Practiced: You cl an trusts you to represent it on some is sues. Competent: youragend a usually carries the day. Expert: You c an handle lab or strife and cutting deals with the Lupines with equal ease. Master: You c an convince nations to alter their policies — and like it. Possessed By: Diplomats, Seneschals, Politicians, Ambitious Ventrue
 Specialties: Settlements, Cease-Fires, all iance Building, Graceful Exits, Sp in do ctoring
 
 HAGGLING
 
-“Absolutely not.” Selene Ameault, prince of Boulder, waved agitatedly at her petitioner. “You expect me simply to h and the entire campus to you and you rs in exchange f or some rumors about a Nosferatu city? Precisely when did you go insane, and how did I fail to not ice it?”
+“Absolutely not.” Selene Ameault, prince of Boulder, waved agitatedly at her petitioner. “You expect me simply to h and the entire campus to you and yours in exchange f or some rumors about a Nosferatu city? Precisely when did you go insane, and how did I fail to not ice it?”
 
-“you r Majesty.” Regent Se an Reynolds was, as always, unctuously polite. “I'm not asking f or the entire campus — merely th at you open up access to the rare do cuments library and some of the feeding rights to my new childe. In exchange, | of fer concrete evidence of so me thing untoward happening in you r
+“your Majesty.” Regent Se an Reynolds was, as always, unctuously polite. “I'm not asking f or the entire campus — merely th at you open up access to the rare do cuments library and some of the feeding rights to my new childe. In exchange, | of fer concrete evidence of so me thing untoward happening in your
 do m a in. Ihave maps, satellite photos, seismic records, eyewitness accounts and—,” he paused f or effect, “a prisoner.”
 
-Ameault s at bolt upright. “Fascin ating... Perhaps you r childe wouldn't object to an observer when he visited the do cuments room?”
+Ameault s at bolt upright. “Fascin ating... Perhaps your childe wouldn't object to an observer when he visited the do cuments room?”
 
-“She, you r Majesty. And I’m sure she wouldn't.”
+“She, your Majesty. And I’m sure she wouldn't.”
 
-You c an trade favors, and negotiate costs and other specifics so th at transactions come out in you r fav or. You c an judge relative value of goods and services quickly and easily, and know when someone's attempting to rip you of f.. Novice: you c an knock A few bucks of f the price of so me thing at a fle a market or garage sale. Practiced: You get used cars f or wh at they're
-worth, not wh at they’re marked. Competent: you c an play the game of prestati on better th an any of you r peers. Expert: Princesask you if they're getting a good deal. Master: you c an getwhatyou want, when you want it f or the price you are will ing to pay — always. Possessed By: Police Negotiators, Anarchs, Purchasing
+You c an trade favors, and negotiate costs and other specifics so th at transactions come out in your fav or. You c an judge relative value of goods and services quickly and easily, and know when someone's attempting to rip you of f.. Novice: you c an knock A few bucks of f the price of so me thing at a fle a market or garage sale. Practiced: You get used cars f or wh at they're
+worth, not wh at they’re marked. Competent: you c an play the game of prestati on better th an any of your peers. Expert: Princesask you if they're getting a good deal. Master: you c an getwhatyou want, when you want it f or the price you are will ing to pay — always. Possessed By: Police Negotiators, Anarchs, Purchasing
 Agents, Houschold Ghouls, Importers, Nosferatu
 
 Specialties: Swaps, Selling Informati on, Fine Print, Contracts, Prestati on
@@ -1917,7 +1917,7 @@ Elias Karp stood impassively, watched his acquaintance impassively and occasiona
 cause all sorts of trouble f or Crabtree's “beloved,” who se affairs were bound to come under scrutiny after her beau’s mani a manifested. It might even w in Karp some very hard-to-come-by approval from some very important Kindred who knew wh at he had do ne. But was any of th at worth listening to Crabtree's intermin able rant? The sacrifices one was f or ced to make... You c an plot and pl an effectively. You underst and how to manipulate others through trickery and artifice, and you
 are expert at exposing a target’s vulnerabilities. not e th at
 Intrigue is not Subterfuge; the latter involves fieldwork and actual sabotage, while Intrigue operates more on a the or etical and consequential level. Subterfuge is the art of planting a f or ged letter; Intrigue is the art of knowing who se handwriting to f or ge f or maximum effect.. Novice: you maneuverwellagainstasingleadversary. ee Practiced: You c an figure out how to subvert an
-or ganized enemy. Competent: You c an handle multiple plots simultaneously. Expert: You've woven a web of do uble- and triple-crosses, all to you r benefit. Master: therest of the Kindred are justso many puppets, dancing on you r strings. Possessed By: Spymasters, Harpies, Setite Recruiters, Secure Princes
+or ganized enemy. Competent: You c an handle multiple plots simultaneously. Expert: You've woven a web of do uble- and triple-crosses, all to your benefit. Master: therest of the Kindred are justso many puppets, dancing on your strings. Possessed By: Spymasters, Harpies, Setite Recruiters, Secure Princes
 
 Specialties: Subversi on, is olating Opponents, Corporate Sabotage, Mounting Coups
 
@@ -1944,14 +1944,14 @@ SeARCH
 The apartment was, to put it politely, a disaster. Everything break able had been broken, including a couple of the plumbing fixtures. Blood was every where, from the linoleum flo or of the kitchen to the warped wood of the windowsill. over head, a light
 fixture dangled crazily from a half-snapped ch a in; only two of the bulbs were working, as therest had been smashed. Glass crunched underfoot as Anabelle sniffed the air and frowned. Behind her, her childe snorted in disapproval at the scene. “Looks like the Sabb at got to him first. not hing here f or
 us.” His tone clearly indicated th at he was bored with the who le scene, and wanted simply to chalk the who le thing up as a loss. “Not quite. Everything we need is still here. If who ever did this — and I'm not so cert a in it was Sabb at — had found wh at they were looking f or, they wouldn't have needed to wreck
-everything quite so thoroughly. I'll bet you a year of f you r apprenticeship th at wh at we're looking f or is still here.”
+everything quite so thoroughly. I'll bet you a year of f your apprenticeship th at wh at we're looking f or is still here.”
 
 Dev in laughed. “A year? You're on.” He crossed his arms and looked smug, right until the time his sire picked up a photograph under a cracked pane. The picture showed a pair of beautiful women in
 1890s-style dress; one bore astriking resemblance to Annabelle herself. She neatly popped theremainder of the glass out, the n removed the picture. Behind it on the matting was a folded piece of paper, yellowed with age. Anabelle held it up with a gr in as her childe sputtered. The Gune TO T at CaMARLL A
 
 “Understanding sentiment was the key to understanding my dear, late friend. Now, Dev in, about th at extr a year...”
 
-You have the ability to examine a pers on or scene and find wh at you need. Locating hidden compartments, uncovering wall safes and do ping out smuggling techniques are all with in you r are a of expertise. Search also covers both frisking techniques and more generalized searches, such as trying to
+You have the ability to examine a pers on or scene and find wh at you need. Locating hidden compartments, uncovering wall safes and do ping out smuggling techniques are all with in your are a of expertise. Search also covers both frisking techniques and more generalized searches, such as trying to
 unc over buried caches or bodies. Novice: you c an spot a bulge under a jacket and be reasonably sure wh at it is. Practiced: False bottoms and secret pockets c an’t hide from you. Competent: you c an find any concealed weap on in a matter of seconds. Expert: The proverbial needle in the haystack
 is no challenge f or you. Master: not hing short of the supernatural c an be hidden from you. Possessed By: Border Guards, Cops, DE A Agents, Sheriffs, Bodyguards
 Specialties: Body Searches, Search and Seizure, Vehicle
@@ -1970,8 +1970,8 @@ were th at it was one of the sheriff's bruisers
 
 She knelt do wn and pulled the clothesline taut. It was 3/
 4" twine, hardly her favorite to work with, but with the sheriff's men do ing a room-to-room search in the building behind her, she did n’t have a lot of options. with a quick prayer Shel by took out her knife and slammed it in to the ro of, the n looped the rope around it in order to take up the slack
-the n, fingers crossed, she kicked of f her shoes and stepped on to the rope. One step at a time, she told herself One step at a time. You c an use you r body to perform feats of flexibility th at are beyond most individuals’ capabilities. You c an tumble, swing, flip, balance and otherwise use you r body to you r best
-advantage. You may not be the most flexible Kindred in the world, but you use you r body’s capabilities to their utmost. Novice: You c an do a somersault with out hurting you rself or others. Practiced: Flips, rolls and other basic maneuvers are with in you r range. Competent: You are good enough to amaze crowds or confound foes with you r antics. Expert: You are capable of performing gymnastic maneuvers on any surface with wh at ever equipment is at h and. Master: You are an Olympic-caliber gymnast. Possessed By: Trapeze Artists, Contortionists, Athletes, Spies
+the n, fingers crossed, she kicked of f her shoes and stepped on to the rope. One step at a time, she told herself One step at a time. You c an use your body to perform feats of flexibility th at are beyond most individuals’ capabilities. You c an tumble, swing, flip, balance and otherwise use your body to your best
+advantage. You may not be the most flexible Kindred in the world, but you use your body’s capabilities to their utmost. Novice: You c an do a somersault with out hurting yourself or others. Practiced: Flips, rolls and other basic maneuvers are with in your range. Competent: You are good enough to amaze crowds or confound foes with your antics. Expert: You are capable of performing gymnastic maneuvers on any surface with wh at ever equipment is at h and. Master: You are an Olympic-caliber gymnast. Possessed By: Trapeze Artists, Contortionists, Athletes, Spies
 
 TTT
 
@@ -1996,7 +1996,7 @@ as she could over the thumping music, “I’m not sure. I me an, would it be OK
 “Of course. they c an meet us out front,” Zander lied. Mentally, he gritted his teeth. Tonight's hunt was going to take a little longer th an he thought. Hunting is the ability to find and bring do wn a target of any sort, on any terr a in, f or any purpose. with a proper applicati on of Hunting, you c an do anything from running
 do wn deer in the wild to picking a mortal out of the herd f or purposes of feeding. This skill also includes man hunting, and c an apply to the search f or other Kindred
 
-Novice: You do n’t need to club you r prey over the head first. Practiced: you c an find dinner with reason able ease. Competent: Humans are easy to is olate and feed on. Expert: Once you decide on a target, it’s only a matter of time. Master: Hum an, animal or Kindred — none
+Novice: You do n’t need to club your prey over the head first. Practiced: you c an find dinner with reason able ease. Competent: Humans are easy to is olate and feed on. Expert: Once you decide on a target, it’s only a matter of time. Master: Hum an, animal or Kindred — none
 c an escape you. Possessed By: Alastors, Hunters, Gangrel, Federal
 Agents, Survivalists, Scourges
 
@@ -2029,13 +2029,13 @@ Specialties: Power Structure, Ch a in of Comm and, Secrets, Movers and Shakers
 Computer HACKING
 
 Bob by leaned back in his chair, hands clasped behind his head, and grinned the gr in of the righteous geek. “Ladies and gentlemen, may I present to you everything you ever wanted to know about where Horatio’s banks have been putting our money. 1 figure we've got about five minutes before the system security
-boots us out on our collective ass, but in the me an time I've taken the liberty of do ing screen shots of everything here. You'll be able to print those out and look at them at you r leisure.”
+boots us out on our collective ass, but in the me an time I've taken the liberty of do ing screen shots of everything here. You'll be able to print those out and look at them at your leisure.”
 
 Various Kindred crowded around Bob by, trying to get a look at his 21” monit or and jabbering among the mselves. Several offered him congratulations; he just looked bashful
 
 Truth be told, this was his fifth time in to Ballard’s banks, and at this point Bob by was reasonably cert a in he could turn them upside do wn and shake every last penny out of the m, if he so desired. But he'd keep th at little tidbit to himself. Once you started
-do ing miracles, people expected you to be able to perform them on comm and, and he'd rather not deal with the pressure. You c an use you r computer to insert you r virtual presence in to systems where you do n’t belong. With this knowledge, you c an crack computer security and some f or ms of encrypti on and
-otherwise perform feats of dat a piracy and sabotage th at would w in the approbati on of other hackers as well as an arrest warrant from the FBI. Best of all, you c an do this while covering you r tracks. Novice: You c an guess others’ passwords. Practiced: You know all of the basic back do or s to popular operating systems. Competent: You know how to get you rself root
+do ing miracles, people expected you to be able to perform them on comm and, and he'd rather not deal with the pressure. You c an use your computer to insert your virtual presence in to systems where you do n’t belong. With this knowledge, you c an crack computer security and some f or ms of encrypti on and
+otherwise perform feats of dat a piracy and sabotage th at would w in the approbati on of other hackers as well as an arrest warrant from the FBI. Best of all, you c an do this while covering your tracks. Novice: You c an guess others’ passwords. Practiced: You know all of the basic back do or s to popular operating systems. Competent: You know how to get yourself root
 access on a fair number of systems. Expert: you c an find security loopholes and exploit them with in days of a software package's release. Master: You c an cut through military security or tap in to Wall Street. Possessed By: Hackers, NS A Agents, Phone Phreaks, Security Specialists
 Specialties: Phone Phreaking, Military Security, Fin ancials, Viruses, Encrypti on, pass word the ft, Back do or s
 
@@ -2043,7 +2043,7 @@ Economics
 
 “Wh at are you do ing?” Bailey gazed uncomprehendingly at the numbers flashing by on his childe’s screen. they seemed to be moving at arapid pace, while she thrummed her fingers on the desk and made “harrumphing” noises. “Running a simulati on.”
 
-“th an k you,” he said icily. “Th at answer wastechnically correct and told me absolutely not hing. Now suppose f or a moment you show you r sire a little respect, look away from th at infernal machine of you rs and tell me wh at exactly you are
+“th an k you,” he said icily. “Th at answer wastechnically correct and told me absolutely not hing. Now suppose f or a moment you show your sire a little respect, look away from th at infernal machine of yours and tell me wh at exactly you are
 running a simulati on of.”
 
 Nicole swiveled her chair to face her sire. (She did not, how ever, stop drumming her fingers on the desk, a fact which he made a mental not e of.) “I'm do ing projections as to the effects of bank collapses on cert a in nations th at have been borrowing liberally. Specifically, I'm working out exactly how many fin ancial institutions we're going to have to kick over in order to
@@ -2075,15 +2075,15 @@ His partner frowned. “Well, if I did n’t know better I'd say we were dealing
 
 “Right in one.” Mc Loughl in grinned. “Want to go do some field research? Bring the mas on jars.”
 
-You are familiar with therecord of events, mortal and immortal. You c an place events in historical context, and even detect Kindred influence on the stream of mortal history. you r expertise may well all ow you to unc over
+You are familiar with therecord of events, mortal and immortal. You c an place events in historical context, and even detect Kindred influence on the stream of mortal history. your expertise may well all ow you to unc over
 evidence of vampiric activity, ranging from resting places of elders to evidence of specific individuals’ involvement in affairs.. Novice: You know the basics of history with out knowing many of the specifics. Practiced: You c an pick out historical errors on
-televisi on programs and in movies. Competent: You have a solid grasp on the field, and have specialized in a particular are a. Expert: You are a recognized expert in the field; grad students footnote you r works. Master: All of the past is an open book to you. Possessed By: Historians, Elders, do cumentary Filmmakers, Academics, Recreationists
+televisi on programs and in movies. Competent: You have a solid grasp on the field, and have specialized in a particular are a. Expert: You are a recognized expert in the field; grad students footnote your works. Master: All of the past is an open book to you. Possessed By: Historians, Elders, do cumentary Filmmakers, Academics, Recreationists
 
 Specialties: Military History, Social History, National or Ethnic Histories, Kindred History
 
 Psyc Ho Ltocy
 
-“So tell me,” Helt on managed in between gales of laughter, “about you r sire.” Around him, therest of the coterie collapsed in helpless hilarity. Jonesie seemed unimpressed By the display
+“So tell me,” Helt on managed in between gales of laughter, “about your sire.” Around him, therest of the coterie collapsed in helpless hilarity. Jonesie seemed unimpressed By the display
 He glanced from vampire to vampire, dismissing each in tum. “Well,” he said, “my sire had a pathological fear of sunlight, to the point of needing to look out the window every half-hour to make sure the Earth had n't somehow mysteriously speeded up in its rotati on and brought morning on early. He also recognized th at he had a problem, and dutifully sought help f or it — with my
 encouragement, of course.”
 
@@ -2113,8 +2113,8 @@ player's character of points gained through a Flaw the character is ignoring. Th
 MERITS AND FLAWS
 
 The basic character creati on process f or Vampire: The
-Masquerade all ows you to draw the broad strokes of you r character —cl an, generati on, Attributes and so on. Merits and
-Flaws, how ever, all ow you to sketch in finer details of you r character's capabilities and history with in the bounds of the
+Masquerade all ows you to draw the broad strokes of your character —cl an, generati on, Attributes and so on. Merits and
+Flaws, how ever, all ow you to sketch in finer details of your character's capabilities and history with in the bounds of the
 Storyteller system's rules. With Merits and Flaws, you c an give a character abilities — or weaknesses — not otherwise covered. Merits are, unsurprisingly, bonus abilities, knacks, talents, contacts and other pluses th at a character might have. Flaws are the exact opposite — weaknesses and liabilities, whether they be psychological, physical, social or even m a cal. A Merit c an cost between one and seven freebie points at the end of character creati on, while a Flaw c an grant
 additional freebies in the same range. Characters should never have more th an seven points in either Merits or Flaws, and all proposed Traits taken In this fashi on are subject to
 Storyteller approval. Specirics there are some Merits and Flaws th at are unique to
@@ -2123,12 +2123,12 @@ Camarill a (or in limited cases, ex-Camarill a vampires) alone; Merits like Prim
 with the local Sabb at pack), but comm on sense should be the ultimate guideline. CHOOSING WISELY
 
 Merits and Flaws are part of the last step of the character creati on process, the spending of “freebie points.” The should be taken as a sort of icing on the cake, rather th an as them a in thrust of the character's person a. When you select
-Merits and Flaws (if you do indeed select the m), try to keep you r character's history and sense of self in mind. Ifacharacter’s back story includes the facts th at he had a horrifying Embrace and was mistreated by his sire, the Flaw Nightmares makes
+Merits and Flaws (if you do indeed select the m), try to keep your character's history and sense of self in mind. Ifacharacter’s back story includes the facts th at he had a horrifying Embrace and was mistreated by his sire, the Flaw Nightmares makes
 sense; if he was a ghoul trained f or decades to take his place in the Camarill a, the Flaw loses its justificati on. Similarly, if you're going torun a rabble-rousing Brujah, picking the Merit
 Sheriff's Friend makes no sense. Merits and Flaws are, in the end, optional. there's no shame or weakness in creating a character who has none, n or is a character with out Merits or extr a freebies from Flaws necessarily at a disadvantage. With th at in mind, below are listed Merits and Flaws th at are
 appropriate f or Camarill a characters. Storytellers should feel free todisallow, modify or ignore any of the se as their games dem and. PHYSICAL
 
-Traits th at are designated Physical Merits and Flaws relate to a character’s strength, speed, toughness and form. Bruiser (lpr. Merr) you r appearance is sufficiently thuglike to inspire fear or at
+Traits th at are designated Physical Merits and Flaws relate to a character’s strength, speed, toughness and form. Bruiser (lpr. Merr) your appearance is sufficiently thuglike to inspire fear or at
 Teast disquiet in tices who see you: While you'te noe necessarily úgy pier sé; yodo radi an a sart Ob Guile nenic ike pot vibr a people’ tioi thie Beet to ayoli pasilip near y on Yarar at -1 difficulty on all Intimidati on rolls against those who have
 not demonstrated their physical superiority to you. Frienp Ly Face (lpt. Merr)
 
@@ -2137,15 +2137,15 @@ Social-based rolls (yes f or Seducti on, no f or Intimidati on, f or example) wh
 
 Twrtcn (lpr. Fraw)
 
-You have some sort of repetitive moti on th at you make in Giese Cfatress and is adead gtvenwayastn you rklent: Examples include a nervous cough, constantly wringing you r hands, cracking you r knuckles and so on. It costs one will power or ek an fom engaging in you r twitch: Duttep Brie (2 pt. Flaw)
+You have some sort of repetitive moti on th at you make in Giese Cfatress and is adead gtvenwayastn yourklent: Examples include a nervous cough, constantly wringing your hands, cracking your knuckles and so on. It costs one will power or ek an fom engaging in your twitch: Duttep Brie (2 pt. Flaw)
 
-F or some reas on you r fangs never developed fully — they may not have manifested arall, When feeding, you need tofind some other method of making the blood flow. Failing ch at, you must achieve do uble the normal number of successes in order
-to make you r bite penetrate properly. A number of Caitiff and high-generati on vampires of ten manifese this Flaw. Open Wounn (2-4pt. Flaw)
+F or some reas on your fangs never developed fully — they may not have manifested arall, When feeding, you need tofind some other method of making the blood flow. Failing ch at, you must achieve do uble the normal number of successes in order
+to make your bite penetrate properly. A number of Caitiff and high-generati on vampires of ten manifese this Flaw. Open Wounn (2-4pt. Flaw)
 
 You have one or more wounds th at refuse to heal, and which constantly drip blood. This slow leakage costs you an extr a blood point per evening (marked of f just before dawn), in additi on to drawing attenti on to you. If the wound is visible, you are at +1
 difficulty f or all Social-based rolls. F or two points, the Flaw is simply unsightly and has the basic effect mentioned above; f or fourpoints the seeping wound is serious or disfiguring and includes the effects of the Flaw Permanent Wound (Vampire, page 297). PeRMANENT FANGS (3pt. Fraw)
 
-you r fangs do not retract, making it impossible f or you to hide you r true nature. While some mortals may think you've had you r teeth filed or are wearing prosthetics, sooner or later you're going to run in to someone who knows wh at you truly
+your fangs do not retract, making it impossible f or you to hide your true nature. While some mortals may think you've had your teeth filed or are wearing prosthetics, sooner or later you're going to run in to someone who knows wh at you truly
 are. You are a constant thre at to the Masquerade, and other
 
 FROM THE BEGINNING: CHARACTER CREATI ON
@@ -2153,14 +2153,14 @@ FROM THE BEGINNING: CHARACTER CREATI ON
 Kindred may take steps to prevent a breach from ever occurring. you are also limited to an Appearance rating of 3 at most. Growing Eves (3 pt. Flaw)
 
 You ‘have: the stereotypical glawing/ eyes ob vannie legend which gives you x+]. difficulty on Intimidati on rolls when you're dealing with mortals. how ever, the tradeoffs are any you pret a walking: fear m the Mesqueade'acd mune
-constantly disguise you r conditi on (no, contacts do n’t cut it); the glow impairs you r visi on and puts you at +1 difficulty on all sight-based rolls (including the use of ranged weapons); and the radiance emanating from you r eye sockets makes it difficult to hide (+2 difficulty to Stealth rolls) in the dark. MENTAL
+constantly disguise your conditi on (no, contacts do n’t cut it); the glow impairs your visi on and puts you at +1 difficulty on all sight-based rolls (including the use of ranged weapons); and the radiance emanating from your eye sockets makes it difficult to hide (+2 difficulty to Stealth rolls) in the dark. MENTAL
 
 Mental Merits and Flaws help define a character's mental capabilities, strength of mind, native wit and intelligence. Mental Merits and Flaws have not hing todo with a character's state of mind. Rather, they detail wh at a character c an do with her mind instead. Copy Loaic at (lpt. Merr)
 
 Wite ione mige reken jona a “cold AGH? you have a
-(se: EEEE DETE STEE E sae cal colorati on. You may or may not be emotional you rself, but you c an see clearly when others are clouding the facts with their feelings (21 difficulty on all Sense Decepti on and related rolls). Userut KNowrence (lpr. Merit)
+(se: EEEE DETE STEE E sae cal colorati on. You may or may not be emotional yourself, but you c an see clearly when others are clouding the facts with their feelings (21 difficulty on all Sense Decepti on and related rolls). Userut KNowrence (lpr. Merit)
 
-You have expertise in a specific field th at makes you r conversati on intriguing to an older Kindred. So long as you r knowledge holds the other vampire’ interest in keeping you around. the n ag a in, once he’s pumped
+You have expertise in a specific field th at makes your conversati on intriguing to an older Kindred. So long as your knowledge holds the other vampire’ interest in keeping you around. the n ag a in, once he’s pumped
 you f or every iot a of informati on you possess, th at patronage may suddenly vanish. (not e: This Merit should be played like a 1-do t
 Ment or with a specific interest. how ever, unlike a Ment or, Useful Knowledge do es not imply a permanent relationship.) attenti on, he has a vested
 
@@ -2170,26 +2170,26 @@ You are familiar with and talented in the uses of computer equipment. Other Kind
 
 You le a in quickly. The time f or you to pick up a particular Ability (or Abilities, at Storyteller discreti on) is cut in half, as is the experience cost. Impatient (lpr. FLAW)
 
-‘You baveno patience f or seaniling wind ae want to do things now, and the Devil take the hindmost. Every time yotare f or ced to waitaround instead of ecting. a Self Consol roll is required to see if you go haring of f on you r own instead. Unconvincep (lpt. FLAw)
-You fail to see the need f or the Masquerade, and have gone on record as saying so. Taking you r st and has made you suspect in the eyes of you r elders, and may have attracted the
+‘You baveno patience f or seaniling wind ae want to do things now, and the Devil take the hindmost. Every time yotare f or ced to waitaround instead of ecting. a Self Consol roll is required to see if you go haring of f on your own instead. Unconvincep (lpt. FLAw)
+You fail to see the need f or the Masquerade, and have gone on record as saying so. Taking your st and has made you suspect in the eyes of your elders, and may have attracted the
 Sabb at’s attenti on as well. Stereotype (2 pr. FLAw) you buy heavily in to all of the vampire legendry you've read and heard: you wear a cape, speak with an accent and otherwise act in acartoonish fashi on. Such behavi or is embarrassing in the
 extreme tpocherkindred; who are likaly toostracie oemoccvau
-(+2 difficulty to Social rolls with other vampires who do n’tshare you r habits). Also, you st and out to hunters, and run the risk of violating the Masquerade every time you take to the streets, THIRST F or Innocence (2pt. FLAW)
+(+2 difficulty to Social rolls with other vampires who do n’tshare your habits). Also, you st and out to hunters, and run the risk of violating the Masquerade every time you take to the streets, THIRST F or Innocence (2pt. FLAW)
 
-The sight of innocence — of any sort — arouses in you a terrible bloodlust. Roll Self-Control, or else frenzy and attack the source of you r hunger. Victim of the Masquerane (2pt. FLAW)
-‘The Camarill a’s propagand a machine did too good a job on you. Even after you r Embrace you refused to believe you were a vampire. You rem a in convinced th at there is some logical explanati on f or you r conditi on, and spend as much
+The sight of innocence — of any sort — arouses in you a terrible bloodlust. Roll Self-Control, or else frenzy and attack the source of your hunger. Victim of the Masquerane (2pt. FLAW)
+‘The Camarill a’s propagand a machine did too good a job on you. Even after your Embrace yourefused to believe you were a vampire. You rem a in convinced th at there is some logical explanati on f or your conditi on, and spend as much
 time as you c an searching f or it. You also have: problems feeding, and may insist on trying to e at regular food. None of the se habits makes you particularly pleasant company f or other Kindred. This Flaw must be role played at all times. Gumt-Wracxwen (4pt. Flaw)
 
 you simply c an not come to grips with the fact th at you must drink blood to survive. You suffer horrible guilt over each time you feed (roll Conscience, difficulty 7, or else frenzy every time you feed) and try to avoid do ing so as much as possible. This
-means th at you rarely have much blood in you r system, leaving you vulnerable to both attacks and hunger-based frenzies. SOCIAL
+means th at yourarely have much blood in your system, leaving you vulnerable to both attacks and hunger-based frenzies. SOCIAL
 
 Merits and Flaws under this heading relate to a vampire’s social dealings. Relations with in the sect and with the Kindred at large are covered by this category. not e th at there are more Social
 Merits and Flaws listed here th an there are of any other category; the intrinsically social nature of the Camarill a mandates such. Erysium Recurar (lpr. Merit)
 
 You spend an unusual amount of time at the various
-Elysiums in you r city. You see and are seen to such an extent th at all of the movers and shakers of Elysium at least know who you are. Extended time spent in Elysium also gives you extended opportunities to interact with the harpies and other Kindred of th at stature —and they'll know you r name when you approach the m. f or mer Guout (lpr. Merit)
+Elysiums in your city. You see and are seen to such an extent th at all of the movers and shakers of Elysium at least know who you are. Extended time spent in Elysium also gives you extended opportunities to interact with the harpies and other Kindred of th at stature —and they'll know your name when you approach the m. f or mer Guout (lpr. Merit)
 
-You were introduced to the Blood long before you were made kiid a you r long ezpalen as ghoul gives fou KEINO anil combirk with vamplic o on ne a Aon a
+You were introduced to the Blood long before you were made kiid a your long ezpalen as ghoul gives fou KEINO anil combirk with vamplic o on ne a Aon a
 Social rolls when in the presence of other neonates (particularly those who haven't been educated By their sires), and have a standing-1 difficulty on rolls relating toknowledge of the Kindred. The GUDE 10 THe CAMARLL A
 
 Ow a y
@@ -2207,14 +2207,14 @@ Iih
 Harm ess (lpr. Merr)
 
 Everyone in the city knows you, and knows th at you're no thre at to their plans. While th at sort of estimati on may seem insulting, it’s also wh at’s kept you from being killed. No one considers you worth their time to deal with, and th at low
-opini on keeps you safe. If you start acting in a way th at demonstrates th at you are no longer harmless, others’ reactions to you will likely change as a result. ProtécE (lpr. Merr) you r sire watched you f or some time before Embracing y on did apake glavingly of you ey sequatneaices: ‘The
-vampires may be inclined to look favorably on you by dint of you r sire’s recommendati on; you are at -1 difficulty on Social rolls with all those who've heard good things about you. Rep (lpr. Merit) you r fame has exceeded the bounds of you r sect. Everyone
-knows who you are wh at: you've do ne and wh at yarr te supposed to havedone (which might not be the sme thing). The publicity c an be good or bad; wh at matters is th at everybody knows you r name. Whether individuals outside of you rimmediate social circle
-i knew enough to mitich you rlace ts qournmmneti a diferentes
+opini on keeps you safe. If you start acting in a way th at demonstrates th at you are no longer harmless, others’ reactions to you will likely change as a result. ProtécE (lpr. Merr) your sire watched you f or some time before Embracing y on did apake glavingly of you ey sequatneaices: ‘The
+vampires may be inclined to look favorably on you by dint of your sire’s recommendati on; you are at -1 difficulty on Social rolls with all those who've heard good things about you. Rep (lpr. Merit) your fame has exceeded the bounds of your sect. Everyone
+knows who you are wh at: you've do ne and wh at yarr te supposed to havedone (which might not be the sme thing). The publicity c an be good or bad; wh at matters is th at everybody knows your name. Whether individuals outside of yourimmediate social circle
+i knew enough to mitich yourlace ts qournmmneti a diferentes
 
 Sapp at SURVIV OR (lpr. Merit)
 
-You've lived through at least one Sabb at attack and/or attenipred recruitmene. you r experience helps you aneicipate situations where you might potentially be endangered By the
+You've lived through at least one Sabb at attack and/or attenipred recruitmene. your experience helps you aneicipate situations where you might potentially be endangered By the
 
 Uy
 
@@ -2224,134 +2224,134 @@ Sabb at once ag a in. You are at -1 difficulty on all Percepti on rolls when it 
 
 Bo on (l-Opt. Merit)
 
-Someone owes you a fav or. The vampire in you r debt might be the lowliest neonate in the city or might be the prince herself; itall depends on how many points the Merircosts: you only hai th at single fav or owed you (unless you take the Merit multiple times), so using it properly is of paramount importance. Depending on status and other factots, the vampire wh a Gwes you s fav or
+Someone owes you a fav or. The vampire in your debt might be the lowliest neonate in the city or might be the prince herself; itall depends on how many points the Merircosts: you only hai th at single fav or owed you (unless you take the Merit multiple times), so using it properly is of paramount importance. Depending on status and other factots, the vampire wh a Gwes you s fav or
 may well resent his debt, and might go out of his way to “settle” it early —even going so far as to create situations from which he must “rescue” you and thus clear the slate. but tvnoy (2pt. Merit)
 
 You're part of the brute squad the local sheriff calls on when he needs some muscle. As a result, you get in on acti on th at others miss entirely, score points with those in power, and occasionally get a chance to act outside of the law. How far outside the law the sheriff is will ing to let you go depends
 on circumstance and how much the sheriff likes you. or p P at (2pr. Mert)
-Anacquaintance from you r breathing days was Embraced at the same time you were. f or tunately, you r friendship has endured even death and unlife, and you find a constant source of support
+Anacquaintance from your breathing days was Embraced at the same time you were. f or tunately, your friendship has endured even death and unlife, and you find a constant source of support
 
-FROM THE BEGINNING: CHARACTER CREATI ON and aid in you r old friend. She expects the same of you, which is n’t always convenient, but at least you each have someone to hang
+FROM THE BEGINNING: CHARACTER CREATI ON and aid in your old friend. She expects the same of you, which is n’t always convenient, but at least you each have someone to hang
 
 ‘on to who remembers the good old nights — and days. Storyteller not e: An Old Palshouldbeplayedasavery loyal all y. Open Ro an (2pt. Merit)
 
-Unlike many Kindred, you like to travel. You have a solid knowledge of safe travel routes and methodologies, not to menti on have n space available in any number of destin ations. Unless someone out there knows you r exact route and is specifically
+Unlike many Kindred, you like to travel. You have a solid knowledge of safe travel routes and methodologies, not to menti on have n space available in any number of destin ations. Unless someone out there knows your exact route and is specifically
 lookingf or you, you c an move between cities unimpeded by random, encounters sith Lintnies, oversealous wees noopen the lig
 
 ScHOLAR OF Enemies (2 pt. Merit)
 
 You have taken the time to learn about and specialize in one particular enemy of the Camarill a. You are awaréofatleast some of the group’s customs, strategies, abilities and long-term goals, and c an put th at knowledge to good use; This Merit is
-worth a -2 difficulty f or all rolls pertaining specifically to the subject of you r specializati on. On the otherh and, you are’at a
-+1 difficulty when it comes to dealing with other enemies, simply because you're so thoroughly focused on you r field. ScHOLAR OF OTHERS (2 pt. Mert)
+worth a -2 difficulty f or all rolls pertaining specifically to the subject of your specializati on. On the otherh and, you are’at a
++1 difficulty when it comes to dealing with other enemies, simply because you're so thoroughly focused on your field. ScHOLAR OF OTHERS (2 pt. Mert)
 
 This Merit functions identically to Scholar of Enemies, except th at it applies to a group, th at is not/mecessarily inimical to the Camarill a. Suerire’s FRIEND (2 pt. Merit)
 
-F or wh at ever reas on (maybe you rwinning salle or perhaps just you r superb grovelling technique), the locafhead lawm an likes you. He’s inclined to overlook you r m in or trespasses and let you in on things you're not supposed to know about. He even
+F or wh at ever reas on (maybe yourwinning salle or perhaps just your superb grovelling technique), the locafhead lawm an likes you. He’s inclined to overlook your m in or trespasses and let you in on things you're not supposed to know about. He even
 gives you warnings about occasional crackdowns and times when the prince is n’t feeling generous. Of course, abusing this connecti on might well turn a friendly sheriff in to an enemy — and the change might not be apparent until it’s too late. do m a in (2-4 pt. Merit)
 
 The prince has given you exclusive rights to a piece of territory. The size and importance of th at territory are in direct proporti on to the cost of the Merit. A few blocks’ worth of rowhouses might be worth two points, while four square blocks
-in the city’s fin ancial district could be worth four. While the rights to this territory are you rs, there are responsibilities th at come along with it. If those responsibilities are not met, the prince may well strip you of you r holding. ALTERNATE Ipentity (3 pt. Merit)
+in the city’s fin ancial district could be worth four. While the rights to this territory are yours, there are responsibilities th at come along with it. If those responsibilities are not met, the prince may well strip you of your holding. ALTERNATE Ipentity (3 pt. Merit)
 
-In additi on to you r normal identity, you've taken up an alternate role th at all ows you to run with another group or sect of vampires. this other selfhas a believable history and back story th at c an st and up to at least cursory checks, and he is accepted
-at face value (more or less) by his associates. how ever, you r sire, all ies, Contacts, etc. do n’t know th at you maint a In this second identity, and tre at this “stranger” accordingly. FRIEND of the under ground (3 pt. Merit)
+In additi on to your normal identity, you've taken up an alternate role th at all ows you to run with another group or sect of vampires. this other selfhas a believable history and back story th at c an st and up to at least cursory checks, and he is accepted
+at face value (more or less) by his associates. how ever, your sire, all ies, Contacts, etc. do n’t know th at you maint a In this second identity, and tre at this “stranger” accordingly. FRIEND of the under ground (3 pt. Merit)
 
-While you're not a Nosferatu, you know you r way around the sewers, tunnels, ducts, subway tubes and other subterrane an passages of you r home town. The local Nosferatu (and any other creauures dwelling do wn in the muck) may not actually like you, but they're not inclined to kill you on sight When they see you in
+While you're not a Nosferatu, you know your way around the sewers, tunnels, ducts, subway tubes and other subterrane an passages of your home town. The local Nosferatu (and any other creauures dwelling do wn in the muck) may not actually like you, but they're not inclined to kill you on sight When they see you in
 theirterritory. you are at -1 difficulty on all Sewer Lore rolls, and anyrolls involving the subterrane an world (sneaking from place to place under ground, finding routes in to sub-basements and so on). Nosferatu c an not'purchase this Merit. More(3pr. Merr)
 
 You have an informer buried in the Sabb at (or, less likely, ‘one of the independent clans or the Anarch Free States) who nati on as to wh at her peers are up
-(o wh at you do with the informati on is up to you, but abusing the knowledge might be agood way to get you r informer killed. ‘The other side has spies too, you know.... Riso Star (3-pt. Merit)
+(o wh at you do with the informati on is up to you, but abusing the knowledge might be agood way to get your informer killed. ‘The other side has spies too, you know.... Riso Star (3-pt. Merit)
 
-You're one of the up and comers in you r city, a rising star in the Camarill a’s firmament. Everyone wants to know you and be you r friend, even as those in power groom you f or
-Positions ohigher responsibility. You are at -1 difficulty on all Social rolls against any Camarill a vampires who are n’t actively opposing you r ascent. Horper oF or rice (3-5 pt. Merit)
+You're one of the up and comers in your city, a rising star in the Camarill a’s firmament. Everyone wants to know you and be your friend, even as those in power groom you f or
+Positions ohigher responsibility. You are at -1 difficulty on all Social rolls against any Camarill a vampires who are n’t actively opposing your ascent. Horper oF or rice (3-5 pt. Merit)
 
-You currently hold one of the of ficial Camarill a posions in you rcity. The degree of power you possess depends on the cost of the Merit. CL AN Frienpsuip (4pt. Merit) or ie parcicalae cl an trot you r aw a) has apesing you. You might have do ne the cl an as a who le a fav or at some
-point, or perhaps you're just a loud voice in support of their aims. wh at ever the case, you're at -2 difficulty on all Social rolls involving members of the cl an in questi on. Of course, thereacti on you rcory. relationsh in with anoxherclar i likely tormw from you r own cl an leaders is an entirely different c an of worms: Broken Bonn (4pt. Merit)
+You currently hold one of the of ficial Camarill a posions in yourcity. The degree of power you possess depends on the cost of the Merit. CL AN Frienpsuip (4pt. Merit) or ie parcicalae cl an trot your aw a) has apesing you. You might have do ne the cl an as a who le a fav or at some
+point, or perhaps you're just a loud voice in support of their aims. wh at ever the case, you're at -2 difficulty on all Social rolls involving members of the cl an in questi on. Of course, thereacti on yourcory. relationsh in with anoxherclar i likely tormw from your own cl an leaders is an entirely different c an of worms: Broken Bonn (4pt. Merit)
 
-You were once blood bound but have have secretly slipped the leash, arid you are free to actas you will once more: you r regnant has no ide a th at you are not in fact bound, and continues to tre at you as if you were. At Storyteller discreti on, the experience of having been bound once mäy render you tiamune ro ever being enthralled ag a in. Primocen Frienpsuip (4pt. Merit)
+You were once blood bound but have have secretly slipped the leash, arid you are free to actas you will once more: your regnant has no ide a th at you are not in fact bound, and continues to tre at you as if you were. At Storyteller discreti on, the experience of having been bound once mäy render you tiamune ro ever being enthralled ag a in. Primocen Frienpsuip (4pt. Merit)
 
-The ruling council of the city values you and you r opinions. You are called in to consult on decisions, and you r recommendations carry gre at weight. you r positi on may not be an of ficial one, but it’s powerful nonetheless. Harpy (5pt. Merit)
+The ruling council of the city values you and your opinions. You are called in to consult on decisions, and your recommendations carry gre at weight. your positi on may not be an of ficial one, but it’s powerful nonetheless. Harpy (5pt. Merit)
 
-You count you rself among the harpies, the vampires who tule the roost in Elysium. you rs is one of the voices th at mock, The GUDE TO T at CaMARLL A exalt, praise or humble the Kindred of the city. you r opini on is very influential, which means th at you're going to face all sorts of
-attempts — from bribes to threats — to change it. You are at -1 difficulty on all Social rolls when acting in you r of ficial capacity. Privocen (7pt. Merr)
+You count yourself among the harpies, the vampires who tule the roost in Elysium. yours is one of the voices th at mock, The GUDE TO T at CaMARLL A exalt, praise or humble the Kindred of the city. your opini on is very influential, which means th at you're going to face all sorts of
+attempts — from bribes to threats — to change it. You are at -1 difficulty on all Social rolls when acting in your of ficial capacity. Privocen (7pt. Merr)
 
-You are part of the ruling coterie of vampires in the city ii Whiah you reside Sourvoice leoneot the fewro which the prince must listen, and you have tremendous influence in you r cl an: On the other h and, thereareabwaysothersplocing
-to take you r place, making you r positi on a precarious one. BOTCHED PRESENTATI ON (lpr. FLAW)
+You are part of the ruling coterie of vampires in the city ii Whiah youreside Sourvoice leoneot the fewro which the prince must listen, and you have tremendous influence in your cl an: On the other h and, thereareabwaysothersplocing
+to take your place, making your positi on a precarious one. BOTCHED PRESENTATI ON (lpr. FLAW)
 
-‘When you rsire presented you to the prince of the city, you fibbed ie Nijole convinced His Majesty hanes yoo (whether bë do es or not). you need tosucceed on a will power roll (difficulty 7) just tost and infrontof theprinceoroneofhisdulyauthorized representatives with out
-running, blubbeing or otherwise meling 4 fool of you re
+‘When yoursire presented you to the prince of the city, you fibbed ie Nijole convinced His Majesty hanes yoo (whether bë do es or not). you need tosucceed on a will power roll (difficulty 7) just tost and infrontof theprinceoroneofhisdulyauthorized representatives with out
+running, blubbeing or otherwise meling 4 fool of youre
 
 Expenpane (lpr. FLAW)
 
 Someone in power do esn’t want you around. Maybe she wants territory you possess, or is jealous of the attenti on you're getting from a prize mortal retainer — the details are irrelevant. Wh at do es matter is th at she has the power to
 maneuver you in to dangerous situations “f or the good of the
 Camarill a,” and has no compunctions about do ing so. in complete UNDERSTANDING (lpr. FLAW)
-The who le matter has been explained to you, but you’re still not quite sure how this who le Camarill a/Masquerade thing works. you r imperfect understanding of the rules and regulations of you r new existence means th at sooner or later, you're going to make a mistake. It’s only a matter of time
+The who le matter has been explained to you, but you’re still not quite sure how this who le Camarill a/Masquerade thing works. your imperfect understanding of the rules and regulations of your new existence means th at sooner or later, you're going to make a mistake. It’s only a matter of time
 
 New Arriv at (lpr. FLAw)
 
-You've just arrived in you r new city of residence, and have do ne so with out knowing anyone in the place. Existing factions may try to recruit or elimin ate you, while the harpies size you up and take you r measure. Me an while, you r ignorance of the city’s current events, history and politics (not to
+You've just arrived in your new city of residence, and have do ne so with out knowing anyone in the place. Existing factions may try to recruit or elimin ate you, while the harpies size you up and take your measure. Me an while, your ignorance of the city’s current events, history and politics (not to
 menti on the personality quirks of the vampires already in place) may cause you to make'a serious bl under. New H in (lpt. FLaw)
 
-You're the latest Embracee in the city, and everyone knows it. Th at automatically puts you at the bottom of the social totem pole. Other neonates take every opportunity to demonstrate you r inferiority to you, proving th at the dynamics of the schoolyard are
-alive and well in the Camarill a. Even if someone else is added to the ranks of the unliving, you’restill regarded assomethingasabit of a geek by you r peers — a distincti on th at c an have dangerous consequences if bullets start flying. All Social-related rolls are at
+You're the latest Embracee in the city, and everyone knows it. Th at automatically puts you at the bottom of the social totem pole. Other neonates take every opportunity to demonstrate your inferiority to you, proving th at the dynamics of the schoolyard are
+alive and well in the Camarill a. Even if someone else is added to the ranks of the unliving, you’restill regarded assomethingasabit of a geek by your peers — a distincti on th at c an have dangerous consequences if bullets start flying. All Social-related rolls are at
 +1 difficulty when you are dealing with other neonates. Recrurment Tarcet (lpr. FLAW)
 
 ‘The Sabb at wants yeu; and they; want you bad Every effort is being made to recruit you, will ing or no, and the press gangs usually show urvar the worst possible-time. Sy MpaTHizer (lpr. Fraw)
 
 You have publicly expressed sympathy f or some of the
-Sabb at’s goals and policies. you r outspoken views on the
-Subject have made you suspect in she eyes of the city’s hier a chy, and you may be suspected of (or arrested f or) treas on. Bounp (2pt. Fraw) you are blood bound to an other vampire. you rregnant may not necessarily tre at you badly, but the fact remains th at you r will
-is not entirely you r own. The knowledge gnaws at you, even as you find you rself lost in-devoti on: t a you r vampiric master, Catspaw (2 pt. FLAw)
+Sabb at’s goals and policies. your outspoken views on the
+Subject have made you suspect in she eyes of the city’s hier a chy, and you may be suspected of (or arrested f or) treas on. Bounp (2pt. Fraw) you are blood bound to an other vampire. yourregnant may not necessarily tre at you badly, but the fact remains th at your will
+is not entirely your own. The knowledge gnaws at you, even as you find yourself lost in-devoti on: t a your vampiric master, Catspaw (2 pt. FLAw)
 
-You've do ne dirty work f or someone high up in the city's hierarchy in the past —the sheriff, the primogen or even the prince. how ever, instead of granting you fav or, you r deeds have made you an embarrassment or a liability. F or the
-moment, you r f or mer employer's concern is to keep you quiet. In the long term, it’s to get rid of you. Escapep Tarcet (2pt. Flaw)
+You've do ne dirty work f or someone high up in the city's hierarchy in the past —the sheriff, the primogen or even the prince. how ever, instead of granting you fav or, your deeds have made you an embarrassment or a liability. F or the
+moment, your f or mer employer's concern is to keep you quiet. In the long term, it’s to get rid of you. Escapep Tarcet (2pt. Flaw)
 
-The flip side of Rival Sires, Escaped Target means th at you had targeted a mortal f or the Embrace, but someone else got there first. You c an not st and the humiliati on of being cheated of you r prize, and fly in to a rage (+2 difficulty to avoid frenzy)
-when ever you see the one who got away. This hatred may lead you in to other irrational behaviors, like Embracing enemies of the neonate, creating unauthorized childer or even trying to kill you r rival. Furthermore, you r petty and irrational behavi or is
+The flip side of Rival Sires, Escaped Target means th at you had targeted a mortal f or the Embrace, but someone else got there first. You c an not st and the humiliati on of being cheated of your prize, and fly in to a rage (+2 difficulty to avoid frenzy)
+when ever you see the one who got away. This hatred may lead you in to other irrational behaviors, like Embracing enemies of the neonate, creating unauthorized childer or even trying to kill your rival. Furthermore, your petty and irrational behavi or is
 well-known and quite not iceable, and as a result you are at +1 difficulty on all Charism a rolls until the situati on is resolved. Farture (2pt. FLAw)
 
-You once held title in the city, but failed catastrophically in you r duties. Now you are branded incompetent, excluded from circles of power and responsibility and generally ostracized by those on their way up. you r exclusi on may make you a target f or
-recruitment By the Sabb at (or so the whispers run, making you even more distrusted). Conversely, the consequences of you r err or —a breach of the Masquerade, an unauthorized Embrace, alawbreakerallowed to escape — might come back to haunt you. Mas Querane BREAKER (2pt. FLAW)
+You once held title in the city, but failed catastrophically in your duties. Now you are branded incompetent, excluded from circles of power and responsibility and generally ostracized by those on their way up. your exclusi on may make you a target f or
+recruitment By the Sabb at (or so the whispers run, making you even more distrusted). Conversely, the consequences of your err or —a breach of the Masquerade, an unauthorized Embrace, alawbreakerallowed to escape — might come back to haunt you. Mas Querane BREAKER (2pt. FLAW)
 
-In you r first nights as a member of the Kindred, you accidentally broke the Masquerade — and were spotted do ing so. Someone else covered f or you r mistake, but holds the fav or over you. Now you exist in fear th at you r err or will be revealed. In the me an time, you r “savi or” takes pitiless advantage of you. OLp Frame (2pt. FLaw)
+In your first nights as a member of the Kindred, you accidentally broke the Masquerade — and were spotted do ing so. Someone else covered f or your mistake, but holds the fav or over you. Now you exist in fear th at your err or will be revealed. In the me an time, your “savi or” takes pitiless advantage of you. OLp Frame (2pt. FLaw)
 
-Sincone-you yocsicared deeply be lebar yirdi enemy. He still arrempes to play on you r sympathies or al a mes sake® while. working seainsyous Untess you succeed on a. contested Manipulati on + Expressi on roll against you r
+Sincone-you yocsicared deeply be lebar yirdi enemy. He still arrempes to play on your sympathies or al a mes sake® while. working seainsyous Untess you succeed on a. contested Manipulati on + Expressi on roll against your
 f or mer friend, you do not act against him unless the situati on becuinies life-threatening: From THE BEGINNING: CHARACTER CREATI ON
 
 Riv a Sires (2 pt. FLaw)
 
-Not one; boe ewe svamytres/wanead (eo ett you ‘with a the: tibrace One succeeded! one balled —and she’snothappyabput th at failure. Either you, you ractual sire or both of you have become the target of the failed suit or’s ire. Regardless, you r persecut or is at
-+2 difficulty to refr a in from frenzy in you r presence. In additi on, she may well be working actively to discredit or destroy you. Upprry (2pt. FLaw)
+Not one; boe ewe svamytres/wanead (eo ett you ‘with a the: tibrace One succeeded! one balled —and she’snothappyabput th at failure. Either you, youractual sire or both of you have become the target of the failed suit or’s ire. Regardless, your persecut or is at
++2 difficulty to refr a in from frenzy in your presence. In additi on, she may well be working actively to discredit or destroy you. Upprry (2pt. FLaw)
 
-‘you larerpracd ohvou nessen sid ai a grou th at you ve shot you r mouth of f to other Kindred s and made is ine nei les Wiser-vampites laugh ‘at you and chalk: you r fideiskes op to you th, bac athen ar you esanoenic and
-insulting. the se enemies will take acti on to embarrass or harm you. Furthermore, you are at +2 difficulty on all Social rolls against any vampires you have alienated through you r yammering — and you may not know who they are. At Storyteller discreti on, you may also be required to
-make a will power roll (difficulty 6) to keep you r mouth shut any fime the opporturiity presents iteelf f or you to bragabout sour lineages you rcl an. or you r status
+‘you larerpracd ohvou nessen sid ai a grou th at you ve shot your mouth of f to other Kindred s and made is ine nei les Wiser-vampites laugh ‘at you and chalk: your fideiskes op to you th, bac athen ar you esanoenic and
+insulting. the se enemies will take acti on to embarrass or harm you. Furthermore, you are at +2 difficulty on all Social rolls against any vampires you have alienated through your yammering — and you may not know who they are. At Storyteller discreti on, you may also be required to
+make a will power roll (difficulty 6) to keep your mouth shut any fime the opporturiity presents iteelf f or you to bragabout sour lineages yourcl an. or your status
 
-DIsGRACt TO THE BLOOD (3 pt. FLAW) you r sive regards/che fact th at he Bmbraced you t be a titanic mistake, and has let everyone know it. You are mocked i Elyst an t a in Ged by. you r peenv and watively desgit By the
-one who should be giving you guidance. Any request or petidi on you make t likely to be'looked do wi/up on by friends of you rdiré, and you r’ichieveinenti are likely to be discounted. f or mer Prince (3 pt. FLAw)
+DIsGRACt TO THE BLOOD (3 pt. FLAW) your sive regards/che fact th at he Bmbraced you t be a titanic mistake, and has let everyone know it. You are mocked i Elyst an t a in Ged by. your peenv and watively desgit By the
+one who should be giving you guidance. Any request or petidi on you make t likely to be'looked do wi/up on by friends of yourdiré, and your’ichieveinenti are likely to be discounted. f or mer Prince (3 pt. FLAw)
 
-Once, you held near-absolute power in a city, but those nights are gone now. Perhaps you stepped do wn, perhaps you were deno or pertiane pour city fell oo the Suber tc: marcecs little in you r reduced state. Wh at do es matter is th at the prince
-in the city where you now dwell is aware of you r pri or employment/and hes-concerne-th at poumight be n oao make come back. The machinery of the Camarill a in the city where you now make you r home is subtly stacked against you, and if the prince sees an opportunity to get rid of you he just might take it. Huntep Line a do c (3 pt. FLAw)
+Once, you held near-absolute power in a city, but those nights are gone now. Perhaps you stepped do wn, perhaps you were deno or pertiane pour city fell oo the Suber tc: marcecs little in your reduced state. Wh at do es matter is th at the prince
+in the city where you now dwell is aware of your pri or employment/and hes-concerne-th at poumight be n oao make come back. The machinery of the Camarill a in the city where you now make your home is subtly stacked against you, and if the prince sees an opportunity to get rid of you he just might take it. Huntep Line a do c (3 pt. FLAw)
 
-Another sect or group of vampires —be it an independent cl an or the sabbat as a who le —has decided th at you're a target f or extermin ati on, and pursues you relentlessly. On the bright side, the enemies of you r enemy may well wish to help you out, potentially garnering you all ies In this one instance. Narc (3pt. FLAw)
+Another sect or group of vampires —be it an independent cl an or the sabbat as a who le —has decided th at you're a target f or extermin ati on, and pursues yourelentlessly. On the bright side, the enemies of your enemy may well wish to help you out, potentially garnering you all ies In this one instance. Narc (3pt. FLAw)
 
 You are known to be a snitch, an informer firmly planted in the sheriffs pocket. Those on who m you might yet inform lo a the you as a result, feeding you misinformati on When they c an in an attempt to discredit you. Given the opportunity, they
-might do you mischief. Regardless, you r reputati on as a fullfledged weasel precedes you, putting you at +1 difficulty on all
-Social rolls against those who d on't agree with you r politics. SLeepinc WrrH THE Enemy (3 pt. FLAW)
+might do you mischief. Regardless, your reputati on as a fullfledged weasel precedes you, putting you at +1 difficulty on all
+Social rolls against those who d on't agree with your politics. SLeepinc WrrH THE Enemy (3 pt. FLAW)
 
-You have some sort of intimate connecti on with a member of an opposing sect or inimical cl an. You may have a l over, a childe, a friend or a contact working the other side of the fence, but regardless of politics you ret a in a friendly (or
-more th an friendly) relationship with you r putative foe. you r close ties to someone on the other side would be regarded as treas on by you r superiors with in the Camarill a, and if you are discovered the penalty will surely be death. Cr an Ennrty (4pt. Flaw)
+You have some sort of intimate connecti on with a member of an opposing sect or inimical cl an. You may have a l over, a childe, a friend or a contact working the other side of the fence, but regardless of politics youret a in a friendly (or
+more th an friendly) relationship with your putative foe. your close ties to someone on the other side would be regarded as treas on by your superiors with in the Camarill a, and if you are discovered the penalty will surely be death. Cr an Ennrty (4pt. Flaw)
 
-One cl an in particular: wants you dead: You have of fended the entire cl an, from elders to neonates, and as a result every member of th at blood line wants you r head on a plate. The effects of the Flaw may manifest as anything from very publicsnubs and insults to actual attempts on you r existeiice. You are also dt +2 difficulty-on all’Social‘rolls relating’ to members of the cl an in questi on. Loatusome Re Gnant (4pt. FLAW)
+One cl an in particular: wants you dead: You have of fended the entire cl an, from elders to neonates, and as a result every member of th at blood line wants your head on a plate. The effects of the Flaw may manifest as anything from very publicsnubs and insults to actual attempts on your existeiice. You are also dt +2 difficulty-on all’Social‘rolls relating’ to members of the cl an in questi on. Loatusome Re Gnant (4pt. FLAW)
 
 Not only are you blood bound, but you are also in thrall
-10: &: vainpire who mistress you hideously. Perhape you are publicly abused or humiliated; perhaps you r master f or ces you to’commit unspeakable acts f or him, In any case; existence under the bond is a never-ending nightmare, with you r
+10: &: vainpire who mistress you hideously. Perhape you are publicly abused or humiliated; perhaps your master f or ces you to’commit unspeakable acts f or him, In any case; existence under the bond is a never-ending nightmare, with your
 regnant serving to conduct the symphony of malice. Overextennen (4pt. Fraw)
 
-You've gut you r fingers in: too many pies, and people are stiitihig v a. Hotices Vos huve\too manyeghouls: teasmeny retainers and too many influences, which means th at a lot of people have a vested interest in trimming back you r operations. the se enemies take every opportunity to reduce you r
-power and influence, and if th at means lying, cheating or killing, so be it. Furthermore, you r enemies block every attempt you make to move in to new are as of control. You're boxed in, and the box is getting smaller. Boop Hunten (4-0pt. FLaw)
+You've gut your fingers in: too many pies, and people are stiitihig v a. Hotices Vos huve\too manyeghouls: teasmeny retainers and too many influences, which means th at a lot of people have a vested interest in trimming back your operations. the se enemies take every opportunity to reduce your
+power and influence, and if th at means lying, cheating or killing, so be it. Furthermore, your enemies block every attempt you make to move in to new are as of control. You're boxed in, and the box is getting smaller. Boop Hunten (4-0pt. FLaw)
 
-You have been made the target of a blood hunt, and f or you to return to you r home city is death. F or four points, this Flaw means th at only you r home city is of f-limits to you. F or six, it means th at the entire Camarill a is how ling f or you r vitae. LAUGHINGSTOCK (5 pt. FLaw)
+You have been made the target of a blood hunt, and f or you to return to your home city is death. F or four points, this Flaw means th at only your home city is of f-limits to you. F or six, it means th at the entire Camarill a is how ling f or your vitae. LAUGHINGSTOCK (5 pt. FLaw)
 
 Somehow you've drawn the scorn of the local harpies, who make you their favorite and reflexive target. You are at a
 +2 difficulty on all Social rolls in Elysium and a +1 any where else in the city. In additi on, you are at +2 difficulty to use
@@ -2363,16 +2363,16 @@ SUPERNATURAL
 Supernatural Merits and Flaws relate to the unseen world th at swirls around mortal existence in the World of
 Darkness. the se Traits tie vampires to the other monsters th at stalk the night, as well as granting magical powers — or weaknesses — to Kindred thus afflicted
 
-Deceptive Aur a (lpr. Merit) you r aur a is unnaturally bri nt and colorful f or a vam pire. You register as a mortal on all attempts to read you r aur a. Heainc Toucn (lpr. Mert)
+Deceptive Aur a (lpr. Merit) your aur a is unnaturally bri nt and colorful f or a vam pire. You register as a mortal on all attempts to read your aur a. Heainc Toucn (lpr. Mert)
 Normally vampires c an only seal the wounds they inflict by lickingthem. With but a touch, you c an achieve the same effect
 
 INOFFENSIVE TO ANIMALS (lpt. Merit)
-With rare exceptions, animals usually despise the Kindred. Some flee, others attack, but all dislike being in the presence of h problem. Animals may not enjoy a vampire. You have ne being in you r company, but they do n’t actively flee from you
+With rare exceptions, animals usually despise the Kindred. Some flee, others attack, but all dislike being in the presence of h problem. Animals may not enjoy a vampire. You have ne being in your company, but they do n’t actively flee from you
 
 Hippen Diascerie (3 pt. Merr)
-The tell-tale black streaks of diablerie do not manifest in you r aur a. ADDITIONAL Discipiine (5 pt. Merrit)
+The tell-tale black streaks of diablerie do not manifest in your aur a. ADDITIONAL Discipiine (5 pt. Merrit)
 
-You c an take one additional Discipline (Storyteller discreti on) as if it were a cl an Discipline. All costs to learn th at Discipline are paid out as if it were native to you r cl an. A character c an not take this merit more th an once. Corp Breeze (lpr. FLaw)
+You c an take one additional Discipline (Storyteller discreti on) as if it were a cl an Discipline. All costs to learn th at Discipline are paid out as if it were native to your cl an. A character c an not take this merit more th an once. Corp Breeze (lpr. FLaw)
 
 A chill wind follows you every where y or zo. While it may nces, this effect also discomfits mortals make f or dramatic
 (+1 difficulty on all appropriate Social rolls) and also endangers the Masquerade. Cold winds sweeping through executive of fices or crowded nightclubs c an raise all sorts of questions. Beac on of the UNHOLY (2pt. FLAW)
@@ -2381,7 +2381,7 @@ You radiate palpable evil. Clergy and devout mortals know instinctively th at th
 
 DEATHSIGHT (2pt. FLAW)
 
-Everyth g appears rotted and decayed to you. The world appears to you as a corpse; mortals look diseased or skeletal, buildings seem decrepit, and you r fellow Kindred seem to be walking, mold
+Everyth g appears rotted and decayed to you. The world appears to you as a corpse; mortals look diseased or skeletal, buildings seem decrepit, and your fellow Kindred seem to be walking, mold
 
 ering cadavers. You are at -2 difficulty to resist all rolls based on
 Appearance, but By the same token you are at +2 difficulty on all
@@ -2404,7 +2404,7 @@ wants to pick up the other opti on as well, she c an go back and spend the exper
 of hard work and effort (and by “a gre at deal,” we me an the inplay equivalentofdecades or centuries) tomaster the se hideously potent tricks; Level Five Discipline powers wreak quite enough havoc already. Storytellers should think long and hard about all owing high-level Disciplines in to their games (even if the
 characters are of an appropriate generati on to learn the m) before giving the go-ahead, and they should always remember th at use of powers like ancient, powerful — and possibly worth diablerizing. pecies Speech mark the wielderas being
 
-Rott you ROwWN
+Rott YOUR OwWN
 
 The powers presented below are the most comm on high level variations of the vampiric Disciplines, but are by nomeans the only ones. Once a vampire has sufficient skill and power to learn powers of Level Six and above, she also gains a sufficient understanding of her Discipline’s essential nature to all ow her
 to create her own powers. Th at do es not me an th at a seventhgenerati on vampire c an suddenly start spewing f or th random manifestations of Obfuscate, but rather th at she has the ability to craft a new Level Six power and purchase it with experience instead of one of the more comm on options. Any new power th at a character creates should be cleared
@@ -2782,7 +2782,7 @@ A vampirewithextensiveknowledge of Potencec an squeeze very, very hard. As a mat
 Imprintc an simply serve as a thre at, or itc an be used, f or example, to dig handholds in to sheer surfaces f or purposes of climbing. System: Imprint requires a point of blood to activate. The power remains active f or the durati on of a scene. The depth of the imprint the vampire creates with Imprint is up to the Storyteller — decisions should take in to account how much f or ce the vampire c an bring to bear, the toughness of
 the material and its thickness. If the object the vampire grasps is th in enough, at Storyteller opti on the vampire might simply be able to push through it (in the case of a wall) or tear it of f (in the case of a spear or pipe). 0000000 EARTHSHOCH
 
-According to some pundits, Potence is merely the art of hitting so me thing very, very hard. But wh at do you do when you r target is too far away to hit directly? The answer is, if you're
+According to some pundits, Potence is merely the art of hitting so me thing very, very hard. But wh at do you do when your target is too far away to hit directly? The answer is, if you're
 
 Powers BEYOND UNDERSTANDING: ADVANCED Disci Ptines sufficiently talented with the Discipline, toemploy Earthshock. Oni itssimplest level, Earthshock is the ability to hit the ground at point A, and subsequently have the f or ce of the blow emerge from the ground at point B, some distance away
 
@@ -3793,7 +3793,7 @@ the independent clans is a bit trickier. While the Camarill a do esn’t necessa
 of a pesky Giovanni permanently had best be sure to hide all of the evidence — including the ghost of the deceased — or risk being turned over to those he has wronged as punishment should he be caught. On the other h and, ifhe’s not caught, those in the
 know about his deed may well of fer subtle congratulations, and even raise their estimati on of the successful assass in. WALKING THE BE AT there are those Kindred who se titles put them in positions where they may well have to kill, and kill repeatedly. Scourges and sheriffs in particular face this situati on. Scourges are of ten licensed to kill (as it were), armed with a mandate
 to remove a city's surplus populati on. Abuse of th at privilege
-(“Th at was you r childe, you r Majesty? I'll be hanged if he did n’t look just like a Caitiff to me.”) c an get the scourge on the hitlist him: When they overstep their bounds. Sheriffs face a slightly different problem, as they're more likely to be confronted with kill-or-be-killed situations when
+(“Th at was your childe, your Majesty? I'll be hanged if he did n’t look just like a Caitiff to me.”) c an get the scourge on the hitlist him: When they overstep their bounds. Sheriffs face a slightly different problem, as they're more likely to be confronted with kill-or-be-killed situations when
 observing breaches of the Masquerade or apprehending crimin als. In those cases, if the sheriff c an at least of fer a solid explanati on f or why he felt it was necessary to bring the hammer do wn, he usually gets of f scot-free. Many princes see paying attenti on to neonate claims of brutality by a sherit
 giving the rabble too much credence, and are more inclined to trust their appointees th an they are to listen to the vampiric masses. So long as a sheriff (or scourge) picks his targets well and do esn’t destroy someone with a powerful patr on or protect or, the odds are th at he w on’t even be interfered with. A wise
 
@@ -3834,9 +3834,9 @@ TACTICS AND SYSTEMS
 
 T It Gets Worse
 
-Implicit in punishment from one’ neonates call “Wait ‘till you r father gets home!” meaning, ire is wh at some
+Implicit in punishment from one’ neonates call “Wait ‘till your father gets home!” meaning, ire is wh at some
 
-“Take you r medicine from you r sire and smile, because ifhe u'll really get it.” Those caught by an of ficer of the city and handed over to the prince go right to “father,” and it’s all do wnhill from there. hands you r ass to the prince, In such cases, the sire is also hauled up on the carpet at this
+“Take your medicine from your sire and smile, because ifhe u'll really get it.” Those caught by an of ficer of the city and handed over to the prince go right to “father,” and it’s all do wnhill from there. hands your ass to the prince, In such cases, the sire is also hauled up on the carpet at this
 
 time, and punished right a long side his errant fledgling. Needless to say, a sire punished thus is not going to be welldisposed toward his childe afterward. Tue Gume To
 
@@ -3855,7 +3855,7 @@ the proclamati on due to extenuating circumstances
 
 Bustep! How exactly do es a Kindred get caught in flagrante? Patrolling the streets is not included in a sheriff’ job descrip ti on, and even with a cadre of deputies, there’s no way he and his posse c an be every where. Law enforcement, therefore, It Gets Worse
 
-Implicit in punishment from one’s sire is wh at some neonates call “Wait ‘till you r father gets home!” meaning, “Take you r medicine from you rsire and smile, because ifhe hands you r ass to the prince, you'll really get it.” Those caught by an of ficer of the city and handed over to the
+Implicit in punishment from one’s sire is wh at some neonates call “Wait ‘till your father gets home!” meaning, “Take your medicine from yoursire and smile, because ifhe hands your ass to the prince, you'll really get it.” Those caught by an of ficer of the city and handed over to the
 prince go right to “father,” and it’s all do wnhill from there. In such cases, the sire is also hauled up on the carpet at this time, and punished right a long side his errant fledgling. Needless to say, a sire punished thus is not going to be welldisposed toward his childe afterward. THE CAMARILL A of ten runs largely on tips from other Kindred in various stations. A keeper of Elysium may watch f or violations of
 Elysium or the Masquerade in her purview, while the scourge tracks those violating Traditi on and city law in the barrens, and the sheriff's deputies are informed to watch around them at all times. A few times, mortal televisi on cameras or observant ghouls reading the newspaper have caught wind of
 Kindred law-breakers. A neonate who happens to look up at the right moment and see the crime may go to his primogen or elder with the informati on (which of ten results in the elder's taking credit f or the tip-of f.) The majority of arrests and
@@ -4060,27 +4060,27 @@ The Gune To THe CAMAR A
 
 RUNNING CONCLAVES
 
-Having read about conclaves, you find the ide a intriguing. wouldn't it be ne at to introduce you r young players to a world far vaster th an they realized? And now th at you've thought about th at, you think about the
+Having read about conclaves, you find the ide a intriguing. wouldn't it be ne at to introduce your young players to a world far vaster th an they realized? And now th at you've thought about th at, you think about the
 logistics and shudder. How are you going to story tell this unwieldy thing? How are you going to keep perhaps 300 or more vampires straight? Wh at if everyone decides to ignore the maj or event and thinks it’s just a party? First of all — relax! Running a conclave c an be a
-challenge, but it need not be the one th at breaks you. The keys to running a successful in-game conclave are or ganizati on, opportunity and atmosphere. Grab you r not ebook or sit do wn at the computer and start putting thoughts to get her. Who's calling this conclave, and more importantly
-why? The matters at h and will have a consider able impact on the the me and mood of you r story. Who's coming to this event? Wh at clans will be represented? Sketch out who you r biggest movers and shakers will be from the top do wn; they w on’tall be elders and justicars. Will there be A few starry-eyed neonates gawking at all
+challenge, but it need not be the one th at breaks you. The keys to running a successful in-game conclave are or ganizati on, opportunity and atmosphere. Grab your not ebook or sit do wn at the computer and start putting thoughts to get her. Who's calling this conclave, and more importantly
+why? The matters at h and will have a consider able impact on the the me and mood of your story. Who's coming to this event? Wh at clans will be represented? Sketch out who your biggest movers and shakers will be from the top do wn; they w on’tall be elders and justicars. Will there be A few starry-eyed neonates gawking at all
 the powerful vampires? Will there be a would-be anarch trying to rally the you th around his banner by pointing out th at they're not invited to the councils? Will there be A few ancillae who are quite powerful (such as regents
 or lieutenants), but who are still treated snippily as
-“children”? Will there be spies and infiltrators from the independent clans, anarchs and Sabb at? You do n’t have to detail everyone, but at least have some ideas wh at the characters c an expect of those of their clans who attend. Consider how deeply you r players are getting in to
-the scene. Are they planning on sitting in on the sessions? Are they working security detail? Are they simply there f or the party? Find out wh at you r players’ characters plans are before you go too far in to crafting. Wh at sorts of things will they gravitate toward and wh at
+“children”? Will there be spies and infiltrators from the independent clans, anarchs and Sabb at? You do n’t have to detail everyone, but at least have some ideas wh at the characters c an expect of those of their clans who attend. Consider how deeply your players are getting in to
+the scene. Are they planning on sitting in on the sessions? Are they working security detail? Are they simply there f or the party? Find out wh at your players’ characters plans are before you go too far in to crafting. Wh at sorts of things will they gravitate toward and wh at
 will they ignore? It makes little sense to put all the best clues and fun things in to events and scenes the characters are unlikely to attend. Just because they miss the maj or event do esn’t me an th at they w on't be in the thick of things, though; the news will find ways to filter in to
-party conversations, security briefings or simply talking with clanmates. Also, do n’t pl an on getting through this in one night, unless the conclave was called f or a very specific sitting (such as a single trial). If you r players are
-going in 50 directions, and you're do ing this with a single friend or by you rself, you will go batty and end up glossing over too much. Pl an out a fairly specific time table (suchas three sessions) and when it’s over, it’s over; there’s enough going on at a maj or conclave th at could
+party conversations, security briefings or simply talking with clanmates. Also, do n’t pl an on getting through this in one night, unless the conclave was called f or a very specific sitting (such as a single trial). If your players are
+going in 50 directions, and you're do ing this with a single friend or by yourself, you will go batty and end up glossing over too much. Pl an out a fairly specific time table (suchas three sessions) and when it’s over, it’s over; there’s enough going on at a maj or conclave th at could
 easily fuel several months’ worth of sessions. Be assured, you will need to wear a lot of hats if you're
-Storytelling this by you r lonesome. there will be vampires trying to talk on the flo or, vampires coming through the metal detectors, vampires hosting some killerroom parties
-— plus ghouls, plus Sabbar infilerators and any other things you feel like throwing in. Here is one time you will probably not want to struggle through this on you r own. Draft a Narr at or or a couple of outside players to help with roleplaying work. This opti on leaves you free to run the
-maj or points of the story while those characters who chose to do so me thing else have an opti on besides sitting on their thumbs. You may even want to consider recruiting you r players to do do uble-duty (if someone’s character is
-sitting in sessi on — and temporarily out of play — have him play the rakehell Toread or th at another character is encountering at a party). If you're considering having you r players do do uble-duty, take in to considerati on wh at
-informati on you're giving the secondary characters; if you r players c an be weaselly about where they acquired their informati on, be careful about which parts are given out. Give you r helpers a thorough write-up on their new person as, including goals and motives, and a little time to
-read it over and ask any quick questions before throwing them in to play. So why go through all this work f or a conclave? Wh at's it worth to the players? Quite a lot, ifit’s presented properly. Chances are very good th at you r characters have never been out of their city governments or very far afield, and the opportunity to meet others of their cl an who are
+Storytelling this by your lonesome. there will be vampires trying to talk on the flo or, vampires coming through the metal detectors, vampires hosting some killerroom parties
+— plus ghouls, plus Sabbar infilerators and any other things you feel like throwing in. Here is one time you will probably not want to struggle through this on your own. Draft a Narr at or or a couple of outside players to help with roleplaying work. This opti on leaves you free to run the
+maj or points of the story while those characters who chose to do so me thing else have an opti on besides sitting on their thumbs. You may even want to consider recruiting your players to do do uble-duty (if someone’s character is
+sitting in sessi on — and temporarily out of play — have him play the rakehell Toread or th at another character is encountering at a party). If you're considering having your players do do uble-duty, take in to considerati on wh at
+informati on you're giving the secondary characters; if your players c an be weaselly about where they acquired their informati on, be careful about which parts are given out. Give your helpers a thorough write-up on their new person as, including goals and motives, and a little time to
+read it over and ask any quick questions before throwing them in to play. So why go through all this work f or a conclave? Wh at's it worth to the players? Quite a lot, ifit’s presented properly. Chances are very good th at your characters have never been out of their city governments or very far afield, and the opportunity to meet others of their cl an who are
 not the same old faces may give them a new perspective on the scope and breadth of vampire society. It’s a gre at place to plant seeds f or new stories with new acquaintances and enemies made or old ones renewed. Maybe the characters
 learn of matters th at will so on be arriving in a plot, such as a hunted crimin al or the mysterious Eastern vampires. Seeing a Kindred on trial firsth and may bank the fire of a would-be anarch’s runaway enthusiasm (which has been disrupting the game) or inflame a staid conservative out of
-hiscomplacent belief th at the people upstairs know wh at's best f or everyone. If you want to get you r vampires a little more experienced in the ways of the world, a conclave gives them the opportunity to meet almost anyone. A
+hiscomplacent belief th at the people upstairs know wh at's best f or everyone. If you want to get your vampires a little more experienced in the ways of the world, a conclave gives them the opportunity to meet almost anyone. A
 character who has a run-in with a Setite at conclave will remember his kind When they come calling in his city, while another seeking informati on must learn to play diplom at when she goes to visit an elder who may be able to help — f or a price. theremm OF IMMORTALITY: TACTICS AND SYSTEMS
 
 watch and make catty comments with out of fering much help. Most of ten, a lone vampire who wishes to ensure she makes no how ling gaffes watches others se at the mselves first and follows their example, taking not e of any side long looks or facial expressions to gauge her progress. Certainly, any blunders made come back to haunt the young one later in the form of harpy barbs, or
@@ -4210,7 +4210,7 @@ A group of neonates going to hunt an Anathem a is roughly equivalent to a bunch 
 suffer the extreme bad luck to locate exactly wh at they were looking f or. The consequences of such are not pleasant, but they are usually brief. Anathem a make it on to thered List f or a reas on. they are powerful, vicious and murderous. The average generati on of an Anathem a is sixth, and all have mastered a truly
 awe-inspiring spectrum of Disciplines. the n throw in their homicidal manias, their perversions and their general nastiness, and the full horr or of the scenario becomes apparent. In other words, a bunch of 12th-generati on neonates st and a snowball’s chance in Hell against one. While it is certainly possible to include younger characters in a
 “hunting the Anathem a” plotline, even to the point of all owing a character to admister the coup de grace, be sensible in how you handle things. Players’ characters are much more likely to get involved in the events peripheral
-to the hunt f or an Anathem a (say, drawing an alast or’s suspici on of aiding a Red List vampire) th an they are to be part of the hunting expediti on itself. In the end, remember: The Anathem a are dangerous, to both you r characters and you r story line, and should be treated as such. The GUIDE 10 THe CAMARLL A
+to the hunt f or an Anathem a (say, drawing an alast or’s suspici on of aiding a Red List vampire) th an they are to be part of the hunting expediti on itself. In the end, remember: The Anathem a are dangerous, to both your characters and your story line, and should be treated as such. The GUIDE 10 THe CAMARLL A
 
 more on the scale of the villainy required. Membership on the
 List is not limited to Sabb at vampires, either; infamous Kindred of all clans and sects have made their way on to the charts. ALASTORS, If the archons and justicars are the law enforcement agencies of the Camarill a, the alastors are the secret police. Moving unseen and unnoticed through the Camarill a, they serve a variety of purposes at the Inner Circle’s comm and. Mostly, how ever, the alastors hunt the Anathem a relentlessly. While the anonymous existence of the alastors c an be a difficult one, it
@@ -4264,7 +4264,7 @@ According to of ficial Camarill a do ctrine, the Sabb at do es not exist. After 
 Sabb at are really just members of the Camarill a in massive denial of their true affiliati on
 
 Needless to say, expounding on this questi on of logistics ns blazing a t
-Either is while a Sabb at pack is pouring in to you r have r is about as effective a defensive tactic as putt in, z over you r head and shouting, “Nanny nanny boo bc
+Either is while a Sabb at pack is pouring in to your have r is about as effective a defensive tactic as putt in, z over your head and shouting, “Nanny nanny boo bc
 good way to get turned in to a small pile of ash posthaste
 Regardless of the technicalities, the Sabb at is out there asare the Lupines, Cathayans, the Risen Dead and any number of otherenemies, all hell-bent on the destructi on of the Camarill a
 As a result, the Camarill a has been f or ced to create tactics and strategies f or every contingency from a full-scale Sabb at invasi or of a city to the extracti on of a prisoner already buried up to her eyeballs f or Creati on Rites. Declared or not, the Camarill a is in
@@ -4317,7 +4317,7 @@ New York is aprime example of this tactic in operati on; should the Sabb at aban
 Embraced in the last three years as battlefield “promotions.”
 
 Anadditional benefit to this tactic is the fact th at oddsare, the “reinforcements” created thus have a fairly powerful Kindred of relatively low generati on siring the m. As a result, even if the fresh meatisn’tparticularly well-trained in the art of being a vampire, there’s still a lot of innate power th at the neonate c an draw up on in the interests of self preservati on. In a tussle
-betweenaneighth-generati on Ventrueneonatecreated By the local prince and a 13th-generati on Brujah antitribu created as partof a mass Embrace by astreet-level pack member, you'd do well to put you r money on the Ventrue every time. The RHYTHM oF ÎMMORTALTY: TACTICS AND SYSTEMS
+betweenaneighth-generati on Ventrueneonatecreated By the local prince and a 13th-generati on Brujah antitribu created as partof a mass Embrace by astreet-level pack member, you'd do well to put your money on the Ventrue every time. The RHYTHM oF ÎMMORTALTY: TACTICS AND SYSTEMS
 
 wh at not present definite violations of the Masquerade, and as such are worthless to the Camarill a cause. A Ventrue primogen may have known Tacitus or Traj an in the flesh, but is n’t in a positi on to use any of their suggestions. In most cities, military or pseudo-military affairs are left
 to a city’s sheriff and his childer, though as a matter of course the sheriff is granted leave to “deputize” other Kindred to help him in wh at ever matters are pressing. In reality, situations like th at of ten emulate therecruitment practices of the
@@ -4370,7 +4370,7 @@ another night. The elders, the wise ones who have seen the game played out f or 
 
 creatures of place and habit. In additi on, Caine’s childer, particularly those who have seen A few decades on the other side of the grave, prefer security and comfortable surroundings. To such vampires, the loss of a home is more th an just a matter of moving a line on a map A few miles. It is the loss of identity, the
 violent uprooting of tendrils th at have been carefully laid do wn over decades. F or all the se reasons, and more, the Camarill a defends its own with the fury of a lioness defending her cubs. Defensive tactics put in to play against the Sabb at are simple: Figure out wh at and who in a city is expendable. Defend
-therest to the Fin al Death. Use mortal and ghoul f or ces to keep relentless daytime pressure on Sabb at encampments. Burn do wn as many buildings as you have to in order to get the invaders, and blame it on an ars on wave — have you r ghouls
+therest to the Fin al Death. Use mortal and ghoul f or ces to keep relentless daytime pressure on Sabb at encampments. Burn do wn as many buildings as you have to in order to get the invaders, and blame it on an ars on wave — have your ghouls
 smile f or the news crews while lighting the flames, if necessary. The are a c an always be rebuilt later, providing opportunities and rewards f or wh at ever neonates and ancillae distinguish the mselves in the city’s defense. Speed of response time is also key to Camarill a defenses. If the Sabb at gains a foothold in a city, the n the sect c an start
 mass-creating shock troops with in the contested zone. not only do es this produce more oppositi on at a nigh-exponential rate, but italso threatens the Masquerade. If the Sabb at is all owed to get “energetic” in its recruiting, the defenders’ resources need to be split between actual defense of the city and protecting the
 Camarill a’s veil of secrecy. The pressure only increases as time goes by. If the infecti on is not bumed out quickly, it may never be burned out at all. If truth be told, the Camarill a almost welcomes frontal assaults from the Sabb at. Yes, Kindred may be destroyed, property smashed and resources used up, but in such cases the
@@ -4426,7 +4426,7 @@ take care to avoid yanking their debtors’ leashes too hard or too of ten. Once
 
 Few Kindred like the ide a of having lingering debts. It’s embarrassing socially, painful fin ancially and potentially hazardous. As a result, most vampires attempt to pay of f their prestati on debts as so on as they c an safely do so. As creditors
 have a vested interest in stringing those debts out, the result c an be a game of c at and mouse, with the debtors frantically attempting to do their creditors favors and the creditors do dging anything th at might conceivably be construed as a
-kindness from their debtors. Debts among the Kindred rarely take specific shape, as it were. [tis uncomm on f or a vampire to request a detailed service. Rather, debts are kept nebulous — “I'll simply ask f or you r help with so me thing do wn the road.” This ambiguity works both f or and against the credit or. The indistinct nature of the debt helps
+kindness from their debtors. Debts among the Kindred rarely take specific shape, as it were. [tis uncomm on f or a vampire to request a detailed service. Rather, debts are kept nebulous — “I'll simply ask f or your help with so me thing do wn the road.” This ambiguity works both f or and against the credit or. The indistinct nature of the debt helps
 keeps those on the short end of prestati on on their toes, as they never know wh at they might be asked f or. On the other h and, since the nature of the debt is fuzzy, itis comm on f or Kindred to perform some sort of fav or f or their creditors in hopes of c an celing the prestati on debt. Particularly energetic or devious
 
 ampires maneuver their creditors in to situations where in they c an appear on the scene and render assistance, thus wiping out the imbalance. Such attempts should be made very carefully, though — if they back fire or are found out, the instig at or just sinks deeper in to debt and becomes a target of derisi on as well. Wh at form payback takes depends on the size and type of
@@ -4445,7 +4445,7 @@ sinequ an on involved in the process. The vampire who se debt is being traded mu
 his debt was worth hanging on to is a wonderful way of reinforcing his social status beneath you. The transmissi on of debtisasmuch a part of the game of prestati on asanything else. f or MALITY
 At first glance, it seems th at the weight th at the Kindred place on incurred favors and the like is completely ludicrous. d on't like owing a Nosferatu a fav or? Blow him of f! He's only a Nosferatu! He c an’t do anything if you do n’t pay up, right? Wrong. DEFINING BOONS
 
-Most young Kindred learn the art of prestati on (if they're lucky) as the art of giving and granting favors; 20th-century vampires define it as “you scratch my back, I scratch you rs.” Unfortunately, more of ten the neonates come to prestati on only through being taken advantage of by skilled elders, giving them no chance to learn under
+Most young Kindred learn the art of prestati on (if they're lucky) as the art of giving and granting favors; 20th-century vampires define it as “you scratch my back, I scratch yours.” Unfortunately, more of ten the neonates come to prestati on only through being taken advantage of by skilled elders, giving them no chance to learn under
 more “f or giving” conditions. Many an inexperienced Kindred (you th and elder alike) has dug the mselves in to horrendous debt due to their ignorance of the levels of prestati on. This is not entirely through their own making; not A few harpies
 brokering deals have assisted the matter by choosing not to inform a Kindred about his potential mistake or by deliberate misinformati on when it suited them (this of course gives them the opportunity to “help” the unfortunate one by leveling another debt to have the first one
 renegotiated). The levels defined below are wh at passes f or definiti on across most of the Camarill a; regions, ages of the
@@ -4482,66 +4482,66 @@ ground up — or to co-opting one th at already exists and bringing it in to the
 
 THe BASICS
 
-If you are going to create a city to hold you r game, there
+If you are going to create a city to hold your game, there
 
-This chapter is intended f or Storyteller use only. are a gre at many questions you're going to have to be prepared to answer about it. Remember, you r characters will go places in the city you do n’t expect them to. they will ask where the dumpsters are and if there are all eys they c an
+This chapter is intended f or Storyteller use only. are a gre at many questions you're going to have to be prepared to answer about it. Remember, your characters will go places in the city you do n’t expect them to. they will ask where the dumpsters are and if there are all eys they c an
 duck do wn, which directions the streets run and how much local phone calls cost. Unfortunately, you c an’t map out absolutely everything — if you did you'd have precious little time f or anything silly like eating or sleeping — but there
-are steps you c an take to prepare f or moments when the story wanders in to terr a incognit a. The better and more fully realized you r city is, the easier it is f or you toextrapolate on the fly the details you have n’t mapped out yet. The work and care you put in to preparing you r setting
-f or play invariably pays of f during you r chronicle, when knowledge of you r creati on all ows you to let the character wander its streets freely. not hing wrecks the mood of a chronicle more completely th an a Storyteller saying, “You c an’t go there,” as a way of covering up f or in complete preparati on. Vampires are
-lords of the night — the streets are their do m a in and they c an go where ver they wish. The loss of a neighborhood (or even a building) to not hing in particular diminishes both the vampires’ unholy swagger and thereality of the chronicle. To avoid moments like th at, you need to know you r city. you need to know its mood, its feel, its architecture, its industri
+are steps you c an take to prepare f or moments when the story wanders in to terr a incognit a. The better and more fully realized your city is, the easier it is f or you toextrapolate on the fly the details you have n’t mapped out yet. The work and care you put in to preparing your setting
+f or play invariably pays of f during your chronicle, when knowledge of your creati on all ows you to let the character wander its streets freely. not hing wrecks the mood of a chronicle more completely th an a Storyteller saying, “You c an’t go there,” as a way of covering up f or in complete preparati on. Vampires are
+lords of the night — the streets are their do m a in and they c an go where ver they wish. The loss of a neighborhood (or even a building) to not hing in particular diminishes both the vampires’ unholy swagger and thereality of the chronicle. To avoid moments like th at, you need to know your city. you need to know its mood, its feel, its architecture, its industri
 and more. It’salot of work, yes, but the process is a rewarding one. LAYING THE ground work
 
-Before you create the first vampire with who m to populate you r metropolis of the night, you need to ponder the most central character in you r chronicle: the city herself. Her history, mood, the me and very existence are wh at make up the bedrock
+Before you create the first vampire with who m to populate your metropolis of the night, you need to ponder the most central character in your chronicle: the city herself. Her history, mood, the me and very existence are wh at make up the bedrock
 
-Tre Cay By Nie at: Bunoinc you r Sermnc of you r chronicle. If you c an’t answer the following questions, you r city is n’t ready f or you r players yet, and any scenario you try to create will eventually collapse under its own weight. REAL OR IMAGINED? The first decisi on you have to make is whether or not you r city is a real one. there are benefits and drawbacks to either
-choice. If you decide to set you r chronicle in the World of
+Tre Cay By Nie at: Bunoinc your Sermnc of your chronicle. If you c an’t answer the following questions, your city is n’t ready f or your players yet, and any scenario you try to create will eventually collapse under its own weight. REAL OR IMAGINED? The first decisi on you have to make is whether or not your city is a real one. there are benefits and drawbacks to either
+choice. If you decide to set your chronicle in the World of
 Darknessequivalent of a real world city, a lot of the hard work has already been do ne f or you. The city’s geography and the basics of its history are already in place, and all you have to do is apply vampiric shadings. On the other h and, centuries of established
-history makes f or a lot of research and limits you r options to an extent; if you r playersare familiar with local history, they to take umbrage at you r rewriting it too cavalierly
+history makes f or a lot of research and limits your options to an extent; if your playersare familiar with local history, they to take umbrage at your rewriting it too cavalierly
 
-On the other h and, building you r city literally from the ground up gives you a blank c an vas on which to work. History, locati on, street maps — all of them await you r whim. The fictional city is completely you r creati on, from top to bottom. Unfortunately, th at means th at you have to create everything in it —and th at’s a gre at deal of work. there's more to a city’s
-history th an edited highlights and more to a city’s map th an A few m a in highways and a fin ancial district. Once you make the commitment to create a city, there’s no do ing things halfway. Home or Away? If you choose to use an existing city as a base, need to decide whether to use you r home town. While it c an be tempting to do so, looking at you r neighborhood with roseyou also
+On the other h and, building your city literally from the ground up gives you a blank c an vas on which to work. History, locati on, street maps — all of them await your whim. The fictional city is completely your creati on, from top to bottom. Unfortunately, th at means th at you have to create everything in it —and th at’s a gre at deal of work. there's more to a city’s
+history th an edited highlights and more to a city’s map th an A few m a in highways and a fin ancial district. Once you make the commitment to create a city, there’s no do ing things halfway. Home or Away? If you choose to use an existing city as a base, need to decide whether to use your home town. While it c an be tempting to do so, looking at your neighborhood with roseyou also
 
-colored mirrorshades c an limit you r options. With roughly
-100,000 mortals required to support a single vampire, setting you r campaign in a small city — even if you know it intimately —c an severely limit you r Storyteller character options. If you r city c an only support three Kindred and you have five players, cert a in problems of populati on present the mselves. If you r home town c an support a reason able game, how ever, it
-do es give you a tremendous h and with Storytelling. One of them a in advantages of using you r home city as the basis f or you r chronicle is the fact th at you have in-depth knowledge of the place. Knowing where the clubs, the burnedoutcrack houses and the skyscrapers are reflexively all ows you to move you r chronicle to those places smoothly and rapidly. Being
-familiar with hangouts, restaurants and local slang lets you drop pertinent and real details in to you r story, and give it the sort of verite th at adds to you r players’ immersi on and enjoyment. Ifyou choose a city th at’s not you r own, it’s always a good ide a to research it thoroughly first — and to make sure th at
-it will spawn enough story ideas to sust a in you r chronicle. there's little sense in investing the time to learn a place satisfactorily, only to disc over th at the city do esn’t hold interest f or you r players. Travel books make excellent resources f or this sort of research, asdo the brochures and pamphlets th at acity’s tourist
+colored mirrorshades c an limit your options. With roughly
+100,000 mortals required to support a single vampire, setting your campaign in a small city — even if you know it intimately —c an severely limit your Storyteller character options. If your city c an only support three Kindred and you have five players, cert a in problems of populati on present the mselves. If your home town c an support a reason able game, how ever, it
+do es give you a tremendous h and with Storytelling. One of them a in advantages of using your home city as the basis f or your chronicle is the fact th at you have in-depth knowledge of the place. Knowing where the clubs, the burnedoutcrack houses and the skyscrapers are reflexively all ows you to move your chronicle to those places smoothly and rapidly. Being
+familiar with hangouts, restaurants and local slang lets you drop pertinent and real details in to your story, and give it the sort of verite th at adds to your players’ immersi on and enjoyment. Ifyou choose a city th at’s not your own, it’s always a good ide a to research it thoroughly first — and to make sure th at
+it will spawn enough story ideas to sust a in your chronicle. there's little sense in investing the time to learn a place satisfactorily, only to disc over th at the city do esn’t hold interest f or your players. Travel books make excellent resources f or this sort of research, asdo the brochures and pamphlets th at acity’s tourist
 bureau is more th an happy to send out. Many cities also have web sites the se days, all owing f or instant access to history, EMINENT do M A IN
 
-So you want to run achronicle set in you r home city, but there's already published material on it. Even worse, the material th at’s in print do esn’t jibe with wh at you want to do with you r home town — how c an you r characters aspire to the princedom if a book states very clearly th at there's an angry sixth-generati on Ventrue
-id claim to the throne and who brooks no dissent? Fear not — you have plenty of options. You d on't have to accept the published continuity if you do n’t want to — if you r St. Louis do esn’t jibe with our St. Louis, well, it’s you r game and you w on't hurt our feelings by changing it. you r chronicle is implicitly you rs, to do with as you
-wish, and th at’s all there is to it. On the other h and, there's a lot of work th at’s already been do ne f or you when you decide to run a game in a precreated setting. If the setting as it stands do esn’t work f or you, but you do n’t want to rebuild the city from the ground up, there are compromises th at you c an make. The easiest is to run through the published setting, see wh at you like about it, and simply replace therest. Another is to see where the city is, decide wh at you want it to be, and have the plot of you r
-game be the progressi on from actual to ideal. Instead of simply removing a Storyteller character, you c an have him assassin ated in play and the characters put to the task of investigating. In th at fashi on, you r exercise in world-building becomes the players’ plot twist. You get wh at you want
-out of you r setting while the players get to game with out waiting f or you to recreate the entire city. Just do n’t stress about wh at you “c an” and “c an’t” do. It’s you r game and you r city. Do with both wh at you will. who's tourist high pointsallows you to concentrate the acti on in regions you
-know while buying time f or you to do further research. Wnart Is Tue Mo on? ond the propagand a th at tourist center brochcity tends to have amood and apersonality. Identifying you r city's mood is a key step in identifying wh at sort of chronicles will run well there. A history of warfare and sprinkling of monuments give a city one flav or; urb an renewal with lots of glass, chrome and steel provides another. If you look
+So you want to run achronicle set in your home city, but there's already published material on it. Even worse, the material th at’s in print do esn’t jibe with wh at you want to do with your home town — how c an your characters aspire to the princedom if a book states very clearly th at there's an angry sixth-generati on Ventrue
+id claim to the throne and who brooks no dissent? Fear not — you have plenty of options. You d on't have to accept the published continuity if you do n’t want to — if your St. Louis do esn’t jibe with our St. Louis, well, it’s your game and you w on't hurt our feelings by changing it. your chronicle is implicitly yours, to do with as you
+wish, and th at’s all there is to it. On the other h and, there's a lot of work th at’s already been do ne f or you when you decide to run a game in a precreated setting. If the setting as it stands do esn’t work f or you, but you do n’t want to rebuild the city from the ground up, there are compromises th at you c an make. The easiest is to run through the published setting, see wh at you like about it, and simply replace therest. Another is to see where the city is, decide wh at you want it to be, and have the plot of your
+game be the progressi on from actual to ideal. Instead of simply removing a Storyteller character, you c an have him assassin ated in play and the characters put to the task of investigating. In th at fashi on, your exercise in world-building becomes the players’ plot twist. You get wh at you want
+out of your setting while the players get to game with out waiting f or you to recreate the entire city. Just do n’t stress about wh at you “c an” and “c an’t” do. It’s your game and your city. Do with both wh at you will. who's tourist high pointsallows you to concentrate the acti on in regions you
+know while buying time f or you to do further research. Wnart Is Tue Mo on? ond the propagand a th at tourist center brochcity tends to have amood and apersonality. Identifying your city's mood is a key step in identifying wh at sort of chronicles will run well there. A history of warfare and sprinkling of monuments give a city one flav or; urb an renewal with lots of glass, chrome and steel provides another. If you look
 
 tractions and street maps. Having an ide a of the city’s
 
-'s do wntown regi on and see looming gothic architecture, narrow streets and we a thered gargoyles, the locale probably lends itself better to chronicles of intrigue and conspiracy th an it do es to random gun battles in the streets. at you r ci
+'s do wntown regi on and see looming gothic architecture, narrow streets and we a thered gargoyles, the locale probably lends itself better to chronicles of intrigue and conspiracy th an it do es to random gun battles in the streets. at your ci
 
 Wn Hy Is Ir CAMARILL A®
 
-“Tihs easy ariver to big a an Basie a so,” but th at do esn’t do a lot to help you r chronicle along. Instead, you should look at theresources the city has to of fer to see reasons the Camarill a wants to maint a in control of this place. Perhaps there's a high-tech belt to the west of the city
+“Tihs easy ariver to big a an Basie a so,” but th at do esn’t do a lot to help your chronicle along. Instead, you should look at theresources the city has to of fer to see reasons the Camarill a wants to maint a in control of this place. Perhaps there's a high-tech belt to the west of the city
 
 The GUIDE TO THE CAMARILL A
 
 Tue Pissinc MATCH
 
-The most comm on pitfall attached to using you r home town as the site of you r chronicle is the know-it-all player, who invariably attempts to use his superi or knowledge of the setting to derail the story. Getting drawn in to arguments as to wh at exactly the name of therestaurant
-at 4th and South is, or how long ago a particular club closed, is extremely detrimental to you r chronicle. The other players get bored, or worse, get involved in the debate. And if everyone’s debating them in or details of
-city geography, no one’s roleplaying. The best thing to do if stuck with this sort of player is to remind him, gently, th at the city in the World of Darkness is not thereal city, and th at things have changed a little bit. After all, this is you r versi on of you r home town, not his, and you have every right to let him know who's in charge. th at the younger Ventrue have decided is the key to their future
+The most comm on pitfall attached to using your home town as the site of your chronicle is the know-it-all player, who invariably attempts to use his superi or knowledge of the setting to derail the story. Getting drawn in to arguments as to wh at exactly the name of therestaurant
+at 4th and South is, or how long ago a particular club closed, is extremely detrimental to your chronicle. The other players get bored, or worse, get involved in the debate. And if everyone’s debating them in or details of
+city geography, no one’s roleplaying. The best thing to do if stuck with this sort of player is to remind him, gently, th at the city in the World of Darkness is not thereal city, and th at things have changed a little bit. After all, this is your versi on of your home town, not his, and you have every right to let him know who's in charge. th at the younger Ventrue have decided is the key to their future
 success, or the city’s port is a strategic point f or smuggling
 Kindred in and out of the country. Maybe the city holds fond memories f or cert a in elders, and they're not will ing to relinquish the place, or pethaps a slumbering Methuselah has commanded in dreams th at this city be maintained f or her. By cataloging wh at the city holds to keep the Camarill a in place, you're also cataloging wh at there is of interest to
 vampires in the city. Knowing wh at are as of control are possible all ows you to start thinking about the Kindred who control the m. Knowing wh at's out there th at’s attractive lays the ground work f or populating the city, and also thinking
 about the possible conflicts with in the city itself. If a city loses its heavy manufacturing sect or, the Brujah who controlled th at industry and fed of f its successes suddenly finds himself with out a power base. At th at point, he may seek to take away
 the do m a in of another Kindred, or his enemies may seek to annihilate him when he’s at his weakest ebb. QUESTIONS OF GEOGRAPHY
 
-The physical makeup and layout of you r city dictates in large part wh at sort of stories you c an run comfortably in you r game. If you r city has just undergone a maj or urb an renews complete with revitalized do wntown are a and gentrified
-neighborhoods, it may not necessarily be suitable f or a game based around a the struggle to revitalize a declining manufacturing base in the face of Ventrue oppositi on. Wu at do es t He Map Loox Like? Before do ing anything else, get a map of you r city (or create it, {you have to) and look at the town’s physical layout. Get familiar with maj or access routes and important landmarks
+The physical makeup and layout of your city dictates in large part wh at sort of stories you c an run comfortably in your game. If your city has just undergone a maj or urb an renews complete with revitalized do wntown are a and gentrified
+neighborhoods, it may not necessarily be suitable f or a game based around a the struggle to revitalize a declining manufacturing base in the face of Ventrue oppositi on. Wu at do es t He Map Loox Like? Before do ing anything else, get a map of your city (or create it, {you have to) and look at the town’s physical layout. Get familiar with maj or access routes and important landmarks
 (airports, city hall, hospitals, police headquarters, etc.), and estimate how long it roughly takes to reach them when one is in a Rotschreck-fueled hurry. not e neighborhood and district divisions — being able to tell the run-do wn parts of town from
-the trendy shopping districts is important when it comes to placing you r fictional landmarks. finally, think about which parts of town you r players’ characters are likely to be comfortable in and which ones will find them out of their element. WHICH Praces Matter? Not all sites are created equal. This is a truth so obvious it hardly seems worth repeating, but when it comes to mapping out
-you r city it’s important to remember th at fact. Some chunks of real estate are more desirable to Kindred th an others. Some afford fin ancial or temporal power; others of fer easy access to feeding or prime c an did ates f or ghouling. the n there are transportati on hubs, important parts of the city’s physical plant and so on. A Nosferatu
-who has his talons in the city’s water treatment stati on has a gre at deal more actual power th an a Toread or who owns a do zen trendy clubs; the f or mer c an bring the metropolis to its knees, while the latter of fers mortals a hip and happening good time. It is important to figure out which buildings and institutions in the city matter to you r vampires, and from there to
+the trendy shopping districts is important when it comes to placing your fictional landmarks. finally, think about which parts of town your players’ characters are likely to be comfortable in and which ones will find them out of their element. WHICH Praces Matter? Not all sites are created equal. This is a truth so obvious it hardly seems worth repeating, but when it comes to mapping out
+your city it’s important to remember th at fact. Some chunks of real estate are more desirable to Kindred th an others. Some afford fin ancial or temporal power; others of fer easy access to feeding or prime c an did ates f or ghouling. the n there are transportati on hubs, important parts of the city’s physical plant and so on. A Nosferatu
+who has his talons in the city’s water treatment stati on has a gre at deal more actual power th an a Toread or who owns a do zen trendy clubs; the f or mer c an bring the metropolis to its knees, while the latter of fers mortals a hip and happening good time. It is important to figure out which buildings and institutions in the city matter to your vampires, and from there to
 determine which sites are relevant to which individual Kindred. City hall, police headquarters and the like are obvious places to start, but they're just starting points. If a mortal instituti on has power or influence, a vampire is going to want to get her hands on it. So establish which places might
 conceivably afford a vampire an advantage to inhabit or influence, and work from there. Some possible examples: © Prisons — they of fer extensive feeding possibilities, assorted under world connections and potential ghouls with all sorts of useful skills e Airports — Airports of fer rapid transportati on in and
 out. they also provide tremendous smuggling opportunities, and c an be a gre at way to bottleneck arriving Kindred. If a city has multiple airports, there may well be a power struggle to control all of the air routes in to or out of the city. * Tr a in and Bus Stations — Like airports, only less so. More important f or snagging anarchs and refugees. * Freight Yards and Working Ports — Smuggling, or ganized lab or and access to and from a city with out the need f or a passport. VISUALIZATI ON TOOLS
@@ -4550,13 +4550,13 @@ of ten it’s helpful to imagine the defining anim a of a city as an individual.
 — not everyone in Minneapolis talks like an extr a from
 Fargo, f or example. the n ag a in, the defining moments of a city’s heritage do need to be addressed. Atlant a may have been bumed 13 decades ago, but the matter still subtly informs many residents’ attitudes even today. Once you achieve a working personificati on of a city’s
 soul, it c an get easier to work up other details of the city. It’s of ten lot simpler to figure out wh at goes well with a pers on th an with a city as a who le. Remember, wh at you're going f or is generalities and basics. If you try to work in all of the
-details this early in the process, you'll never finish. Tre Coy By Ni a at: Buoinc you r Sern e Higher Educati on — A city’s colleges and universities, particularly those with good party scenes, make f or excellent feeding opportunities. Outstanding students and graduate students c an be targeted f or ghouling or even the Embrace, and if the school has any sort of research wing, there’s access to grant
+details this early in the process, you'll never finish. Tre Coy By Ni a at: Buoinc your Sern e Higher Educati on — A city’s colleges and universities, particularly those with good party scenes, make f or excellent feeding opportunities. Outstanding students and graduate students c an be targeted f or ghouling or even the Embrace, and if the school has any sort of research wing, there’s access to grant
 money and the fruits of th at research as well. the n ag a in, a supposed community of scholars might be of interest to Kindred with an interest in Noddist or other lore... e Local Branches of Government Departments — The ability to call in audits, levy fines or shut do wn plants and
 businesses c an not be overestimated. Even so me thing seemingly as unrelated to vampires as the EP A c an be used to hamstring a business with astonishing speed. e Newspapers and Local Televisi on — the se mortal institutions are a must-have f or those interested in protecting the Masquerade. The ability to kill or alter stories — or to
 insert them to serve the Kindred’s ends — makes influence in the se are as powerful indeed. © Hospitals — F or the squeamish, hospitals of fer cached blood. F or the ghoulish, they of fer feeding. F or the careless, they of fer places to dispose of mistakes. e City Hall — F or obvious re
 * Police Stations — Kindred with influence over the local police c an call backup to deal with pesky opponents, or sons maneuver so th at there are cert a in places th at the police just
 know to leave alone... e Parks, Public are as and Stadiums — Wide open spaces of fer space to host meetings or conclaves, and generally of fer plenty of hiding places. * Trendy Clubs and Restaurants — the se places to see and be seen of fer plenty of business opportunities, feeding f or
-Kindred of discrimin atory taste and excellent sources of income. Peripheral businesses (narcotics, fencing, etc.) also of ten come with the territory. e Industrial and Manufacturing Centers — Manufacturing plants are still the economic backbone of their cities in many cases. they also have connections to or ganized lab or, links to shipping and of ten ties to fin ancial institutions as well. * Stockyards — If you r city has anything of a livestock
+Kindred of discrimin atory taste and excellent sources of income. Peripheral businesses (narcotics, fencing, etc.) also of ten come with the territory. e Industrial and Manufacturing Centers — Manufacturing plants are still the economic backbone of their cities in many cases. they also have connections to or ganized lab or, links to shipping and of ten ties to fin ancial institutions as well. * Stockyards — If your city has anything of a livestock
 industry, it has a perfect last-ditch hiding place and all-night cafeteri a f or losers in local brawls. * Homeless Shelters and Relief Agencies — Shelters of fer plenty of victims who w on't necessarily be missed. F or the less immediately homicidal, surpassingly effective ghouls
 c an be plucked from theresidents of such places. ¢ Real Estate Companies — Being able to buy, sell and have listings on havens is an advantage many Kindred would gladly pay f or. e Fire Departments — Having the ability to delay the hook and ladder truck’s arrival at a rival’s burning have n is
 worth a gre at deal to some Kindred. e Local Charities — the se c an be touchstones f or many local businesses. Someone with a stranglehold on the local of fice of a maj or charity gets to deal with all of the businesses who contribute... © Service Industries — Power meter readers, phone techniciansetali a getintoeveryone’shome. Everyone's. Th at sort of access
@@ -4565,17 +4565,17 @@ impact on Seattle and Mercedes-Benz’s on Stuttgart makes th at sort of thing w
 where thereal money is. A little fiddling with the local stock index c an do wonders—or horrors—f or firms th at are thus listed. e The Morgue — A well-trained medical examiner is a vampire’s best friend. Even the best-intentioned Kindred makes mistakes sometimes, and inevitably one of those
 mistakes gets picked up. Having a finger on them an who writes the death certificates c an be a valuable ing the Masquerade. * under world Businesses — The local numbers shop. Places th at sell guns with the serial numbers filed of f. Places to is set in preservget assault rifles, explosives and illegal narcotics. The Kindred
 do n’t worry too much about going to jail, but they do worry about being able to kill, mutilate, drug or explode things on occasi on...-and so on. not e th at this is n’t be be-all end-all of wh at sorts of places are of interest to Kindred — there’: chance th at someone will decide to take an interest in the zoo or a local sports team — n or will every one of the places listed
-above have a vampire squatting malevolently behind it. Instead, just consider which of the se and similar places might matter to you r Kindred, and pick and choose from there. always a
+above have a vampire squatting malevolently behind it. Instead, just consider which of the se and similar places might matter to your Kindred, and pick and choose from there. always a
 
 When you're handing out places f or Kindred to control, it also makes sense to establish which sites and institutions they do n’t have a handle on. Working out wh at the se places are and why the Kindred do n’t at least influence them c an produce
-interesting stories later on, when the characters try to establish control of the se as-yet virg in territories. In the me an time, knowing why no one seems to have a handle on, say, the utilities (too many rivals maneuvering f or it? princely edict? the local Monit or's have n? another supernatural protect or’), you c an sprinkle hints and ominous rumors in to you r chronicle. Wuere Do t He KINDRED Go? there’s a world of difference between places the Camarill a likes to have a pallid finger on and those where individual
+interesting stories later on, when the characters try to establish control of the se as-yet virg in territories. In the me an time, knowing why no one seems to have a handle on, say, the utilities (too many rivals maneuvering f or it? princely edict? the local Monit or's have n? another supernatural protect or’), you c an sprinkle hints and ominous rumors in to your chronicle. Wuere Do t He KINDRED Go? there’s a world of difference between places the Camarill a likes to have a pallid finger on and those where individual
 vampires like to spend their time. Just because a Brujah has consolidated his influence in a city’s lab or unions do esn’t me an th at he necessarily enjoys whiling away his evenings at or ganizational meetingsor in factories. there are places where vampires gather and hunt (the so-called “Rack”), and th at’s ground zero
 f or most vampire-on-vampire interacti on in a given city. The GUIDE TO THE CAMARILL A
 
 RED A
 
-Defining you r city’s Rack takes more th an just setting up a hip neo-Goth club and letting things go at th at. If you r vampires do frequent clubs, wh at sort of clubsare they, and who ownsthem? there’s a very good chance th at the Gangrel are n’t going to hang out where the Toread or do, f or example. As a result, you'll have
-to set up more th an one club or bar in order to avoid artificially f or cing all of you r vampires under one ro of. do n’t take the time to set up a club th at’s frequented by each cl an, though — it’s a waste of time and defeats the purpose of having a club as a central
+Defining your city’s Rack takes more th an just setting up a hip neo-Goth club and letting things go at th at. If your vampires do frequent clubs, wh at sort of clubsare they, and who ownsthem? there’s a very good chance th at the Gangrel are n’t going to hang out where the Toread or do, f or example. As a result, you'll have
+to set up more th an one club or bar in order to avoid artificially f or cing all of your vampires under one ro of. do n’t take the time to set up a club th at’s frequented by each cl an, though — it’s a waste of time and defeats the purpose of having a club as a central
 meetingfinteracti on point. Ifall of the Tremere c an go hang out at Club Etrius in one part of the city, they're never going to go any where else. And if they d on't go any where else, you lose a valuable tool f or introducingnew charactersandkickingoff plots. When you establish a club th at’s a vampiric hangout or
 hunting ground, make sure to give it so me thing of a unique identity. People attend particular clubs f or particular reasons, after all — playlists, DJs, ambiance, dec or — and you need to create reasons f or vampires (the pickiest of the picky consumers, especially when you figure in Auspex) to attend. Private space, places f or unobtrusive feeding, ghoul do or men who let Kindred in automatically, aesthetics th at are pleasing to Auspex-en
 is ons f or Kindred to flock to a particular nightspot. with out amenities like the se, vampires hanced senses and so on are all re will simply move on to another place th at caters to their whims
@@ -4583,35 +4583,35 @@ is ons f or Kindred to flock to a particular nightspot. with out amenities like 
 On the flip side, lay out how the club deals with the
 Masquerade and breaches there of. Any place th at attracts flocks of Kindred on any given night is a magnet f or trouble
 Frenzies, fights, accidental killings during feeding and other crises will arise, and they'll all need to be dealt with quickly, quietly and efficiently. If a club gets a reputati on as a trouble spot, if patrons disappear or get shot on a regular basis, the n the cops are going to move in and the lowly mortals who make up
-the place’s real customer base are going to move on. It’s not like the Kindred are paying f or their drinks, after all. So ponder you r mythical club's cleanup, c over-up and defenses. you do n’t want
+the place’s real customer base are going to move on. It’s not like the Kindred are paying f or their drinks, after all. So ponder your mythical club's cleanup, c over-up and defenses. you do n’t want
 
 Cuoppinc Up t He Town
-It’s fine to divvy up sections of you r city to Kindred left and right, but restraint is as important as thoroughness In this instance. This is a camarilla city, afterall. The vampires who pull the strings of mortal institutions do n’t do so directly; they
+It’s fine to divvy up sections of your city to Kindred left and right, but restraint is as important as thoroughness In this instance. This is a camarilla city, afterall. The vampires who pull the strings of mortal institutions do n’t do so directly; they
 work through mortals to achieve their ends. Furthermore vampiric control is always subtle and of ten imperfect; a
 Ventrue do esn’t casually stroll in to the local paper’s city room and delete files at random. Instead, he calls the edit or of the secti on, who may be a ghoul or may just be a mortal beholden tohim, and requests th at the of fendingstory be killed. He may
 of fer recompense in the form of additional ad revenue f or th at secti on th at day, or he may “create” another newsworthy incident to fill the space. The desired effect is achieved with out bloody constraint. So remember th at when you h and out sections and
-institutions, you're handing out influence, not total and direct control. Pl an you r plots accordingly. Tre Cay By Nig at: Buoinc you r Semne
+institutions, you're handing out influence, not total and direct control. Pl an your plots accordingly. Tre Cay By Nig at: Buoinc your Semne
 
 BAD NEIGHBORHOODS
 
-It’s easy to dismiss the bad parts of town. It’s simple to sketch them simply and use them as convenient feeding grounds, not hing more. But it’s not necessarily right to do so. Ifyou're going to take you rstory in to the less savory parts of town, show respect f or you r subject matter. Poverty and
+It’s easy to dismiss the bad parts of town. It’s simple to sketch them simply and use them as convenient feeding grounds, not hing more. But it’s not necessarily right to do so. Ifyou're going to take yourstory in to the less savory parts of town, show respect f or your subject matter. Poverty and
 despair are powerful, dreadful things, and cavalierly using them as justifications f or cheap feeds sends the wrong message. If a neighborhood goes to hell, there’s a reas on — plant closings, neglect or malice from city government, infestati on and there are real hum an beingsaffected by th at
-decline. Even if you r Kindred plumb the worst depths of you r by dealers city, remember to ascribe some basic hum an dignity to be caught unprepared when the local mob of Brujah decides
-to tear the club’s mysterious owner a new one. While the clubs are the heart of you r city’s Rack, they're not the entire thing. Is you r city’s prime hunting ground a club district, or do es it tend more toward shopping and restaurants? Outlining the Rack also lays out wh at sort of prey vampires are likely to find there. A ritzier, shopping-based Rack is likely to have more middle and upper-class patrons, and the se people are more likely to be
+decline. Even if your Kindred plumb the worst depths of your by dealers city, remember to ascribe some basic hum an dignity to be caught unprepared when the local mob of Brujah decides
+to tear the club’s mysterious owner a new one. While the clubs are the heart of your city’s Rack, they're not the entire thing. Is your city’s prime hunting ground a club district, or do es it tend more toward shopping and restaurants? Outlining the Rack also lays out wh at sort of prey vampires are likely to find there. A ritzier, shopping-based Rack is likely to have more middle and upper-class patrons, and the se people are more likely to be
 it being attacked. A club-based
 
-Rack, how ever, has younger and possibly inebriated or otherwise taken seriously When they talk abc chemically altered patrons, and such mortals do n’t necessarily carry gre at credibility. Pick you r spots and exp and up on the m
+Rack, how ever, has younger and possibly inebriated or otherwise taken seriously When they talk abc chemically altered patrons, and such mortals do n’t necessarily carry gre at credibility. Pick your spots and exp and up on the m
 
 Clubs and the Rack aren't the only places th at Kindred spend their time. Elysium is also important toestablish. F or more
 
-XX informati on on settii up Elysiums in you r city, see p a
+XX informati on on settii up Elysiums in your city, see p a
 
 Wuere Are t He havens? At this point in the process, you've laid out where the
 Kindred go to “work” and where they go to e at and play
 Wh at's left is where they live. In other words, it’s time to figure out who se havens are where
 
-Many Kindred, particularly experienced, wealthy and par a noid ones, have multiple havens. As a result, trying to pinpoint where each have n of every vampire in you r city might be is a fine way todrive you rself mad. Instead, decide where them a in havens
-of a) the important Kindred, and b) the vampires you r characters are likely to bump in to might be. You might also want to sketch out the details and defenses of havensth at you rplayers' coterie are likely to visit or invade. If the plots th at you're cooking up make
+Many Kindred, particularly experienced, wealthy and par a noid ones, have multiple havens. As a result, trying to pinpoint where each have n of every vampire in your city might be is a fine way todrive yourself mad. Instead, decide where them a in havens
+of a) the important Kindred, and b) the vampires your characters are likely to bump in to might be. You might also want to sketch out the details and defenses of havensth at yourplayers' coterie are likely to visit or invade. If the plots th at you're cooking up make
 
 ne it look likely th at the characters are going to have to go beard
 
@@ -4624,30 +4624,30 @@ How Do You Get the R
 
 An overlooked aspect of a city’s geography involves access. How do mortals get in and out — is there busy airport
 (and which air lines use it as a hub)? Wh at about tr a in lines, buses or maj or highways? If there’s only one m a in road leading in to or out of town, a single traffic accident at a strategic time c an wreak havoc on Kindred travel plans. A massive snarl an hour before sunrise c an trap a vampire far
-from his have n with no where to hide. As an extensi on of this, it makes sense to take a quick look at the city’s traffic maps. M a in streets, parkways, traffic bottlenecks and constructi on projects are all good to know about, particularly if you anticipate high-speed chases in you r chronicle. Justas importantisfiguringouthow vampires getsmuggled in and out of the city. Kindred travel arrangements c an get
-peculiar, and more th an one vampire has made a f or tune by shipping his fellow bloodsuckers like cargo. Ports, air freight termin als, railroad freight yards and the like all deserve attenti on as potential points of entry f or Kindred. Wuere do n’t Tey Go? The flip side of picking out where the Kindred of you r
-citydo goisdelineating the places where they do n’t go. Th at's more difficult th an looking at a map, figuring out wh at the quote-unquote “bad neighborhoods” are, and X-ing them of f you r game map. Wh at might be a bad neighborhood to you or
+from his have n with no where to hide. As an extensi on of this, it makes sense to take a quick look at the city’s traffic maps. M a in streets, parkways, traffic bottlenecks and constructi on projects are all good to know about, particularly if you anticipate high-speed chases in your chronicle. Justas importantisfiguringouthow vampires getsmuggled in and out of the city. Kindred travel arrangements c an get
+peculiar, and more th an one vampire has made a f or tune by shipping his fellow bloodsuckers like cargo. Ports, air freight termin als, railroad freight yards and the like all deserve attenti on as potential points of entry f or Kindred. Wuere do n’t Tey Go? The flip side of picking out where the Kindred of your
+citydo goisdelineating the places where they do n’t go. Th at's more difficult th an looking at a map, figuring out wh at the quote-unquote “bad neighborhoods” are, and X-ing them of f your game map. Wh at might be a bad neighborhood to you or
 me is n’t so much of a has sle to an unliving killing machine who c an shrug of f bullets like they're mosqui to bites, after all. Instead, it takes effort to figure out why a particular part of town is inhospitable to Kindred. A tightly knit Catholic neighborhood might have enough ambient True Faith to keep most vampires: ac bey, Parks ‘or béher less heavily. developed epaces
 might have other supernatural inhabitants who aren't vampirefriendly. Or maybe there are just vampiric rivalries — one line of Brujah has its havens firmly settled in the neighborhoods in
 
-Tue Burns you r city is not just the city itself. there’s the entire metropolit an are a to consider. Which neighborhoods do the wealthy suburb an squires retre at to at the end of the
+Tue Burns your city is not just the city itself. there’s the entire metropolit an are a to consider. Which neighborhoods do the wealthy suburb an squires retre at to at the end of the
 day, and c an the Kindred get there with out being ambushed by Lupines along the way? Gated communities c an serve as private hunting preserves, or they c an be deathtraps. It’s all a matter of perspective. f or tunately or unfortunately, the Kindred do n’tmuch like the suburbs. there’s a little too much open space, there aren't enough places to hide, and theresidentsstill sometimes call the
 cops When they hearscreaming coming from neighbors’ houses late at night. An active neighborhood watch associati on is surprisingly good at picking up breaches in the Masquerade. A few Kindred do like to have suburb an havens, far from the hustle, bustle and armed robbery of the city
-streets, but they’re in a distinct minority. F or even the ever-wary Kindred, there’s safety in numbers. the southern part of the city, while their rivals are established to the west, and never the tw a in shall meet. Take the time to figure out which parts of you r city are n’t safe f or any vampires
-(and why), which onesaren’tsafe f or you r important Storyteller characters and which onesaren’tsafe f or the players’ characters. Wu at do es t He PLace LOOK Line? While not strictly a questi on of geography, the matter of the physical appearance of you r city, right do wn to its base architectural style, should be addressed at some point. A city’s
+streets, but they’re in a distinct minority. F or even the ever-wary Kindred, there’s safety in numbers. the southern part of the city, while their rivals are established to the west, and never the tw a in shall meet. Take the time to figure out which parts of your city are n’t safe f or any vampires
+(and why), which onesaren’tsafe f or your important Storyteller characters and which onesaren’tsafe f or the players’ characters. Wu at do es t He PLace LOOK Line? While not strictly a questi on of geography, the matter of the physical appearance of your city, right do wn to its base architectural style, should be addressed at some point. A city’s
 f açade affects the mood it establishes — a skyline of mirrored glass and steel creates a different mood th an do es one of stately turn-of-the-century skyscrapers encrusted with gargoyles, or one marked by medieval or even Rom an ruins. A city where in
 every building and terrace is marked by beetling, glowering statuary generates an oppressive, paranoiac feel, while the ultramodem look of glass, chromeandsteel makesforadepersonalized, alienated setting. Furthermore, no city’s dec or is uniform; the breakdowns run neighborhood by neighborhood, with dilapidated row homes cheek-by-jowl with freshly yuppified condos and trendy shops. Figure out which feel you want to emphasize
-in you r game and play th at look (and those neighborhoods) up. Remember, this is you r city, and you do n’t have to stick th at closely to “reality” in matters like this. Building style is also a matter th at is more important th an it seems. Vampires are creatures of the side all ey and the boardroom, and you need to figure out the proportions
+in your game and play th at look (and those neighborhoods) up. Remember, this is your city, and you do n’t have to stick th at closely to “reality” in matters like this. Building style is also a matter th at is more important th an it seems. Vampires are creatures of the side all ey and the boardroom, and you need to figure out the proportions
 there of. While it’sall well and good f or the characters to want to duck do wn an all ey and hide behind a dumpster after killing a Ventrue’s prized ghoul, skyscraper districts tend not to have too many all eys. Define wh at theregular features of
-you r city’s landscape are. Are there trees planted in front of every building, or is there trash in the streets? How about all eys — how many, how of ten, how deep and do they have sewer tunnel access f or the Nosferatu? do es the city spring f or
+your city’s landscape are. Are there trees planted in front of every building, or is there trash in the streets? How about all eys — how many, how of ten, how deep and do they have sewer tunnel access f or the Nosferatu? do es the city spring f or
 bright, white street lamps, or are the roads lit in dingy yellow and or ange (if they are lit atall)? This sort of thinking extends to the hum an aspects of the landscape as well. Do the cops walk their be at on foot, or do they stick to cars and in pairs? QuesTIONS OF ELYsIUuM
 
 Part of wh at makes a city definitively Camarill a is its
-Elysiums. the se places, cultural centers where violence is f or bidden against all, rest at the heart of a city’s intellectual unlife. with out knowing a city’s Elysiums —where and wh at and how numerous they are — you c an’t know acity. therefore, defining you r city's Elysiums is a matter of paramount importance. Wuere Is Erysium? Elysiums are the rocks of a city’s foundations, the safe and strong places th at rem a in inviolate even when all around
-them is chaos. you should put thought and considerati on in to you r sefections at Elysums, because by selecting Elysium so you alléct everything thar happensaround Elystum-as well Te may seem obvious just to go ahead and pick you r city’s largest
+Elysiums. the se places, cultural centers where violence is f or bidden against all, rest at the heart of a city’s intellectual unlife. with out knowing a city’s Elysiums —where and wh at and how numerous they are — you c an’t know acity. therefore, defining your city's Elysiums is a matter of paramount importance. Wuere Is Erysium? Elysiums are the rocks of a city’s foundations, the safe and strong places th at rem a in inviolate even when all around
+them is chaos. you should put thought and considerati on in to your sefections at Elysums, because by selecting Elysium so you alléct everything thar happensaround Elystum-as well Te may seem obvious just to go ahead and pick your city’s largest
 art museum as Elysium and letting it go at th at, but the
 
-Tre Cay By Nier: Bunoinc you r Senn obvious choice is n’t always the best one. Choosing multiple, unexpected or just pl a in strange places to serve as Elysium helps give you r city an identity rooted in specifics. Just the sheer number of places marked Elysium has a profound impact on a city’s feel. A city th at has but a single
+Tre Cay By Nier: Bunoinc your Senn obvious choice is n’t always the best one. Choosing multiple, unexpected or just pl a in strange places to serve as Elysium helps give your city an identity rooted in specifics. Just the sheer number of places marked Elysium has a profound impact on a city’s feel. A city th at has but a single
 museum declared Elysium is a very different place from one with a half-do zen sites — the latter is clearly a more prosperous and peaceful do m a in, its Kindred have more time f or contemplati on of the arts, there is more culture fostered in the city by mortal and
 immortal alike, and multiple Elysiums of fers more opportunities f or intriguing on safe ground. On the otherh and, the city with but a single museum or the ater demonstrates th at the prince's priorities lie else where, th at the city do esn’t have theresources to support multiple Elysiums, and th at the Kindred of the metropolis
 have other, more pressing concerns th an the cultivati on of art. there are other, more subtle effects on the city to be considered as well. F or example, the more locales the prince recognizes as Elysium, the more bases of power the local harpies have. More Elysiums also means fewer prime pieces of do wntown
@@ -4655,10 +4655,10 @@ to be handed out as prize do mains to the local Toread or, not to menti on more 
 Elysium, you c an also establish the city's attitude toward culture and keeping up the appearance there of. Wuatl Is€rysium? The places chosen f or a city’s Elysiums say a gre at deal about both the city and those who dwell there. The effects of labeling a place Elysium are both obvious (here is where the
 vampires c an be found) and subtle
 Elysium is liable to enter a precipitous decline). Defining the
-Elysiums of you r city, not to menti on the effects of you r choices, makes a tremendous difference in establishing you r setting. the stereotypical image of Elysium is th at of the art museum open after hours, Kindred strolling to and fro while making snide comments and sipping vitae from wine glasses. While th at image certainly c an hold some truth, you should think about whether
-it holds enough truth f or you r game. Is the art museum you r
+Elysiums of your city, not to menti on the effects of your choices, makes a tremendous difference in establishing your setting. the stereotypical image of Elysium is th at of the art museum open after hours, Kindred strolling to and fro while making snide comments and sipping vitae from wine glasses. While th at image certainly c an hold some truth, you should think about whether
+it holds enough truth f or your game. Is the art museum your
 Kindred’s Elysium of choice? If so, why — traditi on, a specific collecti on of Impressionists or artifacts, fond memories relating to a particular piece (“I was in Paris when George painted th at one. It was the year I finally left my sire’s household and I was looking f or someone I could spons or to g a in entrance in to a cert a in sal on...”) or
-some reas on esoteric beyond hum an understanding? there’s certainly not hing wrong with choosing a city’s art museum as you r core Elysium. After all, it has a variety of exhibits to please the eye, plenty of space f or intriguing with or avoiding others, and a central locati on —all vital elements to a proper Elysium. how ever, picking the art museum because you think it’s expected, and not f or the merits th at the particular place holds, shortchanges you r story and you r city. So if you r central Elysium is to be located else where, wh at
+some reas on esoteric beyond hum an understanding? there’s certainly not hing wrong with choosing a city’s art museum as your core Elysium. After all, it has a variety of exhibits to please the eye, plenty of space f or intriguing with or avoiding others, and a central locati on —all vital elements to a proper Elysium. how ever, picking the art museum because you think it’s expected, and not f or the merits th at the particular place holds, shortchanges your story and your city. So if your central Elysium is to be located else where, wh at
 sort of place should you pick? An oper a house or academy of music is a superb choice. Most are decorated in a suitably rococo style to appease even the most perfectionistic Toread or; many a museum not chosen as
 
 have sweeping lobbies as well as secluded boxes and numerous back stairwells, all excellent places to conduct vampiric business or to hold court. Furthermore, there's always the prospect of intrigues conducted subtly, through h and gestures, passed not es and urgent whispers while the or chestr a plays madly and
@@ -4666,21 +4666,21 @@ the oper a’s acti on crashes to a climax onstage. Beyond libraries and music h
 Elysium, ranging from exhibits to statuary to suitably or nate decorati on. Art galleries of fer many of the same amenities of museums, but in more intimate surroundings. Europe an cities may have Rom an amphitheaters or other landmarks still in
 functioning conditi on. Manors and castles turned in to museums and left behind By their or igin al residents of ten fit the bill
 — particularly if the city’s Kindred visited those houses centuries earlier and seek comfortable surroundings. The trick when selecting a site f or a central Elysium is to make sure it of fers enough — enough space, enough culture, enough to amuse visitors and enough respect to keep Kindred from ignoringtheplace’sstatus, Justlabelingsomething" Elysium” is no guarantee th at the name will stick — good luck enforcing
-Elysium status f or a comedy club or even f or an experimental the ater th at’s a little too experimental f or the local harpies' taste. Th at being said, you certainly do n’t have to restrict you rself to just one Elysium. If a city has several sites worthy of the title, or the prince simply wants to show of f how
+Elysium status f or a comedy club or even f or an experimental the ater th at’s a little too experimental f or the local harpies' taste. Th at being said, you certainly do n’t have to restrict yourself to just one Elysium. If a city has several sites worthy of the title, or the prince simply wants to show of f how
 cultured and sophisticated he might be, any number of locales c an end up as an Elysium. Wh at matters is th at you know which Elysium is them a in one gather and where the prince receives petitioners. You also
 might want to consider whether the prime Elysium rotates its locati on, or wh at is happening at the other sites on the nights when the central Elysium is dull and quiet. the one where the harpies
 
 Ir C an’ R A IN ALL THE DAMN TIME
 
-While it may seem very moody and gothic to have you r chronicle constantly backlit by jagged f or ks of lightning, it’s not always necessary. If not hing else, the constant r a in would flood out the Nosferatu and produce all sorts of
-interesting rumblings in the city’s power structure. Use symbology like lightning to you r advantage, which is to say sparingly and only at appropriate moments. you r city’s weather and climate c an help you r stories along. Unnatural hot streaks c an make mortal and immortal
+While it may seem very moody and gothic to have your chronicle constantly backlit by jagged f or ks of lightning, it’s not always necessary. If not hing else, the constant r a in would flood out the Nosferatu and produce all sorts of
+interesting rumblings in the city’s power structure. Use symbology like lightning to your advantage, which is to say sparingly and only at appropriate moments. your city’s weather and climate c an help your stories along. Unnatural hot streaks c an make mortal and immortal
 alike irritable and prone to violence. Blizzards and cold snaps c an seal mortals in their homes, leaving slim pickings f or
 Kindred on the streets. Droughts c an lead to fires, and toslow or in adequate responses from city fire departments. Heavy rains and flooding might do unpleasant things to Kindred with subterrane an havens. And a city with clear night skies
 might prove a hazard to stargazing Toread or, who st and, enraptured, staring in awe at the beauty of the heavens. Trt GUIDE TO THE CAMARIL A
 
 FINISHING Touc HesS
 
-Once you have the where and the wh at (not to menti on the why) of you r Elysiums set up, there are A few other questions th at need answering. © Wh at sort of security is there? do es the prince rely on the traditi on of Elysium to protect the site, or are there armed
+Once you have the where and the wh at (not to menti on the why) of your Elysiums set up, there are A few other questions th at need answering. © Wh at sort of security is there? do es the prince rely on the traditi on of Elysium to protect the site, or are there armed
 guards? Wh at about supernatural protections? © Who benefits from having this place as Elysium? Did a vampire suggest this site to His Majesty? If so, wh at was her reward? Wh at about those museums and the aters snubbed — wh at's happening to the m, and who’s suffering as a result? © Wh at c an you do with this place? Is the building
 hosting Elysium big enough f or audiences and mass meetings? Wh at sort of space do es it of fer f or plotting? If there are dangers, wh at are they? © Wh at is the local attitude toward Elysium? do es the prince simply tolerate it as a necessary evil, or do es he embrace the not i on? Wh at about his subordin ates, and wh at
 
@@ -4688,16 +4688,16 @@ ire they will ing to do to push their agendas about the place? QUESTIONS
 OF HISTORICAL IMpORT
 
 It is no understatement to say th at many Kindred dwell exclusively in the past, to the point where they refuse to acknowl edge the veryexistenceof thepresent. History, the n, is of paramount importance to the se creatures, and th at means th at history should
-mattertoyournewly hatched city as well. By establishing you rcity’s history —and the role the local Kindred played in creatingit —you lay the ground work f or the vampiric rivalries and vendettas of the present. with out knowing where you r Kindred have been, you
+mattertoyournewly hatched city as well. By establishing yourcity’s history —and the role the local Kindred played in creatingit —you lay the ground work f or the vampiric rivalries and vendettas of the present. with out knowing where your Kindred have been, you
 
-c an’t get a handle on where they're going. So WH at Happenep? The first step in establishing a city's history in the World of Darkness is to learn the city's real history. (Of course, if you're creating a city from who le cloth, it’s up to you to make up the mortal history as well.) Once you have th at under you r
+c an’t get a handle on where they're going. So WH at Happenep? The first step in establishing a city's history in the World of Darkness is to learn the city's real history. (Of course, if you're creating a city from who le cloth, it’s up to you to make up the mortal history as well.) Once you have th at under your
 belt, you c an start looking f or highlights, incidents of imp or: tance in the city’s story th at look as if they might have been
 “adjusted” by outside influences. Riots, battles, mysterious murder sprees and other violent moments are a gre at place to start, bur there are other options as well. Wh at about not able elections, massive do nations of l and to the city, building
 projects and the like? Just because the Kindred revel in blood do esn’t me an th at all their works are immediately soaked in it. Gaining familiarity with a city's history is n’t the same thing as becoming a world-renowned expert on it. do n’t feel you have to know everything about a city, from the political affiliati on of
 its 14th may or to the names of its turn-of-the-century semipro athleticteams, to have a handle onacity’spast. do n'tworry about not knowing everything. Just make sure you've learned enough th at you c an ground the current events you're creating in some
-sort of historical context. If you r city has a history of gangl and violence, you c an take th at trend and use it to inform wh at you're
+sort of historical context. If your city has a history of gangl and violence, you c an take th at trend and use it to inform wh at you're
 
-Tre Coy By Nie at: Bunoinc you r Semne do ingnow. Perhaps two of the feuding gangsters were Embrace and carry on their deadly rivalry from beyond the grave. Or maybe the course of the fighting took out one Kindred’s entire ghoul
+Tre Coy By Nie at: Bunoinc your Semne do ingnow. Perhaps two of the feuding gangsters were Embrace and carry on their deadly rivalry from beyond the grave. Or maybe the course of the fighting took out one Kindred’s entire ghoul
 support network, leading to her do wnfall. Now, decades later, she’s looking to extract payback from the vampires who supported the killers. the n ag a in, the entire thing may have been sparked By the maneuvering of some Kindred using mortal pawns to under cut the other, and the conflict is simply awaiting the appropriate time to renew itself, In all three cases, wh at has beer
 once given a vampiric twist, now fulfills two functions. It fits nicely in to the city’s supernatural history, and it sets up future plots th at are well-grounded in the “historical” past
 
@@ -4706,7 +4706,7 @@ Darkness has consistently been overstated, both By the vampires the mselves and 
 Vampires, with very few exceptions, c an not alter th at flow of events; they c an merely hope to divert it, to f or estall or trigger events or to ride the crest of the wave to a profitable result. there are simply too many humans with too much historical momen
 tum f or the Kindred to muck about with things will y-nilly
 
-Th at being said, in order to see wh at role vampires have historically played in you r city, you have to figure out how much of th at city’s history they were behind — and why. It do es no good to say th at vampires were behind a particularly
+Th at being said, in order to see wh at role vampires have historically played in your city, you have to figure out how much of th at city’s history they were behind — and why. It do es no good to say th at vampires were behind a particularly
 bloody strike in the 1920s unless you c an figure out why who benefited from the strike and the subsequent brutal strikebreaking? Why would they instigate such events? Wh at did they st and to g a in? Vampires, like anyone else, have
 motivations f or do ing things. It do esn’t matter if those thing are as in significant as choosing a dress or as momentous as instigating an assassin ati on — there has to be a reas on f or so me thing being do ne. Ascribing actions to the Kindred
 with out ascribing motives makes those actions nonsensical
@@ -4714,54 +4714,54 @@ Bear in mind th at the vampire behind the scenes may not have had good or intell
 
 BeHIND CLOSED do or s
 
-You should think beyond the public spaces when creating you r Elysium. there’s more to a museum th an galleries — there are restorati on facilities, storage and warehouse spaces, of fices and more far from the public eye. Similarly, an academy of music of fers rehearsal spaces costume chambers, dressing rooms, ticket of fices and the
-like. Libraries have do cument chambers, microfiche storage rooms, preservati on facilities, closed stacks, rare book collecti on rooms and other places th at are n’t necessarily obvious, but which c an provide a wealth of plot hooks. Once you designate a site Elysium, you might as well get as much out of you r elysium as you c an. Th at means using every available
+You should think beyond the public spaces when creating your Elysium. there’s more to a museum th an galleries — there are restorati on facilities, storage and warehouse spaces, of fices and more far from the public eye. Similarly, an academy of music of fers rehearsal spaces costume chambers, dressing rooms, ticket of fices and the
+like. Libraries have do cument chambers, microfiche storage rooms, preservati on facilities, closed stacks, rare book collecti on rooms and other places th at are n’t necessarily obvious, but which c an provide a wealth of plot hooks. Once you designate a site Elysium, you might as well get as much out of your elysium as you c an. Th at means using every available
 inch of the place, and not ignoring any of it. The GUIDE TO THE CAM A
 
 Wu at have t He Vampires do ne? Though vampires exist at a slower pace th an mortals do, the yre not alvays idle or teonp on’ Over the wennmnes aceven millet yonur ey has evisted; there has beenashadow history of vampiric do ings running parallel to therecord of mortal events. Knowing wh at the hum an beings were do ing f or all
 those years is only half the story; you have to know wh at the
-Kindked wecedotng awell not e th at you r vampiric history should vice simply be a matter of “here’s when the vampires fought, and here’s how they covered it up.” Instead, keep track of who arrived when, and where they came from. Establish Embrace dates f or you r
+Kindked wecedotng awell not e th at your vampiric history should vice simply be a matter of “here’s when the vampires fought, and here’s how they covered it up.” Instead, keep track of who arrived when, and where they came from. Establish Embrace dates f or your
 maj or characters, not to menti on the stories behind their
-Embraces. Which vampires died along the way, how did they die, and wh at happened as a result? of ten it makes sense to establish the vampiric power dynamics of today and the n work backward to see how they got th at way. Just remember th at you r shadow history has to be masked
+Embraces. Which vampires died along the way, how did they die, and wh at happened as a result? of ten it makes sense to establish the vampiric power dynamics of today and the n work backward to see how they got th at way. Just remember th at your shadow history has to be masked
 By thereal one. A hundred years of vampiric warfare might make f or excellent back story, but if it coincides with a century of peace and prosperity in thereal world, the incongruity will ser a in: players’ credulity: WARS
 
 One of the most devastating things th at c an hit a city is the tide of war. As bloody and brutal as warfare has been in thereal world, the influence of supernatural monsters in the World of
-Darkness might even make it worse. Wh at is cert a in, how ever, is th at warfare touches the unliving populati on of a city as well as the living one, and th at ignoring the effect of warfare on you r city’s vampires c an be a serious mistake. Mortal Wars
+Darkness might even make it worse. Wh at is cert a in, how ever, is th at warfare touches the unliving populati on of a city as well as the living one, and th at ignoring the effect of warfare on your city’s vampires c an be a serious mistake. Mortal Wars
 
-Most of the cities on the planet have been involved in some sort of warfare, and the effects of th at sort of acti on on the local Kindred populati on need to be examined carefully. It’s a mistake to worry about which vampires were behind which side. Rather, think about how war affected you r city directly. Was it
+Most of the cities on the planet have been involved in some sort of warfare, and the effects of th at sort of acti on on the local Kindred populati on need to be examined carefully. It’s a mistake to worry about which vampires were behind which side. Rather, think about how war affected your city directly. Was it
 burned to the ground, like Dresden or Moscow? If it was, how much of the vampiric populati on was caught in the firestorm? Did enemy troops occupy it, making it harder f or Kindred to feed, or did total chaos reign? How about thereconstructi on of
 
 night so fold
 
 While cities in the Western Hemisphere are younger th an the Camarill a, much of therest of the world boasts metropoli th at predate the sect by centuries or millenni a. F or places like Athens, Cairo, Jerusalem and so on, thereasons the
-city went do wn the Camarill a path need to be laid out clearly. The vampires who inhabit the se places, many of who m predate the sect as well, also need to establish why they chose the Camarill a. If there was a sectari an struggle in you r city’s past, map it out and decide why things went the way they did. It might even be worth wondering if someone out
-there wants a rematch. the urb an are a afterward — which vampires had a h and in rebuilding the city to their liking? Mortal wars provide a storytelling opportunity to change the course of you r city’s shadow history; take advantage of it if you c an. Immortal Wars
+city went do wn the Camarill a path need to be laid out clearly. The vampires who inhabit the se places, many of who m predate the sect as well, also need to establish why they chose the Camarill a. If there was a sectari an struggle in your city’s past, map it out and decide why things went the way they did. It might even be worth wondering if someone out
+there wants a rematch. the urb an are a afterward — which vampires had a h and in rebuilding the city to their liking? Mortal wars provide a storytelling opportunity to change the course of your city’s shadow history; take advantage of it if you c an. Immortal Wars
 
 Vampires wage war as well, thought not on the direct scale th at mortals do. Even if two of the most powerful vampires in a given city decide to go at it, you're not going to see tens of thousands of Kindred lined up in ranks, waiting f or the order to
 charge. Instead, war between vampires is a more subtle thing, played out by mortal pawns and vampiric catspaws. Gang wars, political upheavals, riots, overthrows of governments and the like all provide excellent c over f or deadly struggles between
-Kindred. The over laying violence serves to mask the more vicious tactics th at each feuding vampire puts in to play. If you decide th at two or more Kindred went to war in you r city’s past, it makes sense to look f or upheaval in the mortal world th at could have provided camouflage f or the deadly
+Kindred. The over laying violence serves to mask the more vicious tactics th at each feuding vampire puts in to play. If you decide th at two or more Kindred went to war in your city’s past, it makes sense to look f or upheaval in the mortal world th at could have provided camouflage f or the deadly
 struggle. If you c an find an instance in which the unruly mortals more or less matched the philosophies of the Kindred you scripted as going at it, so much the better. Otherwise, think about when it makes sense f or there to be immortal comb at in
-you r setting, and pick a moment in history to fit. not e: You may want to wait on this particular aspect of building you r city until after you've filled in the vampiric populati on (see below). WH AT ABOUT TIDBITS? While it’s not necessary to know absolutely everything about you r city’s past to run a good chronicle in it, knowing
-the odd bit of historical trivi a c an certainly serve its purpose. Putting factoids from 10 or 12 centuries past in to the mouths of you r older Kindred serves nicely to establish therealism of their age. Having a vampire stroll on to the scene and announce th at he’s three centuries old stretches credulity —the moment seems staged, and as a result the character do esn’t
+your setting, and pick a moment in history to fit. not e: You may want to wait on this particular aspect of building your city until after you've filled in the vampiric populati on (see below). WH AT ABOUT TIDBITS? While it’s not necessary to know absolutely everything about your city’s past to run a good chronicle in it, knowing
+the odd bit of historical trivi a c an certainly serve its purpose. Putting factoids from 10 or 12 centuries past in to the mouths of your older Kindred serves nicely to establish therealism of their age. Having a vampire stroll on to the scene and announce th at he’s three centuries old stretches credulity —the moment seems staged, and as a result the character do esn’t
 acquire therespect his age should garner him. But having him walk in to Elysium, garbed impeccably in the wardrobe of yesteryear and dropping conversational tidbits about the measures he and a friend had helped institute to control the
 out break of yellow fever among the kine back in the 1790s, he acquires a bit more of the arom a of historicity. In additi on, every city’s history is full of bits of just pl a in old-fashioned weirdness — rains of frogs, the odd political suicide or socialite disappearance, rich eccentrics building strange houses and the like—th at c an fit nicely in to acampaign
 as evidence of vampiric maneuverings gone awry. The r a in of frogsc an be laid at the feet of an incompetent local Tremere, the disappearances and suicides might be the evidence of anything from abuses of do min ate to c over-ups f or Embraces and so on. Also, remember this: Just because a vampire might have
-influenced an event do esn’t me an th at things turned out the way the Kindred wanted. Vampires screw up, too, and sometimes to absolutely spectacular effect. Tre Cay By Ni@st: Buoinc you r SemnG
+influenced an event do esn’t me an th at things turned out the way the Kindred wanted. Vampires screw up, too, and sometimes to absolutely spectacular effect. Tre Cay By Ni@st: Buoinc your SemnG
 
 QUESTIONS OF
 Po OpuLATI ON
 
-Nocity is suitable f or a vampire game with out a populati on of vampires. As detailed as you r history might be, as fascin ating as you r setting is, with out a suitable flock of living dead in place to provide all ies, enemies, informants and other bodies f or you r
-players to interact with, you r city is n’t complete. You need to know who lives in you r city, who visits it, where theresidents are likely to be found and where they st and on a who le host of is sues. Otherwise, you r detailed cityscape is simply so much
-gorgeous scenery. WHO Lives there? The first thing you need to do in creating you r city’s populati on is to establish how many vampires the city actually supports. A good rule of thumb is one Kindred per 100,000 mortals, and populati on statistics are generally pretty easy to
-find. not e th at this number c an be adjusted up or do wn, depending on the feel you want to establish in you r setting. If you decide th at you r city should have a wide-open, sparse feel to it, drop the number of Kindred. On the other h and, if you’re goingforafeverish, overcrowded ambiance, increase the vampiric
-populati on. Just be careful not to increase it too much, or else be prepared f or an in-play culling. Once you know how many vampires are in you rcity, think about the cl an break down. As you r city is Camarill a, the six m a in clans should easily predomin ate, with a few straggling
+Nocity is suitable f or a vampire game with out a populati on of vampires. As detailed as your history might be, as fascin ating as your setting is, with out a suitable flock of living dead in place to provide all ies, enemies, informants and other bodies f or your
+players to interact with, your city is n’t complete. You need to know who lives in your city, who visits it, where theresidents are likely to be found and where they st and on a who le host of is sues. Otherwise, your detailed cityscape is simply so much
+gorgeous scenery. WHO Lives there? The first thing you need to do in creating your city’s populati on is to establish how many vampires the city actually supports. A good rule of thumb is one Kindred per 100,000 mortals, and populati on statistics are generally pretty easy to
+find. not e th at this number c an be adjusted up or do wn, depending on the feel you want to establish in your setting. If you decide th at your city should have a wide-open, sparse feel to it, drop the number of Kindred. On the other h and, if you’re goingforafeverish, overcrowded ambiance, increase the vampiric
+populati on. Just be careful not to increase it too much, or else be prepared f or an in-play culling. Once you know how many vampires are in yourcity, think about the cl an break down. As your city is Camarill a, the six m a in clans should easily predomin ate, with a few straggling
 Gangrel as well. M in or clans, blood lines, Sabb at invaders and so on should make up a tiny fracti on of the Kindred populati on. THe DRINCE AND do pULATI ON
 
-In large part, you r city’s cl an break down is determined by wh at cl an the prince is. As the prince alone has the right of unlimited creati on, it only makes sense f or her to reinforce her positi on by Embracing enough progeny to protect herself
+In large part, your city’s cl an break down is determined by wh at cl an the prince is. As the prince alone has the right of unlimited creati on, it only makes sense f or her to reinforce her positi on by Embracing enough progeny to protect herself
 properly. Furthermore, the right of creati on makes an excellent fav or to bestow on those to who m the prince owes boons; odds are th at many Kindred thus gifted are from the prince's cl an. WHo Mane WHo? After you get a rough break down of numbers in place, it’s time to think about lineages. This step is more important
-th an one might think. While the Toread or might have five members in you r fictional city, how exactly those five are related c an make a tremendous difference in the cl an’s power. A cl an comprised of one elder with four progeny certainly presents a different face to the city th an do es a “family” of five
-Toread or of successive generati on. Mapping out how the vampires of a single cl an are related, if indeed they are, also helps you establish therelative power of the various clans. not e: At this point in the process, you should probably be giving at least prelimin ary names to you r Kindred. This
+th an one might think. While the Toread or might have five members in your fictional city, how exactly those five are related c an make a tremendous difference in the cl an’s power. A cl an comprised of one elder with four progeny certainly presents a different face to the city th an do es a “family” of five
+Toread or of successive generati on. Mapping out how the vampires of a single cl an are related, if indeed they are, also helps you establish therelative power of the various clans. not e: At this point in the process, you should probably be giving at least prelimin ary names to your Kindred. This
 
 serves as a tremendous aid in keeping the tangled web of vampiric relationships straight. Si ReS AND CHILDER
 
@@ -4769,87 +4769,87 @@ As important as knowing who spawned who m is knowing how the parties relate afte
 blood bonds, voluntary and otherwise, and their effects on childer’s affecti on. (Some of those bonds might be fragile or broken, which is always good to know.) finally, it's worth thinking about siblings in the blood — multiple childer of the
 same sire — and any rivalries th at might exist there. THe UNWANTED
 
-Bear in mind th at not every childe is acknowledged. Caitiff aren't part of anyone’s equati on, but they do need to be taken in to account when you're populating you r city. How many
+Bear in mind th at not every childe is acknowledged. Caitiff aren't part of anyone’s equati on, but they do need to be taken in to account when you're populating your city. How many
 Caitiff there are, who created the m, and how likely it is th at the act will be traced back are all questions to ponder. A Caitiff’s quest f or her parentage c an make f or an interesting plot thread, especially if the trail leads back to the corridors of Elysium, Remember, the creati on of a Caitiff is a violati on of the
-Traditions and is the or etically punishable by death. Building th at sort of ticking time bomb in to you r city’s foundations gives you so me thing earthshaking to spring on you r players later on. THe Lessers
+Traditions and is the or etically punishable by death. Building th at sort of ticking time bomb in to your city’s foundations gives you so me thing earthshaking to spring on your players later on. THe Lessers
 
 Vampires are n’t the only ones intimately wound in the city’s Camarill a web. there are ghouls to consider as well. While a ghoul is n’t necessarily as important a part of the city as one of the Kindred (particularly if he’s part of a particular vampire’s large stable), it make sense to know where the
-ghoul numbers stack up in you r city as well. The more ghouls acl an has, the longer its reach in the daylight hours, the more eyes it has in place in the city and the more soldiers it c an call up on in times of crisis. If there are particularly prominent ghouls (police of fi
-ers, reporters, politicians, etc.) in you r city, it of ten makes sense to figure out who m they're beholden to. Mapping the web of favors and all egiances do wn to the mortal — or mostly mortal — level goes a long way toward figuring out who's
-inclined to help you r players’ characters and who is n’t. THe Di is LOYAL Opposit I on
+ghoul numbers stack up in your city as well. The more ghouls acl an has, the longer its reach in the daylight hours, the more eyes it has in place in the city and the more soldiers it c an call up on in times of crisis. If there are particularly prominent ghouls (police of fi
+ers, reporters, politicians, etc.) in your city, it of ten makes sense to figure out who m they're beholden to. Mapping the web of favors and all egiances do wn to the mortal — or mostly mortal — level goes a long way toward figuring out who's
+inclined to help your players’ characters and who is n’t. THe Di is LOYAL Opposit I on
 
-After the basic framework of the city’s Camarill a populati on is established, the n you c an start thinking about who do esn’t fit in. Th at designati on includes anarchs, members of the unaffiliated clans like the Giovanni, and Sabb at packs and infiltrators. Needless to say, you d on't want to stock up too heavily on any of the se, otherwise you r camarilla city abruptly ceases to be Camarill a. If you r city has an anarch populati on, make a not e of how
-many of the anarchs are home grown (and who their sires are) and how many are imported rabble-rousers; a blood hunt following an anarch from his home city on to you r prince’s turf c an make f or an interestingstory. The independents’ connec The GUIDE TO THE CAMARILL A
+After the basic framework of the city’s Camarill a populati on is established, the n you c an start thinking about who do esn’t fit in. Th at designati on includes anarchs, members of the unaffiliated clans like the Giovanni, and Sabb at packs and infiltrators. Needless to say, you d on't want to stock up too heavily on any of the se, otherwise your camarilla city abruptly ceases to be Camarill a. If your city has an anarch populati on, make a not e of how
+many of the anarchs are home grown (and who their sires are) and how many are imported rabble-rousers; a blood hunt following an anarch from his home city on to your prince’s turf c an make f or an interestingstory. The independents’ connec The GUIDE TO THE CAMARILL A
 
 tions and targets in the city need to be delineated; knowing which Kindred the lone Setite is dealing with and which ones he’s got in his pocket is an important difference. As f or the
 Sabb at, knowing where it’s holed up, wh at it’s after and who m it’s targeted or subverted already sets up Sabb at-related plotlines do wn the road
 
 TRANSIENTS
 
-If you r game is set in a small city, you r players’ coterie might well be 50% of the vampiric populati on. this c an make f or short-lived chronicles, with the coterie ganging up on therest of the city’s Kindred and taking them out one by one. A possible soluti on lies in bringing in transients. Think
+If your game is set in a small city, your players’ coterie might well be 50% of the vampiric populati on. this c an make f or short-lived chronicles, with the coterie ganging up on therest of the city’s Kindred and taking them out one by one. A possible soluti on lies in bringing in transients. Think
 about which vampiresare frequent, infrequent or even vaguely regular visitors. A pack of roving Gangrel, an arch on who has acenturies-old romantic entanglement with a member of the primogen council or a rabble-rousing anarch who thinks the
-city's an easy mark c an all beef up you r vampiric numbers temporarily with out overstuffing the city
+city's an easy mark c an all beef up your vampiric numbers temporarily with out overstuffing the city
 
 Jos DESCRIPTIONS
 
-Since you r city is held By the Camarill a, it should have a prince, sheriff, primogen, harpies and so on. Establishing which clans and which characters fill those roles is imperative. The entire vampiric populati on of the city takes its cues, positive or negative, from the prince. Start defining the power structure at the top, and therest flows do wnhill from there. Wuo’s THe PRINCE? Before you fill out therest of the Camarill a hierarchy, you need to define and establish you r prince. Who is she? How old is she? Wh at is her cl an, and is this her first time
+Since your city is held By the Camarill a, it should have a prince, sheriff, primogen, harpies and so on. Establishing which clans and which characters fill those roles is imperative. The entire vampiric populati on of the city takes its cues, positive or negative, from the prince. Start defining the power structure at the top, and therest flows do wnhill from there. Wuo’s THe PRINCE? Before you fill out therest of the Camarill a hierarchy, you need to define and establish your prince. Who is she? How old is she? Wh at is her cl an, and is this her first time
 holding a city? If not, why did she leave her last post — and who pushed her out of it? If so, how did she climb to power, and who's plotting vengeance as a result? THe WEIRD ONES
 
-It c an be tempting to tre at you r city like a salad bar, taking one vampire from each cl an or blood line. One of each c an't hurt, right? Wrong. You only have so much space f or vampires In this city, and By the time you finish including all of them in or and extremely rare lineages, you w on’t have room
-f or the Brujah, Ventrue, Toread or and others who should be making up the me at of you r story. In additi on, one of the defining characteristics of the Gargoyles, Lasombr a antitribu, etc. is th at they are extremely rare. Having one
-in a city is enough toexcite comment and cause speculati on; having several in place f or anything short of a conclave is beyond the bounds of coincidence. It’s wiser and easier to stick to the basics, seasoning lightly with one or pethaps two of the rarities. Otherwise, you run the risk of having the side show become them a in event, and having you r plot crowded right of f the stage. The Cry By Ni a: Buoinc you r
+It c an be tempting to tre at your city like a salad bar, taking one vampire from each cl an or blood line. One of each c an't hurt, right? Wrong. You only have so much space f or vampires In this city, and By the time you finish including all of them in or and extremely rare lineages, you w on’t have room
+f or the Brujah, Ventrue, Toread or and others who should be making up the me at of your story. In additi on, one of the defining characteristics of the Gargoyles, Lasombr a antitribu, etc. is th at they are extremely rare. Having one
+in a city is enough toexcite comment and cause speculati on; having several in place f or anything short of a conclave is beyond the bounds of coincidence. It’s wiser and easier to stick to the basics, seasoning lightly with one or pethaps two of the rarities. Otherwise, yourun the risk of having the side show become them a in event, and having your plot crowded right of f the stage. The Cry By Ni a: Buoinc your
 
 Answering the above questions gives you a good ide a of who the prince is, but wh at remains to be defined is her relationship with her city. Is she strict in enforcing her laws, and has she added any legislati on to the basic Traditions? How harsh is she on lawbreakers, and how likely is she to call a blood hunt? Which clans beside her own do es she fav or, and
-which do es she frown up on? Wh at are her solutions to the so called anarch problem? Caitiff? The Sabb at? Lupines? do es she trust her seneschal, the primogen or any of the other of ficers of the city? Map out the answers to the se questions, and you draw you rself a political map of you r city
+which do es she frown up on? Wh at are her solutions to the so called anarch problem? Caitiff? The Sabb at? Lupines? do es she trust her seneschal, the primogen or any of the other of ficers of the city? Map out the answers to the se questions, and you draw yourself a political map of your city
 
 WHo Are THE DRIMOGEN Counci? Few princes have absolute power in the strictest sense of the term. Mostrule in conjuncti on with, ifnot on the sufferance of, the city’s primogen. the or etically the primogen council is the city's council of elders, a gathering of the oldest and wisest
 representatives of che clans, To no one’ssurprise, trarély works out th at way. Politics and jealousy make f or compromise c an di dates, and a strong prince c an ramrod his c an did ates through if there is n’t anyone else in the city strong enough to stop him
 
-Ideally, you r primogen should comprise the elders of the various clans. If you want to deviate from this basic setup, think about how and why you want to change things. If you primogen is going to consist of five Brujah and a Malkavi an, you need to have a good reas on f or setting things up th at way you r city has to functi on night to night, after all
+Ideally, your primogen should comprise the elders of the various clans. If you want to deviate from this basic setup, think about how and why you want to change things. If you primogen is going to consist of five Brujah and a Malkavi an, you need to have a good reas on f or setting things up th at way your city has to functi on night to night, after all
 
 PRIMOGEN AND PRINCE
 
-An important thing to watch is therelationship between you r prince and his city’s primogen. In some cities, it is the primogen who select the prince; in others mattersrun precisely opposite. Establish how the balance of power tilts. A city with
+An important thing to watch is therelationship between your prince and his city’s primogen. In some cities, it is the primogen who select the prince; in others mattersrun precisely opposite. Establish how the balance of power tilts. A city with
 1 primogen council full of yes-vampires who belong to the prince’scl an runs a little differently th an do es one where in the prince is beholden to his “advisors” f or everything he has. The next order of business is to define how much power the primogen council has, and wh at it’s actually do ing as
 opposed to wh at it’s supposed to be do ing. Detailing the primogens’ subversions (or lack there of) matters just as much as detailing wh at the council is supposed to be do ing. More th an one prince has been surprised by a revolt fomented by his
 
 “advisory” committee
 
-WH AT Anout t He OTHER TITLE there are titles beyond prince and primogen in acity. While it’s important to know at least the or etically who the seneschal is, etc,, the priority lies with establishing those Kindred who are most likely to interact with you r player's coterie. In most cases, th at means the sheriff, the keeper of Elysium, the harpies and
-possibly the scourge, assuming you r city has one. As the charactersare likely going to interact with any and all of the se Kindred, those characters need to be drawn up in detail. they're going to
+WH AT Anout t He OTHER TITLE there are titles beyond prince and primogen in acity. While it’s important to know at least the or etically who the seneschal is, etc,, the priority lies with establishing those Kindred who are most likely to interact with your player's coterie. In most cases, th at means the sheriff, the keeper of Elysium, the harpies and
+possibly the scourge, assuming your city has one. As the charactersare likely going to interact with any and all of the se Kindred, those characters need to be drawn up in detail. they're going to
 
 (0 THE CAMARILL A
 
 Economy
-If you establish you r web of character relationships and find th at there are two or more th at essentially have the same all ies, enemies and functions, it’s worth you r while to combine the two. You only have so many Kindred to play with, and redundancy wastes one of you r most valuable resources. be on stage a gre at deal in you r campaign, which means th at they'd better be ready f or the spotlight. The politics of the se lesser
+If you establish your web of character relationships and find th at there are two or more th at essentially have the same all ies, enemies and functions, it’s worth your while to combine the two. You only have so many Kindred to play with, and redundancy wastes one of your most valuable resources. be on stage a gre at deal in your campaign, which means th at they'd better be ready f or the spotlight. The politics of the se lesser
 figures do n’t matter as much as their personalities do. they do n’t make policy so muchas they enforce it, and as a result figuring out who they are and how they're likely to react to the characters is of paramount importance. Tue UNTITLED
 
-The ruck and run of the Kindred populati on of you r city is left with out titles, which is as it should be. how ever, th at do esn’t me an th at those left out in the cold are n’t thinking about climbing the ladder of power. You should think about which of
-you r Kindred are actively ambitious (and who se positions they're targeting) and which ones are content where they are. Cl an ties may play in to this as well; the Tremere elder may frown on a younger cl an member's desire to be sheriff, f or example, but may
-encourage his protégé to take the role of scourge. Po. rtics: WHo Hates who M? Once you have a rough ide a of who the vampires in you r city are, the last step is to figure out how they all fit to get her. Establishing friendships, all iances, patronages and favors owed primes future plots based on those vampires’ interactions. In a sense, wh at this part of city creati on boils do wn to is writing the personal histories and ambitions of you r horde of
+The ruck and run of the Kindred populati on of your city is left with out titles, which is as it should be. how ever, th at do esn’t me an th at those left out in the cold are n’t thinking about climbing the ladder of power. You should think about which of
+your Kindred are actively ambitious (and who se positions they're targeting) and which ones are content where they are. Cl an ties may play in to this as well; the Tremere elder may frown on a younger cl an member's desire to be sheriff, f or example, but may
+encourage his protégé to take the role of scourge. Po. rtics: WHo Hates who M? Once you have a rough ide a of who the vampires in your city are, the last step is to figure out how they all fit to get her. Establishing friendships, all iances, patronages and favors owed primes future plots based on those vampires’ interactions. In a sense, wh at this part of city creati on boils do wn to is writing the personal histories and ambitions of your horde of
 characters. The trick is to make sure th at if you've got 30
-Kindred in you r city, you do n’t have 30 free-floating individu Make. agoal of havingeach and every Kindred link to at least a good reas on f or a character to have only als. three others. If there's one connecti on (say, an illegitimate childe who se existence is
+Kindred in your city, you do n’t have 30 free-floating individu Make. agoal of havingeach and every Kindred link to at least a good reas on f or a character to have only als. three others. If there's one connecti on (say, an illegitimate childe who se existence is
 known only to his sire), th at’s fine, but a character who only seems to work well with one or two other Kindred do esn’t lend himself to enough stories f or you to keep him around. Not all of therelationships you establish between characters should be
 amicable (conflict is every Storyteller’s friend), but they should be real, pass i on ate and vital. Vampires are creatures out of time. their hatreds and rivalries are nurtured over the centuries with each insult and dig, every setback and petty triumph. Th at intensity of relationship has to come through when you map out
-how you r Kindred feel about one another. Mild dislikes and vague affecti on have no place in the web of vampiric relationships; such delicate emotions are reserved f or mortals. Some of the questions you'll probably want to answer at this point are: Who supports the prince? Who do esn’t, and who's will ing to do anything about it? Who’s been talking to the Sabb at, or other outsiders? Conversely, who’s loyal, and to who m? Who owes other Kindred favors? The pecking order of
+how your Kindred feel about one another. Mild dislikes and vague affecti on have no place in the web of vampiric relationships; such delicate emotions are reserved f or mortals. Some of the questions you'll probably want to answer at this point are: Who supports the prince? Who do esn’t, and who's will ing to do anything about it? Who’s been talking to the Sabb at, or other outsiders? Conversely, who’s loyal, and to who m? Who owes other Kindred favors? The pecking order of
 prestati on is important in determining who c an le an on who m. Who loves who m? Love blossoms even among the unliving, but a spurned suit or c an take a terrible vengeance. who se politics jibe with who se? Who are the anarchs? The traditionalists? The wild cards? Conversely, who’s will ing to kill to but tress his positi on? Who are the diablerists, and who died in th at fashi on? Is anyone looking f or vengeance, or even those tell-tale streaks in the aur a? Who is ambitious, and who’s a target f or th at ambiti on? Wh at Kindred are seeking to climb in the power structure, and wh at are they will ing to do to get there? the se simple questions, and the questions th at their answers raise, should help you establish a solid framework f or
-you r city’s Camarill a politics. WHERE Do You
-Go From Here? By this point, you should know where you r city is, wh at it’s like, wh at it looks like, wh at's important in it, wh at happened in there, wh at really happened there, who lives there, wh at they control, who m they like and dislike and
-wh at they're trying to do about it. While creating every detail of a ficti on (or even fictionalized) city is the work of many lifetimes, by this point you've do ne enough to have at least a work able setting f or you r chronicle. You've do ne you r preparati on. Now it’s time to use the conflicts you've set up and the
+your city’s Camarill a politics. WHERE Do You
+Go From Here? By this point, you should know where your city is, wh at it’s like, wh at it looks like, wh at's important in it, wh at happened in there, wh at really happened there, who lives there, wh at they control, who m they like and dislike and
+wh at they're trying to do about it. While creating every detail of a ficti on (or even fictionalized) city is the work of many lifetimes, by this point you've do ne enough to have at least a work able setting f or your chronicle. You've do ne your preparati on. Now it’s time to use the conflicts you've set up and the
 history you've established to start telling stories. TEMPLATES
 
-Below are statistics and very basic writeups f or archetypal characters who are likely to be found in a Camarill a city. The statistics, descriptions and other traits are only a starting point, and you should feel free to modify them as you wish when populating you r chronicle setting. Bear in mind, how ever, th at so-called “st at creep” is one of the most insidious enemies a chronicle c an have, and th at the characters presented here are designed with their stats as is f or a reas on. CHARTS
+Below are statistics and very basic writeups f or archetypal characters who are likely to be found in a Camarill a city. The statistics, descriptions and other traits are only a starting point, and you should feel free to modify them as you wish when populating your chronicle setting. Bear in mind, how ever, th at so-called “st at creep” is one of the most insidious enemies a chronicle c an have, and th at the characters presented here are designed with their stats as is f or a reas on. CHARTS
 
-A tremendous help in clarifying you r vampires’ tangled relationships is the so-called coterie chart. First, space out you r maj or characters’ names on a sheet of paper. the n draw arrows between those vampires who interact. finally, write
-descriptives along those arrows, establishing how each half of the equati on feelsabout the other. You'd beamazed athow easy this sort of quick reference makes things. Tre Cay By Nigsr: Bunoinc you r Sermnc
+A tremendous help in clarifying your vampires’ tangled relationships is the so-called coterie chart. First, space out your maj or characters’ names on a sheet of paper. the n draw arrows between those vampires who interact. finally, write
+descriptives along those arrows, establishing how each half of the equati on feelsabout the other. You'd beamazed athow easy this sort of quick reference makes things. Tre Cay By Nigsr: Bunoinc your Sermnc
 
 Street CAITIFF
 
 back ground: Seduced and abandoned, a street-level
 Caitiff is a vampire by default. He’s spent his brief time as a vampire ducking from the sheriff, the scourge and anyone else he imagines is after him. Desperate f or an all y but afraid to trust anyone, he sleeps where he c an, feeds when he c an and
 waits f or the inevitable end. Image: Street chic is the best a Caitiff c an hope f or — shirts, jeans, jacket and boots scrounged from a thrift store — or worse. A haggard face and haunted eyes are the hallmarks of a lone Caitiff on the streets, and odds are he’s got a visit
-air of nervousness about him. Roleplaying Hints: Trust noone, and keep an eye on the exits at all times. The who le world is out to get you, and you r only hope of survival is to keep running. You desperately want to find so me place to belong, but no one will have you. So
-instead you run. Cl an: Caitiff
+air of nervousness about him. Roleplaying Hints: Trust noone, and keep an eye on the exits at all times. The who le world is out to get you, and your only hope of survival is to keep running. You desperately want to find so me place to belong, but no one will have you. So
+instead yourun. Cl an: Caitiff
 
 Nature: Rebel
 
@@ -4880,8 +4880,8 @@ back ground: Embraced with out warning and thrust in to the Camarill a against h
 who m she c an take do wn her hated sire and all he stands f or
 
 Image: Radiating tough from head to toe, an anarch’s every glance is a challenge. She wears wh at ever looks good and protects her well — biker jackets are a particular favorite, as are motorcycle or comb at boots. An anarch always goes armed — a nice shiny pair of.45s, worn visibly, c an prevent
-a lot of arguments. Roleplaying Hints: Any where you go is you r property
-Defend you r turf with everything you've to spit in authority's eye while you do so. You do n’t have a got, and make sure cause, you've got an agend a, and the difference is important
+a lot of arguments. Roleplaying Hints: Any where you go is your property
+Defend your turf with everything you've to spit in authority's eye while you do so. You do n’t have a got, and make sure cause, you've got an agend a, and the difference is important
 You w on't die f or wh at you believe in; you're more interested in finding a way to survive so you c an w in. Cl an: Brujah
 
 Nature: Rebel
@@ -4921,8 +4921,8 @@ Image: The neonate dresses much as he did in life; conservative suit, power tie,
 
 miles beyond wh at he'd conceive of trying. A
 
-Roleplaying Hints: Lord it over the humans, but cower before you r sire and his peers. You do n’t know much, but you know you r place on the food ch a in — and it's near the bottom. Search f or all ies among vampires of
-you r and generati on, but look over you r should er f or you r sire’s approval all the while. Flinch from garlic, crosses and the but once you running water rest disc over th at the legends are only stories, you run the risk
+Roleplaying Hints: Lord it over the humans, but cower before your sire and his peers. You do n’t know much, but you know your place on the food ch a in — and it's near the bottom. Search f or all ies among vampires of
+your and generati on, but look over your should er f or your sire’s approval all the while. Flinch from garlic, crosses and the but once yourunning water rest disc over th at the legends are only stories, yourun the risk
 of getting cocky
 
 Cl an: Ventrue
@@ -4959,11 +4959,11 @@ Image: Dressed in the style of decades loi the ancill a looks as if he has stepp
 
 Frank Capr a film. In appearance he looks to be a sad
 
-Tre Coy By Ni a at: Buwo in you r Sem in little m an, with a sad little smile and soft hands th at v't look like they’ve ever seen a day’s hard work. Only the ancill a’s eyes cold and hard and predatory
+Tre Coy By Ni a at: Buwo in your Sem in little m an, with a sad little smile and soft hands th at v't look like they’ve ever seen a day’s hard work. Only the ancill a’s eyes cold and hard and predatory
 reveal his true nature
 
-Roleplaying Hints: Agree with those of higher stati on while exercising you r authority over those beneath you. Watch f or rising stars to be friend, and be careful to disassoc ate you rself from those who are out of fav or. Keep you r eye on you r ultimate goal; every move and all iance you make is
-merely a step on the road to power. In the end, everyone and everything is expendable to you r ambiti on. Cl an: Tremere
+Roleplaying Hints: Agree with those of higher stati on while exercising your authority over those beneath you. Watch f or rising stars to be friend, and be careful to disassoc ate yourself from those who are out of fav or. Keep your eye on your ultimate goal; every move and all iance you make is
+merely a step on the road to power. In the end, everyone and everything is expendable to your ambiti on. Cl an: Tremere
 Nature: Conniver
 Deme an or: Architect nerati on: 10th
 
@@ -5000,7 +5000,7 @@ Image: Average f or a Nosferatu, she wears volumi nous clothes and a floppy h at
 A pity the s a garb is practically unidentifiable c an’t said f or her face wrinkled and covered wit bald visage is so me thing out of a nig f or tunately
 most of the time the Nosferatu wears visages other th her own — Obfuscate has its cosmetic uses as well tactical ones
 
-Roleplaying Hints: do n’t come out of the shadows unless you have a deal pending. Trade informati on f or favors or more info, but always keep the balance of trade decidedly in you r fav or. Use you r appearance as a weap on, to shock and
+Roleplaying Hints: do n’t come out of the shadows unless you have a deal pending. Trade informati on f or favors or more info, but always keep the balance of trade decidedly in your fav or. Use your appearance as a weap on, to shock and
 confuse vampires who c an’t see past a pers on's looks. Keep a very small soft spot f or the underdog — you know wh at it’s like to be hated and kicked do wn. Cl an: Nosferatu
 
 Nature: Loner
@@ -5069,7 +5069,7 @@ back ground: Service, loyal service, is all th at the ghoul knows now. By day he
 to make his regnant happy. Anything
 
 Image: A slightly disheveled businessm an, the loyal ghoul is vaguely attractive, in a fleshy, middle-aged sort of way. His suit is A few years out of fashi on, his glasses a bit thick and his hairline receding, but he radiates an air of competence. He carries a pistol, which he of course has no ide a of
-how to use. Roleplaying Hints: You know you r chosen field very, very well, and have no trouble slapping do wn anyone who questions you r expertise. Well, anyone except you r regnant, the one who se blood is so very, very sweet. F or him you'll kill with out hesitati on, steal with out a second thought and lie in a heartbe at. Someday, if you're very, very good, he
+how to use. Roleplaying Hints: You know your chosen field very, very well, and have no trouble slapping do wn anyone who questions your expertise. Well, anyone except your regnant, the one who se blood is so very, very sweet. F or him you'll kill with out hesitati on, steal with out a second thought and lie in a heartbe at. Someday, if you're very, very good, he
 might make you a vampire as well, but in the me an time you're content to do wh at you c an to make him happy and protect him. Cl an: N/A
 
 Nature: Masochist
@@ -5084,7 +5084,7 @@ Dexterity 3, Stamin a 1
 
 Social: Charism a 2, Manipulati on 4, Appearance 2
 
-Tre Coy By Nicet: but oinc you r Semng
+Tre Coy By Nicet: but oinc your Semng
 
 Mental: Percepti on 3, Intelligence 3, Wits 3
 Talents: Alertness 2, Intimidati on 3, Leadership 3
@@ -5108,7 +5108,7 @@ th at’s f or ce. Image: The sheriff is a looming, hulking presence — six and
 Elysium or audiences with the prince, the sheriff's scarred and ugly mug is more at home in a Kevlar-and-denim ensemble
 A shotgun is his weap on of choice; it’s got more stopping power th an any mere machine gun, and it’s gre at f or Kindred crowd control
 
-Roleplaying Hints: Play stupid and let the anarchs get overconfident. there’s no sense in showing them th at you've outsmarted them until it’s time f or the game to end. Insults roll right of f you; you do you r job and you do it well, and the
+Roleplaying Hints: Play stupid and let the anarchs get overconfident. there’s no sense in showing them th at you've outsmarted them until it’s time f or the game to end. Insults roll right of f you; you do your job and you do it well, and the
 whining from those vampiric brats is pro of. Uphold the city's law to the letter, and add A few codicils th at you think are worth while
 
 Cl an: Brujah
@@ -5145,7 +5145,7 @@ TREMERE INTERROG AT OR
 
 back ground: The Tremere interrog at or serves both her cl an and her city, though the f or mer takes prece Through a combin ati on of dence at all times. thaumaturgical expertise and a detailed understanding of p a in and its applications, she makes sure th at those
 who m fate delivers to her unveil all of their secrets. Not everyone has access to her talents, but those who do find her invaluable. Image: Thoroughly modern in her appearance, the interrog at or prefers severe business suits, and lab coats f or
-when she gets do wn to work. Her face is all angles and edges, giving her a raptorlike visage. Her fingers, on the other h and, are slender and graceful, and she always wears black leather gloves to protect the m. Roleplaying Hints: You have many interests and talents, but you r work supersedes them all. In conversati on, you're the one who asks the questions — long-winded stories bore you, and you prefer to get straight to the point. You're hard to like, but easy to work with, at least from the outside. you r patients probably find you less charming
+when she gets do wn to work. Her face is all angles and edges, giving her a raptorlike visage. Her fingers, on the other h and, are slender and graceful, and she always wears black leather gloves to protect the m. Roleplaying Hints: You have many interests and talents, but your work supersedes them all. In conversati on, you're the one who asks the questions — long-winded stories bore you, and you prefer to get straight to the point. You're hard to like, but easy to work with, at least from the outside. your patients probably find you less charming
 Cl an: Tremere
 Nature: Autocr at
 Deme an or: Perfectionist
@@ -5192,9 +5192,9 @@ Image: A visi on of supernatural and predatory loveli ness, the harpy always mak
 
 Gowns from centuries past, exquisitely tailored to play up her beauty, are standard apparel f or her when she wants tobe seen and she is never seen when she do es not want to be
 
-Roleplaying Hints: No one is you r equal. You are jury and social executioner, and anyone who dares or insult you has committed an unpardonable ond well to flattery if it’s do ne we but
+Roleplaying Hints: No one is your equal. You are jury and social executioner, and anyone who dares or insult you has committed an unpardonable ond well to flattery if it’s do ne we but
 
-never, ever let you rself grow predictable. You hold thereputati on of everyone in the city in you r hands, and you know it
+never, ever let yourself grow predictable. You hold thereputati on of everyone in the city in your hands, and you know it
 
 Cl an: Toread or
 Nature: Gallant
@@ -5226,7 +5226,7 @@ carefully gathering the artifacts of culture and inspirati on f or the vampires 
 
 Image: The keeper of Elysium dresses soberly, but in expensive clothing th an c an come from any er a of hum an history, depending on her whim. Her deme an or is sober and reserved, but she sees everything th at goes on in her
 do m a in, and deals harshly with those who would violate
-Elysium’s sanctity. Roleplaying Hints: Elysium is you r garden. Share you r treasures with those who show a genuine interest and feed the frauds to the harpies. The peace and traditi on of Elysium are paramount to you, and you deal harshly with any violators. You c an call on the might of
+Elysium’s sanctity. Roleplaying Hints: Elysium is your garden. Share your treasures with those who show a genuine interest and feed the frauds to the harpies. The peace and traditi on of Elysium are paramount to you, and you deal harshly with any violators. You c an call on the might of
 the entire city to do so, and have resorted to th at tactic q par a on multiple occasions. Cl an: Toread or
 Natur: Deme an or: Pedagogue
 
@@ -5258,7 +5258,7 @@ him — yet. In the me an time, she moves in council to thwart his aims, never c
 
 Imaget The Malkavi an primogen dresses as'aprim and proper wom an of the mid-1800s, modestly garbed and with do wncast countenance. She has always appeared this way, so far as anyone in the city remembers. Perhaps she always will
 
-Roleplaying Hints: You did not achieve you r age or positi on by wandering around in bunnyslippers and pajamas you r madness is a cold and terrifying thing, twining perfectly around you r ambiti on to help you achieve the bloody heights
+Roleplaying Hints: You did not achieve your age or positi on by wandering around in bunnyslippers and pajamas your madness is a cold and terrifying thing, twining perfectly around your ambiti on to help you achieve the bloody heights
 of the primogenship. You are not teady to move openly against the prince, but in the me an while you enjoy not hing more th an thwarting his will. Cl an: Malkavi an
 
 Nature: Fanatic
@@ -5311,7 +5311,7 @@ Generati on: 10th
 
 Physical: Strength 3, Dexterity 3, Stamin a 3
 
-The Cay By Nicet: Buvoinc you r
+The Cay By Nicet: Buvoinc your
 
 Charism a 3, Manipulati on 5, Appearance 2
 Mental: Percepti on 5, Intelligence 4, Wits 4
@@ -5335,8 +5335,8 @@ Prince
 
 back ground: The prince has been a part of the city f or centuries, even though he has only been prince f or a bare handful of decades. He has spent his entire unlife here climbing from the ranks of the swarming neonates, and now
 he holds the entire city in his grip. with in his do m a in, his is the power of life and death, of creati on and destructi on, and he uses th at power as he pleases. Image: The prince cuts a terrifying figure. He prefers h and-tailored suits of the latest fashi on, cut to accentuate
-his looming figure. His hair is cut short in imitati on, perhaps, of the style of his living days, and he rarely smiles. His eyes are a steely but deceptively mild blue, and few c an meet his gaze f or long. Roleplaying Hints: you are the prince. you r word is law
-Brook as little oppositi on as possible. While the primogen and others must be respected, you make the fin al decisions and you make them stick. If anyone argues, you have the opti on of calling the blood hunt — and you never let you r
+his looming figure. His hair is cut short in imitati on, perhaps, of the style of his living days, and he rarely smiles. His eyes are a steely but deceptively mild blue, and few c an meet his gaze f or long. Roleplaying Hints: you are the prince. your word is law
+Brook as little oppositi on as possible. While the primogen and others must be respected, you make the fin al decisions and you make them stick. If anyone argues, you have the opti on of calling the blood hunt — and you never let your
 enemies f or get it
 
 Cl an: Ventrue
@@ -5373,9 +5373,9 @@ ROVING ARCH ON
 back ground: It's been a half-century or more since the roving arch on had a home city. Since the n, she’s been in the employ of a just i car, traveling from city to city to investigate wh at ever her superi or tells her to. Her presence is always
 accompanied by fear, f or an arch on is both a power in herown right and a potential harbinger of a just i car’s fatal attentions. Image: Dressed f or travel, the arch on certainly looks unimpressive. Her sandy-colored hair is cut raggedly short, and her clothing is drab khakis th at have seen too many miles. She carries a single gun, loaded with silver bullets, f or
 safety between the cities, but she never uses it on Kindred
-After all, she do esn’t need to. Rolep! you r missi on is to disc over whether wh at they're hiding ying Hints: Everyone has so me thing to hide actually matters. You have a low bullshit tolerance and a short fuse — you've seen every scam and every ruse before, and they're not going to start working now. If you see a
+After all, she do esn’t need to. Rolep! your missi on is to disc over whether wh at they're hiding ying Hints: Everyone has so me thing to hide actually matters. You have a low bullshit tolerance and a short fuse — you've seen every scam and every ruse before, and they're not going to start working now. If you see a
 
-problem, you are more th an capable of dealing with you rself. Call f or backup only if things are about to go completely to hell; otherwise you're utterly self-reliant. Cl an: Toread or
+problem, you are more th an capable of dealing with yourself. Call f or backup only if things are about to go completely to hell; otherwise you're utterly self-reliant. Cl an: Toread or
 
 Nature: Judge
 
@@ -5421,7 +5421,7 @@ Camarill a’s court of last resort. When the just i car arrives in town, it’s
 Image: The just i car is well over six feet tall and carries the weight of centuries with him. He dresses with the times, but is most comfortable in the tunic and pall a of his breathing days centuries a go. When in public, how ever, the just i car dresses f or
 effect, do min ating any room he is in with his presence
 Rolepl a Hints: Camarill a’s business ying You are all business — the and woe betide anyone who tries to stop you. You have no compunctions about using any and all
-of you r powers (legal, supernatural or physical) to do wh at needs be do ne. You only deal with problems of an earthshattering nature, so wh at ever has drawn you to the city is serious indeed. Cl an: Natur. Aalkavi an
+of your powers (legal, supernatural or physical) to do wh at needs be do ne. You only deal with problems of an earthshattering nature, so wh at ever has drawn you to the city is serious indeed. Cl an: Natur. Aalkavi an
 Jompetit or
 Deme an or: Pedagogue
 Generati on: 6th
@@ -5447,7 +5447,7 @@ None, Camarill a Status 4, Generati on 7, Herd 2, Resources 4
 Thaumaturgical Paths: Backgrounds: all ies Contacts
 
 Virtues: Conscience 4, Self-Control 4, Courage 4
-Humanit will powe: The Coy By Nicer: Buntoinc you r Semmnc
+Humanit will powe: The Coy By Nicer: Buntoinc your Semmnc
 
 We use ideas merely to justify our evil, and speech merely to conceal our ideas
 
@@ -5456,7 +5456,7 @@ Masquerade but the Camarill a? The connecti on seems logical enough, but it’s 
 Camarill a were all there was to Vampire, we would n’t have to worry about th at pesky Sabb at now, would we? AT THE HEART
 OF THINGS there are several core elements to Storytelling: mood, the me, plot and conflict. To story tell a chronicle based around the Camarill a requires integrating those elements with the demands of using a sect th at hides behind a
 Masquerade while pulling the strings of the mortal world there are things th at make the Camarill a unique — the
-Masquerade, the Traditions, the Inner Circle, the justicars and so on — and all of the se c an be used to make you r chronicle unique as well. The trick is to use those tools th at are essentially Camarill a to make you r game essentially
+Masquerade, the Traditions, the Inner Circle, the justicars and so on — and all of the se c an be used to make your chronicle unique as well. The trick is to use those tools th at are essentially Camarill a to make your game essentially
 Camarill a as well
 
 CApT A IN Vampire To therescue! Ashas been stated earlier In this book, the vampires of the Camarill a are most emphatically not nice. they have a vested interest in avoiding who lesale slaughter of it’s a long way from th at
@@ -5468,36 +5468,36 @@ AND ROLLPLAYING there’ lling a game of Vampire th an simply setting up the nex
 
 much more to Storyt
 
-TALES OF IMAGin aTI ON AND MYSTERY: STORYTELLING do come up, they should n’t be the who le game. Every time 10sided plastic polyhedrons hit the table, the illusi on of the story is shattered, and you as a Storyteller must reconstruct you r players’ suspensi on of disbelief all over ag a in. One of Vampire’s
-strengths is its capacity to support chronicles of intrigue and emoti on, and Camarill a-based stories lend the mselves to th at sort of thing especially well. The traditions, customs and builtinconflicts of the Camarill a give you a wide palette of Storytelling tools, and by restricting you rself to using just one, you're
-shortchanging both you r players and you rself. Furthermore, you should recognize th at the most important aspect of Storytelling a Camarill a chronicle is not devoti on to the rules and rolls, but rather making you r game enjoyable. If the coterie comes up with a brilliant pl an tosave the mselves in the face of overwhelming oppositi on, but the
-dice roll falls just short, it might make sense to all ow the characters to succeed in any case. If the characters are ambushed and you roll so well th at the entire coterie would be dropped with out getting of f a single shot in response, it
-might behoove you to fudge the rolls in fav or of you r players so as to make f or a better game. If necessary, you c an always work this sort of deus ex machin a mercy in to you r plot later — perhaps you c an later hint th at the ambushing party was
-under orders not to wipe out the entire coterie, but rather just to put a scare in to them — and thus advance you r chronicle even further. finally, you should think about the very meaning of success and failure in you r chronicle. When a player produces
+TALES OF IMAGin aTI ON AND MYSTERY: STORYTELLING do come up, they should n’t be the who le game. Every time 10sided plastic polyhedrons hit the table, the illusi on of the story is shattered, and you as a Storyteller must reconstruct your players’ suspensi on of disbelief all over ag a in. One of Vampire’s
+strengths is its capacity to support chronicles of intrigue and emoti on, and Camarill a-based stories lend the mselves to th at sort of thing especially well. The traditions, customs and builtinconflicts of the Camarill a give you a wide palette of Storytelling tools, and by restricting yourself to using just one, you're
+shortchanging both your players and yourself. Furthermore, you should recognize th at the most important aspect of Storytelling a Camarill a chronicle is not devoti on to the rules and rolls, but rather making your game enjoyable. If the coterie comes up with a brilliant pl an tosave the mselves in the face of overwhelming oppositi on, but the
+dice roll falls just short, it might make sense to all ow the characters to succeed in any case. If the characters are ambushed and youroll so well th at the entire coterie would be dropped with out getting of f a single shot in response, it
+might behoove you to fudge the rolls in fav or of your players so as to make f or a better game. If necessary, you c an always work this sort of deus ex machin a mercy in to your plot later — perhaps you c an later hint th at the ambushing party was
+under orders not to wipe out the entire coterie, but rather just to put a scare in to them — and thus advance your chronicle even further. finally, you should think about the very meaning of success and failure in your chronicle. When a player produces
 a handful of 3s and 4s on a roll with difficulty 6, it’s easy to say
 “OK, you failed. Next!” Instead, try to make those failures m so me thing. Perhaps the characte: s wel eS ering windows all along the street and covering the are a with broken glass. Maybe the failure was on an attempt to leap from rooftop
 to rooftop, and by failing the character ended up crashing through the window of a top-flo or apartment instead. By ascribing context to failures on rolls of the dice (and successes aswell), you make those rolls a part of the story. By leaving the m
-just as failed rolls, you lose an opportunity to draw you r players even further in to you r story. Moop
+just as failed rolls, you lose an opportunity to draw your players even further in to your story. Moop
 
-The mood of you r game c an best be described as the single emoti on th at best sums up you r chronicle. While any chronicle worth its salt has more th an one mood to it — hot and heavy combatshouldn’tevoke the same emotional response as playing
-politics in Elysium, after all — each story should have an overarching sense to it. Giving you r chronicle an emotional unity helps you be consistent as a Storyteller. If you know the sort of emoti on you're trying to invoke, you c an direct you r plots
-and play you r characters in such a way as to emphasize th at feeling. On the other h and, if you go in to a chronicle with no clear ide a of wh at the underlying mood should be, there’s a good chance th at this lack of directi on will manifest itself in are as of
+The mood of your game c an best be described as the single emoti on th at best sums up your chronicle. While any chronicle worth its salt has more th an one mood to it — hot and heavy combatshouldn’tevoke the same emotional response as playing
+politics in Elysium, after all — each story should have an overarching sense to it. Giving your chronicle an emotional unity helps you be consistent as a Storyteller. If you know the sort of emoti on you're trying to invoke, you c an direct your plots
+and play your characters in such a way as to emphasize th at feeling. On the other h and, if you go in to a chronicle with no clear ide a of wh at the underlying mood should be, there’s a good chance th at this lack of directi on will manifest itself in are as of
 plot, character motivati on and more. While Vampire is a versatile game, the Camarill a by definiti on lends itself better to cert a in sorts of moods th an others. This is a sect built on traditi on and respect, on welldisguised ferocity and obsessi on and contempt. there is a sense of restraint to the Camarill a (at least in front of others), a a will ingness to abide (how ever grudgingly) By the laws laid
 do wn the or etically f or the protecti on of all. with the adopti on of the Path of Humanity By the sect’s vampires, there is a mood of regret or longing —at least among those Kindred young enough to remember wh at it was to be mortal. and there is bitter hatred f or those who would tear do wn the
-Masquerade and destroy the sect. All of the se senses and feelings should be taken in to considerati on when you're working up the basic mood of you r chronicle. WHITILING It do wn
+Masquerade and destroy the sect. All of the se senses and feelings should be taken in to considerati on when you're working up the basic mood of your chronicle. WHITILING It do wn
 
-While you should consider the entire gamut of moods th at the Camarill a c an inspire f or you r game, eventually it’s best to select a single one to serve as the core emoti on of you r chronicle. of ten this decisi on goes h and-in-h and with any
-decisions you make about you r plot. Chronicles with a mood of sadness or longing probably should n’t be comb at-intensive; wistful Kindred moping around firefights have a way of becoming casualties in short order. By the same token, a chronicle centered on hatred might be a bit awkward if the
+While you should consider the entire gamut of moods th at the Camarill a c an inspire f or your game, eventually it’s best to select a single one to serve as the core emoti on of your chronicle. of ten this decisi on goes h and-in-h and with any
+decisions you make about your plot. Chronicles with a mood of sadness or longing probably should n’t be comb at-intensive; wistful Kindred moping around firefights have a way of becoming casualties in short order. By the same token, a chronicle centered on hatred might be a bit awkward if the
 
-al plot is about a vampire’s quest to protect his mortal escendants. It’s certainly possible, with some effort, to reconcile those two elements, but you shouldn't make a habit of making more work f or you rself th an you have to. The primary criteri on in selecting the essential mood of you r
-chronicle is whetherornotyouc an sust a in th at mood through out the entire story line. A mood th at works terrifically f or single scenes might not be strong enough tosust a in the who le chronicle. F or example, if vengeance is at the heart of you r story, you may find you rselfhard-pressed tokeep the game going if the characters
+al plot is about a vampire’s quest to protect his mortal escendants. It’s certainly possible, with some effort, to reconcile those two elements, but you shouldn't make a habit of making more work f or yourself th an you have to. The primary criteri on in selecting the essential mood of your
+chronicle is whetherornotyouc an sust a in th at mood through out the entire story line. A mood th at works terrifically f or single scenes might not be strong enough tosust a in the who le chronicle. F or example, if vengeance is at the heart of your story, you may find yourselfhard-pressed tokeep the game going if the characters
 settle their old scores By the third sessi on of play. While setting up instances centered around other moods is an excellent
-Storytelling technique — a steady diet of regret or hatred or anything else c an get tiresome very quickly — you want to avoid confusing them a in flav or of you r game with the seasoning. A few moods th at work well f or Camarill a-centered games includ
+Storytelling technique — a steady diet of regret or hatred or anything else c an get tiresome very quickly — you want to avoid confusing them a in flav or of your game with the seasoning. A few moods th at work well f or Camarill a-centered games includ
 
 e Fear
 
-The Sabb at is coming. The elders are whittling do wn the ranks of their childer. The Antediluvians might be waking. The Lupines are growing bolder in their raids on the city. Anarchs are inciting younger Kindred to revolt. Any and all of the se worries c an and should make f or a heady brew of paranoi a among you r city's Kindred, all owing you to establish
-a mood of fear th at permeates you r chronicle. © Regret you r players’ coterie watches mortal existence recede in to the dim and distant past. Parents, friends, lovers and children grow old and die — all with out the characters. Tht GUIDE 10 THe CAMARILL A
+The Sabb at is coming. The elders are whittling do wn the ranks of their childer. The Antediluvians might be waking. The Lupines are growing bolder in their raids on the city. Anarchs are inciting younger Kindred to revolt. Any and all of the se worries c an and should make f or a heady brew of paranoi a among your city's Kindred, all owing you to establish
+a mood of fear th at permeates your chronicle. © Regret your players’ coterie watches mortal existence recede in to the dim and distant past. Parents, friends, lovers and children grow old and die — all with out the characters. Tht GUIDE 10 THe CAMARILL A
 
 Occasionally there is a reminder of humanity, perhaps in the form of a mortal who reminds a character of wh at he used to be, but th at reminiscence just emphasizes the characters’ loss once it passes. Chronicles with a mood of regret of ten center
 on characters’ attempts to hang on to the last shreds of their
@@ -5511,7 +5511,7 @@ Kindred are trying to keep the truth from the coterie
 The entire myth of how the Kindred came to be is rooted in hatred, and the Camarill a do es little to disgrace th at legacy. Childer hate their sires f or plucking them in to a state of unlife. Sires hate their ambitious progeny, who look with
 hungry eyes at their elders. The clans war with each other, when not uniting to confront the hated Sabb at. Just as deadly is the unspoken self-loathing many Kindred feel, driving them to commit acts th at risk destructi on. + Ambiti on
 
-Mortal concerns pale when a hum an receives the Embrace, but immortal ambitions c an make f or an acceptable substitute. The desire to rise in generati on, in status, in power or in rank c an drive a vampire to commit acts both unspeak able and superhum an. A sense of ambiti on c an drive you r
+Mortal concerns pale when a hum an receives the Embrace, but immortal ambitions c an make f or an acceptable substitute. The desire to rise in generati on, in status, in power or in rank c an drive a vampire to commit acts both unspeak able and superhum an. A sense of ambiti on c an drive your
 players’ characters to greater and greater heights of achieve: ment — or c an lead them to crushing weights of failure. © Respect
 
 The Camarill a is built on respect f or traditi on (and
@@ -5519,36 +5519,36 @@ Traditi on). A chronicle c an easily be constructed around neonates’ attempts 
 
 * Loyalty
 
-Loyalty c an be a difficult thing to situate at the heart of you r chronicle, but when used properly it c an drive dynamic story lines. The loyalty of childe to sire, of members of acoterie to one another and to their clans, and the overriding loyalty
+Loyalty c an be a difficult thing to situate at the heart of your chronicle, but when used properly it c an drive dynamic story lines. The loyalty of childe to sire, of members of acoterie to one another and to their clans, and the overriding loyalty
 each vampire should feel to the sect — any and all of the se c an be called in to questi on or tested at a moment's not ice. Wh at happens, f or example, when a neonate is offered prime hunting grounds in exchange f or setting up a member of his coterie f or
 destructi on? The stresses and demands of loyalty — particularly when the blood bond comes in to play — make f or fertile material f or a wide range of chronicles. the ME
 
-If mood is the central emoti on of you r chronicle, the n the the me is the central ide a. where as the mood c an be
+If mood is the central emoti on of your chronicle, the n the the me is the central ide a. where as the mood c an be
 
-TALES OF IMAGin aTI ON AND MYSTERY: STORYTELLING summed up by an emoti on, the the me c an usually be summed up as an abstract ide a — traditi on, f or example, or antiquity. The events of you r plot should support you r the me and highlight it, using the mechanisms of the story to get across
-the central point of you r chronicle. the ME AND THE CAMARILL A
+TALES OF IMAGin aTI ON AND MYSTERY: STORYTELLING summed up by an emoti on, the the me c an usually be summed up as an abstract ide a — traditi on, f or example, or antiquity. The events of your plot should support your the me and highlight it, using the mechanisms of the story to get across
+the central point of your chronicle. the ME AND THE CAMARILL A
 
 Cert a in the mes lend the mselves better to Camarill a chronicles th an do others. The very makeup of the sect — older vampires dictating policy to younger ones — fairly screams f or the mes of rebelli on and oppressi on. The fact of
 the elders’ existence speaks more to the mes of age and remembrance; chronicles th at contrast the Kindred’s past with their present of ten have such the mes. Political games c an center on the mes of intrigue and betrayal, while horr or is
 another perennial favorite when the characters are up against
 Kindred more monstrous th an they are. With its heritage of f or mality and traditi on, the sect do es of fer innumerable tools f or reinforcing any the me you choose. The indifference of an elder to a neonate’s plot c an be used to spur the youngster’s incipient revolt, or to demonstrate the elder’s age and perspective. The timeless elegance of a meeting
-at Elysium plays up the sect’s traditi on to some, while exposing stagnati on to others. Use wh at the Camarill a gives you, and you'll find plenty of material to support you r chronicle’s the mes. Dr or
+at Elysium plays up the sect’s traditi on to some, while exposing stagnati on to others. Use wh at the Camarill a gives you, and you'll find plenty of material to support your chronicle’s the mes. Dr or
 
-The plot of you r chronicle is not hing less th an the story itself, the sequence of events th at propels and supports you r chronicle. with out a plot, all you have is a disconnected scattering of events with no coherent framework or directi on. with a strong plot, how ever, you have a skelet on on which to
-drape the other elements — mood, the me, character development — of you r chronicle. SINGULAR OR DLURAL? While having only one plot going at a time of fers the pleasures of simplicity, you might want to explore the not i on of having multiple plots running simultaneously. Bear in mind th at in a sect like the Camarill a, where in open warfare
-is the or etically prohibited, plotting is the only way to get ahead of one’s rivals. You, as Storyteller, should take you r characters’ plots (as determined By their personalities) and make them you r chronicles’ plots as well. Consider this not i on: The Kindred are n’t going to st and
+The plot of your chronicle is not hing less th an the story itself, the sequence of events th at propels and supports your chronicle. with out a plot, all you have is a disconnected scattering of events with no coherent framework or directi on. with a strong plot, how ever, you have a skelet on on which to
+drape the other elements — mood, the me, character development — of your chronicle. SINGULAR OR DLURAL? While having only one plot going at a time of fers the pleasures of simplicity, you might want to explore the not i on of having multiple plots running simultaneously. Bear in mind th at in a sect like the Camarill a, where in open warfare
+is the or etically prohibited, plotting is the only way to get ahead of one’s rivals. You, as Storyteller, should take your characters’ plots (as determined By their personalities) and make them your chronicles’ plots as well. Consider this not i on: The Kindred are n’t going to st and
 around courteously and wait f or one another's schemes to come tofruiti on before initiating their own, afterall. Why should n’t the
 Nosferatu primogen be working to undermine a particularly snobbish keeper of Elysium at the same time two Ventrue are struggling over control of a new hi-tech corporate campus and a
-Malkavi an neonate is trying to survive in the face of new legislati on th at closes do wn mental institutions, dumping his entire herd on to the street? Bear in mind th at just because you r characters are plotting do esn’t me an th at their plots will impact
-you r players’ coterie all the time, or even any of the time. After all, if you r chronicle travels from boardroom to museum to luxury suite, odds are th at the plight of the lone Malkavi an w on't be a matter of much concern. On the other h and, knowing wh at th at
-Malkavi an is up to and making sure to advance his story line (to you rself, at least) means th at if one of the player's characters takes a bite out of th at Lunatic’s exclusive property, the machinery to make a story out of the incident is already in place. Running multiple plots also lets you give players options. If you r Elysium plot do esn’t appeal to half of you r troupe, the n
+Malkavi an neonate is trying to survive in the face of new legislati on th at closes do wn mental institutions, dumping his entire herd on to the street? Bear in mind th at just because your characters are plotting do esn’t me an th at their plots will impact
+your players’ coterie all the time, or even any of the time. After all, if your chronicle travels from boardroom to museum to luxury suite, odds are th at the plight of the lone Malkavi an w on't be a matter of much concern. On the other h and, knowing wh at th at
+Malkavi an is up to and making sure to advance his story line (to yourself, at least) means th at if one of the player's characters takes a bite out of th at Lunatic’s exclusive property, the machinery to make a story out of the incident is already in place. Running multiple plots also lets you give players options. If your Elysium plot do esn’t appeal to half of your troupe, the n
 perhaps starting a second plotline involving a power struggle on the streets might pique their interest. there's also the appeal of differently paced plots, where in one plotline only pops up every third sessi on or so, while the vampires’ night to-night activity deals with entirely different matters. F or
 example, the coterie might be caught up in a struggle to influence the city’s newly burgeoning Russi an community, which requires nightly immersi on in th at world as well as constant challenges from rivals. At the same time, how ever, those same vampires might be under observati on by a local
 Tremere elder, who decides to test them every so of ten in his own inimitable fashi on. The two plots co-exist and occasionally interact (when, f or example, the Tremere aids and abets the coterie’s rivals to see how the group handles adversity), but they appear with different frequencies. One serves as a change of pace f or the other, and as a reminder th at Kindred
-existence is much more complicated th an just getting from point A to point B. Remember, the Kindred are creatures of machin ati on. Some have spent decades, if not centuries or millenni a developing their schemes, working through others who of ten do n’t even know they're part of some elder being’s plans. the se ancient schemersare you r creations with in the boundaries of you r chronicle; every Kindred’s personal agend a
+existence is much more complicated th an just getting from point A to point B. Remember, the Kindred are creatures of machin ati on. Some have spent decades, if not centuries or millenni a developing their schemes, working through others who of ten do n’t even know they're part of some elder being’s plans. the se ancient schemersare your creations with in the boundaries of your chronicle; every Kindred’s personal agend a
 should do uble as a potential plotline f or you to use. Bic Prot, Lrrrre Prot
 
-The scale of you r plot is so me thing to consider carefully. On its basic level, the Camarill a functions city by city. As a result, most plotlines should operate with in the boundaries of asingle city. Whether those plots are as grandiose as attempts to overthrow princes or visits from angry justicars, or as
+The scale of your plot is so me thing to consider carefully. On its basic level, the Camarill a functions city by city. As a result, most plotlines should operate with in the boundaries of asingle city. Whether those plots are as grandiose as attempts to overthrow princes or visits from angry justicars, or as
 personal as a single vampire’s quest to earn permissi on to
 Embrace a termin ally ill loved one is a matter of taste, but the city is the unit by which most Camarill a plots are measured. Whethersuch plotsare “big” or “small” generally depends on how many other Kindred are involved, and thus wh at the consequences of the plot might be. An attempt By the coterie to
 overthrow the local prince, f or example, is effectively a “big” plot, as the prince has enemies, all ies and childer (all of who m have their own agendas to be satisfied) th at the story line must bring in to the mix. Such chronicles frequently have large casts of
@@ -5563,10 +5563,10 @@ certainly support do ing so), just be prepared to do the legwork necessary with 
 work out the arrangements, agendas and problems th at go with the conclave as well. On the other h and, a plot th at uses such grandiose devices c an, ifdone well, inspire awe and some spectacular roleplaying. Just make sure you're up to the
 challenge before trying it. PLottinG THE CAMARILL A
 
-Using the Camarill a as the starting point f or crafting you r plot means th at cert a in of you r narrative choices are already defined f or you. If you're going to run a Camarill a chronicle, there are functions and traditions of the sect —the Masquerade, the Traditions, the city’s vampiric hierarchy and so on — th at must be taken in to account when you're constructing you r plot. Rather th an being a handicap, the se pre-existing constructions
+Using the Camarill a as the starting point f or crafting your plot means th at cert a in of your narrative choices are already defined f or you. If you're going to run a Camarill a chronicle, there are functions and traditions of the sect —the Masquerade, the Traditions, the city’s vampiric hierarchy and so on — th at must be taken in to account when you're constructing your plot. Rather th an being a handicap, the se pre-existing constructions
 c an work f or you, giving you the building blocks of a solidly constructed narrative. Plots centered around the sect usually have one of three m a in foci: * Defending the Camarill a
 
-The easiest plots toconstruct, stories th at revolve around defending the sect c an be out-and-out acti on fests, with you r players’ characters going toe-to-toe with the Camarill a’s enemies. Such plots c an be simple slugfests or c at-and-mouse
+The easiest plots toconstruct, stories th at revolve around defending the sect c an be out-and-out acti on fests, with your players’ characters going toe-to-toe with the Camarill a’s enemies. Such plots c an be simple slugfests or c at-and-mouse
 chases after infiltrators. Either way, though, the plot revolves around the Camarill a being on the defensive. e Advancing the Camarill a
 
 Stories to advance the Camarillac an involve improving the sect in terms of territory, power or policy. A plot to advance the
@@ -5576,15 +5576,15 @@ STAYING At Home
 Observant Storytellers will no do ubt not ice th at at the rate experience points get handed out, even the slowestlearning characters acquire ludicrous amounts of power in A few short months. Extrapolating th at trend across the thousands of years th at elders have existed, one comes up
 with staggering numbers of do ts’ worth of powers. the n one looks at the statistics provided f or pre-made characters, and do esn’t see quite so many do ts as all th at. The discrepancy c an be troubling. there is, how ever, a reas on f or the differential: Vampires do n’t spend all their time running around do ing things th at, in game terms, garner them experience. Scouring the streets fighting the Sabb at, meddling with elders and otherwise exposing one’s self to mortal danger is not standard
 vampiric behavi or. With immortality a certainty, wh at vampire is going to risk his eternal existence any more th an necessary? Most Kindred spend the vast majority of their time hiding behind ghouls and mortals, tending to their concerns and plots and resolutely avoiding danger. As a result, they
-do n’t rack up knowledge of new skills too quickly. Player characters, needless to say, are the excepti on to this trend. they're out in the trenches, do ing deeds of daring and otherwise picking up new Abilities and Disciplines. Bear in mind when Storytelling th at you r players’ characters are advancing at a much faster rate th an their
+do n’t rack up knowledge of new skills too quickly. Player characters, needless to say, are the excepti on to this trend. they're out in the trenches, do ing deeds of daring and otherwise picking up new Abilities and Disciplines. Bear in mind when Storytelling th at your players’ characters are advancing at a much faster rate th an their
 peers in the city, and do n’t let them get too far ahead of everyone else too fast. Camarill a c an range from an assault on a Sabb at city to an attempted assassin ati on of a particularly competent Lasombr a bishop. there are less obvious ways to center plots on the not i on
 of advancing the Camarill a as well: Struggles to remove incompetent elders or princes, attempts to make sect policy or ways to modernize fossilized practicesall fall under this rubric, and all of fer interesting challenges f or characters. è Working with the Camarill a
 
 Working with (or with in) the sect c an c over any number of plot ideas. Attempts By the characters to advance politically, machin ations by elders touse or abuse their lessers, situations where the Masquerade must be defended and othersuch storiesall fall in to this category. Such plots are marked less by open conflict and more
 by politicking, intrigue and subtle uses of Disciplines. SIGNATURE Devices
 
-One of the best ways to make you r game distinctively
-Camarill a is to use the Traditions and customs of the sect as core elements of you r plotting. there's no sense making you r game
+One of the best ways to make your game distinctively
+Camarill a is to use the Traditions and customs of the sect as core elements of your plotting. there's no sense making your game
 Camarill a if you do n’t take advantage of some of the story elements th at the Camarill a has to of fer. Consider the following: + The Masquerade
 
 In many ways, the decisi on to create and maint a in the
@@ -5594,7 +5594,7 @@ TALES OF IMAGin aTI ON AND MysTERY: STORYTELLING to hide the fact of vampiric ex
 Masquerade because of new or existing breaches, characters’ questioning of the need of the Masquerade (and attracting unwelcome attenti on f or do ing so), or finding new and better ways to uphold the decepti on and trying to convince elders
 to accept the new-fangled not ions. * thered List
 
-Anyone on the legendary Red List is probably far, far out of the average coterie’s league when it comes to comb at. how ever, you c an still use the rum or of a Red List vampire to stir up all sorts of plot-based-trouble in you r chronicle. And not hing says th at the players’ coterie €an’tget in on the acti on
+Anyone on the legendary Red List is probably far, far out of the average coterie’s league when it comes to comb at. how ever, you c an still use the rum or of a Red List vampire to stir up all sorts of plot-based-trouble in your chronicle. And not hing says th at the players’ coterie €an’tget in on the acti on
 if other Kindred decide to jo in the huntf or 2 h atéd fugitive... + The Traditions
 
 The Traditions are theironclad laws of the sect. Innumerable plots c an come from autempts to citcumyent, break or uphold the m. Local variants on the Traditions c an also be’ fun to play with, as newcomers tô a éity find the mselves, struggling to learn new laws before they petthemselves killed over a misinterpretati on.... * Conclaves
@@ -5607,18 +5607,18 @@ worse, her superi or, c an really shake the metaphorical tree. Ag f or wh at com
 
 Elysium means intrigue and the endless quest f or socif™ status. In a setting where use of Disciplines is prohibited, vampires must resort to more subtle means to achieve the if ends, and th at makes f or more subtle plotlines. CALAMITIES
 
-To no one’s surprise, pre-planned plots have a lemminglike habit of going astray. Characters do n’t open the do or s they're supposed to or kill key witnesses accidentally; intgrcoterie conflict diverts Kindred from vital clues. And so it goes as the players’ characters go of f on wild goose chases while you r beautiful, meticulously constructed plot either
+To no one’s surprise, pre-planned plots have a lemminglike habit of going astray. Characters do n’t open the do or s they're supposed to or kill key witnesses accidentally; intgrcoterie conflict diverts Kindred from vital clues. And so it goes as the players’ characters go of f on wild goose chases while your beautiful, meticulously constructed plot either
 falls to pieces or remains basically untouched. In situations like th at, the worst thing you c an do as a
-Storyteller is to attempt to f or ce you r players to adhere to you r plot. Such efforts are rarely subtle, of ten not iced and always resented. By telling the characters th at they have to do some things and c an’t do others, you disrupt the natural
+Storyteller is to attempt to f or ce your players to adhere to your plot. Such efforts are rarely subtle, of ten not iced and always resented. By telling the characters th at they have to do some things and c an’t do others, you disrupt the natural
 flow of the story. Instead, think about where the characters are going with the story line. See if there’s any way you c an direct them back toward the pre-planned plot gently. Introducing Storyteller characters who are tied strongly in to the abandoned plot
-works well f or this sort of thing. Otherwise, the best thing you c an do is take you r preplanned plot and shelve it temporarily, letting it slide until the characters are ready to give it another go. The vampires of the Camarill a are not hing if not patient. If they c an hatch aplot th: s a hundred years; you c an wait A few weeks to
+works well f or this sort of thing. Otherwise, the best thing you c an do is take your preplanned plot and shelve it temporarily, letting it slide until the characters are ready to give it another go. The vampires of the Camarill a are not hing if not patient. If they c an hatch aplot th: s a hundred years; you c an wait A few weeks to
 put it in to acti on. CONFLICT
 
 Conflict is av the hearv of all chronicle plotting. A city wheréin all the Kindred dwell in perfect harmony, everyone is satisfied with his lot and the Masquerade is preserved perfectly may make f or an wonderful place to live, but it honestly isn't
 a particularly excitingsetting f or Storytelling. Conflict, the oppositi on of f or ces and) will s, is wh at makes f or exciting
-Stofytelling. not e th at conflict is not automatically equivalent to comb at. there are many, many ways in which the Kindred pit the mselves against one another and their enemies, and most do n’Binvolve bloodshed — at least not immediately. Decidinig wh at the sources of conflict in you r chronicle
+Stofytelling. not e th at conflict is not automatically equivalent to comb at. there are many, many ways in which the Kindred pit the mselves against one another and their enemies, and most do n’Binvolve bloodshed — at least not immediately. Decidinig wh at the sources of conflict in your chronicle
 äre and figuring out how the characters fit in to those conflicts
-(A hint: If they do n’t figure at least peripherally in every conflict you've established, it’s time to start looking f or a different plot seed) should form the core of you r plotting. Every are a of contenti on you establish should somehow impact the characters’ coterie, and should help to drive you r
+(A hint: If they do n’t figure at least peripherally in every conflict you've established, it’s time to start looking f or a different plot seed) should form the core of your plotting. Every are a of contenti on you establish should somehow impact the characters’ coterie, and should help to drive your
 plot toward its ultimate conclusi on. Tue Basics
 
 The obvious and basic conflict in a Camarill a game pits the Camarill a itself against its enemies. Establishing an “us
@@ -5627,8 +5627,8 @@ Sabb at, unaligned vampires, other supernatural beings or even
 
 A Sense of AGE
 
-Camarill a plots of ten have lineages stretching back centuries. If you involve older vampires in you r story line, you should make cert a in to see how far back their involvement in events goes, and why they got involved in the first place. Realizing th at the characters’ life-or-death struggle is just the latest, m in or skirmish in a private war th at’s
-lasted since thereformati on do es wonders f or establishingasense of perspective in you rchronicle. If you're going to use old Kindred, make sure you use their age as well as their accumulated statistics as tools in telling you r story. Tht GUDE TO THe CAMARLL A vampire hunters — the characters clearly draw the line as to
+Camarill a plots of ten have lineages stretching back centuries. If you involve older vampires in your story line, you should make cert a in to see how far back their involvement in events goes, and why they got involved in the first place. Realizing th at the characters’ life-or-death struggle is just the latest, m in or skirmish in a private war th at’s
+lasted since thereformati on do es wonders f or establishingasense of perspective in yourchronicle. If you're going to use old Kindred, make sure you use their age as well as their accumulated statistics as tools in telling your story. Tht GUDE TO THe CAMARLL A vampire hunters — the characters clearly draw the line as to
 who m they are f or, as well as who m they are against. A story with this sort of conflict at its heart do esn’t necessarily have to be just a straight-up slugfest. A quest to find a Sabb at infiltr at or or to stop a lone Ravnos from stealing the prince's symbols of
 of fice clearly sets the Camarill a, in the form of the players’ coterie, up against its enemies. there’s not hing wrong with a good old-fashioned brawl in the streets with a bloodthirsty pack of Sabb at neonates, but there's much more to lining the
 Camarill a up against its enemies th an simply having everyone charge in to a scrum, fangs bared and Uzis barking. CONFLICT with the SABB AT
@@ -5638,12 +5638,12 @@ the Camarill a is built on traditi on and f or mality, the Sabb at was born in c
 
 Knowing Too Mucu
 
-It c an not be overemphasized th at when you cross over other supernatural creatures in to you r game ignorance is bliss. The line between player knowledge and character knowledge must be maintained vigilantly, otherwise familiarity breeds contempt. Remember, you r coterie do esn’t
+It c an not be overemphasized th at when you cross over other supernatural creatures in to your game ignorance is bliss. The line between player knowledge and character knowledge must be maintained vigilantly, otherwise familiarity breeds contempt. Remember, your coterie do esn’t
 know anything about wh at were wolves, mages, etc. are really like — they're lucky if they've been taught the basics of being a vampire. So when a scruffy bum responds to a neonate’s attempt at feeding by metamorphosing in to a
 nine-foot-tall column of rage, fur and fangs, the characters should not respond with a shrug and, “Oh, it’s a Bone
 Gnawer in Crinos form. Bob, flip me the book so I c an see wh at Gifts he’s likely to have.” The players might know wh at a Bone Gnawer is, but the odds are very, very long against a given character knowing wh at one might be. Instead, the characters should react with the shock, fear
 and horr or appropriate to seeing a puny mortal mutate in to a hateful and terrifying killing machine. If the characters survive, they will probably underst and th at they've just come face-to-snout with a Lupine. they may, if they decide they need to know more on the topic, unc over the fact th at Lupines supposedly live in tribes and have some sort of magical powers, but little more
-unless they decide to devote their afterlives to the study of the beasts. all owing you r characters to know too much about their fellow travelers — or letting you r players get away with sneaking out-of-game knowledge in to in-play
+unless they decide to devote their afterlives to the study of the beasts. all owing your characters to know too much about their fellow travelers — or letting your players get away with sneaking out-of-game knowledge in to in-play
 situations —c an go a long way toward lessening the impact encounters with other supernatural beings should have. Players who consistently met a game should be disciplined in some fashi on, preferably by stripping experience from their characters. After all, characters who sound like they've just read the rulebook, and who c an quote it
 chapter and verse, really do n’t sound like characters atall. guidelines. While the Camarill a putatively has laws to govern its members’ dealings with both the world at large and one another, the Sabb at respects only brute strength and animal cunning. From the se seeds of difference, massive conflicts c an grow. At a core level, conflict with the Sabb at c an be seen as military. The Camarill a holds a city, the Sabb at wants it, and the two sides tussle bloodily. Th at sort of conflict is an excellent way
 tokick-start a plot with the Sabbatcastas the villains—throwing afresh coterie in to a comb at situati on do es much to establish the vampires who are trying to kill them as antagonists — but it’s not the only way touse the oppositi on of the Sabbatplot-wise. A strict
@@ -5704,7 +5704,7 @@ Ithas been stated, only half in jest, th at if the Sabb at really wanted to dest
 interesting f or all concerned. Neonates struggle f or survival against their peers, ancillae attempt to climb in power (of ten over the corpses of their predecessors), elders plot and scheme against one another, and even the clans the mselves exist in
 only an uneasy peace. there is conflict a-plenty — and thus more th an enough grist f or a Storyteller’s mill — with in the
 Camarill a’s borders. If you do n’t want to look out of the
-Camarill a f or enemies f or you r players’ characters, rest assured th at there are plenty already inside the borders. Looxinc Up: Neonates there are numerous reasons f or neonates to be hated. First of all, they are weak, and in a society of predators the strong always despise the weak. Even the most promising
+Camarill a f or enemies f or your players’ characters, rest assured th at there are plenty already inside the borders. Looxinc Up: Neonates there are numerous reasons f or neonates to be hated. First of all, they are weak, and in a society of predators the strong always despise the weak. Even the most promising
 newcomer to the Blood is easy me at to the weakest ancill a, and rest assured th at the ancillae take every opportunity to reinforce the truth of the not i on. Neonates are also only years, or on some cases hours, removed from their Humanity. they still act on occasi on in very hum an fashi on, making mistakes th at will be repeated less and less of ten as they grow accustomed to their new
 status. Some Kindred lo a the them f or the incompetence thus displayed, others f or the unwanted reminder the se fledglings provide of earlier, more innocent times. Either way, the mere fact of a neonate’s stumbling existence is enough to earn
 other Kindred’s ire. there’s also the matter of politics. A neonate is far more th an just another inexperienced vampire. She’s a political statement, a fav or fulfilled, a prize ghoul rewarded or snatched away from a rival. She’s a potential success or to her sire — and
@@ -5716,17 +5716,17 @@ TALES OF IMAGin aTI ON AND MYSTERY: STORYTELLING
 
 On Coterit BUILDING
 
-A coterie makes sense not only as a plot device to keep you r players’ characters to get her, but also as an in-game tool f or keeping them alive. A solid and well-balanced coterie safeguards its individual members against bullying and random violence, while establishing A few built-in all ies f or each
+A coterie makes sense not only as a plot device to keep your players’ characters to get her, but also as an in-game tool f or keeping them alive. A solid and well-balanced coterie safeguards its individual members against bullying and random violence, while establishing A few built-in all ies f or each
 character. At the same time, coterie internal politics serve as good practice f or the deadlier versi on th at each neonate is going to encounter if he survives long enough. In additi on, a coterie situati on is a wonderful learning environment f or new players, who get to work with more experienced players
-in a scenario where the stakes are not yet earthshattering. With th at in mind, you should encourage you r players to build a stable and work able coterie f or their characters. A strong coterie has a good central rais on d'être (a comm on foe, princely fi at, acquaintance from before the Embrace, a shared blood bond, a mutual ambiti on) and a will ingness to
+in a scenario where the stakes are not yet earthshattering. With th at in mind, you should encourage your players to build a stable and work able coterie f or their characters. A strong coterie has a good central rais on d'être (a comm on foe, princely fi at, acquaintance from before the Embrace, a shared blood bond, a mutual ambiti on) and a will ingness to
 work to get her. No coterie lasts long if one of the characters is simply out to elimin ate his fellows; the same holds if there are two characters locked in a bitter feud. The f or mer scenario tends to devolve in to cycles of vengeance; the latter
 of ten turns in to a grandst and f or the two rivals while every one else sits around and takes not es. A good coterie has reasons f or getting to get her and staying to get her, not flying apart. Those tend to arise on their own so on enough. Once thereas on f or the coterie has been established, it
 makes sense to make cert a in th at there’s a level playing field with in the group. If one member of the coterie c an ride roughshod over therest, it’s not going to be much fun to play one of his do or mats. Coteries are collections of peers, coteries
 of neonates especially so. So if one character appears overpowered or simply do esn’t fit the concept of the group (a biker Gangrel who likes breaking things dropped among a flock of intriguing Toread or and Ventrue, f or example), it c an get disruptive. If you feel th at a character simply do esn’t
-work with in the confines of you r players’ coterie, you c an and should use coterie stability as a reas on to get th at player to think about modifying his person a to make the game run more smoothly. th at neonates st and a chance against; neonate-on-neonate
-conflict is a case of picking on someone you r own size. Itis the external pressure from older and more experienced
+work with in the confines of your players’ coterie, you c an and should use coterie stability as a reas on to get th at player to think about modifying his person a to make the game run more smoothly. th at neonates st and a chance against; neonate-on-neonate
+conflict is a case of picking on someone your own size. Itis the external pressure from older and more experienced
 Kindred th at f or cescoteries of neonates to form; itis the internal pressure from freshly budding rivalries th at causes them to split apart in the end. A coterie of peers, all of similar experience and potential, is an excellent survival device. with in a stable
-coterie, there’s always someone watching you r back, and there’s enough combined fire power present to encourage Kindred looking f or someone to bully to look else where. Stories involving neonates always involve a high degree of paranoi a. there’s always someone gunning f or the new kids
+coterie, there’s always someone watching your back, and there’s enough combined fire power present to encourage Kindred looking f or someone to bully to look else where. Stories involving neonates always involve a high degree of paranoi a. there’s always someone gunning f or the new kids
 
 on the vampiric block, and neonates who expect to survive know this. Furthermore, few neonates really know the ins and outs of their new status — sires of ten teach their childer enough to survive, but little more — and as such are constantly running in to trouble spawned from myth, legend and
 ignorance. While most neonates c an count on at least the cursory protecti on of their sires (the bo on of creati on is an expensive one, and few Kindred wish to throw it away lightly), therelentless Darwini an pressure of v
@@ -5758,7 +5758,7 @@ Asingle elderc an be a terrifying antagonist f or a coterie of neonates. It matt
 — perhaps rivals of his sired the m, or he fears their ultimate ambitions — but his attentions c an provide endless plot ideas. His stratagems to injure them c an range from the blunt (sending his descendants, ghouls or mortal pawns to
 attack the coterie) to the subtle (intriguing against them and their patrons) to the monstrous (taking out his wrath on their mortal loved ones and all ies). He should act through ever more powerful servants, raising the level of oppositi on
 every time the coterie proves equal to his challenge. He may even welcome the coterie’s continued survival as an exciting game to leaven his otherwise dull existence. In the me an time the neonates slowly ascend the ladder of power, learning about politics and wh at it takes to maint a in one’s positi on in the ever-so-treacherous Camarill a. Should the
-characters achieve a reason able level of success and power, afin al confrontati on with the inimical elder is not out of the questi on. In the me an time, how ever, the elder has served as them over and shaker behind any number of chapters in you r chronicle by merely staying true to his class and his fear. of struggle, and any Kindred who goes in with a sense of fair play
+characters achieve a reason able level of success and power, afin al confrontati on with the inimical elder is not out of the questi on. In the me an time, how ever, the elder has served as them over and shaker behind any number of chapters in your chronicle by merely staying true to his class and his fear. of struggle, and any Kindred who goes in with a sense of fair play
 is liable to be elimin ated from the running very early indeed. Tue View FROM THe HILL: ELDERS
 Elders of the Camarill a have achieved dizzying heights of power, and they are deathly afraid of falling. While unlife may not be sweet té'the elders, it is precious, and they will go to any lengths to avoid risking their immortality. Elders have
 few friends, if any; they see other Kindred as rivals and potential ustirpers. they know the temptations th at younger
@@ -5791,7 +5791,7 @@ diminish the intensity of the hatred th at the two sides c an generate, but the 
 Power is one of the most basic sources of narrative conflict. Among the Kindred, power is defined by blood. Itis littlewonder, the n, th at some of the fiercest conflicts (and best stories) with in the Camarill a are spawned By the lust f or potent blood. Technically, diablerie is condemned By the Camarill a except in cert a in unique circumstances (blood hunts, dealing with enemies of the sect, etc.). The use of the ability th at
 Auspex grants to read auras is supposed to be sufficient to flush out diablerists, who are thus condemned By their own vital energies. Alas, vampires are no better th an mortals at legislating morality. Elders spend sleepless days pondering
 who among their childer might be brave enough to attempt diablerie. Neonates dwell in terr or of stories of elders who c an only subsist on vampiric vitae. And so it goes, as the spectre of vampiric c an nibalism infuses every Kindred with fear. Th at’snot tosay the fearis unfounded. The lure of ascending
-generations is a powerful one, and more th an one elder has been devoured by his ungrateful progeny. Such attempts c an take years or longer to be completed, and the constructi on of such (whether you r players’ coterie is the hunter or prey is up to you) c an provide
+generations is a powerful one, and more th an one elder has been devoured by his ungrateful progeny. Such attempts c an take years or longer to be completed, and the constructi on of such (whether your players’ coterie is the hunter or prey is up to you) c an provide
 an interesting thread to an ongoing chronicle. The situati on growseven more fascin ating if there is evidence th at the proposed diablerie is tacitly supported by someone high in the city’s power structure. Princesd on’talways like todo their own dirty work, and
 the unmistakable evidence of diablerie c an be more th an enough to condemn the prince's catspaws In this affair. Story IDEAS
 
@@ -5827,86 +5827,86 @@ being hum an, to a greater or lesser degree. Some neonates might not even recogn
 aband on, but he c an’t tear himself away from returning to the m. Perhaps he breaks the Masquerade, confessing all in an
 
 So Wu Ho’s THE VILL A IN? The term “vill a in” is a relative one when it comes to
-Vampire. After all, the protagonists of the game are blood-drinking, unliving corpses raised from the dead to feed on the pulsating vitae of the living — not exactly you r textbook role models. The antagonists you line up
-f or you r chronicle may not be “bad guys” in the traditional sense, because the “heroes” c an be pretty damn bad on their own. In fact, the “villains” of the chronicle may be mortal hunters out to stop the bloodsucking fiends’ re in
-of unholy terr or, so me thing th at the majority of people would probably regard as an admirable goal. So bear in mind when you're creating you r Vampire villains th at they may not be all th at villainous. Yes, rabid
-Sabb at packs may be far, far worse the n you r players’ characters ever dreamed of being, but antagonists f or the
+Vampire. After all, the protagonists of the game are blood-drinking, unliving corpses raised from the dead to feed on the pulsating vitae of the living — not exactly your textbook role models. The antagonists you line up
+f or your chronicle may not be “bad guys” in the traditional sense, because the “heroes” c an be pretty damn bad on their own. In fact, the “villains” of the chronicle may be mortal hunters out to stop the bloodsucking fiends’ re in
+of unholy terr or, so me thing th at the majority of people would probably regard as an admirable goal. So bear in mind when you're creating your Vampire villains th at they may not be all th at villainous. Yes, rabid
+Sabb at packs may be far, far worse the n your players’ characters ever dreamed of being, but antagonists f or the
 Kindred come from both ends of the spectrum. attempt to earn their sympathy; perhaps he seeks to Embrace one or all of them in violati on of the Traditions, just so he c an be with them f or ever. Stories like this c an provide plenty of tensi on and strong roleplaying with out necessitating th at
-you r players reach f or their dice every third minute. Ne Meses AND ANTAGONISTS
+your players reach f or their dice every third minute. Ne Meses AND ANTAGONISTS
 
-Behind every nefarious plot stands a nefarious plotter. While you r characters may be the center of you r story, they need an opposite number, someone against who m they c an strive and compete. with out an opponent against who m the coterie c an react, there’s little tensi on in you r chronicle. Instead of a foe to over come, there’s just a series of small
+Behind every nefarious plot stands a nefarious plotter. While your characters may be the center of your story, they need an opposite number, someone against who m they c an strive and compete. with out an opponent against who m the coterie c an react, there’s little tensi on in your chronicle. Instead of a foe to over come, there’s just a series of small
 skirmishes th at devolves quickly in to boredom. On the other h and, if it turns out th at the anarchs who trashed the coterie’s communal have n is actually a disguised Sabb at pack looking to soften up the city, suddenly all of those one-of f gunfights
-and back-all ey ambushes become part of a pattern. you r chronicle becomes more focused. And, by setting up an ultimate enemy, perhaps the bishop or cardin al behind the assault on the city, you set up the characters’ confrontati on
-with th at enemy as the natural climax f or you r chronicle. Villains do n’t just happen, though. You need to construct the ultimate nemesis of you r chronicle carefully. After all, most of you r plot developments must flow from him and his choices, especially those dealing with the characters. With th at in mind, you need to start thinking about who you r characters’ enemy as much, if not more, th an wh at he is. It is a fact th at no vill a in worth his salt do es things simply
+and back-all ey ambushes become part of a pattern. your chronicle becomes more focused. And, by setting up an ultimate enemy, perhaps the bishop or cardin al behind the assault on the city, you set up the characters’ confrontati on
+with th at enemy as the natural climax f or your chronicle. Villains do n’t just happen, though. You need to construct the ultimate nemesis of your chronicle carefully. After all, most of your plot developments must flow from him and his choices, especially those dealing with the characters. With th at in mind, you need to start thinking about who your characters’ enemy as much, if not more, th an wh at he is. It is a fact th at no vill a in worth his salt do es things simply
 to be villainous. Even the most sadistic Tzimisce or bad-ass
 Baali has a goal, so me thing he’s trying to accomplish. He has a pl an, an overriding goal th at he wants to achieve, and the coterie is merely a m in or obstacle in his path to his eventual goal. Any actions he takes are not predicated on stopping the
 chronicle’s central characters; they are directed taking care of his own business. If the coterie interferes, too bad f or the m. ground work
 
 The first step is to figure out wh at the prime antagonist wants. A host of related questions spring from th at one. Wh at is he after, and why? Wh at will he do to obt a in th at goal, and how so on must he accomplish it? do es he serve a greater
 power (a higher-up in the Sabb at, or a superi or in the
-Inquisiti on) to who m he must report, and if so, wh at happens if he do esn’t make fast enough progress? Will he barg a in? The answers to the se and other, similar questions provide an operational framework f or you r prime antagonist’s actions. If
-you know how far he’s will ing to go and wh at he's striving f or, you'll at least have a handle on how he'll react to setbacks and triumphs — and wh at his next move is likely to be. You'll also want to figure out wh at you r nemesis is — his species, sect, beliefs, powers, authority and so on. A good rule of thumb is to take the most prominent features of the players’
-characters and invert them f or the nemesis. If you r troupe plays
+Inquisiti on) to who m he must report, and if so, wh at happens if he do esn’t make fast enough progress? Will he barg a in? The answers to the se and other, similar questions provide an operational framework f or your prime antagonist’s actions. If
+you know how far he’s will ing to go and wh at he's striving f or, you'll at least have a handle on how he'll react to setbacks and triumphs — and wh at his next move is likely to be. You'll also want to figure out wh at your nemesis is — his species, sect, beliefs, powers, authority and so on. A good rule of thumb is to take the most prominent features of the players’
+characters and invert them f or the nemesis. If your troupe plays
 
 The GUIDE 10 THE CAMARILL A acoterie of high-Humanity neonates seeking to restore their lost
 Humanity, an aged and amoral Tzimisce with a pack of hungry ghouls works well as an antagonist. This approach works on a general level as well — if the characters are sneaky, devioussorts, setting them up against a brute who relies on sheer f or ce to achieve his ends provides both contrast and a challenge. After
 all, if the characters’ usual bag of tricks is suddenly rendered ineffective, the coterie will need to try so me thing new — fast — or else risk ending up as ash on the wind. Also bear in mind th at the vill a in do esn’t necessarily see himself as a vill a in. Perhaps he has idealistic motivationsforhis
-actions. there is always the possibility th at you r villainis imit just f or personal g a in or power, but there’salso every chance th at he’s serving wh at he perceives to be a higher purpose. all owing you r nemesis character to believe, honestly and
+actions. there is always the possibility th at your villainis imit just f or personal g a in or power, but there’salso every chance th at he’s serving wh at he perceives to be a higher purpose. all owing your nemesis character to believe, honestly and
 in wh at he’s do ing c an add a fine ‘morales ae do ing so also cuts do wn on the amount of
 
-‘moustachio-twirling scenery chewing you r vill a in is likely to do— if he honestly
+‘moustachio-twirling scenery chewing your vill a in is likely to do— if he honestly
 ‘thing for the world, believes th at killing of f the coterie ig the best! he’s not likely to indulge in maniacal cackling, insane gloating or any of the other stereotypical “vill a in” behaviors th at limit his effectiveness and turn him in to a car to on. PLAvING THE DART
 
-It is imperative to remember th at you r prime antag Onist has a personality. He do es things f or, a-teas on. So when'the characters thwart one aspect of his plot, do n’t just strike back: with everything at his disposal. Instead, role play him, Get inside his head and consider how he’s going to reactnatufally. Is this setback a m in or annoyance? Or is it time f or the
+It is imperative to remember th at your prime antag Onist has a personality. He do es things f or, a-teas on. So when'the characters thwart one aspect of his plot, do n’t just strike back: with everything at his disposal. Instead, role play him, Get inside his head and consider how he’s going to reactnatufally. Is this setback a m in or annoyance? Or is it time f or the
 
 in themeanting, though, there needstobesomeone onstage. Someone needs to be confronting the coterie each sessi on, keeping them busy and stoking the flame of their dislike. Th at’s where henchmen come in (or ghouls, as the case may be). This approach, which works best when you throw evermore powerful subordin ate nemeses at the coterie, draws out the characters’ road to the fin al confrontati on. The best way to stretch the time between introducti on and climax, in
-many cases, is with encounters with the servants and henchmen of you r vill a in. After all, it's highly unlikely you r m a in lantagonist is going to be do ing all of his legwork himself, so grant him some hired help. Think about wh at sort of pers on he is, and wh at sort of servants he’s likely to have. A Sabb at
+many cases, is with encounters with the servants and henchmen of your vill a in. After all, it's highly unlikely your m a in lantagonist is going to be do ing all of his legwork himself, so grant him some hired help. Think about wh at sort of pers on he is, and wh at sort of servants he’s likely to have. A Sabb at
 archbishop has packs and other subordin ates to turn loose, while a hunter with True Faith likely has a flock of true believers who just might be will ing to die f or him. The next thing to consider is how the henchmen come in ontact with the coterie. Odds are low th at they'll wander
 
 Sup, introduce the mselves as The Vill a in’s Servants, and the n
 
-“proceedi to whip out the TEC-9s in best Hong Kong cinhammer to come do wn? If you r vill a in behaves believably, = you r plot becomes more believable as a result. [fhe reacts AS
-The Plot Demands, he'll seem contrived, and, eventually, so will you r chronicle. Let the story follow character, rather th an the other way around. You might even want to consider the archvill a in to be you r character in all of this, unless do ing so means th at the
-coterie is irrevocably do omed as a result. Otherwise, climb. inside his head the way you r players hop inside their characters, and play him to the hilt. HENCHMEN, HENCHWOMEN AND OTHERS
+“proceedi to whip out the TEC-9s in best Hong Kong cinhammer to come do wn? If your vill a in behaves believably, = your plot becomes more believable as a result. [fhe reacts AS
+The Plot Demands, he'll seem contrived, and, eventually, so will your chronicle. Let the story follow character, rather th an the other way around. You might even want to consider the archvill a in to be your character in all of this, unless do ing so means th at the
+coterie is irrevocably do omed as a result. Otherwise, climb. inside his head the way your players hop inside their characters, and play him to the hilt. HENCHMEN, HENCHWOMEN AND OTHERS
 
 No good archvill a in ever works alone. Even the most maniacal madm an needs henchmen to run errands, do the dirty work, take the fall f or plans gone awry, obt a in victims and so on. More to the point, it do esn’t make sense f or you to
 spend hours creating an interesting and well-drawn vill a in only to throw him in to a deathmatch with the coterie immediately. In a situati on like th at there’s no sense of dramatic tensi on, and no time f or the characters’ dislike of
-the vill a in to grow to the point where defeating him means so me thing to the m. If you r archvill a in appears on the stage too so on, he's an obstacle, not an object of hatred. You need totake time to stoke the characters’ loathing of their nemesis, and th at means holding him back until the moment is right. ematic fashi on. Rather, it makes more sense to have the
+the vill a in to grow to the point where defeating him means so me thing to the m. If your archvill a in appears on the stage too so on, he's an obstacle, not an object of hatred. You need totake time to stoke the characters’ loathing of their nemesis, and th at means holding him back until the moment is right. ematic fashi on. Rather, it makes more sense to have the
 
 “characters come across the henchmen busy running an un-
 ‘palatable err and f or their boss (say, staking a friend of the coterie) and put a stop to it, and the n disc over a connecti on to a “higher” power. Of course, th at sets the players up in
-‘oppositi on to you r archvill a in nicely, and he now has an excise tosend servitors of increasing power and importance aftetithem. they thwarred his will once, after all, which meansith at they need to be disposed of before they become a
-real thre at. The closer the characters get to their m a in antagonist, of course, the greater the power and resources of the henchmen th at said nemesis throws in their way, and the greater the challenge th at must be over come each time. do n’t make the mistake of having you r vill a in only
-employ one sort6fsubordnin ate. This is the modern er a, after all, and diversifieati on is the name of the game. Give you r vill a in more credit th an th at — and give you r players more of a challenge. Vary tactics and approaches. A street gang, a
-ghouled police precinct, a crazed (but do min ated) arsonist, blood bound childer —all of the se c an be part of you r vill a in’s arsenal. If the characters never know wh at to expect next, they c an’t pl an too far ahead — and c an’t get complacent. You might want to consider henchmen as personalities with are lationship to you r archvill a in as well. Are they just hired thugs and bound ghouls, or is there so me thing more? Did the vill a in send
-someone he cared about to work evil on the coterie? And ifso, how will he react to his subordin ate’s failure — or death? Making you r henchmen more well-rounded means th at you c an sp in more complete plots of f from their failures — and their successes. Foes F OR THE SECT
+‘oppositi on to your archvill a in nicely, and he now has an excise tosend servitors of increasing power and importance aftetithem. they thwarred his will once, after all, which meansith at they need to be disposed of before they become a
+real thre at. The closer the characters get to their m a in antagonist, of course, the greater the power and resources of the henchmen th at said nemesis throws in their way, and the greater the challenge th at must be over come each time. do n’t make the mistake of having your vill a in only
+employ one sort6fsubordnin ate. This is the modern er a, after all, and diversifieati on is the name of the game. Give your vill a in more credit th an th at — and give your players more of a challenge. Vary tactics and approaches. A street gang, a
+ghouled police precinct, a crazed (but do min ated) arsonist, blood bound childer —all of the se c an be part of your vill a in’s arsenal. If the characters never know wh at to expect next, they c an’t pl an too far ahead — and c an’t get complacent. You might want to consider henchmen as personalities with are lationship to your archvill a in as well. Are they just hired thugs and bound ghouls, or is there so me thing more? Did the vill a in send
+someone he cared about to work evil on the coterie? And ifso, how will he react to his subordin ate’s failure — or death? Making your henchmen more well-rounded means th at you c an sp in more complete plots of f from their failures — and their successes. Foes F OR THE SECT
 
 Some villains are more appropriate th an others f or a
 Camarill a chronicle. While the Sabb at is the obvious choice, it’s not the only one. Consider the following: TALES OF IMAGNATI ON AND MYSTERY: STORYTELLING e Other Kindred
 
 A rival with in the sect might be the ultimate enemy f or the coterie. The struggle f or advancement and power in the
-Camarill a c an get deadly at the drop of a h at, and placing you r vill a in inside the sect adds interesting complications to the coterie’s attempts to strike back. Perhaps the vill a in is an elder who wants the coterie elimin ated. Any move the
+Camarill a c an get deadly at the drop of a h at, and placing your vill a in inside the sect adds interesting complications to the coterie’s attempts to strike back. Perhaps the vill a in is an elder who wants the coterie elimin ated. Any move the
 characters make against him is going to look bad, and may well draw in therest of the sect to defend the antagonists. On the other h and, perhaps the “vill a in” is a rival coterie or individual vampire gunning f or power. The players’ characters are rivals, and thus they must be elimin ated. © Mortals
 
 Most humans who go vampire-hunting have the shelf life of a cold beer at a ballgame, which is to say practically none at all. Those few who survive, how ever, get very good indeed at wh at they do. Armed with faith, technology and
 just maybe A few supernatural powers of their own, top-flight mortal hunters should be sufficient to put the fear of God — literally, in some cases — in to any coterie. * The Sabb at
 
 The default enemy f or a Camarill a game is, of course, the
-Sabb at. Setting up you r ultimate vill a in as a higher-up in the
+Sabb at. Setting up your ultimate vill a in as a higher-up in the
 Sabb at all ows you to throw endless waves of neonates and angry packs at the coterie, raising the stakes each time. If the coterie simply tries to fend of f each attack, eventually they'll be overwhelmed. The only choices they have are to retre at, or to try to press f or ward and find their true enemy.. DEATH
 
 While death may be the end of all things f or an individual, it opens up new do or ways and opportunities in a Camarill a chronicle. When one of the Kindred meets the Fin al Death, suddenly her ghouls are masterless, her holdings are up f or grabs and her positi on in the city’s hierarchy is wide open. All of the se spell opportunity f or a coterie of ambitious young vampires. THe GRE AT CH A IN OF FEEDING
 
-One of the beauties of Vampire: The Masquerade is th at no matter how powerful the characters get or their rivals might be, there’s always someone more powerful squatting above them on the food ch a in. If you r coterie
-gets rid of you r h and-crafted vill a in too quickly, remember th at someone had to sire him —and th at sire may not be too happy about the way things turned out. You do n’t want to work you r way up the ladder of generations too quickly, lest you end up seemingly f or ced to trump all powerful player characters with Caine. (not e: If you r
+One of the beauties of Vampire: The Masquerade is th at no matter how powerful the characters get or their rivals might be, there’s always someone more powerful squatting above them on the food ch a in. If your coterie
+gets rid of your h and-crafted vill a in too quickly, remember th at someone had to sire him —and th at sire may not be too happy about the way things turned out. You do n’t want to work your way up the ladder of generations too quickly, lest you end up seemingly f or ced to trump all powerful player characters with Caine. (not e: If your
 chronicle gets to this point, scrap it and start over. Beings of such power are so far removed from hum an concerns th at roleplaying them becomes a the or etical exercise, not a game.) but remember th at you always have a bigger
-hammer at you r disposal. the n ag a in, the coterie may not be the only ones vying f or the deceased’s property and titles. The creati on of a sudden vacuum in the city’s power structure c an draw all those around it in to conflict, if not open war. Just because one
-of you r players’ characters wants to take over f or a recently deceased scourge or sheriff do esn’t me an th at he’s going to pull it of f — and the competiti on f or the job c an be deadly. DEATHAS A
+hammer at your disposal. the n ag a in, the coterie may not be the only ones vying f or the deceased’s property and titles. The creati on of a sudden vacuum in the city’s power structure c an draw all those around it in to conflict, if not open war. Just because one
+of your players’ characters wants to take over f or a recently deceased scourge or sheriff do esn’t me an th at he’s going to pull it of f — and the competiti on f or the job c an be deadly. DEATHAS A
 STORYTELLING TOOL
 
 Some storytellers shy away from using the Fin al Death in their chronicles. Killing a character of f is rather permanent, after all; once you scatter someone's ashes on the wind, odds are she’s gone f or ever. Th at sort of permanence c an be scary, as few Storytellers want to lose the services of a favorite character ad infinitum. Others see the death of a Storyteller character as so me thing to be gotten over with quickly. The victim dies, his
 ashes are swept up, and the universe rolls along with one less vampire in it. do ing so avoids messy complications, but it robs the Storyteller of one of the most versatile tools in her arsenal — the power of life and death. The ability and will ingness to kill of f characters, even
-important ones, is extremely useful to a good Storyteller. By sending a vampire (or even a familiar mortal or ghoul) in to the here after, you establish th at death is a real and potent part of you r world. The death of a character, even a m in or one, demonstrates th at there are consequences to foolish actions, and th at the price of failure is both very real and very high. Perhaps most importantly, once you demonstrate th at you are
+important ones, is extremely useful to a good Storyteller. By sending a vampire (or even a familiar mortal or ghoul) in to the here after, you establish th at death is a real and potent part of your world. The death of a character, even a m in or one, demonstrates th at there are consequences to foolish actions, and th at the price of failure is both very real and very high. Perhaps most importantly, once you demonstrate th at you are
 will ing to kill of fany character, from mortal to primogen, the characters know th at no one is safe — not even the m. HKICKSTARTING PLOT
 
 The death of a Storyteller character c an get a story rolling in any number of ways. Any vampire, whether of high status or low, has a place in the Camarill a. Killing th at vampire leaves a vacancy in th at place, and starts all of the
@@ -5928,26 +5928,26 @@ CONSEQUENCES
 
 F or every acti on, there is an equal and opposite reacti on. In similar fashi on, f or every acti on a vampire takes, there is a consequence. not hing happens in the Camarill a with out so me thing else being affected. A mortal is killed in a feeding? Perhaps his loved ones start supporting hunters. Maybe he was targeted f or the Embrace by an elder who, deprived of her
 childe, seeks vengeance. the n ag a in, the killing might break the M: ties after the unfortunate murderer. The point is th at everything in a Camarill a city is connected. Every acti on impacts the plans, plots and wishes of other Kindred, and they will react as a result. Vampires are
-not used to being thwarted or balked, and take steps to punish those who do so. Anything the characters do, from performing a fav or f or another Kindred to killing of f a favorite childe, has immediate and profound consequences in the world of the Camarill a. you r players should be aware of this, and you asquerade, sending both mortal and immortal authorishould be, too. Preventative Measures
+not used to being thwarted or balked, and take steps to punish those who do so. Anything the characters do, from performing a fav or f or another Kindred to killing of f a favorite childe, has immediate and profound consequences in the world of the Camarill a. your players should be aware of this, and you asquerade, sending both mortal and immortal authorishould be, too. Preventative Measures
 
-there are some steps you c an take to make sure th at the death of a character do esn’t cause out-of-game hard feelings in you r roleplaying group. © Warn you r players at the start of the chronicle th at character death is a real possibility, and reiterate
+there are some steps you c an take to make sure th at the death of a character do esn’t cause out-of-game hard feelings in your roleplaying group. © Warn your players at the start of the chronicle th at character death is a real possibility, and reiterate
 th at warning periodically. e When a character dies, make sure the killing do esn’t look vengeful. If the character has at least a small chance of escape, the player usually feels better about things. On the other h and, pulling a do zen Brujah
 bruisers out of the woodwork to finish the job of the first
 50 you sicced on the character reeks of a personal vendett a, and makes f or a bad situati on. ¢ If a character’s death seems likely or nigh-inevitable, talk with the player about it and get her input. Perhaps the character c an go out in spectacular or heroic fashi on, sacrificing herself to save the city. e Once a character dies, take some time to ch at things over with the deceased's player. Let him know
-th at you still want him in the group; it’s just th at his character is gone. On the other h and, do n’tuse character death as a way of letting a player know you want him gone. The mutilating effect this sort of thing has on you r
-plot thoroughly wrecks the game f or you r other players. ¢ Ifone player's character kills another, do n’t all ow a vendett a to start. Make sure th at there are no hard feelings between the players, and make sure th at the new character th at gets brought in is n’t gunning f or the old
+th at you still want him in the group; it’s just th at his character is gone. On the other h and, do n’tuse character death as a way of letting a player know you want him gone. The mutilating effect this sort of thing has on your
+plot thoroughly wrecks the game f or your other players. ¢ Ifone player's character kills another, do n’t all ow a vendett a to start. Make sure th at there are no hard feelings between the players, and make sure th at the new character th at gets brought in is n’t gunning f or the old
 one’s murderer “just as a coincidence.”
 
 GettinG Away W in It
 
-In truth, letting you r characters know th at there are repercussions to their actions is one of the most important things you c an do as a Storyteller. If the coterie breaks the
-Masquerade with aband on and not hing happens to the m, the n they're not going to worry about the Masquerade, At th at point, one of the tentpegs of you r chronicle’s tensi on gets uprooted. Instead, if the characters do so me thing “wrong” or
+In truth, letting your characters know th at there are repercussions to their actions is one of the most important things you c an do as a Storyteller. If the coterie breaks the
+Masquerade with aband on and not hing happens to the m, the n they're not going to worry about the Masquerade, At th at point, one of the tentpegs of your chronicle’s tensi on gets uprooted. Instead, if the characters do so me thing “wrong” or
 “foolish,” make sure they pay f or it. Th at do esn’t me an th at you should automatically waste every vampire who makes a m in or misstep. Rather, it means th at if the characters break the Masquerade, hunters or policemen should come sniffing
 around. they may not find the coterie, but they c an make life interesting f or a while. By the same token, breaking one of the
-Traditions should bring do wn theire of the local prince. If the prince do esn’t come do wn on characters who break his laws, the n he stops being an authority figure and becomes a car to on. By making cert a in to show you r players th at their characters will be held accountable f or wh at they do, you
-work to maint a in the integrity of both you r characters and you r chronicle. TALES OF IMAGin aTI ON AND Mysteny: STORYTELUING
+Traditions should bring do wn theire of the local prince. If the prince do esn’t come do wn on characters who break his laws, the n he stops being an authority figure and becomes a car to on. By making cert a in to show your players th at their characters will be held accountable f or wh at they do, you
+work to maint a in the integrity of both your characters and your chronicle. TALES OF IMAGin aTI ON AND Mysteny: STORYTELUING
 
-If you do not raise you r eyes, you will think you are the highest point
+If you do not raise your eyes, you will think you are the highest point
 
 — Antonio Porchi a, Voces
 
@@ -6127,8 +6127,8 @@ Also called “d on't Shit Where You E at.” Wh at little an anarch has is his,
 run in to someone's mortal relatives, be cool and act like a gentlem an (or lady, as the case may be). do n’t be an in consider ate guest — help out around a crash pad as much as you e quietly in the night if you think you're being aburden. In general, follow the Golden Rule. City Licks c an
 fuck each other over, but out of the highway, everyone needs to c an, and le a be able to depend on one another. © We're All In this to get her
 
-If you see an anarch in trouble, it’s you r solemn duty to help him out. Even if it’s you r worst enemy and you’d like not hing better th at to see him fry, kill him after you save him from the Sabb at or the scourge. If you c an c over up f or
-someone, even if you've never met him, c over up f or him. If you have to take the fall f or you r buddies, do it. Setting the precedent is the best way to ensure th at when you're in need, someone's going to be there to catch you. ‘Aus, Enenues Ano Omes
+If you see an anarch in trouble, it’s your solemn duty to help him out. Even if it’s your worst enemy and you’d like not hing better th at to see him fry, kill him after you save him from the Sabb at or the scourge. If you c an c over up f or
+someone, even if you've never met him, c over up f or him. If you have to take the fall f or your buddies, do it. Setting the precedent is the best way to ensure th at when you're in need, someone's going to be there to catch you. ‘Aus, Enenues Ano Omes
 
 ANARCHS INTERNATIONAL
 
@@ -6142,7 +6142,7 @@ Elders might be assholes, but th at do esn’t make the Masquerade any less of a
 mortal to his knees, do n’t wave it in the face of the c an aille. Mortals dress in eccentric fashions and do odd things in public all the time. Mortals do not publicly display fangs, one-inch claws and superhum an speed. Anarchs shouldn't either. * No Killing
 
 You'd think it wouldn't need to be stated, but it do es. kill in got her Kindred breedsblood-feuds, and th at’s bad enough to head of f the need f or explanati on. Killing mortals feeds the
-Beast, risks the Masquerade, pisses of f elders who have to c over up the murders and is generally impolite. How would you feel if you found someone had killed you r mortal friends and relatives? Everyone has to feed, but killing mortals with out need is dumb. AUTARRIS
+Beast, risks the Masquerade, pisses of f elders who have to c over up the murders and is generally impolite. How would you feel if you found someone had killed your mortal friends and relatives? Everyone has to feed, but killing mortals with out need is dumb. AUTARRIS
 
 The other maj or group of anarchs are the Autarkis. Some where between anarch, Caitiff and Inconnu, Autarks are vampires who become disgusted with the politics of
 Kindred society and simply drop out. The world is a big place, and a vampire who conscientiously avoids contact with other Kindred c an spend a very long time alone. Precisely when a vampire has become an
@@ -6240,7 +6240,7 @@ you walk on der rugs, and otherwise act like you's a civil creature, dey a in't 
 — Emil Wenkel, Cl an Gangrel
 
 Elders and princes are monsters. F or all they talk about civility and culture, you know wh at they're really do ing? they're sitting do wn in their basements, behind their walls of influence and servants. they grow their portfolios, they go to Elysium every
-week or month or year, and they nurse their ancient little grudges and wait to see who was sails and gets put do wn next. Wh at a way to spend eternity. Not th at riding you r motorcycle from city to city and partying is much of an improvement, but at least the scenery
+week or month or year, and they nurse their ancient little grudges and wait to see who was sails and gets put do wn next. Wh at a way to spend eternity. Not th at riding your motorcycle from city to city and partying is much of an improvement, but at least the scenery
 changes. there has to be more to our unlife th an this, or else we really are Damned. — Ellen Porter, Cl an Tremere
 
 I think you c an do it with out turning in to a monster. My friends and I have settled in to this choady little suburb-city, outside of Chicago. Laugh all you want — I me an, I never thought I'd want to live in a place with so many damn strip malls. But we run
@@ -6255,7 +6255,7 @@ Bloodbanker with a pattem. Crypt's Sons hooked us up with some laudanum, we do m
 who OM! Just like the Fourth of July! One less cop to whack when the time comes. —Charles “Chuck-E” Baines, Cl an Brujah
 
 It depends on the just i car and arch on, really. Petrod on was a serious nutjob, and his archons weren't much better. Some of them are pretty decent people, though. Just do n’t f or get they're cops. No matter how well you know one, or think you know one, you c an never really trust the m; they're cops first, and people
-second. It’s just like th at with archons, even the decent ones. The stupid ones, they're a p a in in the ass. The smart ones are mainly looking f or infernalists, Sabb at scouts, Setites — people you probably wouldn't mind seeing go away you rself. If you do n’t dick
+second. It’s just like th at with archons, even the decent ones. The stupid ones, they're a p a in in the ass. The smart ones are mainly looking f or infernalists, Sabb at scouts, Setites — people you probably wouldn't mind seeing go away yourself. If you do n’t dick
 around with the m, they'll usually just go play Mountie, get their m an, and th at’s th at. Be careful who you boo-yah. of fing the smart ones just makes the stupid ones look good, and killing any of them at all if you d on't have to just makes life hard f or anarchs
 every where
 
@@ -6274,18 +6274,18 @@ You just c an’t party with out the m. Wh at else need be said? — Reese Brigg
 We come in to contact with mortals a lot. Th at makes it do ubly important th at we maint a in the Masquerade — just because we're defying the authority of our sires do esn’t me an we're
 
 ALus, Newes ano OTHERS not responsible f or our actions. Not only do we have the most influence on the perceptions of the mortals, but we're always on trial. If we c an show th at we're responsible enough to be an asset
-to the Camarill a on our own, things will get a lot easier f or us. there's also a moral aspect — we're the people most likely to abuse mortals. We need ghouls to take care of our crash pads and havens. If we want to party, we need ghouls to do th at too. It’s simple to say to you rself, “Oh, well, I'm not do ing anything wrong.” But
-think about how easy itis f or a ghoul blood bound to you to decide they want to smoke crystal methamphetamine f or you. It’s not just a matter of self-interest; they love you with the passi on of tke blood. you r central nervous system will be fine afterward — you're dead. you r ghoul may not come out so well. Sure, you c an tum a couple of ghouls in to clapped-out junkies, and the blood will keep them going
-until they're older th an will iam S. Burroughs. But really, how much different do es th at make you from you r sire, in the end? — Meliss a Bens on, Cl an Brujah
+to the Camarill a on our own, things will get a lot easier f or us. there's also a moral aspect — we're the people most likely to abuse mortals. We need ghouls to take care of our crash pads and havens. If we want to party, we need ghouls to do th at too. It’s simple to say to yourself, “Oh, well, I'm not do ing anything wrong.” But
+think about how easy itis f or a ghoul blood bound to you to decide they want to smoke crystal methamphetamine f or you. It’s not just a matter of self-interest; they love you with the passi on of tke blood. your central nervous system will be fine afterward — you're dead. your ghoul may not come out so well. Sure, you c an tum a couple of ghouls in to clapped-out junkies, and the blood will keep them going
+until they're older th an will iam S. Burroughs. But really, how much different do es th at make you from your sire, in the end? — Meliss a Bens on, Cl an Brujah
 
 THe SABB AT
 
 Oh, yeah — dey’s crazy. Pois on religi on, jus’ like de snakehandl in’ and the speak in’ in tongues d at used to go on at de backwoods churches my daddy took me to. E at in’ fire, shar in} blood like dey's heathens, bury in’ demselves and liv in’ in graveyards. Dey's jus’ like backwoods people, ‘cept dey’s dead and. knows it. Give any smart one de frissons. F or now, I think J’m do in’ jus’ fine with out ‘em, t'ank you. — Emil Wenkel, Cl an Gangrel
 
 The Sabb at are rough customers. they stick to get her like brothers and if you kill one, they're worse th an cops. they're also usually pooras piss. they hate ghouls with a passi on, have no fear of fire and the s freney constantly. Th at means. you want to make the m-chase you in to
-ambushes, bum ‘em out during the day and kill them of fone at à time like a c at with mice so th at the ones left gét dumber and dumberas they. get hotter c an d hotter f or you r ass. Ok, and be ready to num like hellif it all goes wrongs because they are somé crazy motherfuckers. If you fuck with them wrong, they will w a aronend and bite you in the ass so fast you lL
+ambushes, bum ‘em out during the day and kill them of fone at à time like a c at with mice so th at the ones left gét dumber and dumberas they. get hotter c an d hotter f or your ass. Ok, and be ready to num like hellif it all goes wrongs because they are somé crazy motherfuckers. If you fuck with them wrong, they will w a aronend and bite you in the ass so fast you lL
 
-becallingf or animal control. Asifit needed sai, do n’ tever takeanything from one, do n’t ever believe anything one says, d on't ever tell one you r name or any informati on about you— even if you do n’ think they could possibly useit against you. Trustme, they will find away. Wharever you
+becallingf or animal control. Asifit needed sai, do n’ tever takeanything from one, do n’t ever believe anything one says, d on't ever tell one your name or any informati on about you— even if you do n’ think they could possibly useit against you. Trustme, they will find away. Wharever you
 do, d on't ever go any where with one, no matter wh at. —will iam V an Meter, Cl an Malkavi an
 
 THe INCONNU
@@ -6305,7 +6305,7 @@ nuke ‘em till dey glow, den shoot the hairy bastards in de dark
 
 — Emil Wenkel, Cl an Gangrel
 
-Ie’sreally hard to maint a in an objective view of a people who se who le purpose in life focuses on termin ating you r existence. I underst and th at some sects of the Lupines are genuinely likable people. Unfortunately, most of them are walking Cuisin arts, and
+Ie’sreally hard to maint a in an objective view of a people who se who le purpose in life focuses on termin ating your existence. I underst and th at some sects of the Lupines are genuinely likable people. Unfortunately, most of them are walking Cuisin arts, and
 you're the salad-to-be. waste them first, wonder if they remind
 "you of a childhood pet later. — Meliss a Bens on, Cl an Brujah
 
@@ -6317,7 +6317,7 @@ Masqtierade’s most potent symbology. they are rebellions you th personified, n
 
 “fhe Kindred and the Lupines or the Camarill a and the Sabb at, but it of fers a degree of emotional tensi on between the protagonists and antagonists th at c an easily vanish from a game built around a simple “us versus the m” conflict. Below are some ideas to help
 anovice player or Storyteller “get their head around” an anarch character f or a campaign. the se suggestions are by no means the entire range of possibilities f or an anarch game, but an assortment of possibilities. Storytellers should embroider up on them or add
-their own material, as they see fit. It is you r game, after all. PLAYING AN ANARCH
+their own material, as they see fit. It is your game, after all. PLAYING AN ANARCH
 
 On the surface, anarchs are the angry you th of Kindred society. they are like mortal you ths, but more so. From their point of view, their ideas and opinions are ignored By their elders, they're expected todo menial tasks below their dignity, and they're treated
 like the children they most certainly are not. Given th at most
@@ -6420,7 +6420,7 @@ members of the Camarill a share, but the Sabb at blossoms in different soil. It 
 blasphemes against the laws of the Camarill a, and tools and strategies honed in weary years of struggle with in those laws seem blunt and worthless in the firelight of the new anarchy. Even and especially f or the elder vampires, fear of the unknown other transcends hatred and fear of self. of course, the fear of the Sabb at is also a fear of the Beast
 with in the elder vampire herself. Every secret whim repressed as too risky, every f or bidden fantasy rejected as unsafe, every remembered privilege of malign power from the Dark Ages returns in the night on the whispers of the Sabb at’s seductive
 Reject the Masquerade and hunt freely. Reject the
-Traditions and flood the globe with Kindred. Turn you r back on the strictures of cl an and edicts of justicars. the se are the siren songs the Sabb at uses to destroy the will and sap theresolve of the Camarill a. If even the elders know do ubt and
+Traditions and flood the globe with Kindred. Turn your back on the strictures of cl an and edicts of justicars. the se are the siren songs the Sabb at uses to destroy the will and sap theresolve of the Camarill a. If even the elders know do ubt and
 feel temptati on deep with in their leathery hearts, the lure of the Sabb at must call even more seductively to the feckless c ancillae and empty-headed neonates. The Sabb at knows this, and dares to urge the childer on
 toblasphemous diablerie. Exposure to the contagi on runs the risk of epidemic, but quarantine fails with every night th at falls. Hordes of neonates shrieking f or a taste of vintage vitae, overwhelming the elders’ havens in the embodiment of the mob — this would be the price of failure. Fear oF HUNTERS
 
@@ -6653,7 +6653,7 @@ another fact or in the Camarill a’s impotence against the Sabb at and other cr
 
 A successful conspiracy resembles a magic trick. Distrac ti on and misdirecti on all ow it to go f or ward. No elder simply moves to do so me thing f or a pl a in and easily under stood reas on. The eldest of all strive never to show thereal reas on
 f or their actions. The Kindred of one city tell the story of a
-Ventrue elder arriving on the scene in time to save the unlife of the city’s prince from a Sabb at attack. The Ventrue shouted: “Fear not, sire, | am here to save the e!” The prince paused in his defense, and responded: “I see th at, you r
+Ventrue elder arriving on the scene in time to save the unlife of the city’s prince from a Sabb at attack. The Ventrue shouted: “Fear not, sire, | am here to save the e!” The prince paused in his defense, and responded: “I see th at, your
 lordship, but wh at is in it f or me?” Since th at Ventrue now rules the city, the questi on was a good one. Misdirecti on of ten involves a diversi on — an elder who plans to weaken a rival may throw a party, take up a new l over or evenstart an entirely different feud tocoverheractions. Attacking
 on one front to progress on a second is another comm on type of misdirecti on. An assault on a rival’s resources may actually be intended to goad the target in to lowering his own status by requesting a bo on from a seemingly disinterested party
 
@@ -6753,27 +6753,27 @@ Unlimited power'is apt to corrupt the minds of those who possess it. will iam Pi
 
 Directly portraying vampiric elders c an challenge both
 Storytellers and players. After all, very few roleplayers have
-‘ecenturiés of experience at intrigue, murder and court etiquette. Use the centfal tenets of paranoi a, spite, jealousy and the all importantsufface calm as you r touchstones. elders are unfeeling, but only in abad way. they embody corrupt power leashed in silk
+‘ecenturiés of experience at intrigue, murder and court etiquette. Use the centfal tenets of paranoi a, spite, jealousy and the all importantsufface calm as your touchstones. elders are unfeeling, but only in abad way. they embody corrupt power leashed in silk
 — predatory cats who g a in far more satisfacti on from playing
 with their victims th an from the act of consuming the m. PLbeRS AS STORYTELLER CHARACTERS
 
 ‘The most important fact or in playing an elder as Storyteller is eontrol. The elder always desires the app even (especially) if he is actually in a blind panicked funk over gome real or imagin ary thre at. Elders strive to keep control of
 the mselves, the conversati on, the flow of informati on and their networks of all ies and retainers. If the elder is at court, interrupt discussions with the characters as messengers deliver mysterious tidings, or with brief greetings to some other characters of higher
-Status th an the characters. If by some mischance a character scores a hit on an elder in conversati on or innuendo, respond cuttingly and end the conversati on. Elders do not get drawn in to lengthy catfights or playing the do zens with upstarts. Keep you r elders unfailingly courteous and polite, even when
-angry or vengeful. No elder will lose her sang-froid f or a coterie of fevenile riffraff. Keep you r dicti on elegant, you r poise controlled and you r phrasing exact. Save the full body of vampiric rage f or climactic scenes. If the characters see an elder angry, they should
+Status th an the characters. If by some mischance a character scores a hit on an elder in conversati on or innuendo, respond cuttingly and end the conversati on. Elders do not get drawn in to lengthy catfights or playing the do zens with upstarts. Keep your elders unfailingly courteous and polite, even when
+angry or vengeful. No elder will lose her sang-froid f or a coterie of fevenile riffraff. Keep your dicti on elegant, your poise controlled and your phrasing exact. Save the full body of vampiric rage f or climactic scenes. If the characters see an elder angry, they should
 remember it f or therest of their (most probably short) unlives. arance of control, While embodying cool, harnessed, sadistic power, how ever, it is important f or the Storyteller to remember th at the elderisonstage to increase player involvement in the chronicle. The elder’s role in the story is to advance the me, mood or plot, not to give the Storyteller a cheap ego trip at his players’ expense. Elders c an easily be over used. If the players are bored or resentful duringscenes with elders, heed their message. Keep
 
 ‘Awwis, ENewues ano Omir
 
 CREATING AN ELDER
 
-Elders do n’t spring who lly f or med like Athen a from the minds of their creators. they are characters with more back story and history th an most. Simply tossing an elder in to you r game with out context is a recipe f or
-disaster — there’s a gre at deal more to the se creatures th an just piles of Disciplines. When creating an elder, it pays to ask you rself the following questions about her: + How old is she? is she an Americ an elder, witness to a bare handful of centuries, or a relic from the days of Magn a Graeci a? The
+Elders do n’t spring who lly f or med like Athen a from the minds of their creators. they are characters with more back story and history th an most. Simply tossing an elder in to your game with out context is a recipe f or
+disaster — there’s a gre at deal more to the se creatures th an just piles of Disciplines. When creating an elder, it pays to ask yourself the following questions about her: + How old is she? is she an Americ an elder, witness to a bare handful of centuries, or a relic from the days of Magn a Graeci a? The
 answer says a gre at deal about the character's perspective
 — and how she'll react toward younger Kindred. * Where is she from? An elder Embraced in Bavari a at the height of the
 Reformati on is likely to have different values th an one who beg an her unlife in pre-Gre at Fire Lond on or Hannibal's
 Carthage. do n’t f or get to take culture and history in to account when thinking about how the elder reacts instinctively —the first lessons learned are the last to be f or gotten. * Where has she been? ‘Wh at has she experienced? Did she flee from the Inquisiti on personally, or did she spend the years of terr or hidden in torp or? Wh at other elders or famous figures has she met? Th at sort of thing tends to impress neonates, as well as providing
-handy reference points f or in-character reminiscences. there are other questions along the se lines th at c an be useful as well. Plotting out the elder’s enemies, putative all ies, preferences, quirks, childer and wh at not help fill in the gaps, and provides you with hooks on which to hang future stories. In the end, wh at you r elder’s Disciplines are, how many do ts she has in each Attribute and so on — all of the se things pale in importance when compared to figuring out who the elders. the elders in the shadows or across the sal on flo or. their actions
+handy reference points f or in-character reminiscences. there are other questions along the se lines th at c an be useful as well. Plotting out the elder’s enemies, putative all ies, preferences, quirks, childer and wh at not help fill in the gaps, and provides you with hooks on which to hang future stories. In the end, wh at your elder’s Disciplines are, how many do ts she has in each Attribute and so on — all of the se things pale in importance when compared to figuring out who the elders. the elders in the shadows or across the sal on flo or. their actions
 should conveyasense of mysterious menace, not overfamiliarity or pointless do min ance games held over the players’ heads. ELpeRS AS PLAYER CHARACTERS
 
 Players should pay attenti on to the roleplaying hints given above f or Storytellers if called up on to portray elders in a chronicle. The central the mes of control over laying jealousy, of corrupti on eating away at traditi on and of fear paralyzing power should be f or emost in any player's mind as
@@ -6783,7 +6783,7 @@ portraying the elder in the coterie, as a possible soluti on. Another soluti on 
 violence and Disciplines in Elysium c an redress the balance somewh at here, too) or high-tensi on threats involving maj or foes, how ever, an all-elder game c an be an exciting change from the endless round of manipulati on and shadow-boxing. Let the players take the roles of the primogen of the city; the Storyteller c an spend A few sessions letting them get a feel
 f or their new do m a in, exercising authority, judging salons, having nosy reporters or FBI agents killed with a languid wave of the h and to thirsty ancillae. the n, of course, the dread beast of politics rears its head. Cl an differences may impel the players in to maneuvering amongst the mselves. If the players
 do n’t take each other's betrayal and conspiracy personally, this nicely solves the Storyteller’s problem of thre at calibrati on. If the players prefer coterie unity, how ever, facing do wn the Sabb at presents more th an enough challenge. F or mystery, the Storyteller might send the elders after the
-Antediluvians; f or a more spiritual campaign, she could spotlight the blissful temptations of the Inconnu. Every elder harbors centuries of stories — why not you r chronicle, too? THe INCONNU there's a presence hovering over this city, watching. I c an feel
+Antediluvians; f or a more spiritual campaign, she could spotlight the blissful temptations of the Inconnu. Every elder harbors centuries of stories — why not your chronicle, too? THe INCONNU there's a presence hovering over this city, watching. I c an feel
 it when I walk the supposedly empty streets. I c an sense it when I'm in the mob at Elysium. And 1 c an almost hear its voice whispering to me in the early hours before dawn, just before I fall asleep. 1 think the voice tells me things, too, when I'm sleeping. It's indescribably old and sad, and it tells me stories from this town's not
 particularly illustrious history. | wake up everynight and there's another memory, another image of so me thing th at happened a hundred years ago, fading at the edges of my mind. there's no way I could possibly know wh at col or tie His Majesty was wearing when he staked out his
 sire, back in the year 1874, but I have the se visions, and ask around, and damned if I haven't seen the thing just as it happened. It scares me, I think. It scares me th at this presence, this power, has been watching the city f or so long, and it scares me th at now it's watching me. I'd like to think, in my more optimistic moments, th at it's watching me because it’s lonely, and wants to
@@ -6921,11 +6921,11 @@ observed. there is also only one Monit or per city. While Monitors-in-place do n
 STORYTELLING with the INCONNU
 
 While it may be tempting to drop one or two
-Methuselahs in to you rchronicle, just toshow uppity ancillae exactly how steep the World of Darkness’ power curve really is, a wise Storyteller refrains from do ing so. Familiarity breeds contempt, and the more times characters see a member of the Inconnu, the more the awe he should
+Methuselahs in to yourchronicle, just toshow uppity ancillae exactly how steep the World of Darkness’ power curve really is, a wise Storyteller refrains from do ing so. Familiarity breeds contempt, and the more times characters see a member of the Inconnu, the more the awe he should
 inspires diminishes. Once a b and of neonates — or even ancillae or elders — gets chummy with a member of the
 Inconnu, there’s no way to resurrect the impact this incredibly old, incredibly powerful and incredibly alien creature should have. Appearances by Inconnu should be rare, brief and telling — only matters of the gravest import should be able to coax one of the se vampiric recluses out of hiding. A better tack to take is to hint at Inconnu interest or
 interference — a shadowy observer here, an anonymous message there and above all an ominous sense of being observed. Above all, the sense of mystery the Inconnu project must be maintained, else they become just another
-set of powerful vampires/antagonists/mentors/wh at ever. Remember: The Inconnu have baffled the Camarill a f or five centuries and more. they should be able tohold you r players back from their secrets as well. been in place; Mahatm a of is tanbul is reasonably cert a in she has the longest tenure among current Monitors, but the n reflects th at
+set of powerful vampires/antagonists/mentors/wh at ever. Remember: The Inconnu have baffled the Camarill a f or five centuries and more. they should be able tohold your players back from their secrets as well. been in place; Mahatm a of is tanbul is reasonably cert a in she has the longest tenure among current Monitors, but the n reflects th at
 in her youth she feltsomehow discouraged from the ide a of taking up residence in at least three other cities. GHOULS
 
 My master loves me. I know this because he gives me his blood. He do les it out slowly, drop by drop, and he tells me to st and absolutely still while it drips on my tongue like liquid ecstasy. If I so much as move or make a sound he stops, and it’s worse th an torture having him take the blood away. Tknow he loves me because if he did n’t, he wouldn't spend the time to do th at f or me. He'd just leave a mas on jar full of his vitae
@@ -6968,7 +6968,7 @@ The second criteri on is talent. The Toread or and Ventrue
 (and on an entirely different level, the Nosferatu) are past masters at spotting the potential in a mortal who has not yet made hername, and plucking th at flower f or the mselves. there are also specific skills — accounting, computer literacy and the
 intricacies of modern law, just to name three — th at many
 Kindred find beyond their experience, and as such they look to hum an beings with the skill sets they need to handle those affairs. Such ghoulsare of ten left in place to pursue their normal lives, more or less, and are summoned By their masters only in
-need or to refresh the blood bond. It makes sense to do it th at way, after all — why pay to support a ghoul full-time when he c an be at you r beck and call 24/7 while still payinghis own way? Th at being said, there are any number of Kindred who d on't want their staff getting too far from the m. Ventrue, f or example, prefer to have cert a in ghouls with access to vital fin ancial
+need or to refresh the blood bond. It makes sense to do it th at way, after all — why pay to support a ghoul full-time when he c an be at your beck and call 24/7 while still payinghis own way? Th at being said, there are any number of Kindred who d on't want their staff getting too far from the m. Ventrue, f or example, prefer to have cert a in ghouls with access to vital fin ancial
 informati on kept on a very short leash. Such ghouls “disappear” from the mortal world (of ten with the able assistance of till other ghouls, who have performed this sort of extracti on before) and become immersed in the world of the Camarill a. The third, and least quantifiable, criteri on f or a Camarill a
 vampire ghouling someone is simply opportunity. A Toread or who sees a mortal too beautiful to pass up may ghoul her in lieu of Embracingher; a Nosferatu may ghoul termin ally ill vagrant out of pity and to create a debt of gratitude. Such ghouls rarely
 stick with their creators long, as the vampires tend totire of their creations of the moment rather quickly. Even the supposedly civilized vampires of the Camarill a have no qualms about destroying their ghouls if the ghouls provide unsatisfactory
@@ -6987,7 +6987,7 @@ blowtorch in h and — the ruck and run of the “half-bloods” are treated lik
 Just because someone is dead do esn’t me an th at she do esn’t have errands to run and m in or details to tend to. While trips to the DMV and the grocery store might be replaced by a run to the hardware store f or lightproofing supplies, the principle remains
 the same. there's too much to do, and only 12 hours a night to do it in. Th at means th at Camarill a vampires need someone to take care of the necessaries, and th at someone is inevitably a ghoul. Err and boy is actually a positi on of more trust th an one
 might think; a ghoul who brings back faulty materials f or rendering his mistress’ have n lightpro of is in a gre at deal of trouble — assuming his mistress survives the consequences of his mistake. Some particularly cautious Kindred even prefer to
-have systems of drop-of fs and package pickups f or their ghouls, thus lessening the chance th at an unobservant delivery ghoul might be followed back home. The Kindred also employ their ghouls f or carpentry and constructi on projects, rather th an trust outsiders. It is a far better thingto have you r boo by-traps and secret chambers constructed by
+have systems of drop-of fs and package pickups f or their ghouls, thus lessening the chance th at an unobservant delivery ghoul might be followed back home. The Kindred also employ their ghouls f or carpentry and constructi on projects, rather th an trust outsiders. It is a far better thingto have your boo by-traps and secret chambers constructed by
 those who love and trust you absolutely. After all, there is no such thingas a truly independent contract or in the World of Darkne: Pe Rson at ATTENDANCE
 
 Toread or aren't the only v a in vampires, and it is n’t just the
@@ -7007,7 +7007,7 @@ Ventrue many precious hours, and may well be rewarded f or such. how ever, it is
 the danger th at too-competent help represents. WETWORK AND Dirty Deeps
 
 The vampires of the Camarill a d on't like to risk their immortal necks, which means when there’s a possibility th at they'll get hurt, they try to send in the ghouls instead. The philosophy is n’t quite as callous as it seems; a trained group of
-ghouls should be able to handle any mortal thre at and a fair number of supernatural ones as well. A single ghoul may or may not be the equal of a vampire (though in a tussle between an experienced ghoul and a neonate, it pays to put you r money on
+ghouls should be able to handle any mortal thre at and a fair number of supernatural ones as well. A single ghoul may or may not be the equal of a vampire (though in a tussle between an experienced ghoul and a neonate, it pays to put your money on
 the mortal), but four heavily armed and practiced ghouls c an extract a troublesome anarch from a crowded restaurant with a minimum of mess and bloodshed. Ghouls also make the perfect agents f or more stereotypical intimidati on techniques, as wellas
 f or taking out unsuspecting hunters. The average field Inquisit or isn't necessarily looking f or an enemy who breathes, after all. When wartime comes, how ever, things get more serious. The Sabb at’s gre at advantage is in the sheer number of vampires they c an bring to the fight; ghouls are the Camarill a's only hope of countering th at weap on. Hopefully, the number of mortals the
 Camarill a throws in to the line c an stem the assault’s tide, buying the Kindred the time they need to mount their otherdefenses. On a more macabre not e, if the worst happens, dead ghouls in the street are much less of a thre at to the Masquerade th an dead
