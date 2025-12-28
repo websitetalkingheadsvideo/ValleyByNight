@@ -508,9 +508,90 @@ function editItem(itemId) {
     }
 }
 
+// Get backup icon URL based on item type
+function getItemBackupIcon(itemType) {
+    if (!itemType) return null;
+    const typeMap = {
+        'Weapon': 'weapon-icon.svg',
+        'Armor': 'armor-icon.svg',
+        'Tool': 'tool-icon.svg',
+        'Consumable': 'consumable-icon.svg',
+        'Artifact': 'artifact-icon.svg',
+        'Misc': 'misc-icon.svg'
+    };
+    const iconFile = typeMap[itemType] || 'misc-icon.svg';
+    const pathPrefix = typeof PATH_PREFIX !== 'undefined' ? PATH_PREFIX : '../';
+    return pathPrefix + 'images/Item%20Icons/' + iconFile;
+}
+
+// Format requirements JSON as HTML
+function formatRequirements(requirements) {
+    if (!requirements) {
+        return '<p style="margin-top: 5px; color: #b8a090;">None</p>';
+    }
+    
+    let reqObj;
+    try {
+        // Parse if it's a string
+        if (typeof requirements === 'string') {
+            reqObj = JSON.parse(requirements);
+        } else {
+            reqObj = requirements;
+        }
+    } catch (e) {
+        // If parsing fails, return as-is
+        return '<p style="margin-top: 5px; color: #b8a090;">Invalid requirements data</p>';
+    }
+    
+    if (!reqObj || typeof reqObj !== 'object' || Object.keys(reqObj).length === 0) {
+        return '<p style="margin-top: 5px; color: #b8a090;">None</p>';
+    }
+    
+    let html = '<ul style="margin-top: 5px; margin-bottom: 0; padding-left: 20px; color: #d4c4b0;">';
+    for (const [key, value] of Object.entries(reqObj)) {
+        const keyFormatted = escapeHtml(String(key).charAt(0).toUpperCase() + String(key).slice(1));
+        const valueFormatted = escapeHtml(String(value));
+        html += `<li><strong>${keyFormatted}:</strong> ${valueFormatted}</li>`;
+    }
+    html += '</ul>';
+    
+    return html;
+}
+
 function viewItem(itemId) {
     const item = allItems.find(i => i.id == itemId);
     if (!item) return;
+    
+    // Build image HTML with fallback
+    const pathPrefix = typeof PATH_PREFIX !== 'undefined' ? PATH_PREFIX : '../';
+    const hasImage = !!(item.image && item.image.trim());
+    const imageUrl = hasImage ? (pathPrefix + 'uploads/Items/' + escapeHtml(item.image)) : null;
+    const fallbackUrl = getItemBackupIcon(item.type);
+    
+    let imageHtml = '';
+    if (imageUrl || fallbackUrl) {
+        const finalUrl = imageUrl || fallbackUrl;
+        imageHtml = `
+            <div class="item-image-wrapper">
+                <div class="item-image-media">
+                    ${imageUrl ? `
+                        <img src="${imageUrl}" 
+                             class="item-image img-fluid" 
+                             alt="${escapeHtml(item.name)}"
+                             onerror="this.classList.add('d-none'); this.nextElementSibling.classList.remove('d-none');">
+                    ` : ''}
+                    ${fallbackUrl ? `
+                        <img src="${fallbackUrl}" 
+                             class="item-image item-image-fallback img-fluid ${imageUrl ? 'd-none' : ''}" 
+                             alt="${escapeHtml(item.name)} (${escapeHtml(item.type)})">
+                    ` : ''}
+                    ${!imageUrl && !fallbackUrl ? `
+                        <div class="item-image-placeholder">No Image</div>
+                    ` : ''}
+                </div>
+            </div>
+        `;
+    }
     
     const content = `
         <div class="info-grid">
@@ -523,11 +604,21 @@ function viewItem(itemId) {
                 <p><strong>Price:</strong> $${parseInt(item.price).toLocaleString()}</p>
             </div>
             <div>
+                ${imageHtml}
+            </div>
+        </div>
+        <div class="info-grid">
+            <div>
                 <h3>Combat Stats</h3>
                 <p><strong>Damage:</strong> ${escapeHtml(item.damage || 'N/A')}</p>
                 <p><strong>Range:</strong> ${escapeHtml(item.range || 'N/A')}</p>
-                <p><strong>Requirements:</strong></p>
-                <pre style="background: rgba(139, 0, 0, 0.2); padding: 10px; border-radius: 4px; margin-top: 5px;">${item.requirements ? JSON.stringify(item.requirements, null, 2) : 'None'}</pre>
+                <div>
+                    <strong>Requirements:</strong>
+                    ${formatRequirements(item.requirements)}
+                </div>
+            </div>
+            <div>
+                <!-- Empty column for alignment -->
             </div>
         </div>
         <div>
@@ -538,12 +629,6 @@ function viewItem(itemId) {
         <div>
             <h3>Notes</h3>
             <p>${escapeHtml(item.notes)}</p>
-        </div>
-        ` : ''}
-        ${item.image ? `
-        <div>
-            <h3>Image</h3>
-            <img src="../uploads/items/${escapeHtml(item.image)}" alt="${escapeHtml(item.name)}" style="max-width: 200px; border-radius: 4px;" onerror="this.style.display='none';">
         </div>
         ` : ''}
     `;

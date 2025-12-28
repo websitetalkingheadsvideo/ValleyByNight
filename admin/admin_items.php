@@ -362,6 +362,7 @@ const allCharactersForItems = <?php echo json_encode($all_characters); ?>;
     const allCharacters = <?php echo json_encode($all_characters); ?>;
     const itemTypes = <?php echo json_encode($item_types); ?>;
     const itemCategories = <?php echo json_encode($item_categories); ?>;
+    const PATH_PREFIX = <?php echo json_encode($path_prefix); ?>;
 </script>
 
 <!-- Include the external JavaScript file -->

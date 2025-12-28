@@ -1,6 +1,27 @@
 # Version History
 
-## Current Version: 0.9.4
+## Current Version: 0.9.5
+
+**Date:** 2025-01-30  
+**Type:** Patch (Admin Items view modal: item image display and requirements formatting)
+
+### Changes:
+- **Item Image Display** - Added item image to Basic Information section in view modal
+  - Image displays in right column, aligned with Basic Information text fields
+  - Uses same styling as character portraits (gold border, radial gradient background, square aspect ratio)
+  - Automatic fallback to type-specific icons when item image is missing
+  - Created 6 backup icon SVGs: Weapon, Armor, Tool, Consumable, Artifact, Misc
+  - Icons stored in `images/Item Icons/` directory with gothic-themed designs
+- **Requirements Formatting** - Converted requirements from raw JSON to formatted HTML list
+  - Requirements now display as bulleted list with capitalized keys
+  - Shows "None" when no requirements exist
+  - Handles both JSON string and object formats gracefully
+- **Layout Improvements** - Restructured view modal layout
+  - Basic Information (Name, Type, Category, Rarity, Price) in left column
+  - Item image in right column, aligned with Basic Information
+  - Combat Stats section in second row
+
+## Previous Version: 0.9.4
 
 **Date:** 2025-01-30  
 **Type:** Patch (Admin Items page enhancements: fullscreen modal support and image upload functionality)
