@@ -78,7 +78,7 @@ $current_page = basename($_SERVER['PHP_SELF']);
     <script src="<?php echo $path_prefix; ?>js/form_validation.js"></script>
     <script src="<?php echo $path_prefix; ?>js/modal_a11y.js"></script>
 </head>
-<body>
+<body<?php echo isset($body_class) ? ' class="' . htmlspecialchars($body_class) . '"' : ''; ?>>
 <a class="visually-hidden-focusable" href="#main-content">Skip to main content</a>
 <div class="page-wrapper">
     <header class="valley-header">

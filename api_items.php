@@ -14,6 +14,14 @@ if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
 
 require_once __DIR__ . '/includes/connect.php';
 
+if (!$conn) {
+    echo json_encode([
+        'success' => false,
+        'error' => 'Database connection failed'
+    ]);
+    exit();
+}
+
 try {
     $query = "SELECT * FROM items ORDER BY name ASC";
     $result = mysqli_query($conn, $query);

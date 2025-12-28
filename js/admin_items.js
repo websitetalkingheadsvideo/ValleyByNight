@@ -13,10 +13,15 @@ let currentTypeFilter = 'all';
 let currentRarityFilter = 'all';
 let currentSearchTerm = '';
 let currentItemId = null;
+let itemsLoaded = false;
 
 // Initialize on page load
 document.addEventListener('DOMContentLoaded', function() {
     initializeEventListeners();
+    // Initialize sort listeners after a small delay to ensure headers are fully loaded
+    setTimeout(() => {
+        initializeSortListeners();
+    }, 100);
     loadItems();
 });
 
@@ -68,24 +73,111 @@ function initializeEventListeners() {
     document.getElementById('itemForm').addEventListener('submit', handleFormSubmit);
 }
 
+function initializeSortListeners() {
+    // Add sorting event listeners to headers (only once, using event delegation)
+    const table = document.getElementById('itemsTable');
+    if (!table) return;
+    
+    const thead = table.querySelector('thead');
+    if (!thead) return;
+    
+    // Store original header content to prevent accidental clearing
+    const headers = thead.querySelectorAll('th[data-sort]');
+    headers.forEach(th => {
+        if (!th.dataset.originalContent) {
+            // Store both innerHTML and textContent for comparison
+            th.dataset.originalContent = th.innerHTML;
+            th.dataset.originalText = th.textContent.trim();
+        }
+    });
+    
+    // Use event delegation on thead to handle clicks
+    thead.addEventListener('click', function(e) {
+        const th = e.target.closest('th[data-sort]');
+        if (!th) return;
+        
+        // Prevent default if needed
+        e.preventDefault();
+        e.stopPropagation();
+        
+        const column = th.dataset.sort;
+        
+        if (currentSort.column === column) {
+            currentSort.direction = currentSort.direction === 'asc' ? 'desc' : 'asc';
+        } else {
+            currentSort.column = column;
+            currentSort.direction = 'asc';
+        }
+
+        // Update sort indicators - ONLY classes, never content
+        const allHeaders = document.querySelectorAll('#itemsTable th[data-sort]');
+        allHeaders.forEach(h => {
+            // Only remove/add classes, preserve content
+            h.classList.remove('sorted-asc', 'sorted-desc');
+            
+            // Restore original content if header text is missing (only sort icon remains)
+            if (h.dataset.originalContent) {
+                const textContent = h.textContent.trim();
+                const hasOnlySortIcon = textContent === '⇅' || textContent === '▲' || textContent === '▼' || textContent.length === 0;
+                if (hasOnlySortIcon) {
+                    h.innerHTML = h.dataset.originalContent;
+                }
+            }
+        });
+        th.classList.add(`sorted-${currentSort.direction}`);
+
+        sortItems();
+        renderTable();
+    });
+}
+
 async function loadItems() {
+    console.log('loadItems() called');
     try {
-        const response = await fetch('api_items.php');
+        const response = await fetch('../api_items.php');
+        console.log('API response status:', response.status);
         const data = await response.json();
+        console.log('API response data:', data);
         
         if (data.success) {
-            allItems = data.items;
+            allItems = Array.isArray(data.items) ? data.items : [];
+            console.log('Loaded items count:', allItems.length);
+            itemsLoaded = true;
             applyFilters();
         } else {
+            console.error('API returned error:', data.error);
             showNotification('Failed to load items: ' + data.error, 'error');
+            allItems = [];
+            filteredItems = [];
+            renderTable();
         }
     } catch (error) {
         console.error('Error loading items:', error);
         showNotification('Failed to load items', 'error');
+        allItems = [];
+        applyFilters();
     }
 }
 
 function applyFilters() {
+    // Don't filter if items haven't loaded yet
+    if (!itemsLoaded) {
+        console.log('applyFilters() called before items loaded, skipping');
+        return;
+    }
+    
+    if (!Array.isArray(allItems)) {
+        allItems = [];
+    }
+    
+    // Don't filter if we have no items yet
+    if (allItems.length === 0) {
+        filteredItems = [];
+        renderTable();
+        renderPagination();
+        return;
+    }
+    
     filteredItems = allItems.filter(item => {
         // Type filter
         if (currentFilter !== 'all') {
@@ -120,6 +212,9 @@ function applyFilters() {
 }
 
 function sortItems() {
+    if (!Array.isArray(filteredItems) || filteredItems.length === 0) {
+        return;
+    }
     filteredItems.sort((a, b) => {
         let aVal = a[currentSort.column];
         let bVal = b[currentSort.column];
@@ -146,26 +241,34 @@ function sortItems() {
 
 function renderTable() {
     const tbody = document.querySelector('#itemsTable tbody');
+    if (!tbody) {
+        console.error('CRITICAL: #itemsTable tbody not found!');
+        return;
+    }
+    
+    if (!Array.isArray(filteredItems)) {
+        filteredItems = [];
+    }
+    
     const startIndex = (currentPage - 1) * itemsPerPage;
     const endIndex = startIndex + itemsPerPage;
     const pageItems = filteredItems.slice(startIndex, endIndex);
 
     if (pageItems.length === 0) {
-        tbody.innerHTML = '<tr><td colspan="10" class="empty-state">No items found.</td></tr>';
+        tbody.innerHTML = '<tr><td colspan="9" class="empty-state">No items found.</td></tr>';
         return;
     }
 
     tbody.innerHTML = pageItems.map(item => `
         <tr class="item-row" data-type="${item.type.toLowerCase()}" data-rarity="${item.rarity}">
             <td>${item.id}</td>
-            <td><strong>${escapeHtml(item.name)}</strong></td>
+            <td data-full-name="${escapeHtml(item.name)}"><strong>${escapeHtml(item.name)}</strong></td>
             <td><span class="badge-${getTypeClass(item.type)}">${escapeHtml(item.type)}</span></td>
-            <td>${escapeHtml(item.category)}</td>
+            <td title="${escapeHtml(item.category)}">${escapeHtml(item.category)}</td>
             <td>${escapeHtml(item.damage || 'N/A')}</td>
-            <td>${escapeHtml(item.range || 'N/A')}</td>
+            <td title="${escapeHtml(item.range || 'N/A')}">${escapeHtml(item.range || 'N/A')}</td>
             <td><span class="badge-${item.rarity}">${escapeHtml(item.rarity)}</span></td>
             <td>$${parseInt(item.price).toLocaleString()}</td>
-            <td>${formatDate(item.created_at)}</td>
             <td class="actions">
                 <button class="action-btn view-btn" onclick="viewItem(${item.id})" title="View Item">👁️</button>
                 <button class="action-btn edit-btn" onclick="editItem(${item.id})" title="Edit Item">✏️</button>
@@ -175,27 +278,28 @@ function renderTable() {
         </tr>
     `).join('');
 
-    // Add sorting event listeners
-    document.querySelectorAll('#itemsTable th[data-sort]').forEach(th => {
-        th.addEventListener('click', function() {
-            const column = this.dataset.sort;
-            
-            if (currentSort.column === column) {
-                currentSort.direction = currentSort.direction === 'asc' ? 'desc' : 'asc';
-            } else {
-                currentSort.column = column;
-                currentSort.direction = 'asc';
+    // Update sort indicators on current column - ONLY modify classes, preserve content
+    const allHeaders = document.querySelectorAll('#itemsTable th[data-sort]');
+    allHeaders.forEach(h => {
+        // Only remove/add classes, never modify content
+        h.classList.remove('sorted-asc', 'sorted-desc');
+        
+        // Restore original content if header text is missing (only sort icon remains)
+        if (h.dataset.originalContent && h.dataset.originalText) {
+            const currentText = h.textContent.trim();
+            const originalText = h.dataset.originalText;
+            // Check if current text is significantly shorter than original (missing the label)
+            // Original should be like "ID ⇅" or "Name ⇅", if it's just "⇅" or empty, restore it
+            const sortIconOnly = currentText === '⇅' || currentText === '▲' || currentText === '▼';
+            const textMissing = currentText.length < originalText.length * 0.3; // Less than 30% of original length
+            if (sortIconOnly || textMissing) {
+                h.innerHTML = h.dataset.originalContent;
             }
-
-            // Update sort indicators
-            document.querySelectorAll('#itemsTable th').forEach(h => {
-                h.classList.remove('sorted-asc', 'sorted-desc');
-            });
-            this.classList.add(`sorted-${currentSort.direction}`);
-
-            sortItems();
-            renderTable();
-        });
+        }
+        
+        if (h.dataset.sort === currentSort.column) {
+            h.classList.add(`sorted-${currentSort.direction}`);
+        }
     });
 }
 
