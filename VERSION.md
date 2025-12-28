@@ -1,6 +1,23 @@
 # Version History
 
-## Current Version: 0.9.3
+## Current Version: 0.9.4
+
+**Date:** 2025-01-30  
+**Type:** Patch (Admin Items page enhancements: fullscreen modal support and image upload functionality)
+
+### Changes:
+- **Fullscreen Modal Support** - Added fullscreen toggle functionality to items modal
+  - Integrated modal_fullscreen.css for consistent fullscreen behavior
+  - Added fullscreen button with expand/compress icon to item modal header
+  - Enhanced modal header layout with button grouping
+- **Item Image Upload System** - Changed image input from URL to filename-based system
+  - Updated image field from URL input to filename input with uploads/Items/ directory reference
+  - Added helper text explaining image file location
+  - Added "The Ashur Tablets.png" item image to uploads/Items/ directory
+- **Rarity Options** - Added "Very Rare" rarity option to item creation form
+  - Expanded rarity dropdown to include Very Rare between Rare and Epic
+
+## Previous Version: 0.9.3
 
 **Date:** 2025-12-28  
 **Type:** Patch (Admin Items page Bootstrap 5.3.2 refactoring and table styling improvements)

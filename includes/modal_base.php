@@ -37,7 +37,12 @@ $labelId = $modalId . 'Label';
         <div class="modal-content vbn-modal-content">
             <div class="modal-header vbn-modal-header">
                 <h5 class="modal-title vbn-modal-title" id="<?php echo htmlspecialchars($labelId); ?>"></h5>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                <div class="d-flex align-items-center gap-2 ms-auto">
+                    <button type="button" class="btn btn-sm btn-outline-light modal-fullscreen-btn" id="<?php echo htmlspecialchars($modalId); ?>FullscreenBtn" title="Toggle Fullscreen" aria-label="Toggle Fullscreen">
+                        <i class="fas fa-expand modal-fullscreen-icon"></i>
+                    </button>
+                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
             </div>
             <div class="modal-body vbn-modal-body"></div>
             <div class="modal-footer vbn-modal-footer"></div>
