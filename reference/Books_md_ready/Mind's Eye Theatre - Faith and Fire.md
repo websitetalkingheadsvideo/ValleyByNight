@@ -8,7 +8,7 @@ Faith and Fire is therevised edition of the Long Night, based on Dark Ages: Vamp
 
 ## PRELUDE: To Che ViacoR, The SPOILS
 
-Hauknefr twisted his blade roughly, and the body before him crumpledto thegroud with aflickof thetptohisreadystance, hpu to survey the bloodiedbattlefeld. It was silent for the moment, barring the sound of the waves that crashed almost to his feet. their eternal rumbling had masked the cries of the guards as they fell. "Every one of them that you kill is one less than I can question," his companion said. Paulo had a survivor held in his gaze, his will locked firmly about the soldier's mind. His left hand coilcd about the soldier's throat, and his right index finger idly twisted a strand of his carefully curled hair."Tidy up after you rself, if you would be so kind."
+Hauknefr twisted his blade roughly, and the body before him crumpledto thegroud with aflickof thetptohisreadystance, hpu to survey the bloodiedbattlefeld. It was silent for the moment, barring the sound of the waves that crashed almost to his feet. their eternal rumbling had masked the cries of the guards as they fell. "Every one of them that you kill is one less than I can question," his companion said. Paulo had a survivor held in his gaze, his will locked firmly about the soldier's mind. His left hand coilcd about the soldier's throat, and his right index finger idly twisted a strand of his carefully curled hair."Tidy up after yourself, if you would be so kind."
 
 "That's the last of mine," he grunted, turning to look at his companion."Are you fin-— Must you play with the m?"
 
@@ -24,8 +24,8 @@ Hauknefr grunted, the n rubbed false warmth into hishands. Gripping the rope Pau
 
 "Indeedhe might, so we shall keephim this way until we have the information we want,"Paulo sneered."Alright, Hauknefr. What now?"
 
-"Suspect and try to steal our glory," Paulo added."the yll find out eventually, "You're too focused on you rself, and not enough on the mission"
+"Suspect and try to steal our glory," Paulo added."the yll find out eventually, "You're too focused on yourself, and not enough on the mission"
 
 Asthetwoxchangedplansandbarbrigoriat tonesid, layingagae inhis ind. Heenvisionedhisplaceinhisworldas ajunctureonaspider'sweband lokedut ginradadnahwant can it local, some disant. Each had sothing tooffr hm, and ach posd a thrat. Sometadstdixt, dfphisa
 
-"don't presume that 'm as blind as you are. You sall along on you r ignorant path of selfrighteousobility, but yoreblind!A Cainitsurviveson hisrputa tion. This will make mine. It could make you rs as wellif you would only let it"
+"don't presume that 'm as blind as you are. You sall along on your ignorant path of selfrighteousobility, but yoreblind!A Cainitsurviveson hisrputa tion. This will make mine. It could make yours as wellif you would only let it"

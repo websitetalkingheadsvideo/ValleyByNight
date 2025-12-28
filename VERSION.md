@@ -1,6 +1,20 @@
 # Version History
 
-## Current Version: 0.9.0
+## Current Version: 0.9.1
+
+**Date:** 2025-01-30  
+**Type:** Patch (Reference book spacing fixes and formatting improvements)
+
+### Changes:
+- **Reference Book Spacing Fixes** - Fixed spacing issues in 42 reference markdown files
+  - Applied automated spacing corrections to all reference books in Books_md_ready directory
+  - Fixed missing spaces after punctuation (semicolons, colons, commas, periods)
+  - Corrected concatenated phrases and common game terminology spacing issues
+  - Preserved markdown formatting (headers, structure intact)
+  - Total of 5,538 insertions and 5,297 deletions across reference files
+  - Files updated include: Anarch Guide, Apocalypse, Guide to the Camarilla, Laws of Ascension series, Laws of the Night, and all Journal entries
+
+## Previous Version: 0.9.0
 
 **Date:** 2025-01-30  
 **Type:** Minor (Nature/Demeanor database lookup table and character creation form updates)
