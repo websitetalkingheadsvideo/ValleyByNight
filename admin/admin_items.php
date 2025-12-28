@@ -7,7 +7,7 @@
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
-define('LOTN_VERSION', '0.2.2');
+// Version managed in includes/version.php
 session_start();
 
 if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
@@ -16,7 +16,8 @@ if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
 }
 
 require_once __DIR__ . '/../includes/connect.php';
-$extra_css = ['css/modal.css'];
+$extra_css = ['css/admin_items.css', 'css/modal.css'];
+$body_class = 'admin-items-page';
 include __DIR__ . '/../includes/header.php';
 
 // Get items statistics
@@ -56,7 +57,7 @@ while ($char = $characters_result->fetch_assoc()) {
 }
 ?>
 
-<div class="container-fluid py-4 px-3 px-md-4">
+<div class="container-fluid py-4 px-3 px-md-4 d-flex flex-column h-100">
     <h1 class="display-5 text-light fw-bold mb-1">⚔️ Items Database Management</h1>
     <p class="lead text-light fst-italic mb-4">Manage items database and assign equipment to characters</p>
     
@@ -84,7 +85,7 @@ while ($char = $characters_result->fetch_assoc()) {
     
     <!-- Items Statistics -->
     <div class="row g-3 mb-4">
-        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+        <div class="col-12 col-sm-6 col-md-4 col-lg-2">
             <div class="card text-center">
                 <div class="card-body">
                     <div class="vbn-stat-number"><?php echo $stats['total'] ?? 0; ?></div>
@@ -92,7 +93,7 @@ while ($char = $characters_result->fetch_assoc()) {
                 </div>
             </div>
         </div>
-        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+        <div class="col-12 col-sm-6 col-md-4 col-lg-2">
             <div class="card text-center">
                 <div class="card-body">
                     <div class="vbn-stat-number"><?php echo $stats['weapons'] ?? 0; ?></div>
@@ -100,7 +101,7 @@ while ($char = $characters_result->fetch_assoc()) {
                 </div>
             </div>
         </div>
-        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+        <div class="col-12 col-sm-6 col-md-4 col-lg-2">
             <div class="card text-center">
                 <div class="card-body">
                     <div class="vbn-stat-number"><?php echo $stats['armor'] ?? 0; ?></div>
@@ -108,7 +109,7 @@ while ($char = $characters_result->fetch_assoc()) {
                 </div>
             </div>
         </div>
-        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+        <div class="col-12 col-sm-6 col-md-4 col-lg-2">
             <div class="card text-center">
                 <div class="card-body">
                     <div class="vbn-stat-number"><?php echo $stats['tools'] ?? 0; ?></div>
@@ -116,7 +117,7 @@ while ($char = $characters_result->fetch_assoc()) {
                 </div>
             </div>
         </div>
-        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+        <div class="col-12 col-sm-6 col-md-4 col-lg-2">
             <div class="card text-center">
                 <div class="card-body">
                     <div class="vbn-stat-number"><?php echo $stats['consumables'] ?? 0; ?></div>
@@ -124,7 +125,7 @@ while ($char = $characters_result->fetch_assoc()) {
                 </div>
             </div>
         </div>
-        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+        <div class="col-12 col-sm-6 col-md-4 col-lg-2">
             <div class="card text-center">
                 <div class="card-body">
                     <div class="vbn-stat-number"><?php echo $stats['artifacts'] ?? 0; ?></div>
@@ -185,7 +186,7 @@ while ($char = $characters_result->fetch_assoc()) {
     </div>
 
     <!-- Items Table -->
-    <div class="table-responsive rounded-3">
+    <div class="table-responsive rounded-3 flex-fill" style="min-height: 200px;">
         <table class="items-table table table-dark table-hover align-middle" id="itemsTable">
             <thead>
                 <tr>
@@ -197,7 +198,6 @@ while ($char = $characters_result->fetch_assoc()) {
                     <th data-sort="range">Range <span class="sort-icon">⇅</span></th>
                     <th data-sort="rarity">Rarity <span class="sort-icon">⇅</span></th>
                     <th data-sort="price">Price <span class="sort-icon">⇅</span></th>
-                    <th data-sort="created_at">Created <span class="sort-icon">⇅</span></th>
                     <th>Actions</th>
                 </tr>
             </thead>
@@ -230,13 +230,13 @@ while ($char = $characters_result->fetch_assoc()) {
                 <form id="itemForm" class="needs-validation" novalidate>
             <input type="hidden" id="itemId" name="id">
             
-            <div class="form-row row g-3">
-                <div class="form-group mb-3 col-12 col-md-6">
+            <div class="row g-3">
+                <div class="mb-3 col-12 col-md-6">
                     <label for="itemName" class="form-label">Name *</label>
                     <input type="text" id="itemName" name="name" class="form-control" required>
                     <div class="invalid-feedback">Please enter an item name.</div>
                 </div>
-                <div class="form-group mb-3 col-12 col-md-6">
+                <div class="mb-3 col-12 col-md-6">
                     <label for="itemType" class="form-label">Type *</label>
                     <select id="itemType" name="type" class="form-select" required>
                         <option value="">Select Type</option>
@@ -251,13 +251,13 @@ while ($char = $characters_result->fetch_assoc()) {
                 </div>
             </div>
             
-            <div class="form-row row g-3">
-                <div class="form-group mb-3 col-12 col-md-6">
+            <div class="row g-3">
+                <div class="mb-3 col-12 col-md-6">
                     <label for="itemCategory" class="form-label">Category *</label>
                     <input type="text" id="itemCategory" name="category" class="form-control" required>
                     <div class="invalid-feedback">Please enter a category.</div>
                 </div>
-                <div class="form-group mb-3 col-12 col-md-6">
+                <div class="mb-3 col-12 col-md-6">
                     <label for="itemRarity" class="form-label">Rarity *</label>
                     <select id="itemRarity" name="rarity" class="form-select" required>
                         <option value="">Select Rarity</option>
@@ -271,41 +271,41 @@ while ($char = $characters_result->fetch_assoc()) {
                 </div>
             </div>
             
-            <div class="form-row row g-3">
-                <div class="form-group mb-3 col-12 col-md-6">
+            <div class="row g-3">
+                <div class="mb-3 col-12 col-md-6">
                     <label for="itemDamage" class="form-label">Damage</label>
                     <input type="text" id="itemDamage" name="damage" class="form-control" placeholder="e.g., 2L, 3B">
                 </div>
-                <div class="form-group mb-3 col-12 col-md-6">
+                <div class="mb-3 col-12 col-md-6">
                     <label for="itemRange" class="form-label">Range</label>
                     <input type="text" id="itemRange" name="range" class="form-control" placeholder="e.g., Close, Medium">
                 </div>
             </div>
             
-            <div class="form-group mb-3">
+            <div class="mb-3">
                 <label for="itemPrice" class="form-label">Price *</label>
                 <input type="number" id="itemPrice" name="price" class="form-control" required min="0">
                 <div class="invalid-feedback">Please provide a valid price.</div>
             </div>
             
-            <div class="form-group mb-3">
+            <div class="mb-3">
                 <label for="itemDescription" class="form-label">Description *</label>
                 <textarea id="itemDescription" name="description" class="form-control" required></textarea>
                 <div class="invalid-feedback">Please enter a description.</div>
             </div>
             
-            <div class="form-group mb-3">
+            <div class="mb-3">
                 <label for="itemRequirements" class="form-label">Requirements (JSON)</label>
                 <textarea id="itemRequirements" name="requirements" class="form-control" rows="3" placeholder='{"strength": 3, "dexterity": 2}'></textarea>
-                <small class="form-text text-muted" style="color: #d4c4b0; font-size: 0.85em;">Format: JSON object with attribute: value pairs</small>
+                <small class="form-text opacity-75" style="color: #d4c4b0; font-size: 0.85em;">Format: JSON object with attribute: value pairs</small>
             </div>
             
-            <div class="form-group mb-3">
+            <div class="mb-3">
                 <label for="itemImage" class="form-label">Image URL</label>
                 <input type="url" id="itemImage" name="image" class="form-control" placeholder="https://example.com/image.jpg">
             </div>
             
-            <div class="form-group mb-3">
+            <div class="mb-3">
                 <label for="itemNotes" class="form-label">Notes</label>
                 <textarea id="itemNotes" name="notes" class="form-control"></textarea>
             </div>
@@ -347,8 +347,7 @@ include __DIR__ . '/../includes/modal_base.php';
 const allCharactersForItems = <?php echo json_encode($all_characters); ?>;
 </script>
 
-<!-- Include external CSS -->
-<link rel="stylesheet" href="../css/admin_items.css">
+<!-- admin_items.css already included via $extra_css -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
 <!-- Pass PHP data to JavaScript -->

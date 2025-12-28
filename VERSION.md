@@ -1,6 +1,24 @@
 # Version History
 
-## Current Version: 0.9.2
+## Current Version: 0.9.3
+
+**Date:** 2025-12-28  
+**Type:** Patch (Admin Items page Bootstrap 5.3.2 refactoring and table styling improvements)
+
+### Changes:
+- **Bootstrap 5.3.2 Compliance** - Refactored admin items page to full Bootstrap 5.3.2 compliance
+  - Removed deprecated `form-group` and `form-row` classes, replaced with `mb-3` and `row` utilities
+  - Replaced `text-muted` with `opacity-75` utility for dark background compatibility
+  - Updated form structure to use Bootstrap 5.3.2 standard classes throughout
+- **Table Styling Improvements** - Enhanced items table visual design
+  - Changed header background from linear to vertical gradient (light at top, dark at bottom)
+  - Added dark borders around header cells for better definition
+  - Removed "Created" column from items table
+  - Reduced name column width from 27% to 20%
+  - Increased Actions column min-width from 120px to 140px and width to 8% for better visibility
+  - Adjusted Category column width to 15% to balance layout
+
+## Previous Version: 0.9.2
 
 **Date:** 2025-12-28  
 **Type:** Patch (Deck data updates and location scene improvements)
