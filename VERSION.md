@@ -1,6 +1,20 @@
 # Version History
 
-## Current Version: 0.9.1
+## Current Version: 0.9.2
+
+**Date:** 2025-12-28  
+**Type:** Patch (Deck data updates and location scene improvements)
+
+### Changes:
+- **Deck Data Updates** - Updated reference deck files with formatting and content improvements
+  - Updated Mind's Eye Theatre Prop Deck markdown with formatting corrections
+  - Updated disciplines.json with data structure improvements (999 lines modified)
+  - Updated rituals.json with formatting and content corrections
+  - Added new prop_deck_items.json file for deck item reference
+- **Location Scene Updates** - Improved Roosevelt Row location scene documentation
+  - Updated "A FAILED TOREADOR ARC.md" with content and formatting improvements
+
+## Previous Version: 0.9.1
 
 **Date:** 2025-01-30  
 **Type:** Patch (Reference book spacing fixes and formatting improvements)

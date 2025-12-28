@@ -135,3 +135,54 @@ A failed Toreador is not destroyed.
 They are pointed to.
 
 **They are not consulted.**
+
+## Why This Is Worse Than Homelessness
+
+**Because:**
+
+- They are praised too much to rebel easily
+- Leaving feels like self-sabotage
+- Any ambition looks like ego
+- Any complaint sounds ungrateful
+
+They are trapped by validation.
+
+## Comparison (Important)
+
+| Clan | Success Trap | Failure Trap |
+|------|--------------|--------------|
+| Tremere | Indispensability | Irrelevance |
+| Toreador | Political distraction | Aesthetic crystallization |
+
+Both end in containment.
+
+Just styled differently.
+
+## How a Toreador Escapes This (And Why It's Hard)
+
+**To escape, the PC must:**
+
+- Risk alienating patrons
+- Make art that disrupts, not pleases
+- Decline visibility
+- Step into politics uninvited
+- Accept being called "difficult"
+
+**Which costs:**
+
+- Support
+- Space
+- Protection
+
+That's a real choice.
+
+## Design Maxim (Worth Keeping)
+
+You may want to codify this:
+
+> A Toreador fails not by lacking talent,  
+> but by letting others decide what their talent is for.
+
+Roosevelt Row doesn't break Toreador.
+
+**It finishes them — unless they fight it.**

@@ -1,51 +1,54 @@
-[
-  {
-    "name": "Eyes of the Grave",
-    "level": "Basic",
-    "type": "Necromantic",
-    "page": 157,
-    "description": "Once during the remaining evening, you may force the subject to fail are test as a shocking visi on of death overcomes her. Only you may invoke this benefit — other people may not use this ritual's power against the victim, even if they are aware that you have cast the ritual. Over the course of twohours, you can concentrate deathly emotions in a pinch of grave soil and use it to conjure visions of death and horr or. Once you complete the ritual, you focus the seimages at the victim, who sees random intermittent flashes of her own gruesome demise."
-  },
-  {
-    "name": "Spirit Beacon",
-    "level": "Basic",
-    "type": "Necromantic",
-    "page": 157,
-    "description": "By casting this ritual over a severed hum an head, you tunit in to a supernaturalbeaconf or ghosts. with in the Shadowlands, the head appears to glow with an unearthly radiance, emitting light from its mouth, ears and eyes. Any wraith viewing the under world radiance from this head must expend a will power Trait or else be immediately drawn to the lightfor a full hour(or until the end of the scene). The head loses its light at the next sunrise, though it may be enchanted ag a in."
-  },
-  {
-    "name": "Ritual of the Unearthed Fetter",
-    "level": "Basic",
-    "type": "Thaumaturgical",
-    "page": 158,
-    "description": "Nec romantic Ritual: p.158 By casting this ritual with the finger bone of a corpse, you attune the bone to any material objects people or places that mayhave significance to the finger bone's owner一 specifically, to the ghost of the dead individual. You take a chipof a grave marker crush it and sprinkle it over the bone while in to ning the ritual. When complete, the finger bone acts as a sort of spiritual compass, pointing toward objects of vital importance to its wraithly owner. Once you have attuned a finger bone with this ritual you can ueit tofind Fetterf particular wraith assuming that theremains in questi on are of an individual who became a ghost. You can therefore determine whether a particular place, object or pers on is a Fetter fo a wraith. By spending a turn testing a suspect item with the finger bone, you can ask a ghost or Narratorwhetheritis a Fetter to that particular ghost. Remember, though, that the finger bone only finds Fetters of its owner."
-  },
-  {
-    "name": "The Open Passage",
-    "level": "Basic",
-    "type": "Thaumaturgical",
-    "page": 185,
-    "description": "Taking an hour to trace a pattern with a Trait of your blood, you can make abarrier insubstantial for a full turn. the barrier itself retains its normal appearance and characteristics, and anything already touching or supported By the barrier when the ritual ends becomes briefly insubstantial with it. with the Open Passage, you can therefore walk through a wall or all ow all ies to travel through locked do or s and similar barriers."
-  },
-  {
-    "name": "Principal Focus of Vitae Infusion",
-    "level": "Basic",
-    "type": "Thaumaturgical",
-    "page": 186,
-    "description": "Concentrating the power of your blood, you cause your own vitae to sink into a small object. with a touch and a mental comm and, you can later cause this object to break do wn back in to a pool of your own blood. You can imbue an object between the sizes of a dime and a loaf of bread with a single Trait of your own blood, at which time the object becomes slightly reddish and slick. Alternately, you can use the Principal Focus of Vitae Infusi on to craft an object of your blood that responds to the touch of another individual, as long as that individual is present during the casting of the ritual. fcourse, sinceyourownbloodmustbe used, the subject risks the blood bond."
-  },
-  {
-    "name": "Wake with Evening's Freshness",
-    "level": "Basic",
-    "type": "Thaumaturgical",
-    "page": 186,
-    "description": "In case of emergencies or if you fear invasi on of your have n, you can Wake with Evening's Freshness imply by spreading ashes of burned feathers over your sleeping place while casting this ritual immediately before slumber. Should you befaced with danger, you awaken immediately. for the first twofull turns you suffer no penalties for daylight activity (although you can still be injured by sunlight, of course)."
-  },
-  {
-    "name": "Ward versus Ghouls",
-    "level": "Basic",
-    "type": "Thaumaturgical",
-    "page": 186,
-    "description": "Spending 10 minutes repeating a warding invocati on while pouring a Trait of blood over an object, you shape a mystical glyph that causes extremep a in to any ghoul touching it the night after you cast the ritual, the ward takes effect, causing a level of lethal damage to any ghoul touching the object (even adding this effect to other damage if, say, a warded sword is used a l against a ghoul in comb at). Any object in size between dagger and do or may be warded. You can specifically exclude cert a in ghouls from the effect if they are present while you cast the ritual and if each donates a Trait of blood to attune the Ward versus Ghouls."
-  }
-]
+{
+  "source": "Laws of the Night Second Edition",
+  "rituals": [
+    {
+      "name": "Eyes of the Grave",
+      "level": "Basic",
+      "type": "Necromantic",
+      "page": 157,
+      "description": "Once during the remaining evening, you may force the subject to fail are test as a shocking visi on of death overcomes her. Only you may invoke this benefit — other people may not use this ritual's power against the victim, even if they are aware that you have cast the ritual. Over the course of twohours, you can concentrate deathly emotions in a pinch of grave soil and use it to conjure visions of death and horr or. Once you complete the ritual, you focus the seimages at the victim, who sees random intermittent flashes of her own gruesome demise."
+    },
+    {
+      "name": "Spirit Beacon",
+      "level": "Basic",
+      "type": "Necromantic",
+      "page": 157,
+      "description": "By casting this ritual over a severed hum an head, you tunit in to a supernaturalbeaconf or ghosts. with in the Shadowlands, the head appears to glow with an unearthly radiance, emitting light from its mouth, ears and eyes. Any wraith viewing the under world radiance from this head must expend a will power Trait or else be immediately drawn to the lightfor a full hour(or until the end of the scene). The head loses its light at the next sunrise, though it may be enchanted ag a in."
+    },
+    {
+      "name": "Ritual of the Unearthed Fetter",
+      "level": "Basic",
+      "type": "Thaumaturgical",
+      "page": 158,
+      "description": "Nec romantic Ritual: p.158 By casting this ritual with the finger bone of a corpse, you attune the bone to any material objects people or places that mayhave significance to the finger bone's owner一 specifically, to the ghost of the dead individual. You take a chipof a grave marker crush it and sprinkle it over the bone while in to ning the ritual. When complete, the finger bone acts as a sort of spiritual compass, pointing toward objects of vital importance to its wraithly owner. Once you have attuned a finger bone with this ritual you can ueit tofind Fetterf particular wraith assuming that theremains in questi on are of an individual who became a ghost. You can therefore determine whether a particular place, object or pers on is a Fetter fo a wraith. By spending a turn testing a suspect item with the finger bone, you can ask a ghost or Narratorwhetheritis a Fetter to that particular ghost. Remember, though, that the finger bone only finds Fetters of its owner."
+    },
+    {
+      "name": "The Open Passage",
+      "level": "Basic",
+      "type": "Thaumaturgical",
+      "page": 185,
+      "description": "Taking an hour to trace a pattern with a Trait of your blood, you can make abarrier insubstantial for a full turn. the barrier itself retains its normal appearance and characteristics, and anything already touching or supported By the barrier when the ritual ends becomes briefly insubstantial with it. with the Open Passage, you can therefore walk through a wall or all ow all ies to travel through locked do or s and similar barriers."
+    },
+    {
+      "name": "Principal Focus of Vitae Infusion",
+      "level": "Basic",
+      "type": "Thaumaturgical",
+      "page": 186,
+      "description": "Concentrating the power of your blood, you cause your own vitae to sink into a small object. with a touch and a mental comm and, you can later cause this object to break do wn back in to a pool of your own blood. You can imbue an object between the sizes of a dime and a loaf of bread with a single Trait of your own blood, at which time the object becomes slightly reddish and slick. Alternately, you can use the Principal Focus of Vitae Infusi on to craft an object of your blood that responds to the touch of another individual, as long as that individual is present during the casting of the ritual. fcourse, sinceyourownbloodmustbe used, the subject risks the blood bond."
+    },
+    {
+      "name": "Wake with Evening's Freshness",
+      "level": "Basic",
+      "type": "Thaumaturgical",
+      "page": 186,
+      "description": "In case of emergencies or if you fear invasi on of your have n, you can Wake with Evening's Freshness imply by spreading ashes of burned feathers over your sleeping place while casting this ritual immediately before slumber. Should you befaced with danger, you awaken immediately. for the first twofull turns you suffer no penalties for daylight activity (although you can still be injured by sunlight, of course)."
+    },
+    {
+      "name": "Ward versus Ghouls",
+      "level": "Basic",
+      "type": "Thaumaturgical",
+      "page": 186,
+      "description": "Spending 10 minutes repeating a warding invocati on while pouring a Trait of blood over an object, you shape a mystical glyph that causes extremep a in to any ghoul touching it the night after you cast the ritual, the ward takes effect, causing a level of lethal damage to any ghoul touching the object (even adding this effect to other damage if, say, a warded sword is used a l against a ghoul in comb at). Any object in size between dagger and do or may be warded. You can specifically exclude cert a in ghouls from the effect if they are present while you cast the ritual and if each donates a Trait of blood to attune the Ward versus Ghouls."
+    }
+  ]
+}
