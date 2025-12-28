@@ -16,7 +16,7 @@ if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
 }
 
 require_once __DIR__ . '/../includes/connect.php';
-$extra_css = ['css/admin_items.css', 'css/modal.css'];
+$extra_css = ['css/admin_items.css', 'css/modal.css', 'css/modal_fullscreen.css'];
 $body_class = 'admin-items-page';
 include __DIR__ . '/../includes/header.php';
 
@@ -224,7 +224,12 @@ while ($char = $characters_result->fetch_assoc()) {
         <div class="modal-content vbn-modal-content">
             <div class="modal-header vbn-modal-header">
                 <h5 class="modal-title vbn-modal-title" id="itemModalLabel">📦 <span id="itemModalTitle">Add New Item</span></h5>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                <div class="d-flex align-items-center gap-2 ms-auto">
+                    <button type="button" class="btn btn-sm btn-outline-light modal-fullscreen-btn" id="itemModalFullscreenBtn" title="Toggle Fullscreen" aria-label="Toggle Fullscreen">
+                        <i class="fas fa-expand modal-fullscreen-icon"></i>
+                    </button>
+                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
             </div>
             <div class="modal-body vbn-modal-body">
                 <form id="itemForm" class="needs-validation" novalidate>
@@ -264,6 +269,7 @@ while ($char = $characters_result->fetch_assoc()) {
                         <option value="common">Common</option>
                         <option value="uncommon">Uncommon</option>
                         <option value="rare">Rare</option>
+                        <option value="very rare">Very Rare</option>
                         <option value="epic">Epic</option>
                         <option value="legendary">Legendary</option>
                     </select>
@@ -301,8 +307,9 @@ while ($char = $characters_result->fetch_assoc()) {
             </div>
             
             <div class="mb-3">
-                <label for="itemImage" class="form-label">Image URL</label>
-                <input type="url" id="itemImage" name="image" class="form-control" placeholder="https://example.com/image.jpg">
+                <label for="itemImage" class="form-label">Image Name</label>
+                <input type="text" id="itemImage" name="image" class="form-control" placeholder="image.jpg">
+                <small class="form-text opacity-75" style="color: #d4c4b0; font-size: 0.85em;">Image file name from uploads/items/ directory</small>
             </div>
             
             <div class="mb-3">
@@ -360,5 +367,68 @@ const allCharactersForItems = <?php echo json_encode($all_characters); ?>;
 <!-- Include the external JavaScript file -->
 <script src="../js/admin_items.js"></script>
 <script src="../js/form_validation.js"></script>
+<script>
+// Handle fullscreen button for viewModal
+(function() {
+    'use strict';
+    
+    function toggleFullscreen(modalId) {
+        const modal = document.getElementById(modalId);
+        const btn = document.getElementById(modalId + 'FullscreenBtn');
+        const icon = btn?.querySelector('.modal-fullscreen-icon');
+        
+        if (!modal || !btn) return;
+        
+        const isFullscreen = modal.classList.contains('fullscreen');
+        
+        if (isFullscreen) {
+            modal.classList.remove('fullscreen');
+            if (icon) {
+                icon.classList.remove('fa-compress');
+                icon.classList.add('fa-expand');
+            }
+        } else {
+            modal.classList.add('fullscreen');
+            if (icon) {
+                icon.classList.remove('fa-expand');
+                icon.classList.add('fa-compress');
+            }
+        }
+    }
+    
+    function setupViewModalFullscreen() {
+        const modal = document.getElementById('viewModal');
+        const btn = document.getElementById('viewModalFullscreenBtn');
+        
+        if (!modal || !btn) {
+            setTimeout(setupViewModalFullscreen, 100);
+            return;
+        }
+        
+        btn.addEventListener('click', function(e) {
+            e.preventDefault();
+            e.stopPropagation();
+            toggleFullscreen('viewModal');
+        });
+        
+        modal.addEventListener('hidden.bs.modal', function() {
+            if (modal.classList.contains('fullscreen')) {
+                modal.classList.remove('fullscreen');
+                const icon = btn.querySelector('.modal-fullscreen-icon');
+                if (icon) {
+                    icon.classList.remove('fa-compress');
+                    icon.classList.add('fa-expand');
+                }
+            }
+        });
+    }
+    
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', setupViewModalFullscreen);
+    } else {
+        setupViewModalFullscreen();
+    }
+})();
+</script>
 
 <?php include __DIR__ . '/../includes/footer.php'; ?>

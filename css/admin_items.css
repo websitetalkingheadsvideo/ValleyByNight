@@ -271,6 +271,7 @@
 .badge-common { background: #9E9E9E; color: #f5e6d3; padding: 4px 10px; border-radius: 4px; font-size: 0.85em; font-weight: bold; }
 .badge-uncommon { background: #4CAF50; color: #f5e6d3; padding: 4px 10px; border-radius: 4px; font-size: 0.85em; font-weight: bold; }
 .badge-rare { background: #2196F3; color: #f5e6d3; padding: 4px 10px; border-radius: 4px; font-size: 0.85em; font-weight: bold; }
+.badge-very-rare { background: rgba(255, 69, 0, 0.2); color: #FF4500; border: 1px solid rgba(255, 69, 0, 0.5); padding: 4px 10px; border-radius: 4px; font-size: 0.85em; font-weight: bold; }
 .badge-epic { background: #9C27B0; color: #f5e6d3; padding: 4px 10px; border-radius: 4px; font-size: 0.85em; font-weight: bold; }
 .badge-legendary { background: #FF9800; color: #f5e6d3; padding: 4px 10px; border-radius: 4px; font-size: 0.85em; font-weight: bold; }
 
@@ -515,6 +516,27 @@
         height: 28px;
         font-size: 0.9em;
     }
+}
+
+/* Item Modal Button Styling - Light colored buttons */
+#itemModal .modal-header .btn-close-white {
+    filter: invert(1) grayscale(100%) brightness(200%);
+    opacity: 0.8;
+}
+
+#itemModal .modal-header .btn-close-white:hover {
+    opacity: 1;
+}
+
+#itemModal .modal-header .modal-fullscreen-btn {
+    color: #f5e6d3;
+    border-color: rgba(245, 230, 211, 0.5);
+}
+
+#itemModal .modal-header .modal-fullscreen-btn:hover {
+    background: rgba(245, 230, 211, 0.1);
+    border-color: rgba(245, 230, 211, 0.8);
+    color: #f5e6d3;
 }
 
 @media (max-width: 480px) {

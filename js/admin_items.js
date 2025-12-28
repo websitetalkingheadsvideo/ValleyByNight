@@ -211,6 +211,27 @@ function applyFilters() {
     renderPagination();
 }
 
+// Rarity order: Legendary (highest) -> Epic -> Very Rare -> Rare -> Uncommon -> Common (lowest)
+function getRarityOrder(rarity) {
+    const rarityOrder = {
+        'legendary': 0,
+        'epic': 1,
+        'very rare': 2,
+        'rare': 3,
+        'uncommon': 4,
+        'common': 5
+    };
+    const normalized = (rarity || '').toLowerCase().trim();
+    return rarityOrder[normalized] !== undefined ? rarityOrder[normalized] : 999;
+}
+
+function capitalizeRarity(rarity) {
+    if (!rarity) return '';
+    return rarity.split(' ').map(word => 
+        word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()
+    ).join(' ');
+}
+
 function sortItems() {
     if (!Array.isArray(filteredItems) || filteredItems.length === 0) {
         return;
@@ -224,9 +245,13 @@ function sortItems() {
             aVal = parseInt(aVal) || 0;
             bVal = parseInt(bVal) || 0;
         }
-
+        // Handle rarity column with custom order
+        else if (currentSort.column === 'rarity') {
+            aVal = getRarityOrder(aVal);
+            bVal = getRarityOrder(bVal);
+        }
         // Handle string columns
-        if (typeof aVal === 'string') {
+        else if (typeof aVal === 'string') {
             aVal = aVal.toLowerCase();
             bVal = bVal.toLowerCase();
         }
@@ -267,7 +292,7 @@ function renderTable() {
             <td title="${escapeHtml(item.category)}">${escapeHtml(item.category)}</td>
             <td>${escapeHtml(item.damage || 'N/A')}</td>
             <td title="${escapeHtml(item.range || 'N/A')}">${escapeHtml(item.range || 'N/A')}</td>
-            <td><span class="badge-${item.rarity}">${escapeHtml(item.rarity)}</span></td>
+            <td><span class="badge-${(item.rarity || '').toLowerCase().replace(/\s+/g, '-')}">${escapeHtml(capitalizeRarity(item.rarity))}</span></td>
             <td>$${parseInt(item.price).toLocaleString()}</td>
             <td class="actions">
                 <button class="action-btn view-btn" onclick="viewItem(${item.id})" title="View Item">👁️</button>
@@ -518,7 +543,7 @@ function viewItem(itemId) {
         ${item.image ? `
         <div>
             <h3>Image</h3>
-            <img src="${escapeHtml(item.image)}" alt="${escapeHtml(item.name)}" style="max-width: 200px; border-radius: 4px;">
+            <img src="../uploads/items/${escapeHtml(item.image)}" alt="${escapeHtml(item.name)}" style="max-width: 200px; border-radius: 4px;" onerror="this.style.display='none';">
         </div>
         ` : ''}
     `;
