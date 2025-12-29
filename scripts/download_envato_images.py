@@ -109,11 +109,13 @@ def search_envato_photos(query: str, api_key: str) -> Optional[Dict]:
     
     # Clean the query first
     cleaned_query = clean_search_query(query)
-    print(f"  🔍 Original query: '{query}' -> Cleaned: '{cleaned_query}'")
+    print(f"  🔍 Original query: '{query}' -> Cleaned: '{cleaned_query}' -> With 'isolated': '{cleaned_query} isolated'")
     
     # Search for Photos - use photodune.net site filter
+    # Add "isolated" to search query for better results
+    search_query = f"{cleaned_query} isolated"
     photo_params_options = [
-        {"term": cleaned_query, "site": "photodune.net", "page": 1, "page_size": 20},
+        {"term": search_query, "site": "photodune.net", "page": 1, "page_size": 20},
     ]
     
     last_error = None
@@ -1063,9 +1065,8 @@ def process_item(item: Dict, api_key: str, conn: mysql.connector.MySQLConnection
             print(f"  ⚠️  Invalid image URL (type: {type(image_url).__name__}, value: {str(image_url)[:50]}), trying next match...")
             continue  # Try next match
         
-        # Download using Envato item name
-        envato_name = best_match.get('name', 'item')
-        image_filename = create_safe_filename(envato_name)
+        # Download using database item name (not Envato item name)
+        image_filename = create_safe_filename(item_name)
         final_filepath = DOWNLOAD_DIR / image_filename
         
         # Download image
