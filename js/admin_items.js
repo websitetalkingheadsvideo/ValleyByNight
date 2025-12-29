@@ -445,6 +445,16 @@ function openAddItemModal() {
     document.getElementById('itemModalTitle').textContent = 'Add New Item';
     document.getElementById('itemForm').reset();
     document.getElementById('itemId').value = '';
+    
+    // Collapse special powers section when adding new item
+    const collapseEl = document.getElementById('specialPowersCollapse');
+    if (collapseEl) {
+        const bsCollapse = bootstrap.Collapse.getInstance(collapseEl);
+        if (bsCollapse) {
+            bsCollapse.hide();
+        }
+    }
+    
     const modalElement = document.getElementById('itemModal');
     if (modalElement) {
         const modalInstance = new bootstrap.Modal(modalElement);
@@ -469,6 +479,9 @@ function editItem(itemId) {
     const requirementsEl = document.getElementById('itemRequirements');
     const imageEl = document.getElementById('itemImage');
     const notesEl = document.getElementById('itemNotes');
+    const activatedPowerEl = document.getElementById('itemActivatedPower');
+    const dangerousPowerEl = document.getElementById('itemDangerousPower');
+    const storyConsequencesEl = document.getElementById('itemStoryConsequences');
     
     if (!titleEl || !idEl || !nameEl || !typeEl || !categoryEl || !rarityEl || !priceEl || !descriptionEl) {
         console.error('Required form elements not found for editing item');
@@ -479,7 +492,18 @@ function editItem(itemId) {
     if (idEl) idEl.value = item.id;
     if (nameEl) nameEl.value = item.name;
     if (typeEl) typeEl.value = item.type;
-    if (categoryEl) categoryEl.value = item.category;
+    if (categoryEl) {
+        // Check if the category exists in the dropdown options
+        const categoryExists = Array.from(categoryEl.options).some(opt => opt.value === item.category);
+        // If category doesn't exist in dropdown, add it
+        if (item.category && !categoryExists) {
+            const option = document.createElement('option');
+            option.value = item.category;
+            option.textContent = item.category;
+            categoryEl.appendChild(option);
+        }
+        categoryEl.value = item.category || '';
+    }
     if (damageEl) damageEl.value = item.damage || '';
     if (rangeEl) rangeEl.value = item.range || '';
     if (rarityEl) {
@@ -498,6 +522,16 @@ function editItem(itemId) {
     if (requirementsEl) requirementsEl.value = item.requirements ? JSON.stringify(item.requirements, null, 2) : '';
     if (imageEl) imageEl.value = item.image || '';
     if (notesEl) notesEl.value = item.notes || '';
+    if (activatedPowerEl) activatedPowerEl.value = item.activated_power || '';
+    if (dangerousPowerEl) dangerousPowerEl.value = item.dangerous_power || '';
+    if (storyConsequencesEl) storyConsequencesEl.value = item.story_consequences || '';
+    
+    // Auto-expand special powers section if any field has content
+    if ((item.activated_power || item.dangerous_power || item.story_consequences) && document.getElementById('specialPowersCollapse')) {
+        const collapseEl = document.getElementById('specialPowersCollapse');
+        const bsCollapse = new bootstrap.Collapse(collapseEl, { toggle: false });
+        bsCollapse.show();
+    }
     
     const modalElement = document.getElementById('itemModal');
     if (modalElement) {
@@ -517,7 +551,14 @@ function getItemBackupIcon(itemType) {
         'Tool': 'tool-icon.svg',
         'Consumable': 'consumable-icon.svg',
         'Artifact': 'artifact-icon.svg',
-        'Misc': 'misc-icon.svg'
+        'Misc': 'misc-icon.svg',
+        'Ammunition': 'ammunition-icon.svg',
+        'Electronics': 'electronics-icon.svg',
+        'Gear': 'gear-icon.svg',
+        'Magical': 'magical-icon.svg',
+        'Token': 'token-icon.svg',
+        'Magical Tool': 'magical-tool-icon.svg',
+        'Trait': 'trait-icon.svg'
     };
     const iconFile = typeMap[itemType] || 'misc-icon.svg';
     const pathPrefix = typeof PATH_PREFIX !== 'undefined' ? PATH_PREFIX : '../';
@@ -625,6 +666,36 @@ function viewItem(itemId) {
             <h3>Description</h3>
             <p>${escapeHtml(item.description)}</p>
         </div>
+        ${(item.activated_power || item.dangerous_power || item.story_consequences) ? `
+        <div class="special-powers-view-section">
+            <div class="special-powers-view-header">
+                <h3>
+                    <span aria-hidden="true">⚡</span>
+                    Special Powers & Consequences
+                </h3>
+            </div>
+            <div class="special-powers-view-content">
+                ${item.activated_power ? `
+                <div class="mb-3">
+                    <h4>Activated Power</h4>
+                    <div class="special-power-text">${escapeHtml(item.activated_power).replace(/\n/g, '<br>')}</div>
+                </div>
+                ` : ''}
+                ${item.dangerous_power ? `
+                <div class="mb-3">
+                    <h4>Dangerous Power</h4>
+                    <div class="special-power-text">${escapeHtml(item.dangerous_power).replace(/\n/g, '<br>')}</div>
+                </div>
+                ` : ''}
+                ${item.story_consequences ? `
+                <div class="mb-3">
+                    <h4>Story Consequences</h4>
+                    <div class="special-power-text">${escapeHtml(item.story_consequences).replace(/\n/g, '<br>')}</div>
+                </div>
+                ` : ''}
+            </div>
+        </div>
+        ` : ''}
         ${item.notes ? `
         <div>
             <h3>Notes</h3>
@@ -902,6 +973,13 @@ function getTypeClass(type) {
         'Consumable': 'consumable',
         'Artifact': 'artifact',
         'Misc': 'misc',
+        'Ammunition': 'ammunition',
+        'Electronics': 'electronics',
+        'Gear': 'gear',
+        'Magical': 'magical',
+        'Token': 'token',
+        'Magical Tool': 'magical-tool',
+        'Trait': 'trait',
         'Miscellaneous': 'misc',
         'Equipment': 'equipment',
         'Accessory': 'accessory',
@@ -911,7 +989,7 @@ function getTypeClass(type) {
         'Food': 'food',
         'Drink': 'drink',
         'Drug': 'drug',
-        'Electronic': 'electronic'
+        'Electronic': 'electronics'
     };
     return typeMap[type] || 'misc';
 }

@@ -1,6 +1,26 @@
 # Version History
 
-## Current Version: 0.9.5
+## Current Version: 0.9.6
+
+**Date:** 2025-01-30  
+**Type:** Patch (Admin Items enhancements: additional item categories, icon updates, and migration scripts)
+
+### Changes:
+- **Item Category Expansion** - Added new item category icons and support
+  - Created 7 new item category icons: Ammunition, Electronics, Gear, Magical, Magical Tool, Token, Trait
+  - Updated existing 6 category icons with improved styling
+  - Enhanced admin items interface to support expanded category system
+- **Item Management Scripts** - Added utility scripts for item data management
+  - Created `admin/fix_item_names_case.php` for case standardization
+  - Created `admin/migrate_item_categories.php` for category migration
+- **Envato Integration** - Added Envato API integration scripts
+  - Created Python scripts for Envato Elements API testing and image downloading
+  - Added installation documentation and requirements
+- **JavaScript Enhancements** - Improved admin items JavaScript functionality
+  - Enhanced modal handling and form validation
+  - Improved item display and interaction logic
+
+## Previous Version: 0.9.5
 
 **Date:** 2025-01-30  
 **Type:** Patch (Admin Items view modal: item image display and requirements formatting)

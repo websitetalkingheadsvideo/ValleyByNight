@@ -16,6 +16,12 @@ if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
 }
 
 require_once __DIR__ . '/../includes/connect.php';
+
+// Check database connection
+if (!isset($conn) || !$conn) {
+    die('Database connection failed. Please check your configuration.');
+}
+
 $extra_css = ['css/admin_items.css', 'css/modal.css', 'css/modal_fullscreen.css'];
 $body_class = 'admin-items-page';
 include __DIR__ . '/../includes/header.php';
@@ -31,33 +37,45 @@ $stats_query = "SELECT
     SUM(CASE WHEN type = 'Misc' THEN 1 ELSE 0 END) as misc
     FROM items";
 $stats_result = mysqli_query($conn, $stats_query);
+if (!$stats_result) {
+    die('Database query failed: ' . mysqli_error($conn));
+}
 $stats = mysqli_fetch_assoc($stats_result);
 
 // Get all unique types and categories for filters
 $types_query = "SELECT DISTINCT type FROM items ORDER BY type";
 $types_result = mysqli_query($conn, $types_query);
+if (!$types_result) {
+    die('Types query failed: ' . mysqli_error($conn));
+}
 $item_types = [];
 while ($type_row = $types_result->fetch_assoc()) {
     $item_types[] = $type_row['type'];
 }
 
-$categories_query = "SELECT DISTINCT category FROM items ORDER BY category";
-$categories_result = mysqli_query($conn, $categories_query);
+// Get valid categories from items_categories lookup table for dropdown
 $item_categories = [];
-while ($cat_row = $categories_result->fetch_assoc()) {
-    $item_categories[] = $cat_row['category'];
+$categories_query = "SELECT DISTINCT category_name FROM items_categories ORDER BY category_name";
+$categories_result = mysqli_query($conn, $categories_query);
+if ($categories_result) {
+    while ($cat_row = $categories_result->fetch_assoc()) {
+        $item_categories[] = $cat_row['category_name'];
+    }
 }
 
 // Get all characters for equipment assignment
 $characters_query = "SELECT id, character_name, clan, player_name FROM characters ORDER BY character_name";
 $characters_result = mysqli_query($conn, $characters_query);
+if (!$characters_result) {
+    die('Characters query failed: ' . mysqli_error($conn));
+}
 $all_characters = [];
 while ($char = $characters_result->fetch_assoc()) {
     $all_characters[] = $char;
 }
 ?>
 
-<div class="container-fluid py-4 px-3 px-md-4 d-flex flex-column h-100">
+<div class="container-fluid py-4 px-3 px-md-4 d-flex flex-column">
     <h1 class="display-5 text-light fw-bold mb-1">⚔️ Items Database Management</h1>
     <p class="lead text-light fst-italic mb-4">Manage items database and assign equipment to characters</p>
     
@@ -251,6 +269,13 @@ while ($char = $characters_result->fetch_assoc()) {
                         <option value="Consumable">Consumable</option>
                         <option value="Artifact">Artifact</option>
                         <option value="Misc">Misc</option>
+                        <option value="Ammunition">Ammunition</option>
+                        <option value="Electronics">Electronics</option>
+                        <option value="Gear">Gear</option>
+                        <option value="Magical">Magical</option>
+                        <option value="Token">Token</option>
+                        <option value="Magical Tool">Magical Tool</option>
+                        <option value="Trait">Trait</option>
                     </select>
                     <div class="invalid-feedback">Please select a type.</div>
                 </div>
@@ -259,8 +284,13 @@ while ($char = $characters_result->fetch_assoc()) {
             <div class="row g-3">
                 <div class="mb-3 col-12 col-md-6">
                     <label for="itemCategory" class="form-label">Category *</label>
-                    <input type="text" id="itemCategory" name="category" class="form-control" required>
-                    <div class="invalid-feedback">Please enter a category.</div>
+                    <select id="itemCategory" name="category" class="form-select" required>
+                        <option value="">Select Category</option>
+                        <?php foreach ($item_categories as $category): ?>
+                            <option value="<?php echo htmlspecialchars($category); ?>"><?php echo htmlspecialchars($category); ?></option>
+                        <?php endforeach; ?>
+                    </select>
+                    <div class="invalid-feedback">Please select a category.</div>
                 </div>
                 <div class="mb-3 col-12 col-md-6">
                     <label for="itemRarity" class="form-label">Rarity *</label>
@@ -304,6 +334,35 @@ while ($char = $characters_result->fetch_assoc()) {
                 <label for="itemRequirements" class="form-label">Requirements (JSON)</label>
                 <textarea id="itemRequirements" name="requirements" class="form-control" rows="3" placeholder='{"strength": 3, "dexterity": 2}'></textarea>
                 <small class="form-text opacity-75" style="color: #d4c4b0; font-size: 0.85em;">Format: JSON object with attribute: value pairs</small>
+            </div>
+            
+            <!-- Special Powers & Consequences Section -->
+            <div class="mb-3 special-powers-section">
+                <div class="special-powers-header" data-bs-toggle="collapse" data-bs-target="#specialPowersCollapse" aria-expanded="false" aria-controls="specialPowersCollapse">
+                    <h5 class="mb-0 d-flex align-items-center gap-2">
+                        <span aria-hidden="true">⚡</span>
+                        <span>Special Powers & Consequences</span>
+                        <i class="fas fa-chevron-down ms-auto special-powers-toggle-icon"></i>
+                    </h5>
+                </div>
+                <div class="collapse" id="specialPowersCollapse">
+                    <div class="special-powers-content">
+                        <div class="mb-3">
+                            <label for="itemActivatedPower" class="form-label">Activated Power</label>
+                            <textarea id="itemActivatedPower" name="activated_power" class="form-control" rows="4" placeholder="Describe the power that activates when this item is used..."></textarea>
+                        </div>
+                        
+                        <div class="mb-3">
+                            <label for="itemDangerousPower" class="form-label">Dangerous Power</label>
+                            <textarea id="itemDangerousPower" name="dangerous_power" class="form-control" rows="4" placeholder="Describe any dangerous or risky aspects of this item's power..."></textarea>
+                        </div>
+                        
+                        <div class="mb-3">
+                            <label for="itemStoryConsequences" class="form-label">Story Consequences</label>
+                            <textarea id="itemStoryConsequences" name="story_consequences" class="form-control" rows="4" placeholder="Describe the narrative consequences of using this item..."></textarea>
+                        </div>
+                    </div>
+                </div>
             </div>
             
             <div class="mb-3">
@@ -369,6 +428,35 @@ const allCharactersForItems = <?php echo json_encode($all_characters); ?>;
 <script src="../js/admin_items.js"></script>
 <script src="../js/form_validation.js"></script>
 <script>
+// Handle special powers section collapse toggle
+(function() {
+    'use strict';
+    
+    function setupSpecialPowersCollapse() {
+        const collapseEl = document.getElementById('specialPowersCollapse');
+        const headerEl = document.querySelector('.special-powers-header');
+        
+        if (!collapseEl || !headerEl) {
+            setTimeout(setupSpecialPowersCollapse, 100);
+            return;
+        }
+        
+        collapseEl.addEventListener('show.bs.collapse', function() {
+            headerEl.setAttribute('aria-expanded', 'true');
+        });
+        
+        collapseEl.addEventListener('hide.bs.collapse', function() {
+            headerEl.setAttribute('aria-expanded', 'false');
+        });
+    }
+    
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', setupSpecialPowersCollapse);
+    } else {
+        setupSpecialPowersCollapse();
+    }
+})();
+
 // Handle fullscreen button for viewModal
 (function() {
     'use strict';
