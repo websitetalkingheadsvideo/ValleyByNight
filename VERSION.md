@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.9
+## Current Version: 0.9.10
+
+**Date:** 2025-01-30  
+**Type:** Patch (Item image updates and session notes/documentation updates)
+
+## Previous Version: 0.9.9
 
 **Date:** 2025-01-30  
 **Type:** Patch (Items Art Bible creation, Envato image downloader improvements: item name renaming and isolated keyword search)
