@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.7
+## Current Version: 0.9.8
+
+**Date:** 2025-01-30  
+**Type:** Patch (Envato image downloader improvements: full-size image selection, square/landscape priority, comprehensive size detection)
+
+## Previous Version: 0.9.7
 
 **Date:** 2025-01-30  
 **Type:** Patch (Envato image downloader simplification: removed dimension checks and database updates)

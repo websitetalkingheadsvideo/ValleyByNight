@@ -7,6 +7,7 @@ Downloads images from Envato Photos for items in the database
 import os
 import sys
 import json
+import re
 import requests
 import mysql.connector
 from pathlib import Path
@@ -183,11 +184,110 @@ def search_envato_photos(query: str, api_key: str) -> Optional[Dict]:
         print(f"  ⚠️  Last error: {last_error}")
     return None
 
-def download_image(url: str, filepath: Path, api_key: str) -> Tuple[bool, Optional[str]]:
+def get_size_priority(size_key: str, preview_type: str) -> int:
+    """Get priority score for image size (higher = larger/better)
+    
+    Returns priority score where:
+    - 100+ = Very large (full, huge, original)
+    - 80-99 = Large
+    - 60-79 = Medium-large
+    - 40-59 = Medium
+    - 20-39 = Small-medium
+    - 0-19 = Small/thumbnail
+    """
+    key_lower = size_key.lower()
+    type_lower = preview_type.lower()
+    
+    # Very large sizes (priority 100+)
+    if any(term in key_lower for term in ['full', 'original', 'huge', 'max', 'maximum']):
+        return 100
+    if any(term in type_lower for term in ['full', 'original', 'huge']):
+        return 95
+    
+    # Large sizes (priority 80-99)
+    if any(term in key_lower for term in ['large', 'big', 'xl', 'xxl']):
+        return 85
+    if any(term in type_lower for term in ['large', 'big', 'landscape']):
+        return 80
+    
+    # Medium-large (priority 60-79)
+    if any(term in key_lower for term in ['medium_large', 'med_large', 'l']):
+        return 70
+    if any(term in type_lower for term in ['square', 'preview']):
+        return 65
+    
+    # Medium (priority 40-59)
+    if 'medium' in key_lower or 'med' in key_lower:
+        return 50
+    if 'medium' in type_lower:
+        return 45
+    
+    # Small-medium (priority 20-39)
+    if any(term in key_lower for term in ['small', 's']):
+        return 30
+    if 'small' in type_lower:
+        return 25
+    
+    # Small/thumbnail (priority 0-19)
+    if any(term in key_lower for term in ['thumb', 'icon', 'tiny']):
+        return 10
+    if any(term in type_lower for term in ['thumb', 'icon']):
+        return 5
+    
+    # Default for unknown sizes - assume medium
+    return 50
+
+def try_upgrade_preview_url(url: str) -> str:
+    """Try to upgrade preview URL to larger size if possible
+    
+    Some Envato preview URLs can be modified to get larger sizes.
+    This attempts common URL modifications for Envato's CDN patterns.
+    """
+    if not url or not isinstance(url, str):
+        return url
+    
+    upgraded = url
+    
+    # Envato-specific URL patterns:
+    # - /previews-dam/ might have size variants
+    # - /thumb/ or /thumbnail/ in path indicates small size
+    # - Size might be in query params or path
+    
+    # Replace size indicators in path
+    upgraded = upgraded.replace('/thumbnail/', '/large/')
+    upgraded = upgraded.replace('/thumb/', '/large/')
+    upgraded = upgraded.replace('/small/', '/large/')
+    upgraded = upgraded.replace('/medium/', '/large/')
+    upgraded = upgraded.replace('/preview/', '/large/')
+    
+    # Try removing size restrictions from Envato CDN URLs
+    # Pattern: .../previews-dam/... might become .../large/... or remove size param
+    if '/previews-dam/' in upgraded:
+        # Try replacing with larger size path
+        upgraded = upgraded.replace('/previews-dam/', '/large/')
+    
+    # Try modifying query parameters
+    if '?' in upgraded:
+        # Remove or modify size parameters
+        if 'size=' in upgraded:
+            upgraded = upgraded.replace('size=thumb', 'size=large')
+            upgraded = upgraded.replace('size=small', 'size=large')
+            upgraded = upgraded.replace('size=medium', 'size=large')
+        elif 'w=' in upgraded or 'h=' in upgraded:
+            # Try to increase dimensions
+            upgraded = re.sub(r'w=\d+', 'w=2000', upgraded)
+            upgraded = re.sub(r'h=\d+', 'h=2000', upgraded)
+    else:
+        # Add size parameter if URL doesn't have query params
+        upgraded = upgraded + '?size=large'
+    
+    return upgraded
+
+def download_image(url: str, filepath: Path, api_key: str) -> Tuple[bool, Optional[str], Optional[Tuple[int, int]]]:
     """Download image from URL and validate dimensions
     
     Returns:
-        Tuple of (success: bool, error_message: Optional[str])
+        Tuple of (success: bool, error_message: Optional[str], dimensions: Optional[Tuple[int, int]])
     """
     headers = {
         "Authorization": f"Bearer {api_key}",
@@ -206,22 +306,27 @@ def download_image(url: str, filepath: Path, api_key: str) -> Tuple[bool, Option
             for chunk in response.iter_content(chunk_size=8192):
                 f.write(chunk)
         
-        # TODO: Uncomment when ready to validate dimensions
-        # # Validate image dimensions
-        # try:
-        #     with Image.open(filepath) as img:
-        #         width, height = img.size
-        #         if width < min_width or height < min_height:
-        #             filepath.unlink()  # Delete the too-small image
-        #             return (False, f"Image too small: {width}x{height} (minimum: {min_width}x{min_height})")
-        #         print(f"  ✅ Image dimensions: {width}x{height}")
-        # except Exception as e:
-        #     return (False, f"Invalid image file: {str(e)}")
+        # Check actual image dimensions to verify quality
+        dimensions = None
+        try:
+            with Image.open(filepath) as img:
+                width, height = img.size
+                dimensions = (width, height)
+                file_size_kb = filepath.stat().st_size / 1024
+                print(f"  📏 Image size: {width}x{height}px ({file_size_kb:.1f} KB)")
+                
+                # Warn if image seems too small (likely a thumbnail)
+                if width < 500 or height < 500:
+                    print(f"  ⚠️  Warning: Image appears to be a thumbnail ({width}x{height}px)")
+                elif file_size_kb < 50:
+                    print(f"  ⚠️  Warning: File size is very small ({file_size_kb:.1f} KB), may be compressed/low quality")
+        except Exception as e:
+            print(f"  ⚠️  Could not verify image dimensions: {e}")
         
-        return (True, None)
+        return (True, None, dimensions)
         
     except requests.exceptions.RequestException as e:
-        return (False, f"Error downloading image: {e}")
+        return (False, f"Error downloading image: {e}", None)
 
 def create_safe_filename(item_name: str) -> str:
     """Create a safe filename from item name"""
@@ -255,7 +360,12 @@ def create_safe_filename(item_name: str) -> str:
 #         cursor.close()
 
 def process_item(item: Dict, api_key: str, conn: mysql.connector.MySQLConnection) -> Tuple[bool, str]:
-    """Process a single item: search, download, and update database"""
+    """Process a single item: search, download, and update database
+    
+    Note: This function downloads preview images from Envato. For full-size/high-resolution
+    images, you may need to use the Envato download endpoint (/v1/market/catalog/item) which
+    requires a valid subscription/license. Preview images are typically 800-1200px on the longest side.
+    """
     item_id = item['id']
     item_name = item['name']
     # TODO: Uncomment when ready to skip existing images
@@ -343,55 +453,285 @@ def process_item(item: Dict, api_key: str, conn: mysql.connector.MySQLConnection
         print(f"  🎯 Trying match (score: {score}): {best_match.get('name', 'Unknown')[:50]}")
         
         # Extract image URL from various possible fields
-        # Skip icon URLs - those are just logos, not actual photos
+        # Envato typically provides a dozen or more sizes - we need to find ALL of them
         image_url = None
+        all_available_urls = []  # Store all URLs with their size info
         
         # Check previews object (common in Envato API)
-        # Prioritize larger preview types for better quality images
         if 'previews' in best_match:
             previews = best_match['previews']
-            # Skip icon_with_audio_preview and icon_with_video_preview - those are logos
-            # Only use preview types that are actual images
-            # Prioritize larger previews: landscape > square > thumbnail
-            for preview_type in ['landscape_preview', 'square_preview', 'preview_url', 'thumbnail_preview']:
-                if preview_type in previews:
-                    preview_data = previews[preview_type]
-                    if isinstance(preview_data, dict):
-                        # Prefer url/preview_url over icon_url (icon_url is usually just a logo)
-                        image_url = preview_data.get('url') or preview_data.get('preview_url') or preview_data.get('thumbnail_url')
-                        if not image_url:
-                            # Look for any value that looks like a URL (but skip icon_url)
-                            for key, value in preview_data.items():
-                                if key != 'icon_url' and isinstance(value, str) and value.startswith('http'):
-                                    image_url = value
-                                    break
-                    elif isinstance(preview_data, str) and preview_data.startswith('http'):
-                        image_url = preview_data
-                    if image_url:
-                        break
+            print(f"  🔍 Found previews object with {len(previews)} preview types")
+            
+            # Collect ALL available URLs from ALL preview types
+            for preview_type, preview_data in previews.items():
+                # Skip icons and audio/video previews
+                if 'icon' in preview_type.lower() or 'audio' in preview_type.lower() or 'video' in preview_type.lower():
+                    continue
+                
+                urls_from_this_preview = []
+                
+                if isinstance(preview_data, dict):
+                    # Extract ALL URLs from this preview dict
+                    # Envato previews can have multiple URLs (large_url, small_url, etc.) with dimensions
+                    
+                    # Check for large_url with dimensions
+                    if 'large_url' in preview_data and isinstance(preview_data['large_url'], str):
+                        width = preview_data.get('large_width')
+                        height = preview_data.get('large_height')
+                        priority = (width or 0) + 1000  # Large URLs get bonus
+                        urls_from_this_preview.append({
+                            'url': preview_data['large_url'],
+                            'preview_type': preview_type,
+                            'size_key': 'large_url',
+                            'width': width,
+                            'height': height,
+                            'priority': priority
+                        })
+                    
+                    # Check for small_url
+                    if 'small_url' in preview_data and isinstance(preview_data['small_url'], str):
+                        width = preview_data.get('small_width') or preview_data.get('width')
+                        height = preview_data.get('small_height') or preview_data.get('height')
+                        priority = (width or 0)  # Small URLs get base priority
+                        urls_from_this_preview.append({
+                            'url': preview_data['small_url'],
+                            'preview_type': preview_type,
+                            'size_key': 'small_url',
+                            'width': width,
+                            'height': height,
+                            'priority': priority
+                        })
+                    
+                    # Check for other URL fields
+                    for key in ['url', 'thumbnail_url', 'icon_url', 'preview_url']:
+                        if key in preview_data and isinstance(preview_data[key], str) and preview_data[key].startswith('http'):
+                            # Check if we already added this URL
+                            if not any(u['url'] == preview_data[key] for u in urls_from_this_preview):
+                                width = preview_data.get(f'{key.replace("_url", "")}_width') or preview_data.get('width')
+                                height = preview_data.get(f'{key.replace("_url", "")}_height') or preview_data.get('height')
+                                priority = (width or 0) if width else get_size_priority(key, preview_type)
+                                urls_from_this_preview.append({
+                                    'url': preview_data[key],
+                                    'preview_type': preview_type,
+                                    'size_key': key,
+                                    'width': width,
+                                    'height': height,
+                                    'priority': priority
+                                })
+                elif isinstance(preview_data, str) and preview_data.startswith('http'):
+                    urls_from_this_preview.append({
+                        'url': preview_data,
+                        'preview_type': preview_type,
+                        'size_key': 'direct',
+                        'priority': get_size_priority(preview_type, preview_type)
+                    })
+                
+                all_available_urls.extend(urls_from_this_preview)
+            
+            # Don't select yet - we'll collect from all sources first
         
-        # Check direct image URL fields (never use icon_url - it's just logos)
-        if not image_url:
-            image_url = (
-                best_match.get('preview_url') or 
-                best_match.get('thumbnail_url') or 
-                best_match.get('live_preview_url') or
-                best_match.get('image_url')
-            )
+        # Check direct image URL fields (add ALL to our collection, including thumbnails)
+        direct_url_fields = [
+            'full_preview_url', 'large_preview_url', 'huge_preview_url',
+            'preview_url', 'live_preview_url', 'image_url',
+            'medium_preview_url', 'small_preview_url',
+            'thumbnail_url', 'thumb_url'  # Include but with low priority
+        ]
+        for field in direct_url_fields:
+            url_value = best_match.get(field)
+            if isinstance(url_value, str) and url_value.startswith('http'):
+                all_available_urls.append({
+                    'url': url_value,
+                    'preview_type': 'direct_field',
+                    'size_key': field,
+                    'priority': get_size_priority(field, field)
+                })
         
-        # Check image_urls array
-        if not image_url and 'image_urls' in best_match:
+        # Check image_urls array (Envato provides array of objects with name, url, width, height)
+        if 'image_urls' in best_match:
             image_urls = best_match['image_urls']
-            if isinstance(image_urls, list) and len(image_urls) > 0:
-                image_url = image_urls[0]
+            if isinstance(image_urls, list):
+                for url_obj in image_urls:
+                    if isinstance(url_obj, dict):
+                        # Extract URL and dimensions
+                        url_value = url_obj.get('url')
+                        width = url_obj.get('width', 0)
+                        height = url_obj.get('height', 0)
+                        name = url_obj.get('name', 'unknown')
+                        
+                        if isinstance(url_value, str) and url_value.startswith('http'):
+                            # Priority based on actual width (larger = higher priority)
+                            # Use width as primary priority, with bonus for non-cropped (w prefix vs c prefix)
+                            priority = width
+                            if name.startswith('w'):  # Width-based (non-cropped) gets bonus
+                                priority += 1000
+                            elif name.startswith('c'):  # Crop-based gets lower priority
+                                priority += 500
+                            
+                            all_available_urls.append({
+                                'url': url_value,
+                                'preview_type': 'image_urls',
+                                'size_key': name,
+                                'width': width,
+                                'height': height,
+                                'priority': priority
+                            })
+                    elif isinstance(url_obj, str) and url_obj.startswith('http'):
+                        # Fallback: if it's just a string URL
+                        all_available_urls.append({
+                            'url': url_obj,
+                            'preview_type': 'image_urls_array',
+                            'size_key': 'string_url',
+                            'priority': 50
+                        })
             elif isinstance(image_urls, dict):
-                # Try common keys
-                image_url = image_urls.get('thumbnail') or image_urls.get('preview') or image_urls.get('icon')
+                # Handle dict format (less common)
+                for key, url_value in image_urls.items():
+                    if isinstance(url_value, str) and url_value.startswith('http'):
+                        all_available_urls.append({
+                            'url': url_value,
+                            'preview_type': 'image_urls_dict',
+                            'size_key': key,
+                            'priority': get_size_priority(key, key)
+                        })
+        
+        # Now select the best URL from all collected sources
+        if all_available_urls:
+            # Sort by priority (highest first)
+            sorted_urls = sorted(all_available_urls, key=lambda x: x['priority'], reverse=True)
+            
+            # Log all available sizes
+            print(f"  📋 Found {len(sorted_urls)} available image sizes from all sources:")
+            for idx, url_info in enumerate(sorted_urls[:20], 1):  # Show top 20
+                # Show dimensions if available
+                dims_str = ""
+                aspect_str = ""
+                if 'width' in url_info and 'height' in url_info:
+                    dims_str = f" {url_info['width']}x{url_info['height']}px"
+                    # Determine aspect ratio
+                    if url_info['width'] and url_info['height']:
+                        ratio = url_info['width'] / url_info['height']
+                        if abs(ratio - 1.0) < 0.05:  # Within 5% of square
+                            aspect_str = " [SQUARE]"
+                        elif ratio > 1.0:
+                            aspect_str = " [LANDSCAPE]"
+                        else:
+                            aspect_str = " [PORTRAIT]"
+                print(f"     {idx}. {url_info['preview_type']}/{url_info['size_key']}{dims_str}{aspect_str} (priority: {url_info['priority']:.0f})")
+            if len(sorted_urls) > 20:
+                print(f"     ... and {len(sorted_urls) - 20} more")
+            
+            # First, try to find square images (width == height, within 5% tolerance)
+            square_images = []
+            for url_info in sorted_urls:
+                if 'width' in url_info and 'height' in url_info and url_info['width'] and url_info['height']:
+                    ratio = url_info['width'] / url_info['height']
+                    if abs(ratio - 1.0) < 0.05:  # Within 5% of square (1:1)
+                        square_images.append(url_info)
+            
+            if square_images:
+                # Sort squares by width (largest first)
+                square_images.sort(key=lambda x: x.get('width', 0), reverse=True)
+                best_url_info = square_images[0]
+                image_url = best_url_info['url']
+                dims_str = f" ({best_url_info['width']}x{best_url_info['height']}px)"
+                print(f"  ✅ Selected SQUARE: {best_url_info['preview_type']}/{best_url_info['size_key']}{dims_str} (largest square available)")
+            else:
+                # No square found, look for landscape (width > height)
+                landscape_images = []
+                for url_info in sorted_urls:
+                    if 'width' in url_info and 'height' in url_info and url_info['width'] and url_info['height']:
+                        if url_info['width'] > url_info['height']:
+                            landscape_images.append(url_info)
+                
+                if landscape_images:
+                    # Sort landscapes by width (largest first)
+                    landscape_images.sort(key=lambda x: x.get('width', 0), reverse=True)
+                    best_url_info = landscape_images[0]
+                    image_url = best_url_info['url']
+                    dims_str = f" ({best_url_info['width']}x{best_url_info['height']}px)"
+                    print(f"  ✅ Selected LANDSCAPE: {best_url_info['preview_type']}/{best_url_info['size_key']}{dims_str} (largest landscape available)")
+                else:
+                    # Fallback: use highest priority (might be portrait or unknown)
+                    best_url_info = sorted_urls[0]
+                    image_url = best_url_info['url']
+                    dims_str = ""
+                    if 'width' in best_url_info and 'height' in best_url_info:
+                        dims_str = f" ({best_url_info['width']}x{best_url_info['height']}px)"
+                    print(f"  ⚠️  Selected (no square/landscape found): {best_url_info['preview_type']}/{best_url_info['size_key']}{dims_str}")
         
         if not image_url:
             # Log available fields for debugging
             available_fields = [k for k in best_match.keys() if 'image' in k.lower() or 'preview' in k.lower() or 'url' in k.lower()]
             print(f"  ⚠️  No image URL found in this match. Available fields: {', '.join(available_fields[:5])}")
+            continue  # Try next match
+        
+        # Ensure image_url is a string (it might be a dict in some edge cases)
+        if not isinstance(image_url, str):
+            print(f"  🔍 Image URL is a dict, extracting largest available size...")
+            # Try to extract string URL from dict, prioritizing larger sizes
+            if isinstance(image_url, dict):
+                # Log available keys for debugging
+                available_keys = list(image_url.keys())
+                print(f"  📋 Available keys in image_url dict: {', '.join(available_keys)}")
+                
+                # Try to find the largest size - check for size indicators
+                # Priority: large/full/huge > medium > preview > url > thumbnail
+                size_priority_keys = [
+                    'large_url', 'full_url', 'huge_url', 'big_url',
+                    'large', 'full', 'huge', 'big',
+                    'medium_url', 'medium',
+                    'preview_url', 'preview',
+                    'url',
+                    'thumbnail_url', 'thumbnail', 'thumb'
+                ]
+                
+                extracted_url = None
+                for key in size_priority_keys:
+                    if key in image_url:
+                        value = image_url[key]
+                        if isinstance(value, str) and value.startswith('http'):
+                            extracted_url = value
+                            print(f"  ✅ Extracted URL from key '{key}'")
+                            break
+                
+                # If no priority key found, look for any HTTP URL in the dict
+                if not extracted_url:
+                    for key, value in image_url.items():
+                        if isinstance(value, str) and value.startswith('http'):
+                            # Skip obvious thumbnail/small sizes
+                            if 'thumbnail' not in key.lower() and 'thumb' not in key.lower() and 'icon' not in key.lower():
+                                extracted_url = value
+                                print(f"  ✅ Extracted URL from key '{key}'")
+                                break
+                
+                # Last resort: use any URL found
+                if not extracted_url:
+                    for key, value in image_url.items():
+                        if isinstance(value, str) and value.startswith('http'):
+                            extracted_url = value
+                            print(f"  ⚠️  Using URL from key '{key}' (may be small)")
+                            break
+                
+                if extracted_url:
+                    image_url = extracted_url
+                else:
+                    print(f"  ❌ Could not extract URL from dict, trying next match...")
+                    continue  # Try next match
+            else:
+                image_url = str(image_url)
+        
+        # Try to upgrade URL to larger size if it looks like a thumbnail
+        original_url = image_url
+        if isinstance(image_url, str) and ('thumbnail' in image_url.lower() or 'thumb' in image_url.lower()):
+            upgraded_url = try_upgrade_preview_url(image_url)
+            if upgraded_url != image_url:
+                print(f"  🔄 Attempting to upgrade thumbnail URL to larger size...")
+                image_url = upgraded_url
+        
+        # Final validation: ensure image_url is a valid string URL
+        if not isinstance(image_url, str) or not image_url.startswith('http'):
+            print(f"  ⚠️  Invalid image URL (type: {type(image_url).__name__}, value: {str(image_url)[:50]}), trying next match...")
             continue  # Try next match
         
         # Download using Envato item name
@@ -400,11 +740,25 @@ def process_item(item: Dict, api_key: str, conn: mysql.connector.MySQLConnection
         final_filepath = DOWNLOAD_DIR / image_filename
         
         # Download image
-        print(f"  ⬇️  Downloading: {envato_name[:50]}...")
-        success, error_msg = download_image(image_url, final_filepath, api_key)
+        print(f"  ⬇️  Downloading from: {image_url[:80]}...")
+        success, error_msg, dimensions = download_image(image_url, final_filepath, api_key)
+        
+        # If download failed and we upgraded the URL, try original URL
+        if not success and image_url != original_url:
+            print(f"  🔄 Upgraded URL failed, trying original URL...")
+            success, error_msg, dimensions = download_image(original_url, final_filepath, api_key)
+        
         if not success:
             print(f"  ⚠️  {error_msg}, trying next match...")
             continue  # Try next match
+        
+        # Reject thumbnails - if image is too small, try next match
+        if dimensions:
+            width, height = dimensions
+            if width < 500 or height < 500:
+                print(f"  ❌ Rejecting thumbnail ({width}x{height}px), trying next match...")
+                final_filepath.unlink()  # Delete the thumbnail
+                continue  # Try next match
         
         print(f"  ✅ Saved as: {image_filename}")
         return (True, f"✅ Successfully downloaded {item_name}")
