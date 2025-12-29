@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.6
+## Current Version: 0.9.7
+
+**Date:** 2025-01-30  
+**Type:** Patch (Envato image downloader simplification: removed dimension checks and database updates)
+
+## Previous Version: 0.9.6
 
 **Date:** 2025-01-30  
 **Type:** Patch (Admin Items enhancements: additional item categories, icon updates, and migration scripts)
