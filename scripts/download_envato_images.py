@@ -12,12 +12,16 @@ import mysql.connector
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 from urllib.parse import quote
+from PIL import Image
 
 # Configuration
 SCRIPT_DIR = Path(__file__).parent
 PROJECT_ROOT = SCRIPT_DIR.parent
 ENV_FILE = PROJECT_ROOT / ".env"
 DOWNLOAD_DIR = PROJECT_ROOT / "uploads" / "Items"
+
+# Limit number of items to process (set to 1 for testing, None for all)
+MAX_ITEMS_TO_PROCESS = 1
 
 def load_env_file(env_path: Path) -> Dict[str, str]:
     """Load environment variables from .env file"""
@@ -75,6 +79,16 @@ def get_items_from_database(conn: mysql.connector.MySQLConnection) -> List[Dict]
     finally:
         cursor.close()
 
+def clean_search_query(query: str) -> str:
+    """Clean search query by removing problematic characters and normalizing"""
+    # Remove leading/trailing periods and other problematic characters
+    cleaned = query.strip()
+    # Remove leading periods (e.g., ".38" -> "38")
+    cleaned = cleaned.lstrip('.')
+    # Replace multiple spaces with single space
+    cleaned = ' '.join(cleaned.split())
+    return cleaned
+
 def search_envato_photos(query: str, api_key: str) -> Optional[Dict]:
     """Search Envato for Photos using the discovery search endpoint"""
     url = "https://api.envato.com/v1/discovery/search/search/item.json"
@@ -83,16 +97,18 @@ def search_envato_photos(query: str, api_key: str) -> Optional[Dict]:
         "User-Agent": "VbN-Image-Finder/1.0"
     }
     
-    # Search for Photos - the API may use different parameter names
-    # Try common photo-related parameters
+    # Clean the query first
+    cleaned_query = clean_search_query(query)
+    print(f"  🔍 Original query: '{query}' -> Cleaned: '{cleaned_query}'")
+    
+    # Search for Photos - use photodune.net site filter
     photo_params_options = [
-        {"term": query, "page": 1, "page_size": 20},  # No filter
-        {"term": query, "category": "photos", "page": 1, "page_size": 20},
-        {"term": query, "type": "photo", "page": 1, "page_size": 20},
-        {"term": query, "media_type": "photo", "page": 1, "page_size": 20},
+        {"term": cleaned_query, "site": "photodune.net", "page": 1, "page_size": 20},
     ]
     
-    for params in photo_params_options:
+    last_error = None
+    
+    for i, params in enumerate(photo_params_options):
         try:
             response = requests.get(url, headers=headers, params=params, timeout=30)
             response.raise_for_status()
@@ -101,35 +117,78 @@ def search_envato_photos(query: str, api_key: str) -> Optional[Dict]:
             # Check if we got photo results
             matches = data.get('matches', [])
             if matches:
-                # Filter for items that look like photos/images
+                print(f"  🔍 Attempt {i+1}: Found {len(matches)} matches")
+                print(f"  📋 All matches:")
+                for idx, match in enumerate(matches, 1):
+                    classification = match.get('classification', 'N/A')
+                    name = match.get('name', 'N/A')
+                    print(f"     {idx}. {classification} - {name}")
+                
+                # Filter for photos/images - accept items with previews (they're images)
+                # Use ONLY classification field (unified marketplace, no site filtering)
                 photo_matches = []
+                # REQUIRED: Must contain one of these terms in classification OR have previews
+                required_photo_terms = ['photo', 'image', 'stock', 'graphic', 'illustration', 'graphics']
+                # REJECT: Anything with these terms
+                excluded_terms = ['sound', 'audio', 'music', 'video', 'footage', 'template', 'code', '3d', 'codecanyon', 'themeforest', 'videohive', 'audiojungle']
+                
                 for match in matches:
                     classification = match.get('classification', '').lower()
-                    # Look for photo/image related classifications
-                    if any(term in classification for term in ['photo', 'image', 'stock', 'graphic']):
+                    
+                    # REJECT: Skip anything with excluded terms
+                    if any(excluded in classification for excluded in excluded_terms):
+                        continue
+                    
+                    # ACCEPT: Has photo/image term in classification OR has previews (items with previews are images)
+                    has_photo_term = any(term in classification for term in required_photo_terms)
+                    has_previews = 'previews' in match and match['previews']
+                    
+                    if has_photo_term or has_previews:
                         photo_matches.append(match)
                 
-                # If we found photo-like matches, use those
+                # If we found photo matches, use those
                 if photo_matches:
+                    print(f"  ✅ Found {len(photo_matches)} photo/image matches (filtered from {len(matches)} total)")
                     data['matches'] = photo_matches[:10]
                     return data
-                # Otherwise return all matches and let the caller filter
-                return data
+                else:
+                    print(f"  ⚠️  No photo/image matches found (all {len(matches)} results were non-photo items)")
+                
+                # If still no matches, try next parameter set
+                continue
             
             # If no matches with this param set, try next
-            if not matches and params != photo_params_options[-1]:
+            if not matches:
+                print(f"  ⚠️  Attempt {i+1}: No matches returned")
                 continue
-                
-            return data
-        except requests.exceptions.RequestException:
-            # Try next parameter set
+        except requests.exceptions.HTTPError as e:
+            last_error = f"HTTP {response.status_code}: {response.text[:200]}"
+            if i == len(photo_params_options) - 1:
+                print(f"  ⚠️  API Error (last attempt): {last_error}")
+            continue
+        except requests.exceptions.RequestException as e:
+            last_error = str(e)
+            if i == len(photo_params_options) - 1:
+                print(f"  ⚠️  Request Error (last attempt): {last_error}")
+            continue
+        except Exception as e:
+            last_error = f"Unexpected error: {str(e)}"
+            if i == len(photo_params_options) - 1:
+                print(f"  ⚠️  {last_error}")
             continue
     
-    # If all parameter sets failed, return None
+    # If all parameter sets failed, log summary
+    print(f"  ❌ Tried {len(photo_params_options)} different search strategies, none returned usable photo results")
+    if last_error:
+        print(f"  ⚠️  Last error: {last_error}")
     return None
 
-def download_image(url: str, filepath: Path, api_key: str) -> bool:
-    """Download image from URL"""
+def download_image(url: str, filepath: Path, api_key: str) -> Tuple[bool, Optional[str]]:
+    """Download image from URL and validate dimensions
+    
+    Returns:
+        Tuple of (success: bool, error_message: Optional[str])
+    """
     headers = {
         "Authorization": f"Bearer {api_key}",
         "User-Agent": "VbN-Image-Downloader/1.0"
@@ -142,15 +201,27 @@ def download_image(url: str, filepath: Path, api_key: str) -> bool:
         # Ensure directory exists
         filepath.parent.mkdir(parents=True, exist_ok=True)
         
-        # Download file
+        # Download file directly
         with open(filepath, 'wb') as f:
             for chunk in response.iter_content(chunk_size=8192):
                 f.write(chunk)
         
-        return True
+        # TODO: Uncomment when ready to validate dimensions
+        # # Validate image dimensions
+        # try:
+        #     with Image.open(filepath) as img:
+        #         width, height = img.size
+        #         if width < min_width or height < min_height:
+        #             filepath.unlink()  # Delete the too-small image
+        #             return (False, f"Image too small: {width}x{height} (minimum: {min_width}x{min_height})")
+        #         print(f"  ✅ Image dimensions: {width}x{height}")
+        # except Exception as e:
+        #     return (False, f"Invalid image file: {str(e)}")
+        
+        return (True, None)
+        
     except requests.exceptions.RequestException as e:
-        print(f"  ❌ Error downloading image: {e}")
-        return False
+        return (False, f"Error downloading image: {e}")
 
 def create_safe_filename(item_name: str) -> str:
     """Create a safe filename from item name"""
@@ -165,34 +236,36 @@ def create_safe_filename(item_name: str) -> str:
     
     return safe_name + '.jpg'
 
-def update_item_image(conn: mysql.connector.MySQLConnection, item_id: int, image_filename: str) -> bool:
-    """Update item's image field in database"""
-    cursor = conn.cursor()
-    try:
-        cursor.execute(
-            "UPDATE items SET image = %s WHERE id = %s",
-            (image_filename, item_id)
-        )
-        conn.commit()
-        return cursor.rowcount > 0
-    except mysql.connector.Error as e:
-        print(f"  ❌ Error updating database: {e}")
-        conn.rollback()
-        return False
-    finally:
-        cursor.close()
+# TODO: Uncomment when ready to update database
+# def update_item_image(conn: mysql.connector.MySQLConnection, item_id: int, image_filename: str) -> bool:
+#     """Update item's image field in database"""
+#     cursor = conn.cursor()
+#     try:
+#         cursor.execute(
+#             "UPDATE items SET image = %s WHERE id = %s",
+#             (image_filename, item_id)
+#         )
+#         conn.commit()
+#         return cursor.rowcount > 0
+#     except mysql.connector.Error as e:
+#         print(f"  ❌ Error updating database: {e}")
+#         conn.rollback()
+#         return False
+#     finally:
+#         cursor.close()
 
 def process_item(item: Dict, api_key: str, conn: mysql.connector.MySQLConnection) -> Tuple[bool, str]:
     """Process a single item: search, download, and update database"""
     item_id = item['id']
     item_name = item['name']
-    current_image = item.get('image', '')
-    
-    # Check if image already exists
-    if current_image:
-        image_path = DOWNLOAD_DIR / current_image
-        if image_path.exists():
-            return (True, f"⏭️  Skipping {item_name} - already has image: {current_image}")
+    # TODO: Uncomment when ready to skip existing images
+    # current_image = item.get('image', '')
+    # 
+    # # Check if image already exists
+    # if current_image:
+    #     image_path = DOWNLOAD_DIR / current_image
+    #     if image_path.exists():
+    #         return (True, f"⏭️  Skipping {item_name} - already has image: {current_image}")
     
     print(f"\n🔍 Processing: {item_name} (ID: {item_id})")
     
@@ -207,88 +280,166 @@ def process_item(item: Dict, api_key: str, conn: mysql.connector.MySQLConnection
     if not matches or len(matches) == 0:
         return (False, f"❌ No results found for {item_name}")
     
-    # Find the best match - prioritize image/graphic items
-    best_match = None
-    image_keywords = ['graphic', 'image', 'photo', 'illustration', 'icon', 'vector', 'png', 'jpg', 'jpeg']
+    # Find the best matches - ONLY photo/image items
+    # Use ONLY classification field (unified marketplace)
+    # Also try to match item name better (e.g., "gun" vs "bullets")
+    # Score all matches and try them in order until one passes dimension check
+    # REQUIRED photo terms in classification
+    required_photo_terms = ['photo', 'image', 'stock', 'graphic', 'illustration', 'graphics']
+    # REJECT these terms
+    excluded_classifications = ['sound', 'audio', 'music', 'video', 'footage', 'template', 'code', '3d', 'codecanyon', 'themeforest', 'videohive', 'audiojungle']
     
+    # Extract key terms from item name for better matching
+    item_name_lower = item_name.lower()
+    item_terms = set(item_name_lower.split())
+    
+    # Score and sort all valid PHOTO matches only
+    scored_matches = []
     for match in matches:
         classification = match.get('classification', '').lower()
-        name = match.get('name', '').lower()
+        match_name = match.get('name', '').lower()
         
-        # Check if this looks like an image/graphic item
-        is_image_like = any(keyword in classification or keyword in name for keyword in image_keywords)
+        # REJECT: Skip anything with excluded terms
+        if any(excluded in classification for excluded in excluded_classifications):
+            continue
         
-        if is_image_like and not best_match:
-            best_match = match
-            break
+        # ACCEPT: Has photo/image term in classification OR has previews (items with previews are images)
+        has_photo_term = any(term in classification for term in required_photo_terms)
+        has_previews = 'previews' in match and match['previews']
+        
+        if not has_photo_term and not has_previews:
+            continue
+        
+        # Score matches: prefer items that match item name terms
+        score = 0
+        
+        # Base score for being a photo
+        score += 10
+        
+        # Bonus for name matching (e.g., "revolver" in match name)
+        match_terms = set(match_name.split())
+        matching_terms = item_terms.intersection(match_terms)
+        score += len(matching_terms) * 5
+        
+        # Penalty for unrelated terms (e.g., "bullets" when searching for "revolver")
+        if 'bullet' in match_name and ('gun' in item_name_lower or 'revolver' in item_name_lower or 'pistol' in item_name_lower):
+            score -= 10
+        
+        # Prefer photo/stock photo classifications
+        if 'photo' in classification or 'stock' in classification:
+            score += 5
+        
+        scored_matches.append((score, match))
     
-    # If no image-like match found, use first result
-    if not best_match:
-        best_match = matches[0]
-        print(f"  ⚠️  Using non-image result: {best_match.get('classification', 'unknown')} - {best_match.get('site', 'unknown')}")
+    # Sort by score (highest first)
+    scored_matches.sort(key=lambda x: x[0], reverse=True)
     
-    # Extract image URL from various possible fields
-    image_url = None
+    # If no matches found, return error
+    if not scored_matches:
+        return (False, f"❌ No suitable photo/image results found for {item_name} (only audio/video/code/3d results available)")
     
-    # Check previews object (common in Envato API)
-    if 'previews' in best_match:
-        previews = best_match['previews']
-        # Try different preview types in order of preference
-        for preview_type in ['icon_with_audio_preview', 'icon_with_video_preview', 'landscape_preview', 'square_preview', 'icon_url', 'thumbnail_preview']:
-            if preview_type in previews:
-                preview_data = previews[preview_type]
-                if isinstance(preview_data, dict):
-                    # Try icon_url first, then url, then any URL-like value
-                    image_url = preview_data.get('icon_url') or preview_data.get('url') or preview_data.get('thumbnail_url')
-                    if not image_url:
-                        # Look for any value that looks like a URL
-                        for key, value in preview_data.items():
-                            if isinstance(value, str) and value.startswith('http'):
-                                image_url = value
-                                break
-                elif isinstance(preview_data, str) and preview_data.startswith('http'):
-                    image_url = preview_data
-                if image_url:
-                    break
+    # Try matches in order until one passes dimension check
+    for score, best_match in scored_matches[:5]:  # Try top 5 matches
+        print(f"  🎯 Trying match (score: {score}): {best_match.get('name', 'Unknown')[:50]}")
+        
+        # Extract image URL from various possible fields
+        # Skip icon URLs - those are just logos, not actual photos
+        image_url = None
+        
+        # Check previews object (common in Envato API)
+        # Prioritize larger preview types for better quality images
+        if 'previews' in best_match:
+            previews = best_match['previews']
+            # Skip icon_with_audio_preview and icon_with_video_preview - those are logos
+            # Only use preview types that are actual images
+            # Prioritize larger previews: landscape > square > thumbnail
+            for preview_type in ['landscape_preview', 'square_preview', 'preview_url', 'thumbnail_preview']:
+                if preview_type in previews:
+                    preview_data = previews[preview_type]
+                    if isinstance(preview_data, dict):
+                        # Prefer url/preview_url over icon_url (icon_url is usually just a logo)
+                        image_url = preview_data.get('url') or preview_data.get('preview_url') or preview_data.get('thumbnail_url')
+                        if not image_url:
+                            # Look for any value that looks like a URL (but skip icon_url)
+                            for key, value in preview_data.items():
+                                if key != 'icon_url' and isinstance(value, str) and value.startswith('http'):
+                                    image_url = value
+                                    break
+                    elif isinstance(preview_data, str) and preview_data.startswith('http'):
+                        image_url = preview_data
+                    if image_url:
+                        break
+        
+        # Check direct image URL fields (never use icon_url - it's just logos)
+        if not image_url:
+            image_url = (
+                best_match.get('preview_url') or 
+                best_match.get('thumbnail_url') or 
+                best_match.get('live_preview_url') or
+                best_match.get('image_url')
+            )
+        
+        # Check image_urls array
+        if not image_url and 'image_urls' in best_match:
+            image_urls = best_match['image_urls']
+            if isinstance(image_urls, list) and len(image_urls) > 0:
+                image_url = image_urls[0]
+            elif isinstance(image_urls, dict):
+                # Try common keys
+                image_url = image_urls.get('thumbnail') or image_urls.get('preview') or image_urls.get('icon')
+        
+        if not image_url:
+            # Log available fields for debugging
+            available_fields = [k for k in best_match.keys() if 'image' in k.lower() or 'preview' in k.lower() or 'url' in k.lower()]
+            print(f"  ⚠️  No image URL found in this match. Available fields: {', '.join(available_fields[:5])}")
+            continue  # Try next match
+        
+        # Download using Envato item name
+        envato_name = best_match.get('name', 'item')
+        image_filename = create_safe_filename(envato_name)
+        final_filepath = DOWNLOAD_DIR / image_filename
+        
+        # Download image
+        print(f"  ⬇️  Downloading: {envato_name[:50]}...")
+        success, error_msg = download_image(image_url, final_filepath, api_key)
+        if not success:
+            print(f"  ⚠️  {error_msg}, trying next match...")
+            continue  # Try next match
+        
+        print(f"  ✅ Saved as: {image_filename}")
+        return (True, f"✅ Successfully downloaded {item_name}")
+        
+        # TODO: Uncomment when ready to rename and update database
+        # # Now rename to database item name
+        # image_filename = create_safe_filename(item_name)
+        # final_filepath = DOWNLOAD_DIR / image_filename
+        # 
+        # # Delete existing file if it exists
+        # if final_filepath.exists():
+        #     try:
+        #         final_filepath.unlink()
+        #     except PermissionError:
+        #         print(f"  ⚠️  Cannot replace existing file (locked): {image_filename}, trying next match...")
+        #         temp_filepath.unlink()  # Clean up temp file
+        #         continue
+        # 
+        # # Rename temp file to final name
+        # try:
+        #     temp_filepath.replace(final_filepath)
+        #     print(f"  ✅ Saved as: {image_filename}")
+        # except Exception as e:
+        #     print(f"  ⚠️  Failed to rename file: {e}, trying next match...")
+        #     temp_filepath.unlink()  # Clean up temp file
+        #     continue
+        # 
+        # # Update database
+        # if update_item_image(conn, item_id, image_filename):
+        #     return (True, f"✅ Successfully downloaded and updated {item_name}")
+        # else:
+        #     return (False, f"⚠️  Downloaded but failed to update database for {item_name}")
     
-    # Check direct image URL fields
-    if not image_url:
-        image_url = (
-            best_match.get('preview_url') or 
-            best_match.get('thumbnail_url') or 
-            best_match.get('live_preview_url') or
-            best_match.get('icon_url') or
-            best_match.get('image_url')
-        )
-    
-    # Check image_urls array
-    if not image_url and 'image_urls' in best_match:
-        image_urls = best_match['image_urls']
-        if isinstance(image_urls, list) and len(image_urls) > 0:
-            image_url = image_urls[0]
-        elif isinstance(image_urls, dict):
-            # Try common keys
-            image_url = image_urls.get('thumbnail') or image_urls.get('preview') or image_urls.get('icon')
-    
-    if not image_url:
-        # Log available fields for debugging
-        available_fields = [k for k in best_match.keys() if 'image' in k.lower() or 'preview' in k.lower() or 'url' in k.lower()]
-        return (False, f"❌ No image URL found for {item_name}. Available fields: {', '.join(available_fields[:5])}")
-    
-    # Create filename
-    image_filename = create_safe_filename(item_name)
-    filepath = DOWNLOAD_DIR / image_filename
-    
-    # Download image
-    print(f"  ⬇️  Downloading to: {image_filename}")
-    if not download_image(image_url, filepath, api_key):
-        return (False, f"❌ Failed to download {item_name}")
-    
-    # Update database
-    if update_item_image(conn, item_id, image_filename):
-        return (True, f"✅ Successfully downloaded and updated {item_name}")
-    else:
-        return (False, f"⚠️  Downloaded but failed to update database for {item_name}")
+    # If we tried all matches and none worked
+    return (False, f"❌ Tried {len(scored_matches[:5])} matches, none passed dimension check or had valid image URLs")
 
 def main() -> None:
     """Main execution function"""
@@ -317,10 +468,13 @@ def main() -> None:
         print(f"❌ {e}")
         sys.exit(1)
     
-    # Get items
+    # Get items - only crowbar
     try:
-        items = get_items_from_database(conn)
-        print(f"✅ Found {len(items)} items in database")
+        cursor = conn.cursor(dictionary=True)
+        cursor.execute("SELECT id, name, image FROM items WHERE name LIKE %s ORDER BY name ASC", ("%crowbar%",))
+        items = cursor.fetchall()
+        cursor.close()
+        print(f"✅ Found {len(items)} items matching 'crowbar' in database")
     except mysql.connector.Error as e:
         print(f"❌ Error fetching items: {e}")
         conn.close()
@@ -331,23 +485,33 @@ def main() -> None:
         conn.close()
         sys.exit(0)
     
+    # Limit items to process if MAX_ITEMS_TO_PROCESS is set
+    items_to_process = items
+    if MAX_ITEMS_TO_PROCESS is not None and MAX_ITEMS_TO_PROCESS > 0:
+        items_to_process = items[:MAX_ITEMS_TO_PROCESS]
+        print(f"\n⚠️  Processing limited to {MAX_ITEMS_TO_PROCESS} item(s) for testing")
+        print(f"   (Total items in database: {len(items)})")
+    
     # Process items
-    print(f"\n📦 Processing {len(items)} items...")
+    print(f"\n📦 Processing {len(items_to_process)} items...")
     print("=" * 60)
     
     success_count = 0
-    skip_count = 0
+    # TODO: Uncomment when ready to track skipped items
+    # skip_count = 0
     error_count = 0
     
-    for item in items:
+    for item in items_to_process:
         success, message = process_item(item, api_key, conn)
         print(f"  {message}")
         
         if success:
-            if "Skipping" in message:
-                skip_count += 1
-            else:
-                success_count += 1
+            # TODO: Uncomment when ready to track skipped items
+            # if "Skipping" in message:
+            #     skip_count += 1
+            # else:
+            #     success_count += 1
+            success_count += 1
         else:
             error_count += 1
     
@@ -355,7 +519,8 @@ def main() -> None:
     print("\n" + "=" * 60)
     print("Summary:")
     print(f"  ✅ Downloaded: {success_count}")
-    print(f"  ⏭️  Skipped: {skip_count}")
+    # TODO: Uncomment when ready to track skipped items
+    # print(f"  ⏭️  Skipped: {skip_count}")
     print(f"  ❌ Errors: {error_count}")
     print("=" * 60)
     
