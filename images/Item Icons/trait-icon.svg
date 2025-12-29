@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="#000000">
+  <!-- Badge/Medal silhouette -->
+  <path d="M50 15 L60 35 L80 40 L65 55 L68 75 L50 65 L32 75 L35 55 L20 40 L40 35 Z" />
+  <circle cx="50" cy="50" r="12" />
+</svg>
+
