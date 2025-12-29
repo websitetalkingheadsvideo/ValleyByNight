@@ -1,6 +1,26 @@
 # Version History
 
-## Current Version: 0.9.8
+## Current Version: 0.9.9
+
+**Date:** 2025-01-30  
+**Type:** Patch (Items Art Bible creation, Envato image downloader improvements: item name renaming and isolated keyword search)
+
+### Changes:
+- **Art Bible - Items System** - Created comprehensive Art Bible Part XI for Items System
+  - Defined visual standards, image requirements, UI display rules, badge systems
+  - Documented item types, categories, color palettes, typography standards
+  - Added integration with other Art Bible systems
+  - Updated Master Index to include Part XI
+- **Envato Image Prompts** - Created AI image generation prompts for failed downloads
+  - Generated 46 prompts for items that failed to download from Envato
+  - All prompts follow Valley by Night Art Bible standards
+  - Updated tracking.md to reference prompts
+- **Envato Download Script Improvements** - Enhanced image downloader
+  - Images now renamed to match database item names (not Envato item names)
+  - Added "isolated" keyword to all search queries for better product photography results
+  - Improved filename consistency with database
+
+## Previous Version: 0.9.8
 
 **Date:** 2025-01-30  
 **Type:** Patch (Envato image downloader improvements: full-size image selection, square/landscape priority, comprehensive size detection)

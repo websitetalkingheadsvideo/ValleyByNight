@@ -3,15 +3,15 @@
 This file tracks the status of image downloads from Envato Photos.
 
 ## Last Run
-2025-12-28 23:28:13
+2025-12-29 01:41:31
 
 ## Summary
 - **Total Items Processed:** 87
-- **Successful Downloads:** 41
-- **Failed Downloads:** 46
+- **Successful Downloads:** 33
+- **Failed Downloads:** 54
 - **Needs Purchase:** 0
-- **Success Rate:** 47.1%
-- **Database Updates:** 41 successful, 0 failed
+- **Success Rate:** 37.9%
+- **Database Updates:** 33 successful, 0 failed
 
 ---
 
@@ -19,331 +19,267 @@ This file tracks the status of image downloads from Envato Photos.
 
 ### 9mm Pistol (ID: 1)
 - **Status:** ✅ Successfully downloaded
-- **Filename:** `9mm_pistol_bullets_and_handgun.jpg`
-- **Dimensions:** 1600x1066px
+- **Filename:** `9mm_pistol.jpg`
+- **Dimensions:** 1600x1234px
 - **Database:** ✅ Updated
 - **Details:** ✅ Successfully downloaded and updated 9mm Pistol
-- **Timestamp:** 2025-12-28 23:25:24
+- **Timestamp:** 2025-12-29 01:39:04
 
 ### Ashes of the Fallen (ID: 27)
 - **Status:** ✅ Successfully downloaded
-- **Filename:** `fallen_yellow_leaf_of_ash_tree_isolated.jpg`
+- **Filename:** `ashes_of_the_fallen.jpg`
 - **Dimensions:** 1600x910px
 - **Database:** ✅ Updated
 - **Details:** ✅ Successfully downloaded and updated Ashes of the Fallen
-- **Timestamp:** 2025-12-28 23:25:26
+- **Timestamp:** 2025-12-29 01:39:06
 
 ### Baseball Bat (ID: 4)
 - **Status:** ✅ Successfully downloaded
-- **Filename:** `baseball_bat_and_ball.jpg`
-- **Dimensions:** 1600x1066px
+- **Filename:** `baseball_bat.jpg`
+- **Dimensions:** 1600x1600px
 - **Database:** ✅ Updated
 - **Details:** ✅ Successfully downloaded and updated Baseball Bat
-- **Timestamp:** 2025-12-28 23:25:32
+- **Timestamp:** 2025-12-29 01:39:12
 
 ### Biker Helmet (ID: 19)
 - **Status:** ✅ Successfully downloaded
-- **Filename:** `biker_helmet_and_glove_with_grunge_background.jpg`
+- **Filename:** `biker_helmet.jpg`
 - **Dimensions:** 1600x1066px
 - **Database:** ✅ Updated
 - **Details:** ✅ Successfully downloaded and updated Biker Helmet
-- **Timestamp:** 2025-12-28 23:25:34
+- **Timestamp:** 2025-12-29 01:39:15
 
 ### Burned Tarot Card (ID: 26)
 - **Status:** ✅ Successfully downloaded
-- **Filename:** `tarot_reader_holding_a_burning_match_over_tarot_cards.jpg`
-- **Dimensions:** 1600x1066px
+- **Filename:** `burned_tarot_card.jpg`
+- **Dimensions:** 1600x1067px
 - **Database:** ✅ Updated
 - **Details:** ✅ Successfully downloaded and updated Burned Tarot Card
-- **Timestamp:** 2025-12-28 23:25:40
+- **Timestamp:** 2025-12-29 01:39:21
 
 ### Car Phone (ID: 14)
 - **Status:** ✅ Successfully downloaded
-- **Filename:** `driving_car_and_phone.jpg`
-- **Dimensions:** 1600x1144px
+- **Filename:** `car_phone.jpg`
+- **Dimensions:** 1600x1066px
 - **Database:** ✅ Updated
 - **Details:** ✅ Successfully downloaded and updated Car Phone
-- **Timestamp:** 2025-12-28 23:25:46
+- **Timestamp:** 2025-12-29 01:39:28
 
 ### Chainmail (ID: 54)
 - **Status:** ✅ Successfully downloaded
-- **Filename:** `medieval_queen_with_sword_and_chainmail_staring_at_camera.jpg`
+- **Filename:** `chainmail.jpg`
 - **Dimensions:** 1600x1066px
 - **Database:** ✅ Updated
 - **Details:** ✅ Successfully downloaded and updated Chainmail
-- **Timestamp:** 2025-12-28 23:25:48
+- **Timestamp:** 2025-12-29 01:39:30
 
 ### Combat Knife (ID: 5)
 - **Status:** ✅ Successfully downloaded
 - **Filename:** `combat_knife.jpg`
-- **Dimensions:** 1600x1066px
+- **Dimensions:** 1600x1670px
 - **Database:** ✅ Updated
 - **Details:** ✅ Successfully downloaded and updated Combat Knife
-- **Timestamp:** 2025-12-28 23:25:52
+- **Timestamp:** 2025-12-29 01:39:36
 
 ### Compound Bow (ID: 79)
 - **Status:** ✅ Successfully downloaded
-- **Filename:** `sport_bow.jpg`
+- **Filename:** `compound_bow.jpg`
 - **Dimensions:** 1600x1066px
 - **Database:** ✅ Updated
 - **Details:** ✅ Successfully downloaded and updated Compound Bow
-- **Timestamp:** 2025-12-28 23:25:54
+- **Timestamp:** 2025-12-29 01:39:37
 
 ### Crowbar (ID: 7)
 - **Status:** ✅ Successfully downloaded
 - **Filename:** `crowbar.jpg`
-- **Dimensions:** 1600x1071px
+- **Dimensions:** 1600x1282px
 - **Database:** ✅ Updated
 - **Details:** ✅ Successfully downloaded and updated Crowbar
-- **Timestamp:** 2025-12-28 23:25:57
+- **Timestamp:** 2025-12-29 01:39:40
 
 ### Directional Microphone (ID: 62)
 - **Status:** ✅ Successfully downloaded
-- **Filename:** `small_modern_on-camera_microphone_directional_microphone.jpg`
+- **Filename:** `directional_microphone.jpg`
 - **Dimensions:** 1600x1600px
 - **Database:** ✅ Updated
 - **Details:** ✅ Successfully downloaded and updated Directional Microphone
-- **Timestamp:** 2025-12-28 23:26:00
+- **Timestamp:** 2025-12-29 01:39:43
 
 ### Duffel Bag (ID: 18)
 - **Status:** ✅ Successfully downloaded
-- **Filename:** `army_duffel_bag.jpg`
-- **Dimensions:** 1600x1066px
+- **Filename:** `duffel_bag.jpg`
+- **Dimensions:** 1600x1409px
 - **Database:** ✅ Updated
 - **Details:** ✅ Successfully downloaded and updated Duffel Bag
-- **Timestamp:** 2025-12-28 23:26:01
+- **Timestamp:** 2025-12-29 01:39:45
 
 ### Handcuffs (ID: 17)
 - **Status:** ✅ Successfully downloaded
 - **Filename:** `handcuffs.jpg`
-- **Dimensions:** 1600x1062px
+- **Dimensions:** 1600x1066px
 - **Database:** ✅ Updated
 - **Details:** ✅ Successfully downloaded and updated Handcuffs
-- **Timestamp:** 2025-12-28 23:26:06
+- **Timestamp:** 2025-12-29 01:39:50
 
 ### Handheld Tape Recorder (ID: 16)
 - **Status:** ✅ Successfully downloaded
-- **Filename:** `close-up_of_portable_voice_recorder_action_details_of_modern_voice_recorder_for_recordings_new.jpg`
+- **Filename:** `handheld_tape_recorder.jpg`
 - **Dimensions:** 1600x900px
 - **Database:** ✅ Updated
 - **Details:** ✅ Successfully downloaded and updated Handheld Tape Recorder
-- **Timestamp:** 2025-12-28 23:26:08
+- **Timestamp:** 2025-12-29 01:39:52
 
 ### Hatchet (ID: 80)
 - **Status:** ✅ Successfully downloaded
-- **Filename:** `old_hatchet_an_a_cutting_board.jpg`
-- **Dimensions:** 1600x1066px
+- **Filename:** `hatchet.jpg`
+- **Dimensions:** 1600x1070px
 - **Database:** ✅ Updated
 - **Details:** ✅ Successfully downloaded and updated Hatchet
-- **Timestamp:** 2025-12-28 23:26:10
+- **Timestamp:** 2025-12-29 01:39:55
 
 ### Heart of Desire (ID: 87)
 - **Status:** ✅ Successfully downloaded
-- **Filename:** `do_what_your_heart_desires_shot_of_a_young_man_lying_on_the_roof_of_his_truck_on_a_roadtrip.jpg`
-- **Dimensions:** 1600x1067px
+- **Filename:** `heart_of_desire.jpg`
+- **Dimensions:** 1600x1178px
 - **Database:** ✅ Updated
 - **Details:** ✅ Successfully downloaded and updated Heart of Desire
-- **Timestamp:** 2025-12-28 23:26:11
-
-### Heavy Pistol (ID: 81)
-- **Status:** ✅ Successfully downloaded
-- **Filename:** `strong_man_doing_calisthenics_kettlebell_pistol_squat_exercise.jpg`
-- **Dimensions:** 1600x1066px
-- **Database:** ✅ Updated
-- **Details:** ✅ Successfully downloaded and updated Heavy Pistol
-- **Timestamp:** 2025-12-28 23:26:14
+- **Timestamp:** 2025-12-29 01:39:59
 
 ### Holy Symbol (ID: 63)
 - **Status:** ✅ Successfully downloaded
-- **Filename:** `holy_christ_symbol_with_blurred_tree_background.jpg`
-- **Dimensions:** 1600x900px
-- **Database:** ✅ Updated
-- **Details:** ✅ Successfully downloaded and updated Holy Symbol
-- **Timestamp:** 2025-12-28 23:26:16
-
-### Infrared Goggles (ID: 64)
-- **Status:** ✅ Successfully downloaded
-- **Filename:** `woman_holding_an_infrared_thermometer_in_her_hand.jpg`
+- **Filename:** `holy_symbol.jpg`
 - **Dimensions:** 1600x1066px
 - **Database:** ✅ Updated
-- **Details:** ✅ Successfully downloaded and updated Infrared Goggles
-- **Timestamp:** 2025-12-28 23:26:20
+- **Details:** ✅ Successfully downloaded and updated Holy Symbol
+- **Timestamp:** 2025-12-29 01:40:02
 
 ### Katana (ID: 47)
 - **Status:** ✅ Successfully downloaded
-- **Filename:** `woman_with_katana.jpg`
-- **Dimensions:** 1600x1068px
+- **Filename:** `katana.jpg`
+- **Dimensions:** 1600x1067px
 - **Database:** ✅ Updated
 - **Details:** ✅ Successfully downloaded and updated Katana
-- **Timestamp:** 2025-12-28 23:26:22
+- **Timestamp:** 2025-12-29 01:40:08
 
 ### Kevlar Vest (ID: 10)
 - **Status:** ✅ Successfully downloaded
-- **Filename:** `bulletproof_vest_isolated.jpg`
+- **Filename:** `kevlar_vest.jpg`
 - **Dimensions:** 1600x1464px
 - **Database:** ✅ Updated
 - **Details:** ✅ Successfully downloaded and updated Kevlar Vest
-- **Timestamp:** 2025-12-28 23:26:25
+- **Timestamp:** 2025-12-29 01:40:09
 
 ### Large Shield (ID: 55)
 - **Status:** ✅ Successfully downloaded
-- **Filename:** `a_child_plays_joyfully_in_the_water_spray_using_a_large_green_leaf_as_a_shield.jpg`
-- **Dimensions:** 1600x1069px
+- **Filename:** `large_shield.jpg`
+- **Dimensions:** 1600x1066px
 - **Database:** ✅ Updated
 - **Details:** ✅ Successfully downloaded and updated Large Shield
-- **Timestamp:** 2025-12-28 23:26:30
+- **Timestamp:** 2025-12-29 01:40:18
 
 ### Leather Armor (ID: 56)
 - **Status:** ✅ Successfully downloaded
-- **Filename:** `muscular_viking_warrior_leather_armor_with_two_axes.jpg`
-- **Dimensions:** 1600x1066px
+- **Filename:** `leather_armor.jpg`
+- **Dimensions:** 1600x988px
 - **Database:** ✅ Updated
 - **Details:** ✅ Successfully downloaded and updated Leather Armor
-- **Timestamp:** 2025-12-28 23:26:33
-
-### Moonstone Charm (ID: 48)
-- **Status:** ✅ Successfully downloaded
-- **Filename:** `opal_moonstone_fashion_ring.jpg`
-- **Dimensions:** 1600x1460px
-- **Database:** ✅ Updated
-- **Details:** ✅ Successfully downloaded and updated Moonstone Charm
-- **Timestamp:** 2025-12-28 23:26:38
+- **Timestamp:** 2025-12-29 01:40:21
 
 ### Motion Detector (ID: 66)
 - **Status:** ✅ Successfully downloaded
-- **Filename:** `infrared_motion_detector_for_internal_alarm.jpg`
-- **Dimensions:** 1600x1066px
+- **Filename:** `motion_detector.jpg`
+- **Dimensions:** 1600x1361px
 - **Database:** ✅ Updated
 - **Details:** ✅ Successfully downloaded and updated Motion Detector
-- **Timestamp:** 2025-12-28 23:26:43
+- **Timestamp:** 2025-12-29 01:40:28
 
 ### Motorcycle Jacket (ID: 11)
 - **Status:** ✅ Successfully downloaded
-- **Filename:** `a_cute_kid_in_a_beige_hoodie_and_a_funny_black_motorcycle_jacket_sits_on_the_floor_with_dj.jpg`
-- **Dimensions:** 1600x1066px
+- **Filename:** `motorcycle_jacket.jpg`
+- **Dimensions:** 1600x1067px
 - **Database:** ✅ Updated
 - **Details:** ✅ Successfully downloaded and updated Motorcycle Jacket
-- **Timestamp:** 2025-12-28 23:27:02
-
-### Nightshade Oil (ID: 36)
-- **Status:** ✅ Successfully downloaded
-- **Filename:** `asian_salad_with_eggplant_tomato_sesame_seeds_and_sweet_sauce_top_view.jpg`
-- **Dimensions:** 1600x1066px
-- **Database:** ✅ Updated
-- **Details:** ✅ Successfully downloaded and updated Nightshade Oil
-- **Timestamp:** 2025-12-28 23:27:05
+- **Timestamp:** 2025-12-29 01:40:30
 
 ### Pager (ID: 13)
 - **Status:** ✅ Successfully downloaded
-- **Filename:** `pager_isolated.jpg`
+- **Filename:** `pager.jpg`
 - **Dimensions:** 1600x1066px
 - **Database:** ✅ Updated
 - **Details:** ✅ Successfully downloaded and updated Pager
-- **Timestamp:** 2025-12-28 23:27:09
-
-### Plate Mail (ID: 57)
-- **Status:** ✅ Successfully downloaded
-- **Filename:** `blue_mail_envelope_blank_white_paper_letter_dry_herb_and_empty_colorful_concrete_decor_plate.jpg`
-- **Dimensions:** 1600x1108px
-- **Database:** ✅ Updated
-- **Details:** ✅ Successfully downloaded and updated Plate Mail
-- **Timestamp:** 2025-12-28 23:27:13
+- **Timestamp:** 2025-12-29 01:40:35
 
 ### Police Scanner (ID: 12)
 - **Status:** ✅ Successfully downloaded
-- **Filename:** `airport_security_check_officer_using_metal_weapon_scanner_detector_check_every_passenger.jpg`
-- **Dimensions:** 1600x1066px
+- **Filename:** `police_scanner.jpg`
+- **Dimensions:** 1600x1305px
 - **Database:** ✅ Updated
 - **Details:** ✅ Successfully downloaded and updated Police Scanner
-- **Timestamp:** 2025-12-28 23:27:17
-
-### Reinforced Vest (ID: 58)
-- **Status:** ✅ Successfully downloaded
-- **Filename:** `construction_worker_talks_on_a_smartphone_in_a_yellow_helmet_and_protective_vest.jpg`
-- **Dimensions:** 1600x1066px
-- **Database:** ✅ Updated
-- **Details:** ✅ Successfully downloaded and updated Reinforced Vest
-- **Timestamp:** 2025-12-28 23:27:19
+- **Timestamp:** 2025-12-29 01:40:42
 
 ### Riot Shield (ID: 59)
 - **Status:** ✅ Successfully downloaded
-- **Filename:** `woman_attaching_daisies_to_riot_shields_of_police_force.jpg`
+- **Filename:** `riot_shield.jpg`
 - **Dimensions:** 1600x1066px
 - **Database:** ✅ Updated
 - **Details:** ✅ Successfully downloaded and updated Riot Shield
-- **Timestamp:** 2025-12-28 23:27:22
+- **Timestamp:** 2025-12-29 01:40:47
 
 ### Shotgun (ID: 82)
 - **Status:** ✅ Successfully downloaded
 - **Filename:** `shotgun.jpg`
-- **Dimensions:** 1600x1064px
+- **Dimensions:** 1600x1066px
 - **Database:** ✅ Updated
 - **Details:** ✅ Successfully downloaded and updated Shotgun
-- **Timestamp:** 2025-12-28 23:27:27
+- **Timestamp:** 2025-12-29 01:40:57
 
 ### Small Shield (ID: 60)
 - **Status:** ✅ Successfully downloaded
-- **Filename:** `closeup_on_the_small_mediterranean_pentatomid_shield_bug_holcostethus_albipes.jpg`
-- **Dimensions:** 1600x1066px
+- **Filename:** `small_shield.jpg`
+- **Dimensions:** 1600x1600px
 - **Database:** ✅ Updated
 - **Details:** ✅ Successfully downloaded and updated Small Shield
-- **Timestamp:** 2025-12-28 23:27:32
-
-### Smoked Glass Vial (ID: 34)
-- **Status:** ✅ Successfully downloaded
-- **Filename:** `glass_flask_glass_vials_glass_in_smoke_chemical_experiments.jpg`
-- **Dimensions:** 1600x1066px
-- **Database:** ✅ Updated
-- **Details:** ✅ Successfully downloaded and updated Smoked Glass Vial
-- **Timestamp:** 2025-12-28 23:27:35
+- **Timestamp:** 2025-12-29 01:41:02
 
 ### Sniper Rifle (ID: 83)
 - **Status:** ✅ Successfully downloaded
 - **Filename:** `sniper_rifle.jpg`
-- **Dimensions:** 1600x617px
+- **Dimensions:** 1600x1062px
 - **Database:** ✅ Updated
 - **Details:** ✅ Successfully downloaded and updated Sniper Rifle
-- **Timestamp:** 2025-12-28 23:27:37
+- **Timestamp:** 2025-12-29 01:41:06
 
 ### Submachine Gun (ID: 84)
 - **Status:** ✅ Successfully downloaded
-- **Filename:** `scorpion_submachine_gun.jpg`
-- **Dimensions:** 1600x1072px
+- **Filename:** `submachine_gun.jpg`
+- **Dimensions:** 1600x1594px
 - **Database:** ✅ Updated
 - **Details:** ✅ Successfully downloaded and updated Submachine Gun
-- **Timestamp:** 2025-12-28 23:27:41
+- **Timestamp:** 2025-12-29 01:41:10
 
 ### Suppressor (ID: 69)
 - **Status:** ✅ Successfully downloaded
-- **Filename:** `caucasian_military_lady_woman_in_tactical_gear_posing_for_photo_at_summer_season_wearing_green_camo.jpg`
-- **Dimensions:** 1600x1066px
+- **Filename:** `suppressor.jpg`
+- **Dimensions:** 1600x1250px
 - **Database:** ✅ Updated
 - **Details:** ✅ Successfully downloaded and updated Suppressor
-- **Timestamp:** 2025-12-28 23:27:46
+- **Timestamp:** 2025-12-29 01:41:16
 
 ### Switchblade (ID: 6)
 - **Status:** ✅ Successfully downloaded
-- **Filename:** `every_day_carry_pocket_folding_knife_on_black_background.jpg`
-- **Dimensions:** 1600x1066px
+- **Filename:** `switchblade.jpg`
+- **Dimensions:** 1600x1596px
 - **Database:** ✅ Updated
 - **Details:** ✅ Successfully downloaded and updated Switchblade
-- **Timestamp:** 2025-12-28 23:27:50
-
-### Throwing Hatchet (ID: 85)
-- **Status:** ✅ Successfully downloaded
-- **Filename:** `axe_throwing_target_with_axe_in_center_bullseye.jpg`
-- **Dimensions:** 1600x1066px
-- **Database:** ✅ Updated
-- **Details:** ✅ Successfully downloaded and updated Throwing Hatchet
-- **Timestamp:** 2025-12-28 23:27:56
+- **Timestamp:** 2025-12-29 01:41:18
 
 ### Throwing Knife (ID: 86)
 - **Status:** ✅ Successfully downloaded
-- **Filename:** `man_throwing_sharp_knife_at_tomato_on_woman_head.jpg`
-- **Dimensions:** 1600x1067px
+- **Filename:** `throwing_knife.jpg`
+- **Dimensions:** 1600x1068px
 - **Database:** ✅ Updated
 - **Details:** ✅ Successfully downloaded and updated Throwing Knife
-- **Timestamp:** 2025-12-28 23:28:02
+- **Timestamp:** 2025-12-29 01:41:22
 
 ---
 
@@ -353,277 +289,325 @@ This file tracks the status of image downloads from Envato Photos.
 - **Status:** ❌ Failed
 - **Error:** ❌ Tried 5 matches, none passed dimension check or had valid image URLs
 - **Details:** ❌ Tried 5 matches, none passed dimension check or had valid image URLs
-- **Timestamp:** 2025-12-28 23:25:29
+- **Timestamp:** 2025-12-29 01:39:10
 
 ### Blood Trait (ID: 76)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Blood Trait
 - **Details:** ❌ No API response for Blood Trait
-- **Timestamp:** 2025-12-28 23:25:35
+- **Timestamp:** 2025-12-29 01:39:16
 
 ### Blood-tinted Amulet (ID: 21)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Blood-tinted Amulet
 - **Details:** ❌ No API response for Blood-tinted Amulet
-- **Timestamp:** 2025-12-28 23:25:36
+- **Timestamp:** 2025-12-29 01:39:16
 
 ### Bonus Traits:2 Negative Trait Heavy Concealability Trench Coat (ID: 70)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Bonus Traits:2 Negative Trait Heavy Concealability Trench Coat
 - **Details:** ❌ No API response for Bonus Traits:2 Negative Trait Heavy Concealability Trench Coat
-- **Timestamp:** 2025-12-28 23:25:37
+- **Timestamp:** 2025-12-29 01:39:18
 
 ### Bonus Traits:2 Negative Traits:loud, Heavy Concealability Jacket (ID: 71)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Bonus Traits:2 Negative Traits:loud, Heavy Concealability Jacket
 - **Details:** ❌ No API response for Bonus Traits:2 Negative Traits:loud, Heavy Concealability Jacket
-- **Timestamp:** 2025-12-28 23:25:38
+- **Timestamp:** 2025-12-29 01:39:19
 
 ### Cactus Thorn Dagger (ID: 22)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Cactus Thorn Dagger
 - **Details:** ❌ No API response for Cactus Thorn Dagger
-- **Timestamp:** 2025-12-28 23:25:41
+- **Timestamp:** 2025-12-29 01:39:22
 
 ### Canopic Jar of Whispers (ID: 51)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Canopic Jar of Whispers
 - **Details:** ❌ No API response for Canopic Jar of Whispers
-- **Timestamp:** 2025-12-28 23:25:42
+- **Timestamp:** 2025-12-29 01:39:23
 
 ### Canvas Backpack (jansport 1995) (ID: 43)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Canvas Backpack (jansport 1995)
 - **Details:** ❌ No API response for Canvas Backpack (jansport 1995)
-- **Timestamp:** 2025-12-28 23:25:44
+- **Timestamp:** 2025-12-29 01:39:24
 
 ### Chalk Sigil Set (ID: 32)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Chalk Sigil Set
 - **Details:** ❌ No API response for Chalk Sigil Set
-- **Timestamp:** 2025-12-28 23:25:49
+- **Timestamp:** 2025-12-29 01:39:31
 
 ### Charred Bone Charm (ID: 29)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Charred Bone Charm
 - **Details:** ❌ No API response for Charred Bone Charm
-- **Timestamp:** 2025-12-28 23:25:51
+- **Timestamp:** 2025-12-29 01:39:32
 
 ### Cracked Obsidian Coin (ID: 28)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Cracked Obsidian Coin
 - **Details:** ❌ No API response for Cracked Obsidian Coin
-- **Timestamp:** 2025-12-28 23:25:55
+- **Timestamp:** 2025-12-29 01:39:38
 
 ### Desert Sand Pouch (ID: 23)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Desert Sand Pouch
 - **Details:** ❌ No API response for Desert Sand Pouch
-- **Timestamp:** 2025-12-28 23:25:58
+- **Timestamp:** 2025-12-29 01:39:41
 
 ### Extra Ammo (9mm and 12 Gauge) (ID: 46)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Extra Ammo (9mm and 12 Gauge)
 - **Details:** ❌ No API response for Extra Ammo (9mm and 12 Gauge)
-- **Timestamp:** 2025-12-28 23:26:02
+- **Timestamp:** 2025-12-29 01:39:46
 
 ### Flashlight (maglite) (ID: 9)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Flashlight (maglite)
 - **Details:** ❌ No API response for Flashlight (maglite)
-- **Timestamp:** 2025-12-28 23:26:03
+- **Timestamp:** 2025-12-29 01:39:47
 
 ### Glamour Trait (ID: 72)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Glamour Trait
 - **Details:** ❌ No API response for Glamour Trait
-- **Timestamp:** 2025-12-28 23:26:04
+- **Timestamp:** 2025-12-29 01:39:47
+
+### Heavy Pistol (ID: 81)
+- **Status:** ❌ Failed
+- **Error:** ❌ No API response for Heavy Pistol
+- **Details:** ❌ No API response for Heavy Pistol
+- **Timestamp:** 2025-12-29 01:39:59
 
 ### Holywater (ID: 61)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Holywater
 - **Details:** ❌ No API response for Holywater
-- **Timestamp:** 2025-12-28 23:26:17
+- **Timestamp:** 2025-12-29 01:40:04
+
+### Infrared Goggles (ID: 64)
+- **Status:** ❌ Failed
+- **Error:** ❌ No API response for Infrared Goggles
+- **Details:** ❌ No API response for Infrared Goggles
+- **Timestamp:** 2025-12-29 01:40:05
 
 ### Kirlian Camera (ID: 65)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Kirlian Camera
 - **Details:** ❌ No API response for Kirlian Camera
-- **Timestamp:** 2025-12-28 23:26:26
+- **Timestamp:** 2025-12-29 01:40:10
 
 ### Kodak Advantix Camera (ID: 45)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Kodak Advantix Camera
 - **Details:** ❌ No API response for Kodak Advantix Camera
-- **Timestamp:** 2025-12-28 23:26:27
+- **Timestamp:** 2025-12-29 01:40:11
 
 ### Laptop Computer (compaq Lte) (ID: 15)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Laptop Computer (compaq Lte)
 - **Details:** ❌ No API response for Laptop Computer (compaq Lte)
-- **Timestamp:** 2025-12-28 23:26:28
+- **Timestamp:** 2025-12-29 01:40:12
 
 ### Laser Sight One Additional Bonus Trait to Any Firearm Shooter Spends a Full Turn Aiming. Description: a Laser Sight Improves the Accuracy of a Weapon by Highlighting the Target with a Small Pinpoint of Reflected Light. the Sniper Can Easily Line Up a More (ID: 73)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Laser Sight One Additional Bonus Trait to Any Firearm Shooter Spends a Full Turn Aiming. Description: a Laser Sight Improves the Accuracy of a Weapon by Highlighting the Target with a Small Pinpoint of Reflected Light. the Sniper Can Easily Line Up a More
 - **Details:** ❌ No API response for Laser Sight One Additional Bonus Trait to Any Firearm Shooter Spends a Full Turn Aiming. Description: a Laser Sight Improves the Accuracy of a Weapon by Highlighting the Target with a Small Pinpoint of Reflected Light. the Sniper Can Easily Line Up a More
-- **Timestamp:** 2025-12-28 23:26:30
+- **Timestamp:** 2025-12-29 01:40:19
 
 ### Lockpick Set (ID: 8)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Lockpick Set
 - **Details:** ❌ No API response for Lockpick Set
-- **Timestamp:** 2025-12-28 23:26:34
+- **Timestamp:** 2025-12-29 01:40:22
 
 ### Maglite C Cell Flashlight (ID: 39)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Maglite C Cell Flashlight
 - **Details:** ❌ No API response for Maglite C Cell Flashlight
-- **Timestamp:** 2025-12-28 23:26:35
+- **Timestamp:** 2025-12-29 01:40:23
 
 ### Moonlit Candle (ID: 31)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Moonlit Candle
 - **Details:** ❌ No API response for Moonlit Candle
-- **Timestamp:** 2025-12-28 23:26:36
+- **Timestamp:** 2025-12-29 01:40:24
+
+### Moonstone Charm (ID: 48)
+- **Status:** ❌ Failed
+- **Error:** ❌ No API response for Moonstone Charm
+- **Details:** ❌ No API response for Moonstone Charm
+- **Timestamp:** 2025-12-29 01:40:24
 
 ### Motorola Walkie-talkie (mt1000) (ID: 40)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Motorola Walkie-talkie (mt1000)
 - **Details:** ❌ No API response for Motorola Walkie-talkie (mt1000)
-- **Timestamp:** 2025-12-28 23:27:04
+- **Timestamp:** 2025-12-29 01:40:31
+
+### Nightshade Oil (ID: 36)
+- **Status:** ❌ Failed
+- **Error:** ❌ No API response for Nightshade Oil
+- **Details:** ❌ No API response for Nightshade Oil
+- **Timestamp:** 2025-12-29 01:40:32
 
 ### Nightvision Goggles (ID: 67)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Nightvision Goggles
 - **Details:** ❌ No API response for Nightvision Goggles
-- **Timestamp:** 2025-12-28 23:27:06
+- **Timestamp:** 2025-12-29 01:40:32
 
 ### Nylon Handcuffs (smith & Wesson) (ID: 41)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Nylon Handcuffs (smith & Wesson)
 - **Details:** ❌ No API response for Nylon Handcuffs (smith & Wesson)
-- **Timestamp:** 2025-12-28 23:27:07
+- **Timestamp:** 2025-12-29 01:40:33
 
 ### Pathos Trait (ID: 74)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Pathos Trait
 - **Details:** ❌ No API response for Pathos Trait
-- **Timestamp:** 2025-12-28 23:27:10
+- **Timestamp:** 2025-12-29 01:40:35
 
 ### Pepper Spray (sabre Red 1995) (ID: 42)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Pepper Spray (sabre Red 1995)
 - **Details:** ❌ No API response for Pepper Spray (sabre Red 1995)
-- **Timestamp:** 2025-12-28 23:27:11
+- **Timestamp:** 2025-12-29 01:40:36
+
+### Plate Mail (ID: 57)
+- **Status:** ❌ Failed
+- **Error:** ❌ No API response for Plate Mail
+- **Details:** ❌ No API response for Plate Mail
+- **Timestamp:** 2025-12-29 01:40:37
 
 ### Rage Trait (ID: 77)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Rage Trait
 - **Details:** ❌ No API response for Rage Trait
-- **Timestamp:** 2025-12-28 23:27:18
+- **Timestamp:** 2025-12-29 01:40:43
+
+### Reinforced Vest (ID: 58)
+- **Status:** ❌ Failed
+- **Error:** ❌ No API response for Reinforced Vest
+- **Details:** ❌ No API response for Reinforced Vest
+- **Timestamp:** 2025-12-29 01:40:43
 
 ### Remington 870 Police Magnum (ID: 38)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Remington 870 Police Magnum
 - **Details:** ❌ No API response for Remington 870 Police Magnum
-- **Timestamp:** 2025-12-28 23:27:20
+- **Timestamp:** 2025-12-29 01:40:44
 
 ### Rusted Iron Necklace (ID: 33)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Rusted Iron Necklace
 - **Details:** ❌ No API response for Rusted Iron Necklace
-- **Timestamp:** 2025-12-28 23:27:24
+- **Timestamp:** 2025-12-29 01:40:48
 
 ### Sawed-off Shotgun (ID: 3)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Sawed-off Shotgun
 - **Details:** ❌ No API response for Sawed-off Shotgun
-- **Timestamp:** 2025-12-28 23:27:24
+- **Timestamp:** 2025-12-29 01:40:49
 
 ### Serpent's Eye Amulet (ID: 50)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Serpent's Eye Amulet
 - **Details:** ❌ No API response for Serpent's Eye Amulet
-- **Timestamp:** 2025-12-28 23:27:25
+- **Timestamp:** 2025-12-29 01:40:50
 
 ### Sig Sauer P226 (marcus's Personal Sidearm) (ID: 52)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Sig Sauer P226 (marcus's Personal Sidearm)
 - **Details:** ❌ No API response for Sig Sauer P226 (marcus's Personal Sidearm)
-- **Timestamp:** 2025-12-28 23:27:28
+- **Timestamp:** 2025-12-29 01:40:58
 
 ### Sigil Tattoo Kit (ID: 35)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Sigil Tattoo Kit
 - **Details:** ❌ No API response for Sigil Tattoo Kit
-- **Timestamp:** 2025-12-28 23:27:29
+- **Timestamp:** 2025-12-29 01:40:59
 
 ### Silver Mirror Shard (ID: 24)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Silver Mirror Shard
 - **Details:** ❌ No API response for Silver Mirror Shard
-- **Timestamp:** 2025-12-28 23:27:30
+- **Timestamp:** 2025-12-29 01:40:59
 
 ### Silver Oak Leaf Pendant (ID: 49)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Silver Oak Leaf Pendant
 - **Details:** ❌ No API response for Silver Oak Leaf Pendant
-- **Timestamp:** 2025-12-28 23:27:31
+- **Timestamp:** 2025-12-29 01:41:00
 
 ### Smith & Wesson Speedloader (ID: 44)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Smith & Wesson Speedloader
 - **Details:** ❌ No API response for Smith & Wesson Speedloader
-- **Timestamp:** 2025-12-28 23:27:34
+- **Timestamp:** 2025-12-29 01:41:03
+
+### Smoked Glass Vial (ID: 34)
+- **Status:** ❌ Failed
+- **Error:** ❌ No API response for Smoked Glass Vial
+- **Details:** ❌ No API response for Smoked Glass Vial
+- **Timestamp:** 2025-12-29 01:41:04
 
 ### Starlight Scope (ID: 68)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Starlight Scope
 - **Details:** ❌ No API response for Starlight Scope
-- **Timestamp:** 2025-12-28 23:27:39
+- **Timestamp:** 2025-12-29 01:41:07
 
 ### The Ashur Tablets (fragment of Erciyes) (ID: 88)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for The Ashur Tablets (fragment of Erciyes)
 - **Details:** ❌ No API response for The Ashur Tablets (fragment of Erciyes)
-- **Timestamp:** 2025-12-28 23:27:51
+- **Timestamp:** 2025-12-29 01:41:19
+
+### Throwing Hatchet (ID: 85)
+- **Status:** ❌ Failed
+- **Error:** ❌ No API response for Throwing Hatchet
+- **Details:** ❌ No API response for Throwing Hatchet
+- **Timestamp:** 2025-12-29 01:41:20
 
 ### Vial of Desert Night (ID: 25)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Vial of Desert Night
 - **Details:** ❌ No API response for Vial of Desert Night
-- **Timestamp:** 2025-12-28 23:28:03
+- **Timestamp:** 2025-12-29 01:41:23
 
 ### Vine-wrapped Staff (ID: 30)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Vine-wrapped Staff
 - **Details:** ❌ No API response for Vine-wrapped Staff
-- **Timestamp:** 2025-12-28 23:28:04
+- **Timestamp:** 2025-12-29 01:41:24
 
 ### Walther Ppk (ID: 37)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Walther Ppk
 - **Details:** ❌ No API response for Walther Ppk
-- **Timestamp:** 2025-12-28 23:28:05
+- **Timestamp:** 2025-12-29 01:41:25
 
 ### Will Do Wertrait (ID: 78)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Will Do Wertrait
 - **Details:** ❌ No API response for Will Do Wertrait
-- **Timestamp:** 2025-12-28 23:28:06
+- **Timestamp:** 2025-12-29 01:41:25
 
 ### Willpower Trait (ID: 75)
 - **Status:** ❌ Failed
 - **Error:** ❌ No API response for Willpower Trait
 - **Details:** ❌ No API response for Willpower Trait
-- **Timestamp:** 2025-12-28 23:28:07
+- **Timestamp:** 2025-12-29 01:41:27
 
 ### Zippo Lighter (ID: 20)
 - **Status:** ❌ Failed
 - **Error:** ❌ Tried 5 matches, none passed dimension check or had valid image URLs
 - **Details:** ❌ Tried 5 matches, none passed dimension check or had valid image URLs
-- **Timestamp:** 2025-12-28 23:28:13
+- **Timestamp:** 2025-12-29 01:41:31
 
 ---
 
@@ -637,4 +621,4 @@ _No items need purchase._
 
 ## Notes
 
-_Tracking updated automatically on 2025-12-28 23:28:13_
+_Tracking updated automatically on 2025-12-29 01:41:31_

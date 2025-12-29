@@ -46,6 +46,9 @@ Rules for: asset naming, JSON, images, 3D files, cinematic folders, UI folders, 
 ## Part X — Master Index & Integration  
 You are here.
 
+## Part XI — Items System  
+Rules for: item images, UI display, badge systems, type/rarity colors, modal layouts, table standards, special powers display.
+
 ---
 
 # 3. Cross‑System Integration Model
@@ -73,12 +76,19 @@ Every subsystem interacts with the others. This matrix defines how.
 - Animatics reference 3D blocking and camera paths  
 
 ## 3.5 Marketing ↔ Everything Else
-Marketing art is the “heightened” composite of all systems:
+Marketing art is the "heightened" composite of all systems:
 - portraits (Part I)
 - cinematic visuals (Part II)
 - location palettes (Part III)
 - dramatic lighting (Part V)
 - symbolic objects (Part VII)
+
+## 3.7 Items ↔ UI ↔ Character Integration
+- Items displayed in admin panel follow Part V — UI & Web Art System standards
+- Item images use same lighting and composition principles as portraits (Part I)
+- Items assigned to characters appear in character view modals
+- Item badges and colors integrate with UI color palette
+- Special artifacts may reference cinematic visual language (Part II)
 
 ## 3.6 Blueprint ↔ Location ↔ Cinematic
 - Floorplans define layout for in‑game navigation & cinematics  
@@ -109,6 +119,7 @@ Every asset must follow this sequence unless otherwise specified.
 - 3D props  
 - Environments  
 - Portraits  
+- Item images (Part XI)
 - UI mockups  
 - Marketing art drafts  
 
@@ -122,6 +133,7 @@ Every asset must follow this sequence unless otherwise specified.
 ## 4.5 Integration Stage
 - UI placement  
 - Website assets  
+- Item database integration (Part XI)
 - Database linking  
 - Agent integration  
 - Folder & naming enforcement  
@@ -208,7 +220,7 @@ Always reinforce:
 
 # 8. Master Prompt Integration Layer
 
-All prompt sets—portraits (01b), cinematics (02b), locations (03b), 3D (04b), UI (05b), storyboards (06b), marketing (07b), blueprints (08b)—must be used with:
+All prompt sets—portraits (01b), cinematics (02b), locations (03b), 3D (04b), UI (05b), storyboards (06b), marketing (07b), blueprints (08b), items (11b)—must be used with:
 
 ### Mandatory Meta‑Prompt Prefix
 ```
@@ -247,9 +259,11 @@ If any conflict arises between systems:
 
 ---
 
-# 10. End of Art Bible — Version 1.0
+# 10. End of Art Bible — Version 1.1
 
 This completes the Valley by Night Art Bible (Master Edition).  
 All subsystems, integration rules, prompts, and pipelines are now unified.
+
+**Updated:** Added Part XI — Items System to the Art Bible.
 
 ---
