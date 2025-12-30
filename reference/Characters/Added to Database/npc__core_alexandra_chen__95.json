@@ -4,55 +4,86 @@
     "character_name": "Core (Alexandra Chen)",
     "player_name": "NPC",
     "chronicle": "Valley by Night",
-    "nature": "Penitent",
-    "demeanor": "Director",
-    "concept": "Elite corporate defector turned resistance leader",
-    "clan": "N/A - Human",
+    "nature": "Survivor",
+    "demeanor": "Analyst",
+    "concept": "Former ghoul bodyguard with four domitors, now operating independently",
+    "clan": "Ghoul",
     "generation": 0,
     "sire": "0",
     "pc": 0,
-    "appearance": "Alexandra Chen moves through the shadows of Phoenix like a ghost who's learned to make the darkness work for her, her presence calculated to be noticed only when she wants to be. As a human resistance leader and elite corporate defector, she presents as a woman in her early thirties—old enough to have established herself in the corporate world, young enough that her defection reads as a choice rather than desperation. She's of average height with a lean, athletic build that speaks to someone who's learned to move quickly and quietly, and her face carries the strong, expressive features of someone who's learned to control every micro-expression. Her hair is kept practical—short enough to be manageable, long enough to be changed with styling—and her eyes hold a directness that borders on invasive, as if she's constantly assessing threats and opportunities.\n\nHer clothing is a study in functional elegance: pieces that would be appropriate for corporate boardrooms but chosen for their ability to blend into crowds or disappear into shadows. She favors structured silhouettes in muted tones—grays, blacks, navy—that create clean lines without drawing attention, and everything is chosen for its ability to serve multiple purposes: a blazer that can be removed to change her silhouette, trousers that allow for quick movement, shoes that can handle both polished floors and rough terrain. There's something deliberately unremarkable about her appearance, as if she's learned that the best way to hide is to look like everyone else.\n\nWhat's most striking about Alexandra, however, isn't her appearance but the way she carries herself—like someone who's learned that survival requires being ready for anything. Her movements are economical, every gesture serving a purpose, and when she's still, there's a watchful quality to her that makes the hair on the back of your neck stand up. She's a Penitent by nature but a Director by demeanor, someone who's learned to lead from the shadows, and there's something quietly dangerous about her—not the obvious threat of a predator, but the subtle menace of someone who's learned that the most powerful weapon is the one no one sees coming. In the neon-lit streets of 1994 Phoenix or the shadowed corners of the resistance, Alexandra Chen is a reminder that sometimes the most dangerous people are the ones who look like they belong.",
-    "biography": "",
-    "history": "Alexandra Chen's history is marked by a dramatic transition from corporate elite to resistance leader. Before her defection, she worked in high-level corporate positions, developing expertise in information management, security systems, and organizational structures that would later serve her resistance operations. Her corporate background provided her with the skills in technology, logistics, and strategic planning that make her an effective leader. Her defection from the corporate world came after witnessing or experiencing events that revealed the darker aspects of corporate operations and their connections to supernatural threats. Since establishing her network in Phoenix, she has built a resistance infrastructure that operates in the shadows, coordinating with other resistance cells and providing critical support for anti-establishment activities. Her partnership with Phreak represents a fusion of corporate expertise and digital underground capabilities, creating a powerful combination of organizational skills and technical prowess. As a human operative, she operates with the understanding that she faces threats from both mortal corporate entities and supernatural powers, making her survival dependent on careful planning, strategic alliances, and maintaining absolute operational security. Her Penitent nature reflects the guilt and responsibility she carries from her corporate past, driving her to use her skills to oppose the systems she once served.",
+    "appearance": "Alexandra Chen moves through the shadows of Phoenix like a ghost who's learned to make the darkness work for her, her presence calculated to be noticed only when she wants to be. As a former ghoul bodyguard who has served four different domitors, she presents as a woman in her early thirties—though her actual age may be obscured by the vitae that has sustained her. She's of average height with a lean, athletic build that speaks to someone who's learned to move quickly and quietly, and her face carries the strong, expressive features of someone who's learned to control every micro-expression. Her hair is kept practical—short enough to be manageable, long enough to be changed with styling—and her eyes hold a directness that borders on invasive, as if she's constantly assessing threats and opportunities.\n\nHer clothing is a study in functional elegance: pieces that would be appropriate for corporate boardrooms but chosen for their ability to blend into crowds or disappear into shadows. She favors structured silhouettes in muted tones—grays, blacks, navy—that create clean lines without drawing attention, and everything is chosen for its ability to serve multiple purposes: a blazer that can be removed to change her silhouette, trousers that allow for quick movement, shoes that can handle both polished floors and rough terrain. There's something deliberately unremarkable about her appearance, as if she's learned that the best way to hide is to look like everyone else.\n\nWhat's most striking about Alexandra, however, isn't her appearance but the way she carries herself—like someone who's learned that survival requires being ready for anything. Her movements are economical, every gesture serving a purpose, and when she's still, there's a watchful quality to her that makes the hair on the back of your neck stand up. She's a Survivor by nature but an Analyst by demeanor, someone who's learned to operate from the shadows, and there's something quietly dangerous about her—not the obvious threat of a predator, but the subtle menace of someone who's learned that the most powerful weapon is the one no one sees coming. In the neon-lit streets of 1994 Phoenix, Alexandra Chen is a reminder that sometimes the most dangerous people are the ones who look like they belong.",
+    "biography": "Alexandra Chen entered the Kindred world the way the Ventrue prefer their mortals: competent, disciplined, and never asking the wrong questions. In life, she had already proven herself in private security and corporate protection work. She understood discretion, loyalty, and the quiet violence of power exercised behind closed doors. When a high-ranking Ventrue in Phoenix hired her for private security, she performed so well that ghouling felt less like corruption and more like promotion.\n\nFrom her first Ventrue domitor, she learned Dominate—the power to command with a word. Her first master fell to a rival's machinations, and she was transferred to a Brujah enforcer who taught her Potence—raw physical strength. The Brujah's violent end came during a territory dispute, and she found herself claimed by a Nosferatu information broker who taught her Obfuscate—the art of moving unseen. Her fourth and final regnant was a Gangrel survivor who taught her Fortitude—the resilience to endure.\n\nHer fourth domitor was destroyed in a coordinated hunter strike. Alexandra was captured and coerced into working with the hunters, but when the moment came, she turned on them and claimed their captured, staked vampires as her vitae source. Now, around Day 10 of the chronicle, that source is running dangerously low. She refuses to return to the Ventrue as a servant. She is watching, measuring, listening—and as the second Elysium approaches, she stands at a crossroads: disappear a weak Kindred and survive, gamble on an untested neonate as an equal, or let the blood fade and face what comes after.",
+    "history": "Alexandra Chen served four domitors across multiple clans (Ventrue, Brujah, Nosferatu, Gangrel), learning a different discipline from each. Her final domitor, a Gangrel, was destroyed in a hunter strike. She briefly worked with the hunters before turning on them to claim their captured Kindred as a vitae source. Now operating independently, she faces a critical decision as her blood supply runs dangerously low. She knows the rhythms of Elysium and understands Kindred politics from the perspective of someone who has served multiple masters, but she does not fully understand blood bonds or her own addiction. She believes she is still choosing freely—a belief that may be the most dangerous thing about her.",
     "notes": "",
     "equipment": "",
-    "character_image": "Core.png",
+    "character_image": "Alexandra Chen.png",
     "status": {
         "sect_status": "",
         "clan_status": "",
         "city_status": "",
         "health_levels": 7,
-        "blood_pool_current": null,
-        "blood_pool_maximum": null,
+        "blood_pool_current": 2,
+        "blood_pool_maximum": 10,
         "blood_per_turn": 1,
         "xp_total": 0,
         "xp_spent": 0,
         "xp_available": 0,
-        "notes": ""
+        "notes": "Former ghoul operating independently. Vitae supply running dangerously low. Story begins around Day 10 of chronicle."
     },
     "camarilla_status": "Unknown",
     "traits": {
-        "Physical": [],
-        "Social": [],
-        "Mental": []
+        "Physical": ["Quick", "Steady", "Tough"],
+        "Social": ["Intimidating", "Commanding"],
+        "Mental": ["Observant", "Disciplined", "Cunning"]
     },
     "negativeTraits": {
         "Physical": [],
         "Social": [],
         "Mental": []
     },
-    "abilities": [],
+    "abilities": [
+        {"name": "Security", "category": "Physical", "level": 4},
+        {"name": "Alertness", "category": "Optional", "level": 4},
+        {"name": "Stealth", "category": "Physical", "level": 3},
+        {"name": "Brawl", "category": "Physical", "level": 3},
+        {"name": "Athletics", "category": "Physical", "level": 3},
+        {"name": "Firearms", "category": "Physical", "level": 3},
+        {"name": "Intimidation", "category": "Social", "level": 3},
+        {"name": "Subterfuge", "category": "Social", "level": 3},
+        {"name": "Investigation", "category": "Mental", "level": 3},
+        {"name": "Streetwise", "category": "Social", "level": 2},
+        {"name": "Melee", "category": "Physical", "level": 2}
+    ],
     "specializations": [],
-    "disciplines": [],
+    "disciplines": [
+        {
+            "name": "Dominate",
+            "level": 1,
+            "powers": []
+        },
+        {
+            "name": "Potence",
+            "level": 1,
+            "powers": []
+        },
+        {
+            "name": "Obfuscate",
+            "level": 1,
+            "powers": []
+        },
+        {
+            "name": "Fortitude",
+            "level": 1,
+            "powers": []
+        }
+    ],
     "backgrounds": {
-        "Allies": 2,
-        "Contacts": 2,
+        "Contacts": 3,
         "Resources": 1
     },
     "backgroundDetails": {
-        "Allies": "Resistance network members, corporate defectors, and anti-establishment operatives who support her leadership. Includes her partner Phreak and other resistance cells operating in Phoenix.",
-        "Contacts": "Corporate defectors, underground networks, and information sources who provide intelligence on corporate operations and supernatural threats. Maintains connections from her corporate past.",
-        "Resources": "Modest operational resources sufficient to maintain resistance infrastructure, coordinate operations, and support her network. Operates from a Faraday-shielded bunker with Phreak."
+        "Contacts": "Kindred contacts from her time serving four different domitors across multiple clans. She knows schedules, routes, Elysium locations, and the surface-level politics of Phoenix's Kindred society.",
+        "Resources": "Minimal resources. She maintains hidden staked vampires from the hunter strike as her vitae source, but this supply is running dangerously low."
     },
     "morality": {
         "path_name": "Humanity",
@@ -70,21 +101,28 @@
             "type": "Merit",
             "category": "Mental",
             "cost": 3,
-            "description": "Her corporate training and resistance leadership have forged an unbreakable will that resists manipulation and intimidation."
+            "description": "Her service to four domitors and survival training have forged an unbreakable will that resists manipulation and intimidation."
         },
         {
             "name": "Danger Sense",
             "type": "Merit",
             "category": "Supernatural",
             "cost": 2,
-            "description": "Years of operating in the shadows have given her an almost preternatural ability to sense threats and read dangerous situations."
+            "description": "Years of operating as a bodyguard and serving multiple masters have given her an almost preternatural ability to sense threats and read dangerous situations."
+        },
+        {
+            "name": "Vitae Addiction",
+            "type": "Flaw",
+            "category": "Supernatural",
+            "cost": 3,
+            "description": "As a ghoul, she is psychologically and physically dependent on vampire vitae. Without monthly feedings, she will lose her powers and age rapidly. Her current supply is running dangerously low."
         },
         {
             "name": "Hunted",
             "type": "Flaw",
             "category": "Supernatural",
-            "cost": 4,
-            "description": "As a corporate defector and resistance leader, she is actively hunted by both her former employers and supernatural enemies who see her as a threat."
+            "cost": 2,
+            "description": "Hunters know about her betrayal, and the Ventrue would claim her as property if they discovered her. She must operate carefully to avoid both."
         }
     ],
     "coteries": [],

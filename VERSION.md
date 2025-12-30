@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.10
+## Current Version: 0.9.11
+
+**Date:** 2025-01-30  
+**Type:** Patch (Alexandra Chen character conversion to Ghoul with 4 domitors, traits, and abilities)
+
+## Previous Version: 0.9.10
 
 **Date:** 2025-01-30  
 **Type:** Patch (Item image updates and session notes/documentation updates)
