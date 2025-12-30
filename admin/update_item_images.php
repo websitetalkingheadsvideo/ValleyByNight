@@ -20,6 +20,11 @@ $manual_mappings = [
     'Scorched Tarot Card.webp' => null, // No clear match yet
     'Rare Desert Herbs & Minerals.jpg' => null, // Could be Desert Sand Pouch or Vial of Desert Night
     'Ancient Egyptian Canopic Jar of Whispering Echoes.png' => 'Canopic Jar of Whispers', // Alternative image
+    'Heavy Trench Coat.png' => 'Bonus Traits:2 Negative Trait Heavy Concealability Trench Coat',
+    'Maglite.jpg' => 'Flashlight (maglite)',
+    'Sig Sauer P226.webp' => 'Sig Sauer P226 (marcus\'s Personal Sidearm)',
+    'laser sight attachment.png' => 'Laser Sight One Additional Bonus Trait to Any Firearm Shooter Spends a Full Turn Aiming. Description: a Laser Sight Improves the Accuracy of a Weapon by Highlighting the Target with a Small Pinpoint of Reflected Light. the Sniper Can Easily Line Up a More',
+    'tactical-jacket.jpg' => 'Bonus Traits:2 Negative Traits:loud, Heavy Concealability Jacket',
 ];
 
 // Normalize a string for matching (lowercase, remove special chars, spaces to underscores)
