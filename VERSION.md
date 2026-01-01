@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.12
+## Current Version: 0.9.13
+
+**Date:** 2025-01-30  
+**Type:** Patch (Formatted Internal Tensions explanation markdown, added internal tensions JSON)
+
+## Previous Version: 0.9.12
 
 **Date:** 2025-01-30  
 **Type:** Patch (Fixed coterie agent character links, formatted Chronicle Summary markdown)

@@ -1,0 +1,20 @@
+"internal_tensions": [
+  {
+    "id": "defenders_tracker_independence",
+    "type": "authority",
+    "severity": 2,
+    "description": "Tracker operates autonomously, often acting before leadership consensus.",
+    "involved_roles": ["Leader", "Tracker"],
+    "trigger_conditions": [
+      "time_pressure",
+      "loss_of_contact",
+      "leadership_failure"
+    ],
+    "escalation_path": [
+      "questioned_orders",
+      "split_operations",
+      "open_defiance"
+    ],
+    "flashback_hook": "The night the Tracker disobeyed orders—and it worked."
+  }
+]
