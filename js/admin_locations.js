@@ -9,17 +9,16 @@ let currentPage = 1;
 let locationsPerPage = 20;
 let currentSort = { column: 'id', direction: 'asc' };
 let currentFilter = 'all';
-let currentTypeFilter = 'all';
 let currentStatusFilter = 'all';
 let currentOwnerFilter = 'all';
 let currentPCHavenFilter = 'all';
+let hideEarnableHavens = false;
 let currentSearchTerm = '';
 let currentLocationId = null;
 
 // Global data variables (loaded from JSON script tags)
 let allCharacters = [];
 let allCharactersForLocations = [];
-let locationTypes = [];
 let locationStatuses = [];
 let locationOwners = [];
 
@@ -27,7 +26,6 @@ let locationOwners = [];
 document.addEventListener('DOMContentLoaded', function() {
     // Load data from JSON script tags
     const allCharactersElement = document.getElementById('allCharactersData');
-    const locationTypesElement = document.getElementById('locationTypesData');
     const locationStatusesElement = document.getElementById('locationStatusesData');
     const locationOwnersElement = document.getElementById('locationOwnersData');
     
@@ -37,14 +35,6 @@ document.addEventListener('DOMContentLoaded', function() {
             allCharactersForLocations = allCharacters; // Use same data for both
         } catch (e) {
             console.error('Failed to parse allCharacters data:', e);
-        }
-    }
-    
-    if (locationTypesElement) {
-        try {
-            locationTypes = JSON.parse(locationTypesElement.textContent);
-        } catch (e) {
-            console.error('Failed to parse locationTypes data:', e);
         }
     }
     
@@ -80,17 +70,32 @@ function initializeEventListeners() {
     // Filter buttons
     document.querySelectorAll('.filter-btn').forEach(btn => {
         btn.addEventListener('click', function() {
-            document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+            const filterType = this.dataset.filter;
+            
+            // Special handling for hide earnable button (toggle, doesn't affect other filters)
+            if (filterType === 'hide-earnable') {
+                hideEarnableHavens = !hideEarnableHavens;
+                if (hideEarnableHavens) {
+                    this.classList.add('active');
+                    this.textContent = 'Show Earnable';
+                } else {
+                    this.classList.remove('active');
+                    this.textContent = 'Hide Earnable';
+                }
+                applyFilters();
+                return;
+            }
+            
+            // Regular filter buttons - only one active at a time
+            document.querySelectorAll('.filter-btn').forEach(b => {
+                if (b.dataset.filter !== 'hide-earnable') {
+                    b.classList.remove('active');
+                }
+            });
             this.classList.add('active');
-            currentFilter = this.dataset.filter;
+            currentFilter = filterType;
             applyFilters();
         });
-    });
-
-    // Type filter
-    document.getElementById('typeFilter').addEventListener('change', function() {
-        currentTypeFilter = this.value;
-        applyFilters();
     });
 
     // Status filter
@@ -127,24 +132,65 @@ function initializeEventListeners() {
         applyFilters();
     });
 
+    // Initialize sorting event listeners (only once)
+    initializeSorting();
+    
     // Form submission handler is attached dynamically when modals are opened
     // (see openAddLocationModal and editLocation functions)
+}
+
+function initializeSorting() {
+    // Use event delegation on the table to handle sorting
+    const table = document.getElementById('locationsTable');
+    if (!table) return;
+    
+    const thead = table.querySelector('thead');
+    if (!thead) return;
+    
+    thead.addEventListener('click', function(e) {
+        const th = e.target.closest('th[data-sort]');
+        if (!th) return;
+        
+        const column = th.dataset.sort;
+        const direction = currentSort.column === column && currentSort.direction === 'asc' ? 'desc' : 'asc';
+        
+        // Update sort indicators
+        document.querySelectorAll('#locationsTable th[data-sort]').forEach(h => {
+            h.classList.remove('sorted-asc', 'sorted-desc');
+        });
+        th.classList.add(direction === 'asc' ? 'sorted-asc' : 'sorted-desc');
+        
+        sortTable(column, direction);
+    });
 }
 
 async function loadLocations() {
     try {
         const response = await fetch('api_locations.php');
-        const data = await response.json();
+        
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        
+        const responseText = await response.text();
+        let data;
+        
+        try {
+            data = JSON.parse(responseText);
+        } catch (parseError) {
+            console.error('Failed to parse JSON response:', responseText);
+            throw new Error('Invalid JSON response from server');
+        }
         
         if (data.success) {
             allLocations = data.locations;
             applyFilters();
         } else {
-            showNotification('Failed to load locations: ' + data.error, 'error');
+            showNotification('Failed to load locations: ' + (data.error || 'Unknown error'), 'error');
         }
     } catch (error) {
         console.error('Error loading locations:', error);
-        showNotification('Failed to load locations', 'error');
+        showNotification('Failed to load locations: ' + error.message, 'error');
     }
 }
 
@@ -159,9 +205,6 @@ function applyFilters() {
             if (currentFilter === 'nightclubs' && location.type !== 'Nightclub') return false;
             if (currentFilter === 'businesses' && location.type !== 'Business') return false;
         }
-
-        // Type dropdown filter
-        if (currentTypeFilter !== 'all' && location.type !== currentTypeFilter) return false;
 
         // Status filter
         if (currentStatusFilter !== 'all' && location.status !== currentStatusFilter) return false;
@@ -186,6 +229,12 @@ function applyFilters() {
                 }
                 // Include everything else (non-Havens, and Havens with pc_haven=0)
             }
+        }
+
+        // Hide Earnable Havens filter
+        if (hideEarnableHavens) {
+            const isEarnableHaven = location.type === 'Haven' && (location.pc_haven == 1 || location.pc_haven === true);
+            if (isEarnableHaven) return false;
         }
 
         // Search filter
@@ -282,20 +331,12 @@ function updateTable() {
         `;
     }).join('');
 
-    // Add sorting event listeners
+    // Update sort indicators based on current sort
     document.querySelectorAll('#locationsTable th[data-sort]').forEach(th => {
-        th.addEventListener('click', function() {
-            const column = this.dataset.sort;
-            const direction = currentSort.column === column && currentSort.direction === 'asc' ? 'desc' : 'asc';
-            
-            // Update sort indicators
-            document.querySelectorAll('#locationsTable th').forEach(h => {
-                h.classList.remove('sorted-asc', 'sorted-desc');
-            });
-            this.classList.add(direction === 'asc' ? 'sorted-asc' : 'sorted-desc');
-            
-            sortTable(column, direction);
-        });
+        th.classList.remove('sorted-asc', 'sorted-desc');
+        if (th.dataset.sort === currentSort.column) {
+            th.classList.add(currentSort.direction === 'asc' ? 'sorted-asc' : 'sorted-desc');
+        }
     });
     
     updatePagination();

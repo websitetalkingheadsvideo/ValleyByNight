@@ -36,10 +36,7 @@ if (!$stats) {
     $stats = ['total' => 0, 'active' => 0, 'inactive' => 0, 'haven' => 0, 'domain' => 0, 'other' => 0];
 }
 
-// Get all unique types, statuses, and owner types for filters
-$type_rows = db_fetch_all($conn, "SELECT DISTINCT type FROM locations ORDER BY type");
-$location_types = array_column($type_rows, 'type');
-
+// Get all unique statuses and owner types for filters
 $status_rows = db_fetch_all($conn, "SELECT DISTINCT status FROM locations ORDER BY status");
 $location_statuses = array_column($status_rows, 'status');
 
@@ -126,15 +123,7 @@ $all_characters = db_fetch_all($conn, "SELECT id, character_name, clan, player_n
             <button class="filter-btn btn btn-outline-danger" data-filter="hunting-grounds">Hunting Grounds</button>
             <button class="filter-btn btn btn-outline-danger" data-filter="nightclubs">Nightclubs</button>
             <button class="filter-btn btn btn-outline-danger" data-filter="businesses">Businesses</button>
-        </div>
-        <div class="col-12 col-md-auto d-flex align-items-center gap-2">
-            <label for="typeFilter" class="text-light text-uppercase small mb-0">Type:</label>
-            <select id="typeFilter" class="form-select form-select-sm bg-dark text-light border-danger">
-                <option value="all">All Types</option>
-                <?php foreach ($location_types as $type): ?>
-                    <option value="<?php echo htmlspecialchars($type); ?>"><?php echo htmlspecialchars($type); ?></option>
-                <?php endforeach; ?>
-            </select>
+            <button class="filter-btn btn btn-outline-danger" id="hideEarnableBtn" data-filter="hide-earnable">Hide Earnable</button>
         </div>
         <div class="col-12 col-md-auto d-flex align-items-center gap-2">
             <label for="statusFilter" class="text-light text-uppercase small mb-0">Status:</label>
@@ -253,7 +242,6 @@ include __DIR__ . '/../includes/modal_base.php';
 
 <!-- Pass PHP data to JavaScript via JSON script tags -->
 <script type="application/json" id="allCharactersData"><?php echo json_encode($all_characters); ?></script>
-<script type="application/json" id="locationTypesData"><?php echo json_encode($location_types); ?></script>
 <script type="application/json" id="locationStatusesData"><?php echo json_encode($location_statuses); ?></script>
 <script type="application/json" id="locationOwnersData"><?php echo json_encode($location_owners); ?></script>
 
