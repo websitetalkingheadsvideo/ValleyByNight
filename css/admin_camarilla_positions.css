@@ -423,9 +423,7 @@
     border-radius: 8px;
     max-width: 400px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
-}
-
-.popover-header {
+}.popover-header {
     background: linear-gradient(135deg, #3a2525 0%, #2a1515 100%);
     border-bottom: 2px solid #8B0000;
     color: #f5e6d3;
@@ -448,4 +446,3 @@
 .popover-arrow::after {
     border-top-color: #2a1515;
 }
-

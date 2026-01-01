@@ -661,8 +661,11 @@ if ($selected) {
                           <?php
                             $name = (string)($m['character_name'] ?? '');
                             $charId = (int)($m['character_id'] ?? 0);
-                            if ($charId > 0) echo '<a href="/character.php?id=' . $charId . '">' . h($name) . '</a>';
-                            else echo h($name);
+                            if ($charId > 0) {
+                              echo '<a href="#" onclick="event.preventDefault(); if(window.viewCharacter) window.viewCharacter(' . $charId . '); return false;">' . h($name) . '</a>';
+                            } else {
+                              echo h($name);
+                            }
                           ?>
                         </td>
                         <td>
@@ -817,5 +820,11 @@ if ($selected) {
   </div>
 </div>
 <?php endif; ?>
+
+<?php
+// Include character view modal (admin-only page, so use admin endpoint)
+$apiEndpoint = '/admin/view_character_api.php';
+include __DIR__ . '/../../includes/character_view_modal.php';
+?>
 
 <?php include __DIR__ . '/../../includes/footer.php'; ?>
