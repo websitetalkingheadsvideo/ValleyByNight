@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.14
+## Current Version: 0.9.15
+
+**Date:** 2025-01-30  
+**Type:** Patch (Updated Roland Cross appearance: trench coat details and cowboy hat description)
+
+## Previous Version: 0.9.14
 
 **Date:** 2025-01-30  
 **Type:** Patch (Fixed admin locations column sorting, added Hide Earnable button, removed redundant Type filter)
