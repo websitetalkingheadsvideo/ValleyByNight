@@ -1,0 +1,74 @@
+{
+    "id": "defenders_mission_vs_survival",
+    "type": "ideology",
+    "severity": 1,
+    "description": "Agreement exists on the mission, but not on how much damage is acceptable to complete it.",
+    "involved_roles": ["Leader", "Member", "Logistics"],
+    "trigger_conditions": [
+      "civilian_risk",
+      "masquerade_compromise",
+      "unexpected_collateral"
+    ],
+    "escalation_path": [
+      "quiet_disagreement",
+      "refused_methods",
+      "fractured_objectives"
+    ],
+    "flashback_hook": "The moment someone asked, 'Is this still worth it?'"
+  }
+  {
+  "id": "defenders_mission_vs_survival",
+  "type": "ideology",
+  "severity": 1,
+  "description": "Agreement exists on the mission, but not on how much damage is acceptable to complete it.",
+  "involved_roles": ["Leader", "Member", "Logistics"],
+  "trigger_conditions": [
+    "civilian_risk",
+    "masquerade_compromise",
+    "unexpected_collateral"
+  ],
+  "escalation_path": [
+    "quiet_disagreement",
+    "refused_methods",
+    "fractured_objectives"
+  ],
+  "flashback_hook": "The moment someone asked, 'Is this still worth it?'"
+}
+{
+    "id": "defenders_caitiff_visibility",
+    "type": "clan_pressure",
+    "severity": 1,
+    "description": "The presence of a Caitiff member creates political exposure and discomfort at Elysium.",
+    "involved_roles": ["Leader", "Member"],
+    "trigger_conditions": [
+      "elysium_attention",
+      "elder_scrutiny",
+      "boon_negotiation"
+    ],
+    "escalation_path": [
+      "quiet_exclusion",
+      "restricted_visibility",
+      "forced_denial"
+    ],
+    "flashback_hook": "The first time an elder pretended one of them wasn’t there."
+  }
+  {
+    "id": "defenders_tracker_autonomy",
+    "type": "authority",
+    "severity": 2,
+    "description": "The Tracker operates independently, acting on instincts and results rather than formal command approval.",
+    "involved_roles": ["Leader", "Tracker"],
+    "trigger_conditions": [
+      "time_pressure",
+      "loss_of_contact",
+      "leadership_delay",
+      "successful_unsanctioned_action"
+    ],
+    "escalation_path": [
+      "questioned_orders",
+      "parallel_decisions",
+      "open_defiance"
+    ],
+    "flashback_hook": "The night orders were ignored—and the target was still eliminated."
+  }
+  

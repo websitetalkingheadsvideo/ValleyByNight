@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.13
+## Current Version: 0.9.14
+
+**Date:** 2025-01-30  
+**Type:** Patch (Fixed admin locations column sorting, added Hide Earnable button, removed redundant Type filter)
+
+## Previous Version: 0.9.13
 
 **Date:** 2025-01-30  
 **Type:** Patch (Formatted Internal Tensions explanation markdown, added internal tensions JSON)

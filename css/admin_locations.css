@@ -94,21 +94,24 @@ table.table {
     position: relative;
 }
 
-.locations-table thead {
+#locationsTable thead {
     background: linear-gradient(135deg, #8B0000 0%, #600000 100%);
 }
 
-.locations-table th {
+#locationsTable th {
     padding: 15px 12px;
     text-align: left;
     font-family: var(--font-title), 'Libre Baskerville', serif;
     color: #f5e6d3;
     font-weight: 700;
-    cursor: pointer;
     user-select: none;
 }
 
-.locations-table th:hover {
+#locationsTable th[data-sort] {
+    cursor: pointer;
+}
+
+#locationsTable th[data-sort]:hover {
     background: rgba(179, 0, 0, 0.3);
 }
 
@@ -118,42 +121,42 @@ table.table {
     margin-left: 5px;
 }
 
-.locations-table th.sorted-asc .sort-icon {
+#locationsTable th.sorted-asc .sort-icon {
     opacity: 1;
 }
 
-.locations-table th.sorted-asc .sort-icon::before {
+#locationsTable th.sorted-asc .sort-icon::before {
     content: '▲ ';
 }
 
-.locations-table th.sorted-desc .sort-icon {
+#locationsTable th.sorted-desc .sort-icon {
     opacity: 1;
 }
 
-.locations-table th.sorted-desc .sort-icon::before {
+#locationsTable th.sorted-desc .sort-icon::before {
     content: '▼ ';
 }
 
-.locations-table tbody tr {
+#locationsTable tbody tr {
     border-bottom: 1px solid rgba(139, 0, 0, 0.2);
     transition: all 0.2s ease;
 }
 
-.locations-table tbody tr:hover {
+#locationsTable tbody tr:hover {
     background: rgba(139, 0, 0, 0.15);
 }
 
-.locations-table tbody tr.hidden {
+#locationsTable tbody tr.hidden {
     display: none;
 }
 
-.locations-table td {
+#locationsTable td {
     padding: 12px;
     font-family: var(--font-body), 'Source Serif Pro', serif;
     color: #d4c4b0;
 }
 
-.locations-table td strong {
+#locationsTable td strong {
     color: #f5e6d3;
     font-size: 1.05em;
 }
@@ -411,12 +414,12 @@ table.table {
         flex-wrap: wrap;
     }
     
-    .locations-table {
+    #locationsTable {
         min-width: 800px;
     }
     
-    .locations-table th,
-    .locations-table td {
+    #locationsTable th,
+    #locationsTable td {
         padding: 8px 6px;
         font-size: 0.9em;
     }
@@ -434,12 +437,12 @@ table.table {
 }
 
 @media (max-width: 480px) {
-    .locations-table {
+    #locationsTable {
         min-width: 600px;
     }
     
-    .locations-table th,
-    .locations-table td {
+    #locationsTable th,
+    #locationsTable td {
         padding: 6px 4px;
         font-size: 0.8em;
     }
