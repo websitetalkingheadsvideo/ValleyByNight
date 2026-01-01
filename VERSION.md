@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.11
+## Current Version: 0.9.12
+
+**Date:** 2025-01-30  
+**Type:** Patch (Fixed coterie agent character links, formatted Chronicle Summary markdown)
+
+## Previous Version: 0.9.11
 
 **Date:** 2025-01-30  
 **Type:** Patch (Alexandra Chen character conversion to Ghoul with 4 domitors, traits, and abilities)

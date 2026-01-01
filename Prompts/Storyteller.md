@@ -59,4 +59,5 @@ Before writing the haven description, STOP and ask clarifying questions to bette
 Do not generate the haven text until the clarification step is completed.
 
 
-Before continuing ask me any questions to better understand my requirement and to get my ideas before you start writing.
+I am creating a computer RPG based in Laws of the Night Revised.  This is based in the World of Darkness Universe. I want a faithful reproduction of the game.
+I have experience with HTML, Java Script, PHP and MySQL.
