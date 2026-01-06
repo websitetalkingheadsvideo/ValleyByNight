@@ -22,7 +22,7 @@ if (!isset($conn) || !$conn) {
     die('Database connection failed. Please check your configuration.');
 }
 
-$extra_css = ['css/admin_items.css', 'css/modal.css', 'css/modal_fullscreen.css'];
+$extra_css = ['css/admin_table_responsive.css', 'css/admin_items.css', 'css/modal.css', 'css/modal_fullscreen.css'];
 $body_class = 'admin-items-page';
 include __DIR__ . '/../includes/header.php';
 

@@ -4,7 +4,7 @@
  * Checks if Harpy integration fields exist in the boons table
  * 
  * Usage: Run via web browser
- * URL: https://vbn.talkingheads.video/database/check_boons_table.php
+ * URL: database/check_boons_table.php
  */
 
 error_reporting(E_ALL);

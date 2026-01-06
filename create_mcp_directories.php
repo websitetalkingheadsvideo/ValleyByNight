@@ -5,7 +5,7 @@
  * This script creates the missing directory structure for the Style Agent MCP
  * on the remote server. Run this once to set up the directory structure.
  * 
- * Run via browser: https://vbn.talkingheads.video/create_mcp_directories.php
+ * Run via browser: create_mcp_directories.php
  */
 
 declare(strict_types=1);

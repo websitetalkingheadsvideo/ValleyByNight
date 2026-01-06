@@ -18,7 +18,7 @@ This tracking system scans all NPCs in the VbN database and compares them agains
 Run the script from your web browser:
 
 ```
-https://vbn.talkingheads.video/reference/Scenes/Character%20Teasers/tracking/generate_missing_character_teasers.php
+reference/Scenes/Character Teasers/tracking/generate_missing_character_teasers.php
 ```
 
 The script will display progress information and generate the JSON output file.

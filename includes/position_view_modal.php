@@ -70,7 +70,7 @@ if ($script_dir === '/') {
                     <div class="mb-3">
                         <label class="form-label">Current Holder</label>
                         <div id="currentHolderInfo" class="p-3 bg-dark border border-danger rounded">
-                            <p class="text-muted mb-0">Loading...</p>
+                            <p class="opacity-75 mb-0">Loading...</p>
                         </div>
                         <!-- Dropdown for edit mode (hidden in view mode) -->
                         <div id="currentHolderDropdown" class="d-none">
@@ -90,7 +90,7 @@ if ($script_dir === '/') {
                     <div class="mb-3">
                         <label class="form-label">Assignment History</label>
                         <div id="positionHistory" class="p-3 bg-dark border border-danger rounded">
-                            <p class="text-muted mb-0">Loading...</p>
+                            <p class="opacity-75 mb-0">Loading...</p>
                         </div>
                     </div>
                     
@@ -190,10 +190,10 @@ if ($script_dir === '/') {
         });
         
         const holderInfo = document.getElementById('currentHolderInfo');
-        if (holderInfo) holderInfo.innerHTML = '<p class="text-muted mb-0">Loading...</p>';
+        if (holderInfo) holderInfo.innerHTML = '<p class="opacity-75 mb-0">Loading...</p>';
         
         const history = document.getElementById('positionHistory');
-        if (history) history.innerHTML = '<p class="text-muted mb-0">Loading...</p>';
+        if (history) history.innerHTML = '<p class="opacity-75 mb-0">Loading...</p>';
     }
     
     function renderPositionView(mode) {
@@ -299,7 +299,7 @@ if ($script_dir === '/') {
             if (holderDropdown) holderDropdown.classList.add('d-none');
             
             if (!holder) {
-                holderInfo.innerHTML = '<p class="text-muted mb-0">Position is vacant</p>';
+                holderInfo.innerHTML = '<p class="opacity-75 mb-0">Position is vacant</p>';
                 return;
             }
             
@@ -333,7 +333,7 @@ if ($script_dir === '/') {
         const history = currentPositionData.history || [];
         
         if (history.length === 0) {
-            historyEl.innerHTML = '<p class="text-muted mb-0">No assignment history</p>';
+            historyEl.innerHTML = '<p class="opacity-75 mb-0">No assignment history</p>';
             return;
         }
         

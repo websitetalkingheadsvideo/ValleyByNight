@@ -54,7 +54,7 @@ try {
                     <div class="card">
                         <div class="card-body text-center">
                             <h3 class="mb-0"><?php echo count($registry['assets'] ?? []); ?></h3>
-                            <p class="text-muted mb-0">Assets</p>
+                            <p class="opacity-75 mb-0">Assets</p>
                         </div>
                     </div>
                 </div>
@@ -62,7 +62,7 @@ try {
                     <div class="card">
                         <div class="card-body text-center">
                             <h3 class="mb-0"><?php echo count($registry['cues'] ?? []); ?></h3>
-                            <p class="text-muted mb-0">Cues</p>
+                            <p class="opacity-75 mb-0">Cues</p>
                         </div>
                     </div>
                 </div>
@@ -70,7 +70,7 @@ try {
                     <div class="card">
                         <div class="card-body text-center">
                             <h3 class="mb-0"><?php echo count($registry['bindings'] ?? []); ?></h3>
-                            <p class="text-muted mb-0">Bindings</p>
+                            <p class="opacity-75 mb-0">Bindings</p>
                         </div>
                     </div>
                 </div>
@@ -78,7 +78,7 @@ try {
                     <div class="card">
                         <div class="card-body text-center">
                             <h3 class="mb-0"><?php echo count($registry['mix_profiles'] ?? []); ?></h3>
-                            <p class="text-muted mb-0">Mix Profiles</p>
+                            <p class="opacity-75 mb-0">Mix Profiles</p>
                         </div>
                     </div>
                 </div>

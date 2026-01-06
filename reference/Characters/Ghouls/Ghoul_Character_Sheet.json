@@ -1,6 +1,6 @@
 {
     "$schema": "https://json-schema.org/draft/2020-12/schema",
-    "$id": "https://vbn.talkingheads.video/schemas/ghoul_character.json",
+    "$id": "schemas/ghoul_character.json",
     "title": "VbN Ghoul Character Sheet",
     "type": "object",
     "additionalProperties": false,

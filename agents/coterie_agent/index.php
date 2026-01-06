@@ -808,7 +808,7 @@ if ($selected) {
           <div class="mb-3">
             <label for="focusText" class="form-label">Focus Description</label>
             <textarea class="form-control" id="focusText" name="update_focus" rows="5" placeholder="Enter coterie focus description..."><?php echo h((string)($selected['description'] ?? '')); ?></textarea>
-            <small class="form-text text-muted">This will replace the auto-generated focus summary.</small>
+            <small class="form-text opacity-75">This will replace the auto-generated focus summary.</small>
           </div>
         </div>
         <div class="modal-footer">

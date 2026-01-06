@@ -45,7 +45,8 @@ code, kbd, pre, samp,
 
 .form-label {
     font-family: var(--font-title), 'Libre Baskerville', serif;
-    color: var(--text-muted);
+    color: var(--text-light);
+    opacity: 0.75;
     font-weight: 600;
 }
 

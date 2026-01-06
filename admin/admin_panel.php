@@ -57,7 +57,7 @@ function render_status_badge($status) {
 function render_clan_badge(string $clan): string {
     $name = trim($clan);
     if ($name === '') {
-        return '<span class="text-muted">—</span>';
+        return '<span class="opacity-75">—</span>';
     }
 
     static $palette = [
@@ -327,7 +327,7 @@ function render_clan_badge(string $clan): string {
                             } elseif ($playerName && $playerName !== '—') {
                                 echo '<span class="text-light">' . htmlspecialchars($playerName) . '</span>';
                             } else {
-                                echo '<span class="text-muted">—</span>';
+                                echo '<span class="opacity-75">—</span>';
                             }
                             ?>
                         </td>

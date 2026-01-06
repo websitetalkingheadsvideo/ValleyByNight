@@ -12,7 +12,7 @@
  * 
  * Usage:
  *   CLI: php database/audit_paths_completion.php
- *   Web: https://vbn.talkingheads.video/database/audit_paths_completion.php
+ *   Web: database/audit_paths_completion.php
  */
 
 declare(strict_types=1);

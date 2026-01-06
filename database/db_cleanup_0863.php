@@ -11,7 +11,7 @@
  * 
  * Usage:
  *   CLI: php database/db_cleanup_0863.php [--execute]
- *   Web: https://vbn.talkingheads.video/database/db_cleanup_0863.php
+ *   Web: database/db_cleanup_0863.php
  */
 
 declare(strict_types=1);

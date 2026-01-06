@@ -18,12 +18,29 @@ error_reporting(2);
 
 require_once __DIR__ . '/connect.php';
 
+// Calculate base path for redirects (works with subdirectories like /vbn/)
+// For /vbn/includes/login_process.php -> /vbn/
+// For /includes/login_process.php -> /
+$script_path = $_SERVER['SCRIPT_NAME'];
+$path_parts = explode('/', trim($script_path, '/'));
+// Remove 'includes' from path parts if present (it's not the app subdirectory)
+$path_parts = array_filter($path_parts, function($part) {
+    return $part !== 'includes' && !preg_match('/\.php$/', $part);
+});
+// If first remaining part is a directory, it's the app subdirectory
+$path_parts = array_values($path_parts);
+if (!empty($path_parts[0])) {
+    $base_path = '/' . $path_parts[0] . '/';
+} else {
+    $base_path = '/';
+}
+
 // SECURITY: Validate CSRF token
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     if (empty($_POST['csrf_token']) || empty($_SESSION['csrf_token']) || 
         !hash_equals($_SESSION['csrf_token'], $_POST['csrf_token'])) {
         $_SESSION['error'] = "Invalid security token. Please try again.";
-        header("Location: /login.php");
+        header("Location: " . $base_path . "login.php");
         exit();
     }
 }
@@ -57,7 +74,7 @@ if (file_exists($loginDisableFile)) {
 // If login is disabled, redirect back with error
 if ($loginDisabled) {
     $_SESSION['error'] = "Login is currently disabled. Please try again later.";
-    header("Location: /login.php");
+    header("Location: " . $base_path . "login.php");
     exit();
 }
 
@@ -68,7 +85,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     // Validate input
     if (empty($username) || empty($password)) {
         $_SESSION['error'] = "Username and password are required";
-        header("Location: /login.php");
+        header("Location: " . $base_path . "login.php");
         exit();
     }
     
@@ -85,7 +102,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             // Check if email is verified
             if (!$user['email_verified']) {
                 $_SESSION['error'] = "Please verify your email address before logging in. Check your inbox for the verification link.";
-                header("Location: /login.php");
+                header("Location: " . $base_path . "login.php");
                 exit();
             }
             
@@ -102,18 +119,18 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             );
             
             // Redirect to dashboard
-            header("Location: /index.php");
+            header("Location: " . $base_path . "index.php");
             exit();
         } else {
             // Invalid password
             $_SESSION['error'] = "Invalid username or password";
-            header("Location: /login.php");
+            header("Location: " . $base_path . "login.php");
             exit();
         }
     } else {
         // User not found
         $_SESSION['error'] = "Invalid username or password";
-        header("Location: /login.php");
+        header("Location: " . $base_path . "login.php");
         exit();
     }
 }

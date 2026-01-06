@@ -179,7 +179,7 @@ $sample_locations = db_fetch_all($conn,
                 </div>
                 <div class="card-body">
                     <div id="activeCuesDisplay" class="text-light">
-                        <p class="text-muted">No active cues</p>
+                        <p class="opacity-75">No active cues</p>
                     </div>
                 </div>
             </div>

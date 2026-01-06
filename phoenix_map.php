@@ -24,7 +24,10 @@ if (isAuthBypassEnabled() && !isset($_SESSION['user_id'])) {
 include __DIR__ . '/includes/header.php';
 
 // Check if user is admin for edit mode
-$is_admin = isset($_SESSION['role']) && $_SESSION['role'] === 'admin';
+require_once __DIR__ . '/includes/verify_role.php';
+$user_id = $_SESSION['user_id'] ?? 0;
+$user_role = verifyUserRole($conn, $user_id);
+$is_admin = isAdminUser($user_role);
 
 // Check if map_pixel_x and map_pixel_y columns exist
 // SECURITY: Using prepared statement helper for consistency
@@ -141,7 +144,7 @@ if (!$has_pixel_columns) {
                         </select>
                         <?php endif; ?>
                         <div class="vr"></div>
-                        <span class="text-muted small">
+                        <span class="opacity-75 small">
                             <i class="fas fa-info-circle"></i> Click and drag to pan, use controls to zoom
                         </span>
                     </div>

@@ -9,7 +9,7 @@
  * 
  * Usage:
  *   CLI: php database/update_paths_completion.php [--dry-run]
- *   Web: https://vbn.talkingheads.video/database/update_paths_completion.php?dry_run=1
+ *   Web: database/update_paths_completion.php?dry_run=1
  */
 
 declare(strict_types=1);

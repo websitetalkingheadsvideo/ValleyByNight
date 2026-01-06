@@ -1,0 +1,38 @@
+ID: 9
+Name: Hawthorne Estate - Camarilla Haven
+Type: Haven
+pc_haven: 1
+Status: Active
+Is Earnable Haven: YES
+Would be hidden by 'Hide Earnable': YES
+---
+
+ID: 18
+Name: Dunlap Apartments
+Type: Domain
+pc_haven: 0
+Status: Active
+Is Earnable Haven: NO
+Would be hidden by 'Hide Earnable': NO
+---
+
+ID: 16
+Name: The Chantry - PC Quarters
+Type: Haven
+pc_haven: 1
+Status: Active
+Is Earnable Haven: YES
+Would be hidden by 'Hide Earnable': YES
+---
+
+ID: 15
+Name: Roosevelt Row Artist's Loft
+Type: Haven
+pc_haven: 1
+Status: Active
+Is Earnable Haven: YES
+Would be hidden by 'Hide Earnable': YES
+---
+
+No match found for: Rooseverlt Row
+

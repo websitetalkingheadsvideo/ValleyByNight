@@ -9,7 +9,7 @@
  * 
  * Usage: 
  *   CLI: php database/audit_rituals_agent_spotcheck.php
- *   Web: https://vbn.talkingheads.video/database/audit_rituals_agent_spotcheck.php
+ *   Web: database/audit_rituals_agent_spotcheck.php
  */
 
 declare(strict_types=1);

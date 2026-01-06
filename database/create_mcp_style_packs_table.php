@@ -5,7 +5,7 @@
  * This script creates the MCP (Modular Content Pack) registry tables for the VbN project.
  * These tables allow the system to discover, reference, and manage MCP packs through the database.
  * 
- * Run via browser: https://vbn.talkingheads.video/database/create_mcp_style_packs_table.php
+ * Run via browser: database/create_mcp_style_packs_table.php
  * Or via CLI: php database/create_mcp_style_packs_table.php
  */
 

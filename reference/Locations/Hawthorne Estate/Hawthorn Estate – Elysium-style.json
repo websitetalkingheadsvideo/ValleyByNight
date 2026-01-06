@@ -1,0 +1,109 @@
+{
+    "location_name": "Hawthorn Estate",
+    "function": "Elysium / Political Court",
+    "era": {
+      "original_construction": "1920s",
+      "major_modification": "1950s (Kindred takeover)"
+    },
+    "overall_tone": [
+      "controlled",
+      "secure",
+      "ceremonial",
+      "politically charged",
+      "beautiful but watchful"
+    ],
+    "emotional_read": {
+      "first_impression": "I like it here",
+      "underlying_feel": "nothing happens without being noticed"
+    },
+    "materials": {
+      "primary": [
+        "polished stone",
+        "marble",
+        "granite"
+      ],
+      "secondary": [
+        "brass",
+        "gilded plaster",
+        "dark hardwood"
+      ],
+      "fabrics": [
+        "velvet",
+        "heavy drapery",
+        "leather"
+      ]
+    },
+    "color_palette": {
+      "dominant": [
+        "warm gold",
+        "cream stone",
+        "deep umber"
+      ],
+      "accents": [
+        "dark crimson",
+        "aged brass"
+      ],
+      "prohibited": [
+        "bright white",
+        "neon",
+        "cool industrial gray"
+      ]
+    },
+    "lighting": {
+      "sources": [
+        "chandeliers",
+        "wall sconces",
+        "table lamps",
+        "candles"
+      ],
+      "quality": "warm, low, theatrical",
+      "contrast": "high",
+      "natural_light": "minimal to none",
+      "windows": "absent or heavily obscured"
+    },
+    "architecture_style": {
+      "influence": [
+        "neoclassical",
+        "Beaux-Arts",
+        "early 20th century civic grandeur"
+      ],
+      "features": [
+        "grand bifurcated staircase",
+        "columns",
+        "arches",
+        "ornamental ceilings"
+      ],
+      "feel": "institutional grandeur repurposed as private power space"
+    },
+    "art_and_decor": {
+      "gallery_style": "single large gallery room",
+      "art_types": [
+        "classical portraits",
+        "sculpture",
+        "early modern art"
+      ],
+      "framing": "heavy, gilded, intentional",
+      "purpose": "status signaling and social positioning"
+    },
+    "human_presence": {
+      "density": "moderate during Elysium",
+      "behavior": "measured, observant, restrained",
+      "rule_of_space": "movement implies permission"
+    },
+    "setting_context": {
+      "region": "North Scottsdale desert hills",
+      "exterior_read": "stone estate embedded in arid terrain",
+      "prohibited_elements": [
+        "rivers",
+        "lakes",
+        "lush greenery"
+      ]
+    },
+    "design_rules": {
+      "must_feel_safe": true,
+      "must_support_intrigue": true,
+      "no_visible_modern_technology": true,
+      "no_casual_spaces": true
+    }
+  }
+  

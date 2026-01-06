@@ -138,7 +138,7 @@ function renderBoonsTable(boons) {
     if (!tbody) return;
     
     if (boons.length === 0) {
-        tbody.innerHTML = '<tr><td colspan="8" class="text-center text-muted">No boons found.</td></tr>';
+        tbody.innerHTML = '<tr><td colspan="8" class="text-center opacity-75">No boons found.</td></tr>';
         return;
     }
     

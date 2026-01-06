@@ -10,7 +10,7 @@
  * 
  * Usage: 
  *   CLI: php database/audit_rituals_checklist.php
- *   Web: https://vbn.talkingheads.video/database/audit_rituals_checklist.php
+ *   Web: database/audit_rituals_checklist.php
  */
 
 declare(strict_types=1);

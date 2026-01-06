@@ -10,7 +10,7 @@
      * Grid: .container, .row, .col-*
      * Spacing: .m-*, .p-*, .mt-*, .mb-*, etc.
      * Display: .d-flex, .d-grid, .d-none
-     * Text: .text-center, .text-muted, etc.
+     * Text: .text-center, .opacity-75, etc.
    ======================================== */
 
 /* ===== CSS VARIABLES ===== */
@@ -28,7 +28,6 @@
     --teal-moonlight: #0B3C49;
     --text-light: #f5e6d3;
     --text-mid: #d4b06d; /* Changed to muted gold per Art Bible */
-    --text-muted: #b8a090;
     
     /* Bootstrap 5 variable overrides */
     --bs-body-bg: var(--blood-red);
@@ -724,3 +723,8 @@ body {
     text-decoration: none;
 }
 
+/* Character portrait image aspect ratio - shared by character view modal and clans pages */
+.character-portrait-image {
+    height: auto;
+    aspect-ratio: 1;
+}

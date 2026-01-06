@@ -46,7 +46,8 @@
 
 .list-group-item small {
   font-family: var(--font-body), 'Source Serif Pro', serif;
-  color: var(--text-muted);
+  color: var(--text-light);
+  opacity: 0.75;
   font-size: 0.85em;
 }
 
@@ -78,7 +79,8 @@
 .badge-dark {
   background: rgba(26, 15, 15, 0.6);
   border: 1px solid rgba(139, 0, 0, 0.4);
-  color: var(--text-muted);
+  color: var(--text-light);
+  opacity: 0.75;
 }
 
 /* ===== TABLE STYLING ===== */
@@ -259,8 +261,9 @@
 /* Buttons already styled via bootstrap-overrides.css, but ensure consistency */
 .coterie-agent .btn-outline-secondary {
   background: transparent;
-  border: 2px solid var(--text-muted);
-  color: var(--text-muted);
+  border: 2px solid var(--text-light);
+  color: var(--text-light);
+  opacity: 0.75;
   font-family: var(--font-title), 'Libre Baskerville', serif;
   font-weight: 600;
   transition: all 0.3s ease;
@@ -304,7 +307,8 @@
 
 .coterie-agent .dropdown-item small {
   font-family: var(--font-body), 'Source Serif Pro', serif;
-  color: var(--text-muted);
+  color: var(--text-light);
+  opacity: 0.75;
 }
 
 /* ===== ROLE EDITING FORM ===== */

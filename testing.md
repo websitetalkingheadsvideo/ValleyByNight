@@ -11,7 +11,7 @@ This document provides a comprehensive manual testing checklist for the Valley b
 
 ### How to Use This Document
 
-1. **Open the application in Chrome** at `https://vbn.talkingheads.video/` (or your local development URL)
+1. **Open the application in Chrome** at `` (or your local development URL)
 2. **Test each page** listed in the Test Matrix below
 3. **For each interactive element**:
    - Follow the "Steps to Test" instructions

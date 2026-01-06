@@ -666,7 +666,7 @@ function openManageCoterieModal() {
                 </div>
             `;
         } else {
-            currentMembers.innerHTML = '<p class="text-muted">No members yet.</p>';
+            currentMembers.innerHTML = '<p class="opacity-75">No members yet.</p>';
         }
         
         membersList.style.display = 'block';

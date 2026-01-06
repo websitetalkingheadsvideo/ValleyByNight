@@ -9,7 +9,7 @@
  * All boons are registered with Harpy (Cordelia Fairchild or system).
  * 
  * Usage: Run via web browser
- * URL: https://vbn.talkingheads.video/database/generate_cw_whitford_boons.php
+ * URL: database/generate_cw_whitford_boons.php
  */
 
 declare(strict_types=1);

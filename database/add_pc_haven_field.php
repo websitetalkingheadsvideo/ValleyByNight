@@ -5,7 +5,7 @@
  * Adds a TINYINT(1) field to identify havens that are possible PC havens.
  * Marks existing havens in the database as PC havens.
  * 
- * Usage: https://vbn.talkingheads.video/database/add_pc_haven_field.php
+ * Usage: database/add_pc_haven_field.php
  */
 
 declare(strict_types=1);

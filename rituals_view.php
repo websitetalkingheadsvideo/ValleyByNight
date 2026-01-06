@@ -88,7 +88,7 @@ include 'includes/header.php';
                             <?php if (!empty($ritual['source'])): ?>
                                 <div class="ritual-field">
                                     <h5 class="field-label text-danger">Source</h5>
-                                    <p class="field-value text-muted small"><?php echo htmlspecialchars($ritual['source']); ?></p>
+                                    <p class="field-value opacity-75 small"><?php echo htmlspecialchars($ritual['source']); ?></p>
                                 </div>
                             <?php endif; ?>
                         </div>

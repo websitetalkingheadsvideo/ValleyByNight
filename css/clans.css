@@ -1,0 +1,174 @@
+/* ========================================
+   VALLEY BY NIGHT - CLANS SECTION STYLES
+   Styles for clans index and detail pages
+   
+   BOOTSTRAP INTEGRATION NOTES:
+   - Bootstrap 5.3.2 is loaded before this file
+   - This file enhances Bootstrap, never overrides
+   - Uses Bootstrap utilities where possible
+   ======================================== */
+
+/* ===== GOTHIC SEPARATOR ===== */
+/* Decorative separator between sections on clan detail pages */
+.gothic-separator {
+    margin: 3rem 0;
+    padding: 1.5rem 0;
+    border: none;
+    border-top: 2px solid var(--muted-gold, #d4b06d);
+    border-bottom: 1px solid rgba(212, 176, 109, 0.3);
+    position: relative;
+    text-align: center;
+}
+
+.gothic-separator::before {
+    content: '◆';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: linear-gradient(135deg, #0d0606 0%, #1a0f0f 50%, #0d0606 100%);
+    padding: 0 1rem;
+    color: var(--muted-gold, #d4b06d);
+    font-size: 1.2em;
+}
+
+/* Ensure separator is accessible - doesn't rely solely on color */
+.gothic-separator[aria-hidden="true"] {
+    border-top-width: 3px;
+    border-bottom-width: 2px;
+}
+
+/* ===== CLAN INDEX PAGE ===== */
+/* Enhancements for clans/index.php card layout */
+.clans-index .card {
+    background: linear-gradient(135deg, var(--deep-maroon, #2a1515) 0%, var(--dusk-brown-black, #1a0f0f) 100%);
+    border: 2px solid var(--blood-red, #8B0000);
+    border-radius: 0.75rem;
+    transition: all 0.3s ease;
+    height: 100%;
+}
+
+.clans-index .card:hover {
+    border-color: var(--muted-gold, #d4b06d);
+    box-shadow: 0 8px 30px rgba(139, 0, 0, 0.6);
+}
+
+/* Ensure character portrait images maintain square aspect ratio on clans pages */
+.clans-index .character-portrait-image,
+.clan-detail-section .character-portrait-image {
+    height: auto;
+    aspect-ratio: 1;
+}
+
+
+.clans-index .card-title {
+    font-family: var(--font-title, 'Libre Baskerville'), serif;
+    color: var(--text-light, #f5e6d3);
+    font-size: 1.5em;
+    margin-bottom: 1rem;
+}
+
+.clans-index .card-text {
+    color: var(--text-mid, #d4b06d);
+    font-family: var(--font-body, 'Source Serif Pro'), serif;
+    line-height: 1.6;
+}
+
+.clans-index .character-blurb {
+    font-style: italic;
+    color: var(--text-light, #f5e6d3);
+    opacity: 0.75;
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 1px solid rgba(139, 0, 0, 0.3);
+}
+
+/* ===== CLAN DETAIL PAGES ===== */
+/* Section styling for individual clan pages */
+.clan-detail-section {
+    margin-bottom: 2rem;
+}
+
+.clan-detail-section h2 {
+    font-family: var(--font-title, 'Libre Baskerville'), serif;
+    color: var(--text-light, #f5e6d3);
+    font-size: 2em;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--blood-red, #8B0000);
+}
+
+.clan-detail-section h3 {
+    font-family: var(--font-title, 'Libre Baskerville'), serif;
+    color: var(--text-light, #f5e6d3);
+    font-size: 1.5em;
+    margin-bottom: 1rem;
+    margin-top: 1.5rem;
+}
+
+.clan-detail-section p {
+    font-family: var(--font-body, 'Source Serif Pro'), serif;
+    color: var(--text-mid, #d4b06d);
+    line-height: 1.8;
+    margin-bottom: 1rem;
+}
+
+
+/* Source references styling */
+.clan-sources {
+    font-size: 0.9em;
+    color: var(--text-light, #f5e6d3);
+    opacity: 0.75;
+    font-style: italic;
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+    border-top: 1px solid rgba(139, 0, 0, 0.3);
+}
+
+.clan-sources p {
+    margin-bottom: 0.5rem;
+    font-size: 0.95em;
+}
+
+/* Featured NPC section */
+.clan-npc-image {
+    max-width: 300px;
+    width: 100%;
+    height: auto;
+    border: 2px solid var(--blood-red, #8B0000);
+    border-radius: 0.75rem;
+    margin-bottom: 1.5rem;
+}
+
+/* Call to action section */
+.clan-cta {
+    background: linear-gradient(135deg, rgba(139, 0, 0, 0.2) 0%, rgba(26, 15, 15, 0.4) 100%);
+    border: 2px solid var(--muted-gold, #d4b06d);
+    border-radius: 0.75rem;
+    padding: 2rem;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.clan-cta p {
+    margin-bottom: 1rem;
+}
+
+.clan-cta .note {
+    font-size: 0.9em;
+    color: var(--text-light, #f5e6d3);
+    opacity: 0.75;
+    font-style: italic;
+    margin-top: 1rem;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .clan-npc-image {
+        max-width: 100%;
+    }
+    
+    .gothic-separator {
+        margin: 2rem 0;
+    }
+}

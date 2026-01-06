@@ -85,11 +85,11 @@ function showActionModal(action, actionName) {
 
 function formatJsonAsHtml(data, level = 0, key = '') {
     if (data === null) {
-        return '<span class="text-muted fst-italic">null</span>';
+        return '<span class="opacity-75 fst-italic">null</span>';
     }
     
     if (data === undefined) {
-        return '<span class="text-muted fst-italic">undefined</span>';
+        return '<span class="opacity-75 fst-italic">undefined</span>';
     }
     
     const type = typeof data;
@@ -113,13 +113,13 @@ function formatJsonAsHtml(data, level = 0, key = '') {
     
     if (Array.isArray(data)) {
         if (data.length === 0) {
-            return '<span class="text-muted">[]</span>';
+            return '<span class="opacity-75">[]</span>';
         }
         
         let html = '<ul class="list-unstyled mb-0" style="margin-left: ' + (level * 20) + 'px;">';
         data.forEach((item, index) => {
             html += '<li class="mb-2">';
-            html += '<span class="text-muted">[' + index + ']:</span> ';
+            html += '<span class="opacity-75">[' + index + ']:</span> ';
             html += formatJsonAsHtml(item, level + 1, '');
             html += '</li>';
         });
@@ -130,7 +130,7 @@ function formatJsonAsHtml(data, level = 0, key = '') {
     if (type === 'object') {
         const keys = Object.keys(data);
         if (keys.length === 0) {
-            return '<span class="text-muted">{}</span>';
+            return '<span class="opacity-75">{}</span>';
         }
         
         let html = '<div class="mb-2" style="margin-left: ' + (level * 20) + 'px;">';
@@ -342,7 +342,7 @@ function showBoonRelationshipsGraph() {
                     </div>
                 </div>
             </div>
-            <p class="text-muted small mt-2 mb-0">Arrows indicate the direction of debt: Creditor → Debtor. Hover over nodes and edges for details.</p>
+            <p class="opacity-75 small mt-2 mb-0">Arrows indicate the direction of debt: Creditor → Debtor. Hover over nodes and edges for details.</p>
         `;
     })
     .catch(error => {

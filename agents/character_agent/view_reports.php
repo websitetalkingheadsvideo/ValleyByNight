@@ -63,7 +63,7 @@ $continuity_dir = $reports_dir . '/continuity';
                     }
                     ?>
                     <?php if (empty($daily_reports)): ?>
-                        <p class="text-muted mb-0">No daily reports generated yet.</p>
+                        <p class="opacity-75 mb-0">No daily reports generated yet.</p>
                     <?php else: ?>
                         <ul class="list-unstyled mb-0">
                             <?php foreach ($daily_reports as $report): ?>
@@ -73,7 +73,7 @@ $continuity_dir = $reports_dir . '/continuity';
                                        class="text-light text-decoration-none">
                                         <?= htmlspecialchars($report['filename']); ?>
                                     </a>
-                                    <small class="text-muted d-block">
+                                    <small class="opacity-75 d-block">
                                         <?= date('Y-m-d H:i:s', $report['modified']); ?> 
                                         (<?= number_format($report['size']) ?> bytes)
                                     </small>
@@ -112,7 +112,7 @@ $continuity_dir = $reports_dir . '/continuity';
                     }
                     ?>
                     <?php if (empty($continuity_reports)): ?>
-                        <p class="text-muted mb-0">No continuity reports generated yet.</p>
+                        <p class="opacity-75 mb-0">No continuity reports generated yet.</p>
                     <?php else: ?>
                         <ul class="list-unstyled mb-0">
                             <?php foreach ($continuity_reports as $report): ?>
@@ -122,7 +122,7 @@ $continuity_dir = $reports_dir . '/continuity';
                                        class="text-light text-decoration-none">
                                         <?= htmlspecialchars($report['filename']); ?>
                                     </a>
-                                    <small class="text-muted d-block">
+                                    <small class="opacity-75 d-block">
                                         <?= date('Y-m-d H:i:s', $report['modified']); ?> 
                                         (<?= number_format($report['size']) ?> bytes)
                                     </small>

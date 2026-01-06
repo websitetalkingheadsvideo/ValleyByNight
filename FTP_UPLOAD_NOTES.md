@@ -30,7 +30,7 @@ The database has been updated to use `Agent/style_agent` to match the remote ser
 ## Verification
 After uploading, verify files are in the correct location:
 ```
-https://vbn.talkingheads.video/verify_mcp_structure.php
+verify_mcp_structure.php
 ```
 
 This will check if files are accessible at `Agent/style_agent/docs/` on the remote server.

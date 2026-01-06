@@ -52,27 +52,28 @@
     background: radial-gradient(circle at center, rgba(139, 0, 0, 0.4) 0%, rgba(139, 0, 0, 0.2) 40%, rgba(26, 15, 15, 0.6) 100%);
     border: 2px solid #8B0000;
     border-radius: 8px;
-    overflow-x: auto;
+    overflow-x: hidden !important; /* NEVER allow horizontal scroll */
     overflow-y: hidden;
 }
 
 /* Bootstrap .table handles base table styling */
 /* Custom table styling preserved for gothic theme */
-table.table {
-    min-width: 1200px;
+/* REMOVED min-width - table must fit viewport width */
+/* Responsive column visibility handled in admin_table_responsive.css */
+#locationsTable {
+    width: 100%;
+    max-width: 100%;
+    table-layout: auto;
 }
 
-/* Actions column - always visible with fixed width and sticky positioning */
+/* Actions column - ALWAYS VISIBLE (highest priority) */
 #locationsTable th:last-child,
 #locationsTable td:last-child {
     min-width: 150px;
     width: 150px;
     max-width: 150px;
     text-align: center;
-    position: sticky;
-    right: 0;
-    z-index: 10;
-    box-shadow: -2px 0 5px rgba(0, 0, 0, 0.3);
+    /* Removed sticky positioning - not needed when no horizontal scroll */
 }
 
 /* Sticky header background - match thead gradient */
@@ -89,9 +90,12 @@ table.table {
     background-color: rgba(139, 0, 0, 0.15);
 }
 
-/* Ensure table-responsive allows sticky positioning */
+/* Table-responsive: NEVER allow horizontal scroll */
+/* Note: Global rules in admin_table_responsive.css override Bootstrap defaults */
 .table-responsive {
     position: relative;
+    overflow-x: hidden !important; /* ABSOLUTE: No horizontal scrollbars ever */
+    overflow-y: auto;
 }
 
 #locationsTable thead {
@@ -397,7 +401,50 @@ table.table {
     }
 }
 
-/* Responsive Design */
+/* ============================================
+   RESPONSIVE COLUMN VISIBILITY SYSTEM
+   Priority Order (hide in reverse):
+   1. Name (ALWAYS VISIBLE - highest priority)
+   2. Actions (ALWAYS VISIBLE - highest priority)
+   3. Type
+   4. Status
+   5. District
+   6. Owner Type
+   7. PC Earnable
+   8. ID (lowest priority - hide first)
+   
+   Note: Main responsive rules are in admin_table_responsive.css
+   This section contains locations-specific mobile optimizations
+   ============================================ */
+
+/* Mobile optimizations for actions column */
+@media (max-width: 499.98px) {
+    .actions {
+        gap: 3px;
+        min-width: 120px;
+    }
+    
+    .action-btn {
+        width: 28px;
+        height: 28px;
+        font-size: 0.9em;
+    }
+}
+
+@media (max-width: 399.98px) {
+    .actions {
+        gap: 2px;
+        min-width: 100px;
+    }
+    
+    .action-btn {
+        width: 26px;
+        height: 26px;
+        font-size: 0.8em;
+    }
+}
+
+/* Filter controls responsive adjustments */
 @media (max-width: 768px) {
     .admin-locations-container {
         padding: 15px 10px;
@@ -412,50 +459,6 @@ table.table {
     .filter-buttons {
         justify-content: center;
         flex-wrap: wrap;
-    }
-    
-    #locationsTable {
-        min-width: 800px;
-    }
-    
-    #locationsTable th,
-    #locationsTable td {
-        padding: 8px 6px;
-        font-size: 0.9em;
-    }
-    
-    .actions {
-        gap: 3px;
-        min-width: 120px;
-    }
-    
-    .action-btn {
-        width: 28px;
-        height: 28px;
-        font-size: 0.9em;
-    }
-}
-
-@media (max-width: 480px) {
-    #locationsTable {
-        min-width: 600px;
-    }
-    
-    #locationsTable th,
-    #locationsTable td {
-        padding: 6px 4px;
-        font-size: 0.8em;
-    }
-    
-    .actions {
-        gap: 2px;
-        min-width: 100px;
-    }
-    
-    .action-btn {
-        width: 26px;
-        height: 26px;
-        font-size: 0.8em;
     }
 }
 

@@ -6,7 +6,7 @@
  * and seeds them with all 15 types of Influence and their effects by level
  * from Laws of the Night (1st Edition).
  * 
- * Run via browser: https://vbn.talkingheads.video/database/create_influences_table.php
+ * Run via browser: database/create_influences_table.php
  * Or via CLI: php database/create_influences_table.php
  */
 

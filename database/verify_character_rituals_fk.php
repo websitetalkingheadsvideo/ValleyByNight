@@ -11,7 +11,7 @@
  * 
  * Usage:
  *   CLI: php database/verify_character_rituals_fk.php
- *   Web: https://vbn.talkingheads.video/database/verify_character_rituals_fk.php
+ *   Web: database/verify_character_rituals_fk.php
  */
 
 declare(strict_types=1);

@@ -418,7 +418,7 @@ if (!empty($pcId)) {
                                         <?php echo htmlspecialchars(truncate_text(implode(', ', $targets), 30)); ?>
                                     </div>
                                 <?php else: ?>
-                                    <span class="text-muted">—</span>
+                                    <span class="opacity-75">—</span>
                                 <?php endif; ?>
                             </td>
                             <td class="align-top text-start" style="max-width: 150px; width: 150px;">
@@ -427,7 +427,7 @@ if (!empty($pcId)) {
                                         <?php echo htmlspecialchars(truncate_text(implode(', ', $sourceTypes), 20)); ?>
                                     </div>
                                 <?php else: ?>
-                                    <span class="text-muted">—</span>
+                                    <span class="opacity-75">—</span>
                                 <?php endif; ?>
                             </td>
                             <td class="align-top text-start" style="max-width: 300px; width: 300px;">
@@ -534,7 +534,7 @@ if (!empty($pcId)) {
                                         <td class="text-start"><strong><?php echo htmlspecialchars($rumorId); ?></strong></td>
                                         <td class="text-center"><?php echo htmlspecialchars($timesShown); ?></td>
                                         <td class="text-center">
-                                            <?php echo $lastShownNight !== null ? htmlspecialchars($lastShownNight) : '<span class="text-muted">Never</span>'; ?>
+                                            <?php echo $lastShownNight !== null ? htmlspecialchars($lastShownNight) : '<span class="opacity-75">Never</span>'; ?>
                                         </td>
                                     </tr>
                                 <?php endforeach; ?>
@@ -916,29 +916,29 @@ document.addEventListener('DOMContentLoaded', function() {
             
             modalHtml += '<div class="mb-3">';
             modalHtml += '<h4 class="text-light mb-2">Targets:</h4>';
-            modalHtml += '<p class="text-light ms-2">' + (targets ? escapeHtml(targets) : '<span class="text-muted">—</span>') + '</p>';
+            modalHtml += '<p class="text-light ms-2">' + (targets ? escapeHtml(targets) : '<span class="opacity-75">—</span>') + '</p>';
             modalHtml += '</div>';
             
             modalHtml += '<div class="mb-3">';
             modalHtml += '<h4 class="text-light mb-2">Source Types:</h4>';
-            modalHtml += '<p class="text-light ms-2">' + (sourceTypes ? escapeHtml(sourceTypes) : '<span class="text-muted">—</span>') + '</p>';
+            modalHtml += '<p class="text-light ms-2">' + (sourceTypes ? escapeHtml(sourceTypes) : '<span class="opacity-75">—</span>') + '</p>';
             modalHtml += '</div>';
             
             modalHtml += '<div class="mb-3">';
             modalHtml += '<h4 class="text-light mb-2">Delivery Contexts:</h4>';
             const deliveryContexts = rumorRow.getAttribute('data-delivery-contexts');
-            modalHtml += '<p class="text-light ms-2">' + (deliveryContexts ? escapeHtml(deliveryContexts) : '<span class="text-muted">—</span>') + '</p>';
+            modalHtml += '<p class="text-light ms-2">' + (deliveryContexts ? escapeHtml(deliveryContexts) : '<span class="opacity-75">—</span>') + '</p>';
             modalHtml += '</div>';
             
             modalHtml += '<div class="mb-3">';
             modalHtml += '<h4 class="text-light mb-2">Plot IDs:</h4>';
             const plotIds = rumorRow.getAttribute('data-plot-ids');
-            modalHtml += '<p class="text-light ms-2">' + (plotIds ? escapeHtml(plotIds) : '<span class="text-muted">—</span>') + '</p>';
+            modalHtml += '<p class="text-light ms-2">' + (plotIds ? escapeHtml(plotIds) : '<span class="opacity-75">—</span>') + '</p>';
             modalHtml += '</div>';
             
             modalHtml += '<div class="mb-3">';
             modalHtml += '<h4 class="text-light mb-2">Source File:</h4>';
-            modalHtml += '<p class="text-light ms-2">' + (sourceFile && sourceFile !== '—' ? escapeHtml(sourceFile) : '<span class="text-muted">—</span>') + '</p>';
+            modalHtml += '<p class="text-light ms-2">' + (sourceFile && sourceFile !== '—' ? escapeHtml(sourceFile) : '<span class="opacity-75">—</span>') + '</p>';
             modalHtml += '</div>';
             
             if (prerequisites && prerequisites.trim() !== '') {
@@ -1068,29 +1068,29 @@ document.addEventListener('DOMContentLoaded', function() {
             
             modalHtml += '<div class="mb-3">';
             modalHtml += '<h4 class="text-light mb-2">Targets:</h4>';
-            modalHtml += '<p class="text-light ms-2">' + (targets ? escapeHtml(targets) : '<span class="text-muted">—</span>') + '</p>';
+            modalHtml += '<p class="text-light ms-2">' + (targets ? escapeHtml(targets) : '<span class="opacity-75">—</span>') + '</p>';
             modalHtml += '</div>';
             
             modalHtml += '<div class="mb-3">';
             modalHtml += '<h4 class="text-light mb-2">Source Types:</h4>';
-            modalHtml += '<p class="text-light ms-2">' + (sourceTypes ? escapeHtml(sourceTypes) : '<span class="text-muted">—</span>') + '</p>';
+            modalHtml += '<p class="text-light ms-2">' + (sourceTypes ? escapeHtml(sourceTypes) : '<span class="opacity-75">—</span>') + '</p>';
             modalHtml += '</div>';
             
             modalHtml += '<div class="mb-3">';
             modalHtml += '<h4 class="text-light mb-2">Delivery Contexts:</h4>';
             const deliveryContexts = rumorRow.getAttribute('data-delivery-contexts');
-            modalHtml += '<p class="text-light ms-2">' + (deliveryContexts ? escapeHtml(deliveryContexts) : '<span class="text-muted">—</span>') + '</p>';
+            modalHtml += '<p class="text-light ms-2">' + (deliveryContexts ? escapeHtml(deliveryContexts) : '<span class="opacity-75">—</span>') + '</p>';
             modalHtml += '</div>';
             
             modalHtml += '<div class="mb-3">';
             modalHtml += '<h4 class="text-light mb-2">Plot IDs:</h4>';
             const plotIds = rumorRow.getAttribute('data-plot-ids');
-            modalHtml += '<p class="text-light ms-2">' + (plotIds ? escapeHtml(plotIds) : '<span class="text-muted">—</span>') + '</p>';
+            modalHtml += '<p class="text-light ms-2">' + (plotIds ? escapeHtml(plotIds) : '<span class="opacity-75">—</span>') + '</p>';
             modalHtml += '</div>';
             
             modalHtml += '<div class="mb-3">';
             modalHtml += '<h4 class="text-light mb-2">Source File:</h4>';
-            modalHtml += '<p class="text-light ms-2">' + (sourceFile && sourceFile !== '—' ? escapeHtml(sourceFile) : '<span class="text-muted">—</span>') + '</p>';
+            modalHtml += '<p class="text-light ms-2">' + (sourceFile && sourceFile !== '—' ? escapeHtml(sourceFile) : '<span class="opacity-75">—</span>') + '</p>';
             modalHtml += '</div>';
             
             if (prerequisites && prerequisites.trim() !== '') {

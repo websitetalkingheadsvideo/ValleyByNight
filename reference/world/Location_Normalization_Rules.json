@@ -1,0 +1,30 @@
+{
+    "null_semantics": {
+      "null_means": "Not applicable to this location",
+      "never_use_null_for": [
+        "unknown_but_applicable_values"
+      ]
+    },
+    "supernatural_rules": {
+      "has_supernatural": 0,
+      "requires_null_fields": [
+        "node_points",
+        "node_type",
+        "ritual_space",
+        "magical_protection",
+        "cursed_blessed"
+      ],
+      "state_change_allowed": true
+    },
+    "relationship_rules": {
+      "parent_location_id": "always_present_nullable",
+      "relationship_type": "always_present_nullable",
+      "relationship_notes": "always_present_nullable"
+    },
+    "geography_rules": {
+      "latitude": "always_present_nullable",
+      "longitude": "always_present_nullable",
+      "precision_deferred": true
+    }
+  }
+  

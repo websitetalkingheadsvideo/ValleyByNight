@@ -173,6 +173,6 @@
     color: #f5e6d3 !important;
 }
 
-.alert-blood .text-muted {
+.alert-blood .opacity-75 {
     color: rgba(245, 230, 211, 0.6) !important;
 }

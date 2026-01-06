@@ -7,7 +7,7 @@
  * 
  * Usage: 
  *   CLI: php database/audit_rituals_completeness.php
- *   Web: https://vbn.talkingheads.video/database/audit_rituals_completeness.php
+ *   Web: database/audit_rituals_completeness.php
  */
 
 declare(strict_types=1);

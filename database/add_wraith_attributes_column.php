@@ -6,7 +6,7 @@
  * (Physical, Social, Mental) in the same structure as the Vampire character system.
  * 
  * Usage: Run via web browser or CLI
- * URL: https://vbn.talkingheads.video/database/add_wraith_attributes_column.php
+ * URL: database/add_wraith_attributes_column.php
  * CLI: php database/add_wraith_attributes_column.php
  */
 

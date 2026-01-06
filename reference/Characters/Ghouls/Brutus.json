@@ -1,0 +1,168 @@
+{
+    "schema_version": "1.1.0",
+    "ghoul_id": "ghoul_butch_reed_guard_dog",
+    "name": {
+      "full": "Brutus",
+      "aliases": ["The Dog", "Butch’s Rottweiler"]
+    },
+    "splat": "ghoul",
+    "domitor": {
+      "domitor_character_id": 0,
+      "domitor_name": "Butch Reed",
+      "relationship_summary": "Property guardian and constant companion. Absolute loyalty reinforced through routine feeding and proximity.",
+      "first_contact": {
+        "date": "1990-06-01",
+        "context": "Taken in as a working guard dog shortly after Butch acquired the house near his garage."
+      }
+    },
+    "bond": {
+      "blood_bond_stage": 3,
+      "bond_strength_descriptor": "Total devotion",
+      "blood_bond_notes": "Responds instantly to Butch’s presence, voice, and scent. Will fight to the death if Butch is threatened."
+    },
+    "awareness": {
+      "knows_vampires_exist": false,
+      "knows_domitor_is_vampire": false,
+      "knows_politics": "none",
+      "knows_masquerade_rules": false,
+      "knowledge_notes": "Operates purely on instinct reinforced by vitae and conditioning."
+    },
+    "public_profile": {
+      "claimed_age": 6,
+      "presentation": {
+        "style_summary": "Large, muscular Rottweiler kept as a guard dog.",
+        "signature_items": ["Heavy-duty collar"],
+        "demeanor_public": "Aggressive, territorial"
+      },
+      "public_role": "Guard dog",
+      "cover_story": "A vicious but well-trained guard dog used to protect Butch’s property.",
+      "contact_points": ["Chain-link fence perimeter", "Back yard"]
+    },
+    "hidden_profile": {
+      "actual_age": 10,
+      "runaway": false,
+      "legal_status": "untraceable",
+      "false_identity_notes": "No veterinary records under current name.",
+      "domitor_awareness_of_truth": {
+        "knows_actual_age": true,
+        "knows_runaway_status": false,
+        "notes": "Butch is aware the dog has lived far longer than normal."
+      },
+      "hidden_flags": ["animal_ghoul", "territorial_predator"]
+    },
+    "mechanics": {
+      "chronicle_date": "1994-10-08",
+      "nature": "Guardian",
+      "demeanor": "Sentinel",
+      "concept": "Ghoul Rottweiler guard dog with full run of house and yard",
+      "attributes": {
+        "physical": {
+          "strength": 4,
+          "dexterity": 3,
+          "stamina": 4
+        },
+        "social": {
+          "charisma": 1,
+          "manipulation": 0,
+          "appearance": 2
+        },
+        "mental": {
+          "perception": 4,
+          "intelligence": 1,
+          "wits": 3
+        }
+      },
+      "abilities": {
+        "talents": [
+          { "name": "Alertness", "dots": 4 },
+          { "name": "Brawl", "dots": 3 }
+        ],
+        "skills": [
+          { "name": "Athletics", "dots": 3 },
+          { "name": "Stealth", "dots": 2 }
+        ],
+        "knowledges": []
+      },
+      "disciplines": [
+        {
+          "name": "Potence",
+          "dots": 1,
+          "notes": "Expressed as unnatural bite force and striking power."
+        }
+      ],
+      "backgrounds": [
+        { "name": "Territory", "dots": 2, "notes": "House and fenced yard." }
+      ],
+      "merits_flaws": {
+        "merits": [
+          { "name": "Huge Size", "points": 3 },
+          { "name": "Intimidating Presence", "points": 2 }
+        ],
+        "flaws": [
+          { "name": "Bestial Temper", "points": -3 }
+        ]
+      },
+      "advantages": {
+        "willpower": 5,
+        "courage": 4,
+        "self_control": 2,
+        "conscience": 1,
+        "humanity": 3
+      },
+      "health": {
+        "max": 8,
+        "current": [],
+        "notes": "Heals faster than a normal animal when fed vitae."
+      },
+      "experience": {
+        "total_earned": 0,
+        "total_spent": 0,
+        "unspent": 0,
+        "log": []
+      },
+      "derived_stats": {
+        "initiative": "6",
+        "movement": "Fast (can sprint entire yard in seconds)",
+        "carry": "Mouth/drag only",
+        "soak": "Stamina + ghoul resilience",
+        "notes": "Soak applies only to bashing/lethal."
+      }
+    },
+    "vitae": {
+      "access_pattern": "regular",
+      "withdrawal_risk": "severe",
+      "dependency": {
+        "emotional_dependency_level": 5,
+        "functional_dependency_level": 4,
+        "notes": "Becomes unstable and violently restless without access to Butch."
+      }
+    },
+    "risks": {
+      "masquerade_risk": "low",
+      "court_risk": "low",
+      "legal_risk": "medium",
+      "exploitation_risk": "low",
+      "tags": ["animal_ghoul", "guard_dog"],
+      "risk_notes": "Primary risk arises if witnesses observe unnatural endurance."
+    },
+    "relationships": {
+      "to_domitor": {
+        "attachment_style": "devoted",
+        "jealousy_level": 1,
+        "protectiveness_level": 5,
+        "trust_level": 5,
+        "notes": "Positions itself between Butch and any perceived threat."
+      },
+      "others": []
+    },
+    "notes": {
+      "one_liner": "A silent, relentless ghoul Rottweiler guarding Butch Reed’s home.",
+      "expanded": "Brutus has full run of the house and yard via a dog door, treating both as a single territory. Rarely barks—intruders usually realize they are noticed only moments before he attacks.",
+      "st_only": "Escalation tool before direct confrontation with Butch."
+    },
+    "timestamps": {
+      "created_at": "2026-01-03T19:00:00Z",
+      "updated_at": "2026-01-03T19:00:00Z"
+    }
+  }
+  

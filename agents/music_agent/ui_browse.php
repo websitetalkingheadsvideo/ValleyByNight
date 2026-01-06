@@ -191,7 +191,7 @@ try {
                 </div>
                 <div class="card-body">
                     <?php if (empty($assets)): ?>
-                    <p class="text-muted">No assets found.</p>
+                    <p class="opacity-75">No assets found.</p>
                     <?php else: ?>
                     <div class="table-responsive rounded-3">
                         <table class="table table-dark table-sm rituals-table">
@@ -220,7 +220,7 @@ try {
                                         <?php if (!empty($used_by)): ?>
                                         <span class="badge bg-info"><?php echo count($used_by); ?> cue(s)</span>
                                         <?php else: ?>
-                                        <span class="text-muted">—</span>
+                                        <span class="opacity-75">—</span>
                                         <?php endif; ?>
                                     </td>
                                     <td>
@@ -232,7 +232,7 @@ try {
                                             <button type="submit" class="btn btn-sm btn-danger">Delete</button>
                                         </form>
                                         <?php else: ?>
-                                        <span class="text-muted">In use</span>
+                                        <span class="opacity-75">In use</span>
                                         <?php endif; ?>
                                     </td>
                                 </tr>
@@ -251,7 +251,7 @@ try {
                 </div>
                 <div class="card-body">
                     <?php if (empty($cues)): ?>
-                    <p class="text-muted">No cues found.</p>
+                    <p class="opacity-75">No cues found.</p>
                     <?php else: ?>
                     <div class="table-responsive rounded-3">
                         <table class="table table-dark table-sm rituals-table">
@@ -280,7 +280,7 @@ try {
                                         <?php if (!empty($used_by)): ?>
                                         <span class="badge bg-info"><?php echo count($used_by); ?> binding(s)</span>
                                         <?php else: ?>
-                                        <span class="text-muted">—</span>
+                                        <span class="opacity-75">—</span>
                                         <?php endif; ?>
                                     </td>
                                     <td>
@@ -292,7 +292,7 @@ try {
                                             <button type="submit" class="btn btn-sm btn-danger">Delete</button>
                                         </form>
                                         <?php else: ?>
-                                        <span class="text-muted">In use</span>
+                                        <span class="opacity-75">In use</span>
                                         <?php endif; ?>
                                     </td>
                                 </tr>
@@ -311,7 +311,7 @@ try {
                 </div>
                 <div class="card-body">
                     <?php if (empty($bindings)): ?>
-                    <p class="text-muted">No bindings found.</p>
+                    <p class="opacity-75">No bindings found.</p>
                     <?php else: ?>
                     <div class="table-responsive rounded-3">
                         <table class="table table-dark table-sm rituals-table">

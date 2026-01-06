@@ -1181,12 +1181,12 @@ if ($script_dir === '/') {
                     const customData = typeof overlay.custom_data === 'string' ? JSON.parse(overlay.custom_data) : overlay.custom_data;
                     optionalFieldsHtml += '<div class="col-12">';
                     optionalFieldsHtml += '<details class="ghoul-custom-data">';
-                    optionalFieldsHtml += '<summary><strong>Custom Data</strong> <span class="text-muted small">(JSON)</span></summary>';
+                    optionalFieldsHtml += '<summary><strong>Custom Data</strong> <span class="opacity-75 small">(JSON)</span></summary>';
                     optionalFieldsHtml += '<pre class="custom-data-json">' + JSON.stringify(customData, null, 2).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;') + '</pre>';
                     optionalFieldsHtml += '</details>';
                     optionalFieldsHtml += '</div>';
                 } catch (e) {
-                    optionalFieldsHtml += '<div class="col-12"><p><strong>Custom Data:</strong> <span class="text-muted">(Invalid JSON)</span></p></div>';
+                    optionalFieldsHtml += '<div class="col-12"><p><strong>Custom Data:</strong> <span class="opacity-75">(Invalid JSON)</span></p></div>';
                 }
             }
             
