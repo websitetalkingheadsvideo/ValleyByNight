@@ -258,7 +258,7 @@ $top_candidates = array_slice($scored_candidates, 0, 3);
                             <h2 class="mb-1">
                                 #<?php echo $index + 1; ?>: <?php echo htmlspecialchars($char['character_name']); ?>
                             </h2>
-                            <p class="text-muted mb-0">
+                            <p class="opacity-75 mb-0">
                                 <?php echo htmlspecialchars($char['clan']); ?> • Generation <?php echo htmlspecialchars($char['generation']); ?>
                                 <?php if ($char['concept']): ?>
                                     • <?php echo htmlspecialchars($char['concept']); ?>
@@ -281,7 +281,7 @@ $top_candidates = array_slice($scored_candidates, 0, 3);
                             
                             <?php if ($char['biography']): ?>
                                 <h5 class="mt-3">Biography Excerpt:</h5>
-                                <p class="text-muted" style="max-height: 150px; overflow-y: auto;">
+                                <p class="opacity-75" style="max-height: 150px; overflow-y: auto;">
                                     <?php echo htmlspecialchars(substr($char['biography'], 0, 300)); ?>
                                     <?php if (strlen($char['biography']) > 300): ?>...<?php endif; ?>
                                 </p>
@@ -329,7 +329,7 @@ $top_candidates = array_slice($scored_candidates, 0, 3);
                                     endforeach;
                                 else:
                                 ?>
-                                    <p class="text-muted">No relevant abilities found</p>
+                                    <p class="opacity-75">No relevant abilities found</p>
                                 <?php endif; ?>
                             <?php endif; ?>
                             

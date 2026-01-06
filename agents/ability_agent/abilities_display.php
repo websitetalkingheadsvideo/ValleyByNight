@@ -322,7 +322,7 @@ function truncateText(string $text, int $maxLength = 100): string {
             html += '<div class="text-content">' + descEscaped + '</div>';
         } else {
             html += '<h3>Description</h3>';
-            html += '<p class="text-muted">No description available.</p>';
+            html += '<p class="opacity-75">No description available.</p>';
         }
         
         html += '</div>';

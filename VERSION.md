@@ -1,6 +1,71 @@
 # Version History
 
-## Current Version: 0.9.15
+## Current Version: 0.9.30
+
+**Date:** 2026-01-30  
+**Type:** Patch (Git sync: staging and committing project changes)
+
+## Previous Version: 0.9.29
+
+**Date:** 2026-01-30  
+**Type:** Patch (PDF extraction tools: added scripts and guide for converting PDFs to markdown with page markers)
+
+## Previous Version: 0.9.28
+
+**Date:** 2026-01-30  
+**Type:** Patch (Improved laws_agent search filtering, added discipline_powers_lookup table)
+
+## Previous Version: 0.9.27
+
+**Date:** 2026-01-30  
+**Type:** Patch (Git sync: staging and committing project changes)
+
+## Previous Version: 0.9.25
+
+**Date:** 2026-01-03  
+**Type:** Patch (Move cinematic style guides to style_agent, format Reed House intro, generate NPC haven coverage)
+
+## Previous Version: 0.9.24
+
+**Date:** 2026-01-02  
+**Type:** Patch (Add NPC haven coverage planning document)
+
+## Previous Version: 0.9.22
+
+**Date:** 2026-01-02  
+**Type:** Patch (Git sync: staging and committing project changes)
+
+## Previous Version: 0.9.21
+
+**Date:** 2026-01-02  
+**Type:** Patch (URL cleanup: removed hardcoded old URL references, replaced with relative paths throughout codebase)
+
+## Previous Version: 0.9.20
+
+**Date:** 2026-01-02  
+**Type:** Patch (Location system updates: added location questionnaire, Violet Reliquary style summaries, PC Haven organization, removed Blueprints system)
+
+## Previous Version: 0.9.19
+
+**Date:** 2026-01-02  
+**Type:** Patch (Home dashboard: added player links section with Join Game card, role verification system, enhanced security)
+
+## Previous Version: 0.9.18
+
+**Date:** 2026-01-02  
+**Type:** Patch (Brujah clan page: removed spoilers about Prince's murder, updated to present tense, clarified Prince is Brujah)
+
+## Previous Version: 0.9.17
+
+**Date:** 2026-01-02  
+**Type:** Patch (Clans section implementation: index page, 14 clan detail pages, character view modal styling integration, drop-shadow improvements)
+
+## Previous Version: 0.9.16
+
+**Date:** 2025-01-30  
+**Type:** Patch (Updated project name from "TheBoys" to "VbN" in Taskmaster configuration)
+
+## Previous Version: 0.9.15
 
 **Date:** 2025-01-30  
 **Type:** Patch (Updated Roland Cross appearance: trench coat details and cowboy hat description)

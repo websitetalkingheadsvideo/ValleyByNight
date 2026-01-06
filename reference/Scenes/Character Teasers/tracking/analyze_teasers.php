@@ -8,7 +8,7 @@
 $project_root = dirname(dirname(dirname(dirname(__DIR__))));
 
 // Use API endpoint to get characters (avoids direct DB connection issues)
-$api_url = 'https://vbn.talkingheads.video/includes/api_get_character_names.php';
+$api_url = 'includes/api_get_character_names.php';
 $context = stream_context_create([
     'http' => [
         'timeout' => 30,

@@ -8,7 +8,7 @@
  * 
  * Usage:
  *   CLI: php agents/paths_agent/import_paths_json.php
- *   Web: https://vbn.talkingheads.video/agents/paths_agent/import_paths_json.php
+ *   Web: agents/paths_agent/import_paths_json.php
  */
 
 declare(strict_types=1);

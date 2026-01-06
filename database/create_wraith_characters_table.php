@@ -5,7 +5,7 @@
  * This script creates a separate table for Wraith: The Oblivion characters
  * without affecting the existing VtM characters table.
  * 
- * Run via browser: https://vbn.talkingheads.video/database/create_wraith_characters_table.php
+ * Run via browser: database/create_wraith_characters_table.php
  * Or via CLI: php database/create_wraith_characters_table.php
  */
 

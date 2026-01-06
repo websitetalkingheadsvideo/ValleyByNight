@@ -7,7 +7,7 @@
  * 
  * Usage:
  *   CLI: php database/import_primogen_characters.php
- *   Web: https://vbn.talkingheads.video/database/import_primogen_characters.php
+ *   Web: database/import_primogen_characters.php
  */
 
 declare(strict_types=1);

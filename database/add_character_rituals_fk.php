@@ -10,7 +10,7 @@
  * 
  * Usage: 
  *   CLI: php database/add_character_rituals_fk.php
- *   Web: https://vbn.talkingheads.video/database/add_character_rituals_fk.php
+ *   Web: database/add_character_rituals_fk.php
  */
 
 declare(strict_types=1);

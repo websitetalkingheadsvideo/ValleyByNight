@@ -88,7 +88,7 @@ php database/add_character_rituals_fk.php
 
 Or via web:
 ```
-https://vbn.talkingheads.video/database/add_character_rituals_fk.php
+database/add_character_rituals_fk.php
 ```
 
 ## Rollback Procedure
@@ -124,7 +124,7 @@ php database/verify_character_rituals_fk.php
 
 Or via web:
 ```
-https://vbn.talkingheads.video/database/verify_character_rituals_fk.php
+database/verify_character_rituals_fk.php
 ```
 
 ### Verification Checks

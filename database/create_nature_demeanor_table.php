@@ -5,7 +5,7 @@
  * This script creates the Nature_Demeanor table and seeds it with all 28 canonical
  * Nature/Demeanor archetypes from the VtM character creation system.
  * 
- * Run via browser: https://vbn.talkingheads.video/database/create_nature_demeanor_table.php
+ * Run via browser: database/create_nature_demeanor_table.php
  * Or via CLI: php database/create_nature_demeanor_table.php
  */
 

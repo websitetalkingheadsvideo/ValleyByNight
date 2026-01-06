@@ -392,130 +392,466 @@ function changePage(page) {
     }
 }
 
+// Helper function to safely get field values
+function getFieldValue(location, field, defaultValue = '') {
+    if (!location) return defaultValue;
+    const value = location[field];
+    if (value === null || value === undefined) return defaultValue;
+    if (typeof value === 'string') return escapeHtml(value);
+    return value;
+}
+
+function getFieldValueRaw(location, field, defaultValue = '') {
+    if (!location) return defaultValue;
+    const value = location[field];
+    return value === null || value === undefined ? defaultValue : value;
+}
+
+function getCheckboxValue(location, field) {
+    if (!location) return false;
+    const value = location[field];
+    return (value == 1 || value === true || value === '1' || value === 'true');
+}
+
 // Generate location form HTML
 function generateLocationFormHtml(location = null) {
-    const locationId = location ? location.id : '';
-    const locationName = location ? escapeHtml(location.name) : '';
-    const locationType = location ? location.type : '';
-    const locationStatus = location ? location.status : '';
-    const locationDistrict = location ? escapeHtml(location.district || '') : '';
-    const locationOwnerType = location ? location.owner_type : '';
-    const locationFaction = location ? escapeHtml(location.faction || '') : '';
-    const locationAccessControl = location ? location.access_control : '';
-    const locationSecurityLevel = location ? (location.security_level || 3) : 3;
-    const locationDescription = location ? escapeHtml(location.description || '') : '';
-    const locationSummary = location ? escapeHtml(location.summary || '') : '';
-    const locationNotes = location ? escapeHtml(location.notes || '') : '';
-    const locationPCHaven = location && location.type === 'Haven' ? (location.pc_haven == 1 || location.pc_haven === true) : false;
+    const locationId = getFieldValueRaw(location, 'id', '');
+    const locationName = getFieldValue(location, 'name', '');
+    const locationType = getFieldValueRaw(location, 'type', '');
+    const locationStatus = getFieldValueRaw(location, 'status', '');
+    const locationStatusNotes = getFieldValue(location, 'status_notes', '');
+    const locationDistrict = getFieldValue(location, 'district', '');
+    const locationAddress = getFieldValue(location, 'address', '');
+    const locationLatitude = getFieldValueRaw(location, 'latitude', '');
+    const locationLongitude = getFieldValueRaw(location, 'longitude', '');
+    const locationOwnerType = getFieldValueRaw(location, 'owner_type', '');
+    const locationOwnerNotes = getFieldValue(location, 'owner_notes', '');
+    const locationFaction = getFieldValue(location, 'faction', '');
+    const locationAccessControl = getFieldValueRaw(location, 'access_control', '');
+    const locationAccessNotes = getFieldValue(location, 'access_notes', '');
+    const locationSecurityLevel = getFieldValueRaw(location, 'security_level', 3);
+    const locationSecurityNotes = getFieldValue(location, 'security_notes', '');
+    const locationDescription = getFieldValue(location, 'description', '');
+    const locationSummary = getFieldValue(location, 'summary', '');
+    const locationNotes = getFieldValue(location, 'notes', '');
+    const locationPCHaven = location && locationType === 'Haven' ? getCheckboxValue(location, 'pc_haven') : false;
+    const locationParentId = getFieldValueRaw(location, 'parent_location_id', '');
+    const locationRelationshipType = getFieldValue(location, 'relationship_type', '');
+    const locationRelationshipNotes = getFieldValue(location, 'relationship_notes', '');
+    const locationSocialFeatures = getFieldValue(location, 'social_features', '');
+    const locationCapacity = getFieldValueRaw(location, 'capacity', '');
+    const locationPrestigeLevel = getFieldValueRaw(location, 'prestige_level', '');
+    const locationNodePoints = getFieldValueRaw(location, 'node_points', '');
+    const locationNodeType = getFieldValue(location, 'node_type', '');
+    const locationRitualSpace = getFieldValue(location, 'ritual_space', '');
+    const locationMagicalProtection = getFieldValue(location, 'magical_protection', '');
+    const locationCursedBlessed = getFieldValue(location, 'cursed_blessed', '');
+    const locationImage = getFieldValue(location, 'image', '');
+    
+    // Security checkboxes
+    const securityLocks = getCheckboxValue(location, 'security_locks');
+    const securityAlarms = getCheckboxValue(location, 'security_alarms');
+    const securityGuards = getCheckboxValue(location, 'security_guards');
+    const securityHiddenEntrance = getCheckboxValue(location, 'security_hidden_entrance');
+    const securitySunlightProtected = getCheckboxValue(location, 'security_sunlight_protected');
+    const securityWardingRituals = getCheckboxValue(location, 'security_warding_rituals');
+    const securityCameras = getCheckboxValue(location, 'security_cameras');
+    const securityReinforced = getCheckboxValue(location, 'security_reinforced');
+    const hasSupernatural = getCheckboxValue(location, 'has_supernatural');
+    
+    // Utility checkboxes
+    const utilityBloodStorage = getCheckboxValue(location, 'utility_blood_storage');
+    const utilityComputers = getCheckboxValue(location, 'utility_computers');
+    const utilityLibrary = getCheckboxValue(location, 'utility_library');
+    const utilityMedical = getCheckboxValue(location, 'utility_medical');
+    const utilityWorkshop = getCheckboxValue(location, 'utility_workshop');
+    const utilityHiddenCaches = getCheckboxValue(location, 'utility_hidden_caches');
+    const utilityArmory = getCheckboxValue(location, 'utility_armory');
+    const utilityCommunications = getCheckboxValue(location, 'utility_communications');
+    const utilityNotes = getFieldValue(location, 'utility_notes', '');
     
     return `
         <form id="locationForm" class="needs-validation" novalidate>
             <input type="hidden" id="locationId" name="id" value="${locationId}">
             
-            <div class="form-row row g-3">
-                <div class="form-group mb-3 col-12 col-md-6">
-                    <label for="locationName" class="form-label">Name *</label>
-                    <input type="text" id="locationName" name="name" class="form-control" value="${locationName}" required>
-                    <div class="invalid-feedback">Please enter a location name.</div>
-                </div>
-                <div class="form-group mb-3 col-12 col-md-6">
-                    <label for="locationType" class="form-label">Type *</label>
-                    <select id="locationType" name="type" class="form-select" required>
-                        <option value="">Select Type</option>
-                        <option value="Haven" ${locationType === 'Haven' ? 'selected' : ''}>Haven</option>
-                        <option value="Elysium" ${locationType === 'Elysium' ? 'selected' : ''}>Elysium</option>
-                        <option value="Domain" ${locationType === 'Domain' ? 'selected' : ''}>Domain</option>
-                        <option value="Hunting Ground" ${locationType === 'Hunting Ground' ? 'selected' : ''}>Hunting Ground</option>
-                        <option value="Nightclub" ${locationType === 'Nightclub' ? 'selected' : ''}>Nightclub</option>
-                        <option value="Gathering Place" ${locationType === 'Gathering Place' ? 'selected' : ''}>Gathering Place</option>
-                        <option value="Business" ${locationType === 'Business' ? 'selected' : ''}>Business</option>
-                        <option value="Chantry" ${locationType === 'Chantry' ? 'selected' : ''}>Chantry</option>
-                        <option value="Temple" ${locationType === 'Temple' ? 'selected' : ''}>Temple</option>
-                        <option value="Wilderness" ${locationType === 'Wilderness' ? 'selected' : ''}>Wilderness</option>
-                        <option value="Other" ${locationType === 'Other' ? 'selected' : ''}>Other</option>
-                    </select>
-                </div>
-            </div>
+            <ul class="nav nav-tabs mb-3" id="locationFormTabs" role="tablist">
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link active" id="basic-tab" data-bs-toggle="tab" data-bs-target="#basic" type="button" role="tab">Basic</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="ownership-tab" data-bs-toggle="tab" data-bs-target="#ownership" type="button" role="tab">Ownership</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="description-tab" data-bs-toggle="tab" data-bs-target="#description" type="button" role="tab">Description</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="security-tab" data-bs-toggle="tab" data-bs-target="#security" type="button" role="tab">Security</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="facilities-tab" data-bs-toggle="tab" data-bs-target="#facilities" type="button" role="tab">Facilities</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="relationships-tab" data-bs-toggle="tab" data-bs-target="#relationships" type="button" role="tab">Relationships</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="supernatural-tab" data-bs-toggle="tab" data-bs-target="#supernatural" type="button" role="tab">Supernatural</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="social-tab" data-bs-toggle="tab" data-bs-target="#social" type="button" role="tab">Social</button>
+                </li>
+            </ul>
             
-            <div class="form-row row g-3">
-                <div class="form-group mb-3 col-12 col-md-6">
-                    <label for="locationStatus" class="form-label">Status *</label>
-                    <select id="locationStatus" name="status" class="form-select" required>
-                        <option value="">Select Status</option>
-                        <option value="Active" ${locationStatus === 'Active' ? 'selected' : ''}>Active</option>
-                        <option value="Abandoned" ${locationStatus === 'Abandoned' ? 'selected' : ''}>Abandoned</option>
-                        <option value="Destroyed" ${locationStatus === 'Destroyed' ? 'selected' : ''}>Destroyed</option>
-                        <option value="Contested" ${locationStatus === 'Contested' ? 'selected' : ''}>Contested</option>
-                        <option value="Hidden" ${locationStatus === 'Hidden' ? 'selected' : ''}>Hidden</option>
-                    </select>
+            <div class="tab-content" id="locationFormTabContent">
+                <!-- Basic Information Tab -->
+                <div class="tab-pane fade show active" id="basic" role="tabpanel">
+                    <div class="form-row row g-3">
+                        <div class="form-group mb-3 col-12 col-md-6">
+                            <label for="locationName" class="form-label">Name *</label>
+                            <input type="text" id="locationName" name="name" class="form-control" value="${locationName}" required>
+                            <div class="invalid-feedback">Please enter a location name.</div>
+                        </div>
+                        <div class="form-group mb-3 col-12 col-md-6">
+                            <label for="locationType" class="form-label">Type *</label>
+                            <select id="locationType" name="type" class="form-select" required>
+                                <option value="">Select Type</option>
+                                <option value="Haven" ${locationType === 'Haven' ? 'selected' : ''}>Haven</option>
+                                <option value="Elysium" ${locationType === 'Elysium' ? 'selected' : ''}>Elysium</option>
+                                <option value="Domain" ${locationType === 'Domain' ? 'selected' : ''}>Domain</option>
+                                <option value="Hunting Ground" ${locationType === 'Hunting Ground' ? 'selected' : ''}>Hunting Ground</option>
+                                <option value="Nightclub" ${locationType === 'Nightclub' ? 'selected' : ''}>Nightclub</option>
+                                <option value="Gathering Place" ${locationType === 'Gathering Place' ? 'selected' : ''}>Gathering Place</option>
+                                <option value="Business" ${locationType === 'Business' ? 'selected' : ''}>Business</option>
+                                <option value="Chantry" ${locationType === 'Chantry' ? 'selected' : ''}>Chantry</option>
+                                <option value="Temple" ${locationType === 'Temple' ? 'selected' : ''}>Temple</option>
+                                <option value="Wilderness" ${locationType === 'Wilderness' ? 'selected' : ''}>Wilderness</option>
+                                <option value="Other" ${locationType === 'Other' ? 'selected' : ''}>Other</option>
+                            </select>
+                        </div>
+                    </div>
+                    
+                    <div class="form-row row g-3">
+                        <div class="form-group mb-3 col-12 col-md-6">
+                            <label for="locationStatus" class="form-label">Status *</label>
+                            <select id="locationStatus" name="status" class="form-select" required>
+                                <option value="">Select Status</option>
+                                <option value="Active" ${locationStatus === 'Active' ? 'selected' : ''}>Active</option>
+                                <option value="Abandoned" ${locationStatus === 'Abandoned' ? 'selected' : ''}>Abandoned</option>
+                                <option value="Destroyed" ${locationStatus === 'Destroyed' ? 'selected' : ''}>Destroyed</option>
+                                <option value="Contested" ${locationStatus === 'Contested' ? 'selected' : ''}>Contested</option>
+                                <option value="Hidden" ${locationStatus === 'Hidden' ? 'selected' : ''}>Hidden</option>
+                            </select>
+                        </div>
+                        <div class="form-group mb-3 col-12 col-md-6">
+                            <label for="locationDistrict" class="form-label">District</label>
+                            <input type="text" id="locationDistrict" name="district" class="form-control" value="${locationDistrict}" placeholder="e.g., Downtown, Warehouse District">
+                        </div>
+                    </div>
+                    
+                    <div class="form-row row g-3">
+                        <div class="form-group mb-3 col-12">
+                            <label for="locationStatusNotes" class="form-label">Status Notes</label>
+                            <textarea id="locationStatusNotes" name="status_notes" class="form-control" rows="2" placeholder="Additional details about the status...">${locationStatusNotes}</textarea>
+                        </div>
+                    </div>
+                    
+                    <div class="form-row row g-3">
+                        <div class="form-group mb-3 col-12">
+                            <label for="locationAddress" class="form-label">Address</label>
+                            <input type="text" id="locationAddress" name="address" class="form-control" value="${locationAddress}" placeholder="Physical address or location description">
+                        </div>
+                    </div>
+                    
+                    <div class="form-row row g-3">
+                        <div class="form-group mb-3 col-12 col-md-6">
+                            <label for="locationLatitude" class="form-label">Latitude</label>
+                            <input type="number" id="locationLatitude" name="latitude" class="form-control" step="any" value="${locationLatitude}" placeholder="e.g., 33.4484">
+                        </div>
+                        <div class="form-group mb-3 col-12 col-md-6">
+                            <label for="locationLongitude" class="form-label">Longitude</label>
+                            <input type="number" id="locationLongitude" name="longitude" class="form-control" step="any" value="${locationLongitude}" placeholder="e.g., -112.0740">
+                        </div>
+                    </div>
+                    
+                    <div class="form-group mb-3" id="pcHavenContainer" style="${locationType === 'Haven' || !location ? '' : 'display:none;'}">
+                        <div class="form-check">
+                            <input type="checkbox" class="form-check-input" id="locationPCHaven" name="pc_haven" value="1" ${locationPCHaven ? 'checked' : ''}>
+                            <label class="form-check-label" for="locationPCHaven">
+                                Possible PC Haven
+                            </label>
+                            <small class="form-text opacity-75">Mark this haven as a possible player character haven (only applies to Havens)</small>
+                        </div>
+                    </div>
+                    
+                    <div class="form-group mb-3">
+                        <label for="locationImage" class="form-label">Image URL/Path</label>
+                        <input type="text" id="locationImage" name="image" class="form-control" value="${locationImage}" placeholder="URL or path to location image">
+                        ${locationImage ? `<div class="mt-2"><img src="${escapeHtml(locationImage)}" alt="Location image" class="img-fluid" style="max-height: 200px;" onerror="this.style.display='none'"></div>` : ''}
+                    </div>
                 </div>
-                <div class="form-group mb-3 col-12 col-md-6">
-                    <label for="locationDistrict" class="form-label">District</label>
-                    <input type="text" id="locationDistrict" name="district" class="form-control" value="${locationDistrict}" placeholder="e.g., Downtown, Warehouse District">
+                
+                <!-- Ownership Tab -->
+                <div class="tab-pane fade" id="ownership" role="tabpanel">
+                    <div class="form-row row g-3">
+                        <div class="form-group mb-3 col-12 col-md-6">
+                            <label for="locationOwnerType" class="form-label">Owner Type *</label>
+                            <select id="locationOwnerType" name="owner_type" class="form-select" required>
+                                <option value="">Select Owner Type</option>
+                                <option value="Personal" ${locationOwnerType === 'Personal' ? 'selected' : ''}>Personal</option>
+                                <option value="Clan" ${locationOwnerType === 'Clan' ? 'selected' : ''}>Clan</option>
+                                <option value="Sect" ${locationOwnerType === 'Sect' ? 'selected' : ''}>Sect</option>
+                                <option value="Coterie" ${locationOwnerType === 'Coterie' ? 'selected' : ''}>Coterie</option>
+                                <option value="NPC" ${locationOwnerType === 'NPC' ? 'selected' : ''}>NPC</option>
+                                <option value="Contested" ${locationOwnerType === 'Contested' ? 'selected' : ''}>Contested</option>
+                                <option value="Public" ${locationOwnerType === 'Public' ? 'selected' : ''}>Public</option>
+                            </select>
+                        </div>
+                        <div class="form-group mb-3 col-12 col-md-6">
+                            <label for="locationFaction" class="form-label">Faction</label>
+                            <input type="text" id="locationFaction" name="faction" class="form-control" value="${locationFaction}" placeholder="e.g., Camarilla, Sabbat">
+                        </div>
+                    </div>
+                    
+                    <div class="form-group mb-3">
+                        <label for="locationOwnerNotes" class="form-label">Owner Notes</label>
+                        <textarea id="locationOwnerNotes" name="owner_notes" class="form-control" rows="3" placeholder="Details about the owner...">${locationOwnerNotes}</textarea>
+                    </div>
+                    
+                    <div class="form-row row g-3">
+                        <div class="form-group mb-3 col-12 col-md-6">
+                            <label for="locationAccessControl" class="form-label">Access Control *</label>
+                            <select id="locationAccessControl" name="access_control" class="form-select" required>
+                                <option value="">Select Access Control</option>
+                                <option value="Open" ${locationAccessControl === 'Open' ? 'selected' : ''}>Open</option>
+                                <option value="Restricted" ${locationAccessControl === 'Restricted' ? 'selected' : ''}>Restricted</option>
+                                <option value="Private" ${locationAccessControl === 'Private' ? 'selected' : ''}>Private</option>
+                                <option value="Secret" ${locationAccessControl === 'Secret' ? 'selected' : ''}>Secret</option>
+                                <option value="Invitation Only" ${locationAccessControl === 'Invitation Only' ? 'selected' : ''}>Invitation Only</option>
+                            </select>
+                        </div>
+                    </div>
+                    
+                    <div class="form-group mb-3">
+                        <label for="locationAccessNotes" class="form-label">Access Notes</label>
+                        <textarea id="locationAccessNotes" name="access_notes" class="form-control" rows="3" placeholder="Detailed access control information...">${locationAccessNotes}</textarea>
+                    </div>
                 </div>
-            </div>
-            
-            <div class="form-row row g-3">
-                <div class="form-group mb-3 col-12 col-md-6">
-                    <label for="locationOwnerType" class="form-label">Owner Type *</label>
-                    <select id="locationOwnerType" name="owner_type" class="form-select" required>
-                        <option value="">Select Owner Type</option>
-                        <option value="Personal" ${locationOwnerType === 'Personal' ? 'selected' : ''}>Personal</option>
-                        <option value="Clan" ${locationOwnerType === 'Clan' ? 'selected' : ''}>Clan</option>
-                        <option value="Sect" ${locationOwnerType === 'Sect' ? 'selected' : ''}>Sect</option>
-                        <option value="Coterie" ${locationOwnerType === 'Coterie' ? 'selected' : ''}>Coterie</option>
-                        <option value="NPC" ${locationOwnerType === 'NPC' ? 'selected' : ''}>NPC</option>
-                        <option value="Contested" ${locationOwnerType === 'Contested' ? 'selected' : ''}>Contested</option>
-                        <option value="Public" ${locationOwnerType === 'Public' ? 'selected' : ''}>Public</option>
-                    </select>
+                
+                <!-- Description Tab -->
+                <div class="tab-pane fade" id="description" role="tabpanel">
+                    <div class="form-group mb-3">
+                        <label for="locationSummary" class="form-label">Summary</label>
+                        <textarea id="locationSummary" name="summary" class="form-control" rows="3" placeholder="Brief summary for quick reference...">${locationSummary}</textarea>
+                    </div>
+                    
+                    <div class="form-group mb-3">
+                        <label for="locationDescription" class="form-label">Description</label>
+                        <textarea id="locationDescription" name="description" class="form-control" rows="8" placeholder="Detailed description of the location...">${locationDescription}</textarea>
+                    </div>
+                    
+                    <div class="form-group mb-3">
+                        <label for="locationNotes" class="form-label">Notes</label>
+                        <textarea id="locationNotes" name="notes" class="form-control" rows="6" placeholder="Additional notes, plot hooks, etc...">${locationNotes}</textarea>
+                    </div>
                 </div>
-                <div class="form-group mb-3 col-12 col-md-6">
-                    <label for="locationFaction" class="form-label">Faction</label>
-                    <input type="text" id="locationFaction" name="faction" class="form-control" value="${locationFaction}" placeholder="e.g., Camarilla, Sabbat">
+                
+                <!-- Security Tab -->
+                <div class="tab-pane fade" id="security" role="tabpanel">
+                    <div class="form-row row g-3 mb-3">
+                        <div class="form-group mb-3 col-12 col-md-6">
+                            <label for="locationSecurityLevel" class="form-label">Security Level</label>
+                            <input type="number" id="locationSecurityLevel" name="security_level" class="form-control" min="1" max="10" value="${locationSecurityLevel}">
+                        </div>
+                    </div>
+                    
+                    <div class="row g-3 mb-3">
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="form-check">
+                                <input type="checkbox" class="form-check-input" id="securityLocks" name="security_locks" value="1" ${securityLocks ? 'checked' : ''}>
+                                <label class="form-check-label" for="securityLocks">Security Locks</label>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="form-check">
+                                <input type="checkbox" class="form-check-input" id="securityAlarms" name="security_alarms" value="1" ${securityAlarms ? 'checked' : ''}>
+                                <label class="form-check-label" for="securityAlarms">Security Alarms</label>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="form-check">
+                                <input type="checkbox" class="form-check-input" id="securityGuards" name="security_guards" value="1" ${securityGuards ? 'checked' : ''}>
+                                <label class="form-check-label" for="securityGuards">Security Guards</label>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="form-check">
+                                <input type="checkbox" class="form-check-input" id="securityHiddenEntrance" name="security_hidden_entrance" value="1" ${securityHiddenEntrance ? 'checked' : ''}>
+                                <label class="form-check-label" for="securityHiddenEntrance">Hidden Entrance</label>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="form-check">
+                                <input type="checkbox" class="form-check-input" id="securitySunlightProtected" name="security_sunlight_protected" value="1" ${securitySunlightProtected ? 'checked' : ''}>
+                                <label class="form-check-label" for="securitySunlightProtected">Sunlight Protected</label>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="form-check">
+                                <input type="checkbox" class="form-check-input" id="securityWardingRituals" name="security_warding_rituals" value="1" ${securityWardingRituals ? 'checked' : ''}>
+                                <label class="form-check-label" for="securityWardingRituals">Warding Rituals</label>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="form-check">
+                                <input type="checkbox" class="form-check-input" id="securityCameras" name="security_cameras" value="1" ${securityCameras ? 'checked' : ''}>
+                                <label class="form-check-label" for="securityCameras">Security Cameras</label>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="form-check">
+                                <input type="checkbox" class="form-check-input" id="securityReinforced" name="security_reinforced" value="1" ${securityReinforced ? 'checked' : ''}>
+                                <label class="form-check-label" for="securityReinforced">Reinforced</label>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="form-group mb-3">
+                        <label for="locationSecurityNotes" class="form-label">Security Notes</label>
+                        <textarea id="locationSecurityNotes" name="security_notes" class="form-control" rows="4" placeholder="Detailed security information...">${locationSecurityNotes}</textarea>
+                    </div>
                 </div>
-            </div>
-            
-            <div class="form-row row g-3">
-                <div class="form-group mb-3 col-12 col-md-6">
-                    <label for="locationAccessControl" class="form-label">Access Control *</label>
-                    <select id="locationAccessControl" name="access_control" class="form-select" required>
-                        <option value="">Select Access Control</option>
-                        <option value="Open" ${locationAccessControl === 'Open' ? 'selected' : ''}>Open</option>
-                        <option value="Restricted" ${locationAccessControl === 'Restricted' ? 'selected' : ''}>Restricted</option>
-                        <option value="Private" ${locationAccessControl === 'Private' ? 'selected' : ''}>Private</option>
-                        <option value="Secret" ${locationAccessControl === 'Secret' ? 'selected' : ''}>Secret</option>
-                        <option value="Invitation Only" ${locationAccessControl === 'Invitation Only' ? 'selected' : ''}>Invitation Only</option>
-                    </select>
+                
+                <!-- Facilities Tab -->
+                <div class="tab-pane fade" id="facilities" role="tabpanel">
+                    <div class="row g-3 mb-3">
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="form-check">
+                                <input type="checkbox" class="form-check-input" id="utilityBloodStorage" name="utility_blood_storage" value="1" ${utilityBloodStorage ? 'checked' : ''}>
+                                <label class="form-check-label" for="utilityBloodStorage">Blood Storage</label>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="form-check">
+                                <input type="checkbox" class="form-check-input" id="utilityComputers" name="utility_computers" value="1" ${utilityComputers ? 'checked' : ''}>
+                                <label class="form-check-label" for="utilityComputers">Computers</label>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="form-check">
+                                <input type="checkbox" class="form-check-input" id="utilityLibrary" name="utility_library" value="1" ${utilityLibrary ? 'checked' : ''}>
+                                <label class="form-check-label" for="utilityLibrary">Library</label>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="form-check">
+                                <input type="checkbox" class="form-check-input" id="utilityMedical" name="utility_medical" value="1" ${utilityMedical ? 'checked' : ''}>
+                                <label class="form-check-label" for="utilityMedical">Medical</label>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="form-check">
+                                <input type="checkbox" class="form-check-input" id="utilityWorkshop" name="utility_workshop" value="1" ${utilityWorkshop ? 'checked' : ''}>
+                                <label class="form-check-label" for="utilityWorkshop">Workshop</label>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="form-check">
+                                <input type="checkbox" class="form-check-input" id="utilityHiddenCaches" name="utility_hidden_caches" value="1" ${utilityHiddenCaches ? 'checked' : ''}>
+                                <label class="form-check-label" for="utilityHiddenCaches">Hidden Caches</label>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="form-check">
+                                <input type="checkbox" class="form-check-input" id="utilityArmory" name="utility_armory" value="1" ${utilityArmory ? 'checked' : ''}>
+                                <label class="form-check-label" for="utilityArmory">Armory</label>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="form-check">
+                                <input type="checkbox" class="form-check-input" id="utilityCommunications" name="utility_communications" value="1" ${utilityCommunications ? 'checked' : ''}>
+                                <label class="form-check-label" for="utilityCommunications">Communications</label>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="form-group mb-3">
+                        <label for="utilityNotes" class="form-label">Utility Notes</label>
+                        <textarea id="utilityNotes" name="utility_notes" class="form-control" rows="4" placeholder="Detailed utility information...">${utilityNotes}</textarea>
+                    </div>
                 </div>
-                <div class="form-group mb-3 col-12 col-md-6">
-                    <label for="locationSecurityLevel" class="form-label">Security Level</label>
-                    <input type="number" id="locationSecurityLevel" name="security_level" class="form-control" min="1" max="10" value="${locationSecurityLevel}">
+                
+                <!-- Relationships Tab -->
+                <div class="tab-pane fade" id="relationships" role="tabpanel">
+                    <div class="form-row row g-3">
+                        <div class="form-group mb-3 col-12 col-md-6">
+                            <label for="locationParentId" class="form-label">Parent Location ID</label>
+                            <input type="number" id="locationParentId" name="parent_location_id" class="form-control" min="0" value="${locationParentId}" placeholder="ID of parent location (if sub-location)">
+                        </div>
+                        <div class="form-group mb-3 col-12 col-md-6">
+                            <label for="locationRelationshipType" class="form-label">Relationship Type</label>
+                            <input type="text" id="locationRelationshipType" name="relationship_type" class="form-control" value="${locationRelationshipType}" placeholder="e.g., Complex with sub-locations">
+                        </div>
+                    </div>
+                    
+                    <div class="form-group mb-3">
+                        <label for="locationRelationshipNotes" class="form-label">Relationship Notes</label>
+                        <textarea id="locationRelationshipNotes" name="relationship_notes" class="form-control" rows="6" placeholder="Details about relationships with other locations...">${locationRelationshipNotes}</textarea>
+                    </div>
                 </div>
-            </div>
-            
-            <div class="form-group mb-3" id="pcHavenContainer" style="${locationType === 'Haven' || !location ? '' : 'display:none;'}">
-                <div class="form-check">
-                    <input type="checkbox" class="form-check-input" id="locationPCHaven" name="pc_haven" value="1" ${locationPCHaven ? 'checked' : ''}>
-                    <label class="form-check-label" for="locationPCHaven">
-                        Possible PC Haven
-                    </label>
-                    <small class="form-text text-muted">Mark this haven as a possible player character haven (only applies to Havens)</small>
+                
+                <!-- Supernatural Tab -->
+                <div class="tab-pane fade" id="supernatural" role="tabpanel">
+                    <div class="form-group mb-3">
+                        <div class="form-check">
+                            <input type="checkbox" class="form-check-input" id="hasSupernatural" name="has_supernatural" value="1" ${hasSupernatural ? 'checked' : ''}>
+                            <label class="form-check-label" for="hasSupernatural">Has Supernatural Elements</label>
+                        </div>
+                    </div>
+                    
+                    <div class="form-row row g-3">
+                        <div class="form-group mb-3 col-12 col-md-6">
+                            <label for="locationNodePoints" class="form-label">Node Points</label>
+                            <input type="number" id="locationNodePoints" name="node_points" class="form-control" min="0" value="${locationNodePoints}" placeholder="Node points">
+                        </div>
+                        <div class="form-group mb-3 col-12 col-md-6">
+                            <label for="locationNodeType" class="form-label">Node Type</label>
+                            <input type="text" id="locationNodeType" name="node_type" class="form-control" value="${locationNodeType}" placeholder="e.g., Shrecknet Major Hub">
+                        </div>
+                    </div>
+                    
+                    <div class="form-group mb-3">
+                        <label for="locationRitualSpace" class="form-label">Ritual Space</label>
+                        <textarea id="locationRitualSpace" name="ritual_space" class="form-control" rows="3" placeholder="Ritual space description...">${locationRitualSpace}</textarea>
+                    </div>
+                    
+                    <div class="form-group mb-3">
+                        <label for="locationMagicalProtection" class="form-label">Magical Protection</label>
+                        <textarea id="locationMagicalProtection" name="magical_protection" class="form-control" rows="3" placeholder="Magical protection details...">${locationMagicalProtection}</textarea>
+                    </div>
+                    
+                    <div class="form-group mb-3">
+                        <label for="locationCursedBlessed" class="form-label">Cursed/Blessed</label>
+                        <textarea id="locationCursedBlessed" name="cursed_blessed" class="form-control" rows="3" placeholder="Curses or blessings...">${locationCursedBlessed}</textarea>
+                    </div>
                 </div>
-            </div>
-            
-            <div class="form-group mb-3">
-                <label for="locationDescription" class="form-label">Description</label>
-                <textarea id="locationDescription" name="description" class="form-control" placeholder="Detailed description of the location...">${locationDescription}</textarea>
-            </div>
-            
-            <div class="form-group mb-3">
-                <label for="locationSummary" class="form-label">Summary</label>
-                <textarea id="locationSummary" name="summary" class="form-control" placeholder="Brief summary for quick reference...">${locationSummary}</textarea>
-            </div>
-            
-            <div class="form-group mb-3">
-                <label for="locationNotes" class="form-label">Notes</label>
-                <textarea id="locationNotes" name="notes" class="form-control" placeholder="Additional notes, plot hooks, etc...">${locationNotes}</textarea>
+                
+                <!-- Social Tab -->
+                <div class="tab-pane fade" id="social" role="tabpanel">
+                    <div class="form-group mb-3">
+                        <label for="locationSocialFeatures" class="form-label">Social Features</label>
+                        <textarea id="locationSocialFeatures" name="social_features" class="form-control" rows="6" placeholder="Social features and gathering spaces...">${locationSocialFeatures}</textarea>
+                    </div>
+                    
+                    <div class="form-row row g-3">
+                        <div class="form-group mb-3 col-12 col-md-6">
+                            <label for="locationCapacity" class="form-label">Capacity</label>
+                            <input type="number" id="locationCapacity" name="capacity" class="form-control" min="0" value="${locationCapacity}" placeholder="Maximum capacity">
+                        </div>
+                        <div class="form-group mb-3 col-12 col-md-6">
+                            <label for="locationPrestigeLevel" class="form-label">Prestige Level</label>
+                            <input type="number" id="locationPrestigeLevel" name="prestige_level" class="form-control" min="0" value="${locationPrestigeLevel}" placeholder="Prestige level">
+                        </div>
+                    </div>
+                </div>
             </div>
         </form>
     `;
@@ -588,7 +924,7 @@ function editLocation(id) {
         return;
     }
     
-    modalTitle.textContent = '🏠 Edit Location';
+    modalTitle.textContent = `🏠 Edit Location: ${escapeHtml(location.name)}`;
     modalBody.innerHTML = generateLocationFormHtml(location);
     modalFooter.innerHTML = `
         <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
@@ -715,45 +1051,169 @@ async function viewLocation(id) {
             `;
         }
         
+        // Helper to display field - always shows, even if empty
+        function displayField(label, value, format = 'text') {
+            let displayValue = '';
+            if (value === null || value === undefined || value === '') {
+                displayValue = '<em class="text-muted">Not set</em>';
+            } else {
+                if (format === 'badge') {
+                    return `<p><strong>${label}:</strong> <span class="badge-${String(value).toLowerCase().replace(/\s+/g, '-')}">${escapeHtml(value)}</span></p>`;
+                }
+                if (format === 'number') {
+                    displayValue = String(value);
+                } else if (format === 'boolean') {
+                    displayValue = (value == 1 || value === true) ? 'Yes' : 'No';
+                } else {
+                    displayValue = escapeHtml(String(value));
+                }
+            }
+            return `<p><strong>${label}:</strong> ${displayValue}</p>`;
+        }
+        
+        // Helper to display textarea field - always shows
+        function displayTextarea(label, value) {
+            const displayValue = (value === null || value === undefined || value === '') 
+                ? '<em class="text-muted">Not set</em>' 
+                : escapeHtml(value);
+            return `<p><strong>${label}:</strong></p><p>${displayValue}</p>`;
+        }
+        
+        function displayCheckboxList(label, items) {
+            const checked = items.filter(item => item.checked);
+            if (checked.length === 0) return '';
+            return `<p><strong>${label}:</strong> ${checked.map(item => escapeHtml(item.label)).join(', ')}</p>`;
+        }
+        
+        const securityFeatures = [
+            { field: 'security_locks', label: 'Security Locks', checked: location.security_locks == 1 },
+            { field: 'security_alarms', label: 'Security Alarms', checked: location.security_alarms == 1 },
+            { field: 'security_guards', label: 'Security Guards', checked: location.security_guards == 1 },
+            { field: 'security_hidden_entrance', label: 'Hidden Entrance', checked: location.security_hidden_entrance == 1 },
+            { field: 'security_sunlight_protected', label: 'Sunlight Protected', checked: location.security_sunlight_protected == 1 },
+            { field: 'security_warding_rituals', label: 'Warding Rituals', checked: location.security_warding_rituals == 1 },
+            { field: 'security_cameras', label: 'Security Cameras', checked: location.security_cameras == 1 },
+            { field: 'security_reinforced', label: 'Reinforced', checked: location.security_reinforced == 1 }
+        ].filter(item => item.checked);
+        
+        const utilities = [
+            { field: 'utility_blood_storage', label: 'Blood Storage', checked: location.utility_blood_storage == 1 },
+            { field: 'utility_computers', label: 'Computers', checked: location.utility_computers == 1 },
+            { field: 'utility_library', label: 'Library', checked: location.utility_library == 1 },
+            { field: 'utility_medical', label: 'Medical', checked: location.utility_medical == 1 },
+            { field: 'utility_workshop', label: 'Workshop', checked: location.utility_workshop == 1 },
+            { field: 'utility_hidden_caches', label: 'Hidden Caches', checked: location.utility_hidden_caches == 1 },
+            { field: 'utility_armory', label: 'Armory', checked: location.utility_armory == 1 },
+            { field: 'utility_communications', label: 'Communications', checked: location.utility_communications == 1 }
+        ].filter(item => item.checked);
+        
         const content = `
+            ${assignmentsHtml}
+            
             <div class="view-section">
                 <h3>Basic Information</h3>
-                <p><strong>Name:</strong> ${escapeHtml(location.name)}</p>
-                <p><strong>Type:</strong> <span class="badge-${location.type.toLowerCase().replace(' ', '-')}">${escapeHtml(location.type)}</span></p>
-                <p><strong>Status:</strong> <span class="badge-${location.status.toLowerCase()}">${escapeHtml(location.status)}</span></p>
-                <p><strong>District:</strong> ${escapeHtml(location.district || 'N/A')}</p>
+                ${displayField('Name', location.name)}
+                ${displayField('Type', location.type, 'badge')}
+                ${displayField('Status', location.status, 'badge')}
+                ${displayField('Status Notes', location.status_notes)}
+                ${displayField('District', location.district)}
+                ${displayField('Address', location.address)}
+                ${displayField('Latitude', location.latitude, 'number')}
+                ${displayField('Longitude', location.longitude, 'number')}
             </div>
             
             <div class="view-section">
                 <h3>Ownership & Control</h3>
-                <p><strong>Owner Type:</strong> ${escapeHtml(location.owner_type || 'N/A')}</p>
-                <p><strong>Faction:</strong> ${escapeHtml(location.faction || 'N/A')}</p>
-                <p><strong>Access Control:</strong> ${escapeHtml(location.access_control || 'N/A')}</p>
-                <p><strong>Security Level:</strong> ${location.security_level || 3}</p>
+                ${displayField('Owner Type', location.owner_type)}
+                ${displayTextarea('Owner Notes', location.owner_notes)}
+                ${displayField('Faction', location.faction)}
+                ${displayField('Access Control', location.access_control)}
+                ${displayTextarea('Access Notes', location.access_notes)}
             </div>
             
-            ${assignmentsHtml}
-            
-            ${location.description ? `
             <div class="view-section">
-                <h3>Description</h3>
-                <p>${escapeHtml(location.description)}</p>
+                <h3>Description & Notes</h3>
+                ${displayTextarea('Summary', location.summary)}
+                ${displayTextarea('Description', location.description)}
+                ${displayTextarea('Notes', location.notes)}
             </div>
-            ` : ''}
             
-            ${location.summary ? `
             <div class="view-section">
-                <h3>Summary</h3>
-                <p>${escapeHtml(location.summary)}</p>
+                <h3>Security</h3>
+                ${displayField('Security Level', location.security_level, 'number')}
+                <p><strong>Security Features:</strong></p>
+                <ul>
+                    <li>${displayField('Security Locks', location.security_locks, 'boolean').replace('<p>', '').replace('</p>', '')}</li>
+                    <li>${displayField('Security Alarms', location.security_alarms, 'boolean').replace('<p>', '').replace('</p>', '')}</li>
+                    <li>${displayField('Security Guards', location.security_guards, 'boolean').replace('<p>', '').replace('</p>', '')}</li>
+                    <li>${displayField('Hidden Entrance', location.security_hidden_entrance, 'boolean').replace('<p>', '').replace('</p>', '')}</li>
+                    <li>${displayField('Sunlight Protected', location.security_sunlight_protected, 'boolean').replace('<p>', '').replace('</p>', '')}</li>
+                    <li>${displayField('Warding Rituals', location.security_warding_rituals, 'boolean').replace('<p>', '').replace('</p>', '')}</li>
+                    <li>${displayField('Security Cameras', location.security_cameras, 'boolean').replace('<p>', '').replace('</p>', '')}</li>
+                    <li>${displayField('Reinforced', location.security_reinforced, 'boolean').replace('<p>', '').replace('</p>', '')}</li>
+                </ul>
+                ${displayTextarea('Security Notes', location.security_notes)}
             </div>
-            ` : ''}
             
-            ${location.notes ? `
             <div class="view-section">
-                <h3>Notes</h3>
-                <p>${escapeHtml(location.notes)}</p>
+                <h3>Utilities & Facilities</h3>
+                <p><strong>Available Utilities:</strong></p>
+                <ul>
+                    <li>${displayField('Blood Storage', location.utility_blood_storage, 'boolean').replace('<p>', '').replace('</p>', '')}</li>
+                    <li>${displayField('Computers', location.utility_computers, 'boolean').replace('<p>', '').replace('</p>', '')}</li>
+                    <li>${displayField('Library', location.utility_library, 'boolean').replace('<p>', '').replace('</p>', '')}</li>
+                    <li>${displayField('Medical', location.utility_medical, 'boolean').replace('<p>', '').replace('</p>', '')}</li>
+                    <li>${displayField('Workshop', location.utility_workshop, 'boolean').replace('<p>', '').replace('</p>', '')}</li>
+                    <li>${displayField('Hidden Caches', location.utility_hidden_caches, 'boolean').replace('<p>', '').replace('</p>', '')}</li>
+                    <li>${displayField('Armory', location.utility_armory, 'boolean').replace('<p>', '').replace('</p>', '')}</li>
+                    <li>${displayField('Communications', location.utility_communications, 'boolean').replace('<p>', '').replace('</p>', '')}</li>
+                </ul>
+                ${displayTextarea('Utility Notes', location.utility_notes)}
             </div>
-            ` : ''}
+            
+            <div class="view-section">
+                <h3>Social & Capacity</h3>
+                ${displayTextarea('Social Features', location.social_features)}
+                ${displayField('Capacity', location.capacity, 'number')}
+                ${displayField('Prestige Level', location.prestige_level, 'number')}
+                ${displayField('Has Supernatural Elements', location.has_supernatural, 'boolean')}
+            </div>
+            
+            <div class="view-section">
+                <h3>Node Information</h3>
+                ${displayField('Node Points', location.node_points, 'number')}
+                ${displayField('Node Type', location.node_type)}
+            </div>
+            
+            <div class="view-section">
+                <h3>Supernatural Features</h3>
+                ${displayTextarea('Ritual Space', location.ritual_space)}
+                ${displayTextarea('Magical Protection', location.magical_protection)}
+                ${displayTextarea('Cursed/Blessed', location.cursed_blessed)}
+            </div>
+            
+            <div class="view-section">
+                <h3>Relationships</h3>
+                ${displayField('Parent Location ID', location.parent_location_id, 'number')}
+                ${displayField('Relationship Type', location.relationship_type)}
+                ${displayTextarea('Relationship Notes', location.relationship_notes)}
+            </div>
+            
+            <div class="view-section">
+                <h3>Media</h3>
+                ${displayField('Image', location.image)}
+            </div>
+            
+            <div class="view-section">
+                <h3>PC Haven</h3>
+                ${displayField('PC Earnable Haven', location.pc_haven, 'boolean')}
+            </div>
+            
+            <div class="view-section">
+                <h3>Metadata</h3>
+                ${displayField('Created At', location.created_at)}
+                ${displayField('Updated At', location.updated_at)}
+            </div>
         `;
         
         modalBody.innerHTML = content;
@@ -905,10 +1365,29 @@ async function handleFormSubmit(e) {
     const formData = new FormData(e.target);
     const data = Object.fromEntries(formData.entries());
     
-    // Ensure pc_haven is explicitly set (0 if checkbox is unchecked)
-    if (!data.hasOwnProperty('pc_haven')) {
-        data.pc_haven = '0';
-    }
+    // Ensure boolean fields are explicitly set (0 if checkbox is unchecked)
+    const booleanFields = ['pc_haven', 'security_locks', 'security_alarms', 'security_guards', 
+                          'security_hidden_entrance', 'security_sunlight_protected', 'security_warding_rituals',
+                          'security_cameras', 'security_reinforced', 'utility_blood_storage', 'utility_computers',
+                          'utility_library', 'utility_medical', 'utility_workshop', 'utility_hidden_caches',
+                          'utility_armory', 'utility_communications', 'has_supernatural'];
+    
+    booleanFields.forEach(field => {
+        if (!data.hasOwnProperty(field)) {
+            data[field] = '0';
+        }
+    });
+    
+    // Convert empty strings to null for optional numeric fields
+    const numericFields = ['latitude', 'longitude', 'security_level', 'capacity', 'prestige_level', 
+                          'node_points', 'parent_location_id'];
+    numericFields.forEach(field => {
+        if (data[field] === '' || data[field] === null || data[field] === undefined) {
+            data[field] = null;
+        } else {
+            data[field] = data[field] !== null ? Number(data[field]) : null;
+        }
+    });
     
     const isEdit = data.id !== '';
     const url = 'api_admin_locations_crud.php';

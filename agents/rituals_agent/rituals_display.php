@@ -375,7 +375,7 @@ function truncateText(string $text, int $maxLength = 100): string {
                     html += '<div class="text-content">' + contentEscaped + '</div>';
                 }
                 if (rule.source) {
-                    html += '<p class="text-muted small"><strong>Source:</strong> ' + escapeHtml(rule.source) + '</p>';
+                    html += '<p class="opacity-75 small"><strong>Source:</strong> ' + escapeHtml(rule.source) + '</p>';
                 }
                 html += '</div>';
             });

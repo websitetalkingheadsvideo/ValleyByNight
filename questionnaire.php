@@ -122,7 +122,7 @@ include __DIR__ . '/includes/header.php';
                 <div class="card-body text-center">
                     <h1 class="display-4 mb-2">The Night Creates You</h1>
                     <p class="lead mb-2">Character Creation Questionnaire</p>
-                    <p class="text-muted">
+                    <p class="opacity-75">
                         Answer these questions to discover which vampire clan calls to your soul.
                     </p>
                 </div>
@@ -134,7 +134,7 @@ include __DIR__ . '/includes/header.php';
                     <div class="progress mb-2" style="height: 25px;">
                         <div class="progress-bar bg-danger" role="progressbar" id="progress-fill" style="width: 5%;" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
-                    <div class="text-center text-muted">
+                    <div class="text-center opacity-75">
                         <span id="current-question">1</span> of <span id="total-questions">20</span>
                     </div>
                 </div>

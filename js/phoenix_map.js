@@ -416,7 +416,7 @@
         locationsList.innerHTML = '';
         
         if (locations.length === 0) {
-            locationsList.innerHTML = '<div class="col-12 text-center text-muted">No locations with coordinates available.</div>';
+            locationsList.innerHTML = '<div class="col-12 text-center opacity-75">No locations with coordinates available.</div>';
             return;
         }
         
@@ -430,7 +430,7 @@
                 <div class="location-name">${escapeHtml(location.name)}</div>
                 <div class="location-meta">
                     <span class="badge bg-dark">${escapeHtml(location.type)}</span>
-                    ${location.district ? `<span class="text-muted">${escapeHtml(location.district)}</span>` : ''}
+                    ${location.district ? `<span class="opacity-75">${escapeHtml(location.district)}</span>` : ''}
                 </div>
             `;
             

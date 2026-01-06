@@ -1,0 +1,135 @@
+{
+    "schema_version": "1.0",
+    "schema_name": "vbn_location_style_summary",
+    "template_intent": "Location Style Summary generated via Questionnaire Mode. Serves as authoritative intent for 2D stand-ins now and future 3D production later.",
+    "location": {
+      "id": "loc_freehold_anarch_haven",
+      "name": "The Freehold",
+      "location_type": "shared_haven",
+      "district": "Central Phoenix / 24th Street Area",
+      "era_anchor": {
+        "real_world_year": 1994,
+        "city": "Phoenix, Arizona",
+        "architectural_claim": "Light industrial basement adapted into a concealed Kindred haven"
+      },
+      "style_summary": {
+        "one_liner": "A shared Anarch haven hidden beneath deliberate disorder—an underground maze where restraint, paranoia, and planning masquerade as chaos.",
+        "core_thesis": "The Freehold protects its occupants not through walls or wards, but through misdirection: apparent clutter conceals precise planning, and leaving the space is more dangerous than remaining inside."
+      },
+      "cinematic_description": [
+        "The stairs descend far deeper than any ordinary basement, sealing off the outside world long before the reinforced door comes into view. Once it closes, the city above might as well not exist.",
+        "Inside, light is harsh and uneven—bright bulbs glare off steel cabinets and cardboard stacks, only to be swallowed by deep shadows cast by the maze of stored objects. The contrast is disorienting, deliberate.",
+        "At first glance it’s nonsense. Boxes, furniture, filing cabinets piled without care. Then the paths emerge. The angles. The way nothing blocks movement completely, but nothing allows a straight line either. Someone has gone to great lengths to make it look wrong."
+      ],
+      "gm_summary": {
+        "purpose_in_story": "One of a series of earnable havens awarded to the player character by factions or clans. The Freehold represents Anarch values: survival through planning, community through shared burden.",
+        "how_it_plays": "Secure while occupied, dangerous to exit. The stairway and approach are prime ambush zones. Inside, the maze favors defenders and characters with stealth or shadow-based disciplines."
+      },
+      "visual_language": {
+        "dominant_motif": "Organized Chaos",
+        "motif_definition": "Clutter is a weapon. Apparent disorder masks a carefully planned defensive layout.",
+        "composition_rules": [
+          "No clear sightlines longer than a few steps.",
+          "Stacks and cabinets break light into extreme contrast.",
+          "Paths feel accidental but are intentionally repeatable."
+        ]
+      },
+      "palette": {
+        "primary": [
+          {
+            "name": "Cardboard Brown",
+            "usage": "Boxes, storage, visual noise"
+          },
+          {
+            "name": "Industrial Gray",
+            "usage": "Filing cabinets, steel door, fixtures"
+          }
+        ],
+        "secondary": [
+          {
+            "name": "Faded Green",
+            "usage": "Pool table felt, worn fabric"
+          }
+        ],
+        "palette_rules": [
+          "No accent colors.",
+          "Any object that once had color is dulled and used.",
+          "Brightness comes from light intensity, not hue."
+        ]
+      },
+      "materials": {
+        "primary_materials": [
+          "Cardboard",
+          "Steel",
+          "Concrete",
+          "Worn fabric",
+          "Paper"
+        ],
+        "condition": "Used but maintained; clean, dust-free, no odors."
+      },
+      "lighting": {
+        "doctrine": [
+          "Very bright light sources paired with deep shadow.",
+          "Extreme contrast caused by blocked and occluded lighting.",
+          "Shadows are exploitable by stealth and shadow-based disciplines."
+        ],
+        "gameplay_note": "Disciplines such as Obfuscate or Obtenebration can turn the haven into a lethal trap-filled environment."
+      },
+      "atmosphere": {
+        "emotional_tone": ["paranoid", "controlled", "defensive", "prison-like"],
+        "soundscape": [
+          "Near-total silence",
+          "Muffled mechanical hum",
+          "Occasional creak of stacked furniture"
+        ],
+        "psychological_pressure": "Safety is conditional. Leaving feels like exposure."
+      },
+      "flow_and_access": {
+        "primary_entry": "Exterior stairway descending deeper than expected",
+        "movement_logic": "Indirect, maze-like paths that reward familiarity",
+        "exit_risk": "High. Stairway and approach are vulnerable to ambush.",
+        "behavioral_rule": "Do not move objects unnecessarily; changes will be noticed and have consequences."
+      },
+      "era_cues_1994": {
+        "examples": [
+          "Analog security camera",
+          "Paper records and filing cabinets",
+          "No computers or modern electronics"
+        ]
+      },
+      "security_and_masquerade": {
+        "security_style": "Physical and psychological",
+        "key_elements": [
+          "Reinforced steel door",
+          "Electronic monitoring",
+          "Labyrinthine interior layout"
+        ],
+        "masquerade_strategy": "Industrial anonymity and misdirection"
+      },
+      "design_rules": {
+        "non_negotiable": [
+          "Disorder is deliberate.",
+          "The space defends by confusing, not blocking.",
+          "Everything has a purpose, even if it looks random.",
+          "Cleanliness without comfort."
+        ],
+        "observation_hook": "Characters with heightened perception can recognize the layout as planned, not chaotic.",
+        "anti_patterns": [
+          "Actual mess or neglect",
+          "Luxury or aesthetic decoration",
+          "Comfortable or open layouts"
+        ]
+      },
+      "production_targets": {
+        "current_phase": "2d_standin",
+        "future_phase": "3d_environment",
+        "intended_use_frequency": "Repeated visits",
+        "scale_policy": "Do not lock exact dimensions; preserve maze logic over measurements."
+      },
+      "notes_for_collaborators": {
+        "key_takeaway": "This haven should feel safe only if you know it well—and dangerous the moment you try to leave.",
+        "failure_mode": "If it reads as random clutter instead of planned chaos, the design has failed."
+      }
+    }
+  }
+  

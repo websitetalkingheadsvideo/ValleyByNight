@@ -8,7 +8,7 @@
  * 
  * Usage:
  *   CLI: php database/export_npcs.php [--dry-run] [--limit=N] [--id=ID] [--out=DIR]
- *   Web: https://vbn.talkingheads.video/database/export_npcs.php?dry-run=1
+ *   Web: database/export_npcs.php?dry-run=1
  */
 
 declare(strict_types=1);

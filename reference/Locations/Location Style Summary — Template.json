@@ -1,0 +1,285 @@
+{
+  "schema_version": "1.0",
+  "schema_name": "vbn_location_style_summary",
+  "source_style_guide": {
+    "title": "Valley by Night — Location Style Guide",
+    "version": "1.0",
+    "citation": "turn0file0"
+  },
+  "template_intent": "Reusable Location Style Summary template for all Valley by Night locations. Designed to support 2D stand-ins now and future 3D production later without locking premature construction details.",
+  "fields_policy": {
+    "required_fields": [
+      "id",
+      "name",
+      "district",
+      "era_anchor",
+      "location_type",
+      "style_summary",
+      "cinematic_description",
+      "gm_summary",
+      "visual_language",
+      "palette",
+      "materials",
+      "lighting",
+      "atmosphere",
+      "flow_and_access",
+      "era_cues_1994",
+      "security_and_masquerade",
+      "design_rules",
+      "production_targets"
+    ],
+    "no_duplication_rule": "Do not duplicate room-level notes here. Keep this file site-wide only (mood, site effects, access patterns, exterior)."
+  },
+  "location": {
+    "id": "loc_violet_reliquary_midtown_phx",
+    "name": "The Violet Reliquary",
+    "aliases": ["Violet Reliquary", "Reliquary"],
+    "location_type": "vampire_haven_political_hub",
+    "district": "Midtown Phoenix",
+    "address": "Midtown Phoenix (exact address withheld / configurable)",
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "_note": "Optional. Add if your project uses coordinates; otherwise keep null."
+    },
+    "era_anchor": {
+      "real_world_year": 1994,
+      "city": "Phoenix, Arizona",
+      "architectural_claim": "WWI–WWII era 'Victorian fragment' transplanted into modern Phoenix"
+    },
+    "style_summary": {
+      "one_liner": "A muted-violet, fabric-dense Victorian anomaly in 1994 Midtown Phoenix—less a fortress than a stage that absorbs guests through softness, enclosure, and ritualized comfort.",
+      "core_thesis": "This location controls through curated intimacy rather than overt defense; textiles act as architecture, light never reveals corners fully, and scale is manipulated to guide emotion and politics."
+    },
+    "cinematic_description": [
+      "A lavender-gray relic squats in Midtown Phoenix like it missed the century it was meant for. Its ironwork is too ornate for the street, its windows too narrow, its presence too quiet—an old-world posture in a city of sodium lights and heat shimmer.",
+      "Inside, fabric does what walls usually do. Curtains thicken corridors, drapes swallow corners, and every threshold feels staged—soft, deliberate, and difficult to read. Warm lamplight blooms and dies in velvet, never fully reaching the edges.",
+      "The house doesn’t threaten; it invites. It lets visitors relax first—then teaches them, gently, that comfort can be a leash."
+    ],
+    "gm_summary": {
+      "purpose_in_story": "Primary vampire haven and political hub; introduction space for Kindred society amid instability following the Prince’s assassination.",
+      "how_it_plays": "Social manipulation venue; movement is guided (entry → liminal corridor → staged public rooms → insulated private zones). The location’s mood pressures unwelcome guests without obvious hostility."
+    },
+    "visual_language": {
+      "dominant_motif": "Fabric as Architecture",
+      "motif_definition": "Textiles (drapes, curtains, bed hangings, canopies) function as visual walls, thresholds, and filters—never merely decoration.",
+      "secondary_motifs": [
+        "Theatrical staging (rooms as sets)",
+        "Mirrors and reflective surfaces as controlled sightlines",
+        "Porcelain/ceramic mementos as crisp contrast against velvet darkness"
+      ],
+      "composition_rules": [
+        "Prioritize lateral sightlines over vertical emphasis (draw the eye across, not up).",
+        "Keep corners unresolved; allow darkness to swallow detail.",
+        "Frame entrances like proscenium openings—guests feel observed when they step through."
+      ]
+    },
+    "palette": {
+      "primary": [
+        {
+          "name": "Bruised Violet",
+          "hex": "#5A3B73",
+          "usage": "Primary textiles: drapes, upholstery, runners, canopies"
+        },
+        {
+          "name": "Muted Lavender-Gray",
+          "hex": "#9A86A6",
+          "usage": "Exterior read, faded paint, transitional accents"
+        }
+      ],
+      "secondary": [
+        {
+          "name": "Dusty Plum",
+          "hex": "#3F254A",
+          "usage": "Shadow textiles, corridor depth, ceiling falloff"
+        },
+        {
+          "name": "Wine-Stain Red",
+          "hex": "#5B1F2A",
+          "usage": "Emotional beats, intimate highlights, selective decor"
+        },
+        {
+          "name": "Tarnished Silver",
+          "hex": "#8E8A92",
+          "usage": "Frames, mirror trim, aged hardware"
+        },
+        {
+          "name": "Noir Blue-Black",
+          "hex": "#0A0B10",
+          "usage": "Night tone, deep shadow, ironwork read"
+        }
+      ],
+      "palette_rules": [
+        "Purple must be material (fabric/object color), not a neon lighting wash.",
+        "Warm light (amber) should be absorbed and softened by violet textiles.",
+        "Avoid modern LED hues; keep highlights warm and shadows blue-black."
+      ]
+    },
+    "materials": {
+      "primary_textiles": [
+        "Velvet (heavy, light-absorbing)",
+        "Brocade (patterned, low sheen)",
+        "Worn silk (selective glint, not glossy)",
+        "Heavy lace (layered over blackout)"
+      ],
+      "hard_surfaces": [
+        "Dark-stained wood",
+        "Oxidized brass",
+        "Antique glass",
+        "Porcelain / bone-white ceramics"
+      ],
+      "aging_and_wear": {
+        "intent": "Elegant decay; wear is curated, not neglected.",
+        "examples": [
+          "Tarnish on brass, not rust",
+          "Faded exterior paint, not crumbling structure",
+          "Scuffs where servants move, not random grime"
+        ]
+      }
+    },
+    "lighting": {
+      "doctrine": [
+        "No neutral/white light sources.",
+        "Indirect illumination only (shaded lamps, sconces, candle clusters).",
+        "Light falloff is intentional; corners remain partially unreadable.",
+        "Purple is not emitted; it is reflected/absorbed."
+      ],
+      "primary_sources": [
+        "Shaded wall sconces",
+        "Clustered candles",
+        "Oil-lamp analog fixtures (electric but styled)"
+      ],
+      "exterior_ambient": [
+        "1994 sodium-vapor streetlight tone",
+        "Moonlight with mild haze"
+      ],
+      "contrast_level": "high_contrast_noir",
+      "atmospheric_effects": [
+        "Subtle haze indoors (dust, candle smoke)",
+        "Soft bloom around warm light sources"
+      ]
+    },
+    "atmosphere": {
+      "emotional_tone": ["elegant", "suffocating", "intimate", "watchful"],
+      "soundscape": [
+        "Muted city hum beyond walls",
+        "Soft fabric movement",
+        "Occasional creak in old wood",
+        "Low electrical buzz under antique fixtures"
+      ],
+      "scent_profile": [
+        "Old perfume trapped in fabric",
+        "Warm wax / candle smoke",
+        "Dry desert dust carried in faintly"
+      ],
+      "motion_texture": [
+        "Curtains subtly shifting from airflow",
+        "Candle flicker reflecting in mirrors",
+        "Dust motes visible in narrow light cones"
+      ]
+    },
+    "flow_and_access": {
+      "primary_approach": "Gate → narrow path → front door → foyer (commitment threshold)",
+      "movement_logic": "Exposure → disorientation → performance → withdrawal",
+      "entry_points": [
+        {
+          "name": "Primary Entrance",
+          "type": "public",
+          "visibility": "high",
+          "notes": "For invited guests; intentionally formal and funneling."
+        },
+        {
+          "name": "Service/Back Exit",
+          "type": "staff",
+          "visibility": "low",
+          "notes": "Discrete egress for servitors and quick departures."
+        }
+      ],
+      "navigation_notes": [
+        "Corridors read longer than they are via repetition and reflectivity.",
+        "Public zones are easy to find; private zones feel nested and obscured."
+      ]
+    },
+    "era_cues_1994": {
+      "required_minimum": 1,
+      "examples_to_use": [
+        "A distant Blockbuster sign down the street",
+        "A faded Pepsi machine visible from an alley angle",
+        "A Ford Taurus or late-80s/early-90s pickup parked nearby",
+        "A payphone at the corner, grimy and sun-faded"
+      ],
+      "avoid": [
+        "Smartphones",
+        "LED signage strips",
+        "Post-2000 glass-and-steel minimalism",
+        "Modern security cameras and EV chargers"
+      ]
+    },
+    "security_and_masquerade": {
+      "site_wide_security": {
+        "barriers": ["iron gate", "walled rear garden"],
+        "cameras": {
+          "present": true,
+          "era_style": "1994 analog / low-light / bulky housings",
+          "_note": "Optional; omit if you prefer purely social security."
+        },
+        "guards": {
+          "present": false,
+          "notes": "Reliance is on social control and discretion, not visible force."
+        }
+      },
+      "masquerade_strategy": [
+        "Exterior reads as eccentric historic holdout, not overtly supernatural.",
+        "Interior lighting and window treatments prevent accidental exposure."
+      ],
+      "supernatural_site_wide": {
+        "has_supernatural": true,
+        "expression_style": "subtle_pressure_not_overt_fx",
+        "notes": "A persistent sense of being observed; the house 'listens.' Avoid explicit VFX unless story demands."
+      }
+    },
+    "design_rules": {
+      "non_negotiable": [
+        "Fabric always mediates space.",
+        "Light never reveals everything.",
+        "Purple is material, not glow.",
+        "Rooms feel staged, not lived-in.",
+        "Privacy feels heavy, not safe.",
+        "The house favors closeness over clarity."
+      ],
+      "anti_patterns": [
+        "Bright, clean modern lighting",
+        "Open-plan airy interiors",
+        "Minimalism",
+        "Neon purple wash that replaces material color"
+      ]
+    },
+    "production_targets": {
+      "current_phase": "2d_standins",
+      "future_phase": "3d_environment",
+      "recommended_art_deliverables": [
+        "Exterior establishing shot (street + gate + façade)",
+        "Interior corridor hero shot (fabric + mirrors + sconces)",
+        "Public-room hero shot (staged seating + violet textiles)",
+        "Private-room hero shot (canopy + layered drapery)"
+      ],
+      "scale_policy": {
+        "_note": "Avoid locking exact dimensions early. If needed later, add approximate ranges here.",
+        "allow_estimates_in_3d_phase": true
+      }
+    },
+    "notes_for_collaborators": {
+      "what_matters_most": [
+        "Textile density and layering",
+        "Controlled sightlines and shadow falloff",
+        "Theatrical staging"
+      ],
+      "what_can_change": [
+        "Exact furniture styles",
+        "Exact exterior ornamentation density",
+        "Non-critical room proportions"
+      ],
+      "hand_off_hint": "Treat this file as the 'truth source' for mood, materials, and lighting—floorplans and room entries define specifics elsewhere."
+    }
+  }
+}

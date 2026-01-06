@@ -5,7 +5,7 @@
  * This script creates the abilities table and seeds it with all 32 canonical abilities
  * from the VtM character creation system.
  * 
- * Run via browser: https://vbn.talkingheads.video/database/create_abilities_table.php
+ * Run via browser: database/create_abilities_table.php
  * Or via CLI: php database/create_abilities_table.php
  */
 

@@ -7,7 +7,7 @@
  * the auto-increment integer primary key.
  * 
  * Usage: Run via web browser or CLI
- * URL: https://vbn.talkingheads.video/database/add_rumor_name_column.php
+ * URL: database/add_rumor_name_column.php
  */
 
 error_reporting(E_ALL);

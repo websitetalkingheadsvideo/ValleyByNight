@@ -4,8 +4,8 @@ declare(strict_types=1);
 /**
  * DisciplinePowersRepository
  * 
- * Handles database queries for the character_discipline_powers table.
- * CRITICAL: Only queries character_discipline_powers table.
+ * Handles database queries for the disciplies_powers table.
+ * CRITICAL: Only queries disciplies_powers table.
  * Does NOT handle paths or rituals - those are separate systems.
  */
 
@@ -43,16 +43,15 @@ class DisciplinePowersRepository
     {
         if ($disciplineName !== null) {
             $query = "SELECT discipline_name, power_name, level 
-                      FROM character_discipline_powers 
-                      WHERE character_id = ? AND discipline_name = ?
+                      FROM disciplies_powers 
+                      WHERE discipline_name = ?
                       ORDER BY level, power_name";
-            $results = db_fetch_all($this->db, $query, 'is', [$characterId, $disciplineName]);
+            $results = db_fetch_all($this->db, $query, 's', [$disciplineName]);
         } else {
             $query = "SELECT discipline_name, power_name, level 
-                      FROM character_discipline_powers 
-                      WHERE character_id = ?
+                      FROM disciplies_powers 
                       ORDER BY discipline_name, level, power_name";
-            $results = db_fetch_all($this->db, $query, 'i', [$characterId]);
+            $results = db_fetch_all($this->db, $query);
         }
         
         return $results;
@@ -69,7 +68,7 @@ class DisciplinePowersRepository
     public function getPowersByDisciplineAndLevel(string $disciplineName, int $level): array
     {
         $query = "SELECT DISTINCT power_name, level 
-                  FROM character_discipline_powers 
+                  FROM disciplies_powers 
                   WHERE discipline_name = ? AND level <= ?
                   ORDER BY level, power_name";
         
@@ -86,7 +85,7 @@ class DisciplinePowersRepository
     public function powerExists(string $disciplineName, string $powerName): bool
     {
         $query = "SELECT 1 
-                  FROM character_discipline_powers 
+                  FROM disciplies_powers 
                   WHERE discipline_name = ? AND power_name = ?
                   LIMIT 1";
         
@@ -105,7 +104,7 @@ class DisciplinePowersRepository
     public function getPowerLevel(string $disciplineName, string $powerName): ?int
     {
         $query = "SELECT level 
-                  FROM character_discipline_powers 
+                  FROM disciplies_powers 
                   WHERE discipline_name = ? AND power_name = ?
                   LIMIT 1";
         

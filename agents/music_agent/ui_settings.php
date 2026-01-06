@@ -192,7 +192,7 @@ try {
                 </div>
                 <div class="card-body">
                     <?php if (empty($mix_profiles)): ?>
-                    <p class="text-muted">No mix profiles configured.</p>
+                    <p class="opacity-75">No mix profiles configured.</p>
                     <?php else: ?>
                     <div class="table-responsive">
                         <table class="table table-sm">
@@ -218,7 +218,7 @@ try {
                                             <?php endforeach; ?>
                                         </ul>
                                         <?php else: ?>
-                                        <span class="text-muted">—</span>
+                                        <span class="opacity-75">—</span>
                                         <?php endif; ?>
                                     </td>
                                     <td>
@@ -229,7 +229,7 @@ try {
                                             <?php endforeach; ?>
                                         </ul>
                                         <?php else: ?>
-                                        <span class="text-muted">—</span>
+                                        <span class="opacity-75">—</span>
                                         <?php endif; ?>
                                     </td>
                                     <td>
@@ -240,7 +240,7 @@ try {
                                             <?php endforeach; ?>
                                         </ul>
                                         <?php else: ?>
-                                        <span class="text-muted">—</span>
+                                        <span class="opacity-75">—</span>
                                         <?php endif; ?>
                                     </td>
                                 </tr>

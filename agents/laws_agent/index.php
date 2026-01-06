@@ -509,6 +509,12 @@ function escapeHtml(text) {
 }
 
 function formatAnswer(text) {
+    // If text is already HTML (starts with HTML tags), return as-is
+    if (text.trim().startsWith('<')) {
+        return text;
+    }
+    
+    // Convert markdown and plain text to HTML
     text = text.replace(/\(Source \d+:([^)]+)\)/g, '<strong style="color: #8b0000;">(Source $&)</strong>');
     text = text.replace(/\n/g, '<br>');
     return text;

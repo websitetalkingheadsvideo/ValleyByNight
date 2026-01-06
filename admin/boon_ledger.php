@@ -55,7 +55,7 @@ function render_status_badge($status) {
 
 <div class="admin-panel-container container-fluid py-4 px-3 px-md-4">
     <h1 class="panel-title display-5 text-light fw-bold mb-1">💎 Boon Ledger</h1>
-    <p class="panel-subtitle lead text-muted fst-italic mb-2">Track favors and debts between characters</p>
+    <p class="panel-subtitle lead opacity-75 fst-italic mb-2">Track favors and debts between characters</p>
     <div class="mb-3">
         <a href="admin_panel.php" class="btn btn-outline-secondary btn-sm">
             ← Back to Admin Panel
@@ -123,7 +123,7 @@ function render_status_badge($status) {
             </thead>
             <tbody id="boonsTableBody">
                 <tr>
-                    <td colspan="8" class="text-center text-muted">Loading boons...</td>
+                    <td colspan="8" class="text-center opacity-75">Loading boons...</td>
                 </tr>
             </tbody>
         </table>

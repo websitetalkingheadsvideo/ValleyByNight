@@ -7,8 +7,8 @@
  * 
  * Usage:
  *   CLI: php database/import_locations.php [filename.json]
- *   Web: https://vbn.talkingheads.video/database/import_locations.php?file=filename.json
- *        https://vbn.talkingheads.video/database/import_locations.php?all=1
+ *   Web: database/import_locations.php?file=filename.json
+ *        database/import_locations.php?all=1
  */
 
 declare(strict_types=1);

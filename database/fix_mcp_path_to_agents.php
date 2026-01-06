@@ -4,7 +4,7 @@
  * 
  * This ensures consistency after uploading agents folder to remote server.
  * 
- * Run via browser: https://vbn.talkingheads.video/database/fix_mcp_path_to_agents.php
+ * Run via browser: database/fix_mcp_path_to_agents.php
  */
 
 declare(strict_types=1);

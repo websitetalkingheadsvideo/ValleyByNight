@@ -16,9 +16,14 @@ if (session_status() === PHP_SESSION_NONE) {
     session_start();
 }
 
+// Include database connection for role verification
+require_once __DIR__ . '/../../includes/connect.php';
+
 // Check if user is admin/storyteller
-$user_role = $_SESSION['role'] ?? 'player';
-$is_admin = ($user_role === 'admin' || $user_role === 'storyteller');
+require_once __DIR__ . '/../../includes/verify_role.php';
+$user_id = $_SESSION['user_id'] ?? 0;
+$user_role = verifyUserRole($conn, $user_id);
+$is_admin = isAdminUser($user_role);
 
 // Include header
 $extra_css = ['css/dashboard.css'];

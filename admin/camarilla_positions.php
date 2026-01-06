@@ -238,7 +238,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                     <?php endif; ?>
                                 <?php endif; ?>
                             <?php else: ?>
-                                <span class="text-muted">Vacant</span>
+                                <span class="opacity-75">Vacant</span>
                             <?php endif; ?>
                         </td>
                         <td>
@@ -260,7 +260,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                             <?php if ($has_holders && !empty($holders[0]['start_night'])): ?>
                                 <?php echo date('Y-m-d', strtotime($holders[0]['start_night'])); ?>
                             <?php else: ?>
-                                <span class="text-muted">—</span>
+                                <span class="opacity-75">—</span>
                             <?php endif; ?>
                         </td>
                         <td class="text-center align-top" style="width: 150px;">
@@ -286,7 +286,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <!-- Camarilla Positions Agent Section -->
     <div class="mb-5">
         <h2 class="h4 mb-3">🤖 Ask the Camarilla Positions Agent</h2>
-        <p class="text-muted mb-4">Query position holders and historical assignments</p>
+        <p class="opacity-75 mb-4">Query position holders and historical assignments</p>
         
         <div class="row g-3">
             <!-- Position Lookup Form -->
@@ -378,7 +378,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                         </p>
                                     <?php endif; ?>
                                 <?php else: ?>
-                                    <p class="text-muted">Position is vacant</p>
+                                    <p class="opacity-75">Position is vacant</p>
                                 <?php endif; ?>
                             </div>
                             
@@ -407,7 +407,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                                                 <?php echo htmlspecialchars($hist['character_name']); ?>
                                                             <?php endif; ?>
                                                         <?php else: ?>
-                                                            <span class="text-muted">Unknown</span>
+                                                            <span class="opacity-75">Unknown</span>
                                                         <?php endif; ?>
                                                     </td>
                                                     <td><?php echo date('Y-m-d', strtotime($hist['start_night'])); ?></td>
@@ -478,7 +478,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                     </ul>
                                 </div>
                             <?php else: ?>
-                                <p class="text-muted">No current positions</p>
+                                <p class="opacity-75">No current positions</p>
                             <?php endif; ?>
                             
                             <?php if (!empty($character_lookup_result['past_positions'])): ?>

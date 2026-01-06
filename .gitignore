@@ -41,4 +41,7 @@ reference/Books/**/*.rtf
 
 # Task files
 tasks.json
-tasks/ 
+tasks/
+
+# Blueprints (removed - results were disappointing)
+reference/Locations/Blueprints/ 

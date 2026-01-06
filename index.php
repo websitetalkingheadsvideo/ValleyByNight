@@ -31,10 +31,13 @@ if (isAuthBypassEnabled() && !isset($_SESSION['user_id'])) {
 // Get user information
 $user_id = $_SESSION['user_id'] ?? 0;
 $username = $_SESSION['username'] ?? 'Guest';
-$user_role = $_SESSION['role'] ?? 'player';
+
+// SECURITY: Verify role against database to prevent session tampering
+require_once 'includes/verify_role.php';
+$user_role = verifyUserRole($conn, $user_id);
 
 // Determine if user is admin/storyteller
-$is_admin = ($user_role === 'admin' || $user_role === 'storyteller');
+$is_admin = isAdminUser($user_role);
 
 // Chronicle information
 $tagline = "On your first night among the Kindred, the Prince dies—and the city of Phoenix bleeds intrigue";
@@ -46,6 +49,59 @@ include 'includes/header.php';
 ?>
 
 <div class="page-content container py-4">
+    <!-- Join Game Section -->
+    <div class="row mb-4">
+        <div class="col-md-12">
+            <div class="card join-game-card">
+                <div class="card-body text-center">
+                    <h3 class="card-title">Join Game</h3>
+                    <p class="card-text">Join an active game session and participate in the chronicle's ongoing story.</p>
+                    <a href="#" class="btn btn-primary" onclick="alert('Coming soon!'); return false;">Join Game</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Player Resources Section -->
+    <div class="row mb-4 player-resources-row">
+        <div class="col-md-3">
+            <div class="card">
+                <div class="card-body">
+                    <h3 class="card-title">Learn About the Clans</h3>
+                    <p class="card-text">Explore the thirteen clans of the Camarilla and their unique characteristics, histories, and roles in Phoenix.</p>
+                    <a href="clans/index.php" class="btn btn-primary">View Clans</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card">
+                <div class="card-body">
+                    <h3 class="card-title">Take the Character Quiz</h3>
+                    <p class="card-text">Discover which clan best matches your personality and playstyle through our interactive questionnaire.</p>
+                    <a href="questionnaire.php" class="btn btn-primary">Start Quiz</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card">
+                <div class="card-body">
+                    <h3 class="card-title">Phoenix Map</h3>
+                    <p class="card-text">Explore the interactive map of Phoenix and discover key locations throughout the city.</p>
+                    <a href="phoenix_map.php" class="btn btn-primary">View Map</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card">
+                <div class="card-body">
+                    <h3 class="card-title">Chat Room</h3>
+                    <p class="card-text">Connect with other kindred and engage in character roleplay conversations.</p>
+                    <a href="chat.php" class="btn btn-primary">Enter Chat</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    
     <?php if ($is_admin): ?>
         <!-- ADMIN/STORYTELLER VIEW -->
         <div class="dashboard-admin">
@@ -150,7 +206,23 @@ include 'includes/header.php';
                     </div>
                 </div>
 
-                
+                <div class="card col-md-4 col-sm-6">
+                    <div class="card-body text-center">
+                        <div class="vbn-card-icon" aria-hidden="true">📋</div>
+                        <h3 class="card-title">Questionnaire Admin</h3>
+                        <p class="card-text">Manage and configure the character creation questionnaire questions, answers, and clan weightings</p>
+                        <a href="admin/questionnaire_admin.php" class="btn btn-primary">Manage Questions</a>
+                    </div>
+                </div>
+
+                <div class="card col-md-4 col-sm-6">
+                    <div class="card-body text-center">
+                        <div class="vbn-card-icon" aria-hidden="true">📊</div>
+                        <h3 class="card-title">Project Summary</h3>
+                        <p class="card-text">Comprehensive overview of the Valley by Night project</p>
+                        <a href="PROJECT_SUMMARY.html" class="btn btn-primary">View Summary</a>
+                    </div>
+                </div>
 
                 <div class="card col-md-4 col-sm-6 disabled opacity-50">
                     <div class="card-body text-center">

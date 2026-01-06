@@ -359,32 +359,32 @@ $extra_css = ['css/admin-agents.css'];
                     <div class="col-6 col-md-3">
                         <div class="text-center">
                             <div class="display-6 text-light"><?= $stats['total'] ?? 0; ?></div>
-                            <div class="text-muted small">Total Boons</div>
+                            <div class="opacity-75 small">Total Boons</div>
                         </div>
                     </div>
                     <div class="col-6 col-md-3">
                         <div class="text-center">
                             <div class="display-6 text-warning"><?= $stats['owed'] ?? 0; ?></div>
-                            <div class="text-muted small">Owed</div>
+                            <div class="opacity-75 small">Owed</div>
                         </div>
                     </div>
                     <div class="col-6 col-md-3">
                         <div class="text-center">
                             <div class="display-6 text-danger"><?= $stats['called'] ?? 0; ?></div>
-                            <div class="text-muted small">Called</div>
+                            <div class="opacity-75 small">Called</div>
                         </div>
                     </div>
                     <div class="col-6 col-md-3">
                         <div class="text-center">
                             <div class="display-6 text-success"><?= $stats['paid'] ?? 0; ?></div>
-                            <div class="text-muted small">Paid</div>
+                            <div class="opacity-75 small">Paid</div>
                         </div>
                     </div>
                     <?php if (($stats['broken'] ?? 0) > 0): ?>
                         <div class="col-6 col-md-3">
                             <div class="text-center">
                                 <div class="display-6 text-dark"><?= $stats['broken']; ?></div>
-                                <div class="text-muted small">Broken</div>
+                                <div class="opacity-75 small">Broken</div>
                             </div>
                         </div>
                     <?php endif; ?>

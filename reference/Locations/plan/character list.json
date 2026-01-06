@@ -1,0 +1,653 @@
+{
+    "generatedAt": "2026-01-03",
+    "characters": [
+        {
+            "characterName": "Adrian Leclair",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "An aesthetically pleasing haven that blends with mortal society; includes security measures appropriate for the district and feeding opportunities in cultural/artistic venues.",
+            "sourceRefs": [
+                "DB:characters.id=92"
+            ]
+        },
+        {
+            "characterName": "Alessandro Vescari",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "no",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A secure haven with space for necromantic practices and family business; includes ritual space, concealed entrance.",
+            "sourceRefs": [
+                "reference/Characters\\Added to Database\\Alessandro_Vescari_character_sheet.json"
+            ]
+        },
+        {
+            "characterName": "Alistaire",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A hidden, highly secure haven with multiple concealed entrances; includes blackout measures, reinforced security, and feeding accommodations that minimize exposure.",
+            "sourceRefs": [
+                "DB:characters.id=131"
+            ]
+        },
+        {
+            "characterName": "Andrei Radulescu",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A secure, warded haven with dedicated ritual space for Thaumaturgical practices; includes ritual space, library, armory.",
+            "sourceRefs": [
+                "DB:characters.id=26"
+            ]
+        },
+        {
+            "characterName": "Barry Horowitz",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A secure haven appropriate for the character's needs; includes basic security measures and feeding accommodations.",
+            "sourceRefs": [
+                "DB:characters.id=153"
+            ]
+        },
+        {
+            "characterName": "Barry Washington",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A prestigious, well-secured haven in an upscale district; includes comprehensive security systems, professional monitoring, and access to business/social networks.",
+            "sourceRefs": [
+                "DB:characters.id=101"
+            ]
+        },
+        {
+            "characterName": "Bayside Bob",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "An aesthetically pleasing haven that blends with mortal society; includes security measures appropriate for the district and feeding opportunities in cultural/artistic venues.",
+            "sourceRefs": [
+                "DB:characters.id=46"
+            ]
+        },
+        {
+            "characterName": "Betty",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A hidden, highly secure haven with multiple concealed entrances; includes blackout measures, reinforced security, and feeding accommodations that minimize exposure.",
+            "sourceRefs": [
+                "DB:characters.id=57"
+            ]
+        },
+        {
+            "characterName": "Butch Reed",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A defensible haven in an industrial or reclaimed urban area; includes reinforced structure, multiple exits, and space for clan gatherings.",
+            "sourceRefs": [
+                "DB:characters.id=129"
+            ]
+        },
+        {
+            "characterName": "Charles \"C.W.\" Whitford",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A prestigious, well-secured haven in an upscale district; includes comprehensive security systems, professional monitoring, and access to business/social networks.",
+            "sourceRefs": [
+                "DB:characters.id=136"
+            ]
+        },
+        {
+            "characterName": "Cordelia Fairchild",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "An aesthetically pleasing haven that blends with mortal society; includes security measures appropriate for the district and feeding opportunities in cultural/artistic venues.",
+            "sourceRefs": [
+                "DB:characters.id=47"
+            ]
+        },
+        {
+            "characterName": "Core (Alexandra Chen)",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A secure haven appropriate for the character's needs; includes high security.",
+            "sourceRefs": [
+                "DB:characters.id=167"
+            ]
+        },
+        {
+            "characterName": "Dr. Margaret Ashford",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A secure, warded haven with dedicated ritual space for Thaumaturgical practices; includes ritual space.",
+            "sourceRefs": [
+                "DB:characters.id=27"
+            ]
+        },
+        {
+            "characterName": "Duke Tiki",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "An aesthetically pleasing haven that blends with mortal society; includes workshop.",
+            "sourceRefs": [
+                "DB:characters.id=48"
+            ]
+        },
+        {
+            "characterName": "Eddy Valiant",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A haven that accommodates unique sensory and psychological needs; includes soundproofing, controlled lighting, and security that doesn't trigger paranoia.",
+            "sourceRefs": [
+                "DB:characters.id=112"
+            ]
+        },
+        {
+            "characterName": "Elijah Crenshaw",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A defensible haven in an industrial or reclaimed urban area; includes concealed entrance.",
+            "sourceRefs": [
+                "DB:characters.id=170"
+            ]
+        },
+        {
+            "characterName": "Helena Crowly",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A secure, warded haven with dedicated ritual space for Thaumaturgical practices; includes ritual space, armory.",
+            "sourceRefs": [
+                "DB:characters.id=138"
+            ]
+        },
+        {
+            "characterName": "James Whitmore",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A secure, warded haven with dedicated ritual space for Thaumaturgical practices; includes ritual space, workshop.",
+            "sourceRefs": [
+                "DB:characters.id=28"
+            ]
+        },
+        {
+            "characterName": "Jax 'The Ghost Dealer'",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A secure haven appropriate for the character's needs; includes concealed entrance.",
+            "sourceRefs": [
+                "DB:characters.id=44"
+            ]
+        },
+        {
+            "characterName": "Jennifer Kwan",
+            "hasHaven": "yes",
+            "havenId": 6,
+            "districtOrTown": "Mesa - Industrial District (East Mesa, near Superstition Springs)",
+            "inDatabase": "yes",
+            "havenJsonExists": "no",
+            "recommendedHavenDescription": "A haven that serves dual purposes as both sanctuary and operational base; includes high security, armory.",
+            "sourceRefs": [
+                "DB:characters.id=71"
+            ]
+        },
+        {
+            "characterName": "Jennifer Torrance",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A secure haven appropriate for the character's needs; includes basic security measures and feeding accommodations.",
+            "sourceRefs": [
+                "DB:characters.id=147"
+            ]
+        },
+        {
+            "characterName": "Kerry, the Desert-Wandering Gangrel",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A secluded haven on the fringes of urban development; includes natural camouflage, animal patrols, and minimal technological footprint.",
+            "sourceRefs": [
+                "DB:characters.id=130"
+            ]
+        },
+        {
+            "characterName": "Kerry, the Gangrel",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A secluded haven on the fringes of urban development; includes concealed entrance.",
+            "sourceRefs": [
+                "DB:characters.id=168"
+            ]
+        },
+        {
+            "characterName": "Layla al-Sahr",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A secure haven appropriate for the character's needs; includes basic security measures and feeding accommodations.",
+            "sourceRefs": [
+                "DB:characters.id=107"
+            ]
+        },
+        {
+            "characterName": "Leo",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A hidden, highly secure haven with multiple concealed entrances; includes blackout measures, reinforced security, and feeding accommodations that minimize exposure.",
+            "sourceRefs": [
+                "DB:characters.id=55"
+            ]
+        },
+        {
+            "characterName": "Lilith Nightshade",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A haven that accommodates unique sensory and psychological needs; includes soundproofing, controlled lighting, and security that doesn't trigger paranoia.",
+            "sourceRefs": [
+                "DB:characters.id=133"
+            ]
+        },
+        {
+            "characterName": "Lucien Marchand",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A secure haven appropriate for the character's needs; includes basic security measures and feeding accommodations.",
+            "sourceRefs": [
+                "DB:characters.id=60"
+            ]
+        },
+        {
+            "characterName": "Marcus Webb",
+            "hasHaven": "yes",
+            "havenId": 6,
+            "districtOrTown": "Mesa - Industrial District (East Mesa, near Superstition Springs)",
+            "inDatabase": "yes",
+            "havenJsonExists": "no",
+            "recommendedHavenDescription": "A haven that serves dual purposes as both sanctuary and operational base; includes armory.",
+            "sourceRefs": [
+                "DB:characters.id=72"
+            ]
+        },
+        {
+            "characterName": "Marisol \"Roadrunner\" Vega",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A secluded haven on the fringes of urban development; includes natural camouflage, animal patrols, and minimal technological footprint.",
+            "sourceRefs": [
+                "DB:characters.id=124"
+            ]
+        },
+        {
+            "characterName": "Misfortune",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A haven that accommodates unique sensory and psychological needs; includes workshop.",
+            "sourceRefs": [
+                "DB:characters.id=149"
+            ]
+        },
+        {
+            "characterName": "Mr. Harold Ashby",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A haven that accommodates unique sensory and psychological needs; includes ritual space.",
+            "sourceRefs": [
+                "DB:characters.id=102"
+            ]
+        },
+        {
+            "characterName": "Mrs. Chen",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A secure haven appropriate for the character's needs; includes basic security measures and feeding accommodations.",
+            "sourceRefs": [
+                "DB:characters.id=154"
+            ]
+        },
+        {
+            "characterName": "Naomi Blackbird",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A secluded haven on the fringes of urban development; includes natural camouflage, animal patrols, and minimal technological footprint.",
+            "sourceRefs": [
+                "DB:characters.id=137"
+            ]
+        },
+        {
+            "characterName": "Phreak",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A hidden, highly secure haven with multiple concealed entrances; includes blackout measures, reinforced security, and feeding accommodations that minimize exposure.",
+            "sourceRefs": [
+                "DB:characters.id=169"
+            ]
+        },
+        {
+            "characterName": "Pistol Pete",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A defensible haven in an industrial or reclaimed urban area; includes reinforced structure, multiple exits, and space for clan gatherings.",
+            "sourceRefs": [
+                "DB:characters.id=89"
+            ]
+        },
+        {
+            "characterName": "Piston",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A defensible haven in an industrial or reclaimed urban area; includes reinforced structure, multiple exits, and space for clan gatherings.",
+            "sourceRefs": [
+                "DB:characters.id=63"
+            ]
+        },
+        {
+            "characterName": "Rembrandt Jones",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "An aesthetically pleasing haven that blends with mortal society; includes security measures appropriate for the district and feeding opportunities in cultural/artistic venues.",
+            "sourceRefs": [
+                "DB:characters.id=42"
+            ]
+        },
+        {
+            "characterName": "Rey Gonzalez",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A defensible haven in an industrial or reclaimed urban area; includes reinforced structure, multiple exits, and space for clan gatherings.",
+            "sourceRefs": [
+                "DB:characters.id=152"
+            ]
+        },
+        {
+            "characterName": "Roland Cross",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "An aesthetically pleasing haven that blends with mortal society; includes workshop.",
+            "sourceRefs": [
+                "DB:characters.id=88"
+            ]
+        },
+        {
+            "characterName": "Roxanne Murphy",
+            "hasHaven": "yes",
+            "havenId": 6,
+            "districtOrTown": "Mesa - Industrial District (East Mesa, near Superstition Springs)",
+            "inDatabase": "yes",
+            "havenJsonExists": "no",
+            "recommendedHavenDescription": "A haven that serves dual purposes as both sanctuary and operational base; includes high security, concealed entrance.",
+            "sourceRefs": [
+                "DB:characters.id=125"
+            ]
+        },
+        {
+            "characterName": "Roxanne Vega",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "An aesthetically pleasing haven that blends with mortal society; includes high security, ritual space.",
+            "sourceRefs": [
+                "DB:characters.id=171"
+            ]
+        },
+        {
+            "characterName": "Sabine",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "An aesthetically pleasing haven that blends with mortal society; includes security measures appropriate for the district and feeding opportunities in cultural/artistic venues.",
+            "sourceRefs": [
+                "DB:characters.id=50"
+            ]
+        },
+        {
+            "characterName": "Sarah Hansen",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A secure haven appropriate for the character's needs; includes basic security measures and feeding accommodations.",
+            "sourceRefs": [
+                "DB:characters.id=113"
+            ]
+        },
+        {
+            "characterName": "Sasha",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A haven that accommodates unique sensory and psychological needs; includes soundproofing, controlled lighting, and security that doesn't trigger paranoia.",
+            "sourceRefs": [
+                "DB:characters.id=90"
+            ]
+        },
+        {
+            "characterName": "Sebastian",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "An aesthetically pleasing haven that blends with mortal society; includes security measures appropriate for the district and feeding opportunities in cultural/artistic venues.",
+            "sourceRefs": [
+                "DB:characters.id=52"
+            ]
+        },
+        {
+            "characterName": "Sofia Alvarez",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A secure haven appropriate for the character's needs; includes basic security measures and feeding accommodations.",
+            "sourceRefs": [
+                "DB:characters.id=62"
+            ]
+        },
+        {
+            "characterName": "Solomon Reaves",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "no",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A defensible haven in an industrial or reclaimed urban area; includes reinforced structure, multiple exits, and space for clan gatherings.",
+            "sourceRefs": [
+                "reference/Characters\\Added to Database\\npc__solomon_reaves__139.json"
+            ]
+        },
+        {
+            "characterName": "Tariq Ibrahim",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A haven that serves dual purposes as both sanctuary and operational base; includes hidden areas, security for sensitive operations, and feeding opportunities.",
+            "sourceRefs": [
+                "DB:characters.id=104"
+            ]
+        },
+        {
+            "characterName": "Tor",
+            "hasHaven": "yes",
+            "havenId": 6,
+            "districtOrTown": "Mesa - Industrial District (East Mesa, near Superstition Springs)",
+            "inDatabase": "yes",
+            "havenJsonExists": "no",
+            "recommendedHavenDescription": "A secure haven appropriate for the character's needs; includes ritual space.",
+            "sourceRefs": [
+                "DB:characters.id=109"
+            ]
+        },
+        {
+            "characterName": "Vechij Oksdagi",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "no",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A secure haven appropriate for the character's needs; includes basic security measures and feeding accommodations.",
+            "sourceRefs": [
+                "reference/Characters\\Wraiths\\Vechij_Oksdagi.json"
+            ]
+        },
+        {
+            "characterName": "Victoria Sterling",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A prestigious, well-secured haven in an upscale district; includes comprehensive security systems, professional monitoring, and access to business/social networks.",
+            "sourceRefs": [
+                "DB:characters.id=172"
+            ]
+        },
+        {
+            "characterName": "Violet 'The Confidence Queen'",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A hidden, highly secure haven with multiple concealed entrances; includes concealed entrance.",
+            "sourceRefs": [
+                "DB:characters.id=43"
+            ]
+        },
+        {
+            "characterName": "Warner Jefferson",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "A prestigious, well-secured haven in an upscale district; includes comprehensive security systems, professional monitoring, and access to business/social networks.",
+            "sourceRefs": [
+                "DB:characters.id=123"
+            ]
+        },
+        {
+            "characterName": "Étienne Duvalier",
+            "hasHaven": "no",
+            "havenId": null,
+            "districtOrTown": null,
+            "inDatabase": "yes",
+            "havenJsonExists": "unknown",
+            "recommendedHavenDescription": "An aesthetically pleasing haven that blends with mortal society; includes concealed entrance.",
+            "sourceRefs": [
+                "DB:characters.id=68"
+            ]
+        }
+    ]
+}

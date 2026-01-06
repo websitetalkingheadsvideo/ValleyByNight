@@ -134,12 +134,13 @@
     max-height: 100%;
     object-fit: cover;
     border-radius: 0.85rem;
-    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.45);
+    filter: drop-shadow(0 6px 8px rgba(0, 0, 0, 0.45));
 }
 
 .character-portrait-logo {
     object-fit: contain;
     background: rgba(0, 0, 0, 0.3);
+    padding: 1rem;
 }
 
 .character-portrait-placeholder {
@@ -188,15 +189,14 @@
 .character-view-modal.compact-mode .character-portrait-image,
 .character-view-modal:not(.compact-mode) .character-portrait-image {
     width: 100%;
-    height: auto;
-    aspect-ratio: 1;
+    height: 100%;
     min-width: 0;
     min-height: 0;
     max-width: 100%;
     max-height: 100%;
     object-fit: cover;
     border-radius: 0.85rem;
-    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.45);
+    filter: drop-shadow(0 6px 8px rgba(0, 0, 0, 0.45));
 }
 
 @media (max-width: 575.98px) {

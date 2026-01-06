@@ -5,7 +5,7 @@
  * This script verifies the local MCP structure is complete before FTP upload.
  * It checks that all required directories and files exist.
  * 
- * Run via browser: https://vbn.talkingheads.video/verify_mcp_structure.php
+ * Run via browser: verify_mcp_structure.php
  */
 
 declare(strict_types=1);

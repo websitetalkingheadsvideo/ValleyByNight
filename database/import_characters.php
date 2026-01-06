@@ -7,8 +7,8 @@
  * 
  * Usage:
  *   CLI: php database/import_characters.php [filename.json]
- *   Web: https://vbn.talkingheads.video/database/import_characters.php?file=filename.json
- *        https://vbn.talkingheads.video/database/import_characters.php?all=1
+ *   Web: database/import_characters.php?file=filename.json
+ *        database/import_characters.php?all=1
  * 
  * All imported characters use user_id = 1 (admin/ST account)
  */

@@ -92,7 +92,8 @@
 }
 
 .marker-pin.other {
-    color: var(--text-muted);
+    color: var(--text-light);
+    opacity: 0.75;
 }
 
 /* Marker Tooltip */
@@ -137,7 +138,8 @@
 
 .marker-tooltip .tooltip-type {
     font-size: 0.75rem;
-    color: var(--text-muted);
+    color: var(--text-light);
+    opacity: 0.75;
 }
 
 /* Locations List */
@@ -168,7 +170,8 @@
 
 .location-item .location-meta {
     font-size: 0.875rem;
-    color: var(--text-muted);
+    color: var(--text-light);
+    opacity: 0.75;
 }
 
 .location-item .location-meta .badge {

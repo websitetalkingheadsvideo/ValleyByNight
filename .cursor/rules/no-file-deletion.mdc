@@ -1,0 +1,34 @@
+---
+description: Strict prohibition on file and database deletion without explicit user confirmation
+globs: **/*
+alwaysApply: true
+---
+
+- **Do Not Delete Files**
+  - Never, under any conditions, delete any file inside this project without the express order of the user
+  - Before deleting any file, you MUST ask: "Are you sure you want to delete this file?"
+  - You MUST receive a positive response before proceeding with deletion
+  - This applies to any and every file in this project
+
+- **Do Not Delete Database Data**
+  - Never, under any conditions, delete any table, column, or row from the database without the express order of the user
+  - Before deleting any database element (table, column, or row), you MUST ask: "Are you sure you want to delete this [table/column/row]?"
+  - You MUST receive a positive response before proceeding with deletion
+  - This applies to all database operations including:
+    - DROP TABLE statements
+    - ALTER TABLE ... DROP COLUMN statements
+    - DELETE FROM statements
+    - TRUNCATE TABLE statements
+    - Any other operation that removes data or structure from the database
+
+- **Deletion Process:**
+  1. User must explicitly request deletion (file or database element)
+  2. Agent must ask for confirmation: "Are you sure you want to delete this [file/table/column/row]?"
+  3. Agent must wait for and receive a positive confirmation response
+  4. Only then may the deletion proceed
+
+- **No Exceptions:**
+  - This rule applies to all files regardless of type, location, or purpose
+  - This rule applies to all database elements regardless of table, column, or row
+  - Temporary files, generated files, and any other files are protected by this rule
+  - No automatic cleanup or deletion operations are permitted for files or database

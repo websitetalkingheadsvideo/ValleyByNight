@@ -65,13 +65,13 @@ Each error entry follows this structure:
   - Modal should contain a form with fields for location details
   - Page should load without JavaScript syntax errors
 - **Actual Behavior**: 
-  - JavaScript syntax error on page load: "Uncaught SyntaxError: Identifier 'viewContainer' has already been declared (https://vbn.talkingheads.video/js/admin_locations.js:304)"
+  - JavaScript syntax error on page load: "Uncaught SyntaxError: Identifier 'viewContainer' has already been declared (js/admin_locations.js:304)"
   - Button click triggers JavaScript error: `ReferenceError: openAddLocationModal is not defined`
   - No modal appears
   - Console shows error at line 190 of admin_locations.php
 - **Screenshots/Notes**: 
-  - Console error: `ReferenceError: openAddLocationModal is not defined at HTMLButtonElement.onclick (https://vbn.talkingheads.video/admin/admin_locations.php:190:96)`
-  - Additional syntax error: `Uncaught SyntaxError: Identifier 'viewContainer' has already been declared (https://vbn.talkingheads.video/js/admin_locations.js:304)`
+  - Console error: `ReferenceError: openAddLocationModal is not defined at HTMLButtonElement.onclick (admin/admin_locations.php:190:96)`
+  - Additional syntax error: `Uncaught SyntaxError: Identifier 'viewContainer' has already been declared (js/admin_locations.js:304)`
   - Suggests the JavaScript function `openAddLocationModal()` is either not defined or not loaded
   - May be missing from the JavaScript file or not included on the page
   - The `viewContainer` variable is declared multiple times, causing a syntax error
@@ -707,7 +707,7 @@ Each error entry follows this structure:
   - "Manage Location" should navigate to locations page
   - "Manage Item" should navigate to items page
 - **Actual Behavior**: 
-  - JavaScript error: "Uncaught Error: Element not found (https://vbn.talkingheads.video/index.php:412)"
+  - JavaScript error: "Uncaught Error: Element not found (index.php:412)"
   - Links do not navigate to their intended pages
   - Error occurs for all tested links on the home page
 - **Screenshots/Notes**: 
@@ -821,7 +821,7 @@ Each error entry follows this structure:
   - Clicking View button should open a modal displaying the item's details
   - Clicking Edit button should open a modal with the item's data pre-filled for editing
 - **Actual Behavior**: 
-  - JavaScript error: "Uncaught Error: Element not found (https://vbn.talkingheads.video/admin/admin_items.php:412)"
+  - JavaScript error: "Uncaught Error: Element not found (admin/admin_items.php:412)"
   - No modal appears
   - Buttons do not function
 - **Screenshots/Notes**: 
@@ -848,7 +848,7 @@ Each error entry follows this structure:
   - Clicking Cancel button should mark the boon as cancelled
   - Clicking Delete button should open a confirmation dialog and delete the boon
 - **Actual Behavior**: 
-  - JavaScript error: "Uncaught Error: Element not found (https://vbn.talkingheads.video/admin/boon_ledger.php:412)"
+  - JavaScript error: "Uncaught Error: Element not found (admin/boon_ledger.php:412)"
   - No modal or dialog appears
   - Buttons do not function
 - **Screenshots/Notes**: 
@@ -876,7 +876,7 @@ Each error entry follows this structure:
   - Table should refresh with the appropriate page of results
   - Page number should update to reflect current page
 - **Actual Behavior**: 
-  - JavaScript error: "Uncaught Error: Element not found (https://vbn.talkingheads.video/admin/admin_npc_briefing.php:412)"
+  - JavaScript error: "Uncaught Error: Element not found (admin/admin_npc_briefing.php:412)"
   - Pagination does not work
   - Table does not navigate to different pages
 - **Screenshots/Notes**: 
@@ -928,7 +928,7 @@ Each error entry follows this structure:
   - All JavaScript functions should be properly declared
   - No duplicate variable declarations
 - **Actual Behavior**: 
-  - JavaScript error: "Uncaught SyntaxError: Identifier 'viewContainer' has already been declared (https://vbn.talkingheads.video/js/admin_locations.js:304)"
+  - JavaScript error: "Uncaught SyntaxError: Identifier 'viewContainer' has already been declared (js/admin_locations.js:304)"
   - Error occurs on page load
   - May prevent some JavaScript functionality from working
 - **Screenshots/Notes**: 

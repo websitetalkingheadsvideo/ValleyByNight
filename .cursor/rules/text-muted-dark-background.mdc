@@ -1,12 +1,12 @@
 ---
-description: Never use text-muted utility class on dark backgrounds - use opacity utilities instead
+description: Never use text-muted utility class - use opacity utilities instead
 globs: **/*.php, **/*.html, **/*.css
 alwaysApply: true
 ---
 
-# Text-Muted on Dark Backgrounds Rule
+# Text-Muted Rule
 
-- **Main Rule**: Never use the `text-muted` Bootstrap utility class on dark backgrounds. Use opacity utilities or appropriate text color classes instead.
+- **Main Rule**: NEVER use the `text-muted` Bootstrap utility class in this project. Use opacity utilities or appropriate text color classes instead.
 
 - **Problem:**
   - `text-muted` applies a light gray color (`#6c757d` in Bootstrap) that has poor contrast on dark backgrounds
@@ -21,7 +21,7 @@ alwaysApply: true
 - **Examples:**
 
   ```html
-  <!-- ❌ DON'T: text-muted on dark background -->
+  <!-- ❌ DON'T: Never use text-muted -->
   <div class="bg-dark">
       <p class="text-muted">This is hard to read</p>
   </div>
@@ -63,6 +63,6 @@ alwaysApply: true
   - Use browser dev tools to check contrast ratios
 
 - **Enforcement:**
-  - Check for `text-muted` usage in components with dark backgrounds
-  - Replace with appropriate opacity or text color utilities
+  - NEVER use `text-muted` in this project
+  - Replace any existing instances with appropriate opacity or text color utilities
   - Verify contrast ratios meet accessibility standards

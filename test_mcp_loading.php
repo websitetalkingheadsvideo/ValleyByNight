@@ -8,7 +8,7 @@
  * 3. Loading key documentation files
  * 4. Displaying chapter metadata
  * 
- * Run via browser: https://vbn.talkingheads.video/test_mcp_loading.php
+ * Run via browser: test_mcp_loading.php
  */
 
 declare(strict_types=1);

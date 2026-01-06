@@ -6,7 +6,7 @@
  * 
  * Usage:
  *   CLI: php database/assign_helena_crowly_primogen.php
- *   Web: https://vbn.talkingheads.video/database/assign_helena_crowly_primogen.php
+ *   Web: database/assign_helena_crowly_primogen.php
  */
 
 declare(strict_types=1);

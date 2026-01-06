@@ -5,7 +5,7 @@
  * This fixes the case sensitivity issue where local uses 'agents' 
  * but remote server uses 'Agent'
  * 
- * Run via browser: https://vbn.talkingheads.video/database/update_mcp_path_to_agent.php
+ * Run via browser: database/update_mcp_path_to_agent.php
  */
 
 declare(strict_types=1);

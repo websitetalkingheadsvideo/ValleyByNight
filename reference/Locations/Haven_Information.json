@@ -1,0 +1,102 @@
+{
+  "search_date": "2025-01-11",
+  "files_found": [
+    {
+      "file_path": "reference/Locations/valley_by_night_havens.json",
+      "folder": "reference/Locations",
+      "file_type": "json",
+      "found_via": "known_haven_file|filename|content_search",
+      "contains_haven_in_name": true,
+      "contains_haven_in_content": true
+    },
+    {
+      "file_path": "reference/Locations/Mesa Storm Drains.json",
+      "folder": "reference/Locations",
+      "file_type": "json",
+      "found_via": "known_haven_file|content_search",
+      "contains_haven_in_name": false,
+      "contains_haven_in_content": true
+    },
+    {
+      "file_path": "reference/Locations/The Bunker - Computer Room.json",
+      "folder": "reference/Locations",
+      "file_type": "json",
+      "found_via": "known_haven_file|content_search",
+      "contains_haven_in_name": false,
+      "contains_haven_in_content": true
+    },
+    {
+      "file_path": "reference/Locations/The Warrens.json",
+      "folder": "reference/Locations",
+      "file_type": "json",
+      "found_via": "known_haven_file|content_search",
+      "contains_haven_in_name": false,
+      "contains_haven_in_content": true
+    },
+    {
+      "file_path": "reference/Locations/Chantry/DESIGN MAXIM FOR THE CHANTRY.md",
+      "folder": "reference/Locations/Chantry",
+      "file_type": "md",
+      "found_via": "content_search",
+      "contains_haven_in_name": false,
+      "contains_haven_in_content": true
+    },
+    {
+      "file_path": "reference/Locations/Rooseverlt Row/A FAILED TOREADOR ARC.md",
+      "folder": "reference/Locations/Rooseverlt Row",
+      "file_type": "md",
+      "found_via": "content_search",
+      "contains_haven_in_name": false,
+      "contains_haven_in_content": true
+    },
+    {
+      "file_path": "reference/Locations/location_questionnaire.md",
+      "folder": "reference/Locations",
+      "file_type": "md",
+      "found_via": "content_search",
+      "contains_haven_in_name": false,
+      "contains_haven_in_content": true
+    },
+    {
+      "file_path": "reference/Locations/Location Style Summary — Template.json",
+      "folder": "reference/Locations",
+      "file_type": "json",
+      "found_via": "content_search",
+      "contains_haven_in_name": false,
+      "contains_haven_in_content": true
+    },
+    {
+      "file_path": "reference/Locations/location_template.json",
+      "folder": "reference/Locations",
+      "file_type": "json",
+      "found_via": "content_search",
+      "contains_haven_in_name": false,
+      "contains_haven_in_content": true
+    },
+    {
+      "file_path": "Prompts/Haven_Desription.md",
+      "folder": "Prompts",
+      "file_type": "md",
+      "found_via": "known_haven_file|filename|content_search",
+      "contains_haven_in_name": true,
+      "contains_haven_in_content": true
+    },
+    {
+      "file_path": "tmp/session_report_2025-12-03-pc-havens-system.md",
+      "folder": "tmp",
+      "file_type": "md",
+      "found_via": "known_haven_file|filename|content_search",
+      "contains_haven_in_name": true,
+      "contains_haven_in_content": true
+    }
+  ],
+  "summary": {
+    "total_files": 11,
+    "json_files": 6,
+    "md_files": 5,
+    "files_with_haven_in_name": 3,
+    "from_content_search": 11,
+    "from_git_history": 0,
+    "note": "Git history search returned no results. Content search found 484 total files containing 'haven', filtered to JSON and MD files. PC Havens directory and Violet Reliquary directory excluded per user request."
+  }
+}

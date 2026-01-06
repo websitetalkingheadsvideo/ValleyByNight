@@ -5,7 +5,7 @@
  * This script creates the influence_effects table and seeds it with all effects
  * for the 15 types of Influence from Laws of the Night (1st Edition).
  * 
- * Run via browser: https://vbn.talkingheads.video/database/create_influence_effects_table.php
+ * Run via browser: database/create_influence_effects_table.php
  * Or via CLI: php database/create_influence_effects_table.php
  */
 

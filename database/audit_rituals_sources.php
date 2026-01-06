@@ -7,7 +7,7 @@
  * 
  * Usage: 
  *   CLI: php database/audit_rituals_sources.php [--dry-run]
- *   Web: https://vbn.talkingheads.video/database/audit_rituals_sources.php?dry_run=1
+ *   Web: database/audit_rituals_sources.php?dry_run=1
  */
 
 declare(strict_types=1);

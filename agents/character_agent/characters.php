@@ -981,7 +981,7 @@ function displayResults(results, query) {
                 const count = analyticalResult.count;
                 html += '<p class="mb-2 text-light"><strong>' + clanNames + '</strong> with <strong>' + count + '</strong> NPC' + (count !== 1 ? 's' : '') + '</p>';
                 if (analyticalResult.clans.length > 1) {
-                    html += '<p class="mb-0 text-muted small">(Tied for most)</p>';
+                    html += '<p class="mb-0 opacity-75 small">(Tied for most)</p>';
                 }
             } else {
                 html += '<p class="mb-0 text-light">No NPCs found in database.</p>';
@@ -1000,7 +1000,7 @@ function displayResults(results, query) {
                 const count = analyticalResult.count;
                 html += '<p class="mb-2 text-light"><strong>' + clanNames + '</strong> with <strong>' + count + '</strong> PC' + (count !== 1 ? 's' : '') + '</p>';
                 if (analyticalResult.clans.length > 1) {
-                    html += '<p class="mb-0 text-muted small">(Tied for most)</p>';
+                    html += '<p class="mb-0 opacity-75 small">(Tied for most)</p>';
                 }
             } else {
                 html += '<p class="mb-0 text-light">No PCs found in database.</p>';
@@ -1019,7 +1019,7 @@ function displayResults(results, query) {
                 const count = analyticalResult.count;
                 html += '<p class="mb-2 text-light"><strong>' + clanNames + '</strong> with <strong>' + count + '</strong> character' + (count !== 1 ? 's' : '') + '</p>';
                 if (analyticalResult.clans.length > 1) {
-                    html += '<p class="mb-0 text-muted small">(Tied for most)</p>';
+                    html += '<p class="mb-0 opacity-75 small">(Tied for most)</p>';
                 }
             } else {
                 html += '<p class="mb-0 text-light">No characters found in database.</p>';

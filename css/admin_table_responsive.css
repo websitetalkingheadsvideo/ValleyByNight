@@ -1,0 +1,228 @@
+/**
+ * Admin Table Responsive System
+ * Reusable CSS for all admin data tables with strict no-horizontal-scroll policy
+ * 
+ * Column Visibility Priority System:
+ * - Name and Actions columns are ALWAYS visible (highest priority)
+ * - Other columns hide progressively as viewport narrows
+ * - NEVER allows horizontal scrollbars at any viewport width
+ * 
+ * Usage:
+ * 1. Apply to table wrapper: .table-responsive (Bootstrap class)
+ * 2. Table must have Name as 2nd column and Actions as last column
+ * 3. Adjust breakpoints and column selectors per table structure
+ */
+
+/* ============================================
+   GLOBAL RULES: NO HORIZONTAL SCROLL EVER
+   ============================================ */
+
+/* Override Bootstrap's default table-responsive behavior */
+.table-responsive {
+    overflow-x: hidden !important; /* ABSOLUTE: No horizontal scrollbars ever */
+    overflow-y: auto;
+    position: relative;
+}
+
+/* Remove any min-width constraints that force horizontal scroll */
+.admin-table-responsive table {
+    width: 100%;
+    max-width: 100%;
+    table-layout: auto; /* Allow flexible column widths */
+}
+
+/* Ensure table wrapper never allows horizontal scroll */
+.admin-table-wrapper {
+    overflow-x: hidden !important;
+    overflow-y: hidden;
+}
+
+/* ============================================
+   LOCATIONS TABLE SPECIFIC
+   Column order: ID, Name, Type, Status, District, Owner Type, PC Earnable, Actions
+   ============================================ */
+
+#locationsTable {
+    width: 100%;
+    max-width: 100%;
+    table-layout: auto;
+}
+
+/* Base: All columns visible on large screens */
+#locationsTable th,
+#locationsTable td {
+    display: table-cell;
+}
+
+/* Breakpoint 1: Hide ID column (1st) below 1400px */
+@media (max-width: 1399.98px) {
+    #locationsTable th:nth-child(1),
+    #locationsTable td:nth-child(1) {
+        display: none;
+    }
+}
+
+/* Breakpoint 2: Hide PC Earnable (7th) below 1200px */
+@media (max-width: 1199.98px) {
+    #locationsTable th:nth-child(7),
+    #locationsTable td:nth-child(7) {
+        display: none;
+    }
+}
+
+/* Breakpoint 3: Hide Owner Type (6th) below 1000px */
+@media (max-width: 999.98px) {
+    #locationsTable th:nth-child(6),
+    #locationsTable td:nth-child(6) {
+        display: none;
+    }
+}
+
+/* Breakpoint 4: Hide District (5th) below 800px */
+@media (max-width: 799.98px) {
+    #locationsTable th:nth-child(5),
+    #locationsTable td:nth-child(5) {
+        display: none;
+    }
+}
+
+/* Breakpoint 5: Hide Status (4th) below 650px */
+@media (max-width: 649.98px) {
+    #locationsTable th:nth-child(4),
+    #locationsTable td:nth-child(4) {
+        display: none;
+    }
+}
+
+/* Breakpoint 6: Hide Type (3rd) below 500px - only Name + Actions remain */
+@media (max-width: 499.98px) {
+    #locationsTable th:nth-child(3),
+    #locationsTable td:nth-child(3) {
+        display: none;
+    }
+    
+    /* Reduce padding on mobile for remaining columns */
+    #locationsTable th:nth-child(2),
+    #locationsTable td:nth-child(2),
+    #locationsTable th:nth-child(8),
+    #locationsTable td:nth-child(8) {
+        padding: 8px 6px;
+        font-size: 0.9em;
+    }
+}
+
+/* Breakpoint 7: Extra small - further reduce padding */
+@media (max-width: 399.98px) {
+    #locationsTable th:nth-child(2),
+    #locationsTable td:nth-child(2),
+    #locationsTable th:nth-child(8),
+    #locationsTable td:nth-child(8) {
+        padding: 6px 4px;
+        font-size: 0.85em;
+    }
+}
+
+/* ============================================
+   ITEMS TABLE SPECIFIC
+   Column order: ID, Name, Type, Category, Damage, Range, Rarity, Price, Actions
+   ============================================ */
+
+#itemsTable {
+    width: 100%;
+    max-width: 100%;
+    table-layout: auto;
+}
+
+/* Base: All columns visible on large screens */
+#itemsTable th,
+#itemsTable td {
+    display: table-cell;
+}
+
+/* Breakpoint 1: Hide ID (1st) below 1600px */
+@media (max-width: 1599.98px) {
+    #itemsTable th:nth-child(1),
+    #itemsTable td:nth-child(1) {
+        display: none;
+    }
+}
+
+/* Breakpoint 2: Hide Price (8th) below 1400px */
+@media (max-width: 1399.98px) {
+    #itemsTable th:nth-child(8),
+    #itemsTable td:nth-child(8) {
+        display: none;
+    }
+}
+
+/* Breakpoint 3: Hide Rarity (7th) below 1200px */
+@media (max-width: 1199.98px) {
+    #itemsTable th:nth-child(7),
+    #itemsTable td:nth-child(7) {
+        display: none;
+    }
+}
+
+/* Breakpoint 4: Hide Range (6th) below 1000px */
+@media (max-width: 999.98px) {
+    #itemsTable th:nth-child(6),
+    #itemsTable td:nth-child(6) {
+        display: none;
+    }
+}
+
+/* Breakpoint 5: Hide Damage (5th) below 850px */
+@media (max-width: 849.98px) {
+    #itemsTable th:nth-child(5),
+    #itemsTable td:nth-child(5) {
+        display: none;
+    }
+}
+
+/* Breakpoint 6: Hide Category (4th) below 700px */
+@media (max-width: 699.98px) {
+    #itemsTable th:nth-child(4),
+    #itemsTable td:nth-child(4) {
+        display: none;
+    }
+}
+
+/* Breakpoint 7: Hide Type (3rd) below 550px - only Name + Actions remain */
+@media (max-width: 549.98px) {
+    #itemsTable th:nth-child(3),
+    #itemsTable td:nth-child(3) {
+        display: none;
+    }
+    
+    /* Reduce padding on mobile */
+    #itemsTable th:nth-child(2),
+    #itemsTable td:nth-child(2),
+    #itemsTable th:nth-child(9),
+    #itemsTable td:nth-child(9) {
+        padding: 8px 6px;
+        font-size: 0.9em;
+    }
+}
+
+/* ============================================
+   GENERAL ADMIN TABLE PATTERNS
+   ============================================ */
+
+/* Ensure Name column (typically 2nd) and Actions (last) are always visible */
+.admin-table-responsive table th:nth-child(2),
+.admin-table-responsive table td:nth-child(2),
+.admin-table-responsive table th:last-child,
+.admin-table-responsive table td:last-child {
+    display: table-cell !important; /* Force visibility override */
+}
+
+/* Mobile optimizations for always-visible columns */
+@media (max-width: 499.98px) {
+    .admin-table-responsive table th:nth-child(2),
+    .admin-table-responsive table td:nth-child(2),
+    .admin-table-responsive table th:last-child,
+    .admin-table-responsive table td:last-child {
+        padding: 8px 6px;
+        font-size: 0.9em;
+    }
+}

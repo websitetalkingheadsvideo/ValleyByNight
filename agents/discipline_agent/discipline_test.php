@@ -242,7 +242,7 @@ if (isset($conn)) {
                                                     </div>
                                                 <?php endif; ?>
                                                 <?php if (!empty($power['prerequisites'])): ?>
-                                                    <div class="text-muted mt-1" style="font-size: 0.85em;">
+                                                    <div class="opacity-75 mt-1" style="font-size: 0.85em;">
                                                         <em>Prerequisites: <?= htmlspecialchars($power['prerequisites']) ?></em>
                                                     </div>
                                                 <?php endif; ?>

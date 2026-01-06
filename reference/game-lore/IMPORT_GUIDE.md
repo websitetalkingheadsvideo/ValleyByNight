@@ -9,8 +9,8 @@
    
    **Web Browser:**
    ```
-   https://vbn.talkingheads.video/database/import_characters.php?file=Misfortune.json
-   https://vbn.talkingheads.video/database/import_characters.php?all=1
+database/import_characters.php?file=Misfortune.json
+database/import_characters.php?all=1
    ```
    
    **Command Line:**
@@ -79,7 +79,7 @@ Characters must be in JSON format matching `character-example.json`:
 ### Import Single Character (Misfortune):
 **Web:**
 ```
-https://vbn.talkingheads.video/database/import_characters.php?file=Misfortune.json
+database/import_characters.php?file=Misfortune.json
 ```
 
 **CLI:**
@@ -90,7 +90,7 @@ php database/import_characters.php Misfortune.json
 ### Import All Characters:
 **Web:**
 ```
-https://vbn.talkingheads.video/database/import_characters.php?all=1
+database/import_characters.php?all=1
 ```
 
 **CLI:**

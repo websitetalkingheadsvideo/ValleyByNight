@@ -13,7 +13,7 @@
  * - Skipping duplicates based on rumor_name
  * 
  * Usage: Run via web browser
- * URL: https://vbn.talkingheads.video/database/import_rumors.php
+ * URL: database/import_rumors.php
  */
 
 error_reporting(E_ALL);

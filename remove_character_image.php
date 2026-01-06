@@ -41,7 +41,10 @@ try {
     
     $character = $result->fetch_assoc();
     $is_owner = ($character['user_id'] == $_SESSION['user_id']);
-    $is_admin = (isset($_SESSION['role']) && ($_SESSION['role'] === 'admin' || $_SESSION['role'] === 'storyteller'));
+    require_once __DIR__ . '/includes/verify_role.php';
+    $user_id = $_SESSION['user_id'] ?? 0;
+    $user_role = verifyUserRole($conn, $user_id);
+    $is_admin = isAdminUser($user_role);
     
     if (!$is_owner && !$is_admin) {
         http_response_code(403);

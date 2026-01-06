@@ -41,19 +41,18 @@
     width: 100%;
     max-width: 100%;
     border-collapse: collapse;
-    table-layout: fixed;
+    table-layout: auto; /* Changed from fixed to allow flexible column widths */
     box-sizing: border-box;
 }
 
-/* Actions column - MUST be visible ALWAYS - 10% */
+/* Actions column - MUST be visible ALWAYS */
 .items-table th:last-child,
 .items-table td:last-child {
-    width: 10%;
-    max-width: 10%;
-    min-width: 160px;
+    min-width: 150px;
+    width: 150px;
+    max-width: 150px;
     text-align: center;
-    position: sticky;
-    right: 0;
+    /* Removed sticky positioning - not needed when no horizontal scroll */
     background: inherit;
     z-index: 10;
     box-sizing: border-box;

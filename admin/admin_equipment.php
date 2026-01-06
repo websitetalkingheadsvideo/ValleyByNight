@@ -200,7 +200,7 @@ while ($char = $characters_result->fetch_assoc()) {
             <div class="form-group mb-3">
                 <label for="equipmentRequirements" class="form-label">Requirements</label>
                 <textarea id="equipmentRequirements" name="requirements" class="form-control" rows="3" placeholder='e.g., strength: 3, dexterity: 2'></textarea>
-                <small class="form-text text-muted" style="color: #d4c4b0; font-size: 0.85em;">Format: attribute: value, attribute2: value2</small>
+                <small class="form-text opacity-75" style="color: #d4c4b0; font-size: 0.85em;">Format: attribute: value, attribute2: value2</small>
             </div>
             
             <div class="form-group mb-3">

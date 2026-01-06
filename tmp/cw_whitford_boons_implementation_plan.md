@@ -207,7 +207,7 @@ All boons must be validated, logged with Harpy, and the system must be idempoten
   - Usage instructions
 
 #### Step 5.3: Create CLI/Web Interface
-- **Web**: Access via `https://vbn.talkingheads.video/database/generate_cw_whitford_boons.php`
+- **Web**: Access via `database/generate_cw_whitford_boons.php`
 - **CLI**: `php database/generate_cw_whitford_boons.php` (if needed)
 - **Output**: HTML-formatted report (similar to Misfortune script)
 

@@ -172,6 +172,15 @@ $all_characters = db_fetch_all($conn, "SELECT id, character_name, clan, player_n
         <a href="../phoenix_map.php" class="btn btn-outline-primary">
             <i class="fas fa-map"></i> View Phoenix Map
         </a>
+        <a href="../database/check_location_types.php" class="btn btn-outline-info" target="_blank">
+            <i class="fas fa-search"></i> Check Location Types
+        </a>
+        <a href="../database/check_missing_locations.php" class="btn btn-outline-warning" target="_blank">
+            <i class="fas fa-exclamation-triangle"></i> Check Missing Locations
+        </a>
+        <a href="../database/restore_main_locations.php" class="btn btn-outline-success" target="_blank">
+            <i class="fas fa-undo"></i> Restore Main Locations
+        </a>
     </div>
 
     <!-- Locations Table -->
@@ -237,6 +246,7 @@ include __DIR__ . '/../includes/modal_base.php';
 ?>
 
 <!-- Include external CSS -->
+<link rel="stylesheet" href="../css/admin_table_responsive.css">
 <link rel="stylesheet" href="../css/admin_locations.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 

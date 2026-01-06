@@ -7,7 +7,7 @@
  * TO USE:
  * 1. Wait until your site is back up and database access is restored
  * 2. Upload this file to your server
- * 3. Access it via: https://vbn.talkingheads.video/check_books_when_ready.php
+ * 3. Access it via: check_books_when_ready.php
  * 4. It will create a file called 'books_report.txt with all the details
  */
 

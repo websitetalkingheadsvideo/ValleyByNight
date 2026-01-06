@@ -327,7 +327,7 @@ function renderFamilyTree(tree) {
             html += `<div class="card bg-secondary border-danger h-100">`;
             html += `<div class="card-body">`;
             html += `<h5 class="card-title text-light">${char.character_name}</h5>`;
-            html += `<p class="card-text text-muted mb-2">${char.clan}</p>`;
+            html += `<p class="card-text opacity-75 mb-2">${char.clan}</p>`;
             if (char.sire) {
                 html += `<p class="card-text small text-danger mb-1"><strong>Sired by:</strong> ${char.sire}</p>`;
             }

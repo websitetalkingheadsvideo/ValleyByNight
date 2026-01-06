@@ -4,7 +4,7 @@
  * 
  * Demonstrates how to connect to and load the Style Agent MCP from the database.
  * 
- * Run via browser: https://vbn.talkingheads.video/connect_to_style_agent_mcp.php
+ * Run via browser: connect_to_style_agent_mcp.php
  */
 
 declare(strict_types=1);
