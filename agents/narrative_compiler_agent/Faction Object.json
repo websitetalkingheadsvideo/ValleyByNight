@@ -1,0 +1,11 @@
+{
+    "faction_id": "fac_camarilla_phx",
+    "name": "Camarilla (Phoenix)",
+    "goals": ["stabilize succession", "protect Masquerade"],
+    "methods": ["boons", "status", "threats"],
+    "pressure_points": ["Prince death fallout", "Anarch agitation"],
+    "assets": ["Elysium access", "Harpies", "Sheriff apparatus"],
+    "enemies": ["fac_anarch_24th", "fac_sabbat_guadalupe?"],
+    "notes": ""
+  }
+  

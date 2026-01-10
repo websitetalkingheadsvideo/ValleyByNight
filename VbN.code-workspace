@@ -4,5 +4,52 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"files.watcherExclude": {
+			"**/_notes/**": true,
+			"**/dwsync.xml": true
+		},
+		"files.exclude": {
+			"**/_notes": true,
+			"**/dwsync.xml": true
+		},
+		"search.exclude": {
+			"**/_notes": true,
+			"**/dwsync.xml": true
+		},
+		"files.watcherInclude": [
+			"**/*.md",
+			"**/*.php",
+			"**/*.css",
+			"**/*.js"
+		],
+		"files.autoSave": "afterDelay",
+		"files.autoSaveDelay": 1000,
+		"terminal.integrated.defaultProfile.windows": "Command Prompt",
+		"terminal.integrated.profiles.windows": {
+			"Command Prompt": {
+				"path": "C:\\Windows\\System32\\cmd.exe"
+			},
+			"PowerShell": {
+				"path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+			},
+			"PowerShell 7": {
+				"path": [
+					"${env:ProgramFiles}\\PowerShell\\7\\pwsh.exe",
+					"${env:ProgramFiles(x86)}\\PowerShell\\7\\pwsh.exe",
+					"${env:LOCALAPPDATA}\\Programs\\PowerShell\\pwsh.exe",
+					"${env:ProgramFiles}\\PowerShell\\7\\pwsh.exe"
+				]
+			}
+		},
+		"cursor.general.autoApproveCommands": true,
+		"cursor.terminal.autoApprove": true,
+		"workbench.commandPalette.experimental.suggestCommands": true,
+		"workbench.settings.enableNaturalLanguageSearch": true,
+		"workbench.settings.openDefaultSettings": false,
+		"workbench.settings.useSplitJSON": false
+	},
+	"extensions": {
+		"recommendations": []
+	}
 }

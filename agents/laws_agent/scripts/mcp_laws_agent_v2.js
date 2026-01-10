@@ -443,6 +443,11 @@ class LawsAgentMCPServer {
     }
 
     async handleMessage(message) {
+        // Notifications don't have an id and should be ignored (no response)
+        if (!message.hasOwnProperty('id')) {
+            return null;
+        }
+
         switch (message.method) {
             case 'initialize':
                 return {

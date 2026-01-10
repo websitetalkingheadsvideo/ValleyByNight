@@ -1,0 +1,10 @@
+{
+    "location_id": "loc_hawthorn_estate",
+    "name": "Hawthorn Estate",
+    "type": "Elysium",
+    "narrative_roles": ["power_stage", "secret_meeting_space", "inciting_incident_site"],
+    "constraints": ["2nd and 4th Saturdays", "high status policing"],
+    "connected_factions": ["fac_camarilla_phx"],
+    "hooks": ["private wings for intrigues", "staff as information vectors"]
+  }
+  

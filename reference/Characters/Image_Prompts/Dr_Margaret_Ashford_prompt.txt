@@ -1,75 +1,18 @@
-Square portrait of Dr. Margaret Ashford, a Tremere scholar from Valley by Night, depicted in a cinematic World of Darkness style. 
+Square portrait of Dr. Margaret Ashford, Tremere scholar, candid cinematic moment, World of Darkness style, captured mid-thought, observed not staged, 1:1 aspect ratio
 
-PHYSICAL DESCRIPTION:
-- Impeccably groomed Victorian scholar in tailored dove-gray traveling suit with high-collared blouse trimmed with subtle lace
-- Raven hair swept into a precise chignon, arranged with obsessive symmetry
-- Cold blue eyes behind gilt spectacles that catch and reflect light
-- Always wearing gloves (leather or fine fabric)
-- Ramrod straight posture, every motion measured and precise
-- Sharp, intelligent features with a scholarly bearing
-- Steady-handed, coordinated movements suggesting methodical precision
+Victorian scholar woman, impeccably groomed, tailored dove-gray traveling suit, high-collared blouse with subtle lace trim, raven hair in precise chignon, cold blue eyes, gilt spectacles catching light, wearing leather gloves, ramrod straight posture, sharp intelligent features, scholarly bearing
 
-ATTIRE & EQUIPMENT:
-- Dove-gray Victorian traveling suit, immaculate and perfectly tailored
-- High-collared blouse with subtle lace trim
-- Gilt (golden) spectacles that catch light
-- Gloves always on (leather or fine fabric)
-- May hold or be near: leather-bound journals, quills, warding implements, occult texts on protective magic
-- Research materials arranged with obsessive symmetry
-- Victorian-era academic accessories
+Nighttime interior scene, Victorian study or library, candlelight and oil lamps, shaded electric lamps, no daylight, dark curtained windows, deeper shadows, slightly underlit exposure, moody dramatic lighting, medium-high contrast, single warm key light source (muted gold amber), soft fill light, volumetric lighting, dust particles, soft haze, shallow depth of field, blurred background
 
-LIGHTING & ATMOSPHERE:
-- Moody and dramatic lighting with medium-high contrast
-- Single warm or cool key light source (muted gold or soft amber)
-- Soft fill light, minimal rim lighting
-- Volumetric or directional lighting
-- Subtle environmental effects: candlelight, dust particles, or soft haze
-- Shallow depth of field, blurred background suggesting personal environment (study, library, or Elysium hall)
-- Cinematic warm-cool balance
+Dove-gray suit, muted gold amber accents, cool teal shadows, subtle crimson hints, low to medium saturation, cinematic warm-cool color grading
 
-COLOR PALETTE:
-- Primary: Dove-gray suit, muted gold/amber accents (spectacles, candlelight)
-- Secondary: Cool teal shadows, subtle crimson hints (Tremere clan association)
-- Low to medium saturation
-- Cinematic grading with warm-cool balance
-- Avoid overly bright or saturated scenes
+Elegant restraint, poised diplomatic authoritative presence, scholarly focus, underlying emotional tension, slight unease, distant look, perfectionist nature, Victorian propriety, intellectual strain, concentration interrupted, hint of fatigue tension guardedness, beauty incidental, private intimate scene, film-still atmosphere, slightly imperfect framing, mid-motion posture, partially obscured elements
 
-MOOD & EXPRESSION:
-- Elegant restraint with visible humanity
-- Poised, diplomatic, authoritative presence
-- Scholarly focus with underlying emotional tension
-- Slight unease or distant look suggesting the fae enchantment (subtle, not obvious)
-- Perfectionist nature visible in precise arrangement of everything
-- Victorian propriety and academic integrity
-- Eyes may hold a question she cannot name—suggesting the enchantment's subtle influence
+Semi-realistic digital painting, painterly realism, sharp eyes and face, World of Darkness cinematic realism, noir-inspired elegant emotional subdued, film-still quality
 
-COMPOSITION:
-- Square 1:1 aspect ratio, portrait framing
-- Film-still atmosphere, intimate and realistic
-- Focus on eyes and face as sharp focal point
-- Background implying personal environment: Victorian study, library with occult texts, or elegant Elysium setting
-- Everything arranged with obsessive symmetry reflecting her perfectionist nature
+Gilt spectacles, leather-bound journals, quills, warding implements, occult texts, protective magic, faint glyphs symbols in background, Victorian academic accessories, research materials, obsessive symmetry
 
-STYLE:
-- Semi-realistic digital painting
-- Slightly softened for painterly realism
-- Eyes and face remain sharp focal point
-- World of Darkness cinematic realism
-- Noir-inspired, elegant, emotional, subdued
-- Avoid: flat lighting, excessive sharpness, overly bright scenes, comedic or cartoon tones
+---
 
-SPECIAL ELEMENTS:
-- Gilt spectacles catching light (muted gold)
-- Subtle suggestion of protective magic/warding (perhaps faint glyphs or symbols in background, very subtle)
-- Victorian academic elegance
-- Tremere scholarly precision
-- Underlying tension from fae enchantment (very subtle, dream-like quality, not obvious)
-
-TECHNICAL NOTES:
-- Square portrait format (1:1)
-- Cinematic World of Darkness style
-- Medium-high contrast lighting
-- Low to medium saturation
-- Shallow depth of field
-- Semi-realistic digital painting with painterly realism
-- Focus on emotional restraint with visible humanity
+NEGATIVE PROMPT:
+glamour lighting, fantasy illustration polish, idealized symmetry, book cover, character sheet, posed portrait, daylight, skylight, blue sky, soft studio illumination, flat lighting, excessive sharpness, overly bright, saturated scenes, comedic, cartoon, anime, 3d render, cgi, photorealistic, hyperrealistic, perfect symmetry, centered composition, bright colors, high saturation, studio lighting, professional photography, glamour shot

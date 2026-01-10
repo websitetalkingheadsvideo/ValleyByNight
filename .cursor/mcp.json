@@ -22,7 +22,7 @@
     "laws-agent": {
       "command": "node",
       "args": [
-        "G:/VbN/agents/laws_agent/scripts/mcp_laws_agent_v2.js"
+        "V:\\agents\\laws_agent\\scripts\\mcp_laws_agent_v2.js"
       ],
       "env": {
         "ANTHROPIC_API_KEY": "${env:ANTHROPIC_API_KEY}",
@@ -31,7 +31,7 @@
         "DB_USER": "${env:DB_USER}",
         "DB_PASS": "${env:DB_PASS}",
         "DB_NAME": "${env:DB_NAME}",
-        "LAWS_AGENT_URL": "https://vbn.talkingheads.video"
+        "LAWS_AGENT_URL": "http://192.168.0.155/"
       }
     },
     "chrome-devtools": {
@@ -57,13 +57,13 @@
     "character-agent": {
       "command": "php",
       "args": [
-        "G:/VbN/agents/character_agent/server.php"
+        "V:\\agents/character_agent/server.php"
       ]
     },
     "style-agent": {
       "command": "php",
       "args": [
-        "G:/VbN/agents/style_agent/server.php"
+        "V:\\agents\\style_agent\\server.php"
       ]
     }
   }

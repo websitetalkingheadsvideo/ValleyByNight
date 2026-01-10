@@ -1,0 +1,19 @@
+{
+    "scene_seed_id": "ss_004",
+    "title": "Aftershock in the Main Hall",
+    "purpose": ["introduce factions", "seed suspect list", "establish Masquerade tension"],
+    "location_id": "loc_hawthorn_estate",
+    "participants": ["npc_rey_gonzalez", "npc_naomi_blackbird", "npc_roland_cross"],
+    "beats": [
+      "Court tries to maintain poise after the death",
+      "A Harpy quietly counts who leaves early",
+      "An Anarch observer notices security gaps"
+    ],
+    "player_choices": [
+      {"choice": "Follow the courier", "consequence": "unlock clue c01"},
+      {"choice": "Stay with Harpy gossip", "consequence": "unlock rumor rs_009"}
+    ],
+    "assets_needed": ["location mood shot", "crowd ambient loop"],
+    "risk": ["too many NPCs speaking; keep it player-led"]
+  }
+  

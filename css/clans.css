@@ -14,7 +14,7 @@
     margin: 3rem 0;
     padding: 1.5rem 0;
     border: none;
-    border-top: 2px solid var(--muted-gold, #d4b06d);
+    border-top: 2px solid var(--muted-gold);
     border-bottom: 1px solid rgba(212, 176, 109, 0.3);
     position: relative;
     text-align: center;
@@ -26,9 +26,9 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background: linear-gradient(135deg, #0d0606 0%, #1a0f0f 50%, #0d0606 100%);
+    background: linear-gradient(135deg, var(--bg-dark) 0%, var(--bg-darker) 50%, var(--bg-dark) 100%);
     padding: 0 1rem;
-    color: var(--muted-gold, #d4b06d);
+    color: var(--muted-gold);
     font-size: 1.2em;
 }
 
@@ -41,15 +41,15 @@
 /* ===== CLAN INDEX PAGE ===== */
 /* Enhancements for clans/index.php card layout */
 .clans-index .card {
-    background: linear-gradient(135deg, var(--deep-maroon, #2a1515) 0%, var(--dusk-brown-black, #1a0f0f) 100%);
-    border: 2px solid var(--blood-red, #8B0000);
+    background: linear-gradient(135deg, var(--deep-maroon) 0%, var(--dusk-brown-black) 100%);
+    border: 2px solid var(--blood-red);
     border-radius: 0.75rem;
     transition: all 0.3s ease;
     height: 100%;
 }
 
 .clans-index .card:hover {
-    border-color: var(--muted-gold, #d4b06d);
+    border-color: var(--muted-gold);
     box-shadow: 0 8px 30px rgba(139, 0, 0, 0.6);
 }
 
@@ -62,21 +62,21 @@
 
 
 .clans-index .card-title {
-    font-family: var(--font-title, 'Libre Baskerville'), serif;
-    color: var(--text-light, #f5e6d3);
+    font-family: var(--font-title);
+    color: var(--text-light);
     font-size: 1.5em;
     margin-bottom: 1rem;
 }
 
 .clans-index .card-text {
-    color: var(--text-mid, #d4b06d);
-    font-family: var(--font-body, 'Source Serif Pro'), serif;
+    color: var(--text-mid);
+    font-family: var(--font-body);
     line-height: 1.6;
 }
 
 .clans-index .character-blurb {
     font-style: italic;
-    color: var(--text-light, #f5e6d3);
+    color: var(--text-light);
     opacity: 0.75;
     margin-top: 1rem;
     padding-top: 1rem;
@@ -90,25 +90,25 @@
 }
 
 .clan-detail-section h2 {
-    font-family: var(--font-title, 'Libre Baskerville'), serif;
-    color: var(--text-light, #f5e6d3);
+    font-family: var(--font-title);
+    color: var(--text-light);
     font-size: 2em;
     margin-bottom: 1.5rem;
     padding-bottom: 0.5rem;
-    border-bottom: 2px solid var(--blood-red, #8B0000);
+    border-bottom: 2px solid var(--blood-red);
 }
 
 .clan-detail-section h3 {
-    font-family: var(--font-title, 'Libre Baskerville'), serif;
-    color: var(--text-light, #f5e6d3);
+    font-family: var(--font-title);
+    color: var(--text-light);
     font-size: 1.5em;
     margin-bottom: 1rem;
     margin-top: 1.5rem;
 }
 
 .clan-detail-section p {
-    font-family: var(--font-body, 'Source Serif Pro'), serif;
-    color: var(--text-mid, #d4b06d);
+    font-family: var(--font-body);
+    color: var(--text-mid);
     line-height: 1.8;
     margin-bottom: 1rem;
 }
@@ -117,7 +117,7 @@
 /* Source references styling */
 .clan-sources {
     font-size: 0.9em;
-    color: var(--text-light, #f5e6d3);
+    color: var(--text-light);
     opacity: 0.75;
     font-style: italic;
     margin-top: 1.5rem;
@@ -135,7 +135,7 @@
     max-width: 300px;
     width: 100%;
     height: auto;
-    border: 2px solid var(--blood-red, #8B0000);
+    border: 2px solid var(--blood-red);
     border-radius: 0.75rem;
     margin-bottom: 1.5rem;
 }
@@ -143,7 +143,7 @@
 /* Call to action section */
 .clan-cta {
     background: linear-gradient(135deg, rgba(139, 0, 0, 0.2) 0%, rgba(26, 15, 15, 0.4) 100%);
-    border: 2px solid var(--muted-gold, #d4b06d);
+    border: 2px solid var(--muted-gold);
     border-radius: 0.75rem;
     padding: 2rem;
     text-align: center;
@@ -156,7 +156,7 @@
 
 .clan-cta .note {
     font-size: 0.9em;
-    color: var(--text-light, #f5e6d3);
+    color: var(--text-light);
     opacity: 0.75;
     font-style: italic;
     margin-top: 1rem;

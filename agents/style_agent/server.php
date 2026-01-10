@@ -2,12 +2,28 @@
 // server.php - Valley by Night Style Agent MCP (PHP + MySQL)
 // Minimal STDIN/STDOUT loop exposing tools for Art Bible access.
 
+// Suppress any output that might interfere with JSON-RPC
+error_reporting(E_ALL);
+ini_set('display_errors', 0);
+ini_set('log_errors', 1);
+
 require __DIR__ . '/db.php';
 
 /**
- * Write a JSON response (one object per line) to STDOUT.
+ * Write a JSON-RPC 2.0 response to STDOUT.
  */
-function mcp_respond(array $response): void {
+function mcp_respond($id, $result = null, $error = null): void {
+    $response = [
+        'jsonrpc' => '2.0',
+        'id' => $id
+    ];
+    
+    if ($error !== null) {
+        $response['error'] = $error;
+    } else {
+        $response['result'] = $result;
+    }
+    
     fwrite(STDOUT, json_encode($response, JSON_UNESCAPED_UNICODE) . "\n");
     fflush(STDOUT);
 }
@@ -271,15 +287,97 @@ while (!feof(STDIN)) {
 
     $request = json_decode($line, true);
     if (!is_array($request)) {
-        mcp_respond([
-            'id'     => null,
-            'result' => ['ok' => false, 'error' => 'Invalid JSON in request']
-        ]);
+        mcp_respond(null, null, ['code' => -32700, 'message' => 'Parse error']);
         continue;
     }
 
+    // Handle MCP protocol initialization
+    if (isset($request['method'])) {
+        $method = $request['method'];
+        $params = $request['params'] ?? [];
+        $id = $request['id'] ?? null;
+        
+        // Handle initialize request
+        if ($method === 'initialize') {
+            mcp_respond($id, [
+                'protocolVersion' => '2024-11-05',
+                'capabilities' => [
+                    'tools' => []
+                ],
+                'serverInfo' => [
+                    'name' => 'vbn-style-agent-mcp',
+                    'version' => '1.0.0'
+                ]
+            ]);
+            continue;
+        }
+        
+        // Handle tools/list request
+        if ($method === 'tools/list') {
+            mcp_respond($id, [
+                'tools' => [
+                    ['name' => 'getMCPInfo', 'description' => 'Get Style Agent MCP metadata'],
+                    ['name' => 'getChapter', 'description' => 'Load a specific Art Bible chapter'],
+                    ['name' => 'listChapters', 'description' => 'List all available Art Bible chapters'],
+                    ['name' => 'getRules', 'description' => 'Load the RULES.md file'],
+                    ['name' => 'getPrompts', 'description' => 'Load the PROMPTS.md file'],
+                    ['name' => 'searchArtBible', 'description' => 'Search across Art Bible chapter files']
+                ]
+            ]);
+            continue;
+        }
+        
+        // Handle tools/call request
+        if ($method === 'tools/call') {
+            $toolName = $params['name'] ?? null;
+            $input = $params['arguments'] ?? [];
+            
+            try {
+                switch ($toolName) {
+                    case 'getMCPInfo':
+                        $result = tool_getMCPInfo($input);
+                        break;
+                    case 'getChapter':
+                        $result = tool_getChapter($input);
+                        break;
+                    case 'listChapters':
+                        $result = tool_listChapters($input);
+                        break;
+                    case 'getRules':
+                        $result = tool_getRules($input);
+                        break;
+                    case 'getPrompts':
+                        $result = tool_getPrompts($input);
+                        break;
+                    case 'searchArtBible':
+                        $result = tool_searchArtBible($input);
+                        break;
+                    default:
+                        mcp_respond($id, null, ['code' => -32601, 'message' => "Method not found: {$toolName}"]);
+                        continue 2;
+                }
+                
+                mcp_respond($id, $result);
+            } catch (Throwable $e) {
+                mcp_respond($id, null, ['code' => -32603, 'message' => 'Internal error: ' . $e->getMessage()]);
+            }
+            continue;
+        }
+        
+        // Unknown method
+        mcp_respond($id, null, ['code' => -32601, 'message' => "Method not found: {$method}"]);
+        continue;
+    }
+
+    // Fallback for non-MCP format (legacy support)
     $toolName = $request['tool']['name'] ?? null;
-    $input    = $request['input'] ?? [];
+    $input = $request['input'] ?? [];
+    $id = $request['id'] ?? null;
+
+    if (!$toolName) {
+        mcp_respond($id, null, ['code' => -32600, 'message' => 'Invalid request']);
+        continue;
+    }
 
     try {
         switch ($toolName) {
@@ -302,18 +400,13 @@ while (!feof(STDIN)) {
                 $result = tool_searchArtBible($input);
                 break;
             default:
-                $result = ['ok' => false, 'error' => "Unknown tool: {$toolName}"];
+                mcp_respond($id, null, ['code' => -32601, 'message' => "Unknown tool: {$toolName}"]);
+                continue;
         }
+        
+        mcp_respond($id, $result);
     } catch (Throwable $e) {
-        $result = [
-            'ok'    => false,
-            'error' => 'Server error: ' . $e->getMessage()
-        ];
+        mcp_respond($id, null, ['code' => -32603, 'message' => 'Server error: ' . $e->getMessage()]);
     }
-
-    mcp_respond([
-        'id'     => $request['id'] ?? null,
-        'result' => $result
-    ]);
 }
 
