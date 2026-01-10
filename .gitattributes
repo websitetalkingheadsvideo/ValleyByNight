@@ -1,0 +1,26 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Force CRLF for specific file types
+*.php text eol=crlf
+*.js text eol=crlf
+*.json text eol=crlf
+*.md text eol=crlf
+*.css text eol=crlf
+*.html text eol=crlf
+*.txt text eol=crlf
+*.workspace text eol=crlf
+*.code-workspace text eol=crlf
+*.mdc text eol=crlf
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.svg binary
+*.pdf binary
+*.mp3 binary
+*.bin binary
+*.pack binary

@@ -30,7 +30,7 @@ code, kbd, pre, samp,
 .form-select {
     background-color: rgba(26, 15, 15, 0.6);
     border: 2px solid rgba(139, 0, 0, 0.4);
-    border-radius: 5px;
+    border-radius: 0.75rem;
     color: var(--text-light);
     font-family: var(--font-body), 'Source Serif Pro', serif;
 }
@@ -43,10 +43,41 @@ code, kbd, pre, samp,
     color: var(--text-light);
 }
 
+/* Make placeholder text readable - NEVER grey/unreadable */
+.form-control::placeholder {
+    color: var(--text-light);
+    opacity: 1;
+}
+
+.form-control::-webkit-input-placeholder {
+    color: var(--text-light);
+    opacity: 1;
+}
+
+.form-control::-moz-placeholder {
+    color: var(--text-light);
+    opacity: 1;
+}
+
+.form-control:-ms-input-placeholder {
+    color: var(--text-light);
+    opacity: 1;
+}
+
+/* Make default select option text readable - NEVER grey/unreadable */
+.form-select option:first-child,
+.form-select option[value=""] {
+    color: var(--text-light);
+}
+
+.form-select option {
+    background-color: rgba(26, 15, 15, 0.95);
+    color: var(--text-light);
+}
+
 .form-label {
     font-family: var(--font-title), 'Libre Baskerville', serif;
     color: var(--text-light);
-    opacity: 0.75;
     font-weight: 600;
 }
 
@@ -75,10 +106,10 @@ code, kbd, pre, samp,
    ======================================== */
 
 .btn-primary {
-    background: linear-gradient(135deg, #8B0000 0%, #600000 100%);
+    background: linear-gradient(135deg, var(--blood-red) 0%, #600000 100%);
     border: 2px solid #b30000;
-    color: #f5e6d3;
-    border-radius: 5px;
+    color: var(--text-light);
+    border-radius: 0.75rem;
     font-family: var(--font-title), 'Libre Baskerville', serif;
     font-weight: 600;
     transition: all 0.3s ease;
@@ -86,9 +117,9 @@ code, kbd, pre, samp,
 
 .btn-primary:hover,
 .btn-primary:focus {
-    background: linear-gradient(135deg, #b30000 0%, #8B0000 100%);
+    background: linear-gradient(135deg, #b30000 0%, var(--blood-red) 100%);
     border-color: #b30000;
-    color: #f5e6d3;
+    color: var(--text-light);
     box-shadow: 0 5px 20px rgba(139, 0, 0, 0.4);
 }
 
@@ -101,7 +132,7 @@ code, kbd, pre, samp,
     background: transparent;
     border: 2px solid var(--muted-gold);
     color: var(--muted-gold);
-    border-radius: 5px;
+    border-radius: 0.75rem;
     font-family: var(--font-title), 'Libre Baskerville', serif;
     font-weight: 600;
     transition: all 0.3s ease;
@@ -124,7 +155,7 @@ code, kbd, pre, samp,
     background: transparent;
     color: var(--blood-red);
     border: 2px solid var(--blood-red);
-    border-radius: 5px;
+    border-radius: 0.75rem;
     font-family: var(--font-title), 'Libre Baskerville', serif;
     font-weight: 600;
     transition: all 0.3s ease;
@@ -132,8 +163,8 @@ code, kbd, pre, samp,
 
 .btn-outline-primary:hover,
 .btn-outline-primary:focus {
-    background: linear-gradient(135deg, #8B0000 0%, #600000 100%);
-    color: #f5e6d3;
+    background: linear-gradient(135deg, var(--blood-red) 0%, #600000 100%);
+    color: var(--text-light);
     box-shadow: 0 5px 20px rgba(139, 0, 0, 0.4);
 }
 
@@ -145,8 +176,8 @@ code, kbd, pre, samp,
 .btn-danger {
     background: linear-gradient(135deg, #660000 0%, #4a0000 100%);
     border: 2px solid #770000;
-    color: #f5e6d3;
-    border-radius: 5px;
+    color: var(--text-light);
+    border-radius: 0.75rem;
     font-family: var(--font-title), 'Libre Baskerville', serif;
     font-weight: 600;
     transition: all 0.3s ease;
@@ -155,9 +186,9 @@ code, kbd, pre, samp,
 
 .btn-danger:hover,
 .btn-danger:focus {
-    background: linear-gradient(135deg, #8B0000 0%, #660000 100%);
+    background: linear-gradient(135deg, var(--blood-red) 0%, #660000 100%);
     border-color: #990000;
-    color: #f5e6d3;
+    color: var(--text-light);
     box-shadow: 0 6px 20px rgba(0, 0, 0, 0.6), 0 3px 10px rgba(139, 0, 0, 0.5);
     transform: translateY(-2px);
 }
@@ -195,11 +226,11 @@ code, kbd, pre, samp,
    ======================================== */
 
 .card {
-    background: linear-gradient(135deg, #2a1515 0%, #1a0f0f 100%);
-    border: 2px solid #8B0000;
+    background: linear-gradient(135deg, var(--deep-maroon) 0%, var(--dusk-brown-black) 100%);
+    border: 2px solid var(--blood-red);
     border-radius: 0.75rem; /* Art Bible spec: 0.75rem - 1rem */
     box-shadow: 0 4px 15px rgba(139, 0, 0, 0.3);
-    color: #d4c4b0;
+    color: var(--text-mid);
     transition: all 0.3s ease;
 }
 
@@ -225,18 +256,18 @@ code, kbd, pre, samp,
 .card-header {
     border-bottom: 1px solid rgba(139, 0, 0, 0.35);
     background: transparent;
-    color: #f5e6d3;
+    color: var(--text-light);
     font-family: var(--font-title), 'Libre Baskerville', serif;
     font-weight: 600;
 }
 
 .card-body {
-    color: #d4c4b0;
+    color: var(--text-mid);
 }
 
 .card-title {
     font-family: var(--font-title), 'Libre Baskerville', serif;
-    color: #f5e6d3;
+    color: var(--text-light);
 }
 
 .card-text {

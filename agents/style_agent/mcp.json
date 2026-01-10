@@ -7,7 +7,7 @@
       "type": "stdio",
       "command": "php",
       "args": [
-        "G:\\VbN\\agents\\style_agent\\server.php"
+        "V:\\agents\\style_agent\\server.php"
       ]
     }
   ],

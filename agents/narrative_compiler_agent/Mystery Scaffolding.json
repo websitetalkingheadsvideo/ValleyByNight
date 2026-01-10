@@ -1,0 +1,30 @@
+{
+    "mystery_id": "mys_prince_murder",
+    "premise": "The Prince is killed during Elysium.",
+    "truths": [
+      {"truth_id": "t01", "statement": "Killing occurred between 10:40–11:05 PM", "certainty": "hard"}
+    ],
+    "suspects": [
+      {"id": "npc_x", "motive": "succession", "opportunity": "present", "means": "unknown"}
+    ],
+    "clues": [
+      {
+        "clue_id": "c01",
+        "type": "physical|social|occult|procedural",
+        "summary": "A witness saw a courier leave the east hallway.",
+        "points_to": ["suspect:npc_y", "location:loc_east_hall"],
+        "reliability": "medium",
+        "acquisition": {"method": "interview", "gate": "status_or_boon"}
+      }
+    ],
+    "red_herrings": [
+      {"rh_id": "rh01", "summary": "A staged Sabbat symbol to spark paranoia", "owner": "npc_z"}
+    ],
+    "reveal_gates": [
+      {"gate_id": "g01", "requires": ["c01", "c03"], "unlocks": ["truth:t03"]}
+    ],
+    "fail_safes": [
+      {"if": "players miss all interview clues", "then": "deliver clue via rumor_seed:rs_014"}
+    ]
+  }
+  

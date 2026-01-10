@@ -42,7 +42,7 @@
 
 .table-dark thead th,
 .table thead th {
-    background: linear-gradient(135deg, #8B0000 0%, #600000 100%);
+    background: linear-gradient(135deg, var(--blood-red) 0%, #600000 100%);
     color: var(--text-light);
 }
 
@@ -86,13 +86,12 @@
 /* ===== BODY - GOTHIC BACKGROUND ===== */
 body {
     font-family: var(--font-body), 'Times New Roman', serif;
-    background: linear-gradient(135deg, #0d0606 0%, #1a0f0f 50%, #0d0606 100%);
+    background: linear-gradient(135deg, var(--bg-dark) 0%, var(--bg-darker) 50%, var(--bg-dark) 100%);
     background-attachment: fixed;
     color: var(--text-mid);
     min-height: 100vh;
     line-height: 1.6;
     display: block !important;
-    flex-direction: column !important;
     margin: 0;
     padding: 0;
     /* Mobile-first responsive base */
@@ -119,8 +118,8 @@ body {
    ======================================== */
 
 .valley-header {
-    background: linear-gradient(180deg, #1a0f0f 0%, #0d0606 100%);
-    border-bottom: 2px solid #8B0000;
+    background: linear-gradient(180deg, var(--bg-darker) 0%, var(--bg-dark) 100%);
+    border-bottom: 2px solid var(--blood-red);
     box-shadow: 0 4px 15px rgba(139, 0, 0, 0.3);
     padding: 15px 30px;
     position: sticky;
@@ -148,9 +147,9 @@ body {
 .logo-frame {
     width: 80px;
     height: 80px;
-    border: 3px solid #8B0000;
-    border-radius: 8px;
-    background: linear-gradient(135deg, #2a1515 0%, #1a0f0f 100%);
+    border: 3px solid var(--blood-red);
+    border-radius: 0.75rem;
+    background: linear-gradient(135deg, var(--deep-maroon) 0%, var(--dusk-brown-black) 100%);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -170,7 +169,7 @@ body {
 .logo-initial {
     font-family: var(--font-brand), 'IM Fell English', serif;
     font-size: 28px;
-    color: #8B0000;
+    color: var(--blood-red);
     text-shadow: 0 0 10px rgba(139, 0, 0, 0.5);
     font-weight: bold;
     letter-spacing: 2px;
@@ -189,7 +188,7 @@ body {
 }
 
 .site-title a {
-    color: #f5e6d3;
+    color: var(--text-light);
     text-decoration: none;
     text-shadow: 
         2px 2px 4px rgba(0, 0, 0, 0.8),
@@ -238,7 +237,7 @@ body {
 .username {
     font-family: var(--font-body), 'Source Serif Pro', serif;
     font-size: 1em;
-    color: #f5e6d3;
+    color: var(--text-light);
     font-weight: 600;
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8);
 }
@@ -247,18 +246,18 @@ body {
 .logout-btn {
     font-family: var(--font-body), 'Source Serif Pro', serif;
     font-size: 0.85em;
-    color: #f5e6d3;
+    color: var(--text-light);
     background: rgba(139, 0, 0, 0.3);
     border: 1px solid rgba(139, 0, 0, 0.5);
     padding: 4px 10px;
-    border-radius: 4px;
+    border-radius: 0.5rem;
     text-decoration: none;
     transition: all 0.3s ease;
 }
 
 .logout-btn:hover {
     background: rgba(139, 0, 0, 0.5);
-    border-color: #8B0000;
+    border-color: var(--blood-red);
     color: #ffffff;
 }
 

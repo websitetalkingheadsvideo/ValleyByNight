@@ -1,0 +1,215 @@
+{
+    "id": 88,
+    "user_id": 1,
+    "character_name": "Roland Cross",
+    "player_name": "NPC",
+    "chronicle": "Valley by Night",
+    "clan": "Toreador",
+    "generation": 9,
+    "nature": "Survivor",
+    "demeanor": "Loner",
+    "sire": "0",
+    "concept": "Gunslinger Sheriff / Toreador Killer-Artist",
+    "biography": "Roland Cross was born in 1847 in what would become Arizona Territory, the son of a frontier marshal. He grew up with a gun in his hand and death as a constant companion. The Apache Wars, range wars, mining disputes - young Roland saw violence as both necessary and terrible. But where others saw only brutality, Roland saw something else: the perfect economy of motion, the mathematics of trajectory, the terrible beauty of a clean kill versus a messy one.\n\nBy the 1870s, Roland had become a lawman like his father, but different. He didn't just stop outlaws - he studied them. Every gunfight was a lesson in human nature, physics, and art. His reputation grew: the marshal who never missed, who never wasted a bullet, whose kills were surgical and precise. Some called him cold. Roland called it professional.\n\nIn 1876, Catherine Barlow came to Tombstone. A Toreador who had tired of ballrooms and opera houses, Kate was drawn to the raw frontier and its violent poetry. She watched Roland face down three killers in the street, and she saw what he saw: the dance of death as high art. She saw a man who understood that killing could be beautiful when done with purpose and precision.\n\nKate Embraced Roland that year, not despite his violence but because of it. \"You're an artist who doesn't know he's an artist,\" she told him. \"Your canvas is mortality itself.\" Roland understood immediately. As a vampire, his already legendary skills became supernatural. His purpose crystallized: he would be the bullet that finds its mark, the justice that never fails, the killer whose art was perfection itself.\n\nFor over a century, Roland has served Camarilla domains across the Southwest as Sheriff, constable, or enforcer. He doesn't do it for power or status - those mean nothing to him. He does it because someone must, and no one does it better. His reputation is such that princes often request his services specifically. He arrived in Phoenix in 1989, answering Prince Morrison's need for a Sheriff who would be absolutely reliable and utterly lethal.\n\nRoland's art is killing, and like any Toreador, he pursues it with obsessive perfection. He can identify firearms by sound alone. He crafts his own ammunition. He studies ballistics, anatomy, and the psychology of violence the way other Toreador study painting or sculpture. Every sanctioned kill is executed with flawless precision. Every bullet means something. Every death is considered.\n\nBut Roland pays the price all Toreador pay. Sometimes he becomes lost in the beauty of a perfect shot, the elegant trajectory of a bullet, the aesthetic satisfaction of a clean kill. He has been known to stand motionless, transfixed by the memory of a particularly perfect execution. Other times, he is overwhelmed by botched killings - sloppy work offends him on a visceral level that other vampires find disturbing.\n\nHe speaks rarely and never wastes words, much like he never wastes bullets. His code is simple: protect the domain, eliminate threats, serve the prince, perfect the art. He has no political ambitions, no desire for power beyond what he needs to do his work. He is the Sheriff because someone must be, and he does it better than anyone else.\n\nCurrent situation (1994): Roland serves as Prince Morrison's Sheriff, maintaining order in Phoenix's growing Kindred population. He is respected and feared in equal measure. His shooting demonstrations at Elysium are considered both entertainment and warning. He has no close relationships - his sire Kate disappeared into Mexico decades ago - but he has professional respect for those who take their duties seriously. He views the new generation of neonates with the same analytical detachment he applies to everything: assets or threats, useful or problems, worthy of salvation or requiring elimination.",
+    "appearance": "Tall, lean man who appears to be in his late 30s. Weather-worn features that suggest frontier life. Piercing blue eyes that miss nothing. Moves with fluid, economical grace. Always wears duster coat and wide-brimmed hat - practical clothing that conceals weapons and provides sun protection. Sandalwood-handled revolvers are always visible on his hip - a statement and a warning. His clothes are finely tailored so they fit him perfectly",
+    "notes": "",
+    "equipment": "Two custom Colt .45 revolvers (sandalwood grips, immaculately maintained, never leave his possession), gun cleaning kit (used religiously), ammunition (hollow point silver, hand-loaded), duster coat (conceals weapons, protected against sun), wide-brimmed hat (practical, iconic), leather gun belt (worn smooth), backup derringer (ankle holster), boot knife (practical backup), leather gloves, tin of tobacco (old habit), pocket watch (stopped at the moment of his Embrace)",
+    "character_image": "Roland Cross.png",
+    "clan_logo_url": null,
+    "status": {
+        "health_levels": null,
+        "blood_pool_current": null,
+        "blood_pool_maximum": null,
+        "sect_status": null,
+        "clan_status": null,
+        "city_status": null
+    },
+    "camarilla_status": "Unknown",
+    "pc": 0,
+    "xp_total": 200,
+    "xp_spent": 0,
+    "xp_available": 200,
+    "custom_data": null,
+    "created_at": "2025-10-31 09:21:25",
+    "updated_at": "2025-12-26 22:37:28",
+    "traits": [],
+    "negative_traits": [],
+    "abilities": [
+        {
+            "ability_name": "Investigation",
+            "ability_category": "Mental",
+            "level": 5,
+            "specialization": "Crime scenes and tracking. Reads evidence like a book. Can reconstruct events from minimal clues."
+        },
+        {
+            "ability_name": "Law",
+            "ability_category": "Mental",
+            "level": 4,
+            "specialization": null
+        },
+        {
+            "ability_name": "Linguistics",
+            "ability_category": "Mental",
+            "level": 3,
+            "specialization": null
+        },
+        {
+            "ability_name": "Occult",
+            "ability_category": "Mental",
+            "level": 3,
+            "specialization": null
+        },
+        {
+            "ability_name": "Politics",
+            "ability_category": "Mental",
+            "level": 3,
+            "specialization": null
+        },
+        {
+            "ability_name": "Awareness",
+            "ability_category": "Optional",
+            "level": 5,
+            "specialization": "Threat assessment. Immediately identifies weapons, exits, and tactical advantages in any situation."
+        },
+        {
+            "ability_name": "Athletics",
+            "ability_category": "Physical",
+            "level": 4,
+            "specialization": null
+        },
+        {
+            "ability_name": "Brawl",
+            "ability_category": "Physical",
+            "level": 4,
+            "specialization": null
+        },
+        {
+            "ability_name": "Dodge",
+            "ability_category": "Physical",
+            "level": 5,
+            "specialization": null
+        },
+        {
+            "ability_name": "Firearms",
+            "ability_category": "Physical",
+            "level": 5,
+            "specialization": "Pistols (revolvers specifically). Can identify firearms by sight or sound, craft custom ammunition, "
+        },
+        {
+            "ability_name": "Melee",
+            "ability_category": "Physical",
+            "level": 4,
+            "specialization": null
+        },
+        {
+            "ability_name": "Security",
+            "ability_category": "Physical",
+            "level": 4,
+            "specialization": null
+        },
+        {
+            "ability_name": "Stealth",
+            "ability_category": "Physical",
+            "level": 4,
+            "specialization": null
+        },
+        {
+            "ability_name": "Survival",
+            "ability_category": "Physical",
+            "level": 4,
+            "specialization": null
+        },
+        {
+            "ability_name": "Intimidation",
+            "ability_category": "Social",
+            "level": 5,
+            "specialization": "Quiet menace. Doesn't need to raise voice or make threats - his reputation and presence do the work."
+        },
+        {
+            "ability_name": "Leadership",
+            "ability_category": "Social",
+            "level": 4,
+            "specialization": null
+        },
+        {
+            "ability_name": "Streetwise",
+            "ability_category": "Social",
+            "level": 4,
+            "specialization": null
+        },
+        {
+            "ability_name": "Subterfuge",
+            "ability_category": "Social",
+            "level": 3,
+            "specialization": null
+        }
+    ],
+    "disciplines": [],
+    "backgrounds": [
+        {
+            "background_name": "Allies",
+            "level": 2
+        },
+        {
+            "background_name": "Contacts",
+            "level": 3
+        },
+        {
+            "background_name": "Fame",
+            "level": 0
+        },
+        {
+            "background_name": "Generation",
+            "level": 4
+        },
+        {
+            "background_name": "Herd",
+            "level": 0
+        },
+        {
+            "background_name": "Influence",
+            "level": 2
+        },
+        {
+            "background_name": "Mentor",
+            "level": 0
+        },
+        {
+            "background_name": "Resources",
+            "level": 2
+        },
+        {
+            "background_name": "Retainers",
+            "level": 1
+        },
+        {
+            "background_name": "Status",
+            "level": 4
+        }
+    ],
+    "morality": {
+        "id": 38,
+        "character_id": 88,
+        "path_name": "Humanity",
+        "path_rating": 5,
+        "conscience": 3,
+        "self_control": 5,
+        "courage": 5,
+        "willpower_permanent": 10,
+        "willpower_current": 10,
+        "humanity": 7,
+        "created_at": "2025-10-31 09:21:25",
+        "updated_at": "2025-10-31 09:21:25"
+    },
+    "merits_flaws": [],
+    "coteries": [
+        {
+            "coterie_name": "Defenders",
+            "coterie_type": "Group that has come together to remove the Sabbat from the city.",
+            "role": "Leader",
+            "description": ""
+        }
+    ],
+    "relationships": [],
+    "ghoul_overlay": null
+}

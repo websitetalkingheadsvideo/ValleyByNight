@@ -11,11 +11,7 @@ ISBN 978-1-56504-5890
 
 [Page 3]
 
-R :
-ENDEZVOUS
-A C T
-AUTIONARY ALE
-“It is,” Peter Coleman said, “really goddamned dark in here.” He ran his
+"It is," Peter Coleman said, "really goddamned dark in here." He ran his
 fingers down the lapels of his suit out of nervous habit, checking to see that he
 was still immaculately groomed, even in pitch blackness. “I don’t see why we
 have to wait in the dark.”
@@ -38,8 +34,6 @@ ingly smooth and cool to the touch, and he found himself hoping that there
 wouldn’t be too much dust on his suit when he got out of here. “Are you sure
 it isn’t that I’m offending your delicate sensibilities? I’m sure that you’ve heard
 much finer whistling in Elysium.”
-Laws of the Night
-22
 
 <div style="page-break-after: always;"></div>
 
@@ -90,9 +84,7 @@ hell did we have to do this here?”
 Kevin. We know how they feel about us, too, and we know that if they found
 out you were talking to us, they’d turn on you in a minute. They’d abandon
 you, leave you to the streets on your own, maybe even try to hurt you.” Her
-voice was full of loving mock concern. “We couldn’t let that happen to our
-Rendezvous
-33
+voice was full of loving mock concern. “We couldn't let that happen to our
 
 <div style="page-break-after: always;"></div>
 
@@ -144,8 +136,6 @@ Coleman grabbed the back of Kevin’s jacket and bodily slammed him into
 the concrete of the storm drain wall. There was a sharp crack, as several of
 Kevin’s teeth shattered on impact. Coleman then pulled the dazed vampire
 back to glare at him.
-Laws of the Night
-44
 
 <div style="page-break-after: always;"></div>
 
@@ -197,8 +187,6 @@ First, he thought, he would go to Warburton and bear false witness against
 two other Kindred who’d once said unkind things about his beloved. Then,
 he’d go hunting for a suitable gift for his lady. He didn’t think either chore
 would take him very long.
-Rendezvous
-55
 
 <div style="page-break-after: always;"></div>
 
@@ -221,9 +209,7 @@ spend the evening in a sewer with someone.” She smiled without mirth, and
 walked away.
 Coleman stared after her, rubbing his mouth absently with the back of
 his hand. “I’ll bear that in mind,” he said softly. “Don’t worry, I don’t think
-I’ll ever forget.”
-Laws of the Night
-66
+I'll ever forget.”
 
 <div style="page-break-after: always;"></div>
 
@@ -236,8 +222,8 @@ Mind’s Eye Theatre
 
 [Page 9]
 
-C
-redits
+# Credits
+
 Written by:Jason Carl, Jess Heinig, Peter Woodworth
 Additional writing by:Richard E. Dansky
 Development by: Cynthia Summers
@@ -259,9 +245,8 @@ Jeremiah McCoy, Glenys Ngaire McGhee, Sarah McIlvaine, Mike Metcalf,
 Laura Middleton, Joshua Patterson, Sarah Riggs, John Sargent, Matthew
 Skipper, Marc Spencer, Bill Terry, Golden Sky Tullis, Jim Vasquez, Peter
 Woodworth, W. Andrew Woodworth
-s t :
-peCial hanksto
-You, the fans — it’s all for you.
+Special thanks to
+You, the fans — it's all for you.
 © 2010 CCP hf. All rights reserved. Re-
 production without the written permission
 of the publisher is expressly forbidden,
@@ -289,26 +274,16 @@ PRINTED ON DEMAND
 
 [Page 10]
 
-Mind’s Eye Theatre
-™
-C
-ontents
-r : a C t 1
-endezvous autionary ale
-C o : i 10
-hapter ne ntroduCtion
-C t : t C 24
-hapter wo he lans
-C t : C C t 58
-hapter hree haraCter reationand raits
-C F : d 128
-hapter our isCplines
-C F : r , s d 186
-hapter ive ules ystemsand rama
-C s : s 222
-hapter ix torytelling
-C s : a a 248
-hapter even lliesand ntagonists
+## Table of Contents (OCR)
+- Chapter 1: Rendezvous Cautionary Tale
+- Chapter 2: Introduction
+- Chapter 3: The Plans
+- Chapter 4: Character Creation & Traits
+- Chapter 5: Disciplines
+- Chapter 6: Rules, Systems & Drama
+- Chapter 7: Storytelling
+- Chapter 8: Allies & Antagonists
+
 
 <div style="page-break-after: always;"></div>
 
@@ -318,12 +293,6 @@ hapter even lliesand ntagonists
 
 [Page 12]
 
-C O :
-HAPTER NE
-I
-NTRODUCTION
-s a F
-tories roundthe ire
 Once upon a time, long before television or computers or even books, people
 sat around the fire and told stories for entertainment. Whether it was a ballad
 of a hero’s latest exploits or a cautionary tale about dealing with the hidden
@@ -355,9 +324,7 @@ to be told along the way than “winning.” It’s far more like the make-belie
 childhood than what most people typically think of when they imagine “games.”
 This book contains all the information you’ll need to start playing and telling
 your own stories. You create the action, you choose the path to follow, you decide
-what risks to accept. We call this style of game Mind’s Eye Theatre.
-Introduction
-1111
+what risks to accept. We call this style of game Mind's Eye Theatre.
 
 <div style="page-break-after: always;"></div>
 
@@ -373,8 +340,6 @@ Most scenes in Mind’s Eye Theatre are played out in real-time — an hour
 in the make-believe world is 60 minutes long, and it takes up 60 minutes in the
 real world — and always in character. Players always remain in character during
 the game unless there is a rules dispute.
-C
-haraCters
 When you play Masquerade (the game for which this book was developed),
 you take on another persona, most likely a vampire. Your character can be almost
 anything — from any walk of life, age, creed, race or sex. The only limit is your
@@ -413,8 +378,6 @@ play has seen a few bugs crop up, and this book is designed to correct some of t
 problems. Those with older editions of Laws of the Night may find some significant
 differences between the two, and it is advised that a Storyteller rule which edition of
 Laws of the Night is canon for the game for the sake of clarity and consistency.
-Laws of the Night
-1122
 
 <div style="page-break-after: always;"></div>
 
@@ -470,8 +433,6 @@ and deal with players.
 Chapter Seven: Allies and Antagonists — Vampires aren’t the only creatures
 of the night. This chapter provides a basic overview of some of the other denizens
 of the World of Darkness, as well as ways to incorporate them into stories.
-Introduction
-1133
 
 <div style="page-break-after: always;"></div>
 
@@ -527,9 +488,7 @@ an MET system, then sit down and cobble up something that will work for you. If 
 is all about telling stories, then here’s the part where the Storyteller improvises.
 have Fun
 Not “Win.” Not “Go out and conquer everyone else.” Just have fun, because
-in MET, it’s not about how the game ends, but what happens along the way.
-Laws of the Night
-1144
+in MET, it's not about how the game ends, but what happens along the way.
 
 <div style="page-break-after: always;"></div>
 
@@ -588,8 +547,6 @@ special process, known as the Embrace, to create a vampire.
 • Vampires are burned by sunlight. True. Vampires must avoid sunlight
 or risk death. Vampires are nocturnal creatures, and most find it difficult to
 stay awake during the day, even out of the sunlight.
-Introduction
-1155
 
 <div style="page-break-after: always;"></div>
 
@@ -645,9 +602,7 @@ policy. Today, the Camarilla concerns itself with the Masquerade, maintaining
 harmonious relations between Kindred and kine, and thwarting the Sabbat.
 The Camarilla claims all vampires to be under its aegis and proclaims itself the
 greatest sect of Kindred across the globe. Indeed, it claims that all Cainites are already
-under its banner, regardless of those vampires’ wishes. In spite of the claims, only
-Laws of the Night
-1166
+under its banner, regardless of those vampires' wishes. In spite of the claims, only
 
 <div style="page-break-after: always;"></div>
 
@@ -702,8 +657,6 @@ tance, thou art nothing.
 the sixth tradition: destruCtion
 Thou art forbidden to destroy another of thy kind. The right of destruction be-
 longeth only to thine elder. Only the eldest among thee shall call the blood hunt.
-Introduction
-1177
 
 <div style="page-break-after: always;"></div>
 
@@ -761,8 +714,6 @@ The other clans — including the Gangrel, Assamites, Giovanni, Followers
 of Set, Ravnos and the minor bloodlines (the Daughters of Cacophony, Salubri
 and Samedi) — do not claim membership in either sect. Those who choose to
 join the sects are a minor handful in comparison to their clanmates.
-Laws of the Night
-1188
 
 <div style="page-break-after: always;"></div>
 
@@ -820,8 +771,6 @@ other concerns to do much about it. Like mortal teenagers, ancillae are getting
 a taste for the power and influence that they may soon possess.
 • 11th, 12th and 13th Generations — Neonates and young ancillae hail
 from these generations. Most are relatively new to vampirism, and though more
-Introduction
-1199
 
 <div style="page-break-after: always;"></div>
 
@@ -880,8 +829,6 @@ experience, follow personal crusades against the Damned, although recent nights
 have seen these solitaries band together into organized cells. And of course, there
 will always be nosy reporters who find things that don’t add up to their liking, or the
 detectives who insist on learning the truth behind a series of mysterious deaths.
-Laws of the Night
-2200
 
 <div style="page-break-after: always;"></div>
 
@@ -919,8 +866,6 @@ powerful tool. The Camarilla has not let go of its cities as easily as imagined,
 many of the contested cities have become nightly struggles. The Sabbat majority
 likes to believe it has the upper hand, but much of its leadership fears that some
 of their oldest prophecies and worries are finally showing themselves.
-l
-exiCon
 A new existence calls for new words. Many young vampires often invent slang, while
 elders favor older forms; either usage dates a vampire’s age with fair accuracy.
 Ancilla — A Kindred “adolescent”, usually at least a century old.
@@ -938,8 +883,6 @@ which is attributed animal instincts and bloodlust.
 Blood — A vampire’s heritage; that which makes a vampire a vampire.
 Bloodline — A group of vampires that is an offshoot of its parent clan, often
 displaying particular characteristics or even strange powers.
-Introduction
-2211
 
 <div style="page-break-after: always;"></div>
 
@@ -992,8 +935,6 @@ Kindred, using younger vampires as pawns.
 Kindred — Any Camarilla vampire; their name for themselves.
 Lick — A vampire; considered vulgar by many.
 Lupine — A werewolf; used by vampires.
-Laws of the Night
-2222
 
 <div style="page-break-after: always;"></div>
 
@@ -1045,8 +986,6 @@ Trait — An adjective used to describe a character’s Attributes, such as Quic
 Gorgeous or Knowledgeable.
 Turn — A unit of time in Mind’s Eye Theatre play, usually considered to
 be the equivalent of about three seconds.
-Introduction
-2233
 
 <div style="page-break-after: always;"></div>
 
@@ -1133,8 +1072,6 @@ of the individual’s strengths, weaknesses and interests. Many young neonates,
 Embraced for some potential outside of the clan’s normal interests, rebel against
 the stultifying influence of the elders, taking up habits and alliances against all
 expectations of clan.
-Laws of the Night
-2266
 
 <div style="page-break-after: always;"></div>
 
@@ -1146,8 +1083,6 @@ Caitiff, are often a threat to the Masquerade, and they rarely survive without
 instruction. Some vampires claim that such weak-blooded mules lack identifying
 clan characteristics and upbringing, and thus, they herald the coming End Times.
 These paranoid vampires hunt the clanless ones whenever they can.
-B
-loodrights
 Carrying the strengths of the founders, each clan holds certain particular
 strengths and weaknesses. These characteristics pass from sire to childe; in some
 rare instances, these characteristics do not manifest fully, but most often, a childe
@@ -1170,8 +1105,6 @@ advantages that are common to all members. Even those individuals who are
 Embraced outside of a clan’s normal range are instructed or assisted quickly in
 developing these benefits. It is always the choice of the individual whether or
 not to follow such direction.
-a
-llegianCes
 The Camarilla and Sabbat claim the nearly exclusive membership of certain
 lineages. Among the Camarilla, the six clans of the Brujah, Malkavians, Nosfer-
 atu, Toreador, Tremere and Ventrue predominate. In the Sabbat, leadership and
@@ -1186,7 +1119,7 @@ to an individual basis. The elusive Cathayan vampires of Asia are not known to
 conform to any clan, either, and indeed, they do not even claim any relationship
 to Caine. What this disavowal bodes is unknown to western Kindred.
 The Clans
-2277
+
 
 <div style="page-break-after: always;"></div>
 
@@ -1241,8 +1174,6 @@ the most common clan members of the Sabbat, but a fair number of antitribu
 claim allegiance in the never-ending war to overthrow the elders, establish the
 rule of vampires over the kine and shatter the illusions of Cainites who hold
 on to their lost humanity.
-Laws of the Night
-2288
 
 <div style="page-break-after: always;"></div>
 
@@ -1261,7 +1192,7 @@ left the Camarilla en masse, taking up a neutral position once more. Whether
 the Camarilla’s shaky foundations will further erode, or whether a new clan
 will take the Gangrel’s place, remains to be seen.
 The Clans
-2299
+
 
 <div style="page-break-after: always;"></div>
 
@@ -1308,8 +1239,6 @@ behavior that would not be tolerated among
 other clans. Many use such underestimation
 to their advantage to further their causes and surprise
 more shortsighted clans.
-Laws of the Night
-3300
 
 <div style="page-break-after: always;"></div>
 
@@ -1349,7 +1278,7 @@ themselves the “True Brujah” rise on occasion, but whether they are actually
 separate bloodline or simply a group of deluded dissidents is unknown by the
 Cainite population at large.
 The Clans
-3311
+
 
 <div style="page-break-after: always;"></div>
 
@@ -1394,8 +1323,6 @@ insanity, fail. A Malkavian
 usually Embraces someone
 on the edge of insanity or one
 already driven mad, but none can
-Laws of the Night
-3322
 
 <div style="page-break-after: always;"></div>
 
@@ -1452,7 +1379,7 @@ possess the Discipline of Dominate (instead of Dementation), but most of the
 Lunatics were “converted” to the ways of Dementation in a wash of madness that
 swept through the clan in recent years.
 The Clans
-3333
+
 
 <div style="page-break-after: always;"></div>
 
@@ -1500,8 +1427,6 @@ Some Nosferatu develop their powers of concealment
 well enough to eavesdrop unnoticed in the middle of
 meetings of other Kindred, selling their secrets to the
 highest bidders. Woe unto the outsider who seeks to
-Laws of the Night
-3344
 
 <div style="page-break-after: always;"></div>
 
@@ -1558,7 +1483,7 @@ the Nosferatu clan. These beasts, called the Nictuku, are considered mythical
 by most Nosferatu, but whenever a warren goes silent or a clanmate vanishes
 mysteriously, the fears return.
 The Clans
-3355
+
 
 <div style="page-break-after: always;"></div>
 
@@ -1610,8 +1535,6 @@ elegance wherever they travel and
 meet. The common desire to indulge in the
 elevation of art draws the clan together. Even
 when sniping over matters of status and prestige,
-Laws of the Night
-3366
 
 <div style="page-break-after: always;"></div>
 
@@ -1670,7 +1593,7 @@ intellectual dominance or physical torture. A Toreador antitribu given a chance 
 such tendencies must expend a Mental Trait if the player wishes to resist the urge, though
 such an expenditure need only be made once in any given scene.
 The Clans
-3377
+
 
 <div style="page-break-after: always;"></div>
 
@@ -1720,8 +1643,6 @@ of the occult can be instilled later.
 Because of their stolen blood and their hidden
 secrets of magic (so secretive that other vampires
 whisper rumors of Tremere assassins who hunt
-Laws of the Night
-3388
 
 <div style="page-break-after: always;"></div>
 
@@ -1778,7 +1699,7 @@ they suffered mightily from displays of Christian faith. These pagans were final
 exterminated before the 17th century. With the rigid structure of the Tremere
 clan, there is no room for the deviance of any other bloodlines.
 The Clans
-3399
+
 
 <div style="page-break-after: always;"></div>
 
@@ -1825,8 +1746,6 @@ the clan use their political savvy and influential
 powers to sway Kindred and mortal politics alike,
 bringing prosperity to vampires and protecting the
 society of the undead from discovery. Thus, Ventrue
-Laws of the Night
-4400
 
 <div style="page-break-after: always;"></div>
 
@@ -1883,7 +1802,7 @@ functionally similar; antitribu are the true dark knights of their kind. There a
 no distinctive bloodlines of Ventrue, though some family lines do form “dynas-
 ties” within the clan.
 The Clans
-4411
+
 
 <div style="page-break-after: always;"></div>
 
@@ -1934,8 +1853,6 @@ the Camarilla, the Lasombra are considered urbane
 and dangerous. A Cainite dealing with a Lasombra
 shows the utmost consideration, despite any thoughts
 of spite or treason — an attitude that the Keepers return
-Laws of the Night
-4422
 
 <div style="page-break-after: always;"></div>
 
@@ -1987,7 +1904,7 @@ usual clan advantages but within their sect. The Sabbat Lasombra denounce
 the existence of their wayward brethren, and they hunt the traitors mercilessly
 whenever the opportunity presents itself.
 The Clans
-4433
+
 
 <div style="page-break-after: always;"></div>
 
@@ -2041,8 +1958,6 @@ ritual of the Vaulderie, corrupted would want Tzimisce enemies.
 from koldun rites, broke the blood In keeping with their bizarre predi-
 bonds and sent childer screaming as lections, the Tzimisce Embrace from an
 bands of terror ravaging the landscape. eclectic selection of mortals. The insane
-Laws of the Night
-4444
 
 <div style="page-break-after: always;"></div>
 
@@ -2100,7 +2015,7 @@ manistic trappings of that organization is tremendous. Any Tzimisce who works wi
 Camarilla does so merely to further a particular personal agenda. More often, a Tzimisce
 without Sabbat leanings simply remains a cloistered independent.
 The Clans
-4455
+
 
 <div style="page-break-after: always;"></div>
 
@@ -2154,8 +2069,6 @@ the clan’s precepts and history. These fida’i (apprentices) are watched
 closely, but they are allowed to progress based on their own worth
 and skill. Many fida’i run in small packs called falaqi, hunting
 other Cainites for blood and practice.
-Laws of the Night
-4466
 
 <div style="page-break-after: always;"></div>
 
@@ -2213,7 +2126,7 @@ manage to escape the Assamite, he would never be targeted again — until now, w
 clan’s members cast aside their former strictures of honor and obligation in favor of their
 former bloodthirst.
 The Clans
-4477
+
 
 <div style="page-break-after: always;"></div>
 
@@ -2264,8 +2177,6 @@ Setites tend to Embrace from among people
 who share an understanding of dark appetites and forbid-
 den desire. Scholarship is highly prized in the clan, for
 only with the ancient lore of the earliest days can Set
-Laws of the Night
-4488
 
 <div style="page-break-after: always;"></div>
 
@@ -2309,7 +2220,7 @@ pleasures of debauchery, and a small, heretical splinter sect affiliated more wi
 voudoun than Egyptology, called the Serpents of the Light, claims allegiance
 with the Sabbat.
 The Clans
-4499
+
 
 <div style="page-break-after: always;"></div>
 
@@ -2359,8 +2270,6 @@ infighting or social ma-
 neuvering. Typically, a
 Gangrel watches
 a potential
-Laws of the Night
-5500
 
 <div style="page-break-after: always;"></div>
 
@@ -2414,7 +2323,7 @@ Gangrel possess the Disciplines of Celerity, Obfuscate and Protean. Although the
 manifest the same weakness as the rest of the clan, they tend to feature animalistic
 traits from urban beasts, such as rats’ whiskers, cat tails and the like.
 The Clans
-5511
+
 
 <div style="page-break-after: always;"></div>
 
@@ -2464,8 +2373,6 @@ Because of their ostensible neutrality, the
 Giovanni are sometimes called on to engage in
 business dealings that cut across sect lines.
 However, they are never trusted, and they
-Laws of the Night
-5522
 
 <div style="page-break-after: always;"></div>
 
@@ -2520,7 +2427,7 @@ they indicate that the Giovanni family is more widespread than many Cainites
 believe. All Giovanni are loyal to the family alone — there are no antitribu, and
 those who attempt to rebel or flee are hunted down in short order.
 The Clans
-5533
+
 
 <div style="page-break-after: always;"></div>
 
@@ -2571,8 +2478,6 @@ thievery) or destroyed.
 It is for this reason
 that the Ravnos
 spread discord
-Laws of the Night
-5544
 
 <div style="page-break-after: always;"></div>
 
@@ -2627,14 +2532,12 @@ are indeed awakening, hungry to devour their childer. On the other hand, the
 Camarilla’s Masquerade may be the only way to avoid the notice of forces powerful
 enough to slay an Antediluvian. A World of Darkness, indeed.…
 The Clans
-5555
+
 
 <div style="page-break-after: always;"></div>
 
 [Page 57]
 
-B
-loodlines
 Outside the strictures of the 13 great clans and the two sects lie a small set of
 independent bloodlines. A bloodline is a minor lineage, tracing its distinctiveness
 to a founder of generation weaker than an Antediluvian, or whose birthright
@@ -2684,8 +2587,6 @@ strives for expression, even before the Embrace, and many are snatched away
 from the mortal world and turned before they can achieve true mortal fame
 beyond their little-known careers. It is said that in the past, the Sirens allowed
 men in their ranks, in an even smaller bloodline called the Sons of Discord,
-Laws of the Night
-5566
 
 <div style="page-break-after: always;"></div>
 
@@ -2742,7 +2643,7 @@ believe it may have roots in an earlier time. Whatever the reason, the Tremere
 have been quick to add it to their arsenal of propaganda against the Salubri as
 infernalists.
 The Clans
-5577
+
 
 <div style="page-break-after: always;"></div>
 
@@ -2796,8 +2697,6 @@ races and social groups; the only real requirement seems to be an appreciation
 for death in all its forms.
 Roleplaying Hints: Death comes to all things in time; it simply came to
 you in an unusual way. Life itself is defined by the fact that it ends. Such begin-
-Laws of the Night
-5588
 
 <div style="page-break-after: always;"></div>
 
@@ -2824,7 +2723,7 @@ ate any Social Challenges except ones involving intimidation. No Samedi can
 possess the Social Traits of Alluring, Gorgeous or Seductive, and they all have the
 Negative Social Traits of Repugnant x 3 which can never be removed.
 The Clans
-5599
+
 
 <div style="page-break-after: always;"></div>
 
@@ -2880,12 +2779,7 @@ Donata and Kevin watched Peter, frowning, as he left in a hurry.
 
 [Page 63]
 
-C T :
-HAPTER HREE
-C C
-HARACTER REATION
-T
-AND RAITS
+CHAPTER THREE: CHARACTER CREATION AND TRAITS
 Without characters, there can be no game. Each player takes on the role of a
 character, a persona within the context of the game. To guarantee that all players
 use the same potentials and capabilities for their characters, the rules of Mind’s
@@ -2911,8 +2805,6 @@ QuiCk CharaCter Creation proCess
 — Choose a Derangement (if desired)
 — Spend five (or more) Free Traits and choose Merits (if any)
 • Step Five: Spark of Life — Narrative descriptions
-Laws of the Night
-6622
 
 <div style="page-break-after: always;"></div>
 
@@ -2965,10 +2857,11 @@ To define a character’s personality, choose a particular Archetype. Each Arche
 type lists an underlying motivation, a reason for a character to behave in specific
 ways. The Archetypes described here are, by no means, the final list of personalities;
 Storytellers can suggest and approve any further numbers of Archetypes.
-A character’s Nature is her inner-most persona, the true basis of her motives.
+A character's Nature is her inner-most persona, the true basis of her motives.
 Though many people bury their desires behind facades, the drives of the Nature
+# Character Creation
 Character Creation & Traits
-6633
+
 
 <div style="page-break-after: always;"></div>
 
@@ -3016,8 +2909,6 @@ Disciplines: Animalism, Auspex, Vicissitude
 • Ventrue — (Camarilla) Rulers of board room and battlefield, the Blue
 Bloods lead other Kindred as their right and responsibility.
 Disciplines: Dominate, Fortitude, Presence
-Laws of the Night
-6644
 
 <div style="page-break-after: always;"></div>
 
@@ -3070,7 +2961,7 @@ character: Humanity or a Path of Enlightenment. Traits will be assigned later.
 The important step is to determine how the character holds onto sanity against
 the relentless Beast. Most vampires default to Humanity.
 Character Creation & Traits
-6655
+
 
 <div style="page-break-after: always;"></div>
 
@@ -3109,6 +3000,8 @@ savage children and not for vampires of the Camarilla or independent clans.
 Paths of Enlightenment are advanced moral codes. They espouse an utterly alien
 viewpoint, with little grounding in anything resembling human morality. These are
 best played by experienced players. Consult a Storyteller before choosing a Path.
+## Traits & Attributes
+
 s t : a
 tep wo ttriButes
 Natural capabilities use Attributes for descriptions. Every character has
@@ -3124,8 +3017,6 @@ while a bookish historian probably has more mental development than social.
 agility and power. A character with modest Physical Attributes is probably not
 very athletic, while a character with high Physical Attributes is exceptionally
 strong, dexterous or tough.
-Laws of the Night
-6666
 
 <div style="page-break-after: always;"></div>
 
@@ -3181,11 +3072,13 @@ Gorgeous, Ingratiating, Intimidating, Magnetic, Persuasive, Seductive, Witty
 Determined, Discerning, Disciplined, Insightful, Intuitive, Knowledgeable, Observant,
 Patient, Rational, Reflective, Shrewd, Vigilant, Wily, Wise
 Character Creation & Traits
-6677
+
 
 <div style="page-break-after: always;"></div>
 
 [Page 69]
+
+## Abilities
 
 aBilities
 Academics, Alertness, Animal Ken, Athletics, Brawl, Computer, Crafts,
@@ -3236,8 +3129,6 @@ temptation and defeat. You can use Willpower Traits for a variety of tasks, like
 redoubling your efforts in a task or resisting supernatural coercion.
 You come into play with a number of Willpower Traits dependent on your
 generation. The generation table on p. 95 shows your starting permanent Will-
-Laws of the Night
-6688
 
 <div style="page-break-after: always;"></div>
 
@@ -3282,6 +3173,8 @@ power, indicating how many Willpower Traits you have. The maximum Willpower
 listing shows the highest rating that your Willpower can reach. You may choose
 to have a card for each Trait of Willpower you possess, and you must turn the
 card over to a Narrator or Storyteller when you expend Willpower.
+## Morality & Virtues
+
 virtue traits
 Every vampire must resist the temptation to “sin” in some fashion. Virtue
 Traits are the spiritual endurance with which a character fights against the
@@ -3290,7 +3183,7 @@ Virtue Traits come in three categories: Conscience/ Conviction Traits, Self-
 Control/ Instinct Traits and Courage Traits. You get seven Traits to split among
 these categories. Each category must range from one to five total Traits.
 Character Creation & Traits
-6699
+
 
 <div style="page-break-after: always;"></div>
 
@@ -3331,6 +3224,9 @@ disintegration into the Wassail, the final frenzy.
 negative traits
 Some characters have particular weaknesses or shortcomings. Others just never
 developed in some fashion, or suffered injuries that set back otherwise strong attri-
+## Backgrounds: Reference List
+
+
 BaCkgrounds
 • Allies — Mortal confederates and aides.
 • Contacts — Sources of reliable information.
@@ -3344,8 +3240,6 @@ Occult, Police, Political, Street, Transportation, Underworld or University.
 • Mentor — An older or more experienced Cainite instructor and patron.
 • Resources — Material wealth and access to ready cash.
 • Retainers — Loyal servants who oversee projects and property.
-Laws of the Night
-7700
 
 <div style="page-break-after: always;"></div>
 
@@ -3401,7 +3295,7 @@ Trait. Remember that each Ability can only have one specialization.
 • One Free Trait converts to an additional Background Trait, though subject
 to normal Storyteller approval.
 Character Creation & Traits
-7711
+
 
 <div style="page-break-after: always;"></div>
 
@@ -3454,8 +3348,6 @@ derangements
 Bulimia, Crimson Rage, Fugue, Hysteria, Immortal Terror, Manic-Depres-
 sion, Megalomania, Multiple Personalities, Obsessive/ Compulsive, Paranoia,
 Regression, Sanguinary Animism, Schizophrenia
-Laws of the Night
-7722
 
 <div style="page-break-after: always;"></div>
 
@@ -3471,8 +3363,6 @@ other conspicuous devices that you shouldn’t be lugging around in real life).
 “Great Caine!” to playing with a ponytail — such mannerisms show off your character’s
 uniqueness. A quirk can even be used to distinguish you when in disguise or using
 Disciplines to possess another body — or you could copy someone else’s quirks.
-a
-rChetypes
 Each Archetype describes an essential form of personality. Though a character
 is more than a simple set of drives, an Archetype provides a basic springboard
 from which the character’s motives and behaviors can develop. An archetypal
@@ -3511,7 +3401,7 @@ someone else to put in the effort.
 • Curmudgeon —Nothing’s perfect, everything sucks and you’re going to
 make sure that everybody knows it.
 Character Creation & Traits
-7733
+
 
 <div style="page-break-after: always;"></div>
 
@@ -3566,8 +3456,6 @@ slaughter until they are put down like rabid dogs by their fellow Kindred. As a 
 loses her Humanity, she comes to resemble a pallid, desiccated corpse and is driven
 more by her vampire habits: sleeping deeply during the day, giving in to the lassitude
 of age and finding it difficult to interact with mortals as anything other than prey.
-Laws of the Night
-7744
 
 <div style="page-break-after: always;"></div>
 
@@ -3609,8 +3497,6 @@ The Paths of Enlightenment in this book are often found among non-aligned vampir
 or among a few vampires of any sectarian allegiance. Camarilla vampires usually uphold
 Humanity, though a rare few elders follow different beliefs. Vampires of the Sabbat have
 their own inhuman Paths of Enlightenment, which are a subject for another book.
-h
-umanity
 The majority of vampires default to Humanity. Even the depraved vampires
 of the Sabbat and the jaded elders of the Camarilla cling to some vestige of
 Humanity, though such monsters usually have very few Humanity Traits.
@@ -3626,7 +3512,7 @@ the speed limit is just too damn slow. Vampires at this level are approximate to
 social morals, and are on par with most of mortal society. The vampire is concerned
 with the natural rights of others, but there’s some natural selfishness mixed in.
 Character Creation & Traits
-7755
+
 
 <div style="page-break-after: always;"></div>
 
@@ -3677,8 +3563,6 @@ Two Failing to pursue lesser blood for your clanmates;
 refusal to aid a more enlightened follower of the Path
 One Failing to take a chance to lower your generation;
 acting against another Assamite
-Laws of the Night
-7766
 
 <div style="page-break-after: always;"></div>
 
@@ -3732,7 +3616,7 @@ Two Considering others; failing to experiment
 One Neglecting to practice alteration and evolution;
 showing compassion
 Character Creation & Traits
-7777
+
 
 <div style="page-break-after: always;"></div>
 
@@ -3788,8 +3672,6 @@ The state of undeath is considered a curse, but Ravnos believe this shruti (what
 learned from the gods) to be due to their failure to understand maya. Only by weaving
 illusions themselves can they hope to tear away the veils that hide the Ultimate Truths.
 The Path of Paradox upholds Conviction and Self-Control.
-Laws of the Night
-7788
 
 <div style="page-break-after: always;"></div>
 
@@ -3833,6 +3715,8 @@ Two Failing to pursue occult knowledge;
 hindering another Setite
 One Failing to take advantage of another; refusing
 to aid in raising Set
+## Traits & Attributes: Rules
+
 a (B t )
 ttriButes idding raits
 The Traits that describe your character’s innate capabilities are called At-
@@ -3841,7 +3725,7 @@ obstacles. While certain situations may also require Abilities, such matters are
 function of training. Even with the appropriate training, you must call on your
 own strengths to finish the tasks set before you.
 Character Creation & Traits
-7799
+
 
 <div style="page-break-after: always;"></div>
 
@@ -3898,8 +3782,6 @@ Uses: Any time that you intend to do serious harm. When in frenzy. Potence.
 Graceful: Control and balance in the motion and use of the entire body.
 Uses: Combat defense. Whenever you might lose your balance. Celerity.
 Lithe: Characterized by flexibility and suppleness.
-Laws of the Night
-8800
 
 <div style="page-break-after: always;"></div>
 
@@ -3955,7 +3837,7 @@ well against resistance.
 Lame: You are disabled in one or more limbs. The handicap can be as
 obvious as a missing leg or as subtle as a dysfunctional arm.
 Character Creation & Traits
-8811
+
 
 <div style="page-break-after: always;"></div>
 
@@ -4008,8 +3890,6 @@ Uses: Convincing others.
 Genial: Cordial, kindly, warm and pleasant. You are pleasing to be around.
 Uses: Mingling at parties. Presence. Generally used in a second or later Social
 Challenge with someone.
-Laws of the Night
-8822
 
 <div style="page-break-after: always;"></div>
 
@@ -4064,7 +3944,7 @@ Miscellaneous Mental: Creative, Dedicated, Determined, Patient, Wise
 Alert: Mentally prepared for danger and able to react quickly when it occurs.
 Uses: Preventing surprise attacks. Defending against Dominate.
 Character Creation & Traits
-8833
+
 
 <div style="page-break-after: always;"></div>
 
@@ -4119,8 +3999,6 @@ Reflective: Meditative self-recollection and deep thought. The Trait of the
 serious thinker, Reflective enables you to consider all aspects of a conundrum.
 Uses: Meditation. Remembering information. Defending against most
 Mental Challenges.
-Laws of the Night
-8844
 
 <div style="page-break-after: always;"></div>
 
@@ -4156,8 +4034,6 @@ provocation, and frenzy is always close to the surface. This Trait is a Mental o
 because it represents mental instability.
 Witless: Lacking the ability to process information quickly. Foolish and
 slow to act when threatened.
-a
-Bilities
 The particular bits of knowledge learned over the years, the tricks of the
 trade and the hard-won secrets of crafts are all Abilities. A character’s Ability
 Traits represent special training or talent, and as such, they often allow perfor-
@@ -4176,7 +4052,7 @@ Ability in a given field corresponds roughly to the character’s professional c
 Competent (Able to earn a living)
 Professional (Licensed, capable of supervision)
 Character Creation & Traits
-8855
+
 
 <div style="page-break-after: always;"></div>
 
@@ -4234,8 +4110,6 @@ and it is not bid or used like other Traits. You simply are “one Trait up” o
 challenges within the specialization.
 Example: Marcus von Schlagenhanz is an experienced Brujah fighter, but he is
 especially good with fencing weapons. He has the Ability: Melee x 3 with the specializa-
-Laws of the Night
-8866
 
 <div style="page-break-after: always;"></div>
 
@@ -4293,7 +4167,7 @@ Use the Brawl Ability for retests in combat when you are using your natural
 weapons (teeth, claws or fists). This Ability is also the province of the martial
 arts, although you should specify which art when taking this Ability.
 Character Creation & Traits
-8877
+
 
 <div style="page-break-after: always;"></div>
 
@@ -4350,8 +4224,6 @@ your cool in any social scenario, from high tea to a gang’s rally.
 The Etiquette Ability can be used with Social Tests to impress or blend in at
 parties. If you make a social faux pas, you may expend an Etiquette Ability immedi-
 ately to negate the gaffe — your character knew better than to make the mistake.
-Laws of the Night
-8888
 
 <div style="page-break-after: always;"></div>
 
@@ -4409,7 +4281,7 @@ advantage. You’re one of the latter. Perhaps you uphold the law, or maybe you
 twist it to your own ends. Your knowledge of Law allows you to understand legal
 processes, courts and lawyers, and to use them effectively.
 Character Creation & Traits
-8899
+
 
 <div style="page-break-after: always;"></div>
 
@@ -4464,8 +4336,6 @@ Some Disciplines, most notably Thaumaturgy, rely on the Occult Ability.
 Occult grants some basic (and sometimes erroneous) knowledge of the various
 denizens of the supernatural world; for more detailed information, study Expert
 Ability: Lore in your particular subject of interest.
-Laws of the Night
-9900
 
 <div style="page-break-after: always;"></div>
 
@@ -4522,7 +4392,7 @@ though such a list is far from comprehensive. Combining a Science with different
 fields may give a wide variety results. For example, Science: Metallurgy with Academics
 may give results regarding historical research and theory, while the same Science with
 Character Creation & Traits
-9911
+
 
 <div style="page-break-after: always;"></div>
 
@@ -4578,8 +4448,6 @@ cover the truth of the matter. Even in idle conversation, people use little whit
 lies, slip hints about their true motives, try to guide the course of discussion
 and give away their secrets indirectly. The art of Subterfuge is the art of reading
 these tricks and using them effortlessly.
-Laws of the Night
-9922
 
 <div style="page-break-after: always;"></div>
 
@@ -4601,15 +4469,11 @@ Hunting and avoiding danger in the wilderness usually relies on a Physical Chal-
 lenge. With Survival, you can substitute your Mental Traits if you so desire. Survival
 is also a measure of the character’s ruggedness and ability to overcome obstacles
 and injury, so it can be used in retests of the Fortitude and Protean Disciplines.
-B
-aCkgrounds
 Your character’s Backgrounds help to flesh out ties with mortal agencies, role
 in vampire society and beneficial resources available. Each Background is used dif-
 ferently. In general, having multiple Traits in a given Background allows for better or
 more common use of that benefit. Some Background directly affect your character’s
 creation and development; others are called into play later during the game.
-a
-llies
 A few friends, either kept from your mortal days or made after the Embrace,
 help you out in your endeavors. You can make a few calls and cut a few deals to
 get assistance in a wide range of activities. Your Storyteller will probably require
@@ -4638,14 +4502,14 @@ so counts as a project that lasts for the entire time between game sessions.
 Be wary of calling on your allies too often. An ally may call on you for mutual
 aid or refuse to help if pressed into dangerous or illegal activities.
 Character Creation & Traits
-9933
+
 
 <div style="page-break-after: always;"></div>
 
 [Page 95]
 
-C
-ontaCts
+## Backgrounds: Detailed Rules
+
 With the right contacts in all walks of life, you can get a line on all sorts
 of useful information. Although having an “ear to the wall” doesn’t necessarily
 provide you with good help or loyal servants, it does mean that you know who
@@ -4670,8 +4534,6 @@ decides that Langley is going to engage in a little corporate espionage. Robert 
 Contacts x 4 to Industry, learning about local projects and where they’re bound for; he
 leaves one level of Contacts in reserve, for life’s little emergencies. Next month, he plans
 to use his contacts to find an Underworld buyer for his secrets.
-F
-ame
 Some vampires are Embraced from among the ranks of the wealthy or
 talented elite. As a result, many Cainites can make a claim to some distinction
 in their breathing days. Though such notoriety often fades with the years, your
@@ -4694,8 +4556,6 @@ Fame x 2 City
 Fame x 3 State
 Fame x 4 Adjoining states
 Fame x 5 Entire country
-Laws of the Night
-9944
 
 <div style="page-break-after: always;"></div>
 
@@ -4748,15 +4608,12 @@ Willpower lists your starting Willpower Traits before the slash, and your
 maximum Willpower Traits after the slash. Should the Storyteller choose
 to use the compressed Blood Pool, characters have half the Willpower listed
 (rounded up).
-Character Creation & Traits
-9955
+## Backgrounds (Character Creation)
 
 <div style="page-break-after: always;"></div>
 
 [Page 97]
 
-g
-eneration
 Generation is the measure of one’s fundamental closeness to Caine. Each vampire is
 Embraced from a long chain of sire to childe, and the blood weakens with each passing.
 Those Embraced by a sire closer in the chain to Caine and the Antediluvians find that
@@ -4778,8 +4635,6 @@ Your generation affords great power, for it determines your ultimate po-
 tential and raw potency of blood. However, being of low generation also makes
 you a tempting target for would-be diablerists, who seek to steal your vitae to
 enrich their own.
-h
-erd
 Whether surrounding yourself with mortal cultists, or just making sure
 that you have regular access to a blood bank, your herd gives you a guaranteed
 volume of blood for feeding. You don’t have to go very far to hunt; your herd,
@@ -4803,12 +4658,8 @@ Blood Traits. Paul decides to expend Herd x 1 to gain one additional Trait befor
 placing him at eight Blood Traits. Later, after a particularly strenuous Thaumaturgical
 battle, he is in desperate need of sustenance, so the player marks off another Herd x 2
 and spends 30 minutes out of play. Xavier returns with two extra Blood Traits.
-i
-nFluenCe
 Mortal society builds on institutions. As humans raise their cities, they form
 gatherings of expertise that are manipulated by the Cainites hiding in their midst. If
-Laws of the Night
-9966
 
 <div style="page-break-after: always;"></div>
 
@@ -4865,7 +4716,7 @@ Cost Effect
 1 Trace utility bills
 2 Fake a birth certificate or driver’s license
 Character Creation & Traits
-9977
+
 
 <div style="page-break-after: always;"></div>
 
@@ -4924,8 +4775,6 @@ Cost Effect
 Raise capital ($1,000)
 Learn about general economic trends
 Learn real motivations for many financial actions of others
-Laws of the Night
-9988
 
 <div style="page-break-after: always;"></div>
 
@@ -4984,7 +4833,7 @@ Obtain hard-to-get tickets for shows
 Learn about concerts, shows or plays well before
 they are made public
 Character Creation & Traits
-9999
+
 
 <div style="page-break-after: always;"></div>
 
@@ -5042,8 +4891,6 @@ Directing media attention away from vampire activities is a key component of
 the Masquerade. Putting specific emphasis on certain events can place an enemy in
 an uncomfortable spotlight or discredit a rival. With Media, you can crush or alter
 news stories, control the operations of news stations and reporters and sway public
-Laws of the Night
-111000000
 
 <div style="page-break-after: always;"></div>
 
@@ -5103,7 +4950,7 @@ Avoid minor violations (first conviction)
 Get “inside information”
 3 Get copies of an investigation report
 Character Creation & Traits
-110011
+
 
 <div style="page-break-after: always;"></div>
 
@@ -5162,8 +5009,6 @@ Get hold of a shotgun, rifle or SMG
 Have a word in almost all aspects of gang operations
 5 Control a single medium-sized gang
 Arrange impressive protests by street people
-Laws of the Night
-110022
 
 <div style="page-break-after: always;"></div>
 
@@ -5222,7 +5067,7 @@ Cost Effect
 Have access to low-level university resources
 Get records up to the high school level
 Character Creation & Traits
-110033
+
 
 <div style="page-break-after: always;"></div>
 
@@ -5240,8 +5085,6 @@ Discredit a student
 4 Organize student protests and rallies
 Discredit faculty members
 5 Falsify an undergraduate degree
-m
-entor
 An older or more experienced Cainite looks after you and comes to your
 aid occasionally. Whatever the case, you can get assistance from your mentor,
 though his favor may be fickle.
@@ -5277,14 +5120,10 @@ Since Mentors can prove unbalancing by providing too many different pow-
 ers over the course of a long game, the Storyteller may lower your total Mentor
 Traits as you call on his knowledge. This decrease represents the fact that as your
 character learns the mentor’s secrets, the mentor has less left to teach.
-r
-esourCes
 You have access to liquid capital and spending money. You also have some
 solid resources that you can use when times are tight. Unlike the use of Finance,
 these resources are always readily available, and they come to you automatically
 due to your investments, jobs and holdings.
-Laws of the Night
-111000444
 
 <div style="page-break-after: always;"></div>
 
@@ -5310,8 +5149,6 @@ nying table. If you expend permanent Resources, you can divest yourself of holdi
 allowing access to 10 times the amount shown on the table. However, the limits of
 what you can buy are always adjudicated by the Storyteller. Truly powerful uses of
 Resources are best left to downtimes and moderation between game sessions.
-r
-etainers
 Whether out of personal loyalty, love, Conditioning, the blood bond or some
 other power, you have managed to secure the fellowship of a mortal (or several
 mortals) who obeys your every whim. Unlike the Allies Background, your retainers
@@ -5342,14 +5179,12 @@ too many can be troublesome. Jealous ghouls (especially when many are blood
 bound to the same domitor) can cause no end of troubles.
 For more about ghouls, see Liber des Goules.
 Character Creation & Traits
-110055
+
 
 <div style="page-break-after: always;"></div>
 
 [Page 107]
 
-B
-lood
 Blood is the power that fuels all vampires. Unable to enjoy the pleasures of mortal
 flesh or the comfort of more mundane gratification, only blood offers sustenance to
 Cainites. Vampires must consume blood to survive, and it is with the life contained
@@ -5400,8 +5235,6 @@ Physical Traits up to the limit of your generation for one conflict; any additio
 added with blood beyond that remain only for the duration of a single challenge.
 Example: Romero de la Salle, Lasombra antitribu scourge, wants to augment his
 already-mighty Potence by increasing his Physical Traits over his usual 14. As he is of the
-Laws of the Night
-111000666
 
 <div style="page-break-after: always;"></div>
 
@@ -5446,8 +5279,6 @@ hand, requires your full turn in addition to the blood expenditure.
 You can acquire blood from any creature that has blood, including other
 supernatural creatures, but doing so can cause certain side effects. See pages
 202-203 for information about the effects of drinking such “special” blood.
-w
-illpower
 Willpower Traits measure the strength of your character’s resolve and sense of self.
 By exerting your Willpower, you can withstand otherwise untenable conditions, renew
 your commitment to a course of action and empower certain difficult Disciplines.
@@ -5460,7 +5291,7 @@ you expend temporary Willpower Traits or raise your permanent Willpower, you
 regain temporary Traits at a rate of one per game session (though your Storyteller
 may vary this pace to suit the needs of her game or to simplify bookkeeping).
 Character Creation & Traits
-110077
+
 
 <div style="page-break-after: always;"></div>
 
@@ -5491,8 +5322,10 @@ and including Incapacitated, for the duration of one full turn.
 • Spending a Willpower Trait lets you suppress a derangement temporarily.
 If you spend enough Willpower Traits on suppressing a derangement, you may
 overcome it eventually. Malkavians cannot overcome their primary derangement
-this way. (See “Derangements” on p. 212-214.)
+this way. (See "Derangements" on p. 212-214.)
 • Certain Disciplines or powers require the expenditure of Willpower.
+## Morality & Virtues: Rules
+
 v t
 irtue raits
 When pressed by overwhelming stresses or destructive forces, vampires
@@ -5519,8 +5352,6 @@ a debilitating Negative Trait or problem, as described under the appropriate Vir
 You may make one retest on a failed Virtue Test by risking an appropriate
 Virtue Trait; if you succeed in the retest, you only lose a Virtue Trait temporarily
 (for the rest of the session, making you more likely to succumb to further failings
-Laws of the Night
-111000888
 
 <div style="page-break-after: always;"></div>
 
@@ -5577,7 +5408,7 @@ you win the test, you manage to direct your frenzy for the turn, though of cours
 you still suffer all the usual conditions of frenzy — resistance to injury, inability to
 use your Mental or Social powers and so on. If you lose, your frenzy proceeds as
 Character Creation & Traits
-110099
+
 
 <div style="page-break-after: always;"></div>
 
@@ -5632,8 +5463,6 @@ life-threatening situation
 Three Physical provocation or attacks; taste of blood when hungry
 Four Loved one in danger; humiliated
 Five Outright humiliation; mortal insults
-Laws of the Night
-111100
 
 <div style="page-break-after: always;"></div>
 
@@ -5688,7 +5517,7 @@ Three Bonfire; uncovered window during daylight
 Four House fire; being burned
 Five Trapped in a burning building; direct sunlight
 Character Creation & Traits
-111111
+
 
 <div style="page-break-after: always;"></div>
 
@@ -5705,8 +5534,6 @@ the Wassail, the final frenzy. Your character enters a totally uncontrolled stat
 of berserk rage and instinctive survival. Such a character cannot be coaxed from
 frenzy, cannot control himself and is no longer suitable for play. Other Cainites
 generally put down such unfortunates very quickly.
-d
-erangements
 Mental instability and insanity plague many vampires, who are gripped by their
 guilt, remorse and inability to deal with the changing world. Derangements represent
 specific mental problems that sometimes crop up in situations of stress.
@@ -5723,6 +5550,8 @@ forced to risk an additional Trait to continue with the challenge. Thus, if you 
 Mental Challenge but your opponent successfully guesses one of your Negative Mental
 Traits, you must bid and risk an additional Trait to continue with the challenge. If
 you do not have any more Traits to risk, you automatically lose the challenge.
+# Merits & Flaws
+
 m F
 eritsand laws
 As optional Traits to flesh out your character, Merits and Flaws allow you to
@@ -5745,8 +5574,6 @@ You have a particularly sharp sense (specify which one). In all tests with that
 sense, you are two Traits up on challenge-resolution. Combined with the Auspex power
 of Heightened Senses, this Merit can gift you with truly superhuman acuity. You may
 have multiple Acute Senses, but you may only take this Merit once for each sense.
-Laws of the Night
-111122
 
 <div style="page-break-after: always;"></div>
 
@@ -5802,7 +5629,7 @@ of three, due to your small size. You also have trouble reaching countertops and
 manipulating objects designed for normal people (like cars). You should wear a
 tag to note your condition if you are not actually that short.
 Character Creation & Traits
-111133
+
 
 <div style="page-break-after: always;"></div>
 
@@ -5859,8 +5686,6 @@ heal your bite simply by licking the wound. In fact, mortals can be infected wit
 a serious disease if you feed on them — if you fail a Simple Test after leaving a
 mortal alive but bitten, the mortal contracts a serious disease (see Laws of the
 Hunt for information about mortals and infection).
-Laws of the Night
-111144
 
 <div style="page-break-after: always;"></div>
 
@@ -5917,7 +5742,7 @@ Every time you take a wound, you suffer from the Negative Trait Repugnant, and i
 even after you heal the injury. After a day’s sleep, your skin finally restores itself, but the
 marks are still a difficulty when dealing with the Masquerade before you have slept.
 Character Creation & Traits
-111155
+
 
 <div style="page-break-after: always;"></div>
 
@@ -5974,8 +5799,6 @@ Though the Beast moves in you, it is more subdued than in other vampires.
 You control your passions better than most, or you are just naturally more tem-
 perate. You are one Trait up on resolution of Self-Control/ Instinct and Courage
 Virtue Tests. Brujah may not take this Merit.
-Laws of the Night
-111111666
 
 <div style="page-break-after: always;"></div>
 
@@ -6032,7 +5855,7 @@ phoBia (2 trait Flaw)
 Some object, creature or circumstance fills you with dread. This fear goes far
 beyond the normal level of phobias: Your vampiric Beast instinctively flees the
 Character Creation & Traits
-111177
+
 
 <div style="page-break-after: always;"></div>
 
@@ -6089,8 +5912,6 @@ deBt oF gratitude (1 to 3 trait merit)
 An elder owes you prestation due to a favor performed by you or your
 sire. In keeping with the strictures of Cainite society, there is no easy way for
 the vampire to get out of this debt without repaying you. One Trait indicates
-Laws of the Night
-111111888
 
 <div style="page-break-after: always;"></div>
 
@@ -6148,7 +5969,7 @@ have difficulty affecting you. You gain two Bonus Traits when testing against
 any form of magic, though this bonus applies to both benevolent and harmful
 effects. You can never learn Thaumaturgy if you have this Merit.
 Character Creation & Traits
-111199
+
 
 <div style="page-break-after: always;"></div>
 
@@ -6204,8 +6025,6 @@ from you. See Laws of the Hunt for more ideas about True Faith.
 Cursed (1 to 5 trait Flaw)
 A powerful curse — other than vampirism — afflicts you. The number of Traits
 in this Flaw determines the power and tenacity of the curse. A one-Trait curse
-Laws of the Night
-112200
 
 <div style="page-break-after: always;"></div>
 
@@ -6262,7 +6081,7 @@ Some horrible end awaits you, and you cannot avert it. Worse still, you have
 glimpses or some foreknowledge of your demise or eternal torment. The Storyteller
 will determine a particular fate, which will invariably strike you, removing your
 Character Creation & Traits
-112211
+
 
 <div style="page-break-after: always;"></div>
 
@@ -6279,8 +6098,6 @@ You are even more vulnerable to light than most vampires. Sunlight inflicts
 double damage, and even moonlight hurts — direct moonlight causes one level
 of lethal damage per turn. You must use sunglasses to shield your eyes, and you
 tend to stick to dark places out of habit and safety.
-e
-xperienCe
 As sentient beings, we collate the information that is presented to us in our daily
 lives and hopefully become better people for our experiences. During our life, we
 learn from the mistakes of yesterday and prepare for the challenges of tomorrow.
@@ -6318,23 +6135,20 @@ Experience Traits may be spent to purchase new Abilities, Traits and Dis-
 ciplines, improving a character and giving the player a sense of satisfaction as
 he watches his character grow more potent. The on p.124 chart lists the costs
 for improving Traits, Abilities and Disciplines.
-Laws of the Night
-112222
 
 <div style="page-break-after: always;"></div>
 
 [Page 124]
 
-C C p e
-onverting haraCtersFrom revious ditions
+# Conversion Rules
+
+## Converting Characters From Previous Editions
 Players of the previous version of Laws of the Night can easily convert
 characters built on those rules to the updated rules of the Final Nights. Simply
 follow the character creation outline, using the conversions listed here.
-C C , C ,
-onverting onCept lan
-m , n d
-orality atureand emeanor
-Your character’s concept probably remains unchanged as a result of the
+## Converting Concept, Clan
+## Converting Morality, Nature and Demeanor
+Your character's concept probably remains unchanged as a result of the
 rules — your background story is not affected by the vagaries of Traits.
 Similarly, clans remain largely unchanged. The Gangrel may have left the Camarilla
 en masse, but individuals still choose their own allegiances. Some bloodlines have
@@ -6350,20 +6164,17 @@ Traits, minus one Trait for each Beast/ Path Trait. Thus, a character with two
 Beast Traits now has a Humanity of three Traits.
 Natures and Demeanors follow the Archetypes listed here, though there is
 certainly nothing to prevent the use of previously published Archetypes.
-u C
-pdating lan
+## Updating Clan
 Note specifically that the clan advantages and disadvantages for this edi-
 tion of Laws of the Night differ from the predecessors, which may grant certain
 characters extra Traits or penalties.
-C a
-onverting ttriButes
+## Converting Attributes
 For the most part, Attributes remain unchanged. The number of Traits possessed
 by a character stays the same, and most of the adjectives are the same, too. The sole
 exception is the Physical Trait Athletic, which was replaced with Agile to prevent
 confusion with the Athletics Ability. The Calm Mental Trait was removed, as that is
 a function of Self-Control; substitute Patient, Disciplined or Determined instead.
-C a
-onverting dvantages
+## Converting Advantages
 Changing aBilities
 Abilities remain largely unchanged — converted characters may choose
 specializations, as described for Abilities. Certain highly particular Abilities
@@ -6380,7 +6191,7 @@ this conversion system, the character must buy any missed levels of Disciplines
 before improving to higher levels of the Discipline. Therefore, the aforemen-
 tioned character would have to buy Awe before learning Majesty. Charge the
 Character Creation & Traits
-112233
+
 
 <div style="page-break-after: always;"></div>
 
@@ -6436,15 +6247,12 @@ but converting characters now get two Traits to choose among those Backgrounds
 Traits get back some of those Traits: since generation used to cost two Negative
 Traits per step, the character gets a refund of one Trait per step, usable as Bonus
 Traits. The character’s generation should not change as a result, though.
-Laws of the Night
-111222444
 
 <div style="page-break-after: always;"></div>
 
 [Page 126]
 
-C l t
-onvertingthe ast ouChes
+## Converting The Last Touches
 Changing Blood traits
 Generation determines a character’s total Blood Traits. Don’t worry about
 existing Traits; simply test for blood, as described previously, the next time that
@@ -6474,36 +6282,32 @@ has the appropriate Traits. A character with a Merit that no longer exists shoul
 be allowed to “cash in” the Merit, refunding the Trait value for Experience.
 Lastly, spend five Free Traits — under the Free Trait costs, not Experience
 Trait costs — to finish the conversion.
-C C t p
-onverting haraCtersFrom aBletop lay
+## Converting Characters From Tabletop Play
 Moving a character from tabletop play to live-action can be a little tricky, but
 it’s generally worth the effort. Watching your favorite character blossom into full
 flower as you take on the role physically is both rewarding and exhilarating.
 The new systems in Laws of the Night are designed to mesh more smoothly
 with Vampire: The Masquerade, so tracking the various Disciplines and At-
 tributes is straightforward.
-C v m
-onverting irtuesand orality
+## Converting Virtues and Morality
 The Virtue Trait system for Mind’s Eye Theatre runs very close to the
 tabletop system now, unlike the old Beast Trait system. Virtue Traits convert
 directly across, with one dot turning into one Trait.
 Morality scales are compressed, though, for ease of testing. One Trait of
 Morality (Humanity or Path) equals two dots of tabletop Morality. Round frac-
 tions up, in favor of the character being converted.
-C t C
-onverting aBletop lans
+## Converting Tabletop Clans
 The clans in the tabletop game do have clan weaknesses, but not clan ad-
 vantages. Assign the clan advantages normally to the character while converting
 as a bonus of the system.
 Character Creation & Traits
-112255
+
 
 <div style="page-break-after: always;"></div>
 
 [Page 127]
 
-C t a
-onverting aBletop ttriButes
+## Converting Tabletop Attributes
 Attributes in the tabletop game are rated in dots, from one to five. To
 simulate this rating in live-action play, simply drop the first dot from each one,
 and then assign an appropriate adjective for each additional dot.
@@ -6514,8 +6318,7 @@ of 0. When converted, he gets 4 Stamina-related or miscellaneous Physical Traits
 must take a Negative Social Trait. Kurt decides to take the Physical Traits of Vigorous,
 Enduring, Tough and Resilient, and he assigns the Negative Social Trait Obnoxious
 (in addition to John Slime’s existing Repugnant x 3 Traits).
-C t a
-onverting aBletop Bilities
+## Converting Tabletop Abilities
 The Abilities in tabletop play are more extensive, and they tend to have
 higher levels, than in live-action.
 Instead of trying to take levels for every dot in Abilities, look at the high-
@@ -6523,8 +6326,7 @@ est Abilities on the character sheet. Assign one level to each Ability with thre
 dots, and an additional level to any Ability with four or five dots. If you come
 up with less than five Abilities, simply take the next highest one and take one
 level in it.
-C t d B
-onverting aBletop isCiplinesand aCkgrounds
+## Converting Tabletop Disciplines and Backgrounds
 Disciplines and Backgrounds in Laws of the Night correspond exactly to the
 levels in Vampire: The Masquerade. Take one level in each of the appropriate
 Traits for each dot in the tabletop game.
@@ -6534,8 +6336,7 @@ for live-action play. In Mind’s Eye Theatre conversions, simply split up any d
 of Influence into any desired levels of Influence that total the same amount. If
 your character has three dots of Influence, you get to spread around three Traits of
 Influence in live-action play, among whatever categories desired (or all in one).
-C B t w
-onverting lood raitsand illpower
+## Converting Blood Traits and Willpower
 Blood Traits are used exactly the same in both live-action and tabletop play.
 They convert normally.
 Willpower, on the other hand, varies with generation in Laws of the Night,
@@ -6548,21 +6349,17 @@ Example: John Slime is a 10th-generation Nosferatu. He has seven dots of Willpow
 in tabletop play — 70 percent of maximum. In live-action, he would have between two
 and five Willpower Traits. 70 percent of the way between the two is four, so John Slime
 has four Willpower Traits.
-C t m F
-onverting aBletop eritsand laws
+## Converting Tabletop Merits and Flaws
 The Merits and Flaws from Vampire: The Masquerade have direct corre-
 spondences to this material, so conversion isn’t a problem. However, make sure
 that you understand the full text of the live-action version. Often, the change to
 live-action impacts the game mechanical effects of a given Merit or Flaw.
-Laws of the Night
-111222666
 
 <div style="page-break-after: always;"></div>
 
 [Page 128]
 
-s C C
-ample haraCter reation
+## Sample Character Creation
 Alyson is looking to join a local troupe for a game of Masquerade, and
 after checking with Brian, the Storyteller, she decides she wishes to play one of
 the Kindred. Alyson puts on an inspirational CD while the two of them take a
@@ -6613,7 +6410,7 @@ crusader used to being on her own.
 Disciplines come next; here too is another area Alyson wants to have a broad
 base of powers to call upon, given the complicated nature of Daron’s cause. As a
 Character Creation & Traits
-112277
+
 
 <div style="page-break-after: always;"></div>
 
@@ -6670,8 +6467,6 @@ Disadvantage. Looking over the other Negative Traits, she gains an extra Trait e
 choosing Tactless and Impatient — try as she might, Daron sometimes cuts a little close to
 the bone with her observations, and she hasn’t quite realized yet that real social change
 doesn’t happen overnight. Nothing else seems to suit her in that area, so she looks over
-Laws of the Night
-111222888
 
 <div style="page-break-after: always;"></div>
 
@@ -6726,7 +6521,7 @@ that a character is only full realized once play begins. After she and Brian wor
 details of her introduction at the next game session, Alyson’s all ready to begin, and
 Daron will soon walk under the looming clouds of the Final Nights.
 Character Creation & Traits
-112299
+
 
 <div style="page-break-after: always;"></div>
 
@@ -6779,8 +6574,6 @@ Kiss, even as Kevin started down the road to total enthrallment.
 
 C F :
 HAPTER OUR
-D
-ISCIPLINES
 Though vampirism is a curse, the blood of Caine grants great mystical powers to
 those with the insight and dedication to pursue them. Called Disciplines, these su-
 pernatural abilities grant a vampire exceptional powers — incredible strength or speed,
@@ -6814,8 +6607,6 @@ ghosts therein), Obtenebration (the capacity to unleash spiritual darkness), Pro
 of bloody assassination), Serpentis (a reptilian and manipulative Discipline from
 Egyptian lore), Thaumaturgy (the rigorous study of blood magic) and Vicissitude
 (molding and crafting of blood, flesh and bone). The extraordinarily rare bloodlines
-Laws of the Night
-113322
 
 <div style="page-break-after: always;"></div>
 
@@ -6871,15 +6662,15 @@ and Vicissitude. While the Book of Nod claims that Caine knew every Discipline,
 this would seem to be impossible in light of the fact that the Tremere with their
 Thaumaturgy, the Daughters of Cacophony with their Melpominee, or the Samedi and
 Thanatosis (to name a few) did not exist when Caine was flourishing in Nod.
+# Disciplines
+
 Disciplines
-113333
+
 
 <div style="page-break-after: always;"></div>
 
 [Page 135]
 
-a
-nimalism
 For a vampiric predator, mastery over animals is a simple task; the vampire’s Beast is
 more dangerous than any animal’s nature. By drawing on this feral connection, vampires
 can communicate with and control animals. Indeed, vampires who develop a communion
@@ -6928,8 +6719,6 @@ summoned with this power remain as long as they are not attacked or threatened
 (within their conception — a rat would certainly feel threatened by the move-
 ments of several people in the area), or until the scene ends. You can use other
 Animalism powers normally to command or control the animals called.
-Laws of the Night
-111333444
 
 <div style="page-break-after: always;"></div>
 
@@ -6988,7 +6777,7 @@ must make a Simple Test — a tie indicates that you remain in the grip of anima
 behavior for the rest of the scene, and a failure causes you to immediately enter
 frenzy, though in both cases you return to your Cainite form automatically.
 Disciplines
-113355
+
 
 <div style="page-break-after: always;"></div>
 
@@ -7043,15 +6832,11 @@ Beast, suffering as if subjected to Quell the Beast — you cannot use Willpower
 Traits and you gain the Negative Traits Submissive x 2. You must find the recipi-
 ent of your Beast and “convince” the Beast to return by acting in a monstrous
 fashion, or else kill the victim so that the Beast returns automatically.
-Laws of the Night
-111333666
 
 <div style="page-break-after: always;"></div>
 
 [Page 138]
 
-a
-uspex
 A predator’s senses must be fearfully acute, so many vampires hone their
 sensory talents to incredible sharpness. This improved awareness starts merely
 by expanding physical senses, but as a vampire’s powers of perception grow,
@@ -7103,7 +6888,7 @@ that surrounds all creatures. The interplay of colors in this aura gives you ins
 into the subject’s emotions, motives and true nature. This Discipline is notice-
 able, though, as you stare at the subject with intense concentration.
 Disciplines
-113377
+
 
 <div style="page-break-after: always;"></div>
 
@@ -7159,8 +6944,6 @@ your subject. If you succeed, you establish a brief link, allowing you to send o
 thoughts as long as you maintain the contact. You may issue a stream of thoughts that
 the subject “hears” as a single concept, or you can pluck a thought from the victim,
 asking a single question and demanding a truthful answer. Legitimate secrets that
-Laws of the Night
-111333888
 
 <div style="page-break-after: always;"></div>
 
@@ -7217,7 +7000,7 @@ While your senses are projected, your body lies in a comatose state, un-
 aware of its surroundings. Your psychic form does not tire from travel, nor is it
 hindered or injured by the material world. Indeed, you are completely invisible
 Disciplines
-111333999
+
 
 <div style="page-break-after: always;"></div>
 
@@ -7253,8 +7036,6 @@ rial world. You cannot directly interact with or see wraiths, Umbral spirits or
 Garou (see Oblivion and Laws of the Wild), unless you find a means to travel
 to or sense the other spirit worlds. Similarly, your astral form is invisible and
 intangible to them unless you manifest in the physical world.
-C
-elerity
 As one of the physical augmenting Disciplines of vampires, Celerity repre-
 sents preternatural speed and reflexes. When angered, stressed or consumed
 with need, a Cainite can use the power inherent in the blood to fuel her actions,
@@ -7274,8 +7055,6 @@ Social Disciplines may not be activated during Celerity, except during Alacrity.
 Use of Celerity at the speed of Swiftness or above is generally considered a breach
 of the Masquerade. Note that a vampire need not use her full level of Celerity; a
 vampire with Advanced Celerity could simply rely on the Basic levels if desired.
-Laws of the Night
-111444000
 
 <div style="page-break-after: always;"></div>
 
@@ -7333,7 +7112,7 @@ When you call on your blood, you burst into a whirlwind of motion. Your
 passing extinguishes small flames, whips up flurries of debris and sows confu-
 sion among slower-moving entities.
 Disciplines
-114411
+
 
 <div style="page-break-after: always;"></div>
 
@@ -7348,8 +7127,6 @@ speed, even if your opponent tries to use strength or stamina. Thus, if you use 
 Fleetness to challenge an opponent who uses the strength of Puissance, ties are determined
 normally (since you both have powers that would win all ties). If the opponent only had
 Might, you would win all ties but still be vulnerable to a Might retest.
-C
-himerstry
 The Ravnos tricksters of India live in a world of illusions and dreams. Ac-
 cording to their philosophies, the material world itself is only a passing fantasy.
 Consequently, they wield power over perceptions, shaping their own illusions
@@ -7389,8 +7166,6 @@ at your desire; doing so is immediate and requires no action.
 Fata Morgana
 Your illusions appeal to all of the senses. Though you still cannot harm or
 affect others physically with your phantasms, you can generate static constructs
-Laws of the Night
-111444222
 
 <div style="page-break-after: always;"></div>
 
@@ -7445,7 +7220,7 @@ actually injure people) can and does inflict chimerical damage on changelings.
 Furthermore, since these illusions are fueled by the power of the caster’s blood, they
 cannot be dismissed with simple Banality; active resistance must disbelieve them.
 Disciplines
-114433
+
 
 <div style="page-break-after: always;"></div>
 
@@ -7461,8 +7236,6 @@ gun that always hits or a chimerical stake that seems to bend and twist toward t
 Illusory wounds of this sort cannot kill, though they can certainly drive the victim into
 a comatose state. These wounds only disappear when the victim is convinced either of
 the illusory nature of the effect or when he is convinced that he is “healed.”
-d
-ementation
 The twisted psyches of Clan Malkavian house a passion and insight unmatched among
 the other lines of Cainites. Through their bizarre powers of Dementation, the Malkavians
 spread their madness, catalyzing insanity among mortal and vampire alike. Though this
@@ -7501,8 +7274,6 @@ themselves distracted by inexplicable sensations, often stemming from their own
 hidden fears and guilt. Though you have no control over these images, you can
 choose what sense is affected. With continuous prolonged exposure, your subject
 may fall to madness as these apparitions afflict his consciousness.
-Laws of the Night
-111444444
 
 <div style="page-break-after: always;"></div>
 
@@ -7557,7 +7328,7 @@ as an out-of-clan Discipline) could keep his Disciplines as they are, or decide
 to switch them, taking Dementation as a clan Discipline and having both Basic
 levels while losing one level of his Dominate Discipline.
 Disciplines
-114455
+
 
 <div style="page-break-after: always;"></div>
 
@@ -7579,8 +7350,6 @@ Narrator, for the remainder of the evening. This Discipline is not cumulative �
 you cannot pile up more derangements with successive uses.
 For ease of use of Total Insanity, it may be handy to make up several cards with
 derangements listed on them, and allow your subject to choose five randomly.
-d
-ominate
 Many Cainites are willful creatures, casting about their ambitions and bend-
 ing mortals to their desires. For some, though, the strength of will channels
 into the power to bend minds and control actions. With a piercing gaze and a
@@ -7613,8 +7382,6 @@ directly and immediately. The command cannot last more than 10 minutes.
 Mesmerism
 Like a hypnotist, you can impart commands to your subjects, even keying
 them on specific trigger events. If you can meet your subject’s gaze and speak
-Laws of the Night
-111444666
 
 <div style="page-break-after: always;"></div>
 
@@ -7673,7 +7440,7 @@ Each night that you attempt to exercise Conditioning, you must make a Mental
 Challenge against your victim. If you manage to accumulate as many successes as
 your subject’s Self-Control/ Instinct Traits (or Willpower Traits for victims without
 Disciplines
-111444777
+
 
 <div style="page-break-after: always;"></div>
 
@@ -7728,8 +7495,6 @@ possession
 3 Traits Can also use Dominate and Presence
 4 Traits Can also use Chimerstry, Dementation and Animalism
 5 Traits Can also use Necromancy and Thaumaturgy
-Laws of the Night
-111444888
 
 <div style="page-break-after: always;"></div>
 
@@ -7737,8 +7502,6 @@ Laws of the Night
 
 This power is ineffective on vampires and other supernatural creatures —
 their wills are too strong to be so completely overcome.
-F
-ortitude
 All vampires are supernaturally resilient, capable of surviving blows, slashes, bullet
 wounds and falls with impunity. Some few, however, are even more powerfully resilient,
 able to shrug off the most severe wounds and even resist the powers of fire and sunlight
@@ -7786,7 +7549,7 @@ choose to expend a stamina-related Physical Trait, allowing you to avoid a level
 of damage on a win or tie. Otherwise, you must win the test outright. Use of
 Resistance is reflexive; it does not count as an action.
 Disciplines
-111444999
+
 
 <div style="page-break-after: always;"></div>
 
@@ -7814,8 +7577,6 @@ declare Aegis after you have been “killed,” ignoring the damage that killed 
 and any other injury suffered in the same turn. If you are “killed,” you must use
 Aegis in the same turn — once a new turn begins, you cannot revoke any previous
 damage. Use of Aegis is reflexive; it does not count as an action.
-m
-elpominee
 With this Discipline, the very voice of a Cainite is a powerful tool. Inspiring
 emotion or projecting sound through speech and song, the Melpominee Discipline
 reflects the incredible mastery possessed by the Daughters of Cacophony. The
@@ -7843,8 +7604,6 @@ Missing Voice functions independently of your normal voice.
 You may use The Missing Voice at any time, as desired. However, if you use
 The Missing Voice while performing other actions, you suffer a two-Trait penalty
 on the resolution of challenges due to your split concentration.
-Laws of the Night
-115500
 
 <div style="page-break-after: always;"></div>
 
@@ -7896,12 +7655,10 @@ hears the same words or music that you project. If you use Siren’s Beckoning, 
 make a mass Social Challenge against all of the victims at once. In either case,
 you can only use one power at a time — you cannot use Virtuosa to project speech
 to some people while singing to others simultaneously.
-n
-eCromanCy
 The unwholesome practices of the Giovanni family comprise several paths
 of magic centering on death and the dead. With studies born of centuries of
 Disciplines
-115511
+
 
 <div style="page-break-after: always;"></div>
 
@@ -7957,8 +7714,6 @@ you gain a free retest on your attempt to Summon Soul. Some wraiths cannot be su
 regardless of your efforts; many ghosts are lost in the eternal storm of the Underworld, or
 go on to their final rewards. Vampires who were diablerized or who achieved Golconda
 before Final Death likewise cannot be summoned in this fashion.
-Laws of the Night
-115522
 
 <div style="page-break-after: always;"></div>
 
@@ -8015,7 +7770,7 @@ Indeed, with enough skill, the Ash Path allows a vampire to cross the Shroud int
 the lands of the dead. This frightening power thus allows for myriad effects as the
 vampire reaches into the Underworld and deals freely with the denizens therein.
 Disciplines
-115533
+
 
 <div style="page-break-after: always;"></div>
 
@@ -8071,8 +7826,6 @@ two Blood Traits, and make a Static Physical Challenge with a difficulty of eigh
 Traits. If you succeed, you step through the door into the Underworld. Returning
 to the material world is a matter of concentration; you need only focus your intent
 to do so and expend a Willpower Trait, at which point you return to the living
-Laws of the Night
-111555444
 
 <div style="page-break-after: always;"></div>
 
@@ -8129,7 +7882,7 @@ these zombies follow simple instructions, performing tasks that you set to them.
 You must expend a Blood Trait and a Willpower Trait to use Apprentice’s
 Brooms on one or more corpses, and you must also spend one Mental Trait for each
 Disciplines
-115555
+
 
 <div style="page-break-after: always;"></div>
 
@@ -8186,8 +7939,6 @@ time, a necromancer can use rituals to create wide-ranging or long-lasting effec
 that would otherwise be difficult to do with simple paths.
 On learning Necromancy, the individual learns one Basic ritual. For each level of
 Necromancy learned, another ritual of the appropriate level is also learned; thus, a nec-
-Laws of the Night
-111555666
 
 <div style="page-break-after: always;"></div>
 
@@ -8244,7 +7995,7 @@ directly to the Shadows of ghosts, conversing with their dark sides and learning
 secrets. Furthermore, you can coax deadly plots and treacheries from the recesses
 of the living or undead, simply by communing with their shadowy sides.
 Disciplines
-115577
+
 
 <div style="page-break-after: always;"></div>
 
@@ -8281,8 +8032,6 @@ full year, the item in question vanishes forever. This ritual only works on obje
 that once existed in the real world and that now have ghostly relic equivalent.
 Artifacts — objects created by wraiths in the Underworld — are not affected by
 this power; attempting to bring them across will destroy them.
-o
-Beah
 Though modern Cainites know the Salubri as soul-stealing demonologists, the
 powers of Obeah are a strange mixture of defense and healing. Indeed, powerful Salubri
 can apparently repair the very scars of the Beast on a Cainite’s psyche. Of course, few
@@ -8300,8 +8049,6 @@ Sense Vitality
 The ebb and flow of life is obvious all around you. You can feel the pulse
 of life force with a touch, even sensing the energies of people or Cainites with
 whom you come in contact.
-Laws of the Night
-111555888
 
 <div style="page-break-after: always;"></div>
 
@@ -8357,7 +8104,7 @@ Using Mens Sana requires you to spend about 10 minutes in uninterrupted,
 quiet conversation with the subject. You must expend two Blood Traits and make
 a Static Mental Challenge with a difficulty of the subject’s Mental Traits — more
 Disciplines
-115599
+
 
 <div style="page-break-after: always;"></div>
 
@@ -8399,8 +8146,6 @@ soul after the subject wants to return to his body, you risk losing your own Hum
 a Mental Challenge against you once per night to break free in such a case.
 You cannot use Unburdening the Bestial Soul to restore your own Humanity/
 Path Traits.
-o
-BFusCate
 As creatures of cunning, intrigue and misdirection, Cainites possess an uncanny knack
 for deception and stealth. For some, though, this ability goes far beyond normal subterfuge.
 Such vampires actually cloud the minds of people around them, dulling notice and directing
@@ -8414,8 +8159,6 @@ use its mind-numbing powers to gather secrets and hide their fearful countenance
 Because Obfuscate clouds the awareness of its targets, they avoid notice of a concealed
 individual and to rationalize away such attention unless it is forced on them. Thus, if a
 vampire is concealed with this Discipline while wandering about a room, people avoid
-Laws of the Night
-111666000
 
 <div style="page-break-after: always;"></div>
 
@@ -8473,7 +8216,7 @@ as you do not speak, make any loud noises or interact with your environment — 
 wander about unnoticed, but you automatically become visible if you open a door, attack
 a person, exert the Presence Discipline or knock over a vase, for instance.
 Disciplines
-111666111
+
 
 <div style="page-break-after: always;"></div>
 
@@ -8529,8 +8272,6 @@ fails to locate you, simply hearing a disembodied voice; those who best you mana
 to pierce the veil of your Obfuscate. You still cannot remain invisible while interacting
 physically with your environment, screaming, exerting Presence or attacking, but you
 could take such an action and then try to fade away, as described previously.
-Laws of the Night
-111666222
 
 <div style="page-break-after: always;"></div>
 
@@ -8564,8 +8305,6 @@ the protection for everyone else, but if you are noticed, then the entire cloak 
 Cloak the Gathering only throws your Obfuscate over other creatures or entities.
 You cannot use Cloak the Gathering to shroud a house, for instance, but you can
 certainly conceal a small group of vampires and all that they wear or carry.
-o
-BteneBration
 The bailiwick of the Lasombra clan, the Obtenebration Discipline summons forth
 and shapes a strange, cloying darkness. This darkness is wholly unnatural. It mutes
 sound, absorbs light and sometimes seems to have a tangible substance. Some Cainites
@@ -8587,7 +8326,7 @@ the stuff takes on a hellishly cloying quality and bends to your supernatural wi
 You must expend a Blood Trait to use Shadow Play; once activated, it lasts for the
 duration of the scene or for an hour. You can affect one individual with the flapping,
 Disciplines
-111666333
+
 
 <div style="page-break-after: always;"></div>
 
@@ -8645,8 +8384,6 @@ like a vampire, though they are considered to have any Fortitude that you may
 possess. You can add your Potence to the might of the tentacles as well, though
 not at the same time as you are adding your Fortitude. You may not combine the
 effects of Obtenebration with the powers of any other Disciplines.
-Laws of the Night
-111666444
 
 <div style="page-break-after: always;"></div>
 
@@ -8687,8 +8424,6 @@ your shadowy form with Obfuscate. In this shadow form, your Blood Traits are the
 sort of inky darkness, and thus, they are unaffected by the powers of Thaumaturgy.
 While in Tenebrous Form, fire and sunlight are exceedingly painful to you;
 thus, you suffer a one-Trait penalty on resolution of Courage Tests.
-p
-otenCe
 All vampires are capable of preternatural strength by human standards, simply through
 the use of blood. With Potence, though, this strength extends far beyond such measures.
 The inhuman might of Potence is sufficient to allow a vampire to break bones, shatter
@@ -8703,7 +8438,7 @@ vampire in question, many Cainites seek out tutors in this Discipline.
 The Potence Discipline, as a physically augmenting Discipline, does not use
 any Ability for retests other than the Ability commonly associated with whatever
 Disciplines
-111666555
+
 
 <div style="page-break-after: always;"></div>
 
@@ -8758,8 +8493,6 @@ Trait. This Trait does not count toward totals when resolving ties or overbids, 
 it can never be lost; thus, you may continually use Potence in successive tests of
 strength. Only if you are forced to risk multiple Traits — such as due to wounds
 or Negative Traits — do you risk losing any of your other Physical Traits.
-Laws of the Night
-111666666
 
 <div style="page-break-after: always;"></div>
 
@@ -8778,8 +8511,6 @@ Furthermore, your incredible strikes inflict an additional health level of damag
 combat. This bonus applies to any attack in which your strength is a factor — unarmed
 combat or combat with melee weapons. However, use of this incredible strength
 almost certainly breaks weapons that are not specially designed to stand it.
-p
-resenCe
 To many, vampires seem to exude an air of command, sensuality or intimi-
 dation. For a master of Presence, emotions are playthings to be manipulated and
 stimulated. When many Cainites survive through careful manipulation of mortal
@@ -8817,7 +8548,7 @@ scene or hour. If cornered, the victim will still defend himself, but he will do
 to escape you. The subject defends himself normally, but he must risk an additional
 Trait if he wishes to attack or act against you, just as if he were wounded.
 Disciplines
-111666777
+
 
 <div style="page-break-after: always;"></div>
 
@@ -8873,8 +8604,6 @@ Majesty
 The force of your personality makes even the most stalwart tremble. When
 you exert your Majesty, heads bow, hearts break and spines quiver. None would
 dare to challenge you or risk your ire, for your ambiance is without peer.
-Laws of the Night
-111666888
 
 <div style="page-break-after: always;"></div>
 
@@ -8895,8 +8624,6 @@ a deliberate attack disrupts your Majesty.
 When attempting to penetrate Majesty, a Willpower Trait may be used for
 a retest. This is an exception to the normal rule that Willpower is used only to
 defend against Mental and Social Challenges.
-p
-rotean
 Survival in the wilds is difficult indeed for vampires, who must find means to
 avoid sunlight, hunt and evade marauding Lupines. The shapeshifting Gangrel,
 though, have mastered this craft, and their Protean Discipline is thought to be
@@ -8931,7 +8658,7 @@ earth itself, taking with you only your clothing and small personal possessions 
 you carry (such as a cellular phone or a small pistol). Using the power protects you
 completely from daylight and allows you to sleep undisturbed. You remain unaware
 Disciplines
-111666999
+
 
 <div style="page-break-after: always;"></div>
 
@@ -8987,15 +8714,11 @@ world physically, you can still use Disciplines that do not require a physical f
 (you cannot use Dominate, for instance, because you have no eyes, but you could
 exert Presence). While in Mist Form, you may move as desired at the pace of a
 brisk walk, although you can be pushed about by strong winds.
-Laws of the Night
-111777000
 
 <div style="page-break-after: always;"></div>
 
 [Page 172]
 
-Q
-uietus
 The deadly assassins of the Assamite clan study the Quietus Discipline. By
 transmuting their blood into poison, they deliver death to their targets in ter-
 rible silence and agony. This Discipline has become significantly altered since
@@ -9046,7 +8769,7 @@ uses only one Trait of blood (and thus reduces only one Physical Trait from the
 victim). Of course, preparing yourself thus is a legitimate tactic if you think you will
 be in a protracted fight and you want a weapon sufficient for several strikes.
 Disciplines
-117711
+
 
 <div style="page-break-after: always;"></div>
 
@@ -9095,15 +8818,11 @@ one level of aggravated damage. You must directly spew this blood out; if it mis
 the victim or is placed on an object, it loses its toxicity within the turn. Note that
 the blood must be deliberately converted into a poison in this fashion — your own
 blood can still be drained from your body without poisoning the drinker.
-s
-erpentis
 The Followers of Set use Serpentis, a power connected with the snakes that
 are the hallmark of Set’s worship. The uncanny capabilities of this Discipline
 are disturbing indeed, marking the Follower as something far different from
 human — or even from other vampires. Despite the cold, reptilian features of
 this Discipline, many of its manifestations are strangely alluring. Followers of
-Laws of the Night
-117722
 
 <div style="page-break-after: always;"></div>
 
@@ -9160,7 +8879,7 @@ so you are a tremendous, black-and-gold nightmare serpent.
 You must expend one Blood Trait to transform into The Form of the Cobra.
 The change takes a full three turns, and the rate cannot be accelerated. Cloth-
 Disciplines
-117733
+
 
 <div style="page-break-after: always;"></div>
 
@@ -9192,8 +8911,6 @@ exposed to fire or sunlight (even a single health level’s worth), it is destro
 its owner erupts into flame, reduced to ash (and Final Death) in a single turn.
 Use of The Heart of Darkness can also return a stolen heart to its former body.
 Obviously, trying to use this power on a mortal, even a ghoul, is messily fatal.
-t
-hanatosis
 The corpselike bodies of vampires are innately tied to death. No Discipline
 reflects this process of arrested decay so clearly as Thanatosis. The Samedi blood-
 line practices this nightmare Discipline, using its powers to control the very
@@ -9216,8 +8933,6 @@ appearance, but you can also use little pockets of flesh to conceal small object
 about your person, although such bulges or depressions may be visible if your
 skin is not already marred (say, by the signature deformities of the Nosferatu
 and Samedi) or found during a pat-down search.
-Laws of the Night
-111777444
 
 <div style="page-break-after: always;"></div>
 
@@ -9274,7 +8989,7 @@ certainly afflict other limbs. Victims with multiple limbs affected suffer all o
 the Negative Traits appropriately. With no functional arms, a victim cannot
 attack physically; with no legs, the subject cannot move.
 Disciplines
-117755
+
 
 <div style="page-break-after: always;"></div>
 
@@ -9291,8 +9006,6 @@ off in pieces. Furthermore, the victim takes the Negative Traits Decrepit and
 Repugnant as a result of the attack; these Negative Traits remain until the dam-
 age heals. Multiple strikes can inflict additional damage and Negative Traits in
 a cumulative fashion, rendering the victim a pool of putrescent liquid.
-t
-haumaturgy
 Vampires are creatures of magic, and tales in the Book of Nod tell of rituals
 and powers unknown to the common spate of Disciplines. For the most part,
 such strange capabilities — controlling the weather, altering one’s own blood,
@@ -9331,8 +9044,6 @@ koldun study the ways of Thaumaturgy that were brought by former Tremere defecto
 Rumors hold that true koldun actually study a completely different form of sorcery,
 far older than Tremere Thaumaturgy, but none would ever wish to meet a Tzimisce
 old and twisted enough to know the truth of such matters.
-Laws of the Night
-111777666
 
 <div style="page-break-after: always;"></div>
 
@@ -9389,7 +9100,7 @@ Blood of Potency
 You can mystically concentrate the vitae within your system, making it more
 potent for a short time. Doing so affords you many of the benefits of a genera-
 Disciplines
-117777
+
 
 <div style="page-break-after: always;"></div>
 
@@ -9445,8 +9156,6 @@ Perhaps one of the most feared forms of vampire magic, The Lure of Flames allows
 you to summon forth magical fire. The burning power of your blood is shaped into
 dancing flame that answers your command. Although such fires are small at first,
 masters of this path can conjure forth veritable hellstorms of unnatural flame.
-Laws of the Night
-111777888
 
 <div style="page-break-after: always;"></div>
 
@@ -9502,7 +9211,7 @@ gravated damage from the fire. Furthermore, until the target takes a full action
 to smother the flame, he continues to suffer an additional level of aggravated
 damage at the end of every successive turn. The victim does, of course, score
 Disciplines
-117799
+
 
 <div style="page-break-after: always;"></div>
 
@@ -9557,8 +9266,6 @@ Manipulate
 Your control of forces allows you to exert fine manipulation over something at range.
 When you Manipulate an object, you can toy with it in any fashion that you could with
 one hand. Thus, you can remotely pick something up, push a button or fire a gun.
-Laws of the Night
-111888000
 
 <div style="page-break-after: always;"></div>
 
@@ -9613,7 +9320,7 @@ Gripping a target with mental force, you bend its motions to your will. As
 you direct its movements with your commanding magical phrases and gestures,
 it spins, flies and moves according to your direction.
 Disciplines
-118811
+
 
 <div style="page-break-after: always;"></div>
 
@@ -9669,8 +9376,6 @@ Permanency
 Simple objects that you conjure can now be invested with your power, making
 them real and permanent. You need not make an item permanent, but if you choose
 to do so, it remains without any further concentration or effort on your part.
-Laws of the Night
-111888222
 
 <div style="page-break-after: always;"></div>
 
@@ -9726,7 +9431,7 @@ Decay
 Inanimate matter crumbles rapidly under your touch. Even dead organic
 material quickly melts into a puddle of putrescence.
 Disciplines
-111888333
+
 
 <div style="page-break-after: always;"></div>
 
@@ -9781,8 +9486,6 @@ victim to little more than a pile of dust. Mortals almost always die instantly a
 collapse to putrefied remains, while even vampires are withered.
 If you manage to get a firm grip on your victim with a Physical Challenge,
 you can cause him to turn to dust. Each Physical Trait that you expend afterward
-Laws of the Night
-111888444
 
 <div style="page-break-after: always;"></div>
 
@@ -9838,7 +9541,7 @@ a penny on the mortal as you complete this ritual, and until the next dawn, the
 subject suffers the Negative Social Traits Repugnant and Obnoxious.
 The Open Passage
 Disciplines
-111888555
+
 
 <div style="page-break-after: always;"></div>
 
@@ -9894,8 +9597,6 @@ the bone is blackened and useless, home only to a dark spirit twisted by lies.
 Incorporeal Passage
 By looking into a fragment of a mirror while intoning this chant, you become
 completely incorporeal. Physical attacks pass through you while you may step unhindered
-Laws of the Night
-111888666
 
 <div style="page-break-after: always;"></div>
 
@@ -9952,7 +9653,7 @@ the usual constraints of diablerie, allowing multiple vampires to share in the f
 of a victim’s power. You must restrain the victim in some fashion while casting
 this ritual over him. At the ritual’s completion, up to five vampires may attempt to
 Disciplines
-111888777
+
 
 <div style="page-break-after: always;"></div>
 
@@ -9973,8 +9674,6 @@ discretion. You can even bring other people, though each additional traveler req
 another sacrifice. The Umbra is a dangerous place, traveled by werewolves and unfriendly
 spirits. Umbra Walk lasts until you choose to step back into the material plane. See Laws
 of the Wild for more detailed information about the spirit worlds.
-v
-iCissitude
 The Fiends of Eastern Europe harbor twisted secrets that make other vampires
 shudder. Vicissitude, the signature Discipline of the Tzimisce clan, reflects the inner
 nature of the most alien of vampires. Through Vicissitude, the wielder can reshape
@@ -10008,8 +9707,6 @@ to three such additional Traits maximum).
 Fleshcraft
 Your hands can turn flesh to putty, shaping it like potter’s clay. You can perform
 drastic alterations to the flesh and organs of any creature that you touch.
-Laws of the Night
-111888888
 
 <div style="page-break-after: always;"></div>
 
@@ -10066,7 +9763,7 @@ the piece becomes inert. While fully in Bloodform, you can use mental Discipline
 and you are immune to all physical dangers except fire or sunlight. If all of the blood
 is imbibed or destroyed while you are in this form, though, you meet Final Death.
 Disciplines
-111888999
+
 
 <div style="page-break-after: always;"></div>
 
@@ -10127,13 +9824,12 @@ C F :
 HAPTER IVE
 R , S
 ULES YSTEMS
-D
-AND RAMA
+DAND RAMA
 Rules are an integral part of any game; they define what characters can and
 cannot do. Only when confrontation does occur are rules necessary to govern
 those situations. Still, the primary focus of this game is to tell a good story.
-C
-hallenges
+# Challenges
+
 There comes a time when two or more players come into conflicts that cannot
 be resolved through roleplaying alone. The system detailed in this chapter allows
 for the resolution of conflicts efficiently and quickly. This sort of face-off is called
@@ -10160,8 +9856,6 @@ static forces represented by a Narrator.
 initial Bid
 A challenge begins with a player “bidding” one of her Traits against her opponent.
 At the same time, she must declare what the conditions of the challenge are — like firing a
-Laws of the Night
-111999222
 
 <div style="page-break-after: always;"></div>
 
@@ -10218,7 +9912,7 @@ Paper. Paper covers Rock. Identical signs indicate a tie. Certain advanced power
 some characters to use gestures other than Rock, Paper and Scissors. Before players can use
 the gestures in a test, however, they must explain what they are and how they are used.
 Rules, Systems, & Drama
-119933
+
 
 <div style="page-break-after: always;"></div>
 
@@ -10239,8 +9933,6 @@ the failed challenge. This rule includes supernatural powers that use Mental or
 Social Challenges unless they specify otherwise — a character cannot continue at-
 tempting one Mesmerism after another until he finally succeeds. This stricture does
 not include trials that are failed but then redeemed through retests or overbids.
-C
-ompliCations
 There are a number of ways in which a challenge can be made more com-
 plicated. The basic rules are enough to resolve most disputes, but the following
 rules add a few bells and whistles.
@@ -10276,8 +9968,6 @@ if they lose the initial test. Armand the elder with 16 Physical Traits should b
 Phil the neonate who has only three. This system is designed to make that possible.
 Once a test has been made, the loser has the option of calling for an “overbid.”
 In order to call an overbid, you must risk a new Trait; the original one has already
-Laws of the Night
-111999444
 
 <div style="page-break-after: always;"></div>
 
@@ -10334,7 +10024,7 @@ ing the conditions of the retest. Thus, if a player uses Firearms to retest when
 firing a gun, the opponent may expend a level of Dodge to block the retest and
 force the attacker to accept the results of the original test.
 Rules, Systems, & Drama
-119955
+
 
 <div style="page-break-after: always;"></div>
 
@@ -10387,14 +10077,13 @@ five Physical Traits left, and Shane has his full eight Traits. Shane pounces in
 (“I’m too Stalwart for you to get by me!”), and Michael decides he’ll try to counter by knocking
 the stubborn Gangrel down (“I fetch you a Ferocious smash across the knees!”). They perform
 a test, and Shane loses; he suffers a wound from the attack and is knocked aside. However,
-Michael cannot escape yet — he’s used up his action this turn by striking Shane. Meanwhile,
-Daron declares that for her action she’ll move to a better position for next turn.
-t m s
-he oB Cene
+Michael cannot escape yet — he's used up his action this turn by striking Shane. Meanwhile,
+Daron declares that for her action she'll move to a better position for next turn.
+# Group Scenes
+
+## The Mob Scene
 It’s a fact of life that sooner or later a large group of characters will decide to mix
 it up. Group challenges can seem intimidating even to experienced Narrators and
-Laws of the Night
-111999666
 
 <div style="page-break-after: always;"></div>
 
@@ -10453,7 +10142,7 @@ Mind’s Eye Theatre time breaks down into five major allotments: chronicles,
 stories, sessions, scenes and turns. A chronicle is defined as a series of smaller stories
 that are all connected somehow, and which may take months or even years to complete.
 Rules, Systems, & Drama
-119977
+
 
 <div style="page-break-after: always;"></div>
 
@@ -10488,8 +10177,6 @@ to allow characters to maintain their holdings, learn Disciplines and see to oth
 of their existence. Other actions and interactions may take place during this time,
 with Storyteller supervision. As long as players don’t use abuse downtime privileges,
 the time between sessions can be a rewarding roleplaying experience in itself.
-h
-ealth
 A character in a Masquerade game has different health levels that represent the
 amount of injury the character can endure. These levels include: Healthy, Healthy,
 Bruised, Bruised, Bruised, Wounded, Wounded, Incapacitated, Torpor and/or Final
@@ -10511,8 +10198,6 @@ immobile, although he may whisper pained sentences. He may not enter into
 challenges until he has healed at least one health level. He is at the mercy of
 other characters, and he may do nothing more than heal himself. Kindred suffer
 Final Death if they suffer aggravated wounds at this point.
-Laws of the Night
-111999888
 
 <div style="page-break-after: always;"></div>
 
@@ -10566,7 +10251,7 @@ Some types of damage are more dangerous than others: a punch to the jaw
 is less likely to kill than a knife wound. Bashing damage is defined as any injury
 which is painful but fades relatively quickly, such as kicks, punches or tackles. Lethal
 Rules, Systems, & Drama
-119999
+
 
 <div style="page-break-after: always;"></div>
 
@@ -10600,8 +10285,8 @@ few things that can destroy them permanently. In game terms, all wounds inflicte
 by normal or magical fires do aggravated damage to Kindred, and sufficiently large
 sources of flame will inevitably provoke a Courage Test to avoid Rötschreck. A character
 on fire must win or tie a Simple Test and spend one action dousing the flames.
-C
-omBat
+# Combat
+
 Combat is the usual intent behind Physical Challenges. Essentially, combat
 involves two characters in physical conflict. The players agree what the outcome
 of the challenge will be, each player bids an appropriate Trait and a test is per-
@@ -10613,8 +10298,6 @@ anything, whether it’s tripping an opponent or throwing him out of a window.
 The results of a combat challenge may also be different for both participants;
 for example, if a frenzied Malkavian is trying to tear apart a fleeing mortal, the
 mortal might try to get away from his opponent instead of hurting her.
-s
-urprise
 If a player does not respond within three seconds of the declaration of a Physical
 Challenge, the character is considered to have been surprised — he is not fully prepared
 for what’s coming. Sometimes a player is busy with another activity or is playing a
@@ -10626,8 +10309,6 @@ respond in time to an attack, but still won the challenge, the challenger would 
 injured. Furthermore, if the challenger loses the test, she may call for a second challenge
 by risking another Trait. After this second challenge, regular challenge rules resume.
 Overbidding is permitted for both challenger and challenged in surprise situations.
-Laws of the Night
-222000000
 
 <div style="page-break-after: always;"></div>
 
@@ -10668,8 +10349,6 @@ Fair Escape from a foe using Advanced Celerity.
 These rules are meant to hasten play, not complicate it. Always try to employ
 common sense when using Fair Escape. (As a rule of thumb, if it takes several
 minutes to explain why a Fair Escape would be justified, it probably isn’t.)
-w
-eapons
 For obvious reasons, no real weapons are ever allowed in Mind’s Eye The-
 atre games. Even nonfunctional props are forbidden if they can be mistaken for
 weapons. This system does not use props of any kind, nor are players required
@@ -10687,7 +10366,7 @@ other players to see that you actually possess a weapon. When you have a weapon
 card in your hand, you are considered to be holding the weapon.
 Some weapons have Negative Traits that can be used by the wielder’s oppo-
 Rules, Systems, & Drama
-220011
+
 
 <div style="page-break-after: always;"></div>
 
@@ -10744,8 +10423,6 @@ a few shots. When a high-caliber weapon hits a target, the attacker should make
 a Simple Test immediately. A win indicates that the target suffers an additional
 health level of damage from the shot.
 Incendiary
-Laws of the Night
-222000222
 
 <div style="page-break-after: always;"></div>
 
@@ -10804,7 +10481,7 @@ Traits: Clumsy, Heavy or Slow, the knife-fighter gains the option to pre-empt th
 ponent’s attacks and strike first in any turn, as long as he has the Melee Ability.
 Wooden Stake — A short length of wood sharpened at one end, these humble
 Rules, Systems, & Drama
-222000333
+
 
 <div style="page-break-after: always;"></div>
 
@@ -10858,8 +10535,6 @@ handgun commonly encountered, from zip guns and holdout pieces to 9mms
 and standard police-issue sidearms.
 Bonus Traits: 2
 Negative Traits: Loud
-Laws of the Night
-222000444
 
 <div style="page-break-after: always;"></div>
 
@@ -10915,7 +10590,7 @@ ing immediately next to each other and are further than 10 feet from the person 
 the gun. Fully Automatic: A submachine gun inflicts an additional health level of damage
 if the entire clip is emptied into a target standing no more than five feet away.
 Rules, Systems, & Drama
-222000555
+
 
 <div style="page-break-after: always;"></div>
 
@@ -10971,8 +10646,6 @@ play continues as normal with that new challenge. The target is considered to be
 surprised for the first attack, and if he has no ranged weapon with which to return
 fire, he is considered “surprised” for as long as the aggressor can attack him without
 facing resistance (that is, if he wins on a challenge, she doesn’t take damage).
-Laws of the Night
-222000666
 
 <div style="page-break-after: always;"></div>
 
@@ -11030,7 +10703,7 @@ a lower chance of success.
 The Merit Ambidextrous means that you suffer no penalty for an off-hand, since both
 of your hands are equally nimble. You still suffer coordination penalties for using both
 Rules, Systems, & Drama
-222000777
+
 
 <div style="page-break-after: always;"></div>
 
@@ -11062,8 +10735,6 @@ roleplayed out rather than resort to the rules; in this case, if one of the play
 while roleplaying this action, his opponent is considered to be the winner. If a quick result
 is needed, or if neither of the players relents, a Social Challenge is used to determine
 the victor instead, with the loser breaking eye contact and losing the contest.
-F
-renzy
 When Kindred undergo the Embrace, the Beast within them is loosed forever,
 causing them to occasionally succumb to a vicious form of madness where they are little
 more than a wild animal. While in frenzy a character feels no pain and acts on instinct,
@@ -11087,8 +10758,6 @@ challenges against the same stimulus for the rest of the scene or conflict.
 Characters with the Instinct Virtue always enter frenzy, unless they have more
 Instinct than double the rating of the frenzy shown on the table, in which case
 they may choose whether or not to enter frenzy. Once in frenzy, the character can
-Laws of the Night
-222000888
 
 <div style="page-break-after: always;"></div>
 
@@ -11143,7 +10812,7 @@ asking what they fled from, and a Camarilla vampire faces rapid Status loss.
 All vampires must battle Rötschreck when faced with exposure to fire, sunlight
 and the presence of especially powerful faith, but in addition to those fundamental
 Rules, Systems, & Drama
-222000999
+
 
 <div style="page-break-after: always;"></div>
 
@@ -11164,8 +10833,6 @@ difficulty, no Traits risked). Rötschreck is otherwise considered identical to 
 the purposes of determining its duration, as well as all challenges and Willpower costs
 necessary to prevent or end it, with Courage substituted for Self-Control/ Instinct wherever
 applicable. Characters may also be talked out of Rötschreck just like frenzy.
-g
-olConda
 slaking the endless hunger
 Some vampires pursue a mystical state of being known as Golconda, where
 the vampire finally accepts the terms of the Curse. The Camarilla scoffs at the
@@ -11202,8 +10869,6 @@ Laws of the Hunt; however, some basic rules for Faith are included here.
 • By brandishing his holy symbol, the bearer gains the Social Trait: Intimidat-
 ing when repelling undead and warding off supernatural powers. If used to strike
 a supernatural creature, a holy symbol grants the extra Physical Traits Burning
-Laws of the Night
-221100
 
 <div style="page-break-after: always;"></div>
 
@@ -11259,7 +10924,7 @@ him a central figure in her life. She may do as she pleases, but she must win or
 tie a Simple Test to take actions directly harmful to the vampire. Furthermore,
 she is one Trait down to resist any of the vampire’s Social Challenges.
 Rules, Systems, & Drama
-221111
+
 
 <div style="page-break-after: always;"></div>
 
@@ -11288,8 +10953,6 @@ someone other than her regnant may be able to break the bond with the power
 of her love, but doing so requires arduous, in-depth roleplaying. Finally, some
 vampires whisper that the Sabbat knows of ways to break the blood bond, but
 it imparts them to only those who join the sect.
-d
-erangements
 Vampires and mortals alike risk developing derangements when faced with
 overpowering conditions of extreme terror, guilt or anxiety. The Storyteller may decide
 a derangement is in order after any experience that generates especially intense and
@@ -11318,8 +10981,6 @@ stress, then purge their systems through drastic means and consume more. Charact
 with this derangement must make a Static Conscience/ Conviction Challenge when
 feeding; failure means the vampire feeds until his blood pool is full, whether or not
 he needs the blood. If forcibly kept from feeding, the vampire must resist frenzy.
-Laws of the Night
-221122
 
 <div style="page-break-after: always;"></div>
 
@@ -11378,7 +11039,7 @@ confidence, they are considered one Trait up on all Willpower tests while their
 derangement is active, but they must also make a Willpower test (difficulty six
 Traits) to resist any opportunity to commit diablerie during that time.
 Rules, Systems, & Drama
-221133
+
 
 <div style="page-break-after: always;"></div>
 
@@ -11436,15 +11097,11 @@ dead father is telling them to murder their uncle. This disorder is anything but
 relevant to the original trauma. Kindred with this derangement are unpredictable and
 dangerous — in situations where their inner conflict flares up, they must automatically
 retest any win to resist frenzy, and they are two Traits down on all Willpower tests.
-Laws of the Night
-222111444
 
 <div style="page-break-after: always;"></div>
 
 [Page 216]
 
-d
-iaBlerie
 Of all the crimes known to the Kindred, none is more feared than the soul-stealing
 sin known as diablerie, or the Amaranth. Those convicted of this crime suffer the
 harshest punishments in the Camarilla, and the mere suspicion of diablerie is enough
@@ -11493,7 +11150,7 @@ succeed at Static Mental
 Challenge against a difficulty
 of three Traits.
 Rules, Systems, & Drama
-221155
+
 
 <div style="page-break-after: always;"></div>
 
@@ -11547,12 +11204,8 @@ kinslaying makes most young Kindred eager to expose any diablerists among them.
 of their victims, especially if their victim was exceptionally strong-willed or of a
 greatly lower generation than the diablerist. Naturally, clever Storytellers will be
 quick to pick up on this trait when dealing with habitual diablerists.
-s
-tatus
 Kindred have developed many intricate rules of protocol and procedure
 when dealing with each other. Power-hungry vampires vie for positions of im-
-Laws of the Night
-222111666
 
 <div style="page-break-after: always;"></div>
 
@@ -11612,7 +11265,7 @@ Status for the offending Kindred, unless the vampire ignored was far less influe
 than the offender. Some form of punishment should be expected, though — elders
 consider those who flout the system dangerously disruptive.
 Rules, Systems, & Drama
-221177
+
 
 <div style="page-break-after: always;"></div>
 
@@ -11654,8 +11307,6 @@ primogen may also lower the prince’s permanent Status in the same fashion.
 • Remember, you may only gain one Status Trait per story, but you may lose
 more than one Trait. Again, there are two exceptions to this rule: Status granted
 or sanctioned by the prince, and Status received for assuming a station.
-s
-tations
 There are eight official stations that a Kindred may hold, each of which grants
 Status within a city. Cities with small Kindred populations may double up certain
 stations, or even leave positions vacant. It is highly recommended that the most power-
@@ -11671,8 +11322,6 @@ Known and Famous. He can never lose these Traits permanently while remaining pri
 cost of one temporary Status Trait per Trait removed.
 • The prince can grant permanent Status Traits to any Kindred at a cost of one
 temporary Trait for each Trait awarded. The prince (and only the prince) may thus break
-Laws of the Night
-222111888
 
 <div style="page-break-after: always;"></div>
 
@@ -11731,7 +11380,7 @@ Keeper of Elysium
 • The keeper of Elysium gains the additional Status Trait: Honorable on attaining the of-
 fice. As long as the character remains the keeper, he cannot lose this Trait permanently.
 Rules, Systems, & Drama
-221199
+
 
 <div style="page-break-after: always;"></div>
 
@@ -11754,8 +11403,6 @@ the crime to the prince. Should the prince find the evidence insufficient or be
 unconvinced of the crime, he may return the stripped Status to the character.
 • Not all cities have reinstated the office of scourge, and even those that have do not
 consider it a noble aspiration, but rather a necessary evil born of the Final Nights.
-p
-restation
 Prestation is the name the Kindred give for the art of using Status, and tech-
 nically, it is defined as when one Kindred officially becomes indebted to another
 vampire for services rendered. In reality, however, prestation is far more complicated
@@ -11789,8 +11436,6 @@ on a sense of timing and a character’s skill at bartering. Other Kindred may r
 you for doing so, but in crisis a matter of prestation may seem a small price to pay.
 A favor is as valuable as the Traits associated with it. Thus a minor boon (two Traits)
 and a major boon (three Traits) are fair compensation for a life boon (five Traits).
-Laws of the Night
-222200
 
 <div style="page-break-after: always;"></div>
 
@@ -11850,7 +11495,7 @@ they despise each other so strongly that any Status the other would possess woul
 little or no effect on their antagonists. The Traits themselves also differ, because the
 Sabbat holds different values to be worthy of admiration than the Camarilla does.
 Rules, Systems, & Drama
-222211
+
 
 <div style="page-break-after: always;"></div>
 
@@ -11907,8 +11552,6 @@ auCtoritas ritae
 This list of Auctoritas Ritae is, by no means, exhaustive. It merely lists the
 ones most common to and useful in Laws of the Night games.
 The Creation Rites
-Laws of the Night
-222222
 
 <div style="page-break-after: always;"></div>
 
@@ -11965,7 +11608,7 @@ Fun and games
 Of course, all slaughter of the infidel servants of the Antediluvians and no play
 makes the Sabbat dull vampires, and it should come as no surprise that the Sabbat have
 Rules, Systems, & Drama
-222233
+
 
 <div style="page-break-after: always;"></div>
 
@@ -12022,8 +11665,6 @@ regular blood bond.
 Vaulderie Rules
 • Find a chalice, cup, bowl or some other physical representation thereof
 (hats do nicely in a pinch) and dig around for those Blood Traits.
-Laws of the Night
-222222444
 
 <div style="page-break-after: always;"></div>
 
@@ -12079,7 +11720,7 @@ undertaken lightly by even the most warlike Sabbat. Players should keep in mind 
 no matter what happens during the “no holds barred” combat of the Monomacy, all the
 rules of Mind’s Eye Theatre still apply.
 Rules, Systems, & Drama
-222255
+
 
 <div style="page-break-after: always;"></div>
 
@@ -12137,8 +11778,6 @@ her plans for now, but they’d serve his ends.
 
 C S :
 HAPTER IX
-S
-TORYTELLING
 a y s ?
 re oua toryteller
 That’s good, because this chapter is for you! This section details essential
@@ -12171,8 +11810,6 @@ once a month, Storytellers usually deal with some aspect of an ongoing chronicle
 ever day. You may well find the game pervading your life in ways you never imagined.
 Over-enthusiastic players will call you late at night to talk about the new ritual they want
 to research. Plot elements will pop into your imagination at the most inconvenient mo-
-Laws of the Night
-222222888
 
 <div style="page-break-after: always;"></div>
 
@@ -12230,8 +11867,10 @@ Storytellers familiar with Vampire: The Masquerade who now wish to try a
 live-action game will notice a significant difference between the two types of narra-
 tion immediately: The materials at hand are markedly different. The story universe
 of Vampire: The Masquerade is the collective fabrication of the Storyteller and the
+# Storytelling
+
 Storytelling
-222222999
+
 
 <div style="page-break-after: always;"></div>
 
@@ -12287,8 +11926,6 @@ perceptions and provoke our emotions?
 Rebellion — What prompts us to rebel? How do we choose the targets of
 rebellion? Is rebellion always necessary to effect change? Can rebellion occur
 without violence and bloodshed?
-Laws of the Night
-222333000
 
 <div style="page-break-after: always;"></div>
 
@@ -12344,7 +11981,7 @@ acters are tense and irritable, and they lash out at everyone and everything aro
 them frequently. Individuals can progress from close friends to avowed enemies
 swiftly, and events that seem innocuous at first often take on savage, angry tones.
 Storytelling
-223311
+
 
 <div style="page-break-after: always;"></div>
 
@@ -12400,8 +12037,6 @@ Sabbat, a Sabbat-held city threatened by invading archons or a location held by 
 sect that is facing a threat from the Lupines (see Laws of the Wild for details on creating
 Garou antagonists). This type of story caters to players who prefer their action fast and
 physical, offering lots of combat and violence, both planned and unplanned.
-Laws of the Night
-222333222
 
 <div style="page-break-after: always;"></div>
 
@@ -12458,7 +12093,7 @@ Characters will also cooperate with one another in a frighteningly efficient man
 ner from time to time, solving all the puzzles and conundrums that you thought
 would take them the entire night to understand. More occasionally the players
 Storytelling
-223333
+
 
 <div style="page-break-after: always;"></div>
 
@@ -12515,8 +12150,6 @@ sCale
 The scale of your story is its relative size, the number of players who want to
 play. You can run stories for as few as two players or as many as 200, but stories
 for 20 to 30 players are the most common. The scale of many stories is often
-Laws of the Night
-222333444
 
 <div style="page-break-after: always;"></div>
 
@@ -12571,7 +12204,7 @@ who will be the next prince of the city, so change the value of story consequenc
 and rewards periodically to keep things from stagnating. This need is especially
 strong if any of your players are involved in such long-term plots as breaking a
 Storytelling
-223355
+
 
 <div style="page-break-after: always;"></div>
 
@@ -12627,8 +12260,6 @@ that does not rob the players of the joy and satisfaction of accomplishment.
 Denouement
 The story winds down after its climax. The excitement and tension abates,
 and all the story pieces (most of them, at least) come together at last to form an
-Laws of the Night
-222333666
 
 <div style="page-break-after: always;"></div>
 
@@ -12685,7 +12316,7 @@ Take, for example, a plot that concerns the slow awakening of an elder from
 torpor and her affect on the characters’ locale. Some characters will be affected
 directly and immediately by the main plot as they discover and clash with the elder’s
 Storytelling
-222333777
+
 
 <div style="page-break-after: always;"></div>
 
@@ -12741,8 +12372,6 @@ confused about what they want to do next. You can plan for this eventuality and
 establish good and clear reasons for characters to interact with one another.
 Those character backgrounds are the ideal place to begin planning for char-
 acter interaction. Were two characters in the story Embraced in London during
-Laws of the Night
-222333888
 
 <div style="page-break-after: always;"></div>
 
@@ -12799,7 +12428,7 @@ the story backdrop before the story even begins. These story “land mines” go
 if characters meet predetermined criteria known only to you. For example, you decide
 when you create the story that the local FBI field office is supervised by an agent who
 Storytelling
-222333999
+
 
 <div style="page-break-after: always;"></div>
 
@@ -12854,8 +12483,6 @@ glow sticks make great light sources for sewers (and the red ones give off a glo
 that’s reminiscent of firelight). If you can’t turn off some of the lights or replace
 them with dimmer bulbs, try draping a screen of dark cloth over them to cut
 down the direct light, being careful not to create a fire hazard.
-Laws of the Night
-222444000
 
 <div style="page-break-after: always;"></div>
 
@@ -12912,7 +12539,7 @@ them from their storage place to the game and back. Smaller props can present
 the same problem if you have many boxes of them or if some of them are fragile.
 Check with the owners of your game site about prop storage. You might be able
 Storytelling
-224411
+
 
 <div style="page-break-after: always;"></div>
 
@@ -12968,8 +12595,6 @@ personal computer for most of your record-keeping and maintenance. Insist that
 every player turn in a copy of her character sheet to you before participating in a
 single game, even if it means that she sits out the first hour of the game to copy out
 a character sheet for you by hand. Keep this original copy in your files and make
-Laws of the Night
-222444222
 
 <div style="page-break-after: always;"></div>
 
@@ -13027,7 +12652,7 @@ is your chance to remind players of this necessity once again! Characters must
 have clear motivations, plans, hopes, dreams and goals, or they are little more
 than a dry collection of statistics on equally dry paper.
 Storytelling
-222444333
+
 
 <div style="page-break-after: always;"></div>
 
@@ -13084,8 +12709,6 @@ g o
 ame n
 Give your players a minute or two to collect themselves and get “into
 character.” Advise them that they should remain in character henceforth unless
-Laws of the Night
-222444444
 
 <div style="page-break-after: always;"></div>
 
@@ -13144,7 +12767,7 @@ travel further down the path toward her goal tonight. The character who wishes
 to become the prince, for example, should plan to meet and speak with as many
 different characters as possible during the evening, in order to maintain a high
 Storytelling
-222444555
+
 
 <div style="page-break-after: always;"></div>
 
@@ -13200,15 +12823,11 @@ and be prepared to give them some extra help as they muddle through the first
 games. You will be rewarded with seeing someone develop confidence in her
 roleplaying and taking on an active role without needing encouragement, and
 that means another strong veteran player you can count on.
-Laws of the Night
-222444666
 
 <div style="page-break-after: always;"></div>
 
 [Page 248]
 
-n
-arrators
 You can’t be everywhere during a game session. Sooner or later you will real-
 ize that something critical to the story occurred and you weren’t even aware of it
 until a week later! Sometimes you will actually be the last person to know about
@@ -13258,7 +12877,7 @@ to undertake a variety of activities between games.
 The most inconvenient aspect of downtime or “off-line” gaming is that
 you cannot be present to personally adjudicate every activity. The best means of
 Storytelling
-222444777
+
 
 <div style="page-break-after: always;"></div>
 
@@ -13300,8 +12919,6 @@ teller — this penalizes their tardiness by giving them no opportunity to spend
 Experience Traits or clear new equipment cards before plunging into the action.
 Another method is to oblige these players to wait, not taking part in the game,
 until you have the time and opportunity to deal with their tardy arrival.
-t
-rouBleshooting
 player Boredom: “there’s nothing to do in this game!”
 You will hear this refrain at some point during your tenure as a Storyteller.
 If you choose your players wisely and prepare your stories adequately, you won’t
@@ -13313,8 +12930,6 @@ the player identify the source of the problem:
 • Is the player pursing her goals actively?
 • Is the player hoarding information she should be sharing?
 • Is the player refusing to interact with other players during games?
-Laws of the Night
-222444888
 
 <div style="page-break-after: always;"></div>
 
@@ -13371,7 +12986,7 @@ in character and out of character, advise them to adopt a means of determining
 when a conversation or other communication is occurring outside the context
 of the game. Suggest that the players remain in character at all times for the
 Storytelling
-222444999
+
 
 <div style="page-break-after: always;"></div>
 
@@ -13427,8 +13042,6 @@ Traits. When a character expends either Trait, the player must turn over the
 appropriate token(s) to you. When a player runs out of tokens, she runs out of
 those Traits. Tokens can be a very graphic reminder of how precious Blood and
 Willpower Traits are to characters!
-Laws of the Night
-222555000
 
 <div style="page-break-after: always;"></div>
 
@@ -13480,7 +13093,7 @@ or the feeling of power it gives him, but whatever his motivation you must deal
 with him quickly, calmly and decisively. It’s your story, and you’re well within
 your rights to remove such offenders from your game permanently.
 Storytelling
-225511
+
 
 <div style="page-break-after: always;"></div>
 
@@ -13539,16 +13152,11 @@ settling of a piece in a large puzzle of crystal.
 
 C S :
 HAPTER EVEN
-A
-LLIES AND
-A
-NTAGONISTS
+ALLIES AND
 There are far more beings than vampires roaming under the dark skies. Some
 are allies, some are enemies and some defy simple definitions altogether. This chapter
 presents basic material on the many other supernatural factions of the World of
 Darkness, as well as some idea of how to present them in a Masquerade game.
-a
-narChs
 true Freedom never dies
 When the fires of the Inquisition roared and elders sacrificed their childer
 to save themselves, the Anarch Revolt erupted in response, as younger vampires
@@ -13573,8 +13181,6 @@ Los Angeles overthrew the prince and declared the entire city an Anarch Free
 State. Now, almost the entire West Coast (and a fair portion inland) constitutes
 the Anarch Free States, bordered by the Sabbat in Mexico and interrupted only by
 San Francisco, which continues to hold its ground as a Camarilla stronghold.
-Laws of the Night
-222555444
 
 <div style="page-break-after: always;"></div>
 
@@ -13612,8 +13218,6 @@ Enmity or other traits relating to a bad reputation in Kindred society or fallou
 from their decision to join the Anarch Movement. Additionally, Storytellers may
 disallow anarch characters from taking Kindred Ties Merits such as Prestigious
 Sire or Reputation without an excellent explanation.
-g
-houls
 those who serve
 Vampires employ many human servants in their nightly games, but perhaps none
 are so useful — or dangerous — to Kindred as ghouls. Created when a living being drinks
@@ -13632,7 +13236,7 @@ While the Camarilla makes extensive use of ghouls, the Sabbat does not. The
 concept of a mortal being given even a fraction of the benefits of vampirism is anathema
 to that sect. However, occasionally there is no other way to control a particular pawn,
 Allies & Antagonists
-225555
+
 
 <div style="page-break-after: always;"></div>
 
@@ -13684,13 +13288,9 @@ bond and therefore could betray their masters or even hunt them for their blood.
 of necessity, although they may gain all the benefits of ghouldom (as well as its
 drawbacks) by ingesting vampire blood. Ghouled revenants may learn Vicissitude
 in addition to regular ghoul Disciplines.
-h
-unters
 souls who Brave the darkness
 Despite the Camarilla’s strict enforcement of the Masquerade and the clumsy efforts
 at secrecy that the Sabbat makes, some mortals inevitably learn of the undead menace that
-Laws of the Night
-222555666
 
 <div style="page-break-after: always;"></div>
 
@@ -13748,7 +13348,7 @@ mysteries related to the unseen world. Scientific as it is, the Arcanum takes di
 rarely, preferring to observe instead, although some Arcanists are formidable psychics
 or hedge wizards in their own right. The arcane resources they have at their fingertips
 Allies & Antagonists
-222555777
+
 
 <div style="page-break-after: always;"></div>
 
@@ -13805,8 +13405,6 @@ able to “scent” out most vampires no matter where they may hide themselves, 
 Kindred scholars believe that werewolves hunt vampires as part of some monumental
 religious Jyhad of their own. The only thing that has kept the two sides from an apocalyptic
 confrontation over the centuries is the reluctance most Lupines exhibit to enter the cities,
-Laws of the Night
-222555888
 
 <div style="page-break-after: always;"></div>
 
@@ -13861,7 +13459,7 @@ a Lupine’s relative is still assured a quick Final Death), the Outlanders and 
 leave each other in peace. As for the rest of the Kindred, Lupines tend to kill first and
 ask questions later, an attitude vampires eagerly reciprocate. Some especially diplomatic
 Allies & Antagonists
-222555999
+
 
 <div style="page-break-after: always;"></div>
 
@@ -13917,15 +13515,11 @@ Projection caught wandering lost the spirit plane. (Note: In the spirit world Lu
 silver cords, since they are actually physically “there;” this does not stop them from attacking
 the silver cord of a Kindred, however. Should a Lupine and a Kindred attack each other in
 the Umbra, the Kindred bids Mental Traits and the Lupine bids Physical Traits.)
-Laws of the Night
-222666000
 
 <div style="page-break-after: always;"></div>
 
 [Page 262]
 
-m
-agi
 weavers on the loom oF reality
 Few things are as frightening as the unknown, which explains why most elders are
 terrified of wizards. Even the Tremere cannot comprehend the ways of the mortal mystics,
@@ -13976,7 +13570,7 @@ Abilities related to their style of magic (Computer and Science for a technowiz-
 ard, Brawl and Meditation for a wandering yogi). Ultimately wizards are mortal,
 however — they heal as slowly as mortals do unless they employ some form of
 Allies & Antagonists
-222666111
+
 
 <div style="page-break-after: always;"></div>
 
@@ -14030,8 +13624,6 @@ Mummy blood is described as tasting stale or like dust, but it will provide
 nourishment and fuel Disciplines. At Storyteller discretion, the vampire may
 be be briefly assaulted by a flood of memories, which will continue to hover
 on the fringes of his consciousness until the blood is gone. Mummies can die
-Laws of the Night
-222666222
 
 <div style="page-break-after: always;"></div>
 
@@ -14086,7 +13678,7 @@ incoming spell and they take no other action that turn. This “countermagic”
 is typically a Mental Challenge, although it may be changed to fit individual
 circumstances at the Narrator’s discretion.
 Allies & Antagonists
-222666333
+
 
 <div style="page-break-after: always;"></div>
 
@@ -14143,8 +13735,6 @@ wish to damage them directly, although such efforts are extremely draining.
 • The Restless can usually be found around any area which was the site of a great deal
 of emotional trauma (battlefields, murder scenes), although areas of light emotion sometimes
 attract them as well. In such places, the Shroud is weaker than normal, making it easier
-Laws of the Night
-222666444
 
 <div style="page-break-after: always;"></div>
 
@@ -14163,8 +13753,6 @@ bodies and walk the Skinlands again. Dead as they are, these wraiths — called 
 known to display unique powers and amazing devotion to their wraithly Passions;
 indeed, some misguided hunters have realized their mistake only after an irritated
 Risen plucked the stake from its heart and continued on its way...
-F
-aeries
 immortal dreams in mortal Flesh
 Long ago, the world was a different place, filled with legendary heroes and mythi-
 cal beasts. That time has since faded into antiquity, but not everyone has forgotten it.
@@ -14203,7 +13791,7 @@ and capricious as the primal dreams they originated from.
 More on faeries can be found in The Shining Host; a brief summary of
 pertinent faerie traits follows:
 Allies & Antagonists
-222666555
+
 
 <div style="page-break-after: always;"></div>
 
@@ -14261,8 +13849,6 @@ are put forth, however, there are a few basic points to remember:
 Check the FAQs — Mind’s Eye Theatre has evolved considerably since its
 creation, and many common crossover questions are answered in various FAQ
 sections of the main rulebooks. Furthermore, the Mind’s Eye Theatre Journal
-Laws of the Night
-222666666
 
 <div style="page-break-after: always;"></div>
 
@@ -14320,7 +13906,7 @@ ruling becomes the standard for the game. Doing so does not bar you from making
 rulings on your own — if you foresee a problem, by all means settle it before the
 game if you can — but by saving most of the decisions until play begins, you allow
 Allies & Antagonists
-222666777
+
 
 <div style="page-break-after: always;"></div>
 
@@ -14376,8 +13962,6 @@ if they were reversed and Dice had only Basic Chicanery and Amber had Advanced A
 then she would automatically detect him (again, no test involved). If both of them had the same
 overall power level (both had Intermediate levels overall in their respective powers, for example),
 a test of some kind would determine which power wins — in this case a Mental Challenge.
-Laws of the Night
-222666888
 
 <div style="page-break-after: always;"></div>
 
@@ -14428,7 +14012,7 @@ relative
 Gypsy Vampire.
 Numinous Mortal Vampire; previous Numina are lost.
 Allies & Antagonists
-222666999
+
 
 <div style="page-break-after: always;"></div>
 
@@ -14460,8 +14044,7 @@ Daughters of Cacophony 56 Ravnos 54
 Salubri 57 Ravnos antitribu 55
 Samedi 58 Serpents of the Light 49
 Toreador 36
-C
-Toreador antitribu 37
+CToreador antitribu 37
 Tremere 38
 Camarilla, the 16 Tremere antitribu 39
 Challenges 192 Tzimisce 44
@@ -14498,8 +14081,6 @@ Derangements 71 Potence 165
 Flaws 71 Presence 167
 Free Traits 71 Protean 169
 Merits 72 Quietus 171
-Laws of the Night
-222777000
 
 <div style="page-break-after: always;"></div>
 
@@ -14519,9 +14100,7 @@ E Prestation 220
 Experience 122 R
 Experience Chart 124
 Rötschreck 209
-F
-S
-Faeries 265
+FSFaeries 265
 Frenzy 208 Sabbat, the 18
 Creation Rites 224
 G Monomacy 225
@@ -14558,7 +14137,7 @@ Morality Paths 74 Werewolves 258
 Willpower 107
 Wraiths 264
 Index
-227711
+
 
 <div style="page-break-after: always;"></div>
 

@@ -1,6 +1,31 @@
 # Version History
 
-## Current Version: 0.9.30
+## Current Version: 0.9.37
+
+**Date:** 2026-01-30  
+**Type:** Patch (Git sync: version sync and project updates)
+
+## Previous Version: 0.9.36
+
+**Date:** 2026-01-30  
+**Type:** Patch (Git sync: version sync and project updates)
+
+## Previous Version: 0.9.33
+
+**Date:** 2026-01-30  
+**Type:** Patch (Version sync and project updates)
+
+## Previous Version: 0.9.32
+
+**Date:** 2026-01-30  
+**Type:** Patch (Added hierarchical AGENTS.md documentation system for AI coding agents)
+
+## Previous Version: 0.9.31
+
+**Date:** 2026-01-30  
+**Type:** Patch (Version sync and project updates)
+
+## Previous Version: 0.9.30
 
 **Date:** 2026-01-30  
 **Type:** Patch (Git sync: staging and committing project changes)

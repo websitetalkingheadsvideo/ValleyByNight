@@ -1,20 +1,20 @@
 /* Admin Agents - Report View Modal Styles */
 
 .json-display {
-    background: #1a0f0f;
-    border: 1px solid #8B0000;
-    border-radius: 5px;
+    background: var(--bg-darker);
+    border: 2px solid var(--blood-red);
+    border-radius: 0.75rem;
     padding: 20px;
     font-family: 'Courier New', monospace;
     font-size: 14px;
     line-height: 1.6;
-    color: #f5e6d3;
+    color: var(--text-light);
     max-height: 600px;
     overflow-y: auto;
 }
 
 .json-key {
-    color: #8B0000;
+    color: var(--blood-red);
     font-weight: bold;
 }
 
@@ -49,14 +49,14 @@
 
 .report-summary {
     background: rgba(139, 0, 0, 0.1);
-    border-left: 3px solid #8B0000;
+    border-left: 3px solid var(--blood-red);
     padding: 15px;
     margin-bottom: 20px;
-    border-radius: 5px;
+    border-radius: 0.75rem;
 }
 
 .report-summary h6 {
-    color: #8B0000;
+    color: var(--blood-red);
     margin-bottom: 10px;
     font-weight: bold;
 }
@@ -77,7 +77,7 @@
 }
 
 .report-summary-value {
-    color: #f5e6d3;
+    color: var(--text-light);
     font-weight: bold;
 }
 
@@ -85,8 +85,8 @@
 
 /* Status badge styling */
 .agent-status-badge {
-    background-color: var(--blood-red, #8B0000);
-    color: var(--text-light, #f5e6d3);
+    background-color: var(--blood-red);
+    color: var(--text-light);
     font-size: 0.75rem;
     padding: 0.25rem 0.5rem;
 }
@@ -97,8 +97,8 @@
 
 /* Card border styling */
 .agents-grid .card {
-    border: 1px solid var(--blood-red, #8B0000);
-    border-color: var(--blood-red, #8B0000) !important;
+    border: 2px solid var(--blood-red);
+    border-color: var(--blood-red) !important;
 }
 
 /* Card body spacing adjustments */
@@ -123,7 +123,7 @@
 }
 
 .planned-agents-panel h2 {
-    color: var(--text-light, #f5e6d3);
+    color: var(--text-light);
     font-size: 1.5rem;
 }
 
@@ -134,7 +134,7 @@
 
 .planned-agents-list li {
     padding: 0.5rem 0;
-    color: var(--text-mid, #d4c4b0);
+    color: var(--text-mid);
     border-bottom: 1px solid rgba(139, 0, 0, 0.1);
 }
 
@@ -144,18 +144,18 @@
 
 /* Character Agent - Results Content Styling */
 #resultsContent {
-    background: linear-gradient(135deg, #8B0000 0%, #600000 100%);
-    border-radius: 5px;
+    background: linear-gradient(135deg, var(--blood-red) 0%, #600000 100%);
+    border-radius: 0.75rem;
     padding: 20px;
-    color: #f5e6d3;
+    color: var(--text-light);
 }
 
 /* Alert Blood - Custom blood red alert styling */
 .alert-blood {
-    background: linear-gradient(135deg, #8B0000 0%, #600000 100%);
-    border: 1px solid #b30000;
-    border-radius: 0.5rem;
-    color: #f5e6d3;
+    background: linear-gradient(135deg, var(--blood-red) 0%, #600000 100%);
+    border: 2px solid #b30000;
+    border-radius: 0.75rem;
+    color: var(--text-light);
     padding: 1rem 1.5rem;
     margin-bottom: 1rem;
     box-shadow: 
@@ -164,13 +164,13 @@
 }
 
 .alert-blood .alert-heading {
-    color: #f5e6d3;
+    color: var(--text-light);
     margin-bottom: 0.75rem;
     font-weight: bold;
 }
 
 .alert-blood .text-light {
-    color: #f5e6d3 !important;
+    color: var(--text-light) !important;
 }
 
 .alert-blood .opacity-75 {

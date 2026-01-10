@@ -1,0 +1,12 @@
+{
+    "edge_id": "rel_00123",
+    "from_type": "npc|faction|location",
+    "from_id": "npc_rey_gonzalez",
+    "to_type": "npc|faction|location",
+    "to_id": "npc_barry_horowitz",
+    "relation": "ally|rival|debt|mentor|suspicion|blood_bond",
+    "strength": "low|medium|high",
+    "visibility": "public|private|secret",
+    "evidence": ["scene_seed:ss_004", "rumor_seed:rs_009"]
+  }
+  
