@@ -29,8 +29,7 @@ as he did so, feeling, rather than seeing, Donata bristle beside him.
 “Must you do that?” she said, an edge of real irritation coloring her voice.
 Her words echoed hollowly in the space of the tunnel they stood in. “He’ll hear
 you and get spooked, and then all this will be for naught.”
-Peter smiled and sat down on a projecting ledge. The concrete was surpris-
-ingly smooth and cool to the touch, and he found himself hoping that there
+Peter smiled and sat down on a projecting ledge. The concrete was surprisingly smooth and cool to the touch, and he found himself hoping that there
 wouldn’t be too much dust on his suit when he got out of here. “Are you sure
 it isn’t that I’m offending your delicate sensibilities? I’m sure that you’ve heard
 much finer whistling in Elysium.”
@@ -75,8 +74,7 @@ behind you, and if you take another step, I’ll rip your throat out and go look
 for another runner. Kristof recommended you to me because he said you were
 smart. Be smart now, and stop.”
 Beside Coleman, Donata could barely swallow her laughter. Kristof the
-Nosferatu had recommended Kevin, yes — but because he was expendable. Intel-
-ligence was never part of the equation.
+Nosferatu had recommended Kevin, yes — but because he was expendable. Intelligence was never part of the equation.
 “Okay,” Kevin said. “I’m stopping, but only because I want to.” He turned
 around slowly. “So where are you? Show yourself. What’s your name? Why the
 hell did we have to do this here?”
@@ -257,7 +255,7 @@ Vampire the Masquerade, Vampire the Dark
 Ages, Mage the Ascension and World of Darkness are registered trademarks of CCP
 hf. All rights reserved. Werewolf the Apocalypse, Wraith the Oblivion, Changeling the
 Dreaming, Werewolf the Wild West, Trinity, Laws of the Night, The Long Night, Liber
-des Goules, The Shining Host, Laws of the Wild, Laws of the Hunt, Laws of the Hunt
+des Ghouls, The Shining Host, Laws of the Wild, Laws of the Hunt, Laws of the Hunt
 Players Guide, Oblivion, and Storytelling System are trademarks of CCP hf. All rights
 reserved. All characters, names, places and text herein are copyrighted by CCP hf. CCP
 North America Inc. is a wholly owned subsidiary of CCP hf.
@@ -390,8 +388,8 @@ quirks and details will emerge as you play, it’s a good idea to have the basic
 for the first time you walk into a room and meet the other characters.
 Characters are the heart and soul of the story. Without them, all the efforts
 of the Storyteller would be for nothing, and there would be no stories to tell.
-t s
-he toryteller
+
+The Storyteller
 The Storyteller is the one who creates the world that the players move through.
 She creates a skeletal framework of setting and plot, then turns the characters
 loose to put flesh on its bones. More than that, she acts as an impartial judge
@@ -1925,11 +1923,7 @@ uncommon occult insight are the Fiends’ influence in
 hallmarks of the Tzimisce. Once the Sabbat is second only
 the pre-eminent sorcerers of to the Lasombra clan’s,
 Cainite society, they now serve and many believe that the
-the Sabbat as terrifying, alien Tzimisce manipulate the
-creatures that epitomize Lasombra as well.
-the traditional character- Few can under-
-iissttiiccss ooff vvaammppiirreess.. TThhee stand the motives of
-great Vlad the Tzimisce. Many
+the Sabbat as terrifying, Alien Tzimisce manipulate the creatures that epitomize the Lasombra as well. The traditional character of vampires is often difficult to grasp; few can truly understand the motives of the great Vlad Tzimisce. Many see him as a monster even among monsters, an inhuman force of will and flesh whose ambitions defy mortal logic.
 Dracul him- are insane or sim-
 self is said ply alien to
 to be one of human or
@@ -2021,10 +2015,7 @@ The Clans
 
 [Page 47]
 
-FFFrrrooommm hhhiiiddddddeeennn fffooorrrtttrrreeesssssseeesss iiinnn ttthhheee MMMiiiddddddllleee EEEaaasssttt,,, ttthhheee AAAssssssaaammmiiittteeesss eeemmmeeerrrgggeee aaasss ttthhheee sssiiillleeennnttt ssstttaaalllkkkeeerrrsss
-of other Cainites. Secretive, insular and fanatically loyal to the precepts of their clan, the As-
-samites claim to be descendants of Haqim (Assam), who is said to fight against Khayyin (Caine)
-and his curse. As a result, the Assamites seek to convert or slay other Cainites, attempting
+From hidden fortresses in the Middle East, the Assamites emerge as the silent stalkers of other Cainites. Secretive, insular, and fanatically loyal to the precepts of their clan, the Assamites claim to be descendants of Haqim (Assam), who is said to fight against Khayyin (Caine) and his curse.As a result, the Assamites seek to convert or slay other Cainites, attempting
 to purge the foul curse of Khayyin and bring honor to Haqim’s
 cause of justice. Needless to say, such pursuits — including
 hunting other Cainites for blood, and engaging in diablerie
@@ -2226,10 +2217,7 @@ The Clans
 
 [Page 51]
 
-FFFFFFrrrrrroooooommmmmm tttttthhhhhheeeeee ffffffrrrrrroooooozzzzzzeeeeeennnnnn nnnnnnoooooorrrrrrtttttthhhhhhllllllaaaaaannnnnnddddddssssss,,,,,, tttttthhhhhheeeeee tttttthhhhhhiiiiiicccccckkkkkk ffffffoooooorrrrrreeeeeessssssttttttssssss aaaaaannnnnndddddd iiiiiiccccccyyyyyy mmmmmmoooooouuuuuunnnnnnttttttaaaaaaiiiiiinnnnnnssssss,,,,,, tttttthhhhhheeeeee llllllaaaaaannnnnnddddddssssss
-ooooofffff vvvvviiiiiccccciiiiiooooouuuuusssss bbbbbeeeeeaaaaassssstttttsssss aaaaannnnnddddd mmmmmooooonnnnnsssssttttteeeeerrrrrsssss cccccooooommmmmeeeee ttttthhhhheeeee GGGGGaaaaannnnngggggrrrrreeeeelllll..... BBBBByyyyy tttttuuuuurrrrrnnnnnsssss aaaaannnnniiiiimmmmmaaaaallllliiiiissssstttttiiiiiccccc aaaaannnnnddddd
-iiiinnnnssssiiiigggghhhhttttffffuuuullll,,,, tttthhhheeeeyyyy eeeemmmmbbbbooooddddyyyy tttthhhheeee mmmmoooosssstttt ffffeeeeaaaarrrrssssoooommmmeeee pppprrrreeeeddddaaaattttoooorrrrssss aaaammmmoooonnnngggg vvvvaaaammmmppppiiiirrrreeeessss.... FFFFrrrroooommmm
-their kind come the tales of such horrors as Grendel and the Norse berserkers.
+From the frozen northern lands, the thick forests and icy mountains—lands of vicious beasts and monsters—come the Gangrel. Brutal, animalistic, and insightful, they embody the most fearsome predators among vampires. From their kind come the tales of such horrors as Grendel and the Norse berserkers.
 The undisputed masters of the wild ways, the Gangrel are feared and respected
 for their unmatched prowess in survival. Some, it is whispered, even hunt or
 deal with the dread Lupines; certainly, their clan’s shape-shifting powers and
@@ -3000,6 +2988,7 @@ savage children and not for vampires of the Camarilla or independent clans.
 Paths of Enlightenment are advanced moral codes. They espouse an utterly alien
 viewpoint, with little grounding in anything resembling human morality. These are
 best played by experienced players. Consult a Storyteller before choosing a Path.
+<!-- CHUNK: character_creation.traits_attributes -->
 ## Traits & Attributes
 
 s t : a
@@ -3007,7 +2996,7 @@ tep wo ttriButes
 Natural capabilities use Attributes for descriptions. Every character has
 certain innate qualities. Attributes describe these qualities, marking a character’s
 particular areas of intrinsic talent.
-Choosing attriButes
+## Choosing attriButes
 Each character has areas of modest skill and other areas of excellence. You
 determine your character’s natural talents, selecting whether your character is
 to be physically adroit, mentally agile or socially adept. The character’s concept
@@ -3032,8 +3021,8 @@ versely attentive, logical or intuitive.
 Choose the priority of your character’s attributes. Each character is stronger
 in some areas than in others, at least at first. Obviously, clan and concept shape
 these attributes to some degree, but only a broad outline is needed in this step.
-Choosing traits
-Once you’ve decided on your character’s inherent strengths, you should de-
+## Choosing traits
+Once you've decided on your character's inherent strengths, you should de-
 scribe exactly the sorts of exceptional characteristics he possesses. In your primary
 area of attribute development, choose seven Traits; in your secondary, choose
 five; in your tertiary area, select three Traits. Traits are adjectives describing the
@@ -3057,8 +3046,8 @@ as friends, social standing or Cainite sponsors. Disciplines are the powers of t
 blood, the finely honed endowments that come with the Curse. Lastly, Virtues
 represent a character’s strength of moral behavior, defining how well a particular
 vampire comports himself and holds to his ethics in the face of the Beast.
-Choosing aBilities
-Select five Abilities that represent your character’s education and train-
+## Choosing aBilities
+Select five Abilities that represent your character's education and train-
 ing. Whether learned in mortal days or honed after death, Abilities set apart
 your character by letting her attempt tasks that less skilled compatriots cannot
 attriButes
@@ -3077,7 +3066,7 @@ Character Creation & Traits
 <div style="page-break-after: always;"></div>
 
 [Page 69]
-
+<!-- CHUNK: character_creation.abilities -->
 ## Abilities
 
 aBilities
@@ -3089,7 +3078,7 @@ Security, Stealth, Streetwise, Subterfuge, Survival
 understand or complete. You can choose an Ability multiple times, if desired,
 to show greater expertise. A complete list of Abilities starts on p. 85. Note that
 some Abilities may be restricted by your Storyteller.
-Choosing disCiplines
+## Choosing disCiplines
 Select three Basic Disciplines for your vampire character. You must select them
 in the order listed (that is, you must take the first Basic level before taking the
 second Basic level in any given Discipline), and you can only take the Basic levels
@@ -3101,7 +3090,7 @@ you have an exceptional reason for learning a more specialized power.
 A complete list of Disciplines starts on p. 132. See the previous table for a
 quick list of your clan’s specialty Disciplines.
 Sabbat characters begin play with four Basic Disciplines.
-Choosing BaCkgrounds
+## Choosing BaCkgrounds
 You may take five Background Traits for your vampire. Each Background
 represents a tie to a particular agency, organization or resource, whether mor-
 tal or Cainite. You can have up to five Traits in any Background, though your
@@ -3115,14 +3104,14 @@ tep our ast ouChes
 The final character Traits come together once concept, clan, Attributes
 and advantages are chosen. Your last touches include Blood Traits, Willpower
 Traits, Morality Traits and Virtue Traits.
-Blood traits
+## Blood traits
 Each vampire has a certain number of Blood Traits, or vitae. This blood can
 be used for a variety of different tasks, from temporarily improving one’s physical
 prowess to healing wounds to powering Disciplines. You can hold a number of
 Blood Traits determined by your generation, as shown on p. 95. This number
 is modified by any clan disadvantages or Flaws that you may have relating to
 feeding, and it can be improved by the Herd Background (see p. 96).
-willpower traits
+## willpower traits
 When all other avenues are exhausted, your Willpower measures your innate
 drive for self-preservation, your sense of mental fortitude and your ability to resist
 temptation and defeat. You can use Willpower Traits for a variety of tasks, like
@@ -3173,10 +3162,11 @@ power, indicating how many Willpower Traits you have. The maximum Willpower
 listing shows the highest rating that your Willpower can reach. You may choose
 to have a card for each Trait of Willpower you possess, and you must turn the
 card over to a Narrator or Storyteller when you expend Willpower.
+<!-- CHUNK: character_creation.morality_virtues -->
 ## Morality & Virtues
 
-virtue traits
-Every vampire must resist the temptation to “sin” in some fashion. Virtue
+## virtue traits
+Every vampire must resist the temptation to "sin" in some fashion. Virtue
 Traits are the spiritual endurance with which a character fights against the
 talons of the Beast.
 Virtue Traits come in three categories: Conscience/ Conviction Traits, Self-
@@ -3204,7 +3194,7 @@ but this effort means that you get no free Traits in the appropriate Virtue (so 
 must assign at least one of your seven Virtue Traits there). See the quick listing
 of morality for a summation of the Virtues prized by each Path. More complete
 descriptions of the Virtues and Virtue Tests appear on p. 108.
-morality traits
+## morality traits
 While your Virtue Traits represent your ability to hold off against the Beast, your
 Morality Traits show how closely you adhere to your chosen codes of ethics. A high rating
 in your Morality Traits indicates that you set high standards for yourself, but you risk
@@ -3221,7 +3211,7 @@ exchange for gaining two Free Traits. You may do so only once — losing a Moral
 ity Trait counts as taking two Negative Traits. Be warned though, that doing so
 is a dangerous course; a low Morality Trait total practically guarantees eventual
 disintegration into the Wassail, the final frenzy.
-negative traits
+## negative traits
 Some characters have particular weaknesses or shortcomings. Others just never
 developed in some fashion, or suffered injuries that set back otherwise strong attri-
 ## Backgrounds: Reference List
@@ -3257,7 +3247,7 @@ drawbacks, nobody can be expected to guess a Trait that isn’t covered in the r
 Remember to take Negative Traits that you can roleplay accurately and well. The
 Storyteller may force you to “buy off” Negative Traits that you ignore consistently.
 A complete listing of Negative Traits, and how they affect play, begins on p. 81.
-derangements
+## derangements
 In addition to Negative Traits, you can choose derangements for your character.
 A derangement represents some sort of mental instability or neurotic behavior.
 Taking a derangement counts as two Negative Traits and thus grants you two Free
@@ -3268,7 +3258,7 @@ in asking you to “buy off” any derangement that you do not roleplay accurate
 Remember that playing a derangement is an exercise in advanced roleplay-
 ing. Insanity is neither humorous nor light. You should always consult your
 Storyteller before deciding to take a derangement.
-Choosing Flaws
+## Choosing Flaws
 Representing specific deficiencies or drawbacks aside from inherent weak-
 nesses common to many people, Flaws showcase particular problems. As with
 Negative Traits, Flaws grant additional Traits to the user. Each Flaw is rated in
@@ -3276,7 +3266,7 @@ terms of its value, ranging from one to seven Traits. The higher the value, the
 more debilitating the Flaw. A character may total up to seven Traits of Flaws.
 Elder vampires may have more Flaws; after all, age takes its toll.
 Flaws begin on p. 112, with the listings for Merits and Flaws.
-Free traits
+## Free traits
 Because no two Cainites are alike, each character gets an allotment of Free
 Traits to spend on any area of development desired. If you want your character
 to be socially adept but also intelligent, for instance, you can use Free Traits
@@ -3316,7 +3306,7 @@ tional limits.
 • Three Free Traits can be used to purchase the Basic level of any one
 Discipline, in the usual progression, subject to Storyteller approval.
 • Merits have a variable Free Trait cost, dependent on the individual Merit.
-Choosing merits
+## Choosing merits
 The antithesis of Flaws, Merits represent special bonuses and capabilities
 beyond the norm. Each Merit is rated in terms of its Trait value. To take a Merit,
 you must expend Free Traits equal to the Merit’s value. You can take no more than
@@ -3517,8 +3507,8 @@ Character Creation & Traits
 <div style="page-break-after: always;"></div>
 
 [Page 77]
-
-humanity hierarChy oF sins
+argodra drad this
+humanity hierar Chy oF sins
 Traits Violations
 Five Selfish thoughts and actions
 Four Theft; causing injury
@@ -3821,7 +3811,7 @@ Uses: Combat and athletic challenges when you’re on the defensive.
 Wiry: Tight, streamlined, muscular strength.
 Uses: Punching, kicking or grappling on combat. Acrobatic movements.
 Endurance lifting. Potence.
-negative physiCal traits
+## negative physiCal traits
 Clumsy: Lacking physical coordination, balance and grace. You are prone
 to stumbling and dropping objects.
 Cowardly: In threatening situations, saving your own neck is all that is impor-
@@ -3915,7 +3905,7 @@ Uses: Subterfuge, seduction.
 Witty: Cleverly humorous. Jokes and jests come easily to you, and you are
 perceived as a funny person when you want to be.
 Uses: At parties. Entertaining someone. Goading or insulting someone.
-negative soCial traits
+## negative soCial traits
 Bestial: You have started to resemble the Beast of your vampiric nature.
 Maybe you have clawlike fingernails, heavy body hair or a feral glint in your eyes;
 however your Beast manifests, you definitely seem inhuman.
@@ -4015,7 +4005,7 @@ Wily: Sly and full of guile. Because you are wily, you can trick and deceive eas
 Uses: Tricking others. Lying under duress. Confusing mental situations.
 Wise: An overall understanding of the workings of the world.
 Uses: Giving advice. Dispensing snippets of Zen.
-negative mental traits
+## negative mental traits
 Forgetful: You have trouble remembering even important things.
 Gullible: Easily deceived, duped or fooled.
 Ignorant: Uneducated or misinformed, never seeming to know anything.
@@ -4608,6 +4598,7 @@ Willpower lists your starting Willpower Traits before the slash, and your
 maximum Willpower Traits after the slash. Should the Storyteller choose
 to use the compressed Blood Pool, characters have half the Willpower listed
 (rounded up).
+<!-- CHUNK: character_creation.backgrounds -->
 ## Backgrounds (Character Creation)
 
 <div style="page-break-after: always;"></div>
