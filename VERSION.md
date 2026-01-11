@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.37
+## Current Version: 0.9.40
+
+**Date:** 2026-01-30  
+**Type:** Patch (Git sync: version bump and reference book formatting updates)
+
+## Previous Version: 0.9.37
 
 **Date:** 2026-01-30  
 **Type:** Patch (Git sync: version sync and project updates)

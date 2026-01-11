@@ -935,7 +935,7 @@ Sepulchre Path, as usual, and most extend their insight rapidly to the Bone Path
 Disadvantage: Like the Nosferatu, the Samedi are physically repulsive in the extreme. When a Samedi's true form is apparent, the creature cannot initi ate any Social Challenges except ones involving intimidation. No Samedi can possess the Social Traits of Alluring, Gorgeous or Seductive, and they all have the
 Negative Social Traits of Repugnant x 3 which can never be removed.
 
-<!-- OCR_SPLITWORD_PASS: DONE_TO_HERE -->
+
 
 The Clans
 
@@ -1323,6 +1323,8 @@ Most vampires, thrust suddenly into undead society, cling to the trappings of th
 
 [Page 76]
 
+
+
 A rare few vampires have the presence of mind to set for themselves moral standards alien to humanity. As long as the Cainite holds to a rigid code of conduct, the Beast can be kept at bay. Such a restructuring of one’s lifetime of morals requires incredible will and many years of dedicated study. Over the centuries, vampires have developed several such alternate moralities, called Paths of Enlightenment. These
 Paths cast aside all that is humane in favor of a specialized code more appropriate to the undead. Needless to say, despite their stabilizing affect, these Paths are so ciopathic — indeed, their practitioners areunquestionablydivorced from anything resembling mortal thought or belief. A follower of a Path may channel his vampire urges, but such channels cause instinctive fear and revulsion in mortals.
 When you create a vampire character, you default to the morality of Human ity. Your Morality Traits can range from zero to five, with zero Traits indicating that the character has fallen completely to the clutches of the Beast (and is thus no longer suitable for play) and five indicating a character with a highly developed sense of morality. With the permission of a Storyteller, you can start with a Path of Enlightenment, but keep in mind that Paths are difficult and demanding to roleplay. To study a Path, your character must have at least three Willpower Traits, and he must have spent several years abandoning Humanity in favor of a new set of morals (with instruction). Paths also sometimes use different Virtues, and you may not start with as many Virtue Traits if you have Conviction or Instinct (since it takes work to strip away your human virtues in favor of these inhuman ones).
@@ -1566,7 +1568,7 @@ Naive: You lack the air of worldliness, sophistication or maturity that most car
 Obnoxious: You are annoying or unappealing in speech, action or appearance.
 Repugnant: Your appearance disgusts everyone around you. Needless to say, you make a terrible first impression with strangers.
 Shy: You are timid, bashful, reserved and socially hesitant.
-Tactless: You are unable to do or say things that others find appropriate to the social situation.
+Tactless: You are unable to door say things that others find appropriate to the social situation.
 Untrustworthy: You are rumored or perceived to be unreliable, whether or not you really are.
 m t ental raits Perception-related: Attentive, Discerning, Insightful, Observant, Vigilant
 Intelligence-related: Cunning, Disciplined, Knowledgeable, Rational, Reflective
@@ -1774,6 +1776,8 @@ Character Creation & Traits
 
 
 <div style="page-break-after: always;"></div>
+
+
 
 [Page 93]
 
@@ -2124,6 +2128,8 @@ Character Creation & Traits
 
 [Page 109]
 
+
+
 Expending a Willpower Trait allows for one of any number of effects. Gen erally, Willpower Traits allow you to keep self-determination and to empower extremely difficult or complex actions. Using Willpower is almost always a reflexive action, and does not count as your turn.
 • A Willpower Trait can be spent to refresh all of your lost Traits in one
 Attribute category — Physical, Social or Mental. You may do so once per category per game session.
@@ -2473,6 +2479,8 @@ Character Creation & Traits
 
 <div style="page-break-after: always;"></div>
 
+
+
 [Page 125]
 
 •New Attribute Trait — One Experience per Attribute Trait.
@@ -2794,6 +2802,8 @@ Additional actions with Celerity can only be used for physical feats; one cannot
 Social Disciplines may not be activated during Celerity, except during Alacrity.
 Use of Celerity at the speed of Swiftness or above is generally considered a breach of the Masquerade. Note that a vampire need not use her full level of Celerity; a vampirewith Advanced Celerity could simply rely on the Basic levels if desired.
 
+
+
 <div style="page-break-after: always;"></div>
 
 [Page 142]
@@ -3110,6 +3120,8 @@ Necromancy learned, another ritual of the appropriate level is also learned; thu
 <div style="page-break-after: always;"></div>
 
 [Page 158]
+
+
 
 romancerwith Advanced Necromancy knows at least two Basic rituals, two Intermediate rituals andone Advanced ritual. Learning additional rituals requires the expenditure of time and Influence, as appropriate. Learning a ritual also requires that the vampire possess a level of Necromancy equal to or greater than the ritual’s level of power.
 Casting a ritual requires a Static Mental Challenge with a difficulty of nine
@@ -3444,6 +3456,8 @@ The change takes a full three turns, and the rate cannot be accelerated. Cloth D
 
 <div style="page-break-after: always;"></div>
 
+
+
 [Page 175]
 
 ing and small personal effects change with you. You remain in serpent form until the next sunrise, unless you decide to change back earlier. Additionally, the venom of your bite is poisonous to mortals.
@@ -3760,6 +3774,8 @@ Disciplines
 [Page 191]
 
 <div style="page-break-after: always;"></div>
+
+
 
 [Page 192]
 
@@ -4091,6 +4107,8 @@ Reinforced (bulletproof) vest — The favored type of armor for military per son
 Health levels: 3 Negative Traits: Heavy, Clumsy Availability: Police 5, or Underworld 4 ranged Com Bat
 Many weapons allow a character to stand at a distance from a target and engage him in combat. In such situations, the character must still go over to the target (after shouting “Bang!” or “Twang!”) and engage in a challenge.
 If a character has surprised her opponent, even if she loses the first test, she has the option of calling for a second test. Once the second challenge is called, play continues as normal with that new challenge. The target is considered to be surprised for the first attack, and if he has no ranged weapon with which to return fire, he is considered “surprised” for as long as the aggressor can attack him without facing resistance (that is, if he wins on a challenge, she doesn’t take damage).
+
+
 
 <div style="page-break-after: always;"></div>
 
@@ -4439,6 +4457,8 @@ The Creation Rites
 
 [Page 224]
 
+
+
 The Vaulderie Monomacy Sermons of Caine War Parties — This ritual occurs when two or more packs go on the warpath to acquire the blood of a Camarilla elder.
 Wild Hunt — The Wild Hunt is the Sabbat equivalent of the blood hunt.
 Archbishops usually call Wild Hunts, but packs have been known to spread the word on their own.
@@ -4705,6 +4725,8 @@ Storytelling
 
 
 <div style="page-break-after: always;"></div>
+
+
 
 [Page 241]
 
@@ -4984,6 +5006,8 @@ souls who Brave the darkness Despite the Camarilla’s strict enforcement of the
 
 <div style="page-break-after: always;"></div>
 
+<!-- OCR_SPLITWORD_PASS: DONE_TO_HERE -->
+
 [Page 258]
 
 walks among them— and some even dare to strike back. A few hunters still operate alone out of ignorance, pride or paranoia, but the Final Nights are seeing many hunters banding together, diverse individuals who find common cause in bringing an end to the undead threat. Younger vampires scoff at the notion that even bands of hunters pose any serious threat to Kindred society as a whole. Elders who remember the Inquisition do not laugh quite so easily. In those nights, vampires were the prey of the fires of the witch-hunters, and the force of humanity united against them was nearly the undoing of all Kindred. Even the cockiest neonate and sturdiest elder must sleep when the sun is high, and who knows what damage evenaninexperienced band of mortals can do while their foes lie helpless?
@@ -5254,3 +5278,6 @@ WWW.WHITE-WOLF.COM ISBN 978-1-56504-5890
 
 <div style="page-break-after: always;"></div>
 
+
+
+<!-- OCR_SPLITWORD_PASS: COMPLETE -->
