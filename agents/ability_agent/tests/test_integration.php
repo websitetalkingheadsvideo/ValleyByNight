@@ -16,7 +16,7 @@ if (php_sapi_name() !== 'cli') {
 }
 
 // Fix path: from agents/ability_agent/tests/ we need to go up 3 levels to project root
-require_once __DIR__ . '/../../../database/import_characters.php';
+require_once __DIR__ . '/../../../tools/repeatable/php/database-tools/import_characters.php';
 require_once __DIR__ . '/../src/AbilityAgent.php';
 
 echo "AbilityAgent Integration Test\n";

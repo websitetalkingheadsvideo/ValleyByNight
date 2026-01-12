@@ -28,7 +28,7 @@ if (!$is_cli) {
 }
 
 // Database connection
-require_once __DIR__ . '/../includes/connect.php';
+require_once __DIR__ . '/../../includes/connect.php';
 
 if (!$conn) {
     die("Database connection failed: " . mysqli_connect_error());

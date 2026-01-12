@@ -28,7 +28,7 @@ if ($is_cli) {
     echo "<!DOCTYPE html><html><head><title>Rituals Duplicate Detection (TM-07)</title><style>body{font-family:monospace;padding:20px;background:#1a1a1a;color:#fff;} .success{color:#0f0;} .error{color:#f00;} .warning{color:#ff0;} .info{color:#0ff;} pre{background:#2a2a2a;padding:10px;border-radius:5px;overflow-x:auto;}</style></head><body><h1>Rituals Duplicate Detection (TM-07)</h1>";
 }
 
-require_once __DIR__ . '/../includes/connect.php';
+require_once __DIR__ . '/../../includes/connect.php';
 
 if (!$conn) {
     die("Database connection failed: " . mysqli_connect_error());

@@ -38,14 +38,14 @@ $version = LOTN_VERSION;
 $version_shorthand = str_replace('.', '', $version); // 0.8.63 → 0863
 
 // Database connection (must use connect.php)
-require_once __DIR__ . '/../includes/connect.php';
+require_once __DIR__ . '/../../includes/connect.php';
 
 if (!$conn) {
     die("Database connection failed: " . mysqli_connect_error());
 }
 
 // Output directory
-$project_root = dirname(__DIR__);
+$project_root = dirname(__DIR__, 2);
 $output_dir = $project_root . '/reference/world/_summaries';
 if (!is_dir($output_dir)) {
     mkdir($output_dir, 0755, true);

@@ -11,7 +11,7 @@
  * Target audience: Storytellers/GMs familiar with Laws of the Night Revised
  */
 
-require_once __DIR__ . '/includes/connect.php';
+require_once __DIR__ . '/../../includes/connect.php';
 $conn = connect_db();
 
 // Get database statistics
@@ -47,7 +47,7 @@ $example_character = mysqli_fetch_assoc($result);
 $html = generateHTML($stats, $example_character);
 
 // Output to file
-file_put_contents(__DIR__ . '/PROJECT_SUMMARY.html', $html);
+file_put_contents(__DIR__ . '/../../PROJECT_SUMMARY.html', $html);
 echo "Project summary generated: PROJECT_SUMMARY.html\n";
 
 function generateHTML($stats, $example_char) {
@@ -396,7 +396,7 @@ HTML;
         $html .= "<p><strong>Biography:</strong> " . htmlspecialchars(substr($example_char['biography'] ?? '', 0, 300)) . "...</p>\n";
         
         // Get character details from JSON if available
-        $json_path = __DIR__ . '/reference/Characters/Added to Database/Cordelia Fairchild.json';
+        $json_path = __DIR__ . '/../../reference/Characters/Added to Database/Cordelia Fairchild.json';
         if (file_exists($json_path)) {
             $char_json = json_decode(file_get_contents($json_path), true);
             if ($char_json) {

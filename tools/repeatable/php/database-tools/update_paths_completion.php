@@ -24,7 +24,7 @@ if (!$is_cli) {
     header('Content-Type: text/html; charset=utf-8');
 }
 
-require_once __DIR__ . '/../includes/connect.php';
+require_once __DIR__ . '/../../includes/connect.php';
 
 if (!$conn) {
     die("Database connection failed: " . mysqli_connect_error());

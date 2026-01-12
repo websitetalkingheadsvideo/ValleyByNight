@@ -14,7 +14,7 @@ error_reporting(E_ALL);
 ini_set('display_errors', '1');
 
 // Use lowercase 'agents' path (standardized across local and remote)
-$mcp_path = __DIR__ . '/agents/style_agent';
+$mcp_path = __DIR__ . '/../../agents/style_agent';
 $errors = [];
 $warnings = [];
 
