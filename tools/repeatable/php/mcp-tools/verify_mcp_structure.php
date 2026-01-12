@@ -1,8 +1,8 @@
 <?php
 /**
- * Verify MCP Structure for FTP Upload
+ * Verify MCP Structure
  * 
- * This script verifies the local MCP structure is complete before FTP upload.
+ * This script verifies the local MCP structure is complete.
  * It checks that all required directories and files exist.
  * 
  * Run via browser: verify_mcp_structure.php
@@ -142,14 +142,7 @@ echo "<hr>";
 echo "<h2>Summary</h2>";
 
 if (count($errors) === 0 && count($warnings) === 0) {
-    echo "<p style='color: green; font-weight: bold;'>✅ All checks passed! Structure is ready for FTP upload.</p>";
-    echo "<h3>FTP Upload Instructions:</h3>";
-    echo "<ol>";
-    echo "<li>Ensure remote directory structure exists: <code>/agents/style_agent/docs/</code></li>";
-    echo "<li>Upload directories first (create empty directories if needed)</li>";
-    echo "<li>Then upload files</li>";
-    echo "<li>Verify file permissions on remote server</li>";
-    echo "</ol>";
+    echo "<p style='color: green; font-weight: bold;'>✅ All checks passed! Structure is complete.</p>";
 } else {
     if (count($errors) > 0) {
         echo "<p style='color: red; font-weight: bold;'>❌ Found " . count($errors) . " error(s):</p>";
@@ -170,8 +163,8 @@ if (count($errors) === 0 && count($warnings) === 0) {
     }
 }
 
-// FTP directory structure reminder
-echo "<h3>Required Remote Directory Structure:</h3>";
+// Directory structure reminder
+echo "<h3>Required Local Directory Structure:</h3>";
 echo "<pre>";
 echo "/agents/\n";
 echo "/agents/style_agent/\n";
@@ -180,7 +173,5 @@ echo "/agents/style_agent/indexes/\n";
 echo "/agents/style_agent/rules/\n";
 echo "/agents/style_agent/prompts/\n";
 echo "</pre>";
-
-echo "<p><strong>Note:</strong> The FTP error indicates the remote <code>/agents/style_agent/docs/</code> directory doesn't exist. Create it on the remote server before uploading files.</p>";
 ?>
 

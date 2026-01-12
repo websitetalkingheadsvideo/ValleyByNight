@@ -47,14 +47,7 @@ if (mysqli_query($conn, $update_sql)) {
 }
 
 echo "<hr>";
-echo "<h2>FTP Upload Instructions</h2>";
-echo "<p><strong>Important:</strong> The database now points to <code>Agent/style_agent</code></p>";
-echo "<p>When uploading via FTP:</p>";
-echo "<ol>";
-echo "<li>Upload files to <code>/Agent/style_agent/docs/</code> (not <code>/agents/</code>)</li>";
-echo "<li>Or manually create the <code>Agent/</code> folder structure on the server</li>";
-echo "<li>The FTP client may try to create <code>agents/</code> - you'll need to manually move files or configure the FTP client</li>";
-echo "</ol>";
+echo "<p><strong>Note:</strong> The database now points to <code>Agent/style_agent</code></p>";
 
 mysqli_close($conn);
 ?>
