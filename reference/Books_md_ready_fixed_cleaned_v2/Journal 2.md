@@ -124,7 +124,7 @@ It all started reasonably enough A Sabbat troublemaker had been dropping hints o
 
 Camarilla loyal vampires slipped away under the woozy Malkavian's power of Cloak the Gathering as sirens began to push their way to the scene THE SOLUTION
 
-Naturally when word of this fiasco got back to the prince of Any city said prince was not happy Shattering the tranquillity of Elysium he gathered every Kindred in attendance He commanded everyone present to pool every last resource available to them every do llar every ounce of Influence and work toward quashing the problem In the end the following Influences came to the for e Church
+Naturally when word of this fiasco got back to the prince of Any city said prince was not happy Shattering the tranquillity of Elysium he gathered every Kindred in attendance He commanded everyone present to pool every last resource available to them every dollar every ounce of Influence and work toward quashing the problem In the end the following Influences came to the for e Church
 
 Fin ance
 
