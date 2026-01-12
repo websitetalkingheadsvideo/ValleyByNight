@@ -1,7 +1,0 @@
-# This file ensures this directory is tracked by git
-# The PDF files in this directory are intentionally excluded from git
-# but the directory structure should be preserved.
-# 
-# DO NOT DELETE the PDF files in this directory - they are source materials
-# required for reference and potential re-extraction.
-
