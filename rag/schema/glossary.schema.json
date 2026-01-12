@@ -1,0 +1,65 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "RAG Glossary Schema",
+  "description": "Schema for glossary entries with canonical terms and aliases",
+  "type": "object",
+  "required": ["terms"],
+  "properties": {
+    "terms": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["term", "aliases"],
+        "properties": {
+          "term": {
+            "type": "string",
+            "description": "Canonical term name"
+          },
+          "aliases": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "description": "List of aliases/variants including the canonical term itself"
+          },
+          "short_definition": {
+            "type": "string",
+            "description": "Optional brief definition"
+          },
+          "related_terms": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "Optional list of related canonical terms"
+          },
+          "tags": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": ["faction", "mechanic", "tradition", "location", "era", "clan", "discipline", "trait", "system"]
+            },
+            "description": "Optional tags for categorization"
+          },
+          "source_examples": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["chunk_id"],
+              "properties": {
+                "chunk_id": {
+                  "type": "string"
+                },
+                "anchor": {
+                  "type": "string"
+                }
+              }
+            },
+            "description": "Optional list of chunk references where this term appears"
+          }
+        }
+      }
+    }
+  }
+}
