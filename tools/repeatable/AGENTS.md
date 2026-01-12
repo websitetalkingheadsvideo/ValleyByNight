@@ -77,7 +77,7 @@ php tools/repeatable/php/mcp-tools/fix_mcp_json_paths.php
 
 #### verify_mcp_structure.php
 
-**Purpose:** Verifies MCP directory structure for FTP upload (checks Style Agent structure).
+**Purpose:** Verifies MCP directory structure (checks Style Agent structure).
 
 **Usage:**
 ```bash
@@ -88,13 +88,12 @@ php tools/repeatable/php/mcp-tools/verify_mcp_structure.php
 - Checks required directories (docs, indexes, rules, prompts)
 - Verifies required root files (README.md, RULES.md, PROMPTS.md, INDEX.md)
 - Lists documentation and index files
-- Provides FTP upload instructions
 
 **Output:** HTML output showing verification results
 
 **Dependencies:** None (reads filesystem structure)
 
-**Use case:** Run before FTP upload to ensure all required files/directories exist
+**Use case:** Run to verify all required files/directories exist in the MCP structure
 
 ---
 
