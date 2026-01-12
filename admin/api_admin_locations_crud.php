@@ -5,13 +5,47 @@
  * Updated to handle all fields from location_template.json
  */
 
+// Disable error display to prevent output from corrupting JSON
+error_reporting(E_ALL);
+ini_set('display_errors', 0);
+ini_set('log_errors', 1);
+
+// Start output buffering to prevent any output from corrupting JSON
+ob_start();
+
+// Function to output JSON and exit cleanly
+function outputJson($data) {
+    ob_end_clean();
+    header('Content-Type: application/json');
+    echo json_encode($data);
+    exit();
+}
+
+// Register error handler to catch fatal errors
+register_shutdown_function(function() {
+    $error = error_get_last();
+    if ($error !== NULL && in_array($error['type'], [E_ERROR, E_PARSE, E_CORE_ERROR, E_COMPILE_ERROR])) {
+        if (ob_get_level() > 0) {
+            ob_end_clean();
+        }
+        if (!headers_sent()) {
+            header('Content-Type: application/json');
+            http_response_code(500);
+        }
+        echo json_encode([
+            'success' => false,
+            'error' => 'Fatal error: ' . $error['message'] . ' in ' . basename($error['file']) . ' on line ' . $error['line']
+        ]);
+        exit();
+    }
+});
+
 session_start();
 header('Content-Type: application/json');
 
 // Check authentication
 if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
-    echo json_encode(['success' => false, 'error' => 'Unauthorized']);
-    exit();
+    outputJson(['success' => false, 'error' => 'Unauthorized']);
 }
 
 require_once __DIR__ . '/../includes/connect.php';
@@ -39,7 +73,16 @@ function cleanBool($value) {
 
 try {
     // Handle request body
-    $input = json_decode(file_get_contents('php://input'), true);
+    $rawInput = file_get_contents('php://input');
+    $input = json_decode($rawInput, true);
+    
+    if (json_last_error() !== JSON_ERROR_NONE) {
+        throw new Exception('Invalid JSON input: ' . json_last_error_msg());
+    }
+    
+    if ($input === null && $rawInput !== '') {
+        throw new Exception('Failed to parse JSON input');
+    }
     
     if ($method === 'POST') {
         // Create new location - handle all fields
@@ -114,7 +157,11 @@ try {
         )";
         
         $stmt = mysqli_prepare($conn, $query);
-        mysqli_stmt_bind_param($stmt, 'ssssssssssddsssssiiiiiiiiisiiiiiiiiisiiissssiisssi',
+        if (!$stmt) {
+            throw new Exception('Failed to prepare statement: ' . mysqli_error($conn));
+        }
+        
+        if (!mysqli_stmt_bind_param($stmt, 'ssssssssssddsssssiiiiiiiiisiiiiiiiiisiiissssiisssi',
             $name, $type, $summary, $description, $notes, $status, $status_notes, $district, $address, $latitude, $longitude,
             $owner_type, $owner_notes, $faction, $access_control, $access_notes, $security_level,
             $security_locks, $security_alarms, $security_guards, $security_hidden_entrance, $security_sunlight_protected,
@@ -124,16 +171,24 @@ try {
             $social_features, $capacity, $prestige_level, $has_supernatural, $node_points, $node_type,
             $ritual_space, $magical_protection, $cursed_blessed, $parent_location_id, $relationship_type,
             $relationship_notes, $image, $pc_haven
-        );
+        )) {
+            $error = mysqli_stmt_error($stmt) ?: mysqli_error($conn);
+            mysqli_stmt_close($stmt);
+            throw new Exception('Failed to bind parameters: ' . $error);
+        }
         
         if (mysqli_stmt_execute($stmt)) {
-            echo json_encode([
+            $insertId = mysqli_insert_id($conn);
+            mysqli_stmt_close($stmt);
+            outputJson([
                 'success' => true,
                 'message' => 'Location created successfully',
-                'id' => mysqli_insert_id($conn)
+                'id' => $insertId
             ]);
         } else {
-            throw new Exception('Failed to create location: ' . mysqli_error($conn));
+            $error = mysqli_stmt_error($stmt);
+            mysqli_stmt_close($stmt);
+            throw new Exception('Failed to create location: ' . $error);
         }
         
     } elseif ($method === 'PUT') {
@@ -214,7 +269,11 @@ try {
             WHERE id = ?";
         
         $stmt = mysqli_prepare($conn, $query);
-        mysqli_stmt_bind_param($stmt, 'ssssssssssddsssssiiiiiiiiisiiiiiiiiisiiissssiisssii',
+        if (!$stmt) {
+            throw new Exception('Failed to prepare statement: ' . mysqli_error($conn));
+        }
+        
+        if (!mysqli_stmt_bind_param($stmt, 'ssssssssssddsssssiiiiiiiiisiiiiiiiiisiiissssiisssii',
             $name, $type, $summary, $description, $notes, $status, $status_notes, $district, $address, $latitude, $longitude,
             $owner_type, $owner_notes, $faction, $access_control, $access_notes, $security_level,
             $security_locks, $security_alarms, $security_guards, $security_hidden_entrance, $security_sunlight_protected,
@@ -224,15 +283,22 @@ try {
             $social_features, $capacity, $prestige_level, $has_supernatural, $node_points, $node_type,
             $ritual_space, $magical_protection, $cursed_blessed, $parent_location_id, $relationship_type,
             $relationship_notes, $image, $pc_haven, $id
-        );
+        )) {
+            $error = mysqli_stmt_error($stmt) ?: mysqli_error($conn);
+            mysqli_stmt_close($stmt);
+            throw new Exception('Failed to bind parameters: ' . $error);
+        }
         
         if (mysqli_stmt_execute($stmt)) {
-            echo json_encode([
+            mysqli_stmt_close($stmt);
+            outputJson([
                 'success' => true,
                 'message' => 'Location updated successfully'
             ]);
         } else {
-            throw new Exception('Failed to update location: ' . mysqli_error($conn));
+            $error = mysqli_stmt_error($stmt);
+            mysqli_stmt_close($stmt);
+            throw new Exception('Failed to update location: ' . $error);
         }
         
     } elseif ($method === 'DELETE') {
@@ -244,27 +310,41 @@ try {
         
         $query = "DELETE FROM locations WHERE id = ?";
         $stmt = mysqli_prepare($conn, $query);
-        mysqli_stmt_bind_param($stmt, 'i', $id);
+        if (!$stmt) {
+            throw new Exception('Failed to prepare statement: ' . mysqli_error($conn));
+        }
+        
+        if (!mysqli_stmt_bind_param($stmt, 'i', $id)) {
+            $error = mysqli_stmt_error($stmt) ?: mysqli_error($conn);
+            mysqli_stmt_close($stmt);
+            throw new Exception('Failed to bind parameters: ' . $error);
+        }
         
         if (mysqli_stmt_execute($stmt)) {
-            echo json_encode([
+            mysqli_stmt_close($stmt);
+            outputJson([
                 'success' => true,
                 'message' => 'Location deleted successfully'
             ]);
         } else {
-            throw new Exception('Failed to delete location: ' . mysqli_error($conn));
+            $error = mysqli_stmt_error($stmt);
+            mysqli_stmt_close($stmt);
+            throw new Exception('Failed to delete location: ' . $error);
         }
         
     } else {
         throw new Exception('Method not allowed');
     }
     
-} catch (Exception $e) {
-    echo json_encode([
+} catch (Throwable $e) {
+    error_log('Location CRUD API Error: ' . $e->getMessage() . ' in ' . $e->getFile() . ' on line ' . $e->getLine());
+    outputJson([
         'success' => false,
         'error' => $e->getMessage()
     ]);
 }
 
-mysqli_close($conn);
+if (isset($conn) && $conn) {
+    mysqli_close($conn);
+}
 ?>
