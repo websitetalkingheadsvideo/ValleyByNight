@@ -28,6 +28,6 @@ Suspect and try to steal our glory Paulo added the y ll find out eventually You'
 
 As the two x changed plans and barb rigor i at tone sid laying a gae in his in d He envisioned his place in his world as a juncture on a spider's web and lok edu t g in rada dna h want can it local some di sant Each had so thing to of fr hm and ach pos d a th rat Some tads tdi xt d fp his a
 
-don't presume that ' m as blind as you are You s all along on your ignorant path of self righteous obili ty but yore blind A Cain it survives on his r put a tion This will make mine It could make yours as well if you would only let it
+don't presume that ' m as blind as you are You s all along on your ignorant path of self righteous obeli ty but yore blind A Cain it survives on his r put a tion This will make mine It could make yours as well if you would only let it
 
 <!-- OCR_SPLITWORD_PASS: COMPLETE -->
