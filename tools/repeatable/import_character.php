@@ -20,7 +20,7 @@ require_once __DIR__ . '/../../includes/connect.php';
 // Include only the functions we need from import_characters.php
 // Define flag to prevent main execution
 define('IMPORT_CHARACTERS_AS_LIBRARY', true);
-require_once __DIR__ . '/../../database/import_characters.php';
+require_once __DIR__ . '/php/database-tools/import_characters.php';
 
 // Get character name from query parameter or default to Misfortune
 $character_name = $_GET['character'] ?? 'Misfortune';

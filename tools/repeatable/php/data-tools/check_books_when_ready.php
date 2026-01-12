@@ -11,10 +11,10 @@
  * 4. It will create a file called 'books_report.txt with all the details
  */
 
-require_once __DIR__ . '/includes/connect.php';
+require_once __DIR__ . '/../../includes/connect.php';
 
 // Output file for the report
-$report_file = __DIR__ . '/books_database_report.txt';
+$report_file = __DIR__ . '/../../books_database_report.txt';
 $fp = fopen($report_file, 'w');
 
 if (!$conn) {

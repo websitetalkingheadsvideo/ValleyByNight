@@ -14,7 +14,7 @@ error_reporting(E_ALL);
 ini_set('display_errors', '1');
 
 // Use lowercase 'agents' path (standardized across local and remote)
-$base_path = __DIR__ . '/agents/style_agent';
+$base_path = __DIR__ . '/../../agents/style_agent';
 $created = [];
 $errors = [];
 

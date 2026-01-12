@@ -1,6 +1,28 @@
-# Repeatable Maintenance Scripts
+# Repeatable Tools
 
-This directory contains idempotent maintenance scripts for the VbN project.
+This directory contains reusable, repeatable tools for the VbN project, organized by language and function.
+
+## Structure
+
+- **PHP Tools** - [PHP Tools Documentation](php/README.md)
+  - [MCP Tools](php/mcp-tools/README.md) - MCP configuration and verification tools
+  - [Database Tools](php/database-tools/README.md) - Database imports, exports, and audits
+  - [Data Tools](php/data-tools/README.md) - Data reporting and summary generation
+
+- **Python Tools** - [Python Tools Documentation](python/README.md)
+  - [JSON Tools](python/json-tools/README.md) - JSON processing and parsing
+  - [Text Tools](python/text-tools/README.md) - Text processing and cleanup
+  - [PDF Tools](python/pdf-tools/README.md) - PDF extraction and processing
+  - [OCR Tools](python/ocr-tools/README.md) - OCR processing and text cleanup
+  - [API Tools](python/api-tools/README.md) - API interaction and data fetching
+  - [Data Extraction](python/data-extraction/README.md) - Data extraction from various sources
+  - [Analysis Tools](python/analysis-tools/README.md) - Data analysis and reporting
+
+---
+
+## Character Maintenance Scripts
+
+This directory also contains idempotent maintenance scripts for the VbN project.
 
 ## Character Biography Backfill
 

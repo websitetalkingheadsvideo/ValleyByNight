@@ -4,7 +4,7 @@
  * Run: php fix_mcp_json_paths.php
  */
 
-$mcp_file = __DIR__ . '/.cursor/mcp.json';
+$mcp_file = __DIR__ . '/../../.cursor/mcp.json';
 
 if (!file_exists($mcp_file)) {
     die("Error: .cursor/mcp.json not found at {$mcp_file}\n");

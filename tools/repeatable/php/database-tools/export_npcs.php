@@ -52,14 +52,14 @@ if ($is_cli) {
 }
 
 // Database connection
-require_once __DIR__ . '/../includes/connect.php';
+require_once __DIR__ . '/../../includes/connect.php';
 
 if (!$conn) {
     die("Database connection failed: " . mysqli_connect_error());
 }
 
 // Output directory
-$project_root = dirname(__DIR__);
+$project_root = dirname(__DIR__, 2);
 $output_dir = $options['out'] ?: ($project_root . '/reference/Characters/Added to Database');
 if (!is_dir($output_dir)) {
     mkdir($output_dir, 0755, true);
