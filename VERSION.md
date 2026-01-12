@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.41
+## Current Version: 0.9.42
+
+**Date:** 2026-01-30  
+**Type:** Patch (Git sync: OCR tools improvements and reference book updates)
+
+## Previous Version: 0.9.41
 
 **Date:** 2026-01-30  
 **Type:** Patch (OCR markdown cleaning: merged hard-wrapped lines and added cleaning script)

@@ -1,0 +1,626 @@
+[
+  {
+    "book_id": "anarch_guide",
+    "title": "Anarch Guide",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Anarch Guide.md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 1346,
+    "char_count": 525701,
+    "authors": [],
+    "editors": [],
+    "developers": [],
+    "detection_notes": [
+      "No credits section found or parseable"
+    ]
+  },
+  {
+    "book_id": "apocalypse",
+    "title": "Apocalypse",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Apocalypse.md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 2818,
+    "char_count": 513885,
+    "authors": [],
+    "editors": [],
+    "developers": [],
+    "detection_notes": [
+      "No credits section found or parseable"
+    ]
+  },
+  {
+    "book_id": "art_of_v_ampire_the_masquerade",
+    "title": "Art of V ampire - The Masquerade",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Art of V ampire - The Masquerade.md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 2095,
+    "char_count": 501389,
+    "authors": [],
+    "editors": [],
+    "developers": [],
+    "detection_notes": [
+      "No credits section found or parseable"
+    ]
+  },
+  {
+    "book_id": "blood_magic_secrets_of_thaumaturgy",
+    "title": "Blood Magic - Secrets of Thaumaturgy",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Blood Magic - Secrets of Thaumaturgy.md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 1246,
+    "char_count": 530996,
+    "authors": [],
+    "editors": [],
+    "developers": [],
+    "detection_notes": [
+      "No credits section found or parseable"
+    ]
+  },
+  {
+    "book_id": "blood_sacrifice_the_thaumaturgy_companion",
+    "title": "Blood Sacrifice - The Thaumaturgy Companion",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Blood Sacrifice - The Thaumaturgy Companion.md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 1165,
+    "char_count": 366455,
+    "authors": [],
+    "editors": [],
+    "developers": [],
+    "detection_notes": [
+      "No credits section found or parseable"
+    ]
+  },
+  {
+    "book_id": "book_of_the_damned",
+    "title": "Book of the Damned",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Book of the Damned.md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 434,
+    "char_count": 215262,
+    "authors": [
+      "Mark Re in Hagen with Graeme Davis Tom do wd do n Bass ing thw"
+    ],
+    "editors": [],
+    "developers": [],
+    "detection_notes": []
+  },
+  {
+    "book_id": "counsel_of_primogen",
+    "title": "Counsel of Primogen",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Counsel of Primogen.md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 717,
+    "char_count": 505570,
+    "authors": [],
+    "editors": [],
+    "developers": [],
+    "detection_notes": [
+      "No credits section found or parseable"
+    ]
+  },
+  {
+    "book_id": "guide_to_the_camarilla",
+    "title": "Guide to the Camarilla",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Guide to the Camarilla.md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 3727,
+    "char_count": 1032746,
+    "authors": [],
+    "editors": [],
+    "developers": [],
+    "detection_notes": [
+      "No credits section found or parseable"
+    ]
+  },
+  {
+    "book_id": "introductory_kit",
+    "title": "Introductory Kit",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Introductory Kit.md",
+    "system": "Unknown",
+    "line_count": 1,
+    "char_count": 0,
+    "authors": [],
+    "editors": [],
+    "developers": [],
+    "detection_notes": [
+      "No credits section found or parseable",
+      "System not clearly detected from content"
+    ]
+  },
+  {
+    "book_id": "journal_1",
+    "title": "Journal 1",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Journal 1.md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 743,
+    "char_count": 190694,
+    "authors": [],
+    "editors": [],
+    "developers": [],
+    "detection_notes": [
+      "No credits section found or parseable"
+    ]
+  },
+  {
+    "book_id": "journal_2",
+    "title": "Journal 2",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Journal 2.md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 394,
+    "char_count": 113270,
+    "authors": [],
+    "editors": [],
+    "developers": [],
+    "detection_notes": [
+      "No credits section found or parseable"
+    ]
+  },
+  {
+    "book_id": "journal_3",
+    "title": "Journal 3",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Journal 3.md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 705,
+    "char_count": 217612,
+    "authors": [],
+    "editors": [],
+    "developers": [],
+    "detection_notes": [
+      "No credits section found or parseable"
+    ]
+  },
+  {
+    "book_id": "journal_4",
+    "title": "Journal 4",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Journal 4.md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 708,
+    "char_count": 206914,
+    "authors": [],
+    "editors": [],
+    "developers": [],
+    "detection_notes": [
+      "No credits section found or parseable"
+    ]
+  },
+  {
+    "book_id": "journal_5",
+    "title": "Journal 5",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Journal 5.md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 614,
+    "char_count": 195917,
+    "authors": [],
+    "editors": [],
+    "developers": [],
+    "detection_notes": [
+      "No credits section found or parseable"
+    ]
+  },
+  {
+    "book_id": "journal_6",
+    "title": "Journal 6",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Journal 6.md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 833,
+    "char_count": 212115,
+    "authors": [],
+    "editors": [],
+    "developers": [],
+    "detection_notes": [
+      "No credits section found or parseable"
+    ]
+  },
+  {
+    "book_id": "journal_7",
+    "title": "Journal 7",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Journal 7.md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 861,
+    "char_count": 197157,
+    "authors": [],
+    "editors": [],
+    "developers": [],
+    "detection_notes": [
+      "No credits section found or parseable"
+    ]
+  },
+  {
+    "book_id": "journal_8",
+    "title": "Journal 8",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Journal 8.md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 785,
+    "char_count": 196194,
+    "authors": [],
+    "editors": [],
+    "developers": [],
+    "detection_notes": [
+      "No credits section found or parseable"
+    ]
+  },
+  {
+    "book_id": "laws_of_ascension",
+    "title": "Laws of Ascension",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Laws of Ascension.md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 2155,
+    "char_count": 309893,
+    "authors": [
+      "Jason Carl and Shane De Freest"
+    ],
+    "editors": [],
+    "developers": [],
+    "detection_notes": []
+  },
+  {
+    "book_id": "laws_of_ascension_1",
+    "title": "Laws of Ascension (1)",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Laws of Ascension (1).md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 2924,
+    "char_count": 780635,
+    "authors": [],
+    "editors": [],
+    "developers": [],
+    "detection_notes": [
+      "No credits section found or parseable"
+    ]
+  },
+  {
+    "book_id": "laws_of_ascension_companion",
+    "title": "Laws of Ascension Companion",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Laws of Ascension Companion.md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 1359,
+    "char_count": 470009,
+    "authors": [],
+    "editors": [],
+    "developers": [],
+    "detection_notes": [
+      "No credits section found or parseable"
+    ]
+  },
+  {
+    "book_id": "laws_of_judgment",
+    "title": "Laws of Judgment",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Laws of Judgment.md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 1708,
+    "char_count": 968012,
+    "authors": [],
+    "editors": [],
+    "developers": [],
+    "detection_notes": [
+      "No credits section found or parseable"
+    ]
+  },
+  {
+    "book_id": "laws_of_the_east",
+    "title": "Laws of the East",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Laws of the East.md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 2550,
+    "char_count": 865293,
+    "authors": [],
+    "editors": [],
+    "developers": [],
+    "detection_notes": [
+      "No credits section found or parseable"
+    ]
+  },
+  {
+    "book_id": "laws_of_the_night_1st_edition",
+    "title": "Laws of the Night (1st Edition)",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Laws of the Night (1st Edition).md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 1963,
+    "char_count": 833575,
+    "authors": [],
+    "editors": [],
+    "developers": [],
+    "detection_notes": [
+      "No credits section found or parseable"
+    ]
+  },
+  {
+    "book_id": "laws_of_the_reckoning",
+    "title": "Laws of the Reckoning",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Laws of the Reckoning.md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 3155,
+    "char_count": 1025604,
+    "authors": [
+      "Peter Woolworth"
+    ],
+    "editors": [
+      "Jasmine Mil berger"
+    ],
+    "developers": [
+      "Cynthia Summers with alyson Gaul"
+    ],
+    "detection_notes": []
+  },
+  {
+    "book_id": "laws_of_the_resurrection",
+    "title": "Laws of the Resurrection",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Laws of the Resurrection.md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 2736,
+    "char_count": 678668,
+    "authors": [
+      "Bruce Ba ugh Kieran Dewhurst Conrad Hubbard and Alan I Kr avit"
+    ],
+    "editors": [
+      "all is on Sturm s"
+    ],
+    "developers": [
+      "Cynthia Summers"
+    ],
+    "detection_notes": []
+  },
+  {
+    "book_id": "laws_of_the_wild_revised_edition",
+    "title": "Laws of the Wild (Revised Edition)",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Laws of the Wild (Revised Edition).md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 2866,
+    "char_count": 806487,
+    "authors": [],
+    "editors": [],
+    "developers": [],
+    "detection_notes": [
+      "No credits section found or parseable"
+    ]
+  },
+  {
+    "book_id": "liber_des_goules_the_book_of_ghouls",
+    "title": "Liber des Goules (The Book of Ghouls)",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Liber des Goules (The Book of Ghouls).md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 260,
+    "char_count": 183063,
+    "authors": [],
+    "editors": [],
+    "developers": [],
+    "detection_notes": [
+      "No credits section found or parseable"
+    ]
+  },
+  {
+    "book_id": "long_night",
+    "title": "Long Night",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Long Night.md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 858,
+    "char_count": 101479,
+    "authors": [],
+    "editors": [],
+    "developers": [],
+    "detection_notes": [
+      "No credits section found or parseable"
+    ]
+  },
+  {
+    "book_id": "lotnr",
+    "title": "LotNR",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\LotNR.md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 5277,
+    "char_count": 887771,
+    "authors": [
+      "Jason Carl",
+      "Jess Heinig",
+      "Peter Woodworth"
+    ],
+    "editors": [],
+    "developers": [],
+    "detection_notes": []
+  },
+  {
+    "book_id": "met_introductory_kit",
+    "title": "MET Introductory Kit",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\MET Introductory Kit.md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 193,
+    "char_count": 87215,
+    "authors": [],
+    "editors": [],
+    "developers": [],
+    "detection_notes": [
+      "No credits section found or parseable"
+    ]
+  },
+  {
+    "book_id": "minds_eye_theatre_book_of_the_wyrm",
+    "title": "Mind's Eye Theatre - Book of the Wyrm",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Mind's Eye Theatre - Book of the Wyrm.md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 1855,
+    "char_count": 524297,
+    "authors": [
+      "Jackie Cassa da Earle ' Glas ' D urbo raw Heather Grove MAt the w Hooper Alan I Kr avit Nicky Re a"
+    ],
+    "editors": [
+      "Carl Bowen"
+    ],
+    "developers": [
+      "Cynthia Summers"
+    ],
+    "detection_notes": []
+  },
+  {
+    "book_id": "minds_eye_theatre_camarilla_guide",
+    "title": "Mind's Eye Theatre - Camarilla Guide",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Mind's Eye Theatre - Camarilla Guide.md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 1514,
+    "char_count": 463018,
+    "authors": [],
+    "editors": [],
+    "developers": [],
+    "detection_notes": [
+      "No credits section found or parseable"
+    ]
+  },
+  {
+    "book_id": "minds_eye_theatre_dark_epics",
+    "title": "Mind's Eye Theatre - Dark Epics",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Mind's Eye Theatre - Dark Epics.md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 617,
+    "char_count": 284765,
+    "authors": [],
+    "editors": [],
+    "developers": [],
+    "detection_notes": [
+      "No credits section found or parseable"
+    ]
+  },
+  {
+    "book_id": "minds_eye_theatre_discipline_deck",
+    "title": "Mind's Eye Theatre Discipline Deck",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Mind's Eye Theatre Discipline Deck.md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 3218,
+    "char_count": 303314,
+    "authors": [],
+    "editors": [],
+    "developers": [],
+    "detection_notes": [
+      "No credits section found or parseable"
+    ]
+  },
+  {
+    "book_id": "minds_eye_theatre_faith_and_fire",
+    "title": "Mind's Eye Theatre - Faith and Fire",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Mind's Eye Theatre - Faith and Fire.md",
+    "system": "Unknown",
+    "line_count": 34,
+    "char_count": 5614,
+    "authors": [],
+    "editors": [],
+    "developers": [],
+    "detection_notes": [
+      "No credits section found or parseable",
+      "System not clearly detected from content"
+    ]
+  },
+  {
+    "book_id": "minds_eye_theatre_sabbat_guide",
+    "title": "Mind's Eye Theatre - Sabbat Guide",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Mind's Eye Theatre - Sabbat Guide.md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 1213,
+    "char_count": 511022,
+    "authors": [],
+    "editors": [],
+    "developers": [],
+    "detection_notes": [
+      "No credits section found or parseable"
+    ]
+  },
+  {
+    "book_id": "oblivion",
+    "title": "Oblivion",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Oblivion.md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 1995,
+    "char_count": 592842,
+    "authors": [
+      "Richard E Dan sky Jennifer H"
+    ],
+    "editors": [],
+    "developers": [],
+    "detection_notes": []
+  },
+  {
+    "book_id": "princes_primer",
+    "title": "Prince's Primer",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Prince's Primer.md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 366,
+    "char_count": 200817,
+    "authors": [
+      "all an Tower and Michael Mc Laugh lin"
+    ],
+    "editors": [],
+    "developers": [],
+    "detection_notes": []
+  },
+  {
+    "book_id": "reference_guide",
+    "title": "Reference Guide",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Reference Guide.md",
+    "system": "Vampire: The Masquerade",
+    "line_count": 5898,
+    "char_count": 62969,
+    "authors": [],
+    "editors": [],
+    "developers": [],
+    "detection_notes": [
+      "No credits section found or parseable"
+    ]
+  },
+  {
+    "book_id": "shining_host",
+    "title": "Shining Host",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Shining Host.md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 2289,
+    "char_count": 571602,
+    "authors": [],
+    "editors": [],
+    "developers": [],
+    "detection_notes": [
+      "No credits section found or parseable"
+    ]
+  },
+  {
+    "book_id": "shining_host_players_guide",
+    "title": "Shining Host Players Guide",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Shining Host Players Guide.md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 1818,
+    "char_count": 606919,
+    "authors": [
+      "Peter Woolworth"
+    ],
+    "editors": [
+      "James Stew"
+    ],
+    "developers": [
+      "Cynthia Summers"
+    ],
+    "detection_notes": []
+  },
+  {
+    "book_id": "vampire_storyteller_guide",
+    "title": "Vampire Storyteller Guide",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Vampire Storyteller Guide.md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 810,
+    "char_count": 468551,
+    "authors": [],
+    "editors": [],
+    "developers": [],
+    "detection_notes": [
+      "No credits section found or parseable"
+    ]
+  },
+  {
+    "book_id": "victorian_age_vampire",
+    "title": "Victorian Age - Vampire",
+    "filename": "reference\\Books_md_ready_fixed_cleaned\\Victorian Age - Vampire.md",
+    "system": "Mind's Eye Theatre",
+    "line_count": 2109,
+    "char_count": 783842,
+    "authors": [
+      "Just in A chilli Krai g Black welder Brian Campbell Will Hind march and Ari Mar mell Vampire and the World of Darkness created by Mark Re in Hagen"
+    ],
+    "editors": [],
+    "developers": [
+      "Just in A chilli"
+    ],
+    "detection_notes": []
+  }
+]

@@ -1,0 +1,114 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "RAG Chunk Schema",
+  "description": "Schema for chunked document segments with metadata",
+  "type": "object",
+  "required": [
+    "chunk_id",
+    "source_path",
+    "source_book",
+    "title",
+    "heading_path",
+    "anchor",
+    "start_line",
+    "end_line",
+    "system",
+    "tags",
+    "canonical_terms",
+    "aliases_matched",
+    "quality_flags",
+    "content"
+  ],
+  "properties": {
+    "chunk_id": {
+      "type": "string",
+      "description": "Stable, deterministic chunk identifier"
+    },
+    "source_path": {
+      "type": "string",
+      "description": "Repository-relative path to source file"
+    },
+    "source_book": {
+      "type": "string",
+      "description": "Book ID from book_index"
+    },
+    "title": {
+      "type": "string",
+      "description": "Chunk title, usually from heading"
+    },
+    "heading_path": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Array of heading hierarchy, e.g. ['CHAPTER ONE', 'HISTORY IN ASHES']"
+    },
+    "anchor": {
+      "type": "string",
+      "description": "Stable slug for anchor link"
+    },
+    "start_line": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Starting line number in source file"
+    },
+    "end_line": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Ending line number in source file"
+    },
+    "start_char": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "Optional: Starting character offset"
+    },
+    "end_char": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "Optional: Ending character offset"
+    },
+    "system": {
+      "type": "string",
+      "description": "Game system (e.g., 'Mind's Eye Theatre')"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": ["mechanics", "faction", "fiction", "reference", "lore", "rules", "character", "setting"]
+      },
+      "description": "Topic/faction/mechanics tags"
+    },
+    "canonical_terms": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "List of glossary canonical terms matched in this chunk"
+    },
+    "aliases_matched": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Which variant forms of terms appeared"
+    },
+    "quality_flags": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": ["ocr_noise", "heading_gap", "oversized_chunk", "undersized_chunk", "missing_context"]
+      },
+      "description": "Quality indicators for the chunk"
+    },
+    "token_count_estimate": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "Approximate token count for size validation"
+    },
+    "content": {
+      "type": "string",
+      "description": "The actual text content of the chunk"
+    }
+  }
+}

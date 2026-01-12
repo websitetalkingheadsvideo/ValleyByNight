@@ -24,6 +24,9 @@ class MarkdownCleaner:
     HR_PATTERN = re.compile(r'^(\s*[-*_]{3,}\s*)$')
     CODE_FENCE_START = re.compile(r'^```')
     CODE_FENCE_END = re.compile(r'^```')
+    PAGE_BREAK_PATTERN = re.compile(r'^<div style="page-break-after: always;"></div>$')
+    PAGE_NUMBER_PATTERN = re.compile(r'^\[Page \d+\]$')
+    SENTENCE_END_PATTERN = re.compile(r'[.!?]["\']?\s*$')
     
     def __init__(self, dry_run: bool = False):
         self.dry_run = dry_run
@@ -67,6 +70,18 @@ class MarkdownCleaner:
             self.is_table(line) or
             self.is_horizontal_rule(line)
         )
+    
+    def is_page_break(self, line: str) -> bool:
+        """Check if line is a page break marker."""
+        return bool(self.PAGE_BREAK_PATTERN.match(line.strip()))
+    
+    def is_page_number(self, line: str) -> bool:
+        """Check if line is a page number marker."""
+        return bool(self.PAGE_NUMBER_PATTERN.match(line.strip()))
+    
+    def ends_with_sentence_ending(self, text: str) -> bool:
+        """Check if text ends with sentence-ending punctuation."""
+        return bool(self.SENTENCE_END_PATTERN.search(text.rstrip()))
     
     def clean_file(self, input_path: Path, output_path: Path) -> Tuple[bool, int, int]:
         """
@@ -120,8 +135,38 @@ class MarkdownCleaner:
                 i += 1
                 continue
             
-            # Empty line: paragraph boundary
+            # Empty line: always a paragraph boundary, but check if sentence continues across page breaks
             if not stripped:
+                if paragraph_buffer:
+                    last_line_text = paragraph_buffer[-1].rstrip()
+                    # Only merge across page breaks if sentence doesn't end AND next line continues it
+                    if not self.ends_with_sentence_ending(last_line_text):
+                        # Look ahead past empty lines and page markers
+                        j = i + 1
+                        page_markers = []
+                        while j < len(lines):
+                            if not lines[j].strip():
+                                j += 1
+                            elif self.is_page_break(lines[j]) or self.is_page_number(lines[j]):
+                                page_markers.append(lines[j])
+                                j += 1
+                            else:
+                                break
+                        
+                        # Check if next line continues the sentence
+                        if j < len(lines) and not self.is_structural(lines[j]):
+                            next_line_text = lines[j].strip()
+                            # Merge if next line starts lowercase or with quote (continues sentence)
+                            if next_line_text and (next_line_text[0].islower() or 
+                                                  next_line_text.startswith('"') or
+                                                  next_line_text.startswith("'")):
+                                # Add page markers to output
+                                cleaned_lines.extend(page_markers)
+                                # Skip the empty lines and page markers, continue to next line
+                                i = j
+                                continue
+                
+                # Normal paragraph boundary - flush buffer and add empty line
                 if paragraph_buffer:
                     result, merges, hyphen_joins = self.flush_paragraph(paragraph_buffer)
                     cleaned_lines.extend(result)
@@ -129,6 +174,14 @@ class MarkdownCleaner:
                     file_hyphen_joins += hyphen_joins
                     paragraph_buffer = []
                 cleaned_lines.append('')
+                i += 1
+                continue
+            
+            # Page break and page number markers: preserve but don't break paragraph
+            if self.is_page_break(line) or self.is_page_number(line):
+                # These will be handled when we encounter empty lines
+                # For now, just add them and continue (they'll be positioned correctly)
+                cleaned_lines.append(line)
                 i += 1
                 continue
             

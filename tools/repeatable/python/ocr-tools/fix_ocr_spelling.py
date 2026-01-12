@@ -66,6 +66,11 @@ SKIP_WORDS = {
 
 # Pattern-based OCR replacements (applied first, more reliable)
 OCR_REPLACEMENTS = [
+    # GLYPH patterns - OCR artifacts for special characters
+    (r'GLYPH\s+lt\s+\d+\s+gt\s*', "'"),  # GLYPH lt 213 gt -> apostrophe
+    (r'GLYPH\s*lt\s*\d+\s*gt\s*', "'"),  # GLYPHlt213gt -> apostrophe (no spaces)
+    (r'GLYPH\s+lt\s+\d+\s+gt', "'"),     # GLYPH lt 213 gt (no trailing space)
+    
     # Split words - common OCR errors
     (r'\bt\s+s\s+he\b', 'the'),
     (r'\bt\s+he\b', 'the'),
@@ -82,6 +87,14 @@ OCR_REPLACEMENTS = [
     (r'\bw\s+ere\b', 'were'),
     (r'\bw\s+h\s+h\s+ho\s+untsthe\s+unters\b', 'who hunts the hunters'),
     (r'\bw\s+h\s+h\s+ho\s+unts\s+the\s+hunters\b', 'who hunts the hunters'),
+    
+    # Theatre/Theater split words
+    (r'\bthe\s+ater\b', 'Theatre'),
+    (r'\bthe\s+at\s+re\b', 'Theatre'),
+    (r'\bThe\s+ater\b', 'Theatre'),
+    (r'\bThe\s+at\s+re\b', 'Theatre'),
+    (r'\bthe\s+at\s+rer\b', 'Theatre'),  # "the at rer" -> "Theatre"
+    (r'\bthe\s+at\s+resetting\b', 'theatre setting'),  # "the at resetting" -> "theatre setting"
     
     # Specific OCR errors found in text
     (r'\baBBat\b', 'Sabbat'),
@@ -158,6 +171,18 @@ def apply_ocr_replacements(text: str) -> str:
     
     # Clean up duplicate words that might have been created
     text = re.sub(r'\b(\w+)\s+\1\b', r'\1', text, flags=re.IGNORECASE)
+    
+    # Fix double apostrophes from GLYPH removal (with or without spaces)
+    text = re.sub(r"'\s*'", "'", text)  # Double apostrophe (with optional space) -> single
+    
+    # Fix common patterns after GLYPH removal
+    text = re.sub(r"Mind's\s+Eye\s+the\s+ater", "Mind's Eye Theatre", text, flags=re.IGNORECASE)
+    text = re.sub(r"Mind's\s+Eye\s+the\s+at\s+re", "Mind's Eye Theatre", text, flags=re.IGNORECASE)
+    text = re.sub(r"Mind\s+Eye\s+the\s+ater", "Mind's Eye Theatre", text, flags=re.IGNORECASE)
+    text = re.sub(r"Mind\s+Eye\s+the\s+at\s+re", "Mind's Eye Theatre", text, flags=re.IGNORECASE)
+    text = re.sub(r"Eye\s+the\s+at\s+rer", "Eye Theatre", text, flags=re.IGNORECASE)
+    text = re.sub(r"Eye\s+the\s+at\s+resetting", "Eye Theatre setting", text, flags=re.IGNORECASE)
+    text = re.sub(r"Mind\s+'s\s+Eye\s+theatre", "Mind's Eye Theatre", text, flags=re.IGNORECASE)
     
     return text
 
