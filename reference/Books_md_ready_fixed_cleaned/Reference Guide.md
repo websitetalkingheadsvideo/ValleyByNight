@@ -16,9 +16,7 @@ Night
 
 Title
 
-amp The the of
-
-Laws
+amp The of
 
 Laws of the
 
@@ -32,7 +30,7 @@ Guide
 
 anarch
 
-Night Night Sabbat
+Night Sabbat
 
 Guide
 
@@ -60,7 +58,7 @@ Revised
 
 Ed of the
 
-Night Night Night
+Night
 
 Sabbat
 
@@ -78,19 +76,11 @@ Laws
 
 Guide
 
-Guide
-
-Guide
-
 Night
 
 Guide of the of
 
-Set Laws
-
-Laws
-
-Laws of the
+Set Laws of the
 
 Laws of the
 
@@ -102,9 +92,7 @@ Laws of
 
 
 
-Laws
-
-Laws the the the of of the the
+Laws the of the
 
 Night
 
@@ -124,8 +112,6 @@ Night Sabbat
 
 Night Sabbat
 
-Faith
-
 Faith of the
 
 Faith or
@@ -137,8 +123,6 @@ Malka vi an
 Malka vi an Anti tri bu
 
 Nagara j a
-
-Nosferatu
 
 Nosferatu Anti tri bu
 
@@ -176,15 +160,9 @@ Ven true Anti tri bu
 
 Night
 
-Night
-
-Guide
-
 Guide
 
 Night
-
-Guide
 
 Guide
 
@@ -200,21 +178,13 @@ amp Fire
 
 Title
 
-Night Night Night Page
+Night Page
 
 
 
 amp Sabbat
 
-Sabbat
-
-Sabbat
-
 Number
-
-Guide
-
-Guide
 
 Guide
 
@@ -260,8 +230,6 @@ Daughters of Cacophony
 
 Followers of Set
 
-Gangrel
-
 Gangrel Anti tri bu
 
 Gargoyles
@@ -276,7 +244,7 @@ Lai bon
 
 Lamia
 
-La sombra
+La sombre
 
 Lh i annan
 
@@ -287,10 +255,6 @@ Brato v itch
 Grimaldi
 
 Ober tus
-
-Laws
-
-Laws
 
 Laws of
 
@@ -340,15 +304,7 @@ Night Sabbat
 
 Night Laws
 
-Laws
-
-Laws
-
-Laws
-
 Night
-
-Guide
 
 Guide
 
@@ -374,13 +330,11 @@ Night Sabbat
 
 Laws of the of the
 
-Night clan book Laws
-
-Laws the of
+Night clan book Laws the of
 
 Laws of
 
-clan book Laws of the the
+clan book Laws of the
 
 Guide
 
@@ -408,7 +362,7 @@ Ed of the
 
 
 
-Night Night
+Night
 
 Sabbat
 
@@ -432,8 +386,6 @@ Guide
 
 Night
 
-Night
-
 Guide
 
 Page
@@ -444,7 +396,7 @@ Revised
 
 Night Ed Sabbat
 
-Guide of of the the
+Guide of the
 
 ## Archetypes Nature amp Demeanor
 
@@ -548,10 +500,6 @@ Empathetic
 
 Laws
 
-Laws
-
-Laws
-
 ## Title amp Page Number
 
 Laws of the
@@ -586,13 +534,7 @@ Night
 
 Laws the of
 
-Laws
-
-Laws
-
-Laws
-
-Laws the the the of of of of
+Laws the of
 
 the
 
@@ -600,13 +542,9 @@ Night Sabbat
 
 Laws the of
 
-Laws
+Laws of the of the
 
-Laws
-
-Laws of of the the of the
-
-Night of of of
+Night of
 
 Sabbat
 
@@ -614,25 +552,11 @@ Sabbat
 
 Night
 
-Night
-
-Night
-
-Night
-
-Night
-
 Guide
 
 Night
 
-Night
-
-Night
-
-Night
-
-Guide the the the
+Guide the
 
 Guide
 
@@ -670,11 +594,7 @@ Guide
 
 Laws of the
 
-Laws
-
-Laws
-
-Laws of of of the the the
+Laws of the
 
 Night Sabbat
 
@@ -1082,27 +1002,15 @@ Investigation
 
 Larceny
 
-Laws
+Laws of
 
-Laws
-
-Laws
-
-Laws of of of of
-
-Laws of the the the the
+Laws of the
 
 Number
 
 Night
 
 Guide
-
-Night
-
-Night
-
-Night
 
 Night
 
@@ -1134,8 +1042,6 @@ Ability
 
 Night
 
-Night
-
 amp Title
 
 Laws
@@ -1146,21 +1052,15 @@ Night Sabbat
 
 Laws the of
 
-Laws
-
-Laws
-
-Laws
-
-Laws of of of of
+Laws of
 
 Title
 
-amp Laws the the the the
+amp Laws the
 
 Page of
 
-The the
+The
 
 Long
 
@@ -1194,25 +1094,11 @@ amp Laws of
 
 Laws
 
-Laws
-
-Laws
-
-Laws
-
-Laws
-
-Laws
-
-Laws
-
-Laws
-
 Fire the
 
-Night the the the the the the the
+Night the
 
-of of of of of of of of
+of
 
 the
 
@@ -1221,24 +1107,6 @@ Night Sabbat the
 Night Sabbat
 
 Night
-
-
-
-Night
-
-Night
-
-Night
-
-Night
-
-Night
-
-Night
-
-Night
-
-Guide
 
 Guide
 
@@ -1269,10 +1137,6 @@ Long
 Night
 
 Guide
-
-Night
-
-Night
 
 Night
 
@@ -1328,17 +1192,13 @@ Torture
 
 Vamp
 
-Laws
-
-Laws of of
+Laws of
 
 Laws of the
 
 Laws of
 
-Laws
-
-Laws of of the the the the the
+Laws of the
 
 Title
 
@@ -1372,15 +1232,11 @@ Number
 
 Night
 
-Night
-
 Guide
 
 Night
 
 Guide
-
-Night
 
 Night
 
@@ -1388,13 +1244,7 @@ Number
 
 Night
 
-Night
-
 amp Laws of
-
-Laws
-
-Laws
 
 Laws
 
@@ -1402,27 +1252,15 @@ The
 
 Laws
 
-Laws
-
 Fire the
 
-Night the the of of of the
+Night the of the
 
 Long of the of the
 
 Night Camarilla
 
 Laws of
-
-Night
-
-Night
-
-Night
-
-Night
-
-Night
 
 Night
 
@@ -1448,15 +1286,11 @@ Guide
 
 Night
 
-Night
-
 amp Laws of the
 
 Laws
 
 The
-
-Laws
 
 Laws the of
 
@@ -1468,19 +1302,9 @@ Fire
 
 Night
 
-Night
-
-Night
-
-Night
-
-Night
-
-Night
-
 Faith
 
-Night Night amp Sabbat
+Night amp Sabbat
 
 Fire
 
@@ -1526,10 +1350,6 @@ Conviction
 
 Courage
 
-Path
-
-
-
 Path of Blood
 
 Path of Bone
@@ -1548,17 +1368,7 @@ Path of Feral Heart
 
 Path of Harmony
 
-Laws
-
-Laws
-
-Laws
-
-Laws
-
-Laws of of of of of the the
-
-the the the
+Laws of the
 
 Title
 
@@ -1573,8 +1383,6 @@ Number
 back ground of the
 
 Laws the of
-
-Night
 
 Night
 
@@ -1614,31 +1422,15 @@ The
 
 Laws
 
-Laws
-
-Laws
-
 Number
 
 Influence the of the
 
-Long of the of of
+Long of the of
 
 Laws of
 
-The the the
-
-Night
-
-
-
-Night
-
-Night
-
-Night
-
-Night
+The
 
 Night the
 
@@ -1678,25 +1470,17 @@ amp Laws of
 
 Laws
 
-Laws
-
 Virtue
 
 Number
 
-Night
-
-Night
-
-Night the of of the the
+Night the of the
 
 Paths of Enlightenment
 
 Title
 
 amp Laws
-
-Laws
 
 Page of the of the
 
@@ -1707,12 +1491,6 @@ Night Sabbat
 Night Number
 
 Night
-
-Night
-
-Guide
-
-Guide
 
 Guide
 
@@ -1736,8 +1514,6 @@ Guide of
 
 Elysium
 
-Path
-
 Path of Honorable Accord
 
 Path of Lilith
@@ -1760,11 +1536,7 @@ Self Control
 
 Laws of the
 
-Laws
-
-Laws
-
-Laws the of of of the the
+Laws the of the
 
 Title
 
@@ -1778,25 +1550,9 @@ Laws of the
 
 Laws
 
-Laws
-
 Title
 
-Laws
-
-Laws
-
-Laws
-
-Laws
-
-Laws
-
-Laws
-
-Laws
-
-Laws of of
+Laws of
 
 Number
 
@@ -1804,9 +1560,7 @@ Night
 
 Guide
 
-Night
-
-Night the the
+Night the
 
 Night
 
@@ -1814,29 +1568,15 @@ amp Page
 
 Number of the
 
-Night of of of of of of of
+Night of
 
 Title
 
-Night
-
-Night
-
-Night
-
-Night
-
-Night
-
-Night the the the the the the the
+Night the
 
 Night
 
 amp Laws
-
-
-
-Laws
 
 Page of the of
 
@@ -1852,8 +1592,6 @@ Night Sabbat
 
 Laws of the
 
-Laws
-
 Laws of the of the
 
 Night Sabbat
@@ -1866,17 +1604,9 @@ Number
 
 Night
 
-Night
-
 Number
 
 Guide
-
-Guide
-
-Night
-
-Night
 
 Night
 
@@ -1885,8 +1615,6 @@ Guide
 Night
 
 Elysium
-
-Road
 
 Road of the Beast
 
@@ -1934,10 +1662,6 @@ Blunt Fangs
 
 Blush of Health
 
-Bound
-
-
-
 Bound to the Council
 
 Bright Aura
@@ -1974,8 +1698,6 @@ Con sanguine o us Resistance
 
 Conspicuous Consumption
 
-Consumption
-
 Contagious
 
 Controllable Night Sight
@@ -1988,19 +1710,13 @@ Road
 
 amp Fire
 
-amp amp Page
-
-Faith
-
-Faith
+amp Page
 
 Faith
 
 Road of Kings
 
 Road of S in
-
-Fire
 
 Fire
 
@@ -2012,21 +1728,13 @@ Number
 
 Laws
 
-Laws
-
-Laws
-
 Page
 
-amp of the of of
+amp of the of
 
 Laws
 
-Night
-
-Night
-
-Night the the the
+Night the
 
 Night of
 
@@ -2034,15 +1742,11 @@ Tzi misc e clan book Nosferatu clan book Laws the of
 
 Revised
 
-Revised
-
-Revised
-
 
 
 Treme re Laws
 
-Ed Ed Ed of
+Ed of
 
 Night the
 
@@ -2070,11 +1774,7 @@ Nosferatu Revised
 
 Laws
 
-Laws
-
 Ed of the
-
-Night
 
 Night the of
 
@@ -2087,8 +1787,6 @@ Treme re Laws of the
 Laws of the
 
 Laws of
-
-Laws
 
 Laws the
 
@@ -2106,13 +1804,7 @@ Laws
 
 Night of the
 
-Laws
-
-Laws
-
-Laws
-
-Laws the the of of of the
+Laws the of the
 
 Faith of the
 
@@ -2124,19 +1816,13 @@ Laws
 
 Night
 
-Night
-
-Night
-
 amp Fire
 
 Night
 
 Guide of the
 
-Night
-
-Night of of the
+Night of the
 
 clan book Guide
 
@@ -2168,19 +1854,13 @@ Ed of
 
 Night the
 
-Tzi misc e clan book clan book Nosferatu clan book La sombra Revised
+Tzi misc e clan book clan book Nosferatu clan book La sombre Revised
 
-Revised
-
-Revised
-
-Ed Ed Ed Merit or Flaw value Crusader 1 Cursed 1 to 5 Danger Sense 3 Daredevil 3 Dark Fate 5 Dark Secret 1 Deadened Nerves 4 Deaf 4 Death Wish 1 to 5 Death's Reflection 3 Death sight 2 Debt of Gratitude 1 to 3 Decrepitude 3 Deep Sleeper 1 Deformity 2 Disease Carrier 4 Diseased 1 to 5 Disembodied Mentor 5 Disfigured 2 do u ble Betrayer 4 Draco n's Temperament 3 Dulled Bite 2 Dynamic Personality 5 Early Riser 1 Eat Food 1 Eerie Presence 2 Efficient Digestion 3 Ei de tic Memory 2 Embraced with out the Cup Enchanting Voice 2 Enemy Brood 3 Enlightened 1 to 7 Enemy 1 to 5 False Reflection 3 Fang less 2 Fifteenth Generation 4 Flesh Eater 4
+Ed Merit or Flaw value Crusader 1 Cursed 1 to 5 Danger Sense 3 Daredevil 3 Dark Fate 5 Dark Secret 1 Deadened Nerves 4 Deaf 4 Death Wish 1 to 5 Death's Reflection 3 Death sight 2 Debt of Gratitude 1 to 3 Decrepitude 3 Deep Sleeper 1 Deformity 2 Disease Carrier 4 Diseased 1 to 5 Disembodied Mentor 5 Disfigured 2 do u ble Betrayer 4 Draco n's Temperament 3 Dulled Bite 2 Dynamic Personality 5 Early Riser 1 Eat Food 1 Eerie Presence 2 Efficient Digestion 3 Ei de tic Memory 2 Embraced with out the Cup Enchanting Voice 2 Enemy Brood 3 Enlightened 1 to 7 Enemy 1 to 5 False Reflection 3 Fang less 2 Fifteenth Generation 4 Flesh Eater 4
 
 Title
 
 amp clan book Page
-
-Faith
 
 Faith
 
@@ -2202,14 +1882,6 @@ Faith of the of
 
 Title
 
-Title
-
-Laws
-
-Laws
-
-Laws
-
 Laws of
 
 clan book Fire
@@ -2218,9 +1890,7 @@ Night
 
 amp Fire
 
-Night
-
-Night the the
+Night the
 
 Night
 
@@ -2236,7 +1906,7 @@ Laws of
 
 Elysium
 
-La sombra Laws
+La sombre Laws
 
 Revised
 
@@ -2252,8 +1922,6 @@ Night anarch
 
 Laws the of
 
-Laws
-
 Laws of the of the
 
 Faith
@@ -2261,10 +1929,6 @@ Faith
 clan book Night
 
 Guide
-
-Night
-
-Night
 
 Night
 
@@ -2296,19 +1960,13 @@ Night Sabbat the of
 
 Laws
 
-Laws
-
-Laws
-
 Ed Guide of
 
-Night the of of
+Night the of
 
 Laws of
 
-clan book Night
-
-Night the the the
+clan book Night the
 
 Night
 
@@ -2372,7 +2030,7 @@ Medium 2 Mistaken Identity 1 Monstrous 3 Mute 4 Natural Leader 1 Natural Linguis
 
 ## Title amp Page Number
 
-Laws of the Night 120 Laws of the Night 119 Laws of the Night 115 Laws of the Night 115 Laws of the Night 118 Laws of the Night 116 clan book Nosferatu Revised Ed 73 Laws of the Night 117 Laws of the Night 120 clan book Bru jah Revised Ed 69 Laws of the Night 114 Laws of the Night 120 clan book Nosferatu Revised Ed 70 clan book Tzi misc e Revised Ed 69 Laws of Elysium 32 clan book Ven true Revised Ed 77 clan book Nosferatu Revised Ed 73 clan book Nosferatu Revised Ed 72 clan book La sombra Revised Ed 64 Laws of the Night Camarilla Guide 25 Laws of the Night 115 Laws of the Night anarch Guide 114 Laws of the Night 117 clan book Nosferatu Revised Ed 71 Faith amp Fire 140 clan book La sombra Revised Ed 64 Laws of Elysium 32 Laws of Elysium 33 Laws of Elysium 32 Laws of the Night 118 Laws of the Night 117 Laws of the Night 119 clan book Nosferatu Revised Ed 71 clan book Giovanni Revised Ed 77 clan book Nosferatu Revised Ed 74 Faith amp Fire 135 Laws of the Night anarch Guide 114 Laws of Elysium 34 Faith amp Fire 139 Laws of the Night 121 clan book Nosferatu Revised Ed 71 Laws of the Night 121 clan book Tzi misc e Revised Ed 69 clan book Tzi misc e Revised Ed 70 clan book Nosferatu Revised Ed 72 Laws of the Night Sabbat Guide 73
+Laws of the Night 120 Laws of the Night 119 Laws of the Night 115 Laws of the Night 115 Laws of the Night 118 Laws of the Night 116 clan book Nosferatu Revised Ed 73 Laws of the Night 117 Laws of the Night 120 clan book Bru jah Revised Ed 69 Laws of the Night 114 Laws of the Night 120 clan book Nosferatu Revised Ed 70 clan book Tzi misc e Revised Ed 69 Laws of Elysium 32 clan book Ven true Revised Ed 77 clan book Nosferatu Revised Ed 73 clan book Nosferatu Revised Ed 72 clan book La sombre Revised Ed 64 Laws of the Night Camarilla Guide 25 Laws of the Night 115 Laws of the Night anarch Guide 114 Laws of the Night 117 clan book Nosferatu Revised Ed 71 Faith amp Fire 140 clan book La sombre Revised Ed 64 Laws of Elysium 32 Laws of Elysium 33 Laws of Elysium 32 Laws of the Night 118 Laws of the Night 117 Laws of the Night 119 clan book Nosferatu Revised Ed 71 clan book Giovanni Revised Ed 77 clan book Nosferatu Revised Ed 74 Faith amp Fire 135 Laws of the Night anarch Guide 114 Laws of Elysium 34 Faith amp Fire 139 Laws of the Night 121 clan book Nosferatu Revised Ed 71 Laws of the Night 121 clan book Tzi misc e Revised Ed 69 clan book Tzi misc e Revised Ed 70 clan book Nosferatu Revised Ed 72 Laws of the Night Sabbat Guide 73
 
 Merit
 
@@ -2389,8 +2047,6 @@ Scarface
 Secret Diable ri st
 
 Shadow Walker
-
-Short
 
 Short Fuse
 
@@ -2464,7 +2120,7 @@ Melancholia
 
 Manic Depression
 
-clan book clan book clan book the the the the the the the
+clan book clan book clan book the
 
 Title
 
@@ -2488,19 +2144,13 @@ Laws of
 
 Laws
 
-Laws
-
-Ed the of of
+Ed the of
 
 Laws of
 
 clan book clan book Laws of
 
-clan book the the
-
-Night
-
-Night
+clan book the
 
 Night the
 
@@ -2508,11 +2158,9 @@ Night
 
 Revised
 
-Nosferatu Nosferatu Ed Revised
+Nosferatu Ed Revised
 
 Laws of
-
-Laws
 
 Laws
 
@@ -2544,17 +2192,7 @@ Ed Revised the of
 
 clan book Laws of
 
-Laws
-
-Laws
-
-
-
-Laws
-
-Laws
-
-Laws of of of of of
+Laws of
 
 Night Ed anarch
 
@@ -2572,7 +2210,7 @@ value
 
 Territorial
 
-Th a uma turgi call y Inept
+Th a uma turgid call y Inept
 
 Thin Blood
 
@@ -2594,15 +2232,11 @@ Unbroken
 
 Un bond able
 
-Uncontrollable
-
 Uncontrollable Night Sight
 
 Vainglorious
 
 -1 to 3
-
-Vengeful
 
 Vengeful Childe
 
@@ -2628,15 +2262,11 @@ amp The
 
 Long
 
-Night Night Night Night Laws
+Night Laws
 
 Night Laws
 
-Laws
-
 Night Laws
-
-Laws
 
 Fire
 
@@ -2644,19 +2274,7 @@ Night
 
 Sabbat
 
-Sabbat
 
-Sabbat
-
-Sabbat
-
-
-
-Guide
-
-Guide
-
-Guide
 
 Guide of
 
@@ -2742,13 +2360,9 @@ Night
 
 Revised
 
-Laws
-
 Laws of the
 
 Ed of the
-
-Night
 
 Night Camarilla
 
@@ -2790,7 +2404,7 @@ Night
 
 Revised
 
-La sombra Ed Revised
+La sombre Ed Revised
 
 Laws
 
@@ -2812,19 +2426,9 @@ Laws of
 
 clan book clan book Laws of the
 
-Laws
+Laws of the
 
-Laws
-
-Laws
-
-Laws
-
-Laws of of of of of the the
-
-the the the
-
-La sombra Guide
+La sombre Guide
 
 Revised
 
@@ -2840,17 +2444,13 @@ Title
 
 amp Laws
 
-Laws
-
 Night Laws
 
 Night Laws
 
-Night Night Night Laws
-
 Night Laws
 
-Laws
+Night Laws
 
 Ed Page
 
@@ -2910,8 +2510,6 @@ Fire
 
 Night
 
-Night
-
 amp Fire
 
 State
@@ -2966,8 +2564,6 @@ Predator's
 
 Beast
 
-Beast
-
 Mastery
 
 Laws of
@@ -2978,19 +2574,13 @@ Title
 
 Laws
 
-Laws
-
-Laws
-
-Laws
-
 ## States of Being
 
 amp State
 
 Number
 
-Page of the of of of
+Page of the of
 
 Fire
 
@@ -2998,21 +2588,13 @@ Frenzy amp R t schreck
 
 Golconda
 
-Night
-
-Night
-
-Night
-
-Night the the the
+Night the
 
 Sunlight
 
 ## Miscellaneous Items
 
 Title
-
-Laws
 
 Laws
 
@@ -3038,29 +2620,15 @@ Night of the
 
 Night Title
 
-Title
-
-Laws
-
-Laws
-
-Laws
-
 Laws
 
 Title
 
 Number
 
-amp Page of the of of of
+amp Page of the of
 
-amp Night
-
-Night
-
-
-
-Night the the the
+amp Night the
 
 Night
 
@@ -3092,7 +2660,7 @@ Night Sabbat
 
 Guide
 
-Th a uma turgi cal Counter magic
+Th a uma turgid cal Counter magic
 
 Laws of the
 
@@ -3101,8 +2669,6 @@ Night Camarilla
 Guide will power
 
 Laws of the
-
-Night
 
 Night
 
@@ -3116,25 +2682,9 @@ amp Faith
 
 amp Faith
 
-Faith
-
-Faith
-
-Faith
-
-Faith
-
 Fire
 
-amp amp amp amp amp Fire
-
-Fire
-
-Fire
-
-Fire
-
-Fire
+amp Fire
 
 Page
 
@@ -3182,7 +2732,7 @@ Species
 
 Dark the
 
-Speech zzz zz zz
+Speech zzz zz
 
 Conquer the
 
@@ -3220,21 +2770,7 @@ Out the
 
 Beast
 
-Beast
-
-Beast
-
 Title
-
-Laws
-
-Laws
-
-Laws
-
-Laws
-
-Laws
 
 Laws
 
@@ -3242,17 +2778,9 @@ Number
 
 Page
 
-amp of the of of of the the the
-
-Night
-
-Night
-
-Night
+amp of the of the
 
 Night of the
-
-Night
 
 Night of the
 
@@ -3320,8 +2848,6 @@ Discipline
 
 amp Animalism Chi mers try zzz
 
-zzz
-
 Mask of
 
 Cathay
@@ -3329,8 +2855,6 @@ Cathay
 clan book Rav nos Revised
 
 Ed Animalism do min ate zzz
-
-zzz
 
 Aspect of the
 
@@ -3454,7 +2978,7 @@ Sibyl s
 
 Tongue
 
-zzz zz zz
+zzz zz
 
 Anim a Gathering Kar mic Sight zzz zz zzz
 
@@ -3490,13 +3014,11 @@ Laws of the Night Camarilla Guide 46
 
 ## Au spex Celerity for ti tude z
 
-z
-
 Guardian Vigil
 
 ## Au spex Celerity Obfuscate zzz
 
-z z do u ble talk
+z do u ble talk
 
 clan book to read or Revised Ed 75
 
@@ -3514,7 +3036,7 @@ Heart s
 
 Desire
 
-## Au spex De ment ation z
+## Au spex De ment action z
 
 zz
 
@@ -3548,11 +3070,11 @@ See the
 
 Reflected form
 
-## Au spex Th au matur gy zz
+## Au spex Th au mature gy zz
 
 z
 
-Th a uma turgi cal
+Th a uma turgid cal
 
 ## Celerity z
 
@@ -3584,7 +3106,7 @@ clan book Assam it e Revised Ed 64 Laws of the Night Camarilla Guide 46 Faith am
 
 Projectile
 
-Quickness zzz zz zz
+Quickness zzz zz
 
 Flower of Death Stutter Step
 
@@ -3598,21 +3120,15 @@ Between the Ticks
 
 Laws of the Night Camarilla Guide 48
 
-## Celerity for ti tude zz
+## Celerity for ti tude zz for ced March
 
-zz for ced March
-
-clan book Assam it e Revised Ed 71 zzz
-
-zzz zz
+clan book Assam it e Revised Ed 71 zzz zz
 
 Seventh Chinese Brother
 
 Laws of the Night anarch Guide 62
 
 ## Celerity Obfuscate zz
-
-zz
 
 Shadow Feint
 
@@ -3640,15 +3156,13 @@ Revised
 
 Gangrel clan book Treme re Ed Revised
 
-Revised
-
-Ed Ed clan book Assam it e Revised Ed 72
+Ed clan book Assam it e Revised Ed 72
 
 Level amp Discipline
 
 ## Celerity Po ten ce
 
-## zzz zzz
+## zzz
 
 Burning Wrath
 
@@ -3700,7 +3214,7 @@ Shared Nightmare
 
 clan book Rav nos Revised Ed 63
 
-## zzz zz zz
+## zzz zz
 
 Far Fatu us
 
@@ -3736,7 +3250,7 @@ Conflagration
 
 Laws of the Night Storyteller's Guide 23 zzz z
 
-Psycho machi a
+Psycho macho a
 
 Laws of the Night Storyteller's Guide 23 zzz zz
 
@@ -3748,7 +3262,7 @@ Concordance
 
 Laws of the Night Storyteller's Guide 24
 
-## zzz zz zz
+## zzz zz
 
 Summon the Herald of Top he th
 
@@ -3768,7 +3282,7 @@ Level amp Discipline
 
 Title amp Page Number
 
-## Dark Th au matur gy The Fires of the Inferno z
+## Dark Th au mature gy The Fires of the Inferno z
 
 Flash Blind
 
@@ -3796,7 +3310,7 @@ Furnaces of Hell
 
 Laws of the Night Sabbat Guide 101
 
-## Dark Th au matur gy The Path of Phobos z
+## Dark Th au mature gy The Path of Phobos z
 
 Induce Fear
 
@@ -3822,7 +3336,7 @@ Leech of Fear
 
 Laws of the Night Sabbat Guide 103
 
-## Dark Th au matur gy Taking of the Spirit z
+## Dark Th au mature gy Taking of the Spirit z
 
 Mind Leech
 
@@ -3844,11 +3358,11 @@ The Gift of Servitude
 
 Laws of the Night Sabbat Guide 104
 
-## Dark Th a uma turgi cal Rituals Basic
+## Dark Th a uma turgid cal Rituals Basic
 
 Call forth the Host Laws of the Night Sabbat Guide 105 Bind the Interloper Laws of the Night Sabbat Guide 106 Curse of Oedipus Laws of the Night Sabbat Guide 106 Video Ne f as Laws of the Night Sabbat Guide 106
 
-## Dark Th a uma turgi cal Rituals Intermediate
+## Dark Th a uma turgid cal Rituals Intermediate
 
 Felis Negru m
 
@@ -3858,7 +3372,7 @@ Plague's Secret do main
 
 Laws of the Night Sabbat Guide 107
 
-## Dark Th a uma turgi cal Rituals Advanced
+## Dark Th a uma turgid cal Rituals Advanced
 
 Close the Ways
 
@@ -3880,7 +3394,7 @@ Level amp Discipline
 
 Title amp Page Number
 
-## De ment ation z
+## De ment action z
 
 Passion
 
@@ -3922,7 +3436,7 @@ Night Sabbat
 
 Guide
 
-## zzz zz zz
+## zzz zz
 
 Child mind Restructure Sleep of Reason
 
@@ -3936,7 +3450,7 @@ Lunatic Eruption
 
 Laws of the Night Sabbat Guide 111
 
-## De ment ation do mina te
+## De ment action do mina te
 
 ## zzz z zzz zz
 
@@ -3978,7 +3492,7 @@ Guide
 
 
 
-clan book Treme re Revised Ed 48 zzz zz zz
+clan book Treme re Revised Ed 48 zzz zz
 
 Mass Manipulation Still the Mortal Flesh
 
@@ -4004,21 +3518,19 @@ Laws of the Night Camarilla Guide 51
 
 ## do mina te for ti tude
 
-## zzz zzz
+## zzz
 
 Denial of Aphrodite s Favor clan book Ven true Revised Ed 77
 
 ## do mina te Ob ten eb ration
 
-## zzz zzz
+## zzz
 
 Shroud of Absence
 
-clan book La sombra Revised Ed 72
+clan book La sombre Revised Ed 72
 
 ## do mina te Presence z
-
-z
 
 Life song
 
@@ -4062,7 +3574,7 @@ Guide
 
 clan book Gangrel Revised
 
-Ed zzz zz zz
+Ed zzz zz
 
 Curse the Laurel Resilient Mind Shared Strength
 
@@ -4126,7 +3638,7 @@ Badger's Hide
 
 Laws of the Night anarch Guide 56
 
-## Gargoyle Th a uma turgi cal Rituals Basic
+## Gargoyle Th a uma turgid cal Rituals Basic
 
 Feather Stone
 
@@ -4138,7 +3650,7 @@ Faith amp Fire 219
 
 Faith amp Fire 220
 
-Level Discipline Title Page Number Level Discipline Title Page Number Gargoyle Th a uma turgi cal Rituals Intermediate Gargoyle Th a uma turgi cal Rituals Intermediate Mortis The Four Humours Defender of the have n Faith Fire 220 Faith Fire 220 z Whispers to the Soul Faith Fire 179 Rite of the S or cerous Shield Infusion of Earth Faith Fire 220 zz Kiss of the Dark Mother Faith Fire 179 Gargoyle Th a uma turgi cal Rituals Advanced Gargoyle Th a uma turgi cal Rituals Advanced zzz Dark Humours Transform the Skin to Stone Faith Fire 221 zzz z Faith Fire 180 Heart of Granite Faith Fire 221 Clutching the Shroud Faith Fire 180 Gift of the Immobile form Faith Fire 221 zzz zz Black Breath Faith Fire 180 Kol duni c Sorcery The Way of Sorrow z Kol duni c Sorcery The Way of Sorrow z Mortis The Grave's Decay Frustrations of Nest re cha The clan book Tzi misc e Revised Ed 64 zz Frustrations of Nest re cha The clan book Tzi misc e Revised Ed 64 zz z Destroy the Husk Faith Fire 173 Insults of Kri vd a The clan book Tzi misc e Revised Ed 66 zzz Insults of Kri vd a The clan book Tzi misc e Revised Ed 66 zzz zz Rigor Mortis zzz Faith Fire 173 Weeping of Kru chin a The clan book Tzi misc e Revised Ed 66 zzz z Weeping of Kru chin a The clan book Tzi misc e Revised Ed 66 zzz z with er Faith Fire 174 Misfortune of Cher no go lov The clan book Tzi misc e Revised Ed 66 Misfortune of Cher no go lov The clan book Tzi misc e Revised Ed 66 zzz z Corrupt the Undead Flesh Faith Fire 174 zzz zz Starvation of M arena The clan book Tzi misc e Revised Ed 67 zzz zz Starvation of M arena The clan book Tzi misc e Revised Ed 67 zzz zz Dissolve the Flesh Faith Fire 174 Me lpo mine e Me lpo mine e Mortis Rituals Basic z z Fin al Sight Faith Fire 181 Missing Voice The Laws of the Night 150 Missing Voice The Laws of the Night 150 Revivify the Cold Vitae Faith Fire 181 zz Phantom Speaker Laws of the Night 151 zz Phantom Speaker Laws of the Night 151 Eyes of the Grave Faith Fire 181 zzz Madrigal Laws of the Night 151 zzz z zzz Madrigal Laws of the Night 151 zzz z Advanced Shroud Mortis Rituals Walk Through the Faith Fire 182 Laws of the Night 151 My the rce ria z Folder ol Laws of the Night Sabbat Guide 112 Camarilla Guide 54 zz Fa e Sight Laws of the Night Sabbat Guide 112 zzz zz zz Persistent Echo Laws of the Night Camarilla Guide 54 zzz zz zz Persistent Echo Laws of the Night Camarilla Guide 54 zzz Laws of the Night Sabbat Guide 112 Mortis Cadaverous Animation z Faith Fire 177 Aura Absorption zzz z Ch anjel in Ward zzz zz Laws of the Night Sabbat Guide 113 zz Call the Hom u ncula r Servant Faith Fire 177 zz Call the Hom u ncula r Servant Faith Fire 177 zzz zz z Steal the Mind zzz zz zz Laws of the Night Sabbat Guide 114 zzz Raise the Corpse to Service Faith Fire 178 zzz Raise the Corpse to Service Faith Fire 178 Absorb the Mind Laws of the Night Sabbat Guide 114 zzz z zzz z zzz zz zzz Call the A thanatos Faith Fire 178 Call the A thanatos Faith Fire 178 The Grandest Trick Laws of the Night Sabbat Guide 114 zzz zz Muster the Corpse Army Faith Fire 179 zzz zz Muster the Corpse Army Faith Fire 179 zzz zz Muster the Corpse Army Faith Fire 179 Necromancy The Ash Path Mortis The Corpse in the Monster z Faith Fire 175 z Shroud sight zz Lifeless Tongues Laws of the Night 154 Laws of the Night 154 Faith Fire 175 zzz Dead Hand zzz z Laws of the Night 154 zzz Curse of Life Faith Fire 176 zzz z zzz Curse of Life Faith Fire 176 zzz z Ex Nihilo zzz zz Laws of the Night 154 Gift of the Corpse Faith Fire 176 Gift of the Corpse Faith Fire 176 Shroud Mastery Laws of the Night 155 zzz zz Gift of Life Faith Fire 176 zzz zz Gift of Life Faith Fire 176 zzz zz Gift of Life Faith Fire 176
+Level Discipline Title Page Number Level Discipline Title Page Number Gargoyle Th a uma turgid cal Rituals Intermediate Gargoyle Th a uma turgid cal Rituals Intermediate Mortis The Four Humours Defender of the have n Faith Fire 220 Faith Fire 220 z Whispers to the Soul Faith Fire 179 Rite of the S or cerous Shield Infusion of Earth Faith Fire 220 zz Kiss of the Dark Mother Faith Fire 179 Gargoyle Th a uma turgid cal Rituals Advanced Gargoyle Th a uma turgid cal Rituals Advanced zzz Dark Humours Transform the Skin to Stone Faith Fire 221 zzz z Faith Fire 180 Heart of Granite Faith Fire 221 Clutching the Shroud Faith Fire 180 Gift of the Immobile form Faith Fire 221 zzz zz Black Breath Faith Fire 180 Kol duni c Sorcery The Way of Sorrow z Kol duni c Sorcery The Way of Sorrow z Mortis The Grave's Decay Frustrations of Nest re cha The clan book Tzi misc e Revised Ed 64 zz Frustrations of Nest re cha The clan book Tzi misc e Revised Ed 64 zz z Destroy the Husk Faith Fire 173 Insults of Kri vd a The clan book Tzi misc e Revised Ed 66 zzz Insults of Kri vd a The clan book Tzi misc e Revised Ed 66 zzz zz Rigor Mortis zzz Faith Fire 173 Weeping of Kru chin a The clan book Tzi misc e Revised Ed 66 zzz z Weeping of Kru chin a The clan book Tzi misc e Revised Ed 66 zzz z with er Faith Fire 174 Misfortune of Cher no go lov The clan book Tzi misc e Revised Ed 66 Misfortune of Cher no go lov The clan book Tzi misc e Revised Ed 66 zzz z Corrupt the Undead Flesh Faith Fire 174 zzz zz Starvation of M arena The clan book Tzi misc e Revised Ed 67 zzz zz Starvation of M arena The clan book Tzi misc e Revised Ed 67 zzz zz Dissolve the Flesh Faith Fire 174 Me lpo mine e Me lpo mine e Mortis Rituals Basic z Fin al Sight Faith Fire 181 Missing Voice The Laws of the Night 150 Missing Voice The Laws of the Night 150 Revivify the Cold Vitae Faith Fire 181 zz Phantom Speaker Laws of the Night 151 zz Phantom Speaker Laws of the Night 151 Eyes of the Grave Faith Fire 181 zzz Madrigal Laws of the Night 151 zzz z zzz Madrigal Laws of the Night 151 zzz z Advanced Shroud Mortis Rituals Walk Through the Faith Fire 182 Laws of the Night 151 My the rce ria z Folder ol Laws of the Night Sabbat Guide 112 Camarilla Guide 54 zz Fa e Sight Laws of the Night Sabbat Guide 112 zzz zz Persistent Echo Laws of the Night Camarilla Guide 54 zzz zz Persistent Echo Laws of the Night Camarilla Guide 54 zzz Laws of the Night Sabbat Guide 112 Mortis Cadaverous Animation z Faith Fire 177 Aura Absorption zzz z Ch angel in Ward zzz zz Laws of the Night Sabbat Guide 113 zz Call the Hom u ncula r Servant Faith Fire 177 zz Call the Hom u ncula r Servant Faith Fire 177 zzz zz z Steal the Mind zzz zz Laws of the Night Sabbat Guide 114 zzz Raise the Corpse to Service Faith Fire 178 zzz Raise the Corpse to Service Faith Fire 178 Absorb the Mind Laws of the Night Sabbat Guide 114 zzz z zzz z zzz zz zzz Call the A thanatos Faith Fire 178 Call the A thanatos Faith Fire 178 The Grandest Trick Laws of the Night Sabbat Guide 114 zzz zz Muster the Corpse Army Faith Fire 179 zzz zz Muster the Corpse Army Faith Fire 179 zzz zz Muster the Corpse Army Faith Fire 179 Necromancy The Ash Path Mortis The Corpse in the Monster z Faith Fire 175 z Shroud sight zz Lifeless Tongues Laws of the Night 154 Laws of the Night 154 Faith Fire 175 zzz Dead Hand zzz z Laws of the Night 154 zzz Curse of Life Faith Fire 176 zzz z zzz Curse of Life Faith Fire 176 zzz z Ex Nihilo zzz zz Laws of the Night 154 Gift of the Corpse Faith Fire 176 Gift of the Corpse Faith Fire 176 Shroud Mastery Laws of the Night 155 zzz zz Gift of Life Faith Fire 176 zzz zz Gift of Life Faith Fire 176 zzz zz Gift of Life Faith Fire 176
 
 Level amp Discipline
 
@@ -4344,7 +3856,7 @@ Laws of the Night 160 zzz zz
 
 Renewed Vigor
 
-Laws of the Night Camarilla Guide 55 zzz zz zz
+Laws of the Night Camarilla Guide 55 zzz zz
 
 Safe Passage
 
@@ -4450,7 +3962,7 @@ Laws of the
 
 Night Camarilla
 
-Guide zzz zz zz
+Guide zzz zz
 
 Cache
 
@@ -4472,7 +3984,7 @@ Guide
 
 Phantom
 
-Ha unter
+Ha under
 
 clan book Malka vi an Revised
 
@@ -4511,8 +4023,6 @@ Night anarch
 Guide
 
 ## Obfuscate Presence zzz
-
-zzz
 
 True
 
@@ -4566,7 +4076,7 @@ The Darkness with in Shadow step
 
 Laws of the Night Sabbat Guide 120
 
-Laws of the Night Sabbat Guide 120 zzz zz zz
+Laws of the Night Sabbat Guide 120 zzz zz
 
 Shadow
 
@@ -4648,7 +4158,7 @@ Guide
 
 clan book Bru jah Revised
 
-Ed zzz zz zz
+Ed zzz zz
 
 Earthshock
 
@@ -4675,8 +4185,6 @@ Pulse of Un death
 clan book Bru jah Revised
 
 Ed Po ten ce Presence zzz
-
-zzz
 
 Iron Heart
 
@@ -4738,7 +4246,7 @@ clan book Followers of
 
 Set Revised
 
-Ed zzz zz zz
+Ed zzz zz
 
 Cooperation
 
@@ -4838,7 +4346,7 @@ Night Camarilla
 
 Guide
 
-clan book Gangrel Revised Ed 69 zzz zz zz
+clan book Gangrel Revised Ed 69 zzz zz
 
 Animal
 
@@ -4930,7 +4438,7 @@ Ed clan book Assam it e Revised
 
 Ed clan book Assam it e Revised
 
-Ed zzz zz zz
+Ed zzz zz
 
 Baal s Bloody Talons Poison the Well of Life
 
@@ -5004,7 +4512,7 @@ Cobra Fangs
 
 clan book Followers of Set Revised Ed 66
 
-## zzz zz zz
+## zzz zz
 
 Divine Image
 
@@ -5066,7 +4574,7 @@ Kiss of Lachesis
 
 Laws of the Night Storyteller Guide 37
 
-## zzz zz zz
+## zzz zz
 
 Halls of had es ' Court
 
@@ -5118,7 +4626,7 @@ Creeping Infection
 
 Laws of the Night Camarilla Guide 68
 
-## zzz zz zz
+## zzz zz
 
 Dust to Dust
 
@@ -5130,7 +4638,7 @@ Putrescent Servitude
 
 Laws of the Night Camarilla Guide 69
 
-## Th au matur gy Alchemy z
+## Th au mature gy Alchemy z
 
 Com mut a
 
@@ -5158,15 +4666,15 @@ Transmute
 
 Laws of the Night Storyteller Guide 48
 
-## Th au matur gy Bio th au matur gy z
+## Th au mature gy Bio th au mature gy z
 
-Th a uma turgi al for en sics
+Th a uma turgid al for en sics
 
 Laws of the Night Storyteller Guide 48
 
 ## zz
 
-Th a uma turgi al Surgery Laws of the Night Storyteller Guide 49
+Th a uma turgid al Surgery Laws of the Night Storyteller Guide 49
 
 ## zzz
 
@@ -5190,7 +4698,7 @@ Cognizant Construction
 
 Laws of the Night Storyteller Guide 50
 
-## Th au matur gy The Green Path z
+## Th au mature gy The Green Path z
 
 Herbal Wisdom
 
@@ -5224,7 +4732,7 @@ Title amp Page Number
 
 Level amp Discipline
 
-## Th au matur gy Elemental Mastery z
+## Th au mature gy Elemental Mastery z
 
 Elemental Strength
 
@@ -5248,7 +4756,7 @@ Summon Elemental
 
 Laws of the Night Camarilla Guide 78
 
-## Th au matur gy The Focused Mind z
+## Th au mature gy The Focused Mind z
 
 Readiness
 
@@ -5270,7 +4778,7 @@ Perfect Clarity
 
 Laws of the Night Storyteller Guide 51
 
-## Th au matur gy Hands of Destruction z
+## Th au mature gy Hands of Destruction z
 
 Decay
 
@@ -5292,7 +4800,7 @@ Turn to Dust
 
 Laws of the Night 184
 
-## Th au matur gy The Hearth Path z
+## Th au mature gy The Hearth Path z
 
 Guest's Herald
 
@@ -5316,7 +4824,7 @@ The Cauldron's Rede
 
 Laws of the Night Storyteller Guide 52
 
-## Th au matur gy The Lure of Flames z
+## Th au mature gy The Lure of Flames z
 
 Hand of Flame
 
@@ -5344,7 +4852,7 @@ Level amp Discipline
 
 Title amp Page Number
 
-## Th au matur gy Mastery of the Mortal Shell z
+## Th au mature gy Mastery of the Mortal Shell z
 
 Vertigo
 
@@ -5366,7 +4874,7 @@ Marionette
 
 Laws of the Night Storyteller Guide 54
 
-## Th au matur gy Movement of the Mind z for ce Bolt
+## Th au mature gy Movement of the Mind z for ce Bolt
 
 Laws of the Night 180 zz
 
@@ -5386,7 +4894,7 @@ Control
 
 Laws of the Night 181
 
-## Th au matur gy Neptune's Might z
+## Th au mature gy Neptune's Might z
 
 Eyes of the Sea
 
@@ -5410,7 +4918,7 @@ Dehydrate
 
 Laws of the Night Camarilla Guide 83
 
-## Th au matur gy One i roman cy z
+## Th au mature gy One i roman cy z
 
 Portents
 
@@ -5430,7 +4938,7 @@ Reveal the Heart's Dreams
 
 Laws of the Night Storyteller Guide 56
 
-## Th au matur gy The Path of Blood z
+## Th au mature gy The Path of Blood z
 
 A Taste for Blood
 
@@ -5456,7 +4964,7 @@ Level amp Discipline
 
 Title amp Page Number
 
-## Th au matur gy Path of the Blood's Curse z
+## Th au mature gy Path of the Blood's Curse z
 
 Ravages of the Beast
 
@@ -5476,7 +4984,7 @@ Laws of the Night Storyteller Guide 57 zzz zz
 
 The with e ring of Ages Laws of the Night Storyteller Guide 58
 
-## Th au matur gy The Path of Conjuring z
+## Th au mature gy The Path of Conjuring z
 
 Summon the Simple form
 
@@ -5498,7 +5006,7 @@ Power Over Life
 
 Laws of the Night 183
 
-## Th au matur gy The Path of Corruption z
+## Th au mature gy The Path of Corruption z
 
 Contradict
 
@@ -5524,7 +5032,7 @@ Dependence
 
 Laws of the Night Camarilla Guide 86
 
-## Th au matur gy The Path of Curses z
+## Th au mature gy The Path of Curses z
 
 Stigma
 
@@ -5550,7 +5058,7 @@ Fall from Grace x
 
 Laws of the Night Storyteller Guide 60
 
-## Th au matur gy The Path of the Father's Vengeance z
+## Th au mature gy The Path of the Father's Vengeance z
 
 Zillah's Litany
 
@@ -5578,7 +5086,7 @@ Level amp Discipline
 
 Title amp Page Number
 
-## Th au matur gy The Path of the Levin bolt z
+## Th au mature gy The Path of the Levin bolt z
 
 Spark
 
@@ -5602,7 +5110,7 @@ Eye of the Storm
 
 clan book Treme re Revised Ed 53
 
-## Th au matur gy The Path of Mars z
+## Th au mature gy The Path of Mars z
 
 War Cry
 
@@ -5628,7 +5136,7 @@ Comrades at Arms
 
 Laws of the Night Sabbat Guide 127
 
-## Th au matur gy The Path of Shadow crafting z
+## Th au mature gy The Path of Shadow crafting z
 
 Out Light
 
@@ -5650,7 +5158,7 @@ Abyssal Pact
 
 clan book Treme re Revised Ed 55
 
-## Th au matur gy The Path of Techno man cy z
+## Th au mature gy The Path of Techno man cy z
 
 Analyze
 
@@ -5676,7 +5184,7 @@ Telecommute
 
 Laws of the Night Camarilla Guide 88
 
-## Th au matur gy Path of Transmutation z for tif y the Solid for m Laws of the Night Storyteller Guide 60 zz
+## Th au mature gy Path of Transmutation z for tif y the Solid for m Laws of the Night Storyteller Guide 60 zz
 
 Crystalize the Liquid form
 
@@ -5700,9 +5208,9 @@ Level amp Discipline
 
 Title amp Page Number
 
-Th au matur gy Spirit Manipulation Th au matur gy Spirit Manipulation Hermetic Sight zz Laws of the Night Camarilla Guide 89 Astral can t zzz Laws of the Night Camarilla Guide 90 Voice of Command Laws of the Night Camarilla Guide 90 Entrap Ep hemera zzz zz Laws of the Night Camarilla Guide 90 Duality Laws of the Night Camarilla Guide 91
+Th au mature gy Spirit Manipulation Th au mature gy Spirit Manipulation Hermetic Sight zz Laws of the Night Camarilla Guide 89 Astral can t zzz Laws of the Night Camarilla Guide 90 Voice of Command Laws of the Night Camarilla Guide 90 Entrap Ep hemera zzz zz Laws of the Night Camarilla Guide 90 Duality Laws of the Night Camarilla Guide 91
 
-## Th au matur gy Vine of Dionysus z
+## Th au mature gy Vine of Dionysus z
 
 Me thy skein
 
@@ -5740,7 +5248,7 @@ Guide zzz zz
 
 O in os
 
-A i matos
+A i mates
 
 Laws of the
 
@@ -5748,11 +5256,11 @@ Night Storyteller
 
 Guide
 
-## Th au matur gy Weather Control z
+## Th au mature gy Weather Control z
 
 Fog zz Laws of the Night Camarilla Guide 93 Rain or Snow Laws of the Night Camarilla Guide 93 High Winds Laws of the Night Camarilla Guide 94 Storm Laws of the Night Camarilla Guide 94 Lightning Strike Laws of the Night Camarilla Guide 94
 
-## Th a uma turgi cal Rituals Basic
+## Th a uma turgid cal Rituals Basic
 
 Banish
 
@@ -6002,11 +5510,11 @@ Guide
 
 The Open Passage The Open Passage Laws of the Night 186 Principle Focus of Vitae Infusion Principle Focus of Vitae Infusion Laws of the Night 186 Purge the Inner Demon Laws of the Night Storyteller Guide 67 Laws of the Night Storyteller Guide 67 Rebirth of Mortal Vanity Laws of the Night Storyteller Guide 67 Laws of the Night Storyteller Guide 67 Re cure of the Homeland Laws of the Night Sabbat Guide 131 Laws of the Night Sabbat Guide 131 Rite of Introduction Laws of the Night Storyteller Guide 68 Laws of the Night Storyteller Guide 68 Sanguine o us Phial Laws of the Night Storyteller Guide 68 Laws of the Night Storyteller Guide 68 Scent of the Lupine's Passing Scent of the Lupine's Passing Laws of the Night 186 The Scribe Laws of the Night Storyteller Guide 68 Laws of the Night Storyteller Guide 68 Sense the Mystical Laws of the Night Storyteller Guide 68 Laws of the Night Storyteller Guide 68 Trim a Laws of the Night Storyteller Guide 69 Laws of the Night Storyteller Guide 69 Wake with the Evening's Freshness Wake with the Evening's Freshness Laws of the Night 186 Ward versus Ghoul Ward versus Ghoul Laws of the Night 186 Whispers of the Ghost Laws of the Night Storyteller Guide 69 Laws of the Night Storyteller Guide 69 Widow's Spite Laws of the Night Sabbat Guide 132 Laws of the Night Sabbat Guide 132
 
-## Th a uma turgi cal Rituals Intermediate
+## Th a uma turgid cal Rituals Intermediate
 
 Blood all e rgy Laws of the Night Storyteller Guide 69 Bone of Lies Laws of the Night 186 Cleansing of the Flesh Laws of the Night Storyteller Guide 69 Clinging of the Insect Laws of the Night Sabbat Guide 132 Craft Dream Catcher Laws of the Night Storyteller Guide 70 The Curse Belated Laws of the Night Storyteller Guide 70 Detect the Hidden Observer Laws of the Night anarch Guide 67 Fire walker Laws of the Night Sabbat Guide 132 Hell's Calling Laws of the Night anarch Guide 68 Incorporeal Passage Laws of the Night 186 In fim Inert Laws of the Night Storyteller Guide 70 Major Creation Laws of the Night Storyteller Guide 71 Mirror of Second Sight Laws of the Night Sabbat Guide 133 Pav is of Foul Presence Laws of the Night 187 Return of the Heart Laws of the Night Storyteller Guide 71 Rut or's Hands Laws of the Night 187 S cry Laws of the Night Storyteller Guide 71 Soul of the Hom unc uli Laws of the Night 187 Stolen Kisses Laws of the Night Storyteller Guide 71 Telecommunication Laws of the Night Storyteller Guide 72 A Touch of Nightshade Laws of the Night Storyteller Guide 72 Track Transgressor Laws of the Night Storyteller Guide 72 Ward versus Fa e Laws of the Night Storyteller Guide 73 Ward versus Vitae Laws of the Night anarch Guide 68
 
-## Th a uma turgi cal Rituals Advanced
+## Th a uma turgid cal Rituals Advanced
 
 Blood
 
@@ -6098,7 +5606,7 @@ Laws of the
 
 Night
 
-## Th a uma turgi cal Rituals Master
+## Th a uma turgid cal Rituals Master
 
 Refined
 
@@ -6110,7 +5618,7 @@ Night Storyteller
 
 Guide
 
-## Th a uma turgi cal Rituals Ascendent
+## Th a uma turgid cal Rituals Ascendent
 
 Eyes of the Ever Vigilant Laws of the Night Storyteller Guide 75
 
@@ -6296,7 +5804,7 @@ Agony
 
 clan book Tzi misc e Revised
 
-Ed zzz zz zz
+Ed zzz zz
 
 Cocoon
 
@@ -6330,8 +5838,6 @@ Guide
 
 zz
 
-zz
-
 Soul
 
 Decoration
@@ -6360,29 +5866,17 @@ clan book Tzi misc e Laws of the
 
 Night Laws
 
-Laws
-
-Laws
-
 Mountain
 
-Laws of the Night Camarilla Guide 72 of of of the the the
+Laws of the Night Camarilla Guide 72 of the
 
 Revised
 
 Camarilla
 
-Night Night Night Ed Guide
+Night Ed Guide
 
 Camarilla
-
-Camarilla
-
-Camarilla
-
-Guide
-
-Guide
 
 Guide the
 
