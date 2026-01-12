@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.42
+## Current Version: 0.9.43
+
+**Date:** 2026-01-30  
+**Type:** Patch (Git sync: reference book formatting updates and OCR tools)
+
+## Previous Version: 0.9.42
 
 **Date:** 2026-01-30  
 **Type:** Patch (Git sync: OCR tools improvements and reference book updates)
