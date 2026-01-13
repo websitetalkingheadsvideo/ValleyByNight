@@ -150,18 +150,20 @@ try {
             utility_hidden_caches, utility_armory, utility_communications, utility_notes,
             social_features, capacity, prestige_level, has_supernatural, node_points, node_type,
             ritual_space, magical_protection, cursed_blessed, parent_location_id, relationship_type,
-            relationship_notes, image, pc_haven, created_at, updated_at
+            relationship_notes, image, blueprint, moodboard, pc_haven, created_at, updated_at
         ) VALUES (
             ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?,
-            ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, NOW(), NOW()
+            ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, NOW(), NOW()
         )";
         
         $stmt = mysqli_prepare($conn, $query);
         if (!$stmt) {
-            throw new Exception('Failed to prepare statement: ' . mysqli_error($conn));
+            $dbError = mysqli_error($conn);
+            error_log('Location CRUD API - Prepare failed: ' . $dbError . ' Query: ' . substr($query, 0, 200));
+            throw new Exception('Failed to prepare statement: ' . $dbError);
         }
         
-        if (!mysqli_stmt_bind_param($stmt, 'ssssssssssddsssssiiiiiiiiisiiiiiiiiisiiissssiisssi',
+        if (!mysqli_stmt_bind_param($stmt, 'ssssssssssddsssssiiiiiiiiisiiiiiiiiisiiissssiissssi',
             $name, $type, $summary, $description, $notes, $status, $status_notes, $district, $address, $latitude, $longitude,
             $owner_type, $owner_notes, $faction, $access_control, $access_notes, $security_level,
             $security_locks, $security_alarms, $security_guards, $security_hidden_entrance, $security_sunlight_protected,
@@ -170,7 +172,7 @@ try {
             $utility_hidden_caches, $utility_armory, $utility_communications, $utility_notes,
             $social_features, $capacity, $prestige_level, $has_supernatural, $node_points, $node_type,
             $ritual_space, $magical_protection, $cursed_blessed, $parent_location_id, $relationship_type,
-            $relationship_notes, $image, $pc_haven
+            $relationship_notes, $image, $blueprint, $moodboard, $pc_haven
         )) {
             $error = mysqli_stmt_error($stmt) ?: mysqli_error($conn);
             mysqli_stmt_close($stmt);
@@ -187,6 +189,7 @@ try {
             ]);
         } else {
             $error = mysqli_stmt_error($stmt);
+            error_log('Location CRUD API - Execute failed (POST): ' . $error);
             mysqli_stmt_close($stmt);
             throw new Exception('Failed to create location: ' . $error);
         }
@@ -246,6 +249,8 @@ try {
         $relationship_type = cleanString($input['relationship_type'] ?? '');
         $relationship_notes = cleanString($input['relationship_notes'] ?? '');
         $image = cleanString($input['image'] ?? '');
+        $blueprint = cleanString($input['blueprint'] ?? '');
+        $moodboard = cleanString($input['moodboard'] ?? '');
         $pc_haven = cleanBool($input['pc_haven'] ?? 0);
         
         // Only set pc_haven if type is Haven
@@ -264,16 +269,18 @@ try {
             utility_workshop = ?, utility_hidden_caches = ?, utility_armory = ?, utility_communications = ?,
             utility_notes = ?, social_features = ?, capacity = ?, prestige_level = ?, has_supernatural = ?,
             node_points = ?, node_type = ?, ritual_space = ?, magical_protection = ?, cursed_blessed = ?,
-            parent_location_id = ?, relationship_type = ?, relationship_notes = ?, image = ?, pc_haven = ?,
+            parent_location_id = ?, relationship_type = ?, relationship_notes = ?, image = ?, blueprint = ?, moodboard = ?, pc_haven = ?,
             updated_at = NOW()
             WHERE id = ?";
         
         $stmt = mysqli_prepare($conn, $query);
         if (!$stmt) {
-            throw new Exception('Failed to prepare statement: ' . mysqli_error($conn));
+            $dbError = mysqli_error($conn);
+            error_log('Location CRUD API - Prepare failed: ' . $dbError . ' Query: ' . substr($query, 0, 200));
+            throw new Exception('Failed to prepare statement: ' . $dbError);
         }
         
-        if (!mysqli_stmt_bind_param($stmt, 'ssssssssssddsssssiiiiiiiiisiiiiiiiiisiiissssiisssii',
+        if (!mysqli_stmt_bind_param($stmt, 'ssssssssssddsssssiiiiiiiiisiiiiiiiiisiiissssiissssii',
             $name, $type, $summary, $description, $notes, $status, $status_notes, $district, $address, $latitude, $longitude,
             $owner_type, $owner_notes, $faction, $access_control, $access_notes, $security_level,
             $security_locks, $security_alarms, $security_guards, $security_hidden_entrance, $security_sunlight_protected,
@@ -282,7 +289,7 @@ try {
             $utility_hidden_caches, $utility_armory, $utility_communications, $utility_notes,
             $social_features, $capacity, $prestige_level, $has_supernatural, $node_points, $node_type,
             $ritual_space, $magical_protection, $cursed_blessed, $parent_location_id, $relationship_type,
-            $relationship_notes, $image, $pc_haven, $id
+            $relationship_notes, $image, $blueprint, $moodboard, $pc_haven, $id
         )) {
             $error = mysqli_stmt_error($stmt) ?: mysqli_error($conn);
             mysqli_stmt_close($stmt);
@@ -297,6 +304,7 @@ try {
             ]);
         } else {
             $error = mysqli_stmt_error($stmt);
+            error_log('Location CRUD API - Execute failed (PUT): ' . $error);
             mysqli_stmt_close($stmt);
             throw new Exception('Failed to update location: ' . $error);
         }
@@ -311,7 +319,9 @@ try {
         $query = "DELETE FROM locations WHERE id = ?";
         $stmt = mysqli_prepare($conn, $query);
         if (!$stmt) {
-            throw new Exception('Failed to prepare statement: ' . mysqli_error($conn));
+            $dbError = mysqli_error($conn);
+            error_log('Location CRUD API - Prepare failed: ' . $dbError . ' Query: ' . substr($query, 0, 200));
+            throw new Exception('Failed to prepare statement: ' . $dbError);
         }
         
         if (!mysqli_stmt_bind_param($stmt, 'i', $id)) {

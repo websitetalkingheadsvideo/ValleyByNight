@@ -281,3 +281,43 @@ code, kbd, pre, samp,
     color: #b8a090;
 }
 
+
+/* ======================================== 
+   NAV TABS THEMING (Bootstrap .nav-tabs)
+   Match gothic theme with blood-red instead of blue
+   All tabs have visible borders to look like tabs
+   ======================================== */
+.nav-tabs {
+    border-bottom: 2px solid rgba(139, 0, 0, 0.4);
+}
+
+.nav-tabs .nav-link {
+    color: #b8a090;
+    border: 2px solid rgba(139, 0, 0, 0.3);
+    border-bottom: none;
+    border-radius: 0.75rem 0.75rem 0 0;
+    font-family: var(--font-title), 'Libre Baskerville', serif;
+    font-weight: 600;
+    padding: 0.75rem 1.25rem;
+    transition: all 0.3s ease;
+    background: rgba(26, 15, 15, 0.4);
+    margin-bottom: -2px;
+}
+
+.nav-tabs .nav-link:hover {
+    color: var(--text-light);
+    border-color: rgba(139, 0, 0, 0.5);
+    background: rgba(139, 0, 0, 0.15);
+}
+
+.nav-tabs .nav-link.active {
+    color: var(--text-light);
+    background: linear-gradient(135deg, rgba(139, 0, 0, 0.3) 0%, rgba(26, 15, 15, 0.6) 100%);
+    border-color: var(--blood-red);
+    border-bottom-color: transparent;
+}
+
+.nav-tabs .nav-link.active:hover {
+    background: linear-gradient(135deg, rgba(139, 0, 0, 0.4) 0%, rgba(26, 15, 15, 0.7) 100%);
+    border-color: #b30000;
+}

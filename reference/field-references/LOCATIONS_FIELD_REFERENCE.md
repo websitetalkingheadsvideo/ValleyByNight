@@ -108,6 +108,8 @@ Complete field reference for the VbN Locations system.
 | Field | Type | Description |
 |-------|------|-------------|
 | `image` | VARCHAR(255) | Location image URL |
+| `blueprint` | VARCHAR(255) | Path/URL to blueprint image (e.g., reference/Locations/PC Havens/Anarch/The Freehold-Blueprint.png) |
+| `moodboard` | VARCHAR(255) | Path/URL to moodboard image (e.g., reference/Locations/PC Havens/Anarch/The Freehold-Mood Board.png) |
 
 ### **Meta Fields:**
 
@@ -184,6 +186,8 @@ Links items to locations (many-to-many).
 - Cursed/Blessed
 - Relationship Notes
 - Image URL
+- Blueprint URL/Path
+- Moodboard URL/Path
 
 ### **Number Fields:**
 - Latitude
