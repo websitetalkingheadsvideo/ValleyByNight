@@ -1,0 +1,88 @@
+{
+    "name": "Montecito House",
+    "type": "Haven",
+    "status": "Active",
+    "status_notes": "Coterie-controlled shared haven; planned security upgrades scheduled.",
+    "district": "Southern Scottsdale",
+    "address": "8335 E Montecito, Scottsdale, Arizona",
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "ownership_control": {
+      "owner_type": "Coterie",
+      "owner_notes": "Shared ownership and use by multiple unrelated adults; no single public-facing owner."
+    },
+    "faction": "Camarilla",
+    "access_control": {
+      "access_type": "Private",
+      "access_notes": "Knock on the door; access granted only to known associates."
+    },
+    "description_notes": {
+      "summary": "Heavily remodeled middle-class Scottsdale home used as a coterie haven.",
+      "description": "From the street, the house appears unremarkable and comfortably middle class. Inside, it is clearly lived in, with mismatched but practical furnishings and signs of regular use. An early remodel effectively added a second house onto the original structure, creating a layout with long hallways, odd angles, and rooms that feel slightly misaligned. Visitors unfamiliar with the space sometimes believe they took a wrong turn, but nothing feels supernatural or hostile—just confusing. A later remodel enclosed the carport into a sound-insulated interior room now used as the primary meeting and hangout space for the coterie. The backyard is private and enclosed, featuring a hot tub added during the most recent renovation. Overall, the haven’s greatest strength is plausibility and subtle disorientation rather than overt defenses.",
+      "notes": "People have legitimately gotten lost inside the house; this is considered an advantage."
+    },
+    "security": {
+      "security_level": 2,
+      "features": {
+        "security_locks": true,
+        "security_alarms": true,
+        "security_guards": false,
+        "hidden_entrance": false,
+        "sunlight_protected": false,
+        "warding_rituals": false,
+        "security_cameras": false,
+        "reinforced": false
+      },
+      "security_notes": "Security is intentionally mundane to avoid attention. Upgrades planned as resources allow.",
+      "planned_upgrades": [
+        {
+          "day": 7,
+          "upgrade": "Exterior security cameras added"
+        },
+        {
+          "day": 14,
+          "upgrade": "Motion sensors installed covering backyard and roof"
+        }
+      ]
+    },
+    "utilities_facilities": {
+      "available_utilities": {
+        "blood_storage": true,
+        "computers": true,
+        "library": true,
+        "medical": false,
+        "workshop": true,
+        "hidden_caches": false,
+        "armory": false,
+        "communications": false
+      },
+      "utility_notes": "Facilities reflect shared coterie use rather than military or occult specialization."
+    },
+    "social_capacity": {
+      "social_features": "Informal meeting space suitable for coterie gatherings.",
+      "capacity": 20,
+      "prestige_level": 0,
+      "has_supernatural_elements": false
+    },
+    "node_information": {
+      "node_points": 0,
+      "node_type": "Not set"
+    },
+    "supernatural_features": {
+      "ritual_space": "Not set",
+      "magical_protection": "Not set",
+      "cursed_blessed": "Not set"
+    },
+    "relationships": {
+      "parent_location_id": null,
+      "relationship_type": null,
+      "relationship_notes": "Standalone haven."
+    },
+    "media": {
+      "image": null
+    },
+    "pc_haven": {
+      "pc_earnable_haven": true
+    }
+  }
+  
