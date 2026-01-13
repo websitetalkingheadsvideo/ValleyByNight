@@ -447,6 +447,8 @@ function generateLocationFormHtml(location = null) {
     const locationMagicalProtection = getFieldValue(location, 'magical_protection', '');
     const locationCursedBlessed = getFieldValue(location, 'cursed_blessed', '');
     const locationImage = getFieldValue(location, 'image', '');
+    const locationBlueprint = getFieldValue(location, 'blueprint', '');
+    const locationMoodboard = getFieldValue(location, 'moodboard', '');
     
     // Security checkboxes
     const securityLocks = getCheckboxValue(location, 'security_locks');
@@ -498,6 +500,12 @@ function generateLocationFormHtml(location = null) {
                 </li>
                 <li class="nav-item" role="presentation">
                     <button class="nav-link" id="social-tab" data-bs-toggle="tab" data-bs-target="#social" type="button" role="tab">Social</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="blueprint-tab" data-bs-toggle="tab" data-bs-target="#blueprint" type="button" role="tab">Blueprint</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="moodboard-tab" data-bs-toggle="tab" data-bs-target="#moodboard" type="button" role="tab">Moodboard</button>
                 </li>
             </ul>
             
@@ -852,6 +860,58 @@ function generateLocationFormHtml(location = null) {
                         </div>
                     </div>
                 </div>
+                
+                <!-- Blueprint Tab -->
+                <div class="tab-pane fade" id="blueprint" role="tabpanel">
+                    <div class="form-group mb-3">
+                        <label for="locationBlueprint" class="form-label">Blueprint URL/Path</label>
+                        <div class="input-group">
+                            <input type="text" id="locationBlueprint" name="blueprint" class="form-control" value="${locationBlueprint}" placeholder="reference/Locations/...">
+                            <button type="button" class="btn btn-outline-secondary" onclick="openFileBrowser('locationBlueprint')">Browse Files</button>
+                        </div>
+                        <div class="mt-2">Select a file from reference/Locations or enter the path manually.</div>
+                    </div>
+                    <div id="fileBrowserBlueprint" class="file-browser-container" style="display: none;">
+                        <div class="card bg-dark border-danger">
+                            <div class="card-header d-flex justify-content-between align-items-center">
+                                <span>Browse Files: reference/Locations</span>
+                                <button type="button" class="btn btn-sm btn-secondary" onclick="closeFileBrowser('blueprint')">Close</button>
+                            </div>
+                            <div class="card-body" style="max-height: 400px; overflow-y: auto;">
+                                <div id="fileBrowserBlueprintContent">
+                                    <div class="text-center">Loading...</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    ${locationBlueprint ? `<div class="mt-3"><img src="${escapeHtml(locationBlueprint)}" alt="Location blueprint" class="img-fluid" style="max-height: 400px; width: 100%; object-fit: contain;" onerror="this.style.display='none'"></div>` : ''}
+                </div>
+                
+                <!-- Moodboard Tab -->
+                <div class="tab-pane fade" id="moodboard" role="tabpanel">
+                    <div class="form-group mb-3">
+                        <label for="locationMoodboard" class="form-label">Moodboard URL/Path</label>
+                        <div class="input-group">
+                            <input type="text" id="locationMoodboard" name="moodboard" class="form-control" value="${locationMoodboard}" placeholder="reference/Locations/...">
+                            <button type="button" class="btn btn-outline-secondary" onclick="openFileBrowser('locationMoodboard')">Browse Files</button>
+                        </div>
+                        <div class="mt-2">Select a file from reference/Locations or enter the path manually.</div>
+                    </div>
+                    <div id="fileBrowserMoodboard" class="file-browser-container" style="display: none;">
+                        <div class="card bg-dark border-danger">
+                            <div class="card-header d-flex justify-content-between align-items-center">
+                                <span>Browse Files: reference/Locations</span>
+                                <button type="button" class="btn btn-sm btn-secondary" onclick="closeFileBrowser('moodboard')">Close</button>
+                            </div>
+                            <div class="card-body" style="max-height: 400px; overflow-y: auto;">
+                                <div id="fileBrowserMoodboardContent">
+                                    <div class="text-center">Loading...</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    ${locationMoodboard ? `<div class="mt-3"><img src="${escapeHtml(locationMoodboard)}" alt="Location moodboard" class="img-fluid" style="max-height: 400px; width: 100%; object-fit: contain;" onerror="this.style.display='none'"></div>` : ''}
+                </div>
             </div>
         </form>
     `;
@@ -902,6 +962,44 @@ function openAddLocationModal() {
     }
     
     const modalInstance = new bootstrap.Modal(modalElement);
+    
+    // Attach fullscreen button handler - use event delegation on modal element
+    const attachFullscreenHandler = function() {
+        const fullscreenBtn = modalElement.querySelector('.modal-fullscreen-btn');
+        if (!fullscreenBtn) return;
+        
+        if (fullscreenBtn.dataset.listenerAttached === 'true') return;
+        
+        const fullscreenIcon = fullscreenBtn.querySelector('.modal-fullscreen-icon');
+        fullscreenBtn.addEventListener('click', function(e) {
+            e.preventDefault();
+            e.stopPropagation();
+            const isFullscreen = modalElement.classList.contains('fullscreen');
+            if (isFullscreen) {
+                modalElement.classList.remove('fullscreen');
+                if (fullscreenIcon) {
+                    fullscreenIcon.className = 'fas fa-expand modal-fullscreen-icon';
+                }
+                fullscreenBtn.setAttribute('title', 'Toggle Fullscreen');
+                fullscreenBtn.setAttribute('aria-label', 'Toggle Fullscreen');
+            } else {
+                modalElement.classList.add('fullscreen');
+                if (fullscreenIcon) {
+                    fullscreenIcon.className = 'fas fa-compress modal-fullscreen-icon';
+                }
+                fullscreenBtn.setAttribute('title', 'Exit Fullscreen');
+                fullscreenBtn.setAttribute('aria-label', 'Exit Fullscreen');
+            }
+        });
+        fullscreenBtn.dataset.listenerAttached = 'true';
+    };
+    
+    // Attach handler when modal is shown
+    modalElement.addEventListener('shown.bs.modal', attachFullscreenHandler, { once: false });
+    
+    // Also try to attach immediately (in case modal is already in DOM)
+    attachFullscreenHandler();
+    
     modalInstance.show();
 }
 
@@ -952,6 +1050,44 @@ function editLocation(id) {
     }
     
     const modalInstance = new bootstrap.Modal(modalElement);
+    
+    // Attach fullscreen button handler - use event delegation on modal element
+    const attachFullscreenHandler = function() {
+        const fullscreenBtn = modalElement.querySelector('.modal-fullscreen-btn');
+        if (!fullscreenBtn) return;
+        
+        if (fullscreenBtn.dataset.listenerAttached === 'true') return;
+        
+        const fullscreenIcon = fullscreenBtn.querySelector('.modal-fullscreen-icon');
+        fullscreenBtn.addEventListener('click', function(e) {
+            e.preventDefault();
+            e.stopPropagation();
+            const isFullscreen = modalElement.classList.contains('fullscreen');
+            if (isFullscreen) {
+                modalElement.classList.remove('fullscreen');
+                if (fullscreenIcon) {
+                    fullscreenIcon.className = 'fas fa-expand modal-fullscreen-icon';
+                }
+                fullscreenBtn.setAttribute('title', 'Toggle Fullscreen');
+                fullscreenBtn.setAttribute('aria-label', 'Toggle Fullscreen');
+            } else {
+                modalElement.classList.add('fullscreen');
+                if (fullscreenIcon) {
+                    fullscreenIcon.className = 'fas fa-compress modal-fullscreen-icon';
+                }
+                fullscreenBtn.setAttribute('title', 'Exit Fullscreen');
+                fullscreenBtn.setAttribute('aria-label', 'Exit Fullscreen');
+            }
+        });
+        fullscreenBtn.dataset.listenerAttached = 'true';
+    };
+    
+    // Attach handler when modal is shown
+    modalElement.addEventListener('shown.bs.modal', attachFullscreenHandler, { once: false });
+    
+    // Also try to attach immediately (in case modal is already in DOM)
+    attachFullscreenHandler();
+    
     modalInstance.show();
 }
 
@@ -991,6 +1127,44 @@ async function viewLocation(id) {
     modalFooter.innerHTML = '<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>';
     
     const modalInstance = new bootstrap.Modal(modalElement);
+    
+    // Attach fullscreen button handler - use event delegation on modal element
+    const attachFullscreenHandler = function() {
+        const fullscreenBtn = modalElement.querySelector('.modal-fullscreen-btn');
+        if (!fullscreenBtn) return;
+        
+        if (fullscreenBtn.dataset.listenerAttached === 'true') return;
+        
+        const fullscreenIcon = fullscreenBtn.querySelector('.modal-fullscreen-icon');
+        fullscreenBtn.addEventListener('click', function(e) {
+            e.preventDefault();
+            e.stopPropagation();
+            const isFullscreen = modalElement.classList.contains('fullscreen');
+            if (isFullscreen) {
+                modalElement.classList.remove('fullscreen');
+                if (fullscreenIcon) {
+                    fullscreenIcon.className = 'fas fa-expand modal-fullscreen-icon';
+                }
+                fullscreenBtn.setAttribute('title', 'Toggle Fullscreen');
+                fullscreenBtn.setAttribute('aria-label', 'Toggle Fullscreen');
+            } else {
+                modalElement.classList.add('fullscreen');
+                if (fullscreenIcon) {
+                    fullscreenIcon.className = 'fas fa-compress modal-fullscreen-icon';
+                }
+                fullscreenBtn.setAttribute('title', 'Exit Fullscreen');
+                fullscreenBtn.setAttribute('aria-label', 'Exit Fullscreen');
+            }
+        });
+        fullscreenBtn.dataset.listenerAttached = 'true';
+    };
+    
+    // Attach handler when modal is shown
+    modalElement.addEventListener('shown.bs.modal', attachFullscreenHandler, { once: false });
+    
+    // Also try to attach immediately (in case modal is already in DOM)
+    attachFullscreenHandler();
+    
     modalInstance.show();
     
     try {
@@ -1055,7 +1229,7 @@ async function viewLocation(id) {
         function displayField(label, value, format = 'text') {
             let displayValue = '';
             if (value === null || value === undefined || value === '') {
-                displayValue = '<em class="text-muted">Not set</em>';
+                displayValue = '<em class="text-light">Not set</em>';
             } else {
                 if (format === 'badge') {
                     return `<p><strong>${label}:</strong> <span class="badge-${String(value).toLowerCase().replace(/\s+/g, '-')}">${escapeHtml(value)}</span></p>`;
@@ -1074,7 +1248,7 @@ async function viewLocation(id) {
         // Helper to display textarea field - always shows
         function displayTextarea(label, value) {
             const displayValue = (value === null || value === undefined || value === '') 
-                ? '<em class="text-muted">Not set</em>' 
+                ? '<em class="text-light">Not set</em>' 
                 : escapeHtml(value);
             return `<p><strong>${label}:</strong></p><p>${displayValue}</p>`;
         }
@@ -1107,109 +1281,181 @@ async function viewLocation(id) {
             { field: 'utility_communications', label: 'Communications', checked: location.utility_communications == 1 }
         ].filter(item => item.checked);
         
+        // Helper to display image with link
+        function displayImage(label, imagePath) {
+            if (!imagePath) {
+                return `<p><strong>${label}:</strong> <em class="text-light">Not set</em></p>`;
+            }
+            
+            // Convert relative paths to web-accessible URLs and properly encode
+            let imageUrl = imagePath;
+            if (imagePath.startsWith('reference/')) {
+                imageUrl = '../' + imagePath;
+            }
+            
+            // URL encode the path (spaces become %20, etc.)
+            // Split by /, encode each part, then rejoin
+            const urlParts = imageUrl.split('/').map(part => encodeURIComponent(part));
+            const encodedUrl = urlParts.join('/');
+            
+            const containerId = 'img-' + label.toLowerCase().replace(/\s+/g, '-') + '-' + Math.random().toString(36).substr(2, 9);
+            const errorPath = escapeHtml(imagePath);
+            
+            return `
+                <div class="mb-3">
+                    <p><strong>${label}:</strong></p>
+                    <div class="mt-3 text-center" id="${containerId}">
+                        <img src="${encodedUrl}" alt="${escapeHtml(label)}" class="img-fluid" style="max-height: 600px; width: 100%; object-fit: contain; border: 2px solid rgba(139, 0, 0, 0.4); border-radius: 8px; background: rgba(26, 15, 15, 0.3);" onerror="this.onerror=null; const c=document.getElementById('${containerId}'); if(c) c.innerHTML='<div class=\\'p-3\\' style=\\'border: 2px solid rgba(139, 0, 0, 0.4); border-radius: 8px; background: rgba(139, 0, 0, 0.1);\\'><p class=\\'text-light\\'>Failed to load image</p><p class=\\'text-light\\'>${errorPath}</p></div>'">
+                    </div>
+                    <div class="mt-2 text-center">
+                        <div class="text-light"><a href="${encodedUrl}" target="_blank" class="text-primary">Open image in new tab</a> | ${escapeHtml(imagePath)}</div>
+                    </div>
+                </div>
+            `;
+        }
+        
         const content = `
             ${assignmentsHtml}
             
-            <div class="view-section">
-                <h3>Basic Information</h3>
-                ${displayField('Name', location.name)}
-                ${displayField('Type', location.type, 'badge')}
-                ${displayField('Status', location.status, 'badge')}
-                ${displayField('Status Notes', location.status_notes)}
-                ${displayField('District', location.district)}
-                ${displayField('Address', location.address)}
-                ${displayField('Latitude', location.latitude, 'number')}
-                ${displayField('Longitude', location.longitude, 'number')}
+            <ul class="nav nav-tabs mb-3" id="viewLocationTabs" role="tablist">
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link active" id="view-basic-tab" data-bs-toggle="tab" data-bs-target="#view-basic" type="button" role="tab">Basic</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="view-ownership-tab" data-bs-toggle="tab" data-bs-target="#view-ownership" type="button" role="tab">Ownership</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="view-description-tab" data-bs-toggle="tab" data-bs-target="#view-description" type="button" role="tab">Description</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="view-security-tab" data-bs-toggle="tab" data-bs-target="#view-security" type="button" role="tab">Security</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="view-facilities-tab" data-bs-toggle="tab" data-bs-target="#view-facilities" type="button" role="tab">Facilities</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="view-relationships-tab" data-bs-toggle="tab" data-bs-target="#view-relationships" type="button" role="tab">Relationships</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="view-supernatural-tab" data-bs-toggle="tab" data-bs-target="#view-supernatural" type="button" role="tab">Supernatural</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="view-social-tab" data-bs-toggle="tab" data-bs-target="#view-social" type="button" role="tab">Social</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="view-blueprint-tab" data-bs-toggle="tab" data-bs-target="#view-blueprint" type="button" role="tab">Blueprint</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="view-moodboard-tab" data-bs-toggle="tab" data-bs-target="#view-moodboard" type="button" role="tab">Moodboard</button>
+                </li>
+            </ul>
+            
+            <div class="tab-content" id="viewLocationTabContent">
+                <!-- Basic Information Tab -->
+                <div class="tab-pane fade show active" id="view-basic" role="tabpanel">
+                    <div class="view-section">
+                        ${displayField('Name', location.name)}
+                        ${displayField('Type', location.type, 'badge')}
+                        ${displayField('Status', location.status, 'badge')}
+                        ${displayField('Status Notes', location.status_notes)}
+                        ${displayField('District', location.district)}
+                        ${displayField('Address', location.address)}
+                        ${displayField('Latitude', location.latitude, 'number')}
+                        ${displayField('Longitude', location.longitude, 'number')}
+                        ${displayField('PC Earnable Haven', location.pc_haven, 'boolean')}
+                        ${displayImage('Image', location.image)}
+                    </div>
+                </div>
+                
+                <!-- Ownership Tab -->
+                <div class="tab-pane fade" id="view-ownership" role="tabpanel">
+                    <div class="view-section">
+                        ${displayField('Owner Type', location.owner_type)}
+                        ${displayTextarea('Owner Notes', location.owner_notes)}
+                        ${displayField('Faction', location.faction)}
+                        ${displayField('Access Control', location.access_control)}
+                        ${displayTextarea('Access Notes', location.access_notes)}
+                    </div>
+                </div>
+                
+                <!-- Description Tab -->
+                <div class="tab-pane fade" id="view-description" role="tabpanel">
+                    <div class="view-section">
+                        ${displayTextarea('Summary', location.summary)}
+                        ${displayTextarea('Description', location.description)}
+                        ${displayTextarea('Notes', location.notes)}
+                    </div>
+                </div>
+                
+                <!-- Security Tab -->
+                <div class="tab-pane fade" id="view-security" role="tabpanel">
+                    <div class="view-section">
+                        ${displayField('Security Level', location.security_level, 'number')}
+                        <p><strong>Security Features:</strong></p>
+                        <ul>
+                            ${securityFeatures.length > 0 ? securityFeatures.map(f => `<li>${escapeHtml(f.label)}</li>`).join('') : '<li><em class="text-light">None</em></li>'}
+                        </ul>
+                        ${displayTextarea('Security Notes', location.security_notes)}
+                    </div>
+                </div>
+                
+                <!-- Facilities Tab -->
+                <div class="tab-pane fade" id="view-facilities" role="tabpanel">
+                    <div class="view-section">
+                        <p><strong>Available Utilities:</strong></p>
+                        <ul>
+                            ${utilities.length > 0 ? utilities.map(u => `<li>${escapeHtml(u.label)}</li>`).join('') : '<li><em class="text-light">None</em></li>'}
+                        </ul>
+                        ${displayTextarea('Utility Notes', location.utility_notes)}
+                    </div>
+                </div>
+                
+                <!-- Relationships Tab -->
+                <div class="tab-pane fade" id="view-relationships" role="tabpanel">
+                    <div class="view-section">
+                        ${displayField('Parent Location ID', location.parent_location_id, 'number')}
+                        ${displayField('Relationship Type', location.relationship_type)}
+                        ${displayTextarea('Relationship Notes', location.relationship_notes)}
+                    </div>
+                </div>
+                
+                <!-- Supernatural Tab -->
+                <div class="tab-pane fade" id="view-supernatural" role="tabpanel">
+                    <div class="view-section">
+                        ${displayField('Has Supernatural Elements', location.has_supernatural, 'boolean')}
+                        ${displayField('Node Points', location.node_points, 'number')}
+                        ${displayField('Node Type', location.node_type)}
+                        ${displayTextarea('Ritual Space', location.ritual_space)}
+                        ${displayTextarea('Magical Protection', location.magical_protection)}
+                        ${displayTextarea('Cursed/Blessed', location.cursed_blessed)}
+                    </div>
+                </div>
+                
+                <!-- Social Tab -->
+                <div class="tab-pane fade" id="view-social" role="tabpanel">
+                    <div class="view-section">
+                        ${displayTextarea('Social Features', location.social_features)}
+                        ${displayField('Capacity', location.capacity, 'number')}
+                        ${displayField('Prestige Level', location.prestige_level, 'number')}
+                    </div>
+                </div>
+                
+                <!-- Blueprint Tab -->
+                <div class="tab-pane fade" id="view-blueprint" role="tabpanel">
+                    <div class="view-section">
+                        ${displayImage('Blueprint', location.blueprint)}
+                    </div>
+                </div>
+                
+                <!-- Moodboard Tab -->
+                <div class="tab-pane fade" id="view-moodboard" role="tabpanel">
+                    <div class="view-section">
+                        ${displayImage('Moodboard', location.moodboard)}
+                    </div>
+                </div>
             </div>
             
-            <div class="view-section">
-                <h3>Ownership & Control</h3>
-                ${displayField('Owner Type', location.owner_type)}
-                ${displayTextarea('Owner Notes', location.owner_notes)}
-                ${displayField('Faction', location.faction)}
-                ${displayField('Access Control', location.access_control)}
-                ${displayTextarea('Access Notes', location.access_notes)}
-            </div>
-            
-            <div class="view-section">
-                <h3>Description & Notes</h3>
-                ${displayTextarea('Summary', location.summary)}
-                ${displayTextarea('Description', location.description)}
-                ${displayTextarea('Notes', location.notes)}
-            </div>
-            
-            <div class="view-section">
-                <h3>Security</h3>
-                ${displayField('Security Level', location.security_level, 'number')}
-                <p><strong>Security Features:</strong></p>
-                <ul>
-                    <li>${displayField('Security Locks', location.security_locks, 'boolean').replace('<p>', '').replace('</p>', '')}</li>
-                    <li>${displayField('Security Alarms', location.security_alarms, 'boolean').replace('<p>', '').replace('</p>', '')}</li>
-                    <li>${displayField('Security Guards', location.security_guards, 'boolean').replace('<p>', '').replace('</p>', '')}</li>
-                    <li>${displayField('Hidden Entrance', location.security_hidden_entrance, 'boolean').replace('<p>', '').replace('</p>', '')}</li>
-                    <li>${displayField('Sunlight Protected', location.security_sunlight_protected, 'boolean').replace('<p>', '').replace('</p>', '')}</li>
-                    <li>${displayField('Warding Rituals', location.security_warding_rituals, 'boolean').replace('<p>', '').replace('</p>', '')}</li>
-                    <li>${displayField('Security Cameras', location.security_cameras, 'boolean').replace('<p>', '').replace('</p>', '')}</li>
-                    <li>${displayField('Reinforced', location.security_reinforced, 'boolean').replace('<p>', '').replace('</p>', '')}</li>
-                </ul>
-                ${displayTextarea('Security Notes', location.security_notes)}
-            </div>
-            
-            <div class="view-section">
-                <h3>Utilities & Facilities</h3>
-                <p><strong>Available Utilities:</strong></p>
-                <ul>
-                    <li>${displayField('Blood Storage', location.utility_blood_storage, 'boolean').replace('<p>', '').replace('</p>', '')}</li>
-                    <li>${displayField('Computers', location.utility_computers, 'boolean').replace('<p>', '').replace('</p>', '')}</li>
-                    <li>${displayField('Library', location.utility_library, 'boolean').replace('<p>', '').replace('</p>', '')}</li>
-                    <li>${displayField('Medical', location.utility_medical, 'boolean').replace('<p>', '').replace('</p>', '')}</li>
-                    <li>${displayField('Workshop', location.utility_workshop, 'boolean').replace('<p>', '').replace('</p>', '')}</li>
-                    <li>${displayField('Hidden Caches', location.utility_hidden_caches, 'boolean').replace('<p>', '').replace('</p>', '')}</li>
-                    <li>${displayField('Armory', location.utility_armory, 'boolean').replace('<p>', '').replace('</p>', '')}</li>
-                    <li>${displayField('Communications', location.utility_communications, 'boolean').replace('<p>', '').replace('</p>', '')}</li>
-                </ul>
-                ${displayTextarea('Utility Notes', location.utility_notes)}
-            </div>
-            
-            <div class="view-section">
-                <h3>Social & Capacity</h3>
-                ${displayTextarea('Social Features', location.social_features)}
-                ${displayField('Capacity', location.capacity, 'number')}
-                ${displayField('Prestige Level', location.prestige_level, 'number')}
-                ${displayField('Has Supernatural Elements', location.has_supernatural, 'boolean')}
-            </div>
-            
-            <div class="view-section">
-                <h3>Node Information</h3>
-                ${displayField('Node Points', location.node_points, 'number')}
-                ${displayField('Node Type', location.node_type)}
-            </div>
-            
-            <div class="view-section">
-                <h3>Supernatural Features</h3>
-                ${displayTextarea('Ritual Space', location.ritual_space)}
-                ${displayTextarea('Magical Protection', location.magical_protection)}
-                ${displayTextarea('Cursed/Blessed', location.cursed_blessed)}
-            </div>
-            
-            <div class="view-section">
-                <h3>Relationships</h3>
-                ${displayField('Parent Location ID', location.parent_location_id, 'number')}
-                ${displayField('Relationship Type', location.relationship_type)}
-                ${displayTextarea('Relationship Notes', location.relationship_notes)}
-            </div>
-            
-            <div class="view-section">
-                <h3>Media</h3>
-                ${displayField('Image', location.image)}
-            </div>
-            
-            <div class="view-section">
-                <h3>PC Haven</h3>
-                ${displayField('PC Earnable Haven', location.pc_haven, 'boolean')}
-            </div>
-            
-            <div class="view-section">
+            <div class="view-section mt-4">
                 <h3>Metadata</h3>
                 ${displayField('Created At', location.created_at)}
                 ${displayField('Updated At', location.updated_at)}
@@ -1270,6 +1516,44 @@ function assignLocation(id, name) {
     `;
     
     const modalInstance = new bootstrap.Modal(modalElement);
+    
+    // Attach fullscreen button handler - use event delegation on modal element
+    const attachFullscreenHandler = function() {
+        const fullscreenBtn = modalElement.querySelector('.modal-fullscreen-btn');
+        if (!fullscreenBtn) return;
+        
+        if (fullscreenBtn.dataset.listenerAttached === 'true') return;
+        
+        const fullscreenIcon = fullscreenBtn.querySelector('.modal-fullscreen-icon');
+        fullscreenBtn.addEventListener('click', function(e) {
+            e.preventDefault();
+            e.stopPropagation();
+            const isFullscreen = modalElement.classList.contains('fullscreen');
+            if (isFullscreen) {
+                modalElement.classList.remove('fullscreen');
+                if (fullscreenIcon) {
+                    fullscreenIcon.className = 'fas fa-expand modal-fullscreen-icon';
+                }
+                fullscreenBtn.setAttribute('title', 'Toggle Fullscreen');
+                fullscreenBtn.setAttribute('aria-label', 'Toggle Fullscreen');
+            } else {
+                modalElement.classList.add('fullscreen');
+                if (fullscreenIcon) {
+                    fullscreenIcon.className = 'fas fa-compress modal-fullscreen-icon';
+                }
+                fullscreenBtn.setAttribute('title', 'Exit Fullscreen');
+                fullscreenBtn.setAttribute('aria-label', 'Exit Fullscreen');
+            }
+        });
+        fullscreenBtn.dataset.listenerAttached = 'true';
+    };
+    
+    // Attach handler when modal is shown
+    modalElement.addEventListener('shown.bs.modal', attachFullscreenHandler, { once: false });
+    
+    // Also try to attach immediately (in case modal is already in DOM)
+    attachFullscreenHandler();
+    
     modalInstance.show();
 }
 
@@ -1293,6 +1577,44 @@ function deleteLocation(id, name) {
     `;
     
     const modalInstance = new bootstrap.Modal(modalElement);
+    
+    // Attach fullscreen button handler - use event delegation on modal element
+    const attachFullscreenHandler = function() {
+        const fullscreenBtn = modalElement.querySelector('.modal-fullscreen-btn');
+        if (!fullscreenBtn) return;
+        
+        if (fullscreenBtn.dataset.listenerAttached === 'true') return;
+        
+        const fullscreenIcon = fullscreenBtn.querySelector('.modal-fullscreen-icon');
+        fullscreenBtn.addEventListener('click', function(e) {
+            e.preventDefault();
+            e.stopPropagation();
+            const isFullscreen = modalElement.classList.contains('fullscreen');
+            if (isFullscreen) {
+                modalElement.classList.remove('fullscreen');
+                if (fullscreenIcon) {
+                    fullscreenIcon.className = 'fas fa-expand modal-fullscreen-icon';
+                }
+                fullscreenBtn.setAttribute('title', 'Toggle Fullscreen');
+                fullscreenBtn.setAttribute('aria-label', 'Toggle Fullscreen');
+            } else {
+                modalElement.classList.add('fullscreen');
+                if (fullscreenIcon) {
+                    fullscreenIcon.className = 'fas fa-compress modal-fullscreen-icon';
+                }
+                fullscreenBtn.setAttribute('title', 'Exit Fullscreen');
+                fullscreenBtn.setAttribute('aria-label', 'Exit Fullscreen');
+            }
+        });
+        fullscreenBtn.dataset.listenerAttached = 'true';
+    };
+    
+    // Attach handler when modal is shown
+    modalElement.addEventListener('shown.bs.modal', attachFullscreenHandler, { once: false });
+    
+    // Also try to attach immediately (in case modal is already in DOM)
+    attachFullscreenHandler();
+    
     modalInstance.show();
     
     // Check for assignments
@@ -1514,6 +1836,112 @@ function escapeHtml(text) {
 function formatDate(dateString) {
     const date = new Date(dateString);
     return date.toLocaleDateString() + ' ' + date.toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
+}
+
+// File Browser Functions
+let currentFileBrowserPath = {};
+let currentFileBrowserType = null;
+
+async function openFileBrowser(inputId) {
+    const type = inputId === 'locationBlueprint' ? 'blueprint' : 'moodboard';
+    currentFileBrowserType = type;
+    currentFileBrowserPath[type] = '';
+    
+    const browserContainer = document.getElementById(`fileBrowser${type.charAt(0).toUpperCase() + type.slice(1)}`);
+    const browserContent = document.getElementById(`fileBrowser${type.charAt(0).toUpperCase() + type.slice(1)}Content`);
+    
+    if (browserContainer && browserContent) {
+        browserContainer.style.display = 'block';
+        await loadFileBrowser(type, '');
+    }
+}
+
+function closeFileBrowser(type) {
+    const browserContainer = document.getElementById(`fileBrowser${type.charAt(0).toUpperCase() + type.slice(1)}`);
+    if (browserContainer) {
+        browserContainer.style.display = 'none';
+    }
+}
+
+async function loadFileBrowser(type, path) {
+    const browserContent = document.getElementById(`fileBrowser${type.charAt(0).toUpperCase() + type.slice(1)}Content`);
+    if (!browserContent) return;
+    
+    browserContent.innerHTML = '<div class="text-center">Loading...</div>';
+    
+    try {
+        const url = `api_list_location_files.php${path ? '?path=' + encodeURIComponent(path) : ''}`;
+        const response = await fetch(url);
+        const data = await response.json();
+        
+        if (data.success) {
+            currentFileBrowserPath[type] = path;
+            renderFileBrowser(type, data, browserContent);
+        } else {
+            browserContent.innerHTML = `<div class="text-danger">Error: ${escapeHtml(data.error || 'Failed to load files')}</div>`;
+        }
+    } catch (error) {
+        console.error('Error loading files:', error);
+        browserContent.innerHTML = `<div class="text-danger">Error: ${escapeHtml(error.message)}</div>`;
+    }
+}
+
+function renderFileBrowser(type, data, container) {
+    let html = '';
+    
+    // Breadcrumb navigation
+    const pathParts = data.path ? data.path.split('/') : [];
+    html += '<div class="mb-3">';
+    html += '<button type="button" class="btn btn-sm btn-outline-secondary" onclick="loadFileBrowser(\'' + type + '\', \'\')">📁 reference/Locations</button>';
+    let currentPath = '';
+    pathParts.forEach((part, index) => {
+        currentPath += (currentPath ? '/' : '') + part;
+        html += ' <span class="mx-1">/</span> ';
+        html += '<button type="button" class="btn btn-sm btn-outline-secondary" onclick="loadFileBrowser(\'' + type + '\', \'' + escapeHtml(currentPath) + '\')">' + escapeHtml(part) + '</button>';
+    });
+    html += '</div>';
+    
+    // Directories
+    if (data.directories.length > 0) {
+        html += '<div class="mb-3"><strong>Directories:</strong></div>';
+        html += '<div class="list-group mb-3">';
+        data.directories.forEach(dir => {
+            html += `<button type="button" class="list-group-item list-group-item-action bg-dark text-light border-secondary" onclick="loadFileBrowser('${type}', '${escapeHtml(dir.path)}')">`;
+            html += '📁 ' + escapeHtml(dir.name);
+            html += '</button>';
+        });
+        html += '</div>';
+    }
+    
+    // Files
+    if (data.files.length > 0) {
+        html += '<div class="mb-3"><strong>Files:</strong></div>';
+        html += '<div class="list-group">';
+        data.files.forEach(file => {
+            const fullPath = 'reference/Locations/' + file.path;
+            html += `<button type="button" class="list-group-item list-group-item-action bg-dark text-light border-secondary" onclick="selectFile('${type}', '${escapeHtml(fullPath)}')">`;
+            html += '🖼️ ' + escapeHtml(file.name);
+            html += '</button>';
+        });
+        html += '</div>';
+    } else if (data.directories.length === 0) {
+        html += '<div class="text-center text-light">No files found in this directory.</div>';
+    }
+    
+    container.innerHTML = html;
+}
+
+function selectFile(type, filePath) {
+    const inputId = type === 'blueprint' ? 'locationBlueprint' : 'locationMoodboard';
+    const input = document.getElementById(inputId);
+    
+    if (input) {
+        input.value = filePath;
+        closeFileBrowser(type);
+        
+        // Trigger change event to update preview if needed
+        input.dispatchEvent(new Event('input', { bubbles: true }));
+    }
 }
 
 function showNotification(message, type) {

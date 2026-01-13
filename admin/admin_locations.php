@@ -7,7 +7,7 @@
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
-define('LOTN_VERSION', '0.8.66');
+define('LOTN_VERSION', '0.8.67');
 session_start();
 
 if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {

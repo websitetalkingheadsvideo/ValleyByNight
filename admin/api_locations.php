@@ -27,7 +27,7 @@ try {
                 utility_hidden_caches, utility_armory, utility_communications, utility_notes,
                 social_features, capacity, prestige_level, has_supernatural, node_points, node_type, 
                 ritual_space, magical_protection, cursed_blessed, parent_location_id, relationship_type, 
-                relationship_notes, image, pc_haven, created_at, updated_at
+                relationship_notes, image, blueprint, moodboard, pc_haven, created_at, updated_at
          FROM locations 
          ORDER BY id DESC"
     );
