@@ -3,6 +3,11 @@
  * Load Character API (Player-accessible)
  * Wrapper that allows players to load their own characters
  */
+// Suppress error output to prevent HTML in JSON response
+error_reporting(E_ALL);
+ini_set('display_errors', 0);
+ini_set('log_errors', 1);
+
 session_start();
 header('Content-Type: application/json');
 
@@ -169,12 +174,17 @@ try {
     echo json_encode($response);
     
 } catch (Exception $e) {
+    // Log error but don't expose details in response
+    error_log('load_character.php error: ' . $e->getMessage());
     echo json_encode([
         'success' => false,
-        'message' => 'Error: ' . $e->getMessage()
+        'message' => 'Error loading character data'
     ]);
+    exit();
 }
 
-mysqli_close($conn);
+if (isset($conn) && $conn) {
+    mysqli_close($conn);
+}
 ?>
 

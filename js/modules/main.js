@@ -263,6 +263,11 @@ class CharacterCreationApp {
             // This prevents loading wrong character from localStorage
             this.modules.stateManager.clearState();
             this.modules.stateManager.reset();
+            
+            // Initialize basic info tab first (sets up event listeners)
+            this.initializeBasicInfoTab();
+            
+            // Then load character data
             try {
                 await this.loadCharacter(characterId);
             } catch (error) {
@@ -282,10 +287,10 @@ class CharacterCreationApp {
                     this.modules.abilitySystem.resetAll();
                 }
             }
+            
+            // Initialize basic info tab
+            this.initializeBasicInfoTab();
         }
-        
-        // Initialize basic info tab
-        this.initializeBasicInfoTab();
         
         // Setup form validation
         this.setupFormValidation();
@@ -555,10 +560,31 @@ class CharacterCreationApp {
                     }, 100);
                 }
                 
-                // Populate form fields with loaded data (with a small delay to ensure DOM is ready)
-                setTimeout(() => {
+                // Populate form fields with loaded data
+                // Use a more robust approach: wait for DOM to be ready, then populate
+                const populateForm = () => {
+                    // Check if form elements exist
+                    const characterNameEl = document.querySelector('#characterName');
+                    if (!characterNameEl) {
+                        // Form not ready yet, try again (max 10 attempts = 1 second)
+                        if (populateForm.attempts === undefined) {
+                            populateForm.attempts = 0;
+                        }
+                        populateForm.attempts++;
+                        if (populateForm.attempts < 10) {
+                            setTimeout(populateForm, 100);
+                        } else {
+                            console.error('Form elements not found after multiple attempts');
+                        }
+                        return;
+                    }
+                    // Form is ready, populate it
+                    console.log('Form ready, populating with character data');
                     this.populateFormFromCharacterData(characterData);
-                }, 500); // Increased delay to ensure all modules are initialized
+                };
+                
+                // Start trying to populate immediately (form should be ready by now)
+                populateForm();
                 
                 // no popup
             } else {
@@ -573,9 +599,37 @@ class CharacterCreationApp {
      * Populate form fields with character data
      */
     populateFormFromCharacterData(data) {
+        if (!data || !data.character) {
+            console.error('populateFormFromCharacterData: Invalid data structure', data);
+            return;
+        }
+        
         const character = data.character;
+        console.log('Populating form with character data:', character);
         
         // Populate basic info fields
+        // Convert generation number to string format if needed (e.g., 9 -> "9" or "9th Generation")
+        let generationValue = character.generation;
+        if (typeof generationValue === 'number') {
+            // Try to match format like "13th Generation" or just use the number
+            const generationSelect = document.querySelector('#generation');
+            if (generationSelect) {
+                // Check if select expects "9th Generation" format
+                const options = Array.from(generationSelect.options);
+                const matchingOption = options.find(opt => {
+                    const optValue = parseInt(opt.value);
+                    return !isNaN(optValue) && optValue === generationValue;
+                });
+                if (matchingOption) {
+                    generationValue = matchingOption.value;
+                } else {
+                    generationValue = String(generationValue);
+                }
+            } else {
+                generationValue = String(generationValue);
+            }
+        }
+        
         this.setFormValue('#characterName', character.character_name);
         this.setFormValue('#playerName', character.player_name);
         this.setFormValue('#clan', character.clan);
@@ -583,10 +637,18 @@ class CharacterCreationApp {
         this.setFormValue('#demeanor', character.demeanor);
         this.setFormValue('#concept', character.concept);
         this.setFormValue('#chronicle', character.chronicle);
-        this.setFormValue('#generation', character.generation);
+        this.setFormValue('#generation', generationValue);
         this.setFormValue('#sire', character.sire);
-        this.setFormValue('#currentState', character.status || character.current_state || 'active');
-        this.setFormValue('#camarillaStatus', character.camarilla_status || 'Unknown');
+        
+        // These fields may not exist in all forms - only set if they exist
+        const currentStateEl = document.querySelector('#currentState');
+        if (currentStateEl) {
+            this.setFormValue('#currentState', character.status || character.current_state || character.record_status || 'active');
+        }
+        const camarillaStatusEl = document.querySelector('#camarillaStatus');
+        if (camarillaStatusEl) {
+            this.setFormValue('#camarillaStatus', character.camarilla_status || character.sect || 'Unknown');
+        }
         
         // Set PC checkbox based on is_pc field or player_name
         const isPC = character.is_pc !== undefined ? character.is_pc : (character.player_name !== 'NPC');
@@ -756,26 +818,49 @@ class CharacterCreationApp {
      */
     setFormValue(selector, value) {
         const element = document.querySelector(selector);
-        if (element && value !== null && value !== undefined && value !== '') {
-            // For select elements, check if the value exists as an option
-            if (element.tagName === 'SELECT') {
-                // Convert value to string for comparison (handles numeric values like generation)
-                const stringValue = String(value);
-                const optionExists = Array.from(element.options).some(opt => String(opt.value) === stringValue);
-                if (optionExists) {
-                    element.value = stringValue;
-                    // Trigger change event to update any dependent fields
-                    element.dispatchEvent(new Event('change', { bubbles: true }));
-                } else {
-                    console.warn(`setFormValue: Value "${value}" not found in select ${selector}. Available options:`, 
-                        Array.from(element.options).map(opt => opt.value).join(', '));
-                }
-            } else {
-                // For other input types, set value directly
-                element.value = value;
+        if (!element) {
+            // Element doesn't exist - this is normal for optional fields
+            // Only log if it's a required field (not currentState, camarillaStatus, etc.)
+            const optionalFields = ['#currentState', '#camarillaStatus', '#customData'];
+            if (!optionalFields.includes(selector)) {
+                console.warn(`setFormValue: Element not found: ${selector}`);
+            }
+            return;
+        }
+        
+        // Check if element has value property (input, select, textarea)
+        if (!('value' in element)) {
+            console.warn(`setFormValue: Element ${selector} does not have a value property`);
+            return;
+        }
+        
+        // Convert value to string, handling null/undefined as empty string
+        const stringValue = value !== null && value !== undefined ? String(value) : '';
+        
+        // For select elements, check if the value exists as an option
+        if (element.tagName === 'SELECT') {
+            // For empty values, just set to empty string
+            if (stringValue === '') {
+                element.value = '';
+                element.dispatchEvent(new Event('change', { bubbles: true }));
+                return;
+            }
+            
+            // Check if option exists
+            const optionExists = Array.from(element.options).some(opt => String(opt.value) === stringValue);
+            if (optionExists) {
+                element.value = stringValue;
                 // Trigger change event to update any dependent fields
                 element.dispatchEvent(new Event('change', { bubbles: true }));
+            } else {
+                console.warn(`setFormValue: Value "${value}" not found in select ${selector}. Available options:`, 
+                    Array.from(element.options).map(opt => opt.value).join(', '));
             }
+        } else {
+            // For other input types, set value directly (including empty strings)
+            element.value = stringValue;
+            // Trigger change event to update any dependent fields
+            element.dispatchEvent(new Event('change', { bubbles: true }));
         }
     }
     

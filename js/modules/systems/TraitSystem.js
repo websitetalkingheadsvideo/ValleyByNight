@@ -557,10 +557,19 @@ class TraitSystem {
         const select = event.target;
         const category = select.id.replace('Points', '');
         
-        // Get all current values
-        const physicalPoints = parseInt(document.getElementById('physicalPoints').value);
-        const socialPoints = parseInt(document.getElementById('socialPoints').value);
-        const mentalPoints = parseInt(document.getElementById('mentalPoints').value);
+        // Get all current values with null checks
+        const physicalPointsEl = document.getElementById('physicalPoints');
+        const socialPointsEl = document.getElementById('socialPoints');
+        const mentalPointsEl = document.getElementById('mentalPoints');
+        
+        if (!physicalPointsEl || !socialPointsEl || !mentalPointsEl) {
+            console.warn('TraitSystem: Point distribution elements not found');
+            return;
+        }
+        
+        const physicalPoints = parseInt(physicalPointsEl.value) || 0;
+        const socialPoints = parseInt(socialPointsEl.value) || 0;
+        const mentalPoints = parseInt(mentalPointsEl.value) || 0;
         
         // Validate that we have exactly 7, 5, 3
         const values = [physicalPoints, socialPoints, mentalPoints].sort((a, b) => b - a);
@@ -593,14 +602,32 @@ class TraitSystem {
         }
         
         // Update the free point displays
-        document.getElementById('physicalFreeDisplay').textContent = this.pointDistribution.Physical;
-        document.getElementById('socialFreeDisplay').textContent = this.pointDistribution.Social;
-        document.getElementById('mentalFreeDisplay').textContent = this.pointDistribution.Mental;
+        const physicalFreeDisplay = document.getElementById('physicalFreeDisplay');
+        if (physicalFreeDisplay) {
+            physicalFreeDisplay.textContent = this.pointDistribution.Physical;
+        }
+        const socialFreeDisplay = document.getElementById('socialFreeDisplay');
+        if (socialFreeDisplay) {
+            socialFreeDisplay.textContent = this.pointDistribution.Social;
+        }
+        const mentalFreeDisplay = document.getElementById('mentalFreeDisplay');
+        if (mentalFreeDisplay) {
+            mentalFreeDisplay.textContent = this.pointDistribution.Mental;
+        }
         
-        // Update the select boxes
-        document.getElementById('physicalPoints').value = this.pointDistribution.Physical;
-        document.getElementById('socialPoints').value = this.pointDistribution.Social;
-        document.getElementById('mentalPoints').value = this.pointDistribution.Mental;
+        // Update the select boxes with null checks
+        const physicalPointsSelect = document.getElementById('physicalPoints');
+        if (physicalPointsSelect) {
+            physicalPointsSelect.value = this.pointDistribution.Physical;
+        }
+        const socialPointsSelect = document.getElementById('socialPoints');
+        if (socialPointsSelect) {
+            socialPointsSelect.value = this.pointDistribution.Social;
+        }
+        const mentalPointsSelect = document.getElementById('mentalPoints');
+        if (mentalPointsSelect) {
+            mentalPointsSelect.value = this.pointDistribution.Mental;
+        }
     }
     
     /**
@@ -807,10 +834,19 @@ class TraitSystem {
         const select = event.target;
         const category = select.id.replace('Points', '');
         
-        // Get all current values
-        const physicalPoints = parseInt(document.getElementById('physicalPoints').value);
-        const socialPoints = parseInt(document.getElementById('socialPoints').value);
-        const mentalPoints = parseInt(document.getElementById('mentalPoints').value);
+        // Get all current values with null checks
+        const physicalPointsEl = document.getElementById('physicalPoints');
+        const socialPointsEl = document.getElementById('socialPoints');
+        const mentalPointsEl = document.getElementById('mentalPoints');
+        
+        if (!physicalPointsEl || !socialPointsEl || !mentalPointsEl) {
+            console.warn('TraitSystem: Point distribution elements not found');
+            return;
+        }
+        
+        const physicalPoints = parseInt(physicalPointsEl.value) || 0;
+        const socialPoints = parseInt(socialPointsEl.value) || 0;
+        const mentalPoints = parseInt(mentalPointsEl.value) || 0;
         
         // Validate that we have exactly 7, 5, 3
         const values = [physicalPoints, socialPoints, mentalPoints].sort((a, b) => b - a);
@@ -843,14 +879,32 @@ class TraitSystem {
         }
         
         // Update the free point displays
-        document.getElementById('physicalFreeDisplay').textContent = this.pointDistribution.Physical;
-        document.getElementById('socialFreeDisplay').textContent = this.pointDistribution.Social;
-        document.getElementById('mentalFreeDisplay').textContent = this.pointDistribution.Mental;
+        const physicalFreeDisplay = document.getElementById('physicalFreeDisplay');
+        if (physicalFreeDisplay) {
+            physicalFreeDisplay.textContent = this.pointDistribution.Physical;
+        }
+        const socialFreeDisplay = document.getElementById('socialFreeDisplay');
+        if (socialFreeDisplay) {
+            socialFreeDisplay.textContent = this.pointDistribution.Social;
+        }
+        const mentalFreeDisplay = document.getElementById('mentalFreeDisplay');
+        if (mentalFreeDisplay) {
+            mentalFreeDisplay.textContent = this.pointDistribution.Mental;
+        }
         
-        // Update the select boxes
-        document.getElementById('physicalPoints').value = this.pointDistribution.Physical;
-        document.getElementById('socialPoints').value = this.pointDistribution.Social;
-        document.getElementById('mentalPoints').value = this.pointDistribution.Mental;
+        // Update the select boxes with null checks
+        const physicalPointsSelect = document.getElementById('physicalPoints');
+        if (physicalPointsSelect) {
+            physicalPointsSelect.value = this.pointDistribution.Physical;
+        }
+        const socialPointsSelect = document.getElementById('socialPoints');
+        if (socialPointsSelect) {
+            socialPointsSelect.value = this.pointDistribution.Social;
+        }
+        const mentalPointsSelect = document.getElementById('mentalPoints');
+        if (mentalPointsSelect) {
+            mentalPointsSelect.value = this.pointDistribution.Mental;
+        }
     }
     
     /**

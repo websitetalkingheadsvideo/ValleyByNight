@@ -147,16 +147,29 @@ class NotificationManager {
      */
     createNotification(message, options) {
         const notificationId = this.generateNotificationId();
+        
+        // For error notifications, use Bootstrap badge styling with danger colors
+        const isError = options.type === 'error';
+        const badgeClass = isError ? 'badge bg-danger text-white fs-5 px-3 py-2' : '';
+        const notificationClass = isError 
+            ? `notification notification-${options.type} alert alert-danger border border-danger border-3 shadow-lg`
+            : `notification notification-${options.type}`;
+        
         const notification = this.uiManager.createElement('div', {
-            className: `notification notification-${options.type}`,
-            'data-notification-id': notificationId
+            className: notificationClass,
+            'data-notification-id': notificationId,
+            style: isError ? 'min-width: 300px; max-width: 500px;' : ''
         });
         
-        // Set notification content
+        // Set notification content - use prominent badge for errors
+        const messageContent = isError 
+            ? `<span class="${badgeClass}" style="display: inline-block; font-weight: bold; white-space: normal; word-wrap: break-word;">${message}</span>`
+            : `<div class="notification-message">${message}</div>`;
+        
         notification.innerHTML = `
             <div class="notification-content">
-                <div class="notification-message">${message}</div>
-                ${options.closable ? '<button class="notification-close">×</button>' : ''}
+                ${messageContent}
+                ${options.closable ? '<button class="notification-close btn-close" aria-label="Close"></button>' : ''}
             </div>
             <div class="notification-progress"></div>
         `;
@@ -179,8 +192,18 @@ class NotificationManager {
         // Position notification
         this.positionNotification(notification, options.position);
         
+        // Ensure container exists before appending
+        if (!this.container) {
+            this.setupNotificationContainer();
+        }
+        
         // Add to container
-        this.container.appendChild(notification);
+        if (this.container) {
+            this.container.appendChild(notification);
+        } else {
+            console.error('Notification container not available');
+            return null;
+        }
         
         // Store notification
         this.notifications.set(notificationId, {
@@ -388,12 +411,17 @@ class NotificationManager {
             <div class="notification-history">
                 <h3>Notification History</h3>
                 <div class="history-list">
-                    ${history.map(notification => `
+                    ${history.map(notification => {
+                        const messageEl = notification.element.querySelector('.notification-message');
+                        const badgeEl = notification.element.querySelector('.badge');
+                        const message = messageEl ? messageEl.textContent : (badgeEl ? badgeEl.textContent : '');
+                        return `
                         <div class="history-item notification-${notification.options.type}">
-                            <span class="history-message">${notification.element.querySelector('.notification-message').textContent}</span>
+                            <span class="history-message">${message}</span>
                             <span class="history-time">${new Date(notification.timestamp).toLocaleTimeString()}</span>
                         </div>
-                    `).join('')}
+                    `;
+                    }).join('')}
                 </div>
             </div>
         `;
@@ -436,11 +464,16 @@ class NotificationManager {
         return Array.from(this.notifications.values())
             .sort((a, b) => b.timestamp - a.timestamp)
             .slice(0, limit)
-            .map(notification => ({
-                message: notification.element.querySelector('.notification-message').textContent,
-                type: notification.options.type,
-                timestamp: notification.timestamp
-            }));
+            .map(notification => {
+                const messageEl = notification.element.querySelector('.notification-message');
+                const badgeEl = notification.element.querySelector('.badge');
+                const message = messageEl ? messageEl.textContent : (badgeEl ? badgeEl.textContent : '');
+                return {
+                    message: message,
+                    type: notification.options.type,
+                    timestamp: notification.timestamp
+                };
+            });
     }
 }
 
