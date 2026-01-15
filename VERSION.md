@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.46
+## Current Version: 0.9.47
+
+**Date:** 2026-01-15  
+**Type:** Patch (Git sync: task updates and cleanup of error documentation files)
+
+## Previous Version: 0.9.46
 
 **Date:** 2026-01-15  
 **Type:** Patch (Character creation system improvements: enhanced JavaScript modules, notification manager, trait system, and tab manager updates)
