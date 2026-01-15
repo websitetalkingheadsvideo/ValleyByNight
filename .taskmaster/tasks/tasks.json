@@ -452,6 +452,39 @@
             "testStrategy": "Review documentation for completeness and accuracy. Verify usage examples work correctly and troubleshooting section covers common issues."
           }
         ]
+      },
+      {
+        "id": 60,
+        "title": "Fix trait categorization system",
+        "description": "Fix trait categorization system - traits are appearing in wrong tabs (Physical/Social/Mental). The issue is that traits are hardcoded in lotn_char_create.php with categories, but when saved to database, the trait_category field determines which tab they appear in.",
+        "details": "1. Audit all traits in the database to find mis-categorized ones:\n   - Query character_traits table to get all trait_name and trait_category values\n   - Compare database trait_category values against hardcoded categories in lotn_char_create.php\n   - Identify traits that have incorrect categories\n\n2. Create a script to fix mis-categorized traits:\n   - Build mapping of correct trait categories based on hardcoded values in lotn_char_create.php\n   - Create PHP script to update trait_category field in character_traits table\n   - Include dry-run mode to preview changes before applying\n   - Add validation to ensure categories are valid (Physical, Social, Mental)\n\n3. Verify the transformation from database array format to object format works correctly:\n   - Check load_character.php to ensure traits are properly transformed from array to object format\n   - Verify populateTraitsFromData() in main.js correctly handles trait_category field\n   - Test loading characters with traits to ensure they appear in correct tabs\n\n4. Test and validate:\n   - Load characters with previously mis-categorized traits\n   - Verify traits now appear in correct tabs\n   - Test trait saving to ensure categories are preserved correctly",
+        "testStrategy": "Query database for all traits and compare against hardcoded categories. Run fix script in dry-run mode to preview changes. Apply fixes and verify traits appear in correct tabs when loading characters. Test saving new traits to ensure categories are preserved.",
+        "status": "pending",
+        "dependencies": [],
+        "priority": "high",
+        "subtasks": []
+      },
+      {
+        "id": 61,
+        "title": "Fix style-agent MCP server",
+        "description": "Fix style-agent MCP server - server.php at V:\\agents\\style_agent\\server.php starts but client closes immediately. ListOfferings shows 'Server not yet created, returning empty offerings'.",
+        "details": "1. Investigate why the PHP MCP server process isn't initializing properly:\n   - Check server.php implementation for MCP protocol compliance\n   - Verify initialize method is being called and responding correctly\n   - Check if server is handling ListOfferings or mcp/listOfferings correctly\n   - Review error logs and STDERR output for initialization failures\n\n2. Verify MCP protocol compliance:\n   - Ensure server responds correctly to initialize request with proper protocolVersion\n   - Check that tools/list method returns proper tool definitions\n   - Verify server handles both stdio and SSE connections if needed\n   - Ensure proper JSON-RPC 2.0 response format\n\n3. Check Cursor MCP configuration:\n   - Verify MCP configuration in Cursor settings\n   - Check if command path and arguments are correct\n   - Ensure environment variables are properly set\n   - Verify PHP executable path is correct\n\n4. Fix server initialization issues:\n   - Ensure server doesn't exit before handling requests\n   - Add proper error handling for database connection (db.php)\n   - Verify STDIN/STDOUT are properly configured\n   - Test server independently to ensure it stays running\n\n5. Test and validate:\n   - Test server startup and initialization\n   - Verify ListOfferings returns proper tool list\n   - Test tool invocation through Cursor\n   - Ensure server remains connected and responsive",
+        "testStrategy": "Test server.php independently to verify it initializes and stays running. Check MCP protocol responses match expected format. Test through Cursor MCP interface to verify ListOfferings works. Validate tool invocation succeeds.",
+        "status": "pending",
+        "dependencies": [],
+        "priority": "medium",
+        "subtasks": []
+      },
+      {
+        "id": 62,
+        "title": "Integrate mcp-flux-studio MCP server",
+        "description": "Integrate mcp-flux-studio MCP server - located at C:\\Users\\paris\\mcp-flux-studio. Need to configure and integrate this MCP server into the Cursor MCP setup.",
+        "details": "1. Install and build mcp-flux-studio:\n   - Navigate to C:\\Users\\paris\\mcp-flux-studio\n   - Install dependencies: npm install\n   - Build the project: npm run build\n   - Verify build output exists in build/ directory\n\n2. Configure mcp-flux-studio:\n   - Set up environment variables (BFL_API_KEY for Flux API key)\n   - Configure FLUX_PATH if required\n   - Review configuration options in package.json and README\n   - Check for any additional setup requirements\n\n3. Integrate into Cursor MCP settings:\n   - Add mcp-flux-studio to Cursor MCP configuration\n   - Set correct command path (node with build/index.js)\n   - Configure environment variables in MCP settings\n   - Set up proper working directory if needed\n   - Configure autoApprove settings for tools if desired\n\n4. Verify tool availability and functionality:\n   - Test that tools are listed correctly (generate, img2img, inpaint, control)\n   - Verify tool invocation works through Cursor\n   - Test image generation functionality\n   - Ensure proper error handling and user feedback\n\n5. Documentation and testing:\n   - Document integration steps for future reference\n   - Test all available tools (text-to-image, image manipulation, advanced controls)\n   - Verify compatibility with Cursor v0.45.7+\n   - Test with various image generation scenarios",
+        "testStrategy": "Build project and verify no errors. Add to Cursor MCP config and verify tools appear in ListOfferings. Test tool invocation with sample requests. Verify image generation works end-to-end. Check error handling for invalid inputs.",
+        "status": "pending",
+        "dependencies": [],
+        "priority": "medium",
+        "subtasks": []
       }
     ],
     "metadata": {
