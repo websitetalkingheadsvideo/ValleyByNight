@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.43
+## Current Version: 0.9.45
+
+**Date:** 2026-01-15  
+**Type:** Patch (Character database import: added Travis Adelson, Victoria Sterling, Rey Gonzalez, Barry Horowitz, Dorikhan Caine, Evan Mercer, Lila Moreno; fixed style-agent MCP server)
+
+## Previous Version: 0.9.44
 
 **Date:** 2026-01-30  
 **Type:** Patch (Git sync: reference book formatting updates and OCR tools)
