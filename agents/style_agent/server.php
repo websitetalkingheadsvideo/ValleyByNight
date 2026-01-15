@@ -6,8 +6,20 @@
 error_reporting(E_ALL);
 ini_set('display_errors', 0);
 ini_set('log_errors', 1);
+ini_set('output_buffering', 0);
 
-require __DIR__ . '/db.php';
+// Ensure no output before we start
+if (ob_get_level() > 0) {
+    ob_end_clean();
+}
+
+try {
+    require __DIR__ . '/db.php';
+} catch (Throwable $e) {
+    // If db.php fails, we can't continue - but we need to output JSON-RPC error format
+    fwrite(STDERR, "Fatal error loading db.php: " . $e->getMessage() . "\n");
+    exit(1);
+}
 
 /**
  * Write a JSON-RPC 2.0 response to STDOUT.
@@ -275,21 +287,22 @@ function tool_searchArtBible(array $input): array {
  *  - dispatches to the requested tool
  *  - responds with { id, result } JSON
  */
-while (!feof(STDIN)) {
-    $line = fgets(STDIN);
-    if ($line === false) {
-        break;
-    }
-    $line = trim($line);
-    if ($line === '') {
-        continue;
-    }
+try {
+    while (!feof(STDIN)) {
+        $line = fgets(STDIN);
+        if ($line === false) {
+            break;
+        }
+        $line = trim($line);
+        if ($line === '') {
+            continue;
+        }
 
-    $request = json_decode($line, true);
-    if (!is_array($request)) {
-        mcp_respond(null, null, ['code' => -32700, 'message' => 'Parse error']);
-        continue;
-    }
+        $request = json_decode($line, true);
+        if (!is_array($request)) {
+            mcp_respond(null, null, ['code' => -32700, 'message' => 'Parse error']);
+            continue;
+        }
 
     // Handle MCP protocol initialization
     if (isset($request['method'])) {
@@ -309,6 +322,12 @@ while (!feof(STDIN)) {
                     'version' => '1.0.0'
                 ]
             ]);
+            continue;
+        }
+        
+        // Handle initialized notification (no response needed)
+        if ($method === 'initialized') {
+            // Notification - no response
             continue;
         }
         
@@ -401,12 +420,18 @@ while (!feof(STDIN)) {
                 break;
             default:
                 mcp_respond($id, null, ['code' => -32601, 'message' => "Unknown tool: {$toolName}"]);
-                continue;
+                continue 2;
         }
         
         mcp_respond($id, $result);
     } catch (Throwable $e) {
         mcp_respond($id, null, ['code' => -32603, 'message' => 'Server error: ' . $e->getMessage()]);
     }
+    }
+} catch (Throwable $e) {
+    // Fatal error in main loop - log to stderr and exit
+    fwrite(STDERR, "Fatal error in MCP server: " . $e->getMessage() . "\n");
+    fwrite(STDERR, $e->getTraceAsString() . "\n");
+    exit(1);
 }
 

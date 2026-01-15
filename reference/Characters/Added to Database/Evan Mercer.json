@@ -1,0 +1,167 @@
+{
+    "id": 0,
+    "user_id": 0,
+    "character_name": "Evan Mercer",
+    "player_name": "Andy",
+    "chronicle": "Valley by Night",
+    "nature": "Survivor",
+    "demeanor": "Watcher",
+    "concept": "13th-gen Caitiff neonate whose Blood feels thin and wrong — tolerated only because he’s useful",
+    "clan": "Caitiff",
+    "generation": 13,
+    "sire": "Unknown",
+    "pc": 1,
+    "appearance": "Mid-to-late 20s. Looks healthy at a glance, with a lived-in, sleepless intensity. Dresses plain and practical for Phoenix nights; nothing that marks a clan.",
+    "appearance_detailed": {
+      "short_summary": "Healthy-looking neonate with a muted, hard-to-read presence.",
+      "detailed_description": "Evan passes for alive more easily than he should—warm skin tone, subtle breath, and a pulse that seems almost convincing in low light. Up close, something is off: his expressions lag a fraction behind emotion, and his stillness reads like an animal pausing to listen. He keeps his hair short, his clothes simple, and his posture guarded—built for slipping out of rooms rather than owning them."
+    },
+    "biography": "No acknowledged sire. No court sponsor. Evan remembers the Embrace as a blur of hunger and panic, then a long stretch of being told—by everyone—that he doesn’t belong. He learned fast: don’t draw attention, don’t make promises you can’t pay, and never be alone when the politics turn sharp. He’s found temporary safety in a coterie where survival matters more than pedigree, but the way the Blood sits in him makes older Kindred uneasy—like a bad note in a familiar song.",
+    "notes": "Precursor-to-thin-blood vibe without thin-blood mechanics. Use subtle social pressure, inconsistent aura reads, and ‘off’ vitae reactions as foreshadowing.",
+    "equipment": "Basic late-90s carry: cheap flashlight, pocket notebook, thrift-store jacket, battered wallet, payphone change, simple lock picks (if appropriate), and a worn map of Phoenix freeways.",
+    "character_image": "",
+    "record_status": "active",
+    "camarilla_status": "Camarilla",
+    "sect": "Camarilla (probationary / unofficially tolerated)",
+    "title": "",
+    "epithet": "",
+    "description_tags": [
+      "clanless",
+      "thin-blooded-precursor",
+      "hard-to-read",
+      "quietly resilient",
+      "phoenix-1994"
+    ],
+    "timeline": {
+      "birthplace": "Unknown",
+      "embrace_period": "1994 (recent)",
+      "notable_mortal_past": "Unremarkable on paper; survived by staying unnoticed.",
+      "world_war_two_experience": "",
+      "arrival_in_phoenix": "1994",
+      "bunker_acquisition": "",
+      "years_in_bunker": ""
+    },
+    "domain_and_haven": {
+      "primary_haven_name": "",
+      "primary_haven_type": "",
+      "location_notes": "Crashes where he can—never the same place twice unless the coterie locks it down.",
+      "bunker_history": "",
+      "bunker_function": [],
+      "false_public_assumptions": "Just another night-shift worker or insomniac."
+    },
+    "current_residents": {
+      "nosferatu": [],
+      "ghouls": []
+    },
+    "personality": {
+      "tagline": "I’m not supposed to exist — so I stay useful.",
+      "narrative": "Evan doesn’t chase status; he chases tomorrow. He watches rooms like an animal watches weather, reading tone and exits before faces. Under pressure he becomes calm, not brave—calm the way someone gets when they’ve already accepted how fragile their position is."
+    },
+    "traits": {
+      "Physical": [],
+      "Social": [],
+      "Mental": []
+    },
+    "negativeTraits": {
+      "Physical": [],
+      "Social": [],
+      "Mental": []
+    },
+    "abilities": [],
+    "specializations": {},
+    "disciplines": [
+      {
+        "name": "Auspex",
+        "level": 2,
+        "powers": [
+          { "level": 1, "power": "Heightened Senses" },
+          { "level": 2, "power": "Aura Perception" }
+        ]
+      },
+      {
+        "name": "Presence",
+        "level": 1,
+        "powers": [
+          { "level": 1, "power": "Awe" }
+        ]
+      },
+      {
+        "name": "Animalism",
+        "level": 1,
+        "powers": [
+          { "level": 1, "power": "Feral Whispers" }
+        ]
+      }
+    ],
+    "backgrounds": {},
+    "backgroundDetails": {},
+    "morality": {
+      "path_name": "Humanity",
+      "path_rating": 7,
+      "conscience": 3,
+      "self_control": 3,
+      "courage": 3,
+      "willpower_permanent": 5,
+      "willpower_current": 5,
+      "humanity": 7
+    },
+    "merits_flaws": [
+      {
+        "name": "Blush of Health",
+        "type": "merit",
+        "category": "Physical",
+        "cost": 2,
+        "description": "Can mimic signs of life (warmth, breath, faint pulse) enough to pass casual scrutiny."
+      },
+      {
+        "name": "Inoffensive to Animals",
+        "type": "merit",
+        "category": "Physical",
+        "cost": 1,
+        "description": "Animals do not reflexively fear or rage at his presence; they may remain calm or curious."
+      },
+      {
+        "name": "Natural Adaptation",
+        "type": "merit",
+        "category": "Mental",
+        "cost": 2,
+        "description": "Adjusts quickly to hostile environments and shifting circumstances; instinctively finds workable routines."
+      },
+      {
+        "name": "No Sire Protection",
+        "type": "flaw",
+        "category": "Social",
+        "cost": 1,
+        "description": "No acknowledged sire or patron. No one answers for him politically; he’s easy to scapegoat."
+      },
+      {
+        "name": "Faint Aura",
+        "type": "flaw",
+        "category": "Mental",
+        "cost": 1,
+        "description": "Aura readings are muted or inconsistent; Auspex users may misread him or sense something ‘wrong.’"
+      }
+    ],
+    "coteries": [],
+    "relationships": [],
+    "rituals": [],
+    "research_notes": {
+      "discipline_notes_st": "Auspex impressions can be noisy or contradictory; Aura Perception frequently returns ‘thin’ or ‘washed-out’ results. Presence works best in intimate focus; crowds dilute it. Animalism manifests as empathy and calm rather than dominance."
+    },
+    "artifacts": [],
+    "custom_data": {
+      "thin_blood_precursor": true,
+      "chronicle_flags": [
+        "proto-thin-blood",
+        "coterie-anchor-survival",
+        "auspex-aura-anomaly"
+      ]
+    },
+    "experience_total": 0,
+    "experience_spent": 0,
+    "clan_logo_url": "",
+    "current_state": "",
+    "created_at": "",
+    "updated_at": ""
+  }
+  

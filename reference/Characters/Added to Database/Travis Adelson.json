@@ -1,0 +1,167 @@
+{
+  "id": 0,
+  "user_id": 0,
+  "character_name": "Travis Adelson",
+  "player_name": "",
+  "chronicle": "Valley by Night",
+  "nature": "",
+  "demeanor": "",
+  "concept": "Gangrel Childe - New Kindred",
+  "clan": "Gangrel",
+  "generation": 10,
+  "sire": "Dorikhan Caine",
+  "pc": 0,
+  "appearance": "Travis Adelson looks like a man caught between two worlds—the calloused hands and weathered skin of someone who's spent years in construction, and the focused intensity of a scholar who's discovered that the books he thought were fantasy contain real power. In his early thirties when embraced, he carries the solid build of someone who's swung hammers and hauled lumber, with broad shoulders and arms that still remember the rhythm of physical work. His skin shows the tan of someone who's spent time on job sites, though the pallor of undeath is beginning to settle in, creating an odd contrast between the sun-weathered texture and the unnatural paleness beneath.\n\nHis most striking feature is his eyes—sharp, alert, and constantly moving, like a ferret's. They're the kind of eyes that miss nothing, that dart from detail to detail with the quick assessment of someone who's learned to read situations and people. When he's deep in research, those eyes narrow with concentration, and when he's surprised or curious, they widen with an almost animal-like alertness. The Gangrel blood shows in those eyes more than anywhere else—there's a feral quality to his gaze that suggests he's still learning to control the beast within.\n\nHis clothing reflects the 90s urban Scottsdale aesthetic—practical but not flashy. He favors well-worn jeans, work boots that have seen actual use, and button-down shirts in muted earth tones or simple patterns. When he's researching, he often wears a faded flannel shirt over a t-shirt, the kind of layered look that speaks to someone who's comfortable in libraries and construction sites alike. His hair is kept short and practical, the kind of cut that doesn't require much maintenance, and he moves with the economy of someone who's learned to conserve energy—whether for physical work or long nights of study.\n\nWhat's most telling about Travis is how he carries himself when he's reading. He hunches over books with the same focused intensity he once brought to blueprints, his hands—still showing the calluses and scars of construction work—turning pages with careful precision. There's a sense of wonder that hasn't faded, even after discovering that the Koldunic Sorcery he once dismissed as fantasy is very real. He moves through the world with the quiet confidence of someone who's found his purpose, and the slight wariness of someone who knows he's still learning the rules of a dangerous game.",
+  "appearance_detailed": {
+    "short_summary": "A former construction worker turned scholar, Travis Adelson carries the physical build of his mortal trade but moves with the focused intensity of someone who's discovered that the occult research he once dismissed as fantasy is very real. His ferret-like eyes and practical 90s Scottsdale style mark him as a Gangrel childe still learning to balance his feral nature with his scholarly pursuits.",
+    "detailed_description": "Travis Adelson presents as a man in his early thirties, though the Embrace has frozen him at that age. His build speaks to years of construction work—broad shoulders, solid frame, arms that still carry the memory of physical labor. His hands show the calluses and scars of someone who's worked with tools, but they move with careful precision when handling books, suggesting he's found a new kind of work that requires the same attention to detail.\n\nHis most distinctive feature is his eyes—sharp, alert, constantly assessing, with the quick-moving quality of a ferret. They're the kind of eyes that miss nothing, that dart from detail to detail with predatory awareness. The Gangrel blood shows most clearly in those eyes, where a feral alertness lurks beneath the scholarly focus. When he's deep in research, those eyes narrow with intense concentration. When he's surprised or curious, they widen with almost animal-like alertness.\n\nHis clothing reflects 90s urban Scottsdale—practical, comfortable, not trying too hard. Well-worn jeans, work boots that have seen actual use, button-down shirts in muted earth tones. When researching, he often wears a faded flannel over a t-shirt, the layered look of someone comfortable in both libraries and on job sites. His hair is kept short and practical, requiring minimal maintenance.\n\nHis skin shows the tan of someone who's spent time outdoors, though the pallor of undeath is beginning to create an odd contrast—sun-weathered texture over unnatural paleness. He moves with the economy of someone who's learned to conserve energy, whether for physical work or long nights of study.\n\nWhen he's reading, he hunches over books with the same focused intensity he once brought to blueprints, his calloused hands turning pages with careful precision. There's a sense of wonder that hasn't faded, even after discovering that the Koldunic Sorcery he once dismissed as fantasy is very real. He carries himself with the quiet confidence of someone who's found his purpose, and the slight wariness of someone who knows he's still learning the rules of a dangerous new world."
+  },
+  "biography": "",
+  "notes": "Childe of Dorikhan Caine. Embraced less than 2 years ago. Still learning the ways of the Kindred and the Gangrel clan. Under the tutelage of their sire.",
+  "equipment": "",
+  "character_image": "",
+  "status": "active",
+  "camarilla_status": "Independent",
+  "sect": "Autark",
+  "title": "",
+  "epithet": "",
+  "description_tags": [],
+  "timeline": {
+    "birthplace": "",
+    "embrace_period": "Less than 2 years ago",
+    "notable_mortal_past": "",
+    "world_war_two_experience": "",
+    "arrival_in_phoenix": "",
+    "bunker_acquisition": "",
+    "years_in_bunker": ""
+  },
+  "domain_and_haven": {
+    "primary_haven_name": "",
+    "primary_haven_type": "",
+    "location_notes": "",
+    "bunker_history": "",
+    "bunker_function": [],
+    "false_public_assumptions": ""
+  },
+  "current_residents": {
+    "nosferatu": [],
+    "ghouls": []
+  },
+  "personality": {
+    "tagline": "",
+    "narrative": ""
+  },
+  "traits": {
+    "Physical": [],
+    "Social": [],
+    "Mental": []
+  },
+  "negativeTraits": {
+    "Physical": [],
+    "Social": [],
+    "Mental": []
+  },
+  "abilities": [],
+  "specializations": {},
+  "disciplines": [
+    {
+      "name": "Protean",
+      "level": 1,
+      "powers": [
+        {"level": 1, "power": "Eyes of the Beast"}
+      ]
+    },
+    {
+      "name": "Animalism",
+      "level": 1,
+      "powers": [
+        {"level": 1, "power": "Feral Whispers"}
+      ]
+    },
+    {
+      "name": "Fortitude",
+      "level": 1,
+      "powers": [
+        {"level": 1, "power": "Endurance"}
+      ]
+    }
+  ],
+  "backgrounds": {
+    "Mentor": 1
+  },
+  "backgroundDetails": {
+    "Mentor": "Dorikhan Caine"
+  },
+  "morality": {
+    "path_name": "Humanity",
+    "path_rating": 7,
+    "conscience": 3,
+    "self_control": 3,
+    "courage": 3,
+    "willpower_permanent": 5,
+    "willpower_current": 5,
+    "humanity": 7
+  },
+  "merits_flaws": [],
+  "status": {
+    "sect_status": "",
+    "clan_status": "",
+    "city_status": "",
+    "health_levels": 7,
+    "blood_pool_current": 10,
+    "blood_pool_maximum": 10,
+    "blood_per_turn": 1,
+    "xp_total": 0,
+    "xp_spent": 0,
+    "xp_available": 0,
+    "notes": "Very new kindred - less than 2 years since Embrace"
+  },
+  "coteries": [],
+  "relationships": [
+    {
+      "related_character_name": "Dorikhan Caine",
+      "relationship_type": "Sire",
+      "relationship_subtype": "Sire",
+      "strength": "",
+      "description": "Sire and mentor. Embraced Travis Adelson less than 2 years ago."
+    }
+  ],
+  "rituals": [],
+  "research_notes": {},
+  "artifacts": [],
+  "custom_data": null,
+  "actingNotes": "",
+  "agentNotes": "",
+  "health_status": "",
+  "morality_path": "Humanity",
+  "created_at": "",
+  "updated_at": "",
+  "_field_descriptions": {
+    "status": "String: 'active', 'inactive', or 'archived'",
+    "camarilla_status": "String: 'Camarilla', 'Anarch', 'Independent', 'Sabbat', or 'Unknown'",
+    "pc": "Integer: 0 = NPC, 1 = PC",
+    "generation": "Integer: 1-15 (typically 8-13 for starting characters)",
+    "abilities": "Array format options: 1) Objects: [{\"name\": \"Occult\", \"category\": \"Mental\", \"level\": 4}] OR 2) Strings: [\"Performance (Voice) 4\", \"Subterfuge 2\"]",
+    "disciplines": "Array format options: 1) Objects with powers: [{\"name\": \"Auspex\", \"level\": 3, \"powers\": [{\"level\": 1, \"power\": \"Heightened Senses\"}]}] OR 2) Strings: [\"Melpominee 4\", \"Presence 3\"]",
+    "traits": "Object with arrays: {\"Physical\": [\"Quick\", \"Nimble\"], \"Social\": [\"Charismatic\"], \"Mental\": [\"Intelligent\"]}",
+    "negativeTraits": "Same format as traits - negative/damaging traits",
+    "backgrounds": "Object with name:level pairs: {\"Resources\": 3, \"Allies\": 2, \"Status\": 1}",
+    "merits_flaws": "Array of objects: [{\"name\": \"Natural Linguist\", \"type\": \"merit\", \"category\": \"Mental\", \"cost\": 2, \"description\": \"...\"}]",
+    "status.xp_total": "Total experience points earned (maps to DB experience_total)",
+    "status.xp_available": "Unspent experience points (xp_total - xp_spent)",
+    "status.blood_pool_current": "Current blood points (varies by generation)",
+    "status.blood_pool_maximum": "Maximum blood points (typically 10-15 for gen 8-13)",
+    "morality.path_name": "String: 'Humanity' (default) or Path of Enlightenment name",
+    "morality.path_rating": "Integer: 1-10 (current morality rating)",
+    "morality.willpower_permanent": "Integer: 1-10 (permanent willpower rating)",
+    "morality.willpower_current": "Integer: Current willpower (can be lower than permanent)",
+    "coteries": "Array of objects: [{\"coterie_name\": \"...\", \"coterie_type\": \"...\", \"role\": \"...\", \"description\": \"...\", \"notes\": \"...\"}]",
+    "relationships": "Array of objects: [{\"related_character_name\": \"...\", \"relationship_type\": \"...\", \"relationship_subtype\": \"...\", \"strength\": \"...\", \"description\": \"...\"}]",
+    "actingNotes": "String: Notes for acting/directing this character",
+    "agentNotes": "String: Notes for AI agent interaction with this character",
+    "health_status": "String: Current health status description",
+    "morality_path": "String: Path of morality (e.g., 'Humanity', 'Path of Blood', etc.) - duplicate of morality.path_name at top level for DB mapping",
+    "created_at": "String/Date: ISO 8601 date-time when character was created",
+    "updated_at": "String/Date: ISO 8601 date-time when character was last updated"
+  }
+}

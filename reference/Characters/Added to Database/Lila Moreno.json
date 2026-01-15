@@ -1,0 +1,158 @@
+{
+    "id": 0,
+    "user_id": 0,
+    "character_name": "Lila Moreno",
+    "player_name": "Andy",
+    "chronicle": "Valley by Night",
+    "nature": "Bon Vivant",
+    "demeanor": "Caregiver",
+    "concept": "9th-gen Toreador artist frozen in a 1960s hippie aesthetic who values community over control",
+    "clan": "Toreador",
+    "generation": 9,
+    "sire": "Unknown Toreador Elder (California, late 1960s)",
+    "pc": 1,
+    "appearance": "A walking relic of the late 1960s counterculture. Lila dresses exactly as she did at the height of her mortal life: flowing skirts, bell-bottoms, fringe vests, embroidered blouses, headbands, beads, and round tinted glasses. Her look is not costume—it is lived-in and utterly sincere.",
+    "appearance_detailed": {
+      "short_summary": "Radiant Toreador hippie with timeless warmth and unmistakable artistic presence.",
+      "detailed_description": "Lila looks like she stepped out of a psychedelic concert poster and never bothered to leave. Her clothes are layered, colorful, and unapologetically anachronistic—sun-faded fabrics, handmade jewelry, soft leather sandals, and scarves that smell faintly of incense. Her hair is long and loose, worn naturally, framing a face that still carries the idealism and openness of the era that defined her. When she speaks about art, her expression sharpens into focused brilliance; when she smiles at people, it is disarming, intimate, and genuine."
+    },
+    "biography": "Embraced at the tail end of the 1960s, Lila was a gifted poster artist and muralist whose work blended color, symbolism, and emotion in ways her sire found irresistible. Immortality did not temper her ideals—it fossilized them. Decades later, she still believes art should be shared, people should not be owned, and undeath does not excuse cruelty. She refuses to keep ghouls, finding the blood bond morally repugnant, and instead surrounds herself with other Kindred to stave off loneliness. Joining the coterie was less a political move than an emotional one: she likes having people around, and she believes community is the closest thing vampires have to salvation.",
+    "notes": "Strong Toreador identity but socially nontraditional. Refusal to ghoul is an active moral stance, not ignorance.",
+    "equipment": "Art supplies (sketchbooks, paints, brushes), rolled poster tubes, incense, portable record player, stacks of old vinyl, notebooks filled with half-finished designs and poetry.",
+    "character_image": "",
+    "record_status": "active",
+    "camarilla_status": "Camarilla",
+    "sect": "Camarilla",
+    "title": "",
+    "epithet": "",
+    "description_tags": [
+      "toreador",
+      "1960s-hippie",
+      "psychedelic-art",
+      "community-focused",
+      "anti-ghoul"
+    ],
+    "timeline": {
+      "birthplace": "Southern California",
+      "embrace_period": "Late 1960s",
+      "notable_mortal_past": "Successful counterculture poster artist and muralist.",
+      "world_war_two_experience": "",
+      "arrival_in_phoenix": "Early 1990s",
+      "bunker_acquisition": "",
+      "years_in_bunker": ""
+    },
+    "domain_and_haven": {
+      "primary_haven_name": "",
+      "primary_haven_type": "",
+      "location_notes": "Prefers shared or communal living spaces over isolated havens.",
+      "bunker_history": "",
+      "bunker_function": [],
+      "false_public_assumptions": "A harmless eccentric artist who never grew out of the sixties."
+    },
+    "current_residents": {
+      "nosferatu": [],
+      "ghouls": []
+    },
+    "personality": {
+      "tagline": "Art is connection. Control is a lie.",
+      "narrative": "Lila is warm, expressive, and deeply uncomfortable with hierarchy. She seeks beauty and meaning in people as much as in art, and she hates the idea of binding anyone to her will. While she avoids overt politics, her choices are quietly radical, and elders often dismiss her as naïve—right up until they see her work and realize just how powerful her vision truly is."
+    },
+    "traits": {
+      "Physical": [],
+      "Social": [],
+      "Mental": []
+    },
+    "negativeTraits": {
+      "Physical": [],
+      "Social": [],
+      "Mental": []
+    },
+    "abilities": [],
+    "specializations": {
+      "Performance": "Visual Art",
+      "Crafts": "Psychedelic Posters"
+    },
+    "disciplines": [
+      {
+        "name": "Presence",
+        "level": 3,
+        "powers": [
+          { "level": 1, "power": "Awe" },
+          { "level": 2, "power": "Dread Gaze" },
+          { "level": 3, "power": "Entrancement" }
+        ]
+      },
+      {
+        "name": "Auspex",
+        "level": 2,
+        "powers": [
+          { "level": 1, "power": "Heightened Senses" },
+          { "level": 2, "power": "Aura Perception" }
+        ]
+      },
+      {
+        "name": "Celerity",
+        "level": 1,
+        "powers": [
+          { "level": 1, "power": "Celerity" }
+        ]
+      }
+    ],
+    "backgrounds": {
+      "Resources": 2,
+      "Contacts": 2
+    },
+    "backgroundDetails": {
+      "Resources": "Income from art commissions, sales, and patronage.",
+      "Contacts": "Artists, musicians, and alternative culture figures."
+    },
+    "morality": {
+      "path_name": "Humanity",
+      "path_rating": 8,
+      "conscience": 4,
+      "self_control": 3,
+      "courage": 3,
+      "willpower_permanent": 6,
+      "willpower_current": 6,
+      "humanity": 8
+    },
+    "merits_flaws": [
+      {
+        "name": "Artistic Genius",
+        "type": "merit",
+        "category": "Mental",
+        "cost": 4,
+        "description": "Her art is exceptional, emotionally powerful, and immediately recognizable."
+      },
+      {
+        "name": "Ennui",
+        "type": "flaw",
+        "category": "Mental",
+        "cost": 2,
+        "description": "Periods of creative or emotional stagnation can hit her hard."
+      },
+      {
+        "name": "Code of Honor",
+        "type": "flaw",
+        "category": "Social",
+        "cost": 2,
+        "description": "Refuses to blood bond or ghoul mortals; values consent and autonomy above convenience."
+      }
+    ],
+    "coteries": [],
+    "relationships": [],
+    "rituals": [],
+    "research_notes": {},
+    "artifacts": [],
+    "custom_data": {
+      "art_style": "1960s psychedelic hippie poster art",
+      "ghoul_policy": "Refuses to create or maintain ghouls on moral grounds"
+    },
+    "experience_total": 0,
+    "experience_spent": 0,
+    "clan_logo_url": "",
+    "current_state": "",
+    "created_at": "",
+    "updated_at": ""
+  }
+  
