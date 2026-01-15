@@ -1390,8 +1390,39 @@ window.showTab = function(tabIndex) {
     const app = window.characterCreationApp;
     if (!app || !app.modules || !app.modules.tabManager) {
         console.error('TabManager is not ready; cannot show tab.');
+        // Fallback to direct DOM manipulation if TabManager isn't ready
+        if (typeof tabIndex === 'number') {
+            const tabContent = document.querySelector(`#tab${tabIndex}`);
+            if (tabContent) {
+                // Hide all tabs
+                document.querySelectorAll('.tab-content').forEach(tab => {
+                    tab.classList.remove('active');
+                });
+                // Show selected tab
+                tabContent.classList.add('active');
+                // Update tab buttons
+                document.querySelectorAll('.tab').forEach(btn => {
+                    btn.classList.remove('active');
+                });
+                const tabBtn = document.querySelectorAll('.tab')[tabIndex];
+                if (tabBtn) {
+                    tabBtn.classList.add('active');
+                }
+            }
+        }
         return;
     }
-    app.modules.tabManager.showTab(tabIndex);
+    // Convert numeric index to tab ID if needed
+    if (typeof tabIndex === 'number') {
+        const tabInfo = app.modules.tabManager.tabs.find(tab => tab.index === tabIndex);
+        if (tabInfo) {
+            app.modules.tabManager.showTab(tabInfo.id);
+        } else {
+            // Fallback: try direct numeric index
+            app.modules.tabManager.showTab(tabIndex);
+        }
+    } else {
+        app.modules.tabManager.showTab(tabIndex);
+    }
 };
 

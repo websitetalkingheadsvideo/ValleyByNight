@@ -109,6 +109,11 @@ function cleanJsonData($value) {
 function normalizeCharacterData(array $data): array {
     $normalized = $data;
     
+    // Normalize record_status -> status
+    if (isset($normalized['record_status']) && !isset($normalized['status'])) {
+        $normalized['status'] = $normalized['record_status'];
+    }
+    
     // Handle appearance object
     if (isset($normalized['appearance']) && is_array($normalized['appearance'])) {
         if (isset($normalized['appearance']['detailed_description'])) {
@@ -344,8 +349,48 @@ try {
         if (!db_commit($conn)) {
             throw new Exception("Failed to commit transaction: " . mysqli_error($conn));
         }
+        
+        // Verify all characters were actually added to the database
         echo "\n" . str_repeat("=", 60) . "\n";
-        echo "✅ SUCCESS: All characters imported successfully!\n";
+        echo "Verifying characters in database...\n";
+        echo str_repeat("=", 60) . "\n";
+        
+        $verification_errors = [];
+        foreach ($results as $result) {
+            if ($result['status'] === 'success') {
+                $character_name = $result['character_name'];
+                $character_id = $result['character_id'];
+                
+                // Verify character exists in database
+                $verify_result = db_fetch_one($conn, 
+                    "SELECT id, character_name FROM characters WHERE id = ? AND character_name = ? LIMIT 1",
+                    'is',
+                    [$character_id, $character_name]
+                );
+                
+                if (!$verify_result) {
+                    $verification_error = "VERIFICATION FAILED: Character '$character_name' (ID: $character_id) not found in database after import";
+                    echo "  ❌ $verification_error\n";
+                    $verification_errors[] = $verification_error;
+                    $result['status'] = 'verification_failed';
+                } else {
+                    echo "  ✅ Verified: $character_name (ID: $character_id)\n";
+                }
+            }
+        }
+        
+        if (!empty($verification_errors)) {
+            echo "\n" . str_repeat("=", 60) . "\n";
+            echo "❌ VERIFICATION FAILED: Some characters were not added to the database!\n";
+            echo str_repeat("=", 60) . "\n";
+            foreach ($verification_errors as $error) {
+                echo "  - $error\n";
+            }
+            exit(1);
+        }
+        
+        echo "\n" . str_repeat("=", 60) . "\n";
+        echo "✅ SUCCESS: All characters imported and verified successfully!\n";
         echo str_repeat("=", 60) . "\n";
     } else {
         if (!db_rollback($conn)) {
@@ -357,6 +402,7 @@ try {
         foreach ($errors as $error) {
             echo "  - $error\n";
         }
+        exit(1);
     }
     
     // Force output flush
@@ -365,7 +411,7 @@ try {
     }
     
 } catch (Exception $e) {
-    if (!db_rollback_transaction($conn)) {
+    if (!db_rollback($conn)) {
         echo "WARNING: Failed to rollback transaction: " . mysqli_error($conn) . "\n";
     }
     echo "\n❌ FATAL ERROR: " . $e->getMessage() . "\n";

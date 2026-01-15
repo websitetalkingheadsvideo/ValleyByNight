@@ -10,16 +10,17 @@ class TabManager {
         this.eventManager = eventManager;
         this.notificationManager = notificationManager;
         
+        // Map tab names to numeric IDs used in HTML (tab0, tab1, etc.)
         this.tabs = [
-            { id: 'basic', name: 'Basic Info', required: true },
-            { id: 'traits', name: 'Traits', required: true },
-            { id: 'abilities', name: 'Abilities', required: true },
-            { id: 'disciplines', name: 'Disciplines', required: true },
-            { id: 'backgrounds', name: 'Backgrounds', required: true },
-            { id: 'morality', name: 'Morality', required: true },
-            { id: 'merits', name: 'Merits & Flaws', required: false },
-            { id: 'description', name: 'Description', required: false },
-            { id: 'review', name: 'Review', required: true }
+            { id: 'basic', name: 'Basic Info', required: true, htmlId: 'tab0', index: 0 },
+            { id: 'traits', name: 'Traits', required: true, htmlId: 'tab1', index: 1 },
+            { id: 'abilities', name: 'Abilities', required: true, htmlId: 'tab2', index: 2 },
+            { id: 'disciplines', name: 'Disciplines', required: true, htmlId: 'tab3', index: 3 },
+            { id: 'backgrounds', name: 'Backgrounds', required: true, htmlId: 'tab4', index: 4 },
+            { id: 'morality', name: 'Morality', required: true, htmlId: 'tab5', index: 5 },
+            { id: 'merits', name: 'Merits & Flaws', required: false, htmlId: 'tab6', index: 6 },
+            { id: 'description', name: 'Description', required: false, htmlId: 'tab7', index: 7 },
+            { id: 'review', name: 'Review', required: true, htmlId: 'tab8', index: 8 }
         ];
         
         this.currentTab = 'basic';
@@ -34,6 +35,8 @@ class TabManager {
      */
     init() {
         this.setupEventListeners();
+        // Hide all tabs first, then show the current one
+        this.hideAllTabs();
         this.updateAllTabs();
         this.showTab(this.currentTab);
     }
@@ -117,8 +120,38 @@ class TabManager {
      * Show specific tab
      */
     showTab(tabId) {
+        // Handle numeric index (0, 1, 2, etc.) - convert to tab ID
+        let tabInfo = null;
+        if (typeof tabId === 'number' || (!isNaN(tabId) && !isNaN(parseInt(tabId, 10)))) {
+            const index = parseInt(tabId, 10);
+            tabInfo = this.tabs.find(tab => tab.index === index);
+            if (tabInfo) {
+                tabId = tabInfo.id;
+            } else {
+                // Direct numeric index - try to find by HTML ID
+                const directTab = this.uiManager.getElement(`#tab${index}`);
+                if (directTab) {
+                    // Hide all tabs
+                    this.hideAllTabs();
+                    // Show selected tab
+                    directTab.classList.add('active');
+                    directTab.style.display = 'block';
+                    this.uiManager.show(directTab, 'fadeIn');
+                    // Update tab buttons
+                    document.querySelectorAll('.tab').forEach((btn, idx) => {
+                        btn.classList.toggle('active', idx === index);
+                    });
+                    return;
+                }
+            }
+        }
         
-        if (!this.tabs.find(tab => tab.id === tabId)) {
+        // Find tab by ID
+        if (!tabInfo) {
+            tabInfo = this.tabs.find(tab => tab.id === tabId);
+        }
+        
+        if (!tabInfo) {
             console.error(`Tab ${tabId} not found`);
             return;
         }
@@ -126,14 +159,17 @@ class TabManager {
         // Hide all tab content
         this.hideAllTabs();
         
-        // Show selected tab content
-        const tabContent = this.uiManager.getElement(`#${tabId}Tab`);
+        // Show selected tab content using HTML ID (tab0, tab1, etc.)
+        const tabContent = this.uiManager.getElement(`#${tabInfo.htmlId}`);
+        
         if (tabContent) {
             // Add active class for CSS visibility
             tabContent.classList.add('active');
+            // Explicitly set display to block to ensure visibility
+            tabContent.style.display = 'block';
             this.uiManager.show(tabContent, 'fadeIn');
         } else {
-            console.error('Tab content not found:', `#${tabId}Tab`);
+            console.error('Tab content not found:', tabId, `(tried #${tabInfo.htmlId})`);
         }
         
         // Update tab buttons
@@ -162,12 +198,27 @@ class TabManager {
      * Hide all tabs
      */
     hideAllTabs() {
+        // Hide all tab-content elements (more reliable than iterating through tabs array)
+        const allTabContents = document.querySelectorAll('.tab-content');
+        allTabContents.forEach(tabContent => {
+            tabContent.classList.remove('active');
+            tabContent.style.display = 'none';
+        });
+        
+        // Also hide tabs from our tabs array for consistency
         this.tabs.forEach(tab => {
-            const tabContent = this.uiManager.getElement(`#${tab.id}Tab`);
+            // Try HTML ID first (tab0, tab1, etc.), then fallback to named format
+            let tabContent = null;
+            if (tab.htmlId) {
+                tabContent = this.uiManager.getElement(`#${tab.htmlId}`);
+            }
+            if (!tabContent) {
+                tabContent = this.uiManager.getElement(`#${tab.id}Tab`);
+            }
             if (tabContent) {
                 // Remove active class for CSS visibility
                 tabContent.classList.remove('active');
-                this.uiManager.hide(tabContent);
+                tabContent.style.display = 'none';
             }
         });
     }
@@ -176,6 +227,33 @@ class TabManager {
      * Update tab buttons
      */
     updateTabButtons(activeTabId) {
+        // Find the active tab info to get its index
+        const activeTabInfo = this.tabs.find(tab => tab.id === activeTabId);
+        const activeIndex = activeTabInfo ? activeTabInfo.index : null;
+        
+        // Update all tab buttons by their index position (matching HTML structure)
+        const tabButtons = document.querySelectorAll('.tab');
+        tabButtons.forEach((button, index) => {
+            if (activeIndex !== null && index === activeIndex) {
+                button.classList.add('active');
+            } else {
+                button.classList.remove('active');
+            }
+            
+            // Also update completed/incomplete states if tab info exists
+            const tabInfo = this.tabs.find(tab => tab.index === index);
+            if (tabInfo) {
+                if (this.isTabCompleted(tabInfo.id)) {
+                    button.classList.add('completed');
+                    button.classList.remove('incomplete');
+                } else if (tabInfo.required) {
+                    button.classList.add('incomplete');
+                    button.classList.remove('completed');
+                }
+            }
+        });
+        
+        // Also try to update by data-tab attribute if present (for backwards compatibility)
         this.tabs.forEach(tab => {
             const button = this.uiManager.getElement(`[data-tab="${tab.id}"]`);
             if (button) {
