@@ -132,6 +132,80 @@ if ($updateFocus !== '' && $selectedCoterieId > 0) {
 }
 
 /* -----------------------------
+   Update coterie history handler (BEFORE header output)
+------------------------------ */
+$updateHistory = isset($_GET['update_history']) ? trim((string)$_GET['update_history']) : '';
+if ($updateHistory !== '' && $selectedCoterieId > 0) {
+  // First, check if history column exists
+  $checkColumn = $conn->query("SHOW COLUMNS FROM coteries LIKE 'history'");
+  if ($checkColumn && $checkColumn->num_rows === 0) {
+    // Column doesn't exist, add it
+    if (!$conn->query("ALTER TABLE coteries ADD COLUMN history TEXT")) {
+      error_log("Failed to add history column: " . $conn->error);
+    }
+  }
+  
+  // Now update the history
+  $updateHistoryStmt = $conn->prepare("UPDATE coteries SET history = ? WHERE id = ?");
+  if ($updateHistoryStmt) {
+    $updateHistoryStmt->bind_param("si", $updateHistory, $selectedCoterieId);
+    if ($updateHistoryStmt->execute()) {
+      $affectedRows = $updateHistoryStmt->affected_rows;
+      $updateHistoryStmt->close();
+      if ($affectedRows > 0) {
+        $redirectUrl = "?" . buildQueryString(['coterie_id' => $selectedCoterieId, 'update_history' => null, 't' => time()]);
+        header("Location: " . $redirectUrl);
+        exit;
+      } else {
+        error_log("No rows affected when updating history for coterie {$selectedCoterieId}");
+      }
+    } else {
+      error_log("Failed to update history: " . $updateHistoryStmt->error);
+      $updateHistoryStmt->close();
+    }
+  } else {
+    error_log("Failed to prepare update history statement: " . $conn->error);
+  }
+}
+
+/* -----------------------------
+   Update coterie reason handler (BEFORE header output)
+------------------------------ */
+$updateReason = isset($_GET['update_reason']) ? trim((string)$_GET['update_reason']) : '';
+if ($updateReason !== '' && $selectedCoterieId > 0) {
+  // First, check if reason column exists
+  $checkColumn = $conn->query("SHOW COLUMNS FROM coteries LIKE 'reason'");
+  if ($checkColumn && $checkColumn->num_rows === 0) {
+    // Column doesn't exist, add it
+    if (!$conn->query("ALTER TABLE coteries ADD COLUMN reason TEXT")) {
+      error_log("Failed to add reason column: " . $conn->error);
+    }
+  }
+  
+  // Now update the reason
+  $updateReasonStmt = $conn->prepare("UPDATE coteries SET reason = ? WHERE id = ?");
+  if ($updateReasonStmt) {
+    $updateReasonStmt->bind_param("si", $updateReason, $selectedCoterieId);
+    if ($updateReasonStmt->execute()) {
+      $affectedRows = $updateReasonStmt->affected_rows;
+      $updateReasonStmt->close();
+      if ($affectedRows > 0) {
+        $redirectUrl = "?" . buildQueryString(['coterie_id' => $selectedCoterieId, 'update_reason' => null, 't' => time()]);
+        header("Location: " . $redirectUrl);
+        exit;
+      } else {
+        error_log("No rows affected when updating reason for coterie {$selectedCoterieId}");
+      }
+    } else {
+      error_log("Failed to update reason: " . $updateReasonStmt->error);
+      $updateReasonStmt->close();
+    }
+  } else {
+    error_log("Failed to prepare update reason statement: " . $conn->error);
+  }
+}
+
+/* -----------------------------
    Remove character from coterie handler (BEFORE header output)
 ------------------------------ */
 $removeCharacterId = isset($_GET['remove_character']) ? (int)$_GET['remove_character'] : 0;
@@ -246,18 +320,40 @@ $rosterError = '';
 $availableCharacters = [];
 
 if ($selectedCoterieId > 0) {
-  // Check if description column exists first
+  // Check which columns exist
   $hasDescriptionColumn = false;
-  $checkColumn = $conn->query("SHOW COLUMNS FROM coteries LIKE 'description'");
-  if ($checkColumn && $checkColumn->num_rows > 0) {
+  $hasHistoryColumn = false;
+  $hasReasonColumn = false;
+  
+  $checkDesc = $conn->query("SHOW COLUMNS FROM coteries LIKE 'description'");
+  if ($checkDesc && $checkDesc->num_rows > 0) {
     $hasDescriptionColumn = true;
   }
   
-  if ($hasDescriptionColumn) {
-    $stmt = $conn->prepare("SELECT id, name AS coterie_name, chronicle, status, description FROM coteries WHERE id = ? LIMIT 1");
-  } else {
-    $stmt = $conn->prepare("SELECT id, name AS coterie_name, chronicle, status FROM coteries WHERE id = ? LIMIT 1");
+  $checkHistory = $conn->query("SHOW COLUMNS FROM coteries LIKE 'history'");
+  if ($checkHistory && $checkHistory->num_rows > 0) {
+    $hasHistoryColumn = true;
   }
+  
+  $checkReason = $conn->query("SHOW COLUMNS FROM coteries LIKE 'reason'");
+  if ($checkReason && $checkReason->num_rows > 0) {
+    $hasReasonColumn = true;
+  }
+  
+  // Build SELECT query based on available columns
+  $selectFields = ['id', 'name AS coterie_name', 'chronicle', 'status'];
+  if ($hasDescriptionColumn) {
+    $selectFields[] = 'description';
+  }
+  if ($hasHistoryColumn) {
+    $selectFields[] = 'history';
+  }
+  if ($hasReasonColumn) {
+    $selectFields[] = 'reason';
+  }
+  
+  $sql = "SELECT " . implode(', ', $selectFields) . " FROM coteries WHERE id = ? LIMIT 1";
+  $stmt = $conn->prepare($sql);
   
   if (!$stmt) {
     $rosterError = "Query prepare failed: " . $conn->error;
@@ -268,9 +364,11 @@ if ($selectedCoterieId > 0) {
     $selected = $res->fetch_assoc() ?: null;
     $stmt->close();
     
-    // Ensure description field exists in array
+    // Ensure all fields exist in array
     if ($selected) {
       $selected['description'] = (string)($selected['description'] ?? '');
+      $selected['history'] = (string)($selected['history'] ?? '');
+      $selected['reason'] = (string)($selected['reason'] ?? '');
     }
   }
 
@@ -604,10 +702,10 @@ if ($selected) {
                           <a class="dropdown-item" href="?<?php echo h(buildQueryString(['coterie_id' => $selectedCoterieId, 'remove_character' => (int)$member['character_id']])); ?>">
                             <strong><?php echo h((string)($member['character_name'] ?? '')); ?></strong>
                             <?php if (!empty($member['role'])): ?>
-                              <span class="opacity-75"> - <?php echo h((string)$member['role']); ?></span>
+                              <span> - <?php echo h((string)$member['role']); ?></span>
                             <?php endif; ?>
                             <?php if (!empty($member['clan'])): ?>
-                              <br><small class="opacity-75"><?php echo h((string)$member['clan']); ?></small>
+                              <br><small><?php echo h((string)$member['clan']); ?></small>
                             <?php endif; ?>
                           </a>
                         </li>
@@ -626,10 +724,10 @@ if ($selected) {
                           <a class="dropdown-item" href="?<?php echo h(buildQueryString(['coterie_id' => $selectedCoterieId, 'add_character' => (int)$char['id']])); ?>">
                             <strong><?php echo h((string)($char['character_name'] ?? '')); ?></strong>
                             <?php if (!empty($char['clan'])): ?>
-                              <span class="opacity-75"> - <?php echo h((string)$char['clan']); ?></span>
+                              <span> - <?php echo h((string)$char['clan']); ?></span>
                             <?php endif; ?>
                             <?php if (!empty($char['player_name'])): ?>
-                              <br><small class="opacity-75"><?php echo h((string)$char['player_name']); ?></small>
+                              <br><small><?php echo h((string)$char['player_name']); ?></small>
                             <?php endif; ?>
                           </a>
                         </li>
@@ -688,6 +786,30 @@ if ($selected) {
                   </tbody>
                 </table>
               </div>
+            <?php endif; ?>
+
+            <div class="d-flex align-items-center justify-content-between mt-4">
+              <h6 class="mb-2">History</h6>
+              <button class="btn btn-outline-primary btn-sm" type="button" data-bs-toggle="modal" data-bs-target="#editHistoryModal">
+                Edit History
+              </button>
+            </div>
+            <?php if (!empty($selected['history'])): ?>
+              <div class="alert alert-info"><?php echo nl2br(h((string)$selected['history'])); ?></div>
+            <?php else: ?>
+              <div class="alert alert-info">No history recorded yet.</div>
+            <?php endif; ?>
+
+            <div class="d-flex align-items-center justify-content-between mt-4">
+              <h6 class="mb-2">Reason</h6>
+              <button class="btn btn-outline-primary btn-sm" type="button" data-bs-toggle="modal" data-bs-target="#editReasonModal">
+                Edit Reason
+              </button>
+            </div>
+            <?php if (!empty($selected['reason'])): ?>
+              <div class="alert alert-info"><?php echo nl2br(h((string)$selected['reason'])); ?></div>
+            <?php else: ?>
+              <div class="alert alert-info">No reason recorded yet.</div>
             <?php endif; ?>
 
             <div class="d-flex align-items-center justify-content-between mt-4">
@@ -808,12 +930,64 @@ if ($selected) {
           <div class="mb-3">
             <label for="focusText" class="form-label">Focus Description</label>
             <textarea class="form-control" id="focusText" name="update_focus" rows="5" placeholder="Enter coterie focus description..."><?php echo h((string)($selected['description'] ?? '')); ?></textarea>
-            <small class="form-text opacity-75">This will replace the auto-generated focus summary.</small>
+            <div class="mt-1">This will replace the auto-generated focus summary.</div>
           </div>
         </div>
         <div class="modal-footer">
           <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
           <button type="submit" class="btn btn-primary">Save Focus</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+
+<!-- Edit History Modal -->
+<div class="modal fade" id="editHistoryModal" tabindex="-1" aria-labelledby="editHistoryModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="editHistoryModalLabel">Edit Coterie History</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <form method="get" action="">
+        <div class="modal-body">
+          <input type="hidden" name="coterie_id" value="<?php echo (int)$selectedCoterieId; ?>">
+          <div class="mb-3">
+            <label for="historyText" class="form-label">History</label>
+            <textarea class="form-control" id="historyText" name="update_history" rows="8" placeholder="Enter coterie history..."><?php echo h((string)($selected['history'] ?? '')); ?></textarea>
+            <div class="mt-1">Record the coterie's background and past events.</div>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+          <button type="submit" class="btn btn-primary">Save History</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+
+<!-- Edit Reason Modal -->
+<div class="modal fade" id="editReasonModal" tabindex="-1" aria-labelledby="editReasonModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="editReasonModalLabel">Edit Coterie Reason</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <form method="get" action="">
+        <div class="modal-body">
+          <input type="hidden" name="coterie_id" value="<?php echo (int)$selectedCoterieId; ?>">
+          <div class="mb-3">
+            <label for="reasonText" class="form-label">Reason</label>
+            <textarea class="form-control" id="reasonText" name="update_reason" rows="8" placeholder="Enter the reason for this coterie's formation..."><?php echo h((string)($selected['reason'] ?? '')); ?></textarea>
+            <div class="mt-1">Explain why this coterie was formed and what brings the members together.</div>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+          <button type="submit" class="btn btn-primary">Save Reason</button>
         </div>
       </form>
     </div>

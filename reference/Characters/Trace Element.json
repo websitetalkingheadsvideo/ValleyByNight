@@ -1,0 +1,172 @@
+{
+    "id": 0,
+    "user_id": 0,
+    "character_name": "Trace Element",
+    "player_name": "NPC",
+    "chronicle": "Valley by Night",
+    "nature": "Trickster",
+    "demeanor": "Bon Vivant",
+    "concept": "Ravnos illusionist specializing in sleight of hand and pickpocketing; chemistry-minded con artist romantically involved with Lila Moreno.",
+    "clan": "Ravnos",
+    "generation": 12,
+    "sire": "Unknown",
+    "pc": 0,
+    "appearance": "Lean, quick-handed drifter with an easy smile and restless fingers. Dresses in layered early-90s thrift-store clothes chosen for comfort, pockets, and distraction rather than fashion.",
+    "appearance_detailed": {
+      "short_summary": "Charming Ravnos illusionist with a pickpocket’s posture.",
+      "detailed_description": "Trace Element looks harmless and approachable, but nothing about him is accidental. His hands are always moving just enough to draw the eye, his stance angled to control space and exits. Jewelry and small props double as misdirection tools, and his expressions shift fluidly depending on who’s watching."
+    },
+    "biography": "Trace Element is a name chosen for what it implies: something small, easily overlooked, yet capable of changing an entire reaction. He survives by misdirection—illusions, sleight of hand, and clean thefts that feel like accidents. He relies on Chemistry-enhanced tricks rather than brute supernatural force. In Phoenix, his relationship with Lila Moreno has become an unexpected anchor, grounding him in something real.\n\nSometimes he dreams of a red star, fixed and silent in the sky. He wakes with the unsettling sense that reality itself has been palmed and swapped, though he can never say what’s missing.",
+    "notes": "Member of the Montecito House Coterie. Romantically involved with Lila Moreno. Experiences occasional prophetic-feeling dreams of a red star.",
+    "equipment": "Lockpicks",
+    "character_image": "",
+    "status": "active",
+    "camarilla_status": "Camarilla",
+    "sect": "Camarilla",
+    "title": "",
+    "epithet": "",
+    "description_tags": [
+      "ravnos",
+      "illusionist",
+      "sleight of hand",
+      "pickpocket",
+      "chimestry",
+      "chemistry",
+      "red star dreams"
+    ],
+    "timeline": {
+      "birthplace": "",
+      "embrace_period": "",
+      "notable_mortal_past": "Stage-magic hustles, petty theft, and confidence games.",
+      "world_war_two_experience": "",
+      "arrival_in_phoenix": "Early 1994",
+      "bunker_acquisition": "",
+      "years_in_bunker": ""
+    },
+    "domain_and_haven": {
+      "primary_haven_name": "Montecito House",
+      "primary_haven_type": "Coterie Haven",
+      "location_notes": "Southern Scottsdale",
+      "bunker_history": "",
+      "bunker_function": [
+        "safe crash space",
+        "coterie meetings"
+      ],
+      "false_public_assumptions": "Shared rental house for unrelated adults."
+    },
+    "current_residents": {
+      "nosferatu": [],
+      "ghouls": []
+    },
+    "personality": {
+      "tagline": "If you noticed it, that wasn’t the trick.",
+      "narrative": "Warm, clever, and evasive. Trace avoids confinement of any kind and slips out of expectations as easily as wallets. With Lila, he is more sincere—and more vulnerable—than he intends."
+    },
+    "traits": {
+      "Physical": ["Quick", "Nimble"],
+      "Social": ["Charismatic", "Smooth"],
+      "Mental": ["Alert", "Cunning"]
+    },
+    "negativeTraits": {
+      "Physical": [],
+      "Social": [],
+      "Mental": []
+    },
+    "abilities": [
+      { "name": "Larceny", "category": "Physical", "level": 4 },
+      { "name": "Stealth", "category": "Physical", "level": 3 },
+      { "name": "Subterfuge", "category": "Social", "level": 3 },
+      { "name": "Performance", "category": "Social", "level": 2 },
+      { "name": "Streetwise", "category": "Social", "level": 2 },
+      { "name": "Security", "category": "Mental", "level": 2 },
+      { "name": "Science", "category": "Mental", "level": 2 },
+      { "name": "Occult", "category": "Mental", "level": 1 }
+    ],
+    "specializations": {
+      "Larceny": "Pickpocketing",
+      "Performance": "Sleight of Hand",
+      "Science": "Chemistry",
+      "Subterfuge": "Misdirection"
+    },
+    "disciplines": [
+      {
+        "name": "Chimestry",
+        "level": 3,
+        "powers": [
+          { "level": 1, "power": "Ignis Fatuus" },
+          { "level": 2, "power": "Fata Morgana" },
+          { "level": 3, "power": "Apparition" }
+        ]
+      }
+    ],
+    "backgrounds": {
+      "Contacts": 2,
+      "Allies": 1,
+      "Resources": 1
+    },
+    "backgroundDetails": {
+      "Contacts": "Nightlife workers, pawn shops, and small-time hustlers.",
+      "Allies": "One mortal who believes Trace is just a stage magician.",
+      "Resources": "Unstable but steady income from small cons."
+    },
+    "morality": {
+      "path_name": "Humanity",
+      "path_rating": 6,
+      "conscience": 2,
+      "self_control": 3,
+      "courage": 3,
+      "willpower_permanent": 5,
+      "willpower_current": 5,
+      "humanity": 6
+    },
+    "merits_flaws": [],
+    "status_details": {
+      "sect_status": "",
+      "clan_status": "",
+      "city_status": "",
+      "health_levels": 7,
+      "blood_pool_current": 10,
+      "blood_pool_maximum": 11,
+      "blood_per_turn": 1,
+      "xp_total": 0,
+      "xp_spent": 0,
+      "xp_available": 0,
+      "notes": ""
+    },
+    "coteries": [
+      {
+        "coterie_name": "Montecito House Coterie",
+        "coterie_type": "Coterie",
+        "role": "Misdirection / Retrieval",
+        "description": "Acquires information and small items without drawing attention.",
+        "notes": "Romantically involved with Lila Moreno."
+      }
+    ],
+    "relationships": [
+      {
+        "related_character_name": "Lila Moreno",
+        "relationship_type": "Romantic",
+        "relationship_subtype": "Anchor",
+        "strength": "Strong",
+        "description": "Lila grounds him and keeps him in Phoenix."
+      }
+    ],
+    "rituals": [],
+    "research_notes": {
+      "red_star_dreams": "Fragmented dreams of a red star fixed in a black sky."
+    },
+    "artifacts": [],
+    "custom_data": {
+      "skill_focus": {
+        "primary": ["Illusions", "Sleight of Hand", "Pickpocketing"],
+        "secondary": ["Chemistry-based tricks", "Social diversion"]
+      }
+    },
+    "experience_total": 0,
+    "experience_spent": 0,
+    "clan_logo_url": "",
+    "current_state": "",
+    "created_at": "",
+    "updated_at": ""
+  }
+  
