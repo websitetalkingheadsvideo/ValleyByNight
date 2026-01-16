@@ -1,0 +1,806 @@
+WIKIDOT UPDATE LOG
+==================
+
+MERITS UPDATED (73):
+Ability Aptitude => Cost: 2, Description: You have exceptional talent with one specific non-...
+Acute Sense => Cost: 1, Description: You have exceptionally sharp hearing, smell, visio...
+Ambidextrous => Cost: 1&nbsp;, Description: You have a high degree of off hand dexterity, and ...
+Attuned Taste => Cost: 2, Description: You've got a natural instinct for the flavors in b...
+Bruiser => Cost: 1, Description: Your appearance is sufficiently thug-like to inspi...
+Catlike Balance => Cost: 1, Description: You possess an innately perfect sense of balance. ...
+Code of Honor => Cost: 1, Description: You have a personal code of ethics to which you st...
+Coldly Logical => Cost: 1, Description: While some might refer to you as a "cold fish" you...
+Common Sense => Cost: 1, Description: You have a significant amount of practical, everyd...
+Concentration => Cost: 1, Description: You have the ability to focus your mind and shut o...
+Danger Sense => Cost: 2, Description: You have a sixth sense that warns you of danger. W...
+Daredevil => Cost: 3, Description: You are good at taking risks, and even better at s...
+Double-Jointed => Cost: 1, Description: You are unusually supple, Reduce the difficulty of...
+Dual Nature => Cost: 2, Description: You have two distinct Nature, both of which have a...
+Early Riser => Cost: 1, Description: You always seem to be the first to rise and the la...
+Eidetic Memory => Cost: 2, Description: You can remember things seen and heard with perfec...
+Enchanting Voice => Cost: 2, Description: There is something about your voice cannot ignore....
+Fast Learner => Cost: 5, Description: You learn very quickly, and pick up on new things ...
+Friendly Face => Cost: 1, Description: You have a face that remained everyone of someone,...
+Higher Purpose => Cost: 1, Description: You have a goal that drives and directs you in eve...
+Holdings => Cost: 1-5, Description: You own a number of properties that have been in y...
+Huge Size => Cost: 4, Description: You are abnormally large in size, possibly over se...
+Hypersensitive Palate => Cost: 2, Description: You have an almost supernatural ability to analyze...
+Institutional Control => Cost: 2-5, Description: You begin play with absolute control over one mort...
+Iron Will => Cost: 5, Description: Your mind is as a castle, daring intruders with to...
+Jack-of-All-Trades => Cost: 5&nbsp;, Description: You have a large pool of miscellaneous skills and ...
+Lightning Calculator => Cost: 1, Description: You have a natural affinity with numbers and a tal...
+Magic Resistance => Cost: 2, Description: You have an inherent resistance to the rituals of ...
+Mechanical Aptitude => Cost: 1 or 2, Description: You are naturally adept with all kinds of mechanic...
+Medium => Cost: 2 or 4, Description: You possess the natural affinity to sense and hear...
+Natural Leader => Cost: 1, Description: You are gifted with a certain magnetism to which o...
+Natural Linguist => Cost: 2&nbsp;, Description: You have a flair for languages. This Merit does no...
+Nine Lives => Cost: 6, Description: Fate has granted you the opportunity to come as cl...
+Occult Library => Cost: 2, Description: You possess a library of occult material which may...
+Oracular Ability => Cost: 3, Description: You can see and interpret signs and omens. You are...
+Pain Tolerance => Cost: 2, Description: Either because of personal proclivity or the rigor...
+Pelagic Harmony => Cost: 3, Description: A rare state of mind that runs counter to this dis...
+Pitiable => Cost: 1, Description: There is something about you that others pity. Thi...
+Sanctity => Cost: 2, Description: This Merit is sometimes called the halo effect; ev...
+Soothing Voice => Cost: 3, Description: Your voice is calm and soothing, almost entrancing...
+Special Gift => Cost: 1-3, Description: Your sire gave you a valuable gift after the Embra...
+Spirit Mentor => Cost: 3, Description: You have a ghostly companion and guide. The identi...
+Spy Network => Cost: 2, Description: You begin play with access to a group of mortals w...
+Time Sense => Cost: 1, Description: You have an innate sense of time and are able to e...
+True Faith => Cost: 7, Description: You have a deep-seated faith in and love for God, ...
+True Love => Cost: 4, Description: You have discovered, perhaps too late, a true love...
+Unbondable => Cost: 3, Description: You are immune to being blood bound...
+Weather Sense => Cost: 1, Description: This merit grants occasional warnings (with a Perc...
+Baby Face => Cost: 2, Description: You look more human than other vampires, enabling ...
+Berserker => Cost: 2, Description: The Beast is in you, but you know how to direct an...
+Blush of Health => Cost: 2, Description: You look more hale and health in appearance than o...
+Boon => Cost: 1-6, Description: Someone owes you a favor. The vampire in your debt...
+Calm Heart => Cost: 3, Description: You are naturally calm and well-composed, and do n...
+Clan Friendship => Cost: 2 or 4, Description: (Edited for LAbN) For any number of different reas...
+Debt of Gratitude => Cost: 1-3, Description: An elder owes your gratitude because of something ...
+Eat Food => Cost: 1&nbsp;, Description: You can eat food, an aptitude you picked up early ...
+Efficient Digestion => Cost: 3, Description: You are able to draw more than the usual amount of...
+Enlightened => Cost: 1-7, Description: You have taken at least the first few steps on the...
+Faerie Affinity => Cost: 2, Description: Your presence does not frighten faeries; indeed it...
+False Reflection => Cost: 3, Description: When using Mask of a Thousand Faces, a vampire wit...
+Haven Affinity => Cost: 2, Description: Your territoriality rivals that of a Lupine. When ...
+Healing Touch => Cost: 1, Description: Normally vampires can only seal the wounds they in...
+Humanity's Window => Cost: 3, Description: Although otherwise monstrous in appearance, you re...
+Inoffensive to Animals => Cost: 1, Description: Animals do not fear or distrust you the way they d...
+Light Sleeper => Cost: 1, Description: You function quite well on four hours of sleep a n...
+Loyal Childe => Cost: 3, Description: Your childe’s loyalty goes beyond any Blood Bond...
+Misplaced Heart => Cost: 2, Description: Your heart has actually moved within your body, th...
+Paramour => Cost: 3-5, Description: You have had a long-term (minimum 75 years) relati...
+Pawn => Cost: 3, Description: You can manipulate and have some control over othe...
+Prestigious Sire => Cost: 1, Description: Your Sire had or has great Status in the Camarilla...
+Reputation => Cost: 2, Description: You have a good reputation among the Kindred of yo...
+Sanguine Humor => Cost: 2, Description: The flush of life still seems to fill your veins; ...
+Sleep Unseen => Cost: 2, Description: You can use the Obfuscate Discipline to hide while...
+
+FLAWS UPDATED (106):
+Absent-Minded => Cost: 3, Description: This Flaw may not be taken with the Merit Concentr...
+Addiction => Cost: 3, Description: You suffer from an addiction to a substance, which...
+Allergic => Cost: 1-3, Description: You are allergic to some substance, in a manner no...
+Amnesia => Cost: 2, Description: You are unable to remember anything about your pas...
+Bad Sight => Cost: 1 or 3, Description: Your sight is defective. The difficulties of any d...
+Bard's Tongue => Cost: 1, Description: You speak the truth, uncannily so. Things you say ...
+Blind => Cost: 6, Description: You cannot see. Characters can compensate for the ...
+Bound => Cost: 2, Description: You are blood bound to a vampire. Your regnant may...
+Color Blindness => Cost: 1, Description: You can see in black ad white. Color means nothing...
+Compulsion => Cost: 1, Description: You have a psychological compulsion of some sort, ...
+Confused => Cost: 2, Description: You are often confused, and the world seems to be ...
+Curiosity => Cost: 2, Description: You are naturally curious and find mysteries of an...
+Cursed => Cost: 1-5, Description: You have been cursed by someone or something with ...
+Dangerous Secret => Cost: 2, Description: You are privy to some top secret information that ...
+Dark Fate => Cost: 5, Description: You are doomed to experience a most horrible demis...
+Dark Secret => Cost: 1, Description: You have some sort of secret that, if uncovered, w...
+Deaf => Cost: 4, Description: You cannot hear. While you may ignore some applica...
+Deathsight => Cost: 2, Description: Everything appears rotted and decayed to you. The ...
+Deep Sleeper => Cost: 1, Description: When you sleep, it is very difficult for you to aw...
+Deformity => Cost: 3, Description: You have some kind of deformity - a misshapen limb...
+Demon-Hounded => Cost: 1-4, Description: A demon has taken a special interest in your soul....
+Disease Carrier => Cost: 4, Description: Your blood carries a lethal and highly contagious ...
+Disfigured => Cost: 2, Description: A hideous disfigurement makes you ugly and easy to...
+Driving Goal => Cost: 3, Description: You have personal goal, which sometimes compels an...
+Enemy => Cost: 1-5, Description: You have an enemy, or perhaps a group of enemies, ...
+Hard of Hearing => Cost: 1, Description: Your hearing is defective. The difficulties of any...
+Hatred => Cost: 3, Description: You have an unreasoning hatred of a certain thing....
+Haunted => Cost: 3, Description: You are haunted by an angry and tormented spirit, ...
+Hunted => Cost: 4, Description: You have come to the attention of a witch-hunter, ...
+Illiterate => Cost: 1, Description: Through lack of education or as the result of a co...
+Inbred => Cost: 1-5, Description: A common occurrence among the incestuous Giovanni ...
+Inept => Cost: 5&#160;, Description: You are not attuned to your natural aptitudes, and...
+Intolerance => Cost: 1, Description: You have an unreasoning dislike of a certain thing...
+Known to be Dead => Cost: 2, Description: Communities are small, and deaths and disappearanc...
+Lame => Cost: 3, Description: Your legs are injured or otherwise prevented from ...
+Lazy => Cost: 1, Description: You are simply lazy, avoiding anything that requir...
+Lifesaver => Cost: 3, Description: You believe that human life is a sacred gift and w...
+Low Self-Image => Cost: 2, Description: You lack self-confidence and don’t believe in yo...
+Magic Susceptibility => Cost: 2, Description: You are susceptible to the magical rituals of the ...
+Mistaken Identity => Cost: 1, Description: You look similar to another Kindred, and are mista...
+Mute => Cost: 4, Description: You cannot speak. You communicate with the Storyte...
+Necrophile => Cost: 3, Description: No, you don’t have sex with the dead, but you ce...
+Nightmares => Cost: 1, Description: You experience horrendous nightmare (daymares?) ev...
+Notoriety => Cost: 3, Description: You have a bad reputation among the Kindred of you...
+Paraplegic => Cost: 6, Description: You can hardly move without the assistance, such a...
+Pelagic Compulsion => Cost: 2, Description: The afflicted character feels inexplicably drawn t...
+Shy => Cost: 1, Description: You are distinctly ill at ease when dealing with p...
+Short Fuse => Cost: 2, Description: You are easily angered. The difficulties of rolls ...
+Soft-Hearted => Cost: 1, Description: You cannot stand to watch others suffer-not necess...
+Speech Impediment => Cost: 1, Description: You have a stammer or some other speech impediment...
+Stigmata => Cost: 2-4, Description: You constantly seep blood from phantom wounds; eve...
+Unskilled => Cost: 5&#160;, Description: You have never trained extensively in any skill or...
+Vainglorious => Cost: 1-3, Description: You are boastful and know that you deserve any pra...
+Ward => Cost: 3, Description: You are devoted to the protection of a mortal. You...
+Weak-Willed => Cost: 2, Description: You are highly susceptible to Dominate and intimid...
+Beacon of the Unholy => Cost: 2, Description: You radiate palpable evil. Clergy and devout morta...
+Cast No Reflection => Cost: 1, Description: You have no shadow. You also cause no shadows to m...
+Cold Breeze => Cost: 1, Description: A chill wind follows you wherever you go. While it...
+Lord of the Flies => Cost: 2, Description: Buzzing harbringers of decay swirl around you ever...
+Smell of the Grave => Cost: 1, Description: You exude an odor of dampness and newly turned ear...
+Touch of Frost => Cost: 1, Description: Plants wither as you approach and die at your touc...
+Vulnerability to Silver => Cost: 2, Description: You suffer aggravated wounds from silver, just lik...
+Blunt Fangs => Cost: 1, Description: Your teeth are huge and square, not sharp like tho...
+Cast No Reflection => Cost: 1, Description: You actually cast no reflection, just like the vam...
+Child => Cost: 3, Description: You were a small child at the time of the Embrace....
+Clan Enmity => Cost: 2 or 4, Description: For some reason something about you inspires conte...
+Conspicuous Consumption => Cost: 4, Description: It is not enough for you to draw nourishment from ...
+Death Wish => Cost: 1-5, Description: You have an unconscious wish to die the True Death...
+Diabolic Sire => Cost: 2, Description: Your sire is engaged in acts that could cause a tr...
+Dulled Bite => Cost: 2, Description: For some reason your fangs never fully developed -...
+Eerie Presence => Cost: 2, Description: Mortals have an unconscious awareness of your unde...
+Flashbacks => Cost: 6, Description: You managed to make it through the Creation Rights...
+Flesh of the Corpse => Cost: 5, Description: Your flesh does not fully regenerate once it is da...
+Frail Stomach => Cost: 2, Description: You are physically unable to stomach blood that yo...
+Glowing Eyes => Cost: 3, Description: You have the stereotypical glowing eyes of vampire...
+Grip of the Damned => Cost: 4, Description: There is no ecstasy in your Embrace - only terror ...
+Guilt-Wracked => Cost: 4, Description: You simply cannot come to grips with the fact that...
+Infamous Autarkis => Cost: 1, Description: The Camarilla won't accept you as one of its own u...
+Infamous Sire => Cost: 1, Description: Your sire was, and perhaps still is, distrusted an...
+Infectious Bite => Cost: 2, Description: You lack the enzymes that allow most Kindred to se...
+Infertile Vitae => Cost: 3, Description: For some reason you're unable to create new vampir...
+Insane Sire => Cost: 1, Description: Your sire has completely lost his grip on reality,...
+Jilted Paramour => Cost: 1-3, Description: You had a long-term relationship (minimum 50 years...
+Light-Sensitive => Cost: 5, Description: You are even more sensitive to sunlight than other...
+Lunacy => Cost: 2, Description: You are affected by the phases of the moon, increa...
+Matricide/Patricide => Cost: 4, Description: You have committed diablerie upon your own sire. I...
+Monstrous => Cost: 3, Description: There is something wholly monstrous about you, som...
+Permanent Fangs => Cost: 3, Description: Your fangs do not retract, making it impossible fo...
+Permanent Wound => Cost: 3, Description: You suffered injuries during the Embrace, which yo...
+Poseidon's Call => Cost: 1, Description: An individual with this condition, finds her stabi...
+Poverty => Cost: 1, Description: You are very poor for an elder vampire. Either you...
+Prestation Debt => Cost: 1-5, Description: You currently owe a boon to one or more other Kind...
+Prey Exclusion => Cost: 1, Description: You have an overpowering fear of something. For in...
+Probationary Sect Member => Cost: 4, Description: You are a defector. You tuned traitor to the Camar...
+Recently Arisen => Cost: 3, Description: You have been lying in a state of torpor until ver...
+Religious Prohibition => Cost: 2 or 4, Description: In your breathing days, you were either Jewish or ...
+Repelled By Crosses => Cost: 3, Description: You are repelled by the sight of ordinary crosses ...
+Repulsed by Garlic => Cost: 1, Description: You cannot abide the smell of garlic, and the smal...
+Selective Digestion => Cost: 2, Description: You can digest only certain types of blood. You ca...
+Slow Healing => Cost: 3, Description: You have difficulty healing wounds. It requires tw...
+Special Responsibility => Cost: 1, Description: Shortly after your Embrace, you volunteered for so...
+Territorial => Cost: 2, Description: You are extremely territorial, staking out a parti...
+Thin Blood => Cost: 4, Description: Your blood is thin, weak and does not sustain you ...
+Thirst for Innocence => Cost: 2, Description: The sight of innocence - of and sort - arouses in ...
+Twisted Upbringing => Cost: 1, Description: Your sire was quite malevolent and taught you all ...
+Vengeful Childe => Cost: 2, Description: You have sired a childe who has grown to loathe yo...
+
+MERITS NOT FOUND IN DATABASE:
+Adaptable Nature
+Alternate Identity
+Animal Affinity
+Approachable
+Bardic Gift
+Bitter Blood
+Broken Bond
+Burning Aura
+Celebrated Lineage
+Charmed Existence
+Church Ties
+Clear Sighted
+Compensatory Senses
+Communicate with Animals
+Computer Aptitude
+Copperfield
+Corporate Ties
+Corporation CEO
+Crack Driver
+Culture Knack
+Cupid's Gift
+David's Arm
+Devotion
+Enchanting Gaze
+Entrepreneur
+Exceptional Transport
+Extremist Group
+Family Member
+Firearms License
+Fire Within
+Fist of God
+Flirt
+Forgettable
+Former Ghoul
+Fountain of Life
+Friend of the Underground
+Good Instincts
+Good Judge of Character
+Good Night Vision
+Good Right Hook
+Gossip
+Graceful
+Great Liar
+Hands of Daedalus
+Harmless
+Healthy Skepticism
+Hidden Talent
+Hideaway
+Holy Aura
+Honey Tongued
+Hotel
+Innate Magical Ability
+Innocent
+Introspective
+Invisible to Kindred
+Judicial Ties
+Likeness of a Saint
+Lion-Hearted
+Local Ties
+Loyalty
+Lucky
+Lunar Influence
+Mage Companion
+Magic Sensitivity
+Manse or Mansion
+Mark of Favor
+Media Ties
+Mercantile Ties
+Miracles of the Faith
+Mother’s Insight
+Mystic Ability
+Natural Swimmer
+Nightclub
+Nightsight
+Noble Bearing
+Old Pal
+One of the Guys/Girls
+Pale Aura
+Paranoia
+Patience
+Pillar of the Community
+Police Ties
+Political Ties
+Precocious
+Precognition
+Prescience
+Prophetic Ability
+Refined
+Sabbat Survivor
+Sanctuary
+Seasoned Traveler
+Scholar of Enemies
+Scholar of Others
+Self-Confident
+Silence
+Smooth
+Soothe the Beast
+Sorcerous Awareness
+Spark of Life
+Spirit Sight
+Street Rep
+Street Ties
+Supporter
+Sweet Blood
+Talented Liar
+Technocratic Ties
+Thick-Skinned
+Top Secret Access
+Tough as Nails
+Traveler's Intuition
+Uncanny Sight
+Uncanny Logic
+Underworld Ties
+Unimpressed
+University Ties
+Unmarred Face
+Unshockable
+Useful Knowledge
+Valuable Secret
+Way With Words
+Well-Traveled
+Werewolf Companion
+Detached
+Faeblood
+Fortune's Favor
+Hale
+Poisonous Blood
+Resemble Kindred
+Additional Discipline
+Assamite - Marijava Contact
+Assamite - Multicultural
+Assamite - Unconquered Ally
+Brujah - Bearing of Kings
+Brujah - Compassionate
+Brujah - Dynamic Personality
+Brujah - Fury’s Focus
+Brujah - Mentor‘s Tutelage
+Bullyboy
+Capable Assistant
+Cast No Image
+Childe, Loyal
+Closer Than Blood
+Deceptive Aura
+Domain
+Elysium Domain
+Elysium Regular
+Fetch
+Gangrel - Without a Trace
+Giovanni - Sanguine Incongruity
+Harpy
+Hidden Diablerie
+Holder of Office
+Inconnu Associate
+Lasombra - Controllable Night Sight
+Lasombra - Pelagic Harmony
+Lasombra - Prestigious Confessor
+Lasombra - Strength of Shadows
+Lasombra - Weather Sense
+Living Icon
+Malkavian - Benevolent Blood
+Malkavian - Deadened Nerves
+Malkavian - Disembodied Mentor
+Malkavian - Immaculate Aura
+Malkavian - Sympathetic Bond
+Malkavian - Blessed
+Mole
+Nosferatu - Blood Bloat
+Nosferatu - Disgusting
+Nosferatu - False Reflection
+Nosferatu - Feeding Tongue
+Nosferatu - Foul Blood
+Nosferatu - Gaping Maw
+Nosferatu - Legendary Accomplishment
+Nosferatu - Lizard Limbs
+Nosferatu - Long Fingers
+Nosferatu - Oversized Fangs
+Nosferatu - Oversized Mouth
+Nosferatu - Patagia
+Nosferatu - Projectile Vomiting
+Nosferatu - Reptile Buddy
+Nosferatu - Rugged Bad Looks
+Nosferatu - Sleep Unseen
+Nosferatu - Slimy
+Nosferatu - Swarm Attractor
+Nosferatu - Tough Hide
+Open Road
+Pack Distinction
+Powerful Childe
+Presentation Gifts
+Primogen
+Primogen Friendship
+Protégée
+Ravnos - Charmed Samadji
+Ravnos - Family Allegiance
+Ravnos - Phralmulo
+Rep
+Rising Star
+Safe Passage
+Salubri - Blooding by the Code
+Salubri - Protected
+Salubri - Scent of Other
+Salubri - Sight Beyond Sight
+Salubri - Warrens
+Sanctifying Kiss
+Setites - Addictive Blood
+Setites - Agent of Prophecy
+Setites - Drug Resistance
+Setites - Poisonous Bite
+Sheriff's Friend
+Special Rapport
+Strong Blood
+Student
+Toreador - Closer Than Blood
+Toreador - Fetch
+Toreador - Patron
+Toreador - Touched by God
+Toreador - Vampiric Consort
+Toreador - Controllable Thirst
+Toreador - Eye of Beauty
+Toreador - Mortal Double
+Toreador - Refined
+Toreador - Artistically Gifted
+Toreador - Greater Colors
+Toreador - Supernatural Spouse
+Toreador - Powerful Ghoul
+Toreador - Vampire Spouse
+Tremere - Attuned Taste
+Tremere - Natural Vicissitude
+Tzimisce - Dracon's Temperament
+Tzimisce - Haven Affinity
+Tzimisce - Naturally Supple
+Tzimisce - Pain Tolerance
+Tzimisce - Revenant Disciplines
+Tzimisce - Secular
+Tzimisce - Vindictive
+Unbroken Lineage
+Vampiric Consort
+Ventrue - Paragon
+Regurgitate
+
+FLAWS NOT FOUND IN DATABASE:
+Addicted to Kindred Vitae
+Adolescent
+Airhead
+Arrogant
+Artificially Aged
+Bad Liar
+Beholden
+Big Mouth
+Black and White
+Blackmailed
+Braggart
+Cannibal
+Club Foot
+Clumsy
+Compulsive Liar
+Coward
+Craven Image
+Criminal Marks
+Criminal Past
+Criminal Record
+Crude
+Defective Sense
+Delusion
+Démesuré
+Depression
+Derangement
+Disconcerting
+Disparaged
+Distinguishing Characteristic
+Disturbing Mannerism
+Emotional Isolation
+Ennui
+Errant Mind
+Faint of Heart
+Fear of the Devil
+Fortune's Folly
+Geas
+Gender Awkwardness
+Graceless
+Impatient
+Inconvenient Alliance
+Incorrigible Flirt
+Infamous Family
+Infamous Lineage
+Infamy
+Insensitive
+Intrigue Junkie
+Lost Love
+Lustful
+Malicious Zealot
+Manchurian Candidate
+Mental Patient
+Naive
+Pacifist
+Paranoia, Extreme
+Permanent Distraction
+Phobia-Mild
+Phobia-Severe
+Poor Night Vision
+Sadism
+Scorched Aura
+Sensation Junkie
+Sickened by the Flesh
+Socially Oblivious
+Spiritually Noticeable
+Stalker/Stalked
+Static Flesh
+Stubborn
+Stumbletongue
+Superstitious
+Suspicion Magnet
+Twitch
+Uneducated
+Unlucky
+Vengeful
+Vulgar
+Wanted by Law Enforcement
+Arcane Manifestation
+Degeneration
+Eyes of the Unholy
+Psi Focus
+Psychic Feedback
+Unblinking Vigil
+Unsettling Effect
+Wild Talent
+Witchwalk
+Anachronism
+Assamite - Blood Madness
+Assamite - Disgraced
+Assamite-Du’at Enemy
+Assamite - Magical Addict
+Assamite-Silsila Enemy
+Assamite - Outcaste
+Assamite - Religious Prohibition
+Assamite - Unbroken
+Assamite-Unconquered Enemy
+Atrophied Heart
+Bastard Childer
+Beast In The Mirror
+Blasphemer Among Heretics
+Blood Hunted
+Botched Presentation
+Brujah - Lack of Control
+Brujah - Obvious Predator
+Brujah - Pariah
+Brujah - Uncontrollable
+Bulimia
+Can’t Cross Running Water
+Catspaw
+Childe, Vengeful
+Coffin Bound
+Crimson Haze
+Curse Diluted
+Dead Star
+Diabolist, Known
+Diabolist, Secret
+Discipline Inept
+Disgrace to the Blood
+Escaped Target
+Expendable
+Face of the Beast
+Failure
+Former Prince
+Gangrel - Forgotten of Proteus
+Gangrel - Animal Enmity
+Gangrel - Eyes of the Shark
+Gangrel - Pied Piper
+Gangrel - Repelled By Amulets
+Gangrel - Superstitious
+Giovanni - Inbred
+Hunted Like a Dog
+Incomplete Understanding
+Lasombra - Cloaked in Shadows
+Lasombra - Enmity of Shadows
+Lasombra - Image Obsession
+Lasombra - Marked for Death
+Lasombra - Religious Prohibition
+Laughingstock
+Loathsome Regnant
+Masquerade Breaker
+Methusalah's Thirst
+Narc
+New Arrival
+New Kid
+Nosferatu - Anosmia
+Nosferatu - Blunt Fangs
+Nosferatu - Club Foot
+Nosfertau - Enemy Brood
+Nosferatu - Infamous Autarkis
+Nosferatu - Necrophile
+Nosferatu - Nosferatu Caitiff
+Nosferatu - Parasitic Infestation
+Nosferatu - Putrescence
+Nosferatu - Stench
+Paramour, Jilted
+Ravnos - Family Enmity
+Ravnos - Marhime
+Ravnos - Wuzho Enemy
+Recruitment Target
+Red List
+Red Sacrament
+Rivalry
+Rival Sires
+Routine
+Salubri - Odd Eye
+Salubri - Stubborn
+Salubri - Unblooded
+Salubri - Visible Eye
+Setites - Aura of the Wyrm
+Setites - Forked Tongue
+Setites - Heartless
+Setites - Scales
+Sire's Kiss
+Sire’s Resentment
+Sleeping with the Enemy
+Stereotype
+Sympathizer
+Technophobic
+Toreador - Artistically Inept
+Toreador - Démesuré
+Toreador - Disparaged
+Toreador - Poor Taste
+Toreador - Rivalry
+Toreador - Social Outcast
+Toreador - Used and Abused
+Toreador - Vulgar
+Tremere - Bound to the Council
+Tremere - Double Betrayer
+Tremere - False Third Eye
+Tremere - Thaumaturgically Inept
+Tzimisce - Ancestral Soil Dependence
+Tzimisce - Consumption
+Tzimisce - Privacy Obsession
+Tzimisce - Revenant Weakness
+Tzimisce - Scarface
+Unconvinced
+Uninvited
+Uppity
+Victim of the Masquerade
+14th Generation
+Arthritic
+Asthma
+Chronic Illness
+Elderly
+Hemophiliac
+Homeless
+Insomniac
+Medicated
+Poor Circulation
+Sickly
+Uncontrollable Appetite
+Language Barrier
+Messenger Hyper-Sensitivity
+
+MERITS STILL MISSING COSTS:
+Benevolent Blood
+Blase
+Bright Aura
+Celestial Attunement
+Consanguineous Resistance
+Crusader
+Damned Visage
+Home Advantage
+Immaculate Aura
+Introspection
+Kenning-Wise
+Literacy
+Lizard Limbs
+Long Fingers
+Oversized Fangs
+Piscine
+Prestigious Regnant
+Slimy
+Sugar Daddy
+Vow
+Walkurie
+Well Rested
+
+MERITS STILL MISSING DESCRIPTIONS:
+Animal Friendship
+Aware of False Love
+Benevolent Blood
+Blackmail Material
+Blase
+Bright Aura
+Celestial Attunement
+Church Ranking
+Compassionate
+Consanguineous Resistance
+Controllable Night Sight
+Crusader
+Damned Visage
+Deadened Nerves
+Destiny
+Downey
+Dracon's Temperament
+Duelist Reputation
+Dynamic Personality
+Embraced Without the Cup
+Foresighted
+Foul Blood
+Gaping Maw
+Guardian Angel
+Home Advantage
+Immaculate Aura
+Introspection
+Kenning-Wise
+Learn Other Disciplines
+Literacy
+Lizard Limbs
+Long Fingers
+Luck
+Manse
+Mysterious Guardian
+Natural Cipher
+Nobility
+Oversized Fangs
+Paragon
+Patagia
+Perceive Vampires
+Personal Masquerade
+Piscine
+Prestation Gifts
+Prestigious Regnant
+Projectile Vomiting
+Prophetic
+Proxy Kissed
+Quiet Heart
+Reptile Buddy
+Revenant Disciplines
+Rugged Bad Looks
+Sanguine Incongruity
+Secret Society Member
+Slimy
+Sugar Daddy
+Supernatural Companion
+Sympathetic Bond
+Tough Hide
+Vengeful Kin
+Vow
+Walkurie
+Well Rested
+Wit
+
+FLAWS STILL MISSING COSTS:
+Impaired Sight
+Life-Blind
+Stench
+Taint of Corruption
+Underprivileged Origins
+Weak Blood
+
+FLAWS STILL MISSING DESCRIPTIONS:
+Ancestral Soil Dependence
+Anosmia
+Archaic
+Bastard Childe
+Bound to the Council
+Can't Cross Running Water
+Cannot Embrace
+Contagious
+Dangerous Bias
+Death's Reflection
+Decrepitude
+Diseased
+Double Betrayer
+Duelist Reputation
+Enemy Brood
+Fangless
+Fifteenth Generation
+Flesh Eater
+Fragile Bones
+Gulpy
+Harbinger of Gehenna
+Hemetic
+Impaired Sight
+Incoherent
+Infectious
+Insomnia
+Known Diablerist
+Landlubber
+Leper
+Life-Blind
+Magical Addict
+Oathbreaker
+Obsession
+Obvious Predator
+One Arm
+One Ear
+Overconfident
+Parasitic Infestation
+Partially Crippled
+Persistent Parents
+Phobia
+Pox
+Putrescent
+Ragged Bite
+Ravaging Years
+Revenant Weakness
+Scarface
+Second-Class Citizen
+Secret Diablerist
+Secret Friendship
+Shadow Walker
+Sire's Resentment
+Stench
+Superstition
+Taint of Corruption
+Thaumaturgically Inept
+Thirteenth Generation
+Traitor
+Unbroken
+Uncontrollable Night Sight
+Underprivileged Origins
+Vengeance
+Weak Blood
+Weak Sense
+Withered Leg
