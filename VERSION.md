@@ -1,6 +1,16 @@
 # Version History
 
-## Current Version: 0.9.47
+## Current Version: 0.9.49
+
+**Date:** 2026-01-16  
+**Type:** Patch (Wikidot integration: optimized merits/flaws updater with insert capability and performance improvements)
+
+## Previous Version: 0.9.48
+
+**Date:** 2026-01-16  
+**Type:** Patch (Wikidot integration: added HTML parser for merits/flaws from Wikidot pages)
+
+## Previous Version: 0.9.47
 
 **Date:** 2026-01-15  
 **Type:** Patch (Git sync: task updates and cleanup of error documentation files)
