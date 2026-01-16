@@ -321,6 +321,68 @@ echo "<p>Starting database updates...</p>";
 echo "<p>Processing " . count($merits_data) . " merits and " . count($flaws_data) . " flaws...</p>";
 flush();
 
+// Pre-load all existing names from database for fast lookup
+echo "<p>Loading existing database names for fast lookup...</p>";
+flush();
+
+$existing_merits = [];
+$merits_result = mysqli_query($conn, "SELECT name FROM merits");
+if ($merits_result) {
+    while ($row = mysqli_fetch_assoc($merits_result)) {
+        $existing_merits[strtolower($row['name'])] = $row['name'];
+    }
+    mysqli_free_result($merits_result);
+}
+
+$existing_flaws = [];
+$flaws_result = mysqli_query($conn, "SELECT name FROM flaws");
+if ($flaws_result) {
+    while ($row = mysqli_fetch_assoc($flaws_result)) {
+        $existing_flaws[strtolower($row['name'])] = $row['name'];
+    }
+    mysqli_free_result($flaws_result);
+}
+
+echo "<p>Loaded " . count($existing_merits) . " existing merits and " . count($existing_flaws) . " existing flaws from database.</p>";
+flush();
+
+// Fast lookup function using pre-loaded data
+function fastFindName(array $existing_names, string $name): ?string {
+    $normalized = strtolower($name);
+    
+    // Try exact match first
+    if (isset($existing_names[$normalized])) {
+        return $existing_names[$normalized];
+    }
+    
+    // Try variations (hyphens, spaces, apostrophes)
+    $variations = [
+        str_replace('-', ' ', $normalized),
+        str_replace(' ', '-', $normalized),
+        str_replace("'", "'", $normalized),
+        str_replace("'", "'", $normalized),
+    ];
+    
+    foreach ($variations as $variation) {
+        if (isset($existing_names[$variation])) {
+            return $existing_names[$variation];
+        }
+    }
+    
+    // Try partial match for multi-word names
+    $words = explode(' ', $normalized);
+    if (count($words) >= 2) {
+        $first_words = implode(' ', array_slice($words, 0, 2));
+        foreach ($existing_names as $db_normalized => $db_name) {
+            if (strpos($db_normalized, $first_words) === 0) {
+                return $db_name;
+            }
+        }
+    }
+    
+    return null;
+}
+
 // Use INSERT ... ON DUPLICATE KEY UPDATE to insert new or update existing
 $update_merits_sql = "INSERT INTO merits (name, cost, description, clan, display_order) 
                       VALUES (?, ?, ?, NULL, 0)
@@ -395,8 +457,8 @@ try {
         
         $db_name = findNameInDb($conn, $wikidot_name, 'merits');
         
-        // Try to find in database first
-        $db_name = findNameInDb($conn, $wikidot_name, 'merits');
+        // Try to find in database using fast lookup
+        $db_name = fastFindName($existing_merits, $wikidot_name);
         
         // Use the database name if found, otherwise use the Wikidot name (will insert new)
         $name_to_use = $db_name ? $db_name : $wikidot_name;
@@ -470,8 +532,8 @@ foreach ($flaws_data as $wikidot_name => $data) {
         ob_flush();
     }
     
-    // Try to find in database first
-    $db_name = findNameInDb($conn, $wikidot_name, 'flaws');
+    // Try to find in database using fast lookup
+    $db_name = fastFindName($existing_flaws, $wikidot_name);
     
     // Use the database name if found, otherwise use the Wikidot name (will insert new)
     $name_to_use = $db_name ? $db_name : $wikidot_name;
