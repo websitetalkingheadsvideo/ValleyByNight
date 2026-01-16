@@ -220,6 +220,7 @@ try {
             'generation' => $char['generation'],
             'nature' => $char['nature'],
             'demeanor' => $char['demeanor'],
+            'derangement' => $char['derangement'] ?? null,
             'sire' => $char['sire'],
             'concept' => $char['concept'],
             'biography' => $char['biography'],

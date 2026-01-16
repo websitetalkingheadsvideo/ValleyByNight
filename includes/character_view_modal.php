@@ -410,7 +410,8 @@ if ($script_dir === '/') {
             
             summaryFields.push(
                 { label: 'Nature', value: displayValue(char.nature, 'N/A') },
-                { label: 'Demeanor', value: displayValue(char.demeanor, 'N/A') }
+                { label: 'Demeanor', value: displayValue(char.demeanor, 'N/A') },
+                { label: 'Derangement', value: displayValue(char.derangement, 'None') }
             );
             
             // Don't show Sire for ghouls (they have domitor instead)

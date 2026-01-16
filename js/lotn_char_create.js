@@ -312,6 +312,7 @@ function saveCharacter(isFinalization = false) {
         chronicle: document.getElementById('chronicle').value || 'Valley by Night',
         nature: document.getElementById('nature').value || '',
         demeanor: document.getElementById('demeanor').value || '',
+        derangement: document.getElementById('derangement') ? document.getElementById('derangement').value || '' : '',
         concept: document.getElementById('concept').value || '',
         clan: document.getElementById('clan').value || '',
         generation: parseInt(document.getElementById('generation').value) || 13,
