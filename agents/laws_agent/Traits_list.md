@@ -1,0 +1,6 @@
+Physical Traits: Athletic, Brawny, Brutal, Dexterous, Enduring, Energetic, Ferocious, Graceful, Lithe, Nimble, Quick, Resilient, Robust, Rugged, Stalwart, Steady, Tenacious, Tireless, Tough, Vigorous, Wiry
+Negative Physical Traits: Clumsy, Cowardly, Decrepit, Delicate, Docile, Flabby, Lame, Lethargic, Puny, Sickly
+Social Traits: Alluring, Beguiling, Charismatic, Charming, Commanding, Compassionate, Dignified, Diplomatic, Elegant, Eloquent, Empathetic, Expressive, Friendly, Genial, Gorgeous, Ingratiating, Intimidating, Magnetic, Persuasive, Seductive, Witty
+Negative Social Traits: Bestial, Callous, Condescending, Dull, Naive, Obnoxious, Repugnant, Shy, Tactless, Untrustworthy
+Mental Traits: Alert, Attentive, Calm, Clever, Creative, Cunning, Dedicated, Determined, Discerning, Disciplined, Insightful, Intuitive, Knowledgeable, Observant, Patient, Rational, Reflective, Shrewd, Vigilant, Wily, Wise
+Negative Mental Traits: Forgetful, Gullible, Ignorant, Impatient, Oblivious, Predictable, Shortsighted, Submissive, Violent, Witless

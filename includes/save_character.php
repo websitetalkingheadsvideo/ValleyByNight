@@ -114,6 +114,7 @@ $cleanData = [
     'chronicle' => cleanString($data['chronicle'] ?? 'Valley by Night'),
     'nature' => cleanString($data['nature'] ?? ''),
     'demeanor' => cleanString($data['demeanor'] ?? ''),
+    'derangement' => cleanString($data['derangement'] ?? ''),
     'concept' => cleanString($data['concept'] ?? ''),
     'clan' => cleanString($data['clan'] ?? ''),
     'generation' => cleanInt($data['generation'] ?? 13),
@@ -162,7 +163,7 @@ try {
     try {
         if ($character_id > 0) {
             // Update existing character (no strict ownership gating here)
-            $update_sql = "UPDATE characters SET character_name = ?, player_name = ?, chronicle = ?, nature = ?, demeanor = ?, concept = ?, clan = ?, generation = ?, sire = ?, pc = ?, appearance = ?, biography = ?, notes = ?, custom_data = ?, status = ?, camarilla_status = ?" .
+            $update_sql = "UPDATE characters SET character_name = ?, player_name = ?, chronicle = ?, nature = ?, demeanor = ?, derangement = ?, concept = ?, clan = ?, generation = ?, sire = ?, pc = ?, appearance = ?, biography = ?, notes = ?, custom_data = ?, status = ?, camarilla_status = ?" .
                          ($cleanData['character_image'] !== '' ? ", character_image = ?" : "") .
                          " WHERE id = ?";
 
@@ -174,12 +175,13 @@ try {
             if ($cleanData['character_image'] !== '') {
                 mysqli_stmt_bind_param(
                     $stmt,
-                    'sssssssisisssssssi',
+                    'ssssssssisisssssssi',
                     $cleanData['character_name'],
                     $cleanData['player_name'],
                     $cleanData['chronicle'],
                     $cleanData['nature'],
                     $cleanData['demeanor'],
+                    $cleanData['derangement'],
                     $cleanData['concept'],
                     $cleanData['clan'],
                     $cleanData['generation'],
@@ -197,12 +199,13 @@ try {
             } else {
                 mysqli_stmt_bind_param(
                     $stmt,
-                    'sssssssisissssssi',
+                    'ssssssssisissssssi',
                     $cleanData['character_name'],
                     $cleanData['player_name'],
                     $cleanData['chronicle'],
                     $cleanData['nature'],
                     $cleanData['demeanor'],
+                    $cleanData['derangement'],
                     $cleanData['concept'],
                     $cleanData['clan'],
                     $cleanData['generation'],
@@ -249,6 +252,33 @@ try {
 
             $character_id = mysqli_insert_id($conn);
             mysqli_stmt_close($stmt);
+            
+            // Update all other fields after initial creation
+            $update_after_create_sql = "UPDATE characters SET nature = ?, demeanor = ?, derangement = ?, concept = ?, clan = ?, generation = ?, sire = ?, pc = ?, appearance = ?, biography = ?, notes = ?, custom_data = ? WHERE id = ?";
+            $update_stmt = mysqli_prepare($conn, $update_after_create_sql);
+            if ($update_stmt) {
+                mysqli_stmt_bind_param(
+                    $update_stmt,
+                    'sssssisissssi',
+                    $cleanData['nature'],
+                    $cleanData['demeanor'],
+                    $cleanData['derangement'],
+                    $cleanData['concept'],
+                    $cleanData['clan'],
+                    $cleanData['generation'],
+                    $cleanData['sire'],
+                    $cleanData['pc'],
+                    $cleanData['appearance'],
+                    $cleanData['biography'],
+                    $cleanData['notes'],
+                    $cleanData['custom_data'],
+                    $character_id
+                );
+                if (!mysqli_stmt_execute($update_stmt)) {
+                    error_log('Failed to update character fields after creation: ' . mysqli_stmt_error($update_stmt));
+                }
+                mysqli_stmt_close($update_stmt);
+            }
         }
         
         // Save disciplines (new normalized structure: one row per discipline with max level)

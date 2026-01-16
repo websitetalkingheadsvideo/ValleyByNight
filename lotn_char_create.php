@@ -7,8 +7,8 @@
 
 <body>
 	<?php
-// LOTN Character Creator - Version 0.2.0
-define('LOTN_VERSION', '0.2.0');
+// LOTN Character Creator - Version 0.2.1
+define('LOTN_VERSION', '0.2.1');
 
 session_start();
 
@@ -47,6 +47,49 @@ if ($conn) {
 } else {
     // Fallback if database connection fails
     $nature_demeanor_options = $fallback_options;
+}
+
+// Fetch derangements from database
+$derangements_data = [];
+
+if ($conn) {
+    $query = "SELECT name, description FROM derangements ORDER BY display_order";
+    $result = mysqli_query($conn, $query);
+    
+    if ($result && mysqli_num_rows($result) > 0) {
+        while ($row = mysqli_fetch_assoc($result)) {
+            $derangements_data[] = [
+                'name' => $row['name'],
+                'description' => $row['description'] ?? ''
+            ];
+        }
+        mysqli_free_result($result);
+    }
+}
+
+// Fetch traits from database
+$traits_data = [
+    'Physical' => ['positive' => [], 'negative' => []],
+    'Social' => ['positive' => [], 'negative' => []],
+    'Mental' => ['positive' => [], 'negative' => []]
+];
+
+if ($conn) {
+    $query = "SELECT trait_name, trait_category, is_negative FROM traits ORDER BY trait_category, is_negative, trait_name";
+    $result = mysqli_query($conn, $query);
+    
+    if ($result && mysqli_num_rows($result) > 0) {
+        while ($row = mysqli_fetch_assoc($result)) {
+            $category = $row['trait_category'];
+            $is_negative = (int)$row['is_negative'];
+            $type = $is_negative ? 'negative' : 'positive';
+            
+            if (isset($traits_data[$category])) {
+                $traits_data[$category][$type][] = $row['trait_name'];
+            }
+        }
+        mysqli_free_result($result);
+    }
 }
 ?>
 <!DOCTYPE html>
@@ -129,6 +172,20 @@ if ($conn) {
                         </select>
                         <div class="helper-text">Public personality</div>
                     </div>
+                </div>
+                
+                <div class="form-group">
+                    <label for="derangement">Derangement</label>
+                    <select id="derangement" name="derangement" class="derangement-select">
+                        <option value="">Select Derangement...</option>
+                        <?php foreach ($derangements_data as $derangement): ?>
+                            <option value="<?php echo htmlspecialchars($derangement['name'], ENT_QUOTES, 'UTF-8'); ?>" 
+                                    data-description="<?php echo htmlspecialchars($derangement['description'], ENT_QUOTES, 'UTF-8'); ?>">
+                                <?php echo htmlspecialchars($derangement['name'], ENT_QUOTES, 'UTF-8'); ?>
+                            </option>
+                        <?php endforeach; ?>
+                    </select>
+                    <div class="helper-text">Mental or psychological disorder (optional)</div>
                 </div>
                 
                 <div class="form-group">
@@ -231,47 +288,9 @@ if ($conn) {
                     </div>
                     
                     <div class="trait-options" id="physicalOptions">
-                        <!-- Agility & Speed -->
-                        <button type="button" class="btn btn-sm btn-outline-danger" onclick="selectTrait('Physical', 'Agile')">Agile</button>
-                        <button type="button" class="btn btn-sm btn-outline-danger" onclick="selectTrait('Physical', 'Lithe')">Lithe</button>
-                        <button type="button" class="btn btn-sm btn-outline-danger" onclick="selectTrait('Physical', 'Nimble')">Nimble</button>
-                        <button type="button" class="btn btn-sm btn-outline-danger" onclick="selectTrait('Physical', 'Quick')">Quick</button>
-                        <button type="button" class="btn btn-sm btn-outline-danger" onclick="selectTrait('Physical', 'Spry')">Spry</button>
-                        <button type="button" class="btn btn-sm btn-outline-danger" onclick="selectTrait('Physical', 'Graceful')">Graceful</button>
-                        <button type="button" class="btn btn-sm btn-outline-danger" onclick="selectTrait('Physical', 'Slender')">Slender</button>
-                        
-                        <!-- Strength & Endurance -->
-                        <button type="button" class="btn btn-sm btn-outline-danger" onclick="selectTrait('Physical', 'Strong')">Strong</button>
-                        <button type="button" class="btn btn-sm btn-outline-danger" onclick="selectTrait('Physical', 'Hardy')">Hardy</button>
-                        <button type="button" class="btn btn-sm btn-outline-danger" onclick="selectTrait('Physical', 'Tough')">Tough</button>
-                        <button type="button" class="btn btn-sm btn-outline-danger" onclick="selectTrait('Physical', 'Resilient')">Resilient</button>
-                        <button type="button" class="btn btn-sm btn-outline-danger" onclick="selectTrait('Physical', 'Sturdy')">Sturdy</button>
-                        <button type="button" class="btn btn-sm btn-outline-danger" onclick="selectTrait('Physical', 'Vigorous')">Vigorous</button>
-                        <button type="button" class="btn btn-sm btn-outline-danger" onclick="selectTrait('Physical', 'Burly')">Burly</button>
-                        
-                        <!-- Dexterity & Coordination -->
-                        <button type="button" class="btn btn-sm btn-outline-danger" onclick="selectTrait('Physical', 'Coordinated')">Coordinated</button>
-                        <button type="button" class="btn btn-sm btn-outline-danger" onclick="selectTrait('Physical', 'Precise')">Precise</button>
-                        <button type="button" class="btn btn-sm btn-outline-danger" onclick="selectTrait('Physical', 'Steady-handed')">Steady-handed</button>
-                        <button type="button" class="btn btn-sm btn-outline-danger" onclick="selectTrait('Physical', 'Sleek')">Sleek</button>
-                        <button type="button" class="btn btn-sm btn-outline-danger" onclick="selectTrait('Physical', 'Flexible')">Flexible</button>
-                        <button type="button" class="btn btn-sm btn-outline-danger" onclick="selectTrait('Physical', 'Balanced')">Balanced</button>
-                        
-                        <!-- Reflexes & Awareness -->
-                        <button type="button" class="btn btn-sm btn-outline-danger" onclick="selectTrait('Physical', 'Alert')">Alert</button>
-                        <button type="button" class="btn btn-sm btn-outline-danger" onclick="selectTrait('Physical', 'Sharp-eyed')">Sharp-eyed</button>
-                        <button type="button" class="btn btn-sm btn-outline-danger" onclick="selectTrait('Physical', 'Quick-reflexed')">Quick-reflexed</button>
-                        <button type="button" class="btn btn-sm btn-outline-danger" onclick="selectTrait('Physical', 'Perceptive')">Perceptive</button>
-                        <button type="button" class="btn btn-sm btn-outline-danger" onclick="selectTrait('Physical', 'Reactive')">Reactive</button>
-                        <button type="button" class="btn btn-sm btn-outline-danger" onclick="selectTrait('Physical', 'Observant')">Observant</button>
-                        
-                        <!-- Appearance / Presence of Body -->
-                        <button type="button" class="btn btn-sm btn-outline-danger" onclick="selectTrait('Physical', 'Athletic')">Athletic</button>
-                        <button type="button" class="btn btn-sm btn-outline-danger" onclick="selectTrait('Physical', 'Well-built')">Well-built</button>
-                        
-                        <!-- Legacy traits -->
-                        <button type="button" class="btn btn-sm btn-outline-danger" onclick="selectTrait('Physical', 'Fast')">Fast</button>
-                        <button type="button" class="btn btn-sm btn-outline-danger" onclick="selectTrait('Physical', 'Muscular')">Muscular</button>
+                        <?php foreach ($traits_data['Physical']['positive'] as $trait): ?>
+                            <button type="button" class="btn btn-sm btn-outline-danger" onclick="selectTrait('Physical', '<?php echo htmlspecialchars($trait, ENT_QUOTES, 'UTF-8'); ?>')"><?php echo htmlspecialchars($trait, ENT_QUOTES, 'UTF-8'); ?></button>
+                        <?php endforeach; ?>
                     </div>
                     
                     <div class="trait-list" id="physicalTraitList">
@@ -281,9 +300,9 @@ if ($conn) {
                     <div class="negative-traits-section">
                         <h4>Physical Negative Traits (+4 XP each)</h4>
                         <div class="trait-options" id="physicalNegativeOptions">
-                            <button type="button" class="btn btn-sm btn-outline-danger negative" onclick="selectNegativeTrait('Physical', 'Frail')">Frail</button>
-                            <button type="button" class="btn btn-sm btn-outline-danger negative" onclick="selectNegativeTrait('Physical', 'Slow')">Slow</button>
-                            <button type="button" class="btn btn-sm btn-outline-danger negative" onclick="selectNegativeTrait('Physical', 'Weak')">Weak</button>
+                            <?php foreach ($traits_data['Physical']['negative'] as $trait): ?>
+                                <button type="button" class="btn btn-sm btn-outline-danger negative" onclick="selectNegativeTrait('Physical', '<?php echo htmlspecialchars($trait, ENT_QUOTES, 'UTF-8'); ?>')"><?php echo htmlspecialchars($trait, ENT_QUOTES, 'UTF-8'); ?></button>
+                            <?php endforeach; ?>
                         </div>
                         <div class="trait-list" id="physicalNegativeTraitList">
                         </div>
@@ -308,47 +327,9 @@ if ($conn) {
                     </div>
                     
                     <div class="trait-options" id="socialOptions">
-                        <!-- Charm & Charisma -->
-                        <button type="button" class="btn btn-sm btn-outline-success" onclick="selectTrait('Social', 'Charming')">Charming</button>
-                        <button type="button" class="btn btn-sm btn-outline-success" onclick="selectTrait('Social', 'Persuasive')">Persuasive</button>
-                        <button type="button" class="btn btn-sm btn-outline-success" onclick="selectTrait('Social', 'Charismatic')">Charismatic</button>
-                        <button type="button" class="btn btn-sm btn-outline-success" onclick="selectTrait('Social', 'Graceful')">Graceful</button>
-                        <button type="button" class="btn btn-sm btn-outline-success" onclick="selectTrait('Social', 'Poised')">Poised</button>
-                        <button type="button" class="btn btn-sm btn-outline-success" onclick="selectTrait('Social', 'Attractive')">Attractive</button>
-                        <button type="button" class="btn btn-sm btn-outline-success" onclick="selectTrait('Social', 'Handsome')">Handsome</button>
-                        <button type="button" class="btn btn-sm btn-outline-success" onclick="selectTrait('Social', 'Beautiful')">Beautiful</button>
-                        <button type="button" class="btn btn-sm btn-outline-success" onclick="selectTrait('Social', 'Seductive')">Seductive</button>
-                        
-                        <!-- Manipulation & Deception -->
-                        <button type="button" class="btn btn-sm btn-outline-success" onclick="selectTrait('Social', 'Cunning')">Cunning</button>
-                        <button type="button" class="btn btn-sm btn-outline-success" onclick="selectTrait('Social', 'Deceptive')">Deceptive</button>
-                        <button type="button" class="btn btn-sm btn-outline-success" onclick="selectTrait('Social', 'Manipulative')">Manipulative</button>
-                        <button type="button" class="btn btn-sm btn-outline-success" onclick="selectTrait('Social', 'Subtle')">Subtle</button>
-                        <button type="button" class="btn btn-sm btn-outline-success" onclick="selectTrait('Social', 'Diplomatic')">Diplomatic</button>
-                        
-                        <!-- Personality / Presence -->
-                        <button type="button" class="btn btn-sm btn-outline-success" onclick="selectTrait('Social', 'Sociable')">Sociable</button>
-                        <button type="button" class="btn btn-sm btn-outline-success" onclick="selectTrait('Social', 'Friendly')">Friendly</button>
-                        <button type="button" class="btn btn-sm btn-outline-success" onclick="selectTrait('Social', 'Outgoing')">Outgoing</button>
-                        <button type="button" class="btn btn-sm btn-outline-success" onclick="selectTrait('Social', 'Bold')">Bold</button>
-                        <button type="button" class="btn btn-sm btn-outline-success" onclick="selectTrait('Social', 'Confident')">Confident</button>
-                        <button type="button" class="btn btn-sm btn-outline-success" onclick="selectTrait('Social', 'Stubborn')">Stubborn</button>
-                        <button type="button" class="btn btn-sm btn-outline-success" onclick="selectTrait('Social', 'Witty')">Witty</button>
-                        
-                        <!-- Leadership & Influence -->
-                        <button type="button" class="btn btn-sm btn-outline-success" onclick="selectTrait('Social', 'Commanding')">Commanding</button>
-                        <button type="button" class="btn btn-sm btn-outline-success" onclick="selectTrait('Social', 'Inspiring')">Inspiring</button>
-                        <button type="button" class="btn btn-sm btn-outline-success" onclick="selectTrait('Social', 'Assertive')">Assertive</button>
-                        <button type="button" class="btn btn-sm btn-outline-success" onclick="selectTrait('Social', 'Authoritative')">Authoritative</button>
-                        <button type="button" class="btn btn-sm btn-outline-success" onclick="selectTrait('Social', 'Motivating')">Motivating</button>
-                        <button type="button" class="btn btn-sm btn-outline-success" onclick="selectTrait('Social', 'Loyal')">Loyal</button>
-                        
-                        <!-- Legacy traits -->
-                        <button type="button" class="btn btn-sm btn-outline-success" onclick="selectTrait('Social', 'Elegant')">Elegant</button>
-                        <button type="button" class="btn btn-sm btn-outline-success" onclick="selectTrait('Social', 'Expressive')">Expressive</button>
-                        <button type="button" class="btn btn-sm btn-outline-success" onclick="selectTrait('Social', 'Striking')">Striking</button>
-                        <button type="button" class="btn btn-sm btn-outline-success" onclick="selectTrait('Social', 'Imposing')">Imposing</button>
-                        <button type="button" class="btn btn-sm btn-outline-success" onclick="selectTrait('Social', 'Intimidating')">Intimidating</button>
+                        <?php foreach ($traits_data['Social']['positive'] as $trait): ?>
+                            <button type="button" class="btn btn-sm btn-outline-success" onclick="selectTrait('Social', '<?php echo htmlspecialchars($trait, ENT_QUOTES, 'UTF-8'); ?>')"><?php echo htmlspecialchars($trait, ENT_QUOTES, 'UTF-8'); ?></button>
+                        <?php endforeach; ?>
                     </div>
                     
                     <div class="trait-list" id="socialTraitList">
@@ -358,10 +339,9 @@ if ($conn) {
                     <div class="negative-traits-section">
                         <h4>Social Negative Traits (+4 XP each)</h4>
                         <div class="trait-options" id="socialNegativeOptions">
-                            <button type="button" class="btn btn-sm btn-outline-danger negative" onclick="selectNegativeTrait('Social', 'Ugly')">Ugly</button>
-                            <button type="button" class="btn btn-sm btn-outline-danger negative" onclick="selectNegativeTrait('Social', 'Awkward')">Awkward</button>
-                            <button type="button" class="btn btn-sm btn-outline-danger negative" onclick="selectNegativeTrait('Social', 'Shy')">Shy</button>
-                            <button type="button" class="btn btn-sm btn-outline-danger negative" onclick="selectNegativeTrait('Social', 'Rude')">Rude</button>
+                            <?php foreach ($traits_data['Social']['negative'] as $trait): ?>
+                                <button type="button" class="btn btn-sm btn-outline-danger negative" onclick="selectNegativeTrait('Social', '<?php echo htmlspecialchars($trait, ENT_QUOTES, 'UTF-8'); ?>')"><?php echo htmlspecialchars($trait, ENT_QUOTES, 'UTF-8'); ?></button>
+                            <?php endforeach; ?>
                         </div>
                         <div class="trait-list" id="socialNegativeTraitList">
                         </div>
@@ -386,54 +366,9 @@ if ($conn) {
                     </div>
                     
                     <div class="trait-options" id="mentalOptions">
-                        <!-- Intelligence & Knowledge -->
-                        <button type="button" class="btn btn-sm btn-outline-info" onclick="selectTrait('Mental', 'Intelligent')">Intelligent</button>
-                        <button type="button" class="btn btn-sm btn-outline-info" onclick="selectTrait('Mental', 'Clever')">Clever</button>
-                        <button type="button" class="btn btn-sm btn-outline-info" onclick="selectTrait('Mental', 'Learned')">Learned</button>
-                        <button type="button" class="btn btn-sm btn-outline-info" onclick="selectTrait('Mental', 'Analytical')">Analytical</button>
-                        <button type="button" class="btn btn-sm btn-outline-info" onclick="selectTrait('Mental', 'Scholarly')">Scholarly</button>
-                        <button type="button" class="btn btn-sm btn-outline-info" onclick="selectTrait('Mental', 'Logical')">Logical</button>
-                        <button type="button" class="btn btn-sm btn-outline-info" onclick="selectTrait('Mental', 'Resourceful')">Resourceful</button>
-                        
-                        <!-- Perception & Awareness -->
-                        <button type="button" class="btn btn-sm btn-outline-info" onclick="selectTrait('Mental', 'Observant')">Observant</button>
-                        <button type="button" class="btn btn-sm btn-outline-info" onclick="selectTrait('Mental', 'Alert')">Alert</button>
-                        <button type="button" class="btn btn-sm btn-outline-info" onclick="selectTrait('Mental', 'Sharp-eyed')">Sharp-eyed</button>
-                        <button type="button" class="btn btn-sm btn-outline-info" onclick="selectTrait('Mental', 'Attentive')">Attentive</button>
-                        <button type="button" class="btn btn-sm btn-outline-info" onclick="selectTrait('Mental', 'Quick-minded')">Quick-minded</button>
-                        <button type="button" class="btn btn-sm btn-outline-info" onclick="selectTrait('Mental', 'Insightful')">Insightful</button>
-                        <button type="button" class="btn btn-sm btn-outline-info" onclick="selectTrait('Mental', 'Perceptive')">Perceptive</button>
-                        
-                        <!-- Memory & Recall -->
-                        <button type="button" class="btn btn-sm btn-outline-info" onclick="selectTrait('Mental', 'Remembering')">Remembering</button>
-                        <button type="button" class="btn btn-sm btn-outline-info" onclick="selectTrait('Mental', 'Studious')">Studious</button>
-                        <button type="button" class="btn btn-sm btn-outline-info" onclick="selectTrait('Mental', 'Focused')">Focused</button>
-                        <button type="button" class="btn btn-sm btn-outline-info" onclick="selectTrait('Mental', 'Methodical')">Methodical</button>
-                        <button type="button" class="btn btn-sm btn-outline-info" onclick="selectTrait('Mental', 'Precise')">Precise</button>
-                        
-                        <!-- Problem Solving & Planning -->
-                        <button type="button" class="btn btn-sm btn-outline-info" onclick="selectTrait('Mental', 'Strategic')">Strategic</button>
-                        <button type="button" class="btn btn-sm btn-outline-info" onclick="selectTrait('Mental', 'Calculating')">Calculating</button>
-                        <button type="button" class="btn btn-sm btn-outline-info" onclick="selectTrait('Mental', 'Cunning')">Cunning</button>
-                        <button type="button" class="btn btn-sm btn-outline-info" onclick="selectTrait('Mental', 'Patient')">Patient</button>
-                        <button type="button" class="btn btn-sm btn-outline-info" onclick="selectTrait('Mental', 'Determined')">Determined</button>
-                        <button type="button" class="btn btn-sm btn-outline-info" onclick="selectTrait('Mental', 'Adaptive')">Adaptive</button>
-                        
-                        <!-- Personality / Mental Flavor -->
-                        <button type="button" class="btn btn-sm btn-outline-info" onclick="selectTrait('Mental', 'Curious')">Curious</button>
-                        <button type="button" class="btn btn-sm btn-outline-info" onclick="selectTrait('Mental', 'Witty')">Witty</button>
-                        <button type="button" class="btn btn-sm btn-outline-info" onclick="selectTrait('Mental', 'Shrewd')">Shrewd</button>
-                        <button type="button" class="btn btn-sm btn-outline-info" onclick="selectTrait('Mental', 'Eccentric')">Eccentric</button>
-                        <button type="button" class="btn btn-sm btn-outline-info" onclick="selectTrait('Mental', 'Philosophical')">Philosophical</button>
-                        <button type="button" class="btn btn-sm btn-outline-info" onclick="selectTrait('Mental', 'Persistent')">Persistent</button>
-                        
-                        <!-- Legacy traits -->
-                        <button type="button" class="btn btn-sm btn-outline-info" onclick="selectTrait('Mental', 'Calm')">Calm</button>
-                        <button type="button" class="btn btn-sm btn-outline-info" onclick="selectTrait('Mental', 'Creative')">Creative</button>
-                        <button type="button" class="btn btn-sm btn-outline-info" onclick="selectTrait('Mental', 'Dedicated')">Dedicated</button>
-                        <button type="button" class="btn btn-sm btn-outline-info" onclick="selectTrait('Mental', 'Intuitive')">Intuitive</button>
-                        <button type="button" class="btn btn-sm btn-outline-info" onclick="selectTrait('Mental', 'Rational')">Rational</button>
-                        <button type="button" class="btn btn-sm btn-outline-info" onclick="selectTrait('Mental', 'Wise')">Wise</button>
+                        <?php foreach ($traits_data['Mental']['positive'] as $trait): ?>
+                            <button type="button" class="btn btn-sm btn-outline-info" onclick="selectTrait('Mental', '<?php echo htmlspecialchars($trait, ENT_QUOTES, 'UTF-8'); ?>')"><?php echo htmlspecialchars($trait, ENT_QUOTES, 'UTF-8'); ?></button>
+                        <?php endforeach; ?>
                     </div>
                     
                     <div class="trait-list" id="mentalTraitList">
@@ -443,12 +378,9 @@ if ($conn) {
                     <div class="negative-traits-section">
                         <h4>Mental Negative Traits (+4 XP each)</h4>
                         <div class="trait-options" id="mentalNegativeOptions">
-                            <button type="button" class="btn btn-sm btn-outline-danger negative" onclick="selectNegativeTrait('Mental', 'Dull')">Dull</button>
-                            <button type="button" class="btn btn-sm btn-outline-danger negative" onclick="selectNegativeTrait('Mental', 'Scatterbrained')">Scatterbrained</button>
-                            <button type="button" class="btn btn-sm btn-outline-danger negative" onclick="selectNegativeTrait('Mental', 'Absent-minded')">Absent-minded</button>
-                            <button type="button" class="btn btn-sm btn-outline-danger negative" onclick="selectNegativeTrait('Mental', 'Distracted')">Distracted</button>
-                            <button type="button" class="btn btn-sm btn-outline-danger negative" onclick="selectNegativeTrait('Mental', 'Forgetful')">Forgetful</button>
-                            <button type="button" class="btn btn-sm btn-outline-danger negative" onclick="selectNegativeTrait('Mental', 'Rash')">Rash</button>
+                            <?php foreach ($traits_data['Mental']['negative'] as $trait): ?>
+                                <button type="button" class="btn btn-sm btn-outline-danger negative" onclick="selectNegativeTrait('Mental', '<?php echo htmlspecialchars($trait, ENT_QUOTES, 'UTF-8'); ?>')"><?php echo htmlspecialchars($trait, ENT_QUOTES, 'UTF-8'); ?></button>
+                            <?php endforeach; ?>
                         </div>
                         <div class="trait-list" id="mentalNegativeTraitList">
                         </div>
@@ -555,5 +487,81 @@ if ($conn) {
     <script src="js/modules/systems/CashSystem.js"></script>
     <script src="js/modules/main.js"></script>
     <script src="js/lotn_char_create.js"></script>
+    
+    <script>
+    // Initialize Bootstrap popovers for derangement dropdown
+    document.addEventListener('DOMContentLoaded', function() {
+        const derangementSelect = document.getElementById('derangement');
+        if (!derangementSelect) return;
+        
+        // Store derangement descriptions
+        const derangementDescriptions = {};
+        <?php foreach ($derangements_data as $derangement): ?>
+        derangementDescriptions['<?php echo htmlspecialchars($derangement['name'], ENT_QUOTES, 'UTF-8'); ?>'] = <?php echo json_encode($derangement['description']); ?>;
+        <?php endforeach; ?>
+        
+        // Create description display element
+        const descriptionDiv = document.createElement('div');
+        descriptionDiv.className = 'derangement-description mt-2 p-2 bg-light border rounded';
+        descriptionDiv.style.display = 'none';
+        descriptionDiv.style.fontSize = '0.9em';
+        descriptionDiv.style.color = '#666';
+        derangementSelect.parentNode.appendChild(descriptionDiv);
+        
+        // Update description when selection changes
+        function updateDescription() {
+            const selectedValue = derangementSelect.value;
+            if (selectedValue && derangementDescriptions[selectedValue]) {
+                descriptionDiv.innerHTML = '<strong>' + escapeHtml(selectedValue) + ':</strong> ' + escapeHtml(derangementDescriptions[selectedValue]);
+                descriptionDiv.style.display = 'block';
+            } else {
+                descriptionDiv.style.display = 'none';
+            }
+        }
+        
+        derangementSelect.addEventListener('change', updateDescription);
+        
+        // Initialize Bootstrap popover for hover on select element
+        if (typeof bootstrap !== 'undefined' && bootstrap.Popover) {
+            const popover = new bootstrap.Popover(derangementSelect, {
+                trigger: 'hover focus',
+                placement: 'right',
+                html: true,
+                content: function() {
+                    const selectedValue = derangementSelect.value;
+                    if (selectedValue && derangementDescriptions[selectedValue]) {
+                        return '<div class="derangement-popover"><strong>' + 
+                               escapeHtml(selectedValue) + '</strong><br><br>' + 
+                               escapeHtml(derangementDescriptions[selectedValue]) + '</div>';
+                    }
+                    return '<div class="derangement-popover">Hover over or select a derangement to see its description</div>';
+                }
+            });
+            
+            // Update popover when selection changes
+            derangementSelect.addEventListener('change', function() {
+                const selectedValue = this.value;
+                if (selectedValue && derangementDescriptions[selectedValue]) {
+                    popover.setContent({
+                        '.popover-body': '<div class="derangement-popover"><strong>' + 
+                                        escapeHtml(selectedValue) + '</strong><br><br>' + 
+                                        escapeHtml(derangementDescriptions[selectedValue]) + '</div>'
+                    });
+                } else {
+                    popover.setContent({
+                        '.popover-body': '<div class="derangement-popover">Hover over or select a derangement to see its description</div>'
+                    });
+                }
+            });
+        }
+        
+        // Helper function to escape HTML
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+    });
+    </script>
 </body>
 </html>
