@@ -1,6 +1,16 @@
 # Version History
 
-## Current Version: 0.9.49
+## Current Version: 0.9.51
+
+**Date:** 2025-01-30  
+**Type:** Patch (Bug fix: removed duplicate inline onclick handlers from save buttons to prevent double-firing of saveCharacter function)
+
+## Previous Version: 0.9.50
+
+**Date:** 2026-01-16  
+**Type:** Patch (Version sync: updated version.php to match VERSION.md)
+
+## Previous Version: 0.9.49
 
 **Date:** 2026-01-16  
 **Type:** Patch (Wikidot integration: optimized merits/flaws updater with insert capability and performance improvements)

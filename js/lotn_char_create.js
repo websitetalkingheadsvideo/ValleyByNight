@@ -230,8 +230,9 @@ window.adjustVirtue = function adjustVirtue(virtueKey, delta) {
 // ============================================================================
 
 // Simple save function for testing
+let alertShown = false;
 function saveCharacter(isFinalization = false) {
-    console.log('saveCharacter called with isFinalization:', isFinalization);
+    // DON'T reset flag here - that allows duplicate alerts if function is called twice
     
     // Show loading state
     const saveButtons = document.querySelectorAll('.save-btn');
@@ -306,9 +307,17 @@ function saveCharacter(isFinalization = false) {
     const currentState = currentStateSelect ? (currentStateSelect.value || 'active') : 'active';
     const camarillaStatus = camarillaSelect ? (camarillaSelect.value || 'Unknown') : 'Unknown';
     
+    // Check if NPC checkbox is checked - if so, set player_name to "NPC" and pc to 0
+    const npcCheckbox = document.getElementById('npc');
+    const playerNameInput = document.getElementById('playerName');
+    const isNPC = npcCheckbox && npcCheckbox.checked;
+    const playerNameValue = isNPC ? 'NPC' : (playerNameInput ? (playerNameInput.value || '') : '');
+    const pcCheckbox = document.getElementById('pc');
+    const pcValue = isNPC ? 0 : (pcCheckbox && pcCheckbox.checked ? 1 : 0);
+    
     const formData = {
         character_name: document.getElementById('characterName').value || '',
-        player_name: document.getElementById('playerName').value || '',
+        player_name: playerNameValue,
         chronicle: document.getElementById('chronicle').value || 'Valley by Night',
         nature: document.getElementById('nature').value || '',
         demeanor: document.getElementById('demeanor').value || '',
@@ -317,7 +326,7 @@ function saveCharacter(isFinalization = false) {
         clan: document.getElementById('clan').value || '',
         generation: parseInt(document.getElementById('generation').value) || 13,
         sire: document.getElementById('sire').value || '',
-        pc: document.getElementById('pc').checked ? 1 : 0,
+        pc: pcValue,
         biography: '', // Field doesn't exist in basic tab
         equipment: '', // Field doesn't exist in basic tab
         total_xp: 30, // Default value
@@ -369,41 +378,43 @@ function saveCharacter(isFinalization = false) {
         try {
             const jsonData = JSON.parse(data);
             if (jsonData.success) {
-                console.log('✅ Character saved successfully! Character ID:', jsonData.character_id);
+                // If in iframe, send postMessage and return - NO ALERTS EVER
+                if (window.parent && window.parent !== window) {
+                    window.parent.postMessage({
+                        type: 'characterSaved',
+                        characterId: jsonData.character_id
+                    }, '*');
+                    return; // EXIT IMMEDIATELY - no alerts
+                }
                 
-                // Check if we're in a modal context
-                const urlParams = new URLSearchParams(window.location.search);
-                const isModal = urlParams.get('modal') === '1';
-                
-                if (isModal) {
-                    // We're in a modal - notify parent window to close modal and refresh
-                    if (window.parent && window.parent !== window) {
-                        // Send message to parent to close modal
-                        window.parent.postMessage({
-                            type: 'characterSaved',
-                            characterId: jsonData.character_id
-                        }, '*');
-                        
-                        // Show success message
-                        alert('✅ Character saved successfully!');
-                    } else {
-                        alert('✅ Character saved successfully!');
-                    }
-                } else {
-                    // Not in modal - show normal success message
+                // Not in iframe - show alert ONCE (only if flag not set)
+                if (!alertShown) {
+                    alertShown = true;
                     alert('✅ Character saved successfully!');
                 }
             } else {
-                alert('❌ Save failed: ' + jsonData.message);
+                // Only show error if NOT in iframe and not already shown
+                if (!(window.parent && window.parent !== window) && !alertShown) {
+                    alertShown = true;
+                    alert('❌ Save failed: ' + jsonData.message);
+                }
             }
         } catch (e) {
             console.error('Invalid JSON response:', data);
-            alert('❌ Invalid response from server: ' + data.substring(0, 200));
+            // Only show error if NOT in iframe and not already shown
+            if (!(window.parent && window.parent !== window) && !alertShown) {
+                alertShown = true;
+                alert('❌ Invalid response from server: ' + data.substring(0, 200));
+            }
         }
     })
     .catch(error => {
         console.error('Error:', error);
-        alert('❌ Error: ' + error.message);
+        // Only show error if NOT in iframe and not already shown
+        if (!(window.parent && window.parent !== window) && !alertShown) {
+            alertShown = true;
+            alert('❌ Error: ' + error.message);
+        }
     })
     .finally(() => {
         // Reset button state
@@ -413,6 +424,8 @@ function saveCharacter(isFinalization = false) {
                 btn.innerHTML = btn.dataset.originalLabel;
             }
         });
+        // Reset alert flag AFTER save completes (with delay to prevent rapid duplicate calls)
+        setTimeout(() => { alertShown = false; }, 500);
     });
 }
 
@@ -1053,6 +1066,64 @@ async function loadCharacterNames() {
 document.addEventListener('DOMContentLoaded', function() {
     // Initialize virtue sync
     enqueueVirtueSync();
+    
+    // Setup NPC checkbox - when checked, set player name field to "NPC" and disable it
+    const npcCheckbox = document.getElementById('npc');
+    const playerNameInput = document.getElementById('playerName');
+    const playerNameRequired = document.getElementById('playerNameRequired');
+    
+    // Function to update NPC state based on checkbox and player name value
+    function updateNPCState() {
+        if (!npcCheckbox || !playerNameInput) return;
+        
+        const isNPC = playerNameInput.value === 'NPC';
+        if (isNPC) {
+            npcCheckbox.checked = true;
+            playerNameInput.disabled = true;
+            playerNameInput.removeAttribute('required');
+            if (playerNameRequired) playerNameRequired.style.display = 'none';
+        }
+    }
+    
+    if (npcCheckbox && playerNameInput) {
+        npcCheckbox.addEventListener('change', function() {
+            if (this.checked) {
+                playerNameInput.value = 'NPC';
+                playerNameInput.disabled = true;
+                playerNameInput.removeAttribute('required');
+                if (playerNameRequired) playerNameRequired.style.display = 'none';
+            } else {
+                playerNameInput.disabled = false;
+                playerNameInput.setAttribute('required', 'required');
+                if (playerNameRequired) playerNameRequired.style.display = 'inline';
+                if (playerNameInput.value === 'NPC') {
+                    playerNameInput.value = '';
+                }
+            }
+        });
+        
+        // Watch for player name changes to update NPC checkbox
+        playerNameInput.addEventListener('input', function() {
+            if (this.value === 'NPC' && !npcCheckbox.checked) {
+                npcCheckbox.checked = true;
+                this.disabled = true;
+                this.removeAttribute('required');
+                if (playerNameRequired) playerNameRequired.style.display = 'none';
+            } else if (this.value !== 'NPC' && npcCheckbox.checked) {
+                npcCheckbox.checked = false;
+                this.disabled = false;
+                this.setAttribute('required', 'required');
+                if (playerNameRequired) playerNameRequired.style.display = 'inline';
+            }
+        });
+        
+        // Initialize: if player_name is "NPC" on load, check NPC checkbox
+        // Also check periodically in case form is populated after DOMContentLoaded
+        updateNPCState();
+        setTimeout(updateNPCState, 500);
+        setTimeout(updateNPCState, 1000);
+        setTimeout(updateNPCState, 2000);
+    }
     
     // Setup save button listeners
     console.log('Setting up save button listeners...');
