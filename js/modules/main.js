@@ -305,12 +305,21 @@ class CharacterCreationApp {
     initializeBasicInfoTab() {
         const state = this.modules.stateManager.getState();
         
+        // Ensure save buttons are always enabled - no validation
+        const checkRequiredFields = () => {
+            const saveButtons = document.querySelectorAll('.save-btn');
+            saveButtons.forEach(btn => {
+                btn.disabled = false;
+            });
+        };
+        
         // Set up form fields
         const characterNameInput = this.modules.uiManager.getElement('#characterName');
         if (characterNameInput) {
             characterNameInput.value = state.characterName || '';
             characterNameInput.addEventListener('input', (e) => {
                 this.modules.stateManager.setStateProperty('characterName', e.target.value);
+                checkRequiredFields();
             });
         }
         
@@ -319,6 +328,15 @@ class CharacterCreationApp {
             playerNameInput.value = state.playerName || '';
             playerNameInput.addEventListener('input', (e) => {
                 this.modules.stateManager.setStateProperty('playerName', e.target.value);
+                checkRequiredFields();
+            });
+        }
+        
+        // Also listen to NPC checkbox changes
+        const npcCheckbox = document.getElementById('npc');
+        if (npcCheckbox) {
+            npcCheckbox.addEventListener('change', () => {
+                checkRequiredFields();
             });
         }
         
@@ -343,6 +361,7 @@ class CharacterCreationApp {
             clanSelect.value = state.clan || '';
             clanSelect.addEventListener('change', (e) => {
                 this.modules.stateManager.setStateProperty('clan', e.target.value);
+                checkRequiredFields();
             });
         }
         
@@ -352,8 +371,31 @@ class CharacterCreationApp {
             generationInput.addEventListener('change', (e) => {
                 const generation = parseInt(e.target.value) || 13;
                 this.modules.stateManager.setStateProperty('generation', generation);
+                checkRequiredFields();
             });
         }
+        
+        // Check nature and demeanor fields
+        const natureSelect = this.modules.uiManager.getElement('#nature');
+        if (natureSelect) {
+            natureSelect.value = state.nature || '';
+            natureSelect.addEventListener('change', (e) => {
+                this.modules.stateManager.setStateProperty('nature', e.target.value);
+                checkRequiredFields();
+            });
+        }
+        
+        const demeanorSelect = this.modules.uiManager.getElement('#demeanor');
+        if (demeanorSelect) {
+            demeanorSelect.value = state.demeanor || '';
+            demeanorSelect.addEventListener('change', (e) => {
+                this.modules.stateManager.setStateProperty('demeanor', e.target.value);
+                checkRequiredFields();
+            });
+        }
+        
+        // Initial check when form is loaded
+        setTimeout(checkRequiredFields, 100);
     }
     
     /**
@@ -652,10 +694,32 @@ class CharacterCreationApp {
         
         // Set PC checkbox based on is_pc field or player_name
         const isPC = character.is_pc !== undefined ? character.is_pc : (character.player_name !== 'NPC');
+        const isNPC = character.player_name === 'NPC';
+        
         const pcCheckbox = document.querySelector('#pc');
         if (pcCheckbox) {
             pcCheckbox.checked = isPC;
             pcCheckbox.dispatchEvent(new Event('change', { bubbles: true }));
+        }
+        
+        // Set NPC checkbox and disable player name if NPC
+        const npcCheckbox = document.querySelector('#npc');
+        const playerNameInput = document.querySelector('#playerName');
+        const playerNameRequired = document.querySelector('#playerNameRequired');
+        if (npcCheckbox && playerNameInput) {
+            if (isNPC) {
+                npcCheckbox.checked = true;
+                playerNameInput.value = 'NPC';
+                playerNameInput.disabled = true;
+                playerNameInput.removeAttribute('required');
+                if (playerNameRequired) playerNameRequired.style.display = 'none';
+            } else {
+                npcCheckbox.checked = false;
+                playerNameInput.disabled = false;
+                playerNameInput.setAttribute('required', 'required');
+                if (playerNameRequired) playerNameRequired.style.display = 'inline';
+            }
+            // Don't dispatch change event as it might interfere with other handlers
         }
         
         // Trigger form validation after populating data
@@ -669,6 +733,16 @@ class CharacterCreationApp {
                     field.dispatchEvent(new Event('change', { bubbles: true }));
                 }
             });
+            
+            // Ensure save buttons are always enabled - no validation
+            const checkRequiredFields = () => {
+                const saveButtons = document.querySelectorAll('.save-btn');
+                saveButtons.forEach(btn => {
+                    btn.disabled = false;
+                });
+            };
+            
+            checkRequiredFields();
         }, 100);
         
         // Populate traits - ensure state is set and displays are updated

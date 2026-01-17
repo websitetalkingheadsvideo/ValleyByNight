@@ -104,6 +104,7 @@ document.addEventListener('DOMContentLoaded', function() {
     initializeClanFilter();
     initializeSearch();
     initializeSorting();
+    initializeSortByDateButton();
     applySavedSortState();
     initializeDeleteButtons();
     initializeViewButtons();
@@ -222,6 +223,39 @@ function applyFilters(resetPage = true) {
     updatePagination(visibleRows);
 }
 
+// Sort by date button functionality
+function initializeSortByDateButton() {
+    const sortByDateBtn = document.getElementById('sortByDateBtn');
+    if (!sortByDateBtn) return;
+    
+    let sortDirection = 'desc'; // Start with newest first
+    
+    sortByDateBtn.addEventListener('click', function() {
+        // Toggle direction
+        sortDirection = sortDirection === 'desc' ? 'asc' : 'desc';
+        
+        // Update button text
+        sortByDateBtn.textContent = sortDirection === 'desc' ? '📅 Newest First' : '📅 Oldest First';
+        
+        // Update current sort state
+        currentSort = {
+            column: 'created_at',
+            direction: sortDirection
+        };
+        
+        // Clear other column sort indicators
+        const headers = document.querySelectorAll('.character-table th[data-sort]');
+        headers.forEach(h => h.classList.remove('sorted-asc', 'sorted-desc'));
+        
+        // Sort table
+        sortTable('created_at', sortDirection);
+        persistSortState();
+    });
+    
+    // Set initial button text
+    sortByDateBtn.textContent = '📅 Newest First';
+}
+
 // Sorting functionality
 function initializeSorting() {
     const headers = document.querySelectorAll('.character-table th[data-sort]');
@@ -287,6 +321,13 @@ function sortTable(column, direction) {
             case 'owner':
                 aVal = (a.dataset.owner || '').toLowerCase();
                 bVal = (b.dataset.owner || '').toLowerCase();
+                break;
+            case 'created_at':
+                // Sort by date (ISO format: YYYY-MM-DD HH:MM:SS)
+                const aDate = a.dataset.created || '';
+                const bDate = b.dataset.created || '';
+                aVal = aDate ? new Date(aDate).getTime() : 0;
+                bVal = bDate ? new Date(bDate).getTime() : 0;
                 break;
             default:
                 aVal = (a.dataset.name || '').toLowerCase();

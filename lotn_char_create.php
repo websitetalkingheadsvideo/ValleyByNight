@@ -130,7 +130,10 @@ if ($conn) {
         <form id="characterForm">
             <!-- Tab 1: Basic Info -->
             <div class="tab-content active" id="tab0">
-                <h2 style="color: #8b0000; margin-bottom: 25px;">Basic Information</h2>
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 25px;">
+                    <h2 style="color: #8b0000; margin: 0;">Basic Information</h2>
+                    <button type="button" class="save-btn btn btn-primary">💾 Save Character</button>
+                </div>
                 
                 <div class="form-row">
                     <div class="form-group">
@@ -139,8 +142,14 @@ if ($conn) {
                     </div>
                     
                     <div class="form-group">
-                        <label for="playerName">Player Name *</label>
-                        <input type="text" id="playerName" name="playerName" required>
+                        <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+                            <label for="playerName" style="margin: 0; white-space: nowrap;">Player Name <span id="playerNameRequired" class="required-asterisk">*</span></label>
+                            <input type="text" id="playerName" name="playerName" required style="flex: 0 1 auto;">
+                            <div style="display: flex; align-items: center; gap: 5px; white-space: nowrap;">
+                                <input type="checkbox" id="npc" name="npc">
+                                <label for="npc" style="margin: 0;">NPC</label>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 
@@ -248,7 +257,7 @@ if ($conn) {
                 
                 <div class="button-group">
                     <button type="button" class="btn btn-secondary" disabled>← Previous</button>
-                    <button type="button" class="save-btn btn btn-primary" onclick="saveCharacter()" disabled>💾 Save Character</button>
+                    <button type="button" class="save-btn btn btn-primary">💾 Save Character</button>
                     <button type="button" class="btn btn-secondary" onclick="showTab(1)">Next →</button>
                 </div>
             </div>
@@ -389,7 +398,7 @@ if ($conn) {
                 
                 <div class="button-group">
                     <button type="button" class="btn btn-secondary" onclick="showTab(0)">← Previous</button>
-                    <button type="button" class="save-btn btn btn-primary" onclick="saveCharacter()" disabled>💾 Save Character</button>
+                    <button type="button" class="save-btn btn btn-primary">💾 Save Character</button>
                     <button type="button" class="btn btn-secondary" onclick="showTab(2)">Next →</button>
                 </div>
             </div>
@@ -401,7 +410,7 @@ if ($conn) {
                 
                 <div class="button-group">
                     <button type="button" class="btn btn-secondary" onclick="showTab(1)">← Previous</button>
-                    <button type="button" class="save-btn btn btn-primary" onclick="saveCharacter()" disabled>💾 Save Character</button>
+                    <button type="button" class="save-btn btn btn-primary">💾 Save Character</button>
                     <button type="button" class="btn btn-secondary" onclick="showTab(3)">Next →</button>
                 </div>
             </div>
@@ -413,7 +422,7 @@ if ($conn) {
                 
                 <div class="button-group">
                     <button type="button" class="btn btn-secondary" onclick="showTab(2)">← Previous</button>
-                    <button type="button" class="save-btn btn btn-primary" onclick="saveCharacter()" disabled>💾 Save Character</button>
+                    <button type="button" class="save-btn btn btn-primary">💾 Save Character</button>
                     <button type="button" class="btn btn-secondary" onclick="showTab(4)">Next →</button>
                 </div>
             </div>
@@ -425,7 +434,7 @@ if ($conn) {
                 
                 <div class="button-group">
                     <button type="button" class="btn btn-secondary" onclick="showTab(3)">← Previous</button>
-                    <button type="button" class="save-btn btn btn-primary" onclick="saveCharacter()" disabled>💾 Save Character</button>
+                    <button type="button" class="save-btn btn btn-primary">💾 Save Character</button>
                     <button type="button" class="btn btn-secondary" onclick="showTab(5)">Next →</button>
                 </div>
             </div>
@@ -437,7 +446,7 @@ if ($conn) {
                 
                 <div class="button-group">
                     <button type="button" class="btn btn-secondary" onclick="showTab(4)">← Previous</button>
-                    <button type="button" class="save-btn btn btn-primary" onclick="saveCharacter()" disabled>💾 Save Character</button>
+                    <button type="button" class="save-btn btn btn-primary">💾 Save Character</button>
                     <button type="button" class="btn btn-secondary" onclick="showTab(6)">Next →</button>
                 </div>
             </div>
@@ -449,7 +458,7 @@ if ($conn) {
                 
                 <div class="button-group">
                     <button type="button" class="btn btn-secondary" onclick="showTab(5)">← Previous</button>
-                    <button type="button" class="save-btn btn btn-primary" onclick="saveCharacter()" disabled>💾 Save Character</button>
+                    <button type="button" class="save-btn btn btn-primary">💾 Save Character</button>
                     <button type="button" class="btn btn-secondary" onclick="showTab(7)">Next →</button>
                 </div>
             </div>
@@ -461,7 +470,7 @@ if ($conn) {
                 
                 <div class="button-group">
                     <button type="button" class="btn btn-secondary" onclick="showTab(6)">← Previous</button>
-                    <button type="button" class="save-btn btn btn-primary" onclick="saveCharacter()" disabled>💾 Save Character</button>
+                    <button type="button" class="save-btn btn btn-primary">💾 Save Character</button>
                     <button type="button" class="btn btn-secondary" disabled>Next →</button>
                 </div>
             </div>

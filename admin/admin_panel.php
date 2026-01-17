@@ -258,6 +258,11 @@ function render_clan_badge(string $clan): string {
                 <option value="100">100</option>
             </select>
         </div>
+        <div class="sort-date-control col-12 col-md-auto d-flex align-items-center gap-2">
+            <button type="button" id="sortByDateBtn" class="btn btn-outline-danger btn-sm">
+                📅 Sort by Date
+            </button>
+        </div>
     </div>
 
     <!-- Character Table -->
@@ -280,7 +285,7 @@ function render_clan_badge(string $clan): string {
                     "SELECT c.*, u.username as owner_username
                      FROM characters c 
                      LEFT JOIN users u ON c.user_id = u.id
-                     ORDER BY c.id DESC"
+                     ORDER BY c.created_at DESC, c.id DESC"
                 );
                 $currentAdminUrl = $_SERVER['REQUEST_URI'] ?? '/admin/admin_panel.php';
                 $encodedReturnUrl = rawurlencode($currentAdminUrl);
@@ -316,7 +321,8 @@ function render_clan_badge(string $clan): string {
                         data-generation="<?php echo htmlspecialchars($generation); ?>"
                         data-status="<?php echo htmlspecialchars($status); ?>"
                         data-camarilla="<?php echo htmlspecialchars($camarilla); ?>"
-                        data-owner="<?php echo htmlspecialchars($owner); ?>">
+                        data-owner="<?php echo htmlspecialchars($owner); ?>"
+                        data-created="<?php echo htmlspecialchars($char['created_at'] ?? ''); ?>">
                         <td class="character-cell align-top text-light">
                             <strong><?php echo htmlspecialchars($char['character_name']); ?></strong>
                         </td>
