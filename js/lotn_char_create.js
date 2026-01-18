@@ -29,6 +29,99 @@ const MORALITY_STATE_LABELS = {
     0: 'Lost'
 };
 
+// ============================================================================
+// UTILITY FUNCTIONS
+// ============================================================================
+
+/**
+ * Get element IDs for a virtue key
+ * @param {string} virtueKey - The virtue key ('Conscience' or 'SelfControl')
+ * @returns {Object} Object containing all element IDs for the virtue
+ */
+function getVirtueElementIds(virtueKey) {
+    if (virtueKey === 'Conscience') {
+        return {
+            value: 'conscienceValue',
+            progress: 'conscienceProgress',
+            markers: 'conscienceMarkers',
+            minus: 'conscienceMinus',
+            plus: 'consciencePlus'
+        };
+    } else {
+        return {
+            value: 'selfControlValue',
+            progress: 'selfControlProgress',
+            markers: 'selfControlMarkers',
+            minus: 'selfControlMinus',
+            plus: 'selfControlPlus'
+        };
+    }
+}
+
+/**
+ * Set button state (disabled/enabled and label)
+ * @param {HTMLElement|string} button - Button element or element ID
+ * @param {boolean} disabled - Whether the button should be disabled
+ * @param {string|null} label - Optional label to set (preserves existing if null)
+ */
+function setButtonState(button, disabled, label = null) {
+    const buttonEl = typeof button === 'string' ? document.getElementById(button) : button;
+    if (!buttonEl) return;
+    
+    buttonEl.disabled = disabled;
+    if (label !== null) {
+        buttonEl.innerHTML = label;
+    }
+}
+
+/**
+ * Show alert with duplicate prevention (only for non-iframe contexts)
+ * Note: Iframe success cases are handled separately with postMessage
+ * @param {string} message - Alert message to display
+ * @param {boolean} isError - Whether this is an error message (for potential future use)
+ */
+let alertShown = false;
+function showAlert(message, isError = false) {
+    // Only show alert if NOT in iframe and flag not already set
+    if (!(window.parent && window.parent !== window) && !alertShown) {
+        alertShown = true;
+        alert(message);
+        // Reset flag after delay to prevent rapid duplicate calls
+        setTimeout(() => { alertShown = false; }, 500);
+    }
+}
+
+/**
+ * Calculate popover position with viewport guards
+ * @param {DOMRect} buttonRect - Button bounding rectangle
+ * @param {DOMRect} popoverRect - Popover bounding rectangle
+ * @param {number} margin - Margin in pixels
+ * @returns {Object} Object with left and top positions
+ */
+function calculatePopoverPosition(buttonRect, popoverRect, margin = 12) {
+    const vpW = window.innerWidth;
+    const vpH = window.innerHeight;
+    
+    // Horizontal placement: prefer right side, fall back to left if overflow
+    let left = buttonRect.right + margin;
+    if (left + popoverRect.width > vpW - margin) {
+        left = buttonRect.left - popoverRect.width - margin;
+    }
+    if (left < margin) {
+        left = margin;
+    }
+    
+    // Vertical placement: center to button, clamp to viewport
+    let top = buttonRect.top + (buttonRect.height - popoverRect.height) / 2;
+    if (top < margin) {
+        top = margin;
+    } else if (top + popoverRect.height > vpH - margin) {
+        top = Math.max(margin, vpH - popoverRect.height - margin);
+    }
+    
+    return { left, top };
+}
+
 let hasVirtueSubscriptions = false;
 
 function normalizeVirtueKey(rawKey) {
@@ -67,18 +160,20 @@ function getVirtuesFromState() {
 }
 
 function updateVirtueValueDisplay(virtueKey, level) {
-    const valueElement = document.getElementById(virtueKey === 'Conscience' ? 'conscienceValue' : 'selfControlValue');
+    const ids = getVirtueElementIds(virtueKey);
+    
+    const valueElement = document.getElementById(ids.value);
     if (valueElement) {
         valueElement.textContent = level.toString();
     }
 
-    const progressElement = document.getElementById(virtueKey === 'Conscience' ? 'conscienceProgress' : 'selfControlProgress');
+    const progressElement = document.getElementById(ids.progress);
     if (progressElement) {
         const clampedLevel = Math.max(1, Math.min(5, level));
         progressElement.style.width = `${(clampedLevel / 5) * 100}%`;
     }
 
-    const markersContainer = document.getElementById(virtueKey === 'Conscience' ? 'conscienceMarkers' : 'selfControlMarkers');
+    const markersContainer = document.getElementById(ids.markers);
     if (markersContainer && markersContainer.children.length === 5) {
         Array.from(markersContainer.children).forEach((marker, idx) => {
             if (idx < level) {
@@ -91,15 +186,8 @@ function updateVirtueValueDisplay(virtueKey, level) {
         });
     }
 
-    const minusBtn = document.getElementById(virtueKey === 'Conscience' ? 'conscienceMinus' : 'selfControlMinus');
-    if (minusBtn) {
-        minusBtn.disabled = level <= 1;
-    }
-
-    const plusBtn = document.getElementById(virtueKey === 'Conscience' ? 'consciencePlus' : 'selfControlPlus');
-    if (plusBtn) {
-        plusBtn.disabled = level >= 5;
-    }
+    setButtonState(ids.minus, level <= 1);
+    setButtonState(ids.plus, level >= 5);
 }
 
 function updateVirtueSummary(virtues) {
@@ -188,6 +276,11 @@ function enqueueVirtueSync(attempt = 0) {
     }
 }
 
+/**
+ * Adjust a virtue value (Conscience or SelfControl)
+ * @param {string} virtueKey - The virtue to adjust ('conscience' or 'selfcontrol')
+ * @param {number} delta - Amount to adjust by (typically -1 or 1)
+ */
 window.adjustVirtue = function adjustVirtue(virtueKey, delta) {
     const stateManager = getStateManager();
     if (!stateManager) {
@@ -229,79 +322,70 @@ window.adjustVirtue = function adjustVirtue(virtueKey, delta) {
 // CHARACTER SAVE FUNCTIONALITY
 // ============================================================================
 
-// Simple save function for testing
-let alertShown = false;
-function saveCharacter(isFinalization = false) {
-    // DON'T reset flag here - that allows duplicate alerts if function is called twice
+/**
+ * Sync abilities from DOM to state if state abilities are empty but DOM has abilities
+ * @returns {Object|null} Updated state object or null if no sync was needed
+ */
+function syncAbilitiesFromDOM() {
+    const state = window.characterCreationApp ? window.characterCreationApp.modules.stateManager.getState() : null;
     
-    // Show loading state
-    const saveButtons = document.querySelectorAll('.save-btn');
-    saveButtons.forEach(btn => {
-        if (!btn.dataset.originalLabel) {
-            btn.dataset.originalLabel = btn.innerHTML;
-        }
-        btn.disabled = true;
-        btn.innerHTML = isFinalization ? '🎯 Finalizing...' : '💾 Saving...';
-    });
-    
-    // Collect form data
-    // Extract id from hidden field first, fallback to URL param
-    const idEl = document.getElementById('characterId');
-    const urlParams = new URLSearchParams(window.location.search);
-    const idFromHidden = idEl && idEl.value ? parseInt(idEl.value, 10) : null;
-    const idFromUrl = urlParams.get('id') ? parseInt(urlParams.get('id'), 10) : null;
-    const effectiveId = idFromHidden || idFromUrl || null;
-
-    // Extract imagePath from hidden
-    const imgEl = document.getElementById('imagePath');
-    const imagePath = imgEl && imgEl.value ? imgEl.value : undefined;
-
-    // Collect state from CharacterCreationApp if available, otherwise use defaults
-    let state = window.characterCreationApp ? window.characterCreationApp.modules.stateManager.getState() : null;
-    
-    // Sync abilities from DOM to state if state abilities are empty but DOM has abilities
-    if (state && window.characterCreationApp && window.characterCreationApp.modules.abilitySystem) {
-        const stateAbilities = state.abilities || {};
-        const hasStateAbilities = Object.values(stateAbilities).some(arr => Array.isArray(arr) && arr.length > 0);
-        
-        if (!hasStateAbilities) {
-            // Read from DOM and sync to state
-            const abilitiesFromDOM = { Physical: [], Social: [], Mental: [], Optional: [] };
-            const categories = ['Physical', 'Social', 'Mental', 'Optional'];
-            
-            categories.forEach(category => {
-                const listElement = document.getElementById(category.toLowerCase() + 'AbilitiesList');
-                if (listElement) {
-                    const selectedAbilities = listElement.querySelectorAll('.selected-ability');
-                    selectedAbilities.forEach(abilityEl => {
-                        const abilityNameEl = abilityEl.querySelector('.ability-name');
-                        if (abilityNameEl) {
-                            let abilityName = abilityNameEl.textContent.trim();
-                            // Parse count from "AbilityName (2)" format
-                            const countMatch = abilityName.match(/^(.+?)\s*\((\d+)\)$/);
-                            if (countMatch) {
-                                const name = countMatch[1].trim();
-                                const count = parseInt(countMatch[2], 10);
-                                for (let i = 0; i < count; i++) {
-                                    abilitiesFromDOM[category].push(name);
-                                }
-                            } else {
-                                abilitiesFromDOM[category].push(abilityName);
-                            }
-                        }
-                    });
-                }
-            });
-            
-            // Update state with DOM abilities
-            const hasDOMAbilities = Object.values(abilitiesFromDOM).some(arr => Array.isArray(arr) && arr.length > 0);
-            if (hasDOMAbilities) {
-                window.characterCreationApp.modules.stateManager.setState({ abilities: abilitiesFromDOM });
-                state = window.characterCreationApp.modules.stateManager.getState();
-            }
-        }
+    if (!state || !window.characterCreationApp || !window.characterCreationApp.modules.abilitySystem) {
+        return null;
     }
     
+    const stateAbilities = state.abilities || {};
+    const hasStateAbilities = Object.values(stateAbilities).some(arr => Array.isArray(arr) && arr.length > 0);
+    
+    if (hasStateAbilities) {
+        return null; // State already has abilities, no sync needed
+    }
+    
+    // Read from DOM and sync to state
+    const abilitiesFromDOM = { Physical: [], Social: [], Mental: [], Optional: [] };
+    const categories = ['Physical', 'Social', 'Mental', 'Optional'];
+    
+    categories.forEach(category => {
+        const listElement = document.getElementById(category.toLowerCase() + 'AbilitiesList');
+        if (listElement) {
+            const selectedAbilities = listElement.querySelectorAll('.selected-ability');
+            selectedAbilities.forEach(abilityEl => {
+                const abilityNameEl = abilityEl.querySelector('.ability-name');
+                if (abilityNameEl) {
+                    let abilityName = abilityNameEl.textContent.trim();
+                    // Parse count from "AbilityName (2)" format
+                    const countMatch = abilityName.match(/^(.+?)\s*\((\d+)\)$/);
+                    if (countMatch) {
+                        const name = countMatch[1].trim();
+                        const count = parseInt(countMatch[2], 10);
+                        for (let i = 0; i < count; i++) {
+                            abilitiesFromDOM[category].push(name);
+                        }
+                    } else {
+                        abilitiesFromDOM[category].push(abilityName);
+                    }
+                }
+            });
+        }
+    });
+    
+    // Update state with DOM abilities if any found
+    const hasDOMAbilities = Object.values(abilitiesFromDOM).some(arr => Array.isArray(arr) && arr.length > 0);
+    if (hasDOMAbilities) {
+        window.characterCreationApp.modules.stateManager.setState({ abilities: abilitiesFromDOM });
+        return window.characterCreationApp.modules.stateManager.getState();
+    }
+    
+    return null;
+}
+
+/**
+ * Collect form data for character save
+ * @param {Object} state - Current character state from StateManager
+ * @param {number|null} effectiveId - Character ID (from hidden field or URL)
+ * @param {string|undefined} imagePath - Character image path
+ * @returns {Object} Form data object ready for save
+ */
+function collectFormData(state, effectiveId, imagePath) {
     const currentStateSelect = document.getElementById('currentState');
     const camarillaSelect = document.getElementById('camarillaStatus');
     const currentState = currentStateSelect ? (currentStateSelect.value || 'active') : 'active';
@@ -315,7 +399,7 @@ function saveCharacter(isFinalization = false) {
     const pcCheckbox = document.getElementById('pc');
     const pcValue = isNPC ? 0 : (pcCheckbox && pcCheckbox.checked ? 1 : 0);
     
-    const formData = {
+    return {
         character_name: document.getElementById('characterName').value || '',
         player_name: playerNameValue,
         chronicle: document.getElementById('chronicle').value || 'Valley by Night',
@@ -358,6 +442,75 @@ function saveCharacter(isFinalization = false) {
         ...(effectiveId ? { id: effectiveId } : {}),
         ...(imagePath ? { imagePath } : {})
     };
+}
+
+/**
+ * Handle save response with iframe detection and alert management
+ * @param {string} data - Raw response text from server
+ */
+function handleSaveResponse(data) {
+    console.log('Response data:', data);
+    try {
+        const jsonData = JSON.parse(data);
+        if (jsonData.success) {
+            // If in iframe, send postMessage and return - NO ALERTS EVER
+            if (window.parent && window.parent !== window) {
+                window.parent.postMessage({
+                    type: 'characterSaved',
+                    characterId: jsonData.character_id
+                }, '*');
+                return; // EXIT IMMEDIATELY - no alerts
+            }
+            
+            showAlert('✅ Character saved successfully!', false);
+        } else {
+            showAlert('❌ Save failed: ' + jsonData.message, true);
+        }
+    } catch (e) {
+        console.error('Invalid JSON response:', data);
+        showAlert('❌ Invalid response from server: ' + data.substring(0, 200), true);
+    }
+}
+
+/**
+ * Save character data to server
+ * @param {boolean} isFinalization - Whether this is a finalization save (affects button label)
+ */
+function saveCharacter(isFinalization = false) {
+    // Show loading state
+    const saveButtons = document.querySelectorAll('.save-btn');
+    saveButtons.forEach(btn => {
+        if (!btn.dataset.originalLabel) {
+            btn.dataset.originalLabel = btn.innerHTML;
+        }
+        btn.disabled = true;
+        btn.innerHTML = isFinalization ? '🎯 Finalizing...' : '💾 Saving...';
+    });
+    
+    // Extract id from hidden field first, fallback to URL param
+    const idEl = document.getElementById('characterId');
+    const urlParams = new URLSearchParams(window.location.search);
+    const idFromHidden = idEl && idEl.value ? parseInt(idEl.value, 10) : null;
+    const idFromUrl = urlParams.get('id') ? parseInt(urlParams.get('id'), 10) : null;
+    const effectiveId = idFromHidden || idFromUrl || null;
+
+    // Extract imagePath from hidden
+    const imgEl = document.getElementById('imagePath');
+    const imagePath = imgEl && imgEl.value ? imgEl.value : undefined;
+
+    // Sync abilities from DOM to state if needed
+    const syncedState = syncAbilitiesFromDOM();
+    
+    // Collect state from CharacterCreationApp if available, otherwise use defaults
+    let state = window.characterCreationApp ? window.characterCreationApp.modules.stateManager.getState() : null;
+    
+    // Use synced state if available
+    if (syncedState) {
+        state = syncedState;
+    }
+    
+    // Collect form data
+    const formData = collectFormData(state, effectiveId, imagePath);
     
     console.log('Sending data:', formData);
     console.log('Abilities being sent:', formData.abilities);
@@ -374,47 +527,11 @@ function saveCharacter(isFinalization = false) {
         return response.text();
     })
     .then(data => {
-        console.log('Response data:', data);
-        try {
-            const jsonData = JSON.parse(data);
-            if (jsonData.success) {
-                // If in iframe, send postMessage and return - NO ALERTS EVER
-                if (window.parent && window.parent !== window) {
-                    window.parent.postMessage({
-                        type: 'characterSaved',
-                        characterId: jsonData.character_id
-                    }, '*');
-                    return; // EXIT IMMEDIATELY - no alerts
-                }
-                
-                // Not in iframe - show alert ONCE (only if flag not set)
-                if (!alertShown) {
-                    alertShown = true;
-                    alert('✅ Character saved successfully!');
-                }
-            } else {
-                // Only show error if NOT in iframe and not already shown
-                if (!(window.parent && window.parent !== window) && !alertShown) {
-                    alertShown = true;
-                    alert('❌ Save failed: ' + jsonData.message);
-                }
-            }
-        } catch (e) {
-            console.error('Invalid JSON response:', data);
-            // Only show error if NOT in iframe and not already shown
-            if (!(window.parent && window.parent !== window) && !alertShown) {
-                alertShown = true;
-                alert('❌ Invalid response from server: ' + data.substring(0, 200));
-            }
-        }
+        handleSaveResponse(data);
     })
     .catch(error => {
         console.error('Error:', error);
-        // Only show error if NOT in iframe and not already shown
-        if (!(window.parent && window.parent !== window) && !alertShown) {
-            alertShown = true;
-            alert('❌ Error: ' + error.message);
-        }
+        showAlert('❌ Error: ' + error.message, true);
     })
     .finally(() => {
         // Reset button state
@@ -424,16 +541,19 @@ function saveCharacter(isFinalization = false) {
                 btn.innerHTML = btn.dataset.originalLabel;
             }
         });
-        // Reset alert flag AFTER save completes (with delay to prevent rapid duplicate calls)
-        setTimeout(() => { alertShown = false; }, 500);
     });
 }
 
-// Placeholder functions for finalize and download
+/**
+ * Finalize character (triggers save with finalization flag)
+ */
 function finalizeCharacter() {
     saveCharacter(true);
 }
 
+/**
+ * Download character sheet as PDF (placeholder - functionality coming soon)
+ */
 function downloadCharacterSheet() {
     alert('PDF download functionality coming soon!');
 }
@@ -597,7 +717,11 @@ const disciplinePowers = {
     ]
 };
 
-// Show discipline power popover
+/**
+ * Show discipline power popover when hovering over discipline button
+ * @param {Event} event - Mouse event from discipline button
+ * @param {string} disciplineName - Name of the discipline to show powers for
+ */
 function showDisciplinePopover(event, disciplineName) {
     const button = event.target.closest('.discipline-option-btn');
     if (!button || button.disabled) {
@@ -654,7 +778,7 @@ function showDisciplinePopover(event, disciplineName) {
     popover.onmouseleave = hideDisciplinePopover;
 
     // Position popover next to hovered button with viewport guards
-    const rect = button.getBoundingClientRect();
+    const buttonRect = button.getBoundingClientRect();
     const margin = 12;
 
     popover.style.position = 'fixed';
@@ -663,34 +787,16 @@ function showDisciplinePopover(event, disciplineName) {
     popover.style.zIndex = '1000';
 
     const popoverRect = popover.getBoundingClientRect();
-    const vpW = window.innerWidth;
-    const vpH = window.innerHeight;
-
-    // Horizontal placement: prefer right side, fall back to left if overflow
-    let left = rect.right + margin;
-    if (left + popoverRect.width > vpW - margin) {
-        left = rect.left - popoverRect.width - margin;
-    }
+    const position = calculatePopoverPosition(buttonRect, popoverRect, margin);
 
     // Update hover tracking
     if (currentPopoverButton) {
         currentPopoverButton.classList.remove('popover-target');
     }
     button.classList.add('popover-target');
-    if (left < margin) {
-        left = margin;
-    }
 
-    // Vertical placement: center to button, clamp to viewport
-    let top = rect.top + (rect.height - popoverRect.height) / 2;
-    if (top < margin) {
-        top = margin;
-    } else if (top + popoverRect.height > vpH - margin) {
-        top = Math.max(margin, vpH - popoverRect.height - margin);
-    }
-
-    popover.style.left = `${left}px`;
-    popover.style.top = `${top}px`;
+    popover.style.left = `${position.left}px`;
+    popover.style.top = `${position.top}px`;
     popover.style.visibility = 'visible';
     currentPopoverButton = button;
 }
@@ -729,47 +835,7 @@ function getSelectedPowers(disciplineName) {
     return [];
 }
 
-// Select a power and add to discipline list
-// DISABLED: Legacy function - DisciplineSystem now handles power selection
-function selectPower(disciplineName, power) {
-    console.log(`[Legacy] Selected ${disciplineName} Level ${power.level}: ${power.name} - Disabled, DisciplineSystem handles this now`);
-    return; // Disabled - DisciplineSystem handles this
-    
-    // Check if this power is already selected
-    const disciplineList = document.getElementById('clanDisciplinesList');
-    if (disciplineList) {
-        const existingItems = disciplineList.querySelectorAll('.discipline-item');
-        const powerAlreadySelected = Array.from(existingItems).some(item => {
-            const nameSpan = item.querySelector('.discipline-name');
-            const levelSpan = item.querySelector('.discipline-level');
-            return nameSpan && levelSpan && 
-                   nameSpan.textContent === `${disciplineName}: ${power.name}` &&
-                   levelSpan.textContent === power.level.toString();
-        });
-        
-        if (powerAlreadySelected) {
-            alert(`${power.name} (Level ${power.level}) is already selected.`);
-            return;
-        }
-        
-        // Create new discipline item
-        const disciplineItem = document.createElement('div');
-        disciplineItem.className = 'discipline-item';
-        disciplineItem.innerHTML = `
-            <span class="discipline-name">${disciplineName}: ${power.name}</span>
-            <span class="discipline-level">${power.level}</span>
-            <button type="button" class="remove-discipline-btn" data-discipline-name="${disciplineName}: ${power.name}" data-discipline-level="${power.level}">×</button>
-        `;
-        disciplineList.appendChild(disciplineItem);
-        
-        // Update count
-        const countDisplay = document.getElementById('clanDisciplinesCountDisplay');
-        if (countDisplay) {
-            const items = disciplineList.querySelectorAll('.discipline-item');
-            countDisplay.textContent = items.length;
-        }
-    }
-}
+// Legacy selectPower function removed - DisciplineSystem handles power selection now
 
 // Remove discipline from list
 function removeDiscipline(disciplinePowerName, level) {
@@ -795,7 +861,10 @@ function removeDiscipline(disciplinePowerName, level) {
     }
 }
 
-// Update discipline button availability based on clan
+/**
+ * Update discipline button availability based on selected clan
+ * Enables/disables discipline buttons based on clan-specific discipline access
+ */
 function updateDisciplineAvailability() {
     const clan = document.getElementById('clan').value;
     const clanDisciplines = {
@@ -820,40 +889,45 @@ function updateDisciplineAvailability() {
     
     disciplineButtons.forEach(button => {
         const disciplineName = button.getAttribute('data-discipline');
+        let disabled, opacity, cursor, title, classes;
         
         if (!clan) {
             // No clan selected - disable all
-            button.disabled = true;
-            button.classList.add('disabled', 'discipline-disabled');
-            button.classList.remove('caitiff-available');
-            button.style.opacity = '0.4';
-            button.style.cursor = 'not-allowed';
-            button.title = 'Select a clan to unlock disciplines';
+            disabled = true;
+            classes = { add: ['disabled', 'discipline-disabled'], remove: ['caitiff-available'] };
+            opacity = '0.4';
+            cursor = 'not-allowed';
+            title = 'Select a clan to unlock disciplines';
         } else if (clan === 'Caitiff') {
             // Caitiff can learn any discipline - enable all
-            button.disabled = false;
-            button.classList.remove('disabled', 'discipline-disabled');
-            button.classList.add('caitiff-available');
-            button.style.opacity = '1';
-            button.style.cursor = 'pointer';
-            button.title = '';
+            disabled = false;
+            classes = { add: ['caitiff-available'], remove: ['disabled', 'discipline-disabled'] };
+            opacity = '1';
+            cursor = 'pointer';
+            title = '';
         } else if (!clanDisciplines[clan] || !clanDisciplines[clan].includes(disciplineName)) {
             // Discipline not available to clan - disable
-            button.disabled = true;
-            button.classList.add('disabled', 'discipline-disabled');
-            button.classList.remove('caitiff-available');
-            button.style.opacity = '0.4';
-            button.style.cursor = 'not-allowed';
-            button.title = `${disciplineName} is not available to ${clan}`;
+            disabled = true;
+            classes = { add: ['disabled', 'discipline-disabled'], remove: ['caitiff-available'] };
+            opacity = '0.4';
+            cursor = 'not-allowed';
+            title = `${disciplineName} is not available to ${clan}`;
         } else {
             // Discipline available to clan - enable
-            button.disabled = false;
-            button.classList.remove('disabled', 'discipline-disabled');
-            button.classList.remove('caitiff-available');
-            button.style.opacity = '1';
-            button.style.cursor = 'pointer';
-            button.title = '';
+            disabled = false;
+            classes = { add: [], remove: ['disabled', 'discipline-disabled', 'caitiff-available'] };
+            opacity = '1';
+            cursor = 'pointer';
+            title = '';
         }
+        
+        // Apply state
+        setButtonState(button, disabled);
+        classes.add.forEach(cls => button.classList.add(cls));
+        classes.remove.forEach(cls => button.classList.remove(cls));
+        button.style.opacity = opacity;
+        button.style.cursor = cursor;
+        button.title = title;
     });
 }
 
@@ -865,6 +939,52 @@ function updateDisciplineAvailability() {
 window.coterieCounter = 0;
 window.relationshipCounter = 0;
 
+/**
+ * Create a dynamic entry with common container/empty state management
+ * @param {string} containerId - ID of the container element
+ * @param {string} emptyStateId - ID of the empty state element
+ * @param {string} entryClassName - CSS class name for the entry
+ * @param {Object} counterObj - Counter object (e.g., window) with counter property name
+ * @param {string} counterProperty - Property name on counterObj to increment (e.g., 'coterieCounter')
+ * @param {Function} templateFn - Function that returns HTML template string: (index, data) => string
+ * @param {Function} removeHandler - Function called when remove button is clicked: (entry, container, emptyState) => void
+ * @param {Object|null} entryData - Optional data to populate entry fields
+ * @returns {HTMLElement|null} Created entry element or null if container not found
+ */
+function createDynamicEntry(containerId, emptyStateId, entryClassName, counterObj, counterProperty, templateFn, removeHandler, entryData = null) {
+    const container = document.getElementById(containerId);
+    const emptyState = document.getElementById(emptyStateId);
+    if (!container) {
+        console.error(`${containerId} container not found`);
+        return null;
+    }
+    
+    if (emptyState) emptyState.style.display = 'none';
+    
+    const index = counterObj[counterProperty]++;
+    const entry = document.createElement('div');
+    entry.className = entryClassName;
+    entry.dataset.index = index;
+    
+    entry.innerHTML = templateFn(index, entryData);
+    
+    container.appendChild(entry);
+    
+    // Find remove button and attach handler
+    const removeBtn = entry.querySelector(`.remove-${entryClassName.replace('-entry', '')}-btn`);
+    if (removeBtn) {
+        removeBtn.addEventListener('click', function() {
+            removeHandler(entry, container, emptyState);
+        });
+    }
+    
+    return entry;
+}
+
+/**
+ * Collect all coterie entries from the DOM
+ * @returns {Array} Array of coterie objects with coterie_name, coterie_type, role, description, notes
+ */
 function collectCoteries() {
     const coteries = [];
     const coterieEntries = document.querySelectorAll('.coterie-entry');
@@ -883,6 +1003,10 @@ function collectCoteries() {
     return coteries;
 }
 
+/**
+ * Collect all relationship entries from the DOM
+ * @returns {Array} Array of relationship objects with related_character_name, relationship_type, relationship_subtype, strength, description
+ */
 function collectRelationships() {
     const relationships = [];
     const relationshipEntries = document.querySelectorAll('.relationship-entry');
@@ -902,22 +1026,18 @@ function collectRelationships() {
     return relationships;
 }
 
+/**
+ * Add a new coterie entry to the form
+ * @param {Object|null} coterieData - Optional initial data for the coterie entry
+ */
 window.addCoterieEntry = function(coterieData = null) {
-    const container = document.getElementById('coterieContainer');
-    const emptyState = document.getElementById('coterieEmptyState');
-    if (!container) {
-        console.error('Coterie container not found');
-        return;
-    }
-    
-    if (emptyState) emptyState.style.display = 'none';
-    
-    const index = window.coterieCounter++;
-    const entry = document.createElement('div');
-    entry.className = 'coterie-entry';
-    entry.dataset.index = index;
-    
-    entry.innerHTML = `
+    createDynamicEntry(
+        'coterieContainer',
+        'coterieEmptyState',
+        'coterie-entry',
+        window,
+        'coterieCounter',
+        (index, data) => `
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
             <h5 style="margin: 0; color: #d4af37;">Coterie ${index + 1}</h5>
             <button type="button" class="remove-coterie-btn">Remove</button>
@@ -925,68 +1045,64 @@ window.addCoterieEntry = function(coterieData = null) {
         <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-bottom: 15px;">
             <div>
                 <label class="form-label">Coterie Name *</label>
-                <input type="text" class="form-control coterie-name" placeholder="e.g., The Phoenix Circle" value="${coterieData?.coterie_name || ''}" required>
+                <input type="text" class="form-control coterie-name" placeholder="e.g., The Phoenix Circle" value="${data?.coterie_name || ''}" required>
             </div>
             <div>
                 <label class="form-label">Type</label>
                 <select class="form-control coterie-type">
                     <option value="">Select type...</option>
-                    <option value="faction" ${coterieData?.coterie_type === 'faction' ? 'selected' : ''}>Faction</option>
-                    <option value="role" ${coterieData?.coterie_type === 'role' ? 'selected' : ''}>Role</option>
-                    <option value="membership" ${coterieData?.coterie_type === 'membership' ? 'selected' : ''}>Membership</option>
-                    <option value="informal_group" ${coterieData?.coterie_type === 'informal_group' ? 'selected' : ''}>Informal Group</option>
+                    <option value="faction" ${data?.coterie_type === 'faction' ? 'selected' : ''}>Faction</option>
+                    <option value="role" ${data?.coterie_type === 'role' ? 'selected' : ''}>Role</option>
+                    <option value="membership" ${data?.coterie_type === 'membership' ? 'selected' : ''}>Membership</option>
+                    <option value="informal_group" ${data?.coterie_type === 'informal_group' ? 'selected' : ''}>Informal Group</option>
                 </select>
             </div>
             <div>
                 <label class="form-label">Role</label>
-                <input type="text" class="form-control coterie-role" placeholder="e.g., Leader, Member, Advisor" value="${coterieData?.role || ''}">
+                <input type="text" class="form-control coterie-role" placeholder="e.g., Leader, Member, Advisor" value="${data?.role || ''}">
             </div>
         </div>
         <div style="margin-bottom: 15px;">
             <label class="form-label">Description</label>
-            <textarea class="form-control coterie-description" rows="2" placeholder="Describe the coterie and your character's involvement">${coterieData?.description || ''}</textarea>
+            <textarea class="form-control coterie-description" rows="2" placeholder="Describe the coterie and your character's involvement">${data?.description || ''}</textarea>
         </div>
         <div>
             <label class="form-label">Notes</label>
-            <textarea class="form-control coterie-notes" rows="2" placeholder="Additional notes about this coterie association">${coterieData?.notes || ''}</textarea>
+            <textarea class="form-control coterie-notes" rows="2" placeholder="Additional notes about this coterie association">${data?.notes || ''}</textarea>
         </div>
-    `;
-    
-    container.appendChild(entry);
-    
-    entry.querySelector('.remove-coterie-btn').addEventListener('click', function() {
-        entry.remove();
-        if (container.querySelectorAll('.coterie-entry').length === 0 && emptyState) {
-            emptyState.style.display = 'block';
-        }
-    });
+    `,
+        (entry, container, emptyState) => {
+            entry.remove();
+            if (container.querySelectorAll('.coterie-entry').length === 0 && emptyState) {
+                emptyState.style.display = 'block';
+            }
+        },
+        coterieData
+    );
 };
 
+/**
+ * Add a new relationship entry to the form
+ * @param {Object|null} relationshipData - Optional initial data for the relationship entry
+ */
 window.addRelationshipEntry = function(relationshipData = null) {
-    const container = document.getElementById('relationshipsContainer');
-    const emptyState = document.getElementById('relationshipsEmptyState');
-    if (!container) {
-        console.error('Relationships container not found');
-        return;
-    }
-    
-    if (emptyState) emptyState.style.display = 'none';
-    
-    const index = window.relationshipCounter++;
-    const entry = document.createElement('div');
-    entry.className = 'relationship-entry';
-    entry.dataset.index = index;
-    
-    // Build character options HTML
-    let characterOptions = '<option value="">Select character...</option>';
-    if (window.allCharacters && Array.isArray(window.allCharacters)) {
-        window.allCharacters.forEach(char => {
-            const selected = relationshipData?.related_character_name === char.name ? 'selected' : '';
-            characterOptions += `<option value="${char.name.replace(/"/g, '&quot;')}" ${selected}>${char.name}</option>`;
-        });
-    }
-    
-    entry.innerHTML = `
+    createDynamicEntry(
+        'relationshipsContainer',
+        'relationshipsEmptyState',
+        'relationship-entry',
+        window,
+        'relationshipCounter',
+        (index, data) => {
+            // Build character options HTML
+            let characterOptions = '<option value="">Select character...</option>';
+            if (window.allCharacters && Array.isArray(window.allCharacters)) {
+                window.allCharacters.forEach(char => {
+                    const selected = data?.related_character_name === char.name ? 'selected' : '';
+                    characterOptions += `<option value="${char.name.replace(/"/g, '&quot;')}" ${selected}>${char.name}</option>`;
+                });
+            }
+            
+            return `
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
             <h5 style="margin: 0; color: #d4af37;">Relationship ${index + 1}</h5>
             <button type="button" class="remove-relationship-btn">Remove</button>
@@ -1002,39 +1118,39 @@ window.addRelationshipEntry = function(relationshipData = null) {
                 <label class="form-label">Relationship Type</label>
                 <select class="form-control relationship-type">
                     <option value="">Select type...</option>
-                    <option value="sire" ${relationshipData?.relationship_type === 'sire' ? 'selected' : ''}>Sire</option>
-                    <option value="childe" ${relationshipData?.relationship_type === 'childe' ? 'selected' : ''}>Childe</option>
-                    <option value="mentor" ${relationshipData?.relationship_type === 'mentor' ? 'selected' : ''}>Mentor</option>
-                    <option value="ally" ${relationshipData?.relationship_type === 'ally' ? 'selected' : ''}>Ally</option>
-                    <option value="contact" ${relationshipData?.relationship_type === 'contact' ? 'selected' : ''}>Contact</option>
-                    <option value="rival" ${relationshipData?.relationship_type === 'rival' ? 'selected' : ''}>Rival</option>
-                    <option value="enemy" ${relationshipData?.relationship_type === 'enemy' ? 'selected' : ''}>Enemy</option>
-                    <option value="other" ${relationshipData?.relationship_type === 'other' ? 'selected' : ''}>Other</option>
+                    <option value="sire" ${data?.relationship_type === 'sire' ? 'selected' : ''}>Sire</option>
+                    <option value="childe" ${data?.relationship_type === 'childe' ? 'selected' : ''}>Childe</option>
+                    <option value="mentor" ${data?.relationship_type === 'mentor' ? 'selected' : ''}>Mentor</option>
+                    <option value="ally" ${data?.relationship_type === 'ally' ? 'selected' : ''}>Ally</option>
+                    <option value="contact" ${data?.relationship_type === 'contact' ? 'selected' : ''}>Contact</option>
+                    <option value="rival" ${data?.relationship_type === 'rival' ? 'selected' : ''}>Rival</option>
+                    <option value="enemy" ${data?.relationship_type === 'enemy' ? 'selected' : ''}>Enemy</option>
+                    <option value="other" ${data?.relationship_type === 'other' ? 'selected' : ''}>Other</option>
                 </select>
             </div>
             <div>
                 <label class="form-label">Subtype</label>
-                <input type="text" class="form-control relationship-subtype" placeholder="e.g., Business partner, Former lover" value="${relationshipData?.relationship_subtype || ''}">
+                <input type="text" class="form-control relationship-subtype" placeholder="e.g., Business partner, Former lover" value="${data?.relationship_subtype || ''}">
             </div>
             <div>
                 <label class="form-label">Strength</label>
-                <input type="text" class="form-control relationship-strength" placeholder="e.g., Strong, Weak, Neutral" value="${relationshipData?.strength || ''}">
+                <input type="text" class="form-control relationship-strength" placeholder="e.g., Strong, Weak, Neutral" value="${data?.strength || ''}">
             </div>
         </div>
         <div>
             <label class="form-label">Description</label>
-            <textarea class="form-control relationship-description" rows="3" placeholder="Describe the nature of this relationship">${relationshipData?.description || ''}</textarea>
+            <textarea class="form-control relationship-description" rows="3" placeholder="Describe the nature of this relationship">${data?.description || ''}</textarea>
         </div>
     `;
-    
-    container.appendChild(entry);
-    
-    entry.querySelector('.remove-relationship-btn').addEventListener('click', function() {
-        entry.remove();
-        if (container.querySelectorAll('.relationship-entry').length === 0 && emptyState) {
-            emptyState.style.display = 'block';
-        }
-    });
+        },
+        (entry, container, emptyState) => {
+            entry.remove();
+            if (container.querySelectorAll('.relationship-entry').length === 0 && emptyState) {
+                emptyState.style.display = 'block';
+            }
+        },
+        relationshipData
+    );
 };
 
 // Make collect functions available to DataManager if needed

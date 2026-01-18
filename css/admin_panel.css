@@ -3,7 +3,8 @@
 .admin-panel-container { 
     max-width: 1600px; 
     margin: 0 auto; 
-    background: transparent; 
+    background: transparent;
+    overflow-x: hidden;
 }
 .panel-title { font-family: var(--font-brand), 'IM Fell English', serif; }
 .panel-subtitle { font-family: var(--font-body), 'Source Serif Pro', serif; }
@@ -11,7 +12,9 @@
 .nav-btn { background: rgba(139, 0, 0, 0.2); border: 2px solid rgba(139, 0, 0, 0.4); border-radius: 5px; color: #b8a090; font-family: var(--font-body), 'Source Serif Pro', serif; font-weight: 600; text-decoration: none; transition: all 0.3s ease; }
 .nav-btn:hover { background: rgba(139, 0, 0, 0.3); border-color: #8B0000; color: #f5e6d3; }
 .nav-btn.active { background: linear-gradient(135deg, #8B0000 0%, #600000 100%); border-color: #b30000; color: #f5e6d3; }
-.filter-btn { padding: 10px 20px; background: rgba(139, 0, 0, 0.2); border: 2px solid rgba(139, 0, 0, 0.4); border-radius: 5px; color: #b8a090; font-family: var(--font-body), 'Source Serif Pro', serif; font-weight: 600; cursor: pointer; transition: all 0.3s ease; }
+.filter-btn { padding: 6px 12px; background: rgba(139, 0, 0, 0.2); border: 2px solid rgba(139, 0, 0, 0.4); border-radius: 5px; color: #b8a090; font-family: var(--font-body), 'Source Serif Pro', serif; font-weight: 600; cursor: pointer; transition: all 0.3s ease; font-size: 0.9em; }
+.filter-controls { overflow-x: hidden; }
+.filter-controls * { box-sizing: border-box; }
 .filter-btn:hover { background: rgba(139, 0, 0, 0.3); border-color: #8B0000; color: #f5e6d3; }
 .filter-btn.active { background: linear-gradient(135deg, #8B0000 0%, #600000 100%); border-color: #b30000; color: #f5e6d3; }
 .pagination-controls { margin-top: 20px; padding: 15px; background: rgba(26, 15, 15, 0.3); border-radius: 5px; }
