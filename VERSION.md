@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.52
+## Current Version: 0.9.53
+
+**Date:** 2025-01-30  
+**Type:** Patch (Format book summary markdown files: Dark Epics, The Long Night, MET Journals 1-3)
+
+## Previous Version: 0.9.52
 
 **Date:** 2025-01-30  
 **Type:** Patch (Format Dark Epics markdown summary and sync project changes)
