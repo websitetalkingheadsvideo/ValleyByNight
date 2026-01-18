@@ -141,7 +141,7 @@ function render_clan_badge(string $clan): string {
             <a href="wraith_admin_panel.php" class="nav-btn btn btn-outline-danger btn-sm w-100 text-center">👻 Wraith</a>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg">
-            <button type="button" class="nav-btn btn btn-outline-danger btn-sm w-100 text-center" disabled>🐺 Garu</button>
+            <button type="button" class="nav-btn btn btn-outline-danger btn-sm w-100 text-center" disabled>🐺 Garou</button>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg">
             <a href="ghoul_admin_panel.php" class="nav-btn btn btn-outline-danger btn-sm w-100 text-center">🩸 Ghoul</a>
@@ -219,7 +219,7 @@ function render_clan_badge(string $clan): string {
     </div>
 
     <!-- Filter Controls -->
-    <div class="filter-controls row gy-3 align-items-center mb-4">
+    <div class="filter-controls row gy-3 align-items-center mb-4 flex-md-nowrap">
         <div class="filter-buttons col-12 col-md-auto d-flex flex-wrap gap-2">
             <button class="filter-btn btn btn-outline-danger active" data-filter="all">All Characters</button>
             <button class="filter-btn btn btn-outline-danger" data-filter="pcs">PCs Only</button>
@@ -247,7 +247,7 @@ function render_clan_badge(string $clan): string {
                 <option value="Ghoul">Ghoul</option>
             </select>
         </div>
-        <div class="search-box col-12 col-lg col-xl-4">
+        <div class="search-box col-12 col-md col-lg-3 col-xl-4">
             <input type="text" id="characterSearch" class="form-control form-control-sm bg-dark text-light border-danger" placeholder="🔍 Search name, clan, player, generation..." />
         </div>
         <div class="page-size-control col-12 col-md-auto d-flex align-items-center gap-2">
