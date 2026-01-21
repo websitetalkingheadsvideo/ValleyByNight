@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.53
+## Current Version: 0.9.54
+
+**Date:** 2025-01-30  
+**Type:** Patch (Fixed login page readability, added admin NPC selection to chat, fixed API database query)
+
+## Previous Version: 0.9.53
 
 **Date:** 2025-01-30  
 **Type:** Patch (Format book summary markdown files: Dark Epics, The Long Night, MET Journals 1-3)

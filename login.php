@@ -64,7 +64,7 @@ $csrf_token = $_SESSION['csrf_token'];
         <div class="card" style="max-width: 450px; width: 100%;">
             <div class="card-body p-4">
                 <h1 class="card-title text-center mb-2">🦇 Welcome to the Night</h1>
-                <p class="text-center opacity-75 mb-4">Enter your credentials to access the chronicle</p>
+                <p class="text-center mb-4">Enter your credentials to access the chronicle</p>
                 
                 <?php
                 if ($loginDisabled):
@@ -87,7 +87,7 @@ $csrf_token = $_SESSION['csrf_token'];
                         <div class="mb-3">
                             <label for="username" class="form-label">Username</label>
                             <input type="text" id="username" name="username" class="form-control" required autofocus aria-describedby="usernameHelp" autocomplete="username">
-                            <div id="usernameHelp" class="form-text">Enter your account username.</div>
+                            <div id="usernameHelp" class="mt-1 text-white">Enter your account username.</div>
                             <div class="invalid-feedback">Username is required.</div>
                         </div>
                         
