@@ -11,6 +11,13 @@ if (!isset($_SESSION['user_id'])) {
     exit();
 }
 
+// Check if user is admin for NPC selection
+require_once __DIR__ . '/includes/connect.php';
+require_once __DIR__ . '/includes/verify_role.php';
+$user_id = $_SESSION['user_id'];
+$user_role = verifyUserRole($conn, $user_id);
+$is_admin = isAdminUser($user_role);
+
 // Include header with chat CSS
 $extra_css = ['css/chat.css'];
 include 'includes/header.php';
@@ -23,6 +30,16 @@ include 'includes/header.php';
     <div class="chat-content">
             <div class="character-selection">
                 <h3>Select Character for Chat</h3>
+                <?php if ($is_admin): ?>
+                    <div class="mb-3">
+                        <label class="form-label text-white">Character Type:</label>
+                        <select id="characterTypeFilter" class="form-select bg-dark text-light border-danger">
+                            <option value="all">All Characters</option>
+                            <option value="pc">Player Characters</option>
+                            <option value="npc">NPCs</option>
+                        </select>
+                    </div>
+                <?php endif; ?>
                 <div class="character-list" id="characterList" role="status" aria-live="polite" aria-busy="true">
                     <p>Loading your characters...</p>
                 </div>
@@ -50,6 +67,10 @@ include 'includes/header.php';
     </div>
 </div>
 
+<script>
+    // Pass admin status to JavaScript
+    window.isAdmin = <?php echo $is_admin ? 'true' : 'false'; ?>;
+</script>
 <script src="js/chat.js" defer></script>
 
 <?php

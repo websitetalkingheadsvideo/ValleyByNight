@@ -45,6 +45,11 @@
     border-bottom: 2px solid #8B0000;
 }
 
+/* Character filter dropdown */
+.character-selection .form-select {
+    cursor: pointer;
+}
+
 .character-list {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
@@ -80,6 +85,17 @@
     font-size: 1.3em;
     color: #f5e6d3;
     margin-bottom: 10px;
+}
+
+/* NPC badge styling */
+.character-name .badge.bg-purple {
+    background-color: #4a1a6b !important;
+    color: #f5e6d3;
+    font-size: 0.7em;
+    padding: 4px 8px;
+    border-radius: 4px;
+    margin-left: 8px;
+    font-weight: bold;
 }
 
 .character-details {
