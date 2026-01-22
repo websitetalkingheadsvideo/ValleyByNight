@@ -167,6 +167,7 @@ function displayCharacters(characters) {
                 <span><strong>Generation:</strong> ${character.generation || 'N/A'}</span>
                 <span><strong>Concept:</strong> ${character.concept || 'N/A'}</span>
                 <span><strong>Nature:</strong> ${character.nature || 'N/A'}</span>
+                <span><strong>Demeanor:</strong> ${character.demeanor || 'N/A'}</span>
             </div>
         </div>
         `;
