@@ -475,4 +475,32 @@ The system integrates multiple specialized agents for rules validation, characte
 - Envato Elements for music assets
 - Grapevine XML for influence import
 
+# Blockers
+
+The following tasks are identified as critical blockers that must be completed before dependent work can proceed:
+
+## Foundation Blockers (Block All Agent Development)
+1. **Agent Architecture Foundation (TM-10)**: System-agnostic knowledge access foundation - enables all other agents. Must be completed before any agent implementation can proceed with proper architecture.
+
+## Agent System Blockers
+2. **Laws/Rules Agent**: Central rules brain - required by Rituals Agent, Paths Agent, and Discipline Agent. These agents cannot function without the Laws Agent providing rule validation and context.
+
+## Database Schema Blockers
+3. **Character Relationships Table**: Foundation for sire-childe relationships, blood bonds, and status inheritance. Required before relationship-dependent features can be implemented.
+4. **Generation Blood Limits Table**: Required for all blood system calculations. Blocks blood pool management and per-turn calculations.
+5. **Character Blood Drinks Table**: Foundation for the entire blood bond system. Must exist before any blood bond tracking or dialogue integration can proceed.
+
+## Character System Blockers (Prevent Data Corruption)
+6. **Discipline Migration Script**: Must complete before new characters are created to prevent data corruption. Critical blocker for character creation workflow.
+7. **Character Creator Page Update**: Must reflect new discipline structure to prevent character corruption. Blocks safe character creation until discipline schema is properly integrated.
+
+## Data Completion Blockers (Required for Agent Functionality)
+8. **Discipline Power Descriptions**: Audit and replace with short_description, long_description, and system_text. Required for Discipline Agent accuracy and validation.
+9. **Paths Master Data**: Fill missing descriptions, system_text, challenge_type, and challenge_notes. Required for Paths Agent to function properly.
+10. **Path Powers Data**: Complete system_text, challenge_type, and challenge_notes for all path powers. Required for Paths Agent challenge handling.
+11. **Ritual Data Audit**: Complete Necromancy and Thaumaturgy ritual data with ingredients, requirements, and system text. Required for Rituals Agent functionality.
+
+## Character Data Quality Blockers
+12. **Missing Histories Fix**: Required for accurate character summaries. Blocks proper character data display and agent processing until JOIN issues and column reading are resolved.
+
 </PRD>
