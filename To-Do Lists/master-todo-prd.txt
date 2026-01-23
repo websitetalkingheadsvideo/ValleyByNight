@@ -1,0 +1,478 @@
+<context>
+# Overview
+Valley by Night (VbN) is a comprehensive web-based character management and storytelling system for Vampire: The Masquerade campaigns. This PRD outlines the complete development roadmap for implementing core systems, agents, data management, character systems, and supporting features to create a fully functional chronicle management platform.
+
+The system integrates multiple specialized agents for rules validation, character management, dialogue systems, and world modeling. It requires robust database schemas, API integrations, UI components, and workflow tools to support both players and storytellers in managing complex chronicle data.
+
+# Core Features
+
+## Agent System Architecture
+- **Ability Agent**: Validates and maps Abilities into character.json format, ensuring data integrity during character creation and updates
+- **Discipline Agent**: Validates and maps Disciplines and powers into character.json, handling clan-specific access and path linkages
+- **Dialogue Agent**: Integrates with blood bond stage tracking for branching dialogue that reflects relationship dynamics
+- **Rituals Agent**: Manages ritual casting, learning, and validation logic integrated with Rules database
+- **Paths Agent**: Handles path powers, challenge resolution, and Laws Agent integration for Thaumaturgy and Necromancy
+- **Laws/Rules Agent**: Central authoritative rules brain that other agents query for rule text, validation, and context
+- **Map Agent**: Spatial/location logic for world navigation and location-based interactions
+- **Character Agent**: Automated pipeline processing characters from MySQL database and generating structured reports
+
+## Data Management Systems
+- **Influence System**: Grapevine-style influence tracking with character_influences table (influence_type, level 0-5), UI for viewing/editing, and Grapevine XML importer
+- **Narrative Compiler**: Narrative packages system with schema for chapter/arc/session/location/faction scopes and UI for management
+- **Blood Bond System**: Event-based tracking via character_blood_drinks table with derived bond stage calculation (0-3) for dialogue branching
+- **Character Relationships**: First-class relationships table supporting sire-childe lineage, blood bonds, status inheritance, and political consequences
+- **Blood System**: Generation-based blood pool limits lookup table, volatile current blood tracking, and per-turn calculations
+
+## Character System
+- **Character Creation**: Complete 8-tab character creation form with validation, XP tracking, and database integration
+- **Character Repair Subsystem**: Admin tool for scanning and fixing missing character data (biography, appearance, abilities, disciplines, backgrounds, merits/flaws)
+- **Discipline Migration**: One-time script to map old discipline names to new schema, normalize dots/powers/path linkage
+- **Character Questionnaire**: Mandatory pre-session questionnaire with structured JSON storage, completion gating, and 10-20 XP award rubric
+
+## Rules & Data Completion
+- **Discipline Power Descriptions**: Audit and replace with short_description, long_description (full LotN Revised text), and system_text/mechanics column
+- **Paths Master Data**: Fill missing descriptions, system_text, challenge_type, and challenge_notes for all paths
+- **Ritual Data Audit**: Complete Necromancy and Thaumaturgy ritual data with ingredients, requirements, system text, and sources
+- **Phoenix Clanbooks**: Create localized clanbooks incorporating NPC creations and chronicle-specific content
+
+## Supporting Systems
+- **OCR/Text Processing**: Cleanup rules for paragraph structure, line breaks, broken words, and semantic review passes
+- **Chronicle Timeline**: Canon timeline rules (game start Oct 8, 1994, Elysium schedule, default locations)
+- **Music System**: Leitmotifs for NPCs, ambient loops for locations, Envato Elements API integration
+- **Art Pipeline**: VbN Character Art Guide consistency, Dark City Noir style toggle, Flux/LM Studio integration
+
+# User Experience
+
+## Primary Users
+- **Storytellers (STs)**: Manage chronicle data, NPCs, locations, rules validation, and narrative packages
+- **Players**: Create and manage characters, view character sheets, interact with dialogue systems
+- **Administrators**: System maintenance, data repair, agent management, and configuration
+
+## Key User Flows
+1. **Character Creation**: Player completes questionnaire → Creates character via 8-tab form → Saves to database → Character appears in dashboard
+2. **NPC Management**: ST creates NPC → Agent validates data → Character repair tool fixes issues → NPC available for chronicle
+3. **Rules Lookup**: Agent queries Laws Agent → Returns rule text with source → Validates character action → Updates character state
+4. **Blood Bond Tracking**: Event recorded in character_blood_drinks → Bond stage derived → Dialogue Agent branches on stage → Narrative consequences
+
+## UI/UX Considerations
+- Read-only helper views for derived data (blood bond stages)
+- Modal-based editing for character repair
+- Admin panel integration for all management tools
+- Responsive design for mobile storyteller access
+- Clear visual indicators for missing/incomplete data
+</context>
+
+<PRD>
+# Technical Architecture
+
+## System Components
+
+### Agent Layer
+- **Knowledge Provider Abstraction**: System-agnostic interface supporting SQLProvider, VectorProvider, GraphProvider, HybridProvider
+- **Canonical ID System**: Persistent IDs for all entities (character_id, location_id, rule_id, ritual_id, path_id, discipline_id, plot_id)
+- **Knowledge Atom Format**: Every fact includes entity_id, source, canon_level, time_context, confidence
+- **Typed Agent Responses**: Structured JSON with entities[], facts[], rules[], constraints[], next_questions[], citations[]
+- **Retrieval Abstraction**: Agents never directly call vector search, graph traversal, or SQL joins beyond scope
+
+### Database Schema
+- **character_relationships**: id, character_id, related_character_id, relationship_type, strength/stage, is_primary, created_at
+- **character_blood_drinks**: id, drinker_character_id, source_character_id, drink_date, notes (event-based, not state-based)
+- **character_influences**: character_id, influence_type, level (0-5)
+- **generation_blood_limits**: generation (PK), blood_pool_max, blood_per_turn
+- **narrative_packages**: Schema for chapter/arc/session/location/faction scopes
+- **Separate tables**: mortals, ghouls (split from characters table for Kindred-only records)
+
+### API Integrations
+- **Envato Elements API**: Music asset management and automation
+- **Grapevine XML**: Influence system importer
+- **MCP Servers**: Flux Studio, Style Agent, Laws Agent integrations
+
+## Data Models
+
+### Character Data Model
+- Core: characters table (Kindred only)
+- Extensions: mortals, ghouls tables
+- Relationships: character_relationships (bidirectional, canonical)
+- State: character_blood_drinks (event log), character_influences (Grapevine-style)
+- Derived: blood bond stage (calculated from drink history)
+
+### Rules Data Model
+- **rules_master**: Core rulebook content with canonical identifiers
+- **rituals_master**: Ritual definitions with ingredients, requirements, system text
+- **paths_master**: Path definitions with descriptions
+- **path_powers**: Power definitions with system_text, challenge_type, challenge_notes
+- **discipline_powers**: Power descriptions with short_description, long_description, system_text
+
+### Narrative Data Model
+- **narrative_packages**: Chapter/arc/session/location/faction scoped content
+- Timeline: Canon baseline 1994-10-08, post-event tracking
+- Locations: Blueprint, moodboard fields with image display
+
+# Development Roadmap
+
+## Phase 1: Foundation & Architecture (High Priority)
+
+### Agent Architecture Foundation
+- Implement system-agnostic knowledge access (TM-10)
+  - Stable canonical IDs for all entities
+  - Knowledge atom requirements (entity_id, source, canon_level, time_context, confidence)
+  - Retrieval abstraction layer (shared interface, no direct vector/graph/SQL calls)
+  - Data vs behavior separation (agents = logic, lore = data stores)
+  - Typed agent responses (structured JSON)
+  - Adapter pattern enforcement
+- Review existing agents for direct storage coupling
+- Document architecture
+- Verify at least one agent against mock alternate backend
+
+### Core Agent Implementation
+- **Ability Agent**: Validate/map Abilities into character.json
+- **Discipline Agent**: Validate/map Disciplines and powers into character.json
+- **Laws/Rules Agent (TM-10)**: Integrate rescanned core rulebooks, normalize rule sections, add canonical identifiers, verify query capabilities
+- **Rituals Agent**: Integrate with rituals_master, character_rituals, Rules database
+- **Paths Agent**: Build logic around paths_master, path_powers, character_paths with challenge handling
+
+### Character System Foundation
+- Create character_relationships table schema
+- Create character_blood_drinks table (event-based)
+- Create generation_blood_limits lookup table
+- Design mortals and ghouls table separation
+- Implement character repair subsystem (scan, display, action phases)
+
+## Phase 2: Data Model & Relationships (High Priority)
+
+### Relationship System
+- Design and implement character_relationships table
+- Support bidirectional relationships (sire→childe, childe→sire as separate rows)
+- Handle relationship types: sire, childe, blood_bond, ally, rival, ghoul_domitor
+- Integrate with status inheritance, discipline teaching permissions, political consequences
+
+### Blood System Implementation
+- Create generation_blood_limits lookup table
+- Implement blood_pool_current as volatile state
+- Update mechanisms: feeding, discipline use, frenzy outcomes, downtime resolution
+- Lookup blood_per_turn by generation (never manual edit)
+
+### Data Completion
+- Audit and replace Discipline power descriptions (add short_description, long_description, system_text)
+- Fill missing data in paths_master (descriptions)
+- Fill missing data in path_powers (system_text, challenge_type, challenge_notes)
+- Audit all Necromancy and Thaumaturgy paths
+- Audit all Necromancy and Thaumaturgy ritual data
+
+## Phase 3: Character Management (High Priority)
+
+### Character Creation & Migration
+- Update Character Creator Page to reflect new discipline structure
+  - Respect clan access, paths vs base disciplines, revised power handling
+  - Critical: Prevents character corruption
+- Create Discipline Migration Script
+  - Scan character_disciplines table
+  - Map old discipline names → new schema
+  - Normalize dots, powers, path linkage
+  - Idempotent, read-only preview first, then committed version
+
+### Character Repair System
+- Create character_repair.php
+- Scan Phase: Iterate over Kindred, flag missing components
+- Display: Table view with character name, clan, generation, missing components list
+- Action: Admin clicks character, modal opens with only missing fields editable, pre-filled where partial data exists, save updates DB, create audit log
+
+### Missing Histories Fix
+- Explicitly list which column summary generator reads
+- Add logging for "present but unread" vs "actually null"
+- Prevent rewriting canon that already exists
+- Fix JOIN loss issues (LEFT JOIN incorrectly or filtering on nullable field)
+
+## Phase 4: Blood Bond System (Medium Priority)
+
+### Phase 1 - Foundations
+- Create character_blood_drinks table (event-based, not state-based)
+- Ensure table is read-only safe for summaries and agents
+- Do not store bond stage as column (derived only)
+- Confirm creature-type compatibility (Kindred→Mortal, Kindred→Ghoul, Kindred→Kindred)
+- Explicitly disallow invalid cases (e.g. Wraith blood)
+- Update summaries to detect blood-drink history, report bond stage (0-3) descriptively only, list orphaned references
+- Never enforce obedience or block actions in summaries
+
+### Phase 2 - Dialogue Integration
+- Expose derived bond stage to Dialogue Agent (0=none, 1=fascination, 2=attachment, 3=full bond)
+- Allow dialogue writers to branch on bond stage
+- Ensure same intent yields different dialogue based on stage
+- Tone rules: Ghoul NPCs may ask for blood, show anxiety/dependence; Kindred NPCs never ask directly, rationalize/resist/allow under pressure; No "Offer Blood" casual dialogue option
+
+### Phase 3 - Pressure & Access Rules
+- Define pressure thresholds: survival/torpor, severe injury, ritual necessity, emotional collapse
+- Prevent casual or transactional blood exchange
+- Explicitly avoid "boon-for-a-sip" normalization
+- Awareness rules: Decide per NPC if they understand blood bond risk at drink #1, recognize danger at drink #2
+- Support denial, shame, and self-justification arcs
+
+### Phase 4 - Consequences & World Reaction
+- Integrate with Rumor Agent: favoritism, whispers of control
+- Integrate with Status/Harpy reactions
+- Allow Sabbat/rivals to exploit blood-bound NPCs
+- Relationship outcomes: devotion, resentment, tragedy, forced separation, death by external forces
+- Avoid binary "good/bad" endings
+
+## Phase 5: Supporting Systems (Medium Priority)
+
+### Influence System
+- Create character_influences table (influence_type, level 0-5)
+- UI for viewing/editing influences
+- Importer from Grapevine XML
+
+### Narrative Compiler
+- Finalize narrative_packages schema usage
+- UI for chapter/arc/session/location/faction scopes
+
+### Pre-Session Questionnaire
+- Implement mandatory pre-session Character Questionnaire
+- Structured JSON storage
+- Completion gating before first session
+- 10-20 XP award rubric (ST approval)
+
+### Read-Only Helper Views
+- Add read-only helper view to derive blood bond stage from character_blood_drinks
+
+## Phase 6: Rules Context & Advanced Systems (Low Priority, Deferred)
+
+### Rules Context Service (TM-11)
+- Define standard rules_context response shape (short snippets, source identifiers, applicability tags)
+- Define how Rituals, Paths, Disciplines, and Abilities agents will call it
+- Add placeholder hooks in agents (no RAG logic yet)
+- Interface spec exists, no behavior change yet, zero hard dependency on RAG infrastructure
+
+### GraphRAG Integration (TM-12)
+- Nightly Briefings
+- Rumor seeding and belief bias
+- Political consequence modeling
+- Multi-hop "who is affected?" reasoning
+- Depends on: TM-11, Nightly Briefing system
+
+## Phase 7: Content & World Building (Ongoing)
+
+### Chronicle & Narrative
+- Create pre-game history/backstory primer (what PCs know before Session 1)
+- Lock canon timeline rules (game start: Saturday, Oct 8, 1994; Elysium: 2nd & 4th Saturdays; Default Elysium: Hawthorn Estate)
+- Flesh out Giovanni presence in Scottsdale (Camelback area)
+- Flesh out Mesa mage skyscraper (late-chronicle reveal)
+- Flesh out Guadalupe Sabbat rumor when appropriate
+- Delay detailing Garou-controlled desert until later arcs
+
+### Phoenix Clanbooks
+- Create Phoenix-localized clanbooks
+- Complete after clanbook analyses
+- Incorporate remaining NPC creations
+
+### Data Quality
+- Ensure all NPC sheets default to "player_name": "NPC"
+- Fix Phreak data integrity bug (investigate import/update scripts overwriting/skipping fields, possibly keyed off clan = N/A, use as test case for repair tooling)
+
+## Phase 8: Media & Presentation (Low Priority)
+
+### Music System
+- Create Music System with leitmotifs for major NPCs
+- Ambient loops for key locations
+- Align with cinematic intros and gameplay
+- Integrate Envato Elements API (future automation)
+- Maintain music usage aligned with Envato library
+
+### Art & Visual Pipeline
+- Maintain VbN Character Art Guide consistency
+- Maintain Dark City Noir style toggle
+- Integrate Flux/LM Studio pipelines where stable
+- Investigate FLUX 2.0 MCP systems
+- Standardize color usage (HEX-only when referenced)
+
+## Phase 9: Tools & Workflow (Ongoing)
+
+### OCR/Text Processing
+- Enforce pinned OCR cleanup rule (rebuild paragraph structure first, remove layout-induced line breaks, fix broken/duplicated words, normalize punctuation and capitalization after structure)
+- Perform structural review pass (identify sections missing subheadings, insert appropriate Markdown subheaders)
+- Perform semantic review pass (identify unlabelled "Example of Play" sections, decide labeling vs non-destructive tagging approach)
+
+### Map Agent
+- Development and integration planning
+
+### Wraith Data Model
+- Decide and document Wraith data model
+- Keep standalone wraith_characters OR migrate to unified characters + splat-extension model
+- Write migration plan
+
+## Phase 10: Future Enhancements (Far Future)
+
+### Blood Bond System Expansion
+- Ghoul PC Expansion (flesh out ghoul-specific stats and progression, enable PC flag for ghouls, reuse existing blood bond system without schema rewrite)
+- Advanced Mechanics: Bond decay over time, ritual bond suppression/breaking, humanity/degeneration interactions
+
+### Blood System Optional Additions
+- Per-night free rouse abstraction
+- Vitae flavor flags (Giovanni, Setite, etc.)
+
+### Humans & Ghouls Split
+- Plan mortals and ghouls table separation (characters → Kindred only, separate mortals table, separate ghouls table)
+- Optional: Use shared base_characters ID if polymorphism needed later
+- Plan now to avoid pain later (don't need to implement immediately)
+
+# Logical Dependency Chain
+
+## Foundation First (Must Complete Before Others)
+1. **Agent Architecture (TM-10)**: System-agnostic knowledge access foundation - enables all other agents
+2. **Laws/Rules Agent**: Central rules brain - required by Rituals Agent, Paths Agent, Discipline Agent
+3. **Character Relationships Table**: Foundation for sire-childe, blood bonds, status inheritance
+4. **Generation Blood Limits Table**: Required for blood system calculations
+5. **Character Blood Drinks Table**: Foundation for blood bond system
+
+## Character System Dependencies
+1. **Discipline Migration Script** → Must complete before new characters created (prevents corruption)
+2. **Character Creator Page Update** → Must reflect new discipline structure
+3. **Character Repair Subsystem** → Can run in parallel but needed for data quality
+4. **Missing Histories Fix** → Required for accurate character summaries
+
+## Agent Implementation Order
+1. **Laws/Rules Agent** (foundation)
+2. **Ability Agent** (simpler, validates basic data)
+3. **Discipline Agent** (depends on Laws Agent for validation)
+4. **Rituals Agent** (depends on Laws Agent, uses rituals_master)
+5. **Paths Agent** (depends on Laws Agent, uses paths_master, path_powers)
+6. **Dialogue Agent** (depends on blood bond system)
+
+## Blood Bond System Phases
+1. **Phase 1 Foundations** → Must complete before Phase 2
+2. **Phase 2 Dialogue Integration** → Depends on Phase 1
+3. **Phase 3 Pressure & Access** → Depends on Phase 2
+4. **Phase 4 Consequences** → Depends on Phase 3
+5. **Phase 5 Agentization** → Depends on all previous phases
+6. **Phase 6 Expansion** → Future enhancement
+
+## Data Completion Dependencies
+1. **Discipline Power Descriptions** → Needed for Discipline Agent accuracy
+2. **Paths Master Data** → Needed for Paths Agent
+3. **Path Powers Data** → Needed for Paths Agent challenge handling
+4. **Ritual Data Audit** → Needed for Rituals Agent
+
+## Supporting Systems (Can Run in Parallel)
+- Influence System (independent)
+- Narrative Compiler (independent)
+- Pre-Session Questionnaire (independent)
+- Music System (independent)
+- Art Pipeline (independent)
+- OCR Processing (independent)
+
+# Risks and Mitigations
+
+## Technical Challenges
+
+### Risk: Agent Architecture Complexity
+- **Mitigation**: Start with system-agnostic foundation (TM-10), verify with mock backend before full implementation
+- **Approach**: Document architecture first, then implement one agent as proof of concept
+
+### Risk: Character Data Corruption During Migration
+- **Mitigation**: Discipline Migration Script must be idempotent, read-only preview first, then committed version
+- **Approach**: Test on copy of database, validate all conversions before applying
+
+### Risk: Blood Bond System Complexity
+- **Mitigation**: Phase approach - start with simple event tracking, add complexity incrementally
+- **Approach**: Never enforce obedience mechanically, keep as narrative/dialogue system
+
+### Risk: Relationship System Bidirectional Complexity
+- **Mitigation**: Explicit design - sire→childe and childe→sire as separate canonical rows
+- **Approach**: Document relationship rules clearly, validate in application layer
+
+## MVP Considerations
+
+### Core MVP (Must Have)
+- Agent Architecture Foundation (TM-10)
+- Laws/Rules Agent (basic query capability)
+- Character Relationships Table (basic structure)
+- Character Blood Drinks Table (event tracking)
+- Character Repair Subsystem (data quality)
+- Discipline Migration Script (prevent corruption)
+
+### Enhanced MVP (Should Have)
+- Ability Agent, Discipline Agent (data validation)
+- Rituals Agent, Paths Agent (rules integration)
+- Blood Bond Phase 1 (foundations)
+- Character Creator Page Update (prevent corruption)
+
+### Future Enhancements (Nice to Have)
+- Blood Bond Phases 2-6 (dialogue, consequences, agentization)
+- GraphRAG Integration (advanced world modeling)
+- Music System, Art Pipeline (presentation)
+- OCR Processing (content cleanup)
+
+## Resource Constraints
+
+### API Dependencies
+- Anthropic API for Taskmaster AI features (currently unavailable)
+- Envato Elements API for music (future automation)
+
+### Development Priorities
+1. **Critical**: Prevent data corruption (Discipline Migration, Character Creator Update)
+2. **High**: Foundation systems (Agent Architecture, Laws Agent, Relationships)
+3. **Medium**: Character management (Repair System, Blood Bond Foundations)
+4. **Low**: Advanced features (GraphRAG, Music, Art Pipeline)
+
+# Appendix
+
+## Design Principles
+
+### Blood Bond System
+- Blood bonds are **rare, dangerous, and personal**
+- Blood is **never casually offered**
+- Ghouls seek blood; Kindred allow it
+- Player choice is preserved; **angst is the cost**
+- Dialogue is the primary expression of the system
+
+### Character System
+- **Key Principle**: Fix root causes, not symptoms
+- **Test Case**: Use Phreak for repair tooling validation
+- **Priority**: Discipline changes and Sire–Childe relationships are critical for system integrity
+- **Timing**: Humans/Ghouls split can be planned now but implemented later
+
+### Agent Architecture
+- Treat **knowledge storage and retrieval as an implementation detail**, not an agent responsibility
+- Names are labels, never keys
+- No hard-coded lore in agent code
+- Agents contain **logic and validation**, lore lives in data stores only
+
+## Technical Specifications
+
+### Database Tables Required
+- character_relationships
+- character_blood_drinks
+- character_influences
+- generation_blood_limits
+- mortals (future)
+- ghouls (future)
+- narrative_packages
+
+### API Endpoints Required
+- Agent query interfaces (Laws, Rituals, Paths, Discipline, Ability)
+- Character repair API
+- Blood bond stage calculation API
+- Influence management API
+
+### File Structure
+- agents/[agent_name]/ - Agent implementations
+- database/ - Migration and update scripts
+- admin/ - Admin panel interfaces
+- includes/ - Shared PHP utilities
+- js/modules/ - JavaScript modules
+- css/ - Stylesheets
+
+## Research Findings
+
+### Existing Systems
+- Character Agent automation pipeline exists
+- Laws Agent with file-based markdown loader exists
+- Admin panel with location management exists
+- Character creation form partially implemented
+
+### Integration Points
+- MySQL database via includes/connect.php
+- MCP servers for Flux Studio, Style Agent
+- Envato Elements for music assets
+- Grapevine XML for influence import
+
+</PRD>
