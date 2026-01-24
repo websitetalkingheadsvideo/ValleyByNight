@@ -42,8 +42,6 @@ include __DIR__ . '/../../../includes/header.php';
 $critical_fields = [
     'biography' => 'Biography',
     'appearance' => 'Appearance',
-    'histories' => 'Histories',
-    'history' => 'History',
     'concept' => 'Concept',
     'nature' => 'Nature',
     'demeanor' => 'Demeanor'
@@ -83,23 +81,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['search'])) {
     unset($_SESSION['updated_character_ids']);
     
     try {
-        // Check which history column exists
-        $history_column = null;
-        $columns_check = db_fetch_all($conn, "SHOW COLUMNS FROM characters LIKE 'histories'");
-        if (!empty($columns_check)) {
-            $history_column = 'histories';
-        } else {
-            $columns_check = db_fetch_all($conn, "SHOW COLUMNS FROM characters LIKE 'history'");
-            if (!empty($columns_check)) {
-                $history_column = 'history';
-            }
-        }
-        
         // Build base select fields
         $select_fields = ['c.id', 'c.character_name', 'c.biography', 'c.appearance', 'c.concept', 'c.nature', 'c.demeanor', 'c.character_image'];
-        if ($history_column) {
-            $select_fields[] = 'c.' . $history_column;
-        }
         
         // Use subqueries for counts to avoid Cartesian product performance issues
         $query = "SELECT " . implode(', ', $select_fields) . ",
@@ -123,7 +106,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['search'])) {
         
         // Check each critical field
         foreach ($critical_fields as $field => $label) {
-            // Skip if field doesn't exist in result (e.g., histories vs history)
+            // Skip if field doesn't exist in result
             if (!array_key_exists($field, $char)) {
                 continue;
             }
@@ -133,11 +116,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['search'])) {
             
             // Check for NULL, empty string, or whitespace-only
             if ($value === null || $value === '' || trim($value) === '') {
-                $is_missing = true;
-            }
-            // Check for empty JSON arrays/objects
-            elseif (in_array($field, ['histories', 'history']) && 
-                    (trim($value) === '[]' || trim($value) === '{}')) {
                 $is_missing = true;
             }
             
@@ -229,9 +207,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['search'])) {
                 
                 if ($value === null || $value === '' || trim($value) === '') {
                     $is_missing = true;
-                } elseif (in_array($field, ['histories', 'history']) && 
-                        (trim($value) === '[]' || trim($value) === '{}')) {
-                    $is_missing = true;
                 }
                 
                 if ($is_missing) {
@@ -308,23 +283,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['search'])) {
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['search_json'])) {
     try {
         // Always query database fresh instead of using cached session data
-        // Check which history column exists
-        $history_column = null;
-        $columns_check = db_fetch_all($conn, "SHOW COLUMNS FROM characters LIKE 'histories'");
-        if (!empty($columns_check)) {
-            $history_column = 'histories';
-        } else {
-            $columns_check = db_fetch_all($conn, "SHOW COLUMNS FROM characters LIKE 'history'");
-            if (!empty($columns_check)) {
-                $history_column = 'history';
-            }
-        }
-        
         // Build base select fields
         $select_fields = ['c.id', 'c.character_name', 'c.biography', 'c.appearance', 'c.concept', 'c.nature', 'c.demeanor'];
-        if ($history_column) {
-            $select_fields[] = 'c.' . $history_column;
-        }
         
         // Query all characters with counts
         $query = "SELECT " . implode(', ', $select_fields) . ",
@@ -354,9 +314,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['search_json'])) {
                 $is_missing = false;
                 
                 if ($value === null || $value === '' || trim($value) === '') {
-                    $is_missing = true;
-                } elseif (in_array($field, ['histories', 'history']) && 
-                        (trim($value) === '[]' || trim($value) === '{}')) {
                     $is_missing = true;
                 }
                 
@@ -488,13 +445,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['search_json'])) {
                         break;
                     case 'Appearance':
                         $has_data = !empty($json_data['appearance']) && trim($json_data['appearance']) !== '';
-                        break;
-                    case 'History':
-                    case 'Histories':
-                        $history_field = isset($json_data['histories']) ? 'histories' : 'history';
-                        $history_value = $json_data[$history_field] ?? '';
-                        $has_data = !empty($history_value) && trim($history_value) !== '' && 
-                                   trim($history_value) !== '[]' && trim($history_value) !== '{}';
                         break;
                     case 'Concept':
                         $has_data = !empty($json_data['concept']) && trim($json_data['concept']) !== '';
@@ -651,19 +601,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['update_database'])) {
                             $update_values[] = trim($json_data['appearance']);
                         }
                         break;
-                    case 'History':
-                    case 'Histories':
-                        $history_field = isset($json_data['histories']) ? 'histories' : 'history';
-                        $history_value = $json_data[$history_field] ?? '';
-                        if (!empty($history_value) && trim($history_value) !== '' && 
-                            trim($history_value) !== '[]' && trim($history_value) !== '{}') {
-                            // Check which column exists in database
-                            $col_check = db_fetch_all($conn, "SHOW COLUMNS FROM characters LIKE 'histories'");
-                            $db_field = !empty($col_check) ? 'histories' : 'history';
-                            $update_fields[] = $db_field . ' = ?';
-                            $update_values[] = trim($history_value);
-                        }
-                        break;
                     case 'Concept':
                         if (!empty($json_data['concept']) && trim($json_data['concept']) !== '') {
                             $update_fields[] = 'concept = ?';
@@ -751,11 +688,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['update_database'])) {
                                                 case 'Appearance':
                                                     $expected_value = trim($json_data['appearance'] ?? '');
                                                     break;
-                                                case 'History':
-                                                case 'Histories':
-                                                    $hist_field = isset($json_data['histories']) ? 'histories' : 'history';
-                                                    $expected_value = trim($json_data[$hist_field] ?? '');
-                                                    break;
                                                 case 'Concept':
                                                     $expected_value = trim($json_data['concept'] ?? '');
                                                     break;
@@ -766,9 +698,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['update_database'])) {
                                                     $expected_value = trim($json_data['demeanor'] ?? '');
                                                     break;
                                             }
-                                            if ($verify_field === strtolower($field) || 
-                                                ($verify_field === 'histories' && ($field === 'History' || $field === 'Histories')) ||
-                                                ($verify_field === 'history' && ($field === 'History' || $field === 'Histories'))) {
+                                            if ($verify_field === strtolower($field)) {
                                                 break;
                                             }
                                         }
@@ -1086,7 +1016,7 @@ if (isset($_SESSION['update_completed']) && $_SESSION['update_completed']) {
             <?php if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['search']) && !isset($error_message)): ?>
                 <!-- Summary Panel -->
                 <div class="card bg-dark border-warning mb-4">
-                    <div class="card-header bg-warning text-dark">
+                    <div class="card-header text-white" style="background-color: #4B0082;">
                         <h2 class="h4 mb-0">Summary</h2>
                     </div>
                     <div class="card-body">
@@ -1157,7 +1087,7 @@ if (isset($_SESSION['update_completed']) && $_SESSION['update_completed']) {
                                                     <?php if ($result['missing_count'] === 0): ?>
                                                         <span class="badge bg-success">Complete</span>
                                                     <?php else: ?>
-                                                        <span class="badge bg-warning"><?php echo $result['missing_count']; ?></span>
+                                                        <span class="badge text-white" style="background-color: #8B0000;"><?php echo $result['missing_count']; ?></span>
                                                     <?php endif; ?>
                                                 </td>
                                                 <td>
@@ -1198,11 +1128,6 @@ if (isset($_SESSION['update_completed']) && $_SESSION['update_completed']) {
                                 <div class="col-6 col-md-4 col-lg-3">
                                     <button type="button" class="btn btn-outline-danger w-100 filter-btn" data-field="Appearance">
                                         Appearance
-                                    </button>
-                                </div>
-                                <div class="col-6 col-md-4 col-lg-3">
-                                    <button type="button" class="btn btn-outline-danger w-100 filter-btn" data-field="History">
-                                        History
                                     </button>
                                 </div>
                                 <div class="col-6 col-md-4 col-lg-3">
@@ -1341,7 +1266,7 @@ if (isset($_SESSION['update_completed']) && $_SESSION['update_completed']) {
                                                         <span class="text-success">✓ All found</span>
                                                     <?php else: ?>
                                                         <?php foreach ($result['still_missing'] as $field): ?>
-                                                            <span class="badge bg-warning me-1 mb-1"><?php echo htmlspecialchars($field); ?></span>
+                                                            <span class="badge text-white me-1 mb-1" style="background-color: #4B0082;"><?php echo htmlspecialchars($field); ?></span>
                                                         <?php endforeach; ?>
                                                     <?php endif; ?>
                                                 </td>
