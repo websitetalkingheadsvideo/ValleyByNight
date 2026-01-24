@@ -1,9 +1,9 @@
 <?php
 /**
  * Centralized Version Management
- * Valley by Night - Version 0.9.61
+ * Valley by Night - Version 0.9.62
  */
 if (!defined('LOTN_VERSION')) {
-   define('LOTN_VERSION', '0.9.61');
+   define('LOTN_VERSION', '0.9.62');
 }
 

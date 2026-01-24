@@ -1,0 +1,84 @@
+{
+    "character_name": "Plot Hooks — The Quiet Herd (Group Home / State Hospital Thread)",
+    "chronicle": "Valley by Night",
+    "plot_hooks": [
+      {
+        "title": "The Quiet Herd",
+        "type": "Investigation / Masquerade Risk / Moral Horror",
+        "difficulty": "Medium",
+        "setup": "A Camarilla-aligned Kindred uses Health Influence to move select long-term patients from the Arizona State Hospital into a group home about a mile north—cheap Central Phoenix, quiet streets, low scrutiny. Officially it’s humane reintegration. In practice it’s a sustainable, deniable herd. The Malkavian Elder who ‘rules’ the hospital has not stopped it—suggesting either consent, surveillance, or a deeper design.",
+        "hook": "One resident is known for going AWOL—never far, never violent—just disappearing for a few hours to walk. On an ordinary night, the PCs encounter him outside the group home boundaries. He seems harmless, but he says something that doesn’t fit: a detail he shouldn’t know, a fear he can’t explain, or a reference to a dream that feels like a message.",
+        "objectives": [
+          "Identify who set up the group home, who feeds there, and what ‘controls’ are in place.",
+          "Protect the AWOL patient (or use him as an entry point) without triggering a lockdown or a cover-up.",
+          "Determine whether the Malkavian Elder is permitting this, watching it, or shaping it for an unknown end."
+        ],
+        "complications": [
+          "Staff and caregivers are pressured to report incidents quickly; the AWOL patient’s repeated escapes are being ‘handled’ by someone with influence.",
+          "Feeding routines are designed to look like medication schedules and therapy sessions, blurring the line between care and predation.",
+          "Any overt interference risks Masquerade exposure, police attention, or a direct reaction from the hospital’s unseen authority."
+        ],
+        "themes": [
+          "Institutional control",
+          "Predation disguised as care",
+          "Masquerade fragility",
+          "The terror of calm compliance"
+        ],
+        "potential_outcomes": [
+          "The PCs expose the herd and force it shut down—creating a messy fallout: displaced residents, missing records, and furious elders who relied on it.",
+          "The PCs quietly redirect the operation toward safer feeding ethics, gaining boons but inheriting responsibility and risk.",
+          "The PCs discover the herd is part of a larger design linked to the Malkavian Elder’s unknown agenda—and become targets of his attention."
+        ],
+        "opportunity": "A slow-burn investigation that starts human-scale (one AWOL patient) and expands into sect-level consequences and Elder-level dread.",
+        "value": "Leverage over Health Influence networks, blackmail material on feeding ethics, and a potential long-term ‘contact’ among staff or residents.",
+        "twist_options": [
+          "The AWOL patient is not escaping randomly—he is following a route he remembers only in dreams.",
+          "The group home residents share a recurring ‘visitor’ in sleep: a presence that watches, listens, and leaves them calm."
+        ],
+        "emotional_stakes": "The PCs must decide whether they treat residents as people or resources—and whether ‘humane’ predation is still predation.",
+        "character_moment": "The AWOL patient recognizes one PC by voice or scent—despite never meeting them—because he ‘met them’ in a dream.",
+        "escalation": "A minor AWOL encounter becomes a missing-person event, then a records scrub, then a quiet warning from someone connected to the hospital’s power structure.",
+        "twist": "The Malkavian Elder never needed to intervene—because the group home is already inside his web, whether anyone realizes it or not.",
+        "hook_options": [
+          "The AWOL patient bumps into the PCs during a routine hunt and unintentionally disrupts it.",
+          "A caregiver mistakes the PCs for ‘after-hours therapists’ and pleads for help.",
+          "A police welfare check is scheduled for the group home the next day, raising the Masquerade stakes."
+        ],
+        "pc_involvement": "The PCs can stumble onto the AWOL patient, be hired to recover him discreetly, or be asked by a compassionate ghoul to ‘make sure nobody hurts him.’",
+        "stakes": "Success can prevent a Masquerade incident and reveal hidden sect rot; failure can produce a public tragedy, a crackdown, or attention from the hospital’s unseen ruler.",
+        "structure": {
+          "act_i": {
+            "name": "A Walk Outside the Lines",
+            "plays": [
+              "PCs meet the AWOL patient on a quiet street near the group home.",
+              "He says something impossible—or reacts with fear to something the PCs can’t see."
+            ]
+          },
+          "act_ii": {
+            "name": "Care as Camouflage",
+            "plays": [
+              "PCs trace the group home’s funding and staffing to Health Influence channels.",
+              "They discover feeding routines disguised as therapy, medication, or ‘sleep programs.’"
+            ]
+          },
+          "act_iii": {
+            "name": "The Hospital’s Shadow Reaches Out",
+            "plays": [
+              "Someone scrubs records or pressures staff; the AWOL patient is targeted for transfer or restraint.",
+              "A subtle message arrives: not a threat—an observation—implying the Elder already knows the PCs are involved."
+            ]
+          }
+        },
+        "failure_points": [
+          "The PCs spook staff into calling authorities, escalating scrutiny on the group home.",
+          "The AWOL patient is ‘transferred’ and effectively disappears behind institutional walls."
+        ],
+        "resources": [
+          "A sympathetic night nurse or caregiver contact",
+          "Paper trails through Health Influence funding",
+          "Neighborhood witnesses who normalize ‘odd’ behavior"
+        ]
+      }
+    ]
+  }
+  

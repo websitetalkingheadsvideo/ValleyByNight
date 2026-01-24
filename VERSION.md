@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.61
+## Current Version: 0.9.62
+
+**Date:** 2025-01-24  
+**Type:** Patch (Added plot hooks JSON files: Piston, Warner Jefferson, Quiet Herd Group Home, Setite Gilded Coil)
+
+## Previous Version: 0.9.61
 
 **Date:** 2025-01-24  
 **Type:** Patch (Character Data Quality tools: removed history field support, updated quick-edit to show only missing fields, improved UI styling with dark purple/red color scheme)
