@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.60
+## Current Version: 0.9.61
+
+**Date:** 2025-01-24  
+**Type:** Patch (Character Data Quality tools: removed history field support, updated quick-edit to show only missing fields, improved UI styling with dark purple/red color scheme)
+
+## Previous Version: 0.9.60
 
 **Date:** 2025-01-24  
 **Type:** Patch (Character Editor tools: added quick-edit.php, ability category management scripts, fixed ability category lookup from abilities table, added Character Editor card to dashboard)
