@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.59
+## Current Version: 0.9.60
+
+**Date:** 2025-01-24  
+**Type:** Patch (Character Editor tools: added quick-edit.php, ability category management scripts, fixed ability category lookup from abilities table, added Character Editor card to dashboard)
+
+## Previous Version: 0.9.59
 
 **Date:** 2025-01-24  
 **Type:** Patch (Character Data Quality Blockers tool: added JSON file search, database update functionality, image checking, and progress indicators)

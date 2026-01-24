@@ -224,6 +224,18 @@ include 'includes/header.php';
                     </div>
                 </div>
 
+                <div class="card col-md-4 col-sm-6">
+                    <div class="card-body text-center">
+                        <div class="vbn-card-icon" aria-hidden="true">✏️</div>
+                        <h3 class="card-title">Character Editor</h3>
+                        <p class="card-text">Quick character editing and data quality tools</p>
+                        <div class="d-flex gap-2 justify-content-center flex-wrap">
+                            <a href="tools/repeatable/character-data/quick-edit.php" class="btn btn-primary btn-sm">Quick Edit</a>
+                            <a href="tools/repeatable/character-data/index.php" class="btn btn-secondary btn-sm">Data Quality</a>
+                        </div>
+                    </div>
+                </div>
+
                 <div class="card col-md-4 col-sm-6 disabled opacity-50">
                     <div class="card-body text-center">
                         <div class="vbn-card-icon">📖</div>
