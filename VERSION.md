@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.58
+## Current Version: 0.9.59
+
+**Date:** 2025-01-24  
+**Type:** Patch (Character Data Quality Blockers tool: added JSON file search, database update functionality, image checking, and progress indicators)
+
+## Previous Version: 0.9.58
 
 **Date:** 2025-01-24  
 **Type:** Patch (Restored chat character selection for admins, fixed login grey text, added console logging, fixed HTML structure)
