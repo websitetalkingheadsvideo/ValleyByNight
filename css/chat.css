@@ -7,6 +7,22 @@
     padding: 30px 20px;
 }
 
+.chat-container .section-heading {
+    font-family: var(--font-title), 'Libre Baskerville', serif;
+    color: #f5e6d3;
+    font-size: 2.2em;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #8B0000;
+    padding-bottom: 10px;
+}
+
+.chat-container .welcome-text {
+    font-family: var(--font-body), 'Source Serif Pro', serif;
+    color: #b8a090;
+    font-size: 1.1em;
+    margin-bottom: 30px;
+}
+
 .chat-content {
     padding: 20px;
     min-height: 400px;

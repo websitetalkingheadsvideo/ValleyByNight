@@ -25,8 +25,8 @@ include 'includes/header.php';
 
 <div class="chat-container">
     <h2 class="section-heading">💬 Chat Room</h2>
-    <p class="welcome-text">Select a character to enter the chat.</p>
-    
+    <p class="welcome-text"><?php echo $is_admin ? 'Select your character or any NPC to enter the chat.' : 'Select a character to enter the chat.'; ?></p>
+
     <div class="chat-content">
             <div class="character-selection">
                 <h3>Select Character for Chat</h3>
@@ -65,15 +65,12 @@ include 'includes/header.php';
             </div>
         </div>
     </div>
-</div>
 
 <script>
-    // Pass admin status to JavaScript
     window.isAdmin = <?php echo $is_admin ? 'true' : 'false'; ?>;
+    window.APP_BASE = <?php echo json_encode(isset($path_prefix) ? $path_prefix : ''); ?>;
 </script>
-<script src="js/chat.js" defer></script>
-
+<script src="<?php echo isset($path_prefix) ? $path_prefix : ''; ?>js/chat.js?v=2" defer></script>
 <?php
-// Include footer
 include 'includes/footer.php';
 ?>
