@@ -379,6 +379,126 @@ php tools/repeatable/php/database-tools/db_cleanup_0863.php --execute
 
 ---
 
+#### remove_optional_abilities.php
+
+**Purpose:** Removes Optional category abilities (or NULL/empty category abilities) from a character.
+
+**Usage:**
+```bash
+# CLI with character name
+php tools/repeatable/remove_optional_abilities.php --character="Dorikhan Caine"
+
+# CLI with character ID
+php tools/repeatable/remove_optional_abilities.php --character-id=188
+
+# Web interface
+# Access via browser: tools/repeatable/remove_optional_abilities.php?character=Dorikhan%20Caine
+# Or: tools/repeatable/remove_optional_abilities.php?character_id=188
+```
+
+**What it does:**
+- Finds character by name or ID
+- Deletes all abilities with category = 'Optional' OR NULL OR empty string
+- Useful for cleaning up incorrectly categorized abilities before re-importing
+
+**Output:** Console/browser output showing count of removed abilities
+
+**Dependencies:**
+- Database connection (via `includes/connect.php`)
+- `characters` table
+- `character_abilities` table with `ability_category` column
+
+**Use case:** Clean up Optional/NULL category abilities before re-importing with correct categories
+
+---
+
+#### update_abilities_from_json.php
+
+**Purpose:** Updates character abilities from a JSON file, automatically categorizing them using the `abilities` reference table.
+
+**Usage:**
+```bash
+# CLI with JSON filename and character name
+php tools/repeatable/update_abilities_from_json.php --json="Dorikhan Caine2015.json" --character="Dorikhan Caine"
+
+# CLI with JSON filename and character ID
+php tools/repeatable/update_abilities_from_json.php --json="Dorikhan Caine2015.json" --character-id=188
+
+# CLI with character name only (auto-finds JSON file)
+php tools/repeatable/update_abilities_from_json.php --character="Dorikhan Caine" --character-id=188
+
+# Web interface
+# Access via browser: tools/repeatable/update_abilities_from_json.php?json=Dorikhan+Caine2015.json&character_id=188
+# Or: tools/repeatable/update_abilities_from_json.php?character=Dorikhan%20Caine&character_id=188
+```
+
+**What it does:**
+- Loads character abilities from JSON file in `reference/Characters/Added to Database/`
+- Deletes all existing abilities for the character
+- Parses abilities from JSON (supports string format like "Ability Name 3" and object format)
+- **Automatically looks up correct category** from `abilities` reference table (Physical, Social, Mental, or Optional)
+- Re-inserts all abilities with correct categories
+- Handles specializations and levels
+
+**Features:**
+- Auto-detects JSON file if only character name provided
+- Always uses `abilities` table as source of truth for categories
+- Handles both string and object ability formats from JSON
+- Extracts specializations from parentheses in string format
+
+**Output:** Console/browser output showing count of inserted abilities and any errors
+
+**Dependencies:**
+- Database connection (via `includes/connect.php`)
+- `characters` table
+- `character_abilities` table with `ability_category` column
+- `abilities` reference table (for category lookup)
+- JSON files in `reference/Characters/Added to Database/`
+
+**Use case:** Fix incorrectly categorized abilities by re-importing from JSON with proper category lookup
+
+**Note:** This script is the recommended way to fix ability categories - it ensures all abilities are properly categorized according to the `abilities` reference table.
+
+---
+
+#### check_ability_categories.php
+
+**Purpose:** Diagnostic tool to check what ability categories are currently stored for a character.
+
+**Usage:**
+```bash
+# CLI with character name
+php tools/repeatable/check_ability_categories.php --character="Dorikhan Caine"
+
+# CLI with character ID
+php tools/repeatable/check_ability_categories.php --character-id=188
+
+# Web interface
+# Access via browser: tools/repeatable/check_ability_categories.php?character=Dorikhan%20Caine
+# Or: tools/repeatable/check_ability_categories.php?character_id=188
+```
+
+**What it does:**
+- Finds character by name or ID
+- Queries all abilities for the character
+- Groups abilities by category
+- Displays count and list of abilities per category
+- Shows NULL/empty categories as "(NULL/empty)"
+
+**Output:** Console/browser output showing:
+- Total ability count
+- Abilities grouped by category with counts
+- Each ability with level and specialization
+
+**Dependencies:**
+- Database connection (via `includes/connect.php`)
+- `characters` table
+- `character_abilities` table with `ability_category` column
+
+**Use case:** Diagnose ability category issues before fixing them with `update_abilities_from_json.php`
+
+---
+
 ### Data Tools
 
 Tools for generating reports, summaries, and data analysis from the database.
