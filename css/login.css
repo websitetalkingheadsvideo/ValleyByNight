@@ -13,3 +13,27 @@
 /* Bootstrap .btn component handles button styling */
 /* Bootstrap utilities handle links: .mt-4 .pt-3 .text-center .border-top */
 
+/* Login subtitle and helper text - readable grey */
+.login-subtitle {
+    color: #b8a090;
+    font-family: var(--font-body), 'Source Serif Pro', serif;
+}
+
+.login-helper {
+    color: #b8a090;
+    font-family: var(--font-body), 'Source Serif Pro', serif;
+    font-size: 0.9em;
+}
+
+/* Login subtitle and helper text - readable grey */
+.login-subtitle {
+    color: #b8a090;
+    font-family: var(--font-body), 'Source Serif Pro', serif;
+}
+
+.login-helper {
+    color: #b8a090;
+    font-family: var(--font-body), 'Source Serif Pro', serif;
+    font-size: 0.9em;
+}
+

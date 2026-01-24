@@ -53,32 +53,38 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 async function loadUserCharacters() {
+    const url = (typeof window.APP_BASE === 'string' ? window.APP_BASE : '') + 'api_get_characters.php';
+    console.log('[Chat] About to load characters…', { url, isAdmin: !!window.isAdmin });
+
     const list = document.getElementById('characterList');
     if (list) list.setAttribute('aria-busy', 'true');
+
     try {
-        console.log('Fetching characters from API...');
-        const response = await fetch('api_get_characters.php');
-        console.log('API response status:', response.status);
+        const response = await fetch(url);
         const data = await response.json();
-        console.log('API response data:', data);
-        
+
+        console.log('[Chat] API response', {
+            status: response.status,
+            ok: response.ok,
+            success: data.success,
+            characterCount: (data.characters || []).length,
+            error: data.error || null
+        });
+
         if (data.success) {
             userCharacters = data.characters || [];
-            console.log('Loaded characters:', userCharacters.length);
-            if (userCharacters.length > 0) {
-                console.log('Sample character:', userCharacters[0]);
+            if (userCharacters.length === 0) {
+                console.warn('[Chat] API returned success but 0 characters — check admin role and DB');
+            } else {
+                console.log('[Chat] Loaded', userCharacters.length, 'characters');
             }
-            
-            // Apply stored filter after loading characters - this will now work since characters are loaded
+
             const filterSelect = document.getElementById('characterTypeFilter');
             if (filterSelect) {
-                // Update dropdown to match stored filter
                 filterSelect.value = pendingFilterType;
             }
-            // Apply the filter now that characters are loaded
-            console.log('Characters loaded, applying filter:', pendingFilterType, 'with', userCharacters.length, 'characters');
             filterCharactersByType(pendingFilterType);
-            
+
             if (list) {
                 list.setAttribute('aria-busy', 'false');
                 let status = document.getElementById('characterListStatus');
@@ -92,13 +98,24 @@ async function loadUserCharacters() {
                 status.textContent = `${filteredCharacters.length} character${filteredCharacters.length === 1 ? '' : 's'} loaded`;
             }
         } else {
+            console.error('[Chat] Load failed — API success=false', {
+                url,
+                status: response.status,
+                error: data.error || '(none)',
+                raw: data
+            });
             if (list) {
                 list.setAttribute('aria-busy', 'false');
                 list.innerHTML = '<div class="no-characters">No characters found. <a href="lotn_char_create.php">Create your first character</a></div>';
             }
         }
     } catch (error) {
-        console.error('Error loading characters:', error);
+        console.error('[Chat] Load failed — fetch error', {
+            url,
+            message: error.message,
+            stack: error.stack,
+            error
+        });
         if (list) {
             list.setAttribute('aria-busy', 'false');
             list.innerHTML = '<div class="no-characters">Error loading characters. Please try again.</div>';
@@ -147,7 +164,8 @@ function filterCharactersByType(type) {
 
 function displayCharacters(characters) {
     const characterList = document.getElementById('characterList');
-    
+    if (!characterList) return;
+
     if (characters.length === 0) {
         characterList.innerHTML = 
             '<div class="no-characters">No characters found. <a href="lotn_char_create.php">Create your first character</a></div>';

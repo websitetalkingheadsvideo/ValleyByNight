@@ -22,11 +22,11 @@ try {
     $user_role = verifyUserRole($conn, $user_id);
     $is_admin = isAdminUser($user_role);
     
-    // Build query - include NPCs if user is admin
+    // Build query - include all NPCs for admins (player_name = 'NPC' or pc = 0)
     if ($is_admin) {
-        $query = "SELECT id, character_name, clan, player_name, status, generation, concept, nature, demeanor
+        $query = "SELECT id, character_name, clan, player_name, status, generation, concept, nature, demeanor, pc
                   FROM characters 
-                  WHERE user_id = ? OR player_name = 'NPC'
+                  WHERE user_id = ? OR player_name = 'NPC' OR pc = 0
                   ORDER BY player_name DESC, character_name ASC";
     } else {
         $query = "SELECT id, character_name, clan, player_name, status, generation, concept, nature, demeanor
@@ -56,7 +56,7 @@ try {
     
     $characters = [];
     while ($row = mysqli_fetch_assoc($result)) {
-        $is_npc = ($row['player_name'] === 'NPC');
+        $is_npc = ($row['player_name'] === 'NPC') || (isset($row['pc']) && (int) $row['pc'] === 0);
         $characters[] = [
             'id' => $row['id'],
             'character_name' => $row['character_name'],

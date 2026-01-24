@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.54
+## Current Version: 0.9.58
+
+**Date:** 2025-01-24  
+**Type:** Patch (Restored chat character selection for admins, fixed login grey text, added console logging, fixed HTML structure)
+
+## Previous Version: 0.9.57
 
 **Date:** 2025-01-30  
 **Type:** Patch (Fixed login page readability, added admin NPC selection to chat, fixed API database query)

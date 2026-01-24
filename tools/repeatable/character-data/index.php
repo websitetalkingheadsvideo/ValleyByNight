@@ -1,4 +1,5 @@
 <?php
+echo "Hello World";
 /**
  * Character Data Quality Blockers
  * 
