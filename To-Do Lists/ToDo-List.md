@@ -1,6 +1,6 @@
 # Valley by Night — Master To-Do List
 
-_Last updated: 2026-01-21_  
+_Last updated: 2026-01-25_  
 _Combined from all to-do lists in this folder_
 
 ---
@@ -33,6 +33,20 @@ _Combined from all to-do lists in this folder_
   - ❌ Derive blood bond stage from `character_blood_drinks`
 - ❌ Add **Map Agent**
   - ❌ Development and integration planning
+- ❌ Implement **Chronicle Agent** (World State Manager)
+  - ❌ Create `chronicles` table schema
+  - ❌ Implement world state ownership (current night, time-of-night phase, global stability meters, plotline tracking)
+  - ❌ Process time events from Time Agent
+  - ❌ Apply rule-driven world changes (scheduled plot escalations, pressure drift, Masquerade degradation)
+  - ❌ Manage knowledge & rumor state (threat/faction existence, belief propagation)
+  - ❌ Implement auditability & debugging (append-only state log, before/after snapshots)
+  - ❌ Enforce single-writer pattern (only Chronicle Agent writes to `chronicles` table)
+- ❌ Implement **Time Agent**
+  - ❌ Create time event system
+  - ❌ Handle time advancement requests (next phase, next night, multiple nights, explicit set)
+  - ❌ Model night phases (early, mid, late, pre_dawn)
+  - ❌ Emit time events (not direct state mutation)
+  - ❌ Integrate with Chronicle Agent for world state updates
 
 ---
 

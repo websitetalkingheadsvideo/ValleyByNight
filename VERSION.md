@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.62
+## Current Version: 0.9.63
+
+**Date:** 2026-01-25  
+**Type:** Patch (Added book summaries for Clan Books and New Books directories)
+
+## Previous Version: 0.9.62
 
 **Date:** 2025-01-24  
 **Type:** Patch (Added plot hooks JSON files: Piston, Warner Jefferson, Quiet Herd Group Home, Setite Gilded Coil)
