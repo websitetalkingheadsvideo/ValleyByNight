@@ -35,12 +35,8 @@ sync_config.jsonc
 *.pdf
 *.docx
 *.rtf
-reference/Books/**/*.pdf
-reference/Books/**/*.docx
-reference/Books/**/*.rtf
 
 # Books folders (keeping only Books_md_ready_fixed_cleaned_v2)
-reference/Books/
 reference/Books_md/
 reference/Books_md_clean/
 reference/Books_md_ready/

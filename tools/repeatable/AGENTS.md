@@ -16,6 +16,7 @@ This document provides a comprehensive guide to all reusable tools in `tools/rep
   - [API Tools](#api-tools)
   - [Data Extraction](#data-extraction)
   - [Analysis Tools](#analysis-tools)
+  - [Books Tools](#books-tools)
 
 ---
 
@@ -755,9 +756,11 @@ python tools/repeatable/python/pdf-tools/extract_pdf_page.py book.pdf 42
 
 ---
 
-### OCR Tools
+### Text Cleanup Tools
 
-Tools for OCR processing and text cleanup.
+Tools for cleaning up OCR-extracted text (fixing split words, spelling errors, and other OCR artifacts).
+
+**Note:** These tools clean up text that has already been extracted via OCR. To actually perform OCR on image-based PDFs, use the OCR tools below.
 
 #### fix_ocr_spelling.py
 
@@ -765,7 +768,7 @@ Tools for OCR processing and text cleanup.
 
 **Usage:**
 ```bash
-python tools/repeatable/python/ocr-tools/fix_ocr_spelling.py <input_dir> [--output-dir=<dir>] [--dry-run]
+python tools/repeatable/python/text-cleanup-tools/fix_ocr_spelling.py <input_dir> [--output-dir=<dir>] [--dry-run]
 ```
 
 **What it does:**
@@ -794,7 +797,7 @@ python tools/repeatable/python/ocr-tools/fix_ocr_spelling.py <input_dir> [--outp
 
 **Usage:**
 ```bash
-python tools/repeatable/python/ocr-tools/clean_pdf_text.py <input_file> [output_file]
+python tools/repeatable/python/text-cleanup-tools/clean_pdf_text.py <input_file> [output_file]
 ```
 
 **What it does:**
@@ -822,7 +825,7 @@ python tools/repeatable/python/ocr-tools/clean_pdf_text.py <input_file> [output_
 
 **Usage:**
 ```bash
-python tools/repeatable/python/ocr-tools/ocr_process_folder.py
+python tools/repeatable/python/text-cleanup-tools/ocr_process_folder.py
 ```
 
 **What it does:**
@@ -842,7 +845,7 @@ python tools/repeatable/python/ocr-tools/ocr_process_folder.py
 
 **Usage:**
 ```bash
-python tools/repeatable/python/ocr-tools/clean_ocr_markdown.py [--input-dir=<dir>] [--output-dir=<dir>]
+python tools/repeatable/python/text-cleanup-tools/clean_ocr_markdown.py [--input-dir=<dir>] [--output-dir=<dir>]
 ```
 
 **What it does:**
@@ -863,16 +866,53 @@ python tools/repeatable/python/ocr-tools/clean_ocr_markdown.py [--input-dir=<dir
 
 **Usage:**
 ```bash
-python tools/repeatable/python/ocr-tools/ocr_process_full_file.py
+python tools/repeatable/python/text-cleanup-tools/ocr_process_full_file.py
 ```
 
 **What it does:**
-- Processes complete OCR files (not page-by-page)
+- Processes complete OCR-extracted text files to fix split words
 - Handles full document processing
 
 **Dependencies:** Python 3.7+
 
-**Use case:** Process complete OCR documents
+**Use case:** Process complete OCR-extracted text files to fix split words
+
+---
+
+### OCR Tools
+
+Tools for performing OCR (Optical Character Recognition) on image-based PDFs using Tesseract.
+
+**Note:** These tools actually perform OCR. For cleaning up OCR-extracted text, use the Text Cleanup Tools above.
+
+#### ocr_pdf.py
+
+**Purpose:** Extracts text from image-based PDFs using Tesseract OCR.
+
+**Usage:**
+```bash
+python tools/repeatable/python/ocr-tools/ocr_pdf.py <pdf_file> [output_file] [--lang=LANG] [--dpi=DPI]
+```
+
+**What it does:**
+1. Converts PDF pages to images (using pdf2image)
+2. Runs Tesseract OCR on each page image
+3. Combines all extracted text with page markers
+4. Saves to output file or prints to stdout
+
+**Features:**
+- Supports custom language codes
+- Configurable DPI for image conversion
+- Page markers in output (=== PAGE N ===)
+- Automatic cleanup of temporary files
+
+**Dependencies:**
+- Python 3.7+
+- Tesseract OCR (installed system-wide)
+- `pdf2image` package: `pip install pdf2image`
+- On Windows: poppler (for pdf2image)
+
+**Use case:** Extract text from scanned PDFs or image-based PDFs that don't have selectable text
 
 ---
 
@@ -1038,6 +1078,33 @@ python tools/repeatable/python/analysis-tools/analyze_game_design.py
 
 ---
 
+### Books Tools
+
+Tools for scanning `reference/Books` vs `reference/Books_summaries` and OCR status.
+
+#### scan_books_ocr_report.py
+
+**Purpose:** Find PDFs in `reference/Books` without a matching summary in `reference/Books_summaries`, run `extract_full_pdf_text` on each, and record whether they need OCR (image-based). Writes `reference/Books/books_ocr.md`.
+
+**Usage:**
+```bash
+python tools/repeatable/python/books_tools/scan_books_ocr_report.py [--books-dir DIR] [--summaries-dir DIR] [--output PATH]
+```
+
+**What it does:**
+- Scans Books for PDFs, Books_summaries for `.md`
+- Matches by normalized names (heuristic)
+- For PDFs without a match: runs `extract_full_pdf_text.py`; "needs OCR" if very little text extracted
+- Writes `reference/Books/books_ocr.md` with findings
+
+**Output:** `reference/Books/books_ocr.md` (or `--output` path)
+
+**Dependencies:** Python 3.7+, `extract_full_pdf_text.py` (pdfplumber or PyPDF2)
+
+**Use case:** Identify books missing summaries and which of those require OCR before summarization
+
+---
+
 ## Quick Reference
 
 ### Common PHP Tools
@@ -1072,8 +1139,11 @@ python tools/repeatable/python/text-tools/remove_old_url.py
 python tools/repeatable/python/pdf-tools/extract_pdf_page.py book.pdf 42
 
 # OCR Processing
-python tools/repeatable/python/ocr-tools/fix_ocr_spelling.py input_dir/ --output-dir=output_dir/
-python tools/repeatable/python/ocr-tools/clean_pdf_text.py input.txt output.txt
+python tools/repeatable/python/text-cleanup-tools/fix_ocr_spelling.py input_dir/ --output-dir=output_dir/
+python tools/repeatable/python/text-cleanup-tools/clean_pdf_text.py input.txt output.txt
+
+# Books scan (missing summaries + OCR status)
+python tools/repeatable/python/books_tools/scan_books_ocr_report.py
 ```
 
 ---
@@ -1092,7 +1162,8 @@ python tools/repeatable/python/ocr-tools/clean_pdf_text.py input.txt output.txt
 
 ### Common Python Packages
 - `wordninja` - For text-tools/fix_spaces.py
-- `pyspellchecker` - For ocr-tools/fix_ocr_spelling.py (optional)
+- `pyspellchecker` - For text-cleanup-tools/fix_ocr_spelling.py (optional)
+- `pdf2image` - For ocr-tools/ocr_pdf.py (required for OCR)
 - `PyPDF2` or `pdfplumber` - For pdf-tools/extract_pdf_page.py
 - `requests` - For api-tools
 - `mysql-connector-python` - For api-tools/download_envato_images.py

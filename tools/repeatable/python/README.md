@@ -13,8 +13,11 @@ Tools for text processing and cleanup.
 ### [PDF Tools](pdf-tools/README.md)
 Tools for PDF extraction and processing.
 
+### [Text Cleanup Tools](text-cleanup-tools/README.md)
+Tools for cleaning up OCR-extracted text (fix split words, spelling, etc.).
+
 ### [OCR Tools](ocr-tools/README.md)
-Tools for OCR processing and text cleanup.
+Tools for performing OCR on image-based PDFs using Tesseract.
 
 ### [API Tools](api-tools/README.md)
 Tools for API interaction and data fetching.
@@ -24,6 +27,9 @@ Tools for extracting data from various sources.
 
 ### [Analysis Tools](analysis-tools/README.md)
 Tools for data analysis and reporting.
+
+### [Books Tools](books_tools/README.md)
+Tools for scanning Books vs Books_summaries and OCR status.
 
 ## Common Dependencies
 
