@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.66
+## Current Version: 0.9.67
+
+**Date:** 2026-01-25  
+**Type:** Patch (RAG prep: LotNR corpus generation with lexicon extraction fixes)
+
+## Previous Version: 0.9.66
 
 **Date:** 2026-01-25  
 **Type:** Patch (Added OCR extracted text files and updated gitignore)
