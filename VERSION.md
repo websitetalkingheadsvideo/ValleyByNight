@@ -1,6 +1,16 @@
 # Version History
 
-## Current Version: 0.9.64
+## Current Version: 0.9.66
+
+**Date:** 2026-01-25  
+**Type:** Patch (Added OCR extracted text files and updated gitignore)
+
+## Previous Version: 0.9.65
+
+**Date:** 2026-01-25  
+**Type:** Patch (Version sync)
+
+## Previous Version: 0.9.64
 
 **Date:** 2026-01-25  
 **Type:** Patch (Reorganized OCR tools: split into actual OCR tool and text cleanup tools, added PyMuPDF-based OCR tool)
