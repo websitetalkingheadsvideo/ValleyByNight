@@ -1,0 +1,27 @@
+---
+description: Use CSS custom properties defined in css/global.css for theme colors and fonts instead of hardcoded values
+globs: css/**/*.css, agents/**/css/**/*.css
+alwaysApply: false
+---
+
+- **Theme colors and fonts MUST be referenced via CSS custom properties**
+  - Canonical variables live in [V:\css\global.css](mdc:css/global.css) under `:root`.
+  - Bootstrap theming enhancements should reference the same variables (see [V:\css\bootstrap-overrides.css](mdc:css/bootstrap-overrides.css)).
+
+- **Use variables for colors and fonts**
+
+```css
+.card {
+  background: linear-gradient(135deg, var(--deep-maroon) 0%, var(--dusk-brown-black) 100%);
+  border: 2px solid var(--blood-red);
+  font-family: var(--font-body);
+  color: var(--text-mid);
+}
+```
+
+- **New/edited CSS MUST NOT introduce near-duplicate hex values**
+  - If a new theme color is required, it MUST be added to `:root` in `css/global.css` and used via `var(--...)`.
+  - This keeps palette management centralized and consistent.
+
+- **Bootstrap customization MUST remain scoped to Bootstrap classes**
+  - See [Bootstrap.mdc](mdc:.cursor/rules/Bootstrap.mdc).

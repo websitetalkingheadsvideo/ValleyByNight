@@ -1,7 +1,7 @@
 ---
 description: Guidelines for organizing CSS code using external files instead of embedded style blocks
 globs: **/*.php, **/*.html, **/*.css
-alwaysApply: true
+alwaysApply: false
 ---
 
 # CSS Organization Rule - External Stylesheets

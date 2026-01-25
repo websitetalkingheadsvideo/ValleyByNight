@@ -1,0 +1,39 @@
+---
+description: Require shared PHP files using require_once with __DIR__-based paths (no bare relative includes)
+globs: **/*.php
+alwaysApply: false
+---
+
+- **Shared infrastructure MUST be loaded using `require_once` + `__DIR__`**
+  - Use `require_once` for shared files to prevent double-includes.
+  - Use `__DIR__` so includes work from any current working directory.
+  - **DO NOT** use bare relative paths like `require_once 'includes/connect.php';` in new/edited code.
+
+- **Canonical shared includes**
+  - **DB connection + DB helpers**: [V:\includes\connect.php](mdc:includes/connect.php)
+  - **Page chrome**: [V:\includes\header.php](mdc:includes/header.php) and [V:\includes\footer.php](mdc:includes/footer.php)
+  - **Version constant**: [V:\includes\version.php](mdc:includes/version.php)
+
+- **Include patterns (root vs subdirectory)**
+
+```php
+// Root-level file (e.g., V:\index.php)
+require_once __DIR__ . '/includes/connect.php';
+require_once __DIR__ . '/includes/version.php';
+include __DIR__ . '/includes/header.php';
+// ...
+include __DIR__ . '/includes/footer.php';
+```
+
+```php
+// Subdirectory file (e.g., V:\admin\admin_panel.php)
+require_once __DIR__ . '/../includes/connect.php';
+require_once __DIR__ . '/../includes/version.php';
+include __DIR__ . '/../includes/header.php';
+// ...
+include __DIR__ . '/../includes/footer.php';
+```
+
+- **Page-specific assets MUST be configured before including the header/footer**
+  - See [V:\includes\header.php](mdc:includes/header.php) for `$extra_css` handling.
+  - See [V:\includes\footer.php](mdc:includes/footer.php) for `$extra_js` handling (including `:defer` support).

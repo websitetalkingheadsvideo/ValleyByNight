@@ -1,0 +1,41 @@
+---
+description: Admin pages must enforce admin or storyteller access using includes/verify_role.php and redirect unauthorized users to login.php
+globs: admin/**/*.php
+alwaysApply: false
+---
+
+- **Admin UI pages MUST require authentication and verified privileges**
+  - Start the session (or ensure it is started).
+  - Include DB connection.
+  - Verify role against the database (prevents session tampering).
+  - Redirect to `login.php` if the user is not authorized.
+
+- **Canonical privilege verification**
+  - Use [V:\includes\verify_role.php](mdc:includes/verify_role.php):
+    - `verifyUserRole($conn, $user_id)`
+    - `isAdminUser($user_role)` (admin OR storyteller)
+
+```php
+<?php
+require_once __DIR__ . '/../includes/connect.php';
+
+if (session_status() === PHP_SESSION_NONE) {
+    session_start();
+}
+
+$user_id = (int)($_SESSION['user_id'] ?? 0);
+if ($user_id <= 0) {
+    header('Location: ../login.php');
+    exit;
+}
+
+require_once __DIR__ . '/../includes/verify_role.php';
+$user_role = verifyUserRole($conn, $user_id);
+if (!isAdminUser($user_role)) {
+    header('Location: ../login.php');
+    exit;
+}
+```
+
+- **Admin API endpoints MUST apply the same authorization gate**
+  - Use the same role verification logic before any data reads/writes.

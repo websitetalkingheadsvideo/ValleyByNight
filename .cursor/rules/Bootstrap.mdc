@@ -1,7 +1,7 @@
 ---
 description: Bootstrap must be primary - custom CSS only enhances, never overrides Bootstrap defaults
 globs: **/*.css, **/*.scss, **/*.php, **/*.html
-alwaysApply: true
+alwaysApply: false
 ---
 
 # Bootstrap Primary Rule - Enhancement Only

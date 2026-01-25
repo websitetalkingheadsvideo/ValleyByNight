@@ -1,0 +1,27 @@
+---
+description: Reusable scripts must live under tools/repeatable and each new tool must be documented in tools/repeatable README files
+globs: tools/**/*
+alwaysApply: false
+---
+
+- **All reusable scripts MUST live under `V:\\tools\\repeatable\\`**
+  - `V:\tools\` may contain legacy or one-off scripts, but anything intended to be reused or re-run should be placed under `tools/repeatable/` and grouped by language/purpose.
+  - The documented structure is the source of truth:
+    - [V:\tools\repeatable\README.md](mdc:tools/repeatable/README.md)
+    - [V:\tools\repeatable\AGENTS.md](mdc:tools/repeatable/AGENTS.md)
+
+- **Each new tool MUST be documented**
+  - Update the relevant README(s) when adding a new tool:
+    - `tools/repeatable/README.md` (top-level index)
+    - `tools/repeatable/php/README.md` or `tools/repeatable/python/README.md`
+    - and the specific category README (e.g., `tools/repeatable/php/database-tools/README.md`)
+  - Minimum documentation contract:
+    - **purpose**
+    - **how to run** (CLI and/or browser URL if supported)
+    - **inputs** (flags/GET params/files read)
+    - **outputs** (files written + DB tables affected)
+    - **safety switches** (`--dry-run`, `--execute`, etc.) if the tool writes data
+
+- **Prefer organizing by language and function**
+  - PHP tools: `tools/repeatable/php/{mcp-tools,database-tools,data-tools}/`
+  - Python tools: `tools/repeatable/python/{json-tools,text-tools,pdf-tools,ocr-tools,api-tools,data-extraction,analysis-tools}/`

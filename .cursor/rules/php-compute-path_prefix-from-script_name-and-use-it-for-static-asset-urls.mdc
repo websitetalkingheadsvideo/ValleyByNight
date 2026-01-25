@@ -1,0 +1,37 @@
+---
+description: Compute path_prefix from $_SERVER['SCRIPT_NAME'] and use it for static asset URLs in header and footer
+globs: **/*.php
+alwaysApply: false
+---
+
+- **Pages in subdirectories MUST resolve static assets using `$path_prefix`**
+  - `V:\includes\header.php` computes `$path_prefix` and uses it for `css/` and `js/` includes.
+  - `V:\includes\footer.php` recomputes the same `$path_prefix` for footer links and scripts.
+  - New/edited PHP that emits asset URLs **MUST** use this `$path_prefix` pattern; do not hardcode `../` chains.
+
+- **Canonical computation (match `header.php` / `footer.php`)**
+  - Source of truth: [V:\includes\header.php](mdc:includes/header.php) lines 30-45 and [V:\includes\footer.php](mdc:includes/footer.php) lines 7-17.
+
+```php
+$script_name = $_SERVER['SCRIPT_NAME'];
+$script_dir = dirname($script_name);
+
+if ($script_dir === '/') {
+    $path_prefix = '';
+} else {
+    $path_segments = trim($script_dir, '/');
+    $segment_count = $path_segments === '' ? 0 : substr_count($path_segments, '/') + 1;
+    $path_prefix = str_repeat('../', $segment_count);
+}
+```
+
+- **Asset URL usage MUST prepend `$path_prefix`**
+
+```php
+<link rel="stylesheet" href="<?php echo $path_prefix; ?>css/global.css">
+<script src="<?php echo $path_prefix; ?>js/modal_a11y.js"></script>
+```
+
+- **Root navigation links MUST target the application root**
+  - `V:\includes\header.php` uses `$app_root = '/'` and links `href="<?php echo $app_root; ?>index.php"`.
+  - When generating “home” links from any subdirectory, prefer `href="<?php echo $path_prefix; ?>index.php"` (footer pattern) or the established `$app_root` usage (header pattern), depending on context.

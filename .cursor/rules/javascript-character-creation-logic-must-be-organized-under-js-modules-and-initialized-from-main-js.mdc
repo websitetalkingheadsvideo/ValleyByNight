@@ -1,0 +1,32 @@
+---
+description: Character creation JavaScript must be organized under js/modules and initialized from js/modules/main.js on DOMContentLoaded
+globs: js/**/*.js
+alwaysApply: false
+---
+
+- **The character creation front-end MUST follow the `js/modules/` architecture**
+  - `js/modules/core/`: state/events/data/ui primitives (e.g., `StateManager`, `EventManager`, `DataManager`)
+  - `js/modules/systems/`: game systems (e.g., `TraitSystem`, `AbilitySystem`)
+  - `js/modules/ui/`: UI coordinators (e.g., `TabManager`, `PreviewManager`)
+  - Entry point: `js/modules/main.js`
+
+- **Initialization MUST happen once on `DOMContentLoaded`**
+  - `js/modules/main.js` is the canonical bootstrap:
+    - Defines `CharacterCreationApp`
+    - Instantiates it in a single `DOMContentLoaded` handler
+  - Reference: [V:\js\modules\main.js](mdc:js/modules/main.js) lines 6-11 and 1300-1303.
+
+```javascript
+document.addEventListener('DOMContentLoaded', () => {
+    window.characterCreationApp = new CharacterCreationApp();
+});
+```
+
+- **Module boundaries MUST be respected**
+  - Core modules should not depend on feature systems (dependency direction: `core` → `ui` / `systems`).
+  - Systems may use core modules (state, events, data, notifications).
+
+- **Naming MUST match existing conventions**
+  - Files under `js/modules/**` use `PascalCase.js` for class modules (e.g., `StateManager.js`).
+  - Classes use `PascalCase`.
+  - Local variables and functions use `camelCase`.

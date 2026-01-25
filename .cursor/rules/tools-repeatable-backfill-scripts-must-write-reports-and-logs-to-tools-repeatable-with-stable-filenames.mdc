@@ -1,0 +1,27 @@
+---
+description: Repeatable backfill scripts must write reports and logs under tools/repeatable using stable filenames and must be idempotent
+globs: tools/repeatable/*.php
+alwaysApply: false
+---
+
+- **Backfill/maintenance scripts MUST be idempotent**
+  - Safe to run repeatedly.
+  - Must re-check database state before each update and must not overwrite non-empty fields.
+  - This is explicitly documented for `backfill_character_biography.php` in [V:\tools\repeatable\README.md](mdc:tools/repeatable/README.md).
+
+- **Backfill scripts MUST emit three output artifacts under `tools/repeatable/`**
+  - Naming convention (field-specific):
+    1. `missing_<field>_report.json`
+    2. `<field>_updates.log`
+    3. `<field>_not_found.json`
+  - Example is documented in [V:\tools\repeatable\README.md](mdc:tools/repeatable/README.md) lines 57-73.
+
+- **Backfill scripts MUST provide CLI flags**
+  - `--dry-run` (preview only)
+  - `--verbose`
+  - field-specific tuning flags such as `--min-length=N`
+  - Example parsing exists in [V:\tools\repeatable\backfill_character_biography.php](mdc:tools/repeatable/backfill_character_biography.php) lines 36-54.
+
+- **Project root resolution MUST be dynamic**
+  - Use `dirname(__DIR__, 2)` (or equivalent) to find repo root from `tools/repeatable/`.
+  - Example: [V:\tools\repeatable\backfill_character_biography.php](mdc:tools/repeatable/backfill_character_biography.php) lines 67-72.

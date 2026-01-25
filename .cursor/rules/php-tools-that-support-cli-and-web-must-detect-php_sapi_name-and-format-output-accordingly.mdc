@@ -1,0 +1,28 @@
+---
+description: PHP tools that support CLI and web must detect php_sapi_name and format output accordingly
+globs: tools/**/*.php
+alwaysApply: false
+---
+
+- **Hybrid tools MUST detect CLI vs web execution**
+  - Use `php_sapi_name() === 'cli'` to determine whether the tool is running in CLI mode.
+  - Example pattern exists in:
+    - [V:\tools\repeatable\php\database-tools\import_characters.php](mdc:tools/repeatable/php/database-tools/import_characters.php) lines 21-27
+    - [V:\tools\repeatable\php\database-tools\audit_rituals_duplicates.php](mdc:tools/repeatable/php/database-tools/audit_rituals_duplicates.php) lines 20-29
+
+```php
+$is_cli = php_sapi_name() === 'cli';
+
+if (!$is_cli) {
+    header('Content-Type: text/html; charset=utf-8');
+}
+```
+
+- **Output MUST be human-readable in both modes**
+  - CLI: plain text output via `echo` (no HTML tags).
+  - Web: HTML output with explicit `Content-Type`.
+  - If a tool prints HTML in web mode, it MUST print a full HTML document (at least `<!DOCTYPE html>` + `<html>` + `<body>`), as seen in `audit_rituals_duplicates.php`.
+
+- **Argument/parameter parsing MUST be mode-aware**
+  - CLI flags are read from `$argv`.
+  - Web parameters are read from `$_GET` / `$_POST` and must be validated explicitly.
