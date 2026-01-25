@@ -54,3 +54,10 @@ reference/Locations/Blueprints/
 # RAG index files (generated, too large for GitHub)
 # GitHub has a 100MB blob limit - these files exceed that
 rag/index/concept_index.json 
+
+# Temporary files and cache
+tmp/
+tmp_ocr_images/
+__pycache__/
+*.pyc
+*.pyo
