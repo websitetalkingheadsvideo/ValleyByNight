@@ -1,0 +1,157 @@
+/**
+ * glossary.css
+ * 
+ * Styles for the World of Darkness Glossary page
+ */
+
+.glossary-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.glossary-search {
+    max-width: 600px;
+}
+
+.glossary-search .form-control {
+    background-color: var(--bg-darker);
+    border: 2px solid var(--blood-red);
+    color: var(--text-light);
+    border-radius: 0.75rem;
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+}
+
+.glossary-search .form-control:focus {
+    background-color: var(--bg-darker);
+    border-color: var(--blood-red);
+    color: var(--text-light);
+    box-shadow: 0 0 0 0.25rem rgba(139, 0, 0, 0.25);
+}
+
+.glossary-search .form-control::placeholder {
+    color: rgba(212, 176, 109, 0.6);
+}
+
+.glossary-section {
+    margin-bottom: 3rem;
+}
+
+.glossary-section h2 {
+    font-family: var(--font-brand);
+    font-size: 2rem;
+    border-bottom: 2px solid var(--blood-red);
+    padding-bottom: 0.5rem;
+    margin-bottom: 2rem;
+}
+
+.glossary-term {
+    border: 2px solid var(--blood-red);
+    border-radius: 0.75rem;
+    overflow: hidden;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.glossary-term:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(139, 0, 0, 0.3);
+}
+
+.glossary-term.hidden {
+    display: none;
+}
+
+.glossary-term.highlighted {
+    border-color: var(--muted-gold);
+    box-shadow: 0 0 15px rgba(212, 176, 109, 0.4);
+}
+
+.glossary-term .card-header {
+    padding: 1rem 1.5rem;
+    border-bottom: 2px solid var(--blood-red);
+}
+
+.glossary-term .card-title {
+    font-family: var(--font-brand);
+    font-size: 2rem;
+    color: var(--blood-red);
+    font-weight: 700;
+}
+
+.glossary-term .card-body {
+    padding: 1.5rem;
+}
+
+.glossary-definition {
+    line-height: 1.8;
+    color: var(--text-light);
+}
+
+.glossary-definition strong {
+    color: var(--blood-red);
+    font-weight: 600;
+}
+
+.glossary-definition .citation {
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+    padding: 0.5rem;
+    background: rgba(139, 0, 0, 0.1);
+    border-left: 3px solid var(--blood-red);
+    border-radius: 0.25rem;
+    font-size: 0.85rem;
+    font-style: italic;
+    color: var(--text-mid);
+}
+
+.glossary-definition .citation strong {
+    color: var(--text-mid);
+    font-weight: 500;
+}
+
+.glossary-definition ul {
+    margin: 1rem 0;
+    padding-left: 2rem;
+    list-style-type: disc;
+}
+
+.glossary-definition li {
+    margin: 0.5rem 0;
+    color: var(--text-light);
+}
+
+.glossary-definition p {
+    margin: 0.75rem 0;
+}
+
+#glossary-search-results {
+    font-size: 0.9rem;
+    min-height: 1.5rem;
+}
+
+#glossary-search-results.has-results {
+    color: var(--muted-gold);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .glossary-section h2 {
+        font-size: 1.5rem;
+    }
+
+    .glossary-term .card-header {
+        padding: 0.75rem 1rem;
+    }
+
+    .glossary-term .card-body {
+        padding: 1rem;
+    }
+
+    .glossary-term .card-title {
+        font-size: 1.5rem;
+    }
+
+    .glossary-definition {
+        font-size: 0.95rem;
+    }
+}
