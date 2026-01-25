@@ -24,4 +24,4 @@ alwaysApply: false
 
 - **Prefer organizing by language and function**
   - PHP tools: `tools/repeatable/php/{mcp-tools,database-tools,data-tools}/`
-  - Python tools: `tools/repeatable/python/{json-tools,text-tools,pdf-tools,ocr-tools,api-tools,data-extraction,analysis-tools}/`
+  - Python tools: `tools/repeatable/python/{json-tools,text-tools,pdf-tools,text-cleanup-tools,ocr-tools,api-tools,data-extraction,analysis-tools}/`

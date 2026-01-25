@@ -13,7 +13,8 @@ This directory contains reusable, repeatable tools for the VbN project, organize
   - [JSON Tools](python/json-tools/README.md) - JSON processing and parsing
   - [Text Tools](python/text-tools/README.md) - Text processing and cleanup
   - [PDF Tools](python/pdf-tools/README.md) - PDF extraction and processing
-  - [OCR Tools](python/ocr-tools/README.md) - OCR processing and text cleanup
+  - [Text Cleanup Tools](python/text-cleanup-tools/README.md) - Clean up OCR-extracted text
+  - [OCR Tools](python/ocr-tools/README.md) - Perform OCR on image-based PDFs
   - [API Tools](python/api-tools/README.md) - API interaction and data fetching
   - [Data Extraction](python/data-extraction/README.md) - Data extraction from various sources
   - [Analysis Tools](python/analysis-tools/README.md) - Data analysis and reporting

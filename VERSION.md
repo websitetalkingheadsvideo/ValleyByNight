@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.63
+## Current Version: 0.9.64
+
+**Date:** 2026-01-25  
+**Type:** Patch (Reorganized OCR tools: split into actual OCR tool and text cleanup tools, added PyMuPDF-based OCR tool)
+
+## Previous Version: 0.9.63
 
 **Date:** 2026-01-25  
 **Type:** Patch (Added book summaries for Clan Books and New Books directories)

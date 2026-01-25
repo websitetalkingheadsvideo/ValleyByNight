@@ -1,84 +1,61 @@
 # OCR Tools
 
-Tools for OCR processing and text cleanup.
+Tools for performing OCR (Optical Character Recognition) on image-based PDFs using Tesseract.
+
+**Note:** These tools actually perform OCR. For cleaning up OCR-extracted text, use the tools in `text-cleanup-tools/`.
 
 ## Tools
 
-### fix_ocr_spelling.py
+### ocr_pdf.py
 
-**Purpose:** Fixes OCR spelling errors in markdown files while preserving game terminology.
+**Purpose:** Extracts text from image-based PDFs using Tesseract OCR.
 
 **Usage:**
 ```bash
-python tools/repeatable/python/ocr-tools/fix_ocr_spelling.py <input_dir> [--output-dir=<dir>] [--dry-run]
+python tools/repeatable/python/ocr-tools/ocr_pdf.py <pdf_file> [output_file] [--lang=LANG] [--dpi=DPI]
 ```
 
-**Features:**
-- Pattern-based OCR fixes
-- Spell checker for obvious errors
-- Preserves game-specific terminology
-- Configurable options
+**Options:**
+- `--lang=LANG` - Tesseract language code (default: `eng`)
+- `--dpi=DPI` - DPI for image conversion (default: `300`)
 
-**Dependencies:**
-- Python 3.7+ (argparse)
-- `spellchecker` package (optional)
-
----
-
-### clean_pdf_text.py
-
-**Purpose:** Cleans common PDF extraction artifacts from text files.
-
-**Usage:**
+**Examples:**
 ```bash
-python tools/repeatable/python/ocr-tools/clean_pdf_text.py <input_file> [output_file]
+# Basic usage
+python tools/repeatable/python/ocr-tools/ocr_pdf.py book.pdf output.txt
+
+# With custom language and DPI
+python tools/repeatable/python/ocr-tools/ocr_pdf.py book.pdf output.txt --lang=eng --dpi=300
+
+# Output to stdout
+python tools/repeatable/python/ocr-tools/ocr_pdf.py book.pdf
 ```
 
-**Features:**
-- Removes image placeholders
-- Removes header/footer noise
-- Removes isolated characters
-- Fixes hyphenation issues
-- Encoding error handling
+**What it does:**
+1. Converts PDF pages to images (using pdf2image)
+2. Runs Tesseract OCR on each page image
+3. Combines all extracted text with page markers
+4. Saves to output file or prints to stdout
 
-**Dependencies:** Python 3.7+ (re, os, pathlib, typing)
-
----
-
-### ocr_process_folder.py
-
-**Purpose:** Processes a folder of OCR files.
-
-**Usage:**
-```bash
-python tools/repeatable/python/ocr-tools/ocr_process_folder.py
+**Output format:**
 ```
+=== PAGE 1 ===
+[extracted text from page 1]
 
-**Dependencies:** Python 3.7+
-
----
-
-### clean_ocr_markdown.py
-
-**Purpose:** Cleans OCR markdown files.
-
-**Usage:**
-```bash
-python tools/repeatable/python/ocr-tools/clean_ocr_markdown.py [--input-dir=<dir>] [--output-dir=<dir>]
+=== PAGE 2 ===
+[extracted text from page 2]
+...
 ```
 
 **Dependencies:**
-- Python 3.7+ (argparse)
+- Python 3.7+
+- Tesseract OCR (installed system-wide)
+- `pymupdf` package: `pip install pymupdf`
 
----
-
-### ocr_process_full_file.py
-
-**Purpose:** Processes full OCR files.
-
-**Usage:**
+**Installation:**
 ```bash
-python tools/repeatable/python/ocr-tools/ocr_process_full_file.py
+# Install Python package (that's it!)
+pip install pymupdf
 ```
 
-**Dependencies:** Python 3.7+
+**Use case:** Extract text from scanned PDFs or image-based PDFs that don't have selectable text.
