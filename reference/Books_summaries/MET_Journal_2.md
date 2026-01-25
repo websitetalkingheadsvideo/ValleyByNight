@@ -1,57 +1,150 @@
 # MET Journal 2
 
-This document discusses the Mind's Eye Theatre Journal, covering live-action roleplaying rules, character creation, and ongoing storylines.
+The document is the second issue of the Mind's Eye Theatre Journal, a quarterly publication focused on enhancing live-action roleplaying experiences within the World of Darkness universe.
 
 ## Introduction to Mind's Eye Theatre Journal
 
-- The Mind's Eye Theatre Journal is a quarterly publication aimed at enhancing live-action roleplaying experiences.
-- It provides rules, original storylines, and guides for players and storytellers.
-- The journal includes contributions from various authors and aims to fill gaps left by other publications.
+- The Journal is a quarterly publication dedicated to filling gaps in the White Wolf LARP environment.
+- It provides rules for new character types, original storylines, guides for game management, and rules updates not found in other Mind's Eye releases.
+- This issue features material on the Camarilla organization, One World by Night, Nunnehi changelings, and an Oblivion adventure.
 
-## Current Thinking on Live-Action Roleplaying
+## The Current Thinking
 
-- This section features opinions from players on various issues related to live-action roleplaying.
-- Players discuss the balance between mechanics and gameplay, emphasizing the importance of character enjoyment over strict adherence to rules.
-- The letters highlight the potential for crossover games and the challenges they present, particularly in balancing different supernatural elements.
+An opinion forum featuring letters from Mind's Eye players on various issues:
 
-## Deadgut Speaks Column
+### Rules and Roleplaying Balance
 
-- Rich Dansky shares humorous observations about common types of players in live-action roleplaying.
-- He categorizes players into archetypes such as "Twink," "Chainsaw," and "Terrified Newbie," each with distinct behaviors and traits.
-- The column serves to entertain while also providing insight into the dynamics of player interactions.
+- Discussion continues from Issue #1 about the balance between rules complexity and roleplaying
+- Arguments about whether detailed rules enhance or detract from the roleplaying experience
+- Recognition that rules simplicity is no guarantee of quality
+- Emphasis that roleplaying support is more in the hands of players than rules
+
+### Crossover Games
+
+- Letters discussing the feasibility of crossover games (mixing Vampire, Werewolf, Mage, Wraith, Changeling)
+- Arguments that all World of Darkness lines can work together
+- Discussion of mechanical balance between different character types
+- Recognition that each character type has strengths and weaknesses
+- Arguments that systems are balanced when properly handled
+
+### Character vs. Power Gaming
+
+- Discussion of focusing on character background and story versus mechanical optimization
+- Emphasis on creating characters for fun rather than exploiting rules
+- Warning against "Live-Action-MUDding" - knowing too much about other characters' powers
+- Recognition that good characters don't need to worry about Traits and Abilities
+
+### LARP Maturity Levels
+
+- Discussion of different stages of LARP development:
+  - **Freshman LARP**: Focus on "cool" elements, combat, letter of rules
+  - **Sophomore LARP**: Beginning to see story, some player-driven plots, but still problems
+  - **Senior LARP**: Partnership between Storyteller and player, joint tales, subtle plots
+
+## Deadguy Speaks: I'll Stay Up in the Helicopter While He Comes and Round
+
+Richard Dansky's column introduces "The Mind's Eye Theatre Bestiary" - a humorous guide to recognizing various player archetypes that can be problematic in LARP communities:
+
+- **The "Twink"**: Power-gaming character who exploits rules
+- **The "Chainsaw"**: Player who solves everything with violence
+- Various other archetypes that can disrupt games
+
+The column serves to entertain while also providing insight into common player dynamics and behaviors.
 
 ## Evolution of Mind's Eye Theatre
 
-- This section reviews the development of the Mind's Eye Theatre game line over the years.
-- It discusses changes in rules and systems, highlighting improvements made to enhance gameplay.
-- The article emphasizes the importance of staying updated with the latest rules to ensure a coherent gaming experience.
+An article examining how the Mind's Eye Theatre system has changed and improved over time:
 
-## Inside the Camarilla Organization
+- Changes in rules and mechanics
+- Improvements to gameplay systems
+- Evolution of the game's philosophy
+- How the system has matured since its inception
 
-- The Camarilla is introduced as a fan organization dedicated to live-action roleplaying within the World of Darkness.
-- The article outlines the organization's goals, including community service, game organization, and fostering a sense of belonging among players.
-- It details the structure of the Camarilla, including local chapters, domains, and the board of directors.
+## At Home with the Camarilla
 
-## Troubleshooting in Live-Action Roleplaying
+An inside look at the Camarilla fan club organization:
 
-- This section provides guidance on resolving common issues that arise during live-action roleplaying games.
-- It discusses how to handle conflicts, character imbalances, and site-related problems.
-- The advice emphasizes the importance of communication and flexibility in maintaining a positive gaming environment.
+- What the Camarilla is and where it came from
+- Its goals, structure, and operations
+- How it relates to official White Wolf games
+- Benefits and challenges of organized play
+- Written by the organization's Director of Public Relations
 
-## Mayday Oblivion Adventure Series
+## If It's Broke
 
-- The document includes a two-part adventure for the Oblivion game, titled "Mayday."
-- The adventure is designed to be flexible, allowing for player creativity and interaction.
-- It provides a framework for storytelling, including character roles, plot developments, and potential outcomes.
+A guide to pulling an ailing story back from the brink of disaster:
+
+- Recognizing when a chronicle is in trouble
+- Methods for fixing broken plots
+- Salvaging games that have gone wrong
+- Learning from mistakes and improving
+
+## One World by Night
+
+An inside look at the One World by Night organization:
+
+- What OWbN is and how it differs from Camarilla
+- Its structure, goals, and approach
+- How it handles chronicle coordination
+- Its philosophy on organized play
+
+## Nunnehi for The Shining Host
+
+Rules and information for creating Nunnehi changeling characters:
+
+- Who the Nunnehi were (people of Concordia before settlers)
+- How to incorporate them into Shining Host games
+- Character creation guidelines
+- Cultural and mechanical details
+- Historical and cultural context
+
+## Ramping Up
+
+A guide on how to take those first steps in designing your own LARP chronicle:
+
+- Initial planning and setup
+- Recruiting players and Storytellers
+- Establishing rules and tone
+- Common pitfalls to avoid
+- Building a sustainable game
+
+## Fiction: "A Position of Strength"
+
+Original World of Darkness fiction by Carl Bowen.
+
+## Mayday! Part I: Deployment
+
+The first segment of a live-action storyline for Oblivion (Wraith) that will impact all of Stygia:
+
+- Adventure framework for Wraith chronicles
+- Metaplot elements
+- Story hooks and scenarios
 
 ## Frequently Asked Questions
 
-- This section addresses common queries related to the Shining Host game.
-- It clarifies rules regarding character creation, backgrounds, and the use of powers.
-- The FAQs aim to enhance understanding and gameplay experience for players and storytellers alike.
+Answers to common questions about Mind's Eye Theatre rules, systems, and gameplay.
 
-## Upcoming Live-Action Roleplaying Events
+## Event Horizon: Upcoming LARP Events
 
-- The document concludes with a calendar of upcoming live-action roleplaying events across various regions.
-- It encourages players to participate in local games and connect with the broader community.
-- The events listed provide opportunities for players to engage in live-action roleplaying and expand their networks.
+A calendar of upcoming live-action roleplaying events across various regions.
+
+## Overall Themes
+
+- **Community Dialogue**: Continued forum for player opinions and debate
+- **Organization Information**: Detailed looks at major LARP organizations
+- **Practical Advice**: Guides for running games and creating characters
+- **Setting Material**: New rules and content for various game types
+- **Player Archetypes**: Humorous but insightful look at common player types
+- **Game Maturity**: Discussion of how LARPs evolve and mature
+
+## Purpose and Value
+
+The Journal continues to serve as:
+
+- A bridge between official publications
+- A forum for community discussion
+- A source of practical advice
+- A provider of new rules and content
+- A platform for player voices
+
+This issue particularly emphasizes understanding different LARP organizations and approaches, recognizing that there are multiple valid ways to run successful games.

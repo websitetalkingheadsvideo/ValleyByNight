@@ -1,63 +1,112 @@
 # MET Journal 3
 
-The document discusses the Mind's Eye Theatre Journal, covering live-action roleplaying rules, character creation, and community engagement.
+The document is the third issue of the Mind's Eye Theatre Journal, a quarterly publication focused on enhancing live-action roleplaying experiences within the World of Darkness universe.
 
 ## Introduction to Mind's Eye Theatre Journal
 
-- The Mind's Eye Theatre Journal is a quarterly publication aimed at enhancing the live-action roleplaying experience.
-- It provides rules, original storylines, and guides for players and Storytellers.
-- The journal seeks to fill gaps left by other Mind's Eye publications and encourages reader feedback.
+- The Journal is a quarterly publication dedicated to filling gaps in the White Wolf LARP environment.
+- It provides rules for new character types, original storylines, guides for game management, and rules updates not found in other Mind's Eye releases.
+- This issue features live-action rules for playing the Thallain of the Shadow Court, World of Darkness fiction, and a look ahead at anticipated releases.
 
-## Live-Action Roleplaying Rules
+## The Current Thinking
 
-- The document includes live-action rules for various character types, including Thallain of Shadow Court and Nunnehi.
-- It discusses the importance of adapting rules to enhance gameplay and maintain player engagement.
-- The rules aim to create a more diverse and complex gaming experience.
+An opinion forum continuing discussions from previous issues:
+
+### Rules Philosophy
+
+- Continued debate about rules complexity and roleplaying
+- Discussion of how far Storytellers can stretch the "Golden Rule"
+- Recognition that games belong to players once they start playing
+- Emphasis on enjoyment and group preferences over strict adherence to official rules
+
+### LARP Maturity and Development
+
+- Detailed discussion of three stages of LARP development:
+  - **Freshman LARP**: Focus on "cool" elements, combat, letter of rules, new players learning
+  - **Sophomore LARP**: Beginning to see story, some player-driven plots, but still problems with ego and control
+  - **Senior LARP**: Partnership between Storyteller and player, joint tales, subtle plots, character development focus
+
+### Organization Perspectives
+
+- Discussion of Camarilla, Independent, and One World by Night approaches
+- Arguments about which organizational style works best
+- Recognition that classification systems don't hit the real issues
+- Emphasis on game maturity over organizational affiliation
+
+## Deadguy Speaks
+
+Richard Dansky's column continues with observations and commentary on LARP communities and development.
+
+## Profiles: MET Jess Heinig and Cynthia Summers
+
+Profiles of key White Wolf developers working on Mind's Eye Theatre, providing insight into the people behind the game.
+
+## The Shadow Court
+
+Live-action rules for playing the Thallain of the Shadow Court - dark changelings who serve the forces of Banality:
+
+- Character creation guidelines
+- Mechanical details
+- Roleplaying considerations
+- Integration into Shining Host chronicles
+
+## Problem Players
+
+A guide to identifying and managing problem players in LARP games:
+
+- Common types of problem players
+- Strategies for dealing with disruptive behavior
+- Maintaining game quality while addressing issues
+- Balancing player enjoyment with game integrity
+
+## Corralling Them
+
+Additional advice on managing players and maintaining control of games.
+
+## Hunting Cores
+
+Guidance on creating and running effective antagonists and core threats for chronicles.
+
+## String Quartet
+
+An article or scenario content, possibly related to music, performance, or social dynamics in games.
+
+## Preview: MET
+
+A look ahead at one of the most eagerly anticipated Mind's Eye Theatre releases of the year.
 
 ## World of Darkness Fiction
 
-- The journal features original fiction set in the World of Darkness universe, providing context and depth to the gameplay.
-- The stories explore the lives and motivations of characters within the dark, supernatural setting.
-- Fiction serves as a tool for players to better understand the themes and atmosphere of the game.
+Original fiction set in the World of Darkness, providing:
 
-## Upcoming Mind's Eye Theatre Releases
+- Example of the setting's tone and themes
+- Inspiration for Storytellers and players
+- A human's perspective on the terrors that stalk the World of Darkness
 
-- The document previews anticipated releases, including updates to existing rules and new character options.
-- It highlights the importance of community feedback in shaping future publications and game mechanics.
-- Players are encouraged to share their experiences and suggestions to improve the game.
+## Frequently Asked Questions
 
-## Community Engagement and Feedback
+Answers to common questions about Mind's Eye Theatre rules, systems, and gameplay.
 
-- The journal emphasizes the value of player input in the development of future content.
-- Readers are invited to submit letters, articles, and event listings to foster a sense of community.
-- The publication aims to be a platform for discussion and collaboration among players and Storytellers.
+## Event Horizon: Upcoming LARP Events
 
-## Addressing Problem Players
+A calendar of upcoming live-action roleplaying events.
 
-- The document outlines various types of problem players, such as Combat Monsters and Rules Lawyers, and offers strategies for managing them.
-- It emphasizes the importance of maintaining a fun and engaging environment for all players.
-- Suggestions include pairing players with different strengths and addressing issues through open communication.
+## Overall Themes
 
-## Character Creation and Development
+- **Game Development**: Understanding how LARPs mature and evolve
+- **Player Management**: Dealing with problem players and maintaining game quality
+- **Setting Expansion**: New character types and rules
+- **Community Growth**: Supporting the LARP community
+- **Practical Guidance**: Advice for running successful games
 
-- The journal discusses the character creation process, including the importance of backstory and motivations.
-- It encourages players to develop well-rounded characters that contribute to the overall narrative.
-- The document highlights the need for balance between character abilities and storytelling elements.
+## Purpose and Value
 
-## Changes in Gameplay Dynamics
+The Journal continues to serve as:
 
-- The text addresses how gameplay dynamics have evolved over time, particularly with larger groups and longer campaigns.
-- It discusses the impact of technology and online resources on the live-action roleplaying experience.
-- The document suggests adapting rules and storytelling techniques to accommodate these changes.
+- A bridge between official publications
+- A forum for community discussion
+- A source of practical advice
+- A provider of new rules and content
+- A platform for understanding game development
 
-## The Role of Storytellers
-
-- Storytellers are portrayed as crucial to the success of live-action games, responsible for guiding the narrative and managing player interactions.
-- The journal provides tips for Storytellers on creating engaging plots and maintaining player interest.
-- It emphasizes the need for flexibility and adaptability in storytelling to enhance the gaming experience.
-
-## Conclusion and Future Directions
-
-- The document concludes with a call to action for players and Storytellers to engage with the Mind's Eye Theatre community.
-- It encourages ongoing dialogue and collaboration to shape the future of live-action roleplaying.
-- The journal aims to remain a relevant and valuable resource for the growing community of players.
+This issue particularly emphasizes understanding game maturity and player management, recognizing that successful LARPs require both good rules and good community management.

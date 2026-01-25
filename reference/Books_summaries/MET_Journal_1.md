@@ -1,87 +1,163 @@
 # MET Journal 1
 
-The document discusses the Mind's Eye Theatre Journal, covering various topics related to live-action roleplaying, including rules, fiction, and events.
+The document is the first issue of the Mind's Eye Theatre Journal, a quarterly publication focused on enhancing live-action roleplaying experiences within the World of Darkness universe.
 
 ## Introduction to Mind's Eye Theatre Journal
 
-- The Mind's Eye Theatre Journal is a quarterly publication aimed at enhancing live-action roleplaying experiences.
-- It provides rules, storylines, and updates that fill gaps in existing White Wolf LARP materials.
-- The journal encourages player feedback and contributions to improve future issues.
+- The Journal is a quarterly publication dedicated to filling gaps in the White Wolf LARP environment.
+- It provides rules for new character types, original storylines, guides for game management, and rules updates not found in other Mind's Eye releases.
+- This inaugural issue establishes the Journal's mission and introduces readers to the publication's purpose and goals.
 
-## Content Highlights of the First Issue
+## Word from the Developer
 
-- The first issue includes live-action rules for playing Pumonca, adaptations of True Black Hand, and World of Darkness fiction.
-- It features articles on Tremere rituals, character types, and original storylines for players to incorporate into their chronicles.
-- The journal aims to expand upon existing materials and provide fresh content for players and storytellers.
+Carl Bowen introduces himself and the Journal, sharing his personal journey from high school gamer to White Wolf developer. He explains how the Journal came to be and his commitment to keeping players updated as the game evolves.
 
-## Author Contributions and Acknowledgments
+## The Current Thinking
 
-- The issue includes contributions from various authors, including Charles Bailey, Carl Bowen, and Richard E. Dansky.
-- Special thanks are given to individuals who supported the development of the journal and its content.
-- The collaborative effort highlights the community aspect of the Mind's Eye Theatre.
+An opinion forum featuring letters from Mind's Eye players on various issues, including:
 
-## Table of Contents Overview
+### Rules Complexity Debate
 
-- The document outlines the table of contents, detailing sections such as "Welcome to the Mind's Eye Theatre Journal," "Current Thinking," and "Fiction."
-- Each section addresses different aspects of live-action roleplaying, providing insights and practical advice for players and storytellers.
-- The inclusion of columns like "Dead Guy Speaks" and "Frequently Asked Questions" adds depth and variety to the content.
+- Discussion about whether MET rules are too complicated, oversimplified, or just right
+- Debate between different LARP systems and their approaches to rules
+- Arguments about the balance between roleplaying and mechanics
+- Perspectives on whether detailed rules enhance or detract from roleplaying experience
 
-## Current Thinking on Live-Action Roleplaying
+### Key Arguments
 
-- The "Current Thinking" section discusses the importance of conflict and communication within LARP communities.
-- It presents opinions on the benefits of e-mail lists for maintaining player engagement and addressing rule changes.
-- The section encourages open dialogue among players to enhance the overall experience of live-action roleplaying.
+- **Pro-Complex Rules**: Live-action environment demands more comprehensive rules system than tabletop
+- **Pro-Simple Rules**: Rules should support roleplaying, not dictate it
+- **Middle Ground**: Balance between roleplaying and game aspects is key - different LARPs strike different balances
 
-## Dead Guy Speaks Column
+### Crossover Games Discussion
 
-- Richard E. Dansky shares anecdotes from his experiences with Mind's Eye Theatre and the development of the game.
-- He reflects on the evolution of the game and the challenges faced in creating engaging content for players.
-- The column provides a personal touch, connecting readers with the history and development of the Mind's Eye Theatre.
+- Letters discussing the feasibility and challenges of crossover games (Vampire, Werewolf, Mage, Wraith, Changeling together)
+- Arguments for and against mixing different supernatural types
+- Discussion of mechanical balance between different character types
+- Recognition that each game type deserves focus, but crossover can work with proper handling
 
-## Enochian Mysticism and True Black Hand
+### Character vs. Power Gaming
 
-- The document introduces the True Black Hand and its connection to Enochian mysticism within the World of Darkness.
-- It discusses the Nagaraja bloodline and their unique necromantic abilities, emphasizing their role in the game.
-- The article provides insights into the powers and disadvantages of the Nagaraja, enhancing player understanding of this bloodline.
+- Discussion of "Live-Action-MUDding" - focusing on powers and Traits rather than character
+- Emphasis on character background, motivations, and story over mechanical optimization
+- Recognition that good characters don't need to worry about Traits and Abilities
+- Warning against knowing too much about other characters' powers
 
-## Frontier Felines: Dumonca for Wyld West
+## Deadguy Speaks: Your Laws, My Triceps
 
-- This section explores the Pumonca tribe of Bastet, detailing their characteristics and role in the Savage West setting.
-- It outlines the differences between Bastet and Garou, including their unique abilities and cultural traits.
-- The article emphasizes the importance of understanding these characters for effective roleplaying in the Wyld West context.
+Richard Dansky's inaugural column tells the story of how Mind's Eye Theatre came into its current incarnation, beginning with a humorous tale of his first convention appearance where he had to carry heavy rulebooks, leading to the realization that the books were too heavy and awkward for live-action play.
 
-## Master-Level Thaumaturgy Rituals
+### The Origin Story
 
-- The document presents a list of Master-Level Thaumaturgy rituals available to Tremere characters.
-- It details the requirements and effects of each ritual, providing players with options for character development.
-- The section highlights the significance of these rituals in the context of the game, enhancing the depth of the Tremere clan.
+- Dansky's first MET convention experience in Kansas City
+- The challenge of carrying heavy rulebooks during live-action play
+- Realization that books were impractical for the live-action format
+- The development of more streamlined, reference-friendly rules
 
-## Fiction: Any Mother's Child
+### The Mind's Eye Theatre Bestiary
 
-- The fiction piece "Any Mother's Child" explores themes of loss, protection, and the impact of war on families.
-- It follows a mother's desperate attempts to protect her daughter amidst the chaos of conflict and oppression.
-- The narrative illustrates the emotional struggles faced by characters in the World of Darkness, adding a personal touch to the journal.
+Dansky introduces various "creature types" found in LARP communities - player archetypes that can be problematic:
 
-## Mayday: Oblivion Storyline
+- **The "Twink"**: Power-gaming character who exploits rules
+- **The "Chainsaw"**: Player who solves everything with violence
+- **Other Archetypes**: Various player types that can disrupt games
 
-- The "Mayday" storyline introduces a plot that connects players to significant events in the World of Darkness.
-- It provides a structured adventure with hard information and choices for players to navigate.
-- The storyline emphasizes the importance of player agency and creativity in shaping the narrative.
+## Evolution of Mind's Eye Theatre
+
+An article examining how the Mind's Eye Theatre system has changed and improved over time, discussing:
+
+- Changes in rules and mechanics
+- Improvements to gameplay systems
+- Evolution of the game's philosophy
+- How the system has matured
+
+## At Home with the Camarilla
+
+An inside look at the Camarilla fan club organization:
+
+- What the Camarilla is and where it came from
+- Its goals and structure
+- How it relates to official White Wolf games
+- Benefits and challenges of organized play
+
+## If It's Broke
+
+A guide to pulling an ailing story back from the brink (or just over the edge) of disaster, providing advice for Storytellers on:
+
+- Recognizing when a chronicle is in trouble
+- Methods for fixing broken plots
+- Salvaging games that have gone wrong
+- Learning from mistakes
+
+## One World by Night
+
+Similar to the Camarilla article, this piece provides an inside look at the One World by Night organization:
+
+- What OWbN is and how it differs from Camarilla
+- Its structure and goals
+- How it handles chronicle coordination
+- Its approach to organized play
+
+## Nunnehi for The Shining Host
+
+Rules and information for creating Nunnehi changeling characters for The Shining Host LARP chronicle, exploring:
+
+- Who the Nunnehi were (people of Concordia before settlers)
+- How to incorporate them into Shining Host games
+- Character creation guidelines
+- Cultural and mechanical details
+
+## Ramping Up
+
+A guide on how to take those first fateful steps in designing your own LARP chronicle, covering:
+
+- Initial planning and setup
+- Recruiting players and Storytellers
+- Establishing rules and tone
+- Common pitfalls to avoid
+- Building a sustainable game
+
+## Fiction: "A Position of Strength"
+
+Original World of Darkness fiction by Carl Bowen, providing:
+
+- Example of the setting's tone and themes
+- Inspiration for Storytellers and players
+- Entertainment value
+
+## Mayday! Part I: Deployment
+
+The first segment of a live-action storyline for Oblivion (Wraith) that will impact all of Stygia, providing:
+
+- Adventure framework for Wraith chronicles
+- Metaplot elements
+- Story hooks and scenarios
 
 ## Frequently Asked Questions
 
-- The document addresses common questions regarding gameplay mechanics, character traits, and the evolution of the Mind's Eye Theatre.
-- It clarifies rules and provides insights into the development of the game, ensuring players have a clear understanding of the system.
-- The FAQ section serves as a valuable resource for both new and experienced players, enhancing their gameplay experience.
+Answers to common questions about Mind's Eye Theatre rules, systems, and gameplay.
 
-## Upcoming Events and Community Engagement
+## Event Horizon: Upcoming LARP Events
 
-- The document lists upcoming events and gatherings for Mind's Eye Theatre players, fostering community engagement.
-- It encourages players to participate in local games and connect with others in the LARP community.
-- The emphasis on events highlights the importance of social interaction and collaboration in the Mind's Eye Theatre experience.
+A calendar of upcoming live-action roleplaying events across various regions.
 
-## Conclusion and Future Directions
+## Overall Themes
 
-- The Mind's Eye Theatre Journal aims to continue evolving, incorporating player feedback and new ideas.
-- Future issues will explore additional themes, character types, and gameplay mechanics to enrich the LARP experience.
-- The journal serves as a platform for creativity, collaboration, and community within the Mind's Eye Theatre universe.
+- **Establishing the Journal**: Setting the tone and purpose for future issues
+- **Community Dialogue**: Creating a forum for player opinions and debate
+- **Rules Philosophy**: Exploring the balance between rules and roleplaying
+- **Organization Information**: Introducing major LARP organizations
+- **Practical Advice**: Guides for running games and creating characters
+- **Setting Material**: New rules and content for various game types
+
+## Purpose and Value
+
+This inaugural issue establishes the Journal as:
+
+- A bridge between official publications
+- A forum for community discussion
+- A source of practical advice
+- A provider of new rules and content
+- A platform for player voices
+
+The Journal positions itself as essential reading for anyone involved in Mind's Eye Theatre, promising to fill gaps, answer questions, and enhance the live-action roleplaying experience.
