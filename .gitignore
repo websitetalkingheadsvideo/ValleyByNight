@@ -53,4 +53,8 @@ tasks.json
 tasks/
 
 # Blueprints (removed - results were disappointing)
-reference/Locations/Blueprints/ 
+reference/Locations/Blueprints/
+
+# RAG index files (generated, too large for GitHub)
+# GitHub has a 100MB blob limit - these files exceed that
+rag/index/concept_index.json 
