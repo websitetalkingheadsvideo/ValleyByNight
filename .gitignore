@@ -32,7 +32,6 @@ sync_config.jsonc
 
 # Large reference files (PDFs and documents)
 # These are already converted to markdown in Books_md_clean/
-*.pdf
 *.docx
 *.rtf
 
