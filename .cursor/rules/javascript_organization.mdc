@@ -1,7 +1,7 @@
 ---
 description: Guidelines for organizing JavaScript code using external files instead of embedded script blocks
 globs: **/*.php, **/*.html, **/*.js
-alwaysApply: true
+alwaysApply: false
 ---
 
 # JavaScript Organization Rule - External Scripts

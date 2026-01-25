@@ -1,0 +1,40 @@
+---
+description: Load page-specific CSS via $extra_css and page-specific JavaScript via $extra_js before including header/footer
+globs: **/*.php
+alwaysApply: false
+---
+
+- **Page-specific CSS MUST be loaded via `$extra_css` before including `includes/header.php`**
+  - `$extra_css` MUST be an array of strings.
+  - Each entry MUST be a repo-relative path like `css/dashboard.css` (no leading `/`).
+  - `includes/header.php` will prefix with `$path_prefix` and HTML-escape the final URL.
+  - Source: [V:\includes\header.php](mdc:includes/header.php) lines 65-71.
+
+```php
+$extra_css = ['css/dashboard.css', 'css/character_view.css'];
+include __DIR__ . '/includes/header.php';
+```
+
+- **Page-specific JavaScript MUST be loaded via `$extra_js` before including `includes/footer.php`**
+  - `$extra_js` MUST be an array of strings.
+  - Each entry MUST be a repo-relative path like `js/admin_panel.js` (no leading `/`).
+  - `includes/footer.php` will prefix with `$path_prefix` and HTML-escape the final URL.
+  - Source: [V:\includes\footer.php](mdc:includes/footer.php) lines 38-52.
+
+```php
+$extra_js = ['js/admin_panel.js'];
+include __DIR__ . '/includes/footer.php';
+```
+
+- **Deferred scripts MUST use the `:defer` suffix**
+  - To add `defer` to a page-specific script, append `:defer` to the `$extra_js` entry.
+  - Example: `js/lotn_char_create.js:defer`
+  - Source: [V:\includes\footer.php](mdc:includes/footer.php) lines 44-50.
+
+```php
+$extra_js = ['js/lotn_char_create.js:defer'];
+```
+
+- **New/edited pages MUST NOT emit page-specific `<link>` / `<script>` tags directly**
+  - Use external asset files and the `$extra_css` / `$extra_js` mechanism.
+  - See [css_organization.mdc](mdc:.cursor/rules/css_organization.mdc) and [javascript_organization.mdc](mdc:.cursor/rules/javascript_organization.mdc).

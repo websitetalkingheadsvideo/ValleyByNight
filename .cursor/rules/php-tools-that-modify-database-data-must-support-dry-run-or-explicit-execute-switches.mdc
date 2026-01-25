@@ -1,0 +1,35 @@
+---
+description: PHP tools that modify database data must support dry-run or explicit execute switches and must default to non-destructive behavior
+globs: tools/**/*.php
+alwaysApply: false
+---
+
+- **Any tool that writes to the database MUST provide a safety switch**
+  - At least one of:
+    - `--dry-run` / `?dry_run=1` (preview mode)
+    - `--execute` (explicitly opt into writes; default is preview)
+
+- **Dry-run handling MUST be implemented consistently**
+  - Hybrid CLI/web pattern:
+    - `--dry-run` in CLI
+    - `?dry_run=1` in web mode
+  - Example patterns:
+    - [V:\tools\repeatable\php\database-tools\update_paths_completion.php](mdc:tools/repeatable/php/database-tools/update_paths_completion.php) line 21
+    - [V:\tools\repeatable\php\database-tools\audit_rituals_duplicates.php](mdc:tools/repeatable/php/database-tools/audit_rituals_duplicates.php) lines 20-27
+
+```php
+$is_cli = php_sapi_name() === 'cli';
+$dry_run = ($is_cli && in_array('--dry-run', $argv, true))
+    || (isset($_GET['dry_run']) && $_GET['dry_run'] === '1');
+```
+
+- **Default behavior MUST be non-destructive**
+  - If a tool is capable of deletion or bulk updates, it must default to preview/dry-run unless the user explicitly opts into execution (for example `db_cleanup_0863.php --execute`).
+
+- **Dry-run mode MUST avoid DB writes**
+  - All write operations must be guarded by `if (!$dry_run) { ... }`.
+  - If transactions are used, begin/commit only when not in dry-run (example in `update_paths_completion.php` lines 60-63).
+
+- **DB writes MUST use prepared statements or shared helpers**
+  - Use `db_execute` / `db_transaction` from `V:\includes\connect.php` when possible.
+  - If direct `mysqli_*` prepared statements are required, the query must still be parameterized (no string interpolation).

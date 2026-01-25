@@ -1,0 +1,25 @@
+---
+description: Before writing a new script, check tools/repeatable documentation and search for an existing tool first
+globs: **/*
+alwaysApply: false
+---
+
+- **Before creating a new tool/script, you MUST look for an existing one**
+  - Read the tools catalog and identify whether the capability already exists.
+  - Only create a new script if there is no existing tool that can be reused or extended.
+
+- **The canonical tools catalog entry points**
+  1. [V:\tools\repeatable\AGENTS.md](mdc:tools/repeatable/AGENTS.md) (comprehensive guide + categorized usage)
+  2. [V:\tools\repeatable\README.md](mdc:tools/repeatable/README.md) (top-level index + backfill script contract)
+  3. [V:\tools\repeatable\php\README.md](mdc:tools/repeatable/php/README.md)
+  4. [V:\tools\repeatable\python\README.md](mdc:tools/repeatable/python/README.md)
+  5. Category READMEs under:
+     - `V:\tools\repeatable\php\database-tools\README.md`
+     - `V:\tools\repeatable\php\data-tools\README.md`
+     - `V:\tools\repeatable\php\mcp-tools\README.md`
+     - `V:\tools\repeatable\python\*/README.md`
+
+- **If an existing tool is close-but-not-quite, prefer extending it**
+  - Maintain the existing patterns (dry-run, CLI/web detection, report/log outputs, library mode) instead of cloning logic into a new file.
+  - See the tools rules section in:
+    - [V:\.cursor\rules\index-of-project-conventions-and-enforced-rules-for-future-agents.mdc](mdc:.cursor/rules/index-of-project-conventions-and-enforced-rules-for-future-agents.mdc)

@@ -1,7 +1,7 @@
 ---
 description: Version incrementing rules for LOTN Character Creator
 globs: lotn_char_create.php, VERSION.md
-alwaysApply: true
+alwaysApply: false
 ---
 
 # Version Incrementing Rules

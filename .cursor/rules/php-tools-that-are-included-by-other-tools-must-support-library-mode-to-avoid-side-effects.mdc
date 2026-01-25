@@ -1,0 +1,25 @@
+---
+description: PHP tools that are included by other tools must support library mode to avoid side effects on require_once
+globs: tools/**/*.php
+alwaysApply: false
+---
+
+- **If a tool’s logic is reused by other scripts, it MUST be safe to include**
+  - “Safe to include” means: requiring the file does not start executing the main import/update routine automatically.
+  - The common pattern in this codebase is a constant guard (library mode).
+
+- **Library mode MUST be enabled by a `define(...)` flag set by the caller**
+  - Example usage:
+    - [V:\tools\repeatable\import_character.php](mdc:tools/repeatable/import_character.php) defines `IMPORT_CHARACTERS_AS_LIBRARY` before requiring the importer.
+
+```php
+define('IMPORT_CHARACTERS_AS_LIBRARY', true);
+require_once __DIR__ . '/php/database-tools/import_characters.php';
+```
+
+- **The included tool MUST check the guard before running main execution**
+  - Contract: if the guard constant is defined and true, the tool should only declare functions/classes and return.
+  - This allows wrapper tools to call entry functions (e.g., `importCharacterFile(...)`) without duplicating logic.
+
+- **Shared functions exported by a library-mode tool MUST be pure with explicit inputs**
+  - Pass `$conn`, file paths, and a `$stats` structure explicitly (do not rely on globals).

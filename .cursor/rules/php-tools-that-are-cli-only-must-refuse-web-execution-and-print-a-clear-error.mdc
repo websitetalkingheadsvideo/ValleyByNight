@@ -1,0 +1,22 @@
+---
+description: PHP tools intended for CLI-only use must refuse web execution and print a clear error message
+globs: tools/**/*.php
+alwaysApply: false
+---
+
+- **Tools that are intended to be CLI-only MUST explicitly refuse web execution**
+  - This avoids accidental DB writes and keeps “maintenance scripts” out of browser context.
+  - Canonical pattern exists in [V:\tools\repeatable\backfill_character_biography.php](mdc:tools/repeatable/backfill_character_biography.php) lines 30-34.
+
+```php
+$is_cli = php_sapi_name() === 'cli';
+if (!$is_cli) {
+    die("This script must be run from the command line.\n");
+}
+```
+
+- **CLI-only tools MUST provide `--help` output**
+  - Include a short usage block and list of supported flags (example in `backfill_character_biography.php` lines 56-65).
+
+- **If a tool needs both CLI and web, it MUST follow the hybrid pattern**
+  - See: [php-tools-that-support-cli-and-web-must-detect-php_sapi_name-and-format-output-accordingly.mdc](mdc:.cursor/rules/php-tools-that-support-cli-and-web-must-detect-php_sapi_name-and-format-output-accordingly.mdc)

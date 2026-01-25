@@ -1,0 +1,27 @@
+---
+description: Python tools under tools/repeatable/python must not hardcode machine-specific paths and must use pathlib for filesystem paths
+globs: tools/repeatable/python/**/*.py
+alwaysApply: false
+---
+
+- **Python tools MUST NOT hardcode machine-specific filesystem roots**
+  - Do not hardcode paths like `G:/VbN/...`, `V:/...`, or `\\\\amber\\htdocs\\...` inside scripts.
+  - Example of legacy hardcoding to avoid in new work: [V:\tools\repeatable\python\text-tools\fix_spaces.py](mdc:tools/repeatable/python/text-tools/fix_spaces.py) lines 5-8.
+
+- **Python tools MUST use `pathlib.Path`**
+  - Resolve paths relative to:
+    - the script location (`Path(__file__).resolve()`) and/or
+    - the repository root (computed by walking parents), and/or
+    - explicit CLI arguments.
+
+```python
+from pathlib import Path
+
+repo_root = Path(__file__).resolve().parents[3]  # tools/repeatable/python/<category>/<script>.py
+input_dir = repo_root / "reference" / "Books_md_ready" / "Decks"
+output_dir = repo_root / "reference" / "Books_md_ready_fixed" / "Decks"
+```
+
+- **If paths are configurable, they MUST be passed explicitly**
+  - Prefer `argparse` arguments over editing global constants.
+  - If a tool is intentionally “quick-and-dirty”, document the configuration at the top of the script and in the corresponding README.

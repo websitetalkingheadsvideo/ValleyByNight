@@ -1,0 +1,31 @@
+---
+description: Agent modules under agents/ must follow agents/<agent_name>/{index.php,config/,src/,tests/} structure and shared include patterns
+globs: agents/**/*
+alwaysApply: false
+---
+
+- **Each agent MUST be self-contained under `V:\\agents\\<agent_name>\\`**
+  - Standard layout is documented and reflected across the codebase:
+    - Entry: `index.php` (or other UI entry like `viewer.php`)
+    - Configuration: `config/` (`config.php` + `config.json`)
+    - Source: `src/` (classes and repositories)
+    - Tests: `tests/` (when present)
+  - Reference: [V:\agents\AGENTS.md](mdc:agents/AGENTS.md) lines 11-23.
+
+- **Agent code MUST use root shared includes via `__DIR__`**
+  - Agents are typically 2 levels deep, so shared includes must be referenced with `../../includes/...`.
+  - Reference: [V:\agents\AGENTS.md](mdc:agents/AGENTS.md) lines 79-85 and 238-239.
+
+```php
+require_once __DIR__ . '/../../includes/connect.php';
+```
+
+- **Agent `src/` files SHOULD use PascalCase class filenames and class names**
+  - Common pattern in `agents/*/src/`:
+    - `*Repository.php` for DB access
+    - `*Validator.php` for validation rules
+    - `*Agent.php` for orchestration
+  - Example: [V:\agents\ability_agent\src\AbilityRepository.php](mdc:agents/ability_agent/src/AbilityRepository.php)
+
+- **Agent DB access MUST use the shared `db_*` helpers**
+  - See [V:\includes\connect.php](mdc:includes/connect.php) for `db_fetch_one`, `db_fetch_all`, `db_execute`, `db_transaction`.

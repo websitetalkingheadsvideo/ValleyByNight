@@ -1,0 +1,19 @@
+---
+description: Start PHP sessions only using session_status guard before reading or writing $_SESSION
+globs: **/*.php
+alwaysApply: false
+---
+
+- **Any code that reads/writes `$_SESSION` MUST ensure the session is started**
+  - Use the `session_status()` guard to prevent “session already started” warnings.
+  - Canonical implementation exists in [V:\includes\header.php](mdc:includes/header.php) lines 7-10.
+
+```php
+if (session_status() === PHP_SESSION_NONE) {
+    session_start();
+}
+```
+
+- **New/edited pages SHOULD include `includes/header.php` before accessing session-derived display values**
+  - `includes/header.php` starts the session and uses `$_SESSION` to render user chrome.
+  - If a page must access session values before including the header, it MUST apply the guard itself (once).
