@@ -35,14 +35,6 @@ sync_config.jsonc
 *.docx
 *.rtf
 
-# Books folders (keeping only Books_md_ready_fixed_cleaned_v2)
-reference/Books_md/
-reference/Books_md_clean/
-reference/Books_md_ready/
-reference/Books_md_ready_cleaned/
-reference/Books_md_ready_fixed/
-reference/Books_md_ready_fixed_cleaned/
-
 # Task files
 tasks.json
 tasks/
