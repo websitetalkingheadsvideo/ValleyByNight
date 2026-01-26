@@ -3,7 +3,7 @@
  * Character Biography Backfill Script
  * 
  * Identifies characters with missing biography fields, searches JSON and Markdown files
- * for character history/biography, and updates database records with found content.
+ * for character biography, and updates database records with found content.
  * 
  * This script is idempotent and safe to run repeatedly.
  * 
@@ -17,9 +17,9 @@
  *   --help             Show this help message
  * 
  * Output Files:
- *   - missing_history_report.json    List of characters missing biography
- *   - history_updates.log             Log of all database updates
- *   - history_not_found.json          Characters where no history was found
+ *   - missing_biography_report.json    List of characters missing biography
+ *   - biography_updates.log             Log of all database updates
+ *   - biography_not_found.json          Characters where no biography was found
  */
 
 declare(strict_types=1);
@@ -196,7 +196,7 @@ function extractBiographyFromJson(string $filepath, string $target_character_nam
 }
 
 /**
- * Extract biography/history from Markdown file
+ * Extract biography from Markdown file
  */
 function extractBiographyFromMarkdown(string $filepath, string $target_character_name): ?string {
     if (!file_exists($filepath)) {
@@ -236,15 +236,13 @@ function extractBiographyFromMarkdown(string $filepath, string $target_character
         return null;
     }
     
-    // Search for history/biography sections
+    // Search for biography sections
     $patterns = [
-        // Pattern 1: "# Character History: Name\n\nContent" or "# Character History: Name\nContent"
+        // Pattern 1: "# Character History: Name\n\nContent" or "# Character History: Name\nContent" (extracts biography content)
         ['pattern' => '/^#\s*Character\s+History:\s*[^\n]+\n+?(.*?)(?=\n#|\Z)/ims', 'group' => 1],
-        // Pattern 2-6: "## Section\n\nContent" or "## Section\nContent"
-        ['pattern' => '/^##\s*History\s*\n+?(.*?)(?=\n##|\n#|\Z)/ims', 'group' => 1],
+        // Pattern 2-4: Biography/Backstory sections only
         ['pattern' => '/^##\s*Biography\s*\n+?(.*?)(?=\n##|\n#|\Z)/ims', 'group' => 1],
         ['pattern' => '/^##\s*Backstory\s*\n+?(.*?)(?=\n##|\n#|\Z)/ims', 'group' => 1],
-        ['pattern' => '/^#\s*History\s*\n+?(.*?)(?=\n#|\Z)/ims', 'group' => 1],
         ['pattern' => '/^#\s*Biography\s*\n+?(.*?)(?=\n#|\Z)/ims', 'group' => 1]
     ];
     
@@ -596,7 +594,7 @@ usort($not_found_characters, function($a, $b) {
     return $a['id'] <=> $b['id'];
 });
 
-// Generate missing_history_report.json
+// Generate missing_biography_report.json
 $missing_report = [
     'generated_at' => date('c'),
     'total_characters' => $stats['total_scanned'],
@@ -604,31 +602,31 @@ $missing_report = [
     'characters' => $missing_characters
 ];
 
-$missing_report_path = $output_dir . '/missing_history_report.json';
+$missing_report_path = $output_dir . '/missing_biography_report.json';
 file_put_contents($missing_report_path, json_encode($missing_report, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
-echo "  Generated: missing_history_report.json\n";
+echo "  Generated: missing_biography_report.json\n";
 
-// Generate history_updates.log
-$log_path = $output_dir . '/history_updates.log';
+// Generate biography_updates.log
+$log_path = $output_dir . '/biography_updates.log';
 $log_content = implode('', $update_log);
 if ($log_content !== '') {
     file_put_contents($log_path, $log_content, FILE_APPEND);
-    echo "  Generated: history_updates.log\n";
+    echo "  Generated: biography_updates.log\n";
 } else {
     // Create empty log file
     file_put_contents($log_path, "# Character Biography Update Log\n# Generated: " . date('c') . "\n\n");
-    echo "  Generated: history_updates.log (empty)\n";
+    echo "  Generated: biography_updates.log (empty)\n";
 }
 
-// Generate history_not_found.json
+// Generate biography_not_found.json
 $not_found_report = [
     'generated_at' => date('c'),
     'characters' => $not_found_characters
 ];
 
-$not_found_report_path = $output_dir . '/history_not_found.json';
+$not_found_report_path = $output_dir . '/biography_not_found.json';
 file_put_contents($not_found_report_path, json_encode($not_found_report, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
-echo "  Generated: history_not_found.json\n";
+echo "  Generated: biography_not_found.json\n";
 
 echo "\n";
 
@@ -636,15 +634,15 @@ echo "\n";
 echo "=== Character Biography Backfill Summary ===\n";
 echo "Total characters scanned: {$stats['total_scanned']}\n";
 echo "Missing initially: {$stats['missing_initially']}\n";
-echo "Histories backfilled: {$stats['backfilled']}\n";
+echo "Biographies backfilled: {$stats['backfilled']}\n";
 echo "Still missing: {$stats['still_missing']}\n";
 echo "Skipped (already had biography): {$stats['skipped']}\n";
 echo "Errors: {$stats['errors']}\n";
 echo "\n";
 echo "Reports generated:\n";
-echo "- tools/repeatable/missing_history_report.json\n";
-echo "- tools/repeatable/history_updates.log\n";
-echo "- tools/repeatable/history_not_found.json\n";
+echo "- tools/repeatable/missing_biography_report.json\n";
+echo "- tools/repeatable/biography_updates.log\n";
+echo "- tools/repeatable/biography_not_found.json\n";
 echo "\n";
 
 if ($options['dry-run']) {
