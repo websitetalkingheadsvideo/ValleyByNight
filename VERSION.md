@@ -1,6 +1,16 @@
 # Version History
 
-## Current Version: 0.9.67
+## Current Version: 0.9.69
+
+**Date:** 2026-01-25  
+**Type:** Patch (Updated pre-game primer header colors to muted gold)
+
+## Previous Version: 0.9.68
+
+**Date:** 2026-01-25  
+**Type:** Patch (Version sync)
+
+## Previous Version: 0.9.67
 
 **Date:** 2026-01-25  
 **Type:** Patch (RAG prep: LotNR corpus generation with lexicon extraction fixes)
