@@ -28,6 +28,12 @@ $message = null;
 $message_type = null;
 $character = null;
 $character_id = null;
+$show_missing_only = false;
+
+// Handle search for missing data
+if (isset($_GET['search_missing'])) {
+    $show_missing_only = true;
+}
 
 // Handle form submission
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['update_character'])) {
@@ -178,7 +184,66 @@ if ($character_id > 0) {
 }
 
 // Get list of characters for dropdown
-$characters_list = db_fetch_all($conn, "SELECT id, character_name FROM characters ORDER BY character_name ASC");
+if ($show_missing_only) {
+    // Find characters with missing data
+    $missing_sql = "SELECT DISTINCT c.id, c.character_name, c.character_image 
+                    FROM characters c 
+                    WHERE (
+                        (c.character_name IS NULL OR c.character_name = '' OR LENGTH(TRIM(c.character_name)) = 0)
+                        OR (c.concept IS NULL OR c.concept = '' OR LENGTH(TRIM(c.concept)) = 0)
+                        OR (c.nature IS NULL OR c.nature = '' OR LENGTH(TRIM(c.nature)) = 0)
+                        OR (c.demeanor IS NULL OR c.demeanor = '' OR LENGTH(TRIM(c.demeanor)) = 0)
+                        OR (c.biography IS NULL OR c.biography = '' OR LENGTH(TRIM(c.biography)) = 0)
+                        OR (c.appearance IS NULL OR c.appearance = '' OR LENGTH(TRIM(c.appearance)) = 0)
+                        OR (c.character_image IS NULL OR c.character_image = '' OR LENGTH(TRIM(c.character_image)) = 0)
+                    )
+                    ORDER BY c.character_name ASC";
+    $all_missing = db_fetch_all($conn, $missing_sql);
+    
+    // Start with characters that have missing database fields
+    $characters_list = [];
+    $included_ids = [];
+    $image_dir = __DIR__ . '/../../../uploads/characters/';
+    
+    foreach ($all_missing as $char) {
+        $characters_list[] = [
+            'id' => $char['id'],
+            'character_name' => $char['character_name']
+        ];
+        $included_ids[$char['id']] = true;
+    }
+    
+    // Also check characters that have image field but file is missing
+    $image_check_sql = "SELECT DISTINCT c.id, c.character_name, c.character_image 
+                        FROM characters c 
+                        WHERE c.character_image IS NOT NULL 
+                        AND c.character_image != '' 
+                        AND TRIM(c.character_image) != ''
+                        ORDER BY c.character_name ASC";
+    $chars_with_images = db_fetch_all($conn, $image_check_sql);
+    
+    foreach ($chars_with_images as $char) {
+        if (isset($included_ids[$char['id']])) {
+            continue; // Already in list
+        }
+        
+        $image_path = $image_dir . $char['character_image'];
+        if (!file_exists($image_path)) {
+            $characters_list[] = [
+                'id' => $char['id'],
+                'character_name' => $char['character_name']
+            ];
+            $included_ids[$char['id']] = true;
+        }
+    }
+    
+    // Sort by character name
+    usort($characters_list, function($a, $b) {
+        return strcmp($a['character_name'] ?? '', $b['character_name'] ?? '');
+    });
+} else {
+    $characters_list = db_fetch_all($conn, "SELECT id, character_name FROM characters ORDER BY character_name ASC");
+}
 
 // Page-specific CSS
 $extra_css = ['css/admin_panel.css'];
@@ -200,8 +265,27 @@ include __DIR__ . '/../../../includes/header.php';
                         </div>
                     <?php endif; ?>
                     
+                    <!-- Search Button -->
+                    <div class="mb-3">
+                        <form method="GET" class="d-inline">
+                            <?php if (isset($_GET['id'])): ?>
+                                <input type="hidden" name="id" value="<?php echo htmlspecialchars($_GET['id']); ?>">
+                            <?php endif; ?>
+                            <button type="submit" name="search_missing" value="1" class="btn btn-primary">
+                                Search for Missing Data
+                            </button>
+                        </form>
+                        <?php if ($show_missing_only): ?>
+                            <a href="quick-edit.php" class="btn btn-secondary ms-2">Show All Characters</a>
+                            <span class="ms-2 text-white">Showing <?php echo count($characters_list); ?> character(s) with missing data</span>
+                        <?php endif; ?>
+                    </div>
+                    
                     <!-- Character Selector -->
                     <form method="GET" class="mb-4">
+                        <?php if ($show_missing_only): ?>
+                            <input type="hidden" name="search_missing" value="1">
+                        <?php endif; ?>
                         <div class="row g-3">
                             <div class="col-md-12">
                                 <label for="character_select" class="form-label">Select Character</label>
@@ -209,9 +293,12 @@ include __DIR__ . '/../../../includes/header.php';
                                     <option value="">-- Choose a character --</option>
                                     <?php foreach ($characters_list as $char): ?>
                                         <option value="<?php echo $char['id']; ?>" <?php echo ($character_id == $char['id']) ? 'selected' : ''; ?>>
-                                            <?php echo htmlspecialchars($char['character_name']); ?>
+                                            <?php echo htmlspecialchars($char['character_name'] ?? 'Unnamed Character'); ?>
                                         </option>
                                     <?php endforeach; ?>
+                                    <?php if (empty($characters_list)): ?>
+                                        <option value="" disabled>No characters found</option>
+                                    <?php endif; ?>
                                 </select>
                             </div>
                         </div>
