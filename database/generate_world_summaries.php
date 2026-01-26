@@ -163,8 +163,6 @@ function generateCharactersSummary(mysqli $conn, string $version, string $genera
     $char_columns = inspectSchema($conn, 'characters');
     $has_creature_type = isset($char_columns['creature_type']);
     $has_sect = isset($char_columns['sect']);
-    $has_history = isset($char_columns['history']) || isset($char_columns['full_history']);
-    $has_history_summary = isset($char_columns['history_summary']);
     
     // Check for wraith_characters table
     $has_wraith_table = false;
@@ -255,7 +253,7 @@ function generateCharactersSummary(mysqli $conn, string $version, string $genera
     // Data quality tracking
     $quality_issues = [];
     $duplicate_names = [];
-    $missing_histories = [];
+    $missing_biographies = [];
     $missing_appearances = [];
     $missing_relationships = [];
     $truncated_narratives = [];
@@ -393,18 +391,16 @@ function generateCharactersSummary(mysqli $conn, string $version, string $genera
             }
         }
         
-        // History (full narrative preferred)
-        $history_field = $char['history'] ?? $char['full_history'] ?? null;
-        $history_summary = $char['history_summary'] ?? null;
-        $history_text = handleNarrativeField($history_field, $history_summary);
+        // Biography (canonical field - single source of truth)
+        $biography_text = handleNarrativeField($char['biography'] ?? null);
         
-        if ($history_text === 'MISSING') {
-            $missing_histories[] = $char_name;
-        } elseif (strpos($history_text, '[TRUNCATED IN SOURCE]') !== false) {
-            $truncated_narratives[] = "{$char_name} (history)";
+        if ($biography_text === 'MISSING') {
+            $missing_biographies[] = $char_name;
+        } elseif (strpos($biography_text, '[TRUNCATED IN SOURCE]') !== false) {
+            $truncated_narratives[] = "{$char_name} (biography)";
         }
         
-        $output .= "- **History**: {$history_text}\n";
+        $output .= "- **Biography**: {$biography_text}\n";
         
         // Appearance (full narrative preferred)
         $appearance_text = handleNarrativeField($char['appearance'] ?? null);
@@ -506,8 +502,8 @@ function generateCharactersSummary(mysqli $conn, string $version, string $genera
     if (!empty($duplicate_names)) {
         $quality_issues[] = "**Duplicate Character Names:** " . implode(', ', $duplicate_names);
     }
-    if (!empty($missing_histories)) {
-        $quality_issues[] = "**Missing History:** " . count($missing_histories) . " characters (" . implode(', ', array_slice($missing_histories, 0, 10)) . (count($missing_histories) > 10 ? '...' : '') . ")";
+    if (!empty($missing_biographies)) {
+        $quality_issues[] = "**Missing Biography:** " . count($missing_biographies) . " characters (" . implode(', ', array_slice($missing_biographies, 0, 10)) . (count($missing_biographies) > 10 ? '...' : '') . ")";
     }
     if (!empty($missing_appearances)) {
         $quality_issues[] = "**Missing Appearance:** " . count($missing_appearances) . " characters (" . implode(', ', array_slice($missing_appearances, 0, 10)) . (count($missing_appearances) > 10 ? '...' : '') . ")";

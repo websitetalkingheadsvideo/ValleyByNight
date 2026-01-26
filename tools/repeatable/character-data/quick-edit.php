@@ -318,6 +318,7 @@ include __DIR__ . '/../../../includes/header.php';
                                 
                                 <div class="alert alert-info mb-3">
                                     <strong>Missing Fields:</strong> Only fields that are missing from the database are shown below.
+                                    <br><strong>Character:</strong> <?php echo htmlspecialchars($character['character_name'] ?? 'Unknown'); ?>
                                 </div>
                                 
                                 <div class="row g-3">

@@ -44,10 +44,8 @@ $field_configs = [
         'json_paths' => ['biography'],
         'markdown_patterns' => [
             '/^#\s*Character\s+History:\s*[^\n]+\n+?(.*?)(?=\n#|\Z)/ims',
-            '/^##\s*History\s*\n+?(.*?)(?=\n##|\n#|\Z)/ims',
             '/^##\s*Biography\s*\n+?(.*?)(?=\n##|\n#|\Z)/ims',
             '/^##\s*Backstory\s*\n+?(.*?)(?=\n##|\n#|\Z)/ims',
-            '/^#\s*History\s*\n+?(.*?)(?=\n#|\Z)/ims',
             '/^#\s*Biography\s*\n+?(.*?)(?=\n#|\Z)/ims'
         ],
         'placeholders' => ['TBD', 'N/A', 'TODO', 'To be determined', 'TBA', 'To be added']
