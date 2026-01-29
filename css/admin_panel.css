@@ -576,3 +576,28 @@
     }
 }
 
+/* Character Data index: sortable table headers (Character Name, Missing Count) – real buttons so they are clickable */
+#character-missing-table th .sortable-header-btn {
+    display: block;
+    width: 100%;
+    padding: 0.75rem;
+    margin: -0.75rem;
+    border: none;
+    background: transparent;
+    color: inherit;
+    font: inherit;
+    font-weight: inherit;
+    text-align: left;
+    cursor: pointer;
+    cursor: hand;
+}
+#character-missing-table th .sortable-header-btn:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+}
+#character-missing-table th.sort-asc .sortable-header-btn::after {
+    content: ' \2191';
+}
+#character-missing-table th.sort-desc .sortable-header-btn::after {
+    content: ' \2193';
+}
+

@@ -304,6 +304,35 @@ Reports generated:
 
 ---
 
+## Sync Missing Abilities
+
+**Script:** `tools/repeatable/character-data/sync_abilities_from_json.php`
+
+### Purpose
+Scans character JSON files in `reference/Characters/Added to Database/` for characters that have no abilities in the database but do have abilities in JSON, then inserts those abilities. Handles multiple JSON formats (string e.g. `"Ability 3"`, object with `name`/`ability_name`, `category`/`ability_category`, `level`, `specialization`; optional `specializations` map).
+
+### Usage
+
+```bash
+# Dry run (preview, default)
+php tools/repeatable/character-data/sync_abilities_from_json.php --dry-run
+
+# Execute
+php tools/repeatable/character-data/sync_abilities_from_json.php --execute
+```
+
+- **Web:** Use the "Sync Missing Abilities" card on `tools/repeatable/character-data/index.php`: "Dry run" link or "Run sync" button (POST with `execute=1`).
+
+### Output
+
+- Log: `tools/repeatable/abilities-sync-YYYYMMDD-HHMMSS.log`
+
+### Safety
+
+- Default is dry-run; use `--execute` or POST `execute=1` to write. Only inserts for characters with 0 abilities; skips others. Uses prepared statements.
+
+---
+
 ## Character Nature Backfill
 
 **Script:** `backfill_character_nature.php`

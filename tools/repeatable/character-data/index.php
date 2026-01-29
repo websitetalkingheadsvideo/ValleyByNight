@@ -28,17 +28,19 @@ if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
 }
 
 require_once __DIR__ . '/../../../includes/connect.php';
+require_once __DIR__ . '/parse_abilities_helper.php';
 
 // Check database connection
 if (!$conn) {
     die("Database connection failed. Please check your configuration.");
 }
 
-// Page-specific CSS
+// Page-specific CSS and JS
 $extra_css = ['css/admin_panel.css'];
+$extra_js = ['js/character-data-index.js'];
 include __DIR__ . '/../../../includes/header.php';
 
-// Fields to check for missing data
+// Fields to check for missing data (must match quick-edit.php)
 $critical_fields = [
     'biography' => 'Biography',
     'appearance' => 'Appearance',
@@ -456,7 +458,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['search_json'])) {
                         $has_data = !empty($json_data['demeanor']) && trim($json_data['demeanor']) !== '';
                         break;
                     case 'Abilities':
-                        $has_data = !empty($json_data['abilities']) && is_array($json_data['abilities']) && count($json_data['abilities']) > 0;
+                        $has_data = count(parse_abilities_from_character_json($json_data)) > 0;
                         break;
                     case 'Disciplines':
                         $has_data = !empty($json_data['disciplines']) && is_array($json_data['disciplines']) && count($json_data['disciplines']) > 0;
@@ -721,90 +723,42 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['update_database'])) {
             
             // Update related tables
             foreach ($found_fields as $field) {
-                if ($field === 'Abilities' && !empty($json_data['abilities']) && is_array($json_data['abilities'])) {
-                    // Check if ability_category column exists
-                    $has_category_column = false;
-                    $col_check = db_fetch_all($conn, "SHOW COLUMNS FROM character_abilities LIKE 'ability_category'");
-                    if (!empty($col_check)) {
-                        $has_category_column = true;
-                    }
-                    
-                    // Delete existing abilities
-                    $delete_result = mysqli_query($conn, "DELETE FROM character_abilities WHERE character_id = " . (int)$char_id);
-                    if (!$delete_result) {
-                        $update_errors[] = "Failed to delete abilities: " . mysqli_error($conn);
-                    }
-                    
-                    // Insert new abilities
-                    foreach ($json_data['abilities'] as $ability) {
-                        $name = '';
-                        $category = '';
-                        $level = 0;
-                        $specialization = '';
-                        
-                        // Handle different ability formats
-                        if (is_string($ability)) {
-                            // String format: "Ability Name 3" or "Ability Name (Specialization: ...)"
-                            if (preg_match('/^(.+?)\s+(\d+)(?:\s*\([^)]+\))?$/', $ability, $matches)) {
-                                $name = trim($matches[1]);
-                                $level = (int)$matches[2];
-                                // Try to extract specialization
-                                if (preg_match('/\(([^)]+)\)/', $ability, $spec_matches)) {
-                                    $specialization = trim($spec_matches[1]);
-                                    // Remove "Specialization: " prefix if present
-                                    $specialization = preg_replace('/^Specialization:\s*/i', '', $specialization);
-                                }
-                            } else {
-                                // Just ability name, no level
-                                $name = trim($ability);
-                            }
-                        } elseif (is_array($ability)) {
-                            // Object format
-                            $name = $ability['name'] ?? $ability['ability_name'] ?? '';
-                            $category = $ability['category'] ?? $ability['ability_category'] ?? '';
-                            $level = isset($ability['level']) ? (int)$ability['level'] : 0;
-                            $specialization = $ability['specialization'] ?? '';
+                if ($field === 'Abilities') {
+                    $parsed_abilities = parse_abilities_from_character_json($json_data);
+                    if (count($parsed_abilities) > 0) {
+                        $has_category_column = !empty(db_fetch_all($conn, "SHOW COLUMNS FROM character_abilities LIKE 'ability_category'"));
+                        $delete_result = mysqli_query($conn, "DELETE FROM character_abilities WHERE character_id = " . (int)$char_id);
+                        if (!$delete_result) {
+                            $update_errors[] = "Failed to delete abilities: " . mysqli_error($conn);
                         }
-                        
-                        if (!empty($name)) {
-                            // Trim and store raw name for lookup (prepared statements handle escaping)
-                            $raw_name = trim($name);
-                            
-                            // Always look up category from abilities table (source of truth) if category column exists
+                        foreach ($parsed_abilities as $a) {
+                            $name = trim($a['name'] ?? '');
+                            if ($name === '') {
+                                continue;
+                            }
+                            $category = trim($a['category'] ?? '');
+                            $level = isset($a['level']) ? (int)$a['level'] : 0;
+                            $specialization = trim($a['specialization'] ?? '');
                             if ($has_category_column) {
-                                $lookup_sql = "SELECT category FROM abilities WHERE name COLLATE utf8mb4_unicode_ci = ? LIMIT 1";
-                                $lookup_stmt = mysqli_prepare($conn, $lookup_sql);
-                                if ($lookup_stmt) {
-                                    mysqli_stmt_bind_param($lookup_stmt, 's', $raw_name);
-                                    mysqli_stmt_execute($lookup_stmt);
-                                    $lookup_result = mysqli_stmt_get_result($lookup_stmt);
-                                    if ($lookup_row = mysqli_fetch_assoc($lookup_result)) {
-                                        // Use category from abilities table (source of truth)
-                                        $category = $lookup_row['category'];
-                                    }
-                                    mysqli_stmt_close($lookup_stmt);
+                                $lookup_row = db_fetch_one($conn, "SELECT category FROM abilities WHERE name COLLATE utf8mb4_unicode_ci = ? LIMIT 1", "s", [$name]);
+                                if ($lookup_row && trim($lookup_row['category'] ?? '') !== '') {
+                                    $category = trim($lookup_row['category']);
                                 }
                             }
-                            
-                            // Now escape for use in direct SQL queries
-                            $name = mysqli_real_escape_string($conn, $name);
-                            $category = mysqli_real_escape_string($conn, $category);
-                            $specialization = mysqli_real_escape_string($conn, $specialization);
-                            
+                            $name_esc = mysqli_real_escape_string($conn, $name);
+                            $category_esc = mysqli_real_escape_string($conn, $category);
+                            $spec_esc = mysqli_real_escape_string($conn, $specialization);
                             if ($has_category_column) {
-                                $insert_sql = "INSERT INTO character_abilities (character_id, ability_name, ability_category, level, specialization) VALUES ({$char_id}, '{$name}', '{$category}', {$level}, '{$specialization}')";
+                                $insert_sql = "INSERT INTO character_abilities (character_id, ability_name, ability_category, level, specialization) VALUES ({$char_id}, '{$name_esc}', '{$category_esc}', {$level}, '{$spec_esc}')";
                             } else {
-                                $insert_sql = "INSERT INTO character_abilities (character_id, ability_name, level, specialization) VALUES ({$char_id}, '{$name}', {$level}, '{$specialization}')";
+                                $insert_sql = "INSERT INTO character_abilities (character_id, ability_name, level, specialization) VALUES ({$char_id}, '{$name_esc}', {$level}, '{$spec_esc}')";
                             }
-                            
-                            $insert_result = mysqli_query($conn, $insert_sql);
-                            if (!$insert_result) {
-                                $update_errors[] = "Failed to insert ability '{$name}': " . mysqli_error($conn);
+                            if (!mysqli_query($conn, $insert_sql)) {
+                                $update_errors[] = "Failed to insert ability '{$name_esc}': " . mysqli_error($conn);
                             }
                         }
+                        mysqli_commit($conn);
                     }
-                    // Commit abilities updates
-                    mysqli_commit($conn);
                 }
                 
                 if ($field === 'Disciplines' && !empty($json_data['disciplines']) && is_array($json_data['disciplines'])) {
@@ -989,6 +943,25 @@ if (isset($_SESSION['update_completed']) && $_SESSION['update_completed']) {
                 </div>
             </div>
         </div>
+        <div class="col-12 col-md-6 col-lg-4 mb-4">
+            <div class="card bg-dark border-secondary h-100">
+                <div class="card-header bg-secondary text-dark">
+                    <h2 class="h5 mb-0">Sync Missing Abilities</h2>
+                </div>
+                <div class="card-body">
+                    <p class="text-white mb-3">
+                        Scan character JSON files for those missing abilities in the DB, then add abilities from JSON. Supports string and object formats.
+                    </p>
+                    <div class="d-flex flex-wrap gap-2">
+                        <a href="sync_abilities_from_json.php?dry_run=1" class="btn btn-outline-light">Dry run</a>
+                        <form method="POST" action="sync_abilities_from_json.php" class="d-inline" onsubmit="return confirm('Add missing abilities to the database for matching characters?');">
+                            <input type="hidden" name="execute" value="1">
+                            <button type="submit" class="btn btn-success">Run sync</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
     
     <div class="row">
@@ -1012,7 +985,19 @@ if (isset($_SESSION['update_completed']) && $_SESSION['update_completed']) {
                     <strong>Important:</strong> Please run a fresh "Search Database" to see the updated results. Characters that were just updated will be excluded from future JSON searches in this session.
                 </div>
             <?php endif; ?>
-            
+
+            <?php
+            if (isset($_SESSION['abilities_sync_message'])) {
+                $asm = $_SESSION['abilities_sync_message'];
+                $alert_class = $asm['type'] === 'success' ? 'alert-success' : ($asm['type'] === 'warning' ? 'alert-warning' : 'alert-info');
+                unset($_SESSION['abilities_sync_message']);
+            ?>
+                <div class="alert <?php echo $alert_class; ?> alert-dismissible fade show">
+                    <?php echo htmlspecialchars($asm['text'], ENT_QUOTES, 'UTF-8'); ?>
+                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                </div>
+            <?php } ?>
+
             <?php if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['search']) && !isset($error_message)): ?>
                 <!-- Summary Panel -->
                 <div class="card bg-dark border-warning mb-4">
@@ -1067,18 +1052,22 @@ if (isset($_SESSION['update_completed']) && $_SESSION['update_completed']) {
                         </div>
                         <div class="card-body p-0">
                             <div class="table-responsive">
-                                <table class="table table-dark table-hover table-striped mb-0">
+                                <table class="table table-dark table-hover table-striped mb-0" id="character-missing-table">
                                     <thead class="table-dark">
                                         <tr>
                                             <th>Character ID</th>
-                                            <th>Character Name</th>
-                                            <th>Missing Count</th>
+                                            <th scope="col">
+                                                <button type="button" class="sortable-header-btn" data-sort="name">Character Name</button>
+                                            </th>
+                                            <th scope="col">
+                                                <button type="button" class="sortable-header-btn" data-sort="missing_count">Missing Count</button>
+                                            </th>
                                             <th>Missing Fields</th>
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <?php foreach ($results as $result): ?>
-                                            <tr class="<?php echo $result['missing_count'] === 0 ? 'table-success' : ''; ?>">
+                                            <tr class="<?php echo $result['missing_count'] === 0 ? 'table-success' : ''; ?>" data-name="<?php echo htmlspecialchars($result['name'], ENT_QUOTES, 'UTF-8'); ?>" data-missing-count="<?php echo (int)$result['missing_count']; ?>">
                                                 <td><?php echo htmlspecialchars((string)$result['id']); ?></td>
                                                 <td>
                                                     <strong><?php echo htmlspecialchars($result['name']); ?></strong>
@@ -1379,102 +1368,6 @@ if (isset($_SESSION['update_completed']) && $_SESSION['update_completed']) {
         </div>
     </div>
 </div>
-
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-    const filterButtons = document.querySelectorAll('.filter-btn');
-    const clearFilterBtn = document.getElementById('clear-filter');
-    const tableRows = document.querySelectorAll('table tbody tr');
-    
-    // Only initialize if filter elements exist
-    if (filterButtons.length === 0 || !clearFilterBtn) {
-        return;
-    }
-    
-    let activeFilter = null;
-    
-    filterButtons.forEach(btn => {
-        btn.addEventListener('click', function() {
-            const field = this.getAttribute('data-field');
-            
-            // Toggle active state
-            if (activeFilter === field) {
-                // If clicking the same button, clear filter
-                clearFilter();
-                return;
-            }
-            
-            activeFilter = field;
-            
-            // Update button states
-            filterButtons.forEach(b => {
-                b.classList.remove('active');
-                b.classList.remove('btn-danger');
-                b.classList.add('btn-outline-danger');
-            });
-            this.classList.add('active');
-            this.classList.remove('btn-outline-danger');
-            this.classList.add('btn-danger');
-            
-            // Filter rows
-            tableRows.forEach(row => {
-                const missingFieldsCell = row.querySelector('td:last-child');
-                if (!missingFieldsCell) return;
-                
-                const badges = missingFieldsCell.querySelectorAll('.badge.bg-danger');
-                let hasField = false;
-                
-                badges.forEach(badge => {
-                    if (badge.textContent.trim() === field) {
-                        hasField = true;
-                    }
-                });
-                
-                if (hasField) {
-                    row.style.display = '';
-                } else {
-                    row.style.display = 'none';
-                }
-            });
-        });
-    });
-    
-    clearFilterBtn.addEventListener('click', function() {
-        clearFilter();
-    });
-    
-    function clearFilter() {
-        activeFilter = null;
-        
-        // Reset button states
-        filterButtons.forEach(b => {
-            b.classList.remove('active');
-            b.classList.remove('btn-danger');
-            b.classList.add('btn-outline-danger');
-        });
-        
-        // Show all rows
-        tableRows.forEach(row => {
-            row.style.display = '';
-        });
-    }
-});
-
-// Loading overlay for database update
-document.addEventListener('DOMContentLoaded', function() {
-    const updateForm = document.getElementById('update-database-form');
-    const loadingOverlay = document.getElementById('loading-overlay');
-    
-    if (updateForm) {
-        updateForm.addEventListener('submit', function() {
-            // Show loading overlay
-            if (loadingOverlay) {
-                loadingOverlay.style.display = 'flex';
-            }
-        });
-    }
-});
-</script>
 
 <!-- Loading Overlay -->
 <div id="loading-overlay" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.8); z-index: 9999; justify-content: center; align-items: center; flex-direction: column;">

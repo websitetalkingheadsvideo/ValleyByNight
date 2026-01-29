@@ -24,11 +24,30 @@ if (!$conn) {
     die("Database connection failed. Please check your configuration.");
 }
 
+// Load Nature/Demeanor options from lookup table for dropdowns
+$nature_demeanor_options = [];
+$nd_result = mysqli_query($conn, "SELECT name FROM Nature_Demeanor ORDER BY display_order");
+if ($nd_result && mysqli_num_rows($nd_result) > 0) {
+    while ($row = mysqli_fetch_assoc($nd_result)) {
+        $nature_demeanor_options[] = $row['name'];
+    }
+    mysqli_free_result($nd_result);
+}
+
 $message = null;
 $message_type = null;
 $character = null;
 $character_id = null;
 $show_missing_only = false;
+
+// Must match index.php
+$critical_fields = [
+    'biography' => 'Biography',
+    'appearance' => 'Appearance',
+    'concept' => 'Concept',
+    'nature' => 'Nature',
+    'demeanor' => 'Demeanor'
+];
 
 // Handle search for missing data
 if (isset($_GET['search_missing'])) {
@@ -118,20 +137,78 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['update_character'])) 
                 $message_type = 'danger';
             }
         }
+
+        // Save abilities (same logic as save_character.php)
+        if (isset($_POST['abilities_json']) && $_POST['abilities_json'] !== '') {
+            $abilities = json_decode($_POST['abilities_json'], true);
+            if (is_array($abilities)) {
+                $col_check = db_fetch_all($conn, "SHOW COLUMNS FROM character_abilities LIKE 'ability_category'");
+                $has_cat = !empty($col_check);
+                db_execute($conn, "DELETE FROM character_abilities WHERE character_id = ?", 'i', [$character_id]);
+                foreach ($abilities as $category => $abilityNames) {
+                    if (!is_array($abilityNames)) {
+                        continue;
+                    }
+                    $counts = [];
+                    foreach ($abilityNames as $name) {
+                        $clean = trim($name);
+                        if (strpos($clean, ' (') !== false) {
+                            $clean = substr($clean, 0, strpos($clean, ' ('));
+                        }
+                        $counts[$clean] = ($counts[$clean] ?? 0) + 1;
+                    }
+                    foreach ($counts as $abilityName => $level) {
+                        $level = max(1, min(5, (int)$level));
+                        $spec = null;
+                        foreach ($abilityNames as $orig) {
+                            if (strpos($orig, $abilityName . ' (') === 0) {
+                                $s = strpos($orig, ' (') + 2;
+                                $e = strrpos($orig, ')');
+                                if ($e > $s) {
+                                    $spec = substr($orig, $s, $e - $s);
+                                }
+                                break;
+                            }
+                        }
+                        if ($has_cat) {
+                            db_execute($conn,
+                                "INSERT INTO character_abilities (character_id, ability_name, ability_category, level, specialization) VALUES (?, ?, ?, ?, ?)",
+                                'issis',
+                                [$character_id, $abilityName, $category, $level, $spec ?? '']
+                            );
+                        } else {
+                            db_execute($conn,
+                                "INSERT INTO character_abilities (character_id, ability_name, level, specialization) VALUES (?, ?, ?, ?)",
+                                'isis',
+                                [$character_id, $abilityName, $level, $spec ?? '']
+                            );
+                        }
+                    }
+                }
+                if (empty($message)) {
+                    $message = "Character updated successfully!";
+                    $message_type = 'success';
+                }
+            }
+        }
     }
 }
 
 // Get character ID from GET or POST
 if (isset($_GET['id'])) {
     $character_id = (int)$_GET['id'];
-} elseif (isset($_POST['character_id']) && !isset($_POST['update_character'])) {
+} elseif (isset($_POST['character_id'])) {
     $character_id = (int)$_POST['character_id'];
 }
 
 // Load character data
 if ($character_id > 0) {
     $select_fields = ['id', 'character_name', 'concept', 'nature', 'demeanor', 'biography', 'appearance', 'character_image'];
-    $select_sql = "SELECT " . implode(', ', $select_fields) . " FROM characters WHERE id = ?";
+    $select_sql = "SELECT " . implode(', ', $select_fields) . ",
+                    (SELECT COUNT(*) FROM character_abilities WHERE character_id = c.id) as abilities_count,
+                    (SELECT COUNT(*) FROM character_disciplines WHERE character_id = c.id) as disciplines_count,
+                    (SELECT COUNT(*) FROM character_backgrounds WHERE character_id = c.id) as backgrounds_count
+                  FROM characters c WHERE c.id = ?";
     $stmt = mysqli_prepare($conn, $select_sql);
     
     if ($stmt) {
@@ -141,113 +218,127 @@ if ($character_id > 0) {
         $character = mysqli_fetch_assoc($result);
         mysqli_stmt_close($stmt);
         
-        // Determine which fields are missing
-        $missing_fields = [];
-        
-        // Check text fields
-        $text_fields = [
-            'character_name' => 'Character Name',
-            'concept' => 'Concept',
-            'nature' => 'Nature',
-            'demeanor' => 'Demeanor',
-            'biography' => 'Biography',
-            'appearance' => 'Appearance'
-        ];
-        
-        foreach ($text_fields as $field => $label) {
-            $value = $character[$field] ?? null;
-            if (empty($value) || trim($value) === '') {
-                $missing_fields[$field] = $label;
+        if ($character) {
+            $missing_fields = [];
+            foreach ($critical_fields as $field => $label) {
+                $value = $character[$field] ?? null;
+                if ($value === null || $value === '' || trim($value) === '') {
+                    $missing_fields[$field] = $label;
+                }
             }
-        }
-        
-        // Check character image
-        $image_value = $character['character_image'] ?? null;
-        $image_missing = false;
-        if (empty($image_value) || trim($image_value) === '') {
-            $image_missing = true;
-        } else {
-            // Check if image file actually exists
-            $image_path = __DIR__ . '/../../../uploads/characters/' . $image_value;
-            if (!file_exists($image_path)) {
-                $image_missing = true;
+            if ((int)($character['abilities_count'] ?? 0) === 0) {
+                $missing_fields['abilities'] = 'Abilities';
             }
+            if ((int)($character['disciplines_count'] ?? 0) === 0) {
+                $missing_fields['disciplines'] = 'Disciplines';
+            }
+            if ((int)($character['backgrounds_count'] ?? 0) === 0) {
+                $missing_fields['backgrounds'] = 'Backgrounds';
+            }
+            $image_value = $character['character_image'] ?? null;
+            $image_missing = empty($image_value) || trim($image_value) === '';
+            if (!$image_missing) {
+                $image_missing = !file_exists(__DIR__ . '/../../../uploads/characters/' . $image_value);
+            }
+            if ($image_missing) {
+                $missing_fields['character_image'] = 'Character Image';
+            }
+            $character['_missing_fields'] = $missing_fields;
+            // Load existing abilities for editor (same format as save: category => [names repeated by level])
+            $char_abilities = db_fetch_all($conn,
+                "SELECT ability_name, ability_category, level FROM character_abilities WHERE character_id = ? ORDER BY ability_category, ability_name",
+                'i', [$character_id]
+            );
+            $existing_abilities = ['Physical' => [], 'Social' => [], 'Mental' => [], 'Optional' => []];
+            foreach ($char_abilities as $a) {
+                $cat = $a['ability_category'] ?? 'Optional';
+                if (!isset($existing_abilities[$cat])) {
+                    $existing_abilities[$cat] = [];
+                }
+                $name = trim($a['ability_name'] ?? '');
+                if ($name === '') {
+                    continue;
+                }
+                $lvl = max(1, min(5, (int)($a['level'] ?? 1)));
+                for ($i = 0; $i < $lvl; $i++) {
+                    $existing_abilities[$cat][] = $name;
+                }
+            }
+            $character['_abilities'] = $existing_abilities;
         }
-        
-        if ($image_missing) {
-            $missing_fields['character_image'] = 'Character Image';
-        }
-        
-        // Store missing fields for use in form
-        $character['_missing_fields'] = $missing_fields;
     }
 }
 
 // Get list of characters for dropdown
 if ($show_missing_only) {
-    // Find characters with missing data
-    $missing_sql = "SELECT DISTINCT c.id, c.character_name, c.character_image 
-                    FROM characters c 
-                    WHERE (
-                        (c.character_name IS NULL OR c.character_name = '' OR LENGTH(TRIM(c.character_name)) = 0)
-                        OR (c.concept IS NULL OR c.concept = '' OR LENGTH(TRIM(c.concept)) = 0)
-                        OR (c.nature IS NULL OR c.nature = '' OR LENGTH(TRIM(c.nature)) = 0)
-                        OR (c.demeanor IS NULL OR c.demeanor = '' OR LENGTH(TRIM(c.demeanor)) = 0)
-                        OR (c.biography IS NULL OR c.biography = '' OR LENGTH(TRIM(c.biography)) = 0)
-                        OR (c.appearance IS NULL OR c.appearance = '' OR LENGTH(TRIM(c.appearance)) = 0)
-                        OR (c.character_image IS NULL OR c.character_image = '' OR LENGTH(TRIM(c.character_image)) = 0)
-                    )
-                    ORDER BY c.character_name ASC";
-    $all_missing = db_fetch_all($conn, $missing_sql);
-    
-    // Start with characters that have missing database fields
-    $characters_list = [];
-    $included_ids = [];
+    // Use same missing-data definition as index.php (query + logic)
+    $select_fields = ['c.id', 'c.character_name', 'c.biography', 'c.appearance', 'c.concept', 'c.nature', 'c.demeanor', 'c.character_image'];
+    $query = "SELECT " . implode(', ', $select_fields) . ",
+                (SELECT COUNT(*) FROM character_abilities WHERE character_id = c.id) as abilities_count,
+                (SELECT COUNT(*) FROM character_disciplines WHERE character_id = c.id) as disciplines_count,
+                (SELECT COUNT(*) FROM character_backgrounds WHERE character_id = c.id) as backgrounds_count
+              FROM characters c
+              ORDER BY c.id";
+    $all_chars = db_fetch_all($conn, $query);
     $image_dir = __DIR__ . '/../../../uploads/characters/';
-    
-    foreach ($all_missing as $char) {
-        $characters_list[] = [
-            'id' => $char['id'],
-            'character_name' => $char['character_name']
-        ];
-        $included_ids[$char['id']] = true;
-    }
-    
-    // Also check characters that have image field but file is missing
-    $image_check_sql = "SELECT DISTINCT c.id, c.character_name, c.character_image 
-                        FROM characters c 
-                        WHERE c.character_image IS NOT NULL 
-                        AND c.character_image != '' 
-                        AND TRIM(c.character_image) != ''
-                        ORDER BY c.character_name ASC";
-    $chars_with_images = db_fetch_all($conn, $image_check_sql);
-    
-    foreach ($chars_with_images as $char) {
-        if (isset($included_ids[$char['id']])) {
-            continue; // Already in list
+    $characters_list = [];
+
+    foreach ($all_chars as $char) {
+        $missing_fields = [];
+        foreach ($critical_fields as $field => $label) {
+            if (!array_key_exists($field, $char)) {
+                continue;
+            }
+            $value = $char[$field] ?? null;
+            if ($value === null || $value === '' || trim($value) === '') {
+                $missing_fields[] = $label;
+            }
         }
-        
-        $image_path = $image_dir . $char['character_image'];
-        if (!file_exists($image_path)) {
+        if ((int)($char['abilities_count'] ?? 0) === 0) {
+            $missing_fields[] = 'Abilities';
+        }
+        if ((int)($char['disciplines_count'] ?? 0) === 0) {
+            $missing_fields[] = 'Disciplines';
+        }
+        if ((int)($char['backgrounds_count'] ?? 0) === 0) {
+            $missing_fields[] = 'Backgrounds';
+        }
+        $image_value = $char['character_image'] ?? null;
+        $image_missing = empty($image_value) || trim($image_value) === '';
+        if (!$image_missing) {
+            $image_missing = !file_exists($image_dir . $image_value);
+        }
+        if ($image_missing) {
+            $missing_fields[] = 'Image';
+        }
+        if (!empty($missing_fields)) {
             $characters_list[] = [
-                'id' => $char['id'],
-                'character_name' => $char['character_name']
+                'id' => (int)$char['id'],
+                'character_name' => $char['character_name'] ?? 'Unknown'
             ];
-            $included_ids[$char['id']] = true;
         }
     }
-    
-    // Sort by character name
-    usort($characters_list, function($a, $b) {
+
+    usort($characters_list, function ($a, $b) {
         return strcmp($a['character_name'] ?? '', $b['character_name'] ?? '');
     });
 } else {
     $characters_list = db_fetch_all($conn, "SELECT id, character_name FROM characters ORDER BY character_name ASC");
 }
 
-// Page-specific CSS
 $extra_css = ['css/admin_panel.css'];
+$extra_js = ['js/quick-edit-abilities.js'];
 include __DIR__ . '/../../../includes/header.php';
+
+// Abilities from DB (same source as get_abilities_api / character editor)
+$abilities_by_category = ['Physical' => [], 'Social' => [], 'Mental' => [], 'Optional' => []];
+$abilities_rows = db_fetch_all($conn, "SELECT name, category FROM abilities ORDER BY category, display_order ASC");
+foreach ($abilities_rows as $r) {
+    $cat = $r['category'] ?? '';
+    if (isset($abilities_by_category[$cat])) {
+        $abilities_by_category[$cat][] = $r['name'];
+    }
+}
 ?>
 
 <div class="page-content container py-4">
@@ -306,84 +397,113 @@ include __DIR__ . '/../../../includes/header.php';
                     
                     <!-- Edit Form -->
                     <?php if ($character): ?>
-                        <?php 
+                        <?php
                         $missing_fields = $character['_missing_fields'] ?? [];
-                        if (empty($missing_fields)): ?>
-                            <div class="alert alert-success">
-                                <strong>All fields are complete!</strong> This character has all required data filled in.
-                            </div>
-                        <?php else: ?>
-                            <form method="POST" enctype="multipart/form-data">
-                                <input type="hidden" name="character_id" value="<?php echo $character['id']; ?>">
-                                
+                        $editable_keys = ['character_name', 'concept', 'nature', 'demeanor', 'biography', 'appearance', 'character_image'];
+                        $missing_editable = array_intersect_key($missing_fields, array_flip($editable_keys));
+                        $existing_abilities = $character['_abilities'] ?? ['Physical' => [], 'Social' => [], 'Mental' => [], 'Optional' => []];
+                        ?>
+                        <form method="POST" enctype="multipart/form-data" id="quick-edit-form">
+                            <input type="hidden" name="character_id" value="<?php echo (int)$character['id']; ?>">
+                            <input type="hidden" name="abilities_json" id="abilities_json" value="<?php echo htmlspecialchars(json_encode($existing_abilities), ENT_QUOTES, 'UTF-8'); ?>">
+                            <?php if (empty($missing_fields)): ?>
+                                <div class="alert alert-success mb-3">All fields complete. Edit abilities below if needed.</div>
+                            <?php elseif (!empty($missing_editable)): ?>
                                 <div class="alert alert-info mb-3">
-                                    <strong>Missing Fields:</strong> Only fields that are missing from the database are shown below.
+                                    <strong>Missing:</strong> <?php echo htmlspecialchars(implode(', ', array_values($missing_editable))); ?>.
                                     <br><strong>Character:</strong> <?php echo htmlspecialchars($character['character_name'] ?? 'Unknown'); ?>
                                 </div>
-                                
-                                <div class="row g-3">
+                            <?php else:
+                                $missing_other = array_intersect_key($missing_fields, array_flip(['abilities', 'disciplines', 'backgrounds']));
+                            ?>
+                                <div class="alert alert-info mb-3">
+                                    <strong>Missing:</strong> <?php echo htmlspecialchars(implode(', ', array_values($missing_other)), ENT_QUOTES, 'UTF-8'); ?>.
+                                    <br><strong>Character:</strong> <?php echo htmlspecialchars($character['character_name'] ?? 'Unknown', ENT_QUOTES, 'UTF-8'); ?>
+                                </div>
+                            <?php endif; ?>
+
+                            <?php if (!empty($missing_editable)): ?>
+                                <div class="row g-3 mb-4">
                                     <?php if (isset($missing_fields['character_name'])): ?>
                                         <div class="col-md-6">
                                             <label for="character_name" class="form-label">Character Name</label>
-                                            <input type="text" class="form-control" id="character_name" name="character_name" 
-                                                   value="<?php echo htmlspecialchars($character['character_name'] ?? ''); ?>">
+                                            <input type="text" class="form-control" id="character_name" name="character_name" value="<?php echo htmlspecialchars($character['character_name'] ?? '', ENT_QUOTES, 'UTF-8'); ?>">
                                         </div>
                                     <?php endif; ?>
-                                    
                                     <?php if (isset($missing_fields['concept'])): ?>
                                         <div class="col-md-6">
                                             <label for="concept" class="form-label">Concept</label>
-                                            <input type="text" class="form-control" id="concept" name="concept" 
-                                                   value="<?php echo htmlspecialchars($character['concept'] ?? ''); ?>">
+                                            <input type="text" class="form-control" id="concept" name="concept" value="<?php echo htmlspecialchars($character['concept'] ?? '', ENT_QUOTES, 'UTF-8'); ?>">
                                         </div>
                                     <?php endif; ?>
-                                    
                                     <?php if (isset($missing_fields['nature'])): ?>
                                         <div class="col-md-6">
                                             <label for="nature" class="form-label">Nature</label>
-                                            <input type="text" class="form-control" id="nature" name="nature" 
-                                                   value="<?php echo htmlspecialchars($character['nature'] ?? ''); ?>">
+                                            <select class="form-select" id="nature" name="nature">
+                                                <option value="">-- Select Nature --</option>
+                                                <?php foreach ($nature_demeanor_options as $opt): ?>
+                                                    <option value="<?php echo htmlspecialchars($opt, ENT_QUOTES, 'UTF-8'); ?>" <?php echo (isset($character['nature']) && trim($character['nature']) === $opt) ? 'selected' : ''; ?>><?php echo htmlspecialchars($opt); ?></option>
+                                                <?php endforeach; ?>
+                                            </select>
                                         </div>
                                     <?php endif; ?>
-                                    
                                     <?php if (isset($missing_fields['demeanor'])): ?>
                                         <div class="col-md-6">
                                             <label for="demeanor" class="form-label">Demeanor</label>
-                                            <input type="text" class="form-control" id="demeanor" name="demeanor" 
-                                                   value="<?php echo htmlspecialchars($character['demeanor'] ?? ''); ?>">
+                                            <select class="form-select" id="demeanor" name="demeanor">
+                                                <option value="">-- Select Demeanor --</option>
+                                                <?php foreach ($nature_demeanor_options as $opt): ?>
+                                                    <option value="<?php echo htmlspecialchars($opt, ENT_QUOTES, 'UTF-8'); ?>" <?php echo (isset($character['demeanor']) && trim($character['demeanor']) === $opt) ? 'selected' : ''; ?>><?php echo htmlspecialchars($opt); ?></option>
+                                                <?php endforeach; ?>
+                                            </select>
                                         </div>
                                     <?php endif; ?>
-                                    
                                     <?php if (isset($missing_fields['biography'])): ?>
                                         <div class="col-md-12">
                                             <label for="biography" class="form-label">Biography</label>
-                                            <textarea class="form-control" id="biography" name="biography" rows="6"><?php echo htmlspecialchars($character['biography'] ?? ''); ?></textarea>
+                                            <textarea class="form-control" id="biography" name="biography" rows="6"><?php echo htmlspecialchars($character['biography'] ?? '', ENT_QUOTES, 'UTF-8'); ?></textarea>
                                         </div>
                                     <?php endif; ?>
-                                    
                                     <?php if (isset($missing_fields['appearance'])): ?>
                                         <div class="col-md-12">
                                             <label for="appearance" class="form-label">Appearance</label>
-                                            <textarea class="form-control" id="appearance" name="appearance" rows="6"><?php echo htmlspecialchars($character['appearance'] ?? ''); ?></textarea>
+                                            <textarea class="form-control" id="appearance" name="appearance" rows="6"><?php echo htmlspecialchars($character['appearance'] ?? '', ENT_QUOTES, 'UTF-8'); ?></textarea>
                                         </div>
                                     <?php endif; ?>
-                                    
                                     <?php if (isset($missing_fields['character_image'])): ?>
                                         <div class="col-md-12">
                                             <label for="character_image" class="form-label">Character Image</label>
-                                            <input type="file" class="form-control" id="character_image" name="character_image" 
-                                                   accept="image/jpeg,image/jpg,image/png,image/gif,image/webp">
+                                            <input type="file" class="form-control" id="character_image" name="character_image" accept="image/jpeg,image/jpg,image/png,image/gif,image/webp">
                                             <div class="mt-1">Accepted formats: JPG, PNG, GIF, WebP</div>
                                         </div>
                                     <?php endif; ?>
-                                    
-                                    <div class="col-md-12">
-                                        <button type="submit" name="update_character" class="btn btn-primary">Update Character</button>
-                                        <a href="quick-edit.php" class="btn btn-secondary">Clear</a>
-                                    </div>
                                 </div>
-                            </form>
-                        <?php endif; ?>
+                            <?php endif; ?>
+
+                            <h5 class="mb-3">Abilities</h5>
+                            <?php
+                            $cats = ['Physical' => 'Physical', 'Social' => 'Social', 'Mental' => 'Mental', 'Optional' => 'Optional'];
+                            foreach ($cats as $catKey => $catLabel):
+                                $opts = $abilities_by_category[$catKey] ?? [];
+                            ?>
+                            <div class="ability-section mb-4">
+                                <h6 class="mb-2"><?php echo htmlspecialchars($catLabel); ?></h6>
+                                <div class="ability-options d-flex flex-wrap gap-1 mb-2">
+                                    <?php foreach ($opts as $ab): ?>
+                                        <button type="button" class="btn btn-sm btn-outline-secondary ability-option-btn" data-category="<?php echo htmlspecialchars($catKey, ENT_QUOTES, 'UTF-8'); ?>" data-ability="<?php echo htmlspecialchars($ab, ENT_QUOTES, 'UTF-8'); ?>"><?php echo htmlspecialchars($ab); ?></button>
+                                    <?php endforeach; ?>
+                                </div>
+                                <div class="ability-list border rounded p-2 bg-dark" id="<?php echo htmlspecialchars(strtolower($catKey)); ?>AbilitiesList" data-category="<?php echo htmlspecialchars($catKey, ENT_QUOTES, 'UTF-8'); ?>">
+                                    <span class="text-white">None selected</span>
+                                </div>
+                            </div>
+                            <?php endforeach; ?>
+
+                            <div class="d-flex flex-wrap gap-2">
+                                <button type="submit" name="update_character" class="btn btn-primary">Update Character</button>
+                                <a href="quick-edit.php<?php echo $show_missing_only ? '?search_missing=1' : ''; ?>" class="btn btn-secondary">Clear</a>
+                            </div>
+                        </form>
                     <?php else: ?>
                         <div class="alert alert-info">
                             Select a character from the dropdown above to begin editing.

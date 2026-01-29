@@ -596,6 +596,36 @@ php tools/repeatable/character-data/export_character.php "Marisol \"Roadrunner\"
 
 ---
 
+#### sync_abilities_from_json.php
+
+**Location:** `tools/repeatable/character-data/sync_abilities_from_json.php`
+
+**Purpose:** Scans character JSON files for characters missing abilities in the DB and inserts those abilities. Supports multiple JSON formats (string e.g. `"Ability 3"`, object with `name`/`ability_name`, `category`/`ability_category`, `level`, `specialization`; optional `specializations` map).
+
+**Usage:**
+```bash
+# Dry run (preview, default)
+php tools/repeatable/character-data/sync_abilities_from_json.php --dry-run
+
+# Execute
+php tools/repeatable/character-data/sync_abilities_from_json.php --execute
+```
+
+- Web: `sync_abilities_from_json.php?dry_run=1` (preview), or POST with `execute=1` (run). Button on `character-data/index.php`.
+
+**What it does:**
+- Finds characters with 0 abilities in DB
+- Scans `reference/Characters/Added to Database/*.json`, matches by `npc__*__id` filename, `id`, or `character_name`
+- Parses abilities from JSON (string/object formats), resolves category from `abilities` table when present
+- Inserts into `character_abilities`; skips characters that already have abilities
+- Writes log to `tools/repeatable/abilities-sync-YYYYMMDD-HHMMSS.log`
+
+**Dependencies:** `includes/connect.php`, admin when run via web, `abilities` / `character_abilities` tables
+
+**Use case:** Backfill missing abilities from JSON into the database for characters that have none
+
+---
+
 ### Data Tools
 
 Tools for generating reports, summaries, and data analysis from the database.

@@ -79,13 +79,16 @@ Default: All vampire portraits are nocturnal. Use **NIGHT** unless one of the fo
 
 **If NIGHT:**
 
-- Environment must read as nighttime or deep pre-dawn.
-- Lighting must be artificial (streetlights, moonlight, neon, firelight) or moonlit desert.
-- Sky must not be bright or sunlit; no golden-hour daylight.
-- Add the hard constraint line to **final_prompt_used**:  
-  `Time of day: Night. No daylight, no sunrise, no sunset, no golden hour. Moonlit or artificial lighting only.`
-- Add to **negative_prompt_used**:  
-  `daytime, daylight, sunlit sky, golden hour, sunrise, sunset, bright blue sky`
+- Environment must read as nighttime or deep pre-dawn: **dark sky** (navy, black, or starfield), **no sun visible anywhere**, no warm daylight tones in sky or background.
+- Lighting must be artificial (streetlights, moonlight, neon, firelight) or moonlit desert only.
+- **Mandatory in final_prompt_used:**
+  1. **Open** the prompt with this block (so the model sees it first):  
+     `Night scene only. Dark sky, no sun, no sunlight. Lit only by moonlight, streetlights, neon, or firelight. The whole image must look like night—dark blues and blacks, no warm daylight in sky or background.`
+  2. In the **environment/lighting** description use explicit cues: dark night sky, moonlit, starfield or overcast night, no sun in frame.
+  3. **Close** the prompt with:  
+     `Time of day: Night. No daylight, no sunrise, no sunset, no golden hour. Moonlit or artificial lighting only.`
+- Add to **negative_prompt_used** (all of these when NIGHT):  
+  `daytime, daylight, day, sun, sunlight, sunny, sunlit, sunlit sky, golden hour, sunrise, sunset, dawn, dusk, noon, afternoon, morning, bright blue sky, blue sky, bright sky, clouds in daylight, natural daylight, outdoor daylight, warm daylight, daylight portrait`
 
 **If DAY is allowed:**
 
@@ -94,21 +97,22 @@ Default: All vampire portraits are nocturnal. Use **NIGHT** unless one of the fo
 
 ### 6. Prompt construction
 
-Build a single **final_prompt_used** including:
+Build a single **final_prompt_used** in this order:
 
+- **When NIGHT**: Open with the mandatory night-scene block (see Time-of-day rule). Do not put subject or “cinematic” before it—night first.
 - **Subject block**: name, clan/role, age impression, ethnicity if stated, wardrobe/grooming, posture
 - **Vampiric cues**: tuned by humanity mapping (subtle only)
-- **Lighting block** with HEX accents:
-  - Noir blue-black #0D0E10 (shadows)
-  - Desert amber #C87B3E (key highlights)
+- **Lighting block** with HEX accents (for NIGHT use only cool/moonlit tones; no warm “sun” amber in sky):
+  - Noir blue-black #0D0E10 (shadows, night sky)
+  - Desert amber #C87B3E (key highlights—from moonlight or artificial light, not sun)
   - Muted gold #B89B64 (secondary highlights)
   - Deep crimson #7A1E1E (very subtle undertone)
-  (If JSON suggests a different palette, incorporate but keep noir.)
-- **Environment block**: Phoenix/Mesa/East Valley cues from biography/notes; do not invent landmarks by name unless present
+  (If JSON suggests a different palette, incorporate but keep noir and **night**.)
+- **Environment block**: Must include **dark night sky** or **moonlit** or **starfield** or **overcast night**; Phoenix/Mesa/East Valley cues from biography/notes; do not invent landmarks by name unless present.
 - **Camera**: film-still realism, realistic lens, subtle bloom, shallow depth of field
 - **Stamp**: "Phoenix, Arizona, 1994"
 - **Final line**: "Masquerade-friendly subtlety; no overt supernatural display."
-- When NIGHT (see Time-of-day rule): include the hard constraint line verbatim in final_prompt_used.
+- **When NIGHT**: End with the hard constraint line verbatim (see Time-of-day rule).
 
 ### 7. Negative prompt (required)
 
@@ -119,7 +123,7 @@ Build a single **final_prompt_used** including:
 - overt fangs, gore, blood splatter, horror monster, deformed face (unless JSON requires)
 - fantasy architecture, medieval clothing, modern 2020s streetwear
 - text overlays, captions, watermarks, logos, date stamps
-- When NIGHT (default): daytime, daylight, sunlit sky, golden hour, sunrise, sunset, bright blue sky
+- When NIGHT (default): daytime, daylight, day, sun, sunlight, sunny, sunlit, sunlit sky, golden hour, sunrise, sunset, dawn, dusk, noon, afternoon, morning, bright blue sky, blue sky, bright sky, clouds in daylight, natural daylight, outdoor daylight, warm daylight, daylight portrait
 
 ### 8. Image generation and saving
 

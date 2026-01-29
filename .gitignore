@@ -27,6 +27,7 @@ test_db_connection_cli.php
 
 # OS specific
 .DS_Store
+Thumbs.db
 
 sync_config.jsonc
 
