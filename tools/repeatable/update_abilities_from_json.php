@@ -159,6 +159,10 @@ foreach ($json_data['abilities'] as $ability) {
     }
     
     $raw_name = trim($name);
+    // Top-level specializations object: { "Ability Name": "Spec Text" }
+    if ($specialization === '' && !empty($json_data['specializations']) && isset($json_data['specializations'][$raw_name])) {
+        $specialization = (string) $json_data['specializations'][$raw_name];
+    }
     
     // Always look up category from abilities table (source of truth) if category column exists
     if ($has_category_column) {

@@ -1,0 +1,23 @@
+{
+  "abilities": [
+    { "name": "Academics", "category": "Mental", "level": 4 },
+    { "name": "Finance", "category": "Mental", "level": 4 },
+    { "name": "Investigation", "category": "Mental", "level": 2 },
+    { "name": "Law", "category": "Mental", "level": 2 },
+    { "name": "Politics", "category": "Mental", "level": 2 },
+    { "name": "Etiquette", "category": "Social", "level": 3 },
+    { "name": "Leadership", "category": "Social", "level": 3 },
+    { "name": "Persuasion", "category": "Social", "level": 3 },
+    { "name": "Subterfuge", "category": "Social", "level": 2 },
+    { "name": "Empathy", "category": "Social", "level": 2 },
+    { "name": "Athletics", "category": "Physical", "level": 1 },
+    { "name": "Brawl", "category": "Physical", "level": 1 }
+  ],
+  "specializations": {
+    "Academics": "Business Administration",
+    "Finance": "Venture Capital",
+    "Etiquette": "Camarilla Elysium",
+    "Persuasion": "Boardroom Negotiation",
+    "Leadership": "Small Teams"
+  }
+}
