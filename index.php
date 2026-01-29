@@ -64,7 +64,7 @@ include 'includes/header.php';
     
     <!-- Player Resources Section -->
     <div class="row mb-4 player-resources-row">
-        <div class="col-md-2 col-sm-6">
+        <div class="col-xl-2 col-md-4 col-sm-6">
             <div class="card">
                 <div class="card-body">
                     <h3 class="card-title">Learn About the Clans</h3>
@@ -73,7 +73,7 @@ include 'includes/header.php';
                 </div>
             </div>
         </div>
-        <div class="col-md-2 col-sm-6">
+        <div class="col-xl-2 col-md-4 col-sm-6">
             <div class="card">
                 <div class="card-body">
                     <h3 class="card-title">Take the Character Quiz</h3>
@@ -82,7 +82,7 @@ include 'includes/header.php';
                 </div>
             </div>
         </div>
-        <div class="col-md-2 col-sm-6">
+        <div class="col-xl-2 col-md-4 col-sm-6">
             <div class="card">
                 <div class="card-body">
                     <h3 class="card-title">Phoenix Map</h3>
@@ -91,7 +91,7 @@ include 'includes/header.php';
                 </div>
             </div>
         </div>
-        <div class="col-md-2 col-sm-6">
+        <div class="col-xl-2 col-md-4 col-sm-6">
             <div class="card">
                 <div class="card-body">
                     <h3 class="card-title">Chat Room</h3>
@@ -100,7 +100,7 @@ include 'includes/header.php';
                 </div>
             </div>
         </div>
-        <div class="col-md-2 col-sm-6">
+        <div class="col-xl-2 col-md-4 col-sm-6">
             <div class="card">
                 <div class="card-body">
                     <h3 class="card-title">Glossary</h3>
@@ -109,7 +109,7 @@ include 'includes/header.php';
                 </div>
             </div>
         </div>
-        <div class="col-md-2 col-sm-6">
+        <div class="col-xl-2 col-md-4 col-sm-6">
             <div class="card">
                 <div class="card-body">
                     <h3 class="card-title">Pre-Game Primer</h3>

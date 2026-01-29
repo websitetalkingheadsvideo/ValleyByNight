@@ -6,19 +6,18 @@
     "chronicle": "Valley by Night",
     "nature": "Survivor",
     "demeanor": "Survivor",
-    "concept": "",
+    "concept": "Gangrel tracker mapping supernatural safe trails",
     "clan": "Gangrel",
     "generation": 11,
     "sire": "0",
     "pc": 0,
     "appearance": "Marisol 'Roadrunner' Vega moves through the desert like a predator who's learned to read the land like scripture, her presence so attuned to the rhythms of the wasteland that she seems to fade into the terrain until she chooses to be seen. As a Gangrel tracker and hunter, she presents as a woman in her early thirties—old enough to have learned the desert's lessons, young enough that the Embrace hasn't fully settled into her bones. She's lean and sunburnt, with the kind of build that speaks to years of hard living: wiry muscles from long-haul driving and desert survival, calloused hands from reading sign and handling weapons, and a posture that suggests someone who's learned to move with the economy of a predator. Her face carries the strong, expressive features of someone who's spent years squinting into sun and wind, and her eyes—hawk-bright and constantly scanning—hold the kind of intensity that comes from learning to see what others miss.\n\nHer clothing is a study in functional survival: a faded trucker jacket that's seen more miles than most people drive in a lifetime, dust-caked boots that have walked every trail around Phoenix, and practical pieces chosen for their ability to withstand desert conditions. Everything is worn but serviceable, chosen for function over form, and she has a habit of tasting soil when tracking, a gesture that would be strange in anyone else but reads as natural in someone who's learned to read the land like a book. Her hair is kept practical—short enough to be manageable, long enough to provide some protection from the sun—and her grooming is minimal, as if she's learned that in the desert, survival matters more than presentation.\n\nWhat sets Marisol apart, however, isn't just her appearance but the way she carries herself despite the knowledge of what she's lost. She's a former long-haul driver who was Embraced at a rest stop, someone who's learned to map the supernatural 'safe trails' around the Valley and keep her coterie alive in dangerous territory. She knows Garou patrol patterns anecdotally, leaves coterie sigils on mile markers, and maintains alliances with other Kindred who understand that survival requires cooperation. Her Protean allows her to shapeshift and adapt to desert conditions, and her Animalism lets her communicate with the predators that call the wasteland home. In the neon-lit streets of 1994 Phoenix or the shadowed trails of the desert, Marisol 'Roadrunner' Vega is a reminder that sometimes the most valuable people are the ones who can read the land, and that in the world of the Gangrel, survival is the highest art.",
-    "biography": "",
-    "history": "Marisol 'Roadrunner' Vega's history is written in the trails and tracks of the Arizona desert. Before her Embrace, she worked as a long-haul trucker, spending years on the highways and byways around Phoenix, learning the land like scripture. Her Embrace came at a rest stop under circumstances that remain part of her private story, transforming her from a mortal driver into a Gangrel tracker with an intimate understanding of the desert's rhythms and dangers. Since her Embrace, she has dedicated her unlife to mapping the supernatural 'safe trails' around the Valley, learning Garou patrol patterns anecdotally and leaving coterie sigils on mile markers to guide other Kindred through dangerous territory. Her expertise in desert survival, tracking, and navigation has made her an invaluable resource for coteries who need to travel safely through Garou-controlled wasteland. She maintains alliances with other Kindred who understand that survival requires cooperation, and her work has saved numerous Kindred from both mortal and supernatural threats. Her former profession as a trucker gave her the foundation for her current role as the Valley's premier tracker and border warden, someone who knows every safe route and every danger zone in the desert around Phoenix.",
+    "biography": "Marisol 'Roadrunner' Vega's history is written in the trails and tracks of the Arizona desert. Before her Embrace, she worked as a long-haul trucker, spending years on the highways and byways around Phoenix, learning the land like scripture. Her Embrace came at a rest stop under circumstances that remain part of her private story, transforming her from a mortal driver into a Gangrel tracker with an intimate understanding of the desert's rhythms and dangers. Since her Embrace, she has dedicated her unlife to mapping the supernatural 'safe trails' around the Valley, learning Garou patrol patterns anecdotally and leaving coterie sigils on mile markers to guide other Kindred through dangerous territory. Her expertise in desert survival, tracking, and navigation has made her an invaluable resource for coteries who need to travel safely through Garou-controlled wasteland. She maintains alliances with other Kindred who understand that survival requires cooperation, and her work has saved numerous Kindred from both mortal and supernatural threats. Her former profession as a trucker gave her the foundation for her current role as the Valley's premier tracker and border warden, someone who knows every safe route and every danger zone in the desert around Phoenix.",
     "notes": "Knows Garou patrol patterns anecdotally; leaves coterie sigils on mile markers.",
     "equipment": "",
-    "character_image": "123_1762872252_22f90772.webp",
+    "character_image": "Marisol Vega.png",
     "status": {
-        "sect_status": "",
+        "sect_status": "Unknown",
         "clan_status": "",
         "city_status": "",
         "health_levels": 7,
@@ -32,9 +31,25 @@
     },
     "camarilla_status": "Unknown",
     "traits": {
-        "Physical": [],
-        "Social": [],
-        "Mental": []
+        "Physical": [
+            "Athletic",
+            "Fit",
+            "Quick",
+            "Tough",
+            "Resilient",
+            "Agile"
+        ],
+        "Social": [
+            "Independent",
+            "Resourceful",
+            "Observant"
+        ],
+        "Mental": [
+            "Alert",
+            "Perceptive",
+            "Intuitive",
+            "Cunning"
+        ]
     },
     "negativeTraits": {
         "Physical": [],
@@ -42,93 +57,142 @@
         "Mental": []
     },
     "abilities": [
-        {"name": "Survival", "category": "Physical", "level": 5},
-        {"name": "Drive", "category": "Physical", "level": 4},
-        {"name": "Firearms", "category": "Physical", "level": 4},
-        {"name": "Animal Ken", "category": "Social", "level": 4},
-        {"name": "Stealth", "category": "Physical", "level": 4},
-        {"name": "Investigation", "category": "Mental", "level": 3},
-        {"name": "Alertness", "category": "Optional", "level": 4},
-        {"name": "Athletics", "category": "Physical", "level": 3},
-        {"name": "Brawl", "category": "Physical", "level": 2},
-        {"name": "Melee", "category": "Physical", "level": 1},
-        {"name": "Awareness", "category": "Optional", "level": 3},
-        {"name": "Streetwise", "category": "Social", "level": 2}
+        {
+            "ability_name": "Investigation",
+            "ability_category": "Mental",
+            "level": 3,
+            "specialization": ""
+        },
+        {
+            "ability_name": "Alertness",
+            "ability_category": "Optional",
+            "level": 4,
+            "specialization": ""
+        },
+        {
+            "ability_name": "Awareness",
+            "ability_category": "Optional",
+            "level": 3,
+            "specialization": ""
+        },
+        {
+            "ability_name": "Athletics",
+            "ability_category": "Physical",
+            "level": 3,
+            "specialization": ""
+        },
+        {
+            "ability_name": "Brawl",
+            "ability_category": "Physical",
+            "level": 2,
+            "specialization": ""
+        },
+        {
+            "ability_name": "Drive",
+            "ability_category": "Physical",
+            "level": 4,
+            "specialization": ""
+        },
+        {
+            "ability_name": "Firearms",
+            "ability_category": "Physical",
+            "level": 4,
+            "specialization": ""
+        },
+        {
+            "ability_name": "Melee",
+            "ability_category": "Physical",
+            "level": 1,
+            "specialization": ""
+        },
+        {
+            "ability_name": "Stealth",
+            "ability_category": "Physical",
+            "level": 4,
+            "specialization": ""
+        },
+        {
+            "ability_name": "Survival",
+            "ability_category": "Physical",
+            "level": 5,
+            "specialization": ""
+        },
+        {
+            "ability_name": "Animal Ken",
+            "ability_category": "Social",
+            "level": 4,
+            "specialization": ""
+        },
+        {
+            "ability_name": "Streetwise",
+            "ability_category": "Social",
+            "level": 2,
+            "specialization": ""
+        }
     ],
-    "specializations": [
-        {"ability": "Survival", "specialization": "Desert tracking and navigation"},
-        {"ability": "Drive", "specialization": "Long-haul trucking"},
-        {"ability": "Firearms", "specialization": "Sawed-off shotgun"},
-        {"ability": "Animal Ken", "specialization": "Desert predators"},
-        {"ability": "Stealth", "specialization": "Avoiding Garou patrols"},
-        {"ability": "Investigation", "specialization": "Reading sign and terrain"},
-        {"ability": "Alertness", "specialization": "Spotting threats in desert"}
-    ],
+    "specializations": [],
     "disciplines": [
         {
-            "name": "Animalism",
+            "name": "animalism",
             "level": 2
         },
         {
-            "name": "Fortitude",
+            "name": "auspex",
+            "level": 1
+        },
+        {
+            "name": "celerity",
+            "level": 1
+        },
+        {
+            "name": "dominate",
+            "level": 1
+        },
+        {
+            "name": "fortitude",
             "level": 2
         },
         {
-            "name": "Protean",
+            "name": "obfuscate",
+            "level": 1
+        },
+        {
+            "name": "obtenebration",
+            "level": 1
+        },
+        {
+            "name": "potence",
+            "level": 1
+        },
+        {
+            "name": "presence",
+            "level": 1
+        },
+        {
+            "name": "protean",
             "level": 3
         },
         {
-            "name": "Auspex",
+            "name": "serpentis",
+            "level": 1
+        },
+        {
+            "name": "thaumaturgy",
             "level": 1
         }
     ],
     "backgrounds": {
+        "Allies": 2,
         "Contacts": 2,
-        "Resources": 1,
-        "Allies": 2
+        "Resources": 1
     },
-    "backgroundDetails": {
-        "Contacts": "Desert networks, trucker communities, and Kindred who provide information on Garou patrol patterns, safe routes, and supernatural threats in the Arizona wasteland.",
-        "Resources": "Modest resources sufficient to maintain her mobile lifestyle and tracking operations. Equipment for desert survival, navigation, and leaving coterie sigils on mile markers.",
-        "Allies": "Coterie members and other Kindred who rely on her tracking expertise. Maintains alliances with desert-dwelling Kindred who understand that survival requires cooperation in Garou-controlled territory."
-    },
-    "morality": {
-        "path_name": "Humanity",
-        "path_rating": 7,
-        "conscience": 3,
-        "self_control": 3,
-        "courage": 3,
-        "willpower_permanent": 5,
-        "willpower_current": 5,
-        "humanity": 7
-    },
-    "merits_flaws": [
-        {
-            "name": "Danger Sense",
-            "type": "Merit",
-            "category": "Supernatural",
-            "cost": 2,
-            "description": "Her years of desert survival and tracking have honed her ability to sense threats, particularly Garou patrols and supernatural dangers in the wasteland."
-        },
-        {
-            "name": "Efficient Digestion",
-            "type": "Merit",
-            "category": "Physical",
-            "cost": 3,
-            "description": "Her Gangrel nature and understanding of the desert allows her to extract maximum sustenance from prey, particularly desert animals and those who understand survival."
-        },
-        {
-            "name": "Loner",
-            "type": "Flaw",
-            "category": "Social",
-            "cost": 1,
-            "description": "Her independent nature and preference for desert solitude can make it difficult for her to work in groups or maintain long-term social connections."
-        }
-    ],
+    "backgroundDetails": [],
+    "morality": null,
+    "merits_flaws": [],
     "coteries": [],
     "relationships": [],
     "rituals": [],
     "custom_data": null,
     "created_at": "2025-11-11 09:40:32",
-    "updated_at": "2025-11-26 06:02:14"
+    "updated_at": "2026-01-26 05:56:43"
 }

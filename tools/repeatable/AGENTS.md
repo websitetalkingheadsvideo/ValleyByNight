@@ -7,6 +7,7 @@ This document provides a comprehensive guide to all reusable tools in `tools/rep
 - [PHP Tools](#php-tools)
   - [MCP Tools](#mcp-tools)
   - [Database Tools](#database-tools)
+  - [Character Data Tools](#character-data-tools)
   - [Data Tools](#data-tools)
 - [Python Tools](#python-tools)
   - [JSON Tools](#json-tools)
@@ -497,6 +498,101 @@ php tools/repeatable/check_ability_categories.php --character-id=188
 - `character_abilities` table with `ability_category` column
 
 **Use case:** Diagnose ability category issues before fixing them with `update_abilities_from_json.php`
+
+---
+
+### Character Data Tools
+
+Tools for managing character data quality, editing, and export.
+
+#### export_character.php
+
+**Location:** `tools/repeatable/character-data/export_character.php`
+
+**Purpose:** Exports any character from the database to JSON template format.
+
+**Usage:**
+```bash
+# Export by character ID
+php tools/repeatable/character-data/export_character.php 151
+
+# Export by character name (use quotes if name contains spaces)
+php tools/repeatable/character-data/export_character.php "Julien Roche"
+php tools/repeatable/character-data/export_character.php "Marisol \"Roadrunner\" Vega"
+```
+
+**What it does:**
+- Accepts character ID (numeric) or character name (string) as argument
+- Queries database for complete character data including:
+  - Basic info (name, clan, generation, etc.)
+  - Traits (Physical, Social, Mental - positive and negative)
+  - Abilities with categories and specializations
+  - Disciplines with levels
+  - Backgrounds with levels
+  - Morality/path information
+  - Merits & flaws
+  - Status information
+  - Coteries and relationships
+- Exports to JSON file in `reference/Characters/Added to Database/`
+- Filename format: `npc__<safe_name>__<id>.json`
+
+**Output:** JSON file in `reference/Characters/Added to Database/` directory
+
+**Dependencies:**
+- Database connection (via `includes/connect.php`)
+- `characters` table and related tables (character_traits, character_abilities, character_disciplines, character_backgrounds, character_morality, character_merits_flaws, character_status, character_coteries, character_relationships)
+
+**Use case:** Export individual characters from database to JSON for backup, migration, or external processing
+
+---
+
+#### quick-edit.php
+
+**Location:** `tools/repeatable/character-data/quick-edit.php`
+
+**Purpose:** Fast interface for editing common character fields and uploading images.
+
+**Usage:**
+- Access via browser: `tools/repeatable/character-data/quick-edit.php`
+- Search for characters with missing data: `tools/repeatable/character-data/quick-edit.php?search_missing=1`
+
+**What it does:**
+- Provides web interface for editing character fields (name, concept, nature, demeanor, biography, appearance)
+- Allows image upload for characters
+- Shows only missing fields by default
+- Displays character name in missing fields notification
+- Supports searching for characters with missing data
+
+**Dependencies:**
+- Database connection (via `includes/connect.php`)
+- Admin authentication required
+- `uploads/characters/` directory for image storage
+
+**Use case:** Quickly fill in missing character data fields and upload character images
+
+---
+
+#### index.php
+
+**Location:** `tools/repeatable/character-data/index.php`
+
+**Purpose:** Character data quality blocker identification and JSON file search.
+
+**Usage:**
+- Access via browser: `tools/repeatable/character-data/index.php`
+
+**What it does:**
+- Identifies missing/empty fields that prevent accurate character summaries
+- Searches JSON files in `reference/Characters/Added to Database/` for missing data
+- Updates database with data found in JSON files
+- Read-only tool for identification, separate update process for modifications
+
+**Dependencies:**
+- Database connection (via `includes/connect.php`)
+- Admin authentication required
+- JSON files in `reference/Characters/Added to Database/`
+
+**Use case:** Identify characters with missing data and find data in JSON files to backfill database
 
 ---
 
