@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.69
+## Current Version: 0.9.72
+
+**Date:** 2026-01-28  
+**Type:** Patch (Git sync: VbN character portrait generator skill, repeatable tools, image path fixes)
+
+## Previous Version: 0.9.69
 
 **Date:** 2026-01-25  
 **Type:** Patch (Updated pre-game primer header colors to muted gold)

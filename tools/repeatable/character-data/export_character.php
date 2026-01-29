@@ -1,19 +1,52 @@
 <?php
 /**
- * Export Julien Roche from database to JSON template format
+ * Export Character from Database to JSON Template Format
+ * 
+ * Exports any character from the database to JSON template format,
+ * saving to reference/Characters/Added to Database/
+ * 
+ * Usage:
+ *   php tools/repeatable/character-data/export_character.php <character_id>
+ *   php tools/repeatable/character-data/export_character.php <character_name>
+ * 
+ * Examples:
+ *   php tools/repeatable/character-data/export_character.php 151
+ *   php tools/repeatable/character-data/export_character.php "Julien Roche"
  */
 declare(strict_types=1);
 
-require_once __DIR__ . '/../../includes/connect.php';
+require_once __DIR__ . '/../../../includes/connect.php';
 
-$character_id = 151; // Julien Roche
-$character_name = 'Julien Roche';
+// Get character identifier from command line
+$character_identifier = $argv[1] ?? null;
 
-// Get main character data
-$char = db_fetch_one($conn, "SELECT * FROM characters WHERE id = ?", 'i', [$character_id]);
+if (!$character_identifier) {
+    die("Usage: php export_character.php <character_id|character_name>\n");
+}
+
+// Determine if identifier is numeric (ID) or string (name)
+$is_numeric = is_numeric($character_identifier);
+$character_id = null;
+$character_name = null;
+
+if ($is_numeric) {
+    // Look up by ID
+    $character_id = (int)$character_identifier;
+    $char = db_fetch_one($conn, "SELECT * FROM characters WHERE id = ?", 'i', [$character_id]);
+    if ($char) {
+        $character_name = $char['character_name'];
+    }
+} else {
+    // Look up by name - handle escaped quotes from command line
+    $character_name = stripslashes($character_identifier);
+    $char = db_fetch_one($conn, "SELECT * FROM characters WHERE character_name = ? LIMIT 1", 's', [$character_name]);
+    if ($char) {
+        $character_id = (int)$char['id'];
+    }
+}
 
 if (!$char) {
-    die("Character not found: {$character_name} (ID: {$character_id})\n");
+    die("Character not found: " . ($character_name ?? $character_identifier) . "\n");
 }
 
 // Get traits
@@ -186,14 +219,14 @@ $json_data = [
 ];
 
 // Generate filename
-$safe_name = strtolower(str_replace([' ', "'"], ['_', ''], $character_name));
+$safe_name = strtolower(str_replace([' ', "'", '"'], ['_', '', ''], $character_name));
 $filename = "npc__{$safe_name}__{$character_id}.json";
-$output_path = __DIR__ . '/../../reference/Characters/Added to Database/' . $filename;
+$output_path = __DIR__ . '/../../../reference/Characters/Added to Database/' . $filename;
 
 // Write JSON file
 $json_output = json_encode($json_data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);
 file_put_contents($output_path, $json_output);
 
-echo "Exported {$character_name} to: {$filename}\n";
+echo "Exported {$character_name} (ID: {$character_id}) to: {$filename}\n";
 echo "Path: {$output_path}\n";
 echo "Done!\n";
