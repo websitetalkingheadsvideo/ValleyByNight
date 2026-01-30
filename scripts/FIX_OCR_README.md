@@ -2,6 +2,8 @@
 
 This script fixes OCR spelling errors in markdown files while preserving game terminology.
 
+**Location:** `tools/repeatable/python/text-cleanup-tools/fix_ocr_spelling.py` (run from repo root).
+
 ## Features
 
 1. **Pattern-based OCR fixes** (most reliable)
@@ -18,16 +20,16 @@ This script fixes OCR spelling errors in markdown files while preserving game te
 
 ```bash
 # Preview changes (dry run)
-python scripts/fix_ocr_spelling.py reference/Books_md_ready_fixed_cleaned/LotNR.md --dry-run
+python tools/repeatable/python/text-cleanup-tools/fix_ocr_spelling.py reference/Books_md_ready_fixed_cleaned/LotNR.md --dry-run
 
 # Apply corrections
-python scripts/fix_ocr_spelling.py reference/Books_md_ready_fixed_cleaned/LotNR.md
+python tools/repeatable/python/text-cleanup-tools/fix_ocr_spelling.py reference/Books_md_ready_fixed_cleaned/LotNR.md
 
 # Process entire directory
-python scripts/fix_ocr_spelling.py reference/Books_md_ready_fixed_cleaned/ --dry-run
+python tools/repeatable/python/text-cleanup-tools/fix_ocr_spelling.py reference/Books_md_ready_fixed_cleaned/ --dry-run
 
 # Interactive mode (ask before applying)
-python scripts/fix_ocr_spelling.py reference/Books_md_ready_fixed_cleaned/LotNR.md --interactive
+python tools/repeatable/python/text-cleanup-tools/fix_ocr_spelling.py reference/Books_md_ready_fixed_cleaned/LotNR.md --interactive
 ```
 
 ## Pattern-based Fixes

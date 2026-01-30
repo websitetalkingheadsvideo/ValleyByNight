@@ -97,6 +97,8 @@ OCR_REPLACEMENTS = [
     (r'\bthe\s+at\s+resetting\b', 'theatre setting'),  # "the at resetting" -> "theatre setting"
     
     # Specific OCR errors found in text
+    (r'\bBureau\s+Cra\s+Cy\b', 'Bureaucracy'),
+    (r'\bwork\s+ers\b', 'workers'),
     (r'\baBBat\b', 'Sabbat'),
     (r'\ba\s+BBat\b', 'the Sabbat'),
     (r'\btook\s+threw\b', 'took their'),
