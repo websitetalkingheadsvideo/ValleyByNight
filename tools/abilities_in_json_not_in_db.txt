@@ -1,0 +1,221 @@
+Abilities in reference/Books/abilities.json that are NOT in the database (224 general, 84 esoteric excluded):
+
+  Accounting
+  Acting
+  Alchemy
+  Animal Empathy
+  Animal Lore
+  Animal Speech
+  Animal Training
+  Anthropology
+  Archaeology
+  Architecture
+  Area Knowledge
+  Art History
+  Artillerist
+  Artillery
+  Artist
+  Artistic Expression
+  Astrology
+  Astronomy
+  Barter
+  Biology
+  Biotech
+  Blacksmith
+  Blowgun
+  Boat Handling
+  Boating
+  Body Alteration
+  Body Control
+  Body Reading
+  Brewing
+  Bribery
+  Bujo
+  Camouflage
+  Carousing
+  Carpentry
+  Chemistry
+  Chivalry
+  Classics
+  Climbing
+  Computer Hacking
+  Conspiracy Theory
+  Construct Politics
+  Construction
+  Cooking
+  Cosmology
+  Covert Culture
+  Criminology
+  Cryptography
+  Dancing
+  Dead Languages
+  Debate
+  Demonology
+  Diplomacy
+  Diversion
+  Divination
+  Diving
+  Do
+  Drinking
+  Economics
+  Electronics
+  Elusion
+  Endurance
+  Energy Weapons
+  Engineering
+  Escape Artistry
+  Escapology
+  Expert Knowledge
+  Falconry
+  Fast-Draw
+  Fast-Talk
+  Fencing
+  Feng Shui
+  Finance
+  Fire Dancing
+  Fire Eating
+  Fire Walking
+  First Aid
+  Flying
+  Foraging
+  Forensics
+  Forgery
+  Fortune-Telling
+  Franchise
+  Gambling
+  Game Playing
+  Garrotte
+  Geography
+  Geology
+  Grace
+  Gunsmithing
+  Haggling
+  Healing
+  Hearth Wisdom
+  Heavy Weapons
+  Helmsman
+  Heraldry
+  Herbalism
+  Heresy
+  Hiding
+  History
+  Hobby Talent
+  Hunting
+  Hypertech
+  Hypnosis
+  Indoctrination
+  Instruction
+  Interrogation
+  Intrigue
+  Intuition
+  Invention
+  Jetpack
+  Jeweler
+  Journalism
+  Larceny
+  Law
+  Law Enforcement
+  Leatherworking
+  Lip Reading
+  Literature
+  Locale
+  Lock Picking
+  Logic
+  Lucid Dreaming
+  Martial Arts
+  Martial Arts Weapons
+  Mathematics
+  Mechanic
+  Media
+  Metallurgy
+  Meteorology
+  Microgravity Operations
+  Might
+  Military Science
+  Mimicry
+  Mining
+  Misdirection
+  Moneylending
+  Music
+  Musician
+  Mythology
+  Naturalist
+  Naval Artillery
+  Navigation
+  Negotiation
+  Networking
+  Occult Sciences
+  Organization Knowledge
+  Orienteering
+  Paleography
+  Panhandling
+  Parachuting
+  Parapsychology
+  Persuasion
+  Pharmacopoeia
+  Photography
+  Physics
+  Pickpocket
+  Pilot
+  Plague-Breeding
+  Poetic Expression
+  Poisons
+  Police Procedure
+  Pottery
+  Power-Brokering
+  Professional Skill
+  Propaganda
+  Psychoanalysis
+  Psychology
+  Public Speaking
+  RD Data
+  Research
+  Riding
+  Sagaman
+  Scan
+  Science Specialties
+  Scribing
+  Scrounging
+  Scuba
+  Seamanship
+  Search
+  Secret Code Language
+  Seduction
+  Seneschal
+  Sense Deception
+  Sewer Lore
+  Shield Parry
+  Shipwright
+  Sign Language
+  Singing
+  Skiing
+  Slang
+  Sleight of Hand
+  Snake Charming
+  Speed Reading
+  Spiritual Alertness
+  Stargazing
+  Steward
+  Storytelling
+  Strategy
+  Style
+  Subculture
+  Swimming
+  Symbolism
+  Tactics
+  Taxidermy
+  Technology
+  Terrorism
+  Thanatology
+  Theology
+  Tightrope Walking
+  Toxicology
+  Tracking
+  Traps
+  Trick
+  Urbanism
+  Ventriloquism
+  Vice
+  Web Culture
+  Wood Craft
+  Writing

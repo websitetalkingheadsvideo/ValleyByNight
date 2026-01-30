@@ -1,0 +1,7501 @@
+{
+  "Talents": [
+    {
+      "ability": "Acting",
+      "sources": [
+        {
+          "book": "Changeling Players Guide",
+          "page": 34
+        },
+        {
+          "book": "Guide to the Technocracy",
+          "page": 145
+        },
+        {
+          "book": "Vampire: The Dark Ages",
+          "page": 120
+        },
+        {
+          "book": "Vampire: The Masquerade",
+          "page": 83
+        },
+        {
+          "book": "Vampire: The Masquerade, 2nd Ed.",
+          "page": 148
+        }
+      ]
+    },
+    {
+      "ability": "Alertness",
+      "sources": [
+        {
+          "book": "Changeling: The Dreaming",
+          "page": 166
+        },
+        {
+          "book": "Changeling: The Dreaming, 2nd Ed.",
+          "page": 139
+        },
+        {
+          "book": "Hunter: The Reckoning",
+          "page": 105
+        },
+        {
+          "book": "Mage: The Ascension",
+          "page": 146
+        },
+        {
+          "book": "Mage: The Ascension, 2nd Ed.",
+          "page": 122
+        },
+        {
+          "book": "Mage: The Ascension, Revised Ed.",
+          "page": 106
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 85
+        },
+        {
+          "book": "Vampire: The Dark Ages",
+          "page": 120
+        },
+        {
+          "book": "Vampire: The Masquerade",
+          "page": 84
+        },
+        {
+          "book": "Vampire: The Masquerade, 2nd Ed.",
+          "page": 148
+        },
+        {
+          "book": "Vampire: The Masquerade, Revised Ed.",
+          "page": 120
+        },
+        {
+          "book": "Werewolf: The Apocalypse",
+          "page": 123
+        },
+        {
+          "book": "Werewolf: The Apocalypse, 2nd Ed.",
+          "page": 105
+        },
+        {
+          "book": "Werewolf: The Apocalypse, Revised Ed.",
+          "page": 111
+        },
+        {
+          "book": "Werewolf: The Wild West",
+          "page": 129
+        },
+        {
+          "book": "Wraith: The Great War",
+          "page": 107
+        },
+        {
+          "book": "Wraith: The Oblivion",
+          "page": 123
+        },
+        {
+          "book": "Wraith: The Oblivion, 2nd Ed.",
+          "page": 119
+        }
+      ]
+    },
+    {
+      "ability": "Animal Empathy",
+      "sources": [
+        {
+          "book": "World of Darkness: Mummy",
+          "page": 17
+        },
+        {
+          "book": "World of Darkness: Mummy, 2nd Ed.",
+          "page": 60
+        }
+      ]
+    },
+    {
+      "ability": "Artist",
+      "sources": [
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 86
+        }
+      ]
+    },
+    {
+      "ability": "Artistic Expression",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 14
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 34
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 50
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 38
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 39
+        }
+      ]
+    },
+    {
+      "ability": "Assbeating",
+      "sources": [
+        {
+          "book": "Subsidiaries: A Guide to Pentex",
+          "page": 124
+        },
+        {
+          "book": "Assimilation Liege, Lord, and Lackey",
+          "page": 65
+        }
+      ]
+    },
+    {
+      "ability": "Athletics",
+      "sources": [
+        {
+          "book": "Changeling: The Dreaming",
+          "page": 166
+        },
+        {
+          "book": "Changeling: The Dreaming, 2nd Ed.",
+          "page": 139
+        },
+        {
+          "book": "Hunter: The Reckoning",
+          "page": 105
+        },
+        {
+          "book": "Mage: The Ascension",
+          "page": 146
+        },
+        {
+          "book": "Mage: The Ascension, 2nd Ed.",
+          "page": 122
+        },
+        {
+          "book": "Mage: The Ascension, Revised Ed.",
+          "page": 106
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 86
+        },
+        {
+          "book": "Vampire: The Dark Ages",
+          "page": 120
+        },
+        {
+          "book": "Vampire: The Masquerade",
+          "page": 84
+        },
+        {
+          "book": "Vampire: The Masquerade, 2nd Ed.",
+          "page": 148
+        },
+        {
+          "book": "Vampire: The Masquerade, Revised Ed.",
+          "page": 120
+        },
+        {
+          "book": "Werewolf: The Apocalypse",
+          "page": 123
+        },
+        {
+          "book": "Werewolf: The Apocalypse, 2nd Ed.",
+          "page": 105
+        },
+        {
+          "book": "Werewolf: The Apocalypse, Revised Ed.",
+          "page": 111
+        },
+        {
+          "book": "Werewolf: The Wild West",
+          "page": 129
+        },
+        {
+          "book": "Wraith: The Great War",
+          "page": 107
+        },
+        {
+          "book": "Wraith: The Oblivion",
+          "page": 124
+        },
+        {
+          "book": "Wraith: The Oblivion, 2nd Ed.",
+          "page": 119
+        },
+        {
+          "book": "Awareness Bastet",
+          "page": 81
+        },
+        {
+          "book": "Hunter: The Reckoning",
+          "page": 106
+        },
+        {
+          "book": "Libellus Sanguinis 4: Thieves in the Night",
+          "page": 112
+        },
+        {
+          "book": "Mage: The Ascension",
+          "page": 146
+        },
+        {
+          "book": "Mage: The Ascension, 2nd Ed.",
+          "page": 123
+        },
+        {
+          "book": "Mage: The Ascension, Revised Ed.",
+          "page": 106
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 86
+        },
+        {
+          "book": "Mummy: The Resurrection",
+          "page": 60
+        },
+        {
+          "book": "World of Darkness: Bygone Bestiary",
+          "page": 102
+        },
+        {
+          "book": "World of Darkness: Mummy, 2nd Ed.",
+          "page": 57
+        },
+        {
+          "book": "Wraith: The Great War",
+          "page": 107
+        },
+        {
+          "book": "Wraith: The Oblivion",
+          "page": 124
+        },
+        {
+          "book": "Wraith: The Oblivion, 2nd Ed.",
+          "page": 119
+        }
+      ]
+    },
+    {
+      "ability": "Babel",
+      "sources": [
+        {
+          "book": "Libellus Sanguinis 4: Thieves in the Night",
+          "page": 112
+        }
+      ]
+    },
+    {
+      "ability": "Barter",
+      "sources": [
+        {
+          "book": "Croatan Song",
+          "page": 111
+        },
+        {
+          "book": "Biorhythms Gurahl",
+          "page": 86
+        }
+      ]
+    },
+    {
+      "ability": "Blatancy",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 14
+        }
+      ]
+    },
+    {
+      "ability": "Brawl",
+      "sources": [
+        {
+          "book": "Changeling: The Dreaming",
+          "page": 166
+        },
+        {
+          "book": "Changeling: The Dreaming, 2nd Ed.",
+          "page": 139
+        },
+        {
+          "book": "Hunter: The Reckoning",
+          "page": 107
+        },
+        {
+          "book": "Mage: The Ascension",
+          "page": 146
+        },
+        {
+          "book": "Mage: The Ascension, 2nd Ed.",
+          "page": 123
+        },
+        {
+          "book": "Mage: The Ascension, Revised Ed.",
+          "page": 107
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 87
+        },
+        {
+          "book": "Vampire: The Dark Ages",
+          "page": 120
+        },
+        {
+          "book": "Vampire: The Masquerade",
+          "page": 84
+        },
+        {
+          "book": "Vampire: The Masquerade, 2nd Ed.",
+          "page": 148
+        },
+        {
+          "book": "Vampire: The Masquerade, Revised Ed.",
+          "page": 120
+        },
+        {
+          "book": "Werewolf: The Apocalypse",
+          "page": 124
+        },
+        {
+          "book": "Werewolf: The Apocalypse, 2nd Ed.",
+          "page": 105
+        },
+        {
+          "book": "Werewolf: The Apocalypse, Revised Ed.",
+          "page": 111
+        },
+        {
+          "book": "Werewolf: The Wild West",
+          "page": 129
+        },
+        {
+          "book": "Wraith: The Great War",
+          "page": 107
+        },
+        {
+          "book": "Wraith: The Oblivion",
+          "page": 124
+        },
+        {
+          "book": "Wraith: The Oblivion, 2nd Ed.",
+          "page": 120
+        }
+      ]
+    },
+    {
+      "ability": "Carousing",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 14
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 35
+        },
+        {
+          "book": "Crusade Lore",
+          "page": 34
+        },
+        {
+          "book": "Mummy: The Resurrection",
+          "page": 60
+        },
+        {
+          "book": "Sorcerers Crusade Companion",
+          "page": 114
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 38
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 39
+        }
+      ]
+    },
+    {
+      "ability": "Clan Impersonation",
+      "sources": [
+        {
+          "book": "Clanbook: Assamite",
+          "page": 30
+        }
+      ]
+    },
+    {
+      "ability": "Dancing",
+      "sources": [
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 94
+        }
+      ]
+    },
+    {
+      "ability": "Diplomacy",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 15
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 35
+        },
+        {
+          "book": "Guide to the Camarilla",
+          "page": 67
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 50
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 39
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 40
+        }
+      ]
+    },
+    {
+      "ability": "Divination",
+      "sources": [
+        {
+          "book": "World of Darkness: Mummy, 2nd Ed.",
+          "page": 60
+        }
+      ]
+    },
+    {
+      "ability": "Diving",
+      "sources": [
+        {
+          "book": "Sorcerers Crusade Companion",
+          "page": 114
+        }
+      ]
+    },
+    {
+      "ability": "Do",
+      "sources": [
+        {
+          "book": "Tradition Book: Akashic Brotherhood, Revised Ed.",
+          "page": 58
+        }
+      ]
+    },
+    {
+      "ability": "Dodge",
+      "sources": [
+        {
+          "book": "Changeling: The Dreaming",
+          "page": 166
+        },
+        {
+          "book": "Changeling: The Dreaming, 2nd Ed.",
+          "page": 139
+        },
+        {
+          "book": "Hunter: The Reckoning",
+          "page": 107
+        },
+        {
+          "book": "Mage: The Ascension",
+          "page": 147
+        },
+        {
+          "book": "Mage: The Ascension, 2nd Ed.",
+          "page": 123
+        },
+        {
+          "book": "Mage: The Ascension, Revised Ed.",
+          "page": 108
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 87
+        },
+        {
+          "book": "Vampire: The Dark Ages",
+          "page": 120
+        },
+        {
+          "book": "Vampire: The Masquerade",
+          "page": 84
+        },
+        {
+          "book": "Vampire: The Masquerade, 2nd Ed.",
+          "page": 149
+        },
+        {
+          "book": "Vampire: The Masquerade, Revised Ed.",
+          "page": 120
+        },
+        {
+          "book": "Werewolf: The Apocalypse",
+          "page": 124
+        },
+        {
+          "book": "Werewolf: The Apocalypse, 2nd Ed.",
+          "page": 105
+        },
+        {
+          "book": "Werewolf: The Apocalypse, Revised Ed.",
+          "page": 111
+        },
+        {
+          "book": "Werewolf: The Wild West",
+          "page": 129
+        },
+        {
+          "book": "Wraith: The Great War",
+          "page": 107
+        },
+        {
+          "book": "Wraith: The Oblivion",
+          "page": 124
+        },
+        {
+          "book": "Wraith: The Oblivion, 2nd Ed.",
+          "page": 120
+        }
+      ]
+    },
+    {
+      "ability": "Dreamcraft",
+      "sources": [
+        {
+          "book": "World of Darkness: Sorcerer",
+          "page": 58
+        }
+      ]
+    },
+    {
+      "ability": "Dreaming",
+      "sources": [
+        {
+          "book": "Players Guide to the Sabbat",
+          "page": 101
+        }
+      ]
+    },
+    {
+      "ability": "Elusion",
+      "sources": [
+        {
+          "book": "Sorcerers Crusade Companion",
+          "page": 115
+        }
+      ]
+    },
+    {
+      "ability": "Empathy",
+      "sources": [
+        {
+          "book": "Changeling: The Dreaming",
+          "page": 167
+        },
+        {
+          "book": "Changeling: The Dreaming, 2nd Ed.",
+          "page": 139
+        },
+        {
+          "book": "Crusade Lore",
+          "page": 34
+        },
+        {
+          "book": "Guide to the Traditions",
+          "page": 211
+        },
+        {
+          "book": "Hunter: The Reckoning",
+          "page": 107
+        },
+        {
+          "book": "Sorcerers Crusade Companion",
+          "page": 115
+        },
+        {
+          "book": "Vampire: The Dark Ages",
+          "page": 121
+        },
+        {
+          "book": "Vampire: The Masquerade",
+          "page": 85
+        },
+        {
+          "book": "Vampire: The Masquerade, 2nd Ed.",
+          "page": 149
+        },
+        {
+          "book": "Vampire: The Masquerade, Revised Ed.",
+          "page": 121
+        },
+        {
+          "book": "Werewolf: The Apocalypse",
+          "page": 124
+        },
+        {
+          "book": "Werewolf: The Apocalypse, 2nd Ed.",
+          "page": 105
+        },
+        {
+          "book": "Werewolf: The Apocalypse, Revised Ed.",
+          "page": 111
+        },
+        {
+          "book": "Werewolf: The Wild West",
+          "page": 129
+        },
+        {
+          "book": "World of Darkness: Bygone Bestiary",
+          "page": 102
+        },
+        {
+          "book": "World of Darkness: Mummy, 2nd Ed.",
+          "page": 57
+        },
+        {
+          "book": "Wraith: The Great War",
+          "page": 107
+        },
+        {
+          "book": "Wraith: The Oblivion",
+          "page": 124
+        },
+        {
+          "book": "Wraith: The Oblivion, 2nd Ed.",
+          "page": 120
+        }
+      ]
+    },
+    {
+      "ability": "Endurance",
+      "sources": [
+        {
+          "book": "Hunter Book: Defender",
+          "page": 67
+        }
+      ]
+    },
+    {
+      "ability": "Expression",
+      "sources": [
+        {
+          "book": "Changeling: The Dreaming",
+          "page": 167
+        },
+        {
+          "book": "Hunter: The Reckoning",
+          "page": 107
+        },
+        {
+          "book": "Mage: The Ascension",
+          "page": 147
+        },
+        {
+          "book": "Mage: The Ascension, 2nd Ed.",
+          "page": 123
+        },
+        {
+          "book": "Mage: The Ascension, Revised Ed.",
+          "page": 108
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 87
+        },
+        {
+          "book": "Vampire: The Masquerade, Revised Ed.",
+          "page": 121
+        },
+        {
+          "book": "Veil of Night",
+          "page": 156
+        },
+        {
+          "book": "Werewolf: The Apocalypse",
+          "page": 125
+        },
+        {
+          "book": "Werewolf: The Apocalypse, 2nd Ed.",
+          "page": 106
+        },
+        {
+          "book": "Werewolf: The Apocalypse, Revised Ed.",
+          "page": 112
+        },
+        {
+          "book": "Werewolf: The Wild West",
+          "page": 130
+        },
+        {
+          "book": "World of Darkness: Mummy, 2nd Ed.",
+          "page": 58
+        },
+        {
+          "book": "Wraith: The Great War",
+          "page": 107
+        },
+        {
+          "book": "Wraith: The Oblivion",
+          "page": 125
+        },
+        {
+          "book": "Wraith: The Oblivion, 2nd Ed.",
+          "page": 120
+        }
+      ]
+    },
+    {
+      "ability": "Fast Draw",
+      "sources": [
+        {
+          "book": "Hunter Book: Avenger",
+          "page": 65
+        },
+        {
+          "book": "Flight Corax",
+          "page": 68
+        }
+      ]
+    },
+    {
+      "ability": "Flying",
+      "sources": [
+        {
+          "book": "World of Darkness: Bygone Bestiary",
+          "page": 102
+        }
+      ]
+    },
+    {
+      "ability": "Fortune Telling",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 15
+        },
+        {
+          "book": "Players Guide to the Sabbat",
+          "page": 102
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 39
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 40
+        }
+      ]
+    },
+    {
+      "ability": "Fortune-Telling",
+      "sources": [
+        {
+          "book": "Changeling Players Guide",
+          "page": 36
+        },
+        {
+          "book": "Dark Kingdom of Jade",
+          "page": 116
+        },
+        {
+          "book": "Guide to the Sabbat",
+          "page": 88
+        },
+        {
+          "book": "World of Darkness: Sorcerer",
+          "page": 58
+        }
+      ]
+    },
+    {
+      "ability": "Franchise",
+      "sources": [
+        {
+          "book": "Ashen Knight, The",
+          "page": 100
+        }
+      ]
+    },
+    {
+      "ability": "Grace",
+      "sources": [
+        {
+          "book": "Vampire Storytellers Companion",
+          "page": 15
+        }
+      ]
+    },
+    {
+      "ability": "Haggling",
+      "sources": [
+        {
+          "book": "Guide to the Camarilla",
+          "page": 67
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 39
+        }
+      ]
+    },
+    {
+      "ability": "Helldiving",
+      "sources": [
+        {
+          "book": "Doomslayers: Into the Labyrinth",
+          "page": 52
+        }
+      ]
+    },
+    {
+      "ability": "Hobby Talent",
+      "sources": [
+        {
+          "book": "Vampire Storytellers Companion",
+          "page": 22
+        },
+        {
+          "book": "Homiletics Inquisition",
+          "page": 54
+        }
+      ]
+    },
+    {
+      "ability": "Instruction",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 15
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 36
+        },
+        {
+          "book": "Mage: The Ascension, 2nd Ed.",
+          "page": 123
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 87
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 53
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 39
+        },
+        {
+          "book": "Vampire Storytellers Companion",
+          "page": 16
+        },
+        {
+          "book": "Werewolf Players Guide",
+          "page": 31
+        },
+        {
+          "book": "Werewolf Players Guide, 2nd Ed.",
+          "page": 28
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 41
+        }
+      ]
+    },
+    {
+      "ability": "Interrogation",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 16
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 36
+        },
+        {
+          "book": "Shadow Lords Tribebook",
+          "page": 50
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 40
+        },
+        {
+          "book": "Vampire Storytellers Companion",
+          "page": 17
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 41
+        }
+      ]
+    },
+    {
+      "ability": "Intimidation",
+      "sources": [
+        {
+          "book": "Changeling: The Dreaming",
+          "page": 168
+        },
+        {
+          "book": "Changeling: The Dreaming, 2nd Ed.",
+          "page": 139
+        },
+        {
+          "book": "Hunter: The Reckoning",
+          "page": 108
+        },
+        {
+          "book": "Mage: The Ascension",
+          "page": 148
+        },
+        {
+          "book": "Mage: The Ascension, 2nd Ed.",
+          "page": 124
+        },
+        {
+          "book": "Mage: The Ascension, Revised Ed.",
+          "page": 108
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 88
+        },
+        {
+          "book": "Vampire: The Dark Ages",
+          "page": 121
+        },
+        {
+          "book": "Vampire: The Masquerade",
+          "page": 85
+        },
+        {
+          "book": "Vampire: The Masquerade, 2nd Ed.",
+          "page": 149
+        },
+        {
+          "book": "Vampire: The Masquerade, Revised Ed.",
+          "page": 122
+        },
+        {
+          "book": "Werewolf: The Apocalypse",
+          "page": 125
+        },
+        {
+          "book": "Werewolf: The Apocalypse, 2nd Ed.",
+          "page": 106
+        },
+        {
+          "book": "Werewolf: The Apocalypse, Revised Ed.",
+          "page": 112
+        },
+        {
+          "book": "Werewolf: The Wild West",
+          "page": 130
+        },
+        {
+          "book": "Wraith: The Great War",
+          "page": 107
+        },
+        {
+          "book": "Wraith: The Oblivion",
+          "page": 125
+        },
+        {
+          "book": "Wraith: The Oblivion, 2nd Ed.",
+          "page": 120
+        }
+      ]
+    },
+    {
+      "ability": "Intrigue",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 16
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 37
+        },
+        {
+          "book": "Guide to the Camarilla",
+          "page": 68
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 94
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 50
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 40
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 41
+        }
+      ]
+    },
+    {
+      "ability": "Intuition",
+      "sources": [
+        {
+          "book": "Hunter: The Reckoning",
+          "page": 108
+        },
+        {
+          "book": "Kinfolk: Unsung Heroes",
+          "page": 48
+        },
+        {
+          "book": "Land of Eight Million Dreams",
+          "page": 88
+        },
+        {
+          "book": "Mage: The Ascension",
+          "page": 147
+        },
+        {
+          "book": "Mage: The Ascension, 2nd Ed.",
+          "page": 124
+        },
+        {
+          "book": "Vampire Storytellers Companion",
+          "page": 17
+        },
+        {
+          "book": "World of Darkness: Sorcerer",
+          "page": 59
+        }
+      ]
+    },
+    {
+      "ability": "Invention",
+      "sources": [
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 94
+        }
+      ]
+    },
+    {
+      "ability": "Kenning",
+      "sources": [
+        {
+          "book": "Changeling: The Dreaming",
+          "page": 168
+        },
+        {
+          "book": "Changeling: The Dreaming, 2nd Ed.",
+          "page": 140
+        }
+      ]
+    },
+    {
+      "ability": "Kuei Lung Ch'uan",
+      "sources": [
+        {
+          "book": "Book of Crafts, The",
+          "page": 136
+        }
+      ]
+    },
+    {
+      "ability": "Larceny",
+      "sources": [
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 88
+        },
+        {
+          "book": "Vampire: The Dark Ages",
+          "page": 121
+        },
+        {
+          "book": "Werewolf: The Dark Ages",
+          "page": 96
+        },
+        {
+          "book": "Werewolf: The Wild West",
+          "page": 130
+        }
+      ]
+    },
+    {
+      "ability": "Leadership",
+      "sources": [
+        {
+          "book": "Hunter: The Reckoning",
+          "page": 108
+        },
+        {
+          "book": "Mage: The Ascension, Revised Ed.",
+          "page": 108
+        },
+        {
+          "book": "Vampire: The Dark Ages",
+          "page": 121
+        },
+        {
+          "book": "Vampire: The Masquerade",
+          "page": 85
+        },
+        {
+          "book": "Vampire: The Masquerade, 2nd Ed.",
+          "page": 150
+        },
+        {
+          "book": "Vampire: The Masquerade, Revised Ed.",
+          "page": 122
+        }
+      ]
+    },
+    {
+      "ability": "Logic",
+      "sources": [
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 94
+        }
+      ]
+    },
+    {
+      "ability": "Lucid Dreaming",
+      "sources": [
+        {
+          "book": "Halls of the Arcanum",
+          "page": 55
+        },
+        {
+          "book": "Sorcerer, Revised Ed.",
+          "page": 50
+        }
+      ]
+    },
+    {
+      "ability": "Malkavian Time",
+      "sources": [
+        {
+          "book": "Clanbook: Malkavian, Revised Ed.",
+          "page": 59
+        }
+      ]
+    },
+    {
+      "ability": "Masquerade",
+      "sources": [
+        {
+          "book": "Ghouls: Fatal Addiction",
+          "page": 82
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 40
+        },
+        {
+          "book": "Vampire Storytellers Companion",
+          "page": 18
+        }
+      ]
+    },
+    {
+      "ability": "Might",
+      "sources": [
+        {
+          "book": "Hunter Book: Avenger",
+          "page": 64
+        }
+      ]
+    },
+    {
+      "ability": "Mimicry",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 16
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 37
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 51
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 40
+        },
+        {
+          "book": "Vampire Storytellers Companion",
+          "page": 19
+        },
+        {
+          "book": "Werewolf Players Guide",
+          "page": 32
+        },
+        {
+          "book": "Werewolf Players Guide, 2nd Ed.",
+          "page": 28
+        }
+      ]
+    },
+    {
+      "ability": "Musician",
+      "sources": [
+        {
+          "book": "Sorcerers Crusade Companion",
+          "page": 115
+        }
+      ]
+    },
+    {
+      "ability": "Negotiation",
+      "sources": [
+        {
+          "book": "Guide to the Technocracy",
+          "page": 145
+        }
+      ]
+    },
+    {
+      "ability": "Newspeak",
+      "sources": [
+        {
+          "book": "Guide to the Technocracy",
+          "page": 145
+        }
+      ]
+    },
+    {
+      "ability": "Normalcy",
+      "sources": [
+        {
+          "book": "Mediums: Speakers with the Dead",
+          "page": 23
+        }
+      ]
+    },
+    {
+      "ability": "Panhandling",
+      "sources": [
+        {
+          "book": "Guide to the Sabbat",
+          "page": 88
+        },
+        {
+          "book": "Players Guide to the Sabbat",
+          "page": 102
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 41
+        }
+      ]
+    },
+    {
+      "ability": "Persuasion",
+      "sources": [
+        {
+          "book": "Changeling: The Dreaming, 2nd Ed.",
+          "page": 140
+        }
+      ]
+    },
+    {
+      "ability": "Poetic Expression",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 51
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 41
+        }
+      ]
+    },
+    {
+      "ability": "Primal-Urge",
+      "sources": [
+        {
+          "book": "Werewolf: The Apocalypse",
+          "page": 126
+        },
+        {
+          "book": "Werewolf: The Apocalypse, 2nd Ed.",
+          "page": 106
+        },
+        {
+          "book": "Werewolf: The Apocalypse, Revised Ed.",
+          "page": 113
+        },
+        {
+          "book": "Werewolf: The Wild West",
+          "page": 130
+        }
+      ]
+    },
+    {
+      "ability": "Public Speaking",
+      "sources": [
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 42
+        }
+      ]
+    },
+    {
+      "ability": "Scan",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 16
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 38
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 52
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 42
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 42
+        }
+      ]
+    },
+    {
+      "ability": "Scrounge",
+      "sources": [
+        {
+          "book": "Changeling Players Guide",
+          "page": 38
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 42
+        }
+      ]
+    },
+    {
+      "ability": "Scrounging",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 16
+        },
+        {
+          "book": "Guide to the Camarilla",
+          "page": 68
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 52
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 42
+        }
+      ]
+    },
+    {
+      "ability": "Search",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 17
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 38
+        },
+        {
+          "book": "Guide to the Camarilla",
+          "page": 68
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 51
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 42
+        },
+        {
+          "book": "Werewolf Players Guide, 2nd Ed.",
+          "page": 29
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 42
+        }
+      ]
+    },
+    {
+      "ability": "Seduction",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 17
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 38
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 95
+        },
+        {
+          "book": "Mummy: The Resurrection",
+          "page": 60
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 51
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 43
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 42
+        }
+      ]
+    },
+    {
+      "ability": "Sense Deception",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 17
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 38
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 52
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 43
+        }
+      ]
+    },
+    {
+      "ability": "Shentao (Kenning)",
+      "sources": [
+        {
+          "book": "Land of Eight Million Dreams",
+          "page": 88
+        }
+      ]
+    },
+    {
+      "ability": "Singing",
+      "sources": [
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 95
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 53
+        }
+      ]
+    },
+    {
+      "ability": "Spiritual Alertness",
+      "sources": [
+        {
+          "book": "Quick & the Dead",
+          "page": 49
+        }
+      ]
+    },
+    {
+      "ability": "Streetwise",
+      "sources": [
+        {
+          "book": "Changeling: The Dreaming",
+          "page": 169
+        },
+        {
+          "book": "Changeling: The Dreaming, 2nd Ed.",
+          "page": 140
+        },
+        {
+          "book": "Hunter: The Reckoning",
+          "page": 109
+        },
+        {
+          "book": "Mage: The Ascension",
+          "page": 148
+        },
+        {
+          "book": "Mage: The Ascension, 2nd Ed.",
+          "page": 124
+        },
+        {
+          "book": "Mage: The Ascension, Revised Ed.",
+          "page": 109
+        },
+        {
+          "book": "Vampire: The Masquerade",
+          "page": 85
+        },
+        {
+          "book": "Vampire: The Masquerade, 2nd Ed.",
+          "page": 150
+        },
+        {
+          "book": "Vampire: The Masquerade, Revised Ed.",
+          "page": 122
+        },
+        {
+          "book": "Werewolf: The Apocalypse",
+          "page": 125
+        },
+        {
+          "book": "Werewolf: The Apocalypse, 2nd Ed.",
+          "page": 106
+        },
+        {
+          "book": "Werewolf: The Apocalypse, Revised Ed.",
+          "page": 113
+        },
+        {
+          "book": "Wraith: The Oblivion",
+          "page": 125
+        },
+        {
+          "book": "Wraith: The Oblivion, 2nd Ed.",
+          "page": 121
+        },
+        {
+          "book": "Style Bastet",
+          "page": 81
+        },
+        {
+          "book": "Book of Shadows, The",
+          "page": 18
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 39
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 43
+        },
+        {
+          "book": "Vampire Storytellers Companion",
+          "page": 20
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 42
+        }
+      ]
+    },
+    {
+      "ability": "Subterfuge",
+      "sources": [
+        {
+          "book": "Changeling: The Dreaming",
+          "page": 169
+        },
+        {
+          "book": "Changeling: The Dreaming, 2nd Ed.",
+          "page": 141
+        },
+        {
+          "book": "Hunter: The Reckoning",
+          "page": 109
+        },
+        {
+          "book": "Mage: The Ascension",
+          "page": 148
+        },
+        {
+          "book": "Mage: The Ascension, 2nd Ed.",
+          "page": 124
+        },
+        {
+          "book": "Mage: The Ascension, Revised Ed.",
+          "page": 109
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 88
+        },
+        {
+          "book": "Vampire: The Dark Ages",
+          "page": 122
+        },
+        {
+          "book": "Vampire: The Masquerade",
+          "page": 85
+        },
+        {
+          "book": "Vampire: The Masquerade, 2nd Ed.",
+          "page": 150
+        },
+        {
+          "book": "Vampire: The Masquerade, Revised Ed.",
+          "page": 122
+        },
+        {
+          "book": "Werewolf: The Apocalypse",
+          "page": 125
+        },
+        {
+          "book": "Werewolf: The Apocalypse, 2nd Ed.",
+          "page": 106
+        },
+        {
+          "book": "Werewolf: The Apocalypse, Revised Ed.",
+          "page": 113
+        },
+        {
+          "book": "Werewolf: The Wild West",
+          "page": 131
+        },
+        {
+          "book": "Wraith: The Great War",
+          "page": 107
+        },
+        {
+          "book": "Wraith: The Oblivion",
+          "page": 126
+        },
+        {
+          "book": "Wraith: The Oblivion, 2nd Ed.",
+          "page": 121
+        }
+      ]
+    },
+    {
+      "ability": "Swimming",
+      "sources": [
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 44
+        },
+        {
+          "book": "Werewolf Players Guide",
+          "page": 32
+        }
+      ]
+    },
+    {
+      "ability": "Throwing",
+      "sources": [
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 44
+        },
+        {
+          "book": "Vampire Storytellers Companion",
+          "page": 20
+        }
+      ]
+    },
+    {
+      "ability": "Tolerance",
+      "sources": [
+        {
+          "book": "Hunter Book: Hermit",
+          "page": 83
+        }
+      ]
+    },
+    {
+      "ability": "Trick",
+      "sources": [
+        {
+          "book": "World of Darkness: Mummy",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "ability": "Urbanism",
+      "sources": [
+        {
+          "book": "Wraith: The Great War",
+          "page": 107
+        }
+      ]
+    },
+    {
+      "ability": "Ventriloquism",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 18
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 39
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 53
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 44
+        },
+        {
+          "book": "Vampire Storytellers Companion",
+          "page": 21
+        },
+        {
+          "book": "Werewolf Players Guide",
+          "page": 32
+        },
+        {
+          "book": "Werewolf Players Guide, 2nd Ed.",
+          "page": 29
+        }
+      ]
+    },
+    {
+      "ability": "Wood Lore",
+      "sources": [
+        {
+          "book": "Werewolf Storytellers Handbook",
+          "page": 63
+        }
+      ]
+    },
+    {
+      "ability": "Writing",
+      "sources": [
+        {
+          "book": "World of Darkness: Mummy",
+          "page": 17
+        }
+      ]
+    }
+  ],
+  "Skills": [
+    {
+      "ability": "Writing",
+      "sources": [
+        {
+          "book": "Acrobatics Bastet",
+          "page": 82
+        },
+        {
+          "book": "Book of Shadows, The",
+          "page": 18
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 39
+        },
+        {
+          "book": "Guide to the Camarilla",
+          "page": 69
+        },
+        {
+          "book": "Kindred of the East",
+          "page": 82
+        },
+        {
+          "book": "Land of Eight Million Dreams",
+          "page": 88
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 95
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 54
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 45
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 43
+        }
+      ]
+    },
+    {
+      "ability": "Animal Ken",
+      "sources": [
+        {
+          "book": "Changeling Players Guide",
+          "page": 39
+        },
+        {
+          "book": "Hunter: The Reckoning",
+          "page": 109
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 88
+        },
+        {
+          "book": "Vampire: The Dark Ages",
+          "page": 122
+        },
+        {
+          "book": "Vampire: The Masquerade",
+          "page": 86
+        },
+        {
+          "book": "Vampire: The Masquerade, 2nd Ed.",
+          "page": 151
+        },
+        {
+          "book": "Vampire: The Masquerade, Revised Ed.",
+          "page": 123
+        },
+        {
+          "book": "Werewolf: The Apocalypse",
+          "page": 127
+        },
+        {
+          "book": "Werewolf: The Apocalypse, 2nd Ed.",
+          "page": 107
+        },
+        {
+          "book": "Werewolf: The Apocalypse, Revised Ed.",
+          "page": 114
+        },
+        {
+          "book": "Werewolf: The Wild West",
+          "page": 131
+        }
+      ]
+    },
+    {
+      "ability": "Animal Training",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 18
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 54
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 45
+        }
+      ]
+    },
+    {
+      "ability": "Archery",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 18
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 39
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 88
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 54
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 45
+        },
+        {
+          "book": "Vampire Storytellers Companion",
+          "page": 22
+        },
+        {
+          "book": "Vampire: The Dark Ages",
+          "page": 123
+        },
+        {
+          "book": "Werewolf Players Guide",
+          "page": 32
+        },
+        {
+          "book": "Werewolf Players Guide, 2nd Ed.",
+          "page": 29
+        },
+        {
+          "book": "Werewolf: The Dark Ages",
+          "page": 97
+        },
+        {
+          "book": "World of Darkness: Blood & Silk",
+          "page": 85
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 43
+        }
+      ]
+    },
+    {
+      "ability": "Artillerist",
+      "sources": [
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 95
+        }
+      ]
+    },
+    {
+      "ability": "Artillery",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 55
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 45
+        }
+      ]
+    },
+    {
+      "ability": "Biotech",
+      "sources": [
+        {
+          "book": "Guide to the Technocracy",
+          "page": 146
+        }
+      ]
+    },
+    {
+      "ability": "Blacksmith",
+      "sources": [
+        {
+          "book": "Changeling Players Guide",
+          "page": 40
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 55
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 45
+        }
+      ]
+    },
+    {
+      "ability": "Blind Fighting",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 19
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 40
+        },
+        {
+          "book": "Players Guide to the Sabbat",
+          "page": 102
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 46
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 43
+        },
+        {
+          "book": "Blood Preparation Dirty Secrets of the Black Hand",
+          "page": 70
+        }
+      ]
+    },
+    {
+      "ability": "Blowgun",
+      "sources": [
+        {
+          "book": "Clanbook: Assamite",
+          "page": 30
+        }
+      ]
+    },
+    {
+      "ability": "Boat Handling",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 55
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 46
+        }
+      ]
+    },
+    {
+      "ability": "Boating",
+      "sources": [
+        {
+          "book": "Croatan Song",
+          "page": 111
+        }
+      ]
+    },
+    {
+      "ability": "Body Alteration",
+      "sources": [
+        {
+          "book": "Players Guide to the Sabbat",
+          "page": 102
+        }
+      ]
+    },
+    {
+      "ability": "Body Reading",
+      "sources": [
+        {
+          "book": "Quick & the Dead",
+          "page": 50
+        }
+      ]
+    },
+    {
+      "ability": "Brewing",
+      "sources": [
+        {
+          "book": "Changeling Players Guide",
+          "page": 40
+        }
+      ]
+    },
+    {
+      "ability": "Brewing/Distilling",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 55
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 46
+        }
+      ]
+    },
+    {
+      "ability": "Bribery",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 55
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 46
+        },
+        {
+          "book": "Brood Kenning Mokolé",
+          "page": 52
+        }
+      ]
+    },
+    {
+      "ability": "Bujo",
+      "sources": [
+        {
+          "book": "World of Darkness: Gypsies",
+          "page": 48
+        }
+      ]
+    },
+    {
+      "ability": "Camouflage",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 19
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 40
+        },
+        {
+          "book": "Guide to the Camarilla",
+          "page": 70
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 55
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 46
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 44
+        }
+      ]
+    },
+    {
+      "ability": "Carousing",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 55
+        }
+      ]
+    },
+    {
+      "ability": "Carpentry",
+      "sources": [
+        {
+          "book": "Changeling Players Guide",
+          "page": 40
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 56
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 46
+        }
+      ]
+    },
+    {
+      "ability": "Chivalry",
+      "sources": [
+        {
+          "book": "Ashen Knight, The",
+          "page": 100
+        },
+        {
+          "book": "Liege, Lord, and Lackey",
+          "page": 66
+        }
+      ]
+    },
+    {
+      "ability": "Climbing",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 19
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 41
+        },
+        {
+          "book": "Crusade Lore",
+          "page": 34
+        },
+        {
+          "book": "Sorcerers Crusade Companion",
+          "page": 115
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 56
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 47
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 44
+        }
+      ]
+    },
+    {
+      "ability": "Construction",
+      "sources": [
+        {
+          "book": "Hunter Book: Avenger",
+          "page": 65
+        },
+        {
+          "book": "World of Darkness: Mummy",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "ability": "Cooking",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 56
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 47
+        }
+      ]
+    },
+    {
+      "ability": "Cooking/Baking",
+      "sources": [
+        {
+          "book": "Changeling Players Guide",
+          "page": 41
+        }
+      ]
+    },
+    {
+      "ability": "Crafts",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 20
+        },
+        {
+          "book": "Changeling: The Dreaming",
+          "page": 169
+        },
+        {
+          "book": "Changeling: The Dreaming, 2nd Ed.",
+          "page": 141
+        },
+        {
+          "book": "Hunter: The Reckoning",
+          "page": 110
+        },
+        {
+          "book": "Kindred of the East",
+          "page": 83
+        },
+        {
+          "book": "Mage: The Ascension, Revised Ed.",
+          "page": 109
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 89
+        },
+        {
+          "book": "Vampire: The Dark Ages",
+          "page": 123
+        },
+        {
+          "book": "Vampire: The Masquerade, Revised Ed.",
+          "page": 124
+        },
+        {
+          "book": "Werewolf Players Guide, 2nd Ed.",
+          "page": 29
+        },
+        {
+          "book": "Werewolf: The Apocalypse, Revised Ed.",
+          "page": 114
+        },
+        {
+          "book": "Werewolf: The Dark Ages",
+          "page": 97
+        },
+        {
+          "book": "Werewolf: The Wild West",
+          "page": 131
+        },
+        {
+          "book": "World of Darkness: Mummy, 2nd Ed.",
+          "page": 60
+        },
+        {
+          "book": "Wraith: The Great War",
+          "page": 108
+        },
+        {
+          "book": "Wraith: The Oblivion",
+          "page": 126
+        },
+        {
+          "book": "Wraith: The Oblivion, 2nd Ed.",
+          "page": 122
+        }
+      ]
+    },
+    {
+      "ability": "Dancing",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 21
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 41
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 56
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 48
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 45
+        }
+      ]
+    },
+    {
+      "ability": "Debate",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 57
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 48
+        }
+      ]
+    },
+    {
+      "ability": "Demolitions",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 20
+        },
+        {
+          "book": "Hunter: The Reckoning",
+          "page": 111
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 57
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 48
+        },
+        {
+          "book": "Vampire Storytellers Companion",
+          "page": 22
+        },
+        {
+          "book": "Werewolf Players Guide",
+          "page": 33
+        },
+        {
+          "book": "Werewolf Players Guide, 2nd Ed.",
+          "page": 29
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 44
+        }
+      ]
+    },
+    {
+      "ability": "Disguise",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 20
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 41
+        },
+        {
+          "book": "Crusade Lore",
+          "page": 34
+        },
+        {
+          "book": "Hunter Book: Redeemer",
+          "page": 66
+        },
+        {
+          "book": "Sorcerers Crusade Companion",
+          "page": 116
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 57
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 49
+        },
+        {
+          "book": "Vampire Storytellers Companion",
+          "page": 23
+        },
+        {
+          "book": "Werewolf Players Guide",
+          "page": 33
+        },
+        {
+          "book": "Werewolf Players Guide, 2nd Ed.",
+          "page": 30
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 44
+        }
+      ]
+    },
+    {
+      "ability": "Diversion",
+      "sources": [
+        {
+          "book": "World of Darkness: Gypsies",
+          "page": 49
+        }
+      ]
+    },
+    {
+      "ability": "Divination",
+      "sources": [
+        {
+          "book": "Mummy: The Resurrection",
+          "page": 61
+        }
+      ]
+    },
+    {
+      "ability": "Do",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 21
+        },
+        {
+          "book": "Mage: The Ascension, 2nd Ed.",
+          "page": 125
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 95
+        }
+      ]
+    },
+    {
+      "ability": "Drinking",
+      "sources": [
+        {
+          "book": "World of Darkness: Gypsies",
+          "page": 49
+        }
+      ]
+    },
+    {
+      "ability": "Drive",
+      "sources": [
+        {
+          "book": "Changeling: The Dreaming",
+          "page": 169
+        },
+        {
+          "book": "Changeling: The Dreaming, 2nd Ed.",
+          "page": 141
+        },
+        {
+          "book": "Hunter: The Reckoning",
+          "page": 111
+        },
+        {
+          "book": "Mage: The Ascension",
+          "page": 149
+        },
+        {
+          "book": "Mage: The Ascension, 2nd Ed.",
+          "page": 125
+        },
+        {
+          "book": "Mage: The Ascension, Revised Ed.",
+          "page": 110
+        },
+        {
+          "book": "Vampire: The Masquerade",
+          "page": 86
+        },
+        {
+          "book": "Vampire: The Masquerade, 2nd Ed.",
+          "page": 151
+        },
+        {
+          "book": "Vampire: The Masquerade, Revised Ed.",
+          "page": 124
+        },
+        {
+          "book": "Werewolf: The Apocalypse",
+          "page": 126
+        },
+        {
+          "book": "Werewolf: The Apocalypse, 2nd Ed.",
+          "page": 107
+        },
+        {
+          "book": "Werewolf: The Apocalypse, Revised Ed.",
+          "page": 114
+        },
+        {
+          "book": "Wraith: The Oblivion",
+          "page": 126
+        },
+        {
+          "book": "Wraith: The Oblivion, 2nd Ed.",
+          "page": 122
+        }
+      ]
+    },
+    {
+      "ability": "Elusion",
+      "sources": [
+        {
+          "book": "World of Darkness: Bygone Bestiary",
+          "page": 103
+        }
+      ]
+    },
+    {
+      "ability": "Energy Weapons",
+      "sources": [
+        {
+          "book": "Guide to the Technocracy",
+          "page": 146
+        }
+      ]
+    },
+    {
+      "ability": "Escape Artistry",
+      "sources": [
+        {
+          "book": "Werewolf Players Guide, 2nd Ed.",
+          "page": 30
+        }
+      ]
+    },
+    {
+      "ability": "Escapology",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 21
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 41
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 57
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 49
+        },
+        {
+          "book": "Werewolf Players Guide",
+          "page": 33
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 45
+        }
+      ]
+    },
+    {
+      "ability": "Etiquette",
+      "sources": [
+        {
+          "book": "Changeling: The Dreaming",
+          "page": 169
+        },
+        {
+          "book": "Changeling: The Dreaming, 2nd Ed.",
+          "page": 141
+        },
+        {
+          "book": "Hunter: The Reckoning",
+          "page": 111
+        },
+        {
+          "book": "Mage: The Ascension",
+          "page": 149
+        },
+        {
+          "book": "Mage: The Ascension, 2nd Ed.",
+          "page": 125
+        },
+        {
+          "book": "Mage: The Ascension, Revised Ed.",
+          "page": 111
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 89
+        },
+        {
+          "book": "Vampire: The Dark Ages",
+          "page": 123
+        },
+        {
+          "book": "Vampire: The Masquerade",
+          "page": 86
+        },
+        {
+          "book": "Vampire: The Masquerade, 2nd Ed.",
+          "page": 151
+        },
+        {
+          "book": "Vampire: The Masquerade, Revised Ed.",
+          "page": 124
+        },
+        {
+          "book": "Werewolf: The Apocalypse",
+          "page": 127
+        },
+        {
+          "book": "Werewolf: The Apocalypse, 2nd Ed.",
+          "page": 107
+        },
+        {
+          "book": "Werewolf: The Apocalypse, Revised Ed.",
+          "page": 115
+        },
+        {
+          "book": "Werewolf: The Wild West",
+          "page": 131
+        },
+        {
+          "book": "Wraith: The Great War",
+          "page": 108
+        },
+        {
+          "book": "Wraith: The Oblivion",
+          "page": 126
+        },
+        {
+          "book": "Wraith: The Oblivion, 2nd Ed.",
+          "page": 122
+        }
+      ]
+    },
+    {
+      "ability": "Falconry",
+      "sources": [
+        {
+          "book": "Changeling Players Guide",
+          "page": 41
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 57
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 49
+        }
+      ]
+    },
+    {
+      "ability": "Fast-Draw",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 21
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 42
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 58
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 49
+        },
+        {
+          "book": "Werewolf Players Guide",
+          "page": 33
+        },
+        {
+          "book": "Werewolf Players Guide, 2nd Ed.",
+          "page": 30
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 45
+        }
+      ]
+    },
+    {
+      "ability": "Fast-Talk",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 22
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 42
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 58
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 49
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 45
+        }
+      ]
+    },
+    {
+      "ability": "Fencing",
+      "sources": [
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 96
+        }
+      ]
+    },
+    {
+      "ability": "Fire Dancing",
+      "sources": [
+        {
+          "book": "Guide to the Sabbat",
+          "page": 89
+        }
+      ]
+    },
+    {
+      "ability": "Fire Eating",
+      "sources": [
+        {
+          "book": "Players Guide to the Sabbat",
+          "page": 102
+        }
+      ]
+    },
+    {
+      "ability": "Fire Walking",
+      "sources": [
+        {
+          "book": "Players Guide to the Sabbat",
+          "page": 103
+        }
+      ]
+    },
+    {
+      "ability": "Firearms",
+      "sources": [
+        {
+          "book": "Changeling: The Dreaming",
+          "page": 170
+        },
+        {
+          "book": "Changeling: The Dreaming, 2nd Ed.",
+          "page": 142
+        },
+        {
+          "book": "Hunter: The Reckoning",
+          "page": 112
+        },
+        {
+          "book": "Mage: The Ascension",
+          "page": 149
+        },
+        {
+          "book": "Mage: The Ascension, 2nd Ed.",
+          "page": 125
+        },
+        {
+          "book": "Mage: The Ascension, Revised Ed.",
+          "page": 111
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 96
+        },
+        {
+          "book": "Vampire: The Masquerade",
+          "page": 86
+        },
+        {
+          "book": "Vampire: The Masquerade, 2nd Ed.",
+          "page": 151
+        },
+        {
+          "book": "Vampire: The Masquerade, Revised Ed.",
+          "page": 124
+        },
+        {
+          "book": "Werewolf: The Apocalypse",
+          "page": 126
+        },
+        {
+          "book": "Werewolf: The Apocalypse, 2nd Ed.",
+          "page": 107
+        },
+        {
+          "book": "Werewolf: The Apocalypse, Revised Ed.",
+          "page": 115
+        },
+        {
+          "book": "Werewolf: The Wild West",
+          "page": 131
+        },
+        {
+          "book": "Wraith: The Great War",
+          "page": 108
+        },
+        {
+          "book": "Wraith: The Oblivion",
+          "page": 126
+        },
+        {
+          "book": "Wraith: The Oblivion, 2nd Ed.",
+          "page": 123
+        }
+      ]
+    },
+    {
+      "ability": "First Aid",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 22
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 43
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 58
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 50
+        },
+        {
+          "book": "Fishing Gurahl",
+          "page": 86
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 58
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 50
+        }
+      ]
+    },
+    {
+      "ability": "Foraging",
+      "sources": [
+        {
+          "book": "World of Darkness: Bygone Bestiary",
+          "page": 103
+        }
+      ]
+    },
+    {
+      "ability": "Forgery",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 58
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 50
+        }
+      ]
+    },
+    {
+      "ability": "Fortune-Telling",
+      "sources": [
+        {
+          "book": "World of Darkness: Gypsies",
+          "page": 49
+        }
+      ]
+    },
+    {
+      "ability": "Gambling",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 22
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 43
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 58
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 50
+        },
+        {
+          "book": "Werewolf Players Guide, 2nd Ed.",
+          "page": 30
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 45
+        }
+      ]
+    },
+    {
+      "ability": "Game Playing",
+      "sources": [
+        {
+          "book": "Changeling Players Guide",
+          "page": 43
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 58
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 50
+        },
+        {
+          "book": "Gargoyle Ken House of Tremere",
+          "page": 121
+        }
+      ]
+    },
+    {
+      "ability": "Garrotte",
+      "sources": [
+        {
+          "book": "Clanbook: Assamite",
+          "page": 30
+        },
+        {
+          "book": "Gossip Corax",
+          "page": 69
+        }
+      ]
+    },
+    {
+      "ability": "Gunsmithing",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 22
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 43
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 59
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 50
+        }
+      ]
+    },
+    {
+      "ability": "Haggling",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 59
+        }
+      ]
+    },
+    {
+      "ability": "Heavy Weapons",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 22
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 59
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 51
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 46
+        }
+      ]
+    },
+    {
+      "ability": "Helmsman",
+      "sources": [
+        {
+          "book": "Guide to the Technocracy",
+          "page": 147
+        }
+      ]
+    },
+    {
+      "ability": "Herbalism",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 59
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 51
+        },
+        {
+          "book": "Vampire Storytellers Companion",
+          "page": 24
+        },
+        {
+          "book": "Vampire: The Dark Ages",
+          "page": 123
+        }
+      ]
+    },
+    {
+      "ability": "Hiding",
+      "sources": [
+        {
+          "book": "World of Darkness: Bygone Bestiary",
+          "page": 103
+        }
+      ]
+    },
+    {
+      "ability": "High Ritual",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 22
+        }
+      ]
+    },
+    {
+      "ability": "Hunting",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 23
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 43
+        },
+        {
+          "book": "Guide to the Camarilla",
+          "page": 70
+        },
+        {
+          "book": "Sorcerers Crusade Companion",
+          "page": 116
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 59
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 51
+        }
+      ]
+    },
+    {
+      "ability": "Hypertech",
+      "sources": [
+        {
+          "book": "Guide to the Technocracy",
+          "page": 148
+        }
+      ]
+    },
+    {
+      "ability": "Hypnosis",
+      "sources": [
+        {
+          "book": "Mummy: The Resurrection",
+          "page": 61
+        }
+      ]
+    },
+    {
+      "ability": "Hypnotism",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 23
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 43
+        },
+        {
+          "book": "Sorcerer, Revised Ed.",
+          "page": 50
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 60
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 52
+        },
+        {
+          "book": "Werewolf Players Guide",
+          "page": 33
+        },
+        {
+          "book": "Werewolf Players Guide, 2nd Ed.",
+          "page": 30
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 46
+        }
+      ]
+    },
+    {
+      "ability": "Indoctrination",
+      "sources": [
+        {
+          "book": "Freak Legion: A Players Guide to Fomori",
+          "page": 21
+        }
+      ]
+    },
+    {
+      "ability": "Interrogation",
+      "sources": [
+        {
+          "book": "Guide to the Technocracy",
+          "page": 149
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 60
+        }
+      ]
+    },
+    {
+      "ability": "Jetpack",
+      "sources": [
+        {
+          "book": "Guide to the Technocracy",
+          "page": 149
+        }
+      ]
+    },
+    {
+      "ability": "Jeweler",
+      "sources": [
+        {
+          "book": "Changeling Players Guide",
+          "page": 44
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 60
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 52
+        }
+      ]
+    },
+    {
+      "ability": "Journalism",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 60
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 52
+        }
+      ]
+    },
+    {
+      "ability": "Jury-Rig",
+      "sources": [
+        {
+          "book": "Guide to the Technocracy",
+          "page": 149
+        },
+        {
+          "book": "Jury-Rigging Technomancer's Toybox",
+          "page": 97
+        }
+      ]
+    },
+    {
+      "ability": "Kailindo",
+      "sources": [
+        {
+          "book": "Werewolf Players Guide",
+          "page": 34
+        },
+        {
+          "book": "Werewolf Players Guide, 2nd Ed.",
+          "page": 31
+        }
+      ]
+    },
+    {
+      "ability": "Klaive Dueling",
+      "sources": [
+        {
+          "book": "Werewolf Players Guide, 2nd Ed.",
+          "page": 31
+        }
+      ]
+    },
+    {
+      "ability": "Labyrinth Gear",
+      "sources": [
+        {
+          "book": "Doomslayers: Into the Labyrinth",
+          "page": 52
+        }
+      ]
+    },
+    {
+      "ability": "Leadership",
+      "sources": [
+        {
+          "book": "Changeling: The Dreaming",
+          "page": 170
+        },
+        {
+          "book": "Changeling: The Dreaming, 2nd Ed.",
+          "page": 142
+        },
+        {
+          "book": "Mage: The Ascension",
+          "page": 149
+        },
+        {
+          "book": "Mage: The Ascension, 2nd Ed.",
+          "page": 125
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 89
+        },
+        {
+          "book": "Werewolf: The Apocalypse",
+          "page": 128
+        },
+        {
+          "book": "Werewolf: The Apocalypse, 2nd Ed.",
+          "page": 107
+        },
+        {
+          "book": "Werewolf: The Apocalypse, Revised Ed.",
+          "page": 115
+        },
+        {
+          "book": "Werewolf: The Wild West",
+          "page": 132
+        },
+        {
+          "book": "Wraith: The Great War",
+          "page": 108
+        },
+        {
+          "book": "Wraith: The Oblivion",
+          "page": 127
+        },
+        {
+          "book": "Wraith: The Oblivion, 2nd Ed.",
+          "page": 123
+        }
+      ]
+    },
+    {
+      "ability": "Leatherworking",
+      "sources": [
+        {
+          "book": "Changeling Players Guide",
+          "page": 44
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 60
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 53
+        }
+      ]
+    },
+    {
+      "ability": "Lip Reading",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 60
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 53
+        },
+        {
+          "book": "Vampire Storytellers Companion",
+          "page": 24
+        }
+      ]
+    },
+    {
+      "ability": "Lock Picking",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 61
+        },
+        {
+          "book": "Lockpicking Bastet",
+          "page": 82
+        },
+        {
+          "book": "Book of Shadows, The",
+          "page": 23
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 44
+        },
+        {
+          "book": "Sorcerers Crusade Companion",
+          "page": 116
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 53
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 46
+        }
+      ]
+    },
+    {
+      "ability": "Martial Arts",
+      "sources": [
+        {
+          "book": "Dark Kingdom of Jade",
+          "page": 125
+        },
+        {
+          "book": "Kindred of the East",
+          "page": 83
+        },
+        {
+          "book": "Land of Eight Million Dreams",
+          "page": 89
+        }
+      ]
+    },
+    {
+      "ability": "Martial Arts Weapons",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 61
+        }
+      ]
+    },
+    {
+      "ability": "Masquerade",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 61
+        }
+      ]
+    },
+    {
+      "ability": "Mechanic",
+      "sources": [
+        {
+          "book": "Changeling Players Guide",
+          "page": 44
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 62
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 53
+        }
+      ]
+    },
+    {
+      "ability": "Meditation",
+      "sources": [
+        {
+          "book": "Kindred of the East",
+          "page": 83
+        },
+        {
+          "book": "Land of Eight Million Dreams",
+          "page": 89
+        },
+        {
+          "book": "Mage: The Ascension",
+          "page": 149
+        },
+        {
+          "book": "Mage: The Ascension, 2nd Ed.",
+          "page": 126
+        },
+        {
+          "book": "Mage: The Ascension, Revised Ed.",
+          "page": 111
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 89
+        },
+        {
+          "book": "Mummy: The Resurrection",
+          "page": 61
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 62
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 53
+        },
+        {
+          "book": "Vampire Storytellers Companion",
+          "page": 24
+        },
+        {
+          "book": "Werewolf Players Guide",
+          "page": 34
+        },
+        {
+          "book": "Werewolf Players Guide, 2nd Ed.",
+          "page": 31
+        },
+        {
+          "book": "World of Darkness: Blood & Silk",
+          "page": 85
+        },
+        {
+          "book": "World of Darkness: Mummy, 2nd Ed.",
+          "page": 58
+        },
+        {
+          "book": "Wraith: The Great War",
+          "page": 108
+        },
+        {
+          "book": "Wraith: The Oblivion",
+          "page": 127
+        },
+        {
+          "book": "Wraith: The Oblivion, 2nd Ed.",
+          "page": 123
+        }
+      ]
+    },
+    {
+      "ability": "Melee",
+      "sources": [
+        {
+          "book": "Changeling: The Dreaming",
+          "page": 170
+        },
+        {
+          "book": "Changeling: The Dreaming, 2nd Ed.",
+          "page": 142
+        },
+        {
+          "book": "Hunter: The Reckoning",
+          "page": 113
+        },
+        {
+          "book": "Mage: The Ascension",
+          "page": 150
+        },
+        {
+          "book": "Mage: The Ascension, 2nd Ed.",
+          "page": 126
+        },
+        {
+          "book": "Mage: The Ascension, Revised Ed.",
+          "page": 111
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 89
+        },
+        {
+          "book": "Vampire: The Dark Ages",
+          "page": 123
+        },
+        {
+          "book": "Vampire: The Masquerade",
+          "page": 87
+        },
+        {
+          "book": "Vampire: The Masquerade, 2nd Ed.",
+          "page": 151
+        },
+        {
+          "book": "Vampire: The Masquerade, Revised Ed.",
+          "page": 125
+        },
+        {
+          "book": "Werewolf: The Apocalypse",
+          "page": 126
+        },
+        {
+          "book": "Werewolf: The Apocalypse, 2nd Ed.",
+          "page": 107
+        },
+        {
+          "book": "Werewolf: The Apocalypse, Revised Ed.",
+          "page": 115
+        },
+        {
+          "book": "Werewolf: The Wild West",
+          "page": 132
+        },
+        {
+          "book": "Wraith: The Great War",
+          "page": 108
+        },
+        {
+          "book": "Wraith: The Oblivion",
+          "page": 128
+        },
+        {
+          "book": "Wraith: The Oblivion, 2nd Ed.",
+          "page": 123
+        }
+      ]
+    },
+    {
+      "ability": "Microgravity Operations",
+      "sources": [
+        {
+          "book": "Guide to the Technocracy",
+          "page": 150
+        }
+      ]
+    },
+    {
+      "ability": "Mining",
+      "sources": [
+        {
+          "book": "Kithbook: Nockers",
+          "page": 55
+        }
+      ]
+    },
+    {
+      "ability": "Misdirection",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 23
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 46
+        }
+      ]
+    },
+    {
+      "ability": "Music",
+      "sources": [
+        {
+          "book": "Vampire: The Dark Ages",
+          "page": 124
+        },
+        {
+          "book": "Vampire: The Masquerade",
+          "page": 87
+        },
+        {
+          "book": "Vampire: The Masquerade, 2nd Ed.",
+          "page": 152
+        }
+      ]
+    },
+    {
+      "ability": "Naval Artillery",
+      "sources": [
+        {
+          "book": "World of Darkness: Blood-Dimmed Tides",
+          "page": 54
+        }
+      ]
+    },
+    {
+      "ability": "Navigation",
+      "sources": [
+        {
+          "book": "World of Darkness: Blood-Dimmed Tides",
+          "page": 55
+        },
+        {
+          "book": "Negotiation Hierarchy",
+          "page": 110
+        }
+      ]
+    },
+    {
+      "ability": "Networking",
+      "sources": [
+        {
+          "book": "Guide to the Technocracy",
+          "page": 150
+        },
+        {
+          "book": "Hierarchy",
+          "page": 110
+        }
+      ]
+    },
+    {
+      "ability": "Orienteering",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 62
+        }
+      ]
+    },
+    {
+      "ability": "Parachuting",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 62
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 54
+        }
+      ]
+    },
+    {
+      "ability": "Performance",
+      "sources": [
+        {
+          "book": "Changeling: The Dreaming",
+          "page": 170
+        },
+        {
+          "book": "Changeling: The Dreaming, 2nd Ed.",
+          "page": 142
+        },
+        {
+          "book": "Hunter: The Reckoning",
+          "page": 113
+        },
+        {
+          "book": "Kindred of the East",
+          "page": 84
+        },
+        {
+          "book": "Mage: The Ascension, Revised Ed.",
+          "page": 112
+        },
+        {
+          "book": "Vampire: The Masquerade, Revised Ed.",
+          "page": 125
+        },
+        {
+          "book": "Werewolf: The Apocalypse",
+          "page": 127
+        },
+        {
+          "book": "Werewolf: The Apocalypse, 2nd Ed.",
+          "page": 107
+        },
+        {
+          "book": "Werewolf: The Apocalypse, Revised Ed.",
+          "page": 116
+        },
+        {
+          "book": "Werewolf: The Wild West",
+          "page": 132
+        },
+        {
+          "book": "World of Darkness: Mummy, 2nd Ed.",
+          "page": 58
+        },
+        {
+          "book": "Wraith: The Great War",
+          "page": 108
+        },
+        {
+          "book": "Wraith: The Oblivion",
+          "page": 128
+        },
+        {
+          "book": "Wraith: The Oblivion, 2nd Ed.",
+          "page": 123
+        }
+      ]
+    },
+    {
+      "ability": "Photography",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 63
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 54
+        }
+      ]
+    },
+    {
+      "ability": "Pickpocket",
+      "sources": [
+        {
+          "book": "Changeling Players Guide",
+          "page": 44
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 63
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 54
+        }
+      ]
+    },
+    {
+      "ability": "Pilot",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 24
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 44
+        },
+        {
+          "book": "Guide to the Technocracy",
+          "page": 151
+        },
+        {
+          "book": "Sorcerers Crusade Companion",
+          "page": 116
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 63
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 54
+        },
+        {
+          "book": "Vampire Storytellers Companion",
+          "page": 25
+        },
+        {
+          "book": "Werewolf Players Guide, 2nd Ed.",
+          "page": 32
+        },
+        {
+          "book": "World of Darkness: Blood & Silk",
+          "page": 85
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 46
+        },
+        {
+          "book": "Wraith: The Great War",
+          "page": 108
+        }
+      ]
+    },
+    {
+      "ability": "Police Procedure",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 63
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 55
+        }
+      ]
+    },
+    {
+      "ability": "Portents",
+      "sources": [
+        {
+          "book": "Kindred of the East",
+          "page": 84
+        }
+      ]
+    },
+    {
+      "ability": "Pottery",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 63
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 55
+        }
+      ]
+    },
+    {
+      "ability": "Professional Skill",
+      "sources": [
+        {
+          "book": "Vampire Storytellers Companion",
+          "page": 27
+        }
+      ]
+    },
+    {
+      "ability": "Psychoanalysis",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 24
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 45
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 63
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 55
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 47
+        }
+      ]
+    },
+    {
+      "ability": "Public Speaking",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 63
+        }
+      ]
+    },
+    {
+      "ability": "Repair",
+      "sources": [
+        {
+          "book": "Vampire: The Masquerade",
+          "page": 87
+        },
+        {
+          "book": "Vampire: The Masquerade, 2nd Ed.",
+          "page": 152
+        },
+        {
+          "book": "Werewolf: The Apocalypse",
+          "page": 126
+        },
+        {
+          "book": "Werewolf: The Apocalypse, 2nd Ed.",
+          "page": 108
+        },
+        {
+          "book": "Wraith: The Oblivion",
+          "page": 128
+        },
+        {
+          "book": "Wraith: The Oblivion, 2nd Ed.",
+          "page": 124
+        }
+      ]
+    },
+    {
+      "ability": "Research",
+      "sources": [
+        {
+          "book": "Mage: The Ascension",
+          "page": 150
+        },
+        {
+          "book": "Mage: The Ascension, 2nd Ed.",
+          "page": 126
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 90
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 64
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 55
+        },
+        {
+          "book": "World of Darkness: Sorcerer",
+          "page": 59
+        }
+      ]
+    },
+    {
+      "ability": "Ride",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 24
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 45
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 64
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 55
+        },
+        {
+          "book": "Vampire Storytellers Companion",
+          "page": 26
+        },
+        {
+          "book": "Vampire: The Dark Ages",
+          "page": 124
+        },
+        {
+          "book": "Werewolf: The Dark Ages",
+          "page": 98
+        },
+        {
+          "book": "Werewolf: The Wild West",
+          "page": 132
+        },
+        {
+          "book": "World of Darkness: Blood & Silk",
+          "page": 85
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 47
+        }
+      ]
+    },
+    {
+      "ability": "Riding",
+      "sources": [
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 90
+        },
+        {
+          "book": "Mummy: The Resurrection",
+          "page": 62
+        }
+      ]
+    },
+    {
+      "ability": "Sagaman",
+      "sources": [
+        {
+          "book": "Wolves of the Sea",
+          "page": 68
+        }
+      ]
+    },
+    {
+      "ability": "Scribing",
+      "sources": [
+        {
+          "book": "World of Darkness: Mummy",
+          "page": 17
+        },
+        {
+          "book": "World of Darkness: Mummy, 2nd Ed.",
+          "page": 61
+        }
+      ]
+    },
+    {
+      "ability": "Scuba",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 64
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 56
+        },
+        {
+          "book": "Seafaring Rokea",
+          "page": 63
+        }
+      ]
+    },
+    {
+      "ability": "Seamanship",
+      "sources": [
+        {
+          "book": "Sorcerers Crusade Companion",
+          "page": 117
+        }
+      ]
+    },
+    {
+      "ability": "Security",
+      "sources": [
+        {
+          "book": "Changeling: The Dreaming",
+          "page": 170
+        },
+        {
+          "book": "Changeling: The Dreaming, 2nd Ed.",
+          "page": 142
+        },
+        {
+          "book": "Guide to the Technocracy",
+          "page": 151
+        },
+        {
+          "book": "Hunter: The Reckoning",
+          "page": 113
+        },
+        {
+          "book": "Technomancer's Toybox",
+          "page": 97
+        },
+        {
+          "book": "Vampire: The Masquerade",
+          "page": 87
+        },
+        {
+          "book": "Vampire: The Masquerade, 2nd Ed.",
+          "page": 152
+        },
+        {
+          "book": "Vampire: The Masquerade, Revised Ed.",
+          "page": 126
+        },
+        {
+          "book": "World of Darkness: Mummy, 2nd Ed.",
+          "page": 58
+        }
+      ]
+    },
+    {
+      "ability": "Shield Parry",
+      "sources": [
+        {
+          "book": "Anarch Cookbook, The",
+          "page": 69
+        }
+      ]
+    },
+    {
+      "ability": "Shipwright",
+      "sources": [
+        {
+          "book": "Wolves of the Sea",
+          "page": 68
+        }
+      ]
+    },
+    {
+      "ability": "Sign Language",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 65
+        }
+      ]
+    },
+    {
+      "ability": "Singing",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 24
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 45
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 56
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 48
+        }
+      ]
+    },
+    {
+      "ability": "Skiing",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 65
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 56
+        }
+      ]
+    },
+    {
+      "ability": "Sleight of Hand",
+      "sources": [
+        {
+          "book": "Changeling Players Guide",
+          "page": 46
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 65
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 56
+        },
+        {
+          "book": "Vampire Storytellers Companion",
+          "page": 27
+        }
+      ]
+    },
+    {
+      "ability": "Snake Charming",
+      "sources": [
+        {
+          "book": "Players Guide to the Sabbat",
+          "page": 103
+        }
+      ]
+    },
+    {
+      "ability": "Soulforging",
+      "sources": [
+        {
+          "book": "Guildbook: Artificers",
+          "page": 51
+        }
+      ]
+    },
+    {
+      "ability": "Soulshaping",
+      "sources": [
+        {
+          "book": "Guildbook: Masquers",
+          "page": 44
+        }
+      ]
+    },
+    {
+      "ability": "Speed Reading",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 24
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 65
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 56
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 48
+        }
+      ]
+    },
+    {
+      "ability": "Stealth",
+      "sources": [
+        {
+          "book": "Changeling: The Dreaming",
+          "page": 171
+        },
+        {
+          "book": "Changeling: The Dreaming, 2nd Ed.",
+          "page": 142
+        },
+        {
+          "book": "Hunter: The Reckoning",
+          "page": 113
+        },
+        {
+          "book": "Mage: The Ascension",
+          "page": 150
+        },
+        {
+          "book": "Mage: The Ascension, 2nd Ed.",
+          "page": 127
+        },
+        {
+          "book": "Mage: The Ascension, Revised Ed.",
+          "page": 112
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 90
+        },
+        {
+          "book": "Vampire: The Dark Ages",
+          "page": 125
+        },
+        {
+          "book": "Vampire: The Masquerade",
+          "page": 87
+        },
+        {
+          "book": "Vampire: The Masquerade, 2nd Ed.",
+          "page": 152
+        },
+        {
+          "book": "Vampire: The Masquerade, Revised Ed.",
+          "page": 126
+        },
+        {
+          "book": "Werewolf: The Apocalypse",
+          "page": 127
+        },
+        {
+          "book": "Werewolf: The Apocalypse, 2nd Ed.",
+          "page": 108
+        },
+        {
+          "book": "Werewolf: The Apocalypse, Revised Ed.",
+          "page": 116
+        },
+        {
+          "book": "Werewolf: The Wild West",
+          "page": 132
+        },
+        {
+          "book": "Wraith: The Great War",
+          "page": 108
+        },
+        {
+          "book": "Wraith: The Oblivion",
+          "page": 129
+        },
+        {
+          "book": "Wraith: The Oblivion, 2nd Ed.",
+          "page": 124
+        }
+      ]
+    },
+    {
+      "ability": "Storytelling",
+      "sources": [
+        {
+          "book": "Changeling Players Guide",
+          "page": 46
+        },
+        {
+          "book": "World of Darkness: Gypsies",
+          "page": 50
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 48
+        }
+      ]
+    },
+    {
+      "ability": "Strategy",
+      "sources": [
+        {
+          "book": "Veil of Night",
+          "page": 157
+        }
+      ]
+    },
+    {
+      "ability": "Style",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 65
+        }
+      ]
+    },
+    {
+      "ability": "Survival",
+      "sources": [
+        {
+          "book": "Changeling: The Dreaming",
+          "page": 171
+        },
+        {
+          "book": "Changeling: The Dreaming, 2nd Ed.",
+          "page": 143
+        },
+        {
+          "book": "Hunter: The Reckoning",
+          "page": 114
+        },
+        {
+          "book": "Mage: The Ascension",
+          "page": 150
+        },
+        {
+          "book": "Mage: The Ascension, 2nd Ed.",
+          "page": 127
+        },
+        {
+          "book": "Mage: The Ascension, Revised Ed.",
+          "page": 112
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 90
+        },
+        {
+          "book": "Vampire: The Dark Ages",
+          "page": 125
+        },
+        {
+          "book": "Vampire: The Masquerade",
+          "page": 87
+        },
+        {
+          "book": "Vampire: The Masquerade, 2nd Ed.",
+          "page": 152
+        },
+        {
+          "book": "Vampire: The Masquerade, Revised Ed.",
+          "page": 126
+        },
+        {
+          "book": "Werewolf: The Apocalypse",
+          "page": 128
+        },
+        {
+          "book": "Werewolf: The Apocalypse, 2nd Ed.",
+          "page": 108
+        },
+        {
+          "book": "Werewolf: The Apocalypse, Revised Ed.",
+          "page": 117
+        },
+        {
+          "book": "Werewolf: The Wild West",
+          "page": 132
+        },
+        {
+          "book": "World of Darkness: Mummy, 2nd Ed.",
+          "page": 58
+        }
+      ]
+    },
+    {
+      "ability": "Swimming",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 24
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 46
+        },
+        {
+          "book": "Sorcerers Crusade Companion",
+          "page": 117
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 65
+        },
+        {
+          "book": "Werewolf Players Guide, 2nd Ed.",
+          "page": 32
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 49
+        }
+      ]
+    },
+    {
+      "ability": "Talith, The",
+      "sources": [
+        {
+          "book": "World of Darkness: Gypsies",
+          "page": 50
+        }
+      ]
+    },
+    {
+      "ability": "Technology",
+      "sources": [
+        {
+          "book": "Hunter: The Reckoning",
+          "page": 114
+        },
+        {
+          "book": "Mage: The Ascension",
+          "page": 150
+        },
+        {
+          "book": "Mage: The Ascension, 2nd Ed.",
+          "page": 128
+        },
+        {
+          "book": "Mage: The Ascension, Revised Ed.",
+          "page": 113
+        }
+      ]
+    },
+    {
+      "ability": "Temporal Sense",
+      "sources": [
+        {
+          "book": "Nobles: The Shining Host",
+          "page": 74
+        }
+      ]
+    },
+    {
+      "ability": "Throwing",
+      "sources": [
+        {
+          "book": "Changeling Players Guide",
+          "page": 47
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 65
+        }
+      ]
+    },
+    {
+      "ability": "Tightrope Walking",
+      "sources": [
+        {
+          "book": "Players Guide to the Sabbat",
+          "page": 104
+        }
+      ]
+    },
+    {
+      "ability": "Torture",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 25
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 47
+        },
+        {
+          "book": "Guide to the Technocracy",
+          "page": 152
+        },
+        {
+          "book": "Kindred of the East",
+          "page": 85
+        },
+        {
+          "book": "Libellus Sanguinis 1: Masters of the State",
+          "page": 61
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 96
+        },
+        {
+          "book": "Players Guide to the Sabbat",
+          "page": 104
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 56
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 49
+        }
+      ]
+    },
+    {
+      "ability": "Tracking",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 25
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 47
+        },
+        {
+          "book": "Sorcerers Crusade Companion",
+          "page": 117
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 65
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 57
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 49
+        }
+      ]
+    },
+    {
+      "ability": "Traps",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 25
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 47
+        },
+        {
+          "book": "Hunter Book: Defender",
+          "page": 68
+        },
+        {
+          "book": "Mummy: The Resurrection",
+          "page": 62
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 66
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 57
+        },
+        {
+          "book": "Werewolf Players Guide, 2nd Ed.",
+          "page": 32
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 49
+        }
+      ]
+    },
+    {
+      "ability": "Vamp",
+      "sources": [
+        {
+          "book": "Guide to the Sabbat",
+          "page": 88
+        }
+      ]
+    },
+    {
+      "ability": "Wild Hunting",
+      "sources": [
+        {
+          "book": "World of Darkness: Bygone Bestiary",
+          "page": 104
+        }
+      ]
+    }
+  ],
+  "Knowledges": [
+    {
+      "ability": "Academics",
+      "sources": [
+        {
+          "book": "Guide to the Technocracy",
+          "page": 153
+        },
+        {
+          "book": "Hunter: The Reckoning",
+          "page": 114
+        },
+        {
+          "book": "Mage: The Ascension, Revised Ed.",
+          "page": 113
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 91
+        },
+        {
+          "book": "Vampire: The Dark Ages",
+          "page": 125
+        },
+        {
+          "book": "Vampire: The Masquerade, Revised Ed.",
+          "page": 126
+        },
+        {
+          "book": "Veil of Night",
+          "page": 157
+        },
+        {
+          "book": "Werewolf: The Dark Ages",
+          "page": 98
+        }
+      ]
+    },
+    {
+      "ability": "Accounting",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 66
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 57
+        }
+      ]
+    },
+    {
+      "ability": "Alchemy",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 26
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 47
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 66
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 57
+        }
+      ]
+    },
+    {
+      "ability": "Animal Lore",
+      "sources": [
+        {
+          "book": "Croatan Song",
+          "page": 111
+        }
+      ]
+    },
+    {
+      "ability": "Animal Speech",
+      "sources": [
+        {
+          "book": "Sorcerers Crusade Companion",
+          "page": 117
+        },
+        {
+          "book": "World of Darkness: Bygone Bestiary",
+          "page": 104
+        }
+      ]
+    },
+    {
+      "ability": "Anthropology",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 66
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 58
+        }
+      ]
+    },
+    {
+      "ability": "Archaeology",
+      "sources": [
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 58
+        }
+      ]
+    },
+    {
+      "ability": "Archeology",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 67
+        }
+      ]
+    },
+    {
+      "ability": "Architecture",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 67
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 59
+        }
+      ]
+    },
+    {
+      "ability": "Area Knowledge",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 26
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 48
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 67
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 59
+        },
+        {
+          "book": "Vampire Storytellers Companion",
+          "page": 28
+        },
+        {
+          "book": "Werewolf Players Guide",
+          "page": 34
+        },
+        {
+          "book": "Werewolf Players Guide, 2nd Ed.",
+          "page": 33
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 49
+        },
+        {
+          "book": "Chicago Chicago by Night",
+          "page": 54
+        },
+        {
+          "book": "Chicago by Night, 2nd Ed.",
+          "page": 60
+        }
+      ]
+    },
+    {
+      "ability": "Art History",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 67
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 59
+        }
+      ]
+    },
+    {
+      "ability": "Astrology",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 26
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 48
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 67
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 59
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 50
+        }
+      ]
+    },
+    {
+      "ability": "Astronomy",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 67
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 59
+        }
+      ]
+    },
+    {
+      "ability": "Autumn Lore",
+      "sources": [
+        {
+          "book": "Denizens of the Dreaming",
+          "page": 68
+        }
+      ]
+    },
+    {
+      "ability": "Beast Lore",
+      "sources": [
+        {
+          "book": "Sorcerers Crusade Companion",
+          "page": 118
+        },
+        {
+          "book": "World of Darkness: Bygone Bestiary",
+          "page": 105
+        }
+      ]
+    },
+    {
+      "ability": "Beliefs",
+      "sources": [
+        {
+          "book": "Quick & the Dead",
+          "page": 50
+        }
+      ]
+    },
+    {
+      "ability": "Biology",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 68
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 59
+        }
+      ]
+    },
+    {
+      "ability": "Black Hand Knowledge",
+      "sources": [
+        {
+          "book": "Players Guide to the Sabbat",
+          "page": 105
+        }
+      ]
+    },
+    {
+      "ability": "Black Hand Lore",
+      "sources": [
+        {
+          "book": "Guide to the Sabbat",
+          "page": 90
+        }
+      ]
+    },
+    {
+      "ability": "Body Control",
+      "sources": [
+        {
+          "book": "Hunter Book: Avenger",
+          "page": 66
+        },
+        {
+          "book": "Tradition Book: Akashic Brotherhood, Revised Ed.",
+          "page": 58
+        }
+      ]
+    },
+    {
+      "ability": "Bureaucracy",
+      "sources": [
+        {
+          "book": "Hunter: The Reckoning",
+          "page": 115
+        },
+        {
+          "book": "Kinfolk: Unsung Heroes",
+          "page": 49
+        },
+        {
+          "book": "Vampire Storytellers Companion",
+          "page": 28
+        },
+        {
+          "book": "Vampire: The Masquerade",
+          "page": 88
+        },
+        {
+          "book": "Vampire: The Masquerade, 2nd Ed.",
+          "page": 153
+        },
+        {
+          "book": "Wraith: The Great War",
+          "page": 109
+        },
+        {
+          "book": "Wraith: The Oblivion",
+          "page": 129
+        },
+        {
+          "book": "Wraith: The Oblivion, 2nd Ed.",
+          "page": 124
+        },
+        {
+          "book": "Cainite Lore Liege, Lord, and Lackey",
+          "page": 65
+        }
+      ]
+    },
+    {
+      "ability": "Camarilla Lore",
+      "sources": [
+        {
+          "book": "Players Guide to the Sabbat",
+          "page": 105
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 60
+        },
+        {
+          "book": "Vampire Storytellers Companion",
+          "page": 28
+        },
+        {
+          "book": "Changeling Lore Denizens of the Dreaming",
+          "page": 69
+        }
+      ]
+    },
+    {
+      "ability": "Chantry Politics",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 26
+        }
+      ]
+    },
+    {
+      "ability": "Chemistry",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 68
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 60
+        }
+      ]
+    },
+    {
+      "ability": "Chimerical Alchemy",
+      "sources": [
+        {
+          "book": "Kithbook: Nockers",
+          "page": 55
+        },
+        {
+          "book": "Church History Inquisition",
+          "page": 55
+        },
+        {
+          "book": "Church Lore Inquisition",
+          "page": 55
+        }
+      ]
+    },
+    {
+      "ability": "City Secrets",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 70
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 60
+        },
+        {
+          "book": "Vampire Storytellers Companion",
+          "page": 29
+        },
+        {
+          "book": "Chicago Chicago by Night",
+          "page": 54
+        },
+        {
+          "book": "Chicago by Night, 2nd Ed.",
+          "page": 60
+        }
+      ]
+    },
+    {
+      "ability": "Clan Knowledge",
+      "sources": [
+        {
+          "book": "Guide to the Camarilla",
+          "page": 70
+        },
+        {
+          "book": "Players Guide to the Sabbat",
+          "page": 105
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 61
+        }
+      ]
+    },
+    {
+      "ability": "Classics",
+      "sources": [
+        {
+          "book": "Land of Eight Million Dreams",
+          "page": 89
+        }
+      ]
+    },
+    {
+      "ability": "Computer",
+      "sources": [
+        {
+          "book": "Changeling: The Dreaming",
+          "page": 172
+        },
+        {
+          "book": "Changeling: The Dreaming, 2nd Ed.",
+          "page": 143
+        },
+        {
+          "book": "Hunter: The Reckoning",
+          "page": 115
+        },
+        {
+          "book": "Mage: The Ascension",
+          "page": 151
+        },
+        {
+          "book": "Mage: The Ascension, 2nd Ed.",
+          "page": 128
+        },
+        {
+          "book": "Mage: The Ascension, Revised Ed.",
+          "page": 114
+        },
+        {
+          "book": "Vampire: The Masquerade",
+          "page": 88
+        },
+        {
+          "book": "Vampire: The Masquerade, 2nd Ed.",
+          "page": 153
+        },
+        {
+          "book": "Vampire: The Masquerade, Revised Ed.",
+          "page": 127
+        },
+        {
+          "book": "Werewolf: The Apocalypse",
+          "page": 130
+        },
+        {
+          "book": "Werewolf: The Apocalypse, 2nd Ed.",
+          "page": 108
+        },
+        {
+          "book": "Werewolf: The Apocalypse, Revised Ed.",
+          "page": 117
+        },
+        {
+          "book": "Wraith: The Oblivion",
+          "page": 129
+        },
+        {
+          "book": "Wraith: The Oblivion, 2nd Ed.",
+          "page": 124
+        }
+      ]
+    },
+    {
+      "ability": "Computer Hacking",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 27
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 48
+        },
+        {
+          "book": "Guide to the Camarilla",
+          "page": 71
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 61
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 50
+        }
+      ]
+    },
+    {
+      "ability": "Conspiracy Theory",
+      "sources": [
+        {
+          "book": "Guide to the Technocracy",
+          "page": 154
+        }
+      ]
+    },
+    {
+      "ability": "Construct Politics",
+      "sources": [
+        {
+          "book": "Guide to the Technocracy",
+          "page": 155
+        }
+      ]
+    },
+    {
+      "ability": "Cosmology",
+      "sources": [
+        {
+          "book": "Mage: The Ascension",
+          "page": 151
+        },
+        {
+          "book": "Mage: The Ascension, 2nd Ed.",
+          "page": 128
+        },
+        {
+          "book": "Mage: The Ascension, Revised Ed.",
+          "page": 114
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 96
+        },
+        {
+          "book": "Mummy: The Resurrection",
+          "page": 62
+        },
+        {
+          "book": "Werewolf Players Guide, 2nd Ed.",
+          "page": 33
+        },
+        {
+          "book": "World of Darkness: Mummy, 2nd Ed.",
+          "page": 59
+        }
+      ]
+    },
+    {
+      "ability": "Court Lore",
+      "sources": [
+        {
+          "book": "Book of Madness, The",
+          "page": 143
+        }
+      ]
+    },
+    {
+      "ability": "Covert Culture",
+      "sources": [
+        {
+          "book": "Guide to the Technocracy",
+          "page": 155
+        },
+        {
+          "book": "Project Twilight",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "ability": "Criminology",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 68
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 61
+        }
+      ]
+    },
+    {
+      "ability": "Cryptography",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 27
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 48
+        },
+        {
+          "book": "Corax",
+          "page": 69
+        },
+        {
+          "book": "Guide to the Technocracy",
+          "page": 156
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 68
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 61
+        },
+        {
+          "book": "Vampire Storytellers Companion",
+          "page": 29
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 51
+        },
+        {
+          "book": "Culture Bastet",
+          "page": 82
+        },
+        {
+          "book": "Mage: The Ascension",
+          "page": 151
+        },
+        {
+          "book": "Mage: The Ascension, 2nd Ed.",
+          "page": 128
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 91
+        },
+        {
+          "book": "Werewolf: The Wild West",
+          "page": 133
+        }
+      ]
+    },
+    {
+      "ability": "Dead Languages",
+      "sources": [
+        {
+          "book": "Wraith Players Guide",
+          "page": 51
+        }
+      ]
+    },
+    {
+      "ability": "Demolition",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 68
+        }
+      ]
+    },
+    {
+      "ability": "Demonology",
+      "sources": [
+        {
+          "book": "Clanbook: Baali",
+          "page": 41
+        }
+      ]
+    },
+    {
+      "ability": "Denizen Lore",
+      "sources": [
+        {
+          "book": "Denizens of the Dreaming",
+          "page": 69
+        },
+        {
+          "book": "Denizens Quick & the Dead",
+          "page": 50
+        }
+      ]
+    },
+    {
+      "ability": "Destruction of Spirits",
+      "sources": [
+        {
+          "book": "Quick & the Dead",
+          "page": 51
+        }
+      ]
+    },
+    {
+      "ability": "Dis Lore",
+      "sources": [
+        {
+          "book": "Ends of Empire",
+          "page": 101
+        },
+        {
+          "book": "Discipline Familiarity Liege, Lord, and Lackey",
+          "page": 65
+        }
+      ]
+    },
+    {
+      "ability": "Divination",
+      "sources": [
+        {
+          "book": "Land of Eight Million Dreams",
+          "page": 89
+        }
+      ]
+    },
+    {
+      "ability": "Dream Lore",
+      "sources": [
+        {
+          "book": "Nobles: The Shining Host",
+          "page": 74
+        },
+        {
+          "book": "Ecology Gurahl",
+          "page": 86
+        }
+      ]
+    },
+    {
+      "ability": "Economics",
+      "sources": [
+        {
+          "book": "Guide to the Camarilla",
+          "page": 71
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 69
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 61
+        }
+      ]
+    },
+    {
+      "ability": "Electronics",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 69
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 62
+        }
+      ]
+    },
+    {
+      "ability": "Engineering",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 69
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 62
+        }
+      ]
+    },
+    {
+      "ability": "Enigmas",
+      "sources": [
+        {
+          "book": "Changeling: The Dreaming",
+          "page": 172
+        },
+        {
+          "book": "Changeling: The Dreaming, 2nd Ed.",
+          "page": 144
+        },
+        {
+          "book": "Kindred of the East",
+          "page": 85
+        },
+        {
+          "book": "Mage: The Ascension",
+          "page": 152
+        },
+        {
+          "book": "Mage: The Ascension, 2nd Ed.",
+          "page": 128
+        },
+        {
+          "book": "Mage: The Ascension, Revised Ed.",
+          "page": 114
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 92
+        },
+        {
+          "book": "Mummy: The Resurrection",
+          "page": 63
+        },
+        {
+          "book": "Vampire Storytellers Companion",
+          "page": 29
+        },
+        {
+          "book": "Werewolf: The Apocalypse",
+          "page": 129
+        },
+        {
+          "book": "Werewolf: The Apocalypse, 2nd Ed.",
+          "page": 108
+        },
+        {
+          "book": "Werewolf: The Apocalypse, Revised Ed.",
+          "page": 117
+        },
+        {
+          "book": "Werewolf: The Wild West",
+          "page": 133
+        },
+        {
+          "book": "World of Darkness: Mummy, 2nd Ed.",
+          "page": 59
+        },
+        {
+          "book": "Wraith: The Great War",
+          "page": 109
+        },
+        {
+          "book": "Wraith: The Oblivion",
+          "page": 129
+        },
+        {
+          "book": "Wraith: The Oblivion, 2nd Ed.",
+          "page": 125
+        }
+      ]
+    },
+    {
+      "ability": "Expert Knowledge",
+      "sources": [
+        {
+          "book": "Vampire Storytellers Companion",
+          "page": 31
+        }
+      ]
+    },
+    {
+      "ability": "Faerie Lore",
+      "sources": [
+        {
+          "book": "Fianna Tribebook",
+          "page": 48
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 69
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 62
+        },
+        {
+          "book": "Familiar Lore Ascension's Right Hand",
+          "page": 74
+        }
+      ]
+    },
+    {
+      "ability": "Feng Shui",
+      "sources": [
+        {
+          "book": "Stargazers Tribebook",
+          "page": 49
+        }
+      ]
+    },
+    {
+      "ability": "Finance",
+      "sources": [
+        {
+          "book": "Guide to the Technocracy",
+          "page": 156
+        },
+        {
+          "book": "Hunter: The Reckoning",
+          "page": 115
+        },
+        {
+          "book": "Vampire: The Masquerade",
+          "page": 88
+        },
+        {
+          "book": "Vampire: The Masquerade, 2nd Ed.",
+          "page": 154
+        },
+        {
+          "book": "Vampire: The Masquerade, Revised Ed.",
+          "page": 127
+        },
+        {
+          "book": "World of Darkness: Mummy, 2nd Ed.",
+          "page": 59
+        }
+      ]
+    },
+    {
+      "ability": "Forensics",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 69
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 62
+        }
+      ]
+    },
+    {
+      "ability": "Garou Astrology",
+      "sources": [
+        {
+          "book": "Rage Across the Heavens",
+          "page": 110
+        }
+      ]
+    },
+    {
+      "ability": "Gematria",
+      "sources": [
+        {
+          "book": "Kithbook: Nockers",
+          "page": 56
+        }
+      ]
+    },
+    {
+      "ability": "Geography",
+      "sources": [
+        {
+          "book": "Quick & the Dead",
+          "page": 51
+        },
+        {
+          "book": "Veil of Night",
+          "page": 157
+        }
+      ]
+    },
+    {
+      "ability": "Geology",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 69
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 62
+        }
+      ]
+    },
+    {
+      "ability": "Gremayre",
+      "sources": [
+        {
+          "book": "Changeling: The Dreaming, 2nd Ed.",
+          "page": 144
+        }
+      ]
+    },
+    {
+      "ability": "Healing",
+      "sources": [
+        {
+          "book": "Croatan Song",
+          "page": 112
+        },
+        {
+          "book": "Hearth Wisdom Ascension's Right Hand",
+          "page": 75
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 96
+        },
+        {
+          "book": "Vampire: The Dark Ages",
+          "page": 125
+        }
+      ]
+    },
+    {
+      "ability": "Hearth Wisdom",
+      "sources": [
+        {
+          "book": "World of Darkness: Sorcerer",
+          "page": 60
+        }
+      ]
+    },
+    {
+      "ability": "Heavy Weaponry",
+      "sources": [
+        {
+          "book": "Wraith: The Great War",
+          "page": 109
+        }
+      ]
+    },
+    {
+      "ability": "Heraldry",
+      "sources": [
+        {
+          "book": "Ashen Knight, The",
+          "page": 100
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 48
+        },
+        {
+          "book": "Libellus Sanguinis 1: Masters of the State",
+          "page": 95
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 70
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 62
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 51
+        }
+      ]
+    },
+    {
+      "ability": "Herbalism",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 27
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 49
+        },
+        {
+          "book": "Croatan Song",
+          "page": 112
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 97
+        },
+        {
+          "book": "Quick & the Dead",
+          "page": 53
+        },
+        {
+          "book": "Werewolf Players Guide",
+          "page": 34
+        },
+        {
+          "book": "Werewolf Players Guide, 2nd Ed.",
+          "page": 33
+        }
+      ]
+    },
+    {
+      "ability": "Heresy",
+      "sources": [
+        {
+          "book": "Cainite Heresy",
+          "page": 92
+        }
+      ]
+    },
+    {
+      "ability": "High Ritual",
+      "sources": [
+        {
+          "book": "Guide to the Traditions",
+          "page": 212
+        }
+      ]
+    },
+    {
+      "ability": "History",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 27
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 49
+        },
+        {
+          "book": "Guide to the Camarilla",
+          "page": 72
+        },
+        {
+          "book": "Mummy: The Resurrection",
+          "page": 63
+        },
+        {
+          "book": "Quick & the Dead",
+          "page": 52
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 70
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 63
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 51
+        },
+        {
+          "book": "Inquisition Lore Inquisition",
+          "page": 55
+        }
+      ]
+    },
+    {
+      "ability": "Investigation",
+      "sources": [
+        {
+          "book": "Changeling: The Dreaming",
+          "page": 172
+        },
+        {
+          "book": "Changeling: The Dreaming, 2nd Ed.",
+          "page": 145
+        },
+        {
+          "book": "Hunter: The Reckoning",
+          "page": 116
+        },
+        {
+          "book": "Mage: The Ascension",
+          "page": 152
+        },
+        {
+          "book": "Mage: The Ascension, 2nd Ed.",
+          "page": 129
+        },
+        {
+          "book": "Mage: The Ascension, Revised Ed.",
+          "page": 114
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 92
+        },
+        {
+          "book": "Vampire: The Dark Ages",
+          "page": 126
+        },
+        {
+          "book": "Vampire: The Masquerade",
+          "page": 89
+        },
+        {
+          "book": "Vampire: The Masquerade, 2nd Ed.",
+          "page": 154
+        },
+        {
+          "book": "Vampire: The Masquerade, Revised Ed.",
+          "page": 128
+        },
+        {
+          "book": "Werewolf: The Apocalypse",
+          "page": 129
+        },
+        {
+          "book": "Werewolf: The Apocalypse, 2nd Ed.",
+          "page": 109
+        },
+        {
+          "book": "Werewolf: The Apocalypse, Revised Ed.",
+          "page": 117
+        },
+        {
+          "book": "Werewolf: The Wild West",
+          "page": 133
+        },
+        {
+          "book": "Wraith: The Great War",
+          "page": 109
+        },
+        {
+          "book": "Wraith: The Oblivion",
+          "page": 129
+        },
+        {
+          "book": "Wraith: The Oblivion, 2nd Ed.",
+          "page": 125
+        },
+        {
+          "book": "Khurah Lore Nagah",
+          "page": 70
+        },
+        {
+          "book": "Kindred Lore Vampire Player's Guide",
+          "page": 70
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 63
+        }
+      ]
+    },
+    {
+      "ability": "Koldunism",
+      "sources": [
+        {
+          "book": "Blood Magic: Secrets of Thaumaturgy",
+          "page": 127
+        }
+      ]
+    },
+    {
+      "ability": "Law",
+      "sources": [
+        {
+          "book": "Changeling: The Dreaming",
+          "page": 172
+        },
+        {
+          "book": "Changeling: The Dreaming, 2nd Ed.",
+          "page": 145
+        },
+        {
+          "book": "Hunter: The Reckoning",
+          "page": 116
+        },
+        {
+          "book": "Mage: The Ascension",
+          "page": 152
+        },
+        {
+          "book": "Mage: The Ascension, 2nd Ed.",
+          "page": 129
+        },
+        {
+          "book": "Mage: The Ascension, Revised Ed.",
+          "page": 115
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 92
+        },
+        {
+          "book": "Vampire: The Dark Ages",
+          "page": 126
+        },
+        {
+          "book": "Vampire: The Masquerade",
+          "page": 89
+        },
+        {
+          "book": "Vampire: The Masquerade, 2nd Ed.",
+          "page": 154
+        },
+        {
+          "book": "Vampire: The Masquerade, Revised Ed.",
+          "page": 128
+        },
+        {
+          "book": "Werewolf: The Apocalypse",
+          "page": 129
+        },
+        {
+          "book": "Werewolf: The Apocalypse, 2nd Ed.",
+          "page": 109
+        },
+        {
+          "book": "Werewolf: The Apocalypse, Revised Ed.",
+          "page": 118
+        },
+        {
+          "book": "Werewolf: The Wild West",
+          "page": 133
+        },
+        {
+          "book": "Wolves of the Sea",
+          "page": 68
+        },
+        {
+          "book": "Wraith: The Great War",
+          "page": 109
+        },
+        {
+          "book": "Wraith: The Oblivion",
+          "page": 130
+        },
+        {
+          "book": "Wraith: The Oblivion, 2nd Ed.",
+          "page": 126
+        }
+      ]
+    },
+    {
+      "ability": "Law (Shari'a)",
+      "sources": [
+        {
+          "book": "Veil of Night",
+          "page": 157
+        }
+      ]
+    },
+    {
+      "ability": "Law Enforcement",
+      "sources": [
+        {
+          "book": "Guide to the Technocracy",
+          "page": 156
+        }
+      ]
+    },
+    {
+      "ability": "Linguistics",
+      "sources": [
+        {
+          "book": "Changeling: The Dreaming",
+          "page": 172
+        },
+        {
+          "book": "Changeling: The Dreaming, 2nd Ed.",
+          "page": 145
+        },
+        {
+          "book": "Croatan Song",
+          "page": 112
+        },
+        {
+          "book": "Hunter: The Reckoning",
+          "page": 116
+        },
+        {
+          "book": "Kindred of the East",
+          "page": 85
+        },
+        {
+          "book": "Mage: The Ascension",
+          "page": 152
+        },
+        {
+          "book": "Mage: The Ascension, 2nd Ed.",
+          "page": 129
+        },
+        {
+          "book": "Mage: The Ascension, Revised Ed.",
+          "page": 116
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 92
+        },
+        {
+          "book": "Mummy: The Resurrection",
+          "page": 63
+        },
+        {
+          "book": "Vampire: The Dark Ages",
+          "page": 126
+        },
+        {
+          "book": "Vampire: The Masquerade",
+          "page": 89
+        },
+        {
+          "book": "Vampire: The Masquerade, 2nd Ed.",
+          "page": 155
+        },
+        {
+          "book": "Vampire: The Masquerade, Revised Ed.",
+          "page": 128
+        },
+        {
+          "book": "Veil of Night",
+          "page": 158
+        },
+        {
+          "book": "Werewolf Players Guide, 2nd Ed.",
+          "page": 33
+        },
+        {
+          "book": "Werewolf: The Apocalypse",
+          "page": 129
+        },
+        {
+          "book": "Werewolf: The Apocalypse, 2nd Ed.",
+          "page": 109
+        },
+        {
+          "book": "Werewolf: The Apocalypse, Revised Ed.",
+          "page": 118
+        },
+        {
+          "book": "Werewolf: The Wild West",
+          "page": 133
+        },
+        {
+          "book": "Wraith: The Great War",
+          "page": 109
+        },
+        {
+          "book": "Wraith: The Oblivion",
+          "page": 130
+        },
+        {
+          "book": "Wraith: The Oblivion, 2nd Ed.",
+          "page": 126
+        }
+      ]
+    },
+    {
+      "ability": "Literature",
+      "sources": [
+        {
+          "book": "Changeling Players Guide",
+          "page": 49
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 70
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 64
+        }
+      ]
+    },
+    {
+      "ability": "Locale",
+      "sources": [
+        {
+          "book": "Hunter Book: Redeemer",
+          "page": 66
+        },
+        {
+          "book": "Lore Bastet",
+          "page": 83
+        },
+        {
+          "book": "Book of Shadows, The",
+          "page": 27
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 49
+        },
+        {
+          "book": "Changeling: The Dreaming, 2nd Ed.",
+          "page": 145
+        }
+      ]
+    },
+    {
+      "ability": "Lore",
+      "sources": [
+        {
+          "book": "Mage: The Ascension, 2nd Ed.",
+          "page": 129
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 92
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 51
+        }
+      ]
+    },
+    {
+      "ability": "Lore: Arcanum",
+      "sources": [
+        {
+          "book": "Halls of the Arcanum",
+          "page": 56
+        }
+      ]
+    },
+    {
+      "ability": "Lore: Magical Societies",
+      "sources": [
+        {
+          "book": "World of Darkness: Sorcerer",
+          "page": 61
+        }
+      ]
+    },
+    {
+      "ability": "Lore: Mythology",
+      "sources": [
+        {
+          "book": "Halls of the Arcanum",
+          "page": 56
+        },
+        {
+          "book": "Lore: Specialized Sorcerer, Revised Ed.",
+          "page": 51
+        }
+      ]
+    },
+    {
+      "ability": "Lore: Supernatural",
+      "sources": [
+        {
+          "book": "Halls of the Arcanum",
+          "page": 56
+        }
+      ]
+    },
+    {
+      "ability": "Lore: Supernatural Creatures",
+      "sources": [
+        {
+          "book": "World of Darkness: Sorcerer",
+          "page": 61
+        }
+      ]
+    },
+    {
+      "ability": "Lupine Lore",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 71
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 64
+        },
+        {
+          "book": "Mage Lore Vampire Players Guide, 2nd Ed.",
+          "page": 64
+        }
+      ]
+    },
+    {
+      "ability": "Magus Lore",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 71
+        },
+        {
+          "book": "Maieusis Mokolé",
+          "page": 53
+        }
+      ]
+    },
+    {
+      "ability": "Malkavian Time",
+      "sources": [
+        {
+          "book": "Clanbook: Malkavian",
+          "page": 27
+        }
+      ]
+    },
+    {
+      "ability": "Mathematics",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 71
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 64
+        }
+      ]
+    },
+    {
+      "ability": "Media",
+      "sources": [
+        {
+          "book": "Guide to the Technocracy",
+          "page": 157
+        }
+      ]
+    },
+    {
+      "ability": "Medicine",
+      "sources": [
+        {
+          "book": "Changeling: The Dreaming",
+          "page": 173
+        },
+        {
+          "book": "Changeling: The Dreaming, 2nd Ed.",
+          "page": 145
+        },
+        {
+          "book": "Hunter: The Reckoning",
+          "page": 117
+        },
+        {
+          "book": "Mage: The Ascension",
+          "page": 152
+        },
+        {
+          "book": "Mage: The Ascension, 2nd Ed.",
+          "page": 129
+        },
+        {
+          "book": "Mage: The Ascension, Revised Ed.",
+          "page": 116
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 93
+        },
+        {
+          "book": "Vampire: The Dark Ages",
+          "page": 126
+        },
+        {
+          "book": "Vampire: The Masquerade",
+          "page": 89
+        },
+        {
+          "book": "Vampire: The Masquerade, 2nd Ed.",
+          "page": 155
+        },
+        {
+          "book": "Vampire: The Masquerade, Revised Ed.",
+          "page": 128
+        },
+        {
+          "book": "Werewolf: The Apocalypse",
+          "page": 129
+        },
+        {
+          "book": "Werewolf: The Apocalypse, 2nd Ed.",
+          "page": 110
+        },
+        {
+          "book": "Werewolf: The Apocalypse, Revised Ed.",
+          "page": 118
+        },
+        {
+          "book": "Werewolf: The Wild West",
+          "page": 133
+        },
+        {
+          "book": "Wraith: The Great War",
+          "page": 109
+        },
+        {
+          "book": "Wraith: The Oblivion",
+          "page": 130
+        },
+        {
+          "book": "Wraith: The Oblivion, 2nd Ed.",
+          "page": 126
+        }
+      ]
+    },
+    {
+      "ability": "Memories",
+      "sources": [
+        {
+          "book": "Ends of Empire",
+          "page": 135
+        }
+      ]
+    },
+    {
+      "ability": "Metallurgy",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 71
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 64
+        }
+      ]
+    },
+    {
+      "ability": "Metaphysics",
+      "sources": [
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 93
+        },
+        {
+          "book": "World of Darkness: Sorcerer",
+          "page": 61
+        }
+      ]
+    },
+    {
+      "ability": "Meteorology",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 71
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 64
+        }
+      ]
+    },
+    {
+      "ability": "Military Science",
+      "sources": [
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 65
+        },
+        {
+          "book": "Military Tactics Hierarchy",
+          "page": 111
+        },
+        {
+          "book": "Mnesis Emulation Mokolé",
+          "page": 53
+        }
+      ]
+    },
+    {
+      "ability": "Moneylending",
+      "sources": [
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 98
+        },
+        {
+          "book": "Mummy Lore Dirty Secrets of the Black Hand",
+          "page": 70
+        }
+      ]
+    },
+    {
+      "ability": "Mythlore",
+      "sources": [
+        {
+          "book": "Changeling: The Dreaming",
+          "page": 173
+        }
+      ]
+    },
+    {
+      "ability": "Mythology",
+      "sources": [
+        {
+          "book": "World of Darkness: Mummy, 2nd Ed.",
+          "page": 61
+        },
+        {
+          "book": "World of Darkness: Sorcerer",
+          "page": 61
+        }
+      ]
+    },
+    {
+      "ability": "Nation Lore",
+      "sources": [
+        {
+          "book": "Croatan Song",
+          "page": 112
+        }
+      ]
+    },
+    {
+      "ability": "Naturalist",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 71
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 65
+        },
+        {
+          "book": "Navigation Corax",
+          "page": 69
+        }
+      ]
+    },
+    {
+      "ability": "Nunnehi Lore",
+      "sources": [
+        {
+          "book": "Uktena Tribebook",
+          "page": 47
+        }
+      ]
+    },
+    {
+      "ability": "Occult",
+      "sources": [
+        {
+          "book": "Changeling: The Dreaming",
+          "page": 173
+        },
+        {
+          "book": "Halls of the Arcanum",
+          "page": 57
+        },
+        {
+          "book": "Hunter: The Reckoning",
+          "page": 118
+        },
+        {
+          "book": "Land of Eight Million Dreams",
+          "page": 90
+        },
+        {
+          "book": "Mage: The Ascension",
+          "page": 152
+        },
+        {
+          "book": "Mage: The Ascension, 2nd Ed.",
+          "page": 129
+        },
+        {
+          "book": "Mage: The Ascension, Revised Ed.",
+          "page": 116
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 93
+        },
+        {
+          "book": "Vampire: The Dark Ages",
+          "page": 126
+        },
+        {
+          "book": "Vampire: The Masquerade",
+          "page": 89
+        },
+        {
+          "book": "Vampire: The Masquerade, 2nd Ed.",
+          "page": 155
+        },
+        {
+          "book": "Vampire: The Masquerade, Revised Ed.",
+          "page": 129
+        },
+        {
+          "book": "Werewolf: The Apocalypse",
+          "page": 130
+        },
+        {
+          "book": "Werewolf: The Apocalypse, 2nd Ed.",
+          "page": 110
+        },
+        {
+          "book": "Werewolf: The Apocalypse, Revised Ed.",
+          "page": 118
+        },
+        {
+          "book": "Werewolf: The Wild West",
+          "page": 134
+        },
+        {
+          "book": "Wraith: The Great War",
+          "page": 109
+        },
+        {
+          "book": "Wraith: The Oblivion",
+          "page": 130
+        },
+        {
+          "book": "Wraith: The Oblivion, 2nd Ed.",
+          "page": 127
+        }
+      ]
+    },
+    {
+      "ability": "Occult Sciences",
+      "sources": [
+        {
+          "book": "Halls of the Arcanum",
+          "page": 57
+        }
+      ]
+    },
+    {
+      "ability": "Organization Knowledge",
+      "sources": [
+        {
+          "book": "Quick & the Dead",
+          "page": 53
+        }
+      ]
+    },
+    {
+      "ability": "Paleography",
+      "sources": [
+        {
+          "book": "Halls of the Arcanum",
+          "page": 58
+        }
+      ]
+    },
+    {
+      "ability": "Parapsychology",
+      "sources": [
+        {
+          "book": "Halls of the Arcanum",
+          "page": 58
+        },
+        {
+          "book": "Sorcerer, Revised Ed.",
+          "page": 51
+        }
+      ]
+    },
+    {
+      "ability": "Pharmacopoeia",
+      "sources": [
+        {
+          "book": "Guide to the Technocracy",
+          "page": 158
+        }
+      ]
+    },
+    {
+      "ability": "Physics",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 71
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 65
+        }
+      ]
+    },
+    {
+      "ability": "Plague-Breeding",
+      "sources": [
+        {
+          "book": "Clanbook: Baali",
+          "page": 41
+        }
+      ]
+    },
+    {
+      "ability": "Poisons",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 28
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 49
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 98
+        },
+        {
+          "book": "Mummy: The Resurrection",
+          "page": 63
+        },
+        {
+          "book": "Werewolf Players Guide",
+          "page": 34
+        },
+        {
+          "book": "Werewolf Players Guide, 2nd Ed.",
+          "page": 33
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 52
+        }
+      ]
+    },
+    {
+      "ability": "Politics",
+      "sources": [
+        {
+          "book": "Changeling: The Dreaming",
+          "page": 174
+        },
+        {
+          "book": "Changeling: The Dreaming, 2nd Ed.",
+          "page": 146
+        },
+        {
+          "book": "Crusade Lore",
+          "page": 35
+        },
+        {
+          "book": "Hunter: The Reckoning",
+          "page": 118
+        },
+        {
+          "book": "Sorcerers Crusade Companion",
+          "page": 118
+        },
+        {
+          "book": "Vampire: The Dark Ages",
+          "page": 127
+        },
+        {
+          "book": "Vampire: The Masquerade",
+          "page": 89
+        },
+        {
+          "book": "Vampire: The Masquerade, 2nd Ed.",
+          "page": 155
+        },
+        {
+          "book": "Vampire: The Masquerade, Revised Ed.",
+          "page": 129
+        },
+        {
+          "book": "Werewolf: The Apocalypse",
+          "page": 130
+        },
+        {
+          "book": "Werewolf: The Apocalypse, 2nd Ed.",
+          "page": 110
+        },
+        {
+          "book": "Werewolf: The Apocalypse, Revised Ed.",
+          "page": 119
+        },
+        {
+          "book": "Werewolf: The Wild West",
+          "page": 134
+        },
+        {
+          "book": "Wraith: The Great War",
+          "page": 110
+        },
+        {
+          "book": "Wraith: The Oblivion",
+          "page": 130
+        },
+        {
+          "book": "Wraith: The Oblivion, 2nd Ed.",
+          "page": 127
+        }
+      ]
+    },
+    {
+      "ability": "Power-Brokering",
+      "sources": [
+        {
+          "book": "Guide to the Technocracy",
+          "page": 158
+        }
+      ]
+    },
+    {
+      "ability": "Powers",
+      "sources": [
+        {
+          "book": "Quick & the Dead",
+          "page": 52
+        }
+      ]
+    },
+    {
+      "ability": "Propaganda",
+      "sources": [
+        {
+          "book": "Guide to the Technocracy",
+          "page": 158
+        }
+      ]
+    },
+    {
+      "ability": "Psychology",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 28
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 50
+        },
+        {
+          "book": "Guide to the Camarilla",
+          "page": 72
+        },
+        {
+          "book": "Guide to the Technocracy",
+          "page": 159
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 72
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 66
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 52
+        },
+        {
+          "book": "Publishing Renegades",
+          "page": 93
+        }
+      ]
+    },
+    {
+      "ability": "RD Data",
+      "sources": [
+        {
+          "book": "Guide to the Technocracy",
+          "page": 160
+        },
+        {
+          "book": "Regional Secrets: New England Dark Colony",
+          "page": 40
+        }
+      ]
+    },
+    {
+      "ability": "Research",
+      "sources": [
+        {
+          "book": "Hunter: The Reckoning",
+          "page": 118
+        },
+        {
+          "book": "Vampire Storytellers Companion",
+          "page": 30
+        },
+        {
+          "book": "Rites Inquisition",
+          "page": 55
+        }
+      ]
+    },
+    {
+      "ability": "Rituals",
+      "sources": [
+        {
+          "book": "Kindred of the East",
+          "page": 86
+        },
+        {
+          "book": "Quick & the Dead",
+          "page": 53
+        },
+        {
+          "book": "Werewolf: The Apocalypse",
+          "page": 130
+        },
+        {
+          "book": "Werewolf: The Apocalypse, 2nd Ed.",
+          "page": 110
+        },
+        {
+          "book": "Werewolf: The Apocalypse, Revised Ed.",
+          "page": 119
+        },
+        {
+          "book": "Werewolf: The Wild West",
+          "page": 134
+        }
+      ]
+    },
+    {
+      "ability": "Romany Lore",
+      "sources": [
+        {
+          "book": "World of Darkness: Gypsies",
+          "page": 51
+        }
+      ]
+    },
+    {
+      "ability": "Rune-Lore",
+      "sources": [
+        {
+          "book": "Wolves of the Sea",
+          "page": 69
+        },
+        {
+          "book": "Sabbat Lore Players Guide to the Sabbat",
+          "page": 105
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 66
+        },
+        {
+          "book": "Vampire Storytellers Companion",
+          "page": 30
+        }
+      ]
+    },
+    {
+      "ability": "Sacred Scriptures",
+      "sources": [
+        {
+          "book": "Halls of the Arcanum",
+          "page": 58
+        },
+        {
+          "book": "Saurimancy Mokolé",
+          "page": 53
+        }
+      ]
+    },
+    {
+      "ability": "Science",
+      "sources": [
+        {
+          "book": "Changeling: The Dreaming",
+          "page": 174
+        },
+        {
+          "book": "Changeling: The Dreaming, 2nd Ed.",
+          "page": 146
+        },
+        {
+          "book": "Guide to the Technocracy",
+          "page": 161
+        },
+        {
+          "book": "Hunter: The Reckoning",
+          "page": 119
+        },
+        {
+          "book": "Mage: The Ascension",
+          "page": 153
+        },
+        {
+          "book": "Mage: The Ascension, 2nd Ed.",
+          "page": 129
+        },
+        {
+          "book": "Mage: The Ascension, Revised Ed.",
+          "page": 117
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 94
+        },
+        {
+          "book": "Vampire: The Dark Ages",
+          "page": 127
+        },
+        {
+          "book": "Vampire: The Masquerade",
+          "page": 90
+        },
+        {
+          "book": "Vampire: The Masquerade, 2nd Ed.",
+          "page": 155
+        },
+        {
+          "book": "Vampire: The Masquerade, Revised Ed.",
+          "page": 129
+        },
+        {
+          "book": "Werewolf: The Apocalypse",
+          "page": 130
+        },
+        {
+          "book": "Werewolf: The Apocalypse, 2nd Ed.",
+          "page": 110
+        },
+        {
+          "book": "Werewolf: The Apocalypse, Revised Ed.",
+          "page": 119
+        },
+        {
+          "book": "Werewolf: The Wild West",
+          "page": 134
+        },
+        {
+          "book": "Wraith: The Great War",
+          "page": 110
+        },
+        {
+          "book": "Wraith: The Oblivion",
+          "page": 130
+        },
+        {
+          "book": "Wraith: The Oblivion, 2nd Ed.",
+          "page": 127
+        }
+      ]
+    },
+    {
+      "ability": "Science Specialties",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 28
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 50
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 52
+        },
+        {
+          "book": "Scripture Inquisition",
+          "page": 55
+        }
+      ]
+    },
+    {
+      "ability": "Seamanship",
+      "sources": [
+        {
+          "book": "Wolves of the Sea",
+          "page": 69
+        }
+      ]
+    },
+    {
+      "ability": "Secret Code Language",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 28
+        },
+        {
+          "book": "Mage: The Sorcerers Crusade",
+          "page": 98
+        }
+      ]
+    },
+    {
+      "ability": "Seneschal",
+      "sources": [
+        {
+          "book": "Crusade Lore",
+          "page": 35
+        },
+        {
+          "book": "Sorcerers Crusade Companion",
+          "page": 119
+        },
+        {
+          "book": "Vampire: The Dark Ages",
+          "page": 128
+        }
+      ]
+    },
+    {
+      "ability": "Setite Lore",
+      "sources": [
+        {
+          "book": "Clanbook: Followers of Set, Revised Ed.",
+          "page": 61
+        },
+        {
+          "book": "Clanbook: Setites",
+          "page": 33
+        }
+      ]
+    },
+    {
+      "ability": "Sewer Lore",
+      "sources": [
+        {
+          "book": "Players Guide to the Sabbat",
+          "page": 105
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 66
+        },
+        {
+          "book": "Vampire Storytellers Companion",
+          "page": 31
+        }
+      ]
+    },
+    {
+      "ability": "Sign Language",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 29
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 50
+        },
+        {
+          "book": "Werewolf Players Guide",
+          "page": 35
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 52
+        }
+      ]
+    },
+    {
+      "ability": "Slang",
+      "sources": [
+        {
+          "book": "Wraith Players Guide",
+          "page": 53
+        },
+        {
+          "book": "Spirit Lore Ascension's Right Hand",
+          "page": 76
+        },
+        {
+          "book": "Book of Madness, The",
+          "page": 143
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 72
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 67
+        }
+      ]
+    },
+    {
+      "ability": "Spirit Names",
+      "sources": [
+        {
+          "book": "Book of Madness, The",
+          "page": 143
+        }
+      ]
+    },
+    {
+      "ability": "Stargazing",
+      "sources": [
+        {
+          "book": "Stargazers Tribebook",
+          "page": 50
+        }
+      ]
+    },
+    {
+      "ability": "Steward",
+      "sources": [
+        {
+          "book": "Ghouls: Fatal Addiction",
+          "page": 82
+        }
+      ]
+    },
+    {
+      "ability": "Stone Lore",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 29
+        }
+      ]
+    },
+    {
+      "ability": "Strategy",
+      "sources": [
+        {
+          "book": "Libellus Sanguinis 1: Masters of the State",
+          "page": 95
+        },
+        {
+          "book": "Tradition Book: Akashic Brotherhood, Revised Ed.",
+          "page": 59
+        }
+      ]
+    },
+    {
+      "ability": "Subculture",
+      "sources": [
+        {
+          "book": "Hunter Book: Redeemer",
+          "page": 66
+        }
+      ]
+    },
+    {
+      "ability": "Subdimensions",
+      "sources": [
+        {
+          "book": "Guide to the Technocracy",
+          "page": 163
+        },
+        {
+          "book": "Supernatural Lore Inquisition",
+          "page": 56
+        }
+      ]
+    },
+    {
+      "ability": "Symbolism",
+      "sources": [
+        {
+          "book": "Crusade Lore",
+          "page": 35
+        },
+        {
+          "book": "Sorcerers Crusade Companion",
+          "page": 119
+        }
+      ]
+    },
+    {
+      "ability": "Tactics",
+      "sources": [
+        {
+          "book": "Hunter Book: Defender",
+          "page": 70
+        }
+      ]
+    },
+    {
+      "ability": "Taxidermy",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 29
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 51
+        }
+      ]
+    },
+    {
+      "ability": "Tempest Lore",
+      "sources": [
+        {
+          "book": "Ends of Empire",
+          "page": 100
+        }
+      ]
+    },
+    {
+      "ability": "Terrorism",
+      "sources": [
+        {
+          "book": "Guide to the Technocracy",
+          "page": 163
+        }
+      ]
+    },
+    {
+      "ability": "Thanatology",
+      "sources": [
+        {
+          "book": "Clanbook: Cappadocian",
+          "page": 39
+        },
+        {
+          "book": "Dirty Secrets of the Black Hand",
+          "page": 71
+        },
+        {
+          "book": "Mummy: The Resurrection",
+          "page": 63
+        },
+        {
+          "book": "World of Darkness: Mummy",
+          "page": 18
+        },
+        {
+          "book": "World of Darkness: Mummy, 2nd Ed.",
+          "page": 61
+        }
+      ]
+    },
+    {
+      "ability": "Theology",
+      "sources": [
+        {
+          "book": "Book of Shadows, The",
+          "page": 29
+        },
+        {
+          "book": "Changeling Players Guide",
+          "page": 51
+        },
+        {
+          "book": "Sorcerers Crusade Companion",
+          "page": 120
+        },
+        {
+          "book": "Vampire Player's Guide",
+          "page": 72
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 67
+        },
+        {
+          "book": "Veil of Night",
+          "page": 158
+        },
+        {
+          "book": "Wraith Players Guide",
+          "page": 53
+        }
+      ]
+    },
+    {
+      "ability": "Toxicology",
+      "sources": [
+        {
+          "book": "Vampire Player's Guide",
+          "page": 72
+        },
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 67
+        }
+      ]
+    },
+    {
+      "ability": "Traditions",
+      "sources": [
+        {
+          "book": "Croatan Song",
+          "page": 113
+        }
+      ]
+    },
+    {
+      "ability": "Tribal Lore",
+      "sources": [
+        {
+          "book": "Uktena Tribebook",
+          "page": 46
+        }
+      ]
+    },
+    {
+      "ability": "Underworld Lore",
+      "sources": [
+        {
+          "book": "Dirty Secrets of the Black Hand",
+          "page": 71
+        },
+        {
+          "book": "Guide to the Sabbat",
+          "page": 90
+        }
+      ]
+    },
+    {
+      "ability": "Underworld Miscellanea",
+      "sources": [
+        {
+          "book": "Quick & the Dead",
+          "page": 53
+        },
+        {
+          "book": "Vampire Lore Ghouls: Fatal Addiction",
+          "page": 82
+        }
+      ]
+    },
+    {
+      "ability": "Vice",
+      "sources": [
+        {
+          "book": "Guide to the Technocracy",
+          "page": 164
+        }
+      ]
+    },
+    {
+      "ability": "Weather-Eye",
+      "sources": [
+        {
+          "book": "Sorcerers Crusade Companion",
+          "page": 120
+        }
+      ]
+    },
+    {
+      "ability": "Web Culture",
+      "sources": [
+        {
+          "book": "Digital Web 2.0",
+          "page": 100
+        }
+      ]
+    },
+    {
+      "ability": "Wood Craft",
+      "sources": [
+        {
+          "book": "Werewolf Storytellers Handbook",
+          "page": 63
+        }
+      ]
+    },
+    {
+      "ability": "Wyrm Lore",
+      "sources": [
+        {
+          "book": "Vampire Players Guide, 2nd Ed.",
+          "page": 67
+        },
+        {
+          "book": "Werewolf Players Guide",
+          "page": 35
+        },
+        {
+          "book": "Werewolf Players Guide, 2nd Ed.",
+          "page": 33
+        }
+      ]
+    }
+  ]
+}

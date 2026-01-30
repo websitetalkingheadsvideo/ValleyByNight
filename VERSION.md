@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.74
+## Current Version: 0.9.75
+
+**Date:** 2026-01-30  
+**Type:** Patch (Git sync: LotNR Bureau Cra Cy → Bureaucracy, fix_ocr_spelling path in FIX_OCR_README, OCR patterns)
+
+## Previous Version: 0.9.74
 
 **Date:** 2026-01-30  
 **Type:** Patch (Git sync: LotNR split-word fixes, fix_common_split_words path arg, Focusing Abilities pattern)
