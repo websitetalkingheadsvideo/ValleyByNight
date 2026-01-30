@@ -55,6 +55,20 @@ COMMON_FIXES = {
     r'\big in al\b': 'iginal',  # part of "original"
     r'\bput at i on\b': 'putation',  # part of "reputation"
     r'\bthe s it ate\b': 'the situate',  # might need context
+
+    # LotNR-style mid-word splits (capital fragment)
+    r'\bQui Ck\b': 'Quick',
+    r'\bdis Ciplines\b': 'Disciplines',
+    r'\bhierar Chy\b': 'hierarchy',
+    r'\boF\b': 'of',
+    r'\bpath oF\b': 'path of',
+    r'\bChara Cter\b': 'Character',
+    r'\bpro Cess\b': 'process',
+    r'\bMoral ity\b': 'Morality',
+    r'\bso Ft-hearted\b': 'soft-hearted',
+    r'\bovemento Fthe\b': 'Movement of the',
+    r'\bind ego otus\b': 'Mind',  # "ind ego otus" -> "Mind" in "Movement of the Mind" context
+    r'\bF a o Cusing Bilities\b': 'Focusing Abilities',
 }
 
 def fix_text(text: str) -> tuple[str, int]:
@@ -108,31 +122,41 @@ def process_file(file_path: Path) -> int:
         print(f"Error processing {file_path}: {e}")
         return 0
 
-def main():
-    folder = Path('reference/Books_md_ready_fixed_cleaned_v2')
-    
-    if not folder.exists():
-        print(f"Folder not found: {folder}")
+def main() -> None:
+    import sys
+    default_folder = Path('reference/Books_md_ready_fixed_cleaned_v2')
+    path = Path(sys.argv[1]) if len(sys.argv) > 1 else default_folder
+
+    if not path.exists():
+        print(f"Path not found: {path}")
         return
-    
-    print(f"Fixing common split words in {folder}...")
+
+    if path.is_file():
+        targets = [path]
+        label = str(path)
+    else:
+        targets = sorted(path.glob('*.md'))
+        label = str(path)
+
+    print(f"Fixing common split words in {label}...")
     print("=" * 80)
     print()
-    
+
     total_changes = 0
-    files_fixed = []
-    
-    for md_file in sorted(folder.glob('*.md')):
+    files_fixed: list[tuple[str, int]] = []
+
+    for md_file in targets:
         changes = process_file(md_file)
         if changes > 0:
             files_fixed.append((md_file.name, changes))
             total_changes += changes
             print(f"Fixed {md_file.name}: {changes} changes")
-    
+
     print()
     print("=" * 80)
     print(f"Done! Fixed {total_changes} instances across {len(files_fixed)} files.")
     print("=" * 80)
+
 
 if __name__ == '__main__':
     main()

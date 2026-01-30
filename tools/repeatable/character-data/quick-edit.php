@@ -191,6 +191,36 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['update_character'])) 
                 }
             }
         }
+
+        // Save backgrounds (form array backgrounds[Name] = level)
+        if (isset($_POST['backgrounds']) && is_array($_POST['backgrounds'])) {
+            db_execute($conn, "DELETE FROM character_backgrounds WHERE character_id = ?", 'i', [$character_id]);
+            foreach ($_POST['backgrounds'] as $name => $level) {
+                $cleanName = trim((string)$name);
+                if ($cleanName === '') {
+                    continue;
+                }
+                $level = max(0, min(5, (int)$level));
+                if ($level > 0) {
+                    db_execute($conn,
+                        "INSERT INTO character_backgrounds (character_id, background_name, level) VALUES (?, ?, ?)",
+                        'isi',
+                        [$character_id, $cleanName, $level]
+                    );
+                }
+            }
+            if (empty($message)) {
+                $message = "Character updated successfully!";
+                $message_type = 'success';
+            }
+        }
+
+        // Redirect after successful save so URL has id (and search_missing) and refresh shows correct state
+        if ($message_type === 'success') {
+            $redirect_search = !empty($_POST['redirect_search_missing']);
+            header('Location: quick-edit.php?id=' . (int)$character_id . ($redirect_search ? '&search_missing=1' : ''));
+            exit;
+        }
     }
 }
 
@@ -265,8 +295,33 @@ if ($character_id > 0) {
                 }
             }
             $character['_abilities'] = $existing_abilities;
+            // Load existing backgrounds (name => level)
+            $char_backgrounds = db_fetch_all($conn,
+                "SELECT background_name, level FROM character_backgrounds WHERE character_id = ? ORDER BY background_name",
+                'i', [$character_id]
+            );
+            $existing_backgrounds = [];
+            foreach ($char_backgrounds as $bg) {
+                $n = trim($bg['background_name'] ?? '');
+                if ($n !== '') {
+                    $existing_backgrounds[$n] = max(0, min(5, (int)($bg['level'] ?? 0)));
+                }
+            }
+            $character['_backgrounds'] = $existing_backgrounds;
         }
     }
+}
+
+// Background names for quick-edit (from backgrounds_master or fallback)
+$background_names = [];
+$bm = @db_fetch_all($conn, "SELECT name FROM backgrounds_master ORDER BY display_order ASC");
+if (!empty($bm)) {
+    foreach ($bm as $r) {
+        $background_names[] = $r['name'];
+    }
+}
+if (empty($background_names)) {
+    $background_names = ['Allies', 'Contacts', 'Influence', 'Mentor', 'Resources', 'Retainers', 'Status'];
 }
 
 // Get list of characters for dropdown
@@ -405,9 +460,14 @@ foreach ($abilities_rows as $r) {
                         ?>
                         <form method="POST" enctype="multipart/form-data" id="quick-edit-form">
                             <input type="hidden" name="character_id" value="<?php echo (int)$character['id']; ?>">
+                            <?php if ($show_missing_only): ?>
+                            <input type="hidden" name="redirect_search_missing" value="1">
+                            <?php endif; ?>
+                            <?php if (isset($missing_fields['abilities'])): ?>
                             <input type="hidden" name="abilities_json" id="abilities_json" value="<?php echo htmlspecialchars(json_encode($existing_abilities), ENT_QUOTES, 'UTF-8'); ?>">
+                            <?php endif; ?>
                             <?php if (empty($missing_fields)): ?>
-                                <div class="alert alert-success mb-3">All fields complete. Edit abilities below if needed.</div>
+                                <div class="alert alert-success mb-3">All fields complete. No missing data for this character.</div>
                             <?php elseif (!empty($missing_editable)): ?>
                                 <div class="alert alert-info mb-3">
                                     <strong>Missing:</strong> <?php echo htmlspecialchars(implode(', ', array_values($missing_editable))); ?>.
@@ -480,6 +540,7 @@ foreach ($abilities_rows as $r) {
                                 </div>
                             <?php endif; ?>
 
+                            <?php if (isset($missing_fields['abilities'])): ?>
                             <h5 class="mb-3">Abilities</h5>
                             <?php
                             $cats = ['Physical' => 'Physical', 'Social' => 'Social', 'Mental' => 'Mental', 'Optional' => 'Optional'];
@@ -498,6 +559,29 @@ foreach ($abilities_rows as $r) {
                                 </div>
                             </div>
                             <?php endforeach; ?>
+                            <?php endif; ?>
+
+                            <?php if (isset($missing_fields['backgrounds'])): ?>
+                            <h5 class="mb-3">Backgrounds</h5>
+                            <?php
+                            $existing_backgrounds = $character['_backgrounds'] ?? [];
+                            foreach ($background_names as $bgName):
+                                $currentLevel = (int)($existing_backgrounds[$bgName] ?? 0);
+                            ?>
+                            <div class="row align-items-center mb-2">
+                                <div class="col-md-4">
+                                    <label for="bg_<?php echo htmlspecialchars(preg_replace('/[^a-z0-9]/i', '_', $bgName), ENT_QUOTES, 'UTF-8'); ?>" class="form-label"><?php echo htmlspecialchars($bgName); ?></label>
+                                </div>
+                                <div class="col-md-2">
+                                    <select class="form-select form-select-sm" name="backgrounds[<?php echo htmlspecialchars($bgName, ENT_QUOTES, 'UTF-8'); ?>]" id="bg_<?php echo htmlspecialchars(preg_replace('/[^a-z0-9]/i', '_', $bgName), ENT_QUOTES, 'UTF-8'); ?>">
+                                        <?php for ($l = 0; $l <= 5; $l++): ?>
+                                        <option value="<?php echo $l; ?>" <?php echo $currentLevel === $l ? 'selected' : ''; ?>><?php echo $l; ?></option>
+                                        <?php endfor; ?>
+                                    </select>
+                                </div>
+                            </div>
+                            <?php endforeach; ?>
+                            <?php endif; ?>
 
                             <div class="d-flex flex-wrap gap-2">
                                 <button type="submit" name="update_character" class="btn btn-primary">Update Character</button>
