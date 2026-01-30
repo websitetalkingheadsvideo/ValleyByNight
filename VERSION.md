@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.72
+## Current Version: 0.9.74
+
+**Date:** 2026-01-30  
+**Type:** Patch (Git sync: LotNR split-word fixes, fix_common_split_words path arg, Focusing Abilities pattern)
+
+## Previous Version: 0.9.72
 
 **Date:** 2026-01-28  
 **Type:** Patch (Git sync: VbN character portrait generator skill, repeatable tools, image path fixes)
