@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.76
+## Current Version: 0.9.77
+
+**Date:** 2026-01-30  
+**Type:** Patch (Git sync: LotNR-formatted page breaks, paragraph breaks, lists)
+
+## Previous Version: 0.9.76
 
 **Date:** 2026-01-30  
 **Type:** Patch (Git sync: LotNR-formatted virtue difficulty lists, numbered lists; reference/Books LofNR updates)
