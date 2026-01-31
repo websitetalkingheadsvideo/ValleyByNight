@@ -4,22 +4,22 @@
   "documents": [
     {
       "doc": "lotnr_rules",
-      "path": "reference\\Books\\LofNR\\lotnr_rules.md",
-      "chunk_count": 290,
+      "path": "v:/reference/Books/LofNR/lotnr_rules.md",
+      "chunk_count": 338,
       "notes": "Rules + setting text; excludes fiction and lexicon."
     },
     {
       "doc": "lotnr_lexicon",
-      "path": "reference\\Books\\LofNR\\lotnr_lexicon.md",
-      "chunk_count": 69,
+      "path": "v:/reference/Books/LofNR/lotnr_lexicon.md",
+      "chunk_count": 3,
       "notes": "Lexicon + Mind's Eye Theatre terms; one chunk per entry."
     },
     {
       "doc": "lotnr_fiction",
-      "path": "reference\\Books\\LofNR\\lotnr_fiction.md",
+      "path": "v:/reference/Books/LofNR/lotnr_fiction.md",
       "chunk_count": 6,
       "notes": "Fiction segments; primarily 'Rendezvous: A Cautionary Tale'."
     }
   ],
-  "total_chunks": 365
+  "total_chunks": 347
 }

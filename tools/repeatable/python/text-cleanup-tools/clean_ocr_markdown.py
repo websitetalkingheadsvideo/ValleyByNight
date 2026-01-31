@@ -17,7 +17,7 @@ class MarkdownCleaner:
     """Cleans OCR-derived Markdown by merging hard-wrapped lines."""
     
     # Patterns for structural elements
-    HEADER_PATTERN = re.compile(r'^#{1,2}\s+')  # Only # and ##
+    HEADER_PATTERN = re.compile(r'^#{1,6}\s+')  # # through ######
     LIST_PATTERN = re.compile(r'^(\s*)([-*+]|\d+\.)\s+')
     BLOCKQUOTE_PATTERN = re.compile(r'^\s*>')
     TABLE_PATTERN = re.compile(r'^\s*\|.*\|\s*$')
@@ -347,12 +347,40 @@ Examples:
     )
     
     parser.add_argument(
+        '--file',
+        type=str,
+        metavar='PATH',
+        help='Single file to clean (overrides folder mode)'
+    )
+    
+    parser.add_argument(
+        '--out',
+        type=str,
+        metavar='PATH',
+        help='Output path for --file (default: overwrite input)'
+    )
+    
+    parser.add_argument(
         '--dry-run',
         action='store_true',
         help='Show what would change without writing files'
     )
     
     args = parser.parse_args()
+    
+    if args.file:
+        input_path = Path(args.file).resolve()
+        output_path = Path(args.out).resolve() if args.out else input_path
+        if not input_path.exists():
+            print(f"ERROR: File not found: {input_path}")
+            sys.exit(1)
+        output_path.parent.mkdir(parents=True, exist_ok=True)
+        cleaner = MarkdownCleaner(dry_run=args.dry_run)
+        changed, merges, hyphen_joins = cleaner.clean_file(input_path, output_path)
+        print(f"Merges: {merges}, Hyphen joins: {hyphen_joins}")
+        if args.dry_run and changed:
+            print("(DRY RUN - No file written)")
+        sys.exit(0)
     
     input_folder = Path(args.input)
     output_folder = Path(args.output)

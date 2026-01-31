@@ -3,8 +3,10 @@
 # Chapter 2: The Clans
 
 # Chapter 4: Disciplines
+# Chapter 5: Rules, Systems and Drama
 
 # Chapter 6: Storytelling
+# Chapter 7: Allies and Antagonists
 
 
 # CHAPTER ONE:
@@ -24,14 +26,16 @@ It’s also far more concerned with the stories to be told along the way than �
 
 Playing Mind’s Eye Theatre is like being in a movie. You and your friends are the characters, but there is no script. There may be a framework or setting that determines the parameters of the world around you, but you and the others around you are creating the story as you play. The “director” of this movie is the Storyteller, assisted by Narrators. The Storyteller creates the stage and the minor characters that the players interact with to tell this story.
 Most scenes in Mind’s Eye Theatre are played out in real-time — an hour in the make-believe world is 60 minutes long, and it takes up 60 minutes in the real world — and always in character. Players always remain in character during the game unless there is a rules dispute.
-CharaCters
+## Characters
+
 When you play Masquerade (the game for which this book was developed), you take on another persona, most likely a vampire. Your character can be almost anything — from any walk of life, age, creed, race or sex. The only limit is your imagination. When you create this character, you decide what she says or does. You decide where she goes and what choices she makes. During the game, you speak as your character, unless you’re resolving a rules dispute or talking to the Storyteller. Because most of what a Mind’s Eye Theatre player perceives around him depends on the other players, all players must be vivid and expressive.
 While the characters may direct the plot through their actions, the plot reacts in ways that direct the characters. For example, a character decides she wants to create a coffeehouse with space for people to perform, and she invites another vampire to sing for an evening — here, the characters are directing the plot through their actions. However, the plot reacts to this direction — the
 Sto-ryteller tells the characters that the performance has aroused some suspicious attention. It seems that the performing character reminds someone of another famous human singer, who also just happened to die at the same time the char-acter became a vampire. Thus is a story built in Mind’s
 Eye Theatre.
 Creating a character for Masquerade is easy, and it takes just a few minutes. Only a few things become necessary to define the basic capabilities of a character, and when they’re done, you canstart playing. There’s another phase to creating a character, though. A character is, by and large, like a person, and people aren’t just flat cardboard cutouts with a few numbers to represent what they can do. People have pasts, likes and dislikes, goals and dreams — all the intangible things that make a person into what other people see when he walks into a room or talks to them.
 It’s not much different from all the care that an actor or author takes when creating a character.
-So as you’re creating your character, think a little about where she comes from, what she wants out of her existence, what she’ll do to get it, what she loves and hates. Does your character love thunderstorms vampire: the masQuerade and laws oF the night
+So as you’re creating your character, think a little about where she comes from, what she wants out of her existence, what she’ll do to get it, what she loves and hates. Does your character love thunderstorms
+### Vampire: The Masquerade and Laws of the Night
 This book is based on the tabletop creation Vampire: The Masquerade. While it is not necessary to own or know Vampire to play this game, some players may find it helpful for more setting material.
 There are a number of Vampire-related books with material that can be adapted for live-action play.
 This edition of Laws of the Night has been created to update the rules forVampire’s live-action adaptation, Masquerade. Since the creation of the original rules, continuous play has seen a few bugs crop up, and this book is designed to correct some of the those problems. Those with older editions of Laws of the Night may find some significant differences between the two, and it is advised that a Storyteller rule which edition of Laws of the Night is canon for the game for the sake of clarity and consistency.
@@ -39,15 +43,19 @@ This edition of Laws of the Night has been created to update the rules forVampir
 
 and watch them from the window, or have they frightened her ever since she was a small child? Does your character want to build a business to replace one that was lost several years ago, and he’ll bargain with the Devil himself to get it? While certain personality quirks and details will emerge as you play, it’s a good idea to have the basics in place for the first time you walk into a room and meet the other characters.
 Characters are the heart and soul of the story. Without them, all the efforts of the Storyteller would be for nothing, and there would be no stories to tell.
-the storyteller
+
+## The Storyteller
+
 The Storyteller is the one who creates the world that the players move through. She creates a skeletal framework of setting and plot, then turns the characters loose to put flesh on its bones.
 More than that, she acts as an impartial judge when the rules are questioned, describes scenes that can’t be staged and even plays the parts of antagonists or other people with whom the characters interact. The Storyteller is usually assisted by Narrators, who play their own characters but are ready to answer rules questions when necessary.
 Storytelling is a demanding (and occasionally exhausting) task. A Storyteller must oversee the events to be certain that people have a good time, that the rules are being followed and that the story is running smoothly. Sometimes she must create plot elements on the spur of the moment or adjudicate between several quarreling players. In spite of all this responsibility, there is something immensely satisfying about watching the players create something remarkable with the plot elements given them. It really makes the headache all worthwhile.
 More on the Storyteller’s role can be found in Chapter Six.
-elegantly simple
+## Elegantly Simple
+
 This game was designed to be easy to play and easier to start. Character creation takes only a few minutes. The basic rules are simple, and they cover most of the encounters a new player will enter.
 Even very new players who have never played Masquerade or LARP before will find that this game takes little effort to pick up.
-how to use this Book
+
+## How to Use This Book
 This book gives you all the basic rules that you’ll need to start playing or Storytelling
 Masquerade.
 
@@ -58,12 +66,10 @@ Masquerade.
 # Chapter 3: Character Creation and Traits
 # playing.
 
-# Chapter 5: Rules, Systems and Drama
 play, followed with systems for combat, derangements, health, healing and more vampiric issues, such as the blood bond.
 
 # containing all the ins and outs of how to craft stories and deal with players.
 
-# Chapter 7: Allies and Antagonists
 # chapter provides a basic overview of some of the other denizens of the World of Darkness, as well
 as ways to incorporate them into stories.
 
@@ -71,34 +77,36 @@ as ways to incorporate them into stories.
 
 ## The Rules Thou Shalt Never Break
 These are the most important and immutable rules of MET, the ones that keep your game and your players safe from folks who either don’t care that you’re playing a game, or who take the game way too seriously. Always adhering to these rules will also keep your game amenable to law enforcement and other non-player folks.
-no touChing. no stunts.
+### No Touching. No Stunts.
 That means none whatsoever. It’s far too easy for things to get out hand in the heat of the moment.
 Save the stunts for your imagination. If you can imagine you’re a centuries-old vampire, then you can sure imagine you’re swinging on a chandelier or leaping across rooftops.
-no weapons
+### No Weapons
 No matter how careful you are. Whether it’s to prevent some fool from skewering himself on your new dagger, or to make sure the police don’t think you’re a threat, weapons of any sort are forbidden.
 Even fake or toy weapons, trained attack gerbils or laser pens are not allowed. Use item cards instead.
 
-## No Drugs Or Drinking
+### No Drugs Or Drinking
 Well, duh. Drinking and drugs do not inspire peak performance, and players who are so impaired are a threat to other players and the game. It’s one thing to play a character who is drunk or stoned, but another thing entirely to actually come to a game under the influence. At best it’s tasteless; at worst it’s illegal. Don’t do it.
-it’s only a game
+
+### It’s Only a Game
+
 If a character dies, if a plot falls apart, if a rival gets the upper hand, it’s just a game. You and the rest of the players are doing this for fun. Taking things too seriously, or taking character issues intoreal life, will only spoil everyone’s enjoyment, includingyours. Remember, playing a game should be fun — if you’re not having fun, it’s time for a reassessment.
 Remember to leave the game behind when the session’s over. “Soft” role-playing (conversing in character without challenges) can be fun, and there’s nothing wrong with talking about the game afterward at the local diner. On the other hand, demanding weekly clan meetings or trying to rouse your primogen to talk business at three in the morning signifies the need for a change in perspective.
-Be mindFul oF others
+### Be Mindful of Others
 Not everyone around you is playing the game, and it’s in extremely poor taste to try to feed off passers-by. You want to ensure that your game and your players are welcomed. Frightening people and getting the local law enforcement called on you is not the way to do it. This is especially true if you’re playing in a public area, such as a park. It can be a very good idea to alert local merchants and police before you play so they’re prepared. If you get curiosity-seekers, try to have some business cards on hand and offer to speak with them when you have more time.
-do what works For you
+### Do What Works For You
 We at White Wolf often call this proviso “the golden rule.” Your game may have special circumstances that require a few extra bells and whistles to the rules, or your troupe may find a way to handle something that works better for you. So long as people are having fun, go ahead and run with it — it’s your game.
 Likewise, if you see something that you want in your game that doesn’t appear with an MET system, then sit down and cobble up something that will work for you. If MET is all about telling stories, then here’s the part where the Storyteller improvises.
-have Fun
+### Have Fun
 Not “Win.” Not “Go out and conquer everyone else.” Just have fun, because in MET, it’s not about how the game ends, but what happens along the way.
 
 
 
-## The World Of Darkness
+## The World of Darkness
 On the surface, the World of Darkness is not too much different from our own. People are born, grow up, workanddie everyday. Plants grow, asdo skyscrapers. The same newspapers are sold on the street corner, and television is the same vast wasteland. Below the surface, however, is a much darker element, one that is fed by the violence and despair which the monsters need to fuel themselves. It is far less simple than throwing a coat of black paint over the veneer of our world. The monsters in the World of Darkness are far too real.
 Gothic-Punk is the term used to describe the attitude of the World of Darkness. The “Gothic” aspect is that of the sinister, looming shadow that permeates life. Buildings here, encrusted with gargoyles, dwarf all below them. Despair is a common theme, and any banner that offers hope or power can be certain of many followers. The divisions between haves and have-nots are nearly insurmountable gulfs. The world is a place of mystery — the sort that is uncovered in old books and which is best left alone for safety’s sake.
 On the other side of the coin is “Punk” — what many citizens of the World of Darkness have done in orderto give their lives meaning. They throw themselves against the walls of power in rebellion, often until they forget what they first despised. Crime is more prevalent and more violent. Speech is coarser, fashions are bolder, art seeks only to shock, and technology ensures that everyone gets it at the click of a button.
 This is the world that the Cainites call home.
-the kindred
+## The Kindred
 Vampires have been fixtures in myth and legend since time immemorial. Sometimes they’ve been monstrous creatures that swooped out of the darkness to ravish innocent virgins and steal babies from their cradles. Other times they’ve been predators of incredible beauty and sensuality, enchanting men and women alike, offering seductive death in return for a little nip. The vampires of the World of Darkness are all these things and more. There is enough about them that is similar to the vampires of myth and cinema, but more than enough that is dif-ferent to cause some fatal errors for would-be hunters. The Kindred, as many call themselves, are sentient, with some faint similarities to their mortal selves, but as different from mortals and myth as night from day.
 Some myths and suppositions about the undead (as well as the facts behind them) include:
 • Vampires are immortal. While it is possible to kill a vampire, he will not age or die of natural causes. He does not need water, food or air. For all intents and purposes, he is a corpse.
@@ -110,7 +118,7 @@ Some myths and suppositions about the undead (as well as the facts behind them) 
 • Vampires are repelled by garlic, they can’t cross running water and they cast no reflections. The first two myths are false. Only a few vampires of a particular clan cast no reflection.
 • A cross or other holy symbol can burn or repel a vampire. Generally untrue. The symbol itself is of little power. It is the faith of the person who wields the symbol that the vampire must fear.
 • Vampires will die from a stake through the heart. While they cannot die from such wounds, vampires are immobilized by wooden stakes, arrows, crossbow bolts and the like that pierce the heart, until the item is removed.
-the emBraCe
+## The Embrace
 The Embrace is the process by which a new vampire is sired, or created. It is almost never given lightly; after all, one more predator means more competition for resources. Some vampires Embrace to find companionship, others to have conspirators or dupes for schemes, others to “give back” something to Kindred society. Potential childer may be watched for weeks, months, even years, without ever realizing that they are being evaluated for immortality.
 To Embrace a new vampire, the sire drains her chosen victim of blood, similar to a normal feeding.
 However, when the victim has been drained to the point of death, the sire places a small amount of her own vampiric blood in the victim’s mouth. Even a drop or two can finish the process. The
@@ -120,7 +128,7 @@ Beast) that has also been awakened in him.
 Over the next few weeks, the young vampire, usually under the tutelage of his sire, undergoes a series of subtle (and not-so-subtle) transformations. He learns to use the powers granted by his blood, such as speed or how to understand animals. He learns of the raging Hunger inside him and how to rein it in. He learns to hunt, often a difficult proposition, as need begins to force him to prey on his former species. He also learns that the Embrace truly makes vampires the living dead.
 Subtle, higher emotions are the province of mortals, and he may find that he can no longer bring to mind true pleasure or joy or love, except in memory. It is this last that many young Kindred cannot endure during their first weeks. Some choose to greet the morning sun, rather than look ahead to years of cold comfort.
 For those vampires who survive their first nights, a much larger world awaits them.
-the Camarilla
+## The Camarilla
 The Camarilla dates back to the years of the Inquisition, as humanity turned its collective eye on vampires. The principle of the Masquerade took root and held sway, growing into the creation of today — a massive, global conspiracy of sorts, meant to deceive humanity about the monsters in its midst, and thus avert another purging. In these times of nuclear devices, powerful governments and enormous populations, the Masquerade has become both guiding principle and ironclad policy. Today, the Camarilla concerns itself with the Masquerade, maintaining harmonious relations between Kindred and kine, and thwarting the Sabbat.
 The Camarilla claims all vampires to be under its aegis and proclaims itself the greatest sect of
 Kindred across the globe. Indeed, it claims that all Cainites are already under its banner, regardless of those vampires’ wishes. In spite of the claims, only
@@ -157,7 +165,7 @@ Thou art forbidden to destroy another of thy kind. The right of destruction be-l
 
 
 may come and participate, no matter her age. Justicars are the only ones with the power to call for a conclave, which is not done often owing to the immense concerns of security. Conclave business may cover any subject, from discussing matters that concern the sect as a whole to trials of very powerful Kindred (such as princes) to a docket of questions presented in an open forum. In these halls, quite literally anything can happen — a sire may introduce his newest childe to his great-grandsire, the youth may come to party and socialize and elders may meet in secret gatherings to whisper about new concerns. For the young, it is an opportunity to fraternize with clanmates from across the country and a chance to see the political machinery of the Camarilla in action, perhaps even to affect it. For the elders, it is both social opportunity and a time to take stock of the sect, not to mention a priceless opportunity to cement deals and accomplish business.
-the Sabbat
+## The Sabbat
 The Inquisition also spawned another movement of the vampires, but a far more brutal one. As the witch-fires raged, the elder vampires took threw their childer into harm’s way in an effort to save their own hides. Finally, many of these abused childer rose up and rebelled against their sires.
 The resulting fight was called the Anarch Revolt. Fueled by youthful rage and strange secrets from
 Eastern Europe that allowed them to break the bonds of blood that held them to their sires, the anarchs wrought terror on the elders. But for all that they made the elders suffer, they also suffered losses to the Inquisition’s fires.
@@ -176,7 +184,9 @@ Thoughtheyfollowthe Traditionsandmayleanonewayoranother toward a particular sect
 The Gangrel were among the original founding members of the Camarilla, but they have chosen to leave the sect for their own reasons. The clan continues to lean toward many of the Camarilla’s principles, but it does not include itself in politics or parley. While rumors of the circumstances behind the sudden departure abound, the Gangrel themselves do not talk of it. Many even become hostile when pressed about the matter.
 Bloodlines are either Kindred who are some strange offshoot of a parent clan (which often does not acknowledge the relationship) or a former clan that has lost its founding Antediluvian (such as the
 Salubri). Bloodlines often walk perilous lines, as they make handy scapegoats, and many clans fear their strange abilities. Many are so rare that the average Kindred has never heard of them.
-the generation spread
+
+## The Generation Spread
+
 As creatures who are (for all effects) immortal, age carries great weight among the Kindred. More importantly, a Kindred’s generation can mark one as a youth or elder. Among some sects, age and generation can be one of the greatest barriers to ad-vancement of any kind. This is a case where it can be truly said that less is more.
 According to the most widely accepted history of the Kindred, vampires are descended from Caine, he of Biblical fame who murdered his brother Abel and was subsequently banished to the land of Nod by
 God. Caine’s vampirism was said to be a curse from God in punishment for the crime. Caine sired three childer, who sired their own childer, and so on, down into the modern nights.
@@ -193,20 +203,20 @@ Methuselahs.
 potent than the mortals they hail from, they are as insects among the older generations.
 Inexperienced and often heady with their new power, some run rampant. Most MET characters will be of these generations.
 • 14th and 15th Generations — These Kindred are so far removed from Caine that their blood has become weak and the Curse does not manifest as strongly in them. Some are rumored to be able to bear the light of the sun or eat food, although they can rarely sire childer. Older Kindred fear these modern youth, as The Book of Nod makes claim that the thin-blooded ones will herald the coming of Gehenna.
-ghouls — those who serve
+## Ghouls — Those Who Serve
 Many vampires are served and assisted by mortal retainers. After all, it’s quite useful to have someone who can go places a vampire cannot, such as outside (during the day) or into dangerous territory. Of these servants, there are those who have partaken of vampire blood without receiving the Embrace. These servants are known as ghouls.
 Ghouls receive a number of benefits from their servitude — they often develop limited vampiric powers (such as speed, strength and accelerated healing), they cease to age as long as they have vampire blood in them and grateful masters may reward them with considerable wealth and influence.
 By and large, ghouls are still mortal and able to enjoy all the pleasures of mortal life. However, as in all things, there are drawbacks. Many ghouls become subject to the blood bond, developing a “devotion” to their masters that deepens into aberration or psychosis. Not every vampire is kindly to his servants, and abuses are common. And ultimately, no mat-ter how prized, a ghoul is still a servant and disposable should the need arise.
 The Sabbat scorns ghouls by and large, with two exceptions. Revenant families are comprised of hereditary ghouls who are born with vampire blood already in their veins. Many are seared with physical disability or psychoses, which suits the purposes of their Tzimisce masters. A few are occasionally rewarded with the Embrace for faithful service. The other exception are the fleshcrafted nightmares created by the Tzimisce known as szlachta and vozhd. These monstrosities are used as attack dogs, war-machines and tides of horror in the campaign against the Camarilla.
 Most have been so reshaped and molded by their masters that they are not even remotely human-looking.
-who hunts the hunters
+## Who Hunts the Hunters
 It might be supposed from all this talk that the Kindred are powerful enough to run amuck, terrorizing humanity and using the world as their playground and abattoir. Centuries ago, certainly, vampires walked more openly among mortals, flaunting their immortality and supernatural powers, and stretching an iron hand over demenses of terrified mortals. Then the mortals finally rebelled, turning the collective might of the Church and humanity against their vampiric “lords.”
 For over 200 years, the Inquisition held the Kindred in terror, and in these nights, no Kindred who recalls those times wishes to see them come again.
 In these days, there are dedicated mortals who are aware of the vampiric threat and who hunt it with the fervor of their medieval predecessors. The most notable organization of hunters is the
 Inquisition, which bases itself in the Catholic Church but has opened itself to those of other denominations recently. Another, more schol-arly group called the Arcanum has observed the Kindred for over a century, and it shares its knowledge occasionally with more “active” hunters. Individual hunters, men and women driven by their knowledge of the Kindred and often touched by experience, follow personal crusades against the Damned, although recent nights have seen these solitaries band together into organized cells. And of course, there will always be nosy reporters who find things that don’t add up to their liking, or the detectives who insist on learning the truth behind a series of mysterious deaths.
 
 Most Kindred youth scoff at the notion of witch-hunters being able to scratch them, still giddy with their own power. Elders, however, recollect the nights when humanity’s basilisk eye fell on them, and they fear such a return in an era of automatic weapons, a mortal population in the billions and weapons that not even a Kindred could survive.
-in these nights…
+## In These Nights…
 The modern nights have seen a great deal of turmoil, and many Kindred fear that their world is about to turn over and reinvent itself, but none can say how that will happen or what will come of it.
 One of the most disturbing developments has been the change in the Assa-mites. Somehow, the
 Children of Haqim have managed to release themselves from the Tremere curse that prohibited them from diablerie, and they have returned to their old cannibalistic ways. They kill without contracts or discretion to sect, and many claim that there is a marked change in the clan’s general demeanor.
@@ -226,12 +236,14 @@ In nights of old, clans would only Embrace new members along fairly strict lines
 Occasionally, some new fledglings are abandoned by their sires, knowing little of the clans or the ways of vampiric society. These clanless, referred to as Caitiff, are often a threat to the
 Masquerade, and they rarely survive without instruction. Some vampires claim that such weak-blooded mules lack identifying clan characteristics and upbringing, and thus, they herald the coming End
 Times. These paranoid vampires hunt the clanless ones whenever they can.
-Bloodrights
+## Bloodrights
+
 Carrying the strengths of the founders, each clan holds certain particular strengths and weaknesses. These characteristics pass from sire to childe; in some rare instances, these characteristics do not manifest fully, but most often, a childe holds the same potential as the sire (limited, of course, by weaker generation). Bound together by blood, each member of a clan shares certain predilections.
 A vampire’s clan dictates the Disciplines that come most naturally. Though the Curse of Caine bestows a wide range of capabilities, the specialized powers of vampires manifest in different propensities among the clans. Thus, each clan or bloodline has three signature Disciplines, powers that are most common among members of that line and that come more easily than others.
 Conversely, each clan also passes on certain weaknesses and frailties to its childer. This effect may manifest as faults in personality, temperament or disposi-tion; in others, more mystical traits or even physical alterations appear. These weaknesses often tie to some apocryphal story of the clan’s founder, usually of some failing or curse on that luminary.
 Because clan members tend to be Embraced due to similarities in disposition and interest to the clan’s areas of expertise, most vampires of a given clan share certain abilities or benefits. As a result, a vampire’s clan also offers particular advantages that are common to all members. Even those individuals who are Embraced outside of a clan’s normal range are instructed or assisted quickly in developing these benefits. It is always the choice of the individual whether or not to follow such direction.
-allegianCes
+## Allegiances
+
 The Camarilla and Sabbat claim the nearly exclusive membership of certain lineages. Among the
 Camarilla, the six clans of the Brujah, Malkavians, Nosfer-atu, Toreador, Tremere and Ventrue predominate. In the Sabbat, leadership and the bulk of membership is claimed by the Lasombra and the Tzimisce, though a good portion of the sect is made up of antitribu members of the other clans.
 The Assamites, Followers of Set, Gangrel, Giovanni and Ravnos are largely independent, with the majority of their individuals holding membership in neither sect.
@@ -493,12 +505,7 @@ Once a part of the Camarilla, the Gangrel se-ceded abruptly. Theories as to the 
 This is not to say that all Gangrel are without affiliations — some remained in the Camarilla out of loyalty or friendship, while antitribu still claim allegiance in the Sabbat— it’s simply that the clan as a whole no longer bothers with politics, after several centuries of Camarilla support.
 Naturally, thiswithdrawalmakes Gangrel suspect in Camarilla courts, and without the sup-port of a justicar or Inner Circle member, they can be subjected to political persecution — but few
 Gangrel really care.
-Survivors, woods-men and animal-lovers make up the ranks of the Gangrel clan, so it’s no wonder that they have little use for political infighting or social ma-neuvering. Typically, a Gangrel watches
-
-## A Potential
-
-
-recruit for some time, judging the individual’s ruggedness, determination and wanderlust. Those who fail the selection process are either ignored, or they become an evening meal. Those few who are chosen are Embraced and then left to fend for themselves. The Gangrel sire typically watches from afar, only intervening in dire situations and waiting until the new childe has proven her merit before introducing himself and undertaking the process of instruction.
+Survivors, woods-men and animal-lovers make up the ranks of the Gangrel clan, so it’s no wonder that they have little use for political infighting or social ma-neuvering. Typically, a Gangrel watches for a potential recruit for some time, judging the individual’s ruggedness, determination and wanderlust. Those who fail the selection process are either ignored, or they become an evening meal. Those few who are chosen are Embraced and then left to fend for themselves. The Gangrel sire typically watches from afar, only intervening in dire situations and waiting until the new childe has proven her merit before introducing himself and undertaking the process of instruction.
 Roleplaying Hints: You come from a long line of hardy explorers, both living and undead. In the
 Dark Ages, the Gangrel were Norsemen and warriors; in the modern age, you are still explorers, and you maintain the warrior spirit. You don’t care about politics, or the Jyhad or sects, because they just don’t matter to you. With all of eternity, who wants to waste immortality on foolish social maneuvering? There are new horizons to see and realms to conquer. The animals are your kind and your kingdom, and you give fealty only to those worthy of the warrior’s heart.
 Disciplines: Animalism, Fortitude, Protean
@@ -630,7 +637,7 @@ Donata and Kevin watched Peter, frowning, as he left in a hurry.
 
 Without characters, there can be no game. Each player takes on the role of a character, a persona within the context of the game. To guarantee that all players use the same potentials and capabilities for their characters, the rules of Mind’s Eye Theatre provide a single simple set of guidelines for character creation.
 
-QuiCk CharaCter Creation proCess
+### Quick Character Creation Process
 • Step One: Inspiration — Who are you?
 — Choose a concept
 — Choose a clan
@@ -791,7 +798,7 @@ Disciplines desired, but your Storyteller may restrict you to the eight most com
 Animal-ism, Auspex, Celerity, Dominate, Fortitude, Obfuscate, Potence or Presence — unless you have an exceptional reason for learning a more specialized power.
 A complete list of Disciplines starts on p. 132. See the previous table for a quick list of your clan’s specialty Disciplines.
 Sabbat characters begin play with four Basic Disciplines.
-Choosing BaCkgrounds
+### Choosing Backgrounds
 You may take five Background Traits for your vampire. Each Background represents a tie to a particular agency, organization or resource, whether mor-tal or Cainite. You can have up to five
 Traits in any Background, though your Storyteller may prohibit certain Backgrounds based on your concept, and most Storytellers will scrutinize any Background above three Traits heavily.
 Background descriptions start on p. 93.
@@ -1184,10 +1191,7 @@ Expressive: Able to articulate your thoughts in interesting, meaningful ways.
 Uses: Producing art of any kind. Acting. Performing. Any social situation in which you want someone to understand your meaning.
 Friendly: Able to fit in with everyone you meet. Even after a short conversa-tion, most find it difficult to dislike you.
 Uses: Convincing others.
-Genial: Cordial, kindly, warm and pleasant. You are pleasing to be around. Uses: Mingling at
-
-## Parties. Presence. Generally Used In A Second Or Later Social
-Challenge with someone.
+Genial: Cordial, kindly, warm and pleasant. You are pleasing to be around. Uses: Mingling at parties. Presence. Generally used in a second or later Social Challenge with someone.
 
 
 Gorgeous: Beautiful or handsome. You were born with a face and body that is good-looking to most people you meet.
@@ -1443,14 +1447,19 @@ There are many ways to talk about subjects, and equally many ways to un-cover th
 Subterfuge is the art of reading these tricks and using them effortlessly.
 
 When someone confronts you with one of your lies, you can use the Subterfuge Ability in your own defense (if someone uses the Empathy Ability, for instance). By guiding a conversation, you can also unearth someone’s Negative Traits; if you manage to steer conversation to a particular topic in play, you can expend a Subterfuge Ability and make a Social Challenge to determine one of the subject’s Negative Traits related to the topic. Furthermore, because it deals in deceit and subversion, Subterfuge is used for retests with the Chimerstry Discipline.
-Survival
+
+### Survival
+
 Survival Ability represents a knowledge of terrain, how to find shelter, where to find water, techniques in hunting, edible and poisonous plants and fungi and so on. Though a vampire needs only blood to live, use of Survival makes hunting of animals much easier, and it provides some assurances of a safer existence for those who travel outside the cities.
 Hunting and avoiding danger in the wilderness usually relies ona Physical Chal-lenge. With
 Survival, you can substitute your Mental Traits if you so desire. Survival is also a measure of the character’s ruggedness and ability to overcome obstacles and injury, so it can be used in retests of the Fortitude and Protean Disciplines.
-aCkgrounds
+
+## Backgrounds
 Your character’s Backgrounds help to flesh out ties with mortal agencies, role in vampire society and beneficial resources available. Each Background is used dif-ferently. In general, having multiple Traits in a given Background allows for better or more common use of that benefit. Some
 Background directly affect your character’s creation and development; others are called into play later during the game.
-allies
+
+### Allies
+
 A few friends, either kept from your mortal days or made after the Embrace, help you out in your endeavors. You can make a few calls and cut a few deals to get assistance in a wide range of activities. Your Storyteller will probably require you to define how you keep your allies and their relations to you.
 Each Allies Trait possessed represents one person that you can call on for aid. Unlike Influence, your Allies have special talents that make them better than the average person on the street.
 Though your allies may not be aware of your vampire nature, they can be quite useful if directed properly.
@@ -1464,7 +1473,8 @@ Be wary of calling on your allies too often. An ally may call on you for mutual 
 Character Creation & Traits
 93
 
-ContaCts
+### Contacts
+
 With the right contacts in all walks of life, you can get a line on all sorts of useful information. Although having an “ear to the wall” doesn’t necessarily provide you with good help or loyal servants, it does mean that you know who to ask when looking for the movers and shakers behind the scenes.
 In game terms, your rating in Contacts allows you to discern rumors and infor-mation. When you call on your contacts, you make a few phone calls, check with likely snitches and grease a few palms. In return, you get rumors and information as if possessed of a certain amount of Influence. Doing so lets you find out exactly what’s going on in the city within a particular area. You can get information of a level equal to however many contacts you use. If you use Contacts x 3 on Industry, for instance, you get information as if digging up dirt with Industry x 3 Influence. The advantage of the Contacts Background is that contacts can be switched from place to place each game, getting information in different areas at your demand.
 Using Contacts for especially dangerous or secret information may require you to spend some money or perform a few favors, at the discretion of a Storyteller. On occasion, accidents can cause contacts in one area to dry up, such as a strike that af-fects your Industry contacts, or a particularly unlucky astronomical conjunction sends your Occult contacts running for the hills.
@@ -1802,7 +1812,7 @@ Character Creation & Traits
 105
 
 
-## Lood
+## Blood
 Blood is the power that fuels all vampires. Unable to enjoy the pleasures of mortal flesh or the comfort of more mundane gratification, only blood offers sustenance to Cainites. Vampires must consume blood to survive, and it is with the life contained in blood that a vampire draws on the strengths of the undead condition.
 Blood Traits do not have adjectives. Rather, each Trait simply represents a quantity of blood. In general, a vampire is assumed to have 10 pints of vitae in her system when full. Elder vampires, however, concentrate their blood more efficiently, and thus they have more than 10 Traits.
 Blood Traits can be represented with cards. When a character gains Blood Traits by feeding, take the cards from the victim. When Blood Traits are spent, give the cards to a Narrator or
@@ -2216,7 +2226,7 @@ using experienCe
 Experience Traits may be spent to purchase new Abilities, Traits and Dis-ciplines, improving a character and giving the player a sense of satisfaction as he watches his character grow more potent. The on p.124 chart lists the costs for improving Traits, Abilities and Disciplines.
 
 
-## Onverting Haracters From Revious Ditions
+## Converting Characters From Previous Editions
 Players of the previous version of Laws of the Night can easily convert characters built on those rules to the updated rules of the Final Nights. Simply follow the character creation outline, using the conversions listed here.
 Converting ConCept, Clan, morality, nature and demeanor
 Your character’s concept probably remains unchanged as a result of the rules — your background story is not affected by the vagaries of Traits.
@@ -2265,7 +2275,7 @@ Experience to acquire these new Disciplines, such as requiring the player above 
 Characters with Advanced Disciplines won’t be forced to buy new power levels since they won’t be improving (unless they reach elder levels). However, the utility of many of the lower-level powers means that they will often be bought in any case. There’s no real need to require players to do so; a character with Advanced Presence should not be forced to spend six Traits for Awe unless the player wants the power.
 Characters with Necromancy get the Sepulchre Path in exchange for their former levels of power.
 Similarly, Thaumaturgy users take their highest path as their primary path; if any other paths equal this rating, they should be kept but not allowed to improve until the primary path advances.
-Changing BaCkgrounds
+### Changing Backgrounds
 Influence Backgrounds remain unchanged. The same categories of Influence still exist, with the same levels, so they are no trouble for converted characters.
 The various other Backgrounds were not previously used in Laws of the Night, but converting characters now get two Traits to choose among those Backgrounds (except Sabbat, who get none).
 Characters who lowered generation with Negative Traits get back some of those Traits: since generation used to cost two Negative Traits per step, the character gets a refund of one Trait per step, usable as Bonus Traits. The character’s generation should not change as a result, though.
@@ -2279,7 +2289,7 @@ assigning virtue traits
 Converted characters take the appropriate Virtues for their Morality and assign a number of Virtue
 Traits equal to twice their Morality Traits. A character with two Humanity Traits would thus have one free Trait in Conscience, Self-Control and Courage, plus four additional Virtue Traits to spend.
 
-## Updating Flaws And Negative Traits
+### Updating Flaws And Negative Traits
 Most Negative Traits remain the same, though the Negative Social Trait
 Feral was added.
 Flaws, on the other hand, have some changes in Traits, and in some cases a few were removed entirely. The best solution is to use the rules from Laws of the Night’s previous editions until such time as the player can pay the difference to remove the Flaw. In the case that a Flaw’s Trait value actually increases, simply use those Traits to pay for any other differences in character cost, before adding to the character’s pool of Experience Traits with the difference.
@@ -2311,7 +2321,7 @@ Converting taBletop aBilities
 The Abilities in tabletop play are more extensive, and they tend to have higher levels, than in live-action.
 Instead of trying to take levels for every dot in Abilities, look at the high-est Abilities on the character sheet. Assign one level to each Ability with three dots, and an additional level to any
 Ability with four or five dots. If you come up with less than five Abilities, simply take the next highest one and take one level in it.
-Converting taBletop disCiplines and BaCkgrounds
+### Converting Tabletop Disciplines and Backgrounds
 Disciplines and Backgrounds in Laws of the Night correspond exactly to the levels in Vampire: The
 Masquerade. Take one level in each of the appropriate Traits for each dot in the tabletop game.
 The sole exception is the Influence Background. This Background runs from one to five dots in the tabletop game, but it is subdivided into several categories for live-action play. In Mind’s Eye
@@ -2431,7 +2441,7 @@ This Discipline is practiced by the Gangrel, Nosferatu, Ravnos and Tzimisce clan
 Nosferatu often establish equitable or friendly relationships with natural creatures, while the
 Tzimisce show their mastery over lesser life forms through this power. Ravnos find animals to be useful scouts, spies and meals in their nomadic travels.
 Use the Animal Ken Ability for retests with the Animalism Discipline.
-BasiC animalism
+### Basic animalism
 Feral Whispers
 By looking into the eyes of an animal and perhaps making some related sound (like growling or hissing), you are capable of communicating with the creature. Your predatory nature allows you to understand and cow natural creatures. De-pending on your predilections, you may deal with the animal equitably, or you may demand obedience. The animal may not wish to obey, but this
 Discipline’s power insures that the animal is at least favorably disposed toward you. Even if the animal is intractable, you may be able to force it into submission.
@@ -2475,7 +2485,7 @@ Exercising this power requires that you gaze into the eyes of the beast that you
 Once you have used this power, you suffer from some of the animal’s habits and instincts. For each
 Social Trait expended on the possession, you suffer from one Negative Trait of Feral. These Traits remain until you overcome the animal’s behavior patterns by expending Willpower Traits — one
 Willpower Trait for each Negative Trait removed. You should roleplay the animal’s mannerisms, even after returning to your own body, until you have managed to remove these Negative Traits, although you can slowly overcome them by spending Willpower Traits over time (you need not try to overcome all of the Feral habits at once).
-advanCed animalism
+### Advanced animalism
 Drawing Out the Beast
 Your mastery over the Beast Within is superb. Through your keen under-standing of predatory nature and the ability to influence other creatures, you can draw out your own Beast, pushing your frenzy on others. Animals and ghouls are favored targets for this power, turning them into killing machines, but you can attempt to exert your Beast on anyone.
 You must be on the verge of frenzy to use this Discipline. You exert this power in lieu of making any Virtue Test to control your frenzy. Instead, you make a Social Challenge against any individual within your line of sight. Doing so does not cost an action; you may attempt this feat any time that you are about to frenzy. If you win, your frenzy is transferred to the victim. The hapless recipient immediately enters frenzy and even manifests some of your personality, habits and speech patterns (which should be roleplayed — typically, characters with the Investigation Ability may recognize your man-nerisms in the victim). The victim remains in a normal frenzy, while you are unaffected and unable to frenzy for the duration. Should the victim die while frenzied, though, the screaming Beast immediately returns to you, requiring you to make a Virtue Test or to exercise this power again. If you lose, you instead frenzy immediately with no Virtue Test, and you are unable to fight against your frenzy with Willpower Traits.
@@ -2490,7 +2500,7 @@ The powers of Auspex grant the ability to see through supernatural deception. Wi
 Obfuscate. This bonus applies even when not using the full level of these Disciplines; an individual hid-ing with Mask of a Thousand Faces is still very difficult to detect if his mastery of Obfuscate has reached the Advanced level of Cloak the Gathering. A chance to see through supernatural concealment always exists, but doing so is much more likely if the searcher’s Auspex powers are highly advanced and/ or the opponent’s powers are weak. When using a Heightened Sense, hold up a number of fingers based on your power level (one for Basic, two for Intermediate, three for Advanced).
 The Auspex Discipline is most evidenced by the Tremere, Tzimisce and Malkavian clans, who use it for supernatural insights, and by the Toreador, who use their superb senses in conjunction with their artistic work.
 Auspex powers retest with the Investigation Ability. Willpower may be used for a single retest when attempting to spot an Obfuscated or otherwise hidden individual — in such a case, the vampire focuses his senses and concentrates fiercely, redoubling his searching efforts.
-BasiC auspex
+### Basic auspex
 Heightened Senses
 At will, you can extend your senses beyond human norms. Your eyesight and hearing sharpen to twice your mortal limits, while your touch, smell and taste are acute enough to pick out tiny details and features with ease. You can sharpen any or all of your senses, as desired. Furthermore, you sometimes have flashes of insight, preternatural awareness of danger or future events.
 Any senses augmented by this Discipline function at twice normal effectiveness, allowing you to spot hidden foes, hear the rustle of leaves outside, taste a bit of poison in vitae, read a hand-written note by touch and smell incense burned hours ago. Should your senses be overwhelmed, though, you may be stunned temporarily. A loud gunshot, a flash of light or other overwhelming factor can incapacitate one of your senses for a time, causing you to lose the benefits of this
@@ -2502,7 +2512,7 @@ By watching a subject carefully, you can pick out the glowing halo or aura that 
 You must be able to see your target in order to use Aura Perception. You then spend a turn in concentration and make a Static Mental Challenge with a difficulty of the target’s number of Mental
 Traits (more complex targets are harder to read). Since using this power is a Static Test, the target may not relent or retest. If you succeed, you may ask any one of the following questions, which the subject must answer truthfully: What is your current mood/emotional state? What sort of creature are you (human, vampire, werewolf, etc., subject to your knowledge of such beings and their auras)? Are you under the effects of any form of magic? Have you committed diablerie (see the section on diablerie, p. 216, for how long this form of detection is viable)? Was the last thing you said a lie?
 Aura Perception also allows you to sense ghosts and astral forms. If you suspect the presence of a ghost in an area, you may expend a Mental Trait to make a normal challenge to sense its aura, as described previously. If you succeed, you are aware of the ghost’s aura as a pale, flickering and amorphous light, though this is not sufficient for you to identify specific individual ghosts.
-intermediate auspex
+### Intermediate auspex
 The Spirit’s Touch
 Every being leaves traces of its thoughts and emotions wherever it goes. With this Discipline, you can read these psychic impressions from objects that others have handled, or that have strong emotional events tied to them. A simple touch and a moment of concentration unlocks a flood of images and sensations, possibly giving insight into the past of the item. Note that you may only use this power on objects or places, not on people, vampires, animals or other living creatures.
 By touching an item and expending a Mental Trait for a turn of concentration, you gain a brief flash of insight into any powerfully emotional events surrounding the object in question. Each use of this power on an object allows you to ask a Nar-rator one of the following questions, requiring a truthful answer: Who last touched this object (before me)? Was this object used in any emotionally stressful events, like a murder, a passionate romance or a maniacal rage? What strong emotions drove a particular subject holding this object? Answers to these questions gener-ally come in the form of images and impressions; you may not get exact names or lists of information, but instead distorted pictures, flashes of sudden passion and repeating sounds and voices. It is up to you to interpret such information.
@@ -2521,7 +2531,7 @@ Communication with Telepathy proceeds in impulses, images and feelings, and it d
 You may only use your Telepathy on one subject at a time, but this limit does not preclude someone else from using her own Telepathy on you. If you contact a subject and then use your Telepathy on someone else, your link to the first subject collapses and must be re-established later.
 Using Telepathy on a supernatural creature is a taxing exercise, and it requires the expenditure of a Mental Trait. This Trait is expended before the Mental Challenge is made to establish the link.
 Telepathy only functions on beings with conscious thought. The Discipline has no effect on constructs that are not self-aware or on normal animals.
-advanCed auspex
+### Advanced auspex
 Psychic Projection
 No longer confined to the physical plane, you can project your senses and awareness outside of your own body. Thus untethered, your consciousness roams various planes of thought, allowing you to spy on areas all over the world as an incorporeal spirit. Without the concerns of mass and matter, you easily pass through any physical barrier and move at the speed of thought to any place on Earth, under the orbit of the moon.
 While your senses are projected, your body lies in a comatose state, un-aware of its surroundings.
@@ -2545,14 +2555,14 @@ Use of Celerity at the speed of Swiftness or above is generally considered a bre
 Masquerade. Note that a vampire need not use her full level of Celerity; a vampire with Advanced
 Celerity could simply rely on the Basic levels if desired.
 
-BasiC Celerity
+### Basic Celerity
 Alacrity
 Your reflexes are finely honed. Even as you watch others act, you can spring into action, completing your movements before they can respond.
 By expending a Blood Trait, you gain the ability to preempt any physical actions taken in the same turn, as long as you are aware of them (a face-to-face mugging, yes — a sniper attack, no). Thus, if someone declares an attempt to pull out a hidden weapon and shoot at you, you can preempt that action to pull out your own gun and fire back (instead of being relegated to dodging). Similarly, if someone attacks an ally, you can preempt the action to get in the way and fight against the aggressor instead. If you attempt to preempt someone using Celerity or a similar speed-enhancing power, the character with the highest degree of Celerity acts first.
 Swiftness
 With shocking speed, you move faster than humanly possible. Even as oth-ers are recovering from events, you are making your next move.
 Expend a single Blood Trait to gain one additional action in your turn, in addition to your preemptive Alacrity (the costs are not cumulative). This additional action is taken at the end of the turn, after everyone has resolved single basic actions. If multiple people have additional actions like this, they are all resolved at the same time, after basic actions. You can thus swing a sword twice, run twice as far as normal in a turn, fire a gun and then duck behind cover, or otherwise perform multiple feats.
-intermediate Celerity
+### Intermediate Celerity
 Rapidity
 Even other Cainites are dazzled by your superhuman speed. You routinely catch dropped objects, and the speed of your passing whips clothes and loose debris about.
 Invoking all of your Celerity, at the cost of a single Blood Trait, enables you to use the Bomb in challenges of speed and agility. When performing an action where speed is of the essence, such as dodging an attack, throwing a knife or grabbing something out of someone’s hand, you can declare that you have Rapidity. Once thus declared, you may choose to use the Bomb, a fist with the thumb pointing upward; the Bomb defeats Rock and Paper, but loses to Scissors (the fuse is cut) and ties with other Bombs. This symbol is usable in any challenges of speed throughout the turn. However, you are not required to use the Bomb — it is simply another option.
@@ -2561,7 +2571,7 @@ Legerity
 Moving faster than the human eye can track, you blur across the landscape with the speed of a cheetah. Compared to you, bystanders are statues.
 You may activate your Legerity and all other Celerity levels for the turn at the cost of one Blood
 Trait. Your Legerity grants you one additional normal action at the end of the turn, in addition to your action from Swiftness (thus, you have at least three actions, a preempt and the Bomb in challenges of speed). Actions gained from Legerity come after basic and Swiftness actions, at the end of the turn.
-advanCed Celerity
+### Advanced Celerity
 Fleetness
 When you call on your blood, you burst into a whirlwind of motion. Your passing extinguishes small flames, whips up flurries of debris and sows confu-sion among slower-moving entities.
 
@@ -2572,7 +2582,7 @@ The Ravnos tricksters of India live in a world of illusions and dreams. Ac-cordi
 With the Chimerstry Discipline, the Ravnos call on the energy of dreams and imagination, giving it form and phantasmic substance. This Discipline’s powers can conjure almost any shade that springs to mind, though plausible effects or du-plications of things that the conjurer has experienced are much more likely to fool viewers and victims. With enough mastery, the vampire can even give such illusions shadow-substance, causing injury to others. These illusions vanish only if dispelled by the creator, if the illusionist ceases concentrating on her creations or if they are banished by a disbelieving opponent who exerts enough presence of mind to prove the illusion’s nonexistence (say, by shoving a hand through an illusory wall).
 Chimerical illusions can only create, not remove — thus, they may add ele-ments to a scene, but cannot cause something to become invisible. Chimerstry could cover up something’s features but not remove selected parts. Furthermore, each illusion is a single object; one use of Chimerstry cannot create an entire host of illusory sensations or items. Chimerical creations must be free-standing items or sensory effects — a chimerical piece of clothing could conceal someone’s real appearance, but a chimerical stake could not suddenly materialize inside of someone’s chest (though it could later seem to be thrust there).
 Retests with Chimerstry use the Subterfuge Ability, as they attempt to trick, deceive and mislead.
-BasiC Chimerstry
+### Basic Chimerstry
 Ignis Fatuus
 You generate a brief, static illusion that affects a single sense. You could cause the appearance of a rose in your hand, or make someone hear a low wind or feel the grating touch of sandpaper.
 This illusion has no real substance (and it cannot confine or injure your victims), but it can confound or mislead. The illusion cannot move in any fashion, although you can hold and move an illusion that you create. Thus, an illusion of a person cannot walk or fidget, but you can pick up and brandish an illusory knife.
@@ -2584,7 +2594,7 @@ Your illusions appeal to all of the senses. Though you still cannot harm or affe
 
 that seem real to any senses that you choose to affect. Thus, you can make a wall that appears solid, has a texture to the touch and smells of old dust and paint, but which has no real substance and can be passed through. Alternately, you could create a phantasm that lacks certain characteristics — you could cause a person to believe that you were holding a rose and brushing it against her cheek, provoking the feeling of the flower against the skin and the scent of the rose, when in fact you do not have a rose. These illusions are still incapable of independent movement.
 You must expend a Willpower Trait and a Blood Trait to create an illusion of this nature, and you must best your subjects in a Social Challenge. These illusions remain viable under the same conditions as phantasms created with Ignis Fatuus.
-intermediate Chimerstry
+### Intermediate Chimerstry
 Apparition
 No longer confined to mere static images, you can create an illusion that ap-peals to many senses and has its own capabilities. You must first create an illusion using one of the lesser powers of this Discipline. Then, you can give it a semblance of life. People can be made to move, water to drip and lights to shine in complex patterns. You can even create blatantly strange moving effects, like a knife that flies about threateningly or a human who comes apart and back together again.
 You need only spend a single Blood Trait to give animation to an illusion. Once so imbued, you cause the phantasm to move in one specific pattern that you desire. If you spend a complete turn in concentration, you can change this pattern at no extra cost. You must be present for your illusion to sustain itself.
@@ -2592,7 +2602,7 @@ Permanency
 You no longer need to be present to sustain your illusory creations. Any illusion that you make with Chimerstry can be imbued with Permanency, allowing it to persist even if you leave the area.
 Once you have created an illusion, the expenditure of a single Blood Trait grants Permanency. The phantasm remains until you dissolve it or until someone sees through the illusion in some fashion.
 Thus, you can cast an illusion over an area and then leave, allowing the illusion to persist.
-advanCed Chimerstry
+### Advanced Chimerstry
 Horrid Reality
 Your terrifying powers of deception extend directly into the mind of your victim. By focusing your efforts on one individual, you can create terrifyingly realistic phantasms. These illusions can affect the senses and move about in any fashion that you desire, but they affect only one victim.
 Because of the absolute realism of these phantasms, they can actually convince the victim that he has been injured or affected physically. An illusory fire created with this power burns its target, a phantom wall bars passage and a chimerical stake paralyzes a vampire if thrust through the heart.
@@ -2606,7 +2616,7 @@ The twisted psyches of Clan Malkavian house a passion and insight unmatched amon
 The Malkavians do not consider the secrets of Dementation “proprietary”; indeed, many seem almost eager to spread them. Curiously, other Cainite students of this Discipline need not be insane to use its powers. The Discipline does not seem to spread insanity, but rather, unlocks the doors of the psyche, exciting the madness that festers in every mind.
 Some Lunatics do not use Dementation consciously. These few instead catalyze the passions of their victims; such advisors and seers spread their insight to un-suspecting vampires, who in turn find themselves spiraling slowly out of control. Other Malkavians recognize, categorize and use the powers of Dementation like the otherregimented Disciplines. Strangely, themoststableandsane-appearing Lunatics are typically the ones who exert their Dementation with the least awareness.
 Dementation powers use the Empathy Ability for retests.
-BasiC dementation
+### Basic dementation
 Passion
 You can bring emotion to a fever pitch, accentuating any and all drives or fears that may occupy the mind of your subject. Alternately, you can diminish passions to whispers, quelling the most fierce emotional fires.
 You must engage your victim in a Social Challenge in order to use Passion. If you succeed, you enhance or dull the subject’s emotions, at your choice. If you heighten the target’s sensitivity, then the subject suffers from the Negative Men-tal Trait Impatient. If you dim the subject’s emotions, then the victim suffers the Negative Mental Trait Submissive. In either case, the target should roleplay the new condition. The incited Passion lasts for the remainder of the scene or for a full hour, whichever comes first. Successive uses of this Discipline on the same individual are not cumulative. The source of this affliction is not immediately obvious, though some elder vampires are aware of the mind tricks of the Malkavians, and they may deduce the source correctly if someone suddenly becomes manic or listless.
@@ -2616,7 +2626,7 @@ Freakish, fleeting nightmares follow your target. The surreal world seems to com
 
 You must expend a Blood Trait and engage in a Social Challenge with your victim in order to use this power. If successful, the subject suffers from fleeting nightmares, often plucked from his own subconscious. For the remainder of the evening, the victim suffers from the derangement
 Schizophrenia (see p. 214). Your use of this power is not im-mediately evident, although the victim should roleplay the effects of his new terrors.
-intermediate dementation
+### Intermediate dementation
 Eyes of Chaos
 Scrutinizing patterns, you can find wisdom in the cracks of reality. Your insight extends to seemingly random patterns and bizarre manifestations of chance. Watch-ing the interplay of events around you, you can sometimes discern complex patterns in them; observing people in action, you uncover their motives and secrets.
 You can delve into someone’s innermost motives by watching his simple actions. You must watch the target for a full turn, concentrating on his actions and motions. Then, you must engage in a Mental
@@ -2637,7 +2647,7 @@ Dementation (bought as an out-of-clan Discipline) could keep his Disciplines as 
 
 fall into a similar state. However, you must also test for Rötschreck, with a difficulty of three
 Traits. This frenzy lasts for an entire scene unless curbed with Willpower or other capabilities, and mortals do not remember their actions during this period of terror.
-advanCed dementation
+### Advanced dementation
 Total Insanity
 Madness lies around the nearest corner of every mind. Pulling insanity from the recesses of your target’s deepest memories and beliefs, you cause the hapless victim to succumb to a wash of overpowering lunacy.
 You must gain your target’s total attention for a full turn; many Malkavians do so with sudden tricks, non-sequiturs and bizarre actions. You must then expend a Blood Trait and engage your target in a Social Challenge. If you win, your victim begins to suffer from five derangements, chosen by a Storyteller or Narrator, for the remainder of the evening. This Discipline is not cumulative — you cannot pile up more derangements with successive uses.
@@ -2647,7 +2657,7 @@ Many Cainites are willful creatures, casting about their ambitions and bend-ing 
 Most Dominate powers require the victim to meet the Cainite’s gaze and to hear his commands. Simple sunglasses do not protect against this power; as long as the subject can see the dominator’s eyes, he can be affected. Furthermore, commands may be issued silently with Telepathy, as long as the victim meets the dominator’s gaze.
 Dominate is most common among the Giovanni, Lasombra, Tremere and Ventrue clans, who all exercise their authority unflinchingly.
 Retests with Dominate use the Intimidation Ability, as the vampire exercises his powerful will against your subject. A subject may attempt a retest by expend-ing a single Willpower Trait, and may only make one retest per challenge. A vampire of lower generation is always immune to a weaker vampire’s Dominate powers (although canny elders may feign otherwise).
-BasiC dominate
+### Basic dominate
 Command
 Exerting your will against a single individual, you can give a simple com-mand and demand obedience. A single word, even one embedded in a sentence and stressed slightly, becomes an imperative command to your victim. You need only meet your victim’s gaze. As long as your victim sees your eyes and hears your voice, your command carries the authority of your blood.
 You must meet the gaze of your subject and speak a single word, emphasized for control. This command must be simple and easily understood: “Stop,” “Run,” “Sleep,” “Scream,” “Follow,” and “Silence!” are all acceptable examples. The com-mand cannot be blatantly harmful or self-destructive. You then engage in a Mental Challenge with your opponent. If you win, your victim must follow the order directly and immediately. The command cannot last more than 10 minutes.
@@ -2656,7 +2666,7 @@ Like a hypnotist, you can impart commands to your subjects, even keying them on 
 
 aloud your commands, you can force the subject to obey your will. Unsuspecting victims can even be given commands that they must carry out later.
 By making a Mental Challenge against your subject, you can impart more complex or subconscious commands. You may give your subject any sort of command as long as it is not self-destructive. This command can either be triggered immediately (“Go and fetch me a mortal vessel”) or implanted with a particular trigger event (“When the prince ends court, sneeze loudly”). Only one such command may be implanted in a victim at a time, and unless other powers are used, the victim may well remember the process. Placing an order in your victim requires only as much time as it takes to speak the entirety of your order. Both the trigger and the suggestion must be clear and easily understandable.
-intermediate dominate
+### Intermediate dominate
 Forgetful Mind
 Your considerable powers of mental manipulation allow you to exert your influence in the very memories of your victims. By meeting your target’s gaze, you can draw out answers to questions and even alter the subject’s memory. You can erase entire blocks of the victim’s past, or replace recollections subtly with your own dictated constructions.
 To uncover, alter or erase memories, you must make a Mental Challenge against your victim. With success, you can change up to 15 minutes of your victim’s memories; additional blocks of time may be altered with additional challenges. You can simply erase areas of the past, leaving the victim with a “hole” in his recol-lections, or you can specify new memories to overwrite your victim’s experiences. By questioning your victim, you can also prompt him to elucidate his memories, repeating back his own experiences. As long as you gaze into the victim’s eyes, and the subject is unthreatened, you keep the target pacified and unable to move or resist your hypnotic powers.
@@ -2673,7 +2683,7 @@ Traits (or Willpower Traits for victims without
 vampiric Virtues), you tear down the victim’s mind and turn her into a virtual slave. The victim loses creativity and self-direction, instead following your orders to the letter automatically. You need not make tests to Dominate such a victim; the subject follows your commands even if you cannot make eye contact. Furthermore, the subject gains one free retest against the Dominate powers of any other Cainites.
 A victim of Conditioning has little free will or motivation, and he has trouble reacting to stimuli. As a result, such pawns cannot produce artistic works or engage in teaching; they lack the drive and flexibility to perform these sorts of tasks.
 If an enslaved subject manages to avoid all contact with her master for six game sessions, minus one session for each Willpower Trait spent (minimum of one full session), then the Conditioning is shaken off and the subject reasserts her individuality. A drone may also be deprogrammed by the successful use of this Discipline again, just as if trying to enslave the subject. The subject resists automatically, but if enough successes are accumulated to perform proper Conditioning again, then the target’s original persona can be restored.
-advanCed dominate
+### Advanced dominate
 Possession
 No mortal mind can resist the power of your will. With but a touch, you can move your consciousness into a mortal body, taking complete control of the shell and suppressing the victim’s mind. For the duration of this Possession, your own body lies comatose, while the mortal’s mind is unconscious and unaware of what transpires. Once you have touched a likely mortal subject (possibly requiring a
 Physical Challenge to get a firm grip), you may expend a Willpower Trait immediately and make a Mental Challenge to exercise Possession. If you win the challenge, you take control of the mortal body, while your own body collapses without volition. You must expend a Mental Trait to finish the possession; additional Traits allow you to use some of your Mental and Social Disciplines while in the host body, as shown on the table.
@@ -2693,7 +2703,7 @@ Fortitude
 All vampires are supernaturally resilient, capable of surviving blows, slashes, bullet wounds and falls with impunity. Some few, however, are even more powerfully resilient, able to shrug off the most severe wounds and even resist the powers of fire and sunlight for a short time. The Discipline of Fortitude represents such resilience, and its mastery al-lows survival of situations that would otherwise cause Final Death in lesser Cainites.
 The nomadic Gangrel and Ravnos clans, who must survive the rigors of the wilderness and travel, most commonly possess Fortitude. The Ventrue also exhibit this Discipline, often leading their charges into battle while shrugging off terrible attacks.
 Retests on Fortitude powers use the Survival Ability.
-BasiC Fortitude
+### Basic Fortitude
 Endurance
 While most Kindred still suffer the fatigue and pain of their injuries, you shrug off such hardships. Even the searing injuries of fire and sunlight can barely slow you.
 You do not suffer any wound penalties from anything past the Bruised health level, until you are struck into torpor or Final Death. When most vampires lose all ties due to being Wounded, or remain insensible and Incapacitated, you simply suffer the usual penalties of being Bruised.
@@ -2711,7 +2721,7 @@ Your vampiric endurance far surpasses that of any mortal, or even most other Cai
 When you suffer lethal or bashing damage, you may make a Simple Test immediately to avoid some of the damage. If you succeed, you remove one level of the damage from the amount suffered. Before making the test, you may choose to expend a stamina-related Physical Trait, allowing you to avoid a level of damage on a win or tie. Otherwise, you must win the test outright. Use of Resistance is reflexive; it does not count as an action.
 
 You may use this Discipline after reducing aggravated damage with Resilience, attempting to negate or reduce the damage entirely. Thus, if you suffer two health levels of aggravated damage from sunlight, you can test to reduce one to lethal damage with Resilience, and if successful, you may then attempt to remove that lethal damage with Resistance. You may only attempt this Discipline once on any given source of damage, so if you suffer two or more levels of damage from a single attack, you may only attempt to reduce a single level of damage from that attack.
-advanCed Fortitude
+### Advanced Fortitude
 Aegis
 Like a bar of steel, a mountain, an immutable constant, you resist all dam-age and survive any attack. Only truly monumental and persistent force can ever destroy you completely. Indeed, once the storm of fire and destruction has passed, you rise out of the chaos unscathed.
 At any point during a turn, you may declare the use of Aegis. You must expend a permanent Willpower
@@ -2723,7 +2733,7 @@ Melpominee-projected effects — engineered recordings, microphones, bullhorns, 
 The Daughters of Cacophony consider Melpominee to be their highest art and calling, a reflection of the inward music that moves them. As a result, they do not teach its secrets to outsiders, and indeed other Cainites, who do not hear the cosmic music of the spheres, find development of this
 Discipline difficult in the extreme.
 All Melpominee effects use Performance Ability for retests.
-BasiC melpominee
+### Basic melpominee
 The Missing Voice
 Like a ventriloquist, you can throw your voice to any place within your line of sight. However, you do not cause your voice to seem to emanate from there — with The Missing Voice, you actually cause your speech or song to generate from thin air. You can even carry on two conversations simultaneously, for The Missing Voice functions independently of your normal voice.
 You may use The Missing Voice at any time, as desired. However, if you use The Missing Voice while performing other actions, you suffer a two-Trait penalty on the resolution of challenges due to your split concentration.
@@ -2733,7 +2743,7 @@ No longer limited to sending your voice to a place you can see, you can project 
 The words and music of Phantom Speaker are audible only to your target, unless an eavesdropper with at least the Intermediate level of Auspex manages to listen in by defeating you in a Mental
 Challenge.
 You must expend one Blood Trait to project your voice for a single turn.
-intermediate melpominee
+### Intermediate melpominee
 Madrigal
 The crashing waves of your song carry the force of your own emotions. With inspiring verses, you raise others to the heights of passion; black melancholy afflicts the victims of your works of despair.
 You must make a Social Challenge against every target that you wish to affect with your Madrigal — you can affect anyone within hearing range, at your discretion. Willpower can be used to retest in defense against this power, as usual for Social Challenges. If you choose to affect multiple people, use a mass challenge as described in mob combat. Anyone who succumbs suffers the effects of an overwhelming surge of emotion, directed by your choice of song. The subjects should roleplay this wave of emotion as long as you perform no action other than singing.
@@ -2741,7 +2751,7 @@ You must sing for a full turn for Madrigal to take effect. The player need not a
 Siren’s Beckoning
 Pulling out the roots of turmoil and despair in a subject, you awaken insanity from the soul. Like the legends of faerie singers and mermaids, you can drive your target into desperation with your melodies.
 You must make a Social Challenge against your target to use the Siren’s Beckoning. If you win, the victim suffers from one randomly chosen derangement. You may carry about a stack of cards with various derangements and allow the victim to choose one at random, or you may have the derangement relate to the song you sang (such as regression for a children’s song or megalomania for a national anthem). This derangement lasts for the rest of the night.
-advanCed melpominee
+### Advanced melpominee
 Virtuosa
 Though most Daughters of Cacophony are limited to affecting a single target with hidden speech or insanity, your performance carries your music to as many listeners as you desire. You can extend your powers of Phantom Speaker or Siren’s Beckoning to multiple subjects.
 You need only expend one Blood Trait to use Phantom Speaker or Siren’s Beckoning on up to five targets at once. If you use Phantom Speaker, every subject hears the same words or music that you project. If you use Siren’s Beckoning, you make a mass Social Challenge against all of the victims at once. In either case, you can only use one power at a time — you cannot use Virtuosa to project speech to some people while singing to others simultaneously.
@@ -2757,7 +2767,7 @@ Path (communication with the Underworld) or the Bone Path (control of zombies) a
 the sepulChre path
 Necromancers generally begin their studies with the Sepulchre Path, the means of controlling ghosts. Through the Sepulchre Path, the vampire delves into the names of wraiths and the means by which they may be compelled to service. Many Giovanni call on “family wraiths” that have worked in service to the nec-romancers for several years, especially since most novices lack the ability to see or communicate with wraiths that they do not summon and control directly.
 The Sepulchre Path uses the Occult Ability for retests. Storytellers may choose to use Wraith Lore as a specialized Ability instead.
-BasiC sepulChre path neCromanCy
+### Basic sepulChre path neCromanCy
 Insight
 Gazing into the eyes of a corpse, you can see the image burned into its death. A moment’s concentration allows you to call up the memories of death itself.
 You need only expend a Mental Trait while gazing into the eyes of a corpse in order to use this power. You immediately see the last minute of the individual’s existence, generally as flashes of vision and startling sensations. This power can even be used on the corpse of a vampire who has reached Final Death, as long as he had not achieved Golconda and is not in a state of advanced decomposition. However, it does not function on vampires that are still ambulatory.
@@ -2768,7 +2778,7 @@ Spirit’s Touch. You must also have an object with which the ghost had some con
 
 
 You must make a Mental Challenge against the wraith that you call (see Oblivion, or use the guidelines for wraiths on p. 264 of this book). If the wraith wishes to be sum-moned, it can appear voluntarily. The wraith finds itself pulled to your location, and it becomes visible and audible to you. You may ask a single question of the ghost, which it must answer truthfully. After a single turn, the ghost fades away unless it chooses to remain or is coerced with further Necromancy. Even if the ghost stays nearby, you must use other Necromancy powers to see and hear it again, unless you exercise Summon Soul on it again.
-intermediate sepulChre path neCromanCy
+### Intermediate sepulChre path neCromanCy
 Compel Soul
 By binding a ghost with its name and your strength of will, you can force it to obey your commands.
 Once you have summoned a wraith, you may use Compel Soul to make it answer your questions and serve your bidding.
@@ -2778,7 +2788,7 @@ If you successfully Compel Soul, you may expend a temporary Willpower Trait to f
 Haunting
 Your powers of necromantic compulsion allow you to force a ghost to remain in a particular location, or near a specific object. With a cryptic phrase and a powerful command, you bind the wraith so that it may not leave.
 You must engage a wraith in a Social Challenge in order to link it to a particular location. If you win, the wraith cannot leave the room (or move more than 10 feet from a particular object) for the remainder of the evening. By spending a temporary Willpower Trait at the time of the Haunting, you can force the wraith to remain in the location for a full week; a permanent Willpower Trait extends this time to a year. If the wraith attempts to leave the location, it suffers one aggravated level of damage per turn outside the confines of the Haunting until it returns or is destroyed utterly.
-advanCed sepulChre path neCromanCy
+### Advanced sepulChre path neCromanCy
 Torment
 There is a reason that ghosts fear the most puissant necromancers of the Giovanni. Through the use of Torment, the necromancer can inflict actual dam-age on the dead, punishing them for their indiscretions.
 Though you remain in the physical world, you can make Physical Challenges against wraiths. You lash out with supernatural energies, though many Giovanni choose to direct the blow by striking physically. Your attacks inflict lethal damage on the wraith; a wraith discorporated with this power is banished to the deeper levels of the Underworld for a full month, unable to return.
@@ -2787,7 +2797,7 @@ The barriers between this world and the Underworld of the dead are permeable to 
 Ash Path. With this path, a necromancer can see, hear and com-municate with wraiths of all sorts, not just the ones that he can summon or control. Indeed, with enough skill, the Ash Path allows a vampire to cross the Shroud into the lands of the dead. This frightening power thus allows for myriad effects as the vampire reaches into the Underworld and deals freely with the denizens therein.
 
 Retests with the Ash Path rely on the Occult Ability. At the Storyteller’s discretion, the specialized Ability of Wraith Lore may be used instead.
-BasiC ash path neCromanCy
+### Basic ash path neCromanCy
 Shroudsight
 With minimal effort, you can see across the Shroud that separates the world of the living from the lands of the dead. The Underworld appears as a decaying and ghastly reflection of the mortal world, sometimes with structures lost to the past or unusual spirits flitting about. You can see (though not hear or feel) anything that transpires in the Underworld within your normal visual range, with a sort of “double sight” that does not hinder your normal vision.
 You need only expend a Mental Trait to look across the Shroud for the duration of the scene, or for an hour, whichever comes first.
@@ -2795,7 +2805,7 @@ Lifeless Tongues
 The babble of restless spirits is clear to you. By concentrating for a moment, you attune your senses to the Underworld, making yourself capable of both seeing and hearing all that transpires there around you. Furthermore, you can understand the language of the dead, so unless a ghost goes out of the way to use a language that you do not know, you can comprehend the words of any wraith.
 You must expend a Willpower Trait to attune yourself to the Underworld for a scene or an hour
 (whichever ends first).
-intermediate ash path neCromanCy
+### Intermediate ash path neCromanCy
 Dead Hand
 The structures and entities of the Underworld are very real to you. In a bizarre sort of half-life, you can stretch your physical form across the Shroud, interacting with beings and scenery there even as your physical body remains partially in the living world.
 By expending a Willpower Trait, you make yourself capable of touching the contents of the
@@ -2811,7 +2821,7 @@ lands at the end of the turn. Beware, though, for if you wander too deeply into 
 When you travel into the deadlands, you take with you only the inanimate objects that you carry.
 You cannot pull in other living or undead creatures. Furthermore, the laws of physics in the
 Underworld are not the same as those of the material world; guns do not work, and electrical devices fail. Generally, you must rely on your own powers.
-advanCed ash path neCromanCy
+### Advanced ash path neCromanCy
 Shroud Mastery
 Your control over the barrier between the living and dead worlds is nearly absolute. Instead of stepping across or watching the events of the Underworld, you can actually manipulate the fabric of the Shroud. By changing the strength of the web between worlds, you can make it easier to cross, or bar wraiths from exerting their influence on the material world.
 You must expend a Willpower Trait to exercise Shroud Mastery. Then, you may raise or lower the
@@ -2821,7 +2831,7 @@ the Bone path
 The Bone Path controls death’s physical ends. Corpses are the medium of power for such a vampire, and they can be imbued with unwholesome energies and animated to perform according to their master’s bidding. Zombies and soulless automatons are the hallmarks of the Bone Path.
 Retests of the Bone Path use the Occult Ability. The Storyteller may choose to use the specialized
 Ability of Thanatology instead, if desired.
-BasiC Bone path neCromanCy
+### Basic Bone path neCromanCy
 Tremens
 You can instill a corpse with a brief jolt of life. Though this power is insufficient to actually animate or control bodies, you can make them start or twitch spasmodi-cally. Naturally, this sight frightens those unaccustomed to the mobile dead.
 You need expend only one Blood Trait to use Tremens. The body then twitches or moves briefly in a fashion that you dictate, from sitting up to blinking to flail-ing an arm momentarily. If you expend a Physical Trait as well, you can implant a command into the corpse instead, causing it to move (once) as you direct when a certain event comes to pass. Corpses twitching in this fashion cannot actually attack or inflict damage, but they can certainly startle the unwary.
@@ -2830,7 +2840,7 @@ Your skills in the Bone Path allow you to animate the dead, bringing ambulatory 
 You must expend a Blood Trait and a Willpower Trait to use Apprentice’s Brooms on one or more corpses, and you must also spend one Mental Trait for each
 
 corpse so animated. These corpses have four health levels, and they do not suffer penalties for injuries, but they cannot fight. Corpses animated with this power continue to perform a single task as you direct until they complete the job or until time or damage destroys them. Cadavers continue to rot even after being imbued with this energy, though only at the slow rate of one health level per month.
-intermediate Bone path neCromanCy
+### Intermediate Bone path neCromanCy
 Shambling Hordes
 When you raise the dead to do your bidding, they come in skeletal hordes and withered masses that obey your every command, working and fighting until de-stroyed. Any body, no matter how decomposed, can be raised to serve your will. You must expend a Willpower Trait to call on the Shambling
 Hordes, and then invest one Mental Trait and one Blood Trait for each corpse animated. As long as the skeleton is reasonably intact, the corpse rises to do your bidding. Such guard-ians can perform tasks or fight for you with no regard to their own welfare. They typically have four health levels (though heavily damaged corpses may have less), and they suffer no wound penalties. These zombies fight with the same number of Physical Traits that they possessed in life (assume five Traits for randomly chosen corpses). They can be given orders to attack people or to guard an area, and they wait tirelessly until destroyed. Decomposition will continue for corpses in varying states of decay, although completely skeletal guardians will be unaffected.
@@ -2839,7 +2849,7 @@ Your mastery of animate flesh and spirit allows you to pull the soul from a livi
 With Soul Stealing, you draw out the victim’s soul, turning it temporarily into a wraith while leaving the body as an empty husk.
 You must expend a Willpower Trait and engage your target in a Social Challenge to use this power.
 If you succeed, the soul is torn from the body, forced to remain as a ghost for a full hour or scene. You can then use other Necromancy powers to bind the hapless spirit as long as it is separate from the body. The body itself continues to survive in a comatose state, a perfect host for other possessing spirits.
-advanCed Bone path neCromanCy
+### Advanced Bone path neCromanCy
 Daemonic Possession
 Though you are not dealing with actual infernal spirits, you can cast a will-ing soul into a fresh corpse or inanimate body. Thus embedded, the soul takes control of the body, turning it into a new physical home. Dead bodies continue to decay, and thus, they last no more than a week, but this trick provides a perfect temporary repose for a free-floating soul or summoned ghost.
 The body must have died within the same scene in which you use Daemonic Possession, or else it must be alive or undead and bereft of consciousness (for instance, if you have removed its soul or if the owner is currently using Subsume the Spirit, Possession or Psychic Projection). Bodies of vampires in torpor do not make suitable hosts, as the vampire’s spirit is still inside the torpid body. You need not make any challenge or expenditure — with an appropriate host and spirit, the process is automatic once you exert your power.
@@ -2849,7 +2859,7 @@ On learning Necromancy, the individual learns one Basic ritual. For each level o
 Necromancy learned, another ritual of the appropriate level is also learned; thus, a necromancer with Advanced Necromancy knows at least two Basic rituals, two Intermediate rituals and one Advanced ritual. Learning additional rituals requires the expenditure of time and Influence, as appropriate. Learning a ritual also requires that the vampire possess a level of Necromancy equal to or greater than the ritual’s level of power.
 Casting a ritual requires a Static Mental Challenge with a difficulty of nine Traits. Unless otherwise noted, Basic rituals take 10 minutes to cast, Intermediate rituals require 20 minutes and
 Advanced rituals take 30 minutes.
-BasiC neCromantiC rituals
+### Basic neCromantiC rituals
 Call of the Hungry Dead
 With 10 minutes of time and a hair from the head of your prospective victim (represented by a card), you afflict your target with the cacophonous moaning and wail-ing beyond the Shroud. The victim is assaulted with a welter of confusing voices and mournful howls. For the remainder of the scene or the next hour, the target suffers the Negative Mental Traits Oblivious x 2 due to the confusing hail of otherworldly noise.
 Eyes of the Grave
@@ -2857,7 +2867,7 @@ Over a time of two hours, you can concentrate the deathly emotions in a pinch of
 Once during the remaining evening, you may force the subject to fail a retest, as a shocking vision of death overcomes her. For instance, if you are engaged in combat with a victim of this ritual, who fails a test but calls for a retest with an Ability, you may use the effects of this ritual to negate the use of the Ability and force the victim to either find an alternate means of retesting or to suffer the outcome of the original challenge. Only you may invoke this benefit — other people may not use this ritual’s power against the victim, even if they are aware that you have cast the ritual.
 Spirit Beacon
 By casting this ritual over a severed human head, you turn it into a supernatural beacon for ghosts. Within the Shadowlands, the head appears to glow with an unearthly radiance, emitting light from its mouth, ears and eyes. Any wraith viewing the Underworld radiance from this head must expend a Willpower Trait or else be immediately drawn to the light for a full hour (or until the end of the scene). The head loses its light at the next sunrise, though it may be enchanted again.
-intermediate neCromantiC rituals
+### Intermediate neCromantiC rituals
 Cadaver’s Touch
 By chanting hideous paeans while melting a wax figure of your victim over a three-hour ritual, you cause the subject to lose all semblance of life. The mortal subject of this spell becomes much like a vampire, with a weak pulse, cool skin and a pale countenance. As long as the wax is melted without boiling off or solidifying, the ritual keeps the victim in such a pallid state.
 The mortal subject of Cadaver’s Touch gains the Negative Trait Repugnant for the duration of the ritual, as he literally resembles a walking corpse. However, this ritual can be very useful for sending a mortal unnoticed among vampires, or causing hunters to mistake a mortal for a Cainite.
@@ -2874,7 +2884,7 @@ Once you have attuned a finger bone with this ritual, you can use it to find Fet
 You can therefore determine whether a particular place, object or person is a Fetter for a wraith.
 By spending a turn testing a suspect item with the finger bone, you can ask a ghost or Narrator whether it is a Fetter to that particular ghost. Remember, though, that the finger bone only finds
 Fetters of its owner.
-advanCed neCromanCy rituals
+### Advanced neCromanCy rituals
 Grasp the Ghostly
 Casting this potent ritual requires a full six hours of chanting. Once com-plete, you reach into the Underworld, pulling a ghostly object from there and replacing it with an item of your own of roughly equivalent mass. You can only use this ritual on objects, not on people, vampires or ghosts.
 Once you have pulled an item from the Underworld, it maintains a solid existence, though its plasmic matter fades slowly from the real world. After a full year, the item in question vanishes forever. This ritual only works on objects that once existed in the real world and that now have ghostly relic equivalent. Artifacts — objects created by wraiths in the Underworld — are not affected by this power; attempting to bring them across will destroy them.
@@ -3026,7 +3036,7 @@ The Potence Discipline, as a physically augmenting Discipline, does not use any 
 
 task is at hand. That is, when striking someone while using Potence, one should use the normal
 Brawl Ability for retesting.
-BasiC potenCe
+### Basic potenCe
 Prowess
 You have unearthed a level of strength unusual in vampires. Where others would flag and fail, you redouble your efforts. Your mighty blows land with a force that kills even the hardiest mortals.
 With Prowess, all of your unarmed or clubbing attacks inflict lethal damage instead of bashing damage, if you so desire. Furthermore, once per game session, you may re-coup your lost strength, restoring all used Physical Traits of Brawny, Ferocious, Stalwart, Tough and Wiry. You must restore all of them at once — if you have some Traits of the appropriate type unused when you invoke
@@ -3036,7 +3046,7 @@ Your strength daunts even other Cainites. Few would dare to cross you in a test 
 You are far more likely than the average vampire to succeed in challenges of strength.
 With Might, you may make a single retest on any challenge of sheer physi-cal strength. Thus, if you are grappling, picking up a heavy object or breaking something, you can use Might as a retest. Once you invoke Might, it is the last test of the challenge; no further retests are allowed. Might costs nothing to use.
 You may use Might even if your opponent attempts to evade your strength. Your power is so startling that even an opponent who attempts to outlast you with stamina or to dodge you with quickness can be overcome, as long as you rely solely on your strength. Doing so generally requires you to bid a strength-related Trait, such as the types of Traits restorable with Prowess. Obviously, if you cannot exert your Might, you cannot make this retest — thus, you cannot use Might at range, with a thrown object (requiring speed and accuracy). You could use Might while trying to grab at a dodging opponent, but not when picking up and throwing a heavy object.
-intermediate potenCe
+### Intermediate potenCe
 Vigor
 Your vampiric strength is truly monumental. You can heft hundreds of pounds with ease, deliver enough force to crush bones in a single blow and hammer down any opponent of lesser strength.
 When you possess Vigor, you may use the Bomb in challenges of strength. The Bomb is a closed fist with the thumb sticking up. The Bomb defeats Rock and Paper, ties with other Bombs and loses to
@@ -3049,7 +3059,7 @@ Traits.
 
 
 If you run out of Physical Traits, you cannot use this Discipline. Once you have been completely exhausted, you can no longer enter challenges.
-advanCed potenCe
+### Advanced potenCe
 Puissance
 No mortal can match you, and even vampires tremble at your touch. The strength of your dead limbs is truly monumental, crushing anything that stands before you. With Puissance, you win all ties in tests of strength automatically. You need not compare Traits at all, unless some other factor would cause you to lose ties (such as wounds) or give the opponent the ability to win all ties as well (such as Fleetness). Furthermore, your incredible strikes inflict an additional health level of damage in combat. This bonus applies to any attack in which your strength is a factor — unarmed combat or combat with melee weapons. However, use of this incredible strength almost certainly breaks weapons that are not specially designed to stand it.
 presenCe
@@ -3059,7 +3069,7 @@ The Presence Discipline is most common among vampires of the Brujah, Follower of
 Ventrue clans. Brujah often use Presence to whip mobs into righteous anger, while Followers of Set influence their “customers” subtly. Toreador cultivate an air of artistic beauty, and Ventrue rely on their control of emotions to influence and rule their “subjects.”
 Unlike Dominate, which affects the rational mind directly, Presence affects emotions. Thus, it is a more subtle form of control. However, subjects of Presence are less predictable than Dominate victims. Also, whereas Dominate requires that the victim see the user’s eyes, Presence usually requires only that the user’s face be visible — some Presence powers do not even require that much exposure.
 Retests with Presence use the Leadership Ability.
-BasiC presenCe
+### Basic presenCe
 Awe
 The sight of you turns heads. When you let your charisma shine, you draw attention naturally.
 People try to be close to you, and even those disinclined to listen to you give some consideration to anything you say or do.
@@ -3069,7 +3079,7 @@ By hissing, baring your fangs and allowing your vampiric features to rise to the
 By making a Social Challenge against your foe, you strike terror into your victim. If you succeed, the subject flees your presence and tries to avoid you for the rest of the scene or hour. If cornered, the victim will still defend himself, but he will do his best to escape you. The subject defends himself normally, but he must risk an additional Trait if he wishes to attack or act against you, just as if he were wounded.
 
 Using this Discipline actually requires you (in character) to hiss, bare your fangs and otherwise make your vampiric countenance known, so it is a rather obvious breach of the Masquerade.
-intermediate presenCe
+### Intermediate presenCe
 Entrancement
 When you bring yourcharm to bear onan individual, youarealmost hypnotically magnetic. Individuals affected by your Presence find your manner irresistible.
 You must make a Social Challenge against a target to exercise Entrancement. If you succeed, the target is favorably disposed toward you, and she will not insult or attack you for the rest of the scene (or for an hour). Indeed, a formerly neutral subject wants to aid you and act as your friend; even a previously hostile target is rendered neutral. If you take a hostile action against the subject, of course, the Entrancement is broken immediately, and it may not be used against the subject again in the same scene.
@@ -3081,7 +3091,7 @@ Summon the victim again.
 You can only Summon someone that you know — at bare minimum, someone that you have had the chance to talk with for a few minutes, or someone who has been a target of your Presence powers before. If another individual then uses Summon on your subject, the victim heads to the summoner of the most powerful generation; if multiple summoners are of the same generation, the victim goes to the first one to exert the power. Should two vampires of equal generation simultaneously Summon the same victim, then the Narrator should make a Social Challenge between the two, with the victim heading to the victor.
 In the unusual case that Summon is used on a false identity (an identity created with Mask of a
 Thousand Faces, for instance), the Summon still brings the appropriate individual. If multiple individuals use the same false identity, then the first Summon calls whichever is nearest (generally, whichever one a Narrator finds first), and any further Summons then call the same individual. Thus, if three Malkavians using Mask of a Thousand Faces all pretend to be the same imaginary person, a Summon of that person brings whichever of the Malkavians is nearest and then calls that Malkavian for any future uses of Summon.
-advanCed presenCe
+### Advanced presenCe
 Majesty
 The force of your personality makes even the most stalwart tremble. When you exert your Majesty, heads bow, hearts break and spines quiver. None would dare to challenge you or risk your ire, for your ambiance is without peer.
 
@@ -3096,7 +3106,7 @@ protean
 Survival in the wilds is difficult indeed for vampires, who must find means to avoid sunlight, hunt and evade marauding Lupines. The shapeshifting Gangrel, though, have mastered this craft, and their
 Protean Discipline is thought to be a large factor in their success. With Protean, the vampire can alter parts of her body to draw on the strength of natural forces.
 Retests for Protean, if applicable, should use the Survival Ability.
-BasiC protean
+### Basic protean
 Eyes of the Beast
 With a moment’s pause, you can make your eyes able to see in absolute darkness. An eerie red glow emanates from your eyes, and you can see perfectly well in pitch-blackness.
 You need only declare your intent to use Eyes of the Beast, and at the end of the turn, the change is complete. You suffer no penalties at all for natural darkness while using this Discipline.
@@ -3104,7 +3114,7 @@ However, you do suffer the Negative Trait Bestial due to your red, glowing eyes,
 Feral Claws
 Like a wolf or bear, you have powerful claws capable of rending flesh. You can grow these claws at will with a simple effort; they sprout mystically from your otherwise normal hands, and similarly retract when you desire.
 By expending a Blood Trait, you cause Feral Claws to extend from your hand (and feet, if you so desire) at the end of the turn. These claws have the bonus Trait Sharp, useable in combat or in climbing, and they inflict aggravated damage.
-intermediate protean
+### Intermediate protean
 Earth Meld
 For a traveler in the wilds, Earth Meld is an invaluable power. With this Discipline, you sink into the bosom of the earth, able to sleep mystically undis-turbed within the soil.
 You must be touching raw soil to Earth Meld; you cannot sink through stone, wood, concrete or other substances. You immediately begin sinking eerily into the earth itself, taking with you only your clothing and small personal possessions that you carry (such as a cellular phone or a small pistol). Using the power protects you completely from daylight and allows you to sleep undisturbed.
@@ -3122,7 +3132,7 @@ In animal form, you can use any of your normal Disciplines except Necromancy, Se
 Thaumaturgy and Vicissitude (the inability to speak may make Dominate difficult, of course). Wolf form grants you the bonus Mental Traits Alert and Attentive, as well as the effects of Feral Claws and improved running speed. Bat form grants you flight capability and the benefits of the Merit:
 Acute Hearing, though you possess a maximum of three Physical Traits in that form.
 The animal forms granted by this power are in all ways physically identical to nor-mal animals, though of course they are dead, animated corpses as befits a vampire.
-advanCed protean
+### Advanced protean
 Mist Form
 Your control over your physical form is so complete that you can dissolve into a fine cloud of mist. You disperse into a floating cloud, still able to sense your sur-roundings and able to move about as you desire. This cloud form can slip through tiny cracks and holes, and it cannot be dispersed by the mightiest of natural winds.
 Assuming Mist Form costs one Blood Trait and takes three full turns (ad-ditional Blood Traits reduce this time at a one-for-one cost, with a minimum of one full turn at three Blood Traits). You may change back instantly at any time. You are immune to mundane physical attacks in this form, and you take one less level of damage from fire and sunlight automatically. You are still affected normally by mystical attacks, though of course you have no blood in this form, so much of
@@ -3133,7 +3143,7 @@ The deadly assassins of the Assamite clan study the Quietus Discipline. By trans
 Though many uses of Quietus may involve striking with a blood-covered hand or spitting vitae at one’s foes, this transformed blood is more of an alchemical poison than a form of vitae. Thus, blood used with this Discipline cannot later be gathered and used to form blood bonds or as a focus for Thaumaturgy.
 Most Quietus powers are not directly opposed, so they do not use retests. Using Quietus with a physical attack, for instance, simply involves the normal uses of Brawl, Melee and similar
 Abilities in the attack. If spitting blood at an opponent (a function of several different powers), use Athletics for a retest.
-BasiC Quietus
+### Basic Quietus
 Silence of Death
 The first skill learned by a true assassin is the ability to travel in complete stealth. The mystical Silence of Death permits you to extend a field of silence about yourself, blocking all screams, gunshots, explosions and so on.
 When you use Silence of Death, you muffle all sound within 10 feet of yourself. Although sound from outside can still come into this radius and be heard, no sound emanates from anything or anyone close to you. Using this power costs one Blood Trait to invoke, and the effect lasts for a scene or an hour.
@@ -3157,7 +3167,7 @@ Baal’s Caress
 The toxins in your vitae are sufficient to burn through any flesh, living or undead. This poison melts through flesh once it comes in contact with the bloodstream, leaving other materials unharmed. Indeed, even Cainites without blood in their systems can be affected if the poison enters through a wound.
 To use Baal’s Caress, you must spend a turn to transform your vitae into poison and then put that blood on an object or weapon of dagger-size or larger. Each Trait of blood so placed on a bladed or piercing weapon causes that weapon to inflict ag-gravated damage with one strike. Thus, if you place three Traits of blood on a knife with this power, then the next three successful strikes with the knife inflict aggravated wounds. The weapon in question must penetrate the victim’s flesh with a successful blow; blunt weapons or unarmed strikes, for instance, cannot use this vitae with any appreciable effect. Blood cannot be placed on bullets; not enough can be applied for appreciable damage, and most of it will be lost during the flight and initial impact.
 Note that you must actually place this blood on something and it must enter the target’s system in order to have any effect. You cannot randomly bleed on a subject and inflict damage.
-advanCed Quietus
+### Advanced Quietus
 Taste of Death
 Your concentrated blood is so powerfully toxic that you can merely spit it at a foe and watch it burn through her skin. The ichor evoked with this power does not affect metal or stone, but melts through flesh and bone, reducing it to smoking sludge.
 You can spit a single Blood Trait at a victim with this power (this counts as a single action). If you successfully strike with a Physical Challenge, the victim takes one level of aggravated damage.
@@ -3170,7 +3180,7 @@ Follower as something far different from human — or even from other vampires. 
 
 Set attribute this facet to their capacity to sway the emotions of their victims, digging out buried secrets and bringing hidden vices to the surface.
 Most Serpentis powers involve no challenge to use, or are simply used with combat. Any power used for a direct challenge should use Subterfuge for a retest.
-BasiC serpentis
+### Basic serpentis
 The Eyes of the Serpent
 The legendary hypnotic gaze of the serpent is yours. When you meet the gaze of a victim (who need only be able to see your eyes), your eyes become gold with large black irises, capturing the attentions of your subject. As long as you hold the gaze of the target, he remains completely immobilized.
 You must make a Social Challenge to affect your target with this power. If you succeed, the target is paralyzed as long as you hold his gaze with your own. Of course, if the target is attacked or injured, the hypnotic spell breaks.
@@ -3180,7 +3190,7 @@ You need only decide to use The Tongue of the Asp in order to gain the ben-efits
 Your tongue inflicts one aggravated wound with a successful strike (requiring a Physical
 Challenge); furthermore, on successive turns you can drain blood from the victim as if drinking directly. This draining even causes the Kiss, paralyzing mortal victims with helpless fright and ecstasy.
 The Tongue of the Asp is highly sensitive to vibrations. Using this Discipline while in darkness allows you to reduce the penalty Traits for natural darkness by one.
-intermediate serpentis
+### Intermediate serpentis
 The Skin of the Adder
 The power of your reptilian blood allows you to erupt into a serpentine form of protective scales and snakelike flexibility. You can thus transform into a monstrous hybrid of humanoid and snake, an effective engine of war or a terrible slithering beast of intimidation.
 You need only spend a Blood Trait and a Willpower Trait to invoke this power. At the end of the turn, The Skin of the Adder overtakes you, covering you in a mottled scaly hide and lending a whiplike flexibility to your limbs. You gain the bonus Traits Lithe and Tough. Your mouth also distends like a snake’s, so that your bite causes an additional wound if you win (not tie) a Simple
@@ -3203,7 +3213,7 @@ The corpselike bodies of vampires are innately tied to death. No Discipline refl
 Discipline, using its powers to control the very steps of death and decay. Indeed, fearful Cainites whisper that Thanatosis grants some control over the Curse itself, temporarily suspending the immortality of vampires and even reducing them to rotting masses.
 The Stiffs do not share their secrets of death, though mercenary Samedi are more than willing to visit the discomfort of Thanatosis briefly on too-curious subjects. This Discipline seems to be a natural outgrowth of the Samedi fascina-tion with death and decay. Strangely, other Cainites who unearth this Discipline do not suffer from the rotting affliction of the Stiffs, leading to some speculation that the bloodline suffers its peculiar curse for other, more sinister, reasons.
 Retests of Thanatosis involve the Occult Ability. Optionally, Storytellers may choose to use the more specialized Thanatology Ability for Thanatosis retests.
-BasiC thanatosis
+### Basic thanatosis
 Hags’ Wrinkles
 You can contract or expand your skin, sending it into baggy, rippling waves or pulling it taut over your undead flesh. Hags’ Wrinkles obviously can mask your appearance, but you can also use little pockets of flesh to conceal small objects about your person, although such bulges or depressions may be visible if your skin is not already marred (say, by the signature deformities of the
 Nosferatu and Samedi) or found during a pat-down search.
@@ -3217,7 +3227,7 @@ Pustulent, festering decay spreads from your point of contact, even rotting the 
 Putrefaction requires you to best your victim in a Physical Challenge while expending a Blood
 Trait. Should you succeed, the victim suffers one health level of lethal damage and gains the
 Negative Trait Repugnant until the damage is healed. This sort of wound is accompanied by rotting flesh, decaying teeth and bones, festering sores and fungus-ridden patches. You can strike a victim multiple times with this power, spreading the rot. You can even affect vampires and plants in addition to other living creatures, withering and decaying them.
-intermediate thanatosis
+### Intermediate thanatosis
 Ashes to Ashes
 Tearing apart the bonds that hold your physical form together, you collapse suddenly into a desiccated heap of ash. The power of Ashes to Ashes allows you to retain your consciousness, though, keeping you in a pile of fine detritus that can reform later into your original vampiric body.
 You must expend two Blood Traits while concentrating for a full turn to use Ashes to Ashes. When you take your action, you transform into a pile of thick, sticky ash. You can vaguely sense your surroundings (about 10 feet in all directions) at this time, and you are completely immune to physical attacks, fire and sunlight. If the ashes are separated, though (a tedious and disgusting task, requiring deliberate effort), you reform missing some parts of your body — the largest remaining pile reforms as yourself, but you take lethal health levels of damage depending on how much of your substance was removed. Should you reform while contained in some object, you burst forth, shattering the object as you resume your usual size.
@@ -3255,7 +3265,7 @@ Any use of Thaumaturgy requires the expenditure of a Blood Trait. Some specific 
 the path oF Blood (rego vitae)
 Almost every Tremere studies the Path of Blood as a primary form of magic. Espousing the clan’s strengths in subterfuge, detection, manipulation and control, this path allows you to alter the properties of blood within your own system or to detect features of the blood of others.
 The Path of Blood uses the Occult Ability for retests.
-BasiC path oF Blood
+### Basic path oF Blood
 A Taste for Blood
 With but a small sample of vitae, you can determine a foe’s capabilities and weaknesses. You need only taste a bit of blood in order to recognize many salient characteristics.
 A Taste for Blood allows you determine a few traits of another individual, simply by tasting a single Blood Trait. From one Blood Trait, you can learn: How much vitae is currently in the subject’s system (Blood Traits, whether mortal or vam-pire); how recently he has fed, if a vampire; generation, if a vampire and whether the Cainite in question is a diablerist (within the usual limits of detection time).
@@ -3265,7 +3275,7 @@ With but a touch you can stir up another Cainite’s blood. Thus, you force the 
 Blood Rage requires a light contact, which may necessitate a Physical Challenge against a wary subject. If you manage to get a firm grip, you can immediately force the subject to spend a single
 Blood Trait in any fashion that you desire, even beyond the usual limits of blood expenditure for the vampire. Thus, you can force a Cainite to increase his physical strength (gaining Physical
 Traits with Blood Traits), heal wounds (possibly even recovering from torpor) or even to sweat blood from his pores.
-intermediate path oF Blood
+### Intermediate path oF Blood
 Blood of Potency
 You can mystically concentrate the vitae within your system, making it more potent for a short time. Doing so affords you many of the benefits of a generation superior to your natural one. You need only murmur for a moment, and your blood distills down to a more concentrated form.
 Your Blood of Potency lasts for the duration of the scene or for the next hour, whichever ends first. You can expend Mental Traits to gain a “virtual generation,” improving your maximum number of Blood Traits and making your Dominate Dis-cipline able to affect more powerful Cainites. Each generation that you artificially lower costs two Mental Traits, to a maximum of six Traits for three generations.
@@ -3290,7 +3300,7 @@ Perhaps one of the most feared forms of vampire magic, The Lure of Flames allows
 
 
 Retests for The Lure of Flames use the Occult Ability.
-BasiC lure oF Flames
+### Basic lure oF Flames
 Hand of Flame
 A dancing puff of fire surrounds your hand (or both hands) at your com-mand. This palm of flame creates light and allows you to strike with your hand to burn your opponents. Once cast, the Hand of Flame remains until you decide to snuff it out. You can even use it in conjunction with other powers like Celerity and Potence, becoming a formidable combatant.
 The Hand of Flame causes aggravated damage, if you strike with your flame-wreathed hand(s). You suffer no damage or inconvenience from the Hand of Flame; indeed, you may even wear gloves or other clothing, which remain unaf-fected by the fires. Should you cause something else to catch fire, that fire can later burn you. Invoking the Hand of Flame takes one action.
@@ -3299,7 +3309,7 @@ By pointing at a target and intoning words of power, you may launch a Flame Bolt
 Casting a Flame Bolt requires you to challenge your Mental Traits against a target’s Physical
 Traits in order to hit. A Flame Bolt inflicts one level of aggravated fire damage when it strikes, then snuffs out in a puff of mystic fire. Should the Flame Bolt strike a readily flammable target (like a pile of hay or papers, but not clothing worn by some-one), the target catches fire. You are not immune to your own Flame Bolt, if by some chance it should be directed back at you. Firing a
 Flame Bolt is a single action.
-intermediate lure oF Flames
+### Intermediate lure oF Flames
 Wall of Fire
 A column of flame erupts from the very air, burning with unnatural vigor at your command. You need only point to the desired location and utter the syl-lables of this magic in order to generate a veritable Wall of Fire. You can create this flaming barrier at any site that you can see, up to 50 feet away from yourself.
 Casting a Wall of Fire takes a single action. A Wall of Fire occupies a space approximately six feet in diameter, and of equal height. If you cast the wall at a person’s location, you use your
@@ -3313,7 +3323,7 @@ Casting Engulf takes a single action. You must make a challenge of your Mental T
 
 aggravated wounds on others and light flammable objects he touches, but this incidental effect is obviously a secondary consideration.
 You may Engulf a target multiple times in successive turns, causing cumulative damage as the victim combusts explosively. However, a victim blasted multiple times still only takes one level of damage per following turn due to the continuing fire.
-advanCed lure oF Flames
+### Advanced lure oF Flames
 Firestorm
 When you call to the flames, they come in a searing wash that fills an entire room. A Firestorm rains a hail of flame down across a huge area, burning everything within. Any place that you can see, within 50 feet, can be the target of a Firestorm.
 When you call down the Firestorm, an area up to 20 feet in diameter is shot through with roaring sheets of flame. You make a mass challenge against anyone within, pitting your Mental Traits against their Physical Traits. Anyone who loses is struck with the fire, immediately taking a level of aggravated damage. Victims who cannot reasonably escape the area (because they are trapped in a dead end, perhaps, or because they cannot move fast enough to get out of the way) are burned automatically without recourse to a chal-lenge, at the Narrator’s option. All flammable materials in the area ignite immediately, though people or vampires fleeing the space do not necessarily remain lit.
@@ -3323,7 +3333,7 @@ movement oF the mind (rego motus)
 Through Movement of the Mind, you can manipulate remote objects or even creatures. Though this path does not actually impart any sort of physical force, it allows you to control things as if you held them without actually touching them. You need only see the target in order to affect it.
 Manipulation with Movement of the Mind does not provoke a tactile response. That is, you cannot remotely “feel” an object to tell if it is hot, rough, slippery etc. You simply impart motion into the item in question.
 Retests of Movement of the Mind use the Occult Ability.
-BasiC movement oF the mind
+### Basic movement oF the mind
 Force Bolt
 Your concentrated will projects a bolt of force capable of stunning opponents and knocking over objects. A Force Bolt is really more of a sudden jar of motion to a target than an actual blow, but the effects are similar.
 When you attack someone with a Force Bolt, you use your Mental Traits in a challenge against the victim’s Physical Traits. If you win, the subject is knocked to the ground, losing his next action (not full turn — victims with Celerity may well recover in the same turn).
@@ -3336,7 +3346,7 @@ Manipulate an object, you can toy with it in any fashion that you could with one
 Using an object remotely takes your full concentration and thus counts as your turn. Additionally, the difficulty of fine control at range requires that you risk an additional Trait in any challenge with the object — if you Manipulate a gun to fire at someone, for instance, you must bid an extra
 Trait for the attack challenge. Objects hefted with this power can only move at walking speed, and they can be nothing larger than you could lift with one hand.
 Anything you Manipulate remains under your control as long as you can see it, unless you release it from your spell deliberately. You must maintain complete concentration to Manipulate an object; when you stop concentrating or take a different action, the spell ceases.
-intermediate movement oF the mind
+### Intermediate movement oF the mind
 Flight
 You can telekinetically hoist a whole person, pulling the individual off the ground. You can also shove large objects around roughly, although you cannot control them easily. This level of power can slam doors, heft desks and snare opponents. Flight even lets you lift yourself off the ground and move at a brisk pace through the air.
 When you invoke Flight on a particular subject, you can move it around at a brisk walking speed.
@@ -3350,7 +3360,7 @@ You can Repulse anything within your line of sight. Objects flung with Repulse m
 Anyone who loses to you is flung 20 feet away. Even people who are grappling or biting you can be pushed away in this fashion. If you Repulse an object so that it strikes a victim, you use your
 Mental Traits to strike with it while the opponent dodges with Physical Traits. Objects hitting in this fashion do one health level of lethal damage.
 Repulse is an instant effect; you cannot Repulse an object to strike someone and then continue shoving it around in successive turns. You must Repulse objects or people every turn that you wish to move them.
-advanCed movement oF the mind
+### Advanced movement oF the mind
 Control
 Gripping a target with mental force, you bend its motions to your will. As you direct its movements with your commanding magical phrases and gestures, it spins, flies and moves according to your direction.
 
@@ -3367,7 +3377,7 @@ Creating objects from nothingness is a simple power with The Path of Conjuring. 
 Objects created with The Path of Conjuring are generic, with no distinguishing marks, and are always exactly the same every time they are conjured. You cannot conjure anything larger or heavier than yourself. Also, you must have a working familiarity with the object in question. Making this power its most effective may require you to possess certain Abilities. You would need a few levels of Firearms and Crafts: Gunsmith to make an Uzi, for instance, or Science and Medicine to conjure artificial pharmaceuticals. All such objects are conjured from Platonic ideals, not as sums of parts. Therefore, if the object is broken up into components, melted, altered or otherwise violated, the spell is broken and the substance dissolves into a viscous sludge that fades into nothingness.
 Using The Path of Conjuring requires a full turn to create any one effect.
 Retests with The Path of Conjuring, when necessary, use the Occult Ability.
-BasiC path oF ConJuring
+### Basic path oF ConJuring
 Summon the Simple Form
 Your rudimentary conjuring skills allow you to create basic objects made of a single homogenous material. These items are little more than chunks of matter, possibly crudely fashioned and lacking in any complex or moving parts. You can thus conjure a rod of metal, a club, a wooden stake, a rock or a lump of coal.
 When you Summon the Simple Form, you can only make an item of inanimate matter of one sort. You cannot conjure living or undead creatures, nor can you make something built from multiple substances.
@@ -3378,14 +3388,14 @@ Simple objects that you conjure can now be invested with your power, making them
 
 Exercising Permanency on an item conjured with Summon the Simple Form requires that you spend three
 Blood Traits in the process of conjuring, instead of the usual one. The object is then considered whole and real, and it does not disappear unless banished with Reverse Conjuring.
-intermediate path oF ConJuring
+### Intermediate path oF ConJuring
 Magic of the Smith
 Complicated objects, mixed materials and moving parts are now within your purview. As long as you are familiar with an object’s workings, you can make a copy of it. The Magic of the Smith can make knives, guns, clothes, medicines and other such useful items, and they all have permanent and lasting substance.
 Creating an object with Magic of the Smith costs five Blood Traits instead of the usual one. Record your current Mental Traits on the item card at the time of creation, in case the object is later challenged with Reverse Conjuration.
 Reverse Conjuration
 You can send conjured objects back to the nether planes from which they come. Any item that you can see or feel can be subjected to this power with only a few words and simple gestures.
 To use Reverse Conjuration on an item, you must make a Mental Challenge against the Traits recorded at the item’s creation. This power works only on conjured objects, but you have no special way of telling a conjured item from a “real” one. You may banish any of your own creations without a challenge (although it still takes a full turn).
-advanCed path oF ConJuring
+### Advanced path oF ConJuring
 Power Over Life
 Though you cannot make true life, you can conjure creations that bear a semblance of life. Power
 Over Life lets you make any creature up to your own size. Such creatures have no independent will, though. They obey your commands mindlessly instead.
@@ -3395,7 +3405,7 @@ The magicians of the Sabbat use magics designed to slay their foes brutally. The
 Some few Camarilla vampires have unearthed this path, but it remains a rare curiosity among mostthaumaturges. Withthe destructionof the Sabbat’s Warlocks, the Hands of Destruction path is relegated to the few zealous warriors who manage to wrest its secrets from tomes or infernal pacts.
 A number of regents have barred practitioners of this path from their chantries on suspicion of infernalism, and many Tremere refuse to practice it because of its potentially demonic origins.
 Exerting Hands of Destruction requires a single turn of casting. In some cases, it is used as a physical attack, and the spell and the attack are considered to take one turn, executed on the caster’s normal action.
-BasiC hands oF destruCtion
+### Basic hands oF destruCtion
 Decay
 Inanimate matter crumbles rapidly under your touch. Even dead organic material quickly melts into a puddle of putrescence.
 
@@ -3406,7 +3416,7 @@ Gnarl Wood
 Your merest glance can swell or contract wood, or twist it into strange shapes. You need not touch the wood to affect it, only see it.
 You can warp up to 50 pounds of wood, rendering it gnarled and useless. This is an excellent way to burst doors, destroy furnishings and twists stakes into uselessness. If you try to gnarl an object held by someone, you must best the individual in a Mental Challenge to warp the wood. You can Gnarl
 Wood against multiple objects at once, as long as you can see them all and they do not total more than 50 pounds in weight.
-intermediate hands oF destruCtion
+### Intermediate hands oF destruCtion
 Acidic Touch
 Mystically altering your vitae, you cause it to become a thick, black, bilious substance, a caustic fluid that burns flesh, cloth, metal and wood alike. Your Acidic Touch has no effect on yourself, but it can leave horrible corroded marks on anything that makes the slightest contact with your coated hands.
 The vitriol created with Acidic Touch inflicts aggravated damage, and it can eat through most substances (Storyteller’s discretion as to time). You can exude this acid from any part of your body, thus potentially making simple contact or even a kiss painfully deadly. Each application of
@@ -3416,7 +3426,7 @@ The warping effects of your powers allow you to wither the very limbs of your op
 You need to strike your target physically (with a Physical Challenge) in order to Atrophy a limb.
 If you hit, you wither one arm or leg, rendering it useless. Do-ing so gives the victim the
 Negative Traits Clumsy and Lame. Multiple attacks can wither different limbs, cumulatively crippling the victim (and adding additional Negative Traits). A victim without arms cannot grapple or wield weapons; a victim without functional legs cannot move. This effect is permanent on mortals, though vampires can heal a crippled limb as if it were a single aggravated wound.
-advanCed hands oF destruCtion
+### Advanced hands oF destruCtion
 Turn to Dust
 Amplifying the process of decay to incredible speeds, you can reduce your victim to little more than a pile of dust. Mortals almost always die instantly and collapse to putrefied remains, while even vampires are withered.
 If you manage to get a firm grip on your victim with a Physical Challenge, you can cause him to turn to dust. Each Physical Trait that you expend afterward
@@ -3428,7 +3438,7 @@ Through arcane incantations and properly prepared formulae, the effects of Thaum
 Rituals rank in difficulty as Basic, Intermediate or Advanced, just like the levels of Thaumaturgy.
 A character learns one Basic ritual automatically after learning Thaumaturgy. As the vampire’s primary path improves, additional rituals are learned, one appropriate to each level gained. Thus, with Advanced Thauma-turgy, the vampire knows at least two Basic rituals, two Intermediate rituals and one Advanced ritual. Learning additional rituals takes time, effort and access to specialized equipment and Influence. A vampire can only learn rituals whose difficulty do not exceed her primary Thaumaturgy path level.
 Actually casting a ritual requires the elements and time listed in each in-dividual description, and a Static Mental Challenge on the part of the caster — difficulty of five Traits for Basic power, seven Traits for Intermediate rituals and nine Traits for Advanced magics. Unless otherwise stated, Basic rituals take 10 minutes to cast, Intermediate rituals require 20 minutes and Advanced rituals take 30 minutes.
-BasiC thaumaturgiCal rituals
+### Basic thaumaturgiCal rituals
 Communicate with Kindred Sire
 Tremere vampires often use Communicate with Kindred Sire to seek advice or aid. You need only meditate for half an hour on an object that once belonged to your sire. When you finish the ritual, you establish telepathic communication with your sire, anywhere in the world. This link lasts for 10 minutes.
 Defense of the Sacred Haven
@@ -3455,7 +3465,7 @@ In case of emergencies or if you fear invasion of your haven, you can Wake with 
 Ward versus Ghouls
 Spending 10 minutes repeating a warding invocation while pouring a Trait of blood over an object, you shape a mystical glyph that causes extreme pain to any ghoul touching it. The night after you cast the ritual, the ward takes effect, causing a level of lethal damage to any ghoul touching the object (even adding this effect to other damage if, say, a warded sword is used against a ghoul in combat). Any object in size between dagger and door may be warded. You can specifically exclude certain ghouls from the effect if they are present while you cast the ritual and if each donates a
 Trait of blood to attune the Ward versus Ghouls.
-intermediate thaumaturgiCal rituals
+### Intermediate thaumaturgiCal rituals
 Bone of Lies
 By enchanting a mortal finger bone as a Bone of Lies, you bind the soul of the skeleton to the bone. Then, whenever someone holds the bone, the taint of any lies that they speak is drawn into the finger bone, which blackens it as the spirit within becomes corrupt. The bone must be at least 200 years old, and it must be steeped in at least 10 Traits of blood during the casting of the ritual — all of the blood is mysti-cally absorbed. Thereafter, whenever someone knowingly speaks a lie while holding the bone, it darkens noticeably and forces the subject to speak the truth immediately. Each lie so negated uses one of the Blood Traits in the bone; when all 10 are used, the bone is blackened and useless, home only to a dark spirit twisted by lies.
 Incorporeal Passage
@@ -3471,7 +3481,7 @@ You can get cards for your Rutor’s Hands, and then use them to spy on other lo
 Traits that it can only use to defend itself).
 Soul of the Homunculi
 Few vampires trust anyone, yet the arcane researches of the Tremere often require capable assistants. A homunculus is a tiny physical replica of the caster, completely loyal and made to serve its master as a spy and aide. Casting the Soul of the Homunculi takes a full month of time outside of play. When completed, the homunculus acts as a tiny extension of yourself. Such creations can resemble tiny winged creatures capable of flight, a legless slug with a human face like its master’s, or a small marmosetlike creature with a face resembling its creator. Any given homunculus is completely loyal to its creator, in effect acting as an extra limb. Homunculi have three Physical Traits and two health levels, and they cannot fight. They can spy and report back or perform small tasks. You can only have one homunculus at any given time.
-advanCed thaumaturgiCal rituals
+### Advanced thaumaturgiCal rituals
 Blood Contract
 By spending three nights in the writing of a contract with your own blood, you create an unbreakable bond between yourself and any one signatory. You use two Blood Traits to make the contract — one to write it, and one for both parties to sign it. The Blood Contract enforces compliance of both parties to the literal terms listed. Should either party break the terms of the contract, the individual immediately suffers enough aggravated health levels of damage to fall into torpor, and this damage cannot be resisted in any way. The only way to finish the contract is to fulfill its terms or to physically burn it.
 Nectar of the Bitter Rose
@@ -3487,7 +3497,7 @@ When used on mortals, ghouls, revenants and vampires of weaker generation than t
 Vicissitude’s effects are permanent. Vampires of equal or more potent generations can heal back each Vicissitude- inflicted scar as an aggravated wound. Of course, a user of this Discipline can always shape his own flesh as desired.
 Nosferatu, Samedi and vampires with similar deformities in their blood always heal back alterations of Vicissitude that attempt to improve their appear-ances. The Curse of Caine is not so easily circumvented.
 Vicissitude uses the Crafts: Body Crafts Ability for retests. Most Vicissitude effects require physical contact and a Physical Challenge as the vampire tears into the flesh of the opponent. Such strikes use Crafts: Body Crafts for retests, instead of Brawl, since the aim is to mutate the flesh. For certain surgical effects, the Storyteller may require some level of Medicine Ability as well.
-BasiC viCissitude
+### Basic viCissitude
 Malleable Visage
 Bending your flesh under your hands, you can change your own appear-ance. Malleable Visage allows you to duplicate others or simply make your own surface skin different from your natural forms.
 Cosmetic changes like alterations of voice or skin tone and build are all possible, though you must actually sculpt the desired changes into your flesh.
@@ -3498,7 +3508,7 @@ Your hands canturnfleshto putty, shaping it like potter’s clay. You canperform
 
 
 You must touch your victim to use Fleshcraft, pulling or shaping the flesh to your whims. You can reshape flesh on yourself or others within the limits described in Malleable Visage, or you can move around clumps of tissue or simply reduce someone to scarred deformity. These attacks do not inflict damage, but each such strike causes the victim to suffer a Negative Trait of Repugnant (to a maximum of three such Traits from this power). If you alter the distribution of skin, fat and muscle, you can remove one (and only one) of the subject’s Physical Traits and replace it with an extra health level, or reverse such an operation.
-intermediate viCissitude
+### Intermediate viCissitude
 Bonecraft
 Just as you shape flesh with your touch, you can grasp and twist bone, turn-ing it into any desired shape or moving, lengthening, bending or compressing it. Bonecraft lets you literally pull the bone through a subject’s flesh, or you can use it with Fleshcraft to completely restructure a victim — or yourself.
 Using Bonecraft allows youtoremake appearances just like Fleshcraft, butyoucanalso change someone’s height or body structure, reshape bone into unusual or spectacular forms, and even make bone spurs and weapons. You must grab the victim, and then twist, pull or bend the bones appropriately. If you do so without exercising Fleshcraft, each such strike causes one level of lethal damage as bones warp and tear their way through flesh. Used in conjunction with Fleshcraft, you can rebuild someone’s visage completely, or you can create defensive spines or offensive bone weapons. Such altera-tions allow the subject to inflict lethal damage with otherwise unarmed attacks.
@@ -3509,7 +3519,7 @@ Feral and Repugnant in this form, but you also gain the Physical Traits Brawny, 
 Enduring, Ferocious, Quick and Stalwart for the duration of the power. You may also not initiate
 Social Challenges except for the purposes of intimidation. You inflict lethal damage in brawling combat, and you score an extra health level of damage on all such attacks. You may remain in Horrid
 Form until you decide to change back.
-advanCed viCissitude
+### Advanced viCissitude
 Bloodform
 Deliquescing into a puddle of vitae is within your power. You need only concentrate briefly, and you can reduce any of your limbs or body parts into a puddle of your own pure blood.
 Each limb (arm, leg, head) that you transform becomes one Blood Trait; your body forms the remainder of your Blood Traits, up to your maximum size. You can change part or all of yourself, as desired. This blood functions in all ways as your own blood, but you retain a level of autonomic control over it. In Bloodform, you can move at a slow walking pace as a puddle of blood, oozing over things and through cracks. Changing body parts back requires only that you be in contact with the blood, or that you regrow your part by expending Blood Traits appropriate to the part (a single
@@ -3695,7 +3705,7 @@ Vampires fear and loathe fire, and its slightest touch causes them great agony. 
 Kindred, and sufficiently large sources of flame will inevitably provoke a Courage Test to avoid
 Rötschreck. A character on fire must win or tie a Simple Test and spend one action dousing the flames.
 
-## Ombat
+## Combat
 Combat is the usual intent behind Physical Challenges. Essentially, combat involves two characters in physical conflict. The players agree what the outcome of the challenge will be, each player bids an appropriate Trait and a test is per-formed to determine the victor. The following section allows for variations on those basic rules, such as situations using surprise or weapons.
 The agreed outcome of a Physical Challenge is often the loser being injured. This is not the only possible result, though. The two parties can agree to nearly anything, whether it’s tripping an opponent or throwing him out of a window. The results of a combat challenge may also be different for both participants; for example, if a frenzied Malkavian is trying to tear apart a fleeing mortal, the mortal might try to get away from his opponent instead of hurting her.
 surprise
@@ -4207,9 +4217,8 @@ Rituals of Justice — These are rituals the Sabbat isn’t supposed to perform 
 ## Using The Ignoblis Ritae
 The Ignoblis Ritae can be used as often or as little as the players desire, and players should also feel free to create their own rituals for the pack to use. Story-tellers may allow Trait gain in the form of temporary bonus Traits to packs who observe certain rituals. For example, a pack that performs a ritual of strength before entering battle might receive an additional Physical Trait for the duration of the anticipated contest. Gift Traits must always be Storyteller-approved, and they last only until the end of a specific task. However, use of Gift Traits is an excellent way of encouraging use of the Ignoblis Ritae, provided it does not upset play balance.
 Fun and games
-Of course, all slaughter of the infidel servants of the Antediluvians and no play makes the Sabbat
+Of course, all slaughter of the infidel servants of the Antediluvians and no play makes the Sabbat dull vampires, and it should come as no surprise that the Sabbat have their share of more cultured pursuits.
 
-## Dull Vampires, And It Should Come As No Surprise That The Sabbat Have
 Rules, Systems, & Drama
 223
 
@@ -4359,11 +4368,7 @@ Prepare in advance a couple of plot threads that you can introduce in case the s
 story Considerations
 The story considerations will generally be easier for you to pin down than the key ingredients, mostly because their impact on the story is less immediate. If you do your homework and build your stories with due care, you’ll find that these story elements fall into place more easily.
 sCale
-The scale of your story is its relative size, the number of players who want to play. You can run stories for as few as two players or as many as 200, but stories for 20 to 30 players are the most
-
-## Common. The Scale Of Many Stories Is Often
-
-predetermined by the number of players involved when you begin, but it can and will change. Players bring their friends, spouses and significant others into the game, and some players will drop out for various reasons. Such unexpected vagaries don’t mean that your story’s scale is at the mercy of chance — you can influence it in either direction. Actively recruiting more players will increase the scale, and getting rid of some players will decrease it. Some Storytellers establish a player cap, which is the maximum number of players they will allow to participate in any given story. The primary scale considerations should be the number of players you can comfortably handle, and the planned duration of your chronicle.
+The scale of your story is its relative size, the number of players who want to play. You can run stories for as few as two players or as many as 200, but stories for 20 to 30 players are the most common. The scale of many stories is often predetermined by the number of players involved when you begin, but it can and will change. Players bring their friends, spouses and significant others into the game, and some players will drop out for various reasons. Such unexpected vagaries don’t mean that your story’s scale is at the mercy of chance — you can influence it in either direction. Actively recruiting more players will increase the scale, and getting rid of some players will decrease it. Some Storytellers establish a player cap, which is the maximum number of players they will allow to participate in any given story. The primary scale considerations should be the number of players you can comfortably handle, and the planned duration of your chronicle.
 Scale can get out of hand if you are the only Storyteller and the number of players grows too rapidly or becomes too large. When you see this occurring, get some help. If you don’t, your game and players will suffer as you try to handle all the Storyteller responsibilities by yourself. Ask for some volunteers from among your players and make them your Narrators. A good rule of thumb is one Narrator for every 10 players, depending onyour group dynamic. Some very large games have several Storytellers, each in charge of a different aspect of the game (main plot, subplots,
 Influences, antagonists, etc.). Remember that the larger your scale, the more broad and encompassing your plot should be in order to allow every player the potential to become involved.
 Give some special thought to scale if you are running a plot that will require many months of continuous play to complete. Spend some time thinking about how scale changes will affect your long-range plots before you start them. Sudden or dramatic changes in scale can wreak havoc on long-term plots, requiring you to do some fancy Storytelling footwork to repair the damage and keep everything on track. Stories for extended chronicles must be more flexible in order to withstand the changes in scale that will inevitably occur as some players drop out and others arrive. How will your story be affected by the sudden departure of several players midway through the tale? Can your story cope if a particular clan or sect sees unex-pected growth over the course of the action, or if you gain players at a rate faster than anticipated? If the outcome of your plot hinges on only one character, think about what you will do if that character’s player is suddenly obligated to leave the game, or if that character dies unexpectedly before the story’s climax. Planning a few “escape routes” for your long-term plots will help you handle scale changes in stride.
@@ -4664,14 +4669,9 @@ Blood Traits of Kindred vitae to heal themselves or boost their Physical Attribu
 • Ghouls typically suffer psychological effects from the blood in their system. Due to their continual need for vitae, almost all are blood bound to their masters, and many develop other obsessions based around their domitor in addition to the bond. Ghouls may also frenzy, although they are two Traits up on all tests to resist doing so, as the urge is due to the vitae in them and not an innate drive. Ghouls may not purchase the Merit: Unbondable without Storyteller permission, and even then it costs twice the standard Traits to purchase. (Note: Ghouls known to possess the
 Merit: Unbondable are considered pariahs by the Kindred, if not hunted outright, since they do not have the loyalty of the bond and therefore could betray their masters or even hunt them for their blood.) • Regular infusions of vitae do not affect the aging processes of revenants, of necessity, although they may gain all the benefits of ghouldom (as well as its drawbacks) by ingesting vampire blood.
 Ghouled revenants may learn Vicissitude in addition to regular ghoul Disciplines.
-hunters
 
 ## Souls Who Brave The Darkness
-Despite the Camarilla’s strict enforcement of the Masquerade and the clumsy efforts at secrecy that
-
-## The Sabbat Makes, Some Mortals Inevitably Learn Of The Undead Menace That
-
-walks among them— and some even dare to strike back. A few hunters still operate alone out of ignorance, pride or paranoia, but the Final Nights are seeing many hunters banding together, diverse individuals who find common cause in bringing an end to the undead threat. Younger vampires scoff at the notion that even bands of hunters pose any serious threat to Kindred society as a whole. Elders who remember the Inquisition do not laugh quite so easily. In those nights, vampires were the prey of the fires of the witch-hunters, and the force of humanity united against them was nearly the undoing of all Kindred. Even the cockiest neonate and sturdiest elder must sleep when the sun is high, and who knows what damage even an inexperienced band of mortals can do while their foes lie helpless?
+Despite the Camarilla’s strict enforcement of the Masquerade and the clumsy efforts at secrecy that the Sabbat makes, some mortals inevitably learn of the undead menace that walks among them— and some even dare to strike back. A few hunters still operate alone out of ignorance, pride or paranoia, but the Final Nights are seeing many hunters banding together, diverse individuals who find common cause in bringing an end to the undead threat. Younger vampires scoff at the notion that even bands of hunters pose any serious threat to Kindred society as a whole. Elders who remember the Inquisition do not laugh quite so easily. In those nights, vampires were the prey of the fires of the witch-hunters, and the force of humanity united against them was nearly the undoing of all Kindred. Even the cockiest neonate and sturdiest elder must sleep when the sun is high, and who knows what damage even an inexperienced band of mortals can do while their foes lie helpless?
 The eldest hunting organization is the Society of Leopold, more commonly called the Inquisition, which dates back to the very first fires of that time. Once entirely Catholic but now open to other faiths, the Society is a branch of the Catholic Church so secret that not even the Pope knows of it, and it is charged with ridding the world of the vampires, demons and their ilk. To this end, these hunters employ a lethal combination of True Faith and martial skill against their enemies.
 While not all their lore is accurate, they have centuries of experience at battling the Kindred, and their teams are well-equipped and highly dedicated. The current head of the Society, Ingrid
 Bauer, has reinstated torture as a means of fighting vampires, and while some Inquisitors have qualms about such harsh means, none question the evil the Damned represent. The Society has also opened several secret camps dedicated specifically to training warriors for God, and it is looking to step up the war with undead, perhaps to a level where the Kindred will face the unpleasant prospect of outright war with the Society once more. Any Society member a Cainite encounters will be well-trained in combat techniques, schooled in the means of incapacitating/ destroying a vampire and perhaps possessed of a measure of True Faith as well.
