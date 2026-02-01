@@ -1,171 +1,311 @@
-# Laws Agent - Laws of the Night Integration
+# VbN Laws Agent RAG System
 
-## Overview
+A Retrieval-Augmented Generation (RAG) system for the Vampire: The Masquerade / Mind's Eye Theatre Laws Agent.
 
-The Laws Agent now integrates with the `agents/Laws_of_the_Night/` folder system to provide file-based knowledge search alongside the existing database-backed rulebook search. This creates a hybrid knowledge system that prioritizes Laws of the Night Revised content while maintaining database fallback functionality.
+## Features
+
+✅ **Hybrid Search**: Combines semantic embeddings with keyword search for best results
+✅ **LM Studio Primary**: Uses local LM Studio for fast, free responses
+✅ **Claude Fallback**: Automatically falls back to Claude API when LM Studio is unavailable
+✅ **Multi-Book Support**: Designed to handle 40+ rulebooks
+✅ **Conversation Memory**: Maintains context within user sessions
+✅ **Source Citations**: Every answer includes page numbers and book references
+✅ **Book Filtering**: Users can search within specific books
+✅ **Optimized Database**: Uses MySQL with embeddings stored as binary blobs
 
 ## Architecture
 
-### Components
+```
+User Question
+    ↓
+Generate Query Embedding (simple TF-IDF)
+    ↓
+Hybrid Search (Semantic + Keyword)
+    ↓
+Retrieve Top 5 Documents
+    ↓
+Build Context
+    ↓
+Try LM Studio (http://192.168.0.217:1234)
+    ↓ (on failure)
+Fallback to Claude API
+    ↓
+Return Answer + Sources
+```
 
-1. **LawsOfTheNightLoader** (`markdown_loader.php`)
-   - Recursively scans `agents/Laws_of_the_Night/` directory
-   - Parses markdown files with YAML frontmatter
-   - Builds searchable index with relevance scoring
-   - Provides search API for file-based content
+## Database Schema
 
-2. **Laws Agent API** (`api.php`)
-   - Integrates file-based search with database search
-   - Prioritizes file results over database results
-   - Combines results from both sources
-   - Maintains backward compatibility
+### Tables:
+1. **rag_books** - Metadata about each rulebook
+2. **rag_documents** - Document chunks with FULLTEXT index
+3. **rag_embeddings** - 1024-dimensional embeddings (binary)
+4. **rag_conversations** - User chat history
+5. **rag_user_preferences** - User settings
 
-3. **Frontend** (`index.php`)
-   - Displays file-based sources with file paths
-   - Shows source attribution (file vs database)
+## Installation
+
+### Prerequisites
+- PHP 7.4+
+- MySQL 5.7+
+- LM Studio running on http://192.168.0.217:1234
+- Anthropic API key in .env file
+
+### Step 1: Setup Database
+
+```bash
+cd /path/to/your/agents/folder
+php setup_rag_database.php
+```
+
+This will:
+- Drop old laws_agent tables
+- Create new optimized RAG tables
+- Set up indexes for fast searching
+
+### Step 2: Import Data
+
+```bash
+php import_rag_data.php /path/to/rag_documents.json
+```
+
+This will:
+- Read the JSON file (247 documents)
+- Create book record in database
+- Import all documents
+- Generate embeddings for each document (using simple TF-IDF fallback)
+- Takes ~1-2 minutes for the first book
+
+**Expected output:**
+```
+=== RAG Data Import ===
+
+Step 1: Loading JSON file...
+  ✓ Loaded 247 documents
+
+Step 2: Processing book metadata...
+  Book: Laws of the Night - Vampire the Masquerade
+  Code: LOTN-VTM
+  Pages: 271
+  Chunks: 247
+
+Step 3: Creating book record...
+  ✓ Book ID: 1
+
+Step 4: Importing documents and generating embeddings...
+  Progress: 247/247 (100.0%) - 4.2 docs/sec - ETA: 0 sec
+
+=== Import Complete ===
+  ✓ Successfully imported: 247 documents
+  ⏱ Total time: 58.73 seconds
+  📊 Average: 4.21 docs/sec
+```
+
+### Step 3: Deploy Files
+
+Copy the files to your agents folder:
+
+```bash
+# Assuming your agents folder is at V:\agents\
+
+cp setup_rag_database.php V:\agents\
+cp import_rag_data.php V:\agents\
+cp rag_functions.php V:\agents\
+cp api.php V:\agents\
+cp index.php V:\agents\
+```
+
+### Step 4: Test
+
+1. Navigate to http://192.168.0.155/agents/
+2. Login with verified email
+3. Ask a question!
+
+## Adding More Books
+
+To add additional books (you mentioned 40 total):
+
+### Option 1: Single JSON File (Recommended)
+If you have all books in one JSON file with consistent structure:
+
+```bash
+php import_rag_data.php /path/to/all_books.json
+```
+
+### Option 2: Multiple JSON Files
+If each book is a separate file:
+
+**Modify the import script** to accept multiple files:
+
+```bash
+# For each book
+php import_rag_data.php /path/to/book1.json
+php import_rag_data.php /path/to/book2.json
+# ... etc
+```
+
+The script will automatically:
+- Detect duplicate book codes and update instead of creating new records
+- Create new book records for new book codes
+- Generate embeddings for all new documents
+
+### Book Identification
+
+Make sure each book has unique metadata in the JSON:
+
+```json
+{
+  "metadata": {
+    "source": "Book Title Here",
+    "category": "Core|Faction|Supplement|Blood Magic|Journal",
+    "system": "MET-VTM|MET|VTM|MTA"
+  }
+}
+```
+
+The system will automatically create a `book_code` based on the source name.
+
+## Configuration
+
+### LM Studio
+- Default endpoint: `http://192.168.0.217:1234/v1/chat/completions`
+- To change: Edit `rag_functions.php`, line 151
+
+### Claude API
+- Requires `ANTHROPIC_API_KEY` in `.env` file
+- Model: `claude-3-5-sonnet-20241022`
+- Used only as fallback when LM Studio fails
+
+### Search Parameters
+- Default results per query: 5 documents
+- Keyword weight: 40%
+- Semantic weight: 60%
+- To adjust: Edit `rag_functions.php`, line 124
+
+## Embedding System
+
+### Current Implementation
+The system uses a simple TF-IDF based embedding as a fallback:
+- 1024 dimensions
+- Fast generation (~50 docs/sec)
+- Good for keyword matching
+- Works offline
+
+### Upgrading to Better Embeddings (Optional)
+
+For improved semantic search, consider:
+
+1. **OpenAI Embeddings** (text-embedding-3-small)
+   - 1536 dimensions
+   - $0.02 per 1M tokens
+   - Better semantic understanding
+
+2. **Cohere Embeddings** (embed-english-v3.0)
+   - 1024 dimensions
+   - Free tier available
+   - Good for document retrieval
+
+3. **Local Models** (via Ollama/LM Studio)
+   - nomic-embed-text
+   - Free
+   - Run locally
+   - 768 dimensions
+
+To implement better embeddings:
+1. Update `create_simple_embedding()` in `import_rag_data.php`
+2. Update `create_simple_embedding()` in `rag_functions.php`
+3. Re-import all data
+
+## Performance
+
+### Current Stats (1 Book, 247 Documents)
+- Database size: ~2.5 MB
+- Import time: ~60 seconds
+- Query time: ~2-5 seconds (LM Studio)
+- Query time: ~3-8 seconds (Claude fallback)
+
+### Projected (40 Books, ~10,000 Documents)
+- Database size: ~100 MB (well within 1GB limit)
+- Import time: ~40 minutes total
+- Query time: Same (search is indexed)
+
+## Troubleshooting
+
+### LM Studio Not Responding
+1. Check LM Studio is running on http://192.168.0.217:1234
+2. Try accessing http://192.168.0.217:1234/v1/models in browser
+3. System will automatically fallback to Claude
+
+### Claude API Errors
+1. Check `.env` file has `ANTHROPIC_API_KEY=your-key-here`
+2. Verify API key at https://console.anthropic.com/
+3. Check error logs
+
+### No Search Results
+1. Verify data was imported: `SELECT COUNT(*) FROM rag_documents;`
+2. Check embeddings exist: `SELECT COUNT(*) FROM rag_embeddings;`
+3. Try simpler questions to test
+
+### Slow Queries
+1. Check MySQL indexes are created (see setup_rag_database.php)
+2. Consider upgrading embedding quality
+3. Reduce `limit` parameter in search functions
 
 ## File Structure
 
 ```
-agents/Laws_of_the_Night/
-├── chapters/          # Chapter markdown files
-├── clans/             # Clan markdown files
-├── disciplines/       # Discipline markdown files
-├── metadata.json      # Structured metadata
-└── TOC.md            # Table of contents
+agents/
+├── index.php               # Main UI (updated)
+├── api.php                 # API endpoint (new)
+├── rag_functions.php       # Search & AI functions (new)
+├── setup_rag_database.php  # Database setup (run once)
+├── import_rag_data.php     # Data import (run per book)
+└── README.md              # This file
 ```
 
-## How It Works
+## Database Maintenance
 
-### Indexing Process
+### View Statistics
+```sql
+-- Total documents
+SELECT book_code, COUNT(*) as docs, SUM(LENGTH(content)) as bytes 
+FROM rag_documents d 
+JOIN rag_books b ON d.book_id = b.id 
+GROUP BY book_code;
 
-1. On each search request, the loader scans the `Laws_of_the_Night/` directory
-2. Parses each `.md` file to extract:
-   - YAML frontmatter (title, chapter, section, tags)
-   - Full text content
-   - File metadata (path, modification time)
-3. Categorizes files by directory (chapter, clan, discipline)
-4. Builds in-memory search index
-
-### Search Process
-
-1. **File-based search** runs first:
-   - Searches indexed markdown files
-   - Scores results by relevance (title > section > content > tags)
-   - Returns top 10 matches
-
-2. **Database search** runs as fallback:
-   - Uses existing `rulebook_pages` table search
-   - Maintains all existing functionality
-
-3. **Results are combined**:
-   - File results prioritized (+50 relevance boost)
-   - Sorted by combined relevance
-   - Limited to top 15 total results
-
-### Source Attribution
-
-Results include `source_type` field:
-- `'file'` - From Laws of the Night markdown files
-- `'database'` - From rulebook_pages table
-
-File-based sources include:
-- `file_path` - Relative path to source file
-- `title` - Extracted from frontmatter or filename
-- `section` - Section name from frontmatter
-
-## Adding New Content
-
-To add new Laws of the Night content:
-
-1. **Place markdown files** in appropriate subdirectory:
-   - `chapters/` for chapter content
-   - `clans/` for clan information
-   - `disciplines/` for discipline rules
-
-2. **Include YAML frontmatter**:
-   ```yaml
-   ---
-   title: "Your Title"
-   chapter: 4
-   section: "Your Section"
-   tags:
-   - MET
-   - LawsOfTheNight
-   - Discipline
-   ---
-   ```
-
-3. **Content is automatically indexed** on next search request
-
-## Admin/Debug Features
-
-### Debug Statistics
-
-Get indexing statistics:
-```
-GET /agents/laws_agent/api.php?action=debug_stats
+-- Most queried topics
+SELECT LEFT(question, 50) as question, COUNT(*) as count
+FROM rag_conversations 
+GROUP BY LEFT(question, 50) 
+ORDER BY count DESC 
+LIMIT 10;
 ```
 
-Returns:
-- Files loaded count
-- Files by category
-- Last indexed timestamp
-- Base path
-- Any errors
-
-### Test Search
-
-Test file-based search:
-```
-GET /agents/laws_agent/api.php?action=test_search&query=celerity&category=discipline
-```
-
-Returns:
-- Search results with relevance scores
-- File paths and excerpts
-- Result count
-
-## Configuration
-
-The loader uses the default path:
-```
-agents/Laws_of_the_Night/
-```
-
-This can be customized by passing a path to the `LawsOfTheNightLoader` constructor.
-
-## Error Handling
-
-- **File system errors**: Silently fall back to database search
-- **Malformed markdown**: File is skipped, error logged
-- **Missing directory**: Returns empty results, falls back to database
-- **Parse errors**: Individual file errors logged, other files still indexed
-
-## Performance Considerations
-
-- Indexing happens on-demand (each search request)
-- Consider caching the index if performance becomes an issue
-- File modification times are tracked for potential cache invalidation
-
-## API Integration
-
-The integration is transparent to API consumers. The `ask` action works exactly as before, but now includes file-based results:
-
-```php
-// Existing API call works unchanged
-$response = ask_laws_agent($conn, "How does Celerity work?", "Core", "MET-VTM");
-
-// Response includes both file and database sources
-// File sources have source_type='file' and include file_path
+### Clear All Data (Fresh Start)
+```bash
+php setup_rag_database.php  # This drops and recreates tables
 ```
 
 ## Future Enhancements
 
-Potential improvements:
-- Persistent index caching (file-based or database)
-- Incremental indexing (only scan changed files)
-- Full-text search optimization
-- Category-specific search endpoints
-- Admin UI for managing file-based content
+- [ ] Upgrade to better embedding model
+- [ ] Add document upload via web interface
+- [ ] Implement semantic caching for common queries
+- [ ] Add admin panel for managing books
+- [ ] Export conversation history
+- [ ] Support for images/diagrams from PDFs
+- [ ] Multi-language support
 
+## Support
+
+For issues or questions, check:
+1. Database logs in MySQL
+2. PHP error logs
+3. Browser console for frontend errors
+4. LM Studio logs
+
+## Credits
+
+- Built for VbN game system
+- Uses Anthropic Claude API
+- Integrates with LM Studio
+- Designed for 40+ book scalability

@@ -1,0 +1,367 @@
+[
+  {
+    "id": "rendezvous",
+    "title": "RENDEZVOUS:",
+    "line": 6
+  },
+  {
+    "id": "what-is-minds-eye-theatre",
+    "title": "what is Mind’s Eye Theatre?",
+    "line": 75
+  },
+  {
+    "id": "chapter-one",
+    "title": "CHAPTER ONE:",
+    "line": 79
+  },
+  {
+    "id": "the-storyteller",
+    "title": "the storyteller",
+    "line": 95
+  },
+  {
+    "id": "the-rules-thou-shalt-never-break",
+    "title": "the rules thou shalt never Break",
+    "line": 112
+  },
+  {
+    "id": "the-world-of-darkness",
+    "title": "the world oF darkness",
+    "line": 134
+  },
+  {
+    "id": "the-kindred",
+    "title": "the kindred",
+    "line": 139
+  },
+  {
+    "id": "the-embrace",
+    "title": "the emBraCe",
+    "line": 150
+  },
+  {
+    "id": "the-camarilla",
+    "title": "the Camarilla",
+    "line": 159
+  },
+  {
+    "id": "the-traditions",
+    "title": "the traditions",
+    "line": 167
+  },
+  {
+    "id": "the-sabbat",
+    "title": "the saBBat",
+    "line": 177
+  },
+  {
+    "id": "ninth-and-tenth-generations-the-ancillae-walk-a-dangerous-line",
+    "title": "• Ninth and Tenth Generations — The ancillae walk a dangerous line:",
+    "line": 200
+  },
+  {
+    "id": "chapter-two",
+    "title": "CHAPTER TWO:",
+    "line": 219
+  },
+  {
+    "id": "the-camarilla-2",
+    "title": "the Camarilla",
+    "line": 230
+  },
+  {
+    "id": "the-sabbat-2",
+    "title": "the saBBat",
+    "line": 232
+  },
+  {
+    "id": "bloodlines-most-malkavians-claim-nominal-membership-in-the-camarilla",
+    "title": "Bloodlines: Most Malkavians claim nominal membership in the Camarilla,",
+    "line": 271
+  },
+  {
+    "id": "chapter-three",
+    "title": "CHAPTER THREE:",
+    "line": 504
+  },
+  {
+    "id": "step-one-inspiration-who-are-you",
+    "title": "• Step One: Inspiration — Who are you?",
+    "line": 506
+  },
+  {
+    "id": "step-two-attributes-what-are-your-basic-capabilities",
+    "title": "• Step Two: Attributes — What are your basic capabilities?",
+    "line": 508
+  },
+  {
+    "id": "step-three-advantages-what-do-you-know",
+    "title": "• Step Three: Advantages — What do you know?",
+    "line": 510
+  },
+  {
+    "id": "the-clans",
+    "title": "the Clans",
+    "line": 529
+  },
+  {
+    "id": "disciplines-celerity-obfuscate-quietus",
+    "title": "Disciplines: Celerity, Obfuscate, Quietus",
+    "line": 531
+  },
+  {
+    "id": "disciplines-celerity-potence-presence",
+    "title": "Disciplines: Celerity, Potence, Presence",
+    "line": 533
+  },
+  {
+    "id": "disciplines-obfuscate-presence-serpentis",
+    "title": "Disciplines: Obfuscate, Presence, Serpentis",
+    "line": 535
+  },
+  {
+    "id": "disciplines-animalism-fortitude-protean",
+    "title": "Disciplines: Animalism, Fortitude, Protean",
+    "line": 537
+  },
+  {
+    "id": "disciplines-dominate-necromancy-potence",
+    "title": "Disciplines: Dominate, Necromancy, Potence",
+    "line": 539
+  },
+  {
+    "id": "disciplines-dominate-obtenebration-potence",
+    "title": "Disciplines: Dominate, Obtenebration, Potence",
+    "line": 541
+  },
+  {
+    "id": "disciplines-auspex-dementation-obfuscate",
+    "title": "Disciplines: Auspex, Dementation, Obfuscate",
+    "line": 543
+  },
+  {
+    "id": "disciplines-animalism-obfuscate-potence",
+    "title": "Disciplines: Animalism, Obfuscate, Potence",
+    "line": 545
+  },
+  {
+    "id": "disciplines-animalism-chimerstry-fortitude",
+    "title": "Disciplines: Animalism, Chimerstry, Fortitude",
+    "line": 547
+  },
+  {
+    "id": "disciplines-auspex-celerity-presence",
+    "title": "Disciplines: Auspex, Celerity, Presence",
+    "line": 549
+  },
+  {
+    "id": "disciplines-auspex-dominate-thaumaturgy",
+    "title": "Disciplines: Auspex, Dominate, Thaumaturgy",
+    "line": 551
+  },
+  {
+    "id": "disciplines-animalism-auspex-vicissitude",
+    "title": "Disciplines: Animalism, Auspex, Vicissitude",
+    "line": 553
+  },
+  {
+    "id": "the-bloodlines",
+    "title": "the Bloodlines",
+    "line": 557
+  },
+  {
+    "id": "disciplines-fortitude-melpominee-presence",
+    "title": "Disciplines: Fortitude, Melpominee, Presence",
+    "line": 559
+  },
+  {
+    "id": "disciplines-auspex-fortitude-obeah",
+    "title": "Disciplines: Auspex, Fortitude, Obeah",
+    "line": 561
+  },
+  {
+    "id": "impatient-restless-anxious-and-generally-intolerant-of-delays-you-want",
+    "title": "Impatient: Restless, anxious and generally intolerant of delays. You want",
+    "line": 941
+  },
+  {
+    "id": "you-can-use-the-medicine-ability-to-speed-a-mortals-healing-by-one-category",
+    "title": "You can use the Medicine Ability to speed a mortal’s healing by one category:",
+    "line": 1019
+  },
+  {
+    "id": "you-can-expend-blood-traits-for-a-variety-of-functions",
+    "title": "You can expend Blood Traits for a variety of functions:",
+    "line": 1169
+  },
+  {
+    "id": "chapter-four",
+    "title": "CHAPTER FOUR:",
+    "line": 1462
+  },
+  {
+    "id": "chapter-five",
+    "title": "CHAPTER FIVE:",
+    "line": 2155
+  },
+  {
+    "id": "health-levels-2-negative-traits-heavy-availability-police-4-or-underworld-3",
+    "title": "Health levels: 2 Negative Traits: Heavy Availability: Police 4, or Underworld 3",
+    "line": 2325
+  },
+  {
+    "id": "first-drink-at-this-stage-the-drinker-has-strong-flashes-of-emotion-regarding",
+    "title": "First drink: At this stage, the drinker has strong flashes of emotion regarding",
+    "line": 2383
+  },
+  {
+    "id": "the-prince",
+    "title": "The Prince",
+    "line": 2469
+  },
+  {
+    "id": "the-sabbat-3",
+    "title": "the saBBat",
+    "line": 2523
+  },
+  {
+    "id": "are-you-a-storyteller",
+    "title": "are you a storyteller?",
+    "line": 2584
+  },
+  {
+    "id": "good-moods-for-masquerade-stories",
+    "title": "Good moods for Masquerade stories:",
+    "line": 2620
+  },
+  {
+    "id": "key-questions-to-ask-your-players-before-embarking-on-a-new-storytelling-effort",
+    "title": "Key questions to ask your players before embarking on a new Storytelling effort:",
+    "line": 2672
+  },
+  {
+    "id": "what-sorts-of-plots-would-you-like-to-see-in-the-story",
+    "title": "• What sorts of plots would you like to see in the story?",
+    "line": 2674
+  },
+  {
+    "id": "what-should-take-precedence-the-story-the-characters-or-the-rules",
+    "title": "• What should take precedence — the story, the characters or the rules?",
+    "line": 2676
+  },
+  {
+    "id": "the-stages",
+    "title": "the stages",
+    "line": 2678
+  },
+  {
+    "id": "where-are-we",
+    "title": "where are we?",
+    "line": 2707
+  },
+  {
+    "id": "downtimes",
+    "title": "downtimes:",
+    "line": 2785
+  },
+  {
+    "id": "good-downtime-information-includes",
+    "title": "Good downtime information includes:",
+    "line": 2789
+  },
+  {
+    "id": "meetings-who-does-the-character-meet-with-when-and-why-what-is-discussed",
+    "title": "• Meetings — Who does the character meet with, when and why? What is discussed?",
+    "line": 2792
+  },
+  {
+    "id": "troubleshooting-player-boredom-theres-nothing-to-do-in-this-game",
+    "title": "trouBleshooting player Boredom: “there’s nothing to do in this game!”",
+    "line": 2799
+  },
+  {
+    "id": "is-the-player-pursing-her-goals-actively",
+    "title": "• Is the player pursing her goals actively?",
+    "line": 2802
+  },
+  {
+    "id": "is-the-player-hoarding-information-she-should-be-sharing",
+    "title": "• Is the player hoarding information she should be sharing?",
+    "line": 2803
+  },
+  {
+    "id": "is-the-player-refusing-to-interact-with-other-players-during-games",
+    "title": "• Is the player refusing to interact with other players during games?",
+    "line": 2804
+  },
+  {
+    "id": "did-the-player-miss-one-or-more-vital-clues",
+    "title": "• Did the player miss one or more vital clues?",
+    "line": 2806
+  },
+  {
+    "id": "did-the-player-create-a-full-character-background",
+    "title": "• Did the player create a full character background?",
+    "line": 2807
+  },
+  {
+    "id": "is-the-pace-of-the-game-too-slow-for-the-player",
+    "title": "• Is the pace of the game too slow for the player?",
+    "line": 2808
+  },
+  {
+    "id": "is-the-player-achieving-her-character-goals-too-easily",
+    "title": "• Is the player achieving her character goals too easily?",
+    "line": 2809
+  },
+  {
+    "id": "too-much-violence-not-another-mass-combat",
+    "title": "too muCh violenCe: “not another mass ComBat!”",
+    "line": 2815
+  },
+  {
+    "id": "metagaming-hey-your-character-cant-possibly-know-that",
+    "title": "metagaming: “hey, your CharaCter Can’t possiBly know that!”",
+    "line": 2819
+  },
+  {
+    "id": "argumentative-players-you-cant-do-that-to-my-character",
+    "title": "argumentative players: “you Can’t do that to my CharaCter!”",
+    "line": 2822
+  },
+  {
+    "id": "storyteller-burnout-i-cant-think-of-any-more-stories",
+    "title": "storyteller Burnout: “i Can’t think oF any more stories.”",
+    "line": 2826
+  },
+  {
+    "id": "player-cheating-hey-you-didnt-have-that-discipline-a-few-minutes-ago",
+    "title": "player Cheating: “hey, you didn’t have that disCipline a Few minutes ago!”",
+    "line": 2829
+  },
+  {
+    "id": "storytelling-failed-stories-this-game-sucks",
+    "title": "Storytelling Failed stories: “this game suCks.”",
+    "line": 2833
+  },
+  {
+    "id": "favoritism-youre-only-letting-him-play-an-elder-because-hes-your-boyfriend",
+    "title": "Favoritism: “you’re only letting him play an elder BeCause he’s your BoyFriend!”",
+    "line": 2837
+  },
+  {
+    "id": "problem-players-hes-ruining-the-game-again",
+    "title": "proBlem players: “he’s ruining the game again!”",
+    "line": 2844
+  },
+  {
+    "id": "chapter-seven",
+    "title": "CHAPTER SEVEN:",
+    "line": 2868
+  },
+  {
+    "id": "allies-antagonists-i-just-put-the-bite-on-insert-critter-here-what-happens",
+    "title": "Allies & Antagonists i Just put the Bite on [insert Critter here]. what happens?",
+    "line": 2986
+  }
+]
