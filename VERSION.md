@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.77
+## Current Version: 0.9.78
+
+**Date:** 2026-01-30  
+**Type:** Patch (Git sync: laws_agent RAG/setup, LotNR integration)
+
+## Previous Version: 0.9.77
 
 **Date:** 2026-01-30  
 **Type:** Patch (Git sync: LotNR-formatted page breaks, paragraph breaks, lists)

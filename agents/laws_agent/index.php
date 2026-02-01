@@ -28,6 +28,11 @@ if (!$result['email_verified']) {
 }
 
 $username = $result['username'];
+
+// Fetch available books
+require_once __DIR__ . '/rag_functions.php';
+$books = get_all_books($conn);
+
 $conn->close();
 
 require_once __DIR__ . '/../../includes/header.php';
@@ -75,6 +80,34 @@ require_once __DIR__ . '/../../includes/header.php';
             color: #999;
             margin: 0;
             font-size: 14px;
+        }
+
+        .status-bar {
+            padding: 10px 20px;
+            background: rgba(0, 0, 0, 0.5);
+            border-bottom: 1px solid #444;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 13px;
+        }
+
+        .status-indicator {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .status-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: #666;
+        }
+
+        .status-dot.active {
+            background: #0f0;
+            box-shadow: 0 0 10px #0f0;
         }
 
         .messages-container {
@@ -173,6 +206,27 @@ require_once __DIR__ . '/../../includes/header.php';
             border-radius: 3px;
         }
 
+        .model-badge {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 11px;
+            font-weight: bold;
+            margin-left: 10px;
+        }
+
+        .model-badge.lm-studio {
+            background: rgba(0, 150, 0, 0.3);
+            color: #0f0;
+            border: 1px solid #0f0;
+        }
+
+        .model-badge.claude {
+            background: rgba(139, 0, 139, 0.3);
+            color: #ff69b4;
+            border: 1px solid #ff69b4;
+        }
+
         .input-container {
             padding: 20px;
             background: rgba(0, 0, 0, 0.3);
@@ -228,6 +282,7 @@ require_once __DIR__ . '/../../includes/header.php';
             display: flex;
             gap: 10px;
             font-size: 14px;
+            flex-wrap: wrap;
         }
 
         .filter-select {
@@ -237,49 +292,77 @@ require_once __DIR__ . '/../../includes/header.php';
             color: #ccc;
             border-radius: 4px;
             cursor: pointer;
+            flex: 1;
+            min-width: 150px;
         }
 
-        .thinking {
-            display: inline-block;
-            padding: 15px 20px;
-            background: rgba(0, 0, 0, 0.5);
-            border: 1px solid #444;
-            border-radius: 12px;
-            color: #999;
+        .filter-select:focus {
+            outline: none;
+            border-color: #8b0000;
         }
 
-        .thinking::after {
-            content: '...';
-            animation: dots 1.5s infinite;
+        .action-buttons {
+            display: flex;
+            gap: 10px;
         }
 
-        @keyframes dots {
-            0%, 20% { content: '.'; }
-            40% { content: '..'; }
-            60%, 100% { content: '...'; }
+        .action-button {
+            padding: 8px 16px;
+            background: rgba(139, 0, 0, 0.3);
+            color: #ccc;
+            border: 1px solid #8b0000;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 13px;
+            transition: all 0.3s;
+        }
+
+        .action-button:hover {
+            background: rgba(139, 0, 0, 0.5);
+            color: #fff;
         }
 
         .suggestions {
             display: flex;
-            flex-wrap: wrap;
             gap: 10px;
-            margin-bottom: 15px;
+            flex-wrap: wrap;
+            margin-top: 10px;
         }
 
         .suggestion-chip {
-            padding: 8px 15px;
+            padding: 8px 16px;
             background: rgba(139, 0, 0, 0.2);
             border: 1px solid #8b0000;
             border-radius: 20px;
-            color: #ccc;
-            font-size: 14px;
             cursor: pointer;
+            font-size: 13px;
+            color: #ccc;
             transition: all 0.3s;
         }
 
         .suggestion-chip:hover {
             background: rgba(139, 0, 0, 0.4);
+            color: #fff;
             transform: translateY(-2px);
+        }
+
+        .thinking {
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            color: #999;
+            font-style: italic;
+        }
+
+        .thinking::after {
+            content: '...';
+            animation: ellipsis 1.5s infinite;
+        }
+
+        @keyframes ellipsis {
+            0%, 20% { content: '.'; }
+            40% { content: '..'; }
+            60%, 100% { content: '...'; }
         }
 
         .welcome-message {
@@ -301,6 +384,46 @@ require_once __DIR__ . '/../../includes/header.php';
             color: #ff6b6b;
             margin: 10px 0;
         }
+
+        .source-modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.8);
+            z-index: 1000;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .source-modal.active {
+            display: flex;
+        }
+
+        .source-modal-content {
+            background: rgba(26, 15, 15, 0.95);
+            border: 2px solid #8b0000;
+            border-radius: 8px;
+            padding: 30px;
+            max-width: 600px;
+            max-height: 80vh;
+            overflow-y: auto;
+            color: #ccc;
+        }
+
+        .modal-close {
+            float: right;
+            font-size: 28px;
+            color: #8b0000;
+            cursor: pointer;
+            line-height: 20px;
+        }
+
+        .modal-close:hover {
+            color: #ff0000;
+        }
     </style>
 </head>
 <body>
@@ -310,53 +433,64 @@ require_once __DIR__ . '/../../includes/header.php';
         <div class="chat-header">
             <h1>🧛 Laws Agent</h1>
             <p>Ask me anything about VTM/MET rules, disciplines, clans, mechanics, or lore</p>
-            <p style="font-size: 12px; margin-top: 10px; color: #666;">Powered by AI with access to 56 official rulebooks</p>
+            <p style="font-size: 12px; margin-top: 10px; color: #666;">
+                Powered by RAG with LM Studio + Claude AI Fallback
+            </p>
+        </div>
+
+        <div class="status-bar">
+            <div class="status-indicator">
+                <span class="status-dot" id="statusDot"></span>
+                <span id="statusText">Checking systems...</span>
+            </div>
+            <div>
+                <span style="color: #666;">Session:</span>
+                <span style="color: #8b0000;" id="sessionId">New</span>
+            </div>
         </div>
 
         <div class="messages-container" id="messages">
             <div class="welcome-message" id="welcome">
                 <h2>Welcome, <?php echo htmlspecialchars($username); ?>!</h2>
-                <p>I'm your personal Laws Agent, powered by Anthropic Claude AI with knowledge from all VTM/MET rulebooks.</p>
-                <p style="margin-top: 20px; color: #666;">I can help you understand:</p>
+                <p>I'm your personal Laws Agent with access to official VTM/MET rulebooks.</p>
+                <p style="margin-top: 20px; color: #666;">Current capabilities:</p>
                 <ul style="text-align: left; max-width: 500px; margin: 20px auto; color: #999;">
-                    <li>Game mechanics and rules</li>
-                    <li>Discipline powers and usage</li>
-                    <li>Clan abilities and weaknesses</li>
-                    <li>Combat and challenge systems</li>
-                    <li>Character creation rules</li>
-                    <li>Lore and setting information</li>
+                    <li>✓ Hybrid semantic + keyword search</li>
+                    <li>✓ Context-aware answers from <?php echo count($books); ?> book(s)</li>
+                    <li>✓ LM Studio (local) with Claude fallback</li>
+                    <li>✓ Conversation memory within sessions</li>
+                    <li>✓ Source citations with page numbers</li>
                 </ul>
                 
-                <p style="margin-top: 30px; color: #666;">Try asking me something like:</p>
+                <p style="margin-top: 30px; color: #666;">Try asking:</p>
                 
                 <div class="suggestions" style="justify-content: center; margin-top: 20px;">
                     <div class="suggestion-chip" onclick="askQuestion('How does Celerity work in MET?')">How does Celerity work?</div>
-                    <div class="suggestion-chip" onclick="askQuestion('What are the Six Traditions of the Camarilla?')">Camarilla Traditions</div>
-                    <div class="suggestion-chip" onclick="askQuestion('Explain combat challenges and resolution')">Combat Challenges</div>
-                    <div class="suggestion-chip" onclick="askQuestion('What disciplines do Toreador have access to?')">Toreador Disciplines</div>
-                    <div class="suggestion-chip" onclick="askQuestion('How does Blood Bonding work?')">Blood Bonds</div>
+                    <div class="suggestion-chip" onclick="askQuestion('What are the Camarilla Traditions?')">Camarilla Traditions</div>
+                    <div class="suggestion-chip" onclick="askQuestion('Explain combat resolution')">Combat Resolution</div>
+                    <div class="suggestion-chip" onclick="askQuestion('What disciplines do Toreador have?')">Toreador Disciplines</div>
+                    <div class="suggestion-chip" onclick="askQuestion('How does the Blood Bond work?')">Blood Bonds</div>
                 </div>
             </div>
         </div>
 
         <div class="input-container">
             <div class="filters-row">
-                <select id="categoryFilter" class="filter-select">
-                    <option value="">All Categories</option>
-                    <option value="Core">Core Rules</option>
-                    <option value="Faction">Faction Guides</option>
-                    <option value="Supplement">Supplements</option>
-                    <option value="Blood Magic">Blood Magic</option>
-                    <option value="Journal">Journals</option>
+                <select id="bookFilter" class="filter-select">
+                    <option value="all">All Books</option>
+                    <?php foreach ($books as $book): ?>
+                    <option value="<?php echo htmlspecialchars($book['book_code']); ?>">
+                        <?php echo htmlspecialchars($book['book_name']); ?>
+                        (<?php echo $book['total_pages']; ?> pages)
+                    </option>
+                    <?php endforeach; ?>
                 </select>
                 
-                <select id="systemFilter" class="filter-select">
-                    <option value="">All Systems</option>
-                    <option value="MET-VTM">MET-VTM</option>
-                    <option value="MET">MET</option>
-                    <option value="VTM">VTM</option>
-                    <option value="MTA">MTA</option>
-                </select>
+                <div class="action-buttons">
+                    <button class="action-button" onclick="resetSession()" title="Clear conversation history">
+                        🔄 New Session
+                    </button>
+                </div>
             </div>
             
             <div class="input-row">
@@ -375,8 +509,39 @@ require_once __DIR__ . '/../../includes/header.php';
     </div>
 </div>
 
+<!-- Source Modal -->
+<div class="source-modal" id="sourceModal" onclick="closeModal(event)">
+    <div class="source-modal-content" onclick="event.stopPropagation()">
+        <span class="modal-close" onclick="closeModal()">&times;</span>
+        <div id="modalContent"></div>
+    </div>
+</div>
+
 <script>
 let conversationHistory = [];
+let sessionId = 'New';
+
+// Check system status on load
+checkStatus();
+
+function checkStatus() {
+    const statusDot = document.getElementById('statusDot');
+    const statusText = document.getElementById('statusText');
+    
+    fetch('api.php?action=get_books')
+        .then(response => response.json())
+        .then(data => {
+            if (data.success) {
+                statusDot.classList.add('active');
+                statusText.textContent = 'System ready • ' + data.books.length + ' book(s) loaded';
+            } else {
+                statusText.textContent = 'System error';
+            }
+        })
+        .catch(error => {
+            statusText.textContent = 'Connection error';
+        });
+}
 
 function askQuestion(predefinedQuestion = null) {
     const input = document.getElementById('questionInput');
@@ -397,12 +562,14 @@ function askQuestion(predefinedQuestion = null) {
     
     setInputEnabled(false);
     
-    const category = document.getElementById('categoryFilter').value;
-    const system = document.getElementById('systemFilter').value;
+    const bookFilter = document.getElementById('bookFilter').value;
     
     let url = `api.php?action=ask&question=${encodeURIComponent(question)}`;
-    if (category) url += `&category=${encodeURIComponent(category)}`;
-    if (system) url += `&system=${encodeURIComponent(system)}`;
+    if (bookFilter && bookFilter !== 'all') {
+        url += `&book=${encodeURIComponent(bookFilter)}`;
+    }
+    
+    const requestStart = Date.now();
     
     fetch(url)
         .then(response => response.json())
@@ -413,25 +580,32 @@ function askQuestion(predefinedQuestion = null) {
                 let answer = data.answer || 'I found some relevant information in the rulebooks.';
                 answer = formatAnswer(answer);
                 
+                // Add model badge
+                if (data.model) {
+                    const modelClass = data.model.includes('studio') ? 'lm-studio' : 'claude';
+                    const modelName = data.model.includes('studio') ? 'LM Studio' : 'Claude';
+                    answer += `<span class="model-badge ${modelClass}">${modelName}</span>`;
+                }
+                
+                // Add sources
                 if (data.sources && data.sources.length > 0) {
                     answer += '<div class="sources">';
-                    answer += '<span class="sources-title">Sources: </span>';
+                    answer += '<span class="sources-title">📚 Sources: </span>';
                     const sourceLinks = data.sources.map((source, index) => {
                         const sourceData = JSON.stringify(source).replace(/"/g, '&quot;');
-                        let sourceLabel = escapeHtml(source.book);
-                        if (source.source_type === 'file' && source.file_path) {
-                            sourceLabel += ' <span style="color: #666; font-size: 0.9em;">(' + escapeHtml(source.file_path) + ')</span>';
-                        }
-                        const title = source.source_type === 'file' 
-                            ? `${source.file_path || source.title || 'File'} • ${source.category} • ${source.system}`
-                            : `Page ${source.page} • ${source.category} • ${source.system}`;
-                        return `<span class="source-link" onclick="viewSource(${index}, ${sourceData})" title="${title}">${sourceLabel}</span>`;
+                        return `<span class="source-link" onclick='viewSource(${sourceData})'>${escapeHtml(source.book)} (p.${source.page})</span>`;
                     });
                     answer += sourceLinks.join(', ');
                     answer += '</div>';
                 }
                 
                 addMessage('assistant', answer);
+                
+                // Update session ID
+                if (sessionId === 'New') {
+                    sessionId = 'Active';
+                    document.getElementById('sessionId').textContent = sessionId;
+                }
                 
                 setTimeout(() => {
                     const messagesContainer = document.getElementById('messages');
@@ -444,12 +618,12 @@ function askQuestion(predefinedQuestion = null) {
                     sources: data.sources 
                 });
             } else {
-                addMessage('assistant', `<div class="error-message">Error: ${escapeHtml(data.error || 'Unknown error occurred')}</div>`);
+                addMessage('assistant', `<div class="error-message">❌ Error: ${escapeHtml(data.error || 'Unknown error occurred')}</div>`);
             }
         })
         .catch(error => {
             removeMessage(thinkingId);
-            addMessage('assistant', `<div class="error-message">Connection error: ${escapeHtml(error.message)}</div>`);
+            addMessage('assistant', `<div class="error-message">⚠️ Connection error: ${escapeHtml(error.message)}</div>`);
         })
         .finally(() => {
             setInputEnabled(true);
@@ -498,8 +672,52 @@ function setInputEnabled(enabled) {
     button.textContent = enabled ? 'Ask' : 'Thinking...';
 }
 
-function viewSource(index, source) {
-    alert(`Source ${index + 1}:\n\n${source.book}\nPage ${source.page}\n\n${source.excerpt || 'Click OK to search for this page.'}`);
+function viewSource(source) {
+    const modal = document.getElementById('sourceModal');
+    const content = document.getElementById('modalContent');
+    
+    const metadata = JSON.parse(source.metadata || '{}');
+    
+    content.innerHTML = `
+        <h2 style="color: #8b0000; margin-top: 0;">${escapeHtml(source.book)}</h2>
+        <div style="margin-bottom: 20px; padding-bottom: 20px; border-bottom: 1px solid #444;">
+            <strong>Page:</strong> ${source.page}<br>
+            <strong>Type:</strong> ${escapeHtml(source.content_type)}<br>
+            <strong>Category:</strong> ${escapeHtml(source.category)}<br>
+            <strong>System:</strong> ${escapeHtml(source.system)}<br>
+            <strong>Relevance:</strong> ${(source.score * 100).toFixed(1)}%
+        </div>
+        <div style="line-height: 1.8;">
+            <strong style="color: #8b0000;">Excerpt:</strong><br>
+            ${escapeHtml(source.excerpt)}
+        </div>
+    `;
+    
+    modal.classList.add('active');
+}
+
+function closeModal(event) {
+    if (!event || event.target.id === 'sourceModal') {
+        document.getElementById('sourceModal').classList.remove('active');
+    }
+}
+
+function resetSession() {
+    if (!confirm('Clear conversation history and start fresh?')) {
+        return;
+    }
+    
+    fetch('api.php?action=reset_session')
+        .then(response => response.json())
+        .then(data => {
+            if (data.success) {
+                conversationHistory = [];
+                sessionId = 'New';
+                document.getElementById('sessionId').textContent = sessionId;
+                document.getElementById('messages').innerHTML = '';
+                document.getElementById('welcome').style.display = 'block';
+            }
+        });
 }
 
 function escapeHtml(text) {
@@ -509,18 +727,19 @@ function escapeHtml(text) {
 }
 
 function formatAnswer(text) {
-    // If text is already HTML (starts with HTML tags), return as-is
+    // If text is already HTML, return as-is
     if (text.trim().startsWith('<')) {
         return text;
     }
     
-    // Convert markdown and plain text to HTML
-    text = text.replace(/\(Source \d+:([^)]+)\)/g, '<strong style="color: #8b0000;">(Source $&)</strong>');
+    // Convert markdown-style formatting
+    text = text.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+    text = text.replace(/\*(.*?)\*/g, '<em>$1</em>');
+    text = text.replace(/\n\n/g, '</p><p>');
     text = text.replace(/\n/g, '<br>');
-    return text;
+    
+    return '<p>' + text + '</p>';
 }
 </script>
 
 <?php include __DIR__ . '/../../includes/footer.php'; ?>
-
-
