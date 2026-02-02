@@ -1,4 +1,35 @@
 <?php
+error_reporting(0);
+ini_set('display_errors', '0');
+
+/**
+ * RAG Helper Functions
+
+ * Create a simple TF-IDF style embedding
+ */
+function create_simple_embedding($text) {
+    $text = strtolower($text);
+    $text = preg_replace('/[^a-z0-9\s]/', ' ', $text);
+    $words = preg_split('/\s+/', $text, -1, PREG_SPLIT_NO_EMPTY);
+    
+    $embedding = array_fill(0, 1024, 0.0);
+    
+    foreach ($words as $word) {
+        $hash = crc32($word);
+        $index = abs($hash) % 1024;
+        $embedding[$index] += 1.0;
+    }
+    
+    $magnitude = sqrt(array_sum(array_map(function($x) { return $x * $x; }, $embedding)));
+    if ($magnitude > 0) {
+        $embedding = array_map(function($x) use ($magnitude) { 
+            return $x / $magnitude; 
+        }, $embedding);
+    }
+    
+    return $embedding;
+}
+
 /**
  * RAG Helper Functions
  * Provides search, retrieval, and AI integration functions
@@ -245,6 +276,7 @@ Context from rulebooks:
     ];
     
     $data = [
+        'model' => 'meta-llama-3.1-8b-instruct',  // Add this line
         'messages' => $messages,
         'temperature' => 0.7,
         'max_tokens' => 1000,
@@ -258,7 +290,7 @@ Context from rulebooks:
     curl_setopt($ch, CURLOPT_HTTPHEADER, [
         'Content-Type: application/json'
     ]);
-    curl_setopt($ch, CURLOPT_TIMEOUT, 30);
+    curl_setopt($ch, CURLOPT_TIMEOUT, 120);  // 2 minutes
     
     $response = curl_exec($ch);
     $http_code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
@@ -374,7 +406,7 @@ Context from rulebooks:
  */
 function get_all_books($conn) {
     return db_fetch_all($conn,
-        "SELECT id, book_name, book_code, category, system, total_pages, total_chunks 
+        "SELECT id, book_name, book_code, category, `system`, total_pages, total_chunks 
          FROM rag_books 
          ORDER BY book_name"
     );

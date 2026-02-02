@@ -309,7 +309,7 @@ function importData() {
         }
     })
     .catch(error => {
-        updateStatus('import', 'error', 'Connection error: ' + error.message);
+        updateStatus('import', 'error', 'Connection error: ' + (error.message || error.toString() || 'Unknown error'));
         btn.disabled = false;
         btn.textContent = 'Retry Import';
     });

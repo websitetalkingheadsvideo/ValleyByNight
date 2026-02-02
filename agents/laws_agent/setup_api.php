@@ -1,5 +1,33 @@
 <?php
-
+/**
+ * Create a simple TF-IDF style embedding as fallback
+ */
+function create_simple_embedding($text) {
+    // Normalize and tokenize
+    $text = strtolower($text);
+    $text = preg_replace('/[^a-z0-9\s]/', ' ', $text);
+    $words = preg_split('/\s+/', $text, -1, PREG_SPLIT_NO_EMPTY);
+    
+    // Create a fixed-size embedding (1024 dimensions)
+    $embedding = array_fill(0, 1024, 0.0);
+    
+    // Use word hashing to populate embedding
+    foreach ($words as $word) {
+        $hash = crc32($word);
+        $index = abs($hash) % 1024;
+        $embedding[$index] += 1.0;
+    }
+    
+    // Normalize the embedding
+    $magnitude = sqrt(array_sum(array_map(function($x) { return $x * $x; }, $embedding)));
+    if ($magnitude > 0) {
+        $embedding = array_map(function($x) use ($magnitude) { 
+            return $x / $magnitude; 
+        }, $embedding);
+    }
+    
+    return $embedding;
+}
 /**
  * Setup API Backend
  * Handles web-based setup requests
@@ -7,10 +35,11 @@
 ini_set('display_errors', 1);
 error_reporting(E_ALL);
 session_start();
-
+set_time_limit(300); // 5 minutes
+ini_set('max_execution_time', '300');
 // Check authentication
 if (!isset($_SESSION['setup_authenticated']) || !$_SESSION['setup_authenticated']) {
-    header('Content-Type: application/json');
+    //header('Content-Type: application/json');
     echo json_encode(['success' => false, 'error' => 'Not authenticated']);
     exit;
 }
@@ -18,7 +47,7 @@ if (!isset($_SESSION['setup_authenticated']) || !$_SESSION['setup_authenticated'
 require_once __DIR__ . '/../../includes/connect.php';
 require_once __DIR__ . '/rag_functions.php';
 
-header('Content-Type: application/json');
+//header('Content-Type: application/json');
 
 $action = $_GET['action'] ?? '';
 
@@ -222,8 +251,11 @@ else if ($action === 'setup_database') {
  */
 else if ($action === 'import_data') {
     try {
-        if (!isset($_FILES['jsonFile']) || $_FILES['jsonFile']['error'] !== UPLOAD_ERR_OK) {
-            throw new Exception('No file uploaded or upload error');
+        if (!isset($_FILES['jsonFile'])) {
+            throw new Exception('No jsonFile in $_FILES. Files received: ' . json_encode(array_keys($_FILES)));
+        }
+        if ($_FILES['jsonFile']['error'] !== UPLOAD_ERR_OK) {
+            throw new Exception('Upload error code: ' . $_FILES['jsonFile']['error'] . ' - ' . $_FILES['jsonFile']['name']);
         }
         
         $json_content = file_get_contents($_FILES['jsonFile']['tmp_name']);
@@ -259,30 +291,46 @@ else if ($action === 'import_data') {
         $output .= "Pages: {$book_info['total_pages']}, Chunks: {$book_info['total_chunks']}\n\n";
         
         // Insert book
-        $book_id = db_execute($conn,
-            "INSERT INTO rag_books (book_name, book_code, source, category, system, total_pages, total_chunks) 
-             VALUES (?, ?, ?, ?, ?, ?, ?)
-             ON DUPLICATE KEY UPDATE 
-             book_name = VALUES(book_name),
-             source = VALUES(source),
-             total_pages = VALUES(total_pages),
-             total_chunks = VALUES(total_chunks)",
-            "ssssiii",
-            [
-                $book_info['book_name'],
-                $book_info['book_code'],
-                $book_info['source'],
-                $book_info['category'],
-                $book_info['system'],
-                $book_info['total_pages'],
-                $book_info['total_chunks']
-            ]
-        );
-        
-        if (!$book_id) {
-            $existing = db_fetch_one($conn, "SELECT id FROM rag_books WHERE book_code = ?", "s", [$book_info['book_code']]);
-            $book_id = $existing['id'];
-        }
+// Check if book exists first
+$existing = db_fetch_one($conn, "SELECT id FROM rag_books WHERE book_code = ?", "s", [$book_info['book_code']]);
+
+if ($existing) {
+    // Update existing book
+    $book_id = $existing['id'];
+    db_execute($conn,
+        "UPDATE rag_books SET book_name = ?, source = ?, category = ?, system = ?, total_pages = ?, total_chunks = ? WHERE id = ?",
+        "sssssii",
+        [
+            $book_info['book_name'],
+            $book_info['source'],
+            $book_info['category'],
+            $book_info['system'],
+            $book_info['total_pages'],
+            $book_info['total_chunks'],
+            $book_id
+        ]
+    );
+} else {
+    // Insert new book
+    $book_id = db_execute($conn,
+  "INSERT INTO rag_books (book_name, book_code, source, category, `system`, total_pages, total_chunks) 
+ VALUES (?, ?, ?, ?, ?, ?, ?)",
+        "ssssiii",
+        [
+            $book_info['book_name'],
+            $book_info['book_code'],
+            $book_info['source'],
+            $book_info['category'],
+            $book_info['system'],
+            $book_info['total_pages'],
+            $book_info['total_chunks']
+        ]
+    );
+}
+
+if (!$book_id) {
+    throw new Exception("Failed to create book record");
+}
         
         $output .= "Creating book record... Book ID: $book_id\n\n";
         $output .= "Importing documents and generating embeddings...\n";
