@@ -331,7 +331,7 @@ function query_claude($question, $context, $conversation_history = [], $api_key)
     $url = 'https://api.anthropic.com/v1/messages';
     
     // Build system prompt
-    $system_prompt = 'You are a helpful assistant for the Vampire: The Masquerade / Mind\'s Eye Theatre tabletop roleplaying game.
+    $system_prompt = 'You are a helpful assistant for the Vampire: The Masquerade / Mind\'s Eye Theatre LARP.
 You answer questions about rules, disciplines, clans, mechanics, and lore based ONLY on the provided context from official rulebooks.
 
 When answering:
