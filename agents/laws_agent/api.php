@@ -129,7 +129,9 @@ if ($action === 'ask') {
         
         // Step 7: Save conversation
         $response_time = (int)((microtime(true) - $start_time) * 1000);
-        save_conversation($conn, $user_id, $session_id, $question, $answer, $sources, $model, $response_time);
+        if ($ai_response['success'] && !empty($ai_response['answer'])) {
+            save_conversation($conn, $user_id, $session_id, $question, $ai_response['answer'], $sources, $model, $response_time);
+        }
         
         // Step 8: Return response
         echo json_encode([
@@ -139,13 +141,14 @@ if ($action === 'ask') {
             'model' => $model,
             'response_time_ms' => $response_time
         ]);
-        
+        exit;
     } catch (Exception $e) {
         error_log("RAG API Error: " . $e->getMessage());
         echo json_encode([
             'success' => false,
             'error' => 'Internal error: ' . $e->getMessage()
         ]);
+        exit;
     }
 }
 
@@ -220,4 +223,4 @@ else {
 }
 
 $conn->close();
-?>
+
