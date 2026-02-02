@@ -58,7 +58,7 @@ if ($action === 'ask') {
         }
         
         // Step 3: Perform hybrid search
-        $search_results = hybrid_search($conn, $question, $query_embedding, $book_filters, 3);
+        $search_results = hybrid_search($conn, $question, $query_embedding, $book_filters, 7);
         
         if (empty($search_results)) {
             echo json_encode([
@@ -69,7 +69,9 @@ if ($action === 'ask') {
             ]);
             exit;
         }
-        
+        error_log("Pages retrieved: " . implode(", ", array_map(function($r) { 
+            return $r['page']; 
+        }, $search_results)));
         // Step 4: Build context from search results
         $context = "";
         $sources = [];
