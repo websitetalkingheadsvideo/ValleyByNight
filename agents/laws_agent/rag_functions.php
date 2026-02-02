@@ -278,7 +278,7 @@ Context from rulebooks:
     $data = [
         'model' => 'meta-llama-3.1-8b-instruct',  // Add this line
         'messages' => $messages,
-        'temperature' => 0.7,
+        'temperature' => 0.1,
         'max_tokens' => 1000,
         'stream' => false
     ];

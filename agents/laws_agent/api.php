@@ -3,7 +3,7 @@ declare(strict_types=1);
 error_reporting(0);
 ini_set('display_errors', '0');
 session_start();
-set_time_limit(180);
+
 /**
  * RAG API Endpoint
  * Handles user queries with hybrid search and AI responses
@@ -58,7 +58,7 @@ if ($action === 'ask') {
         }
         
         // Step 3: Perform hybrid search
-        $search_results = hybrid_search($conn, $question, $query_embedding, $book_filters, 5);
+        $search_results = hybrid_search($conn, $question, $query_embedding, $book_filters, 3);
         
         if (empty($search_results)) {
             echo json_encode([
