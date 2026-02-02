@@ -529,7 +529,11 @@ function checkStatus() {
     const statusText = document.getElementById('statusText');
     
     fetch('api.php?action=get_books')
-        .then(response => response.json())
+    .then(response => response.text())
+.then(text => {
+    console.log('Raw response:', text);
+    return JSON.parse(text);
+})
         .then(data => {
             if (data.success) {
                 statusDot.classList.add('active');

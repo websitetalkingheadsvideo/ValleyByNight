@@ -192,7 +192,7 @@ function hybrid_search($conn, $query, $query_embedding, $book_filters = [], $lim
         if (!isset($seen_ids[$doc_id])) {
             $combined[] = [
                 'data' => $result,
-                'score' => $result['similarity'] * 0.6,
+                'score' => $result['similarity'] * 0.3,  // Changed from 0.6 to 0.3
                 'source' => 'semantic'
             ];
             $seen_ids[$doc_id] = true;
@@ -204,7 +204,7 @@ function hybrid_search($conn, $query, $query_embedding, $book_filters = [], $lim
         if (!isset($seen_ids[$doc_id])) {
             $combined[] = [
                 'data' => $result,
-                'score' => ($result['relevance'] / 100) * 0.4,
+                'score' => ($result['relevance'] / 100) * 0.7,  // Changed from 0.4 to 0.7
                 'source' => 'keyword'
             ];
             $seen_ids[$doc_id] = true;
@@ -212,7 +212,7 @@ function hybrid_search($conn, $query, $query_embedding, $book_filters = [], $lim
             // Boost existing semantic result if also in keyword results
             foreach ($combined as &$item) {
                 if ($item['data']['document_id'] == $doc_id || $item['data']['id'] == $doc_id) {
-                    $item['score'] += ($result['relevance'] / 100) * 0.4;
+                    $item['score'] += ($result['relevance'] / 100) * 0.7;  // Changed from 0.4 to 0.7
                 }
             }
         }
@@ -244,23 +244,25 @@ function query_lm_studio($question, $context, $conversation_history = []) {
     // Build messages array
     $messages = [];
     
-    // System message
-    $messages[] = [
-        'role' => 'system',
-        'content' => 'You are a helpful assistant for the Vampire: The Masquerade / Mind\'s Eye Theatre tabletop roleplaying game. 
-You answer questions about rules, disciplines, clans, mechanics, and lore based ONLY on the provided context from official rulebooks.
+   // System message
+$messages[] = [
+    'role' => 'system',
+'content' => 'You are an expert assistant for Vampire: The Masquerade Mind\'s Eye Theatre (MET).
 
-When answering:
-1. Be accurate and cite specific rules when relevant
-2. If the context doesn\'t contain the answer, say so
-3. Use game terminology correctly
-4. Be concise but complete
-5. Format your response clearly with proper paragraphs
+CRITICAL INSTRUCTIONS:
+1. The CONTEXT below contains exact rules from the official rulebook
+2. Read the CONTEXT carefully - pay attention to headings and structure
+3. QUOTE DIRECTLY from the CONTEXT - do not paraphrase mechanics
+4. If information is in the CONTEXT, it IS explicitly mentioned - do not say it is not
+5. List mechanics exactly as written, including costs and effects
+6. NEVER claim something is "not explicitly mentioned" if it appears in the text
+7. Always cite the page numbers provided
 
-Context from rulebooks:
-' . $context
-    ];
-    
+CONTEXT FROM OFFICIAL RULEBOOKS:
+' . $context . '
+
+Read the CONTEXT above word-for-word. Answer the question using ONLY what is written there. Quote directly when describing mechanics.'
+];
     // Add conversation history (last 3 exchanges)
     $history_limit = min(6, count($conversation_history));
     for ($i = max(0, count($conversation_history) - $history_limit); $i < count($conversation_history); $i++) {
@@ -278,7 +280,7 @@ Context from rulebooks:
     $data = [
         'model' => 'meta-llama-3.1-8b-instruct',  // Add this line
         'messages' => $messages,
-        'temperature' => 0.1,
+        'temperature' => 0.5,
         'max_tokens' => 1000,
         'stream' => false
     ];
