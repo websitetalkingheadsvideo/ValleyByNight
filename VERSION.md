@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.78
+## Current Version: 0.9.79
+
+**Date:** 2026-01-30  
+**Type:** Patch (Git sync: laws_agent remove LotNR subfolder, single rag_documents.json)
+
+## Previous Version: 0.9.78
 
 **Date:** 2026-01-30  
 **Type:** Patch (Git sync: laws_agent RAG/setup, LotNR integration)

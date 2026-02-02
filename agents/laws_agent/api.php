@@ -1,12 +1,13 @@
 <?php
+declare(strict_types=1);
+error_reporting(0);
+ini_set('display_errors', '0');
+session_start();
+set_time_limit(180);
 /**
  * RAG API Endpoint
  * Handles user queries with hybrid search and AI responses
  */
-
-declare(strict_types=1);
-session_start();
-
 require_once __DIR__ . '/../../includes/connect.php';
 require_once __DIR__ . '/rag_functions.php';
 
