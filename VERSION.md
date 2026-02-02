@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.79
+## Current Version: 0.9.80
+
+**Date:** 2026-02-01  
+**Type:** Patch (Git sync: laws_agent .env load fallback in test, API/rag tweaks)
+
+## Previous Version: 0.9.79
 
 **Date:** 2026-01-30  
 **Type:** Patch (Git sync: laws_agent remove LotNR subfolder, single rag_documents.json)
