@@ -64,4 +64,7 @@ I have experience with HTML, Java Script, PHP and MySQL.
 
 Before continuing ask me any questions to better understand my requirement and also to help me improve my prompt.
 
+
+PDF to data conversion
+
 Follow the Book Conversion Runbook. Input PDFs are under reference/Books; output goes to agents/laws_agent/Books. Use the 5-step process; run common + learned patterns first (A), then add per-book patterns (B) if needed. Build page_ranges from TOC and summaries in reference/Books_summaries

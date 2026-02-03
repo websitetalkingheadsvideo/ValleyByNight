@@ -5,15 +5,25 @@
  */
 declare(strict_types=1);
 
-session_start();
-
-// Check authentication
-if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
-    header("Location: ../login.php");
-    exit();
+if (session_status() === PHP_SESSION_NONE) {
+    session_start();
 }
 
 require_once __DIR__ . '/../includes/connect.php';
+
+$user_id = (int)($_SESSION['user_id'] ?? 0);
+if ($user_id <= 0) {
+    header('Location: ../login.php');
+    exit;
+}
+
+require_once __DIR__ . '/../includes/verify_role.php';
+$user_role = verifyUserRole($conn, $user_id);
+if (!isAdminUser($user_role)) {
+    header('Location: ../login.php');
+    exit;
+}
+
 include __DIR__ . '/../includes/header.php';
 require_once __DIR__ . '/../includes/admin_header.php';
 

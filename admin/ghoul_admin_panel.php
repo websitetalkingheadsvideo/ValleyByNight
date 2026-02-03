@@ -5,15 +5,25 @@
  */
 declare(strict_types=1);
 
-session_start();
-
-// Check authentication
-if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
-    header("Location: ../login.php");
-    exit();
+if (session_status() === PHP_SESSION_NONE) {
+    session_start();
 }
 
 require_once __DIR__ . '/../includes/connect.php';
+
+$user_id = (int)($_SESSION['user_id'] ?? 0);
+if ($user_id <= 0) {
+    header('Location: ../login.php');
+    exit;
+}
+
+require_once __DIR__ . '/../includes/verify_role.php';
+$user_role = verifyUserRole($conn, $user_id);
+if (!isAdminUser($user_role)) {
+    header('Location: ../login.php');
+    exit;
+}
+
 include __DIR__ . '/../includes/header.php';
 require_once __DIR__ . '/../includes/admin_header.php';
 
@@ -92,7 +102,7 @@ function getHighestDiscipline($disciplinesJson) {
                     <div class="card text-center bg-dark border-danger text-light">
                         <div class="card-body">
                             <div class="vbn-stat-number h2 fw-bold" id="statTotal"><?php echo $stats['total'] ?? 0; ?></div>
-                            <div class="vbn-stat-label text-uppercase small opacity-75">Total Ghouls</div>
+                            <div class="vbn-stat-label text-uppercase small">Total Ghouls</div>
                         </div>
                     </div>
                 </div>
@@ -100,7 +110,7 @@ function getHighestDiscipline($disciplinesJson) {
                     <div class="card text-center bg-dark border-danger text-light">
                         <div class="card-body">
                             <div class="vbn-stat-number h2 fw-bold" id="statPcs"><?php echo $stats['pcs'] ?? 0; ?></div>
-                            <div class="vbn-stat-label text-uppercase small opacity-75">PC Ghouls</div>
+                            <div class="vbn-stat-label text-uppercase small">PC Ghouls</div>
                         </div>
                     </div>
                 </div>
@@ -108,7 +118,7 @@ function getHighestDiscipline($disciplinesJson) {
                     <div class="card text-center bg-dark border-danger text-light">
                         <div class="card-body">
                             <div class="vbn-stat-number h2 fw-bold" id="statNpcs"><?php echo $stats['npcs'] ?? 0; ?></div>
-                            <div class="vbn-stat-label text-uppercase small opacity-75">NPC Ghouls</div>
+                            <div class="vbn-stat-label text-uppercase small">NPC Ghouls</div>
                         </div>
                     </div>
                 </div>

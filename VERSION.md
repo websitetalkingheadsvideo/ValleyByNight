@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.80
+## Current Version: 0.9.85
+
+**Date:** 2026-02-03  
+**Type:** Patch (Ghoul/Wraith/Werewolf admin & templates: auth, template READMEs, werewolf table & import)
+
+## Previous Version: 0.9.80
 
 **Date:** 2026-02-01  
 **Type:** Patch (Git sync: laws_agent .env load fallback in test, API/rag tweaks)

@@ -2,7 +2,8 @@
   "_template_version": "1.0.0",
   "_description": "Wraith: The Oblivion Character Sheet Template - All fields needed for database integration",
   "_database_table": "wraith_characters",
-  
+  "template_usage": "Fill this template and import with: php tools/repeatable/php/database-tools/import_wraith_characters.php path/to/this_file.json (or ?file=filename.json in browser). character_name is required. All keys map to wraith_characters table. See reference/Characters/Wraiths/README_wraith_template.md for field-to-table mapping.",
+
   "id": 0,
   "user_id": 0,
   "character_name": "",
