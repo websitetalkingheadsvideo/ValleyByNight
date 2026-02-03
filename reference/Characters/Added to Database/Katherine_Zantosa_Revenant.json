@@ -1,0 +1,261 @@
+{
+  "template_usage": "Katherine Zantosa - Revenant (independent ghoul family member). Import with: php tools/repeatable/import_ghouls.php path/to/this_file.json",
+  "character_name": "Katherine Zantosa",
+  "player_name": "ST/NPC",
+  "chronicle": "Valley by Night",
+  "pc": 0,
+  "status": "active",
+  "camarilla_status": "",
+  "clan": "Ghoul",
+  "nature": "Survivor",
+  "demeanor": "Director",
+  "derangement": "",
+  "concept": "Corporate Face / Social Revenant Executive",
+  "appearance": "Beautiful woman of medium height and build, with shoulder-length, silver-blond hair and blue eyes. Katherine is always dressed appropriately for the situation, with subtle, but expensive jewelry. Uses Vicissitude to alter her looks significantly over the years.",
+  "biography": "Katherine was born, under a different first name, during the last days of the Anarch Rebellion. Her owner was an ancient Tzimisce who still held to the old traditions and as such, he was under constant attack by younger members of the clan. Katherine's father was their master's factor in the city of Buda-Pest, dealing with mortals and handling whatever trade was needed on behalf of the vampire. Katherine was brought up in this family of merchants and envoys, trained to deal with mortals in whatever way was necessary.\n\nWhen the Anarchs slew Katherine's owner, she was still a young woman and, more importantly, had not yet been Blood Bonded to her master. While her parents, aunts and uncles, and other older members of the family suddenly found themselves deprived of vampiric vitae, Katherine herself was free. However, the young Tzimisce behind the attack knew about the various revenant families and so, they began to hunt down the former servants, either to kill them or to, somewhat ironically, enslave them and use them in the battle against the hated Elders. Katherine easily read the writing on the wall and liquidated as much of her family's business as she could get her hands on, before fleeing westward. Soon, she found herself in England, a place less touched by the chaos of the Anarch Revolt than most of Europe.\n\nFor a while, Katherine plied her talents as a freelance fixer among the youngest Kindred of London and the bigger cities in England, but she was always afraid that she would be caught up by some enterprising vampire and the idea of the Blood Bond terrified her. But she also knew that she needed vampire blood to stave off her slow aging, so she could not completely shut herself off from the Kindred world.\n\nWhen Britain took an interest in the New World, Katherine saw an opportunity. Cashing in all the favors she was owed, she journeyed across the ocean to the British colonies with a fair amount of ready cash and enough Kindred vitae to last her a while. She set herself up in Virginia and, drawing upon experience from the old world, established one of the first brothels in the British colonies.\n\nAt first, the vampires that came to the New World were Sabbat, the heritors of the Anarch legacy, who were aware of the existence of revenants, and Katherine hid herself from them. However, with British interests on the rise, more and more Camarilla Kindred made the trip. And Katherine was ready to supply their need for blood, acquired discretely.\n\nOver time, Katherine moved from city to city, always aiming for the biggest and wealthiest centers of civilization, though avoiding the Sabbat as much as possible. Over the centuries, she has built up a business empire; on the surface, she is the owner of a small, but supremely exclusive, model agency. However, she is also the manager of a nation-wide escort agency, holds controlling interest in a make-up firm and, through intermediaries, she controls a few high-class brothels.\n\nKatherine's goals are simple – she wants to survive and she wants to remain free from any vampiric influence. She does her best not to spend whatever Kindred vitae she acquires, but at least once every decade, she finds herself needing a 'top-up'. When this happens, she will turn her attention to the vampires who owe her favors and ask for payment in blood.\n\nKatherine is still adjusting to undeath. She's enthusiastic, ambitious, and eager to prove herself worthy of Warner's investment. She doesn't yet fully grasp the depths of Kindred politics or how completely Warner has shaped her entire life. She believes her success was earned through merit, unaware of the decade-long manipulation that brought her to this point.",
+  "notes": "KATHERINE ZANTOSA - THE REVENANT\n\nKatherine is a REVENANT - a member of ghoul bloodlines bred by the Tzimisce. She was never Embraced but has inherent vampiric powers through her bloodline. She is technically NOT bonded to any vampire and seeks to remain that way.\n\nREVENANT NOTES:\n- Born with one dot of Vicissitude and other disciplines\n- Does NOT age normally but needs vampiric blood to prevent slow aging (once per decade)\n- NOT Blood Bonded to anyone (this is her primary goal - remain free)\n- Fears the Blood Bond more than anything\n- Blood Pool represents vitae she has acquired and stored\n- Uses blood to fuel disciplines like a vampire\n\nBUSINESS EMPIRE:\n- Model agency (public face)\n- Nation-wide escort agency\n- Controlling interest in make-up firm\n- High-class brothels (through intermediaries)\n- Supplies discrete feeding opportunities for Kindred clients\n\nOPERATING METHODS:\n- Lets vampires use her services on credit\n- Collects favors owed\n- Calls in favors for payment in blood (vitae)\n- Very protective of her business and employees\n- Will retaliate against competition or abuse\n\nVULNERABILITIES:\n- Needs vampire blood every decade or so\n- Fears being captured and bonded\n- Has made many enemies over the centuries\n- Sabbat know about revenants and would enslave her\n- Dependent on Kindred society despite wanting independence",
+  "custom_data": {
+    "creature_type": "Revenant",
+    "revenant_family": "Zantosa",
+    "apparent_age": "Late 30s",
+    "actual_age": "Approximately 400+ years (born during Anarch Rebellion)",
+    "last_vitae_feeding": "Within last 5 years",
+    "special_notes": "Katherine has used Vicissitude extensively to alter her appearance over the centuries to avoid recognition. She is one of the few revenants who has remained independent and unbonded for centuries."
+  },
+  "character_image": null,
+  "generation": null,
+  "sire": "None (Revenant - born not Embraced)",
+  "experience_total": 0,
+  "experience_unspent": 0,
+  "spent_xp": 0,
+  "willpower_current": 9,
+  "willpower_permanent": 9,
+  "blood_pool_current": 15,
+  "blood_pool_max": 15,
+  "path_rating": 6,
+  "morality_path": "Humanity",
+  "conscience": 2,
+  "self_control": 5,
+  "courage": 3,
+  "equipment": "Designer business suits (multiple, tailored), luxury sedan (leased through company), high-end smartphone and pager (1994 cutting edge), leather portfolio and briefcase, expensive watch (gift from Warner), business cards for multiple shell companies, keys to executive office and penthouse apartment, credit cards (corporate and personal, high limits)",
+  "health_status": "Healthy",
+  "name": {
+    "full": "Katherine Zantosa",
+    "first": "Katherine",
+    "last": "Zantosa",
+    "aliases": ["Various names over the centuries"]
+  },
+  "domitor": {
+    "domitor_character_id": null,
+    "domitor_name": "None - Independent Revenant",
+    "relationship_summary": "Katherine has NO domitor and actively works to remain unbonded. She fears the Blood Bond more than anything.",
+    "first_contact": {
+      "date": null,
+      "context": "N/A - Katherine was born a revenant, not ghouled"
+    }
+  },
+  "domitor_character_id": null,
+  "bond": {
+    "blood_bond_stage": 0,
+    "bond_strength_descriptor": "Unbonded - Katherine's primary goal is to remain this way",
+    "blood_bond_notes": "Katherine has never been Blood Bonded and works hard to prevent it. She only drinks vampire blood when absolutely necessary (once per decade) and from multiple sources to avoid bonding."
+  },
+  "blood_bond_stage": 0,
+  "mechanics": {
+    "nature": "Survivor",
+    "demeanor": "Director",
+    "concept": "Corporate Face / Social Revenant Executive",
+    "chronicle_date": "1994",
+    "attributes": {
+      "physical": { "strength": 2, "dexterity": 4, "stamina": 3 },
+      "social": { "charisma": 4, "manipulation": 5, "appearance": 4 },
+      "mental": { "perception": 4, "intelligence": 3, "wits": 5 }
+    },
+    "abilities": {
+      "talents": [
+        {"name": "Alertness", "level": 3},
+        {"name": "Athletics", "level": 2},
+        {"name": "Awareness", "level": 2},
+        {"name": "Brawl", "level": 2},
+        {"name": "Empathy", "level": 4},
+        {"name": "Expression", "level": 1},
+        {"name": "Intimidation", "level": 3},
+        {"name": "Leadership", "level": 4},
+        {"name": "Subterfuge", "level": 5}
+      ],
+      "skills": [
+        {"name": "Animal Ken", "level": 1},
+        {"name": "Crafts", "level": 3},
+        {"name": "Drive", "level": 1},
+        {"name": "Etiquette", "level": 5},
+        {"name": "Firearms", "level": 1},
+        {"name": "Melee", "level": 1},
+        {"name": "Stealth", "level": 1}
+      ],
+      "knowledges": [
+        {"name": "Academics", "level": 1},
+        {"name": "Finance", "level": 2},
+        {"name": "Investigation", "level": 1},
+        {"name": "Law", "level": 2},
+        {"name": "Medicine", "level": 1},
+        {"name": "Occult", "level": 3},
+        {"name": "Politics", "level": 3}
+      ]
+    },
+    "disciplines": [
+      {
+        "name": "Auspex",
+        "level": 3,
+        "powers": ["Heightened Senses", "Aura Perception", "The Spirit's Touch"],
+        "notes": "Inherited through revenant bloodline"
+      },
+      {
+        "name": "Celerity",
+        "level": 1,
+        "powers": ["Alacrity"],
+        "notes": "Inherited through revenant bloodline"
+      },
+      {
+        "name": "Fortitude",
+        "level": 1,
+        "powers": ["Endurance"],
+        "notes": "Inherited through revenant bloodline"
+      },
+      {
+        "name": "Potence",
+        "level": 1,
+        "powers": ["Prowess"],
+        "notes": "Inherited through revenant bloodline"
+      },
+      {
+        "name": "Presence",
+        "level": 3,
+        "powers": ["Awe", "Dread Gaze", "Entrancement"],
+        "notes": "Inherited through revenant bloodline"
+      },
+      {
+        "name": "Vicissitude",
+        "level": 3,
+        "powers": ["Malleable Visage", "Fleshcraft", "Bonecraft"],
+        "notes": "Zantosa family discipline - used to alter her appearance over the centuries"
+      }
+    ],
+    "backgrounds": [
+      {"name": "Allies", "level": 3, "description": "Powerful people using her services"},
+      {"name": "Contacts", "level": 5, "description": "In numerous, useful places"},
+      {"name": "Fame", "level": 1, "description": "Known in certain circles"},
+      {"name": "Influence", "level": 1, "description": "Minor influence in various cities"},
+      {"name": "Resources", "level": 3, "description": "Successful business empire"}
+    ],
+    "merits_flaws": {
+      "merits": [],
+      "flaws": []
+    },
+    "advantages": {
+      "willpower": 9,
+      "courage": 3,
+      "self_control": 5,
+      "conscience": 2,
+      "humanity": 6
+    },
+    "health": {
+      "current": ["Healthy", "Healthy", "Healthy", "Healthy", "Healthy", "Healthy", "Healthy"],
+      "max": 7,
+      "notes": "Standard health levels"
+    },
+    "experience": {
+      "total_earned": 0,
+      "total_spent": 0,
+      "unspent": 0,
+      "log": []
+    },
+    "derived_stats": {
+      "initiative": "Wits (5) + Alertness (3) = 8",
+      "movement": "Dexterity (4) based",
+      "carry": "Strength (2) based",
+      "soak": "Stamina (3) + Fortitude (1) = 4"
+    }
+  },
+  "vitae": {
+    "access_pattern": "Irregular - only when needed (once per decade)",
+    "withdrawal_risk": "Low - only needs it to prevent aging",
+    "dependency": {
+      "emotional_dependency_level": 0,
+      "functional_dependency_level": 3,
+      "notes": "Needs vitae to prevent aging but not emotionally dependent"
+    }
+  },
+  "awareness": {
+    "knows_vampires_exist": true,
+    "knows_domitor_is_vampire": false,
+    "knows_clan": true,
+    "known_clan": "All major clans - especially Tzimisce",
+    "knows_politics": "expert",
+    "knows_masquerade_rules": true,
+    "knowledge_notes": "Katherine has extensive knowledge of Kindred society, having been raised in it and dealt with vampires for centuries."
+  },
+  "public_profile": {
+    "claimed_age": 38,
+    "presentation": {
+      "style_summary": "Professional, elegant, expensive but tasteful",
+      "signature_items": ["Designer suits", "Expensive jewelry", "Luxury vehicles"],
+      "demeanor_public": "Confident, charming, professional businesswoman"
+    },
+    "public_role": "Owner of exclusive model agency and various business interests",
+    "cover_story": "Successful businesswoman who built empire through hard work and connections",
+    "contact_points": ["Corporate offices", "High-end clubs", "Elysium (occasionally)"]
+  },
+  "hidden_profile": {
+    "actual_age": 400,
+    "runaway": false,
+    "legal_status": "Multiple legal identities established over centuries",
+    "false_identity_notes": "Has created new identities every few decades to avoid suspicion. Current identity is about 15 years old.",
+    "domitor_awareness_of_truth": {},
+    "hidden_flags": ["Revenant", "Centuries old", "Fears Blood Bond", "Escaped servitude during Anarch Rebellion"]
+  },
+  "risks": {
+    "masquerade_risk": "low",
+    "court_risk": "low",
+    "legal_risk": "low",
+    "exploitation_risk": "medium",
+    "tags": ["Independent", "Valuable asset", "Potential target for bonding"],
+    "risk_notes": "Main risk is vampires who would want to bond her and control her business empire. Also at risk from Sabbat who know about revenants."
+  },
+  "relationships": {
+    "to_domitor": {
+      "attachment_style": "N/A - No domitor",
+      "jealousy_level": 0,
+      "protectiveness_level": 0,
+      "trust_level": 0,
+      "notes": "Katherine actively avoids being bonded to any vampire"
+    },
+    "others": [
+      {
+        "name": "Various Kindred Clients",
+        "relationship": "Business",
+        "description": "Katherine provides discrete services to vampires and collects favors. She maintains professional relationships but keeps emotional distance."
+      },
+      {
+        "name": "Her Employees",
+        "relationship": "Protective",
+        "description": "Katherine is protective of those who work for her and will retaliate against anyone who abuses them."
+      }
+    ]
+  },
+  "is_active": 1,
+  "retainer_level": null,
+  "vitae_last_fed_at": "Within last 5 years",
+  "vitae_frequency": "Once per decade approximately",
+  "first_fed_at": "Birth - born a revenant",
+  "is_family": 0,
+  "loyalty": null,
+  "independent_will": 10,
+  "escape_risk": null,
+  "risk_level": "Medium - valuable but independent",
+  "discipline_cap_override": null,
+  "addiction_severity": 1,
+  "withdrawal_effects": "Slow aging if deprived of vitae",
+  "domitor_control_style": null,
+  "handler_notes": "Katherine is NOT bonded to anyone. She is an independent revenant who has successfully avoided the Blood Bond for centuries. She should be treated as a powerful NPC ally/contact rather than a servant. She collects favors from vampires and may call them in. She is protective of her business and will act against threats.",
+  "masquerade_liability": "Low - very aware of Masquerade"
+}

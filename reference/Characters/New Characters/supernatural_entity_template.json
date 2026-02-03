@@ -1,0 +1,83 @@
+{
+  "_template_version": "1.0.0",
+  "_description": "Supernatural Entity Character Sheet Template - For unique supernatural beings (constructs, spirits, jinn, etc.)",
+  "_database_table": "supernatural_entities",
+  "template_usage": "Fill this template and import with: php tools/repeatable/php/database-tools/import_supernatural_entities.php path/to/this_file.json. character_name is required. This template handles entities that don't fit other categories.",
+  
+  "id": 0,
+  "user_id": 0,
+  "character_name": "",
+  "player_name": "ST/NPC",
+  "chronicle": "Valley by Night",
+  "nature": "",
+  "demeanor": "",
+  "concept": "",
+  "entity_type": "",
+  "entity_subtype": "",
+  "pc": 0,
+  "appearance": "",
+  "biography": "",
+  "notes": "",
+  "equipment": "",
+  "character_image": "",
+  "status": "active",
+  
+  "attributes": {
+    "Physical": { "Strength": 0, "Dexterity": 0, "Stamina": 0 },
+    "Social": { "Charisma": 0, "Manipulation": 0, "Composure": 0 },
+    "Mental": { "Perception": 0, "Intelligence": 0, "Wits": 0 }
+  },
+  
+  "abilities": [],
+  
+  "powers": [],
+  
+  "power_pool": {
+    "pool_name": "",
+    "current": 0,
+    "maximum": 0,
+    "regeneration": ""
+  },
+  
+  "willpower_permanent": 5,
+  "willpower_current": 5,
+  
+  "backgrounds": {},
+  
+  "backgroundDetails": {},
+  
+  "special_abilities": [],
+  
+  "immunities": [],
+  
+  "vulnerabilities": [],
+  
+  "health_levels": [],
+  
+  "merits_flaws": [],
+  
+  "relationships": [],
+  
+  "custom_data": null,
+  
+  "actingNotes": "",
+  "agentNotes": "",
+  "health_status": "",
+  
+  "experience_total": 0,
+  "spent_xp": 0,
+  "experience_unspent": 0,
+  
+  "created_at": null,
+  "updated_at": null,
+  
+  "_field_documentation": {
+    "entity_type": "STRING - Type of entity (Construct, Spirit, Jinn, Elemental, etc.)",
+    "entity_subtype": "STRING - More specific type (Golem, Tupilaq, Ifrit, etc.)",
+    "powers": "ARRAY - Supernatural abilities. Format: [{\"name\": \"...\", \"level\": 0, \"description\": \"...\", \"effects\": []}]",
+    "power_pool": "OBJECT - Entity's power source (Essence, Quintessence, Mana, etc.)",
+    "special_abilities": "ARRAY - Unique abilities specific to this entity type",
+    "immunities": "ARRAY - What cannot harm this entity",
+    "vulnerabilities": "ARRAY - What can harm or destroy this entity"
+  }
+}

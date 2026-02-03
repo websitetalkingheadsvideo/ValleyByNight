@@ -145,6 +145,7 @@ function upsert_character(mysqli $conn, array $charactersCols, array $json): int
     // Ensure required-ish columns (if present)
     if (isset($charactersCols['character_name'])) $data['character_name'] = (string)$json['character_name'];
     if (isset($charactersCols['clan']))           $data['clan'] = 'Ghoul';
+    if (isset($charactersCols['user_id']))        $data['user_id'] = (int)($json['user_id'] ?? 1);
 
     // Find existing by name + clan (preferred)
     $stmt = null;
@@ -242,6 +243,23 @@ function upsert_ghoul_overlay(mysqli $conn, array $ghoulOverlaysCols, int $chara
     foreach ($candidateKeys as $k) {
         if (array_key_exists($k, $json) && isset($ghoulOverlaysCols[$k])) {
             $overlay[$k] = json_or_scalar($json[$k]);
+        }
+    }
+    $ghoulNotNullDefaults = [
+        'retainer_level' => 0,
+        'loyalty' => 0,
+        'is_active' => 1,
+        'is_family' => 0,
+        'independent_will' => 0,
+        'escape_risk' => 0,
+        'risk_level' => 0,
+    ];
+    foreach ($ghoulNotNullDefaults as $col => $default) {
+        if (isset($ghoulOverlaysCols[$col])) {
+            $v = $overlay[$col] ?? null;
+            if ($v === null || $v === '') {
+                $overlay[$col] = $default;
+            }
         }
     }
 

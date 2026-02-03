@@ -1,0 +1,250 @@
+{
+  "_template_version": "1.0.0",
+  "_database_table": "mortal_characters",
+  "template_usage": "Johann Metzner - Eternal Alchemist. Import with: php tools/repeatable/php/database-tools/import_mortal_characters.php path/to/this_file.json",
+  
+  "id": 0,
+  "user_id": 0,
+  "character_name": "Johann Metzner",
+  "player_name": "ST/NPC",
+  "chronicle": "Valley by Night",
+  "nature": "Perfectionist",
+  "demeanor": "Enigma",
+  "concept": "Eternal Alchemist / Immortal Scholar",
+  "power_source": "Alchemy",
+  "pc": 0,
+  "appearance": "Highly unremarkable man, short, dark-haired, dressed in a modern business suit. Carries himself with quiet confidence. Everything about him is designed to not draw attention.",
+  "biography": "Johann was born in the German city of Magdeburg at the end of the 16th century. His father was an extremely wealthy merchant and with Johann being his third son, he had no problem letting the young man take a university education rather than learn the family business. Johann attended the University of Leipzig, where he studied Astrology and the emerging sciences.\n\nIt was at the university that Johann met his mentor, Reinhardt von Hebenstreit, a master alchemist. Johann was enthralled by the possibilities that alchemy offered and dedicated much of his time to study and experimentation.\n\nWhen von Hebenstreit died, Johann moved back to Magdeburg and, with his father's money, set himself up as an astrologer and alchemist. He made his money performing horoscopes for the city elite, but his true passion was alchemy. Over the decades, he made numerous experiments and even managed to perform some hitherto unknown transformations of matter.\n\nUnbeknownst to Johann, his work was being observed by one of the city's vampires, a Tremere who saw a lot of potential in the alchemist. There were plans to induct Johann into the clan, when his usefulness as a mortal came to an end. Johann's would-be sire even posed as a fellow alchemist and brought Johann samples of Kindred Vitae, letting him know that it was vampire blood, to see what the man could do with it.\n\nUnfortunately for the Kindred of Magdeburg, the city was invaded, sacked, and burned on the 20th of May 1631. Most of the city's vampires either died or were driven into torpor and most of the rest fled. And in all the chaos, Johann was forgotten.\n\nFor his part, Johann had begun to experiment with the Vitae he had been given and, with his previous advances in alchemy, he was able to create one of the grand works of alchemy; the potion of immortality.\n\nFor the next 100 years, Johann did not age. However, at the end of that century, the potion wore off. Being an intelligent and learned alchemist, Johann had known that this was a likely possibility and so, he had spent a lot of time learning as much as possible about vampires. And so, as his first potion wore off, Johann was able to secure himself more vitae and create another dose.\n\nOver the centuries, Johann has perfected his alchemical craft. He has become fantastically rich, having invested money made as an astrologer and physician. These days, he is researching a more permanent potion of immortality – one that will require the expenditure of 100 points of vampiric blood.\n\nJohann treads cautiously, as he has not survived through all those years without being careful and considerate – he also moves around a lot in order to avoid drawing too much attention.",
+  "notes": "JOHANN METZNER - THE ETERNAL ALCHEMIST\n\nJohann is a MORTAL ALCHEMIST who has achieved functional immortality through alchemy. He has lived for nearly 400 years by creating and drinking potions of immortality made from vampiric blood.\n\nALCHEMICAL ACHIEVEMENTS:\n- Created potion of immortality (lasts 100 years per dose)\n- Can transmute matter in limited ways\n- Has mastered defensive alchemy (armor, healing, fortitude)\n- Researching permanent immortality (requires 100 blood points)\n\nVITAE REQUIREMENTS:\n- Needs vampire blood to create immortality potions\n- Each potion requires significant vitae\n- Current potion will last another ~15 years\n- Researching permanent version requiring 100 blood points\n- Has learned to 'distill' vitae from ghouls\n\nTARGETING METHODS:\n- Prefers to target weak or torpored vampires\n- Will kidnap ghouls to distill their vitae\n- Avoids direct confrontation\n- Extremely cautious and patient\n- Moves cities frequently\n\nKNOWLEDGE:\n- Extensive knowledge of vampires (400 years of study)\n- Knows vampire weaknesses\n- Understands Kindred society\n- Expert on blood magic and vitae\n\nTHREAT LEVEL:\n- Not combative but extremely dangerous if cornered\n- Has alchemical items that rival vampiric powers\n- Can identify vampires through crystal prism\n- Heals rapidly and has supernatural durability\n- Weapons can do aggravated damage\n\nVULNERABILITIES:\n- Still mortal (can be killed)\n- Dependent on vampire blood for immortality\n- Obsessed with perfecting permanent immortality\n- Will take risks to acquire 100 blood points",
+  "equipment": "Business suit (5 armor, no penalty - alchemical enhancement), dagger (Str+3 damage), saber (Str+4 aggravated damage - alchemical), healing potions (heal all normal damage or 1 aggravated), crystal prism (identifies vampiric vitae), various alchemical tools and ingredients, large amounts of cash and investments",
+  "character_image": "",
+  "status": "active",
+  "willpower_permanent": 10,
+  "willpower_current": 10,
+  
+  "attributes": {
+    "Physical": { "Strength": 3, "Dexterity": 3, "Stamina": 6 },
+    "Social": { "Charisma": 3, "Manipulation": 4, "Composure": 2 },
+    "Mental": { "Intelligence": 5, "Wits": 5, "Resolve": 5 }
+  },
+  
+  "abilities": [
+    {"name": "Academics", "level": 4, "category": "Knowledge", "specialization": "History, Philosophy"},
+    {"name": "Alertness", "level": 3, "category": "Talent"},
+    {"name": "Athletics", "level": 2, "category": "Talent"},
+    {"name": "Awareness", "level": 5, "category": "Talent", "specialization": "Supernatural detection"},
+    {"name": "Crafts", "level": 5, "category": "Skill", "specialization": "Alchemy"},
+    {"name": "Empathy", "level": 1, "category": "Talent"},
+    {"name": "Etiquette", "level": 2, "category": "Skill"},
+    {"name": "Finance", "level": 1, "category": "Knowledge"},
+    {"name": "Intimidation", "level": 1, "category": "Talent"},
+    {"name": "Larceny", "level": 3, "category": "Skill"},
+    {"name": "Medicine", "level": 3, "category": "Knowledge", "specialization": "Historical medicine"},
+    {"name": "Melee", "level": 3, "category": "Skill", "specialization": "Saber"},
+    {"name": "Occult", "level": 5, "category": "Knowledge", "specialization": "Alchemy, Vampires"},
+    {"name": "Science", "level": 5, "category": "Knowledge", "specialization": "Chemistry, Alchemy"},
+    {"name": "Stealth", "level": 4, "category": "Skill"},
+    {"name": "Streetwise", "level": 4, "category": "Talent"},
+    {"name": "Subterfuge", "level": 4, "category": "Talent"}
+  ],
+  
+  "powers": [
+    {
+      "name": "Alchemical Fortitude",
+      "level": 3,
+      "path_or_discipline": "Alchemy - Long-term effect",
+      "description": "Through constant use of alchemical preparations, Johann has permanently enhanced his body's durability.",
+      "effects": [
+        "Equivalent to Fortitude 3",
+        "Soaks all damage with Stamina (6) + 3",
+        "Regenerates 1 bashing damage per round",
+        "Regenerates 1 lethal damage per minute"
+      ]
+    },
+    {
+      "name": "Alchemical Armor Suit",
+      "level": 5,
+      "path_or_discipline": "Alchemy - Crafted item",
+      "description": "Business suit enhanced through alchemy to provide significant protection.",
+      "effects": [
+        "Provides 5 armor rating",
+        "No dexterity penalty",
+        "Appears as normal business suit",
+        "Protects against all damage types"
+      ]
+    },
+    {
+      "name": "Healing Potions",
+      "level": 4,
+      "path_or_discipline": "Alchemy - Consumable",
+      "description": "Potions that can heal wounds rapidly.",
+      "effects": [
+        "Heals all bashing and lethal damage OR",
+        "Heals 1 aggravated damage",
+        "Takes 1 turn to drink",
+        "Johann carries several at all times"
+      ]
+    },
+    {
+      "name": "Aggravated Damage Weapons",
+      "level": 4,
+      "path_or_discipline": "Alchemy - Crafted items",
+      "description": "Alchemically enhanced weapons that can harm supernatural creatures.",
+      "effects": [
+        "Dagger does Str+3 lethal damage",
+        "Saber does Str+4 aggravated damage",
+        "Both are highly effective against vampires"
+      ]
+    },
+    {
+      "name": "Crystal Prism of Detection",
+      "level": 3,
+      "path_or_discipline": "Alchemy - Crafted item",
+      "description": "A crystal that can detect vampiric vitae in living beings.",
+      "effects": [
+        "Can identify if someone has vampiric blood in them",
+        "Works on vampires and ghouls",
+        "Range: line of sight through prism"
+      ]
+    },
+    {
+      "name": "Potion of Immortality",
+      "level": 5,
+      "path_or_discipline": "Alchemy - Grand Work",
+      "description": "The greatest achievement of Johann's alchemical career - functional immortality.",
+      "effects": [
+        "Prevents aging for 100 years per dose",
+        "Requires significant vampiric vitae to create",
+        "Current dose has ~15 years remaining",
+        "Researching permanent version (requires 100 blood points)"
+      ]
+    },
+    {
+      "name": "Vitae Distillation",
+      "level": 4,
+      "path_or_discipline": "Alchemy - Process",
+      "description": "Method to extract usable vampiric vitae from ghouls.",
+      "effects": [
+        "Can extract blood from ghouls",
+        "Process takes several hours",
+        "Yields 1-3 blood points per ghoul",
+        "Less efficient than taking from vampires directly"
+      ]
+    }
+  ],
+  
+  "backgrounds": {
+    "Resources": 5,
+    "Contacts": 3,
+    "Retainers": 1
+  },
+  
+  "backgroundDetails": {
+    "Resources": "Fantastically wealthy from 400 years of careful investment and work as physician/astrologer. Has multiple accounts and investments across the world.",
+    "Contacts": "Network of occult dealers, black market suppliers, and information brokers built up over centuries. Carefully cultivated and maintained.",
+    "Retainers": "Occasionally employs assistants or bodyguards when needed, but never keeps them long enough to learn his secrets."
+  },
+  
+  "merits_flaws": [
+    {
+      "name": "Immortal (Alchemical)",
+      "type": "merit",
+      "point_value": 7,
+      "description": "Through alchemy, Johann has achieved functional immortality. Does not age while under the effect of his potion."
+    },
+    {
+      "name": "Master Alchemist",
+      "type": "merit",
+      "point_value": 5,
+      "description": "Johann has perfected the alchemical arts over 400 years. Can create items and effects that rival supernatural powers."
+    },
+    {
+      "name": "Vampire Lore",
+      "type": "merit",
+      "point_value": 3,
+      "description": "Extensive knowledge of vampires, their society, powers, and weaknesses gained over 400 years."
+    },
+    {
+      "name": "Paranoia",
+      "type": "flaw",
+      "point_value": -2,
+      "description": "400 years of hiding and surviving have made Johann extremely cautious and paranoid. Trusts no one."
+    },
+    {
+      "name": "Obsession (Permanent Immortality)",
+      "type": "flaw",
+      "point_value": -3,
+      "description": "Johann is obsessed with creating a permanent immortality potion. Will take significant risks to acquire the 100 blood points needed."
+    },
+    {
+      "name": "Hunted (Various Vampires)",
+      "type": "flaw",
+      "point_value": -2,
+      "description": "Over the centuries, various vampires have become aware of Johann and hunt him for his knowledge or to stop his vitae harvesting."
+    }
+  ],
+  
+  "health_levels": [
+    {"level": "Healthy", "status": "OK", "penalty": 0},
+    {"level": "Bruised", "status": "OK", "penalty": 0},
+    {"level": "Hurt", "status": "OK", "penalty": -1},
+    {"level": "Injured", "status": "OK", "penalty": -1},
+    {"level": "Wounded", "status": "OK", "penalty": -2},
+    {"level": "Mauled", "status": "OK", "penalty": -2},
+    {"level": "Crippled", "status": "OK", "penalty": -5},
+    {"level": "Incapacitated", "status": "OK", "penalty": 0}
+  ],
+  
+  "relationships": [
+    {
+      "related_character_name": "Reinhardt von Hebenstreit (Deceased)",
+      "relationship_type": "mentor",
+      "relationship_subtype": "teacher",
+      "strength": "past",
+      "description": "Johann's alchemical mentor at university. Dead for nearly 400 years but Johann still honors his memory."
+    },
+    {
+      "related_character_name": "Unknown Tremere (Possibly destroyed)",
+      "relationship_type": "complicated",
+      "relationship_subtype": "former patron",
+      "strength": "past",
+      "description": "The Tremere who gave Johann his first samples of vampiric vitae. May have perished in the sack of Magdeburg or may still be searching for Johann."
+    }
+  ],
+  
+  "custom_data": {
+    "creature_type": "Mortal (Alchemist)",
+    "actual_age": "~400 years old",
+    "apparent_age": "40-50 years old",
+    "born": "Late 16th century, Magdeburg, Germany",
+    "immortality_method": "Alchemical potion made from vampiric vitae",
+    "current_potion_duration": "~15 years remaining on current dose",
+    "permanent_potion_requirements": "100 blood points of vampiric vitae",
+    "equivalent_powers": {
+      "Fortitude": 3,
+      "Auspex": 1,
+      "Thaumaturgy": 5
+    },
+    "combat_capabilities": {
+      "soak": "9 dice (Stamina 6 + Fortitude 3)",
+      "regeneration": "1 bashing/round, 1 lethal/minute",
+      "weapons": "Dagger (Str+3), Saber (Str+4 aggravated)",
+      "armor": "5 (alchemical suit)",
+      "healing_potions": "Multiple doses available"
+    },
+    "special_notes": "Johann is NOT a fighter - he's a scholar and craftsman. In combat he relies on his alchemical preparations for defense and tries to escape. He only fights if cornered. His true threat is in his knowledge, resources, and patience. He can identify vampires, knows their weaknesses, and has been harvesting vitae for centuries without being caught."
+  },
+  
+  "actingNotes": "Play Johann as cautious, scholarly, and patient. He speaks multiple languages (learned over 400 years) and has mannerisms from different eras that he tries to suppress. When discussing alchemy, he becomes passionate and excited - this is his life's work. When threatened, he's calculating and cold, not heroic. He'll run rather than fight if possible. His voice should be measured and precise, with hints of a German accent he's mostly suppressed.",
+  
+  "agentNotes": "Johann is a long-term threat and complication. He's been harvesting vampiric vitae for centuries but very carefully. He targets weak vampires, torpored elders, or ghouls. He'll kidnap a character's ghoul to distill vitae. He's researching a permanent immortality potion requiring 100 blood points - this could be a major story arc. High-Occult or Tremere characters might have heard legends of the 'eternal alchemist'. He's not evil, just desperate to maintain his immortality and complete his life's work. Could potentially be reasoned with or even become an ally if approached correctly.",
+  
+  "health_status": "Excellent - alchemically enhanced",
+  
+  "experience_total": 200,
+  "spent_xp": 200,
+  "experience_unspent": 0,
+  
+  "created_at": null,
+  "updated_at": null
+}

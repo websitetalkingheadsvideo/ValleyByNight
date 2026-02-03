@@ -1,0 +1,278 @@
+{
+  "_template_version": "1.0.0",
+  "_database_table": "demon_characters",
+  "template_usage": "Aurial - Demon (power broker). Import with: php tools/repeatable/php/database-tools/import_demon_characters.php path/to/this_file.json",
+  
+  "id": 0,
+  "user_id": 0,
+  "character_name": "Aurial",
+  "player_name": "ST/NPC",
+  "chronicle": "Valley by Night",
+  "nature": "Manipulator",
+  "demeanor": "Confidant",
+  "concept": "Power Broker Demon / Soul Merchant",
+  "house": "Devil",
+  "faction": "Faustian",
+  "cover": "Wealthy consultant and power broker - no fixed identity",
+  "pc": 0,
+  "appearance": "Darkly handsome figure with bronze skin and blond hair, naked and holding golden coins in his fist when first summoned. Now typically appears in expensive business attire, perfectly tailored.",
+  "host_form_appearance": "The host was a homeless man offered as sacrifice by the businessmen who summoned Aurial. The demon has completely transformed the appearance using its powers - now appears as an attractive, wealthy individual with bronze skin, golden-blond hair, and an aura of success. Typically wears designer suits and expensive accessories.",
+  "biography": "On Tuesday, October 29th, 1929, the Wall Street stock market crashed. This followed the London Stock Market crash from the month before and sent the international economy into a downward spiral.\n\nAs their fortunes dwindled, six businessmen, who had been members of the same occult brotherhood at university, met in order to enact a desperate plan. In their youth, they had thought the brotherhood an old and quaint fraternity, whose members enjoyed the trappings of ritual and mystique, but in the end, simply a way to take drugs, spend a fun evening, and make connections for the life after graduation. Now, they dug out one of the old books and prepared a ritual to summon Aurial, a demon said to be able to grant wealth to those who summoned it.\n\nMuch to the surprise of all present, the ritual actually worked. In the circle, painted in the blood of a dead prostitute, a darkly handsome figure with bronze skin and blond hair appeared, naked and holding golden coins in his fist – a far cry from the homeless man the brotherhood had offered up as a sacrificial vessel to the demon.\n\nHowever, the would-be occultists soon found themselves in trouble; the blood used to make their summoning circle was not exactly virgin blood, their Latin less than perfect and their willpower not exactly up to taking on a demon. Aurial easily broke the businessmen's hold over him and walked free – though he was not ungrateful. He ensured that each man was given the wealth he desired. But in one year, each man was dead, killed in a mugging, by a jilted mistress, by a jealous business partner, etc.\n\nSince then, Aurial has established himself as a power broker in the city, a secretive figure who will help those who can find him – for a price. Most people are simply asked to do tasks that make the world that little bit darker, but for those willing to sell their souls, Aurial can offer one of his greatest prizes: Resources 5, complete financial success.\n\nAurial is extremely happy to be out of Hell and knows, that should his host be destroyed, he will go right back. As such, he does his best to avoid any direct confrontations, especially with other supernatural beings, preferring to work behind the scenes. Since he believes that vampiric souls are already damned to Hell, he has little use for them and would prefer it if vampires never knew of his existence.",
+  "notes": "AURIAL - THE DEMON\n\nAurial is a DEMON possessing a mortal host. He was summoned in 1929 by desperate businessmen and broke free of their control.\n\nDEMON BACKGROUND:\n- Summoned October 29, 1929 (Black Tuesday)\n- Broke free from inadequate summoning circle\n- Granted wealth to summoners, then ensured their deaths\n- Has been operating in the city for 95 years (1929-1994)\n- Established as secretive power broker\n\nOPERATING METHODS:\n- Offers favors for prices\n- Most people pay by doing dark deeds\n- Can grant Resources 5 to those who sell their souls\n- Works behind the scenes\n- Avoids direct confrontation\n- Prefers mortals don't know his true nature\n\nSOUL CONTRACTS:\n- Can grant Resources 5 (extreme wealth)\n- Requires formal soul contract\n- Wealth builds over 1-2 months\n- Person still can lose wealth through poor management\n- Upon death, soul goes to Hell\n\nVAMPIRE INTERACTIONS:\n- Believes vampiric souls already damned\n- Has little interest in vampire soul contracts\n- Would prefer vampires don't know he exists\n- Avoids Kindred when possible\n- Sees them as potential threats\n\nPOWERS:\n- Equivalent to Auspex 2, Chimerstry 3, Daimoinon 4, Obfuscate 3, Vicissitude 3\n- Uses Faith instead of blood/essence\n- Can reshape host appearance (currently appears wealthy and attractive)\n- Can create illusions and manipulate perceptions\n\nVULNERABILITIES:\n- If host destroyed, returns to Hell\n- Avoids confrontation at all costs\n- True Faith can harm or banish him\n- Bound by terms of formal contracts\n- Can be trapped/bound by proper rituals\n\nTHREAT ASSESSMENT:\n- Not physically dangerous\n- Threat is through corruption and manipulation\n- Can create powerful mortal allies through wealth\n- Soul contracts create long-term problems\n- Works to make world darker through small acts",
+  "equipment": "Expensive business suits, golden accessories, luxury vehicle, multiple false identities, offshore accounts, untraceable cash reserves",
+  "character_image": "",
+  "status": "active",
+  "torment_permanent": 3,
+  "torment_current": 3,
+  "faith_permanent": 8,
+  "faith_current": 8,
+  "willpower_permanent": 6,
+  "willpower_current": 6,
+  
+  "apocalyptic_form": {
+    "description": "Aurial's true demonic form is a terrifying manifestation of greed and temptation. His skin becomes molten bronze, eyes burn like golden flames, and coins of hellfire orbit his head like a crown. Wings of black smoke and ash spread from his shoulders. His voice becomes layered with the screams of the damned who sold their souls for wealth.",
+    "traits": ["Terrifying", "Greedy", "Commanding", "Inhuman"],
+    "visage": "Fallen angel of wealth and temptation - appears as a fusion of angelic beauty and demonic corruption, wreathed in golden hellfire"
+  },
+  
+  "evocations": [
+    {
+      "name": "Voice of Heaven",
+      "house": "Devil",
+      "level": 1,
+      "effect": "Speak with commanding authority that mortals find nearly impossible to resist. Equivalent to Dominate 1 (Command)."
+    },
+    {
+      "name": "Flames of Hell",
+      "house": "Devil",
+      "level": 2,
+      "effect": "Summon hellfire that burns physical and spiritual matter. Equivalent to Daimoinon/Lure of Flames."
+    },
+    {
+      "name": "Mask of Virtue",
+      "house": "Devil",
+      "level": 3,
+      "effect": "Appear trustworthy and benevolent. Equivalent to Obfuscate 3 combined with Presence."
+    },
+    {
+      "name": "Forge the Pact",
+      "house": "Devil",
+      "level": 4,
+      "effect": "Create binding soul contract. Can grant Resources 5 to willing participants in exchange for their soul upon death."
+    },
+    {
+      "name": "Reshape the Vessel",
+      "house": "Devil",
+      "level": 3,
+      "effect": "Modify host body's appearance. Equivalent to Vicissitude 3 but only affects own host body."
+    }
+  ],
+  
+  "lores": [
+    {
+      "name": "Lore of the Forge",
+      "level": 2,
+      "description": "Knowledge of creation and transformation. Can identify true value of objects, sense wealth, and understand material desires."
+    },
+    {
+      "name": "Lore of Radiance",
+      "level": 3,
+      "description": "Can inspire emotions, create illusions, and manipulate perceptions. Equivalent to Chimerstry and Presence combined."
+    },
+    {
+      "name": "Lore of the Spirit",
+      "level": 2,
+      "description": "Can sense supernatural beings, see through disguises (Auspex 2 equivalent), and understand spiritual nature of entities."
+    },
+    {
+      "name": "Lore of Humanity",
+      "level": 4,
+      "description": "Deep understanding of human nature, desires, and weaknesses. Can identify what someone wants most and how to offer it."
+    }
+  ],
+  
+  "attributes": {
+    "Physical": { "Strength": 2, "Dexterity": 4, "Stamina": 2 },
+    "Social": { "Charisma": 4, "Manipulation": 5, "Composure": 4 },
+    "Mental": { "Intelligence": 3, "Wits": 5, "Resolve": 4 }
+  },
+  
+  "abilities": [
+    {"name": "Academics", "level": 1, "category": "Knowledge"},
+    {"name": "Alertness", "level": 2, "category": "Talent"},
+    {"name": "Athletics", "level": 1, "category": "Talent"},
+    {"name": "Awareness", "level": 5, "category": "Talent", "specialization": "Supernatural beings"},
+    {"name": "Crafts", "level": 3, "category": "Skill", "specialization": "Contracts"},
+    {"name": "Empathy", "level": 4, "category": "Talent", "specialization": "Desires"},
+    {"name": "Etiquette", "level": 4, "category": "Skill"},
+    {"name": "Expression", "level": 3, "category": "Talent"},
+    {"name": "Finance", "level": 3, "category": "Knowledge"},
+    {"name": "Intimidation", "level": 3, "category": "Talent"},
+    {"name": "Investigation", "level": 3, "category": "Knowledge"},
+    {"name": "Larceny", "level": 1, "category": "Skill"},
+    {"name": "Law", "level": 3, "category": "Knowledge", "specialization": "Contracts"},
+    {"name": "Occult", "level": 5, "category": "Knowledge", "specialization": "Demonology"},
+    {"name": "Politics", "level": 3, "category": "Knowledge"},
+    {"name": "Stealth", "level": 3, "category": "Talent"},
+    {"name": "Streetwise", "level": 3, "category": "Talent"},
+    {"name": "Subterfuge", "level": 5, "category": "Talent", "specialization": "Lies of omission"}
+  ],
+  
+  "backgrounds": {
+    "Resources": 5,
+    "Contacts": 4,
+    "Influence": 2,
+    "Allies": 3,
+    "Retainers": 1
+  },
+  
+  "backgroundDetails": {
+    "Resources": "Extremely wealthy through 95 years of soul contracts, investments, and supernatural manipulation. Multiple offshore accounts, real estate holdings, and business fronts.",
+    "Contacts": "Extensive network of mortals who owe favors or have made deals. Includes businessmen, politicians, criminals, and desperate people.",
+    "Influence": "Moderate influence in financial and business sectors through mortal agents and soul contract beneficiaries.",
+    "Allies": "Several mortals who have benefited from deals and remain loyal (unaware of true nature). Some are soul contract holders who serve willingly.",
+    "Retainers": "One mortal assistant who handles day-to-day operations. Bound by contract, not soul sale."
+  },
+  
+  "merits_flaws": [
+    {
+      "name": "Demon",
+      "type": "merit",
+      "point_value": 10,
+      "description": "Is a demon possessing mortal host. Has access to demonic powers (Evocations and Lores). Uses Faith instead of blood."
+    },
+    {
+      "name": "Soul Binding Contract",
+      "type": "merit",
+      "point_value": 5,
+      "description": "Can create binding contracts that grant Resources 5 in exchange for souls. Contracts are supernaturally enforced."
+    },
+    {
+      "name": "Ancient Knowledge",
+      "type": "merit",
+      "point_value": 3,
+      "description": "95 years of operation plus demonic knowledge from before imprisonment. Extensive understanding of human nature and modern world."
+    },
+    {
+      "name": "Host Dependency",
+      "type": "flaw",
+      "point_value": -7,
+      "description": "If host body is destroyed, Aurial returns to Hell. Will avoid any situation that might destroy the host."
+    },
+    {
+      "name": "True Faith Vulnerability",
+      "type": "flaw",
+      "point_value": -5,
+      "description": "True Faith causes severe damage and can banish Aurial. Avoids churches, holy ground, and faithful individuals."
+    },
+    {
+      "name": "Contract Bound",
+      "type": "flaw",
+      "point_value": -3,
+      "description": "Must honor the exact terms of contracts made. Cannot break a formal agreement, though can find loopholes."
+    },
+    {
+      "name": "Vampires Already Damned",
+      "type": "flaw",
+      "point_value": -1,
+      "description": "Believes vampire souls are already claimed by damnation, making them worthless. Has no leverage over Kindred through soul contracts."
+    }
+  ],
+  
+  "thralls_pacts": [
+    {
+      "name": "Various Soul Contract Holders",
+      "type": "soul_pact",
+      "description": "Multiple mortals who have sold their souls for Resources 5. Upon death, their souls go to Hell. Aurial has little ongoing interaction with them after contract is fulfilled.",
+      "count": "12 active contracts"
+    },
+    {
+      "name": "Favor Debtors",
+      "type": "favor_pact",
+      "description": "Mortals who received help without selling souls, but owe favors. Required to perform dark deeds, spread corruption, or assist Aurial when called.",
+      "count": "30+ active favor debts"
+    }
+  ],
+  
+  "health_levels": [
+    {"level": "Healthy", "status": "OK", "penalty": 0},
+    {"level": "Bruised", "status": "OK", "penalty": 0},
+    {"level": "Hurt", "status": "OK", "penalty": -1},
+    {"level": "Injured", "status": "OK", "penalty": -1},
+    {"level": "Wounded", "status": "OK", "penalty": -2},
+    {"level": "Mauled", "status": "OK", "penalty": -2},
+    {"level": "Crippled", "status": "OK", "penalty": -5},
+    {"level": "Incapacitated", "status": "OK", "penalty": 0}
+  ],
+  
+  "relationships": [
+    {
+      "related_character_name": "Six Summoners (All Deceased)",
+      "relationship_type": "former summoners",
+      "relationship_subtype": "killed",
+      "strength": "past",
+      "description": "The businessmen who summoned Aurial in 1929. He granted their wishes then ensured their deaths within a year through 'accidents' and misfortunes."
+    },
+    {
+      "related_character_name": "Soul Contract Holders",
+      "relationship_type": "contracts",
+      "relationship_subtype": "buyers",
+      "strength": "ongoing",
+      "description": "Various mortals who have sold their souls for wealth. Aurial provides Resources 5, they provide their eternal souls upon death."
+    },
+    {
+      "related_character_name": "Favor Debtors",
+      "relationship_type": "debtors",
+      "relationship_subtype": "servants",
+      "strength": "ongoing",
+      "description": "People who owe Aurial favors. He calls on them to perform dark deeds that spread corruption."
+    }
+  ],
+  
+  "custom_data": {
+    "creature_type": "Demon (Fallen Angel)",
+    "demon_type": "Devil - associated with pride, fire, and temptation",
+    "original_name": "Aurial (angelic name from before the Fall)",
+    "summoning_date": "October 29, 1929 (Black Tuesday)",
+    "years_active": 95,
+    "host_body": "Originally a homeless man offered as sacrifice, now completely transformed through demonic powers",
+    "true_nature": "Fallen angel who rebelled against Heaven, was cast into Hell, and was released through flawed summoning ritual",
+    "vampire_equivalent_disciplines": {
+      "Auspex": 2,
+      "Chimerstry": 3,
+      "Daimoinon": 4,
+      "Dominate": 1,
+      "Obfuscate": 3,
+      "Presence": 3,
+      "Vicissitude": 3
+    },
+    "faith_mechanics": {
+      "current": 8,
+      "maximum": 8,
+      "source": "Belief from those he's helped, fear from those he's corrupted, worship from soul contract holders",
+      "regeneration": "Gains Faith from contracts made and dark deeds performed by debtors"
+    },
+    "soul_contract_mechanics": {
+      "grant": "Resources 5 (extreme wealth)",
+      "build_time": "1-2 months for wealth to manifest",
+      "cost": "Mortal's eternal soul upon death",
+      "enforcement": "Supernaturally binding - cannot be broken",
+      "limitation": "Only works on willing participants with free will",
+      "vampire_exception": "Vampiric souls considered already damned - contracts won't work"
+    },
+    "special_notes": "Aurial is NOT a combatant. He will flee or use illusions to escape if threatened. His power is in manipulation, corruption, and long-term influence. He's been successfully operating for 95 years by staying hidden and working through proxies. He sees violence as crude and failure-prone. Much prefers to corrupt people slowly through temptation."
+  },
+  
+  "actingNotes": "Play Aurial as smooth, charming, and utterly trustworthy-seeming. He never threatens or intimidates - he offers solutions to problems. His voice is warm and confident. He smiles easily and makes people feel valued. Only when the contract is signed and it's too late do people realize what they've done. He speaks like a successful consultant: 'I can help you with that. The price is quite reasonable.' He never mentions Hell, souls, or damnation unless directly asked - and even then, he frames it as 'a traditional formality, nothing to worry about.' When his true nature is revealed, he becomes cold and businesslike - the mask drops and the demon shows through.",
+  
+  "agentNotes": "Aurial is a subtle long-term threat. He doesn't attack characters directly - he corrupts their world. Allies suddenly become wealthy but morally compromised. Enemies gain resources through dark deals. The city becomes slightly darker with each contract. Characters might investigate: Why are several successful businesspeople dying in accidents? Who is this mysterious consultant everyone whispers about? What's the source of sudden wealth in the criminal underworld? If characters confront Aurial, he'll try to make a deal, offer information, or simply flee. He sees vampires as already damned and uninteresting - but if they threaten him, he'll use his network of corrupted mortals as shields and proxies. True Faith characters are his greatest fear. High-Occult characters might recognize demonic taint or identify his true nature.",
+  
+  "health_status": "Healthy - host body maintained in perfect condition",
+  
+  "experience_total": 95,
+  "spent_xp": 95,
+  "experience_unspent": 0,
+  
+  "created_at": null,
+  "updated_at": null
+}

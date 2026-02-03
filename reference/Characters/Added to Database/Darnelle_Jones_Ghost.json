@@ -1,0 +1,267 @@
+{
+  "_template_version": "1.0.0",
+  "_database_table": "wraith_characters",
+  "template_usage": "Darnelle Jones - Ghost/Wraith. Import with: php tools/repeatable/php/database-tools/import_wraith_characters.php path/to/this_file.json",
+  
+  "id": 0,
+  "user_id": 0,
+  "character_name": "Darnelle Jones",
+  "shadow_name": "The Vengeful Watcher",
+  "player_name": "ST/NPC",
+  "chronicle": "Valley by Night",
+  "nature": "Judge",
+  "demeanor": "Protector",
+  "concept": "Vengeful Ghost / Anti-Vampire Protector",
+  "circle": "None",
+  "guild": "None",
+  "legion_at_death": "None - recently deceased",
+  "date_of_death": "1994",
+  "cause_of_death": "Murdered by vampire during feeding",
+  "pc": 0,
+  "appearance": "Pretty, but not spectacularly beautiful woman in her mid-20s. Dark hair, dressed in casual club attire from the early 1990s.",
+  "ghostly_appearance": "Appears much as she did in life, but with a faint translucent quality. When angry or using powers, she manifests more solidly. Has visible neck wounds from her death that sometimes bleed spectral blood when she's emotional.",
+  "biography": "Darnelle was just a young law student who enjoyed going out on the odd week-end with her friends. A pretty, but not spectacularly beautiful, woman, Darnelle got a fair amount of attention from both genders and found herself more than once having to defend her sexuality from men wanting to convert her.\n\nDarnelle's death came after one of those nights, fending off wandering hands and enduring foul language from scorned men. Drawing upon her connections at the bar, Darnelle slipped out the back way in order to avoid more attention – and exited straight out into a vampiric feeding. Darnelle does not remember much; someone was drinking blood from a friend of hers, she screamed, red fangs, and then darkness.\n\nDarnelle's rage, confusion, and desire both to protect her friends and gain revenge made her a ghost. Her first action was to look in on her friend, who had apparently survived. However, over the next days, it became clear to Darnelle that her friend's mind had been altered so that she did not remember the encounter.\n\nAfter this, Darnelle dedicated her existence to learn as much as possible about vampires, their powers, their strength, and their weaknesses. It quickly became clear to Darnelle that her abilities to influence the real world were limited and she has done her best to develop powers that allows her to influence the land of mortals.\n\nDarnelle has become quite a thorn in the side of the city's Kindred, without them realizing who is causing trouble. An intelligent and patient woman, Darnelle has been doing her best to ruin feedings, draw attention to vampires and generally make a nuisance of herself. Her ultimate goal is to protect her friend and break the vampiric mind control, but in a broader sense, she wants to protect mortals from vampires. If she were to meet Kindred with high Humanity, she might agree to help them, once they convince her that they too want to the limit vampires' predations on humans.",
+  "notes": "DARNELLE JONES - THE GHOST\n\nDarnelle is a GHOST - she died violently and her rage, confusion, and protective instincts caused her to remain as a spirit. She is NOT a full wraith (from Wraith: The Oblivion) but rather a restless spirit haunting the mortal world.\n\nGHOST ABILITIES:\n- Can perceive both spirit world and physical world\n- Uses Passion Pool instead of Blood Pool\n- Can manifest physically at cost of Passion\n- Has developed powers equivalent to vampiric Disciplines\n- Can influence physical world with effort\n\nMOTIVATIONS:\n- Protect her friend (the feeding survivor)\n- Break the mind control on her friend\n- Learn about vampires and their weaknesses\n- Protect mortals from vampire predation\n- Get revenge (but this is secondary to protection)\n\nTACTICS:\n- Ruins vampire feedings\n- Draws attention to Kindred\n- Creates Masquerade breaches\n- Uses mental powers to influence mortals\n- Patient and intelligent - plans carefully\n\nPOSSIBLE ALLY:\n- Might work with high-Humanity vampires\n- Needs to be convinced they truly want to limit predation\n- Still deeply distrustful of all Kindred\n\nVULNERABILITIES:\n- Limited Passion Pool\n- Cannot manifest constantly\n- Mental powers cost extra Passion to affect physical world\n- Still learning her abilities\n- Emotional - can be manipulated through her friend",
+  "equipment": "None - ghost",
+  "character_image": "",
+  "status": "active",
+  
+  "timeline": {
+    "birthplace": "Unknown city (modern US)",
+    "birth_date": "1969",
+    "death_date": "1994",
+    "notable_mortal_past": "Law student at local university. Enjoyed going out with friends on weekends. Had to frequently defend her sexuality from unwanted male attention.",
+    "world_war_two_experience": "N/A",
+    "significant_events": [
+      {"date": "1994", "event": "Murdered by vampire while intervening to save friend"},
+      {"date": "1994", "event": "Awakened as ghost driven by rage and protective instinct"},
+      {"date": "1994", "event": "Discovered friend's mind was altered to forget the attack"},
+      {"date": "1994-present", "event": "Studying vampires and developing ghostly powers"}
+    ]
+  },
+  
+  "personality": {
+    "tagline": "A law student turned vengeful protector, she haunts the city to shield mortals from vampiric predation",
+    "narrative": "Darnelle was a vibrant, intelligent young woman studying law with dreams of making a difference. Her violent death at the hands (fangs) of a vampire transformed her into a determined ghost. While rage fuels her existence, her core motivation is protection - of her friend, of innocents, of the ignorant mortals who don't know the dangers lurking in the dark. She's patient and intelligent, carefully learning about her enemies before acting. Her law training shows in her methodical approach and her sense of justice.",
+    "quirks": ["Becomes more visible when angry", "Obsessively watches over her surviving friend", "Studies vampire behavior like case law"],
+    "habits": ["Appears at feeding sites", "Follows suspected vampires", "Manifests briefly to mortals in danger"]
+  },
+  
+  "traits": {
+    "Physical": ["Graceful", "Graceful", "Graceful"],
+    "Social": ["Charismatic", "Charismatic", "Charismatic", "Charismatic", "Charismatic"],
+    "Mental": ["Observant", "Observant", "Observant", "Intelligent", "Intelligent", "Intelligent", "Intelligent"]
+  },
+  
+  "negativeTraits": {
+    "Physical": [],
+    "Social": [],
+    "Mental": []
+  },
+  
+  "abilities": [
+    {"name": "Academics", "category": "Mental", "level": 2, "specialization": "Law"},
+    {"name": "Alertness", "category": "Physical", "level": 2},
+    {"name": "Athletics", "category": "Physical", "level": 1},
+    {"name": "Awareness", "category": "Mental", "level": 4, "specialization": "Vampire detection"},
+    {"name": "Brawl", "category": "Physical", "level": 1},
+    {"name": "Computer", "category": "Mental", "level": 1},
+    {"name": "Crafts", "category": "Mental", "level": 1},
+    {"name": "Drive", "category": "Physical", "level": 1},
+    {"name": "Empathy", "category": "Social", "level": 3},
+    {"name": "Etiquette", "category": "Social", "level": 1},
+    {"name": "Intimidation", "category": "Social", "level": 1},
+    {"name": "Investigation", "category": "Mental", "level": 1},
+    {"name": "Law", "category": "Mental", "level": 2},
+    {"name": "Occult", "category": "Mental", "level": 3, "specialization": "Vampires"},
+    {"name": "Politics", "category": "Mental", "level": 1},
+    {"name": "Stealth", "category": "Physical", "level": 1},
+    {"name": "Streetwise", "category": "Social", "level": 1},
+    {"name": "Subterfuge", "category": "Social", "level": 1}
+  ],
+  
+  "specializations": {
+    "Academics": "Law",
+    "Awareness": "Vampire detection",
+    "Occult": "Vampires and vampire weaknesses"
+  },
+  
+  "fetters": [
+    {
+      "name": "Best Friend (Feeding Survivor)",
+      "rating": 5,
+      "description": "Darnelle's closest friend who survived the vampire attack but had her mind altered. This is Darnelle's strongest anchor to the physical world - protecting her friend and breaking the mind control on her."
+    },
+    {
+      "name": "Law School",
+      "rating": 2,
+      "description": "The place where Darnelle spent so much time studying and dreaming of her future. Represents her lost life and unfulfilled dreams."
+    },
+    {
+      "name": "Alley Where She Died",
+      "rating": 3,
+      "description": "The site of her murder. A place of pain but also power - where her ghostly existence began."
+    }
+  ],
+  
+  "passions": [
+    {"passion": "Protect my friend from vampires", "rating": 5},
+    {"passion": "Break the mind control on my friend", "rating": 4},
+    {"passion": "Learn everything about vampires", "rating": 3},
+    {"passion": "Protect innocent mortals from predation", "rating": 4},
+    {"passion": "Get revenge on my killer", "rating": 2}
+  ],
+  
+  "arcanoi": [
+    {
+      "name": "Manifestation",
+      "rating": 2,
+      "arts": [
+        {"level": 1, "power": "Materialize (equivalent to physical interaction)"},
+        {"level": 2, "power": "Selective visibility"}
+      ],
+      "notes": "Darnelle can manifest in the physical world at the cost of Passion. She can choose who can see her."
+    },
+    {
+      "name": "Deception",
+      "rating": 2,
+      "arts": [
+        {"level": 1, "power": "Create illusions (equivalent to Chimerstry)"},
+        {"level": 2, "power": "Complex illusions"}
+      ],
+      "notes": "Can create convincing illusions to manipulate situations"
+    },
+    {
+      "name": "Mental Influence",
+      "rating": 1,
+      "arts": [
+        {"level": 1, "power": "Inspire emotions (equivalent to Dementation 1)"}
+      ],
+      "notes": "Can affect emotions and mental states - costs extra Passion to affect physical beings"
+    }
+  ],
+  
+  "backgrounds": {
+    "Awareness": 4,
+    "Occult Knowledge": 3
+  },
+  
+  "backgroundDetails": {
+    "Awareness": "Darnelle has developed supernatural awareness, especially attuned to vampires. She can sense their presence and often perceive their true nature.",
+    "Occult Knowledge": "Through months of observation and study, Darnelle has learned much about vampire society, powers, and weaknesses."
+  },
+  
+  "willpower_permanent": 9,
+  "willpower_current": 9,
+  
+  "pathos_corpus": {
+    "pathos_current": 6,
+    "pathos_max": 6,
+    "corpus_current": 0,
+    "corpus_max": 0,
+    "health_levels": ["OK", "OK", "OK", "OK", "OK", "OK", "Discorporate"]
+  },
+  
+  "shadow": {
+    "archetype": "The Martyr",
+    "angst_current": 2,
+    "angst_permanent": 3,
+    "dark_passions": [
+      {"passion": "Give in to pure rage and destroy all vampires indiscriminately", "rating": 2},
+      {"passion": "Abandon hope and accept death", "rating": 1}
+    ],
+    "thorns": [
+      {"name": "Rage", "description": "Sometimes Darnelle's anger overwhelms her reason"}
+    ],
+    "shadow_traits": ["Vengeful", "Reckless"],
+    "shadow_notes": "Darnelle's shadow wants her to give in to pure vengeance and destroy all vampires without mercy, even the ones who might be allies. It whispers that protection is futile and she should just kill them all."
+  },
+  
+  "harrowing": {
+    "last_harrowing_date": null,
+    "harrowing_notes": "Has not yet experienced a true harrowing",
+    "harrowing_history": []
+  },
+  
+  "merits_flaws": [
+    {
+      "name": "Vampire Sense",
+      "type": "merit",
+      "point_value": 2,
+      "description": "Can sense the presence of vampires nearby, perceiving their unnatural nature"
+    },
+    {
+      "name": "Selective Manifestation",
+      "type": "merit",
+      "point_value": 1,
+      "description": "Can choose who can see her when manifested"
+    },
+    {
+      "name": "Obsession (Protect Friend)",
+      "type": "flaw",
+      "point_value": -2,
+      "description": "Obsessively focused on protecting her surviving friend - can be exploited"
+    },
+    {
+      "name": "Limited Manifestation",
+      "type": "flaw",
+      "point_value": -1,
+      "description": "Can only remain manifested for limited time before passion exhaustion"
+    }
+  ],
+  
+  "status_details": {
+    "health_levels": 7,
+    "notes": "As a ghost, Darnelle doesn't have traditional health levels. When her Passion Pool reaches 0, she discorporates and cannot manifest until she regenerates Passion."
+  },
+  
+  "relationships": [
+    {
+      "related_character_name": "Best Friend (Feeding Survivor)",
+      "relationship_type": "friend",
+      "relationship_subtype": "protected",
+      "strength": "overwhelming",
+      "description": "Darnelle's closest friend who survived the vampire attack. The primary reason Darnelle remains as a ghost - to protect her."
+    },
+    {
+      "related_character_name": "Unknown Vampire Killer",
+      "relationship_type": "enemy",
+      "relationship_subtype": "murderer",
+      "strength": "strong",
+      "description": "The vampire who killed Darnelle and fed on her friend. Darnelle doesn't know who it was but seeks to identify them."
+    }
+  ],
+  
+  "artifacts": [],
+  
+  "custom_data": {
+    "creature_type": "Ghost",
+    "ghost_type": "Violent death - protective spirit",
+    "equivalent_disciplines": {
+      "Auspex": 2,
+      "Chimerstry": 2,
+      "Dementation": 1,
+      "Dominate": 1,
+      "Vicissitude": 1
+    },
+    "manifestation_mechanics": "Costs 5 Passion to manifest physically. Can only use physical disciplines when corporeal. Mental powers can manifest in physical world for +1 Passion. Can see through disciplines with equivalent of Auspex 5.",
+    "passion_regeneration": "Regenerates 1 Passion per day at sunrise",
+    "special_notes": "Darnelle is particularly focused on vampires as threats. She studies their behavior, powers, and society. She's open to working with high-Humanity vampires but deeply distrustful. Her law training makes her methodical and justice-oriented."
+  },
+  
+  "actingNotes": "Play Darnelle as intelligent and methodical, but with an undercurrent of rage. She's not mindlessly vengeful - she's strategic. Her law student background shows in how she builds cases against vampires in her mind, gathering evidence of their activities. When she manifests to mortals, she can seem urgent and warning. With vampires, she's hostile but willing to talk if they prove they're different. Her voice should have an ethereal quality, sometimes overlaid with the echo of her final scream.",
+  
+  "agentNotes": "Darnelle is a complication for vampire characters, not necessarily an enemy. She targets vampires who prey carelessly on mortals. High-Humanity vampires might negotiate with her or even gain her as an ally. She's valuable as an information source about other vampires since she spies on them. Her main vulnerability is her friend - protecting the friend or threatening the friend will provoke strong reactions. She can create Masquerade breaches, ruin feedings, and generally make trouble for careless Kindred.",
+  
+  "health_status": "Discorporate/Active ghost",
+  
+  "experience_total": 0,
+  "spent_xp": 0,
+  "experience_unspent": 0,
+  "shadow_xp_total": 0,
+  "shadow_xp_spent": 0,
+  "shadow_xp_available": 0,
+  
+  "created_at": null,
+  "updated_at": null
+}

@@ -135,16 +135,28 @@ function render_clan_badge(string $clan): string {
         </div>
     </nav>
     
-    <!-- Additional Navigation Row -->
-    <nav class="admin-nav row g-2 g-md-3 mb-4" aria-label="Additional Admin Navigation" id="character-types">
+    <!-- Additional Navigation Row: Character Types -->
+    <nav class="admin-nav row g-2 g-md-3 mb-4" aria-label="Character Types" id="character-types">
         <div class="col-12 col-sm-6 col-md-4 col-lg">
             <a href="wraith_admin_panel.php" class="nav-btn btn btn-outline-danger btn-sm w-100 text-center">👻 Wraith</a>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg">
-            <button type="button" class="nav-btn btn btn-outline-danger btn-sm w-100 text-center" disabled>🐺 Garou</button>
+            <a href="werewolf_admin_panel.php" class="nav-btn btn btn-outline-danger btn-sm w-100 text-center">🐺 Garou</a>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg">
             <a href="ghoul_admin_panel.php" class="nav-btn btn btn-outline-danger btn-sm w-100 text-center">🩸 Ghoul</a>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg">
+            <a href="mage_admin_panel.php" class="nav-btn btn btn-outline-danger btn-sm w-100 text-center">✨ Mage</a>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg">
+            <a href="demon_admin_panel.php" class="nav-btn btn btn-outline-danger btn-sm w-100 text-center">😈 Demon</a>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg">
+            <a href="mortal_admin_panel.php" class="nav-btn btn btn-outline-danger btn-sm w-100 text-center">🧑 Mortal</a>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg">
+            <a href="supernatural_entities_admin_panel.php" class="nav-btn btn btn-outline-danger btn-sm w-100 text-center">🔮 Supernatural</a>
         </div>
     </nav>
     

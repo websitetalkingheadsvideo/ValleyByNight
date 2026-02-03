@@ -1,0 +1,307 @@
+{
+  "_template_version": "1.0.0",
+  "_database_table": "demon_characters",
+  "template_usage": "Gadreel - Fallen Watcher (Grigori). Import with: php tools/repeatable/php/database-tools/import_demon_characters.php path/to/this_file.json. NOTE: This is a FALLEN ANGEL (Grigori), not a typical demon, but using demon template for database compatibility.",
+  
+  "id": 0,
+  "user_id": 0,
+  "character_name": "Gadreel (Gad Reilly)",
+  "player_name": "ST/NPC",
+  "chronicle": "Valley by Night",
+  "nature": "Penitent",
+  "demeanor": "Loner",
+  "concept": "Fallen Watcher / Ancient Weaponsmith",
+  "house": "Grigori (Not applicable - predates demon houses)",
+  "faction": "Independent (Watcher)",
+  "cover": "Gad Reilly - master smith and knife maker, known in reenactment circles",
+  "pc": 0,
+  "appearance": "Tall man with olive skin and vaguely Semitic features. Black hair hangs to shoulders, full beard. Appears to be in his 40s. Moves with quiet confidence and ancient grace.",
+  "host_form_appearance": "Gadreel is NOT possessing a host - this IS his physical form. He appears as a tall, olive-skinned man with Semitic features, black shoulder-length hair, and a full beard. His body bears the marks of 10,000+ years: old scars from countless battles, calluses from smithing, and an air of profound weariness. His eyes are the only hint of his true nature - they're too old, too knowing, and occasionally reflect light strangely.",
+  "biography": "According to standard angel lore, there are nine choirs of angels, the highest being the seraphim and the lowest being ordinary (sometimes called guardian) angels. However, certain apocryphal texts mention a tenth choir; the grigori, also called 'the watchers'.\n\nAccording to these texts, God created the grigori to watch over humanity and teach them to survive outside the Garden of Eden. He instilled in them a great love for humanity, in order to ensure that they would fulfill their mission. However, this love backfired; several of the grigori took wives among humanity, giving birth to a race of people called the Nephilim – a hint of this is found in Genesis 6:4: 'There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare children to them, the same became mighty men which were of old, men of renown.' However, all other references to the grigori were stricken from the 'official' version of the Bible and is found only in apocryphal books.\n\nUnfortunately for the watchers, taking wives was against God's commandment and so, they were cast out from Heaven. Some of them rebelled even further and joined Lucifer in Hell, while others stayed on Earth, true to their original commandment; watch over humanity.\n\nGadreel is one of these watchers – he was originally tasked with teaching humanity how to use weapons, so that they could defend themselves, as well as how to kill, so that they could hunt for meat. Later, during the ascent of Egypt, he taught humans how to use cosmetics in order to better endure the sun.\n\nHaving been on Earth for over ten thousand years, Gadreel has become somewhat disenchanted with his task. He has seen what humans have done with what he taught them, he has watched countless wars costing innumerable lives, and he has witnessed a cosmetics industry savagely torturing animals in pursuit of profit.\n\nAfter the bombings of Hiroshima and Nagasaki, Gadreel decided to give up on humanity at large. He settled down as a smith, making money as a knife maker while also forging weapons for those who wanted them. In modern times, Gad Reilly of Angel Forge has become a legend in reenactment circles.\n\nWhile Gadreel might have grown disenchanted with humanity, he still feels compelled to help and protect humans. Millennia on Earth have given him quite a lot of knowledge about the supernatural threats that prey on humanity, vampires among them, which he will use if confronted with evidence of misdoings.",
+  "notes": "GADREEL - THE FALLEN WATCHER\n\n**IMPORTANT: Gadreel is a GRIGORI (Watcher), not a typical demon. He is a fallen angel who chose Earth over Heaven but did NOT join Hell. Using demon template for database compatibility.**\n\nGRIGORI BACKGROUND:\n- One of the Watchers created before the Flood\n- 10,000+ years old\n- Original mission: teach humanity survival skills\n- Taught weapons, hunting, killing, and cosmetics\n- Cast from Heaven for taking mortal wives (created Nephilim)\n- Did NOT join Lucifer - stayed on Earth to fulfill mission\n- Has watched all of human history unfold\n\nCURRENT STATUS:\n- Disenchanted with humanity after Hiroshima/Nagasaki\n- Operates as 'Gad Reilly' - master smith\n- Runs 'Angel Forge' - legendary among reenactment circles\n- Still compelled to help and protect humans\n- Will act against supernatural threats to humans\n- Lives quietly, avoids attention\n\nPOWERS AND LIMITATIONS:\n- Speaks ALL human languages (gift from original mission)\n- Legendary combat skills (10,000+ years of experience)\n- Master weaponsmith (taught humans weapons)\n- CANNOT activate physical disciplines at full potential\n- Soaks all damage with Stamina + Fortitude\n- Immune to mental and emotional powers\n- Immune to Daimoinon\n- No True Faith (is fallen angel)\n- No true Divine powers (fallen status)\n\nCOMBAT CAPABILITIES:\n- Firearms 6, Melee 7 (legendary skill)\n- Cannot use full supernatural strength/speed (fallen status)\n- Relies on skill, experience, and tactics\n- Fortitude 5 (soaks everything)\n- Extremely dangerous despite limitations\n- Creates masterwork weapons (+1 die to use and damage)\n\nVAMPIRE INTERACTIONS:\n- Not an active vampire hunter\n- Will act if vampires harm humans he knows\n- Will act if vampires cause widespread human suffering\n- Aware of vampires and their weaknesses\n- May have encountered vampires over millennia\n- Could be ally to high-Humanity Kindred\n\nGHOUL:\n- Has one ghoul: Jesse Calhoun (former cop)\n- Handles daytime security and investigation\n- Loyal but stays out of Gadreel's way\n- Knows the truth about Gadreel's nature\n\nVULNERABILITIES:\n- Disenchanted with humanity (can be manipulated)\n- Still compelled to protect humans (can be exploited)\n- Memories of 10,000 years (psychological burden)\n- Fallen status means reduced divine power\n- Can be killed (but extremely difficult)",
+  "equipment": "Master-crafted weapons (swords, knives, axes), smithing tools and forge, extensive historical weapon collection, modern firearms, armor pieces from various eras, apartment above forge",
+  "character_image": "",
+  "status": "active",
+  "torment_permanent": 0,
+  "torment_current": 0,
+  "faith_permanent": 0,
+  "faith_current": 0,
+  "willpower_permanent": 10,
+  "willpower_current": 10,
+  
+  "apocalyptic_form": {
+    "description": "Gadreel's true form as a Grigori Watcher: A being of terrible beauty and sorrow. Wings of star-forged silver extend from his shoulders, but they're tattered and broken from the Fall. His skin becomes translucent, showing flowing light beneath. Ancient Hebrew script glows across his body - the names of every human he taught, every weapon he forged, every life he failed to save. His eyes become pure white light that sees through all deceptions. He holds a flaming sword in one hand (the Blade of the First Smith) and scales of judgment in the other. Around him, ghostly images of the Nephilim - his children - appear and fade.",
+    "traits": ["Ancient", "Sorrowful", "Righteous", "Implacable"],
+    "visage": "Fallen Watcher - angel cast from Heaven for loving humanity too much, bearing the weight of 10,000 years of disappointment"
+  },
+  
+  "evocations": [
+    {
+      "name": "All-Tongue",
+      "house": "Grigori",
+      "level": 0,
+      "effect": "Speaks and understands all human languages perfectly. This is a permanent gift from his original mission to teach humanity."
+    },
+    {
+      "name": "Eyes of the Watcher",
+      "house": "Grigori",
+      "level": 2,
+      "effect": "Can see through disguises, deceptions, and illusions. Equivalent to Auspex 2. Cannot be fooled by Obfuscate, Chimerstry, or similar powers."
+    },
+    {
+      "name": "Endurance of the First Days",
+      "house": "Grigori",
+      "level": 5,
+      "effect": "Supernatural durability from when the world was young. Equivalent to Fortitude 5. Soaks all damage with full Stamina + Fortitude."
+    },
+    {
+      "name": "Strength of the Fallen",
+      "house": "Grigori",
+      "level": 3,
+      "effect": "Moderate supernatural strength. Equivalent to Potence 3, but CANNOT be activated to full potential due to fallen status."
+    },
+    {
+      "name": "Speed of the Witness",
+      "house": "Grigori",
+      "level": 3,
+      "effect": "Supernatural speed. Equivalent to Celerity 3, but CANNOT be activated to full potential due to fallen status."
+    },
+    {
+      "name": "Mark of Cain",
+      "house": "Grigori",
+      "level": 0,
+      "effect": "Immune to mental and emotional manipulation. Cannot be affected by Dominate, Presence, Dementation, or similar powers. Immune to Daimoinon (as fallen angel himself)."
+    }
+  ],
+  
+  "lores": [
+    {
+      "name": "Lore of the Forge",
+      "level": 7,
+      "description": "Master of all weapon-making and crafting. Taught humanity how to forge weapons. Can create masterwork items that grant bonuses to use and damage. Understands the essence of creation and destruction through tools."
+    },
+    {
+      "name": "Lore of the Hunt",
+      "level": 6,
+      "description": "Taught humanity how to kill for food and defense. Deep understanding of combat, tactics, tracking, and survival. Equivalent to master-level Firearms, Melee, Survival, and Athletics."
+    },
+    {
+      "name": "Lore of Humanity",
+      "level": 10,
+      "description": "10,000+ years of watching and teaching humanity. Understands human nature at fundamental level. Can predict behavior, see through lies, and comprehend motivations instantly."
+    },
+    {
+      "name": "Lore of the Fallen",
+      "level": 5,
+      "description": "Knowledge of angels, demons, and supernatural entities. Understands the structure of Heaven and Hell. Can identify supernatural beings and their nature."
+    },
+    {
+      "name": "Lore of History",
+      "level": 10,
+      "description": "Was present for all of recorded human history and much before. Witnessed the rise and fall of civilizations. Knows ancient secrets and forgotten truths."
+    }
+  ],
+  
+  "attributes": {
+    "Physical": { "Strength": 5, "Dexterity": 5, "Stamina": 5 },
+    "Social": { "Charisma": 5, "Manipulation": 3, "Composure": 3 },
+    "Mental": { "Intelligence": 4, "Wits": 5, "Resolve": 5 }
+  },
+  
+  "abilities": [
+    {"name": "Academics", "level": 5, "category": "Knowledge", "specialization": "History"},
+    {"name": "Alertness", "level": 5, "category": "Talent"},
+    {"name": "Athletics", "level": 5, "category": "Talent"},
+    {"name": "Awareness", "level": 6, "category": "Talent", "specialization": "Supernatural entities"},
+    {"name": "Brawl", "level": 5, "category": "Talent"},
+    {"name": "Crafts", "level": 6, "category": "Skill", "specialization": "Weaponsmithing"},
+    {"name": "Empathy", "level": 5, "category": "Talent"},
+    {"name": "Etiquette", "level": 3, "category": "Skill"},
+    {"name": "Firearms", "level": 6, "category": "Skill", "specialization": "All weapons"},
+    {"name": "Intimidation", "level": 4, "category": "Talent"},
+    {"name": "Investigation", "level": 3, "category": "Knowledge"},
+    {"name": "Linguistics", "level": 10, "category": "Knowledge", "specialization": "All human languages"},
+    {"name": "Medicine", "level": 2, "category": "Knowledge"},
+    {"name": "Melee", "level": 7, "category": "Skill", "specialization": "Swords"},
+    {"name": "Occult", "level": 6, "category": "Knowledge", "specialization": "Angels and demons"},
+    {"name": "Stealth", "level": 5, "category": "Talent"},
+    {"name": "Survival", "level": 5, "category": "Skill"}
+  ],
+  
+  "backgrounds": {
+    "Resources": 2,
+    "Contacts": 2,
+    "Fame": 1,
+    "Retainers": 1
+  },
+  
+  "backgroundDetails": {
+    "Resources": "Modest income from knife-making and weapon sales. Lives simply. Money is not important to an immortal being.",
+    "Contacts": "Reenactment community, historical societies, weapon collectors, and historians. Built up over decades of work as Gad Reilly.",
+    "Fame": "Well-known in reenactment circles as master smith. 'Angel Forge' is legendary among enthusiasts. General public doesn't know him.",
+    "Retainers": "Jesse Calhoun - former cop, now ghouled. Handles daytime security and investigation. Knows Gadreel's true nature."
+  },
+  
+  "merits_flaws": [
+    {
+      "name": "Fallen Angel (Grigori)",
+      "type": "merit",
+      "point_value": 15,
+      "description": "Is a Grigori Watcher - 10,000+ year old angel who fell for loving humanity. Immortal, speaks all languages, immune to mental powers, legendary skills."
+    },
+    {
+      "name": "Legendary Weaponsmith",
+      "type": "merit",
+      "point_value": 5,
+      "description": "Taught humanity how to make weapons. Can create masterwork weapons that grant +1 die to use and +1 damage. Weapons are nearly indestructible."
+    },
+    {
+      "name": "Immune to Mental Powers",
+      "type": "merit",
+      "point_value": 7,
+      "description": "Cannot be affected by Dominate, Presence, Dementation, Daimoinon, or similar mental/emotional manipulation."
+    },
+    {
+      "name": "Ancient Experience",
+      "type": "merit",
+      "point_value": 10,
+      "description": "10,000+ years of experience. Has seen everything. Master of combat, survival, and human nature."
+    },
+    {
+      "name": "Fallen Status - Reduced Power",
+      "type": "flaw",
+      "point_value": -7,
+      "description": "As a fallen angel, cannot activate physical disciplines (Potence, Celerity) at full potential. True divine powers are lost. Cannot return to Heaven."
+    },
+    {
+      "name": "Compelled to Protect",
+      "type": "flaw",
+      "point_value": -3,
+      "description": "Original mission remains: protect humanity. Must act when humans are threatened, even though disenchanted with humanity."
+    },
+    {
+      "name": "Disenchanted",
+      "type": "flaw",
+      "point_value": -3,
+      "description": "Has lost faith in humanity after seeing wars, Hiroshima, and misuse of teachings. Cynical and weary. No longer proactive in helping humanity."
+    },
+    {
+      "name": "Memory Burden",
+      "type": "flaw",
+      "point_value": -2,
+      "description": "Remembers 10,000 years of history, wars, deaths, failures. This weighs heavily. Sometimes overwhelmed by memories."
+    }
+  ],
+  
+  "thralls_pacts": [
+    {
+      "name": "Jesse Calhoun",
+      "type": "ghoul",
+      "description": "Former police detective, now Gadreel's ghoul and assistant. Handles daytime operations, security, and investigation. Knows Gadreel's true nature. Fiercely loyal. Has been ghouled for 10 years."
+    }
+  ],
+  
+  "health_levels": [
+    {"level": "Healthy", "status": "OK", "penalty": 0},
+    {"level": "Bruised", "status": "OK", "penalty": 0},
+    {"level": "Hurt", "status": "OK", "penalty": -1},
+    {"level": "Injured", "status": "OK", "penalty": -1},
+    {"level": "Wounded", "status": "OK", "penalty": -2},
+    {"level": "Mauled", "status": "OK", "penalty": -2},
+    {"level": "Crippled", "status": "OK", "penalty": -5},
+    {"level": "Incapacitated", "status": "OK", "penalty": 0}
+  ],
+  
+  "relationships": [
+    {
+      "related_character_name": "Jesse Calhoun",
+      "relationship_type": "servant",
+      "relationship_subtype": "ghoul",
+      "strength": "strong",
+      "description": "Former cop who proved himself during a supernatural incident. Gadreel ghouled him for protection and assistance. Trusts him as much as he can trust anyone."
+    },
+    {
+      "related_character_name": "Other Grigori",
+      "relationship_type": "former comrades",
+      "relationship_subtype": "scattered",
+      "strength": "distant",
+      "description": "Other Watchers who fell with Gadreel. Most joined Hell, some stayed on Earth. Gadreel has lost touch with most over millennia."
+    },
+    {
+      "related_character_name": "Nephilim Descendants",
+      "relationship_type": "ancient children",
+      "relationship_subtype": "lost",
+      "strength": "haunting",
+      "description": "Gadreel's mortal children from before the Flood. All died millennia ago. Their memory haunts him."
+    },
+    {
+      "related_character_name": "Humanity (General)",
+      "relationship_type": "wards",
+      "relationship_subtype": "protected",
+      "strength": "complicated",
+      "description": "Gadreel's original mission was to protect humanity. He's disenchanted but still compelled to help. Views them as disappointing children who squandered his gifts."
+    }
+  ],
+  
+  "custom_data": {
+    "creature_type": "Fallen Angel (Grigori/Watcher)",
+    "age": "10,000+ years",
+    "original_mission": "Watch over humanity, teach survival skills (weapons, hunting, cosmetics)",
+    "fall_reason": "Took mortal wives, created Nephilim (giants/mighty men), violated divine commandment",
+    "current_identity": "Gad Reilly - master smith and knife maker",
+    "business": "Angel Forge - legendary in reenactment circles",
+    "vampire_equivalent_disciplines": {
+      "Auspex": 2,
+      "Celerity": 3,
+      "Fortitude": 5,
+      "Potence": 3
+    },
+    "discipline_limitations": "Cannot activate Potence or Celerity to full potential due to fallen status. Relies on legendary skill rather than supernatural power.",
+    "combat_capabilities": {
+      "firearms": 6,
+      "melee": 7,
+      "brawl": 5,
+      "soak": "Stamina 5 + Fortitude 5 = 10 dice (soaks all damage types)",
+      "special": "Master-crafted weapons grant +1 to use and +1 damage",
+      "tactics": "10,000 years of combat experience - fights intelligently, uses terrain, exploits weaknesses"
+    },
+    "languages": "Speaks and understands ALL human languages perfectly (divine gift)",
+    "special_immunities": [
+      "Immune to mental manipulation (Dominate, Presence, Dementation)",
+      "Immune to emotional manipulation",
+      "Immune to Daimoinon",
+      "Cannot be possessed or mind-controlled"
+    ],
+    "known_weaknesses": [
+      "Can be killed (though extremely difficult)",
+      "No True Faith (is fallen angel)",
+      "Cannot use full supernatural speed/strength",
+      "Compelled to protect humans",
+      "Haunted by 10,000 years of memories"
+    ],
+    "key_events": [
+      "Creation: Before the Flood",
+      "Mission: Teach humanity weapons and survival",
+      "Fall: Took mortal wives, created Nephilim",
+      "Cast from Heaven: ~8000 BC",
+      "Stayed on Earth: Unlike others who joined Hell",
+      "Witnessed: All of human civilization",
+      "Breaking point: Hiroshima and Nagasaki, 1945",
+      "Current: Operates as Gad Reilly since ~1970s"
+    ],
+    "special_notes": "Gadreel is not an active threat but a potential ally or complication. He won't seek out vampires but will act if they harm humans he knows or cause widespread suffering. He's extremely dangerous in combat despite reduced powers - 10,000 years of experience counts for more than supernatural strength. High-Humanity vampires might gain him as ally. Low-Humanity vampires might face an ancient, unkillable opponent. His forge can provide masterwork weapons to characters if they prove worthy."
+  },
+  
+  "actingNotes": "Play Gadreel as weary, ancient, and quietly sad. He's seen everything and is tired. Speaks slowly, choosing words carefully. Patient but can become sharp if annoyed. Shows craftsmanship pride when discussing weapons - this is where ancient passion shows. Kind to those who show respect for his work and humanity. Cold to those who abuse others. Never raises voice - after 10,000 years, shouting is pointless. Has slight accent that shifts depending on who he's talking to (unconsciously matches their linguistic roots). Eyes are oldest thing about him - look through people, not at them.",
+  
+  "agentNotes": "Gadreel is a wild card. Not enemy, not ally - just ancient being trying to live quietly. Characters might encounter him by: needing a master-crafted weapon, investigating supernatural smithing, following rumors of 'Angel Forge', or being caught harming humans in his territory. If approached respectfully, he may help - especially if characters show genuine care for humans. If threatened, he's nearly impossible to defeat (Fortitude 5, legendary skills, immune to mental powers). Jesse (his ghoul) may investigate suspicious vampire activity and report to Gadreel. Best use: moral compass, ancient knowledge source, potential ally against greater threats, or maker of legendary weapons for worthy characters.",
+  
+  "health_status": "Perfect condition - immortal being",
+  
+  "experience_total": 500,
+  "spent_xp": 500,
+  "experience_unspent": 0,
+  
+  "created_at": null,
+  "updated_at": null
+}

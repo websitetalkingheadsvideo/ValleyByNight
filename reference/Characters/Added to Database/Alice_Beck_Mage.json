@@ -1,0 +1,210 @@
+{
+  "_template_version": "1.0.0",
+  "_database_table": "mage_characters",
+  "template_usage": "Alice Beck - Orphan Mage (serial killer). Import with: php tools/repeatable/php/database-tools/import_mage_characters.php path/to/this_file.json",
+  
+  "id": 0,
+  "user_id": 0,
+  "character_name": "Alice Beck",
+  "player_name": "ST/NPC",
+  "chronicle": "Valley by Night",
+  "nature": "Survivor",
+  "demeanor": "Loner",
+  "concept": "Orphan Mage / Magical Serial Killer",
+  "tradition": "Orphan",
+  "paradigm": "Power comes from taking life; death fuels magic",
+  "practice": "Blood Magic / Death Magic",
+  "instruments": ["Killing", "Blood", "Death", "Violence"],
+  "pc": 0,
+  "appearance": "Pretty face, but otherwise unremarkable Caucasian woman with shoulder-length black hair, dressed in cheap, off-the-rack clothes. Tries to blend in and not draw attention.",
+  "biography": "Alice grew up in an archetypal broken home; absentee father, poor, hard-working mother, delinquent older siblings and a score of stepdads, some of them physically abusive. She ran away to the city at age 13 and never looked back. Had it not been for her talents, she would probably have ended up just another statistic in the endless grind of the World of Darkness. However, Alice had a gift – the gift of magic.\n\nUnfortunately for Alice, her powers were first recognized by a burned-out neo-shaman who had more or less fried his talent (and brains) with too many drugs. He was able to kindle Alice's powers and teach her a modicum of control, but ultimately, he was a poor mentor, and abusive to boot. Eventually, Alice lost control and ended up killing her teacher with magic.\n\nAfter the dust had settled, Alice found herself surprised that she felt little in the way or guilt or remorse over the murder she had just committed. In fact, she felt empowered and free in a way she had never felt before. Curious, she took to the streets and found the most abusive pimp she could and then killed him. Again, she felt the rush of power and a greater sense of clarity.\n\nSince then, Alice has become a magical serial killer. She recognizes the problem inherent in gaining power from killing and has realized that she 'only' needs to kill once a month to empower her full potential. However, the rush and the sensation of killing is a potent drug that she struggles against. So far, she has targeted drug dealers, pimps, and muggers, as well as the occasional rat, pigeon, and stray dog and her moral compass will not, for now, allow her to kill anyone she does not consider a dangerous, violent, exploitive person.\n\nAlice knows very little about vampires – her mentor told her that they exist and that they are dangerous. However, Alice moves in the darkest part of the city and at some point, she will likely cross paths with the undead.",
+  "notes": "ALICE BECK - THE MAGE\n\nAlice is an ORPHAN MAGE - she has awakened magical power but has no formal training or tradition. Her paradigm is dark and twisted: she gains power from killing. This is NOT typical of most mages.\n\nMAGICAL PARADIGM:\n- Believes power comes from taking life\n- Death fuels her magic\n- Needs to kill once per month to maintain full power\n- Killing gives her a rush and sense of clarity\n- Struggles against the addiction to killing\n\nMORAL COMPASS:\n- Only kills those she considers dangerous/exploitive\n- Targets: drug dealers, pimps, muggers\n- Also kills animals when desperate\n- Will NOT (currently) kill innocents\n- This may change if she loses her struggle against addiction\n\nVAMPIRE KNOWLEDGE:\n- Knows vampires exist\n- Knows they're dangerous\n- No detailed knowledge of Kindred society\n- May mistake vampires for other predators\n- Could be manipulated by Kindred who understand her\n\nVULNERABILITIES:\n- Addiction to killing\n- Limited magical knowledge\n- No tradition backing\n- Moral compass eroding\n- Humanity decreasing\n- Vulnerable to being caught by authorities or vampires\n\nTHREAT LEVEL:\n- Dangerous to careless Kindred\n- Particularly dangerous to vampire criminals\n- Could be ally or enemy depending on approach\n- High-Humanity vampires might find common ground",
+  "equipment": "Large knife, plenty of ready cash stolen from victims, cheap clothes, backpack with basic supplies",
+  "character_image": "",
+  "status": "active",
+  "arete": 4,
+  "willpower_permanent": 9,
+  "willpower_current": 9,
+  "quintessence": {
+    "current": 10,
+    "max": 10,
+    "pool": "Gains quintessence from killing - 1 point per kill, maximum 10"
+  },
+  "paradox": {
+    "current": 0,
+    "permanent": 0,
+    "notes": "Alice's magic is vulgar but coincidental in dark areas where murders happen. She risks paradox when killing in public or obvious ways."
+  },
+  
+  "spheres": {
+    "Correspondence": 0,
+    "Entropy": 0,
+    "Forces": 0,
+    "Life": 0,
+    "Matter": 0,
+    "Mind": 3,
+    "Prime": 4,
+    "Spirit": 0,
+    "Time": 0
+  },
+  
+  "attributes": {
+    "Physical": { "Strength": 2, "Dexterity": 2, "Stamina": 4 },
+    "Social": { "Charisma": 3, "Manipulation": 2, "Composure": 3 },
+    "Mental": { "Intelligence": 3, "Wits": 3, "Resolve": 4 }
+  },
+  
+  "abilities": [
+    {"name": "Alertness", "level": 2, "category": "Talent"},
+    {"name": "Athletics", "level": 2, "category": "Talent"},
+    {"name": "Awareness", "level": 4, "category": "Talent", "specialization": "Supernatural presence"},
+    {"name": "Brawl", "level": 2, "category": "Talent"},
+    {"name": "Empathy", "level": 2, "category": "Talent"},
+    {"name": "Intimidation", "level": 3, "category": "Talent"},
+    {"name": "Streetwise", "level": 4, "category": "Talent", "specialization": "Criminal underworld"},
+    {"name": "Subterfuge", "level": 2, "category": "Talent"},
+    {"name": "Larceny", "level": 3, "category": "Skill"},
+    {"name": "Melee", "level": 1, "category": "Skill"},
+    {"name": "Stealth", "level": 2, "category": "Skill"},
+    {"name": "Medicine", "level": 1, "category": "Knowledge"},
+    {"name": "Occult", "level": 3, "category": "Knowledge", "specialization": "Death magic"}
+  ],
+  
+  "rotes": [
+    {
+      "name": "Hands of Destruction",
+      "spheres": "Prime 4",
+      "effect": "Channel quintessence into destructive energy through touch. Can burn, corrode, or destroy matter and damage living beings.",
+      "dice": "Arete (4) + relevant ability",
+      "notes": "Alice's primary offensive magic. Appears as crackling dark energy around her hands. Extremely vulgar in broad daylight."
+    },
+    {
+      "name": "Sense Life Force",
+      "spheres": "Prime 1, Mind 1",
+      "effect": "Detect living beings and supernatural entities nearby. Can sense vampires as 'cold spots' of undeath.",
+      "dice": "Arete (4) + Awareness",
+      "notes": "Coincidental - appears as intuition or gut feeling"
+    },
+    {
+      "name": "Steal Vitality",
+      "spheres": "Prime 3",
+      "effect": "Drain quintessence from a dying victim to replenish her own power.",
+      "dice": "Arete (4) + Medicine",
+      "notes": "Must be used during or immediately after killing. This is how she maintains her power."
+    },
+    {
+      "name": "Fortify Body",
+      "spheres": "Prime 2",
+      "effect": "Channel quintessence to strengthen her body against damage.",
+      "dice": "Automatic - equivalent to Fortitude 1",
+      "notes": "Coincidental - appears as unusual toughness"
+    },
+    {
+      "name": "Project Fear",
+      "spheres": "Mind 3",
+      "effect": "Project overwhelming fear into a target's mind.",
+      "dice": "Arete (4) + Intimidation",
+      "notes": "Equivalent to Dementation. Can cause targets to flee or freeze. Vulgar if obvious."
+    },
+    {
+      "name": "Read Surface Thoughts",
+      "spheres": "Mind 3",
+      "effect": "Read surface thoughts and current emotions of a target.",
+      "dice": "Arete (4) + Empathy",
+      "notes": "Equivalent to Auspex 3. Coincidental if subtle."
+    }
+  ],
+  
+  "backgrounds": {
+    "Avatar": 2,
+    "Resources": 1,
+    "Contacts": 2
+  },
+  
+  "backgroundDetails": {
+    "Avatar": "Alice's Avatar is dark and hungry. It drives her to kill and gain power. It's a constant voice urging her toward violence and death.",
+    "Resources": "Limited resources from robbing her victims. Has enough to survive and move around the city.",
+    "Contacts": "Street contacts in the criminal underworld. Knows where to find pimps, dealers, and other predators."
+  },
+  
+  "merits_flaws": [
+    {
+      "name": "Natural Channeler",
+      "type": "merit",
+      "point_value": 3,
+      "description": "Alice has a natural gift for channeling magical energy. -1 difficulty on all Prime-based magic."
+    },
+    {
+      "name": "Supernatural Awareness",
+      "type": "merit",
+      "point_value": 1,
+      "description": "Can sense supernatural beings (vampires, other mages, etc.) instinctively."
+    },
+    {
+      "name": "Dark Paradigm",
+      "type": "flaw",
+      "point_value": -4,
+      "description": "Alice's paradigm requires killing to maintain power. Must kill at least once per month or lose 1 Quintessence per week. Killing also risks addiction and humanity loss."
+    },
+    {
+      "name": "Hunted (Authorities)",
+      "type": "flaw",
+      "point_value": -2,
+      "description": "Police are looking for a serial killer matching Alice's pattern. She must be careful."
+    },
+    {
+      "name": "Addiction (Killing)",
+      "type": "flaw",
+      "point_value": -2,
+      "description": "Alice is addicted to the rush of killing. Willpower roll required to resist killing when opportunity presents itself."
+    }
+  ],
+  
+  "health_levels": [
+    {"level": "Healthy", "status": "OK"},
+    {"level": "Bruised", "status": "OK"},
+    {"level": "Hurt", "status": "OK"},
+    {"level": "Injured", "status": "OK"},
+    {"level": "Wounded", "status": "OK"},
+    {"level": "Mauled", "status": "OK"},
+    {"level": "Crippled", "status": "OK"},
+    {"level": "Incapacitated", "status": "OK"}
+  ],
+  
+  "relationships": [
+    {
+      "related_character_name": "Burned-out Neo-Shaman (Deceased)",
+      "relationship_type": "mentor",
+      "relationship_subtype": "abusive teacher",
+      "strength": "past",
+      "description": "Alice's first teacher who awakened her power but abused her. She killed him - her first magical murder."
+    }
+  ],
+  
+  "custom_data": {
+    "creature_type": "Mage (Orphan)",
+    "mage_type": "Orphan - no tradition training",
+    "paradigm_details": "Alice believes that life force (quintessence) can be taken from the dying and channeled into magic. Killing is her source of power. This is a dark and twisted paradigm but it works for her.",
+    "killing_pattern": "Targets violent criminals (pimps, dealers, muggers). Occasionally kills animals (rats, pigeons, stray dogs). Needs to kill once per month minimum. Struggles against urge to kill more often.",
+    "equivalent_disciplines": {
+      "Auspex": 3,
+      "Fortitude": 1,
+      "Thaumaturgy": 4
+    },
+    "vampire_knowledge_level": "Minimal - knows they exist and are dangerous",
+    "special_notes": "Alice is a walking moral dilemma. She only kills 'bad people' but she's still a serial killer. She could be an ally to high-Humanity vampires who also hunt criminals, or a dangerous enemy to vampire criminals. Her addiction to killing will eventually force a choice: embrace her dark nature or find a new paradigm."
+  },
+  
+  "actingNotes": "Play Alice as someone struggling with addiction and power. She's not cackling evil - she's trying to maintain control over a dark gift. When she talks about killing, there's a mix of guilt, justification, and hunger. She rationalizes her targets as deserving death. Her voice should be quiet, almost apologetic, but with an undercurrent of intensity when discussing her 'work'. She's most dangerous when cornered or when she hasn't killed in a while.",
+  
+  "agentNotes": "Alice is a complication for vampires who prey on criminals or operate in the underworld. She's killing drug dealers and pimps - some of which might be vampire ghouls, contacts, or territories. High-Humanity vampires who hunt criminals might cross paths with her and face a difficult choice: is she doing good by removing predators, or is she herself a predator? Low-Humanity vampires might just try to kill her, which could backfire if she's powerful enough. She's a potential ally, enemy, or tragic figure depending on how she's approached.",
+  
+  "health_status": "Healthy but psychologically deteriorating",
+  
+  "experience_total": 0,
+  "spent_xp": 0,
+  "experience_unspent": 0,
+  
+  "created_at": null,
+  "updated_at": null
+}
