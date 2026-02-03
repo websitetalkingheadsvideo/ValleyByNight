@@ -1,0 +1,153 @@
+{
+  "template_usage": "Fill this template and import with: php tools/repeatable/import_ghouls.php path/to/this_file.json. character_name is required. characters table gets top-level character fields; ghouls table gets domitor_character_id, blood_bond_stage, is_active, retainer_level, etc. See reference/Characters/Ghouls/README_ghoul_template.md for field-to-table mapping.",
+  "character_name": "",
+  "player_name": "NPC",
+  "chronicle": "Valley by Night",
+  "pc": 0,
+  "status": "active",
+  "camarilla_status": "",
+  "clan": "Ghoul",
+  "nature": "",
+  "demeanor": "",
+  "derangement": "",
+  "concept": "",
+  "appearance": "",
+  "biography": "",
+  "notes": "",
+  "custom_data": null,
+  "character_image": null,
+  "generation": null,
+  "sire": null,
+  "experience_total": 0,
+  "experience_unspent": 0,
+  "spent_xp": 0,
+  "willpower_current": null,
+  "willpower_permanent": null,
+  "blood_pool_current": null,
+  "blood_pool_max": null,
+  "path_rating": null,
+  "morality_path": null,
+  "conscience": null,
+  "self_control": null,
+  "courage": null,
+  "equipment": null,
+  "health_status": null,
+  "name": {
+    "full": "",
+    "first": "",
+    "last": "",
+    "aliases": []
+  },
+  "domitor": {
+    "domitor_character_id": null,
+    "domitor_name": "",
+    "relationship_summary": "",
+    "first_contact": {
+      "date": null,
+      "context": ""
+    }
+  },
+  "domitor_character_id": null,
+  "bond": {
+    "blood_bond_stage": 0,
+    "bond_strength_descriptor": "",
+    "blood_bond_notes": ""
+  },
+  "blood_bond_stage": 0,
+  "mechanics": {
+    "nature": "",
+    "demeanor": "",
+    "concept": "",
+    "chronicle_date": null,
+    "attributes": {
+      "physical": { "strength": 0, "dexterity": 0, "stamina": 0 },
+      "social": { "charisma": 0, "manipulation": 0, "appearance": 0 },
+      "mental": { "perception": 0, "intelligence": 0, "wits": 0 }
+    },
+    "abilities": {
+      "talents": [],
+      "skills": [],
+      "knowledges": []
+    },
+    "disciplines": [],
+    "backgrounds": [],
+    "merits_flaws": { "merits": [], "flaws": [] },
+    "advantages": {
+      "willpower": 0,
+      "courage": 0,
+      "self_control": 0,
+      "conscience": 0,
+      "humanity": 0
+    },
+    "health": { "current": [], "max": 0, "notes": "" },
+    "experience": { "total_earned": 0, "total_spent": 0, "unspent": 0, "log": [] },
+    "derived_stats": { "initiative": "", "movement": "", "carry": "", "soak": "" }
+  },
+  "vitae": {
+    "access_pattern": "regular",
+    "withdrawal_risk": "high",
+    "dependency": {
+      "emotional_dependency_level": 0,
+      "functional_dependency_level": 0,
+      "notes": ""
+    }
+  },
+  "awareness": {
+    "knows_vampires_exist": true,
+    "knows_domitor_is_vampire": true,
+    "knows_clan": false,
+    "known_clan": "",
+    "knows_politics": "basic",
+    "knows_masquerade_rules": true,
+    "knowledge_notes": ""
+  },
+  "public_profile": {
+    "claimed_age": null,
+    "presentation": { "style_summary": "", "signature_items": [], "demeanor_public": "" },
+    "public_role": "",
+    "cover_story": "",
+    "contact_points": []
+  },
+  "hidden_profile": {
+    "actual_age": null,
+    "runaway": false,
+    "legal_status": "unknown",
+    "false_identity_notes": "",
+    "domitor_awareness_of_truth": {},
+    "hidden_flags": []
+  },
+  "risks": {
+    "masquerade_risk": "medium",
+    "court_risk": "medium",
+    "legal_risk": "high",
+    "exploitation_risk": "medium",
+    "tags": [],
+    "risk_notes": ""
+  },
+  "relationships": {
+    "to_domitor": {
+      "attachment_style": "devoted",
+      "jealousy_level": 0,
+      "protectiveness_level": 0,
+      "trust_level": 0,
+      "notes": ""
+    },
+    "others": []
+  },
+  "is_active": 1,
+  "retainer_level": null,
+  "vitae_last_fed_at": null,
+  "vitae_frequency": null,
+  "first_fed_at": null,
+  "is_family": 0,
+  "loyalty": null,
+  "independent_will": null,
+  "escape_risk": null,
+  "risk_level": null,
+  "discipline_cap_override": null,
+  "addiction_severity": null,
+  "withdrawal_effects": null,
+  "domitor_control_style": null,
+  "handler_notes": null,
+  "masquerade_liability": null
+}
