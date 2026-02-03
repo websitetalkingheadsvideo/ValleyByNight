@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.85
+## Current Version: 0.9.86
+
+**Date:** 2026-02-03  
+**Type:** Patch (Mortal/Mage/Demon character sheets, tables & import; werewolf rank fix)
+
+## Previous Version: 0.9.85
 
 **Date:** 2026-02-03  
 **Type:** Patch (Ghoul/Wraith/Werewolf admin & templates: auth, template READMEs, werewolf table & import)

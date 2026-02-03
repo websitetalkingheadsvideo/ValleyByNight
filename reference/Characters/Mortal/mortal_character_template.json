@@ -1,0 +1,83 @@
+{
+  "_template_version": "1.0.0",
+  "_description": "Mortal with Powers Character Sheet Template - All fields for database integration (WoD mortals: psychics, sorcerers, hunters, etc.)",
+  "_database_table": "mortal_characters",
+  "template_usage": "Fill this template and import with: php tools/repeatable/php/database-tools/import_mortal_characters.php path/to/this_file.json (or ?file=filename.json in browser). character_name is required. All keys map to mortal_characters table. See reference/Characters/Mortal/README_mortal_template.md for field-to-table mapping.",
+
+  "id": 0,
+  "user_id": 0,
+  "character_name": "",
+  "player_name": "NPC",
+  "chronicle": "Valley by Night",
+  "nature": "",
+  "demeanor": "",
+  "concept": "",
+  "power_source": "",
+  "pc": 1,
+  "appearance": "",
+  "biography": "",
+  "notes": "",
+  "equipment": "",
+  "character_image": "",
+  "status": "active",
+  "willpower_permanent": 5,
+  "willpower_current": 5,
+
+  "attributes": {
+    "Physical": { "Strength": 0, "Dexterity": 0, "Stamina": 0 },
+    "Social": { "Charisma": 0, "Manipulation": 0, "Composure": 0 },
+    "Mental": { "Intelligence": 0, "Wits": 0, "Resolve": 0 }
+  },
+
+  "abilities": [],
+
+  "powers": [],
+
+  "backgrounds": {},
+
+  "backgroundDetails": {},
+
+  "merits_flaws": [],
+
+  "health_levels": [],
+
+  "relationships": [],
+
+  "custom_data": null,
+
+  "actingNotes": "",
+  "agentNotes": "",
+  "health_status": "",
+
+  "experience_total": 0,
+  "spent_xp": 0,
+  "experience_unspent": 0,
+
+  "created_at": null,
+  "updated_at": null,
+
+  "_field_documentation": {
+    "power_source": "STRING - Source of powers: Psychic, Sorcerer, Linear Sorcerer, Hedge Mage, Medium, Ghoul, Hunter, Psychic Vampire, etc.",
+    "powers": "ARRAY - Supernatural abilities. Format: [{\"name\": \"Telekinesis\", \"level\": 2, \"path_or_discipline\": \"\", \"description\": \"...\", \"effects\": []}]"
+  },
+
+  "_example_values": {
+    "power_source": "Psychic",
+    "powers": [
+      {
+        "name": "Telekinesis",
+        "level": 2,
+        "path_or_discipline": "",
+        "description": "Move small objects with concentration",
+        "effects": ["Lift up to 5 lbs", "Range 10 yards"]
+      },
+      {
+        "name": "Premonition",
+        "level": 1,
+        "path_or_discipline": "",
+        "description": "Vague flashes of possible futures",
+        "effects": ["ST may grant clues", "Unreliable"]
+      }
+    ]
+  }
+}
