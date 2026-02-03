@@ -1,0 +1,277 @@
+{
+  "_template_version": "1.0.0",
+  "_database_table": "werewolf_characters",
+  "template_usage": "Urban Spirit - Forest spirit corrupted by urbanization. Import with: php tools/repeatable/php/database-tools/import_werewolf_characters.php path/to/this_file.json. NOTE: This is a SPIRIT, not a werewolf - using werewolf template for database compatibility.",
+  
+  "id": 0,
+  "user_id": 0,
+  "character_name": "Urban Spirit",
+  "player_name": "ST/NPC",
+  "chronicle": "Valley by Night",
+  "nature": "Monster",
+  "demeanor": "Enigma",
+  "concept": "Corrupted Forest Spirit / Urban Bane",
+  "breed": "N/A - Spirit",
+  "auspice": "N/A - Spirit",
+  "tribe": "N/A - Spirit",
+  "pack_name": "N/A",
+  "pack_totem": "N/A",
+  "sept": "N/A",
+  "pc": 0,
+  "appearance": "In the spirit world, appears as a warped and crooked tree with diseased branches. When manifesting physically, appears as a huge pile of garbage, detritus, fallen leaves, cut grass, and random sticks animated into humanoid form. Constantly shifting and reforming.",
+  "biography": "This entity was once a forest spirit, but its home was cut down to facilitate urban development. Normally, this would have resulted in the death of the spirit, but something kept it 'alive' – some confluence of ley lines or spiritual energies. For decades, centuries, the spirit lay dormant, buried under concrete and roadways. But then, urban development and gentrification transformed the neighborhood, adding parks and other greenery. Slowly, the spirit awoke, changed by being forced into a city, weakened by the environment, but aware once again.\n\nThe spirit has been warped by the change in its environment and wants to make others feel the pain and madness that it feels. In the spirit world, the being looks like a warped and crooked tree, but it can also manifest as a huge pile of whatever garbage, detritus, fallen leaves, cut grass, and random sticks are around it.\n\nThe spirit uses Essence to power its Disciplines rather than blood - it can manifest at the cost of 5 Essence. It recovers Essence at the rate of one per day, at sunrise. The spirit can only use its physical Disciplines when corporeal, but at the cost of one additional Essence, the spirit can let a mental power manifest in the physical world. The spirit can also look from the spirit world into the physical world, seeing through Disciplines with the equivalent of Auspex 5. 'Killing' the spirit's corporeal form simply reduces its Essence to 0 and discorporates it. In order to kill it, Disciplines that specifically target spirits must be employed.",
+  "notes": "URBAN SPIRIT - THE CORRUPTED NATURE SPIRIT\n\n**IMPORTANT: This is a SPIRIT, not a werewolf. Using werewolf template for database compatibility only.**\n\nWHAT IT IS:\n- Was a forest spirit whose forest was destroyed\n- Kept 'alive' by ley lines or spiritual energy\n- Dormant for decades/centuries under concrete\n- Awakened when urban development added greenery\n- Now warped, corrupted, and insane from the experience\n\nWHAT IT WANTS:\n- Make others feel its pain and madness\n- Spread madness and violence\n- Corrupt humans and vampires\n- Destroy the city that destroyed it\n\nSPIRIT MECHANICS:\n- Uses ESSENCE instead of Rage/Gnosis\n- Manifesting costs 5 Essence\n- Recovers 1 Essence per day at sunrise\n- Current Essence: 15\n- Physical powers only work when manifested\n- Mental powers cost +1 Essence to affect physical world\n- Can see into physical world from spirit realm (Auspex 5 equivalent)\n\nCOMBAT:\n- Only vulnerable when manifested\n- Destroying corporeal form reduces Essence to 0\n- Spirit discorporates but doesn't die\n- Must use spirit-targeting powers to truly kill it\n- When manifested: Strength 5, uses physical disciplines\n- When discorporate: Can only use mental powers for +1 Essence\n\nPOWERS:\n- Animalism 2 (control animals, especially urban pests)\n- Dementation 4 (drive people insane)\n- Fortitude 5 (extremely durable when manifested)\n- Potence 3 (supernaturally strong)\n\nTHREAT ASSESSMENT:\n- Dangerous to individuals (can drive them insane)\n- Affects entire neighborhoods (madness spreads)\n- Difficult to kill permanently\n- Must find spirit-killing methods\n- Can target domains, causing Masquerade breaches\n\nVULNERABILITIES:\n- Limited Essence Pool (15)\n- Manifestation costs 5 Essence\n- Only 1 Essence regeneration per day\n- Can only manifest 3 times before depleted\n- Must discorporate if Essence reaches 0\n- Spirit-targeting powers can kill it permanently",
+  "equipment": "None - spirit entity",
+  "character_image": "",
+  "status": "active",
+  
+  "attributes": {
+    "Physical": { "Strength": 5, "Dexterity": 2, "Stamina": 5 },
+    "Social": { "Charisma": 2, "Manipulation": 3, "Composure": 0 },
+    "Mental": { "Perception": 4, "Intelligence": 2, "Wits": 4 }
+  },
+  
+  "abilities": [
+    {"name": "Alertness", "level": 5, "category": "Talent"},
+    {"name": "Animal Ken", "level": 5, "category": "Skill", "specialization": "Urban animals"},
+    {"name": "Athletics", "level": 3, "category": "Talent"},
+    {"name": "Awareness", "level": 5, "category": "Talent", "specialization": "Spirit world"},
+    {"name": "Brawl", "level": 3, "category": "Talent"},
+    {"name": "Empathy", "level": 1, "category": "Talent"},
+    {"name": "Expression", "level": 1, "category": "Talent"},
+    {"name": "Intimidation", "level": 3, "category": "Talent"},
+    {"name": "Occult", "level": 3, "category": "Knowledge", "specialization": "Spirits"},
+    {"name": "Stealth", "level": 1, "category": "Talent"},
+    {"name": "Subterfuge", "level": 1, "category": "Talent"},
+    {"name": "Survival", "level": 6, "category": "Skill", "specialization": "Urban environments"}
+  ],
+  
+  "specializations": {
+    "Animal Ken": "Rats, pigeons, stray dogs - urban scavengers",
+    "Awareness": "Seeing between physical and spirit worlds",
+    "Survival": "Surviving in hostile urban environment as a nature spirit"
+  },
+  
+  "gifts": [
+    {
+      "name": "Spirit Sight",
+      "level": 5,
+      "type": "spirit",
+      "description": "Can see perfectly into both physical and spirit worlds simultaneously. Equivalent to Auspex 5."
+    },
+    {
+      "name": "Manifestation",
+      "level": 5,
+      "type": "spirit",
+      "description": "Can manifest in physical world by forming body from garbage and debris. Costs 5 Essence."
+    },
+    {
+      "name": "Call of the Urban Wild",
+      "level": 2,
+      "type": "spirit",
+      "description": "Control urban animals - rats, pigeons, stray dogs, cats. Equivalent to Animalism 2."
+    },
+    {
+      "name": "Touch of Madness",
+      "level": 4,
+      "type": "corruption",
+      "description": "Drive mortals and vampires insane with a touch or mental contact. Equivalent to Dementation 4."
+    },
+    {
+      "name": "Unbreakable Form",
+      "level": 5,
+      "type": "spirit",
+      "description": "When manifested, incredibly durable. Equivalent to Fortitude 5."
+    },
+    {
+      "name": "Strength of the Warped Oak",
+      "level": 3,
+      "type": "spirit",
+      "description": "Supernatural strength when manifested. Equivalent to Potence 3."
+    }
+  ],
+  
+  "rites": [],
+  
+  "backgrounds": {
+    "Essence": 15,
+    "Willpower": 9,
+    "Power": 5
+  },
+  
+  "backgroundDetails": {
+    "Essence": "Spirit's power source. Current: 15. Max: 15. Regenerates 1 per day at sunrise. Manifestation costs 5. Mental powers in physical world cost +1.",
+    "Willpower": "Spirit's determination and resistance to banishment. Very high due to its obsessive nature.",
+    "Power": "Spirit's raw power level in the spirit hierarchy. Moderate - was stronger before corruption."
+  },
+  
+  "renown": {
+    "glory": 0,
+    "honor": 0,
+    "wisdom": 0
+  },
+  
+  "rage_permanent": 0,
+  "rage_current": 0,
+  "gnosis_permanent": 0,
+  "gnosis_current": 0,
+  "willpower_permanent": 9,
+  "willpower_current": 9,
+  
+  "health_levels": [
+    {"level": "Manifested", "status": "OK", "penalty": 0},
+    {"level": "Manifested", "status": "OK", "penalty": 0},
+    {"level": "Manifested", "status": "OK", "penalty": 0},
+    {"level": "Manifested", "status": "OK", "penalty": 0},
+    {"level": "Manifested", "status": "OK", "penalty": 0},
+    {"level": "Manifested", "status": "OK", "penalty": 0},
+    {"level": "Manifested", "status": "OK", "penalty": 0},
+    {"level": "Discorporated", "status": "OK", "penalty": 0}
+  ],
+  
+  "forms": {
+    "spirit_form": {
+      "description": "In spirit world: warped, diseased tree",
+      "attribute_modifiers": { "Strength": 0, "Dexterity": 0, "Stamina": 0 },
+      "notes": "Cannot affect physical world directly. Can only use mental powers for +1 Essence cost. Can observe physical world with Auspex 5 equivalent."
+    },
+    "manifested_form": {
+      "description": "Physical manifestation: pile of garbage and debris in humanoid shape",
+      "attribute_modifiers": { "Strength": 5, "Dexterity": 2, "Stamina": 5 },
+      "notes": "Costs 5 Essence to manifest. Can use all physical and mental powers. Looks like animated garbage heap. Constantly shifting and reforming. Intimidating and disturbing appearance."
+    },
+    "homid": {
+      "description": "N/A - Spirit cannot take human form",
+      "attribute_modifiers": {},
+      "notes": "Spirit cannot take this form"
+    },
+    "glabro": {
+      "description": "N/A - Spirit doesn't shapeshift like werewolf",
+      "attribute_modifiers": {},
+      "notes": "Spirit cannot take this form"
+    },
+    "crinos": {
+      "description": "N/A - Spirit doesn't have war form",
+      "attribute_modifiers": {},
+      "notes": "Spirit cannot take this form"
+    },
+    "hispo": {
+      "description": "N/A - Spirit doesn't shapeshift",
+      "attribute_modifiers": {},
+      "notes": "Spirit cannot take this form"
+    },
+    "lupus": {
+      "description": "N/A - Spirit doesn't take animal form",
+      "attribute_modifiers": {},
+      "notes": "Spirit cannot take this form"
+    }
+  },
+  
+  "merits_flaws": [
+    {
+      "name": "Spirit Entity",
+      "type": "merit",
+      "point_value": 10,
+      "description": "Is a spirit - doesn't truly die if corporeal form destroyed. Exists in spirit world. Can manifest in physical world."
+    },
+    {
+      "name": "Dual-World Vision",
+      "type": "merit",
+      "point_value": 5,
+      "description": "Can see into both physical and spirit worlds simultaneously. Equivalent to Auspex 5."
+    },
+    {
+      "name": "Madness Aura",
+      "type": "merit",
+      "point_value": 4,
+      "description": "Radiates madness. Anyone near manifested form for extended period risks mental instability."
+    },
+    {
+      "name": "Essence-Dependent",
+      "type": "flaw",
+      "point_value": -5,
+      "description": "Must use Essence for all powers. Limited to 15 Essence. Only regenerates 1 per day. Manifestation costs 5."
+    },
+    {
+      "name": "Corrupted Nature",
+      "type": "flaw",
+      "point_value": -4,
+      "description": "Was a nature spirit, now corrupted by urban environment. Insane and in constant pain. Compelled to spread suffering."
+    },
+    {
+      "name": "Vulnerable to Spirit-Bane",
+      "type": "flaw",
+      "point_value": -3,
+      "description": "Can only be truly killed by powers/weapons that specifically target spirits. Otherwise just discorporates."
+    }
+  ],
+  
+  "relationships": [
+    {
+      "related_character_name": "The City",
+      "relationship_type": "enemy",
+      "relationship_subtype": "destroyer",
+      "strength": "obsessive hatred",
+      "description": "The urban development that destroyed the spirit's forest and corrupted its nature. The spirit hates the city itself."
+    },
+    {
+      "related_character_name": "Humans/Vampires in Territory",
+      "relationship_type": "enemy",
+      "relationship_subtype": "targets",
+      "strength": "malevolent",
+      "description": "The spirit targets anyone in its territory, trying to make them feel its pain through madness."
+    }
+  ],
+  
+  "fetishes": [],
+  
+  "custom_data": {
+    "creature_type": "Spirit (Corrupted Nature Spirit)",
+    "spirit_type": "Bane - corrupted nature spirit",
+    "original_nature": "Forest spirit - guardian of trees and wildlife",
+    "corruption_event": "Forest destroyed by urban development, spirit forced to survive in hostile environment",
+    "current_location": "Haunts neighborhood with parks, buried ley lines",
+    "essence_mechanics": {
+      "current": 15,
+      "maximum": 15,
+      "regeneration": "1 per day at sunrise",
+      "manifestation_cost": 5,
+      "mental_power_in_physical_world": "+1 Essence",
+      "notes": "Can only manifest 3 times before depleting essence"
+    },
+    "vampire_equivalent_disciplines": {
+      "Animalism": 2,
+      "Auspex": 5,
+      "Dementation": 4,
+      "Fortitude": 5,
+      "Potence": 3
+    },
+    "killing_the_spirit": {
+      "method_1": "Spirit-targeting thaumaturgy/necromancy",
+      "method_2": "Werewolf gifts that affect spirits",
+      "method_3": "Exorcism rituals",
+      "method_4": "Destroying the ley line/spiritual anchor",
+      "notes": "Normal attacks just discorporate it. Must use spirit-specific methods to kill permanently."
+    },
+    "tactical_notes": {
+      "discorporate_strategy": "If Essence drops to 0, spirit discorporates automatically. Must wait for Essence regeneration.",
+      "manifestation_strategy": "Spirit chooses when to manifest. Prefers to affect victims mentally from spirit world (costs less Essence).",
+      "madness_spreading": "Dementation 4 can affect multiple targets. Spirit spreads madness throughout neighborhood.",
+      "animal_servants": "Uses Animalism to control rats, pigeons, stray dogs as spies and harassment tools."
+    },
+    "special_notes": "The Urban Spirit is a long-term threat that affects an entire neighborhood. It can't be simply killed with violence - characters must find spiritual solutions. High-Occult characters might recognize it as a Bane (corrupted spirit). Werewolves would want to destroy it. It can cause Masquerade breaches through spreading madness. The madness appears as: violent outbursts, paranoia, depression, suicide attempts, and irrational behavior. Authorities might think it's a bad drug batch or contaminated water."
+  },
+  
+  "actingNotes": "The Urban Spirit doesn't speak much - when it does, its voice is like creaking wood, rustling leaves, and distant traffic. It communicates more through emotions and images projected into victims' minds. When manifested, it's a constantly shifting pile of garbage that moves with unnatural purpose. Its attacks are more psychological than physical - it wants victims to feel its pain and confusion. Play it as alien and inhuman, driven by suffering it doesn't fully understand.",
+  
+  "agentNotes": "The Urban Spirit is an environmental hazard more than a direct combat threat. It affects an entire domain - madness spreads, people act strangely, suicide rates increase, violence erupts for no reason. Characters investigating will find increasing supernatural activity but no obvious source. High-Occult or Auspex characters might sense something wrong spiritually. The spirit rarely manifests fully - it prefers to work from the spirit world, using mental powers. When forced to manifest, it's dangerous but can be driven off by dealing enough damage (reducing Essence to 0). True solution requires spiritual knowledge: find its anchor (the ley line or corrupted park), perform exorcism/cleansing, or use spirit-targeting powers.",
+  
+  "health_status": "Spiritual entity - health based on Essence level",
+  
+  "experience_total": 0,
+  "spent_xp": 0,
+  "experience_unspent": 0,
+  
+  "created_at": null,
+  "updated_at": null
+}

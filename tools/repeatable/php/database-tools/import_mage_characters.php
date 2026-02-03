@@ -24,7 +24,7 @@ if (!$is_cli) {
     echo "<!DOCTYPE html><html><head><title>Mage Character Import</title><style>body{font-family:monospace;padding:20px;} .success{color:green;} .error{color:red;} .warning{color:orange;}</style></head><body>";
 }
 
-require_once __DIR__ . '/../../../includes/connect.php';
+require_once __DIR__ . '/../../../../includes/connect.php';
 
 if (!$conn) {
     die("Database connection failed: " . mysqli_connect_error());

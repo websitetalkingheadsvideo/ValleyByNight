@@ -1,0 +1,216 @@
+{
+  "_template_version": "1.0.0",
+  "_database_table": "supernatural_entities",
+  "template_usage": "The Tupilaq - Inuit Revenge Construct. Import with: php tools/repeatable/php/database-tools/import_supernatural_entities.php path/to/this_file.json",
+  
+  "id": 0,
+  "user_id": 0,
+  "character_name": "The Tupilaq",
+  "player_name": "ST/NPC",
+  "chronicle": "Valley by Night",
+  "nature": "Monster",
+  "demeanor": "N/A - Non-sentient construct",
+  "concept": "Avenging Construct / Inuit Revenge Spirit",
+  "entity_type": "Construct",
+  "entity_subtype": "Tupilaq (Inuit magical construct)",
+  "pc": 0,
+  "appearance": "A 4-foot-high, puppet-like creature made of the bones of whales and musk oxen, as well as the skull of a dead child, all of it bound together with seal sinews. The creature's mouth is grotesquely distended and filled with hideous teeth carved from walrus ivory. Moves with jerky, unnatural movements.",
+  "biography": "A tupilaq is an avenging, destructive construct creature, made by an Inuit shaman, using dark and taboo-breaking rituals. The tupilaq is sent against someone the shaman wishes to kill, though there is a danger – if the tupilaq is sent to destroy someone with greater magical power than its creator, it will be turned against its maker.\n\nThis particular tupilaq was created in 1968 by a Greenlandic angakkuq (shaman) who was dying of radiation poisoning. In January of that year, a B-52G Stratofortress airplane crashed near Thule Air Base in northwestern Greenland. The high explosive components of four hydrogen bombs detonated on impact, spreading radioactive material over a large area. The American and Danish authorities moved quickly to clear away the radioactive material, using a large amount of native labor. No radiation protection was offered and the average ambient temperature was -40 degrees. The Danes and Americans overseeing the clean-up cared little for the worker safety of the Inuit workers and there were several accidents and a few deaths. As the years progressed, first radiation sickness and then cancer took their toll as well.\n\nKnowing that he too was destined to die, the angakkuq violated the taboos of his people on a dark and moonless night and sent a tupilaq to destroy the man who had overseen his work detail; USAF Captain Ronald D. Carrick. Unfortunately, Carrick had been flown in specifically for the clean-up and before the tupilaq could find him at Thule Air Base, the captain was back in the US. Undaunted, the creation began its trek across ice and sea, tracking down its prey. However, Captain Carrick was reassigned to Vietnam before the tupilaq could reach him, forcing the construct creature to begin a long walk towards Southeast Asia. The angakkuq died without knowing of the monumental distances his creation traversed.\n\nThe tupilaq had almost reached its prey, when Carrick, now a major, was reassigned back to the US and went into politics. He traveled extensively, not knowing that his frequent flights kept him out of reach of the supernatural hunter tracking him. He finally died, somewhat ironically, of cancer. However, the rage, hatred, and anger that fueled the creature had not been sated and it began hunting down Carrick's nearest family.\n\nThe tupilaq will not stop until it has killed all immediate family members of Captain Carrick, or until it is destroyed.",
+  "notes": "THE TUPILAQ - INUIT REVENGE CONSTRUCT\n\nCREATION:\n- Created in 1968 by dying Inuit shaman\n- Made from whale bones, musk ox bones, child skull, seal sinews, walrus ivory teeth\n- Created through taboo-breaking dark rituals\n- Animated by rage, hatred, and need for vengeance\n\nORIGINAL TARGET:\n- USAF Captain Ronald D. Carrick\n- Overseer of Thule Air Base nuclear cleanup (1968)\n- Responsible for Inuit workers' radiation deaths\n- Died of cancer before tupilaq could reach him\n\nCURRENT MISSION:\n- Hunting Carrick's immediate family\n- Will not stop until all family members dead\n- Cannot be reasoned with or negotiated with\n- Completely single-minded\n\nTRACKING ABILITY:\n- Can sense location of targets anywhere on Earth\n- Cannot see through Obfuscate or similar powers\n- Tracks by supernatural connection to bloodline\n- Walks/swims to reach target (very slow but unstoppable)\n\nCOMBAT CAPABILITIES:\n- Immune to bashing damage\n- Soaks lethal and aggravated with full Stamina (6)\n- 11 health levels (takes massive damage to destroy)\n- Bite does Strength +1 aggravated to supernaturals\n- Can clinch with bite (latches on and doesn't let go)\n- Immune to mental/emotional control\n\nIMMUNITIES:\n- Immune to bashing damage completely\n- Immune to Dominate, Presence, Dementation\n- Immune to emotional manipulation\n- Immune to mind control\n- Not affected by Thaumaturgy Wards\n\nVULNERABILITIES:\n- Can be destroyed by sufficient lethal/aggravated damage\n- Cannot attack anyone with Thaumaturgy 5 or Necromancy 5\n  (creator is dead, so no compulsion to seek them)\n- Slow movement (walks everywhere)\n- Can be evaded by air travel (can't track on planes)\n\nTHREAT LEVEL:\n- Extremely dangerous to physical combatants\n- Nearly unkillable by normal means\n- Will pursue target relentlessly\n- No fear, no hesitation, no mercy",
+  "equipment": "None - is a construct",
+  "character_image": "",
+  "status": "active",
+  
+  "attributes": {
+    "Physical": { "Strength": 4, "Dexterity": 3, "Stamina": 6 },
+    "Social": { "Charisma": 0, "Manipulation": 0, "Composure": 0 },
+    "Mental": { "Perception": 5, "Intelligence": 2, "Wits": 3 }
+  },
+  
+  "abilities": [
+    {"name": "Alertness", "level": 5, "category": "Talent", "specialization": "Target detection"},
+    {"name": "Athletics", "level": 5, "category": "Talent"},
+    {"name": "Awareness", "level": 3, "category": "Talent"},
+    {"name": "Brawl", "level": 5, "category": "Talent", "specialization": "Bite"}
+  ],
+  
+  "powers": [
+    {
+      "name": "Target Sense",
+      "level": 10,
+      "description": "Can sense the exact location of original target (Carrick) and immediate family anywhere on Earth",
+      "effects": [
+        "Works globally",
+        "Cannot be blocked by Obfuscate",
+        "Cannot be blocked by distance",
+        "Cannot be blocked by barriers",
+        "Only blocked by Obfuscate/similar powers"
+      ]
+    },
+    {
+      "name": "Immunity to Mental Control",
+      "level": 10,
+      "description": "Completely immune to all forms of mental and emotional manipulation",
+      "effects": [
+        "Immune to Dominate",
+        "Immune to Presence",
+        "Immune to Dementation",
+        "Immune to emotional manipulation",
+        "Immune to possession"
+      ]
+    },
+    {
+      "name": "Supernatural Durability",
+      "level": 6,
+      "description": "Extremely difficult to destroy",
+      "effects": [
+        "Immune to bashing damage",
+        "Soaks lethal with Stamina 6",
+        "Soaks aggravated with Stamina 6",
+        "11 health levels",
+        "No wound penalties"
+      ]
+    },
+    {
+      "name": "Devastating Bite",
+      "level": 5,
+      "description": "Bite attack that does aggravated damage to supernatural creatures",
+      "effects": [
+        "Strength (4) + 1 = 5 aggravated damage",
+        "Can clinch with bite",
+        "Latches on and doesn't let go",
+        "Requires multiple turns to break free"
+      ]
+    }
+  ],
+  
+  "power_pool": {
+    "pool_name": "None - animated by creator's rage",
+    "current": 0,
+    "maximum": 0,
+    "regeneration": "N/A - construct doesn't use power pool"
+  },
+  
+  "willpower_permanent": 10,
+  "willpower_current": 10,
+  
+  "backgrounds": {},
+  
+  "backgroundDetails": {},
+  
+  "special_abilities": [
+    {
+      "name": "Ward Bypass",
+      "description": "Unaffected by Thaumaturgy Wards or protective circles"
+    },
+    {
+      "name": "Magical Immunity",
+      "description": "Cannot attack anyone with Thaumaturgy 5 or Necromancy 5 (original maker is dead)"
+    },
+    {
+      "name": "Relentless Pursuit",
+      "description": "Never stops, never rests, never gives up until target is dead or tupilaq is destroyed"
+    }
+  ],
+  
+  "immunities": [
+    "Bashing damage (complete immunity)",
+    "Mental control (Dominate, Presence, Dementation)",
+    "Emotional manipulation",
+    "Mind control and possession",
+    "Thaumaturgy Wards",
+    "Fear effects",
+    "Pain",
+    "Fatigue",
+    "Starvation"
+  ],
+  
+  "vulnerabilities": [
+    "Lethal damage (can be soaked)",
+    "Aggravated damage (can be soaked)",
+    "Massive physical damage (only way to destroy)",
+    "High-level Thaumaturgy/Necromancy users (cannot attack them)",
+    "Slow movement speed (can be evaded temporarily)",
+    "Air travel (cannot track on planes)"
+  ],
+  
+  "health_levels": [
+    {"level": "OK", "status": "OK", "penalty": 0},
+    {"level": "OK", "status": "OK", "penalty": 0},
+    {"level": "-1", "status": "OK", "penalty": 0},
+    {"level": "-1", "status": "OK", "penalty": 0},
+    {"level": "-1", "status": "OK", "penalty": 0},
+    {"level": "-1", "status": "OK", "penalty": 0},
+    {"level": "-1", "status": "OK", "penalty": 0},
+    {"level": "-1", "status": "OK", "penalty": 0},
+    {"level": "-1", "status": "OK", "penalty": 0},
+    {"level": "-1", "status": "OK", "penalty": 0},
+    {"level": "-1", "status": "OK", "penalty": 0},
+    {"level": "Destroyed", "status": "OK", "penalty": 0}
+  ],
+  
+  "merits_flaws": [],
+  
+  "relationships": [
+    {
+      "related_character_name": "Captain Ronald D. Carrick (Deceased)",
+      "relationship_type": "original target",
+      "relationship_subtype": "deceased",
+      "strength": "mission complete",
+      "description": "Original target who died of cancer before tupilaq could reach him"
+    },
+    {
+      "related_character_name": "Carrick Family Members",
+      "relationship_type": "current targets",
+      "relationship_subtype": "prey",
+      "strength": "obsessive",
+      "description": "Immediate family of Carrick - tupilaq now hunts them to satisfy its purpose"
+    },
+    {
+      "related_character_name": "Greenlandic Angakkuq (Deceased)",
+      "relationship_type": "creator",
+      "relationship_subtype": "deceased",
+      "strength": "past",
+      "description": "Inuit shaman who created tupilaq in 1968. Died of radiation poisoning."
+    }
+  ],
+  
+  "custom_data": {
+    "creature_type": "Construct",
+    "construct_subtype": "Tupilaq (Inuit avenging construct)",
+    "created": "1968",
+    "creator": "Greenlandic angakkuq (shaman) - deceased",
+    "creation_ritual": "Dark taboo-breaking Inuit magic",
+    "purpose": "Revenge for radiation deaths at Thule Air Base cleanup",
+    "original_target": "USAF Captain Ronald D. Carrick (deceased)",
+    "current_targets": "Carrick's immediate family members",
+    "time_active": "26 years (1968-1994)",
+    "distance_traveled": "Greenland → US → Vietnam → US (multiple times) → Current location",
+    "travel_method": "Walks and swims - very slow but unstoppable",
+    "combat_stats": {
+      "strength": 4,
+      "dexterity": 3,
+      "stamina": 6,
+      "brawl": 5,
+      "bite_damage": "Strength 4 + 1 = 5 aggravated (to supernaturals)",
+      "soak": "Stamina 6 vs all damage types",
+      "health_levels": 11,
+      "no_wound_penalties": true
+    },
+    "tracking_mechanics": "Supernatural sense of target location. Works globally. Cannot be blocked except by Obfuscate-type powers hiding the target. If target uses air travel, tupilaq loses track temporarily but resumes once target lands.",
+    "special_notes": "The tupilaq is a slow-burn threat. It walks everywhere, taking months or years to reach targets. But it never stops. Characters might encounter it by: being related to Carrick, helping someone related to Carrick, or investigating mysterious deaths. It's nearly impossible to kill by normal means. High-level Thaumaturgy/Necromancy users can't be attacked by it, making them potential saviors. The tupilaq itself is non-sentient - pure vengeance given form."
+  },
+  
+  "actingNotes": "The tupilaq doesn't speak or think. It exists only to kill. Describe its movements as jerky and puppet-like, bones clicking and clacking. It makes no sound except grinding bones and the scrape of walrus ivory teeth. When it attacks, it's relentless and mechanical. No pauses, no hesitation. If damaged, it continues attacking without reaction. Only total destruction stops it. Its presence should be unsettling - this thing WILL NOT STOP.",
+  
+  "agentNotes": "The tupilaq is a unique threat. Use it to create dread and tension. It's slow - characters have time to react, investigate, prepare. But it's unstoppable. They might try: fighting it (very hard), trapping it (temporary), finding a Thaumaturgy 5 user to protect the target (only real solution), or removing the target from Earth somehow (space? Umbra?). The tupilaq is NOT a one-scene combat encounter - it's an ongoing threat that keeps returning. Best used if a character IS related to Carrick, or cares about someone who is. Creates moral dilemma: do they help the target, knowing the tupilaq will eventually reach them? Time limit adds urgency.",
+  
+  "health_status": "Construct - not alive in traditional sense",
+  
+  "experience_total": 0,
+  "spent_xp": 0,
+  "experience_unspent": 0,
+  
+  "created_at": null,
+  "updated_at": null
+}

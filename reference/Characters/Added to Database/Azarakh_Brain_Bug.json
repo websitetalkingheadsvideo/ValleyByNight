@@ -1,0 +1,219 @@
+{
+  "_template_version": "1.0.0",
+  "_database_table": "supernatural_entities",
+  "template_usage": "Azarakh Brain Bug - Spirit Parasite. Import with: php tools/repeatable/php/database-tools/import_supernatural_entities.php path/to/this_file.json",
+  
+  "id": 0,
+  "user_id": 0,
+  "character_name": "Azarakh Brain Bug",
+  "player_name": "ST/NPC",
+  "chronicle": "Valley by Night",
+  "nature": "Deviant",
+  "demeanor": "Monster",
+  "concept": "Spirit Parasite / Mind Controller",
+  "entity_type": "Spirit",
+  "entity_subtype": "Azarakh (parasitic spirit, aka 'Brain Bug')",
+  "pc": 0,
+  "appearance": "Spider-like creature the size of a housecat, perched on victim's head with fangs sunk into skull. Concealed by supernatural invisibility (equivalent to Obfuscate 3). Only visible to those who can see through such powers. Has multiple legs, a bulbous body covered in chitinous plates, and a lamprey-like mouth full of needle teeth.",
+  "biography": "Few Kindred know that azarakhs exist and none of them know what these beings are. Some have theories, but none of those theories fully explain everything about the so-called 'Brain Bugs'. Even the name, azarakh, comes only from some fragment of lore handed down by occultists through the millennia.\n\nWhat is known is that azarakhs are arachnid creatures that exist in the spirit world, until they attach themselves to a mortal host. Once this happens, they enter the physical realm, though they are invisible to anyone without supernatural senses. Azarakhs seem to feed off negative, psychic energy and as such, they drive their 'hosts' to perform all manner of brutal, sadistic, and taboo acts.\n\nAzarakhs can only possess mortal beings, though this includes ghouls. It is unknown whether or not they can possess lupines – kindred who know about the brain bugs fervently hope not. In order to possess a mortal, an azarakh latches onto the person's spiritual reflection and attempts to override their will.\n\nOnce per day, an azarakh can try to force its host to perform some kind of vile, unnatural, stressful, or taboo-breaking act. The host can resist by spending Willpower, but this Willpower cannot be regained until the azarakh is detached. Once the victim's Willpower is depleted, the brain bug is in full control of its victim.\n\nThere is strong evidence that azarakhs can not only sense each other's presence, but also communicate telepathically. When several brain bug victims congregate, they act with remarkable coordination, but without communication.\n\nNo Kindred has ever successfully communicated directly with an azarakh – some have knowingly spoken to a host, but they seem to try and tell anyone interviewing or interrogating them what the asking party wants to hear. The ultimate goal of the brain bugs is completely unknown and some Kindred have become quite paranoid thinking about whom among the world's leading mortals might be infected.",
+  "notes": "AZARAKH BRAIN BUG - PARASITIC SPIRIT\n\nWHAT THEY ARE:\n- Spirit creatures that exist in spirit world\n- Attach to mortals and enter physical realm\n- Spider-like, housecat-sized\n- Invisible (Obfuscate 3 equivalent)\n- Feed on negative psychic energy\n\nPOSSESSION PROCESS:\n1. Azarakh in spirit world senses vulnerable mortal\n2. Latches onto person's spiritual reflection\n3. Rolls 10 dice vs target's Willpower to possess\n4. If successful, materializes on target's head\n5. Fangs sink into skull\n6. Becomes invisible to normal sight\n\nCONTROL MECHANISM:\n- Once per day, tries to force host to perform vile act\n- Host can spend 1 Willpower to resist\n- That Willpower cannot be recovered while bug attached\n- When host's Willpower depleted, bug has full control\n- Bug forces host into increasingly dark acts\n\nDETECTION:\n- Invisible (equivalent to Obfuscate 3)\n- Can be seen by Auspex 3+ or similar powers\n- Resisted roll: azarakh has 6 dice\n- High-occult characters might sense something wrong\n- Victims act strangely but don't know why\n\nREMOVAL:\n- Takes full combat turn to detach\n- Becomes spirit creature again when detached\n- Can be killed in physical form (3 health levels)\n- Returns to spirit world if killed\n- Exorcism can force detachment\n\nTELEPATHIC NETWORK:\n- Multiple azarakhs can sense each other\n- Communicate telepathically\n- Multiple hosts coordinate without speaking\n- Suggests hive mind or shared intelligence\n- Ultimate goals completely unknown\n\nTARGETS:\n- Can only possess mortals (including ghouls)\n- Unknown if can possess werewolves\n- Cannot possess vampires or other undead\n- Cannot possess spirits or demons\n\nTHREAT ASSESSMENT:\n- Individual bugs: moderate threat\n- Multiple bugs: severe threat (coordinated)\n- Long-term: existential threat (goals unknown)\n- Political: could infect world leaders\n- Personal: could infect allies, ghouls, contacts",
+  "equipment": "None - spirit creature",
+  "character_image": "",
+  "status": "active",
+  
+  "attributes": {
+    "Physical": { "Strength": 1, "Dexterity": 3, "Stamina": 2 },
+    "Social": { "Charisma": 0, "Manipulation": 10, "Composure": 0 },
+    "Mental": { "Perception": 5, "Intelligence": 4, "Wits": 6 }
+  },
+  
+  "abilities": [
+    {"name": "Alertness", "level": 5, "category": "Talent"},
+    {"name": "Awareness", "level": 6, "category": "Talent", "specialization": "Host weakness"},
+    {"name": "Empathy", "level": 3, "category": "Talent", "specialization": "Dark desires"},
+    {"name": "Intimidation", "level": 5, "category": "Talent"},
+    {"name": "Occult", "level": 3, "category": "Knowledge", "specialization": "Possession"},
+    {"name": "Subterfuge", "level": 10, "category": "Talent", "specialization": "Deception through host"}
+  ],
+  
+  "powers": [
+    {
+      "name": "Spirit Possession",
+      "level": 10,
+      "description": "Can possess mortal hosts by attaching to their spiritual reflection",
+      "effects": [
+        "Rolls 10 dice vs target's Willpower",
+        "Target resists with Willpower (difficulty 6+ based on mood)",
+        "If successful, materializes on target's head",
+        "Fangs sink into skull",
+        "Becomes invisible to normal sight"
+      ]
+    },
+    {
+      "name": "Supernatural Invisibility",
+      "level": 3,
+      "description": "Invisible while attached to host - equivalent to Obfuscate 3",
+      "effects": [
+        "Cannot be seen by normal vision",
+        "Can be seen through Auspex 3+",
+        "Resisted roll: azarakh has 6 dice",
+        "Host appears normal to observers"
+      ]
+    },
+    {
+      "name": "Mind Control",
+      "level": 10,
+      "description": "Can force host to perform vile acts once per day",
+      "effects": [
+        "Once per day, force one action",
+        "Host can spend 1 Willpower to resist",
+        "That Willpower cannot be regained while possessed",
+        "When host's Willpower = 0, full control achieved",
+        "Forces progressively darker acts"
+      ]
+    },
+    {
+      "name": "Telepathic Network",
+      "level": 5,
+      "description": "Can sense and communicate with other azarakhs",
+      "effects": [
+        "Sense presence of other azarakhs",
+        "Telepathic communication with other bugs",
+        "Coordinated action between multiple hosts",
+        "No verbal communication needed",
+        "Suggests hive mind"
+      ]
+    }
+  ],
+  
+  "power_pool": {
+    "pool_name": "Feeds on negative psychic energy",
+    "current": 0,
+    "maximum": 0,
+    "regeneration": "Gains energy from host's dark acts and emotional suffering"
+  },
+  
+  "willpower_permanent": 10,
+  "willpower_current": 10,
+  
+  "backgrounds": {},
+  
+  "backgroundDetails": {},
+  
+  "special_abilities": [
+    {
+      "name": "Detachment",
+      "description": "Takes full combat turn to detach from host. Returns to spirit form. Can be killed in physical form but returns to spirit world if destroyed."
+    },
+    {
+      "name": "Hive Mind",
+      "description": "Multiple azarakhs act as coordinated network. Share information telepathically. Unknown if there's a central intelligence."
+    },
+    {
+      "name": "Deception Protocol",
+      "description": "When questioned through host, tells interrogator what they want to hear. Makes determining true goals nearly impossible."
+    }
+  ],
+  
+  "immunities": [
+    "Physical attacks while in spirit form",
+    "Most mental attacks (alien mind)",
+    "Sunlight",
+    "Holy symbols",
+    "Most supernatural detection while invisible"
+  ],
+  
+  "vulnerabilities": [
+    "Can be seen through Auspex 3+ or equivalent",
+    "Exorcism forces detachment",
+    "Only 3 health levels in physical form",
+    "+2 difficulty to hit (small, mobile)",
+    "Attacking host threatens the bug",
+    "Cannot possess undead or supernatural beings (only mortals)"
+  ],
+  
+  "health_levels": [
+    {"level": "OK", "status": "OK", "penalty": 0},
+    {"level": "Injured", "status": "OK", "penalty": -1},
+    {"level": "Destroyed", "status": "OK", "penalty": 0}
+  ],
+  
+  "merits_flaws": [],
+  
+  "relationships": [
+    {
+      "related_character_name": "Other Azarakhs",
+      "relationship_type": "network",
+      "relationship_subtype": "hive mind",
+      "strength": "telepathic",
+      "description": "All azarakhs are connected through telepathic network. Can sense each other and coordinate actions. Suggests shared intelligence or hive consciousness."
+    },
+    {
+      "related_character_name": "Possessed Hosts",
+      "relationship_type": "symbiote",
+      "relationship_subtype": "parasite",
+      "strength": "controlling",
+      "description": "Mortals possessed by azarakhs. Bugs feed on their negative energy while forcing them into darker acts. Eventually achieve full control."
+    }
+  ],
+  
+  "custom_data": {
+    "creature_type": "Spirit (Parasitic)",
+    "spirit_type": "Azarakh (Brain Bug)",
+    "origin": "Unknown - ancient occult texts only",
+    "name_etymology": "Azarakh from fragmentary occult lore",
+    "common_name": "Brain Bug",
+    "size": "Housecat-sized spider-like creature",
+    "possession_mechanics": {
+      "initial_roll": "10 dice vs target's Willpower",
+      "target_defense": "Willpower roll, difficulty 6 (higher if negative mood)",
+      "success": "Bug materializes on head, becomes invisible",
+      "daily_control": "Once per day, force one vile act",
+      "resistance": "Spend 1 Willpower (cannot be regained while possessed)",
+      "full_control": "Achieved when host's Willpower depleted"
+    },
+    "detection_mechanics": {
+      "invisibility": "Equivalent to Obfuscate 3",
+      "see_through": "Auspex 3+ or equivalent",
+      "contested_roll": "Azarakh has 6 dice to maintain invisibility",
+      "other_signs": "Host acts strangely, behavioral changes, unexplained compulsions"
+    },
+    "combat_stats": {
+      "strength": 1,
+      "dexterity": 3,
+      "stamina": 2,
+      "health_levels": 3,
+      "soak": "2 dice vs bashing/lethal, 0 vs aggravated",
+      "to_hit_difficulty": "+2 (small, mobile, on host's head)",
+      "detachment_time": "1 full turn"
+    },
+    "telepathic_network": {
+      "range": "Unknown (possibly global)",
+      "communication": "Instant, telepathic",
+      "coordination": "Multiple hosts act in sync",
+      "shared_knowledge": "Unknown extent",
+      "central_intelligence": "Possible but unconfirmed"
+    },
+    "goals_and_purpose": {
+      "known": "Feed on negative psychic energy",
+      "suspected": "Spread darkness and corruption",
+      "feared": "Infiltrate positions of power",
+      "unknown": "Ultimate goals completely unknown",
+      "paranoia": "How many world leaders are possessed?"
+    },
+    "special_notes": "Azarakhs are body horror and slow corruption. They're not an immediate combat threat - they're a long-term, insidious danger. Characters might notice: an ally acting strangely, a ghoul developing dark compulsions, a political figure making bizarre decisions. Investigation reveals the truth only to those with supernatural senses. Even then, removal is difficult. The telepathic network means killing one alerts others. The unknown goals create paranoia. How many are there? What do they want? Are they coordinating something massive?"
+  },
+  
+  "actingNotes": "Azarakhs themselves don't speak or act directly - they work through hosts. Describe the host's behavior: uncharacteristic cruelty, taboo interests, compulsive actions. The host might not remember what they did while controlled. When someone with Auspex sees the bug, describe it as unsettling and alien - clicking legs, pulsing body, lamprey mouth. If directly confronted (rare), the azarakh through the host will lie smoothly, saying whatever the interrogator wants to hear. The bug's intelligence is alien and manipulative.",
+  
+  "agentNotes": "Azarakhs work best as slow-burn horror and paranoia fuel. Start subtle: an ally or ghoul acts strangely, develops dark interests. Then escalate: they do something shocking while claiming they don't remember. Investigation (Auspex, Occult) reveals the truth. Now what? Kill the host? Try to remove the bug? Exorcism? Who else is infected? The telepathic network means they're never alone. Use azarakhs to: corrupt important NPCs, create moral dilemmas (kill possessed ghoul?), spread paranoia (who can you trust?), set up larger conspiracies (what are they planning?). High-Auspex characters become crucial for detection.",
+  
+  "health_status": "Spirit entity in physical form when possessing",
+  
+  "experience_total": 0,
+  "spent_xp": 0,
+  "experience_unspent": 0,
+  
+  "created_at": null,
+  "updated_at": null
+}

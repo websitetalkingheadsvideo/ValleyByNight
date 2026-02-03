@@ -1,0 +1,276 @@
+{
+  "_template_version": "1.0.0",
+  "_database_table": "werewolf_characters",
+  "template_usage": "Raging Howl - Lupine/Garou. Import with: php tools/repeatable/php/database-tools/import_werewolf_characters.php path/to/this_file.json",
+  
+  "id": 0,
+  "user_id": 0,
+  "character_name": "Raging Howl",
+  "player_name": "ST/NPC",
+  "chronicle": "Valley by Night",
+  "nature": "Survivor",
+  "demeanor": "Bravo",
+  "concept": "Urban Lupine / Vampire Hunter",
+  "breed": "Lupus",
+  "auspice": "Ahroun",
+  "tribe": "Ronin (formerly tribal)",
+  "pack_name": "None (former pack destroyed)",
+  "pack_totem": "None",
+  "sept": "None",
+  "pc": 0,
+  "appearance": "In human form, appears as homeless man living in city's largest park. Unkempt, weathered, but with predatory eyes. In wolf form, a large powerful wolf. In Crinos (war form), a terrifying 8-foot tall wolf-man.",
+  "biography": "Originally, Raging Howl was a member of a small pack, but impulsive indiscretion on his part got most of his pack mates killed in a battle against a powerful spirit being. Shunned by his family, Raging Howl entered the city, ostensibly to atone for his sin by removing himself to an unfriendly environment and there, hunting and killing vampires. However, he is also driven by a subconscious death wish.\n\nIn his human form, Raging Howl lives as a homeless man in the city's largest park. By day, he scrounges up what he can or spends money taken from his victims. At night, he prowls the streets for those victims - vampires who unintentionally reveal themselves. Raging Howl has become quite adept at recognizing vampires, not just from their pallor, but also from their habits, feeding patterns, where they congregate, etc.\n\nRaging Howl has little subtlety – he does not parley or try tricks, he simply attacks vampires and tries to kill them, retreating if he is met with overwhelming force.",
+  "notes": "RAGING HOWL - THE LUPINE\n\nRaging Howl is a WEREWOLF (Garou) who hunts vampires in the city. This is extremely unusual - most Garou avoid cities and hate them.\n\nBACKSTORY:\n- Caused death of most of his pack through impulsive action\n- Shunned by family and sept\n- Entered city to atone through vampire hunting\n- Also has subconscious death wish\n- Lives as homeless man in major park\n\nHUNTING METHODS:\n- Recognizes vampires by pallor, behavior, habits\n- Tracks feeding patterns\n- Watches where they congregate\n- Attacks directly with little subtlety\n- Retreats if facing overwhelming force\n- No negotiation or diplomacy\n\nCOMBAT CAPABILITIES:\n- Extremely dangerous in Crinos (war) form\n- Celerity 4 equivalent (supernatural speed)\n- Fortitude 4 equivalent (supernatural durability)\n- Potence 2 equivalent (supernatural strength)\n- Protean 4 equivalent (shapeshifting)\n- Auspex 1 equivalent (heightened senses)\n- Obfuscate 1 equivalent (can blend into crowds)\n\nVULNERABILITIES:\n- Death wish makes him reckless\n- Lone wolf - no pack support\n- Shunned by other Garou\n- Hates cities (spiritually draining)\n- Silver weapons (severe weakness)\n- Will flee if facing multiple powerful opponents\n\nTHREAT ASSESSMENT:\n- Extremely dangerous to individual vampires\n- Can kill most neonates and ancillae\n- Even elders must respect the threat\n- Most dangerous in Crinos form\n- Nearly unstoppable in direct combat",
+  "equipment": "None - relies on natural weapons and stolen money from victims",
+  "character_image": "",
+  "status": "active",
+  
+  "attributes": {
+    "Physical": { "Strength": 4, "Dexterity": 4, "Stamina": 4 },
+    "Social": { "Charisma": 3, "Manipulation": 1, "Composure": 3 },
+    "Mental": { "Perception": 4, "Intelligence": 2, "Wits": 3 }
+  },
+  
+  "abilities": [
+    {"name": "Alertness", "level": 4, "category": "Talent"},
+    {"name": "Animal Ken", "level": 2, "category": "Skill"},
+    {"name": "Athletics", "level": 4, "category": "Talent"},
+    {"name": "Awareness", "level": 2, "category": "Talent", "specialization": "Vampire detection"},
+    {"name": "Brawl", "level": 4, "category": "Talent", "specialization": "Claws"},
+    {"name": "Crafts", "level": 1, "category": "Skill"},
+    {"name": "Expression", "level": 1, "category": "Talent"},
+    {"name": "Intimidation", "level": 3, "category": "Talent"},
+    {"name": "Investigation", "level": 1, "category": "Knowledge"},
+    {"name": "Medicine", "level": 1, "category": "Knowledge"},
+    {"name": "Occult", "level": 2, "category": "Knowledge", "specialization": "Vampires"},
+    {"name": "Stealth", "level": 3, "category": "Talent"},
+    {"name": "Streetwise", "level": 1, "category": "Talent"},
+    {"name": "Survival", "level": 2, "category": "Skill"}
+  ],
+  
+  "specializations": {
+    "Awareness": "Detecting vampires by behavior and appearance",
+    "Brawl": "Natural weapons - claws and fangs",
+    "Occult": "Vampire weaknesses and tactics"
+  },
+  
+  "gifts": [
+    {
+      "name": "Heightened Senses",
+      "level": 1,
+      "type": "breed",
+      "description": "Exceptional sensory perception. Can track by scent, hear heartbeats, see in darkness. Equivalent to Auspex 1."
+    },
+    {
+      "name": "Razor Claws",
+      "level": 1,
+      "type": "auspice",
+      "description": "Claws do aggravated damage to all targets including vampires."
+    },
+    {
+      "name": "Spirit of the Fray",
+      "level": 2,
+      "type": "auspice",
+      "description": "Always acts first in combat. Supernatural initiative."
+    },
+    {
+      "name": "True Fear",
+      "level": 2,
+      "type": "auspice",
+      "description": "Inspire primal terror in enemies. Equivalent to Presence (Dread Gaze)."
+    },
+    {
+      "name": "Silver Claws",
+      "level": 3,
+      "type": "auspice",
+      "description": "Claws become silver-like, doing aggravated damage even to creatures resistant to normal claws."
+    },
+    {
+      "name": "Blur of the Milky Eye",
+      "level": 3,
+      "type": "general",
+      "description": "Move with supernatural speed. Equivalent to Celerity 4."
+    },
+    {
+      "name": "Adaptation",
+      "level": 3,
+      "type": "general",
+      "description": "Can survive in hostile environments including cities. Reduces spiritual drain."
+    },
+    {
+      "name": "Beast Life",
+      "level": 2,
+      "type": "breed",
+      "description": "Communicate with and command animals."
+    }
+  ],
+  
+  "rites": [],
+  
+  "backgrounds": {
+    "Rage": 8,
+    "Willpower": 8,
+    "Gnosis": 6
+  },
+  
+  "backgroundDetails": {
+    "Rage": "Extremely high rage from guilt over pack's death and self-hatred. Makes him aggressive and dangerous.",
+    "Willpower": "Strong-willed and determined to atone through vampire hunting.",
+    "Gnosis": "Moderate spiritual connection despite being in the city."
+  },
+  
+  "renown": {
+    "glory": 3,
+    "honor": 1,
+    "wisdom": 0
+  },
+  
+  "rage_permanent": 8,
+  "rage_current": 8,
+  "gnosis_permanent": 6,
+  "gnosis_current": 6,
+  "willpower_permanent": 8,
+  "willpower_current": 8,
+  
+  "health_levels": [
+    {"level": "Healthy", "status": "OK", "penalty": 0},
+    {"level": "Healthy", "status": "OK", "penalty": 0},
+    {"level": "Bruised", "status": "OK", "penalty": 0},
+    {"level": "Hurt", "status": "OK", "penalty": -1},
+    {"level": "Injured", "status": "OK", "penalty": -1},
+    {"level": "Wounded", "status": "OK", "penalty": -2},
+    {"level": "Mauled", "status": "OK", "penalty": -2},
+    {"level": "Crippled", "status": "OK", "penalty": -5},
+    {"level": "Incapacitated", "status": "OK", "penalty": 0}
+  ],
+  
+  "forms": {
+    "homid": {
+      "description": "Human form - homeless man appearance",
+      "attribute_modifiers": {},
+      "notes": "Uses this form during the day to blend in and rest. Lives in city park."
+    },
+    "glabro": {
+      "description": "Near-human form - 7 feet tall, very muscular",
+      "attribute_modifiers": { "Strength": 2, "Stamina": 2, "Appearance": -1, "Manipulation": -1 },
+      "notes": "Rarely uses this form. Too obvious in the city."
+    },
+    "crinos": {
+      "description": "War form - 8-foot tall wolf-man, terrifying",
+      "attribute_modifiers": { "Strength": 4, "Dexterity": 1, "Stamina": 3, "Appearance": 0, "Manipulation": -3 },
+      "notes": "Primary combat form. Strength 8, Dexterity 5, Stamina 7. This is when he's most dangerous. Claws and fangs do aggravated damage. Inspires Delirium (terror) in mortals."
+    },
+    "hispo": {
+      "description": "Near-wolf form - dire wolf size",
+      "attribute_modifiers": { "Strength": 3, "Dexterity": 2, "Stamina": 3, "Manipulation": -3 },
+      "notes": "Used for running and pursuit. Strength 7, Dexterity 6, Stamina 7. Fast and deadly."
+    },
+    "lupus": {
+      "description": "Wolf form - large wolf",
+      "attribute_modifiers": { "Strength": 1, "Dexterity": 2, "Stamina": 2, "Manipulation": -3 },
+      "notes": "Uses this form for stealth and tracking. Strength 5, Dexterity 6, Stamina 6. Can blend in as 'large dog' in urban environment."
+    }
+  },
+  
+  "merits_flaws": [
+    {
+      "name": "Natural Weapons",
+      "type": "merit",
+      "point_value": 4,
+      "description": "Claws and fangs do aggravated damage to vampires and most supernatural creatures."
+    },
+    {
+      "name": "Regeneration",
+      "type": "merit",
+      "point_value": 5,
+      "description": "Heals 1 health level per turn of non-aggravated damage. Aggravated damage heals at 1 per day."
+    },
+    {
+      "name": "Delirium",
+      "type": "merit",
+      "point_value": 0,
+      "description": "In Crinos form, inspires primal terror in humans. Most cannot perceive him accurately or remember him clearly."
+    },
+    {
+      "name": "Death Wish",
+      "type": "flaw",
+      "point_value": -3,
+      "description": "Subconsciously wants to die as atonement. Takes unnecessary risks and doesn't retreat when he should."
+    },
+    {
+      "name": "Shunned",
+      "type": "flaw",
+      "point_value": -2,
+      "description": "Cast out by family and sept. No pack support. Other Garou avoid or attack him."
+    },
+    {
+      "name": "Silver Weakness",
+      "type": "flaw",
+      "point_value": -7,
+      "description": "Silver does aggravated damage that cannot be soaked and heals at mortal rate. Extreme vulnerability."
+    }
+  ],
+  
+  "relationships": [
+    {
+      "related_character_name": "Former Pack (Deceased)",
+      "relationship_type": "pack",
+      "relationship_subtype": "dead",
+      "strength": "haunting",
+      "description": "Raging Howl's pack mates who died due to his impulsive action. Their deaths haunt him and drive his death wish."
+    },
+    {
+      "related_character_name": "Vampires (General)",
+      "relationship_type": "enemy",
+      "relationship_subtype": "prey",
+      "strength": "obsessive",
+      "description": "Raging Howl hunts vampires as atonement. He sees them all as enemies and threats to the natural world."
+    }
+  ],
+  
+  "fetishes": [],
+  
+  "custom_data": {
+    "creature_type": "Werewolf (Garou)",
+    "vampire_equivalent_disciplines": {
+      "Auspex": 1,
+      "Celerity": 4,
+      "Fortitude": 4,
+      "Obfuscate": 1,
+      "Potence": 2,
+      "Protean": 4
+    },
+    "combat_stats_crinos": {
+      "strength": 8,
+      "dexterity": 5,
+      "stamina": 7,
+      "soak": "7 (Stamina) + 4 (Fortitude equivalent) = 11 dice",
+      "attack": "Strength 8 + Brawl 4 = 12 dice",
+      "damage": "Strength + 2 (claws) = 10 aggravated",
+      "initiative": "Dexterity 5 + Wits 3 = 8, but Spirit of the Fray means always first",
+      "actions": "Can spend Rage for extra actions (up to 8 extra actions per turn if desperate)"
+    },
+    "rage_mechanics": "Can spend Rage to: take extra actions in combat, shift forms instantly, ignore wound penalties, or add to physical dice pools. Current Rage: 8. Regenerates 1 per scene.",
+    "gnosis_mechanics": "Can spend Gnosis to: activate gifts, step sideways into spirit world, or regenerate aggravated damage. Current Gnosis: 6. Regenerates 1 per day.",
+    "weaknesses": {
+      "silver": "Takes aggravated damage from silver, cannot soak it, heals at mortal rate",
+      "city": "Spiritually draining environment, reduces gnosis regeneration",
+      "death_wish": "Takes unnecessary risks, doesn't retreat when should",
+      "lone_wolf": "No pack support or backup"
+    },
+    "special_notes": "Raging Howl is an EXTREME threat to vampires. He can kill most neonates and ancillae outright. Even elders must be cautious. His combination of speed (Celerity 4 equivalent), durability (Fortitude 4 equivalent), regeneration, and aggravated damage claws makes him nearly unstoppable in direct combat. Silver weapons are the primary way to defeat him. He can spend Rage for up to 8 extra actions in a turn if desperate, meaning he could attack 9 times in one turn. His death wish makes him especially dangerous because he doesn't care about his own survival."
+  },
+  
+  "actingNotes": "Play Raging Howl as direct and aggressive. No negotiation, no clever tactics - just raw hunting instinct and brutal combat. In human form, he appears as a haunted homeless man who keeps to himself. When he's identified a vampire target, he shifts to Crinos and attacks immediately. He speaks little, mostly growls and snarls. The death wish manifests as recklessness - he doesn't dodge or retreat even when he should. His voice (when he speaks) is rough, guttural, with underlying grief and self-hatred.",
+  
+  "agentNotes": "Raging Howl is a major threat that should be used sparingly. He can kill player characters outright if they're not prepared. Signs of his presence: dead vampires found torn apart, rumors of a 'wolf-man' in the city, homeless people talking about the strange man in the park. Characters might investigate these deaths or be targeted themselves. High-Occult characters might know about werewolves and their weaknesses (silver). The death wish means he won't flee from overwhelming odds - he'll fight to the death. Can be used to punish careless feeding or as a wake-up call about supernatural threats beyond vampire politics.",
+  
+  "health_status": "Various scars from past battles, but currently healthy due to regeneration",
+  
+  "experience_total": 0,
+  "spent_xp": 0,
+  "experience_unspent": 0,
+  
+  "created_at": null,
+  "updated_at": null
+}

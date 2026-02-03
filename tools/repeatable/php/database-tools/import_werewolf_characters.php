@@ -25,7 +25,7 @@ if (!$is_cli) {
     echo "<!DOCTYPE html><html><head><title>Werewolf Character Import</title><style>body{font-family:monospace;padding:20px;} .success{color:green;} .error{color:red;} .warning{color:orange;}</style></head><body>";
 }
 
-require_once __DIR__ . '/../../../includes/connect.php';
+require_once __DIR__ . '/../../../../includes/connect.php';
 
 if (!$conn) {
     die("Database connection failed: " . mysqli_connect_error());
@@ -63,14 +63,14 @@ function cleanInt($value, int $default = 0): int {
 
 function cleanJsonData($value) {
     if (empty($value)) {
-        return null;
+        return '[]';
     }
     if (is_array($value) || is_object($value)) {
         return json_encode($value);
     }
     $trimmed = trim((string)$value);
     if ($trimmed === '') {
-        return null;
+        return '[]';
     }
     $decoded = json_decode($trimmed, true);
     if (json_last_error() === JSON_ERROR_NONE) {
@@ -206,7 +206,7 @@ function importWerewolfCharacter(mysqli $conn, array $data, string $filename): b
             if ($cleanData['character_image'] !== '') {
                 $fields_with_image[] = 'character_image';
             }
-            $field_list = implode(', ', $fields_with_image);
+            $field_list = implode(', ', array_map(fn($f) => "`$f`", $fields_with_image));
             $placeholders = implode(', ', array_fill(0, count($fields_with_image), '?'));
             $insert_sql = "INSERT INTO werewolf_characters ($field_list) VALUES ($placeholders)";
 

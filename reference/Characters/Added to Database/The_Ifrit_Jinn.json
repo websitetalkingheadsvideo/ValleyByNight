@@ -1,0 +1,267 @@
+{
+  "_template_version": "1.0.0",
+  "_database_table": "supernatural_entities",
+  "template_usage": "The Ifrit - Jinn Death Spirit. Import with: php tools/repeatable/php/database-tools/import_supernatural_entities.php path/to/this_file.json",
+  
+  "id": 0,
+  "user_id": 0,
+  "character_name": "The Ifrit",
+  "player_name": "ST/NPC",
+  "chronicle": "Valley by Night",
+  "nature": "Monster",
+  "demeanor": "Judge",
+  "concept": "Infernal Jinn / Death Spirit Avenger",
+  "entity_type": "Jinn",
+  "entity_subtype": "Ifrit (infernal death spirit)",
+  "pc": 0,
+  "appearance": "Young man with crew-cut hair and slightly caricatured, overly-military bearing and manner. Has numerous bullet-wounds in back and torso which slowly trickle blood. When readying to kill or defend, takes on terrifying aspect: smokeless flame leaps from mouth, black horns curl from forehead, and claws form at the end of fingers.",
+  "biography": "According to the Qur'an, the Ifrit are infernal Jinn and the most powerful Jinn to walk the earth. They are death spirits, who dwell in Jahannam, the underworld where the wicked and evil are punished. However, they are easily drawn to Earth, as they feed on the life force and blood of murder victims. Once having done so, they take on the physical appearance of the murder victim at the point of their death and are compelled to hunt down the murderer. Once they have killed the murderer, the Ifrit can chose to remain on earth or return to Jahannam. If they remain on Earth, they are compelled to inhabit desolate places, like uninhabited caves or ruins.\n\nThis particular Ifrit was drawn to Earth in Iraq. A platoon of soldiers, searching a town for insurgent fighters, was ambushed. Half the platoon's members died in the ambush, but they eventually prevailed. The unit commander, a very green second lieutenant, survived, but lost his mind and demanded that the townsfolk were rounded up and executed for the crime of not warning the soldiers of the ambush. When his men refused, the lieutenant first threatened them with a court-martial, before drawing his sidearm and threatening to shoot his own troops. In response, two of the men fired their rifles, wounding the officer. After a brief consultation, all the remaining men gathered up the AK rifles of the enemy and shot the lieutenant at the same time, so that they were all complicit. They then reported their commander killed by enemy fire.\n\nAs with any Jinn, an Ifrit can be either a believer or an unbeliever, good or evil. The Ifrit that rose to sup upon the blood and fading life-force of the dying second lieutenant is most definitely both an unbeliever and a wicked, ruthless, and evil being. It stalked the lieutenant's murderers, killing the first two (the initial shooters) while they were still in Iraq. When the rest of the soldiers transferred out, the Ifrit followed them. The creature stalks its victim slowly, terrorizing its target before killing them. It has killed all but one of the soldiers and the man in question knows quite well that all his old squadmates are dead. He is unaware what is hunting him, but he knows, without a shadow of a doubt, that his platoon was cursed back there in that town whose name he's forgotten.\n\nThe Ifrit uses Essence to power its Disciplines and can use it to heal wounds in the same way as vampires use Vitae. It regains all Essence and heals all damage (even Aggravated) at nightfall. The Ifrit can soak all damage with its full Stamina + Fortitude and is immune to fire, mind control and emotional influences, though not the madness of Dementation.\n\nA faithful Muslim can cause an Ifrit to discorporate and return to Jahannam by invoking Allah in a short Du'a (prayer of supplication). Likewise, a Christian can force an Ifrit to flee by crossing himself and a Jew can make an Ifrit flee by invoking King Solomon. In all these cases, True Faith is not needed, but the person in question must actually be a follower of the religion in question.\n\nWhen not actively seeking out its quarry or terrorizing the target, the Ifrit will dwell in a ruined house, abandoned factory, or other desolate place.",
+  "notes": "THE IFRIT - INFERNAL JINN DEATH SPIRIT\n\nWHAT IT IS:\n- Infernal Jinn from Jahannam (Islamic Hell)\n- Death spirit that feeds on murder victims\n- Takes form of victim at point of death\n- Compelled to hunt and kill murderer\n- Can choose to stay on Earth or return after mission complete\n\nORIGIN STORY:\n- Drew to Earth in Iraq\n- Fed on dying US 2nd Lieutenant\n- Lieutenant was murdered by his own men (friendly fire)\n- Platoon executed him after he threatened them\n- Ifrit now hunting all who participated\n\nCURRENT STATUS:\n- Has killed all but one soldier\n- Final target knows all squad mates are dead\n- Target knows something is hunting him\n- Doesn't know what or how to stop it\n- Living in terror\n\nAPPEARANCE:\n- Normal: Young military man with bullet wounds\n- Combat: Flames from mouth, horns, claws\n- Wounds constantly trickle blood\n- Military bearing and manner\n- Terrifying when transformed\n\nHUNTING BEHAVIOR:\n- Stalks victim slowly\n- Terrorizes before killing\n- Patient and methodical\n- Enjoys the fear\n- Will eventually kill unless stopped\n\nPOWERS:\n- Uses Essence (20 pool)\n- Equivalent to Auspex 2, Celerity 1, Fortitude 3, Potence 3, Thaumaturgy 3\n- Soaks all damage with Stamina + Fortitude\n- Regenerates all Essence and health at nightfall\n- Immune to fire\n- Immune to mind control and emotional influence\n- NOT immune to Dementation (madness affects jinn)\n\nRELIGIOUS VULNERABILITIES:\n- Faithful Muslim: Du'a prayer forces discorporation\n- Faithful Christian: Crossing self causes Ifrit to flee\n- Faithful Jew: Invoking King Solomon causes flee\n- Does NOT require True Faith\n- Person must genuinely follow that religion\n- Ifrit returns to Jahannam when banished\n\nHABITAT:\n- Dwells in desolate places\n- Ruined houses, abandoned factories\n- Avoids populated areas except when hunting\n- Cannot rest in holy ground\n\nALIGNMENT:\n- This Ifrit is EVIL and an UNBELIEVER\n- Wicked and ruthless\n- Enjoys causing terror\n- Some Ifrit are good (this one isn't)",
+  "equipment": "None - supernatural being",
+  "character_image": "",
+  "status": "active",
+  
+  "attributes": {
+    "Physical": { "Strength": 4, "Dexterity": 4, "Stamina": 4 },
+    "Social": { "Charisma": 4, "Manipulation": 1, "Composure": 3 },
+    "Mental": { "Perception": 5, "Intelligence": 2, "Wits": 4 }
+  },
+  
+  "abilities": [
+    {"name": "Alertness", "level": 5, "category": "Talent"},
+    {"name": "Athletics", "level": 5, "category": "Talent"},
+    {"name": "Awareness", "level": 3, "category": "Talent"},
+    {"name": "Brawl", "level": 5, "category": "Talent", "specialization": "Claws"},
+    {"name": "Empathy", "level": 3, "category": "Talent", "specialization": "Fear"},
+    {"name": "Intimidation", "level": 5, "category": "Talent"},
+    {"name": "Occult", "level": 3, "category": "Knowledge", "specialization": "Jinn lore"},
+    {"name": "Stealth", "level": 3, "category": "Talent"},
+    {"name": "Subterfuge", "level": 5, "category": "Talent"},
+    {"name": "Theology", "level": 3, "category": "Knowledge", "specialization": "Islamic"}
+  ],
+  
+  "powers": [
+    {
+      "name": "Heightened Senses",
+      "level": 2,
+      "description": "Can sense surroundings with supernatural clarity - equivalent to Auspex 2",
+      "effects": [
+        "Enhanced all senses",
+        "Can read auras",
+        "Track by scent",
+        "See in darkness"
+      ]
+    },
+    {
+      "name": "Supernatural Speed",
+      "level": 1,
+      "description": "Enhanced speed and reflexes - equivalent to Celerity 1",
+      "effects": [
+        "Extra action per turn",
+        "Enhanced initiative",
+        "Quick movements"
+      ]
+    },
+    {
+      "name": "Infernal Durability",
+      "level": 3,
+      "description": "Supernatural toughness - equivalent to Fortitude 3",
+      "effects": [
+        "Soaks all damage with Stamina + Fortitude",
+        "Heals all damage at nightfall",
+        "Immune to fire",
+        "Resistant to physical harm"
+      ]
+    },
+    {
+      "name": "Demonic Strength",
+      "level": 3,
+      "description": "Supernatural strength - equivalent to Potence 3",
+      "effects": [
+        "Add 3 to Strength for damage",
+        "Enhanced physical power",
+        "Devastating claws when transformed"
+      ]
+    },
+    {
+      "name": "Lure of Flames",
+      "level": 3,
+      "description": "Control over fire - equivalent to Thaumaturgy Path of Flames 3",
+      "effects": [
+        "Create and control flames",
+        "Breathe fire when in combat form",
+        "Use fire as weapon",
+        "Immune to own flames"
+      ]
+    },
+    {
+      "name": "Terrifying Aspect",
+      "level": 5,
+      "description": "Transform into terrifying combat form",
+      "effects": [
+        "Flames leap from mouth",
+        "Black horns curl from forehead",
+        "Claws form on fingers",
+        "Inspires primal fear",
+        "Equivalent to Dread Gaze effect"
+      ]
+    }
+  ],
+  
+  "power_pool": {
+    "pool_name": "Essence",
+    "current": 20,
+    "maximum": 20,
+    "regeneration": "Regenerates ALL Essence at nightfall. Also heals all damage (including aggravated) at nightfall."
+  },
+  
+  "willpower_permanent": 7,
+  "willpower_current": 7,
+  
+  "backgrounds": {},
+  
+  "backgroundDetails": {},
+  
+  "special_abilities": [
+    {
+      "name": "Nightfall Regeneration",
+      "description": "At nightfall, regenerates all Essence and heals all damage including aggravated. Essentially unkillable unless banished."
+    },
+    {
+      "name": "Murder Victim Form",
+      "description": "Takes the appearance of murder victim at point of death. Shows fatal wounds. Compelled to hunt murderer."
+    },
+    {
+      "name": "Desolate Dwelling",
+      "description": "When not hunting, must dwell in desolate, abandoned places. Cannot rest in populated areas or holy ground."
+    },
+    {
+      "name": "Religious Banishment",
+      "description": "Can be banished by faithful followers of Abrahamic religions (Muslim, Christian, Jewish) through specific religious actions."
+    }
+  ],
+  
+  "immunities": [
+    "Fire (completely immune)",
+    "Mind control (Dominate, Presence, etc.)",
+    "Emotional manipulation",
+    "Heat and flames",
+    "Most forms of lasting harm (regenerates at nightfall)"
+  ],
+  
+  "vulnerabilities": [
+    "Muslim Du'a prayer (forces discorporation)",
+    "Christian crossing self (causes fleeing)",
+    "Jewish invocation of King Solomon (causes fleeing)",
+    "Dementation (madness affects Jinn)",
+    "Cannot enter holy ground",
+    "Compelled to dwell in desolate places",
+    "Compelled to hunt murderer (cannot ignore mission)"
+  ],
+  
+  "health_levels": [
+    {"level": "Healthy", "status": "OK", "penalty": 0},
+    {"level": "Bruised", "status": "OK", "penalty": 0},
+    {"level": "Hurt", "status": "OK", "penalty": -1},
+    {"level": "Injured", "status": "OK", "penalty": -1},
+    {"level": "Wounded", "status": "OK", "penalty": -2},
+    {"level": "Mauled", "status": "OK", "penalty": -2},
+    {"level": "Crippled", "status": "OK", "penalty": -5},
+    {"level": "Incapacitated", "status": "OK", "penalty": 0},
+    {"level": "Discorporated", "status": "OK", "penalty": 0}
+  ],
+  
+  "merits_flaws": [],
+  
+  "relationships": [
+    {
+      "related_character_name": "Second Lieutenant (Deceased)",
+      "relationship_type": "victim",
+      "relationship_subtype": "form donor",
+      "strength": "permanent",
+      "description": "The murder victim whose form the Ifrit took. US military officer killed by his own men in Iraq."
+    },
+    {
+      "related_character_name": "Platoon Members (Mostly Deceased)",
+      "relationship_type": "targets",
+      "relationship_subtype": "murderers",
+      "strength": "compelled",
+      "description": "The soldiers who murdered the lieutenant. Ifrit has killed all but one. Compelled to hunt them all."
+    },
+    {
+      "related_character_name": "Final Target",
+      "relationship_type": "prey",
+      "relationship_subtype": "last murderer",
+      "strength": "obsessive",
+      "description": "The last surviving member of the platoon. Knows he's being hunted but doesn't know by what."
+    }
+  ],
+  
+  "custom_data": {
+    "creature_type": "Jinn",
+    "jinn_type": "Ifrit (infernal death spirit)",
+    "origin": "Jahannam (Islamic underworld/Hell)",
+    "summoning": "Self-summoned by murder victim's death",
+    "form": "Appears as murder victim at point of death",
+    "victim": "US 2nd Lieutenant killed in Iraq",
+    "murderers": "US platoon members (friendly fire)",
+    "killed_so_far": "All but one",
+    "final_target": "Last surviving platoon member",
+    "vampire_equivalent_disciplines": {
+      "Auspex": 2,
+      "Celerity": 1,
+      "Fortitude": 3,
+      "Potence": 3,
+      "Thaumaturgy": 3
+    },
+    "essence_mechanics": {
+      "current": 20,
+      "maximum": 20,
+      "usage": "Powers Disciplines like blood",
+      "healing": "Can spend to heal like vitae",
+      "regeneration": "ALL Essence regenerates at nightfall",
+      "bonus": "ALL damage (even aggravated) heals at nightfall"
+    },
+    "combat_stats": {
+      "strength": 4,
+      "strength_with_potence": 7,
+      "dexterity": 4,
+      "stamina": 4,
+      "soak": "Stamina 4 + Fortitude 3 = 7 dice (all damage types)",
+      "claws_damage": "Strength 4 + Potence 3 + 1 (claws) = 8 aggravated",
+      "fire_breath": "Lure of Flames 3",
+      "celerity": "1 extra action per turn",
+      "regeneration": "Full heal at nightfall"
+    },
+    "religious_banishment": {
+      "muslim": "Du'a (prayer of supplication) invoking Allah - Ifrit discorporates and returns to Jahannam",
+      "christian": "Crossing self while faithful - Ifrit must flee",
+      "jewish": "Invoking King Solomon - Ifrit must flee",
+      "requirements": "Must be genuine follower of religion",
+      "true_faith_not_needed": "Regular faith is sufficient",
+      "effect": "Instant - no roll needed"
+    },
+    "behavioral_patterns": {
+      "hunting": "Stalks victim slowly, methodically",
+      "terrorizing": "Enjoys causing fear before killing",
+      "patience": "Will take days/weeks to build terror",
+      "dwelling": "Inhabits ruined house in industrial area",
+      "active_times": "Night (regenerates at nightfall)",
+      "personality": "Evil, unbeliever, wicked, ruthless"
+    },
+    "special_notes": "The Ifrit is nearly unkillable through violence (regenerates everything at nightfall). Religious banishment is the primary solution. Characters might: protect the final target, learn about Jinn from occult sources, find faithful person of Abrahamic religion to banish it, or try to reason with it (unlikely to work with evil Ifrit). High-Humanity Muslims/Christians/Jews in the party become crucial. Creates interesting religious subplot - does the target deserve to die for murder?"
+  },
+  
+  "actingNotes": "Play the Ifrit as terrifying but with military bearing. It speaks (though rarely) with the lieutenant's voice and mannerisms. When terrorizing, it appears with wounds bleeding, staring without blinking. When in combat form, describe the transformation: mouth opening impossibly wide, flames erupting, bones cracking as horns emerge. It doesn't explain or monologue - it just hunts. The only time it speaks is to say things like 'You should have let them live' or 'Judgment has found you.' Voice should be emotionless, matter-of-fact. The terror comes from inevitability, not theatrics.",
+  
+  "agentNotes": "The Ifrit works best if a character IS the final target, or cares about someone who is. Creates moral dilemma: the target is a murderer (friendly fire, but still). Does he deserve to die? Can they protect him? The Ifrit is nearly impossible to kill (full regeneration at nightfall). Violence is futile. Solution requires: research (learn about Jinn), religious help (find faithful Muslim/Christian/Jew), and moral choice (protect murderer or let justice happen?). Ifrit can also threaten anyone who helps target - will terrorize and attack protectors. High-Occult characters can research. Religious characters become crucial. Creates tension between justice and mercy.",
+  
+  "health_status": "Supernatural being - regenerates fully at nightfall",
+  
+  "experience_total": 0,
+  "spent_xp": 0,
+  "experience_unspent": 0,
+  
+  "created_at": null,
+  "updated_at": null
+}

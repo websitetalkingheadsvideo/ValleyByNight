@@ -1,15 +1,15 @@
 <?php
 /**
- * Mortal Character JSON Import Script
+ * Supernatural Entity JSON Import Script
  *
- * Imports mortal character JSON files from reference/Characters/Mortal/ into the database.
- * Upsert by character_name (update if exists, insert if new).
+ * Imports supernatural entity character JSON (constructs, spirits, jinn, etc.)
+ * into the supernatural_entities table. Upsert by character_name.
  *
  * Usage:
- *   CLI: php tools/repeatable/php/database-tools/import_mortal_characters.php [filename.json]
- *   Web: ?file=filename.json or ?all=1
+ *   CLI: php tools/repeatable/php/database-tools/import_supernatural_entities.php [path/to/file.json]
+ *   Web: ?file=filename.json or ?file=path/to/file.json
  *
- * All imported characters use user_id = 1 (admin/ST account).
+ * All imported entities use user_id = 1 (admin/ST account).
  */
 
 declare(strict_types=1);
@@ -21,7 +21,7 @@ $is_cli = php_sapi_name() === 'cli';
 
 if (!$is_cli) {
     header('Content-Type: text/html; charset=utf-8');
-    echo "<!DOCTYPE html><html><head><title>Mortal Character Import</title><style>body{font-family:monospace;padding:20px;} .success{color:green;} .error{color:red;} .warning{color:orange;}</style></head><body>";
+    echo "<!DOCTYPE html><html><head><title>Supernatural Entity Import</title><style>body{font-family:monospace;padding:20px;} .success{color:green;} .error{color:red;} .warning{color:orange;}</style></head><body>";
 }
 
 require_once __DIR__ . '/../../../../includes/connect.php';
@@ -78,16 +78,16 @@ function cleanJsonData($value) {
     return json_encode(['text' => $trimmed]);
 }
 
-function findMortalCharacterByName(mysqli $conn, string $character_name): ?int {
+function findSupernaturalEntityByName(mysqli $conn, string $character_name): ?int {
     $result = db_fetch_one($conn,
-        "SELECT id FROM mortal_characters WHERE character_name = ? LIMIT 1",
+        "SELECT id FROM supernatural_entities WHERE character_name = ? LIMIT 1",
         's',
         [$character_name]
     );
     return $result ? (int)$result['id'] : null;
 }
 
-function importMortalCharacter(mysqli $conn, array $data, string $filename): bool {
+function importSupernaturalEntity(mysqli $conn, array $data, string $filename): bool {
     global $stats;
 
     $character_name = cleanString($data['character_name'] ?? '');
@@ -96,7 +96,7 @@ function importMortalCharacter(mysqli $conn, array $data, string $filename): boo
         return false;
     }
 
-    $character_id = findMortalCharacterByName($conn, $character_name);
+    $entity_id = findSupernaturalEntityByName($conn, $character_name);
 
     $cleanData = [
         'user_id' => IMPORT_USER_ID,
@@ -106,7 +106,8 @@ function importMortalCharacter(mysqli $conn, array $data, string $filename): boo
         'nature' => cleanString($data['nature'] ?? ''),
         'demeanor' => cleanString($data['demeanor'] ?? ''),
         'concept' => cleanString($data['concept'] ?? ''),
-        'power_source' => cleanString($data['power_source'] ?? ''),
+        'entity_type' => cleanString($data['entity_type'] ?? ''),
+        'entity_subtype' => cleanString($data['entity_subtype'] ?? ''),
         'pc' => cleanInt($data['pc'] ?? 1),
         'appearance' => cleanString($data['appearance'] ?? ''),
         'biography' => cleanString($data['biography'] ?? ''),
@@ -119,10 +120,14 @@ function importMortalCharacter(mysqli $conn, array $data, string $filename): boo
         'attributes' => cleanJsonData($data['attributes'] ?? null),
         'abilities' => cleanJsonData($data['abilities'] ?? null),
         'powers' => cleanJsonData($data['powers'] ?? null),
+        'power_pool' => cleanJsonData($data['power_pool'] ?? null),
         'backgrounds' => cleanJsonData($data['backgrounds'] ?? null),
         'backgroundDetails' => cleanJsonData($data['backgroundDetails'] ?? null),
-        'merits_flaws' => cleanJsonData($data['merits_flaws'] ?? null),
+        'special_abilities' => cleanJsonData($data['special_abilities'] ?? null),
+        'immunities' => cleanJsonData($data['immunities'] ?? null),
+        'vulnerabilities' => cleanJsonData($data['vulnerabilities'] ?? null),
         'health_levels' => cleanJsonData($data['health_levels'] ?? null),
+        'merits_flaws' => cleanJsonData($data['merits_flaws'] ?? null),
         'relationships' => cleanJsonData($data['relationships'] ?? null),
         'custom_data' => cleanJsonData($data['custom_data'] ?? null),
         'actingNotes' => cleanString($data['actingNotes'] ?? ''),
@@ -146,15 +151,37 @@ function importMortalCharacter(mysqli $conn, array $data, string $filename): boo
     try {
         $base_fields = [
             'user_id', 'character_name', 'player_name', 'chronicle',
-            'nature', 'demeanor', 'concept', 'power_source', 'pc', 'appearance', 'biography',
-            'notes', 'equipment', 'status', 'willpower_permanent', 'willpower_current',
-            'attributes', 'abilities', 'powers', 'backgrounds', 'backgroundDetails',
-            'merits_flaws', 'health_levels', 'relationships', 'custom_data',
+            'nature', 'demeanor', 'concept', 'entity_type', 'entity_subtype',
+            'pc', 'appearance', 'biography', 'notes', 'equipment', 'character_image', 'status',
+            'willpower_permanent', 'willpower_current',
+            'attributes', 'abilities', 'powers', 'power_pool',
+            'backgrounds', 'backgroundDetails', 'special_abilities',
+            'immunities', 'vulnerabilities', 'health_levels', 'merits_flaws',
+            'relationships', 'custom_data',
             'actingNotes', 'agentNotes', 'health_status',
             'experience_total', 'spent_xp', 'experience_unspent'
         ];
 
-        if ($character_id > 0) {
+        $int_fields = [
+            'user_id', 'pc', 'willpower_permanent', 'willpower_current',
+            'experience_total', 'spent_xp', 'experience_unspent'
+        ];
+
+        $json_fields = [
+            'attributes', 'abilities', 'powers', 'power_pool',
+            'backgrounds', 'backgroundDetails', 'special_abilities',
+            'immunities', 'vulnerabilities', 'health_levels', 'merits_flaws',
+            'relationships', 'custom_data'
+        ];
+
+        $bindValue = function ($f, $val) use ($json_fields) {
+            if (in_array($f, $json_fields, true) && ($val === '' || $val === null)) {
+                return null;
+            }
+            return $val ?? '';
+        };
+
+        if ($entity_id > 0) {
             $set_parts = [];
             foreach ($base_fields as $f) {
                 if ($f === 'character_name') {
@@ -162,17 +189,17 @@ function importMortalCharacter(mysqli $conn, array $data, string $filename): boo
                 }
                 $set_parts[] = "`$f` = ?";
             }
-            $update_sql = "UPDATE mortal_characters SET " . implode(', ', $set_parts) . " WHERE id = ?";
+            $update_sql = "UPDATE supernatural_entities SET " . implode(', ', $set_parts) . " WHERE id = ?";
             $params = [];
             $types = '';
             foreach ($base_fields as $f) {
                 if ($f === 'character_name') {
                     continue;
                 }
-                $params[] = $cleanData[$f];
-                $types .= in_array($f, ['user_id', 'pc', 'willpower_permanent', 'willpower_current', 'experience_total', 'spent_xp', 'experience_unspent'], true) ? 'i' : 's';
+                $params[] = $bindValue($f, $cleanData[$f] ?? null);
+                $types .= in_array($f, $int_fields, true) ? 'i' : 's';
             }
-            $params[] = $character_id;
+            $params[] = $entity_id;
             $types .= 'i';
 
             $stmt = mysqli_prepare($conn, $update_sql);
@@ -187,18 +214,15 @@ function importMortalCharacter(mysqli $conn, array $data, string $filename): boo
             $stats['updated']++;
         } else {
             $fields_with_image = $base_fields;
-            if ($cleanData['character_image'] !== '') {
-                $fields_with_image[] = 'character_image';
-            }
-            $field_list = implode(', ', $fields_with_image);
+            $field_list = implode(', ', array_map(fn($f) => "`$f`", $fields_with_image));
             $placeholders = implode(', ', array_fill(0, count($fields_with_image), '?'));
-            $insert_sql = "INSERT INTO mortal_characters ($field_list) VALUES ($placeholders)";
+            $insert_sql = "INSERT INTO supernatural_entities ($field_list) VALUES ($placeholders)";
 
             $params = [];
             $types = '';
             foreach ($fields_with_image as $f) {
-                $params[] = $cleanData[$f] ?? '';
-                $types .= in_array($f, ['user_id', 'pc', 'willpower_permanent', 'willpower_current', 'experience_total', 'spent_xp', 'experience_unspent'], true) ? 'i' : 's';
+                $params[] = $bindValue($f, $cleanData[$f] ?? null);
+                $types .= in_array($f, $int_fields, true) ? 'i' : 's';
             }
 
             $stmt = mysqli_prepare($conn, $insert_sql);
@@ -223,56 +247,35 @@ function importMortalCharacter(mysqli $conn, array $data, string $filename): boo
 }
 
 $file_param = $is_cli ? ($argv[1] ?? '') : ($_GET['file'] ?? '');
-$import_all = !$is_cli && isset($_GET['all']) && $_GET['all'] == '1';
 
-$mortals_dir = __DIR__ . '/../../../reference/Characters/Mortal/';
+if (empty($file_param)) {
+    die($is_cli ? "Usage: php import_supernatural_entities.php <path/to/file.json>\n" : "<p class='error'>Usage: ?file=path/to/file.json (e.g. ?file=Azarakh_Brain_Bug.json from New Characters, or full path)</p></body></html>");
+}
 
-if ($import_all) {
-    $files = glob($mortals_dir . '*.json');
-    $files = array_filter($files, function ($f) {
-        return basename($f) !== 'mortal_character_template.json';
-    });
+$file_path = $file_param;
+if (!file_exists($file_path)) {
+    $base = __DIR__ . '/../../../../reference/Characters/';
+    $file_path = $base . 'New Characters/' . $file_param;
+}
+if (!file_exists($file_path)) {
+    $file_path = __DIR__ . '/../../../../reference/Characters/Added to Database/' . $file_param;
+}
+if (!file_exists($file_path)) {
+    die($is_cli ? "File not found: $file_param\n" : "<p class='error'>File not found: $file_param</p></body></html>");
+}
 
-    if (empty($files)) {
-        echo $is_cli ? "No JSON files found in $mortals_dir\n" : "<p class='warning'>No JSON files found in Mortal directory.</p>";
-    } else {
-        foreach ($files as $file) {
-            $filename = basename($file);
-            $stats['processed']++;
-            $json_content = file_get_contents($file);
-            $data = json_decode($json_content, true);
-            if (json_last_error() !== JSON_ERROR_NONE) {
-                $stats['errors'][] = "$filename: Invalid JSON - " . json_last_error_msg();
-                $stats['skipped']++;
-                continue;
-            }
-            if (importMortalCharacter($conn, $data, $filename)) {
-                echo $is_cli ? "✓ Imported: $filename\n" : "<p class='success'>✓ Imported: $filename</p>";
-            } else {
-                $stats['skipped']++;
-            }
-        }
-    }
-} elseif (!empty($file_param)) {
-    $file_path = $mortals_dir . $file_param;
-    if (!file_exists($file_path)) {
-        $file_path = $file_param;
-    }
-    if (!file_exists($file_path)) {
-        die($is_cli ? "File not found: $file_param\n" : "<p class='error'>File not found: $file_param</p></body></html>");
-    }
-    $filename = basename($file_path);
-    $stats['processed']++;
-    $json_content = file_get_contents($file_path);
-    $data = json_decode($json_content, true);
-    if (json_last_error() !== JSON_ERROR_NONE) {
-        die($is_cli ? "Invalid JSON: " . json_last_error_msg() . "\n" : "<p class='error'>Invalid JSON: " . json_last_error_msg() . "</p></body></html>");
-    }
-    if (importMortalCharacter($conn, $data, $filename)) {
-        echo $is_cli ? "✓ Successfully imported: $filename\n" : "<p class='success'>✓ Successfully imported: $filename</p>";
-    }
+$filename = basename($file_path);
+$stats['processed']++;
+$json_content = file_get_contents($file_path);
+$data = json_decode($json_content, true);
+if (json_last_error() !== JSON_ERROR_NONE) {
+    die($is_cli ? "Invalid JSON: " . json_last_error_msg() . "\n" : "<p class='error'>Invalid JSON: " . json_last_error_msg() . "</p></body></html>");
+}
+
+if (importSupernaturalEntity($conn, $data, $filename)) {
+    echo $is_cli ? "✓ Successfully imported: $filename\n" : "<p class='success'>✓ Successfully imported: $filename</p>";
 } else {
-    die($is_cli ? "Usage: php import_mortal_characters.php [filename.json]\n" : "<p class='error'>Usage: ?file=filename.json or ?all=1</p></body></html>");
+    $stats['skipped']++;
 }
 
 echo $is_cli ? "\n" : "<hr><h3>Import Statistics</h3>";
