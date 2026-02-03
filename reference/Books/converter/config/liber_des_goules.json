@@ -1,0 +1,12 @@
+{
+  "source_title": "Liber des Goules (Mind's Eye Theatre)",
+  "book_code": "LDG-MET",
+  "page_ranges": [
+    { "start": 1, "end": 11, "content_type": "introduction" },
+    { "start": 12, "end": 20, "content_type": "ghoul_info" },
+    { "start": 21, "end": 36, "content_type": "ghoul_types" },
+    { "start": 37, "end": 72, "content_type": "character_creation" },
+    { "start": 73, "end": 98, "content_type": "storytelling" },
+    { "start": 99, "end": 9999, "content_type": "appendix" }
+  ]
+}
