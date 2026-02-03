@@ -1,0 +1,107 @@
+{
+  "_template_version": "1.0.0",
+  "_description": "Demon: The Fallen Character Sheet Template - All fields for database integration",
+  "_database_table": "demon_characters",
+  "template_usage": "Fill this template and import with: php tools/repeatable/php/database-tools/import_demon_characters.php path/to/this_file.json (or ?file=filename.json in browser). character_name is required. All keys map to demon_characters table. See reference/Characters/Demon/README_demon_template.md for field-to-table mapping.",
+
+  "id": 0,
+  "user_id": 0,
+  "character_name": "",
+  "player_name": "NPC",
+  "chronicle": "Valley by Night",
+  "nature": "",
+  "demeanor": "",
+  "concept": "",
+  "house": "",
+  "faction": "",
+  "cover": "",
+  "pc": 1,
+  "appearance": "",
+  "host_form_appearance": "",
+  "biography": "",
+  "notes": "",
+  "equipment": "",
+  "character_image": "",
+  "status": "active",
+  "torment_permanent": 0,
+  "torment_current": 0,
+  "faith_permanent": 0,
+  "faith_current": 0,
+  "willpower_permanent": 5,
+  "willpower_current": 5,
+
+  "apocalyptic_form": {
+    "description": "",
+    "traits": [],
+    "visage": ""
+  },
+
+  "evocations": [],
+
+  "lores": [],
+
+  "attributes": {
+    "Physical": { "Strength": 0, "Dexterity": 0, "Stamina": 0 },
+    "Social": { "Charisma": 0, "Manipulation": 0, "Composure": 0 },
+    "Mental": { "Intelligence": 0, "Wits": 0, "Resolve": 0 }
+  },
+
+  "abilities": [],
+
+  "backgrounds": {},
+
+  "backgroundDetails": {},
+
+  "merits_flaws": [],
+
+  "thralls_pacts": [],
+
+  "health_levels": [],
+
+  "relationships": [],
+
+  "custom_data": null,
+
+  "actingNotes": "",
+  "agentNotes": "",
+  "health_status": "",
+
+  "experience_total": 0,
+  "spent_xp": 0,
+  "experience_unspent": 0,
+
+  "created_at": null,
+  "updated_at": null,
+
+  "_field_documentation": {
+    "house": "STRING - House (e.g. Devil, Serpent, Whispers, Scourge, Malefactor)",
+    "faction": "STRING - Faction (Luciferan, Faustian, Raveners, Cryptics, Reconcilers)",
+    "cover": "STRING - Mortal host/identity the demon wears",
+    "host_form_appearance": "TEXT - Appearance in host body",
+    "torment_permanent": "INTEGER - Permanent torment rating (0-10)",
+    "torment_current": "INTEGER - Current torment",
+    "faith_permanent": "INTEGER - Permanent faith rating (0-10)",
+    "faith_current": "INTEGER - Current faith (power from belief)",
+    "apocalyptic_form": "OBJECT - True form: description, traits array, visage",
+    "evocations": "ARRAY - House powers. Format: [{\"name\": \"...\", \"house\": \"...\", \"level\": 1, \"effect\": \"...\"}]",
+    "lores": "ARRAY - Celestial knowledge/lores. Format: [{\"name\": \"...\", \"level\": 1, \"description\": \"...\"}]",
+    "thralls_pacts": "ARRAY - Thralls and pacts with mortals"
+  },
+
+  "_example_values": {
+    "house": "Devil",
+    "faction": "Faustian",
+    "cover": "Marcus Webb, investment banker",
+    "evocations": [
+      {
+        "name": "Enkindle",
+        "house": "Devil",
+        "level": 1,
+        "effect": "Ignite flammable materials"
+      }
+    ],
+    "lores": [
+      { "name": "Lore of the Forge", "level": 2, "description": "Creation and destruction of objects" }
+    ]
+  }
+}
