@@ -1,0 +1,507 @@
+[
+  {
+    "name": "Smith & Wesson M640",
+    "type": "Weapon",
+    "category": "Revolver",
+    "damage": "4",
+    "range": "12",
+    "requirements": {
+      "difficulty": 6
+    },
+    "description": "The Model 640 is a small-frame concealed-hammer revolver, that packs a full-sized punch. These small revolvers were designed to fire a full power round and are as simple and easy to use as they are reliable.",
+    "rarity": "Common",
+    "price": 829,
+    "caliber": ".38",
+    "rate": "3",
+    "clip": "5",
+    "conceal": "Pocket",
+    "length": "167 mm (6.6 in)",
+    "weight": "0.63 Kg (1.38 lb)",
+    "origin": "USA",
+    "era": "1990 - Present",
+    "resources": 1
+  },
+  {
+    "name": "Voss BC",
+    "type": "Weapon",
+    "category": "Revolver",
+    "damage": "4",
+    "range": "20",
+    "requirements": {
+      "difficulty": 6
+    },
+    "description": "Some people say the BC stands for 'body count,' and there is no denying that this gun has racked up its share. The .22 magnum round means the bullet leaves the gun at an extremely high velocity. Armor provides one less die of protection against the BC.",
+    "rarity": "Common",
+    "price": 659,
+    "caliber": ".22M",
+    "rate": "3",
+    "clip": "8",
+    "conceal": "Jacket",
+    "length": "226 mm (8.9 in)",
+    "weight": "1 Kg (2.2 lb)",
+    "origin": "USA",
+    "era": "1990 - Present",
+    "resources": 2,
+    "special": "Target's Armor -1"
+  },
+  {
+    "name": "Ruger SP101",
+    "type": "Weapon",
+    "category": "Revolver",
+    "damage": "4",
+    "range": "15",
+    "requirements": {
+      "difficulty": 6
+    },
+    "description": "The Ruger SP101 is a series of double-action revolvers produced by the American company Sturm, Ruger. The SP101 is a small frame and all-steel construction carry revolver, with a 8-shot (.22 LR) cylinder.",
+    "rarity": "Common",
+    "price": 769,
+    "caliber": ".22LR",
+    "rate": "3",
+    "clip": "8",
+    "conceal": "Jacket",
+    "length": "231 mm (9.12 in)",
+    "weight": "0.85 kg (1.56 lb)",
+    "origin": "USA",
+    "era": "1980 - Present",
+    "resources": 2
+  },
+  {
+    "name": "Beretta Stampede",
+    "type": "Weapon",
+    "category": "Revolver",
+    "damage": "4",
+    "range": "15",
+    "requirements": {
+      "difficulty": 6
+    },
+    "description": "This is the 'Old West' Stampede. It has a fixed front sight, wood grip, and holds .45 Long Colt rounds, the same as the Colt Peacemaker. It has a 4¾ inch barrel, which makes the total length 9.5 inches. Its cylinder capacity is six rounds.",
+    "rarity": "Common",
+    "price": 695,
+    "caliber": ".45LC",
+    "rate": "1",
+    "clip": "6",
+    "conceal": "Jacket",
+    "length": "251 mm (9.5 in)",
+    "weight": "0.68 kg (1.51 lb)",
+    "origin": "Italy",
+    "era": "1870 - Present",
+    "resources": 2
+  },
+  {
+    "name": "Colt 1860 Army",
+    "type": "Weapon",
+    "category": "Revolver",
+    "damage": "6",
+    "range": "25",
+    "requirements": {
+      "difficulty": 8
+    },
+    "description": "The Colt Army Model 1860s is a muzzle-loaded cap & ball .44-caliber single-action revolver used during the American Civil War made by Colt's Manufacturing Company. It was used as a side arm by cavalry, infantry, artillery troops, and naval forces.",
+    "rarity": "Common",
+    "price": 700,
+    "caliber": ".44",
+    "rate": "1",
+    "clip": "6",
+    "conceal": "Trenchcoat",
+    "length": "355 mm (14 in)",
+    "weight": "1.22 kg (2 lb)",
+    "origin": "USA",
+    "era": "1860 - 1870",
+    "resources": 2
+  },
+  {
+    "name": "Colt Buntline",
+    "type": "Weapon",
+    "category": "Revolver",
+    "damage": "6",
+    "range": "30",
+    "requirements": {
+      "difficulty": 8
+    },
+    "description": "The Colt Buntline Special is a long-barreled variant of the Colt Single Action Army revolver, which Stuart N. Lake described in his best-selling but largely fictionalized 1931 biography, Wyatt Earp: Frontier Marshal. According to Lake, the dime novelist Ned Buntline commissioned the production of five Buntline Specials. Lake described them as extra-long Colt Single Action Army revolvers, with a 12-inch (300 mm)-long barrel, and stated that Buntline presented them to five lawmen in thanks for their help in contributing local color to his western yarns. Colt manufactured the pistol among its second-generation revolvers produced after 1956.",
+    "rarity": "Rare",
+    "price": 1299,
+    "caliber": ".45",
+    "rate": "1",
+    "clip": "6",
+    "conceal": "Trenchcoat",
+    "length": "426 mm (16.8 in)",
+    "weight": "1.28 kg (2.81 lb)",
+    "origin": "USA",
+    "era": "1950 - 1990",
+    "resources": 3
+  },
+  {
+    "name": "Colt Anaconda",
+    "type": "Weapon",
+    "category": "Revolver",
+    "damage": "6",
+    "range": "35",
+    "requirements": {
+      "difficulty": 7
+    },
+    "description": "Introduced in 1990, the Colt Anaconda is a large frame double-action revolver featuring a full length under-barrel ejection-rod lug and six round cylinder, designed and produced by the Colt's Manufacturing Company.",
+    "rarity": "Uncommon",
+    "price": 2250,
+    "caliber": ".44",
+    "rate": "2",
+    "clip": "6",
+    "conceal": "Jacket",
+    "length": "330 mm (13 in)",
+    "weight": "1.70 kg (3.75 lb)",
+    "origin": "USA",
+    "era": "1990 - 2000",
+    "resources": 3
+  },
+  {
+    "name": "Smith & Wesson M686",
+    "type": "Weapon",
+    "category": "Revolver",
+    "damage": "5",
+    "range": "35",
+    "requirements": {
+      "difficulty": 6
+    },
+    "description": "Available in six and seven shot cylinders, the L-frame has a strong, durable frame and barrel with a medium sized .357 Magnum usage. As police guns and hunters will attest, this firearm is made to be fired heavily and often.",
+    "rarity": "Common",
+    "price": 829,
+    "caliber": ".357",
+    "rate": "2",
+    "clip": "6 / 7",
+    "conceal": "Jacket",
+    "length": "292 mm (11.5 in)",
+    "weight": "1.25 Kg (2.75 lb)",
+    "origin": "USA",
+    "era": "1980 - Present",
+    "resources": 2
+  },
+  {
+    "name": "Remington M740",
+    "type": "Weapon",
+    "category": "Rifle",
+    "damage": "7",
+    "range": "275",
+    "requirements": {
+      "difficulty": 8
+    },
+    "description": "The Remington Woodsmaster Model 740 is a semi-automatic rifle manufactured by Remington Arms between 1955 and 1959. The rifle had a 22-inch barrel and a five-round magazine. The blued metal barreled action was mounted in a walnut stock.",
+    "rarity": "Common",
+    "price": 395,
+    "caliber": ".223",
+    "rate": "3",
+    "clip": "5",
+    "conceal": "N",
+    "length": "1080 mm (42.5 in)",
+    "weight": "3.40 kg (7.5 lb)",
+    "origin": "USA",
+    "era": "1950 - 1960",
+    "resources": 2
+  },
+  {
+    "name": "Weatherby Mark V",
+    "type": "Weapon",
+    "category": "Rifle",
+    "damage": "10",
+    "range": "300",
+    "requirements": {
+      "difficulty": 8
+    },
+    "description": "The Weatherby Mark V is a centerfire, bolt-action rifle manufactured by Weatherby of Paso Robles, California. The rifle was introduced in 1957 by Weatherby and was designed to safely contain the high pressures associated with the Weatherby line of high performance cartridges. It is the flagship rifle of the Weatherby line of firearms.",
+    "rarity": "Common",
+    "price": 1800,
+    "caliber": ".460WM",
+    "rate": "1",
+    "clip": "3",
+    "conceal": "N",
+    "length": "1210 mm (47.63 in)",
+    "weight": "4.53 kg (10 lb)",
+    "origin": "USA",
+    "era": "1950 - Present",
+    "resources": 3
+  },
+  {
+    "name": "Beretta ARX160",
+    "type": "Weapon",
+    "category": "Assault Rifle",
+    "damage": "7",
+    "range": "200",
+    "requirements": {
+      "difficulty": 7
+    },
+    "description": "The Beretta ARX160 is an Italian modular assault rifle manufactured by Beretta. Developed for the Italian Armed Forces as part of the Soldato Futuro (English: 'Future Soldier') program, the ARX160 was launched in 2008 as a commercial weapon system independent from the Soldato Futuro ensemble, complete with a companion single-shot 40×46mm NATO low-velocity grenade launcher, called the GLX160, which can be mounted underneath the rifle or used with an ad hoc stock system as a stand-alone weapon.",
+    "rarity": "Uncommon",
+    "price": 575,
+    "caliber": ".22LR",
+    "rate": "10",
+    "clip": "20",
+    "conceal": "N",
+    "length": "920 mm (36.2 in)",
+    "weight": "3.00 kg (6.61 lb)",
+    "origin": "Italy",
+    "era": "2008 - Present",
+    "resources": 2
+  },
+  {
+    "name": "Steyr AUG",
+    "type": "Weapon",
+    "category": "Assault Rifle",
+    "damage": "7",
+    "range": "200",
+    "requirements": {
+      "difficulty": 7
+    },
+    "description": "The Steyr AUG is an Austrian 5.56×45mm NATO bullpup assault rifle, designed in the 1960s by Steyr Mannlicher GmbH & Co KG (formerly Steyr-Daimler-Puch). In production since 1978, it is the standard small arm of the Austrian Bundesheer and various national police units.",
+    "rarity": "Uncommon",
+    "price": 1999,
+    "caliber": ".223",
+    "rate": "21",
+    "clip": "30/42",
+    "conceal": "Trenchcoat",
+    "length": "790 mm (31.1 in)",
+    "weight": "3.60 kg (7.9 lb)",
+    "origin": "Austria",
+    "era": "1970 - Present",
+    "resources": 3,
+    "special": "x6 / x8 +2"
+  },
+  {
+    "name": "M16",
+    "type": "Weapon",
+    "category": "Assault Rifle",
+    "damage": "7",
+    "range": "200",
+    "requirements": {
+      "difficulty": 7
+    },
+    "description": "The M16 rifle is a United States military adaptation of the Armalite AR-15 rifle. The original M16 was a select-fire, 5.56×45mm rifle with a 20-round magazine. In 1964, the M16 entered U.S. military service and the following year was deployed for jungle warfare operations during the Vietnam War.",
+    "rarity": "Common",
+    "price": 929,
+    "caliber": ".223",
+    "rate": "20",
+    "clip": "20/30",
+    "conceal": "N",
+    "length": "1003 mm (39.5 in)",
+    "weight": "3.26 kg (7.18 lb)",
+    "origin": "USA",
+    "era": "1970 - Present",
+    "resources": 2,
+    "special": "x4 / x6"
+  },
+  {
+    "name": "Famas",
+    "type": "Weapon",
+    "category": "Assault Rifle",
+    "damage": "7",
+    "range": "200",
+    "requirements": {
+      "difficulty": 7
+    },
+    "description": "The FAMAS (French: Fusil d'Assaut de la Manufacture d'Armes de Saint-Étienne or 'Assault Rifle from the Saint-Étienne Weapon Factory') is a bullpup-styled assault rifle designed and manufactured in France by MAS located in Saint-Étienne, which is now a member of the French government-owned Nexter group. It is known by French troops as 'The Bugle' due to its distinctive shape. The FAMAS is recognized for its excessively high rate of fire at 1200 rounds per minute.",
+    "rarity": "Rare",
+    "price": 12650,
+    "caliber": ".223",
+    "rate": "25",
+    "clip": "25",
+    "conceal": "Trenchcoat",
+    "length": "757 mm (29.8 in)",
+    "weight": "3.61 kg (7.96 lb)",
+    "origin": "France",
+    "era": "1970 - Present",
+    "resources": 4,
+    "special": "x5"
+  },
+  {
+    "name": "Medieval Broadsword",
+    "type": "Weapon",
+    "category": "Sword",
+    "damage": "Strength +5",
+    "range": "Melee",
+    "requirements": {
+      "difficulty": 6
+    },
+    "description": "A simple sword with a three-foot straight blade and a long (nine-inch) handle. Broadswords tend to be quite heavy for their size and cost $100.",
+    "rarity": "Rare",
+    "price": 100,
+    "conceal": "N",
+    "length": "1520 mm (60 in)",
+    "weight": "4 Kg (8.8 lbs)",
+    "resources": 3
+  },
+  {
+    "name": "Two-handed Sword",
+    "type": "Weapon",
+    "category": "Sword",
+    "damage": "Strength +6",
+    "range": "Melee",
+    "requirements": {
+      "difficulty": 5
+    },
+    "description": "A two-handed sword, or greatsword, has a blade from four to six feet in length and a handle one to two feet in length. A two-handed sword requires about six feet on each side of the user and six feet of overhead clearance. Such weapons cost around $250.",
+    "rarity": "Rare",
+    "price": 250,
+    "conceal": "N",
+    "length": "2082 mm (82 in)",
+    "weight": "10 Kg (22 lbs)",
+    "resources": 3,
+    "special": "Lunge maneuver available"
+  },
+  {
+    "name": "Wooden Broadsword",
+    "type": "Weapon",
+    "category": "Sword",
+    "damage": "Strength",
+    "range": "Melee",
+    "requirements": {
+      "difficulty": 6
+    },
+    "description": "Any of the above swords are available in wooden practice versions; these are treated as clubs. Many practice swords are filled with lead slugs to achieve the same weight as a 'real' sword. Some practice swords weigh twice as much. They only do Strength + 1 in damage (+2 for two-handed). Note that they can be sharpened and used as long stakes.",
+    "rarity": "Common",
+    "price": null,
+    "conceal": "N",
+    "length": "1520 mm (60 in)",
+    "weight": "4 Kg (8.8 lbs)",
+    "resources": 0
+  },
+  {
+    "name": "Throwing Knife",
+    "type": "Weapon",
+    "category": "Thrown Weapon",
+    "damage": "Strength +1",
+    "range": "Varies by Strength",
+    "requirements": {
+      "difficulty": "Varies"
+    },
+    "description": "Knives use the throwing rules above, with one exception. Always treat a thrown knife as being one pound heavier than it really is; this represents the control required to strike the target blade-first. Throwing knives do Strength +1 damage and cost $20.",
+    "rarity": "Uncommon",
+    "price": 20,
+    "conceal": "Jacket",
+    "length": "203 mm (8 in)",
+    "weight": "0.453 Kg (1 lbs)",
+    "resources": 1
+  },
+  {
+    "name": "Hatchet",
+    "type": "Weapon",
+    "category": "Thrown Weapon",
+    "damage": "Strength +1",
+    "range": "Varies by Strength",
+    "requirements": {
+      "difficulty": "Varies +1"
+    },
+    "description": "Hatchets use the throwing rules above; however, a hatchet is a natural lever for multiplying force. Add one to the Strength of a thrown hatchet attack made by someone with the Hatchet specialty. This increase applies to both range and damage. However, hatchets are harder to control than knives, so always increase the difficulty of a thrown hatchet attack by one in addition to all other modifiers. Hatchets cost $15.",
+    "rarity": "Common",
+    "price": 15,
+    "conceal": "Jacket",
+    "length": "340 mm (13.5 in)",
+    "weight": "0.6 Kg (1.3 lbs)",
+    "resources": 1,
+    "special": "Sidearm Throws maneuver available"
+  },
+  {
+    "name": "Jo",
+    "type": "Weapon",
+    "category": "Staff",
+    "damage": "Strength +1",
+    "range": "Melee",
+    "requirements": {
+      "difficulty": 4
+    },
+    "description": "A jō (杖じょう) is an approximately 1.27-metre (4.2 ft) wooden staff, used in some Japanese martial arts. The martial art of wielding the jō is called jōjutsu or jōdō. Also, aikijō is a set of techniques in aikido which uses the jō to illustrate aikido's principles with a weapon. The jō staff is shorter than the bō. Today, the jō is still used by some Japanese police forces.",
+    "rarity": "Common",
+    "price": null,
+    "conceal": "Jacket",
+    "length": "2.5 shaku (75 cm)",
+    "weight": "0.5 Kg (1.1 lb)",
+    "resources": 0,
+    "special": "Block maneuver"
+  },
+  {
+    "name": "Bo",
+    "type": "Weapon",
+    "category": "Staff",
+    "damage": "Strength +2",
+    "range": "Melee",
+    "requirements": {
+      "difficulty": 4
+    },
+    "description": "A bō (棒: ぼう), joong bong (Korean), bang (Chinese), or kun (Okinawan), is a very tall and long staff weapon used in Okinawa and feudal Japan. Bō are typically around 1.8 m (71 in) long and used in Japanese martial arts, in particular bōjutsu.",
+    "rarity": "Common",
+    "price": null,
+    "conceal": "N",
+    "length": "6 shaku (1.81 m)",
+    "weight": "12 Kg (26.45 lb)",
+    "resources": 1,
+    "special": "Sweep maneuver"
+  },
+  {
+    "name": "Gunsen",
+    "type": "Weapon",
+    "category": "War Fan",
+    "damage": "Strength",
+    "range": "Melee",
+    "requirements": {
+      "difficulty": 5
+    },
+    "description": "Gunsen (軍扇) were folding fans used by the average warriors to cool themselves off. They were made of wood, bronze, brass or a similar metal for the inner spokes, and often used thin iron or other metals for the outer spokes or cover, making them lightweight but strong. Warriors would hang their fans from a variety of places, most typically from the belt or the breastplate, though the latter often impeded the use of a sword or a bow.",
+    "rarity": "Common",
+    "price": null,
+    "conceal": "Jacket",
+    "length": "8 sun (24.2 cm)",
+    "weight": "180 g (0.37 lb)",
+    "resources": 2
+  },
+  {
+    "name": "Tessen",
+    "type": "Weapon",
+    "category": "War Fan",
+    "damage": "Strength",
+    "range": "Melee",
+    "requirements": {
+      "difficulty": 5
+    },
+    "description": "Tessen (鉄扇) were folding fans with outer spokes made of heavy plates of iron which were designed to look like normal, harmless folding fans or solid clubs shaped to look like a closed fan. Samurai could take these to places where swords or other overt weapons were not allowed, and some swordsmanship schools included training in the use of the tessen as a weapon. The tessen was also used for fending off knives and darts, as a shielding device.",
+    "rarity": "Common",
+    "price": null,
+    "conceal": "Jacket",
+    "length": "1 shaku (30.3 cm)",
+    "weight": "240 g (0.52 lb)",
+    "resources": 3
+  },
+  {
+    "name": "Kusarigama",
+    "type": "Weapon",
+    "category": "Chain Weapon",
+    "damage": "Strength +3",
+    "range": "Melee",
+    "requirements": {
+      "difficulty": 8
+    },
+    "description": "The kusarigama (鎖鎌, lit. 'chain-sickle') is a traditional Japanese weapon that consists of a kama (the Japanese equivalent of a sickle) on a kusari-fundo — a type of metal chain (kusari) with a heavy iron weight (fundo) at the end. The kusarigama is said to have developed during the Muromachi period. The art of handling the kusarigama is called kusarigamajutsu.",
+    "rarity": "Rare",
+    "price": null,
+    "conceal": "Kimono",
+    "length": "13.8 shaku (418 cm)",
+    "weight": "6 Kg (13.22 lb)",
+    "resources": 4,
+    "special": "Sweep, entangle maneuvers"
+  },
+  {
+    "name": "Manrikigusari",
+    "type": "Weapon",
+    "category": "Chain Weapon",
+    "damage": "Strength +2",
+    "range": "Melee",
+    "requirements": {
+      "difficulty": 8
+    },
+    "description": "Manrikigusari (萬力鎖) ('ten thousand power chain') is a hand held weapon used in feudal Japan, consisting of a length of chain (kusari) with a weight (fundo) attached to each end of the chain. Various sizes and shapes of chain and weight were used as there was no set rule on the construction of these weapons.",
+    "rarity": "Uncommon",
+    "price": null,
+    "conceal": "Jacket",
+    "length": "5 shaku (151 cm)",
+    "weight": "3.00 Kg (6.61 lbs)",
+    "resources": 2,
+    "special": "Attack against dodge, entangle maneuvers"
+  }
+]

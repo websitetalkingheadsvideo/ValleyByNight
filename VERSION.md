@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.86
+## Current Version: 0.9.88
+
+**Date:** 2026-02-04  
+**Type:** Patch (harpy_agent: Harpy position data, README, agents doc updates)
+
+## Previous Version: 0.9.86
 
 **Date:** 2026-02-03  
 **Type:** Patch (Mortal/Mage/Demon character sheets, tables & import; werewolf rank fix)
