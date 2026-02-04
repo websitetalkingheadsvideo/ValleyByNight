@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.88
+## Current Version: 0.9.89
+
+**Date:** 2026-02-04  
+**Type:** Patch (laws_agent Books: clanbook Assamite/Brujah/Gangrel/Setites + Liber des Goules; converter scripts & docs)
+
+## Previous Version: 0.9.88
 
 **Date:** 2026-02-04  
 **Type:** Patch (harpy_agent: Harpy position data, README, agents doc updates)
