@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.89
+## Current Version: 0.9.90
+
+**Date:** 2026-02-04  
+**Type:** Patch (laws_agent Books: clanbook RAG/final text added to git; hunter armory weapon images; hunters_armory_weapons.json image fields)
+
+## Previous Version: 0.9.89
 
 **Date:** 2026-02-04  
 **Type:** Patch (laws_agent Books: clanbook Assamite/Brujah/Gangrel/Setites + Liber des Goules; converter scripts & docs)

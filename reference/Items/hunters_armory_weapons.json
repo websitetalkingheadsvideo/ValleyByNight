@@ -42,7 +42,8 @@
     "origin": "USA",
     "era": "1990 - Present",
     "resources": 2,
-    "special": "Target's Armor -1"
+    "special": "Target's Armor -1",
+    "image": "images/Voss BC medium-frame revolver.jpg"
   },
   {
     "name": "Ruger SP101",
@@ -64,7 +65,8 @@
     "weight": "0.85 kg (1.56 lb)",
     "origin": "USA",
     "era": "1980 - Present",
-    "resources": 2
+    "resources": 2,
+    "image": "images/Ruger SP101.jpg"
   },
   {
     "name": "Beretta Stampede",
@@ -86,7 +88,8 @@
     "weight": "0.68 kg (1.51 lb)",
     "origin": "Italy",
     "era": "1870 - Present",
-    "resources": 2
+    "resources": 2,
+    "image": "images/Beretta Stampede.jpg"
   },
   {
     "name": "Colt 1860 Army",
@@ -108,7 +111,8 @@
     "weight": "1.22 kg (2 lb)",
     "origin": "USA",
     "era": "1860 - 1870",
-    "resources": 2
+    "resources": 2,
+    "image": "images/Civil War percussion revolver.png"
   },
   {
     "name": "Colt Buntline",
@@ -130,7 +134,8 @@
     "weight": "1.28 kg (2.81 lb)",
     "origin": "USA",
     "era": "1950 - 1990",
-    "resources": 3
+    "resources": 3,
+    "image": "images/Colt Buntline Special single-action revolver.png"
   },
   {
     "name": "Colt Anaconda",
@@ -152,7 +157,8 @@
     "weight": "1.70 kg (3.75 lb)",
     "origin": "USA",
     "era": "1990 - 2000",
-    "resources": 3
+    "resources": 3,
+    "image": "images/Colt Anaconda.png"
   },
   {
     "name": "Smith & Wesson M686",
@@ -174,7 +180,8 @@
     "weight": "1.25 Kg (2.75 lb)",
     "origin": "USA",
     "era": "1980 - Present",
-    "resources": 2
+    "resources": 2,
+    "image": "images/Smith & Wesson M686 L-frame double-action revolver.png"
   },
   {
     "name": "Remington M740",
@@ -196,7 +203,8 @@
     "weight": "3.40 kg (7.5 lb)",
     "origin": "USA",
     "era": "1950 - 1960",
-    "resources": 2
+    "resources": 2,
+    "image": "images/Remington M740 Woodsmaster semi-automatic hunting rifle.png"
   },
   {
     "name": "Weatherby Mark V",
@@ -218,7 +226,8 @@
     "weight": "4.53 kg (10 lb)",
     "origin": "USA",
     "era": "1950 - Present",
-    "resources": 3
+    "resources": 3,
+    "image": "images/Weatherby Mark V bolt-action rifle.png"
   },
   {
     "name": "Beretta ARX160",
