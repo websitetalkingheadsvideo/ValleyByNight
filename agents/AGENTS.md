@@ -59,6 +59,7 @@ require_once __DIR__ . '/../../includes/connect.php';
 - **laws_agent**: Legal system with MCP server (Node.js)
 - **map_agent**: Interactive map display
 - **style_agent**: Style guide and documentation
+- **harpy_agent**: Harpy role/position data (Camarilla social-political)
 
 ### Naming Conventions
 - **Display Files**: `<agent>_display.php` or `api_view_<resource>.php`
@@ -199,6 +200,10 @@ Recovery should be difficult but possible, enabling long-form narrative arcs.
 - **Display**: `agents/discipline_agent/src/discipline_display.php`
 - **Tests**: `agents/discipline_agent/tests/`
 
+#### Harpy Agent
+- **Entry**: `agents/harpy_agent/harpy.json` (data file: role, responsibilities, behavioral guidelines)
+- **Purpose**: Harpy position definition for Camarilla social/political agents
+
 #### Boon Agent
 - **Entry**: `agents/boon_agent/viewer.php`
 - **API**: `agents/boon_agent/api_get_boon_report.php`
@@ -213,6 +218,7 @@ Each agent has its own README.md with specific documentation:
 - `agents/paths_agent/README.md`
 - `agents/rituals_agent/README.md`
 - `agents/style_agent/README.md`
+- `agents/harpy_agent/README.md`
 
 ## JIT Index Hints
 

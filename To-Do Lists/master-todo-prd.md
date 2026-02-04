@@ -503,4 +503,15 @@ The following tasks are identified as critical blockers that must be completed b
 ## Character Data Quality Blockers
 12. **Missing Histories Fix**: Required for accurate character summaries. Blocks proper character data display and agent processing until JOIN issues and column reading are resolved.
 
+## Camarilla Positions Descriptions
+
+- [ ] **Prince** – Create position description (e.g. `prince.json`) with overview, primary functions, why the role matters, and relationship to court. Harpy is the reference format (`agents/positions_agent/harpy.json`).
+- [ ] **Seneschal** – Create position description (e.g. `seneschal.json`) with overview, duties as second-in-command, administration scope, and when they act in the Prince’s stead.
+- [ ] **Sheriff** – Create position description (e.g. `sheriff.json`) with overview, enforcement role, domain security, and limits of authority.
+- [ ] **Scourge** – Create position description (e.g. `scourge.json`) with overview, Masquerade/threat response, and difference from Sheriff.
+- [ ] **Keeper of Elysium** – Create position description (e.g. `keeper_of_elysium.json`) with overview, Elysium rules, upkeep, and neutrality.
+- [ ] **Primogen** – Create position description (e.g. `primogen.json`) for the Primogen role (clan representative on council); can be one description used for all clans.
+- [ ] **Talon** – Create position description (e.g. `talon.json`) with overview, relationship to Harpy, and typical duties (Lesser Harpy / assistant).
+- [ ] **Whip** – Create position description (e.g. `whip.json`) with overview, clan enforcement role, and relationship to Primogen.
+
 </PRD>
