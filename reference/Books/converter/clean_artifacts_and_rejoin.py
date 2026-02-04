@@ -34,7 +34,7 @@ COMMON_PATTERNS: list[str] = [
     r"^Animal$",
     r"^be\s+r\s+Li\s+Credits",
     r"^,AnPIe\d+\.$",
-    r"^\d+T[\'"]?\s+[A-Z][a-z]+\s+ag[A-Z]+\s+[a-z]$",
+    r"^\d+T[\'\"]?\s+[A-Z][a-z]+\s+ag[A-Z]+\s+[a-z]$",
     r"^L\s+f\s+[iI]\d+$",
     r"^[liI1]+\s*/\s*[liI1\s]+$",
     r"^if$",
@@ -51,7 +51,7 @@ COMMON_PATTERNS: list[str] = [
     r"^\d+\s+[Ii1 ]+$",
     r"^I\s+L~\d+\s+~er\s+\d+",
     r"^[LIOC]\d+wp\d+er\s+\d+\.",
-    r"^O\s+[\"']PI,\s+\d+\s+w[\'"]ir",
+    r"^O\s+[\"\']PI,\s+\d+\s+w[\'\"]ir",
     r"^∎+$",
 ]
 
@@ -151,6 +151,81 @@ def clean_and_rejoin(
 
     result = "\n".join(result_lines)
     result = re.sub(r"\n\n\n+", "\n\n", result)
+    
+    print("Step 3: Removing inline artifacts...")
+    # Fix artifacts WITHIN text (not just whole lines)
+    inline_fixes = [
+        # Spaced out letters
+        (r'C\s+l\s+a\s+n\s+B\s+o\s+o\s+K\s*:?', 'Clanbook:'),
+        (r'C\s+o\s*:', 'Chapter:'),
+        # Common fragments
+        (r'\bt\s+C\s+w\s+', ''),
+        (r'\ba\s+the\s+d?versary\b', ''),
+        (r'\bhe\s+e[A-Z][a-z]+\s+[a-zA-Z]+\s+[oO][a-zA-Z]+\b', ''),
+        (r'\bt\s+s\s+C\b', ''),
+        (r'\bC\s+s\s+t\b', ''),
+        # Page footers
+        (r'Clanbook:\s+[a-z]+\s+\d+', ''),
+        (r'Chapter\s+[a-z]+:\s+[a-z\s]+\d+$', ''),
+    ]
+    
+    inline_removed = 0
+    for pattern, replacement in inline_fixes:
+        before_len = len(result)
+        result = re.sub(pattern, replacement, result, flags=re.MULTILINE)
+        inline_removed += before_len - len(result)
+    
+    # Clean up extra spaces
+    result = re.sub(r' +', ' ', result)
+    result = re.sub(r'\n\n\n+', '\n\n', result)
+    
+    print(f"  Removed ~{inline_removed} characters of inline artifacts")
+    
+    print("Step 4: Fixing split words...")
+    # Fix hyphenated words that got split across lines
+    # Pattern: word + space + ending
+    word_ending_patterns = [
+        # -ing words
+        (r'\b([a-z]{3,})([bcdfghjklmnpqrstvwxz])\s+(ing)\b', r'\1\2\3'),
+        # -tion, -sion
+        (r'\b([a-z]{3,})\s+(tion|sion)\b', r'\1\2'),
+        # -ment
+        (r'\b([a-z]{3,})\s+(ment)\b', r'\1\2'),
+        # -ly
+        (r'\b([a-z]{3,})([bcdfghjklmnpqrstvwxyz])\s+(ly)\b', r'\1\2\3'),
+        # -ed
+        (r'\b([a-z]{3,})([bcdfghjklmnpqrstvwxyz])\s+(ed)\b', r'\1\2\3'),
+        # -er, -or
+        (r'\b([a-z]{3,})([bcdfghjklmnpqrstvwxyz])\s+(er|or)\b', r'\1\2\3'),
+        # -able, -ible
+        (r'\b([a-z]{3,})\s+(able|ible)\b', r'\1\2'),
+        # -ness
+        (r'\b([a-z]{3,})\s+(ness)\b', r'\1\2'),
+        # -less, -ful
+        (r'\b([a-z]{3,})\s+(less|ful)\b', r'\1\2'),
+        # -ous, -ious
+        (r'\b([a-z]{3,})\s+(ous|ious)\b', r'\1\2'),
+        # -ive, -ative
+        (r'\b([a-z]{3,})\s+(ive|ative)\b', r'\1\2'),
+        # -al, -ial
+        (r'\b([a-z]{3,})\s+(al|ial)\b', r'\1\2'),
+        # -ry, -ty, -cy
+        (r'\b([a-z]{3,})\s+(ry|ty|cy)\b', r'\1\2'),
+        # Common splits mid-word
+        (r'\b([a-z]{3,})\s+([a-z]{2,5})ly\b', r'\1\2ly'),
+        (r'\b([a-z]{3,})\s+([a-z]{2,5})tion\b', r'\1\2tion'),
+    ]
+    
+    splits_fixed = 0
+    for pattern, replacement in word_ending_patterns:
+        before_len = len(result)
+        result = re.sub(pattern, replacement, result, flags=re.IGNORECASE)
+        splits_fixed += (before_len - len(result))
+    
+    # Final cleanup
+    result = re.sub(r' +', ' ', result)
+    
+    print(f"  Fixed ~{splits_fixed} characters of split words")
 
     Path(output_file).parent.mkdir(parents=True, exist_ok=True)
     with open(output_file, "w", encoding="utf-8") as f:
