@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.92
+## Current Version: 0.9.93
+
+**Date:** 2026-02-05  
+**Type:** Patch (laws_agent: LotNR.json in Books; Supabase lore_embeddings dedupe + verify scripts; import_rag_json trimmed)
+
+## Previous Version: 0.9.92
 
 **Date:** 2026-02-05  
 **Type:** Patch (laws_agent Books: OCR artifact fixes in RAG JSON; fix_ocr_artifacts.py; import_rag_json, lotn_setup, search_rulebooks; Books cleanup)
