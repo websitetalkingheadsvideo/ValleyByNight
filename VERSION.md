@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.95
+## Current Version: 0.9.96
+
+**Date:** 2026-02-05  
+**Type:** Patch (git sync: stage and push all working tree files; add test_supabase_curl.php)
+
+## Previous Version: 0.9.95
 
 **Date:** 2026-02-05  
 **Type:** Patch (laws_agent: browser import_books.php; batch document/embedding inserts; derive book metadata from JSON; Import books link + README note)
