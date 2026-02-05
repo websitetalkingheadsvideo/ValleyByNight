@@ -51,5 +51,6 @@ rag/index/concept_index.json
 tmp/
 tmp_ocr_images/
 __pycache__/
+agents/laws_agent/lotn_rag_db/
 *.pyc
 *.pyo

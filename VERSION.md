@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.90
+## Current Version: 0.9.91
+
+**Date:** 2026-02-04  
+**Type:** Patch (laws_agent: migration, diagnostic, test scripts; reference Books 020426, Clanbooks list; ignore lotn_rag_db)
+
+## Previous Version: 0.9.90
 
 **Date:** 2026-02-04  
 **Type:** Patch (laws_agent Books: clanbook RAG/final text added to git; hunter armory weapon images; hunters_armory_weapons.json image fields)
