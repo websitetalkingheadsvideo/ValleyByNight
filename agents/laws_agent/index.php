@@ -521,6 +521,8 @@ require_once __DIR__ . '/../../includes/header.php';
 let conversationHistory = [];
 let sessionId = 'New';
 
+const ASK_TIMEOUT_MS = 120000;
+
 // Check system status on load
 checkStatus();
 
@@ -574,9 +576,28 @@ function askQuestion(predefinedQuestion = null) {
     }
     
     const requestStart = Date.now();
-    
-    fetch(url)
-        .then(response => response.json())
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), ASK_TIMEOUT_MS);
+
+    fetch(url, { signal: controller.signal })
+        .then(response => response.text().then(text => ({ response, text })))
+        .then(({ response, text }) => {
+            clearTimeout(timeoutId);
+            if (!text || !text.trim()) {
+                if (response.status === 500) {
+                    throw new Error('Server error (500). Check server logs.');
+                }
+                if (response.status === 504) {
+                    throw new Error('Gateway timeout (504). The server took too long to respond.');
+                }
+                throw new Error('Server returned an empty response (status ' + (response.status || '') + '). Check server logs.');
+            }
+            try {
+                return JSON.parse(text);
+            } catch (e) {
+                throw new Error('Server did not return valid JSON (status ' + response.status + '). Response may be an error page.');
+            }
+        })
         .then(data => {
             removeMessage(thinkingId);
             
@@ -626,8 +647,12 @@ function askQuestion(predefinedQuestion = null) {
             }
         })
         .catch(error => {
+            clearTimeout(timeoutId);
             removeMessage(thinkingId);
-            addMessage('assistant', `<div class="error-message">⚠️ Connection error: ${escapeHtml(error.message)}</div>`);
+            const msg = error.name === 'AbortError'
+                ? 'Request timed out after ' + (ASK_TIMEOUT_MS / 1000) + ' seconds.'
+                : error.message;
+            addMessage('assistant', `<div class="error-message">⚠️ ${escapeHtml(msg)}</div>`);
         })
         .finally(() => {
             setInputEnabled(true);
@@ -712,7 +737,11 @@ function resetSession() {
     }
     
     fetch('api.php?action=reset_session')
-        .then(response => response.json())
+        .then(response => response.text())
+        .then(text => {
+            if (!text || !text.trim()) return { success: false };
+            try { return JSON.parse(text); } catch (e) { return { success: false }; }
+        })
         .then(data => {
             if (data.success) {
                 conversationHistory = [];

@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.93
+## Current Version: 0.9.94
+
+**Date:** 2026-02-05  
+**Type:** Patch (laws_agent: API fetch error handling—parse response as text before JSON; client timeout with AbortController; distinct messages for 500, 504, timeout)
+
+## Previous Version: 0.9.93
 
 **Date:** 2026-02-05  
 **Type:** Patch (laws_agent: LotNR.json in Books; Supabase lore_embeddings dedupe + verify scripts; import_rag_json trimmed)
