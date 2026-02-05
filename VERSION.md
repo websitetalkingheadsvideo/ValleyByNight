@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.94
+## Current Version: 0.9.95
+
+**Date:** 2026-02-05  
+**Type:** Patch (laws_agent: browser import_books.php; batch document/embedding inserts; derive book metadata from JSON; Import books link + README note)
+
+## Previous Version: 0.9.94
 
 **Date:** 2026-02-05  
 **Type:** Patch (laws_agent: API fetch error handling—parse response as text before JSON; client timeout with AbortController; distinct messages for 500, 504, timeout)

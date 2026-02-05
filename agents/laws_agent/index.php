@@ -444,6 +444,7 @@ require_once __DIR__ . '/../../includes/header.php';
                 <span id="statusText">Checking systems...</span>
             </div>
             <div>
+                <a href="import_books.php" style="color: #8b0000; margin-right: 12px;">Import books</a>
                 <span style="color: #666;">Session:</span>
                 <span style="color: #8b0000;" id="sessionId">New</span>
             </div>
