@@ -36,10 +36,10 @@ Do the following as a single workflow:
      - Deleted/renamed
 
 4. **Stage changes**
-   - Stage all appropriate files for commit with `git add -A`.
-   - Do not stage build artifacts, caches, or other files that are clearly ignored
-     by project conventions (e.g. `node_modules`, `dist`, `.idea`, etc.).
-   - After staging, verify with `git diff --cached --stat`.
+   - **Always use `git add -A`** so every new and modified file is staged. Do not cherry-pick paths; never leave created or modified files unstaged.
+   - If a file is new (untracked), it must be added to the commit. Do not leave it out.
+   - Only exclude what is in `.gitignore` or clearly not versioned (e.g. build artifacts, caches). If in doubt, stage it.
+   - After staging, verify with `git diff --cached --stat`. Resolve any push-blocking issues (e.g. secrets in code → use env vars) before pushing.
 
 5. **Create commit**
    - If there are **no staged changes**, stop here and:
