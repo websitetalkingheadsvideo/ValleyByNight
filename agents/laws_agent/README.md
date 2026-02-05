@@ -100,6 +100,15 @@ Step 4: Importing documents and generating embeddings...
   📊 Average: 4.21 docs/sec
 ```
 
+#### Import more books (browser)
+
+When you have more RAG JSON books ready in `Books/`, run the browser importer to load (or update) all of them in one go:
+
+- **URL:** http://192.168.0.155/agents/laws_agent/import_books.php
+- **When:** After adding or updating `.json` files in `agents/laws_agent/Books/`
+- **How:** Log in (same session as Laws Agent), open the URL, wait for the page to finish. It scans `Books/` for `*.json` (skips `backups/`), derives book metadata from each file, and imports documents + embeddings. Existing books (same `book_code`) are updated.
+- **Link:** The Laws Agent index page has an "Import books" link in the status bar that goes to this URL.
+
 ### Step 3: Deploy Files
 
 Copy the files to your agents folder:

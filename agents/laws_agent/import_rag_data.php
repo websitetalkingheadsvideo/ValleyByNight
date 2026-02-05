@@ -104,6 +104,36 @@ function encode_embedding($embedding) {
 }
 
 /**
+ * Derive book metadata from documents array and filename.
+ * Uses first document's metadata.source and metadata.book_code when present.
+ */
+function derive_book_info(array $documents, string $json_file) {
+    $base = $documents[0]['metadata'] ?? [];
+    $name = $base['source'] ?? basename($json_file, '.json');
+    $code = $base['book_code'] ?? null;
+    if ($code === null || $code === '') {
+        $stem = basename($json_file, '.json');
+        $stem = preg_replace('/_rag(_final|_v2)?$/i', '', $stem);
+        $code = strtoupper(preg_replace('/[^a-z0-9]+/i', '_', trim($stem, '_')));
+    }
+    $max_page = 0;
+    foreach ($documents as $doc) {
+        if (isset($doc['page']) && $doc['page'] > $max_page) {
+            $max_page = (int) $doc['page'];
+        }
+    }
+    return [
+        'book_name' => $name,
+        'book_code' => $code,
+        'source' => $name,
+        'category' => 'Core',
+        'system' => 'MET-VTM',
+        'total_pages' => $max_page,
+        'total_chunks' => count($documents)
+    ];
+}
+
+/**
  * Main import function
  */
 function import_json_data($json_file, $conn, $api_key) {
@@ -126,25 +156,10 @@ function import_json_data($json_file, $conn, $api_key) {
     
     echo "  ✓ Loaded " . count($documents) . " documents\n\n";
     
-    // Step 2: Extract book information
+    // Step 2: Extract book information from JSON metadata (and filename)
     echo "Step 2: Processing book metadata...\n";
     
-    $book_info = [
-        'book_name' => 'Laws of the Night - Vampire the Masquerade',
-        'book_code' => 'LOTN-VTM',
-        'source' => $documents[0]['metadata']['source'] ?? 'Unknown',
-        'category' => 'Core',
-        'system' => 'MET-VTM',
-        'total_pages' => 0,
-        'total_chunks' => count($documents)
-    ];
-    
-    // Find max page number
-    foreach ($documents as $doc) {
-        if ($doc['page'] > $book_info['total_pages']) {
-            $book_info['total_pages'] = $doc['page'];
-        }
-    }
+    $book_info = derive_book_info($documents, $json_file);
     
     echo "  Book: {$book_info['book_name']}\n";
     echo "  Code: {$book_info['book_code']}\n";
@@ -301,14 +316,31 @@ if (php_sapi_name() !== 'cli') {
     die("This script must be run from the command line.\n");
 }
 
-$json_file = $argv[1] ?? null;
+$input = $argv[1] ?? null;
 
-if (!$json_file) {
-    echo "Usage: php import_rag_data.php <path_to_json_file>\n";
-    echo "Example: php import_rag_data.php ./rag_documents.json\n";
+if (!$input) {
+    echo "Usage: php import_rag_data.php <path_to_json_file|path_to_Books_directory>\n";
+    echo "  Single file: php import_rag_data.php ./rag_documents.json\n";
+    echo "  All books:   php import_rag_data.php " . __DIR__ . "/Books\n";
     exit(1);
 }
 
-import_json_data($json_file, $conn, $anthropic_api_key);
+if (is_dir($input)) {
+    $files = glob(rtrim($input, DIRECTORY_SEPARATOR) . DIRECTORY_SEPARATOR . '*.json');
+    $files = array_filter($files, static function ($path) {
+        return strpos($path, 'backups' . DIRECTORY_SEPARATOR) === false;
+    });
+    sort($files);
+    $total = count($files);
+    echo "Batch import: found $total JSON file(s) in $input\n\n";
+    foreach ($files as $i => $json_file) {
+        echo "\n[" . ($i + 1) . "/$total] " . basename($json_file) . "\n";
+        import_json_data($json_file, $conn, $anthropic_api_key);
+    }
+    echo "\nBatch import complete. " . $total . " book(s) imported.\n";
+} else {
+    import_json_data($input, $conn, $anthropic_api_key);
+}
+
 $conn->close();
 ?>
