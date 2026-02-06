@@ -613,13 +613,15 @@ function askQuestion(predefinedQuestion = null) {
                     answer += `<span class="model-badge ${modelClass}">${modelName}</span>`;
                 }
                 
-                // Add sources
+                // Add sources (store by ref so onclick avoids broken quotes in excerpt/book)
                 if (data.sources && data.sources.length > 0) {
+                    window._sourcesStore = window._sourcesStore || [];
+                    const storeIndex = window._sourcesStore.length;
+                    window._sourcesStore.push(data.sources);
                     answer += '<div class="sources">';
                     answer += '<span class="sources-title">📚 Sources: </span>';
                     const sourceLinks = data.sources.map((source, index) => {
-                        const sourceData = JSON.stringify(source).replace(/"/g, '&quot;');
-                        return `<span class="source-link" onclick='viewSource(${sourceData})'>${escapeHtml(source.book)} (p.${source.page})</span>`;
+                        return `<span class="source-link" data-store="${storeIndex}" data-index="${index}" onclick="viewSourceByRef(this)">${escapeHtml(source.book)} (p.${source.page})</span>`;
                     });
                     answer += sourceLinks.join(', ');
                     answer += '</div>';
@@ -702,24 +704,31 @@ function setInputEnabled(enabled) {
     button.textContent = enabled ? 'Ask' : 'Thinking...';
 }
 
+function viewSourceByRef(el) {
+    const storeIndex = parseInt(el.getAttribute('data-store'), 10);
+    const index = parseInt(el.getAttribute('data-index'), 10);
+    if (isNaN(storeIndex) || isNaN(index) || !window._sourcesStore || !window._sourcesStore[storeIndex]) return;
+    const source = window._sourcesStore[storeIndex][index];
+    if (!source) return;
+    viewSource(source);
+}
+
 function viewSource(source) {
     const modal = document.getElementById('sourceModal');
     const content = document.getElementById('modalContent');
     
-    const metadata = JSON.parse(source.metadata || '{}');
-    
     content.innerHTML = `
         <h2 style="color: #8b0000; margin-top: 0;">${escapeHtml(source.book)}</h2>
         <div style="margin-bottom: 20px; padding-bottom: 20px; border-bottom: 1px solid #444;">
-            <strong>Page:</strong> ${source.page}<br>
-            <strong>Type:</strong> ${escapeHtml(source.content_type)}<br>
-            <strong>Category:</strong> ${escapeHtml(source.category)}<br>
-            <strong>System:</strong> ${escapeHtml(source.system)}<br>
-            <strong>Relevance:</strong> ${(source.score * 100).toFixed(1)}%
+            <strong>Page:</strong> ${escapeHtml(String(source.page))}<br>
+            <strong>Type:</strong> ${escapeHtml(source.content_type || '')}<br>
+            <strong>Category:</strong> ${escapeHtml(source.category || '')}<br>
+            <strong>System:</strong> ${escapeHtml(source.system || '')}<br>
+            <strong>Relevance:</strong> ${(source.score != null ? (source.score * 100).toFixed(1) : '—')}%
         </div>
         <div style="line-height: 1.8;">
             <strong style="color: #8b0000;">Excerpt:</strong><br>
-            ${escapeHtml(source.excerpt)}
+            ${escapeHtml(source.excerpt || '')}
         </div>
     `;
     

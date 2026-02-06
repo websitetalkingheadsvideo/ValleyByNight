@@ -54,20 +54,25 @@ if ($action === 'ask') {
         
         // Step 2: Prepare book filters
         $book_filters = [];
+        $is_discipline_question = (bool) preg_match('/disciplines?/', strtolower($question));
+        $mentioned_clans = get_mentioned_clans($question);
+        $is_follow_up = !empty(get_conversation_history($conn, $session_id, 1));
+
         if (!empty($book_filter) && $book_filter !== 'all') {
             $book_filters = [$book_filter];
-        } else {
-            $clan_filters = get_clan_book_filters($conn, $question);
-            if (!empty($clan_filters)) {
-                $book_filters = $clan_filters;
-            }
+        } elseif (!empty($mentioned_clans)) {
+            $book_filters = get_clan_book_filters($conn, $question);
+        } elseif ($is_discipline_question && !$is_follow_up) {
+            // First discipline-only question in this chat: core (LotNR) only
+            $book_filters = get_core_book_codes($conn);
         }
-        
+        // Follow-up discipline question (no clan): $book_filters stays [] = search all books
+
         // Step 3: Perform hybrid search (more chunks for better recall)
         $rag_chunk_limit = 6;
         $rag_chunk_max_chars = 750;
+        $rag_sources_display_limit = 12;
         $keyword_query = $question;
-        $is_discipline_question = (bool) preg_match('/disciplines?/', strtolower($question));
         if ($is_discipline_question) {
             $keyword_query .= ' discipline disciplines Auspex Celerity Presence Dominate Fortitude Potence';
         }
@@ -98,13 +103,16 @@ if ($action === 'ask') {
                         return $b_has <=> $a_has;
                     });
                 }
-                $search_results = array_slice($merged, 0, $rag_chunk_limit);
-                $remaining = $rag_chunk_limit - count($search_results);
-                if ($remaining > 0 && !empty($other_relevant)) {
-                    $search_results = array_merge($search_results, array_slice(array_values($other_relevant), 0, $remaining));
-                }
+                $merged_slice = array_slice($merged, 0, $rag_sources_display_limit);
+                $remaining = $rag_sources_display_limit - count($merged_slice);
+                $search_results = !empty($other_relevant)
+                    ? array_merge($merged_slice, array_slice(array_values($other_relevant), 0, $remaining))
+                    : $merged_slice;
             }
         }
+
+        $results_for_context = array_slice($search_results, 0, $rag_chunk_limit);
+        $results_for_sources = array_slice($search_results, 0, $rag_sources_display_limit);
 
         if (empty($search_results)) {
             echo json_encode([
@@ -117,12 +125,22 @@ if ($action === 'ask') {
         }
         error_log("Pages retrieved: " . implode(", ", array_map(function($r) { 
             return $r['page']; 
-        }, $search_results)));
-        // Step 4: Build context from search results
+        }, $results_for_context)));
+        // Step 4: Build context from top N results; attach more sources for popups
         $context = "";
         $sources = [];
         
-        foreach ($search_results as $i => $result) {
+        $max_score = 0.0;
+        foreach ($results_for_sources as $result) {
+            if (isset($result['search_score']) && $result['search_score'] > $max_score) {
+                $max_score = $result['search_score'];
+            }
+        }
+        if ($max_score <= 0) {
+            $max_score = 1.0;
+        }
+
+        foreach ($results_for_context as $i => $result) {
             $content = strlen($result['content']) > $rag_chunk_max_chars
                 ? substr($result['content'], 0, $rag_chunk_max_chars) . '...'
                 : $result['content'];
@@ -130,9 +148,33 @@ if ($action === 'ask') {
             $context .= "Book: " . $result['book_name'] . "\n";
             $context .= "Page: " . $result['page'] . "\n";
             $context .= "Content:\n" . $content . "\n";
-            
-            $metadata = json_decode($result['metadata'], true);
-            
+        }
+
+        $seen_source_key = [];
+        $excerpt_len = 550;
+        foreach ($results_for_sources as $result) {
+            $doc_key = $result['id'] ?? $result['document_id'] ?? '';
+            $key = $doc_key . '|' . ($result['book_code'] ?? '') . '|' . ($result['page'] ?? '');
+            if ($key !== '' && isset($seen_source_key[$key])) {
+                continue;
+            }
+            if ($key !== '') {
+                $seen_source_key[$key] = true;
+            }
+            $raw_score = (float) ($result['search_score'] ?? 0);
+            $score_display = round($raw_score / $max_score, 3);
+            $content = $result['content'];
+            if (strlen($content) <= $excerpt_len) {
+                $excerpt = $content;
+            } else {
+                $excerpt = substr($content, 0, $excerpt_len);
+                $last_period = strrpos($excerpt, '.');
+                if ($last_period !== false && $last_period > (int)($excerpt_len / 2)) {
+                    $excerpt = substr($content, 0, $last_period + 1);
+                } else {
+                    $excerpt .= '...';
+                }
+            }
             $sources[] = [
                 'book' => $result['book_name'],
                 'book_code' => $result['book_code'],
@@ -140,8 +182,8 @@ if ($action === 'ask') {
                 'content_type' => $result['content_type'],
                 'category' => $result['category'],
                 'system' => $result['system'],
-                'excerpt' => substr($result['content'], 0, 200) . '...',
-                'score' => round($result['search_score'], 3)
+                'excerpt' => $excerpt,
+                'score' => $score_display
             ];
         }
 
