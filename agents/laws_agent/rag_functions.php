@@ -513,6 +513,42 @@ function get_core_book_codes($conn): array {
 }
 
 /**
+ * Fetch LotNR doc_11: the chunk that lists the Six Traditions with short explanations.
+ * Returns ['content' => string for context, 'source' => array for sources list] or ['content' => '', 'source' => null] if not found.
+ */
+function get_traditions_document($conn): array {
+    $core_codes = get_core_book_codes($conn);
+    $placeholders = implode(',', array_fill(0, count($core_codes), '?'));
+    $types = str_repeat('s', count($core_codes));
+    $params = array_merge($core_codes, ['doc_11']);
+    $row = db_fetch_one($conn,
+        "SELECT d.content, d.page, b.book_name, b.book_code FROM rag_documents d
+         JOIN rag_books b ON d.book_id = b.id
+         WHERE b.book_code IN ($placeholders) AND d.doc_id = ?
+         LIMIT 1",
+        $types . 's',
+        $params
+    );
+    if (empty($row) || empty($row['content'])) {
+        return ['content' => '', 'source' => null];
+    }
+    $content = "\n\n--- CANONICAL: The Camarilla Six Traditions (from " . $row['book_name'] . ", page " . $row['page'] . ", doc_11) ---\n"
+        . $row['content'] . "\n";
+    $excerpt = strlen($row['content']) > 550 ? substr($row['content'], 0, 550) . '...' : $row['content'];
+    $source = [
+        'book' => $row['book_name'],
+        'book_code' => $row['book_code'],
+        'page' => (string) $row['page'],
+        'content_type' => 'general',
+        'category' => '',
+        'system' => '',
+        'excerpt' => $excerpt,
+        'score' => 1.0
+    ];
+    return ['content' => $content, 'source' => $source];
+}
+
+/**
  * Detect clan name in question and return matching book codes for filtering.
  * Includes clanbook(s) plus core book (LotNR). When user asks "Toreador disciplines",
  * search LotNR + Toreador clanbook.
@@ -545,6 +581,70 @@ function get_clan_book_filters($conn, string $question): array {
         }, $mentioned);
     }
     return array_unique(array_merge(get_core_book_codes($conn), $codes));
+}
+
+/**
+ * Detect if the question is about the Camarilla Six Traditions (list, what are they, etc.).
+ * Used to restrict retrieval to core book and prepend canonical Traditions context.
+ */
+function is_traditions_question(string $question): bool {
+    $q = strtolower($question);
+    $patterns = [
+        '/camarilla\s+tradition/s',
+        '/six\s+tradition/s',
+        '/the\s+tradition/s',
+        '/what\s+are\s+(the\s+)?tradition/s',
+        '/list\s+(the\s+)?tradition/s',
+        '/name\s+(the\s+)?tradition/s',
+        '/tradition[s]?\s+of\s+the\s+camarilla/',
+    ];
+    foreach ($patterns as $p) {
+        if (preg_match($p, $q)) {
+            return true;
+        }
+    }
+    return false;
+}
+
+/**
+ * Load only the Six Traditions files (01–06) from knowledge-base for Traditions questions.
+ * Prepended to context so the model has the canonical list first. Max chars applies to total.
+ */
+function load_traditions_knowledge_base(string $base_dir, int $max_chars = 4000): string {
+    if (!is_dir($base_dir)) {
+        return '';
+    }
+    $tradition_files = [
+        '01_masquerade.md',
+        '02_domain.md',
+        '03_progeny.md',
+        '04_accounting.md',
+        '05_hospitality.md',
+        '06_destruction.md',
+    ];
+    $out = "\n\n--- CANONICAL: The Camarilla Six Traditions (Laws of the Night Revised) ---\n";
+    $out .= "The Six Traditions are: 1. The Masquerade 2. Domain 3. Progeny 4. Accounting 5. Hospitality 6. Destruction.\n\n";
+    $len = strlen($out);
+    foreach ($tradition_files as $name) {
+        if ($len >= $max_chars) {
+            break;
+        }
+        $path = $base_dir . DIRECTORY_SEPARATOR . $name;
+        if (!is_file($path)) {
+            continue;
+        }
+        $raw = @file_get_contents($path);
+        if ($raw === false || $raw === '') {
+            continue;
+        }
+        $chunk = "\n[{$name}]\n" . $raw;
+        if ($len + strlen($chunk) > $max_chars) {
+            $chunk = substr($chunk, 0, $max_chars - $len) . '...';
+        }
+        $out .= $chunk;
+        $len = strlen($out);
+    }
+    return $out;
 }
 
 /** Clan names for detection in questions. */

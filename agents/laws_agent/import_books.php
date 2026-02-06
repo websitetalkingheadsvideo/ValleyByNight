@@ -6,6 +6,30 @@ session_start();
 require_once __DIR__ . '/../../includes/connect.php';
 require_once __DIR__ . '/rag_functions.php';
 
+// CLI: run import only (no session), then exit
+if (php_sapi_name() === 'cli') {
+    set_time_limit(0);
+    ini_set('memory_limit', '512M');
+    $books_dir = __DIR__ . '/Books';
+    $files = glob($books_dir . '/*.json');
+    $files = array_filter($files, static function ($path) {
+        return strpos($path, DIRECTORY_SEPARATOR . 'backups' . DIRECTORY_SEPARATOR) === false;
+    });
+    sort($files);
+    $total = count($files);
+    echo "Importing {$total} book(s) from Books/\n";
+    foreach ($files as $i => $json_file) {
+        $num = $i + 1;
+        echo "[$num/$total] " . basename($json_file) . " … ";
+        $result = import_one_book($json_file, $conn, null);
+        echo $result['ok'] ? "OK " . $result['message'] : "ERROR " . $result['message'];
+        echo "\n";
+    }
+    echo "Done.\n";
+    $conn->close();
+    exit(0);
+}
+
 if (!isset($_SESSION['user_id'])) {
     header('Location: /login.php');
     exit;
@@ -80,7 +104,7 @@ function import_one_book(string $json_file, mysqli $conn, ?callable $on_progress
     if ($existing) {
         $book_id = $existing['id'];
         db_execute($conn,
-            'UPDATE rag_books SET book_name = ?, source = ?, category = ?, system = ?, total_pages = ?, total_chunks = ? WHERE id = ?',
+            'UPDATE rag_books SET book_name = ?, source = ?, category = ?, `system` = ?, total_pages = ?, total_chunks = ? WHERE id = ?',
             'sssssii',
             [
                 $book_info['book_name'],
