@@ -28,8 +28,9 @@ $action = $_GET['action'] ?? '';
  * Handle Ask Question
  */
 if ($action === 'ask') {
+    set_time_limit(220);  // LM Studio curl 210s + DB + JSON; server may still have its own timeout
     $start_time = microtime(true);
-    
+
     // Get parameters
     $question = trim($_GET['question'] ?? '');
     $book_filter = $_GET['book'] ?? '';
@@ -57,9 +58,26 @@ if ($action === 'ask') {
             $book_filters = [$book_filter];
         }
         
-        // Step 3: Perform hybrid search
-        $search_results = hybrid_search($conn, $question, $query_embedding, $book_filters, 7);
-        
+        // Step 3: Perform hybrid search (more chunks for better recall)
+        $rag_chunk_limit = 6;
+        $rag_chunk_max_chars = 750;
+        $keyword_query = $question;
+        if (preg_match('/disciplines?/', strtolower($question))) {
+            $keyword_query .= ' discipline disciplines';
+        }
+        $search_results = hybrid_search($conn, $keyword_query, $query_embedding, $book_filters, $rag_chunk_limit);
+
+        // When question is about disciplines, prefer chunks that actually mention discipline(s)
+        if (preg_match('/disciplines?/', strtolower($question))) {
+            $discipline_chunks = array_filter($search_results, function ($r) {
+                $c = strtolower($r['content']);
+                return (strpos($c, 'discipline') !== false || strpos($c, 'disciplines') !== false);
+            });
+            if (!empty($discipline_chunks)) {
+                $search_results = array_values(array_slice($discipline_chunks, 0, $rag_chunk_limit));
+            }
+        }
+
         if (empty($search_results)) {
             echo json_encode([
                 'success' => true,
@@ -77,10 +95,13 @@ if ($action === 'ask') {
         $sources = [];
         
         foreach ($search_results as $i => $result) {
+            $content = strlen($result['content']) > $rag_chunk_max_chars
+                ? substr($result['content'], 0, $rag_chunk_max_chars) . '...'
+                : $result['content'];
             $context .= "\n\n--- Source " . ($i + 1) . " ---\n";
             $context .= "Book: " . $result['book_name'] . "\n";
             $context .= "Page: " . $result['page'] . "\n";
-            $context .= "Content:\n" . $result['content'] . "\n";
+            $context .= "Content:\n" . $content . "\n";
             
             $metadata = json_decode($result['metadata'], true);
             
@@ -95,32 +116,36 @@ if ($action === 'ask') {
                 'score' => round($result['search_score'], 3)
             ];
         }
-        
+
+        $context .= load_knowledge_base(__DIR__ . '/knowledge-base', 2500);
+
         // Step 5: Get conversation history
         $conversation_history = get_conversation_history($conn, $session_id, 3);
         $conversation_history = array_reverse($conversation_history); // Oldest first
         
         // Step 6: Query AI (try LM Studio first, fallback to Claude)
         $ai_response = query_lm_studio($question, $context, $conversation_history);
-        
+        $lm_studio_error = (!$ai_response['success']) ? ($ai_response['error'] ?? 'unknown') : null;
+
         if (!$ai_response['success']) {
             // Fallback to Claude
             $anthropic_api_key = getenv('ANTHROPIC_API_KEY');
-            
+
             if (!$anthropic_api_key) {
                 echo json_encode([
                     'success' => false,
-                    'error' => 'LM Studio unavailable and no Claude API key configured'
+                    'error' => 'LM Studio unavailable and no Claude API key configured. LM Studio: ' . ($lm_studio_error ?? 'unknown')
                 ]);
                 exit;
             }
-            
+
             $ai_response = query_claude($question, $context, $conversation_history, $anthropic_api_key);
-            
+
             if (!$ai_response['success']) {
+                $claude_err = $ai_response['error'] ?? 'unknown';
                 echo json_encode([
                     'success' => false,
-                    'error' => 'Both LM Studio and Claude failed: ' . $ai_response['error']
+                    'error' => 'LM Studio: ' . ($lm_studio_error ?? 'unknown') . '; Claude: ' . $claude_err
                 ]);
                 exit;
             }
@@ -128,21 +153,32 @@ if ($action === 'ask') {
         
         $answer = $ai_response['answer'];
         $model = $ai_response['model'];
-        
-        // Step 7: Save conversation
         $response_time = (int)((microtime(true) - $start_time) * 1000);
-        if ($ai_response['success'] && !empty($ai_response['answer'])) {
-            save_conversation($conn, $user_id, $session_id, $question, $ai_response['answer'], $sources, $model, $response_time);
+
+        // Step 7: Save conversation (non-fatal; log and continue on failure)
+        if (!empty($answer)) {
+            $saved = save_conversation($conn, $user_id, $session_id, $question, $answer, $sources, $model, $response_time);
+            if ($saved === false) {
+                error_log('RAG API: save_conversation failed for user_id=' . $user_id . ' session_id=' . $session_id);
+            }
         }
-        
-        // Step 8: Return response
-        echo json_encode([
+
+        // Step 8: Return response (ensure UTF-8 so json_encode does not fail)
+        $answer_utf8 = mb_convert_encoding($answer, 'UTF-8', 'UTF-8');
+        $payload = [
             'success' => true,
-            'answer' => $answer,
+            'answer' => $answer_utf8,
             'sources' => $sources,
             'model' => $model,
             'response_time_ms' => $response_time
-        ]);
+        ];
+        $out = json_encode($payload, JSON_UNESCAPED_UNICODE);
+        if ($out === false) {
+            error_log('RAG API: json_encode failed: ' . json_last_error_msg());
+            echo json_encode(['success' => false, 'error' => 'Response encoding error']);
+            exit;
+        }
+        echo $out;
         exit;
     } catch (Exception $e) {
         error_log("RAG API Error: " . $e->getMessage());

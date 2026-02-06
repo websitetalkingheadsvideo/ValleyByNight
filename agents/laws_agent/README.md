@@ -175,9 +175,18 @@ The system will automatically create a `book_code` based on the source name.
 
 ## Configuration
 
-### LM Studio
-- Default endpoint: `http://192.168.0.217:1234/v1/chat/completions`
-- To change: Edit `rag_functions.php`, line 151
+### LM Studio (current UI / API)
+
+**Starting the server (LM Studio updated):**
+
+- **In the app:** Open the **Developer** tab (not "Local Server"). Toggle **"Start server"** at the top left. Default URL: `http://localhost:1234`.
+- **From terminal:** `lms server start` (optional: `--port 3000`, `--cors` for web apps). If no port is set, it uses the last used port (often 1234).
+
+**This project:**
+
+- Endpoint: `http://192.168.0.217:1234/v1/chat/completions` (OpenAI-compatible). To change host/port: edit `rag_functions.php`, `query_lm_studio()`, `$lm_studio_url`.
+- Model in code: `meta-llama-3.1-8b-instruct`. The **model name must match exactly** what is loaded in LM Studio (or the catalog id, e.g. `ibm/granite-4-micro`). If you use a different model, change the `model` key in the request in `rag_functions.php`.
+- **Optional auth:** If you enable API token in LM Studio → Developer → Server settings, set `LM_STUDIO_API_TOKEN` in your environment; the code can send `Authorization: Bearer <token>` (see `rag_functions.php`).
 
 ### Claude API
 - Requires `ANTHROPIC_API_KEY` in `.env` file
@@ -240,9 +249,11 @@ To implement better embeddings:
 ## Troubleshooting
 
 ### LM Studio Not Responding
-1. Check LM Studio is running on http://192.168.0.217:1234
-2. Try accessing http://192.168.0.217:1234/v1/models in browser
-3. System will automatically fallback to Claude
+1. Start the server: **Developer** tab → toggle **"Start server"**, or run `lms server start`. Default: `http://localhost:1234`.
+2. If this app uses another machine: ensure LM Studio is reachable at the URL in `rag_functions.php` (e.g. http://192.168.0.217:1234). Test: open http://192.168.0.217:1234/v1/models in a browser (or the same URL as in code).
+3. Model name in code must match the model loaded in LM Studio (or its catalog id).
+4. If you enabled API token in LM Studio, set `LM_STUDIO_API_TOKEN` and add the Bearer header in `query_lm_studio()`.
+5. System will automatically fallback to Claude when LM Studio fails.
 
 ### Claude API Errors
 1. Check `.env` file has `ANTHROPIC_API_KEY=your-key-here`

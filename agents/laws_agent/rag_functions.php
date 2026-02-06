@@ -36,6 +36,52 @@ function create_simple_embedding($text) {
  */
 
 /**
+ * Load knowledge-base backup content from agents/laws_agent/knowledge-base/
+ * Reads .md, .txt, .mdx, .json in alphabetical order; caps total size at max_chars.
+ * Returns string for appending to RAG context.
+ */
+function load_knowledge_base(string $base_dir, int $max_chars = 2500): string {
+    if (!is_dir($base_dir)) {
+        return '';
+    }
+    $extensions = ['md', 'txt', 'mdx', 'json'];
+    $files = [];
+    foreach (scandir($base_dir) as $name) {
+        if ($name === '.' || $name === '..') {
+            continue;
+        }
+        $path = $base_dir . DIRECTORY_SEPARATOR . $name;
+        if (!is_file($path)) {
+            continue;
+        }
+        $ext = strtolower(pathinfo($name, PATHINFO_EXTENSION));
+        if (in_array($ext, $extensions, true)) {
+            $files[] = $path;
+        }
+    }
+    sort($files);
+    $out = "\n\n--- Knowledge base (backup reference) ---\n";
+    $len = strlen($out);
+    foreach ($files as $path) {
+        if ($len >= $max_chars) {
+            break;
+        }
+        $raw = @file_get_contents($path);
+        if ($raw === false || $raw === '') {
+            continue;
+        }
+        $name = basename($path);
+        $chunk = "\n[{$name}]\n" . $raw;
+        if ($len + strlen($chunk) > $max_chars) {
+            $chunk = substr($chunk, 0, $max_chars - $len) . '...';
+        }
+        $out .= $chunk;
+        $len = strlen($out);
+    }
+    return $out;
+}
+
+/**
  * Decode binary embedding from database
  */
 function decode_embedding($binary) {
@@ -285,14 +331,17 @@ Read the CONTEXT above word-for-word. Answer the question using ONLY what is wri
         'stream' => false
     ];
     
+    $headers = ['Content-Type: application/json'];
+    $api_token = getenv('LM_STUDIO_API_TOKEN');
+    if ($api_token !== false && $api_token !== '') {
+        $headers[] = 'Authorization: Bearer ' . $api_token;
+    }
     $ch = curl_init($lm_studio_url);
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
     curl_setopt($ch, CURLOPT_POST, true);
     curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode($data));
-    curl_setopt($ch, CURLOPT_HTTPHEADER, [
-        'Content-Type: application/json'
-    ]);
-    curl_setopt($ch, CURLOPT_TIMEOUT, 120);  // 2 minutes
+    curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
+    curl_setopt($ch, CURLOPT_TIMEOUT, 210);  // LM Studio ~173s observed; headroom for slow runs
     
     $response = curl_exec($ch);
     $http_code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
