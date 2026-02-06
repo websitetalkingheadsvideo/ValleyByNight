@@ -5,6 +5,7 @@
 **Repository Type**: Single PHP web application (not monorepo)  
 **Primary Tech Stack**: PHP 7.4+, MySQL (remote), Bootstrap 5.3.2, Vanilla JavaScript  
 **Database**: Remote MySQL at `vdb5.pit.pair.com` (no local DB setup)  
+**Domain (app base URL)**: `http://192.168.0.155` — use this for all agent/docs links (e.g. Laws Agent import: http://192.168.0.155/agents/laws_agent/import_books.php)  
 **Sub-packages**: Specialized agent modules in `agents/` directory, each with its own AGENTS.md
 
 ## Root Setup Commands

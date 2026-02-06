@@ -65,6 +65,9 @@ if ($action === 'ask') {
         } elseif ($is_discipline_question && !$is_follow_up) {
             // First discipline-only question in this chat: core (LotNR) only
             $book_filters = get_core_book_codes($conn);
+        } elseif (is_traditions_question($question)) {
+            // Camarilla Traditions: restrict to core book so clanbook tangents don't outrank LotNR
+            $book_filters = get_core_book_codes($conn);
         }
         // Follow-up discipline question (no clan): $book_filters stays [] = search all books
 
@@ -75,6 +78,9 @@ if ($action === 'ask') {
         $keyword_query = $question;
         if ($is_discipline_question) {
             $keyword_query .= ' discipline disciplines Auspex Celerity Presence Dominate Fortitude Potence';
+        }
+        if (is_traditions_question($question)) {
+            $keyword_query .= ' Traditions Masquerade Domain Progeny Accounting Hospitality Destruction Camarilla six';
         }
         $search_limit = $is_discipline_question ? 24 : $rag_chunk_limit;
         $search_results = hybrid_search($conn, $keyword_query, $query_embedding, $book_filters, $search_limit);
@@ -128,7 +134,20 @@ if ($action === 'ask') {
         }, $results_for_context)));
         // Step 4: Build context from top N results; attach more sources for popups
         $context = "";
+        $traditions_source = null;
+        if (is_traditions_question($question)) {
+            $traditions_doc = get_traditions_document($conn);
+            if ($traditions_doc['content'] !== '') {
+                $context = $traditions_doc['content'];
+                $traditions_source = $traditions_doc['source'];
+            } else {
+                $context = load_traditions_knowledge_base(__DIR__ . '/knowledge-base', 4000);
+            }
+        }
         $sources = [];
+        if ($traditions_source !== null) {
+            $sources[] = $traditions_source;
+        }
         
         $max_score = 0.0;
         foreach ($results_for_sources as $result) {

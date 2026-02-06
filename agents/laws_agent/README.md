@@ -100,6 +100,33 @@ Step 4: Importing documents and generating embeddings...
   📊 Average: 4.21 docs/sec
 ```
 
+### Fixing spelling and mid-word caps in Books JSON
+
+The Books JSON files may contain OCR-style artifacts: **mid-word uppercase** (e.g. `saBBat`, `masQuerade`, `aCCounting`) and **common spelling errors**. A Python script fixes these in place; then re-import to update the RAG database.
+
+**What it does**
+
+1. **Mid-word uppercase**: Only the first letter of each word stays uppercase; the rest are lowercased (e.g. `saBBat` → `Sabbat`, `destruCtion` → `destruction`).
+2. **Spelling**: Applies a built-in list of common corrections (e.g. `teh` → `the`, `recieve` → `receive`). WoD/MET terms (Camarilla, Sabbat, Kindred, Toreador, etc.) are whitelisted and never changed.
+
+**How to use**
+
+1. **Fix the JSON files** (run from `Books/` or project root):
+   ```bash
+   cd agents/laws_agent/Books
+   python fix_spelling_and_caps.py
+   ```
+   This updates every `*.json` in `Books/`; it only modifies the `content` field of each document. The script prints how many fields were updated per file.
+
+2. **Update the RAG database** with the fixed content (and refreshed embeddings):
+   - **CLI:** `php agents/laws_agent/import_books.php` (no browser; runs import only).
+   - **Browser:** Log in, open [Import books](http://192.168.0.155/agents/laws_agent/import_books.php), wait for the run to finish.
+
+**Files**
+
+- `Books/fix_spelling_and_caps.py` – script (no extra dependencies).
+- `Books/fix_ocr_artifacts.py` – separate script for other OCR fixes (doubled letters, word fusions, trailing garbage).
+
 #### Import more books (browser)
 
 When you have more RAG JSON books ready in `Books/`, run the browser importer to load (or update) all of them in one go:

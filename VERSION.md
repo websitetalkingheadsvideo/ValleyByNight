@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.98
+## Current Version: 0.9.100
+
+**Date:** 2026-02-06  
+**Type:** Patch (laws_agent: Camarilla Traditions RAG fix, doc_11 canonical source, spelling/caps script, CLI import, README)
+
+## Previous Version: 0.9.98
 
 **Date:** 2026-02-06  
 **Type:** Patch (laws_agent: clan-based RAG filtering, LotNR core book, content_type discipline_info priority, Brujah OCR fix, txt page-marker script)
