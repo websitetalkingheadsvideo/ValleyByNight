@@ -522,7 +522,7 @@ require_once __DIR__ . '/../../includes/header.php';
 let conversationHistory = [];
 let sessionId = 'New';
 
-const ASK_TIMEOUT_MS = 120000;
+const ASK_TIMEOUT_MS = 210000;  // 210s; LM Studio ~35s prefill + ~138s generation
 
 // Check system status on load
 checkStatus();

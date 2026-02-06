@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.96
+## Current Version: 0.9.97
+
+**Date:** 2026-02-06  
+**Type:** Patch (laws_agent: LM Studio timeouts, discipline-aware RAG, knowledge-base backup, error handling)
+
+## Previous Version: 0.9.96
 
 **Date:** 2026-02-05  
 **Type:** Patch (git sync: stage and push all working tree files; add test_supabase_curl.php)
