@@ -349,6 +349,7 @@ CRITICAL INSTRUCTIONS:
 5. List mechanics exactly as written, including costs and effects
 6. NEVER claim something is "not explicitly mentioned" if it appears in the text
 7. Always cite the page numbers provided
+8. Use short paragraphs (2-4 sentences). Use bullet points for lists of mechanics, steps, or options. Avoid long walls of text so the answer is easy to scan.
 
 CONTEXT FROM OFFICIAL RULEBOOKS:
 ' . $context . '
@@ -434,7 +435,7 @@ When answering:
 2. If the context doesn\'t contain the answer, say so
 3. Use game terminology correctly
 4. Be concise but complete
-5. Format your response clearly with proper paragraphs
+5. Use short paragraphs (2-4 sentences) and bullet points for lists of mechanics or steps; avoid long walls of text so the answer is easy to scan
 
 Context from rulebooks:
 ' . $context;
