@@ -170,13 +170,13 @@ function import_json_data($json_file, $conn, $api_key) {
     echo "Step 3: Creating book record...\n";
     
     $book_id = db_execute($conn,
-        "INSERT INTO rag_books (book_name, book_code, source, category, system, total_pages, total_chunks) 
+        "INSERT INTO rag_books (book_name, book_code, source, category, `system`, total_pages, total_chunks) 
          VALUES (?, ?, ?, ?, ?, ?, ?)
          ON DUPLICATE KEY UPDATE 
          book_name = VALUES(book_name),
          source = VALUES(source),
          category = VALUES(category),
-         system = VALUES(system),
+         `system` = VALUES(`system`),
          total_pages = VALUES(total_pages),
          total_chunks = VALUES(total_chunks)",
         "ssssiii",

@@ -56,25 +56,53 @@ if ($action === 'ask') {
         $book_filters = [];
         if (!empty($book_filter) && $book_filter !== 'all') {
             $book_filters = [$book_filter];
+        } else {
+            $clan_filters = get_clan_book_filters($conn, $question);
+            if (!empty($clan_filters)) {
+                $book_filters = $clan_filters;
+            }
         }
         
         // Step 3: Perform hybrid search (more chunks for better recall)
         $rag_chunk_limit = 6;
         $rag_chunk_max_chars = 750;
         $keyword_query = $question;
-        if (preg_match('/disciplines?/', strtolower($question))) {
-            $keyword_query .= ' discipline disciplines';
+        $is_discipline_question = (bool) preg_match('/disciplines?/', strtolower($question));
+        if ($is_discipline_question) {
+            $keyword_query .= ' discipline disciplines Auspex Celerity Presence Dominate Fortitude Potence';
         }
-        $search_results = hybrid_search($conn, $keyword_query, $query_embedding, $book_filters, $rag_chunk_limit);
+        $search_limit = $is_discipline_question ? 24 : $rag_chunk_limit;
+        $search_results = hybrid_search($conn, $keyword_query, $query_embedding, $book_filters, $search_limit);
 
-        // When question is about disciplines, prefer chunks that actually mention discipline(s)
-        if (preg_match('/disciplines?/', strtolower($question))) {
-            $discipline_chunks = array_filter($search_results, function ($r) {
-                $c = strtolower($r['content']);
-                return (strpos($c, 'discipline') !== false || strpos($c, 'disciplines') !== false);
-            });
-            if (!empty($discipline_chunks)) {
-                $search_results = array_values(array_slice($discipline_chunks, 0, $rag_chunk_limit));
+        // When question is about disciplines, prefer content_type=discipline_info (e.g. LotNR p.64 clan table)
+        if ($is_discipline_question) {
+            $discipline_info = array_filter($search_results, fn ($r) => ($r['content_type'] ?? '') === 'discipline_info');
+            $other_relevant = array_filter($search_results, fn ($r) => ($r['content_type'] ?? '') !== 'discipline_info');
+            if (!empty($discipline_info)) {
+                $merged = array_values($discipline_info);
+                $mentioned_clans = get_mentioned_clans($question);
+                if (!empty($mentioned_clans)) {
+                    usort($merged, function ($a, $b) use ($mentioned_clans) {
+                        $ca = strtolower($a['content']);
+                        $cb = strtolower($b['content']);
+                        $a_has = 0;
+                        $b_has = 0;
+                        foreach ($mentioned_clans as $clan) {
+                            if (strpos($ca, $clan) !== false) {
+                                $a_has = 1;
+                            }
+                            if (strpos($cb, $clan) !== false) {
+                                $b_has = 1;
+                            }
+                        }
+                        return $b_has <=> $a_has;
+                    });
+                }
+                $search_results = array_slice($merged, 0, $rag_chunk_limit);
+                $remaining = $rag_chunk_limit - count($search_results);
+                if ($remaining > 0 && !empty($other_relevant)) {
+                    $search_results = array_merge($search_results, array_slice(array_values($other_relevant), 0, $remaining));
+                }
             }
         }
 
@@ -118,6 +146,7 @@ if ($action === 'ask') {
         }
 
         $context .= load_knowledge_base(__DIR__ . '/knowledge-base', 2500);
+        $context .= load_book_summaries(__DIR__ . '/../../reference/Books_summaries', 2000);
 
         // Step 5: Get conversation history
         $conversation_history = get_conversation_history($conn, $session_id, 3);

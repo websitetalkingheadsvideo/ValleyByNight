@@ -82,6 +82,52 @@ function load_knowledge_base(string $base_dir, int $max_chars = 2500): string {
 }
 
 /**
+ * Load book summaries from reference/Books_summaries/
+ * Reads .md, .txt in alphabetical order; caps total size at max_chars.
+ * Returns string for appending to RAG context (backup after knowledge-base).
+ */
+function load_book_summaries(string $summaries_dir, int $max_chars = 2000): string {
+    if (!is_dir($summaries_dir)) {
+        return '';
+    }
+    $extensions = ['md', 'txt'];
+    $files = [];
+    foreach (scandir($summaries_dir) as $name) {
+        if ($name === '.' || $name === '..') {
+            continue;
+        }
+        $path = $summaries_dir . DIRECTORY_SEPARATOR . $name;
+        if (!is_file($path)) {
+            continue;
+        }
+        $ext = strtolower(pathinfo($name, PATHINFO_EXTENSION));
+        if (in_array($ext, $extensions, true)) {
+            $files[] = $path;
+        }
+    }
+    sort($files);
+    $out = "\n\n--- Book summaries (backup reference) ---\n";
+    $len = strlen($out);
+    foreach ($files as $path) {
+        if ($len >= $max_chars) {
+            break;
+        }
+        $raw = @file_get_contents($path);
+        if ($raw === false || $raw === '') {
+            continue;
+        }
+        $name = basename($path);
+        $chunk = "\n[{$name}]\n" . $raw;
+        if ($len + strlen($chunk) > $max_chars) {
+            $chunk = substr($chunk, 0, $max_chars - $len) . '...';
+        }
+        $out .= $chunk;
+        $len = strlen($out);
+    }
+    return $out;
+}
+
+/**
  * Decode binary embedding from database
  */
 function decode_embedding($binary) {
@@ -324,9 +370,9 @@ Read the CONTEXT above word-for-word. Answer the question using ONLY what is wri
     ];
     
     $data = [
-        'model' => 'meta-llama-3.1-8b-instruct',  // Add this line
+        'model' => 'meta-llama-3.1-8b-instruct',
         'messages' => $messages,
-        'temperature' => 0.5,
+        'temperature' => 0.2,
         'max_tokens' => 1000,
         'stream' => false
     ];
@@ -450,6 +496,72 @@ Context from rulebooks:
         'answer' => $result['content'][0]['text'],
         'model' => 'claude-3.5-sonnet'
     ];
+}
+
+/**
+ * Core rulebook (LotNR) – most questions are answered there.
+ * Fetched from DB; fallback if not found.
+ */
+function get_core_book_codes($conn): array {
+    $rows = db_fetch_all($conn,
+        "SELECT book_code FROM rag_books WHERE LOWER(book_name) LIKE '%laws of the night%' OR LOWER(book_code) LIKE '%lotnr%'",
+        '',
+        []
+    );
+    return !empty($rows) ? array_column($rows, 'book_code') : ['LOTNR'];
+}
+
+/**
+ * Detect clan name in question and return matching book codes for filtering.
+ * Includes clanbook(s) plus core book (LotNR). When user asks "Toreador disciplines",
+ * search LotNR + Toreador clanbook.
+ */
+function get_clan_book_filters($conn, string $question): array {
+    $mentioned = get_mentioned_clans($question);
+    if (empty($mentioned)) {
+        return [];
+    }
+    $conds = [];
+    $params = [];
+    $types = '';
+    foreach ($mentioned as $c) {
+        $conds[] = '(LOWER(book_name) LIKE ? OR LOWER(book_code) LIKE ?)';
+        $params[] = '%' . $c . '%';
+        $params[] = '%' . $c . '%';
+        $types .= 'ss';
+    }
+    $rows = db_fetch_all($conn,
+        'SELECT book_code FROM rag_books WHERE ' . implode(' OR ', $conds),
+        $types,
+        $params
+    );
+    $codes = [];
+    if (!empty($rows)) {
+        $codes = array_column($rows, 'book_code');
+    } else {
+        $codes = array_map(function ($c) {
+            return strtoupper(preg_replace('/[^a-z0-9]+/', '_', trim($c, '_')));
+        }, $mentioned);
+    }
+    return array_unique(array_merge(get_core_book_codes($conn), $codes));
+}
+
+/** Clan names for detection in questions. */
+const CLAN_NAMES = [
+    'toreador', 'brujah', 'tremere', 'assamite', 'ventrue', 'malkavian',
+    'nosferatu', 'gangrel', 'setite', 'setites', 'giovanni', 'ravnos', 'tzimisce',
+    'lasombra', 'samedi', 'caitiff', 'followers of set'
+];
+
+function get_mentioned_clans(string $question): array {
+    $q = strtolower($question);
+    $mentioned = [];
+    foreach (CLAN_NAMES as $clan) {
+        if (strpos($q, $clan) !== false) {
+            $mentioned[] = $clan;
+        }
+    }
+    return $mentioned;
 }
 
 /**
