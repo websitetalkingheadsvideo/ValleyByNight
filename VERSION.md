@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.97
+## Current Version: 0.9.98
+
+**Date:** 2026-02-06  
+**Type:** Patch (laws_agent: clan-based RAG filtering, LotNR core book, content_type discipline_info priority, Brujah OCR fix, txt page-marker script)
+
+## Previous Version: 0.9.97
 
 **Date:** 2026-02-06  
 **Type:** Patch (laws_agent: LM Studio timeouts, discipline-aware RAG, knowledge-base backup, error handling)
