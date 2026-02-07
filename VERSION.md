@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.100
+## Current Version: 0.9.101
+
+**Date:** 2026-02-06  
+**Type:** Patch (reference: Mind's Eye Theatre Revised book list with PDF/DOCX availability checkboxes)
+
+## Previous Version: 0.9.100
 
 **Date:** 2026-02-06  
 **Type:** Patch (laws_agent: Camarilla Traditions RAG fix, doc_11 canonical source, spelling/caps script, CLI import, README)
