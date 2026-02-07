@@ -1,0 +1,53 @@
+{
+    "character_name": "Marcus Vane",
+    "player_name": "NPC",
+    "chronicle": "Valley by Night",
+    "clan": "Tremere",
+    "generation": 13,
+    "sire": "Unknown (Recruited by Lord of Denver)",
+    "pc": 0,
+    "nature": "Architect",
+    "demeanor": "Professional",
+    "concept": "Digital Saboteur & Chantry Auditor",
+    "status": "active",
+    "camarilla_status": "Acknowledged",
+    "sect": "Camarilla",
+    "title": "Apprentice of the First Circle",
+    "appearance": "A man in a sharp, slightly dated charcoal suit, always carrying a bulky black laptop bag.",
+    "biography": "Recruited from a Denver-based political think tank in the late 80s, Marcus was Embraced specifically for his ability to navigate the new digital bureaucracies. He was assigned to the Phoenix Chantry one year ago, officially as a 'logistics assistant' for Regent Whitmore, but secretly as a mole for the Lord of Denver to monitor the local leadership's stability.",
+    "traits": {
+      "Physical": ["Dextrous"],
+      "Social": ["Persuasive"],
+      "Mental": ["Analytical", "Methodical", "Observessive"]
+    },
+    "abilities": [
+      "Bureaucracy x4",
+      "Technology x3",
+      "Security x3",
+      "Subterfuge x2",
+      "Law x2",
+      "Academics x2"
+    ],
+    "disciplines": [
+      "Thaumaturgy: Path of Technomancy 3",
+      "Thaumaturgy: Path of the Focused Mind 2",
+      "Auspex 1",
+      "Dominate 1"
+    ],
+    "backgrounds": {
+      "Influence": 2,
+      "Resources": 3,
+      "Contacts": 3,
+      "Mentor (Lord of Denver)": 4
+    },
+    "merits_flaws": [
+      "Internal Auditor (Role): He has the authority to inspect chantry records."
+    ],
+    "equipment": "High-end 1995 IBM ThinkPad; 14.4k Modem; Pager; Fake City Inspector Credentials; Set of lockpicks.",
+    "timeline": {
+      "birthplace": "Denver, CO",
+      "arrival_in_phoenix": "1994",
+      "notable_mortal_past": "Political 'Fixer' and early systems administrator for the state government."
+    }
+  }
+  

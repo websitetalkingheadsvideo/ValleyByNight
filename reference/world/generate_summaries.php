@@ -36,22 +36,21 @@ if (!file_exists($script_path)) {
     die("ERROR: Generation script not found at: {$script_path}");
 }
 
-// Execute the script and capture output
-ob_start();
+// Run generator in-process to avoid Apache Windows child-process errors (AH02965)
 $output = '';
 $return_var = 0;
-
-// Change to project root directory for script execution
 $original_dir = getcwd();
 chdir($project_root);
-
-// Execute the PHP script
-exec("php database/generate_world_summaries.php 2>&1", $output_lines, $return_var);
-
-// Restore original directory
+define('GENERATE_WORLD_SUMMARIES_WEB_MODE', true);
+ob_start();
+try {
+    include $project_root . '/database/generate_world_summaries.php';
+} catch (Throwable $e) {
+    $return_var = $e->getCode() !== 0 ? (int) $e->getCode() : 1;
+    $output .= "\n" . $e->getMessage();
+}
+$output = ob_get_clean() . $output;
 chdir($original_dir);
-
-$output = implode("\n", $output_lines);
 
 // Get current version for display
 require_once $project_root . '/includes/version.php';

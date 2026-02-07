@@ -20,6 +20,14 @@ declare(strict_types=1);
 error_reporting(E_ALL);
 ini_set('display_errors', '1');
 
+/** When true (set by web caller), abort() throws so caller can catch; otherwise die(). */
+function _generate_world_summaries_abort(string $msg, int $code = 1): void {
+    if (defined('GENERATE_WORLD_SUMMARIES_WEB_MODE') && GENERATE_WORLD_SUMMARIES_WEB_MODE) {
+        throw new RuntimeException($msg, $code);
+    }
+    die($msg);
+}
+
 $project_root = dirname(__DIR__);
 
 // Include version management
@@ -27,7 +35,7 @@ require_once $project_root . '/includes/version.php';
 
 // Validate version constant exists
 if (!defined('LOTN_VERSION')) {
-    die("ERROR: LOTN_VERSION constant not defined. Cannot proceed without version.\n");
+    _generate_world_summaries_abort("ERROR: LOTN_VERSION constant not defined. Cannot proceed without version.\n");
 }
 
 $version = LOTN_VERSION;
@@ -35,7 +43,7 @@ $version_shorthand = str_replace('.', '', $version); // 0.8.63 → 0863
 
 // Validate version format (should be X.Y.Z)
 if (!preg_match('/^\d+\.\d+\.\d+$/', $version)) {
-    die("ERROR: Invalid version format '{$version}'. Expected format: X.Y.Z\n");
+    _generate_world_summaries_abort("ERROR: Invalid version format '{$version}'. Expected format: X.Y.Z\n");
 }
 
 echo "Version detected: {$version} (shorthand: {$version_shorthand})\n";
@@ -45,20 +53,20 @@ require_once $project_root . '/includes/connect.php';
 
 // Validate connection
 if (!$conn) {
-    die("ERROR: Database connection failed: " . mysqli_connect_error() . "\n");
+    _generate_world_summaries_abort("ERROR: Database connection failed: " . mysqli_connect_error() . "\n");
 }
 
 // CRITICAL: Validate we're connecting to remote DB, not localhost
 $db_host = getenv('DB_HOST') ?: "vdb5.pit.pair.com";
 if ($db_host === 'localhost' || $db_host === '127.0.0.1' || strpos($db_host, '/') !== false) {
-    die("ERROR: Database host '{$db_host}' appears to be localhost or socket. This script requires remote Pair Networks database only.\n");
+    _generate_world_summaries_abort("ERROR: Database host '{$db_host}' appears to be localhost or socket. This script requires remote Pair Networks database only.\n");
 }
 
 // Verify we can query (READ-ONLY check)
 $test_query = "SELECT 1 as test";
 $test_result = mysqli_query($conn, $test_query);
 if (!$test_result) {
-    die("ERROR: Cannot execute queries on database. Connection may be invalid.\n");
+    _generate_world_summaries_abort("ERROR: Cannot execute queries on database. Connection may be invalid.\n");
 }
 mysqli_free_result($test_result);
 
@@ -69,7 +77,7 @@ echo "READ-ONLY mode: All queries are SELECT only\n\n";
 $output_dir = $project_root . '/reference/world/_summaries';
 if (!is_dir($output_dir)) {
     if (!mkdir($output_dir, 0755, true)) {
-        die("ERROR: Cannot create output directory: {$output_dir}\n");
+        _generate_world_summaries_abort("ERROR: Cannot create output directory: {$output_dir}\n");
     }
 }
 

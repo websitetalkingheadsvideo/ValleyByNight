@@ -1,0 +1,93 @@
+{
+  "character_name": "",
+  "player_name": "NPC",
+  "chronicle": "Valley by Night",
+  "clan": "",
+  "generation": 13,
+  "sire": "",
+  "pc": 0,
+  "nature": "",
+  "demeanor": "",
+  "concept": "",
+  "status": "active",
+  "camarilla_status": "Unknown",
+  "sect": "",
+  "title": "",
+  "epithet": "",
+  "appearance": "",
+  "appearance_detailed": {
+    "short_summary": "",
+    "detailed_description": ""
+  },
+  "biography": "",
+  "description_tags": [],
+  "traits": {
+    "Physical": [],
+    "Social": [],
+    "Mental": []
+  },
+  "negativeTraits": {
+    "Physical": [],
+    "Social": [],
+    "Mental": []
+  },
+  "abilities": [],
+  "specializations": {},
+  "disciplines": [],
+  "backgrounds": {},
+  "backgroundDetails": {},
+  "morality": {
+    "path_name": "Humanity",
+    "path_rating": 7,
+    "humanity": 7,
+    "conscience": 3,
+    "self_control": 3,
+    "courage": 3,
+    "willpower_permanent": 5,
+    "willpower_current": 5
+  },
+  "merits_flaws": [],
+  "status_details": {
+    "sect_status": "",
+    "clan_status": "",
+    "city_status": "",
+    "health_levels": 7,
+    "blood_pool_current": 10,
+    "blood_pool_maximum": 10,
+    "blood_per_turn": 1,
+    "xp_total": 0,
+    "xp_spent": 0,
+    "xp_available": 0,
+    "notes": ""
+  },
+  "coteries": [],
+  "relationships": [],
+  "equipment": "",
+  "artifacts": [],
+  "rituals": [],
+  "research_notes": {},
+  "custom_data": null,
+  "timeline": {
+    "birthplace": "",
+    "embrace_period": "",
+    "notable_mortal_past": "",
+    "world_war_two_experience": "",
+    "arrival_in_phoenix": "",
+    "bunker_acquisition": "",
+    "years_in_bunker": ""
+  },
+  "domain_and_haven": {
+    "primary_haven_name": "",
+    "primary_haven_type": "",
+    "location_notes": "",
+    "bunker_history": "",
+    "bunker_function": [],
+    "false_public_assumptions": ""
+  },
+  "current_residents": {},
+  "personality": {
+    "tagline": "",
+    "narrative": ""
+  },
+  "notes": ""
+}

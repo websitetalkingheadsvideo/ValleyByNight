@@ -169,3 +169,24 @@ php V:\agents\laws_agent\import_rag_data.php "V:\agents\laws_agent\Books\new_boo
 ```
 
 Ensure the JSON has `metadata.source` (and optionally `metadata.book_code`); the importer uses these for book identity.
+
+---
+
+## Adding an OCR step (in-pipeline)
+
+The converter is **up to date** and **ready to add an OCR process**. Today:
+
+- **Detection:** `check_pdf_text.py` marks PDFs as `text` or `ocr` (sample first 5 pages; &lt;200 alphanumeric chars → ocr). `process_clan_books.ps1` can run this and warn before processing.
+- **Docs:** Windows guide and QUICK_REFERENCE describe **external** OCR (Adobe Acrobat Pro or `ocrmypdf`), then run the pipeline on the OCR’d PDF.
+- **Post-process:** `post_process_rag_json.py` and `learned_ocr_replacements.txt` already fix OCR-style garbled text in the final JSON.
+
+**To add OCR inside the pipeline:**
+
+1. **Before Step 1 (Extract):** For each PDF, run `check_pdf_text.py` (or a quick pdfplumber probe). If result is `ocr`:
+   - Run OCR to get raw text with page boundaries. Options:
+     - **A.** `tools/repeatable/python/ocr-tools/ocr_pdf.py` — outputs text with `=== PAGE N ===`; convert that to `<!-- PAGE N -->` and write `{slug}_raw.txt`, then **skip Extract** and run from Step 2 (Inspect) onward.
+     - **B.** `ocrmypdf input.pdf output.pdf` — produces a searchable PDF; then run Extract as usual (no pipeline change).
+2. **Normalize markers (if using ocr_pdf.py):** Replace `=== PAGE N ===` with `<!-- PAGE N -->` in the OCR output so `inspect_artifacts.py` and `clean_artifacts_and_rejoin.py` see the same format as PDF extract. A small script or a `--from-ocr` path in `run_pipeline.py` can do this.
+3. **Pipeline change:** In `run_pipeline.py`, before calling the extract script: if PDF is image-based, call the OCR step, write `raw_path`, then jump to Step 2 (Inspect). Optional: add a `--force-ocr` flag to always OCR even when text is present (e.g. for re-OCR).
+
+**Dependencies for in-repo OCR:** Tesseract installed; `pymupdf` (and optionally `Pillow`) for `tools/repeatable/python/ocr-tools/ocr_pdf.py`. See `tools/repeatable/python/ocr-tools/README.md`.
