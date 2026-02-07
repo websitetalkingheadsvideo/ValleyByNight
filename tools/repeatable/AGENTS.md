@@ -880,6 +880,27 @@ python tools/repeatable/python/pdf-tools/extract_pdf_page.py book.pdf 42
 
 **Use case:** Extract specific page from PDF for reference or processing
 
+#### pdf_to_rag_json.py
+
+**Purpose:** Converts a full PDF to RAG JSON (one chunk per page). Output matches the schema used by `agents/laws_agent/Books/*_rag.json`. Run locally so the AI never has to load the full PDF into context.
+
+**Usage:**
+```bash
+python tools/repeatable/python/pdf-tools/pdf_to_rag_json.py <pdf_file> <output_json> [--source "Book Title"] [--book-code BOOK-CODE] [--content-type general]
+```
+
+**Example:**
+```bash
+python tools/repeatable/python/pdf-tools/pdf_to_rag_json.py "reference/Books/MET - VTM - Laws of Elysium (5012).pdf" agents/laws_agent/Books/laws_of_elysium_rag.json --source "MET - Laws of Elysium" --book-code MET-ELYSIUM
+```
+
+**What it does:**
+- Extracts text per page (pdfplumber or PyPDF2)
+- Writes one RAG object per page (id, page, chunk_index, total_chunks, content, content_type, metadata)
+- Optional `--source`, `--book-code`, `--content-type`
+
+**Use case:** Convert large PDFs to RAG JSON without pasting the PDF into chat (avoids context limits).
+
 ---
 
 ### Text Cleanup Tools

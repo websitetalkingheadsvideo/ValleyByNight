@@ -9,18 +9,18 @@
 
 ## Primary Supplements
 
-- **Laws of the Night: Camarilla Guide** (WW5017) – Rules for Camarilla-specific clans and positions. ☑ 📷 ❌
-- **Laws of the Night: Sabbat Guide** (WW5018) – Rules for Sabbat ritae and packs. ☑ 📝 ❌
-- **Laws of the Night: Storytellers Guide** (WW5021) – Advice and advanced mechanics for game masters. ☑ 📝 ❌
-- **Laws of the Night: Anarch Guide** (WW5040) – Rules for the Anarch movement. ☑ 📝 ❌
+- **Laws of the Night: Camarilla Guide** (WW5017) – Rules for Camarilla-specific clans and positions. ☑ 📷 ✅
+- **Laws of the Night: Sabbat Guide** (WW5018) – Rules for Sabbat ritae and packs. ☑ 📝 ✅
+- **Laws of the Night: Storytellers Guide** (WW5021) – Advice and advanced mechanics for game masters. ☑ 📝 ✅
+- **Laws of the Night: Anarch Guide** (WW5040) – Rules for the Anarch movement. ☑ 📝 ✅
 
 ## Specialized & Cross-Compatible Books
 
-- **Laws of Elysium** (WW5011) – Rules for elder vampires; while pre-dating Revised, it is largely compatible. ☑ 📝 ❌
+- **Laws of Elysium** (WW5011) – Rules for elder vampires; while pre-dating Revised, it is largely compatible. ☑ 📝 ✅
 - **Liber des Ghouls: The Book of Ghouls** (WW5006) – Rules for playing mortal servants. ☑ 📝 ✅
 - **Faith and Fire** (WW5038) – Dark Ages: Vampire LARP rules (often used for historical flashbacks). ☑ 📷 ❌
 - **Vampire by Gaslight** (WW5041) – Victorian-era settings for Vampire LARP. ☐ ❌
-- **Laws of the East** (WW5016) – Rules for playing Kindred of the East in LARP. ☑ 📝 ❌
+- **Laws of the East** (WW5016) – Rules for playing Kindred of the East in LARP. ☑ 📝 ✅
 
 ## Play Aids & Media
 
@@ -32,17 +32,17 @@
 
 ## Werewolf: The Apocalypse (Revised Era)
 
-- **Laws of the Wild Revised Edition** (WW5024) – Core rules for Garou LARP. ☑ 📝 ❌
+- **Laws of the Wild Revised Edition** (WW5024) – Core rules for Garou LARP. ☑ 📝 ✅
 - **Laws of the Wild: Changing Breeds 1** (WW5031) – Rules for Bastet, Nuwisha, Ratkin, and Gurahl. ☐ ❌
 - **Laws of the Wild: Changing Breeds 2** (WW5034) – Rules for Corax, Mokole, Nagah, and Rokea. ☐ ❌
-- **Book of the Wyrm** (WW5027) – Rules for Fomorians and Black Spiral Dancers. ☑ 📝 ❌
+- **Book of the Wyrm** (WW5027) – Rules for Fomorians and Black Spiral Dancers. ☑ 📝 ✅
 
 ## Mage, Changeling, & Wraith
 
-- **Laws of Ascension** (WW5029) – Core rules for Mage: The Ascension. ☑ 📝 ❌
-- **Laws of Ascension: Companion** (WW5035) – Expanded rules for Technocracy and Traditions. ☑ 📝 ❌
-- **The Shining Host Player's Guide** (WW5023) – The Revised-era update for Changeling: The Dreaming. ☑ 📝 ❌
-- **Oblivion** (WW5004) – The primary book for Wraith: The Oblivion. (Note: This pre-dates the 1999 Revised launch but remained the standard throughout the era). ☑ 📷 ❌
+- **Laws of Ascension** (WW5029) – Core rules for Mage: The Ascension. ☑ 📝 ✅
+- **Laws of Ascension: Companion** (WW5035) – Expanded rules for Technocracy and Traditions. ☑ 📝 ✅
+- **The Shining Host Player's Guide** (WW5023) – The Revised-era update for Changeling: The Dreaming. ☑ 📝 ✅
+- **Oblivion** (WW5004) – The primary book for Wraith: The Oblivion. (Note: This pre-dates the 1999 Revised launch but remained the standard throughout the era). ☑ 📷 ✅
 
 ## Hunters, Mummies, & The End
 

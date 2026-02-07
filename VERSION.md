@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.104
+## Current Version: 0.9.105
+
+**Date:** 2026-02-07  
+**Type:** Patch (laws_agent: MET Primary Supplements, Specialized, Werewolf, Mage/Changeling/Wraith RAG; pdf_to_rag_json tool; MindsEyeTheater-Revised list updates)
+
+## Previous Version: 0.9.104
 
 **Date:** 2026-02-07  
 **Type:** Patch (laws_agent: MET Dark Epics PDF→RAG; converter stretched-letter artifact fix, learned patterns, config; RAG JSON + backups)
