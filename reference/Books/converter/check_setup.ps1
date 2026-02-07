@@ -8,7 +8,7 @@ Write-Host ""
 $allGood = $true
 
 # Check 1: Python
-Write-Host "[1/7] Checking Python..." -ForegroundColor Yellow
+Write-Host "[1/8] Checking Python..." -ForegroundColor Yellow
 try {
     $pythonVersion = python --version 2>&1
     Write-Host "  ✓ Python found: $pythonVersion" -ForegroundColor Green
@@ -19,7 +19,7 @@ try {
 }
 
 # Check 2: pdfplumber
-Write-Host "[2/7] Checking pdfplumber library..." -ForegroundColor Yellow
+Write-Host "[2/8] Checking pdfplumber library..." -ForegroundColor Yellow
 $pdfplumber = python -c "import pdfplumber; print('installed')" 2>&1
 if ($pdfplumber -eq "installed") {
     Write-Host "  ✓ pdfplumber installed" -ForegroundColor Green
@@ -29,13 +29,25 @@ if ($pdfplumber -eq "installed") {
     $allGood = $false
 }
 
-# Check 3: Converter scripts
-Write-Host "[3/7] Checking converter scripts..." -ForegroundColor Yellow
+# Check 3: pyspellchecker
+Write-Host "[3/8] Checking pyspellchecker library..." -ForegroundColor Yellow
+$pyspellchecker = python -c "import spellchecker; print('installed')" 2>&1
+if ($pyspellchecker -eq "installed") {
+    Write-Host "  ✓ pyspellchecker installed" -ForegroundColor Green
+} else {
+    Write-Host "  ✗ pyspellchecker not installed!" -ForegroundColor Red
+    Write-Host "    Install: pip install pyspellchecker" -ForegroundColor Yellow
+    $allGood = $false
+}
+
+# Check 4: Converter scripts
+Write-Host "[4/8] Checking converter scripts..." -ForegroundColor Yellow
 $requiredScripts = @(
     "extract_pdf_with_markers.py",
     "inspect_artifacts.py",
     "clean_artifacts_and_rejoin.py",
     "convert_to_rag_json.py",
+    "post_process_rag_json.py",
     "run_pipeline.py"
 )
 
@@ -58,8 +70,8 @@ if (Test-Path $converterDir) {
     $allGood = $false
 }
 
-# Check 4: Clan Books directory
-Write-Host "[4/7] Checking Clan Books directory..." -ForegroundColor Yellow
+# Check 5: Clan Books directory
+Write-Host "[5/8] Checking Clan Books directory..." -ForegroundColor Yellow
 $clanBooksDir = "V:\reference\Books\Clan Books"
 if (Test-Path $clanBooksDir) {
     $pdfCount = (Get-ChildItem "$clanBooksDir\*.pdf").Count
@@ -76,8 +88,8 @@ if (Test-Path $clanBooksDir) {
     $allGood = $false
 }
 
-# Check 5: Output directory
-Write-Host "[5/7] Checking output directory..." -ForegroundColor Yellow
+# Check 6: Output directory
+Write-Host "[6/8] Checking output directory..." -ForegroundColor Yellow
 $outputDir = "V:\agents\laws_agent\Books"
 if (Test-Path $outputDir) {
     Write-Host "  ✓ Output directory exists: $outputDir" -ForegroundColor Green
@@ -86,8 +98,8 @@ if (Test-Path $outputDir) {
     Write-Host "    Will be created automatically" -ForegroundColor Cyan
 }
 
-# Check 6: Test PDF extraction (if PDFs exist)
-Write-Host "[6/7] Testing PDF extraction..." -ForegroundColor Yellow
+# Check 7: Test PDF extraction (if PDFs exist)
+Write-Host "[7/8] Testing PDF extraction..." -ForegroundColor Yellow
 if ((Test-Path $clanBooksDir) -and (Get-ChildItem "$clanBooksDir\*.pdf").Count -gt 0) {
     $testPdf = (Get-ChildItem "$clanBooksDir\*.pdf" | Select-Object -First 1).FullName
     $testOutput = Join-Path $env:TEMP "pdf_test.txt"
@@ -121,8 +133,8 @@ if ((Test-Path $clanBooksDir) -and (Get-ChildItem "$clanBooksDir\*.pdf").Count -
     Write-Host "  ⊘ Skipped (no PDFs to test)" -ForegroundColor Gray
 }
 
-# Check 7: PHP for importing (optional)
-Write-Host "[7/7] Checking PHP (for import step)..." -ForegroundColor Yellow
+# Check 8: PHP for importing (optional)
+Write-Host "[8/8] Checking PHP (for import step)..." -ForegroundColor Yellow
 try {
     $phpVersion = php --version 2>&1
     if ($phpVersion -match "PHP") {

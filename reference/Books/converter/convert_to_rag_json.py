@@ -83,28 +83,6 @@ def extract_section_title(text: str) -> str | None:
     return None
 
 
-def split_into_chunks(text: str, max_tokens: int = 1000) -> list[str]:
-    max_chars = max_tokens * 4
-    if len(text) <= max_chars:
-        return [text]
-    paragraphs = text.split("\n\n")
-    chunks: list[str] = []
-    current_chunk: list[str] = []
-    current_length = 0
-    for para in paragraphs:
-        para_len = len(para)
-        if current_length + para_len > max_chars and current_chunk:
-            chunks.append("\n\n".join(current_chunk))
-            current_chunk = [para]
-            current_length = para_len
-        else:
-            current_chunk.append(para)
-            current_length += para_len + 2
-    if current_chunk:
-        chunks.append("\n\n".join(current_chunk))
-    return chunks
-
-
 def convert_to_rag_json(
     input_file: str,
     output_file: str,
@@ -130,28 +108,26 @@ def convert_to_rag_json(
         last_page = page_num
         content_type = classify_content(page_content, page_num, page_ranges)
         section_title = extract_section_title(page_content)
-        chunks = split_into_chunks(page_content)
-        for chunk_idx, chunk in enumerate(chunks):
-            meta: dict[str, Any] = {
-                "source": source_title,
-                "page_number": page_num,
-                "section_title": section_title,
-                "is_chunked": len(chunks) > 1,
-                "chunk_position": f"{chunk_idx + 1}/{len(chunks)}" if len(chunks) > 1 else "1/1",
-            }
-            if book_code:
-                meta["book_code"] = book_code
-            doc = {
-                "id": f"doc_{doc_id}",
-                "page": page_num,
-                "chunk_index": chunk_idx,
-                "total_chunks": len(chunks),
-                "content": chunk,
-                "content_type": content_type,
-                "metadata": meta,
-            }
-            documents.append(doc)
-            doc_id += 1
+        meta: dict[str, Any] = {
+            "source": source_title,
+            "page_number": page_num,
+            "section_title": section_title,
+            "is_chunked": False,
+            "chunk_position": "1/1",
+        }
+        if book_code:
+            meta["book_code"] = book_code
+        doc = {
+            "id": f"doc_{doc_id}",
+            "page": page_num,
+            "chunk_index": 0,
+            "total_chunks": 1,
+            "content": page_content,
+            "content_type": content_type,
+            "metadata": meta,
+        }
+        documents.append(doc)
+        doc_id += 1
 
     Path(output_file).parent.mkdir(parents=True, exist_ok=True)
     with open(output_file, "w", encoding="utf-8") as f:

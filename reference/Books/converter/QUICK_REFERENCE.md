@@ -75,20 +75,21 @@ php import_rag_data.php "Books\output_rag.json"
 ```
 V:\reference\Books\Clan Books\              ← Your PDFs here
 V:\reference\Books\converter\               ← Scripts here
-V:\agents\laws_agent\Books\                ← Outputs here
+V:\agents\laws_agent\Books\                ← JSON output
+  └── bookname_rag.json                    ← Import this
+V:\agents\laws_agent\Books\backups\        ← Intermediate files
   ├── bookname_raw.txt                     ← Extracted text
   ├── bookname_artifact_report.txt         ← Artifact review
-  ├── bookname_final.txt                   ← Cleaned text
-  └── bookname_rag.json                    ← Import this
+  └── bookname_final.txt                   ← Cleaned text
 ```
 
 ## Output Files Per Book
 
 Each book creates 4 files:
-1. **_raw.txt** - Extracted text with `<!-- PAGE N -->` markers
-2. **_artifact_report.txt** - First line of each page (for review)
-3. **_final.txt** - Cleaned, paragraph-rejoined text
-4. **_rag.json** - Ready for database import
+1. **_raw.txt** (in backups/) - Extracted text with `<!-- PAGE N -->` markers
+2. **_artifact_report.txt** (in backups/) - First line of each page (for review)
+3. **_final.txt** (in backups/) - Cleaned, paragraph-rejoined text
+4. **_rag.json** (in Books/) - Ready for database import
 
 ## Fastest Workflow
 
@@ -99,8 +100,8 @@ Each book creates 4 files:
 
 2. **Check output quality:**
    ```powershell
-   notepad "V:\agents\laws_agent\Books\*_artifact_report.txt"
-   notepad "V:\agents\laws_agent\Books\*_final.txt"
+   notepad "V:\agents\laws_agent\Books\backups\*_artifact_report.txt"
+   notepad "V:\agents\laws_agent\Books\backups\*_final.txt"
    ```
 
 3. **If good, process all:**
@@ -156,6 +157,19 @@ Edit: `V:\reference\Books\converter\learned_patterns.txt`
 ^C\s+lan\s+Bo+k$
 ^Bru\s+j\s+ah$
 ```
+
+### Add OCR Replacements (If Content Has Garbled Words)
+
+Edit: `V:\reference\Books\converter\learned_ocr_replacements.txt`
+
+```
+# Format: bad|good (one per line)
+Dfvflodfr|Developer
+```
+
+Then re-run: `python post_process_rag_json.py path/to/book_rag.json`
+
+**Learning:** After each conversion, add new findings to `learned_patterns.txt` and `learned_ocr_replacements.txt` so future books benefit.
 
 ## Success Criteria
 

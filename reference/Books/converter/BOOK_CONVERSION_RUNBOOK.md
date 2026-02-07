@@ -1,7 +1,7 @@
 # Book Conversion Runbook: PDF → RAG JSON
 
 **Input:** PDFs under `V:\reference\Books` (any subfolder).  
-**Output:** `V:\agents\laws_agent\Books` — `{slug}_raw.txt`, `{slug}_artifact_report.txt`, `{slug}_final.txt`, `{slug}_rag.json`.
+**Output:** `V:\agents\laws_agent\Books` — `{slug}_rag.json`. Intermediate files in `Books\backups\`: `{slug}_raw.txt`, `{slug}_artifact_report.txt`, `{slug}_final.txt`.
 
 All scripts live in `V:\reference\Books\converter`. Run from repo root or converter dir; use absolute paths on Windows.
 
@@ -19,7 +19,7 @@ python run_pipeline.py --list
 python run_pipeline.py --pdf "V:\reference\Books\MET - VTM - Liber des Goules (5006).pdf"
 ```
 
-Output in `V:\agents\laws_agent\Books`: `{slug}_raw.txt`, `{slug}_artifact_report.txt`, `{slug}_final.txt`, `{slug}_rag.json`. Slug is derived from the PDF filename (e.g. `met_vtm_liber_des_goules_5006`).
+Output: `{slug}_rag.json` in `V:\agents\laws_agent\Books`; `{slug}_raw.txt`, `{slug}_artifact_report.txt`, `{slug}_final.txt` in `Books\backups\`. Slug is derived from the PDF filename (e.g. `met_vtm_liber_des_goules_5006`).
 
 ---
 
@@ -30,13 +30,13 @@ Use this when you want to run steps separately (e.g. review artifacts, add patte
 ### Step 1: Extract
 
 ```powershell
-python extract_pdf_with_markers.py "path\to\new_book.pdf" "V:\agents\laws_agent\Books\new_book_raw.txt"
+python extract_pdf_with_markers.py "path\to\new_book.pdf" "V:\agents\laws_agent\Books\backups\new_book_raw.txt"
 ```
 
 ### Step 2: Inspect for artifacts
 
 ```powershell
-python inspect_artifacts.py "V:\agents\laws_agent\Books\new_book_raw.txt" "V:\agents\laws_agent\Books\new_book_artifact_report.txt"
+python inspect_artifacts.py "V:\agents\laws_agent\Books\backups\new_book_raw.txt" "V:\agents\laws_agent\Books\backups\new_book_artifact_report.txt"
 ```
 
 Open the report: each line is `<!-- PAGE N --> >>> first content line`. Artifacts often appear right after page markers (garbled headers, `i i i i`, symbols, short junk lines).
@@ -49,18 +49,26 @@ Open the report: each line is `<!-- PAGE N --> >>> first content line`. Artifact
 ### Step 4: Clean
 
 ```powershell
-python clean_artifacts_and_rejoin.py "V:\agents\laws_agent\Books\new_book_raw.txt" "V:\agents\laws_agent\Books\new_book_final.txt"
+python clean_artifacts_and_rejoin.py "V:\agents\laws_agent\Books\backups\new_book_raw.txt" "V:\agents\laws_agent\Books\backups\new_book_final.txt"
 # With per-book patterns:
-python clean_artifacts_and_rejoin.py "V:\agents\laws_agent\Books\new_book_raw.txt" "V:\agents\laws_agent\Books\new_book_final.txt" --patterns "V:\agents\laws_agent\Books\artifact_patterns\new_book_patterns.txt"
+python clean_artifacts_and_rejoin.py "V:\agents\laws_agent\Books\backups\new_book_raw.txt" "V:\agents\laws_agent\Books\backups\new_book_final.txt" --patterns "V:\agents\laws_agent\Books\artifact_patterns\new_book_patterns.txt"
 ```
 
 ### Step 5: Convert to JSON
 
 ```powershell
-python convert_to_rag_json.py "V:\agents\laws_agent\Books\new_book_final.txt" "V:\agents\laws_agent\Books\new_book_rag.json"
+python convert_to_rag_json.py "V:\agents\laws_agent\Books\backups\new_book_final.txt" "V:\agents\laws_agent\Books\new_book_rag.json"
 # With book config (title, book_code, TOC page ranges):
-python convert_to_rag_json.py "V:\agents\laws_agent\Books\new_book_final.txt" "V:\agents\laws_agent\Books\new_book_rag.json" --config "V:\reference\Books\converter\config\new_book.json"
+python convert_to_rag_json.py "V:\agents\laws_agent\Books\backups\new_book_final.txt" "V:\agents\laws_agent\Books\new_book_rag.json" --config "V:\reference\Books\converter\config\new_book.json"
 ```
+
+### Step 6: Post-process (OCR + spelling fixes)
+
+```powershell
+python post_process_rag_json.py "V:\agents\laws_agent\Books\new_book_rag.json"
+```
+
+Runs `fix_ocr_artifacts` and `fix_spelling_and_caps` from Books. Uses `learned_ocr_replacements.txt` for learned fixes. Modifies JSON in place.
 
 ---
 
@@ -98,7 +106,7 @@ Most books have a table of contents. Build a config JSON so chunks get the right
 2. For each book, run:  
    `python run_pipeline.py --pdf "V:\reference\Books\...\book.pdf"`  
    Optionally add `--config` and `--patterns` once you have config/pattern files for that book.
-3. After first pass, review `*_artifact_report.txt` and `*_final.txt`; add patterns and re-run clean + convert where needed.
+3. After first pass, review `backups\*_artifact_report.txt` and `backups\*_final.txt`; add patterns and re-run clean + convert where needed.
 
 ---
 
@@ -109,9 +117,46 @@ Most books have a table of contents. Build a config JSON so chunks get the right
 | `V:\reference\Books\**\*.pdf` | Input PDFs |
 | `V:\reference\Books_summaries\*.md` | Book summaries (for TOC) |
 | `V:\reference\Books\converter\` | Scripts and runbook |
-| `V:\reference\Books\converter\learned_patterns.txt` | Shared artifact regexes (add as you find new ones) |
+| `V:\reference\Books\converter\learned_patterns.txt` | Shared artifact regexes for clean step (add as you find new ones) |
+| `V:\reference\Books\converter\learned_ocr_replacements.txt` | Learned OCR string replacements for post-process (add after each conversion) |
 | `V:\reference\Books\converter\config\*.json` | Per-book config (title, book_code, page_ranges) |
-| `V:\agents\laws_agent\Books\` | Output: `*_raw.txt`, `*_artifact_report.txt`, `*_final.txt`, `*_rag.json` |
+| `V:\agents\laws_agent\Books\` | Output: `*_rag.json` |
+| `V:\agents\laws_agent\Books\backups\` | Intermediate: `*_raw.txt`, `*_artifact_report.txt`, `*_final.txt` |
+
+---
+
+## Learning from every conversion
+
+The converter learns from each run. After reviewing outputs, add findings so future books benefit.
+
+### 1. Line-level artifacts (clean step)
+
+When `*_artifact_report.txt` or `*_final.txt` shows junk lines (garbled headers, stray symbols, page fragments):
+
+- Add regex patterns to `V:\reference\Books\converter\learned_patterns.txt` (one per line).
+- Re-run clean and convert for that book.
+- Consider copying useful per-book patterns into `learned_patterns.txt` for all future books.
+
+### 2. OCR replacements (post-process step)
+
+When `*_rag.json` content has garbled words or phrases (e.g. `Dfvflodfr` instead of `Developer`):
+
+- Add exact replacements to `V:\reference\Books\converter\learned_ocr_replacements.txt`.
+- Format: `bad_text|corrected_text` (one per line; `|` is the delimiter).
+- Re-run post-process: `python post_process_rag_json.py path/to/book_rag.json`
+- These replacements apply to all future conversions.
+
+Example additions:
+
+```
+# From MET Journal 2
+Dfvflodfr|Developer
+syetheatrejournal|Eye Theatre Journal
+```
+
+### 3. Regex / structural fixes
+
+Complex fixes (leading fragments, encoding glitches, regex patterns) live in `V:\agents\laws_agent\Books\fix_ocr_artifacts.py`. Add there when simple `find|replace` is insufficient.
 
 ---
 

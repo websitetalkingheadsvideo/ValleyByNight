@@ -9,8 +9,8 @@ Usage:
       List all PDFs under --books-dir (default: V:\\reference\\Books).
 
   python run_pipeline.py --pdf "V:\\reference\\Books\\MET - VTM - Liber des Goules (5006).pdf"
-      Run steps 1 (extract), 2 (inspect), 4 (clean), 5 (convert) for one book.
-      Output: agents/laws_agent/Books/{slug}_raw.txt, _artifact_report.txt, _final.txt, _rag.json.
+      Run extract, inspect, clean, convert, post-process for one book.
+      Output: _rag.json in Books/; _raw.txt, _artifact_report.txt, _final.txt in Books/backups/.
 
   python run_pipeline.py --pdf path/to/book.pdf --skip-clean
       Extract and inspect only (no clean, no convert).
@@ -20,7 +20,7 @@ Usage:
 
 Options:
   --books-dir DIR    Root directory to search for PDFs (default: repo reference/Books).
-  --output-dir DIR   Where to write _raw.txt, _final.txt, _rag.json (default: agents/laws_agent/Books).
+  --output-dir DIR   Where to write _rag.json (default: agents/laws_agent/Books). Intermediate files go to output-dir/backups/.
   --patterns FILE    Per-book artifact patterns for clean step.
   --config FILE      Book config JSON for convert step (source_title, book_code, page_ranges).
 """
@@ -68,18 +68,20 @@ def run_step(cmd: list[str], step_name: str) -> bool:
 def run_pipeline_one(
     pdf_path: Path,
     output_dir: Path,
+    backups_dir: Path,
     patterns_file: Path | None,
     config_file: Path | None,
     skip_clean: bool,
     skip_convert: bool,
 ) -> None:
     slug = slug_from_pdf_path(pdf_path)
-    raw_path = output_dir / f"{slug}_raw.txt"
-    report_path = output_dir / f"{slug}_artifact_report.txt"
-    final_path = output_dir / f"{slug}_final.txt"
+    raw_path = backups_dir / f"{slug}_raw.txt"
+    report_path = backups_dir / f"{slug}_artifact_report.txt"
+    final_path = backups_dir / f"{slug}_final.txt"
     json_path = output_dir / f"{slug}_rag.json"
 
     output_dir.mkdir(parents=True, exist_ok=True)
+    backups_dir.mkdir(parents=True, exist_ok=True)
 
     # Step 1: Extract
     if not run_step(
@@ -129,6 +131,13 @@ def run_pipeline_one(
     if not run_step(cmd_convert, "Convert"):
         return
 
+    # Step 6: Post-process (OCR + spelling/caps fixes from Books)
+    if not run_step(
+        [sys.executable, str(CONVERTER_DIR / "post_process_rag_json.py"), str(json_path)],
+        "Post-process",
+    ):
+        return
+
     print(f"Done: {json_path}")
 
 
@@ -167,9 +176,11 @@ def main() -> None:
         sys.exit(1)
 
     output_dir = args.output_dir.resolve()
+    backups_dir = output_dir / "backups"
     run_pipeline_one(
         pdf_path,
         output_dir,
+        backups_dir,
         args.patterns,
         args.config,
         args.skip_clean,

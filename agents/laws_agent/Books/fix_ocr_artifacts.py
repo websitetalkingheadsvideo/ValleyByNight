@@ -66,6 +66,60 @@ def _fix_word_fusions(text: str) -> str:
     # Order matters: longer phrases first; avoid breaking "for", "and" as words
     fusions = [
         (r"(\w)only\b", r"\1 only"),
+        # Word+the / the+word fusions
+        (r"\bofthe\b", "of the"),
+        (r"\binthe\b", "in the"),
+        (r"\btothe\b", "to the"),
+        (r"\bforthe\b", "for the"),
+        (r"\bandthe\b", "and the"),
+        (r"\bthe(family|game|last|time|end|way|same|first|other|role|world|book|point|name|fact|rest|whole)\b", r"the \1"),
+        # and+pronoun / had+verb / phrase fusions
+        (r"\bFora\b", "For a"),
+        (r"\bitexists\b", "it exists"),
+        (r"\bandhe\b", "and he"),
+        (r"\bhadcome\b", "had come"),
+        (r"\bbothofwhichmustbe\b", "both of which must be"),
+        (r"\binthesamecondition\b", "in the same condition"),
+        (r"\btheywereinwhen\b", "they were in when"),
+        (r"\bclanstilldonot\b", "clan still do not"),
+        (r"\bhadcomeprepared\b", "had come prepared"),
+        (r"\bthesecondstakedownwhere\b", "the second stake down where"),
+        (r"\bhimselfpinned\b", "himself pinned"),
+        (r"\bhandover\b", "hand over"),
+        (r"\bandmouthed\b", "and mouthed"),
+        (r"Ama~nglyt,he\b", "Amazingly, the"),
+        (r"\bandhefalteredinshock\b", "and he faltered in shock"),
+        (r"\bthesecondstakedown\b", "the second stake down"),
+        (r"\bInaninstant\b", "In an instant"),
+        (r"\bThehesitationwasall\b", "The hesitation was all"),
+        (r"\bCarwelneeded\b", "Carvel needed"),
+        (r"\bYuseffound\b", "Yusef found"),
+        (r"\bYusefs\b", "Yusef's"),
+        (r"\bsolidtgold\b", "solid gold"),
+        (r"\bamenta1\b", "a mental"),
+        (r"\bminglestake\b", "single stake"),
+        (r"\bbeenin\b", "been in"),
+        (r"\bmindandstart\b", "mind and start"),
+        (r"I'ma\s+lmost\b", "I'm almost"),
+        (r"\bswenting\b", "sweating"),
+        (r"\bpmtcomes\b", "part comes"),
+        (r"\bFor dus to\b", "For this to"),
+        (r"\bI'we\b", "I've"),
+        (r"\byou'all\b", "you'll"),
+        (r"\bwe'all\b", "we'll"),
+        (r"\bWe'we\b", "We've"),
+        (r"\byou'we\b", "you've"),
+        # Bastet/Backgrounds/Heritage
+        (r"\bcabter\b", "caster"),
+        (r"\bBastetb\b", "Bastet"),
+        (r"\bAckgrounds\b", "Backgrounds"),
+        (r"\beritage\b", "Heritage"),
+        # Garbled headers
+        (r"~Eneral~\s*Iets", "General Gifts"),
+        (r"~Iets\b", "Gifts"),
+        (r"\d+\s*Maste\s+E-?\s*Leve\s+L[\"']?\s*Tha\s+Um\s+Atur\s+Cjy\s+Rit\s*ua\s*Is\s*ed", "Master E-Level Thaumaturgy Rituals"),
+        # Orphaned leading fragments
+        (r"\bnt facets\b", "different facets"),
         ("handor ", "hand or "),
         ("centuryor ", "century or "),
         ("longor ", "long or "),
@@ -123,10 +177,7 @@ def _fix_word_fusions(text: str) -> str:
         ("Dr. Samuel Stankiewicz has disassociated himself from his brethren, and his progeny have followed suit. Gaining Bloodline PrestigeOnly", "Dr. Samuel Stankiewicz has disassociated himself from his brethren, and his progeny have followed suit. Gaining Bloodline Prestige Only"),
     ]
     for pat, repl in fusions:
-        if isinstance(pat, str) and isinstance(repl, str):
-            text = text.replace(pat, repl)
-        else:
-            text = re.sub(pat, repl, text, flags=re.IGNORECASE)
+        text = re.sub(pat, repl, text, flags=re.IGNORECASE)
     return text
 
 
@@ -145,6 +196,8 @@ def _fix_bloodline_book_typo(text: str) -> str:
     text = text.replace("The TygerI  am", "The Tyger I am")
     text = text.replace("JasonC . ", "Jason C. ")
     text = text.replace("RichardE . ", "Richard E. ")
+    text = text.replace("Dan sky", "Dansky")
+    text = text.replace("dan sky", "Dansky")
     return text
 
 
@@ -184,17 +237,72 @@ def _fix_leading_credits(text: str) -> str:
     return text
 
 
+def _fix_encoding_artifacts(text: str) -> str:
+    """Fix OCR encoding glitches (e.g. Euro sign misread as E)."""
+    text = text.replace("\u20ac", "E")  # EURO SIGN -> E
+    return text
+
+
+def _fix_leading_journal_fragments(text: str) -> str:
+    """Fix leading OCR junk and garbled text in MET Journal content."""
+    # Strip page-number remnant "; 4 " at very start
+    text = re.sub(r"^;\s*\d+\s+", "", text)
+    # TOC line: "Worderomtdheev Eloper Anotefrommeonthepurposeandgoalsofthismagazineaswellaswhatto expect"
+    text = re.sub(
+        r"^Worderomtdheev Eloper Anotefrommeonthepurposeandgoalsofthismagazineaswellaswhatto expect",
+        "A Word From The Developer - A note on the purpose and goals of this magazine as well as what to expect",
+        text,
+        count=1,
+    )
+    # "r's Broke I It" at start (orphaned from "Laws Is Broke")
+    text = re.sub(r"^r's Broke I It\s+", "Laws Is Broke. It ", text)
+    return text
+
+
+def _get_learned_replacements_path() -> Path:
+    """Path to converter's learned_ocr_replacements.txt."""
+    books_dir = Path(__file__).resolve().parent
+    repo_root = books_dir.parent.parent.parent.parent
+    return repo_root / "reference" / "Books" / "converter" / "learned_ocr_replacements.txt"
+
+
+def _apply_learned_replacements(text: str) -> str:
+    """Apply learned OCR replacements from converter/learned_ocr_replacements.txt."""
+    path = _get_learned_replacements_path()
+    if not path.exists():
+        return text
+    for line in path.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line or line.startswith("#"):
+            continue
+        if "|" in line:
+            old, new = line.split("|", 1)
+            text = text.replace(old, new)
+    return text
+
+
+def _collapse_extra_spaces(text: str) -> str:
+    """Collapse runs of 2+ spaces/tabs to a single space. Normalize nbsp and tab to space first."""
+    text = text.replace("\u00a0", " ")  # non-breaking space
+    text = text.replace("\t", " ")  # tab
+    return re.sub(r" {2,}", " ", text)
+
+
 def clean_content(s: str) -> str:
     """Apply all OCR cleanup steps to a content string."""
     if not s or not isinstance(s, str):
         return s
+    s = _fix_encoding_artifacts(s)
+    s = _fix_leading_journal_fragments(s)
     s = _collapse_spaced_out_letters(s)
     s = _collapse_doubled_letters_at_start(s)
     s = _fix_word_fusions(s)
+    s = _apply_learned_replacements(s)
     s = _fix_leading_liber(s)
     s = _fix_leading_credits(s)
     s = _fix_bloodline_book_typo(s)
     s = _fix_missing_space_before_a(s)
+    s = _collapse_extra_spaces(s)
     s = _strip_trailing_garbage(s)
     return s
 

@@ -194,10 +194,12 @@ For each Clan Book PDF, you get:
 
 ```
 V:\agents\laws_agent\Books\
+  └── clan_book_brujah_5001_rag.json          # Ready for database import
+
+V:\agents\laws_agent\Books\backups\
   ├── clan_book_brujah_5001_raw.txt           # Extracted with page markers
   ├── clan_book_brujah_5001_artifact_report.txt  # First lines for review
-  ├── clan_book_brujah_5001_final.txt         # Cleaned, paragraph-rejoined
-  └── clan_book_brujah_5001_rag.json          # Ready for database import
+  └── clan_book_brujah_5001_final.txt         # Cleaned, paragraph-rejoined
 ```
 
 Each JSON contains:
