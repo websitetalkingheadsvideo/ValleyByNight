@@ -1,0 +1,13 @@
+---
+description: When creating a file, agent MUST provide a clickable link to that file; task not complete until done.
+globs: "**/*"
+alwaysApply: true
+---
+
+# Links: Clickable Link When Creating Files
+
+- **When you create a file** (Write, or any tool that creates or overwrites a file), you **MUST** provide a clickable link to that file in the same response.
+- **A task is not complete** until you have included that link.
+- **Exclusively and only** for created files: one link per created file. No exceptions.
+- Use the format that opens in the user's editor (e.g. workspace-relative or absolute path as a markdown link, per project path conventions).
+- If the user's editor cannot open a given path from a chat link, still provide the link and add the Ctrl+P paste path so they can open it manually.

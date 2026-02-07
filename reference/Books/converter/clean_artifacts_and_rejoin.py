@@ -155,6 +155,8 @@ def clean_and_rejoin(
     print("Step 3: Removing inline artifacts...")
     # Fix artifacts WITHIN text (not just whole lines)
     inline_fixes = [
+        # Stretched-letter artifact (e.g. Bbbbb Yyyyy Ttttthhhhheeeee -> By The)
+        (r'([A-Za-z])\1{4,}', r'\1'),
         # Spaced out letters
         (r'C\s+l\s+a\s+n\s+B\s+o\s+o\s+K\s*:?', 'Clanbook:'),
         (r'C\s+o\s*:', 'Chapter:'),

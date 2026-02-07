@@ -2,3 +2,5 @@
 # Add patterns here as you find new OCR artifacts in other books.
 # They are applied after common patterns for every clean run.
 # Lines starting with # are ignored.
+# Stretched-letter lines (e.g. Bbbbb Yyyyy Ttttthhhhheeeee Nnnnn Uuuuummmmmbbbbbeeeeerrrrrsssss)
+^(([A-Za-z])\2{4,}\s*)+$

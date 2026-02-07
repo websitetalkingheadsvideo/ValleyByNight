@@ -31,10 +31,14 @@ CURLY_TO_STRAIGHT = str.maketrans({
 })
 
 
+SOFT_HYPHEN = "\u00ad"
+
+
 def clean_content(text: str) -> str:
     """Apply OCR fixes then spelling/caps fixes."""
     if not text or not isinstance(text, str):
         return text
+    text = text.replace(SOFT_HYPHEN, "")
     text = text.translate(CURLY_TO_STRAIGHT)
     text = fix_ocr_artifacts.clean_content(text)
     text = fix_spelling_and_caps.clean_content(text)

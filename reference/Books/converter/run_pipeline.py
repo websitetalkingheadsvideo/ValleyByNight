@@ -1,14 +1,15 @@
 #!/usr/bin/env python3
 """
-Batch PDF → RAG conversion pipeline.
+Batch PDF/DOCX → RAG conversion pipeline.
 
-Discover PDFs under reference/Books; output to agents/laws_agent/Books.
+Discover PDFs and DOCXs under reference/Books; output to agents/laws_agent/Books.
 
 Usage:
   python run_pipeline.py --list
-      List all PDFs under --books-dir (default: V:\\reference\\Books).
+      List all PDFs and DOCXs under --books-dir (default: V:\\reference\\Books).
 
   python run_pipeline.py --pdf "V:\\reference\\Books\\MET - VTM - Liber des Goules (5006).pdf"
+  python run_pipeline.py --docx "V:\\reference\\Books\\VTM - Blood Magic - Secrets of Thaumaturgy.docx"
       Run extract, inspect, clean, convert, post-process for one book.
       Output: _rag.json in Books/; _raw.txt, _artifact_report.txt, _final.txt in Books/backups/.
 
@@ -19,7 +20,7 @@ Usage:
       Extract, inspect, clean only (no JSON).
 
 Options:
-  --books-dir DIR    Root directory to search for PDFs (default: repo reference/Books).
+  --books-dir DIR    Root directory to search for PDFs/DOCXs (default: repo reference/Books).
   --output-dir DIR   Where to write _rag.json (default: agents/laws_agent/Books). Intermediate files go to output-dir/backups/.
   --patterns FILE    Per-book artifact patterns for clean step.
   --config FILE      Book config JSON for convert step (source_title, book_code, page_ranges).
@@ -38,9 +39,8 @@ DEFAULT_OUTPUT_DIR = REPO_ROOT / "agents" / "laws_agent" / "Books"
 CONVERTER_DIR = SCRIPT_DIR
 
 
-def slug_from_pdf_path(pdf_path: Path) -> str:
-    stem = pdf_path.stem
-    # Alphanumeric, underscore, keep one space -> underscore
+def slug_from_path(path: Path) -> str:
+    stem = path.stem
     s = re.sub(r"[^\w\s-]", "", stem)
     s = re.sub(r"[-\s]+", "_", s).strip("_").lower()
     if not s:
@@ -56,6 +56,14 @@ def discover_pdfs(books_dir: Path) -> list[Path]:
     return sorted(out)
 
 
+def discover_docx(books_dir: Path) -> list[Path]:
+    out: list[Path] = []
+    for p in books_dir.rglob("*.docx"):
+        if p.is_file() and not p.name.startswith("~$"):
+            out.append(p)
+    return sorted(out)
+
+
 def run_step(cmd: list[str], step_name: str) -> bool:
     print(f"[{step_name}] {' '.join(cmd)}")
     r = subprocess.run(cmd)
@@ -66,7 +74,7 @@ def run_step(cmd: list[str], step_name: str) -> bool:
 
 
 def run_pipeline_one(
-    pdf_path: Path,
+    source_path: Path,
     output_dir: Path,
     backups_dir: Path,
     patterns_file: Path | None,
@@ -74,7 +82,7 @@ def run_pipeline_one(
     skip_clean: bool,
     skip_convert: bool,
 ) -> None:
-    slug = slug_from_pdf_path(pdf_path)
+    slug = slug_from_path(source_path)
     raw_path = backups_dir / f"{slug}_raw.txt"
     report_path = backups_dir / f"{slug}_artifact_report.txt"
     final_path = backups_dir / f"{slug}_final.txt"
@@ -83,9 +91,17 @@ def run_pipeline_one(
     output_dir.mkdir(parents=True, exist_ok=True)
     backups_dir.mkdir(parents=True, exist_ok=True)
 
-    # Step 1: Extract
+    # Step 1: Extract (choose extractor by extension)
+    ext = source_path.suffix.lower()
+    if ext == ".pdf":
+        extract_script = "extract_pdf_with_markers.py"
+    elif ext == ".docx":
+        extract_script = "extract_docx_with_markers.py"
+    else:
+        print(f"Unsupported format: {ext}")
+        return
     if not run_step(
-        [sys.executable, str(CONVERTER_DIR / "extract_pdf_with_markers.py"), str(pdf_path), str(raw_path)],
+        [sys.executable, str(CONVERTER_DIR / extract_script), str(source_path), str(raw_path)],
         "Extract",
     ):
         return
@@ -144,9 +160,10 @@ def run_pipeline_one(
 def main() -> None:
     import argparse
     parser = argparse.ArgumentParser(description="PDF to RAG conversion pipeline")
-    parser.add_argument("--list", action="store_true", help="List all PDFs under --books-dir")
+    parser.add_argument("--list", action="store_true", help="List all PDFs and DOCXs under --books-dir")
     parser.add_argument("--pdf", type=str, help="Path to one PDF to process")
-    parser.add_argument("--books-dir", type=Path, default=DEFAULT_BOOKS_DIR, help="Root dir to search for PDFs")
+    parser.add_argument("--docx", type=str, help="Path to one DOCX to process")
+    parser.add_argument("--books-dir", type=Path, default=DEFAULT_BOOKS_DIR, help="Root dir to search for PDFs/DOCXs")
     parser.add_argument("--output-dir", type=Path, default=DEFAULT_OUTPUT_DIR, help="Output directory for raw/final/json")
     parser.add_argument("--patterns", type=Path, help="Per-book artifact patterns file for clean step")
     parser.add_argument("--config", type=Path, help="Book config JSON for convert step")
@@ -160,25 +177,28 @@ def main() -> None:
             print(f"Books dir not found: {books_dir}")
             sys.exit(1)
         pdfs = discover_pdfs(books_dir)
+        docxs = discover_docx(books_dir)
         for p in pdfs:
             print(p)
-        print(f"Total: {len(pdfs)} PDFs")
+        for p in docxs:
+            print(p)
+        print(f"Total: {len(pdfs)} PDFs, {len(docxs)} DOCXs")
         return
 
-    if not args.pdf:
+    source_path: Path | None = None
+    if args.pdf:
+        source_path = Path(args.pdf).resolve()
+    elif args.docx:
+        source_path = Path(args.docx).resolve()
+    if not source_path or not source_path.exists():
         parser.print_help()
-        print("\nUse --list to see PDFs, or --pdf path/to/book.pdf to process one book.")
-        sys.exit(1)
-
-    pdf_path = Path(args.pdf).resolve()
-    if not pdf_path.exists():
-        print(f"PDF not found: {pdf_path}")
+        print("\nUse --list to see books, or --pdf path/to/book.pdf or --docx path/to/book.docx to process one.")
         sys.exit(1)
 
     output_dir = args.output_dir.resolve()
     backups_dir = output_dir / "backups"
     run_pipeline_one(
-        pdf_path,
+        source_path,
         output_dir,
         backups_dir,
         args.patterns,

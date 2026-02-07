@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.103
+## Current Version: 0.9.104
+
+**Date:** 2026-02-07  
+**Type:** Patch (laws_agent: MET Dark Epics PDF→RAG; converter stretched-letter artifact fix, learned patterns, config; RAG JSON + backups)
+
+## Previous Version: 0.9.103
 
 **Date:** 2026-02-07  
 **Type:** Patch (laws_agent: MET Journals 5–8 PDF-to-RAG conversion, learned OCR replacements for Journals 5–6)

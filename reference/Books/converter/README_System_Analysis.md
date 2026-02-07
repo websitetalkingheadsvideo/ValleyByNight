@@ -7,10 +7,10 @@ Your PDF conversion system is a **5-stage pipeline** that converts OCR-extracted
 ### Architecture
 
 ```
-PDF Input → [1] Extract → [2] Inspect → [3] Clean → [4] Convert → JSON Output
-                                            ↓
-                                    Artifact Patterns
-                                    (37 built-in + learned)
+PDF/DOCX Input → [1] Extract → [2] Inspect → [3] Clean → [4] Convert → [5] Post-process → JSON Output
+                                                ↓
+                                        Artifact Patterns
+                                        (37 built-in + learned)
 ```
 
 ### Components
@@ -36,7 +36,13 @@ PDF Input → [1] Extract → [2] Inspect → [3] Clean → [4] Convert → JSON
    - Classifies content by keywords or page ranges
    - Creates JSON with metadata for RAG retrieval
 
-5. **run_pipeline.py**
+5. **post_process_rag_json.py**
+   - Applies OCR artifact fixes and spelling/caps corrections from Books
+   - Strips soft hyphens (U+00AD) from DOCX/Word—these render as yellow boxes in editors
+   - Translates curly/smart quotes to straight ASCII
+   - Modifies JSON in place; run after convert
+
+6. **run_pipeline.py**
    - Orchestrates steps 1-4 automatically
    - Supports batch processing
    - Can skip steps for manual control
@@ -229,6 +235,10 @@ Each JSON contains:
 ### Issue: Wrong Content Classification
 **Cause:** Default keyword classification isn't perfect  
 **Solution:** Create config files with page ranges from TOC
+
+### Issue: Yellow Boxes in RAG JSON Content (DOCX Source)
+**Cause:** Soft hyphens (U+00AD) from Word—invisible hyphenation chars that editors display as yellow squares  
+**Solution:** post_process_rag_json.py strips them automatically; re-run it if needed: `python post_process_rag_json.py path/to/rag.json`
 
 ## Performance Metrics
 
