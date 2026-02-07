@@ -179,6 +179,14 @@ Display forms (with spaces) and slug/helper forms (without spaces) are both incl
 
 ---
 
+## Acronyms (use all caps)
+- **MET** – Mind's Eye Theatre
+- **LARP** – Live Action Role-Playing
+- LARPing
+- LARPs
+
+---
+
 ## Additions Needed
 - (append newly confirmed WoD terms here)
 ```
