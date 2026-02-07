@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.105
+## Current Version: 0.9.106
+
+**Date:** 2026-02-07  
+**Type:** Patch (laws_agent: MET Hunters/Mummies/End RAG + Play Aids decks RAG; MindsEyeTheater-Revised list updates)
+
+## Previous Version: 0.9.105
 
 **Date:** 2026-02-07  
 **Type:** Patch (laws_agent: MET Primary Supplements, Specialized, Werewolf, Mage/Changeling/Wraith RAG; pdf_to_rag_json tool; MindsEyeTheater-Revised list updates)
