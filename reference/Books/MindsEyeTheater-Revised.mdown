@@ -25,10 +25,10 @@
 ## Play Aids & Media
 
 - **Mind's Eye Theatre Journal** (Issues 1–8) – Magazine featuring official errata and new rules. ☑ 📝 ✅
-- **Mind's Eye Theatre Discipline Deck** – Reference cards for vampire powers. ☑ 📷 ❌
+- **Mind's Eye Theatre Discipline Deck** – Reference cards for vampire powers. ☑ 📷 ✅
 - **Mind's Eye Theatre Discipline Deck 2** – Additional reference cards for advanced or sect powers. ☐ ❌
-- **Mind's Eye Theatre Gift Deck** – Reference cards for Garou gifts. ☑ 📷 ❌
-- **Mind's Eye Theatre Prop Deck** – Reference cards for props and handouts. ☑ 📷 ❌
+- **Mind's Eye Theatre Gift Deck** – Reference cards for Garou gifts. ☑ 📷 ✅
+- **Mind's Eye Theatre Prop Deck** – Reference cards for props and handouts. ☑ 📷 ✅
 
 ## Werewolf: The Apocalypse (Revised Era)
 
@@ -46,7 +46,7 @@
 
 ## Hunters, Mummies, & The End
 
-- **Laws of the Reckoning** (WW5033) – Rules for playing Imbued Hunters. ☑ 📝 ❌
-- **Laws of Resurrection** (WW5039) – Rules for playing Mummies. ☑ 📝 ❌
-- **Laws of the Hunt Revised** (WW5025) – Rules for mortal investigators and hedge magic. ☑ 📷 ❌
-- **Laws of Judgment** (WW5042) – The "Time of Judgment" book for ending LARP chronicles. ☑ 📝 ❌
+- **Laws of the Reckoning** (WW5033) – Rules for playing Imbued Hunters. ☑ 📝 ✅
+- **Laws of Resurrection** (WW5039) – Rules for playing Mummies. ☑ 📝 ✅
+- **Laws of the Hunt Revised** (WW5025) – Rules for mortal investigators and hedge magic. ☑ 📷 ✅
+- **Laws of Judgment** (WW5042) – The "Time of Judgment" book for ending LARP chronicles. ☑ 📝 ✅
