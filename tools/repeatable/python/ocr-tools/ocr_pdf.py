@@ -49,49 +49,11 @@ def check_pymupdf() -> bool:
     except ImportError:
         return False
 
-def convert_pdf_to_images(pdf_path: Path, dpi: int = 300) -> list[Path]:
-    """
-    Convert PDF pages to images using PyMuPDF.
-    
-    Returns list of temporary image file paths.
-    """
-    try:
-        import fitz  # PyMuPDF
-        from PIL import Image
-    except ImportError:
-        print("Error: PyMuPDF not installed. Install with: pip install pymupdf", file=sys.stderr)
-        sys.exit(1)
-    
-    try:
-        doc = fitz.open(str(pdf_path))
-    except Exception as e:
-        print(f"Error opening PDF: {e}", file=sys.stderr)
-        sys.exit(1)
-    
-    # Calculate zoom factor from DPI (default 72 DPI, so 300/72 = ~4.17)
-    zoom = dpi / 72.0
-    mat = fitz.Matrix(zoom, zoom)
-    
-    # Save images to temporary files
-    temp_dir = Path.cwd() / "tmp_ocr_images"
-    temp_dir.mkdir(exist_ok=True)
-    
-    image_paths = []
-    for page_num in range(len(doc)):
-        page = doc[page_num]
-        pix = page.get_pixmap(matrix=mat)
-        
-        # Convert to PIL Image
-        img_data = pix.tobytes("png")
-        img = Image.open(io.BytesIO(img_data))
-        
-        # Save to temp file
-        image_path = temp_dir / f"page_{page_num + 1:04d}.png"
-        img.save(image_path, "PNG")
-        image_paths.append(image_path)
-    
-    doc.close()
-    return image_paths
+def _get_temp_dir() -> Path:
+    """Return a single temp dir for this run (reused for one page at a time)."""
+    temp_base = Path.cwd() / "tmp_ocr_images"
+    temp_base.mkdir(exist_ok=True)
+    return temp_base
 
 def ocr_image(image_path: Path, lang: str = "eng") -> str:
     """Run Tesseract OCR on an image and return the text."""
@@ -139,42 +101,68 @@ def cleanup_temp_images(image_paths: list[Path]):
 def ocr_pdf(pdf_path: Path, output_path: Optional[Path] = None, lang: str = "eng", dpi: int = 300) -> str:
     """
     Perform OCR on a PDF file.
-    
-    Args:
-        pdf_path: Path to the PDF file
-        output_path: Optional path to save output (if None, returns text)
-        lang: Tesseract language code (default: "eng")
-        dpi: DPI for image conversion (default: 300)
-    
-    Returns:
-        Extracted text
+    Processes one page at a time (create image -> OCR -> delete image) to avoid
+    temp files going missing on long runs and to limit disk use.
     """
     if not pdf_path.exists():
         print(f"Error: PDF file not found: {pdf_path}", file=sys.stderr)
         sys.exit(1)
-    
-    print(f"Converting PDF to images (DPI: {dpi})...", file=sys.stderr)
-    image_paths = convert_pdf_to_images(pdf_path, dpi=dpi)
-    
-    print(f"Running OCR on {len(image_paths)} pages...", file=sys.stderr)
+
+    try:
+        import fitz  # PyMuPDF
+        from PIL import Image
+    except ImportError:
+        print("Error: PyMuPDF not installed. Install with: pip install pymupdf", file=sys.stderr)
+        sys.exit(1)
+
+    try:
+        doc = fitz.open(str(pdf_path))
+    except Exception as e:
+        print(f"Error opening PDF: {e}", file=sys.stderr)
+        sys.exit(1)
+
+    total_pages = len(doc)
+    zoom = dpi / 72.0
+    mat = fitz.Matrix(zoom, zoom)
+    temp_dir = _get_temp_dir()
+    # Single temp file reused each page so only one image on disk at a time
+    temp_image = temp_dir / "_ocr_current_page.png"
+
+    print(f"Running OCR on {total_pages} pages (one page at a time, DPI={dpi})...", file=sys.stderr)
     full_text = []
-    
-    for i, image_path in enumerate(image_paths, 1):
-        print(f"Processing page {i}/{len(image_paths)}...", file=sys.stderr)
-        page_text = ocr_image(image_path, lang=lang)
-        if page_text and page_text.strip():
-            full_text.append(f"=== PAGE {i} ===\n{page_text}\n")
-    
-    # Cleanup temporary images
-    cleanup_temp_images(image_paths)
-    
+
+    try:
+        for page_num in range(total_pages):
+            i = page_num + 1
+            if i % 10 == 0 or i == 1:
+                print(f"Processing page {i}/{total_pages}...", file=sys.stderr)
+            page = doc[page_num]
+            pix = page.get_pixmap(matrix=mat)
+            img_data = pix.tobytes("png")
+            img = Image.open(io.BytesIO(img_data))
+            img.save(temp_image, "PNG")
+            page_text = ocr_image(temp_image, lang=lang)
+            if page_text and page_text.strip():
+                full_text.append(f"=== PAGE {i} ===\n{page_text}\n")
+            try:
+                temp_image.unlink()
+            except Exception:
+                pass
+    finally:
+        doc.close()
+        try:
+            if temp_image.exists():
+                temp_image.unlink()
+        except Exception:
+            pass
+
     combined_text = "\n".join(full_text)
-    
+
     if output_path:
         output_path.parent.mkdir(parents=True, exist_ok=True)
         output_path.write_text(combined_text, encoding='utf-8')
         print(f"\nOCR text saved to: {output_path}", file=sys.stderr)
-    
+
     return combined_text
 
 def main():
