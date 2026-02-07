@@ -1,6 +1,16 @@
 # Version History
 
-## Current Version: 0.9.101
+## Current Version: 0.9.103
+
+**Date:** 2026-02-07  
+**Type:** Patch (laws_agent: MET Journals 5–8 PDF-to-RAG conversion, learned OCR replacements for Journals 5–6)
+
+## Previous Version: 0.9.102
+
+**Date:** 2026-02-07  
+**Type:** Patch (prior session)
+
+## Previous Version: 0.9.101
 
 **Date:** 2026-02-06  
 **Type:** Patch (reference: Mind's Eye Theatre Revised book list with PDF/DOCX availability checkboxes)
