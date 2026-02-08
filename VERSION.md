@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.108
+## Current Version: 0.9.109
+
+**Date:** 2026-02-08  
+**Type:** Patch (laws_agent: Supabase RAG integration, match-lore migration; laws-agent.css; LotNR/LofNR refs; MCP config)
+
+## Previous Version: 0.9.108
 
 **Date:** 2026-02-08  
 **Type:** Patch (laws_agent: batch RAG + backups; PDFs to processed; converter runbook, clean scripts, config; MCP, Still to convert)

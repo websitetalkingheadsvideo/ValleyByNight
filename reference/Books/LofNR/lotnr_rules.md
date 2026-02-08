@@ -4746,7 +4746,7 @@ Laws of the Hunt Player’s Guide. Hedge wizards are the most commonly encounter
 Allies & Antagonists
 261
 
-ForBidden neCtar: vitae From supernatural sourCes
+Forbidden Nectar: vitae from supernatural sources
 Sooner or later, Kindred in contact with other supernatural forces will try drinking their blood, whether due to urgent need, simple curiosity or any number of other reasons. Likewise, sometimes vampires put the bite on what they believe to be a normal mortal, only to discover — too late — that they are supping on something else entirely. Some twisted Kindred may even become addicted to a specific “vintage” of supernatural vitae (e.g., Malkavians to faerie blood, thrill-seeking Licks to Lupine vitae), and he will go to great lengths to get his fix. Most of these Kindred are hunted down by the very prey they enjoy. Whatever the case, Narrators should consult the following guidelines as to what befalls the poor fool who drinks the vitae of a supernatural creature.
 Note: Unless the Storyteller says otherwise, the rule of vitae usage is “last in, last out;” a
 Kindred who ingests a Trait of fae blood, for example, must cycle through all the Blood Traits currently in his system before he can spend the fae blood that is plaguing him.
