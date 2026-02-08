@@ -1,6 +1,16 @@
 # Version History
 
-## Current Version: 0.9.106
+## Current Version: 0.9.108
+
+**Date:** 2026-02-08  
+**Type:** Patch (laws_agent: batch RAG + backups; PDFs to processed; converter runbook, clean scripts, config; MCP, Still to convert)
+
+## Previous Version: 0.9.107
+
+**Date:** 2026-02-08  
+**Type:** Patch (laws_agent: WOD Laws of Judgment 5099 RAG; converter clean --fast, learned patterns, config; Still to convert update)
+
+## Previous Version: 0.9.106
 
 **Date:** 2026-02-07  
 **Type:** Patch (laws_agent: MET Hunters/Mummies/End RAG + Play Aids decks RAG; MindsEyeTheater-Revised list updates)

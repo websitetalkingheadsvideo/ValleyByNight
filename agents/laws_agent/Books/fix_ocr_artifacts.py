@@ -223,6 +223,13 @@ def _strip_trailing_garbage(text: str) -> str:
     return text.rstrip()
 
 
+def _fix_faith_and_fire_names(text: str) -> str:
+    """Fix name OCR splits: Ka len -> Kalen, Pau lo -> Paulo (any whitespace)."""
+    text = re.sub(r"\bKa\s+len\b", "Kalen", text)
+    text = re.sub(r"\bPau\s+lo\b", "Paulo", text)
+    return text
+
+
 def _fix_leading_liber(text: str) -> str:
     """Fix 'be r Li Credits' / 'ber  Li Credits' -> 'Liber Credits' at start."""
     text = re.sub(r"^be\s*r\s*Li\s+", "Liber ", text, flags=re.IGNORECASE)
@@ -243,8 +250,48 @@ def _fix_encoding_artifacts(text: str) -> str:
     return text
 
 
+# Known leading junk: short lines or OCR fragments that often appear at start of content
+_LEADING_JUNK_LINES = frozenset({
+    "boy", "Fa", "et", "Sis", "0", "tests", "Au Retune Acis",
+    "Gear Poi ls", "Poi ls", "lucky cable", "car waaanetrnat",
+})
+
+
+def _strip_leading_ocr_junk(text: str) -> str:
+    """Strip leading lines that look like OCR junk until we hit real prose."""
+    lines = text.split("\n")
+    first_real = 0
+    for i, line in enumerate(lines):
+        stripped = line.strip()
+        if not stripped:
+            first_real = i + 1
+            continue
+        # Known junk line
+        if stripped in _LEADING_JUNK_LINES:
+            first_real = i + 1
+            continue
+        # Very short line (likely fragment): 1–3 chars or single short word
+        if len(stripped) <= 4 and (stripped.isalpha() or stripped.isdigit() or stripped in ("0", "O")):
+            first_real = i + 1
+            continue
+        # Line looks like start of sentence: reasonable length or common starters
+        if len(stripped) >= 15:
+            break
+        if stripped.startswith(("If ", "The ", "He ", "She ", "And ", "When ", "So ", "But ", "It ", "This ", "They ", "We ", "I ", "You ", "As ", "For ", "In ", "On ", "At ", "Madeline", "Salvatini", "Paulo", "Hauknefr", "Perhaps")):
+            break
+        # Short line but not clearly junk; treat as potential junk if we haven't seen long line yet
+        if len(stripped) <= 10:
+            first_real = i + 1
+            continue
+        break
+    if first_real == 0:
+        return text
+    return "\n".join(lines[first_real:]).lstrip("\n")
+
+
 def _fix_leading_journal_fragments(text: str) -> str:
     """Fix leading OCR junk and garbled text in MET Journal content."""
+    text = _strip_leading_ocr_junk(text)
     # Strip page-number remnant "; 4 " at very start
     text = re.sub(r"^;\s*\d+\s+", "", text)
     # TOC line: "Worderomtdheev Eloper Anotefrommeonthepurposeandgoalsofthismagazineaswellaswhatto expect"
@@ -298,6 +345,7 @@ def clean_content(s: str) -> str:
     s = _collapse_doubled_letters_at_start(s)
     s = _fix_word_fusions(s)
     s = _apply_learned_replacements(s)
+    s = _fix_faith_and_fire_names(s)
     s = _fix_leading_liber(s)
     s = _fix_leading_credits(s)
     s = _fix_bloodline_book_typo(s)
