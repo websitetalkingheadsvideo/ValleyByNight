@@ -52,6 +52,8 @@ Open the report: each line is `<!-- PAGE N --> >>> first content line`. Artifact
 python clean_artifacts_and_rejoin.py "V:\agents\laws_agent\Books\backups\new_book_raw.txt" "V:\agents\laws_agent\Books\backups\new_book_final.txt"
 # With per-book patterns:
 python clean_artifacts_and_rejoin.py "V:\agents\laws_agent\Books\backups\new_book_raw.txt" "V:\agents\laws_agent\Books\backups\new_book_final.txt" --patterns "V:\agents\laws_agent\Books\artifact_patterns\new_book_patterns.txt"
+# For large files that timeout, use --fast (skips inline/split-word fixes; post-process handles remaining artifacts):
+python clean_artifacts_and_rejoin.py "V:\agents\laws_agent\Books\backups\new_book_raw.txt" "V:\agents\laws_agent\Books\backups\new_book_final.txt" --fast
 ```
 
 ### Step 5: Convert to JSON

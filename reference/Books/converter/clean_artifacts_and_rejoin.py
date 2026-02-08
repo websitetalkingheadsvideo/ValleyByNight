@@ -8,6 +8,8 @@ Usage:
   python clean_artifacts_and_rejoin.py input_raw.txt output_final.txt
   python clean_artifacts_and_rejoin.py input_raw.txt output_final.txt --patterns book_patterns.txt
   python clean_artifacts_and_rejoin.py input_raw.txt output_final.txt --learned learned_patterns.txt
+  python clean_artifacts_and_rejoin.py input_raw.txt output_final.txt --fast
+      Skip inline artifact removal and split-word fixes (faster for large files; post-process handles remaining artifacts).
 """
 
 import re
@@ -90,9 +92,12 @@ def clean_and_rejoin(
     input_file: str,
     output_file: str,
     artifact_patterns: list[str],
+    fast: bool = False,
 ) -> None:
     with open(input_file, "r", encoding="utf-8") as f:
         lines = f.readlines()
+
+    compiled = [re.compile(p, re.IGNORECASE) for p in artifact_patterns]
 
     print("Step 1: Removing artifacts...")
     cleaned_lines: list[str] = []
@@ -108,8 +113,8 @@ def clean_and_rejoin(
             continue
 
         is_artifact = False
-        for pattern in artifact_patterns:
-            if re.match(pattern, stripped, re.IGNORECASE):
+        for pat in compiled:
+            if pat.match(stripped):
                 is_artifact = True
                 break
         if not is_artifact and len(stripped) < 50:
@@ -151,7 +156,14 @@ def clean_and_rejoin(
 
     result = "\n".join(result_lines)
     result = re.sub(r"\n\n\n+", "\n\n", result)
-    
+
+    if fast:
+        Path(output_file).parent.mkdir(parents=True, exist_ok=True)
+        with open(output_file, "w", encoding="utf-8") as f:
+            f.write(result)
+        print(f"Complete! Output saved to: {output_file} (fast mode, inline fixes skipped)")
+        return
+
     print("Step 3: Removing inline artifacts...")
     # Fix artifacts WITHIN text (not just whole lines)
     inline_fixes = [
@@ -246,6 +258,7 @@ def main() -> None:
     output_file = args[1]
     patterns_path: str | None = None
     learned_path: str | None = None
+    fast = False
     i = 2
     while i < len(args):
         if args[i] == "--patterns" and i + 1 < len(args):
@@ -254,12 +267,15 @@ def main() -> None:
         elif args[i] == "--learned" and i + 1 < len(args):
             learned_path = args[i + 1]
             i += 2
+        elif args[i] == "--fast":
+            fast = True
+            i += 1
         else:
             i += 1
 
     script_dir = Path(__file__).resolve().parent
     combined = gather_patterns(script_dir, patterns_path, learned_path)
-    clean_and_rejoin(input_file, output_file, combined)
+    clean_and_rejoin(input_file, output_file, combined, fast=fast)
 
 
 if __name__ == "__main__":

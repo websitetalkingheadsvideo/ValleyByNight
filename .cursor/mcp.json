@@ -46,6 +46,13 @@
       "args": [
         "V:\\agents\\style_agent\\server.php"
       ]
+    },
+    "supabase": {
+      "type": "http",
+      "url": "https://mcp.supabase.com/mcp?project_ref=zddvmwebmhigsxlcumzc",
+      "headers": {
+        "Authorization": "Bearer ${env:SUPABASE_ACCESS_TOKEN}"
+      }
     }
   }
 }

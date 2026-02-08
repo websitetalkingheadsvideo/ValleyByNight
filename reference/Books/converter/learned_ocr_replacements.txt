@@ -1,5 +1,10 @@
 # Learned OCR replacements (exact string: find|replace)
 # Add one replacement per line after each conversion when you find new artifacts.
+#
+# --- From WOD Laws of Judgment (5099) ---
+robert wheeler (order #15253) 65.93.90.38|
+robert wheeler (order #15253)|
+65.93.90.38|
 # Format: bad_text|corrected_text
 # Lines starting with # are ignored. Use | only as delimiter.
 #
@@ -120,3 +125,10 @@ Ont He Sideoae Angels|On The Side Of Angels
 Other Hi ld re noe et ah set Ernni C~It|Other Children Of The Earth
 Them Our nina ge Her|The Mourning After
 Even th Horizon|Event Horizon
+# --- From Faith and Fire ---
+Pau lo|Paulo
+Ka len|Kalen
+ifhe|if he
+0 Gear Poi ls|the gear poles
+car waaanetrnat|caravan at the
+lucky cable|luckily
