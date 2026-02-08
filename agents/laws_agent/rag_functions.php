@@ -388,7 +388,7 @@ Read the CONTEXT above word-for-word. Answer the question using ONLY what is wri
     curl_setopt($ch, CURLOPT_POST, true);
     curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode($data));
     curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
-    curl_setopt($ch, CURLOPT_TIMEOUT, 210);  // LM Studio ~173s observed; headroom for slow runs
+    curl_setopt($ch, CURLOPT_TIMEOUT, 300);  // 5 min; wait for LM Studio to finish
     
     $response = curl_exec($ch);
     $http_code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
@@ -584,6 +584,36 @@ function get_clan_book_filters($conn, string $question): array {
 }
 
 /**
+ * Core book codes for Supabase (source patterns). No MySQL dependency.
+ */
+function get_core_book_codes_supabase(): array {
+    return ['LOTNR', 'lotnr', 'laws of the night'];
+}
+
+/**
+ * Clan book filters for Supabase. Maps clan names to source patterns.
+ */
+function get_clan_book_filters_supabase(string $question): array {
+    $mentioned = get_mentioned_clans($question);
+    if (empty($mentioned)) {
+        return [];
+    }
+    $codes = array_merge(get_core_book_codes_supabase(), $mentioned);
+    foreach ($mentioned as $c) {
+        $codes[] = strtolower($c);
+        $codes[] = 'clanbook ' . strtolower($c);
+    }
+    return array_unique($codes);
+}
+
+/**
+ * Traditions document for Supabase path. Uses knowledge-base; no MySQL rag_documents.
+ */
+function get_traditions_document_supabase(): array {
+    return ['content' => '', 'source' => null];
+}
+
+/**
  * Detect if the question is about the Camarilla Six Traditions (list, what are they, etc.).
  * Used to restrict retrieval to core book and prepend canonical Traditions context.
  */
@@ -647,12 +677,57 @@ function load_traditions_knowledge_base(string $base_dir, int $max_chars = 4000)
     return $out;
 }
 
+/** Stopwords for lexical relevance: chunk must contain at least one non-stopword from the question. */
+const QUESTION_STOPWORDS = [
+    'how', 'what', 'when', 'where', 'why', 'who', 'which', 'does', 'do', 'is', 'are', 'was', 'were',
+    'the', 'a', 'an', 'in', 'on', 'at', 'to', 'for', 'of', 'with', 'by', 'from', 'and', 'or', 'but',
+    'it', 'its', 'this', 'that', 'these', 'those', 'can', 'could', 'would', 'should', 'will', 'work',
+    'me', 'my', 'i', 'you', 'your', 'he', 'she', 'they', 'we', 'us', 'them',
+];
+
+/**
+ * Extract substantive terms from a question (non-stopwords, length >= 2).
+ * Used for lexical relevance gate: a chunk must contain at least one of these to be shown.
+ */
+function get_question_terms(string $question): array {
+    $words = preg_split('/\s+/', strtolower($question), -1, PREG_SPLIT_NO_EMPTY);
+    $terms = [];
+    foreach ($words as $w) {
+        $w = preg_replace('/[^a-z0-9]/', '', $w);
+        if (strlen($w) >= 2 && !in_array($w, QUESTION_STOPWORDS, true)) {
+            $terms[] = $w;
+        }
+    }
+    return array_unique($terms);
+}
+
 /** Clan names for detection in questions. */
 const CLAN_NAMES = [
     'toreador', 'brujah', 'tremere', 'assamite', 'ventrue', 'malkavian',
     'nosferatu', 'gangrel', 'setite', 'setites', 'giovanni', 'ravnos', 'tzimisce',
     'lasombra', 'samedi', 'caitiff', 'followers of set'
 ];
+
+/** Common discipline names (MET/VTM) for relevance filtering. Longest first so "animalism" doesn't match "animal". */
+const DISCIPLINE_NAMES = [
+    'animalism', 'obfuscate', 'celerity', 'auspex', 'dominate', 'fortitude', 'potence', 'presence',
+    'protean', 'blood sorcery', 'oblivion', 'thin-blood alchemy', 'alchemy', 'serpentis',
+    'dementation', 'vicissitude', 'quietus', 'necromancy', 'thaumaturgy', 'path of blood',
+];
+
+/**
+ * If the question asks about a specific discipline by name, return that discipline (lowercase); otherwise null.
+ * Used to require retrieved chunks to mention that discipline and to always include core book in search.
+ */
+function get_mentioned_discipline(string $question): ?string {
+    $q = strtolower($question);
+    foreach (DISCIPLINE_NAMES as $d) {
+        if (strpos($q, $d) !== false) {
+            return $d;
+        }
+    }
+    return null;
+}
 
 function get_mentioned_clans(string $question): array {
     $q = strtolower($question);

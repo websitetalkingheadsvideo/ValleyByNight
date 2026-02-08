@@ -10,6 +10,7 @@ session_start();
  */
 require_once __DIR__ . '/../../includes/connect.php';
 require_once __DIR__ . '/rag_functions.php';
+require_once __DIR__ . '/supabase_rag.php';
 
 header('Content-Type: application/json');
 
@@ -28,7 +29,10 @@ $action = $_GET['action'] ?? '';
  * Handle Ask Question
  */
 if ($action === 'ask') {
-    set_time_limit(220);  // LM Studio curl 210s + DB + JSON; server may still have its own timeout
+    ignore_user_abort(true);
+    if (function_exists('set_time_limit') && !ini_get('safe_mode')) {
+        @set_time_limit(305);
+    }
     $start_time = microtime(true);
 
     // Get parameters
@@ -49,72 +53,65 @@ if ($action === 'ask') {
     }
     
     try {
-        // Step 1: Generate query embedding
-        $query_embedding = create_simple_embedding($question);
-        
-        // Step 2: Prepare book filters
+        // Step 2: Prepare book filters (source patterns for Supabase lore_embeddings)
         $book_filters = [];
-        $is_discipline_question = (bool) preg_match('/disciplines?/', strtolower($question));
         $mentioned_clans = get_mentioned_clans($question);
-        $is_follow_up = !empty(get_conversation_history($conn, $session_id, 1));
 
         if (!empty($book_filter) && $book_filter !== 'all') {
             $book_filters = [$book_filter];
         } elseif (!empty($mentioned_clans)) {
-            $book_filters = get_clan_book_filters($conn, $question);
-        } elseif ($is_discipline_question && !$is_follow_up) {
-            // First discipline-only question in this chat: core (LotNR) only
-            $book_filters = get_core_book_codes($conn);
+            $book_filters = get_clan_book_filters_supabase($question);
         } elseif (is_traditions_question($question)) {
-            // Camarilla Traditions: restrict to core book so clanbook tangents don't outrank LotNR
-            $book_filters = get_core_book_codes($conn);
+            $book_filters = get_core_book_codes_supabase();
         }
-        // Follow-up discipline question (no clan): $book_filters stays [] = search all books
 
-        // Step 3: Perform hybrid search (more chunks for better recall)
+        // Step 3: Perform Supabase hybrid search (vector + keyword). Keyword uses best term from question, not first word.
         $rag_chunk_limit = 6;
         $rag_chunk_max_chars = 750;
         $rag_sources_display_limit = 12;
-        $keyword_query = $question;
-        if ($is_discipline_question) {
-            $keyword_query .= ' discipline disciplines Auspex Celerity Presence Dominate Fortitude Potence';
+        $search_response = supabase_hybrid_search($question, $question, $book_filters, $rag_chunk_limit * 4);
+        if (isset($search_response['error']) && $search_response['error'] !== null) {
+            echo json_encode([
+                'success' => false,
+                'error' => $search_response['error'],
+            ]);
+            exit;
         }
-        if (is_traditions_question($question)) {
-            $keyword_query .= ' Traditions Masquerade Domain Progeny Accounting Hospitality Destruction Camarilla six';
-        }
-        $search_limit = $is_discipline_question ? 24 : $rag_chunk_limit;
-        $search_results = hybrid_search($conn, $keyword_query, $query_embedding, $book_filters, $search_limit);
+        $search_results = $search_response['results'];
 
-        // When question is about disciplines, prefer content_type=discipline_info (e.g. LotNR p.64 clan table)
-        if ($is_discipline_question) {
-            $discipline_info = array_filter($search_results, fn ($r) => ($r['content_type'] ?? '') === 'discipline_info');
-            $other_relevant = array_filter($search_results, fn ($r) => ($r['content_type'] ?? '') !== 'discipline_info');
-            if (!empty($discipline_info)) {
-                $merged = array_values($discipline_info);
-                $mentioned_clans = get_mentioned_clans($question);
-                if (!empty($mentioned_clans)) {
-                    usort($merged, function ($a, $b) use ($mentioned_clans) {
-                        $ca = strtolower($a['content']);
-                        $cb = strtolower($b['content']);
-                        $a_has = 0;
-                        $b_has = 0;
-                        foreach ($mentioned_clans as $clan) {
-                            if (strpos($ca, $clan) !== false) {
-                                $a_has = 1;
-                            }
-                            if (strpos($cb, $clan) !== false) {
-                                $b_has = 1;
-                            }
-                        }
-                        return $b_has <=> $a_has;
-                    });
+        // Put chunks that match question terms first so the model sees the relevant one (e.g. Celerity p.142) before noise
+        $question_terms = get_question_terms($question);
+        if (!empty($question_terms)) {
+            usort($search_results, function ($a, $b) use ($question_terms) {
+                $ca = strtolower((string) ($a['content'] ?? ''));
+                $cb = strtolower((string) ($b['content'] ?? ''));
+                $a_hits = 0;
+                $b_hits = 0;
+                foreach ($question_terms as $term) {
+                    if (strpos($ca, $term) !== false) {
+                        $a_hits++;
+                    }
+                    if (strpos($cb, $term) !== false) {
+                        $b_hits++;
+                    }
                 }
-                $merged_slice = array_slice($merged, 0, $rag_sources_display_limit);
-                $remaining = $rag_sources_display_limit - count($merged_slice);
-                $search_results = !empty($other_relevant)
-                    ? array_merge($merged_slice, array_slice(array_values($other_relevant), 0, $remaining))
-                    : $merged_slice;
-            }
+                if ($b_hits !== $a_hits) {
+                    return $b_hits <=> $a_hits;
+                }
+                $a_first = PHP_INT_MAX;
+                $b_first = PHP_INT_MAX;
+                foreach ($question_terms as $term) {
+                    $pa = strpos($ca, $term);
+                    $pb = strpos($cb, $term);
+                    if ($pa !== false && $pa < $a_first) {
+                        $a_first = $pa;
+                    }
+                    if ($pb !== false && $pb < $b_first) {
+                        $b_first = $pb;
+                    }
+                }
+                return $a_first <=> $b_first;
+            });
         }
 
         $results_for_context = array_slice($search_results, 0, $rag_chunk_limit);
@@ -123,7 +120,7 @@ if ($action === 'ask') {
         if (empty($search_results)) {
             echo json_encode([
                 'success' => true,
-                'answer' => 'I couldn\'t find any relevant information in the rulebooks for that question. Could you try rephrasing or asking something else?',
+                'answer' => 'No matching rulebook passages were found for that question. Try rephrasing or asking something else.',
                 'sources' => [],
                 'model' => 'none'
             ]);
@@ -136,7 +133,7 @@ if ($action === 'ask') {
         $context = "";
         $traditions_source = null;
         if (is_traditions_question($question)) {
-            $traditions_doc = get_traditions_document($conn);
+            $traditions_doc = get_traditions_document_supabase();
             if ($traditions_doc['content'] !== '') {
                 $context = $traditions_doc['content'];
                 $traditions_source = $traditions_doc['source'];
@@ -149,16 +146,6 @@ if ($action === 'ask') {
             $sources[] = $traditions_source;
         }
         
-        $max_score = 0.0;
-        foreach ($results_for_sources as $result) {
-            if (isset($result['search_score']) && $result['search_score'] > $max_score) {
-                $max_score = $result['search_score'];
-            }
-        }
-        if ($max_score <= 0) {
-            $max_score = 1.0;
-        }
-
         foreach ($results_for_context as $i => $result) {
             $content = strlen($result['content']) > $rag_chunk_max_chars
                 ? substr($result['content'], 0, $rag_chunk_max_chars) . '...'
@@ -181,7 +168,7 @@ if ($action === 'ask') {
                 $seen_source_key[$key] = true;
             }
             $raw_score = (float) ($result['search_score'] ?? 0);
-            $score_display = round($raw_score / $max_score, 3);
+            $score_display = round($raw_score, 3);
             $content = $result['content'];
             if (strlen($content) <= $excerpt_len) {
                 $excerpt = $content;
@@ -218,24 +205,29 @@ if ($action === 'ask') {
         $lm_studio_error = (!$ai_response['success']) ? ($ai_response['error'] ?? 'unknown') : null;
 
         if (!$ai_response['success']) {
-            // Fallback to Claude
-            $anthropic_api_key = getenv('ANTHROPIC_API_KEY');
-
-            if (!$anthropic_api_key) {
+            $err = $lm_studio_error ?? 'unknown';
+            $is_timeout = (stripos($err, 'timed out') !== false || stripos($err, 'timeout') !== false);
+            if ($is_timeout) {
                 echo json_encode([
                     'success' => false,
-                    'error' => 'LM Studio unavailable and no Claude API key configured. LM Studio: ' . ($lm_studio_error ?? 'unknown')
+                    'error' => 'LM Studio took too long to respond (5 min limit). Try again.'
                 ]);
                 exit;
             }
-
+            $anthropic_api_key = getenv('ANTHROPIC_API_KEY');
+            if (!$anthropic_api_key) {
+                echo json_encode([
+                    'success' => false,
+                    'error' => 'LM Studio unavailable and no Claude API key. LM Studio: ' . $err
+                ]);
+                exit;
+            }
             $ai_response = query_claude($question, $context, $conversation_history, $anthropic_api_key);
-
             if (!$ai_response['success']) {
                 $claude_err = $ai_response['error'] ?? 'unknown';
                 echo json_encode([
                     'success' => false,
-                    'error' => 'LM Studio: ' . ($lm_studio_error ?? 'unknown') . '; Claude: ' . $claude_err
+                    'error' => 'LM Studio: ' . $err . '; Claude: ' . $claude_err
                 ]);
                 exit;
             }
@@ -245,16 +237,11 @@ if ($action === 'ask') {
         $model = $ai_response['model'];
         $response_time = (int)((microtime(true) - $start_time) * 1000);
 
-        // Step 7: Save conversation (non-fatal; log and continue on failure)
-        if (!empty($answer)) {
-            $saved = save_conversation($conn, $user_id, $session_id, $question, $answer, $sources, $model, $response_time);
-            if ($saved === false) {
-                error_log('RAG API: save_conversation failed for user_id=' . $user_id . ' session_id=' . $session_id);
-            }
+        // Step 7: Return response immediately so the page updates; then save (so slow DB doesn't block the user)
+        $answer_utf8 = (function_exists('mb_convert_encoding')) ? mb_convert_encoding($answer, 'UTF-8', 'UTF-8') : $answer;
+        if ($answer_utf8 === false || $answer_utf8 === null) {
+            $answer_utf8 = $answer;
         }
-
-        // Step 8: Return response (ensure UTF-8 so json_encode does not fail)
-        $answer_utf8 = mb_convert_encoding($answer, 'UTF-8', 'UTF-8');
         $payload = [
             'success' => true,
             'answer' => $answer_utf8,
@@ -269,6 +256,19 @@ if ($action === 'ask') {
             exit;
         }
         echo $out;
+        if (function_exists('fastcgi_finish_request')) {
+            fastcgi_finish_request();
+        } else {
+            flush();
+        }
+
+        // Step 8: Save conversation after client has the response (non-fatal)
+        if (!empty($answer)) {
+            $saved = save_conversation($conn, $user_id, $session_id, $question, $answer, $sources, $model, $response_time);
+            if ($saved === false) {
+                error_log('RAG API: save_conversation failed for user_id=' . $user_id . ' session_id=' . $session_id);
+            }
+        }
         exit;
     } catch (Exception $e) {
         error_log("RAG API Error: " . $e->getMessage());
