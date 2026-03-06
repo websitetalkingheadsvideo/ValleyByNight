@@ -3,8 +3,10 @@
  * Registration Process Handler
  * Validates input, creates user account, sends verification email
  */
+declare(strict_types=1);
+
 session_start();
-require_once __DIR__ . '/connect.php';
+require_once __DIR__ . '/supabase_client.php';
 require_once __DIR__ . '/email_helper_simple.php';
 
 // Check if form was submitted
@@ -60,28 +62,26 @@ if ($password !== $confirm_password) {
 
 // Check for existing username
 if (empty($errors)) {
-    $stmt = mysqli_prepare($conn, "SELECT id FROM users WHERE username = ?");
-    mysqli_stmt_bind_param($stmt, "s", $username);
-    mysqli_stmt_execute($stmt);
-    $result = mysqli_stmt_get_result($stmt);
-    
-    if (mysqli_num_rows($result) > 0) {
+    $usernameRows = supabase_table_get('users', [
+        'select' => 'id',
+        'username' => 'eq.' . $username,
+        'limit' => '1'
+    ]);
+    if (!empty($usernameRows)) {
         $errors[] = "Username already exists";
     }
-    mysqli_stmt_close($stmt);
 }
 
 // Check for existing email
 if (empty($errors)) {
-    $stmt = mysqli_prepare($conn, "SELECT id FROM users WHERE email = ?");
-    mysqli_stmt_bind_param($stmt, "s", $email);
-    mysqli_stmt_execute($stmt);
-    $result = mysqli_stmt_get_result($stmt);
-    
-    if (mysqli_num_rows($result) > 0) {
+    $emailRows = supabase_table_get('users', [
+        'select' => 'id',
+        'email' => 'eq.' . $email,
+        'limit' => '1'
+    ]);
+    if (!empty($emailRows)) {
         $errors[] = "Email already registered";
     }
-    mysqli_stmt_close($stmt);
 }
 
 // If validation failed, redirect back with errors
@@ -99,23 +99,28 @@ $verification_expires = date('Y-m-d H:i:s', strtotime('+24 hours'));
 $password_hash = password_hash($password, PASSWORD_DEFAULT);
 
 // Insert user into database
-$stmt = mysqli_prepare($conn, 
-    "INSERT INTO users (username, email, password, role, email_verified, verification_token, verification_expires, created_at) 
-     VALUES (?, ?, ?, 'player', FALSE, ?, ?, NOW())"
+$insertResult = supabase_rest_request(
+    'POST',
+    '/rest/v1/users',
+    ['select' => 'id'],
+    [[
+        'username' => $username,
+        'email' => $email,
+        'password' => $password_hash,
+        'role' => 'player',
+        'email_verified' => false,
+        'verification_token' => $verification_token,
+        'verification_expires' => $verification_expires,
+        'created_at' => gmdate('c')
+    ]],
+    ['Prefer: return=representation']
 );
 
-mysqli_stmt_bind_param($stmt, "sssss", $username, $email, $password_hash, $verification_token, $verification_expires);
-
-if (!mysqli_stmt_execute($stmt)) {
-    $error_message = mysqli_stmt_error($stmt);
-    mysqli_stmt_close($stmt);
-    $_SESSION['error'] = "Registration failed: " . $error_message;
+if ($insertResult['error'] !== null) {
+    $_SESSION['error'] = "Registration failed: " . $insertResult['error'];
     header("Location: register.php");
     exit();
 }
-
-$user_id = mysqli_insert_id($conn);
-mysqli_stmt_close($stmt);
 
 // Send verification email
 $email_sent = send_verification_email($email, $username, $verification_token);
@@ -125,8 +130,6 @@ if ($email_sent) {
 } else {
     $_SESSION['success'] = "Account created! Email verification is temporarily unavailable. Please contact support.";
 }
-
-mysqli_close($conn);
 
 // Redirect to login page with success message
 header("Location: login.php");

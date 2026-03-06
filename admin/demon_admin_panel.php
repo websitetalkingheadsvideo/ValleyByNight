@@ -5,11 +5,11 @@
 declare(strict_types=1);
 
 if (session_status() === PHP_SESSION_NONE) session_start();
-require_once __DIR__ . '/../includes/connect.php';
+require_once __DIR__ . '/../includes/supabase_client.php';
 $user_id = (int)($_SESSION['user_id'] ?? 0);
 if ($user_id <= 0) { header('Location: ../login.php'); exit; }
 require_once __DIR__ . '/../includes/verify_role.php';
-if (!isAdminUser(verifyUserRole($conn, $user_id))) { header('Location: ../login.php'); exit; }
+if (!isAdminUser(verifyUserRole(null, $user_id))) { header('Location: ../login.php'); exit; }
 include __DIR__ . '/../includes/header.php';
 require_once __DIR__ . '/../includes/admin_header.php';
 ?>
@@ -32,11 +32,13 @@ require_once __DIR__ . '/../includes/admin_header.php';
                     </thead>
                     <tbody>
                         <?php
-                        $r = mysqli_query($conn, "SELECT d.*, u.username as owner_username FROM demon_characters d LEFT JOIN users u ON d.user_id = u.id ORDER BY d.id DESC");
-                        if (!$r) echo "<tr><td colspan='5'>" . htmlspecialchars(mysqli_error($conn)) . "</td></tr>";
-                        elseif (mysqli_num_rows($r) === 0) echo "<tr><td colspan='5' class='text-center'>No Demon characters found.</td></tr>";
-                        else {
-                            while ($c = mysqli_fetch_assoc($r)) {
+                        try {
+                            $rows = supabase_table_get('demon_characters', ['select' => '*', 'order' => 'id.desc']);
+                        } catch (Throwable $e) {
+                            $rows = [];
+                        }
+                        if (empty($rows)) { echo "<tr><td colspan='5' class='text-center'>No Demon characters found.</td></tr>"; } else {
+                            foreach ($rows as $c) {
                                 $st = strtolower(trim($c['status'] ?? 'active')); if ($st === '') $st = 'active';
                                 $badge = $st === 'active' ? 'badge bg-success' : ($st === 'inactive' ? 'badge bg-secondary' : 'badge bg-warning');
                                 ?>

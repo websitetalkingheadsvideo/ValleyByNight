@@ -3,8 +3,9 @@
  * Debug Login - TEMPORARY FILE - DELETE AFTER USE
  * Checks if admin user exists and verifies password
  */
+declare(strict_types=1);
 
-require_once __DIR__ . '/includes/connect.php';
+require_once __DIR__ . '/includes/supabase_client.php';
 
 // Get username from command line or default to 'admin'
 $test_username = $argv[1] ?? 'admin';
@@ -13,21 +14,21 @@ echo "=== Login Debug Tool ===\n";
 echo "Testing username: $test_username\n\n";
 
 // Check if user exists
-$user = db_fetch_one($conn,
-    "SELECT id, username, role, email_verified, 
-            CHAR_LENGTH(password) as password_length 
-     FROM users WHERE username = ?",
-    "s",
-    [$test_username]
-);
+$rows = supabase_table_get('users', [
+    'select' => 'id,username,role,email_verified,password',
+    'username' => 'eq.' . $test_username,
+    'limit' => '1'
+]);
+$user = !empty($rows) ? $rows[0] : null;
 
 if ($user) {
+    $password_length = isset($user['password']) ? strlen((string) $user['password']) : 0;
     echo "✓ User found!\n";
     echo "  ID: {$user['id']}\n";
     echo "  Username: {$user['username']}\n";
     echo "  Role: {$user['role']}\n";
     echo "  Email Verified: " . ($user['email_verified'] ? 'YES' : 'NO') . "\n";
-    echo "  Password hash length: {$user['password_length']} chars\n\n";
+    echo "  Password hash length: {$password_length} chars\n\n";
     
     if (!$user['email_verified']) {
         echo "⚠ WARNING: Email is not verified!\n";
@@ -40,15 +41,8 @@ if ($user) {
     // If password provided as second argument, test it
     if (isset($argv[2])) {
         $test_password = $argv[2];
-        
-        // Get the actual password hash
-        $hash_result = db_fetch_one($conn,
-            "SELECT password FROM users WHERE username = ?",
-            "s",
-            [$test_username]
-        );
-        
-        if ($hash_result && password_verify($test_password, $hash_result['password'])) {
+
+        if (isset($user['password']) && password_verify($test_password, (string) $user['password'])) {
             echo "\n✓ PASSWORD MATCHES!\n";
             echo "  The password is correct.\n";
             if (!$user['email_verified']) {
@@ -67,15 +61,16 @@ if ($user) {
     echo "  Check for typos or case sensitivity.\n\n";
     
     // List all users
-    $all_users = mysqli_query($conn, "SELECT username, role FROM users ORDER BY username");
-    if ($all_users && mysqli_num_rows($all_users) > 0) {
+    $all_users = supabase_table_get('users', [
+        'select' => 'username,role',
+        'order' => 'username.asc'
+    ]);
+    if (!empty($all_users)) {
         echo "Available users:\n";
-        while ($row = mysqli_fetch_assoc($all_users)) {
+        foreach ($all_users as $row) {
             echo "  - {$row['username']} ({$row['role']})\n";
         }
     }
 }
-
-mysqli_close($conn);
 ?>
 

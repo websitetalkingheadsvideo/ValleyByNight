@@ -6,23 +6,21 @@
 session_start();
 header('Content-Type: application/json');
 
-require_once __DIR__ . '/connect.php';
+require_once __DIR__ . '/supabase_client.php';
 
 $response = ['success' => false, 'characters' => [], 'error' => ''];
 
 try {
-    $query = "SELECT id, character_name FROM characters ORDER BY character_name ASC";
-    $result = mysqli_query($conn, $query);
-    
-    if (!$result) {
-        throw new Exception('Database query failed: ' . mysqli_error($conn));
-    }
-    
+    $rows = supabase_table_get('characters', [
+        'select' => 'id,character_name',
+        'order' => 'character_name.asc',
+    ]);
+
     $characters = [];
-    while ($row = mysqli_fetch_assoc($result)) {
+    foreach ($rows as $row) {
         $characters[] = [
-            'id' => $row['id'],
-            'name' => $row['character_name']
+            'id' => $row['id'] ?? null,
+            'name' => $row['character_name'] ?? '',
         ];
     }
     
@@ -34,6 +32,5 @@ try {
 }
 
 echo json_encode($response);
-mysqli_close($conn);
 ?>
 

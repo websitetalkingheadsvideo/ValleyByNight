@@ -3,8 +3,9 @@
  * Reset Admin Password - TEMPORARY FILE - DELETE AFTER USE
  * Resets the admin user password
  */
+declare(strict_types=1);
 
-require_once __DIR__ . '/includes/connect.php';
+require_once __DIR__ . '/includes/supabase_client.php';
 
 echo "=== Admin Password Reset Tool ===\n\n";
 
@@ -24,11 +25,19 @@ if (empty($new_password)) {
 $password_hash = password_hash($new_password, PASSWORD_DEFAULT);
 
 // Update admin user password
-$stmt = mysqli_prepare($conn, "UPDATE users SET password = ? WHERE username = 'admin'");
-mysqli_stmt_bind_param($stmt, "s", $password_hash);
-$result = mysqli_stmt_execute($stmt);
-$affected = mysqli_affected_rows($conn);
-mysqli_stmt_close($stmt);
+$updateResult = supabase_rest_request(
+    'PATCH',
+    '/rest/v1/users',
+    ['username' => 'eq.admin'],
+    ['password' => $password_hash],
+    ['Prefer: return=representation']
+);
+
+$result = $updateResult['error'] === null;
+$affected = 0;
+if ($result && is_array($updateResult['data'])) {
+    $affected = count($updateResult['data']);
+}
 
 if ($result && $affected > 0) {
     echo "✓ Admin password updated successfully!\n";
@@ -39,9 +48,7 @@ if ($result && $affected > 0) {
     if ($affected == 0) {
         echo "  No admin user found to update.\n";
     } else {
-        echo "  Error: " . mysqli_error($conn) . "\n";
+        echo "  Error: " . $updateResult['error'] . "\n";
     }
 }
-
-mysqli_close($conn);
 ?>

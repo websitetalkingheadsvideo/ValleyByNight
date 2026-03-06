@@ -12,7 +12,7 @@ if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
     exit();
 }
 
-require_once __DIR__ . '/../includes/connect.php';
+require_once __DIR__ . '/../includes/supabase_client.php';
 require_once __DIR__ . '/../includes/camarilla_positions_helper.php';
 
 $position_id = isset($_GET['id']) ? trim($_GET['id']) : '';
@@ -24,11 +24,12 @@ if (empty($position_id)) {
 
 try {
     // Get main position data
-    $position = db_fetch_one($conn, 
-        "SELECT * FROM camarilla_positions WHERE position_id = ?", 
-        's', 
-        [$position_id]
-    );
+    $positionRows = supabase_table_get('camarilla_positions', [
+        'select' => '*',
+        'position_id' => 'eq.' . $position_id,
+        'limit' => '1'
+    ]);
+    $position = !empty($positionRows) ? $positionRows[0] : null;
     
     if (!$position) {
         echo json_encode(['success' => false, 'message' => 'Position not found']);
@@ -66,7 +67,5 @@ try {
         'message' => 'Error: ' . $e->getMessage()
     ]);
 }
-
-mysqli_close($conn);
 ?>
 

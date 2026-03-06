@@ -12,26 +12,16 @@ if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
     exit();
 }
 
-require_once __DIR__ . '/includes/connect.php';
-
-if (!$conn) {
-    echo json_encode([
-        'success' => false,
-        'error' => 'Database connection failed'
-    ]);
-    exit();
-}
+require_once __DIR__ . '/includes/supabase_client.php';
 
 try {
-    $query = "SELECT * FROM items ORDER BY name ASC";
-    $result = mysqli_query($conn, $query);
-    
-    if (!$result) {
-        throw new Exception('Database query failed: ' . mysqli_error($conn));
-    }
-    
+    $rows = supabase_table_get('items', [
+        'select' => '*',
+        'order' => 'name.asc',
+    ]);
+
     $items = [];
-    while ($row = mysqli_fetch_assoc($result)) {
+    foreach ($rows as $row) {
         // Parse requirements JSON if present
         if (!empty($row['requirements'])) {
             $row['requirements'] = json_decode($row['requirements'], true);
@@ -50,7 +40,5 @@ try {
         'error' => $e->getMessage()
     ]);
 }
-
-mysqli_close($conn);
 ?>
 

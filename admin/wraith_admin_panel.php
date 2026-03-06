@@ -9,7 +9,7 @@ if (session_status() === PHP_SESSION_NONE) {
     session_start();
 }
 
-require_once __DIR__ . '/../includes/connect.php';
+require_once __DIR__ . '/../includes/supabase_client.php';
 
 $user_id = (int)($_SESSION['user_id'] ?? 0);
 if ($user_id <= 0) {
@@ -18,7 +18,7 @@ if ($user_id <= 0) {
 }
 
 require_once __DIR__ . '/../includes/verify_role.php';
-$user_role = verifyUserRole($conn, $user_id);
+$user_role = verifyUserRole(null, $user_id);
 if (!isAdminUser($user_role)) {
     header('Location: ../login.php');
     exit;
@@ -113,18 +113,18 @@ function formatAngst($shadowJson) {
                     </thead>
                     <tbody>
                         <?php
-                        $char_query = "SELECT w.*, u.username as owner_username
-                                     FROM wraith_characters w 
-                                     LEFT JOIN users u ON w.user_id = u.id
-                                     ORDER BY w.id DESC";
-                        $char_result = mysqli_query($conn, $char_query);
+                        try {
+                            $char_rows = supabase_table_get('wraith_characters', ['select' => '*', 'order' => 'id.desc']);
+                        } catch (Throwable $e) {
+                            $char_rows = [];
+                        }
                         $currentAdminUrl = $_SERVER['REQUEST_URI'] ?? '/admin/wraith_admin_panel.php';
                         $encodedReturnUrl = rawurlencode($currentAdminUrl);
                         
-                        if (!$char_result) {
-                            echo "<tr><td colspan='12'>Query Error: " . mysqli_error($conn) . "</td></tr>";
-                        } elseif (mysqli_num_rows($char_result) > 0) {
-                            while ($char = mysqli_fetch_assoc($char_result)) {
+                        if (empty($char_rows)) {
+                            echo "<tr><td colspan='12' class='text-center'>No Wraith characters found.</td></tr>";
+                        } else {
+                            foreach ($char_rows as $char) {
                                 $is_npc = ($char['pc'] == 0);
                                 $playerName = trim($char['player_name'] ?? '') !== '' ? $char['player_name'] : ($is_npc ? 'NPC' : '—');
                                 $statusRaw = trim((string)($char['status'] ?? ''));
@@ -138,7 +138,7 @@ function formatAngst($shadowJson) {
                                     $status = 'unknown';
                                 }
                                 
-                                $owner = $char['owner_username'] ?? '—';
+                                $owner = '—';
                                 $dateOfDeath = $char['date_of_death'] ? date('Y-m-d', strtotime($char['date_of_death'])) : '—';
                         ?>
                             <tr class="character-row" 
@@ -211,8 +211,6 @@ function formatAngst($shadowJson) {
                             </tr>
                         <?php
                             }
-                        } else {
-                            echo "<tr><td colspan='12' class='text-center'>No Wraith characters found.</td></tr>";
                         }
                         ?>
                     </tbody>

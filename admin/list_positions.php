@@ -14,12 +14,12 @@ if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
     exit();
 }
 
-require_once __DIR__ . '/../includes/connect.php';
+require_once __DIR__ . '/../includes/supabase_client.php';
 
-$positions_query = "SELECT position_id, name, category, importance_rank, description 
-                    FROM camarilla_positions 
-                    ORDER BY importance_rank ASC, category ASC, name ASC";
-$positions = db_fetch_all($conn, $positions_query);
+$positions = supabase_table_get('camarilla_positions', [
+    'select' => 'position_id,name,category,importance_rank,description',
+    'order' => 'importance_rank.asc,category.asc,name.asc'
+]);
 
 ?>
 <!DOCTYPE html>

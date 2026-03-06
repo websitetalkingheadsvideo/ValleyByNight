@@ -23,20 +23,24 @@ if (isAuthBypassEnabled() && !isset($_SESSION['user_id'])) {
     setupBypassSession();
 }
 
-// Database connection
-include 'includes/connect.php';
+require_once __DIR__ . '/includes/supabase_client.php';
 
 // Load archetypes from database for nature/demeanor dropdowns
 $archetypes = [];
-if ($conn) {
-    $archetypes_query = "SELECT name FROM archetypes ORDER BY name ASC";
-    $archetypes_result = @mysqli_query($conn, $archetypes_query);
-    if ($archetypes_result) {
-        while ($row = mysqli_fetch_assoc($archetypes_result)) {
-            $archetypes[] = $row['name'];
+try {
+    $archetypeRows = supabase_table_get('archetypes', [
+        'select' => 'name',
+        'order' => 'name.asc'
+    ]);
+    if (!empty($archetypeRows)) {
+        foreach ($archetypeRows as $row) {
+            if (!empty($row['name'])) {
+                $archetypes[] = (string) $row['name'];
+            }
         }
-        mysqli_free_result($archetypes_result);
     }
+} catch (Throwable $e) {
+    error_log('wraith_char_create archetypes query failed: ' . $e->getMessage());
 }
 
 $extra_css = [

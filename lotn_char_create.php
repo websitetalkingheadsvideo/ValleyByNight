@@ -19,7 +19,7 @@ if (!isset($_SESSION['user_id'])) {
 }
 
 // Database connection
-include 'includes/connect.php';
+require_once __DIR__ . '/includes/supabase_client.php';
 
 // Fetch Nature/Demeanor options from database
 $nature_demeanor_options = [];
@@ -31,40 +31,47 @@ $fallback_options = [
     'Thrill-Seeker', 'Traditionalist', 'Visionary'
 ];
 
-if ($conn) {
-    $query = "SELECT name FROM Nature_Demeanor ORDER BY display_order";
-    $result = mysqli_query($conn, $query);
-    
-    if ($result && mysqli_num_rows($result) > 0) {
-        while ($row = mysqli_fetch_assoc($result)) {
-            $nature_demeanor_options[] = $row['name'];
+try {
+    $natureDemeanorRows = supabase_table_get('Nature_Demeanor', [
+        'select' => 'name',
+        'order' => 'display_order.asc'
+    ]);
+    if (!empty($natureDemeanorRows)) {
+        foreach ($natureDemeanorRows as $row) {
+            if (!empty($row['name'])) {
+                $nature_demeanor_options[] = $row['name'];
+            }
         }
-        mysqli_free_result($result);
-    } else {
-        // Fallback to hardcoded list if table doesn't exist or is empty
+    }
+    if (empty($nature_demeanor_options)) {
         $nature_demeanor_options = $fallback_options;
     }
-} else {
-    // Fallback if database connection fails
+} catch (Throwable $e) {
+    error_log('lotn_char_create Nature_Demeanor query failed: ' . $e->getMessage());
     $nature_demeanor_options = $fallback_options;
 }
 
 // Fetch derangements from database
 $derangements_data = [];
 
-if ($conn) {
-    $query = "SELECT name, description FROM derangements ORDER BY display_order";
-    $result = mysqli_query($conn, $query);
-    
-    if ($result && mysqli_num_rows($result) > 0) {
-        while ($row = mysqli_fetch_assoc($result)) {
+try {
+    $derangementRows = supabase_table_get('derangements', [
+        'select' => 'name,description',
+        'order' => 'display_order.asc'
+    ]);
+    if (!empty($derangementRows)) {
+        foreach ($derangementRows as $row) {
+            if (empty($row['name'])) {
+                continue;
+            }
             $derangements_data[] = [
-                'name' => $row['name'],
-                'description' => $row['description'] ?? ''
+                'name' => (string) $row['name'],
+                'description' => (string) ($row['description'] ?? '')
             ];
         }
-        mysqli_free_result($result);
     }
+} catch (Throwable $e) {
+    error_log('lotn_char_create derangements query failed: ' . $e->getMessage());
 }
 
 // Fetch traits from database
@@ -74,22 +81,24 @@ $traits_data = [
     'Mental' => ['positive' => [], 'negative' => []]
 ];
 
-if ($conn) {
-    $query = "SELECT trait_name, trait_category, is_negative FROM traits ORDER BY trait_category, is_negative, trait_name";
-    $result = mysqli_query($conn, $query);
-    
-    if ($result && mysqli_num_rows($result) > 0) {
-        while ($row = mysqli_fetch_assoc($result)) {
-            $category = $row['trait_category'];
-            $is_negative = (int)$row['is_negative'];
+try {
+    $traitRows = supabase_table_get('traits', [
+        'select' => 'trait_name,trait_category,is_negative',
+        'order' => 'trait_category.asc,is_negative.asc,trait_name.asc'
+    ]);
+    if (!empty($traitRows)) {
+        foreach ($traitRows as $row) {
+            $category = (string) ($row['trait_category'] ?? '');
+            $is_negative = (int) ($row['is_negative'] ?? 0);
             $type = $is_negative ? 'negative' : 'positive';
             
             if (isset($traits_data[$category])) {
-                $traits_data[$category][$type][] = $row['trait_name'];
+                $traits_data[$category][$type][] = (string) ($row['trait_name'] ?? '');
             }
         }
-        mysqli_free_result($result);
     }
+} catch (Throwable $e) {
+    error_log('lotn_char_create traits query failed: ' . $e->getMessage());
 }
 ?>
 <!DOCTYPE html>

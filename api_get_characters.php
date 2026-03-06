@@ -12,54 +12,35 @@ if (!isset($_SESSION['user_id'])) {
     exit();
 }
 
-require_once __DIR__ . '/includes/connect.php';
+require_once __DIR__ . '/includes/supabase_client.php';
 require_once __DIR__ . '/includes/verify_role.php';
 
 $response = ['success' => false, 'characters' => [], 'error' => ''];
 
 try {
     $user_id = $_SESSION['user_id'];
-    $user_role = verifyUserRole($conn, $user_id);
+    $user_role = verifyUserRole(null, $user_id);
     $is_admin = isAdminUser($user_role);
-    
-    // Build query - include all NPCs for admins (player_name = 'NPC' or pc = 0)
+
+    $query = [
+        'select' => 'id,character_name,clan,player_name,status,generation,concept,nature,demeanor,pc,user_id',
+    ];
     if ($is_admin) {
-        $query = "SELECT id, character_name, clan, player_name, status, generation, concept, nature, demeanor, pc
-                  FROM characters 
-                  WHERE user_id = ? OR player_name = 'NPC' OR pc = 0
-                  ORDER BY player_name DESC, character_name ASC";
+        $query['or'] = '(user_id.eq.' . (string) $user_id . ',player_name.eq.NPC,pc.eq.0)';
+        $query['order'] = 'player_name.desc,character_name.asc';
     } else {
-        $query = "SELECT id, character_name, clan, player_name, status, generation, concept, nature, demeanor
-                  FROM characters 
-                  WHERE user_id = ? 
-                  ORDER BY character_name ASC";
+        $query['user_id'] = 'eq.' . (string) $user_id;
+        $query['order'] = 'character_name.asc';
     }
-    
-    $stmt = mysqli_prepare($conn, $query);
-    
-    if (!$stmt) {
-        throw new Exception('Database prepare failed: ' . mysqli_error($conn));
-    }
-    
-    if ($is_admin) {
-        mysqli_stmt_bind_param($stmt, 'i', $user_id);
-    } else {
-        mysqli_stmt_bind_param($stmt, 'i', $user_id);
-    }
-    
-    mysqli_stmt_execute($stmt);
-    $result = mysqli_stmt_get_result($stmt);
-    
-    if (!$result) {
-        throw new Exception('Database query failed: ' . mysqli_error($conn));
-    }
-    
+
+    $rows = supabase_table_get('characters', $query);
+
     $characters = [];
-    while ($row = mysqli_fetch_assoc($result)) {
+    foreach ($rows as $row) {
         $is_npc = ($row['player_name'] === 'NPC') || (isset($row['pc']) && (int) $row['pc'] === 0);
         $characters[] = [
-            'id' => $row['id'],
-            'character_name' => $row['character_name'],
+            'id' => $row['id'] ?? null,
+            'character_name' => $row['character_name'] ?? '',
             'clan' => $row['clan'] ?? '',
             'player_name' => $row['player_name'] ?? '',
             'is_npc' => $is_npc,
@@ -79,6 +60,5 @@ try {
 }
 
 echo json_encode($response);
-mysqli_close($conn);
 ?>
 

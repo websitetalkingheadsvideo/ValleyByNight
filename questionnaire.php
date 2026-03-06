@@ -15,77 +15,60 @@ if (isAuthBypassEnabled() && !isset($_SESSION['user_id'])) {
     setupBypassSession();
 }
 
-include __DIR__ . '/includes/connect.php';
+require_once __DIR__ . '/includes/supabase_client.php';
 
-// Detect available columns to support prod/dev schema differences
-$columnsResult = db_select($conn, 'SHOW COLUMNS FROM questionnaire_questions');
-if ($columnsResult === false) {
-    die('Database error: Failed to inspect questionnaire schema');
-}
-$available = [];
-while ($row = mysqli_fetch_assoc($columnsResult)) {
-    $available[strtolower($row['Field'])] = true;
+try {
+    $rows = supabase_table_get('questionnaire_questions', [
+        'select' => '*'
+    ]);
+} catch (Throwable $e) {
+    die('Database error: Failed to load questions');
 }
 
-// Build a resilient SELECT list
-$selects = [];
-
-// Always try to include id/ID
-if (isset($available['id'])) {
-    $selects[] = 'id';
-} elseif (isset($available['ID'])) { // case-insensitivity safeguard
-    $selects[] = 'ID as id';
+if (empty($rows)) {
+    die('No questions found in database.');
 }
 
-// Category/subcategory when present
-if (isset($available['category'])) {
-    $selects[] = 'category';
-}
-if (isset($available['subcategory'])) {
-    $selects[] = 'subcategory';
+$firstRow = $rows[0];
+$fieldMap = [];
+foreach (array_keys($firstRow) as $fieldName) {
+    $fieldMap[strtolower((string) $fieldName)] = (string) $fieldName;
 }
 
-// Question text — prefer `question`, fallback to `question_text`
-if (isset($available['question'])) {
-    $selects[] = 'question as question';
-} elseif (isset($available['question_text'])) {
-    $selects[] = 'question_text as question';
-}
-
-// Answers (if table stores them)
-for ($i = 1; $i <= 4; $i++) {
-    $col = 'answer' . $i;
-    if (isset($available[$col])) {
-        $selects[] = $col;
-    }
-}
-
-// Clan weights for scoring in JS (comma-delimited strings)
-for ($i = 1; $i <= 4; $i++) {
-    $col = 'clanweight' . $i; // handle case-insensitive variations
-    if (isset($available[$col])) {
-        $selects[] = 'clanWeight' . $i;
-    } elseif (isset($available['clanWeight' . $i])) {
-        $selects[] = 'clanWeight' . $i;
-    }
-}
-
-// Fallback if question text not found
-if (!in_array('question as question', $selects, true) && !in_array('question_text as question', $selects, true)) {
-    // Provide at least id and category to avoid total failure; inform user
+$idField = $fieldMap['id'] ?? null;
+$categoryField = $fieldMap['category'] ?? null;
+$subCategoryField = $fieldMap['subcategory'] ?? null;
+$questionField = $fieldMap['question'] ?? ($fieldMap['question_text'] ?? null);
+if ($questionField === null) {
     die('Database error: Missing question text column (expected `question` or `question_text`)');
 }
 
-$sql = 'SELECT ' . implode(', ', $selects) . ' FROM questionnaire_questions ORDER BY RAND() LIMIT 20';
-$result = db_select($conn, $sql);
-if ($result === false) {
-    // Log was already recorded by db_select; show friendly message
-    die('Database error: Failed to load questions');
+$questions = [];
+foreach ($rows as $row) {
+    $question = [
+        'id' => $idField !== null ? ($row[$idField] ?? null) : null,
+        'category' => $categoryField !== null ? ($row[$categoryField] ?? null) : null,
+        'subcategory' => $subCategoryField !== null ? ($row[$subCategoryField] ?? null) : null,
+        'question' => $row[$questionField] ?? ''
+    ];
+
+    for ($i = 1; $i <= 4; $i++) {
+        $answerField = $fieldMap['answer' . $i] ?? null;
+        if ($answerField !== null) {
+            $question['answer' . $i] = $row[$answerField] ?? null;
+        }
+
+        $weightField = $fieldMap['clanweight' . $i] ?? null;
+        if ($weightField !== null) {
+            $question['clanWeight' . $i] = $row[$weightField] ?? null;
+        }
+    }
+
+    $questions[] = $question;
 }
-$questions = mysqli_fetch_all($result, MYSQLI_ASSOC);
-if (empty($questions)) {
-    die('No questions found in database.');
-}
+
+shuffle($questions);
+$questions = array_slice($questions, 0, 20);
 
 $extra_css = [];
 include __DIR__ . '/includes/header.php';

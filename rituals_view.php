@@ -5,21 +5,13 @@
  * Displays 10 random rituals from the rituals_master table
  */
 
-require_once __DIR__ . '/includes/connect.php';
+require_once __DIR__ . '/includes/supabase_client.php';
 
-// Query 10 random rituals
-$query = "SELECT name, type, level, description, system_text, requirements, ingredients, source 
-          FROM rituals_master 
-          ORDER BY RAND() 
-          LIMIT 10";
-
-$result = $conn->query($query);
-$rituals = [];
-if ($result) {
-    while ($row = $result->fetch_assoc()) {
-        $rituals[] = $row;
-    }
-}
+$rituals = supabase_table_get('rituals_master', [
+    'select' => 'name,type,level,description,system_text,requirements,ingredients,source'
+]);
+shuffle($rituals);
+$rituals = array_slice($rituals, 0, 10);
 
 // Set up page-specific CSS
 $extra_css = ['css/rituals_view.css'];
@@ -88,7 +80,7 @@ include 'includes/header.php';
                             <?php if (!empty($ritual['source'])): ?>
                                 <div class="ritual-field">
                                     <h5 class="field-label text-danger">Source</h5>
-                                    <p class="field-value opacity-75 small"><?php echo htmlspecialchars($ritual['source']); ?></p>
+                                    <p class="field-value small"><?php echo htmlspecialchars($ritual['source']); ?></p>
                                 </div>
                             <?php endif; ?>
                         </div>
