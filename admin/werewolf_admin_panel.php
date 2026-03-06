@@ -8,7 +8,7 @@ if (session_status() === PHP_SESSION_NONE) {
     session_start();
 }
 
-require_once __DIR__ . '/../includes/connect.php';
+require_once __DIR__ . '/../includes/supabase_client.php';
 
 $user_id = (int)($_SESSION['user_id'] ?? 0);
 if ($user_id <= 0) {
@@ -17,7 +17,7 @@ if ($user_id <= 0) {
 }
 
 require_once __DIR__ . '/../includes/verify_role.php';
-$user_role = verifyUserRole($conn, $user_id);
+$user_role = verifyUserRole(null, $user_id);
 if (!isAdminUser($user_role)) {
     header('Location: ../login.php');
     exit;
@@ -47,14 +47,15 @@ require_once __DIR__ . '/../includes/admin_header.php';
                     </thead>
                     <tbody>
                         <?php
-                        $char_query = "SELECT w.*, u.username as owner_username FROM werewolf_characters w LEFT JOIN users u ON w.user_id = u.id ORDER BY w.id DESC";
-                        $char_result = mysqli_query($conn, $char_query);
-                        if (!$char_result) {
-                            echo "<tr><td colspan='6'>Query error: " . htmlspecialchars(mysqli_error($conn)) . "</td></tr>";
-                        } elseif (mysqli_num_rows($char_result) === 0) {
+                        try {
+                            $char_rows = supabase_table_get('werewolf_characters', ['select' => '*', 'order' => 'id.desc']);
+                        } catch (Throwable $e) {
+                            $char_rows = [];
+                        }
+                        if (empty($char_rows)) {
                             echo "<tr><td colspan='6' class='text-center'>No Garou characters found.</td></tr>";
                         } else {
-                            while ($char = mysqli_fetch_assoc($char_result)) {
+                            foreach ($char_rows as $char) {
                                 $status = strtolower(trim($char['status'] ?? 'active'));
                                 if ($status === '') $status = 'active';
                                 $badge = $status === 'active' ? 'badge bg-success' : ($status === 'inactive' ? 'badge bg-secondary' : 'badge bg-warning');

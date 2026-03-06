@@ -9,7 +9,7 @@ if (session_status() === PHP_SESSION_NONE) {
     session_start();
 }
 
-require_once __DIR__ . '/../includes/connect.php';
+require_once __DIR__ . '/../includes/supabase_client.php';
 
 $user_id = (int)($_SESSION['user_id'] ?? 0);
 if ($user_id <= 0) {
@@ -18,7 +18,7 @@ if ($user_id <= 0) {
 }
 
 require_once __DIR__ . '/../includes/verify_role.php';
-$user_role = verifyUserRole($conn, $user_id);
+$user_role = verifyUserRole(null, $user_id);
 if (!isAdminUser($user_role)) {
     header('Location: ../login.php');
     exit;
@@ -27,20 +27,11 @@ if (!isAdminUser($user_role)) {
 include __DIR__ . '/../includes/header.php';
 require_once __DIR__ . '/../includes/admin_header.php';
 
-// Helper function to get domitor name
-function getDomitorName($conn, $domitorId) {
+/** @param array<int,string> $domitorNameMap */
+function getDomitorNameFromMap(array $domitorNameMap, $domitorId): string {
     if (empty($domitorId)) return '—';
-    $stmt = $conn->prepare("SELECT character_name FROM characters WHERE id = ? LIMIT 1");
-    if (!$stmt) return '—';
-    $stmt->bind_param('i', $domitorId);
-    if (!$stmt->execute()) {
-        $stmt->close();
-        return '—';
-    }
-    $result = $stmt->get_result();
-    $row = $result->fetch_assoc();
-    $stmt->close();
-    return $row ? htmlspecialchars($row['character_name']) : '—';
+    $name = $domitorNameMap[(int) $domitorId] ?? null;
+    return $name !== null ? htmlspecialchars($name) : '—';
 }
 
 // Helper function to format blood bond stage
@@ -90,13 +81,15 @@ function getHighestDiscipline($disciplinesJson) {
             <!-- Character Statistics -->
             <div class="character-stats row g-3 mb-4">
                 <?php
-                $stats_query = "SELECT 
-                    COUNT(*) as total,
-                    SUM(CASE WHEN pc = 0 THEN 1 ELSE 0 END) as npcs,
-                    SUM(CASE WHEN pc = 1 THEN 1 ELSE 0 END) as pcs
-                    FROM characters WHERE clan = 'Ghoul'";
-                $stats_result = mysqli_query($conn, $stats_query);
-                $stats = mysqli_fetch_assoc($stats_result);
+                try {
+                    $statsRows = supabase_table_get('characters', ['select' => 'id,pc', 'clan' => 'eq.Ghoul']);
+                } catch (Throwable $e) {
+                    $statsRows = [];
+                }
+                $statsTotal = count($statsRows);
+                $statsPcs = count(array_filter($statsRows, fn($r) => (int)($r['pc'] ?? 0) === 1));
+                $statsNpcs = $statsTotal - $statsPcs;
+                $stats = ['total' => $statsTotal, 'pcs' => $statsPcs, 'npcs' => $statsNpcs];
                 ?>
                 <div class="col-12 col-sm-4 col-lg-3">
                     <div class="card text-center bg-dark border-danger text-light">
@@ -160,22 +153,53 @@ function getHighestDiscipline($disciplinesJson) {
                     </thead>
                     <tbody>
                         <?php
-                        $char_query = "SELECT c.*, g.domitor_character_id, 
-                                      g.blood_bond_stage, g.is_active, g.retainer_level,
-                                      u.username as owner_username
-                                      FROM characters c
-                                      LEFT JOIN ghouls g ON c.id = g.character_id
-                                      LEFT JOIN users u ON c.user_id = u.id
-                                      WHERE c.clan = 'Ghoul'
-                                      ORDER BY c.id DESC";
-                        $char_result = mysqli_query($conn, $char_query);
+                        try {
+                            $characters = supabase_table_get('characters', ['select' => '*', 'clan' => 'eq.Ghoul', 'order' => 'id.desc']);
+                            $ghoulsRows = supabase_table_get('ghouls', ['select' => 'character_id,domitor_character_id,blood_bond_stage,is_active,retainer_level']);
+                        } catch (Throwable $e) {
+                            $characters = [];
+                            $ghoulsRows = [];
+                        }
+                        $ghoulByCharId = [];
+                        foreach ($ghoulsRows as $g) {
+                            $ghoulByCharId[(int)$g['character_id']] = $g;
+                        }
+                        $domitorIds = array_values(array_unique(array_filter(array_map(function ($g) {
+                            $id = $g['domitor_character_id'] ?? null;
+                            return $id !== null && $id !== '' ? (int) $id : null;
+                        }, $ghoulsRows))));
+                        $domitorNameMap = [];
+                        if (!empty($domitorIds)) {
+                            try {
+                                $domitorChars = supabase_table_get('characters', ['select' => 'id,character_name', 'id' => 'in.(' . implode(',', $domitorIds) . ')']);
+                                foreach ($domitorChars as $r) {
+                                    $domitorNameMap[(int)$r['id']] = $r['character_name'] ?? '';
+                                }
+                            } catch (Throwable $e) {
+                            }
+                        }
+                        $userIds = array_values(array_unique(array_filter(array_column($characters, 'user_id'))));
+                        $ownerMap = [];
+                        if (!empty($userIds)) {
+                            try {
+                                $usersRows = supabase_table_get('users', ['select' => 'id,username', 'id' => 'in.(' . implode(',', array_map('intval', $userIds)) . ')']);
+                                foreach ($usersRows as $r) {
+                                    $ownerMap[(int)$r['id']] = $r['username'] ?? '';
+                                }
+                            } catch (Throwable $e) {
+                            }
+                        }
                         $currentAdminUrl = $_SERVER['REQUEST_URI'] ?? '/admin/ghoul_admin_panel.php';
                         $encodedReturnUrl = rawurlencode($currentAdminUrl);
-                        
-                        if (!$char_result) {
-                            echo "<tr><td colspan='7'>Query Error: " . mysqli_error($conn) . "</td></tr>";
-                        } elseif (mysqli_num_rows($char_result) > 0) {
-                            while ($char = mysqli_fetch_assoc($char_result)) {
+
+                        if (empty($characters)) {
+                            echo "<tr><td colspan='7' class='text-center'>No Ghoul characters found.</td></tr>";
+                        } else {
+                            foreach ($characters as $char) {
+                                $ghoulRow = $ghoulByCharId[(int)$char['id']] ?? [];
+                                $char['domitor_character_id'] = $ghoulRow['domitor_character_id'] ?? null;
+                                $char['blood_bond_stage'] = $ghoulRow['blood_bond_stage'] ?? null;
+                                $char['owner_username'] = $ownerMap[(int)($char['user_id'] ?? 0)] ?? '—';
                                 $is_npc = ($char['pc'] == 0);
                                 $playerName = trim($char['player_name'] ?? '') !== '' ? $char['player_name'] : ($is_npc ? 'NPC' : '—');
                                 $statusRaw = trim((string)($char['status'] ?? ''));
@@ -183,19 +207,12 @@ function getHighestDiscipline($disciplinesJson) {
                                 if ($status === '') {
                                     $status = 'active';
                                 }
-                                
                                 $allowedStatuses = ['active', 'inactive', 'archived', 'dead', 'missing', 'npc', 'unknown'];
                                 if (!in_array($status, $allowedStatuses, true)) {
                                     $status = 'unknown';
                                 }
-                                
-                                // Get domitor ID from domitor_character_id
-                                $domitorId = null;
-                                if (!empty($char['domitor_character_id'])) {
-                                    $domitorId = (int)$char['domitor_character_id'];
-                                }
-                                
-                                $domitorName = $domitorId ? getDomitorName($conn, $domitorId) : '—';
+                                $domitorId = !empty($char['domitor_character_id']) ? (int)$char['domitor_character_id'] : null;
+                                $domitorName = $domitorId ? getDomitorNameFromMap($domitorNameMap, $domitorId) : '—';
                                 $bloodBondStage = formatBloodBondStage($char['blood_bond_stage'] ?? null);
                                 $highestDiscipline = getHighestDiscipline($char['disciplines'] ?? '');
                         ?>
@@ -257,8 +274,6 @@ function getHighestDiscipline($disciplinesJson) {
                             </tr>
                         <?php
                             }
-                        } else {
-                            echo "<tr><td colspan='7' class='text-center'>No Ghoul characters found.</td></tr>";
                         }
                         ?>
                     </tbody>

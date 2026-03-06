@@ -3,6 +3,8 @@
  * Delete Character API
  * Handles DELETE method requests for DataManager compatibility
  */
+declare(strict_types=1);
+
 session_start();
 header('Content-Type: application/json');
 
@@ -12,8 +14,7 @@ if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
     exit();
 }
 
-// Include database
-require_once __DIR__ . '/includes/connect.php';
+require_once __DIR__ . '/includes/supabase_client.php';
 
 // Get character ID from query string (DELETE method)
 $character_id = isset($_GET['id']) ? intval($_GET['id']) : 0;
@@ -22,9 +23,6 @@ if ($character_id <= 0) {
     echo json_encode(['success' => false, 'message' => 'Invalid character ID']);
     exit();
 }
-
-// Start transaction
-db_begin_transaction($conn);
 
 try {
     // Delete from all related tables
@@ -47,28 +45,41 @@ try {
     ];
     
     foreach ($tables as $table) {
-        $result = db_execute($conn, "DELETE FROM $table WHERE character_id = ?", 'i', [$character_id]);
-        if ($result === false) {
+        $result = supabase_rest_request(
+            'DELETE',
+            '/rest/v1/' . $table,
+            ['character_id' => 'eq.' . (string) $character_id],
+            null,
+            ['Prefer: return=minimal']
+        );
+        if ($result['error'] !== null) {
             throw new Exception("Failed to delete from $table");
         }
     }
     
     // Finally delete the character itself
-    $affected = db_execute($conn, "DELETE FROM characters WHERE id = ?", 'i', [$character_id]);
+    $characterDeleteResult = supabase_rest_request(
+        'DELETE',
+        '/rest/v1/characters',
+        ['id' => 'eq.' . (string) $character_id],
+        null,
+        ['Prefer: return=representation']
+    );
     
-    if ($affected === false) {
+    if ($characterDeleteResult['error'] !== null) {
         throw new Exception("Failed to delete character");
     }
+
+    $deletedRows = is_array($characterDeleteResult['data']) ? $characterDeleteResult['data'] : [];
+    $affected = count($deletedRows);
     
     if ($affected > 0) {
-        db_commit($conn);
         echo json_encode([
             'success' => true, 
             'message' => 'Character deleted successfully',
             'character_id' => $character_id
         ]);
     } else {
-        db_rollback($conn);
         echo json_encode([
             'success' => false, 
             'message' => 'Character not found'
@@ -76,13 +87,10 @@ try {
     }
     
 } catch (Exception $e) {
-    db_rollback($conn);
     echo json_encode([
         'success' => false, 
         'message' => 'Error: ' . $e->getMessage()
     ]);
 }
-
-mysqli_close($conn);
 ?>
 

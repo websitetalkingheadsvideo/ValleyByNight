@@ -14,7 +14,7 @@ if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
     exit();
 }
 
-require_once __DIR__ . '/../includes/connect.php';
+require_once __DIR__ . '/../includes/supabase_client.php';
 
 $character_id = isset($_GET['id']) ? intval($_GET['id']) : 0;
 
@@ -24,9 +24,9 @@ if ($character_id <= 0) {
 }
 
 try {
-    // Get main character data
-    $char = db_fetch_one($conn, "SELECT * FROM wraith_characters WHERE id = ?", 'i', [$character_id]);
-    
+    $rows = supabase_table_get('wraith_characters', ['select' => '*', 'id' => 'eq.' . $character_id, 'limit' => '1']);
+    $char = !empty($rows) ? $rows[0] : null;
+
     if (!$char) {
         echo json_encode(['success' => false, 'message' => 'Character not found']);
         exit();
@@ -122,7 +122,4 @@ try {
         'message' => 'Error loading character: ' . $e->getMessage()
     ]);
 }
-
-mysqli_close($conn);
-?>
 

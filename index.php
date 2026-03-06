@@ -11,8 +11,7 @@ require_once __DIR__ . '/includes/version.php';
 // Start session
 session_start();
 
-// Include database connection
-require_once 'includes/connect.php';
+require_once __DIR__ . '/includes/supabase_client.php';
 
 // Check for authentication bypass
 require_once 'includes/auth_bypass.php';
@@ -34,7 +33,7 @@ $username = $_SESSION['username'] ?? 'Guest';
 
 // SECURITY: Verify role against database to prevent session tampering
 require_once 'includes/verify_role.php';
-$user_role = verifyUserRole($conn, $user_id);
+$user_role = verifyUserRole(null, $user_id);
 
 // Determine if user is admin/storyteller
 $is_admin = isAdminUser($user_role);
@@ -130,15 +129,22 @@ include 'includes/header.php';
             <div class="stats-panel row g-4 mb-5">
                 <?php
                 // Get character statistics
-                $stats_query = "SELECT 
-                    COUNT(*) as total,
-                    SUM(CASE WHEN player_name = 'NPC' THEN 1 ELSE 0 END) as npcs,
-                    SUM(CASE WHEN player_name IS NOT NULL AND player_name != '' AND player_name != 'NPC' THEN 1 ELSE 0 END) as pcs
-                    FROM characters";
-                // SECURITY: Using prepared statement helper for consistency
-                $stats = db_fetch_one($conn, $stats_query);
-                if (!$stats) {
-                    $stats = ['total' => 0, 'npcs' => 0, 'pcs' => 0];
+                $stats = ['total' => 0, 'npcs' => 0, 'pcs' => 0];
+                try {
+                    $characterRows = supabase_table_get('characters', [
+                        'select' => 'player_name'
+                    ]);
+                    $stats['total'] = count($characterRows);
+                    foreach ($characterRows as $characterRow) {
+                        $playerName = trim((string)($characterRow['player_name'] ?? ''));
+                        if ($playerName === 'NPC') {
+                            $stats['npcs']++;
+                        } elseif ($playerName !== '') {
+                            $stats['pcs']++;
+                        }
+                    }
+                } catch (Throwable $e) {
+                    error_log('index.php stats query failed: ' . $e->getMessage());
                 }
                 ?>
                 <div class="card col-md-4 col-sm-6">
@@ -309,17 +315,18 @@ include 'includes/header.php';
                 <h3 id="playerCharactersHeading" class="list-heading">Your Characters</h3>
                 <?php
                 // Get player's characters
-                $char_query = "SELECT c.*, cl.name as clan_name 
-                               FROM characters c 
-                               LEFT JOIN clans cl ON c.clan_id = cl.id 
-                               WHERE c.user_id = ? 
-                               ORDER BY c.status DESC, c.character_name ASC";
-                $stmt = mysqli_prepare($conn, $char_query);
-                mysqli_stmt_bind_param($stmt, "i", $user_id);
-                mysqli_stmt_execute($stmt);
-                $char_result = mysqli_stmt_get_result($stmt);
-                
-                if (mysqli_num_rows($char_result) > 0):
+                $playerCharacters = [];
+                try {
+                    $playerCharacters = supabase_table_get('characters', [
+                        'select' => 'id,character_name,status,concept,clan,user_id',
+                        'user_id' => 'eq.' . (string) $user_id,
+                        'order' => 'status.desc,character_name.asc'
+                    ]);
+                } catch (Throwable $e) {
+                    error_log('index.php player characters query failed: ' . $e->getMessage());
+                }
+
+                if (!empty($playerCharacters)):
                     // Helper function to convert clan name to CSS class
                     function getClanClass($clan_name) {
                         if (empty($clan_name)) return '';
@@ -348,7 +355,8 @@ include 'includes/header.php';
                         // Default: convert to lowercase, replace spaces with hyphens
                         return 'clan-' . preg_replace('/[^a-z0-9]+/', '-', $normalized);
                     }
-                    while ($character = mysqli_fetch_assoc($char_result)):
+                    foreach ($playerCharacters as $character):
+                        $character['clan_name'] = $character['clan'] ?? '';
                         $clan_class = getClanClass($character['clan_name'] ?? '');
                 ?>
                     <div class="card mb-4 <?php echo htmlspecialchars($clan_class); ?>">
@@ -375,7 +383,7 @@ include 'includes/header.php';
                         </div>
                     </div>
                 <?php 
-                    endwhile;
+                    endforeach;
                 else:
                 ?>
                     <div class="empty-state">

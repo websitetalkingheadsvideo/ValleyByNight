@@ -15,7 +15,7 @@
 /**
  * Verify and update user role from database
  * 
- * @param mysqli $conn Database connection
+ * @param mixed $conn Database connection (legacy compatibility, not used)
  * @param int $user_id User ID from session
  * @return string Verified user role (defaults to 'player' if invalid)
  */
@@ -27,14 +27,16 @@ function verifyUserRole($conn, $user_id) {
     // Only verify if user is logged in (not guest/bypass)
     if ($user_id > 0) {
         require_once __DIR__ . '/auth_bypass.php';
+        require_once __DIR__ . '/supabase_client.php';
         
         // Skip verification if auth bypass is enabled (development mode)
         if (!isAuthBypassEnabled()) {
-            $db_user = db_fetch_one($conn,
-                "SELECT role FROM users WHERE id = ?",
-                "i",
-                [$user_id]
-            );
+            $rows = supabase_table_get('users', [
+                'select' => 'role',
+                'id' => 'eq.' . (string) $user_id,
+                'limit' => '1',
+            ]);
+            $db_user = !empty($rows) ? $rows[0] : null;
             
             if ($db_user) {
                 // Override session role with database role for security

@@ -35,20 +35,7 @@ if (!isset($_SESSION['user_id'])) {
     exit();
 }
 
-// Database connection
-try {
-    require_once __DIR__ . '/connect.php';
-    
-    if (!$conn) {
-        http_response_code(500);
-        echo json_encode(['success' => false, 'message' => 'Database connection failed']);
-        exit();
-    }
-} catch (Exception $e) {
-    http_response_code(500);
-    echo json_encode(['success' => false, 'message' => 'Database connection error: ' . $e->getMessage()]);
-    exit();
-}
+require_once __DIR__ . '/supabase_client.php';
 
 // Check if request is POST
 if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
@@ -192,240 +179,104 @@ if (isset($data['character_id'])) {
 }
 
 try {
-    $user_id = $_SESSION['user_id'];
-    
-    // Log the received data for debugging
-    error_log('Wraith save - Character data: ' . json_encode($data));
-    
-    // Start transaction
-    db_begin_transaction($conn);
-    
-    try {
-        if ($character_id > 0) {
-            // Update existing character
-            $update_sql = "UPDATE wraith_characters SET 
-                character_name = ?, shadow_name = ?, player_name = ?, chronicle = ?, 
-                nature = ?, demeanor = ?, concept = ?, circle = ?, guild = ?, 
-                legion_at_death = ?, date_of_death = ?, cause_of_death = ?, 
-                pc = ?, appearance = ?, ghostly_appearance = ?, biography = ?, 
-                notes = ?, equipment = ?, custom_data = ?, status = ?, 
-                timeline = ?, personality = ?, traits = ?, negativeTraits = ?, 
-                attributes = ?, abilities = ?, specializations = ?, fetters = ?, passions = ?, 
-                arcanoi = ?, backgrounds = ?, backgroundDetails = ?, 
-                willpower_permanent = ?, willpower_current = ?, 
-                pathos_corpus = ?, shadow = ?, harrowing = ?, 
-                merits_flaws = ?, status_details = ?, relationships = ?, 
-                artifacts = ?, actingNotes = ?, agentNotes = ?, health_status = ?,
-                experience_total = ?, spent_xp = ?, experience_unspent = ?,
-                shadow_xp_total = ?, shadow_xp_spent = ?, shadow_xp_available = ?" .
-                ($cleanData['character_image'] !== '' ? ", character_image = ?" : "") .
-                " WHERE id = ?";
-
-            $stmt = mysqli_prepare($conn, $update_sql);
-            if (!$stmt) {
-                throw new Exception('Failed to prepare update: ' . mysqli_error($conn));
-            }
-
-            $params = [
-                $cleanData['character_name'],
-                $cleanData['shadow_name'],
-                $cleanData['player_name'],
-                $cleanData['chronicle'],
-                $cleanData['nature'],
-                $cleanData['demeanor'],
-                $cleanData['concept'],
-                $cleanData['circle'],
-                $cleanData['guild'],
-                $cleanData['legion_at_death'],
-                $cleanData['date_of_death'],
-                $cleanData['cause_of_death'],
-                $cleanData['pc'],
-                $cleanData['appearance'],
-                $cleanData['ghostly_appearance'],
-                $cleanData['biography'],
-                $cleanData['notes'],
-                $cleanData['equipment'],
-                $cleanData['custom_data'],
-                $cleanData['status'],
-                $cleanData['timeline'],
-                $cleanData['personality'],
-                $cleanData['traits'],
-                $cleanData['negativeTraits'],
-                $cleanData['attributes'],
-                $cleanData['abilities'],
-                $cleanData['specializations'],
-                $cleanData['fetters'],
-                $cleanData['passions'],
-                $cleanData['arcanoi'],
-                $cleanData['backgrounds'],
-                $cleanData['backgroundDetails'],
-                $cleanData['willpower_permanent'],
-                $cleanData['willpower_current'],
-                $cleanData['pathos_corpus'],
-                $cleanData['shadow'],
-                $cleanData['harrowing'],
-                $cleanData['merits_flaws'],
-                $cleanData['status_details'],
-                $cleanData['relationships'],
-                $cleanData['artifacts'],
-                $cleanData['actingNotes'],
-                $cleanData['agentNotes'],
-                $cleanData['health_status'],
-                $cleanData['experience_total'],
-                $cleanData['spent_xp'],
-                $cleanData['experience_unspent'],
-                $cleanData['shadow_xp_total'],
-                $cleanData['shadow_xp_spent'],
-                $cleanData['shadow_xp_available']
-            ];
-
-            $types = 'ssssssssssssisssssssssssssssssssssssssssssssssssssiiiiiii';
-
-            if ($cleanData['character_image'] !== '') {
-                $params[] = $cleanData['character_image'];
-                $types .= 's';
-            }
-
-            $params[] = $character_id;
-            $types .= 'i';
-
-            mysqli_stmt_bind_param($stmt, $types, ...$params);
-
-            if (!mysqli_stmt_execute($stmt)) {
-                error_log('Wraith character update error: ' . mysqli_stmt_error($stmt));
-                throw new Exception('Failed to update character: ' . mysqli_stmt_error($stmt));
-            }
-            mysqli_stmt_close($stmt);
-        } else {
-            // Create new character
-            $character_sql = "INSERT INTO wraith_characters 
-                (user_id, character_name, shadow_name, player_name, chronicle, character_image, status) 
-                VALUES (?, ?, ?, ?, ?, ?, ?)";
-
-            $stmt = mysqli_prepare($conn, $character_sql);
-            if (!$stmt) {
-                throw new Exception('Failed to prepare statement: ' . mysqli_error($conn));
-            }
-
-            mysqli_stmt_bind_param($stmt, 'issssss',
-                $user_id,
-                $cleanData['character_name'],
-                $cleanData['shadow_name'],
-                $cleanData['player_name'],
-                $cleanData['chronicle'],
-                $cleanData['character_image'],
-                $cleanData['status']
-            );
-
-            if (!mysqli_stmt_execute($stmt)) {
-                error_log('Wraith character insert error: ' . mysqli_stmt_error($stmt));
-                throw new Exception('Failed to create character: ' . mysqli_stmt_error($stmt));
-            }
-
-            $character_id = mysqli_insert_id($conn);
-            mysqli_stmt_close($stmt);
-
-            // Now update with all the other fields
-            $update_sql = "UPDATE wraith_characters SET 
-                nature = ?, demeanor = ?, concept = ?, circle = ?, guild = ?, 
-                legion_at_death = ?, date_of_death = ?, cause_of_death = ?, 
-                pc = ?, appearance = ?, ghostly_appearance = ?, biography = ?, 
-                notes = ?, equipment = ?, custom_data = ?, 
-                timeline = ?, personality = ?, traits = ?, negativeTraits = ?, 
-                attributes = ?, abilities = ?, specializations = ?, fetters = ?, passions = ?, 
-                arcanoi = ?, backgrounds = ?, backgroundDetails = ?, 
-                willpower_permanent = ?, willpower_current = ?, 
-                pathos_corpus = ?, shadow = ?, harrowing = ?, 
-                merits_flaws = ?, status_details = ?, relationships = ?, 
-                artifacts = ?, actingNotes = ?, agentNotes = ?, health_status = ?,
-                experience_total = ?, spent_xp = ?, experience_unspent = ?,
-                shadow_xp_total = ?, shadow_xp_spent = ?, shadow_xp_available = ?
-                WHERE id = ?";
-
-            $stmt = mysqli_prepare($conn, $update_sql);
-            if (!$stmt) {
-                throw new Exception('Failed to prepare update: ' . mysqli_error($conn));
-            }
-
-            mysqli_stmt_bind_param($stmt, 'ssssssssissssssssssssssssssssssssssssssssssssssiiiiiii',
-                $cleanData['nature'],
-                $cleanData['demeanor'],
-                $cleanData['concept'],
-                $cleanData['circle'],
-                $cleanData['guild'],
-                $cleanData['legion_at_death'],
-                $cleanData['date_of_death'],
-                $cleanData['cause_of_death'],
-                $cleanData['pc'],
-                $cleanData['appearance'],
-                $cleanData['ghostly_appearance'],
-                $cleanData['biography'],
-                $cleanData['notes'],
-                $cleanData['equipment'],
-                $cleanData['custom_data'],
-                $cleanData['timeline'],
-                $cleanData['personality'],
-                $cleanData['traits'],
-                $cleanData['negativeTraits'],
-                $cleanData['attributes'],
-                $cleanData['abilities'],
-                $cleanData['specializations'],
-                $cleanData['fetters'],
-                $cleanData['passions'],
-                $cleanData['arcanoi'],
-                $cleanData['backgrounds'],
-                $cleanData['backgroundDetails'],
-                $cleanData['willpower_permanent'],
-                $cleanData['willpower_current'],
-                $cleanData['pathos_corpus'],
-                $cleanData['shadow'],
-                $cleanData['harrowing'],
-                $cleanData['merits_flaws'],
-                $cleanData['status_details'],
-                $cleanData['relationships'],
-                $cleanData['artifacts'],
-                $cleanData['actingNotes'],
-                $cleanData['agentNotes'],
-                $cleanData['health_status'],
-                $cleanData['experience_total'],
-                $cleanData['spent_xp'],
-                $cleanData['experience_unspent'],
-                $cleanData['shadow_xp_total'],
-                $cleanData['shadow_xp_spent'],
-                $cleanData['shadow_xp_available'],
-                $character_id
-            );
-
-            if (!mysqli_stmt_execute($stmt)) {
-                error_log('Wraith character update error: ' . mysqli_stmt_error($stmt));
-                throw new Exception('Failed to update character: ' . mysqli_stmt_error($stmt));
-            }
-            mysqli_stmt_close($stmt);
-        }
-        
-        // Commit transaction
-        db_commit($conn);
-        
-        echo json_encode([
-            'success' => true,
-            'message' => ($character_id > 0 && isset($data['id'])) ? 'Character updated successfully!' : 'Character created successfully!',
-            'character_id' => $character_id
-        ]);
-        
-    } catch (Exception $e) {
-        // Rollback transaction on any error
-        db_rollback($conn);
-        throw $e;
+    $payload = [
+        'character_name' => $cleanData['character_name'],
+        'shadow_name' => $cleanData['shadow_name'],
+        'player_name' => $cleanData['player_name'],
+        'chronicle' => $cleanData['chronicle'],
+        'nature' => $cleanData['nature'],
+        'demeanor' => $cleanData['demeanor'],
+        'concept' => $cleanData['concept'],
+        'circle' => $cleanData['circle'],
+        'guild' => $cleanData['guild'],
+        'legion_at_death' => $cleanData['legion_at_death'],
+        'date_of_death' => $cleanData['date_of_death'],
+        'cause_of_death' => $cleanData['cause_of_death'],
+        'pc' => $cleanData['pc'],
+        'appearance' => $cleanData['appearance'],
+        'ghostly_appearance' => $cleanData['ghostly_appearance'],
+        'biography' => $cleanData['biography'],
+        'notes' => $cleanData['notes'],
+        'equipment' => $cleanData['equipment'],
+        'custom_data' => $cleanData['custom_data'],
+        'status' => $cleanData['status'],
+        'timeline' => $cleanData['timeline'],
+        'personality' => $cleanData['personality'],
+        'traits' => $cleanData['traits'],
+        'negativeTraits' => $cleanData['negativeTraits'],
+        'attributes' => $cleanData['attributes'],
+        'abilities' => $cleanData['abilities'],
+        'specializations' => $cleanData['specializations'],
+        'fetters' => $cleanData['fetters'],
+        'passions' => $cleanData['passions'],
+        'arcanoi' => $cleanData['arcanoi'],
+        'backgrounds' => $cleanData['backgrounds'],
+        'backgroundDetails' => $cleanData['backgroundDetails'],
+        'willpower_permanent' => $cleanData['willpower_permanent'],
+        'willpower_current' => $cleanData['willpower_current'],
+        'pathos_corpus' => $cleanData['pathos_corpus'],
+        'shadow' => $cleanData['shadow'],
+        'harrowing' => $cleanData['harrowing'],
+        'merits_flaws' => $cleanData['merits_flaws'],
+        'status_details' => $cleanData['status_details'],
+        'relationships' => $cleanData['relationships'],
+        'artifacts' => $cleanData['artifacts'],
+        'actingNotes' => $cleanData['actingNotes'],
+        'agentNotes' => $cleanData['agentNotes'],
+        'health_status' => $cleanData['health_status'],
+        'experience_total' => $cleanData['experience_total'],
+        'spent_xp' => $cleanData['spent_xp'],
+        'experience_unspent' => $cleanData['experience_unspent'],
+        'shadow_xp_total' => $cleanData['shadow_xp_total'],
+        'shadow_xp_spent' => $cleanData['shadow_xp_spent'],
+        'shadow_xp_available' => $cleanData['shadow_xp_available'],
+    ];
+    if ($cleanData['character_image'] !== '') {
+        $payload['character_image'] = $cleanData['character_image'];
     }
-    
-} catch (Exception $e) {
-    http_response_code(500);
+
+    if ($character_id > 0) {
+        $updateResult = supabase_rest_request(
+            'PATCH',
+            '/rest/v1/wraith_characters',
+            ['id' => 'eq.' . (string) $character_id],
+            $payload,
+            ['Prefer: return=minimal']
+        );
+        if ($updateResult['error'] !== null) {
+            throw new RuntimeException('Failed to update character: ' . $updateResult['error']);
+        }
+    } else {
+        $payload['user_id'] = (int) $_SESSION['user_id'];
+        $insertResult = supabase_rest_request(
+            'POST',
+            '/rest/v1/wraith_characters',
+            ['select' => 'id'],
+            [$payload],
+            ['Prefer: return=representation']
+        );
+        if ($insertResult['error'] !== null) {
+            throw new RuntimeException('Failed to create character: ' . $insertResult['error']);
+        }
+        $insertedRows = $insertResult['data'];
+        if (!is_array($insertedRows) || empty($insertedRows) || !isset($insertedRows[0]['id'])) {
+            throw new RuntimeException('Create character response missing inserted ID.');
+        }
+        $character_id = (int) $insertedRows[0]['id'];
+    }
+
     echo json_encode([
-        'success' => false, 
+        'success' => true,
+        'message' => ($character_id > 0 && isset($data['id'])) ? 'Character updated successfully!' : 'Character created successfully!',
+        'character_id' => $character_id
+    ]);
+} catch (Throwable $e) {
+    http_response_code(500);
+    error_log('save_wraith_character.php error: ' . $e->getMessage());
+    echo json_encode([
+        'success' => false,
         'message' => 'Error saving character: ' . $e->getMessage()
     ]);
 }
-
-mysqli_close($conn);
 ?>
 

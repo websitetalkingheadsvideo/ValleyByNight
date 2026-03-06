@@ -12,7 +12,7 @@ if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
     exit();
 }
 
-require_once __DIR__ . '/../includes/connect.php';
+require_once __DIR__ . '/../includes/supabase_client.php';
 
 // Get JSON input
 $input = json_decode(file_get_contents('php://input'), true);
@@ -31,10 +31,13 @@ if (empty($position_id)) {
 
 try {
     // Check if position has assignments
-    $assignments_query = "SELECT COUNT(*) as count FROM camarilla_position_assignments WHERE position_id = ?";
-    $assignments_result = db_fetch_one($conn, $assignments_query, 's', [$position_id]);
-    
-    if ($assignments_result && $assignments_result['count'] > 0) {
+    $assignmentRows = supabase_table_get('camarilla_position_assignments', [
+        'select' => 'position_id',
+        'position_id' => 'eq.' . $position_id,
+        'limit' => '1'
+    ]);
+
+    if (!empty($assignmentRows)) {
         echo json_encode([
             'success' => false,
             'message' => 'Cannot delete position with existing assignments. Please remove all assignments first.'
@@ -43,21 +46,17 @@ try {
     }
     
     // Delete position
-    $query = "DELETE FROM camarilla_positions WHERE position_id = ?";
-    $stmt = mysqli_prepare($conn, $query);
-    
-    if (!$stmt) {
-        throw new Exception('Failed to prepare statement: ' . mysqli_error($conn));
+    $deleteResult = supabase_rest_request(
+        'DELETE',
+        '/rest/v1/camarilla_positions',
+        ['position_id' => 'eq.' . $position_id],
+        null,
+        ['Prefer: return=representation']
+    );
+    if ($deleteResult['error'] !== null) {
+        throw new Exception('Failed to delete position: ' . $deleteResult['error']);
     }
-    
-    mysqli_stmt_bind_param($stmt, 's', $position_id);
-    
-    if (!mysqli_stmt_execute($stmt)) {
-        throw new Exception('Failed to execute statement: ' . mysqli_stmt_error($stmt));
-    }
-    
-    mysqli_stmt_close($stmt);
-    
+
     echo json_encode([
         'success' => true,
         'message' => 'Position deleted successfully'
@@ -69,7 +68,5 @@ try {
         'message' => 'Error: ' . $e->getMessage()
     ]);
 }
-
-mysqli_close($conn);
 ?>
 

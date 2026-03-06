@@ -7,7 +7,7 @@
 define('LOTN_VERSION', '0.8.30');
 session_start();
 
-require_once __DIR__ . '/includes/connect.php';
+require_once __DIR__ . '/includes/supabase_client.php';
 require_once __DIR__ . '/includes/auth_bypass.php';
 
 // Check if user is logged in (or bypass is enabled)
@@ -26,66 +26,24 @@ include __DIR__ . '/includes/header.php';
 // Check if user is admin for edit mode
 require_once __DIR__ . '/includes/verify_role.php';
 $user_id = $_SESSION['user_id'] ?? 0;
-$user_role = verifyUserRole($conn, $user_id);
+$user_role = verifyUserRole(null, $user_id);
 $is_admin = isAdminUser($user_role);
 
-// Check if map_pixel_x and map_pixel_y columns exist
-// SECURITY: Using prepared statement helper for consistency
-$columns_result = db_select($conn, "SHOW COLUMNS FROM locations LIKE ?", "s", ['map_pixel_x']);
-$has_pixel_columns = $columns_result ? mysqli_num_rows($columns_result) > 0 : false;
-
-// Get all locations for potential markers/overlay
-// Try to use map_pixel_x/y first, fallback to lat/lng if needed
-if ($has_pixel_columns) {
-    $locations_query = "SELECT id, name, type, district, latitude, longitude, status,
-                        map_pixel_x, map_pixel_y
-                        FROM locations 
-                        WHERE status = 'Active'
-                        AND (
-                            (map_pixel_x IS NOT NULL AND map_pixel_y IS NOT NULL)
-                            OR (latitude IS NOT NULL AND longitude IS NOT NULL)
-                        )
-                        ORDER BY name";
-} else {
-    // Fallback if pixel columns don't exist yet
-    $locations_query = "SELECT id, name, type, district, latitude, longitude, status
-                        FROM locations 
-                        WHERE status = 'Active'
-                        AND (latitude IS NOT NULL AND longitude IS NOT NULL)
-                        ORDER BY name";
-}
-
-// SECURITY: Using prepared statement helper for consistency
-// Note: These queries are static (no user input), but using helpers maintains security standards
-if ($has_pixel_columns) {
-    $locations = db_fetch_all($conn, 
-        "SELECT id, name, type, district, latitude, longitude, status, map_pixel_x, map_pixel_y
-         FROM locations 
-         WHERE status = 'Active'
-         AND (
-             (map_pixel_x IS NOT NULL AND map_pixel_y IS NOT NULL)
-             OR (latitude IS NOT NULL AND longitude IS NOT NULL)
-         )
-         ORDER BY name"
-    );
-} else {
-    $locations = db_fetch_all($conn,
-        "SELECT id, name, type, district, latitude, longitude, status
-         FROM locations 
-         WHERE status = 'Active'
-         AND (latitude IS NOT NULL AND longitude IS NOT NULL)
-         ORDER BY name"
-    );
-}
-
-// Ensure map_pixel_x/y are set to null if columns don't exist
-if (!$has_pixel_columns) {
-    foreach ($locations as &$loc) {
-        $loc['map_pixel_x'] = null;
-        $loc['map_pixel_y'] = null;
-    }
-    unset($loc);
-}
+$has_pixel_columns = true;
+$locations = supabase_table_get('locations', [
+    'select' => 'id,name,type,district,latitude,longitude,status,map_pixel_x,map_pixel_y',
+    'status' => 'eq.Active',
+    'order' => 'name.asc'
+]);
+$locations = array_values(array_filter($locations, static function (array $location): bool {
+    $hasPixels = isset($location['map_pixel_x'], $location['map_pixel_y'])
+        && $location['map_pixel_x'] !== null
+        && $location['map_pixel_y'] !== null;
+    $hasCoordinates = isset($location['latitude'], $location['longitude'])
+        && $location['latitude'] !== null
+        && $location['longitude'] !== null;
+    return $hasPixels || $hasCoordinates;
+}));
 ?>
 
 <div class="container-fluid py-4 px-3 px-md-4">
@@ -135,8 +93,11 @@ if (!$has_pixel_columns) {
                         <select id="locationSelect" class="form-select form-select-sm bg-dark text-light border-danger ms-2" style="display: none; max-width: 200px;">
                             <option value="">Select location...</option>
                             <?php
-                            // SECURITY: Using prepared statement helper for consistency
-                            $all_locs = db_fetch_all($conn, "SELECT id, name FROM locations WHERE status = 'Active' ORDER BY name");
+                            $all_locs = supabase_table_get('locations', [
+                                'select' => 'id,name',
+                                'status' => 'eq.Active',
+                                'order' => 'name.asc'
+                            ]);
                             foreach ($all_locs as $loc) {
                                 echo '<option value="' . htmlspecialchars($loc['id']) . '">' . htmlspecialchars($loc['name']) . '</option>';
                             }

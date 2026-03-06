@@ -12,24 +12,19 @@ declare(strict_types=1);
 error_reporting(E_ALL);
 ini_set('display_errors', '1');
 
-require_once __DIR__ . '/includes/connect.php';
-
-if (!$conn) {
-    die("Database connection failed: " . mysqli_connect_error());
-}
+require_once __DIR__ . '/includes/supabase_client.php';
 
 echo "<h1>Connect to Style Agent MCP</h1>";
 
 // Step 1: Query MCP from database
 echo "<h2>Step 1: Query MCP from Database</h2>";
-$query = "SELECT * FROM mcp_style_packs WHERE slug = 'style_agent_mcp' AND enabled = 1";
-$result = mysqli_query($conn, $query);
-
-if (!$result) {
-    die("Query failed: " . mysqli_error($conn));
-}
-
-$mcp = mysqli_fetch_assoc($result);
+$mcpRows = supabase_table_get('mcp_style_packs', [
+    'select' => '*',
+    'slug' => 'eq.style_agent_mcp',
+    'enabled' => 'eq.1',
+    'limit' => '1'
+]);
+$mcp = !empty($mcpRows) ? $mcpRows[0] : null;
 
 if (!$mcp) {
     die("<p style='color: red;'>❌ Style Agent MCP not found or disabled in database</p>");
@@ -52,7 +47,6 @@ if (is_dir($mcp_path)) {
 } else {
     echo "<p style='color: red;'>❌ MCP directory not found: <code>{$mcp_path}</code></p>";
     echo "<p>Please verify the path is correct or run <a href='create_mcp_directories.php'>create_mcp_directories.php</a></p>";
-    mysqli_close($conn);
     exit;
 }
 
@@ -107,20 +101,17 @@ if (is_dir($docs_path)) {
 
 // Step 5: Query Chapter Metadata
 echo "<h2>Step 5: Query Chapter Metadata from Database</h2>";
-$chapters_query = "SELECT chapter_name, chapter_file, chapter_number, description, tags 
-                   FROM mcp_style_chapters 
-                   WHERE mcp_pack_id = ? 
-                   ORDER BY display_order";
-$stmt = mysqli_prepare($conn, $chapters_query);
-mysqli_stmt_bind_param($stmt, 'i', $mcp['id']);
-mysqli_stmt_execute($stmt);
-$chapters_result = mysqli_stmt_get_result($stmt);
+$chapters_result = supabase_table_get('mcp_style_chapters', [
+    'select' => 'chapter_name,chapter_file,chapter_number,description,tags',
+    'mcp_pack_id' => 'eq.' . (string) $mcp['id'],
+    'order' => 'display_order.asc'
+]);
 
-if ($chapters_result && mysqli_num_rows($chapters_result) > 0) {
-    echo "<p>Found " . mysqli_num_rows($chapters_result) . " registered chapters:</p>";
+if (!empty($chapters_result)) {
+    echo "<p>Found " . count($chapters_result) . " registered chapters:</p>";
     echo "<table border='1' cellpadding='5' cellspacing='0'>";
     echo "<tr><th>#</th><th>Chapter Name</th><th>File</th><th>Tags</th></tr>";
-    while ($chapter = mysqli_fetch_assoc($chapters_result)) {
+    foreach ($chapters_result as $chapter) {
         echo "<tr>";
         echo "<td>{$chapter['chapter_number']}</td>";
         echo "<td><strong>{$chapter['chapter_name']}</strong></td>";
@@ -172,12 +163,16 @@ echo "<h2>Usage Example Code</h2>";
 echo "<p>Here's how to connect to the MCP in your own code:</p>";
 echo "<pre style='background: #f5f5f5; padding: 15px; border: 1px solid #ddd; overflow-x: auto;'>";
 echo htmlspecialchars('<?php
-require_once __DIR__ . \'/includes/connect.php\';
+require_once __DIR__ . \'/includes/supabase_client.php\';
 
 // Query MCP from database
-$query = "SELECT * FROM mcp_style_packs WHERE slug = \'style_agent_mcp\' AND enabled = 1";
-$result = mysqli_query($conn, $query);
-$mcp = mysqli_fetch_assoc($result);
+$rows = supabase_table_get(\'mcp_style_packs\', [
+    \'select\' => \'*\',
+    \'slug\' => \'eq.style_agent_mcp\',
+    \'enabled\' => \'eq.1\',
+    \'limit\' => \'1\'
+]);
+$mcp = !empty($rows) ? $rows[0] : null;
 
 if ($mcp) {
     $mcp_path = __DIR__ . \'/\' . $mcp[\'filesystem_path\'];
@@ -199,7 +194,5 @@ echo "</pre>";
 echo "<hr>";
 echo "<p><a href='test_mcp_loading.php'>← Back to MCP Loading Test</a> | ";
 echo "<a href='docs/MCP_USAGE.md'>View Full Usage Guide</a></p>";
-
-mysqli_close($conn);
 ?>
 

@@ -1,22 +1,14 @@
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>login_process.php</title>
-</head>
-
-<body>
 <?php
 /**
  * Login Process Handler
- * Authenticates user credentials securely using prepared statements
- * MySQL Compliance: Uses prepared statements to prevent SQL injection
+ * Authenticates user credentials securely via Supabase REST.
  */
+declare(strict_types=1);
 
 session_start();
 error_reporting(2);
 
-require_once __DIR__ . '/connect.php';
+require_once __DIR__ . '/supabase_client.php';
 
 // Calculate base path for redirects (works with subdirectories like /vbn/)
 // For /vbn/includes/login_process.php -> /vbn/
@@ -89,12 +81,12 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         exit();
     }
     
-    // Use prepared statement to prevent SQL injection
-    $user = db_fetch_one($conn,
-        "SELECT id, username, password, role, email_verified FROM users WHERE username = ?",
-        "s",
-        [$username]
-    );
+    $rows = supabase_table_get('users', [
+        'select' => 'id,username,password,role,email_verified',
+        'username' => 'eq.' . $username,
+        'limit' => '1'
+    ]);
+    $user = !empty($rows) ? $rows[0] : null;
     
     if ($user) {
         // Verify password
@@ -111,12 +103,16 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             $_SESSION['username'] = $user['username'];
             $_SESSION['role'] = $user['role'];
             
-            // Update last login timestamp using prepared statement
-            db_execute($conn,
-                "UPDATE users SET last_login = NOW() WHERE id = ?",
-                "i",
-                [$user['id']]
+            $updateResult = supabase_rest_request(
+                'PATCH',
+                '/rest/v1/users',
+                ['id' => 'eq.' . (string) $user['id']],
+                ['last_login' => gmdate('c')],
+                ['Prefer: return=minimal']
             );
+            if ($updateResult['error'] !== null) {
+                error_log('Failed updating last_login: ' . $updateResult['error']);
+            }
             
             // Redirect to dashboard
             header("Location: " . $base_path . "index.php");
@@ -133,9 +129,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         header("Location: " . $base_path . "login.php");
         exit();
     }
+} else {
+    header("Location: " . $base_path . "login.php");
+    exit();
 }
-
-mysqli_close($conn);
 ?>
-</body>
-</html>

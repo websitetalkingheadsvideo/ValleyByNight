@@ -8,63 +8,62 @@ if (!isset($_SESSION["user_id"])) {
     exit();
 }
 
-include "../includes/connect.php";
+require_once __DIR__ . '/../includes/supabase_client.php';
 
-// Handle form submissions
-if ($_POST) {
-    if (isset($_POST["action"])) {
-        switch ($_POST["action"]) {
-            case "add":
-                $sql = "INSERT INTO questionnaire_questions (category, question, answer1, answer2, answer3, answer4, clanWeight1, clanWeight2, clanWeight3, clanWeight4) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)";
-                $stmt = mysqli_prepare($conn, $sql);
-                mysqli_stmt_bind_param($stmt, "ssssssssss", 
-                    $_POST["category"], $_POST["question"], $_POST["answer1"], 
-                    $_POST["answer2"], $_POST["answer3"], $_POST["answer4"],
-                    $_POST["clanWeight1"], $_POST["clanWeight2"], $_POST["clanWeight3"], $_POST["clanWeight4"]
-                );
-                if (mysqli_stmt_execute($stmt)) {
-                    $message = "Question added successfully!";
-                } else {
-                    $error = "Error adding question: " . mysqli_error($conn);
-                }
-                break;
-                
-            case "edit":
-                $sql = "UPDATE questionnaire_questions SET category=?, question=?, answer1=?, answer2=?, answer3=?, answer4=?, clanWeight1=?, clanWeight2=?, clanWeight3=?, clanWeight4=? WHERE ID=?";
-                $stmt = mysqli_prepare($conn, $sql);
-                mysqli_stmt_bind_param($stmt, "ssssssssssi", 
-                    $_POST["category"], $_POST["question"], $_POST["answer1"], 
-                    $_POST["answer2"], $_POST["answer3"], $_POST["answer4"],
-                    $_POST["clanWeight1"], $_POST["clanWeight2"], $_POST["clanWeight3"], $_POST["clanWeight4"], $_POST["id"]
-                );
-                if (mysqli_stmt_execute($stmt)) {
-                    $message = "Question updated successfully!";
-                } else {
-                    $error = "Error updating question: " . mysqli_error($conn);
-                }
-                break;
-                
-            case "delete":
-                $sql = "DELETE FROM questionnaire_questions WHERE ID=?";
-                $stmt = mysqli_prepare($conn, $sql);
-                mysqli_stmt_bind_param($stmt, "i", $_POST["id"]);
-                if (mysqli_stmt_execute($stmt)) {
-                    $message = "Question deleted successfully!";
-                } else {
-                    $error = "Error deleting question: " . mysqli_error($conn);
-                }
-                break;
+$message = null;
+$error = null;
+
+if (!empty($_POST["action"])) {
+    $action = $_POST["action"];
+    if ($action === "add") {
+        $payload = [
+            'category' => $_POST["category"] ?? '',
+            'question' => $_POST["question"] ?? '',
+            'answer1' => $_POST["answer1"] ?? '',
+            'answer2' => $_POST["answer2"] ?? '',
+            'answer3' => $_POST["answer3"] ?? '',
+            'answer4' => $_POST["answer4"] ?? '',
+            'clanWeight1' => $_POST["clanWeight1"] ?? '',
+            'clanWeight2' => $_POST["clanWeight2"] ?? '',
+            'clanWeight3' => $_POST["clanWeight3"] ?? '',
+            'clanWeight4' => $_POST["clanWeight4"] ?? '',
+        ];
+        $result = supabase_rest_request('POST', '/rest/v1/questionnaire_questions', [], $payload, ['Prefer: return=minimal']);
+        $message = ($result['error'] === null) ? "Question added successfully!" : null;
+        $error = $result['error'] !== null ? "Error adding question: " . $result['error'] : null;
+    } elseif ($action === "edit") {
+        $id = (int)($_POST["id"] ?? 0);
+        if ($id > 0) {
+            $payload = [
+                'category' => $_POST["category"] ?? '',
+                'question' => $_POST["question"] ?? '',
+                'answer1' => $_POST["answer1"] ?? '',
+                'answer2' => $_POST["answer2"] ?? '',
+                'answer3' => $_POST["answer3"] ?? '',
+                'answer4' => $_POST["answer4"] ?? '',
+                'clanWeight1' => $_POST["clanWeight1"] ?? '',
+                'clanWeight2' => $_POST["clanWeight2"] ?? '',
+                'clanWeight3' => $_POST["clanWeight3"] ?? '',
+                'clanWeight4' => $_POST["clanWeight4"] ?? '',
+            ];
+            $result = supabase_rest_request('PATCH', '/rest/v1/questionnaire_questions', ['id' => 'eq.' . $id], $payload, ['Prefer: return=minimal']);
+            $message = ($result['error'] === null) ? "Question updated successfully!" : null;
+            $error = $result['error'] !== null ? "Error updating question: " . $result['error'] : null;
+        }
+    } elseif ($action === "delete") {
+        $id = (int)($_POST["id"] ?? 0);
+        if ($id > 0) {
+            $result = supabase_rest_request('DELETE', '/rest/v1/questionnaire_questions', ['id' => 'eq.' . $id], null, ['Prefer: return=minimal']);
+            $message = ($result['error'] === null) ? "Question deleted successfully!" : null;
+            $error = $result['error'] !== null ? "Error deleting question: " . $result['error'] : null;
         }
     }
 }
 
-// Get all questions
-$questions_query = "SELECT ID, question, category, answer1, answer2, answer3, answer4, clanWeight1, clanWeight2, clanWeight3, clanWeight4 
-                   FROM questionnaire_questions ORDER BY ID";
-$questions_result = mysqli_query($conn, $questions_query);
-$questions = [];
-while ($row = mysqli_fetch_assoc($questions_result)) {
-    $questions[] = $row;
+try {
+    $questions = supabase_table_get('questionnaire_questions', ['select' => 'id,question,category,answer1,answer2,answer3,answer4,clanWeight1,clanWeight2,clanWeight3,clanWeight4', 'order' => 'id.asc']);
+} catch (Throwable $e) {
+    $questions = [];
 }
 
 $extra_css = [
@@ -183,39 +182,45 @@ include __DIR__ . '/../includes/header.php';
                     </tr>
                 </thead>
                 <tbody>
-                    <?php foreach ($questions as $question): ?>
+                    <?php foreach ($questions as $question):
+                        $qid = $question["id"] ?? $question["ID"] ?? 0;
+                        $qw1 = $question["clanweight1"] ?? $question["clanWeight1"] ?? '';
+                        $qw2 = $question["clanweight2"] ?? $question["clanWeight2"] ?? '';
+                        $qw3 = $question["clanweight3"] ?? $question["clanWeight3"] ?? '';
+                        $qw4 = $question["clanweight4"] ?? $question["clanWeight4"] ?? '';
+                    ?>
                     <tr>
-                        <td><?php echo $question["ID"]; ?></td>
-                        <td><?php echo ucfirst($question["category"]); ?></td>
-                        <td><?php echo substr($question["question"], 0, 60) . "..."; ?></td>
+                        <td><?php echo $qid; ?></td>
+                        <td><?php echo ucfirst($question["category"] ?? ''); ?></td>
+                        <td><?php echo substr($question["question"] ?? '', 0, 60) . "..."; ?></td>
                         <td>
-                            <?php 
-                            $answers = array_filter([$question["answer1"], $question["answer2"], $question["answer3"], $question["answer4"]]);
+                            <?php
+                            $answers = array_filter([$question["answer1"] ?? '', $question["answer2"] ?? '', $question["answer3"] ?? '', $question["answer4"] ?? '']);
                             echo count($answers) . " answers";
                             ?>
                         </td>
                         <td>
-                            <?php 
-                            $weights = array_filter([$question["clanWeight1"], $question["clanWeight2"], $question["clanWeight3"], $question["clanWeight4"]]);
+                            <?php
+                            $weights = array_filter([$qw1, $qw2, $qw3, $qw4]);
                             echo count($weights) . " weights";
                             ?>
                         </td>
                         <td>
-                            <button class="btn btn-secondary toggle-edit-btn" data-question-id="<?php echo $question["ID"]; ?>">Edit</button>
+                            <button class="btn btn-secondary toggle-edit-btn" data-question-id="<?php echo $qid; ?>">Edit</button>
                             <form method="POST" style="display: inline;" class="delete-question-form">
                                 <input type="hidden" name="action" value="delete">
-                                <input type="hidden" name="id" value="<?php echo $question["ID"]; ?>">
+                                <input type="hidden" name="id" value="<?php echo $qid; ?>">
                                 <button type="submit" class="btn btn-danger">Delete</button>
                             </form>
                         </td>
                     </tr>
                     
                     <!-- Edit Form (Hidden by default) -->
-                    <tr id="edit-<?php echo $question["ID"]; ?>" class="edit-form">
+                    <tr id="edit-<?php echo $qid; ?>" class="edit-form">
                         <td colspan="6">
                             <form method="POST">
                                 <input type="hidden" name="action" value="edit">
-                                <input type="hidden" name="id" value="<?php echo $question["ID"]; ?>">
+                                <input type="hidden" name="id" value="<?php echo $qid; ?>">
                                 
                                 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px;">
                                     <div class="form-group">
@@ -266,27 +271,27 @@ include __DIR__ . '/../includes/header.php';
                                     
                                     <div class="form-group">
                                         <label>Clan Weight 1:</label>
-                                        <input type="text" name="clanWeight1" value="<?php echo htmlspecialchars($question["clanWeight1"]); ?>" placeholder="ventrue:3,tremere:2">
+                                        <input type="text" name="clanWeight1" value="<?php echo htmlspecialchars($qw1); ?>" placeholder="ventrue:3,tremere:2">
                                     </div>
                                     
                                     <div class="form-group">
                                         <label>Clan Weight 2:</label>
-                                        <input type="text" name="clanWeight2" value="<?php echo htmlspecialchars($question["clanWeight2"]); ?>" placeholder="tremere:3,nosferatu:2">
+                                        <input type="text" name="clanWeight2" value="<?php echo htmlspecialchars($qw2); ?>" placeholder="tremere:3,nosferatu:2">
                                     </div>
                                     
                                     <div class="form-group">
                                         <label>Clan Weight 3:</label>
-                                        <input type="text" name="clanWeight3" value="<?php echo htmlspecialchars($question["clanWeight3"]); ?>" placeholder="brujah:3,gangrel:2">
+                                        <input type="text" name="clanWeight3" value="<?php echo htmlspecialchars($qw3); ?>" placeholder="brujah:3,gangrel:2">
                                     </div>
                                     
                                     <div class="form-group">
                                         <label>Clan Weight 4:</label>
-                                        <input type="text" name="clanWeight4" value="<?php echo htmlspecialchars($question["clanWeight4"]); ?>" placeholder="malkavian:3,nosferatu:2">
+                                        <input type="text" name="clanWeight4" value="<?php echo htmlspecialchars($qw4); ?>" placeholder="malkavian:3,nosferatu:2">
                                     </div>
                                 </div>
                                 
                                 <button type="submit" class="btn btn-primary">Update Question</button>
-                                <button type="button" class="btn btn-secondary toggle-edit-btn" data-question-id="<?php echo $question["ID"]; ?>">Cancel</button>
+                                <button type="button" class="btn btn-secondary toggle-edit-btn" data-question-id="<?php echo $qid; ?>">Cancel</button>
                             </form>
                         </td>
                     </tr>

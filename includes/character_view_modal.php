@@ -362,7 +362,8 @@ if ($script_dir === '/') {
         // Detect if this is a Ghoul character
         const isGhoul = !!(char.clan && char.clan.toLowerCase() === 'ghoul');
         
-        const hasPortrait = !!char.character_image;
+        const portraitFile = normalizeValue(char.character_image);
+        const hasPortrait = portraitFile !== null;
         let fallbackUrl = null;
         if (isWraith) {
             // Wraith fallback image
@@ -371,7 +372,18 @@ if ($script_dir === '/') {
             // VtM fallback to clan logo
             fallbackUrl = char.clan_logo_url || clanLogoUrl(char.clan);
         }
-        const imageUrl = hasPortrait ? (PATH_PREFIX + 'uploads/characters/' + char.character_image) : fallbackUrl;
+        let encodedPortraitFile = null;
+        if (hasPortrait) {
+            let portraitName = String(portraitFile).trim();
+            // Avoid double-encoding when DB already stores percent-encoded filenames.
+            try {
+                portraitName = decodeURIComponent(portraitName);
+            } catch (decodeError) {
+                // Keep original value when decode fails.
+            }
+            encodedPortraitFile = encodeURIComponent(portraitName);
+        }
+        const imageUrl = hasPortrait ? (PATH_PREFIX + 'uploads/characters/' + encodedPortraitFile) : fallbackUrl;
         const sanitizedImageUrl = imageUrl ? escapeHtml(imageUrl) : null;
         
         const rawState = normalizeValue(char.current_state || char.status) || 'active';

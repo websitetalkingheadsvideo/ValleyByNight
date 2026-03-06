@@ -1,74 +1,37 @@
 <?php
-// LOTN Character Save Handler - Version 0.2.1 (FIXED)
-// Enable error reporting for debugging
-error_reporting(E_ALL);
-ini_set('display_errors', 1);
+declare(strict_types=1);
 
-// Global error handler
-set_error_handler(function($severity, $message, $file, $line) {
+error_reporting(E_ALL);
+ini_set('display_errors', '1');
+
+set_error_handler(function ($severity, $message, $file, $line): void {
     if (error_reporting() & $severity) {
         http_response_code(500);
         echo json_encode([
-            'success' => false, 
-            'message' => "PHP Error: $message in $file on line $line"
+            'success' => false,
+            'message' => "PHP Error: $message in $file on line $line",
         ]);
         exit();
     }
 });
 
-// Start session first
 session_start();
-
-// Set headers
 header('Content-Type: application/json');
 
-// Check if user is logged in
 if (!isset($_SESSION['user_id'])) {
     http_response_code(401);
     echo json_encode(['success' => false, 'message' => 'Not logged in']);
     exit();
 }
 
-// Database connection
-try {
-    require_once __DIR__ . '/connect.php';
-    
-    if (!$conn) {
-        http_response_code(500);
-        echo json_encode(['success' => false, 'message' => 'Database connection failed']);
-        exit();
-    }
-} catch (Exception $e) {
-    http_response_code(500);
-    echo json_encode(['success' => false, 'message' => 'Database connection error: ' . $e->getMessage()]);
-    exit();
-}
-
-// Check if request is POST
 if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
     http_response_code(405);
     echo json_encode(['success' => false, 'message' => 'Method not allowed']);
     exit();
 }
 
-// Debug: Log that we've reached this point
-error_log('Save character script started successfully');
+require_once __DIR__ . '/supabase_client.php';
 
-// Get JSON data
-$input = file_get_contents('php://input');
-error_log('Raw input: ' . $input);
-
-$data = json_decode($input, true);
-error_log('Decoded data: ' . json_encode($data));
-
-if (!$data) {
-    error_log('JSON decode failed');
-    http_response_code(400);
-    echo json_encode(['success' => false, 'message' => 'Invalid JSON data']);
-    exit();
-}
-
-// Clean the data
 function cleanString($value) {
     if (is_string($value)) {
         return trim($value);
@@ -76,607 +39,344 @@ function cleanString($value) {
     return $value;
 }
 
-function cleanInt($value) {
-    return (int)$value;
+function cleanInt($value): int {
+    return (int) $value;
 }
 
-function cleanJsonData($value) {
-    // If empty, return NULL for JSON column
-    if (empty($value) || trim($value) === '') {
+function cleanJsonData($value): ?string {
+    if (empty($value) || (is_string($value) && trim($value) === '')) {
         return null;
     }
-    
-    // If it's already an array or object, encode it
+
     if (is_array($value) || is_object($value)) {
-        return json_encode($value);
+        $encoded = json_encode($value);
+        if ($encoded === false) {
+            throw new RuntimeException('Failed to encode JSON payload.');
+        }
+        return $encoded;
     }
-    
-    // If it's a string, try to validate it's valid JSON
+
+    if (!is_string($value)) {
+        return null;
+    }
+
     $trimmed = trim($value);
     if ($trimmed === '') {
         return null;
     }
-    
-    // Try to decode and re-encode to validate JSON
-    $decoded = json_decode($trimmed, true);
+
+    json_decode($trimmed, true);
     if (json_last_error() === JSON_ERROR_NONE) {
-        // Valid JSON, return the original trimmed string
         return $trimmed;
     }
-    
-    // Not valid JSON, treat as plain text and wrap in JSON object
-    return json_encode(['text' => $trimmed]);
+
+    $wrapped = json_encode(['text' => $trimmed]);
+    if ($wrapped === false) {
+        throw new RuntimeException('Failed to normalize text JSON payload.');
+    }
+    return $wrapped;
 }
 
-$cleanData = [
-    'character_name' => cleanString($data['character_name'] ?? ''),
-    'player_name' => cleanString($data['player_name'] ?? ''),
-    'chronicle' => cleanString($data['chronicle'] ?? 'Valley by Night'),
-    'nature' => cleanString($data['nature'] ?? ''),
-    'demeanor' => cleanString($data['demeanor'] ?? ''),
-    'derangement' => cleanString($data['derangement'] ?? ''),
-    'concept' => cleanString($data['concept'] ?? ''),
-    'clan' => cleanString($data['clan'] ?? ''),
-    'generation' => cleanInt($data['generation'] ?? 13),
-    'sire' => cleanString($data['sire'] ?? ''),
-    'pc' => cleanInt($data['pc'] ?? $data['is_pc'] ?? 1),
-    'appearance' => cleanString($data['appearance'] ?? ''),
-    'biography' => cleanString($data['biography'] ?? ''),
-    'notes' => cleanString($data['notes'] ?? ''),
-    'custom_data' => cleanJsonData($data['custom_data'] ?? ''),
-    'character_image' => cleanString($data['imagePath'] ?? $data['character_image'] ?? ''),
-    'status' => cleanString($data['status'] ?? $data['current_state'] ?? ($data['status_details']['current_state'] ?? ($data['status']['current_state'] ?? 'active'))),
-    'camarilla_status' => cleanString($data['camarilla_status'] ?? ($data['status_details']['camarilla_status'] ?? ($data['status']['camarilla_status'] ?? 'Unknown')))
-];
-
-$validStates = ['active', 'inactive', 'archived'];
-$cleanData['status'] = strtolower($cleanData['status'] ?? 'active');
-if (!in_array($cleanData['status'], $validStates, true)) {
-    $cleanData['status'] = 'active';
+function assertSupabaseResult(array $result, string $context): array {
+    if ($result['error'] !== null) {
+        throw new RuntimeException($context . ': ' . $result['error']);
+    }
+    return $result;
 }
 
-$validCamarilla = ['Camarilla', 'Anarch', 'Independent', 'Sabbat', 'Unknown'];
-$camarillaValue = $cleanData['camarilla_status'] ?? 'Unknown';
-$camarillaValue = $camarillaValue ? ucfirst(strtolower($camarillaValue)) : 'Unknown';
-if (!in_array($camarillaValue, $validCamarilla, true)) {
-    $camarillaValue = 'Unknown';
+function supabaseDeleteByCharacterId(string $table, int $characterId, array $extraQuery): void {
+    $query = array_merge(['character_id' => 'eq.' . (string) $characterId], $extraQuery);
+    $result = supabase_rest_request('DELETE', '/rest/v1/' . $table, $query, null, ['Prefer: return=minimal']);
+    assertSupabaseResult($result, 'Delete failed for ' . $table);
 }
-$cleanData['camarilla_status'] = $camarillaValue;
 
-// Identify if this is an update or create
-$character_id = 0;
-if (isset($data['character_id'])) {
-    $character_id = (int)$data['character_id'];
-} elseif (isset($data['id'])) {
-    $character_id = (int)$data['id'];
+function supabaseInsertRows(string $table, array $rows): void {
+    if (empty($rows)) {
+        return;
+    }
+    $result = supabase_rest_request('POST', '/rest/v1/' . $table, [], $rows, ['Prefer: return=minimal']);
+    assertSupabaseResult($result, 'Insert failed for ' . $table);
 }
 
 try {
-    $user_id = $_SESSION['user_id'];
-    
-    // Log the received data for debugging
-    error_log('Save character data: ' . json_encode($data));
-    
-    // Start transaction for atomic character creation
-    db_begin_transaction($conn);
-    
-    try {
-        if ($character_id > 0) {
-            // Update existing character (no strict ownership gating here)
-            $update_sql = "UPDATE characters SET character_name = ?, player_name = ?, chronicle = ?, nature = ?, demeanor = ?, derangement = ?, concept = ?, clan = ?, generation = ?, sire = ?, pc = ?, appearance = ?, biography = ?, notes = ?, custom_data = ?, status = ?, camarilla_status = ?" .
-                         ($cleanData['character_image'] !== '' ? ", character_image = ?" : "") .
-                         " WHERE id = ?";
-
-            $stmt = mysqli_prepare($conn, $update_sql);
-            if (!$stmt) {
-                throw new Exception('Failed to prepare update: ' . mysqli_error($conn));
-            }
-
-            if ($cleanData['character_image'] !== '') {
-                mysqli_stmt_bind_param(
-                    $stmt,
-                    'ssssssssisisssssssi',
-                    $cleanData['character_name'],
-                    $cleanData['player_name'],
-                    $cleanData['chronicle'],
-                    $cleanData['nature'],
-                    $cleanData['demeanor'],
-                    $cleanData['derangement'],
-                    $cleanData['concept'],
-                    $cleanData['clan'],
-                    $cleanData['generation'],
-                    $cleanData['sire'],
-                    $cleanData['pc'],
-                    $cleanData['appearance'],
-                    $cleanData['biography'],
-                    $cleanData['notes'],
-                    $cleanData['custom_data'],
-                    $cleanData['status'],
-                    $cleanData['camarilla_status'],
-                    $cleanData['character_image'],
-                    $character_id
-                );
-            } else {
-                mysqli_stmt_bind_param(
-                    $stmt,
-                    'ssssssssisissssssi',
-                    $cleanData['character_name'],
-                    $cleanData['player_name'],
-                    $cleanData['chronicle'],
-                    $cleanData['nature'],
-                    $cleanData['demeanor'],
-                    $cleanData['derangement'],
-                    $cleanData['concept'],
-                    $cleanData['clan'],
-                    $cleanData['generation'],
-                    $cleanData['sire'],
-                    $cleanData['pc'],
-                    $cleanData['appearance'],
-                    $cleanData['biography'],
-                    $cleanData['notes'],
-                    $cleanData['custom_data'],
-                    $cleanData['status'],
-                    $cleanData['camarilla_status'],
-                    $character_id
-                );
-            }
-
-            if (!mysqli_stmt_execute($stmt)) {
-                error_log('Character update error: ' . mysqli_stmt_error($stmt));
-                throw new Exception('Failed to update character: ' . mysqli_stmt_error($stmt));
-            }
-            mysqli_stmt_close($stmt);
-        } else {
-            // Create new character
-            $character_sql = "INSERT INTO characters (user_id, character_name, player_name, chronicle, character_image, status, camarilla_status) VALUES (?, ?, ?, ?, ?, ?, ?)";
-
-            $stmt = mysqli_prepare($conn, $character_sql);
-            if (!$stmt) {
-                throw new Exception('Failed to prepare statement: ' . mysqli_error($conn));
-            }
-
-            mysqli_stmt_bind_param($stmt, 'issssss',
-                $user_id,
-                $cleanData['character_name'],
-                $cleanData['player_name'],
-                $cleanData['chronicle'],
-                $cleanData['character_image'],
-                $cleanData['status'],
-                $cleanData['camarilla_status']
-            );
-
-            if (!mysqli_stmt_execute($stmt)) {
-                error_log('Character insert error: ' . mysqli_stmt_error($stmt));
-                throw new Exception('Failed to create character: ' . mysqli_stmt_error($stmt));
-            }
-
-            $character_id = mysqli_insert_id($conn);
-            mysqli_stmt_close($stmt);
-            
-            // Update all other fields after initial creation
-            $update_after_create_sql = "UPDATE characters SET nature = ?, demeanor = ?, derangement = ?, concept = ?, clan = ?, generation = ?, sire = ?, pc = ?, appearance = ?, biography = ?, notes = ?, custom_data = ? WHERE id = ?";
-            $update_stmt = mysqli_prepare($conn, $update_after_create_sql);
-            if ($update_stmt) {
-                mysqli_stmt_bind_param(
-                    $update_stmt,
-                    'sssssisissssi',
-                    $cleanData['nature'],
-                    $cleanData['demeanor'],
-                    $cleanData['derangement'],
-                    $cleanData['concept'],
-                    $cleanData['clan'],
-                    $cleanData['generation'],
-                    $cleanData['sire'],
-                    $cleanData['pc'],
-                    $cleanData['appearance'],
-                    $cleanData['biography'],
-                    $cleanData['notes'],
-                    $cleanData['custom_data'],
-                    $character_id
-                );
-                if (!mysqli_stmt_execute($update_stmt)) {
-                    error_log('Failed to update character fields after creation: ' . mysqli_stmt_error($update_stmt));
-                }
-                mysqli_stmt_close($update_stmt);
-            }
-        }
-        
-        // Save disciplines (new normalized structure: one row per discipline with max level)
-        if (isset($data['disciplinePowers']) && is_array($data['disciplinePowers'])) {
-            error_log('Saving disciplines for character: ' . $character_id);
-            
-            // Delete existing disciplines for this character
-            $delete_sql = "DELETE FROM character_disciplines WHERE character_id = ?";
-            $delete_stmt = mysqli_prepare($conn, $delete_sql);
-            if ($delete_stmt) {
-                mysqli_stmt_bind_param($delete_stmt, 'i', $character_id);
-                mysqli_stmt_execute($delete_stmt);
-                mysqli_stmt_close($delete_stmt);
-            }
-            
-            // Insert disciplines with their max level
-            $insert_sql = "INSERT INTO character_disciplines (character_id, discipline_name, level) 
-                          VALUES (?, ?, ?)
-                          ON DUPLICATE KEY UPDATE 
-                          level = VALUES(level)";
-            $disc_stmt = mysqli_prepare($conn, $insert_sql);
-            
-            if ($disc_stmt) {
-                $discipline_count = 0;
-                foreach ($data['disciplinePowers'] as $discipline_name => $power_levels) {
-                    if (!is_array($power_levels) || empty($power_levels)) {
-                        continue;
-                    }
-                    
-                    // Get max level from the array of power levels
-                    $max_level = max($power_levels);
-                    
-                    // Ensure level is between 1 and 5
-                    $max_level = max(1, min(5, (int)$max_level));
-                    
-                    mysqli_stmt_bind_param($disc_stmt, 'isi', 
-                        $character_id,
-                        $discipline_name,
-                        $max_level
-                    );
-                    
-                    if (mysqli_stmt_execute($disc_stmt)) {
-                        $discipline_count++;
-                    } else {
-                        error_log('Failed to save discipline ' . $discipline_name . ': ' . mysqli_stmt_error($disc_stmt));
-                    }
-                }
-                
-                mysqli_stmt_close($disc_stmt);
-                error_log("Saved {$discipline_count} disciplines for character {$character_id}");
-            } else {
-                error_log('Failed to prepare discipline insert statement: ' . mysqli_error($conn));
-            }
-        }
-        
-        // Save abilities
-        if (isset($data['abilities']) && (is_array($data['abilities']) || is_object($data['abilities']))) {
-            error_log('Saving abilities for character: ' . $character_id);
-            error_log('Abilities data: ' . json_encode($data['abilities']));
-            
-            // Convert object to array if needed
-            $abilities = is_object($data['abilities']) ? (array)$data['abilities'] : $data['abilities'];
-            
-            // Delete existing abilities for this character
-            $delete_sql = "DELETE FROM character_abilities WHERE character_id = ?";
-            $delete_stmt = mysqli_prepare($conn, $delete_sql);
-            if ($delete_stmt) {
-                mysqli_stmt_bind_param($delete_stmt, 'i', $character_id);
-                mysqli_stmt_execute($delete_stmt);
-                mysqli_stmt_close($delete_stmt);
-            }
-            
-            // Insert abilities
-            // Data format: { Physical: ['Athletics', 'Athletics', 'Brawl'], Social: [...], Mental: [...] }
-            // Count occurrences to get level
-            // Check if ability_category column exists in character_abilities table
-            $check_column_sql = "SHOW COLUMNS FROM character_abilities LIKE 'ability_category'";
-            $column_check = mysqli_query($conn, $check_column_sql);
-            $has_category_column = ($column_check && mysqli_num_rows($column_check) > 0);
-            if ($column_check) {
-                mysqli_free_result($column_check);
-            }
-            
-            if ($has_category_column) {
-                $insert_sql = "INSERT INTO character_abilities (character_id, ability_name, ability_category, level, specialization) 
-                             VALUES (?, ?, ?, ?, ?)";
-            } else {
-                $insert_sql = "INSERT INTO character_abilities (character_id, ability_name, level, specialization) 
-                             VALUES (?, ?, ?, ?)";
-            }
-            $ability_stmt = mysqli_prepare($conn, $insert_sql);
-            
-            if ($ability_stmt) {
-                $ability_count = 0;
-                foreach ($abilities as $category => $abilityNames) {
-                    if (!is_array($abilityNames)) {
-                        continue;
-                    }
-                    
-                    // Count occurrences of each ability name to get level
-                    $abilityCounts = [];
-                    foreach ($abilityNames as $abilityName) {
-                        // Clean the ability name (remove specialization if present, e.g., "Athletics (Running)" -> "Athletics")
-                        $cleanName = trim($abilityName);
-                        if (strpos($cleanName, ' (') !== false) {
-                            $cleanName = substr($cleanName, 0, strpos($cleanName, ' ('));
-                        }
-                        
-                        $abilityCounts[$cleanName] = ($abilityCounts[$cleanName] ?? 0) + 1;
-                    }
-                    
-                    // Insert each unique ability with its level
-                    foreach ($abilityCounts as $abilityName => $level) {
-                        // Ensure level is between 1 and 5
-                        $level = max(1, min(5, (int)$level));
-                        
-                        // Check for specialization in the original name
-                        $specialization = null;
-                        foreach ($abilityNames as $origName) {
-                            if (strpos($origName, $abilityName . ' (') === 0) {
-                                // Extract specialization from "AbilityName (Specialization)"
-                                $specStart = strpos($origName, ' (') + 2;
-                                $specEnd = strrpos($origName, ')');
-                                if ($specEnd > $specStart) {
-                                    $specialization = substr($origName, $specStart, $specEnd - $specStart);
-                                }
-                                break; // Use first specialization found
-                            }
-                        }
-                        
-                        if ($has_category_column) {
-                            mysqli_stmt_bind_param($ability_stmt, 'issis', 
-                                $character_id,
-                                $abilityName,
-                                $category,
-                                $level,
-                                $specialization
-                            );
-                        } else {
-                            mysqli_stmt_bind_param($ability_stmt, 'isis', 
-                                $character_id,
-                                $abilityName,
-                                $level,
-                                $specialization
-                            );
-                        }
-                        
-                        if (mysqli_stmt_execute($ability_stmt)) {
-                            $ability_count++;
-                        } else {
-                            error_log('Failed to save ability ' . $abilityName . ': ' . mysqli_stmt_error($ability_stmt));
-                        }
-                    }
-                }
-                
-                mysqli_stmt_close($ability_stmt);
-                error_log("Saved {$ability_count} abilities for character {$character_id}");
-            } else {
-                error_log('Failed to prepare ability insert statement: ' . mysqli_error($conn));
-            }
-        }
-
-        // Save positive traits (Physical/Social/Mental)
-        if (isset($data['traits']) && is_array($data['traits'])) {
-            error_log('Saving positive traits for character: ' . $character_id);
-
-            $allowedCategories = ['Physical', 'Social', 'Mental'];
-
-            $delete_sql = "DELETE FROM character_traits WHERE character_id = ? AND (trait_type IS NULL OR trait_type = 'positive')";
-            $delete_stmt = mysqli_prepare($conn, $delete_sql);
-            if ($delete_stmt) {
-                mysqli_stmt_bind_param($delete_stmt, 'i', $character_id);
-                mysqli_stmt_execute($delete_stmt);
-                mysqli_stmt_close($delete_stmt);
-            } else {
-                error_log('Failed to prepare positive trait delete statement: ' . mysqli_error($conn));
-            }
-
-            $insert_sql = "INSERT INTO character_traits (character_id, trait_name, trait_category, trait_type) VALUES (?, ?, ?, 'positive')";
-            $insert_stmt = mysqli_prepare($conn, $insert_sql);
-            if ($insert_stmt) {
-                $positiveCount = 0;
-                foreach ($data['traits'] as $category => $traitNames) {
-                    $normalizedCategory = ucfirst(strtolower($category));
-                    if (!in_array($normalizedCategory, $allowedCategories, true)) {
-                        continue;
-                    }
-
-                    if (!is_array($traitNames)) {
-                        continue;
-                    }
-
-                    foreach ($traitNames as $traitName) {
-                        $cleanName = cleanString($traitName ?? '');
-                        if ($cleanName === '') {
-                            continue;
-                        }
-
-                        mysqli_stmt_bind_param(
-                            $insert_stmt,
-                            'iss',
-                            $character_id,
-                            $cleanName,
-                            $normalizedCategory
-                        );
-
-                        if (mysqli_stmt_execute($insert_stmt)) {
-                            $positiveCount++;
-                        } else {
-                            error_log('Failed to save positive trait ' . $cleanName . ': ' . mysqli_stmt_error($insert_stmt));
-                        }
-                    }
-                }
-
-                mysqli_stmt_close($insert_stmt);
-                error_log("Saved {$positiveCount} positive traits for character {$character_id}");
-            } else {
-                error_log('Failed to prepare positive trait insert statement: ' . mysqli_error($conn));
-            }
-        }
-
-        // Save negative traits separately to preserve legacy APIs
-        if (isset($data['negativeTraits']) && is_array($data['negativeTraits'])) {
-            error_log('Saving negative traits for character: ' . $character_id);
-
-            $allowedCategories = ['Physical', 'Social', 'Mental'];
-
-            $delete_sql = "DELETE FROM character_negative_traits WHERE character_id = ?";
-            $delete_stmt = mysqli_prepare($conn, $delete_sql);
-            if ($delete_stmt) {
-                mysqli_stmt_bind_param($delete_stmt, 'i', $character_id);
-                mysqli_stmt_execute($delete_stmt);
-                mysqli_stmt_close($delete_stmt);
-            } else {
-                error_log('Failed to prepare negative trait delete statement: ' . mysqli_error($conn));
-            }
-
-            $insert_sql = "INSERT INTO character_negative_traits (character_id, trait_category, trait_name) VALUES (?, ?, ?)";
-            $insert_stmt = mysqli_prepare($conn, $insert_sql);
-            if ($insert_stmt) {
-                $negativeCount = 0;
-                foreach ($data['negativeTraits'] as $category => $traitNames) {
-                    $normalizedCategory = ucfirst(strtolower($category));
-                    if (!in_array($normalizedCategory, $allowedCategories, true)) {
-                        continue;
-                    }
-
-                    if (!is_array($traitNames)) {
-                        continue;
-                    }
-
-                    foreach ($traitNames as $traitName) {
-                        $cleanName = cleanString($traitName ?? '');
-                        if ($cleanName === '') {
-                            continue;
-                        }
-
-                        mysqli_stmt_bind_param(
-                            $insert_stmt,
-                            'iss',
-                            $character_id,
-                            $normalizedCategory,
-                            $cleanName
-                        );
-
-                        if (mysqli_stmt_execute($insert_stmt)) {
-                            $negativeCount++;
-                        } else {
-                            error_log('Failed to save negative trait ' . $cleanName . ': ' . mysqli_stmt_error($insert_stmt));
-                        }
-                    }
-                }
-
-                mysqli_stmt_close($insert_stmt);
-                error_log("Saved {$negativeCount} negative traits for character {$character_id}");
-            } else {
-                error_log('Failed to prepare negative trait insert statement: ' . mysqli_error($conn));
-            }
-        }
-        
-        // Save coteries
-        if (isset($data['coteries']) && is_array($data['coteries'])) {
-            error_log('Saving coteries for character: ' . $character_id);
-            
-            // Delete existing coteries
-            $delete_sql = "DELETE FROM character_coteries WHERE character_id = ?";
-            $delete_stmt = mysqli_prepare($conn, $delete_sql);
-            if ($delete_stmt) {
-                mysqli_stmt_bind_param($delete_stmt, 'i', $character_id);
-                mysqli_stmt_execute($delete_stmt);
-                mysqli_stmt_close($delete_stmt);
-            }
-            
-            // Insert new coteries
-            $insert_sql = "INSERT INTO character_coteries (character_id, coterie_name, coterie_type, role, description, notes) VALUES (?, ?, ?, ?, ?, ?)";
-            $insert_stmt = mysqli_prepare($conn, $insert_sql);
-            if ($insert_stmt) {
-                $coterie_count = 0;
-                foreach ($data['coteries'] as $coterie) {
-                    if (empty($coterie['coterie_name'])) {
-                        continue;
-                    }
-                    
-                    mysqli_stmt_bind_param(
-                        $insert_stmt,
-                        'isssss',
-                        $character_id,
-                        cleanString($coterie['coterie_name'] ?? ''),
-                        cleanString($coterie['coterie_type'] ?? ''),
-                        cleanString($coterie['role'] ?? ''),
-                        cleanString($coterie['description'] ?? ''),
-                        cleanString($coterie['notes'] ?? '')
-                    );
-                    
-                    if (mysqli_stmt_execute($insert_stmt)) {
-                        $coterie_count++;
-                    } else {
-                        error_log('Failed to save coterie: ' . mysqli_stmt_error($insert_stmt));
-                    }
-                }
-                mysqli_stmt_close($insert_stmt);
-                error_log("Saved {$coterie_count} coteries for character {$character_id}");
-            } else {
-                error_log('Failed to prepare coterie insert statement: ' . mysqli_error($conn));
-            }
-        }
-        
-        // Save relationships
-        if (isset($data['relationships']) && is_array($data['relationships'])) {
-            error_log('Saving relationships for character: ' . $character_id);
-            
-            // Delete existing relationships
-            $delete_sql = "DELETE FROM character_relationships WHERE character_id = ?";
-            $delete_stmt = mysqli_prepare($conn, $delete_sql);
-            if ($delete_stmt) {
-                mysqli_stmt_bind_param($delete_stmt, 'i', $character_id);
-                mysqli_stmt_execute($delete_stmt);
-                mysqli_stmt_close($delete_stmt);
-            }
-            
-            // Insert new relationships
-            $insert_sql = "INSERT INTO character_relationships (character_id, related_character_name, relationship_type, relationship_subtype, strength, description) VALUES (?, ?, ?, ?, ?, ?)";
-            $insert_stmt = mysqli_prepare($conn, $insert_sql);
-            if ($insert_stmt) {
-                $relationship_count = 0;
-                foreach ($data['relationships'] as $relationship) {
-                    if (empty($relationship['related_character_name'])) {
-                        continue;
-                    }
-                    
-                    mysqli_stmt_bind_param(
-                        $insert_stmt,
-                        'isssss',
-                        $character_id,
-                        cleanString($relationship['related_character_name'] ?? ''),
-                        cleanString($relationship['relationship_type'] ?? ''),
-                        cleanString($relationship['relationship_subtype'] ?? ''),
-                        cleanString($relationship['strength'] ?? ''),
-                        cleanString($relationship['description'] ?? '')
-                    );
-                    
-                    if (mysqli_stmt_execute($insert_stmt)) {
-                        $relationship_count++;
-                    } else {
-                        error_log('Failed to save relationship: ' . mysqli_stmt_error($insert_stmt));
-                    }
-                }
-                mysqli_stmt_close($insert_stmt);
-                error_log("Saved {$relationship_count} relationships for character {$character_id}");
-            } else {
-                error_log('Failed to prepare relationship insert statement: ' . mysqli_error($conn));
-            }
-        }
-        
-        // TODO: Add backgrounds, merits_flaws saving later
-        
-        // Commit transaction if all operations succeed
-        db_commit($conn);
-        
-        echo json_encode([
-            'success' => true,
-            'message' => ($data['id'] ?? $data['character_id'] ?? null) ? 'Character updated successfully!' : 'Character created successfully!',
-            'character_id' => $character_id
-        ]);
-        
-    } catch (Exception $e) {
-        // Rollback transaction on any error
-        db_rollback($conn);
-        throw $e;
+    $input = file_get_contents('php://input');
+    if ($input === false) {
+        throw new RuntimeException('Failed to read request body.');
     }
-    
-} catch (Exception $e) {
-    http_response_code(500);
+    error_log('Save character raw input: ' . $input);
+
+    $data = json_decode($input, true);
+    if (!is_array($data)) {
+        http_response_code(400);
+        echo json_encode(['success' => false, 'message' => 'Invalid JSON data']);
+        exit();
+    }
+
+    $cleanData = [
+        'character_name' => cleanString($data['character_name'] ?? ''),
+        'player_name' => cleanString($data['player_name'] ?? ''),
+        'chronicle' => cleanString($data['chronicle'] ?? 'Valley by Night'),
+        'nature' => cleanString($data['nature'] ?? ''),
+        'demeanor' => cleanString($data['demeanor'] ?? ''),
+        'derangement' => cleanString($data['derangement'] ?? ''),
+        'concept' => cleanString($data['concept'] ?? ''),
+        'clan' => cleanString($data['clan'] ?? ''),
+        'generation' => cleanInt($data['generation'] ?? 13),
+        'sire' => cleanString($data['sire'] ?? ''),
+        'pc' => cleanInt($data['pc'] ?? $data['is_pc'] ?? 1),
+        'appearance' => cleanString($data['appearance'] ?? ''),
+        'biography' => cleanString($data['biography'] ?? ''),
+        'notes' => cleanString($data['notes'] ?? ''),
+        'custom_data' => cleanJsonData($data['custom_data'] ?? ''),
+        'character_image' => cleanString($data['imagePath'] ?? $data['character_image'] ?? ''),
+        'status' => cleanString($data['status'] ?? $data['current_state'] ?? ($data['status_details']['current_state'] ?? ($data['status']['current_state'] ?? 'active'))),
+        'camarilla_status' => cleanString($data['camarilla_status'] ?? ($data['status_details']['camarilla_status'] ?? ($data['status']['camarilla_status'] ?? 'Unknown'))),
+    ];
+
+    $validStates = ['active', 'inactive', 'archived'];
+    $cleanData['status'] = strtolower((string) ($cleanData['status'] ?? 'active'));
+    if (!in_array($cleanData['status'], $validStates, true)) {
+        $cleanData['status'] = 'active';
+    }
+
+    $validCamarilla = ['Camarilla', 'Anarch', 'Independent', 'Sabbat', 'Unknown'];
+    $camarillaValue = $cleanData['camarilla_status'] ?? 'Unknown';
+    $camarillaValue = $camarillaValue ? ucfirst(strtolower((string) $camarillaValue)) : 'Unknown';
+    if (!in_array($camarillaValue, $validCamarilla, true)) {
+        $camarillaValue = 'Unknown';
+    }
+    $cleanData['camarilla_status'] = $camarillaValue;
+
+    $characterId = 0;
+    if (isset($data['character_id'])) {
+        $characterId = (int) $data['character_id'];
+    } elseif (isset($data['id'])) {
+        $characterId = (int) $data['id'];
+    }
+
+    $userId = (int) $_SESSION['user_id'];
+
+    $characterPayload = [
+        'character_name' => $cleanData['character_name'],
+        'player_name' => $cleanData['player_name'],
+        'chronicle' => $cleanData['chronicle'],
+        'nature' => $cleanData['nature'],
+        'demeanor' => $cleanData['demeanor'],
+        'derangement' => $cleanData['derangement'],
+        'concept' => $cleanData['concept'],
+        'clan' => $cleanData['clan'],
+        'generation' => $cleanData['generation'],
+        'sire' => $cleanData['sire'],
+        'pc' => $cleanData['pc'],
+        'appearance' => $cleanData['appearance'],
+        'biography' => $cleanData['biography'],
+        'notes' => $cleanData['notes'],
+        'custom_data' => $cleanData['custom_data'],
+        'status' => $cleanData['status'],
+        'camarilla_status' => $cleanData['camarilla_status'],
+    ];
+    if ($cleanData['character_image'] !== '') {
+        $characterPayload['character_image'] = $cleanData['character_image'];
+    }
+
+    if ($characterId > 0) {
+        $updateResult = supabase_rest_request(
+            'PATCH',
+            '/rest/v1/characters',
+            ['id' => 'eq.' . (string) $characterId],
+            $characterPayload,
+            ['Prefer: return=minimal']
+        );
+        assertSupabaseResult($updateResult, 'Failed to update character');
+    } else {
+        $characterPayload['user_id'] = $userId;
+        $insertResult = supabase_rest_request(
+            'POST',
+            '/rest/v1/characters',
+            ['select' => 'id'],
+            [$characterPayload],
+            ['Prefer: return=representation']
+        );
+        $insertResult = assertSupabaseResult($insertResult, 'Failed to create character');
+        $insertedRows = $insertResult['data'];
+        if (!is_array($insertedRows) || empty($insertedRows) || !isset($insertedRows[0]['id'])) {
+            throw new RuntimeException('Create character response missing inserted ID.');
+        }
+        $characterId = (int) $insertedRows[0]['id'];
+    }
+
+    if (isset($data['disciplinePowers']) && is_array($data['disciplinePowers'])) {
+        supabaseDeleteByCharacterId('character_disciplines', $characterId, []);
+
+        $disciplineRows = [];
+        foreach ($data['disciplinePowers'] as $disciplineName => $powerLevels) {
+            if (!is_array($powerLevels) || empty($powerLevels)) {
+                continue;
+            }
+            $maxLevel = max(1, min(5, (int) max($powerLevels)));
+            $disciplineRows[] = [
+                'character_id' => $characterId,
+                'discipline_name' => cleanString((string) $disciplineName),
+                'level' => $maxLevel,
+            ];
+        }
+        supabaseInsertRows('character_disciplines', $disciplineRows);
+    }
+
+    if (isset($data['abilities']) && (is_array($data['abilities']) || is_object($data['abilities']))) {
+        supabaseDeleteByCharacterId('character_abilities', $characterId, []);
+
+        $abilities = is_object($data['abilities']) ? (array) $data['abilities'] : $data['abilities'];
+        $abilityRows = [];
+        foreach ($abilities as $category => $abilityNames) {
+            if (!is_array($abilityNames)) {
+                continue;
+            }
+
+            $abilityCounts = [];
+            foreach ($abilityNames as $abilityNameRaw) {
+                $abilityName = trim((string) $abilityNameRaw);
+                if (strpos($abilityName, ' (') !== false) {
+                    $abilityName = substr($abilityName, 0, (int) strpos($abilityName, ' ('));
+                }
+                if ($abilityName === '') {
+                    continue;
+                }
+                $abilityCounts[$abilityName] = ($abilityCounts[$abilityName] ?? 0) + 1;
+            }
+
+            foreach ($abilityCounts as $abilityName => $levelValue) {
+                $specialization = null;
+                foreach ($abilityNames as $originalNameRaw) {
+                    $originalName = (string) $originalNameRaw;
+                    if (strpos($originalName, $abilityName . ' (') !== 0) {
+                        continue;
+                    }
+                    $specStart = (int) strpos($originalName, ' (') + 2;
+                    $specEnd = (int) strrpos($originalName, ')');
+                    if ($specEnd > $specStart) {
+                        $specialization = substr($originalName, $specStart, $specEnd - $specStart);
+                    }
+                    break;
+                }
+
+                $abilityRows[] = [
+                    'character_id' => $characterId,
+                    'ability_name' => $abilityName,
+                    'ability_category' => cleanString((string) $category),
+                    'level' => max(1, min(5, (int) $levelValue)),
+                    'specialization' => $specialization,
+                ];
+            }
+        }
+        supabaseInsertRows('character_abilities', $abilityRows);
+    }
+
+    if (isset($data['traits']) && is_array($data['traits'])) {
+        supabaseDeleteByCharacterId(
+            'character_traits',
+            $characterId,
+            ['or' => '(trait_type.is.null,trait_type.eq.positive)']
+        );
+
+        $allowedCategories = ['Physical', 'Social', 'Mental'];
+        $positiveRows = [];
+        foreach ($data['traits'] as $category => $traitNames) {
+            $normalizedCategory = ucfirst(strtolower((string) $category));
+            if (!in_array($normalizedCategory, $allowedCategories, true) || !is_array($traitNames)) {
+                continue;
+            }
+            foreach ($traitNames as $traitNameRaw) {
+                $traitName = cleanString((string) $traitNameRaw);
+                if ($traitName === '') {
+                    continue;
+                }
+                $positiveRows[] = [
+                    'character_id' => $characterId,
+                    'trait_name' => $traitName,
+                    'trait_category' => $normalizedCategory,
+                    'trait_type' => 'positive',
+                ];
+            }
+        }
+        supabaseInsertRows('character_traits', $positiveRows);
+    }
+
+    if (isset($data['negativeTraits']) && is_array($data['negativeTraits'])) {
+        supabaseDeleteByCharacterId('character_negative_traits', $characterId, []);
+
+        $allowedCategories = ['Physical', 'Social', 'Mental'];
+        $negativeRows = [];
+        foreach ($data['negativeTraits'] as $category => $traitNames) {
+            $normalizedCategory = ucfirst(strtolower((string) $category));
+            if (!in_array($normalizedCategory, $allowedCategories, true) || !is_array($traitNames)) {
+                continue;
+            }
+            foreach ($traitNames as $traitNameRaw) {
+                $traitName = cleanString((string) $traitNameRaw);
+                if ($traitName === '') {
+                    continue;
+                }
+                $negativeRows[] = [
+                    'character_id' => $characterId,
+                    'trait_category' => $normalizedCategory,
+                    'trait_name' => $traitName,
+                ];
+            }
+        }
+        supabaseInsertRows('character_negative_traits', $negativeRows);
+    }
+
+    if (isset($data['coteries']) && is_array($data['coteries'])) {
+        supabaseDeleteByCharacterId('character_coteries', $characterId, []);
+
+        $coterieRows = [];
+        foreach ($data['coteries'] as $coterie) {
+            if (!is_array($coterie) || empty($coterie['coterie_name'])) {
+                continue;
+            }
+            $coterieRows[] = [
+                'character_id' => $characterId,
+                'coterie_name' => cleanString($coterie['coterie_name'] ?? ''),
+                'coterie_type' => cleanString($coterie['coterie_type'] ?? ''),
+                'role' => cleanString($coterie['role'] ?? ''),
+                'description' => cleanString($coterie['description'] ?? ''),
+                'notes' => cleanString($coterie['notes'] ?? ''),
+            ];
+        }
+        supabaseInsertRows('character_coteries', $coterieRows);
+    }
+
+    if (isset($data['relationships']) && is_array($data['relationships'])) {
+        supabaseDeleteByCharacterId('character_relationships', $characterId, []);
+
+        $relationshipRows = [];
+        foreach ($data['relationships'] as $relationship) {
+            if (!is_array($relationship) || empty($relationship['related_character_name'])) {
+                continue;
+            }
+            $relationshipRows[] = [
+                'character_id' => $characterId,
+                'related_character_name' => cleanString($relationship['related_character_name'] ?? ''),
+                'relationship_type' => cleanString($relationship['relationship_type'] ?? ''),
+                'relationship_subtype' => cleanString($relationship['relationship_subtype'] ?? ''),
+                'strength' => cleanString($relationship['strength'] ?? ''),
+                'description' => cleanString($relationship['description'] ?? ''),
+            ];
+        }
+        supabaseInsertRows('character_relationships', $relationshipRows);
+    }
+
     echo json_encode([
-        'success' => false, 
-        'message' => 'Error saving character: ' . $e->getMessage()
+        'success' => true,
+        'message' => ($data['id'] ?? $data['character_id'] ?? null) ? 'Character updated successfully!' : 'Character created successfully!',
+        'character_id' => $characterId,
+    ]);
+} catch (Throwable $e) {
+    http_response_code(500);
+    error_log('save_character.php error: ' . $e->getMessage());
+    echo json_encode([
+        'success' => false,
+        'message' => 'Error saving character: ' . $e->getMessage(),
     ]);
 }
-
-mysqli_close($conn);
-?>

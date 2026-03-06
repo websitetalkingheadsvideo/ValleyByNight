@@ -3,24 +3,19 @@
  * Export All Havens to JSON
  * Extracts all locations with type = 'Haven' from the database and exports to JSON file
  */
+declare(strict_types=1);
 
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
-require_once __DIR__ . '/includes/connect.php';
+require_once __DIR__ . '/includes/supabase_client.php';
 
 try {
-    // Query all Havens from the database
-    $havens = db_fetch_all($conn, 
-        "SELECT * 
-         FROM locations 
-         WHERE type = 'Haven' 
-         ORDER BY id ASC"
-    );
-    
-    if (!$havens) {
-        $havens = [];
-    }
+    $havens = supabase_table_get('locations', [
+        'select' => '*',
+        'type' => 'eq.Haven',
+        'order' => 'id.asc'
+    ]);
     
     // Prepare output data
     $output = [
@@ -50,7 +45,5 @@ try {
     echo "❌ Error: " . $e->getMessage() . "\n";
     exit(1);
 }
-
-mysqli_close($conn);
 ?>
 

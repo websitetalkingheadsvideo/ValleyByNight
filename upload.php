@@ -37,17 +37,17 @@ if (isset($_POST['character_id'])) {
 $upload_type = isset($_POST['type']) ? $_POST['type'] : 'character_image';
 
 try {
-    // Include database connection
-    require_once __DIR__ . '/includes/connect.php';
+    require_once __DIR__ . '/includes/supabase_client.php';
     
     // If a character id is provided, verify ownership
     if ($character_id > 0) {
-        $verify_query = "SELECT id FROM characters WHERE id = ? AND user_id = ?";
-        $stmt = $conn->prepare($verify_query);
-        $stmt->bind_param("ii", $character_id, $_SESSION['user_id']);
-        $stmt->execute();
-        $result = $stmt->get_result();
-        if ($result->num_rows === 0) {
+        $verifyRows = supabase_table_get('characters', [
+            'select' => 'id',
+            'id' => 'eq.' . (string) $character_id,
+            'user_id' => 'eq.' . (string) $_SESSION['user_id'],
+            'limit' => '1'
+        ]);
+        if (empty($verifyRows)) {
             http_response_code(404);
             echo json_encode(['success' => false, 'error' => 'Character not found or access denied']);
             exit;
@@ -101,10 +101,14 @@ try {
     // Update database with filename if character_id provided
     $db_filename = $unique_filename;
     if ($character_id > 0 && $upload_type === 'character_image') {
-        $update_query = "UPDATE characters SET character_image = ? WHERE id = ?";
-        $stmt = $conn->prepare($update_query);
-        $stmt->bind_param("si", $db_filename, $character_id);
-        if (!$stmt->execute()) {
+        $updateResult = supabase_rest_request(
+            'PATCH',
+            '/rest/v1/characters',
+            ['id' => 'eq.' . (string) $character_id],
+            ['character_image' => $db_filename],
+            ['Prefer: return=minimal']
+        );
+        if ($updateResult['error'] !== null) {
             // Delete uploaded file if database update fails
             @unlink($file_path);
             http_response_code(500);
@@ -124,10 +128,6 @@ try {
 } catch (Exception $e) {
     http_response_code(500);
     echo json_encode(['success' => false, 'error' => 'Upload error: ' . $e->getMessage()]);
-}
-
-if (isset($conn)) {
-    $conn->close();
 }
 ?>
 

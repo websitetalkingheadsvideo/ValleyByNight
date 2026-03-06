@@ -3,9 +3,80 @@
  * Camarilla Positions Helper Functions
  * Provides database query functions for Camarilla position data
  */
+declare(strict_types=1);
+
+require_once __DIR__ . '/supabase_client.php';
 
 // Default "tonight" date for the game
 define('CAMARILLA_DEFAULT_NIGHT', '1994-10-21 00:00:00');
+
+/**
+ * Normalize character names into assignment key formats.
+ *
+ * @return array<int,string>
+ */
+function camarilla_character_assignment_keys(string $characterName): array {
+    $base = strtoupper($characterName);
+    $underscored = strtoupper(str_replace(' ', '_', $characterName));
+    $underscoredNoHyphen = strtoupper(str_replace('-', '_', str_replace(' ', '_', $characterName)));
+    return array_values(array_unique([$underscored, $underscoredNoHyphen, $base]));
+}
+
+/**
+ * @param array<int,array<string,mixed>> $characters
+ * @return array<string,array<string,mixed>>
+ */
+function camarilla_build_character_lookup(array $characters): array {
+    $lookup = [];
+    foreach ($characters as $character) {
+        $name = isset($character['character_name']) ? (string) $character['character_name'] : '';
+        if ($name === '') {
+            continue;
+        }
+        $keys = camarilla_character_assignment_keys($name);
+        foreach ($keys as $key) {
+            if (!isset($lookup[$key])) {
+                $lookup[$key] = $character;
+            }
+        }
+    }
+    return $lookup;
+}
+
+/**
+ * @param array<int,array<string,mixed>> $assignments
+ * @param array<string,array<string,mixed>> $characterLookup
+ * @return array<int,array<string,mixed>>
+ */
+function camarilla_attach_character_details(array $assignments, array $characterLookup): array {
+    $rows = [];
+    foreach ($assignments as $assignment) {
+        $assignmentCharacterId = isset($assignment['character_id']) ? (string) $assignment['character_id'] : '';
+        $character = $characterLookup[strtoupper($assignmentCharacterId)] ?? null;
+
+        $rows[] = [
+            'position_id' => $assignment['position_id'] ?? null,
+            'assignment_character_id' => $assignmentCharacterId,
+            'start_night' => $assignment['start_night'] ?? null,
+            'end_night' => $assignment['end_night'] ?? null,
+            'is_acting' => $assignment['is_acting'] ?? null,
+            'character_name' => $character['character_name'] ?? null,
+            'clan' => $character['clan'] ?? null,
+            'character_id' => $character['id'] ?? null,
+        ];
+    }
+
+    usort($rows, static function (array $a, array $b): int {
+        $aActing = (int) ($a['is_acting'] ?? 1);
+        $bActing = (int) ($b['is_acting'] ?? 1);
+        if ($aActing !== $bActing) {
+            return $aActing <=> $bActing;
+        }
+        return strcmp((string) ($b['start_night'] ?? ''), (string) ($a['start_night'] ?? ''));
+    });
+
+    return $rows;
+}
 
 /**
  * Get all current holders for a specific position on a given night
@@ -16,38 +87,28 @@ define('CAMARILLA_DEFAULT_NIGHT', '1994-10-21 00:00:00');
  * @return array Array of assignment records with character details (empty if vacant)
  */
 function get_all_current_holders_for_position(string $positionId, ?string $night = null): array {
-    global $conn;
-    
     if ($night === null) {
         $night = CAMARILLA_DEFAULT_NIGHT;
     }
-    
-    // Query to find all current holders, preferring non-acting over acting
-    // JOIN on character_name - assignment table stores character_name as identifier
-    // Try multiple transformations to handle different name formats
-    $query = "SELECT 
-                cpa.position_id,
-                cpa.character_id as assignment_character_id,
-                cpa.start_night,
-                cpa.end_night,
-                cpa.is_acting,
-                c.character_name,
-                c.clan,
-                c.id as character_id
-              FROM camarilla_position_assignments cpa
-              LEFT JOIN characters c ON (
-                UPPER(REPLACE(c.character_name, ' ', '_')) = cpa.character_id
-                OR UPPER(REPLACE(REPLACE(c.character_name, ' ', '_'), '-', '_')) = cpa.character_id
-                OR UPPER(c.character_name) = cpa.character_id
-              )
-              WHERE cpa.position_id = ?
-                AND cpa.start_night <= ?
-                AND (cpa.end_night IS NULL OR cpa.end_night >= ?)
-              ORDER BY cpa.is_acting ASC, cpa.start_night DESC";
-    
-    $results = db_fetch_all($conn, $query, "sss", [$positionId, $night, $night]);
-    
-    return $results ?: [];
+
+    $assignments = supabase_table_get('camarilla_position_assignments', [
+        'select' => 'position_id,character_id,start_night,end_night,is_acting',
+        'position_id' => 'eq.' . $positionId,
+        'start_night' => 'lte.' . $night,
+        'or' => '(end_night.is.null,end_night.gte.' . $night . ')',
+        'order' => 'is_acting.asc,start_night.desc'
+    ]);
+
+    if (empty($assignments)) {
+        return [];
+    }
+
+    $characters = supabase_table_get('characters', [
+        'select' => 'id,character_name,clan'
+    ]);
+    $characterLookup = camarilla_build_character_lookup($characters);
+
+    return camarilla_attach_character_details($assignments, $characterLookup);
 }
 
 /**
@@ -72,15 +133,14 @@ function get_current_holder_for_position(string $positionId, ?string $night = nu
  * @return array Array of positions with nested current_holders array (empty if vacant)
  */
 function get_all_positions_with_current_holders(?string $night = null): array {
-    global $conn;
-    
     if ($night === null) {
         $night = CAMARILLA_DEFAULT_NIGHT;
     }
-    
-    // Get all positions
-    $positions_query = "SELECT * FROM camarilla_positions ORDER BY importance_rank ASC, category ASC, name ASC";
-    $positions = db_fetch_all($conn, $positions_query);
+
+    $positions = supabase_table_get('camarilla_positions', [
+        'select' => '*',
+        'order' => 'importance_rank.asc,category.asc,name.asc'
+    ]);
     
     $result = [];
     foreach ($positions as $position) {
@@ -104,19 +164,32 @@ function get_all_positions_with_current_holders(?string $night = null): array {
  * @return array All assignments ordered by start_night DESC
  */
 function get_position_history(string $positionId): array {
-    global $conn;
-    
-    $query = "SELECT 
-                cpa.*,
-                c.character_name,
-                c.clan,
-                c.id as character_id
-              FROM camarilla_position_assignments cpa
-              LEFT JOIN characters c ON UPPER(REPLACE(c.character_name, ' ', '_')) = cpa.character_id
-              WHERE cpa.position_id = ?
-              ORDER BY cpa.start_night DESC";
-    
-    return db_fetch_all($conn, $query, "s", [$positionId]);
+    $assignments = supabase_table_get('camarilla_position_assignments', [
+        'select' => '*',
+        'position_id' => 'eq.' . $positionId,
+        'order' => 'start_night.desc'
+    ]);
+    if (empty($assignments)) {
+        return [];
+    }
+
+    $characters = supabase_table_get('characters', [
+        'select' => 'id,character_name,clan'
+    ]);
+    $characterLookup = camarilla_build_character_lookup($characters);
+
+    $rows = [];
+    foreach ($assignments as $assignment) {
+        $assignmentCharacterId = isset($assignment['character_id']) ? (string) $assignment['character_id'] : '';
+        $character = $characterLookup[strtoupper($assignmentCharacterId)] ?? null;
+        $rows[] = array_merge($assignment, [
+            'character_name' => $character['character_name'] ?? null,
+            'clan' => $character['clan'] ?? null,
+            'character_id' => $character['id'] ?? null
+        ]);
+    }
+
+    return $rows;
 }
 
 /**
@@ -126,18 +199,36 @@ function get_position_history(string $positionId): array {
  * @return array All position assignments for the character ordered by start_night DESC
  */
 function get_character_position_history(string $characterId): array {
-    global $conn;
-    
-    $query = "SELECT 
-                cpa.*,
-                cp.name as position_name,
-                cp.category,
-                cp.position_id
-              FROM camarilla_position_assignments cpa
-              LEFT JOIN camarilla_positions cp ON cpa.position_id = cp.position_id
-              WHERE cpa.character_id = ?
-              ORDER BY cpa.start_night DESC";
-    
-    // character_id is likely an integer, but using "s" for flexibility
-    return db_fetch_all($conn, $query, "s", [$characterId]);
+    $assignments = supabase_table_get('camarilla_position_assignments', [
+        'select' => '*',
+        'character_id' => 'eq.' . $characterId,
+        'order' => 'start_night.desc'
+    ]);
+    if (empty($assignments)) {
+        return [];
+    }
+
+    $positions = supabase_table_get('camarilla_positions', [
+        'select' => 'position_id,name,category'
+    ]);
+    $positionLookup = [];
+    foreach ($positions as $position) {
+        $positionKey = isset($position['position_id']) ? (string) $position['position_id'] : '';
+        if ($positionKey !== '') {
+            $positionLookup[$positionKey] = $position;
+        }
+    }
+
+    $rows = [];
+    foreach ($assignments as $assignment) {
+        $positionId = isset($assignment['position_id']) ? (string) $assignment['position_id'] : '';
+        $position = $positionLookup[$positionId] ?? null;
+        $rows[] = array_merge($assignment, [
+            'position_name' => $position['name'] ?? null,
+            'category' => $position['category'] ?? null,
+            'position_id' => $position['position_id'] ?? $positionId
+        ]);
+    }
+
+    return $rows;
 }

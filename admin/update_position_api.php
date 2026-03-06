@@ -12,7 +12,7 @@ if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
     exit();
 }
 
-require_once __DIR__ . '/../includes/connect.php';
+require_once __DIR__ . '/../includes/supabase_client.php';
 require_once __DIR__ . '/../includes/camarilla_positions_helper.php';
 
 // Get JSON input
@@ -37,29 +37,23 @@ if (empty($position_id) || empty($name) || empty($category)) {
 }
 
 try {
-    // Start transaction
-    if (!db_begin_transaction($conn)) {
-        throw new Exception('Failed to begin transaction: ' . mysqli_error($conn));
-    }
-    
     // Update position
-    $query = "UPDATE camarilla_positions 
-             SET name = ?, category = ?, description = ?, importance_rank = ?
-             WHERE position_id = ?";
-    
-    $stmt = mysqli_prepare($conn, $query);
-    if (!$stmt) {
-        throw new Exception('Failed to prepare statement: ' . mysqli_error($conn));
+    $positionUpdate = supabase_rest_request(
+        'PATCH',
+        '/rest/v1/camarilla_positions',
+        ['position_id' => 'eq.' . $position_id],
+        [
+            'name' => $name,
+            'category' => $category,
+            'description' => $description,
+            'importance_rank' => $importance_rank
+        ],
+        ['Prefer: return=minimal']
+    );
+    if ($positionUpdate['error'] !== null) {
+        throw new Exception('Failed to update position: ' . $positionUpdate['error']);
     }
-    
-    mysqli_stmt_bind_param($stmt, 'sssis', $name, $category, $description, $importance_rank, $position_id);
-    
-    if (!mysqli_stmt_execute($stmt)) {
-        throw new Exception('Failed to execute statement: ' . mysqli_stmt_error($stmt));
-    }
-    
-    mysqli_stmt_close($stmt);
-    
+
     // Handle current holder assignment if provided
     if ($current_holder_id !== null) {
         $default_night = CAMARILLA_DEFAULT_NIGHT;
@@ -69,14 +63,27 @@ try {
         // For multi-holder positions (Talon/Whip), we'll assume it means clearing ALL for now 
         // since the UI only supports a single selection.
         if ($current_holder_id === 0) {
-            $end_assignments = "UPDATE camarilla_position_assignments 
-                               SET end_night = ? 
-                               WHERE position_id = ? 
-                               AND (end_night IS NULL OR end_night >= ?)";
-            db_execute($conn, $end_assignments, "sss", [$default_night, $position_id, $default_night]);
+            $endAssignmentsResult = supabase_rest_request(
+                'PATCH',
+                '/rest/v1/camarilla_position_assignments',
+                [
+                    'position_id' => 'eq.' . $position_id,
+                    'or' => '(end_night.is.null,end_night.gte.' . $default_night . ')'
+                ],
+                ['end_night' => $default_night],
+                ['Prefer: return=minimal']
+            );
+            if ($endAssignmentsResult['error'] !== null) {
+                throw new Exception('Failed to clear assignments: ' . $endAssignmentsResult['error']);
+            }
         } else {
             // Get character name for assignment
-            $character = db_fetch_one($conn, "SELECT id, character_name FROM characters WHERE id = ?", "i", [$current_holder_id]);
+            $characterRows = supabase_table_get('characters', [
+                'select' => 'id,character_name',
+                'id' => 'eq.' . (string) $current_holder_id,
+                'limit' => '1'
+            ]);
+            $character = !empty($characterRows) ? $characterRows[0] : null;
             
             if ($character) {
                 // Check if this position allows multiple holders (Talon, Whip)
@@ -84,11 +91,19 @@ try {
 
                 // Only end ALL existing active assignments if NOT a multi-holder position
                 if (!$allows_multiple) {
-                    $end_assignments = "UPDATE camarilla_position_assignments 
-                                       SET end_night = ? 
-                                       WHERE position_id = ? 
-                                       AND (end_night IS NULL OR end_night >= ?)";
-                    db_execute($conn, $end_assignments, "sss", [$default_night, $position_id, $default_night]);
+                    $endAssignmentsResult = supabase_rest_request(
+                        'PATCH',
+                        '/rest/v1/camarilla_position_assignments',
+                        [
+                            'position_id' => 'eq.' . $position_id,
+                            'or' => '(end_night.is.null,end_night.gte.' . $default_night . ')'
+                        ],
+                        ['end_night' => $default_night],
+                        ['Prefer: return=minimal']
+                    );
+                    if ($endAssignmentsResult['error'] !== null) {
+                        throw new Exception('Failed to end active assignments: ' . $endAssignmentsResult['error']);
+                    }
                 }
                 
                 // Create character_id string for assignment (e.g., "SABINE_TOREADOR")
@@ -96,46 +111,52 @@ try {
                 
                 // Always end any existing assignment for THIS specific character in THIS position
                 // to avoid duplicates or to update their status (like switching from acting to permanent)
-                $end_specific = "UPDATE camarilla_position_assignments 
-                                SET end_night = ? 
-                                WHERE position_id = ? 
-                                AND character_id = ?
-                                AND (end_night IS NULL OR end_night >= ?)";
-                db_execute($conn, $end_specific, "ssss", [$default_night, $position_id, $assignment_character_id, $default_night]);
+                $endSpecificResult = supabase_rest_request(
+                    'PATCH',
+                    '/rest/v1/camarilla_position_assignments',
+                    [
+                        'position_id' => 'eq.' . $position_id,
+                        'character_id' => 'eq.' . $assignment_character_id,
+                        'or' => '(end_night.is.null,end_night.gte.' . $default_night . ')'
+                    ],
+                    ['end_night' => $default_night],
+                    ['Prefer: return=minimal']
+                );
+                if ($endSpecificResult['error'] !== null) {
+                    throw new Exception('Failed to end previous character assignment: ' . $endSpecificResult['error']);
+                }
                 
                 // Create new assignment
-                $insert_assignment = "INSERT INTO camarilla_position_assignments 
-                                    (position_id, character_id, start_night, end_night, is_acting) 
-                                    VALUES (?, ?, ?, NULL, ?)";
-                db_execute($conn, $insert_assignment, "sssi", [
-                    $position_id,
-                    $assignment_character_id,
-                    $default_night,
-                    $is_acting
-                ]);
+                $insertAssignmentResult = supabase_rest_request(
+                    'POST',
+                    '/rest/v1/camarilla_position_assignments',
+                    [],
+                    [[
+                        'position_id' => $position_id,
+                        'character_id' => $assignment_character_id,
+                        'start_night' => $default_night,
+                        'end_night' => null,
+                        'is_acting' => $is_acting
+                    ]],
+                    ['Prefer: return=minimal']
+                );
+                if ($insertAssignmentResult['error'] !== null) {
+                    throw new Exception('Failed to create assignment: ' . $insertAssignmentResult['error']);
+                }
             }
         }
     }
-    
-    // Commit transaction
-    if (!db_commit($conn)) {
-        throw new Exception('Failed to commit transaction: ' . mysqli_error($conn));
-    }
-    
+
     echo json_encode([
         'success' => true,
         'message' => 'Position updated successfully'
     ]);
     
 } catch (Exception $e) {
-    // Rollback on error
-    db_rollback($conn);
     echo json_encode([
         'success' => false,
         'message' => 'Error: ' . $e->getMessage()
     ]);
 }
-
-mysqli_close($conn);
 ?>
 
