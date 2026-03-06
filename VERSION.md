@@ -1,6 +1,351 @@
 # Version History
 
-## Current Version: 0.9.109
+## Current Version: 0.9.198
+
+**Date:** 2026-03-06  
+**Type:** Patch (Storyteller prompt update and sync)
+
+## Previous Version: 0.9.197
+
+**Date:** 2026-03-06  
+**Type:** Patch (Discipline completion pipeline: Supabase canonical audit, JSON candidate mapping, clan-baseline fills, and final 100% character discipline coverage)
+
+## Previous Version: 0.9.194
+
+**Date:** 2026-03-04  
+**Type:** Patch (Test Agent: LOTN-style challenge resolution, trait bidding, contested/static/narrative, retest, test_history)
+
+## Previous Version: 0.9.193
+
+**Date:** 2026-03-04  
+**Type:** Patch (Blood Agent: vitae management, depletion/feeding APIs, Masquerade integration, e2e tests)
+
+## Previous Version: 0.9.192
+
+**Date:** 2026-03-04  
+**Type:** Patch (Frenzy/Masquerade config in Supabase agent_config; migration + config loaders; AGENTS.md notes)
+
+## Previous Version: 0.9.191
+
+**Date:** 2026-03-04  
+**Type:** Patch (Masquerade agent design: DESIGN.md, config, README; AGENTS.md integration; vtm_bloodlines_audit reference)
+
+## Previous Version: 0.9.190
+
+**Date:** 2026-03-03  
+**Type:** Patch (Git sync: e2e CLI smoke batches, agent test fixes, include paths, mysql.md all [✅])
+
+## Previous Version: 0.9.189
+
+**Date:** 2026-03-03  
+**Type:** Patch (cursor rules: no NPM reports, agent runs npm never user; e2e/admin/mysql/tests tweaks)
+
+## Previous Version: 0.9.188
+
+**Date:** 2026-03-03  
+**Type:** Patch (e2e test run: mysql.md [✅] for 68 passed scripts; admin-ui spec timeout/body selector)
+
+## Previous Version: 0.9.187
+
+**Date:** 2026-03-03  
+**Type:** Patch (Playwright e2e test plan: auth setup, tier specs, CLI smoke, traceability map; mysql.md test checkboxes → [✅]; admin MySQL cleanup)
+
+## Previous Version: 0.9.186
+
+**Date:** 2026-03-03  
+**Type:** Patch (database: generate_world_summaries, replace_mage_characters_table MySQL→Supabase; mysql.md)
+
+## Previous Version: 0.9.185
+
+**Date:** 2026-03-03  
+**Type:** Patch (cursor rules: API input validation, data/mysql.md registration, entry-point error boundary; index; mysql.md; import scripts refactor; git sync)
+
+## Previous Version: 0.9.182
+
+**Date:** 2026-03-03  
+**Type:** Patch (mysql.md; database: extract_and_update_powers, extract_paths_content, generate_cw_whitford_boons, generate_misfortune_boons; git sync)
+
+## Previous Version: 0.9.181
+
+**Date:** 2026-03-02  
+**Type:** Patch (MySQL→Supabase: export_npcs, db_cleanup_0863; add_character_rituals_fk SQL-only; create_* SQL-only batch; mysql.md; git sync)
+
+## Previous Version: 0.9.180
+
+**Date:** 2026-03-02  
+**Type:** Patch (MySQL→Supabase: create_mage_characters_table, create_demon_characters_table SQL-only; mysql.md; git sync)
+
+## Previous Version: 0.9.179
+
+**Date:** 2026-03-02  
+**Type:** Patch (MySQL→Supabase: export_character_portraits, sync_character_images, import_rituals_md, create_abilities/derangements SQL-only, import_locations; git sync)
+
+## Previous Version: 0.9.177
+
+**Date:** 2026-03-02  
+**Type:** Patch (MySQL→Supabase migration: fix_mage_characters_add_id_user_id, audit_rituals_duplicates/sources, update_paths_completion; git sync)
+
+## Previous Version: 0.9.175
+
+**Date:** 2026-03-02  
+**Type:** Patch (MySQL→Supabase migration batch: admin equipment, boons, paths, sire/childe, NPC briefing, questionnaire; git sync)
+
+## Previous Version: 0.9.172
+
+**Date:** 2026-03-01  
+**Type:** Patch (Laws agent: load .env in supabase_rag for API keys)
+
+## Previous Version: 0.9.171
+
+**Date:** 2026-03-01  
+**Type:** Patch (Laws agent API/rag refactor; map_agent updates; agents/supabase.md)
+
+## Previous Version: 0.9.170
+
+**Date:** 2026-03-01  
+**Type:** Patch (Agents: narrative_compiler and music_agent Supabase migration; to-do map/haven editor)
+
+## Previous Version: 0.9.169
+
+**Date:** 2026-02-28  
+**Type:** Patch (Map: Independent faction, Arizona State Hospital Independent; district panel left/top-half; legend)
+
+## Previous Version: 0.9.168
+
+**Date:** 2026-03-01  
+**Type:** Patch (Map: edit districts UI, district boundary API, map index/styles)
+
+## Previous Version: 0.9.167
+
+**Date:** 2026-03-01  
+**Type:** Patch (Influence agent: Supabase tables/migrations, seed effects; map.js updates; agents/supabase.md)
+
+## Previous Version: 0.9.166
+
+**Date:** 2026-02-28  
+**Type:** Patch (Agents: style_agent and rumors_agent Supabase migration; rumor seed from JSON)
+
+## Previous Version: 0.9.165
+
+**Date:** 2026-02-28  
+**Type:** Patch (Agents: Supabase repositories for abilities, boons, disciplines, paths, rituals; character_agent refactor; migrations)
+
+## Previous Version: 0.9.164
+
+**Date:** 2026-02-28  
+**Type:** Patch (Map: districts table SQL, map API/token, GeoJSON data, footer; database scripts)
+
+## Previous Version: 0.9.162
+
+**Date:** 2026-02-27  
+**Type:** Patch (Character portrait JSON + Supabase bulk-assign; Art Bible examples → used_image_promps)
+
+## Previous Version: 0.9.161
+
+**Date:** 2026-02-27  
+**Type:** Patch (City control summary doc; coterie agent migration/schema; index refactor)
+
+## Previous Version: 0.9.159
+
+**Date:** 2026-02-27  
+**Type:** Patch (Character image JSON sync, Art Bible Marcus Vane expected-output, Ifrit/Darnelle prompts; copy ref images to uploads)
+
+## Previous Version: 0.9.158
+
+**Date:** 2026-02-26  
+**Type:** Patch (Character portraits: audit/fix tools, bulk assign from files, view modal updates, JSON image sync)
+
+## Previous Version: 0.9.156
+
+**Date:** 2026-02-25  
+**Type:** Patch (Reference reorg: Giovanni to Added to Database, world summaries 09155, convert_image_for_rodin; remove SECURITY_*; Flashbacks/compelling NPC updates)
+
+## Previous Version: 0.9.155
+
+**Date:** 2026-02-25  
+**Type:** Patch (Clan styling: Sabbat antitribu + Mages/Garou/Spirits/Wraiths badges and Art Bible; assign Unknown clan to Other Types admin page)
+
+## Previous Version: 0.9.154
+
+**Date:** 2026-02-25  
+**Type:** Patch (Sabbat pack: Art Bible portrait prompts, import/portrait-assign admin, AGENTS.md portrait system note)
+
+## Previous Version: 0.9.153
+
+**Date:** 2026-02-23  
+**Type:** Patch (Character images: data/images.md, sync script JSON→MySQL+Supabase, Kerry/Caine JSON + mapping; portrait uploads)
+
+## Previous Version: 0.9.152
+
+**Date:** 2026-02-23  
+**Type:** Patch (Clan featured NPCs: Tremere Helena Crowly, Ventrue Victoria Sterling)
+
+## Previous Version: 0.9.151
+
+**Date:** 2026-02-23  
+**Type:** Patch (Edit character: portrait upload from computer; save to uploads/characters; Basic Info UI + main.js population)
+
+## Previous Version: 0.9.148
+
+**Date:** 2026-02-23  
+**Type:** Patch (Giovanni clan page and NPC reference updates; Lorenzo/Paris Giovanni biography DB tools)
+
+## Previous Version: 0.9.147
+
+**Date:** 2026-02-23  
+**Type:** Patch (Ghoul admin uses Supabase; shared Character Types nav on all character-type panels)
+
+## Previous Version: 0.9.146
+
+**Date:** 2026-02-22  
+**Type:** Patch (Gangrel clan page: 1995 timeline; Naomi Blackbird featured NPC)
+
+## Previous Version: 0.9.144
+
+**Date:** 2026-02-22  
+**Type:** Patch (Desert Star Market location; location upload from computer; add_desert_star_market_location script)
+
+## Previous Version: 0.9.143
+
+**Date:** 2026-02-21  
+**Type:** Patch (The Warrens bunker exterior image; set_location_image.php for direct image updates; ilike fallback for Supabase name lookup)
+
+## Previous Version: 0.9.142
+
+**Date:** 2026-02-21  
+**Type:** Patch (Location exterior images: update tool + exteriors for Dunlap, Freehold, Funhouse, Hawthorn, Montecito, Roosevelt Row, Shed, Tailored Dreams, The Hole, Tremere Chantry, Vescari Estate)
+
+## Previous Version: 0.9.141
+
+**Date:** 2026-02-21  
+**Type:** Patch (Admin locations: default sort by name; mood boards; database tools; version sync)
+
+## Previous Version: 0.9.139
+
+**Date:** 2026-02-21  
+**Type:** Patch (Locations: admin APIs, CRUD, map; locations agent; export/import; reference data)
+
+## Previous Version: 0.9.138
+
+**Date:** 2026-02-20  
+**Type:** Patch (Julien Roche abilities in Supabase format; chat_agent; version bump)
+
+## Previous Version: 0.9.137
+
+**Date:** 2026-02-20  
+**Type:** Patch (Traits: Supabase-only generate_character_traits; ignore disciplines; generic traits for chars without abilities; check MySQL traits page; dedupe Jax/Violet in DB; characters_without_traits.json from Supabase)
+
+## Previous Version: 0.9.135
+
+**Date:** 2026-02-19  
+**Type:** Patch (ST/NPC → NPC fix scripts: MySQL and Supabase; normalize player_name column)
+
+## Previous Version: 0.9.133
+
+**Date:** 2026-02-18  
+**Type:** Patch (Traits: normalize JSON script, import traits new-only to Supabase; import missing chars from Added to Database; JSON fixes; web-only tools)
+
+## Previous Version: 0.9.132
+
+**Date:** 2026-02-18  
+**Type:** Patch (Character view: traits + negative traits in Details; supabase UUID filter fix; traits import tool)
+
+## Previous Version: 0.9.131
+
+**Date:** 2026-02-18  
+**Type:** Patch (Canon: Kindred world state fall 1994 lore doc; bloodlines Salubri/Samedi)
+
+## Previous Version: 0.9.130
+
+**Date:** 2026-02-16  
+**Type:** Patch (Git sync: sect alignment fixes, fix_alignment_camarilla, db/ and related updates)
+
+## Previous Version: 0.9.129
+
+**Date:** 2026-02-16  
+**Type:** Patch (Sect alignment: MySQL source, dropdown only Unknown/Independent/Camarilla/Sabbat; normalize invalid values; fix alignment script)
+
+## Previous Version: 0.9.128
+
+**Date:** 2026-02-16  
+**Type:** Patch (Admin tools: sect alignment, compare/export/import characters MySQL↔Supabase; character JSON reference set; repeatable import)
+
+## Previous Version: 0.9.127
+
+**Date:** 2026-02-15  
+**Type:** Patch (Admin panel + edit flow: Supabase only; remove MySQL from admin_panel, view/save/load/delete character)
+
+## Previous Version: 0.9.126
+
+**Date:** (see includes/version.php)  
+**Type:** Patch
+
+## Previous Version: 0.9.125
+
+**Date:** 2026-02-15  
+**Type:** Patch (Item agent: Supabase PATCH/DELETE; category consolidation scripts—Firearms, Melee Weapons, Throwing Weapons, Chain Weapon, Laser Sight fix)
+
+## Previous Version: 0.9.124
+
+**Date:** (see includes/version.php)  
+**Type:** Patch
+
+## Previous Version: 0.9.123
+
+**Date:** 2026-02-13  
+**Type:** Patch (Item Agent: view modal like character view, item/category image; repeatable tools)
+
+## Previous Version: 0.9.122
+
+**Date:** 2026-02-13  
+**Type:** Patch (import items to Supabase tool, quick link in repeatable index)
+
+## Previous Version: 0.9.121
+
+**Date:** 2026-02-12  
+**Type:** Patch (repeatable tools index, equipment tables export to JSON, quick link)
+
+## Previous Version: 0.9.120
+
+**Date:** 2026-02-10  
+**Type:** Patch (laws_agent_v2: results loop for result_type/name/description/mechanical_data, diagnostics hidden)
+
+## Previous Version: 0.9.119
+
+**Date:** (see includes/version.php)  
+**Type:** Patch
+
+## Previous Version: 0.9.118
+
+**Date:** 2026-02-09  
+**Type:** Patch (laws_agent_v2: RAG enrichment, abilities_reference descriptions, test.php abilities view, .env loading in scripts)
+
+## Previous Version: 0.9.117
+
+**Date:** 2026-02-09  
+**Type:** Patch (laws_agent_v2: Supabase lookup_generations, generation.php, test.php, sql-export script, LotNR reference)
+
+## Previous Version: 0.9.116
+
+**Date:** 2026-02-09  
+**Type:** Patch (laws_agent_v2: AGENTS.md for mechanical game engine)
+
+## Previous Version: 0.9.115
+
+**Date:** 2026-02-09  
+**Type:** Patch (laws_agent_v2: Notes.md RAG/synergy plan; goals; working_vbn.sql; rag_data JSONs)
+
+## Previous Version: 0.9.112
+
+**Date:** 2026-02-08  
+**Type:** Patch (laws_agent: RAG book renames met_/vtm_/wod_ → shortened; new RAG JSONs; MindsEyeTheater-Revised.mdown; AGENTS.md)
+
+## Previous Version: 0.9.111
+
+**Date:** 2026-02-08  
+**Type:** Patch (laws_agent: RAG book display from DB source; no duplicate rag_books; check_rag_books, fix_lotnr_duplicate; AGENTS.md RAG import note; remove lotnr_rag.json)
+
+## Previous Version: 0.9.110
 
 **Date:** 2026-02-08  
 **Type:** Patch (laws_agent: Supabase RAG integration, match-lore migration; laws-agent.css; LotNR/LofNR refs; MCP config)

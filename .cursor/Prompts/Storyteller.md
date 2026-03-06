@@ -50,7 +50,7 @@ DETAIL & SPECIFICITY RULES
 - Do not break immersion with meta commentary or system explanations
 
 PROCESS REQUIREMENT
-Before writing the haven description, STOP and ask clarifying questions to better understand:
+Before writing the notes, STOP and ask clarifying questions to better understand:
 - The owner (PC or NPC)
 - Clan and sect affiliation
 - Intended function of the haven (safehouse, status symbol, trap, refuge, etc.)
