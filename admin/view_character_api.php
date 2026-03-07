@@ -223,53 +223,22 @@ try {
     // ghouls table does not exist in Supabase
     $ghoul_overlay = null;
     
-    // Resolve portrait from actual files first to avoid stale DB image values.
-    $character_image = null;
-    $upload_dir = dirname(__DIR__) . '/uploads/characters/';
-    $character_name = trim((string)($char['character_name'] ?? ''));
-
-    $normalize_image_name = static function ($value): string {
-        $normalized = trim((string)$value);
-        if ($normalized === '') {
-            return '';
-        }
-        $normalized = str_replace('\\', '/', $normalized);
-        $parsed_path = parse_url($normalized, PHP_URL_PATH);
-        if (is_string($parsed_path) && $parsed_path !== '') {
-            $normalized = $parsed_path;
-        }
-        return trim((string)basename($normalized));
-    };
-
-    // 1) Explicit portrait_name if the referenced file exists.
-    if (!empty($char['portrait_name'])) {
-        $portrait_candidate = $normalize_image_name($char['portrait_name']);
-        if ($portrait_candidate !== '' && file_exists($upload_dir . $portrait_candidate)) {
-            $character_image = $portrait_candidate;
-        }
-    }
-
-    // 2) Character-name based file discovery (preferred over stale hashed filenames).
-    if ($character_image === null && $character_name !== '') {
-        $bases = [$character_name, str_replace(' ', '_', $character_name)];
-        $extensions = ['png', 'webp', 'jpg', 'jpeg', 'jfif', 'gif'];
-
-        foreach ($bases as $base_name) {
-            foreach ($extensions as $extension) {
-                $candidate = $base_name . '.' . $extension;
-                if (file_exists($upload_dir . $candidate)) {
-                    $character_image = $candidate;
-                    break 2;
-                }
-            }
-        }
-    }
-
-    // 3) character_image field only if that exact file exists.
-    if ($character_image === null && !empty($char['character_image'])) {
-        $image_candidate = $normalize_image_name($char['character_image']);
-        if ($image_candidate !== '' && file_exists($upload_dir . $image_candidate)) {
-            $character_image = $image_candidate;
+    require_once __DIR__ . '/../includes/character_portrait_resolver.php';
+    $base_dir = dirname(__DIR__);
+    $upload_dir = $base_dir . '/uploads/characters';
+    $reference_dir = $base_dir . '/reference/Characters/Images';
+    $resolved = resolve_character_portrait(
+        trim((string)($char['character_name'] ?? '')),
+        $char['portrait_name'] ?? null,
+        $char['character_image'] ?? null,
+        $upload_dir,
+        $reference_dir
+    );
+    $character_image = $resolved['resolved_filename'];
+    if ($character_image !== null && isset($resolved['source_path']) && $resolved['source_path'] !== '' && is_file($resolved['source_path'])) {
+        $dest = $upload_dir . '/' . $character_image;
+        if (!is_file($dest) && is_dir($upload_dir)) {
+            @copy($resolved['source_path'], $dest);
         }
     }
     

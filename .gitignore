@@ -47,6 +47,9 @@ reference/Locations/Blueprints/
 # GitHub has a 100MB blob limit - these files exceed that
 rag/index/concept_index.json 
 
+# Generated reports (character image audit, etc.)
+admin/reports/
+
 # Temporary files and cache
 tmp/
 tmp_ocr_images/

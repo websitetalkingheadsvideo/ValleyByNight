@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.201
+## Current Version: 0.9.202
+
+**Date:** 2026-03-07  
+**Type:** Patch (Character image audit: resolver, reference-dir fallback, extension fallback; missing portrait images; sync)
+
+## Previous Version: 0.9.201
 
 **Date:** 2026-03-07  
 **Type:** Patch (Admin panel: Kindred Only filter; git sync)
