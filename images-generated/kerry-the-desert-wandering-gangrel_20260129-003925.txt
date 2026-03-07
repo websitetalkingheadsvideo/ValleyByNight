@@ -1,0 +1,35 @@
+final_prompt_used:
+Night scene only. Dark sky, no sun, no sunlight. Lit only by moonlight, streetlights, neon, or firelight. The whole image must look like night—dark blues and blacks, no warm daylight in sky or background.
+
+Square portrait 1:1, 1024×1024. Cinematic neo-noir gothic, 1994 Arizona realism. Medium-high contrast, directional volumetric lighting, subtle haze and dust motes. Low-to-medium saturation; teal shadows, cool amber highlights from moonlight or artificial light only.
+
+Subject: Kerry, a Gangrel hermit and desert wanderer, male, presenting as weathered thirties-to-older. Lean, wiry build; sharp angular face from years of sun and wind; skin tanned and leathery; eyes constantly scanning, assessing, with predatory intensity. Wardrobe: tattered functional desert survival gear, repaired backpack, worn practical items; animal totems—small carvings or bones. Grooming: minimal, unkempt practical hair. Posture: economical, predator-ready stillness; carries himself with unsettling restraint.
+
+Vampiric subtlety (Humanity 7): Slightly cooler pallor beneath the leathery tan, predatory catchlight in eyes, restrained stillness. Composed, controlled, watchful. No fangs, no gore, no overt supernatural display.
+
+Lighting: Noir blue-black shadows and dark night sky (#0D0E10), desert amber key from moonlight or distant fire (#C87B3E), muted gold secondary (#B89B64), very subtle deep crimson undertone (#7A1E1E). Moonlit or artificial light only; no sun in frame. Directional volumetric light, subtle dust motes, shallow depth of field—face and eyes sharp, background softly blurred. Dark night sky or starfield visible; no warm daylight tones.
+
+Environment: Desert wasteland at night, dark night sky, moonlit scrub, Phoenix-area 1994, barren and shadowed. Film-still realism, realistic lens, subtle bloom.
+
+Phoenix, Arizona, 1994. Masquerade-friendly subtlety; no overt supernatural display.
+
+Time of day: Night. No daylight, no sunrise, no sunset, no golden hour. Moonlit or artificial lighting only.
+
+negative_prompt_used:
+cartoon, anime, illustration, painterly brush strokes, CGI, video game render, glam beauty retouch, plastic skin, over-sharpening, HDR halos, overt fangs, gore, blood splatter, horror monster, deformed face, fantasy architecture, medieval clothing, modern 2020s streetwear, text overlays, captions, watermarks, logos, date stamps, daytime, daylight, day, sun, sunlight, sunny, sunlit, sunlit sky, golden hour, sunrise, sunset, dawn, dusk, noon, afternoon, morning, bright blue sky, blue sky, bright sky, clouds in daylight, natural daylight, outdoor daylight, warm daylight, daylight portrait
+
+extracted_character_highlights:
+- Visual identity: Gangrel hermit and desert survivor; weathered lean man with predator economy and unsettling stillness; functional tattered gear and animal totems; unkempt, minimal grooming.
+- Wardrobe: tattered desert survival pieces, repaired backpack, practical worn items, animal totems (small carvings or bones).
+- Grooming: minimal, unkempt practical hair.
+- Posture: economical movement, predator-ready stillness, constantly assessing.
+- Build: lean, wiry, muscles hardened by constant movement; skin tanned and leathery; sharp angular face; eyes scanning, intense.
+- Environment: desert wasteland at night, dark sky, moonlit, Phoenix-area trails, dust and haze.
+- Mood cues: wary, watchful, unsettled, feral, isolated, paranoid, controlled.
+- Symbolic: witness to buried secret ("The Still One"), half-mad insight, desert ghost, Kindred who has become something that no longer looks human.
+
+morality_visualization_notes:
+- path_name: Humanity; humanity: 7; path_rating: 7.
+- Mapped to Humanity 7–8 band: default VbN vamp—slightly cooler pallor, predatory catchlight in eyes, restrained stillness; expression composed, controlled, watchful.
+- No proxy note (path is Humanity).
+- Time of day: NIGHT (default; notes/biography do not mention daytime activity).

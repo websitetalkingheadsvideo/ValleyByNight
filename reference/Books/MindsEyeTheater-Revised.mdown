@@ -1,0 +1,62 @@
+# Mind's Eye Theatre Revised – Book List
+
+📝 text-searchable PDF · 📷 needs OCR (image-based) · ✅ RAG in `agents/laws_agent/Books` · ❌ no RAG
+
+**Status:** Most titles are in RAG (✅). Some we don’t have (☐ ❌). A few we have but **need OCR first** (☑ 📷 ❌) before running PDF→RAG — run those through OCR (e.g. `reference/Books/converter` pipeline with OCR step, or `tools/repeatable/python/ocr-tools/ocr_pdf.py`), then convert.
+
+## Core Rulebooks
+
+- **Laws of the Night Revised Edition** (WW5013) – The primary rulebook. ☑ 📝 ❌
+- **Laws of the Night Revised Edition (Limited)** (WW5015) – Deluxe version with extra art. ☐ ❌
+
+## Primary Supplements
+
+- **Laws of the Night: Camarilla Guide** (WW5017) – Rules for Camarilla-specific clans and positions. ☑ 📷 ✅
+- **Laws of the Night: Sabbat Guide** (WW5018) – Rules for Sabbat ritae and packs. ☑ 📝 ✅
+- **Laws of the Night: Storytellers Guide** (WW5021) – Advice and advanced mechanics for game masters. ☑ 📝 ✅
+- **Laws of the Night: Anarch Guide** (WW5040) – Rules for the Anarch movement. ☑ 📝 ✅
+
+## Specialized & Cross-Compatible Books
+
+- **Laws of Elysium** (WW5011) – Rules for elder vampires; while pre-dating Revised, it is largely compatible. ☑ 📝 ✅
+- **Liber des Ghouls: The Book of Ghouls** (WW5006) – Rules for playing mortal servants. ☑ 📝 ✅
+- **Faith and Fire** (WW5038) – Dark Ages: Vampire LARP rules (often used for historical flashbacks). ☑ 📷 ✅
+- **Vampire by Gaslight** (WW5041) – Victorian-era settings for Vampire LARP. ☐ ❌
+- **Laws of the East** (WW5016) – Rules for playing Kindred of the East in LARP. ☑ 📝 ✅
+
+## Play Aids & Media
+
+- **Mind's Eye Theatre Journal** (Issues 1–8) – Magazine featuring official errata and new rules. ☑ 📝 ✅
+- **Mind's Eye Theatre Discipline Deck** – Reference cards for vampire powers. ☑ 📷 ✅
+- **Mind's Eye Theatre Discipline Deck 2** – Additional reference cards for advanced or sect powers. ☐ ❌
+- **Mind's Eye Theatre Gift Deck** – Reference cards for Garou gifts. ☑ 📷 ✅
+- **Mind's Eye Theatre Prop Deck** – Reference cards for props and handouts. ☑ 📷 ✅
+
+## Werewolf: The Apocalypse (Revised Era)
+
+- **Laws of the Wild Revised Edition** (WW5024) – Core rules for Garou LARP. ☑ 📝 ✅
+- **Laws of the Wild: Changing Breeds 1** (WW5031) – Rules for Bastet, Nuwisha, Ratkin, and Gurahl. ☐ ❌
+- **Laws of the Wild: Changing Breeds 2** (WW5034) – Rules for Corax, Mokole, Nagah, and Rokea. ☐ ❌
+- **Book of the Wyrm** (WW5027) – Rules for Fomorians and Black Spiral Dancers. ☑ 📝 ✅
+
+## Mage, Changeling, & Wraith
+
+- **Laws of Ascension** (WW5029) – Core rules for Mage: The Ascension. ☑ 📝 ✅
+- **Laws of Ascension: Companion** (WW5035) – Expanded rules for Technocracy and Traditions. ☑ 📝 ✅
+- **The Shining Host Player's Guide** (WW5023) – The Revised-era update for Changeling: The Dreaming. ☑ 📝 ✅
+- **Oblivion** (WW5004) – The primary book for Wraith: The Oblivion. (Note: This pre-dates the 1999 Revised launch but remained the standard throughout the era). ☑ 📷 ✅
+
+## Hunters, Mummies, & The End
+
+- **Laws of the Reckoning** (WW5033) – Rules for playing Imbued Hunters. ☑ 📝 ✅
+- **Laws of Resurrection** (WW5039) – Rules for playing Mummies. ☑ 📝 ✅
+- **Laws of the Hunt Revised** (WW5025) – Rules for mortal investigators and hedge magic. ☑ 📷 ✅
+- **Laws of Judgment** (WW5042) – The "Time of Judgment" book for ending LARP chronicles. ☑ 📝 ✅
+
+---
+
+## To do: OCR then RAG
+
+Books we have (☑) that are image-based (📷) and not yet in RAG (❌). Run OCR first, then PDF→RAG.
+
+- *(None remaining — Faith and Fire is in RAG with full 164 pages.)*

@@ -1,0 +1,134 @@
+# Learned OCR replacements (exact string: find|replace)
+# Add one replacement per line after each conversion when you find new artifacts.
+#
+# --- From WOD Laws of Judgment (5099) ---
+robert wheeler (order #15253) 65.93.90.38|
+robert wheeler (order #15253)|
+65.93.90.38|
+# Format: bad_text|corrected_text
+# Lines starting with # are ignored. Use | only as delimiter.
+#
+# --- From MET Journal 2 (5402) ---
+Dfvflodfr|Developer
+syetheatrejournal|Eye Theatre Journal
+Currfntthinkingj|Current Thinking
+The  Currfntthinkingj|The Current Thinking
+Deadgusyp Ears|Docker Ears
+Thee Volutio0 New  Ind'S Eyes Heat re|The Evolution Of Mind's Eye Theatre
+Thffvolution Oe mind  ' S|The Evolution Of Mind's
+' S E Y E Th E At E Eye Theatre|'s Eye Theatre
+ E Y E Th  E At  E Eye Theatre| Eye Theatre
+Mind'see  Th  E At  E Eye Theatre|Mind's Eye Theatre
+At Homewithtchaem Aril la|At Home With The Camarilla
+Lei Is  Broke|Laws Is Broke
+Nunnehieortshhine In ^ Host|Nunnehi In The Shining Host
+Them .Ocker Quote|The Mocker Quote
+dew eel oped|developed
+Am fire:|Vampire:
+The Ha in saw Quote|The Chainsaw Quote
+Ha in saw|Chainsaw
+C ha in saws|Chainsaws
+Nceanedu Urea Author|Once and Future Author
+Ulesl Lawyer|Rules Lawyer
+The Ur rent th Inking|The Current Thinking
+Ocean at Cypncc.|Aside.
+you'all|you'll
+we'all|we'll
+you'we|you've
+We'we|We've
+#
+# --- From MET Journal 3 (5403) ---
+Dfadcjuy Speaks|Dafydd Speaks
+1 I Rich |Rich 
+Dan sky|Dansky
+dan sky|Dansky
+Dart of White|part of White Wolf
+&om|from
+pr ir nor dial"ocean. at Cyprus.|primordial ocean at Cyprus.
+prirnordial"ocean|primordial ocean
+show&e|showcase
+Strincj Quartet|String Quartet
+developerforv amp ire|developer for Vampire
+#
+# --- From MET Journal 4 (5404) ---
+Because The Mind'Of ;'1'E Nfvfr B1,Intis Table Contents oe|Because The Mind's Eye Never Blinks - Table of Contents
+tm hin ed 'Of Yethfatrfjournal4|the Mind's Eye Theatre Journal 4
+Dead~Us pye As|Dafydd Speaks
+Dan sky|Dansky
+The Ubbentt Hin kin~|The Current Thinking
+Lar ping|LARPing
+Larping|LARPing
+Lar ps|LARPs
+Larps|LARPs
+Larp si tu at ion|LARP situation
+#
+# Acronyms: MET (Mind's Eye Theatre), LARP (Live Action Role-Playing)
+Met Journal|MET Journal
+ Met | MET 
+Met players|MET players
+Met games|MET games
+Met books|MET books
+Met Mage|MET Mage
+Met release|MET release
+Met schedule|MET schedule
+Met Larps|MET LARPs
+Met LARPing|MET LARPing
+#
+# --- Content intro / header fixes ---
+Thfcurrfntthinkincj|The Current Thinking
+Kwbif Boot Camp|Newbie Boot Camp
+$ism  re hit wolf intern-turd-employee|This White Wolf intern-turned-employee
+hear dull|heard all
+Is name mat|his name that
+ar tick|article
+Howtosu Rvivyeo Are Ir st warp|How to Survive Your First LARP
+Howtosu Rvivyeo Are Ir st larp|How to Survive Your First LARP
+a      few|a few
+a      long|a long
+a      tidy|a tidy
+For a      long time|For a long time
+For a      tidy fee|For a tidy fee
+Ea sh ion|Fashion
+#
+# Ellipsis variants (OCR split periods)
+.. ..|...
+.. .|...
+#
+# --- From MET Journal 5 (5405) ---
+Bfcausf The Mind'S Fyn Nfvfr Blinks|Because The Mind's Eye Never Blinks
+Crfdi Ts Aught or|Credits Author
+jo Urn al|Journal
+Welcome Mind'Se Yet Heat re Tot hf . to Urn al Hello again|Welcome to the Mind's Eye Theatre Journal. Hello again
+Thijsu St In! Mind's Eye Theatre|This Issue In! Mind's Eye Theatre
+Dfadcjuy Speaks|Dafydd Speaks
+Mfmorifs And Fxcusfs|Memories And Focuses
+Thee In her jar Of The Dark Get|The Inheritor Of The Dark Ages
+Art I rector|Art Director
+Phot1o graph er|Photographer
+Dive: loper|Developer
+Edit cr :|Editor:
+Autht ors:|Authors:
+#
+# --- From MET Journal 6 (5406) ---
+Bfcausfthe Mind'S Eye Nfvfk Blinks|Because The Mind's Eye Never Blinks
+Table Contentsoewo|Table of Contents
+The Urrentt Hin king|The Current Thinking
+Deadgusyp Eaksi|Dafydd Speaks
+Richard E. Danskyd|Richard E. Dansky
+Re At 16|Reality 16
+Wraith: He War|Wraith: The War
+Costuminqeloirv E-Actiopnl Ay|Costume Noir Live-Action Play
+Costume Nor Live-Action|Costume Noir Live-Action
+Costume Nor |Costume Noir 
+Werewoletdhaer Ka Get|Werewolf the Dark Ages
+Ont He Sideoae Angels|On The Side Of Angels
+Other Hi ld re noe et ah set Ernni C~It|Other Children Of The Earth
+Them Our nina ge Her|The Mourning After
+Even th Horizon|Event Horizon
+# --- From Faith and Fire ---
+Pau lo|Paulo
+Ka len|Kalen
+ifhe|if he
+0 Gear Poi ls|the gear poles
+car waaanetrnat|caravan at the
+lucky cable|luckily
