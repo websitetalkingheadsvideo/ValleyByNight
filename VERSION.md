@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.198
+## Current Version: 0.9.200
+
+**Date:** 2026-03-07  
+**Type:** Patch (Travis Adelson: nature Autist, demeanor Survivor, biography; MISSING_FIELDS_REPORT; sync)
+
+## Previous Version: 0.9.198
 
 **Date:** 2026-03-06  
 **Type:** Patch (Storyteller prompt update and sync)
