@@ -131,6 +131,17 @@ function initializeFilters() {
     });
 }
 
+// Vampire clans (kindred) – exclude creature types: Ghoul, Wraith, Garou, Mage, Demon, Mortal, Supernatural, Unknown
+const NON_KINDRED_CLANS = new Set([
+    'ghoul', 'wraith', 'garou', 'werewolf', 'mage', 'demon', 'mortal', 'supernatural', 'unknown'
+]);
+
+function isKindredClan(clan) {
+    if (!clan || typeof clan !== 'string') return false;
+    const key = clan.trim().toLowerCase();
+    return key !== '' && !NON_KINDRED_CLANS.has(key);
+}
+
 // Clan filter functionality
 function initializeClanFilter() {
     const clanFilter = document.getElementById('clanFilter');
@@ -167,11 +178,13 @@ function applyFilters(resetPage = true) {
         const name = row.dataset.name.toLowerCase();
         const clan = row.dataset.clan || '';
         
-        // Check filter (PC/NPC)
+        // Check filter (PC/NPC/Kindred)
         let showByFilter = true;
         if (currentFilter === 'pcs' && type !== 'pc') {
             showByFilter = false;
         } else if (currentFilter === 'npcs' && type !== 'npc') {
+            showByFilter = false;
+        } else if (currentFilter === 'kindred' && !isKindredClan(clan)) {
             showByFilter = false;
         }
         

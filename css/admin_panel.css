@@ -197,6 +197,7 @@
 .badge-archived { background: #3a3a3a; color: #d4c4b0; padding: 4px 10px; border-radius: 4px; font-size: 0.85em; font-weight: bold; }
 .badge-neutral { background: rgba(139, 0, 0, 0.2); color: #f5e6d3; padding: 4px 10px; border-radius: 4px; font-size: 0.85em; font-weight: bold; }
 .clan-badge { display: inline-block; padding: 4px 10px; border-radius: 4px; font-size: 0.85em; font-weight: 600; color: #f5e6d3; letter-spacing: 0.4px; }
+.clan-badge-empty { background: rgba(92, 92, 92, 0.4); color: #b8a090; }
 .badge-dead { background: #3a3a3a; color: #999; padding: 4px 10px; border-radius: 4px; font-size: 0.85em; font-weight: bold; }
 .badge-missing { background: #5a4a2a; color: #f5e6d3; padding: 4px 10px; border-radius: 4px; font-size: 0.85em; font-weight: bold; }
 

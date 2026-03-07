@@ -5,23 +5,18 @@ declare(strict_types=1);
  * Minimal Supabase REST client for runtime PHP endpoints.
  */
 
-function supabase_load_env_once(): void {
-    static $loaded = false;
-    if ($loaded) {
+/**
+ * Load KEY=VALUE lines from a .env file into getenv() via putenv().
+ * Skips empty lines, comments, and lines without '='.
+ */
+function supabase_load_env_file(string $envFile): void {
+    if (!is_file($envFile) || !is_readable($envFile)) {
         return;
     }
-    $loaded = true;
-
-    $envFile = dirname(__DIR__) . '/.env';
-    if (!file_exists($envFile)) {
-        return;
-    }
-
     $lines = file($envFile, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
     if ($lines === false) {
         return;
     }
-
     foreach ($lines as $line) {
         $trimmed = trim($line);
         if ($trimmed === '' || strpos($trimmed, '#') === 0 || strpos($trimmed, '=') === false) {
@@ -32,6 +27,35 @@ function supabase_load_env_once(): void {
         $envValue = trim($value, " \t\n\r\0\x0B\"'");
         if ($envKey !== '') {
             putenv($envKey . '=' . $envValue);
+        }
+    }
+}
+
+function supabase_load_env_once(): void {
+    static $loaded = false;
+    if ($loaded) {
+        return;
+    }
+    $loaded = true;
+
+    $envFile = dirname(__DIR__) . '/.env';
+    supabase_load_env_file($envFile);
+
+    if (getenv('SUPABASE_URL') !== false && trim((string) getenv('SUPABASE_URL')) !== '') {
+        return;
+    }
+    $entryScript = isset($_SERVER['SCRIPT_FILENAME']) ? $_SERVER['SCRIPT_FILENAME'] : '';
+    if ($entryScript !== '' && is_file($entryScript)) {
+        $entryDir = dirname($entryScript);
+        $candidates = [$entryDir . '/../.env', $entryDir . '/.env'];
+        foreach ($candidates as $candidate) {
+            $resolved = realpath($candidate);
+            if ($resolved !== false && is_file($resolved)) {
+                supabase_load_env_file($resolved);
+                if (getenv('SUPABASE_URL') !== false && trim((string) getenv('SUPABASE_URL')) !== '') {
+                    return;
+                }
+            }
         }
     }
 }

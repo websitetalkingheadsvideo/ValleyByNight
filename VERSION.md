@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.200
+## Current Version: 0.9.201
+
+**Date:** 2026-03-07  
+**Type:** Patch (Admin panel: Kindred Only filter; git sync)
+
+## Previous Version: 0.9.200
 
 **Date:** 2026-03-07  
 **Type:** Patch (Travis Adelson: nature Autist, demeanor Survivor, biography; MISSING_FIELDS_REPORT; sync)

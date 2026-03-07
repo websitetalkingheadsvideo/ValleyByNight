@@ -57,38 +57,68 @@ function render_status_badge($status) {
 function render_clan_badge(string $clan): string {
     $name = trim($clan);
     if ($name === '') {
-        return '<span class="opacity-75">—</span>';
+        return '<span class="clan-badge clan-badge-empty">—</span>';
     }
 
+    // Base clans and creature types. Antitribu use a shade close to parent (same hue, darker or variant).
     static $palette = [
+        // Vampire clans
         'assamite' => '#2E3192',
         'banu haqim' => '#2E3192',
         'banu haqim (assamite)' => '#2E3192',
         'brujah' => '#B22222',
+        'brujah antitribu' => '#8B1A1A',
         'caitiff' => '#708090',
         'followers of set' => '#8B6C37',
         'setite' => '#8B6C37',
+        'followers of set antitribu' => '#6B4C27',
+        'setite antitribu' => '#6B4C27',
         'daughter of cacophony' => '#FF69B4',
         'daughters of cacophony' => '#FF69B4',
         'gangrel' => '#228B22',
+        'gangrel antitribu' => '#1A6B1A',
         'giovanni' => '#556B2F',
         'lasombra' => '#1A1A40',
+        'lasombra antitribu' => '#2A2A60',
         'malkavian' => '#6A0DAD',
+        'malkavian antitribu' => '#5A0A8D',
         'nosferatu' => '#556B5D',
+        'nosferatu antitribu' => '#455B4D',
         'ravnos' => '#008B8B',
+        'ravnos antitribu' => '#006B6B',
         'toreador' => '#C71585',
+        'toreador antitribu' => '#A71265',
         'tremere' => '#8B008B',
+        'tremere antitribu' => '#6B006B',
         'tzimisce' => '#99CC00',
+        'tzimisce antitribu' => '#79AC00',
         'ventrue' => '#1F3A93',
-        'ghoul' => '#8B4513'
+        'ventrue antitribu' => '#172A73',
+        // Creature types (shown in clan column on main panel)
+        'ghoul' => '#8B4513',
+        'wraith' => '#4A4A6A',
+        'garou' => '#2D5A27',
+        'werewolf' => '#2D5A27',
+        'mage' => '#6B4E9E',
+        'demon' => '#8B2500',
+        'mortal' => '#5C5C5C',
+        'supernatural' => '#4A3A6A',
+        'unknown' => '#5C5C5C',
     ];
 
     $key = strtolower($name);
-    if (!isset($palette[$key])) {
-        return htmlspecialchars($name, ENT_QUOTES, 'UTF-8');
+    if (isset($palette[$key])) {
+        $color = $palette[$key];
+        return sprintf(
+            '<span class="clan-badge" style="--clan-badge-color:%s;background-color:var(--clan-badge-color);">%s</span>',
+            $color,
+            htmlspecialchars($name, ENT_QUOTES, 'UTF-8')
+        );
     }
 
-    $color = $palette[$key];
+    // Unknown clan/creature: deterministic color from name (hash to hue, fixed saturation/lightness)
+    $hue = (int) abs(crc32($key)) % 360;
+    $color = sprintf('hsl(%d, 45%%, 38%%)', $hue);
     return sprintf(
         '<span class="clan-badge" style="--clan-badge-color:%s;background-color:var(--clan-badge-color);">%s</span>',
         $color,
@@ -234,6 +264,7 @@ function render_clan_badge(string $clan): string {
     <div class="filter-controls row gy-3 align-items-center mb-4 flex-md-nowrap">
         <div class="filter-buttons col-12 col-md-auto d-flex flex-wrap gap-2">
             <button class="filter-btn btn btn-outline-danger active" data-filter="all">All Characters</button>
+            <button class="filter-btn btn btn-outline-danger" data-filter="kindred">Kindred Only</button>
             <button class="filter-btn btn btn-outline-danger" data-filter="pcs">PCs Only</button>
             <button class="filter-btn btn btn-outline-danger" data-filter="npcs">NPCs Only</button>
         </div>
@@ -243,20 +274,36 @@ function render_clan_badge(string $clan): string {
                 <option value="all">All Clans</option>
                 <option value="Assamite">Assamite</option>
                 <option value="Brujah">Brujah</option>
+                <option value="Brujah Antitribu">Brujah Antitribu</option>
                 <option value="Caitiff">Caitiff</option>
                 <option value="Followers of Set">Followers of Set</option>
+                <option value="Followers of Set Antitribu">Followers of Set Antitribu</option>
                 <option value="Daughter of Cacophony">Daughter of Cacophony</option>
                 <option value="Gangrel">Gangrel</option>
+                <option value="Gangrel Antitribu">Gangrel Antitribu</option>
                 <option value="Giovanni">Giovanni</option>
                 <option value="Lasombra">Lasombra</option>
+                <option value="Lasombra Antitribu">Lasombra Antitribu</option>
                 <option value="Malkavian">Malkavian</option>
+                <option value="Malkavian Antitribu">Malkavian Antitribu</option>
                 <option value="Nosferatu">Nosferatu</option>
+                <option value="Nosferatu Antitribu">Nosferatu Antitribu</option>
                 <option value="Ravnos">Ravnos</option>
+                <option value="Ravnos Antitribu">Ravnos Antitribu</option>
                 <option value="Toreador">Toreador</option>
+                <option value="Toreador Antitribu">Toreador Antitribu</option>
                 <option value="Tremere">Tremere</option>
+                <option value="Tremere Antitribu">Tremere Antitribu</option>
                 <option value="Tzimisce">Tzimisce</option>
+                <option value="Tzimisce Antitribu">Tzimisce Antitribu</option>
                 <option value="Ventrue">Ventrue</option>
+                <option value="Ventrue Antitribu">Ventrue Antitribu</option>
                 <option value="Ghoul">Ghoul</option>
+                <option value="Wraith">Wraith</option>
+                <option value="Garou">Garou</option>
+                <option value="Mage">Mage</option>
+                <option value="Demon">Demon</option>
+                <option value="Mortal">Mortal</option>
             </select>
         </div>
         <div class="search-box col-12 col-md col-lg-3 col-xl-4">
