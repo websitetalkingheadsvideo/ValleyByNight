@@ -14,11 +14,21 @@ if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
     exit();
 }
 
-require_once __DIR__ . '/../includes/connect.php';
+require_once __DIR__ . '/../includes/supabase_client.php';
 include __DIR__ . '/../includes/header.php';
-?>
 
-<div class="container-fluid py-4 px-3 px-md-4">
+$npcRows = supabase_table_get('characters', ['select' => 'id,status', 'player_name' => 'eq.NPC']);
+$stats = ['total' => count($npcRows), 'active' => 0, 'retired' => 0];
+foreach ($npcRows as $row) {
+    $s = strtolower((string) ($row['status'] ?? ''));
+    if ($s === 'active' || $s === 'finalized') {
+        $stats['active']++;
+    } elseif ($s === 'dead' || $s === 'missing') {
+        $stats['retired']++;
+    }
+}
+?>
+<div class="container-fluid py-4 py-3 px-md-4">
     <h1 class="display-5 text-light fw-bold mb-1">📋 NPC Agent Briefing</h1>
     <p class="lead text-light fst-italic mb-4">Quick reference for playing NPCs in sessions</p>
     
@@ -46,22 +56,7 @@ include __DIR__ . '/../includes/header.php';
     
     <!-- NPC Statistics -->
     <div class="row g-3 mb-4">
-    <?php
-        $stats_query = "SELECT 
-            COUNT(*) as total,
-            SUM(CASE WHEN status = 'active' OR status = 'finalized' THEN 1 ELSE 0 END) as active,
-            SUM(CASE WHEN status = 'dead' OR status = 'missing' THEN 1 ELSE 0 END) as retired
-            FROM characters
-            WHERE player_name = 'NPC'";
-        $stats_result = mysqli_query($conn, $stats_query);
-        
-        if ($stats_result) {
-            $stats = mysqli_fetch_assoc($stats_result);
-        } else {
-            $stats = ['total' => 0, 'active' => 0, 'retired' => 0];
-            echo "<p style='color: red;'>Stats query error: " . mysqli_error($conn) . "</p>";
-        }
-        ?>
+    <?php ?>
         <div class="col-12 col-sm-4 col-lg-3">
             <div class="card text-center">
                 <div class="card-body">
@@ -141,17 +136,18 @@ include __DIR__ . '/../includes/header.php';
             </thead>
             <tbody>
                 <?php
-                $char_query = "SELECT c.*, u.username as owner_username
-                               FROM characters c 
-                               LEFT JOIN users u ON c.user_id = u.id
-                               WHERE c.player_name = 'NPC'
-                               ORDER BY c.id DESC";
-                $char_result = mysqli_query($conn, $char_query);
-                
-                if (!$char_result) {
-                    echo "<tr><td colspan='7'>Query Error: " . mysqli_error($conn) . "</td></tr>";
-                } elseif (mysqli_num_rows($char_result) > 0) {
-                    while ($char = mysqli_fetch_assoc($char_result)) {
+                $npcChars = supabase_table_get('characters', ['select' => 'id,character_name,clan,generation,status,created_at,user_id', 'player_name' => 'eq.NPC', 'order' => 'id.desc']);
+                $userIds = array_unique(array_filter(array_column($npcChars, 'user_id')));
+                $usernameMap = [];
+                if (!empty($userIds)) {
+                    $users = supabase_table_get('users', ['select' => 'id,username', 'id' => 'in.(' . implode(',', array_map('intval', $userIds)) . ')']);
+                    foreach ($users as $u) {
+                        $usernameMap[(int) $u['id']] = $u['username'] ?? '';
+                    }
+                }
+                if (!empty($npcChars)) {
+                    foreach ($npcChars as $char) {
+                        $char['owner_username'] = $usernameMap[(int) ($char['user_id'] ?? 0)] ?? '';
                 ?>
                     <tr class="character-row" 
                         data-name="<?php echo htmlspecialchars($char['character_name']); ?>"
@@ -180,7 +176,7 @@ include __DIR__ . '/../includes/header.php';
                             </div>
                         </td>
                     </tr>
-                <?php 
+                <?php
                     }
                 } else {
                     echo "<tr><td colspan='7' class='empty-state'>No NPCs found.</td></tr>";

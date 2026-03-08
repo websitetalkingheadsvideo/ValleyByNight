@@ -48,7 +48,7 @@ if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
     outputJson(['success' => false, 'error' => 'Unauthorized']);
 }
 
-require_once __DIR__ . '/../includes/connect.php';
+require_once __DIR__ . '/../includes/supabase_client.php';
 
 $method = $_SERVER['REQUEST_METHOD'];
 
@@ -134,65 +134,38 @@ try {
         $relationship_type = cleanString($input['relationship_type'] ?? '');
         $relationship_notes = cleanString($input['relationship_notes'] ?? '');
         $image = cleanString($input['image'] ?? '');
-        $pc_haven = cleanBool($input['pc_haven'] ?? 0);
+        $blueprint = cleanString($input['blueprint'] ?? '');
+        $moodboard = cleanString($input['moodboard'] ?? '');
+        $pc_haven = $type === 'Haven' ? cleanBool($input['pc_haven'] ?? 0) : 0;
         
-        // Only set pc_haven if type is Haven
-        if ($type !== 'Haven') {
-            $pc_haven = 0;
+        $payload = [
+            'name' => $name, 'type' => $type, 'summary' => $summary, 'description' => $description, 'notes' => $notes,
+            'status' => $status, 'status_notes' => $status_notes, 'district' => $district, 'address' => $address,
+            'latitude' => $latitude, 'longitude' => $longitude, 'owner_type' => $owner_type, 'owner_notes' => $owner_notes,
+            'faction' => $faction, 'access_control' => $access_control, 'access_notes' => $access_notes, 'security_level' => $security_level,
+            'security_locks' => $security_locks, 'security_alarms' => $security_alarms, 'security_guards' => $security_guards,
+            'security_hidden_entrance' => $security_hidden_entrance, 'security_sunlight_protected' => $security_sunlight_protected,
+            'security_warding_rituals' => $security_warding_rituals, 'security_cameras' => $security_cameras,
+            'security_reinforced' => $security_reinforced, 'security_notes' => $security_notes,
+            'utility_blood_storage' => $utility_blood_storage, 'utility_computers' => $utility_computers,
+            'utility_library' => $utility_library, 'utility_medical' => $utility_medical, 'utility_workshop' => $utility_workshop,
+            'utility_hidden_caches' => $utility_hidden_caches, 'utility_armory' => $utility_armory,
+            'utility_communications' => $utility_communications, 'utility_notes' => $utility_notes,
+            'social_features' => $social_features, 'capacity' => $capacity, 'prestige_level' => $prestige_level,
+            'has_supernatural' => $has_supernatural, 'node_points' => $node_points, 'node_type' => $node_type,
+            'ritual_space' => $ritual_space, 'magical_protection' => $magical_protection, 'cursed_blessed' => $cursed_blessed,
+            'parent_location_id' => $parent_location_id, 'relationship_type' => $relationship_type,
+            'relationship_notes' => $relationship_notes, 'image' => $image, 'blueprint' => $blueprint, 'moodboard' => $moodboard, 'pc_haven' => $pc_haven,
+            'created_at' => date('Y-m-d H:i:s'), 'updated_at' => date('Y-m-d H:i:s')
+        ];
+        $res = supabase_rest_request('POST', '/rest/v1/locations', [], $payload, ['Prefer: return=representation']);
+        if ($res['error'] !== null) {
+            error_log('Location CRUD API - POST failed: ' . $res['error']);
+            throw new Exception('Failed to create location: ' . $res['error']);
         }
-        
-        $query = "INSERT INTO locations (
-            name, type, summary, description, notes, status, status_notes, district, address, latitude, longitude,
-            owner_type, owner_notes, faction, access_control, access_notes, security_level,
-            security_locks, security_alarms, security_guards, security_hidden_entrance, security_sunlight_protected,
-            security_warding_rituals, security_cameras, security_reinforced, security_notes,
-            utility_blood_storage, utility_computers, utility_library, utility_medical, utility_workshop,
-            utility_hidden_caches, utility_armory, utility_communications, utility_notes,
-            social_features, capacity, prestige_level, has_supernatural, node_points, node_type,
-            ritual_space, magical_protection, cursed_blessed, parent_location_id, relationship_type,
-            relationship_notes, image, blueprint, moodboard, pc_haven, created_at, updated_at
-        ) VALUES (
-            ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?,
-            ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, NOW(), NOW()
-        )";
-        
-        $stmt = mysqli_prepare($conn, $query);
-        if (!$stmt) {
-            $dbError = mysqli_error($conn);
-            error_log('Location CRUD API - Prepare failed: ' . $dbError . ' Query: ' . substr($query, 0, 200));
-            throw new Exception('Failed to prepare statement: ' . $dbError);
-        }
-        
-        if (!mysqli_stmt_bind_param($stmt, 'ssssssssssddsssssiiiiiiiiisiiiiiiiiisiiissssiissssi',
-            $name, $type, $summary, $description, $notes, $status, $status_notes, $district, $address, $latitude, $longitude,
-            $owner_type, $owner_notes, $faction, $access_control, $access_notes, $security_level,
-            $security_locks, $security_alarms, $security_guards, $security_hidden_entrance, $security_sunlight_protected,
-            $security_warding_rituals, $security_cameras, $security_reinforced, $security_notes,
-            $utility_blood_storage, $utility_computers, $utility_library, $utility_medical, $utility_workshop,
-            $utility_hidden_caches, $utility_armory, $utility_communications, $utility_notes,
-            $social_features, $capacity, $prestige_level, $has_supernatural, $node_points, $node_type,
-            $ritual_space, $magical_protection, $cursed_blessed, $parent_location_id, $relationship_type,
-            $relationship_notes, $image, $blueprint, $moodboard, $pc_haven
-        )) {
-            $error = mysqli_stmt_error($stmt) ?: mysqli_error($conn);
-            mysqli_stmt_close($stmt);
-            throw new Exception('Failed to bind parameters: ' . $error);
-        }
-        
-        if (mysqli_stmt_execute($stmt)) {
-            $insertId = mysqli_insert_id($conn);
-            mysqli_stmt_close($stmt);
-            outputJson([
-                'success' => true,
-                'message' => 'Location created successfully',
-                'id' => $insertId
-            ]);
-        } else {
-            $error = mysqli_stmt_error($stmt);
-            error_log('Location CRUD API - Execute failed (POST): ' . $error);
-            mysqli_stmt_close($stmt);
-            throw new Exception('Failed to create location: ' . $error);
-        }
+        $data = is_array($res['data']) && isset($res['data'][0]) ? $res['data'][0] : (is_array($res['data']) ? $res['data'] : []);
+        $insertId = $data['id'] ?? null;
+        outputJson(['success' => true, 'message' => 'Location created successfully', 'id' => $insertId]);
         
     } elseif ($method === 'PUT') {
         // Update existing location - handle all fields
@@ -258,90 +231,43 @@ try {
             $pc_haven = 0;
         }
         
-        $query = "UPDATE locations SET 
-            name = ?, type = ?, summary = ?, description = ?, notes = ?, status = ?, status_notes = ?,
-            district = ?, address = ?, latitude = ?, longitude = ?, owner_type = ?, owner_notes = ?,
-            faction = ?, access_control = ?, access_notes = ?, security_level = ?,
-            security_locks = ?, security_alarms = ?, security_guards = ?, security_hidden_entrance = ?,
-            security_sunlight_protected = ?, security_warding_rituals = ?, security_cameras = ?,
-            security_reinforced = ?, security_notes = ?,
-            utility_blood_storage = ?, utility_computers = ?, utility_library = ?, utility_medical = ?,
-            utility_workshop = ?, utility_hidden_caches = ?, utility_armory = ?, utility_communications = ?,
-            utility_notes = ?, social_features = ?, capacity = ?, prestige_level = ?, has_supernatural = ?,
-            node_points = ?, node_type = ?, ritual_space = ?, magical_protection = ?, cursed_blessed = ?,
-            parent_location_id = ?, relationship_type = ?, relationship_notes = ?, image = ?, blueprint = ?, moodboard = ?, pc_haven = ?,
-            updated_at = NOW()
-            WHERE id = ?";
-        
-        $stmt = mysqli_prepare($conn, $query);
-        if (!$stmt) {
-            $dbError = mysqli_error($conn);
-            error_log('Location CRUD API - Prepare failed: ' . $dbError . ' Query: ' . substr($query, 0, 200));
-            throw new Exception('Failed to prepare statement: ' . $dbError);
+        $payload = [
+            'name' => $name, 'type' => $type, 'summary' => $summary, 'description' => $description, 'notes' => $notes,
+            'status' => $status, 'status_notes' => $status_notes, 'district' => $district, 'address' => $address,
+            'latitude' => $latitude, 'longitude' => $longitude, 'owner_type' => $owner_type, 'owner_notes' => $owner_notes,
+            'faction' => $faction, 'access_control' => $access_control, 'access_notes' => $access_notes, 'security_level' => $security_level,
+            'security_locks' => $security_locks, 'security_alarms' => $security_alarms, 'security_guards' => $security_guards,
+            'security_hidden_entrance' => $security_hidden_entrance, 'security_sunlight_protected' => $security_sunlight_protected,
+            'security_warding_rituals' => $security_warding_rituals, 'security_cameras' => $security_cameras,
+            'security_reinforced' => $security_reinforced, 'security_notes' => $security_notes,
+            'utility_blood_storage' => $utility_blood_storage, 'utility_computers' => $utility_computers,
+            'utility_library' => $utility_library, 'utility_medical' => $utility_medical, 'utility_workshop' => $utility_workshop,
+            'utility_hidden_caches' => $utility_hidden_caches, 'utility_armory' => $utility_armory,
+            'utility_communications' => $utility_communications, 'utility_notes' => $utility_notes,
+            'social_features' => $social_features, 'capacity' => $capacity, 'prestige_level' => $prestige_level,
+            'has_supernatural' => $has_supernatural, 'node_points' => $node_points, 'node_type' => $node_type,
+            'ritual_space' => $ritual_space, 'magical_protection' => $magical_protection, 'cursed_blessed' => $cursed_blessed,
+            'parent_location_id' => $parent_location_id, 'relationship_type' => $relationship_type,
+            'relationship_notes' => $relationship_notes, 'image' => $image, 'blueprint' => $blueprint, 'moodboard' => $moodboard, 'pc_haven' => $pc_haven,
+            'updated_at' => date('Y-m-d H:i:s')
+        ];
+        $res = supabase_rest_request('PATCH', '/rest/v1/locations', ['id' => 'eq.' . $id], $payload, ['Prefer: return=minimal']);
+        if ($res['error'] !== null) {
+            error_log('Location CRUD API - PATCH failed: ' . $res['error']);
+            throw new Exception('Failed to update location: ' . $res['error']);
         }
-        
-        if (!mysqli_stmt_bind_param($stmt, 'ssssssssssddsssssiiiiiiiiisiiiiiiiiisiiissssiissssii',
-            $name, $type, $summary, $description, $notes, $status, $status_notes, $district, $address, $latitude, $longitude,
-            $owner_type, $owner_notes, $faction, $access_control, $access_notes, $security_level,
-            $security_locks, $security_alarms, $security_guards, $security_hidden_entrance, $security_sunlight_protected,
-            $security_warding_rituals, $security_cameras, $security_reinforced, $security_notes,
-            $utility_blood_storage, $utility_computers, $utility_library, $utility_medical, $utility_workshop,
-            $utility_hidden_caches, $utility_armory, $utility_communications, $utility_notes,
-            $social_features, $capacity, $prestige_level, $has_supernatural, $node_points, $node_type,
-            $ritual_space, $magical_protection, $cursed_blessed, $parent_location_id, $relationship_type,
-            $relationship_notes, $image, $blueprint, $moodboard, $pc_haven, $id
-        )) {
-            $error = mysqli_stmt_error($stmt) ?: mysqli_error($conn);
-            mysqli_stmt_close($stmt);
-            throw new Exception('Failed to bind parameters: ' . $error);
-        }
-        
-        if (mysqli_stmt_execute($stmt)) {
-            mysqli_stmt_close($stmt);
-            outputJson([
-                'success' => true,
-                'message' => 'Location updated successfully'
-            ]);
-        } else {
-            $error = mysqli_stmt_error($stmt);
-            error_log('Location CRUD API - Execute failed (PUT): ' . $error);
-            mysqli_stmt_close($stmt);
-            throw new Exception('Failed to update location: ' . $error);
-        }
+        outputJson(['success' => true, 'message' => 'Location updated successfully']);
         
     } elseif ($method === 'DELETE') {
-        // Delete location
         $id = cleanInt($input['id'] ?? 0);
         if ($id <= 0) {
             throw new Exception('Invalid location ID');
         }
-        
-        $query = "DELETE FROM locations WHERE id = ?";
-        $stmt = mysqli_prepare($conn, $query);
-        if (!$stmt) {
-            $dbError = mysqli_error($conn);
-            error_log('Location CRUD API - Prepare failed: ' . $dbError . ' Query: ' . substr($query, 0, 200));
-            throw new Exception('Failed to prepare statement: ' . $dbError);
+        $res = supabase_rest_request('DELETE', '/rest/v1/locations', ['id' => 'eq.' . $id], null, ['Prefer: return=minimal']);
+        if ($res['error'] !== null) {
+            throw new Exception('Failed to delete location: ' . $res['error']);
         }
-        
-        if (!mysqli_stmt_bind_param($stmt, 'i', $id)) {
-            $error = mysqli_stmt_error($stmt) ?: mysqli_error($conn);
-            mysqli_stmt_close($stmt);
-            throw new Exception('Failed to bind parameters: ' . $error);
-        }
-        
-        if (mysqli_stmt_execute($stmt)) {
-            mysqli_stmt_close($stmt);
-            outputJson([
-                'success' => true,
-                'message' => 'Location deleted successfully'
-            ]);
-        } else {
-            $error = mysqli_stmt_error($stmt);
-            mysqli_stmt_close($stmt);
-            throw new Exception('Failed to delete location: ' . $error);
-        }
-        
+        outputJson(['success' => true, 'message' => 'Location deleted successfully']);
     } else {
         throw new Exception('Method not allowed');
     }
@@ -353,8 +279,3 @@ try {
         'error' => $e->getMessage()
     ]);
 }
-
-if (isset($conn) && $conn) {
-    mysqli_close($conn);
-}
-?>

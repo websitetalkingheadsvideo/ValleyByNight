@@ -13,56 +13,32 @@ header('Content-Type: application/json');
 //     exit();
 // }
 
-require_once __DIR__ . '/../includes/connect.php';
-
-if (!$conn) {
-    echo json_encode(['success' => false, 'message' => 'Database connection failed']);
-    exit();
-}
+require_once __DIR__ . '/../includes/supabase_client.php';
 
 try {
-    // Optional category filter
-    $category_filter = isset($_GET['category']) ? trim($_GET['category']) : null;
-    
-    // Build query
-    if ($category_filter && in_array($category_filter, ['Physical', 'Social', 'Mental', 'Optional'])) {
-        $abilities = db_fetch_all($conn,
-            "SELECT id, name, category, display_order, description, min_level, max_level
-             FROM abilities
-             WHERE category = ?
-             ORDER BY display_order ASC",
-            's', [$category_filter]
-        );
-        
-        // Return single category
+    $category_filter = isset($_GET['category']) ? trim((string) $_GET['category']) : null;
+    $query = [
+        'select' => 'id,name,category,display_order,description,min_level,max_level',
+        'order' => 'category.asc,display_order.asc'
+    ];
+    if ($category_filter && in_array($category_filter, ['Physical', 'Social', 'Mental', 'Optional'], true)) {
+        $query['category'] = 'eq.' . $category_filter;
+    }
+    $abilities = supabase_table_get('abilities', $query);
+    if ($category_filter) {
         echo json_encode([
             'success' => true,
             'category' => $category_filter,
             'abilities' => $abilities
         ], JSON_PRETTY_PRINT);
     } else {
-        // Get all abilities grouped by category
-        $all_abilities = db_fetch_all($conn,
-            "SELECT id, name, category, display_order, description, min_level, max_level
-             FROM abilities
-             ORDER BY category, display_order ASC"
-        );
-        
-        // Group by category
-        $grouped = [
-            'Physical' => [],
-            'Social' => [],
-            'Mental' => [],
-            'Optional' => []
-        ];
-        
-        foreach ($all_abilities as $ability) {
-            $cat = $ability['category'];
+        $grouped = ['Physical' => [], 'Social' => [], 'Mental' => [], 'Optional' => []];
+        foreach ($abilities as $ability) {
+            $cat = $ability['category'] ?? '';
             if (isset($grouped[$cat])) {
                 $grouped[$cat][] = $ability;
             }
         }
-        
         echo json_encode([
             'success' => true,
             'abilities' => $grouped,

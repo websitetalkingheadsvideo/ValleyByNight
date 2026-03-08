@@ -12,10 +12,10 @@ if (!isset($_SESSION['user_id'])) {
 }
 
 // Check if user is admin for NPC selection
-require_once __DIR__ . '/includes/connect.php';
+require_once __DIR__ . '/includes/supabase_client.php';
 require_once __DIR__ . '/includes/verify_role.php';
 $user_id = $_SESSION['user_id'];
-$user_role = verifyUserRole($conn, $user_id);
+$user_role = verifyUserRole(null, $user_id);
 $is_admin = isAdminUser($user_role);
 
 // Include header with chat CSS

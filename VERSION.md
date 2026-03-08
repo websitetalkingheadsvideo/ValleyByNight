@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.208
+## Current Version: 0.9.209
+
+**Date:** 2026-03-08  
+**Type:** Patch (MySQL removal, Supabase-only: connect.php stub, admin/agents/tools migrated; mysql2/envato→Supabase; docs and rules)
+
+## Previous Version: 0.9.208
 
 **Date:** 2026-03-08  
 **Type:** Patch (Rembrandt Jones portrait: 速推AI + style-agent MCP; image and prompt doc update)

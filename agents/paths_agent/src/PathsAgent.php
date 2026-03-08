@@ -48,33 +48,14 @@ class PathsAgent
     
     /**
      * PathsAgent constructor.
-     * 
-     * If a DB handle is not passed in, this will include connect.php
-     * and expect it to define `$conn` (mysqli).
-     * 
-     * @param mysqli|null $db
+     * DB is legacy (ignored). Repositories use Supabase.
+     *
+     * @param mixed|null $db Ignored; kept for API compatibility
      * @param array|null $config
-     * @throws Exception
      */
     public function __construct($db = null, array $config = null)
     {
-        if ($db !== null) {
-            $this->db = $db;
-        } else {
-            // Use project-standard DB connection
-            $connectPath = __DIR__ . '/../../../includes/connect.php';
-            if (!file_exists($connectPath)) {
-                throw new Exception("Database connection file not found: {$connectPath}");
-            }
-            require_once $connectPath;
-            if (!isset($conn)) {
-                throw new Exception('connect.php did not define $conn (mysqli). Check database configuration.');
-            }
-            if (!$conn instanceof mysqli) {
-                throw new Exception('$conn is not a mysqli object. Database connection failed.');
-            }
-            $this->db = $conn;
-        }
+        $this->db = $db;
         
         // Load configuration
         if ($config !== null) {

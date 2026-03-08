@@ -11,7 +11,7 @@ A Retrieval-Augmented Generation (RAG) system for the Vampire: The Masquerade / 
 ✅ **Conversation Memory**: Maintains context within user sessions
 ✅ **Source Citations**: Every answer includes page numbers and book references
 ✅ **Book Filtering**: Users can search within specific books
-✅ **Optimized Database**: Uses MySQL with embeddings stored as binary blobs
+✅ **Optimized Database**: v3 uses Cloudflare AI Search; legacy MySQL RAG removed
 
 ## Architecture
 
@@ -46,21 +46,12 @@ Return Answer + Sources
 
 ### Prerequisites
 - PHP 7.4+
-- MySQL 5.7+
-- LM Studio running on http://192.168.0.217:1234
+- For v3: Cloudflare account (CF_ACCOUNT_ID, CF_AUTORAG_NAME, CF_API_TOKEN in .env)
+- LM Studio running on http://192.168.0.217:1234 (optional)
 - Anthropic API key in .env file
 
-### Step 1: Setup Database
-
-```bash
-cd /path/to/your/agents/folder
-php setup_rag_database.php
-```
-
-This will:
-- Drop old laws_agent tables
-- Create new optimized RAG tables
-- Set up indexes for fast searching
+### Step 1: Laws Agent v3 (recommended)
+Use MCP script `mcp_laws_agent_v3.js` with Cloudflare AI Search. No MySQL. Run: `node mcp_laws_agent_v3.js`.
 
 ### Step 2: Import Data
 
@@ -331,6 +322,30 @@ LIMIT 10;
 ```bash
 php setup_rag_database.php  # This drops and recreates tables
 ```
+
+## MCP Server Versions
+
+The Laws Agent is exposed to Cursor/IDE via MCP. Two server variants exist:
+
+| Version | Script | Search backend | Use when |
+|--------|--------|------------------|----------|
+| **v2** | `scripts/mcp_laws_agent_v2.js` | MySQL FULLTEXT (`rulebook_pages` / `rulebooks`) | Rulebooks are in the app MySQL DB |
+| **v3** | `scripts/mcp_laws_agent_v3.js` | Cloudflare AI Search (REST API) | Rulebooks are indexed in Cloudflare AI Search |
+
+### Laws Agent v3 (Cloudflare AI Search)
+
+v3 preserves the same tool (`query_laws_agent`), prompts, and response shape as v2. Only the **search implementation** is replaced: retrieval is done via the [Cloudflare AI Search REST API](https://developers.cloudflare.com/autorag/usage/rest-api/) instead of MySQL.
+
+**Configuration (env for `laws-agent-v3` in `.cursor/mcp.json`):**
+
+- `ANTHROPIC_API_KEY`, `ANTHROPIC_MODEL` — unchanged from v2 (answer generation).
+- `CF_ACCOUNT_ID` — Cloudflare account ID (dashboard → Workers & Pages → Account ID).
+- `CF_AUTORAG_NAME` — Name of the AI Search (AutoRAG) index that contains your rulebook documents.
+- `CF_API_TOKEN` — API token with **AI Search - Read** (and optionally **Edit**) from [Cloudflare AI Search](https://dash.cloudflare.com/?to=/:account/ai/ai-search).
+
+**Index requirements:** The Cloudflare AI Search index should contain your rulebook chunks. For best compatibility with v3’s context/sources, document metadata should include (where possible): `book_title`, `category`, `system_type`, `page_number`. v3 maps `result.data[].filename`, `content[].text`, `score`, and `attributes` into the same shape v2 uses so that `buildContextFromResults` and source citations work unchanged.
+
+**Run v3:** In Cursor, enable the `laws-agent-v3` MCP server (and set the env vars above). The tool remains `query_laws_agent`; no client changes required.
 
 ## Future Enhancements
 

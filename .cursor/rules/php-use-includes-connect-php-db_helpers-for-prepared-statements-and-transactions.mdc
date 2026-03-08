@@ -1,62 +1,19 @@
 ---
-description: Use the db_* helper functions from includes/connect.php for prepared statements and transactions (avoid raw mysqli_query)
-globs: **/*.php
+description: Use includes/supabase_client.php for all database access (Supabase only; no MySQL).
+globs: "**/*.php"
 alwaysApply: false
 ---
 
-- **All database access MUST go through `V:\\includes\\connect.php`**
-  - Include [V:\includes\connect.php](mdc:includes/connect.php) to obtain `$conn` and the shared DB helper functions.
-  - Treat `$conn` as the single connection handle for a request.
+- **All database access MUST use `V:\\includes\\supabase_client.php`**
+  - Include [V:\includes\supabase_client.php](mdc:includes/supabase_client.php). Do not use `$conn` or MySQL.
 
-- **Queries with dynamic values MUST use prepared statements**
-  - Use `db_fetch_one()` / `db_fetch_all()` / `db_execute()` which wrap `mysqli_prepare()` and `mysqli_stmt_bind_param()`.
-  - `db_escape()` MAY be used only when prepared statements are not possible (see function comment); it is not the default.
-  - Source: [V:\includes\connect.php](mdc:includes/connect.php) lines 166-290.
+- **Reads**: Use `supabase_table_get($table, $query)` where `$query` is an array of select, filters, order, limit:
+  - `['select' => 'id,name', 'id' => 'eq.123', 'limit' => '1']`
+  - Filters: `column=eq.value`, `column=in.(a,b)`, `column=gte.0`, etc.
 
-```php
-// SELECT single row
-$row = db_fetch_one(
-    $conn,
-    'SELECT id, username FROM users WHERE id = ? LIMIT 1',
-    'i',
-    [$user_id]
-);
-```
+- **Writes**: Use `supabase_rest_request($method, $path, $query, $payload, $headers)`:
+  - POST: `supabase_rest_request('POST', '/rest/v1/table_name', [], $payload, ['Prefer: return=representation'])`
+  - PATCH: `supabase_rest_request('PATCH', '/rest/v1/table_name', ['id' => 'eq.123'], $payload, ['Prefer: return=minimal'])`
+  - DELETE: `supabase_rest_request('DELETE', '/rest/v1/table_name', ['id' => 'eq.123'], null, ['Prefer: return=minimal'])`
 
-```php
-// SELECT many rows
-$rows = db_fetch_all(
-    $conn,
-    'SELECT id, character_name FROM characters WHERE user_id = ? ORDER BY character_name ASC',
-    'i',
-    [$user_id]
-);
-```
-
-```php
-// INSERT/UPDATE/DELETE
-$affected = db_execute(
-    $conn,
-    'UPDATE characters SET status = ? WHERE id = ?',
-    'si',
-    [$status, $character_id]
-);
-```
-
-- **Multi-step writes MUST be wrapped in `db_transaction()`**
-  - Use `db_transaction($conn, callable $callback)` for multi-statement operations that must commit/rollback as a unit.
-  - Source: [V:\includes\connect.php](mdc:includes/connect.php) lines 108-165.
-
-```php
-$result = db_transaction($conn, static function ($connection) use ($character_id): array {
-    db_execute($connection, 'UPDATE characters SET updated_at = NOW() WHERE id = ?', 'i', [$character_id]);
-    $character = db_fetch_one($connection, 'SELECT id, updated_at FROM characters WHERE id = ?', 'i', [$character_id]);
-    if ($character === null) {
-        throw new Exception('Character not found after update');
-    }
-    return $character;
-});
-```
-
-- **New/edited code MUST NOT use `mysqli_query()` for application queries**
-  - If you need a non-helper capability (e.g., streaming results), use `mysqli_prepare()` directly and keep the parameterization rules identical to the helpers.
+- **Legacy**: `includes/connect.php` sets `$conn = null` and `db_*` throw. Migrate any remaining code to Supabase.

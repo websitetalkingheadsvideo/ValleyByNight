@@ -2,8 +2,8 @@
 
 ## Package Identity
 
-**Purpose**: Shared PHP components used across the application (headers, footers, database connection, utilities)  
-**Tech**: PHP 7.4+ with MySQLi  
+**Purpose**: Shared PHP components used across the application (headers, footers, Supabase client, utilities)  
+**Tech**: PHP 7.4+, Supabase (Postgres) only  
 **Location**: `includes/` directory
 
 ## Setup & Run
@@ -12,7 +12,7 @@
 All files in `includes/` are meant to be included/required by other PHP files:
 ```php
 require_once __DIR__ . '/includes/header.php';
-require_once __DIR__ . '/includes/connect.php';
+require_once __DIR__ . '/includes/supabase_client.php';
 ```
 
 ### No Direct Execution
@@ -22,27 +22,28 @@ These files are not meant to be accessed directly via URL - they're included by 
 
 ### File Organization
 - **Headers/Footers**: `header.php`, `footer.php`, `admin_header.php`
-- **Database**: `connect.php` - Database connection singleton
+- **Database**: `supabase_client.php` - Supabase REST client (only approved DB layer)
 - **Authentication**: `login_process.php`, `register_process.php`, `verify_role.php`
 - **Character Management**: `save_character.php`, `character_view_modal.php`
 - **Utilities**: `version.php`, `api_get_character_names.php`
 
 ### Critical Files
 
-#### `connect.php` - Database Connection
-**Pattern**: Always use this for database access
+#### `supabase_client.php` - Database Access (Supabase only)
+**Pattern**: Use for all database access. No MySQL.
 ```php
-require_once __DIR__ . '/includes/connect.php';
-// $conn is available after include
-// Automatically loads .env file if present
-// Handles PHP 8+ compatibility
+require_once __DIR__ . '/includes/supabase_client.php';
+$rows = supabase_table_get('characters', ['select' => 'id,name', 'id' => 'eq.123']);
+supabase_rest_request('PATCH', '/rest/v1/characters', ['id' => 'eq.123'], ['status' => 'active'], ['Prefer: return=minimal']);
 ```
 
 **Key Features**:
-- Loads `.env` file from project root
-- Creates `$conn` mysqli connection
-- Handles PHP 8+ exception mode compatibility
-- Error reporting configured
+- Loads `.env` (SUPABASE_URL, SUPABASE_KEY or SUPABASE_SERVICE_ROLE_KEY)
+- `supabase_table_get($table, $query)` for SELECT
+- `supabase_rest_request($method, $path, $query, $payload, $headers)` for REST
+
+#### `connect.php` - Legacy stub
+- Loads `.env` and `supabase_client.php`; sets `$conn = null`. Do not use `$conn` or `db_*`; they throw. Use Supabase only.
 
 #### `header.php` - Main Header Component
 **Pattern**: Include at top of every page

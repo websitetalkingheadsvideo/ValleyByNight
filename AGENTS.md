@@ -3,8 +3,8 @@
 ## Project Snapshot
 
 **Repository Type**: Single PHP web application (not monorepo)  
-**Primary Tech Stack**: PHP 7.4+, MySQL (remote), Bootstrap 5.3.2, Vanilla JavaScript  
-**Database**: Remote MySQL at `vdb5.pit.pair.com` (no local DB setup)  
+**Primary Tech Stack**: PHP 7.4+, Supabase (Postgres), Bootstrap 5.3.2, Vanilla JavaScript  
+**Database**: Supabase only (no MySQL). Use `includes/supabase_client.php` for all database access.  
 **Domain (app base URL)**: `http://192.168.0.155` — use this for all agent/docs links (e.g. Laws Agent import: http://192.168.0.155/agents/laws_agent/import_books.php)  
 **Sub-packages**: Specialized agent modules in `agents/` directory, each with its own AGENTS.md
 
@@ -18,21 +18,18 @@
 # Verify PHP version
 php -v
 
-# Check database connection (requires .env file)
-php test_db_connection.php
+# Verify Supabase env (SUPABASE_URL, SUPABASE_KEY or SUPABASE_SERVICE_ROLE_KEY in .env)
 ```
 
 ### Environment Configuration
 ```bash
 # Copy .env.example to .env (if not exists)
-# Edit .env and set DB_PASSWORD=your_password
+# Edit .env and set SUPABASE_URL and SUPABASE_KEY (or SUPABASE_SERVICE_ROLE_KEY)
 # See LOCAL_DEVELOPMENT.md for full setup
 ```
 
 ### Quick Verification
 ```bash
-# Test database connection
-php test_db_connection.php
 
 # Check PHP syntax (if php -l available)
 find . -name "*.php" -not -path "./node_modules/*" -not -path "./venv/*" -exec php -l {} \;

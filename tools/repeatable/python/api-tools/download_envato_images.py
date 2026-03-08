@@ -14,9 +14,9 @@ if sys.platform == 'win32':
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
     sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8', errors='replace')
 import json
+import os
 import re
 import requests
-import mysql.connector
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 from urllib.parse import quote
@@ -58,36 +58,31 @@ def load_env_file(env_path: Path) -> Dict[str, str]:
     
     return env_vars
 
-def get_database_connection(env_vars: Dict[str, str]) -> mysql.connector.MySQLConnection:
-    """Create MySQL database connection"""
-    required_vars = ['DB_HOST', 'DB_USER', 'DB_PASSWORD', 'DB_NAME']
-    missing = [var for var in required_vars if var not in env_vars]
-    
-    if missing:
-        raise ValueError(f"Missing required environment variables: {', '.join(missing)}")
-    
-    try:
-        conn = mysql.connector.connect(
-            host=env_vars['DB_HOST'],
-            user=env_vars['DB_USER'],
-            password=env_vars['DB_PASSWORD'],
-            database=env_vars['DB_NAME'],
-            charset='utf8mb4',
-            collation='utf8mb4_unicode_ci'
-        )
-        return conn
-    except mysql.connector.Error as e:
-        raise ConnectionError(f"Database connection failed: {e}")
+def get_supabase_headers(env_vars: Dict[str, str]) -> Dict[str, str]:
+    """Supabase REST headers (service role or anon key)."""
+    key = env_vars.get('SUPABASE_SERVICE_ROLE_KEY') or env_vars.get('SUPABASE_KEY')
+    if not key:
+        raise ValueError("Missing SUPABASE_SERVICE_ROLE_KEY or SUPABASE_KEY in .env")
+    return {
+        "apikey": key,
+        "Authorization": f"Bearer {key}",
+        "Content-Type": "application/json",
+    }
 
-def get_items_from_database(conn: mysql.connector.MySQLConnection) -> List[Dict]:
-    """Fetch all items from the database"""
-    cursor = conn.cursor(dictionary=True)
-    try:
-        cursor.execute("SELECT id, name, image FROM items ORDER BY name ASC")
-        items = cursor.fetchall()
-        return items
-    finally:
-        cursor.close()
+def get_items_from_supabase(env_vars: Dict[str, str]) -> List[Dict]:
+    """Fetch all items from Supabase items table."""
+    url = env_vars.get('SUPABASE_URL', '').rstrip('/')
+    if not url:
+        raise ValueError("Missing SUPABASE_URL in .env")
+    headers = get_supabase_headers(env_vars)
+    r = requests.get(
+        f"{url}/rest/v1/items",
+        headers=headers,
+        params={"select": "id,name,image", "order": "name.asc"},
+        timeout=30,
+    )
+    r.raise_for_status()
+    return r.json() if r.text else []
 
 def clean_search_query(query: str) -> str:
     """Clean search query by removing problematic characters and normalizing"""
@@ -534,45 +529,26 @@ def create_safe_filename(item_name: str) -> str:
     
     return safe_name + '.jpg'
 
-def update_item_image(conn: mysql.connector.MySQLConnection, item_id: int, image_filename: str) -> bool:
-    """Update item's image field in database"""
-    cursor = conn.cursor()
-    try:
-        # First check if item exists
-        cursor.execute("SELECT id, image FROM items WHERE id = %s", (item_id,))
-        existing = cursor.fetchone()
-        if not existing:
-            print(f"  ❌ Database update failed: Item ID {item_id} not found in database")
-            return False
-        
-        # Check if it's already set to the same value
-        if existing[1] == image_filename:
-            print(f"  ℹ️  Image already set to {image_filename}, skipping update")
-            return True
-        
-        # Update the image
-        cursor.execute(
-            "UPDATE items SET image = %s WHERE id = %s",
-            (image_filename, item_id)
-        )
-        rows_affected = cursor.rowcount
-        conn.commit()
-        
-        if rows_affected > 0:
-            print(f"  ✅ Database updated: {rows_affected} row(s) affected")
-            return True
-        else:
-            print(f"  ❌ Database update failed: No rows affected (item ID {item_id} may not exist)")
-            return False
-    except mysql.connector.Error as e:
-        print(f"  ❌ Database error: {e}")
-        print(f"     Item ID: {item_id}, Filename: {image_filename}")
-        conn.rollback()
+def update_item_image_supabase(env_vars: Dict[str, str], item_id: int, image_filename: str) -> bool:
+    """Update item's image field in Supabase."""
+    url = env_vars.get('SUPABASE_URL', '').rstrip('/')
+    if not url:
         return False
-    finally:
-        cursor.close()
+    headers = get_supabase_headers(env_vars)
+    r = requests.patch(
+        f"{url}/rest/v1/items",
+        headers=headers,
+        params={"id": f"eq.{item_id}"},
+        json={"image": image_filename},
+        timeout=30,
+    )
+    if r.status_code in (200, 204) or (r.status_code == 200 and (r.json() or [{}])[0].get('image') == image_filename):
+        print(f"  ✅ Database updated: image set to {image_filename}")
+        return True
+    print(f"  ❌ Database update failed: {r.status_code} {r.text[:200]}")
+    return False
 
-def process_item(item: Dict, api_key: str, conn: mysql.connector.MySQLConnection) -> Tuple[bool, str, Optional[str], Optional[Tuple[int, int]], bool, Optional[str], Optional[str]]:
+def process_item(item: Dict, api_key: str, env_vars: Dict[str, str]) -> Tuple[bool, str, Optional[str], Optional[Tuple[int, int]], bool, Optional[str], Optional[str]]:
     """Process a single item: search, download, and update database
     
     Note: This function downloads preview images from Envato. For full-size/high-resolution
@@ -1093,7 +1069,7 @@ def process_item(item: Dict, api_key: str, conn: mysql.connector.MySQLConnection
         print(f"  ✅ Saved as: {image_filename}")
         
         # Update database with the image filename
-        db_updated = update_item_image(conn, item_id, image_filename)
+        db_updated = update_item_image_supabase(env_vars, item_id, image_filename)
         if db_updated:
             print(f"  ✅ Database updated with image: {image_filename}")
             return (True, f"✅ Successfully downloaded and updated {item_name}", image_filename, dimensions, True, None, None)
@@ -1279,27 +1255,15 @@ def main() -> None:
     
     # Connect to database
     try:
-        conn = get_database_connection(env_vars)
-        print("✅ Connected to database")
-    except (ValueError, ConnectionError) as e:
+        items = get_items_from_supabase(env_vars)
+        print("✅ Fetched items from Supabase")
+    except (ValueError, requests.RequestException) as e:
         print(f"❌ {e}")
         sys.exit(1)
-    
-    # Get all items (excluding .38 Revolver for testing)
-    try:
-        cursor = conn.cursor(dictionary=True)
-        cursor.execute("SELECT id, name, image FROM items WHERE name != '.38 Revolver' ORDER BY name ASC")
-        items = cursor.fetchall()
-        cursor.close()
-        print(f"✅ Found {len(items)} items in database (excluding .38 Revolver)")
-    except mysql.connector.Error as e:
-        print(f"❌ Error fetching items: {e}")
-        conn.close()
-        sys.exit(1)
-    
+    items = [i for i in items if (i.get('name') or '') != '.38 Revolver']
+    print(f"✅ Found {len(items)} items (excluding .38 Revolver)")
     if not items:
         print("⚠️  No items found in database")
-        conn.close()
         sys.exit(0)
     
     # Limit items to process if MAX_ITEMS_TO_PROCESS is set
@@ -1324,7 +1288,7 @@ def main() -> None:
     needs_purchase: List[Dict] = []
     
     for item in items_to_process:
-        success, message, filename, dimensions, db_updated, item_url, envato_item_id = process_item(item, api_key, conn)
+        success, message, filename, dimensions, db_updated, item_url, envato_item_id = process_item(item, api_key, env_vars)
         print(f"  {message}")
         
         timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
@@ -1387,8 +1351,6 @@ def main() -> None:
     
     # Write tracking file
     write_tracking_file(successful_downloads, failed_downloads, needs_purchase, len(items_to_process))
-    
-    conn.close()
     print("\n✅ Done!")
 
 if __name__ == "__main__":

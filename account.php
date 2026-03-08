@@ -14,10 +14,11 @@ if (isAuthBypassEnabled() && !isset($_SESSION['user_id'])) {
     setupBypassSession();
 }
 
-require_once __DIR__ . '/includes/connect.php';
+require_once __DIR__ . '/includes/supabase_client.php';
 
 $user_id = $_SESSION['user_id'];
-$user = db_fetch_one($conn, 'SELECT id, username, email FROM users WHERE id = ?', 'i', [$user_id]);
+$userRows = supabase_table_get('users', ['select' => 'id,username,email', 'id' => 'eq.' . (string) $user_id, 'limit' => '1']);
+$user = !empty($userRows) ? $userRows[0] : null;
 if (!$user) {
     $_SESSION['error'] = 'Unable to load account.';
     header('Location: index.php');

@@ -1,56 +1,39 @@
 <?php
 /**
- * Update NPC Notes API
- * Updates agent_notes and acting_notes for characters
+ * Update NPC Notes API (Supabase)
  */
+declare(strict_types=1);
 session_start();
 header('Content-Type: application/json');
 
-// Check authentication
 if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
     echo json_encode(['success' => false, 'error' => 'Unauthorized']);
-    exit();
+    exit;
 }
 
-require_once __DIR__ . '/../includes/connect.php';
+require_once __DIR__ . '/../includes/supabase_client.php';
 
-$input = json_decode(file_get_contents('php://input'), true);
-
-$character_id = intval($input['character_id'] ?? 0);
-$agent_notes = trim($input['agentNotes'] ?? '');
-$acting_notes = trim($input['actingNotes'] ?? '');
+$input = json_decode((string) file_get_contents('php://input'), true) ?? [];
+$character_id = (int) ($input['character_id'] ?? 0);
+$agent_notes = trim((string) ($input['agentNotes'] ?? ''));
+$acting_notes = trim((string) ($input['actingNotes'] ?? ''));
 
 if ($character_id <= 0) {
     echo json_encode(['success' => false, 'error' => 'Invalid character ID']);
-    exit();
+    exit;
 }
 
 try {
-    // Update character notes
-    $query = "UPDATE characters SET 
-              agent_notes = ?,
-              acting_notes = ?,
-              updated_at = NOW()
-              WHERE id = ?";
-    $stmt = mysqli_prepare($conn, $query);
-    mysqli_stmt_bind_param($stmt, 'ssi', $agent_notes, $acting_notes, $character_id);
-    
-    if (mysqli_stmt_execute($stmt)) {
-        echo json_encode([
-            'success' => true,
-            'message' => 'Notes updated successfully'
-        ]);
-    } else {
-        throw new Exception('Failed to update notes: ' . mysqli_error($conn));
+    $res = supabase_rest_request('PATCH', '/rest/v1/characters', ['id' => 'eq.' . $character_id], [
+        'agent_notes' => $agent_notes,
+        'acting_notes' => $acting_notes,
+        'updated_at' => date('Y-m-d H:i:s')
+    ], ['Prefer: return=minimal']);
+    if ($res['error'] !== null) {
+        throw new Exception($res['error']);
     }
-    
+    echo json_encode(['success' => true, 'message' => 'Notes updated successfully']);
 } catch (Exception $e) {
-    echo json_encode([
-        'success' => false,
-        'error' => $e->getMessage()
-    ]);
+    echo json_encode(['success' => false, 'error' => $e->getMessage()]);
 }
-
-mysqli_close($conn);
-?>
 

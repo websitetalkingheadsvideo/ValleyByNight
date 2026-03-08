@@ -1,16 +1,16 @@
 ---
-description: This rule explains MySQL database design patterns and query optimization techniques.
-globs: **/*..sql
+description: Supabase/Postgres database patterns (MySQL removed from project).
+globs: "**/*.sql"
 alwaysApply: false
 ---
 
-# MySQL rules
+# Supabase / Postgres rules (MySQL removed)
 
-- Use appropriate data types to optimize storage and performance (e.g., INT for IDs, VARCHAR with appropriate length)
-- Create indexes for columns used in WHERE, JOIN, and ORDER BY clauses
-- Use foreign keys to maintain referential integrity
-- Use EXPLAIN to analyze and optimize queries
-- Avoid using SELECT * and only retrieve needed columns
-- Use prepared statements to prevent SQL injection
-- Use appropriate character set and collation (e.g., utf8mb4_unicode_ci)
-- Use transactions for operations that must be atomic
+- This project uses **Supabase (Postgres)** only. No MySQL.
+- Use `includes/supabase_client.php` in PHP: `supabase_table_get()`, `supabase_rest_request()`.
+- Use appropriate types (e.g. UUID for ids, text/varchar, timestamptz).
+- Create indexes for columns used in WHERE, JOIN, ORDER BY.
+- Use foreign keys for referential integrity.
+- Prefer `select` with explicit columns over `*`.
+- Filter via PostgREST query params (e.g. `id=eq.123`, `status=in.(active,pending)`).
+- For multi-row writes use separate REST calls or Supabase RPC if needed.

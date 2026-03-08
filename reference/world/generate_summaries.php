@@ -10,13 +10,10 @@ if (session_status() === PHP_SESSION_NONE) {
     session_start();
 }
 
-// Include database connection for role verification
-require_once __DIR__ . '/../../includes/connect.php';
-
-// Check if user is admin/storyteller
+require_once __DIR__ . '/../../includes/supabase_client.php';
 require_once __DIR__ . '/../../includes/verify_role.php';
-$user_id = $_SESSION['user_id'] ?? 0;
-$user_role = verifyUserRole($conn, $user_id);
+$user_id = (int) ($_SESSION['user_id'] ?? 0);
+$user_role = verifyUserRole(null, $user_id);
 $is_admin = isAdminUser($user_role);
 
 if (!$is_admin) {

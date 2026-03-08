@@ -14,6 +14,7 @@ if (ob_get_level() > 0) {
 }
 
 try {
+    require_once __DIR__ . '/../../includes/supabase_client.php';
     require __DIR__ . '/db.php';
 } catch (Throwable $e) {
     // If db.php fails, we can't continue - but we need to output JSON-RPC error format
@@ -62,43 +63,34 @@ function mcp_tool_result(array $raw): array {
 }
 
 /**
- * Get MCP base path from database
+ * Get MCP base path from Supabase
  */
 function get_mcp_path(): string {
-    $conn = vbn_get_connection();
-    $stmt = mysqli_prepare($conn, "SELECT filesystem_path FROM mcp_style_packs WHERE slug = 'style_agent_mcp' AND enabled = 1");
-    if (!$stmt) {
-        throw new Exception('Failed to query MCP: ' . mysqli_error($conn));
-    }
-    
-    mysqli_stmt_execute($stmt);
-    $result = mysqli_stmt_get_result($stmt);
-    $row = mysqli_fetch_assoc($result);
-    mysqli_stmt_close($stmt);
-    
-    if (!$row) {
+    $rows = supabase_table_get('mcp_style_packs', [
+        'select' => 'filesystem_path',
+        'slug' => 'eq.style_agent_mcp',
+        'enabled' => 'eq.1',
+        'limit' => '1'
+    ]);
+    if (empty($rows)) {
         throw new Exception('Style Agent MCP not found in database');
     }
-    
     $project_root = dirname(__DIR__, 2);
-    return $project_root . '/' . $row['filesystem_path'];
+    return $project_root . '/' . ($rows[0]['filesystem_path'] ?? '');
 }
 
 /**
  * Tool: getMCPInfo
- * Get Style Agent MCP metadata from database
+ * Get Style Agent MCP metadata from Supabase
  */
 function tool_getMCPInfo(array $input): array {
-    $conn = vbn_get_connection();
-    $stmt = mysqli_prepare($conn, "SELECT * FROM mcp_style_packs WHERE slug = 'style_agent_mcp' AND enabled = 1");
-    if (!$stmt) {
-        return ['ok' => false, 'error' => 'Prepare failed: ' . mysqli_error($conn)];
-    }
-    
-    mysqli_stmt_execute($stmt);
-    $result = mysqli_stmt_get_result($stmt);
-    $mcp = mysqli_fetch_assoc($result);
-    mysqli_stmt_close($stmt);
+    $rows = supabase_table_get('mcp_style_packs', [
+        'select' => '*',
+        'slug' => 'eq.style_agent_mcp',
+        'enabled' => 'eq.1',
+        'limit' => '1'
+    ]);
+    $mcp = $rows[0] ?? null;
     
     if (!$mcp) {
         return ['ok' => false, 'error' => 'Style Agent MCP not found or disabled'];
@@ -163,28 +155,20 @@ function tool_listChapters(array $input): array {
         ];
     }
     
-    // Also get chapter metadata from database if available
-    $conn = vbn_get_connection();
-    $mcp_stmt = mysqli_prepare($conn, "SELECT id FROM mcp_style_packs WHERE slug = 'style_agent_mcp'");
-    mysqli_stmt_execute($mcp_stmt);
-    $mcp_result = mysqli_stmt_get_result($mcp_stmt);
-    $mcp = mysqli_fetch_assoc($mcp_result);
-    mysqli_stmt_close($mcp_stmt);
-    
     $metadata = [];
-    if ($mcp) {
-        $meta_stmt = mysqli_prepare($conn, "SELECT chapter_name, chapter_file, chapter_number, description, tags 
-                                            FROM mcp_style_chapters 
-                                            WHERE mcp_pack_id = ? 
-                                            ORDER BY display_order");
-        mysqli_stmt_bind_param($meta_stmt, 'i', $mcp['id']);
-        mysqli_stmt_execute($meta_stmt);
-        $meta_result = mysqli_stmt_get_result($meta_stmt);
-        
-        while ($row = mysqli_fetch_assoc($meta_result)) {
-            $metadata[$row['chapter_file']] = $row;
+    $mcpRows = supabase_table_get('mcp_style_packs', ['select' => 'id', 'slug' => 'eq.style_agent_mcp', 'limit' => '1']);
+    if (!empty($mcpRows)) {
+        $mcpId = $mcpRows[0]['id'] ?? null;
+        if ($mcpId !== null) {
+            $metaRows = supabase_table_get('mcp_style_chapters', [
+                'select' => 'chapter_name,chapter_file,chapter_number,description,tags',
+                'mcp_pack_id' => 'eq.' . $mcpId,
+                'order' => 'display_order.asc'
+            ]);
+            foreach ($metaRows as $row) {
+                $metadata[$row['chapter_file'] ?? ''] = $row;
+            }
         }
-        mysqli_stmt_close($meta_stmt);
     }
     
     // Merge metadata with file list

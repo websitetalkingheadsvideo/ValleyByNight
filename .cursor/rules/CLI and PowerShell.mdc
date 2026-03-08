@@ -9,7 +9,7 @@ alwaysApply: true
 - **No remote DB attempts via shell**
   - All connection work must stay within existing PHP utilities or application workflow.
 - **Follow PHP configuration**
-  - Use the project’s current MySQL/PHP setup; avoid external command-based tooling entirely.
+  - Use the project’s current Supabase/PHP setup; avoid external command-based tooling for DB access.
 - **Git is not a Database**
   -Use and push git whenever asked to
   

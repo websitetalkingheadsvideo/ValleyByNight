@@ -1113,12 +1113,11 @@ python tools/repeatable/python/api-tools/download_envato_images.py
 ```
 
 **What it does:**
-- Connects to MySQL database
-- Queries items that need images
+- Fetches items from Supabase (items table)
 - Fetches images from Envato Photos API
 - Downloads and processes images
 - Tracks progress in tracking file
-- Updates database with image paths
+- Updates Supabase with image paths
 
 **Features:**
 - Automatic image download
@@ -1129,13 +1128,12 @@ python tools/repeatable/python/api-tools/download_envato_images.py
 **Dependencies:**
 - Python 3.7+
 - `requests` package: `pip install requests`
-- `mysql-connector-python` package: `pip install mysql-connector-python`
 - `PIL` (Pillow) package: `pip install Pillow`
 - `.env` file with:
   - `ENVATO_API_KEY`
-  - Database credentials (DB_HOST, DB_USER, DB_PASS, DB_NAME)
+  - `SUPABASE_URL`, `SUPABASE_KEY` or `SUPABASE_SERVICE_ROLE_KEY`
 
-**Configuration:** Requires `.env` file with API keys and database credentials
+**Configuration:** Requires `.env` with ENVATO_API_KEY and Supabase credentials
 
 **Use case:** Bulk download item images from Envato Photos API
 
@@ -1335,8 +1333,7 @@ python tools/repeatable/python/books_tools/scan_books_ocr_report.py
 
 ### PHP Tools
 - PHP 7.4+
-- Database connection (via `includes/connect.php`)
-- MySQL/MariaDB database
+- Supabase (via `includes/supabase_client.php` where tools need DB access)
 
 ### Python Tools
 - Python 3.7+
@@ -1349,7 +1346,7 @@ python tools/repeatable/python/books_tools/scan_books_ocr_report.py
 - `pdf2image` - For ocr-tools/ocr_pdf.py (required for OCR)
 - `PyPDF2` or `pdfplumber` - For pdf-tools/extract_pdf_page.py
 - `requests` - For api-tools
-- `mysql-connector-python` - For api-tools/download_envato_images.py
+- (Supabase used via REST in download_envato_images.py; no mysql-connector)
 - `Pillow` (PIL) - For api-tools/download_envato_images.py
 
 ---

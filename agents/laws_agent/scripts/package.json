@@ -1,14 +1,13 @@
 {
   "name": "vbn-laws-agent-mcp",
   "version": "1.0.0",
-  "description": "MCP servers for the Valley by Night Laws Agent",
-  "main": "mcp_laws_agent_v2.js",
+  "description": "MCP servers for the Valley by Night Laws Agent (Supabase/Cloudflare only)",
+  "main": "mcp_laws_agent_v3.js",
   "scripts": {
-    "laws-agent": "node mcp_laws_agent_v2.js"
+    "laws-agent": "node mcp_laws_agent_v3.js",
+    "laws-agent-v3": "node mcp_laws_agent_v3.js"
   },
-  "dependencies": {
-    "mysql2": "^3.11.5"
-  },
+  "dependencies": {},
   "author": "",
   "license": "ISC"
 }

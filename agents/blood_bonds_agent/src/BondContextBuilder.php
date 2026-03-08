@@ -13,13 +13,13 @@ require_once __DIR__ . '/CreatureCompatibility.php';
 
 class BondContextBuilder
 {
-    /** @var mysqli */
+    /** @var mixed Legacy; ignored */
     private $conn;
 
     /** @var BloodDrinkRepository */
     private $repo;
 
-    public function __construct(mysqli $conn)
+    public function __construct($conn)
     {
         $this->conn = $conn;
         $this->repo = new BloodDrinkRepository($conn);

@@ -14,7 +14,7 @@ if (session_status() === PHP_SESSION_NONE) {
     session_start();
 }
 
-require_once __DIR__ . '/../../includes/connect.php';
+require_once __DIR__ . '/../../includes/supabase_client.php';
 require_once __DIR__ . '/../../includes/verify_role.php';
 
 header('Content-Type: application/json');
@@ -37,7 +37,7 @@ if (!$conn) {
 
 require_once __DIR__ . '/src/BondContextBuilder.php';
 
-$builder     = new BondContextBuilder($conn);
+$builder     = new BondContextBuilder(null);
 $diagnostics = $builder->buildDiagnostics();
 
 echo json_encode($diagnostics, JSON_THROW_ON_ERROR);

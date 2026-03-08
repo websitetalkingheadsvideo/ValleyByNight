@@ -15,7 +15,7 @@ if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
     exit();
 }
 
-require_once __DIR__ . '/../includes/connect.php';
+require_once __DIR__ . '/../includes/supabase_client.php';
 require_once __DIR__ . '/../includes/camarilla_positions_helper.php';
 
 $extra_css = ['css/modal.css', 'css/admin_camarilla_positions.css'];
@@ -37,21 +37,10 @@ foreach ($positions_data as $data) {
     }
 }
 
-// Get unique categories for filter
-$categories_query = "SELECT DISTINCT category FROM camarilla_positions WHERE category IS NOT NULL AND category != '' ORDER BY category";
-$categories_result = db_fetch_all($conn, $categories_query);
-$categories = [];
-foreach ($categories_result as $cat) {
-    $categories[] = $cat['category'];
-}
-
-// Get all positions for dropdown
-$all_positions_query = "SELECT position_id, name, category FROM camarilla_positions ORDER BY category, name";
-$all_positions = db_fetch_all($conn, $all_positions_query);
-
-// Get all characters for dropdown
-$characters_query = "SELECT id, character_name, clan FROM characters ORDER BY character_name";
-$all_characters = db_fetch_all($conn, $characters_query);
+$positionsRows = supabase_table_get('camarilla_positions', ['select' => 'category,name,position_id', 'order' => 'category.asc,name.asc']);
+$categories = array_values(array_unique(array_filter(array_column($positionsRows, 'category'))));
+$all_positions = $positionsRows;
+$all_characters = supabase_table_get('characters', ['select' => 'id,character_name,clan', 'order' => 'character_name.asc']);
 
 
 // Handle agent queries

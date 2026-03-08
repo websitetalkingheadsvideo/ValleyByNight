@@ -16,18 +16,13 @@ if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
     exit();
 }
 
-require_once __DIR__ . '/../includes/connect.php';
+require_once __DIR__ . '/../includes/supabase_client.php';
 require_once __DIR__ . '/../agents/paths_agent/src/PathsAgent.php';
-
-if (!$conn) {
-    echo json_encode(['success' => false, 'message' => 'Database connection failed']);
-    exit();
-}
 
 $action = $_GET['action'] ?? $_POST['action'] ?? '';
 
 try {
-    $agent = new PathsAgent($conn);
+    $agent = new PathsAgent(null);
     
     switch ($action) {
         case 'list_paths':

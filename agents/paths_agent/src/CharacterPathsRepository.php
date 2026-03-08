@@ -2,100 +2,77 @@
 declare(strict_types=1);
 
 /**
- * CharacterPathsRepository
- * 
- * Handles database queries for the character_paths table.
- * Provides methods to fetch character path ratings.
+ * CharacterPathsRepository – Supabase
+ * Handles reads for character_paths with path details.
  */
+require_once __DIR__ . '/../../../includes/supabase_client.php';
 
 class CharacterPathsRepository
 {
-    /**
-     * @var mysqli
-     */
+    /** @var mixed Legacy; ignored */
     protected $db;
-    
-    /**
-     * @var array
-     */
+    /** @var array */
     protected $config;
-    
-    /**
-     * @param mysqli $db
-     * @param array $config
-     */
+
     public function __construct($db, array $config = [])
     {
         $this->db = $db;
         $this->config = $config;
     }
-    
-    /**
-     * Fetch all paths known by a character with their ratings
-     * Joins with paths_master to include path details
-     * 
-     * @param int $characterId
-     * @return array Array of path data with ratings, each containing:
-     *               - path_id
-     *               - path_name
-     *               - path_type
-     *               - rating
-     *               - notes
-     *               - is_primary
-     */
+
     public function getByCharacterId(int $characterId): array
     {
-        $query = "SELECT cp.character_id, cp.path_id, cp.rating, cp.notes, cp.is_primary,
-                         pm.id, pm.name as path_name, pm.type as path_type, pm.description, pm.source
-                  FROM character_paths cp
-                  INNER JOIN paths_master pm ON cp.path_id = pm.id
-                  WHERE cp.character_id = ?
-                  ORDER BY cp.is_primary DESC, pm.type, pm.name";
-        
-        $result = db_select($this->db, $query, 'i', [$characterId]);
-        
-        if ($result === false) {
+        $cps = supabase_table_get('character_paths', [
+            'select' => 'character_id,path_id,rating,notes,is_primary',
+            'character_id' => 'eq.' . $characterId
+        ]);
+        if (empty($cps)) {
             return [];
         }
-        
-        $characterPaths = [];
-        while ($row = mysqli_fetch_assoc($result)) {
-            $characterPaths[] = [
-                'character_id' => (int)$row['character_id'],
-                'path_id' => (int)$row['path_id'],
-                'path_name' => $row['path_name'],
-                'path_type' => $row['path_type'],
-                'rating' => (int)$row['rating'],
-                'notes' => $row['notes'],
-                'is_primary' => (int)$row['is_primary'],
-                'description' => $row['description'],
-                'source' => $row['source']
+        $pathIds = array_unique(array_column($cps, 'path_id'));
+        $paths = supabase_table_get('paths_master', [
+            'select' => 'id,name,type,description,source',
+            'id' => 'in.(' . implode(',', array_map('intval', $pathIds)) . ')'
+        ]);
+        $pathMap = [];
+        foreach ($paths as $p) {
+            $pathMap[(int) $p['id']] = $p;
+        }
+        $out = [];
+        foreach ($cps as $cp) {
+            $pathId = (int) $cp['path_id'];
+            $pm = $pathMap[$pathId] ?? null;
+            $out[] = [
+                'character_id' => (int) $cp['character_id'],
+                'path_id' => $pathId,
+                'path_name' => $pm['name'] ?? '',
+                'path_type' => $pm['type'] ?? '',
+                'rating' => (int) ($cp['rating'] ?? 0),
+                'notes' => $cp['notes'] ?? null,
+                'is_primary' => (int) ($cp['is_primary'] ?? 0),
+                'description' => $pm['description'] ?? null,
+                'source' => $pm['source'] ?? null
             ];
         }
-        
-        return $characterPaths;
+        usort($out, static function ($a, $b) {
+            if ($a['is_primary'] !== $b['is_primary']) {
+                return $b['is_primary'] <=> $a['is_primary'];
+            }
+            $t = strcmp($a['path_type'] ?? '', $b['path_type'] ?? '');
+            return $t !== 0 ? $t : strcmp($a['path_name'] ?? '', $b['path_name'] ?? '');
+        });
+        return $out;
     }
-    
-    /**
-     * Get a character's rating for a specific path
-     * 
-     * @param int $characterId
-     * @param int $pathId
-     * @return int|null Rating or null if character doesn't know the path
-     */
+
     public function getRatingForPath(int $characterId, int $pathId): ?int
     {
-        $query = "SELECT rating 
-                  FROM character_paths 
-                  WHERE character_id = ? AND path_id = ?";
-        
-        $result = db_fetch_one($this->db, $query, 'ii', [$characterId, $pathId]);
-        
-        if ($result === null) {
-            return null;
-        }
-        
-        return (int)$result['rating'];
+        $rows = supabase_table_get('character_paths', [
+            'select' => 'rating',
+            'character_id' => 'eq.' . $characterId,
+            'path_id' => 'eq.' . $pathId,
+            'limit' => '1'
+        ]);
+        $row = $rows[0] ?? null;
+        return $row !== null ? (int) $row['rating'] : null;
     }
 }
-

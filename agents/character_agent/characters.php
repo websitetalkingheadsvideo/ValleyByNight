@@ -19,32 +19,63 @@ if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
 $action = $_GET['action'] ?? $_POST['action'] ?? '';
 $isAjax = isset($_SERVER['HTTP_X_REQUESTED_WITH']) && strtolower($_SERVER['HTTP_X_REQUESTED_WITH']) === 'xmlhttprequest';
 
-// If AJAX request, handle it and return JSON without loading the full page
+// If AJAX request, handle it and return JSON without loading the full page (Supabase)
 if ($isAjax && $action === 'search') {
-    require_once __DIR__ . '/../../includes/connect.php';
-    
+    require_once __DIR__ . '/../../includes/supabase_client.php';
     header('Content-Type: application/json');
-    
-    $query = isset($_POST['query']) ? trim($_POST['query']) : '';
-    
+    $query = isset($_POST['query']) ? trim((string) $_POST['query']) : '';
     if (empty($query)) {
         echo json_encode(['success' => false, 'error' => 'Query is required']);
         exit;
     }
-    
     try {
-        $results = searchCharacters($conn, $query);
+        $results = searchCharactersSupabase($query);
         echo json_encode(['success' => true, 'results' => $results, 'query' => $query]);
     } catch (Exception $e) {
         echo json_encode(['success' => false, 'error' => $e->getMessage()]);
     }
-    
-    mysqli_close($conn);
     exit;
 }
 
 /**
- * Search characters based on query
+ * Search characters using Supabase (used by AJAX search).
+ */
+function searchCharactersSupabase(string $query): array {
+    $q = trim($query);
+    if ($q === '') {
+        return [];
+    }
+    $pat = '*' . $q . '*';
+    $rows = supabase_table_get('characters', [
+        'select' => 'id,character_name,player_name,clan,generation,sire,concept,biography,status,pc',
+        'or' => '(character_name.ilike.' . $pat . ',player_name.ilike.' . $pat . ',clan.ilike.' . $pat . ',sire.ilike.' . $pat . ',concept.ilike.' . $pat . ',biography.ilike.' . $pat . ')',
+        'order' => 'character_name.asc',
+        'limit' => '50'
+    ]);
+    $results = [];
+    foreach ($rows as $char) {
+        $results[] = getCharacterFullDataSupabase((int) $char['id'], $char);
+    }
+    return $results;
+}
+
+function getCharacterFullDataSupabase(int $charId, array $char): array {
+    $traits = supabase_table_get('character_traits', ['select' => 'trait_name,trait_category', 'character_id' => 'eq.' . $charId]);
+    $abilities = supabase_table_get('character_abilities', ['select' => 'ability_name,ability_category,level,specialization', 'character_id' => 'eq.' . $charId]);
+    $disciplines = supabase_table_get('character_disciplines', ['select' => 'discipline_name,level', 'character_id' => 'eq.' . $charId]);
+    $backgrounds = supabase_table_get('character_backgrounds', ['select' => 'background_name,level', 'character_id' => 'eq.' . $charId]);
+    $relationships = supabase_table_get('character_relationships', ['select' => '*', 'character_id' => 'eq.' . $charId]);
+    return array_merge($char, [
+        'traits' => $traits,
+        'abilities' => $abilities,
+        'disciplines' => $disciplines,
+        'backgrounds' => $backgrounds,
+        'relationships' => $relationships
+    ]);
+}
+
+/**
+ * Search characters based on query (legacy – uses MySQL; prefer searchCharactersSupabase for new code).
  */
 function searchCharacters($conn, $query) {
     $queryLower = strtolower($query);
@@ -826,8 +857,8 @@ function getCharacterFullData($conn, $charId, $char) {
     ];
 }
 
-// Normal page load - include header and continue
-require_once __DIR__ . '/../../includes/connect.php';
+// Normal page load - include header and continue (Supabase; search is AJAX via searchCharactersSupabase)
+require_once __DIR__ . '/../../includes/supabase_client.php';
 $extra_css = ['css/admin-agents.css'];
 include __DIR__ . '/../../includes/header.php';
 ?>

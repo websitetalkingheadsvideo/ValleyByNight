@@ -1,18 +1,10 @@
 <?php
 declare(strict_types=1);
 
-// db.php - Shared database connection for VbN Style Agent MCP server
-function vbn_get_connection(): mysqli {
-    static $conn = null;
-    if ($conn instanceof mysqli) {
-        return $conn;
-    }
+// db.php - Style Agent uses Supabase for mcp_style_packs; no MySQL.
+require_once __DIR__ . '/../../includes/supabase_client.php';
 
-    require __DIR__ . '/../../includes/connect.php';
-    if (!$conn instanceof mysqli) {
-        throw new RuntimeException('Database connection is not initialized.');
-    }
-
-    return $conn;
+/** @deprecated Use supabase_table_get('mcp_style_packs', ...) instead. */
+function vbn_get_connection(): void {
+    throw new RuntimeException('MySQL removed. Style Agent uses Supabase.');
 }
-

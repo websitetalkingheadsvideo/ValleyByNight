@@ -15,64 +15,40 @@ if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
     exit();
 }
 
-require_once __DIR__ . '/../includes/connect.php';
-
-// Check database connection
-if (!isset($conn) || !$conn) {
-    die('Database connection failed. Please check your configuration.');
-}
+require_once __DIR__ . '/../includes/supabase_client.php';
 
 $extra_css = ['css/admin_table_responsive.css', 'css/admin_items.css', 'css/modal.css', 'css/modal_fullscreen.css'];
 $body_class = 'admin-items-page';
 include __DIR__ . '/../includes/header.php';
 
-// Get items statistics
-$stats_query = "SELECT 
-    COUNT(*) as total,
-    SUM(CASE WHEN type = 'Weapon' THEN 1 ELSE 0 END) as weapons,
-    SUM(CASE WHEN type = 'Armor' THEN 1 ELSE 0 END) as armor,
-    SUM(CASE WHEN type = 'Tool' THEN 1 ELSE 0 END) as tools,
-    SUM(CASE WHEN type = 'Consumable' THEN 1 ELSE 0 END) as consumables,
-    SUM(CASE WHEN type = 'Artifact' THEN 1 ELSE 0 END) as artifacts,
-    SUM(CASE WHEN type = 'Misc' THEN 1 ELSE 0 END) as misc
-    FROM items";
-$stats_result = mysqli_query($conn, $stats_query);
-if (!$stats_result) {
-    die('Database query failed: ' . mysqli_error($conn));
-}
-$stats = mysqli_fetch_assoc($stats_result);
-
-// Get all unique types and categories for filters
-$types_query = "SELECT DISTINCT type FROM items ORDER BY type";
-$types_result = mysqli_query($conn, $types_query);
-if (!$types_result) {
-    die('Types query failed: ' . mysqli_error($conn));
-}
-$item_types = [];
-while ($type_row = $types_result->fetch_assoc()) {
-    $item_types[] = $type_row['type'];
-}
-
-// Get valid categories from items_categories lookup table for dropdown
-$item_categories = [];
-$categories_query = "SELECT DISTINCT category_name FROM items_categories ORDER BY category_name";
-$categories_result = mysqli_query($conn, $categories_query);
-if ($categories_result) {
-    while ($cat_row = $categories_result->fetch_assoc()) {
-        $item_categories[] = $cat_row['category_name'];
+$itemsRows = supabase_table_get('items', ['select' => 'id,type']);
+$stats = ['total' => count($itemsRows), 'weapons' => 0, 'armor' => 0, 'tools' => 0, 'consumables' => 0, 'artifacts' => 0, 'misc' => 0];
+foreach ($itemsRows as $row) {
+    $t = (string) ($row['type'] ?? '');
+    if ($t === 'Weapon') {
+        $stats['weapons']++;
+    } elseif ($t === 'Armor') {
+        $stats['armor']++;
+    } elseif ($t === 'Tool') {
+        $stats['tools']++;
+    } elseif ($t === 'Consumable') {
+        $stats['consumables']++;
+    } elseif ($t === 'Artifact') {
+        $stats['artifacts']++;
+    } else {
+        $stats['misc']++;
     }
 }
-
-// Get all characters for equipment assignment
-$characters_query = "SELECT id, character_name, clan, player_name FROM characters ORDER BY character_name";
-$characters_result = mysqli_query($conn, $characters_query);
-if (!$characters_result) {
-    die('Characters query failed: ' . mysqli_error($conn));
+$item_types = array_values(array_unique(array_filter(array_column($itemsRows, 'type'))));
+sort($item_types);
+$item_categories = [];
+try {
+    $catRows = supabase_table_get('items_categories', ['select' => 'category_name', 'order' => 'category_name.asc']);
+    $item_categories = array_values(array_unique(array_filter(array_column($catRows, 'category_name'))));
+} catch (Throwable $e) {
+    // table may not exist
 }
-$all_characters = [];
-while ($char = $characters_result->fetch_assoc()) {
-    $all_characters[] = $char;
-}
+$all_characters = supabase_table_get('characters', ['select' => 'id,character_name,clan,player_name', 'order' => 'character_name.asc']);
 ?>
 
 <div class="container-fluid py-4 px-3 px-md-4 d-flex flex-column">

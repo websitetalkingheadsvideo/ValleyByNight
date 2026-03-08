@@ -15,36 +15,45 @@ if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
     exit();
 }
 
-require_once __DIR__ . '/../includes/connect.php';
+require_once __DIR__ . '/../includes/supabase_client.php';
 $extra_css = ['css/modal.css'];
 include __DIR__ . '/../includes/header.php';
 
-// Get locations statistics
-$stats_query = "SELECT 
-    COUNT(*) as total,
-    SUM(CASE WHEN type = 'Haven' THEN 1 ELSE 0 END) as havens,
-    SUM(CASE WHEN type = 'Elysium' THEN 1 ELSE 0 END) as elysiums,
-    SUM(CASE WHEN type = 'Domain' THEN 1 ELSE 0 END) as domains,
-    SUM(CASE WHEN type = 'Hunting Ground' THEN 1 ELSE 0 END) as hunting_grounds,
-    SUM(CASE WHEN type = 'Nightclub' THEN 1 ELSE 0 END) as nightclubs,
-    SUM(CASE WHEN type = 'Business' THEN 1 ELSE 0 END) as businesses,
-    SUM(CASE WHEN type = 'Other' THEN 1 ELSE 0 END) as other
-    FROM locations";
-// SECURITY: Using prepared statement helper for consistency
-$stats = db_fetch_one($conn, $stats_query);
-if (!$stats) {
-    $stats = ['total' => 0, 'active' => 0, 'inactive' => 0, 'haven' => 0, 'domain' => 0, 'other' => 0];
+$locationsRows = supabase_table_get('locations', ['select' => 'id,type,status,owner_type']);
+$total = count($locationsRows);
+$stats = [
+    'total' => $total,
+    'havens' => 0,
+    'elysiums' => 0,
+    'domains' => 0,
+    'hunting_grounds' => 0,
+    'nightclubs' => 0,
+    'businesses' => 0,
+    'other' => 0,
+];
+foreach ($locationsRows as $row) {
+    $t = (string) ($row['type'] ?? '');
+    if ($t === 'Haven') {
+        $stats['havens']++;
+    } elseif ($t === 'Elysium') {
+        $stats['elysiums']++;
+    } elseif ($t === 'Domain') {
+        $stats['domains']++;
+    } elseif ($t === 'Hunting Ground') {
+        $stats['hunting_grounds']++;
+    } elseif ($t === 'Nightclub') {
+        $stats['nightclubs']++;
+    } elseif ($t === 'Business') {
+        $stats['businesses']++;
+    } else {
+        $stats['other']++;
+    }
 }
-
-// Get all unique statuses and owner types for filters
-$status_rows = db_fetch_all($conn, "SELECT DISTINCT status FROM locations ORDER BY status");
-$location_statuses = array_column($status_rows, 'status');
-
-$owner_rows = db_fetch_all($conn, "SELECT DISTINCT owner_type FROM locations ORDER BY owner_type");
-$location_owners = array_column($owner_rows, 'owner_type');
-
-// Get all characters for assignment
-$all_characters = db_fetch_all($conn, "SELECT id, character_name, clan, player_name FROM characters ORDER BY character_name");
+$location_statuses = array_values(array_unique(array_filter(array_column($locationsRows, 'status'))));
+sort($location_statuses);
+$location_owners = array_values(array_unique(array_filter(array_column($locationsRows, 'owner_type'))));
+sort($location_owners);
+$all_characters = supabase_table_get('characters', ['select' => 'id,character_name,clan,player_name', 'order' => 'character_name.asc']);
 ?>
 
 <div class="container-fluid py-4 px-3 px-md-4">

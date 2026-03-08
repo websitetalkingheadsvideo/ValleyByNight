@@ -12,9 +12,7 @@
  *
  * REQUIREMENTS:
  * - Must be run inside VbN codebase
- * - Uses existing mysqli connection from includes/connect.php
- * - NO environment variables
- * - NO alternate DB connections
+ * - Uses Supabase REST (includes/supabase_client.php)
  */
 
 declare(strict_types=1);
@@ -22,15 +20,7 @@ declare(strict_types=1);
 error_reporting(E_ALL);
 ini_set('display_errors', '1');
 
-/* =========================================================
-   Bootstrap VbN DB connection
-   ========================================================= */
-
-require_once __DIR__ . '/includes/connect.php';
-
-if (!isset($conn) || !($conn instanceof mysqli)) {
-    die("Database connection not available. connect.php must define \$conn (mysqli).\n");
-}
+require_once __DIR__ . '/includes/supabase_client.php';
 
 /* =========================================================
    Config
@@ -53,31 +43,16 @@ if (!$files) {
    ========================================================= */
 
 $existingRituals = [];
-$checkStmt = $conn->prepare("SELECT name FROM rituals_master");
-if ($checkStmt) {
-    $checkStmt->execute();
-    $result = $checkStmt->get_result();
-    while ($row = $result->fetch_assoc()) {
-        // Unique constraint is on name only, so use name as key (case-insensitive)
-        $key = strtolower(trim($row['name']));
-        $existingRituals[$key] = true;
+try {
+    $allNames = supabase_table_get('rituals_master', ['select' => 'name']);
+    foreach ($allNames as $row) {
+        $key = strtolower(trim((string) ($row['name'] ?? '')));
+        if ($key !== '') {
+            $existingRituals[$key] = true;
+        }
     }
-    $checkStmt->close();
-}
-
-/* =========================================================
-   Prepared statement (INSERT only)
-   ========================================================= */
-
-$sql = "
-INSERT INTO rituals_master
-  (name, type, level, description, system_text, requirements, ingredients, source)
-VALUES (?, ?, ?, ?, ?, ?, ?, ?)
-";
-
-$stmt = $conn->prepare($sql);
-if (!$stmt) {
-    die("Prepare failed: " . $conn->error . "\n");
+} catch (Throwable $e) {
+    die("Failed to load existing rituals: " . $e->getMessage() . "\n");
 }
 
 /* =========================================================
@@ -135,35 +110,28 @@ foreach ($files as $path) {
         $ingredients = nullIfEmpty($r['ingredients'] ?? '');
         $source = nullIfEmpty($r['source'] ?? '');
 
-        $stmt->bind_param(
-            'ssisssss',
-            $name,
-            $type,
-            $level,
-            $description,
-            $system_text,
-            $requirements,
-            $ingredients,
-            $source
-        );
-
-        if (!$stmt->execute()) {
-            echo "ERROR inserting {$name} (Level {$level}): {$stmt->error}\n";
+        $payload = [
+            'name' => $name,
+            'type' => $type,
+            'level' => $level,
+            'description' => $description,
+            'system_text' => $system_text,
+            'requirements' => $requirements,
+            'ingredients' => $ingredients,
+            'source' => $source,
+        ];
+        $res = supabase_rest_request('POST', '/rest/v1/rituals_master', [], $payload, ['Prefer: return=minimal']);
+        if ($res['error'] !== null) {
+            echo "ERROR inserting {$name} (Level {$level}): " . $res['error'] . "\n";
             $skipped++;
             continue;
         }
-
-        if ($stmt->affected_rows === 1) {
-            $inserted++;
-            // Add to existing set to avoid duplicates in same import run
-            $existingRituals[$key] = true;
-        }
+        $inserted++;
+        $existingRituals[$key] = true;
     }
 
     echo "Processed {$filename}: " . count($rituals) . " rituals\n";
 }
-
-$stmt->close();
 
 echo "Import complete. Inserted: {$inserted}, Skipped: {$skipped}\n";
 

@@ -2,7 +2,9 @@
 
 Generated on 2026-03-06.
 
-This file lists PHP files still using legacy MySQL patterns (`mysqli_*` / `mysql_*`) or the current MySQL connector in `includes/connect.php`.
+**Status (post-migration):** MySQL has been removed. `includes/connect.php` is a stub (loads Supabase only; `$conn = null`; `db_*` throw). All application and admin critical paths use `includes/supabase_client.php`. Scripts under `database/`, `tools/repeatable/`, and some admin/agent files still `require connect.php` and will throw if they call `$conn` or `db_*` until migrated to Supabase.
+
+This file lists PHP files that were using legacy MySQL patterns; many have since been migrated.
 
 ## Connection files already patched in this pass
 

@@ -15,31 +15,19 @@ if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
     exit();
 }
 
-require_once __DIR__ . '/../includes/connect.php';
+require_once __DIR__ . '/../includes/supabase_client.php';
 include __DIR__ . '/../includes/header.php';
 
-// Get all unique types and categories for filters
-$types_query = "SELECT DISTINCT type FROM items ORDER BY type";
-$types_result = mysqli_query($conn, $types_query);
-$item_types = [];
-while ($type_row = $types_result->fetch_assoc()) {
-    $item_types[] = $type_row['type'];
-}
+$itemsRows = supabase_table_get('items', ['select' => 'type,category', 'order' => 'type.asc']);
+$item_types = array_values(array_unique(array_filter(array_column($itemsRows, 'type'))));
+sort($item_types);
+$item_categories = array_values(array_unique(array_filter(array_column($itemsRows, 'category'))));
+sort($item_categories);
 
-$categories_query = "SELECT DISTINCT category FROM items ORDER BY category";
-$categories_result = mysqli_query($conn, $categories_query);
-$item_categories = [];
-while ($cat_row = $categories_result->fetch_assoc()) {
-    $item_categories[] = $cat_row['category'];
-}
-
-// Get all characters for equipment assignment
-$characters_query = "SELECT id, character_name, clan, player_name FROM characters ORDER BY character_name";
-$characters_result = mysqli_query($conn, $characters_query);
-$all_characters = [];
-while ($char = $characters_result->fetch_assoc()) {
-    $all_characters[] = $char;
-}
+$all_characters = supabase_table_get('characters', [
+    'select' => 'id,character_name,clan,player_name',
+    'order' => 'character_name.asc'
+]);
 ?>
 
 <div class="container-fluid py-4 px-3 px-md-4">

@@ -1,73 +1,48 @@
 <?php
 /**
- * Add Equipment to Character API
- * Wrapper for api_admin_equipment_assignments.php for admin_items.js compatibility
+ * Add Equipment to Character API (Supabase)
  */
+declare(strict_types=1);
 session_start();
 header('Content-Type: application/json');
 
-// Check authentication
 if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
     echo json_encode(['success' => false, 'error' => 'Unauthorized']);
-    exit();
+    exit;
 }
 
-require_once __DIR__ . '/../includes/connect.php';
+require_once __DIR__ . '/../includes/supabase_client.php';
 
-$input = json_decode(file_get_contents('php://input'), true);
-
-$item_id = intval($input['item_id'] ?? 0);
-$character_id = intval($input['character_id'] ?? 0);
-$quantity = intval($input['quantity'] ?? 1);
+$input = json_decode((string) file_get_contents('php://input'), true) ?? [];
+$item_id = (int) ($input['item_id'] ?? 0);
+$character_id = (int) ($input['character_id'] ?? 0);
+$quantity = (int) ($input['quantity'] ?? 1);
 
 if ($item_id <= 0 || $character_id <= 0) {
     echo json_encode(['success' => false, 'error' => 'Invalid item_id or character_id']);
-    exit();
+    exit;
 }
 
 try {
-    // Check if assignment already exists
-    $check_query = "SELECT id, quantity FROM character_equipment WHERE item_id = ? AND character_id = ?";
-    $stmt = mysqli_prepare($conn, $check_query);
-    mysqli_stmt_bind_param($stmt, 'ii', $item_id, $character_id);
-    mysqli_stmt_execute($stmt);
-    $result = mysqli_stmt_get_result($stmt);
-    $existing = mysqli_fetch_assoc($result);
-    
-    if ($existing) {
-        // Update quantity
-        $new_quantity = $existing['quantity'] + $quantity;
-        $update_query = "UPDATE character_equipment SET quantity = ? WHERE id = ?";
-        $stmt = mysqli_prepare($conn, $update_query);
-        mysqli_stmt_bind_param($stmt, 'ii', $new_quantity, $existing['id']);
-        mysqli_stmt_execute($stmt);
-        
-        echo json_encode([
-            'success' => true,
-            'message' => 'Equipment quantity updated',
-            'quantity' => $new_quantity
-        ]);
-    } else {
-        // Insert new assignment
-        $insert_query = "INSERT INTO character_equipment (character_id, item_id, quantity) VALUES (?, ?, ?)";
-        $stmt = mysqli_prepare($conn, $insert_query);
-        mysqli_stmt_bind_param($stmt, 'iii', $character_id, $item_id, $quantity);
-        mysqli_stmt_execute($stmt);
-        
-        echo json_encode([
-            'success' => true,
-            'message' => 'Equipment assigned successfully',
-            'quantity' => $quantity
-        ]);
-    }
-    
-} catch (Exception $e) {
-    echo json_encode([
-        'success' => false,
-        'error' => $e->getMessage()
+    $existing = supabase_table_get('character_equipment', [
+        'select' => 'id,quantity',
+        'item_id' => 'eq.' . $item_id,
+        'character_id' => 'eq.' . $character_id,
+        'limit' => '1'
     ]);
+    if (!empty($existing)) {
+        $row = $existing[0];
+        $new_quantity = (int) ($row['quantity'] ?? 0) + $quantity;
+        supabase_rest_request('PATCH', '/rest/v1/character_equipment', ['id' => 'eq.' . $row['id']], ['quantity' => $new_quantity], ['Prefer: return=minimal']);
+        echo json_encode(['success' => true, 'message' => 'Equipment quantity updated', 'quantity' => $new_quantity]);
+    } else {
+        supabase_rest_request('POST', '/rest/v1/character_equipment', [], [
+            'character_id' => $character_id,
+            'item_id' => $item_id,
+            'quantity' => $quantity
+        ], ['Prefer: return=minimal']);
+        echo json_encode(['success' => true, 'message' => 'Equipment assigned successfully', 'quantity' => $quantity]);
+    }
+} catch (Exception $e) {
+    echo json_encode(['success' => false, 'error' => $e->getMessage()]);
 }
-
-mysqli_close($conn);
-?>
-

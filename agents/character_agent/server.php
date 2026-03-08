@@ -1,12 +1,10 @@
 <?php
-// server.php - Valley by Night Character MCP (PHP + MySQL)
-// Minimal STDIN/STDOUT loop exposing tools defined in mcp.json.
-
-// Suppress any output that might interfere with JSON-RPC
+// server.php - Valley by Night Character MCP (PHP + Supabase)
 error_reporting(E_ALL);
 ini_set('display_errors', 0);
 ini_set('log_errors', 1);
 
+require_once __DIR__ . '/../../includes/supabase_client.php';
 require __DIR__ . '/db.php';
 
 /**
@@ -39,179 +37,82 @@ function like_pattern(?string $value): ?string {
 }
 
 /**
- * Tool: listCharacters
- * Simple listing with optional clan / sect filters.
+ * Tool: listCharacters (Supabase)
  */
 function tool_listCharacters(array $input): array {
-    $conn  = vbn_get_connection();
     $clan  = $input['clan'] ?? null;
     $sect  = $input['sect'] ?? null;
-    $limit = isset($input['limit']) ? (int)$input['limit'] : 50;
+    $limit = isset($input['limit']) ? (int) $input['limit'] : 50;
     if ($limit <= 0) {
         $limit = 50;
     }
-
-    $sql = "SELECT id, character_name, clan, sect, status, title
-            FROM characters
-            WHERE 1=1";
-    $types = '';
-    $params = [];
-
+    $query = [
+        'select' => 'id,character_name,clan,sect,status,title',
+        'order' => 'character_name.asc',
+        'limit' => (string) $limit
+    ];
     if (!empty($clan)) {
-        $sql .= " AND clan = ?";
-        $types .= 's';
-        $params[] = $clan;
+        $query['clan'] = 'eq.' . $clan;
     }
     if (!empty($sect)) {
-        $sql .= " AND sect = ?";
-        $types .= 's';
-        $params[] = $sect;
+        $query['sect'] = 'eq.' . $sect;
     }
-
-    $sql .= " ORDER BY character_name ASC LIMIT ?";
-    $types .= 'i';
-    $params[] = $limit;
-
-    $stmt = mysqli_prepare($conn, $sql);
-    if (!$stmt) {
-        return ['ok' => false, 'error' => 'Prepare failed: ' . mysqli_error($conn)];
-    }
-
-    if (!empty($types)) {
-        mysqli_stmt_bind_param($stmt, $types, ...$params);
-    }
-
-    if (!mysqli_stmt_execute($stmt)) {
-        mysqli_stmt_close($stmt);
-        return ['ok' => false, 'error' => 'Execute failed: ' . mysqli_stmt_error($stmt)];
-    }
-
-    $result = mysqli_stmt_get_result($stmt);
-    $rows = mysqli_fetch_all($result, MYSQLI_ASSOC);
-    mysqli_stmt_close($stmt);
-
-    return [
-        'ok' => true,
-        'results' => $rows
-    ];
+    $rows = supabase_table_get('characters', $query);
+    return ['ok' => true, 'results' => $rows];
 }
 
 /**
- * Tool: searchCharacters
- * Flexible search:
- *  - specific fields: character_name, clan, sect, status, title
- *  - q: free-text across name, clan, sect, status, title, character_json
+ * Tool: searchCharacters (Supabase) – field filters and optional q (ilike across columns).
  */
 function tool_searchCharacters(array $input): array {
-    $conn  = vbn_get_connection();
-    $limit = isset($input['limit']) ? (int)$input['limit'] : 100;
+    $limit = isset($input['limit']) ? (int) $input['limit'] : 100;
     if ($limit <= 0) {
         $limit = 100;
     }
-
-    $sql = "SELECT id, character_name, clan, sect, status, title
-            FROM characters
-            WHERE 1=1";
-    $types = '';
-    $params = [];
-
-    // Specific field filters (LIKE for fuzzy matching).
+    $query = [
+        'select' => 'id,character_name,clan,sect,status,title',
+        'order' => 'character_name.asc',
+        'limit' => (string) $limit
+    ];
     $fieldMap = [
         'character_name' => 'character_name',
-        'clan'           => 'clan',
-        'sect'           => 'sect',
-        'status'         => 'status',
-        'title'          => 'title'
+        'clan' => 'clan',
+        'sect' => 'sect',
+        'status' => 'status',
+        'title' => 'title'
     ];
-
     foreach ($fieldMap as $inputKey => $column) {
         if (!empty($input[$inputKey])) {
-            $pattern = like_pattern($input[$inputKey]);
-            $sql .= " AND {$column} LIKE ?";
-            $types .= 's';
-            $params[] = $pattern;
+            $term = '%' . $input[$inputKey] . '%';
+            $query[$column] = 'ilike.' . $term;
         }
     }
-
-    // Free-text search across common fields + JSON.
     if (!empty($input['q'])) {
-        $qPattern = like_pattern($input['q']);
-        $sql .= " AND (character_name LIKE ?
-                   OR clan LIKE ?
-                   OR sect LIKE ?
-                   OR status LIKE ?
-                   OR title LIKE ?
-                   OR character_json LIKE ?)";
-        $types .= 'ssssss';
-        $params[] = $qPattern;
-        $params[] = $qPattern;
-        $params[] = $qPattern;
-        $params[] = $qPattern;
-        $params[] = $qPattern;
-        $params[] = $qPattern;
+        $q = $input['q'];
+        $pat = '*' . $q . '*'; // PostgREST * = % for ilike
+        $query['or'] = '(character_name.ilike.' . $pat . ',clan.ilike.' . $pat . ',sect.ilike.' . $pat . ',status.ilike.' . $pat . ',title.ilike.' . $pat . ',character_json.ilike.' . $pat . ')';
     }
-
-    $sql .= " ORDER BY character_name ASC LIMIT ?";
-    $types .= 'i';
-    $params[] = $limit;
-
-    $stmt = mysqli_prepare($conn, $sql);
-    if (!$stmt) {
-        return ['ok' => false, 'error' => 'Prepare failed: ' . mysqli_error($conn)];
-    }
-
-    if (!empty($types)) {
-        mysqli_stmt_bind_param($stmt, $types, ...$params);
-    }
-
-    if (!mysqli_stmt_execute($stmt)) {
-        mysqli_stmt_close($stmt);
-        return ['ok' => false, 'error' => 'Execute failed: ' . mysqli_stmt_error($stmt)];
-    }
-
-    $result = mysqli_stmt_get_result($stmt);
-    $rows = mysqli_fetch_all($result, MYSQLI_ASSOC);
-    mysqli_stmt_close($stmt);
-
-    return [
-        'ok'      => true,
-        'results' => $rows
-    ];
+    $rows = supabase_table_get('characters', $query);
+    return ['ok' => true, 'results' => $rows];
 }
 
 /**
- * Tool: getCharacter
- * Returns a decoded character_json plus some DB metadata.
+ * Tool: getCharacter (Supabase)
  */
 function tool_getCharacter(array $input): array {
     if (!isset($input['id'])) {
         return ['ok' => false, 'error' => 'Missing required field: id'];
     }
-
-    $id   = (int)$input['id'];
-    $conn = vbn_get_connection();
-
-    $stmt = mysqli_prepare($conn, "SELECT id, character_name, clan, sect, status, title, character_json
-                                    FROM characters
-                                    WHERE id = ?");
-    if (!$stmt) {
-        return ['ok' => false, 'error' => 'Prepare failed: ' . mysqli_error($conn)];
-    }
-
-    mysqli_stmt_bind_param($stmt, 'i', $id);
-    if (!mysqli_stmt_execute($stmt)) {
-        mysqli_stmt_close($stmt);
-        return ['ok' => false, 'error' => 'Execute failed: ' . mysqli_stmt_error($stmt)];
-    }
-
-    $result = mysqli_stmt_get_result($stmt);
-    $row = mysqli_fetch_assoc($result);
-    mysqli_stmt_close($stmt);
-
+    $id = (int) $input['id'];
+    $rows = supabase_table_get('characters', [
+        'select' => 'id,character_name,clan,sect,status,title,character_json',
+        'id' => 'eq.' . $id,
+        'limit' => '1'
+    ]);
+    $row = $rows[0] ?? null;
     if (!$row) {
         return ['ok' => false, 'error' => 'Character not found'];
     }
-
     $character = [];
     if (!empty($row['character_json'])) {
         $decoded = json_decode($row['character_json'], true);
@@ -219,56 +120,31 @@ function tool_getCharacter(array $input): array {
             $character = $decoded;
         }
     }
-
     $character['_db_meta'] = [
-        'id'             => $row['id'],
-        'character_name' => $row['character_name'],
-        'clan'           => $row['clan'],
-        'sect'           => $row['sect'],
-        'status'         => $row['status'],
-        'title'          => $row['title'],
+        'id' => $row['id'],
+        'character_name' => $row['character_name'] ?? '',
+        'clan' => $row['clan'] ?? '',
+        'sect' => $row['sect'] ?? '',
+        'status' => $row['status'] ?? '',
+        'title' => $row['title'] ?? '',
     ];
-
-    return [
-        'ok'        => true,
-        'character' => $character
-    ];
+    return ['ok' => true, 'character' => $character];
 }
 
 /**
- * Tool: updateCharacterJson
- * Overwrites the character_json column for a given id.
+ * Tool: updateCharacterJson (Supabase)
  */
 function tool_updateCharacterJson(array $input): array {
     if (!isset($input['id'], $input['character']) || !is_array($input['character'])) {
         return ['ok' => false, 'error' => 'Missing id or character object'];
     }
-
-    $id        = (int)$input['id'];
-    $character = $input['character'];
-
-    $json = json_encode($character, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
-
-    $conn = vbn_get_connection();
-    $stmt = mysqli_prepare($conn, "UPDATE characters
-                                    SET character_json = ?
-                                    WHERE id = ?");
-    if (!$stmt) {
-        return ['ok' => false, 'error' => 'Prepare failed: ' . mysqli_error($conn)];
+    $id = (int) $input['id'];
+    $json = json_encode($input['character'], JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
+    $res = supabase_rest_request('PATCH', '/rest/v1/characters', ['id' => 'eq.' . $id], ['character_json' => $json], ['Prefer: return=minimal']);
+    if ($res['error'] !== null) {
+        return ['ok' => false, 'error' => $res['error']];
     }
-
-    mysqli_stmt_bind_param($stmt, 'si', $json, $id);
-    if (!mysqli_stmt_execute($stmt)) {
-        mysqli_stmt_close($stmt);
-        return ['ok' => false, 'error' => 'Execute failed: ' . mysqli_stmt_error($stmt)];
-    }
-
-    mysqli_stmt_close($stmt);
-
-    return [
-        'ok' => true,
-        'id' => $id
-    ];
+    return ['ok' => true, 'id' => $id];
 }
 
 /**

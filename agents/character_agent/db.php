@@ -1,17 +1,10 @@
 <?php
 declare(strict_types=1);
 
-// db.php - Shared database connection for VbN Character MCP server
-function vbn_get_connection(): mysqli {
-    static $conn = null;
-    if ($conn instanceof mysqli) {
-        return $conn;
-    }
+// character_agent uses Supabase only
+require_once __DIR__ . '/../../includes/supabase_client.php';
 
-    require __DIR__ . '/../../includes/connect.php';
-    if (!$conn instanceof mysqli) {
-        throw new RuntimeException('Database connection is not initialized.');
-    }
-
-    return $conn;
+/** @deprecated Do not use; character_agent uses Supabase directly. */
+function vbn_get_connection(): void {
+    throw new RuntimeException('MySQL removed. Character agent uses Supabase.');
 }

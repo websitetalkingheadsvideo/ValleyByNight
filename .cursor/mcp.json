@@ -3,16 +3,28 @@
     "laws-agent": {
       "command": "node",
       "args": [
-        "V:\\agents\\laws_agent\\scripts\\mcp_laws_agent_v2.js"
+        "V:\\agents\\laws_agent\\scripts\\mcp_laws_agent_v3.js"
       ],
       "env": {
         "ANTHROPIC_API_KEY": "${env:ANTHROPIC_API_KEY}",
         "ANTHROPIC_MODEL": "${env:ANTHROPIC_MODEL}",
-        "DB_HOST": "${env:DB_HOST}",
-        "DB_USER": "${env:DB_USER}",
-        "DB_PASS": "${env:DB_PASS}",
-        "DB_NAME": "${env:DB_NAME}",
+        "CF_ACCOUNT_ID": "${env:CF_ACCOUNT_ID}",
+        "CF_AUTORAG_NAME": "${env:CF_AUTORAG_NAME}",
+        "CF_API_TOKEN": "${env:CF_API_TOKEN}",
         "LAWS_AGENT_URL": "http://192.168.0.155/"
+      }
+    },
+    "laws-agent-v3": {
+      "command": "node",
+      "args": [
+        "V:\\agents\\laws_agent\\scripts\\mcp_laws_agent_v3.js"
+      ],
+      "env": {
+        "ANTHROPIC_API_KEY": "${env:ANTHROPIC_API_KEY}",
+        "ANTHROPIC_MODEL": "${env:ANTHROPIC_MODEL}",
+        "CF_ACCOUNT_ID": "${env:CF_ACCOUNT_ID}",
+        "CF_AUTORAG_NAME": "${env:CF_AUTORAG_NAME}",
+        "CF_API_TOKEN": "${env:CF_API_TOKEN}"
       }
     },
     "context7": {
