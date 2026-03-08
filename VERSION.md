@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.205
+## Current Version: 0.9.206
+
+**Date:** 2026-03-08  
+**Type:** Patch (Git sync: Cloudflare DDNS and admin scripts; api-tools cloudflare_ddns, README and proxy status updates)
+
+## Previous Version: 0.9.205
 
 **Date:** 2026-03-08  
 **Type:** Patch (Git sync: Sarah Hansen image prompt and cinematic intro; Cloudflare DNS proxy status admin; tools/repeatable api-tools and docs)

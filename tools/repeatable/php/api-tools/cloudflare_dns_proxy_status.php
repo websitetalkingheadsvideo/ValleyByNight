@@ -4,7 +4,9 @@ declare(strict_types=1);
  * Cloudflare DNS proxy status – list zones and DNS records with proxied (orange cloud) flag.
  * Use to confirm the site is behind Cloudflare proxy so you can host with a dynamic IP.
  *
- * Requires CLOUDFLARE_API_TOKEN in .env or environment (API Token with Zone:Read, DNS:Read).
+ * Auth (one of):
+ *   - CLOUDFLARE_API_TOKEN (API Token with Zone + DNS Read, or use scoped token)
+ *   - CLOUDFLARE_EMAIL + CLOUDFLARE_API_KEY (Global API Key – full account access)
  */
 
 $is_cli = php_sapi_name() === 'cli';
@@ -34,11 +36,20 @@ if (file_exists($envFile)) {
 }
 
 $token = getenv('CLOUDFLARE_API_TOKEN');
-if ($token === false || $token === '') {
+$email = getenv('CLOUDFLARE_EMAIL');
+$apiKey = getenv('CLOUDFLARE_API_KEY');
+
+$auth = null;
+if ($token !== false && $token !== '') {
+    $auth = ['type' => 'token', 'token' => $token];
+} elseif ($email !== false && $email !== '' && $apiKey !== false && $apiKey !== '') {
+    $auth = ['type' => 'key', 'email' => $email, 'key' => $apiKey];
+}
+if ($auth === null) {
     if ($is_cli) {
-        echo "Error: CLOUDFLARE_API_TOKEN not set. Add it to .env or export it.\n";
+        echo "Error: Set CLOUDFLARE_API_TOKEN, or both CLOUDFLARE_EMAIL and CLOUDFLARE_API_KEY, in .env\n";
     } else {
-        echo '<!DOCTYPE html><html><body><p>Error: CLOUDFLARE_API_TOKEN not set. Add it to .env or server environment.</p></body></html>';
+        echo '<!DOCTYPE html><html><body><p>Error: Set CLOUDFLARE_API_TOKEN, or both CLOUDFLARE_EMAIL and CLOUDFLARE_API_KEY, in .env</p></body></html>';
     }
     exit(1);
 }
@@ -55,7 +66,7 @@ if ($is_cli && isset($argv)) {
         echo "Usage: php cloudflare_dns_proxy_status.php [--zone=example.com]\n";
         echo "  --zone=NAME  Optional: only show this zone (e.g. vbn-game.com).\n";
         echo "  --help       This message.\n";
-        echo "\nRequires CLOUDFLARE_API_TOKEN in .env or environment.\n";
+        echo "\nAuth: CLOUDFLARE_API_TOKEN, or CLOUDFLARE_EMAIL + CLOUDFLARE_API_KEY (Global API Key), in .env\n";
         echo "Proxied = orange cloud (traffic via Cloudflare; safe for dynamic IP).\n";
         exit(0);
     }
@@ -66,18 +77,27 @@ if ($is_cli && isset($argv)) {
     }
 }
 
-function cf_get(string $token, string $path): array {
+function cf_get_headers(array $auth): array {
+    if ($auth['type'] === 'token') {
+        return ['Authorization: Bearer ' . $auth['token'], 'Content-Type: application/json'];
+    }
+    return [
+        'X-Auth-Email: ' . $auth['email'],
+        'X-Auth-Key: ' . $auth['key'],
+        'Content-Type: application/json',
+    ];
+}
+
+function cf_get(array $auth, string $path): array {
     $url = 'https://api.cloudflare.com/client/v4' . $path;
+    $headers = cf_get_headers($auth);
     $raw = null;
 
     if (function_exists('curl_init')) {
         $ch = curl_init($url);
         curl_setopt_array($ch, [
             CURLOPT_RETURNTRANSFER => true,
-            CURLOPT_HTTPHEADER => [
-                'Authorization: Bearer ' . $token,
-                'Content-Type: application/json',
-            ],
+            CURLOPT_HTTPHEADER => $headers,
             CURLOPT_TIMEOUT => 15,
         ]);
         $raw = curl_exec($ch);
@@ -92,10 +112,11 @@ function cf_get(string $token, string $path): array {
             throw new RuntimeException('Cloudflare API HTTP ' . $code . ': ' . $url . ' — ' . $preview);
         }
     } else {
+        $headerStr = implode("\r\n", $headers) . "\r\n";
         $ctx = stream_context_create([
             'http' => [
                 'method' => 'GET',
-                'header' => "Authorization: Bearer {$token}\r\nContent-Type: application/json\r\n",
+                'header' => $headerStr,
                 'timeout' => 15,
             ],
         ]);
@@ -118,7 +139,7 @@ function cf_get(string $token, string $path): array {
 }
 
 try {
-    $zonesData = cf_get($token, '/zones?per_page=50');
+    $zonesData = cf_get($auth, '/zones?per_page=50');
     $zones = $zonesData['result'] ?? [];
     if (!is_array($zones)) {
         $zones = [];
@@ -156,7 +177,7 @@ foreach ($zones as $zone) {
     if ($zoneId === '') {
         continue;
     }
-    $recordsData = cf_get($token, '/zones/' . $zoneId . '/dns_records?per_page=100');
+    $recordsData = cf_get($auth, '/zones/' . $zoneId . '/dns_records?per_page=100');
     $records = $recordsData['result'] ?? [];
     if (!is_array($records)) {
         $records = [];
