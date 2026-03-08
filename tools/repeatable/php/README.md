@@ -13,6 +13,9 @@ Reusable tools for database operations including imports, exports, audits, and m
 ### [Data Tools](data-tools/README.md)
 Tools for generating reports, summaries, and data analysis from the database.
 
+### [API Tools](api-tools/README.md)
+Tools that call external APIs (e.g. Cloudflare DNS proxy status).
+
 ## Common Dependencies
 
 All PHP tools require:

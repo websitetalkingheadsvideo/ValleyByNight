@@ -9,6 +9,7 @@ This document provides a comprehensive guide to all reusable tools in `tools/rep
   - [Database Tools](#database-tools)
   - [Character Data Tools](#character-data-tools)
   - [Data Tools](#data-tools)
+  - [API Tools](#api-tools-php)
 - [Python Tools](#python-tools)
   - [JSON Tools](#json-tools)
   - [Text Tools](#text-tools)
@@ -698,6 +699,41 @@ php tools/repeatable/php/data-tools/generate_project_summary.php
 **Target Audience:** Storytellers/GMs familiar with Laws of the Night Revised
 
 **Use case:** Create up-to-date project overview for documentation or presentation
+
+---
+
+### API Tools (PHP)
+
+Tools that call external APIs.
+
+#### cloudflare_dns_proxy_status.php
+
+**Purpose:** List Cloudflare zones and DNS records and show whether each record is **proxied** (orange cloud) or DNS-only. Use to confirm the site is behind Cloudflare so you can host with a dynamic IP.
+
+**Usage:**
+```bash
+# All zones
+php tools/repeatable/php/api-tools/cloudflare_dns_proxy_status.php
+
+# One zone only
+php tools/repeatable/php/api-tools/cloudflare_dns_proxy_status.php --zone=vbn-game.com
+
+# Help
+php tools/repeatable/php/api-tools/cloudflare_dns_proxy_status.php --help
+```
+
+**Web:** Open in browser; optional `?zone=vbn-game.com` to filter.
+
+**What it does:**
+- Reads `CLOUDFLARE_API_TOKEN` from `.env` (project root) or environment
+- Calls Cloudflare API: list zones, then list DNS records per zone
+- Outputs each record's type, name, content, and **proxied** (yes = orange cloud)
+
+**Output:** CLI: text table. Web: HTML table. No DB or file writes.
+
+**Dependencies:** PHP 7.4+, `allow_url_fopen`. API Token with Zone:Read, DNS:Read.
+
+**Use case:** Verify proxy status for dynamic-IP hosting; when proxied, update A record when your IP changes.
 
 ---
 

@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.203
+## Current Version: 0.9.205
+
+**Date:** 2026-03-08  
+**Type:** Patch (Git sync: Sarah Hansen image prompt and cinematic intro; Cloudflare DNS proxy status admin; tools/repeatable api-tools and docs)
+
+## Previous Version: 0.9.203
 
 **Date:** 2026-03-07  
 **Type:** Patch (Git sync: reference character images moved to Images/; Solomon Reaves, Cordelia Fairchild; cleanup)
