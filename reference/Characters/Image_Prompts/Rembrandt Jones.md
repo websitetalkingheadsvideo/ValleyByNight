@@ -1,3 +1,5 @@
+![Rembrandt Jones](../Images/Rembrandt_Jones.png)
+
 Prompt:
 Square portrait of Rembrandt Jones, a Toreador from Valley by Night. He appears mid-40s, handsome in a classic Rat Pack way, with a tailored jacket and silk shirt that feel elegant but slightly dated. His expression is warm and charming, but his eyes are intensely focused, almost distracted by something just out of frame. Lighting is moody and warm, with desert amber highlights and deep noir shadows. Subtle neon glow from an unseen sign reflects along one edge of his face, suggesting roadside Americana. Background is softly blurred — hints of an upscale Scottsdale gallery mixed with kitschy neon elements. The image feels intimate, sincere, and quietly unsettling, like a film still from a forgotten era.
 

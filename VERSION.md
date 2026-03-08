@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.207
+## Current Version: 0.9.208
+
+**Date:** 2026-03-08  
+**Type:** Patch (Rembrandt Jones portrait: 速推AI + style-agent MCP; image and prompt doc update)
+
+## Previous Version: 0.9.207
 
 **Date:** 2026-03-08  
 **Type:** Patch (Style Agent MCP: inputSchema for tools, MCP tools/call result format with content/isError)
