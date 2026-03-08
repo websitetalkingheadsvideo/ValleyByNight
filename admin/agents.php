@@ -121,6 +121,24 @@ $agents = [
         ]
     ],
     [
+        "name" => "Blood Bonds Agent",
+        "slug" => "blood_bonds_agent",
+        "description" => "Reads blood drink events, derives bond stage (0-3), provides narrative context for Dialogue Agent. Never enforces behavior.",
+        "data_access" => [
+            "character_blood_drinks table",
+            "/agents/blood_bonds_agent/"
+        ],
+        "purpose" => "Provide bond context for dialogue branching and narrative systems. Diagnostics for orphaned records and invalid creature pairs.",
+        "status" => "Active",
+        "last_event" => "Ready to derive bond stage from drink history.",
+        "actions" => [
+            [
+                "label" => "Launch Blood Bonds Agent",
+                "url" => "../agents/blood_bonds_agent/index.php"
+            ]
+        ]
+    ],
+    [
         "name" => "Ability Agent",
         "slug" => "ability_agent",
         "description" => "Validates and maps ability data from external/source formats into the project's canonical ability schema. Provides validation, alias resolution, and integration with character import workflow.",

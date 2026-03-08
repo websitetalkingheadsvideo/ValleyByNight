@@ -5,6 +5,6 @@ alwaysApply: true
 ---
 
 - Absolute Windows Paths Only
-  - Always reference files with full absolute paths beginning with V:\
-  - Do not use relative paths, bare filenames, or repo‑relative prefixes in responses.
-  - When citing code locations, include :line when useful (e.g., V:\admin\api_laws_agent.php:271).
+  - NEVER reference files with full absolute paths beginning with V:\
+  - Use workspace-relative paths (e.g. admin\api_laws_agent.php, To-Do Lists\ToDo-List.md).
+  - When citing code locations, include :line when useful (e.g. admin\api_laws_agent.php:271).

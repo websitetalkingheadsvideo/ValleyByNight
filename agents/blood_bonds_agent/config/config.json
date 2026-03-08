@@ -1,0 +1,9 @@
+{
+  "agent_name": "blood_bonds_agent",
+  "description": "Reads blood drink events, derives bond stage, provides narrative context. Never enforces.",
+  "design_law": "Blood bonds create narrative tension, not mechanical control.",
+  "api_endpoints": {
+    "bond_context": "api_get_bond_context.php",
+    "diagnostics": "api_get_diagnostics.php"
+  }
+}
