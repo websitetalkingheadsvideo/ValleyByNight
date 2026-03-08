@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.206
+## Current Version: 0.9.207
+
+**Date:** 2026-03-08  
+**Type:** Patch (Style Agent MCP: inputSchema for tools, MCP tools/call result format with content/isError)
+
+## Previous Version: 0.9.206
 
 **Date:** 2026-03-08  
 **Type:** Patch (Git sync: Cloudflare DDNS and admin scripts; api-tools cloudflare_ddns, README and proxy status updates)

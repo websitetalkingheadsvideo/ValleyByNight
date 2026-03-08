@@ -1,0 +1,12 @@
+Generated: 2026-03-08
+Source prompt file: reference/Characters/Image_Prompts/Dr_Margaret_Ashford_prompt.txt
+Model: fal-ai/flux-2/flash (via 速推AI MCP)
+
+FINAL_PROMPT_USED:
+Square portrait of Dr. Margaret Ashford, Tremere scholar, candid cinematic moment, World of Darkness style, captured mid-thought, observed not staged, 1:1 aspect ratio. Victorian scholar woman, impeccably groomed, tailored dove-gray traveling suit, high-collared blouse with subtle lace trim, raven hair in precise chignon, cold blue eyes, gilt spectacles catching light, wearing leather gloves, ramrod straight posture, sharp intelligent features, scholarly bearing. Nighttime interior scene, Victorian study or library, candlelight and oil lamps, shaded electric lamps, no daylight, dark curtained windows, deeper shadows, slightly underlit exposure, moody dramatic lighting, medium-high contrast, single warm key light source (muted gold amber), soft fill light, volumetric lighting, dust particles, soft haze, shallow depth of field, blurred background. Dove-gray suit, muted gold amber accents, cool teal shadows, subtle crimson hints, low to medium saturation, cinematic warm-cool color grading. Elegant restraint, poised diplomatic authoritative presence, scholarly focus, underlying emotional tension, slight unease, distant look, perfectionist nature, Victorian propriety, intellectual strain, concentration interrupted, hint of fatigue tension guardedness, beauty incidental, private intimate scene, film-still atmosphere, slightly imperfect framing, mid-motion posture, partially obscured elements. Semi-realistic digital painting, painterly realism, sharp eyes and face, World of Darkness cinematic realism, noir-inspired elegant emotional subdued, film-still quality. Gilt spectacles, leather-bound journals, quills, warding implements, occult texts, protective magic, faint glyphs symbols in background, Victorian academic accessories, research materials, obsessive symmetry.
+
+NEGATIVE_PROMPT (from source file, not sent to API):
+glamour lighting, fantasy illustration polish, idealized symmetry, book cover, character sheet, posed portrait, daylight, skylight, blue sky, soft studio illumination, flat lighting, excessive sharpness, overly bright, saturated scenes, comedic, cartoon, anime, 3d render, cgi, photorealistic, hyperrealistic, perfect symmetry, centered composition, bright colors, high saturation, studio lighting, professional photography, glamour shot
+
+Image URL: https://v3b.fal.media/files/b/0a9154e7/goGI6AH5p9vFTRlL16gn3_ia4D1fMQ.png
+Dimensions: 1024×1024

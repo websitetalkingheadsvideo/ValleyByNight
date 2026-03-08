@@ -41,6 +41,10 @@
       "headers": {
         "Authorization": "Bearer sbp_9044dc0232802fdce8e6666aabf5482c5836d407"
       }
+    },
+    "cloudflare-ai-search": {
+      "type": "http",
+      "url": "https://autorag.mcp.cloudflare.com/mcp"
     }
   }
 }

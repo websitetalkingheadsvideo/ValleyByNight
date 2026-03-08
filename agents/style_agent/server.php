@@ -41,6 +41,27 @@ function mcp_respond($id, $result = null, $error = null): void {
 }
 
 /**
+ * Wrap tool result for MCP tools/call: result must have content[] and isError.
+ * For ok results that contain a 'content' string (e.g. getChapter, getRules, getPrompts), use that as text.
+ */
+function mcp_tool_result(array $raw): array {
+    $isError = !isset($raw['ok']) || $raw['ok'] !== true;
+    if ($isError) {
+        $text = $raw['error'] ?? json_encode($raw, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
+    } elseif (isset($raw['content']) && is_string($raw['content'])) {
+        $text = $raw['content'];
+    } else {
+        $text = json_encode($raw, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
+    }
+    return [
+        'content' => [
+            ['type' => 'text', 'text' => $text]
+        ],
+        'isError' => $isError
+    ];
+}
+
+/**
  * Get MCP base path from database
  */
 function get_mcp_path(): string {
@@ -315,7 +336,7 @@ try {
             mcp_respond($id, [
                 'protocolVersion' => '2024-11-05',
                 'capabilities' => [
-                    'tools' => []
+                    'tools' => new \stdClass()
                 ],
                 'serverInfo' => [
                     'name' => 'vbn-style-agent-mcp',
@@ -335,12 +356,60 @@ try {
         if ($method === 'tools/list') {
             mcp_respond($id, [
                 'tools' => [
-                    ['name' => 'getMCPInfo', 'description' => 'Get Style Agent MCP metadata'],
-                    ['name' => 'getChapter', 'description' => 'Load a specific Art Bible chapter'],
-                    ['name' => 'listChapters', 'description' => 'List all available Art Bible chapters'],
-                    ['name' => 'getRules', 'description' => 'Load the RULES.md file'],
-                    ['name' => 'getPrompts', 'description' => 'Load the PROMPTS.md file'],
-                    ['name' => 'searchArtBible', 'description' => 'Search across Art Bible chapter files']
+                    [
+                        'name' => 'getMCPInfo',
+                        'description' => 'Get Style Agent MCP metadata from database',
+                        'inputSchema' => [
+                            'type' => 'object',
+                            'properties' => new \stdClass()
+                        ]
+                    ],
+                    [
+                        'name' => 'getChapter',
+                        'description' => 'Load a specific Art Bible chapter file',
+                        'inputSchema' => [
+                            'type' => 'object',
+                            'properties' => [
+                                'chapter_file' => ['type' => 'string', 'description' => 'Filename of the chapter (e.g. Colors.md)']
+                            ],
+                            'required' => ['chapter_file']
+                        ]
+                    ],
+                    [
+                        'name' => 'listChapters',
+                        'description' => 'List all available Art Bible chapters',
+                        'inputSchema' => [
+                            'type' => 'object',
+                            'properties' => new \stdClass()
+                        ]
+                    ],
+                    [
+                        'name' => 'getRules',
+                        'description' => 'Load the RULES.md file',
+                        'inputSchema' => [
+                            'type' => 'object',
+                            'properties' => new \stdClass()
+                        ]
+                    ],
+                    [
+                        'name' => 'getPrompts',
+                        'description' => 'Load the PROMPTS.md file',
+                        'inputSchema' => [
+                            'type' => 'object',
+                            'properties' => new \stdClass()
+                        ]
+                    ],
+                    [
+                        'name' => 'searchArtBible',
+                        'description' => 'Search across Art Bible chapter files',
+                        'inputSchema' => [
+                            'type' => 'object',
+                            'properties' => [
+                                'query' => ['type' => 'string', 'description' => 'Search query string']
+                            ],
+                            'required' => ['query']
+                        ]
+                    ]
                 ]
             ]);
             continue;
@@ -351,7 +420,7 @@ try {
             $toolName = $params['name'] ?? null;
             $input = $params['arguments'] ?? [];
             
-            try {
+                try {
                 switch ($toolName) {
                     case 'getMCPInfo':
                         $result = tool_getMCPInfo($input);
@@ -376,9 +445,9 @@ try {
                         continue 2;
                 }
                 
-                mcp_respond($id, $result);
+                mcp_respond($id, mcp_tool_result($result));
             } catch (Throwable $e) {
-                mcp_respond($id, null, ['code' => -32603, 'message' => 'Internal error: ' . $e->getMessage()]);
+                mcp_respond($id, mcp_tool_result(['ok' => false, 'error' => 'Internal error: ' . $e->getMessage()]));
             }
             continue;
         }
@@ -423,9 +492,9 @@ try {
                 continue 2;
         }
         
-        mcp_respond($id, $result);
+        mcp_respond($id, mcp_tool_result($result));
     } catch (Throwable $e) {
-        mcp_respond($id, null, ['code' => -32603, 'message' => 'Server error: ' . $e->getMessage()]);
+        mcp_respond($id, mcp_tool_result(['ok' => false, 'error' => 'Server error: ' . $e->getMessage()]));
     }
     }
 } catch (Throwable $e) {
