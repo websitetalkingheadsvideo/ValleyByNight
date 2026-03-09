@@ -3,28 +3,26 @@
     "laws-agent": {
       "command": "node",
       "args": [
-        "V:\\agents\\laws_agent\\scripts\\mcp_laws_agent_v3.js"
+        "V:\\agents\\laws_agent_v3\\scripts\\mcp_laws_agent_v3.js"
       ],
       "env": {
         "ANTHROPIC_API_KEY": "${env:ANTHROPIC_API_KEY}",
         "ANTHROPIC_MODEL": "${env:ANTHROPIC_MODEL}",
-        "CF_ACCOUNT_ID": "${env:CF_ACCOUNT_ID}",
-        "CF_AUTORAG_NAME": "${env:CF_AUTORAG_NAME}",
-        "CF_API_TOKEN": "${env:CF_API_TOKEN}",
+        "CLOUDFLARE_API_TOKEN": "${env:CLOUDFLARE_API_TOKEN}",
+        "LAWS_AGENT_RAG_ID": "${env:LAWS_AGENT_RAG_ID}",
         "LAWS_AGENT_URL": "http://192.168.0.155/"
       }
     },
     "laws-agent-v3": {
       "command": "node",
       "args": [
-        "V:\\agents\\laws_agent\\scripts\\mcp_laws_agent_v3.js"
+        "V:\\agents\\laws_agent_v3\\scripts\\mcp_laws_agent_v3.js"
       ],
       "env": {
         "ANTHROPIC_API_KEY": "${env:ANTHROPIC_API_KEY}",
         "ANTHROPIC_MODEL": "${env:ANTHROPIC_MODEL}",
-        "CF_ACCOUNT_ID": "${env:CF_ACCOUNT_ID}",
-        "CF_AUTORAG_NAME": "${env:CF_AUTORAG_NAME}",
-        "CF_API_TOKEN": "${env:CF_API_TOKEN}"
+        "CLOUDFLARE_API_TOKEN": "${env:CLOUDFLARE_API_TOKEN}",
+        "LAWS_AGENT_RAG_ID": "${env:LAWS_AGENT_RAG_ID}"
       }
     },
     "context7": {

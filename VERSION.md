@@ -1,14 +1,14 @@
 # Version History
 
-## Current Version: 0.9.210
+## Current Version: 0.9.211
+
+**Date:** 2026-03-09  
+**Type:** Patch (git sync: laws-agent v3 MCP path/env updates, new rulebook PDFs, and cleaned markdown imports)
+
+## Previous Version: 0.9.210
 
 **Date:** 2026-03-08  
 **Type:** Patch (git sync: Supabase-only cleanup, legacy script pruning, docs/rules updates, route/runtime fixes)
-
-## Previous Version: 0.9.209
-
-**Date:** 2026-03-08  
-**Type:** Patch (legacy SQL removal, Supabase-only: connect.php stub, admin/agents/tools migrated; envato→Supabase; docs and rules)
 ## Previous Version: 0.9.208
 
 **Date:** 2026-03-08  
