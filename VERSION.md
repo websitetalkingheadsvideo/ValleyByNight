@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.212
+## Current Version: 0.9.213
+
+**Date:** 2026-03-09  
+**Type:** Patch (git sync: restore Laws_of_the_Night clan markdown files)
+
+## Previous Version: 0.9.212
 
 **Date:** 2026-03-09  
 **Type:** Patch (git sync: laws-agent v3 README, MCP env/path fixes, and sync)
