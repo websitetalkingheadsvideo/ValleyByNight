@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.211
+## Current Version: 0.9.212
+
+**Date:** 2026-03-09  
+**Type:** Patch (git sync: laws-agent v3 README, MCP env/path fixes, and sync)
+
+## Previous Version: 0.9.211
 
 **Date:** 2026-03-09  
 **Type:** Patch (git sync: laws-agent v3 MCP path/env updates, new rulebook PDFs, and cleaned markdown imports)

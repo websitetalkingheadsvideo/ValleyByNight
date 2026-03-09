@@ -9,21 +9,14 @@
         "ANTHROPIC_API_KEY": "${env:ANTHROPIC_API_KEY}",
         "ANTHROPIC_MODEL": "${env:ANTHROPIC_MODEL}",
         "CLOUDFLARE_API_TOKEN": "${env:CLOUDFLARE_API_TOKEN}",
-        "LAWS_AGENT_RAG_ID": "${env:LAWS_AGENT_RAG_ID}",
+        "CF_ACCOUNT_ID": "76b8ec41079de44fa4c882753cb0f5e6",
+        "CF_AUTORAG_NAME": "ai-search-laws-agent",
         "LAWS_AGENT_URL": "http://192.168.0.155/"
       }
     },
     "laws-agent-v3": {
-      "command": "node",
-      "args": [
-        "V:\\agents\\laws_agent_v3\\scripts\\mcp_laws_agent_v3.js"
-      ],
-      "env": {
-        "ANTHROPIC_API_KEY": "${env:ANTHROPIC_API_KEY}",
-        "ANTHROPIC_MODEL": "${env:ANTHROPIC_MODEL}",
-        "CLOUDFLARE_API_TOKEN": "${env:CLOUDFLARE_API_TOKEN}",
-        "LAWS_AGENT_RAG_ID": "${env:LAWS_AGENT_RAG_ID}"
-      }
+      "type": "http",
+      "url": "https://autorag.mcp.cloudflare.com/mcp"
     },
     "context7": {
       "command": "npx",
